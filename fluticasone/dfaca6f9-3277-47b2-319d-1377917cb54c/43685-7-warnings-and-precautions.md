@@ -226,40 +226,40 @@ This information is intended to aid them in the safe and effective use of this m
 It is not a disclosure of all possible adverse or intended effects.
 It is important that patients understand how to use ADVAIR HFA in relation to other asthma medications they are taking.
 
-1. Patients should be informed that salmeterol, one of the active ingredients in ADVAIR HFA, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+1. 1.Patients should be informed that salmeterol, one of the active ingredients in ADVAIR HFA, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
    They should also be informed that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.
-2. ADVAIR HFA is not meant to relieve acute asthma symptoms and extra doses should not be used for that purpose.
+2. 2.ADVAIR HFA is not meant to relieve acute asthma symptoms and extra doses should not be used for that purpose.
    Acute symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
    The physician should provide the patient with such medication and instruct the patient in how it should be used.
-3. The physician should be notified immediately if any of the following signs of seriously worsening asthma occur:
-   - decreasing effectiveness of inhaled, short-acting beta2-agonists;
-   - need for more inhalations than usual of inhaled, short-acting beta2-agonists;
-   - significant decrease in lung function as outlined by the physician.
-4. Patients should not stop therapy with ADVAIR HFA without physician/provider guidance since symptoms may recur after discontinuation.
-5. Patients should be cautioned regarding common adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
-6. Long-term use of inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR HFA, may increase the risk of some eye problems (cataracts or glaucoma).
+3. 3.The physician should be notified immediately if any of the following signs of seriously worsening asthma occur:
+   - ∘decreasing effectiveness of inhaled, short-acting beta2-agonists;
+   - ∘need for more inhalations than usual of inhaled, short-acting beta2-agonists;
+   - ∘significant decrease in lung function as outlined by the physician.
+4. 4.Patients should not stop therapy with ADVAIR HFA without physician/provider guidance since symptoms may recur after discontinuation.
+5. 5.Patients should be cautioned regarding common adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
+6. 6.Long-term use of inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR HFA, may increase the risk of some eye problems (cataracts or glaucoma).
    Regular eye examinations should be considered.
-7. When patients are prescribed ADVAIR HFA, other medications for asthma should be used only as directed by the physician.
-8. Patients who are pregnant or nursing should contact the physician about the use of ADVAIR HFA.
-9. Patients should use ADVAIR HFA at regular intervals as directed.
+7. 7.When patients are prescribed ADVAIR HFA, other medications for asthma should be used only as directed by the physician.
+8. 8.Patients who are pregnant or nursing should contact the physician about the use of ADVAIR HFA.
+9. 9.Patients should use ADVAIR HFA at regular intervals as directed.
    Results of clinical trials indicated significant improvement may occur within the first 30 minutes of taking the first dose; however, the full benefit may not be achieved until treatment has been administered for 1 week or longer.
    The patient should not use more than the prescribed dosage but should contact the physician if symptoms do not improve or if the condition worsens.
-10. The bronchodilation from a single dose of ADVAIR HFA may last up to 12 hours or longer.
+10. 10.The bronchodilation from a single dose of ADVAIR HFA may last up to 12 hours or longer.
     The recommended dosage (2 inhalations twice daily, morning and evening) should not be exceeded.
     Patients who are receiving ADVAIR HFA twice daily should not use salmeterol or other inhaled LABAs (e.g., formoterol) for prevention of EIB or treatment of asthma.
-11. Patients should be warned to avoid exposure to chickenpox or measles and, if they are exposed to consult the physician without delay.
-12. Prime the inhaler before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
+11. 11.Patients should be warned to avoid exposure to chickenpox or measles and, if they are exposed to consult the physician without delay.
+12. 12.Prime the inhaler before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
     In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by releasing 2 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
-13. After inhalation, rinse the mouth with water and spit out.
+13. 13.After inhalation, rinse the mouth with water and spit out.
     Do not swallow.
-14. Clean the inhaler at least once a week after the evening dose.
+14. 14.Clean the inhaler at least once a week after the evening dose.
     Keeping the canister and plastic actuator clean is important to prevent medicine buildup.
     (See the cleaning instructions in the “How to use your ADVAIR HFA” section of the Medication Guide tear-off leaflet.)
-15. Use ADVAIR HFA only with the actuator supplied with the product.
+15. 15.Use ADVAIR HFA only with the actuator supplied with the product.
     When the counter reads 020, contact the pharmacist for a refill of medication or consult the physician to determine whether a prescription refill is needed.
     Discard the inhaler when the counter reads 000.
     Never try to alter the numbers or remove the counter from the metal canister.
-16. For important summary information and instructions for the proper use of ADVAIR HFA, the patient should carefully read and follow the Medication Guide tear-off leaflet.
+16. 16.For important summary information and instructions for the proper use of ADVAIR HFA, the patient should carefully read and follow the Medication Guide tear-off leaflet.
 
 ## Drug Interactions
 

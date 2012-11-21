@@ -20,32 +20,31 @@ What is the most important information I should know about ADVAIR HFA?
 
 ADVAIR HFA can cause serious side effects, including:
 
-1. People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines, such as salmeterol (one of the medicines in ADVAIR HFA), have an increased risk of death from asthma problems.
+1. 1.People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines, such as salmeterol (one of the medicines in ADVAIR HFA), have an increased risk of death from asthma problems.
    It is not known whether fluticasone propionate, the other medicine in ADVAIR HFA, reduces the risk of death from asthma problems seen with salmeterol.
-   - Call your healthcare provider if breathing problems worsen over time while using ADVAIR HFA.
+   - ∘Call your healthcare provider if breathing problems worsen over time while using ADVAIR HFA.
      You may need different treatment.
-   - Get emergency medical care if:
-     - breathing problems worsen quickly and
-     - you use your rescue inhaler medicine, but it does not relieve your breathing problems.
-2. ADVAIR HFA should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as inhaled corticosteroids.
-3. When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR HFA.
+   - ∘Get emergency medical care if:
+     - ▪breathing problems worsen quickly and
+     - ▪you use your rescue inhaler medicine, but it does not relieve your breathing problems.
+2. 2.ADVAIR HFA should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as inhaled corticosteroids.
+3. 3.When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR HFA.
    Your healthcare provider will decide if you can stop ADVAIR HFA without loss of asthma control.
    Your healthcare provider may prescribe a different long-term asthma control medicine for you, such as an inhaled corticosteroid.
-4. Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
+4. 4.Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
 
 What is ADVAIR HFA?
 
-- ADVAIR HFA combines an inhaled corticosteroid medicine, fluticasone propionate (the same medicine found in FLOVENT®), and a LABA medicine, salmeterol (the same medicine found in SEREVENT®).
-  - Inhaled corticosteroids help to decrease inflammation in the lungs.
+- •ADVAIR HFA combines an inhaled corticosteroid medicine, fluticasone propionate (the same medicine found in FLOVENT®), and a LABA medicine, salmeterol (the same medicine found in SEREVENT®).
+  - ∘Inhaled corticosteroids help to decrease inflammation in the lungs.
     Inflammation in the lungs can lead to asthma symptoms.
-  - LABA medicines are used in people with asthma and chronic obstructive pulmonary disease (COPD).
+  - ∘LABA medicines are used in people with asthma and chronic obstructive pulmonary disease (COPD).
     LABA medicines help the muscles around the airways in your lungs stay relaxed to prevent symptoms, such as wheezing and shortness of breath.
     These symptoms can happen when the muscles around the airways tighten.
     This makes it hard to breathe.
     In severe cases, wheezing can stop your breathing and cause death if not treated right away.
-
-- ADVAIR HFA is used to control symptoms of asthma and to prevent symptoms such as wheezing in adults and children aged 12 years and older.
-- ADVAIR HFA contains salmeterol (the same medicine found in SEREVENT).
+- •ADVAIR HFA is used to control symptoms of asthma and to prevent symptoms such as wheezing in adults and children aged 12 years and older.
+- •ADVAIR HFA contains salmeterol (the same medicine found in SEREVENT).
   LABA medicines, such as salmeterol, increase the risk of death from asthma problems.
 
 ADVAIR HFA is not for adults and children with asthma who are well controlled with an asthma control medicine, such as a low to medium dose of an inhaled corticosteroid medicine.
@@ -54,28 +53,28 @@ Who should not use ADVAIR HFA?
 
 Do not use ADVAIR HFA:
 
-- to treat sudden, severe symptoms of asthma and
-- if you are allergic to any of the ingredients in ADVAIR HFA.
+- •to treat sudden, severe symptoms of asthma and
+- •if you are allergic to any of the ingredients in ADVAIR HFA.
   See the end of this Medication Guide for a list of ingredients in ADVAIR HFA.
 
 What should I tell my healthcare provider before using ADVAIR HFA?
 
 Tell your healthcare provider about all of your health conditions, including if you:
 
-- have heart problems
-- have high blood pressure
-- have seizures
-- have thyroid problems
-- have diabetes
-- have liver problems
-- have osteoporosis
-- have an immune system problem
-- are pregnant or planning to become pregnant.
+- •have heart problems
+- •have high blood pressure
+- •have seizures
+- •have thyroid problems
+- •have diabetes
+- •have liver problems
+- •have osteoporosis
+- •have an immune system problem
+- •are pregnant or planning to become pregnant.
   It is not known if ADVAIR HFA may harm your unborn baby.
-- are breastfeeding.
+- •are breastfeeding.
   It is not known if ADVAIR HFA passes into your milk and if it can harm your baby.
-- are allergic to ADVAIR HFA or any other medicines
-- are exposed to chickenpox or measles
+- •are allergic to ADVAIR HFA or any other medicines
+- •are exposed to chickenpox or measles
 
 Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
 ADVAIR HFA and certain other medicines may interact with each other.
@@ -92,83 +91,83 @@ See the step-by-step instructions for using ADVAIR HFA at the end of this Medica
 Do not use ADVAIR HFA unless your healthcare provider has taught you and you understand everything.
 Ask your healthcare provider or pharmacist if you have any questions.
 
-- Use ADVAIR HFA exactly as prescribed.
+- •Use ADVAIR HFA exactly as prescribed.
   Do not use ADVAIR HFA more often than prescribed.
   ADVAIR HFA comes in 3 strengths.
   Your healthcare provider has prescribed the one that is best for your condition.
-- The usual dosage of ADVAIR HFA is 2 inhalations 2 times each day (morning and evening).
+- •The usual dosage of ADVAIR HFA is 2 inhalations 2 times each day (morning and evening).
   The 2 doses should be about 12 hours apart.
   Rinse your mouth with water after using ADVAIR HFA.
-- If you miss a dose of ADVAIR HFA, just skip that dose.
+- •If you miss a dose of ADVAIR HFA, just skip that dose.
   Take your next dose at your usual time.
   Do not take 2 doses at one time.
-- While you are using ADVAIR HFA 2 times each day, do not use other medicines that contain a LABA for any reason.
+- •While you are using ADVAIR HFA 2 times each day, do not use other medicines that contain a LABA for any reason.
   Ask your healthcare provider or pharmacist if any of your other medicines are LABA medicines.
-- Do not stop using ADVAIR HFA or other asthma medicines unless told to do so by your healthcare provider because your symptoms might get worse.
+- •Do not stop using ADVAIR HFA or other asthma medicines unless told to do so by your healthcare provider because your symptoms might get worse.
   Your healthcare provider will change your medicines as needed.
-- ADVAIR HFA does not relieve sudden symptoms.
+- •ADVAIR HFA does not relieve sudden symptoms.
   Always have a rescue inhaler medicine with you to treat sudden symptoms.
   If you do not have an inhaled, short-acting bronchodilator, call your healthcare provider to have one prescribed for you.
-- Call your healthcare provider or get medical care right away if:
-  - your breathing problems worsen with ADVAIR HFA
-  - you need to use your rescue inhaler medicine more often than usual
-  - your rescue inhaler medicine does not work as well for you at relieving symptoms
-  - you need to use 4 or more inhalations of your rescue inhaler medicine for 2 or more days in a row
-  - you use 1 whole canister of your rescue inhaler medicine in 8 weeks’ time
-  - your peak flow meter results decrease.
+- •Call your healthcare provider or get medical care right away if:
+  - ∘your breathing problems worsen with ADVAIR HFA
+  - ∘you need to use your rescue inhaler medicine more often than usual
+  - ∘your rescue inhaler medicine does not work as well for you at relieving symptoms
+  - ∘you need to use 4 or more inhalations of your rescue inhaler medicine for 2 or more days in a row
+  - ∘you use 1 whole canister of your rescue inhaler medicine in 8 weeks’ time
+  - ∘your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
-  - you have asthma and your symptoms do not improve after using ADVAIR HFA regularly for 1 week
+  - ∘you have asthma and your symptoms do not improve after using ADVAIR HFA regularly for 1 week
 
 What are the possible side effects with ADVAIR HFA?
 
 ADVAIR HFA can cause serious side effects, including:
 
-- See “What is the most important information I should know about ADVAIR HFA?”
-- serious allergic reactions.
+- •See “What is the most important information I should know about ADVAIR HFA?”
+- •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - rash
-  - hives
-  - swelling of the face, mouth, and tongue
-  - breathing problems
-- sudden breathing problems immediately after inhaling your medicine
-- effects on heart
-  - increased blood pressure
-  - a fast and irregular heartbeat
-  - chest pain
-- effects on nervous system
-  - tremor
-  - nervousness
-- reduced adrenal function (may result in loss of energy)
-- changes in blood (sugar, potassium, certain types of white blood cells)
-- weakened immune system and a higher chance of infections
-- lower bone mineral density.
+  - ∘rash
+  - ∘hives
+  - ∘swelling of the face, mouth, and tongue
+  - ∘breathing problems
+- •sudden breathing problems immediately after inhaling your medicine
+- •effects on heart
+  - ∘increased blood pressure
+  - ∘a fast and irregular heartbeat
+  - ∘chest pain
+- •effects on nervous system
+  - ∘tremor
+  - ∘nervousness
+- •reduced adrenal function (may result in loss of energy)
+- •changes in blood (sugar, potassium, certain types of white blood cells)
+- •weakened immune system and a higher chance of infections
+- •lower bone mineral density.
   This may be a problem for people who already have a higher chance of low bone density (osteoporosis).
-- eye problems including glaucoma and cataracts.
+- •eye problems including glaucoma and cataracts.
   You should have regular eye exams while using ADVAIR HFA.
-- slowed growth in children.
+- •slowed growth in children.
   A child’s growth should be checked often.
-- throat tightness
-- pneumonia.
+- •throat tightness
+- •pneumonia.
   ADVAIR HFA contains the same medicine found in ADVAIR DISKUS®.
   ADVAIR DISKUS is used to treat people with asthma and people with chronic obstructive pulmonary disease (COPD).
   People with COPD have a higher chance of getting pneumonia.
   ADVAIR DISKUS may increase the chance of getting pneumonia.
   ADVAIR HFA has not been studied in people with COPD.
   Call your healthcare provider if you notice any of the following symptoms:
-  - increase in mucus (sputum) production
-  - change in mucus color
-  - fever
-  - chills
-  - increased cough
-  - increased breathing problems
+  - ∘increase in mucus (sputum) production
+  - ∘change in mucus color
+  - ∘fever
+  - ∘chills
+  - ∘increased cough
+  - ∘increased breathing problems
 
 Common side effects of ADVAIR HFA include:
 
-- upper respiratory tract infection
-- headache
-- throat irritation
-- musculoskeletal pain
-- nausea and vomiting
+- •upper respiratory tract infection
+- •headache
+- •throat irritation
+- •musculoskeletal pain
+- •nausea and vomiting
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -180,12 +179,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store ADVAIR HFA?
 
-- Store at room temperature with the mouthpiece down.
-- Contents Under Pressure: Do not puncture.
+- •Store at room temperature with the mouthpiece down.
+- •Contents Under Pressure: Do not puncture.
   Do not use or store near heat or open flame.
   Exposure to temperatures above 120°F may cause bursting.
-- Do not throw into fire or an incinerator.
-- Keep ADVAIR HFA and all medicines out of the reach of children.
+- •Do not throw into fire or an incinerator.
+- •Keep ADVAIR HFA and all medicines out of the reach of children.
 
 General Information about ADVAIR HFA
 
@@ -287,10 +286,10 @@ Put the cap back on the mouthpiece after every time you use the inhaler, and mak
 
 When to replace your ADVAIR HFA:
 
-- When the counter reads 020, you should refill your prescription or ask your doctor if you need another prescription for ADVAIR HFA.
-- Throw the inhaler away when the counter reads 000.
+- •When the counter reads 020, you should refill your prescription or ask your doctor if you need another prescription for ADVAIR HFA.
+- •Throw the inhaler away when the counter reads 000.
   You should not keep using the inhaler when the counter reads 000 because you will not receive the right amount of medicine.
-- Do not use the inhaler after the expiration date, which is on the packaging it comes in.
+- •Do not use the inhaler after the expiration date, which is on the packaging it comes in.
 
 How to clean your ADVAIR HFA:
 
