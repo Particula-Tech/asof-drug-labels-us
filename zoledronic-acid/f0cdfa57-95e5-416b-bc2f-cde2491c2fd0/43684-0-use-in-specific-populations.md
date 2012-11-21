@@ -48,7 +48,7 @@ However, adverse reactions seen more commonly in pediatric patients included pyr
 These reactions, excluding arthralgia, occurred most frequently within 3 days after the first infusion and became less common with repeat dosing.
 Because of long-term retention in bone, Zometa should only be used in children if the potential benefit outweighs the potential risk.
 
-Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3-8 years and 6 in the age group of 9-17 years) infused with 0.05 mg/kg dose over 30 min. Mean Cmax and AUC(0-last) was 167 ng/mL and 220 ng.h/mL, respectively.
+Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3-8 years and 6 in the age group of 9-17 years) infused with 0.05 mg/kg dose over 30 min. Mean Cmax and AUC(0-last) was 167 ng/mL and 220 ng•h/mL, respectively.
 The plasma concentration time profile of zoledronic acid in pediatric patients represent a multi-exponential decline, as observed in adult cancer patients at an approximately equivalent mg/kg dose.
 
 ## 8.5 Geriatric Use

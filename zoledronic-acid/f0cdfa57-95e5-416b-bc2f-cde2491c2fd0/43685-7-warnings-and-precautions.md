@@ -44,14 +44,13 @@ Clinical judgment of the treating physician should guide the management plan of 
 
 ## 5.5 Musculoskeletal Pain
 
-In postmarketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates.
-This category of drugs includes Zometa.
+In postmarketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates, including Zometa.
 The time to onset of symptoms varied from one day to several months after starting the drug.
 Discontinue use if severe symptoms develop.
 Most patients had relief of symptoms after stopping.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate [see Adverse Reactions (6.2)].
 
-## 5.6 Atypical subtrochanteric and diaphyseal femoral fractures
+## 5.6 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
 Atypical subtrochanteric and diaphyseal femoral fractures have been reported in patients receiving bisphosphonate therapy, including Zometa.
 These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to just above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.

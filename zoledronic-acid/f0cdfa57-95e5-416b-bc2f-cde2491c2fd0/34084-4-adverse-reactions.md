@@ -15,11 +15,11 @@ Renal Toxicity
 
 Administration of Zometa 4 mg given as a 5-minute intravenous infusion has been shown to result in an increased risk of renal toxicity, as measured by increases in serum creatinine, which can progress to renal failure.
 The incidence of renal toxicity and renal failure has been shown to be reduced when Zometa 4 mg is given as a 15-minute intravenous infusion.
-Zometa should be administered by intravenous infusion over no less than 15 minutes [see Warnings And Precautions (5) and Dosage And Administration (2)].
+Zometa should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5) and Dosage and Administration (2)].
 
 The most frequently observed adverse events were fever, nausea, constipation, anemia, and dyspnea (see Table 4).
 
-Table 4 provides adverse events that were reported by 10% or more of the 189 patients treated with Zometa 4 mg or Pamidronate 90 mg from the two HCM trials.
+Table 4 provides adverse events that were reported by 10% or more of the 189 patients treated with Zometa 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse events are listed regardless of presumed causality to study drug.
 
 Table 4: Percentage of Patients with Adverse Events ≥10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
@@ -65,15 +65,14 @@ Table 4: Percentage of Patients with Adverse Events ≥10% Reported in Hypercalc
 | Urinary Tract Infection | 12 | (14) | 15 | (15) |
 
 The following adverse events from the two controlled multicenter HCM trials (n=189) were reported by a greater percentage of patients treated with Zometa 4 mg than with pamidronate 90 mg and occurred with a frequency of greater than or equal to 5% but less than 10%.
-Adverse events are listed regardless of presumed causality to study drug: Asthenia, chest pain, leg edema, mucositis, dysphagia, granulocytopenia, thrombocytopenia, pancytopenia, nonspecific infection, hypocalcemia, dehydration, arthralgias, headache and somnolence.
+Adverse events are listed regardless of presumed causality to study drug: asthenia, chest pain, leg edema, mucositis, dysphagia, granulocytopenia, thrombocytopenia, pancytopenia, nonspecific infection, hypocalcemia, dehydration, arthralgias, headache and somnolence.
 
 Rare cases of rash, pruritus, and chest pain have been reported following treatment with Zometa.
 
-Acute Phase Reaction-like Events
+Acute Phase Reaction
 
-Symptoms consistent with acute phase reaction (APR) can occur with intravenous bisphosphonate use.
-Fever has been the most commonly associated symptom, occurring in 44% of patients treated with Zometa 4 mg and 33% of patients treated with Pamidronate 90 mg.
-Occasionally, patients experience a flu-like syndrome consisting of fever, chills, flushing, bone pain and/or arthralgias, and myalgias.
+Within three days after Zometa administration, an acute phase reaction has commonly been reported in patients, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness; these symptoms usually resolve within a few days.
+Pyrexia has been the most commonly associated symptom, occurring in 44% of patients.
 
 Mineral and Electrolyte Abnormalities
 
@@ -120,7 +119,7 @@ However, cases have been seen in postmarketing use [see Adverse Reactions (6.2)]
 Multiple Myeloma and Bone Metastases of Solid Tumors
 
 The safety analysis includes patients treated in the core and extension phases of the trials.
-The analysis includes the 2,042 patients treated with Zometa 4 mg, pamidronate 90 mg, or placebo in the three controlled multicenter bone metastases trials, including 969 patients completing the efficacy phase of the trial, and 619 patients that continued in the safety extension phase.
+The analysis includes the 2042 patients treated with Zometa 4 mg, pamidronate 90 mg, or placebo in the three controlled multicenter bone metastases trials, including 969 patients completing the efficacy phase of the trial, and 619 patients that continued in the safety extension phase.
 Only 347 patients completed the extension phases and were followed for 2 years (or 21 months for the other solid tumor patients).
 The median duration of exposure for safety analysis for Zometa 4 mg (core plus extension phases) was 12.8 months for breast cancer and multiple myeloma, 10.8 months for prostate cancer, and 4.0 months for other solid tumors.
 
@@ -265,13 +264,18 @@ Cases of osteonecrosis (primarily involving the jaws) have been reported predomi
 Many of these patients were also receiving chemotherapy and corticosteroids which may be a risk factor for ONJ.
 Data suggests a greater frequency of reports of ONJ in certain cancers, such as advanced breast cancer and multiple myeloma.
 The majority of the reported cases are in cancer patients following invasive dental procedures, such as tooth extraction.
-It is therefore prudent to avoid invasive dental procedures as recovery may be prolonged [see Warnings And Precautions (5)].
+It is therefore prudent to avoid invasive dental procedures as recovery may be prolonged [see Warnings and Precautions (5)].
+
+Acute Phase Reaction
+
+Within three days after Zometa administration, an acute phase reaction has been reported, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness; these symptoms usually resolve within three days of onset, but resolution could take up to 7 to 14 days.
+However, some of these symptoms have been reported to persist for a longer duration.
 
 Musculoskeletal Pain
 
-Severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings And Precautions (5)].
+Severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings and Precautions (5)].
 
-Atypical subtrochanteric and diaphyseal femoral fractures
+Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
 Atypical subtrochanteric and diaphyseal femoral fractures have been reported with bisphosphonate therapy, including Zometa [see Warnings and Precautions (5.6)].
 
@@ -282,9 +286,9 @@ In some cases, symptoms resolved with topical steroids.
 
 Hypersensitivity Reactions
 
-There have been rare reports of allergic reaction with intravenous zoledronic acid including angioedema, and bronchoconstriction.
+There have been rare reports of allergic reaction with intravenous zoledronic acid including angioedema and bronchoconstriction.
 Very rare cases of anaphylactic reaction/shock have also been reported.
 
 Additional adverse reactions reported in postmarketing use include:
 
-CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchoconstriction; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia.
+CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD); Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia.

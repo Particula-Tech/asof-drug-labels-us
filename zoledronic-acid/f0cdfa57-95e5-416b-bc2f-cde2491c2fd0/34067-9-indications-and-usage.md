@@ -11,4 +11,4 @@ Prostate cancer should have progressed after treatment with at least one hormona
 
 ## 1.3 Important Limitation of Use
 
-The safety and efficacy of Zometa in the treatment of hypercalcemia associated with hyperparathyroidism or with other nontumor-related conditions has not been established.
+The safety and efficacy of Zometa in the treatment of hypercalcemia associated with hyperparathyroidism or with other nontumor-related conditions have not been established.

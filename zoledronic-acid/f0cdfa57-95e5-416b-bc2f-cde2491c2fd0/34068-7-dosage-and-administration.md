@@ -10,7 +10,7 @@ Patients who receive Zometa should have serum creatinine assessed prior to each 
 
 Dose adjustments of Zometa are not necessary in treating patients for hypercalcemia of malignancy presenting with mild-to-moderate renal impairment prior to initiation of therapy (serum creatinine less than 400 µmol/L or less than 4.5 mg/dL).
 
-Patients should be adequately rehydrated prior to administration of Zometa [see Warnings And Precautions (5.2)].
+Patients should be adequately rehydrated prior to administration of Zometa [see Warnings and Precautions (5.2)].
 
 Consideration should be given to the severity of, as well as the symptoms of, tumor-induced hypercalcemia when considering use of Zometa.
 Vigorous saline hydration, an integral part of hypercalcemia therapy, should be initiated promptly and an attempt should be made to restore the urine output to about 2 L/day throughout treatment.
@@ -20,7 +20,7 @@ Diuretic therapy should not be employed prior to correction of hypovolemia.
 
 Retreatment with Zometa 4 mg may be considered if serum calcium does not return to normal or remain normal after initial treatment.
 It is recommended that a minimum of 7 days elapse before retreatment, to allow for full response to the initial dose.
-Renal function must be carefully monitored in all patients receiving Zometa and serum creatinine must be assessed prior to retreatment with Zometa [see Warnings And Precautions (5.2)].
+Renal function must be carefully monitored in all patients receiving Zometa and serum creatinine must be assessed prior to retreatment with Zometa [see Warnings and Precautions (5.2)].
 
 ## 2.2 Multiple Myeloma and Metastatic Bone Lesions of Solid Tumors
 
@@ -29,7 +29,7 @@ The optimal duration of therapy is not known.
 
 Upon treatment initiation, the recommended Zometa doses for patients with reduced renal function (mild and moderate renal impairment) are listed in Table 1.
 These doses are calculated to achieve the same AUC as that achieved in patients with creatinine clearance of 75 mL/min.
-Creatinine clearance (CrCl) is calculated using the Cockcroft-Gault formula [see Warnings And Precautions (5.2)].
+Creatinine clearance (CrCl) is calculated using the Cockcroft-Gault formula [see Warnings and Precautions (5.2)].
 
 Table 1: Reduced Doses for Patients with Baseline CrCl less than or equal to 60 mL/min
 
@@ -53,7 +53,7 @@ Patients should also be administered an oral calcium supplement of 500 mg and a 
 
 Zometa must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer’s solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
 
-4 mg / 100 mL Single-Use Ready-to-Use Bottle
+4 mg/100 mL Single-Use Ready-to-Use Bottle
 
 Bottles of Zometa ready-to-use solution for infusion contain overfill allowing for the administration of 100 mL of solution (equivalent to 4 mg zoledronic acid).
 This solution is ready-to-use and may be administered directly to the patient without further preparation.
@@ -76,7 +76,7 @@ If not used immediately after dilution with infusion media, for microbiological 
 The refrigerated solution should then be equilibrated to room temperature prior to administration.
 The total time between dilution, storage in the refrigerator, and end of administration must not exceed 24 hours.
 
-4 mg / 5 mL Single-Use Vial
+4 mg/5 mL Single-Use Vial
 
 Vials of Zometa concentrate for infusion contain overfill allowing for the withdrawal of 5 mL of concentrate (equivalent to 4 mg zoledronic acid).
 This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.
@@ -100,6 +100,6 @@ The total time between dilution, storage in the refrigerator, and end of adminis
 
 ## 2.4 Method of Administration
 
-Due to the risk of clinically significant deterioration in renal function, which may progress to renal failure, single doses of Zometa should not exceed 4 mg and the duration of infusion should be no less than 15 minutes [see Warnings And Precautions (5.2)].
+Due to the risk of clinically significant deterioration in renal function, which may progress to renal failure, single doses of Zometa should not exceed 4 mg and the duration of infusion should be no less than 15 minutes [see Warnings and Precautions (5.3)].
 In the trials and in postmarketing experience, renal deterioration, progression to renal failure and dialysis, have occurred in patients, including those treated with the approved dose of 4 mg infused over 15 minutes.
 There have been instances of this occurring after the initial Zometa dose.

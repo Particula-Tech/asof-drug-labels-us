@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-In-vitro studies indicate that zoledronic acid is approximately 22% bound to plasma proteins.
+In-vitro studies indicate that the plasma protein binding of zoledronic acid is low, with the unbound fraction ranging from 60-77%.
 In-vitro studies also indicate that zoledronic acid does not inhibit microsomal CYP450 enzymes.
 In-vivo studies showed that zoledronic acid is not metabolized, and is excreted into the urine as the intact drug.
 

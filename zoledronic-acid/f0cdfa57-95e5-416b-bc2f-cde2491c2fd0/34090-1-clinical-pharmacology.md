@@ -27,7 +27,7 @@ Tumors commonly associated with locally mediated hypercalcemia include breast ca
 
 Total serum calcium levels in patients who have hypercalcemia of malignancy may not reflect the severity of hypercalcemia, since concomitant hypoalbuminemia is commonly present.
 Ideally, ionized calcium levels should be used to diagnose and follow hypercalcemic conditions; however, these are not commonly or rapidly available in many clinical situations.
-Therefore, adjustment of the total serum calcium value for differences in albumin levels (corrected serum calcium, CSC) is often used in place of measurement of ionized calcium; several nomograms are in use for this type of calculation [see Dosage And Administration (2)].
+Therefore, adjustment of the total serum calcium value for differences in albumin levels (corrected serum calcium, CSC) is often used in place of measurement of ionized calcium; several nomograms are in use for this type of calculation [see Dosage and Administration (2)].
 
 ## 12.3 Pharmacokinetics
 
@@ -41,8 +41,8 @@ The terminal elimination phase of zoledronic acid was prolonged, with very low c
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2-16 mg.
 The accumulation of zoledronic acid measured over three cycles was low, with mean AUC0-24h ratios for cycles 2 and 3 versus 1 of 1.13 ± 0.30 and 1.16 ± 0.36, respectively.
 
-In-vitro and ex-vivo studies showed low affinity of zoledronic acid for the cellular components of human blood.
-In vitro, mean zoledronic acid protein binding in human plasma ranged from 28% at 200 ng/mL to 53% at 50 ng/mL.
+In-vitro and ex-vivo studies showed low affinity of zoledronic acid for the cellular components of human blood, with a mean blood to plasma concentration ratio of 0.59 in a concentration range of 30 ng/mL to 5000 ng/mL.
+In-vitro, the plasma protein binding is low, with the unbound fraction ranging from 60% at 2 ng/mL to 77% at 2000 ng/mL of zoledronic acid.
 
 Metabolism
 
@@ -92,4 +92,4 @@ Creatinine clearance is calculated by the Cockcroft-Gault formula: CrCl = [140-a
 Zometa systemic clearance in individual patients can be calculated from the population clearance of Zometa, CL (L/h)=6.5(CLcr/90)0.4.
 These formulae can be used to predict the Zometa AUC in patients, where CL = Dose/AUC0-∞.
 The average AUC0-24 in patients with normal renal function was 0.42 mg•h/L and the calculated AUC0-∞ for a patient with creatinine clearance of 75 mL/min was 0.66 mg•h/L following a 4-mg dose of Zometa.
-However, efficacy and safety of adjusted dosing based on these formulae have not been prospectively assessed [see Warnings And Precautions (5.2)].
+However, efficacy and safety of adjusted dosing based on these formulae have not been prospectively assessed [see Warnings and Precautions (5.2)].
