@@ -37,7 +37,7 @@ Metabolic: Elevated BUN, creatinine, and SGOT.
 Musculoskeletal: Joint disorder, periostitis; exacerbation of arthritis; myoglobinuria; rhabdomyolysis.
 
 Nervous System: Nervousness; tremors; dizziness; somnolence; confusion; anxiety; euphoria; transverse myelitis; seizures; coma.
-A syndrome manifested by a variety of CNS symptoms such as severe agitation with confusion, visual and auditory hallucinations, and a fear of impending death (Hoigne’s syndrome), has been reported after administration of penicillin G procaine and, less commonly, after injection of the combination of penicillin G benzathine and penicillin G procaine.
+A syndrome manifested by a variety of CNS symptoms such as severe agitation with confusion, visual and auditory hallucinations, and a fear of impending death (Hoigne's syndrome), has been reported after administration of penicillin G procaine and, less commonly, after injection of the combination of penicillin G benzathine and penicillin G procaine.
 Other symptoms associated with this syndrome, such as psychosis, seizures, dizziness, tinnitus, cyanosis, palpitations, tachycardia, and/or abnormal perception in taste, also may occur.
 
 Respiratory: Hypoxia; apnea; dyspnea.

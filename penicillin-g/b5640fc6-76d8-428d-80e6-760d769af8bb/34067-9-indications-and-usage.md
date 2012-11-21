@@ -14,7 +14,7 @@ Moderately severe to severe infections of the upper-respiratory tract, scarlet f
 NOTE: Streptococci in Groups A, C, G, H, L, and M are very sensitive to penicillin G. Other groups, including Group D (enterococci), are resistant.
 Penicillin G sodium or potassium is recommended for streptococcal infections with bacteremia.
 
-Moderately severe pneumonia and otitis media due to susceptible pneumococci.
+Moderately severe pneumonia and otitis media due to susceptible Streptococcus pneumoniae.
 
 NOTE: Severe pneumonia, empyema, bacteremia, pericarditis, meningitis, peritonitis, and arthritis of pneumococcal etiology are better treated with penicillin G sodium or potassium during the acute stage.
 

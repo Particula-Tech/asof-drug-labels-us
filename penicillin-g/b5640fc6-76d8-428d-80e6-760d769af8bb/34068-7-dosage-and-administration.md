@@ -12,7 +12,7 @@ Pediatric patients under 30 lbs.: 600,000 units.
 
 NOTE: Treatment with the recommended dosage is usually given at a single session using multiple IM sites when indicated.
 An alternative dosage schedule may be used, giving one-half (1/2) the total dose on day 1 and one-half (1/2) on day 3.
-This will also insure the penicillinemia required over a 10-day period; however, this alternate schedule should be used only when the physician can be assured of the patient’s cooperation.
+This will also insure the penicillinemia required over a 10-day period; however, this alternate schedule should be used only when the physician can be assured of the patient's cooperation.
 
 ## Pneumococcal Infections (except pneumococcal meningitis)
 

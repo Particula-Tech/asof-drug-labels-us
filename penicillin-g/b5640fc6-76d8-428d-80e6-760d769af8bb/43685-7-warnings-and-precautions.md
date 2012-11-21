@@ -16,7 +16,7 @@ Clostridium difficile associated with diarrhea (CDAD) has been reported with use
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hyptertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
@@ -56,7 +56,7 @@ A small percentage of patients are sensitive to procaine.
 If there is a history of sensitivity, make the usual test: Inject intradermally 0.1 mL of a 1 to 2 percent procaine solution.
 Development of an erythema, wheal, flare, or eruption indicates procaine sensitivity.
 Sensitivity should be treated by the usual methods, including barbiturates, and procaine penicillin preparations should not be used.
-Antihistaminics appear beneficial in treatment of procaine reactions.
+Antihistamines appear beneficial in treatment of procaine reactions.
 
 The use of antibiotics may result in overgrowth of nonsusceptible organisms.
 Constant observation of the patient is essential.
