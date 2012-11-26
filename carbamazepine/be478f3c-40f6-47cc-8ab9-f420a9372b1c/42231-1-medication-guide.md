@@ -1,6 +1,10 @@
-# Medication Guide
+Medication Guide
 
-EQUETRO (ē-kwĕ-trō) (carbamazepine) Extended-Release Capsules
+EQUETRO (ē-kwĕ-trō)
+
+(carbamazepine)
+
+Extended-Release Capsules
 
 Read this Medication Guide before you start taking EQUETRO and each time you get a refill.
 There may be new information.
@@ -12,25 +16,30 @@ Do not stop taking EQUETRO without first talking to your healthcare provider.
 
 Stopping EQUETRO suddenly can cause serious problems.
 
+If you have any of the problems listed below call your healthcare provider right away.
+
 EQUETRO can cause serious side effects, including:
 
-1. EQUETRO may cause rare but serious rash that may lead to death.
-   These serious skin reactions are more likely to happen within the first four months of EQUETRO treatment, but may occur at later times.
+1. EQUETRO may cause rare but serious rashes that may lead to death.
+   These serious skin reactions are more likely to happen within the first four months after you start taking EQUETRO, but may occur at later times.
    These reactions can happen to anyone, but are more likely in people of Asian descent.
-   If you are of Asian descent you may need a genetic blood test before you take EQUETRO to see if you are at higher risk for serious skin reactions with this medicine.
-   If you have any of the problems listed below call your healthcare provider right away:
+   If you are of Asian descent, you may need a genetic blood test before you take EQUETRO to see if you are at higher risk for serious skin reactions with this medicine.
+   Symptoms may include:
    - skin rash
    - hives
    - sores in your mouth
-   - your skin blisters and peels
+   - blistering or peeling of the skin
 2. EQUETRO may cause rare but serious blood problems.
    Symptoms may include:
-   - fever, swollen glands, or sore throat that come and go or do not go away
+   - fever
+   - shortness of breath
+   - fatigue
    - easy bruising
    - red or purple spots on your body
-   - bleeding gums or nose bleeds
-3. Like other antiepileptic drugs, EQUETRO may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-   Call your healthcare provide right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+   - unusual bleeding such as bleeding gums, nose bleeds, or heavy menstrual bleeding
+   - swollen glands and sore throat
+3. EQUETRO may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+   Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
    - thoughts about suicide or dying
    - attempts to commit suicide
    - new or worse depression
@@ -61,9 +70,9 @@ If you have suicidal thoughts or actions, your healthcare provider may check for
 
 What is EQUETRO?
 
-EQUETRO is a prescription medicine used in adults to treat acute manic and mixed episodes associated with Bipolar Disorder.
+EQUETRO is a prescription medicine used to treat people with acute manic or mixed episodes that happen with Bipolar I Disorder.
 
-It is not known if EQUETRO is safe or effective in children and adolescents.
+It is not known if EQUETRO is safe and effective in children and adolescents.
 
 Who should not take EQUETRO?
 
@@ -73,7 +82,10 @@ Do not take EQUETRO if you:
 - are allergic to carbamazepine or any of the ingredients in EQUETRO.
   See the end of this Medication Guide for a complete list of ingredients in EQUETRO.
 - are allergic to medicines called tricyclic antidepressants (TCAs).
-- have taken a Monoamine Oxidase Inhibitor (MAOI) in the last 14 days.
+  Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
+- are taking delaviridine or other medicines called reverse transcriptase inhibitors.
+  Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
+- have taken a medicine called a Monoamine Oxidase Inhibitor (MAOI) in the last 14 days.
   Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
 - are taking nefazodone.
 
@@ -81,17 +93,18 @@ What should I tell my healthcare provider before taking EQUETRO?
 
 Before you take EQUETRO, tell your healthcare provider if you:
 
+- have or have had suicidal thoughts or actions, depression or mood problems
 - have or ever had heart problems
 - have or ever had blood problems
-- have or ever had liver or kidney problems
+- have or ever had liver problems
+- have or ever had kidney problems
 - have or ever had allergic reactions to medicines
 - have or ever had increased pressure in your eye
-- have or have had depression, mood problems, or suicidal thoughts or behavior
 - have any other medical conditions
 - drink grapefruit juice or eat grapefruit
 - use birth control.
   EQUETRO may make your birth control less effective.
-  Tell your healthcare provider if your menstrual bleeding changes while you take birth control and EQUETRO
+  Tell your healthcare provider if your menstrual bleeding changes while you take birth control and EQUETRO.
 - are pregnant or plan to become pregnant.
   EQUETRO may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking EQUETRO.
@@ -107,7 +120,7 @@ Before you take EQUETRO, tell your healthcare provider if you:
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
-Taking EQUETRO with certain other medicines can cause side effects or affect how well they work.
+Taking EQUETRO with certain other medicines may cause side effects or affect how well they work.
 Do not stop or start other medicines without talking to your healthcare provider.
 
 Know the medicines you take.
@@ -115,19 +128,20 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 
 How should I take EQUETRO?
 
+- Do not stop taking EQUETRO without first talking to your healthcare provider.
+  Stopping EQUETRO suddenly can cause serious problems.
 - Take EQUETRO exactly as prescribed.
   Your healthcare provider will tell you how much EQUETRO to take.
 - Your healthcare provider may change your dose.
   Do not change your dose of EQUETRO without talking to your healthcare provider.
-- Do not stop taking EQUETRO without first talking to your healthcare provider.
-  Stopping EQUETRO suddenly can cause serious problems.
+- Take EQUETRO capsules whole.
+  Do not crush or chew.
+  - If you cannot swallow EQUETRO capsules whole, you may open the EQUETRO capsules and sprinkle the beads over food such as a teaspoon of applesauce and swallow the mixture.
+    Do not chew the beads.
 - Take EQUETRO with or without food.
-- Do not crush, chew, or break EQUETRO capsules or the beads inside the capsules.
-  But, the EQUETRO capsules can be opened and sprinkled over food such as a teaspoon of applesauce.
-- Tell your healthcare provider if you can not swallow EQUETRO whole.
 - If you take too much EQUETRO, call your healthcare provider or local Poison Control Center right away.
 
-WHAT should I avoid while taking EQUETRO?
+What should I avoid while taking EQUETRO?
 
 - Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking EQUETRO until you talk to your healthcare provider.
   EQUETRO taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
@@ -136,17 +150,26 @@ WHAT should I avoid while taking EQUETRO?
 
 What are the possible side effects of EQUETRO?
 
-See "What is the most important information I should know about EQUETRO?".
+See "What is the most important information I should know about EQUETRO?"
 
-EQUETRO may cause other rare, but serious side effects.
-These include:
+EQUETRO may cause other serious side effects, including:
 
-- Irregular heart rate - symptoms include:
-  - Fast, slow, or pounding heartbeat
-  - Shortness of breath
-  - Feeling lightheaded
-  - Fainting
-- Liver problems - symptoms include:
+- Seizure risk.
+  Stopping EQUTERO suddenly may cause you to have a seizure.
+  The risk of seizures may be higher in people who already have seizures.
+  Do not stop taking EQUETRO without first talking with your healthcare provider.
+- Low level of sodium in your blood (hyponatremia).
+  Symptoms of hyponatremia may include:
+  - headache
+  - new seizures or an increased number of seizures
+  - difficulty concentrating
+  - memory problems
+  - confusion
+  - weakness
+  - balance problems
+- Problems with judgment, thinking, and movement.
+- Liver problems.
+  Symptoms of liver problems may include:
   - yellowing of your skin or the whites of your eyes
   - dark urine
   - pain on the right side of your stomach area (abdominal pain)
@@ -154,15 +177,22 @@ These include:
   - loss of appetite
   - nausea or vomiting
 
-Get medical help right away if you have any of the symptoms listed above.
+Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about EQUETRO?"
 
 The most common side effects of EQUETRO include:
 
 - dizziness
 - drowsiness
-- problems with walking and coordination (unsteadiness)
 - nausea
 - vomiting
+- problems with walking and coordination (unsteadiness)
+- constipation
+- itching
+- dry mouth
+- weakness
+- rash
+- blurred vision
+- problems speaking
 
 These are not all the possible side effects of EQUETRO.
 For more information, ask your healthcare provider or pharmacist.
@@ -174,13 +204,13 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store EQUETRO?
 
-- Store EQUETRO between 59°F to 86°F (15°C to 30°C).
+- Store EQUETRO between 68°F to 77°F (20°C to 25°C).
 - Keep EQUETRO out of the light.
 - Keep EQUETRO capsules dry.
 
 Keep EQUETRO and all medicines out of the reach of children.
 
-General Information about EQUETRO
+General Information about the safe and effective use of EQUETRO.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use EQUETRO for a condition for which it was not prescribed.
@@ -188,8 +218,8 @@ Do not give EQUETRO to other people, even if they have the same symptoms that yo
 It may harm them.
 
 This Medication Guide summarizes the most important information about EQUETRO.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about EQUETRO that is written for health professionals.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about EQUETRO that is written for health professionals.
 
 For more information, go to www.EQUETRO.com or call 1-866-982-5438.
 
@@ -198,14 +228,13 @@ What are the ingredients in EQUETRO?
 Active ingredient: carbamazepine
 
 Inactive ingredients: citric acid, colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, polyethylene glycol, povidone, sodium lauryl sulfate, talc, triethyl citrate, and other ingredients.
-In addition:
 
-- the 100 mg capsules contain gelatin-NF, FD&C Blue #2, Yellow Iron Oxide, and Titanium Dioxide, and are imprinted with white ink
-- the 200 mg capsules contain gelatin-NF, Yellow Iron Oxide, FD&C Blue #2, and Titanium Dioxide, and are imprinted with white ink
-- the 300 mg capsules contain gelatin-NF, FD&C Blue #2, Yellow Iron Oxide, and Titanium Dioxide, and are imprinted with white ink
+- 100mg capsule shell contains: gelatin-NF, FD&C Blue #2, Yellow Iron Oxide, and Titanium Dioxide, and are imprinted with white ink.
+- 200mg capsule shell contains: gelatin-NF, Yellow Iron Oxide, FD&C Blue #2, and Titanium Dioxide, and are imprinted with white ink.
+- 300mg capsule shell contains: gelatin-NF, FD&C Blue #2, Yellow Iron Oxide, and Titanium Dioxide, and are imprinted with white ink.
 
 This Medication Guide has been approved by the U. S. Food and Drug Administration.
 
-110705 Issued October 2010
-
 Validus Pharmaceuticals LLC, 119 Cherry Hill Road, Suite 310, Parsippany, NJ 07054 1-866-9VALIDUS (1-866-982-5438)
+
+Revised: 11/2012

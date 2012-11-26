@@ -1,9 +1,9 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-EQUETRO® is available for oral administration as 100 mg, 200 mg, and 300 mg extended-release capsules of carbamazepine, USP.
+EQUETRO (carbamazepine) is a mood stabilizer available for oral administration as 100 mg, 200 mg, and 300 mg extended-release capsules of carbamazepine, USP.
 Carbamazepine is a white to off-white powder, practically insoluble in water and soluble in alcohol and in acetone.
 Its molecular weight is 236.27.
-Its chemical name is 5H-dibenz[b,f]azepine-5-carboxamide, and its structural formula is:
+The chemical name is 5H-dibenz[b,f]azepine-5-carboxamide, and the structural formula is:
 
 EQUETRO® is a multi-component capsule formulation consisting of three different types of beads: immediate-release beads, extended-release beads, and enteric-release beads.
 The three bead types are combined in a specific ratio to provide twice-daily dosing of EQUETRO®.
