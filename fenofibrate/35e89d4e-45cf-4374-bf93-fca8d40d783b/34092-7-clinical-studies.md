@@ -1,12 +1,12 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia
+## 14.1 Primary Hypercholesterolemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia
 
-The effects of fenofibrate at a dose equivalent to 120 mg Fenoglide per day were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
+The effects of fenofibrate at a dose equivalent to 120 mg FENOGLIDE per day were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
 Fenofibrate therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
-Fenofibrate therapy also lowered triglycerides and raised HDL-C (see Table 2).
+Fenofibrate therapy also lowered triglycerides and raised HDL-C (see Table 4).
 
-Table 2.
+Table 4.
 Mean Percent Change in Lipid Parameters at End of Treatment*
 
 | Treatment Group | Total-C | LDL-C | HDL-C | TG |
@@ -29,15 +29,15 @@ Mean Percent Change in Lipid Parameters at End of Treatment*
 In a subset of the subjects, measurements of apo B were conducted.
 Fenofibrate treatment significantly reduced apo B from baseline to endpoint as compared with placebo (-25.1% vs. 2.4%, p<0.0001, n=213 and 143 respectively).
 
-## 14.2 Hypertriglyceridemia
+## 14.2 Severe Hypertriglyceridemia
 
 The effects of fenofibrate on serum triglycerides were studied in two randomized, double-blind, placebo-controlled clinical trials of 147 hypertriglyceridemic patients.
-Patients were treated for eight weeks under protocols that differed only in that one entered patients with baseline triglyceride (TG) levels of 500 to 1500 mg/dL, and the other TG levels of 350 to 500 mg/dL.
-In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia, treatment with fenofibrate at dosages equivalent to 120 mg Fenoglide (fenofibrate) Tablets per day decreased primarily very low density lipoprotein (VLDL) triglycerides and VLDL cholesterol.
-Treatment of patients with elevated triglycerides often results in an increase of low density lipoprotein (LDL) cholesterol (see Table 3).
+Patients were treated for eight weeks under protocols that differed only in that one entered patients with baseline TG levels of 500 to 1500 mg/dL, and the other TG levels of 350 to 500 mg/dL.
+In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia, treatment with fenofibrate at dosages equivalent to 120 mg FENOGLIDE (fenofibrate) Tablets per day decreased primarily very low density lipoprotein (VLDL) triglycerides and VLDL cholesterol.
+Treatment of patients with elevated triglycerides often results in an increase of LDL-C (see Table 5).
 
-Table 3.
-Effects of Fenofibrate in Patients With Hypertriglyceridemia
+Table 5.
+Effects of Fenofibrate in Patients With Severe Hypertriglyceridemia
 
 | Study 1 | Placebo |  |  |  | Fenofibrate |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
