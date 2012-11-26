@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ACTOS (pioglitazone hydrochloride) is an oral antidiabetic medication.
+ACTOS (pioglitazone) is an oral antidiabetic medication.
 
 Pioglitazone [(±)-5-[[4-[2-(5-ethyl-2-pyridinyl) ethoxy] phenyl] methyl]-2,4-] thiazolidinedione monohydrochloride contains one asymmetric carbon, and the compound is synthesized and used as the racemic mixture.
 The two enantiomers of pioglitazone interconvert in vivo.

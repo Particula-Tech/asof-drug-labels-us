@@ -49,15 +49,15 @@ After excluding patients in whom exposure to study drug was less than one year a
 
 A five-year interim report of an ongoing 10-year observational cohort study found a non-significant increase in the risk for bladder cancer in subjects ever exposed to ACTOS, compared to subjects never exposed to ACTOS (HR 1.2 [95% CI 0.9 – 1.5]).
 Compared to never exposure, a duration of ACTOS therapy longer than 12 months was associated with an increase in risk (HR 1.4 [95% CI 0.9 – 2.1]), which reached statistical significance after more than 24 months of ACTOS use (HR 1.4 [95% CI 1.03 – 2.0]).
-Interim results from this study suggested that taking ACTOS longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40% which equates to an absolute increase of 3 cases in 10,000 (from approximately 7 in 10,000 [without ACTOS] to approximately 10 in 10,000 [with ACTOS]).
+Interim results from this study suggested that taking ACTOS longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40% which equates to an absolute increase of three cases in 10,000 (from approximately seven in 10,000 [without ACTOS] to approximately 10 in 10,000 [with ACTOS]).
 
 There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
 Consequently, ACTOS should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with ACTOS should be considered in patients with a prior history of bladder cancer.
 
 ## 5.6 Hypoglycemia
 
-Patients receiving ACTOS in combination with insulin or other anti-diabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia.
-A reduction in the dose of the concomitant anti-diabetic medication may be necessary to reduce the risk of hypoglycemia [see Dosage and Administration (2.2)].
+Patients receiving ACTOS in combination with insulin or other antidiabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia.
+A reduction in the dose of the concomitant antidiabetic medication may be necessary to reduce the risk of hypoglycemia [see Dosage and Administration (2.2)].
 
 ## 5.7 Macular Edema
 
@@ -79,4 +79,4 @@ Adequate contraception in all premenopausal women treated with ACTOS is recommen
 
 ## 5.9 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS or any other anti-diabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS or any other antidiabetic drug.

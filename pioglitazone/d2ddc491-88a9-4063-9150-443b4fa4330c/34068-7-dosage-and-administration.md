@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommendations for all patients
+## 2.1 Recommendations for All Patients
 
 ACTOS should be taken once daily and can be taken without regard to meals.
 
@@ -16,14 +16,14 @@ Liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase
 Routine periodic monitoring of liver tests during treatment with ACTOS is not recommended in patients without liver disease.
 Patients who have liver test abnormalities prior to initiation of ACTOS or who are found to have abnormal liver tests while taking ACTOS should be managed as described under Warnings and Precautions [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
-## 2.2 Concomitant use with an insulin secretagogue or insulin
+## 2.2 Concomitant Use with an Insulin Secretagogue or Insulin
 
 If hypoglycemia occurs in a patient co-administered ACTOS and an insulin secretagogue (e.g., sulfonylurea), the dose of the insulin secretagogue should be reduced.
 
 If hypoglycemia occurs in a patient co-administered ACTOS and insulin, the dose of insulin should be decreased by 10% to 25%.
 Further adjustments to the insulin dose should be individualized based on glycemic response.
 
-## 2.3 Coadministration with strong CYP2C8 inhibitors
+## 2.3 Coadministration with Strong CYP2C8 Inhibitors
 
 Coadministration of ACTOS and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3-fold.
 Therefore, the maximum recommended dose of ACTOS is 15 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

@@ -27,16 +27,14 @@ There is no conclusive evidence of macrovascular benefit with ACTOS or any other
 
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg ACTOS dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with ACTOS than in the placebo-treated patients.
-There were no consistent differences for LDL and total cholesterol in patients treated with ACTOS compared to placebo (Table 14).
-
-Table 14.
-Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study
+There were no consistent differences for LDL and total cholesterol in patients treated with ACTOS compared to placebo (see Table 14).
 
 |  | Placebo | ACTOS 15 mg Once Daily | ACTOS 30 mg Once Daily | ACTOS 45 mg Once Daily |
 | --- | --- | --- | --- | --- |
+| Table 14. Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study |  |  |  |  |
 | Triglycerides (mg/dL) | N=79 | N=79 | N=84 | N=77 |
 | Baseline (mean) | 263 | 284 | 261 | 260 |
-| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0%p < 0.05 versus placebo | -9.6% | -9.3% |
+| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0%p <0.05 versus placebo | -9.6% | -9.3% |
 | HDL Cholesterol (mg/dL) | N=79 | N=79 | N=83 | N=77 |
 | Baseline (mean) | 42 | 40 | 41 | 41 |
 | Percent change from baseline (adjusted mean) | 8.1% | 14.1% | 12.2% | 19.1% |
@@ -51,99 +49,117 @@ In the two other monotherapy studies (16 weeks and 24 weeks) and in combination 
 
 ## 12.3 Pharmacokinetics
 
-Following once daily administration of ACTOS, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within 7 days.
+Following once-daily administration of ACTOS, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within seven days.
 At steady-state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone.
 At steady-state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20% to 25% of the total AUC.
 
 Maximum serum concentration (Cmax), AUC, and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
 
-Absorption: Following oral administration of pioglitazone hydrochloride, peak concentrations of pioglitazone were observed within 2 hours.
-Food slightly delays the time to peak serum concentration (Tmax) to 3 to 4 hours, but does not alter the extent of absorption (AUC).
+Absorption
 
-Distribution: The mean apparent volume of distribution (Vd/F) of pioglitazone following single-dose administration is 0.63 ± 0.41 (mean ± SD) L/kg of body weight.
-Pioglitazone is extensively protein bound (> 99%) in human serum, principally to serum albumin.
+Following oral administration of pioglitazone, peak concentrations of pioglitazone were observed within two hours.
+Food slightly delays the time to peak serum concentration (Tmax) to three to four hours but does not alter the extent of absorption (AUC).
+
+Distribution
+
+The mean apparent volume of distribution (Vd/F) of pioglitazone following single-dose administration is 0.63 ± 0.41 (mean ± SD) L/kg of body weight.
+Pioglitazone is extensively protein bound (>99%) in human serum, principally to serum albumin.
 Pioglitazone also binds to other serum proteins, but with lower affinity.
-M-III and M-IV are also extensively bound (> 98%) to serum albumin.
+M-III and M-IV are also extensively bound (>98%) to serum albumin.
 
-Metabolism: Pioglitazone is extensively metabolized by hydroxylation and oxidation; the metabolites also partly convert to glucuronide or sulfate conjugates.
+Metabolism
+
+Pioglitazone is extensively metabolized by hydroxylation and oxidation; the metabolites also partly convert to glucuronide or sulfate conjugates.
 Metabolites M-III and M-IV are the major circulating active metabolites in humans.
 
 In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone.
 The cytochrome P450 isoforms involved are CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1.
-In vivo study of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3) and Drug Interactions (7)].
+In vivo study of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor, showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3) and Drug Interactions (7)].
 Urinary 6ß-hydroxycortisol/cortisol ratios measured in patients treated with ACTOS showed that pioglitazone is not a strong CYP3A4 enzyme inducer.
 
-Excretion and Elimination: Following oral administration, approximately 15% to 30% of the pioglitazone dose is recovered in the urine.
+Excretion and Elimination
+
+Following oral administration, approximately 15% to 30% of the pioglitazone dose is recovered in the urine.
 Renal elimination of pioglitazone is negligible, and the drug is excreted primarily as metabolites and their conjugates.
 It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces.
 
 The mean serum half-life of pioglitazone and its metabolites (M-III and M-IV) range from 3 to 7 hours and 16 to 24 hours, respectively.
 Pioglitazone has an apparent clearance, CL/F, calculated to be 5 to 7 L/hr.
 
-Renal Impairment: The serum elimination half-life of pioglitazone, M-III, and M-IV remains unchanged in patients with moderate (creatinine clearance 30 to 50 mL/min) and severe (creatinine clearance < 30 mL/min) renal impairment when compared to subjects with normal renal function.
+Renal Impairment
+
+The serum elimination half-life of pioglitazone, M-III, and M-IV remains unchanged in patients with moderate (creatinine clearance 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment when compared to subjects with normal renal function.
 Therefore, no dose adjustment in patients with renal impairment is required.
 
-Hepatic Impairment: Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III and M-IV) mean peak concentrations but no change in the mean AUC values.
+Hepatic Impairment
+
+Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III, and M-IV) mean peak concentrations but no change in the mean AUC values.
 Therefore, no dose adjustment in patients with hepatic impairment is required.
 
-There are postmarketing reports of liver failure with ACTOS and clinical trials have generally excluded patients with serum ALT >2.5× the upper limit of the reference range.
+There are postmarketing reports of liver failure with ACTOS and clinical trials have generally excluded patients with serum ALT >2.5x the upper limit of the reference range.
 Use caution in patients with liver disease [see Warnings and Precautions (5.3)].
 
-Geriatric Patients: In healthy elderly subjects, peak serum concentrations of pioglitazone are not significantly different, but AUC values are approximately 21% higher than those achieved in younger subjects.
-The mean terminal half-life values of pioglitazone were also longer in elderly subjects (about 10 hours) as compared to younger subjects (about 7 hours).
+Geriatric Patients
+
+In healthy elderly subjects, peak serum concentrations of pioglitazone are not significantly different, but AUC values are approximately 21% higher than those achieved in younger subjects.
+The mean terminal half-life values of pioglitazone were also longer in elderly subjects (about 10 hours) as compared to younger subjects (about seven hours).
 These changes were not of a magnitude that would be considered clinically relevant.
 
-Pediatric Patients: Safety and efficacy of pioglitazone in pediatric patients have not been established.
+Pediatric Patients
+
+Safety and efficacy of pioglitazone in pediatric patients have not been established.
 ACTOS is not recommended for use in pediatric patients [see Use in Specific Populations (8.4)].
 
-Gender: The mean Cmax and AUC values of pioglitazone were increased 20% to 60% in women compared to men.
+Gender
+
+The mean Cmax and AUC values of pioglitazone were increased 20% to 60% in women compared to men.
 In controlled clinical trials, HbA1c decreases from baseline were generally greater for females than for males (average mean difference in HbA1c 0.5%).
 Because therapy should be individualized for each patient to achieve glycemic control, no dose adjustment is recommended based on gender alone.
 
-Ethnicity: Pharmacokinetic data among various ethnic groups are not available.
+Ethnicity
+
+Pharmacokinetic data among various ethnic groups are not available.
 
 Drug-Drug Interactions
 
-Table 15: Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs
+| Pioglitazone Dosage Regimen (mg)Daily for 7 days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively |  | Change in Cmax |  |
+| --- | --- | --- | --- | --- | --- |
+| Table 15. Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs |  |  |  |  |  |
+|  | Coadministered Drug |  |  |  |  |
+| 45 mg (N = 12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |
+| Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% | R-Warfarin | ↓3% | R-Warfarin | ↓2% |  |
+| S-Warfarin | ↓1% | S-Warfarin | ↑1% |  |  |
+| 45 mg (N = 12) | Digoxin |  |  |  |  |
+| 0.200 mg twice daily (loading dose) then 0.250 mg daily (maintenance dose, 7 days) | ↑15% |  | ↑17% |  |  |
+| 45 mg daily for 21 days (N = 35) | Oral Contraceptive |  |  |  |  |
+| [Ethinyl Estradiol (EE) 0.035 mg plus Norethindrone (NE) 1 mg] for 21 days | EE | ↓11% | EE | ↓13% |  |
+| NE | ↑3% | NE | ↓7% |  |  |
+| 45 mg (N = 23) | Fexofenadine |  |  |  |  |
+| 60 mg twice daily for 7 days | ↑30% |  | ↑37% |  |  |
+| 45 mg (N = 14) | Glipizide |  |  |  |  |
+| 5 mg daily for 7 days | ↓3% |  | ↓8% |  |  |
+| 45 mg daily for 8 days (N = 16) | Metformin |  |  |  |  |
+| 1000 mg single dose on Day 8 | ↓3% |  | ↓5% |  |  |
+| 45 mg (N = 21) | Midazolam |  |  |  |  |
+| 7.5 mg single dose on Day 15 | ↓26% |  | ↓26% |  |  |
+| 45 mg (N = 24) | Ranitidine |  |  |  |  |
+| 150 mg twice daily for 7 days | ↑1% |  | ↓1% |  |  |
+| 45 mg daily for 4 days (N = 24) | Nifedipine ER |  |  |  |  |
+| 30 mg daily for 4 days | ↓13% |  | ↓17% |  |  |
+| 45 mg (N = 25) | Atorvastatin Ca |  |  |  |  |
+| 80 mg daily for 7 days | ↓14% |  | ↓23% |  |  |
+| 45 mg (N = 22) | Theophylline |  |  |  |  |
+| 400 mg twice daily for 7 days | ↑2% |  | ↑5% |  |  |
 
-| Pioglitazone Dosage Regimen (mg)Daily for 7 days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. |  | Change in Cmax |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Co-administered Drug |  |  |  |  |  |
-| 45 mg (N = 12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |  |
-| Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% | R-Warfarin | ↓ 3% | R-Warfarin | ↓ 2% |  |  |
-| S-Warfarin | ↓ 1% | S-Warfarin | ↑ 1% |  |  |  |
-| 45 mg (N = 12) | Digoxin |  |  |  |  |  |
-| 0.200 mg twice daily (loading dose) then 0.250 mg daily (maintenance dose, 7 days) | ↑ 15% |  | ↑ 17% |  |  |  |
-| 45 mg daily for 21 days (N = 35) | Oral Contraceptive |  |  |  |  |  |
-| [Ethinyl Estradiol (EE) 0.035 mg plus Norethindrone (NE) 1 mg] for 21 days | EE | ↓11% | EE | ↓13% |  |  |
-| NE | ↑ 3% | NE | ↓ 7% |  |  |  |
-| 45 mg (N = 23) | Fexofenadine |  |  |  |  |  |
-| 60 mg twice daily for 7 days | ↑ 30% |  | ↑ 37% |  |  |  |
-| 45 mg (N = 14) | Glipizide |  |  |  |  |  |
-| 5 mg daily for 7 days | ↓ 3% |  | ↓ 8% |  |  |  |
-| 45 mg daily for 8 days (N = 16) | Metformin |  |  |  |  |  |
-| 1000 mg single dose on 8 days | ↓ 3% |  | ↓ 5% |  |  |  |
-| 45 mg (N = 21) | Midazolam |  |  |  |  |  |
-| 7.5 mg single dose on day 15 | ↓ 26% |  | ↓ 26% |  |  |  |
-| 45 mg (N = 24) | Ranitidine |  |  |  |  |  |
-| 150 mg twice daily for 7 days | ↑ 1% |  | ↓1% |  |  |  |
-| 45 mg daily for 4 days (N = 24) | Nifedipine ER |  |  |  |  |  |
-| 30 mg daily for 4 days | ↓ 13% |  | ↓ 17% |  |  |  |
-| 45 mg (N = 25) | Atorvastatin Ca |  |  |  |  |  |
-| 80 mg daily for 7 days | ↓ 14% |  | ↓ 23% |  |  |  |
-| 45 mg (N = 22) | Theophylline |  |  |  |  |  |
-| 400 mg twice daily for 7 days | ↑ 2% |  | ↑ 5% |  |  |  |
-
-Table 16: Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
-
-| Dose Regimen (mg)Daily for 7 days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. | Change in Cmax |  |
+| Dose Regimen (mg)Daily for 7 days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively | Change in Cmax |  |
 | --- | --- | --- | --- |
+| Table 16. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure |  |  |  |
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
-| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 30 mg single dose | ↑ 3.4-foldThe half-life of pioglitazone increased from 6.5 h to 15.1 h in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7] | ↑ 6% |
-| Ketoconazole 200 mg twice daily for 7 days (N = 28) | 45 mg | ↑ 34% | ↑ 14% |
-| Rifampin 600 mg daily for 5 days (N = 10) | 30 mg single dose | ↓ 54% | ↓ 5% |
-| Fexofenadine 60 mg twice daily for 7 days (N = 23) | 45 mg | ↑ 1% | 0% |
-| Ranitidine 150 mg twice daily for 4 days (N = 23) | 45 mg | ↓ 13% | ↓ 16% |
-| Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑ 5% | ↑ 4% |
-| Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓ 24% | ↓ 31% |
-| Theophylline 400 mg twice daily for 7 days (N = 22) | 45 mg | ↓ 4% | ↓ 2% |
+| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 30 mg single dose | ↑3.4-foldThe half-life of pioglitazone increased from 6.5 h to 15.1 h in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑6% |
+| Ketoconazole 200 mg twice daily for 7 days (N = 28) | 45 mg | ↑34% | ↑14% |
+| Rifampin 600 mg daily for 5 days (N = 10) | 30 mg single dose | ↓54% | ↓5% |
+| Fexofenadine 60 mg twice daily for 7 days (N = 23) | 45 mg | ↑1% | 0% |
+| Ranitidine 150 mg twice daily for 4 days (N = 23) | 45 mg | ↓13% | ↓16% |
+| Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑5% | ↑4% |
+| Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓24% | ↓31% |
+| Theophylline 400 mg twice daily for 7 days (N = 22) | 45 mg | ↓4% | ↓2% |
