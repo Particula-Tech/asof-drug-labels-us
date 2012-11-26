@@ -1,65 +1,36 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Major Depressive Disorder
+## 2.1 Major Depressive Disorder
 
-### Initial Treatment
-
-#### Adult
-
-In controlled trials used to support the efficacy of fluoxetine, patients were administered morning doses ranging from 20 to 80 mg/day.
-Studies comparing fluoxetine 20, 40, and 60 mg/day to placebo indicate that 20 mg/day is sufficient to obtain a satisfactory response in major depressive disorder in most cases.
+Initial Treatment Adult — In controlled trials used to support the efficacy of fluoxetine, patients were administered morning doses ranging from 20 to 80 mg/day.
+Studies comparing fluoxetine 20, 40, and 60 mg/day to placebo indicate that 20 mg/day is sufficient to obtain a satisfactory response in Major Depressive Disorder in most cases.
 Consequently, a dose of 20 mg/day, administered in the morning, is recommended as the initial dose.
 A dose increase may be considered after several weeks if insufficient clinical improvement is observed.
 Doses above 20 mg/day may be administered on a once-a-day (morning) or BID schedule (i.e., morning and noon) and should not exceed a maximum dose of 80 mg/day.
-
-#### Pediatric (children and adolescents)
-
-In the short-term (8 to 9 week) controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of major depressive disorder, patients were administered fluoxetine doses of 10 to 20 mg/day (see CLINICAL TRIALS ).
+Pediatric (children and adolescents) — In the short-term (8 to 9 week) controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Major Depressive Disorder, patients were administered fluoxetine doses of 10 to 20 mg/day [see Clinical Studies (14.1)] .
 Treatment should be initiated with a dose of 10 or 20 mg/day.
 After 1 week at 10 mg/day, the dose should be increased to 20 mg/day.
 However, due to higher plasma levels in lower weight children, the starting and target dose in this group may be 10 mg/day.
 A dose increase to 20 mg/day may be considered after several weeks if insufficient clinical improvement is observed.
-
-#### All patients
-
-As with other drugs effective in the treatment of major depressive disorder, the full effect may be delayed until 4 weeks of treatment or longer.
-As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment.
-A lower or less frequent dosage should also be considered for the elderly (see Geriatric Use under PRECAUTIONS ), and for patients with concurrent disease or on multiple concomitant medications.
-Dosage adjustments for renal impairment are not routinely necessary (see Liver disease and Renal disease under CLINICAL PHARMACOLOGY , and Use in Patients with Concomitant Illness under PRECAUTIONS ).
-
-### Maintenance/Continuation/Extended Treatment
-
-It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
+All patients — As with other drugs effective in the treatment of Major Depressive Disorder, the full effect may be delayed until 4 weeks of treatment or longer.
+Maintenance/Continuation/Extended Treatment — It is generally agreed that acute episodes of Major Depressive Disorder require several months or longer of sustained pharmacologic therapy.
 Whether the dose needed to induce remission is identical to the dose needed to maintain and/or sustain euthymia is unknown.
-Daily Dosing Systematic evaluation of fluoxetine in adult patients has shown that its efficacy in major depressive disorder is maintained for periods of up to 38 weeks following 12 weeks of open-label acute treatment (50 weeks total) at a dose of 20 mg/day (see CLINICAL TRIALS ).
+Daily Dosing — Systematic evaluation of fluoxetine oral solution in adult patients has shown that its efficacy in Major Depressive Disorder is maintained for periods of up to 38 weeks following 12 weeks of open-label acute treatment (50 weeks total) at a dose of 20 mg/day [see Clinical Studies (14.1)] .
+Switching Patients to a Tricyclic Antidepressant (TCA) — Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Drug Interactions (7.8) ] .
+Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) — At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with fluoxetine oral solution.
+In addition, at least 5 weeks, perhaps longer, should be allowed after stopping fluoxetine oral solution before starting an MAOI [see Contraindications (4) and Drug Interactions (7.1)] .
 
-### Switching Patients to a Tricyclic Antidepressant (TCA)
+## 2.2 Obsessive Compulsive Disorder
 
-Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued (see Other drugs effective in the treatment of major depressive disorder under PRECAUTIONS, Drug Interactions ).
-
-### Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI)
-
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with fluoxetine.
-In addition, at least 5 weeks, perhaps longer, should be allowed after stopping fluoxetine before starting an MAOI (see CONTRAINDICATIONS and PRECAUTIONS ).
-
-## Obsessive Compulsive Disorder
-
-### Initial Treatment
-
-#### Adult
-
-In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fixed daily doses of 20, 40, or 60 mg of fluoxetine or placebo (see CLINICAL TRIALS ).
-In 1 of these studies, no dose-response relationship for effectiveness was demonstrated.
+Initial Treatment Adult — In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fixed daily doses of 20, 40, or 60 mg of fluoxetine or placebo [see Clinical Studies (14.2)] .
+In one of these studies, no dose-response relationship for effectiveness was demonstrated.
 Consequently, a dose of 20 mg/day, administered in the morning, is recommended as the initial dose.
 Since there was a suggestion of a possible dose-response relationship for effectiveness in the second study, a dose increase may be considered after several weeks if insufficient clinical improvement is observed.
 The full therapeutic effect may be delayed until 5 weeks of treatment or longer.
-Doses above 20 mg/day may be administered on a once-a-day (i.e., morning) or BID schedule (i.e., morning and noon).
+Doses above 20 mg/day may be administered on a once daily (i.e., morning) or BID schedule (i.e., morning and noon).
 A dose range of 20 to 60 mg/day is recommended; however, doses of up to 80 mg/day have been well tolerated in open studies of OCD.
 The maximum fluoxetine dose should not exceed 80 mg/day.
-
-#### Pediatric (children and adolescents)
-
-In the controlled clinical trial of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fluoxetine doses in the range of 10 to 60 mg/day (see CLINICAL TRIALS ).
+Pediatric (children and adolescents) — In the controlled clinical trial of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.2)] .
 In adolescents and higher weight children, treatment should be initiated with a dose of 10 mg/day.
 After 2 weeks, the dose should be increased to 20 mg/day.
 Additional dose increases may be considered after several more weeks if insufficient clinical improvement is observed.
@@ -68,69 +39,40 @@ In lower weight children, treatment should be initiated with a dose of 10 mg/day
 Additional dose increases may be considered after several more weeks if insufficient clinical improvement is observed.
 A dose range of 20 to 30 mg/day is recommended.
 Experience with daily doses greater than 20 mg is very minimal, and there is no experience with doses greater than 60 mg.
-
-#### All patients
-
-As with the use of fluoxetine in the treatment of major depressive disorder, a lower or less frequent dosage should be used in patients with hepatic impairment.
-A lower or less frequent dosage should also be considered for the elderly (see Geriatric Use under PRECAUTIONS ), and for patients with concurrent disease or on multiple concomitant medications.
-Dosage adjustments for renal impairment are not routinely necessary (see Liver disease and Renal disease under CLINICAL PHARMACOLOGY , and Use in Patients with Concomitant Illness under PRECAUTIONS ).
-
-### Maintenance/Continuation Treatment
-
-While there are no systematic studies that answer the question of how long to continue fluoxetine, OCD is a chronic condition and it is reasonable to consider continuation for a responding patient.
-Although the efficacy of fluoxetine after 13 weeks has not been documented in controlled trials, adult patients have been continued in therapy under double-blind conditions for up to an additional 6 months without loss of benefit.
+Maintenance/Continuation Treatment — While there are no systematic studies that answer the question of how long to continue fluoxetine oral solution, OCD is a chronic condition and it is reasonable to consider continuation for a responding patient.
+Although the efficacy of fluoxetine oral solution after 13 weeks has not been documented in controlled trials, adult patients have been continued in therapy under double-blind conditions for up to an additional 6 months without loss of benefit.
 However, dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for treatment.
 
-## Bulimia Nervosa
+## 2.3 Bulimia Nervosa
 
-### Initial Treatment
-
-In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of bulimia nervosa, patients were administered fixed daily fluoxetine doses of 20 or 60 mg, or placebo (see CLINICAL TRIALS ).
+Initial Treatment — In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Bulimia Nervosa, patients were administered fixed daily fluoxetine doses of 20 or 60 mg, or placebo [see Clinical Studies (14.3)] .
 Only the 60 mg dose was statistically significantly superior to placebo in reducing the frequency of binge-eating and vomiting.
 Consequently, the recommended dose is 60 mg/day, administered in the morning.
 For some patients it may be advisable to titrate up to this target dose over several days.
 Fluoxetine doses above 60 mg/day have not been systematically studied in patients with bulimia.
-As with the use of fluoxetine in the treatment of major depressive disorder and OCD, a lower or less frequent dosage should be used in patients with hepatic impairment.
-A lower or less frequent dosage should also be considered for the elderly (see Geriatric Use under PRECAUTIONS ), and for patients with concurrent disease or on multiple concomitant medications.
-Dosage adjustments for renal impairment are not routinely necessary (see Liver disease and Renal disease under CLINICAL PHARMACOLOGY , and Use in Patients with Concomitant Illness under PRECAUTIONS ).
-
-### Maintenance/Continuation Treatment
-
-Systematic evaluation of continuing fluoxetine 60 mg/day for periods of up to 52 weeks in patients with bulimia who have responded while taking fluoxetine 60 mg/day during an 8-week acute treatment phase has demonstrated a benefit of such maintenance treatment (see CLINICAL TRIALS ).
+Maintenance/Continuation Treatment — Systematic evaluation of continuing fluoxetine oral solution 60 mg/day for periods of up to 52 weeks in patients with bulimia who have responded while taking fluoxetine oral solution 60 mg/day during an 8-week acute treatment phase has demonstrated a benefit of such maintenance treatment [see Clinical Studies (14.3)] .
 Nevertheless, patients should be periodically reassessed to determine the need for maintenance treatment.
 
-## Panic Disorder
+## 2.4 Panic Disorder
 
-### Initial Treatment
-
-In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of panic disorder, patients were administered fluoxetine doses in the range of 10 to 60 mg/day (see CLINICAL TRIALS ).
+Initial Treatment — In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Panic Disorder, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.4)] .
 Treatment should be initiated with a dose of 10 mg/day.
-After 1 week, the dose should be increased to 20 mg/day.
+After one week, the dose should be increased to 20 mg/day.
 The most frequently administered dose in the 2 flexible-dose clinical trials was 20 mg/day.
 A dose increase may be considered after several weeks if no clinical improvement is observed.
-Fluoxetine doses above 60 mg/day have not been systematically evaluated in patients with panic disorder.
-As with the use of fluoxetine in other indications, a lower or less frequent dosage should be used in patients with hepatic impairment.
-A lower or less frequent dosage should also be considered for the elderly (see Geriatric Use under PRECAUTIONS ), and for patients with concurrent disease or on multiple concomitant medications.
-Dosage adjustments for renal impairment are not routinely necessary (see Liver disease and Renal disease under CLINICAL PHARMACOLOGY , and Use in Patients with Concomitant Illness under PRECAUTIONS ).
-
-### Maintenance/Continuation Treatment
-
-While there are no systematic studies that answer the question of how long to continue fluoxetine, panic disorder is a chronic condition and it is reasonable to consider continuation for a responding patient.
+Fluoxetine doses above 60 mg/day have not been systematically evaluated in patients with Panic Disorder.
+Maintenance/Continuation Treatment — While there are no systematic studies that answer the question of how long to continue fluoxetine oral solution, panic disorder is a chronic condition and it is reasonable to consider continuation for a responding patient.
 Nevertheless, patients should be periodically reassessed to determine the need for continued treatment.
 
-## Special Populations
+## 2.7 Dosing in Specific Populations
 
-### Treatment of Pregnant Women During the Third Trimester
+Treatment of Pregnant Women during the Third Trimester — When treating pregnant women with fluoxetine oral solution during the third trimester, the physician should carefully consider the potential risks and potential benefits of treatment.
+Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+The physician may consider tapering fluoxetine oral solution in the third trimester [see Use in Specific Populations (8.1)].
+Geriatric — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)].
+Hepatic Impairment — As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
+Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.10)].
 
-Neonates exposed to fluoxetine and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS ).
-When treating pregnant women with fluoxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering fluoxetine in the third trimester.
+## 2.8 Discontinuation of Treatment
 
-### Discontinuation of Treatment with Fluoxetine Oral Solution
-
-Symptoms associated with discontinuation of fluoxetine and other SSRIs and SNRIs, have been reported (see PRECAUTIONS ).
-Patients should be monitored for these symptoms when discontinuing treatment.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
-If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
-Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy which may minimize the risk of discontinuation symptoms with this drug.
+Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.13)].

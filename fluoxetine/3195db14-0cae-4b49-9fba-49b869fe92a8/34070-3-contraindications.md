@@ -1,16 +1,10 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-## Monoamine oxidase inhibitors
+The use of fluoxetine oral solution is contraindicated with the following:
 
-There have been reports of serious, sometimes fatal, reactions (including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma) in patients receiving fluoxetine in combination with a monoamine oxidase inhibitor (MAOI), and in patients who have recently discontinued fluoxetine and are then started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Therefore, fluoxetine should not be used in combination with an MAOI, or within a minimum of 14 days of discontinuing therapy with an MAOI.
-Since fluoxetine and its major metabolite have very long elimination half-lives, at least 5 weeks [perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses (see Accumulation and slow elimination under CLINICAL PHARMACOLOGY )] should be allowed after stopping fluoxetine before starting an MAOI.
-
-## Pimozide
-
-Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS ).
-
-## Thioridazine
-
-Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued (see WARNINGS ).
+- Monoamine Oxidase Inhibitors: Do not use with an MAOI or within 14 days of discontinuing an MAOI due to risk of drug interaction.
+  At least 5 weeks should be allowed after stopping fluoxetine oral solution before treatment with an MAOI [see Drug Interactions (7.1)].
+- Pimozide: Do not use with pimozide due to risk of QTc prolongation [see Drug Interactions (7.8)].
+- Thioridazine: Do not use with thioridazine due to QTc interval prolongation.
+  Do not use thioridazine within 5 weeks of discontinuing fluoxetine oral solution [see Drug Interactions (7.8)].
+- Known hypersensitivity to fluoxetine oral solution: Do not use this product in patients with known hypersensitivity to fluoxetine oral solution due to risk of anaphylactoid reactions, including bronchospasm, angioedema, laryngospasm, and urticaria [see Warnings and Precautions (5.3)].
