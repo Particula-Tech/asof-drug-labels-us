@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [seeClinical Pharmacology (12.4)].
+Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -65,7 +65,7 @@ Levofloxacin is rapidly and essentially completely absorbed after oral administr
 Peak plasma concentrations are usually attained one to two hours after oral dosing.
 The absolute bioavailability of levofloxacin from a 500 mg tablet and a 750 mg tablet of levofloxacin are both approximately 99%, demonstrating complete oral absorption of levofloxacin.
 Following a single intravenous dose of levofloxacin to healthy volunteers, the mean ±SD peak plasma concentration attained was 6.2 ±1 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ±4 mcg/mL after a 750 mg dose infused over 90 minutes.
-Levofloxacin tablet formulation is bioequivalent.
+Levofloxacin oral solution and tablet formulations are bioequivalent.
 
 Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or IV dosing regimens.
 Steady-state conditions are reached within 48 hours following a 500 mg or 750 mg once-daily dosage regimen.
@@ -153,17 +153,20 @@ The pharmacokinetics of levofloxacin in patients with serious community-acquired
 
 ### Drug-Drug Interactions
 
-The potential for pharmacokinetic drug interactions between levofloxacin and antacids warfarin, theophylline, cyclosporine, digoxin, probenecid, and cimetidine has been evaluated [seeDrug Interactions (7)].
+The potential for pharmacokinetic drug interactions between levofloxacin and antacids, warfarin, theophylline, cyclosporine, digoxin, probenecid, and cimetidine has been evaluated [seeDrug Interactions (7)].
 
 ## 12.4 Microbiology
 
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
+This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of bacteria to levofloxacin.
 Mechanism of Action
 
 Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent.
 The antibacterial activity of ofloxacin resides primarily in the L-isomer.
 The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination.
 
-Drug Resistance
+Mechanism of Resistance
 
 Fluoroquinolone resistance can arise through mutations in defined regions of DNA gyrase or topoisomerase IV, termed the Quinolone-Resistance Determining Regions (QRDRs), or through altered efflux.
 
@@ -171,33 +174,31 @@ Fluoroquinolones, including levofloxacin, differ in chemical structure and mode 
 Fluoroquinolones may, therefore, be active against bacteria resistant to these antimicrobials.
 
 Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-10).
-Although cross-resistance has been observed between levofloxacin and some other fluoroquinolones, some microorganisms resistant to other fluoroquinolones may be susceptible to levofloxacin.
+Cross-resistance has been observed between levofloxacin and some other fluoroquinolones, some microorganisms resistant to other fluoroquinolones may be susceptible to levofloxacin.
 
 Activity in vitro and in vivo
 
-Levofloxacin has in vitro activity against a wide range of Gram-negative and Gram-positive microorganisms.
+Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacteria.
 
-Levofloxacin is often bactericidal at concentrations equal to or slightly greater than inhibitory concentrations.
+Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in Indications and Usage (1):
 
-Levofloxacin has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in Indications and Usage (1):
+Gram-Positive Bacteria
 
-Aerobic Gram-Positive Microorganisms
+Enterococcus faecalis
 
-Enterococcus faecalis (many strains are only moderately susceptible)
+Staphylococcus aureus (methicillin-susceptible isolates)
 
-Staphylococcus aureus (methicillin-susceptible strains)
-
-Staphylococcus epidermidis (methicillin-susceptible strains)
+Staphylococcus epidermidis (methicillin-susceptible isolates)
 
 Staphylococcus saprophyticus
 
-Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]1)
+Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP])1
 
 Streptococcus pyogenes
 
-1MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are strains resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
+1MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
 
-Aerobic Gram-Negative Microorganisms
+Gram-Negative Bacteria
 
 Enterobacter cloacae
 
@@ -215,23 +216,19 @@ Moraxella catarrhalis
 
 Proteus mirabilis
 
-Pseudomonas aeruginosa2
+Pseudomonas aeruginosa
 
 Serratia marcescens
 
-2 As with other drugs in this class, some strains of Pseudomonas aeruginosa may develop resistance fairly rapidly during treatment with levofloxacin.
-
-Other Microorganisms
+Other Bacteria
 
 Chlamydophila pneumoniae
 
 Mycoplasma pneumoniae
 
-Levofloxacin has been shown to be active against Bacillus anthracis both in vitro and by use of plasma levels as a surrogate marker in a rhesus monkey model for anthrax (post-exposure) [seeIndications and Usage (1.13),Clinical Studies (14.9)].
+The following in vitro data are available, but their clinical significance is unknown: Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
-The following in vitro data are available, but their clinical significance is unknown:Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) strains of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
-
-Aerobic Gram-Positive Microorganisms
+Gram-Positive Bacteria
 
 Staphylococcus haemolyticus
 
@@ -245,7 +242,9 @@ Streptococcus milleri
 
 Viridans group streptococci
 
-Aerobic Gram-Negative Microorganisms
+Bacillus anthracis
+
+Gram-Negative Bacteria
 
 Acinetobacter baumannii
 
@@ -275,51 +274,49 @@ Providencia stuartii
 
 Pseudomonas fluorescens
 
-Anaerobic Gram-Positive Microorganisms
+Yersinia pestis
+
+Anaerobic Gram-Positive Bacteria
 
 Clostridium perfringens
 
 Susceptibility Tests
 
-Susceptibility testing for levofloxacin should be performed, as it is the optimal predictor of activity.
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in the resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-- Dilution techniques: Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC values).
-  These MIC values provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-  The MIC values should be determined using a standardized procedure.
-  Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of levofloxacin powder.
-  The MIC values should be interpreted according to the criteria outlined in Table 11.
-- Diffusion techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-  One such standardized procedure2 requires the use of standardized inoculum concentrations.
-  This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of microorganisms to levofloxacin.
-  Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 11.
-  Interpretation involves correlation of the diameter obtained in the disk test with the MIC for levofloxacin.
+Dilution techniques: Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MIC values should be determined using a standardized procedure.
+Standardized procedures are based on a dilution method(broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of levofloxacin powder.
+The MIC values should be interpreted according to the criteria outlined in Table 11.
 
-Table 11: Susceptibility Interpretive Criteria for levofloxacin
+Diffusion techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
+This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of bacteria to levofloxacin.
+
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 11.
+
+Table 11: Susceptibility Interpretive Criteria for Levofloxacin
 
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | S | I | R | S | I | R |
 | Enterobacteriaceae | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
 | Enterococcus faecalis | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
-| Methicillin-susceptible Staphylococcus species | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Staphylococcus species | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
 | Pseudomonas aeruginosa | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
-| Haemophilus influenzae | ≤2* | -† | -† | ≥17‡ | -† | -† |
-| Haemophilus parainfluenzae | ≤2* | -† | -† | ≥17‡ | -† | -† |
-| Streptococcus pneumoniae | ≤2§ | 4§ | ≥8§ | ≥17¶ | 14 to 16¶ | ≤13¶ |
+| Haemophilus influenzae | ≤2 | -† | - | ≥17 | - | - |
+| Haemophilus parainfluenzae | ≤2 | - | - | ≥17 | - | - |
+| Streptococcus pneumoniae | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
 | Streptococcus pyogenes | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Yersinia pestis4 | ≤0.25 | -- | -- | -- | -- | -- |
+| Bacillus anthracis4 | ≤0.25 | -- | -- | -- | -- | -- |
 
 S = Susceptible, I = Intermediate, R = Resistant
 
-* These interpretive standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.1
-
-† The current absence of data on resistant strains precludes defining any categories other than "Susceptible."
-Strains yielding MIC /zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing.
-
-‡ These interpretive standards are applicable only to disk diffusion susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.2
-
-§ These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
-
-¶ These zone diameter standards for Streptococcus spp. including S. pneumoniae apply only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
+† The current absence of data on resistant isolates precludes defining any categories other than "Susceptible."
+Isolates yielding MIC /zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing.
 
 A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -327,31 +324,20 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
-- Quality Control: Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-  For dilution technique, standard levofloxacin powder should give the MIC values provided in Table 12.
-  For diffusion technique, the 5 mcg levofloxacin disk should provide zone diameters provided in Table 12.
+Quality Control:
 
-Table 12: Quality Control for Susceptibility Testing
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard levofloxacin powder should provide the range of MIC values noted in Table 12.
+For the diffusion technique using the 5 mcg disk, the criteria in Table 12 should be achieved.
+
+Table 12: Quality Control Ranges for Susceptibility Testing
 
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
 | --- | --- | --- | --- |
 | Enterococcus faecalis | ATCC 29212 | 0.25 to 2 | -- |
 | Escherichia coli | ATCC 25922 | 0.008 to 0.06 | 29 to 37 |
-| Escherichia coli** | ATCC 35218 | 0.015 to 0.06 | -- |
-| Haemophilus influenzae | ATCC 49247 | 0.008 to 0.03* | 32 to 40† |
+| Escherichia coli | ATCC 35218 | 0.015 to 0.06 | -- |
+| Haemophilus influenzae | ATCC 49247 | 0.008 to 0.03 | 32 to 40 |
 | Pseudomonas aeruginosa | ATCC 27853 | 0.5 to 4 | 19 to 26 |
 | Staphylococcus aureus | ATCC 29213 | 0.06 to 0.5 | -- |
 | Staphylococcus aureus | ATCC 25923 | -- | 25 to 30 |
-| Streptococcus pneumoniae | ATCC 49619 | 0.5 to 2‡ | 20 to 25§ |
-
-* This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).1
-
-†This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium
-
-(HTM)2.
-
-‡ This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
-
-§ This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
-
-** Careful maintenance of this organism is required as the strain may lose its plasmid.
+| Streptococcus pneumoniae | ATCC 49619 | 0.5 to 2 | 20 to 25 |

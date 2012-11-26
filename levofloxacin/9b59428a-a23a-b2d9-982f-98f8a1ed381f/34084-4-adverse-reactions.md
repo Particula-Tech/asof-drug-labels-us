@@ -14,7 +14,7 @@
 - Prolongation of the QT Interval [seeWarnings and Precautions (5.9)]
 - Musculoskeletal Disorders in Pediatric Patients [seeWarnings and Precautions (5.10)]
 - Blood Glucose Disturbances [seeWarnings and Precautions (5.11)]
-- Photosensitivity/Phototoxicity [seeWarnings and Precautions (5.21)]
+- Photosensitivity/Phototoxicity [seeWarnings and Precautions (5.12)]
 - Development of Drug Resistant Bacteria [seeWarnings and Precautions (5.13)]
 
 Crystalluria and cylindruria have been reported with quinolones, including levofloxacin.
@@ -94,7 +94,7 @@ Table 8: Postmarketing Reports Of Adverse Drug Reactions
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged[see Warnings and Precautions (5.9)]tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic andMediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings andPrecautions (5.4)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice[see Warnings and Precautions (5.4, 5.5)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice[see Warnings and Precautions (5.4), (5.5)] |
 | Skin and Subcutaneous TissueDisorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme[see Warnings and Precautions (5.4)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.12)] leukocytoclastic vasculitis |
 | Musculoskeletal and ConnectiveTissue Disorders | tendon rupture [see Warnings and Precautions (5.1)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.4)] |

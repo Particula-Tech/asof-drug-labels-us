@@ -21,11 +21,16 @@ Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juv
 
 Inhalational Anthrax (Post-Exposure)
 
-Levofloxacin is indicated in pediatric patients for inhalational anthrax (post-exposure).
+Levofloxacin is indicated in pediatric patients 6 months of age and older, for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate.
-The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied.
-The pharmacokinetics of levofloxacin following a single intravenous dose were investigated in pediatric patients ranging in age from six months to 16 years.
-Pediatric patients cleared levofloxacin faster than adult patients resulting in lower plasma exposures than adults for a given mg/kg dose [seeIndications and Usage (1.13), Dosage and Administration (2.2),Clinical Pharmacology (12.3) and Clinical Studies (14.9)].
+The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied [see Indications and Usage (1.13), Dosage and Administration (2.2) and Clinical Studies (14.9)].
+
+Plague Levofloxacin is indicated in pediatric patients, 6 months of age and older, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
+Efficacy studies of levofloxacin could not be conducted in humans with pneumonic plague for ethical and feasibility reasons.
+Therefore, approval of this indication was based on an efficacy study conducted in animals.
+The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see Indications and Usage (1.14), Dosage and Administration (2.2) and Clinical Studies (14.10)].
+
+Safety and effectiveness in pediatric patients below the age of six months have not been established.
 
 Adverse Events
 

@@ -87,8 +87,8 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 
 ## 5.10 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
-Levofloxacin is indicated in pediatric patients (≥6 months of age) only for the prevention of inhalational anthrax (post-exposure) [see Indications and Usage (1.13)].
-An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin[seeUse in Specific Populations (8.4)
+Levofloxacin is indicated in pediatric patients (6 months of age and older) only for the prevention of inhalational anthrax (post-exposure) and for plague [see Indications and Usage (1.13, 1.14)].
+An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin[see Use in Specific Populations (8.4)].
 
 In immature rats and dogs, the oral and intravenous administration of levofloxacin resulted in increased osteochondrosis.
 Histopathological examination of the weight-bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of the cartilage.

@@ -23,15 +23,16 @@ Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearan
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)¶ | 750 mg | 5 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)# | 250 mg | 10 |
 | Uncomplicated Urinary Tract Infection | 250 mg | 3 |
-| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg and ≥ 6 months of age Þ,ß Pediatric patients < 50 kg and ≥ 6 months of age Þ,ß | 500 mg see Table 2 below (2.2) | 60 ß 60 ß |
+| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg Þ,ß Pediatric patients < 50 kg and ≥ 6 months of age Þ,ß | 500 mg see Table 2 below (2.2) | 60 ß 60 ß |
+| Plague, adult and pediatric patients > 50 kgà Pediatric patients < 50 kg and ≥ 6 months of age | 500 mg see Table 2 below (2.2) | 10 to 14 10 to 14 |
 
 1* Due to the designated pathogens [see Indications and Usage (1)].
 
 †Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
 
-‡ Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant strains [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Indications and Usage (1.2)].
+‡ Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Indications and Usage (1.2)].
 
-§Due to Streptococcus pneumoniae (excluding multi-drug-resistant strains [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see Indications and Usage (1.3)].
+§Due to Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see Indications and Usage (1.3)].
 
 ¶This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia.
 
@@ -42,7 +43,11 @@ This indication is based on a surrogate endpoint.
 Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)].
 
 ßThe safety of levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied.
-An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)] Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
+Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+
+à Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
+Higher doses of levofloxacin typically used for treatment of pneumonia can be used for treatment of plague, if clinically indicated.
 
 ## 2.2 Dosage in Pediatric Patients
 
@@ -53,10 +58,13 @@ Table 2: Dosage in Pediatric Patients ≥ 6 months of age
 | Type of Infection* | Dose | Freq. Once every | Duration† |
 | --- | --- | --- | --- |
 | Inhalational Anthrax (post-exposure) ‡,§ |  |  |  |
-| Pediatric patients > 50 kg and ≥ 6 months of age | 500 mg | 24 hr | 60 days§ |
+| Pediatric patients > 50 kg | 500 mg | 24 hr | 60 days§ |
 | Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 60 days§ |
+| Plague¶ |  |  |  |
+| Pediatric patients > 50 kg | 500 mg | 24 hr | 10 to 14 days |
+| Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 10 to 14 days |
 
-*Due to Bacillus anthracis [see Indications and Usage (1.13)]
+*Due to Bacillus anthracis [see Indications and Usage (1.13)] and Yersinia pestis [see Indications and Usage (1.14)].
 
 †Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
 
@@ -67,6 +75,8 @@ Levofloxacin plasma concentrationsachieved in humans are reasonably likely to pr
 §The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 days has not beenstudied.
 An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
 Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+
+¶ Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
 
 ## 2.3 Dosage Adjustment in Adults with Renal Impairment
 
