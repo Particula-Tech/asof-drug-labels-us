@@ -16,14 +16,11 @@ Rx only
 
 USUAL ADULT DOSAGE: See accompanying circular.
 
-Dist. by: MSP Distribution Services (C), LLC, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Manuf. by: MSD International GmbH (Singapore Branch).
-Singapore 637766
+Manuf. by: MSD International GmbH, (Singapore Branch), Singapore 637766 Made in Singapore.
 
-Product of Singapore.
-
-Lot
+Lot Exp.
 
 PRINCIPAL DISPLAY PANEL - Bottle Label 10/20
 
@@ -43,14 +40,11 @@ Rx only
 
 USUAL ADULT DOSAGE: See accompanying circular.
 
-Dist. by: MSP Distribution Services (C), LLC, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Manuf. by: MSD International GmbH (Singapore Branch).
-Singapore 637766
+Manuf. by: MSD International GmbH, (Singapore Branch), Singapore 637766 Made in Singapore.
 
-Product of Singapore.
-
-Lot
+Lot Exp.
 
 PRINCIPAL DISPLAY PANEL - Bottle Label 10/40
 
@@ -70,14 +64,11 @@ Rx only
 
 USUAL ADULT DOSAGE: See accompanying circular.
 
-Dist. by: MSP Distribution Services (C), LLC, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Manuf. by: MSD International GmbH (Singapore Branch).
-Singapore 637766
+Manuf. by: MSD International GmbH, (Singapore Branch), Singapore 637766 Made in Singapore.
 
-Product of Singapore.
-
-Lot
+Lot Exp.
 
 PRINCIPAL DISPLAY PANEL - Bottle Label 10/80
 
@@ -97,11 +88,8 @@ Rx only
 
 USUAL ADULT DOSAGE: See accompanying circular.
 
-Dist. by: MSP Distribution Services (C), LLC, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Manuf. by: MSD International GmbH (Singapore Branch).
-Singapore 637766
+Manuf. by: MSD International GmbH, (Singapore Branch), Singapore 637766 Made in Singapore.
 
-Product of Singapore.
-
-Lot
+Lot Exp.

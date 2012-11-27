@@ -10,16 +10,10 @@ Strong CYP3A4 inhibitors: The risk of myopathy is increased by reducing the elim
 Hence when VYTORIN is used with an inhibitor of CYP3A4 (e.g., as listed below), elevated plasma levels of HMG-CoA reductase inhibitory activity increases the risk of myopathy and rhabdomyolysis, particularly with higher doses of VYTORIN.
 [See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
 Concomitant use of drugs labeled as having a strong inhibitory effect on CYP3A4 is contraindicated [see Contraindications (4)].
-If treatment with itraconazole, ketoconazole, posaconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with VYTORIN must be suspended during the course of treatment.
-
-Although not studied clinically, voriconazole has been shown to inhibit lovastatin metabolism in vitro (human liver microsomes).
-Therefore, voriconazole is likely to increase the plasma concentration of simvastatin.
-It is recommended that dose adjustment of VYTORIN be considered during concomitant use of voriconazole and VYTORIN to reduce the risk of myopathy, including rhabdomyolysis.
-[see Warnings and Precautions (5.1)].
+If treatment with itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with VYTORIN must be suspended during the course of treatment.
 
 Cyclosporine or Danazol: The risk of myopathy, including rhabdomyolysis is increased by concomitant administration of cyclosporine or danazol.
-Therefore, concomitant use of these drugs is contraindicated.
-[see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Therefore, concomitant use of these drugs is contraindicated [see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Lipid-Lowering Drugs That Can Cause Myopathy When Given Alone
 
@@ -27,9 +21,9 @@ Gemfibrozil: Contraindicated with VYTORIN [see Contraindications (4) and Warning
 
 Other fibrates: Caution should be used when prescribing with VYTORIN [see Warnings and Precautions (5.1)].
 
-## 7.3 Amiodarone, Ranolazine, or Calcium Channel Blockers
+## 7.3 Amiodarone, Dronedarone, Ranolazine, or Calcium Channel Blockers
 
-The risk of myopathy, including rhabdomyolysis, is increased by concomitant administration of amiodarone, ranolazine, or calcium channel blockers such as verapamil, diltiazem or amlodipine [see Dosage and Administration (2.3) and Warnings and Precautions (5.1) and Table 6 in Clinical Pharmacology (12.3)].
+The risk of myopathy, including rhabdomyolysis, is increased by concomitant administration of amiodarone, dronedarone, ranolazine, or calcium channel blockers such as verapamil, diltiazem or amlodipine [see Dosage and Administration (2.3) and Warnings and Precautions (5.1) and Table 6 in Clinical Pharmacology (12.3)].
 
 ## 7.4 Niacin
 

@@ -64,7 +64,7 @@ Results at Week 33 were consistent with those at Week 6.
 
 Table 3: Mean Percent Difference at Week 6 Between the Pooled Ezetimibe Coadministered with Simvastatin Group and the Pooled Simvastatin Monotherapy Group in Adolescent Patients with Heterozygous Familial Hypercholesterolemia
 
-|  | Total-C | LDL-C | Apo B | Non-HDL-C | TGFor triglycerides, median % change from baseline | HDL-C |
+|  | Total-C | LDL-C | Apo B | Non-HDL-C | TGFor triglycerides, median % change from baseline. | HDL-C |
 | --- | --- | --- | --- | --- | --- | --- |
 | Mean percent difference between treatment groups | -12% | -15% | -12% | -14% | -2% | +0.1% |
 | 95% Confidence Interval | (-15%, -9%) | (-18%, -12%) | (-15%, -9%) | (-17%, -11%) | (-9, +4) | (-3, +3) |

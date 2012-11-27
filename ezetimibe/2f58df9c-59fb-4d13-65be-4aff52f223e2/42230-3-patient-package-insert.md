@@ -40,6 +40,7 @@ Do not take VYTORIN if you take:
   - itraconazole
   - ketoconazole
   - posaconazole
+  - voriconazole
 - HIV protease inhibitors (indinavir, nelfinavir, ritonavir, saquinavir, tipranavir, or atazanavir)
 - Certain hepatitis C virus protease inhibitors (such as boceprevir or telaprevir)
 - Certain antibiotics, including:
@@ -65,22 +66,24 @@ VYTORIN has not been studied in children under 10 years of age.
 
 What should I tell my doctor before and while taking VYTORIN?
 
-Tell your doctor right away if you have unexplained muscle pain, tenderness, or weakness while you take VYTORIN.
+Tell your doctor right away if you have unexplained muscle pain, tenderness, or weakness especially with fever while you take VYTORIN.
 Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
 
 The risk of muscle breakdown is greater at higher doses of VYTORIN, particularly the 10/80 mg dose.
 
 The risk of muscle breakdown is greater in people 65 years of age and older, females, and people with kidney or thyroid problems.
 
+If you have muscle problems that do not go away even after your doctor has advised you to stop taking VYTORIN, notify your doctor.
+Your doctor may do further tests to diagnose the cause of your muscle problems.
+
 Taking VYTORIN with certain substances can increase the risk of muscle problems.
 It is especially important to tell your doctor if you take:
 
 - fibric acid derivatives (such as fenofibrate)
-- amiodarone (a drug used to treat an irregular heartbeat)
+- amiodarone or dronedarone (drugs used to treat an irregular heartbeat)
 - verapamil, diltiazem, amlodipine, or ranolazine (drugs used to treat high blood pressure, chest pain associated with heart disease, or other heart conditions)
-- large quantities of grapefruit juice (more than 1 quart daily)
+- grapefruit juice (which should be avoided while taking VYTORIN)
 - colchicine (a medicine used to treat gout)
-- voriconazole (an anti-fungal medicine)
 - large doses of niacin or nicotinic acid
 
 Tell your doctor if you are taking niacin or a niacin-containing product, as this may increase your risk of muscle problems, especially if you are Chinese.
@@ -137,7 +140,7 @@ In clinical studies patients reported the following common side effects while ta
 
 The following side effects have been reported in general use with VYTORIN or with ezetimibe or simvastatin tablets (tablets that contain the active ingredients of VYTORIN):
 
-- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing (which may require treatment right away), rash, hives; raised red rash, sometimes with target-shaped lesions; joint pain; muscle pain; alterations in some laboratory blood tests; liver problems (sometimes serious); inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; gallstones; inflammation of the gallbladder; trouble sleeping; poor memory; memory loss; confusion; erectile dysfunction; breathing problems including persistent cough and/or shortness of breath or fever.
+- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing (which may require treatment right away), rash, hives; raised red rash, sometimes with target-shaped lesions; joint pain; muscle pain, tenderness, or weakness; alterations in some laboratory blood tests; liver problems (sometimes serious); inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; gallstones; inflammation of the gallbladder; trouble sleeping; poor memory; memory loss; confusion; erectile dysfunction; breathing problems including persistent cough and/or shortness of breath or fever.
 
 Tell your doctor if you are having these or any other medical problems while on VYTORIN.
 This is not a complete list of side effects.

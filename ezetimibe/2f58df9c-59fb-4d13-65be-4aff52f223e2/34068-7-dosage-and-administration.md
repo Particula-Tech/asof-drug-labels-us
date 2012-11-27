@@ -18,7 +18,7 @@ Due to the increased risk of myopathy, including rhabdomyolysis, associated with
 
 ## 2.3 Coadministration with Other Drugs
 
-Patients taking Verapamil or Diltiazem
+Patients taking Verapamil, Diltiazem, or Dronedarone
 
 - The dose of VYTORIN should not exceed 10/10 mg/day [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
 

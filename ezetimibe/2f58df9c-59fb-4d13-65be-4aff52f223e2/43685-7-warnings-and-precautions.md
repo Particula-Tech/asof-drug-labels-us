@@ -30,10 +30,13 @@ In post-marketing experience with ezetimibe, cases of myopathy and rhabdomyolysi
 Most patients who developed rhabdomyolysis were taking a statin prior to initiating ezetimibe.
 However, rhabdomyolysis has been reported very rarely with ezetimibe monotherapy and very rarely with the addition of ezetimibe to agents known to be associated with increased risk of rhabdomyolysis, such as fibrates.
 
-All patients starting therapy with VYTORIN or whose dose of VYTORIN is being increased should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness.
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
+
+All patients starting therapy with VYTORIN or whose dose of VYTORIN is being increased should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing VYTORIN.
 VYTORIN therapy should be discontinued immediately if myopathy is diagnosed or suspected.
 In most cases, muscle symptoms and CK increases resolved when simvastatin treatment was promptly discontinued.
-Periodic CK determinations may be considered in patients starting therapy with simvastatin or whose dose is being increased, but there is no assurance that such monitoring will prevent myopathy.
+Periodic CK determinations may be considered in patients starting therapy with VYTORIN or whose dose is being increased, but there is no assurance that such monitoring will prevent myopathy.
 
 Many of the patients who have developed rhabdomyolysis on therapy with simvastatin have had complicated medical histories, including renal insufficiency usually as a consequence of long-standing diabetes mellitus.
 Such patients taking VYTORIN merit closer monitoring.
@@ -46,13 +49,11 @@ Drug Interactions
 The risk of myopathy and rhabdomyolysis is increased by high levels of statin activity in plasma.
 Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
 Certain drugs that inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
-These include itraconazole, ketoconazole, and posaconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, or large quantities of grapefruit juice (>1 quart daily).
+These include itraconazole, ketoconazole, posaconazole, and voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, or grapefruit juice.
+[See Clinical Pharmacology (12.3).]
 Combination of these drugs with VYTORIN is contraindicated.
-If treatment with itraconazole, ketoconazole, posaconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with VYTORIN must be suspended during the course of treatment.
+If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy with VYTORIN must be suspended during the course of treatment.
 [See Contraindications (4) and Drug Interactions (7).]
-In vitro studies have demonstrated a potential for voriconazole to inhibit the metabolism of simvastatin.
-Adjustment of the VYTORIN dose may be needed to reduce the risk of myopathy/rhabdomyolysis if voriconazole must be used concomitantly with VYTORIN.
-[See Drug Interactions (7.1).]
 
 The combined use of VYTORIN with gemfibrozil, cyclosporine, or danazol is contraindicated [see Contraindications (4) and Drug Interactions (7.1 and 7.2)].
 
@@ -60,7 +61,7 @@ Caution should be used when prescribing other fibrates with VYTORIN, as these ag
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing VYTORIN with colchicine [see Drug Interactions (7.9)].
 
-The benefits of the combined use of VYTORIN with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), amiodarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 6 in Clinical Pharmacology (12.3)].
+The benefits of the combined use of VYTORIN with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 6 in Clinical Pharmacology (12.3)].
 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
 In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg or ezetimibe/simvastatin 10/40 mg coadministered with lipid-modifying doses of a niacin-containing product.
@@ -74,10 +75,10 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Gemfibrozil Cyclosporine Danazol | Contraindicated with VYTORIN |
-| Verapamil Diltiazem | Do not exceed 10/10 mg VYTORIN daily |
+| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Gemfibrozil Cyclosporine Danazol | Contraindicated with VYTORIN |
+| Verapamil Diltiazem Dronedarone | Do not exceed 10/10 mg VYTORIN daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 10/20 mg VYTORIN daily |
-| Grapefruit juice | Avoid large quantities of grapefruit juice (>1 quart daily) |
+| Grapefruit juice | Avoid grapefruit juice |
 
 ## 5.2 Liver Enzymes
 
