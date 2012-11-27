@@ -65,12 +65,7 @@ Do not use Victoza if:
   This is a disease where people have tumors in more than one gland in their body.
 - •you are allergic to liraglutide or any of the ingredients in Victoza.
   See the end of this Medication Guide for a complete list of ingredients in Victoza.
-  Symptoms of a serious allergic reaction may include:
-- o swelling of your face, lips, tongue, or throat
-- o fainting or feeling dizzy
-- o very rapid heartbeat
-- o problems breathing or swallowing
-- o severe rash or itching
+  Symptoms of a serious allergic reaction may include:o swelling of your face, lips, tongue, or throat o fainting or feeling dizzyo very rapid heartbeato problems breathing or swallowingo severe rash or itching
 
 Talk with your healthcare provider if you are not sure if you have any of these conditions.
 

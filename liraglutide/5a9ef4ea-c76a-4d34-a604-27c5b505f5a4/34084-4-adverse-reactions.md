@@ -56,37 +56,37 @@ Table 1 Adverse reactions reported in ≥5% of Victoza-treated patients in a 52-
 
 Table 2 Adverse reactions reported in ≥5% of Victoza-treated patients and occurring more frequently with Victoza compared to placebo: 26-week combination therapy trials
 
-| Add-on to Metformin Trial |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | All Victoza + MetforminN = 724 | Placebo + MetforminN = 121 |  |  | Glimepiride + MetforminN = 242 |
-| Adverse Reaction | (%) | (%) |  |  | (%) |
-| Nausea | 15.2 | 4.1 |  |  | 3.3 |
-| Diarrhea | 10.9 | 4.1 |  |  | 3.7 |
-| Headache | 9.0 | 6.6 |  |  | 9.5 |
-| Vomiting | 6.5 | 0.8 |  |  | 0.4 |
-| Add-on to Glimepiride Trial |  |  |  |  |  |
-|  | All Victoza +GlimepirideN = 695 |  | Placebo +GlimepirideN = 114 | Rosiglitazone + GlimepirideN = 231 |  |
-| Adverse Reaction | (%) |  | (%) | (%) |  |
-| Nausea | 7.5 |  | 1.8 | 2.6 |  |
-| Diarrhea | 7.2 |  | 1.8 | 2.2 |  |
-| Constipation | 5.3 |  | 0.9 | 1.7 |  |
-| Dyspepsia | 5.2 |  | 0.9 | 2.6 |  |
-| Add-on to Metformin + Glimepiride |  |  |  |  |  |
-|  | Victoza 1.8 + Metformin + GlimepirideN = 230 |  | Placebo +Metformin + GlimepirideN = 114 | Glargine +Metformin + GlimepirideN = 232 |  |
-| Adverse Reaction | (%) |  | (%) | (%) |  |
-| Nausea | 13.9 |  | 3.5 | 1.3 |  |
-| Diarrhea | 10.0 |  | 5.3 | 1.3 |  |
-| Headache | 9.6 |  | 7.9 | 5.6 |  |
-| Dyspepsia | 6.5 |  | 0.9 | 1.7 |  |
-| Vomiting | 6.5 |  | 3.5 | 0.4 |  |
-| Add-on to Metformin + Rosiglitazone |  |  |  |  |  |
-|  | All Victoza +Metformin + RosiglitazoneN = 355 | Placebo +Metformin + Rosiglitazone N = 175 |  |  |  |
-| Adverse Reaction | (%) | (%) |  |  |  |
-| Nausea | 34.6 | 8.6 |  |  |  |
-| Diarrhea | 14.1 | 6.3 |  |  |  |
-| Vomiting | 12.4 | 2.9 |  |  |  |
-| Headache | 8.2 | 4.6 |  |  |  |
-| Constipation | 5.1 | 1.1 |  |  |  |
+| Add-on to Metformin Trial |  |  |  |
+| --- | --- | --- | --- |
+|  | All Victoza + MetforminN = 724 | Placebo + MetforminN = 121 | Glimepiride + MetforminN = 242 |
+| Adverse Reaction | (%) | (%) | (%) |
+| Nausea | 15.2 | 4.1 | 3.3 |
+| Diarrhea | 10.9 | 4.1 | 3.7 |
+| Headache | 9.0 | 6.6 | 9.5 |
+| Vomiting | 6.5 | 0.8 | 0.4 |
+| Add-on to Glimepiride Trial |  |  |  |
+|  | All Victoza +GlimepirideN = 695 | Placebo +GlimepirideN = 114 | Rosiglitazone + GlimepirideN = 231 |
+| Adverse Reaction | (%) | (%) | (%) |
+| Nausea | 7.5 | 1.8 | 2.6 |
+| Diarrhea | 7.2 | 1.8 | 2.2 |
+| Constipation | 5.3 | 0.9 | 1.7 |
+| Dyspepsia | 5.2 | 0.9 | 2.6 |
+| Add-on to Metformin + Glimepiride |  |  |  |
+|  | Victoza 1.8 + Metformin + GlimepirideN = 230 | Placebo +Metformin + GlimepirideN = 114 | Glargine +Metformin + GlimepirideN = 232 |
+| Adverse Reaction | (%) | (%) | (%) |
+| Nausea | 13.9 | 3.5 | 1.3 |
+| Diarrhea | 10.0 | 5.3 | 1.3 |
+| Headache | 9.6 | 7.9 | 5.6 |
+| Dyspepsia | 6.5 | 0.9 | 1.7 |
+| Vomiting | 6.5 | 3.5 | 0.4 |
+| Add-on to Metformin + Rosiglitazone |  |  |  |
+|  | All Victoza +Metformin + RosiglitazoneN = 355 | Placebo +Metformin + Rosiglitazone N = 175 |  |
+| Adverse Reaction | (%) | (%) |  |
+| Nausea | 34.6 | 8.6 |  |
+| Diarrhea | 14.1 | 6.3 |  |
+| Vomiting | 12.4 | 2.9 |  |
+| Headache | 8.2 | 4.6 |  |
+| Constipation | 5.1 | 1.1 |  |
 
 Table 3 Adverse Reactions reported in ≥5% of Victoza-treated patients in a 26-Week Open-Label Trial versus Exenatide
 
