@@ -70,9 +70,9 @@ Maximum improvement in FEV1 generally occurred within 3 hours, and clinically si
 Following the initial dose, predose FEV1 relative to Day 1 baseline improved markedly over the first week of treatment and continued to improve over the 12 weeks of treatment in both studies.
 No diminution in the 12-hour bronchodilator effect was observed with either ADVAIR DISKUS 100/50 (Figures 3 and 4) or ADVAIR DISKUS 250/50 as assessed by FEV1 following 12 weeks of therapy.
 
-- First Treatment Day
+First Treatment Day
 
-- Last Treatment Day (Week 12)
+Last Treatment Day (Week 12)
 
 Reduction in asthma symptoms, use of rescue VENTOLIN Inhalation Aerosol, and improvement in morning and evening PEF also occurred within the first day of treatment with ADVAIR DISKUS, and continued to improve over the 12 weeks of therapy in both studies.
 

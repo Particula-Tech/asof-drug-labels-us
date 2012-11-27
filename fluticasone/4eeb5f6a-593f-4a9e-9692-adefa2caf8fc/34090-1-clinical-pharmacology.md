@@ -31,7 +31,7 @@ In humans, single doses of salmeterol administered via inhalation aerosol attenu
 
 ## 12.2 Pharmacodynamics
 
-ADVAIR DISKUS:Healthy Subjects:Cardiovascular Effects: Since systemic pharmacodynamic effects of salmeterol are not normally seen at the therapeutic dose, higher doses were used to produce measurable effects.
+ADVAIR DISKUS:HealthySubjects:Cardiovascular Effects: Since systemic pharmacodynamic effects of salmeterol are not normally seen at the therapeutic dose, higher doses were used to produce measurable effects.
 Four (4) studies were conducted in healthy adult subjects: (1) a single-dose crossover study using 2 inhalations of ADVAIR DISKUS 500/50, fluticasone propionate powder 500 mcg and salmeterol powder 50 mcg given concurrently, or fluticasone propionate powder 500 mcg given alone, (2) a cumulative dose study using 50 to 400 mcg of salmeterol powder given alone or as ADVAIR DISKUS 500/50, (3) a repeat-dose study for 11 days using 2 inhalations twice daily of ADVAIR DISKUS 250/50, fluticasone propionate powder 250 mcg, or salmeterol powder 50 mcg, and (4) a single-dose study using 5 inhalations of ADVAIR DISKUS 100/50, fluticasone propionate powder 100 mcg alone, or placebo.
 In these studies no significant differences were observed in the pharmacodynamic effects of salmeterol (pulse rate, blood pressure, QTc interval, potassium, and glucose) whether the salmeterol was given as ADVAIR DISKUS, concurrently with fluticasone propionate from separate inhalers, or as salmeterol alone.
 The systemic pharmacodynamic effects of salmeterol were not altered by the presence of fluticasone propionate in ADVAIR DISKUS.
@@ -57,7 +57,7 @@ Pediatric Patients:HPA Axis Effects: In a 12-week study in patients with asthma 
 The values for 24-hour urinary cortisol excretion at study entry and after 12 weeks of treatment were similar within each treatment group.
 After 12 weeks, 24-hour urinary cortisol excretion was also similar between the 2 groups.
 
-Chronic Obstructive Pulmonary Disease:Cardiovascular Effects:In clinical studies with ADVAIR DISKUS in patients with COPD, no significant differences were seen in pulse rate, blood pressure, potassium, and glucose between ADVAIR DISKUS, the individual components of ADVAIR DISKUS, and placebo.
+Chronic Obstructive Pulmonary Disease:CardiovascularEffects:In clinical studies with ADVAIR DISKUS in patients with COPD, no significant differences were seen in pulse rate, blood pressure, potassium, and glucose between ADVAIR DISKUS, the individual components of ADVAIR DISKUS, and placebo.
 In a study of ADVAIR DISKUS 250/50, 8 patients (2 [1.1%] in the group given ADVAIR DISKUS 250/50, 1 [0.5%] in the fluticasone propionate 250-mcg group, 3 [1.7%] in the salmeterol group, and 2 [1.1%] in the placebo group) had QTc intervals >470 msec at least 1 time during the treatment period.
 Five (5) of these 8 patients had a prolonged QTc interval at baseline.
 
@@ -114,7 +114,7 @@ Fluticasone Propionate Nasal Spray: In adult and adolescent patients aged 12 yea
 
 ## 12.3 Pharmacokinetics
 
-Absorption:Fluticasone Propionate:Healthy Subjects: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
+Absorption:FluticasonePropionate:Healthy Subjects: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
 Studies using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung is systemically absorbed.
 
