@@ -62,12 +62,19 @@ What else do I need to know about antidepressant medicines?
   Do not start new medicines without first checking with your healthcare provider.
 
 4.
-Oleptro is not approved for use in children .
+Oleptro is not approved for use in children.
 Talk to your healthcare provider for more information.
 
 What is Oleptro?
 
 Oleptro is a prescription medicine taken 1 time a day to treat major depressive disorder in adults.
+
+Who should not take Oleptro?
+
+- If you take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- Do not take an MAOI within 2 weeks of stopping Oleptro unless directed to do so by your physician.
+- Do not start Oleptro if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 What should I tell my healthcare provider before taking Oleptro?
 
@@ -174,20 +181,18 @@ Inactive ingredients: hydroxypropyl distarch phosphate (Contramid®), hypromello
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Angelini Labopharm
+Angelini Labopharm LLC
 
-Unit 5, The Seapoint Building
+Princeton, NJ 08540
 
-44/45 Clontarf Road, Dublin 3, IRELAND
-
-© 2010, Angelini Labopharm.
+© 2012, Angelini Labopharm LLC.
 
 All rights reserved.
 
-U.S. Patent 6,607,748
+U.S. Patent Nos. 6,607,748, 7,829,120 and 8,133,893
 
-Oleptro™ is a trademark of Labopharm Inc.
+Oleptro™ is a trademark of Angelini Labopharm LLC.
 
 Contramid® is a registered trademark of Labopharm Inc.
 
-[December 2010]
+[September 2012]
