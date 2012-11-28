@@ -10,7 +10,7 @@ For patients unable to swallow an intact capsule, alternative administration opt
 
 ## 2.1 Short-Term Treatment of Active Duodenal Ulcer
 
-The recommended adult oral dose of omeprazole delayed-release capsules,USP are 20 mg once daily.
+The recommended adult oral dose of omeprazole delayed-release capsules,USP is 20 mg once daily.
 Most patients heal within four weeks.
 Some patients may require an additional four weeks of therapy.
 

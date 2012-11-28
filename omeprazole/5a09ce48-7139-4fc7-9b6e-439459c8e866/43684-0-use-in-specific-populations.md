@@ -23,7 +23,7 @@ The study could effectively rule out a relative risk greater than 2.5 for all ma
 Rates of preterm delivery or growth retardation did not differ between the groups.
 
 A controlled prospective observational study followed 113 women exposed to omeprazole during pregnancy (89% first trimester exposures).
-The reported rates of major congenital malformations was 4% for the omeprazole group, 2% for controls exposed to non-teratogens, and 2.8% in disease-paired controls (background incidence of major malformations 1–5%).
+The reported rates of major congenital malformations was 4% for the omeprazole group, 2% for controls exposed to non-teratogens, and 2.8% in disease-paired controls (background incidence of major malformations 1 to 5%).
 Rates of spontaneous and elective abortions, preterm deliveries, gestational age at delivery, and mean birth weight did not differ between the groups.
 The sample size in this study has 80% power to detect a 5–fold increase in the rate of major malformation.
 

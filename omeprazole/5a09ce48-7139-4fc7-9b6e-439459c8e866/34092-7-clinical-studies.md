@@ -6,7 +6,7 @@ Active Duodenal Ulcer— In a multicenter, double-blind, placebo-controlled stud
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
 
-|  | Omeprazole 20 mg a.m.(n=99) | Placebo a.m.(n=48) |
+|  | Omeprazole 20 mg a.m. (n=99) | Placebo a.m. (n=48) |
 | --- | --- | --- |
 | Week 2 | (p ≤ 0.01)41 | 13 |
 | Week 4 | 75 | 27 |
@@ -43,7 +43,7 @@ Treatment of Active Duodenal Ulcer % of Patients Healed
 
 H. pylori Eradication in Patients with Duodenal Ulcer Disease
 
-Triple Therapy(omeprazole/clarithromycin/amoxicillin)— Three U.S., randomized, double-blind clinical studies in patients with H. pylori infection and duodenal ulcer disease (n=558) compared omeprazole plus clarithromycin plus amoxicillin with clarithromycin plus amoxicillin.
+Triple Therapy (omeprazole/clarithromycin/amoxicillin)— Three U.S., randomized, double-blind clinical studies in patients with H. pylori infection and duodenal ulcer disease (n=558) compared omeprazole plus clarithromycin plus amoxicillin with clarithromycin plus amoxicillin.
 Two studies (1 and 2) were conducted in patients with an active duodenal ulcer, and the other study (3) was conducted in patients with a history of a duodenal ulcer in the past 5 years but without an ulcer present at the time of enrollment.
 The dose regimen in the studies was omeprazole 20 mg twice daily plus clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days; or clarithromycin 500 mg twice daily, plus amoxicillin 1 g twice daily for 10 days.
 In studies 1 and 2, patients who took the omeprazole regimen also received an additional 18 days of omeprazole 20 mg once daily.
@@ -177,7 +177,7 @@ Life Table Analysis
 
 |  | Omeprazole 20 mg once daily(n=131) | Omeprazole10 mg once daily(n=133) | Ranitidine150 mg twice daily(n=128) |
 | --- | --- | --- | --- |
-| Percent in endoscopic remission at 12 months | (p = 0.01) omeprazole 20 mg once daily, versus omeprazole 10 mg- once daily or Ranitidine77 | (p= 0.03) omeprazole 10 mg once daily, versus Ranitidine58 | 46 |
+| Percent in endoscopic remission at 12 months | (p = 0.01) omeprazole 20 mg once daily, versus omeprazole 10 mg once daily or Ranitidine77 | (p= 0.03) omeprazole 10 mg once daily, versus Ranitidine58 | 46 |
 
 In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing, 20 mg daily of omeprazole was effective, while 10 mg did not demonstrate effectiveness.
 

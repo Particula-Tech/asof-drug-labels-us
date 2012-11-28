@@ -66,7 +66,7 @@ For patients expected to be on prolonged treatment or who take PPIs with medicat
 ## 5.8 Concomitant Use of Omeprazole with St John’s Wort or Rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations.
-[See DRUG INTERACTIONS (7.3)] Avoid concomitant use of Omeprazole with St John’s Wort or rifampin.
+[See DRUG INTERACTIONS (7.3)] Avoid concomitant use of omeprazole with St John’s Wort or rifampin.
 
 ## 5.9 Interactions with Investigations for Neuroendocrine Tumors
 
@@ -74,3 +74,9 @@ Serum Chromogranin A (CgA) levels increase secondary to drug-induced decreases i
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Providers should temporarily stop omeprazole treatment before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
+
+## 5.10 Concomitant Use of Omeprazole With Methotrexate
+
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
+In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients.
+[see DRUG INTERACTIONS(7.6)]

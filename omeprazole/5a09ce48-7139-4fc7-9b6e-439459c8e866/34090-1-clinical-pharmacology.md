@@ -119,13 +119,13 @@ Clarithromycin concentrations in the gastric tissue and mucus were also increase
 
 Table 2
 
-Clarithromycin Tissue Concentrations 2 hours after Dose a
+Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (mcg/g)
 
 | Tissue | Clarithromycin | Clarithromycin + Omeprazole |
 | --- | --- | --- |
 | Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n=5) |
 | Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n= 5) |
-| Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n=4) |
+| Mucus | 4.15 ± 7.74 (n = 4) | 29.%2 32.79 (n=4) |
 
 Special Populations
 
@@ -144,7 +144,7 @@ Table 3
 
 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing /Parameter | ChildrenNote: * =plasma concentration adjusted to an oral dose of 1 mg/kg. ≤ 20 kg 2-5 years10 mg | Children > 20 kg 6-16 years 20 mg | AdultsData from a single and repeated dose studies (mean 76 kg) 23-29 years (n=12) |
+| Single or Repeated Oral Dosing /Parameter | ChildrenNote: * =plasma concentration adjusted to an oral dose of 1 mg/kg. ≤ 20 kg 2-5 years 10 mg | Children > 20 kg 6-16 years 20 mg | AdultsData from a single and repeated dose studies (mean 76 kg) 23-29 years (n=12) |
 | --- | --- | --- | --- |
 | Single Dosing |  |  |  |
 | CmaxData from a single and repeated dose study (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
@@ -153,7 +153,7 @@ Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Admi
 | Cmax (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
 | AUC (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 
-Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules
+Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules.
 
 Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to16 years of age or adults; AUCs of the latter two groups did not differ.
 [See DOSAGE AND ADMINISTRATION (2)]
@@ -191,13 +191,11 @@ One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory conce
 
 Table 4
 
-Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
-
 | Clarithromycin Pretreatment Results |  |  | Clarithromycin Post-treatment Results |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes Includes only patients with pretreatment clarithromycin susceptibility test results |  |  |  |  |  |
 |  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
-|  | SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 – 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL | I | R | No MIC |  |
+|  | SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL | I | R | No MIC |  |
 | Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5) |  |  |  |  |  |
 | Susceptible 108 | 72 | 1 |  | 26 | 9 |
 | Intermediate 1 |  |  |  | 1 |  |
@@ -220,7 +218,7 @@ Eleven of the patients who failed triple therapy also had post-treatment H. pylo
 Susceptibility Test for Helicobacter pylori
 
 The reference methodology for susceptibility testing of H. pylori is agar dilution MICs1.
-One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 - 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
+One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 to 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
 The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for campylobacters.
 After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
 The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria:
@@ -246,4 +244,4 @@ Standard clarithromycin and amoxicillin powders should provide the following MIC
 Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly also Clostridium difficile.

@@ -9,7 +9,7 @@ Co-administration of saquinavir with proton pump inhibitors is expected to incre
 Omeprazole has been reported to interact with some antiretroviral drugs.
 The clinical importance and the mechanisms behind these interactions are not always known.
 Increased gastric pH during omeprazole treatment may change the absorption of the antiretroviral drug.
-Other possible interaction mechanisms are via CYP 2C19.
+Other possible interaction mechanisms are via CYP2C19.
 
 Reduced Concentrations of Atazanavir and Nelfinavir
 
@@ -28,11 +28,10 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 
 ## 7.2 Drugs for Which Gastric pH can Affect Bioavailability
 
-Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, and iron salts).
-The absorption of digoxin can increase during treatment with omeprazole.
+Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, ampicillin esters, iron salts and erlotinib can decrease, while the absorption of drugs such as digoxin can increase during treatment with omeprazole.
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
 Therefore, patients may need to be monitored when digoxin is taken concomitantly with omeprazole.
-
 In the clinical trials, antacids were used concomitantly with the administration of omeprazole.
 
 ## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
@@ -50,7 +49,7 @@ Dose adjustment of omeprazole is not normally required.
 However, in patients with Zollinger-Ellison syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
 When voriconazole (400 mg Q12h x 1 day, then 200 mg x 6 days) was given with omeprazole (40 mg once daily x 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
 
-Omeprazole acts as an inhibitor of CYP 2C19.
+Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26%, respectively.
 Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
 Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
@@ -82,4 +81,9 @@ Concomitant administration of omeprazole and tacrolimus may increase the serum l
 ## 7.5 Interactions With Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
-[seeWARNINGS AND PRECAUTIONS (5.7) AND CLINICAL PHARMACOLOGY (12)].
+[see WARNINGS AND PRECAUTIONS (5.7) AND CLINICAL PHARMACOLOGY (12)].
+
+## 7.6 Methotrexate
+
+Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see WARNINGS AND PRECAUTIONS (5.10)].
