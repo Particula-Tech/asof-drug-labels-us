@@ -7,4 +7,4 @@ Pantoprazole is not removed by hemodialysis.
 In case of overdose, treatment should be symptomatic and supportive.
 
 Single intravenous doses of pantoprazole at 378, 230, and 266 mg/kg (38, 46, and 177 times the recommended human dose based on body surface area) were lethal to mice, rats and dogs, respectively.
-The symptoms of acute toxicity were hypoactivity, ataxia, hunched sitting, limb-splay, lateral position, segregation, absence of ear reflex, and tremor.
+The symptoms of acute toxicity were hypoactivity, ataxia, hunched sitting, limb‑splay, lateral position, segregation, absence of ear reflex, and tremor.

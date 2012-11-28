@@ -73,3 +73,5 @@ Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic f
 Psychiatric Disorder: hallucinations, confusion, insomnia, somnolence
 
 Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
+
+Infections and Infestations: Clostridium difficile associated diarrhea

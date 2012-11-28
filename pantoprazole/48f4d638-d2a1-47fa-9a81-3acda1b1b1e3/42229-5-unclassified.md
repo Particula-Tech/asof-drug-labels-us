@@ -70,8 +70,8 @@ Inform patients that the most frequently occurring adverse reactions in US clini
 Patients should be instructed to inform their healthcare provider if they develop any unusual symptom, or if any known symptom persists or worsens.
 Patients should be instructed to inform their healthcare provider of any other medications they are currently taking, including over-the-counter medications, as well as allergies to any medications.
 
-|  | This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com or call our medical communications department toll-free at 1-800-438-1985. |  |
-| --- | --- | --- |
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
 Distributed by Wyeth Pharmaceuticals Inc
 
@@ -85,6 +85,6 @@ Nycomed GmbH
 
 D78467 Konstanz, Germany
 
-NOVAPLUS is a registered trademark of Novation, LLC
+Novation and NOVAPLUS are registered trademarks of Novation LLC.
 
-LAB-0521-2.0
+LAB-0521-3.0
