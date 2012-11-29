@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10. OVERDOSAGE
 
 There is no specific treatment for overdose with Antara.
 General supportive care of the patient is indicated, including monitoring of vital signs and observation of clinical status, should an overdose occur.

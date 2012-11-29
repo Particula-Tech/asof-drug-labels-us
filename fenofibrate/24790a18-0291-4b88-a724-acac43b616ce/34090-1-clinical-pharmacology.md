@@ -1,12 +1,9 @@
-# CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
-A variety of clinical studies have demonstrated that elevated levels of total cholesterol (total-C), low density lipoprotein cholesterol (LDL-C), and apolipoprotein B (apo B), an LDL membrane complex, are associated with human atherosclerosis.
-Similarly, decreased levels of high density lipoprotein cholesterol (HDL-C) and its transport complex, apolipoprotein A (apo AI and apo AII) are associated with the development of atherosclerosis.
-Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-C, LDL-C, and triglycerides, and inversely with the level of HDL-C.
-The independent effect of raising HDL-C or lowering triglycerides (TG) on the risk of cardiovascular morbidity and mortality has not been determined.
+## 12.1 Mechanism of Action
 
-Fenofibric acid, the active metabolite of fenofibrate, produces reductions in total cholesterol, LDL cholesterol, apolipoprotein B, total triglycerides, and triglyceride rich lipoprotein (VLDL) in treated patients.
-In addition, treatment with fenofibrate results in increases in high density lipoprotein (HDL) and apoproteins apo AI and apo AII.
+The active moiety of Antara is fenofibric acid.
+The pharmacological effects of fenofibric acid in both animals and humans have been extensively studied through oral administration of fenofibrate.
 
 The effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of peroxisome proliferator activated receptor α (PPARα).
 
@@ -17,141 +14,100 @@ Activation of PPARα also induces an increase in the synthesis of apoproteins A-
 
 Fenofibrate also reduces serum uric acid levels in hyperuricemic and normal individuals by increasing the urinary excretion of uric acid.
 
-## Pharmacokinetics/Metabolism:
+## 12.2 Pharmacodynamics
 
-Plasma concentrations of fenofibric acid after multiple dose administration of Antara 130 mg capsules are equivalent, under low-fat fed conditions, to 200 mg fenofibrate capsules.
+A variety of clinical studies have demonstrated that elevated levels of total-C, DL-C, and Apo B, an LDL membrane complex, are associated with human atherosclerosis.
+Similarly, decreased levels of HDL-C and its transport complex, apolipoprotein A (Apo AI and Apo All) are associated with the development of atherosclerosis.
+Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-C, LDL-C, and triglycerides, and inversely with the level of HDL-C.
+The independent effect of raising HDL-C or lowering TG on the risk of cardiovascular morbidity and mortality has not been determined.
 
-Absorption: The absolute bioavailability of fenofibrate cannot be determined as the compound is virtually insoluble in aqueous media suitable for injection.
+Fenofibric acid, the active metabolite of fenofibrate, produces reductions in total cholesterol, LDL cholesterol, apolipoprotein B, total triglycerides, and triglyceride-rich lipoprotein in treated patients.
+In addition, treatment with fenofibrate results in increases in high density lipoprotein (HDL) and apoproteins Apo AI and Apo AII.
+
+## 12.3 Pharmacokinetics
+
+Fenofibrate is a pro-drug of the active chemical moiety fenofibric acid.
+Fenofibrate is converted by ester hydrolysis in the body to fenofibric acid which is the active constituent measurable in the circulation.
+
+• Absorption: The absolute bioavailability of fenofibrate cannot be determined as the compound is virtually insoluble in aqueous media suitable for injection.
 However, fenofibrate is well absorbed from the gastrointestinal tract.
-Following oral administration in healthy volunteers, approximately 60% of a single dose of radiolabelled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
+Following oral administration in healthy volunteers, approximately 60% of a single dose of radio-labeled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
 Peak plasma levels of fenofibric acid from Antara occur within 4 to 8 hours after administration.
+There was less than dose-proportional increase in the systemic exposure of fenofibric acid from 43 mg and 130 mg of Antara under fasting conditions.
 
-There was less than dose-proportional increase in the systemic exposure of fenofibric acid from three strengths (43 mg, 87 mg, and 130 mg) of Antara under fasting conditions.
-
-Doses of two- or three-capsules of 43 mg Antara given concurrently were dose-equivalent to single-capsule doses of 87 mg and 130 mg, respectively.
+Doses of three-capsules of 43 mg Antara given concurrently were dose equivalent to single-capsule doses of 130 mg.
 
 The extent of absorption of fenofibric acid was unaffected when Antara was taken either in fasted state or with a low-fat meal.
 However, the Cmax of Antara increased in the presence of a low-fat meal.
 Tmax was unaffected in the presence of a low-fat meal.
 In the presence of a high-fat meal, there was a 26% increase in AUC and 108% increase in Cmax of fenofibric acid from Antara relative to fasting state.
 
-Distribution: In healthy volunteers, steady-state plasma levels of fenofibric acid were shown to be achieved within a week of dosing and did not demonstrate accumulation across time following multiple dose administration.
+• Distribution: In healthy volunteers, steady-state plasma levels of fenofibric acid were shown to be achieved within a week of dosing and did not demonstrate accumulation across time following multiple dose administration.
 Serum protein binding was approximately 99% in normal and hyperlipidemic subjects.
 
-Metabolism: Following oral administration, fenofibrate is rapidly hydrolyzed by esterases to the active metabolite, fenofibric acid; no unchanged fenofibrate is detected in plasma.
+• Metabolism: Following oral administration, fenofibrate is rapidly hydrolyzed by esterases to the active metabolite, fenofibric acid; no unchanged fenofibrate is detected in plasma.
 
 Fenofibric acid is primarily conjugated with glucuronic acid and then excreted in urine.
 A small amount of fenofibric acid is reduced at the carbonyl moiety to a benzhydrol metabolite which is, in turn, conjugated with glucuronic acid and excreted in urine.
 
-In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (e.g., cytochrome P450) to a significant extent.
+In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (eg, cytochrome P450) to a significant extent.
 
-Excretion: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
-After administration of radiolabelled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
+• Excretion: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
+After administration of radiolabeled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
 
 Fenofibrate acid from Antara is eliminated with a half-life of 23 hours, allowing once daily administration in a clinical setting.
 
-## Special Populations:
+• Geriatrics: In elderly volunteers 77 to 87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
+This indicates that a similar dosage regimen can be used in the elderly with normal renal function, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.4) and Use in Special Populations (8.5)].
 
-Geriatrics: In elderly volunteers 77-87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
-This indicates that a similar dosage regimen can be used in the elderly, without increasing accumulation of the drug or metabolites.
+• Pediatrics: The pharmacokinetics of Antara has not been studied in pediatric populations.
 
-Pediatrics: Antara has not been investigated in adequate and well-controlled trials in pediatric patients.
+• Gender: No pharmacokinetic difference between males and females has been observed for fenofibrate.
 
-Gender: No pharmacokinetic difference between males and females has been observed for fenofibrate.
+• Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied; however, fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
 
-Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied; however, fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
-Therefore, inter-ethnic pharmacokinetic differences are very unlikely.
+• Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
+Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
+Patients with mild (CrCl 50-80 mL/min) to moderate (CrCl 30-50 mL/min) renal impairment had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
+Based on these findings, the use of Antara should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
 
-Renal insufficiency: In a study in patients with severe renal impairment (creatinine clearance <50 mL/min), the rate of clearance of fenofibric acid was greatly reduced, and the compound accumulated during chronic dosage.
-However, in patients having moderate renal impairment (creatinine clearance of 50 to 90 mL/min), the oral clearance and the oral volume of distribution of fenofibric acid are increased compared to healthy adults (2.1 L/h and 95 L versus 1.1 L/h and 30 L, respectively).
-Therefore, the dosage of Antara should be minimized in patients who have severe renal impairment, while no modification of dosage is required in patients having moderate renal impairment.
+• Hepatic Impairment: No pharmacokinetic studies have been conducted in patients having hepatic insufficiency.
 
-Hepatic insufficiency: No pharmacokinetic studies have been conducted in patients having hepatic insufficiency.
+• Drug-Drug Interactions: In vitro studies using human liver microsomes indicate that fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
+It is a weak inhibitor of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
 
-Drug-drug interactions: In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
-They are weak inhibitors of CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
+Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
+Table 3 describes the effects of co-administered fenofibric acid on exposure to other drugs.
 
-Potentiation of coumarin-type anticoagulants has been observed with prolongation of the prothrombin time/INR.
+Table 2 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Antara or Fenofibrate Administration
 
-Bile acid sequestrants have been shown to bind other drugs given concurrently.
-Therefore, fenofibrate should be taken at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption (see WARNINGS and PRECAUTIONS).
-
-## Clinical Trials:
-
-Hypercholesterolemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb): The effects of fenofibrate at a dose equivalent to 130 mg Antara per day were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
-Fenofibrate therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
-Fenofibrate therapy also lowered triglycerides and raised HDL-C (see Table 1).
-
-Table 1.
-Mean Percent Change in Lipid Parameters at End of TreatmentDuration of study treatment was 3 to 6 months.
-
-| Treatment Group | Total-C | LDL-C | HDL-C | TG |
+|  |  |  | AUC | Cmax |
 | --- | --- | --- | --- | --- |
-| Pooled Cohort |  |  |  |  |
-| Mean baseline lipid values (n=646) | 306.9 mg/dL | 213.8 mg/dL | 52.3 mg/dL | 191.0 mg/dL |
-| All FEN (n=361) | -18.7%p=<0.05 vs. placebo | -20.6% | +11.0% | -28.9% |
-| Placebo (n=285) | -0.4% | -2.2% | +0.7% | +7.7% |
-| Baseline LDL-C >160 mg/dL |  |  |  |  |
-| and TG <150 mg/dL (Type IIa) |  |  |  |  |
-| Mean baseline lipid values (n=334) | 307.7 mg/dL | 227.7 mg/dL | 58.1 mg/dL | 101.7 mg/dL |
-| All FEN (n=193) | -22.4% | -31.4% | +9.8% | -23.5% |
-| Placebo (n=141) | +0.2% | -2.2% | +2.6% | +11.7% |
-| Baseline LDL-C >160 mg/dL |  |  |  |  |
-| and TG≥150 mg/dL (Type IIb) |  |  |  |  |
-| Mean baseline lipid values (n=242) | 312.8 mg/dL | 219.8 mg/dL | 46.7 mg/dL | 231.9 mg/dL |
-| All FEN (n=126) | -16.8% | -20.1% | +14.6% | -35.9% |
-| Placebo (n=116) | -3.0% | -6.6% | +2.3% | +0.9% |
+| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
+| No doing adjustments required for Antara with the following co-administered drugs |  |  |  |  |
+| Lipid-lowing agents |  |  |  |  |
+| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mgTriCor (fenofibrate) oral tablet once daily for 10 days | ↓2% | ↓4% |
+| Pravastatin | 40 mg as a single dose | Fenofibrate 3 x 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | ↓1% | ↓2% |
+| Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg as a single dose | ↓2% | ↓10% |
+| Anti-diabetic agents |  |  |  |  |
+| Glimepiride | 1 mg once daily as a single dose | Fenofibrate 145 mg once daily for 10 days | ↑1% | ↓1% |
+| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg three times daily for 10 days | ↓9% | ↓6% |
+| Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg once daily for 14 days | ↑10% | ↑3% |
 
-In a subset of the subjects, measurements of apo B were conducted.
-Fenofibrate treatment significantly reduced apo B from baseline to endpoint as compared with placebo (-25.1% vs. 2.4%, p<0.0001, n=213 and 143 respectively).
+Table 3 Effects of Antara or Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
 
-Hypertriglyceridemia (Fredrickson Type IV and V): The effects of fenofibrate on serum triglycerides were studied in two randomized, double-blind, placebo-controlled clinical trials1 of 147 hypertriglyceridemic patients (Fredrickson Types IV and V). Patients were treated for eight weeks under protocols that differed only in that one entered patients with baseline triglyceride (TG) levels of 500 to 1500 mg/dL, and the other TG levels of 350 to 500 mg/dL.
-In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia (Type IV/V hyperlipidemia), treatment with fenofibrate at dosages equivalent to 130 mg Antara per day decreased primarily very low density lipoprotein (VLDL) triglycerides and VLDL cholesterol.
-Treatment of patients with Type IV hyperlipoproteinemia and elevated triglycerides often results in an increase of low density lipoprotein (LDL) cholesterol (see Table 2).
-
-Table 2.
-Effects of Fenofibrate in Patients With Fredrickson Type IV/V Hyperlipidemia
-
-| Study 1 | Placebo |  |  |  | Fenofibrate |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Baseline TG levels |  |  |  |  |  |  |  |  |
-| 350 to 499 mg/dL |  | Baseline | Endpoint | % Change |  | Baseline | Endpoint | % Change |
-|  | N | (Mean) | (Mean) | (Mean) | N | (Mean) | (Mean) | (Mean) |
-| Triglycerides | 28 | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2=p<0.05 vs. placebo |
-| VLDL Triglycerides | 19 | 367 | 350 | 2.7 | 19 | 350 | 178 | -44.1 |
-| Total Cholesterol | 28 | 255 | 261 | 2.8 | 27 | 252 | 227 | -9.1 |
-| HDL Cholesterol | 28 | 35 | 36 | 4 | 27 | 34 | 40 | 19.6 |
-| LDL Cholesterol | 28 | 120 | 129 | 12 | 27 | 128 | 137 | 14.5 |
-| VLDL Cholesterol | 27 | 99 | 99 | 5.8 | 27 | 92 | 46 | -44.7 |
-| Study 2 | Placebo |  |  |  | Fenofibrate |  |  |  |
-| Baseline TG levels |  |  |  |  |  |  |  |  |
-| 500 to 1500 mg/dL |  | Baseline | Endpoint | % Change |  | Baseline | Endpoint | % Change |
-|  | N | (Mean) | (Mean) | (Mean) | N | (Mean) | (Mean) | (Mean) |
-| Triglycerides | 44 | 710 | 750 | 7.2 | 48 | 726 | 308 | -54.5 |
-| VLDL Triglycerides | 29 | 537 | 571 | 18.7 | 33 | 543 | 205 | -50.6 |
-| Total Cholesterol | 44 | 272 | 271 | 0.4 | 48 | 261 | 223 | -13.8 |
-| HDL Cholesterol | 44 | 27 | 28 | 5.0 | 48 | 30 | 36 | 22.9 |
-| LDL Cholesterol | 42 | 100 | 90 | -4.2 | 45 | 103 | 131 | 45.0 |
-| VLDL Cholesterol | 42 | 137 | 142 | 11.0 | 45 | 126 | 54 | -49.4 |
-
-The effect of Antara on serum triglycerides was studied in a double-blind, randomized, 3-arm parallel-group trial of 146 patients with Fredrickson Types IV and V dyslipidemia.
-The study population was comprised of 61% male and 39% female patients.
-Approximately 70% of patients had hypertension and 32% had diabetes.
-Patients were treated for eight weeks with either Antara 130 mg taken once daily with meals, Antara 130 mg taken once daily between meals, or placebo.
-Antara 130 mg, whether taken with meals or between meals, had comparable effects on TG and all lipid parameters (see Table 3).
-
-Table 3.
-Effects of 130 mg Antara in Patients With Fredrickson Type IV/V Dyslipidemia
-
-|  | Placebo(n=50) |  | Antara with meals(n=54) |  | Antara between meals (n=42) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Baseline | Mean % | Baseline | Mean % | Baseline | Mean % |
-|  | (mean mg/dL) | changeat endpoint | (mean mg/dL) | changeat endpoint | (mean mg/dL) | changeat endpoint |
-| Triglycerides | 479 | +0.7 | 475 | -36.7p=<0.05 vs. placebo | 487 | -36.6 |
-| Total Cholesterol | 237 | -0.8 | 248 | -5.1 | 241 | -3.4 |
-| HDL Cholesterol | 35 | +0.8 | 36 | +13.7 | 36 | +14.3 |
-| non-HDL Cholesterol | 202 | -1.1 | 212 | -8.2 | 205 | -6.6 |
-| LDL Cholesterol | 115 | +3.2 | 120 | +15.4 | 122 | +14.5 |
-| VLDL Cholesterol | 87 | -1.6 | 92 | -34.4 | 83 | -30.4 |
-
-The effect of fenofibrate on cardiovascular morbidity and mortality has not been determined.
+|  |  | Analyte | AUC | Cmax |
+| --- | --- | --- | --- | --- |
+| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Changes in Co-Administered Drug Exposure |  |  |
+| No doing adjustments required for these co-administered drugs with Antara |  |  |  |  |
+| Lipid-lowing agents |  |  |  |  |
+| Fenofibrate 160 mgTriCor (fenofibrate) oral tablet once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
+| Fenofibrate 3 x 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
+|  |  | 3α-Hydroxyl-iso-pravastatin | ↑26% | ↑29% |
+| Fenofibrate 160 mg once daily for 10 days | Pravastatin, 40 mg once daily for 10 days | Pravastatin | ↑28% | ↑36% |
+|  |  | 3α-Hydroxyl-iso-pravastatin | ↑39% | ↑55% |
+| Fenofibrate 160 mg as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
+| Anti-diabetic agents |  |  |  |  |
+| Fenofibrate 145 mg once daily for 10 days | Glimepiride, 1 mg once daily as a single dose | Glimepiride | ↑35% | ↑18% |
+| Fenofibrate 54 mg three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
+| Fenofibrate 145 mg once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |

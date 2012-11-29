@@ -1,6 +1,6 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL 43 mg
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 27437-109-06
+NDA 27437-109-06
 
 ANTARA®
 
@@ -12,11 +12,9 @@ Rx only
 
 30 capsules
 
-Lupin Pharmaceuticals
+Lupin Pharma
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL 130 mg
-
-NDC 27437-110-06
+NDA 27437-110-06
 
 ANTARA®
 
@@ -28,4 +26,4 @@ Rx only
 
 30 capsules
 
-Lupin Pharmaceuticals
+Lupin Pharma
