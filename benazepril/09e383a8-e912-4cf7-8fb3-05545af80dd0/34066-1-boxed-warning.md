@@ -1,5 +1,4 @@
-# USE IN PREGNANCY
+# WARNING: FETAL TOXICITY
 
-When used in pregnancy, ACE inhibitors can cause injury and even death to the developing fetus.
-When pregnancy is detected, benazepril should be discontinued as soon as possible.
-See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
+- When pregnancy is detected, discontinue benazepril as soon as possible.
+- Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus (see WARNINGS: Fetal Toxicity).

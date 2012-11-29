@@ -45,23 +45,16 @@ The terminal elimination half-life of benazeprilat in pediatric patients was aro
 Single and multiple doses of 10 mg or more of benazepril cause inhibition of plasma ACE activity by at least 80% to 90% for at least 24 hours after dosing.
 Pressor responses to exogenous angiotensin I were inhibited by 60% to 90% (up to 4 hours post-dose) at the 10 mg dose.
 
-## Hypertension
+## Clinical Studies
 
-Adult Administration of benazepril to patients with mild-to-moderate hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
-Symptomatic postural hypotension is infrequent, although it can occur in patients who are salt- and/or volume-depleted (see WARNINGS ).
-In single-dose studies, benazepril lowered blood pressure within 1 hour, with peak reductions achieved 2 to 4 hours after dosing.
+Hypertension Adult In single-dose studies, benazepril lowered blood pressure within 1 hour, with peak reductions achieved 2 to 4 hours after dosing.
 The antihypertensive effect of a single dose persisted for 24 hours.
 In multiple-dose studies, once-daily doses of 20 to 80 mg decreased seated pressure (systolic/diastolic) 24 hours after dosing by about 6 to 12/4 to 7 mmHg.
 The trough values represent reductions of about 50% of that seen at peak.
 Four dose-response studies using once-daily dosing were conducted in 470 mild-to-moderate hypertensive patients not using diuretics.
 The minimal effective once-daily dose of benazepril was 10 mg; but further falls in blood pressure, especially at morning trough, were seen with higher doses in the studied dosing range (10 to 80 mg).
 In studies comparing the same daily dose of benazepril given as a single morning dose or as a twice-daily dose, blood pressure reductions at the time of morning trough blood levels were greater with the divided regimen.
-During chronic therapy, the maximum reduction in blood pressure with any dose is generally achieved after 1 to 2 weeks.
-The antihypertensive effects of benazepril have continued during therapy for at least two years.
-Abrupt withdrawal of benazepril has not been associated with a rapid increase in blood pressure.
-In patients with mild-to-moderate hypertension, benazepril 10 to 20 mg was similar in effectiveness to captopril, hydrochlorothiazide, nifedipine SR, and propranolol.
 The antihypertensive effects of benazepril were not appreciably different in patients receiving high- or low-sodium diets.
-In hemodynamic studies in dogs, blood pressure reduction was accompanied by a reduction in peripheral arterial resistance, with an increase in cardiac output and renal blood flow and little or no change in heart rate.
 In normal human volunteers, single doses of benazepril caused an increase in renal blood flow but had no effect on glomerular filtration rate.
 Use of benazepril in combination with thiazide diuretics gives a blood-pressure-lowering effect greater than that seen with either agent alone.
 By blocking the renin-angiotensin-aldosterone axis, administration of benazepril tends to reduce the potassium loss associated with the diuretic.
