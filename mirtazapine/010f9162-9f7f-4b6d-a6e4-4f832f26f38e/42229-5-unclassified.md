@@ -1,12 +1,23 @@
 Rx only
 
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
 Manufactured by: N.V.
-Organon, Oss, The Netherlands, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA.
+Copyright © 1996, 2010 MSD Oss B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Copyright © 1996, 2010 N.V.
-Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
+Revised: 11/2012
 
-Rev.
-12/11 900246-MRZ-TB-USPI.5
+900246-REM-TB-USPI.5
+
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: N.V.
+Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+
+Copyright © 2007, 2009 MSD Oss B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+Revised: 11/2012
+
+900246-REM-TB-MG.5

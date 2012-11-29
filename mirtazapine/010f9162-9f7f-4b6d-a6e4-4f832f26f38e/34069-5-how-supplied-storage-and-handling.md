@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-REMERON® (mirtazapine) Tablets are supplied as:
+REMERON (mirtazapine) Tablets are supplied as:
 
 15 mg Tablets — oval, scored, yellow, coated, with "Organon" debossed on 1 side and "T3Z" on the other side.
 
@@ -19,5 +19,5 @@ REMERON® (mirtazapine) Tablets are supplied as:
 
 ## Storage
 
-Store at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Protect from light and moisture.

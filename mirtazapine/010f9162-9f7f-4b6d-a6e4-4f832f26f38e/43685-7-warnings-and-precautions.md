@@ -41,9 +41,9 @@ Consideration should be given to changing the therapeutic regimen, including pos
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for REMERON® (mirtazapine) Tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for REMERON (mirtazapine) Tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-## Screening Patients for Bipolar Disorder
+### Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -59,25 +59,23 @@ All 3 patients recovered after REMERON was stopped.
 These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
 If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low WBC count, treatment with REMERON should be discontinued and the patient should be closely monitored.
 
-## MAO Inhibitors
+## Serotonin Syndrome
 
-In patients receiving other drugs for major depressive disorder in combination with a monoamine oxidase inhibitor (MAOI) and in patients who have recently discontinued a drug for major depressive disorder and then are started on an MAOI, there have been reports of serious and sometimes fatal reactions, including nausea, vomiting, flushing, dizziness, tremor, myoclonus, rigidity, diaphoresis, hyperthermia, autonomic instability with rapid fluctuations of vital signs, seizures, and mental status changes ranging from agitation to coma.
-Although there are no human data pertinent to such an interaction with REMERON (mirtazapine) Tablets, it is recommended that REMERON not be used in combination with an MAOI, or within 14 days of initiating or discontinuing therapy with an MAOI.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including REMERON, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SSRIs, SNRIs, MAOIs, and other serotonergic drugs used as monotherapy, including REMERON, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The concomitant use of REMERON with MAOIs intended to treat psychiatric disorders is contraindicated.
+REMERON should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking REMERON.
+REMERON should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-The concomitant use of REMERON with MAOIs intended to treat depression is contraindicated [see CONTRAINDICATIONS].
+If concomitant use of REMERON with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
-If concomitant treatment of REMERON with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-
-The concomitant use of REMERON with serotonin precursors (such as tryptophan) is not recommended.
-
-Treatment with REMERON and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Treatment with REMERON and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
 
@@ -85,7 +83,7 @@ Treatment with REMERON and any concomitant serotonergic or antidopaminergic agen
 
 ### Discontinuation Symptoms
 
-There have been reports of adverse reactions upon the discontinuation of REMERON® (mirtazapine) Tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
+There have been reports of adverse reactions upon the discontinuation of REMERON (mirtazapine) Tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
 The majority of the reported cases are mild and self-limiting.
 Even though these have been reported as adverse reactions, it should be realized that these symptoms may be related to underlying disease.
 
@@ -108,7 +106,7 @@ Caution should be exercised in patients at risk, such as elderly patients or pat
 In US controlled studies, somnolence was reported in 54% of patients treated with REMERON (mirtazapine) Tablets, compared to 18% for placebo and 60% for amitriptyline.
 In these studies, somnolence resulted in discontinuation for 10.4% of REMERON-treated patients, compared to 2.2% for placebo.
 It is unclear whether or not tolerance develops to the somnolent effects of REMERON.
-Because of the potentially significant effects of REMERON on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug's effect on their own psychomotor performance (see Information for Patients).
+Because of the potentially significant effects of REMERON on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug's effect on their own psychomotor performance (see PRECAUTIONS: Information for Patients).
 
 ### Dizziness
 
@@ -155,7 +153,7 @@ REMERON was associated with significant orthostatic hypotension in early clinica
 Orthostatic hypotension was infrequently observed in clinical trials with depressed patients.
 REMERON should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
 
-Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) = 11–39 mL/min/1.73 m2] and severe [GFR <10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
+Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR)=11–39 mL/min/1.73 m2] and severe [GFR <10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
 Caution is indicated in administering REMERON to such patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
@@ -195,6 +193,8 @@ While patients may notice improvement with REMERON therapy in 1 to 4 weeks, they
 
 Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for REMERON to interact with other drugs.
 
+Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of REMERON with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
+
 ### Alcohol
 
 The impairment of cognitive and motor skills produced by REMERON has been shown to be additive with those produced by alcohol.
@@ -206,7 +206,7 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 ### Nursing
 
-Patients should be advised to notify their physician if they are breast-feeding an infant.
+Patients should be advised to notify their physician if they are breastfeeding an infant.
 
 ## Laboratory Tests
 
@@ -220,9 +220,9 @@ As with other drugs, the potential for interaction by a variety of mechanisms (e
 
 (See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
 
-### Serotonergic drugs
+### Serotonergic Drugs
 
-Based on the mechanism of action of mirtazapine and the potential for serotonin syndrome, caution is advised when REMERON Tablets are coadministered with other drugs or agents that may affect the serotonergic neurotransmitter systems, such as tryptophan, triptans, linezolid, serotonin reuptake inhibitors, venlafaxine, lithium, tramadol, or St. John's wort (see CONTRAINDICATIONS and WARNINGS).
+(See CONTRAINDICATIONS and WARNINGS.)
 
 ### Drugs Affecting Hepatic Metabolism
 
@@ -230,7 +230,9 @@ The metabolism and pharmacokinetics of REMERON (mirtazapine) Tablets may be affe
 
 ### Drugs that are Metabolized by and/or Inhibit Cytochrome P450 Enzymes
 
-#### CYP Enzyme Inducers (these studies used both drugs at steady state)
+#### CYP Enzyme Inducers
+
+(these studies used both drugs at steady state)
 
 ##### Phenytoin
 
@@ -271,12 +273,11 @@ In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg d
 #### Warfarin
 
 In healthy male subjects (n=16), mirtazapine (30 mg daily), at steady state, caused a small (0.2) but statistically significant increase in the International Normalized Ratio (INR) in subjects treated with warfarin.
-As at a higher dose of mirtazapine, a more pronounced effect can not be excluded.
-It is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
+As at a higher dose of mirtazapine, a more pronounced effect can not be excluded, it is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
 
 #### Lithium
 
-No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with subtherapeutic levels of lithium (600 mg/day for 10 days) at steady state and a single 30 mg dose of mirtazapine.
+No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with subtherapeutic levels of lithium (600 mg/day for 10 days) at steady state and a single 30-mg dose of mirtazapine.
 The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown.
 
 #### Risperidone
@@ -318,7 +319,9 @@ Mating and conception were not affected by the drug, but estrous cycling was dis
 
 ## Pregnancy
 
-### Teratogenic Effects – Pregnancy Category C
+### Teratogenic Effects
+
+#### Pregnancy Category C
 
 Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m2 basis, respectively], have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in postimplantation losses in dams treated with mirtazapine.

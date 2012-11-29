@@ -2,7 +2,7 @@
 
 ## Controlled Substance Class
 
-REMERON® (mirtazapine) Tablets are not a controlled substance.
+REMERON (mirtazapine) Tablets are not a controlled substance.
 
 ## Physical and Psychologic Dependence
 

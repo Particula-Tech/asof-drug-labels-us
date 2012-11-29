@@ -2,7 +2,7 @@
 
 ## Human Experience
 
-There is very limited experience with REMERON® (mirtazapine) Tablets overdose.
+There is very limited experience with REMERON (mirtazapine) Tablets overdose.
 In premarketing clinical studies, there were 8 reports of REMERON overdose alone or in combination with other pharmacological agents.
 The only drug overdose death reported while taking REMERON was in combination with amitriptyline and chlorprothixene in a non-US clinical study.
 Based on plasma levels, the REMERON dose taken was 30 to 45 mg, while plasma levels of amitriptyline and chlorprothixene were found to be at toxic levels.
@@ -18,7 +18,6 @@ Monitor cardiac rhythm and vital signs.
 General supportive and symptomatic measures are also recommended.
 Induction of emesis is not recommended.
 Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
-
 Activated charcoal should be administered.
 There is no experience with the use of forced diuresis, dialysis, hemoperfusion, or exchange transfusion in the treatment of mirtazapine overdosage.
 No specific antidotes for mirtazapine are known.

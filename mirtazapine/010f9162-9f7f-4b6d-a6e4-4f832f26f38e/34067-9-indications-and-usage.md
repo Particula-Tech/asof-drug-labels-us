@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-REMERON® (mirtazapine) Tablets are indicated for the treatment of major depressive disorder.
+REMERON (mirtazapine) Tablets are indicated for the treatment of major depressive disorder.
 
 The efficacy of REMERON in the treatment of major depressive disorder was established in 6-week controlled trials of outpatients whose diagnoses corresponded most closely to the Diagnostic and Statistical Manual of Mental Disorders – 3rd edition (DSM-III) category of major depressive disorder (see CLINICAL PHARMACOLOGY).
 
