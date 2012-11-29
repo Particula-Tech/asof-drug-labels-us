@@ -1,7 +1,5 @@
-Blister Carton Label 20 mg
+Pantoprazole Sodium Delayed Release Tablets USP, 20 mg - Blister Carton Label
 
-# 40 Mg Labels
+Pantoprazole Sodium Delayed Release Tablets USP, 40 mg - Container Label
 
-Container Label 40 mg
-
-Blister carton Label 40 mg
+Pantoprazole Sodium Delayed Release Tablets USP, 40 mg - Blister Carton Label

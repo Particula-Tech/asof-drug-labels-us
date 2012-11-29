@@ -1,7 +1,5 @@
 # 12 CLINICAL PHARMACOLOGY
 
-{template}
-
 ## 12.1 Mechanism of Action
 
 Pantoprazole is a proton pump inhibitor (PPI) that suppresses the final step in gastric acid production by covalently binding to the (H+, K+)-ATPase enzyme system at the secretory surface of the gastric parietal cell.

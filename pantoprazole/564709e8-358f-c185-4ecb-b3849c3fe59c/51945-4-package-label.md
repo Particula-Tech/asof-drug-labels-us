@@ -1,5 +1,3 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
 
-20 Mg Labels
-
-Container 20 mg
+Pantoprazole Sodium Delayed Release Tablets USP, 20 mg - Container Label
