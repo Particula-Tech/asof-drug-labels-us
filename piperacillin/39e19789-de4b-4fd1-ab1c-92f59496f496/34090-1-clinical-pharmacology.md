@@ -33,8 +33,9 @@ However, this difference does not warrant dosage adjustment of piperacillin and 
 
 TABLE 1 STEADY STATE MEAN PLASMA CONCENTRATIONS IN ADULTS AFTER 30-MINUTE INTRAVENOUS INFUSION OF PIPERACILLIN/TAZOBACTAM EVERY 6 HOURS
 
-|  |  | Plasma Concentrations** (mcg/mL) |  |  |  |  |  | AUC** (mcg•hr/mL) |
+| PIPERACILLIN |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Plasma Concentrations** (mcg/mL) |  |  |  |  |  | AUC** (mcg•hr/mL) |
 | Piperacillin/ Tazobactam Dosea | No. of Evaluable Subjects | 30 min | 1 hr | 2 hr | 3 hr | 4 hr | 6 hr | AUC0-6 |
 | 2.25 g 3.375 g 4.5 g | 8 6 8 | 134 (14) 242 (12) 298 (14) | 57 (14) 106 (8) 141 (19) | 17.1 (23) 34.6 (20) 46.6 (28) | 5.2 (32) 11.5 (19) 16.4 (29) | 2.5 (35) 5.1 (22) 6.9 (29) | 0.9 (14)b 1 (10) 1.4 (30) | 131 (14) 242 (10) 322 (16) |
 | TAZOBACTAM |  |  |  |  |  |  |  |  |
@@ -84,6 +85,7 @@ TABLE 2 SUSCEPTIBILITY INTERPRETIVE CRITERIA FOR PIPERACILLIN/TAZOBACTAM
 
 |  | Susceptibility Test Result Interpretive Criteria |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  | Susceptibility Test Result Interpretive CriteriaSusceptibility Test Result Interpretive Criteria |  |  |  |  |  |
 | Pathogen | Minimal Inhibitory Concentration (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
 | S | I | R | S | I | R |  |
 | Enterobacteriaceae and Acinetobacter baumanii Haemophilus influenzaea Pseudomonas aeruginosa Staphylococcus aureus Bacteroides fragilis group | ≤ 16 ≤ 1 ≤ 64 ≤ 8 ≤ 32 | 32 - 64 - - - 64 | ≥ 128 ≥ 2 ≥ 128 ≥16 ≥ 128 | ≥ 21 - ≥ 18 ≥ 18 - | 18 - 20 - - - - | ≤ 17 - ≤ 17 ≤ 17 - |
@@ -102,6 +104,7 @@ TABLE 3 ACCEPTABLE QUALITY CONTROL RANGES FOR PIPERACILLIN/TAZOBACTAM TO BE USED
 
 | Acceptable Quality Control Ranges |  |  |
 | --- | --- | --- |
+| Acceptable Quality Control RangesAcceptable Quality Control Ranges |  |  |
 | QC Strain | Minimal Inhibitory Concentration Range (MIC in mcg/mL) | Disk Diffusion Zone Diameter Range in mm |
 | Escherichia coli ATCC 25922 Escherichia coli ATCC 35218 Pseudomonas aeruginosa ATCC 27853 Haemophilus influenzaea ATCC 49247 Staphylococcus aureus ATCC 29213 Staphylococcus aureus ATCC 25923 Bacteroides fragilis ATCC 25285 Bacteroides thetaiotaomicron ATCC 29741 | 1 - 4 0.5 - 2 1 - 8 0.06 - 0.5 0.25 - 2 - 0.12 - 0.5 4 - 16 | 24 - 30 24 - 30 25 - 33 33 - 38 - 27 – 36 - - |
 | a This quality control range for Haemophilus influenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |

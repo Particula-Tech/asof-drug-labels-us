@@ -16,4 +16,4 @@
 
 DIASTIX ® is a registered trademark of Bayer Healthcare LLC.
 CLINITEST ® is a registered trademark of Siemens Healthcare Diagnostics Inc. TES-TAPE is a registered trademark of Eli Lilly and Company.
-Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 11/2011
+Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 06/2012
