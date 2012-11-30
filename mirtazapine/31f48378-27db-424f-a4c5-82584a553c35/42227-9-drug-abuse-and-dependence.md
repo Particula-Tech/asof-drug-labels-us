@@ -2,7 +2,7 @@
 
 ## Controlled Substance Class
 
-REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets are not a controlled substance.
+REMERONSolTab (mirtazapine) Orally Disintegrating Tablets are not a controlled substance.
 
 ## Physical and Psychologic Dependence
 

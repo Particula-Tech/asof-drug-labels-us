@@ -41,7 +41,7 @@ Consideration should be given to changing the therapeutic regimen, including pos
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for REMERONSolTab (mirtazapine) Orally Disintegrating Tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ### Screening Patients for Bipolar Disorder
 
@@ -53,31 +53,29 @@ It should be noted that REMERONSolTab (mirtazapine) Orally Disintegrating Tablet
 
 ## Agranulocytosis
 
-In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with REMERON® (mirtazapine) Tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
+In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with REMERON (mirtazapine) Tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
 For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All 3 patients recovered after REMERON was stopped.
 These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
 If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low WBC count, treatment with REMERONSolTab (mirtazapine) Orally Disintegrating Tablets should be discontinued and the patient should be closely monitored.
 
-## MAO Inhibitors
+## Serotonin Syndrome
 
-In patients receiving other drugs for major depressive disorder in combination with a monoamine oxidase inhibitor (MAOI) and in patients who have recently discontinued a drug for major depressive disorder and then are started on an MAOI, there have been reports of serious and sometimes fatal reactions, including nausea, vomiting, flushing, dizziness, tremor, myoclonus, rigidity, diaphoresis, hyperthermia, autonomic instability with rapid fluctuations of vital signs, seizures, and mental status changes ranging from agitation to coma.
-Although there are no human data pertinent to such an interaction with REMERONSolTab (mirtazapine) Orally Disintegrating Tablets, it is recommended that REMERONSolTab not be used in combination with an MAOI, or within 14 days of initiating or discontinuing therapy with an MAOI.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including REMERONSolTab, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SSRIs, SNRIs, MAOIs, and other serotonergic drugs used as monotherapy, including REMERONSolTab, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The concomitant use of REMERONSolTab with MAOIs intended to treat psychiatric disorders is contraindicated.
+REMERONSolTab should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking REMERONSolTab.
+REMERONSolTab should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-The concomitant use of REMERONSolTab with MAOIs intended to treat depression is contraindicated [see CONTRAINDICATIONS].
+If concomitant use of REMERONSolTab with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
-If concomitant treatment of REMERONSolTab with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-
-The concomitant use of REMERONSolTab with serotonin precursors (such as tryptophan) is not recommended.
-
-Treatment with REMERONSolTab and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Treatment with REMERONSolTab and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
 
@@ -85,16 +83,16 @@ Treatment with REMERONSolTab and any concomitant serotonergic or antidopaminergi
 
 ### Discontinuation Symptoms
 
-There have been reports of adverse reactions upon the discontinuation of REMERON®/ REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
+There have been reports of adverse reactions upon the discontinuation of REMERON/ REMERONSolTab (mirtazapine) Orally Disintegrating Tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
 The majority of the reported cases are mild and self-limiting.
 Even though these have been reported as adverse reactions, it should be realized that these symptoms may be related to underlying disease.
 
-Patients currently taking REMERON should NOT discontinue treatment abruptly, due to risk of discontinuation symptoms.
+Patients currently taking REMERONSolTab should NOT discontinue treatment abruptly, due to risk of discontinuation symptoms.
 At the time that a medical decision is made to discontinue treatment with REMERON, a gradual reduction in the dose, rather than an abrupt cessation, is recommended.
 
 ### Akathisia/Psychomotor Restlessness
 
-The use of antidepressants has been associated with the development of akathisia, characterized by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
+The use of antidepressants has been associated with the development of akathisia, characterized by a subjectively unpleasant or distressing restlessness and need to move, often accompanied by an inability to sit or stand still.
 This is most likely to occur within the first few weeks of treatment.
 In patients who develop these symptoms, increasing the dose may be detrimental.
 
@@ -105,10 +103,10 @@ Caution should be exercised in patients at risk, such as elderly patients or pat
 
 ### Somnolence
 
-In US controlled studies, somnolence was reported in 54% of patients treated with REMERON® (mirtazapine) Tablets, compared to 18% for placebo and 60% for amitriptyline.
+In US controlled studies, somnolence was reported in 54% of patients treated with REMERON (mirtazapine) Tablets, compared to 18% for placebo and 60% for amitriptyline.
 In these studies, somnolence resulted in discontinuation for 10.4% of REMERON-treated patients, compared to 2.2% for placebo.
 It is unclear whether or not tolerance develops to the somnolent effects of REMERON.
-Because of the potentially significant effects of REMERON on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug's effect on their own psychomotor performance (see Information for Patients).
+Because of the potentially significant effects of REMERON on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug's effect on their own psychomotor performance (see PRECAUTIONS: Information for Patients).
 
 ### Dizziness
 
@@ -132,7 +130,7 @@ In these same studies, nonfasting triglyceride increases to ≥500 mg/dL were ob
 Clinically significant ALT (SGPT) elevations (≥3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients exposed to REMERON in a pool of short-term US controlled trials, compared to 0.3% (1/328) of placebo patients and 2.0% (3/181) of amitriptyline patients.
 Most of these patients with ALT increases did not develop signs or symptoms associated with compromised liver function.
 While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued REMERON treatment.
-REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets should be used with caution in patients with impaired hepatic function (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+REMERONSolTab (mirtazapine) Orally Disintegrating Tablets should be used with caution in patients with impaired hepatic function (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 ### Activation of Mania/Hypomania
 
@@ -155,7 +153,7 @@ REMERON was associated with significant orthostatic hypotension in early clinica
 Orthostatic hypotension was infrequently observed in clinical trials with depressed patients.
 REMERONSolTab should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
 
-Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) = 11–39 mL/min/1.73 m2] and severe [GFR <10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
+Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR)=11–39 mL/min/1.73 m2] and severe [GFR <10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
 Caution is indicated in administering REMERONSolTab to such patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
@@ -195,6 +193,8 @@ While patients may notice improvement with REMERONSolTab therapy in 1 to 4 weeks
 
 Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for REMERONSolTab to interact with other drugs.
 
+Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of REMERONSolTab with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
+
 ### Alcohol
 
 The impairment of cognitive and motor skills produced by REMERON has been shown to be additive with those produced by alcohol.
@@ -210,7 +210,7 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 ### Nursing
 
-Patients should be advised to notify their physician if they are breast-feeding an infant.
+Patients should be advised to notify their physician if they are breastfeeding an infant.
 
 ## Laboratory Tests
 
@@ -224,9 +224,9 @@ As with other drugs, the potential for interaction by a variety of mechanisms (e
 
 (See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
 
-### Serotonergic drugs
+### Serotonergic Drugs
 
-Based on the mechanism of action of mirtazapine and the potential for serotonin syndrome, caution is advised when REMERONSolTab Orally Disintegrating Tablets are coadministered with other drugs or agents that may affect the serotonergic neurotransmitter systems, such as tryptophan, triptans, linezolid, serotonin reuptake inhibitors, venlafaxine, lithium, tramadol, or St. John's wort (see CONTRAINDICATIONS and WARNINGS).
+(See CONTRAINDICATIONS and WARNINGS.)
 
 ### Drugs Affecting Hepatic Metabolism
 
@@ -275,8 +275,7 @@ In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg d
 #### Warfarin
 
 In healthy male subjects (n=16), mirtazapine (30 mg daily), at steady state, caused a small (0.2) but statistically significant increase in the International Normalized Ratio (INR) in subjects treated with warfarin.
-As at a higher dose of mirtazapine, a more pronounced effect can not be excluded.
-It is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
+As at a higher dose of mirtazapine, a more pronounced effect can not be excluded, it is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
 
 #### Lithium
 
@@ -309,7 +308,7 @@ There was an increased incidence of hepatocellular adenoma and carcinoma in male
 In rats, there was an increase in hepatocellular adenoma in females at the mid and high doses and in hepatocellular tumors and thyroid follicular adenoma/cystadenoma and carcinoma in males at the high dose.
 The data suggest that the above effects could possibly be mediated by non-genotoxic mechanisms, the relevance of which to humans is not known.
 
-The doses used in the mouse study may not have been high enough to fully characterize the carcinogenic potential of REMERON(mirtazapine) Tablets.
+The doses used in the mouse study may not have been high enough to fully characterize the carcinogenic potential of REMERON (mirtazapine) Tablets.
 
 ### Mutagenesis
 
@@ -322,7 +321,9 @@ Mating and conception were not affected by the drug, but estrous cycling was dis
 
 ## Pregnancy
 
-### Teratogenic Effects – Pregnancy Category C
+### Teratogenic Effects
+
+#### Pregnancy Category C
 
 Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m2 basis, respectively], have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in postimplantation losses in dams treated with mirtazapine.

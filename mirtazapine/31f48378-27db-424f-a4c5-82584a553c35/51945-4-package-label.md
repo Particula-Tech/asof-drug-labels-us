@@ -10,9 +10,9 @@ Rx only
 
 15 mg
 
-Manufactured by: CIMA® LABS INC., Eden Prairie, MN 55344, USA Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Manufactured for: Merck Sharp & Dohme Corp., a Subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-CIMA® is a registered trademark of CIMA LABS INC.
+Manufactured by: Cephalon, Inc., Salt Lake City, UT 84116, USA
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Carton
 
@@ -26,9 +26,9 @@ Rx only
 
 30 mg
 
-Manufactured by: CIMA® LABS INC., Eden Prairie, MN 55344, USA Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Manufactured for: Merck Sharp & Dohme Corp., a Subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-CIMA® is a registered trademark of CIMA LABS INC.
+Manufactured by: Cephalon, Inc., Salt Lake City, UT 84116, USA
 
 # PRINCIPAL DISPLAY PANEL - 45 mg Carton
 
@@ -42,6 +42,6 @@ Rx only
 
 45 mg
 
-Manufactured by: CIMA® LABS INC., Eden Prairie, MN 55344, USA Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Manufactured for: Merck Sharp & Dohme Corp., a Subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-CIMA® is a registered trademark of CIMA LABS INC.
+Manufactured by: Cephalon, Inc., Salt Lake City, UT 84116, USA

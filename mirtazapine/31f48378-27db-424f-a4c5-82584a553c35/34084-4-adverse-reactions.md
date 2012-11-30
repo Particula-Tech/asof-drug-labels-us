@@ -2,14 +2,14 @@
 
 ## Associated with Discontinuation of Treatment
 
-Approximately 16% of the 453 patients who received REMERON® (mirtazapine) Tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
+Approximately 16% of the 453 patients who received REMERON (mirtazapine) Tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
 The most common events (≥1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) are included in Table 2.
 
-Table 2: Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US REMERON Trials
+Table 2: Common Adverse Events Associated With Discontinuation of Treatment in 6-Week US REMERON Trials
 
-| REMERON (n=453) | Placebo (n=361) |  |
+| Adverse Event | REMERON (n=453) | Placebo (n=361) |
 | --- | --- | --- |
-| Adverse Event | Percentage of Patients Discontinuing with Adverse Event |  |
+|  | Percentage of Patients Discontinuing with Adverse Event |  |
 | Somnolence | 10.4% | 2.2% |
 | Nausea | 1.5% | 0% |
 
@@ -17,11 +17,11 @@ Table 2: Common Adverse Events Associated with Discontinuation of Treatment in 6
 
 The most commonly observed adverse events associated with the use of REMERON (mirtazapine) Tablets (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (REMERON incidence at least twice that for placebo) are listed in Table 3.
 
-Table 3: Common Treatment-Emergent Adverse Events Associated with the Use of REMERON in 6-Week US Trials
+Table 3: Common Treatment-Emergent Adverse Events Associated With the Use of REMERON in 6-Week US Trials
 
-| REMERON (n=453) | Placebo (n=361) |  |
+| Adverse Event | REMERON (n=453) | Placebo (n=361) |
 | --- | --- | --- |
-| Adverse Event | Percentage of Patients Reporting Adverse Event |  |
+|  | Percentage of Patients Reporting Adverse Event |  |
 | Somnolence | 54% | 18% |
 | Increased Appetite | 17% | 2% |
 | Weight Gain | 12% | 2% |
@@ -37,7 +37,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
 
-Table 4: Incidence of Adverse Clinical ExperiencesEvents reported by at least 1% of patients treated with REMERON are included, except the following events which had an incidence on placebo greater than or equal to REMERON: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.
+Table 4: Incidence of Adverse Clinical ExperiencesEvents reported by at least 1% of patients treated with REMERON are included, except the following events, which had an incidence on placebo greater than or equal to REMERON: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.
 (≥1%) in Short-Term US Controlled Studies
 
 | Body System Adverse Clinical Experience | REMERON (n=453) | Placebo (n=361) |
@@ -85,6 +85,7 @@ Consequently, it is not possible to provide a meaningful estimate of the proport
 In the tabulations that follow, reported adverse events were classified using a standard COSTART-based dictionary terminology.
 The frequencies presented, therefore, represent the proportion of the 2796 patients exposed to multiple doses of REMERON who experienced an event of the type cited on at least 1 occasion while receiving REMERON.
 All reported events are included except those already listed in Table 4, those adverse experiences subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, and those events for which a drug cause was very remote.
+
 It is important to emphasize that, although the events reported occurred during treatment with REMERON, they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on 1 or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
@@ -121,4 +122,4 @@ Adverse events reported since market introduction, which were temporally (but no
 In 3 of the 4 cases, however, concomitant drugs were implicated.
 All patients recovered.
 
-Cases of severe skin reactions, including Stevens-Johnson Syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
+Cases of severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.

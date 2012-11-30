@@ -2,8 +2,8 @@
 
 ## Human Experience
 
-There is very limited experience with REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets overdose.
-In premarketing clinical studies, there were 8 reports of REMERON® overdose alone or in combination with other pharmacological agents.
+There is very limited experience with REMERONSolTab (mirtazapine) Orally Disintegrating Tablets overdose.
+In premarketing clinical studies, there were 8 reports of REMERON overdose alone or in combination with other pharmacological agents.
 The only drug overdose death reported while taking REMERON was in combination with amitriptyline and chlorprothixene in a non-US clinical study.
 Based on plasma levels, the REMERON dose taken was 30 to 45 mg, while plasma levels of amitriptyline and chlorprothixene were found to be at toxic levels.
 All other premarketing overdose cases resulted in full recovery.
