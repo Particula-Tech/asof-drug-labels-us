@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA077666"
+  ],
+  "inn": "mirtazapine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0247-1",
+    "60505-0247-3",
+    "60505-0247-5",
+    "60505-0247-8",
+    "60505-0248-1",
+    "60505-0248-3",
+    "60505-0248-5",
+    "60505-0248-8",
+    "60505-0249-1",
+    "60505-0249-3",
+    "60505-0249-5",
+    "60505-0249-8"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "mirtazapine",
+      "name": "Mirtazapine"
+    }
+  ],
+  "setid": "9675333e-3064-c8cb-a4b4-6c74d9a82f17",
+  "source": "dailymed"
+}

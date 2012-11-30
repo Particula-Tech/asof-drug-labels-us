@@ -1,0 +1,35 @@
+# PRINCIPAL DISPLAY PANEL - 15 mg BOTTLE LABEL
+
+APOTEX CORP. NDC 60505-0247-1
+
+Mirtazapine Tablet
+
+15 mg
+
+Rx
+
+30 bottle count
+
+# PRINCIPAL DISPLAY PANEL - 30 mg BOTTLE LABEL
+
+APOTEX CORP. NDC 60505-0248-1
+
+Mirtazapine Tablet
+
+30 mg
+
+Rx
+
+30 bottle count
+
+# PRINCIPAL DISPLAY PANEL - 45 mg BOTTLE LABEL
+
+APOTEX CORP. NDC 60505-0249-1
+
+Mirtazapine Tablet
+
+45 mg
+
+Rx
+
+30 bottle count
