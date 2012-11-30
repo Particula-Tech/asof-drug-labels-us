@@ -118,7 +118,7 @@ Use of sirolimus with tacrolimus in studies of de novo liver transplant patients
 
 Co-administration with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without adjustments in the dosing regimen of tacrolimus and subsequent close monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions [see DRUG INTERACTIONS (7)].
 
-When coadministering tacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, close monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
+When coadministeringtacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, close monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
 Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation.
 
 ## 5.14 Myocardial Hypertrophy

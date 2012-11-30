@@ -1,4 +1,4 @@
-# Package/Label Principal Display Panel
+# Principal Display Panel
 
 NDC 0781-2102-01
 
@@ -8,7 +8,7 @@ Tacrolimus Capsules, USP
 
 100 Capsules
 
-# Package/Label Principal Display Panel
+# Principal Display Panel
 
 NDC 0781-2103-01
 
@@ -18,7 +18,7 @@ Tacrolimus Capsules, USP
 
 100 Capsules
 
-# Package/Label Principal Display Panel
+# Principal Display Panel
 
 NDC 781-2104-01
 

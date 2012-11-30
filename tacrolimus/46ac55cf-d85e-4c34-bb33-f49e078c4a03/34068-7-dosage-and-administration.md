@@ -17,7 +17,7 @@ Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough C
 | In combination with MMF/IL-2 receptor antagonista | 0.1 mg/kg/day | month 1 to 12: 4 to 11 ng/mL |
 | Adult liver transplant patients | 0.10 to 0.15 mg/kg/day | month 1 to 12: 5 to 20 ng/mL |
 
-a In a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during months 1 to 3 and 5 to 12 ng/mL during months 4 to 12 [see CLINICAL STUDIES (14.1)].
+aIn a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during months 1 to 3 and 5 to 12 ng/mL during months 4 to 12 [see CLINICAL STUDIES (14.1)].
 
 Dosing should be titrated based on clinical assessments of rejection and tolerability.
 Lower tacrolimus capsules, USP dosages than the recommended initial dosage may be sufficient as maintenance therapy.

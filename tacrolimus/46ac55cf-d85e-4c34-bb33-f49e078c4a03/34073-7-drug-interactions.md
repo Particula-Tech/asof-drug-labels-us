@@ -51,7 +51,7 @@ Monitoring of whole blood concentrations and appropriate dosage adjustments of t
 Concomitant administration of phenytoin with tacrolimus may also increase phenytoin plasma concentrations.
 Thus, frequent monitoring phenytoin plasma concentrations and adjusting the phenytoin dose as needed are recommended when tacrolimus and phenytoin are administered concomitantly.
 
-## 7.9 St. John’s Wort (Hypericum perforatum)
+## 7.9 St. John’s Wort (Hypericumperforatum)
 
 St. John’s Wort induces CYP3A enzymes and may decrease tacrolimus whole blood concentrations.
 Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when St. John’s Wort and tacrolimus are co-administered.

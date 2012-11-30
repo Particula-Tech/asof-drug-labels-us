@@ -15,7 +15,7 @@ Overall 1 year patient and graft survival was 96.1% and 89.6%, respectively.
 
 Data from this trial of tacrolimus in conjunction with azathioprine indicate that during the first three months of that trial, 80% of the patients maintained trough concentrations between 7 to 20 ng/mL, and then between 5 to 15 ng/mL, through 1 year.
 
-Tacrolimus/mycophenolate mofetil (MMF)
+Tacrolimus/mycophenolatemofetil (MMF)
 
 Tacrolimus-based immunosuppression in conjunction with MMF, corticosteroids, and induction has been studied.
 In a randomized, open-label, multi-center trial (Study 1), 1589 kidney transplant patients received tacrolimus (Group C, n=401), sirolimus (Group D, n=399), or one of two cyclosporine (CsA) regimens (Group A, n=390 and Group B, n=399) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
@@ -65,7 +65,7 @@ Tacrolimus Whole Blood Trough Concentrations (Study 1)
 | Day 90 (N=351) | 6.8 (4.1 to 10.7) |
 | Day 180 (N=355) | 6.5 (4 to 9.6) |
 | Day 365 (N=346) | 6.5 (3.8 to 10) |
-| a 10 to the 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough, Tac |  |
+| a 10 to the 90th Percentile: range of Ctrough,Tacthat excludes lowest 10% and highest 10% of Ctrough, Tac |  |
 
 The protocol-specified target cyclosporine trough concentrations (Ctrough,CsA) for Group B were 50 to 100 ng/mL; however, the observed median Ctroughs,CsA approximated 100 ng/mL throughout the 12 month trial.
 The protocol-specified target Ctroughs,CsA for Group A were 150 to 300 ng/mL for the first 3 months and 100 to 200 ng/mL from month 4 to month 12; the observed median Ctroughs, CsA approximated 225 ng/mL for the first 3 months and 140 ng/mL from month 4 to month 12.
