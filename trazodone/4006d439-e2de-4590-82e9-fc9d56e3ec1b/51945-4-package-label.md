@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Trazodone Hydrochloride Tablets USP 50 mg 100 Tablets Label Text
+## Trazodone Hydrochloride Tablets USP 50 mg 100s Label Text
 
-NDC 50111-443-01
+NDC 50111-433-01
 
 TraZODONE
 
@@ -12,11 +12,9 @@ Tablets USP
 
 50 mg
 
-PHARMACIST: Dispense the
+Pharmacist: Dispense the accompanying
 
-Medication Guide provided
-
-separately to each patient.
+Medication Guide to each patient.
 
 Rx only
 
@@ -24,9 +22,9 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Principal Display Panel
 
-## Trazodone Hydrochloride Tablets USP 100 mg 100 Tablets Label Text
+## Trazodone Hydrochloride Tablets USP 100 mg 100s Label Text
 
 NDC 50111-434-01
 
@@ -38,9 +36,9 @@ Tablets USP
 
 100 mg
 
-PHARMACIST: Dispense the Medication
+Pharmacist: Dispense the accompanying
 
-Guide provided separately to each patient.
+Medication Guide to each patient.
 
 Rx only
 
@@ -48,9 +46,9 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Principal Display Panel
 
-## Trazodone Hydrochloride Tablets USP 150 mg 100 Tablets Label Text
+## Trazodone Hydrochloride Tablets USP 150 mg 100s Label Text
 
 NDC 50111-441-01
 
@@ -62,11 +60,9 @@ Tablets USP
 
 150 mg
 
-PHARMACIST: Dispense the
+Pharmacist: Dispense the accompanying
 
-Medication Guide provided
-
-separately to each patient.
+Medication Guide to each patient.
 
 Rx only
 
