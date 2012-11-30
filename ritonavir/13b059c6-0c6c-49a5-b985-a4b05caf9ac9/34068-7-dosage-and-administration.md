@@ -6,7 +6,7 @@ It is recommended that NORVIR be taken with meals if possible.
 General Dosing Guidelines Patients should be aware that frequently observed adverse events, such as mild to moderate gastrointestinal disturbances and paraesthesias, may diminish as therapy is continued.
 
 Dose modification for NORVIR Dose reduction of NORVIR is necessary when used with other protease inhibitors: atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
-Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions (5) and Drug Interactions (7)].
+Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions (5), and Drug Interactions (7)].
 
 ## 2.1 Adult Patients
 

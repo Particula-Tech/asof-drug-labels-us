@@ -9,7 +9,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including adverse reactions.
 
-## 6.1 Adults - Clinical Trials Experience
+## 6.1 Adult Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -72,31 +72,57 @@ Similar adverse event profiles were reported in adult patients receiving ritonav
 
 Adverse events occurring in less than 2% of adult patients receiving NORVIR in all phase II/phase III studies and considered at least possibly related or of unknown relationship to treatment and of at least moderate intensity are listed below by body system.
 
-Body as a Whole Abdomen enlarged, accidental injury, allergic reaction, back pain, cachexia, chest pain, chills, facial edema, facial pain, flu syndrome, hormone level altered, hypothermia, kidney pain, neck pain, neck rigidity, pelvic pain, photosensitivity reaction, and substernal chest pain.
+Body as a Whole
 
-Cardiovascular System Cardiovascular disorder, cerebral ischemia, cerebral venous thrombosis, hypertension, hypotension, migraine, myocardial infarct, palpitation, peripheral vascular disorder, phlebitis, postural hypotension, tachycardia and vasospasm.
+Abdomen enlarged, accidental injury, allergic reaction, back pain, cachexia, chest pain, chills, facial edema, facial pain, flu syndrome, hormone level altered, hypothermia, kidney pain, neck pain, neck rigidity, pelvic pain, photosensitivity reaction, and substernal chest pain.
 
-Digestive System Abnormal stools, bloody diarrhea, cheilitis, cholestatic jaundice, colitis, dry mouth, dysphagia, eructation, esophageal ulcer, esophagitis, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal hemorrhage, gingivitis, hepatic coma, hepatitis, hepatomegaly, hepatosplenomegaly, ileus, liver damage, melena, mouth ulcer, pancreatitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, sialadenitis, stomatitis, tenesmus, thirst, tongue edema, and ulcerative colitis.
+Cardiovascular System
 
-Endocrine System Adrenal cortex insufficiency and diabetes mellitus.
+Cardiovascular disorder, cerebral ischemia, cerebral venous thrombosis, hypertension, hypotension, migraine, myocardial infarct, palpitation, peripheral vascular disorder, phlebitis, postural hypotension, tachycardia and vasospasm.
 
-Hemic and Lymphatic System Acute myeloblastic leukemia, anemia, ecchymosis, leukopenia, lymphadenopathy, lymphocytosis, myeloproliferative disorder, and thrombocytopenia.
+Digestive System
 
-Metabolic and Nutritional Disorders Albuminuria, alcohol intolerance, avitaminosis, BUN increased, dehydration, edema, enzymatic abnormality, glycosuria, gout, hypercholesteremia, peripheral edema, and xanthomatosis.
+Abnormal stools, bloody diarrhea, cheilitis, cholestatic jaundice, colitis, dry mouth, dysphagia, eructation, esophageal ulcer, esophagitis, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal hemorrhage, gingivitis, hepatic coma, hepatitis, hepatomegaly, hepatosplenomegaly, ileus, liver damage, melena, mouth ulcer, pancreatitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, sialadenitis, stomatitis, tenesmus, thirst, tongue edema, and ulcerative colitis.
 
-Musculoskeletal System Arthritis, arthrosis, bone disorder, bone pain, extraocular palsy, joint disorder, leg cramps, muscle cramps, muscle weakness, myositis, and twitching.
+Endocrine System
 
-Nervous System Abnormal dreams, abnormal gait, agitation, amnesia, aphasia, ataxia, coma, convulsion, dementia, depersonalization, diplopia, emotional lability, euphoria, grand mal convulsion, hallucinations, hyperesthesia, hyperkinesia, hypesthesia, incoordination, libido decreased, manic reaction, nervousness, neuralgia, neuropathy, paralysis, peripheral neuropathic pain, peripheral neuropathy, peripheral sensory neuropathy, personality disorder, sleep disorder, speech disorder, stupor, subdural hematoma, tremor, urinary retention, vertigo, and vestibular disorder.
+Adrenal cortex insufficiency and diabetes mellitus.
 
-Respiratory System Asthma, bronchitis, dyspnea, epistaxis, hiccup, hypoventilation, increased cough, interstitial pneumonia, larynx edema, lung disorder, rhinitis, and sinusitis.
+Hemic and Lymphatic System
 
-Skin and Appendages Acne, contact dermatitis, dry skin, eczema, erythema multiforme, exfoliative dermatitis, folliculitis, fungal dermatitis, furunculosis, maculopapular rash, molluscum contagiosum, onychomycosis, pruritus, psoriasis, pustular rash, seborrhea, skin discoloration, skin disorder, skin hypertrophy, skin melanoma, urticaria, and vesiculobullous rash.
+Acute myeloblastic leukemia, anemia, ecchymosis, leukopenia, lymphadenopathy, lymphocytosis, myeloproliferative disorder, and thrombocytopenia.
 
-Special Senses Abnormal electro-oculogram, abnormal electroretinogram, abnormal vision, amblyopia/blurred vision, blepharitis, conjunctivitis, ear pain, eye disorder, eye pain, hearing impairment, increased cerumen, iritis, parosmia, photophobia, taste loss, tinnitus, uveitis, visual field defect, and vitreous disorder.
+Metabolic and Nutritional Disorders
 
-Urogenital System Acute kidney failure, breast pain, cystitis, dysuria, hematuria, impotence, kidney calculus, kidney failure, kidney function abnormal, kidney pain, menorrhagia, penis disorder, polyuria, urethritis, urinary frequency, urinary tract infection, and vaginitis.
+Albuminuria, alcohol intolerance, avitaminosis, BUN increased, dehydration, edema, enzymatic abnormality, glycosuria, gout, hypercholesteremia, peripheral edema, and xanthomatosis.
 
-Laboratory Abnormalities Table 3 shows the percentage of adult patients who developed marked laboratory abnormalities.
+Musculoskeletal System
+
+Arthritis, arthrosis, bone disorder, bone pain, extraocular palsy, joint disorder, leg cramps, muscle cramps, muscle weakness, myositis, and twitching.
+
+Nervous System
+
+Abnormal dreams, abnormal gait, agitation, amnesia, aphasia, ataxia, coma, convulsion, dementia, depersonalization, diplopia, emotional lability, euphoria, grand mal convulsion, hallucinations, hyperesthesia, hyperkinesia, hypesthesia, incoordination, libido decreased, manic reaction, nervousness, neuralgia, neuropathy, paralysis, peripheral neuropathic pain, peripheral neuropathy, peripheral sensory neuropathy, personality disorder, sleep disorder, speech disorder, stupor, subdural hematoma, tremor, urinary retention, vertigo, and vestibular disorder.
+
+Respiratory System
+
+Asthma, bronchitis, dyspnea, epistaxis, hiccup, hypoventilation, increased cough, interstitial pneumonia, larynx edema, lung disorder, rhinitis, and sinusitis.
+
+Skin and Appendages
+
+Acne, contact dermatitis, dry skin, eczema, erythema multiforme, exfoliative dermatitis, folliculitis, fungal dermatitis, furunculosis, maculopapular rash, molluscum contagiosum, onychomycosis, pruritus, psoriasis, pustular rash, seborrhea, skin discoloration, skin disorder, skin hypertrophy, skin melanoma, urticaria, and vesiculobullous rash.
+
+Special Senses
+
+Abnormal electro-oculogram, abnormal electroretinogram, abnormal vision, amblyopia/blurred vision, blepharitis, conjunctivitis, ear pain, eye disorder, eye pain, hearing impairment, increased cerumen, iritis, parosmia, photophobia, taste loss, tinnitus, uveitis, visual field defect, and vitreous disorder.
+
+Urogenital System
+
+Acute kidney failure, breast pain, cystitis, dysuria, hematuria, impotence, kidney calculus, kidney failure, kidney function abnormal, kidney pain, menorrhagia, penis disorder, polyuria, urethritis, urinary frequency, urinary tract infection, and vaginitis.
+
+Laboratory Abnormalities
+
+Table 3 shows the percentage of adult patients who developed marked laboratory abnormalities.
 
 | Table 3. Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and Hematology Abnormalities Occurring in greater than 3% of Patients Receiving NORVIR |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -120,7 +146,7 @@ Laboratory Abnormalities Table 3 shows the percentage of adult patients who deve
 | WBC | < 2.5 x 109/L | - | 0.9 | 6.8 | 36.9 | 59.4 | 3.5 |
 | - Indicates no events reported. |  |  |  |  |  |  |  |
 
-## 6.2 Pediatric Clinical Trials
+## 6.2 Pediatric Clinical Trial Experience
 
 NORVIR has been studied in 265 pediatric patients greater than 1 month to 21 years of age.
 The adverse event profile observed during pediatric clinical trials was similar to that for adult patients.
@@ -141,7 +167,7 @@ Cardiovascular System First-degree AV block, second-degree AV block, third-degre
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazodone, fluoxetine, and beta blockers.
 The possibility of drug interaction cannot be excluded.
 
-Endocrine System Cushing's syndrome and adrenal suppression have been reported when ritonavir has been co-administered with fluticasone propionate.
+Endocrine System Cushing's syndrome and adrenal suppression have been reported when ritonavir has been co-administered with fluticasone propionate or budesonide.
 
 Nervous System There have been postmarketing reports of seizure.
 Also, see Cardiovascular System.

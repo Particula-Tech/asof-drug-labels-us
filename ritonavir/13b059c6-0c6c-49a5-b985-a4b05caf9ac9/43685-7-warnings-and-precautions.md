@@ -45,13 +45,13 @@ NORVIR should be used with caution in patients with underlying structural heart 
 
 The impact on the PR interval of co-administration of ritonavir with other drugs that prolong the PR interval (including calcium channel blockers, beta-adrenergic blockers, digoxin and atazanavir) has not been evaluated.
 As a result, co-administration of ritonavir with these drugs should be undertaken with caution, particularly with those drugs metabolized by CYP3A.
-Clinical monitoring is recommended [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+Clinical monitoring is recommended [see Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 ## 5.6 Lipid Disorders
 
 Treatment with NORVIR therapy alone or in combination with saquinavir has resulted in substantial increases in the concentration of total cholesterol and triglycerides [see Adverse Reactions (6.1)].
 Triglyceride and cholesterol testing should be performed prior to initiating NORVIR therapy and at periodic intervals during therapy.
-Lipid disorders should be managed as clinically appropriate, taking into account any potential drug-drug interactions with NORVIR and HMG CoA reductase inhibitors [see Contraindications (4) and Drug Interactions (7)].
+Lipid disorders should be managed as clinically appropriate, taking into account any potential drug-drug interactions with NORVIR and HMG CoA reductase inhibitors [see Contraindications (4), and Drug Interactions (7)].
 
 ## 5.7 Diabetes Mellitus/Hyperglycemia
 

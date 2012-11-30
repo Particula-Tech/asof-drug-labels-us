@@ -69,8 +69,10 @@ Patients should be advised to notify their healthcare provider if they develop t
 
  Patients with hemophilia may experience increased bleeding when treated with protease inhibitors such as NORVIR.
 
- If they are receiving sildenafil, tadalafil, or vardenafil, they may be at an increased risk of associated adverse reactions including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.
-They should seek medical assistance immediately if they develop a sustained penile erection lasting more than 4 hours while taking NORVIR and a PDE5 Inhibitor such as Viagra®, Cialis® or Levitra®.
+ If they are receiving avanafil, sildenafil, tadalafil, or vardenafil for the treatment of erectile dysfunction, they may be at an increased risk of associated adverse reactions including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.
+They should seek medical assistance immediately if they develop a sustained penile erection lasting more than 4 hours while taking NORVIR and a PDE5 Inhibitor such as Stendra®, Viagra®, Cialis® or Levitra®.
+If they are currently using or planning to use avanafil or tadalafil (for the treatment of pulmonary arterial hypertension) they should ask their doctor about potential adverse reactions these medications may cause when taken with NORVIR.
+The doctor may choose not to keep them on avanafil, or may adjust the dose of tadalafil while initiating treatment with NORVIR.
 Concomitant use of Revatio® (sildenafil) with NORVIR is contraindicated in patients with pulmonary arterial hypertension (PAH).
 
  Continued NORVIR therapy at a dose of 600 mg twice daily following loss of viral suppression may increase the likelihood of cross-resistance to other protease inhibitors.

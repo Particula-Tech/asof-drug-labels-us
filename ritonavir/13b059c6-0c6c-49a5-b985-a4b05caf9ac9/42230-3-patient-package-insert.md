@@ -88,7 +88,7 @@ Especially tell your doctor if you take:
 - medicine for your heart such as disopyramide (Norpace), lidocaine (Xylocaine Viscous), mexiletine, digoxin (Lanoxin), nifedipine (Procardia, Adalat, Afeditab CR), diltiazem (Cardizem, Dilacor, Cartia, Diltzac, Dilt, Taztia, Tiazac) or verapamil (Calan, Covera, Isoptin, Tarka, Verelan)
 - medicines for panic disorder or anxiety such as buspirone, clorazepate, diazepam, estazolam, flurazepam, and zolpidem
 - medicine for cancer such as dasatinib (Sprycel), nilotinib (Tasigna) vincristine, or vinblastine
-- warfarin (Coumadin, Jantoven)
+- warfarin (Coumadin, Jantoven), rivaroxaban (Xarelto)
 - medicine for seizures such as carbamazepine (Carbatrol, Equetro, Tegretol, Epitol), clonazepam (Klonopin), ethosuximide (Zarontin, Ethosuximide), divalproex (Depakote, Divalproex Sodium), lamotrigine (Lamictal) or phenytoin (Dilantin, Phenytek)
 - medicine for depression such as nefazodone, bupropion (Wellbutrin, Aplenzin, Zyban), desipramine (Norpramin) or trazadone, fluoxetine (Prozac), paroxetine (Paxil), amitriptyline, or nortriptyline
 - medicine for nausea and vomiting such as dronabinol (Marinol) or perphenazine
@@ -99,10 +99,11 @@ Especially tell your doctor if you take:
 - medicine for lung disease such as theophylline and salmeterol (Serevent)
 - bosentan (Tracleer)
 - medicine to prevent organ transplant failure such as cyclosporine (Gengraf, Sandimmune, Neoral), tacrolimus (Prograf,) sirolimus (Rapamune)
-- steroids such as dexamethasone, fluticasone (Advair Diskus, Veramyst, Flovent, Flonase) or prednisone
+- steroids such as dexamethasone, fluticasone (Advair Diskus, Veramyst, Flovent, Flonase), budesonide (Entocort EC, Pulmicort, Rhinocort), or prednisone
 - a narcotic medicine such as methadone (Methadose, Dolophine Hydrochloride) or fentanyl (Abstral, Actiq, Fentora, Lazanda, Onsolis, Duragesic)
 - medicine to treat schizophrenia such as risperidone (Risperdal) or thioridazine
-- medicine to treat erectile dysfunction or pulmonary hypertension such as sildenafil (Viagra, Revatio), vardenafil (Levitra, Staxyn), tadalafil (Cialis, Adcirca)
+- medicine to treat erectile dysfunction or pulmonary hypertension such as avanafil (Stendra), sildenafil (Viagra, Revatio), vardenafil (Levitra, Staxyn), tadalafil (Cialis, Adcirca).
+  If you are taking avanafil (Stendra), your doctor may need to change it to a different medicine.
 - midazolam by injection
 - methamphetamine (Desoxyn)
 - cholesterol lowering medicine such as atorvastatin (Lipitor) or rosuvasatin (Crestor)
@@ -243,5 +244,4 @@ Abbott Laboratories North Chicago, IL 60064 USA
 * The brands listed are trademarks of their respective owners and are not trademarks of Abbott Laboratories.
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
-Rev.
-03/2012
+03-A686 November 2012

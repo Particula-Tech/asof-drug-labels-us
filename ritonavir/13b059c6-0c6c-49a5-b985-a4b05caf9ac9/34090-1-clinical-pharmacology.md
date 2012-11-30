@@ -38,7 +38,7 @@ Effects on Electrocardiogram QTcF interval was evaluated in a randomized, placeb
 The maximum mean (95% upper confidence bound) time-matched difference in QTcF from placebo after baseline correction was 5.5 (7.6) milliseconds (msec) for 400 mg twice-daily ritonavir.
 Ritonavir 400 mg twice daily resulted in Day 3 ritonavir exposure that was approximately 1.5 fold higher than observed with ritonavir 600 mg twice-daily dose at steady state.
 PR interval prolongation was also noted in subjects receiving ritonavir in the same study on Day 3.
-The maximum mean (95% confidence interval) difference from placebo in the PR interval after baseline correction was 22 (25) msec for 400 mg twice-daily ritonavir [see Warnings and Precautions (5.6)].
+The maximum mean (95% confidence interval) difference from placebo in the PR interval after baseline correction was 22 (25) msec for 400 mg twice-daily ritonavir [see Warnings and Precautions (5.5)].
 
 Special Populations
 
@@ -64,7 +64,7 @@ No dose adjustment is recommended in patients with mild or moderate hepatic impa
 However, health care providers should be aware of the potential for lower ritonavir concentrations in patients with moderate hepatic impairment and should monitor patient response carefully.
 Ritonavir has not been studied in patients with severe hepatic impairment.
 
-Drug Interactions [see also Contraindications (4), Warnings and Precautions (5.1) and Drug Interactions (7)] Table 6 and Table 7 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
+Drug Interactions [see also Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7)] Table 6 and Table 7 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
 For information about clinical recommendations see Table 4 in Drug Interactions (7).
 
 | Table 6. Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co-administered Drug |  |  |  |  |  |  |
@@ -83,6 +83,7 @@ For information about clinical recommendations see Table 4 in Drug Interactions 
 | --- | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of NORVIR (mg) | n | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
 | Alprazolam | 1, single dose | 500 q12h, 10 d | 12 | ↓ 12% (-5, 30%) | ↓ 16% (5, 27%) | ND |
+| Avanafil | 50, single dose | 600 q12h | 146 | ↑ 13-fold | ↑ 2.4-fold | ND |
 | Clarithromycin 14-OH clarithromycin metabolite | 500 q12h, 4 d | 200 q8h, 4 d | 22 | ↑ 77% (56, 103%) ↓ 100% | ↑ 31% (15, 51%) ↓ 99% | ↑ 2.8-fold (2.4, 3.3X) ↓ 100% |
 | Desipramine 2-OH desipramine metabolite | 100, single dose | 500 q12h, 12 d | 14 | ↑ 145% (103, 211%) ↓ 15% (3, 26%) | ↑ 22% (12, 35%) ↓ 67% (62, 72%) | ND ND |
 | Didanosine | 200 q12h, 4 d | 600 q12h, 4 d | 12 | ↓ 13% (0, 23%) | ↓ 16% (5, 26%) | ↔ |
@@ -92,6 +93,8 @@ For information about clinical recommendations see Table 4 in Drug Interactions 
 | Ketoconazole | 200 daily, 7 d | 500 q12h, 10 d | 12 | ↑ 3.4-fold (2.8, 4.3X) | ↑ 55% (40, 72%) | ND |
 | Meperidine Normeperidine metabolite | 50 oral single dose | 500 q12h, 10 d | 8 6 | ↓ 62% (59, 65%) ↑ 47% (-24, 345%) | ↓ 59% (42, 72%) ↑ 87% (42, 147%) | ND ND |
 | Methadone2 | 5, single dose | 500 q12h, 15 d | 11 | ↓ 36% (16, 52%) | ↓ 38% (28, 46%) | ND |
+| Raltegravir | 400, single dose | 100 q12h, 16 d | 10 | ↓ 16% (-30, 1%) | ↓ 24% (-45, 4%) | ↓ 1% (-30, 40%) |
+| Rivaroxaban | 10, single dose (days 0 and 7) | 600 q12h (days 2 to 7) | 12 | ↑ 150% (130- 170%)7 | ↑ 60% (40- 70%)7 | ND |
 | Rifabutin 25-O-desacetyl rifabutin metabolite | 150 daily, 16 d | 500 q12h, 10 d | 5, 11* | ↑ 4-fold (2.8, 6.1X) ↑ 38-fold (28, 56X) | ↑ 2.5-fold (1.9, 3.4X) ↑ 16-fold (13, 20X) | ↑ 6-fold (3.5, 18.3X) ↑ 181-fold (ND) |
 | Sildenafil | 100, single dose | 500 twice daily, 8 d | 28 | ↑ 11-fold | ↑ 4-fold | ND |
 | Sulfamethoxazole3 | 800, single dose | 500 q12h, 12 d | 15 | ↓ 20% (16, 23%) | ↔ | ND |
@@ -104,7 +107,7 @@ For information about clinical recommendations see Table 4 in Drug Interactions 
 |  | 400 q12h, 1 d; then 200 q12h, 8 d | 100 q12h, 9 d |  | ↓ 39% | ↓ 24% |  |
 | Warfarin S-Warfarin R-Warfarin | 5, single dose | 400 q12h, 12d | 12 | ↑ 9% (-17, 44%)4 ↓ 33% (-38, -27%)4 | ↓ 9% (-16, -2%)4 ↔ | ND ND |
 | Zidovudine | 200 q8h, 4 d | 300 q6h, 4 d | 9 | ↓ 25% (15, 34%) | ↓ 27% (4, 45%) | ND |
-| 1 Ritonavir and indinavir were co-administered for 15 days; Day 14 doses were administered after a 15%-fat breakfast (757 Kcal) and 9%-fat evening snack (236 Kcal), and Day 15 doses were administered after a 15%-fat breakfast (757 Kcal) and 32%-fat dinner (815 Kcal). Indinavir Cmin was also increased 4-fold. Effects were assessed relative to an indinavir 800 mg q8h regimen under fasting conditions. 2 Effects were assessed on a dose-normalized comparison to a methadone 20 mg single dose. 3 Sulfamethoxazole and trimethoprim taken as single combination tablet. 4 90% CI presented for R- and S-warfarin AUC and Cmax ratios. 5 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol AUC. ↑ Indicates increase. ↓ Indicates decrease. ↔ Indicates no change. * Parallel group design; entries are subjects receiving combination and control regimens, respectively. |  |  |  |  |  |  |
+| 1 Ritonavir and indinavir were co-administered for 15 days; Day 14 doses were administered after a 15%-fat breakfast (757 Kcal) and 9%-fat evening snack (236 Kcal), and Day 15 doses were administered after a 15%-fat breakfast (757 Kcal) and 32%-fat dinner (815 Kcal). Indinavir Cmin was also increased 4-fold. Effects were assessed relative to an indinavir 800 mg q8h regimen under fasting conditions. 2 Effects were assessed on a dose-normalized comparison to a methadone 20 mg single dose. 3 Sulfamethoxazole and trimethoprim taken as single combination tablet. 4 90% CI presented for R- and S-warfarin AUC and Cmax ratios. 5 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol AUC. 6 For the reference arm: N=14 for Cmax and AUC(0-inf), and for the test arm: N=13 for Cmax and N=4 for AUC(0-inf). 7 90% CI presented for rivaroxaban ↑ Indicates increase. ↓ Indicates decrease. ↔ Indicates no change. * Parallel group design; entries are subjects receiving combination and control regimens, respectively. |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
