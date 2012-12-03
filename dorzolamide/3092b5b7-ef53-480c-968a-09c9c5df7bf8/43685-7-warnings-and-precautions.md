@@ -9,9 +9,14 @@ Fatalities have occurred, although rarely, due to severe reactions to sulfonamid
 Sensitization may recur when a sulfonamide is readministered irrespective of the route of administration.
 If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation.
 
-## Cardiac Failure
+## Cardiac Failure and Cardiovascular Disease
 
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure.
+
+Because of the timolol maleate component, cardiac failure should be adequately controlled before beginning therapy with COSOPT.
+Patients with a history of cardiovascular disease, including cardiac failure, should be watched for signs of deterioration of these diseases, and pulse rates should be checked.
+
+Due to its negative effect on conduction time, beta-blockers should be given with caution to patients with first degree heart block.
 
 In Patients Without a History of Cardiac Failure continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of cardiac failure, COSOPT should be discontinued.
@@ -40,6 +45,10 @@ Beta-adrenergic receptor blocking agents may mask the signs and symptoms of acut
 
 Beta-adrenergic blocking agents may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-adrenergic blocking agents that might precipitate a thyroid storm.
+
+## Vascular Disorders
+
+Patients with severe peripheral circulatory disturbance/disorders (e.g., severe forms of Raynaud's disease or Raynaud's syndrome) should be treated with caution.
 
 # PRECAUTIONS
 
@@ -75,7 +84,7 @@ Precautions should be used when prescribing COSOPT to this group of patients.
 
 ## Information for Patients
 
-Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product.
+Patients with reactive airway disease, bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, sino-atrial block, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product.
 (See CONTRAINDICATIONS.)
 
 COSOPT contains dorzolamide (which is a sulfonamide) and, although administered topically, is absorbed systemically.
@@ -112,9 +121,9 @@ The concomitant use of two topical beta-adrenergic blocking agents is not recomm
 Calcium antagonists: Caution should be used in the coadministration of beta-adrenergic blocking agents, such as COSOPT, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
 In patients with impaired cardiac function, coadministration should be avoided.
 
-Catecholamine-depleting drugs: Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
+Catecholamine-depleting drugs and parasympathomimetics: Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs, such as reserpine, or parasympathomimetics drugs, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
 
-Digitalis and calcium antagonists: The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.
+Digitalis, calcium antagonists, and other antiarrhythmics: The concomitant use of beta-adrenergic blocking agents with digitalis, calcium antagonists, or other antiarrhythmics may have additive effects in prolonging atrioventricular conduction time.
 
 CYP2D6 inhibitors: Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has been reported during combined treatment with CYP2D6 inhibitors (e.g., quinidine, SSRIs) and timolol.
 

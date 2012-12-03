@@ -1,5 +1,3 @@
-# PATIENT PACKAGE INSERT
-
 Patient Information about COSOPT® (dorzolamide hydrochloride–timolol maleate ophthalmic solution) COSOPT (pronounced "CO-sopt")
 
 Read this information before you start using COSOPT and each time you refill your prescription.
@@ -34,9 +32,9 @@ If you have high pressure in your eye, you will need your pressure checked and y
 
 Do not use COSOPT if you have:
 
-- asthma or have ever had asthma,
-- severe lung problems,
-- slow or irregular heartbeat or heart failure,
+- or have ever had certain serious breathing problems such as asthma,
+- severe lung problems (such as chronic obstructive pulmonary disease),
+- heart problems, including slow or irregular heartbeat or heart failure,
 - allergies to any of its ingredients.
   See the list at the end of the leaflet.
 
@@ -47,10 +45,11 @@ If you are not sure whether you should use COSOPT, contact your doctor or pharma
 Tell your doctor:
 
 - if you are pregnant or plan to become pregnant,
-- if you are breast-feeding or intend to breast-feed,
+- if you are breastfeeding or intend to breastfeed,
 - about any medical problems you have now or had in the past, especially heart problems or breathing problems including asthma,
 - if you now have or had in the past kidney or liver problems,
 - if you have diabetes, thyroid disease or muscle weakness,
+- if you have poor blood circulation problems (such as Raynaud's syndrome)
 - about all medicines that you are taking or plan to take, including those you can get without a prescription,
 - about any allergies including allergies to any medications, especially sulfa drugs,
 - if you develop an eye infection, develop a red or swollen eye or eyelid, receive an eye injury, have eye surgery, or develop new or worsening eye symptoms,
@@ -97,11 +96,13 @@ Use COSOPT as prescribed by your doctor.
    IF YOU THINK YOUR MEDICATION MAY BE CONTAMINATED, OR IF YOU DEVELOP AN EYE INFECTION, CONTACT YOUR DOCTOR IMMEDIATELY CONCERNING CONTINUED USE OF THIS BOTTLE.
 8. If drop dispensing is difficult after opening for the first time, replace the cap on the bottle and tighten (DO NOT OVERTIGHTEN) and then remove by turning the cap in the opposite direction as indicated by the arrows on the top of the cap.
 9. Repeat steps 6 & 7 with the other eye if instructed to do so by your doctor.
-10. Replace the cap by turning until it is firmly touching the bottle.
+10. After using COSOPT, press a finger into the corner of your eye, by the nose (as shown) for 2 minutes.
+    This helps keep COSOPT in your eye.
+11. Replace the cap by turning until it is firmly touching the bottle.
     The arrow on the left side of the cap must be aligned with the arrow on the left side of the bottle label for proper closure.
     Do not overtighten or you may damage the bottle and cap.
-11. The dispenser tip is designed to provide a single drop; therefore, do NOT enlarge the hole of the dispenser tip.
-12. After you have used all doses, there will be some COSOPT left in the bottle.
+12. The dispenser tip is designed to provide a single drop; therefore, do NOT enlarge the hole of the dispenser tip.
+13. After you have used all doses, there will be some COSOPT left in the bottle.
     You should not be concerned since an extra amount of COSOPT has been added and you will get the full amount of COSOPT that your doctor prescribed.
     Do not attempt to remove the excess medicine from the bottle.
 
@@ -109,7 +110,7 @@ Use COSOPT as prescribed by your doctor.
 
 Tell your doctor or pharmacist about all drugs that you are using or plan to use.
 This includes other eyedrops and drugs obtained without a prescription.
-This is particularly important if you are taking medicine to lower blood pressure or to treat heart disease, or if you are taking large doses of aspirin.
+This is particularly important if you are taking medicine to lower blood pressure or to treat heart disease, medicines to treat diabetes, or if you are taking large doses of aspirin.
 
 Ask your doctor's advice about taking COSOPT if you are also using:
 
@@ -121,7 +122,7 @@ Ask your doctor's advice about taking COSOPT if you are also using:
 - quinidine (for example, Cardioquin®)
 - clonidine (for example, Catapres®)
 - injectable epinephrine (for example, EpiPen®)
-- SSRIs (for example, Prozac®)
+- certain antidepressants (for example Prozac®)
 
 Your doctor or pharmacist can tell you if any of the drugs you are using are in the above list.
 
@@ -155,7 +156,7 @@ Among other effects, you may feel light-headed, have difficulty breathing, or fe
 ## How should I store COSOPT?
 
 Keep your medicine in a safe place where children cannot reach it.
-Store COSOPT at room temperature (59-86°F, 15-30°C).
+Store COSOPT at room temperature 15-30°C (59-86°F).
 Protect the bottle from light.
 Do not use your medicine after the expiration date on the bottle.
 
@@ -173,10 +174,8 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 
 By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
 
-Issued August 2011
+Revised: 11/2012
 
-9711306
+USPPI-OS-0507A1210R007
 
-516356Z/200711-1/3628
-
-Copyright © 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+Copyright © 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.

@@ -19,13 +19,15 @@ Use COSOPT as prescribed by your doctor.
    IF YOU THINK YOUR MEDICATION MAY BE CONTAMINATED, OR IF YOU DEVELOP AN EYE INFECTION, CONTACT YOUR DOCTOR IMMEDIATELY CONCERNING CONTINUED USE OF THIS BOTTLE.
 8. If drop dispensing is difficult after opening for the first time, replace the cap on the bottle and tighten (DO NOT OVERTIGHTEN) and then remove by turning the cap in the opposite direction as indicated by the arrows on the top of the cap.
 9. Repeat steps 6 & 7 with the other eye if instructed to do so by your doctor.
-10. Replace the cap by turning until it is firmly touching the bottle.
+10. After using COSOPT, press a finger into the corner of your eye, by the nose (as shown) for 2 minutes.
+    This helps keep COSOPT in your eye.
+11. Replace the cap by turning until it is firmly touching the bottle.
     The arrow on the left side of the cap must be aligned with the arrow on the left side of the bottle label for proper closure.
     Do not overtighten or you may damage the bottle and cap.
-11. The dispenser tip is designed to provide a single drop; therefore, do NOT enlarge the hole of the dispenser tip.
-12. After you have used all doses, there will be some COSOPT left in the bottle.
+12. The dispenser tip is designed to provide a single drop; therefore, do NOT enlarge the hole of the dispenser tip.
+13. After you have used all doses, there will be some COSOPT left in the bottle.
     You should not be concerned since an extra amount of COSOPT has been added and you will get the full amount of COSOPT that your doctor prescribed.
-    Do not attempt to remove excess medicine from the bottle.
+    Do not attempt to remove the excess medicine from the bottle.
 
 WARNING: Keep out of reach of children.
 
@@ -35,10 +37,8 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 
 By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
 
-Issued August 2011
+Revised: 11/2012
 
-9711306
+USPI-OS-0507A1210R007
 
-516356Z/200711-1/3628
-
-Copyright © 1998, 2004, 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+Copyright © 1998, 2004, 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.

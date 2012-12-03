@@ -40,7 +40,7 @@ The mean peak plasma concentration following morning dosing was 0.46 ng/mL.
 ## Clinical Studies
 
 Clinical studies of 3 to 15 months duration were conducted to compare the IOP-lowering effect over the course of the day of COSOPT b.i.d.
-(dosed morning and bedtime) to individually- and concomitantly-administered 0.5% timolol (b.i.d.) and 2.0% dorzolamide (b.i.d. and t.i.d.).
+(dosed morning and bedtime) to individually and concomitantly administered 0.5% timolol (b.i.d.) and 2.0% dorzolamide (b.i.d. and t.i.d.).
 The IOP-lowering effect of COSOPT b.i.d. was greater (1-3 mmHg) than that of monotherapy with either 2.0% dorzolamide t.i.d. or 0.5% timolol b.i.d.
 The IOP-lowering effect of COSOPT b.i.d. was approximately 1 mmHg less than that of concomitant therapy with 2.0% dorzolamide t.i.d. and 0.5% timolol b.i.d.
 
