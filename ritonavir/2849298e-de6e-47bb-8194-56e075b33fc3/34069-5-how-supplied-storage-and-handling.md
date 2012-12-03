@@ -15,9 +15,9 @@ Exposure to temperatures up to 50°C (122°F) for seven days permitted.
 Dispense in original container or USP equivalent tight container (60 mL or less).
 For patient use: exposure of this product to high humidity outside the original or USP equivalent tight container (60 mL or less) for longer than 2 weeks is not recommended.
 
-## 16.2 NORVIR Oral Solution, 80 mg/mL Ritonavir
+## 16.2 NORVIR Oral Solution, 80 mg per mL Ritonavir
 
-NORVIR (ritonavir) oral solution is an orange-colored liquid, supplied in amber-colored, multi-dose bottles containing 600 mg ritonavir per 7.5 mL marked dosage cup (80 mg/mL).
+NORVIR (ritonavir) oral solution is an orange-colored liquid, supplied in amber-colored, multi-dose bottles containing 600 mg ritonavir per 7.5 mL marked dosage cup (80 mg per mL).
 
 240 mL bottles (NDC 0074-1940-63).
 

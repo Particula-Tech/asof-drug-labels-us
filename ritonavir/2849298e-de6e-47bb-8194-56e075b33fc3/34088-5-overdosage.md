@@ -3,7 +3,7 @@
 ## 10.1 Acute Overdosage - Human Overdose Experience
 
 Human experience of acute overdose with NORVIR is limited.
-One patient in clinical trials took NORVIR 1500 mg/day for two days.
+One patient in clinical trials took NORVIR 1500 mg per day for two days.
 The patient reported paresthesias which resolved after the dose was decreased.
 A post-marketing case of renal failure with eosinophilia has been reported with ritonavir overdose.
 
@@ -11,12 +11,13 @@ The approximate lethal dose was found to be greater than 20 times the related hu
 
 ## 10.2 Management of Overdosage
 
-NORVIR oral solution contains 43% alcohol by volume.
-Accidental ingestion of the product by a young child could result in significant alcohol-related toxicity and could approach the potential lethal dose of alcohol.
+NORVIR oral solution contains 43.2% (v/v) alcohol and 26.57% (w/v) propylene glycol.
+Ingestion of the product over the recommended dose by a young child could result in significant toxicity and could potentially be lethal.
 
 Treatment of overdose with NORVIR consists of general supportive measures including monitoring of vital signs and observation of the clinical status of the patient.
 There is no specific antidote for overdose with NORVIR.
-If indicated, elimination of unabsorbed drug should be achieved by emesis or gastric lavage; usual precautions should be observed to maintain the airway.
+If indicated, elimination of unabsorbed drug should be achieved by gastric lavage; usual precautions should be observed to maintain the airway.
 Administration of activated charcoal may also be used to aid in removal of unabsorbed drug.
 Since ritonavir is extensively metabolized by the liver and is highly protein bound, dialysis is unlikely to be beneficial in significant removal of the drug.
+However, dialysis can remove both alcohol and propylene glycol in the case of overdose with ritonavir oral solution.
 A Certified Poison Control Center should be consulted for up-to-date information on the management of overdose with NORVIR.

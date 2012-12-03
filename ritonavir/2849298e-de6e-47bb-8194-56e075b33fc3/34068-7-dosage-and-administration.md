@@ -12,9 +12,9 @@ Patients should also be aware that these adverse events (gastrointestinal or par
 
 Dose Modification for NORVIR
 
-Dose reduction of NORVIR is necessary when used with other protease inhibitors: amprenavir, atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
+Dose reduction of NORVIR is necessary when used with other protease inhibitors: atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
 
-Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions (5)and Table 5, Established and Other Potentially Significant Drug Interactions].
+Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions (5), and Drug Interactions (7)].
 
 ## 2.1 Adult Patients
 
@@ -28,15 +28,22 @@ The maximum dose of 600 mg twice daily should not be exceeded upon completion of
 ## 2.2 Pediatric Patients
 
 Ritonavir should be used in combination with other antiretroviral agents [see Dosage and Administration (2)].
-The recommended dosage of ritonavir in children > 1 month is 350 to 400 mg/m2 twice daily by mouth to be taken with meals and should not exceed 600 mg twice daily.
-Ritonavir should be started at 250 mg/m2 and increased at 2 to 3 day intervals by 50 mg/m2 twice daily.
-If patients do not tolerate 400 mg/m2 twice daily due to adverse events, the highest tolerated dose may be used for maintenance therapy in combination with other antiretroviral agents, however, alternative therapy should be considered.
+The recommended dosage of ritonavir in children greater than 1 month is 350 to 400 mg per m2 twice daily by mouth to be taken with meals and should not exceed 600 mg twice daily.
+Ritonavir should be started at 250 mg per m2 twice daily and increased at 2 to 3 day intervals by 50 mg per m2 twice daily.
+If patients do not tolerate 400 mg per m2 twice daily due to adverse events, the highest tolerated dose may be used for maintenance therapy in combination with other antiretroviral agents, however, alternative therapy should be considered.
 When possible, dose should be administered using a calibrated dosing syringe.
+
+NORVIR oral solution should not be administered to neonates before a postmenstrual age (first day of the mother’s last menstrual period to birth plus the time elapsed after birth) of 44 weeks has been attained [see Warnings and Precautions (5.2)].
+
+NORVIR oral solution contains 43.2% (v/v) alcohol and 26.57% (w/v) propylene glycol.
+Special attention should be given to accurate calculation of the dose of NORVIR, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors, and overdose.
+This is especially important for young children.
+Total amounts of alcohol and propylene glycol from all medicines that are to be given to pediatric patients 1 to 6 months of age should be taken into account in order to avoid toxicity from these excipients [see Warnings and Precautions (5.2) and Overdosage (10)].
 
 Table 1.
 Pediatric Dosage Guidelines
 
-| Body Surface Area (m2) | Twice Daily Dose 250 mg/m2 | Twice Daily Dose 300 mg/m2 | Twice Daily Dose 350 mg/m2 | Twice Daily Dose 400 mg/m2 |
+| Body Surface Area (m2) | Twice Daily Dose 250 mg per m2 | Twice Daily Dose 300 mg per m2 | Twice Daily Dose 350 mg per m2 | Twice Daily Dose 400 mg per m2 |
 | --- | --- | --- | --- | --- |
 | 0.20 | 0.6 mL (50 mg) | 0.75 mL (60 mg) | 0.9 mL (70 mg) | 1.0 mL (80 mg) |
 | 0.25 | 0.8 mL (62.5 mg) | 0.9 mL (75 mg) | 1.1 mL (87.5 mg) | 1.25 mL (100 mg) |

@@ -6,4 +6,4 @@ White film-coated ovaloid tablets debossed with the corporate Abbott "A" logo an
 
 - NORVIR Oral Solution
 
-Orange-colored liquid containing 600 mg ritonavir per 7.5 mL marked dosage cup (80 mg/mL).
+Orange-colored liquid containing 600 mg ritonavir per 7.5 mL marked dosage cup (80 mg per mL).

@@ -98,7 +98,7 @@ Especially tell your doctor if you take:
 - medicine for your heart such as disopyramide (Norpace), lidocaine (Xylocaine Viscous), mexiletine, digoxin (Lanoxin), nifedipine (Procardia, Adalat, Afeditab CR), diltiazem (Cardizem, Dilacor, Cartia, Diltzac, Dilt, Taztia, Tiazac) or verapamil (Calan, Covera, Isoptin, Tarka, Verelan)
 - medicines for panic disorder or anxiety such as buspirone, clorazepate, diazepam, estazolam, flurazepam, and zolpidem
 - medicine for cancer such as dasatinib (Sprycel), nilotinib (Tasigna) vincristine, or vinblastine
-- warfarin (Coumadin, Jantoven)
+- warfarin (Coumadin, Jantoven), rivaroxaban (Xarelto)
 - medicine for seizures such as carbamazepine (Carbatrol, Equetro, Tegretol, Epitol), clonazepam (Klonopin), ethosuximide (Zarontin, Ethosuximide), divalproex (Depakote, Divalproex Sodium), lamotrigine (Lamictal) or phenytoin (Dilantin, Phenytek)
 - medicine for depression such as nefazodone, bupropion (Wellbutrin, Aplenzin, Zyban), desipramine (Norpramin) or trazadone, fluoxetine (Prozac), paroxetine (Paxil), amitriptyline, or nortriptyline
 - medicine for nausea and vomiting such as dronabinol (Marinol) or perphenazine
@@ -109,10 +109,11 @@ Especially tell your doctor if you take:
 - medicine for lung disease such as theophylline and salmeterol (Serevent)
 - bosentan (Tracleer)
 - medicine to prevent organ transplant failure such as cyclosporine (Gengraf, Sandimmune, Neoral), tacrolimus (Prograf,) sirolimus (Rapamune)
-- steroids such as dexamethasone, fluticasone (Advair Diskus, Veramyst, Flovent, Flonase) or prednisone
+- steroids such as dexamethasone, fluticasone (Advair Diskus, Veramyst, Flovent, Flonase), budesonide (Entocort EC, Pulmicort, Rhinocort), or prednisone
 - a narcotic medicine such as methadone (Methadose, Dolophine Hydrochloride) or fentanyl (Abstral, Actiq, Fentora, Lazanda, Onsolis, Duragesic)
 - medicine to treat schizophrenia such as risperidone (Risperdal) or thioridazine
-- medicine to treat erectile dysfunction or pulmonary hypertension such as sildenafil (Viagra, Revatio), vardenafil (Levitra, Staxyn), tadalafil (Cialis, Adcirca)
+- medicine to treat erectile dysfunction or pulmonary hypertension such as avanafil (Stendra), sildenafil (Viagra, Revatio), vardenafil (Levitra, Staxyn), tadalafil (Cialis, Adcirca).
+  If you are taking avanafil (Stendra), your doctor may need to change it to a different medicine.
 - midazolam by injection
 - methamphetamine (Desoxyn)
 - cholesterol lowering medicine such as atorvastatin (Lipitor) or rosuvasatin (Crestor)
@@ -232,12 +233,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I Store NORVIR?
 
-- Store NORVIR oral solution at room temperature between 68°F to 77°F (20°C to 25°C).
-- Store NORVIR tablets at or below 30°C (86°F).
+- Store NORVIR Oral Solution at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store NORVIR tablets below 30°C (86°F).
   Exposure to temperatures up to 50°C (122°F) for seven days permitted.
-- Do not refrigerate NORVIR oral solution.
-- Shake NORVIR oral solution well before each use.
-- Keep NORVIR oral solution away from heat.
+- Do not refrigerate NORVIR Oral Solution.
+- Shake NORVIR Oral Solution well before each use.
+- Keep NORVIR Oral Solution away from heat.
 - Store NORVIR tablets and NORVIR oral solution in the original container given to you by the pharmacist.
 - Exposure of NORVIR tablets to high humidity outside the original container for longer than 2 weeks is not recommended.
 - Use NORVIR tablets and NORVIR Oral Solution by the expiration date on the bottle.
@@ -270,5 +271,4 @@ NORVIR tablets and oral solution are manufactured by: Abbott Laboratories North 
 * The brands listed are trademarks of their respective owners and are not trademarks of Abbott Laboratories.
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
-Rev.
-10/2012
+03-A680 November 2012
