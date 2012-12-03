@@ -196,7 +196,7 @@ Other side effects with montelukast sodium include:
 
 • nose bleed, stuffy nose
 
-• diarrhea, heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
+• heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 
 • hepatitis
 
@@ -259,4 +259,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1012
+Revised: 1112
