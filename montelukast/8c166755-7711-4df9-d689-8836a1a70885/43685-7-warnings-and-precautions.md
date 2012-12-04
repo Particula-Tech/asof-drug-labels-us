@@ -19,7 +19,7 @@ Although SINGULAIR is effective in improving airway function in asthmatics with 
 ## 5.4 Neuropsychiatric Events
 
 Neuropsychiatric events have been reported in adult, adolescent, and pediatric patients taking SINGULAIR.
-Post-marketing reports with SINGULAIR use include agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, dream abnormalities, hallucinations, insomnia, irritability, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor.
+Post-marketing reports with SINGULAIR use include agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, memory impairment, psychomotor hyperactivity (including irritability, restlessness, and tremor), somnambulism, suicidal thinking and behavior (including suicide).
 The clinical details of some post-marketing reports involving SINGULAIR appear consistent with a drug-induced effect.
 
 Patients and prescribers should be alert for neuropsychiatric events.

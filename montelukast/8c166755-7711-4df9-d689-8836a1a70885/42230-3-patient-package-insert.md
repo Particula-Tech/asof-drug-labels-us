@@ -124,7 +124,7 @@ SINGULAIR may cause serious side effects.
 - Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking SINGULAIR:
 
-| agitation including aggressive behavior or hostilitybad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilityrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
+| agitation including aggressive behavior or hostilitybad or vivid dreamsdepressiondisorientation (confusion)disturbance in attentionfeeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory impairmentrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
 | --- | --- |
 
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
@@ -188,7 +188,7 @@ Keep SINGULAIR and all medicines out of the reach of children.
 This leaflet summarizes information about SINGULAIR.
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about SINGULAIR that is written for health professionals.
-For more information, go to www.singulair.com or call the Merck National Service Center at 1-800-NSC-Merck (1-800-672-6372).
+For more information, call the Merck National Service Center at 1-800-NSC-Merck (1-800-672-6372).
 
 What are the ingredients in SINGULAIR?
 
