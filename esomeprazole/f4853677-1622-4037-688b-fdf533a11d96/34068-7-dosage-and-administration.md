@@ -16,13 +16,13 @@ Table 1: Recommended Dosage Schedule of NEXIUM
 | Maintenance of Healing of Erosive Esophagitis | 20 mg | Once DailyControlled studies did not extend beyond six months. |
 | Symptomatic Gastroesophageal Reflux Disease | 20 mg | Once Daily for 4 WeeksIf symptoms do not resolve completely after 4 weeks, an additional 4 weeks of treatment may be considered. |
 | Pediatric GERD12 to 17 Year Olds |  |  |
-| Short-term Treatment of GERD | 20 mg or 40 mg | Once Daily for up to 8 Weeks |
+| Healing of Erosive EsophagitisSymptomatic GERD | 20 mg or 40 mg20 mg | Once Daily for 4 to 8 WeeksOnce Daily for 4 Weeks |
 | 1 to 11 Year OldsDoses over 1 mg/kg/day have not been studied. |  |  |
 | Short-term Treatment of Symptomatic GERD | 10 mg | Once Daily for up to 8 Weeks |
 | Healing of Erosive Esophagitis |  |  |
 | weight < 20 kg | 10 mg | Once Daily for 8 Weeks |
 | weight ≥ 20 kg | 10 mg or 20 mg | Once Daily for 8 Weeks |
-| 1 month to < 1 year oldDoses over 1.33 mg/kg/day have not been studied. |  |  |
+| 1 month to < 1 year old |  |  |
 | Erosive esophagitis due to acid-mediated GERD |  |  |
 | weight 3 kg to 5 kg | 2.5 mg | Once Daily for up to 6 Weeks |
 | weight > 5 kg to 7.5 kg | 5 mg | Once Daily for up to 6 Weeks |

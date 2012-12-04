@@ -28,4 +28,4 @@ NEXIUM and the color purple as applied to the capsule are registered trademarks 
 ©AstraZeneca 2012
 
 Rev.
-10/2012
+11/2012

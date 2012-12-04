@@ -29,7 +29,8 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 ## 7.2 Drugs for Which Gastric pH Can Affect Bioavailability
 
 Esomeprazole inhibits gastric acid secretion.
-Therefore, esomeprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, atazanavir, iron salts, and digoxin).
+Therefore, esomeprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, and erlotinib can decrease, while the absorption of drugs such as digoxin can increase during treatment with esomeprazole.
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
 Esomeprazole is an enantiomer of omeprazole.
 Coadministration of digoxin with esomeprazole is expected to increase the systemic exposure of digoxin.

@@ -255,7 +255,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Issued October 2012
+Issued November 2012
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 
