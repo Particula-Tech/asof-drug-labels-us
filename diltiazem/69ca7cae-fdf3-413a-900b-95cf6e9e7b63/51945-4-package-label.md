@@ -12,10 +12,6 @@ Tablets USP
 
 30 mg
 
-Each tablet contains:
-
-diltiazem hydrochloride, USP 30 mg
-
 Rx only
 
 100 TABLETS
@@ -35,10 +31,6 @@ HYDROCHLORIDE
 Tablets USP
 
 60 mg
-
-Each tablet contains:
-
-diltiazem hydrochloride, USP 60 mg
 
 Rx only
 
@@ -60,10 +52,6 @@ Tablets USP
 
 90 mg
 
-Each tablet contains:
-
-diltiazem hydrochloride, USP 90 mg
-
 Rx only
 
 100 TABLETS
@@ -83,10 +71,6 @@ HYDROCHLORIDE
 Tablets USP
 
 120 mg
-
-Each tablet contains:
-
-diltiazem hydrochloride, USP 120 mg
 
 Rx only
 

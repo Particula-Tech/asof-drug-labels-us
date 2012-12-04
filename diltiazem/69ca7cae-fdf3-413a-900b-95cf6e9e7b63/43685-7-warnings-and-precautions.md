@@ -1,17 +1,21 @@
 # WARNINGS
 
-1.Cardiac Conduction: Diltiazem prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome.
+1.Cardiac Conduction.
+Diltiazem prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome.
 This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second- or third-degree AV block (six of 1243 patients for 0.48%).
 Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction.
 A patient with Prinzmetal's angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem (see ADVERSE REACTIONS).
 
-2.Congestive Heart Failure: Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dp/dt).
+2.Congestive Heart Failure.
+Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dp/dt).
 Experience with the use of diltiazem alone or in combination with beta-blockers in patients with impaired ventricular function is very limited.
 Caution should be exercised when using the drug in such patients.
 
-3.Hypotension: Decreases in blood pressure associated with diltiazem therapy may occasionally result in symptomatic hypotension.
+3.Hypotension.
+Decreases in blood pressure associated with diltiazem therapy may occasionally result in symptomatic hypotension.
 
-4.Acute Hepatic Injury: In rare instances, significant elevations in enzymes such as alkaline phosphatase, LDH, SGOT, SGPT, and other phenomena consistent with acute hepatic injury have been noted.
+4.Acute Hepatic Injury.
+In rare instances, significant elevations in enzymes such as alkaline phosphatase, LDH, SGOT, SGPT, and other phenomena consistent with acute hepatic injury have been noted.
 These reactions have been reversible upon discontinuation of drug therapy.
 The relationship to diltiazem is uncertain in most cases, but probable in some (see PRECAUTIONS).
 
@@ -133,7 +137,7 @@ No intrinsic effect on fertility was observed in rats.
 
 ### Teratogenic Effects
 
-#### Pregnancy category C
+#### Pregnancy Category C
 
 Reproduction studies have been conducted in mice, rats, and rabbits.
 Administration of doses ranging from five to ten times greater (on a mg/kg basis) than the daily recommended therapeutic dose has resulted in embryo and fetal lethality.

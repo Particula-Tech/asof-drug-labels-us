@@ -6,9 +6,11 @@ The therapeutic benefits achieved with diltiazem are believed to be related to i
 
 Although precise mechanisms of its antianginal actions are still being delineated, diltiazem is believed to act in the following ways:
 
-1. Angina Due to Coronary Artery Spasm: Diltiazem has been shown to be a potent dilator of coronary arteries both epicardial and subendocardial.
+1. Angina Due to Coronary Artery Spasm.
+   Diltiazem has been shown to be a potent dilator of coronary arteries both epicardial and subendocardial.
    Spontaneous and ergonovine-induced coronary artery spasm are inhibited by diltiazem.
-2. Exertional Angina: Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+2. Exertional Angina.
+   Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
    This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal exercise workloads.
 
 In animal models, diltiazem interferes with the slow inward (depolarizing) current in excitable tissue.
@@ -28,11 +30,11 @@ There are as yet few data on the interaction of diltiazem and beta-blockers.
 Resting heart rate is usually unchanged or slightly reduced by diltiazem.
 
 Intravenous diltiazem in doses of 20 mg prolongs AH conduction time and AV node functional and effective refractory periods approximately 20%.
-In a study involving single oral doses of 300 mg of diltiazem hydrochloride in six normal volunteers, the average maximum PR prolongation was 14% with no instances of greater than first-degree AV block.
+In a study involving single oral doses of 300 mg of diltiazem in six normal volunteers, the average maximum PR prolongation was 14% with no instances of greater than first-degree AV block.
 Diltiazem-associated prolongation of the AH interval is not more pronounced in patients with first-degree heart block.
 In patients with sick sinus syndrome, diltiazem significantly prolongs sinus cycle length (up to 50% in some cases).
 
-Chronic oral administration of diltiazem hydrochloride in doses of up to 240 mg/day has resulted in small increases in PR interval but has not usually produced abnormal prolongation.
+Chronic oral administration of diltiazem in doses of up to 240 mg/day has resulted in small increases in PR interval but has not usually produced abnormal prolongation.
 
 ## Pharmacokinetics and Metabolism
 
