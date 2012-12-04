@@ -3,13 +3,9 @@ PACKAGE LABEL - PRINCIPAL DISPLAY PANEL – 20 MG SACHET
 TO OPEN: LOCATE TEAR SLIT.
 FOLD CORNER OF PACKET OVER TEAR SLIT, TEAR AT SLIT OR OPEN WITH SCISSORS.
 
-Rx only
+Rx only NDC 68012-052-01
 
-NDC 68012-052-01
-
-ZEGERID®
-
-(omeprazole/sodium bicarbonate)
+ZEGERID® omeprazole/sodium bicarbonate
 
 Powder for Oral Suspension
 
@@ -20,11 +16,11 @@ Santarus, Inc.®
 For more information, call 1-888-778-0887.
 See back panel for directions for use.
 
-Zegerid Capsules PACKAGE LABEL – PRINCIPAL DISPLAY
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 20 mg
 
 NDC 68012-102-30
 
-ZEGERID®
+Zegerid®
 
 omeprazole/sodium bicarbonate
 
@@ -34,11 +30,11 @@ Capsules
 
 Rx Only
 
-20mg/1100mg
+20 mg/1100 mg
 
-Zegerid POS PACKAGE LABEL – PRINCIPAL DISPLAY
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 20 mg
 
-ZEGERID®
+Zegerid®
 
 NDC 68012-052-30
 
@@ -46,23 +42,21 @@ Contains 30 single
 
 20-mg dose packets
 
-omepraxole/sodium bicarbonate
+omeprazole/sodium bicarbonate
 
 Rx Only
 
 Powder for Oral Suspension
 
-Dispense with medication guide
+Dispense with enclosed medication guide
 
-20mg/1680mg
+20 mg/1680 mg
 
-Place prescription label here.
-
-Zegerid Capsules PACKAGE LABEL – PRINCIPAL DISPLAY
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 40 mg
 
 NDC 68012-104-30
 
-ZEGERID®
+Zegerid ®
 
 omeprazole/sodium bicarbonate
 
@@ -72,7 +66,7 @@ Capsules
 
 Rx Only
 
-40mg/1100mg
+40 mg/1100 mg
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL – 40 MG SACHET
 
@@ -96,9 +90,9 @@ Santarus, Inc.®
 For more information, call 1-888-778-0887.
 See back panel for directions for use.
 
-Zegerid POS PACKAGE LABEL – PRINCIPAL DISPLAY
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 40 mg
 
-ZEGERID®
+Zegerid®
 
 NDC 68012-054-30
 
@@ -112,8 +106,6 @@ Rx Only
 
 Powder for Oral Suspension
 
-Dispense with medication guide
+Dispense with enclosed medication guide
 
-40mg/1680mg
-
-Place prescription label here.
+40 mg/1680 mg
