@@ -2,28 +2,27 @@
 
 ## 2.1 General Instructions for Use
 
-Vyvanse should be taken in the morning with or without food.
-Afternoon doses should be avoided because of the potential for insomnia.
+Take Vyvanse in the morning with or without food; avoid afternoon doses because of the potential for insomnia.
+Vyvanse may be administered in one of the following ways:
 
-Vyvanse capsules may be taken whole, or the capsule may be opened and the entire contents dissolved in a glass of water.
-The solution should be consumed immediately and should not be stored.
-The dose of a single capsule should not be divided.
-The contents of the entire capsule should be taken, and patients should not take anything less than one capsule per day.
+- Take Vyvanse capsules whole, or
+- Open capsules and empty and mix the entire contents in a glass of water.
+  If the contents include any compacted powder, a spoon may be used to break apart the powder in the water.
+  The content should be stirred until completely dispersed.
+  Consume the full glass of water immediately.
+  It should not be stored.
+  The active ingredient dissolves completely once dispersed; however, a film containing the inactive ingredients may remain in the glass once the water is consumed.
+  Do not take anything less than one capsule per day, and a single capsule should not be divided.
 
-## 2.2 Initiation Treatment
+## 2.2 Dosing Information
 
 The recommended starting dose is 30 mg once daily in the morning in patients ages 6 and above.
-Dosage may be adjusted in increments of 10 mg or 20 mg at approximately weekly intervals up to maximum dose of 70 mg/day; Doses greater than 70 mg/day have not been studied.
+Dosage may be adjusted in increments of 10 mg or 20 mg at approximately weekly intervals up to maximum dose of 70 mg/day.
+Patients may be maintained on their optimal dose [see Clinical Studies (14)].
 
-Dosage should be individualized according to the therapeutic needs and response of the patient.
-Vyvanse should be administered at the lowest effective dosage.
-The least amount of Vyvanse feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
+## 2.3 Important Information Prior to Dosing
 
-## 2.3 Maintenance/Extended Treatment
+Prior to treating children, adolescents, and adults with CNS stimulants, assess for the presence of cardiac disease (e.g., a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
 
-It is generally agreed that pharmacological treatment of ADHD may be needed for extended periods.
-The benefit of maintaining adult patients (ages 18-55 years) with ADHD on Vyvanse was demonstrated in a controlled randomized withdrawal trial [see Clinical Studies (14)].
-Subjects assigned to Vyvanse in the randomized withdrawal phase continued on the same dose used to confirm response in the open-label phase.
-
-The physician who elects to use Vyvanse for extended periods should periodically re-evaluate the long-term usefulness of Vyvanse for the individual patient.
-Where possible, drug administration should be interrupted occasionally to determine if there is a recurrence of behavioral symptoms sufficient to require continued treatment.
+To reduce the abuse of CNS stimulants including Vyvanse, assess the risk of abuse, prior to prescribing.
+After prescribing, keep careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and re-evaluate the need for Vyvanse use [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)].

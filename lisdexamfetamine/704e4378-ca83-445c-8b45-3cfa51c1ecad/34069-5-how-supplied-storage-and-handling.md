@@ -14,6 +14,13 @@ Vyvanse capsules 60 mg: aqua blue body/aqua blue cap (imprinted with S489 and 60
 
 Vyvanse capsules 70 mg: blue body/orange cap (imprinted with S489 and 70 mg), bottles of 100, NDC 59417-107-10
 
+## 16.2 Storage and Handling
+
 Dispense in a tight, light-resistant container as defined in the USP.
 
 Store at 25º C (77º F). Excursions permitted to 15-30º C (59-86º F) [see USP Controlled Room Temperature]
+
+Disposal
+
+Comply with local laws and regulations on drug disposal of CNS stimulants.
+Dispose of remaining, unused, or expired Vyvanse by a medicine take-back program.

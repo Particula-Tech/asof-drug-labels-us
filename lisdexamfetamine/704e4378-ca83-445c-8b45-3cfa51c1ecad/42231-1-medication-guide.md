@@ -10,6 +10,12 @@ This Medication Guide does not take the place of talking to your doctor about yo
 
 What is the most important information I should know about Vyvanse?
 
+Vyvanse is a federally controlled substance (CII) because it can be abused or lead to dependence.
+Keep Vyvanse in a safe place to prevent misuse and abuse.
+Selling or giving away Vyvanse may harm others, and is against the law.
+
+Tell your doctor if you or your child has ever abused or been dependent on alcohol, prescription medicines or street drugs.
+
 Vyvanse is a stimulant medicine.
 Some people have had the following problems when taking stimulant medicines such as Vyvanse:
 
@@ -17,7 +23,7 @@ Some people have had the following problems when taking stimulant medicines such
 Heart-related problems including:
 
 - sudden death in people who have heart problems or heart defects
-- stroke and heart attack in adults
+- sudden death, stroke and heart attack in adults
 - increased blood pressure and heart rate
 
 Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems.
@@ -29,13 +35,10 @@ Your doctor should check your or your child’s blood pressure and heart rate re
 Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Vyvanse.
 
 2.
-Mental (psychiatric) problems including:
-
-In Children, Teenagers, and Adults:
+Mental (psychiatric) problems including: In Children, Teenagers, and Adults:
 
 - new or worse behavior and thought problems
 - new or worse bipolar illness
-- new or worse aggressive behavior or hostility
 
 In Children and Teenagers
 
@@ -59,14 +62,6 @@ Vyvanse is a central nervous system stimulant prescription medicine.
 Vyvanse is used for the treatment of Attention-Deficit/Hyperactivity Disorder (ADHD).
 Vyvanse may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
 
-Vyvanse should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
-
-Vyvanse is a federally controlled substance (CII) because it can be abused or lead to dependence.
-Keep Vyvanse in a safe place to prevent misuse and abuse.
-Selling or giving away Vyvanse may harm others, and is against the law.
-
-Tell your doctor if you or your child has ever abused or been dependent on alcohol, prescription medicines or street drugs.
-
 It is not known if Vyvanse is safe and effective in children under 6 years of age.
 
 Who should not take Vyvanse?
@@ -82,8 +77,6 @@ Before you or your child takes Vyvanse, tell your doctor if you or your child ha
 
 - heart problems, heart defects, high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
-- tics or Tourette’s syndrome
-- seizures or have had an abnormal brain wave test (EEG)
 
 Tell your doctor if:
 
@@ -98,14 +91,7 @@ Tell your doctor about all of the medicines that you or your child takes, includ
 Vyvanse can affect the way other medicines work, and other medicines may affect how Vyvanse works.
 Using Vyvanse with other medicines can cause serious side effects.
 
-Especially tell your doctor if you or your child takes:
-
-- anti-depression medicines including MAOIs
-- anti-psychotic medicines
-- lithium
-- blood pressure medicines
-- seizure medicines
-- narcotic pain medicines
+Especially tell your doctor if you or your child takes anti-depression medicines including MAOIs.
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
@@ -118,11 +104,16 @@ How should I take Vyvanse?
 
 - Take Vyvanse exactly as your doctor tells you to take it.
 - Your doctor may change your dose until it is right for you or your child.
-- Take Vyvanse once a day in the morning.
+- Take Vyvanse 1 time each day in the morning.
 - Vyvanse can be taken with or without food.
-- Vyvanse capsules may be taken whole or opened and the powder may be mixed in a glass of water.
-  Use all of the powder from the capsule so you get all of the medicine.
-  Drink the entire glass of water right away after mixing.
+- Vyvanse capsules may be swallowed whole.
+- If you have trouble swallowing capsules, you may open your Vyvanse capsule and pour the powder into a glass of water.
+  - Use all of the powder from the capsule so you get all of the medicine.
+  - Using a spoon, break apart any powder that is stuck together.
+    Stir the powder and water until they are completely mixed together.
+  - Drink the entire glass of water right away after mixing.
+    Do not store.
+    It is normal to see a filmy coating on the inside of your glass after you drink all the medicine.
 - Your doctor may sometimes stop Vyvanse treatment for a while to check your ADHD symptoms.
 - Your doctor may do regular checks of your blood, heart, and blood pressure while taking Vyvanse.
 - Children should have their height and weight checked often while taking Vyvanse.
@@ -139,24 +130,16 @@ Vyvanse may cause serious side effects, including:
 
 - See “What is the most important information I should know about Vyvanse?”.
 - slowing of growth (height and weight) in children
-- seizures, mainly in people with a history of seizures
-- eyesight changes or blurred vision
-- worsening of sudden, repeated movements or sounds (tics) and Tourette’s syndrome in people who already have these problems
 
 The most common side effects of Vyvanse include:
 
-- anxiety
-- decreased appetite
-- diarrhea
-- dizziness
-- dry mouth
-- irritability
-- loss of appetite
-- nausea
-- trouble sleeping
-- upper stomach pain
-- vomiting
-- weight loss
+| o anxiety | o loss of appetite |
+| --- | --- |
+| o decreased appetite | o nausea |
+| o diarrhea | o trouble sleeping |
+| o dizziness | o upper stomach pain |
+| o dry mouth | o vomiting |
+| o irritability | o weight loss |
 
 Talk to your doctor if you or your child has any side effects that are bothersome or do not go away.
 
@@ -170,6 +153,9 @@ How should I store Vyvanse?
 
 - Store Vyvanse at room temperature between 59°F to 86°F.
 - Protect Vyvanse from light.
+- Store Vyvanse in a safe place, like a locked cabinet.
+- Do not throw away unused Vyvanse in your household trash as it may harm other people or animals.
+  Ask your doctor or pharmacist about a medicine take-back program in your community.
 
 Keep Vyvanse and all medicines out of the reach of children.
 
@@ -200,4 +186,4 @@ Manufactured for: Shire US Inc., Wayne, PA 19087.
 
 © 2012 Shire US Inc.
 
-Revised January 2012
+Revised November 2012

@@ -3,21 +3,19 @@
 ## 12.1 Mechanism of Action
 
 Lisdexamfetamine is a prodrug of dextroamphetamine.
-After oral administration, lisdexamfetamine is rapidly absorbed from the gastrointestinal tract and converted primarily in blood due to the hydrolytic activity of red blood cells to dextroamphetamine, which is responsible for the drug's activity.
 Amphetamines are non-catecholamine sympathomimetic amines with CNS stimulant activity.
-The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known.
 Amphetamines block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 The parent drug, lisdexamfetamine, does not bind to the sites responsible for the reuptake of norepinephrine and dopamine in vitro.
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetic studies of dextroamphetamine after oral administration of lisdexamfetamine have been conducted in pediatric patients ages 6 to 12 years with ADHD and in healthy adult volunteers.
+Pharmacokinetic studies of dextroamphetamine after oral administration of lisdexamfetamine have been conducted in patients ages 6 to 12 years with ADHD and in healthy adult volunteers.
 
-In 18 pediatric patients (ages 6 to 12 years) with ADHD, the Tmax of dextroamphetamine was approximately 3.5 hours following single-dose oral administration of lisdexamfetamine dimesylate either 30 mg, 50 mg, or 70 mg after an 8-hour overnight fast.
+In 18 patients ages 6 to 12 years with ADHD, the Tmax of dextroamphetamine was approximately 3.5 hours following single-dose oral administration of lisdexamfetamine dimesylate either 30 mg, 50 mg, or 70 mg after an 8-hour overnight fast.
 The Tmax of lisdexamfetamine was approximately 1 hour.
 Linear pharmacokinetics of dextroamphetamine after single-dose oral administration of lisdexamfetamine dimesylate was established over the dose range of 30 mg to 70 mg in children ages 6 to 12 years.
 
-There is no unexpected accumulation of dextroamphetamine AUC at steady state in healthy adults and no accumulation of lisdexamfetamine after once-daily dosing for 7 consecutive days.
+There is no accumulation of dextroamphetamine AUC at steady state in healthy adults and no accumulation of lisdexamfetamine after once-daily dosing for 7 consecutive days.
 
 Food does not affect the observed AUC and Cmax of dextroamphetamine in healthy adults after single-dose oral administration of 70 mg of Vyvanse capsules but prolongs Tmax by approximately 1 hour (from 3.8 hrs at fasted state to 4.7 hrs after a high fat meal).
 After an 8-hour fast, the AUCs for dextroamphetamine following oral administration of lisdexamfetamine dimesylate in solution and as intact capsules were equivalent.
@@ -45,6 +43,9 @@ Extended release guanfacine: In a drug interaction study (N=40), administration 
 These small changes are not expected to be clinically meaningful.
 In this study, no effect on d-amphetamine exposure was observed following co-administration of extended release guanfacine and Vyvanse.
 
+A steady-state drug interaction study with venlafaxine 225 mg and 70 mg of lisdexamfetamine resulted in a 5% decrease in d-amphetamine AUC0-tau and maximum plasma concentration values.
+Venlafaxine AUC0-tau and Cmax increased 13% and 10% in the study.
+
 Special Populations
 
 Age
@@ -52,6 +53,9 @@ Age
 The pharmacokinetics of dextroamphetamine is similar in children (ages 6 to 12 years) and adolescent (ages 13 to 17 years) ADHD patients, and healthy adult volunteers.
 Any differences in kinetics seen after oral administration are a result of differences in mg/kg dosing.
 
+Dextroamphetamine clearance decreases in adults ages 65-75 (26% in women and 10% in men).
+
 Gender
 
 Systemic exposure to dextroamphetamine is similar for men and women given the same mg/kg dose.
+In adults ages 55-64, d-amphetamine Cmax and AUC were 15% and 13% higher, respectively, in females compared to males.

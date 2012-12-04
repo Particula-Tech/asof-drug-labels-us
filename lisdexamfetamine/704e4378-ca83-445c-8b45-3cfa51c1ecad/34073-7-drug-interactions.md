@@ -1,96 +1,13 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Agents that Lower Blood Levels of Amphetamines
+## 7.1 Agents and Conditions that Alter Urinary pH and Impact the Urinary Excretion and Half-life of Amphetamine
 
-Urinary Acidifying Agents
+Ascorbic acid and other agents and conditions that acidify urine increase urinary excretion and decrease the half-life of amphetamine.
+Sodium bicarbonate and other agents and conditions that alkalinize urine decrease urinary excretion and extend the half-life of amphetamine.
+Adjust the dose accordingly.
 
-These agents (ammonium chloride, sodium acid phosphate, etc.) increase the concentration of the ionized species of the amphetamine molecule, thereby increasing urinary excretion.
+## 7.2 Monoamine Oxidase Inhibitors
 
-Methenamine Therapy
-
-Urinary excretion of amphetamines is increased, and efficacy is reduced, by acidifying agents used in methenamine therapy.
-
-## 7.2 Agents that Increase Blood Levels of Amphetamines
-
-Urinary Alkalinizing Agents
-
-These agents (acetazolamide, some thiazides) increase the concentration of the non-ionized species of the amphetamine molecule, thereby decreasing urinary excretion.
-
-## 7.3 Monoamine Oxidase Inhibitors
-
-Dextroamphetamine is known to inhibit monoamine oxidase.
-
-MAOI antidepressants, as well as a metabolite of furazolidone, slow amphetamine metabolism.
-This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
-A variety of toxic neurological effects and malignant hyperpyrexia can occur, sometimes with fatal results.
-Do not administer Vyvanse during or within 14 days following the administration of monoamine oxidase inhibitors [see Contraindications (4)].
-
-## 7.4 Agents Whose Effects May be Reduced by Amphetamines
-
-Adrenergic Blockers
-
-Adrenergic blockers are inhibited by amphetamines.
-
-Antihistamines
-
-Amphetamines may counteract the sedative effect of antihistamines.
-
-Antihypertensives
-
-Amphetamines may antagonize the hypotensive effects of antihypertensives.
-
-Veratrum Alkaloids
-
-Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
-
-Ethosuximide
-
-Amphetamines may delay intestinal absorption of ethosuximide.
-
-## 7.5 Agents Whose Effects May be Potentiated by Amphetamines
-
-Antidepressants, Tricyclic
-
-Amphetamines may enhance the activity of tricyclic antidepressants or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
-
-Meperidine
-
-Amphetamines potentiate the analgesic effect of meperidine.
-
-Norepinephrine
-
-Amphetamines enhance the adrenergic effect of norepinephrine.
-
-Phenobarbital
-
-Amphetamines may delay intestinal absorption of phenobarbital; co-administration of phenobarbital may produce a synergistic anticonvulsant action.
-
-Phenytoin
-
-Amphetamines may delay intestinal absorption of phenytoin; co-administration of phenytoin may produce a synergistic anticonvulsant action.
-
-## 7.6 Agents that May Reduce the Effects of Amphetamines
-
-Chlorpromazine
-
-Chlorpromazine blocks dopamine and norepinephrine receptors, thus inhibiting the central stimulant effects of amphetamines, and can be used to treat amphetamine poisoning.
-
-Haloperidol
-
-Haloperidol blocks dopamine receptors, thus inhibiting the central stimulant effects of amphetamines.
-
-Lithium Carbonate
-
-The anorectic and stimulatory effects of amphetamines may be inhibited by lithium carbonate.
-
-## 7.7 Agents that May Potentiate the Effects of Amphetamines
-
-Propoxyphene Overdosage
-
-In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
-
-## 7.8 Drug/Laboratory Test Interactions
-
-Amphetamines can cause a significant elevation in plasma corticosteroid levels.
-This increase is greatest in the evening.
-Amphetamine may interfere with urinary steroid determinations.
+Do not administer Vyvanse concomitantly with monoamine oxidase inhibitors or within 14 days after discontinuing MAOI treatment.
+Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis.
+Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure [see Contraindications (4)].
