@@ -9,24 +9,24 @@ In the comparative study in small cell lung cancer, however, the treatment-relat
 
 ### Neutropenia:
 
-- Ovarian and small cell lung cancer experience: Grade 4 neutropenia (<500 cells/mm3) was most common during course 1 of treatment (60% of patients) and occurred in 39% of all courses, with a median duration of 7 days.
+- •Ovarian and small cell lung cancer experience: Grade 4 neutropenia (<500 cells/mm3) was most common during course 1 of treatment (60% of patients) and occurred in 39% of all courses, with a median duration of 7 days.
   The nadir neutrophil count occurred at a median of 12 days.
   Therapy-related sepsis or febrile neutropenia occurred in 23% of patients, and sepsis was fatal in 1%.
   Pancytopenia has been reported.
-- Cervical cancer experience: Grade 3 and grade 4 neutropenia affected 26% and 48% of patients, respectively.
+- •Cervical cancer experience: Grade 3 and grade 4 neutropenia affected 26% and 48% of patients, respectively.
 
 ### Thrombocytopenia:
 
-- Ovarian and small cell lung cancer experience: Grade 4 thrombocytopenia (<25,000/mm3) occurred in 27% of patients and in 9% of courses, with a median duration of 5 days and platelet nadir at a median of 15 days.
+- •Ovarian and small cell lung cancer experience: Grade 4 thrombocytopenia (<25,000/mm3) occurred in 27% of patients and in 9% of courses, with a median duration of 5 days and platelet nadir at a median of 15 days.
   Platelet transfusions were given to 15% of patients in 4% of courses.
-- Cervical cancer experience: Grade 3 and grade 4 thrombocytopenia affected 26% and 7% of patients, respectively.
+- •Cervical cancer experience: Grade 3 and grade 4 thrombocytopenia affected 26% and 7% of patients, respectively.
 
 ### Anemia:
 
-- Ovarian and small cell lung cancer experience: Grade 3/4 anemia (<8 g/dL) occurred in 37% of patients and in 14% of courses.
+- •Ovarian and small cell lung cancer experience: Grade 3/4 anemia (<8 g/dL) occurred in 37% of patients and in 14% of courses.
   Median nadir was at day 15.
   Transfusions were needed in 52% of patients in 22% of courses.
-- Cervical cancer experience: Grade 3 and grade 4 anemia affected 34% and 6% of patients, respectively.
+- •Cervical cancer experience: Grade 3 and grade 4 anemia affected 34% and 6% of patients, respectively.
 
 ### Monitoring of Bone Marrow Function:
 
