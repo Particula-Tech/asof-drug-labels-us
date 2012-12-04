@@ -83,7 +83,7 @@ Bupropion is associated with a dose-related risk of seizures.
 The risk of seizures is also related to patient factors, clinical situations, and concomitant medications, which must be considered in selection of patients for therapy with WELLBUTRIN SR.
 WELLBUTRIN SR should be discontinued and not restarted in patients who experience a seizure while on treatment.
 
-- Dose: At doses of WELLBUTRIN SR up to a dose of 300 mg/day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg/day.
+- •Dose: At doses of WELLBUTRIN SR up to a dose of 300 mg/day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg/day.
 
 Data for the immediate-release formulation of bupropion revealed a seizure incidence of approximately 0.4% (i.e., 13 of 3,200 patients followed prospectively) in patients treated at doses in a range of 300 to 450 mg/day.
 The 450-mg/day upper limit of this dose range is close to the currently recommended maximum dose of 400 mg/day for WELLBUTRIN SR.
@@ -97,16 +97,16 @@ Data for WELLBUTRIN SR revealed a seizure incidence of approximately 0.1% (i.e.,
 It is not possible to know if the lower seizure incidence observed in this study involving the sustained-release formulation of bupropion resulted from the different formulation or the lower dose used.
 However, as noted above, theimmediate-release and sustained-release formulations are bioequivalent with regard to both rate and extent of absorption during steady state (the most pertinent condition to estimating seizure incidence), since most observed seizures occur under steady-state conditions.
 
-- Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
-- Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
-- Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
+- •Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
+- •Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
+- •Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
 
 Recommendations for Reducing the Risk of Seizure:Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
 
-- the total daily dose of WELLBUTRIN SR does not exceed 400 mg,
-- the daily dose is administered twice daily, and
-- the rate of incrementation of dose is gradual.
-- No single dose should exceed 200 mg to avoid high peak concentrations of bupropion and/or its metabolites.
+- •the total daily dose of WELLBUTRIN SR does not exceed 400 mg,
+- •the daily dose is administered twice daily, and
+- •the rate of incrementation of dose is gradual.
+- •No single dose should exceed 200 mg to avoid high peak concentrations of bupropion and/or its metabolites.
 
 WELLBUTRIN SR should be administered with extreme caution to patients with a history of seizure, cranial trauma, or other predisposition(s) toward seizure, or patients treated with other agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold.
 
