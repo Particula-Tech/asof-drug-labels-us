@@ -23,7 +23,7 @@ Depression, rarely including suicidal ideation, has been reported in smokers und
 However, some of these symptoms have occurred in patients taking bupropion who continued to smoke.
 
 All patients being treated with bupropion for smoking cessation treatment should be observed for neuropsychiatric symptoms including changes in behavior, hostility, agitation, depressed mood, and suicide-related events, including ideation, behavior, and attempted suicide.
-These symptoms, as well as worsening of pre-existing psychiatric illness and completed suicide have been reported in some patients attempting to quit smoking while taking ZYBAN® in the postmarketing experience.
+These symptoms, as well as worsening of preexisting psychiatric illness and completed suicide have been reported in some patients attempting to quit smoking while taking ZYBAN® in the postmarketing experience.
 When symptoms were reported, most were during treatment with ZYBAN®, but some were following discontinuation of treatment with ZYBAN®.
 These events have occurred in patients with and without pre-existing psychiatric disease; some have experienced worsening of their psychiatric illnesses.
 Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the premarketing studies of ZYBAN®.

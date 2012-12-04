@@ -20,16 +20,16 @@ Talk to your, or your family member's, healthcare provider about:
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- 2Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- 3How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is started or when the dose is changed.
-  - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - Keep all follow-up visits with the healthcare provider as scheduled.
-    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+2. 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+     This is very important when an antidepressant medicine is started or when the dose is changed.
+   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   - Keep all follow-up visits with the healthcare provider as scheduled.
+     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -77,16 +77,17 @@ You should also tell your doctor about any symptoms you had during other times y
 
 What Other Important Information Should I Know About Bupropion Hydrochloride Extended-Release Tablets (SR)?
 
-- Seizures: There is a chance of having a seizure (convulsion, fit) with Bupropion Hydrochloride Extended-Release Tablets (SR), especially in people:
+- Seizures: There is a chance of having a seizure (convulsion, fit) with bupropion hydrochloride extended-release tablets (SR), especially in people:
   - with certain medical problems.
   - who take certain medicines.
 
-- The chance of having seizures increases with higher doses of bupropion hydrochloride extended-release tablets (SR).
-  For more information, see the sections "Who should not take bupropion hydrochloride extended-release tablets (SR)?" and "What should I tell my doctor before using bupropion hydrochloride extended-release tablets (SR)?"
-  Tell your doctor about all of your medical conditions and all the medicines you take.
-  Do not take any other medicines while you are using bupropion hydrochloride extended-release tablets (SR) unless your doctor has said it is okay to take them.
-- If you have a seizure while taking bupropion hydrochloride extended-release tablets (SR), stop taking the tablets and call your doctor right away.
-  Do not take bupropion hydrochloride extended-release tablets (SR) again if you have a seizure.
+The chance of having seizures increases with higher doses of bupropion hydrochloride extended-release tablets (SR).
+For more information, see the sections "Who should not take bupropion hydrochloride extended-release tablets (SR)?" and "What should I tell my doctor before using bupropion hydrochloride extended-release tablets (SR)?"
+Tell your doctor about all of your medical conditions and all the medicines you take.
+Do not take any other medicines while you are using bupropion hydrochloride extended-release tablets (SR) unless your doctor has said it is okay to take them.
+
+If you have a seizure while taking bupropion hydrochloride extended-release tablets (SR), stop taking the tablets and call your doctor right away.
+Do not take bupropion hydrochloride extended-release tablets (SR) again if you have a seizure.
 
 - High blood pressure (hypertension).
   Some people get high blood pressure, that can be severe, while taking bupropion hydrochloride extended-release tablets (SR).
@@ -111,7 +112,9 @@ Do not take bupropion hydrochloride extended-release tablets (SR) if you
 - are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN® Tablets or WELLBUTRIN XL® [bupropion hydrochloride extended-release tablets (XL)].
   Bupropion is the same active ingredient that is in bupropion hydrochloride extended-release tablets (SR).
 - drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN® (isocarboxazid). have or had an eating disorder such as anorexia nervosa or bulimia. are allergic to the active ingredient in bupropion hydrochloride extended-release tablets (SR), bupropion, or to any of the inactive ingredients.
+- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
+- have or had an eating disorder such as anorexia nervosa or bulimia.
+- are allergic to the active ingredient in bupropion hydrochloride extended-release tablets (SR), bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in bupropion hydrochloride extended-release tablets (SR).
 
 What should I tell my doctor before using bupropion hydrochloride extended-release tablets (SR)?
@@ -145,7 +148,7 @@ How should I take bupropion hydrochloride extended-release tablets (SR)?
   If you do, the medicine will be released into your body too quickly.
   If this happens you may be more likely to get side effects including seizures.
   You must swallow the tablets whole.
-  Tell your doctor if you cannot swallow medicine tablets.
+  Tell your doctor if you cannot swallowmedicine tablets.
 - Take bupropion hydrochloride extended-release tablets (SR) at the same time each day.
 - Take your doses of bupropion hydrochloride extended-release tablets (SR) at least 8 hours apart.
 - You may take bupropion hydrochloride extended-release tablets (SR) with or without food.
@@ -191,13 +194,16 @@ How should I store bupropion hydrochloride extended-release tablets (SR)?
   Keep bupropion hydrochloride extended-release tablets (SR) in its tightly closed bottle.
 - Bupropion hydrochloride extended-release tablets (SR) may have an odor.
 
-General Information about bupropion hydrochloride extended-release tablets (SR).
+General Information about Bupropion Hydrochloride Extended-Release Tablets (SR).
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use bupropion hydrochloride extended-release tablets (SR) for a condition for which it was not prescribed.
 Do not give bupropion hydrochloride extended-release tablets (SR) to other people, even if they have the same symptoms you have.
 It may harm them.
 Keep bupropion hydrochloride extended-release tablets (SR) out of the reach of children.
+
+If you take a urine drug screening test, bupropion hydrochloride extended-release tablets (SR) may make the test result positive for amphetmaines.
+If you tell the person giving you the drug screening test that you are taking bupropion hydrochloride extended-release tablets (SR), they can do a more specific drug screening test that should not have this problem.
 
 This Medication Guide summarizes important information about bupropion hydrochloride extended-release tablets (SR).
 For more information, talk with your doctor.
@@ -213,7 +219,7 @@ Rx only
 
 ZYBAN®, WELLBUTRIN®, WELLBUTRIN XL®, and PARNATE® are registered trademarks of GlaxoSmithKline.
 NARDIL® is a registered trademark of Warner Lambert Company.
-MARPLAN® is a registered trademark of Oxford Pharmaceutical Services, Inc. KALETRA® is a registered trademark of Abbott Laboratories.
+MARPLAN® is a registered trademark of Oxford Pharmaceutical Services, Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -222,4 +228,4 @@ Mfg. by: IMPAX Laboratories, Inc. Hayward, California 94544 USA
 Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
 
 Rev.
-07/2010 444-09
+08/2011 444-11

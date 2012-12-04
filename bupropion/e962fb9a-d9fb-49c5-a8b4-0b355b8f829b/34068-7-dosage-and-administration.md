@@ -26,7 +26,6 @@ An increase in dosage to the maximum of 400 mg/day, given as 200 mg twice daily,
 
 It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
 In a study in which patients with major depressive disorder, recurrent type, who had responded during 8 weeks of acute treatment with bupropion hydrochloride extended-release tablets (SR) were assigned randomly to placebo or to the same dose of bupropion hydrochloride extended-release tablets (SR) (150 mg twice daily) during 44 weeks of maintenance treatment as they had received during the acute stabilization phase, longer-term efficacy was demonstrated (see CLINICAL TRIALS under CLINICAL PHARMACOLOGY).
-
 Based on these limited data, it is unknown whether or not the dose of bupropion hydrochloride extended-release tablets (SR) needed for maintenance treatment is identical to the dose needed to achieve an initial response.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
 
