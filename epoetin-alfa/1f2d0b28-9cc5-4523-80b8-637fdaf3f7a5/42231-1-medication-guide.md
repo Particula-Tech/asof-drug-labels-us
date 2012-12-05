@@ -228,8 +228,6 @@ Inactive Ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-[Amgen Logo]
-
 Manufactured by:
 
 Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A Revised: 05/2012 © 1989-2012 Amgen Inc. All rights reserved.

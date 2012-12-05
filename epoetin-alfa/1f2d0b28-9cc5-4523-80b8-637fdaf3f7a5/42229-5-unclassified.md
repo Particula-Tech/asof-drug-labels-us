@@ -1,11 +1,11 @@
-[Amgen Logo]
-
 Epogen® (epoetin alfa)
 
-Manufactured by:
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A.
 
-Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A. This product, the process of its manufacture, or its use, may be covered by one or more U.S. Patents, including U.S. Patent No. 5,441,868; 5,547,933; 5,618,698; 5,756,349; and 5,955,422. ©1989-2012 Amgen Inc. All rights reserved.
+Patent: http://pat.amgen.com/epogen/
 
-1xxxxxx-v26
+©1989-2012 Amgen Inc. All rights reserved.
+
+1xxxxxx-v27
 
 PMV 26

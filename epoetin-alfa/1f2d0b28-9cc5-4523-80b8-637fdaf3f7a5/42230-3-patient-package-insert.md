@@ -182,7 +182,7 @@ Throw away the vials, syringes, and needles as instructed by your healthcare pro
 Keep Epogen and all medicines out of reach of children.
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
-[Amgen Logo] Manufactured by:
+Manufactured by:
 
 Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A
 

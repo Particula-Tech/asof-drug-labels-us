@@ -4,7 +4,7 @@ Chronic Kidney Disease:
 
 - In controlled trials, patients experienced greater risks for death, serious adverse cardiovascular reactions, and stroke when administered erythropoiesis-stimulating agents (ESAs) to target a hemoglobin level of greater than 11 g/dL.
 - No trial has identified a hemoglobin target level, ESA dose, or dosing strategy that does not increase these risks.
-- Use the lowest Epogen dose sufficient to reduce the need for red blood cell (RBC) transfusions [see Warnings and Precautions (5.1)].
+  Use the lowest Epogen dose sufficient to reduce the need for red blood cell (RBC) transfusions [see Warnings and Precautions (5.1)].
 
 Cancer:
 
