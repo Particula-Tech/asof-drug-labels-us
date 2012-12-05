@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA201687"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "10370-268-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tretinoin",
+      "name": "Tretinoin"
+    }
+  ],
+  "setid": "9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9",
+  "source": "dailymed"
+}
