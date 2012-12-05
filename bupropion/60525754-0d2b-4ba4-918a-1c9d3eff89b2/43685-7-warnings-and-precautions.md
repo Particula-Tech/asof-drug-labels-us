@@ -99,15 +99,15 @@ WELLBUTRIN should be discontinued and not restarted in patients who experience a
 
 The risk of seizure is also related to patient factors, clinical situations, and concomitant medications, which must be considered in selection of patients for therapy with WELLBUTRIN.
 
-- Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
-- Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
-- Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
+- •Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
+- •Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
+- •Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
 
 Recommendations for Reducing the Risk of Seizure: Retrospective analysis of clinical experience gained during the development of WELLBUTRIN suggests that the risk of seizure may be minimized if
 
-- the total daily dose of WELLBUTRIN does not exceed 450 mg,
-- the daily dose is administered 3 times daily, with each single dose not to exceed 150 mg to avoid high peak concentrations of bupropion and/or its metabolites, and
-- the rate of incrementation of dose is very gradual.
+- •the total daily dose of WELLBUTRIN does not exceed 450 mg,
+- •the daily dose is administered 3 times daily, with each single dose not to exceed 150 mg to avoid high peak concentrations of bupropion and/or its metabolites, and
+- •the rate of incrementation of dose is very gradual.
 
 WELLBUTRIN should be administered with extreme caution to patients with a history of seizure, cranial trauma, or other predisposition(s) toward seizure, or patients treated with other agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold.
 

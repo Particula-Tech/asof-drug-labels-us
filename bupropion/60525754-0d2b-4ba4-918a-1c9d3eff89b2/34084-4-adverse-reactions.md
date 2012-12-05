@@ -82,7 +82,7 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 | Blurred vision | 14.6 | 10.3 |
 | Gustatory disturbance | 3.1 | 1.1 |
 
-a Events reported by at least 1% of patients receiving WELLBUTRIN are included.
+aEvents reported by at least 1% of patients receiving WELLBUTRIN are included.
 
 ## Other Events Observed During the Development of WELLBUTRIN
 
