@@ -12,7 +12,7 @@ The livebirth outcomes of these pregnancies were as follows:
 
 Birth defects reported in the Endometrin twice daily group included: one fetus with a cleft palate and intrauterine growth retardation, one fetus with spina bifida, three fetuses with congenital heart defects, one fetus with an umbilical hernia, and one fetus with an intestinal anomaly.
 
-Birth defects reported in the Endometrin three times daily group included: one fetus with an esophageal fistula, one fetus with hypospadias and an underdeveloped right ear, one fetus with Down’s and an atrial septal defect, one fetus with congenital heart anomalies, one fetus with DiGeorge’s syndrome, one fetus with a hand deformity, and one fetus with cleft palate.
+Birth defects reported in the Endometrin three times daily group included: one fetus with an esophageal fistula, one fetus with hypospadias and an underdeveloped right ear, one fetus with Down's and an atrial septal defect, one fetus with congenital heart anomalies, one fetus with DiGeorge's syndrome, one fetus with a hand deformity, and one fetus with cleft palate.
 
 For additional information on the pharmacology of Endometrin and pregnancy outcome information [see Clinical Pharmacology (12) and Clinical Studies Sections (14)].
 

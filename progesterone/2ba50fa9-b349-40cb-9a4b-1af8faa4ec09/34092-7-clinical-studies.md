@@ -4,21 +4,20 @@
 
 A randomized, open-label, active-controlled study evaluated the efficacy of 10 weeks of treatment with two different daily dosing regimens of Endometrin (100 mg twice daily and 100 mg three times daily) for support of implantation and early pregnancy in infertile women participating in an Assisted Reproductive Technology treatment program.
 Efficacy was assessed on the endpoint of ongoing pregnancies, defined as the presence of at least one fetal heartbeat seen on ultrasound at 6 weeks post-embryo transfer.
-The study randomized to Endometrin 808 infertile women (74.9% White; 10.3% Hispanic, 5.4% Black, 5 % Asian, and 4.6% Other) between 19 and 42 years of age (mean age 33) who had a body mass index < 34 kg/m2 at screening.
+The study randomized to Endometrin 808 infertile women (74.9% White; 10.3% Hispanic, 5.4% Black, 5% Asian, and 4.6% Other) between 19 and 42 years of age (mean age 33) who had a body mass index <34 kg/m2 at screening.
 
-The ongoing pregnancy rates for subjects treated with both dosing regimens of Endometrin were non-inferior (lower bounds of the 95% confidence interval of the difference between Endometrin and the active comparator excluded a difference greater than 10%) to the ongoing pregnancy rate for subjects treated with the active comparator.
+The ongoing pregnancy rates for subjects treated with both dosing regimens of Endometrin were noninferior (lower bounds of the 95% confidence interval of the difference between Endometrin and the active comparator excluded a difference greater than 10%) to the ongoing pregnancy rate for subjects treated with the active comparator.
 The results of this study are shown in Table 3.
 
-Table 3: Ongoing Pregnancy Rates* in Patients Receiving Endometrin for Luteal Supplementation and Early Pregnancy While in an Assisted Reproductive Technology Treatment Program
+Table 3: Ongoing Pregnancy RatesOngoing pregnancy defined as the presence of at least one fetal heartbeat seen on ultrasound at 6 weeks post-embryo transfer. in Patients Receiving Endometrin for Luteal Supplementation and Early Pregnancy While in an Assisted Reproductive Technology Treatment Program
 
 |  | Endometrin 100 mg twice daily | Endometrin 100 mg three times daily |
 | --- | --- | --- |
 | Number of subjects | 404 | 404 |
 | Ongoing pregnancy: n (%) | 156 (39%) | 171 (42%) |
-| 95% Confidence Interval of pregnancy rate | [33.8,43.6] | [37.5,47.3] |
+| 95% Confidence Interval of pregnancy rate | [33.8, 43.6] | [37.5, 47.3] |
 | Pregnancy rate percentage difference between Endometrin and comparator | -3.6% | 0.1% |
-| 95% Confidence Interval for difference vs. comparator | [-10.3, 3.2] | [-6.7, 6.9] |
-| *Ongoing pregnancy defined as the presence of at least one fetal heartbeat seen on ultrasound at 6 weeks post-embryo transfer. |  |  |
+| 95% Confidence Interval for difference vs comparator | [-10.3, 3.2] | [-6.7, 6.9] |
 
 Subjects participating in the study were stratified at randomization by age and ovarian reserve (as measured by serum FSH levels).
 The ongoing pregnancy rates for these subgroups are shown in Table 4.
@@ -45,8 +44,8 @@ Table 4: Ongoing Pregnancy Rates in Age- and Ovarian Reserve-Defined Subgroups R
 | 95% Confidence Interval for difference vs. comparator | [-31.0, 7.7] | [-26.6, 11.6] |
 
 In subjects under the age of 35 or with serum FSH levels less than 10 IU/L, results from both dosing regimens were non-inferior to the results from the comparator with respect to ongoing pregnancy rates.
-In women age 35 and older and in women with serum FSH levels between 10 and 15 IU/L, the results with respect to ongoing pregnancy rate for both dosing regimens of Endometrin did not reach the criteria for non-inferiority.
+In women age 35 and older and in women with serum FSH levels between 10 and 15 IU/L, the results with respect to ongoing pregnancy rates for both dosing regimens of Endometrin did not reach the criteria for non-inferiority.
 
 Subjects who became pregnant received study medication for a total of 10 weeks.
 Patients over 34 kg/m2 were not studied.
-The efficacy of Endometrin in this patient group is unknown.
+The efficacy of Endometrin in this patient group is unknown

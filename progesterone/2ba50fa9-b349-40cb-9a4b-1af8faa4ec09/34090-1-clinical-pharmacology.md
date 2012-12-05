@@ -24,14 +24,18 @@ Table 2: Mean (±Standard Deviation) Serum Progesterone Pharmacokinetic Paramete
 | Single Dosing |  |  |
 | Cmax (ng/mL) | 17.0 ± 6.5 | 19.8 ± 7.2 |
 | Tmax (hr) | 24.0 ± 0.0 | 17.3 ± 7.4 |
-| AUC0-24 (ng•hr/mL) | 217 ± 113 | 284 ± 143 |
+| AUC0-24 (ng∙hr/mL) | 217 ± 113 | 284 ± 143 |
 | Day 5 of Multiple Dosing |  |  |
 | Cmax (ng/mL) | 18.5 ± 5.5 | 24.1 ± 5.6 |
 | Tmax (hr) | 18.0 ± 9.4 | 18.0 ± 9.4 |
 | Cmin (ng/mL) | 8.9 ± 4.5 | 10.9 ± 6.7 |
 | Cavg (ng/ml) | 14.0 ± 4.8 | 15.9 ± 4.3 |
-| AUC0-24 (ng•hr/mL) | 327 ± 127 | 436 ± 106 |
-| Cmax Maximum progesterone serum concentration. Tmax Time to maximum progesterone serum concentration. Cavg Average progesterone serum concentration. AUC0-24 Area under the drug concentration versus time curve from 0-24 hours post dose. Cmin Minimum progesterone serum concentration. |  |  |
+| AUC0-24 (ng∙hr/mL) | 327 ± 127 | 436 ± 106 |
+| Cmax Maximum progesterone serum concentration. |  |  |
+| Tmax Time to maximum progesterone serum concentration. |  |  |
+| Cavg Average progesterone serum concentration. |  |  |
+| AUC0-24 Area under the drug concentration versus time curve from 0-24 hours post dose. |  |  |
+| Cmin Minimum progesterone serum concentration. |  |  |
 
 Distribution
 

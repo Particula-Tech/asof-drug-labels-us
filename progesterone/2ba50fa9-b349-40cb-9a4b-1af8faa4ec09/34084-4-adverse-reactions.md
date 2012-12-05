@@ -7,18 +7,18 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety data reflect exposure to Endometrin in 808 infertile women (74.9% White, 10.3% Hispanic, 5.4% Black, 5% Asian, and 4.6% Other) in a single Assisted Reproductive Technology 10 week clinical study conducted in the U.S. Endometrin was studied at doses of 100 mg twice daily and 100 mg three times daily.
 The adverse reactions that occurred at a rate greater than or equal to 2% in either Endometrin group are summarized in Table 1.
 
-Table 1: Number and Frequency of Reported Adverse Reactions in Women Treated with Endometrin in an Assisted Reproductive Technology Study
+Table 1: Number and Frequency of Reported Adverse Reactions in Women Treated with Endometrin in an Assisted Reproductive Technology Study FULL PRESCRIBING INFORMATION
 
-| Body System | Endometrin 100 mg twice daily (N=404) | Endometrin 100 mg three times daily (N=404) |
-| --- | --- | --- |
 | Preferred Term |  |  |
+| --- | --- | --- |
+| Body System | Endometrin 100 mg twice daily (N=404) | Endometrin 100 mg three times daily (N=404) |
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 50 (12%) | 50 (12%) |
 | Nausea | 32 (8%) | 29 (7%) |
 | Abdominal distension | 18 (4%) | 17 (4%) |
 | Constipation | 9 (2%) | 14 (3%) |
 | Vomiting | 13 (3%) | 9 (2%) |
-| General Disorders & Administration Site Conditions |  |  |
+| General Disorders and Administration Site Conditions |  |  |
 | Fatigue | 7 (2%) | 12 (3%) |
 | Infections and Infestations |  |  |
 | Urinary tract infection | 9 (2%) | 4 (1%) |
