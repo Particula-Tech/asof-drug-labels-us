@@ -23,15 +23,15 @@ In the event of recrudescent P. falciparum infections after treatment with MALAR
 
 Patients should be instructed:
 
-- to take MALARONE tablets at the same time each day with food or a milky drink.
-- to take a repeat dose of MALARONE if vomiting occurs within 1 hour after dosing.
-- to take a dose as soon as possible if a dose is missed, then return to their normal dosing schedule.
+- •to take MALARONE tablets at the same time each day with food or a milky drink.
+- •to take a repeat dose of MALARONE if vomiting occurs within 1 hour after dosing.
+- •to take a dose as soon as possible if a dose is missed, then return to their normal dosing schedule.
   However, if a dose is skipped, the patient should not double the next dose.
-- that rare serious adverse events such as hepatitis, severe skin reactions, neurological, and hematological events have been reported when MALARONE was used for the prophylaxis or treatment of malaria.
-- to consult a healthcare professional regarding alternative forms of prophylaxis if prophylaxis with MALARONE is prematurely discontinued for any reason.
-- that protective clothing, insect repellents, and bednets are important components of malaria prophylaxis.
-- that no chemoprophylactic regimen is 100% effective; therefore, patients should seek medical attention for any febrile illness that occurs during or after return from a malaria-endemic area and inform their healthcare professional that they may have been exposed to malaria.
-- that falciparum malaria carries a higher risk of death and serious complications in pregnant women than in the general population.
+- •that rare serious adverse events such as hepatitis, severe skin reactions, neurological, and hematological events have been reported when MALARONE was used for the prophylaxis or treatment of malaria.
+- •to consult a healthcare professional regarding alternative forms of prophylaxis if prophylaxis with MALARONE is prematurely discontinued for any reason.
+- •that protective clothing, insect repellents, and bednets are important components of malaria prophylaxis.
+- •that no chemoprophylactic regimen is 100% effective; therefore, patients should seek medical attention for any febrile illness that occurs during or after return from a malaria-endemic area and inform their healthcare professional that they may have been exposed to malaria.
+- •that falciparum malaria carries a higher risk of death and serious complications in pregnant women than in the general population.
   Pregnant women anticipating travel to malarious areas should discuss the risks and benefits of such travel with their physicians (see Pregnancy section).
 
 ## Drug Interactions
@@ -40,7 +40,7 @@ Concomitant treatment with tetracycline has been associated with approximately a
 Parasitemia should be closely monitored in patients receiving tetracycline.
 While antiemetics may be indicated for patients receiving MALARONE, metoclopramide may reduce the bioavailability of atovaquone and should be used only if other antiemetics are not available.
 
-Concomitant administration of rifampin or rifabutin is known to reduce atovaquone levels by approximately 50% and 34%, respectively.
+Concomitant administration of rifampin orrifabutin is known to reduce atovaquone levels by approximately 50% and 34%, respectively.
 The concomitant administration of MALARONE and rifampin or rifabutin is not recommended.
 
 Proguanil may potentiate the anticoagulant effect of warfarin and other coumarin-based anticoagulants.

@@ -5,7 +5,7 @@
 In 3 phase II clinical trials, atovaquone alone, proguanil hydrochloride alone, and the combination of atovaquone and proguanil hydrochloride were evaluated for the treatment of acute, uncomplicated malaria caused by P. falciparum.
 Among 156 evaluable patients, the parasitological cure rate was 59/89 (66%) with atovaquone alone, 1/17 (6%) with proguanil hydrochloride alone, and 50/50 (100%) with the combination of atovaquone and proguanil hydrochloride.
 
-MALARONE was evaluated for treatment of acute, uncomplicated malaria caused by P. falciparum in 8 phase III controlled clinical trials.
+MALARONE was evaluated for treatment of acute, uncomplicated malaria caused by P. falciparumin 8 phase III controlled clinical trials.
 Among 471 evaluable patients treated with the equivalent of 4 MALARONE Tablets once daily for 3 days, 464 had a sensitive response (elimination of parasitemia with no recurrent parasitemia during follow-up for 28 days) (see Table 7).
 Seven patients had a response of RI resistance (elimination of parasitemia but with recurrent parasitemia between 7 and 28 days after starting treatment).
 In these trials, the response to treatment with MALARONE was similar to treatment with the comparator drug in 4 trials, and better than the response to treatment with the comparator drug in the other 4 trials.
@@ -50,7 +50,7 @@ Seven patients in Gabon with malaria due to P. ovale or P. malariae were treated
 All 6 evaluable patients (3 with P. malariae, 2 with P. ovale, and 1 with mixed P. falciparum and P. ovale) were cured at 28 days.
 Relapsing malarias including P. vivax and P. ovale require additional treatment to prevent relapse.
 
-The efficacy of MALARONE in treating acute uncomplicated P. falciparum malaria in children weighing ≥5 and <11 kg was examined in an open-label, randomized trial conducted in Gabon.
+The efficacy of MALARONE in treating acute uncomplicated P. falciparummalaria in children weighing ≥5 and <11 kg was examined in an open-label, randomized trial conducted in Gabon.
 Patients received either MALARONE (2 or 3 MALARONE Pediatric Tablets once daily depending upon body weight) for 3 days (n = 100) or amodiaquine (10 mg/kg/day) for 3 days (n = 100).
 In this study, the MALARONE Tablets were crushed and mixed with condensed milk just prior to administration.
 In the per-protocol population, adequate clinical response was obtained in 95% (87/92) of the pediatric patients who received MALARONE and in 53% (41/78) of those who received amodiaquine.
@@ -79,7 +79,7 @@ Prevention of Parasitemia in Placebo-Controlled Clinical Trials of MALARONE for 
 In another study, 330 Gabonese pediatric patients (weighing 13 to 40 kg, and aged 4 to 14 years) who had received successful open-label radical cure treatment with artesunate, were randomized to receive either MALARONE (dosage based on body weight) or placebo in a double-blind fashion for 12 weeks.
 Blood smears were obtained weekly and any time malaria was suspected.
 Nineteen of the 165 children given MALARONE and 18 of 165 patients given placebo withdrew from the study for reasons other than parasitemia (primary reason was lost to follow-up).
-In the per-protocol population, 1 out of 150 patients (<1%) who received MALARONE developed P. falciparum parasitemia while receiving prophylaxis with MALARONE compared with 31 (22%) of the 144 placebo recipients.
+In the per-protocol population, 1 out of 150 patients (<1%) who received MALARONE developed P. falciparumparasitemia while receiving prophylaxis with MALARONE compared with 31 (22%) of the 144 placebo recipients.
 
 In a 10-week study in 175 South African subjects who moved into malaria-endemic areas and were given prophylaxis with 1 MALARONE Tablet daily, parasitemia developed in 1 subject who missed several doses of medication.
 Since no placebo control was included, the incidence of malaria in this study was not known.
