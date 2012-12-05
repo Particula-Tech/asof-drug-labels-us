@@ -113,11 +113,11 @@ Any psychoactive drug may impair judgment, thinking, or motor skills.
 Although in controlled studies Cymbalta has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
 Therefore, patients should be cautioned about operating hazardous machinery including automobiles, until they are reasonably certain that Cymbalta therapy does not affect their ability to engage in such activities.
 
-Literature revised October 18, 2012
+Literature revised November 9, 2012
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 Copyright © 2004, 2012, Eli Lilly and Company.
 All rights reserved.
 
-PV 9472 AMP
+PV 9474 AMP

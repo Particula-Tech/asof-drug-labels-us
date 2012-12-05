@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Cymbalta® (duloxetine hydrochloride) is a selective serotonin and norepinephrine reuptake inhibitor (SSNRI) for oral administration.
+Cymbalta® (Duloxetine Delayed-Release Capsules) is a selective serotonin and norepinephrine reuptake inhibitor (SSNRI) for oral administration.
 Its chemical designation is (+)-(S)-N-methyl-γ-(1-naphthyloxy)-2-thiophenepropylamine hydrochloride.
 The empirical formula is C18H19NOS•HCl, which corresponds to a molecular weight of 333.88.
 The structural formula is:

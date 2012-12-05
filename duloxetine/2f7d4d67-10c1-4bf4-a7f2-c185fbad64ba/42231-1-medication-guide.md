@@ -1,6 +1,6 @@
 Medication Guide
 
-Cymbalta® [sim-BALL-tah] (duloxetine hydrochloride)
+Cymbalta®[sim-BALL-tah] (Duloxetine Delayed-Release Capsules)
 
 Read the Medication Guide that comes with Cymbalta® before you start taking it and each time you get a refill.
 There may be new information.
@@ -274,15 +274,15 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 *The brands listed are trademarks of their respective owners and not trademarks of Eli Lilly and Company.
 
-Medication Guide revised: October 18, 2012
+Medication Guide revised: November 9, 2012
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.cymbalta.com
 
-Cymbalta (duloxetine hydrochloride) is a registered trademark of Eli Lilly and Company.
+Cymbalta is a registered trademark of Eli Lilly and Company.
 
 Copyright © 2009, 2012, Eli Lilly and Company.
 All rights reserved.
 
-PV 7092 AMP
+PV 7094 AMP
