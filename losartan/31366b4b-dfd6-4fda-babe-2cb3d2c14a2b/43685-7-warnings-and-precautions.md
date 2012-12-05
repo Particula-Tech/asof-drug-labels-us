@@ -20,11 +20,11 @@ Infants with histories of in utero exposure to an angiotensin II receptor antago
 If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
 Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
 Losartan potassium has been shown to produce adverse effects in rat fetuses and neonates, including decreased body weight, delayed physical and behavioral development, mortality and renal toxicity.
-With the exception of neonatal weight gain (which was affected at doses as low as 10 mg/kg/day), doses associated with these effects exceeded 25 mg/kg/day (approximately three times the maximum recommended human dose of 100 mg on a mg/m 2 basis).
+With the exception of neonatal weight gain (which was affected at doses as low as 10 mg/kg/day), doses associated with these effects exceeded 25 mg/kg/day (approximately three times the maximum recommended human dose of 100 mg on a mg/m2basis).
 These findings are attributed to drug exposure in late gestation and during lactation.
 Significant levels of losartan and its active metabolite were shown to be present in rat fetal plasma during late gestation and in rat milk.
 
-## Hypotension - Volume-Depleted Patients
+## Hypotension ― Volume-Depleted Patients
 
 In patients who are intravascularly volume-depleted (e.g., those treated with diuretics), symptomatic hypotension may occur after initiation of therapy with losartan potassium.
 These conditions should be corrected prior to administration of losartan potassium, or a lower starting dose should be used (see DOSAGE AND ADMINISTRATION ).
@@ -33,40 +33,28 @@ These conditions should be corrected prior to administration of losartan potassi
 
 ## General
 
-### Hypersensitivity
-
-Angioedema.
+Hypersensitivity Angioedema.
 See ADVERSE REACTIONS, Postmarketing Experience.
-
-### Impaired Hepatic Function
-
-Based on pharmacokinetic data which demonstrate significantly increased plasma concentrations of losartan in cirrhotic patients, a lower dose should be considered for patients with impaired liver function (see DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY, Pharmacokinetics ).
-
-### Impaired Renal Function
-
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function have been reported in susceptible individuals treated with losartan potassium; in some patients, these changes in renal function were reversible upon discontinuation of therapy.
+Impaired Hepatic Function Based on pharmacokinetic data which demonstrate significantly increased plasma concentrations of losartan in cirrhotic patients, a lower dose should be considered for patients with impaired liver function (see DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY, Pharmacokinetics ).
+Impaired Renal Function As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function have been reported in susceptible individuals treated with losartan potassium; in some patients, these changes in renal function were reversible upon discontinuation of therapy.
 In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin converting enzyme inhibitors has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
 Similar outcomes have been reported with losartan potassium.
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
 Similar effects have been reported with losartan potassium; in some patients, these effects were reversible upon discontinuation of therapy.
-
-### Electrolyte Imbalance
-
-Electrolyte imbalances are common in patients with renal impairment, with or without diabetes, and should be addressed.
+Electrolyte Imbalance Electrolyte imbalances are common in patients with renal impairment, with or without diabetes, and should be addressed.
+In a clinical study conducted in type 2 diabetic patients with proteinuria, the incidence of hyperkalemia was higher in the group treated with losartan potassium as compared to the placebo group; however, few patients discontinued therapy due to hyperkalemia (see ADVERSE REACTIONS ).
 
 ## Information for Patients
 
 Pregnancy Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to drugs that act on the renin-angiotensin system, and they should also be told that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
 These patients should be asked to report pregnancies to their physicians as soon as possible.
-
-### Potassium Supplements
-
-A patient receiving losartan potassium should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician (see PRECAUTIONS, Drug Interactions ).
+Potassium Supplements A patient receiving losartan potassium should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician (see PRECAUTIONS, Drug Interactions ).
 
 ## Drug Interactions
 
 No significant drug-drug pharmacokinetic interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, cimetidine and phenobarbital.
-Rifampin, an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite (see CLINICAL PHARMACOLOGY, Drug Interactions ).
+Rifampin, an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite.
+(See CLINICAL PHARMACOLOGY, Drug Interactions.)
 In humans, two inhibitors of P450 3A4 have been studied.
 Ketoconazole did not affect the conversion of losartan to the active metabolite after intravenous administration of losartan, and erythromycin had no clinically significant effect after oral administration.
 Fluconazole, an inhibitor of P450 2C9, decreased active metabolite concentration and increased losartan concentration.
@@ -74,18 +62,14 @@ The pharmacodynamic consequences of concomitant use of losartan and inhibitors o
 Subjects who do not metabolize losartan to active metabolite have been shown to have a specific, rare defect in cytochrome P450 2C9.
 These data suggest that the conversion of losartan to its active metabolite is mediated primarily by P450 2C9 and not P450 3A4.
 As with other drugs that block angiotensin II or its effects, concomitant use of potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium.
-
-### Lithium
-
-As with other drugs which affect the excretion of sodium, lithium excretion may be reduced.
+Lithium As with other drugs which affect the excretion of sodium, lithium excretion may be reduced.
 Therefore, serum lithium levels should be monitored carefully if lithium salts are to be coadministered with angiotensin II receptor antagonists.
-
-### Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
-
-In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including losartan) may result in deterioration of renal function, including possible acute renal failure.
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including losartan) may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving losartan and NSAID therapy.
 The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
+Dual Blockade of the Renin-Angiotensin-Aldosterone System It has been reported in the literature that in patients with established atherosclerotic disease, heart failure, or with diabetes with end organ damage, dual blockade of the renin-angiotensin-aldosterone system is associated with a higher frequency of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) as compared to use of a single renin-angiotensin-aldosterone system agent.
+Dual blockade (e.g., by adding an ACE inhibitor to an angiotensin II receptor antagonist) should be limited to individually defined cases with close monitoring of renal function.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -119,6 +103,7 @@ There are no data on the effect of losartan potassium on blood pressure in pedia
 ## Geriatric Use
 
 Of the total number of patients receiving losartan potassium in controlled clinical studies for hypertension, 391 patients (19%) were 65 years and over, while 37 patients (2%) were 75 years and over.
+In a controlled clinical study for renal protection in type 2 diabetic patients with proteinuria, 248 patients (33%) were 65 years and over.
 In a controlled clinical study for the reduction in the combined risk of cardiovascular death, stroke and myocardial infarction in hypertensive patients with left ventricular hypertrophy, 2857 patients (62%) were 65 years and over, while 808 patients (18%) were 75 years and over.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
@@ -126,4 +111,5 @@ No overall differences in effectiveness or safety were observed between these pa
 
 In the LIFE study, Black patients with hypertension and left ventricular hypertrophy had a lower risk of stroke on atenolol than on losartan potassium.
 Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.
-However, the LIFE study does not provide evidence that the benefits of losartan potassium on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients ( see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke ).
+However, the LIFE study does not provide evidence that the benefits of losartan potassium on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients.
+(See CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke. )

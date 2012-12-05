@@ -22,7 +22,7 @@ In vitro studies indicate that cytochrome P450 2C9 and 3A4 are involved in the b
 Minimal conversion of losartan to the active metabolite (less than 1% of the dose compared to 14% of the dose in normal subjects) was seen in about one percent of individuals studied.
 The terminal half-life of losartan is about 2 hours and of the metabolite is about 6 to 9 hours.
 The pharmacokinetics of losartan and its active metabolite are linear with oral losartan doses up to 200 mg and do not change over time.
-Neither losartan nor its metabolite accumulates in plasma upon repeated once-daily dosing.
+Neither losartan nor its metabolite accumulate in plasma upon repeated once-daily dosing.
 Following oral administration, losartan is well absorbed (based on absorption of radiolabeled losartan) and undergoes substantial first-pass metabolism; the systemic bioavailability of losartan is approximately 33%.
 About 14% of an orally-administered dose of losartan is converted to the active metabolite.
 Mean peak concentrations of losartan and its active metabolite are reached in 1 hour and in 3 to 4 hours, respectively.
@@ -53,10 +53,10 @@ Table 1 Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to 
 | --- | --- | --- | --- | --- |
 | Parent | Active Metabolite | Parent | Active Metabolite |  |
 | AUC0-24*(ng•h/mL) | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
-| C max (ng/mL)* | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
+| C MAX (ng/mL)* | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
 | T1/2 (h)† | 2.1 ± 0.7 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
-| Tpeak (h)‡ | 0.9 | 3.5 | 2 | 4.1 |
-| CLren (mL/min)* | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
+| TPEAK (h)‡ | 0.9 | 3.5 | 2 | 4.1 |
+| CLREN (mL/min)* | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
 | * Mean ± standard deviation † Harmonic mean and standard deviation ‡ Median |  |  |  |  |
 
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
@@ -78,7 +78,7 @@ Pharmacokinetic differences due to race have not been studied (see also PRECAUTI
 Following oral administration, plasma concentrations and AUCs of losartan and its active metabolite are increased by 50 to 90% in patients with mild (creatinine clearance of 50 to 74 mL/min) or moderate (creatinine clearance 30 to 49 mL/min) renal insufficiency.
 In this study, renal clearance was reduced by 55 to 85% for both losartan and its active metabolite in patients with mild or moderate renal insufficiency.
 Neither losartan nor its active metabolite can be removed by hemodialysis.
-No dosage adjustment is necessary for patients with renal impairment unless they are volume-depleted (see WARNINGS, Hypotension - Volume-Depleted Patients and DOSAGE AND ADMINISTRATION ).
+No dosage adjustment is necessary for patients with renal impairment unless they are volume-depleted (see WARNINGS, Hypotension ― Volume-Depleted Patients and DOSAGE AND ADMINISTRATION ).
 
 #### Hepatic Insufficiency
 
@@ -201,3 +201,60 @@ This finding could not be explained on the basis of differences in the populatio
 In addition, blood pressure reductions in both treatment groups were consistent between Black and non-Black patients.
 Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.
 However, the LIFE study provides no evidence that the benefits of losartan potassium on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients.
+
+#### Nephropathy in Type 2 Diabetic Patients
+
+The Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study was a randomized, placebo-controlled, double-blind, multicenter study conducted worldwide in 1513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3 mg/dL in females or males < 60 kg and 1.5 to 3 mg/dL in males >60 kg and proteinuria [urinary albumin to creatinine ratio > 300 mg/g]).
+Patients were randomized to receive losartan potassium 50 mg once daily or placebo on a background of conventional antihypertensive therapy excluding ACE inhibitors and angiotensin II antagonists.
+After one month, investigators were instructed to titrate study drug to 100 mg once daily if the trough blood pressure goal (140/90 mmHg) was not achieved.
+Overall, 72% of patients received the 100 mg daily dose more than 50% of the time they were on study drug.
+Because the study was designed to achieve equal blood pressure control in both groups, other antihypertensive agents (diuretics, calcium-channel blockers, alpha- or beta-blockers, and centrally acting agents) could be added as needed in both groups.
+Patients were followed for a mean duration of 3.4 years.
+The study population was diverse with regard to race (Asian 16.7%, Black 15.2%, Hispanic 18.3%, White 48.6%).
+Overall, 63.2% of the patients were men, and 66.4% were under the age of 65 years.
+Almost all of the patients (96.6%) had a history of hypertension, and the patients entered the trial with a mean serum creatinine of 1.9 mg/dl and mean proteinuria (urinary albumin/creatinine) of 1808 mg/g at baseline.
+The primary endpoint of the study was the time to first occurrence of any one of the following events: doubling of serum creatinine, end-stage renal disease (ESRD) (need for dialysis or transplantation), or death.
+Treatment with losartan potassium resulted in a 16% risk reduction in this endpoint (see Figure 4 and Table 3 ).
+Treatment with losartan potassium also reduced the occurrence of sustained doubling of serum creatinine by 25% and ESRD by 29% as separate endpoints, but had no effect on overall mortality (see Table 3 ).
+The mean baseline blood pressures were 152/82 mmHg for losartan potassium plus conventional antihypertensive therapy and 153/82 mmHg for placebo plus conventional antihypertensive therapy.
+At the end of the study, the mean blood pressures were 143/76 mmHg for the group treated with losartan potassium and 146/77 mmHg for the group treated with placebo.
+
+Table 3 Incidence of Primary Endpoint Events
+
+|  | Incidence |  | Risk Reduction | 95% C.I. | p-Value |
+| --- | --- | --- | --- | --- | --- |
+|  | Losartan | Placebo |  |  |  |
+| Primary Composite Endpoint | 43.5% | 47.1% | 16.1% | 2.3% to 27.9% | 0.022 |
+| Doubling of Serum Creatinine, ESRD and Death Occurring as a First Event |  |  |  |  |  |
+| Doubling of Serum Creatinine | 21.6% | 26% |  |  |  |
+| ESRD | 8.5% | 8.5% |  |  |  |
+| Death | 13.4% | 12.6% |  |  |  |
+| Overall Incidence of Doubling of Serum Creatinine, ESRD and Death |  |  |  |  |  |
+| Doubling of Serum Creatinine | 21.6% | 26% | 25.3% | 7.8% to 39.4% | 0.006 |
+| ESRD | 19.6% | 25.5% | 28.6% | 11.5% to 42.4% | 0.002 |
+| Death | 21% | 20.3% | -1.7% | -26.9% to 18.6% | 0.884 |
+
+The secondary endpoints of the study were change in proteinuria, change in the rate of progression of renal disease, and the composite of morbidity and mortality from cardiovascular causes (hospitalization for heart failure, myocardial infarction, revascularization, stroke, hospitalization for unstable angina, or cardiovascular death).
+Compared with placebo, losartan potassium significantly reduced proteinuria by an average of 34%, an effect that was evident within 3 months of starting therapy, and significantly reduced the rate of decline in glomerular filtration rate during the study by 13%, as measured by the reciprocal of the serum creatinine concentration.
+There was no significant difference in the incidence of the composite endpoint of cardiovascular morbidity and mortality.
+The favorable effects of losartan potassium were seen in patients also taking other anti-hypertensive medications (angiotensin II receptor antagonists and angiotensin converting enzyme inhibitors were not allowed), oral hypoglycemic agents and lipid-lowering agents.
+For the primary endpoint and ESRD, the effects of losartan potassium in patient subgroups defined by age, gender and race are shown in Table 4 below.
+Subgroup analyses can be difficult to interpret and it is not known whether these represent true differences or chance effects.
+
+Table 4 Efficacy Outcomes within Demographic Subgroups
+
+|  |  | Primary Composite Endpoint |  |  | ESRD |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | No. of Patients | Losartan Potassium Event Rate % | Placebo Event Rate % | Hazard Ratio (95% CI) | Losartan Potassium Event Rate % | Placebo Event Rate % | Hazard Ratio (95% CI) |
+| Overall Results | 1513 | 43.5 | 47.1 | 0.839 (0.721, 0.977) | 19.6 | 25.5 | 0.714 (0.576, 0.885) |
+| Age |  |  |  |  |  |  |  |
+| <65 years | 1005 | 44.1 | 49 | 0.784 (0.653, 0.941) | 21.1 | 28.5 | 0.67 (0.521, 0.863) |
+| ≥65 years | 508 | 42.3 | 43.5 | 0.978 (0.749, 1.277) | 16.5 | 19.6 | 0.847 (0.56, 1.281) |
+| Gender |  |  |  |  |  |  |  |
+| Female | 557 | 47.8 | 54.1 | 0.762 (0.603, 0.962) | 22.8 | 32.8 | 0.601 (0.436, 0.828) |
+| Male | 956 | 40.9 | 43.3 | 0.892 (0.733, 1.085) | 17.5 | 21.5 | 0.809 (0.605, 1.081) |
+| Race |  |  |  |  |  |  |  |
+| Asian | 252 | 41.9 | 54.8 | 0.655 (0.453, 0.947) | 18.8 | 27.4 | 0.625 (0.367, 1.066) |
+| Black | 230 | 40 | 39 | 0.983 (0.647, 1.495) | 17.6 | 21 | 0.831 (0.456, 1.516) |
+| Hispanic | 277 | 55 | 54 | 1.003 (0.728, 1.38) | 30 | 28.5 | 1.024 (0.661, 1.586) |
+| White | 735 | 40.5 | 43.2 | 0.809 (0.645, 1.013) | 16.2 | 23.9 | 0.596 (0.427, 0.831) |
