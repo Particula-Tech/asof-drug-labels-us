@@ -21,6 +21,8 @@ See the full patient prescribing information for montelukast sodium.
 
 Patient Information
 
+Montelukast Sodium Tablets and
+
 Montelukast Sodium Chewable Tablets
 
 Read the Patient Information Leaflet that comes with montelukast sodium before you start taking it and each time you get a refill.
@@ -35,7 +37,7 @@ What is Montelukast Sodium?
 
 Montelukast sodium is used to:
 
-1. Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 12 months and older.
+1. Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 2 years and older.
    Do not take montelukast sodium if you need relief right away for a sudden asthma attack.
    If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
 2. Prevent exercise-induced asthma in people 15 years of age and older.
@@ -43,7 +45,7 @@ Montelukast sodium is used to:
    Montelukast sodium is used to treat:
 
 - outdoor allergies that happen part of the year (seasonal allergic rhinitis) in adults and children ages 2 years and older, and
-- indoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 6 months and older.
+- indoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 2 years and older.
 
 Who should not take Montelukast Sodium?
 
@@ -76,13 +78,11 @@ For anyone who takes Montelukast Sodium:
   Your healthcare provider will tell you how much montelukast sodium to take, and whento take it.
 - Do not stop taking montelukast sodium or change when you take it without talking with your healthcare provider.
 - You can take montelukast sodium with food or without food.
-  See the information below in the section "How should I give montelukast sodium oral granules to my child?" for information about what foods and liquids can be taken with montelukast sodium oral granules.
 - If youor your child misses a dose ofmontelukast sodium, just take the nextdose at your regular time.
   Do not take 2 doses at the same time.
+- If you take too much montelukast sodium tablets, call your healthcare provider or a Poison Control Center right away.
 
-If you take too much montelukast sodium, call your doctor.
-
-For adults and children 12 months of age and older with asthma:
+For adults and children 2 years of age and older with asthma:
 
 - Take montelukast sodium 1 time each day, in the evening.
   Continue to take montelukast sodium every day for as long as your healthcare provider prescribes it, even if you have no asthma symptoms.
@@ -100,36 +100,15 @@ For patients 15 years of age and older for the prevention of exercise-induced as
   Talk to your healthcare provider about your treatment for exercise-induced asthma.
 - Do nottake 2 doses of montelukast sodiumwithin 24 hours (1 day).
 
-For adults and children 2 years of age and older with seasonal allergic rhinitis, or for adults and children 6 months of age and older with perennial allergic rhinitis:
+For adults and children 2 years of age and older with seasonal allergic rhinitis, or for adults and children 2 years of age and older with perennial allergic rhinitis:
 
 - Take montelukast sodium 1 time each day, at about the same time each day.
-
-How should I give montelukast sodium oral granules to my child?
-
-Give montelukast sodium oral granules to your child exactly as instructed by your healthcare provider.
-
-Do not open the packet until ready to use.
-
-Montelukast sodium 4-mg oral granules can be given:
-
-- right in the mouth or
-- dissolved in 1 teaspoonful (5 mL) of cold or room temperature baby formula or breast milk; or
-- mixed with 1 spoonful of one of the following soft foods at cold or room temperature: applesauce, mashed carrots, rice, or ice cream.
-
-Give the child all of the mixture right away, within 15 minutes.
-
-Do not store any leftover montelukast sodium mixture (oral granules mixed with food, baby formula, or breast milk) for use at a later time.
-Throw away any unused portion.
-
-Do not mix montelukast sodium oral granules with any liquid drink other than baby formula or breast milk.
-Your child may drink other liquids after swallowing the mixture.
 
 What is the dose of montelukast sodium?
 
 The dose of montelukast sodium prescribed for your or your child's condition is based on age:
 
-- 6 to 23 months: one packet of 4-mg oral granules.
-- 2 to 5 years: one 4-mg chewable tablet or one packet of 4-mg oral granules.
+- 2 to 5 years: one 4-mg chewable tablet.
 - 6 to 14 years: one 5-mg chewable tablet.
 - 15 years and older: one 10-mg tablet.
 
@@ -178,7 +157,7 @@ Other side effects with montelukast sodium include:
 - nose bleed, stuffy nose
 - diarrhea, heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 - hepatitis
-- bruising, rash
+- bruising, rash, severe skin reactions (erythema multiforme) that may occur without warning
 - joint pain, muscle aches and muscle cramps
 - tiredness, swelling
 
@@ -192,7 +171,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store montelukast sodium?
 
-- Store montelukast sodium tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+- Store montelukast sodium at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - Keep montelukast sodium in the container it comes in.
 - Keep montelukast sodium in a dry place and away from light.
 
@@ -215,6 +194,7 @@ Active ingredient: montelukast sodium
 
 Inactive ingredients:
 
+- 10-mg tablet: croscarmellose sodium, ferric oxide red, ferric oxide yellow, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose and titanium dioxide.
 - 4-mg and 5-mg chewable tablets: aspartame, cellulose microcrystalline, cherry flavor, croscarmellose sodium, ferric oxide red, magnesium stearate, mannitol.
 
 People with Phenylketonuria: Montelukast sodium 4-mg chewable tablets contain 0.168 mg of phenylalanine, and montelukast sodium 5-mg chewable tablets contain 0.210 mg of phenylalanine.
@@ -231,4 +211,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8018232 Revised July 2012
+8036138 Revised August 2012
