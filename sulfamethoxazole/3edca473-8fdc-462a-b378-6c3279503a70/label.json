@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA076817"
+  ],
+  "inn": "sulfamethoxazole",
+  "labeler": "Vista Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "61971-115-01",
+    "61971-115-05",
+    "61971-120-01",
+    "61971-120-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Sulfamethoxazole and Trimethoprim"
+    }
+  ],
+  "setid": "3edca473-8fdc-462a-b378-6c3279503a70",
+  "source": "dailymed"
+}
