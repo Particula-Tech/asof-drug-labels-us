@@ -20,17 +20,17 @@ A second meloxicam concentration peak occurs around 12 to 14 hours post-dose sug
 
 Table 3 Single Dose and Steady-State Pharmacokinetic Parameters for Oral 7.5 mg and 15 mg Meloxicam (Mean and % CV)1
 
-| N | 18 | 5 | 8 | 12 | 12 |
-| --- | --- | --- | --- | --- | --- |
 | Pharmacokinetic Parameters (% CV) | Steady State |  |  | Single Dose |  |
+| --- | --- | --- | --- | --- | --- |
 | Healthy Male Adults (Fed)2 | Elderly Males (Fed)2 | Elderly Females (Fed)2 | Renal Failure (Fasted) | Hepatic Insufficiency (Fasted) |  |
 | 7.5 mg3 tablets | 15 mg capsules | 15 mg capsules | 15 mg capsules | 15 mg capsules |  |
+| N | 18 | 5 | 8 | 12 | 12 |
 | Cmax [mcg/mL] | 1.05 (20) | 2.3 (59) | 3.2 (24) | 0.59 (36) | 0.84 (29) |
 | tmax [h] | 4.9 (8) | 5 (12) | 6 (27) | 4 (65) | 10 (87) |
 | t1/2 [h] | 20.1 (29) | 21 (34) | 24 (34) | 18 (46) | 16 (29) |
 | CL/f [mL/min] | 8.8 (29) | 9.9 (76) | 5.1 (22) | 19 (43) | 11 (44) |
 | Vz/f4 [L] | 14.7 (32) | 15 (42) | 10 (30) | 26 (44) | 14 (29) |
-| 1 The parameter values in the table are from various studies 2 not under high fat conditions 3 Meloxicamtablets 4 VZ/f=Dose/AUC•Kel |  |  |  |  |  |
+| 1 The parameter values in the table are from various studies 2 not under high fat conditions 3 Meloxicam tablets 4 VZ/f=Dose/AUC•Kel |  |  |  |  |  |
 
 Food and Antacid Effects Administration of meloxicam capsules following a high fat breakfast (75 g of fat) resulted in mean peak drug levels (i.e., C max ) being increased by approximately 22% while the extent of absorption (AUC) was unchanged.
 The time to maximum concentration (T max ) was achieved between 5 and 6 hours.

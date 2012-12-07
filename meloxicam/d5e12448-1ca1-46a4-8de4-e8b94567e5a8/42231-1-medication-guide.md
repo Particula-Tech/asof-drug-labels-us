@@ -1,6 +1,5 @@
-# MEDICATION GUIDE
+# Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs.)
 
-Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs.)
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
@@ -31,7 +30,7 @@ NSAID medicines should only be used:
 - at the lowest dose possible for your treatment
 - for the shortest time needed
 
-What are Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+_______________________________________________________ What are Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 NSAID medicines are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as:
 
 - different types of arthritis
@@ -54,7 +53,7 @@ Tell your healthcare provider:
 - if you are breastfeeding.
   Talk to your doctor.
 
-What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+_____________________________________________________________________ What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 Serious side effects include:
 
 - heart attack
@@ -116,7 +115,7 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 NSAID medicines that need a prescription
 
-| Generic Name | Tradename |
+| Generic Name | Trade Name |
 | --- | --- |
 | Celecoxib | Celebrex |
 | Diclofenac | Cataflam, Voltaren, Arthrotec (combined with misoprostol) |
@@ -139,4 +138,4 @@ NSAID medicines that need a prescription
 | * Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC label warns that long-term continuous use may increase the risk of heart attack or stroke. |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 09/2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 03/2012

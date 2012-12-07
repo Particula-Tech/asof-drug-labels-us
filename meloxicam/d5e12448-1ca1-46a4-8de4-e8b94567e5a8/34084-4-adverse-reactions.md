@@ -14,7 +14,11 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 ## 6.1 Clinical Trials Experience
 
-Osteoarthritis and Rheumatoid Arthritis The meloxicam Phase 2/3 clinical trial database includes 10,122 OA patients and 1012 RA patients treated with meloxicam 7.5 mg/day, 3505 OA patients and 1351 RA patients treated with meloxicam 15 mg/day.
+Adults
+
+Osteoarthritis and Rheumatoid Arthritis
+
+The meloxicam Phase 2/3 clinical trial database includes 10,122 OA patients and 1012 RA patients treated with meloxicam 7.5 mg/day, 3505 OA patients and 1351 RA patients treated with meloxicam 15 mg/day.
 Meloxicam at these doses was administered to 661 patients for at least 6 months and to 312 patients for at least one year.
 Approximately 10,500 of these patients were treated in ten placebo- and/or active-controlled osteoarthritis trials and 2363 of these patients were treated in ten placebo- and/or active-controlled rheumatoid arthritis trials.
 Gastrointestinal (GI) adverse events were the most frequently reported adverse events in all treatment groups across meloxicam trials.
@@ -23,9 +27,9 @@ Two 12-week multicenter, double-blind, randomized trials were conducted in patie
 Table 1a depicts adverse events that occurred in ≥2% of the meloxicam treatment groups in a 12-week placebo- and active-controlled osteoarthritis trial.
 Table 1b depicts adverse events that occurred in ≥2% of the meloxicam treatment groups in two 12-week placebo- controlled rheumatoid arthritis trials.
 
-Table 1a Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in a 12-Week Osteoarthritis Pacebo- and Active-Controlled Trail
+Table 1a Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in a 12-Week Osteoarthritis Placebo- and Active-Controlled Trial
 
-|  | Placebo | Meloxicam 7.5 mg daily | Meloxicam15 mg daily | Diclofenac 100 mg daily |
+|  | Placebo | Meloxicam 7.5 mg daily | Meloxicam 15 mg daily | Diclofenac 100 mg daily |
 | --- | --- | --- | --- | --- |
 | No. of Patients | 157 | 154 | 156 | 153 |
 | Gastrointestinal | 17.2 | 20.1 | 17.3 | 28.1 |
@@ -51,7 +55,7 @@ Table 1a Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in a 12-Wee
 
 Table 1b Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in two 12-Week Rheumatoid Arthritis Placebo-Controlled Trials
 
-|  | Placebo | Meloxicam7.5 mg daily | Meloxicam15 mg daily |
+|  | Placebo | Meloxicam 7.5 mg daily | Meloxicam 15 mg daily |
 | --- | --- | --- | --- |
 | No. of Patients | 469 | 481 | 477 |
 | Gastrointestinal Disorders | 14.1 | 18.9 | 16.8 |
@@ -74,9 +78,9 @@ The adverse events that occurred with meloxicam in ≥2% of patients treated sho
 
 Table 2 Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in 4 to 6 Weeks and 6 Month Active-Controlled Osteoarthritis Trials
 
-|  | Meloxicam 7.5 mg daily | Meloxicam 15 mg daily | Meloxicam 7.5 mg daily | Meloxicam 15 mg daily |
-| --- | --- | --- | --- | --- |
 |  | 4 to 6 Weeks Controlled Trials |  | 6 Month Controlled Trials |  |
+| --- | --- | --- | --- | --- |
+| Meloxicam 7.5 mg daily | Meloxicam 15 mg daily | Meloxicam 7.5 mg daily | Meloxicam15 mg daily |  |
 | No. of Patients | 8955 | 256 | 169 | 306 |
 | Gastrointestinal | 11.8 | 18 | 26.6 | 24.2 |
 | Abdominal pain | 2.7 | 2.3 | 4.7 | 2.9 |
