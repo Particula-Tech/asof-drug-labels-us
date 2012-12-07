@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA091115"
+  ],
+  "inn": "rocuronium",
+  "labeler": "X-GEN Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "39822-4200-1",
+    "39822-4200-2",
+    "39822-4200-5",
+    "39822-4200-6"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "rocuronium bromide",
+      "name": "rocuronium bromide"
+    }
+  ],
+  "setid": "b73f192c-2912-4ec3-9b4f-05a58d9b35ba",
+  "source": "dailymed"
+}
