@@ -1,8 +1,7 @@
 # ADVERSE REACTIONS
 
 Nystatin is well tolerated even with prolonged therapy.
-Oral irritation and sensitization have been reported.
-(See PRECAUTIONS: General.)
+Oral irritation and sensitization have been reported (see PRECAUTIONS, General).
 
 ## Gastrointestinal
 

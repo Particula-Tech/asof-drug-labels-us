@@ -8,7 +8,7 @@ In patients with renal insufficiency receiving oral therapy with conventional do
 
 ## Microbiology
 
-Nystatin is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast‑like fungi.
+Nystatin is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast like fungi.
 Candida albicans demonstrates no significant resistance to nystatin in vitro on repeated subculture in increasing levels of nystatin; other Candida species become quite resistant.
 Generally, resistance does not develop in vivo.
 Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components.
