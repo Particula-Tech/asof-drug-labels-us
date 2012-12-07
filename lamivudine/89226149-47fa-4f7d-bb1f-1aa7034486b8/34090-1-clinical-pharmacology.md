@@ -12,7 +12,7 @@ The pharmacokinetic properties of lamivudine have also been studied as single an
 
 The steady-state pharmacokinetic properties of the EPIVIR 300-mg tablet once daily for 7 days compared with the EPIVIR 150-mg tablet twice daily for 7 days were assessed in a crossover study in 60 healthy volunteers.
 EPIVIR 300 mg once daily resulted in lamivudine exposures that were similar to EPIVIR 150 mg twice daily with respect to plasma AUC24,ss; however, Cmax,ss was 66% higher and the trough value was 53% lower compared with the 150-mg twice-daily regimen.
-Intracellular lamivudine triphosphate exposures in peripheral blood mononuclear cells were also similar with respect to AUC24,ss and Cmax24,ss; however, trough values were lower compared with the 150-mg twice-daily regimen.
+Intracellular lamivudine triphosphate exposures in peripheral blood mononuclear cells were also similar with respect to AUC24,ssand Cmax24,ss; however, trough values were lower compared with the 150-mg twice-daily regimen.
 Inter-subject variability was greater for intracellular lamivudine triphosphate concentrations versus lamivudine plasma trough concentrations.
 The clinical significance of observed differences for both plasma lamivudine concentrations and intracellular lamivudine triphosphate concentrations is not known.
 

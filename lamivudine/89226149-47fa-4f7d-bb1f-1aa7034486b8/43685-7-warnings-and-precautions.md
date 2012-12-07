@@ -18,7 +18,7 @@ The causal relationship to discontinuation of lamivudine treatment is unknown.
 Patients should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
 There is insufficient evidence to determine whether re-initiation of lamivudine alters the course of posttreatment exacerbations of hepatitis.
 
-Important Differences Among Lamivudine-Containing Products: EPIVIR Tablets and Oral Solution contain a higher dose of the same active ingredient (lamivudine) than EPIVIR-HBV Tablets and EPIVIR-HBV Oral Solution.
+Important Differences AmongLamivudine-Containing Products: EPIVIR Tablets and Oral Solution contain a higher dose of the same active ingredient (lamivudine) than EPIVIR-HBV Tablets and EPIVIR-HBV Oral Solution.
 EPIVIR-HBV was developed for patients with chronic hepatitis B. The formulation and dosage of lamivudine in EPIVIR-HBV are not appropriate for patients co-infected with HIV-1 and HBV.
 Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in patients co-infected with HIV-1 and HBV.
 If treatment with EPIVIR-HBV is prescribed for chronic hepatitis B for a patient with unrecognized or untreated HIV-1 infection, rapid emergence of HIV-1 resistance is likely to result because of the subtherapeutic dose and the inappropriateness of monotherapy HIV-1 treatment.
@@ -48,7 +48,7 @@ Treatment with EPIVIR should be stopped immediately if clinical signs, symptoms,
 ## 5.6 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EPIVIR.
-During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystisjiroveciipneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
 

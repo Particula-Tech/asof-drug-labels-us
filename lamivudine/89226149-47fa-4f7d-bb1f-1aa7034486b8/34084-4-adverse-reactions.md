@@ -2,10 +2,11 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
-- Severe acute exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
-- Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.4)].
-- Pancreatitis [see Warnings and Precautions (5.5)].
+- •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
+- •Severe acute exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
+- •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.4)].
+- •Pancreatitis [see Warnings and Precautions (5.5)].
+- 
 
 ## 6.1 Clinical Trials Experience
 

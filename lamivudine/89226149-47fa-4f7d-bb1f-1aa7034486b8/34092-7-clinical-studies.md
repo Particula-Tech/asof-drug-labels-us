@@ -27,8 +27,7 @@ Dose Regimen Comparison Surrogate Endpoint Studies in Therapy-Naive Adults: EPV2
 A total of 554 antiretroviral treatment-naive HIV-1-infected adults enrolled: male (79%), Caucasian (50%), median age of 35 years, baseline CD4+ cell counts of 69 to 1,089 cells/mm3 (median = 362 cells/mm3), and median baseline plasma HIV-1 RNA of 4.66 log10 copies/mL.
 Outcomes of treatment through 48 weeks are summarized in Figure 2 and Table 9.
 
-Figure 2.
-Virologic Response Through Week 48, EPV20001ab(Intent-to-Treat)
+Figure 2.Virologic Response Through Week 48, EPV20001ab(Intent-to-Treat)
 
 a Roche AMPLICOR HIV-1 MONITOR.
 
@@ -49,7 +48,7 @@ Outcomes of Randomized Treatment Through 48 Weeks (Intent-to-Treat)
 | c Includes consent withdrawn, lost to followup, protocol violation, data outside the study-defined schedule, and randomized but never initiated treatment. |  |  |
 
 The proportions of patients with HIV-1 RNA <50 copies/mL (via Roche Ultrasensitive assay) through Week 48 were 61% for patients receiving EPIVIR 300 mg once daily and 63% for patients receiving EPIVIR 150 mg twice daily.
-Median increases in CD4+ cell counts were 144 cells/mm3 at Week 48 in patients receiving EPIVIR 300 mg once daily and 146 cells/mm3 for patients receiving EPIVIR 150 mg twice daily.
+Median increases in CD4+ cell counts were 144 cells/mm3 at Week 48 in patients receiving EPIVIR 300 mg once daily and 146 cells/mm3for patients receiving EPIVIR 150 mg twice daily.
 
 A small, randomized, open-label pilot study, EPV40001, was conducted in Thailand.
 A total of 159 treatment-naive adult patients (male 32%, Asian 100%, median age 30 years, baseline median CD4+ cell count 380 cells/mm3, median plasma HIV-1 RNA 4.8 log10 copies/mL) were enrolled.
