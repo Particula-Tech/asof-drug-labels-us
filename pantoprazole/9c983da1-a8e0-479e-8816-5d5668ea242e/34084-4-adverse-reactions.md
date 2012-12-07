@@ -56,14 +56,22 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 These adverse reactions are listed below by body system:
 
-Immune System Disorders: anaphylaxis (including anaphylactic shock)
-
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke's edema)
-
-Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis, bone fracture
-
-Renal and Urinary Disorders: interstitial nephritis
+General Disorders and Administration Conditions: asthenia, fatigue, malaise
 
 Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
 
-Psychiatric Disorders: hallucination, confusion
+Immune System Disorders: anaphylaxis (including anaphylactic shock)
+
+Infections and Infestations: Clostridium difficile associated diarrhea
+
+Investigations: weight changes
+
+Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
+
+Musculoskeletal Disorders: rhabdomyolysis, bone fracture
+
+Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
+
+Renal and Urinary Disorders: interstitial nephritis
+
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke's edema)

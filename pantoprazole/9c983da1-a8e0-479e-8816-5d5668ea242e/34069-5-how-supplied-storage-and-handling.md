@@ -1,5 +1,7 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
+How Supplied
+
 Pantoprazole sodium delayed-release tablets, USP are supplied as 20 mg white to pale yellow colored, oval shape, biconvex, enteric-coated tablets, plain on one side and "96" printed with brown ink on the other side.
 
 They are available as follows:
