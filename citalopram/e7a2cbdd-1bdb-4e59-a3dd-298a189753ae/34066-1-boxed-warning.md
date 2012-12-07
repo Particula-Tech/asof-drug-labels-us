@@ -9,4 +9,4 @@ Families and caregivers should be advised of the need for close observation and 
 Citalopram is not approved for use in pediatric patients.
 (See WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use.)
 
-If you take citalopram hydrobromide oral solution, you should not take any other medicines that contain citalopram hydrobromide or escitalopram oxalate including: Lexapro.
+If you take citalopram oral solution, you should not take any other medicines that contain citalopram hydrobromide or escitalopram oxalate including: Lexapro.

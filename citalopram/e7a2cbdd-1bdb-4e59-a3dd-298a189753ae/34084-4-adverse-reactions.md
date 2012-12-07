@@ -43,7 +43,7 @@ TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clini
 | Citalopram (N=1063) | Placebo (N=446) |  |
 | --- | --- | --- |
 | Body System/Adverse Event | (Percentage of Patients Reporting Event) |  |
-| Autonomic Nervous System Disorders |  |  |
+| Autonomic Nervous SystemDisorders |  |  |
 | Dry Mouth | 20% | 14% |
 | Sweating Increased | 11% | 9% |
 | Central & Peripheral Nervous System Disorders |  |  |

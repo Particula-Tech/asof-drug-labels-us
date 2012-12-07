@@ -13,4 +13,4 @@ In dogs, peak DDCT plasma concentrations are approximately equal to peak CT plas
 Assays of DDCT plasma concentrations in 2020 citalopram-treated individuals demonstrated that DDCT levels rarely exceeded 70 nM; the highest measured level of DDCT in human overdose was 138 nM.
 While DDCT is ordinarily present in humans at lower levels than in dogs, it is unknown whether there are individuals who may achieve higher DDCT levels.
 The possibility that DCT, a principal metabolite in humans, may prolong the QT interval in dogs has not been directly examined because DCT is rapidly converted to DDCT in that species.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 04/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 06/2012

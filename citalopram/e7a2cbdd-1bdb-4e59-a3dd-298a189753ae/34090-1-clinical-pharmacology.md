@@ -4,7 +4,7 @@ Pharmacodynamics The mechanism of action of citalopram hydrobromide as an antide
 In vitro and in vivo studies in animals suggest that citalopram is a highly selective serotonin reuptake inhibitor (SSRI) with minimal effects on norepinephrine (NE) and dopamine (DA) neuronal reuptake.
 Tolerance to the inhibition of 5-HT uptake is not induced by long-term (14-day) treatment of rats with citalopram.
 Citalopram is a racemic mixture (50/50), and the inhibition of 5-HT reuptake by citalopram is primarily due to the (S)-enantiomer.
-Citalopram has no or very low affinity for 5-HT 1A, 5-HT 2A , dopamine D 1 and D 2, α 1 -, α 2 -, and β-adrenergic, histamine H 1 , gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
+Citalopram has no or very low affinity for 5-HT 1A, 5-HT 2A , dopamine D 1 and D 2, ⛙ 1 -, ⛙ 2 -, and ⛚-adrenergic, histamine H 1 , gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
 Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects of other psychotropic drugs.
 Pharmacokinetics The single- and multiple-dose pharmacokinetics of citalopram are linear and dose-proportional in a dose range of 10 to 60 mg/day.
 Biotransformation of citalopram is mainly hepatic, with a mean terminal half-life of about 35 hours.

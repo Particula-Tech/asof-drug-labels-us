@@ -5,5 +5,5 @@ Citalopram hydrobromide is a racemic bicyclic phthalane derivative designated (Â
 Citalopram hydrobromide USP occurs as a fine, white to off-white powder.
 Citalopram hydrobromide is sparingly soluble in water and soluble in ethanol.
 Citalopram hydrobromide is available as an oral solution.
-Citalopram hydrobromide oral solution contains citalopram hydrobromide USP equivalent to 2 mg/mL citalopram base.
+Citalopram oral solution, USP contains citalopram hydrobromide USP equivalent to 2 mg/mL citalopram base.
 It also contains the following inactive ingredients: non crystallizing sorbitol solution, purified water, propylene glycol, methylparaben, natural peppermint flavor, and propylparaben.
