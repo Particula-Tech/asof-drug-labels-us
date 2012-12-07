@@ -1,3 +1,5 @@
+diclofenac sodium-3%
+
 Rx Only
 
 FOR DERMATOLOGIC USE ONLY.
