@@ -8,7 +8,7 @@ The patient denied any clinical symptoms during this period.
 
 In the event of overdosage, appropriate supportive treatment should be initiated according to the patient's clinical signs and symptoms.
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 Overdose of metformin hydrochloride has occurred, including ingestion of amounts greater than 50 grams.
 Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin hydrochloride has been established.

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ACTOPLUS MET (pioglitazone hydrochloride and metformin hydrochloride) tablets contain two oral antidiabetic medications used in the management of type 2 diabetes: pioglitazone hydrochloride and metformin hydrochloride.
+ACTOPLUS MET (pioglitazone and metformin hydrochloride) tablets contain two oral antidiabetic medications used in the management of type 2 diabetes: pioglitazone hydrochloride and metformin hydrochloride.
 
 Pioglitazone [(±)-5-[[4-[2-(5-ethyl-2-pyridinyl) ethoxy]phenyl]methyl]-2,4-] thiazolidinedione monohydrochloride contains one asymmetric carbon, and the compound is synthesized and used as the racemic mixture.
 The two enantiomers of pioglitazone interconvert in vivo.
@@ -16,4 +16,4 @@ The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
 The structural formula is as shown:
 
-ACTOPLUS MET is available as a tablet for oral administration containing 15 mg pioglitazone hydrochloride (as the base) with 500 mg metformin hydrochloride (15 mg/500 mg) or 15 mg pioglitazone hydrochloride (as the base) with 850 mg metformin hydrochloride (15 mg/850 mg) formulated with the following excipients: povidone USP, microcrystalline cellulose NF, croscarmellose sodium NF, magnesium stearate NF, hypromellose 2910 USP, polyethylene glycol 8000 NF, titanium dioxide USP, and talc USP.
+ACTOPLUS MET is available as a tablet for oral administration containing 15 mg pioglitazone (as the base) with 500 mg metformin hydrochloride (15 mg/500 mg) or 15 mg pioglitazone (as the base) with 850 mg metformin hydrochloride (15 mg/850 mg) formulated with the following excipients: povidone USP, microcrystalline cellulose NF, croscarmellose sodium NF, magnesium stearate NF, hypromellose 2910 USP, polyethylene glycol 8000 NF, titanium dioxide USP, and talc USP.

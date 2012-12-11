@@ -13,13 +13,15 @@ If congestive heart failure develops, it should be managed according to current 
 
 Metformin hydrochloride
 
-Lactic Acidosis: Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with ACTOPLUS MET and, it is fatal in approximately 50% of cases.
+Lactic Acidosis
+
+Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with ACTOPLUS MET and, it is fatal in approximately 50% of cases.
 Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
-Lactic acidosis is characterized by elevated blood lactate concentrations (> 5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
-When metformin is implicated as the cause of lactic acidosis, metformin plasma levels > 5 µg/mL are generally found.
+Lactic acidosis is characterized by elevated blood lactate concentrations (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
+When metformin is implicated as the cause of lactic acidosis, metformin plasma levels >5 mcg/mL are generally found.
 
 The reported incidence of lactic acidosis in patients receiving metformin hydrochloride is approximately 0.03 cases/1000 patient-years, with approximately 0.015 fatal cases/1000 patient-years.
-In more than 20,000 patient-years exposure to metformin in clinical trials, there were no reports of lactic acidosis.
+In more than 20,000 patient-years, exposure to metformin in clinical trials, there were no reports of lactic acidosis.
 Reported cases have occurred primarily in diabetic patients with significant renal impairment, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
 Patients with congestive heart failure requiring pharmacologic management, particularly when accompanied by hypoperfusion and hypoxemia, are at increased risk of lactic acidosis.
 The risk of lactic acidosis increases with the degree of renal dysfunction and the patient's age.
@@ -60,7 +62,7 @@ Patients treated with ACTOPLUS MET should be monitored for signs and symptoms of
 
 ## 5.4 Hepatic Effects
 
-There have been postmarketing reports of fatal and non-fatal hepatic failure in patients taking pioglitazone, although the reports contain insufficient information necessary to establish the probable cause.
+There have been postmarketing reports of fatal and nonfatal hepatic failure in patients taking pioglitazone, although the reports contain insufficient information necessary to establish the probable cause.
 There has been no evidence of drug-induced hepatotoxicity in the pioglitazone controlled clinical trial database to date [see Adverse Reactions (6.1)].
 
 Patients with type 2 diabetes may have fatty liver disease or cardiac disease with episodic congestive heart failure, both of which may cause liver test abnormalities, and they may also have other forms of liver disease, many of which can be treated or managed.
@@ -92,17 +94,17 @@ Tumors were observed in the urinary bladder of male rats in the two-year carcino
 In two 3-year trials in which pioglitazone was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone compared to 5/3679 (0.14%) in patients not taking pioglitazone.
 After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on pioglitazone and two (0.05%) cases on placebo.
 
-A five-year interim report of an ongoing 10-year observational cohort study found a non-significant increase in the risk for bladder cancer in subjects ever exposed to pioglitazone, compared to subjects never exposed to pioglitazone (HR 1.2 [95% CI 0.9 – 1.5]).
+A five-year interim report of an ongoing 10-year observational cohort study found a nonsignificant increase in the risk for bladder cancer in subjects ever exposed to pioglitazone, compared to subjects never exposed to pioglitazone (HR 1.2 [95% CI 0.9 – 1.5]).
 Compared to never exposure, a duration of pioglitazone therapy longer than 12 months was associated with an increase in risk (HR 1.4 [95% CI 0.9 – 2.1]), which reached statistical significance after more than 24 months of pioglitazone use (HR 1.4 [95% CI 1.03 – 2.0]).
-Interim results from this study suggested that taking pioglitazone longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40% which equates to an absolute increase of 3 cases in 10,000 (from approximately 7 in 10,000 [without pioglitazone] to approximately 10 in 10,000 [with pioglitazone]).
+Interim results from this study suggested that taking pioglitazone longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40%, which equates to an absolute increase of three cases in 10,000 (from approximately seven in 10,000 [without pioglitazone] to approximately 10 in 10,000 [with pioglitazone]).
 
 There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
 Consequently, ACTOPLUS MET should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with ACTOPLUS MET should be considered in patients with a prior history of bladder cancer.
 
 ## 5.7 Hypoglycemia
 
-Patients receiving ACTOPLUS MET in combination with insulin or other anti-diabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia.
-A reduction in the dose of the concomitant anti-diabetic medication may be necessary to reduce the risk of hypoglycemia [see Dosage and Administration (2.2)].
+Patients receiving ACTOPLUS MET in combination with insulin or other antidiabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia.
+A reduction in the dose of the concomitant antidiabetic medication may be necessary to reduce the risk of hypoglycemia [see Dosage and Administration (2.2)].
 
 Hypoglycemia can also occur when caloric intake is deficient or when strenuous exercise is not compensated by caloric supplement.
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
@@ -134,9 +136,11 @@ Therefore, ACTOPLUS MET is contraindicated in patients with renal impairment.
 Before initiation of therapy with ACTOPLUS MET and at least annually thereafter, renal function should be assessed and verified as normal.
 In patients in whom development of renal dysfunction is anticipated (e.g., elderly), renal function should be assessed more frequently and ACTOPLUS MET discontinued if evidence of renal impairment is present.
 
-Use of concomitant medications that may affect renal function or metformin disposition: Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion, should be used with caution [see Clinical Pharmacology (12.3)].
+Use of Concomitant Medications That May Affect Renal Function or Metformin Disposition
 
-Radiological studies and surgical procedures:
+Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion, should be used with caution [see Clinical Pharmacology (12.3)].
+
+Radiological Studies and Surgical Procedures
 
 Radiologic studies involving the use of intravascular iodinated contrast materials (for example, intravenous urogram, intravenous cholangiography, angiography, and computed tomography (CT) scans with intravascular contrast materials) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin [see Contraindications (4)].
 Therefore, in patients in whom any such study is planned, ACTOPLUS MET should be discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been re-evaluated and found to be normal.
@@ -157,12 +161,12 @@ Patients, therefore, should be warned against excessive alcohol intake, acute or
 
 ## 5.14 Vitamin B12 Levels
 
-In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12 -intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
+In controlled clinical trials of metformin of 29 weeks’ duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Measurement of hematologic parameters on an annual basis is advised in patients on ACTOPLUS MET and any apparent abnormalities should be appropriately investigated and managed.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurements at two- to three-year intervals may be useful.
 
 ## 5.15 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOPLUS MET or any other oral anti-diabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOPLUS MET or any other oral antidiabetic drug.
