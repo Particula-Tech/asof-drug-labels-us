@@ -31,13 +31,13 @@ Acceleration of ventricular rate and/or ventricular fibrillation has been report
 Verapamil has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis.
 It is not known whether this action is important at the doses used in man.
 
-Essential hypertension: Verapamil exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/min) is uncommon (1.4%).
-During isometric or dynamic exercise verapamil does not alter systolic cardiac function in patients with normal ventricular function.
+Essential hypertension:Verapamil exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/min) is uncommon (1.4%).
+During isometric or dynamic exercise, verapamil does not alter systolic cardiac function in patients with normal ventricular function.
 
 Verapamil does not alter total serum calcium levels.
 However, one report suggested that calcium levels above the normal range may alter the therapeutic effect of verapamil.
 
-## Pharmacokinetics and metabolism
+## Pharmacokinetics and metabolism:
 
 More than 90% of the orally administered dose of verapamil hydrochloride is absorbed.
 Because of rapid biotransformation of verapamil during its first pass through the portal circulation, bioavailability ranges from 20% to 35%.
@@ -60,17 +60,17 @@ Approximately 70% of an administered dose is excreted as metabolites in the urin
 About 3% to 4% is excreted in the urine as unchanged drug.
 Approximately 90% is bound to plasma proteins.
 In patients with hepatic insufficiency, metabolism is delayed and elimination half-life prolonged up to 14 to 16 hours (see PRECAUTIONS); the volume of distribution is increased and plasma clearance reduced to about 30% of normal.
-Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one third of the oral daily dose required for patients with normal liver functions.
+Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one third of the oral daily dose required for patients with normal liver function.
 
 After four weeks of oral dosing (120 mg q.i.d.), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil.
 
-## Hemodynamics and myocardial metabolism
+## Hemodynamics and myocardial metabolism:
 
 Verapamil reduces afterload and myocardial contractility.
-Improved left ventricular diastolic function in patients with IHSS and those with coronary heart disease has also been observed with verapamil hydrochloride therapy.
+Improved left ventricular diastolic function in patients with Idiopathic Hypertrophic Subaortic Stenosis (IHSS) and those with coronary heart disease has also been observed with verapamil hydrochloride therapy.
 In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil is countered by reduction of afterload, and cardiac index is usually not reduced.
-However, in patients with severe left ventricular dysfunction (e.g., pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur (see Drug interactions).
+However, in patients with severe left ventricular dysfunction (e.g., pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur (see PRECAUTIONS, Drug interactions).
 
-## Pulmonary function
+## Pulmonary function:
 
 Verapamil does not induce bronchoconstriction and, hence, does not impair ventilatory function.

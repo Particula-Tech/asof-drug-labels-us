@@ -14,7 +14,7 @@ The following reactions to orally administered verapamil occurred at rates great
 | Edema | 1.9% | 2° and 3° | 0.8% |
 | CHF,Pulmonary edema | 1.8% | Rash | 1.2% |
 | Fatigue | 1.7% | Flushing | 0.6% |
-| Elevated liver enzymes(see WARNINGS) |  |  |  |
+| Elevated liver enzymes (see WARNINGS) |  |  |  |
 
 In clinical trials related to the control of ventricular response in digitalized patients who had atrial fibrillation or flutter, ventricular rates below 50 at rest occurred in 15% of patients and asymptomatic hypotension occurred in 5% of patients.
 
@@ -26,18 +26,18 @@ Digestive system: diarrhea, dry mouth, gastrointestinal distress, gingival hyper
 
 Hemic and lymphatic: ecchymosis or bruising.
 
-Nervous system: cerebrovascular accident, confusion, equilibrium disorders, insomnia, muscle cramps, paresthesia, psychotic symptoms, shakiness, somnolence.
+Nervous system: cerebrovascular accident, confusion, equilibrium disorders, insomnia, muscle cramps, paresthesia, psychotic symptoms, shakiness, somnolence, extrapyramidal symptoms.
 
-Skin: arthralgia and rash, exanthema, hair loss, hyperkeratosis, maculae, sweating, urticaria, Stevens-Johnson syndrome, erythema multiforme.
+Skin: arthralgia and rash, exanthema, hair loss, hyperkeratosis, macules, sweating, urticaria, Stevens-Johnson syndrome, erythema multiforme.
 
 Special senses: blurred vision, tinnitus.
 
 Urogenital: gynecomastia, galactorrhea/hyperprolactinemia, increased urination, spotty menstruation, impotence.
 
-## Treatment of acute cardiovascular adverse reactions
+## Treatment of acute cardiovascular adverse reactions:
 
 The frequency of cardiovascular adverse reactions that require therapy is rare; hence, experience with their treatment is limited.
-Whenever severe hypotension or complete AV block occurs following oral administration of verapamil, the appropriate emergency measures should be applied immediately; e.g., intravenously administered norepinephrine bitartrate, atropine sulfate, isoproterenol hydrochloride (all in the usual doses), or calcium gluconate (10% injection).
+Whenever severe hypotension or complete AV block occurs following oral administration of verapamil, the appropriate emergency measures should be applied immediately; e.g., intravenously administered norepinephrine bitartrate, atropine sulfate, isoproterenol hydrochloride (all in the usual doses), or calcium gluconate (10% solution).
 In patients with hypertrophic cardiomyopathy (IHSS), alpha-adrenergic agents (phenylephrine hydrochloride, metaraminol bitartrate, or methoxamine hydrochloride) should be used to maintain blood pressure, and isoproterenol and norepinephrine should be avoided.
 If further support is necessary, dopamine hydrochloride or dobutamine hydrochloride may be administered.
 Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.
