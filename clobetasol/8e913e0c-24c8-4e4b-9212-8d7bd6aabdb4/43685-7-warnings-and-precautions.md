@@ -30,12 +30,12 @@ If a favorable response does not occur promptly, use of Olux Foam should be disc
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician and should not be used longer than the prescribed time period.
+1. 1.This medication is to be used as directed by the physician and should not be used longer than the prescribed time period.
    It is for external use only.
    Avoid contact with the eyes.
-2. This medication should not be used for any disorder other than that for which it was prescribed.
-3. The treated area should not be bandaged or otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
-4. Patients should report to their physician any signs of local adverse reactions.
+2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
+3. 3.The treated area should not be bandaged or otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
+4. 4.Patients should report to their physician any signs of local adverse reactions.
 
 ## Laboratory Tests
 
@@ -51,7 +51,7 @@ Urinary free cortisol test
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential of clobetasol propionate.
 
-Clobetasol propionate was non-mutagenic in three different test systems: the Ames test, the Saccharomyces cerevisiae gene conversion assay, and the E. coli B WP2 fluctuation test.
+Clobetasol propionate was non-mutagenic in three different test systems: the Ames test, the Saccharomycescerevisiaegene conversion assay, and the E. coli B WP2 fluctuation test.
 
 Studies in the rat following subcutaneous administration of clobetasol propionate at dosage levels up to 0.05 mg/kg per day revealed that the females exhibited an increase in the number of resorbed embryos and a decrease in the number of living fetuses at the highest dose.
 
