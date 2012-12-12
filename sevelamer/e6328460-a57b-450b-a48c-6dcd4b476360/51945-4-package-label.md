@@ -12,6 +12,10 @@ tablets
 
 Rx Only
 
+USUAL DOSAGE: SEE PACKAGE INSERT FOR DOSAGE INFORMATION.
+
+NDC 58468-0130-1
+
 Manufactured by: Genzyme Ireland Ltd. For: Genzyme Corporation 500 Kendall Street Cambridge, MA 02142 USA
 
 Package Label - Principal Display Panel - 2.4 g Packets, 90 per Carton
