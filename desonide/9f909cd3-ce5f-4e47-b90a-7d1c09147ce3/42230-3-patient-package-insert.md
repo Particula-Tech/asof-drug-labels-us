@@ -21,12 +21,12 @@ What should I tell my doctor before using Verdeso Foam?
 
 Before using Verdeso Foam, tell your doctor if you:
 
-- have a skin infection that is not healing
-- have had irritation or other skin reaction to a steroid medicine in the past
-- plan to have surgery
-- are pregnant or plan to become pregnant.
+- •have a skin infection that is not healing
+- •have had irritation or other skin reaction to a steroid medicine in the past
+- •plan to have surgery
+- •are pregnant or plan to become pregnant.
   It is not known if Verdeso Foam will harm your unborn baby.
-- are breastfeeding or plan to breast feed.
+- •are breastfeeding or plan to breast feed.
   It is not know if Verdeso Foam passes into your breast milk.
   If you use Verdeso Foam while breast-feeding, do not apply it to your chest area.
   This will help prevent your baby from swallowing Verdeso Foam.
@@ -39,16 +39,16 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
 
 How should I use Verdeso Foam?
 
-- Use Verdeso Foam exactly as prescribed.
+- •Use Verdeso Foam exactly as prescribed.
   Do not use more Verdeso Foam than is needed to cover the affected areas.
-- Do not get Verdeso Foam in your eyes, mouth, or vagina.
-- Verdeso Foam is usually applied to the affected skin areas 2 times each day.
-- Talk to your doctor if your skin does not improve after using Verdeso Foam for 4 weeks.
-- You should not use Verdeso Foam for more than 4 weeks in a row without talking with your doctor
-- Verdeso Foam contains alcohol.
+- •Do not get Verdeso Foam in your eyes, mouth, or vagina.
+- •Verdeso Foam is usually applied to the affected skin areas 2 times each day.
+- •Talk to your doctor if your skin does not improve after using Verdeso Foam for 4 weeks.
+- •You should not use Verdeso Foam for more than 4 weeks in a row without talking with your doctor
+- •Verdeso Foam contains alcohol.
   Alcohol based products are flammable.
   Avoid fire, flames or smoking while applying Verdeso foam to your skin and right after you apply it.
-  Applying Verdeso Foam.
+- Applying Verdeso Foam.
 
 1.
 Before applying Verdeso Foam for the first time, break the tiny plastic seal at the base of the nozzle by gently pushing it back away from the seal.
@@ -77,11 +77,11 @@ What are the possible side effects of Verdeso Foam?
 
 Common side effects of Verdeso Foam include:
 
-- upper respiratory tract infection
-- burning where you apply Verdeso Foam
-- cough
-- headache
-- increased blood pressure
+- •upper respiratory tract infection
+- •burning where you apply Verdeso Foam
+- •cough
+- •headache
+- •increased blood pressure
 
 Tell your doctor if you have any side effects that bother you or that do not go away.
 
