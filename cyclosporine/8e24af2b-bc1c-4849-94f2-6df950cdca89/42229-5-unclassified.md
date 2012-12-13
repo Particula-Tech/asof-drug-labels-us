@@ -1,1 +1,0 @@
-Sterile, Preservative-Free
