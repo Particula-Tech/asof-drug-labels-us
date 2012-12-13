@@ -23,5 +23,4 @@ In the original unit-dose container at controlled room temperature 68°-77°F (2
 
 Abbott Laboratories, North Chicago, IL 60064, U.S.A.
 
-Rev.
-07/2010
+03-A651 November, 2012

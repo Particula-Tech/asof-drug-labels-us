@@ -91,7 +91,7 @@ No clinically significant pharmacokinetic interactions occurred between cyclospo
 
 ### Special Populations
 
-#### Pediatric Population
+Pediatric Population
 
 Pharmacokinetic data from pediatric patients administered cyclosporine (MODIFIED) or Sandimmune® are very limited.
 In 15 renal transplant patients aged 3-16 years, cyclosporine whole blood clearance after IV administration of Sandimmune® was 10.6 ± 3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
@@ -114,6 +114,6 @@ In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioava
 | Age 7-15, Dosed BID (N = 5) | 328 ± 83 | 7.37 ± 4.11 | 6922 ± 1988 | 1827 ± 487 | 418 ± 143 | 8.7 ± 2.9 |
 | 1 AUC was measured over one dosing interval. 2 Assay:Cyclo-trac specific monoclonal radioimmunoassay. 3 Assay:TDx specific monoclonal fluorescence polarization immunoassay. |  |  |  |  |  |  |
 
-#### Geriatric Population
+Geriatric Population
 
 Comparison of single dose data from both normal elderly volunteers (N = 18, mean age 69 years) and elderly rheumatoid arthritis patients (N = 16, mean age 68 years) to single dose data in young adult volunteers (N = 16, mean age 26 years) showed no significant difference in the pharmacokinetic parameters.
