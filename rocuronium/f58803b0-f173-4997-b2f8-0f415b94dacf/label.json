@@ -5,8 +5,10 @@
   "inn": "rocuronium",
   "labeler": "Mylan Institutional LLC",
   "package_ndcs": [
+    "67457-228-00",
     "67457-228-05",
-    "67457-228-10"
+    "67457-228-10",
+    "67457-228-99"
   ],
   "products": [
     {
