@@ -33,10 +33,10 @@ Patheon Puerto Rico, Inc.
 
 Manati, PR 00674, USA
 
+Made in Ireland.
+
 10000000059853 Rev.
 9/08
-
-Made in Ireland.
 
 PRINCIPAL DISPLAY PANEL
 
@@ -73,10 +73,10 @@ Patheon Puerto Rico, Inc.
 
 Manati, PR 00674, USA
 
+Made in Ireland.
+
 10000000059854 Rev.
 9/08
-
-Made in Ireland.
 
 PRINCIPAL DISPLAY PANEL
 
@@ -113,10 +113,10 @@ Patheon Puerto Rico, Inc.
 
 Manati, PR 00674, USA
 
+Made in Ireland.
+
 10000000059855 Rev.
 9/08
-
-Made in Ireland.
 
 PRINCIPAL DISPLAY PANEL
 
@@ -152,6 +152,8 @@ Manufactured by
 Patheon Puerto Rico, Inc.
 
 Manati, PR 00674, USA
+
+Made in Ireland
 
 10000000059856 Rev.
 9/08

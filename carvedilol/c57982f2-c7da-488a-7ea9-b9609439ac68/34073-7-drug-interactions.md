@@ -30,7 +30,7 @@ Therefore, increased monitoring of digoxin is recommended when initiating, adjus
 ## 7.5 Inducers/Inhibitors of Hepatic Metabolism
 
 Rifampin reduced plasma concentrations of carvedilol by about 70% [see Clinical Pharmacology (12.5)].
-Cimetidine increased AUC by about 30% but caused no change in Cmax [see Clinical Pharmacology (12.5)].
+Cimetidine increased AUC by about 30% but caused no change in Cmax[see Clinical Pharmacology (12.5)].
 
 ## 7.6 Amiodarone
 

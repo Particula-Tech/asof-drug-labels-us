@@ -14,9 +14,9 @@ What is COREG?
 COREG is a prescription medicine that belongs to a group of medicines called “beta-blockers”.
 COREG is used, often with other medicines, for the following conditions:
 
-- To treat patients with certain types of heart failure
-- To treat patients who had a heart attack that worsened how well the heart pumps
-- To treat patients with high blood pressure (hypertension)
+- •To treat patients with certain types of heart failure
+- •To treat patients who had a heart attack that worsened how well the heart pumps
+- •To treat patients with high blood pressure (hypertension)
 
 COREG is not approved for use in children under 18 years of age.
 
@@ -24,11 +24,11 @@ Who should not take COREG?
 
 Do not take COREG if you:
 
-- Have severe heart failure and are hospitalized in the intensive care unit or require certain intravenous medications that help support circulation (inotropic medications)
-- Are prone to asthma or other breathing problems
-- Have a slow heartbeat or a heart that skips a beat (irregular heartbeat)
-- Have liver problems
-- Are allergic to any of the ingredients in COREG.
+- •Have severe heart failure and are hospitalized in the intensive care unit or require certain intravenous medications that help support circulation (inotropic medications)
+- •Are prone to asthma or other breathing problems
+- •Have a slow heartbeat or a heart that skips a beat (irregular heartbeat)
+- •Have liver problems
+- •Are allergic to any of the ingredients in COREG.
   The active ingredient is carvedilol.
   See the end of this leaflet for a list of all the ingredients in COREG.
 
@@ -36,21 +36,21 @@ What should I tell my doctor before taking COREG?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- Have asthma or other lung problems (such as bronchitis or emphysema)
-- Have problems with blood flow in your feet and legs (peripheral vascular disease) COREG can make some of your symptoms worse.
-- Have diabetes
-- Have thyroid problems
-- Have a condition called pheochromocytoma
-- Have had severe allergic reactions
-- Are pregnant or trying to become pregnant.
+- •Have asthma or other lung problems (such as bronchitis or emphysema)
+- •Have problems with blood flow in your feet and legs (peripheral vascular disease) COREG can make some of your symptoms worse.
+- •Have diabetes
+- •Have thyroid problems
+- •Have a condition called pheochromocytoma
+- •Have had severe allergic reactions
+- •Are pregnant or trying to become pregnant.
   It is not known if COREG is safe for your unborn baby.
   You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
-- Are breastfeeding.
+- •Are breastfeeding.
   It is not known if COREG passes into your breast milk.
   You should not breastfeed while using COREG.
-- Are scheduled for surgery and will be given anesthetic agents
-- Are scheduled for cataract surgery and have taken or are currently taking COREG.
-- Are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
+- •Are scheduled for surgery and will be given anesthetic agents
+- •Are scheduled for cataract surgery and have taken or are currently taking COREG.
+- •Are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
   COREG and certain other medicines can affect each other and cause serious side effects.
   COREG may affect the way other medicines work.
   Also, other medicines may affect how well COREG works.
@@ -64,35 +64,35 @@ It is important for you to take your medicine every day as directed by your doct
 If you stop taking COREG suddenly, you could have chest pain and/or a heart attack.
 If your doctor decides that you should stop taking COREG, your doctor may slowly lower your dose over a period of time before stopping it completely.
 
-- Take COREG exactly as prescribed.
+- •Take COREG exactly as prescribed.
   Your doctor will tell you how many tablets to take and how often.
   In order to minimize possible side effects, your doctor might begin with a low dose and then slowly increase the dose.
-- Do not stop taking COREG and do not change the amount of COREG you take without talking to your doctor.
-- Tell your doctor if you gain weight or have trouble breathing while taking COREG.
-- Take COREG with food.
-- If you miss a dose of COREG, take your dose as soon as you remember, unless it is time to take your next dose.
+- •Do not stop taking COREG and do not change the amount of COREG you take without talking to your doctor.
+- •Tell your doctor if you gain weight or have trouble breathing while taking COREG.
+- •Take COREG with food.
+- •If you miss a dose of COREG, take your dose as soon as you remember, unless it is time to take your next dose.
   Take your next dose at the usual time.
   Do not take 2 doses at the same time.
-- If you take too much COREG, call your doctor or poison control center right away.
+- •If you take too much COREG, call your doctor or poison control center right away.
 
 What should I avoid while taking COREG?
 
-- COREG can cause you to feel dizzy, tired, or faint.
+- •COREG can cause you to feel dizzy, tired, or faint.
   Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
 
 What are possible side effects of COREG?
 
-- Low blood pressure (which may cause dizziness or fainting when you stand up).
+- •Low blood pressure (which may cause dizziness or fainting when you stand up).
   If these happen, sit or lie down right away and tell your doctor.
-- Tiredness.
+- •Tiredness.
   If you feel tired or dizzy you should not drive, use machinery, or do anything that needs you to be alert.
-- Slow heartbeat.
-- Changes in your blood sugar.
+- •Slow heartbeat.
+- •Changes in your blood sugar.
   If you have diabetes, tell your doctor if you have any changes in your blood sugar levels.
-- COREG may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
-- COREG may mask the symptoms of hyperthyroidism (overactive thyroid).
-- Worsening of severe allergic reactions.
-- Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on COREG.
+- •COREG may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
+- •COREG may mask the symptoms of hyperthyroidism (overactive thyroid).
+- •Worsening of severe allergic reactions.
+- •Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on COREG.
   These reactions can be life-threatening.
 
 Other side effects of COREG include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
@@ -101,10 +101,10 @@ Call your doctor if you have any side effects that bother you or don’t go away
 
 How should I store COREG?
 
-- Store COREG at less than 86°F (30°C).
+- •Store COREG at less than 86°F (30°C).
   Keep the tablets dry.
-- Safely, throw away COREG that is out of date or no longer needed.
-- Keep COREG and all medicines out of the reach of children.
+- •Safely, throw away COREG that is out of date or no longer needed.
+- •Keep COREG and all medicines out of the reach of children.
 
 General Information about COREG
 
