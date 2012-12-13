@@ -103,6 +103,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | #Rifampin 600 mg QD, 5 days (doses separated) † | 40 mg SD | ↓ 80% | ↓ 40% |
 | #Gemfibrozil 600mg BID, 7 days | 40mg SD | ↑ 35% | ↓ Less than 1% |
 | #Fenofibrate 160mg QD, 7 days | 40mg SD | ↑ 3% | ↑ 2% |
+| Boceprevir 800 mg TID, 7 days | 40 mg SD | ↑ 2.30 fold | ↑2.66 fold |
 
 & Data given as x-fold change represent a simple ratio between co-administration and atorvastatin alone (i.e., 1-fold = no change).
 Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change).
