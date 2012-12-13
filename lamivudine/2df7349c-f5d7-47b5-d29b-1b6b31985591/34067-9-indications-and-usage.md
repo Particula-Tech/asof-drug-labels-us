@@ -5,16 +5,16 @@ This indication is based on 1-year histologic and serologic responses in adult p
 
 The following point should be considered when initiating therapy with EPIVIR-HBV:
 
-- Due to high rates of resistance development in treated patients, initiation of lamivudine treatment should only be considered when the use of an alternative antiviral agent with a higher genetic barrier to resistance is not available or appropriate.
+- •Due to high rates of resistance development in treated patients, initiation of lamivudine treatment should only be considered when the use of an alternative antiviral agent with a higher genetic barrier to resistance is not available or appropriate.
 
 ## Description of Clinical Studies:
 
 Adults: The safety and efficacy of EPIVIR-HBV were evaluated in 4 controlled studies in 967 patients with compensated chronic hepatitis B. All patients were 16 years of age or older and had chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of HBV replication (serum HBeAg-positive and positive for serum HBV DNA, as measured by a research solution-hybridization assay) and persistently elevated ALT levels and/or chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 Three of these studies provided comparisons of EPIVIR-HBV 100 mg once daily versus placebo, and results of these comparisons are summarized below.
 
-- Study 1 was a randomized, double-blind study of EPIVIR-HBV 100 mg once daily versus placebo for 52 weeks followed by a 16-week no-treatment period in treatment-naive US patients.
-- Study 2 was a randomized, double-blind, 3-arm study that compared EPIVIR-HBV 25 mg once daily versus EPIVIR-HBV 100 mg once daily versus placebo for 52 weeks in Asian patients.
-- Study 3 was a randomized, partially-blind, 3-arm study conducted primarily in North America and Europe in patients who had ongoing evidence of active chronic hepatitis B despite previous treatment with interferon alfa.
+- •Study 1 was a randomized, double-blind study of EPIVIR-HBV 100 mg once daily versus placebo for 52 weeks followed by a 16-week no-treatment period in treatment-naive US patients.
+- •Study 2 was a randomized, double-blind, 3-arm study that compared EPIVIR-HBV 25 mg once daily versus EPIVIR-HBV 100 mg once daily versus placebo for 52 weeks in Asian patients.
+- •Study 3 was a randomized, partially-blind, 3-arm study conducted primarily in North America and Europe in patients who had ongoing evidence of active chronic hepatitis B despite previous treatment with interferon alfa.
   The study compared EPIVIR-HBV 100 mg once daily for 52 weeks, followed by either EPIVIR-HBV 100 mg or matching placebo once daily for 16 weeks (Arm 1), versus placebo once daily for 68 weeks (Arm 2).
   (A third arm using a combination of interferon and lamivudine is not presented here because there was not sufficient information to evaluate this regimen.)
 
@@ -34,13 +34,13 @@ Histologic Response at Week 52 Among Adult Patients Receiving EPIVIR-HBV 100 mg 
 Table 4.
 HBeAg Seroconversiona at Week 52 Among Adult Patients Receiving EPIVIR-HBV 100 mg Once Daily or Placebo
 
-| Seroconversion | Study 1 |  | Study 2 |  | Study 3 |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| EPIVIR-HBV(n = 63) | Placebo(n = 69) | EPIVIR-HBV(n = 140) | Placebo(n = 70) | EPIVIR-HBV(n = 108) | Placebo(n = 53) |  |
-| Responder | 17% | 6% | 16% | 4% | 15% | 13% |
-| Nonresponder | 67% | 78% | 80% | 91% | 69% | 68% |
-| Missing Data | 16% | 16% | 4% | 4% | 17% | 19% |
-| a Three-component seroconversion was defined as Week 52 values showing loss of HBeAg, gain of HBeAb, and reduction of HBV DNA to below the solution-hybridization assay limit. Subjects with negative baseline HBeAg or HBV DNA assay were excluded from the analysis. |  |  |  |  |  |  |
+| Seroconversion | Study 1 |  | Study 2 |  | Study 3 |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| EPIVIR-HBV(n = 63) | Placebo(n = 69) | EPIVIR-HBV(n = 140) | Placebo(n = 70) | EPIVIR-HBV(n = 108) | Placebo(n = 53) |  |  |  |  |  |  |  |  |
+| Responder | 17% | 6% | 16% | 4% | 15% | 13% |  |  |  |  |  |  |  |
+| Nonresponder | 67% | 78% | 80% | 91% | 69% | 68% |  |  |  |  |  |  |  |
+| Missing Data | 16% | 16% | 4% | 4% | 17% | 19% |  |  |  |  |  |  |  |
+| a Three-component seroconversion was defined as Week 52 values showing loss of HBeAg, gain of HBeAb, and reduction of HBV DNA to below the solution-hybridization assay limit. Subjects with negative baseline HBeAg or HBV DNA assay were excluded from the analysis. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Normalization of serum ALT levels was more frequent with lamivudine treatment compared with placebo in Studies 1-3.
 

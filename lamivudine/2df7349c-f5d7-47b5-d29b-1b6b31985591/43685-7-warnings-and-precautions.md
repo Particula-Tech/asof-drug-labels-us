@@ -88,7 +88,7 @@ The possibility of interactions with other drugs administered concurrently shoul
 
 TMP 160 mg/SMX 800 mg once daily has been shown to increase lamivudine exposure (AUC) by 44% (see CLINICAL PHARMACOLOGY).
 No change in dose of either drug is recommended.
-There is no information regarding the effect on lamivudine pharmacokinetics of higher doses of TMP/SMX such as those used to treat Pneumocystis carinii pneumonia.
+There is no information regarding the effect on lamivudine pharmacokinetics of higher doses of TMP/SMX such as those used to treat Pneumocystiscariniipneumonia.
 No data are available regarding interactions with other drugs that have renal clearance mechanisms similar to that of lamivudine.
 
 Lamivudine and zalcitabine may inhibit the intracellular phosphorylation of one another.

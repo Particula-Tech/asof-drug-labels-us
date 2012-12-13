@@ -1,6 +1,6 @@
 # REFERENCES
 
-1. Knodell RG, Ishak KG, Black WC, et al. Formulation and application of a numerical scoring system for assessing histological activity in asymptomatic chronic active hepatitis.
+1. 1.Knodell RG, Ishak KG, Black WC, et al. Formulation and application of a numerical scoring system for assessing histological activity in asymptomatic chronic active hepatitis.
    Hepatology.
    1982;1:431-435.
 

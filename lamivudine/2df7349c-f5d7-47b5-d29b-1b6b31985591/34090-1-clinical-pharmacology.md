@@ -75,15 +75,15 @@ Patients were stratified by severity of hepatic functional impairment.
 Table 2.
 Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Dose of Lamivudine in 3 Groups of Subjects With Normal or Impaired Hepatic Function
 
-| Parameter | Normal(n = 8) | Impairmenta |  |
-| --- | --- | --- | --- |
-| Moderate (n = 8) | Severe (n = 8) |  |  |
-| Cmax (mcg/mL) | 0.92 ± 0.31 | 1.06 ± 0.58 | 1.08 ± 0.27 |
-| AUC∞ (mcg•hr/mL) | 3.96 ± 0.58 | 3.97 ± 1.36 | 4.30 ± 0.63 |
-| Tmax (hr) | 1.3 ± 0.8 | 1.4 ± 0.8 | 1.4 ± 1.2 |
-| Cl/F (mL/min) | 424.7 ± 61.9 | 456.9 ± 129.8 | 395.2 ± 51.8 |
-| Clr (mL/min) | 279.2 ± 79.2 | 323.5 ± 100.9 | 216.1 ± 58.0 |
-| a Hepatic impairment assessed by aminopyrine breath test. |  |  |  |
+| Parameter | Normal(n = 8) | Impairmenta |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Moderate (n = 8) | Severe (n = 8) |  |  |  |  |  |  |
+| Cmax (mcg/mL) | 0.92 ± 0.31 | 1.06 ± 0.58 | 1.08 ± 0.27 |  |  |  |  |
+| AUC∞ (mcg•hr/mL) | 3.96 ± 0.58 | 3.97 ± 1.36 | 4.30 ± 0.63 |  |  |  |  |
+| Tmax(hr) | 1.3 ± 0.8 | 1.4 ± 0.8 | 1.4 ± 1.2 |  |  |  |  |
+| Cl/F (mL/min) | 424.7 ± 61.9 | 456.9 ± 129.8 | 395.2 ± 51.8 |  |  |  |  |
+| Clr (mL/min) | 279.2 ± 79.2 | 323.5 ± 100.9 | 216.1 ± 58.0 |  |  |  |  |
+| a Hepatic impairment assessed by aminopyrine breath test. |  |  |  |  |  |  |  |
 
 Pharmacokinetic parameters were not altered by diminishing hepatic function.
 Therefore, no dose adjustment for lamivudine is required for patients with impaired hepatic function.

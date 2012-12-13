@@ -34,20 +34,20 @@ Selected Clinical Adverse Events (≥5% Frequency) in 3 Placebo-Controlled Clini
 Table 6.
 Frequencies of Specified Laboratory Abnormalities in 3 Placebo-Controlled Trials in Adults During Treatmenta (Studies 1-3)
 
-| Test(Abnormal Level) | Patients With Abnormality/Patients With Observations |  |
-| --- | --- | --- |
-| EPIVIR-HBV | Placebo |  |
-| ALT >3 x baselineb | 37/331 (11%) | 26/199 (13%) |
-| Albumin <2.5 g/dL | 0/331 (0%) | 2/199 (1%) |
-| Amylase >3 x baseline | 2/259 (<1%) | 4/167 (2%) |
-| Serum Lipase ≥2.5 x ULNc | 19/189 (10%) | 9/127 (7%) |
-| CPK ≥7 x baseline | 31/329 (9%) | 9/198 (5%) |
-| Neutrophils <750/mm3 | 0/331 (0%) | 1/199 (<1%) |
-| Platelets <50,000/mm3 | 10/272 (4%) | 5/168 (3%) |
-| a Includes patients treated for 52 to 68 weeks. |  |  |
-| b See Table 7 for posttreatment ALT values. |  |  |
-| c Includes observations during and after treatment in the 2 placebo-controlled trials that collected this information. |  |  |
-| ULN = Upper limit of normal. |  |  |
+| Test(Abnormal Level) | Patients With Abnormality/Patients With Observations |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| EPIVIR-HBV | Placebo |  |  |  |  |
+| ALT >3 x baselineb | 37/331 (11%) | 26/199 (13%) |  |  |  |
+| Albumin <2.5 g/dL | 0/331 (0%) | 2/199 (1%) |  |  |  |
+| Amylase >3 x baseline | 2/259 (<1%) | 4/167 (2%) |  |  |  |
+| Serum Lipase ≥2.5 x ULNc | 19/189 (10%) | 9/127 (7%) |  |  |  |
+| CPK ≥7 x baseline | 31/329 (9%) | 9/198 (5%) |  |  |  |
+| Neutrophils <750/mm3 | 0/331 (0%) | 1/199 (<1%) |  |  |  |
+| Platelets <50,000/mm3 | 10/272 (4%) | 5/168 (3%) |  |  |  |
+| a Includes patients treated for 52 to 68 weeks. |  |  |  |  |  |
+| b See Table 7 for posttreatment ALT values. |  |  |  |  |  |
+| c Includes observations during and after treatment in the 2 placebo-controlled trials that collected this information. |  |  |  |  |  |
+| ULN = Upper limit of normal. |  |  |  |  |  |
 
 In patients followed for up to 16 weeks after discontinuation of treatment, posttreatment ALT elevations were observed more frequently in patients who had received EPIVIR-HBV than in patients who had received placebo.
 A comparison of ALT elevations between Weeks 52 and 68 in patients who discontinued EPIVIR-HBV at Week 52 and patients in the same studies who received placebo throughout the treatment course is shown in Table 7.
@@ -55,16 +55,16 @@ A comparison of ALT elevations between Weeks 52 and 68 in patients who discontin
 Table 7.
 Posttreatment ALT Elevations in 2 Placebo-Controlled Studies in Adults With No-Active-Treatment Follow-up (Studies 1 and 3)
 
-| Abnormal Value | Patients With ALT Elevation/Patients With Observationsa |  |
-| --- | --- | --- |
-| EPIVIR-HBV | Placebo |  |
-| ALT ≥2 x baseline value | 37/137 (27%) | 22/116 (19%) |
-| ALT ≥3 x baseline valueb | 29/137 (21%) | 9/116 (8%) |
-| ALT ≥2 x baseline value and absolute ALT >500 IU/L | 21/137 (15%) | 8/116 (7%) |
-| ALT ≥2 x baseline value; and bilirubin >2 x ULN and ≥2 x baseline value | 1/137 (0.7%) | 1/116 (0.9%) |
-| a Each patient may be represented in one or more category. |  |  |
-| b Comparable to a Grade 3 toxicity in accordance with modified WHO criteria. |  |  |
-| ULN = Upper limit of normal. |  |  |
+| Abnormal Value | Patients With ALT Elevation/Patients With Observationsa |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| EPIVIR-HBV | Placebo |  |  |  |  |  |  |  |
+| ALT ≥2 x baseline value | 37/137 (27%) | 22/116 (19%) |  |  |  |  |  |  |
+| ALT ≥3 x baseline valueb | 29/137 (21%) | 9/116 (8%) |  |  |  |  |  |  |
+| ALT ≥2 x baseline value and absolute ALT >500 IU/L | 21/137 (15%) | 8/116 (7%) |  |  |  |  |  |  |
+| ALT ≥2 x baseline value; and bilirubin >2 x ULN and ≥2 x baseline value | 1/137 (0.7%) | 1/116 (0.9%) |  |  |  |  |  |  |
+| a Each patient may be represented in one or more category. |  |  |  |  |  |  |  |  |
+| b Comparable to a Grade 3 toxicity in accordance with modified WHO criteria. |  |  |  |  |  |  |  |  |
+| ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |
 
 ## Lamivudine in Patients With HIV:
 
