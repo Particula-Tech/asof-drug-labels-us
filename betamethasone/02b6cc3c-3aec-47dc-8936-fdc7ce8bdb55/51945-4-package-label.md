@@ -4,7 +4,7 @@ NDC 0145-0021-50
 
 Luxiq®
 
-(betamethasone valerate)
+(betamethasonevalerate)
 
 Foam, 0.12%
 
