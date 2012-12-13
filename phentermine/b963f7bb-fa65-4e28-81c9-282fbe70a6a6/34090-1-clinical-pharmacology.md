@@ -1,17 +1,30 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Phentermine is a sympathomimetic amine with pharmacologic activity similar to the prototype drugs of this class used in obesity, the amphetamines.
-Actions include central nervous system stimulation and elevation of blood pressure.
+## 12.1 Mechanism of Action
+
+Phentermine is a sympathomimetic amine with pharmacologic activity similar to the prototype drugs of this class used in obesity, amphetamine (d- and dll-amphetamine).
+Drugs of this class used in obesity are commonly known as “anorectics” or “anorexigenics.”
+It has not been established that the primary action of such drugs in treating obesity is one of appetite suppression since other central nervous system actions, or metabolic effects, may also be involved.
+
+### 12.2 Pharmacodynamics
+
+Typical of amphetamines include central nervous system stimulation and elevation of blood pressure.
 Tachyphylaxis and tolerance have been demonstrated with all drugs of this class in which these phenomena have been looked for.
 
-Drugs of this class used in obesity are commonly known as “anorectics” or “anorexigenics.”
-It has not been established that the action of such drugs in treating obesity is primarily one of appetite suppression.
-Other central nervous system actions, or metabolic effects, may be involved, for example.
-Adult obese subjects instructed in dietary management and treated with “anorectic” drugs lose more weight on the average than those treated with placebo and diet, as determined in relatively short-term clinical trials.
-The magnitude of increased weight loss of drug-treated patients over placebo-treated patients is only a fraction of a pound a week.
-The rate of weight loss is greatest in the first weeks of therapy for both drug and placebo subjects and tends to decrease in succeeding weeks.
-The possible origins of the increased weight loss due to the various drug effects are not established.
-The amount of weight loss associated with the use of an “anorectic” drug varies from trial to trial, and the increased weight loss appears to be related in part to variables other than the drugs prescribed, such as the physician-investigator, the population treated and the diet prescribed.
-Studies do not permit conclusions as to the relative importance of the drug and non-drug factors on weight loss.
+### 12.3 Pharmacokinetics
 
-The natural history of obesity is measured in years, whereas the studies cited are restricted to a few weeks’ duration; thus, the total impact of drug induced weight loss over that of diet alone must be considered clinically limited.
+Following the administration of Phentermine, Phentermine reaches peak concentrations (Cmax) after 3 to 4.4 hours.
+
+Specific Populations
+
+Renal Impairment
+
+Phentermine was not studied in patients with renal impairment.
+The literature reported cumulative urinary excretion of phentermine under uncontrolled urinary pH conditions is 62% to 85%.
+Exposure increases can be expected in patients with renal impairment.
+Use caution when administering phentermine to patients with renal impairment.
+
+Drug Interactions
+
+In a single-dose study comparing the exposures after oral administration of a combination capsule of 15 mg Phentermine and 92 mg topiramate to the exposures after oral administration of a 15 mg Phentermine capsule or a 92 mg topiramate capsule, there is no significant topiramate exposure change in the presence of Phentermine.
+However, in the presence of topiramate, Phentermine Cmax and AUC increase 13% and 42%, respectively.

@@ -1,22 +1,22 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Manifestations of acute overdosage with phentermine include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, panic states.
+The least amount feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
+
+## 10.1 Acute Overdosage
+
+Manifestations of acute overdosage include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, and panic states.
 Fatigue and depression usually follow the central stimulation.
-Cardiovascular effects include arrhythmias, hypertension or hypotension, and circulatory collapse.
+Cardiovascular effects include arrhythmia, hypertension or hypotension, and circulatory collapse.
 Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
-Fatal poisoning usually terminates in convulsions and coma.
+Overdosage of pharmacologically similar compounds has resulted in fatal poisoning usually terminates in convulsions and coma.
 
-Management of acute phentermine intoxication is largely symptomatic and includes lavage and sedation with a barbiturate.
+Management of acute phentermine hydrochloride intoxication is largely symptomatic and includes lavage and sedation with a barbiturate.
 Experience with hemodialysis or peritoneal dialysis is inadequate to permit recommendations in this regard.
 Acidification of the urine increases phentermine excretion.
-Intravenous phentolamine has been suggested for possible acute, severe hypertension, if this complicates phentermine overdosage.
+Intravenous phentolamine (Regitine®, CIBA) has been suggested on pharmacologic grounds for possible acute, severe hypertension, if this complicates overdosage.
 
-DOSAGE AND ADMINISTRATION
+### 10.2 Chronic Intoxication
 
-Dosage should be individualized to obtain an adequate response with the lowest effective dose.
-
-Exogenous Obesity: The usual adult dose is 15 mg to 30 mg at approximately 2 hours after breakfast for appetite control.
-Late evening medication should be avoided because of the possibility of resulting insomnia.
-Administration of one capsule (30 mg) daily has been found to be adequate in depression of the appetite for 12 to 14 hours.
-
-Phentermine is not recommended for use in patients 16 years of age and under.
+Manifestations of chronic intoxication with anorectic drugs include severe dermatoses, marked insomnia, irritability, hyperactivity and personality changes.
+The most severe manifestation of chronic intoxications is psychosis, often clinically indistinguishable from schizophrenia.
+See Drug Abuse and Dependence (9.3).
