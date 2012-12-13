@@ -4,7 +4,7 @@ NDC 0173-0790-01
 
 InnoPran XL®
 
-(propranolol HCl)
+(propranololHCl)
 
 Extended Release Capsules
 
@@ -20,24 +20,16 @@ See package insert for full prescribing information.
 Store at 25oC (77oF); excursions permitted to 15o – 30oC (59o – 86oF) [See USP Controlled Room Temperature].
 Keep tightly closed.
 
-Manufactured for:
-
 GlaxoSmithKline
 
 RTP, NC 27709
 
-by:
-
-Eurand America, Inc.
-
-Vandalia, OH 45377
-
 Made in Italy
 
 Rev.
-3/09
+10/10
 
-A065829
+10000000084993
 
 # Principal Display Panel
 
@@ -45,7 +37,7 @@ NDC 0173-0791-01
 
 InnoPran XL®
 
-(propranolol HCl)
+(propranololHCl)
 
 Extended Release Capsules
 
@@ -61,19 +53,13 @@ See package insert for full prescribing information.
 Store at 25oC (77oF); excursions permitted to 15o – 30oC (59o – 86oF) [See USP Controlled Room Temperature].
 Keep tightly closed.
 
-Manufactured for:
-
 GlaxoSmithKline
 
 RTP, NC 27709
 
-by:
-
-Eurand America, Inc.
-
-Vandalia, OH 45377
-
 Made in Italy
 
 Rev.
-3/09
+10/10
+
+10000000084995
