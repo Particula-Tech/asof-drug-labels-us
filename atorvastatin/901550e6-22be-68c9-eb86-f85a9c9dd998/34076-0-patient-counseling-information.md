@@ -7,7 +7,7 @@ Patients should also be advised to inform other healthcare professionals prescri
 
 ## 17.1 Muscle Pain
 
-All patients starting therapy with atorvastatin calcium should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness, or weakness.
+All patients starting therapy with atorvastatin calcium should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing atorvastatin.
 The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (>1 liter) of grapefruit juice.
 They should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
@@ -151,6 +151,9 @@ These serious side effects include:
 Call your doctor right away if you have:
 
 - muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.
+  This may be an early sign of a rare muscle problem.
+- muscle problems that do not go away even after your doctor has advised you to stop taking atorvastatin.
+  Your doctor may to further tests to diagnose the cause of your muscle problems.
 - allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away.
 - nausea and vomiting.
 - passing brown or dark-colored urine.
