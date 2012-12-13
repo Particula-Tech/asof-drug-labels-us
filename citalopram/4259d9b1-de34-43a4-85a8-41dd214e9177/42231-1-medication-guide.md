@@ -54,7 +54,7 @@ The symptoms may include:
 - dizziness or fainting
 
 3.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -125,18 +125,18 @@ Do not take Celexa if you:
 
 - are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in Celexa.
   See the end of this Medication Guide for a complete list of ingredients in Celexa.
-- take a Monoamine Oxidase Inhibitor (MAOI).
+- take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - Do not take an MAOI within 14 days of stopping Celexa.
-  - Do not start Celexa if you stopped taking an MAOI in the last 14 days.
-    People who take Celexa close in time to an MAOI may have serious or even life-threatening side effects.
-    Get medical help right away if you have any of these symptoms:
-    - high fever
-    - uncontrolled muscle spasms
-    - stiff muscles
-    - rapid changes in heart rate or blood pressure
-    - confusion
-    - loss of consciousness (pass out)
+- Do not take an MAOI within 2 weeks of stopping Celexa unless directed to do so by your physician.
+- Do not start Celexa if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+  People who take Celexa close in time to an MAOI may have serious or even life-threatening side effects.
+  Get medical help right away if you have any of these symptoms:
+  - high fever
+  - uncontrolled muscle spasms
+  - stiff muscles
+  - rapid changes in heart rate or blood pressure
+  - confusion
+  - loss of consciousness (pass out)
 - take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
 - have a heart problem including congenital long QT syndrome
 
@@ -266,10 +266,10 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 08/2011
+Revised: December 2012
 
 Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045 USA
 
 Licensed from H. Lundbeck A/S
 
-© 2010, 2011 Forest Laboratories, Inc.
+© 2010, 2011, 2012 Forest Laboratories, Inc.

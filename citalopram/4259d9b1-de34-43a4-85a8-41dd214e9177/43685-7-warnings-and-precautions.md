@@ -105,8 +105,7 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
-Serotonergic Drugs: Based on the mechanism of action of SNRIs and SSRIs including Celexa, and the potential for serotonin syndrome, caution is advised when Celexa is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome).
-The concomitant use of Celexa with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS - Drug Interactions).
+Serotonergic Drugs: See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
 
 Triptans: There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of Celexa with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome).
@@ -115,14 +114,14 @@ CNS Drugs - Given the primary CNS effects of citalopram, caution should be used 
 
 Alcohol - Although citalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by depressed patients taking Celexa is not recommended.
 
-Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS and WARNINGS.
+Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS, WARNINGS and DOSAGE AND ADMINISTRATION.
 
 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) - Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when Celexa is initiated or discontinued.
 
-Cimetidine - In subjects who had received 21 days of 40 mg/day Celexa, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
+Cimetidine - In subjects who had received 21 days of 40 mg/day Celexa, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
 
 Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
@@ -152,7 +151,7 @@ Triazolam - Combined administration of Celexa (titrated to 40 mg/day for 28 days
 
 Ketoconazole - Combined administration of Celexa (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
 
-CYP2C19 Inhibitors Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, AND CLINICAL PHARMACOLOGY).
+CYP2C19 Inhibitors - Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, AND CLINICAL PHARMACOLOGY).
 
 Metoprolol - Administration of 40 mg/day Celexa for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
@@ -209,20 +208,22 @@ There are no adequate and well-controlled studies in pregnant women; therefore, 
 
 ### Pregnancy-Nonteratogenic Effects
 
-Neonates exposed to Celexa and other SSRIs or SNRIs, late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Neonates exposed to Celexa and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome).
 
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1—2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective, case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1- 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including Celexa) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
 
-When treating a pregnant woman with Celexa during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+
+When treating a pregnant woman with Celexa, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
+This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION).
 
 ## Labor and Delivery
 

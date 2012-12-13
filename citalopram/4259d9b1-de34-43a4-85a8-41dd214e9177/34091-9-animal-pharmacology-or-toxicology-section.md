@@ -23,6 +23,6 @@ The possibility that DCT, a principal metabolite in humans, may prolong the QT i
 Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045 USA
 
 Licensed from H. Lundbeck A/S Rev.
-March 2012
+December 2012
 
 © 2009, 2011, 2012 Forest Laboratories, Inc.

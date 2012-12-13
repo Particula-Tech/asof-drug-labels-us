@@ -40,7 +40,7 @@ In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 
 
 Age - Citalopram pharmacokinetics in subjects ≥ 60 years of age were compared to younger subjects in two normal volunteer studies.
 In a single-dose study, citalopram AUC and half-life were increased in the subjects ≥ 60 years old by 30% and 50%, respectively, whereas in a multiple-dose study they were increased by 23% and 30%, respectively.
-20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION, due to the risk of QT prolongation.
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION), due to the risk of QT prolongation.
 
 Gender - In three pharmacokinetic studies (total N=32), citalopram AUC in women was one and a half to two times that in men.
 This difference was not observed in five other pharmacokinetic studies (total N=114).
@@ -66,7 +66,7 @@ In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopra
 Citalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these enzymes.
 However, in vivo data to address this question are limited.
 
-CYP3A4 and 2C19 inhibitors: Since CYP3A4 and CYP2C19 are the primary enzymes involved in the metabolism of citalopram, it is expected that potent inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, and macrolide antibiotics) and potent inhibitors of 2C19 (e.g., omeprazole) might decrease the clearance of citalopram.
+CYP3A4 and CYP 2C19 inhibitors: Since CYP3A4 and CYP 2C19 are the primary enzymes involved in the metabolism of citalopram, it is expected that potent inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, and macrolide antibiotics) and potent inhibitors of CYP2C19 (e.g., omeprazole) might decrease the clearance of citalopram.
 However, coadministration of citalopram and the potent CYP3A4 inhibitor ketoconazole did not significantly affect the pharmacokinetics of citalopram.
 Celexa 20 mg/day is the maximum recommended dose in patients taking concomitant cimetidine or another CYP2C19 inhibitor, because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
