@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA015197",
+    "NDA015230"
+  ],
+  "inn": "aminocaproic-acid",
+  "labeler": "Clover Pharmaceuticals Corp.",
+  "package_ndcs": [
+    "49411-050-01",
+    "49411-051-01",
+    "49411-052-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "aminocaproic acid",
+      "name": "AMICAR"
+    },
+    {
+      "form": "TABLET",
+      "generic": "aminocaproic acid",
+      "name": "AMICAR"
+    }
+  ],
+  "setid": "2238c70f-b0b5-4755-896b-45b28777b217",
+  "source": "dailymed"
+}

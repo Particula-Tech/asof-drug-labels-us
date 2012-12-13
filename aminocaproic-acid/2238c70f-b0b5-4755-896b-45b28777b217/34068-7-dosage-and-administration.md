@@ -1,0 +1,6 @@
+# DOSAGE AND ADMINISTRATION
+
+An identical dosage regimen may be followed by administering AMICAR Tablets or AMICAR Oral Solution as follows:
+
+For the treatment of acute bleeding syndromes due to elevated fibrinolytic activity, it is suggested that 5 AMICAR 1000 mg Tablets or 10 AMICAR 500 mg Tablets (5 g) or 20 milliliter of AMICAR Oral Solution (5 g) be administered during the first hour of treatment, followed by a continuing rate of 1 AMICAR 1000 mg Tablet or 2 AMICAR 500 mg Tablets (1 g) or 5 milliliter of AMICAR Oral Solution (1.25 g) per hour.
+This method of treatment would ordinarily be continued for about 8 hours or until the bleeding situation has been controlled.
