@@ -33,3 +33,9 @@ CYP 450 Interactions: In vitro metabolism studies indicate that CYP 450 mediated
 
 Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
 Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
+
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on Exforge and other agents that affect the RAS.
+
+Do not coadminister aliskiren with Exforge in patients with diabetes.
+Avoid use of aliskiren with Exforge in patients with renal impairment (GFR <60 mL/min).
