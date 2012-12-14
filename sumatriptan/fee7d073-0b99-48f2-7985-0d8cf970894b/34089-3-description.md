@@ -1,10 +1,9 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-IMITREX (sumatriptan succinate) Injection is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+IMITREX Injection contains sumatriptan succinate, a selective 5-HT1B/1D receptor agonist.
 Sumatriptan succinate is chemically designated as 3-[2-(dimethylamino)ethyl]-N-methyl-indole-5-methanesulfonamide succinate (1:1), and it has the following structure:
 
 The empirical formula is C14H21N3O2S•C4H6O4, representing a molecular weight of 413.5.
-
 Sumatriptan succinate is a white to off-white powder that is readily soluble in water and in saline.
 
 IMITREX Injection is a clear, colorless to pale yellow, sterile, nonpyrogenic solution for subcutaneous injection.

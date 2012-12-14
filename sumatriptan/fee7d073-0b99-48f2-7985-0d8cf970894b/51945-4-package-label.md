@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0739-02
 
@@ -21,7 +21,7 @@ Rx only
 10000000054701 Rev.
 4/08
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0478-00
 
@@ -44,7 +44,7 @@ Rx only
 10000000054708 Rev.
 4/08
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0449-02
 
@@ -71,7 +71,7 @@ Rx only
 
 10000000054384
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0479-00
 
@@ -83,7 +83,7 @@ STATdose SYSTEM®
 
 This carton contains:
 
-- Imitrex®
+- •Imitrex®
 
 (sumatriptan succinate)
 
@@ -91,10 +91,11 @@ Injection
 
 2 prefilled 0.5-mL syringe cartridges, each containing 6 mg of sumatriptan for subcutaneous injection only
 
-- 1 Imitrex STATdose Pen®
-- 1 Carrying Case
-- Instructions for Use/Information for the Patient
-- Prescribing Information
+- •1 Imitrex STATdose Pen®
+- •1 Carrying Case
+- •Instructions for Use/Information for the Patient
+- •Prescribing Information
+- 
 
 Rx only
 

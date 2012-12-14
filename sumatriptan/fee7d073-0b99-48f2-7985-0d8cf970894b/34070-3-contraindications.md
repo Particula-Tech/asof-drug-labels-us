@@ -1,19 +1,15 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-IMITREX Injection should not be given intravenously because of its potential to cause coronary vasospasm.
+IMITREX Injection is contraindicated in patients with:
 
-IMITREX Injection should not be given to patients with history, symptoms, or signs of ischemic cardiac, cerebrovascular, or peripheral vascular syndromes.
-In addition, patients with other significant underlying cardiovascular diseases should not receive IMITREX Injection.
-Ischemic cardiac syndromes include, but are not limited to, angina pectoris of any type (e.g., stable angina of effort, vasospastic forms of angina such as the Prinzmetal variant), all forms of myocardial infarction, and silent myocardial ischemia.
-Cerebrovascular syndromes include, but are not limited to, strokes of any type as well as transient ischemic attacks.
-Peripheral vascular disease includes, but is not limited to, ischemic bowel disease (see WARNINGS: Other Vasospasm-Related Events and WARNINGS: Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events).
-
-Because IMITREX Injection may increase blood pressure, it should not be given to patients with uncontrolled hypertension.
-
-IMITREX Injection and any ergotamine-containing or ergot-type medication (like dihydroergotamine or methysergide) should not be used within 24 hours of each other, nor should IMITREX Injection and another 5-HT1 agonist.
-
-IMITREX Injection should not be administered to patients with hemiplegic or basilar migraine.
-
-IMITREX Injection is contraindicated in patients with hypersensitivity to sumatriptan or any of its components.
-
-IMITREX Injection is contraindicated in patients with severe hepatic impairment.
+- •Ischemic coronary artery disease (CAD) (angina pectoris, history of myocardial infarction, or documented silent ischemia) or coronary artery vasospasm, including Prinzmetal’s angina [see Warnings and Precautions (5.1)].
+- •Wolff-Parkinson-White syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Warnings and Precautions (5.2)].
+- •History of stroke or transient ischemic attack (TIA) because these patients are at a higher risk of stroke [see Warnings and Precautions (5.4)].
+- •History of hemiplegic or basilar migraine.
+- •Peripheral vascular disease [see Warnings and Precautions (5.5)].
+- •Ischemic bowel disease [see Warnings and Precautions (5.5)].
+- •Uncontrolled hypertension [see Warnings and Precautions (5.8)].
+- •Recent (i.e., within 24 hours) use of ergotamine-containing medication, ergot-type medication (such as dihydroergotamine or methysergide), or another 5-hydroxytryptamine1 (5-HT1) agonist [see Drug Interactions (7.1, 7.3)].
+- •Concurrent administration of an MAO-A inhibitor or recent (within 2 weeks) use of an MAO-A inhibitor [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+- •Known hypersensitivity to sumatriptan [see Warnings and Precautions (5.9) and Adverse Reactions (6.2)].
+- •Severe hepatic impairment [see Clinical Pharmacology (12.3)].

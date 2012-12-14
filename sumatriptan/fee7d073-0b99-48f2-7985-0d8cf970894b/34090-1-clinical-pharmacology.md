@@ -1,68 +1,50 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1Mechanism of Action
 
-Sumatriptan is a selective agonist for a vascular 5-hydroxytryptamine1 receptor subtype (probably a member of the 5-HT1D family) with no significant affinity (as measured using standard radioligand binding assays) or pharmacological activity at 5-HT2, 5-HT3 receptor subtypes or at alpha1-, alpha2-, or beta-adrenergic; dopamine1; dopamine2; muscarinic; or benzodiazepine receptors.
+Sumatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
+IMITREX presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system.
 
-The vascular 5-HT1 receptor subtype to which sumatriptan binds selectively, and through which it presumably exerts its antimigrainous effect, is present on cranial arteries in both dog and primate, on the human basilar artery, and in the vasculature of the isolated dura mater of humans.
-In these tissues, sumatriptan activates this receptor to cause vasoconstriction, an action in humans correlating with the relief of migraine and cluster headache.
-In the anesthetized dog, sumatriptan selectively reduces the carotid arterial blood flow with little or no effect on arterial blood pressure or total peripheral resistance.
-In the cat, sumatriptan selectively constricts the carotid arteriovenous anastomoses while having little effect on blood flow or resistance in cerebral or extracerebral tissues.
+Current theories proposed to explain the etiology of migraine headache suggest that symptoms are due to local cranial vasodilatation and/or to the release of sensory neuropeptides (including substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system.
+The therapeutic activity of IMITREX for the treatment of migraine and cluster headaches is thought to be due to the agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels (including the arterio-venous anastomoses) and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
 
-## Corneal Opacities
+## 12.2Pharmacodynamics
 
-Dogs receiving oral sumatriptan developed corneal opacities and defects in the corneal epithelium.
-Corneal opacities were seen at the lowest dosage tested, 2 mg/kg/day, and were present after 1 month of treatment.
-Defects in the corneal epithelium were noted in a 60-week study.
-Earlier examinations for these toxicities were not conducted and no-effect doses were not established; however, the relative exposure at the lowest dose tested was approximately 5 times the human exposure after a 100-mg oral dose or 3 times the human exposure after a 6-mg subcutaneous dose.
+Blood Pressure: Significant elevation in blood pressure, including hypertensive crisis, has been reported in patients with and without a history of hypertension [see Warnings and Precautions (5.8)].
 
-## Melanin Binding
+Peripheral (Small) Arteries: In healthy volunteers (N = 18), a trial evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
 
-In rats with a single subcutaneous dose (0.5 mg/kg) of radiolabeled sumatriptan, the elimination half-life of radioactivity from the eye was 15 days, suggesting that sumatriptan and its metabolites bind to the melanin of the eye.
-The clinical significance of this binding is unknown.
+Heart Rate: Transient increases in blood pressure observed in some subjects in clinical trials carried out during sumatriptan’s development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
 
-## Pharmacokinetics
+## 12.3Pharmacokinetics
 
-Pharmacokinetic parameters following a 6-mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age: 33 years, mean weight: 77 kg) were systemic clearance: 1,194 ± 149 mL/min (mean ± S.D.), distribution half-life: 15 ± 2 minutes, terminal half-life: 115 ± 19 minutes, and volume of distribution central compartment: 50 ± 8 liters.
-Of this dose, 22% ± 4% was excreted in the urine as unchanged sumatriptan and 38% ± 7% as the indole acetic acid metabolite.
+Absorption and Bioavailability: The bioavailability of sumatriptan via subcutaneous site injection to 18 healthy male subjects was 97% ± 16% of that obtained following intravenous injection.
 
-After a single 6-mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age: 24 ± 6 years, weight: 70 kg), the maximum serum concentration (Cmax) was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range: 5 to 20 minutes).
-In this study, the same dose injected subcutaneously in the thigh gave a Cmax of 61 ± 15 ng/mL by manual injection versus 52 ± 15 ng/mL by autoinjector techniques.
+After a single 6-mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age: 24 ± 6 years, weight: 70 kg), the maximum serum concentration (Cmax) of sumatriptan was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range: 5 to 20 minutes).
+In this trial, the same dose injected subcutaneously in the thigh gave a Cmax of 61 ± 15 ng/mL by manual injection versus 52 ± 15 ng/mL by autoinjector techniques.
 The Tmax or amount absorbed was not significantly altered by either the site or technique of injection.
 
-The bioavailability of sumatriptan via subcutaneous site injection to 18 healthy male subjects was 97% ± 16% of that obtained following intravenous injection.
-Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
+Distribution: Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
 The effect of sumatriptan on the protein binding of other drugs has not been evaluated.
 
-## Special Populations
+Following a 6-mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age: 33 years, mean weight: 77 kg) the volume of distribution central compartment of sumatriptan was 50 ± 8 liters and the distribution half‑life was 15 ± 2 minutes.
 
-Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
+Metabolism: In vitro studies with human microsomes suggest that sumatriptan is metabolized by MAO, predominantly the A isoenzyme.
+Most of a radiolabeled dose of sumatriptan excreted in the urine is the major metabolite indole acetic acid (IAA) or the IAA glucuronide, both of which are inactive.
 
-Hepatic Impairment: The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated.
-There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared with healthy controls.
-However, the liver plays an important role in the presystemic clearance of orally administered sumatriptan.
-Accordingly, the bioavailability of sumatriptan following oral administration may be markedly increased in patients with liver disease.
-In 1 small study of hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared with the healthy subjects.
+Elimination: After a single 6-mg subcutaneous dose, 22% ± 4% was excreted in the urine as unchanged sumatriptan and 38% ± 7% as the IAA metabolite.
 
-Age: The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years) (see PRECAUTIONS: Geriatric Use).
+Following a 6-mg subcutaneous injection into the deltoid area of the arm, the systemic clearance of sumatriptan was 1,194 ± 149 mL/min and the terminal half-life was 115 ± 19 minutes.
+
+Special Populations:Age:The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
+
+Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined.
+
+Hepatic Impairment: The effect of mild to moderate hepatic disease on the pharmacokinetics of subcutaneously administered sumatriptan has been evaluated.
+There were no significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in moderately hepatically impaired subjects compared with healthy controls.
+The pharmacokinetics of subcutaneously administered sumatriptan in patients with severe hepatic impairment has not been studied.
+The use of IMITREX Injection in this population is contraindicated [see Contraindications (4)].
 
 Race: The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
 
-## Drug Interactions
-
-Monoamine Oxidase Inhibitors: In vitro studies with human microsomes suggest that sumatriptan is metabolized by monoamine oxidase (MAO), predominantly the A isoenzyme.
-In a study of 14 healthy females, pretreatment with MAO-A inhibitor decreased the clearance of sumatriptan.
-Under the conditions of this experiment, the result was a 2-fold increase in the area under the sumatriptan plasma concentration x time curve (AUC), corresponding to a 40% increase in elimination half-life.
-No significant effect was seen with an MAO-B inhibitor.
-
-## Pharmacodynamics
-
-Typical Physiologic Responses:
-
-Blood Pressure: See WARNINGS: Increase in Blood Pressure.
-
-Peripheral (Small) Arteries: In healthy volunteers (N = 18), a study evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
-
-Heart Rate: Transient increases in blood pressure observed in some patients in clinical studies carried out during sumatriptan’s development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
-
-Respiratory Rate: Experience gained during the clinical development of sumatriptan as a treatment for migraine failed to detect an effect of the drug on respiratory rate.
+Drug Interaction Studies:Monoamine Oxidase-A Inhibitors:In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.

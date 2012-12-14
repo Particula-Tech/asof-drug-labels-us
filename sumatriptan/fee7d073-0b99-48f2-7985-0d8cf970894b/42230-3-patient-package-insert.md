@@ -1,248 +1,218 @@
-# PATIENT INFORMATION
+Patient Information
 
-The following wording is contained in a separate leaflet provided for patients.
+IMITREX® (IM-i-trex)
 
-Read this leaflet carefully several times before you start to use the IMITREX STATdose System.
-If you have any questions, ask your healthcare provider.
+(sumatriptansuccinate)
 
-Keep the IMITREX STATdose System out of the reach of children.
+Injection
 
-## Before you use the IMITREX STATdose System
+Read this Patient Information before you start taking IMITREX and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
-When you first open the IMITREX STATdose System box, the Cartridge Pack and the IMITREX STATdose Pen® are already in the Carrying Case for your convenience.
+What is the most important information I should know about IMITREX?
 
-The grey and blue Carrying Case is used for storing the unloaded Pen and the Cartridge Pack when they are not being used.
+IMITREX can cause serious side effects, including:
 
-The Cartridge Pack holds 2 individually sealed Syringe Cartridges.
-Each Syringe Cartridge holds 1 dose of IMITREX® (sumatriptan succinate) Injection.
-The Cartridge Pack for the 4-mg strength of this medicine is yellow, and the Cartridge Pack for the 6-mg strength is blue (as shown).
-Refill Cartridge Packs are available.
+Heart attack and other heart problems.
+Heart problems may lead to death.
 
-The grey and blue Pen is used to automatically inject 1 dose of medicine from a Syringe Cartridge.
-Do not touch the Blue Button until you have pressed the Pen against your skin to give a dose.
-If you press it at any other time, you might lose a dose.
-The Safety Catch keeps the Pen from accidentally firing until you are ready.
-The Pen will only work when you slide the grey part of the barrel down to the blue part.
-Always check to make sure that the white Priming Rod is not sticking out from the end of the Pen (as shown in Figure 2) before you load a new Syringe Cartridge.
-If it is sticking out, you will lose that dose.
+Stop taking IMITREX and get emergency medical help right away if you have any of the following symptoms of a heart attack:
 
-## How to load the IMITREX STATdose Pen
+- •discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
+- •severe tightness, pain, pressure, or heaviness in your chest, throat, neck, or jaw
+- •pain or discomfort in your arms, back, neck, jaw, or stomach
+- •shortness of breath with or without chest discomfort
+- •breaking out in a cold sweat
+- •nausea or vomiting
+- •feeling lightheaded
 
-Do not load the Pen until you are ready to give yourself an injection.
-Do not touch the Blue Button on top of the Pen (see Figure 1) while you are loading the Pen.
+IMITREX is not for people with risk factors for heart disease unless a heart exam is done and shows no problem.
+You have a higher risk for heart disease if you:
 
-1.
-Open the lid of the Carrying Case.
+- •have high blood pressure
+- •have high cholesterol levels
+- •smoke
+- •are overweight
+- •have diabetes
+- •have a family history of heart disease
 
-The tamper-evident seals over the 2 Syringe Cartridges are labeled “A” and “B” (see Figure 1 inset).
-Always use the Syringe Cartridge marked “A” before the one marked “B” to help you keep track of your doses.
-Do not use if either seal is broken or missing when you first open the Carrying Case.
+What is IMITREX?
 
-2.
-Tear off one of the tamper-evident seals (see Figure 1).
-Throw away the seal.
-Open the lid over the Syringe Cartridge.
+IMITREX is a prescription medicine used to treat acute migraine headaches with or without aura and acute cluster headaches in adults who have been diagnosed with migraine or cluster headaches.
 
-3.
-Hold the Pen by the ridges at the top.
-Take it out of the Carrying Case (see Figure 2).
+IMITREX is not used to treat other types of headaches such as hemiplegic (that make you unable to move on one side of your body) or basilar (rare form of migraine with aura) migraines.
 
-Check to make sure the white Priming Rod is not sticking out from the lower end of the Pen (see Figure 2 inset).
-If it is sticking out, put the Pen back into the Carrying Case and press down firmly until you feel it click.
-Then take the Pen out of the Carrying Case.
+IMITREX is not used to prevent or decrease the number of migraine or cluster headaches you have.
 
-4.
-Put the Pen in the Cartridge Pack.
-Turn it to the right (clockwise) until it will not turn any more (about half a turn) (see Figure 3).
+It is not known if IMITREX is safe and effective in children under 18 years of age.
 
-5.
-Hold the loaded Pen by the ridges and pull it straight out (see Figure 4).
-You may need to pull hard on the Pen, but this is normal.
-Do not press the Blue Button yet.
+Who should not take IMITREX?
 
-The Pen is now ready to use.
-Do not put the loaded Pen back into the Carrying Case because that will damage the needle.
+Do not take IMITREX if you have:
 
-## How to use the IMITREX STATdose Pen to take your medicine
+- •heart problems or a history of heart problems
+- •narrowing of blood vessels to your legs, arms, stomach, or kidney (peripheral vascular disease)
+- •uncontrolled high blood pressure
+- •hemiplegic migraines or basilar migraines.
+  If you are not sure if you have these types of migraines, ask your healthcare provider.
+- •had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
+- •taken any of the following medicines in the last 24 hours:
+  - •almotriptan (AXERT®)
+  - •eletriptan (RELPAX®)
+  - •frovatriptan (FROVA®)
+  - •naratriptan (AMERGE®)
+  - •rizatriptan (MAXALT®, MAXALT-MLT®)
+  - •sumatriptan and naproxen (TREXIMET®)
+  - •ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+  - •dihydroergotamine (D.H.E.
+    45®, MIGRANAL®)
+- Ask your healthcare provider if you are not sure if your medicine is listed above.
+- •an allergy to sumatriptan or any of the ingredients in IMITREX.
+  See the end of this leaflet for a complete list of ingredients in IMITREX.
 
-Before injecting your medicine, choose an area with a fatty tissue layer (see Figure 5a or Figure 5b).
-Ask your healthcare provider if you have a question about where to inject.
-Clean the skin around this area.
+What should I tell my healthcare provider before taking IMITREX?
 
-or
+Before you take IMITREX, tell your healthcare provider about all of your medical conditions, including if you:
 
-1.
-Without pushing the Blue Button, press the loaded Pen firmly against the skin so that the grey barrel slides down toward the blue section that holds the Syringe Cartridge (see Figure 4).
-(This releases the Safety Catch that keeps the Pen from firing by mistake until you are ready.)
+- •have high blood pressure
+- •have high cholesterol
+- •have diabetes
+- •smoke
+- •are overweight
+- •have heart problems or family history of heart problems or stroke
+- •have liver problems
+- •have had epilepsy or seizures
+- •are not using effective birth control
+- •become pregnant while taking IMITREX
+- •are breastfeeding or plan to breastfeed.
+  IMITREX passes into your breast milk and may harm your baby.
+  Talk with your healthcare provider about the best way to feed your baby if you take IMITREX.
 
-2.
-Push the Blue Button.
-Hold the Pen still for at least 5 seconds.
-If the Pen is taken away from the skin too soon, not all the medicine will come out.
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
-3.
-After 5 seconds, carefully take the Pen away from your skin.
-The needle will be showing (see Figure 6).
-Do not touch the needle.
+Using IMITREX with certain other medicines can affect each other, causing serious side effects.
 
-## How to unload the IMITREX STATdose Pen after taking your medicine
+Especially tell your healthcare provider if you take anti-depressant medicines called:
 
-Right after you take a dose with the Pen, you need to return the used Syringe Cartridge to the Cartridge Pack.
+- •selective serotonin reuptake inhibitors (SSRIs)
+- •serotonin norepinephrine reuptake inhibitors (SNRIs)
+- •tricyclic antidepressants (TCAs)
+- •monoamine oxidase inhibitors (MAOIs)
 
-1.
-Push the Pen down into the empty side of the Cartridge Pack as far as it will go (see Figure 7).
+Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
 
-2.
-Turn the Pen to the left (counterclockwise) about half a turn until it is released from the Syringe Cartridge (see Figure 8).
+Know the medicines you take.
+Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
 
-3.
-Pull the empty Pen out of the Cartridge Pack (see Figure 9).
+How should I take IMITREX?
 
-Because the Pen has now been used, the white Priming Rod will stick out from the lower end of the Pen.
+- •Certain people should take their first dose of IMITREX in their healthcare provider’s office or in another medical setting.
+  Ask your healthcare provider if you should take your first dose in a medical setting.
+- •Use IMITREX exactly as your healthcare provider tells you to use it.
+- •Your healthcare provider may change your dose.
+  Do not change your dose without first talking with your healthcare provider.
+- •For adults, the usual dose is a single injection given just below the skin.
+- •You should give an injection as soon as the symptoms of your headache start, but it may be given at any time during a migraine attack.
+- •If you did not get any relief after the first injection, do not give a second injection without first talking with your healthcare provider.
+- •You can take a second injection 1 hour after the first injection, but not sooner, if your headache came back after your first injection.
+- •Do not take more than 12 mg in a 24‑hour period.
+- •If you use too much IMITREX, call your healthcare provider or go to the nearest hospital emergency room right away.
+- •You should write down when you have headaches and when you take IMITREX so you can talk with your healthcare provider about how IMITREX is working for you.
 
-4.
-Close the Cartridge Pack lid over the used Syringe Cartridge.
-When the used Syringe Cartridges are inserted correctly, the Cartridge Pack is a disposable, protective case to help you avoid needle sticks and use the syringes correctly.
+What should I avoid while taking IMITREX?
 
-5.
-Put the Pen back into the Carrying Case and press it down firmly until you feel it click.
-Close the Carrying Case lid.
-This gets the Pen ready for the next use.
+IMITREX can cause dizziness, weakness, or drowsiness.
+If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
 
-If the lid will not close, push the Pen down until you feel it click.
-Then close the lid.
+What are the possible side effects of IMITREX?
 
-## How to take out a used Cartridge Pack
+IMITREX may cause serious side effects.
+See “What is the most important information I should know about IMITREX?”
 
-After both Syringe Cartridges have been used, take the Cartridge Pack out of the Carrying Case and throw it away.
-Never reuse a Syringe Cartridge.
+These serious side effects include:
 
-1.
-Open the Carrying Case lid.
+- •changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
+- •stomach and intestinal problems (gastrointestinal and colonic ischemic events).
+  Symptoms of gastrointestinal and colonic ischemic events include:
+  - •sudden or severe stomach pain
+  - •stomach pain after meals
+  - •weight loss
+  - •nausea or vomiting
+  - •constipation or diarrhea
+  - •bloody diarrhea
+  - •fever
+- •problems with blood circulation to your legs and feet (peripheral vascular ischemia).
+  Symptoms of peripheral vascular ischemia include:
+  - •cramping and pain in your legs or hips
+  - •feeling of heaviness or tightness in your leg muscles
+  - •burning or aching pain in your feet or toes while resting
+  - •numbness, tingling, or weakness in your legs
+  - •cold feeling or color changes in 1 or both legs or feet
+- •medication overuse headaches.
+  Some people who use too many IMITREX injections may have worse headaches (medication overuse headache).
+  If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX.
+- •serotonin syndrome.
+  Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti‑depressant medicines called SSRIs or SNRIs.
+- Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+- 
+  - •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  - •fast heartbeat
+  - •changes in blood pressure
+  - •high body temperature
+  - •tight muscles
+  - •trouble walking
+- •seizures.
+  Seizures have happened in people taking IMITREX who have never had seizures before.
+  Talk with your healthcare provider about your chance of having seizures while you take IMITREX.
 
-2.
-Hold the Carrying Case with one hand and press the 2 buttons on either side of the Carrying Case (see Figure 10).
+The most common side effects of IMITREX include:
 
-3.
-Gently pull out the Cartridge Pack with the other hand (see Figure 11).
+- •pain or redness at your injection site
+- •tingling or numbness in your fingers or toes
+- •dizziness
+- •warm, hot, burning feeling to your face (flushing)
+- •discomfort or stiffness in your neck
+- •feeling weak, drowsy, or tired
 
-(continued on other side)
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-## How to insert a new Cartridge Pack
+These are not all the possible side effects of IMITREX.
+For more information, ask your healthcare provider or pharmacist.
 
-1.
-Take the new Cartridge Pack out of its box.
-Do not take off the tamper-evident seals (see Figure 12).
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-2.
-Put the Cartridge Pack in the Carrying Case.
-Slide it down smoothly (see Figure 13).
+How should I store IMITREX Injection?
 
-3.
-The Cartridge Pack will click into place when the 2 buttons show through the holes in the Carrying Case (see Figure 14).
-Close the lid.
+- •Store IMITREX between 36°F to 86°F (2°C to 30°C).
+- •Store your medicine away from light.
+- •Keep your medicine in the packaging or carrying case provided with it.
 
-February 2008
+Keep IMITREX and all medicines out of the reach of children.
 
-IMJ:2PIL
+General information about the safe and effective use of IMITREX
 
-Information for the Patient
+Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
+Do not use IMITREX for a condition for which it was not prescribed.
+Do not give IMITREX to other people, even if they have the same symptoms you have.
+It may harm them.
 
-IMITREX® (sumatriptan succinate) Injection
+This Patient Information leaflet summarizes the most important information about IMITREX.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about IMITREX that is written for healthcare professionals.
 
-Read this leaflet carefully before you start to take IMITREX Injection.
-Keep the leaflet for reference because it gives you a summary of important information about IMITREX Injection.
+For more information, go to www.gsk.com or call 1-888-825-5249.
 
-Read the leaflet that comes with each refill of your prescription because there may be new information.
+What are the ingredients in IMITREX Injection?
 
-This leaflet does not have all the information about IMITREX Injection.
-Ask your healthcare provider for more information or advice.
+Active ingredient: sumatriptan succinate
 
-What is IMITREX Injection?
+Inactive ingredients: sodium chloride, water for injection
 
-IMITREX Injection is a kind of medicine called a triptan.
-You should take it only if you have a prescription.
+This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-IMITREX Injection is used to relieve your migraine or cluster headache.
-It is not used to prevent attacks or reduce the number of attacks you have.
-Use IMITREX Injection only to treat an actual migraine or cluster headache attack.
-
-The decision to use IMITREX Injection is one that you and your healthcare provider should make together, based on your personal needs and health.
-
-Talk with your healthcare provider before taking IMITREX Injection
-
-1. Risk factors for heart disease to tell your healthcare provider: Tell your healthcare provider if you have risk factors for heart disease such as:
-   - high blood pressure
-   - high cholesterol
-   - being overweight
-   - diabetes
-   - smoking
-   - strong family history of heart disease
-   - you are postmenopausal
-   - you are a male over 40 years of ageIf you do have risk factors for heart disease, your healthcare provider should check you for heart disease to see if IMITREX is right for you.Although most of the people who have taken IMITREX have not had any serious side effects, some have had serious heart problems.
-     Deaths have been reported, but these were rare considering the extensive worldwide use of IMITREX.
-     Usually, serious problems happened in people with known heart disease.
-     It was not clear whether IMITREX had anything to do with these deaths.
-2. Important questions to ask yourself before you take IMITREX Injection: If the answer to any of the following questions is YES or if you do not know the answer, then please talk with your healthcare provider before you take IMITREX Injection.
-   - Are you pregnant?
-     Do you think you might be pregnant?
-     Are you trying to become pregnant?
-     Are you not using adequate contraception?
-     Are you breastfeeding?
-   - Do you have any chest pain, heart disease, shortness of breath, or irregular heartbeats?
-     Have you had a heart attack?
-   - Do you have risk factors for heart disease (see list above)?
-   - Have you had a stroke, a mini-stroke (also called a transient ischemic attack or TIA), or Raynaud syndrome?
-   - Do you have high blood pressure?
-   - Have you ever had to stop taking this or any other medicine because of an allergy or other problems?
-   - Are you taking any other migraine medicines, including other triptans?
-     Are you taking any medicines containing ergotamine, dihydroergotamine, or methysergide?
-   - Are you taking any medicine for depression or other health problems such as a monoamine oxidase inhibitor, selective serotonin reuptake inhibitor (SSRI), or serotonin norepinephrine reuptake inhibitor (SNRI)?
-     Common SSRIs are citalopram HBr (CELEXA®), escitalopram oxalate (LEXAPRO®), paroxetine (PAXIL®), fluoxetine (PROZAC®/SARAFEM®), olanzapine/fluoxetine (SYMBYAX®), sertraline (ZOLOFT®), and fluvoxamine.
-     Common SNRIs are duloxetine (CYMBALTA®) and venlafaxine (EFFEXOR®).
-   - Have you had, or do you have, any disease of the liver or kidney?
-   - Have you had, or do you have, epilepsy or seizures?
-   - Is this headache different from your usual migraine attacks?Remember, if you answered YES to any of the above questions, then talk with your healthcare provider about it.
-
-Important points about IMITREX Injection
-
-1. The use of IMITREX Injection during pregnancy:Do not take IMITREX Injection if you are pregnant, think you might be pregnant, are trying to become pregnant, or are not using adequate contraception unless you have talked with your healthcare provider about this.
-2. How to take IMITREX Injection: For adults, the usual dose is a single injection given just below the skin.
-   You should give an injection as soon as the symptoms of your migraine start, but it may be given at any time during an attack.
-   You may give a second injection if your migraine symptoms come back.If your symptoms do not get better after the first injection, do not give a second injection for the same attack without first talking with your healthcare provider.
-   Do not give more than two 6-mg doses in any 24-hour period.
-   Allow at least 1 hour between each dose.
-3. Caution for activities requiring alertness: You may feel drowsy or dizzy because of your migraine or treatment with IMITREX Injection.
-   Use caution for activities requiring alertness (like driving or using machines).
-4. What to do if you take an overdose: If you have taken more medicine than has been prescribed for you, contact either your healthcare provider, hospital emergency department, or nearest poison control center right away.
-5. How to store your medicine: Keep your medicine in a safe place where children cannot reach it.
-   It may be harmful to children.
-   Store your medicine away from heat and light.
-   Keep your medicine in the Carrying Case that comes with it.
-   Do not store at temperatures above 86°F (30°C).
-   The expiration date of your medicine is printed on the back of the Cartridge Pack.
-   If your medicine has expired, throw it away.
-   Do not throw away your IMITREX STATdose Pen®.If your healthcare provider decides to stop your treatment, do not keep any leftover medicine unless your healthcare provider tells you to.
-
-Some possible side effects of IMITREX Injection
-
-- Some patients feel pain or tightness in the chest or throat when using IMITREX Injection.
-  If this happens to you, tell your healthcare provider before taking any more IMITREX Injection.
-  If the chest pain, tightness, or pressure is severe or does not go away, call your healthcare provider right away.
-- Call your healthcare provider right away if you have sudden and/or severe abdominal pain after you take IMITREX Injection.
-- Some people may have a reaction called serotonin syndrome when they take certain kinds of medicines for depression called SSRIs or SNRIs while they are taking IMITREX Injection.
-  Symptoms may include confusion, hallucinations, fast heartbeat, feeling faint, fever, sweating, muscle spasm, difficulty walking, and/or diarrhea.
-  Call your healthcare provider right away if you have any of these symptoms after taking IMITREX Injection.
-- Shortness of breath; wheeziness; heart throbbing; swelling of eyelids, face, or lips; or a skin rash, skin lumps, or hives happens rarely.
-  If it happens to you, then tell your healthcare provider right away.
-  Do not take any more IMITREX Injection unless your healthcare provider tells you to.
-- Some people may feel tingling, heat, flushing (redness of face lasting a short time), heaviness, or pressure after taking IMITREX Injection.
-  A few people may feel drowsy, dizzy, tired, or sick.
-  If you have any of these symptoms, tell your healthcare provider at your next visit.
-- You may have pain or redness at the site of injection, but this usually lasts less than an hour.
-- If you feel unwell in any other way or have any symptoms that you do not understand, you should contact your healthcare provider right away.
-
-IMITREX and PAXIL are registered trademarks of GlaxoSmithKline.
+IMITREX, AMERGE, TREXIMET are registered trademarks of GlaxoSmithKline.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
@@ -250,9 +220,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-February 2010
+October 2012
 
-IMJ:2PPI
+IMJ:3PPI
