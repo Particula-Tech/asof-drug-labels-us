@@ -57,10 +57,8 @@ Metabolism
 Montelukast is extensively metabolized.
 In studies with therapeutic doses, plasma concentrations of metabolites of montelukast are undetectable at steady state in adults and pediatric patients.
 
-In vitro studies using human liver microsomes indicate that CYP3A4 and 2C9 are involved in the metabolism of montelukast.
-Clinical studies investigating the effect of known inhibitors of CYP3A4 (e.g., ketoconazole, erythromycin) or 2C9 (e.g., fluconazole) on montelukast pharmacokinetics have not been conducted.
-Based on further in vitro results in human liver microsomes, therapeutic plasma concentrations of montelukast do not inhibit CYP3A4, 2C9, 1A2, 2A6, 2C19, or 2D6 [see Drug Interactions (7) and Clinical Pharmacology, Drug-Drug Interactions (12.3)].
-In vitro studies have shown that montelukast is a potent inhibitor of CYP2C8; however, data from a clinical drug-drug interaction study involving montelukast and rosiglitazone (a probe substrate representative of drugs primarily metabolized by CYP2C8) demonstrated that montelukast does not inhibit CYP2C8 in vivo, and therefore is not anticipated to alter the metabolism of drugs metabolized by this enzyme [see Drug Interactions (7) and Clinical Pharmacology, Drug-Drug Interactions (12.3)].
+In vitro studies using human liver microsomes indicate that CYP3A4, 2C8, and 2C9 are involved in the metabolism of montelukast.
+At clinically relevant concentrations, 2C8 appears to play a major role in the metabolism of montelukast.
 
 Elimination
 
@@ -113,6 +111,13 @@ Cytochrome P450 (CYP) Enzyme Inducers: Phenobarbital, which induces hepatic meta
 No dosage adjustment for montelukast sodium is recommended.
 It is reasonable to employ appropriate clinical monitoring when potent CYP enzyme inducers, such as phenobarbital or rifampin, are co-administered with montelukast sodium.
 
-Montelukast is a potent inhibitor of CYP2C8 in vitro.
+Effect of Montelukast on Cytochrome P450 (CYP) Enzymes:Montelukast is a potent inhibitor of CYP2C8 in vitro.
 However, data from a clinical drug-drug interaction study involving montelukast and rosiglitazone (a probe substrate representative of drugs primarily metabolized by CYP2C8) in 12 healthy individuals demonstrated that the pharmacokinetics of rosiglitazone are not altered when the drugs are coadministered, indicating that montelukast does not inhibit CYP2C8 in vivo.
 Therefore, montelukast is not anticipated to alter the metabolism of drugs metabolized by this enzyme (e.g., paclitaxel, rosiglitazone, and repaglinide).
+Based on further in vitro results in human liver microsomes, therapeutic plasma concentrations of montelukast do not inhibit CYP 3A4, 2C9, 1A2, 2A6, 2C19, or 2D6.
+
+Cytochrome P450 (CYP) Enzyme Inhibitors: In vitrostudies have shown that montelukast is a substrate of CYP 2C8, 2C9, and 3A4.
+Co-administration of montelukast with itraconazole, a strong CYP 3A4 inhibitor, resulted in no significant increase in the systemic exposure of montelukast.
+Data from a clinical drug-drug interaction study involving montelukast and gemfibrozil (an inhibitor of both CYP 2C8 and 2C9) demonstrated that gemfibrozil, at a therapeutic dose, increased the systemic exposure of montelukast by 4.4-fold.
+Co-administration of itraconazole, gemfibrozil, and montelukast did not further increase the systemic exposure of montelukast.
+Based on available clinical experience, no dosage adjustment of montelukast is required upon co-administration with gemfibrozil [see Overdosage (10)].

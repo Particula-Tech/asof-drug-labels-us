@@ -155,9 +155,9 @@ Other side effects with montelukast sodium include:
 - dizziness, drowsiness, pins and needles/numbness, seizures (convulsions or fits)
 - palpitations
 - nose bleed, stuffy nose
-- diarrhea, heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
+- heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset,vomiting
 - hepatitis
-- bruising, rash, severe skin reactions (erythema multiforme) that may occur without warning
+- bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
 - joint pain, muscle aches and muscle cramps
 - tiredness, swelling
 
@@ -211,4 +211,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8036138 Revised August 2012
+8038577 Revised November 2012
