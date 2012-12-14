@@ -1,3 +1,5 @@
+Information for Patients
+
 Patient Information
 
 Exforge HCT (X-phorj HCT) (amlodipine and valsartan and hydrochlorothiazide) Tablets

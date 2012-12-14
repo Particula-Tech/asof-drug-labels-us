@@ -33,6 +33,12 @@ Monitor renal function periodically in patients receiving valsartan and NSAID th
 
 The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on Exforge HCT and other agents that affect the RAS.
+
+Do not coadminister aliskiren with Exforge HCT in patients with diabetes.
+Avoid use of aliskiren with Exforge HCT in patients with renal impairment (GFR <60 mL/min).
+
 Hydrochlorothiazide
 
 When administered concurrently the following drugs may interact with thiazide diuretics:

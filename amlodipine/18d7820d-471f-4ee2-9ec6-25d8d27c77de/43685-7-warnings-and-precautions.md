@@ -35,7 +35,7 @@ Worsening angina and acute myocardial infarction can develop after starting or i
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
 Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Exforge HCT.
 Monitor renal function periodically in these patients.
-Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Exforge HCT.
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Exforge HCT [see Drug Interactions (7)].
 
 ## 5.5 Potassium Abnormalities
 
