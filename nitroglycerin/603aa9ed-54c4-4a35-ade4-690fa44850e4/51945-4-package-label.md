@@ -1,0 +1,7 @@
+# PRINCIPAL DISPLAY PANEL - OINTMENT 0.4% - CARTON
+
+NDC 58914-301-80
+
+RECTIV (nitroglycerin) Ointment 0.4% For Intra-anal Use Only 30 g
+
+# PRINCIPAL DISPLAY PANEL - OINTMENT 0.4% - TUBE

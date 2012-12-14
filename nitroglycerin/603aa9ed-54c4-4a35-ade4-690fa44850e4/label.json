@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021359"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Aptalis Pharma US, Inc.",
+  "package_ndcs": [
+    "58914-301-80"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "nitroglycerin",
+      "name": "Rectiv"
+    }
+  ],
+  "setid": "603aa9ed-54c4-4a35-ade4-690fa44850e4",
+  "source": "dailymed"
+}
