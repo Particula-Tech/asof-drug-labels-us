@@ -47,6 +47,22 @@ The incidence of retinal hemorrhage with sildenafil 20 mg TID was 1.4% versus 0%
 The incidence of eye hemorrhage at both 20 mg TID and at all doses studied was 1.4% for sildenafil versus 1.4% for placebo.
 The patients experiencing these reactions had risk factors for hemorrhage including concurrent anticoagulant therapy.
 
+In a placebo-controlled fixed dose titration study (Study 2) of sildenafil citrate (starting with recommended dose of 20 mg TID and increased to 40 mg TID and then 80 mg TID) as an adjunct to intravenous epoprostenol in patients with PAH, the adverse reactions that were more frequent in the sildenafil citrate + epoprostenol group than in the epoprostenol group (greater than 6% difference) are shown in Table 2 [see Clinical Studies (14)].
+
+Table 2.
+Adverse Reactions (%) in patients with PAH in Study 2 (incidence in Sildenafil + Epoprostenol group at least 6% greater than Epoprostenol group)
+
+|  | Sildenafil + Epoprostenol (n = 134) | Epoprostenol (n = 131) | (Sildenafil + Epoprostenol) minus Epoprostenol |
+| --- | --- | --- | --- |
+| Headache | 57 | 34 | 23 |
+| Edema^ | 25 | 13 | 14 |
+| Dyspepsia | 16 | 2 | 14 |
+| Pain in extremity | 17 | 6 | 11 |
+| Diarrhea | 25 | 18 | 7 |
+| Nausea | 25 | 18 | 7 |
+| Nasal congestion | 9 | 2 | 7 |
+| ^includes peripheral edema |  |  |  |
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of sildenafil (marketed for both PAH and erectile dysfunction).

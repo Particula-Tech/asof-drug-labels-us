@@ -52,3 +52,38 @@ Of the 277 treated patients, 259 entered a long-term, uncontrolled extension stu
 At the end of 1 year, 94% of these patients were still alive.
 Additionally, walk distance and functional class status appeared to be stable in patients taking sildenafil citrate.
 Without a control group, these data must be interpreted cautiously.
+
+Study 2
+
+A randomized, double-blind, placebo controlled study (Study 2) was conducted in 267 patients with PAH who were taking stable doses of intravenous epoprostenol.
+Patients had to have a mean pulmonary artery pressure (mPAP) greater than or equal to 25 mmHg and a pulmonary capillary wedge pressure (PCWP) less than or equal to 15 mmHg at rest via right heart catheterization within 21 days before randomization, and a baseline 6-minute walk test distance greater than or equal to 100 meters and less than or equal to 450 meters (mean 349 meters).
+Patients were randomized to placebo or sildenafil citrate (in a fixed titration starting from 20 mg, to 40 mg and then 80 mg, three times a day) and all patients continued intravenous epoprostenol therapy.
+
+At baseline patients had PPH (80%) or PAH secondary to CTD (20%);WHO functional class I (1%), II (26%), III (67%), or IV (6%); and the mean age was 48 years, 80% were female, and 79% were Caucasian.
+
+There was a statistically significant greater increase from baseline in 6-minute walk distance at Week 16 (primary endpoint) for the sildenafil citrate group compared with the placebo group.
+The mean change from baseline at Week 16 (last observation carried forward) was 30 meters for the sildenafil citrate group compared with 4 meters for the placebo group giving an adjusted treatment difference of 26 meters (95% CI: 10.8, 41.2) (p = 0.0009).
+
+Patients on sildenafil citrate achieved a statistically significant reduction in mPAP compared to those on placebo.
+A mean placebo-corrected treatment effect of -3.9 mmHg was observed in favor of sildenafil citrate (95% CI: -5.7, -2.1) (p = 0.00003).
+
+Time to clinical worsening of PAH was defined as the time from randomization to the first occurrence of a clinical worsening event (death, lung transplantation, initiation of bosentan therapy, or clinical deterioration requiring a change in epoprostenol therapy).
+Table 4 displays the number of patients with clinical worsening events in Study 2.
+Kaplan-Meier estimates and a stratified log-rank test demonstrated that placebo-treated patients were 3 times more likely to experience a clinical worsening event than sildenafil citrate -treated patients and that sildenafil citrate -treated patients experienced a significant delay in time to clinical worsening versus placebo-treated patients (p = 0.0074).
+Kaplan- Meier plot of time to clinical worsening is presented in Figure 11.
+
+Table 4.
+Clinical Worsening Events in Study 2
+
+|  | Placebo (N = 131) |  | Sildenafil (N = 134) |  |
+| --- | --- | --- | --- | --- |
+| Number of subjects with clinical worsening first event | 23 |  | 8 |  |
+|  | First Event | All Events | First Event | All Events |
+| Death, n | 3 | 4 | 0 | 0 |
+| Lung Transplantation, n | 1 | 1 | 0 | 0 |
+| Hospitalization due to PAH, n | 9 | 11 | 8 | 8 |
+| Clinical deterioration resulting in: Change of Epoprostenol Dose, n Initiation of Bosentan, n | 9 1 | 16 1 | 0 0 | 2 0 |
+| Proportion Worsened 95% Confidence Interval | 0.187 (0.12 - 0.26) |  | 0.062 (0.02 - 0.10) |  |
+
+Improvements in WHO functional class for PAH were also demonstrated in subjects on sildenafil citrate compared to placebo.
+More than twice as many sildenafil citrate -treated patients (36%) as placebo-treated patients (14%) showed an improvement in at least one functional New York Heart Association (NYHA) class for PAH.

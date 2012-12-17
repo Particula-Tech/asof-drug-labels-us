@@ -4,4 +4,4 @@ Sildenafil citrate is contraindicated in patients with:
 
 - Concomitant use of organic nitrates in any form, either regularly or intermittently, because of the greater risk of hypotension [see Warnings and Precautions (5.2)].
 - Known hypersensitivity to sildenafil or any component of the tablet.
-  Hypersensitivity, including anaphylactic reaction, anaphylactic shock and anaphylactoid reaction, has been reported in association with the use sildenafil.
+  Hypersensitivity, including anaphylactic reaction, anaphylactic shock and anaphylactoid reaction, has been reported in association with the use of sildenafil.

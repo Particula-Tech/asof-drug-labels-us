@@ -22,7 +22,7 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8038118 Revised October 2012
+8038769 Revised November 2012
 
 PATIENT INFORMATION
 
@@ -52,7 +52,7 @@ Sildenafil tablets are a prescription medicine used in adults to treat pulmonary
 With PAH, the blood pressure in your lungs is too high.
 Your heart has to work hard to pump blood into your lungs.
 
-Sildenafil tablets improve the ability to exercise.
+Sildenafil tablets improve the ability to exercise and can slow down worsening changes in your physical condition.
 
 - Sildenafil tablets are not for use in children
 - It is not known if sildenafil tablets are effective for the treatment of PAH in people who are also taking a medicine called bosentan (Tracleer®)
@@ -197,4 +197,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8038119 Revised October 2012
+8038769 Revised November 2012

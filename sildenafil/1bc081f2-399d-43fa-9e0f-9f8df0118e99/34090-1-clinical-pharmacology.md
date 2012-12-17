@@ -50,6 +50,8 @@ The mean steady state volume of distribution (Vss) for sildenafil is 105 L, indi
 Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96% bound to plasma proteins.
 Protein binding is independent of total drug concentrations.
 
+Bioequivalence was established between the 20 mg tablet and the 10 mg/mL oral suspension when administered as a 20 mg single oral dose of sildenafil (as citrate).
+
 Metabolism and Excretion
 
 Sildenafil is cleared predominantly by the CYP3A (major route) and cytochrome P450 2C9 (CYP2C9, minor route) hepatic microsomal isoenzymes.
