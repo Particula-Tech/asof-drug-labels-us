@@ -8,7 +8,7 @@ The usual dose is 250 mg four times daily in equally spaced doses.
 The 333 mg tablet is recommended if dosage is desired every 8 hours.
 If twice-a-day dosage is desired, the recommended dose is 500 mg every 12 hours.
 Dosage may be increased up to 4 g per day according to the severity of the infection.
-However, twice-aday dosing is not recommended when doses larger than 1 g daily are administered.
+However, twice-a-day dosing is not recommended when doses larger than 1 g daily are administered.
 
 ## Children
 

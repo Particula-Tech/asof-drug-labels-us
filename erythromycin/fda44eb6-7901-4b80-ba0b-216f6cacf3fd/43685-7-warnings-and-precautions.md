@@ -155,7 +155,7 @@ Ery-Tab Delayed Release Tablets (250 mg) contain 8.3 mg (0.4 mEq) of sodium per 
 
 Ery-Tab Delayed Release Tablets (333 mg) contain 11.2 mg (0.5 mEq) of sodium per tablet.
 
-Ery-Tab Delayed Release Tablets (USP) contain 16.7 mg (0.7 mEq) of sodium per tablet.
+Ery-Tab Delayed Release Tablets (500 mg) contain 16.7 mg (0.7 mEq) of sodium per tablet.
 
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.
