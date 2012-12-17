@@ -29,9 +29,9 @@ Arformoterol has been shown to be teratogenic in rats based upon findings of omp
 Increased pup loss at birth and during lactation and decreased pup weights were observed in rats at oral doses of 5 mg/kg and above (AUC exposure approximately 1100 times adult exposure at the maximum recommended daily inhalation dose).
 Delays in development were evident with an oral dose of 10 mg/kg (AUC exposure approximately 2400 times adult exposure at the maximum recommended daily inhalation dose).
 
-Arformoterol has been shown to be teratogenic in rabbits based on upon findings of malpositioned right kidney, a malformation, at oral doses of 20 mg/kg and above (AUC exposure approximately 8400 times adult exposure at the maximum recommended daily inhalation dose).
+Arformoterol has been shown to be teratogenic in rabbits based upon findings of malpositioned right kidney, a malformation, at oral doses of 20 mg/kg and above (AUC exposure approximately 8400 times adult exposure at the maximum recommended daily inhalation dose).
 Malformations including brachydactyly, bulbous aorta, and liver cysts were observed at doses of 40 mg/kg and above (approximately 22,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
-Malformation including adactyly, lobular dysgenesis of the lung, interventricular septal defect were observed at 80 mg/kg (approximately 43,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
+Malformations including adactyly, lobular dysgenesis of the lung, and interventricular septal defect were observed at 80 mg/kg (approximately 43,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
 Embryolethality was observed at 80 mg/kg/day (approximately 43,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
 Decreased pup body weights were observed at doses of 40 mg/kg/day and above (approximately 22,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
 There were no teratogenic findings in rabbits with oral dose of 10 mg/kg and lower (AUC exposure approximately 4900 times adult exposure at the maximum recommended daily inhalation dose).

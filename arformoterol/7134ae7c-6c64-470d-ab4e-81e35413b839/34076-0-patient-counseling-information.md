@@ -9,7 +9,7 @@ Asthma-Related Deaths, Acute Exacerbations or Deteriorations
 Patients should be informed that long-acting beta2-adrenergic agonists, such as BROVANA Inhalation Solution, increase risk of asthma-related death in patients with asthma.
 
 BROVANA Inhalation Solution is not indicated to relieve acute respiratory symptoms and extra doses should not be used for that purpose.
-Acute symptoms should be treated with an inhaled, short-acting, beta2-agonist (the health-care provider should prescribe the patient with such medication and instruct the patient in how it should be used).
+Acute symptoms should be treated with an inhaled, short-acting beta2-agonist (the healthcare provider should prescribe the patient with such medication and instruct the patient in how it should be used).
 Patients should be instructed to seek medical attention if their symptoms worsen despite recommended doses of BROVANA Inhalation Solution, if BROVANA Inhalation Solution treatment becomes less effective, or if they need more inhalations of a short-acting beta2-agonist than usual.
 
 Appropriate Dosing
@@ -26,7 +26,7 @@ Patients who have been taking inhaled, short-acting beta2-agonists (e.g., levalb
 BROVANA Inhalation Solution should not be used in conjunction with other inhaled medications containing long-acting beta2-agonists.
 Patients should be warned not to stop or change the dose of other concomitant COPD therapy without medical advice, even if symptoms improve after initiating treatment with BROVANA Inhalation Solution.
 
-Common Adverse Reactions with Beta2 -agonists
+Common Adverse Reactions with Beta2-agonists
 
 Patients should be informed that treatment with beta2-agonists may lead to adverse reactions that include palpitations, chest pain, rapid heart rate, increased or decreased blood pressure, headache, tremor, nervousness, dry mouth, muscle cramps, nausea, dizziness, fatigue, malaise, low blood potassium, high blood sugar, high blood acid, or trouble sleeping [see ADVERSE REACTIONS (6.1)].
 
@@ -45,8 +45,12 @@ See the accompanying Medication Guide.
 
 SUNOVION
 
-Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA BROVANA is a registered trademark of Sunovion Pharmaceuticals Inc. For customer service, call 1-888-394-7377.
+Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
+
+© 2011 Sunovion Pharmaceuticals Inc. All rights reserved.
+
+For customer service, call 1-888-394-7377.
 To report adverse events, call 1-877-737-7226.
 For medical information, call 1-800-739-0565.
 
-July 2011 901552R00
+February 2012 901552R01

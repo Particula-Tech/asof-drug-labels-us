@@ -23,13 +23,13 @@ The most common adverse effects may include skeletal muscle tremor and cramps, i
 
 Effects on Serum Potassium and Serum Glucose Levels
 
-Changes in serum potassium and serum glucose were evaluated in a dose ranging study of twice daily (5 mcg, 15 mcg, or 25 mcg; 215 patients with COPD) and once daily (15 mcg, 25 mcg, or 50 mcg; 191 patients with COPD) BROVANA Inhalation Solution in COPD patients.
-At 2 and 6 hours post dose at week 0 (after the first dose), mean changes in serum potassium ranging from 0 to –0.3 mEq/L were observed in the BROVANA Inhalation Solution groups with similar changes observed after 2 weeks of treatment.
+Changes in serum potassium and serum glucose were evaluated in a dose-ranging study of twice daily (5 mcg, 15 mcg, or 25 mcg; 215 patients with COPD) and once daily (15 mcg, 25 mcg, or 50 mcg; 191 patients with COPD) BROVANA Inhalation Solution in COPD patients.
+At 2 and 6 hours post dose at week 0 (after the first dose), mean changes in serum potassium ranging from 0 to -0.3 mEq/L were observed in the BROVANA Inhalation Solution groups with similar changes observed after 2 weeks of treatment.
 Changes in mean serum glucose levels, ranging from a decrease of 1.2 mg/dL to an increase of 32.8 mg/dL were observed for BROVANA Inhalation Solution dose groups at both 2 and 6 hours post dose, both after the first dose and 14 days of daily treatment.
 
 Electrophysiology
 
-The effect of BROVANA Inhalation Solution on QT interval was evaluated in a dose ranging study following multiple doses of BROVANA Inhalation Solution 5 mcg, 15 mcg, or 25 mcg twice daily or 15 mcg, 25 mcg, or 50 mcg once daily for 2 weeks in patients with COPD.
+The effect of BROVANA Inhalation Solution on QT interval was evaluated in a dose-ranging study following multiple doses of BROVANA Inhalation Solution 5 mcg, 15 mcg, or 25 mcg twice daily or 15 mcg, 25 mcg, or 50 mcg once daily for 2 weeks in patients with COPD.
 ECG assessments were performed at baseline, time of peak plasma concentration and throughout the dosing interval.
 Different methods of correcting for heart rate were employed, including a subject-specific method and the Fridericia method.
 
@@ -39,28 +39,28 @@ No apparent correlation of QTc with arformoterol plasma concentration was observ
 
 Electrocardiographic Monitoring in Patients with COPD
 
-The effect of different doses of BROVANA Inhalation Solution on cardiac rhythm was assessed using 24-hour Holter monitoring in two 12-week double-blind, placebo-controlled studies of 1,456 patients with COPD (873 received BROVANA Inhalation Solution at 15 or 25 mcg twice daily or 50 mcg once daily doses; 293 received placebo; 290 received salmeterol).
+The effect of different doses of BROVANA Inhalation Solution on cardiac rhythm was assessed using 24-hour Holter monitoring in two 12-week, double-blind, placebo-controlled studies of 1,456 patients with COPD (873 received BROVANA Inhalation Solution at 15 or 25 mcg twice daily or 50 mcg once daily doses; 293 received placebo; 290 received salmeterol).
 The 24-hour Holter monitoring occurred once at baseline, and up to 3 times during the 12-week treatment period.
 The rates of new-onset cardiac arrhythmias not present at baseline over the double-blind 12-week treatment period were similar (approximately 33-34%) for patients who received BROVANA Inhalation Solution 15 mcg twice daily to those who received placebo.
-There was a dose-related increase in new, treatment emergent arrhythmias seen in patients who received BROVANA Inhalation Solution 25 mcg twice daily and 50 mcg once daily, 37.6% and 40.1 %, respectively.
-The frequencies of new treatment emergent events of non-sustained (3-10 beat run) and sustained (>10 beat run) ventricular tachycardia were 7.4% and 1.1% in BROVANA Inhalation Solution 15 mcg twice daily and 6.9% and 1.0% in placebo.
-In patients who received BROVANA Inhalation Solution 25 mcg twice daily and 50 mcg once daily the frequencies of non-sustained (6.2% and 8.2%, respectively) and sustained ventricular tachycardia (1.0% and 1.0%, respectively) were similar.
+There was a dose-related increase in new, treatment-emergent arrhythmias seen in patients who received BROVANA Inhalation Solution 25 mcg twice daily and 50 mcg once daily, 37.6% and 40.1%, respectively.
+The frequencies of new treatment-emergent events of non-sustained (3-10 beat run) and sustained (>10 beat run) ventricular tachycardia were 7.4% and 1.1% in BROVANA Inhalation Solution 15 mcg twice daily and 6.9% and 1.0% in placebo.
+In patients who received BROVANA Inhalation Solution 25 mcg twice daily and 50 mcg once daily, the frequencies of non-sustained (6.2% and 8.2%, respectively) and sustained ventricular tachycardia (1.0% and 1.0%, respectively) were similar.
 Five cases of ventricular tachycardia were reported as adverse events (1 in BROVANA Inhalation Solution 15 mcg twice daily and 4 in placebo), with two of these events leading to discontinuation of treatment (2 in placebo).
 
-There were no baseline occurrences of atrial fibrillation/ flutter observed on 24-hour Holter monitoring in patients treated with BROVANA Inhalation Solution 15 mcg twice daily or placebo.
-New, treatment emergent atrial fibrillation/ flutter occurred in 0.4% of patients who received BROVANA Inhalation Solution 15 mcg twice daily and 0.3% of patients who received placebo.
-There was a dose-related increase in the frequency of atrial fibrillation/ flutter reported in the BROVANA Inhalation Solution 25 mcg twice daily and 50 mcg once daily dose groups of 0.7% and 1.4%, respectively.
-Two cases of atrial fibrillation/ flutter were reported as adverse events (1 in BROVANA Inhalation Solution 15 mcg twice daily and 1 in placebo).
+There were no baseline occurrences of atrial fibrillation/flutter observed on 24-hour Holter monitoring in patients treated with BROVANA Inhalation Solution 15 mcg twice daily or placebo.
+New, treatment-emergent atrial fibrillation/flutter occurred in 0.4% of patients who received BROVANA Inhalation Solution 15 mcg twice daily and 0.3% of patients who received placebo.
+There was a dose-related increase in the frequency of atrial fibrillation/flutter reported in the BROVANA Inhalation Solution 25 mcg twice daily and 50 mcg once daily dose groups of 0.7% and 1.4%, respectively.
+Two cases of atrial fibrillation/flutter were reported as adverse events (1 in BROVANA Inhalation Solution 15 mcg twice daily and 1 in placebo).
 
 Dose-related increases in mean maximum change in heart rate in the 12 hours after dosing were also observed following 12 weeks of dosing with BROVANA Inhalation Solution 15 mcg twice daily (8.8 bpm), 25 mcg twice daily (9.9 bpm) and 50 mcg once daily (12 bpm) versus placebo (8.5 bpm).
 
-Tachyphylaxis/ Tolerance
+Tachyphylaxis/Tolerance
 
 Tolerance to the effects of inhaled beta-agonists can occur with regularly-scheduled, chronic use.
 
 In two placebo-controlled clinical trials in patients with COPD involving approximately 725 patients in each, the overall efficacy of BROVANA Inhalation Solution was maintained throughout the 12-week trial duration.
 However, tolerance to the bronchodilator effect of BROVANA Inhalation Solution was observed after 6 weeks of dosing, as measured by a decrease in trough FEV1.
-FEV1 improvement at the end of the 12-hour dosing interval decreased by approximately one third (22.1% mean improvement after the first dose compared to 14.6% at week 12).
+FEV1 improvement at the end of the 12-hour dosing interval decreased by approximately one-third (22.1% mean improvement after the first dose compared to 14.6% at week 12).
 Tolerance to the trough FEV1 bronchodilator effect of BROVANA Inhalation Solution was not accompanied by other clinical manifestations of tolerance in these trials.
 
 ## 12.3 Pharmacokinetics
@@ -69,13 +69,13 @@ The pharmacokinetics (PK) of arformoterol have been investigated in healthy subj
 
 Absorption
 
-In COPD patients administered 15 mcg arformoterol every 12 hours for 14 days, the mean steady-state peak (R,R)-formoterol plasma concentration (Cmax) and systemic exposure (AUC0-12h) were 4.3 pg/mL and 34.5 pg*hr/mL, respectively.
-The median steady-state peak (R,R)-formoterol plasma concentration time (tmax) was observed approximately one half hour after drug administration.
+In COPD patients administered 15 mcg arformoterol every 12 hours for 14 days, the mean steady-state peak (R,R)-formoterol plasma concentration (Cmax) and systemic exposure (AUC0-12h) were 4.3 pg/mL and 34.5 pg•hr/mL, respectively.
+The median steady-state peak (R,R)-formoterol plasma concentration time (tmax) was observed approximately one-half hour after drug administration.
 
 Systemic exposure to (R,R)-formoterol increased linearly with dose in COPD patients following arformoterol doses of 5 mcg, 15 mcg, or 25 mcg twice daily for 2 weeks or 15 mcg, 25 mcg, or 50 mcg once daily for 2 weeks.
 
 In a crossover study in patients with COPD, when arformoterol 15 mcg inhalation solution and 12 and 24 mcg formoterol fumarate inhalation powder (Foradil® Aerolizer®) was administered twice daily for 2 weeks, the accumulation index was approximately 2.5 based on the plasma (R,R)-formoterol concentrations in all three treatments.
-At steady state, geometric means of systemic exposure (AUC0-12h) to (R,R)-formoterol following 15 mcg of arformoterol inhalation solution and 12 mcg of formoterol fumarate inhalation powder were 39.33 pg*hr/mL and 33.93 pg*hr/mL, respectively (ratio 1.16; 90% CI 1.00, 1.35), while the geometric means of the Cmax were 4.30 pg/mL and 4.75 pg/mL, respectively (ratio 0.91; 90% CI 0.76, 1.09).
+At steady- state, geometric means of systemic exposure (AUC0-12h) to (R,R)-formoterol following 15 mcg of arformoterol inhalation solution and 12 mcg of formoterol fumarate inhalation powder were 39.33 pg•hr/mL and 33.93 pg•hr/mL, respectively (ratio 1.16; 90% CI 1.00, 1.35), while the geometric means of the Cmax were 4.30 pg/mL and 4.75 pg/mL, respectively (ratio 0.91; 90% CI 0.76, 1.09).
 
 In a study in patients with asthma, treatment with arformoterol 50 mcg with pre- and post-treatment with activated charcoal resulted in a geometric mean decrease in (R,R)-formoterol AUC0-6h by 27% and Cmax by 23% as compared to treatment with arformoterol 50 mcg alone.
 This suggests that a substantial portion of systemic drug exposure is due to pulmonary absorption.
@@ -105,7 +105,7 @@ Renal clearance was 8.9 L/hr for unchanged arformoterol in these subjects.
 
 In COPD patients given 15 mcg inhaled arformoterol twice a day for 14 days, the mean terminal half-life of arformoterol was 26 hours.
 
-Special Populations
+Special Populations:
 
 Gender
 

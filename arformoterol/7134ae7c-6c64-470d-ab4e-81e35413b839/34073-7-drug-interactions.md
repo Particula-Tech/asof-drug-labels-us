@@ -9,14 +9,14 @@ If additional adrenergic drugs are to be administered by any route, they should 
 Concomitant treatment with methylxanthine (aminophylline, theophylline), steroids, or diuretics may potentiate any hypokalemic effect of adrenergic agonists including BROVANA Inhalation Solution [see WARNINGS AND PRECAUTIONS (5.7)].
 
 The concurrent use of intravenously or orally administered methylxanthines (e.g., aminophylline, theophylline) by patients receiving BROVANA Inhalation Solution has not been completely evaluated.
-In two combined 12-week placebo controlled trials that included BROVANA Inhalation Solution doses of 15 mcg twice daily, 25 mcg twice daily, and 50 mcg once daily, 54 of 873 BROVANA Inhalation Solution treated subjects received concomitant theophylline at study entry.
-In a 12 month controlled trial that included a 50 mcg once daily BROVANA Inhalation Solution dose, 30 of the 528 BROVANA Inhalation Solution treated subjects received concomitant theophylline at study entry.
+In two combined 12-week, placebo-controlled trials that included BROVANA Inhalation Solution doses of 15 mcg twice daily, 25 mcg twice daily, and 50 mcg once daily, 54 of 873 BROVANA Inhalation Solution-treated subjects received concomitant theophylline at study entry.
+In a 12-month controlled trial that included a 50 mcg once daily BROVANA Inhalation Solution dose, 30 of the 528 BROVANA Inhalation Solution-treated subjects received concomitant theophylline at study entry.
 In these trials, heart rate and systolic blood pressure were approximately 2-3 bpm and 6-8 mm Hg higher, respectively, in subjects on concomitant theophylline compared with the overall population.
 
 ## 7.3 Non-potassium Sparing Diuretics
 
 The ECG changes and/or hypokalemia that may result from the administration of non-potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
-Although the clinical significance of these effects is not known, caution is advised in the co-administration of beta-agonists including BROVANA Inhalation Solution with non-potassium sparing diuretics.
+Although the clinical significance of these effects is not known, caution is advised in the co-administration of beta-agonists, including BROVANA Inhalation Solution, with non-potassium sparing diuretics.
 
 ## 7.4 MAO Inhibitors, Tricyclic Antidepressants, QTc Prolonging Drugs
 

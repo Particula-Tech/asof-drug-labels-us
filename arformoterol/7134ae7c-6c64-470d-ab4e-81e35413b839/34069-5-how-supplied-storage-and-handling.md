@@ -6,12 +6,12 @@ BROVANA Inhalation Solution is available in a shelf-carton containing 30 or 60 u
 NDC 63402-911-30: carton of 30 individually pouched unit-dose vials.
 NDC 63402-911-64: carton of 60 unit-dose vials (15×4 unit-dose vial pouches).
 
-Storage and Handling:
+Storage and Handling
 
 Store BROVANA Inhalation Solution in the protective foil pouch under refrigeration at 36°-46°F (2°-8°C).
 Protect from light and excessive heat.
 After opening the pouch, unused unit-dose vials should be returned to, and stored in, the pouch.
 An opened unit-dose vial should be used right away.
 Discard any unit-dose vial if the solution is not colorless.
-Unopened foil pouches of BROVANA Inhalation Solution can also be stored at room temperature 68°-77°F, (20°-25°C) for up to 6 weeks.
+Unopened foil pouches of BROVANA Inhalation Solution can also be stored at room temperature 68°-77°F (20°-25°C) for up to 6 weeks.
 If stored at room temperature, discard if not used after 6 weeks or if past the expiration date, whichever is sooner.

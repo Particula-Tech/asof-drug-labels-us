@@ -15,7 +15,7 @@ Delays in development were evident with an oral dose approximately 2400 times ad
 
 Arformoterol has been shown to be teratogenic in rabbits based upon findings of malpositioned right kidney, a malformation, at oral doses equal to and greater than approximately 8400 times adult exposure at the maximum recommended daily inhalation dose.
 Malformations including brachydactyly, bulbous aorta, and liver cysts were observed at oral doses equal to and greater than approximately 22,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis.
-Malformation including adactyly, lobular dysgenesis of the lung, and interventricular septal defect were observed at an oral dose approximately 43,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis.
+Malformations including adactyly, lobular dysgenesis of the lung, and interventricular septal defect were observed at an oral dose approximately 43,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis.
 Embryolethality was observed at an oral dose approximately 43,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis.
 Decreased pup body weights were observed at oral doses equal to and greater than approximately 22,000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis.
 There were no teratogenic findings in rabbits with oral doses equal to or less than approximately 4900 times adult exposure at the maximum recommended daily inhalation dose.
@@ -34,7 +34,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-BROVANA Inhalation Solution is approved for use in the long term maintenance treatment of bronchoconstriction associated with chronic obstructive pulmonary disease, including chronic bronchitis and emphysema.
+BROVANA Inhalation Solution is approved for use in the long-term maintenance treatment of bronchoconstriction associated with chronic obstructive pulmonary disease, including chronic bronchitis and emphysema.
 This disease does not occur in children.
 The safety and efficacy of BROVANA Inhalation Solution in pediatric patients have not been established.
 

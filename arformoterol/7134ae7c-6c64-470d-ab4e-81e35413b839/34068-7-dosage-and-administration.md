@@ -17,5 +17,5 @@ However, since the clearance of BROVANA Inhalation Solution is prolonged in pati
 
 The drug compatibility (physical and chemical), efficacy, and safety of BROVANA Inhalation Solution when mixed with other drugs in a nebulizer have not been established.
 
-The safety and efficacy of BROVANA Inhalation Solution have been established in clinical trials when administered using the PARI LC® Plus nebulizer (with a facemask or mouth piece) and the PARI DURA NEB™ 3000 compressor.
+The safety and efficacy of BROVANA Inhalation Solution have been established in clinical trials when administered using the PARI LC® Plus nebulizer (with a face mask or mouthpiece) and the PARI DURA NEB™ 3000 compressor.
 The safety and efficacy of BROVANA Inhalation Solution delivered from non-compressor based nebulizer systems have not been established.

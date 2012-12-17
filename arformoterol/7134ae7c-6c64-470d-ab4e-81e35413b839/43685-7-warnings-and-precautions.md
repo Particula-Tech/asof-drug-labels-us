@@ -1,8 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Deaths
-
-[see BOXED WARNING]
+## 5.1 Asthma-Related Deaths [see BOXED WARNING]
 
 Data from a large placebo-controlled study in asthma patients showed that long-acting beta2-adrenergic agonists (LABA) increase the risk of asthma-related death.
 This finding is considered a class effect of LABA, including arformoterol, the active ingredient in BROVANA Inhalation Solution.
@@ -10,9 +8,9 @@ The safety and efficacy of BROVANA Inhalation Solution in patients with asthma h
 All LABA, including BROVANA Inhalation Solution, are contraindicated in patients with asthma without use of a long-term asthma control medication [see CONTRAINDICATIONS (4)].
 Data are not available to determine whether the rate of deaths in patients with COPD is increased by long-acting beta2-adrenergic agonists.
 
-A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increases in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
+A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
 The increased risk of asthma-related death is considered a class effect of the long-acting beta2-adrenergic agonists, including BROVANA Inhalation Solution.
-No study adequate to determine whether the rate of asthma related death is increased in patients treated with BROVANA Inhalation Solution has been conducted.
+No study adequate to determine whether the rate of asthma-related death is increased in patients treated with BROVANA Inhalation Solution has been conducted.
 
 Clinical studies with racemic formoterol suggested a higher incidence of serious asthma exacerbations in patients who received racemic formoterol than in those who received placebo.
 The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
@@ -47,14 +45,15 @@ If paradoxical bronchospasm occurs, BROVANA Inhalation Solution should be discon
 
 BROVANA Inhalation Solution, like other beta2-agonists, can produce a clinically significant cardiovascular effect in some patients as measured by increases in pulse rate, systolic and/or diastolic blood pressure, and/or symptoms.
 If such effects occur, the drug may need to be discontinued.
-In addition, beta-agonists have been reported to produce ECG changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
+In addition, beta-agonists have been reported to produce ECG changes, such as flattening of the T-wave, prolongation of the QTc interval, and ST segment depression.
 The clinical significance of these findings is unknown.
 BROVANA Inhalation Solution, as with other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 
 ## 5.6 Coexisting Conditions
 
 BROVANA Inhalation Solution, like other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension; in patients with convulsive disorders or thyrotoxicosis, and in patients who are unusually responsive to sympathomimetic amines.
-In two pooled 12 week placebo controlled trials investigating BROVANA Inhalation Solution doses of 15 μg BID, 25 μg BID, and 50 μg QD, changes in mean predose and 2-hour post dose systolic and/or diastolic blood pressure were seen as a general fall of 2 – 4 mm/Hg; for pulse rate the mean of maximal increases were 8.8 – 12.0 beats/min Over the course of a one year study measuring serial electrocardiograms while receiving a dose of 50 mcg daily of BROVANA Inhalation Solution resulted in an approximately 3.0 ms increase in QTC C-F compared to the active comparator, salmeterol.
+In two pooled, 12-week, placebo-controlled trials investigating BROVANA Inhalation Solution doses of 15 μg BID, 25 μg BID, and 50 μg QD, changes in mean predose and 2-hour post dose systolic and/or diastolic blood pressure were seen as a general fall of 2-4 mm/Hg; for pulse rate the mean of maximal increases were 8.8-12.0 beats/min.
+Over the course of a one-year study measuring serial electrocardiograms while receiving a dose of 50 mcg daily of BROVANA Inhalation Solution resulted in an approximately 3.0 ms increase in QTC-F compared to the active comparator, salmeterol.
 Doses of the related beta2-agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
 
 ## 5.7 Hypokalemia and Hyperglycemia
