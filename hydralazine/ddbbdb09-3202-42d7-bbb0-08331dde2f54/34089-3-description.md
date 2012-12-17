@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Hydralazine hydrochloride tablets USP, is an antihypertensive, for oral administration.
+Hydralazine Hydrochloride Tablets USP, is an antihypertensive, for oral administration.
 Its chemical name is 1-hydrazinophthalazine monohydrochloride, and its structural formula is:
 
 Hydralazine hydrochloride USP is a white to off-white, odorless crystalline powder.

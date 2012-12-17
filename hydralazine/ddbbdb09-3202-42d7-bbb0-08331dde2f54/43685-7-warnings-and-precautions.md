@@ -59,12 +59,16 @@ In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose le
 Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group.
 The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment.
 Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies.
-Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine.
+Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine.
 
 The extent to which these findings indicate a risk to man is uncertain.
 While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions.
 
-## Pregnancy Category C
+## Pregancy
+
+### Teratogenic Effects
+
+#### Pregnancy Category C
 
 Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats.
 Teratogenic effects observed were cleft palate and malformations of facial and cranial bones.
@@ -74,8 +78,7 @@ Although clinical experience does not include any positive evidence of adverse e
 
 ## Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when hydralazine is administered to a nursing woman.
+Hydralazine has been shown to be excreted in breast milk.
 
 ## Pediatric Use
 
