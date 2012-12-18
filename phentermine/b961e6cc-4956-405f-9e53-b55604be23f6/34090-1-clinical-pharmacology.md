@@ -23,6 +23,11 @@ Despite the decrease in Cmax and AUC, phentermine ODT can be administered with o
 
 Swallowing the ODT without prior disintegration decreased the Cmax of phentermine by approximately 7% and the AUC by approximately 8% compared to swallowing the ODT after disintegration.
 
+Drug Interactions
+
+In a single-dose study comparing the exposures after oral administration of a combination capsule of 15 mg phentermine and 92 mg topiramate to the exposures after oral administration of a 15 mg phentermine capsule or a 92 mg topiramate capsule, there is no significant topiramate exposure change in the presence of phentermine.
+However in the presence of topiramate, phentermine Cmax and AUC increase 13% and 42%, respectively.
+
 Specific Populations
 
 Renal Impairment
