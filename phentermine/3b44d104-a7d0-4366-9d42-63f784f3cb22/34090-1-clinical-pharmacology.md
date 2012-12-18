@@ -23,3 +23,8 @@ Phentermine was not studied in patients with renal impairment.
 The literature reported cumulative urinary excretion of phentermine under uncontrolled urinary pH conditions is 62% to 85%.
 Exposure increases can be expected in patients with renal impairment.
 Use caution when administering phentermine to patients with renal impairment.
+
+Drug Interactions
+
+In a single-dose study comparing the exposures after oral administration of a combination capsule of 15 mg Phentermine and 92 mg topiramate to the exposures after oral administration of a 15 mg Phentermine capsule or a 92 mg topiramate capsule, there is no significant topiramate exposure change in the presence of Phentermine.
+However, in the presence of topiramate, Phentermine Cmax and AUC increase 13% and 42%, respectively.

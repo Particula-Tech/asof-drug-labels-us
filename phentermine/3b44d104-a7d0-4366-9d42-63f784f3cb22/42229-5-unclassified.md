@@ -1,9 +1,9 @@
 # HIGHLIGHTS OF PRESCRIBING INFORMATION
 
-These highlights do not include all the information needed to use Phentermine hydrochloride, USP 37.5 mg safely and effectively.
-See full prescribing information for Phentermine hydrochloride, USP 37.5 mg.
+These highlights do not include all the information needed to use Phentermine Hydrochloride Tablets and Capsules, USP 37.5 mg safely and effectively.
+See full prescribing information for Phentermine Hydrochloride Tablets and Capsules, USP 37.5 mg.
 
-Phentermine hydrochloride, USP 37.5 mg (phentermine hydrochloride USP) CIV for oral use
+Phentermine Hydrochloride Tablets and Capsules, USP 37.5 mg (phentermine hydrochloride USP) CIV for oral use
 
 INDICATIONS AND USAGE
 
@@ -120,7 +120,7 @@ USE IN SPECIFIC POPULATIONS
 
 See 17 for PATIENT COUNSELING INFORMATION
 
-Revised: 08/2012
+Revised: 12/2012
 
 FULL PRESCRIBING INFORMATION: CONTENTS*
 
@@ -217,11 +217,13 @@ FULL PRESCRIBING INFORMATION
 # 2 DOSAGE AND ADMINISTRATION
 
 Exogenous Obesity Dosage should be individualized to obtain an adequate response with the lowest effective dose.
-The usual adult dose is one tablet (37.5 mg) daily, as prescribed by the physician, administered before breakfast or 1 to 2 hours after breakfast.
+The usual adult dose is one tablet (37.5 mg) or one capsule (37.5 mg) daily, as prescribed by the physician, administered before breakfast or 1 to 2 hours after breakfast.
 The dosage may be adjusted to the patient’s need.
 For some patients, half tablet (18.75 mg) daily may be adequate, while in some cases it may be desirable to give half tablets (18.75 mg) two times a day.
 
 Phentermine is not recommended for use in pediatric patients ≤ 16 years of age.
+
+Late evening medication should be avoided because of the possibility of resulting insomnia.
 
 # 3 DOSAGE FORMS AND STRENGTHS
 
@@ -266,7 +268,7 @@ Other initial symptoms may include angina pectoris, syncope or lower extremity e
 Patients should be advised to report immediately any deterioration in exercise tolerance.
 Treatment should be discontinued in patients who develop new, unexplained symptoms of dyspnea, angina pectoris, syncope or lower extremity edema, and patients should be evaluated for the possible presence of pulmonary hypertension.
 
-### 5.3 Valvulary Hearth Disease
+### 5.3 Valvular Heart Disease
 
 Serious regurgitant cardiac valvular disease, primarily affecting the mitral, aortic and/or tricuspid valves, has been reported in otherwise healthy persons who had taken a combination of phentermine with fenfluramine or dexfenfluramine for weight loss.
 The possible role of phentermine in the etiology of these valvulopathies has not been established and their course in individuals after the drugs are stopped is not known.
@@ -386,7 +388,7 @@ Patients must be informed that phentermine hydrochloride is a short-term (a few 
 
 Patients must be instructed on how much phentermine to take, and when and how to take it [see Dosage and Administration (3)].
 
-Advise pregnant women and nursing mothers not to use phentermine [see Use in Specific Populations (8.1, 8.3)].
+Advice pregnant women and nursing mothers not to use phentermine [see Use in Specific Populations (8.1, 8.3)].
 
 Patients must be informed about the risks of use of phentermine (including the risks discussed in Warnings and Precautions), about the symptoms of potential adverse reactions and when to contact a physician and/or take other action.
 The risks include, but are not limited to:
@@ -430,7 +432,7 @@ KVK-TECH INC.
 
 Newtown, PA 18940.
 
-Item ID # 006071/01 08/12
+Item ID # 006071/04 12/12
 
 Manufacturer’s Code: 10702
 
