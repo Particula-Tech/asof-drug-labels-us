@@ -20,4 +20,4 @@ Women of childbearing potential should be informed of the potential risks during
 This product’s label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0473-2.0
+LAB-0473-3.0

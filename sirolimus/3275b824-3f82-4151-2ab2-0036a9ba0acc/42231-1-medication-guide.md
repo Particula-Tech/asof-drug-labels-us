@@ -89,7 +89,7 @@ Especially tell your doctor if you take:
 - medicines used to treat stomach acid, ulcers, or other gastrointestinal problems
 - bromocriptine mesylate (Parlodel, Cycloset)
 - danazol
-- an anti-HIV medicine
+- medicines to treat HIV or hepatitis C
 - St. John’s Wort
 
 How should I take RAPAMUNE?
@@ -243,9 +243,9 @@ For Rapamune Oral Solution:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0578-1.0
+LAB-0578-2.0
 
-Issued November 2010.
+Issued December 2012.
 
 INSTRUCTIONS FOR USE
 

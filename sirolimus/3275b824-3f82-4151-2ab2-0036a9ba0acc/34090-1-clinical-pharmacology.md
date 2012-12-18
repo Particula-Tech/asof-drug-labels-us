@@ -248,7 +248,7 @@ Antibiotics: troleandomycin.
 
 Gastrointestinal prokinetic agents: cisapride, metoclopramide.
 
-Other drugs: bromocriptine, cimetidine, danazol, HIV-protease inhibitors (e.g., ritonavir, indinavir).
+Other drugs: bromocriptine, cimetidine, danazol, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
 
 Other drugs that have the potential to decrease sirolimus concentrations include (but are not limited to):
 

@@ -4,11 +4,9 @@ NDC 0008-1030-06
 
 60 mL Patient Kit
 
-Rapamune®
+Rapamune® (sirolimus) Oral Solution 1 mg/mL
 
-(sirolimus)
-
-Oral Solution 1 mg/mL
+Rx only
 
 For oral use only.
 
@@ -17,8 +15,6 @@ Each mL of RAPAMUNE contains 1 mg sirolimus.
 1.5%-2.5% ethanol
 
 Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
-
-Rx only
 
 Pfizer
 
