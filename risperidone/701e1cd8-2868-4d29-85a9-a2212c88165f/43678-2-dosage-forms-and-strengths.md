@@ -5,5 +5,5 @@ All are capsule shaped, and imprinted with "PATR" on one side and either "Ris 0.
 
 Risperidone Oral Solution is available in a 1 mg/mL strength.
 
-Risperidone M-TAB® Orally Disintegrating Tablets are available in the following strengths, colors, and shapes: 0.5 mg (light coral, round), 1 mg (light coral, square), 2 mg (coral, square), 3 mg (coral, round), and 4 mg (coral, round).
+Risperidone Orally Disintegrating Tablets are available in the following strengths, colors, and shapes: 0.5 mg (light coral, round), 1 mg (light coral, square), 2 mg (coral, square), 3 mg (coral, round), and 4 mg (coral, round).
 All are biconvex and etched on one side with "P0.5", "P1", "P2", "P3", or "P4" according to their respective strengths.

@@ -1,10 +1,5 @@
-Revised September 2011
+Risperidone Tablets Active ingredient is made in Ireland Finished product is manufactured by: Janssen Ortho, LLC Gurabo, Puerto Rico 00778 Risperidone Oral Solution Active ingredient is made in Belgium Finished product is manufactured by: Janssen Pharmaceutica NV Beerse, Belgium Risperidone Orally Disintegrating Tablets Active ingredient is made in Ireland Finished product is manufactured by: Janssen Ortho, LLC Gurabo, Puerto Rico 00778
 
-Risperidone Tablets are manufactured by: JOLLC, Gurabo, Puerto Rico 00778
+Risperidone Tablets, Risperidone Orally Disintegrating Tablets, and Risperidone Oral Solution are manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044
 
-Risperidone Oral Solution is manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium
-
-Risperidone M-TAB® Orally Disintegrating Tablets are manufactured by: JOLLC, Gurabo, Puerto Rico 00778
-
-Risperidone Tablets, Risperidone M-TAB® Orally Disintegrating Tablets, and Risperidone Oral Solution are manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044
+Revised August 2012

@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 0.25 mg Tablet Label
 
 60 Tablets NDC 50458-590-60
 
-Risperidone Tablets
+risperiDONE Tablets
 
 0.25 mg
 
@@ -14,7 +14,7 @@ PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Label
 
 60 Tablets NDC 50458-591-60
 
-Risperidone Tablets
+risperiDONE Tablets
 
 0.5 mg
 
@@ -26,7 +26,7 @@ PRINCIPAL DISPLAY PANEL - 1 mg Tablet Label
 
 60 Tablets NDC 50458-592-60
 
-Risperidone Tablets
+risperiDONE Tablets
 
 1 mg
 
@@ -38,7 +38,7 @@ PRINCIPAL DISPLAY PANEL - 2 mg Tablet Label
 
 60 Tablets NDC 50458-593-60
 
-Risperidone Tablets
+risperiDONE Tablets
 
 2 mg
 
@@ -50,7 +50,7 @@ PRINCIPAL DISPLAY PANEL - 3 mg Tablet Label
 
 60 Tablets NDC 50458-594-60
 
-Risperidone Tablets
+risperiDONE Tablets
 
 3 mg
 
@@ -62,7 +62,7 @@ PRINCIPAL DISPLAY PANEL - 4 mg Tablet Label
 
 60 Tablets NDC 50458-595-60
 
-Risperidone Tablets
+risperiDONE Tablets
 
 4 mg
 
@@ -74,7 +74,7 @@ PRINCIPAL DISPLAY PANEL - 30 mL Oral Solution Carton
 
 NDC 50458-596-01 30 mL
 
-Risperidone Oral Solution
+risperiDONE Oral Solution
 
 1 mg/mL
 
@@ -86,7 +86,7 @@ PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Carton
 
 NDC 50458-601-28 28 TABLETS
 
-Risperidone M-TAB® Orally Disintegrating Tablets
+risperiDONE Orally Disintegrating Tablets
 
 0.5 mg
 
@@ -94,7 +94,7 @@ Rx Only Each tablet contains: 0.5 mg risperidone
 
 Blister pack 7 cards of 4 tablets
 
-10121401
+10121402
 
 PATRIOT PHARMACEUTICALS LLC
 
@@ -102,7 +102,7 @@ PRINCIPAL DISPLAY PANEL - 1 mg Tablet Carton
 
 NDC 50458-602-28 28 TABLETS
 
-Risperidone M-TAB® Orally Disintegrating Tablets
+risperiDONE Orally Disintegrating Tablets
 
 1 mg
 
@@ -110,7 +110,7 @@ Rx Only Each tablet contains: 1 mg risperidone
 
 Blister pack 7 cards of 4 tablets
 
-10121501
+10121502
 
 PATRIOT PHARMACEUTICALS LLC
 
@@ -118,7 +118,7 @@ PRINCIPAL DISPLAY PANEL - 2 mg Tablet Carton
 
 NDC 50458-603-28 28 TABLETS
 
-Risperidone M-TAB® Orally Disintegrating Tablets
+risperiDONE Orally Disintegrating Tablets
 
 2 mg
 
@@ -126,7 +126,7 @@ Rx Only Each tablet contains: 2 mg risperidone
 
 Blister pack 7 cards of 4 tablets
 
-10121601
+10121602
 
 PATRIOT PHARMACEUTICALS LLC
 
@@ -134,7 +134,7 @@ PRINCIPAL DISPLAY PANEL - 3 mg Tablet Carton
 
 NDC 50458-604-28
 
-Risperidone M-TAB® Orally Disintegrating Tablets
+risperiDONE Orally Disintegrating Tablets
 
 3 mg
 
@@ -146,6 +146,8 @@ Rx Only
 
 Dosage: For information or use, see accompanying full Prescribing Information.
 
+Product of Ireland
+
 Manufactured by: JOLLC Gurabo, Puerto Rico 00778
 
 Manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044
@@ -156,7 +158,7 @@ PRINCIPAL DISPLAY PANEL - 4 mg Tablet Carton
 
 NDC 50458-605-28
 
-Risperidone M-TAB® Orally Disintegrating Tablets
+risperiDONE Orally Disintegrating Tablets
 
 4 mg
 
@@ -167,6 +169,8 @@ Each tablet contains: 4 mg risperidone
 Rx Only
 
 Dosage: For information or use, see accompanying full Prescribing Information.
+
+Product of Ireland
 
 Manufactured by: JOLLC Gurabo, Puerto Rico 00778
 
