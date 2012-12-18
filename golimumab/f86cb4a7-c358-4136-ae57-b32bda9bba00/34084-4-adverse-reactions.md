@@ -30,6 +30,8 @@ Autoimmune Disorders and Autoantibodies
 
 The use of TNF-blockers, including SIMPONI, has been associated with the formation of autoantibodies and, rarely, with the development of a lupus-like syndrome.
 In the controlled Phase 3 trials in patients with RA, PsA, and AS through Week 14, there was no association of SIMPONI treatment and the development of newly positive anti-dsDNA antibodies.
+In Phase 3 trials in RA, PsA, and AS through 1 year of follow up, 4.0% of SIMPONI-treated patients and 2.6% of control patients were newly ANA-positive (at titers of 1:160 or greater).
+The frequency of anti-dsDNA antibodies at 1 year of follow up was uncommon in patients who were anti-dsDNA negative at baseline.
 
 Injection Site Reactions
 
@@ -96,4 +98,6 @@ Vascular disorders: Vasculitis (systemic)
 The following adverse reactions have been identified during post-approval use of SIMPONI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SIMPONI exposure.
 
-Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.10)].
+Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.10)], sarcoidosis
+
+Skin and subcutaneous tissue disorders: Skin exfoliation

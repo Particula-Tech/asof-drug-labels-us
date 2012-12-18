@@ -9,7 +9,7 @@ Since the presence or absence of concomitant MTX did not appear to influence the
 
 An increased risk of serious infections has been seen in clinical RA studies of other TNF-blockers used in combination with anakinra or abatacept, with no added benefit; therefore, use of SIMPONI with abatacept or anakinra is not recommended [see Warnings and Precautions (5.5 and 5.6)].
 A higher rate of serious infections has also been observed in RA patients treated with rituximab who received subsequent treatment with a TNF-blocker.
-There is insufficient information to provide recommendations regarding the concomitant use of SIMPONI and other biologic products approved to treat RA, PsA, or AS.
+The concomitant use of SIMPONI with biologics approved to treat RA, PsA, or AS is not recommended because of the possibility of an increased risk of infection.
 
 ## 7.3 Live Vaccines
 
