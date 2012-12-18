@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077844"
+  ],
+  "inn": "abacavir",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-073-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "abacavir sulfate",
+      "name": "Abacavir"
+    }
+  ],
+  "setid": "5409c8ed-17c3-454f-bb88-d597ba8f84ec",
+  "source": "dailymed"
+}
