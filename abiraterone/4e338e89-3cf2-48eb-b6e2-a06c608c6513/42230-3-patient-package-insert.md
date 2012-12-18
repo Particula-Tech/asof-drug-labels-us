@@ -7,9 +7,11 @@ This information does not take the place of talking with your healthcare provide
 What is ZYTIGA?
 
 ZYTIGA is a prescription medicine that is used along with prednisone.
-ZYTIGA is used to treat men with castration-resistant prostate cancer (prostate cancer that is resistant to medical or surgical treatments that lower testosterone) that has spread to other parts of the body and who have received treatment with docetaxel.
+ZYTIGA is used to treat men with castration-resistant prostate cancer (prostate cancer that is resistant to medical or surgical treatments that lower testosterone) that has spread to other parts of the body.
 
-ZYTIGA is not for use in women or children.
+ZYTIGA is not for use in women.
+
+It is not known if ZYTIGA is safe or effective in children.
 
 Who should not take ZYTIGA?
 
@@ -68,22 +70,15 @@ What are the possible side effects of ZYTIGA?
 ZYTIGA may cause serious side effects including:
 
 - High blood pressure (hypertension), low blood potassium levels (hypokalemia) and fluid retention (edema).
-  Tell your healthcare provider if you get any of the following symptoms:
-  - dizziness
-  - fast heartbeats
-  - feel faint or lightheaded
-  - headache
-  - confusion
-  - muscle weakness
-  - pain in your legs
-  - swelling in your legs or feet
+  Tell your healthcare provider if you get any of the following symptoms: dizzinessfast heartbeatsfeel faint or lightheadedheadache confusionmuscle weaknesspain in your legsswelling in your legs or feet
 - Adrenal problems may happen if you stop taking prednisone, get an infection, or are under stress.
 - Liver problems.
+  You may develop changes in liver function blood test.
   Your healthcare provider will do blood tests to check your liver before treatment with ZYTIGA and during treatment with ZYTIGA.
 
 The most common side effects of ZYTIGA include:
 
-| joint swelling or painmuscle acheshot flushesdiarrheaurinary tract infectioncough | irregular heartbeatsurinate more often than normalneed to get up at night to urinateheartburncold like symptomsbone fractures |
+| weaknessjoint swelling or painswelling in your legs or feethot flushesdiarrheavomitingcoughhigh blood pressureshortness of breath | urinary tract infectionbruisinglow red blood cells (anemia) and low blood potassium levelshigh blood sugar levels, high blood cholesterol and triglyceridescertain other abnormal blood tests |
 | --- | --- |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -117,7 +112,7 @@ What are the ingredients of ZYTIGA?
 
 Active ingredient: abiraterone acetate
 
-Inactive ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, povidone, sodium lauryl sulfate, magnesium stearate and colloidal silicon dioxide.
+Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -125,4 +120,4 @@ Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biot
 
 ©Janssen Biotech, Inc. 2012
 
-Revised: September 2012
+Revised: December 2012

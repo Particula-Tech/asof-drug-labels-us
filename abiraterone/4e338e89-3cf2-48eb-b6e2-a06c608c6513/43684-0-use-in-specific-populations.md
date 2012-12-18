@@ -4,9 +4,17 @@
 
 Pregnancy Category X [see Contraindications (4.1)].
 
+ZYTIGA can cause fetal harm when administered to a pregnant woman based on its mechanism of action and findings in animals.
+While there are no adequate and well-controlled studies with ZYTIGA in pregnant women and ZYTIGA is not indicated for use in women, it is important to know that maternal use of a CYP17 inhibitor could affect development of the fetus.
+Abiraterone acetate caused developmental toxicity in pregnant rats at exposures that were lower than in patients receiving the recommended dose.
 ZYTIGA is contraindicated in women who are or may become pregnant while receiving the drug.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus and the potential risk for pregnancy loss.
-Women of childbearing potential should be advised to avoid becoming pregnant during treatment with ZYTIGA.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to the fetus and the potential risk for pregnancy loss.
+Advise females of reproductive potential to avoid becoming pregnant during treatment with ZYTIGA.
+
+In an embryo-fetal developmental toxicity study in rats, abiraterone acetate caused developmental toxicity when administered at oral doses of 10, 30 or 100 mg/kg/day throughout the period of organogenesis (gestational days 6–17).
+Findings included embryo-fetal lethality (increased post implantation loss and resorptions and decreased number of live fetuses), fetal developmental delay (skeletal effects) and urogenital effects (bilateral ureter dilation) at doses ≥10 mg/kg/day, decreased fetal ano-genital distance at ≥30 mg/kg/day, and decreased fetal body weight at 100 mg/kg/day.
+Doses ≥10 mg/kg/day caused maternal toxicity.
+The doses tested in rats resulted in systemic exposures (AUC) approximately 0.03, 0.1 and 0.3 times, respectively, the AUC in patients.
 
 ## 8.3 Nursing Mothers
 
@@ -16,12 +24,13 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-ZYTIGA is not indicated in children.
+Safety and effectiveness of ZYTIGA in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients in a phase 3 trial of ZYTIGA, 71% of patients were 65 years and over and 28% were 75 years and over.
+Of the total number of patients receiving ZYTIGA in phase 3 trials, 73% of patients were 65 years and over and 30% were 75 years and over.
 No overall differences in safety or effectiveness were observed between these elderly patients and younger patients.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Patients with Hepatic Impairment
 

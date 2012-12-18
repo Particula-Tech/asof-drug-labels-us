@@ -6,15 +6,23 @@ Long-term animal studies have not been conducted to evaluate the carcinogenic po
 
 Abiraterone acetate and abiraterone did not induce mutations in the microbial mutagenesis (Ames) assay and was not clastogenic in both the in vitro cytogenetic assay using primary human lymphocytes and in the in vivo rat micronucleus assay.
 
-Developmental or reproductive toxicology studies were not conducted with abiraterone acetate.
-In studies in rats (13- and 26-weeks) and monkeys (39-weeks), atrophy, aspermia/hypospermia, and hyperplasia in the reproductive system were observed at ≥50 mg/kg/day in rats and ≥250 mg/kg/day in monkeys and were consistent with the antiandrogenic pharmacological activity of abiraterone [see Nonclinical Toxicology (13.2.)].
-These effects were observed in rats and monkeys at approximately 1.14 and 0.6-fold greater than the human clinical exposure based on AUC, respectively.
+ZYTIGA has the potential to impair reproductive function and fertility in humans based on findings in animals.
+In repeat-dose toxicity studies in male rats (13- and 26-weeks) and monkeys (39-weeks), atrophy, aspermia/hypospermia, and hyperplasia in the reproductive system were observed at ≥ 50 mg/kg/day in rats and ≥ 250 mg/kg/day in monkeys and were consistent with the antiandrogenic pharmacological activity of abiraterone [see Nonclinical Toxicology (13.2.)].
+These effects were observed in rats at systemic exposures similar to humans and in monkeys at exposures approximately 0.6 times the AUC in humans.
+
+In fertility studies in rats, reduced organ weights of the reproductive system, sperm counts, sperm motility, altered sperm morphology and decreased fertility were observed in males dosed for 4 weeks at ≥ 30 mg/kg/day.
+Mating of untreated females with males that received 30 mg/kg/day abiraterone acetate resulted in a reduced number of corpora lutea, implantations and live embryos and an increased incidence of pre-implantation loss.
+Effects on male rats were reversible after 16 weeks from the last abiraterone acetate administration.
+Female rats dosed for 2 weeks until day 7 of pregnancy at ≥ 30 mg/kg/day had an increased incidence of irregular or extended estrous cycles and pre-implantation loss (300 mg/kg/day).
+There were no differences in mating, fertility, and litter parameters in female rats that received abiraterone acetate.
+Effects on female rats were reversible after 4 weeks from the last abiraterone acetate administration.
+The dose of 30 mg/kg/day in rats is approximately 0.3 times the recommended dose of 1000 mg/day based on body surface area.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 In 13- and 26-week studies in rats and 13- and 39-week studies in monkeys, a reduction in circulating testosterone levels occurred with abiraterone acetate at approximately one half the human clinical exposure based on AUC.
 As a result, decreases in organ weights and toxicities were observed in the male and female reproductive system, adrenal glands, liver, pituitary (rats only), and male mammary glands.
 The changes in the reproductive organs are consistent with the antiandrogenic pharmacological activity of abiraterone acetate.
-A dose-dependent increase in cataracts was observed in rats at 26 weeks starting at ≥50 mg/kg/day (1.14-fold greater than the human clinical exposure based on AUC).
-In the 39-week monkey study, no cataracts were observed at higher doses (2-fold greater than the clinical exposure based on AUC).
+A dose-dependent increase in cataracts was observed in rats at 26 weeks starting at ≥ 50 mg/kg/day (similar to the human clinical exposure based on AUC).
+In the 39-week monkey study, no cataracts were observed at higher doses (2 times greater than the clinical exposure based on AUC).
 All other toxicities associated with abiraterone acetate reversed or were partially resolved after a 4-week recovery period.

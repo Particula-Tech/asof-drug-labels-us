@@ -10,7 +10,7 @@ See FDA-approved patient labeling (Patient Information)
 - Patients should be informed that ZYTIGA is taken once daily and prednisone is taken twice daily according to their physician's instructions.
 - Patients should be informed that in the event of a missed daily dose of ZYTIGA or prednisone, they should take their normal dose the following day.
   If more than one daily dose is skipped, patients should be told to inform their physician.
-- Patients should be apprised of the common side effects associated with ZYTIGA, including peripheral edema, hypokalemia, hypertension and urinary tract infection.
+- Patients should be apprised of the common side effects associated with ZYTIGA, including peripheral edema, hypokalemia, hypertension, elevated liver function tests, and urinary tract infection.
   Direct the patient to a complete list of adverse drug reactions in PATIENT INFORMATION.
 - Patients should be advised that their liver function will be monitored using blood tests.
 - Patients should be informed that ZYTIGA may harm a developing fetus; thus, women who are pregnant or women who may be pregnant should not handle ZYTIGA without protection, e.g., gloves.

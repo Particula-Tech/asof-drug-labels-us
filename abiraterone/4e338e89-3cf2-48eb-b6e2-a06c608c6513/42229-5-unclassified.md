@@ -1,5 +1,5 @@
-Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
+Manufactured by: Patheon Inc. Mississauga, Canada
 
-©Janssen Biotech, Inc. 2012
+Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
-Revised: September 2012
+©Janssen Biotech, Inc. 2012 Revised: December 2012

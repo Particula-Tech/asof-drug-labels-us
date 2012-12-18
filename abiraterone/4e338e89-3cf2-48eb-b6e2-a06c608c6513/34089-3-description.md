@@ -10,4 +10,4 @@ Its molecular formula is C26H33NO2 and it has a molecular weight of 391.55.
 Abiraterone acetate is a lipophilic compound with an octanol-water partition coefficient of 5.12 (Log P) and is practically insoluble in water.
 The pKa of the aromatic nitrogen is 5.19.
 
-Inactive ingredients in the tablets are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, povidone, sodium lauryl sulfate, magnesium stearate, and colloidal silicon dioxide.
+Inactive ingredients in the tablets are colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.

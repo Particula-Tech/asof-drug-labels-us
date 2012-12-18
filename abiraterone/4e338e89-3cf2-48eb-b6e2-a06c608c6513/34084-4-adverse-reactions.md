@@ -2,29 +2,33 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Hypertension, hypokalemia, and fluid retention due to mineralocorticoid excess [see Warnings and Precautions (5.1)].
-- Adrenocortical insufficiency [see Warnings and Precautions (5.2)].
+- Hypertension, Hypokalemia, and Fluid Retention due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)].
+- Adrenocortical Insufficiency [see Warnings and Precautions (5.2)].
 - Hepatotoxicity [see Warnings and Precautions (5.3)].
-- Food effect [see Warnings and Precautions (5.4)].
+- Increased ZYTIGA Exposures with Food [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-In a placebo-controlled, multicenter phase 3 clinical trial of patients with metastatic castration-resistant prostate cancer who were using a gonadotropin-releasing hormone (GnRH) agonist or were previously treated with orchiectomy, ZYTIGA was administered at a dose of 1,000 mg daily in combination with prednisone 5 mg twice daily in the active treatment arm (N = 791).
-Placebo plus prednisone 5 mg twice daily was given to control patients (N = 394).
+Two randomized placebo-controlled, multicenter clinical trials enrolled patients who had metastatic castration-resistant prostate cancer who were using a gonadotropin-releasing hormone (GnRH) agonist or were previously treated with orchiectomy.
+In both Study 1 and Study 2 ZYTIGA was administered at a dose of 1,000 mg daily in combination with prednisone 5 mg twice daily in the active treatment arms.
+Placebo plus prednisone 5 mg twice daily was given to control patients.
+
+The most common adverse drug reactions (≥10%) reported in the two randomized clinical trials that occurred more commonly (>2%) in the abiraterone acetate arm were fatigue, joint swelling or discomfort, edema, hot flush, diarrhea, vomiting, cough, hypertension, dyspnea, urinary tract infection and contusion.
+
+The most common laboratory abnormalities (>20%) reported in the two randomized clinical trials that occurred more commonly (≥2%) in the abiraterone acetate arm were anemia, elevated alkaline phosphatase, hypertriglyceridemia, lymphopenia, hypercholesterolemia, hyperglycemia, elevated AST, hypophosphatemia, elevated ALT and hypokalemia.
+
+Study 1: Metastatic CRPC Following Chemotherapy
+
+Study 1 enrolled 1195 patients with metastatic CRPC who had received prior docetaxel chemotherapy.
+Patients were not eligible if AST and/or ALT ≥ 2.5 XULN in the absence of liver metastases.
+Patients with liver metastases were excluded if AST and/or ALT > 5X ULN.
+
+Table 1 shows adverse reactions on the ZYTIGA arm in Study 1 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.
 The median duration of treatment with ZYTIGA was 8 months.
 
-The most common adverse drug reactions (≥5%) reported in clinical studies were joint swelling or discomfort, hypokalemia, edema, muscle discomfort, hot flush, diarrhea, urinary tract infection, cough, hypertension, arrhythmia, urinary frequency, nocturia, dyspepsia, fractures and upper respiratory tract infection.
-
-The most common adverse drug reactions that resulted in drug discontinuation were aspartate aminotransferase increased, alanine aminotransferase increased, urosepsis and cardiac failure (each in <1% of patients taking ZYTIGA).
-
-Adverse reactions and laboratory abnormalities related to mineralocorticoid effects were reported more commonly in patients treated with ZYTIGA than in patients treated with placebo: hypokalemia 28% versus 20%, hypertension 9% versus 7% and fluid retention (edema) 27% versus 18%, respectively (see Table 1).
-In patients treated with ZYTIGA, grades 3 to 4 hypokalemia occurred in 5% of patients and grades 3 to 4 hypertension was reported in 1% of patients [see Warnings and Precautions (5.1)].
-
-Table 1 shows adverse reactions due to ZYTIGA that occurred with either a ≥ 2% absolute increase in frequency compared to placebo, or were events of special interest (mineralocorticoid excess, cardiac adverse reactions, and liver toxicities).
-
-Table 1: Adverse Reactions due to ZYTIGA in a Placebo-Controlled Phase 3 Trial
+Table 1: Adverse Reactions due to ZYTIGA in Study 1
 
 | System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0 % | Grade 3–4 % | All Grades % | Grade 3–4 % |
 | --- | --- | --- | --- | --- |
@@ -55,47 +59,89 @@ Table 1: Adverse Reactions due to ZYTIGA in a Placebo-Controlled Phase 3 Trial
 | Chest pain or chest discomfortIncludes terms Angina pectoris, Chest pain, and Angina unstable. Myocardial infarction or ischemia occurred more commonly in the placebo arm than in the ZYTIGA arm (1.3% vs. 1.1% respectively). | 3.8 | 0.5 | 2.8 | 0 |
 | Cardiac failureIncludes terms Cardiac failure, Cardiac failure congestive, Left ventricular dysfunction, Cardiogenic shock, Cardiomegaly, Cardiomyopathy, and Ejection fraction decreased | 2.3 | 1.9 | 1.0 | 0.3 |
 
-Cardiovascular Adverse Reactions:
+Table 2 shows laboratory abnormalities of interest from Study 1.
+Grade 3–4 low serum phosphorus (7%) and low potassium (5%) occurred at a greater than or equal to 5% rate in the ZYTIGA arm.
 
-Cardiovascular adverse reactions in the phase 3 trial are shown in Table 1.
-The majority of arrhythmias were grade 1 or 2.
-Grade 3–4 arrhythmias occurred at similar rates in the two arms.
-There was one death associated with arrhythmia and one patient with sudden death in the ZYTIGA arm.
-No patients had sudden death or arrhythmia associated with death in the placebo arm.
-Cardiac ischemia or myocardial infarction led to death in 2 patients in the placebo arm and 1 death in the ZYTIGA arm.
-Cardiac failure resulting in death occurred in 1 patient on both arms.
-
-Hepatotoxicity:
-
-Drug-associated hepatotoxicity with elevated ALT, AST, and total bilirubin has been reported in patients treated with ZYTIGA.
-Across all clinical trials, liver function test elevations (ALT or AST increases of > 5X ULN) were reported in 2.3% of patients who received ZYTIGA, typically during the first 3 months after starting treatment.
-In the phase 3 trial, patients whose baseline ALT or AST were elevated were more likely to experience liver function test elevations than those beginning with normal values.
-When elevations of either ALT or AST > 5X ULN, or elevations in bilirubin > 3X ULN were observed, ZYTIGA was withheld or discontinued.
-In two instances marked increases in liver function tests occurred [see Warnings and Precautions (5.3)].
-These two patients with normal baseline hepatic function, experienced ALT or AST elevations 15 to 40X ULN and bilirubin elevations 2 to 6 X ULN.
-Upon discontinuation of ZYTIGA, both patients had normalization of their liver function tests and one patient was re-treated with ZYTIGA without recurrence of the elevations.
-
-In clinical trials, the following patients were excluded: patients with active hepatitis, patients with baseline ALT and/or AST ≥ 2.5X ULN in the absence of liver metastases, and patients with ALT and/or AST > 5X ULN in the presence of liver metastases.
-Abnormal liver function tests developing in patients participating in clinical trials were managed by treatment interruption, dose modification and/or discontinuation [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
-Patients with elevations of ALT or AST > 20X ULN were not re-treated.
-
-Other Adverse Reactions:
-
-Adrenal insufficiency occurred in two patients on the abiraterone arm of the phase 3 clinical trial (< 1%).
-
-Laboratory Abnormalities of Interest:
-
-Table 2 shows laboratory values of interest from the phase 3 placebo-controlled clinical trial.
-Grade 3–4 low serum phosphate (7.2%) and potassium (5.3%) occurred more frequently in the ZYTIGA arm.
-
-Table 2: Laboratory Abnormalities of Interest in a Phase 3 Placebo-Controlled Clinical Trial
+Table 2: Laboratory Abnormalities of Interest in Study 1
 
 | Laboratory Abnormality | All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |
 | --- | --- | --- | --- | --- |
 |  | Abiraterone (N=791) |  | Placebo (N=394) |  |
-| High Triglyceride | 62.5 | 0.4 | 53.0 | 0 |
+| Hypertriglyceridemia | 62.5 | 0.4 | 53.0 | 0 |
 | High AST | 30.6 | 2.1 | 36.3 | 1.5 |
-| Low Potassium | 28.3 | 5.3 | 19.8 | 1.0 |
-| Low Phosphorus | 23.8 | 7.2 | 15.7 | 5.8 |
+| Hypokalemia | 28.3 | 5.3 | 19.8 | 1.0 |
+| Hypophosphatemia | 23.8 | 7.2 | 15.7 | 5.8 |
 | High ALT | 11.1 | 1.4 | 10.4 | 0.8 |
 | High Total Bilirubin | 6.6 | 0.1 | 4.6 | 0 |
+
+Study 2: Metastatic CRPC Prior to Chemotherapy
+
+Study 2 enrolled 1088 patients with metastatic CRPC who had not received prior cytotoxic chemotherapy.
+Patients were ineligible if AST and/or ALT ≥ 2.5X ULN and patients were excluded if they had liver metastases.
+
+Table 3 shows adverse reactions on the ZYTIGA arm in Study 2 that occurred with a ≥ 2% absolute increase in frequency compared to placebo.
+The median duration of treatment with ZYTIGA was 13.8 months.
+
+Table 3: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in Study 2
+
+| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0 % | Grade 3–4 % | All Grades % | Grade 3–4 % |
+| --- | --- | --- | --- | --- |
+|  | ZYTIGA with Prednisone (N=542) |  | Placebo with Prednisone (N=540) |  |
+| General disorders |  |  |  |  |
+| Fatigue | 39.1 | 2.2 | 34.3 | 1.7 |
+| EdemaIncludes terms Edema peripheral, Pitting edema, and Generalized edema | 25.1 | 0.4 | 20.7 | 1.1 |
+| Pyrexia | 8.7 | 0.6 | 5.9 | 0.2 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Joint swelling/ discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness | 30.3 | 2.0 | 25.2 | 2.0 |
+| Groin pain | 6.6 | 0.4 | 4.1 | 0.7 |
+| Gastrointestinal disorders |  |  |  |  |
+| Constipation | 23.1 | 0.4 | 19.1 | 0.6 |
+| Diarrhea | 21.6 | 0.9 | 17.8 | 0.9 |
+| Dyspepsia | 11.1 | 0.0 | 5.0 | 0.2 |
+| Vascular disorders |  |  |  |  |
+| Hot flush | 22.3 | 0.2 | 18.1 | 0.0 |
+| Hypertension | 21.6 | 3.9 | 13.1 | 3.0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Cough | 17.3 | 0.0 | 13.5 | 0.2 |
+| Dyspnea | 11.8 | 2.4 | 9.6 | 0.9 |
+| Psychiatric disorders |  |  |  |  |
+| Insomnia | 13.5 | 0.2 | 11.3 | 0.0 |
+| Injury, poisoning and procedural complications |  |  |  |  |
+| Contusion | 13.3 | 0.0 | 9.1 | 0.0 |
+| Falls | 5.9 | 0.0 | 3.3 | 0.0 |
+| Infections and infestations |  |  |  |  |
+| Upper respiratory tract infection | 12.7 | 0.0 | 8.0 | 0.0 |
+| Nasopharyngitis | 10.7 | 0.0 | 8.1 | 0.0 |
+| Renal and urinary disorders |  |  |  |  |
+| Hematuria | 10.3 | 1.3 | 5.6 | 0.6 |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Rash | 8.1 | 0.0 | 3.7 | 0.0 |
+
+Table 4 shows laboratory abnormalities that occurred in greater than 15% of patients, and more frequently (>5%) in the ZYTIGA arm compared to placebo in Study 2.
+Grade 3–4 lymphopenia (9%), hyperglycemia (7%) and high alanine aminotransferase (6%) occurred at a greater than 5% rate in the ZYTIGA arm.
+
+Table 4: Laboratory Abnormalities in > 15% of Patients in the ZYTIGA Arm of Study 2
+
+| Laboratory Abnormality | Grade 1–4 % | Grade 3–4 % | Grade 1–4 % | Grade 3–4 % |
+| --- | --- | --- | --- | --- |
+|  | Abiraterone (N = 542) |  | Placebo (N = 540) |  |
+| Hematology |  |  |  |  |
+| Lymphopenia | 38.2 | 8.7 | 31.7 | 7.4 |
+| Chemistry |  |  |  |  |
+| HyperglycemiaBased on non-fasting blood draws | 56.6 | 6.5 | 50.9 | 5.2 |
+| High ALT | 41.9 | 6.1 | 29.1 | 0.7 |
+| High AST | 37.3 | 3.1 | 28.7 | 1.1 |
+| Hypernatremia | 32.8 | 0.4 | 25.0 | 0.2 |
+| Hypokalemia | 17.2 | 2.8 | 10.2 | 1.7 |
+
+Cardiovascular Adverse Reactions:
+
+In the combined data for studies 1 and 2, cardiac failure occurred more commonly in patients treated with ZYTIGA compared to patients on the placebo arm (2.1% versus 0.7%).
+Grade 3–4 cardiac failure occurred in 1.6% of patients taking ZYTIGA and led to 5 treatment discontinuations and 2 deaths.
+Grade 3–4 cardiac failure occurred in 0.2% of patients taking placebo.
+There were no treatment discontinuations and one death due to cardiac failure in the placebo group.
+
+In Study 1 and 2, the majority of arrhythmias were grade 1 or 2.
+There was one death associated with arrhythmia and one patient with sudden death in the ZYTIGA arms and no deaths in the placebo arms.
+There were 7 (0.5 %) deaths due to cardiorespiratory arrest in the ZYTIGA arms and 3 (0.3 %) deaths in the placebo arms.
+Myocardial ischemia or myocardial infarction led to death in 3 patients in the placebo arms and 2 deaths in the ZYTIGA arms.
