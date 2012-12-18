@@ -1,11 +1,17 @@
+This product's label may have been updated.
+For current full prescribing information, please visit www.greenstonellc.com.
+
+LAB-0171-5.0
+
+November 2012
+
 # PATIENT INFORMATION
 
 Read this leaflet before taking misoprostol and each time your prescription is renewed, because the leaflet may be changed.
 
 Misoprostol is being prescribed by your doctor to decrease the chance of getting stomach ulcers related to the arthritis/pain medication that you take.
 
-Do not take misoprostol to reduce the risk of NSAID-induced ulcers if you are pregnant.
-(See boxed WARNINGS.)
+Do not take misoprostol to reduce the risk of NSAID-induced ulcers if you are pregnant (see boxed WARNINGS).
 Misoprostol can cause abortion (sometimes incomplete which could lead to dangerous bleeding and require hospitalization and surgery), premature birth, or birth defects.
 It is also important to avoid pregnancy while taking this medication and for at least one month or through one menstrual cycle after you stop taking it.
 Misoprostol has been reported to cause the uterus to rupture (tear) when given after the eighth week of pregnancy.
@@ -33,6 +39,9 @@ See your doctor if you have questions.
 
 Keep out of reach of children.
 
-Rx only
+This product's label may have been updated.
+For current full prescribing information, please visit www.greenstonellc.com.
 
-LAB-0171-4.0 September 2009
+LAB-0646-1.0
+
+November 2012

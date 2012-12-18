@@ -59,8 +59,7 @@ In general, the effects of 50 mcg were modest and shorter lived, and only the 20
 
 ## Uterine effects
 
-Misoprostol has been shown to produce uterine contractions that may endanger pregnancy.
-(See boxed WARNINGS.)
+Misoprostol has been shown to produce uterine contractions that may endanger pregnancy (see boxed WARNINGS).
 
 ## Other pharmacologic effects
 

@@ -17,8 +17,7 @@ The incidence of diarrhea can be minimized by administering after meals and at b
 
 Women who received misoprostol during clinical trials reported the following gynecological disorders: spotting (0.7%), cramps (0.6%), hypermenorrhea (0.5%), menstrual disorder (0.3%) and dysmenorrhea (0.1%).
 Postmenopausal vaginal bleeding may be related to misoprostol administration.
-If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology.
-(See boxed WARNINGS.)
+If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology (see boxed WARNINGS).
 
 ## Elderly
 

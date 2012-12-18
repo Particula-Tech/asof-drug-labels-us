@@ -2,6 +2,8 @@
 
 See boxed WARNINGS.
 
+For hospital use only if misoprostol were to be used for cervical ripening, induction of labor, or for the treatment of serious post-partum hemorrhage, which are outside of the approved indication.
+
 # PRECAUTIONS
 
 Caution should be employed when administering misoprostol to patients with pre-existing cardiovascular disease.
@@ -26,7 +28,7 @@ The patient should read the leaflet before taking misoprostol and each time the 
 
 Keep misoprostol out of the reach of children.
 
-SPECIAL NOTE FOR WOMEN: Misoprostol may cause abortion (sometimes incomplete), premature labor, or birth defects if given to pregnant women.
+SPECIAL NOTE FOR WOMEN: Misoprostol may cause birth defects, abortion (sometimes incomplete), or premature labor if given to pregnant women.
 
 Misoprostol is available only as a unit-of-use package that includes a leaflet containing patient information.
 See Patient Information at the end of this labeling.
@@ -37,6 +39,9 @@ See Clinical Pharmacology.
 Misoprostol has not been shown to interfere with the beneficial effects of aspirin on signs and symptoms of rheumatoid arthritis.
 Misoprostol does not exert clinically significant effects on the absorption, blood levels, and antiplatelet effects of therapeutic doses of aspirin.
 Misoprostol has no clinically significant effect on the kinetics of diclofenac or ibuprofen.
+
+Prostaglandins such as misoprostol may augment the activity of oxytocic agents, especially when given less than 4 hours prior to initiating oxytocin treatment.
+Concomitant use is not recommended.
 
 ## Animal toxicology
 
@@ -77,12 +82,17 @@ If a woman is or becomes pregnant while taking this drug to reduce the risk of N
 
 Misoprostol can induce or augment uterine contractions.
 Vaginal administration of misoprostol, outside of its approved indication, has been used as a cervical ripening agent, for the induction of labor and for treatment of serious postpartum hemorrhage in the presence of uterine atony.
-A major adverse effect of the obstetrical use of misoprostol is the hyperstimulation of the uterus which may progress to uterine tetany with marked impairment of uteroplacental blood flow, uterine rupture (requiring surgical repair, hysterectomy, and/or salpingo-oophorectomy), or amniotic fluid embolism.
-Pelvic pain, retained placenta, severe genital bleeding, shock, fetal bradycardia, and fetal and maternal death have been reported.
+A major adverse effect of the obstetrical use of misoprostol is uterine tachysystole which may progress to uterine tetany with marked impairment of uteroplacental blood flow, uterine rupture (requiring surgical repair, hysterectomy, and/or salpingo-oophorectomy), or amniotic fluid embolism and lead to adverse fetal heart changes.
+Uterine activity and fetal status should be monitored by trained obstetrical personnel in a hospital setting.
 
-There may be an increased risk of uterine tachysystole, uterine rupture, meconium passage, meconium staining of amniotic fluid, and Cesarean delivery due to uterine hyperstimulation with the use of higher doses of misoprostol, including the manufactured 100 mcg tablet.
-The risk of uterine rupture increases with advancing gestational ages and with prior uterine surgery, including Cesarean delivery.
+The risk of uterine rupture increases with advancing gestational ages and prior uterine surgery, including Cesarean delivery.
 Grand multiparity also appears to be a risk factor for uterine rupture.
+
+The use of misoprostol outside of its approved indication may also be associated with meconium passage, meconium staining of amniotic fluid, and Cesarean delivery.
+Maternal shock, maternal death, fetal bradycardia, and fetal death have also been reported with the use of misoprostol.
+
+Misoprostol should not be used in the third trimester in women with a history of Cesarean section or major uterine surgery because of an increased risk of uterine rupture.
+Misoprostol should not be used in cases where uterotonic drugs are generally contraindicated or where hyperstimulation of the uterus is considered inappropriate, such as cephalopelvic disproportion, grand multiparity, hypertonic or hyperactive uterine patterns, or fetal distress where delivery is not imminent, or when surgical intervention is more appropriate.
 
 The effect of misoprostol on later growth, development, and functional maturation of the child when misoprostol is used for cervical ripening or induction of labor has not been established.
 Information on misoprostol's effect on the need for forceps delivery or other intervention is unknown.
