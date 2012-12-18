@@ -14,7 +14,7 @@ Increases in leiomyomas of the rodent female genital tract have been similarly d
 
 Formoterol fumarate was not mutagenic or clastogenic in the following tests: mutagenicity tests in bacterial and mammalian cells, chromosomal analyses in mammalian cells, unscheduled DNA synthesis repair tests in rat hepatocytes and human fibroblasts, transformation assay in mammalian fibroblasts and micronucleus tests in mice and rats.
 
-Reproduction studies in rats revealed no impairment of fertility at oral doses up to 3 mg/kg (approximately 1,200 times the MRHD on a mcg/m2 basis).
+Reproduction studies in rats revealed no impairment of fertility at oral doses up to 3 mg/kg (approximately 1200 times the MRHD on a mcg/m2 basis).
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

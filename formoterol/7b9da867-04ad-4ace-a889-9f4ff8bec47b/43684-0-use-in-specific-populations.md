@@ -9,16 +9,16 @@ Animal reproduction studies of formoterol fumarate in rats and rabbits revealed 
 Because there are no adequate and well-controlled studies in pregnant women, FORADIL AEROLIZER should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Formoterol fumarate administered throughout organogenesis did not cause malformations in rats or rabbits following oral administration.
-When given to rats throughout organogenesis, oral doses equal to or greater than 80 times the maximum recommended human dose (MRHD) for adults (on a mcg/m2 basis for maternal doses of 0.2 mg/kg and above) delayed ossification of the fetus and doses equal to or greater than 2,400 times the MRHD for adults (on a mcg/m2 basis for maternal doses of 6 mg/kg and above) decreased fetal weight.
-Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses equal to or greater than 2,400 times the MRHD for adults (on a mcg/m2 basis for maternal doses of 6 mg/kg and above) in rats receiving the drug during the late stage of pregnancy.
+When given to rats throughout organogenesis, oral doses equal to or greater than 80 times the maximum recommended human dose (MRHD) for adults (on a mcg/m2 basis for maternal doses of 0.2 mg/kg and above) delayed ossification of the fetus and doses equal to or greater than 2400 times the MRHD for adults (on a mcg/m2 basis for maternal doses of 6 mg/kg and above) decreased fetal weight.
+Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses equal to or greater than 2400 times the MRHD for adults (on a mcg/m2 basis for maternal doses of 6 mg/kg and above) in rats receiving the drug during the late stage of pregnancy.
 These effects, however, were not produced at a dose equal to 80 times the MRHD for adults (on a mcg/m2 basis for a maternal dose of 0.2 mg/kg).
 
 In another testing laboratory, formoterol fumarate was shown to be teratogenic in rats and rabbits.
-Umbilical hernia, a malformation, was observed in rat fetuses at oral doses equal to or greater than 1,200 times the MRHD for adults (on a mcg/m2 basis for maternal doses of 3 mg/kg/day and above).
-Brachygnathia, a skeletal malformation, was observed for rat fetuses at an oral dose equal to 6,100 times the MRHD for adults (on a mcg/m2 basis for a maternal dose of 15 mg/kg/day).
+Umbilical hernia, a malformation, was observed in rat fetuses at oral doses equal to or greater than 1200 times the MRHD for adults (on a mcg/m2 basis for maternal doses of 3 mg/kg/day and above).
+Brachygnathia, a skeletal malformation, was observed for rat fetuses at an oral dose equal to 6100 times the MRHD for adults (on a mcg/m2 basis for a maternal dose of 15 mg/kg/day).
 In another study in rats, no teratogenic effects were seen at inhalation doses up to 500 times the MRHD for adults (on a mcg/m2 basis for maternal doses up to 1.2 mg/kg/day).
-Subcapsular cysts on the liver were observed for rabbit fetuses at an oral dose equal to 49,000 times the MRHD for adults (on a mcg/m2 basis for a maternal dose of 60 mg/kg).
-No teratogenic effects were observed at oral doses up to 3,000 times the MRHD for adults (on a mcg/m2 basis for maternal doses up to 3.5 mg/kg).
+Subcapsular cysts on the liver were observed for rabbit fetuses at an oral dose equal to 49000 times the MRHD for adults (on a mcg/m2 basis for a maternal dose of 60 mg/kg).
+No teratogenic effects were observed at oral doses up to 3000 times the MRHD for adults (on a mcg/m2 basis for maternal doses up to 3.5 mg/kg).
 
 ## 8.2 Labor and Delivery
 
@@ -26,7 +26,7 @@ There are no adequate and well-controlled human studies that have investigated t
 
 Because beta-agonists may potentially interfere with uterine contractility, FORADIL AEROLIZER should be used during labor only if the potential benefit justifies the potential risk.
 
-Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses equal to or greater than 2,400 times the MRHD for adults (on a mcg/m2 basis for maternal doses of 6 mg/kg and above) in rats receiving the drug for several days at the end of pregnancy.
+Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses equal to or greater than 2400 times the MRHD for adults (on a mcg/m2 basis for maternal doses of 6 mg/kg and above) in rats receiving the drug for several days at the end of pregnancy.
 These effects were not produced at a dose 80 times the MRHD for adults (on a mcg/m2 basis for a maternal dose of 0.2 mg/kg).
 
 ## 8.3 Nursing Mothers

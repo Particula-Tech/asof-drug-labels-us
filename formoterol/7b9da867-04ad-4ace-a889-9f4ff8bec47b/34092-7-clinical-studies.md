@@ -61,4 +61,4 @@ Mean FEV1 measurements after 12 weeks of treatment for one of the two major effi
 
 FORADIL AEROLIZER 12 mcg twice daily was statistically superior to placebo at all post-dose timepoints tested (from 5 minutes to 12 hours post-dose) throughout the 12-week (COPD Trial A) and 12-month (COPD Trial B) treatment periods.
 
-In both pivotal trials compared with placebo, patients treated with FORADIL AEROLIZER 12 mcg demonstrated improved morning pre-medication peak expiratory flow rates and took fewer puffs of rescue albuterol.
+In both pivotal trials compared with placebo, patients treated with FORADIL AEROLIZER 12 mcg demonstrated improved morning premedication peak expiratory flow rates and took fewer puffs of rescue albuterol.

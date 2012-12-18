@@ -3,15 +3,15 @@
 Long-acting beta2-adrenergic agonists (LABA), including formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death and may increase the risk of asthma-related hospitalizations in pediatric and adolescent patients.
 Clinical trials with FORADIL AEROLIZER suggested a higher incidence of serious asthma exacerbations in patients who received FORADIL AEROLIZER than in those who received placebo [see Warnings and Precautions (5.1)].
 
-Adverse reactions common to LABA drugs include: angina, hypertension or hypotension, tachycardia, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, muscle cramps, nausea, dizziness, fatigue, malaise, hypokalemia, hyperglycemia, metabolic acidosis and insomnia.
+Adverse reactions common to LABA drugs include: angina, hypertension or hypotension, tachycardia, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, muscle cramps, nausea, dizziness, fatigue, malaise, hypokalemia, hyperglycemia, metabolic acidosis, and insomnia.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical trials.
 
 ## 6.1 Asthma
 
-Of the 5,824 patients in multiple-dose controlled clinical trials, 1,985 were treated with FORADIL AEROLIZER at the recommended dose of 12 mcg twice daily.
+Of the 5824 patients in multiple-dose controlled clinical trials, 1985 were treated with FORADIL AEROLIZER at the recommended dose of 12 mcg twice daily.
 The following table shows treatment-emergent adverse reactions where the frequency was greater than or equal to 1% in the FORADIL twice daily group and where the rates in the FORADIL group exceeded placebo.
-Three treatment-emergent adverse reactions showed dose ordering among tested doses of 6, 12 and 24 mcg administered twice daily; tremor, dizziness and dysphonia.
+Three treatment-emergent adverse reactions showed dose ordering among tested doses of 6, 12, and 24 mcg administered twice daily; tremor, dizziness and dysphonia.
 
 Number and Frequency of Treatment-Emergent Adverse Reactions in Patients 5 Years of Age and Older from Multiple-Dose Controlled Clinical Trials
 
@@ -25,7 +25,7 @@ In two 12-week controlled trials with combined enrollment of 1095 patients 12 ye
 Serious asthma exacerbations (acute worsening of asthma resulting in hospitalization) occurred more commonly with FORADIL AEROLIZER 24 mcg twice daily than with the recommended dose of FORADIL AEROLIZER 12 mcg twice daily, albuterol, or placebo.
 The results are shown in the following table.
 
-Number and frequency of serious asthma exacerbations in Patients 12 years of age and older from two 12-week controlled clinical trials
+Number and Frequency of Serious Asthma Exacerbations in Patients 12 Years of Age and Older from Two 12-Week Controlled Clinical Trials
 
 |  | Foradil 12 mcg twice daily | Foradil 24 mcg twice daily | Albuterol 180 mcg four times daily | Placebo |
 | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Number and frequency of serious asthma exacerbations in Patients 12 years of age
 In a 16-week, randomized, multi-center, double-blind, parallel-group trial, patients who received either 24 mcg twice daily or 12 mcg twice daily doses of FORADIL AEROLIZER experienced more serious asthma exacerbations than patients who received placebo [see Clinical Trials (14.1)].
 The results are shown in the following table.
 
-Number and frequency of serious asthma exacerbations in patients 12 years of age and older from a 16-week trial
+Number and Frequency of Serious Asthma Exacerbations in Patients 12 Years of Age and Older from a 16-Week Trial
 
 |  | Foradil 12 mcg twice daily | Foradil 24 mcg twice daily | Placebo |
 | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ Serious Asthma Exacerbations in Children 5-11 Years of Age
 The safety of FORADIL AEROLIZER 12 mcg twice daily compared to FORADIL AEROLIZER 24 mcg twice daily and placebo was investigated in one large, multicenter, randomized, double-blind, 52-week clinical trial in 518 children with asthma (ages 5-12 years) in need of daily bronchodilators and anti-inflammatory treatment.
 More children who received FORADIL AEROLIZER 24 mcg twice daily than children who received FORADIL AEROLIZER 12 mcg twice daily or placebo experienced serious asthma exacerbations, as shown in the next table.
 
-Number and frequency of serious asthma exacerbations in patients 5-12 years of age from a 52-week trial
+Number and Frequency of Serious Asthma Exacerbations in Patients 5-12 Years of Age from a 52-Week Trial
 
 |  | Foradil 12 mcg twice daily | Foradil 24 mcg twice daily | Placebo |
 | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ Number and Frequency of Treatment-Emergent Adverse Reactions in Adult COPD Patie
 Overall, the frequency of all cardiovascular treatment-emergent adverse reactions in the two pivotal studies was 6.4% for FORADIL AEROLIZER 12 mcg twice daily, and 6.0% for placebo.
 There were no frequently-occurring specific cardiovascular treatment-emergent adverse reactions for FORADIL AEROLIZER (frequency greater than or equal to 1% and greater than placebo).
 
-## 6.3 Post Marketing Experience
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of FORADIL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -86,6 +86,6 @@ Respiratory, thoracic and mediastinal disorders: Cough
 
 Skin and subcutaneous tissue disorders: Rash
 
-Cardiac disorders: Angina pectoris, cardiac arrhythmias, e.g. atrial fibrillation, ventricular extrasystoles, tachyarrhythmia
+Cardiac disorders: Angina pectoris, cardiac arrhythmias, e.g., atrial fibrillation, ventricular extrasystoles, tachyarrhythmia
 
 Investigations: Electrocardiogram QT prolonged, blood pressure increased (including hypertension)

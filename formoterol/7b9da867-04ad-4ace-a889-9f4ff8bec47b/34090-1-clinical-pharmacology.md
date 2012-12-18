@@ -51,7 +51,7 @@ One patient in the FORADIL AEROLIZER group had a serious adverse event of atrial
 
 The electrocardiographic effects of FORADIL AEROLIZER were evaluated versus placebo in a 12-month pivotal double-blind study of patients with COPD.
 An analysis of ECG intervals was performed for patients who participated at study sites in the United States, including 46 patients treated with FORADIL AEROLIZER 12 mcg twice daily, and 50 patients treated with FORADIL AEROLIZER 24 mcg twice daily.
-ECGs were performed predose, and at 5-15 minutes and 2 hours post-dose at study baseline and after 3, 6 and 12 months of treatment.
+ECGs were performed predose, and at 5-15 minutes and 2 hours post-dose at study baseline and after 3, 6, and 12 months of treatment.
 The results showed that there was no clinically meaningful acute or chronic effect on ECG intervals, including QTc, resulting from treatment with FORADIL AEROLIZER.
 
 Tachyphylaxis/Tolerance
@@ -73,7 +73,7 @@ Plasma drug disposition data parallel urinary excretion, and the elimination hal
 Absorption
 
 Following inhalation of a single 120 mcg dose of formoterol fumarate by 12 healthy subjects, formoterol was rapidly absorbed into plasma, reaching a maximum drug concentration of 92 pg/mL within 5 minutes of dosing.
-In COPD patients treated for 12 weeks with formoterol fumarate 12 or 24 mcg twice daily, the mean plasma concentrations of formoterol obtained at 10 min, 2 h and 6 h post inhalation ranged between 4.0 and 8.8 pg/mL and 8.0 and 17.3 pg/mL, respectively.
+In COPD patients treated for 12 weeks with formoterol fumarate 12 or 24 mcg twice daily, the mean plasma concentrations of formoterol obtained at 10 min, 2 h, and 6 h post inhalation ranged between 4.0 and 8.8 pg/mL and 8.0 and 17.3 pg/mL, respectively.
 
 Following inhalation of 12 to 96 mcg of formoterol fumarate by 10 healthy males, urinary excretion of both (R,R)- and (S,S)-enantiomers of formoterol increased proportionally to the dose.
 Thus, absorption of formoterol following inhalation appeared linear over the dose range studied.
@@ -96,7 +96,7 @@ Formoterol is metabolized primarily by direct glucuronidation at either the phen
 Minor pathways involve sulfate conjugation of formoterol and deformylation followed by sulfate conjugation.
 The most prominent pathway involves direct conjugation at the phenolic hydroxyl group.
 The second major pathway involves O-demethylation followed by conjugation at the phenolic 2'-hydroxyl group.
-Four cytochrome P450 isozymes (CYP2D6, CYP2C19, CYP2C9 and CYP2A6) are involved in the O-demethylation of formoterol.
+Four cytochrome P450 isozymes (CYP2D6, CYP2C19, CYP2C9, and CYP2A6) are involved in the O-demethylation of formoterol.
 Formoterol did not inhibit CYP450 enzymes at therapeutically relevant concentrations.
 Some patients may be deficient in CYP2D6 or 2C19 or both.
 Whether a deficiency in one or both of these isozymes results in elevated systemic exposure to formoterol or systemic adverse effects has not been adequately explored.

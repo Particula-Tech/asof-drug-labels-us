@@ -68,18 +68,8 @@ The capsule is less likely to shatter when pierced if: storage conditions are st
 
 Women should be advised to contact their physician if they become pregnant or if they are nursing.
 
-Manufactured by:
+Manufactured by: Novartis Pharma AG, Basle, Switzerland
 
-Novartis Pharma AG, Basle, Switzerland.
+Copyright © 2010 Merck Sharp & Dohme Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Distributed by:
-
-Schering Corporation, a subsidiary of Merck & Co., Inc.
-
-Whitehouse Station, NJ 08889, USA
-
-Copyright © 2010 Schering Corp.,
-
-a subsidiary of Merck & Co., Inc.
-
-All rights reserved.
+T2012-217 November 2012

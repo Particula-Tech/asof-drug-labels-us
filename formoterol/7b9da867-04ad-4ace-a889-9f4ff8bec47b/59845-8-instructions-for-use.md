@@ -43,7 +43,7 @@ Hold the base of the AEROLIZER Inhaler firmly and twist the mouthpiece in the di
 Figure B
 
 4.
-Separate one FORADIL capsule blister by tearing at the pre-cut lines.
+Separate one FORADIL capsule blister by tearing at the precut lines.
 (Figure C)
 
 Figure C
@@ -143,20 +143,8 @@ FORADIL® is a registered trademark of Astellas Pharma Inc.
 
 AEROLIZER® is a registered trademark of Novartis AG.
 
-Manufactured by:
+Manufactured by: Novartis Pharma AG, Basle, Switzerland
 
-Novartis Pharma AG, Basle, Switzerland.
+Copyright © 2010 Merck Sharp & Dohme Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Distributed by:
-
-Schering Corporation, a subsidiary of Merck & Co., Inc.
-
-Whitehouse Station, NJ 08889, USA
-
-Copyright © 2010 Schering Corp.,
-
-a subsidiary of Merck & Co., Inc.
-
-All rights reserved.
-
-T2012-169 September 2012
+T2012-219 November 2012

@@ -235,3 +235,5 @@ What are the ingredients in FORADIL AEROLIZER?
 Active ingredient: formoterol fumarate
 
 Inactive ingredients: lactose (contains milk proteins), gelatin (capsule shell)
+
+T2012-118 November 2012

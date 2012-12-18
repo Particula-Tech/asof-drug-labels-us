@@ -7,7 +7,7 @@ Each capsule contains a dry powder blend of 12 mcg of formoterol fumarate and 25
 
 The active component of FORADIL is formoterol fumarate, a racemate.
 Formoterol fumarate is a selective beta2-adrenergic agonist.
-Its chemical name is (±)-2-hydroxy-5-[(1RS)-1-hydroxy-2-[[(1RS)-2-(4-methoxyphenyl)-1-methylethyl]-amino]ethyl]formanilide fumarate dihydrate; its structural formula is
+Its chemical name is (±)-2-hydroxy-5-[(1RS)-1-hydroxy-2-[[(1RS)-2-(4-methoxyphenyl)-1-methylethyl]-amino]ethyl]formanilide fumarate dihydrate; its structural formula is:
 
 Formoterol fumarate has a molecular weight of 840.9, and its empirical formula is (C19H24N2O4)2•C4H4O4•2H2O.
 Formoterol fumarate is a white to yellowish crystalline powder, which is freely soluble in glacial acetic acid, soluble in methanol, sparingly soluble in ethanol and isopropanol, slightly soluble in water, and practically insoluble in acetone, ethyl acetate, and diethyl ether.
