@@ -7,7 +7,7 @@ Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdos
 
 Treatment of Overdose
 
-In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
+In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
 Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 
@@ -16,8 +16,8 @@ Opioid antagonists should not be administered in the absence of clinically signi
 Such agents should be administered cautiously to persons who are known, or suspected to be physically dependent on OxyContin.
 In such cases, an abrupt or complete reversal of opioid effects may precipitate an acute withdrawal syndrome.
 
-Because the duration of reversal would be expected to be less than the duration of action of oxycodone in OxyContin, carefully monitor the patient until spontaneous respiration is reliably re-established.
-OxyContin will continue to release oxycodone and add to the oxycodone load for 24 to 48 hours or longer following ingestion necessitating prolonged monitoring.
+Because the duration of reversal would be expected to be less than the duration of action of oxycodone in OxyContin, carefully monitor the patient until spontaneous respiration is reliably reestablished.
+OxyContin will continue to release oxycodone and add to the oxycodone load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
 If the response to opioid antagonists is suboptimal or not sustained, additional antagonist should be administered as directed in the product’s prescribing information.
 
 In an individual physically dependent on opioids, administration of the usual dose of the antagonist will precipitate an acute withdrawal syndrome.

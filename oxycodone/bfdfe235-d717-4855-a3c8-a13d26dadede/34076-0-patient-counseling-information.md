@@ -15,7 +15,7 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Exposure
 
 Instruct patients to take steps to store OxyContin securely.
-Accidental exposure, especially in children, may results in serious harm or death.
+Accidental exposure, especially in children, may result in serious harm or death.
 Advise patients to dispose of unused OxyContin by flushing the tablets down the toilet.
 
 Risks from Concomitant Use of Alcohol and other CNS Depressants

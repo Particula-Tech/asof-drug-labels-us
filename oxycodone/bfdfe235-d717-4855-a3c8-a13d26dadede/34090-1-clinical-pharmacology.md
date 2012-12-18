@@ -89,11 +89,11 @@ This high oral bioavailability is due to low pre-systemic and/or first-pass meta
 
 Plasma Oxycodone Concentration over Time
 
-Dose proportionality has been established for OxyContin 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 3).
+Dose proportionality has been established for OxyContin 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 2).
 Given the short elimination t½ of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OxyContin.
 In a study comparing 10 mg of OxyContin every 12 hours to 5 mg of immediate-release oxycodone every 6 hours, the two treatments were found to be equivalent for AUC and Cmax, and similar for Cmin (trough) concentrations.
 
-TABLE 3
+TABLE 2
 
 | Mean [% coefficient of variation] |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ TABLE 3
 |  | 40 mg | 497 [27] | 47.4 [30] | 4.40 [22] |
 |  | 60 mg | 705 [22] | 64.6 [24] | 4.15 [26] |
 |  | 80 mg | 908 [21] | 87.1 [29] | 4.27 [26] |
-| * for single-dose AUC = AUC0-inf †data obtained while subjects received naltrexone which can enhance absorption |  |  |  |  |
+| * for single-dose AUC = AUC0-inf †data obtained while subjects received naltrexone, which can enhance absorption |  |  |  |  |
 
 Food Effects
 
@@ -146,7 +146,7 @@ The plasma concentrations of oxycodone are only nominally affected by age, being
 
 Gender
 
-Across individual pharmacokinetic studies, average plasma oxycodone concentrations for female subjects were up to 25% higher than for male subjects on a body weight adjusted basis.
+Across individual pharmacokinetic studies, average plasma oxycodone concentrations for female subjects were up to 25% higher than for male subjects on a body weight-adjusted basis.
 The reason for this difference is unknown [see Use in Specific Populations (8.8)].
 
 Renal Impairment

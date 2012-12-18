@@ -27,7 +27,7 @@ Conversion from other Opioids to OxyContin
 While there are useful tables of oral and parenteral equivalents, there is substantial inter-patient variation in the relative potency of different opioid drugs and formulations.
 Specific recommendations are not available because of a lack of systematic evidence for these types of analgesic substitutions.
 As such, it is safer to underestimate a patient's 24-hour oral oxycodone requirement and provide rescue medication (e.g., immediate-release oxycodone) than to overestimate and precipitate an adverse reaction.
-In general, begin with half of the estimated daily oxycodone requirement as the initial dose, managing inadequate analgesia by supplementation with immediate-release oxycodone.
+In general, begin with half of the estimated daily oxycodone requirement as the initial daily OxyContin estimate, then divide into two doses taken 12 hours apart, and manage inadequate analgesia by supplementation with immediate-release oxycodone.
 
 Published relative potency data are available and may be referred to in clinical practice guidelines such as those published by authorities in the field of pain medicine, but such ratios are approximations.
 Consider contacting your specific state medical or pharmacy professional societies for further information on how to safely convert patients from one opioid to another.
@@ -53,8 +53,6 @@ Adjust the dose to obtain an appropriate balance between management of pain and 
 
 There are no well-controlled clinical studies evaluating the safety and efficacy with dosing more frequently than every 12 hours.
 As a guideline, the total daily oxycodone dose usually can be increased by 25% to 50% of the current dose, each time an increase is clinically indicated.
-
-During chronic, around-the-clock opioid therapy, especially for non-cancer pain syndromes, reassess the continued need for around-the-clock opioid therapy regularly (e.g., every 6 to 12 months) as appropriate.
 
 ## 2.3 Patients with Hepatic Impairment
 

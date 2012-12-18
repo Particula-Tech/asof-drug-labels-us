@@ -19,9 +19,9 @@ The average total daily dose was approximately 105 mg per day.
 
 OxyContin may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [see Overdosage (10)].
 
-The most common adverse reactions (>5%) reported by patients in clinical trials comparing OxyContin with placebo are shown in Table 2 below:
+The most common adverse reactions (>5%) reported by patients in clinical trials comparing OxyContin with placebo are shown in Table 1 below:
 
-TABLE 2: Common Adverse Reactions (>5%)
+TABLE 1: Common Adverse Reactions (>5%)
 
 | Adverse Reaction | OxyContin (n=227) | Placebo (n=45) |
 | --- | --- | --- |
