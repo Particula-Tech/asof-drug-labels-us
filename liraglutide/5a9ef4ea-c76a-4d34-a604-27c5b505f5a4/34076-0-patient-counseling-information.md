@@ -52,9 +52,9 @@ Victoza should be titrated at the discretion of the prescribing physician [see D
 Patients should be informed that response to all diabetic therapies should be monitored by periodic measurements of blood glucose and A1c levels, with a goal of decreasing these levels towards the normal range.
 A1c is especially useful for evaluating long-term glycemic control.
 
-Date of Issue: April 6, 2012
+Date of Issue: December 13, 2012
 
-Version: 4
+Version: 5
 
 Victoza® is a registered trademark of Novo Nordisk A/S.
 

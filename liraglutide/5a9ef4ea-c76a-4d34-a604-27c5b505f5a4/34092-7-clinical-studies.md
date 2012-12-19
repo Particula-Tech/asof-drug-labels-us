@@ -96,18 +96,18 @@ From a mean baseline body weight of 94 kg, there was a mean reduction of 2.7 kg 
 
 Table 8 Results of a 26-week open-label trial of Victoza Compared to Sitagliptin (both in combination with metformin)Intent-to-treat population using last observation on study
 
-|  | Victoza 1.8 mg + Metformin | Victoza 1.2 mg + Metformin | Sitagliptin 100 mg+ Metformin |
+|  | Victoza 1.8 mg +Metformin | Victoza 1.2 mg +Metformin | Sitagliptin 100 mg+Metformin |
 | --- | --- | --- | --- |
 | Intent-to-Treat Population (N) | 218 | 221 | 219 |
 | HbA1c (%) (Mean) |  |  |  |
 | Baseline | 8.4 | 8.4 | 8.5 |
 | Change from baseline (adjusted mean) | -1.5 | -1.2 | -0.9 |
-| Difference from sitagliptin arm (adjusted mean)Least squares mean adjusted for baseline value 95% Confidence Interval | -0.6p-value <0.0001 (-0.8, -0.4) | -0.3 (-0.5, -0.2) |  |
+| Difference from sitagliptin arm (adjusted mean)Least squares mean adjusted for baseline value 95% Confidence Interval | -0.6p-value <0.0001(-0.8, -0.4) | -0.3(-0.5, -0.2) |  |
 | Percentage of patients achieving A1c <7% | 56 | 44 | 22 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 179 | 182 | 180 |
 | Change from baseline (adjusted mean) | -39 | -34 | -15 |
-| Difference from sitagliptin arm (adjusted mean) 95% Confidence Interval | -24 (-31, -16) | -19 (-26, -12) |  |
+| Difference from sitagliptin arm (adjusted mean) 95% Confidence Interval | -24(-31, -16) | -19(-26, -12) |  |
 
 Figure 4 Mean HbA1c for patients who completed the 26-week trial and for the Last Observation Carried Forward (LOCF, intent-to-treat) data at Week 26
 
@@ -132,12 +132,12 @@ Table 9 Results of a 26-week open label trial of Insulin detemir as add on to Vi
 | HbA1c (%) (Mean) |  |  |
 | Baseline (week 0) | 7.6 | 7.6 |
 | Change from baseline (adjusted mean) | -0.5 | 0 |
-| Difference from Victoza + metformin arm (LS mean)Least squares mean adjusted for baseline value 95% Confidence Interval | -0.5p-value <0.0001 (-0.7, -0.4) |  |
+| Difference from Victoza + metformin arm (LS mean)Least squares mean adjusted for baseline value 95% Confidence Interval | -0.5p-value <0.0001(-0.7, -0.4) |  |
 | Percentage of patients achieving A1c <7% | 43 | 17 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |
 | Baseline (week 0) | 166 | 159 |
-| Change from baseline (adjusted mean) | -39 | -9 |
-| Difference from Victoza + metformin arm (LS mean) 95% Confidence Interval | -31 (-39, -23) |  |
+| Change from baseline (adjusted mean) | -39 | -7 |
+| Difference from Victoza + metformin arm (LS mean)95% Confidence Interval | -31 (-39, -23) |  |
 
 Add-on to Sulfonylurea
 

@@ -90,7 +90,7 @@ Table 2 Adverse reactions reported in ≥5% of Victoza-treated patients and occu
 
 Table 3 Adverse Reactions reported in ≥5% of Victoza-treated patients in a 26-Week Open-Label Trial versus Exenatide
 
-|  | Victoza 1.8 mg once daily + metformin and/or sulfonylureaN = 235 | Exenatide 10 mcg twice daily + metformin and/or sulfonylureaN = 232 |
+|  | Victoza1.8 mg once daily+ metformin and/or sulfonylureaN = 235 | Exenatide10 mcg twice daily + metformin and/or sulfonylureaN = 232 |
 | --- | --- | --- |
 | Adverse Reaction | (%) | (%) |
 | Nausea | 25.5 | 28.0 |
@@ -102,7 +102,7 @@ Table 3 Adverse Reactions reported in ≥5% of Victoza-treated patients in a 26-
 
 Table 4 Adverse Reactions in ≥5% of Victoza-treated patients in a 26-Week Open-Label Trial versus Sitagliptin
 
-|  | All Victoza+ metformin N = 439 | Sitagliptin 100 mg/day + metformin N = 219 |
+|  | All Victoza+ metformin N = 439 | Sitagliptin 100 mg/day+ metformin N = 219 |
 | --- | --- | --- |
 | Adverse Reaction | (%) | (%) |
 | Nausea | 23.9 | 4.6 |
@@ -203,3 +203,4 @@ Because these events are reported voluntarily from a population of uncertain siz
   [see Warnings and Precautions (5.4) and Patient Counseling Information (17.3)]
 - •Angioedema and anaphylactic reactions.
   [see Contraindications (4), Warnings and Precautions (5.5), Patient counseling Information (17.5)]
+- •Allergic reactions: rash and pruritus
