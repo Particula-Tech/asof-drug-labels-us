@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Taclonex® Ointment contains calcipotriene hydrate and betamethasone dipropionate.
-It is intended for topical use.
+Taclonex® (calcipotriene and betamethasone dipropionate) Ointment, 0.005%/0.064% contains calcipotriene hydrate and betamethasone propionate.
+It is intended for topical use only.
 
 Calcipotriene hydrate is a synthetic vitamin D3 analogue.
 
@@ -15,4 +15,4 @@ Betamethasone dipropionate has the chemical name 9-fluoro-11(beta),17,21-trihydr
 
 Betamethasone dipropionate is a white to almost white odorless powder.
 
-Each gram of Taclonex ® Ointment contains 52.18 mcg of calcipotriene hydrate (equivalent to 50 mcg of calcipotriene) and 0.643 mg of betamethasone dipropionate (equivalent to 0.5 mg of betamethasone) in an ointment base of mineral oil, PPG-15 stearyl ether, dl-alpha tocopherol and white petrolatum.
+Each gram of Taclonex® Ointment contains 52.18 mcg of calcipotriene hydrate (equivalent to 50 mcg of calcipotriene) and 0.643 mg of betamethasone dipropionate (equivalent to 0.5 mg of betamethasone) in off-white to yellow paraffin ointment base of mineral oil, PPG-15 stearyl ether, dl-alpha tocopherol and white petrolatum.

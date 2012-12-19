@@ -46,12 +46,12 @@ Table 2 Lesional/Perilesional Adverse Events Reported by ≥1% of Subjects
 | Skin irritation | 9 (0.4) | 51 (1.6) | 8 (0.7) | 5 (1.1) |
 | Burning sensation | 6 (0.2) | 25 (0.8) | 3 (0.3) | 5 (1.1) |
 
-For subjects who reported lesional/perilesional adverse events, the median time to onset was 7 days for Taclonex ® Ointment, 7 days for calcipotriene, 5 days for betamethasone dipropionate, and 3 days for vehicle.
+For subjects who reported lesional/perilesional adverse events, the median time to onset was 7 days for Taclonex® Ointment, 7 days for calcipotriene, 5 days for betamethasone dipropionate, and 3 days for vehicle.
 Other less common reactions (less than 1% but more than 0.1%) were, in decreasing order of incidence, folliculitis, rash papular, rash pustular, and skin hypopigmentation.
 Skin atrophy, telangiectasia and skin hyperpigmentation were reported infrequently (0.1%).
-In a separate study, subjects (N = 207) with at least moderate disease severity were given Taclonex® Ointment intermittently on an "as needed" basis for up to 52 weeks.
+In a separate trial, subjects (N = 207) with at least moderate disease severity were given Taclonex® Ointment intermittently on an "as needed" basis for up to 52 weeks.
 The median use was 15.4 g per week.
-The effects of Taclonex ® Ointment on calcium metabolism were not studied and the effects on the HPA axis were not adequately studied.
+The effects of Taclonex® Ointment on calcium metabolism were not studied and the effects on the HPA axis were not adequately studied.
 The following adverse reactions were reported by 1% or more of the subjects: pruritus (7.2%), psoriasis (3.4%), skin atrophy (1.9%), folliculitis (1.4%), burning sensation (1.4%), skin depigmentation (1.4%), ecchymosis (1.0%), erythema (1.0%) and hand dermatitis (1.0%).
 One case of serious flare-up of psoriasis was reported.
 

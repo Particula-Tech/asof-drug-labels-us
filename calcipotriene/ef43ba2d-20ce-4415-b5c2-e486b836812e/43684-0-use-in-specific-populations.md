@@ -17,8 +17,8 @@ The enlarged fontanelles are most likely due to the effect of calcipotriene upon
 The estimated maternal and fetal no-adverse effect levels (NOAEL) in the rat (108 mcg/m2/day) and rabbit (48 mcg/m2/day) derived from oral studies are lower than the estimated maximum topical dose of calcipotriene in man (460 mcg/m2/day).
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Betamethasone dipropionate has been shown to be teratogenic in mice and rabbits when given by the subcutaneous route at doses of 156 mcg/kg/day (468 mcg/m 2 /day) and 2.5 mcg/kg/day (30 mcg/m 2 /day), respectively.
-Those dose levels are lower than the estimated maximum topical dose in man (about 5950 mcg/m 2 /day).
+Betamethasone dipropionate has been shown to be teratogenic in mice and rabbits when given by the subcutaneous route at dosages of 156 mcg/kg/day (468 mcg/m2/day) and 2.5 mcg/kg/day (30 mcg/m2/day), respectively.
+Those dose levels are lower than the estimated maximum topical dose in man (about 5950 mcg/m2/day).
 The abnormalities observed included umbilical hernia, exencephaly and cleft palate.
 Two oral peri- and post-natal development studies were conducted with rats: Pregnant Wistar rats were dosed daily with calcipotriene at exposures of 0, 6, 18 or 54 mcg/kg/day from gestation day 15 through day 20 postpartum.
 No remarkable effects were observed on any parameter, including survival, behavior, body weight, litter parameters, or the ability to nurse or rear pups.
@@ -52,3 +52,11 @@ Of the total number of subjects in the clinical studies of Taclonex® Ointment, 
 
 No overall differences in safety or effectiveness of Taclonex® Ointment were observed between these subjects and younger subjects.
 All other reported clinical experience has not identified any differences in response between elderly and younger patients.
+
+## 8.6 Unevaluated Uses
+
+The safety and efficacy of Taclonex® Ointment in patients with known or suspected disorders of calcium metabolism have not been evaluated.
+
+The safety and efficacy of Taclonex® Ointment in patients with erythrodermic, exfoliative, or pustular psoriasis have not been evaluated.
+
+The safety and efficacy of Taclonex® Ointment in patients with severe renal insufficiency or severe hepatic disorders have not been evaluated.

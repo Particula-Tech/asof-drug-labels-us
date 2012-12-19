@@ -1,36 +1,21 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (17.5)]
+See FDA-approved patient labeling (Patient Information)
 
-This information is intended to aid in the safe and effective use of this medication.
-It is not a disclosure of all possible adverse or intended effects.
+Inform patients of the following:
 
-Patients using Taclonex® Ointment should receive the following information and instructions.
+- This medication is to be used as directed by the physician.
+- It is for external use only.
+- Avoid contact with the face or eyes.
+  If this medicine gets on face or in eyes, wash area right away.
+- Wash hands after application.
+- This medication should not be used for any disorder other than that for which it has been prescribed.
+- The treated skin area should not be bandaged or otherwise covered as to be occlusive, unless directed by the physician.
+  Patients should report any signs of adverse reactions to their physician.
+- Other products containing calcipotriene or a corticosteroid should not be used with Taclonex® Ointment without first talking to the physician.
+- Instruct patients who use Taclonex® Ointment to avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.). Physicians may wish to limit or avoid use of phototherapy in patients who use Taclonex® Ointment.
 
-## 17.1 Instructions for Use
-
-This medication is to be used as directed by the physician.
-It is for external use only.
-Avoid contact with the face or eyes.
-As with any topical medication, patients should wash hands after application.
-This medication should not be used for any disorder other than that for which it has been prescribed.
-The treated skin area should not be bandaged or otherwise covered as to be occlusive, unless directed by the physician.
-
-## 17.2 Adverse Reactions
-
-Patients should report any signs of adverse reactions to their physician.
-
-## 17.3 Concomitant Use of Other Corticosteroids
-
-Other products containing calcipotriene or a corticosteroid should not be used with Taclonex® Ointment without first talking to the physician.
-
-## 17.4 Excessive Exposure to Light
-
-Patients who apply Taclonex® Ointment to exposed portions of the body should avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.). Physicians may wish to limit or avoid use of phototherapy in patients who use Taclonex® Ointment.
-
-## 17.5 FDA-Approved Patient Labeling
-
-Patient Information Taclonex® Ointment (pronounced TAK-lo-NEKS) (calcipotriene 0.005% and betamethasone dipropionate 0.064%) Read the Patient Information that comes with Taclonex® Ointment before you start using it and each time you refill your prescription.
+Patient Information Taclonex® Ointment (pronounced TAK-lo-NEKS) (calcipotriene and betamethasone dipropionate) Ointment, 0.005%/0.064% Read the Patient Information that comes with Taclonex® Ointment before you start using it and each time you refill your prescription.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition or treatment.
 Important information: Taclonex® Ointment is for use on the skin only (topical use only).
@@ -44,12 +29,19 @@ Taclonex® Ointment is used to treat psoriasis vulgaris in adults 18 years of ag
 Taclonex® Ointment is not recommended for use in children.
 Taclonex® Ointment has not been studied in patients under the age of 18.
 Who should not use Taclonex® Ointment?
-Do not use Taclonex® Ointment if you: • have a calcium metabolism disorder • have one of the following types of psoriasis: o erythrodermic psoriasis o exfoliative psoriasis o pustular psoriasis • have severe kidney or liver disease • are allergic to anything in Taclonex® Ointment.
+Do not use Taclonex® Ointment if you:
+
+- have a calcium metabolism disorder
+- have one of the following types of psoriasis: • erythrodermic psoriasis • exfoliative psoriasis • pustular psoriasis
+- have severe kidney or liver disease
+- have thin skin (atrophy) at the site to be treated
+- are allergic to anything in Taclonex® Ointment.
+
 See the end of this leaflet for a complete list of ingredients.
+
 What should I tell my doctor before using Taclonex® Ointment?
 Tell your doctor about all of your health conditions, including if you: • have a skin infection.
-Your skin infection should be treated before starting Taclonex® Ointment. • have thin-skin (atrophy) at the site to be treated.
-You should not use Taclonex® Ointment. • are getting phototherapy treatments (light therapy) for your psoriasis. • are pregnant or planning to become pregnant.
+Your skin infection should be treated before starting Taclonex® Ointment. • are getting phototherapy treatments (light therapy) for your psoriasis. • are pregnant or planning to become pregnant.
 It is not known if Taclonex® Ointment can harm your unborn baby.
 You and your doctor will have to decide if Taclonex® Ointment is right for you while pregnant. • are breastfeeding.
 It is not known if Taclonex® Ointment passes into your milk and if it can harm your baby.
@@ -78,7 +70,7 @@ Serious side effects may include: • too much calcium in your blood or urine �
 Call your doctor about any side effect that bothers you or that does not go away.
 These are not all of the side effects with Taclonex® Ointment.
 Ask your doctor or pharmacist for more information.
-How should I store Taclonex® Ointment? • Store Taclonex® Ointment between 68 - 77° F (20 - 25° C); excursions permitted between 59 - 86° F (15 - 30° C). • Make sure the cap on the tube is tightly closed. • Taclonex® Ointment has an expiration date (exp.) marked on the tube.
+How should I store Taclonex® Ointment? • Store Taclonex® Ointment at room temperature, 68 - 77° F (20 - 25° C); Make sure the cap on the tube is tightly closed. • Taclonex® Ointment has an expiration date (exp.) marked on the tube.
 Do not use the ointment after this date. • Keep Taclonex® Ointment and all medicines out of the reach of children and pets.
 General information about Taclonex® Ointment Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use Taclonex® Ointment for a condition for which it was not prescribed.
@@ -92,4 +84,4 @@ Active ingredients: calcipotriene hydrate, betamethasone dipropionate.
 Inactive ingredients: mineral oil, PPG-15 stearyl ether, dl-alpha tocopherol, white petrolatum.
 
 Manufactured by: LEO Laboratories Ltd. (LEO Pharma) Dublin, Ireland Distributed by: LEO Pharma Inc. 1 Sylvan Way, Parsippany, NJ 07054 USA 1-877-494-4536 U.S. Patent Nos.: RE39,706 E and 6,753,013.
-024598-01 024599-01 Revised: 11/2010
+024598-01 024599-01

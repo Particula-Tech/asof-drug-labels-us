@@ -18,7 +18,7 @@ Of eleven subjects tested, none demonstrated adrenal suppression as indicated by
 
 However in another clinical study of Taclonex® Ointment, one subject (N = 19) demonstrated adrenal suppression.
 
-HPA axis suppression was evaluated in adult subjects (N=32) with extenisve psoriasis involving at least 30% of the scalp and, in total, 15-30% of the body surface area.
+HPA axis suppression was evaluated in adult subjects (N=32) with extensive psoriasis involving at least 30% of the scalp and, in total, 15-30% of the body surface area.
 Treatment consited of once daily application of Talconex Scalp® Topical Suspension on the scalp in combination with Taclonex® Ointment on the body.
 Adrenal suppression as indicated by a 30-minutes post-stimulation cortisol level less than or equal to 18 mcg/dL was observed in 5 of 32 subjects (15.6%) after 4 weeks of treatment as per the recommended duration of use (see Dosage and Administration (2.1).
 
@@ -31,7 +31,7 @@ Elevated urinary calcium levels outside the normal range were observed in 1 of 3
 
 Absorption
 
-The systemic effect of Taclonex® Ointment in extensive psoriasis was investigated in the study described above.
+The systemic effect of Taclonex® Ointment in extensive psoriasis was investigated in the trial described above.
 In this study, the serum levels of calcipotriene and betamethasone dipropionate and their major metabolites were measured after 4 weeks (maximum recommended duration of treatment) and also after 8 weeks of once daily application of Taclonex® Ointment on the body in combination with Taclonex Scalp® Topical Suspension on the scalp.
 Both calcipotriene and betamethasone dipropionate were below the lower limit of quantification in all serum samples of the 34 subjects evaluated.
 However, one major metabolite of calcipotriene (MC1080) was quantifiable in 10 of 34 (29.4%) subjects at week 4 and in five of 12 (41.7%) subjects at week 8.

@@ -15,7 +15,7 @@ This may occur during treatment or upon withdrawal of the topical corticosteroid
 HPA axis suppression has been observed with Taclonex® Ointment [see Clinical Pharmacology (12.2)].
 The effects of Taclonex® Ointment on the HPA axis following treatment durations of longer than 4 weeks have not been adequately studied.
 
-In a study of 32 subjects concomitantly treated with Taclonex® Scalp Topical Suspension on the scalp and Taclonex® Ointment on the body, adrenal suppression was identified in 5 of 32 subjects (15.6%) after 4 weeks of treatment [see CLINICAL PHARMACOLOGY Pharmacodynamics (12.2)].
+In a trial of 32 subjects concomitantly treated with Taclonex® Scalp Topical Suspension on the scalp and Taclonex® Ointment on the body, adrenal suppression was identified in 5 of 32 subjects (15.6%) after 4 weeks of treatment [see Clinical Pharmacology: Pharmacodynamics (12.2)].
 
 Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression.
 Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure.
@@ -56,14 +56,6 @@ If the infection persists, Taclonex® Ointment should be discontinued until the 
 
 If irritation develops, treatment with Taclonex® Ointment should be discontinued and appropriate therapy instituted.
 
-## 5.8 Unevaluated Uses
-
-The safety and efficacy of Taclonex® Ointment in patients with known or suspected disorders of calcium metabolism have not been evaluated.
-
-The safety and efficacy of Taclonex® Ointment in patients with erythrodermic, exfoliative, or pustular psoriasis have not been evaluated.
-
-The safety and efficacy of Taclonex® Ointment in patients with severe renal insufficiency or severe hepatic disorders have not been evaluated.
-
-## 5.9 Ultraviolet Light Exposure
+## 5.8 Ultraviolet Light Exposure
 
 Patients who apply Taclonex® Ointment to exposed skin should avoid excessive exposure to either natural or artificial sunlight, including tanning booths, sun lamps, etc. Physicians may wish to limit or avoid use of phototherapy in patients who use Taclonex® Ointment.
