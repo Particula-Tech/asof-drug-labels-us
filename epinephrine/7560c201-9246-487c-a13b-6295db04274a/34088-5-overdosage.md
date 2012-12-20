@@ -2,7 +2,7 @@
 
 Epinephrine is rapidly inactivated in the body and treatment following overdose with epinephrine is primarily supportive.
 If necessary, pressor effects may be counteracted by rapidly acting vasodilators or alpha-adrenergic blocking drugs.
-If prolonged hypotension follows such measure, it may be necessary to administer another pressor drug.
+If prolonged hypotension follows such measures, it may be necessary to administer another pressor drug.
 
 Overdosage of epinephrine may produce extremely elevated arterial pressure, which may result in cerebrovascular hemorrhage, particularly in elderly patients.
 
