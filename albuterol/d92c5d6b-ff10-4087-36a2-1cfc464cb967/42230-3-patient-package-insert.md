@@ -190,9 +190,14 @@ Do not prime your VENTOLIN HFA every day.
 - •Remove the protective cap from the mouthpiece.
 - •Shake the inhaler well, and spray it into the air away from your face.
   See Figure C.
+
+1. Figure C
+
 - •Shake and spray the inhaler like this 3 more times to finish priming it.
   After you prime the actuator for the first time, the dose counter in the window on the back of the actuator should show the number 200 or 60, depending on which size inhaler you have.
   See Figure D.
+- 
+- Figure D
 
 Each time you use your VENTOLIN HFA inhaler:
 
@@ -217,10 +222,14 @@ Step 2.
 Hold the inhaler with the mouthpiece down.
 See Figure E.
 
+Figure E
+
 Step 3.
 Breathe out through your mouth and push as much air from your lungs as you can.
 Put the mouthpiece in your mouth and close your lips around it.
 See Figure F.
+
+Figure F
 
 Step 4.
 Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth.
