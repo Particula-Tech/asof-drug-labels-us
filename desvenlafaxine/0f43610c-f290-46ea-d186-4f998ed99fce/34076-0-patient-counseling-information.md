@@ -14,9 +14,9 @@ Advise patients, their families and caregivers to look for the emergence of suic
 Advise patients taking PRISTIQ not to use concomitantly other products containing desvenlafaxine or venlafaxine.
 Healthcare professionals should instruct patients not to take PRISTIQ with an MAOI or within 14 days of stopping an MAOI and to allow 7 days after stopping PRISTIQ before starting an MAOI [see Contraindications (4.2)].
 
-## 17.3 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+## 17.3 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions, particularly with the concomitant use of PRISTIQ and triptans, tramadol, tryptophan supplements, other serotonergic agents, or antipsychotic drugs [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of PRISTIQ with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) [see Warnings and Precautions (5.2)].
 
 ## 17.4 Elevated Blood Pressure
 
@@ -77,6 +77,4 @@ Advise patients to notify their physician if they are breastfeeding an infant [s
 Patients receiving PRISTIQ may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
 
-LAB-0452-5.0
-
-Revised October 2011
+LAB-0452-7.0

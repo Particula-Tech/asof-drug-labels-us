@@ -7,11 +7,11 @@ Consequently, caution is advised when PRISTIQ is taken in combination with other
 
 ## 7.2 Monoamine Oxidase Inhibitors (MAOI)
 
-Adverse reactions, some of which were serious, have been reported in patients who have recently been discontinued from a monoamine oxidase inhibitor (MAOI) and started on antidepressants with pharmacological properties similar to PRISTIQ (SNRIs or SSRIs), or who have recently had SNRI or SSRI therapy discontinued prior to initiation of an MAOI [see Contraindications (4.2)].
+[see Dosage and Administration (2.6), Contraindications (4.2), and Warnings and Precautions (5.2)].
 
 ## 7.3 Serotonergic Drugs
 
-Based on the mechanism of action of PRISTIQ and the potential for serotonin syndrome, caution is advised when PRISTIQ is co-administered with other drugs that may affect the serotonergic neurotransmitter systems [see Warnings and Precautions (5.2)].
+[see Dosage and Administration (2.6), Contraindications (4.2), and Warnings and Precautions (5.2)].
 
 ## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
 

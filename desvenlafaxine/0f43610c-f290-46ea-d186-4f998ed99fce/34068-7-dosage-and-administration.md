@@ -17,7 +17,6 @@ Tablets must be swallowed whole with fluid and not divided, crushed, chewed, or 
 
 Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
 When treating pregnant women with PRISTIQ during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering PRISTIQ in the third trimester.
 
 ### Patients with renal impairment
 
@@ -56,7 +55,20 @@ Subsequently, the physician may continue decreasing the dose, but at a more grad
 Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to PRISTIQ.
 Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms [see Contraindications (4.2)].
 
-## 2.6 Switching Patients To or From a Monoamine Oxidase Inhibitor (MAOI)
+## 2.6 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-At least 14 days must elapse between discontinuation of an MAOI and initiation of therapy with PRISTIQ.
-In addition, at least 7 days must be allowed after stopping PRISTIQ before starting an MAOI [see Contraindications (4.2)].
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PRISTIQ.
+Conversely, at least 7 days should be allowed after stopping PRISTIQ before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.2)].
+
+Use of PRISTIQ with other MAOIs such as Linezolid or Methylene Blue
+
+Do not start PRISTIQ in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.2)].
+
+In some cases, a patient already receiving PRISTIQ therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, PRISTIQ should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 7 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with PRISTIQ may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with PRISTIQ is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

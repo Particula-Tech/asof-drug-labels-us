@@ -75,9 +75,10 @@ This information does not take the place of talking with your healthcare provide
 
 - are allergic to desvenlafaxine, venlafaxine or any of the ingredients in PRISTIQ.
   See the end of this Medication Guide for a complete list of ingredients in PRISTIQ.
-- currently take or have taken within the last 14 days, any medicine known as an MAOI.
-  Taking an MAOI with certain other medicines, including PRISTIQ, can cause serious or even life-threatening side effects.
-  Also, you must wait at least 7 days after you stop taking PRISTIQ before you take any MAOI.
+- take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- do not take an MAOI within 7 days of stopping PRISTIQ unless directed to do so by your physician.
+- do not start PRISTIQ if you stopped taking an MAOI in the last 2 weeks unless directed to do by your physician.
 
 ### What should I tell my healthcare provider before taking PRISTIQ?
 
@@ -101,14 +102,14 @@ Tell your healthcare provider about all your medical conditions, including if yo
   PRISTIQ can pass into your breast milk and may harm your baby.
   Talk with your healthcare provider about the best way to feed your baby if you take PRISTIQ.
 
-### Serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions
+### Serotonin syndrome
 
-Rare, but potentially life-threatening, conditions called serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions can happen when medicines such as PRISTIQ are taken with certain other medicines.
-Serotonin syndrome or NMS-like reactions can cause serious changes in how your brain, muscles, heart and blood vessels, and digestive system work.
+A rare, but potentially life-threatening, condition called serotonin syndrome can happen when medicines such as PRISTIQ are taken with certain other medicines.
+Serotonin syndrome can cause serious changes in how your brain, muscles, heart and blood vessels, and digestive system work.
 Especially tell your healthcare provider if you take the following:
 
 - medicines to treat migraine headaches known as triptans
-- medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), antipsychotic drugs, or other dopamine antagonists, such as metoclopramide
+- medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide
 - silbutramine
 - tramadol
 - St. John's Wort
@@ -158,8 +159,8 @@ Your doctor may gradually reduce the dose of your initial antidepressant medicat
 
 ### PRISTIQ can cause serious side effects, including:
 
-- See the beginning of this Medication Guide - Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions.
-- Serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions.
+- See the beginning of this Medication Guide -Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions.
+- Serotonin syndrome.
   See “What should I tell my healthcare provider before taking PRISTIQ?”Get medical help right away if you think that you have these syndromes.
   Signs and symptoms of these syndromes may include one or more of the following:
 
@@ -261,6 +262,6 @@ Please visit our web site at www.pristiq.com, or call our toll-free number 1-888
 |  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
 
-LAB-0539-2.0
+LAB-0539-4.0
 
-Revised July 2011
+Revised December 2012
