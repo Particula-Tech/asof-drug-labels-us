@@ -3,7 +3,7 @@
 ## 16.1 URSO 250
 
 Each URSO 250 elliptical, biconvex, film-coated tablet, white, engraved with "URS785", contains 250 mg of ursodiol.
-Available in bottles of 100 tablets (NDC 58914-785-10) and 500 tablets (NDC 58914-785-50).
+Available in bottles of 100 tablets (NDC 58914-785-10).
 
 ## 16.2 URSO Forte
 
