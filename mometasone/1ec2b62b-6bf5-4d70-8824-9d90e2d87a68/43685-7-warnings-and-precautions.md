@@ -18,7 +18,7 @@ Hypersensitivity reactions including rash, pruritus, angioedema, and anaphylacti
 Discontinue ASMANEX TWISTHALER if such reactions occur [see Contraindications (4) and Postmarketing Experience (6.2)].
 
 ASMANEX TWISTHALER contains small amounts of lactose, which contains trace levels of milk proteins.
-In postmarketing experience with ASMANEX TWISTHALER, anaphylactic reactions in patients with milk protein allergy have been reported [see Contraindications (4) and, Postmarketing Experience (6.2)].
+In postmarketing experience with ASMANEX TWISTHALER, anaphylactic reactions in patients with milk protein allergy have been reported [see Contraindications (4) and Postmarketing Experience (6.2)].
 
 ## 5.4 Immunosuppression
 
@@ -32,7 +32,7 @@ If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG)
 (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chickenpox develops, treatment with antiviral agents may be considered.
 
-Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infection of the respiratory tract, untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
+Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infection of the respiratory tract; untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ## 5.5 Transferring Patients from Systemic Corticosteroid Therapy
 

@@ -1,13 +1,23 @@
-(LOGO)
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Manufactured by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA.
+Manufactured by: MSD International GmbH (Singapore Branch) Singapore 638030, Singapore Or Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
-U.S. Patent Nos. 5394868, 5687710, 5740792, 5829434, 5889015, 6057307, 6240918, 6365581, 6503537, 6677322, 6949532, D348928.
+U.S. Patent Nos. 5,687,710; 5,829,434; 6,240,918; and 6,503,537.
 
-© 2008, Schering Corporation.
-All right reserved.
+Copyright © 2008, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Rev.
-09/2010
+Revised: 12/2012
 
-The trademarks depicted in this piece are owned by their respective companies.
+032088-AS-PwIH-USPI.13
+
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: MSD International GmbH (Singapore Branch) Singapore 638030, Singapore Or Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+
+U.S. Patent Nos. 5,687,710; 5,829,434; 6,240,918; and 6,503,537.
+
+Copyright © 2008, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+Revised: 12/2012
+
+032088-AS-PwIH-PPI.8

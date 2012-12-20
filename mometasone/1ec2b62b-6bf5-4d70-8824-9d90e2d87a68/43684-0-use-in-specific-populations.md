@@ -41,8 +41,7 @@ Because other corticosteroids are excreted in human milk, caution should be used
 The safety and effectiveness of ASMANEX TWISTHALER have been established in children 4 years of age and older.
 Use of ASMANEX TWISTHALER in children 12 years of age and older is supported by evidence from adequate and well-controlled clinical trials in this patient population [see Clinical Studies (14.1) and Adverse Reactions (6.1)].
 
-Use of ASMANEX TWISTHALER in pediatric patients 4 to 11 years of age is supported by evidence from adequate and well-controlled clinical trials of 12 weeks duration in 630 patients 4 to 11 years of age receiving ASMANEX TWISTHALER and one 52-week safety trial in 152 patients [see Clinical Studies (14.
-1) and Adverse Reactions (6.1)].
+Use of ASMANEX TWISTHALER in pediatric patients 4 to 11 years of age is supported by evidence from adequate and well-controlled clinical trials of 12 weeks duration in 630 patients 4 to 11 years of age receiving ASMANEX TWISTHALER and one 52-week safety trial in 152 patients [see Clinical Studies (14.1) and Adverse Reactions (6.1)].
 
 Controlled clinical studies have shown that inhaled corticosteroids may cause a reduction in growth in pediatric patients.
 In these studies, the mean reduction in growth velocity was approximately 1 cm per year (range: 0.3–1.8 per year) and appears to depend upon dose and duration of exposure.

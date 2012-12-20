@@ -1,10 +1,8 @@
-17.10 FDA-Approved Patient Labeling
+Patient Information
 
 ASMANEX® TWISTHALER® 220 mcg (mometasone furoate inhalation powder) ASMANEX® TWISTHALER® 110 mcg (mometasone furoate inhalation powder)
 
 FOR ORAL INHALATION ONLY
-
-Patient's Instructions for Use
 
 Please read this leaflet carefully before taking ASMANEX® TWISTHALER®.
 
@@ -90,7 +88,7 @@ STORING YOUR INHALER
   If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
   Do not wash the inhaler.
   Avoid contact with any liquids.
-- Store in a dry place at 25°C (77°F) [may range between 15°–30°C (59°–86°F)]
+- Store in a dry place at 25°C (77°F) [may range between 15–30°C (59–86°F)].
 - Keep your inhaler out of the reach of children.
 
 HOW TO KNOW WHEN YOUR INHALER IS EMPTY
@@ -133,13 +131,3 @@ The most common side effects with ASMANEX TWISTHALER include: headache, nasal al
 Tell your health care professional about any side effects that bother you or do not go away.
 These are not all of the possible side effects with ASMANEX TWISTHALER.
 For more information, ask your health care professional.
-
-Manufactured by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA.
-
-U.S. Patent Nos. 5394868, 5687710, 5740792, 5829434, 5889015, 6057307, 6240918, 6365581, 6503537, 6677322, 6949532, D348928.
-
-© 2008, Schering Corporation.
-All rights reserved.
-
-Rev.
-09/2010

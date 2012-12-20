@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.10)
+See FDA-Approved Patient Labeling (Patient Information).
 
 ## 17.1 Oral Candidiasis
 
@@ -11,7 +11,7 @@ Rinsing the mouth after inhalation is advised [see Warnings and Precautions (5.1
 ## 17.2 Acute Asthma Episodes
 
 Patients should be advised that ASMANEX TWISTHALER is not a bronchodilator and should not be used to treat status asthmaticus or to relieve acute asthma symptoms.
-Acute asthma symptoms should be treated with an inhaled, short-acting beta-2 agonist such as albuterol [see Warnings and Precautions (5.2)].
+Acute asthma symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol [see Warnings and Precautions (5.2)].
 
 ## 17.3 Hypersensitivity Reactions Including Anaphylaxis
 
@@ -24,7 +24,7 @@ In postmarketing experience with ASMANEX TWISTHALER, anaphylactic reactions in p
 ## 17.4 Immunosuppression
 
 Patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles and, if exposed, to consult their physician without delay.
-Patients should be informed of potential worsening of existing tuberculosis, fungal, bacterial, viral, or parasitic infections, or ocular herpes simplex [see Warnings and Precautions (5.4)].
+Patients should be informed of potential worsening of existing tuberculosis; fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex [see Warnings and Precautions (5.4)].
 
 ## 17.5 Hypercorticism and Adrenal Suppression
 
@@ -49,16 +49,12 @@ If symptoms do not improve in that time frame or if the condition worsens, patie
 
 ## 17.9 Instructions for Use
 
-Patients should be instructed to record the date of pouch opening on the cap label, and discard the inhaler 45 days after opening the foil pouch or when the dose counter reads "00" and the final dose has been inhaled, whichever comes first.
+Patients should be instructed to record the date of pouch opening on the cap label and discard the inhaler 45 days after opening the foil pouch or when the dose counter reads "00" and the final dose has been inhaled, whichever comes first.
 The inhaler should be held upright while removing the cap.
 The medication should be taken as directed, breathing rapidly and deeply, and patients should not breathe out through the inhaler.
-The mouthpiece should be wiped dry and the cap replaced immediately following each inhalation, rotated fully until the click is heard.
+The mouthpiece should be wiped dry and the cap replaced immediately following each inhalation and rotated fully until the click is heard.
 Rinsing of mouth after inhalation is advised.
 Patients should store the unit as instructed.
 The dose counter displays the doses remaining.
 When the dose counter indicates zero, the cap will lock and the unit must be discarded.
-Patients should be advised that if the dose counter is not working correctly, the unit should not be used and it should be brought to their physician or pharmacist [see FDA-Approved Patient Labeling-Patient's Instructions for Use (17.10)].
-
-## 17.10 FDA-Approved Patient Labeling
-
-see accompanying Patients Instructions for Use
+Patients should be advised that if the dose counter is not working correctly, the unit should not be used and it should be brought to their physician or pharmacist.

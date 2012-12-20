@@ -6,5 +6,4 @@ ASMANEX TWISTHALER therapy is contraindicated in the primary treatment of status
 
 ## 4.2 Hypersensitivity
 
-ASMANEX TWISTHALER is contraindicated in patients with known hypersensitivity to milk proteins or any ingredients of ASMANEX TWISTHALER.
-[see Warnings and Precautions (5.3) and Description (11)].
+ASMANEX TWISTHALER is contraindicated in patients with known hypersensitivity to milk proteins or any ingredients of ASMANEX TWISTHALER [see Warnings and Precautions (5.3) and Description (11)].

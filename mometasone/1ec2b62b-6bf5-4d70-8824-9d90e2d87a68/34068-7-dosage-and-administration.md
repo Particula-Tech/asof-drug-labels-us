@@ -13,11 +13,11 @@ The safety and efficacy of ASMANEX TWISTHALER when administered in excess of rec
 
 The recommended starting doses and highest recommended daily dose for ASMANEX TWISTHALER treatment based on prior asthma therapy are provided in Table 1.
 
-TABLE 1: Recommended Dosages for ASMANEX TWISTHALER Treatment
+Table 1: Recommended Dosages for ASMANEX TWISTHALER Treatment
 
 | Previous Therapy | Recommended Starting Dose | Highest Recommended Daily Dose |
 | --- | --- | --- |
 | Patients ≥12 years who received bronchodilators alone | 220 mcg once daily in the eveningWhen administered once daily, ASMANEX TWISTHALER should be taken only in the evening. | 440 mcgThe 440 mcg daily dose may be administered in divided doses of 220 mcg twice daily or as 440 mcg once daily. |
 | Patients ≥12 years who received inhaled corticosteroids | 220 mcg once daily in the evening | 440 mcg |
 | Patients ≥12 years who received oral corticosteroidsFor Patients Currently Receiving Chronic Oral Corticosteroid Therapy: Prednisone should be reduced no faster than 2.5 mg/day on a weekly basis, beginning after at least 1 week of ASMANEX TWISTHALER therapy. Monitor patients carefully for signs of asthma instability, including serial objective measures of airflow, and for signs of adrenal insufficiency during steroid taper and following discontinuation of oral corticosteroid therapy [see Warnings and Precautions (5.4)]. | 440 mcg twice daily | 880 mcg |
-| Children 4 – 11 years of ageRecommended pediatric dosage is 110 mcg once daily in the evening regardless of prior therapy. | 110 mcg once daily in the evening | 110 mcg |
+| Children 4-11 years of ageRecommended pediatric dosage is 110 mcg once daily in the evening regardless of prior therapy. | 110 mcg once daily in the evening | 110 mcg |
