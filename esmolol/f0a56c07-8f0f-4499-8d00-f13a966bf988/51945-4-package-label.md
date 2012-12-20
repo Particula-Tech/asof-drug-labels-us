@@ -1,4 +1,4 @@
-# PRINCIPLE DISPLAY PANEL - PACKAGING LABELING
+# PRINCIPAL DISPLAY PANEL - PACKAGING LABELING
 
 NDC 10019-120-39
 
@@ -12,7 +12,7 @@ Rx only
 
 Ready-to-use Vial
 
-FOR INTRAVENOUS USE Iso-Osmotic Contains no preservativesdiscard unused portion.
+FOR INTRAVENOUS USE Iso-Osmotic Contains no preservatives discard unused portion.
 
 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
@@ -29,7 +29,7 @@ Esmolol Hydrochloride Injection
 FOR INTRAVENOUS USE
 
 Single Dose Vials.
-Iso_Osmotic
+Iso-Osmotic
 
 Contains no preservatives - discard unused portion.
 
