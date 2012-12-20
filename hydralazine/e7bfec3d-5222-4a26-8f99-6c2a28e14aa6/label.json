@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA200737"
+  ],
+  "inn": "hydralazine",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-290-20",
+    "67877-290-50",
+    "67877-291-00",
+    "67877-291-20",
+    "67877-291-50",
+    "67877-292-00",
+    "67877-292-20",
+    "67877-292-50",
+    "67877-293-00",
+    "67877-293-20",
+    "67877-293-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydralazine hydrochloride",
+      "name": "Hydralazine Hydrochloride"
+    }
+  ],
+  "setid": "e7bfec3d-5222-4a26-8f99-6c2a28e14aa6",
+  "source": "dailymed"
+}

@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+HydrALAZINE Hydrochloride Tablets, USP 10 mg - Container Label NDC 67877-293-20 HydrALAZINE Hydrochloride Tablets, USP 10 mg Rx Only 100 Tablets HydrALAZINE Hydrochloride Tablets, USP 25 mg - Container Label NDC 67877-292-50 HydrALAZINE Hydrochloride Tablets, USP 25 mg Rx Only 500 Tablets HydrALAZINE Hydrochloride Tablets, USP 50 mg - Container Label NDC 67877-291-00 HydrALAZINE Hydrochloride Tablets, USP 50 mg Rx Only 1000 Tablets HydrALAZINE Hydrochloride Tablets, USP 100 mg - Container Label NDC 67877-290-20 HydrALAZINE Hydrochloride Tablets, USP 100 mg Rx Only 100 Tablets
