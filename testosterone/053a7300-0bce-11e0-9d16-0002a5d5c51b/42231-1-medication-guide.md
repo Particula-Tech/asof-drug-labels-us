@@ -1,6 +1,6 @@
-MEDICATION GUIDE
+# FDA-approved Medication Guide
 
-FORTESTA™ (FOR-tes-ta) CIII
+FORTESTA® (FOR-tes-ta) CIII
 
 (testosterone) Gel
 
@@ -194,8 +194,8 @@ Inactive ingredients: propylene glycol, purified water, ethanol, 2-propanol, ole
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-© 2011 Endo Pharmaceuticals
+© 2012 Endo Pharmaceuticals
 
-PG1564
+PG2319
 
-Issued 04/2011
+Issued 05/2012
