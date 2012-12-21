@@ -68,8 +68,10 @@ Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenas
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving losartan and NSAID therapy.
 The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
-Dual Blockade of the Renin-Angiotensin-Aldosterone System It has been reported in the literature that in patients with established atherosclerotic disease, heart failure, or with diabetes with end organ damage, dual blockade of the renin-angiotensin-aldosterone system is associated with a higher frequency of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) as compared to use of a single renin-angiotensin-aldosterone system agent.
-Dual blockade (e.g., by adding an ACE inhibitor to an angiotensin II receptor antagonist) should be limited to individually defined cases with close monitoring of renal function.
+Dual Blockade of the Renin-Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on losartan potassium and other agents that affect the RAS.
+Do not co-administer aliskiren with losartan potassium in patients with diabetes.
+Avoid use of aliskiren with losartan potassium in patients with renal impairment (GFR <60 mL/min).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

@@ -6,4 +6,4 @@ Bottles of 30 NDC 65862-202-30 Bottles of 90 NDC 65862-202-90 Bottles of 1000 ND
 Bottles of 30 NDC 65862-203-30 Bottles of 90 NDC 65862-203-90 Bottles of 1000 NDC 65862-203-99 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
 Protect from light.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 10/2012

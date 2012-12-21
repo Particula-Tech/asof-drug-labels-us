@@ -120,4 +120,4 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about losartan potassium tablets USP that is written for health professionals.
 What are the ingredients in losartan potassium tablets USP?
 Active ingredient: losartan potassium USP Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch, low substituted hydroxypropyl cellulose, magnesium stearate, hydroxypropyl cellulose, hypromellose 6 cP, titanium dioxide, FD&C blue #2/indigo carmine aluminum lake, D&C yellow #10 aluminum lake, and purified water.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 10/2012
