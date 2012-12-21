@@ -13,7 +13,7 @@ Lamotrigine had a weak inhibitory effect on the serotonin 5-HT 3 receptor (IC 50
 It does not exhibit high affinity binding (IC 50 >100 µM) to the following neurotransmitter receptors: adenosine A 1 and A 2 ; adrenergic α 1 , α 2 , and β; dopamine D 1 and D 2 ; γ-aminobutyric acid (GABA) A and B; histamine H 1 ; kappa opioid; muscarinic acetylcholine; and serotonin 5-HT 2 .
 Studies have failed to detect an effect of lamotrigine on dihydropyridine-sensitive calcium channels.
 It had weak effects at sigma opioid receptors (IC 50 = 145 µM).
-Lamotrigine did not inhibit the uptake of norepinephrine, dopamine, or serotonin, (IC 50 >200 µM) when tested in rat synaptosomes and/or human platelets in vitro .
+Lamotrigine did not inhibit the uptake of norepinephrine, dopamine, or serotonin (IC 50 >200 µM) when tested in rat synaptosomes and/or human platelets in vitro .
 Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor Mediated Activity: Lamotrigine did not inhibit N-methyl d-aspartate (NMDA)-induced depolarizations in rat cortical slices or NMDA-induced cyclic GMP formation in immature rat cerebellum, nor did lamotrigine displace compounds that are either competitive or noncompetitive ligands at this glutamate receptor complex (CNQX, CGS, TCHP).
 The IC 50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 µM of glycine) in cultured hippocampal neurons exceeded 100 µM.
 The mechanisms by which lamotrigine exerts its therapeutic action in Bipolar Disorder have not been established.
@@ -79,7 +79,7 @@ Following multiple administrations (150 mg twice daily) to normal volunteers tak
 Evidence gathered from other sources suggests that self-induction by lamotrigine may not occur when lamotrigine is given as adjunctive therapy in patients receiving enzyme-inducing drugs such as carbamazepine, phenytoin, phenobarbital, primidone, or drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7) ] .
 Elimination : The elimination half-life and apparent clearance of lamotrigine following administration of lamotrigine to adult patients with epilepsy and healthy volunteers is summarized in Table 14.
 Half-life and apparent oral clearance vary depending on concomitant AEDs.
-Drug Interactions : The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)] .
+Drug Interactions : The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12),Drug Interactions (7)] .
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
 Table 15.
@@ -106,7 +106,7 @@ Summary of Drug Interactions With Lamotrigine
 | Valproate | ↓ | ↑ |
 | Valproate + PHT and/or CBZ | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
-| * From adjunctive clinical trials and volunteer studies. † Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer studies. ‡ The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. § Modest decrease in levonorgestrel. ¦ Not administered, but an active metabolite of carbamazepine. ¶ Slight decrease, not expected to be clinically relevant. # Not administered, but an active metabolite of oxcarbazepine. ** Slight increase, not expected to be clinically relevant. ↔ = No significant effect. ? = Conflicting data. |  |  |
+| * From adjunctive clinical trials and volunteer studies. † Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer studies. ‡ The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. § Modest decrease in levonorgestrel. ¦ Not administered, but an active metabolite of carbamazepine. ¶ Slight decrease, not expected to be clinically relevant. # Not administered, but an active metabolite of oxcarbazepine. ** Slight increase, not expected to be clinically relevant. 𕨔 = No significant effect. ? = Conflicting data. |  |  |
 
 Estrogen-Containing Oral Contraceptives : In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with a mean decreases in AUC of 52% and in C max of 39%.
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.

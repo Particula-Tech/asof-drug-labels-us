@@ -72,11 +72,11 @@ Behaviors of concern should be reported immediately to healthcare providers.
 ## 5.5 Use in Patients With Bipolar Disorder
 
 Acute Treatment of Mood Episodes : Safety and effectiveness of lamotrigine in the acute treatment of mood episodes have not been established.
-Children and Adolescents (less than 18 years of age) : Safety and effectiveness of lamotrigine in patients below the age of 18 years with mood disorders have not been established [see Warnings and Precautions (5.4)] .
-Clinical Worsening and Suicide Risk Associated With Bipolar Disorder : Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
+Children and Adolescents (less than 18 years of age) :Safety and effectiveness of lamotrigine in patients below the age of 18 years with mood disorders have not been established [see Warnings and Precautions (5.4)] .
+Clinical Worsening and Suicide Risk Associated With Bipolar Disorder :Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
 Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment or at the time of dose changes.
 In addition, patients with a history of suicidal behavior or thoughts, those patients exhibiting a significant degree of suicidal ideation prior to commencement of treatment, and young adults are at an increased risk of suicidal thoughts or suicide attempts, and should receive careful monitoring during treatment [see Warnings and Precautions (5.4)] .
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients who experience clinical worsening (including development of new symptoms) and/or the emergence of suicidal ideation/behavior especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients who experience clinical worsening (including development of new symptoms) and/or the emergence of suicidal ideation/behavior especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Prescriptions for lamotrigine should be written for the smallest quantity of tablets consistent with good patient management in order to reduce the risk of overdose.
 Overdoses have been reported for lamotrigine, some of which have been fatal [see Overdosage (10.1)] .
 
@@ -93,7 +93,7 @@ Reexposure resulted in a rapid return of symptoms (from within 30 minutes to 1 d
 Some of the patients treated with lamotrigine who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
 Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild to moderate pleocytosis, normal glucose levels, and mild to moderate increase in protein.
 CSF white blood cell count differentials showed a predominance of neutrophils in a majority of the cases, although a predominance of lymphocytes was reported in approximately one third of the cases.
-Some patients also had new onset of signs and symptoms of involvement of other organs (predominantly hepatic and renal involvement), which may suggest that in these cases the aseptic meningitis observed was part of a hypersensitivity reaction [see Warnings and Precautions (5.2)] .
+Some patients also had new onset of signs and symptoms of involvement of other organs (predominantly hepatic and renal involvement), which may suggest that in these cases the aseptic meningitis observed was part of a hypersensitivity reaction [see Warnings and Precautions (5.2)].
 
 ## 5.7 Potential Medication Errors
 

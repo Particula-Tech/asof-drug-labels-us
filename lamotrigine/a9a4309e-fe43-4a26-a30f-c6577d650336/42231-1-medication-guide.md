@@ -6,36 +6,41 @@ This information does not take the place of talking with your healthcare provide
 If you have questions about lamotrigine tablets, ask your healthcare provider or pharmacist.
 What is the most important information I should know about lamotrigine tablets?
 1.
-Lamotrigine tablets may cause a serious skin rash that may cause you to be hospitalized or to stop lamotrigine tablets; it may rarely cause death.
-There is no way to tell if a mild rash will develop into a more serious reaction.
-These serious skin reactions are more likely to happen when you begin taking lamotrigine tablets, within the first 2 to 8 weeks of treatment.
-But it can happen in people who have taken lamotrigine tablets for any period of time.
-Children between 2 to 16 years of age have a higher chance of getting this serious skin reaction while taking lamotrigine tablets.
-The risk of getting a rash is higher if you:
+Lamotrigine tablets may cause a serious skin rash that may cause you to be hospitalized or even cause death.
+There is no way to tell if a mild rash will become more serious.
+A serious skin rash can happen at any time during your treatment with lamotrigine tablets, but is more likely to happen within the first 2 to 8 weeks of treatment .
+Children between 2 to 16 years of age have a higher chance of getting this serious skin rash while taking lamotrigine tablets.
+The risk of getting a serious skin rash is higher if you:
 
-- take lamotrigine tablets while taking valproate (DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium))
+- take lamotrigine tablets while taking valproate [DEPAKENE® (valproic acid) or DEPAKOTE® (divalproex sodium)]
 - take a higher starting dose of lamotrigine tablets than your healthcare provider prescribed
 - increase your dose of lamotrigine tablets faster than prescribed.
 
-Lamotrigine tablets can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
-You may or may not have a rash with these types of reactions.
 Call your healthcare provider right away if you have any of the following:
 
 - a skin rash
+- blistering or peeling of your skin
 - hives
-- fever
-- swollen lymph glands
-- painful sores in the mouth or around your eyes
-- swelling of your lips or tongue
-- yellowing of your skin or eyes
-- unusual bruising or bleeding
-- severe fatigue or weakness
-- severe muscle pain
-- frequent infections
+- painful sores in your mouth or around your eyes
 
-These symptoms may be the first signs of a serious reaction.
+These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking lamotrigine tablets.
 2.
+O ther serious reactions, including serious blood problems or liver problems.
+Lamotrigine tablets can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+You may or may not have a rash with these types of reactions.
+Call your healthcare provider right away if you have any of these symptoms:
+
+- fever
+- frequent infections
+- severe muscle pain
+- swelling of your face, eyes, lips, or tongue
+- swollen lymph glands
+- unusual bruising or bleeding
+- weakness, fatigue
+- yellowing of your skin or the white part of your eyes
+
+3.
 Like other antiepileptic drugs, lamotrigine tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -64,28 +69,28 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-3.
+4.
 Lamotrigine tablets may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 Call your healthcare provider right away if you have any of the following symptoms:
 
-- Headache
-- Fever
-- Nausea
-- Vomiting
-- Stiff neck
-- Rash
-- Unusual sensitivity to light
-- Muscle pains
-- Chills
-- Confusion
-- Drowsiness
+- headache
+- fever
+- nausea
+- vomiting
+- stiff neck
+- rash
+- unusual sensitivity to light
+- muscle pains
+- chills
+- confusion
+- drowsiness
 
 Meningitis has many causes other than lamotrigine tablets, which your doctor would check for if you developed meningitis while taking lamotrigine tablets.
 Lamotrigine tablets can have other serious side effects.
 For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
-Be sure to read the section below entitled “What are the possible side effects of lamotrigine tablets?”
-4.
+Be sure to read the section below entitled "What are the possible side effects of lamotrigine tablets?"
+5.
 Patients prescribed lamotrigine tablets have sometimes been given the wrong medicine because many medicines have names similar to lamotrigine tablets, so always check that you receive lamotrigine tablets.
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for lamotrigine tablets:
@@ -112,23 +117,25 @@ What should I tell my healthcare provider before taking lamotrigine tablets?
 Before taking lamotrigine tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
-- have or have had depression, mood problems or suicidal thoughts or behavior.
+- have or have had depression, mood problems, or suicidal thoughts or behavior.
+- have had aseptic meningitis after taking lamotrigine tablets.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
-  Stopping or starting these medicines may cause side effects (such as dizziness, lack of coordination, or double vision) or lessen how well lamotrigine tablets work.
+  Stopping these medicines may cause side effects (such as dizziness, lack of coordination, or double vision).Starting these medicines may lessen how well lamotrigine tablets work.
 - are pregnant or plan to become pregnant.
   It is not known if lamotrigine tablets will harm your unborn baby.
   If you become pregnant while taking lamotrigine tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 - are breastfeeding.
-  Lamotrigine tablets can pass into your breast milk.
+  Lamotrigine can pass into your breast milk.
   You and your healthcare provider should decide if you should take lamotrigine tablets or breastfeed.
   Breastfeeding while taking lamotrigine tablets is not recommended.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Using lamotrigine tablets with certain other medicines can affect each other, causing side effects.
+If you use lamotrigine tablets with certain other medicines, they can affect each other, causing side effects.
+
 How should I take lamotrigine tablets?
 
 - Take lamotrigine tablets exactly as prescribed.
@@ -145,7 +152,7 @@ How should I take lamotrigine tablets?
 - You may not feel the full effect of lamotrigine tablets for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow lamotrigine tablets whole.
-- If you have trouble swallowing lamotrigine tablets, there may be another form of lamotrigine tablets you can take.
+- If you have trouble swallowing lamotrigine tablets, tell your healthcare provider beacuse there may be another form of lamotrigine you can take.
 - If you receive lamotrigine tablets in a blisterpack, examine the blister pack before use.
   Do not use if blisters are torn, broken, or missing.
 
@@ -155,7 +162,7 @@ What should I avoid while taking lamotrigine tablets?
 
 What are possible side effects of lamotrigine tablets?
 
-- See “What is the most important information I should know about lamotrigine tablets?”
+- See "What is the most important information I should know about lamotrigine tablets?"
 
 Common side effects of lamotrigine tablets include:
 
@@ -190,9 +197,12 @@ They may harm them.
 This Medication Guide summarizes the most important information about lamotrigine tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about lamotrigine tablets that is written for healthcare professionals.
-For more information call 1-866-850-2876.
+
+For more information, call 1-866-850-2876.
+
 What are the ingredients in lamotrigine tablets?
 Active ingredient: lamotrigine.
-Inactive ingredients: microcrystalline cellulose, lactose monohydrate, povidone, sodium starch glycolate, magnesium stearate; FD&C yellow No 6 (100 mg tablet only); ferric oxide yellow (150 mg tablet only); and FD&C blue No 2 lake (200 mg tablet only). *DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
+Inactive ingredients: microcrystalline cellulose, lactose monohydrate, povidone, sodium starch glycolate, magnesium stearate; FD&C yellow No 6 (100 mg tablet only); ferric oxide yellow (150 mg tablet only); and FD&C blue No 2 lake (200 mg tablet only).
+DEPAKENE ® and DEPAKOTE ® are registered trademarks of Abbott Laboratories.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 03/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2012

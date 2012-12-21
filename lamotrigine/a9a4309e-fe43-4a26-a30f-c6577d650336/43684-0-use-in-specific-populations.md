@@ -20,12 +20,9 @@ A no-observed-effect level (NOEL) could not be determined for this study.
 Although lamotrigine was not found to be teratogenic in the above studies, lamotrigine decreases fetal folate concentrations in rats, an effect known to be associated with teratogenesis in animals and humans.
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Non-Teratogenic Effects : As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
+Non-Teratogenic Effects :As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
 There have been reports of decreased lamotrigine concentrations during pregnancy and restoration of pre-partum concentrations after delivery.
 Dosage adjustments may be necessary to maintain clinical response.
-Pregnancy Exposure Registry : To provide information regarding the effects of in utero exposure to lamotrigine, physicians are advised to recommend that pregnant patients taking lamotrigine enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll-free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ### Pregnancy Exposure Registry
 

@@ -49,25 +49,27 @@ In clinical trials in patients with Bipolar Disorder, 2 patients experienced sei
 However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients.
 Discontinuation of lamotrigine tablets should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)] .
 
-## 2.2 Epilepsy – Adjunctive Therapy
+## 2.2 Epilepsy - Adjunctive Therapy
 
 This section provides specific dosing recommendations for patients greater than 12 years of age and patients 2 to 12 years of age.
 Within each of these age-groups, specific dosing recommendations are provided depending upon concomitant AED or other concomitant medications (Table 1 for patients greater than 12 years of age and Table 2 for patients 2 to 12 years of age).
 A weight-based dosing guide for patients 2 to 12 years of age on concomitant valproate is provided in Table 3.
+
 Patients Over 12 Years of Age: Recommended dosing guidelines are summarized in Table 1.
 
 Table 1.
 Escalation Regimen for Lamotrigine Tablets in Patients Over 12 Years of Age With Epilepsy
 
-|  | For Patients TAKING Valproate* | For Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone†, or Valproate* | For Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone†and NOT TAKING Valproate* |
+|  | For Patients TAKING Valproate* | For Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone†, or Valproate* | For Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone† and NOT TAKING Valproate* |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg every day | 50 mg/day |
 | Weeks 3 and 4 | 25 mg every day | 50 mg/day | 100 mg/day (in 2 divided doses) |
-| Week 5 onwards to maintenance | Increase by 25 to 50 mg/day every 1 to 2 weeks | Increase by 50 mg/day every 1 to 2 weeks | Increase by 100 mg/day every 1 to 2 weeks |
+| Week 5 onwards to maintenance | Increase by 25 to 50 mg/day every 1 to 2 weeks | Increase by 50 mg/day every 1 to 2 weeks | Increase by 100 mg/day every 1 to 2 weeks. |
 | Usual Maintenance Dose | 100 to 200 mg/day with valproate alone 100 to 400 mg/day with valproate and other drugs that induce glucuronidation (in 1 or 2 divided doses) | 225 to 375 mg/day (in 2 divided doses) | 300 to 500 mg/day (in 2 divided doses) |
 | * Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. † These drugs induce lamotrigine glucuronidation and increase clearance [see Drug Interactions (7), Clinical Pharmacology (12.3)]. Other drugs which have similar effects include estrogen-containing oral contraceptives [see Drug Interactions (7), Clinical Pharmacology (12.3)]. Dosing recommendations for oral contraceptives can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin, or other drugs that induce lamotrigine glucuronidation and increase clearance, should follow the same dosing titration/maintenance regimen as that used with anticonvulsants that have this effect. |  |  |  |
 
 Patients 2 to 12 Years of Age: Recommended dosing guidelines are summarized in Table 2.
+
 Smaller starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestion that the risk of rash may be decreased by smaller starting doses and slower dose escalations.
 Therefore, maintenance doses will take longer to reach in clinical practice than in clinical trials.
 It may take several weeks to months to achieve an individualized maintenance dose.
@@ -81,7 +83,7 @@ Escalation Regimen for Lamotrigine Tablets in Patients 2 to 12 Years of Age With
 | Weeks 1 and 2 | 0.15 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight based dosing guide) | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight based dosing guide) | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Week 5 onwards to maintenance | The dose should be increased every 1 to 2 weeks as follows: calculate 0.3 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose | The dose should be increased every 1 to 2 weeks as follows: calculate 0.6 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose | The dose should be increased every 1 to 2 weeks as follows: calculate 1.2 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose |
-| Usual Maintenance Dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses). 1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
+| Usual Maintenance Dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses) 1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
 | Maintenance dose in patients less than 30 kg | May need to be increased by as much as 50%, based on clinical response | May need to be increased by as much as 50%, based on clinical response | May need to be increased by as much as 50%, based on clinical response |
 | Note: Only whole tablets should be used for dosing. * Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. † These drugs induce lamotrigine glucuronidation and increase clearance [see Drug Interactions (7), Clinical Pharmacology (12.3)]. Other drugs which have similar effects include estrogen-containing oral contraceptives [see Drug Interactions (7), Clinical Pharmacology (12.3)]. Dosing recommendations for oral contraceptives can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin, or other drugs that induce lamotrigine glucuronidation and increase clearance, should follow the same dosing titration/maintenance regimen as that used with anticonvulsants that have this effect. |  |  |  |
 
@@ -97,15 +99,15 @@ The Initial Weight-Based Dosing Guide for Patients 2 to 12 Years Taking Valproat
 | 34.1 kg | 40 kg | 5 mg every day | 10 mg every day |
 
 Usual Adjunctive Maintenance Dose for Epilepsy: The usual maintenance doses identified in Tables 1 and 2 are derived from dosing regimens employed in the placebo-controlled adjunctive studies in which the efficacy of lamotrigine tablets was established.
-In patients receiving multidrug regimens employing carbamazepine, phenytoin, phenobarbital, or primidone without valproate , maintenance doses of adjunctive lamotrigine tablets as high as 700 mg/day have been used.
-In patients receiving valproate alone , maintenance doses of adjunctive lamotrigine tablets as high as 200 mg/day have been used.
+In patients receiving multidrug regimens employing carbamazepine, phenytoin, phenobarbital, or primidone without valproate, maintenance doses of adjunctive lamotrigine tablets as high as 700 mg/day have been used.
+In patients receiving valproate alone, maintenance doses of adjunctive lamotrigine tablets as high as 200 mg/day have been used.
 The advantage of using doses above those recommended in Tables 1 through 4 has not been established in controlled trials.
 
-## 2.3 Epilepsy – Conversion From Adjunctive Therapy to Monotherapy
+## 2.3 Epilepsy - Conversion From Adjunctive Therapy to Monotherapy
 
 The goal of the transition regimen is to effect the conversion to monotherapy with lamotrigine tablets under conditions that ensure adequate seizure control while mitigating the risk of serious rash associated with the rapid titration of lamotrigine tablets.
 The recommended maintenance dose of lamotrigine tablets as monotherapy is 500 mg/day given in 2 divided doses.
-To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations of lamotrigine tablets should not be exceeded [see Boxed Warning] .
+To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations of lamotrigine tablets should not be exceeded [see Boxed Warning ].
 Conversion From Adjunctive Therapy With Carbamazepine, Phenytoin, Phenobarbital, or Primidone to Monotherapy With Lamotrigine Tablets: After achieving a dose of 500 mg/day of lamotrigine tablets according to the guidelines in Table 1, the concomitant AED should be withdrawn by 20% decrements each week over a 4-week period.
 The regimen for the withdrawal of the concomitant AED is based on experience gained in the controlled monotherapy clinical trial.
 Conversion From Adjunctive Therapy With Valproate to Monotherapy With Lamotrigine Tablets: The conversion regimen involves 4 steps outlined in Table 4.
@@ -147,7 +149,7 @@ Escalation Regimen for Lamotrigine Tablets for Patients With Bipolar Disorder
 | Week 5 | 50 mg daily | 100 mg daily | 200 mg daily, in divided doses |
 | Week 6 | 100 mg daily | 200 mg daily | 300 mg daily, in divided doses |
 | Week 7 | 100 mg daily | 200 mg daily | up to 400 mg daily, in divided doses |
-| ‡Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. † These drugs induce lamotrigine glucuronidation and increase clearance [see Drug Interactions (7), Clinical Pharmacology (12.3)]. Other drugs which have similar effects include estrogen-containing oral contraceptives [see Drug Interactions (7), Clinical Pharmacology (12.3)]. Dosing recommendations for oral contraceptives can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin, or other drugs that induce lamotrigine glucuronidation and increase clearance, should follow the same dosing titration/maintenance regimen as that used with anticonvulsants that have this effect. |  |  |  |
+| ‡ Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. † These drugs induce lamotrigine glucuronidation and increase clearance [see Drug Interactions (7), Clinical Pharmacology (12.3)]. Other drugs which have similar effects include estrogen-containing oral contraceptives [see Drug Interactions (7), Clinical Pharmacology (12.3)]. Dosing recommendations for oral contraceptives can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin, or other drugs that induce lamotrigine glucuronidation and increase clearance, should follow the same dosing titration/maintenance regimen as that used with anticonvulsants that have this effect. |  |  |  |
 
 Table 6.
 Dosage Adjustments to Lamotrigine Tablets for Patients With Bipolar Disorder Following Discontinuation of Psychotropic Medications

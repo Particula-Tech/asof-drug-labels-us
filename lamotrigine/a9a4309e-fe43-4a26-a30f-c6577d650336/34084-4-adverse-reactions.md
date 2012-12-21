@@ -203,9 +203,9 @@ Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive T
 | Urogenital Male and female patients |  |  |
 | Urinary tract infection | 3 | 0 |
 
-Bipolar Disorder: The most commonly observed (≥5%) treatment-emergent adverse reactions seen in association with the use of lamotrigine as monotherapy (100 to 400 mg/day) in adult patients (≥18 years of age) with Bipolar Disorder in the 2 double-blind, placebo-controlled trials of 18 months’ duration, and numerically more frequent than in placebo-treated patients are included in Table 12.
+Bipolar Disorder: The most commonly observed (≥5%) treatment-emergent adverse reactions seen in association with the use of lamotrigine as monotherapy (100 to 400 mg/day) in adult patients (≥18 years of age) with Bipolar Disorder in the 2 double-blind, placebo-controlled trials of 18 months' duration, and numerically more frequent than in placebo-treated patients are included in Table 12.
 Adverse reactions that occurred in at least 5% of patients and were numerically more common during the dose-escalation phase of lamotrigine in these trials (when patients may have been receiving concomitant medications) compared with the monotherapy phase were: headache (25%), rash (11%), dizziness (10%), diarrhea (8%), dream abnormality (6%), and pruritus (6%).
-During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received lamotrigine (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
+During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months' duration, 13% of 227 patients who received lamotrigine (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
 The adverse reactions which most commonly led to discontinuation of lamotrigine were rash (3%) and mania/hypomania/mixed mood adverse reactions (2%).
 Approximately 16% of 2,401 patients who received lamotrigine (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse reaction; most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
 The overall adverse reaction profile for lamotrigine was similar between females and males, between elderly and nonelderly patients, and among racial groups.
@@ -293,5 +293,5 @@ Hepatobiliary Tract and Pancreas: Pancreatitis.
 Immunologic: Lupus-like reaction, vasculitis.
 Lower Respiratory: Apnea.
 Musculoskeletal: Rhabdomyolysis has been observed in patients experiencing hypersensitivity reactions.
-Neurology: Exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, tics.
+Neurology: Exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson's disease, tics.
 Non-site Specific: Progressive immunosuppression.
