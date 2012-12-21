@@ -1,21 +1,23 @@
 # ADVERSE REACTIONS
 
 Associated with Discontinuation of Treatment Approximately 16% of the 453 patients who received mirtazapine tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
-The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) included:
+The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) are included in Table 2.
 
-| Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US Mirtazapine Trials |  |  |
+Table 2: Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US Mirtazapine Trials
+
+| Mirtazapine (n=453) | Placebo (n=361) |  |
 | --- | --- | --- |
 | Adverse Event | Percentage of Patients Discontinuing with Adverse Event |  |
-| Mirtazapine (n=453) | Placebo (n=361) |  |
 | Somnolence | 10.4% | 2.2% |
 | Nausea | 1.5% | 0% |
 
-Commonly Observed Adverse Events in US Controlled Clinical Trials The most commonly observed adverse events associated with the use of mirtazapine tablets (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (mirtazapine incidence at least twice that for placebo) were:
+Commonly Observed Adverse Events in US Controlled Clinical Trials The most commonly observed adverse events associated with the use of mirtazapine tablets (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (mirtazapine incidence at least twice that for placebo) are listed in Table 3.
 
-| Common Treatment –Emergent Adverse Events Associated with the Use of Mirtazapine in 6-Week US Trials |  |  |
+Table 3: Common Treatment–Emergent Adverse Events Associated with the Use of Mirtazapine in 6-Week US Trials
+
+| Mirtazapine (n=453) | Placebo (n=361) |  |
 | --- | --- | --- |
 | Adverse Event | Percentage of Patients Reporting Adverse Event |  |
-| Mirtazapine (n=453) | Placebo (n=361) |  |
 | Somnolence | 54% | 18% |
 | Increased Appetite | 17% | 2% |
 | Weight Gain | 12% | 2% |
@@ -28,7 +30,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
 
-INCIDENCE OF ADVERSE CLINICAL EXPERIENCES1 (≥1%) IN SHORT-TERM US CONTROLLED STUDIES
+Table 4: Incidence of Adverse Clinical Experiences1 (≥1%) In Short-Term US Controlled Studies
 
 | Body System Adverse Clinical Experience | Mirtazapine (n=453) | Placebo (n=361) |  |
 | --- | --- | --- | --- |
@@ -69,10 +71,10 @@ Untoward events associated with this exposure were recorded by clinical investig
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
 In the tabulations that follow, reported adverse events were classified using a standard COSTART-based dictionary terminology.
 The frequencies presented, therefore, represent the proportion of the 2796 patients exposed to multiple doses of mirtazapine who experienced an event of the type cited on at least 1 occasion while receiving mirtazapine.
-All reported events are included except those already listed in the previous table, those adverse experiences subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, and those events for which a drug cause was very remote.
+All reported events are included except those already listed in Table 4, those adverse experiences subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, and those events for which a drug cause was very remote.
 It is important to emphasize that, although the events reported occurred during treatment with mirtazapine, they were not necessarily caused by it.
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on 1 or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in fewer than 1/1,000 patients.
-Only those events not already listed in the previous table appear in this listing.
+Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on 1 or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
+Only those events not already listed in Table 4 appear in this listing.
 Events of major clinical importance are also described in the WARNINGS and PRECAUTIONS sections.
 Body as a Whole: frequent : malaise, abdominal pain, abdominal syndrome acute; infrequent: chills, fever, face edema, ulcer, photosensitivity reaction, neck rigidity, neck pain, abdomen enlarged; rare: cellulitis, chest pain substernal.
 Cardiovascular System : frequent: hypertension, vasodilatation; infrequent: angina pectoris, myocardial infarction, bradycardia, ventricular extrasystoles, syncope, migraine, hypotension; rare: atrial arrhythmia, bigeminy, vascular headache, pulmonary embolus, cerebral ischemia, cardiomegaly, phlebitis, left heart failure.
@@ -86,7 +88,7 @@ Respiratory System: frequent: cough increased, sinusitis; infrequent: epistaxis,
 Skin and Appendages: frequent: pruritus, rash; infrequent: acne, exfoliative dermatitis, dry skin, herpes simplex, alopecia; rare: urticaria, herpes zoster, skin hypertrophy, seborrhea, skin ulcer.
 Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, glaucoma, hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
 Urogenital System: frequent: urinary tract infection; infrequent: kidney calculus, cystitis, dysuria, urinary incontinence, urinary retention, vaginitis, hematuria, breast pain, amenorrhea, dysmenorrhea, leukorrhea, impotence; rare: polyuria, urethritis, metrorrhagia, menorrhagia, abnormal ejaculation, breast engorgement, breast enlargement, urinary urgency.
-Other Adverse Events Observed During Postmarketing Evaluation of Mirtazapine Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include 4 cases of the ventricular arrhythmia torsades de pointes.
+Other Adverse Events Observed During the Postmarketing Evaluation of Mirtazapine Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include 4 cases of the ventricular arrhythmia torsades de pointes.
 In 3 of the 4 cases, however, concomitant drugs were implicated.
 All patients recovered.
 Cases of severe skin reactions, including Stevens-Johnson Syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
