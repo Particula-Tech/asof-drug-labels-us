@@ -1,6 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Omeprazole Delayed-Release Capsule should be taken before eating.
+"See FDA-Approved Medication Guide"
+
+Omeprazole Delayed-Release Capsules should be taken before eating.
 Patients should be informed that the Omeprazole Delayed-Release Capsule should be swallowed whole.
 
 For patients who have difficulty swallowing capsules, the contents of an Omeprazole Delayed-Release Capsule can be added to applesauce.
@@ -11,15 +13,7 @@ The applesauce used should not be hot and should be soft enough to be swallowed 
 The microtablets should not be chewed or crushed.
 The microtablets/applesauce mixture should not be stored for future use.
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
+Advise patients to immediately report and seek care for diarrhea that does not improve.
+This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.3)].
 
-Distributed by:
-
-Kremers Urban, Pharmaceuticals Inc.
-
-Princeton, NJ 08540, USA
-
-CIA74312C
-
-Rev.
-12E 09/2012
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].

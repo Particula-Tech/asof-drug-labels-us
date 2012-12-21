@@ -8,6 +8,8 @@ Omeprazole Delayed-Release Capsules, USP
 
 Rx Only
 
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
 Principal Display Panel - 20 mg Bottle Label
 
 100 Capsules NDC 62175-118-37
@@ -18,6 +20,8 @@ Omeprazole Delayed-Release Capsules, USP
 
 Rx Only
 
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
 Principal Display Panel - 40 mg Bottle Label
 
 100 Capsules NDC 62175-136-37
@@ -27,3 +31,5 @@ Omeprazole Delayed-Release Capsules, USP
 40 mg
 
 Rx Only
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.

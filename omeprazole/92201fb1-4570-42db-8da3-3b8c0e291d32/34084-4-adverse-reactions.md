@@ -9,7 +9,7 @@ Indications clinically studied in US trials included duodenal ulcer, resistant u
 The international clinical trials were double blind and open-label in design.
 The most common adverse reactions reported (i.e., with an incidence rate ≥ 2%) from Omeprazole Delayed-Release Capsules-treated patients enrolled in these studies included headache (6.9%), abdominal pain (5.2%), nausea (4.0%), diarrhea (3.7%), vomiting (3.2%), and flatulence (2.7%).
 
-Additional adverse reactions that were reported with an incidence ≥1% included acid regurgitation (1.9%), upper respiratory infection (1.9%), constipation (1.5%), dizziness (1.5%), rash (1.5%), asthenia (1.3%), back pain (1.1%), and cough (1.1%).
+Additional adverse reactions that were reported with an incidence ≥ 1% included acid regurgitation (1.9%), upper respiratory infection (1.9%), constipation (1.5%), dizziness (1.5%), rash (1.5%), asthenia (1.3%), back pain (1.1%), and cough (1.1%).
 
 The clinical trial safety profile in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
 
@@ -36,7 +36,7 @@ None of these occurred at a higher frequency than that reported by patients taki
 ## 6.3 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of Omeprazole Delayed-Release Capsules.
-Because these reactions are voluntarily. reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
+Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
 
 Body As a Whole: Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise;
 
@@ -44,7 +44,7 @@ Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, el
 
 Endocrine: Gynecomastia
 
-Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth.
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with Omeprazole Delayed-Release Capsules.
@@ -52,7 +52,9 @@ This finding is believed to be a manifestation of the underlying condition, whic
 
 Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
 
-Metabolic/Nutritional: Hypoglycemia, hypomagnesemia, hyponatremia, weight gain
+Infections and Infestations: Clostridium difficile associated diarrhea
+
+Metabolism and Nutritional disorders: Hypoglycemia, hypomagnesemia, hyponatremia, weight gain
 
 Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
 

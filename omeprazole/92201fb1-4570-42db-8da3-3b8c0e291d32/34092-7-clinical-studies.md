@@ -2,16 +2,15 @@
 
 ## 14.1 Duodenal Ulcer Disease
 
-Active Duodenal Ulcer—In a multicenter, double-blind, placebo-controlled study of 147 patients with endoscopically documented duodenal ulcer, the percentage of patients healed (per protocol) at 2 and 4 weeks was significantly higher with omeprazole 20 mg once daily than with placebo (p ≤ 0.01).
+Active Duodenal Ulcer— In a multicenter, double-blind, placebo-controlled study of 147 patients with endoscopically documented duodenal ulcer, the percentage of patients healed (per protocol) at 2 and 4 weeks was significantly higher with Omeprazole Delayed-Release Capsules 20 mg once daily than with placebo (p ≤ 0.01).
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
 
-|  | Omeprazole Delayed-Release Capsules 20 mg a.m. | Placebo a.m. |
-| --- | --- | --- |
 |  | (n=99) | (n=48) |
-| Week 2 | *41 | 13 |
-| Week 4 | *75 | 27 |
-| *(p ≤ 0.01) |  |  |
+| --- | --- | --- |
+|  | Omeprazole Delayed-Release Capsules 20 mg a.m. | Placebo a.m. |
+| Week 2 | 41(p ≤ 0.01) | 13 |
+| Week 4 | 75 | 27 |
 
 Complete daytime and nighttime pain relief occurred significantly faster (p ≤ 0.01) in patients treated with Omeprazole Delayed-Release Capsules 20 mg than in patients treated with placebo.
 At the end of the study, significantly more patients who had received Omeprazole Delayed-Release Capsules had complete relief of daytime pain (p ≤ 0.05) and nighttime pain (p ≤ 0.01).
@@ -21,13 +20,11 @@ In a multicenter, double-blind study of 293 patients with endoscopically documen
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
 
-|  | Omeprazole Delayed-Release Capsules | Ranitidine |
-| --- | --- | --- |
-|  | 20 mg a.m. | 150 mg twice daily |
 |  | (n = 145) | (n = 148) |
+| --- | --- | --- |
+|  | Omeprazole Delayed-Release Capsules 20 mg a.m. | Ranitidine 150 mg twice daily |
 | Week 2 | 42 | 34 |
-| Week 4 | *82 | 63 |
-| *(p < 0.01) |  |  |
+| Week 4 | 82(p < 0.01) | 63 |
 
 Healing occurred significantly faster in patients treated with Omeprazole Delayed-Release Capsules than in those treated with ranitidine 150 mg b.i.d.
 (p < 0.01).
@@ -37,19 +34,18 @@ At 2 and 4 weeks both doses of Omeprazole Delayed-Release Capsules were statisti
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
 
-|  | Omeprazole Delayed-Release Capsules |  | Ranitidine |
-| --- | --- | --- | --- |
 |  | 20 mg (n=34) | 40 mg (n=36) | 150 mg twice daily (n=35) |
-| Week 2 | *83 | *83 | 53 |
-| Week 4 | *97 | *100 | 82 |
+| --- | --- | --- | --- |
+|  | Omeprazole Delayed-Release Capsules |  | Ranitidine |
+| Week 2 | 83(p ≤ 0.01) | 83 | 53 |
+| Week 4 | 97 | 100 | 82 |
 | Week 8 | 100 | 100 | 94 |
-| *(p ≤ 0.01) |  |  |  |
 
 H. pylori Eradication in Patients with Duodenal Ulcer Disease
 
-Triple Therapy (Omeprazole Delayed-Release Capsules/clarithromycin/amoxicillin)— Three U.S., randomized, double-blind clinical studies in patients with H. pylori infection and duodenal ulcer disease (n=558) compared Omeprazole Delayed-Release Capsules plus clarithromycin plus amoxicillin with clarithromycin plus amoxicillin.
+Triple Therapy (Omeprazole Delayed-Release Capsules/clarithromycin/amoxicillin) — Three U.S., randomized, double-blind clinical studies in patients with H. pylori infection and duodenal ulcer disease (n=558) compared Omeprazole Delayed-Release Capsules plus clarithromycin plus amoxicillin with clarithromycin plus amoxicillin.
 Two studies (1 and 2) were conducted in patients with an active duodenal ulcer, and the other study (3) was conducted in patients with a history of a duodenal ulcer in the past 5 years but without an ulcer present at the time of enrollment.
-The dose regimen in the studies was Omeprazole Delayed-Release Capsules 20 mg twice daily plus clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days; or clarithromycin 500 mg twice daily, plus amoxicillin 1 g twice daily for 10 days.
+The dose regimen in the studies was Omeprazole Delayed-Release Capsules 20 mg twice daily plus clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days; or clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days.
 In studies 1 and 2, patients who took the omeprazole regimen also received an additional 18 days of Omeprazole Delayed-Release Capsules 20 mg once daily.
 Endpoints studied were eradication of H. pylori and duodenal ulcer healing (studies 1 and 2 only).
 H. pylori status was determined by CLOtest®, histology and culture in all three studies.
@@ -57,20 +53,18 @@ For a given patient, H. pylori was considered eradicated if at least two of thes
 
 The combination of omeprazole plus clarithromycin plus amoxicillin was effective in eradicating H. pylori.
 
-Table 6
+Table 5 Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval]
 
-| Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval] |  |  |  |  |
+|  | Per-Protocol Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. Pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-Treat Patients were included in the analysis if they had documented H. Pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
 | --- | --- | --- | --- | --- |
 |  | Omeprazole Delayed-Release Capsules +clarithromycin +amoxicillin |  | Clarithromycin +amoxicillin |  |
-|  | Per-Protocol * | Intent-to-Treat † | Per-Protocol * | Intent-to-Treat † |
-| Study 1 | ‡77 [64, 86](n = 64) | ‡69 [57, 79](n = 80) | 43 [31, 56](n = 67) | 37 [27, 48] (n = 84) |
-| Study 2 | ‡78 [67, 88] (n = 65) | ‡73 [61, 82] (n = 77) | 41 [29, 54] (n = 68) | 36 [26, 47] (n = 83) |
-| Study 3 | ‡90 [80, 96] (n = 69) | ‡83 [74, 91] (n = 84) | 33 [24, 44] (n = 93) | 32 [23, 42] (n = 99) |
-| * Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. Pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer.† Patients were included in the analysis if they had documented H. Pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy.‡ (p < 0.05) versus clarithromycin plus amoxicillin. |  |  |  |  |
+| Study 1 | 77(p < 0.05) versus clarithromycin plus amoxicillin. [64, 86] (n = 64) | 69 [57, 79] (n = 80) | 43 [31, 56] (n = 67) | 37 [27, 48] (n = 84) |
+| Study 2 | 78 [67, 88] (n = 65) | 73 [61, 82] (n = 77) | 41 [29, 54] (n = 68) | 36 [26, 47] (n = 83) |
+| Study 3 | 90 [80, 96] (n = 69) | 83 [74, 91] (n = 84) | 33 [24, 44] (n = 93) | 32 [23, 42] (n = 99) |
 
 Dual Therapy (Omeprazole Delayed-Release Capsules/clarithromycin)
 
-Four randomized, double-blind, multi-center studies (4, 5, 6, and 7) evaluated Omeprazole Delayed-Release Capsules 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days, followed by Omeprazole Delayed-Release Capsules 20 mg once daily, (studies 4, 5, and 7) or by Omeprazole Delayed-Release Capsules 40 mg once daily (Study 6) for an additional 14 days in patients with active duodenal ulcer associated with H. pylori.
+Four randomized, double-blind, multi-center studies (4, 5, 6, and 7) evaluated Omeprazole Delayed-Release Capsules 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days, followed by Omeprazole Delayed-Release Capsules 20 mg once daily, (Studies 4, 5, and 7) or by Omeprazole Delayed-Release Capsules 40 mg once daily (Study 6) for an additional 14 days in patients with active duodenal ulcer associated with H. pylori.
 Studies 4 and 5 were conducted in the U.S. and Canada and enrolled 242 and 256 patients, respectively.
 H. pylori infection and duodenal ulcer were confirmed in 219 patients in Study 4 and 228 patients in Study 5.
 These studies compared the combination regimen to Omeprazole Delayed-Release Capsules and clarithromycin monotherapies.
@@ -83,37 +77,33 @@ In the per-protocol analysis, the following patients were excluded: dropouts, pa
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori.
 
-Table 7
+Table 6 H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval]
 
-| H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval] |  |  |  |
-| --- | --- | --- | --- |
 |  | Omeprazole Delayed-Release Capsules +Clarithromycin | Omeprazole Delayed-Release Capsules | Clarithromycin |
+| --- | --- | --- | --- |
 | U.S. Studies |  |  |  |
-| Study 4 | 74 [60, 85]*†(n=53) | 0 [0, 7] (n=54) | 31 [18, 47] (n=42) |
-| Study 5 | 64 [51, 76] *†(n=61) | 0 [0, 6] (n=59) | 39 [24, 55] (n=44) |
+| Study 4 | 74 [60, 85]Statistically significantly higher than clarithromycin monotherapy (p < 0.05)Statistically significantly higher than omeprazole monotherapy (p < 0.05) (n=53) | 0 [0, 7] (n=54) | 31 [18, 47] (n=42) |
+| Study 5 | 64 [51, 76] (n=61) | 0 [0, 6] (n=59) | 39 [24, 55] (n=44) |
 | Non U.S. Studies |  |  |  |
-| Study 6 | 83 [71, 92] † (n=60) | 1[0, 7] (n=74) | N/A |
-| Study 7 | 74 [64, 83] †(n=86) | 1[0, 6] (n=90) | N/A |
-| * Statistically significantly higher than clarithromycin monotherapy (p < 0.05) † Statistically significantly higher than omeprazole monotherapy (p < 0.05) |  |  |  |
+| Study 6 | 83 [71, 92] (n=60) | 1[0, 7] (n=74) | N/A |
+| Study 7 | 74 [64, 83] (n=86) | 1[0, 6] (n=90) | N/A |
 
 Ulcer healing was not significantly different when clarithromycin was added to omeprazole therapy compared with omeprazole therapy alone.
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori and reduced duodenal ulcer recurrence.
 
-Table 8
+Table 7 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence
 
-| Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status% of Patients with Ulcer Recurrence |  |  |
+|  | H. pylori eradicated H. pylori eradication status assessed at same time point as ulcer recurrence | H. pylori not eradicated |
 | --- | --- | --- |
-|  | H. pylori eradicated * | H. pylori not eradicated * |
-| U.S. Studies† 6 months post-treatment |  |  |
-| Study 4 | ‡35 (n=49) | 60 (n=88) |
-| Study 5 | ‡8 (n=53) | 60 (n=106) |
-| Non U.S. Studies§ 6 months post-treatment |  |  |
-| Study 6 | ‡5 (n=43) | 46 (n=78) |
-| Study 7 | ‡6 (n=53) | 43 (n=107) |
+| U.S. StudiesCombined results for Omeprazole Delayed-Release Capsules + clarithromycin, Omeprazole Delayed-Release Capsules, and clarithromycin treatment arms 6 months post-treatment |  |  |
+| Study 4 | 35(p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated (n=49) | 60 (n=88) |
+| Study 5 | 8 (n=53) | 60 (n=106) |
+| Non U.S. StudiesCombined results for Omeprazole Delayed-Release Capsules + clarithromycin and Omeprazole Delayed-Release Capsules treatment arms 6 months post-treatment |  |  |
+| Study 6 | 5 (n=43) | 46 (n=78) |
+| Study 7 | 6 (n=53) | 43 (n=107) |
 | 12 months post-treatment |  |  |
-| Study 6 | ‡5 (n=39) | 68 (n=71) |
-| * H. pylori eradication status assessed at same time point as ulcer recurrence† Combined results for Omeprazole Delayed-Release Capsules + clarithromycin, Omeprazole Delayed-Release Capsules, and clarithromycin treatment arms‡ (p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated§ Combined results for Omeprazole Delayed-Release Capsules + clarithromycin and Omeprazole Delayed-Release Capsules treatment arms |  |  |
+| Study 6 | 5 (n=39) | 68 (n=71) |
 
 ## 14.2 Gastric Ulcer
 
@@ -121,11 +111,10 @@ In a U.S. multicenter, double-blind, study of omeprazole 40 mg once daily, 20 mg
 
 Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 
-|  | Omeprazole Delayed-Release Capsules 20 mg once daily(n=202) | Omeprazole Delayed-Release Capsules 40 mg once daily(n=214) | Placebo(n=104) |
+|  | Omeprazole Delayed-Release Capsules 20 mg once daily (n=202) | Omeprazole Delayed-Release Capsules 40 mg once daily (n=214) | Placebo (n=104) |
 | --- | --- | --- | --- |
-| Week 4 | 47.5 * | 55.6 * | 30.8 |
-| Week 8 | 74.8 * | 82.7 *† | 48.1 |
-| * (p < 0.01) Omeprazole Delayed-Release Capsules 40 mg or 20 mg versus placebo † (p < 0.05) Omeprazole Delayed-Release Capsules 40 mg versus 20 mg |  |  |  |
+| Week 4 | 47.5 (p < 0.01) Omeprazole Delayed-Release Capsules 40 mg or 20 mg versus placebo | 55.6 | 30.8 |
+| Week 8 | 74.8 | 82.7,(p < 0.05) Omeprazole Delayed-Release Capsules 40 mg versus 20 mg | 48.1 |
 
 For the stratified groups of patients with ulcer size less than or equal to 1 cm, no difference in healing rates between 40 mg and 20 mg was detected at either 4 or 8 weeks.
 For patients with ulcer size greater than 1 cm, 40 mg was significantly more effective than 20 mg at 8 weeks.
@@ -134,37 +123,35 @@ In a foreign, multinational, double-blind study of 602 patients with endoscopica
 
 Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 
-|  | Omeprazole Delayed-Release Capsules 20 mg once daily(n=200) | Omeprazole Delayed-Release Capsules 40 mg once daily(n=187) | Ranitidine150 mg twice daily.(n=199) |
+|  | Omeprazole Delayed-Release Capsules 20 mg once daily(n=200) | Omeprazole Delayed-Release Capsules 40 mg once daily(n=187) | Ranitidine 150 mg twice daily (n=199) |
 | --- | --- | --- | --- |
-| Week 4 | 63.5 | 78.1 *,† | 56.3 |
-| Week 8 | 81.5 | 91.4 *,† | 78.4 |
-| * (p < 0.01) Omeprazole Delayed-Release Capsules 40 mg versus ranitidine† (p < 0.01) Omeprazole Delayed-Release Capsules 40 mg versus 20 mg |  |  |  |
+| Week 4 | 63.5 | 78.1 (p < 0.01) Omeprazole Delayed-Release Capsules 40 mg versus ranitidine,(p < 0.01) Omeprazole Delayed-Release Capsules 40 mg versus 20 mg | 56.3 |
+| Week 8 | 81.5 | 91.4, | 78.4 |
 
 ## 14.3 Gastroesophageal Reflux Disease (GERD)
 
 Symptomatic GERD
 
 A placebo-controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without erosive esophagitis.
-
 Results are shown below.
 
-% Successful Symptomatic Outcome*
+% Successful Symptomatic Outcome Defined as complete resolution of heartburn
 
 |  | Omeprazole Delayed-Release Capsules 20 mg a.m. | Omeprazole Delayed-Release Capsules 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
-| All patients | 46 †,‡(n=205) | 31‡(n=199) | 13 (n=105) |
-| Patients with confirmed GERD | 56 †,‡(n=115) | 36 ‡(n=109) | 14 (n=59) |
-| * Defined as complete resolution of heartburn† (p < 0.005) versus 10 mg‡ (p < 0.005) versus placebo |  |  |  |
+| All patients | 46 (p < 0.005) versus 10 mg,(p < 0.005) versus placebo (n=205) | 31 (n=199) | 13 (n=105) |
+| Patients with confirmed GERD | 56, (n=115) | 36 (n=109) | 14 (n=59) |
 
 ## 14.4 Erosive Esophagitis
 
 In a U.S. multicenter double-blind placebo controlled study of 20 mg or 40 mg of Omeprazole Delayed-Release Capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as follows:
 
-| Week | 20 mgOmeprazole Delayed-Release Capsules (n=83) | 40 mgOmeprazole Delayed-Release Capsules (n=87) | Placebo(n=43) |
+Treatment of Gastric Ulcer % Successful Symptomatic Outcome
+
+| Week | 20 mg Omeprazole Delayed-Release Capsules (n=83) | 40 mg Omeprazole Delayed-Release Capsules (n=87) | Placebo (n=43) |
 | --- | --- | --- | --- |
-| 4 | 39 * | 45 * | 7 |
-| 8 | 74 * | 75 * | 14 |
-| * (p < 0.01) Omeprazole Delayed-Release Capsules versus placebo. |  |  |  |
+| 4 | 39 (p < 0.01) Omeprazole Delayed-Release Capsules versus placebo. | 45 | 7 |
+| 8 | 74 | 75 | 14 |
 
 In this study, the 40 mg dose was not superior to the 20 mg dose of Omeprazole Delayed-Release Capsules in the percentage healing rate.
 Other controlled clinical trials have also shown that Omeprazole Delayed-Release Capsules are effective in severe GERD.
@@ -180,29 +167,27 @@ Results to determine maintenance of healing of erosive esophagitis are shown bel
 
 Life Table Analysis
 
-|  | Omeprazole Delayed-Release Capsules 20 mg once daily(n=138) | Omeprazole Delayed-Release Capsules 20 mg 3 days per week(n=137) | Placebo (n=131) |
+|  | Omeprazole Delayed-Release Capsules 20 mg once daily (n=138) | Omeprazole Delayed-Release Capsules 20 mg 3 days per week (n=137) | Placebo (n=131) |
 | --- | --- | --- | --- |
-| Percent in endoscopic remission at 6 months | *70 | 34 | 11 |
-| * (p < 0.01) Omeprazole Delayed-Release Capsules 20 mg once daily versus Omeprazole Delayed-Release Capsules 20 mg 3 consecutive days per week or placebo. |  |  |  |
+| Percent in endoscopic remission at 6 months | 70(p < 0.01) Omeprazole Delayed-Release Capsules 20 mg once daily versus Omeprazole Delayed-Release Capsules 20 mg 3 consecutive days per week or placebo. | 34 | 11 |
 
 In an international multicenter double-blind study, Omeprazole Delayed-Release Capsules 20 mg daily and 10 mg daily were compared with ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis.
 The table below provides the results of this study for maintenance of healing of erosive esophagitis.
 
 Life Table Analysis
 
-|  | Omeprazole Delayed-Release Capsules 20 mg once daily(n=131) | Omeprazole Delayed-Release Capsules 10 mg once daily(n=133) | Ranitidine150 mg twice daily(n=128) |
+|  | Omeprazole Delayed-Release Capsules 20 mg once daily (n=131) | Omeprazole Delayed-Release Capsules 10 mg once daily (n=133) | Ranitidine 150 mg twice daily (n=128) |
 | --- | --- | --- | --- |
-| Percent in endoscopic remission at 12 months | *77 | †58 | 46 |
-| (p = 0.01) Omeprazole Delayed-Release Capsules 20 mg once daily, versus Omeprazole Delayed-Release Capsules 10 mg- once daily or Ranitidine † (p= 0.03) Omeprazole Delayed-Release Capsules 10 mg once daily, versus Ranitidine |  |  |  |
+| Percent in endoscopic remission at 12 months | 77(p = 0.01) Omeprazole Delayed-Release Capsules 20 mg once daily, versus Omeprazole Delayed-Release Capsules 10 mg once daily or Ranitidine | 58(p= 0.03) Omeprazole Delayed-Release Capsules 10 mg once daily, versus Ranitidine | 46 |
 
-In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing, 20 mg daily of Omeprazole was effective, while 10 mg did not demonstrate effectiveness.
+In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing, 20 mg daily of Omeprazole Delayed-Release Capsules was effective, while 10 mg did not demonstrate effectiveness.
 
 ## 14.5 Pathological Hypersecretory Conditions
 
 In open studies of 136 patients with pathological hypersecretory conditions, such as Zollinger-Ellison (ZE) syndrome with or without multiple endocrine adenomas, Omeprazole Delayed-Release Capsules significantly inhibited gastric acid secretion and controlled associated symptoms of diarrhea, anorexia, and pain.
 Doses ranging from 20 mg every other day to 360 mg per day maintained basal acid secretion below 10 mEq/hr in patients without prior gastric surgery, and below 5 mEq/hr in patients with prior gastric surgery.
 
-Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients see Dosage and Administration (2)].
+Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [see Dosage and Administration (2)].
 Omeprazole Delayed-Release Capsules were well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
 In most ZE patients, serum gastrin levels were not modified by Omeprazole Delayed-Release Capsules.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.
@@ -213,7 +198,7 @@ These findings are believed to be a manifestation of the underlying condition, w
 
 Symptomatic GERD
 
-The effectiveness of Omeprazole Delayed-Release Capsules for the treatment of nonerosive GERD in pediatric patients 1 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled Phase III study [see Use in Specific Populations (8.4)].
+The effectiveness of Omeprazole Delayed-Release Capsules for the treatment of nonerosive GERD in pediatric patients 2 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled Phase III study [see Use in Specific Populations (8.4)].
 
 The study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of nonerosive GERD.
 Patients were administered a single dose of omeprazole (10 mg or 20 mg, based on body weight) for 4 weeks either as an intact capsule or as an open capsule in applesauce.

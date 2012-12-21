@@ -26,12 +26,12 @@ Dose reduction of saquinavir should be considered from the safety perspective fo
 
 There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
 
-## 7.2 Drugs for Which Gastric pH Can Affect Bioavailablity
+## 7.2 Drugs for Which Gastric pH Can Affect Bioavailability
 
-Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, and iron salts).
-The absorption of digoxin can increase during treatment with omeprazole.
+Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, ampicillin esters, iron salts and erlotinib can decrease, while the absorption of drugs such as digoxin can increase during treatment with omeprazole.
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
-Therefore patients may need to be monitored when digoxin is taken concomitantly with omeprazole.
+Therefore, patients may need to be monitored when digoxin is taken concomitantly with omeprazole.
 In the clinical trials, antacids were used concomitantly with the administration of Omeprazole Delayed-Release Capsules.
 
 ## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
@@ -41,13 +41,13 @@ There have been reports of increased INR and prothrombin time in patients receiv
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin may need to be monitored for increases in INR and prothrombin time.
 
-Although in normal subjects no interaction with theophylline or propranolol was found, there have been clinical reports of interaction with other drugs metabolized via the cytochrome P450 system (e.g., cyclosporine, dandulfiram, benzodiazepines).
+Although in normal subjects no interaction with theophylline or propranolol was found, there have been clinical reports of interaction with other drugs metabolized via the cytochrome P450 system (e.g., cyclosporine, disulfiram, benzodiazepines).
 Patients should be monitored to determine if it is necessary to adjust the dosage of these drugs when taken concomitantly with Omeprazole Delayed-Release Capsules.
 
 Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
 Dose adjustment of omeprazole is not normally required.
 However, in patients with Zollinger-Ellison syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
-When voriconazole (400 mg Q12h x 1 day, then 200 mg x 6 days) was given with omeprazole (40 mg once daily x 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
+When voriconazole (400 mg Q12h × 1 day, then 200 mg × 6 days) was given with omeprazole (40 mg once daily × 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
 
 Omeprazole acts as an inhibitor of CYP 2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in crossover study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
@@ -59,18 +59,13 @@ Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased
 In a cross-over study in 12 healthy male subjects, St. John's wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
 Avoid concomitant use of St. John's Wort or rifampin with omeprazole.
 
-clopidogrel
+Clopidogrel
 
 Omeprazole is an inhibitor of CYP2C19 enzyme.
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogel and a reduction in platelet inhibition [see Warnings and Precautions (5.4)].
-
-In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone with omeprazole (80 mg at the same time as clopidogrel) for 5 days.
-The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when clopidogrel and omeprazole were administered together.
-The active metabolite of clopidogrel selectively and irreversibly inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y12 receptor, thereby inhibiting platelet aggregation.
-The mean inhibition of platelet aggregation at 5 mcM ADP was diminished by 39% (Day 1) and 21% (Day 5) when clopidogrel and omeprazole were administered together.
-
-In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.4)].
+Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+Avoid concomitant administration of Omeprazole Delayed-Release Capsules with clopidogrel.
+When using Omeprazole Delayed-Release Capsules, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
 
 There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel.
 
@@ -78,11 +73,16 @@ There are no adequate combination studies of a lower dose of omeprazole or a hig
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
 
-## 7.5 Interactions with Investigations of Neurodocrine Tumors
+## 7.5 Interactions with Investigations of Neuroendocrine Tumors
 
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.7) and Clinical Pharmacology (12)].
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.8) and Clinical Pharmacology (12)].
 
-## 7.6 Methotrexate
+## 7.6 Combination Therapy with Clarithromycin
+
+Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interactions [see Warnings and Precautions in prescribing information for clarithromycin].
+Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [see Contraindications in prescribing information for clarithromycin].
+
+## 7.7 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)].
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.9)].

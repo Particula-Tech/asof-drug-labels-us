@@ -12,10 +12,10 @@ Omeprazole Delayed-Release Capsules in combination with clarithromycin are indic
 
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14.1) and Dosage and Administration (2)].
 
-Among patients who fail therapy, Omeprazole Delayed-Release Capsules with clarithromycin is more likely to be associated with the development of clarithromycin resistance as compared with triple therapy.
+Among patients who fail therapy, Omeprazole Delayed-Release Capsules with clarithromycin are more likely to be associated with the development of clarithromycin resistance as compared with triple therapy.
 In patients who fail therapy, susceptibility testing should be done.
 If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted.
-[see Microbiology section (12.4)], and the clarithromycin package insert, Microbiology section.
+[See Microbiology section (12.4)], and the clarithromycin package insert, Microbiology section.
 
 ## 1.2 Gastric Ulcer (adults)
 

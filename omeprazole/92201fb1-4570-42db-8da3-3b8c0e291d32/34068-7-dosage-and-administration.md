@@ -3,7 +3,7 @@
 Omeprazole Delayed-Release Capsules should be taken before eating.
 In the clinical trials, antacids were used concomitantly with Omeprazole Delayed-Release Capsules.
 
-Patients should be informed that the Omeprazole Delayed-Release Capsules should be swallowed whole.
+Patients should be informed that the Omeprazole Delayed-Release Capsule should be swallowed whole.
 
 For patients unable to swallow an intact capsule, alternative administration options are available [see Dosage and Administration (2.8)].
 
@@ -67,8 +67,3 @@ The microtablets should be mixed with the applesauce and then swallowed immediat
 The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
 The microtablets should not be chewed or crushed.
 The microtablets/applesauce mixture should not be stored for future use.
-
-## 2.9 Use with clopidogrel
-
-Avoid concomitant use of clopidogrel and omeprazole.
-Co-administration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [see Warnings and Precautions (5.4) and Drug Interactions (7.3)].
