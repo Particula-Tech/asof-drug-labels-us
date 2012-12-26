@@ -35,9 +35,9 @@ Change the NovoLog in the reservoir at least every 6 days, change the infusion s
 
 The following insulin pumps† have been used in NovoLog clinical or in vitro studies conducted by Novo Nordisk, the manufacturer of NovoLog:
 
-- Medtronic Paradigm® 512 and 712
-- MiniMed 508
-- Disetronic® D-TRON® and H-TRON®
+- •Medtronic Paradigm® 512 and 712
+- •MiniMed 508
+- •Disetronic® D-TRON® and H-TRON®
 
 Before using a different insulin pump with NovoLog, read the pump label to make sure the pump has been evaluated with NovoLog.
 

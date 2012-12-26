@@ -70,10 +70,10 @@ These antibodies do not appear to cause deterioration in glycemic control or nec
 
 ## 5.8 Mixing of Insulins
 
-- Mixing NovoLog with NPH human insulin immediately before injection attenuates the peak concentration of NovoLog, without significantly affecting the time to peak concentration or total bioavailability of NovoLog.
+- •Mixing NovoLog with NPH human insulin immediately before injection attenuates the peak concentration of NovoLog, without significantly affecting the time to peak concentration or total bioavailability of NovoLog.
   If NovoLog is mixed with NPH human insulin, NovoLog should be drawn into the syringe first, and the mixture should be injected immediately after mixing.
-- The efficacy and safety of mixing NovoLog with insulin preparations produced by other manufacturers have not been studied.
-- Insulin mixtures should not be administered intravenously.
+- •The efficacy and safety of mixing NovoLog with insulin preparations produced by other manufacturers have not been studied.
+- •Insulin mixtures should not be administered intravenously.
 
 ## 5.9 Continuous Subcutaneous Insulin Infusion by External Pump
 

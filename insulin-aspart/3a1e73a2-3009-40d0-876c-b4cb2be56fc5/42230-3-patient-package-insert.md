@@ -26,19 +26,19 @@ Who should not use NovoLog®?
 
 Do not take NovoLog® if:
 
-- Your blood sugar is too low (hypoglycemia).
-- You are allergic to anything in NovoLog®.
+- •Your blood sugar is too low (hypoglycemia).
+- •You are allergic to anything in NovoLog®.
   See the end of this leaflet for a complete list of ingredients in NovoLog®.
   Check with your healthcare provider if you are not sure.
 
 Tell your healthcare provider:
 
-- about all of your medical conditions.
+- •about all of your medical conditions.
   Medical conditions can affect your insulin needs and your dose of NovoLog®.
-- if you are pregnant or breastfeeding.
+- •if you are pregnant or breastfeeding.
   You and your healthcare provider should talk about the best way to manage your diabetes while you are pregnant or breastfeeding.
   NovoLog® has not been studied in nursing women.
-- about all medicines you take, including prescriptions and non-prescription medicines, vitamins and herbal supplements.
+- •about all medicines you take, including prescriptions and non-prescription medicines, vitamins and herbal supplements.
   Your NovoLog® dose may change if you take other medicines.
 
 Know the medicines you take.
@@ -53,76 +53,76 @@ If it looks cloudy, thickened, or colored, or if it contains solid particles do 
 
 NovoLog® comes in:
 
-- 10 mL vials (small bottles) for use with syringe
-- 3 mL PenFill® cartridges for use with the Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery devices and NovoFine® disposable needles.
+- •10 mL vials (small bottles) for use with syringe
+- •3 mL PenFill® cartridges for use with the Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery devices and NovoFine® disposable needles.
   The cartridge delivery device can be used with a NovoPen® 3 PenMate®
-- 3 mL NovoLog® FlexPen®
+- •3 mL NovoLog® FlexPen®
 
 Read the instructions for use that come with your NovoLog® product.
 Talk to your healthcare provider if you have any questions.
 Your healthcare provider should show you how to inject NovoLog® before you start taking it.
 
-- Take NovoLog® exactly as prescribed.
+- •Take NovoLog® exactly as prescribed.
   You should eat a meal within 5 to 10 minutes after using NovoLog® to avoid low blood sugar.
-- NovoLog® is a fast-acting insulin.
+- •NovoLog® is a fast-acting insulin.
   The effects of NovoLog® start working 10 to 20 minutes after injection or bolus pump infusion.
-- Do not inject NovoLog® if you do not plan to eat right after your injection or bolus pump infusion.
-- The greatest blood sugar lowering effect is between 1 and 3 hours after the injection or infusion.
+- •Do not inject NovoLog® if you do not plan to eat right after your injection or bolus pump infusion.
+- •The greatest blood sugar lowering effect is between 1 and 3 hours after the injection or infusion.
   This blood sugar lowering lasts for 3 to 5 hours.
-- While using NovoLog® you may have to change your total dose of insulin, your dose of longer-acting insulin, or the number of injections of longer-acting insulin you use.
+- •While using NovoLog® you may have to change your total dose of insulin, your dose of longer-acting insulin, or the number of injections of longer-acting insulin you use.
   Pump users given NovoLog® may need to change the amount of total insulin given as a basal infusion.
-- Do not mix NovoLog®:
-  - with any other insulins when used in a pump
-  - with any insulins other than NPH when used with injections by syringe
+- •Do not mix NovoLog®:
+  - ∘with any other insulins when used in a pump
+  - ∘with any insulins other than NPH when used with injections by syringe
 
 If your healthcare provider recommends diluting NovoLog®, follow your healthcare provider's instructions exactly so that you know:
 
-- How to make NovoLog® more dilute (that is, a smaller number of units of NovoLog® for a given amount of liquid) and
-- How to use this more dilute form of NovoLog®.
+- •How to make NovoLog® more dilute (that is, a smaller number of units of NovoLog® for a given amount of liquid) and
+- •How to use this more dilute form of NovoLog®.
   Do not use dilute insulin in a pump.
-- Inject NovoLog® into the skin of your stomach area, upper arms, buttocks or upper legs.
+- •Inject NovoLog® into the skin of your stomach area, upper arms, buttocks or upper legs.
   NovoLog® may affect your blood sugar levels sooner if you inject it into the skin of your stomach area.
   Never inject NovoLog® into a vein or into a muscle.
-- Change (rotate) your injection site within the chosen area (for example, stomach or upper arm) with each dose.
+- •Change (rotate) your injection site within the chosen area (for example, stomach or upper arm) with each dose.
   Do not inject into the exact same spot for each injection.
-- If you take too much NovoLog®, your blood sugar may fall low (hypoglycemia).
+- •If you take too much NovoLog®, your blood sugar may fall low (hypoglycemia).
   You can treat mild low blood sugar (hypoglycemia) by drinking or eating something sugary right away (fruit juice, sugar candies, or glucose tablets).
   It is important to treat low blood sugar (hypoglycemia) right away because it could get worse and you could pass out (become unconscious).
   If you pass out you will need help from another person or emergency medical services right away, and will need treatment with a glucagon injection or treatment at a hospital.
   See “What are the possible side effects of NovoLog®?” for more information on low blood sugar (hypoglycemia).
-- If you forget to take your dose of NovoLog®, your blood sugar may go too high (hyperglycemia).
+- •If you forget to take your dose of NovoLog®, your blood sugar may go too high (hyperglycemia).
   If high blood sugar (hyperglycemia) is not treated it can lead to serious problems, like loss of consciousness (passing out), coma or even death.
   Follow your healthcare provider’s instructions for treating high blood sugar.
   Know your symptoms of high blood sugar which may include:
 
-| increased thirstfrequent urinationdrowsinessloss of appetite a hard time breathing | fruity smell on the breathhigh amounts of sugar and ketones in your urinenausea, vomiting (throwing up) or stomach pain |
+| •increased thirst•frequent urination•drowsiness•loss of appetite •a hard time breathing | •fruity smell on the breath•high amounts of sugar and ketones in your urine•nausea, vomiting (throwing up) or stomach pain |
 | --- | --- |
 
-- Check your blood sugar levels.
-  Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
+Check your blood sugar levels.
+Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 
 Your insulin dosage may need to change because of:
 
-| illnessstressother medicines you take | change in dietchange in physical activity or exercise |
+| •illness•stress•other medicines you take | •change in diet•change in physical activity or exercise |
 | --- | --- |
 
 What should I avoid while using NovoLog®?
 
-- Alcohol.
+- •Alcohol.
   Alcohol, including beer and wine, may affect your blood sugar when you take NovoLog®.
-- Driving and operating machinery.
+- •Driving and operating machinery.
   You may have difficulty concentrating or reacting if you have low blood sugar (hypoglycemia).
   Be careful when you drive a car or operate machinery.
   Ask your healthcare provider if it is alright to drive if you often have:
-  - low blood sugar
-  - decreased or no warning signs of low blood sugar
+  - ∘low blood sugar
+  - ∘decreased or no warning signs of low blood sugar
 
 What are the possible side effects of NovoLog®?
 
-- Low blood sugar (hypoglycemia).
+- •Low blood sugar (hypoglycemia).
   Symptoms of low blood sugar may include:
 
-| sweatingdizziness or lightheadednessshakinesshungerfast heart beattingling of lips and tongue | trouble concentrating or confusionblurred visionslurred speechanxiety, irritability or mood changesheadache |
+| •sweating•dizziness or lightheadedness•shakiness•hunger•fast heart beat•tingling of lips and tongue | •trouble concentrating or confusion•blurred vision•slurred speech•anxiety, irritability or mood changes•headache |
 | --- | --- |
 
 Severe low blood sugar can cause unconsciousness (passing out), seizures, and death.
@@ -130,20 +130,20 @@ Know your symptoms of low blood sugar.
 Follow your healthcare provider’s instructions for treating low blood sugar.
 Talk to your healthcare provider if low blood sugar is a problem for you.
 
-- Serious allergic reaction (whole body reaction).
+- •Serious allergic reaction (whole body reaction).
   Get medical help right away, if you develop a rash over your whole body, have trouble breathing, a fast heartbeat, or sweating.
-- Reactions at the injection site (local allergic reaction).
+- •Reactions at the injection site (local allergic reaction).
   You may get redness, swelling, and itching at the injection site.
   If you keep having skin reactions or they are serious talk to your healthcare provider.
   You may need to stop using NovoLog® and use a different insulin.
   Do not inject insulin into skin that is red, swollen, or itchy.
-- Skin thickens or pits at the injection site (lipodystrophy).
+- •Skin thickens or pits at the injection site (lipodystrophy).
   Change (rotate) where you inject your insulin to help to prevent these skin changes from happening.
   Do not inject insulin into this type of skin.
-- Swelling of your hands and feet
-- Vision changes
-- Low potassium in your blood (hypokalemia)
-- Weight gain
+- •Swelling of your hands and feet
+- •Vision changes
+- •Low potassium in your blood (hypokalemia)
+- •Weight gain
 
 These are not all of the possible side effects from NovoLog®.
 Ask your healthcare provider or pharmacist for more information.
@@ -155,28 +155,26 @@ How should I store NovoLog®?
 
 All Unopened NovoLog®:
 
-- Keep all unopened NovoLog® in the refrigerator between 36° to 46°F (2° to 8°C).
-- Do not freeze.
+- •Keep all unopened NovoLog® in the refrigerator between 36° to 46°F (2° to 8°C).
+- •Do not freeze.
   Do not use NovoLog® if it has been frozen.
-- Keep unopened NovoLog® in the carton to protect from light.
+- •Keep unopened NovoLog® in the carton to protect from light.
 
 NovoLog® in use:
 
-- Vials
-  - Keep in the refrigerator or at room temperature below 86°F (30°C) for up to 28 days.
-  - Keep vials away from direct heat or light.
-  - Throw away an opened vial after 28 days of use, even if there is insulin left in the vial.
-  - Do not draw up NovoLog® into a syringe and store for later use.
-  - Unopened vials can be used until the expiration date on the NovoLog® label, if the medicine has been stored in a refrigerator.
-
-- PenFill® Cartridges or NovoLog® FlexPen®
-  - Keep at room temperature below 86°F (30°C) for up to 28 days.
-  - Do not store a PenFill® cartridge or NovoLog® FlexPen® that you are using in the refrigerator.
-  - Keep PenFill® cartridges and NovoLog® FlexPen® away from direct heat or light.
-  - Throw away a used PenFill® cartridge or NovoLog® FlexPen® after 28 days, even if there is insulin left in the cartridge or syringe.
-
-- NovoLog® in the pump reservoir and the complete external pump infusion set
-  - The infusion set and the infusion site should be changed at least every 3 days.
+- •Vials
+  - ∘Keep in the refrigerator or at room temperature below 86°F (30°C) for up to 28 days.
+  - ∘Keep vials away from direct heat or light.
+  - ∘Throw away an opened vial after 28 days of use, even if there is insulin left in the vial.
+  - ∘Do not draw up NovoLog® into a syringe and store for later use.
+  - ∘Unopened vials can be used until the expiration date on the NovoLog® label, if the medicine has been stored in a refrigerator.
+- •PenFill® Cartridges or NovoLog® FlexPen®
+  - ∘Keep at room temperature below 86°F (30°C) for up to 28 days.
+  - ∘Do not store a PenFill® cartridge or NovoLog® FlexPen® that you are using in the refrigerator.
+  - ∘Keep PenFill® cartridges and NovoLog® FlexPen® away from direct heat or light.
+  - ∘Throw away a used PenFill® cartridge or NovoLog® FlexPen® after 28 days, even if there is insulin left in the cartridge or syringe.
+- •NovoLog® in the pump reservoir and the complete external pump infusion set
+  - ∘The infusion set and the infusion site should be changed at least every 3 days.
     The insulin in the reservoir should be changed at least every 6 days even if you have not used all of the insulin.
     Change the infusion set and the infusion site more often than every 3 days if you have high blood sugar (hyperglycemia), the pump alarm sounds, or the insulin flow is blocked (occlusion).
 
@@ -196,7 +194,7 @@ Helpful information for people with diabetes is published by the American Diabet
 
 NovoLog® ingredients include:
 
-| insulin aspartglycerinphenolmetacresol | zincdisodium hydrogen phosphate dihydratesodium chloridewater for injection |
+| •insulin aspart•glycerin•phenol•metacresol | •zinc•disodium hydrogen phosphate dihydrate•sodium chloride•water for injection |
 | --- | --- |
 
 All NovoLog® vials, PenFill® cartridges and NovoLog® FlexPen® are latex free.
@@ -231,151 +229,134 @@ Princeton, New Jersey 08540
 
 PATIENT INSTRUCTIONS FOR USE
 
-NovoLog® 10 mL vial (100 Units/mL, U-100)
+NovoLog® (NŌ-vō-log)
 
-Before starting, gather all of the supplies that you will need to use for preparing and giving your insulin injection.
+(insulin aspart [rDNA origin] injection)
 
-Never re-use syringes and needles.
+10 mL vial (100 Units/mL, U-100)
 
-How should I use the NovoLog vial?
+Read this Instructions for Use before you start taking NovoLog® and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-1. Check to make sure that you have the correct type of insulin.
-   This is especially important if you use different types of insulin.
-2. Look at the vial and the insulin.
-   The insulin should be clear and colorless.
-   The tamper-resistant cap should be in place before the first use.
-   If the cap had been removed before your first use of the vial, or if the insulin is cloudy or colored, do not use it and call Novo Nordisk at 1-800-727-6500.
-3. Wash your hands with soap and water.
-   If you clean your injection site with an alcohol swab, let the injection site dry before you inject.
-   Talk with your healthcare provider about how to rotate injection sites and how to give an injection.
-4. If you are using a new vial, pull off the tamper-resistant cap.
-   Wipe the rubber stopper with an alcohol wipe.
-5. Do not roll or shake the vial.
-   Shaking right before the dose is drawn into the syringe may cause bubbles or froth.
-   This can cause you to draw up the wrong dose of insulin.
-6. Pull back the plunger on the syringe until the black tip reaches the marking for the number of units you will inject.
-7. Push the needle through the rubber stopper of the vial, and push the plunger all the way in to force air into the vial.
-8. Turn the vial and syringe upside down and slowly pull the plunger back to a few units beyond correct dose.
-9. If there are any air bubbles, tap the syringe gently with your finger to raise the air bubbles to the top.
-   Then slowly push the plunger to the marking for your correct dose.
-   This process should move any air bubbles present in the syringe back into the vial.
-10. Check to make sure you have the right dose of NovoLog in the syringe.
-11. Pull the syringe out of the vial’s rubber stopper.
-12. Your doctor should tell you if you need to pinch the skin before inserting the needle.
-    This can vary from patient to patient so it is important to ask your doctor if you did not receive instructions on pinching the skin.
-    Insert the needle into the pinched skin.
-    Press the plunger of the syringe to inject the insulin.
-    When you are finished injecting the insulin, pull the needle out of your skin.
-    You may see a drop of NovoLog at the needle tip.
-    This is normal and has no effect on the dose you just received.
-    If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol wipe.
-    Do not rub the area.
-13. After your injection, do not recap the needle.
-    Place used syringes, needles and used insulin vials in a disposable puncture-resistant sharps container, or some type of hard plastic or metal container with a screw on cap such as a detergent bottle or coffee can.
-14. Ask your healthcare provider about the right way to throw away used syringes and needles.
-    There may be state or local laws about the right way to throw away used syringes and needles.
-    Do not throw away used needles and syringes in household trash or recycle.
+Supplies you will need to give your NovoLog® injection:
 
-How should I mix insulins?
+- •10 mL NovoLog® vial
+- •insulin syringe and needle
+- •alcohol swab
 
-NovoLog should be mixed only when injections with syringes are used.
-NovoLog can be mixed with NPH human insulin right before use.
-The NovoLog should be drawn into the syringe before you draw up the NPH insulin.
-NovoLog should not be mixed with any other insulin except NPH.
+Preparing your NovoLog® dose:
 
-1. Add together the doses (total number of units) of NPH and NovoLog that you need to inject.
-   The total dose will determine the final amount (volume) in the syringe after drawing up both insulins into the syringe.
-   For example, if you need 5 units of NPH and 2 units of NovoLog, the total dose of insulin in the syringe would be 7 units.
-2. Roll the NPH vial between your hands until the liquid is equally cloudy throughout.
-3. Draw into the syringe the same amount of air as the NPH dose.
-   Inject this air into the NPH vial and then remove the needle from the vial but do not withdraw any of the NPH insulin.
-   (Transferring NPH to the NovoLog vial will contaminate the NovoLog vial and may change how quickly it works.)
-4. Draw into the syringe the same amount of air as the NovoLog dose.
-   Inject this air into the NovoLog vial.
-   With the needle in place, turn the vial upside down and withdraw the correct dose of NovoLog.
-   The tip of the needle must be in the NovoLog to get the full dose and not an air dose.
-5. After withdrawing the needle from the NovoLog vial, insert the needle into the NPH vial.
-   Turn the NPH vial upside down with the syringe and needle still in it.
-   Withdraw the correct dose of NPH.
-6. Inject right away to avoid changes in how quickly the insulin works.
+- •Wash your hands with soap and water.
+- •Before you start to prepare your injection, check the NovoLog® label to make sure that you are taking the right type of insulin.
+  This is especially important if you use more than 1 type of insulin.
+- •NovoLog® should look clear and colorless.
+  Do not use NovoLog® if it is thick, cloudy, or is colored.
+- •Do not use NovoLog® past the expiration date printed on the label.
 
-How do I use NovoLog in a pump?
+Step 1: Pull off the tamper resistant cap (See Figure A).
 
-- Checking your blood sugar is very important for patients using pumps.
-  Pump or infusion set problems can result in you not getting enough insulin.
-  This can quickly cause you to have high blood sugar and diabetic ketoacidosis.
-- Use insulin from a new vial of NovoLog if unexplained high blood sugar or pump alarms do not respond to all of the following:
-  - a repeat dose (injection or bolus) of NovoLog
-  - a change in the infusion set, including the NovoLog in the reservoir
-  - a change in the infusion site
-- If these measures do not work, you may need to go back to injecting NovoLog with syringes, or insulin pens.
-  Continue to monitor your blood sugars and ketones.
-  If problems continue, you must contact your healthcare provider.
-- When NovoLog is used in pumps, use only pumps that are recommended by your healthcare provider.
-  The infusion set and infusion site should be changed at least every 3 days.
+Step 2: Wipe the rubber stopper with an alcohol swab (See Figure B).
+
+Step 3: Hold the syringe with the needle pointing up.Pull down on the plunger until the black tip reaches the line for the number of units for your prescribed dose (See Figure C).
+
+Step 4: Push the needle through the rubber stopper of the NovoLog® vial (See Figure D).
+
+Step 5: Push the plunger all the way in.
+This puts air into the NovoLog® vial (See Figure E).
+
+Step 6: Turn the NovoLog® vial and syringe upside down and slowly pull the plunger down until the black tip is a few units past the line for your dose (See Figure F).
+
+- •If there are air bubbles, tap the syringe gently a few times to let any air bubbles rise to the top (See Figure G).
+
+Step 7: Slowly push the plunger up until the black tip reaches the line for your NovoLog® dose (See Figure H).
+
+Step 8: Check the syringe to make sure you have the right dose of NovoLog®.
+
+Step 9: Pull the syringe out of the vial’s rubber stopper (See Figure I).
+
+- Giving your Injection:
+- •Inject your NovoLog® exactly as your healthcare provider has shown you.
+  Your healthcare provider should tell you if you need to pinch the skin before injecting.
+- •NovoLog® can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms, infused in an insulin pump, or given through a needle in your arm (intravenously) by your healthcare provider.
+- •If you inject NovoLog®,change (rotate) your injection sites within the area you choose for each dose.
+  Do not use the same injection site for each injection.
+- •If you use NovoLog® in an insulin pump, you should change your insertion site every 3 days.
   The insulin in the reservoir should be changed at least every 6 days even if you have not used all of the insulin.
-  The reservoir, the infusion set, and infusion site should also be changed:
-  - with unexpected high blood sugar
-  - when the alarm sounds (see your pump manual)
-  - if the insulin or pump has been exposed to temperatures over 98.6°F (37°C), such as in a sauna, with long showers, or on an unusually hot day.
-  - if the insulin or pump could have absorbed heat, for example from sunlight, that would heat the insulin to over 98.6°F (37°C).
-    Dark colored pump cases or sport covers can increase this type of heat.
-    The location where the pump is worn may also affect the temperature
+- •If you use NovoLog® in an insulin pump, see your insulin pump manual for instructions or talk to your healthcare provider.
+- •NPH insulin is the only type of insulin that can be mixed with NovoLog®.
+  Do not mix NovoLog® with any other type of insulin.
+- •NovoLog® should only be mixed with NPH insulin if it is going to be injected right away under your skin (subcutaneously).
+- •NovoLog® should be drawn up into the syringe before you draw up your NPH insulin.
+- •Talk to your healthcare provider if you are not sure about the right way to mix NovoLog® and NPH insulin.
 
-Patients who develop local skin reactions may need to change infusion sites more often than every 3 days.
+Step 10: Choose your injection site and wipe the skin with an alcohol swab.
+Let the injection site dry before you inject your dose (See Figure J).
 
-Use only insulin pumps that have been specially tested with NovoLog.
-Follow your healthcare provider or pharmacist instructions for which insulin pumps may be used.
+Step 11: Insert the needle into your skin.
+Push down on the plunger to inject your dose (See Figure K). Needle should remain in the skin for at least 6 seconds to make sure you have injected all the insulin.
 
-Check with your healthcare provider or pharmacist to see if your pump and infusion set can be used with NovoLog.
+Step 12: Pull the needle out of your skin.
+After that, you may see a drop of NovoLog® at the needle tip.
+This is normal and does not affect the dose you just received (See Figure L).
 
-1.
-Check to make sure that you have the right type of insulin.
+- •If you see blood after you take the needle out of your skin, press the injection site lightly with a
+- piece of gauze or an alcohol swab.
+  Do not rub the area.
 
-2.
-Look at the vial and insulin.
-The insulin should be clear and colorless.
-The tamper-resistant cap should be in place before the first use.
-If the cap had been removed before your first use, or if the insulin is cloudy or colored, do not use it and call Novo Nordisk at 1-800-727-6500.
+After your injection:
 
-3.
-Wash your hands with soap and water.
+- •Do not recap the needle.
+  Recapping the needle can lead to a needle stick injury.
+- •Throw away empty insulin vials, used syringes, and needles in a sharps container or some type of hard plastic or metal container with a screw on cap such as a detergent bottle or empty coffee can.
+  Check with your healthcare provider about the right way to throw away the container.
+  There may be local or state laws about how to throw away used syringes and needles.
+  Do not throw away used syringes and needles in household trash or recycling bins.
 
-4.
-Fill the reservoir-syringe with 2 days worth of NovoLog plus about 25 extra units to prime the pump and the infusion tubing.
+How should I store NovoLog®?
 
-5.
-Remove air bubbles from the reservoir by following the pump manufacturers’ instructions.
+Do not freeze NovoLog®.
+Do not use NovoLog® if it has been frozen.
 
-6.
-Attach the infusion set to the reservoir.
-Make sure the connection is tight.
-Prime the infusion set until you see a drop of insulin coming out of the infusion needle-catheter.
-Follow the pump manufacturers’ instructions for priming and removing air bubbles.
+- •Keep NovoLog® away from heat or light.
+- •Store opened and unopened NovoLog® vials in the refrigerator at 36OF to 46OF (2OC to 8OC).
+  Opened NovoLog® vials can also be stored out of the refrigerator below 86OF (30OC).
+- •Unopened vials may be used until the expiration date printed on the label, if they are kept in the refrigerator.
+- •Opened NovoLog® vials should be thrown away after 28 days, even if they still have insulin left in them.
 
-7.
-Clean your insertion site with an alcohol swab and let the site dry before you insert the needle-catheter.
-Talk with your healthcare provider about how to rotate insertion sites and how to insert the needle-catheter into the skin.
+General information about the safe and effective use of NovoLog®
 
-8.
-Insert the needle-catheter into the skin, remove the needle and prime the catheter according to the pump manufacturers’ instructions.
-Do not insert the needle-catheter into skin that is reddened, itchy, bumpy, or thickened.
+- •Always use a new syringe and needle for each injection.
+- •Do not share syringes or needles.
+- •Keep NovoLog® vials, syringes, and needles out of the reach of children.
 
-9.
-Program the pump for mealtime NovoLog boluses and NovoLog basal insulin infusion according to instructions from your healthcare provider and the manufacturer of your pump equipment.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-10.
-Change the infusion site and infusion set at least every 3 days, and change the insulin in the reservoir at least every 6 days even if you have not used all of the insulin.
-This will help ensure that NovoLog and the pump work well.
+Manufactured by:
 
-11.
-Change the infusion site, the infusion set, the insulin reservoir and the insulin if you experience a pump alarm, catheter blockage, high blood sugars, or if your pump insulin has been exposed to heat greater than 98.6oF (37oC).
+Novo Nordisk A/S
 
-12.
-If you have high blood sugar (hyperglycemia) when you check your blood sugar, this may be the first sign of a problem with the pump, infusion set, or NovoLog.
-If you have high blood sugar without a pump alarm, you must still check the pump because alarms may not detect all the changes to NovoLog that could result in high blood sugar.
-You may need to start insulin injections with syringes if the cause of the problem cannot be found quickly or fixed.
-Long lengths of infusion-set tubing increase the risk for kinking and expose the insulin in the tubing to more changes in temperature.
+DK-2880 Bagsvaerd, Denmark
+
+NovoLog® is a registered trademark of Novo Nordisk A/S.
+
+NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
+
+© 2002-2012 Novo Nordisk
+
+For information about NovoLog® contact:
+
+Novo Nordisk Inc.
+
+100 College Road West
+
+Princeton, New Jersey 08540
+
+1-800-727-6500
+
+www.novonordisk-us.com
+
+Revised: December 2012
 
 PATIENT INSTRUCTIONS FOR USE
 
@@ -383,24 +364,24 @@ NovoLog® 3 mL PenFill® cartridge (100 Units/mL, U-100)
 
 Before using the NovoLog® cartridge
 
-1. Talk with your healthcare provider for information about where to inject NovoLog® (injection sites) and how to give an injection with your insulin delivery device.
-2. Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill® cartridge with the device.
+1. 1.Talk with your healthcare provider for information about where to inject NovoLog® (injection sites) and how to give an injection with your insulin delivery device.
+2. 2.Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill® cartridge with the device.
 
 How to use the NovoLog® cartridge
 
-1. Check your insulin.
+1. 1.Check your insulin.
    Just before using your NovoLog® cartridge, check to make sure that you have the right type of insulin.
    This is especially important if you use different types of insulin.
-2. Carefully look at the cartridge and the insulin inside it.
+2. 2.Carefully look at the cartridge and the insulin inside it.
    The insulin should be clear and colorless.
    The tamper-resistant foil should be in place before the first use.
    If the foil has been broken or removed before your first use of the cartridge, or if the insulin is cloudy or colored, do not use it.
    Call Novo Nordisk at 1-800-727-6500.
-3. Wash your hands well with soap and water.
+3. 3.Wash your hands well with soap and water.
    If you clean your injection site with an alcohol swab, let the injection site dry before you inject.
    Talk with your healthcare provider for guidance on injection sites and how to give an injection with your insulin delivery device.
-4. Gather your supplies for injecting NovoLog®.
-5. Insert a 3 mL cartridge into your Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
+4. 4.Gather your supplies for injecting NovoLog®.
+5. 5.Insert a 3 mL cartridge into your Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
    Wipe the front rubber stopper of the 3 mL PenFill® cartridge with an alcohol swab, then attach a new needle.
    For NovoFine® needles, remove the big outer needle cap and the inner needle cap.
    Always use a new needle for each injection to prevent infection.
@@ -492,9 +473,9 @@ Getting ready
 
 Make sure you have the following items:
 
-- NovoLog FlexPen
-- New NovoFine needle
-- Alcohol swab
+- •NovoLog FlexPen
+- •New NovoFine needle
+- •Alcohol swab
 
 Preparing Your NovoLog FlexPen
 
@@ -599,14 +580,14 @@ Function Check
 
 L. If your NovoLog FlexPen is not working the right way, follow the steps below:
 
-- Screw on a new NovoFine needle.
-- Remove the big outer needle cap and the inner needle cap.
-- Do an airshot as described in "Giving the airshot before each injection".
-- Put the big outer needle cap onto the needle.
+- •Screw on a new NovoFine needle.
+- •Remove the big outer needle cap and the inner needle cap.
+- •Do an airshot as described in "Giving the airshot before each injection".
+- •Put the big outer needle cap onto the needle.
   Do not put on the inner needle cap.
-- Turn the dose selector so the dose indicator window shows 20 units.
-- Hold the NovoLog FlexPen so the needle is pointing down.
-- Press the push-button all the way in.
+- •Turn the dose selector so the dose indicator window shows 20 units.
+- •Hold the NovoLog FlexPen so the needle is pointing down.
+- •Press the push-button all the way in.
 
 The insulin should fill the lower part of the big outer needle cap (see diagram L). If the NovoLog FlexPen has released too much or too little insulin, do the function check again.
 If the same problem happens again, do not use your NovoLog FlexPen and contact Novo Nordisk at 1-800-727-6500.
