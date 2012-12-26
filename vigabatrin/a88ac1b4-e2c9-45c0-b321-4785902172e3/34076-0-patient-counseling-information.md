@@ -55,4 +55,4 @@ For: Lundbeck Deerfield, IL 60015, U.S.A.
 
 ® Trademark of Lundbeck
 
-Revised: February 2012
+Revised: December 2012

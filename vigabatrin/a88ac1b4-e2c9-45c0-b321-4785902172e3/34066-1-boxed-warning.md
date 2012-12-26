@@ -1,4 +1,4 @@
-WARNING: VISION LOSS
+# WARNING: VISION LOSS
 
 - SABRIL causes permanent vision loss in infants, children and adults.
   Because assessing vision loss is difficult in children, the frequency and extent of vision loss in infants and children is poorly characterized.
