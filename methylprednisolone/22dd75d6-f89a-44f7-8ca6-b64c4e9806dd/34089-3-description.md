@@ -9,4 +9,4 @@ It is practically insoluble in water.
 The chemical name for methylprednisolone is pregna-1,4-diene-3,20-dione,11,17,21-trihydroxy-6-methyl-,(6α,11β)- and the molecular weight is 374.48.
 The structural formula is represented as follows:
 
-Each tablet contains 4 mg of methylprednisolone and the following inactive ingredients: calcium Stearate, corn Starch, lactose, mineral Oil, sorbic Acid, and sucrose.
+Each tablet contains 4 mg of methylprednisolone and the following inactive ingredients: calcium stearate, corn starch, lactose, and sucrose.
