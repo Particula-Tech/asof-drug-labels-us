@@ -21,16 +21,16 @@ Local anesthetics rapidly cross the placenta, and when used for epidural, caudal
 The incidence and degree of toxicity depend upon the procedure performed, the type, and amount of drug used, and the technique of drug administration.
 Adverse reactions in the parturient, fetus, and neonate involve alterations of the central nervous system, peripheral vascular tone, and cardiac function.
 
-## 8.3 Nursing mothers
+## 8.3 Nursing Mothers
 
 Bupivacaine has been reported to be excreted to some extent in human milk, suggesting that the nursing infant could be theoretically exposed to a dose of the drug.
 Because of the potential for serious adverse reactions in nursing infants from bupivacaine, a decision should be made whether to discontinue nursing or not administer EXPAREL, taking into account the importance of the drug to the mother.
 
-## 8.4 Pediatric use
+## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients below the age of 18 have not been established.
 
-## 8.5 Geriatric use
+## 8.5 Geriatric Use
 
 Of the total number of patients in the EXPAREL wound infiltration clinical studies (N=823), 171 patients were greater than or equal to 65 years of age and 47 patients were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.

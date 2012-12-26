@@ -1,6 +1,6 @@
 # 5. WARNINGS AND PRECAUTIONS
 
-## 5.1 Warnings and Precautions for Bupivacaine containing Products
+## 5.1 Warnings and Precautions for Bupivacaine Containing Products
 
 The safety and effectiveness of bupivacaine and other amide-containing products depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
 As there is a potential risk of severe life-threatening adverse effects associated with the administration of bupivacaine, any bupivacaine-containing product should be administered in a setting where trained personnel and equipment are available to promptly treat patients who show evidence of neurological or cardiac toxicity [See Overdosage (10)].

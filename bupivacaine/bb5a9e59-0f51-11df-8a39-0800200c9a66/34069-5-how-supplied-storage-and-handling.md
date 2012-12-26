@@ -2,8 +2,6 @@
 
 EXPAREL (bupivacaine liposome injectable suspension) is available in single-use vials for infiltration.
 
-10 mL single use vial, 1.3% (13.3 mg/mL) packaged in cartons of 10 (NDC 65250-133-10)
-
 20 mL single use vial, 1.3% (13.3 mg/mL) packaged in cartons of 10 (NDC 65250-266-20)
 
 Different formulations of bupivacaine are not bioequivalent even if the milligram strength is the same.

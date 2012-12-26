@@ -1,6 +1,6 @@
 # 12. CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of action
+## 12.1 Mechanism of Action
 
 Local anesthetics block the generation and the conduction of nerve impulses presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential.
 In general, the progression of anesthesia is related to the diameter, myelination, and conduction velocity of affected nerve fibers.
