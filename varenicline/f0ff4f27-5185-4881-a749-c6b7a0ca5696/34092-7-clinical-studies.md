@@ -54,7 +54,7 @@ In addition, 29% of the CHANTIX group were continuously abstinent from one week 
 
 Figure 1: Continuous Abstinence, Weeks 9 through 12
 
-Table 2: Continuous Abstinence, Weeks 9 through 12 (95% confidence interval)
+Table 4: Continuous Abstinence, Weeks 9 through 12 (95% confidence interval)
 
 |  | CHANTIX 0.5 mg BID | CHANTIX 1 mg BID | CHANTIX Flexible | Bupropion SR | Placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -71,11 +71,11 @@ Based on responses to the Brief Questionnaire of Smoking Urges and the Minnesota
 ## 14.3 Long-Term Abstinence
 
 Studies 1 through 5 included 40 weeks of post-treatment follow-up.
-In each study, CHANTIX-treated patients were more likely to maintain abstinence throughout the follow-up period than were patients treated with placebo (Figure 2, Table 3).
+In each study, CHANTIX-treated patients were more likely to maintain abstinence throughout the follow-up period than were patients treated with placebo (Figure 2, Table 5).
 
 Figure 2: Continuous Abstinence, Weeks 9 through 52
 
-Table 3: Continuous Abstinence, Weeks 9 through 52 (95% confidence interval) across different studies
+Table 5: Continuous Abstinence, Weeks 9 through 52 (95% confidence interval) across different studies
 
 |  | CHANTIX 0.5 mg BID | CHANTIX 1 mg BID | CHANTIX Flexible | Bupropion SR | Placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -107,7 +107,7 @@ CHANTIX was evaluated in a randomized, double-blind, placebo-controlled study of
 Subjects were randomized to CHANTIX 1 mg twice daily (N=223) or placebo (N=237) for a treatment of 12 weeks and then were followed for 40 weeks post-treatment.
 Subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (41%) compared to subjects treated with placebo (9%) and from week 9 through 52 (19%) compared to subjects treated with placebo (6%).
 
-Table 4: Continuous Abstinence (95% confidence interval), Studies in Patients with Cardiovascular Disease (CVD) and Chronic Obstructive Pulmonary Disease (COPD)
+Table 6: Continuous Abstinence (95% confidence interval), Studies in Patients with Cardiovascular Disease (CVD) and Chronic Obstructive Pulmonary Disease (COPD)
 
 |  | CHANTIX 1 mg BID | Placebo | CHANTIX 1 mg BID | Placebo |
 | --- | --- | --- | --- | --- |

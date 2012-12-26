@@ -66,7 +66,7 @@ Before you take CHANTIX, tell your doctor if you:
   See "What is the most important information I should know about CHANTIX?"
 - have kidney problems or get kidney dialysis.
   Your doctor may prescribe a lower dose of CHANTIX for you.
-- Have heart or blood vessel problems
+- have heart or blood vessel problems
 - have any allergies.
   See the end of this Medication Guide for a complete list of ingredients in CHANTIX.
 - have any other medical conditions
@@ -135,9 +135,9 @@ What are the possible side effects of CHANTIX?
 
 Serious side effects of CHANTIX may include:
 
-- New or worse mental health problems, which have been reported in some patients.
+- New or worse mental health problems, which have been reported in some people.
   See "What is the most important information I should know about CHANTIX?"
-- New or worse heart or blood vessel (cardiovascular) problems in people who already have cardiovascular problems.
+- New or worse heart or blood vessel (cardiovascular) problems, mostly in people who already have cardiovascular problems.
   Tell your doctor if you have any changes in symptoms during treatment with CHANTIX.
   Get emergency medical help right away if you have any of the following symptoms of a heart attack, including:
   - chest discomfort (uncomfortable pressure, squeezing, fullness or pain) that lasts more than a few minutes, or that goes away and comes back
@@ -183,8 +183,8 @@ Active ingredient: varenicline tartrate
 
 Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, Opadry ® White (for 0.5 mg), Opadry ® Blue (for 1 mg), and Opadry® Clear (for both 0.5 mg and 1 mg)
 
-LAB-0328-10.0
+LAB-0328-11.0
 
-July 2011
+December 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

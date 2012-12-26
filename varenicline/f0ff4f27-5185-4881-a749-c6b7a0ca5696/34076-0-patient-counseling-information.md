@@ -54,9 +54,9 @@ Instruct patients to discontinue CHANTIX and immediately seek medical care if th
 Inform patients that serious skin reactions, such as Stevens-Johnson Syndrome and erythema multiforme, were reported by some patients taking CHANTIX.
 Advise patients to stop taking CHANTIX at the first sign of rash with mucosal lesions or skin reaction and contact a healthcare provider immediately [see Warnings and Precautions (5.3), and Adverse Reactions (6.2)].
 
-## 17.12 Patients with Cardiovascular Disease
+## 17.12 Cardiovascular Events
 
-Patients with cardiovascular disease should be instructed to notify their health care providers of symptoms of new or worsening cardiovascular events and to seek immediate medical attention if they experience signs and symptoms of myocardial infarction.
+Patients should be instructed to notify their health care providers of symptoms of new or worsening cardiovascular events and to seek immediate medical attention if they experience signs and symptoms of myocardial infarction or stroke.
 [see Warnings and Precautions (5.4), and Adverse Reactions (6.1)].
 
 ## 17.13 Driving or Operating Machinery

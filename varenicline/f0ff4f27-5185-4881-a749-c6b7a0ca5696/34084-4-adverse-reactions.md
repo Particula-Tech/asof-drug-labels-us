@@ -23,13 +23,13 @@ Most study participants were treated for 12 weeks or less.
 
 The most common adverse event associated with CHANTIX treatment is nausea, occurring in 30% of patients treated at the recommended dose, compared with 10% in patients taking a comparable placebo regimen [see Warnings and Precautions (5.6)].
 
-Table 1 shows the adverse events for CHANTIX and placebo in the 12-week fixed dose studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
+Table 3 shows the adverse events for CHANTIX and placebo in the 12-week fixed dose studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
 Adverse events were categorized using the Medical Dictionary for Regulatory Activities (MedDRA, Version 7.1).
 
 MedDRA High Level Group Terms (HLGT) reported in ≥ 5% of patients in the CHANTIX 1 mg twice daily dose group, and more commonly than in the placebo group, are listed, along with subordinate Preferred Terms (PT) reported in ≥ 1% of CHANTIX patients (and at least 0.5% more frequent than placebo).
 Closely related Preferred Terms such as 'Insomnia', 'Initial insomnia', 'Middle insomnia', 'Early morning awakening' were grouped, but individual patients reporting two or more grouped events are only counted once.
 
-Table 1: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID CHANTIX Group and more commonly than placebo and PT ≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
+Table 3: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID CHANTIX Group and more commonly than placebo and PT ≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
 
 | SYSTEM ORGAN CLASS High Level Group Term Preferred Term | CHANTIX 0.5 mg BID N=129 | CHANTIX 1 mg BID N=821 | Placebo N=805 |
 | --- | --- | --- | --- |
@@ -75,7 +75,7 @@ Table 1: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled
 | Increased appetite | 4 | 3 | 2 |
 | Decreased appetite/Anorexia | 1 | 2 | 1 |
 
-The overall pattern and frequency of adverse events during the longer-term trials was similar to those described in Table 1, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one-year study, compared to 8% of placebo-treated patients).
+The overall pattern and frequency of adverse events during the longer-term trials was similar to those described in Table 3, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one-year study, compared to 8% of placebo-treated patients).
 
 Following is a list of treatment-emergent adverse events reported by patients treated with CHANTIX during all clinical trials.
 The listing does not include those events already listed in the previous tables or elsewhere in labeling, those events for which a drug cause was remote, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life-threatening.

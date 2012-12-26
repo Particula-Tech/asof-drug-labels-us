@@ -35,10 +35,58 @@ As these skin reactions can be life-threatening, instruct patients to stop takin
 
 ## 5.4 Cardiovascular Events
 
-In a controlled clinical trial of CHANTIX administered to patients with stable cardiovascular disease, with approximately 350 patients per treatment arm, certain cardiovascular events were reported more frequently in patients treated with CHANTIX than in patients treated with placebo [see Clinical Trials Experience (6.1)].
-These included treatment-emergent events (on-treatment or 30 days after treatment) of angina pectoris (13 patients in the varenicline arm vs. 7 in the placebo arm), and the serious cardiovascular events of nonfatal MI (4 vs. 1) and nonfatal stroke (2 vs. 0).
-During non-treatment follow up to 52 weeks, serious cardiovascular events included nonfatal myocardial infarction (3 vs. 2), need for coronary revascularization (7 vs. 2), hospitalization for angina pectoris (6 vs. 4), transient ischemic attack (1 vs. 0), new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (5 vs. 2).
-Serious cardiovascular events occurring over the 52 weeks of the study (treatment emergent and non-treatment emergent) were adjudicated by an independent blinded committee.
+In a placebo-controlled clinical trial of CHANTIX administered to patients with stable cardiovascular disease, with approximately 350 patients per treatment arm, all-cause and cardiovascular mortality was lower in patients treated with CHANTIX, but certain nonfatal cardiovascular events occurred more frequently in patients treated with CHANTIX than in patients treated with placebo [see Clinical Trials Experience (6.1)].
+Table 1 below shows the incidence of deaths and of selected nonfatal serious cardiovascular events occurring more frequently in the CHANTIX arm compared to the placebo arm.
+These events were adjudicated by an independent blinded committee.
+Nonfatal serious cardiovascular events not listed occurred at the same incidence or more commonly in the placebo arm.
+Patients with more than one cardiovascular event of the same type are counted only once per row.
+Some of the patients requiring coronary revascularization underwent the procedure as part of management of nonfatal MI and hospitalization for angina.
+
+Table 1.
+Mortality and Adjudicated Nonfatal Serious Cardiovascular Events in the Placebo-Controlled CHANTIX Trial in Patients with Stable Cardiovascular Disease
+
+| Mortality and Cardiovascular Events | CHANTIX (N=353) n (%) | Placebo (N=350) n (%) |
+| --- | --- | --- |
+| Mortality (Cardiovascular & All-cause up to 52 wks) |  |  |
+| Cardiovascular death | 1 (0.3) | 2 (0.6) |
+| All-cause mortality | 2 (0.6) | 5 (1.4) |
+| Nonfatal Cardiovascular Events (rate on CHANTIX > Placebo) |  |  |
+| Up to 30 days after treatment |  |  |
+| Nonfatal myocardial infarction | 4 (1.1) | 1 (0.3) |
+| Nonfatal Stroke | 2 (0.6) | 0 (0) |
+| Beyond 30 days after treatment & up to 52 weeks |  |  |
+| Nonfatal myocardial infarction | 3 (0.8) | 2 (0.6) |
+| Need for coronary revascularization | 7 (2.0) | 2 (0.6) |
+| Hospitalization for angina pectoris | 6 (1.7) | 4 (1.1) |
+| Transient ischemia attack | 1 (0.3) | 0 (0) |
+| New diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure | 5 (1.4) | 2 (0.6) |
+
+A meta-analysis of 15 clinical trials of ≥ 12 weeks treatment duration, including 7002 patients (4190 CHANTIX, 2812 placebo), was conducted to systematically assess the cardiovascular safety of CHANTIX.
+The study in patients with stable cardiovascular disease described above was included in the meta-analysis.
+There were lower rates of all-cause mortality (CHANTIX 6 [0.14%]; placebo 7 [0.25%]) and cardiovascular mortality (CHANTIX 2 [0.05%]; placebo 2 [0.07%]) in the CHANTIX arms compared with the placebo arms in the meta-analysis.
+
+The key cardiovascular safety analysis included occurrence and timing of a composite endpoint of Major Adverse Cardiovascular Events (MACE), defined as cardiovascular death, nonfatal MI, and nonfatal stroke.
+These events included in the endpoint were adjudicated by a blinded, independent committee.
+Overall, a small number of MACE occurred in the trials included in the meta-analysis, as described in Table 2.
+These events occurred primarily in patients with known cardiovascular disease.
+
+Table 2.
+Number of MACE cases, Hazard Ratio and Rate Difference in a Meta-Analysis of 15 Clinical Trials Comparing CHANTIX to PlaceboIncludes MACE occurring up to 30 days post treatment.
+
+|  | CHANTIX N=4190 | Placebo N=2812 |
+| --- | --- | --- |
+| MACE cases, n (%) | 13 (0.31%) | 6 (0.21%) |
+| Patient-years of exposure | 1316 | 839 |
+| Hazard Ratio (95% CI) |  |  |
+|  | 1.95 (0.79, 4.82) |  |
+| Rate Difference per 1,000 patient-years (95% CI) |  |  |
+|  | 6.30 (-2.40, 15.10) |  |
+
+The meta-analysis showed that exposure to CHANTIX resulted in a hazard ratio for MACE of 1.95 (95% confidence interval from 0.79 to 4.82) for patients up to 30 days after treatment; this is equivalent to an estimated increase of 6.3 MACE events per 1,000 patient-years of exposure.
+The meta-analysis showed higher rates of CV endpoints in patients on CHANTIX relative to placebo across different time frames and pre-specified sensitivity analyses, including various study groupings and CV outcomes.
+Although these findings were not statistically significant they were consistent.
+Because the number of events was small overall, the power for finding a statistically significant difference in a signal of this magnitude is low.
+
 CHANTIX was not studied in patients with unstable cardiovascular disease or cardiovascular events occurring within two months before screening.
 Patients should be advised to notify a health care provider of new or worsening symptoms of cardiovascular disease.
 The risks of CHANTIX should be weighed against the benefits of its use in smokers with cardiovascular disease.
