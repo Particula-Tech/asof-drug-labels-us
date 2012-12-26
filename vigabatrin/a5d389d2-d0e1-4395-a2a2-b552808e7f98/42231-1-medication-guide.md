@@ -288,4 +288,4 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 ® Trademark of Lundbeck
 
-Revised: November 2011
+Revised: December 2012
