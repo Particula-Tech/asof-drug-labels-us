@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021234"
+  ],
   "inn": "diclofenac",
-  "labeler": "IBSA Institut Biochimique SA",
+  "labeler": "Alpharma Pharmaceuticals LLC",
   "package_ndcs": [
     "63857-111-33"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "diclofenac epolamine",
+      "name": "Flector"
+    }
+  ],
   "setid": "a83d7327-aba2-43e0-a510-9eeabf1bc560",
   "source": "dailymed"
 }
