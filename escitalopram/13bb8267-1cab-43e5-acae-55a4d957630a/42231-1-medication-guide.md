@@ -1,6 +1,6 @@
 Medication Guide
 
-Lexapro (leks-a-pro) (escitalopram oxalate) Tablets/Oral Solution
+Lexapro® (leks-a-pro) (escitalopram oxalate) Tablets/Oral Solution
 
 Read the Medication Guide that comes with Lexapro before you start taking it and each time you get a refill.
 There may be new information.
@@ -39,7 +39,7 @@ Call your healthcare provider right away if you have any of the following sympto
 Lexapro may be associated with these serious side effects:
 
 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -111,12 +111,12 @@ Do not take Lexapro if you:
 
 - are allergic to escitalopram oxalate or citalopram hydrobromide or any of the ingredients in Lexapro.
   See the end of this Medication Guide for a complete list of ingredients in Lexapro.
-- take a Monoamine Oxidase Inhibitor (MAOI).
+- take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- Do not take an MAOI within 2 weeks of stopping Lexapro unless directed to do so by your physician.
+- Do not start Lexapro if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
   People who take Lexapro close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
-  - Do not take an MAOI within 14 days of stopping Lexapro.
-  - Do not start Lexapro if you stopped taking an MAOI in the last 14 days.
   - high fever
   - uncontrolled muscle spasms
   - stiff muscles
@@ -248,6 +248,8 @@ Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, 
 
 Licensed from H. Lundbeck A/S
 
-Revised May 2011
+Revised: December 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+© 2012 Forest Laboratories, Inc.

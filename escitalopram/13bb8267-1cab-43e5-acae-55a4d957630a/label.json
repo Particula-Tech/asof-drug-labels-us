@@ -8,14 +8,16 @@
   "package_ndcs": [
     "0456-2005-01",
     "0456-2010-01",
+    "0456-2010-11",
     "0456-2010-63",
     "0456-2020-01",
+    "0456-2020-11",
     "0456-2020-63",
     "0456-2101-08"
   ],
   "products": [
     {
-      "form": "LIQUID",
+      "form": "SOLUTION",
       "generic": "escitalopram oxalate",
       "name": "Lexapro"
     },

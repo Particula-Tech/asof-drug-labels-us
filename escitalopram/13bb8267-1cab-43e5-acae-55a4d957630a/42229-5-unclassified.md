@@ -25,7 +25,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Lexapro and triptans, tramadol or other serotonergic agents [see Warnings and Precautions (5.2)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Lexapro with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
 
 Abnormal Bleeding
 
@@ -59,7 +59,7 @@ Need for Comprehensive Treatment Program
 
 Lexapro is indicated as an integral part of a total treatment program for MDD that may include other measures (psychological, educational, social) for patients with this syndrome.
 Drug treatment may not be indicated for all adolescents with this syndrome.
-Safety and effectiveness of Lexapro in MDD has not been established in pediatrics patients less than 12 years of age.
+Safety and effectiveness of Lexapro in MDD has not been established in pediatric patients less than 12 years of age.
 Antidepressants are not intended for use in the adolescent who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
