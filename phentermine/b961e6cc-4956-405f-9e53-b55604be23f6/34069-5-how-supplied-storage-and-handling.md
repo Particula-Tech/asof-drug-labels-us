@@ -17,7 +17,7 @@ Suprenza Orally Disintegrating Tablet Presentations
 | 30 mg | Round, embossed tablets Yellow | AX7 on one side | NDC: 24090 721 85 |
 | 37.5 mg | Round, embossed tablets White with blue spots | AX8 on one side | NDC: 24090 722 85 |
 
-Suprenza 15 mg, 30 mg, and 37.5 mg ODT are packaged in bottles of 30 and 100.
+Suprenza 15 mg, 30 mg, and 37.5 mg ODT are packaged in bottles of 30.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 

@@ -48,3 +48,8 @@ Use caution in prescribing Suprenza for patients with even mild hypertension (ri
 ## 5.9 Use in Patients on Insulin or Oral Hypoglycemic Medications for Diabetes Mellitus
 
 A reduction in insulin or oral hypoglycemic medications in patients with diabetes mellitus may be required.
+
+## 5.10 Also contains FD&C Yellow No. 5 (tartrazine) as a color additive
+
+This product contains FD&C Yellow No. 5 (tartrazine), which may cause allergic-type reactions (including bronchial asthma) in certain susceptible individuals.
+Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
