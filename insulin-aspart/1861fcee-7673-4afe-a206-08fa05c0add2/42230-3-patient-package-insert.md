@@ -86,9 +86,10 @@ How should I take NovoLog® Mix 70/30?
 | •drowsiness | •high amounts of sugar and ketones in your urine |
 | •loss of appetite | •nausea, vomiting (throwing up) or stomach pain |
 
-- •Do not share needles, insulin pens or syringes with others.
-- •Check your blood sugar levels.
-  Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
+Do not share needles, insulin pens or syringes with others.
+
+Check your blood sugar levels.
+Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 
 Your insulin dosage may need to change because of:
 
@@ -240,80 +241,121 @@ www.novonordisk-us.com
 
 PATIENT INSTRUCTIONS FOR USE
 
-NovoLog® Mix 70/30 10 mL vial (100 Units/mL, U-100)
+NovoLog® Mix 70/30 (NŌvōLog-MIX-SEV-en-tee-THIR-tee)
 
-Read the following Patient Instructions for Use carefully before you start using your NovoLog® Mix 70/30 10 mL vial and each time you get a refill.
+(70% insulin aspart protamine suspension and 30% insulin aspart [rDNA origin] injection)
+
+10 mL vial (100 Units/mL, U-100)
+
+Read this Instructions for Use before you start taking NovoLog® Mix 70/30 and each time you get a refill.
 There may be new information.
-You should read the instructions even if you have used NovoLog® Mix 70/30 10 mL vials before.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-Before starting, gather all of the supplies that you will need to use for preparing and giving your insulin injection.
+Supplies you will need to give your NovoLog® Mix 70/30 injection:
 
-Never re-use syringes and needles.
+- •10 mL NovoLog® Mix 70/30 vial
+- •insulin syringe and needle
+- •alcohol swab
 
-How should I prepare and deliver the injection using the NovoLog® Mix 70/30 10 mL vial?
+Preparing your NovoLog® Mix 70/30 dose:
 
-1. 1.Check to make sure you have the correct type of insulin.
-   This is especially important if you use different types of insulin.
-2. 2.Look at the vial and the insulin.
-   The insulin should be white and cloudy after mixing.
-   The tamper-resistant cap should be on the vial before the first use.
-   If the cap has already been removed before your first use of the vial, or if the insulin looks clear or contains any particles, do not use it and return it to your pharmacy.
-3. 3.Wash your hands with soap and water.
-   Clean your injection site with an alcohol swab and let the injection site dry before you inject.
-   Talk with your healthcare provider about how to rotate injection sites and how to give an injection.
-4. 4.If you are using a new vial, pull off the tamper-resistant cap.
-   Wipe the rubber stopper with an alcohol swab.
-5. 5.Roll the vial gently 10 times in your hands to mix it.
-   This should be done with the vial in a horizontal (flat) position between your palms.
-   Do not shake the vial.
-   Shaking right before the dose is drawn into the syringe may cause bubbles or foam.
-   This can cause you to draw up the wrong dose of insulin.
-   The insulin should be used only if it looks white and cloudy.
-6. 6.
-   Pull back the plunger on the syringe until the black tip reaches the marking for the number of units you will inject.
-7. 7.Push the needle through the rubber stopper into the vial, and push the plunger all the way in to force air into the vial.
-8. 8.Turn the vial and syringe upside down and slowly pull the plunger back to a few units beyond the correct dose needed.
-9. 9.
-   If there are air bubbles in the syringe, tap the syringe gently with your finger to raise the air bubbles to the top.
-   Slowly push the plunger to the marking for your dose.
-   This should move any air bubbles in the syringe back into the vial.
-10. 10.Check to make sure you have the right dose of NovoLog® Mix 70/30 in the syringe.
-11. 11.Pull the syringe out of the vial’s rubber stopper.
-12. 12.If there is a delay after you rolled the vial, you will have to roll it again to remix the insulin and redraw your medicine.
-    Your healthcare provider should tell you if you need to pinch the skin before inserting the needle.
-    This can be different from person to person so it is important to ask your healthcare provider if you did not receive instructions on pinching the skin.
-    Insert the needle into the skin right away.
-    Push the plunger to inject the insulin under your skin.
-    Keep the needle under your skin for at least 6 seconds to make sure you have injected all the insulin.
-    When you are finished injecting the insulin, pull the needle out of your skin.
-13. 13.You may see a drop of NovoLog® Mix 70/30 at the needle tip.
-    This is normal and has no effect on the dose you just received.
-    If blood appears after you pull the needle from your skin, press the injection site lightly with an alcohol swab.
-    Do not rub the area.
-    Do not recap the needle.
-14. 14.After the injection, dispose of the needle and syringe in a puncture-resistant container.
-    Place used syringes, needles, and insulin vials in a disposable puncture-resistant sharps container, or some type of hard plastic or metal container with a screw on cap such as a detergent bottle or coffee can.
-15. 15.Ask your healthcare provider about the right way to throw away used syringes and needles.
-    There may be state or local laws about the right way to throw away used syringes and needles.
-    Do not throw away used needles and syringes in household trash or recycling bins.
+- •Wash your hands with soap and water.
+- •Before you start to prepare your injection, check the NovoLog® Mix 70/30 label to make sure that you are taking the right type of insulin.
+  This is especially important if you use more than 1 type of insulin.
+- •NovoLog® Mix 70/30 should look white and cloudy after mixing.
+  Do not use NovoLog Mix 70/30 if it looks clear or contains any lumps or particles.
+- •NovoLog® Mix 70/30 is easier to mix when it is at room temperature.
+- •After mixing NovoLog® Mix 70/30, inject your dose right away.
+  If you wait to inject your dose, the insulin will need to be mixed again.
+- •Do not use NovoLog® Mix 70/30 past the expiration date printed on the label.
 
-Helpful information for people with diabetes is published by the American Diabetes Association, 1701 N. Beauregard Street, Alexandria, VA 22311.
+Step 1: If you are using a new vial, pull off the tamper-resistant cap (See Figure A).
 
-Date of Issue: May 7, 2010
+Step 2: Wipe the rubber stopper with an alcohol swab (See Figure B).
 
-Version: 6
+Step 3: Roll the NovoLog Mix 70/30 vial between your hands 10 times.
+Keep the vial in a horizontal (flat) position (See Figure C). Roll the vial between your hands until the Novolog® Mix 70/30 looks white and cloudy.
+Do not shake the vial.
 
-Novo Nordisk® and NovoLog® are registered trademarks of Novo Nordisk A/S.
+Step 4: Hold the syringe with the needle pointing up.
+Pull down on the plunger until the black tip reaches the line for the number of units for your prescribed dose (See Figure D).
 
-© 2002–2010 Novo Nordisk
+Step 5: Push the needle through the rubber stopper of the NovoLog® Mix 70/30 vial (See Figure E).
 
-NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+Step 6: Push the plunger all the way in.
+This puts air into the NovoLog® Mix 70/30 vial (See Figure F).
+
+Step 7: Turn the NovoLog® Mix 70/30 vial and syringe upside down and slowly pull the plunger down until the black tip is a few units past the line for your dose (See Figure G).
+
+- •If there are air bubbles, tap the syringe gently a few times to let any air bubbles rise to the top (See Figure H).
+
+Step 8: Slowly push the plunger up until the black tip reaches the line for your NovoLog® Mix 70/30 dose (See Figure I).
+
+Step 9: Check the syringe to make sure you have the right dose of NovoLog® Mix 70/30.
+
+Step 10: Pull the syringe out of the vial’s rubber stopper (See Figure J).
+
+Giving your injection:
+
+- •Inject your NovoLog® Mix 70/30 exactly as your healthcare provider has shown you.
+  Your healthcare provider should tell you if you need to pinch the skin before injecting.
+- •NovoLog® Mix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
+- •Change (rotate) your injection sites within the area you choose for each dose.
+  Do not use the same injection site for each injection.
+
+Step 11: Choose your injection site and wipe the skin with an alcohol swab.
+Let the injection site dry before you inject your dose (See Figure K).
+
+Step 12: Insert the needle into your skin.
+Push down on the plunger to inject your dose (See Figure L). Needle should remain in the skin for at least 6 seconds to make sure you have injected all the insulin.
+
+Step 13: Pull the needle out of your skin.
+After that, you may see a drop of NovoLog® Mix 70/30 at the needle tip.
+This is normal and does not affect the dose you just received (See Figure M).
+
+- •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
+  Do not rub the area.
+
+After your injection:
+
+- •Do not recap the needle.
+  Recapping the needle can lead to a needle stick injury.
+- •Throw away empty insulin vials,used syringes and needles in a sharps container or some type of hard plastic or metal container with a screw on cap such as a detergent bottle or coffee can.
+  Check with your healthcare provider about the right way to throw away the container.
+  There may be local or state laws about how to throw away used syringes and needles.
+  Do not throw away used syringes and needles in household trash or recycling bins.
+
+How should I store NovoLog®Mix 70/30?
+
+- •Do not freeze NovoLog® Mix 70/30.
+  Do not use NovoLog® Mix 70/30 if it has been frozen.
+- •Keep NovoLog® Mix 70/30 away from heat or light.
+- •Store opened and unopened NovoLog® Mix 70/30 vials in the refrigerator at 36OF to 46OF (2OC to 8OC).
+  Opened NovoLog® Mix 70/30 vials can also be stored out of the refrigerator below 86OF (30OC).
+- •Unopened vials may be used until the expiration date printed on the label, if they are kept in the refrigerator.
+- •Opened NovoLog® Mix 70/30 vials should be thrown away after 28 days, even if they still have insulin left in them.
+
+General information about the safe and effective use of NovoLog® Mix 70/30
+
+- •Always use a new syringe and needle for each injection.
+- •Do not share syringes or needles.
+- •Keep NovoLog® Mix 70/30 vials, syringes, and needles out of the reach of children.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
 Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
+
+Revised: December 2012
+
+NovoLog® is a registered trademark of Novo Nordisk A/S.
+
+NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+
+© 2002-2012 Novo Nordisk
 
 For information about NovoLog® Mix 70/30 contact:
 
