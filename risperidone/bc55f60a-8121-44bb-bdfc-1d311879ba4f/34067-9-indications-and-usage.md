@@ -1,31 +1,28 @@
 # 1 INDICATIONS & USAGE
 
-- 
-- 
-- 
+- •
+- •
+- •
 
 ## 1.1 Schizophrenia
 
-Adults
-
-Risperidone oral solution, USP is indicated for the acute and maintenance treatment of schizophrenia [see Clinical Studies (14.1)].
-
-Adolescents
-
-Risperidone oral solution, USP is indicated for the treatment of schizophrenia in adolescents aged 13 to 17 years [see Clinical Studies (14.1)].
+Risperidone oral solution, USP is indicated for the treatment of schizophrenia.
+Efficacy was established in 4 short-term trials in adults, 2 short-term trials in adolescents (ages 13 to 17 years) and one long-term maintenance trial in adults [see Clinical Studies (14.1)].
 
 ## 1.2 Bipolar Mania
 
-Monotherapy - Adults and Pediatrics
+Monotherapy
 
-Risperidone oral solution, USP is indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in adults and in children and adolescents aged 10 to 17 years [see Clinical Studies (14.2)].
+Risperidone oral solution, USP is indicated for the treatment of acute manic or mixed episodes associated with Bipolar I Disorder.
+Efficacy was established in 2 short-term trials in adults and one short-term trial in children and adolescents (ages 10 to 17 years) [see Clinical Studies (14.2)].
 
-Combination Therapy – Adults
+Adjunctive Therapy
 
-The combination of risperidone oral solution, USP with lithium or valproate is indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder [see Clinical Studies (14.3)].
+Risperidone oral solution, USP adjunctive therapy with lithium or valproate is indicated for the treatment of acute manic or mixed episodes associated with Bipolar I Disorder.
+Efficacy was established in one short-term trial in adults.
+[see Clinical Studies (14.3)].
 
 ## 1.3 Irritability Associated with Autistic Disorder
 
-Pediatrics
-
-Risperidone oral solution, USP is indicated for the treatment of irritability associated with autistic disorder in children and adolescents aged 5 to 16 years, including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods [see Clinical Studies (14.4)].
+Risperidone oral solution, USP is indicated for the treatment of irritability associated with autistic disorder, including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
+Efficacy was established in 3 short-term trials in children and adolescents (ages 5 to 17 years) [see Clinical Studies (14.4)].

@@ -1,18 +1,20 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone:
+Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone and their caregivers:
 
 ## 17.1 Orthostatic Hypotension
 
-Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration [see Warnings and Precautions (5.7)].
+Advise patients and caregivers about the risk of orthostatic hypotension, especially during the period of initial dose titration [see Warnings and Precautions (5.7)].
 
 ## 17.2 Interference with Cognitive and Motor Performance
 
-Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely [see Warnings and Precautions (5.9)].
+Inform patients and caregivers that risperidone has the potential to impair judgment, thinking, or motor skills.
+Advise caution about operating hazardous machinery, including automobiles, until patients are reasonably certain that risperidone therapy does not affect them adversely [see Warnings and Precautions (5.9)].
 
 ## 17.3 Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
+Advise patients and caregivers that risperidone and its active metabolite are present in human breast milk; there is a potential for serious adverse reactions from risperidone in nursing infants.
+Advise patients that the decision whether to discontinue nursing or to discontinue risperidone should take into account the importance of the drug to the patient [see Use in Specific Populations (8.3)].
 
 ## 17.4 Nursing
 
@@ -20,11 +22,19 @@ Patients should be advised not to breast-feed an infant if they are taking rispe
 
 ## 17.5 Concomitant Medication
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions [see Drug Interactions (7)].
+Advise patients and caregivers to inform their physicians if the patient is taking, or plans to take, any prescription or over-the-counter drugs, because there is a potential for interactions [see Drug Interactions (7)].
 
 ## 17.6 Alcohol
 
-Patients should be advised to avoid alcohol while taking risperidone [see Drug Interactions (7.1)].
+Advise patients to avoid alcohol while taking risperidone [see Drug Interactions (7.2)].
+
+## 17.8 Metabolic Changes
+
+Inform patients and caregivers that treatment with risperidone can be associated with hyperglycemia and diabetes mellitus, dyslipidemia and weight gain [see Warnings and Precautions (5.5)].
+
+## 17.9 Tardive Dyskinesia
+
+Inform patients and caregivers about the risk of tardive dyskinesia [see Warnings and Precautions (5.4)].
 
 Rx Only
 
@@ -41,7 +51,7 @@ Amneal Pharmaceuticals
 Glasgow, KY 42141
 
 Rev.
-04-2011
+08-2012
 
 Risperidone Oral Solution, USP
 
@@ -89,4 +99,4 @@ Amneal Pharmaceuticals
 Glasgow, KY 42141
 
 Rev.
-04-2011
+08-2012

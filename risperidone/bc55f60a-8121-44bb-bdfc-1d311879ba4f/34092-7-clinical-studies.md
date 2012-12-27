@@ -9,21 +9,18 @@ Short-Term Efficacy
 The efficacy of risperidone in the treatment of schizophrenia was established in four short-term (4- to 8-week) controlled trials of psychotic inpatients who met DSM-III-R criteria for schizophrenia.
 
 Several instruments were used for assessing psychiatric signs and symptoms in these studies, among them the Brief Psychiatric Rating Scale (BPRS), a multi-item inventory of general psychopathology traditionally used to evaluate the effects of drug treatment in schizophrenia.
-The BPRS psychosis cluster (conceptual disorganization, hallucinatory behavior, suspiciousness, and unusual thought content) is considered a particularly useful subset for assessing actively psychotic schizophrenic patients.
+The BPRS psychosis cluster (conceptual disorganization, hallucinatory behavior, suspiciousness and unusual thought content) is considered a particularly useful subset for assessing actively psychotic schizophrenic patients.
 A second traditional assessment, the Clinical Global Impression (CGI), reflects the impression of a skilled observer, fully familiar with the manifestations of schizophrenia, about the overall clinical state of the patient.
 In addition, the Positive and Negative Syndrome Scale (PANSS) and the Scale for Assessing Negative Symptoms (SANS) were employed.
 
 The results of the trials follow:
 
 - (1) In a 6-week, placebo-controlled trial (n=160) involving titration of risperidone in doses up to 10 mg/day (twice-daily schedule), risperidone was generally superior to placebo on the BPRS total score, on the BPRS psychosis cluster, and marginally superior to placebo on the SANS.
-
-- (2) In an 8-week, placebo-controlled trial (n=513) involving 4 fixed doses of risperidone (2 mg/day, 6 mg/day, 10 mg/day, and 16 mg/day, on a twice-daily schedule), all 4 risperidone groups were generally superior to placebo on the BPRS total score, BPRS psychosis cluster, and CGI severity score; the 3 highest risperidone dose groups were generally superior to placebo on the PANSS negative subscale.
+- (2) In an 8-week, placebo-controlled trial (n=513) involving 4 fixed doses of risperidone (2 mg/day, 6 mg/day, 10 mg/day and 16 mg/day, on a twice-daily schedule), all 4 risperidone groups were generally superior to placebo on the BPRS total score, BPRS psychosis cluster, and CGI severity score; the 3 highest risperidone dose groups were generally superior to placebo on the PANSS negative subscale.
   The most consistently positive responses on all measures were seen for the 6 mg dose group, and there was no suggestion of increased benefit from larger doses.
-
-- (3) In an 8-week, dose comparison trial (n=1356) involving 5 fixed doses of risperidone (1 mg/day, 4 mg/day, 8 mg/day, 12 mg/day, and 16 mg/day, on a twice-daily schedule), the four highest risperidone dose groups were generally superior to the 1 mg risperidone dose group on BPRS total score, BPRS psychosis cluster, and CGI severity score.
+- (3) In an 8-week, dose comparison trial (n=1356) involving 5 fixed doses of risperidone (1 mg/day, 4 mg/day, 8 mg/day, 12 mg/day and 16 mg/day, on a twice-daily schedule), the four highest risperidone dose groups were generally superior to the 1 mg risperidone dose group on BPRS total score, BPRS psychosis cluster, and CGI severity score.
   None of the dose groups were superior to the 1 mg group on the PANSS negative subscale.
   The most consistently positive responses were seen for the 4 mg dose group.
-
 - (4) In a 4-week, placebo-controlled dose comparison trial (n=246) involving 2 fixed doses of risperidone (4 and 8 mg/day on a once-daily schedule), both risperidone dose groups were generally superior to placebo on several PANSS measures, including a response measure (>20% reduction in PANSS total score), PANSS total score, and the BPRS psychosis cluster (derived from PANSS).
   The results were generally stronger for the 8 mg than for the 4 mg dose group.
 
@@ -42,7 +39,7 @@ In all cases, study medication was initiated at 0.5 mg/day (with the exception o
 Subsequently, dosage was increased to the maximum tolerated dose within the target dose range by Day 14.
 The primary efficacy variable in all studies was the mean change from baseline in total PANSS score.
 
-Results of the studies demonstrated efficacy of risperidone in all dose groups from 1-6 mg/day compared to placebo, as measured by significant reduction of total PANSS score.
+Results of the studies demonstrated efficacy of risperidone in all dose groups from 1 to 6 mg/day compared to placebo, as measured by significant reduction of total PANSS score.
 The efficacy on the primary parameter in the 1 to 3 mg/day group was comparable to the 4 to 6 mg/day group in study #1, and similar to the efficacy demonstrated in the 1.5 to 6 mg/day group in study #2.
 In study #2, the efficacy in the 1.5 to 6 mg/day group was statistically significantly greater than that in the 0.15 to 0.6 mg/day group.
 Doses higher than 3 mg/day did not reveal any trend towards greater efficacy.
@@ -54,12 +51,11 @@ Adults
 The efficacy of risperidone in the treatment of acute manic or mixed episodes was established in two short-term (3-week) placebo-controlled trials in patients who met the DSM-IV criteria for Bipolar I Disorder with manic or mixed episodes.
 These trials included patients with or without psychotic features.
 
-The primary rating instrument used for assessing manic symptoms in these trials was the Young Mania Rating Scale (YMRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, and insight) in a range from 0 (no manic features) to 60 (maximum score).
+The primary rating instrument used for assessing manic symptoms in these trials was the Young Mania Rating Scale (YMRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance and insight) in a range from 0 (no manic features) to 60 (maximum score).
 The primary outcome in these trials was change from baseline in the YMRS total score.
 The results of the trials follow:
 
 - (1) In one 3-week placebo-controlled trial (n=246), limited to patients with manic episodes, which involved a dose range of risperidone 1 to 6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 4.1 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
-
 - (2) In another 3-week placebo-controlled trial (n=286), which involved a dose range of 1 to 6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 5.6 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
 
 Pediatrics
@@ -73,14 +69,13 @@ Results of this study demonstrated efficacy of risperidone in both dose groups c
 The efficacy on the primary parameter in the 3 to 6 mg/day dose group was comparable to the 0.5 to 2.5 mg/day dose group.
 Doses higher than 2.5 mg/day did not reveal any trend towards greater efficacy.
 
-## 14.3 Bipolar Mania – Combination Therapy
+## 14.3 Bipolar Mania – Adjunctive Therapy with Lithium or Valproate
 
 The efficacy of risperidone with concomitant lithium or valproate in the treatment of acute manic or mixed episodes was established in one controlled trial in adult patients who met the DSM-IV criteria for Bipolar I Disorder.
 This trial included patients with or without psychotic features and with or without a rapid-cycling course.
 
 - (1) In this 3-week placebo-controlled combination trial, 148 in- or outpatients on lithium or valproate therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone, placebo, or an active comparator, in combination with their original therapy.
   Risperidone, in a dose range of 1 to 6 mg/day, once daily, starting at 2 mg/day (mean modal dose of 3.8 mg/day), combined with lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.4 mEq/L or 50 mcg/mL to 120 mcg/mL, respectively) was superior to lithium or valproate alone in the reduction of YMRS total score.
-
 - (2) In a second 3-week placebo-controlled combination trial, 142 in- or outpatients on lithium, valproate, or carbamazepine therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone or placebo, in combination with their original therapy.
   Risperidone, in a dose range of 1 to 6 mg/day, once daily, starting at 2 mg/day (mean modal dose of 3.7 mg/day), combined with lithium, valproate, or carbamazepine (in therapeutic ranges of 0.6 mEq/L to 1.4 mEq/L for lithium, 50 mcg/mL to 125 mcg/mL for valproate, or 4 to 12 mcg/mL for carbamazepine, respectively) was not superior to lithium, valproate, or carbamazepine alone in the reduction of YMRS total score.
   A possible explanation for the failure of this trial was induction of risperidone and 9-hydroxyrisperidone clearance by carbamazepine, leading to subtherapeutic levels of risperidone and 9-hydroxyrisperidone.
@@ -90,11 +85,11 @@ This trial included patients with or without psychotic features and with or with
 Short-Term Efficacy
 
 The efficacy of risperidone in the treatment of irritability associated with autistic disorder was established in two 8-week, placebo-controlled trials in children and adolescents (aged 5 to 16 years) who met the DSM-IV criteria for autistic disorder.
-Over 90% of these subjects were under 12 years of age and most weighed over 20 kg (16-104.3 kg).
+Over 90% of these subjects were under 12 years of age and most weighed over 20 kg (16 to 104.3 kg).
 
 Efficacy was evaluated using two assessment scales: the Aberrant Behavior Checklist (ABC) and the Clinical Global Impression - Change (CGI-C) scale.
 The primary outcome measure in both trials was the change from baseline to endpoint in the Irritability subscale of the ABC (ABC-I).
-The ABC-I subscale measured the emotional and behavioral symptoms of autism, including aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
+The ABC-I subscale measured the emotional and behavioral symptoms of autism, including aggression towards others, deliberate self-injuriousness, temper tantrums and quickly changing moods.
 The CGI-C rating at endpoint was a co-primary outcome measure in one of the studies.
 
 The results of these trials are as follows:
@@ -102,7 +97,26 @@ The results of these trials are as follows:
 - (1) In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n=101), aged 5 to 16 years, received twice daily doses of placebo or risperidone 0.5 to 3.5 mg/day on a weight-adjusted basis.
   Risperidone, starting at 0.25 mg/day or 0.5 mg/day depending on baseline weight (< 20 kg and ≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
 
-- (2) In the other 8-week, placebo-controlled trial in children with autistic disorder (n=55), aged 5 to 12 years, risperidone 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
+1. In the other 8-week, placebo-controlled trial in children with autistic disorder (n=55), aged 5 to 12 years, risperidone 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
+
+A third trial was a 6-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects (N=96) 5 to 17 years of age with autistic disorder (defined by DSM-IV criteria) and associated irritability and related behavioral symptoms.
+Approximately 77% of patients were younger than 12 years of age (mean age = 9), and 88% were male.
+Most patients (73%) weighed less than 45 kg (mean weight = 40 kg).
+Approximately 90% of patients were antipsychotic-naïve before entering the study.
+
+There were two weight-based, fixed doses of risperidone (high-dose and low-dose).
+The high dose was 1.25 mg per day for patients weighing 20 to < 45 kg, and it was 1.75 mg per day for patients weighing ≥ 45 kg.
+The low dose was 0.125 mg per day for patients weighing 20 to < 45 kg, and it was 0.175 mg per day for patients weighing ≥ 45 kg.
+The dose was administered once daily in the morning, or in the evening if sedation occurred.
+
+The primary efficacy endpoint was the mean change in the Aberrant Behavior Checklist -
+
+Irritability subscale (ABC-I) score from baseline to the end of Week 6.
+The study demonstrated the efficacy of high-dose risperidone, as measured by the mean change in ABC-I score.
+It did not demonstrate efficacy for low-dose risperidone.
+The mean baseline ABC-I scores were 29 in the placebo group (n = 35), 27 in the risperidone low-dose group (n = 30), and 28 in the risperidone high-dose group (n = 31).
+The mean changes in ABC-I scores were -3.5, -7.4 and -12.4 in the placebo, low-dose and high-dose group respectively.
+The results in the high-dose group were statistically significant (p< 0.001) but not in the low-dose group (p=0.164).
 
 Long-Term Efficacy
 

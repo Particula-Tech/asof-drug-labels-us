@@ -1,81 +1,68 @@
 # 7 DRUG INTERACTIONS
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- •
+- •
 
-## 7.1 Centrally-Acting Drugs and Alcohol
+## 7.1 Pharmacokinetic-related Interactions
 
-Given the primary CNS effects of risperidone, caution should be used when risperidone is taken in combination with other centrally-acting drugs and alcohol.
+The dose of risperidone should be adjusted when used in combination with CYP2D6 enzyme inhibitors (e.g., fluoxetine and paroxetine) and enzyme inducers (e.g., carbamazepine) [see Table 18 and Dosage and Administration (2.5)].
+Dose adjustment is not recommended for risperidone when co-administered with ranitidine, cimetidine, amitriptyline, or erythromycin [see Table 18].
 
-## 7.2 Drugs with Hypotensive Effects
+Table 18 Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperidone + 9-Hydroxy-Risperidone) in Healthy Subjects or Patients with Schizophrenia
 
-Because of its potential for inducing hypotension, risperidone may enhance the hypotensive effects of other therapeutic agents with this potential.
+|  | Coadministered Drug | Risperidone | AUC | Cmax |  |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dosing Schedule |  | Effect on Active Moiety(Risperidone + 9- Hydroxy- Risperidone (Ratio*) |  | Risperidone DoseRecommendation |
+| Enzyme (CYP2D6)Inhibitors |  |  |  |  |  |
+| Fluoxetine | 20 mg/day | 2 or 3 mg twice daily | 1.4 | 1.5 | Re-evaluate dosing. Donot exceed 8 mg/day |
+| Paroxetine | 10 mg/day | 4 mg/day | 1.3 | - |  |
+|  | 20 mg/day | 4 mg/day | 1.6 | - |  |
+|  | 40 mg/day | 4 mg/day | 1.8 | - | Re-evaluate dosing. Donot exceed 8 mg/day |
+| Enzyme (CYP3A/PgP inducers)Inducers |  |  |  |  |  |
+| Carbamazepine | 573 ± 168 mg/day | 3 mg twice daily | 0.51 | 0.55 | Titrate dose upwards.Do not exceed twice the patient’s usual dose |
+| Enzyme (CYP3A)Inhibitors |  |  |  |  |  |
+| Ranitidine | 150 mg twice daily | 1 mg single dose | 1.2 | 1.4 | Dose adjustment not needed |
+| Cimetidine | 400 mg twice daily | 1 mg single dose | 1.1 | 1.3 | Dose adjustment not needed |
+| Erythromycin | 500 mg four times daily | 1 mg single dose | 1.1 | 0.94 | Dose adjustment not needed |
+| Other Drugs |  |  |  |  |  |
+| Amitriptyline | 50 mg twice daily | 3 mg twice daily | 1.2 | 1.1 | Dose adjustment not needed |
 
-## 7.3 Levodopa and Dopamine Agonists
+*Change relative to reference
 
-Risperidone may antagonize the effects of levodopa and dopamine agonists.
+Effect of Risperidone on other drugs
 
-## 7.4 Amitriptyline
-
-Amitriptyline did not affect the pharmacokinetics of risperidone or risperidone and 9-hydroxyrisperidone combined.
-
-## 7.5 Cimetidine and Ranitidine
-
-Cimetidine and ranitidine increased the bioavailability of risperidone by 64% and 26%, respectively.
-However, cimetidine did not affect the AUC of risperidone and 9-hydroxyrisperidone combined, whereas ranitidine increased the AUC of risperidone and 9-hydroxyrisperidone combined by 20%.
-
-## 7.6 Clozapine
-
-Chronic administration of clozapine with risperidone may decrease the clearance of risperidone.
-
-## 7.7 Lithium
+Lithium
 
 Repeated oral doses of risperidone (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (n=13).
+Dose adjustment for lithium is not recommended.
 
-## 7.8 Valproate
+Valproate
 
 Repeated oral doses of risperidone (4 mg once daily) did not affect the pre-dose or average plasma concentrations and exposure (AUC) of valproate (1000 mg/day in three divided doses) compared to placebo (n=21).
 However, there was a 20% increase in valproate peak plasma concentration (Cmax) after concomitant administration of risperidone.
+Dose adjustment for valproate is not recommended.
 
-## 7.9 Digoxin
+Digoxin
 
 Risperidone (0.25 mg twice daily) did not show a clinically relevant effect on the pharmacokinetics of digoxin.
+Dose adjustment for valproate is not recommended.
 
-## 7.10 Drugs That Inhibit CYP 2D6 and Other CYP Isozymes
+## 7.2 Pharmacodynamic-related Interactions
 
-Risperidone is metabolized to 9-hydroxyrisperidone by CYP 2D6, an enzyme that is polymorphic in the population and that can be inhibited by a variety of psychotropic and other drugs [see Clinical Pharmacology (12.3)].
-Drug interactions that reduce the metabolism of risperidone to 9-hydroxyrisperidone would increase the plasma concentrations of risperidone and lower the concentrations of 9-hydroxyrisperidone.
-Analysis of clinical studies involving a modest number of poor metabolizers (n≅70) does not suggest that poor and extensive metabolizers have different rates of adverse effects.
-No comparison of effectiveness in the two groups has been made.
+Centrally-Acting Drugs and Alcohol
 
-In vitro studies showed that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
+Given the primary CNS effects of risperidone, caution should be used when risperidone is taken in combination with other centrally-acting drugs and alcohol.
 
-Fluoxetine and Paroxetine
+Drugs with Hypotensive Effects
 
-Fluoxetine (20 mg once daily) and paroxetine (20 mg once daily) have been shown to increase the plasma concentration of risperidone 2.5 to 2.8 fold and 3 to 9 fold, respectively.
-Fluoxetine did not affect the plasma concentration of 9-hydroxyrisperidone.
-Paroxetine lowered the concentration of 9-hydroxyrisperidone by about 10%.
-When either concomitant fluoxetine or paroxetine is initiated or discontinued, the physician should re-evaluate the dosing of risperidone.
-The effects of discontinuation of concomitant fluoxetine or paroxetine therapy on the pharmacokinetics of risperidone and 9-hydroxyrisperidone have not been studied.
+Because of its potential for inducing hypotension, risperidone may enhance the hypotensive effects of other therapeutic agents with this potential.
 
-Erythromycin
+Levodopa and Dopamine Agonists
 
-There were no significant interactions between risperidone and erythromycin.
+Risperidone may antagonize the effects of levodopa and dopamine agonists.
 
-## 7.11 Carbamazepine and Other Enzyme Inducers
+Clozapine
 
-Carbamazepine co-administration decreased the steady-state plasma concentrations of risperidone and 9-hydroxyrisperidone by about 50%.
-Plasma concentrations of carbamazepine did not appear to be affected.
-The dose of risperidone may need to be titrated accordingly for patients receiving carbamazepine, particularly during initiation or discontinuation of carbamazepine therapy.
-Coadministration of other known enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital) with risperidone may cause similar decreases in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone, which could lead to decreased efficacy of risperidone treatment.
+Chronic administration of clozapine with risperidone may decrease the clearance of
 
-## 7.12 Drugs Metabolized by CYP 2D6
-
-In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
-Therefore, risperidone is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
-In drug interaction studies, risperidone did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
+risperidone.
