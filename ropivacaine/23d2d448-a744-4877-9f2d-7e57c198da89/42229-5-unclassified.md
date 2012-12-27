@@ -30,7 +30,9 @@ If difficulty is encountered in the maintenance of a patent airway or if prolong
 
 The supine position is dangerous in pregnant women at term because of aortocaval compression by the gravid uterus.
 Therefore, during treatment of systemic toxicity, maternal hypotension or fetal bradycardia following regional block, the parturient should be maintained in the left lateral decubitus position if possible, or manual displacement of the uterus off the great vessels should be accomplished.
-Resuscitation of obstetrical patients may take longer than resuscitation of nonpregnant patients and closed-chest cardiac compression may be ineffective.
+Resuscitation of obstetrical patients may take longer than resuscitation of non-pregnant patients and closed-chest cardiac compression may be ineffective.
 Rapid delivery of the fetus may improve the response to resuscitative efforts.
 
-451112D/Revised: March 2012
+451112E
+
+Revised: November 2012

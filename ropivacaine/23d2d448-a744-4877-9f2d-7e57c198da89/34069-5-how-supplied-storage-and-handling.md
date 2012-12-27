@@ -4,11 +4,15 @@ Naropin® Single Dose Vials
 
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
-| 278513 | 63323-285-13 | 2 mg/mL (0.2%) | 10 mL single dose vial, in packages of 25. |
-| 278523 | 63323-285-23 | 2 mg/mL (0.2%) | 20 mL single dose vial, in packages of 25. |
-| 278623 | 63323-286-23 | 5 mg/mL (0.5%) | 20 mL single dose vial, in packages of 25. |
-| 278630 | 63323-286-30 | 5 mg/mL (0.5%) | 30 mL single dose vial packaged individually. |
-| 278631 | 63323-286-31 | 5 mg/mL (0.5%) | 30 mL single dose vials Sterile-Pak in boxes of 5. |
+| 278513 | 63323-285-13 | 2 mg/mL (0.2%) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
+| 278523 | 63323-285-23 | 2 mg/mL (0.2%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 278623 | 63323-286-23 | 5 mg/mL (0.5%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 278630 | 63323-286-30 | 5 mg/mL (0.5%) | 30 mL fill, in a 30 mL single dose vial packaged individually. |
+| 278631 | 63323-286-31 | 5 mg/mL (0.5%) | 30 mL fill, in a 30 mL single dose vials Sterile-Pak in boxes of 5. |
+| 278635 | 63323-286-35 | 5 mg/mL (0.5%) | 30 mL fill, in a 30 mL single dose vial, in packages of 25. |
+| 278721 | 63323-287-21 | 7.5 mg/mL (0.75%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 278811 | 63323-288-11 | 10 mg/mL (1%) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
+| 278821 | 63323-288-21 | 10 mg/mL (1%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
 
 Naropin® Single Dose Infusion Bottles
 
@@ -53,4 +57,4 @@ These products are intended for single use and are free from preservatives.
 Any solution remaining from an opened container should be discarded promptly.
 In addition, continuous infusion bottles should not be left in place for more than 24 hours.
 
-NAROPIN is a trademark of APP Pharmaceuticals, LLC.
+NAROPIN is a trademark of Fresenius Kabi USA, LLC.

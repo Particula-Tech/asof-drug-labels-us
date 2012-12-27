@@ -46,146 +46,98 @@ Sterile-Pak
 
 Contains Five Presterilized 10 mL Plastic Ampule Units
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Ampule Label
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 30 mL Single Dose Vial Label
 
-NDC 63323-286-20
+NDC 63323-286-35
 
-278620
+278635
 
-Naropin® (ropivacaine HCl) Injection
+Naropin® (ropivacaine HCl) Injection, USP
 
-0.5% (5 mg/mL)
-
-Not for Inhalation.
-
-20 mL ampule Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Ampule Lidding Label
-
-NDC 63323-286-20
-
-278620
-
-Naropin® (ropivacaine HCl) Injection
-
-0.5% (5 mg/mL)
+0.5% (150 mg/30 mL) (5 mg/mL)
 
 For Infiltration, Nerve Block, and Epidural Administration Only.
 Not for Intravenous Administration.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Ampule Carton Label
+30 mL Single Dose Vial Rx only
 
-NDC 63323-286-20
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 30 mL Single Dose Vial Carton Panel
 
-278620
+NDC 63323-286-35
 
-Naropin® (ropivacaine HCl) Injection
+278635
 
-0.5% (5 mg/mL)
+Naropin® (ropivacaine HCl) Injection, USP
+
+0.5% (150 mg/30 mL) (5 mg/mL)
 
 For Infiltration, Nerve Block, and Epidural Administration Only.
 Not for Intravenous Administration.
 
-Not for Inhalation.
-
 Rx only
 
-Sterile-Pak
+Twenty-five 30 mL Single Dose Vials
 
-Contains Five Presterilized 20 mL Plastic Ampule Units
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Vial Label
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Ampule Label
+NDC 63323-287-21
 
-NDC 63323-287-20
+278721
 
-278720
+Naropin® (ropivacaine HCl) Injection, USP
 
-Naropin® (ropivacaine HCl) Injection
+0.75% (150 mg/20 mL) (7.5 mg/mL)
 
-0.75% (7.5 mg/mL)
+For Nerve Block and Epidural Administration Only.
+Not forIntravenous Administration.
 
-Not for Inhalation.
+20 mL Single Dose Vial Rx only
 
-20 mL ampule Rx only
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Vial Carton Panel
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Ampule Lidding Label
+NDC 63323-287-21
 
-NDC 63323-287-20
+278721
 
-278720
+Naropin® (ropivacaine HCl) Injection, USP
 
-Naropin® (ropivacaine HCl) Injection
-
-0.75% (7.5 mg/mL)
+0.75% (150 mg/20 mL) (7.5 mg/mL)
 
 For Nerve Block and Epidural Administration Only.
 Not for Intravenous Administration.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Ampule Carton Label
-
-NDC 63323-287-20
-
-278720
-
-Naropin® (ropivacaine HCl) Injection
-
-0.75% (7.5 mg/mL)
-
-For Nerve Block and Epidural Administration Only.
-Not for Intravenous Administration.
-
-Not for Inhalation.
-
 Rx only
 
-Sterile-Pak
+Twenty-five 20 mL Single Dose Vials
 
-Contains Five Presterilized 20 mL Plastic Ampule Units
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 10 mL Single Dose Vial Label
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 10 mL Ampule Label
+NDC 63323-288-11
 
-NDC 63323-288-10
+278811
 
-278810
+Naropin® (ropivacaine HCl) Injection, USP
 
-Naropin® (ropivacaine HCl) Injection
-
-1% (10 mg/mL)
-
-Not for Inhalation.
-
-10 mL ampule Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 10 mL Ampule Lidding Label
-
-NDC 63323-288-10
-
-278810
-
-Naropin® (ropivacaine HCl) Injection
-
-1% (10 mg/mL)
+1% (100 mg/10 mL) (10 mg/mL)
 
 For Epidural Administration Only.
 Not for Intravenous Administration.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 10 mL Ampule Carton Label
+10 mL Single Dose Vial Rx only
 
-NDC 63323-288-10
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 10 mL Single Dose Vial Carton Panel
 
-278810
+NDC 63323-288-11
 
-Naropin® (ropivacaine HCl) Injection
+278811
 
-1% (10 mg/mL)
+Naropin® (ropivacaine HCl) Injection, USP
+
+1% (100 mg/10 mL) (10 mg/mL)
 
 For Epidural Administration Only.
 Not for Intravenous Administration.
 
-Not for Inhalation.
-
 Rx only
 
-Sterile-Pak
-
-Contains Five Presterilized 10 mL Plastic Ampule Units
+Twenty-five 10 mL Single Dose Vials
