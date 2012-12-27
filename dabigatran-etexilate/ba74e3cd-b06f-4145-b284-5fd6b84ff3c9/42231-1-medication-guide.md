@@ -64,6 +64,7 @@ Do not take PRADAXA if you:
   Talk to your doctor before taking PRADAXA if you currently have unusual bleeding.
 - have had a serious allergic reaction to PRADAXA.
   Ask your doctor if you are not sure.
+- have ever had or plan to have a valve in your heart replaced
 
 What should I tell my doctor before taking PRADAXA?
 
@@ -72,7 +73,6 @@ Before you take PRADAXA, tell your doctor if you:
 - have kidney problems
 - have ever had bleeding problems
 - have ever had stomach ulcers
-- have ever had or plan to have a valve in your heart replaced
 - have any other medical condition
 - are pregnant or plan to become pregnant.
   It is not known if PRADAXA will harm your unborn baby.
@@ -178,14 +178,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: November 2012
+Revised: December 2012
 
 The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
 Copyright 2012 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-08 IT5060QK052012
+75461-09 IT5060TL142012
 
-75457-08 IT5400N
+75457-09 IT5400R
 
-301841-03 IT5624C
+301841-04 IT5624F

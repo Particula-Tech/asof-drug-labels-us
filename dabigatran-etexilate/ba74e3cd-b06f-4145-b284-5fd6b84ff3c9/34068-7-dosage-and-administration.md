@@ -51,4 +51,4 @@ If possible, discontinue PRADAXA 1 to 2 days (CrCl ≥50 mL/min) or 3 to 5 days 
 Consider longer times for patients undergoing major surgery, spinal puncture, or placement of a spinal or epidural catheter or port, in whom complete hemostasis may be required [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 If surgery cannot be delayed, there is an increased risk of bleeding [see Warnings and Precautions (5.1)].
-This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.2)].
+This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.3)].

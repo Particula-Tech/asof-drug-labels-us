@@ -15,12 +15,21 @@ Activated prothrombin complex concentrates (aPCCs, e.g., FEIBA), or recombinant 
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of dabigatran.
 Consider administration of platelet concentrates in cases where thrombocytopenia is present or long-acting antiplatelet drugs have been used.
 
-## 5.2 Temporary Discontinuation of PRADAXA
+## 5.2 Thromboembolic and Bleeding Events in Patients with Prosthetic Heart Valves
+
+The safety and efficacy of PRADAXA in patients with bileaflet mechanical prosthetic heart valves was evaluated in the RE-ALIGN trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose adjusted warfarin or 150, 220, or 300 mg of PRADAXA twice a day.
+RE-ALIGN was terminated early due to the occurrence of significantly more thromboembolic events (valve thrombosis, stroke, transient ischemic attack, and myocardial infarction) and an excess of major bleeding (predominantly post-operative pericardial effusions requiring intervention for hemodynamic compromise) in the PRADAXA treatment arm as compared to the warfarin treatment arm.
+These bleeding and thromboembolic events were seen both in patients who were initiated on PRADAXA post-operatively within three days of mechanical bileaflet valve implantation, as well as in patients whose valves had been implanted more than three months prior to enrollment.
+Therefore, the use of PRADAXA is contraindicated in patients with mechanical prosthetic valves [see Contraindications (4)].
+
+The use of PRADAXA for the prophylaxis of thromboembolic events in patients with atrial fibrillation in the setting of other forms of valvular heart disease, including the presence of a bioprosthetic heart valve, has not been studied and is not recommended.
+
+## 5.3 Temporary Discontinuation of PRADAXA
 
 Discontinuing anticoagulants, including PRADAXA, for active bleeding, elective surgery, or invasive procedures, places patients at an increased risk of stroke.
 Minimize lapses in therapy.
 
-## 5.3 Effect of P-gp Inducers and Inhibitors on Dabigatran Exposure
+## 5.4 Effect of P-gp Inducers and Inhibitors on Dabigatran Exposure
 
 The concomitant use of PRADAXA with P-gp inducers (e.g. rifampin) reduces exposure to dabigatran and should generally be avoided [see Clinical Pharmacology (12.3)].
 
@@ -29,8 +38,3 @@ Concomitant use of P-gp inhibitors in patients with renal impairment is expected
 
 Consider reducing the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min).
 Avoid use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) [see Drug Interactions (7) and Use in Specific Populations (8.6)].
-
-## 5.4 Patients with Prosthetic Heart Valves
-
-The safety and efficacy of PRADAXA has not been studied in patients with prosthetic heart valves.
-Therefore, use of PRADAXA is not recommended in these patients.

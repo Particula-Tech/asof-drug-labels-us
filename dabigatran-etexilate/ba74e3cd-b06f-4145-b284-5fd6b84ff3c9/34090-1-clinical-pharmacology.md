@@ -97,7 +97,7 @@ Impact of Other Drugs on Dabigatran
 P-gp Inducers
 
 Rifampin: Rifampin 600 mg once daily for 7 days followed by a single dose of dabigatran decreased its AUC and Cmax by 66% and 67%, respectively.
-By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to normal [see Warnings and Precautions (5.3) and Drug Interactions (7)].
+By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to normal [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
 P-gp Inhibitors
 

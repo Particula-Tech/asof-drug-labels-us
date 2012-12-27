@@ -7,6 +7,6 @@ Concomitant use of P-gp inhibitors in patients with renal impairment is expected
 
 In patients with moderate renal impairment (CrCl 30-50 mL/min), consider reducing the dose of PRADAXA to 75 mg twice daily when administered concomitantly with the P-gp inhibitor dronedarone or systemic ketoconazole.
 The use of P-gp inhibitors (verapamil, amiodarone, quinidine, and clarithromycin) does not require a dose adjustment of PRADAXA.
-These results should not be extrapolated to other P-gp inhibitors [see Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+These results should not be extrapolated to other P-gp inhibitors [see Warnings and Precautions (5.4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-The concomitant use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) should be avoided [see Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+The concomitant use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) should be avoided [see Warnings and Precautions (5.4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].

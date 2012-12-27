@@ -37,4 +37,4 @@ No dose adjustment of PRADAXA is recommended in patients with mild or moderate r
 Reduce the dose of PRADAXA in patients with severe renal impairment (CrCl 15-30 mL/min) [see Dosage and Administration (2.1, 2.2) and Clinical Pharmacology (12.3)].
 Dosing recommendations for patients with CrCl <15 mL/min or on dialysis cannot be provided.
 
-Adjust dose appropriately in patients with renal impairment receiving concomitant P-gp inhibitors [see Warnings and Precautions (5.3), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Adjust dose appropriately in patients with renal impairment receiving concomitant P-gp inhibitors [see Warnings and Precautions (5.4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
