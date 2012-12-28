@@ -3,7 +3,7 @@
 Allergic sensitization has been reported following both oral and parenteral administration of folic acid.
 
 Folic acid is relatively nontoxic in man.
-Rare instances of allergic responses to folic acid preparations have been report ed and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm.
+Rare instances of allergic responses to folic acid preparations have been reported and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm.
 One patient experienced symptoms suggesting anaphylaxis following injection of the drug.
 Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month.
 Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment.

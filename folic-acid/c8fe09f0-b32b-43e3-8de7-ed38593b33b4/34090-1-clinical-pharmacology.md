@@ -19,8 +19,8 @@ Normal serum levels of total folate have been reported to be 5 to 15 ng/mL; norm
 Normal erythrocyte folate levels have been reported to range from 175 to 316 ng/mL.
 In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia.
 
-After a single oral dose of 100 μg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine.
-An oral dose of 5 mg in 1 study and a dose of 40 μg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine.
+After a single oral dose of 100 mcg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine.
+An oral dose of 5 mg in 1 study and a dose of 40 mcg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine.
 After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine.
 A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours.
 Small amounts of orally administered folic acid have also been recovered in the feces.

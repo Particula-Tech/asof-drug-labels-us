@@ -1,5 +1,3 @@
-Rx Only
-
 Manufactured by:
 
 Amneal Pharmaceuticals
@@ -13,4 +11,4 @@ Amneal Pharmaceuticals
 Glasgow, KY 42141
 
 Rev.
-5-2009
+12-2012
