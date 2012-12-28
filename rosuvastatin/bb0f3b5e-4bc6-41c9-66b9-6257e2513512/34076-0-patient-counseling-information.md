@@ -32,7 +32,7 @@ Wilmington, DE 19850
 ASTRAZENECA
 
 Rev.
-October 2012
+December 2012
 
 PATIENT INFORMATION
 
@@ -236,4 +236,4 @@ Wilmington, DE 19850
 ASTRAZENECA
 
 Rev.
-October 2012
+December 2012

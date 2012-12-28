@@ -24,15 +24,28 @@ Adjustments should be made at intervals of 4 weeks or more.
 The recommended starting dose of CRESTOR is 20 mg once daily.
 Response to therapy should be estimated from preapheresis LDL-C levels.
 
-## 2.4 Dosage in Asian Patients
+## 2.4 Dosing in Asian Patients
 
-Initiation of CRESTOR therapy with 5 mg once daily should be considered for Asian patients [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
+In Asian patients, consider initiation of CRESTOR therapy with 5 mg once daily due to increased rosuvastatin plasma concentrations.
+The increased systemic exposure should be taken into consideration when treating Asian patients not adequately controlled at doses up to 20 mg/day.
+[see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
 
-## 2.5 Use with Cyclosporine, Lopinavir/Ritonavir or Atazanavir/Ritonavir
+## 2.5 Use with Concomitant Therapy
 
-In patients taking cyclosporine, the dose of CRESTOR should be limited to 5 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
-In patients taking a combination of lopinavir and ritonavir or atazanavir and ritonavir, the dose of CRESTOR should be limited to 10 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.3)].
+Patients taking cyclosporine
 
-## 2.6 Dosage in Patients With Severe Renal Impairment
+The dose of CRESTOR should not exceed 5 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
+
+Patients taking gemfibrozil
+
+Initiate CRESTOR therapy with 5 mg once daily.
+The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
+
+Patients taking lopinavir and ritonavir or atazanavir and ritonavir
+
+Initiate CRESTOR therapy with 5 mg once daily.
+The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
+
+## 2.6 Dosing in Patients with Severe Renal Impairment
 
 For patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) not on hemodialysis, dosing of CRESTOR should be started at 5 mg once daily and not exceed 10 mg once daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

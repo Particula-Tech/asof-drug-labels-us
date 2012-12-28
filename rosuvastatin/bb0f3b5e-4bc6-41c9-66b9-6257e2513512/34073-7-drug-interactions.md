@@ -2,20 +2,20 @@
 
 ## 7.1 Cyclosporine
 
-Cyclosporine significantly increased rosuvastatin exposure.
-Therefore, in patients taking cyclosporine, therapy should be limited to CRESTOR 5 mg once daily [see Dosage and Administration (2.5), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+Cyclosporine increased rosuvastatin exposure (AUC) 7-fold.
+Therefore, in patients taking cyclosporine, the dose of CRESTOR should not exceed 5 mg once daily [see Dosage and Administration (2.5), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 7.2 Gemfibrozil
 
 Gemfibrozil significantly increased rosuvastatin exposure.
-Therefore, combination therapy with CRESTOR and gemfibrozil should be avoided.
-If used, do not exceed CRESTOR 10 mg once daily [see Clinical Pharmacology (12.3)].
+Due to an observed increased risk of myopathy/rhabdomyolysis, combination therapy with CRESTOR and gemfibrozil should be avoided.
+If used together, the dose of CRESTOR should not exceed 10 mg once daily [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Protease Inhibitors
 
 Coadministration of rosuvastatin with certain protease inhibitors given in combination with ritonavir has differing effects on rosuvastatin exposure.
-The protease inhibitor combinations lopinavir/ritonavir and atazanavir/ritonavir increase rosuvastatin exposure (AUC) up to threefold [see Table 3 – Clinical Pharmacology (12.3)].
-For these combinations the dose of CRESTOR should be limited to 10 mg.
+The protease inhibitor combinations lopinavir/ritonavir and atazanavir/ritonavir increase rosuvastatin exposure (AUC) up to threefold [see Table 4 – Clinical Pharmacology (12.3)].
+For these combinations the dose of CRESTOR should not exceed 10 mg once daily.
 The combinations of tipranavir/ritonavir or fosamprenavir/ritonavir produce little or no change in rosuvastatin exposure.
 Caution should be exercised when rosuvastatin is coadministered with protease inhibitors given in combination with ritonavir [see Dosage and Administration (2.5), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
