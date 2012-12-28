@@ -2,14 +2,22 @@
 
 The principal adverse reactions of cyclosporine therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
 
+Hypertension
+
 Hypertension, which is usually mild to moderate, may occur in approximately 50% of patients following renal transplantation and in most cardiac transplant patients.
+
+Glomerular Capillary Thrombosis
 
 Glomerular capillary thrombosis has been found in patients treated with cyclosporine and may progress to graft failure.
 The pathologic changes resemble those seen in the hemolytic-uremic syndrome and include thrombosis of the renal microvasculature, with platelet-fibrin thrombi occluding glomerular capillaries and afferent arterioles, microangiopathic hemolytic anemia, thrombocytopenia, and decreased renal function.
 Similar findings have been observed when other immunosuppressives have been employed posttransplantation.
 
+Hypomagnesemia
+
 Hypomagnesemia has been reported in some, but not all, patients exhibiting convulsions while on cyclosporine therapy.
 Although magnesium-depletion studies in normal subjects suggest that hypomagnesemia is associated with neurologic disorders, multiple factors, including hypertension, high-dose methylprednisolone, hypocholesterolemia, and nephrotoxicity associated with high plasma concentrations of cyclosporine appear to be related to the neurological manifestations of cyclosporine toxicity.
+
+Clinical Studies
 
 The following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants:
 
@@ -89,5 +97,15 @@ Fatal outcomes have been reported (see WARNINGS).
 
 ## Postmarketing Experience
 
-BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including cyclosporine.
-This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (see WARNINGS).
+Hepatotoxicity
+
+Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS/ Hepatotoxicity).
+
+Increased Risk of Infections
+
+Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS/Polyoma Virus Infection).
+
+Headache, including Migraine
+
+Cases of migraine have been reported.
+In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.

@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
 There is a minimal experience with overdosage.
-Because of the slow absorption of Cyclosporine Capsules, USP NON-MODIFIED, forced emesis and gastric lavage would be of value up to 2 hours after administration.
+Because of the slow absorption of cyclosporine, forced emesis and gastric lavage would be of value up to 2 hours after administration.
 Transient hepatotoxicity and nephrotoxicity may occur which should resolve following drug withdrawal.
 Oral doses of cyclosporine up to 10 g (about 150 mg/kg) have been tolerated with relatively minor clinical consequences, such as vomiting, drowsiness, headache, tachycardia and, in a few patients, moderately severe, reversible impairment of renal function.
 
