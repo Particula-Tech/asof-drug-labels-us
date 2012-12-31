@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA200740"
+  ],
+  "inn": "cysteamine",
+  "labeler": "Sigma-Tau Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "54482-020-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "cysteamine hydrochloride",
+      "name": "CYSTARAN"
+    }
+  ],
+  "setid": "b98ee838-ed23-42a9-93b5-72579e490fba",
+  "source": "dailymed"
+}

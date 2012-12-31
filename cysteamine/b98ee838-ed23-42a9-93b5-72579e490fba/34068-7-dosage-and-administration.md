@@ -1,0 +1,7 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Instill one drop of CYSTARAN in each eye, every waking hour.
+
+Do not touch dropper tip to any surface, as this may contaminate the solution.
+
+Discard after 1 week of use.
