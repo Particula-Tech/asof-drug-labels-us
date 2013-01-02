@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA076436"
+  ],
+  "inn": "finasteride",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-171-05",
+    "55111-171-18",
+    "55111-171-30",
+    "55111-171-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "finasteride",
+      "name": "Finasteride"
+    }
+  ],
+  "setid": "fa19372d-027d-a91b-f58e-1bdb8fd7e2b6",
+  "source": "dailymed"
+}
