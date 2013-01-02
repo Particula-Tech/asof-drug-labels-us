@@ -6,7 +6,7 @@ Mirtazapine Tablets, USP 15 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
 Each film-coated tablet contains: Mirtazapine, USP 15 mg
 
@@ -25,9 +25,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM3515H7
+RM3515H8
 
 PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -37,7 +37,7 @@ Mirtazapine Tablets, USP 30 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
 Each film-coated tablet contains: Mirtazapine, USP 30 mg
 
@@ -56,9 +56,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM3530H7
+RM3530H8
 
 PRINCIPAL DISPLAY PANEL - 45 mg
 
@@ -68,7 +68,7 @@ Mirtazapine Tablets, USP 45 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
 Each film-coated tablet contains: Mirtazapine, USP 45 mg
 
@@ -87,6 +87,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM3545H7
+RM3545H8

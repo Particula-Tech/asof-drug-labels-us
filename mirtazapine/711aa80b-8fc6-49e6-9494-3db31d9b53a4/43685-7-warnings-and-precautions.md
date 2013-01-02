@@ -11,7 +11,7 @@ Short-term studies did not show an increase in the risk of suicidality with anti
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
+There were differences in absolute risk of suicidality across different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
@@ -59,16 +59,23 @@ All three patients recovered after mirtazapine was stopped.
 These three cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1,000.
 If a patient develops a sore throat, fever, stomatitis or other signs of infection, along with a low WBC count, treatment with mirtazapine should be discontinued and the patient should be closely monitored.
 
-## MAO Inhibitors
-
-In patients receiving other drugs for major depressive disorder in combination with a monoamine oxidase inhibitor (MAOI) and in patients who have recently discontinued a drug for major depressive disorder and then are started on an MAOI, there have been reports of serious, and sometimes fatal reactions, including nausea, vomiting, flushing, dizziness, tremor, myoclonus, rigidity, diaphoresis, hyperthermia, autonomic instability with rapid fluctuations of vital signs, seizures, and mental status changes ranging from agitation to coma.
-Although there are no human data pertinent to such an interaction with mirtazapine tablets, it is recommended that mirtazapine not be used in combination with an MAOI, or within 14 days of initiating or discontinuing therapy with an MAOI.
-
 ## Serotonin Syndrome
 
-On rare occasions serotonin syndrome has occurred in association with treatment of mirtazapine tablets, particularly when given in combination with other serotonergic drugs.
-As serotonin syndrome may result in potentially life threatening conditions, treatment with mirtazapine should be discontinued if patients develop a combination of symptoms possibly including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, mental status changes including confusion, irritability, extreme agitation progressing to delirium and coma, and supportive symptomatic treatment should be initiated.
-Due to the risk of serotonin syndrome, mirtazapine should not be used in combination with MAO inhibitors or serotonin-precursors (such as L-tryptophan and oxitriptan) and should be used with caution in patients receiving other serotonergic drugs (e.g., triptans, lithium, tramadol, St. John’s wort, and most tricyclic antidepressants) (CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions).
+The development of a potentially life threatening serotonin syndrome has been reported with SNRIs and SSRIs, including mirtazapine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone and St. John's wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
+
+The concomitant use of mirtazapine with MAOIs intended to treat psychiatric disorders is contraindicated.
+Mirtazapine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking mirtazapine.
+Mirtazapine should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+
+If concomitant use of mirtazapine with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's wort, is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+
+Treatment with mirtazapine and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
 
@@ -99,7 +106,7 @@ Caution should be exercised in patients at risk, such as elderly patients or pat
 In U.S. controlled studies, somnolence was reported in 54% of patients treated with mirtazapine tablets, compared to 18% for placebo and 60% for amitriptyline.
 In these studies, somnolence resulted in discontinuation for 10.4% of mirtazapine-treated patients, compared to 2.2% for placebo.
 It is unclear whether or not tolerance develops to the somnolent effects of mirtazapine.
-Because of the potentially significant effects of mirtazapine on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug’s effect on their own psychomotor performance (see Information for Patients).
+Because of the potentially significant effects of mirtazapine on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug’s effect on their own psychomotor performance (see PRECAUTIONS: Information for Patients).
 
 ### Dizziness
 
@@ -132,7 +139,7 @@ Although the incidence of mania/hypomania was very low during treatment with mir
 
 ### Seizure
 
-In premarketing clinical trials only one seizure was reported among the 2,796 U.S. and non-U.S. patients treated with mirtazapine.
+In premarketing clinical trials, only one seizure was reported among the 2,796 U.S. and non-U.S. patients treated with mirtazapine.
 However, no controlled studies have been carried out in patients with a history of seizures.
 Therefore, care should be exercised when mirtazapine is used in these patients.
 
@@ -186,6 +193,8 @@ While patients may notice improvement with mirtazapine therapy in 1 to 4 weeks, 
 
 Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs since there is a potential for mirtazapine to interact with other drugs.
 
+Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of mirtazapine with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
+
 ### Alcohol
 
 The impairment of cognitive and motor skills produced by mirtazapine has been shown to be additive with those produced by alcohol.
@@ -213,7 +222,7 @@ As with other drugs, the potential for interaction by a variety of mechanisms (e
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of mirtazapine and the potential for serotonin syndrome, caution is advised when mirtazapine tablets are coadministered with other drugs or agents that may affect the serotonergic neurotransmitter systems, such as tryptophan, triptans, linezolid, serotonin reuptake inhibitors, venlafaxine, lithium, tramadol, or St. John's wort (see CONTRAINDICATIONS and WARNINGS).
+(See CONTRAINDICATIONS and WARNINGS.)
 
 ### Drugs Affecting Hepatic Metabolism
 
@@ -225,12 +234,12 @@ The metabolism and pharmacokinetics of mirtazapine tablets may be affected by th
 
 ##### Phenytoin
 
-In healthy male patients (n=18), phenytoin (200 mg daily) increased mirtazapine (30 mg daily) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45%.
+In healthy male patients (n = 18), phenytoin (200 mg daily) increased mirtazapine (30 mg daily) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45%.
 Mirtazapine did not significantly affect the pharmacokinetics of phenytoin.
 
 ##### Carbamazepine
 
-In healthy male patients (n=24), carbamazepine (400 mg b.i.d.) increased mirtazapine (15 mg b.i.d.) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60%.
+In healthy male patients (n = 24), carbamazepine (400 mg b.i.d.) increased mirtazapine (15 mg b.i.d.) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60%.
 
 When phenytoin, carbamazepine, or another inducer of hepatic metabolism (such as rifampicin) is added to mirtazapine therapy, the mirtazapine dose may have to be increased.
 If treatment with such a medicinal product is discontinued, it may be necessary to reduce the mirtazapine dose.
@@ -239,31 +248,30 @@ If treatment with such a medicinal product is discontinued, it may be necessary 
 
 ##### Cimetidine
 
-In healthy male patients (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady-state was coadministered with mirtazapine (30 mg daily) at steady-state, the Area Under the Curve (AUC) of mirtazapine increased more than 50%.
+In healthy male patients (n = 12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady-state was coadministered with mirtazapine (30 mg daily) at steady-state, the Area Under the Curve (AUC) of mirtazapine increased more than 50%.
 Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine.
 The mirtazapine dose may have to be decreased when concomitant treatment with cimetidine is started, or increased when cimetidine treatment is discontinued.
 
 ##### Ketoconazole
 
-In healthy, male, Caucasian patients (n=24), coadministration of the potent CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30-mg dose of mirtazapine by approximately 40% and 50%, respectively.
+In healthy, male, Caucasian patients (n = 24), coadministration of the potent CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30-mg dose of mirtazapine by approximately 40% and 50%, respectively.
 
 Caution should be exercised when coadministering mirtazapine with potent CYP3A4 inhibitors, HIV protease inhibitors, azole antifungals, erythromycin, or nefazodone.
 
 ##### Paroxetine
 
-In an in vivo interaction study in healthy, CYP2D6 extensive metabolizer patients (n=24), mirtazapine (30 mg/day), at steady-state, did not cause relevant changes in the pharmacokinetics of steady-state paroxetine (40 mg/day), a CYP2D6 inhibitor.
+In an in vivo interaction study in healthy, CYP2D6 extensive metabolizer patients (n = 24), mirtazapine (30 mg/day), at steady-state, did not cause relevant changes in the pharmacokinetics of steady-state paroxetine (40 mg/day), a CYP2D6 inhibitor.
 
 ### Other Drug-Drug Interactions
 
 #### Amitriptyline
 
-In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady-state, did not cause relevant changes in the pharmacokinetics of steady-state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
+In healthy, CYP2D6 extensive metabolizer patients (n = 32), amitriptyline (75 mg daily), at steady-state, did not cause relevant changes in the pharmacokinetics of steady-state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
 
 #### Warfarin
 
-In healthy male subjects (n=16), mirtazapine (30 mg daily), at steady-state, caused a small (0.2) but statistically significant increase in the International Normalized Ratio (INR) in subjects treated with warfarin.
-As at a higher dose of mirtazapine, a more pronounced effect can not be excluded.
-It is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
+In healthy male subjects (n = 16), mirtazapine (30 mg daily), at steady-state, caused a small (0.2) but statistically significant increase in the International Normalized Ratio (INR) in subjects treated with warfarin.
+As at a higher dose of mirtazapine, a more pronounced effect can not be excluded, it is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
 
 #### Lithium
 
@@ -272,7 +280,7 @@ The effects of higher doses of lithium on the pharmacokinetics of mirtazapine ar
 
 #### Risperidone
 
-In an in vivo, nonrandomized, interaction study, subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug, showed that mirtazapine (30 mg daily) at steady-state did not influence the pharmacokinetics of risperidone (up to 3 mg b.i.d.).
+In an in vivo, nonrandomized, interaction study, subjects (n = 6) in need of treatment with an antipsychotic and antidepressant drug, showed that mirtazapine (30 mg daily) at steady-state did not influence the pharmacokinetics of risperidone (up to 3 mg b.i.d.).
 
 ### Alcohol
 
@@ -294,7 +302,7 @@ Carcinogenicity studies were conducted with mirtazapine given in the diet at dos
 The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day on a mg/m2 basis in mice and rats, respectively.
 There was an increased incidence of hepatocellular adenoma and carcinoma in male mice at the high dose.
 In rats, there was an increase in hepatocellular adenoma in females at the mid and high doses and in hepatocellular tumors and thyroid follicular adenoma/cystadenoma and carcinoma in males at the high dose.
-The data suggest that the above effects could possibly be mediated by non genotoxic mechanisms, the relevance of which to humans is not known.
+The data suggest that the above effects could possibly be mediated by non-genotoxic mechanisms, the relevance of which to humans is not known.
 
 The doses used in the mouse study may not have been high enough to fully characterize the carcinogenic potential of mirtazapine.
 
@@ -309,31 +317,28 @@ Mating and conception were not affected by the drug, but estrous cycling was dis
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category C
+### Teratogenic Effects. Pregnancy Category C
 
 Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively (20 and 17 times the maximum recommended human dose (MRHD) on a mg/m2 basis, respectively), have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in post implantation losses in dams treated with mirtazapine.
 There was an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights.
 The cause of these deaths is not known.
-These effects occurred at doses that were 20 times the MRHD, but not at 3 times the MRHD, on a mg/m2 basis.
+The effects occurred at doses that were 20 times the MRHD, but not at 3 times the MRHD, on a mg/m2 basis.
 There are no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers
 
-It is not known whether mirtazapine is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when mirtazapine tablets are administered to nursing women.
+Because some mirtazapine may be excreted into breast milk, caution should be exercised when mirtazapine tablets are administered to nursing women.
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of mirtazapine in a child or adolescent must balance the potential risks with the clinical need.
 
 In an 8-week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
-The mean increase in weight was 4 kg (2 kg SD) for mirtazapine-treated patients versus 1 kg (2 kg SD) for placebo-treated patients (see PRECAUTIONS: Increased Appetite/Weight Gain).
+The mean increase in weight was 4 kg (2 kg SD) for mirtazapine-treated patients vs. 1 kg (2 kg SD) for placebo-treated patients (see PRECAUTIONS: Increased Appetite/Weight Gain).
 
 ## Geriatric Use
 
