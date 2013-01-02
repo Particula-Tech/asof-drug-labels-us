@@ -29,8 +29,8 @@ QT prolongation with the oral dosing regimens for CINV and PONV are not expected
 
 Absorption
 
-Following oral administration of a single 40 mg dose of EMEND in the fasted state, mean area under the plasma concentration-time curve (AUC0‑∞) was 7.8 mcg•hr/mL and mean peak plasma concentration (Cmax) was 0.7 mcg/mL, occurring at approximately 3 hours postdose (Tmax).
-The absolute bioavailability at the 40‑mg dose has not been determined.
+Following oral administration of a single 40-mg dose of EMEND in the fasted state, mean area under the plasma concentration-time curve (AUC0‑∞) was 7.8 mcg•hr/mL and mean peak plasma concentration (Cmax) was 0.7 mcg/mL, occurring at approximately 3 hours postdose (Tmax).
+The absolute bioavailability at the 40-mg dose has not been determined.
 
 Following oral administration of a single 125-mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3, the AUC0-24hr was approximately 19.6 mcg•hr/mL and 21.2 mcg•hr/mL on Day 1 and Day 3, respectively.
 The Cmax of 1.6 mcg/mL and 1.4 mcg/mL were reached in approximately 4 hours (Tmax) on Day 1 and Day 3, respectively.
@@ -38,7 +38,7 @@ At the dose range of 80-125 mg, the mean absolute oral bioavailability of aprepi
 Oral administration of the capsule with a standard high-fat breakfast had no clinically meaningful effect on the bioavailability of aprepitant.
 
 The pharmacokinetics of aprepitant are non-linear across the clinical dose range.
-In healthy young adults, the increase in AUC0‑∞ was 26% greater than dose proportional between 80‑mg and 125‑mg single doses administered in the fed state.
+In healthy young adults, the increase in AUC0‑∞ was 26% greater than dose proportional between 80-mg and 125-mg single doses administered in the fed state.
 
 Distribution
 
@@ -99,7 +99,7 @@ No dosage adjustment is necessary based on BMI.
 
 Hepatic Insufficiency
 
-Following administration of a single 125‑mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3 to patients with mild hepatic impairment (Child-Pugh score 5 to 6), the AUC0-24hr of aprepitant was 11% lower on Day 1 and 36% lower on Day 3, as compared with healthy subjects given the same regimen.
+Following administration of a single 125-mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3 to patients with mild hepatic impairment (Child-Pugh score 5 to 6), the AUC0-24hr of aprepitant was 11% lower on Day 1 and 36% lower on Day 3, as compared with healthy subjects given the same regimen.
 In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), the AUC0-24hr of aprepitant was 10% higher on Day 1 and 18% higher on Day 3, as compared with healthy subjects given the same regimen.
 These differences in AUC0‑24hr are not considered clinically meaningful; therefore, no dosage adjustment is necessary in patients with mild to moderate hepatic impairment.
 

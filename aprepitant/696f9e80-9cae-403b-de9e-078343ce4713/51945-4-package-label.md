@@ -1,12 +1,12 @@
-PRINCIPAL DISPLAY PANEL - BiPack 80 mg
+PRINCIPAL DISPLAY PANEL - BiPack 80-mg
 
 NDC 0006-0461-02
 
 BiPack 2 capsules
 
-80 mg
-
 EMEND® (aprepitant) capsules
+
+80 mg
 
 You have already been given a dose of EMEND (fosaprepitant dimeglumine) for Injection or an EMEND (aprepitant) capsule to prevent nausea and vomiting before your chemotherapy on Day 1.
 
@@ -20,9 +20,9 @@ Rx only
 
 Keep this and all drugs out of the reach of children.
 
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+MERCK & CO., INC.,
 
-PRINCIPAL DISPLAY PANEL - Carton 125 mg
+PRINCIPAL DISPLAY PANEL - Carton 125-mg
 
 NDC 0006-0462-06
 
@@ -32,29 +32,27 @@ EMEND® (APREPITANT) CAPSULES
 
 Each capsule contains 125 mg aprepitant.
 
-Store at 20-25ºC (68-77ºF) [see USP Controlled Room Temperature].
-
+Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
 USUAL ADULT DOSAGE: See accompanying circular.
 
 Rx only
 
 This is a bulk package and not intended for dispensing.
-
 Package not child resistant.
+
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA Manuf. by: Elan Pharma International, Ltd., Athlone, Ireland Formulated in Ireland
 
 6 capsules
 
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-PRINCIPAL DISPLAY PANEL - TriPack 125 mg and 80 mg
+PRINCIPAL DISPLAY PANEL - TriPack 125-mg and 80-mg
 
 NDC 0006-3862-03
 
 TriPack 3 capsules
 
-125 mg | 80 mg
-
 EMEND® (aprepitant) capsules
+
+125 mg 80 mg
 
 One 125-mg capsule contains 125 mg aprepitant.
 
@@ -66,9 +64,9 @@ Rx only
 
 Keep this and all drugs out of the reach of children.
 
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+MERCK & CO., INC.,
 
-PRINCIPAL DISPLAY PANEL - Carton 40 mg
+PRINCIPAL DISPLAY PANEL - Carton 40-mg
 
 NDC 0006-0464-05
 
@@ -81,9 +79,8 @@ Each capsule contains 40 mg aprepitant.
 Rx only
 
 This is a bulk package and not intended for dispensing.
-
 Package not child resistant.
 
-5 Capsules
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA Manuf. by: Elan Pharma International, Ltd., Athlone, Ireland Formulated in Ireland
 
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+5 Capsules

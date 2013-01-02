@@ -18,8 +18,8 @@ Table 5: Treatment Regimens in Highly Emetogenic Chemotherapy Trials
 
 | Treatment Regimen | Day 1 | Days 2 to 4 |
 | --- | --- | --- |
-| Aprepitant | Aprepitant 125 mg PO Dexamethasone 12 mg PO Ondansetron 32 mg I.V. | Aprepitant 80 mg PO Daily (Days 2 and 3 only) Dexamethasone 8 mg PO Daily (morning) |
-| Standard Therapy | Dexamethasone 20 mg PO Ondansetron 32 mg I.V. | Dexamethasone 8 mg PO Daily (morning) Dexamethasone 8 mg PO Daily (evening) |
+| Aprepitant | Aprepitant 125 mg PO Dexamethasone 12 mg PO 5-HT3 antagonistOndansetron 32 mg I.V. was used in the clinical trials of EMEND. Although this dose was used in clinical trials, this is no longer the currently recommended dose. Refer to the ondansetron package insert for the current dosing. | Aprepitant 80 mg PO Daily (Days 2 and 3 only) Dexamethasone 8 mg PO Daily (morning) |
+| Standard Therapy | Dexamethasone 20 mg PO 5-HT3 antagonist | Dexamethasone 8 mg PO Daily (morning) Dexamethasone 8 mg PO Daily (evening) |
 | Aprepitant placebo and dexamethasone placebo were used to maintain blinding. |  |  |
 
 During these studies, 95% of the patients in the aprepitant group received a concomitant chemotherapeutic agent in addition to protocol-mandated cisplatin.
@@ -119,7 +119,7 @@ The antiemetic activity of EMEND was evaluated based on the following endpoints:
 
 Primary endpoint:
 
-Complete response (defined as no emetic episodes and no use of rescue therapy) in the overall phase (0 to 120 hours post-chemotherapy)
+- complete response (defined as no emetic episodes and no use of rescue therapy) in the overall phase (0 to 120 hours post-chemotherapy)
 
 Other prespecified endpoints:
 
@@ -186,14 +186,14 @@ A similar difference for gender was observed for the no vomiting endpoint.
 ## 14.2 Prevention of Postoperative Nausea and Vomiting (PONV)
 
 In two multicenter, randomized, double-blind, active comparator-controlled, parallel-group clinical studies (PONV Studies 1 and 2), aprepitant was compared with ondansetron for the prevention of postoperative nausea and vomiting in 1658 patients undergoing open abdominal surgery.
-Patients were randomized to receive 40 mg aprepitant, 125 mg aprepitant, or 4 mg ondansetron.
+Patients were randomized to receive 40-mg aprepitant, 125-mg aprepitant, or 4-mg ondansetron.
 Aprepitant was given orally with 50 mL of water 1 to 3 hours before anesthesia.
 Ondansetron was given intravenously immediately before induction of anesthesia.
-A comparison between the 125 mg dose and the 40 mg dose did not demonstrate any additional clinical benefit.
-The remainder of this section will focus on the results in the 40 mg aprepitant dose recommended for PONV.
+A comparison between the 125-mg dose and the 40-mg dose did not demonstrate any additional clinical benefit.
+The remainder of this section will focus on the results in the 40-mg aprepitant dose recommended for PONV.
 
-Of the 564 patients who received 40 mg aprepitant, 92% were women and 8% were men; of these, 58% were White, 13% Hispanic American, 7% Multi-Racial, 14% Black, 6% Asian, and 2% Other.
-The age of patients treated with 40 mg aprepitant ranged from 19 to 84 years, with a mean age of 46.1 years.
+Of the 564 patients who received 40-mg aprepitant, 92% were women and 8% were men; of these, 58% were White, 13% Hispanic American, 7% Multi-Racial, 14% Black, 6% Asian, and 2% Other.
+The age of patients treated with 40-mg aprepitant ranged from 19 to 84 years, with a mean age of 46.1 years.
 46 patients were 65 years or older, with 13 patients being 75 years or older.
 
 The antiemetic activity of EMEND was evaluated during the 0 to 48 hour period following the end of surgery.
@@ -210,7 +210,7 @@ Efficacy measures in PONV Study 1 included:
 
 A closed testing procedure was applied to control the type I error for the primary endpoints.
 
-The results of the primary and secondary endpoints for 40 mg aprepitant and 4 mg ondansetron are described in Table 11:
+The results of the primary and secondary endpoints for 40-mg aprepitant and 4-mg ondansetron are described in Table 11:
 
 Table 11: PONV Study 1 – Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population)
 
@@ -245,7 +245,7 @@ Efficacy measures in PONV Study 2 included:
 
 PONV Study 2 failed to satisfy its primary hypothesis that aprepitant is superior to ondansetron in the prevention of PONV as measured by the proportion of patients with complete response in the 24 hours following end of surgery.
 
-The study demonstrated that both dose levels of aprepitant had a clinically meaningful effect with respect to the secondary endpoint "no vomiting" during the first 24 hours after surgery and showed that the use of 40 mg aprepitant was associated with a 16% improvement over ondansetron for the no vomiting endpoint.
+The study demonstrated that both dose levels of aprepitant had a clinically meaningful effect with respect to the secondary endpoint "no vomiting" during the first 24 hours after surgery and showed that the use of 40-mg aprepitant was associated with a 16% improvement over ondansetron for the no vomiting endpoint.
 
 Table 12: PONV Study 2 (Modified-Intention-to-Treat Population)
 

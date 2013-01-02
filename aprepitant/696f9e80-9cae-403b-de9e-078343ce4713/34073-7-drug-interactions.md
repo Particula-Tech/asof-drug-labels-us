@@ -7,7 +7,7 @@ Aprepitant is also an inducer of CYP2C9.
 
 CYP3A4 substrates:
 
-Weak inhibition of CYP3A4 by a single 40 mg dose of aprepitant is not expected to alter the plasma concentrations of concomitant medications that are primarily metabolized through CYP3A4 to a clinically significant degree.
+Weak inhibition of CYP3A4 by a single 40-mg dose of aprepitant is not expected to alter the plasma concentrations of concomitant medications that are primarily metabolized through CYP3A4 to a clinically significant degree.
 However, higher aprepitant doses or repeated dosing at any aprepitant dose may have a clinically significant effect.
 
 As a moderate inhibitor of CYP3A4 at a dose of 125 mg/80 mg, aprepitant can increase plasma concentrations of concomitantly administered oral medications that are metabolized through CYP3A4 [see Contraindications (4)].
@@ -18,21 +18,21 @@ The use of fosaprepitant may increase CYP3A4 substrate plasma concentrations to 
 Corticosteroids:
 
 Dexamethasone: EMEND, when given as a regimen of 125 mg with dexamethasone coadministered orally as 20 mg on Day 1, and EMEND when given as 80 mg/day with dexamethasone coadministered orally as 8 mg on Days 2 through 5, increased the AUC of dexamethasone, a CYP3A4 substrate, by 2.2-fold on Days 1 and 5.
-The oral dexamethasone doses should be reduced by approximately 50% when coadministered with EMEND (125 mg/80 mg regimen), to achieve exposures of dexamethasone similar to those obtained when it is given without EMEND.
+The oral dexamethasone doses should be reduced by approximately 50% when coadministered with EMEND (125-mg/80-mg regimen), to achieve exposures of dexamethasone similar to those obtained when it is given without EMEND.
 The daily dose of dexamethasone administered in clinical chemotherapy induced nausea and vomiting studies with EMEND reflects an approximate 50% reduction of the dose of dexamethasone [see Dosage and Administration (2.1)].
 A single dose of EMEND (40 mg) when coadministered with a single oral dose of dexamethasone 20 mg, increased the AUC of dexamethasone by 1.45-fold.
 Therefore, no dose adjustment is recommended.
 
 Methylprednisolone: EMEND, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, increased the AUC of methylprednisolone, a CYP3A4 substrate, by 1.34-fold on Day 1 and by 2.5-fold on Day 3, when methylprednisolone was coadministered intravenously as 125 mg on Day 1 and orally as 40 mg on Days 2 and 3.
-The IV methylprednisolone dose should be reduced by approximately 25%, and the oral methylprednisolone dose should be reduced by approximately 50% when coadministered with EMEND (125 mg/80 mg regimen) to achieve exposures of methylprednisolone similar to those obtained when it is given without EMEND.
-Although the concomitant administration of methylprednisolone with the single 40 mg dose of aprepitant has not been studied, a single 40 mg dose of EMEND produces a weak inhibition of CYP3A4 (based on midazolam interaction study) and it is not expected to alter the plasma concentrations of methylprednisolone to a clinically significant degree.
+The IV methylprednisolone dose should be reduced by approximately 25%, and the oral methylprednisolone dose should be reduced by approximately 50% when coadministered with EMEND (125-mg/80-mg regimen) to achieve exposures of methylprednisolone similar to those obtained when it is given without EMEND.
+Although the concomitant administration of methylprednisolone with the single 40-mg dose of aprepitant has not been studied, a single 40-mg dose of EMEND produces a weak inhibition of CYP3A4 (based on midazolam interaction study) and it is not expected to alter the plasma concentrations of methylprednisolone to a clinically significant degree.
 Therefore, no dose adjustment is recommended.
 
 Chemotherapeutic agents: [see Warnings and Precautions (5.1)]
 
-Docetaxel: In a pharmacokinetic study, EMEND (125 mg/80 mg regimen) did not influence the pharmacokinetics of docetaxel.
+Docetaxel: In a pharmacokinetic study, EMEND (125-mg/80-mg regimen) did not influence the pharmacokinetics of docetaxel.
 
-Vinorelbine: In a pharmacokinetic study, EMEND (125 mg/80 mg regimen) did not influence the pharmacokinetics of vinorelbine to a clinically significant degree.
+Vinorelbine: In a pharmacokinetic study, EMEND (125-mg/80-mg regimen) did not influence the pharmacokinetics of vinorelbine to a clinically significant degree.
 
 CYP2C9 substrates (Warfarin, Tolbutamide):
 
@@ -41,7 +41,7 @@ Coadministration of EMEND with these drugs or other drugs that are known to be m
 
 Warfarin: A single 125-mg dose of EMEND was administered on Day 1 and 80 mg/day on Days 2 and 3 to healthy subjects who were stabilized on chronic warfarin therapy.
 Although there was no effect of EMEND on the plasma AUC of R(+) or S(-) warfarin determined on Day 3, there was a 34% decrease in S(-) warfarin (a CYP2C9 substrate) trough concentration accompanied by a 14% decrease in the prothrombin time (reported as International Normalized Ratio or INR) 5 days after completion of dosing with EMEND.
-In patients on chronic warfarin therapy, the prothrombin time (INR) should be closely monitored in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of EMEND with each chemotherapy cycle, or following administration of a single 40 mg dose of EMEND for the prevention of postoperative nausea and vomiting.
+In patients on chronic warfarin therapy, the prothrombin time (INR) should be closely monitored in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of EMEND with each chemotherapy cycle, or following administration of a single 40-mg dose of EMEND for the prevention of postoperative nausea and vomiting.
 
 Tolbutamide: EMEND, when given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, decreased the AUC of tolbutamide (a CYP2C9 substrate) by 23% on Day 4, 28% on Day 8, and 15% on Day 15, when a single dose of tolbutamide 500 mg was administered orally prior to the administration of the 3-day regimen of EMEND and on Days 4, 8, and 15.
 

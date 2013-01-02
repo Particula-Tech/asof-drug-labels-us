@@ -122,9 +122,9 @@ The adverse experience profiles in the Multiple-Cycle extensions of HEC and MEC 
 
 Postoperative Nausea and Vomiting
 
-In well-controlled clinical studies in patients receiving general anesthesia, 564 patients were administered 40 mg aprepitant orally and 538 patients were administered 4 mg ondansetron IV.
+In well-controlled clinical studies in patients receiving general anesthesia, 564 patients were administered 40-mg aprepitant orally and 538 patients were administered 4-mg ondansetron IV.
 
-Clinical adverse experiences were reported in approximately 60% of patients treated with 40 mg aprepitant compared with approximately 64% of patients treated with 4 mg ondansetron IV.
+Clinical adverse experiences were reported in approximately 60% of patients treated with 40-mg aprepitant compared with approximately 64% of patients treated with 4-mg ondansetron IV.
 Table 4 shows the percent of patients with clinical adverse experiences reported at an incidence ≥3% of the combined studies.
 
 Table 4: Percent of Patients Receiving General Anesthesia with Clinical Adverse Experiences (Incidence ≥3%)
@@ -182,11 +182,11 @@ Respiratory, thoracic and mediastinal disorders: wheezing
 
 Gastrointestinal disorders: bowel sounds abnormal, stomach discomfort.
 
-There were no serious adverse drug-related experiences reported in the postoperative nausea and vomiting clinical studies in patients taking 40 mg aprepitant.
+There were no serious adverse drug-related experiences reported in the postoperative nausea and vomiting clinical studies in patients taking 40-mg aprepitant.
 
 Laboratory Adverse Experiences
 
-One laboratory adverse experience, hemoglobin decreased (40 mg aprepitant 3.8%, ondansetron 4.2%), was reported at an incidence ≥3% in a patient receiving general anesthesia.
+One laboratory adverse experience, hemoglobin decreased (40-mg aprepitant 3.8%, ondansetron 4.2%), was reported at an incidence ≥3% in a patient receiving general anesthesia.
 
 The following additional laboratory adverse experiences (incidence >0.5% and greater than ondansetron), regardless of causality, were reported in patients treated with aprepitant 40 mg: blood albumin decreased, blood bilirubin increased, blood glucose increased, blood potassium decreased, glucose urine present.
 
