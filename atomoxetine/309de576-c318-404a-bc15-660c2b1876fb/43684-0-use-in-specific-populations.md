@@ -86,5 +86,5 @@ Of the 158 patients who completed the double-blind placebo lead-in, 26 (16%) pat
 In a separate 16-week, double-blind, placebo-controlled trial, 442 patients aged 18-65, who met DSM-IV criteria for adult ADHD and social anxiety disorder (23% of whom also had Generalized Anxiety Disorder) were randomized.
 Following a 2-week double-blind placebo lead-in, STRATTERA was initiated at 40 mg/day to a maximum dose of 100 mg/day (mean daily dose 83 mg/day +/- 19.5 mg/day).
 STRATTERA did not worsen anxiety in these patients as determined by the Liebowitz Social Anxiety Scale (LSAS).
-Of the 413 patients who completed the double-blind placebo lead-in, 149 (36.1%) patients discontinued the study.
+Of the 436 patients who completed the double-blind placebo lead-in, 172 (39.4%) patients discontinued the study.
 There have been postmarketing reports of anxiety [see Adverse Reactions (6.2)].
