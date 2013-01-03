@@ -1,21 +1,29 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions associated with PROMACTA are described in other sections.
+
+- •Hepatotoxicity [see Warnings and Precautions (5.1)]
+- •Hepatic Decompensation in Patients With Chronic Hepatitis C [see Warnings and Precautions (5.2)]
+- •Bone Marrow Reticulin Formation and Risk for Bone Marrow Fibrosis [see Warnings and Precautions (5.3)]
+- •Thrombotic/Thromboembolic Complications [see Warnings and Precautions (5.4)]
+- •Cataracts [see Warnings and Precautions (5.6)]
+
 ## 6.1 Clinical Trials Experience
-
-In clinical studies, hemorrhage was the most common serious adverse reaction and most hemorrhagic reactions followed discontinuation of PROMACTA.
-Other serious adverse reactions included liver test abnormalities and thrombotic/thromboembolic complications [see Warnings and Precautions (5.1, 5.3)].
-
-The data described below reflect exposure of PROMACTA to 446 patients with chronic ITP aged 18 to 85, of whom 65% were female across the ITP clinical development program including 3 placebo-controlled studies.
-PROMACTA was administered to 277 patients for at least 6 months and 202 patients for at least 1 year.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Table 2 presents the most common adverse drug reactions (experienced by ≥3% of patients receiving PROMACTA) from the 3 placebo-controlled studies, with a higher incidence in PROMACTA versus placebo.
+Chronic Immune (Idiopathic) Thrombocytopenia: In clinical trials, hemorrhage was the most common serious adverse reaction and most hemorrhagic reactions followed discontinuation of PROMACTA.
+Other serious adverse reactions included liver test abnormalities and thrombotic/thromboembolic complications [see Warnings and Precautions (5.1, 5.4)].
 
-Table 2.
-Adverse Reactions (≥3%) from Three Placebo-Controlled Studies
+The data described below reflect exposure of PROMACTA to 446 patients with chronic ITP aged 18 to 85, of whom 65% were female across the ITP clinical development program including 3 placebo-controlled trials.
+PROMACTA was administered to 277 patients for at least 6 months and 202 patients for at least 1 year.
 
-| Preferred Term | PROMACTA 50mg n = 241(%) | Placebon = 128(%) |
+Table 3 presents the most common adverse drug reactions (experienced by ≥3% of patients receiving PROMACTA) from the 3 placebo-controlled trials, with a higher incidence in PROMACTA versus placebo.
+
+Table 3.
+Adverse Reactions (≥3%) from Three Placebo-Controlled Trials in Adults With Chronic Immune (Idiopathic) Thrombocytopenia
+
+| Adverse Reaction | PROMACTA 50mg n = 241(%) | Placebon = 128(%) |
 | --- | --- | --- |
 | Nausea | 9 | 3 |
 | Diarrhea | 9 | 7 |
@@ -32,15 +40,15 @@ Adverse Reactions (≥3%) from Three Placebo-Controlled Studies
 | Paresthesia | 3 | 2 |
 | Rash | 3 | 2 |
 
-In the 3 controlled clinical studies, alopecia, musculoskeletal pain, blood alkaline phosphatase increased, and dry mouth were the adverse reactions reported in 2% of patients treated with PROMACTA and in no patients who received placebo.
+In the 3 controlled clinical chronic ITP trials, alopecia, musculoskeletal pain, blood alkaline phosphatase increased, and dry mouth were the adverse reactions reported in 2% of patients treated with PROMACTA and in no patients who received placebo.
 
-Among 299 patients with chronic ITP who received PROMACTA in the single-arm extension study, the adverse reactions occurred in a pattern similar to that seen in the placebo-controlled studies.
-Table 3 presents the most common treatment-related adverse reactions (experienced by ≥3% of patients receiving PROMACTA) from the extension study.
+Among 299 patients with chronic ITP who received PROMACTA in the single-arm extension trial, the adverse reactions occurred in a pattern similar to that seen in the placebo-controlled trials.
+Table 4 presents the most common treatment-related adverse reactions (experienced by ≥3% of patients receiving PROMACTA) from the extension trial.
 
-Table 3.
-Treatment-Related Adverse Reactions (≥3%) from Extension Study
+Table 4.
+Treatment-Related Adverse Reactions (≥3%) from Extension Trial in Adults With Chronic Immune (Idiopathic) Thrombocytopenia
 
-| Preferred Term | PROMACTA 50mg n = 299(%) |
+| Adverse Reaction | PROMACTA 50mg n = 299(%) |
 | --- | --- |
 | Headache | 10 |
 | Hyperbilirubinemia | 6 |
@@ -50,4 +58,31 @@ Treatment-Related Adverse Reactions (≥3%) from Extension Study
 | Fatigue | 4 |
 | Nausea | 4 |
 
-In a placebo-controlled trial of eltrombopag in non-ITP thrombocytopenic patients with chronic liver disease (CLD), six eltrombopag-treated patients and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.3)].
+In a placebo-controlled trial of PROMACTA in non-ITP thrombocytopenic patients with chronic liver disease, six patients in the PROMACTA group and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.4)].
+
+Chronic Hepatitis C-Associated Thrombocytopenia: In the 2 placebo-controlled trials, 955 patients with chronic hepatitis C-associated thrombocytopenia received PROMACTA.
+Table 5 presents the most common adverse drug reactions (experienced by ≥10% of patients receiving PROMACTA compared to placebo).
+
+Table 5.
+Adverse Reactions (≥10% and Greater than Placebo) from Two Placebo-Controlled Trials in Adults With Chronic Hepatitis C
+
+| Adverse Reaction | PROMACTA+ Peginterferon/ Ribavirinn = 955(%) | Placebo+ Peginterferon/Ribavirinn = 484(%) |
+| --- | --- | --- |
+| Anemia | 40 | 35 |
+| Pyrexia | 30 | 24 |
+| Fatigue | 28 | 23 |
+| Headache | 21 | 20 |
+| Nausea | 19 | 14 |
+| Diarrhea | 19 | 11 |
+| Decreased appetite | 18 | 14 |
+| Influenza-like illness | 18 | 16 |
+| Asthenia | 16 | 13 |
+| Insomnia | 16 | 15 |
+| Cough | 15 | 12 |
+| Pruritus | 15 | 13 |
+| Chills | 14 | 9 |
+| Myalgia | 12 | 10 |
+| Alopecia | 10 | 6 |
+| Peripheral edema | 10 | 5 |
+
+In the 2 controlled clinical trials in patients with chronic hepatitis C, hyperbilirubinemia was also reported (8% for PROMACTA versus 3% for placebo).

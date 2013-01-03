@@ -129,3 +129,35 @@ Made in Ireland
 
 10000000091677 Rev.
 2/11
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0007-4644-13
+
+PROMACTA®
+
+- (eltrombopag) Tablets
+
+100 mg*
+
+30 Tablets
+
+Rx only
+
+*Each tablet contains eltrombopag olamine equivalent to 100 mg of eltrombopag free acid.
+
+Federal Law requires dispensing of PROMACTA® with the Medication Guide provided with this bottle.
+
+Store between 20o and 25oC (68o to77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+Do not remove desiccant.
+
+Dosage: See accompanying prescribing information.
+
+Important: Use safety closures when dispensing this product unless otherwise directed by physicians or requested by purchaser.
+
+GlaxoSmithKline, RTP, NC 27709
+
+Made in Ireland
+
+10000000111069 Rev.
+11/12

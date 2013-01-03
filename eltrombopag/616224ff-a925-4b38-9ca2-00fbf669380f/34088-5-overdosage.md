@@ -9,4 +9,4 @@ After 2 months follow-up, all events had resolved without sequelae.
 
 In case of an overdose, consider oral administration of a metal cation-containing preparation, such as calcium, aluminum, or magnesium preparations to chelate eltrombopag and thus limit absorption.
 Closely monitor platelet counts.
-Reinitiate treatment with PROMACTA in accordance with dosing and administration recommendations [see Dosage and Administration (2.2)].
+Reinitiate treatment with PROMACTA in accordance with dosing and administration recommendations [see Dosage and Administration (2.1, 2.2)].
