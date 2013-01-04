@@ -22,7 +22,7 @@ Table 4: Mean and median change from baseline to end of treatment (Week 12 or la
 | Weekly Incontinence Episodes |  |  |  |  |
 | Baseline | 37.7 (24.0) | 30 | 34.3 (18.2) | 31 |
 | Reduction | 19.2 (21.4) | 15 | 21.0 (17.1) | 19 |
-| p value vs. placebo | - |  | 0.265Comparison significant if p < 0.05 |  |
+| p value vs. placebo | - |  | 0.0265Comparison significant if p < 0.05 |  |
 | Daily Urinary Frequency |  |  |  |  |
 | Baseline | 12.3 (3.5) | 11 | 11.8 (3.1) | 11 |
 | Reduction | 1.6 (3.0) | 1 | 2.2 (2.5) | 2 |
