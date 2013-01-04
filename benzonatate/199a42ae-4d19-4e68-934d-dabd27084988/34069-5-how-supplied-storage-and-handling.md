@@ -2,38 +2,17 @@
 
 Benzonatate Capsules, USP are available as:
 
-Soft gelatin capsules, 100 mg (oval, yellow); bottle of 100
+100 mg (oval, yellow) soft gelatin capsules with imprint “A1”.
 
-Imprint: A1.
+Bottles of 100: NDC 65162-536-10
 
-NDC# 65162-536-10
+Bottles of 500: NDC 65162-536-50
 
-Soft gelatin capsules, 100 mg (oval, yellow); bottle of 500
+200 mg (oblong, yellow) soft gelatin capsules with imprint “A2”.
 
-Imprint: A1.
+Bottles of 100: NDC 65162-537-10
 
-NDC# 65162-536-50
+Bottles of 500: NDC 65162-537-50
 
-Soft gelatin capsules, 200 mg (oblong, yellow); bottle of 100
-
-Imprint: A2.
-
-NDC# 65162-537-10
-
-Store at 25°-25°C (68°-77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 Dispense in tight, light-resistant container as defined in the USP.
-
-Manufactured by: Swiss Caps AG
-
-Hausenstrasse 35
-
-CH-9533, Kirchberg, Switzerland
-
-Distributed by:
-
-Amneal Pharmaceuticals
-
-Glasgow, KY 42141
-
-Rev.
-09-2008
