@@ -2,7 +2,7 @@
 
 ## 14.1 Epilepsy
 
-Monotherapy With Lamotrigine in Adults With Partial Seizures Already Receiving Treatment With Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single AED: The effectiveness of monotherapy with Lamotrigine was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial seizures.
+Monotherapy With Lamotrigine in Adults With Partial Seizures Already Receiving Treatment With Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single Antiepileptic Drug: The effectiveness of monotherapy with Lamotrigine was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial seizures.
 The patients experienced at least 4 simple partial, complex partial, and/or secondarily generalized seizures during each of 2 consecutive 4-week periods while receiving carbamazepine or phenytoin monotherapy during baseline.
 Lamotrigine (target dose of 500 mg/day) or valproate (1,000 mg/day) was added to either carbamazepine or phenytoin monotherapy over a 4-week period.
 Patients were then converted to monotherapy with Lamotrigine or valproate during the next 4 weeks, then continued on monotherapy for an additional 12-week period.

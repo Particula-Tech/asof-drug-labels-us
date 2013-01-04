@@ -114,7 +114,7 @@ The Initial Weight-Based Dosing Guide for Patients 2 to 12 Years Taking Valproat
 | 27.1 kg | 34 kg | 4 mg every day | 8 mg every day |
 | 34.1 kg | 40 kg | 5 mg every day | 10 mg every day |
 
-Usual Adjunctive Maintenance Dose for Epilepsy:The usual maintenance doses identified in Tables 1 and 2 are derived from dosing regimens employed in the placebo-controlled adjunctive studies in which the efficacy of Lamotrigine was established.
+Usual Adjunctive Maintenance Dose for Epilepsy: The usual maintenance doses identified in Tables 1 and 2 are derived from dosing regimens employed in the placebo-controlled adjunctive studies in which the efficacy of Lamotrigine was established.
 In patients receiving multidrug regimens employing carbamazepine, phenytoin, phenobarbital, or primidone without valproate, maintenance doses of adjunctive Lamotrigine as high as 700 mg/day have been used.
 In patients receiving valproate alone, maintenance doses of adjunctive Lamotrigine as high as 200 mg/day have been used.
 The advantage of using doses above those recommended in Tables 1 through 4 has not been established in controlled trials.

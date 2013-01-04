@@ -43,8 +43,15 @@ The effect of Lamotrigine on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
-Preliminary data indicate that lamotrigine passes into human milk.
-Because the effects on the infant exposed to Lamotrigine by this route are unknown, breastfeeding while taking Lamotrigine is not recommended.
+Lamotrigine is present in milk from lactating women taking Lamotrigine Tablets.
+Data from multiple small studies indicate that Lamotrigine plasma levels in human milk-fed infants have been reported to be as high as 50% of the maternal serum levels.
+Neonates and young infants are at risk for high serum levels because maternal serum and milk levels can rise to high levels postpartum if lamotrigine dosage has been increased during pregnancy but not later reduced to the pre-pregnancy dosage.
+Lamotrigine exposure is further increased due to the immaturity of the infant glucuronidation capacity needed for drug clearance.
+Events including apnea, drowsiness, and poor sucking have been reported in infants who have been human milk-fed by mothers using lamotrigine; whether or not these events were caused by lamotrigine is unknown.
+Human milk-fed infants should be closely monitored for adverse events resulting from lamotrigine.
+Measurement of infant serum levels should be performed to rule out toxicity if concerns arise.
+Human milk-feeding should be discontinued in infants with lamotrigine toxicity.
+Caution should be exercised when Lamotrigine Tablets are administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
