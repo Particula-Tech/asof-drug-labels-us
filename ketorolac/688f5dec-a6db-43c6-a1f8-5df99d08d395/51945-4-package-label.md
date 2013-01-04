@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## 10 mg - 100 Tablets Label Text
+## Ketorolac Tromethamine Tablets USP 10mg 100s Label Text
 
 NDC 0093-0314-01
 
@@ -8,17 +8,15 @@ KETOROLAC
 
 TROMETHAMINE
 
-Tablets USP, 10 mg
+Tablets USP
 
-Each tablet contains:
+10 mg
 
-ketorolac tromethamine 10 mg
+PHARMACIST: Dispense the Medication
 
-ATTENTION PHARMACIST: Each
+Guide provided separately to each patient.
 
-patient is required to receive a
-
-Medication Guide.
+Rx only
 
 100 TABLETS
 

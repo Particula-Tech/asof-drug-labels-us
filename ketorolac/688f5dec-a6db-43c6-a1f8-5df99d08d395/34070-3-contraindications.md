@@ -7,7 +7,7 @@ Ketorolac tromethamine is contraindicated in patients with previously demonstrat
 Ketorolac tromethamine is contraindicated in patients with active peptic ulcer disease, in patients with recent gastrointestinal bleeding or perforation and in patients with a history of peptic ulcer disease or gastrointestinal bleeding.
 
 Ketorolac tromethamine should not be given to patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
-Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported in such patients (see WARNINGS, Anaphylactoid Reactions and PRECAUTIONS, Preexisting Asthma).
+Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported in such patients (see WARNINGS,Anaphylactoid Reactions and PRECAUTIONS,Preexisting Asthma).
 
 Ketorolac tromethamine is contraindicated as prophylactic analgesic before any major surgery.
 

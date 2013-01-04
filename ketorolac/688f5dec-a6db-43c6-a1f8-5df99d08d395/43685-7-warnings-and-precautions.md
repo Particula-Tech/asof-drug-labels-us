@@ -61,7 +61,7 @@ Because patients with underlying renal insufficiency are at increased risk of de
 
 As with other NSAIDs, anaphylactoid reactions may occur in patients without a known previous exposure or hypersensitivity to ketorolac tromethamine.
 Ketorolac tromethamine should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma).
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONSand PRECAUTIONS,Preexisting Asthma).
 Anaphylactoid reactions, like anaphylaxis, may have a fatal outcome.
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
@@ -77,7 +77,7 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see Gastrointestinal Effects – RiskofUlceration, Bleeding, and Perforation).
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation).
 Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
 ### Hypertension
@@ -185,7 +185,7 @@ In vitro studies indicate that, at therapeutic concentrations of salicylate (300
 Therapeutic concentrations of digoxin, warfarin, ibuprofen, naproxen, piroxicam, acetaminophen, phenytoin and tolbutamide did not alter ketorolac tromethamine protein binding.
 
 In a study involving 12 adult volunteers, ketorolac tromethamine tablets were coadministered with a single dose of 25 mg warfarin, causing no significant changes in pharmacokinetics or pharmacodynamics of warfarin.
-In another study, ketorolac tromethamine dosed IV or IM was given with two doses of 5000 U of heparin to 11 healthy volunteers, resulting in a mean template bleeding time of 6.4 minutes (3.2 to 11.4 min) compared to a mean of 6.0 minutes (3.4 to 7.5 min) for heparin alone and 5.1 minutes (3.5 to 8.5 min) for placebo.
+In another study, ketorolac tromethamine dosed IV or IM was given with two doses of 5000 U of heparin to 11 healthy volunteers, resulting in a mean template bleeding time of 6.4 minutes (3.2 to 11.4 min) compared to a mean of 6 minutes (3.4 to 7.5 min) for heparin alone and 5.1 minutes (3.5 to 8.5 min) for placebo.
 Although these results do not indicate a significant interaction between ketorolac tromethamine and warfarin or heparin, the administration of ketorolac tromethamine to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored (see WARNINGS and PRECAUTIONS, Hematologic Effect).
 
 The effects of warfarin and NSAIDs, in general, on GI bleeding are synergistic, such that the users of both drugs together have a risk of serious GI bleeding higher than the users of either drug alone.
@@ -262,9 +262,9 @@ Impairment of fertility did not occur in male or female rats at oral doses of 9 
 
 ### Teratogenic Effects
 
-#### Pregnancy category C
+#### Pregnancy Category C
 
-Reproduction studies have been performed during organogenesis using daily oral doses of ketorolac tromethamine at 3.6 mg/kg (0.37 times the human AUC) in rabbits and at 10 mg/kg (1.0 times the human AUC) in rats.
+Reproduction studies have been performed during organogenesis using daily oral doses of ketorolac tromethamine at 3.6 mg/kg (0.37 times the human AUC) in rabbits and at 10 mg/kg (1 times the human AUC) in rats.
 Results of these studies did not reveal evidence of teratogenicity to the fetus.
 However, animal reproduction studies are not always predictive of human response.
 
@@ -298,4 +298,4 @@ The safety and effectiveness of ketorolac tromethamine tablets in pediatric pati
 
 ## Geriatric Use (≥ 65 Years of Age)
 
-Because ketorolac tromethamine may be cleared more slowly by the elderly (see CLINICALPHARMACOLOGY) who are also more sensitive to the dose-related adverse effects of NSAIDs (see WARNINGS, Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation), extreme caution, reduced dosages (see DOSAGE AND ADMINISTRATION), and careful clinical monitoring must be used when treating the elderly with ketorolac tromethamine.
+Because ketorolac tromethamine may be cleared more slowly by the elderly (see CLINICAL PHARMACOLOGY) who are also more sensitive to the dose-related adverse effects of NSAIDs (see WARNINGS, Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation), extreme caution, reduced dosages (see DOSAGE AND ADMINISTRATION), and careful clinical monitoring must be used when treating the elderly with ketorolac tromethamine.

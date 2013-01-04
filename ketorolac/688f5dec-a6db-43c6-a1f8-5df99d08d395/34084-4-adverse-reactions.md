@@ -54,7 +54,7 @@ Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell’s syndrome, b
 
 Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease)
 
-Hemic and Lymphatic: agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, postoperative wound hemorrhage (rarely requiring blood transfusion—see BoxedWARNING, WARNINGS, and PRECAUTIONS)
+Hemic and Lymphatic: agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, postoperative wound hemorrhage (rarely requiring blood transfusion - see BoxedWARNING, WARNINGS, and PRECAUTIONS)
 
 Metabolic and Nutritional: hyperglycemia, hyperkalemia, hyponatremia
 
@@ -68,10 +68,10 @@ Urogenital: flank pain with or without hematuria and/or azotemia, hemolytic urem
 
 ## Postmarketing Surveillance Study
 
-A large postmarketing observational, nonrandomized study, involving approximately 10,000 patients receiving ketorolac tromethamineIV/IM, demonstrated that the risk of clinically serious gastrointestinal (GI) bleeding was dose-dependent (see TABLES 3A and 3B).
-This was particularly true in elderly patients who received an average daily dose greater than 60 mg/day of ketorolac tromethamineIV/IM (see TABLE 3A).
+A large postmarketing observational, nonrandomized study, involving approximately 10,000 patients receiving ketorolac tromethamineIV/IM, demonstrated that the risk of clinically serious gastrointestinal (GI) bleeding was dose-dependent (see Tables 3A and 3B).
+This was particularly true in elderly patients who received an average daily dose greater than 60 mg/day of ketorolac tromethamineIV/IM (see Table 3A).
 
-TABLE 3: Incidence of Clinically Serious GI Bleeding as Related to Age, Total Daily Dose, and History of GI Perforation, Ulcer, Bleeding (PUB) After up to 5 Days of Treatment With Ketorolac TromethamineIV/IM
+Table 3: Incidence of Clinically Serious GI Bleeding as Related to Age, Total Daily Dose, and History of GI Perforation, Ulcer, Bleeding (PUB) After up to 5 Days of Treatment With Ketorolac TromethamineIV/IM
 
 | A. Adult Patients Without History of PUB |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -85,4 +85,4 @@ TABLE 3: Incidence of Clinically Serious GI Bleeding as Related to Age, Total Da
 | Age of Patients | Total Daily Dose of Ketorolac TromethamineIV/IM |  |  |  |
 | ≤ 60 mg | > 60 to 90 mg | > 90 to 120 mg | > 120 mg |  |
 | < 65 years of age | 2.1% | 4.6% | 7.8% | 15.4% |
-| ≥ 65 years of age | 4.7% | 3.7% | 2.8% | 25.0% |
+| ≥ 65 years of age | 4.7% | 3.7% | 2.8% | 25% |

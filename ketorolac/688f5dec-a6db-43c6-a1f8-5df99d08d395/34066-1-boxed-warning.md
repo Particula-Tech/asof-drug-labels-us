@@ -18,7 +18,7 @@ CARDIOVASCULAR RISK
 - NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
   This risk may increase with duration of use.
   Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk (see WARNINGS and CLINICAL STUDIES).
-- Ketorolac tromethamine is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+- Ketorolac tromethamine is CONTRAINDICATED for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
 
 RENAL RISK
 

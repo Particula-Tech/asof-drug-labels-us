@@ -16,7 +16,7 @@ Ketorolac tromethamine is a racemic mixture of [-]S- and [+]R-enantiomeric forms
 
 ### Comparison of IV, IM, and Oral Pharmacokinetics
 
-The pharmacokinetics of ketorolac tromethamine, following IV and IM doses of ketorolac tromethamine and oral doses of ketorolac tromethamine, are compared in TABLE 1.
+The pharmacokinetics of ketorolac tromethamine, following IV and IM doses of ketorolac tromethamine and oral doses of ketorolac tromethamine, are compared in Table 1.
 In adults, the extent of bioavailability following administration of the ORAL form of ketorolac tromethamine and IM form of ketorolac tromethamine was equal to that following an IV bolus.
 
 ### Linear Kinetics
@@ -27,7 +27,7 @@ At the higher recommended doses, there is a proportional increase in the concent
 
 ### Absorption
 
-Ketorolac tromethamine is 100% absorbed after oral administration (see TABLE 1).
+Ketorolac tromethamine is 100% absorbed after oral administration (see Table 1).
 Oral administration of ketorolac tromethamine after a high-fat meal resulted in decreased peak and delayed time-to-peak concentrations of ketorolac tromethamine by about 1 hour.
 Antacids did not affect the extent of absorption.
 
@@ -56,7 +56,7 @@ Approximately 6% of a dose is excreted in the feces.
 A single-dose study with 10 mg ketorolac tromethamine (n = 9) demonstrated that the S-enantiomer is cleared approximately two times faster than the R-enantiomer and that the clearance was independent of the route of administration.
 This means that the ratio of S/R plasma concentrations decreases with time after each dose.
 There is little or no inversion of the R- to S- form in humans.
-The clearance of the racemate in normal subjects, elderly individuals and in hepatically and renally impaired patients is outlined in TABLE 2 (see CLINICAL PHARMACOLOGY, Kinetics in Special Populations).
+The clearance of the racemate in normal subjects, elderly individuals and in hepatically and renally impaired patients is outlined in Table 2 (see CLINICAL PHARMACOLOGY, Kinetics in Special Populations).
 
 The half-life of the ketorolac tromethamine S-enantiomer was approximately 2.5 hours (SD ± 0.4) compared with 5 hours (SD ± 1.7) for the R-enantiomer.
 In other studies, the half-life for the racemate has been reported to lie within the range of 5 to 6 hours.
@@ -73,14 +73,14 @@ Accumulation of ketorolac tromethamine has not been studied in special populatio
 
 ### Geriatric Patients
 
-Based on single-dose data only, the half-life of the ketorolac tromethamine racemate increased from 5 to 7 hours in the elderly (65 to 78 years) compared with young healthy volunteers (24 to 35 years) (see TABLE 2).
+Based on single-dose data only, the half-life of the ketorolac tromethamine racemate increased from 5 to 7 hours in the elderly (65 to 78 years) compared with young healthy volunteers (24 to 35 years) (see Table 2).
 There was little difference in the Cmax for the two groups (elderly, 2.52 mcg/mL ± 0.77; young, 2.99 mcg/mL ± 1.03) (see PRECAUTIONS, Geriatric Use (≥ 65 Years of Age)).
 
 ### Pediatric Patients
 
 Limited information is available regarding the pharmacokinetics of dosing of ketorolac tromethamine in the pediatric population.
 Following a single intravenous bolus dose of 0.5 mg/kg in 10 children 4 to 8 years old, the half-life was 5.8 ± 1.6 hours, the average clearance was 0.042 ± 0.01 L/hr/kg, the volume of distribution during the terminal phase (Vβ) was 0.34 ± 0.12 L/kg and the volume of distribution at steady state (Vss) was 0.26 ± 0.08 L/kg.
-The volume of distribution and clearance of ketorolac in pediatric patients was higher than those observed in adult subjects (see TABLE 1).
+The volume of distribution and clearance of ketorolac in pediatric patients was higher than those observed in adult subjects (see Table 1).
 There are no pharmacokinetic data available for administration of ketorolac tromethamine by the IM route in pediatric patients.
 
 ### Renal Insufficiency
@@ -96,13 +96,13 @@ The AUC∞-ratio of the ketorolac tromethamine enantiomers in healthy subjects a
 
 ### Hepatic Insufficiency
 
-There was no significant difference in estimates of half-life, AUC∞ and Cmax in 7 patients with liver disease compared to healthy volunteers (see PRECAUTIONS, Hepatic Effect and TABLE 2).
+There was no significant difference in estimates of half-life, AUC∞ and Cmax in 7 patients with liver disease compared to healthy volunteers (see PRECAUTIONS, Hepatic Effect and Table 2).
 
 ### Race
 
 Pharmacokinetic differences due to race have not been identified.
 
-TABLE 1: Table of Approximate Average Pharmacokinetic Parameters (Mean ± SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine
+Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean ± SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine
 
 | Pharmacokinetic Parameters (units) | OralDerived from PO pharmacokinetic studies in 77 normal fasted volunteers | IntramuscularDerived from IM pharmacokinetic studies in 54 normal volunteers |  |  | Intravenous BolusDerived from IV pharmacokinetic studies in 24 normal volunteers |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -117,24 +117,24 @@ TABLE 1: Table of Approximate Average Pharmacokinetic Parameters (Mean ± SD) Fo
 | % Dose metabolized ≤ 50 |  |  | % Dose excreted in feces = 6 |  |  |  |
 | % Dose excreted in urine = 91 |  |  | % Plasma protein binding = 99 |  |  |  |
 
-TABLE 2: The Influence of Age, Liver, and Kidney Function on the Clearance and Terminal Half-Life of Ketorolac Tromethamine (IMEstimated from 30 mg single IM doses of ketorolac tromethamine and ORALEstimated from 10 mg single oral doses of ketorolac tromethamine) in Adult Populations
+Table 2: The Influence of Age, Liver, and Kidney Function on the Clearance and Terminal Half-Life of Ketorolac Tromethamine (IMEstimated from 30 mg single IM doses of ketorolac tromethamine and ORALEstimated from 10 mg single oral doses of ketorolac tromethamine) in Adult Populations
 
-|  | Total Clearance [in L/h/kg]Liters/hour/kilogram |  | Terminal Half-life [in hours] |  |
+|  | Total Clearance [in L/h/kg]Liters/hour/kilogram |  | Terminal Half-Life [in hours] |  |
 | --- | --- | --- | --- | --- |
 | Type of Subjects | IM | ORAL | IM | ORAL |
 | Mean (range) | Mean (range) | Mean (range) | Mean (range) |  |
 | Normal SubjectsIM (n = 54) mean age = 32, range = 18 to 60Oral (n = 77) mean age = 32, range = 20 to 60 | 0.023 | 0.025 | 5.3 | 5.3 |
-| (0.010 to 0.046) | (0.013 to 0.050) | (3.5 to 9.2) | (2.4 to 9.0) |  |
-| Healthy Elderly SubjectsIM (n = 13),Oral (n = 12) mean age = 72, range = 65 to 78 | 0.019 | 0.024 | 7.0 | 6.1 |
+| (0.010 to 0.046) | (0.013 to 0.050) | (3.5 to 9.2) | (2.4 to 9) |  |
+| Healthy Elderly SubjectsIM (n = 13),Oral (n = 12) mean age = 72, range = 65 to 78 | 0.019 | 0.024 | 7 | 6.1 |
 | (0.013 to 0.034) | (0.018 to 0.034) | (4.7 to 8.6) | (4.3 to 7.6) |  |
-| Patients with Hepatic DysfunctionIM and Oral (n = 7)mean age = 51, range = 43 to 64 | 0.029 | 0.033 | 5.4 | 4.5 |
+| Patients With Hepatic DysfunctionIM and Oral (n = 7)mean age = 51, range = 43 to 64 | 0.029 | 0.033 | 5.4 | 4.5 |
 | (0.013 to 0.066) | (0.019 to 0.051) | (2.2 to 6.9) | (1.6 to 7.6) |  |
-| Patients with Renal ImpairmentIM (n = 25),Oral (n = 9) serum creatinine = 1.9 to 5.0 mg/dL,mean age (IM) = 54, range = 35 to 71mean age (Oral) = 57, range = 39 to 70 | 0.015 | 0.016 | 10.3 | 10.8 |
+| Patients With Renal ImpairmentIM (n = 25),Oral (n = 9) serum creatinine = 1.9 to 5 mg/dL,mean age (IM) = 54, range = 35 to 71mean age (Oral) = 57, range = 39 to 70 | 0.015 | 0.016 | 10.3 | 10.8 |
 | (0.005 to 0.043) | (0.007 to 0.052) | (5.9 to 19.2) | (3.4 to 18.9) |  |
 | Renal Dialysis PatientsIM and Oral (n = 9)mean age = 40, range = 27 to 63 | 0.016 | -- | 13.6 | -- |
-| (0.003 to 0.036) | (8.0 to 39.1) |  |  |  |
+| (0.003 to 0.036) | (8 to 39.1) |  |  |  |
 
 ## IV Administration
 
 In normal adult subjects (n = 37), the total clearance of 30 mg IV-administered ketorolac tromethamine was 0.030 (0.017 to 0.051) L/h/kg.
-The terminal half-life was 5.6 (4.0 to 7.9) hours (see Kinetics in Special Populations for use of IV dosing of ketorolac tromethamine in pediatric patients).
+The terminal half-life was 5.6 (4 to 7.9) hours (see Kinetics in Special Populations for use of IV dosing of ketorolac tromethamine in pediatric patients).
