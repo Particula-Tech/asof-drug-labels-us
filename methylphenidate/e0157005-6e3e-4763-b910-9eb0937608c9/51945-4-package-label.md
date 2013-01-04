@@ -26,6 +26,20 @@ Pharmacist: Dispense the enclosed Medication Guide to each patient.
 
 Rx Only
 
+PRINCIPAL DISPLAY PANEL - 750 mg Bottle Label
+
+NDC 24478-205-25
+
+750 mg (150 mL when reconstituted)
+
+Quillivant™ XR methylphenidate hydrochloride for extended-release oral suspension
+
+25 mg/5 mL (5 mg/mL) when reconstituted CII
+
+Pharmacist: Dispense the enclosed Medication Guide to each patient.
+
+Rx Only
+
 PRINCIPAL DISPLAY PANEL - 900 mg Bottle Label
 
 NDC 24478-210-30

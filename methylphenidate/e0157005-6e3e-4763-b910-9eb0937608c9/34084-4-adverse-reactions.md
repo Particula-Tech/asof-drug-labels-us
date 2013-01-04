@@ -6,13 +6,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials Experience with Other Methylphenidate Products in Children, Adolescents, and Adults with ADHD
 
-Commonly reported (≥ 2% of the methylphenidate group and at least twice the rate of the placebo group) adverse reactions from placebo-controlled trials of methylphenidate products include: appetite decreased, weight decreased, nausea, abdominal pain, dyspepsia, dry mouth, vomiting, insomnia, anxiety, nervousness, restlessness, affect lability, agitation, irritability, dizziness, vertigo, tremor, blurred vision, blood pressure increased, heart rate increased, tachycardia, palpitations, hyperhidrosis, and pyrexia.
+Commonly reported (≥2% of the methylphenidate group and at least twice the rate of the placebo group) adverse reactions from placebo-controlled trials of methylphenidate products include: appetite decreased, weight decreased, nausea, abdominal pain, dyspepsia, dry mouth, vomiting, insomnia, anxiety, nervousness, restlessness, affect lability, agitation, irritability, dizziness, vertigo, tremor, blurred vision, blood pressure increased, heart rate increased, tachycardia, palpitations, hyperhidrosis, and pyrexia.
 
 Clinical Trials Experience with QUILLIVANT XR in Children and Adolescents with ADHD
 
 There is limited experience with QUILLIVANT XR in controlled trials.
 Based on this limited experience, the adverse reaction profile of QUILLIVANT XR appears similar to other methylphenidate extended-release products.
-The most common (≥2% in the QUILLIVANT XR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted in 45 ADHD patients (ages 6-12 years) were affect lability, excoriation, initial insomnia, tic, decreased appetite, vomiting, motion sickness, eye pain, and rash.
+The most common (≥2% in the QUILLIVANT XR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted in 45 ADHD patients (ages 6–12 years) were affect lability, excoriation, initial insomnia, tic, decreased appetite, vomiting, motion sickness, eye pain, and rash.
 
 Table 2.
 Common Adverse Reactions occurring in ≥2% of subjects on QUILLIVANT XR and greater than placebo during the controlled cross-over phase

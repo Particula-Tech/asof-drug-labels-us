@@ -54,7 +54,7 @@ A deficit in acquisition of a specific learning task was observed in females onl
 The doses at which these findings were observed are at least 6 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
 
 In the study conducted in young rats, methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal day 7) and continuing through sexual maturity (postnatal week 10).
-When these animals were tested as adults (postnatal weeks 13-14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was observed in females exposed to the highest dose (12 times the MRHD on a mg/m2 basis).
+When these animals were tested as adults (postnatal weeks 13–14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was observed in females exposed to the highest dose (12 times the MRHD on a mg/m2 basis).
 The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (half the MRHD on a mg/m2 basis).
 The clinical significance of the long-term behavioral effects observed in rats is unknown.
 

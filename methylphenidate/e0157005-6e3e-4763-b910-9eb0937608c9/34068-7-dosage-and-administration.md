@@ -47,6 +47,7 @@ Product Reconstitution Instructions
 | --- | --- | --- |
 | 300 mg | 53 mL | 60 mL |
 | 600 mg | 105 mL | 120 mL |
+| 750 mg | 131 mL | 150 mL |
 | 900 mg | 158 mL | 180 mL |
 
 Store reconstituted QUILLIVANT XR at 25ºC (77ºF); excursions permitted from 15º to 30ºC (59º to 86ºF).

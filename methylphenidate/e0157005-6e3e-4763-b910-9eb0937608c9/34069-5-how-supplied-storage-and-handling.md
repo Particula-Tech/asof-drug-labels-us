@@ -12,6 +12,7 @@ After reconstitution, the product is a light beige to tan viscous suspension con
 | Bottles of 300 mg powder (to prepare 60 mL suspension) | NDC 24478-190-10 |
 | --- | --- |
 | Bottles of 600 mg powder (to prepare 120 mL suspension) | NDC 24478-200-20 |
+| Bottles of 750 mg powder (to prepare 150 mL suspension) | NDC 24478-205-25 |
 | Bottles of 900 mg powder (to prepare 180 mL suspension) | NDC 24478-210-30 |
 
 ## 16.2 Storage and Handling
