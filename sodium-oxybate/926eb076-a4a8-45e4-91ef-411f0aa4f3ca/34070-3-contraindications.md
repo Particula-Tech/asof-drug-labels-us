@@ -1,6 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Sodium oxybate is contraindicated in patients being treated with sedative hypnotic agents.
+Xyrem is contraindicated in patients being treated with sedative hypnotic agents.
 
-Sodium oxybate is contraindicated in patients with succinic semialdehyde dehydrogenase deficiency.
-This rare disorder is an inborn error of metabolism variably characterized by mental retardation, hypotonia, and ataxia.
+Patients should not drink alcohol when using Xyrem.
+
+Xyrem is contraindicated in patients with succinic semialdehyde dehydrogenase deficiency.
+This is a rare disorder of inborn error of metabolism variably characterized by mental retardation, hypotonia, and ataxia.

@@ -1,32 +1,34 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Xyrem is required to be taken at bedtime while in bed and again 2.5 to 4 hours later.
-The dose of Xyrem should be titrated to effect.
-The recommended starting dose is 4.5 g/night divided into two equal doses of 2.25 g. The starting dosage can then be increased to a maximum of 9 g/night in increments of 1.5 g/night (0.75 g per dose).
-One to two weeks are recommended between dosage increases to evaluate clinical response and minimize adverse effects.
-The effective dose range of Xyrem is 6 to 9 g/night.
-The efficacy and safety of Xyrem at doses higher than 9 g/night have not been investigated, and doses greater than 9 g/night ordinarily should not be administered.
+Healthcare professionals who prescribe Xyrem must enroll in the Xyrem Success Program and must comply with the requirements to ensure safe use of Xyrem [see Warnings and Precautions (5.3)].
+
+## 2.1 Dosing Information
+
+The recommended starting dose is 4.5 grams (g) per night administered orally in two equal, divided doses: 2.25 g at bedtime and 2.25 g taken 2.5 to 4 hours later (see Table 1).
+Increase the dose by 1.5 g per night at weekly intervals (additional 0.75 g at bedtime and 0.75 g taken 2.5 to 4 hours later) to the effective dose range of 6 g to 9 g per night orally.
+Doses higher than 9 g per night have not been studied and should not ordinarily be administered.
+
+- Table 1: Xyrem Dose Regimen (g = grams)
+
+| If A Patient’s Total Nightly Dose is: | Take at Bedtime: | Take 2.5 to 4 Hours Later: |
+| --- | --- | --- |
+| 4.5 g per night | 2.25 g | 2.25 g |
+| 6 g per night | 3 g | 3 g |
+| 7.5 g per night | 3.75 g | 3.75 g |
+| 9 g per night | 4.5 g | 4.5 g |
+
+## 2.2 Important Administration Instructions
+
+Take the first dose of Xyrem at least 2 hours after eating because food significantly reduces the bioavailability of sodium oxybate.
 
 Prepare both doses of Xyrem prior to bedtime.
-Each dose of Xyrem must be diluted with two ounces (60 mL, ¼ cup, or 4 tablespoons) of water in the child-resistant dosing cups provided prior to ingestion.
-The first dose is to be taken at bedtime and the second taken 2.5 to 4 hours later; both doses should be taken while seated in bed.
-Patients will probably need to set an alarm to awaken for the second dose.
-The second dose must be prepared prior to ingesting the first dose, and should be placed in close proximity to the patient’s bed.
-After ingesting each dose patients should then lie down and remain in bed.
+Prior to ingestion, each dose of Xyrem should be diluted with approximately ¼ cup (approximately 60 mL) of water in the empty pharmacy vials provided.
+Patients should take Xyrem while in bed and lie down immediately after dosing as Xyrem may cause them to fall asleep abruptly without first feeling drowsy.
+Patients will often fall asleep within 5 minutes of taking Xyrem, and will usually fall asleep within 15 minutes, though the time it takes any individual patient to fall asleep may vary from night to night.
+Rarely, patients may take up to 2 hours to fall asleep.
+Therefore, patients should remain in bed following ingestion of the first dose, and should not take the second dose until 2.5 to 4 hours later.
+Patients may need to set an alarm to awaken for the second dose.
 
-Because food significantly reduces the bioavailability of sodium oxybate, the patient should allow at least 2 hours after eating before taking the first dose of sodium oxybate.
-Patients should try to minimize variability in the timing of dosing in relation to meals.
+## 2.3 Dose Modification in Patients with Hepatic Impairment
 
-## Hepatic Insufficiency
-
-Patients with compromised liver function will have increased elimination half-life and systemic exposure along with reduced clearance (see Pharmacokinetics).
-As a result, the starting dose should be decreased by one-half and dose increments should be titrated to effect while closely monitoring potential adverse events.
-
-## Preparation and Administration Precautions
-
-Each bottle of Xyrem is provided with a child resistant cap.
-The pharmacy provides two dosing cups with child-resistant caps with each Xyrem shipment.
-
-Care should be taken to prevent access to this medication by children and pets.
-
-See the MEDICATION GUIDE for a complete description.
+The recommended starting dose in patients with hepatic impairment is 2.25 g per night administered orally in two equal, divided doses: approximately 1.13 g at bedtime and approximately 1.13 g taken 2.5 to 4 hours later [see Use in Specific Populations (8.6); Clinical Pharmacology (12.3)].

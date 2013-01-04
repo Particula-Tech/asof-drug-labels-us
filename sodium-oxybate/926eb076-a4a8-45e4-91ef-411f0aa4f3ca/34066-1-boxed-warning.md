@@ -1,18 +1,12 @@
-!WARNING: Central nervous system depressant with abuse potential.
-Should not be used with alcohol or other CNS depressants.
+# WARNING: CENTRAL NERVOUS SYSTEM DEPRESSION and MISUSE AND ABUSE.
 
-Sodium oxybate is GHB, a known drug of abuse.
-Abuse has been associated with some important central nervous system (CNS) adverse events (including death).
-Even at recommended doses, use has been associated with confusion, depression and other neuropsychiatric events.
-Reports of respiratory depression occurred in clinical trials.
-Almost all of the patients who received sodium oxybate during clinical trials were receiving CNS stimulants.
+Xyrem (sodium oxybate) is a CNS depressant.
+In clinical trials at recommended doses obtundation and clinically significant respiratory depression occurred in Xyrem-treated patients.
+Almost all of the patients who received Xyrem during clinical trials in narcolepsy were receiving central nervous system stimulants[see Warnings and Precautions (5.1)].
 
-Important CNS adverse events associated with abuse of GHB include seizure, respiratory depression and profound decreases in level of consciousness, with instances of coma and death.
-For events that occurred outside of clinical trials, in people taking GHB for recreational purposes, the circumstances surrounding the events are often unclear (e.g., dose of GHB taken, the nature and amount of alcohol or any concomitant drugs).
+Xyrem® (sodium oxybate) is the sodium salt of gamma hydroxybutyrate (GHB).
+Abuse of GHB, either alone or in combination with other CNS depressants, is associated with CNS adverse reactions, including seizure, respiratory depression, decreases in the level of consciousness, coma, and death [see Warnings and Precautions (5.2)].
 
-Xyrem is available through the Xyrem Success Program, using a centralized pharmacy 1-866-XYREM88® (1-866-997-3688).
-The Success Program provides educational materials to the prescriber and the patient explaining the risks and proper use of sodium oxybate, and the required prescription form.
-Once it is documented that the patient has read and/or understood the materials, the drug will be shipped to the patient.
-The Xyrem Success Program also recommends patient follow-up every 3 months.
-Physicians are expected to report all serious adverse events to the manufacturer.
-(See WARNINGS).
+Because of the risks of CNS depression, abuse, and misuse, Xyrem is available only through a restricted distribution program called the Xyrem Success Program®, using a centralized pharmacy.
+Prescribers and patients must enroll in the program.
+For further information go to www.XYREM.com or call 1-866-XYREM88® (1-866-997-3688).[see Warnings and Precautions (5.3)].

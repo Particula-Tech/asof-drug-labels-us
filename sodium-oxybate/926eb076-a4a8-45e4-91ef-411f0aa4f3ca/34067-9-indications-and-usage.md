@@ -1,5 +1,13 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Xyrem (sodium oxybate) oral solution is indicated for the treatment of excessive daytime sleepiness and cataplexy in patients with narcolepsy.
+Limitations of Use
 
-In Xyrem clinical trials, approximately 80% of patients maintained concomitant stimulant use (see BLACK BOX WARNINGS).
+Xyrem may only be dispensed to patients enrolled in the Xyrem Success Program [see Warnings and Precautions (5.3)].
+
+## 1.1 Cataplexy in Narcolepsy
+
+Xyrem (sodium oxybate) oral solution is indicated for the treatment of cataplexy in narcolepsy [see Clinical Studies (14.1)].
+
+## 1.2 Excessive Daytime Sleepiness in Narcolepsy
+
+Xyrem (sodium oxybate) oral solution is indicated for the treatment of excessive daytime sleepiness (EDS) in narcolepsy [see Clinical Studies (14.2)].
