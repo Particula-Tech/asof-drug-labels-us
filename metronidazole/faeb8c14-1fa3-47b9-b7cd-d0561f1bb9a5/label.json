@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020743"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Dermik Laboratories",
+  "package_ndcs": [
+    "0066-9850-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "metronidazole",
+      "name": "Noritate"
+    }
+  ],
+  "setid": "faeb8c14-1fa3-47b9-b7cd-d0561f1bb9a5",
+  "source": "dailymed"
+}
