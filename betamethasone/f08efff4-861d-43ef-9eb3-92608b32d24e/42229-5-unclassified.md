@@ -22,15 +22,15 @@ The foam is dispensed from an aluminum can that is pressurized by a hyrdrocarbon
 
 If you answer YES to one or more of the following questions, tell your doctor (or pharmacist) before using this medicine, so you can get advice about what to do.
 
-- Are you allergic to any of the ingredients contained in Luxíq?
-- Are you pregnant?
+- •Are you allergic to any of the ingredients contained in Luxíq?
+- •Are you pregnant?
   Planning on becoming pregnant while using Luxíq?
   Or are you breastfeeding?
-- Do you think you have an infection on your scalp?
+- •Do you think you have an infection on your scalp?
 
-- Do not use this medication for any condition other than the one for which it was prescribed.
-- Luxíq is for external use only.
-- Keep the foam away from your eyes, as it will sting.
+- •Do not use this medication for any condition other than the one for which it was prescribed.
+- •Luxíq is for external use only.
+- •Keep the foam away from your eyes, as it will sting.
   If the foam gets into your eyes, rinse well with cold water.
   If the stinging continues, contact your doctor immediately.
 
@@ -50,22 +50,22 @@ These side effects typically disappear shortly after application.
 
 Let your doctor know if you notice any of the following:
 
-- Any unusual effects that you do not understand.
-- Affected areas that do not seem to be healing after several weeks of using the foam.
+- •Any unusual effects that you do not understand.
+- •Affected areas that do not seem to be healing after several weeks of using the foam.
 
 Important safety notes
 
-- The treated areas should not be bandaged or covered unless directed by your doctor.
-- Keep this and all medicines out of the reach of children.
-- Store the can at controlled room temperature 68-77oF (20-25oC) and protect it from direct sunlight, as this is a pressurized container.
-- Keep away from and do not spray near fire, open flame, or direct heat--this product is flammable.
+- •The treated areas should not be bandaged or covered unless directed by your doctor.
+- •Keep this and all medicines out of the reach of children.
+- •Store the can at controlled room temperature 68-77oF (20-25oC) and protect it from direct sunlight, as this is a pressurized container.
+- •Keep away from and do not spray near fire, open flame, or direct heat--this product is flammable.
   Do not smoke while using or holding the can.
   Keep the can away from all sources of ignition.
   Do not pierce or burn the can, and never throw the can in a fire, even if empty.
-- When you have finished your treatment, dispose of the can safely.
+- •When you have finished your treatment, dispose of the can safely.
   A completely empty can is recyclable.
-- Do not use the foam after the expiration date shown on the bottom of the can.
-- Do not give Luxíq to anyone else.
+- •Do not use the foam after the expiration date shown on the bottom of the can.
+- •Do not give Luxíq to anyone else.
   Your doctor has prescribed this medicine for your use only.
 
 Manufactured for

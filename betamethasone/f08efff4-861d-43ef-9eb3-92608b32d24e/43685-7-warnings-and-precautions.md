@@ -28,13 +28,13 @@ If a favorable response does not occur promptly, use of Luxíq should be discont
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician.
+1. 1.This medication is to be used as directed by the physician.
    It is for external use only.
    Avoid contact with the eyes.
-2. This medication should not be used for any disorder other than that for which it was prescribed.
-3. The treated scalp area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
-4. Patients should report to their physician any signs of local adverse reactions.
-5. As with other corticosteroids, therapy should be discontinued when control is achieved.
+2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
+3. 3.The treated scalp area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
+4. 4.Patients should report to their physician any signs of local adverse reactions.
+5. 5.As with other corticosteroids, therapy should be discontinued when control is achieved.
    If no improvement is seen within 2 weeks, contact the physician.
 
 ## Laboratory Tests
