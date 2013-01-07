@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202093"
+  ],
+  "inn": "tranexamic-acid",
+  "labeler": "Watson Laboratories, Inc.",
+  "package_ndcs": [
+    "0591-3720-10",
+    "0591-3720-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tranexamic acid",
+      "name": "Tranexamic Acid"
+    }
+  ],
+  "setid": "3f07e93b-3568-487e-894f-8f90e5a0960a",
+  "source": "dailymed"
+}
