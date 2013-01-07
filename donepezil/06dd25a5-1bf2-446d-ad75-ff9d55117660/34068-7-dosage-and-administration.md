@@ -2,8 +2,7 @@
 
 Donepezil hydrochloride tablets should be taken in the evening just before retiring.
 
-Donepezil hydrochloride tablets can be taken with or without food and should be swallowed whole with water.
-Donepezil hydrochloride tablets should not be split or crushed.
+Donepezil hydrochloride can be taken with or without food.
 
 ## 2.1 Mild to Moderate Alzheimer's Disease
 
@@ -13,7 +12,7 @@ The higher dose of 10 mg did not provide a statistically significantly greater c
 There is a suggestion, however, based upon order of group mean scores and dose trend analyses of data from these clinical trials, that a daily dose of 10 mg of donepezil hydrochloride might provide additional benefit for some patients.
 Accordingly, whether or not to employ a dose of 10 mg is a matter of prescriber and patient preference.
 
-## 2.2 Severe Alzheimer's Disease
+## 2.2Moderate to Severe Alzheimer's Disease
 
 Donepezil hydrochloride has been shown to be effective in controlled clinical trials at a dose of 10 mg administered once daily.
 

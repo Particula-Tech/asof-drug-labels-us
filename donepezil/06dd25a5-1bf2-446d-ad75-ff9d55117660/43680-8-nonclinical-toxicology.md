@@ -2,8 +2,14 @@
 
 ## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
 
-No evidence of a carcinogenic potential was obtained in an 88-week carcinogenicity study of donepezil hydrochloride conducted in CD-1 mice at doses up to 180 mg/kg/day (approximately 90 times the maximum recommended human dose on a mg/m 2 basis), or in a 104-week carcinogenicity study in Sprague-Dawley rats at doses up to 30 mg/kg/day (approximately 30 times the maximum recommended human dose on a mg/m 2 basis).
-Donepezil was not mutagenic in the Ames reverse mutation assay in bacteria, or in a mouse lymphoma forward mutation assay in vitro .
-In the chromosome aberration test in cultures of Chinese hamster lung (CHL) cells, some clastogenic effects were observed.
-Donepezil was not clastogenic in the in vivo mouse micronucleus test and was not genotoxic in an in vivo unscheduled DNA synthesis assay in rats.
-Donepezil had no effect on fertility in rats at doses up to 10 mg/kg/day (approximately 8 times the maximum recommended human dose on a mg/m 2 basis).
+No evidence of a carcinogenic potential was obtained in an 88-week carcinogenicity study of donepezil hydrochloride conducted in mice at oral doses up to 180 mg/kg/day or in a 104-week carcinogenicity study in rats at doses up to 30 mg/kg/day (approximately 13 times the MRHD on a mg/m2 basis).
+
+Donepezil was negative in a battery of genotoxicity assays (in vitro bacterial reverse mutation, in vitro mouse lymphoma tk, in vitro chromosomal aberration and in vivo mouse micronucleus).
+
+Donepezil had no effect on fertility in rats at oral doses up to 10 mg/kg/day (approximately 4 times the MRHD on a mg/m2 basis) when administered to males and females prior to and during mating and continuing in females through implantation.
+
+## 13.2 AnimalToxicology
+
+In a published study, female rats were given single doses of donepezil and memantine by intraperitoneal injection, each alone or in combination.
+When given in combination with memantine, donepezil increased the incidence and severity of memantine-induced neurodegeneration.
+The relevance of this finding to humans is unknown.

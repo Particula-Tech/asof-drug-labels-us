@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Studies Experience
 
-Mild To Moderate Alzheimer's Disease Adverse Events Leading to Discontinuation The rates of discontinuation from controlled clinical trials of donepezil hydrochloride due to adverse events for the donepezil hydrochloride 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
+Donepezil hydrochloride tablets 5 mg / day and 10 mg / day Mild To Moderate Alzheimer's Disease Adverse Events Leading to Discontinuation The rates of discontinuation from controlled clinical trials of donepezil hydrochloride due to adverse events for the donepezil hydrochloride 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
 The rate of discontinuation of patients who received 7-day escalations from 5 mg/day to 10 mg/day, was higher at 13%.
 The most common adverse events leading to discontinuation, defined as those occurring in at least 2% of patients and at twice the incidence seen in placebo patients, are shown in Table 1.
 
@@ -157,9 +157,7 @@ Table 4 lists adverse events that were reported in at least 2% of patients in pl
 | Urogenital System |  |  |
 | Urinary Incontinence | 1 | 2 |
 
-Other Adverse Events Observed During Clinical Trials
-
-Donepezil hydrochloride has been administered to over 600 patients with severe Alzheimer's disease during clinical trials of at least 6 months duration, including three double-blind placebo-controlled trials, two of which had an open label extension.
+Other Adverse Events Observed During Clinical Trials Donepezil hydrochloride has been administered to over 600 patients with severe Alzheimer's disease during clinical trials of at least 6 months duration, including three double-blind placebo-controlled trials, two of which had an open label extension.
 All adverse events occurring at least twice are included, except for those already listed in Table 4, COSTART terms too general to be informative, or events less likely to be drug related.
 Events are classified by body system using the COSTART dictionary and listed using the following definitions: Frequent adverse events - those occurring in at least 1/100 patients; Infrequent adverse events - those occurring in 1/100 to 1/1000 patients.
 These adverse events are not necessarily related to donepezil hydrochloride treatment and in most cases were observed at a similar frequency in placebo treated patients in the controlled studies.

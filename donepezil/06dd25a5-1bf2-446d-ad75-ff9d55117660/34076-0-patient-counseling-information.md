@@ -121,7 +121,7 @@ The risk is higher for patients who had ulcers, or take aspirin or other NSAIDs.
 
 · difficulty passing urine.
 
-Call the doctor right away if the patient has:
+Call the doctor right awayif the patient has:
 
 · fainting.
 
@@ -143,7 +143,7 @@ The most common side effects of donepezil hydrochloride tablets are:
 
 · diarrhea
 
-· not sleepingwell
+· not sleeping well
 
 · vomiting
 
@@ -179,16 +179,17 @@ Active ingredient: donepezil hydrochloride USP Inactive Ingredients:
 The film-coating contains talc, polyethylene glycol, hypromellose, and titanium dioxide.
 Additionally, the 10mg tablet contains yellow iron oxide (synthetic) as a coloring agent.
 
-Manufactured by:
-
-Macleods Pharmaceutical Ltd.
-
-Nalgarh, Himachal Pradesh, India.
-
 Manufactured for:
 
 Macleods Pharma USA, INC,.
 
-Plainsboro, NJ08536
+Plainsboro, NJ 08536
 
-Rx Only September 2012
+Manufactured by:
+
+Macleods Pharmaceutical Ltd.
+
+Baddi, Himachal Pradesh, India.
+Rx only
+
+January2013

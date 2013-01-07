@@ -57,13 +57,13 @@ The duration of this placebo washout period was not sufficient to characterize t
 Figure 5 illustrates the cumulative percentages of patients from each of the three treatment groups who attained the measure of improvement in ADAS-cog score shown on the X axis.
 The same three change scores, (7-point and 4-point reductions from baseline or no change in score) as selected for the 30-week study have been used for this illustration.
 The percentages of patients achieving those results are shown in the inset table.
-As observed in the 30-week study, the curves demonstrate that patients assigned to either placebo or to donepezil hydrochlorothiazide have a wide range of responses, but that the donepezil hydrochloride treated patients are more likely to show greater improvements in cognitive performance.
+As observed in the 30-week study, the curves demonstrate that patients assigned to either placebo or to donepezil hydrochloride have a wide range of responses, but that the donepezil hydrochloride treated patients are more likely to show greater improvements in cognitive performance.
 Effects on the CIBIC-plus: Figure 6 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients assigned to each of the three treatment groups who completed 12 weeks of treatment.
 The differences in mean scores for donepezil hydrochloride treated patients compared to the patients on placebo at Week 12 were 0.36 and 0.38 points for the 5 mg/day and 10 mg/day treatment groups, respectively.
 These differences were statistically significant.
 In both studies, patient age, sex and race were not found to predict the clinical outcome of donepezil hydrochloride treatment.
 
-## 14.2 Severe Alzheimer's Disease
+## 14.2 Moderate to Severe Alzheimer's Disease
 
 The effectiveness of donepezil hydrochloride in the treatment of patients with moderate to severe Alzheimer’s Disease was established in studies employing doses of 10 mg/day.
 Swedish 6 Month Study The effectiveness of donepezil hydrochloride as a treatment for severe Alzheimer's disease is demonstrated by the results of a randomized, double-blind, placebo-controlled clinical study conducted in Sweden (6 month study) in patients with probable or possible Alzheimer's disease diagnosed by NINCDS-ADRDA and DSM-IV criteria, MMSE: range of 1-10.
