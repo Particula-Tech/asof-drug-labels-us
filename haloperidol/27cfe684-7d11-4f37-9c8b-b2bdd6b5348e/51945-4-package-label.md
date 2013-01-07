@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL- 5 mg vial box
+# PRINCIPAL DISPLAY PANEL- 5 mg ampule box
 
 NSN 6505-00-268-8530 NDC 50458-255-01
 
@@ -16,19 +16,21 @@ HALOPERIDOL INJECTION (For Immediate Release)
 
 5 mg per mL
 
-10 x 1-mL STERILE AMPULS
+10 x 1-mL STERILE AMPULES
 
 Rx only.
-
-Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals
 
 Each mL contains: Haloperidol 5 mg (as the lactate) and lactic acid for pH adjustment to 3.0-3.6
 
 For Intramuscular Use
 
-Manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium
+Product of Belgium Mfg by: GlaxoSmithKline Manufacturing S.p.A.
+Parma, Italy
 
-Distributed by: ORTHO-McNEIL PHARMACEUTICAL, INC. Raritan, NJ 08869
+Mfg for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-© OMP 2005 262262
+10000000092392
+
+© Janssen 2005
+
+Janssen
