@@ -21,3 +21,9 @@ Closely monitor blood pressure, renal function and electrolytes in patients on B
 
 Do not co-administer aliskiren with Benicar in patients with diabetes [see Contraindications (4)].
 Avoid use of aliskiren with Benicar in patients with renal impairment (GFR <60 ml/min).
+
+Colesevelam hydrochloride
+
+Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan.
+Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
+Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].

@@ -67,3 +67,10 @@ Hepatic Insufficiency Increases in AUC0-∞ and Cmax were observed in patients w
 Renal Insufficiency In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
 The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied [see Dosage and Administration (2.1), Warnings and Precautions (5.4) and Use in Specific Populations (8.7)].
+
+### Drug Interactions
+
+Bile acid sequestering agent colesevelam
+
+Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
+Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan m edoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7)].
