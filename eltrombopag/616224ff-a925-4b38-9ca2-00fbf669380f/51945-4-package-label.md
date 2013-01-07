@@ -136,7 +136,7 @@ NDC 0007-4644-13
 
 PROMACTA®
 
-- (eltrombopag) Tablets
+(eltrombopag) Tablets
 
 100 mg*
 

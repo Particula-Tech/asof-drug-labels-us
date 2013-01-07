@@ -9,7 +9,7 @@ If bilirubin is elevated, perform fractionation.
 ●Evaluate abnormal serum liver tests with repeat testing within 3 to 5 days.
 If the abnormalities are confirmed, monitor serum liver tests weekly until the abnormality(ies) resolve, stabilize, or return to baseline levels.
 
-●Discontinue PROMACTA if ALT levels increase to ≥3X the upper limit of normal (ULN) in patients with normal liver function or 3X baseline in patients with pre-treatment elevations in transaminases and are:
+●Discontinue PROMACTA if ALT levels increase to ≥3X the upper limit of normal (ULN) in patients with normal liver function or ≥3X baseline in patients with pre-treatment elevations in transaminases and are:
 
 ●progressive, or
 
