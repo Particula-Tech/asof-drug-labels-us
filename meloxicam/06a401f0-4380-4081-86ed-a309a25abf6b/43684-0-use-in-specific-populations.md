@@ -55,3 +55,8 @@ The use of meloxicam in subjects with severe renal impairment is not recommended
 Following a single dose of meloxicam, the free Cmax plasma concentrations were higher in patients with renal failure on chronic hemodialysis (1% free fraction) in comparison to healthy volunteers (0.3% free fraction).
 Therefore, it is recommended that meloxicam dosage in this population not exceed 7.5 mg per day Hemodialysis did not lower the total drug concentration in plasma; therefore, additional doses are not necessary after hemodialysis.
 Meloxicam is not dialyzable [See DOSAGE AND ADMINISTRATION (2.1), WARNINGS AND PRECAUTIONS (5.6), and CLINICAL PHARMACOLOGY (12.3)].
+
+## 8.8 Females of Reproductive Potential
+
+Data from several small studies in humans and from studies in animals indicate that NSAIDs, including meloxicam, may be associated with a reversible delay in ovulation.
+Therefore, in women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended.

@@ -66,7 +66,7 @@ Discontinuation of NSAID therapy is usually followed by recovery to the pretreat
 
 A pharmacokinetic study in patients with mild and moderate renal impairment revealed that no dosage adjustments in these patient populations are required.
 Patients with severe renal impairment have not been studied.
-The use of meloxicam s in patients with severe renal impairment with CrCl less than 20 mL/min is not recommended.
+The use of meloxicam in patients with severe renal impairment with CrCl less than 20 mL/min is not recommended.
 A study performed in patients on hemodialysis revealed that although overall Cmax was diminished in this population, the proportion of free drug not bound to plasma was increased.
 Therefore it is recommended that meloxicam dosage in this population not exceed 7.5 mg per day.
 Closely monitor the renal function of patients with impaired renal function who are taking meloxicam [See DOSAGE AND ADMINISTRATION (2.1), USE IN SPECIFIC POPULATIONS (8.7), and CLINICAL PHARMACOLOGY (12.3)].
@@ -82,7 +82,7 @@ Because some meloxicam metabolites are excreted by the kidney, monitor patients 
 
 As with other NSAIDs, anaphylactoid reactions have occurred in patients without known prior exposure to meloxicam.
 Meloxicam should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [See CONTRAINDICATIONS (4.1)and WARNINGS AND PRECAUTIONS (5.12)].
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [See CONTRAINDICATIONS (4.1) and WARNINGS AND PRECAUTIONS (5.12)].
 Seek emergency help in cases where an anaphylactoid reaction occurs.
 
 ## 5.8 Adverse Skin Reactions

@@ -16,7 +16,7 @@ Patients should be apprised of the importance of this follow-up [See WARNINGS AN
 
 ## 17.3 Gastrointestinal Effects
 
-NSAIDs including meloxicam tablet, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+NSAIDs including meloxicam tablets, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
 Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
 Patients should be apprised of the importance of this follow-up [See WARNINGS AND PRECAUTIONS (5.2)].
 
@@ -44,6 +44,10 @@ Instruct patients to seek immediate emergency help [see WARNINGS AND PRECAUTIONS
 
 Starting at 30 weeks gestation, meloxicam tablet should be avoided as premature closure of the ductus arteriosus in the fetus may occur [See WARNINGS AND PRECAUTIONS (5.9) and USE IN SPECIFIC POPULATIONS (8.1)].
 
+## 17.9 Effects on Female Fertility Advise Females of Reproductive Potential Who Desire Pregnancy That NSAIDs, Including
+
+Meloxicam tablets, may be associated with a reversible delay in ovulation For women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended [see USE IN SPECIFIC POPULATIONS (8.8)].
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
@@ -58,9 +62,18 @@ Lupin Limited
 
 Goa 403 722
 
-INDIA
+INDIA.
 
-Revised: January, 2011 ID#: 223312
+or
+
+Lupin Limited
+
+Pithampur (M.P.)-454 775
+
+INDIA.
+
+Revised: January, 2013.
+ID#: 229985
 
 Meloxicam Tablets USP
 
@@ -128,9 +141,7 @@ Tell your healthcare provider:
 - if you are breastfeeding.
   Talk to your doctor.
 
-What are the possible side effects of
-
-Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
 Serious side effects include:
 
@@ -193,8 +204,9 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
 - Some of these NSAID medicines are sold in lower doses without a prescription (over-the-counter).
-  Talk to your healthcare provider before using over-thecounter NSAIDs for more than 10 days.
-- NSAID medicines that need a prescription
+  Talk to your healthcare provider before using over-the counter NSAIDs for more than 10 days.
+
+NSAID medicines that need a prescription
 
 | Generic Name | Tradename |
 | --- | --- |
@@ -219,6 +231,8 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
@@ -231,8 +245,16 @@ Manufactured by:
 
 Lupin Limited
 
-Goa 403 722
+Goa-403 722
 
 INDIA
 
-Revised: September, 2010 ID#: 222855
+or
+
+Lupin Limited
+
+Pithampur (M.P.)-454 775
+
+INDIA.
+
+Revised: January, 2013 ID#: 229986

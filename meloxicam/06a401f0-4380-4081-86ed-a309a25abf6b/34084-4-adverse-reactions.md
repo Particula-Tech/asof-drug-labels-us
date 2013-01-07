@@ -5,19 +5,19 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
 - Cardiovascular thrombotic events [See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- Gastrointestinal effects – risk of GI ulceration, bleeding, and perforation [See BOXED WARNINGand WARNINGS AND PRECAUTIONS (5.2)]
+- Gastrointestinal effects – risk of GI ulceration, bleeding, and perforation [See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
 - Hepatic effects [See WARNINGS AND PRECAUTIONS (5.3)]
 - Hypertension [See WARNINGS AND PRECAUTIONS (5.4)]
 - Congestive heart failure and edema [See WARNINGS AND PRECAUTIONS (5.5)]
 - Renal effects [see WARNINGS AND PRECAUTIONS (5.6)]
-- Anaphylactoid reactions [See WARNINGS AND PRECAUTIONS (5.7)]
+- Anaphylactoid reactions [SeeWARNINGS AND PRECAUTIONS (5.7)]
 - Adverse skin reactions [See WARNINGS AND PRECAUTIONS (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
 Adults
 
-Osteoarthritis and Rheumatoid Arthritis
+Osteoarthritis and Rheumatoid Arthritis:
 
 The meloxicam Phase 2/3 clinical trial database includes 10,122 OA patients and 1012 RA patients treated with meloxicam 7.5 mg/day, 3505 OA patients and 1351 RA patients treated with meloxicam 15 mg/day.
 Meloxicam at these doses was administered to 661 patients for at least 6 months and to 312 patients for at least one year.
@@ -81,7 +81,7 @@ Table 2 Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in 4 to 6 We
 | Diarrhea | 1.9 | 2.7 | 5.9 | 2.6 |
 | Dyspepsia | 3.8 | 7.4 | 8.9 | 9.5 |
 | Flatulence | 0.5 | 0.4 | 3.0 | 2.6 |
-| Nausea | 2.4 | 0.47 | 4.7 | 7.2 |
+| Nausea | 2.4 | 4.7 | 4.7 | 7.2 |
 | Vomiting | 0.6 | 0.8 | 1.8 | 2.6 |
 | Body as a Whole |  |  |  |  |
 | Accident household | 0.0 | 0.0 | 0.6 | 2.9 |

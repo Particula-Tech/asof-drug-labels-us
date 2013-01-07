@@ -3,12 +3,14 @@
     "ANDA077944"
   ],
   "inn": "meloxicam",
-  "labeler": "LUPIN PHARMACEUTICALS INC",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
   "package_ndcs": [
     "68180-501-01",
     "68180-501-03",
+    "68180-501-09",
     "68180-502-01",
-    "68180-502-03"
+    "68180-502-03",
+    "68180-502-09"
   ],
   "products": [
     {
