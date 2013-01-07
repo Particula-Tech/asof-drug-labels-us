@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022484"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Merz Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "0259-0501-16"
+  ],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "glycopyrrolate",
+      "name": "Cuvposa"
+    }
+  ],
+  "setid": "d200bd44-9856-4104-a29e-a4cca3db6737",
+  "source": "dailymed"
+}
