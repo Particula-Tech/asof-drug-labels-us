@@ -7,7 +7,7 @@ No. 24207
 
 ## Storage:
 
-Store at 2°-30°C (36°-86°F).
+Store at 2°-25°C (36°-77°F).
 Avoid excessive heat.
 
 KEEP OUT OF REACH OF CHILDREN.
@@ -16,4 +16,4 @@ Revised August 2007
 
 Bausch & Lomb Incorporated Tampa, FL 33637 ©Bausch & Lomb Incorporated
 
-9116800 (Folded) 9116900 (Flat)
+9116801 (Folded) 9116901 (Flat)
