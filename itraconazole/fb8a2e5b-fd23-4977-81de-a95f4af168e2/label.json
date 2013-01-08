@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022484"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Merz Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "0259-1420-14",
+    "0259-1420-28"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "itraconazole",
+      "name": "Onmel"
+    }
+  ],
+  "setid": "fb8a2e5b-fd23-4977-81de-a95f4af168e2",
+  "source": "dailymed"
+}
