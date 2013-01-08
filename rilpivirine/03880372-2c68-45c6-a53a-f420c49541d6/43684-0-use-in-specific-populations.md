@@ -15,7 +15,7 @@ Antiretroviral Pregnancy Registry
 To monitor maternal-fetal outcomes of pregnant women exposed to EDURANT, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1-800-258-4263.
 
-## 8.3 Nursing mothers
+## 8.3 Nursing Mothers
 
 The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 Studies in lactating rats and their offspring indicate that rilpivirine was present in rat milk.

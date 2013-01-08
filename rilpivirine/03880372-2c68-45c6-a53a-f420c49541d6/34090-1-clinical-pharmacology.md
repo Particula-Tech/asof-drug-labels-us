@@ -2,14 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-Rilpivirine is an antiviral drug [see Clinical Pharmacology (12.4)].
+Rilpivirine is an antiviral drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
 Effects on Electrocardiogram
 
 The effect of EDURANT at the recommended dose of 25 mg once daily on the QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg once daily) controlled crossover study in 60 healthy adults, with 13 measurements over 24 hours at steady state.
-The maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline-correction was 4.8 (8.2) milliseconds (i.e., below the threshold of clinical concern).
+The maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline-correction was 2.0 (5.0) milliseconds (i.e., below the threshold of clinical concern).
 
 When supratherapeutic doses of 75 mg once daily and 300 mg once daily of EDURANT were studied in healthy adults, the maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline-correction were 10.7 (15.3) and 23.3 (28.4) milliseconds, respectively.
 Steady-state administration of EDURANT 75 mg once daily and 300 mg once daily resulted in a mean steady-state Cmax approximately 2.6-fold and 6.7-fold, respectively, higher than the mean Cmax observed with the recommended 25 mg once daily dose of EDURANT [see Warnings and Precautions (5.1)].
@@ -21,16 +21,16 @@ Pharmacokinetics in Adults
 The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in adult antiretroviral treatment-naïve HIV-1-infected subjects.
 Exposure to rilpivirine was generally lower in HIV-1 infected subjects than in healthy subjects.
 
-Table 5: Population Pharmacokinetic Estimates of Rilpivirine 25 mg once daily in Antiretroviral Treatment-Naïve HIV-1-Infected Subjects (Pooled Data from Phase 3 Trials through Week 48)
+Table 5: Population Pharmacokinetic Estimates of Rilpivirine 25 mg once daily in Antiretroviral Treatment-Naïve HIV-1-Infected Subjects (Pooled Data from Phase 3 Trials through Week 96)
 
 | Parameter | Rilpivirine 25 mg once daily N = 679 |
 | --- | --- |
 | AUC24h (ng∙h/mL) |  |
-| Mean ± Standard Deviation | 2397 ± 1032 |
-| Median (Range) | 2204 (482 – 8601) |
+| Mean ± Standard Deviation | 2235 ± 851 |
+| Median (Range) | 2096 (198 – 7307) |
 | C0h (ng/mL) |  |
-| Mean ± Standard Deviation | 80 ± 37 |
-| Median (Range) | 74 (1 – 300) |
+| Mean ± Standard Deviation | 79 ± 35 |
+| Median (Range) | 73 (2 – 288) |
 
 Absorption and Bioavailability
 
@@ -189,35 +189,43 @@ The frequently observed amino acid substitutions that emerged and conferred decr
 
 In Treatment-Naïve Subjects
 
-In the pooled resistance analysis from the Phase 3 Studies C209 and C215, the emergence of resistance among subjects was greater in the EDURANT arm compared to the efavirenz arm (see Table 8).
-In the combined studies, 41% (38/92) of the virologic failures in the rilpivirine arms had genotypic and phenotypic resistance to rilpivirine compared to 25% (15/60) of the virologic failures in the efavirenz arms who had genotypic and phenotypic resistance to efavirenz.
-Moreover, resistance to a background drug (emtricitabine, lamivudine, tenofovir, abacavir or zidovudine) emerged in 48% (44/92) of the virologic failures in the rilpivirine arms compared to 15% (9/60) in the efavirenz arms.
+In the Week 96 pooled resistance analysis of the Phase 3 trials C209 and C215, the emergence of resistance was greater among subjects' viruses in the EDURANT arm compared to the efavirenz arm, and was dependent on baseline viral load.
+In the pooled resistance analysis, 58% (57/98) of the subjects who qualified for resistance analysis (resistance analysis subjects) in the EDURANT arm had virus with genotypic and/or phenotypic resistance to rilpivirine compared to 45% (25/56) of the resistance analysis subjects in the efavirenz arm who had genotypic and/or phenotypic resistance to efavirenz.
+Moreover, genotypic and/or phenotypic resistance to a background drug (emtricitabine, lamivudine, tenofovir, abacavir or zidovudine) emerged in viruses from 52% (51/98) of the resistance analysis subjects in the rilpivirine arm compared to 23% (13/56) in the efavirenz arm.
 
-Emerging NNRTI substitutions in the rilpivirine virologic failures included V90I, K101E/P/T, E138K/G, V179I/L, Y181I/C, V189I, H221Y, F227C/L and M230L, which were associated with a rilpivirine phenotypic fold change range of 2.6 – 621.
-The E138K substitution emerged most frequently on rilpivirine treatment commonly in combination with the M184I substitution.
-The emtricitabine and lamivudine resistance-associated substitutions M184I or V and the tenofovir resistance-associated substitutions K65R or N emerged more frequently in rilpivirine virologic failures compared to efavirenz virologic failures (see Table 8).
+Emerging NNRTI substitutions in the rilpivirine resistance analysis of subjects' viruses included V90I, K101E/P/T, E138K/A/Q/G, V179I/L, Y181C/I, V189I, H221Y, F227C/L and M230L, which were associated with a rilpivirine phenotypic fold change range of 2.6 – 621.
+The E138K substitution emerged most frequently during rilpivirine treatment commonly in combination with the M184I substitution.
+The emtricitabine and lamivudine resistance-associated substitutions M184I or V and NRTI resistance-associated substitutions (K65R/N, A62V, D67N/G, K70E, Y115F, T215S/T, or K219E/R) emerged more frequently in rilpivirine resistance analysis subjects compared to efavirenz resistance analysis subjects (see Table 8).
+
+NNRTI- and NRTI-resistance substitutions emerged less frequently in resistance analysis of viruses from subjects with baseline viral load of ≤ 100,000 copies/mL compared to viruses from subjects with baseline viral load of > 100,000 copies/mL: 26% (14/54) compared to 74% (40/54) of NNRTI-resistance substitutions and 22% (11/50) compared to 78% (39/50) of NRTI-resistance substitutions.
+This difference was also observed for the individual emtricitabine/lamivudine and tenofovir resistance substitutions: 23% (11/47) compared to 77% (36/47) for M184I/V and 0% (0/8) compared to 100% (8/8) for K65R/N.
+Additionally, NNRTI- and NRTI-resistance substitutions emerged less frequently in the resistance analysis of viruses from subjects with baseline CD4+ cell counts ≥ 200 cells/mm3 compared to viruses from subjects with baseline CD4+ cell counts < 200 cells/mm3: 37% (20/54) compared to 63% (34/54) of NNRTI-resistance substitutions and 28% (14/50) compared to 72% (36/50) of NRTI-resistance substitutions.
 
 Table 8.
-Proportion of Frequently Emergent Reverse Transcriptase Substitutions in Virologic Failures from the Combined Phase 3 Studies
+Proportion of Resistance Analysis SubjectsSubjects who qualified for resistance analysis. with Frequently Emerging Reverse Transcriptase Substitutions from the Pooled Phase 3 TMC278-C209 and TMC278-C215 Trials in the Week 96 Analysis
 
-|  | Rilpivirine N = 686 | EFV Control N = 682 |
+|  | EDURANT + BR N = 686 | Efavirenz + BR N = 682 |
 | --- | --- | --- |
 |  | C209 and C215 N = 1368 |  |
-| Virologic Failures (As-Treated) | 92/652 (14%) | 60/604 (10%) |
-| Evaluable Post-Baseline Resistance Data | 75 | 37 |
-| Emergent NNRTI Substitutions in Virologic Failures with Post-Baseline Data |  |  |
-| V90I | 12% (9/75) | 0 |
-| K101E/P/T | 19% (14/75) | 3% (1/37) |
-| K103N | 0 | 32% (12/37) |
-| E138K/G | 36% (27/75) | 0 |
-| E138K+ M184IThis combination of NRTI and NNRTI substitutions is a subset of those with the E138K | 27% (20/75) | 0 |
-| V179I/D/L | 5% (4/75) | 3% (1/37) |
-| Y181C/I | 9% (7/75) | 0 |
-| V189I | 8% (6/75) | 3% (1/37) |
-| H221Y | 8% (6/75) | 0 |
-| Emergent NRTI Substitutions in Virologic Failures with Post-Baseline Data |  |  |
-| M184I or V | 53% (40/75) | 22% (8/37) |
-| K65R/N | 9% (7/75) | 5% (2/37) |
+| Subjects who Qualified for Resistance Analysis | 15% (98/652) | 9% (56/604) |
+| Subjects with Evaluable Post-Baseline Resistance Data | 87 | 43 |
+| Emerging NNRTI SubstitutionsV90, L100, K101, K103, V106, V108, E138, V179, Y181, Y188, V189, G190, H221, P225, F227 or M230 |  |  |
+| Any | 62% (54/87) | 53% (23/43) |
+| V90I | 13% (11/87) | 2% (1/43) |
+| K101E/P/T/Q | 20% (17/87) | 9% (4/43) |
+| K103N | 1% (1/87) | 40% (17/43) |
+| E138K/A/Q/G | 40% (35/87) | 2% (1/43) |
+| E138K+ M184IThis combination of NNRTI and NRTI substitutions is a subset of those with the E138K. | 25% (22/87) | 0 |
+| V179I/L/D | 6% (5/87) | 7% (3/43) |
+| Y181C/I/S | 10% (9/87) | 2% (1/43) |
+| V189I | 8% (7/87) | 2% (1/43) |
+| H221Y | 9% (8/87) | 0 |
+| Emerging NRTI SubstitutionsA62V, K65R/N, D67N/G, K70E, L74I, V75I, Y115F, M184I/V, L210F, T215S/T, K219E/R |  |  |
+| Any | 57% (50/87) | 30% (13/43) |
+| M184I/V | 54% (47/87) | 26% (11/43) |
+| K65R/N | 9% (8/87) | 5% (2/43) |
+| A62V, D67N/G, K70E, Y115F, T215S/T or K219E/RThese substitutions emerged in addition to the primary substitutions M184V/I or K65R/N; A62V (n=3), D67N/G (n=3), K70E (n=4), Y115F (n=2), T215S/T (n=1), K219E/R (n=8) in rilpivirine resistance analysis subjects. | 21% (18/87) | 2% (1/43) |
+| BR = background regimen |  |  |
 
 Cross-Resistance
 
@@ -226,15 +234,16 @@ Site-Directed NNRTI Mutant Virus
 Cross-resistance has been observed among NNRTIs.
 The single NNRTI substitutions K101P, Y181I and Y181V conferred 52-fold, 15-fold and 12-fold decreased susceptibility to rilpivirine, respectively.
 The combination of E138K and M184I showed 6.7-fold reduced susceptibility to rilpivirine compared to 2.8-fold for E138K alone.
-The K103N substitution did not show reduced susceptibility to rilpivirine.
-Combinations of 2 or 3 NNRTI resistance-associated substitutions gave decreased susceptibility to rilpivirine (fold change range of 3.7 – 554) in 38% and 66% of mutants, respectively.
+The K103N substitution did not result in reduced susceptibility to rilpivirine by itself.
+However, the combination of K103N and L100I resulted in a 7-fold reduced susceptibility to rilpivirine.
+Combinations of 2 or 3 NNRTI resistance-associated substitutions had decreased susceptibility to rilpivirine (fold change range of 3.7 – 554) in 38% and 66% of mutants analyzed, respectively.
 
 Treatment-naïve HIV-1-infected subjects
 
-Considering all of the available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, H221Y, F227C, M230I or M230L.
+Considering all of the available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, Y188L, H221Y, F227C, M230I or M230L.
 
 Cross-resistance to efavirenz, etravirine and/or nevirapine is likely after virologic failure and development of rilpivirine resistance.
-In the pooled analyses of the Phase 3 clinical trials, 38 rilpivirine virologic failure subjects had evidence of rilpivirine resistance.
-Of these subjects, 89% (n = 34) were resistant to etravirine and efavirenz, and 63% (n = 24) were resistant to nevirapine.
-In the efavirenz arm, none of the 15 efavirenz-resistant virologic failures were resistant to etravirine at failure.
-Subjects experiencing virologic failure on EDURANT developed more NNRTI resistance-associated substitutions conferring more cross-resistance to the NNRTI class and had a higher likelihood of cross-resistance to all NNRTIs in the class than subjects who failed on efavirenz.
+In the Week 96 pooled analyses of the Phase 3 TMC278-C209 and TMC278-C215 clinical trials, 50 of the 87 (57%) rilpivirine resistance analysis subjects with post-baseline resistance data had virus with decreased susceptibility to rilpivirine (≥ 2.5 fold change).
+Of these, 86% (n= 43/50) were resistant to efavirenz (≥ 3.3 fold change), 90% (n= 45/50) were resistant to etravirine (≥ 3.2 fold change) and 62% (n= 31/50) were resistant to nevirapine (≥ 6 fold change).
+In the efavirenz arm, 3 of the 21 (14%) efavirenz resistance analysis subjects' viruses were resistant to etravirine and rilpivirine, and 95% (n= 20/21) were resistant to nevirapine.
+Virus from subjects experiencing virologic failure on EDURANT developed more NNRTI resistance-associated substitutions conferring more cross-resistance to the NNRTI class and had a higher likelihood of cross-resistance to all NNRTIs in the class compared to virus from subjects who failed on efavirenz.

@@ -11,5 +11,5 @@ Rilpivirine hydrochloride has the following structural formula:
 Rilpivirine hydrochloride is a white to almost white powder.
 Rilpivirine hydrochloride is practically insoluble in water over a wide pH range.
 
-Each EDURANT tablet also contains the inactive ingredients croscarmellose sodium, magnesium stearate, lactose monohydrate, povidone K30, polysorbate 20 and silicified microcrystalline cellulose.
+Each EDURANT tablet also contains the inactive ingredients croscarmellose sodium, lactose monohydrate, magnesium stearate, polysorbate 20, povidone K30 and silicified microcrystalline cellulose.
 The tablet coating contains hypromellose 2910 6 mPa.s, lactose monohydrate, PEG 3000, titanium dioxide and triacetin.

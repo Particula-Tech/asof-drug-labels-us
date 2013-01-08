@@ -12,7 +12,11 @@ Patients should also be advised to never re-use or share needles.
 Patients should be told that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
 Patients should remain under the care of a physician while using EDURANT.
 
+Female patients should be advised not to breastfeed because it is unknown if EDURANT can be passed to the baby in the breast milk and whether it could harm the baby.
+Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+
 Patients should be advised to take EDURANT with a meal once a day as prescribed.
+A protein drink alone does not replace a meal.
 EDURANT must always be used in combination with other antiretroviral drugs.
 Patients should not alter the dose of EDURANT or discontinue therapy with EDURANT without consulting their physician.
 If the patient misses a dose of EDURANT within 12 hours of the time it is usually taken, the patient should take EDURANT with a meal as soon as possible and then take the next dose of EDURANT at the regularly scheduled time.
@@ -26,4 +30,6 @@ EDURANT should not be co-administered with the following drugs, as significant d
 Patients should be informed that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with EDURANT.
 If they experience depressive symptoms, they should seek immediate medical evaluation.
 
-Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy, including EDURANT, and that the cause and long-term health effects of these conditions are not known at this time.
+Patients should be informed that hepatotoxicity has been reported with EDURANT.
+
+Patients should also be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy, including EDURANT, and that the cause and long-term health effects of these conditions are not known at this time.

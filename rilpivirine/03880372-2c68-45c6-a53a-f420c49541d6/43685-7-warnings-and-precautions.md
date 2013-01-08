@@ -10,20 +10,28 @@ EDURANT should be used with caution when co-administered with a drug with a know
 ## 5.2 Depressive Disorders
 
 The adverse reaction depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) has been reported with EDURANT.
-During the Phase 3 trials (N = 1368), the incidence of depressive disorders (regardless of causality, severity) reported among EDURANT (n = 686) or efavirenz (n = 682) was 8% and 6%, respectively.
+During the Phase 3 trials (N = 1368) through 96 weeks, the incidence of depressive disorders (regardless of causality, severity) reported among EDURANT (n = 686) or efavirenz (n = 682) was 9% and 8%, respectively.
 Most events were mild or moderate in severity.
 The incidence of Grade 3 and 4 depressive disorders (regardless of causality) was 1% for both EDURANT and efavirenz.
 The incidence of discontinuation due to depressive disorders among EDURANT or efavirenz was 1% in each arm.
-Suicide attempt was reported in 2 subjects in the EDURANT arm while suicide ideation was reported in 1 subject in the EDURANT arm and in 3 subjects in the efavirenz arm.
+Suicidal ideation was reported in 4 subjects in each arm while suicide attempt was reported in 2 subjects in the EDURANT arm.
 Patients with severe depressive symptoms should seek immediate medical evaluation to assess the possibility that the symptoms are related to EDURANT, and if so, to determine whether the risks of continued therapy outweigh the benefits.
 
-## 5.3 Fat Redistribution
+## 5.3 Hepatotoxicity
+
+Hepatic adverse events have been reported in patients receiving a rilpivirine containing regimen.
+Patients with underlying hepatitis B or C, or marked elevations in transaminases prior to treatment may be at increased risk for worsening or development of transaminase elevations with use of EDURANT.
+A few cases of hepatic toxicity have been reported in patients receiving a rilpivirine containing regimen who had no pre-existing hepatic disease or other identifiable risk factors.
+Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with EDURANT is recommended in patients with underlying hepatic disease such as hepatitis B or C, or in patients with marked elevations in transaminases prior to treatment initiation.
+Liver enzyme monitoring should also be considered for patients without pre-existing hepatic dysfunction or other risk factors.
+
+## 5.4 Fat Redistribution
 
 Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
 The mechanism and long-term consequences of these events are currently unknown.
 A causal relationship has not been established.
 
-## 5.4 Immune Reconstitution Syndrome
+## 5.5 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EDURANT.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia or tuberculosis), which may necessitate further evaluation and treatment.

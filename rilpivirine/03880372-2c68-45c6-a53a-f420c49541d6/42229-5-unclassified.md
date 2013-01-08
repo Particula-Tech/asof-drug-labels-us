@@ -1,3 +1,3 @@
-Product of Ireland Finished Product Manufactured by: Janssen-Cilag S.p.A., Latina, Italy Manufactured for: Tibotec Therapeutics, Division of Centocor Ortho Biotech Products, L.P., Raritan NJ 08869
+Product of Ireland Manufactured by: Janssen-Cilag SpA, Latina, Italy Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
 
-EDURANT™ is the trademark of Tibotec Pharmaceuticals © Tibotec, Inc. 2011
+EDURANT® is a registered trademark of Johnson & Johnson © Janssen Products, LP 2011
