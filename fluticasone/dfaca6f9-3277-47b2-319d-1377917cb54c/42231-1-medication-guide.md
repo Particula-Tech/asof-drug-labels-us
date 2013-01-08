@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 ADVAIR® HFA [ad′ vair] 45/21 Inhalation Aerosol
 
@@ -43,11 +43,12 @@ What is ADVAIR HFA?
     These symptoms can happen when the muscles around the airways tighten.
     This makes it hard to breathe.
     In severe cases, wheezing can stop your breathing and cause death if not treated right away.
-- •ADVAIR HFA is used to control symptoms of asthma and to prevent symptoms such as wheezing in adults and children aged 12 years and older.
+- •ADVAIR HFA is used to control symptoms of asthma and to prevent symptoms such as wheezing in adults and adolescents aged 12 years and older
+- •ADVAIR HFA should not be used as a rescue inhaler.
 - •ADVAIR HFA contains salmeterol (the same medicine found in SEREVENT).
   LABA medicines, such as salmeterol, increase the risk of death from asthma problems.
 
-ADVAIR HFA is not for adults and children with asthma who are well controlled with an asthma control medicine, such as a low to medium dose of an inhaled corticosteroid medicine.
+ADVAIR HFA is not for adults and adolescents with asthma who are well controlled with an asthma control medicine, such as a low to medium dose of an inhaled corticosteroid medicine.
 
 Who should not use ADVAIR HFA?
 
@@ -69,6 +70,7 @@ Tell your healthcare provider about all of your health conditions, including if 
 - •have liver problems
 - •have osteoporosis
 - •have an immune system problem
+- •have eye problems such as increased pressure in the eye (glaucoma) or cataracts
 - •are pregnant or planning to become pregnant.
   It is not known if ADVAIR HFA may harm your unborn baby.
 - •are breastfeeding.
@@ -98,6 +100,7 @@ Ask your healthcare provider or pharmacist if you have any questions.
 - •The usual dosage of ADVAIR HFA is 2 inhalations 2 times each day (morning and evening).
   The 2 doses should be about 12 hours apart.
   Rinse your mouth with water after using ADVAIR HFA.
+- •If you take more ADVAIR HFA than your doctor has prescribed, get medical help right away if you have any unusual symptom, such as worsening shortness of breath, chest pain, increased heart rate, or shakiness.
 - •If you miss a dose of ADVAIR HFA, just skip that dose.
   Take your next dose at your usual time.
   Do not take 2 doses at one time.
@@ -107,7 +110,7 @@ Ask your healthcare provider or pharmacist if you have any questions.
   Your healthcare provider will change your medicines as needed.
 - •ADVAIR HFA does not relieve sudden symptoms.
   Always have a rescue inhaler medicine with you to treat sudden symptoms.
-  If you do not have an inhaled, short-acting bronchodilator, call your healthcare provider to have one prescribed for you.
+  If you do not have a short-acting bronchodilator rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
   - ∘your breathing problems worsen with ADVAIR HFA
   - ∘you need to use your rescue inhaler medicine more often than usual
@@ -116,7 +119,7 @@ Ask your healthcare provider or pharmacist if you have any questions.
   - ∘you use 1 whole canister of your rescue inhaler medicine in 8 weeks’ time
   - ∘your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
-  - ∘you have asthma and your symptoms do not improve after using ADVAIR HFA regularly for 1 week
+  - ∘your asthma symptoms do not improve after using ADVAIR HFA regularly for 1 week
 
 What are the possible side effects with ADVAIR HFA?
 
@@ -164,9 +167,10 @@ ADVAIR HFA can cause serious side effects, including:
 Common side effects of ADVAIR HFA include:
 
 - •upper respiratory tract infection
-- •headache
 - •throat irritation
-- •musculoskeletal pain
+- •hoarseness and voice changes
+- •headache
+- •dizziness
 - •nausea and vomiting
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
@@ -179,7 +183,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store ADVAIR HFA?
 
-- •Store at room temperature with the mouthpiece down.
+- •Store ADVAIR HFA at room temperature between 59°F to 86°F (15°C to 30°C), with the mouthpiece down.
 - •Contents Under Pressure: Do not puncture.
   Do not use or store near heat or open flame.
   Exposure to temperatures above 120°F may cause bursting.
@@ -204,118 +208,93 @@ Active ingredients: fluticasone propionate, salmeterol xinafoate
 
 Inactive ingredient: propellant HFA-134a
 
-How to use your ADVAIR HFA
+Instructions for using your ADVAIR HFA
 
-The parts of your ADVAIR HFA:
+The parts of your ADVAIR HFA
 
 There are 2 main parts to your ADVAIR HFA inhaler—the metal canister that holds the medicine and the purple plastic actuator that sprays the medicine from the canister (see Figure 1).
 
-The inhaler also has a cap that covers the mouthpiece of the actuator.
-The strap on the cap will stay attached to the actuator.
+- The canister has a counter to show how many sprays of medicine you have left.
+  The number shows through a window in the back of the actuator.
+  The counter starts at 124, or at 064 if you have a sample or institutional canister.
+  The number will count down by 1 each time you spray the inhaler.
+  The counter will stop counting at 000.
+- Never try to change the numbers or take the counter off the metal canister.
+  The counter cannot be reset, and it is permanently attached to the canister.
+- The mouthpiece of the actuator is covered by a cap.
+  The strap on the cap keeps it attached to the actuator.
+- Do not use the actuator with a canister of medicine from any other inhaler.
+  Do not use an ADVAIR HFA canister with an actuator from any other inhaler.
 
-Do not use the actuator with a canister of medicine from any other inhaler.
-Do not use an ADVAIR HFA canister with an actuator from any other inhaler.
+Using your ADVAIR HFA
 
-The canister has a counter to show how many sprays of medicine you have left.
-The number shows through a window in the back of the actuator.
+- •The inhaler should be at room temperature before you use it.
+- •Take your ADVAIR HFA inhaler out of the moisture-protective pouch just before you use it for the first time.
+  Safely throw away the foil pouch and the drying packet that comes inside the pouch.
 
-The counter starts at 124, or at 064 if you have a sample or institutional canister.
-The number will count down by 1 each time you spray the inhaler.
-The counter will stop counting at 000.
-
-Never try to change the numbers or take the counter off the metal canister.
-The counter cannot be reset, and it is permanently attached to the canister.
-
-Before using your ADVAIR HFA:
-
-Take the inhaler out of the foil pouch.
-Safely throw away the foil pouch and the drying packet that comes inside the pouch.
-The counter should read 124, or 064 if you have a sample or institutional canister.
-
-The inhaler should be at room temperature before you use it.
-
-Check each time to make sure the canister fits firmly in the plastic actuator.
-Also look into the mouthpiece to make sure there are no foreign objects there, especially if the strap is no longer attached to the actuator or if the cap is not being used to cover the mouthpiece.
-
-Priming your ADVAIR HFA:
+Priming your ADVAIR HFA
 
 Before you use ADVAIR HFA for the first time, you must prime the inhaler so that you will get the right amount of medicine when you use it.
 To prime the inhaler, take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
-Then spray it 1 time into the air away from your face.
-Shake and spray the inhaler like this 3 more times to finish priming it.
+Then spray the inhaler 1 time into the air away from your face.
 Avoid spraying in eyes.
+Shake and spray the inhaler like this 3 more times to finish priming it.
 The counter should now read 120, or 060 if you have a sample or institutional canister.
 
-You must prime your inhaler again if you have not used it in more than 4 weeks or if you have dropped it.
-Take the cap off the mouthpiece, shake the inhaler well for 5 seconds, and spray it into the air away from your face.
+You must prime your inhaler again if you have not used it in more than 4 weeks or if you drop it.
+Take the cap off the mouthpiece, shake the inhaler well for 5 seconds.
+Then spray it into the air away from your face.
 Shake and spray the inhaler like this 1 more time to finish priming it.
 
-Instructions for taking a dose from your ADVAIR HFA:
-
-Read through the 7 steps below before using ADVAIR HFA.
+Read the following 7 steps before using ADVAIR HFA and follow them at each use.
 If you have any questions, ask your doctor or pharmacist.
 
-1.
-Take the cap off the mouthpiece of the actuator.
-Shake the inhaler well for 5 seconds before each spray.
+1. 1.Take the cap off the mouthpiece of the actuator (see Figure 2).
+2. Look inside the mouthpiece for foreign objects, and take out any you see.
+3. Make sure the canister fits firmly in the actuator.
+4. Shake the inhaler well for 5 seconds.
 
-2.
-Hold the inhaler with the mouthpiece down (see Figure 2).
-Breathe out through your mouth and push as much air from your lungs as you can.
-Put the mouthpiece in your mouth and close your lips around it.
+1. 2.Hold the inhaler with the mouthpiece down (see Figure 2).
+2. Breathe out through your mouth and push as much air from your lungs as you can.
+   Put the mouthpiece in your mouth and close your lips around it.
+   1. 1.Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
+3. Right after the spray comes out, take your finger off the canister.
+   After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
 
-3.
-Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
-Right after the spray comes out, take your finger off the canister.
-After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+1. 3.Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+2. 4.Wait about 30 seconds and shake the inhaler well for 5 seconds.
+   Repeat steps 2 through 4.
+3. 5.After you finish taking this medicine, rinse your mouth with water.
+   Spit out the water.
+   Do not swallow it.
+4. 6.Put the cap back on the mouthpiece after every time you use the inhaler.
+   Make sure it snaps firmly into place.
 
-4.
-Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+Cleaning your ADVAIR HFA
 
-5.
-Wait about 30 seconds and shake the inhaler again for 5 seconds.
-Repeat steps 2 through 4.
-
-6.
-After you finish taking this medicine, rinse your mouth with water.
-Spit out the water.
-Do not swallow it.
-
-7.
-Put the cap back on the mouthpiece after every time you use the inhaler, and make sure it snaps firmly into place.
-
-When to replace your ADVAIR HFA:
-
-- •When the counter reads 020, you should refill your prescription or ask your doctor if you need another prescription for ADVAIR HFA.
-- •Throw the inhaler away when the counter reads 000.
-  You should not keep using the inhaler when the counter reads 000 because you will not receive the right amount of medicine.
-- •Do not use the inhaler after the expiration date, which is on the packaging it comes in.
-
-How to clean your ADVAIR HFA:
-
-Clean the inhaler at least once a week after your evening dose.
+Clean your inhaler at least 1 time each week after your evening dose.
 It is important to keep the canister and plastic actuator clean so the medicine will not build-up and block the spray.
 
-1.
-Take the cap off the mouthpiece.
-The strap on the cap will stay attached to the actuator.
-Do not take the canister out of the plastic actuator.
+1. 1.Take the cap off the mouthpiece.
+   The strap on the cap will stay attached to the actuator.
+   Do not take the canister out of the plastic actuator.
+2. 2.Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
+   Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
 
-2.
-Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
-Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
+1. 3.Wipe the inside of the mouthpiece with a clean tissue dampened with water.
+   Let the actuator air-dry overnight.
+2. 4.Put the cap back on the mouthpiece after the actuator has dried.
 
-3.
-Wipe the inside of the mouthpiece with a clean tissue dampened with water.
-Let the actuator air-dry overnight.
+Replacing your ADVAIR HFA
 
-4.
-Put the cap back on the mouthpiece after the actuator has dried.
+- •When the counter reads 020, you should refill your prescription or ask your doctor if you need another prescription for ADVAIR HFA.
+- •When the counter reads 000, throw the inhaler away.
+  You should not keep using the inhaler when the counter reads 000 because you will not receive the right amount of medicine.
+- •Do not use the inhaler after the expiration date, which is on the packaging it comes in.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 ADVAIR, ADVAIR DISKUS, FLOVENT, and SEREVENT are registered trademarks of GlaxoSmithKline.
-
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
@@ -323,9 +302,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-January 2011
+December 2012
 
-ADH:7MG
+ADH:8MG

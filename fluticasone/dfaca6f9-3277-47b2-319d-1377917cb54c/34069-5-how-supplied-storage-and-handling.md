@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ADVAIR HFA 45/21 Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0715-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0715-22).
 
@@ -25,21 +25,4 @@ Never throw container into fire or incinerator.
 Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
 Store the inhaler with the mouthpiece down.
 For best results, the inhaler should be at room temperature before use.
-SHAKE WELL FOR 5 SECONDS BEFORE USING.
-
-ADVAIR HFA Inhalation Aerosol does not contain chlorofluorocarbons (CFCs) as the propellant.
-
-ADVAIR, ADVAIR DISKUS, FLONASE, and VENTOLIN are registered trademarks of GlaxoSmithKline.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-©2010, GlaxoSmithKline.
-All rights reserved.
-
-June 2010
-
-ADH:6PI
-
-PHARMACIST—DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
+Shake well FOR 5 SECONDS before using.

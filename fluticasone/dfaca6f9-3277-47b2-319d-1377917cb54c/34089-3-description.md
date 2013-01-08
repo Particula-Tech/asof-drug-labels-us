@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 ADVAIR HFA 45/21 Inhalation Aerosol, ADVAIR HFA 115/21 Inhalation Aerosol, and ADVAIR HFA 230/21 Inhalation Aerosol are combinations of fluticasone propionate and salmeterol xinafoate.
 
@@ -29,5 +29,3 @@ Each 12-g canister provides 120 inhalations.
 
 ADVAIR HFA should be primed before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
 In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by releasing 2 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
-
-This product does not contain any chlorofluorocarbon (CFC) as the propellant.

@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0715-20
 
@@ -36,7 +36,7 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 Rev.
 1/08 10000000051354
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0716-20
 
@@ -72,7 +72,7 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 Rev.
 1/08 10000000051450
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0717-20
 
