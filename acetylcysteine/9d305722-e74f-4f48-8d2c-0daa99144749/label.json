@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021539"
+  ],
+  "inn": "acetylcysteine",
+  "labeler": "Paddock Laboratories, LLC",
+  "package_ndcs": [
+    "0574-0805-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "acetylcysteine",
+      "name": "acetylcysteine"
+    }
+  ],
+  "setid": "9d305722-e74f-4f48-8d2c-0daa99144749",
+  "source": "dailymed"
+}

@@ -1,0 +1,14 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Sensitivity to acetylcysteine: Patients should be advised to report to their physician any history of sensitivity to acetylcysteine [see Contraindications (4)].
+
+Asthma: Patients should be advised to report to their physician any history of asthma [see Warnings and Precautions (5)].
+
+For all questions concerning adverse reactions associated with the use of this product or for inquiries concerning our products, please contact us at 1-800-328-5113.
+For specific treatment information regarding the clinical management of acetaminophen overdose, please contact your regional poison center at 1-800-222-1222.
+
+(11-12)
+
+* Sections or subsections omitted from the Full Prescribing Information are not listed.
+
+2202883
