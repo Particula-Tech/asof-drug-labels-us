@@ -250,13 +250,12 @@ You can ask for information about Alora that is written for health professionals
 Each patch contains estradiol, USP as the active component.
 Inactive components of each patch include sorbitan monooleate, NF; acrylic adhesive; polyethylene film; and siliconized polyester film.
 
-Rx only
+Keep out of reach of children.
 
-Address medical inquiries to: WATSON Medical Communications P.O.
-Box 1953 Morristown, NJ 07962-1953 800-272-5525
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 USA 800-272-5525
 
-Distributed By: Watson Pharma, Inc. Morristown, NJ 07962
+Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: November 2009
+Revised: August 2012
 
-200178-10 S1109
+200178-11

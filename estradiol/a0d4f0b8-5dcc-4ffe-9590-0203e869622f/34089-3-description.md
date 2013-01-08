@@ -10,3 +10,5 @@ The structural formula is:
 Alora consists of three layers.
 Proceeding from the polyethylene backing film as shown in the cross-sectional view below, the adhesive matrix drug reservoir that is in contact with the skin consists of estradiol, USP and sorbitan monooleate dissolved in an acrylic adhesive matrix.
 The polyester overlapped release liner protects the adhesive matrix during storage and is removed prior to application of the system to the skin.
+
+Product meets USP Drug Release Test 3.

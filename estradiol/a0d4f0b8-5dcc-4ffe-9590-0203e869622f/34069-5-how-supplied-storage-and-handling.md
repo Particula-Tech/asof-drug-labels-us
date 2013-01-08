@@ -28,13 +28,12 @@ Apply immediately upon removal from the protective pouch.
 
 Discard used Alora in household trash in a manner that prevents accidental application or ingestion by children, pets, or others.
 
-Rx only
+Keep out of reach of children.
 
-Address medical inquiries to: WATSON Medical Communications P.O.
-Box 1953 Morristown, NJ 07962-1953 800-272-5525
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
 
-Distributed By: Watson Pharma, Inc. Morristown, NJ 07962
+Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: November 2009
+Revised: August 2012
 
-200178-10 S1109
+200178-11
