@@ -1,42 +1,58 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The following adverse reaction rates are based on use of BREVIBLOC (Esmolol Hydrochloride) in clinical trials involving 369 patients with supraventricular tachycardia and over 600 intraoperative and postoperative patients enrolled in clinical trials.
 Most adverse effects observed in controlled clinical trial settings have been mild and transient.
-The most important adverse effect has been hypotension (see WARNINGS).
-Deaths have been reported in post-marketing experience occurring during complex clinical states where BREVIBLOC was presumably being used simply to control ventricular rate (see WARNINGS, Cardiac Failure).
+The most important and common adverse effect has been hypotension [see Warnings and Precautions (5.1)].
+Deaths have been reported in post-marketing experience occurring during complex clinical states where BREVIBLOC was presumably being used simply to control ventricular rate [see Warnings and Precautions (5.5)].
 
-## Cardiovascular
+Table 3 Clinical Trial Adverse Reactions (Frequency ≥3%)
 
-Symptomatic hypotension (diaphoresis, dizziness) occurred in 12% of patients, and therapy was discontinued in about 11%, about half of whom were symptomatic.
-Asymptomatic hypotension occurred in about 25% of patients.
-Hypotension resolved during BREVIBLOC (Esmolol Hydrochloride) infusion in 63% of these patients and within 30 minutes after discontinuation of infusion in 80% of the remaining patients.
-Diaphoresis accompanied hypotension in 10% of patients.
-Peripheral ischemia occurred in approximately 1% of patients.
-Pallor, flushing, bradycardia (heart rate less than 50 beats per minute), chest pain, syncope, pulmonary edema and heart block have each been reported in less than 1% of patients.
-In two patients without supraventricular tachycardia but with serious coronary artery disease (post inferior myocardial infarction or unstable angina), severe bradycardia/sinus pause/asystole has developed, reversible in both cases with discontinuation of treatment.
+| System Organ Class (SOC) | Preferred MedDRA Term | Frequency |
+| --- | --- | --- |
+| VASCULAR DISORDERS | Hypotension* |  |
+| Asymptomatic hypotension | 25% |  |
+| Symptomatic hypotension (hyperhidrosis, dizziness) | 12% |  |
+| GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS | Infusion site reactions (inflammation and induration) | 8% |
+| GASTROINTESTINAL DISORDERS | Nausea | 7% |
+| NERVOUS SYSTEM DISORDERS | Dizziness | 3% |
+| Somnolence | 3% |  |
+| * Hypotension resolved during BREVIBLOC (Esmolol Hydrochloride) infusion in 63% of patients. In 80% of the remaining patients, hypotension resolved within 30 minutes following discontinuation of infusion. |  |  |
 
-## Central Nervous System
+### Clinical Trial Adverse Reactions (Frequency <3%)
 
-Dizziness has occurred in 3% of patients; somnolence in 3%; confusion, headache, and agitation in about 2%; and fatigue in about 1% of patients.
-Paresthesia, asthenia, depression, abnormal thinking, anxiety, anorexia, and lightheadedness were reported in less than 1% of patients.
-Seizures were also reported in less than 1% of patients, with one death.
+Psychiatric Disorders
 
-## Respiratory
+Confusional state and agitation (~2%) Anxiety, depression and abnormal thinking (<1%)
 
-Bronchospasm, wheezing, dyspnea, nasal congestion, rhonchi, and rales have each been reported in less than 1% of patients.
+Nervous System Disorders
 
-## Gastrointestinal
+Headache (~ 2%) Paresthesia, syncope, speech disorder, and lightheadedness (<1%) Convulsions (<1%), with one death
 
-Nausea was reported in 7% of patients.
-Vomiting has occurred in about 1% of patients.
-Dyspepsia, constipation, dry mouth, and abdominal discomfort have each occurred in less than 1% of patients.
-Taste perversion has also been reported.
+Vascular Disorders
 
-## Skin (Infusion Site)
+Peripheral ischemia (~1%) Pallor and flushing (<1%)
 
-Infusion site reactions including inflammation and induration were reported in about 8% of patients.
-Edema, erythema, skin discoloration, burning at the infusion site, thrombophlebitis, and local skin necrosis from extravasation have each occurred in less than 1% of patients.
+Gastrointestinal Disorders
 
-## Miscellaneous
+Vomiting (~1%) Dyspepsia, constipation, dry mouth, and abdominal discomfort (<1%)
 
-Each of the following has been reported in less than 1% of patients: Urinary retention, speech disorder, abnormal vision, midscapular pain, rigors, and fever.
+Renal and Urinary Disorders
+
+Urinary retention (<1%)
+
+## 6.2 Post-Marketing Experience
+
+In addition to the adverse reactions reported in clinical trials, the following adverse reactions have been reported in the post-marketing experience.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
+
+Cardiac Disorders
+
+Cardiac arrest, Coronary arteriospasm
+
+Skin and Subcutaneous Tissue Disorders
+
+Angioedema, Urticaria, Psoriasis

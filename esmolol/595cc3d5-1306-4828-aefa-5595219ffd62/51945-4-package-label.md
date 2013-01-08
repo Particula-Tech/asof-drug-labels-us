@@ -60,17 +60,53 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Made in USA
 
-475-345-00
-
-07-06-35-706
+475-345-00 07-06-35-706
 
 Code 2J1413
 
 LOT EXP
 
-For Product Inquiry 1 800 ANA DRUG (1-800-262_3784)
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
 Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
+
+BARCODE PLACEMENT ONLY (01)50310019075872(30)0010
+
+10 x 100 mL Single Use IntraVia containers
+
+NDC 10019-075-87
+
+Brevibloc DOUBLE STRENGTH Premixed Injection
+
+Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
+
+Store at 25°C (77°F).
+Excursions permitted to 15°-30°C (59°-86°F).
+[See USP Controlled Room Temperature.]
+PROTECT FROM FREEZING.
+Avoid excessive heat.
+
+Rx only
+
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Made in USA
+
+475-345-00 07-06-35-706
+
+Code 2J1413
+
+LOT EXP
+
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+
+Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
+
+BARCODE PLACEMENT ONLY * (17)YYMM00(10)XXXXXXX
+
+BARCODE PLACEMENT ONLY (01)50310019075872(30)0010
+
+07-06-35-706
 
 LOT EXP
 
@@ -130,17 +166,51 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Made in USA
 
-475-344-00
-
-07-06-35-707
+475-344-00 07-6-35-707
 
 Code 2J1415
 
 LOT EXP
 
-For Product Inquiry 1 800 ANA DRUG (1-800-262_3784)
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
 Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
+
+BARCODE PLACEMENT ONLY (01)50310019055614(30)0010
+
+10 x 250 mL Single Use IntraVia containers
+
+NDC 10019-055-61
+
+Brevibloc Premixed Injection
+
+Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL)
+
+Store at 25°C (77°F).
+Excursions permitted to 15°-30°C (59°-86°F).
+[See USP Controlled Room Temperature.]
+PROTECT FROM FREEZING.
+Avoid excessive heat.
+
+Rx only
+
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Made in USA
+
+475-344-00 07-6-35-707
+
+Code 2J1415
+
+LOT EXP
+
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+
+Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
+
+BARCODE PLACEMENT ONLY (17)YYMM00(10)XXXXXXX
+
+BARCODE PLACEMENT ONLY (01)50310019055614(30)0010
 
 NDC 10019-115-39
 
@@ -166,15 +236,13 @@ NDC 10019-115-01
 
 Brevibloc Injection (Esmolol Hydrochloride)
 
-100 mg/10 mL (10 mg/mL) 25 x 10 mL
+100 mg/10 mL (10 mg/mL) 25 x 10 mL Rx only
 
 Ready-to-use Vials
 
 FOR INTRAVENOUS USE
 
-Rx only
-
-Baxter Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter Logo Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 NDC 10019-115-01
 
@@ -190,9 +258,41 @@ Single Dose Vials
 
 Iso-Osmotic Contains no preservatives - discard unused portion.
 
-Baxter Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter Logo Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-Baxter and Brevibloc are registered trademarks of Baxter International Inc.
+NDC 10019-115-01
+
+Brevibloc Injection (Esmolol Hydrochloride)
+
+100 mg/10 mL (10 mg/mL) 25 x 10 mL Ready-to-use Vials
+
+FOR INTRAVENOUS USE
+
+Rx only
+
+Single Dose Vials
+
+Iso-Osmotic Contains no preservatives - discard unused portion.
+
+Baxter Logo Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+NDC 10019-115-01
+
+Brevibloc Injection (Esmolol Hydrochloride)
+
+100 mg/10 mL (10 mg/mL) 25 x 10 mL Ready-to-use Vials
+
+FOR INTRAVENOUS USE
+
+Rx only
+
+Single Dose Vials
+
+Iso-Osmotic Contains no preservatives - discard unused portion.
+
+Baxter Logo Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+SP996653A
 
 Each mL contains: 10 mg Esmolol Hydrochloride and 5.9 mg Sodium Chloride, USP in Water for Injection, USP.
 Buffered with Sodium Acetate Trihydrate, USP and Glacial Acetic Acid, USP.
@@ -210,3 +310,9 @@ See package insert for complete information on dosage and administration.
 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
 462-406-01
+
+N3 10019 11501 6
+
+LOT: EXP:
+
+40601
