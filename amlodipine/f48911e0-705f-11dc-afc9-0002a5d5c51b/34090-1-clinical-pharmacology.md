@@ -159,3 +159,10 @@ Heart Failure
 
 Amlodipine.
 Patients with heart failure have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%.
+
+### Drug Interactions
+
+Bile acid sequestering agent colesevelam.
+
+Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
+Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7.3)].
