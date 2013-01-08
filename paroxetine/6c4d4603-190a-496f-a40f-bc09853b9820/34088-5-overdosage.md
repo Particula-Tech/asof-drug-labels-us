@@ -10,17 +10,15 @@ The largest known ingestion involved 2000 mg of paroxetine (33 times the maximum
 Commonly reported adverse events associated with paroxetine overdosage include somnolence, coma, nausea, tremor, tachycardia, confusion, vomiting, and dizziness.
 Other notable signs and symptoms observed with overdoses involving paroxetine (alone or with other substances) include mydriasis, convulsions (including status epilepticus), ventricular dysrhythmias (including torsade de pointes), hypertension, aggressive reactions, syncope, hypotension, stupor, bradycardia, dystonia, rhabdomyolysis, symptoms of hepatic dysfunction (including hepatic failure, hepatic necrosis, jaundice, hepatitis, and hepatic steatosis), serotonin syndrome, manic reactions, myoclonus, acute renal failure, and urinary retention.
 
-Overdosage Management: Treatment should consist of those general measures employed in the management of overdosage with any drugs effective in the treatment of MDD.
+Overdosage Management: No specific antidotes for paroxetine are known.
+Treatment should consist of those general measures employed in the management of overdosage with any drugs effective in the treatment of MDD.
 
 Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.
 General supportive and symptomatic measures are also recommended.
 Induction of emesis is not recommended.
-Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
 
-Activated charcoal should be administered.
 Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
-No specific antidotes for paroxetine are known.
 
 A specific caution involves patients who are taking or have recently taken paroxetine who might ingest excessive quantities of a tricyclic antidepressant.
 In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation (see Drugs Metabolized by Cytochrome CYP2D6 under PRECAUTIONS).

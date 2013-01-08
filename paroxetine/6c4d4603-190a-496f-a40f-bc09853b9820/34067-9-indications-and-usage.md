@@ -19,7 +19,7 @@ The obsessions or compulsions cause marked distress, are time-consuming, or sign
 
 The efficacy of paroxetine was established in two 12-week trials with obsessive compulsive outpatients whose diagnoses corresponded most closely to the DSM-IIIR category of OCD (see CLINICAL PHARMACOLOGY—Clinical Trials).
 
-OCD is characterized by recurrent and persistent ideas, thoughts, impulses, or images (obsessions) that are ego-dystonic and/or repetitive, purposeful, and intentional behaviors (compulsions) that are recognized by the person as excessive or unreasonable.
+OCD is characterized by recurrent and persistent ideas, thoughts, impulses, or images (obsessions) that are egodystonic and/or repetitive, purposeful, and intentional behaviors (compulsions) that are recognized by the person as excessive or unreasonable.
 
 Long-term maintenance of efficacy was demonstrated in a 6-month relapse prevention trial.
 In this trial, patients assigned to paroxetine showed a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY—Clinical Trials).

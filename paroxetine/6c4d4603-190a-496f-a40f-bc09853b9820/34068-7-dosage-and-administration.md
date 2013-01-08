@@ -58,14 +58,28 @@ Nevertheless, patients should be periodically reassessed to determine the need f
 
 Treatment of Pregnant Women During the Third Trimester: Neonates exposed to paroxetine and other SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering paroxetine in the third trimester.
 
 Dosage for Elderly or Debilitated, and Patients with Severe Renal or Hepatic Impairment: The recommended initial dose is 10 mg/day for elderly patients, debilitated patients, and/or patients with severe renal or hepatic impairment.
 Increases may be made if indicated.
 Dosage should not exceed 40 mg/day.
 
-Switching Patients to or from a Monoamine Oxidase Inhibitor: At least 14 days should elapse between discontinuation of a MAOI and initiation of paroxetine therapy.
-Similarly, at least 14 days should be allowed after stopping paroxetine before starting a MAOI.
+Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders:
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PEXEVA®.
+Conversely, at least 14 days should be allowed after stopping PEXEVA® before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+
+Use of PEXEVA® With Other MAOIs, Such as Linezolid or Methylene Blue:
+
+Do not start PEXEVA® in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving PEXEVA® therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, PEXEVA® should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with PEXEVA® may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with PEXEVA® is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
 
 Discontinuation of Treatment with PEXEVA® (paroxetine mesylate): Symptoms associated with discontinuation of paroxetine have been reported (see PRECAUTIONS).
 Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which paroxetine is being prescribed.

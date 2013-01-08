@@ -27,10 +27,10 @@ Store at 25°C (77°F); excursions permitted to 15°-30°C
 
 (59° and 86°F) (see USP Controlled Room Temperature)
 
-PI-2000-14
+PI-2000-15
 
-DATE OF ISSUANCE: 05/2011
+DATE OF ISSUANCE: 12/2012
 
-Noven Therapeutics, LLC Miami, FL 33186 ©2010 Noven Therapeutics, LLC All rights reserved.
+Noven Therapeutics, LLC Miami, FL 33186 ©2012 Noven Therapeutics, LLC All rights reserved.
 
 Rx only
