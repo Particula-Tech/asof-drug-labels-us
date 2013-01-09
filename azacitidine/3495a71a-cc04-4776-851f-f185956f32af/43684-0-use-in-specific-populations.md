@@ -6,7 +6,7 @@ Pregnancy Category D [see Warning and Precautions (5.5)]
 
 VIDAZA may cause fetal harm when administered to a pregnant woman.
 Azacitidine was teratogenic in animals.
-There are no adequate and well controlled studies with Vidaza in pregnant women.
+There are no adequate and well controlled studies with VIDAZA in pregnant women.
 Women of childbearing potential should be advised to avoid pregnancy during treatment with VIDAZA.
 If this drug is used during pregnancy or if a patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
@@ -23,7 +23,7 @@ Fetal anomalies included: CNS anomalies (exencephaly/encephalocele), limb anomal
 ## 8.3 Nursing Mothers
 
 It is not known whether azacitidine or its metabolites are excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for azacitidine in animal studies and the potential for serious adverse reactions in nursing infants from Vidaza, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into consideration the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for azacitidine in animal studies and the potential for serious adverse reactions in nursing infants from VIDAZA, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into consideration the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 

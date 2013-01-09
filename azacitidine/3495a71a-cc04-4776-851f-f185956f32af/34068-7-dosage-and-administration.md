@@ -72,7 +72,9 @@ The product may be held at room temperature for up to 1 hour, but must be admini
 
 Preparation for Delayed Subcutaneous Administration: The reconstituted product may be kept in the vial or drawn into a syringe.
 Doses greater than 4 mL should be divided equally into 2 syringes.
-The product must be refrigerated immediately, and may be held under refrigerated conditions (2ºC - 8ºC, 36ºF - 46ºF) for up to 8 hours.
+The product must be refrigerated immediately.
+When VIDAZA is reconstituted using water for injection that has not been refrigerated, the reconstituted product may be held under refrigerated conditions (2ºC - 8ºC, 36ºF - 46ºF) for up to 8 hours.
+When VIDAZA is reconstituted using refrigerated (2ºC - 8ºC, 36ºF - 46ºF) water for injection, the reconstituted product may be stored under refrigerated conditions (2ºC - 8ºC, 36ºF - 46ºF) for up to 22 hours.
 After removal from refrigerated conditions, the suspension may be allowed to equilibrate to room temperature for up to 30 minutes prior to administration.
 
 Subcutaneous Administration
@@ -85,7 +87,7 @@ Doses greater than 4 mL should be divided equally into 2 syringes and injected i
 Rotate sites for each injection (thigh, abdomen, or upper arm).
 New injections should be given at least one inch from an old site and never into areas where the site is tender, bruised, red, or hard.
 
-Suspension Stability: VIDAZA reconstituted for subcutaneous administration may be stored for up to 1 hour at 25°C (77°F) or for up to 8 hours between 2°C and 8°C (36°F and 46°F).
+Suspension Stability: VIDAZA reconstituted with non-refrigerated water for injection for subcutaneous administration may be stored for up to 1 hour at 25°C (77°F) or for up to 8 hours between 2°C and 8°C (36°F and 46°F); when reconstituted with refrigerated (2ºC - 8ºC, 36ºF - 46ºF) water for injection, it may be stored for 22 hours between 2°C and 8°C (36°F and 46°F).
 
 ## 2.8 Instructions for Intravenous Administration
 

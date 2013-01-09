@@ -21,3 +21,4 @@ Advise men not to father a child while receiving treatment with VIDAZA.
 |  | Italy |
 
 VIDAZA® is a registered trademark of Celgene Corporation. ©2004-2012 Celgene Corporation, All Rights Reserved.
+VIDPI.007 12/12
