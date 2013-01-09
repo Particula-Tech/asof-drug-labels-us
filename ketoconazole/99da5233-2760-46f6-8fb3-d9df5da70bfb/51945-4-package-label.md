@@ -1,9 +1,7 @@
-# Principal Display Panel
+# Package/Label Display Panel
 
 Rx Only
 
 Ketoconazole Shampoo, 2%
 
-For Topical
-
-Application Only
+For Topical Application Only
