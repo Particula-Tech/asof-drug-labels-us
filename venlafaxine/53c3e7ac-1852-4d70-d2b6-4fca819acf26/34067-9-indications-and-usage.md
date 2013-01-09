@@ -2,7 +2,7 @@
 
 ## Major Depressive Disorder
 
-Effexor XR (venlafaxine hydrochloride) extended-release capsules is indicated for the treatment of major depressive disorder.
+Effexor XR (venlafaxine hydrochloride) extended-release capsules are indicated for the treatment of major depressive disorder.
 
 The efficacy of Effexor XR in the treatment of major depressive disorder was established in 8- and 12-week controlled trials of adult outpatients whose diagnoses corresponded most closely to the DSM-III-R or DSM-IV category of major depressive disorder (see Clinical Trials).
 

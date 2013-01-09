@@ -35,8 +35,7 @@ Call your healthcare provider right away if you have any of the following sympto
 EFFEXOR XR may be associated with these serious side effects:
 
 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
-This condition can be life-threatening and may include:
+Serotonin Syndrome This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
 - coordination problems or muscle twitching (overactive reflexes)
@@ -139,8 +138,8 @@ Do not take EFFEXOR XR if you:
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
   People who take EFFEXOR XR close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
-  - Do not take an MAOI within 7 days of stopping EFFEXOR XR
-  - Do not start EFFEXOR XR if you stopped taking an MAOI in the last 2 weeks.
+  - Do not take an MAOI within 7 days of stopping EFFEXOR XR unless directed to do so by your physician.
+  - Do not start EFFEXOR XR if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
   - 
     - high fever
     - uncontrolled muscle spasms
@@ -289,6 +288,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0542-2.0
+LAB-0542-3.0
 
-August 2012
+December 2012

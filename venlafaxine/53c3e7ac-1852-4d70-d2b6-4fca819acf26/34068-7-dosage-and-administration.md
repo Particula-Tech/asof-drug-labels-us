@@ -47,13 +47,30 @@ Dose increases should be in increments of up to 75 mg/day, as needed, and should
 Depressed patients who are currently being treated at a therapeutic dose with Effexor (immediate release) may be switched to Effexor XR at the nearest equivalent dose (mg/day), eg, 37.5 mg venlafaxine two-times-a-day to 75 mg Effexor XR once daily.
 However, individual dosage adjustments may be necessary.
 
+## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Effexor XR.
+Conversely, at least 7 days should be allowed after stopping Effexor XR before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+
+## Use of Effexor XR With Other MAOls, Such as Linezolid or Methylene Blue
+
+Do not start Effexor XR in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving therapy with Effexor XR may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, Effexor XR should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 7 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with Effexor XR may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with Effexor XR is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
+
 ## Special Populations
 
 ### Treatment of Pregnant Women During the Third Trimester
 
 Neonates exposed to Effexor XR, other SNRIs, or SSRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
 When treating pregnant women with Effexor XR during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering Effexor XR in the third trimester.
 
 ### Patients with Hepatic Impairment
 
@@ -100,8 +117,3 @@ If intolerable symptoms occur following a decrease in the dose or upon discontin
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 In clinical trials with Effexor XR, tapering was achieved by reducing the daily dose by 75 mg at 1 week intervals.
 Individualization of tapering may be necessary.
-
-## Switching Patients To or From a Monoamine Oxidase Inhibitor
-
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with Effexor XR.
-In addition, at least 7 days should be allowed after stopping Effexor XR before starting an MAOI (see CONTRAINDICATIONS and WARNINGS).

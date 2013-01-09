@@ -53,33 +53,23 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Effexor XR is not approved for use in treating bipolar depression.
 
-## Potential for Interaction with Monoamine Oxidase Inhibitors
+## Serotonin Syndrome
 
-Adverse reactions, some of which were serious, have been reported in patients who have recently been discontinued from a monoamine oxidase inhibitor (MAOI) and started on venlafaxine, or who have recently had venlafaxine therapy discontinued prior to initiation of an MAOI.
-These reactions have included tremor, myoclonus, diaphoresis, nausea, vomiting, flushing, dizziness, hyperthermia with features resembling neuroleptic malignant syndrome, seizures, and death.
-In patients receiving antidepressants with pharmacological properties similar to venlafaxine in combination with an MAOI, there have also been reports of serious, sometimes fatal, reactions.
-For a selective serotonin reuptake inhibitor, these reactions have included hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Severe hyperthermia and seizures, sometimes fatal, have been reported in association with the combined use of tricyclic antidepressants and MAOIs.
-These reactions have also been reported in patients who have recently discontinued these drugs and have been started on an MAOI.
-The effects of combined use of venlafaxine and MAOIs have not been evaluated in humans or animals.
-Therefore, because venlafaxine is an inhibitor of both norepinephrine and serotonin reuptake, it is recommended that Effexor XR (venlafaxine hydrochloride) extended-release capsules not be used in combination with an MAOI, or within at least 14 days of discontinuing treatment with an MAOI.
-Based on the half-life of venlafaxine, at least 7 days should be allowed after stopping venlafaxine before starting an MAOI.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Effexor XR, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Effexor XR treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs, eg, methylene blue), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms [e.g., nausea, vomiting, diarrhea] (see PRECAUTIONS, Drug Interactions).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The concomitant use of Effexor XR with MAOIs intended to treat psychiatric disorders is contraindicated.
+Effexor XR should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking Effexor XR.
+Effexor XR should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-The concomitant use of Effexor XR with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS, Potential for Interaction with Monoamine Oxidase Inhibitors).
+If concomitant use of Effexor XR with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
-If concomitant treatment of Effexor XR with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
-
-The concomitant use of Effexor XR with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS, Drug Interactions).
-
-Treatment with Effexor XR and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Treatment with Effexor XR and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Sustained Hypertension
 
@@ -318,7 +308,7 @@ The mean change from baseline in heart rate for Effexor XR-treated patients in t
 
 In a flexible-dose study, with Effexor (immediate release) doses in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, Effexor-treated patients had a mean increase in heart rate of 8.5 beats per minute compared with 1.7 beats per minute in the placebo group.
 
-As increases in heart rate were observed, caution should be exercised in patients whose underlying medical conditions might be compromised by increases in heart rate (eg, patients with hyperthyroidism, heart failure, or recent myocardial infarction).
+As increases in heart rate were observed, caution should be exercised in patients whose underlying medical conditions might be compromised by increases in heart rate (e.g., patients with hyperthyroidism, heart failure, or recent myocardial infarction).
 
 Evaluation of the electrocardiograms for 769 patients who received Effexor (immediate release) in 4- to 6-week double-blind, placebo-controlled trials showed that the incidence of trial-emergent conduction abnormalities did not differ from that with placebo.
 
@@ -353,7 +343,7 @@ However, since any psychoactive drug may impair judgment, thinking, or motor ski
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal preparations and nutritional supplements, since there is a potential for interactions.
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Effexor XR and triptans, tramadol, tryptophan supplements or other serotonergic agents (see WARNINGS, Serotonin Syndrome and PRECAUTIONS, Drug Interactions, CNS-Active Drugs).
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Effexor XR and triptans, tramadol, tryptophan supplements or other serotonergic agents (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome and PRECAUTIONS, Drug Interactions, CNS-Active Drugs, Serotonergic Drugs).
 
 Patients should be cautioned about the concomitant use of Effexor XR and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding (see PRECAUTIONS, Abnormal Bleeding).
 
@@ -508,36 +498,35 @@ Venlafaxine did not inhibit the metabolism of diazepam, which is partially metab
 
 ### Monoamine Oxidase Inhibitors
 
-See CONTRAINDICATIONS and WARNINGS.
+See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
 
 ### CNS-Active Drugs
 
 The risk of using venlafaxine in combination with other CNS-active drugs has not been systematically evaluated (except in the case of those CNS-active drugs noted above).
 Consequently, caution is advised if the concomitant administration of venlafaxine and such drugs is required.
+(See CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome)
 
 #### Serotonergic Drugs
 
-Based on the mechanism of action of Effexor XR and the potential for serotonin syndrome, caution is advised when Effexor XR is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort and methylene blue (see WARNINGS, Serotonin Syndrome).
-If concomitant treatment of Effexor XR with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
-The concomitant use of Effexor XR with tryptophan supplements is not recommended (see WARNINGS, Serotonin Syndrome).
+See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
 
 #### Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of Effexor XR with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 
-## Drug-Laboratory Test Interactions
+### Drug-Laboratory Test Interactions
 
 False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine.
 This is due to lack of specificity of the screening tests.
 False positive test results may be expected for several days following discontinuation of venlafaxine therapy.
 Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish venlafaxine from PCP and amphetamine.
 
-### Electroconvulsive Therapy
+#### Electroconvulsive Therapy
 
 There are no clinical data establishing the benefit of electroconvulsive therapy combined with Effexor XR (venlafaxine hydrochloride) extended-release capsules treatment.
 
-### Postmarketing Spontaneous Drug Interaction Reports
+#### Postmarketing Spontaneous Drug Interaction Reports
 
 See ADVERSE REACTIONS, Postmarketing Reports.
 
