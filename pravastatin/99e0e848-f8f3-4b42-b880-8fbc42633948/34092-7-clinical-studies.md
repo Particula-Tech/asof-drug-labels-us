@@ -2,16 +2,16 @@
 
 ## 14.1 Prevention of Coronary Heart Disease
 
-In the Pravastatin Primary Prevention Study (WOS),3 the effect of pravastatin sodium on fatal and nonfatal CHD was assessed in 6595 men 45 to 64 years of age, without a previous MI, and with LDL-C levels between 156 to 254 mg/dL (4 to 6.7 mmol/L).
-In this randomized, double-blind, placebo-controlled study, patients were treated with standard care, including dietary advice, and either pravastatin 40 mg daily (N = 3302) or placebo (N = 3293) and followed for a median duration of 4.8 years.
-Median (25th, 75th percentile) percent changes from baseline after 6 months of pravastatin treatment in Total-C, LDL-C, TG, and HDL-C were −20.3 (−26.9, −11.7), −27.7 (−36.0, −16.9), −9.1 (−27.6, 12.5), and 6.7 (−2.1, 15.6), respectively.
+In the Pravastatin Primary Prevention Study (WOS),3 the effect of pravastatin sodium tablets on fatal and non-fatal CHD was assessed in 6595 men 45 to 64 years of age, without a previous MI, and with LDL-C levels between 156 to 254 mg/dL (4 to 6.7 mmol/L).
+In this randomized, double-blind, placebo-controlled study, patients were treated with standard care, including dietary advice, and either pravastatin sodium tablets 40 mg daily (N = 3302) or placebo (N = 3293) and followed for a median duration of 4.8 years.
+Median (25th, 75th percentile) percent changes from baseline after 6 months of pravastatin treatment in Total-C, LDL-C, TG, and HDL-C were −20.3 (−26.9, −11.7), −27.7 (−36, −16.9), −9.1 (−27.6, 12.5), and 6.7 (−2.1, 15.6), respectively.
 
-Pravastatin sodium significantly reduced the rate of first coronary events (either CHD death or nonfatal MI) by 31% (248 events in the placebo group [CHD death = 44, nonfatal MI = 204] versus 174 events in the pravastatin sodium group [CHD death = 31, nonfatal MI = 143], p = 0.0001 [see figure below]).
-The risk reduction with pravastatin sodium was similar and significant throughout the entire range of baseline LDL cholesterol levels.
+Pravastatin sodium tablets significantly reduced the rate of first coronary events (either CHD death or non-fatal MI) by 31% (248 events in the placebo group [CHD death = 44, non-fatal MI = 204] versus 174 events in the pravastatin sodium tablets group [CHD death = 31, non-fatal MI = 143], p = 0.0001 [see figure below]).
+The risk reduction with pravastatin sodium tablets was similar and significant throughout the entire range of baseline LDL cholesterol levels.
 This reduction was also similar and significant across the age range studied with a 40% risk reduction for patients younger than 55 years and a 27% risk reduction for patients 55 years and older.
 The Pravastatin Primary Prevention Study included only men, and therefore it is not clear to what extent these data can be extrapolated to a similar population of female patients.
 
-Pravastatin sodium also significantly decreased the risk for undergoing myocardial revascularization procedures (coronary artery bypass graft [CABG] surgery or percutaneous transluminal coronary angioplasty [PTCA]) by 37% (80 vs 51 patients, p = 0.009) and coronary angiography by 31% (128 vs 90, p = 0.007).
+Pravastatin sodium tablets also significantly decreased the risk for undergoing myocardial revascularization procedures (coronary artery bypass graft [CABG] surgery or percutaneous transluminal coronary angioplasty [PTCA]) by 37% (80 vs 51 patients, p = 0.009) and coronary angiography by 31% (128 vs 90, p = 0.007).
 Cardiovascular deaths were decreased by 32% (73 vs 50, p = 0.03) and there was no increase in death from non-cardiovascular causes.
 
 ## 14.2 Secondary Prevention of Cardiovascular Events
@@ -24,15 +24,15 @@ In the REGRESS7 study, the effect of pravastatin on coronary atherosclerosis was
 In this double-blind, multicenter, controlled clinical trial, angiograms were evaluated at baseline and at 2 years in 653 patients (323 treated with pravastatin).
 Progression of coronary atherosclerosis was significantly slowed in the pravastatin group as assessed by changes in mean segment diameter (p = 0.037) and minimum obstruction diameter (p = 0.001).
 
-Analysis of pooled events from PLAC I, PLAC II,8 REGRESS, and KAPS9 studies (combined N = 1891) showed that treatment with pravastatin was associated with a statistically significant reduction in the composite event rate of fatal and nonfatal MI (46 events or 6.4% for placebo versus 21 events or 2.4% for pravastatin, p = 0.001).
-The predominant effect of pravastatin was to reduce the rate of nonfatal MI.
+Analysis of pooled events from PLAC I, PLAC II,8 REGRESS, and KAPS9 studies (combined N = 1891) showed that treatment with pravastatin was associated with a statistically significant reduction in the composite event rate of fatal and non-fatal MI (46 events or 6.4% for placebo versus 21 events or 2.4% for pravastatin, p = 0.001).
+The predominant effect of pravastatin was to reduce the rate of non-fatal MI.
 
 ## 14.3 Primary Hypercholesterolemia (Fredrickson Types IIa and IIb)
 
-Pravastatin sodium is highly effective in reducing Total-C, LDL-C, and TG in patients with heterozygous familial, presumed familial combined, and non-familial (non-FH) forms of primary hypercholesterolemia, and mixed dyslipidemia.
+Pravastatin sodium tablets are highly effective in reducing Total-C, LDL-C, and TG in patients with heterozygous familial, presumed familial combined, and non-familial (non-FH) forms of primary hypercholesterolemia, and mixed dyslipidemia.
 A therapeutic response is seen within 1 week, and the maximum response usually is achieved within 4 weeks.
 This response is maintained during extended periods of therapy.
-In addition, pravastatin sodium is effective in reducing the risk of acute coronary events in hypercholesterolemic patients with and without previous MI.
+In addition, pravastatin sodium tablets are effective in reducing the risk of acute coronary events in hypercholesterolemic patients with and without previous MI.
 
 A single daily dose is as effective as the same total daily dose given twice a day.
 In multicenter, double-blind, placebo-controlled studies of patients with primary hypercholesterolemia, treatment with pravastatin in daily doses ranging from 10 to 40 mg consistently and significantly decreased Total-C, LDL-C, TG, and Total-C/HDL-C and LDL-C/HDL-C ratios (see Table 7).
@@ -41,9 +41,9 @@ In a pooled analysis of 2 multicenter, double-blind, placebo-controlled studies 
 The 25th and 75th percentile changes from baseline in LDL-C for pravastatin 80 mg were −43% and −30%.
 The efficacy results of the individual studies were consistent with the pooled data (see Table 7).
 
-Treatment with pravastatin sodium modestly decreased VLDL-C and pravastatin sodium across all doses produced variable increases in HDL-C (see Table 7).
+Treatment with pravastatin sodium tablets modestly decreased VLDL-C and pravastatin sodium tablets across all doses produced variable increases in HDL-C (see Table 7).
 
-Table 7: Primary Hypercholesterolemia Studies: Dose Response of Pravastatin Sodium Once Daily Administration
+Table 7: Primary Hypercholesterolemia Studies: Dose Response of Pravastatin Sodium Tablets Once Daily Administration
 
 | Dose | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Furthermore, pravastatin attenuated cholestyramine-induced increases in TG level
 ## 14.4 Hypertriglyceridemia (Fredrickson Type IV)
 
 The response to pravastatin in patients with Type IV hyperlipidemia (baseline TG > 200 mg/dL and LDL-C < 160 mg/dL) was evaluated in a subset of 429 patients.
-For pravastatin-treated subjects, the median (min, max) baseline TG level was 246.0 (200.5, 349.5) mg/dL (see Table 8).
+For pravastatin-treated subjects, the median (min, max) baseline TG level was 246 (200.5, 349.5) mg/dL (see Table 8).
 
 Table 8: Patients With Fredrickson Type IV Hyperlipidemia Median (25th, 75th Percentile) % Change From Baseline
 
@@ -70,9 +70,9 @@ Table 8: Patients With Fredrickson Type IV Hyperlipidemia Median (25th, 75th Per
 | --- | --- | --- |
 | TG | −21.1 (−34.8, 1.3) | −6.3 (−23.1, 18.3) |
 | Total-C | −22.1 (−27.1, −14.8) | 0.2 (−6.9, 6.8) |
-| LDL-C | −31.7 (−39.6, −21.5) | 0.7 (−9.0, 10.0) |
+| LDL-C | −31.7 (−39.6, −21.5) | 0.7 (−9, 10) |
 | HDL-C | 7.4 (−1.2, 17.7) | 2.8 (−5.7, 11.7) |
-| Non-HDL-C | −27.2 (−34.0, −18.5) | −0.8 (−8.2, 7.0) |
+| Non-HDL-C | −27.2 (−34, −18.5) | −0.8 (−8.2, 7) |
 
 ## 14.5 Dysbetalipoproteinemia (Fredrickson Type III)
 
@@ -83,20 +83,20 @@ Table 9: Patients With Fredrickson Type III Dysbetalipoproteinemia Median (min, 
 |  | Median (min, max) at Baseline (mg/dL) | Median % Change (min, max) Pravastatin 40 mg (N = 20) |
 | --- | --- | --- |
 | Study 1 |  |  |
-| Total-C | 386.5 (245.0, 672.0) | −32.7 (−58.5, 4.6) |
-| TG | 443.0 (275.0, 1299.0) | −23.7 (−68.5, 44.7) |
-| VLDL-CN = 14 | 206.5 (110.0, 379.0) | −43.8 (−73.1, −14.3) |
-| LDL-C | 117.5 (80.0, 170.0) | −40.8 (−63.7, 4.6) |
-| HDL-C | 30.0 (18.0, 88.0) | 6.4 (−45.0, 105.6) |
-| Non-HDL-C | 344.5 (215.0, 646.0) | −36.7 (−66.3, 5.8) |
+| Total-C | 386.5 (245, 672) | −32.7 (−58.5, 4.6) |
+| TG | 443 (275, 1299) | −23.7 (−68.5, 44.7) |
+| VLDL-CN = 14 | 206.5 (110, 379) | −43.8 (−73.1, −14.3) |
+| LDL-C | 117.5 (80, 170) | −40.8 (−63.7, 4.6) |
+| HDL-C | 30 (18, 88) | 6.4 (−45, 105.6) |
+| Non-HDL-C | 344.5 (215, 646) | −36.7 (−66.3, 5.8) |
 |  | Median (min, max) at Baseline (mg/dL) | Median % Change (min, max) Pravastatin 40 mg (N = 26) |
 | Study 2 |  |  |
-| Total-C | 340.3 (230.1, 448.6) | −31.4 (−54.5, −13.0) |
+| Total-C | 340.3 (230.1, 448.6) | −31.4 (−54.5, −13) |
 | TG | 343.2 (212.6, 845.9) | −11.9 (−56.5, 44.8) |
-| VLDL-C | 145.0 (71.5, 309.4) | −35.7 (−74.7, 19.1) |
+| VLDL-C | 145 (71.5, 309.4) | −35.7 (−74.7, 19.1) |
 | LDL-C | 128.6 (63.8, 177.9) | −30.3 (−52.2, 13.5) |
-| HDL-C | 38.7 (27.1, 58.0) | 5.0 (−17.7, 66.7) |
-| Non-HDL-C | 295.8 (195.3, 421.5) | −35.5 (−81.0, −13.5) |
+| HDL-C | 38.7 (27.1, 58) | 5 (−17.7, 66.7) |
+| Non-HDL-C | 295.8 (195.3, 421.5) | −35.5 (−81, −13.5) |
 
 ## 14.6 Pediatric Clinical Study
 

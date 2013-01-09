@@ -6,7 +6,7 @@ Pravastatin sodium tablets USP are supplied as:
 
 10 mg tablets: Pink, unscored, round tablet, debossed “TEVA” on one side and “771” on the other side in bottles of 90 and 1000.
 
-80 mg tablets: Off-white to mottled grey, oval-shaped tablet, debossed “TEVA” on one side and “7270” on the other side in bottles of 90 and 1000.
+80 mg tablets: Off-white to mottled grey, unscored, oval-shaped tablet, debossed “TEVA” on one side and “7270” on the other side in bottles of 90 and 1000.
 
 ## 16.2 Storage
 
@@ -15,3 +15,5 @@ Keep tightly closed (protect from moisture).
 Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
+
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.

@@ -1,9 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised to report promptly unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever [see Warnings and Precautions (5.1)].
+Patients should be advised to report promptly unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing pravastatin sodium tablets [see Warnings and Precautions (5.1)].
 
-It is recommended that liver enzyme tests be performed before the initiation of pravastatin, and thereafter when clinically indicated.
-All patients treated with pravastatin should be advised to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice [see Warnings and Precautions (5.2)].
+It is recommended that liver enzyme tests be performed before the initiation of pravastatin sodium tablets, and thereafter when clinically indicated.
+All patients treated with pravastatin sodium tablets should be advised to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice [see Warnings and Precautions (5.2)].
 
 Manufactured In Israel By:
 
@@ -19,4 +19,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-Q 2/2012
+R 12/2012

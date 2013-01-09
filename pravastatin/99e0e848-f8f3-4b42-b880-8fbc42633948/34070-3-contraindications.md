@@ -19,4 +19,4 @@ If the patient becomes pregnant while taking this class of drug, therapy should 
 ## 4.4 Nursing Mothers
 
 A small amount of pravastatin is excreted in human breast milk.
-Because statins have the potential for serious adverse reactions in nursing infants, women who require pravastatin sodium tablet treatment should not breast-feed their infants [see Use in Specific Populations (8.3)].
+Because statins have the potential for serious adverse reactions in nursing infants, women who require pravastatin sodium tablet treatment should not breastfeed their infants [see Use in Specific Populations (8.3)].

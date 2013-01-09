@@ -9,8 +9,13 @@ Such patients merit closer monitoring for skeletal muscle effects.
 Uncomplicated myalgia has also been reported in pravastatin-treated patients [see Adverse Reactions (6)].
 Myopathy, defined as muscle aching or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values to greater than 10 times the upper limit of normal (ULN), was rare (< 0.1%) in pravastatin clinical trials.
 Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevation of CPK.
-Predisposing factors include advanced age (> 65), uncontrolled hypothyroidism, and renal impairment.
-Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
+Predisposing factors include advanced age (≥ 65), uncontrolled hypothyroidism, and renal impairment.
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum CPK, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation and improvement with immunosuppressive agents.
+
+All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing pravastatin sodium tablets.
+
 Pravastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 Pravastatin therapy should also be temporarily withheld in any patient experiencing an acute or serious condition predisposing to the development of renal failure secondary to rhabdomyolysis, e.g., sepsis; hypotension; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
 
@@ -43,8 +48,8 @@ Active liver disease or unexplained persistent transaminase elevations are contr
 Caution should be exercised when pravastatin is administered to patients who have a recent (< 6 months) history of liver disease, have signs that may suggest liver disease (e.g., unexplained aminotransferase elevations, jaundice), or are heavy users of alcohol.
 
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pravastatin.
-If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with pravastatin, promptly interrupt therapy.
-If an alternate etiology is not found do not restart pravastatin.
+If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with pravastatin sodium tablets, promptly interrupt therapy.
+If an alternate etiology is not found do not restart pravastatin sodium tablets.
 
 ## 5.3 Endocrine Function
 

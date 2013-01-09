@@ -9,7 +9,7 @@ In addition, pravastatin reduces VLDL and TG and increases HDL-C.
 
 General
 
-Absorption: Pravastatin sodium is administered orally in the active form.
+Absorption: Pravastatin sodium tablets are administered orally in the active form.
 In studies in man, peak plasma pravastatin concentrations occurred 1 to 1.5 hours upon oral administration.
 Based on urinary recovery of total radiolabeled drug, the average oral absorption of pravastatin is 34% and absolute bioavailability is 17%.
 While the presence of food in the gastrointestinal tract reduces systemic bioavailability, the lipid-lowering effects of the drug are similar whether taken with or 1 hour prior to meals.
@@ -60,6 +60,7 @@ Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 | Dose (mg) | Change in AUC | Change in Cmax |  |
 | Cyclosporine 5 mg/kg single dose | 40 mg single dose | ↑282% | ↑327% |
 | Clarithromycin 500 mg BID for 9 days | 40 mg OD for 8 days | ↑110% | ↑128% |
+| Boceprevir 800 mg TID for 6 days | 40 mg single dose | ↑63% | ↑49% |
 | Darunavir 600 mg BID/Ritonavir 100 mg BID for 7 days | 40 mg single dose | ↑81% | ↑63% |
 | Colestipol 10 g single dose | 20 mg single dose | ↓47% | ↓53% |
 | Cholestyramine 4 g single dose | 20 mg single dose |  |  |
@@ -80,7 +81,7 @@ Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 | Probucol 500 mg single dose | 20 mg single dose | ↑14% | ↑24% |
 | Warfarin 5 mg OD for 6 days | 20 mg BID for 6 days | ↓13% | ↓6.7% |
 | Itraconazole 200 mg OD for 30 days | 40 mg OD for 30 days | ↑11% (compared to Day 1) | ↑17% (compared to Day 1) |
-| Gemfibrozil 600 mg single dose | 20 mg single dose | ↓7.0% | ↓20% |
+| Gemfibrozil 600 mg single dose | 20 mg single dose | ↓7% | ↓20% |
 | Aspirin 324 mg single dose | 20 mg single dose | ↑4.7% | ↑8.9% |
 | Niacin 1 g single dose | 20 mg single dose | ↓3.6% | ↓8.2% |
 | Diltiazem | 20 mg single dose | ↑2.7% | ↑30% |
@@ -95,7 +96,7 @@ Table 4: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs
 | 20 mg BID for 6 days | Warfarin 5 mg OD for 6 days | ↑17% | ↑15% |
 |  | Change in mean prothrombin time | ↑0.4 sec |  |
 | 20 mg OD for 9 days | Digoxin 0.2 mg OD for 9 days | ↑4.6% | ↑5.3% |
-| 20 mg BID for 4 weeks | Antipyrine 1.2 g single dose | ↑3.0% | Not Reported |
+| 20 mg BID for 4 weeks | Antipyrine 1.2 g single dose | ↑3% | Not Reported |
 | 10 mg BID for 4 weeks |  | ↑1.6% |  |
 | 5 mg BID for 4 weeks |  | ↑ Less than 1% |  |
 | 20 mg OD for 4 days | Kaletra 400 mg/100 mg BID for 14 days | No change | No change |

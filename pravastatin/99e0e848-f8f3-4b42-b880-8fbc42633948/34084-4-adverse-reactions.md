@@ -1,7 +1,7 @@
 # 6 ADVERSE REACTIONS
 
 Pravastatin is generally well tolerated; adverse reactions have usually been mild and transient.
-In 4 month-long placebo-controlled trials, 1.7% of pravastatin-treated patients and 1.2% of placebo-treated patients were discontinued from treatment because of adverse experiences attributed to study drug therapy; this difference was not statistically significant.
+In 4-month-long placebo-controlled trials, 1.7% of pravastatin-treated patients and 1.2% of placebo-treated patients were discontinued from treatment because of adverse experiences attributed to study drug therapy; this difference was not statistically significant.
 
 ## 6.1 Adverse Clinical Events
 
@@ -18,34 +18,34 @@ Table 1: Adverse Events in ≥ 2% of Patients Treated With Pravastatin 5 to 40 m
 | --- | --- | --- | --- | --- | --- | --- |
 | Body System/Event | N = 100 | N = 153 | N = 478 | N = 171 | N = 902 | N = 411 |
 | Cardiovascular |  |  |  |  |  |  |
-| Angina Pectoris | 5.0 | 4.6 | 4.8 | 3.5 | 4.5 | 3.4 |
+| Angina Pectoris | 5 | 4.6 | 4.8 | 3.5 | 4.5 | 3.4 |
 | Dermatologic |  |  |  |  |  |  |
-| Rash | 3.0 | 2.6 | 6.7 | 1.2 | 4.5 | 1.4 |
+| Rash | 3 | 2.6 | 6.7 | 1.2 | 4.5 | 1.4 |
 | Gastrointestinal |  |  |  |  |  |  |
-| Nausea/Vomiting | 4.0 | 5.9 | 10.5 | 2.3 | 7.4 | 7.1 |
-| Diarrhea | 8.0 | 8.5 | 6.5 | 4.7 | 6.7 | 5.6 |
-| Flatulence | 2.0 | 3.3 | 4.6 | 0.0 | 3.2 | 4.4 |
-| Dyspepsia/Heartburn | 0.0 | 3.3 | 3.6 | 0.6 | 2.5 | 2.7 |
-| Abdominal Distension | 2.0 | 3.3 | 2.1 | 0.6 | 2.0 | 2.4 |
+| Nausea/Vomiting | 4 | 5.9 | 10.5 | 2.3 | 7.4 | 7.1 |
+| Diarrhea | 8 | 8.5 | 6.5 | 4.7 | 6.7 | 5.6 |
+| Flatulence | 2 | 3.3 | 4.6 | 0 | 3.2 | 4.4 |
+| Dyspepsia/Heartburn | 0 | 3.3 | 3.6 | 0.6 | 2.5 | 2.7 |
+| Abdominal Distension | 2 | 3.3 | 2.1 | 0.6 | 2 | 2.4 |
 | General |  |  |  |  |  |  |
-| Fatigue | 4.0 | 1.3 | 5.2 | 0.0 | 3.4 | 3.9 |
-| Chest Pain | 4.0 | 1.3 | 3.3 | 1.2 | 2.7 | 1.9 |
-| Influenza | 4.0 | 2.6 | 1.9 | 0.6 | 2.0 | 0.7 |
+| Fatigue | 4 | 1.3 | 5.2 | 0 | 3.4 | 3.9 |
+| Chest Pain | 4 | 1.3 | 3.3 | 1.2 | 2.7 | 1.9 |
+| Influenza | 4 | 2.6 | 1.9 | 0.6 | 2 | 0.7 |
 | Musculoskeletal |  |  |  |  |  |  |
-| Musculoskeletal Pain | 13.0 | 3.9 | 13.2 | 5.3 | 10.1 | 10.2 |
-| Myalgia | 1.0 | 2.6 | 2.9 | 1.2 | 2.3 | 1.2 |
+| Musculoskeletal Pain | 13 | 3.9 | 13.2 | 5.3 | 10.1 | 10.2 |
+| Myalgia | 1 | 2.6 | 2.9 | 1.2 | 2.3 | 1.2 |
 | Nervous System |  |  |  |  |  |  |
-| Headache | 5.0 | 6.5 | 7.5 | 3.5 | 6.3 | 4.6 |
-| Dizziness | 4.0 | 1.3 | 5.2 | 0.6 | 3.5 | 3.4 |
+| Headache | 5 | 6.5 | 7.5 | 3.5 | 6.3 | 4.6 |
+| Dizziness | 4 | 1.3 | 5.2 | 0.6 | 3.5 | 3.4 |
 | Respiratory |  |  |  |  |  |  |
-| Pharyngitis | 2.0 | 4.6 | 1.5 | 1.2 | 2.0 | 2.7 |
-| Upper Respiratory Infection | 6.0 | 9.8 | 5.2 | 4.1 | 5.9 | 5.8 |
-| Rhinitis | 7.0 | 5.2 | 3.8 | 1.2 | 3.9 | 4.9 |
-| Cough | 4.0 | 1.3 | 3.1 | 1.2 | 2.5 | 1.7 |
+| Pharyngitis | 2 | 4.6 | 1.5 | 1.2 | 2 | 2.7 |
+| Upper Respiratory Infection | 6 | 9.8 | 5.2 | 4.1 | 5.9 | 5.8 |
+| Rhinitis | 7 | 5.2 | 3.8 | 1.2 | 3.9 | 4.9 |
+| Cough | 4 | 1.3 | 3.1 | 1.2 | 2.5 | 1.7 |
 | Investigation |  |  |  |  |  |  |
-| ALT Increased | 2.0 | 2.0 | 4.0 | 1.2 | 2.9 | 1.2 |
-| g-GT Increased | 3.0 | 2.6 | 2.1 | 0.6 | 2.0 | 1.2 |
-| CPK Increased | 5.0 | 1.3 | 5.2 | 2.9 | 4.1 | 3.6 |
+| ALT Increased | 2 | 2 | 4 | 1.2 | 2.9 | 1.2 |
+| g-GT Increased | 3 | 2.6 | 2.1 | 0.6 | 2 | 1.2 |
+| CPK Increased | 5 | 1.3 | 5.2 | 2.9 | 4.1 | 3.6 |
 
 The safety and tolerability of pravastatin sodium at a dose of 80 mg in 2 controlled trials with a mean exposure of 8.6 months was similar to that of pravastatin sodium at lower doses except that 4 out of 464 patients taking 80 mg of pravastatin had a single elevation of CK > 10 times ULN compared to 0 out of 115 patients taking 40 mg of pravastatin.
 
@@ -55,7 +55,7 @@ In the pravastatin sodium placebo-controlled clinical trials database of 21,483 
 
 Adverse event data were pooled from several double-blind, placebo-controlled trials (e.g., West of Scotland Coronary Prevention Study [WOS]; Pravastatin Limitation of Atherosclerosis in the Coronary Arteries study [PLAC I]; Pravastatin, Lipids and Atherosclerosis in the Carotids study [PLAC II]; Regression Growth Evaluation Statin Study [REGRESS]; and Kuopio Atherosclerosis Prevention Study [KAPS]) involving a total of 10,764 patients treated with pravastatin 40 mg and 10,719 patients treated with placebo.
 The safety and tolerability profile in the pravastatin group was comparable to that of the placebo group.
-Patients were exposed to pravastatin for a mean of 4.0 to 5.1 years in, among other trials, WOS and 1.9 to 2.9 years in PLAC I, PLAC II, KAPS, and REGRESS.
+Patients were exposed to pravastatin for a mean of 4 to 5.1 years in, among other trials, WOS and 1.9 to 2.9 years in PLAC I, PLAC II, KAPS, and REGRESS.
 In these long-term trials, the most common reasons for discontinuation were mild, non-specific gastrointestinal complaints.
 Collectively, these trials represent 47,613 patient-years of exposure to pravastatin.
 All clinical adverse events (regardless of causality) occurring in ≥ 2% of patients treated with pravastatin in these studies are identified in Table 2.
@@ -69,9 +69,9 @@ Table 2: Adverse Events in ≥ 2% of Patients Treated With Pravastatin 40 mg and
 | Dermatologic |  |  |
 | Rash (including dermatitis) | 7.2 | 7.1 |
 | General |  |  |
-| Edema | 3.0 | 2.7 |
+| Edema | 3 | 2.7 |
 | Fatigue | 8.4 | 7.8 |
-| Chest Pain | 10.0 | 9.8 |
+| Chest Pain | 10 | 9.8 |
 | Fever | 2.1 | 1.9 |
 | Weight Gain | 3.8 | 3.3 |
 | Weight Loss | 3.3 | 2.8 |
@@ -81,24 +81,24 @@ Table 2: Adverse Events in ≥ 2% of Patients Treated With Pravastatin 40 mg and
 | Musculoskeletal Traumatism | 10.2 | 9.6 |
 | Nervous System |  |  |
 | Dizziness | 7.3 | 6.6 |
-| Sleep Disturbance | 3.0 | 2.4 |
+| Sleep Disturbance | 3 | 2.4 |
 | Anxiety/Nervousness | 4.8 | 4.7 |
-| Paresthesia | 3.2 | 3.0 |
+| Paresthesia | 3.2 | 3 |
 | Renal/Genitourinary |  |  |
 | Urinary Tract Infection | 2.7 | 2.6 |
 | Respiratory |  |  |
 | Upper Respiratory Tract Infection | 21.2 | 20.2 |
 | Cough | 8.2 | 7.4 |
-| Influenza | 9.2 | 9.0 |
+| Influenza | 9.2 | 9 |
 | Pulmonary Infection | 3.8 | 3.5 |
-| Sinus Abnormality | 7.0 | 6.7 |
+| Sinus Abnormality | 7 | 6.7 |
 | Tracheobronchitis | 3.4 | 3.1 |
 | Special Senses |  |  |
 | Vision Disturbance (includes blurred vision, diplopia) | 3.4 | 3.3 |
 | Infections |  |  |
 | Viral Infection | 3.2 | 2.9 |
 
-In addition to the events listed above in the long-term trials table, events of probable, possible, or uncertain relationship to study drug that occurred in < 2.0% of pravastatin-treated patients in the long-term trials included the following:
+In addition to the events listed above in the long-term trials table, events of probable, possible, or uncertain relationship to study drug that occurred in < 2% of pravastatin-treated patients in the long-term trials included the following:
 
 Dermatologic: scalp hair abnormality (including alopecia), urticaria.
 
@@ -119,6 +119,8 @@ Special Senses: taste disturbance.
 In addition to the events reported above, as with other drugs in this class, the following events have been reported rarely during postmarketing experience with pravastatin sodium, regardless of causality assessment:
 
 Musculoskeletal: myopathy, rhabdomyolysis.
+
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
 Nervous System: dysfunction of certain cranial nerves (including alteration of taste, impairment of extraocular movement, facial paresis), peripheral nerve palsy.
 

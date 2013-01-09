@@ -18,12 +18,12 @@ The risk of myopathy/rhabdomyolysis is increased with concomitant administration
 
 ## 7.4 Gemfibrozil
 
-Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are coadministered with gemfibrozil, concomitant administration of pravastatin with gemfibrozil should be avoided [see Warnings and Precautions (5.1)].
+Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are coadministered with gemfibrozil, concomitant administration of pravastatin sodium tablets with gemfibrozil should be avoided [see Warnings and Precautions (5.1)].
 
 ## 7.5 Other Fibrates
 
-Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates, pravastatin should be administered with caution when used concomitantly with other fibrates [see Warnings and Precautions (5.1)].
+Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates, pravastatin sodium tablets should be administered with caution when used concomitantly with other fibrates [see Warnings and Precautions (5.1)].
 
 ## 7.6 Niacin
 
-The risk of skeletal muscle effects may be enhanced when pravastatin is used in combination with niacin; a reduction in pravastatin dosage should be considered in this setting [see Warnings and Precautions (5.1)].
+The risk of skeletal muscle effects may be enhanced when pravastatin is used in combination with niacin; a reduction in pravastatin sodium tablets dosage should be considered in this setting [see Warnings and Precautions (5.1)].
