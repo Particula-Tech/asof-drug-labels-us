@@ -10,7 +10,7 @@ In arriving at a diagnosis, it is important to identify cases where the clinical
 Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, malignant hyperthermia, drug fever and primary central nervous system (CNS) pathology.
 
 The management of NMS should include 1) immediate discontinuation of metoclopramide and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
-Bromocriptine and dantrolene sodium have been used in treatment of NMS, but their effectiveness have not been established (see ADVERSE REACTIONS).
+Bromocriptine and dantrolene sodium have been used in treatment of NMS, but their effectiveness have not been established (seeADVERSE REACTIONS).
 
 ## Extrapyramidal Symptoms (EPS)
 
@@ -23,13 +23,12 @@ Rarely, dystonic reactions may present as stridor and dyspnea, possibly due to l
 If these symptoms should occur, inject 50 mg Benadryl® (diphenhydramine hydrochloride) intramuscularly, and they usually will subside.
 Cogentin® (benztropine mesylate), 1 to 2 mg intramuscularly, may also be used to reverse these reactions.
 
-### Tardive Dyskinesia
-
-(see Boxed Warnings)
+### Tardive Dyskinesia (see Boxed Warnings)
 
 Treatment with metoclopramide can cause tardive dyskinesia (TD), a potentially irreversible and disfiguring disorder characterized by involuntary movements of the face, tongue, or extremities.
-Although the risk of TD with metoclopramide has not been extensively studied, one published study reported a TD prevalence of 20% among patients treated for at least 12 weeks.
-Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
+The risk of developing tardive dyskinesia increases with the duration of treatment and the total cumulative dose.
+An analysis of utilization patterns showed that about 20% of patients who used metoclopramide took it for longer than 12 weeks.
+Treatment with metoclopramide for longer than the recommended 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
 
 Although the risk of developing TD in the general population may be increased among the elderly, women, and diabetics, it is not possible to predict which patients will develop metoclopramide-induced TD.
 Both the risk of developing TD and the likelihood that TD will become irreversible increase with duration of treatment and total cumulative dose.
@@ -64,17 +63,17 @@ Intravenous injections of undiluted metoclopramide should be made slowly allowin
 Because metoclopramide produces a transient increase in plasma aldosterone, certain patients, especially those with cirrhosis or congestive heart failure, may be at risk of developing fluid retention and volume overload.
 If these side effects occur at any time during metoclopramide therapy, the drug should be discontinued.
 
-Intravenous administration of metoclopramide injection, USP diluted in a parenteral solution should be made slowly over a period of not less than 15 minutes.
+Intravenous administration of metoclopramide injection USP diluted in a parenteral solution should be made slowly over a period of not less than 15 minutes.
 
 Giving a promotility drug such as metoclopramide theoretically could put increased pressure on suture lines following a gut anastomosis or closure.
 This possibility should be considered and weighed when deciding whether to use metoclopramide or nasogastric suction in the prevention of postoperative nausea and vomiting.
 
 ## Information for Patients
 
-A patient Medication Guide is available for metoclopramide injection, USP.
+A patient Medication Guide is available for metoclopramide injection USP.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is printed at the end of this document.
+Refer to accompanying Medication Guide.
 
 Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
 The ambulatory patient should be cautioned accordingly.
@@ -116,33 +115,33 @@ Caution should be exercised when metoclopramide is administered to a nursing mot
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established except as stated to facilitate small bowel intubation (see OVERDOSAGE and DOSAGE AND ADMINISTRATION).
+Safety and effectiveness in pediatric patients have not been established except as stated to facilitate small bowel intubation (seeOVERDOSAGEandDOSAGE AND ADMINISTRATION).
 
-Care should be exercised in administering metoclopramide to neonates since prolonged clearance may produce excessive serum concentrations (see CLINICAL PHARMACOLOGY — Pharmacokinetics).
-In addition, neonates have reduced levels of NADH-cytochrome b5 reductase which, in combination with the aforementioned pharmacokinetic factors, make neonates more susceptible to methemoglobinemia (see OVERDOSAGE).
+Care should be exercised in administering metoclopramide to neonates since prolonged clearance may produce excessive serum concentrations (seeCLINICAL PHARMACOLOGY — Pharmacokinetics).
+In addition, neonates have reduced levels of NADH-cytochrome b5 reductase which, in combination with the aforementioned pharmacokinetic factors, make neonates more susceptible to methemoglobinemia (seeOVERDOSAGE).
 
 The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients.
 Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults.
-(See WARNINGS and ADVERSE REACTIONS — Extrapyramidal Reactions.)
+(SeeWARNINGS andADVERSE REACTIONS — Extrapyramidal Reactions.)
 
 ## Geriatric Use
 
-Clinical studies of metoclopramide injection, USP did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
+Clinical studies of metoclopramide injection USP did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
 
 The risk of developing parkinsonian-like side effects increases with ascending dose.
-Geriatric patients should receive the lowest dose of metoclopramide injection, USP that is effective.
-If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection, USP should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS).
+Geriatric patients should receive the lowest dose of metoclopramide injection USP that is effective.
+If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection USP, metoclopramide injection USP should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS).
 
-The elderly may be at greater risk for tardive dyskinesia (see WARNINGS - Tardive Dyskinesia).
+The elderly may be at greater risk for tardive dyskinesia (seeWARNINGS - Tardive Dyskinesia).
 
-Sedation has been reported in metoclopramide injection, USP users.
-Sedation may cause confusion and manifest as over-sedation in elderly (see CLINICAL PHARMACOLOGY, PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – CNS Effects).
+Sedation has been reported in metoclopramide injection USP users.
+Sedation may cause confusion and manifest as over-sedation in elderly (seeCLINICAL PHARMACOLOGY, PRECAUTIONS – Information for Patients andADVERSE REACTIONS – CNS Effects).
 
-metoclopramide injection, USP is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION - Use in Patients With Renal or Hepatic Impairment).
+Metoclopramide injection USP is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (seeDOSAGE AND ADMINISTRATION - Use in Patients With Renal or Hepatic Impairment).
 
-For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see Use in Patients With Renal or Hepatic Impairment).
+For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (seeUse in Patients With Renal or Hepatic Impairment).
 
 ## Other Special Populations
 
 Patients with NADH-cytochrome b5 reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia when metoclopramide is administered.
-In patients with G6PD deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (see OVERDOSAGE).
+In patients with G6PD deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (seeOVERDOSAGE).

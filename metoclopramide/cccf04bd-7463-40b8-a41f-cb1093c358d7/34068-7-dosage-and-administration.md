@@ -3,10 +3,10 @@
 ## For the Relief of Symptoms Associated with Diabetic Gastroparesis (Diabetic Gastric Stasis)
 
 If only the earliest manifestations of diabetic gastric stasis are present, oral administration of metoclopramide may be initiated.
-However, if severe symptoms are present, therapy should begin with metoclopramide injection, USP (IM or IV).
+However, if severe symptoms are present, therapy should begin with metoclopramide injection USP (IM or IV).
 Doses of 10 mg may be administered slowly by the intravenous route over a 1- to 2-minute period.
 
-Administration of metoclopramide injection, USP up to 10 days may be required before symptoms subside, at which time oral administration of metoclopramide may be instituted.
+Administration of metoclopramide injection USP up to 10 days may be required before symptoms subside, at which time oral administration of metoclopramide may be instituted.
 The physician should make a thorough assessment of the risks and benefits prior to prescribing further metoclopramide treatment.
 
 ## For the Prevention of Nausea and Vomiting Associated with Emetogenic Cancer Chemotherapy
@@ -16,18 +16,18 @@ Intravenous infusions should be made slowly over a period of not less than 15 mi
 The initial two doses should be 2 mg/kg if highly emetogenic drugs such as cisplatin or dacarbazine are used alone or in combination.
 For less emetogenic regimens, 1 mg/kg per dose may be adequate.
 
-For doses in excess of 10 mg, metoclopramide injection, USP should be diluted in 50 mL of a parenteral solution.
+For doses in excess of 10 mg, metoclopramide injection USP should be diluted in 50 mL of a parenteral solution.
 
-The preferred parenteral solution is Sodium Chloride Injection (normal saline), which when combined with metoclopramide injection, USP, can be stored frozen for up to 4 weeks.
-Metoclopramide injection, USP is degraded when admixed and frozen with Dextrose-5% in Water.
-Metoclopramide injection, USP diluted in Sodium Chloride Injection, Dextrose-5% in Water, Dextrose-5% in 0.45% Sodium Chloride, Ringer's Injection, or Lactated Ringer's Injection may be stored up to 48 hours (without freezing) after preparation if protected from light.
+The preferred parenteral solution is Sodium Chloride Injection (normal saline), which when combined with metoclopramide injection USP, can be stored frozen for up to 4 weeks.
+Metoclopramide injection USP is degraded when admixed and frozen with Dextrose-5% in Water.
+Metoclopramide injection USP diluted in Sodium Chloride Injection, Dextrose-5% in Water, Dextrose-5% in 0.45% Sodium Chloride, Ringer’s Injection, or Lactated Ringer’s Injection may be stored up to 48 hours (without freezing) after preparation if protected from light.
 All dilutions may be stored unprotected from light under normal light conditions up to 24 hours after preparation.
 
 If acute dystonic reactions should occur, inject 50 mg Benadryl® (diphenhydramine hydrochloride) intramuscularly, and the symptoms usually will subside.
 
 ## For the Prevention of Postoperative Nausea and Vomiting
 
-Metoclopramide injection, USP should be given intramuscularly near the end of surgery.
+Metoclopramide injection USP should be given intramuscularly near the end of surgery.
 The usual adult dose is 10 mg; however, doses of 20 mg may be used.
 
 ## To Facilitate Small Bowel Intubation
@@ -48,7 +48,7 @@ For dosage, see intubation above.
 Since metoclopramide is excreted principally through the kidneys, in those patients whose creatinine clearance is below 40 mL/min, therapy should be initiated at approximately one-half the recommended dosage.
 Depending upon clinical efficacy and safety considerations, the dosage may be increased or decreased as appropriate.
 
-See OVERDOSAGE section for information regarding dialysis.
+SeeOVERDOSAGE section for information regarding dialysis.
 
 Metoclopramide undergoes minimal hepatic metabolism, except for simple conjugation.
 Its safe use has been described in patients with advanced liver disease whose renal function was normal.
@@ -57,7 +57,7 @@ NOTE: Parenteral drug products should be inspected visually for particulate matt
 
 ## ADMIXTURES COMPATIBILITIES
 
-Metoclopramide injection, USP is compatible for mixing and injection with the following dosage forms to the extent indicated below:
+Metoclopramide injection USP is compatible for mixing and injection with the following dosage forms to the extent indicated below:
 
 ## Physically and Chemically Compatible Up to 48 Hours
 
@@ -67,14 +67,20 @@ Cimetidine Hydrochloride (SK&F), Mannitol, USP (Abbott), Potassium Acetate, USP 
 
 Ascorbic Acid, USP (Abbott), Benztropine Mesylate, USP (MS&D), Cytarabine, USP (Upjohn), Dexamethasone Sodium Phosphate, USP (ESI, MS&D), Diphenhydramine Hydrochloride, USP (Parke-Davis), Doxorubicin Hydrochloride, USP (Adria), Heparin Sodium, USP (ESI), Hydrocortisone Sodium Phosphate (MS&D), Lidocaine Hydrochloride, USP (ESI), Multi-Vitamin Infusion (must be refrigerated-USV), Vitamin B Complex with Ascorbic Acid (Roche).
 
-## Physically Compatible Up to 24 Hours (Do not use if precipitation occurs)
+## Physically Compatible Up to 24 Hours
+
+(Do not use if precipitation occurs)
 
 Clindamycin Phosphate, USP (Upjohn), Cyclophosphamide, USP (Mead-Johnson), Insulin, USP (Lilly).
 
-## Conditionally Compatible (Use within one hour after mixing or may be infused directly into the same running IV line)
+## Conditionally Compatible
+
+(Use within one hour after mixing or may be infused directly into the same running IV line)
 
 Ampicillin Sodium, USP (Bristol), Cisplatin (Bristol), Erythromycin Lactobionate, USP (Abbott), Methotrexate Sodium, USP (Lederle), Penicillin G Potassium, USP (Squibb), Tetracycline Hydrochloride, USP (Lederle).
 
-## Incompatible (Do Not Mix)
+## Incompatible
+
+(Do Not Mix)
 
 Cephalothin Sodium, USP (Lilly), Chloramphenicol Sodium, USP (Parke-Davis), Sodium Bicarbonate, USP (Abbott).
