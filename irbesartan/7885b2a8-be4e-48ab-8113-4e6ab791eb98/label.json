@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA020757"
+  ],
+  "inn": "irbesartan",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5850-30",
+    "0024-5850-90",
+    "0024-5851-30",
+    "0024-5851-90",
+    "0024-5852-30",
+    "0024-5852-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "irbesartan",
+      "name": "Avapro"
+    }
+  ],
+  "setid": "7885b2a8-be4e-48ab-8113-4e6ab791eb98",
+  "source": "dailymed"
+}
