@@ -25,11 +25,11 @@ KEEP THIS AND ALL MEDICATIONS OUT OF REACH OF CHILDREN
 
 Manufactured by: Pillar5 Pharma Inc. 365 Madawaska Blvd.
 Arnprior, Ontario K7S 0C9 CANADA For: Edgemont Pharmaceuticals, LLC.
-Austin, TX 78731
+Austin, TX 78746
 
 Medication Guide to be dispensed with each prescription.
 
 DO NOT USE if safety seal under cap is broken or missing.
 
-70119-05-1 Rev.
-01
+70119-05-2 Rev.
+02

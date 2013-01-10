@@ -226,7 +226,7 @@ What are the ingredients in FORFIVO XL?
 
 Active ingredient: bupropion hydrochloride.
 
-Inactive ingredients: hydroxypropyl cellulose, hydrochloric acid, polyvinyl pyrrolidone and polyvinyl acetate blend, polyethylene oxide, stearic acid, colloidal silicon dioxide, magnesium stearate, hydroxypropylmethyl cellulose, triacetine, talc, methacrylic acid copolymer, polyethylene glycol 8000, titanium dioxide and carboxymethyl cellulose sodium.
+Inactive ingredients: hydroxypropyl cellulose, hydrochloric acid, polyvinyl pyrrolidone and polyvinyl acetate blend, polyethylene oxide, stearic acid, colloidal silicon dioxide, magnesium stearate, hydroxypropylmethyl cellulose, triacetin, talc, methacrylic acid copolymer, polyethylene glycol 8000, titanium dioxide and carboxymethyl cellulose sodium.
 The tablets are printed with edible black ink.
 
 The following are registered trademarks of their respective manufacturers: WELLBUTRIN® and WELLBUTRIN XL®/GlaxoSmithKline; ZYBAN® /GlaxoSmithKline; PARNATE® / GlaxoSmithKline; NARDIL®/Warner Lambert Company; MARPLAN®/ Validus Pharmaceuticals LLC; KALETRA® /Abbott Laboratories.
@@ -237,6 +237,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by: Pillar5 Pharma Inc. Arnprior, Ontario, K7S 0C9 Canada
 
-For: Edgemont Pharmaceuticals, LLC Austin, TX 78731
+For: Edgemont Pharmaceuticals, LLC Austin, TX 78746
 
-Revised July 2012
+Revised January 2013 FFO_V2
