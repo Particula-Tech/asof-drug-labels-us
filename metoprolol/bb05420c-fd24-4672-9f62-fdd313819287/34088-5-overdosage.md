@@ -8,9 +8,9 @@ Oral LD 50’s (mg/kg): mice, 1158-2460; rats, 3090-4670.
 
 ## Signs and Symptoms
 
-Potential signs and symptoms associated with overdosage with Lopressor are bradycardia, hypotension, bronchospasm, and cardiac failure.
+Potential signs and symptoms associated with overdosage with Lopressor are bradycardia, hypotension, bronchospasm, myocardial infarction, cardiac failure and death.
 
-## Treatment
+## Management
 
 There is no specific antidote.
 
@@ -20,12 +20,11 @@ On the basis of the pharmacologic actions of Lopressor, the following general me
 
 Elimination of the Drug: Gastric lavage should be performed.
 
-Bradycardia: Atropine should be administered.
-If there is no response to vagal blockade, isoproterenol should be administered cautiously.
+Other clinical manifestations of overdose should be managed symptomatically based on modern methods of intensive care.
 
-Hypotension: A vasopressor should be administered, e.g., levarterenol or dopamine.
+Hypotension: Administer a vasopressor, e.g., levarterenol or dopamine.
 
-Bronchospasm: A beta2-stimulating agent and/or a theophylline derivative should be administered.
+Bronchospasm: Administer a beta2-stimulating agent and/or a theophylline derivative.
 
-Cardiac Failure: A digitalis glycoside and diuretic should be administered.
-In shock resulting from inadequate cardiac contractility, administration of dobutamine, isoproterenol, or glucagon may be considered.
+Cardiac Failure: Administer digitalis glycoside and diuretic.
+In shock resulting from inadequate cardiac contractility, consider administration of dobutamine, isoproterenol or glucagon.

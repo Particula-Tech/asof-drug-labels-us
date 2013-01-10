@@ -13,7 +13,7 @@ Tablets 100 mg – capsule-shaped, biconvex, light blue, scored (imprinted GEIGY
 Bottles of 100………………………………………………………………NDC 0078-0459-05
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
-Protect from moisture.
+Protect from moisture and heat.
 
 Dispense in tight, light-resistant container (USP).
 
@@ -26,7 +26,7 @@ Ampuls 5 mL – each containing 5 mg of metoprolol tartrate
 Carton of 10 ampuls……………………………………………………….NDC 0078-0400-01
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
-Protect from light.
+Protect from light and heat.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
@@ -48,6 +48,4 @@ Novartis Pharmaceuticals Corporation
 
 East Hanover, New Jersey 07936
 
-REV: JANUARY 2011
-
-T2011-07
+T2013-01 January 2013

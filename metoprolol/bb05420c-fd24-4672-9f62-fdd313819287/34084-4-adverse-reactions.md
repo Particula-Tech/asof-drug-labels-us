@@ -66,9 +66,9 @@ Central Nervous System: Reversible mental depression progressing to catatonia; a
 
 Cardiovascular: Intensification of AV block (see CONTRAINDICATIONS).
 
-Hematologic: Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
+Hematologic: Agranulocytosis, nonthrombocytopenic purpura, and thrombocytopenic purpura.
 
-Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm, and respiratory distress.
+Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm and respiratory distress.
 
 ## Postmarketing Experience
 
