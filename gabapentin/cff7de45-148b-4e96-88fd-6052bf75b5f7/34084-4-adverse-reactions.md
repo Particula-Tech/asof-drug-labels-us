@@ -250,7 +250,7 @@ Urogenital System: Infrequent: urinary tract infection, dysuria, impotence, urin
 
 In addition to the adverse experiences reported during clinical testing of gabapentin, the following adverse experiences have been reported in patients receiving marketed gabapentin.
 These adverse experiences have not been listed above and data are insufficient to support an estimate of their incidence or to establish causation.
-The listing is alphabetized: angioedema, blood glucose fluctuation, breast enlargement, elevated liver function tests, erythema multiforme, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
+The listing is alphabetized: angioedema, blood glucose fluctuation, breast enlargement, elevated liver function tests, erythema multiforme, fever, hyponatremia, jaundice, movement disorder, rhabdomyolysis, Stevens-Johnson syndrome.
 
 Adverse events following the abrupt discontinuation of gabapentin have also been reported.
 The most frequently reported events were anxiety, insomnia, nausea, pain, and sweating.
