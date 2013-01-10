@@ -194,3 +194,5 @@ What are the ingredients in ALSUMA?
 Active ingredient: sumatriptan
 
 Inactive ingredient: sodium chloride
+
+LAB-0651-1.0

@@ -25,7 +25,7 @@ Do not use ALSUMA in patients with peripheral vascular disease including (but no
 Because ALSUMA may increase blood pressure, do not use in patients with uncontrolled hypertension.
 [see Warnings and Precautions (5.6)]
 
-## 4.6 Do Not Use Within 24 Hours of Treatment With Ergotamine-Containing or Ergot-Type Medications or Other 5-HT1 Agonists (e.g. Triptans)
+## 4.6 Ergotamine-Containing or Ergot-Type Medications or Other 5-HT1 Agonists (e.g. Triptans)
 
 Do not use ALSUMA and any ergotamine-containing or ergot-type medication (such as dihydroergotamine or methysergide) within 24 hours of each other; do not use ALSUMA and another 5-HT1 agonist (e.g.triptan) within 24 hours of each other.
 [see Drug Interactions (7.3)]

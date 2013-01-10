@@ -66,3 +66,5 @@ Pfizer
 Distributed by: Pfizer Labs Division of Pfizer Inc.
 
 NY, NY 10017 11/2011 0001686
+
+LAB-0652-1.0

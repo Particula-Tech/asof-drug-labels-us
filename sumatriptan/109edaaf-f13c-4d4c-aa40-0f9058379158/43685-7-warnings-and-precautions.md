@@ -126,3 +126,9 @@ ALSUMA should not be used during pregnancy unless the potential benefit justifie
 Sumatriptan causes corneal opacities and defects in the corneal epithelium in dogs; this raises the possibility that these changes may occur in humans.
 While patients were not systematically evaluated for these changes in clinical trials, and no specific recommendations for monitoring are being offered, prescribers should be aware of the possibility of these changes.
 [see Nonclinical Toxicology (13.2)]
+
+## 5.12 Medication Overuse Headache
+
+Overuse of acute migraine drugs (e.g. ergotamine, triptans, opioids, or combinations of these drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
+Medication overuse headache may present as migraine-like daily headaches or as a marked increase in frequency of migraine attacks.
+Detoxification of patients, including withdrawal of the overused acute migraine drugs and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
