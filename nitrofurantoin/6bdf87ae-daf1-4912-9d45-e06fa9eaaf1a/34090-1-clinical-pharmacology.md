@@ -48,9 +48,9 @@ It has no activity against Pseudomonas species.
 Antagonism has been demonstrated in vitro between nitrofurantoin and quinolone antimicrobial agents.
 The clinical significance of this finding is unknown.
 
-### Susceptibility Tests
+## Susceptibility Tests
 
-#### Dilution Techniques
+## Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC's).
 These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -79,7 +79,7 @@ Standard nitrofurantoin powder should provide the following MIC values:
 | S. aureus ATCC 29213 | 8-32 |
 | E. faecalis ATCC 29212 | 4-16 |
 
-#### Diffusion Techniques
+## Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure requires the use of standardized inoculum concentrations.

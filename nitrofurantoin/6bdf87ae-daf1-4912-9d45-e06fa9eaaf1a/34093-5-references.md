@@ -6,3 +6,10 @@
 - National Committee for Clinical Laboratory Standards.
   Performance Standards for Antimicrobial Disk Susceptibility Tests - Sixth Edition.
   Approved Standard NCCLS Document M2-A6, Vol. 17, No. 1, NCCLS, Wayne, PA, January, 1997.
+
+Manufactured by Norwich Pharmaceuticals, Inc North Norwich, New York 13814
+
+Manufactured for Shionogi Inc. Florham Park, NJ 07932
+
+FUR-PI-9 Rev.
+09/12
