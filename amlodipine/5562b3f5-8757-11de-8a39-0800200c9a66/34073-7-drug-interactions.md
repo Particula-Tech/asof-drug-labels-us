@@ -19,6 +19,7 @@ These effects are usually reversible.
 Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
 
 The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
 Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
@@ -26,6 +27,12 @@ Closely monitor blood pressure, renal function and electrolytes in patients on T
 
 Do not co-administer aliskiren with Tribenzor in patients with diabetes [See Contraindications (4)].
 Avoid use of aliskiren with Tribenzor in patients with renal impairment (GFR <60 ml/min).
+
+Use with Colesevelam Hydrochloride
+
+Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan.
+Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
+Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Drug Interactions with Amlodipine
 
