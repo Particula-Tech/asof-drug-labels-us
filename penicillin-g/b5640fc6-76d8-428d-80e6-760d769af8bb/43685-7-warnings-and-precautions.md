@@ -82,7 +82,7 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 In streptococcal infections, therapy must be sufficient to eliminate the organism; otherwise, the sequelae of streptococcal disease may occur.
 Cultures should be taken following completion of treatment to determine whether streptococci have been eradicated.
 
-### Drug Interactions
+## Drug Interactions
 
 Tetracycline, a bacteriostatic antibiotic, may antagonize the bactericidal effect of penicillin, and concurrent use of these drugs should be avoided.
 
