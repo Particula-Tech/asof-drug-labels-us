@@ -5,7 +5,9 @@
   "inn": "desloratadine",
   "labeler": "Dr. Reddy's Laboratories Limited",
   "package_ndcs": [
+    "55111-360-06",
     "55111-360-31",
+    "55111-551-06",
     "55111-551-31"
   ],
   "products": [

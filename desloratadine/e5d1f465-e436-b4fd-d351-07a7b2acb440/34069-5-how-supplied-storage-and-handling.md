@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Desloratadine Orally Disintegrating Tablets 2.5 mg: Desloratadine tablets 2.5 mg are light red colored, speckled, round, flat, uncoated, beveled edged debossed with “R” on one side and “551” on the other side and are supplied in unit dose packages of 30 (5 x 6).
 
@@ -8,14 +8,6 @@ Desloratadine Orally Disintegrating Tablets 5 mg: Desloratadine tablets 5 mg are
 
 Unit dose packages of 30 (5 x 6) NDC 55111-360-31
 
+Storage:
+
 Store orally disintegrating tablets at 20°-25°C (68°-77°F) excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
-
-Rx Only
-
-Manufactured by:
-
-Dr. Reddy’s Laboratories Limited
-
-Bachepalli – 502 325 INDIA
-
-Issued: 1207

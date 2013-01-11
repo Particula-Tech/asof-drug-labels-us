@@ -1,7 +1,5 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+# Package Label. Principal Display Panel
 
-2.5 mg: Unit dose package 30 (5x6)
+Desloratadine Orally Disintegrating Tablets, 2.5 mg - Blister Carton Label
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
-
-5 mg: Unit dose package 30 (5x6)
+Desloratadine Orally Disintegrating Tablets, 5 mg - Blister Carton Label
