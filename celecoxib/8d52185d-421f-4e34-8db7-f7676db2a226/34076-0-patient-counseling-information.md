@@ -9,7 +9,7 @@ Patients should be informed of the availability of a Medication Guide for NSAIDs
 ## 17.2 Cardiovascular Effects
 
 Patients should be informed that CELEBREX may cause serious CV side effects such as MI or stroke, which may result in hospitalization and even death.
-Patients should be informed of the the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and to seek immediate medical advice if they observe any of these signs or symptoms.
+Patients should be informed of the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and to seek immediate medical advice if they observe any of these signs or symptoms.
 [see Warnings and Precautions (5.1)].
 
 Patients should be informed that CELEBREX can lead to the onset of new hypertension or worsening of preexisting hypertension, and that CELEBREX may impair the response of some antihypertensive agents.

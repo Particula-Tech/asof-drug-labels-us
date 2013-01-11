@@ -1,51 +1,130 @@
-PRINCIPAL DISPLAY PANEL - 50 mg label
+PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
 
-NDC 0025-1515-01
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-60 Capsules Rx only
+Pfizer
 
-Celebrex® 50 celecoxib capsules
+NDC 0025-1515-01 Rx only
+
+Celebrex® celecoxib capsules
 
 50 mg
 
-Pfizer Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+60 Capsules
 
-PRINCIPAL DISPLAY PANEL - 100 mg label
+PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
 
-NDC 0025-1520-31
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-100 Capsules Rx only
+Pfizer
 
-Celebrex® 100 celecoxib capsules
+NDC 0025-1520-31 Rx only
+
+Celebrex® celecoxib capsules
 
 100 mg
 
-Pfizer Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+100 Capsules
 
-PRINCIPAL DISPLAY PANEL - 200 mg label
+PRINCIPAL DISPLAY PANEL - 100 mg Blister Pack
 
-NDC 0025-1525-31
+Celebrex® celecoxib capsules
 
-100 Capsules Rx only
+100 mg
 
-Celebrex® 200 celecoxib capsules
+Distributed by G.D.
+Searle LLC Div of Pfizer Inc, NY, NY 10017 MADE IN SINGAPORE
+
+PRINCIPAL DISPLAY PANEL - 100 mg 10-Blister Pack Carton
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer
+
+NDC 0025-1520-34 Rx only
+
+Celebrex® celecoxib capsules
+
+100 mg
+
+For in-institution use only
+
+100 Capsules UNIT DOSE
+
+PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer
+
+NDC 0025-1525-31 Rx only
+
+Celebrex® celecoxib capsules
 
 200 mg
 
-Pfizer Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+100 Capsules
 
-PRINCIPAL DISPLAY PANEL - 400 mg label
+PRINCIPAL DISPLAY PANEL - 200 mg Blister Pack
 
-NDC 0025-1530-02
+Celebrex® celecoxib capsules
 
-60 Capsules Rx only
+200 mg
 
-Celebrex® 400 celecoxib capsules
+Distributed by G.D.
+Searle LLC Div of Pfizer Inc, NY, NY 10017 MADE IN SINGAPORE
+
+PRINCIPAL DISPLAY PANEL - 200 mg 10-Blister Pack Carton
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer
+
+NDC 0025-1525-34 Rx only
+
+Celebrex® celecoxib capsules
+
+200 mg
+
+For in-institution use only
+
+100 Capsules UNIT DOSE
+
+PRINCIPAL DISPLAY PANEL - 400 mg Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer
+
+NDC 0025-1530-02 Rx only
+
+Celebrex® celecoxib capsules
 
 400 mg
 
-Pfizer Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+60 Capsules
+
+PRINCIPAL DISPLAY PANEL - 400 mg Blister Pack
+
+Celebrex® celecoxib capsules
+
+400 mg
+
+Distributed by G.D.
+Searle LLC Div of Pfizer Inc, NY, NY 10017 MADE IN SINGAPORE
+
+PRINCIPAL DISPLAY PANEL - 400 mg 10-Blister Pack Carton
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer
+
+NDC 0025-1530-01 Rx only
+
+Celebrex® celecoxib capsules
+
+400 mg
+
+For in-institution use only
+
+100 Capsules UNIT DOSE

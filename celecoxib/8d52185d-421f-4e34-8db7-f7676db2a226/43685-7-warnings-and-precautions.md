@@ -53,6 +53,8 @@ To minimize the potential risk for an adverse GI event, the lowest effective dos
 Physicians and patients should remain alert for signs and symptoms of GI ulceration and bleeding during CELEBREX therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
 For high-risk patients, alternate therapies that do not involve NSAIDs should be considered.
 
+Celebrex is contraindicated in patients with active GI bleeding.
+
 ## 5.5 Hepatic Effects
 
 Borderline elevations of one or more liver-associated enzymes may occur in up to 15% of patients taking NSAIDs, and notable elevations of ALT or AST (approximately 3 or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
