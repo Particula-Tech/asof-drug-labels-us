@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020758"
+  ],
+  "inn": "hydrochlorothiazide",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5855-30",
+    "0024-5855-90",
+    "0024-5856-30",
+    "0024-5856-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "irbesartan and hydrochlorothiazide",
+      "name": "Avalide"
+    }
+  ],
+  "setid": "0d91895e-c869-4b33-9b83-d55c1ad6317e",
+  "source": "dailymed"
+}
