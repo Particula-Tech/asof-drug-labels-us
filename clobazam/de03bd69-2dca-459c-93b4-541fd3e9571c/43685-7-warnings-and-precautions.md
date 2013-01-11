@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Somnolence or Sedation
 
@@ -9,14 +9,14 @@ In general, somnolence and sedation begin within the first month of treatment an
 Prescribers should monitor patients for somnolence and sedation, particularly with concomitant use of other central nervous system depressants.
 Prescribers should caution patients against engaging in hazardous activities requiring mental alertness, such as operating dangerous machinery or motor vehicles, until the effect of ONFI is known.
 
-## 5.2 Concomitant Use with Central Nervous System Depressants
+## 5.2 Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants
 
 Since ONFI has a central nervous system (CNS) depressant effect, patients or their caregivers should be cautioned against simultaneous use with other CNS depressant drugs or alcohol, and cautioned that the effects of other CNS depressant drugs or alcohol may be potentiated.
 
-## 5.3 Withdrawal
+## 5.3 Withdrawal Symptoms
 
 Abrupt discontinuation of ONFI should be avoided.
-ONFI should be tapered by decreasing the dose every week by 5-10 mg/day until discontinuation [see Dosage and Administration (2.6)].
+ONFI should be tapered by decreasing the dose every week by 5-10 mg/day until discontinuation [see Dosage and Administration (2.2)].
 
 Withdrawal symptoms occurred following abrupt discontinuation of ONFI; the risk of withdrawal symptoms is greater with higher doses.
 
@@ -35,7 +35,7 @@ Patients with a history of substance abuse should be under careful surveillance 
 Antiepileptic drugs (AEDs), including ONFI, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted relative risk 1.8, 95% confidence interval [CI]:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted relative risk 1.8, 95% confidence interval [CI]: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED treated patients was 0.43%, compared to 0.24% among 16,029 placebo treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug treated patients in the trials and none in placebo treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 

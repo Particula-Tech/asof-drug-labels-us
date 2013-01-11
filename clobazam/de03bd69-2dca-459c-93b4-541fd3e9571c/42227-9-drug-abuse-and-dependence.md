@@ -1,15 +1,18 @@
-# 9. DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
 ## 9.1 Controlled Substance
 
-ONFI is listed in Schedule IV of the Controlled Substances Act (CSA).
+ONFI contains clobazam which is a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 
-The pharmacological profile of ONFI is similar to that of other benzodiazepines listed in Schedule IV of the CSA, particularly in its potentiation of GABAergic transmission through its action on GABAA receptors, which leads to sedation, somnolence, and anxiolysis.
-Therefore, ONFI may be abused in a similar manner as other benzodiazepines, such as diazepam.
+ONFI can be abused in a similar manner as other benzodiazepines, such as diazepam.
+
+The pharmacological profile of ONFI is similar to that of other benzodiazepines listed in Schedule IV of the Controlled Substance Act, particularly in its potentiation of GABAergic transmission through its action on GABAA receptors, which leads to sedation and somnolence.
 
 The World Health Organization epidemiology database contains reports of drug abuse, misuse, and overdoses associated with clobazam.
+
+Drug abuse is the intentional non-therapeutic use of a drug, repeatedly or even sporadically, for its rewarding psychological or physiological effects.
 
 ## 9.3 Dependence
 
@@ -25,7 +28,7 @@ The risk of dependence is increased in patients with a history of alcohol or dru
 Withdrawal
 
 Abrupt discontinuation of ONFI causes withdrawal symptoms.
-As with other benzodiazepines, ONFI should be withdrawn gradually [see Dosage and Administration (2.6), Warnings and Precautions (5.3)].
+As with other benzodiazepines, ONFI should be withdrawn gradually [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 In ONFI clinical pharmacology trials in healthy volunteers, the most common withdrawal symptoms after abrupt discontinuation were headache, tremor, insomnia, anxiety, irritability, drug withdrawal syndrome, palpitations, and diarrhea [see Warnings and Precautions (5.3)].
 

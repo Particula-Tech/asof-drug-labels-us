@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 The effectiveness of ONFI for the adjunctive treatment of seizures associated with Lennox-Gastaut syndrome was established in two multicenter controlled studies (Study 1 and Study 2).
 Both studies were similar in terms of disease characteristics and concomitant AED treatments.
@@ -42,7 +42,7 @@ There was no evidence that tolerance to the therapeutic effect of ONFI developed
 Study 2
 
 Study 2 (N=68) was a randomized, double-blind comparison study of high- and low-dose ONFI, consisting of a 4-week baseline period followed by a 3-week titration period and 4-week maintenance period.
-Patients age 2-25 years with a current or prior diagnosis of LGS were stratified into 2 weight groups (12.5 kg to ≤30 kg or >30 kg) then randomized to either a low target dose of ONFI (daily dose of 5 mg for ≤30 kg body weight; 10 mg for >30 kg body weight) or high target dose of ONFI (daily dose of 20 mg ≤30 kg body weight; 40 mg for >30 kg body) and entered a 3-week titration period.
+Patients age 2-25 years with a current or prior diagnosis of LGS were stratified by weight, then randomized to either a low or high dose of ONFI, and then entered a 3-week titration period.
 
 The primary efficacy measure was the percent reduction in the weekly frequency of drop seizures (atonic, tonic, or myoclonic), also known as drop attacks, from the 4-week baseline period to the 4-week maintenance period.
 

@@ -1,15 +1,22 @@
 {
   "application_numbers": [
-    "NDA202067"
+    "NDA202067",
+    "NDA203993"
   ],
   "inn": "clobazam",
-  "labeler": "Lundbeck Inc.",
+  "labeler": "Lundbeck LLC",
   "package_ndcs": [
     "67386-310-01",
     "67386-311-01",
-    "67386-312-01"
+    "67386-312-01",
+    "67386-313-21"
   ],
   "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "clobazam",
+      "name": "Onfi"
+    },
     {
       "form": "TABLET",
       "generic": "clobazam",

@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -37,13 +37,12 @@ Clinical studies of ONFI did not include sufficient numbers of subjects aged 65 
 However, elderly subjects appear to eliminate clobazam more slowly than younger subjects based on population pharmacokinetic analysis.
 For these reasons, the initial dose in elderly patients should be 5 mg/day.
 Patients should be titrated initially to 10-20 mg/day.
-Patients may be titrated further to a maximum daily dose of 40 mg if tolerated [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
+Patients may be titrated further to a maximum daily dose of 40 mg if tolerated [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.6 CYP2C19 Poor Metabolizers
 
 Concentrations of clobazam's active metabolite, N-desmethylclobazam, are higher in CYP2C19 poor metabolizers than in extensive metabolizers.
-For this reason, the initial dose in patients known to be CYP2C19 poor metabolizers should be 5 mg/day.
-These patients should be titrated initially to 10-20 mg/day, and may be titrated further to a maximum daily dose of 40 mg if tolerated [see Dosage and Administration (2.3), Clinical Pharmacology (12.5)].
+For this reason, dosage modification is recommended [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
@@ -51,12 +50,10 @@ The pharmacokinetics of ONFI were evaluated in patients with mild and moderate r
 There were no significant differences in systemic exposure (AUC and Cmax) between patients with mild or moderate renal impairment and healthy subjects.
 No dose adjustment is required for patients with mild and moderate renal impairment.
 There is essentially no experience with ONFI in patients with severe renal impairment or ESRD.
-It is not known if clobazam or its active metabolite, N-desmethylclobazam, is dialyzable [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+It is not known if clobazam or its active metabolite, N-desmethylclobazam, is dialyzable [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
 
 ## 8.8 Hepatic Impairment
 
 ONFI is hepatically metabolized; however, there are limited data to characterize the effect of hepatic impairment on the pharmacokinetics of ONFI.
-For this reason, the initial dose in patients with mild to moderate hepatic impairment (Child-Pugh score 5-9) should be 5 mg/day.
-These patients should be titrated initially to 10 to 20 mg/day, and may be titrated further to a maximum daily dose of 40 mg if tolerated.
-There is inadequate information about metabolism of ONFI in patients with severe hepatic impairment.
-Therefore no dosing recommendation in those patients can be given [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+For this reason, dosage adjustment is recommended in patients with mild to moderate hepatic impairment (Child-Pugh score 5-9).
+There is inadequate information about metabolism of ONFI in patients with severe hepatic impairment [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].

@@ -1,6 +1,6 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+See FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Inform patients or caregivers of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with ONFI and with each prescription refill.
 Review the ONFI Medication Guide with every patient or caregiver prior to initiation of treatment.
@@ -15,11 +15,11 @@ If applicable, caution patients about operating hazardous machinery, including a
 Increasing or Decreasing the ONFI Dose
 
 Inform patients or caregivers to consult their healthcare provider before increasing the ONFI dose or abruptly discontinuing ONFI.
-Advise patients or caregivers that abrupt withdrawal of AEDs may increase their risk of seizure [see Dosage and Administration (2.6), Warnings and Precautions (5.3)].
+Advise patients or caregivers that abrupt withdrawal of AEDs may increase their risk of seizure [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Interactions with Hormonal Contraceptives
 
-Counsel women to also use non-hormonal methods of contraception when ONFI is used with hormonal contraceptives and to continue these alternative methods for 28 days after discontinuing ONFI to ensure contraceptive reliability [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+Counsel women to also use non-hormonal methods of contraception when ONFI is used with hormonal contraceptives and to continue these alternative methods for 28 days after discontinuing ONFI to ensure contraceptive reliability [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 Suicidal Thinking and Behavior
 
@@ -39,8 +39,10 @@ Use in Nursing
 
 Instruct patients to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.3)].
 
-Manufactured by: Catalent Pharma Solutions, LLC Winchester, KY 40391, U.S.A.
+Tablets manufactured by: Catalent Pharma Solutions, LLC Winchester, KY 40391, U.S.A.
 
-For: Lundbeck Inc. Deerfield, IL 60015, U.S.A.
+Oral suspension manufactured by: Rosemont Pharmaceuticals, Ltd. Leeds, West Yorkshire LS118 EX, U.K.
 
-October 2011
+For: Lundbeck Deerfield, IL 60015, U.S.A.
+
+ONFI is a registered trademark of Lundbeck
