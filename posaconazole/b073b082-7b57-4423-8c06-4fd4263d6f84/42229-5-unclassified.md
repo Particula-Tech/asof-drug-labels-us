@@ -1,16 +1,18 @@
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manuf. by: Patheon Inc., Whitby, Ontario, Canada L1N 5Z5
 
 U.S. Patent Nos. 5,661,151; 5,703,079; and 6,958,337.
+
+BOOST® is a registered trademark of Société des Produits Nestlé, S.A.
 
 Copyright © 2006, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
 
 All rights reserved.
 
-BOOST® is a registered trademark of Societe des Produits Nestle, S.A.
+Revised: 11/2012
 
-Revised: 06/2012
-
-056592-POS-SUo-USPI-26
+056592-POS-SUo-USPI-27
 
 PATIENT INFORMATION
 
@@ -145,16 +147,18 @@ Active ingredient: posaconazole.
 
 Inactive ingredients: polysorbate 80, simethicone, sodium benzoate, sodium citrate dihydrate, citric acid monohydrate, glycerin, xanthan gum, liquid glucose, titanium dioxide, artificial cherry flavor, and purified water.
 
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Rx only
-
-Copyright © 2006, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Manuf. by: Patheon Inc., Whitby, Ontario, Canada L1N 5Z5
 
 U.S. Patent Nos. 5,661,151; 5,703,079; and 6,958,337.
 
 The trademarks depicted in this piece are owned by their respective companies.
 
-Revised: 06/2012
+Copyright © 2006, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-056592-POS-SUo-PPI-10
+Revised: 12/2012
+
+056592-POS-SUo-PPI-11
+
+Rx only

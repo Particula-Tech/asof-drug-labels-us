@@ -36,7 +36,7 @@ This is consistent with pharmacokinetic data from another study in which mean st
 ## 8.5 Geriatric Use
 
 Of the 605 patients randomized to posaconazole in the prophylaxis clinical trials, 63 (10%) were ≥65 years of age.
-In addition, 48 patients treated with ≥800-mg/day posaconazole in another indication were ≥65 years of age.
+In addition, 48 patients treated with greater than or equal to 800-mg/day posaconazole in another indication were ≥65 years of age.
 No overall differences in safety were observed between the geriatric patients and younger patients; therefore, no dosage adjustment is recommended for geriatric patients.
 
 The pharmacokinetics of posaconazole are comparable in young and elderly subjects (≥65 years of age).

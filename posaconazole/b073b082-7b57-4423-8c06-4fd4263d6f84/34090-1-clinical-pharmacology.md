@@ -34,7 +34,7 @@ Following single-dose administration of 200 mg, the mean AUC and Cmax of posacon
 Following single-dose administration of 400 mg, the mean AUC and Cmax of posaconazole are approximately 3 times higher when administered with a liquid nutritional supplement (14 gm fat) relative to the fasted state (see Table 6).
 In order to assure attainment of adequate plasma concentrations, it is recommended to administer posaconazole with food or a nutritional supplement.
 
-TABLE 6: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Following Single-Dose Suspension Administration of 200 mg and 400 mg Under Fed and Fasted Conditions
+Table 6: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Following Single-Dose Suspension Administration of 200 mg and 400 mg Under Fed and Fasted Conditions
 
 | Dose (mg) | Cmax (ng/mL) | TmaxMedian [min-max]. (hr) | AUC (I) (ng∙hr/mL) | CL/F (L/hr) | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ Table 7: The Effect of Varying Gastric Administration Conditions on the Cmax and
 
 The mean (%CV) [min-max] posaconazole average steady-state plasma concentrations (Cav) and steady-state pharmacokinetic parameters in patients following administration of 200 mg TID and 400 mg BID of the oral suspension are provided in Table 8.
 
-TABLE 8: The Mean (%CV) [min-max] Posaconazole Steady-State Pharmacokinetic Parameters in Patients Following Oral Administration of Posaconazole 200 mg TID and 400 mg BID
+Table 8: The Mean (%CV) [min-max] Posaconazole Steady-State Pharmacokinetic Parameters in Patients Following Oral Administration of Posaconazole 200 mg TID and 400 mg BID
 
 | DoseOral suspension administration | Cav (ng/mL) | AUCAUC (0–24 hr) for 200 mg TID and AUC (0–12 hr) for 400 mg BID (ng∙hr/mL) | CL/F (L/hr) | V/F (L) | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
@@ -85,7 +85,7 @@ Posaconazole is primarily metabolized via UDP glucuronidation (phase 2 enzymes) 
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
 A summary of drugs studied clinically, which affect posaconazole concentrations, is provided in Table 9.
 
-TABLE 9: Summary of the Effect of Coadministered Drugs on Posaconazole in Healthy Volunteers
+Table 9: Summary of the Effect of Coadministered Drugs on Posaconazole in Healthy Volunteers
 
 | Coadministered Drug (Postulated Mechanism of Interaction) | Coadministered Drug Dose/Schedule | Posaconazole Dose/Schedule | Change in Mean Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus posaconazole to posaconazole alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in Mean AUC (ratio estimate; 90% CI of the ratio estimate) |
 | --- | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ A clinical study in healthy volunteers also indicates that posaconazole is a str
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole.
 A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 10 [see Contraindications (4) and Drug Interactions (7.1) including recommendations].
 
-TABLE 10: Summary of the Effect of Posaconazole on Coadministered Drugs in Healthy Volunteers and Patients
+Table 10: Summary of the Effect of Posaconazole on Coadministered Drugs in Healthy Volunteers and Patients
 
 | Change in Mean Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus posaconazole to coadministered drug alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in Mean AUC (ratio estimate; 90% CI of the ratio estimate) |  |  |  |
 | --- | --- | --- | --- | --- |

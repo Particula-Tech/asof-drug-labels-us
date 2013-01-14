@@ -26,7 +26,7 @@ The most frequently reported adverse reactions (>30%) in the prophylaxis clinica
 
 The most common adverse reactions leading to discontinuation of posaconazole in the prophylaxis studies were associated with GI disorders, specifically, nausea (2%), vomiting (2%), and hepatic enzymes increased (2%).
 
-TABLE 2: Study 1 and Study 2.
+Table 2: Study 1 and Study 2.
 Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10% in the Posaconazole or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
 
 | Subjects Reporting any Adverse Reaction | 595 | (98) | 531 | (99) | 58 | (100) |
@@ -93,18 +93,18 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions
 | Pruritus | 69 | (11) | 62 | (12) | 11 | (19) |
 | NOS = not otherwise specified. |  |  |  |  |  |  |
 
-HIV Infected Subjects with OPC: In 2 randomized comparative studies in OPC, the safety of posaconazole at a dose of ≤400 mg QD in 557 HIV-infected patients was compared to the safety of fluconazole in 262 HIV-infected patients at a dose of 100 mg QD.
+HIV Infected Subjects with OPC: In 2 randomized comparative studies in OPC, the safety of posaconazole at a dose of less than or equal to 400 mg QD in 557 HIV-infected patients was compared to the safety of fluconazole in 262 HIV-infected patients at a dose of 100 mg QD.
 
 An additional 239 HIV-infected patients with refractory OPC received posaconazole in 2 non-comparative trials for refractory OPC (rOPC).
 
-Of these subjects, 149 received the 800-mg/day dose and the remainder received the ≤400-mg QD dose.
+Of these subjects, 149 received the 800-mg/day dose and the remainder received the less than or equal to 400-mg QD dose.
 
 In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea, nausea, headache, and vomiting.
 
 The most common adverse reactions that led to treatment discontinuation of posaconazole in the Controlled OPC Pool included respiratory insufficiency (1%) and pneumonia (1%).
 In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of posaconazole were AIDS (7%) and respiratory insufficiency (3%).
 
-TABLE 3: Treatment-Emergent Adverse Reactions with Frequency of at Least 10% in OPC Studies (Treated Population)
+Table 3: Treatment-Emergent Adverse Reactions with Frequency of at Least 10% in OPC Studies (Treated Population)
 
 | Subjects Reporting any Adverse ReactionNumber of subjects reporting treatment-emergent adverse reactions at least once during the study, without regard to relationship to treatment. Subjects may have reported more than 1 event. | 356 (64) | 175 (67) | 221 (92) |
 | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ The majority of abnormal liver function tests were minor, transient, and did not
 
 For the prophylaxis studies, the number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 4.
 
-TABLE 4: Study 1 and Study 2.
+Table 4: Study 1 and Study 2.
 Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
 | Number (%) of Patients With ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |  |
@@ -190,7 +190,7 @@ Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to 
 The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in Table 5.
 (LFT abnormalities were present in some of these patients prior to initiation of the study drug).
 
-TABLE 5: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
+Table 5: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
 
 | Laboratory Test | n=557(%) | n=262(%) | n=239(%) |
 | --- | --- | --- | --- |

@@ -10,7 +10,7 @@ Study 1 assessed all patients while on study therapy plus 7 days and at 16 weeks
 The mean duration of therapy was comparable between the 2 treatment groups (80 days, posaconazole; 77 days, fluconazole).
 Table 11 contains the results from Study 1.
 
-TABLE 11: Results from Blinded Clinical Study 1 in Prophylaxis of IFI in All Randomized Patients with Hematopoietic Stem Cell Transplant (HSCT) and Graft-vs.-Host Disease (GVHD)
+Table 11: Results from Blinded Clinical Study 1 in Prophylaxis of IFI in All Randomized Patients with Hematopoietic Stem Cell Transplant (HSCT) and Graft-vs.-Host Disease (GVHD)
 
 | On therapy plus 7 days |  |  |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Study 2 assessed patients while on treatment plus 7 days and 100 days postrandom
 The mean duration of therapy was comparable between the 2 treatment groups (29 days, posaconazole; 25 days, fluconazole or itraconazole).
 Table 12 contains the results from Study 2.
 
-TABLE 12: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All Randomized Patients with Hematologic Malignancy and Prolonged Neutropenia
+Table 12: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All Randomized Patients with Hematologic Malignancy and Prolonged Neutropenia
 
 | On therapy plus 7 days |  |  |
 | --- | --- | --- |
@@ -88,7 +88,7 @@ Clinical success at Day 14 (complete or partial resolution of all ulcers and/or 
 
 Mycologic eradication rates (absence of colony forming units in quantitative culture at the end of therapy, Day 14), as well as mycologic relapse rates (4 weeks after the end of treatment) were also similar between the treatment arms (see Table 13).
 
-TABLE 13: Clinical Success, Mycological Eradication, and Relapse Rates in Oropharyngeal Candidiasis
+Table 13: Clinical Success, Mycological Eradication, and Relapse Rates in Oropharyngeal Candidiasis
 
 |  | Posaconazole | Fluconazole |
 | --- | --- | --- |
@@ -103,7 +103,7 @@ The clinical significance of this finding is unknown.
 ## 14.3 Treatment of Oropharyngeal Candidiasis Refractory to Treatment with Fluconazole or Itraconazole
 
 Study 4 was a noncomparative study of posaconazole oral suspension in HIV-infected subjects with OPC that was refractory to treatment with fluconazole or itraconazole.
-An episode of OPC was considered refractory if there was failure to improve or worsening of OPC after a standard course of therapy with fluconazole ≥100 mg/day for at least 10 consecutive days or itraconazole 200 mg/day for at least 10 consecutive days and treatment with either fluconazole or itraconazole had not been discontinued for more than 14 days prior to treatment with posaconazole.
+An episode of OPC was considered refractory if there was failure to improve or worsening of OPC after a standard course of therapy with fluconazole greater than or equal to 100 mg/day for at least 10 consecutive days or itraconazole 200 mg/day for at least 10 consecutive days and treatment with either fluconazole or itraconazole had not been discontinued for more than 14 days prior to treatment with posaconazole.
 Of the 199 subjects enrolled in this study, 89 subjects met these strict criteria for refractory infection.
 
 Forty-five subjects with refractory OPC were treated with posaconazole 400 mg BID for 3 days, followed by 400 mg QD for 25 days with an option for further treatment during a 3-month maintenance period.
