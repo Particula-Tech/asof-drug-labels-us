@@ -1,0 +1,1 @@
+# Skyla (levonorgestrel-releasing intrauterine system) Carton NDC 50419-422-01 1 Sterile Unit IMPORTANT: To be inserted in the uterus by or under the supervision of a licensed clinician. See physician insert for detailed instructions for use. Skyla (levonorgestrel-releasing intrauterine system) Rx only — 13.5 mg levonorgestrel — 1 sterile unit — intrauterine use

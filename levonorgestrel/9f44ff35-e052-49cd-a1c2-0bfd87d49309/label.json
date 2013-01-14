@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA203159"
+  ],
+  "inn": "levonorgestrel",
+  "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "50419-422-01",
+    "50419-422-08",
+    "50419-422-71"
+  ],
+  "products": [
+    {
+      "form": "INTRAUTERINE DEVICE",
+      "generic": "levonorgestrel",
+      "name": "Skyla"
+    }
+  ],
+  "setid": "9f44ff35-e052-49cd-a1c2-0bfd87d49309",
+  "source": "dailymed"
+}
