@@ -23,15 +23,23 @@ Patients should wash their hands immediately after application of GELNIQUE 3%.
 GELNIQUE 3% is an alcohol-based gel and is therefore flammable.
 Avoid open fire or smoking until gel has dried.
 
-## 5.5 Myasthenia Gravis
+## 5.5 Central Nervous System Effects
+
+Drugs containing oxybutynin are associated with anticholinergic central nervous system (CNS) effects [see Adverse Reactions (6.1)].
+A variety of CNS anticholinergic effects have been reported, including headache, dizziness, and somnolence.
+Patients should be monitored for signs of anticholinergic CNS effects, particularly after beginning treatment or increasing the dose.
+Advise patients not to drive or operate heavy machinery until they know how GELNIQUE 3% affects them.
+If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered.
+
+## 5.6 Myasthenia Gravis
 
 Administer GELNIQUE 3% with caution in patients with myasthenia gravis, a disease characterized by decreased cholinergic activity at the neuromuscular junction.
 
-## 5.6 Angioedema
+## 5.7 Angioedema
 
 Angioedema requiring hospitalization and emergency medical treatment has occurred with the first or subsequent doses of oral oxybutynin.
 In the event of angioedema, oxybutynin containing product should be discontinued and appropriate therapy promptly provided.
 
-## 5.7 Controlled Narrow-Angle Glaucoma
+## 5.8 Controlled Narrow-Angle Glaucoma
 
 Administer GELNIQUE 3% with caution in patients being treated for narrow-angle glaucoma.
