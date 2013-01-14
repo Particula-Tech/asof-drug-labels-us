@@ -2,15 +2,13 @@ PRINCIPAL DISPLAY PANEL - 50 mcg
 
 NDC 67457-239-01
 
-Subcutaneous Injection See Insert
-
 Octreotide Acetate Injection
 
-50 mcg (base)/1 mL (0.05 mg/mL)
+50 mcg (base)/1 mL (0.05 mg/mL) Needle shield may contain latex
 
-Needle shield may contain latex
+Subcutaneous Injection See Insert
 
-Rx Only 10 x 1 mL Single Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
+Rx only 10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -29,25 +27,23 @@ Octreotide (as acetate)..........................
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Manufactured in Italy
+Made in Italy
 
-www.mylan.com
+Mylan.com
 
-MI:239:10C:R1
+MI:239:10C:R2
 
 PRINCIPAL DISPLAY PANEL - 100 mcg
 
 NDC 67457-245-01
 
-Subcutaneous Injection See Insert
-
 Octreotide Acetate Injection
 
-100 mcg (base)/1 mL (0.1 mg/mL)
+100 mcg (base)/1 mL (0.1 mg/mL) Needle shield may contain latex
 
-Needle shield may contain latex
+Subcutaneous Injection See Insert
 
-Rx Only 10 x 1 mL Single Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
+Rx only 10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -66,25 +62,23 @@ Octreotide (as acetate)..........................
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Manufactured in Italy
+Made in Italy
 
-www.mylan.com
+Mylan.com
 
-MI:245:10C:R1
+MI:245:10C:R2
 
 PRINCIPAL DISPLAY PANEL - 500 mcg
 
 NDC 67457-246-01
 
-Subcutaneous Injection See Insert
-
 Octreotide Acetate Injection
 
-500 mcg (base)/1 mL (0.5 mg/mL)
+500 mcg (base)/1 mL (0.5 mg/mL) Needle shield may contain latex
 
-Needle shield may contain latex
+Subcutaneous Injection See Insert
 
-Rx Only 10 x 1 mL Single Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
+Rx only 10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -103,8 +97,8 @@ Octreotide (as acetate)..........................
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Manufactured in Italy
+Made in Italy
 
-www.mylan.com
+Mylan.com
 
-MI:246:10C:R1
+MI:246:10C:R2

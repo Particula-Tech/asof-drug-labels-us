@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Octreotide Acetate Injection is available in a 1 mL single dose syringe with a fixed 27 gauge ½ inch needle as follows:
+Octreotide Acetate Injection is available in a 1 mL single-dose syringe with a fixed 27 gauge ½ inch needle as follows:
 
 NDC 67457-239-01; octreotide acetate equivalent to octreotide 50 mcg/mL, carton of 10.
 
@@ -21,9 +21,11 @@ NDC 67457-240-05; octreotide acetate equivalent to octreotide 200 mcg/mL, indivi
 
 NDC 67457-247-05; octreotide acetate equivalent to octreotide 1000 mcg/mL, individually boxed.
 
-Single dose syringes manufactured by: Italfarmaco S.p.A.
-V.le Fulvio Testi, 330 20126 Milano, Italy
-
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-AUGUST 2011 MI:OCTRIJ:R1
+Single-dose syringes manufactured by:
+
+Italfarmaco S.p.A.
+V.le Fulvio Testi, 330 20126 Milano, Italy
+
+REVISED AUGUST 2012 MI:OCTRIJ:R2 PK20194

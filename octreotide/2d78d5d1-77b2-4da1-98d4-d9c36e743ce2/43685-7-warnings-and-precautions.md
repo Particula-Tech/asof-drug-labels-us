@@ -62,12 +62,14 @@ Careful instruction in sterile subcutaneous injection technique should be given 
 Laboratory tests that may be helpful as biochemical markers in determining and following patient response depend on the specific tumor.
 Based on diagnosis, measurement of the following substances may be useful in monitoring the progress of therapy:
 
-| Acromegaly: | Growth Hormone, IGF-I (somatomedin C) Responsiveness to octreotide acetate may be evaluated by determining growth hormone levels at 1 to 4 hour intervals for 8 to 12 hours post dose. Alternatively, a single measurement of IGF-I (somatomedin C) level may be made two weeks after drug initiation or dosage change. |
-| --- | --- |
-| Carcinoid: | 5-HIAA (urinary 5-hydroxyindole acetic acid), plasma serotonin, plasma Substance P |
-| VIPoma: | VIP (plasma vasoactive intestinal peptide) |
+Acromegaly: Growth Hormone, IGF-I (somatomedin C) Responsiveness to octreotide acetate may be evaluated by determining growth hormone levels at 1 to 4 hour intervals for 8 to 12 hours post dose.
+Alternatively, a single measurement of IGF-I (somatomedin C) level may be made two weeks after drug initiation or dosage change.
 
-Baseline and periodic total and/or free T4 measurements should be performed during chronic therapy (see PRECAUTIONS, General).
+Carcinoid: 5-HIAA (urinary 5-hydroxyindole acetic acid), plasma serotonin, plasma Substance P
+
+VIPoma: VIP (plasma vasoactive intestinal peptide)
+
+Baseline and periodic total and/or free T4 measurements should be performed during chronic therapy (see PRECAUTIONS: General).
 
 ## Drug Interactions
 
@@ -119,8 +121,8 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 Safety and efficacy of octreotide acetate injection in the pediatric population have not been demonstrated.
 
-No formal controlled clinical trials have been performed to evaluate the safety and effectiveness of octreotide acetate in pediatric under age 6 years.
-In post-marketing report, serious adverse events, including hypoxia, necrotizing enterocolitis, and death, have been reported with octreotide acetate use in children, most notably in children under 2 years of age.
+No formal controlled clinical trials have been performed to evaluate the safety and effectiveness of octreotide acetate in pediatric patients under age 6 years.
+In post-marketing reports, serious adverse events, including hypoxia, necrotizing enterocolitis, and death, have been reported with octreotide acetate use in children, most notably in children under 2 years of age.
 The relationship of these events to octreotide has not been established as the majority of these pediatric patients had serious underlying co-morbid conditions.
 
 The efficacy and safety of octreotide using the octreotide acetate for injectable suspension formulation was examined in a single randomized, double-blind, placebo-controlled, 6-month, pharmacokinetics study in 60 pediatric patients age 6 to 17 years with hypothalamic obesity resulting from cranial insult.
