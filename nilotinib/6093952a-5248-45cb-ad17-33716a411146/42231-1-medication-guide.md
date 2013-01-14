@@ -187,4 +187,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2012-116/T2011-125 May 2012/October 2011
+T2011-125 October 2011

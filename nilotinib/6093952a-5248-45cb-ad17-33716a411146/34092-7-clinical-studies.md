@@ -11,14 +11,16 @@ There were slightly more male than female patients in all groups (56%, 56% and 6
 More than 60% of all patients were Caucasian, and 25% were Asian.
 
 The primary data analysis was performed when all 846 patients completed 12 months of treatment (or discontinued earlier).
-A second data analysis was performed when all 846 patients completed 24 months of treatment (or discontinued earlier).
-The median time on treatment at the time of the second analysis was 25 months in all three treatment groups.
+Subsequent analyses were done when patients completed 24 and 36 months of treatment (or discontinued earlier).
+The median time on treatment was approximately 36 months in all three treatment groups.
 This study is on-going and further data will be required to determine long-term outcome.
 
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
 MMR was defined as ≤0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a ≥3 log reduction of BCR-ABL transcript from standardized baseline.
 Efficacy endpoints are summarized in Table 9 below.
-After 24 months of minimum follow-up, two patients on the nilotinib arm progressed to either accelerated phase or blast crisis while 17 patients on the imatinib arm progressed to either accelerated phase or blast crisis.
+
+Two patients in the nilotinib arm progressed to either accelerated phase or blast crisis (both within the first 6 months of treatment) while 17 patients on the imatinib arm progressed to either accelerated phase or blast crisis (8 patients within first 6 months, 4 within 6-12 months, 4 within 12-18 months and 1 within 18-24 months).
+Between the 24 and 36 month analyses, there were no new progressions to AP/BC in either treatment arm.
 
 Table 9: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagnosed Ph+ CML-CP
 

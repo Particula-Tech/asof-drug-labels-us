@@ -51,7 +51,7 @@ If interruption of treatment with Tasigna is not possible, patients who require 
 
 The bioavailability of nilotinib is increased with food.
 Tasigna must not be taken with food.
-No food should be taken at least 2 hours before and at least one hour after the dose is taken.
+No food should be taken for at least 2 hours before and for at least one hour after the dose is taken.
 Grapefruit products and other foods that are known to inhibit CYP3A4 should be avoided [see Boxed Warning, Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 5.9 Hepatic Impairment
