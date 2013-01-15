@@ -5,8 +5,8 @@ Its chemical name is benazepril 3-[[1-(ethoxy-carbonyl)-3-phenyl-(1S)-propyl]ami
 
 Its empirical formula is C24H28N2O5•HCl, and its molecular weight is 460.96.
 
-Benazeprilat, the active metabolite of benazepril, USP, is a non-sulfhydryl angiotensin-converting enzyme inhibitor.
-Benazepril, USP is converted to benazeprilat by hepatic cleavage of the ester group.
+Benazeprilat, the active metabolite of benazepril, is a non-sulfhydryl angiotensin-converting enzyme inhibitor.
+Benazepril is converted to benazeprilat by hepatic cleavage of the ester group.
 
 Benazepril HCl tablets, USP are supplied as white, round, biconvex tablets containing either 5 mg, 10 mg, 20 mg, or 40 mg of benazepril HCl, USP for oral administration.
 The inactive ingredients are crospovidone, lactose anhydrous, magnesium stearate, microcrystalline cellulose, pregelatinized corn starch and talc.

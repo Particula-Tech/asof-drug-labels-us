@@ -41,4 +41,4 @@ Clinical Laboratory Test Findings
 Hemoglobin: Decreases in hemoglobin (a low value and a decrease of 5 g/dL) were rare, occurring in only 1 of 2,014 patients receiving benazepril HCl alone and in 1 of 1,357 patients receiving benazepril HCl plus a diuretic.
 No U.S. patients discontinued treatment because of decreases in hemoglobin.
 
-Other (causal relationships unknown): Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes (see WARNINGS) have been reported, as have scattered incidents of hyponatremia, electrocardiographic changes,, eosinophilia, and proteinuria.
+Other (causal relationships unknown): Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes (see WARNINGS) have been reported, as have scattered incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.
