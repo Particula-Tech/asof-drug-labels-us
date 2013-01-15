@@ -10,6 +10,4 @@ Store at 20° - 25°C (68° - 77°F).
 [See USP Controlled Room Temperature].
 Protect from light and humidity.
 
-Manufactured for: Northstar Rx LLC Memphis, TN38141 Toll Free Number: 1-800-206-7821 Manufactured by: Piramal Healthcare Limited Pithampur, Madhya Pradesh 454775 India
-
-September 2011
+Manufactured for: Northstar Rx LLC Memphis, TN38141 Toll Free Number: 1-800-206-7821 Manufactured by: Piramal Enterprises Limited Pithampur, Madhya Pradesh 454775 India December 2012

@@ -9,7 +9,7 @@ There was a statistically significant (44%) higher age-adjusted total mortality 
 The excess mortality was due to a 33% increase in non-cardiovascular causes, including malignancy, post-cholecystectomy complications, and pancreatitis.
 The higher risk of clofibrate-treated subjects for gallbladder disease was confirmed.
 
-Because of the more limited size of the Helsinki Heart Study, the observed difference in mortality from any cause between the gemfibrozil and placebo group is not statistically significantly different from the 29% excess mortality reported in the clofibrate group in the separate WHO study at the nine year follow-up (see CLINICAL PHARMACOLOGY).
+Because of the more limited size of the Helsinki Heart Study, the observed difference in mortality from any cause between the gemfibrozil and placebo groups is not statistically significantly different from the 29% excess mortality reported in the clofibrate group in the separate WHO study at the nine year follow-up (see CLINICAL PHARMACOLOGY).
 Noncoronary heart disease related mortality showed an excess in the group originally randomized to gemfibrozil primarily due to cancer deaths observed during the open-label extension.
 
 During the five year primary prevention component of the Helsinki Heart Study, mortality from any cause was 44 (2.2%) in the gemfibrozil group and 43 (2.1%) in the placebo group; including the 3.5 year follow-up period since the trial was completed, cumulative mortality from any cause was 101 (4.9%) in the gemfibrozil group and 83 (4.1%) in the group originally randomized to placebo (hazard ratio 1:20 in favor of placebo).
@@ -17,7 +17,7 @@ Because of the more limited size of the Helsinki Heart Study, the observed diffe
 Noncoronary heart disease related mortality showed an excess in the group originally randomized to gemfibrozil at the 8.5 year follow-up (65 gemfibrozil versus 45 placebo noncoronary deaths).
 
 The incidence of cancer (excluding basal cell carcinoma) discovered during the trial and in the 3.5 years after the trial was completed was 51 (2.5%) in both originally randomized groups.
-In addition, there were 16 basal cell carcinomas in the group originally randomized to gemfibrozil and 9 in the group randomized to placebo (p=0.22).
+In addition, there were 16 basal cell carcinomas in the group originally randomized to gemfibrozil and 9 in the group originally randomized to placebo (p=0.22).
 There were 30 (1.5%) deaths attributed to cancer in the group originally randomized to gemfibrozil and 18 (0.9%) in the group originally randomized to placebo (p=0.11).
 Adverse outcomes, including coronary events, were higher in gemfibrozil patients in a corresponding study in men with a history of known or suspected coronary heart disease in the secondary prevention component of the Helsinki Heart Study.
 (See CLINICAL PHARMACOLOGY.)

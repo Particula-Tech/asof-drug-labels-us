@@ -25,7 +25,7 @@ In that study, the following adverse reactions were statistically more frequent 
 | Headache | 1.2 | 1.1 |
 
 Gallbladder surgery was performed in 0.9% of gemfibrozil and 0.5% of placebo subjects in the primary prevention component, a 64% excess, which is not statistically different from the excess of gallbladder surgery observed in the clofibrate group compared to the placebo group of the WHO study.
-Gallbladder surgery was also performed more frequently in the gemfibrozil group compared to placebo (1.9% versus 0.3%, p=0.07) in the secondary prevention component.
+Gallbladder surgery was also performed more frequently in the gemfibrozil group compared to the placebo group (1.9% versus 0.3%, p=0.07) in the secondary prevention component.
 A statistically significant increase in appendectomy in the gemfibrozil group was seen also in the secondary prevention component (6 on gemfibrozil versus 0 on placebo, p=0.014).
 
 Nervous system and special senses adverse reactions were more common in the gemfibrozil group.
