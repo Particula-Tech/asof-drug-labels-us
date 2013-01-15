@@ -112,7 +112,7 @@ Increases in cholesterol and triglyceride levels may be associated with thiazide
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals treated with olmesartan medoxomil.
 In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure), treatment with angiotensin converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
 Similar results may be anticipated in patients treated with olmesartan medoxomil.
-(SeeCLINICAL PHARMACOLOGY, Special Populations)
+(See CLINICAL PHARMACOLOGY, Special Populations)
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
 There has been no long-term use of olmesartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar results may be expected.
@@ -153,6 +153,12 @@ These effects are usually reversible.
 Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
 
 The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+Colesevelam hydrochloride
+
+Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan.
+Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
+Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose (see CLINICAL PHARMACOLOGY, Drug Interactions).
 
 Hydrochlorothiazide
 
