@@ -1,14 +1,14 @@
 Principal Display Panel – Carton Label
 
-NDC 43825-102-01 Quantity: 24 Vials
+NDC 43825-102-01 Quantity: 001 X 24 Vials
 
-OFIRMEV™
+OFIRMEV®
 
 (acetaminophen) injection
 
 1000 mg/100mL
 
-(10 mg/mL)
+(10 mg/mL) SAP CODE: XXXXXXX
 
 For Intravenous Use Only
 
@@ -34,15 +34,15 @@ and/or sodium hydroxide.
 
 See Package Insert for recommended dosage and Full Prescribing Information.
 
-LOT EXP
-
 Manufactured for:
 
 Cadence Pharmaceuticals, Inc.
 
 San Diego, CA 92130
 
-Patented: US 6,028,222; US 6,992,218 07-06-59-587 1A1337
+Patented: US 6,028,222; US 6,992,218
+
+LOT XXXXXXX EXP DEC2011
 
 Principal Display Panel – Vial Label
 
