@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021664"
+  ],
+  "inn": "bromfenac",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-099-01",
+    "24208-099-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bromfenac",
+      "name": "Bromday"
+    }
+  ],
+  "setid": "55b73bf4-9ba6-4e76-9db9-030f787793c3",
+  "source": "dailymed"
+}
