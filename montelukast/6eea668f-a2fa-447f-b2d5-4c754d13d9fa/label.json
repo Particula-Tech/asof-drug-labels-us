@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202717"
+  ],
+  "inn": "montelukast",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-119-10",
+    "16729-119-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "montelukast sodium",
+      "name": "Montelukast Sodium"
+    }
+  ],
+  "setid": "6eea668f-a2fa-447f-b2d5-4c754d13d9fa",
+  "source": "dailymed"
+}
