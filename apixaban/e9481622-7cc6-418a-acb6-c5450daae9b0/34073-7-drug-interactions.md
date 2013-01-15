@@ -1,0 +1,25 @@
+# 7 DRUG INTERACTIONS
+
+Apixaban is a substrate of both CYP3A4 and P-gp.
+Inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding.
+Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke.
+
+## 7.1 Strong Dual Inhibitors of CYP3A4 and P-gp
+
+The dose of ELIQUIS should be decreased to 2.5 mg twice daily when it is coadministered with drugs that are strong dual inhibitors of CYP3A4 and P-gp, (e.g., ketoconazole, itraconazole, ritonavir, or clarithromycin) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+
+In patients already taking ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with strong dual inhibitors of both CYP3A4 and P-gp [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+
+## 7.2 Strong Dual Inducers of CYP3A4 and P-gp
+
+Avoid concomitant use of ELIQUIS with strong dual inducers of CYP3A4 and P-gp (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban [see Clinical Pharmacology (12.3)].
+
+## 7.3 Anticoagulants and Antiplatelet Agents
+
+Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding.
+
+APPRAISE-2, a placebo-controlled clinical trial of apixaban in high-risk post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with apixaban compared to placebo.
+The rate of ISTH major bleeding was 2.77%/year with apixaban versus 0.62%/year with placebo in patients receiving single antiplatelet therapy and was 5.91%/year with apixaban versus 2.50%/year with placebo in those receiving dual antiplatelet therapy.
+
+In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and the bleeding risk on warfarin from 2.7% per year to 4.6% per year.
+In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.

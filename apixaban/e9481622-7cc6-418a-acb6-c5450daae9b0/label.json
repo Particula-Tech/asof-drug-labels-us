@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA202155"
+  ],
+  "inn": "apixaban",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
+  "package_ndcs": [
+    "0003-0893-21",
+    "0003-0893-31",
+    "0003-0893-41",
+    "0003-0894-21",
+    "0003-0894-31",
+    "0003-0894-41",
+    "0003-0894-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "apixaban",
+      "name": "ELIQUIS"
+    }
+  ],
+  "setid": "e9481622-7cc6-418a-acb6-c5450daae9b0",
+  "source": "dailymed"
+}

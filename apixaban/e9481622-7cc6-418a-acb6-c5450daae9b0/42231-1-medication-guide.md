@@ -1,0 +1,138 @@
+MEDICATION GUIDE ELIQUIS® (ELL eh kwiss) (apixaban) tablets
+
+What is the most important information I should know about ELIQUIS?
+
+- People with atrial fibrillation (a type of irregular heartbeat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
+  ELIQUIS lowers your chance of having a stroke by helping to prevent clots from forming.
+  If you stop taking ELIQUIS, you may have increased risk of forming a clot in your blood.
+  Do not stop taking ELIQUIS without talking to the doctor who prescribes it for you.
+  Stopping ELIQUIS increases your risk of having a stroke.
+  ELIQUIS may need to be stopped, if possible, prior to surgery or a medical or dental procedure.
+  Ask the doctor who prescribed ELIQUIS for you when you should stop taking it.
+  Your doctor will tell you when you may start taking ELIQUIS again after your surgery or procedure.
+  If you have to stop taking ELIQUIS, your doctor may prescribe another medicine to help prevent a blood clot from forming.
+- ELIQUIS can cause bleeding which can be serious and rarely may lead to death.
+  This is because ELIQUIS is a blood thinner medicine that reduces blood clotting.
+  You may have a higher risk of bleeding if you take ELIQUIS and take other medicines that increase your risk of bleeding, including: Tell your doctor if you take any of these medicines.
+  Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.
+  While taking ELIQUIS: Call your doctor or get medical help right away if you have any of these signs or symptoms of bleeding when taking ELIQUIS:
+  - aspirin or aspirin-containing products
+  - long-term (chronic) use of nonsteroidal anti-inflammatory drugs (NSAIDs)
+  - warfarin sodium (COUMADIN®, JANTOVEN®)
+  - any medicine that contains heparin
+  - selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs)
+  - other medicines to help prevent or treat blood clots
+  - you may bruise more easily
+  - it may take longer than usual for any bleeding to stop
+  - unexpected bleeding, or bleeding that lasts a long time, such as:
+    - unusual bleeding from the gums
+    - nosebleeds that happen often
+    - menstrual bleeding or vaginal bleeding that is heavier than normal
+  - bleeding that is severe or you cannot control
+  - red, pink, or brown urine
+  - red or black stools (looks like tar)
+  - cough up blood or blood clots
+  - vomit blood or your vomit looks like coffee grounds
+  - unexpected pain, swelling, or joint pain
+  - headaches, feeling dizzy or weak
+- ELIQUIS is not for patients with artificial heart valves.
+
+What is ELIQUIS?
+
+ELIQUIS is a prescription medicine used to reduce the risk of stroke and blood clots in people who have atrial fibrillation.
+
+It is not known if ELIQUIS is safe and effective in children.
+
+Who should not take ELIQUIS?
+
+Do not take ELIQUIS if you:
+
+- currently have certain types of abnormal bleeding.
+- have had a serious allergic reaction to ELIQUIS.
+  Ask your doctor if you are not sure.
+
+What should I tell my doctor before taking ELIQUIS?
+
+Before you take ELIQUIS, tell your doctor if you:
+
+- have kidney or liver problems
+- have any other medical condition
+- have ever had bleeding problems
+- are pregnant or plan to become pregnant.
+  It is not known if ELIQUIS will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if ELIQUIS passes into your breast milk.
+  You and your doctor should decide if you will take ELIQUIS or breastfeed.
+  You should not do both.
+
+Tell all of your doctors and dentists that you are taking ELIQUIS.
+They should talk to the doctor who prescribed ELIQUIS for you, before you have any surgery, medical or dental procedure.
+
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Some of your other medicines may affect the way ELIQUIS works.
+Certain medicines may increase your risk of bleeding or stroke when taken with ELIQUIS.
+See "What is the most important information I should know about ELIQUIS?"
+
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
+
+How should I take ELIQUIS?
+
+- Take ELIQUIS exactly as prescribed by your doctor.
+- Take ELIQUIS twice every day with or without food.
+- Do not change your dose or stop taking ELIQUIS unless your doctor tells you to.
+- If you miss a dose of ELIQUIS, take it as soon as you remember.
+  Do not take more than one dose of ELIQUIS at the same time to make up for a missed dose.
+- Your doctor will decide how long you should take ELIQUIS.
+  Do not stop taking it without first talking with your doctor.
+  Stopping ELIQUIS may increase your risk of having a stroke.
+- Do not run out of ELIQUIS.
+  Refill your prescription before you run out.
+- If you take too much ELIQUIS, call your doctor or go to the nearest hospital emergency room right away.
+- Call your doctor or healthcare provider right away if you fall or injure yourself, especially if you hit your head.
+  Your doctor or healthcare provider may need to check you.
+
+What are the possible side effects of ELIQUIS?
+
+- See "What is the most important information I should know about ELIQUIS?"
+- ELIQUIS can cause a skin rash or severe allergic reaction.
+  Call your doctor or get medical help right away if you have any of the following symptoms:
+  - chest pain or tightness
+  - swelling of your face or tongue
+  - trouble breathing or wheezing
+  - feeling dizzy or faint
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
+
+These are not all of the possible side effects of ELIQUIS.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store ELIQUIS?
+
+Store ELIQUIS at room temperature between 68°F to 77°F (20°C to 25°C).
+
+Keep ELIQUIS and all medicines out of the reach of children.
+
+General Information about ELIQUIS
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use ELIQUIS for a condition for which it was not prescribed.
+Do not give ELIQUIS to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+If you would like more information, talk with your doctor.
+You can ask your pharmacist or doctor for information about ELIQUIS that is written for health professionals.
+
+For more information, call 1-855-354-7847 (1-855-ELIQUIS) or go to www.ELIQUIS.com.
+
+What are the ingredients in ELIQUIS?
+
+Active ingredient: apixaban.
+
+Inactive ingredients: anhydrous lactose, microcrystalline cellulose, croscarmellose sodium, sodium lauryl sulfate, and magnesium stearate.
+The film coating contains lactose monohydrate, hypromellose, titanium dioxide, triacetin, and yellow iron oxide (2.5 mg tablets) or red iron oxide (5 mg tablets).
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
