@@ -1,10 +1,7 @@
-Revised November 2011 ©Centocor Ortho Biotech Products, L.P.
-2003
+Revised October 2012 ©Janssen Pharmaceuticals, Inc 2003
 
-Manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium
+Product of Ireland
 
-Manufactured for: Centocor Ortho Biotech Products, L.P.
-Raritan, NJ 08869
+Manufactured by: Janssen Pharmaceutica NV Beerse, Belgium
 
-CENTOCOR ORTHO BIOTECH
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
