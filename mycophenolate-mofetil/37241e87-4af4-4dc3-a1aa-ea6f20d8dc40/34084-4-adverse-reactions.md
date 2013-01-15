@@ -15,7 +15,7 @@ Safety data are summarized below for all active-controlled trials in renal (2 tr
 Approximately 53% of the renal patients, 65% of the cardiac patients, and 48% of the hepatic patients have been treated for more than 1 year.
 Adverse events reported in ≥20% of patients in the CellCept treatment groups are presented below.
 
-Table 8 Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ≥20% of Patients in the CellCept Group)
+Table 9 Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ≥20% of Patients in the CellCept Group)
 
 |  | % | % | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,9 +108,9 @@ Severe neutropenia (ANC <0.5 × 103/µL) developed in up to 2.0% of renal transp
 
 All transplant patients are at increased risk of opportunistic infections.
 The risk increases with total immunosuppressive load (see WARNINGS: Infections and WARNINGS: Latent Viral Infections).
-Table 9 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
+Table 10 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
-Table 9 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
+Table 10 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
 
 |  | % | % | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ Table 9 Viral and Fungal Infections in Controlled Studies in Prevention of Renal
 |  | (n=336) | (n=330) | (n=326) | (n=289) | (n=289) | (n=277) | (n=287) |
 | Herpes simplex | 16.7 | 20.0 | 19.0 | 20.8 | 14.5 | 10.1 | 5.9 |
 | CMV |  |  |  |  |  |  |  |
-| – Viremia/ syndrome | 13.4 | 12.4 | 13.8 | 12.1 | 10.0 | 14.1 | 12.2 |
+| – Viremia/syndrome | 13.4 | 12.4 | 13.8 | 12.1 | 10.0 | 14.1 | 12.2 |
 | – Tissue invasive disease | 8.3 | 11.5 | 6.1 | 11.4 | 8.7 | 5.8 | 8.0 |
 | Herpes zoster | 6.0 | 7.6 | 5.8 | 10.7 | 5.9 | 4.3 | 4.9 |
 | – Cutaneous disease | 6.0 | 7.3 | 5.5 | 10.0 | 5.5 | 4.3 | 4.9 |
@@ -136,7 +136,7 @@ In cardiac transplant patients, the overall incidence of opportunistic infection
 
 The following adverse events were reported with 3% to <20% incidence in renal, cardiac, and hepatic transplant patients treated with CellCept, in combination with cyclosporine and corticosteroids.
 
-Table 10 Adverse Events Reported in 3% to <20% of Patients Treated With CellCept in Combination With Cyclosporine and Corticosteroids
+Table 11 Adverse Events Reported in 3% to <20% of Patients Treated With CellCept in Combination With Cyclosporine and Corticosteroids
 
 | Body System |  |
 | --- | --- |
@@ -171,7 +171,9 @@ The safety profile of intravenous CellCept was similar to that of intravenous az
 
 Congenital Disorders
 
-Congenital malformations including ear malformations have been reported in offspring of patients exposed to mycophenolate mofetil during pregnancy (see WARNINGS: Pregnancy).
+Embryofetal Toxicity
+
+Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
 
 Digestive
 

@@ -33,6 +33,8 @@ Food had no effect on MPA AUC, but has been shown to decrease MPA Cmax by 40%.
 Therefore, it is recommended that CellCept be administered on an empty stomach.
 However, in stable renal transplant patients, CellCept may be administered with food if necessary.
 
+Patients should be instructed to take a missed dose as soon as they remember, except if it is near the next scheduled dose, and then continue to take CellCept at the usual times.
+
 Note: If required, CellCept Oral Suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
 
 ### Patients With Hepatic Impairment
@@ -129,7 +131,7 @@ CellCept Intravenous should not be mixed or administered concurrently via the sa
 
 In renal transplant patients with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) outside the immediate posttransplant period, doses of CellCept greater than 1 g administered twice a day should be avoided.
 These patients should also be carefully observed.
-No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: General).
+No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: Patients with Renal Impairment).
 
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 CellCept may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.

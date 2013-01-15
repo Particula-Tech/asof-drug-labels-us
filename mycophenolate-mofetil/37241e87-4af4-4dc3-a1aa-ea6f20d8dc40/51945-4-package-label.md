@@ -44,14 +44,7 @@ CellCept® Intravenous (mycophenolate mofetil hydrochloride for injection)
 
 500 mg
 
-FOR INTRAVENOUS INFUSION ONLY
-
-Each vial contains the equivalent of 500 mg mycophenolate mofetil (as the hydrochloride salt), 25 mg polysorbate 80, and 5 mg citric acid.
-
-4 Vials Rx only
-
-Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
-For additional Medication Guides, call 1-800-617-8191 or visit www.gene.com/gene/products/information/cellcept.
+4 Vials
 
 Genentech
 
