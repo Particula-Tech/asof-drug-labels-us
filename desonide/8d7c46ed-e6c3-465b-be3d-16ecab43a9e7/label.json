@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021844"
+  ],
+  "inn": "desonide",
+  "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "50419-828-06",
+    "50419-828-12",
+    "50419-828-71"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "desonide",
+      "name": "DESONATE"
+    }
+  ],
+  "setid": "8d7c46ed-e6c3-465b-be3d-16ecab43a9e7",
+  "source": "dailymed"
+}
