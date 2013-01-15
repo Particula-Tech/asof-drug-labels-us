@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA086988",
+    "ANDA086989"
+  ],
+  "inn": "methocarbamol",
+  "labeler": "Solco Healthcare US LLC",
+  "package_ndcs": [
+    "43547-225-10",
+    "43547-225-50",
+    "43547-226-10",
+    "43547-226-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methocarbamol",
+      "name": "Methocarbamol"
+    }
+  ],
+  "setid": "32863f21-30ff-4a8b-a2e6-8ab14a37af0d",
+  "source": "dailymed"
+}
