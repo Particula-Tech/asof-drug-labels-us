@@ -1,18 +1,16 @@
 Principal Display Panel
 
-30 Tablets
-
 NDC 60505-3673-3
 
-ParoxetineHCl
+Paroxetine HCl
 
 Controlled-Release Tablets
 
 12.5 mg
 
-Rx only
+30 Tablets
 
-APOTEX CORP.
+Rx only
 
 Federal Law requires dispensing of paroxetine hydrochloride controlled-release tablets with the Medication Guide provided with this bottle.
 
@@ -25,9 +23,10 @@ Usual Dosage: See package insert.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physician or requested by purchaser.
 
-Made in Ireland.
+Made in Canada
+
 Rev.
-6/10
+9/12
 
 Manufactured by:
 
@@ -41,23 +40,21 @@ Apotex Corp.
 
 Weston, FL 33326
 
-A082705
+A110192
 
 Principal Display Panel
 
-30 Tablets
-
 NDC 60505-3674-3
 
-ParoxetineHCl
+Paroxetine HCl
 
 Controlled-Release Tablets
 
 25 mg
 
-Rx only
+30 Tablets
 
-APOTEX CORP.
+Rx only
 
 Federal Law requires dispensing of paroxetine hydrochloride controlled-release tablets with the Medication Guide provided with this bottle.
 
@@ -70,9 +67,10 @@ Usual Dosage: See package insert.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physician or requested by purchaser.
 
-Made in Ireland.
+Made in Canada
+
 Rev.
-6/10
+9/12
 
 Manufactured by:
 
@@ -86,38 +84,37 @@ Apotex Corp.
 
 Weston, FL 33326
 
-A082725
+A110191
 
 Principal Display Panel
 
-30 Tablets
-
 NDC 60505-3675-3
 
-ParoxetineHCl
+Paroxetine HCl
 
 Controlled-Release Tablets
 
 37.5 mg
 
-Rx only
+30 Tablets
 
-APOTEX CORP.
+Rx only
 
 Federal Law requires dispensing of paroxetine hydrochloride controlled-release tablets with the Medication Guide provided with this bottle.
 
 Each controlled-release tablet contains paroxetine hydrochloride equivalent to 37.5 mg paroxetine.
 
 Store at or below 25oC (77oF).
-Dispense in a tight,light resistant container [see USP].
+Dispense in a tight, light resistant container [see USP].
 
-Usual Dosage: See package insert.
+Usual dosage: See package insert.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physician or requested by purchaser.
 
-Made in Ireland.
+Made in Canada
+
 Rev.
-6/10
+9/12
 
 Manufactured by:
 
@@ -131,4 +128,4 @@ Apotex Corp.
 
 Weston, FL 33326
 
-A082726
+A110222

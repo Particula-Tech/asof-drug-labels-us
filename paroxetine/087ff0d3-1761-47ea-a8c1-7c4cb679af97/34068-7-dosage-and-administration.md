@@ -82,7 +82,6 @@ Patients should be periodically reassessed to determine the need for continued t
 
 Neonates exposed to Paroxetine Hydrochloride Controlled-Release Tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS: Usage in Pregnancy).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering paroxetine in the third trimester.
 
 ### Dosage for Elderly or Debilitated Patients, and Patients With Severe Renal or Hepatic Impairment
 
@@ -90,19 +89,20 @@ The recommended initial dose of Paroxetine Hydrochloride Controlled-Release Tabl
 Increases may be made if indicated.
 Dosage should not exceed 50 mg/day.
 
-## Switching Patients to or From a Monoamine Oxidase Inhibitor Antidepressant
+## Switching a Patient to or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with Paroxetine Hydrochloride Controlled-Release Tablets.
-Conversely, at least 14 days should be allowed after stopping Paroxetine Hydrochloride Controlled-Release Tablets before starting an MAOI antidepressant (see CONTRAINDICATIONS).
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Paroxetine Hydrochloride Controlled-Release Tablets.
+Conversely, at least 14 days should be allowed after stopping Paroxetine Hydrochloride Controlled-Release Tablets before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-## Use of Paroxetine Hydrochloride Controlled-Release Tablets With Reversible MAOIs Such as Linezolid or Methylene Blue
+## Use of Paroxetine Hydrochloride Controlled-Release Tablets With Other MAOIs, Such as Linezolid or Methylene Blue
 
-Do not start Paroxetine Hydrochloride Controlled-Release Tablets in a patient who is being treated with linezolid or methylene blue because there is increased risk of serotonin syndrome or NMS-like reactions.
-In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
-In some cases, a patient receiving therapy with Paroxetine Hydrochloride Controlled-Release Tablets may require urgent treatment with linezolid or methylene blue.
-If acceptable alternatives to linezolid or methylene blue treatment are not available and the potential benefits of linezolid or methylene blue treatment are judged to outweigh the risks of serotonin syndrome or NMS-like reactions in a particular patient, Paroxetine Hydrochloride Controlled-Release Tablets should be stopped promptly, and linezolid or methylene blue can be administered.
-The patient should be monitored for symptoms of serotonin syndrome or NMS-like reactions for 2 weeks or until 24 hours after the last dose of linezolid or methylene blue, whichever comes first.
-Therapy with Paroxetine Hydrochloride Controlled-Release Tablets may be resumed 24 hours after the last dose of linezolid or methylene blue (see WARNINGS).
+Do not start Paroxetine Hydrochloride Controlled-Release Tablets in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving therapy with Paroxetine Hydrochloride Controlled-Release Tablets may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, Paroxetine Hydrochloride Controlled-Release Tablets should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with Paroxetine Hydrochloride Controlled-Release Tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
 
 ## Discontinuation of Treatment With Paroxetine Hydrochloride Controlled-Release Tablets
 

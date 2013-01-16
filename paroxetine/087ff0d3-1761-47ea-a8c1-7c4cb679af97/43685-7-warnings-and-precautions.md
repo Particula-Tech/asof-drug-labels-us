@@ -53,26 +53,19 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Paroxetine Hydrochloride Controlled-Release Tablets are not approved for use in treating bipolar depression.
 
-## Potential for Interaction With Monoamine Oxidase Inhibitors
+## Serotonin Syndrome
 
-In patients receiving another serotonin reuptake inhibitor drug in combination with monoamine oxidase inhibitors (MAOIs), including reversible MAOIs such as linezolid and methylene blue, there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
-These reactions have also been reported in patients who have recently discontinued that drug and have been started on an MAOI.
-Some cases presented with features resembling serotonin syndrome or NMS-like reactions (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Paroxetine Hydrochloride Controlled-Release Tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including treatment with Paroxetine Hydrochloride Controlled-Release Tablets, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
-
-The concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with MAOIs intended to treat depression is contraindicated.
-
-If concomitant treatment of Paroxetine Hydrochloride Controlled-Release Tablets with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-
-The concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with serotonin precursors (such as tryptophan) is not recommended.
-
-Treatment with Paroxetine Hydrochloride Controlled-Release Tablets and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+The concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with MAOIs intended to treat psychiatric disorders is contraindicated.
+Paroxetine Hydrochloride Controlled-Release Tablets should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking Paroxetine Hydrochloride Controlled-Release Tablets.
+Paroxetine Hydrochloride Controlled-Release Tablets should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ## Potential Interaction With Thioridazine
 
@@ -89,15 +82,15 @@ Therefore, it is recommended that paroxetine not be used in combination with thi
 Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
 The findings from these studies are summarized below:
 
-- A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
+- •A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
   No increase in the risk of overall congenital malformations was seen in the paroxetine-exposed infants.
   The cardiac malformations in the paroxetine-exposed infants were primarily ventricular septal defects (VSDs) and atrial septal defects (ASDs).
   Septal defects range in severity from those that resolve spontaneously to those which require surgery.
-- A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
+- •A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
   This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine (risk of 1.5%) compared to other antidepressants (risk of 1%), for an OR of 1.5 (95% confidence interval 0.8 to 2.9).
   Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
   This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
-- Two large case-control studies using separate databases, each with >9,000 birth defect cases and >4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
+- •Two large case-control studies using separate databases, each with >9,000 birth defect cases and >4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
   In one study the OR was 2.5 (95% confidence interval, 1.0 to 6.0, 7 exposed infants) and in the other study the OR was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
 
 Other studies have found varying results as to whether there was an increased risk of overall, cardiovascular, or specific congenital malformations.
@@ -125,18 +118,15 @@ Neonates exposed to Paroxetine Hydrochloride Controlled-Release Tablets and othe
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome).
 
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1 – 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including Paroxetine Hydrochloride Controlled-Release Tablets) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
 
-There have also been postmarketing reports of premature births in pregnant women exposed to paroxetine or other SSRIs.
-
-When treating a pregnant woman with paroxetine during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
 
 # PRECAUTIONS
 
@@ -207,7 +197,7 @@ Case reports and epidemiological studies (case-control and cohort design) have d
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of paroxetine and NSAIDs, aspirin, or other drugs that affect coagulation.
 
-### Bone Fracture:
+### Bone Fracture
 
 Epidemiological studies on bone fracture risk following exposure to some antidepressants, including SSRIs, have reported an association between antidepressant treatment and fractures.
 There are multiple possible causes for this observation and it is unknown to what extent fracture risk is directly attributable to SSRI treatment.
@@ -290,7 +280,7 @@ There are no specific laboratory tests recommended.
 
 As with other serotonin reuptake inhibitors, an interaction between paroxetine and tryptophan may occur when they are coadministered.
 Adverse experiences, consisting primarily of headache, nausea, sweating, and dizziness, have been reported when tryptophan was administered to patients taking immediate-release paroxetine.
-Consequently, concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with tryptophan is not recommended (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+Consequently, concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with tryptophan is not recommended (see WARNINGS: Serotonin Syndrome).
 
 ### Monoamine Oxidase Inhibitors
 
@@ -304,9 +294,8 @@ Due to the narrow therapeutic index of pimozide and its known ability to prolong
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when Paroxetine Hydrochloride Controlled-Release Tablets are coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, or St. John's Wort (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
-
-The concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with MAOIs (including linezolid and methylene blue) is contraindicated (see CONTRAINDICATIONS).
+Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when Paroxetine Hydrochloride Controlled-Release Tablets are coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
+The concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with MAOIs (including linezolid and intravenous methylene blue) is contraindicated (see CONTRAINDICATIONS).
 The concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS: Drug Interactions, Tryptophan).
 
 ### Thioridazine
@@ -321,7 +310,7 @@ Since there is little clinical experience, the concomitant administration of Par
 ### Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with the use of an SSRI and a triptan.
-If concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+If concomitant use of Paroxetine Hydrochloride Controlled-Release Tablets with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS: Serotonin Syndrome).
 
 ### Drugs Affecting Hepatic Metabolism
 
@@ -494,4 +483,4 @@ SSRIs and SNRIs, including Paroxetine Hydrochloride Controlled-Release Tablets, 
 In worldwide premarketing clinical trials with immediate-release paroxetine hydrochloride, 17% of paroxetine-treated patients (approximately 700) were 65 years or older.
 Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; there were, however, no overall differences in the adverse event profile between elderly and younger patients, and effectiveness was similar in younger and older patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-In a controlled study focusing specifically on elderly patients with major depressive disorder, Paroxetine Hydrochloride Controlled-Release Tablets were demonstrated to be safe and effective in the treatment of elderly patients (>60 years) with major depressive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials and ADVERSE REACTIONS: Table 3.)
+In a controlled study focusing specifically on elderly patients with major depressive disorder, Paroxetine Hydrochloride Controlled-Release Tablets were demonstrated to be safe and effective in the treatment of elderly patients (>60 years) with major depressive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials and ADVERSE REACTIONS: Table 3).

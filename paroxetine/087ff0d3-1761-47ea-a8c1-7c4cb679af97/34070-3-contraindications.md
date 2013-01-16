@@ -1,8 +1,9 @@
 # CONTRAINDICATIONS
 
-The use of MAOIs intended to treat depression with, or within 14 days of treatment with, Paroxetine Hydrochloride Controlled-Release Tablets is contraindicated (see WARNINGS).
+The use of MAOIs intended to treat psychiatric disorders with Paroxetine Hydrochloride Controlled-Release Tablets or within 14 days of stopping treatment with Paroxetine Hydrochloride Controlled-Release Tablets is contraindicated because of an increased risk of serotonin syndrome.
+The use of Paroxetine Hydrochloride Controlled-Release Tablets within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
-Do not start Paroxetine Hydrochloride Controlled-Release Tablets in a patient who is being treated with a reversible MAOI such as linezolid or methylene blue because of an increased risk of serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions (see WARNINGS).
+Starting Paroxetine Hydrochloride Controlled-Release Tablets in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Concomitant use with thioridazine is contraindicated (see WARNINGS and PRECAUTIONS).
 
