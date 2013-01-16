@@ -1,6 +1,6 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Tablets:
+## 16.1 Tablets
 
 Escitalopram tablets, USP 5 mg are white to off-white, round, biconvex, film coated tablets debossed with '135' on one side and '5' on other side.
 

@@ -7,4 +7,4 @@ Depression and certain other psychiatric disorders are themselves associated wit
 Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 Escitalopram tablets are not approved for use in pediatric patients less than 12 years of age.
-[See Warnings and Precautions: Clinical Worsening and Suicide Risk (5.1), Patient Counseling Information: Information for Patients (17.1), and Used in Specific Populations: Pediatric Use (8.4)].
+[See Warnings and Precautions: Clinical Worsening and Suicide Risk (5.1), Patient Counseling Information: Information for Patients (17.1), and Use in Specific Populations: Pediatric Use (8.4)].

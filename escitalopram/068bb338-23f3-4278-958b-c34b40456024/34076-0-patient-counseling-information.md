@@ -25,7 +25,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram oxalate and triptans, tramadol or other serotonergic agents [see Warnings and Precautions (5.2)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram oxalate with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol tryptophan, buspirone and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
 
 Abnormal Bleeding
 
@@ -108,7 +108,7 @@ Call your healthcare provider right away if you have any of the following sympto
 Escitalopram tablets may be associated with these serious side effects:
 
 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -167,7 +167,6 @@ What are escitalopram tablets?
 Escitalopram tablets are a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
 You should discuss all treatment choices with your healthcare provider.
-
 Escitalopram tablets are also used to treat:
 
 - Major Depressive Disorder (MDD)
@@ -181,10 +180,10 @@ Do not take escitalopram tablets if you:
 
 - are allergic to escitalopram oxalate or citalopram hydrobromide or any of the ingredients in escitalopram tablets.
   See the end of this Medication Guide for a complete list of ingredients in escitalopram tablets.
-- take a Monoamine Oxidase Inhibitor (MAOI).
+- If you take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-- Do not take an MAOI within 14 days of stopping escitalopram tablets.
-- Do not start escitalopram tablets if you stopped taking an MAOI in the last 14 days.
+- Do not take an MAOI within 2 weeks of stopping escitalopram tablets unless directed to do so by your physician.
+- Do not start escitalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take escitalopram tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -195,7 +194,7 @@ Get medical help right away if you have any of these symptoms:
 - rapid changes in heart rate or blood pressure
 - confusion
 - loss of consciousness (pass out)
-- takethe antipsychotic medicine pimozide (Orap®)because taking this drug with escitalopramtablets can cause serious heart problems.
+- take the antipsychotic medicine pimozide (Orap®) because taking this drug with escitalopram tablets can cause serious heart problems.
 
 What should I tell my healthcare provider before taking escitalopram tablets?
 Ask if you are not sure.
@@ -277,14 +276,14 @@ Other side effects in children and adolescents include:
 - difficult urination
 - heavy menstrual periods
 - possible slowed growth rate and weight change.
-- Your child's height and weight should be monitored during treatment with escitalopram tablets.
+  Your child's height and weight should be monitored during treatment with escitalopram tablets.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of escitalopram tablets.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
+YOU MAY REPORT SIDE EFFECTS TO FDA AT 1-800-FDA-1088.
 
 How should I store escitalopram tablets?
 
@@ -324,16 +323,6 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8017569 Revised April 2012
+8039180 Revised January 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Other side effects in children and adolescents include:
-
-- increased thirst
-- abnormal increase in muscle movement or agitation
-- nose bleed
-- difficult urination
-- heavy menstrual periods
-- possible slowed growth rate and weight change.
-- Your child's height and weight should be monitored during treatment with escitalopram tablets.

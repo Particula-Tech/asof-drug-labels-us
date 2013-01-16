@@ -1,26 +1,25 @@
 # 7. DRUG INTERACTIONS
 
-## 7.1 Serotonergic Drugs
+## 7.1 Monoamine Oxidase Inhibitors (MAOIs)
 
-Based on the mechanism of action of SNRIs and SSRIs including escitalopram oxalate, and the potential for serotonin syndrome, caution is advised when escitalopram oxalate is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort [see Warnings and Precautions (5.2)].
-The concomitant use of escitalopram oxalate with other SSRIs, SNRIs or tryptophan is not recommended.
+[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
 
-## 7.2 Triptans
+## 7.2 Serotonergic Drugs
+
+[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
+
+## 7.3 Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of escitalopram oxalate with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.2)].
 
-## 7.3 CNS Drugs
+## 7.4 CNS Drugs
 
 Given the primary CNS effects of escitalopram, caution should be used when it is taken in combination with other centrally acting drugs.
 
-## 7.4 Alcohol
+## 7.5 Alcohol
 
 Although escitalopram oxalate did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking escitalopram oxalate is not recommended.
-
-## 7.5 Monoamine Oxidase Inhibitors (MAOIs)
-
-[see Contraindications (4.1) and Warnings and Precautions (5.10)].
 
 ## 7.6 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
@@ -42,9 +41,7 @@ In subjects who had received 21 days of 40 mg/day racemic citalopram, combined a
 
 Coadministration of racemic citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
-Because lithium may enhance the serotonergic effects
-
-of escitalopram, caution should be exercised when escitalopram oxalate and lithium are coadministered.
+Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when escitalopram oxalate and lithium are coadministered.
 
 ## 7.10 Pimozide and Celexa
 
