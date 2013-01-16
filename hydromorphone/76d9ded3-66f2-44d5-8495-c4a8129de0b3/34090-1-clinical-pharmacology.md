@@ -100,8 +100,6 @@ Pharmacokinetics of hydromorphone have not been evaluated in children.
 
 ### Geriatric
 
-Age has no effect on the pharmacokinetics of hydromorphone.
-
 ### Gender
 
 Gender has little effect on the pharmacokinetics of hydromorphone.

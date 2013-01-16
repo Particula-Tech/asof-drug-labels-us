@@ -1,12 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019892"
+  ],
   "inn": "hydromorphone",
-  "labeler": "Abbott Laboratories",
+  "labeler": "AbbVie Inc.",
   "package_ndcs": [
     "0074-2426-14",
     "0074-2452-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Dilaudid"
+    },
+    {
+      "form": "TABLET",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Dilaudid"
+    }
+  ],
   "setid": "76d9ded3-66f2-44d5-8495-c4a8129de0b3",
   "source": "dailymed"
 }
