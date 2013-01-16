@@ -82,7 +82,6 @@ Patients should be periodically reassessed to determine the need for continued t
 
 Neonates exposed to PAXIL CR and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS: Usage in Pregnancy).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering paroxetine in the third trimester.
 
 ### Dosage for Elderly or Debilitated Patients, and Patients With Severe Renal or Hepatic Impairment
 
@@ -90,19 +89,23 @@ The recommended initial dose of PAXIL CR is 12.5 mg/day for elderly patients, de
 Increases may be made if indicated.
 Dosage should not exceed 50 mg/day.
 
-## Switching Patients to or From a Monoamine Oxidase Inhibitor Antidepressant
+## Switching a Patient to or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with PAXIL CR.
-Conversely, at least 14 days should be allowed after stopping PAXIL CR before starting an MAOI antidepressant (see CONTRAINDICATIONS).
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PAXIL CR.
+Conversely, at least 14 days should be allowed after stoppingPAXIL CRbefore starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-## Use of PAXIL CR With Reversible MAOIs Such as Linezolid or Methylene Blue
+## Use of PAXIL CR With Other MAOIs, Such as Linezolid or Methylene Blue
 
-Do not start PAXIL CR in a patient who is being treated with linezolid or methylene blue because there is increased risk of serotonin syndrome or NMS-like reactions.
-In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
-In some cases, a patient receiving therapy with PAXIL CR may require urgent treatment with linezolid or methylene blue.
-If acceptable alternatives to linezolid or methylene blue treatment are not available and the potential benefits of linezolid or methylene blue treatment are judged to outweigh the risks of serotonin syndrome or NMS-like reactions in a particular patient, PAXIL CR should be stopped promptly, and linezolid or methylene blue can be administered.
-The patient should be monitored for symptoms of serotonin syndrome or NMS-like reactions for 2 weeks or until 24 hours after the last dose of linezolid or methylene blue, whichever comes first.
-Therapy with PAXIL CR may be resumed 24 hours after the last dose of linezolid or methylene blue (see WARNINGS).
+Do not start PAXIL CR in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving therapy with PAXIL CR may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, PAXIL CR should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with PAXIL CR may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with PAXIL CR is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
 
 ## Discontinuation of Treatment With PAXIL CR
 

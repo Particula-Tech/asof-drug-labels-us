@@ -173,28 +173,28 @@ Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PA
 | Menstrual Disorderi | 2% | <1% |
 | Vaginitisi | 2% | 0% |
 
-a Adverse events for which the PAXIL CR reporting incidence was less than or equal to the placebo incidence are not included.
+a. Adverse events for which the PAXIL CR reporting incidence was less than or equal to the placebo incidence are not included.
 These events are: Abnormal dreams, anxiety, arthralgia, depersonalization, dysmenorrhea, dyspepsia, hyperkinesia, increased appetite, myalgia, nervousness, pharyngitis, purpura, rash, respiratory disorder, sinusitis, urinary frequency, and weight gain.
 
-b <1% means greater than zero and less than 1%.
+b. <1% means greater than zero and less than 1%.
 
-c Mostly flu.
+c. Mostly flu.
 
-d A wide variety of injuries with no obvious pattern.
+d. A wide variety of injuries with no obvious pattern.
 
-e Pain in a variety of locations with no obvious pattern.
+e. Pain in a variety of locations with no obvious pattern.
 
-f Most frequently seasonal allergic symptoms.
+f. Most frequently seasonal allergic symptoms.
 
-g Usually flushing.
+g. Usually flushing.
 
-h Mostly blurred vision.
+h. Mostly blurred vision.
 
-i Based on the number of males or females.
+i. Based on the number of males or females.
 
-j Mostly anorgasmia or delayed ejaculation.
+j. Mostly anorgasmia or delayed ejaculation.
 
-k Mostly anorgasmia or delayed orgasm.
+k. Mostly anorgasmia or delayed orgasm.
 
 Table 3.
 Treatment-Emergent Adverse Events Occurring in ≥5% of Patients Treated With PAXIL CR in a Study of Elderly Patients With Major Depressive Disordera,b
@@ -226,14 +226,14 @@ Treatment-Emergent Adverse Events Occurring in ≥5% of Patients Treated With PA
 | Abnormal Ejaculationc,d | 17% | 3% |
 | Impotencec | 9% | 3% |
 
-a Adverse events for which the PAXIL CR reporting incidence was less than or equal to the placebo incidence are not included.
+a. Adverse events for which the PAXIL CR reporting incidence was less than or equal to the placebo incidence are not included.
 These events are nausea and respiratory disorder.
 
-b <1% means greater than zero and less than 1%.
+b. <1% means greater than zero and less than 1%.
 
-c Based on the number of males.
+c. Based on the number of males.
 
-d Mostly anorgasmia or delayed ejaculation.
+d. Mostly anorgasmia or delayed ejaculation.
 
 Table 4.
 Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PAXIL CR in a Pool of 3 Panic Disorder Studiesa,b
@@ -282,26 +282,26 @@ Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PA
 | Urination Impaired | 2% | <1% |
 | Vaginitisi | 1% | <1% |
 
-a Adverse events for which the reporting rate for PAXIL CR was less than or equal to the placebo rate are not included.
+a. Adverse events for which the reporting rate for PAXIL CR was less than or equal to the placebo rate are not included.
 These events are: Abnormal dreams, allergic reaction, back pain, bronchitis, chest pain, concentration impaired, confusion, cough increased, depression, dizziness, dysmenorrhea, dyspepsia, fever, flatulence, headache, increased appetite, infection, menstrual disorder, migraine, pain, paresthesia, pharyngitis, respiratory disorder, rhinitis, tachycardia, taste perversion, thinking abnormal, urinary tract infection, and vomiting.
 
-b <1% means greater than zero and less than 1%.
+b. <1% means greater than zero and less than 1%.
 
-c Various physical injuries.
+c. Various physical injuries.
 
-d Mostly flushing.
+d. Mostly flushing.
 
-e Mostly muscle tightness or stiffness.
+e. Mostly muscle tightness or stiffness.
 
-f Mostly blurred vision.
+f. Mostly blurred vision.
 
-g Based on the number of male patients.
+g. Based on the number of male patients.
 
-h Mostly anorgasmia or delayed ejaculation.
+h. Mostly anorgasmia or delayed ejaculation.
 
-i Based on the number of female patients.
+i. Based on the number of female patients.
 
-j Mostly anorgasmia or difficulty achieving orgasm.
+j. Mostly anorgasmia or difficulty achieving orgasm.
 
 Table 5.
 Treatment-Emergent Adverse Effects Occurring in ≥1% of Patients Treated With PAXIL CR in a Social Anxiety Disorder Studya,b
@@ -356,24 +356,24 @@ Treatment-Emergent Adverse Effects Occurring in ≥1% of Patients Treated With P
 | Impotencef | 9% | 0% |
 | Female Genital Disordersh,i | 3% | 0% |
 
-a Adverse events for which the reporting rate for PAXIL CR was less than or equal to the placebo rate are not included.
+a. Adverse events for which the reporting rate for PAXIL CR was less than or equal to the placebo rate are not included.
 These events are: Dysmenorrhea, flatulence, gastroenteritis, hypertonia, infection, pain, pharyngitis, rash, respiratory disorder, rhinitis, and vomiting.
 
-b <1% means greater than zero and less than 1%.
+b. <1% means greater than zero and less than 1%.
 
-c Various physical injuries.
+c. Various physical injuries.
 
-d Most frequently seasonal allergic symptoms.
+d. Most frequently seasonal allergic symptoms.
 
-e Mostly blurred vision.
+e. Mostly blurred vision.
 
-f Based on the number of male patients.
+f. Based on the number of male patients.
 
-g Mostly anorgasmia or delayed ejaculation.
+g. Mostly anorgasmia or delayed ejaculation.
 
-h Based on the number of female patients.
+h. Based on the number of female patients.
 
-i Mostly anorgasmia or difficulty achieving orgasm.
+i. Mostly anorgasmia or difficulty achieving orgasm.
 
 Table 6.
 Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PAXIL CR in a Pool of 3 Premenstrual Dysphoric Disorder Studies With Continuous Dosing or in 1 Premenstrual Dysphoric Disorder Study With Luteal Phase Dosinga,b,c
@@ -432,16 +432,16 @@ Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PA
 | Vaginal Moniliasis | 1% | <1% | - | - |
 | Menstrual Disorder | - | - | 1% | 0% |
 
-a Adverse events for which the reporting rate of PAXIL CR was less than or equal to the placebo rate are not included.
-These events for continuous dosing are: Abdominal pain, back pain, pain, trauma, weight gain, myalgia, pharyngitis, respiratory disorder, rhinitis, sinusitis, pruritis, dysmenorrhea, menstrual disorder, urinary tract infection, and vomiting.
+a. Adverse events for which the reporting rate of PAXIL CR was less than or equal to the placebo rate are not included.
+These events for continuous dosing are: Abdominal pain, back pain, pain, trauma, weight gain, myalgia, pharyngitis, respiratory disorder, rhinitis, sinusitis, pruritus, dysmenorrhea, menstrual disorder, urinary tract infection, and vomiting.
 The events for luteal phase dosing are: Allergic reaction, back pain, headache, infection, pain, trauma, myalgia, anxiety, pharyngitis, respiratory disorder, cystitis, and dysmenorrhea.
 
-b <1% means greater than zero and less than 1%.
+b. <1% means greater than zero and less than 1%.
 
-c The luteal phase and continuous dosing PMDD trials were not designed for making direct comparisons between the 2 dosing regimens.
+c. The luteal phase and continuous dosing PMDD trials were not designed for making direct comparisons between the 2 dosing regimens.
 Therefore, a comparison between the 2 dosing regimens of the PMDD trials of incidence rates shown in Table 6 should be avoided.
 
-d Mostly anorgasmia or difficulty achieving orgasm.
+d. Mostly anorgasmia or difficulty achieving orgasm.
 
 ### Dose Dependency of Adverse Events
 
@@ -595,6 +595,6 @@ Frequent were dysmenorrhea*; infrequent were albuminuria, amenorrhea*, breast pa
 
 ## Postmarketing Reports
 
-Voluntary reports of adverse events in patients taking immediate-release paroxetine hydrochloride that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch-Schönlein purpura).
+Voluntary reports of adverse events in patients taking immediate-release paroxetine hydrochloride that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), vasculitic syndromes (such as Henoch‑Schönlein purpura) and premature births in pregnant women.
 There has been a case report of an elevated phenytoin level after 4 weeks of immediate-release paroxetine and phenytoin coadministration.
 There has been a case report of severe hypotension when immediate-release paroxetine was added to chronic metoprolol treatment.
