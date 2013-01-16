@@ -6,7 +6,7 @@ Since the introduction of PAXIL in the United States, 342 spontaneous cases of d
 These include overdoses with paroxetine alone and in combination with other substances.
 Of these, 48 cases were fatal and of the fatalities, 17 appeared to involve paroxetine alone.
 Eight fatal cases that documented the amount of paroxetine ingested were generally confounded by the ingestion of other drugs or alcohol or the presence of significant comorbid conditions.
-Of 145 non-fatal cases with known outcome, most recovered without sequelae.
+Of 145 non‑fatal cases with known outcome, most recovered without sequelae.
 The largest known ingestion involved 2,000 mg of paroxetine (33 times the maximum recommended daily dose) in a patient who recovered.
 
 Commonly reported adverse events associated with paroxetine overdosage include somnolence, coma, nausea, tremor, tachycardia, confusion, vomiting, and dizziness.

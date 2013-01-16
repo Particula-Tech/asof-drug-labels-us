@@ -1,4 +1,4 @@
-# Principal Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 60505-3663-3
 
@@ -8,11 +8,13 @@ PAROXETINE HCl TABLETS
 
 10 mg
 
-30 Tablets Scored Tablets
+30 Tablets
 
-Rx only
+Scored Tablets
 
 Federal Law requires dispensing of Paxil® with the Medication Guide provided with this bottle.
+
+Rx only
 
 Store tablets between 15o and 30oC (59o and 86oF).
 Dispense in a tight, light-resistant container.
@@ -34,14 +36,12 @@ Apotex Corp.
 
 Weston, FL 33326
 
-Made in Ireland
+Made in Canada
 
-Rev.
-9/10
+A107916 Rev.
+7/12
 
-A083969
-
-# Principal Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 60505-3664-3
 
@@ -53,9 +53,9 @@ PAROXETINE HCl TABLETS
 
 30 Tablets
 
-Rx only
-
 Federal Law requires dispensing of Paxil® with the Medication Guide provided with this bottle.
+
+Rx only
 
 Store tablets between 15o and 30oC (59o and 86oF).
 Dispense in a tight, light-resistant container.
@@ -77,14 +77,12 @@ Apotex Corp.
 
 Weston, FL 33326
 
-Made in Ireland
+Made in Canada
 
-Rev.
-9/10
+A107917 Rev.
+7/12
 
-A083970
-
-# Principal Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 60505-3665-3
 
@@ -96,9 +94,9 @@ PAROXETINE HCl TABLETS
 
 30 Tablets
 
-Rx only
-
 Federal Law requires dispensing of Paxil® with the Medication Guide provided with this bottle.
+
+Rx only
 
 Store tablets between 15o and 30oC (59o and 86oF).
 Dispense in a tight, light-resistant container.
@@ -120,14 +118,12 @@ Apotex Corp.
 
 Weston, FL 33326
 
-Made in Ireland
+Made in Canada
 
-Rev.
-9/10
+A107918 Rev.
+7/12
 
-A083992
-
-# Principal Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 60505-3666-3
 
@@ -139,9 +135,9 @@ PAROXETINE HCl TABLETS
 
 30 Tablets
 
-Rx only
-
 Federal Law requires dispensing of Paxil® with the Medication Guide provided with this bottle.
+
+Rx only
 
 Store tablets between 15o and 30oC (59o and 86oF).
 Dispense in a tight, light-resistant container.
@@ -163,14 +159,12 @@ Apotex Corp.
 
 Weston, FL 33326
 
-Made in Ireland
+Made in Canada
 
-Rev.
-9/10
+A107919 Rev.
+7/12
 
-A083993
-
-# Principal Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 60505-0402-5
 
@@ -184,9 +178,9 @@ ORAL SUSPENSION
 
 250 mL
 
-Rx only
+Federal Law requires dispensing of Paxil® Oral Suspension with the Medication Guide provided with this bottle.
 
-Federal Law requires dispensing of Paxil® Oral Suspension with the Medication Guide under this label.
+Rx only
 
 Store at or below 25oC (77oF).
 
@@ -210,9 +204,9 @@ Apotex Corp.
 
 Weston, FL 33326
 
-Made in Ireland.
+Made in Canada Rev.
+6/12
 
-Rev.
-9/10
+©2012, GlaxoSmithKline
 
-A085691
+A107692

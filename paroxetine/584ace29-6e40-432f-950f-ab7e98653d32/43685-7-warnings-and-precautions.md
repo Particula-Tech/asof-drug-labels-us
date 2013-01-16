@@ -1,6 +1,6 @@
 # WARNINGS
 
-## Clinical Worsening and Suicide Risk
+## Clinical Worsening and Suicide Risk:
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -15,7 +15,7 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
-Table 1.
+Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
@@ -53,26 +53,23 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that PAXIL is not approved for use in treating bipolar depression.
 
-## Potential for Interaction With Monoamine Oxidase Inhibitors
+## Serotonin Syndrome
 
-In patients receiving another serotonin reuptake inhibitor drug in combination with monoamine oxidase inhibitors (MAOIs), including reversible MAOIs such as linezolid and methylene blue, there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
-These reactions have also been reported in patients who have recently discontinued that drug and have been started on an MAOI.
-Some cases presented with features resembling serotonin syndrome or NMS-like reactions (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including PAXIL, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including treatment with PAXIL, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The concomitant use of PAXIL with MAOIs intended to treat psychiatric disorders is contraindicated.
+PAXIL should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking PAXIL.
+PAXIL should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-The concomitant use of PAXIL with MAOIs intended to treat depression is contraindicated.
+If concomitant use of PAXIL with certain other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
-If concomitant treatment of PAXIL with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-
-The concomitant use of PAXIL with serotonin precursors (such as tryptophan) is not recommended.
-
-Treatment with PAXIL and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Treatment with PAXIL and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Potential Interaction With Thioridazine
 
@@ -89,15 +86,15 @@ Therefore, it is recommended that paroxetine not be used in combination with thi
 Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
 The findings from these studies are summarized below:
 
-- A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
+- •A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
   No increase in the risk of overall congenital malformations was seen in the paroxetine-exposed infants.
   The cardiac malformations in the paroxetine-exposed infants were primarily ventricular septal defects (VSDs) and atrial septal defects (ASDs).
   Septal defects range in severity from those that resolve spontaneously to those which require surgery.
-- A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
+- •A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
   This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine (risk of 1.5%) compared to other antidepressants (risk of 1%), for an OR of 1.5 (95% confidence interval 0.8 to 2.9).
   Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
   This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
-- Two large case-control studies using separate databases, each with >9,000 birth defect cases and >4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
+- •Two large case-control studies using separate databases, each with >9,000 birth defect cases and >4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
   In one study the odds ratio was 2.5 (95% confidence interval, 1.0 to 6.0, 7 exposed infants) and in the other study the odds ratio was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
 
 Other studies have found varying results as to whether there was an increased risk of overall, cardiovascular, or specific congenital malformations.
@@ -115,8 +112,8 @@ Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg
 These doses are approximately 8 (rat) and 2 (rabbit) times the maximum recommended human dose (MRHD) on an mg/m2 basis.
 These studies have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in pup deaths during the first 4 days of lactation when dosing occurred during the last trimester of gestation and continued throughout lactation.
-This effect occurred at a dose of 1 mg/kg/day or approximately one-sixth of the MRHD on an mg/m2 basis.
-The no-effect dose for rat pup mortality was not determined.
+This effect occurred at a dose of 1 mg/kg/day or approximately one‑sixth of the MRHD on an mg/m2 basis.
+The no‑effect dose for rat pup mortality was not determined.
 The cause of these deaths is not known.
 
 ### Nonteratogenic Effects
@@ -125,18 +122,18 @@ Neonates exposed to PAXIL and other SSRIs or serotonin and norepinephrine reupta
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome).
 
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1 – 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including PAXIL) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
 
-There have also been postmarketing reports of premature births in pregnant women exposed to paroxetine or other SSRIs.
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
 
-When treating a pregnant woman with paroxetine during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+When treating a pregnant woman with PAXIL, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
+This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS: Postmarketing Reports).
 
 # PRECAUTIONS
 
@@ -144,8 +141,8 @@ Physicians should note that in a prospective longitudinal study of 201 women wit
 
 ### Activation of Mania/Hypomania
 
-During premarketing testing, hypomania or mania occurred in approximately 1.0% of unipolar patients treated with PAXIL compared to 1.1% of active-control and 0.3% of placebo-treated unipolar patients.
-In a subset of patients classified as bipolar, the rate of manic episodes was 2.2% for PAXIL and 11.6% for the combined active-control groups.
+During premarketing testing, hypomania or mania occurred in approximately 1.0% of unipolar patients treated with PAXIL compared to 1.1% of active‑control and 0.3% of placebo‑treated unipolar patients.
+In a subset of patients classified as bipolar, the rate of manic episodes was 2.2% for PAXIL and 11.6% for the combined active‑control groups.
 As with all drugs effective in the treatment of major depressive disorder, PAXIL should be used cautiously in patients with a history of mania.
 
 ### Seizures
@@ -156,8 +153,8 @@ It should be discontinued in any patient who develops seizures.
 
 ### Discontinuation of Treatment With PAXIL
 
-Recent clinical trials supporting the various approved indications for PAXIL employed a taper-phase regimen, rather than an abrupt discontinuation of treatment.
-The taper-phase regimen used in GAD and PTSD clinical trials involved an incremental decrease in the daily dose by 10 mg/day at weekly intervals.
+Recent clinical trials supporting the various approved indications for PAXIL employed a taper‑phase regimen, rather than an abrupt discontinuation of treatment.
+The taper‑phase regimen used in GAD and PTSD clinical trials involved an incremental decrease in the daily dose by 10 mg/day at weekly intervals.
 When a daily dose of 20 mg/day was reached, patients were continued on this dose for 1 week before treatment was stopped.
 
 With this regimen in those studies, the following adverse events were reported at an incidence of 2% or greater for PAXIL and were at least twice that reported for placebo: Abnormal dreams, paresthesia, and dizziness.
@@ -223,7 +220,7 @@ As mydriasis can cause acute angle closure in patients with narrow angle glaucom
 
 PAXIL has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from clinical studies during the product’s premarket testing.
-Evaluation of electrocardiograms of 682 patients who received PAXIL in double-blind, placebo-controlled trials, however, did not indicate that PAXIL is associated with the development of significant ECG abnormalities.
+Evaluation of electrocardiograms of 682 patients who received PAXIL in double‑blind, placebo-controlled trials, however, did not indicate that PAXIL is associated with the development of significant ECG abnormalities.
 Similarly, PAXIL does not cause any clinically important changes in heart rate or blood pressure.
 
 Increased plasma concentrations of paroxetine occur in patients with severe renal impairment (creatinine clearance <30 mL/min.) or severe hepatic impairment.
@@ -263,11 +260,7 @@ Although in controlled studies PAXIL has not been shown to impair psychomotor pe
 
 While patients may notice improvement with treatment with PAXIL in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
-### Concomitant Medication
-
-Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions.
-
-### Alcohol
+### Concomitant Medications Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions. Alcohol
 
 Although PAXIL has not been shown to increase the impairment of mental and motor skills caused by alcohol, patients should be advised to avoid alcohol while taking PAXIL.
 
@@ -281,7 +274,7 @@ Patients should be advised to notify their physician if they are breastfeeding a
 
 ## Laboratory Tests
 
-There are no specific laboratory tests recommended.
+There are no specific laboratory tests recommended,
 
 ## Drug Interactions
 
@@ -289,7 +282,7 @@ There are no specific laboratory tests recommended.
 
 As with other serotonin reuptake inhibitors, an interaction between paroxetine and tryptophan may occur when they are coadministered.
 Adverse experiences, consisting primarily of headache, nausea, sweating, and dizziness, have been reported when tryptophan was administered to patients taking PAXIL.
-Consequently, concomitant use of PAXIL with tryptophan is not recommended (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+Consequently, concomitant use of PAXIL with tryptophan is not recommended (see WARNINGS: Serotonin Syndrome).
 
 ### Monoamine Oxidase Inhibitors
 
@@ -303,9 +296,9 @@ Due to the narrow therapeutic index of pimozide and its known ability to prolong
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when PAXIL is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, or St. John's Wort (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when PAXIL is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, or St. John’s Wort (see WARNINGS: Serotonin Syndrome).
 
-The concomitant use of PAXIL with MAOIs (including linezolid and methylene blue) is contraindicated (see CONTRAINDICATIONS).
+The concomitant use of PAXIL with MAOIs (including linezolid and intravenous methylene blue) is contraindicated (see CONTRAINDICATIONS).
 The concomitant use of PAXIL with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS: Drug Interactions: Tryptophan).
 
 ### Thioridazine
@@ -320,16 +313,16 @@ Since there is little clinical experience, the concomitant administration of PAX
 ### Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with the use of an SSRI and a triptan.
-If concomitant use of PAXIL with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+If concomitant use of PAXIL with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS: Serotonin Syndrome).
 
 ### Drugs Affecting Hepatic Metabolism
 
-The metabolism and pharmacokinetics of paroxetine may be affected by the induction or inhibition of drug-metabolizing enzymes.
+The metabolism and pharmacokinetics of paroxetine may be affected by the induction or inhibition of drug‑metabolizing enzymes.
 
 ### Cimetidine
 
 Cimetidine inhibits many cytochrome P450 (oxidative) enzymes.
-In a study where PAXIL (30 mg once daily) was dosed orally for 4 weeks, steady-state plasma concentrations of paroxetine were increased by approximately 50% during coadministration with oral cimetidine (300 mg three times daily) for the final week.
+In a study where PAXIL (30 mg once daily) was dosed orally for 4 weeks, steady‑state plasma concentrations of paroxetine were increased by approximately 50% during coadministration with oral cimetidine (300 mg three times daily) for the final week.
 Therefore, when these drugs are administered concurrently, dosage adjustment of PAXIL after the 20-mg starting dose should be guided by clinical effect.
 The effect of paroxetine on cimetidine’s pharmacokinetics was not studied.
 
@@ -353,7 +346,7 @@ No initial dosage adjustments are considered necessary when these drugs are coad
 Many drugs, including most drugs effective in the treatment of major depressive disorder (paroxetine, other SSRIs and many tricyclics), are metabolized by the cytochrome P450 isozyme CYP2D6.
 Like other agents that are metabolized by CYP2D6, paroxetine may significantly inhibit the activity of this isozyme.
 In most patients (>90%), this CYP2D6 isozyme is saturated early during dosing with PAXIL.
-In 1 study, daily dosing of PAXIL (20 mg once daily) under steady-state conditions increased single dose desipramine (100 mg) Cmax, AUC, and T½ by an average of approximately 2-, 5-, and 3-fold, respectively.
+In 1 study, daily dosing of PAXIL (20 mg once daily) under steady‑state conditions increased single dose desipramine (100 mg) Cmax, AUC, and T½ by an average of approximately 2‑, 5‑, and 3‑fold, respectively.
 Concomitant use of paroxetine with risperidone, a CYP2D6 substrate has also been evaluated.
 In 1 study, daily dosing of paroxetine 20 mg in patients stabilized on risperidone (4 to 8 mg/day) increased mean plasma concentrations of risperidone approximately 4-fold, decreased 9-hydroxyrisperidone concentrations approximately 10%, and increased concentrations of the active moiety (the sum of risperidone plus 9-hydroxyrisperidone) approximately 1.4-fold.
 The effect of paroxetine on the pharmacokinetics of atomoxetine has been evaluated when both drugs were at steady state.
@@ -401,28 +394,28 @@ Although PAXIL does not increase the impairment of mental and motor skills cause
 
 ### Lithium
 
-A multiple-dose study has shown that there is no pharmacokinetic interaction between PAXIL and lithium carbonate.
+A multiple‑dose study has shown that there is no pharmacokinetic interaction between PAXIL and lithium carbonate.
 However, due to the potential for serotonin syndrome, caution is advised when PAXIL is coadministered with lithium.
 
 ### Digoxin
 
-The steady-state pharmacokinetics of paroxetine was not altered when administered with digoxin at steady state.
+The steady‑state pharmacokinetics of paroxetine was not altered when administered with digoxin at steady state.
 Mean digoxin AUC at steady state decreased by 15% in the presence of paroxetine.
 Since there is little clinical experience, the concurrent administration of paroxetine and digoxin should be undertaken with caution.
 
 ### Diazepam
 
-Under steady-state conditions, diazepam does not appear to affect paroxetine kinetics.
+Under steady‑state conditions, diazepam does not appear to affect paroxetine kinetics.
 The effects of paroxetine on diazepam were not evaluated.
 
 ### Procyclidine
 
-Daily oral dosing of PAXIL (30 mg once daily) increased steady-state AUC0-24, Cmax, and Cmin values of procyclidine (5 mg oral once daily) by 35%, 37%, and 67%, respectively, compared to procyclidine alone at steady state.
+Daily oral dosing of PAXIL (30 mg once daily) increased steady‑state AUC0-24, Cmax, and Cmin values of procyclidine (5 mg oral once daily) by 35%, 37%, and 67%, respectively, compared to procyclidine alone at steady state.
 If anticholinergic effects are seen, the dose of procyclidine should be reduced.
 
 ### Beta-Blockers
 
-In a study where propranolol (80 mg twice daily) was dosed orally for 18 days, the established steady-state plasma concentrations of propranolol were unaltered during coadministration with PAXIL (30 mg once daily) for the final 10 days.
+In a study where propranolol (80 mg twice daily) was dosed orally for 18 days, the established steady‑state plasma concentrations of propranolol were unaltered during coadministration with PAXIL (30 mg once daily) for the final 10 days.
 The effects of propranolol on paroxetine have not been evaluated (see ADVERSE REACTIONS: Postmarketing Reports).
 
 ### Theophylline
@@ -443,12 +436,12 @@ There are no clinical studies of the combined use of ECT and PAXIL.
 
 ### Carcinogenesis
 
-Two-year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day (mice) and 1, 5, and 20 mg/kg/day (rats).
+Two‑year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day (mice) and 1, 5, and 20 mg/kg/day (rats).
 These doses are up to 2.4 (mouse) and 3.9 (rat) times the MRHD for major depressive disorder, social anxiety disorder, GAD, and PTSD on a mg/m2 basis.
 Because the MRHD for major depressive disorder is slightly less than that for OCD (50 mg versus 60 mg), the doses used in these carcinogenicity studies were only 2.0 (mouse) and 3.2 (rat) times the MRHD for OCD.
-There was a significantly greater number of male rats in the high-dose group with reticulum cell sarcomas (1/100, 0/50, 0/50, and 4/50 for control, low-, middle-, and high-dose groups, respectively) and a significantly increased linear trend across dose groups for the occurrence of lymphoreticular tumors in male rats.
+There was a significantly greater number of male rats in the high‑dose group with reticulum cell sarcomas (1/100, 0/50, 0/50, and 4/50 for control, low-, middle-, and high‑dose groups, respectively) and a significantly increased linear trend across dose groups for the occurrence of lymphoreticular tumors in male rats.
 Female rats were not affected.
-Although there was a dose-related increase in the number of tumors in mice, there was no drug-related increase in the number of mice with tumors.
+Although there was a dose‑related increase in the number of tumors in mice, there was no drug-related increase in the number of mice with tumors.
 The relevance of these findings to humans is unknown.
 
 ### Mutagenesis
@@ -462,6 +455,8 @@ Some clinical studies have shown that SSRIs (including paroxetine) may affect sp
 A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is 2.9 times the MRHD for major depressive disorder, social anxiety disorder, GAD, and PTSD or 2.4 times the MRHD for OCD on a mg/m2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
 These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (9.8 and 4.9 times the MRHD for major depressive disorder, social anxiety disorder, and GAD; 8.2 and 4.1 times the MRHD for OCD and PD on a mg/m2 basis).
+
+## Pregnancy
 
 Pregnancy Category D. See WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects.
 

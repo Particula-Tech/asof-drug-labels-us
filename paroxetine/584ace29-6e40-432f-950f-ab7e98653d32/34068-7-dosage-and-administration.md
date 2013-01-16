@@ -32,7 +32,7 @@ The maximum dosage should not exceed 60 mg/day.
 
 ### Maintenance Therapy
 
-Long-term maintenance of efficacy was demonstrated in a 6-month relapse prevention trial.
+Long‑term maintenance of efficacy was demonstrated in a 6‑month relapse prevention trial.
 In this trial, patients with OCD assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
 OCD is a chronic condition, and it is reasonable to consider continuation for a responding patient.
 Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
@@ -50,12 +50,12 @@ The maximum dosage should not exceed 60 mg/day.
 
 ### Maintenance Therapy
 
-Long-term maintenance of efficacy was demonstrated in a 3-month relapse prevention trial.
+Long-term maintenance of efficacy was demonstrated in a 3‑month relapse prevention trial.
 In this trial, patients with panic disorder assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Panic disorder is a chronic condition, and it is reasonable to consider continuation for a responding patient.
 Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
 
-## Social Anxiety Disorder
+## Social Anxiety Disorder:
 
 ### Usual Initial Dosage
 
@@ -107,7 +107,6 @@ Dosage adjustments should be made to maintain the patient on the lowest effectiv
 
 Neonates exposed to PAXIL and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS: Usage in Pregnancy).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering paroxetine in the third trimester.
 
 ### Dosage for Elderly or Debilitated Patients, and Patients With Severe Renal or Hepatic Impairment
 
@@ -115,19 +114,25 @@ The recommended initial dose is 10 mg/day for elderly patients, debilitated pati
 Increases may be made if indicated.
 Dosage should not exceed 40 mg/day.
 
-## Switching Patients to or From a Monoamine Oxidase Inhibitor Antidepressant
+## Switching a Patient to or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with PAXIL.
-Conversely, at least 14 days should be allowed after stopping PAXIL before starting an MAOI antidepressant (see CONTRAINDICATIONS).
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PAXIL.
+Conversely, at least 14 days should be allowed after stopping PAXIL before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-Use of PAXIL With Reversible MAOIs Such as Linezolid or Methylene Blue: Do not start PAXIL in a patient who is being treated with linezolid or methylene blue because there is increased risk of serotonin syndrome or NMS-like reactions.
-In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
-In some cases, a patient receiving therapy with PAXIL may require urgent treatment with linezolid or methylene blue.
-If acceptable alternatives to linezolid or methylene blue treatment are not available and the potential benefits of linezolid or methylene blue treatment are judged to outweigh the risks of serotonin syndrome or NMS-like reactions in a particular patient, PAXIL should be stopped promptly, and linezolid or methylene blue can be administered.
-The patient should be monitored for symptoms of serotonin syndrome or NMS-like reactions for 2 weeks or until 24 hours after the last dose of linezolid or methylene blue, whichever comes first.
-Therapy with PAXIL may be resumed 24 hours after the last dose of linezolid or methylene blue (see WARNINGS).
+## Use of PAXIL With Other MAOIs, Such as Linezolid or Methylene Blue
 
-## Discontinuation of Treatment With PAXIL
+Do not start PAXIL in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving therapy with PAXIL may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, PAXIL should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with PAXIL may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with PAXIL is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
+
+## Discontinuation of Treatment With PAXIL:
 
 Symptoms associated with discontinuation of PAXIL have been reported (see PRECAUTIONS: Discontinuation of Treatment With PAXIL).
 Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which PAXIL is being prescribed.

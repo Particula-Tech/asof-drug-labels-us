@@ -2,7 +2,7 @@
 
 ## Tablets
 
-Film-coated, modified-oval as follows:
+Film‑coated, modified‑oval as follows:
 
 10-mg yellow, scored tablets engraved on the front with PAXIL and on the back with 10.
 
@@ -24,7 +24,7 @@ Store tablets between 15° and 30°C (59° and 86°F).
 
 ## Oral Suspension
 
-Orange-colored, orange-flavored, 10 mg/5 mL, in white bottles containing 250 mL.
+Orange‑colored, orange‑flavored, 10 mg/5 mL, in white bottles containing 250 mL.
 
 NDC 60505-0402-5
 
@@ -44,7 +44,7 @@ Apotex Corp.
 
 Weston, FL 33326
 
-©2011, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-July 2011 PXL-AP:4PI
+December 2012 PXL-AP:5PI
