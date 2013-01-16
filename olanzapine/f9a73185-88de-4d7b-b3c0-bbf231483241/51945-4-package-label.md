@@ -2,6 +2,8 @@ PACKAGE LABEL - ZYPREXA Relprevv 210 mg
 
 NDC 0002-7635-11
 
+Medication Guide is to be dispensed to patients.
+
 VL7635/VL7622
 
 ZYPREXA® Relprevv™
@@ -41,6 +43,8 @@ PACKAGE LABEL - ZYPREXA Relprevv 300 mg
 
 NDC 0002-7636-11
 
+Medication Guide is to be dispensed to patients.
+
 VL7636/VL7622
 
 ZYPREXA® Relprevv™
@@ -79,6 +83,8 @@ Lilly
 PACKAGE LABEL - ZYPREXA Relprevv 405 mg
 
 NDC 0002-7637-11
+
+Medication Guide is to be dispensed to patients.
 
 VL7637/VL7622
 
