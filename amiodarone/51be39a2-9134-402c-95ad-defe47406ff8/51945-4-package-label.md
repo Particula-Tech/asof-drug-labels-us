@@ -1,14 +1,10 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 200 MG – LABEL
+# PRINCIPAL DISPLAY PANEL - 60 Tablet Bottle Label
 
 NDC 0008-4188-04
 
 60 Tablets
 
-Cordarone®
-
-(amiodarone HCl)
+Cordarone® (amiodarone HCl)
 
 200 mg
 

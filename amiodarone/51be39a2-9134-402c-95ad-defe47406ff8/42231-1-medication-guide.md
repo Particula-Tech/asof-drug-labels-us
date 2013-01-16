@@ -27,7 +27,7 @@ Call your doctor or get medical help right away if you have any symptoms such as
 Because of these possible side effects, Cordarone Tablets should only be used in adults with life-threatening heartbeat problems called ventricular arrhythmias, for which other treatments did not work or were not tolerated.
 
 Cordarone Tablets can cause other serious side effects.
-See “What are the possible or reasonably likely side effects of Cordarone Tablets?” for more information.
+See "What are the possible or reasonably likely side effects of Cordarone Tablets?" for more information.
 
 If you get serious side effects during treatment with Cordarone Tablets you may need to stop Cordarone Tablets, have your dose changed, or get medical treatment.
 Talk with your doctor before you stop taking Cordarone Tablets.
@@ -132,7 +132,7 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1‑800‑FDA-1088.
 
 Cordarone Tablets can cause serious side effects that lead to death including lung damage, liver damage, worse heartbeat problems, and thyroid problems.
-See “What is the most important information I should know about Cordarone Tablets?”
+See "What is the most important information I should know about Cordarone Tablets?"
 
 Some other serious side effects of Cordarone Tablets include:
 
@@ -140,7 +140,7 @@ Some other serious side effects of Cordarone Tablets include:
   You should have regular eye exams before and during treatment with Cordarone Tablets.
   Call your doctor if you have blurred vision, see halos, or your eyes become sensitive to light.
 - nerve problems.
-  Cordarone Tablets can cause a feeling of “pins and needles” or numbness in the hands, legs, or feet, muscle weakness, uncontrolled movements, poor coordination, and trouble walking.
+  Cordarone Tablets can cause a feeling of "pins and needles" or numbness in the hands, legs, or feet, muscle weakness, uncontrolled movements, poor coordination, and trouble walking.
 - thyroid problems.
   Cordarone Tablets can cause thyroid problems, including low thyroid function or overactive thyroid function.
   Your doctor may arrange regular blood tests to check your thyroid function during treatment with Cordarone.

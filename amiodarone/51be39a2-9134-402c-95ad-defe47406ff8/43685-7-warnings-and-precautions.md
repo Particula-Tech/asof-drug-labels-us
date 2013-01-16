@@ -71,7 +71,7 @@ In addition, Cordarone has caused symptomatic bradycardia or sinus arrest with s
 
 Fluoroquinolones, macrolide antibiotics, and azoles are known to cause QTc prolongation.
 There have been reports of QTc prolongation, with or without TdP, in patients taking amiodarone when fluoroquinolones, macrolide antibiotics, or azoles were administered concomitantly.
-(See “Drug Interactions, Other reported interactions with amiodarone”).
+(See "Drug Interactions, Other reported interactions with amiodarone").
 
 The need to co-administer amiodarone with any other drug known to prolong the QTc interval must be based on a careful assessment of the potential risks and benefits of doing so for each patient.
 
@@ -86,7 +86,7 @@ Therefore, at the inception of and during amiodarone treatment, pacing and defib
 
 Cordarone-induced hyperthyroidism may result in thyrotoxicosis and/or the possibility of arrhythmia breakthrough or aggravation.
 There have been reports of death associated with amiodarone-induced thyrotoxicosis.
-IF ANY NEW SIGNS OF ARRHYTHMIA APPEAR, THE POSSIBILITY OF HYPERTHYROIDISM SHOULD BE CONSIDERED (see “PRECAUTIONS, Thyroid Abnormalities”).
+IF ANY NEW SIGNS OF ARRHYTHMIA APPEAR, THE POSSIBILITY OF HYPERTHYROIDISM SHOULD BE CONSIDERED (see "PRECAUTIONS, Thyroid Abnormalities").
 
 ## Liver Injury
 
@@ -105,7 +105,7 @@ If symptoms of visual impairment appear, such as changes in visual acuity and de
 Appearance of optic neuropathy and/or neuritis calls for re-evaluation of Cordarone therapy.
 The risks and complications of antiarrhythmic therapy with Cordarone must be weighed against its benefits in patients whose lives are threatened by cardiac arrhythmias.
 Regular ophthalmic examination, including funduscopy and slit-lamp examination, is recommended during administration of Cordarone.
-(See “ADVERSE REACTIONS”).
+(See "ADVERSE REACTIONS").
 
 ## Neonatal Hypo- or Hyperthyroidism
 
@@ -128,14 +128,14 @@ In the rat, doses of 50 mg/kg/day or more were associated with slight displaceme
 
 ### Optic Neuropathy and/or Neuritis
 
-Cases of optic neuropathy and optic neuritis have been reported (see “WARNINGS”).
+Cases of optic neuropathy and optic neuritis have been reported (see "WARNINGS").
 
 ### Corneal Microdeposits
 
 Corneal microdeposits appear in the majority of adults treated with Cordarone.
 They are usually discernible only by slit-lamp examination, but give rise to symptoms such as visual halos or blurred vision in as many as 10% of patients.
 Corneal microdeposits are reversible upon reduction of dose or termination of treatment.
-Asymptomatic microdeposits alone are not a reason to reduce dose or discontinue treatment (see “ADVERSE REACTIONS”).
+Asymptomatic microdeposits alone are not a reason to reduce dose or discontinue treatment (see "ADVERSE REACTIONS").
 
 ## Neurologic
 
@@ -173,14 +173,14 @@ Since arrhythmia breakthroughs may accompany Cordarone-induced hyperthyroidism, 
 The institution of antithyroid drugs, β-adrenergic blockers and/or temporary corticosteroid therapy may be necessary.
 The action of antithyroid drugs may be especially delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland.
 Radioactive iodine therapy is contraindicated because of the low radioiodine uptake associated with amiodarone-induced hyperthyroidism.
-Cordarone-induced hyperthyroidism may be followed by a transient period of hypothyroidism (see “WARNINGS, Thyrotoxicosis”).
+Cordarone-induced hyperthyroidism may be followed by a transient period of hypothyroidism (see "WARNINGS, Thyrotoxicosis").
 
 When aggressive treatment of amiodarone-induced thyrotoxicosis has failed or amiodarone cannot be discontinued because it is the only drug effective against the resistant arrhythmia, surgical management may be an option.
 Experience with thyroidectomy as a treatment for amiodarone-induced thyrotoxicosis is limited, and this form of therapy could induce thyroid storm.
 Therefore, surgical and anesthetic management require careful planning.
 
 There have been postmarketing reports of thyroid nodules/thyroid cancer in patients treated with Cordarone.
-In some instances hyperthyroidism was also present (see “WARNINGS” and “ADVERSE REACTIONS”).
+In some instances hyperthyroidism was also present (see "WARNINGS" and "ADVERSE REACTIONS").
 
 ## Surgery
 
@@ -214,7 +214,7 @@ Despite these biochemical changes, most patients remain clinically euthyroid.
 ## Drug Interactions
 
 Amiodarone is metabolized to desethylamiodarone by the cytochrome P450 (CYP450) enzyme group, specifically cytochrome P450 3A4 (CYP3A4) and CYP2C8.
-The CYP3A4 isoenzyme is present in both the liver and intestines (see “CLINICAL PHARMACOLOGY, Pharmacokinetics”).
+The CYP3A4 isoenzyme is present in both the liver and intestines (see "CLINICAL PHARMACOLOGY, Pharmacokinetics").
 Amiodarone is an inhibitor of CYP3A4 and p-glycoprotein.
 Therefore, amiodarone has the potential for interactions with drugs or substances that may be substrates, inhibitors or inducers of CYP3A4 and substrates of p-glycoprotein.
 While only a limited number of in vivo drug-drug interactions with amiodarone have been reported, the potential for other interactions should be anticipated.
@@ -251,7 +251,7 @@ QT interval prolongation and Torsade de Pointes have been reported with the co-a
 
 Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, and decreased DEA to unquantifiable concentrations.
 Grapefruit juice inhibits CYP3A4-mediated metabolism of oral amiodarone in the intestinal mucosa, resulting in increased plasma levels of amiodarone; therefore, grapefruit juice should not be taken during treatment with oral amiodarone.
-This information should be considered when changing from intravenous amiodarone to oral amiodarone (see “DOSAGE AND ADMINISTRATION”).
+This information should be considered when changing from intravenous amiodarone to oral amiodarone (see "DOSAGE AND ADMINISTRATION").
 
 Amiodarone inhibits p-glycoprotein and certain CYP450 enzymes, including CYP1A2, CYP2C9, CYP2D6, and CYP3A4.
 This inhibition can result in unexpectedly high plasma levels of other drugs which are metabolized by those CYP450 enzymes or are substrates of p-glycoprotein.
@@ -337,11 +337,11 @@ Disopyramide increases QT prolongation which could cause arrhythmia.
 
 Fluoroquinolones, macrolide antibiotics, and azoles are known to cause QTc prolongation.
 There have been reports of QTc prolongation, with or without TdP, in patients taking amiodarone when fluoroquinolones, macrolide antibiotics, or azoles were administered concomitantly.
-(See “WARNINGS, Worsened Arrhythmia”.)
+(See "WARNINGS, Worsened Arrhythmia".)
 
 Hemodynamic and electrophysiologic interactions have also been observed after concomitant administration with propranolol, diltiazem, and verapamil.
 
-Volatile Anesthetic Agents (See “PRECAUTIONS, Surgery, Volatile Anesthetic Agents”).
+Volatile Anesthetic Agents (See "PRECAUTIONS, Surgery, Volatile Anesthetic Agents").
 
 In addition to the interactions noted above, chronic (>2 weeks) oral Cordarone administration impairs metabolism of phenytoin, dextromethorphan, and methotrexate.
 
@@ -363,7 +363,7 @@ In a study in which amiodarone HCl was administered to male and female rats, beg
 
 ## Pregnancy: Pregnancy Category D
 
-See “WARNINGS, Neonatal Hypo- or Hyperthyroidism”.
+See "WARNINGS, Neonatal Hypo- or Hyperthyroidism".
 
 ## Labor and Delivery
 
