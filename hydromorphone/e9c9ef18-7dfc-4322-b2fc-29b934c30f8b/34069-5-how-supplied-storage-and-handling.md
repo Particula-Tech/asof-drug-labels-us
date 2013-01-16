@@ -21,7 +21,7 @@ Carpuject™, Single-dose Prefilled Syringe with Luer Lock, Box of 10, 1 mL (1 m
 
 Carpuject™, Single-dose Prefilled Syringe with Luer Lock, Box of 10, 1 mL (2 mg/mL); NDC 0409‑1312‑30
 
-Carpuject™ Single-dose Prefilled Syringe, with Luer Lock, Box of 10, 1 mL (4 mg/mL); NDC 0409‑1304‑31
+Carpuject™, Single-dose Prefilled Syringe, with Luer Lock, Box of 10, 1 mL (4 mg/mL); NDC 0409‑1304‑31
 
 iSecure Single-dose Prefilled Syringe with Luer Lock, Box of 10, 0.5 mL (1 mg/mL); NDC 0409‑1283‑05
 
@@ -54,6 +54,6 @@ To Use iSecure™ Syringe
 
 Revised: 11/2011
 
-EN-2941
+EN-3048
 
 Hospira, Inc., Lake Forest, IL 60045 USA

@@ -40,6 +40,8 @@ Immune System
 In vitro and animal studies indicate that opioids have a variety of effects on immune functions.
 The clinical significance of these findings is unknown.
 
+## 12.2 Pharmacodynamics
+
 ## 12.3 Pharmacokinetics
 
 Distribution
@@ -70,7 +72,7 @@ A further increase in Cmax and AUC of hydromorphone in this group is expected an
 Renal Impairment
 
 The pharmacokinetics of hydromorphone following an oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets) are affected by renal impairment.
-Mean exposure to hydromorphone (Cmax and AUC0-∞) is increased by 2 fold in patients with moderate (CLcr = 40 - 60 mL/min) renal impairment and increased by 4 fold in patients with severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
+Mean exposure to hydromorphone (Cmax and AUC0-∞) is increased by 2 fold in patients with moderate (CLcr=40 - 60 mL/min) renal impairment and increased by 4 fold in patients with severe (CLcr <30 mL/min) renal impairment compared with normal subjects (CLcr >80 mL/min).
 In addition, in patients with severe renal impairment, hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Start patients with renal impairment on one-fourth to one-half the usual starting dose depending on the degree of impairment.
 Patients with renal impairment should be closely monitored during dose titration [see Use in Specific Populations (8.6)].
 

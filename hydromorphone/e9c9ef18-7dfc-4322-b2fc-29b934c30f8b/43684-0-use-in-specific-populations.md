@@ -10,11 +10,19 @@ Hydromorphone hydrochloride injection should be used during pregnancy only if th
 
 No effects on teratogenicity or embryotoxicity were observed in pregnant rats given oral doses up to 7 mg/kg/day which is 3-fold higher than the human dose of 24 mg hydromorphone hydrochloride injection (4 mg every 4 hours), on a body surface area basis.
 Hydromorphone administration to pregnant Syrian hamsters and CF-1 mice during major organ development revealed teratogenic effects likely the result of maternal toxicity associated with sedation and hypoxia.
-In Syrian hamsters given single subcutaneous doses from 14 to 258 mg/kg during organogenesis (gestation days 8-10), doses ≥ 19 mg/kg of hydromorphone produced skull malformations (exencephaly and cranioschisis).
-In CF-1 mice, continuous infusion of hydromorphone (> 15 mg/kg over 24 hours) via implanted osmotic pumps during organogenesis (gestation days 7-10) produced soft tissue malformations (cryptorchidism, cleft palate, malformed ventricles and retina), and skeletal variations (split supraoccipital, checkerboard and split sternebrae, delayed ossification of the paws and ectopic ossification sites).
+In Syrian hamsters given single subcutaneous doses from 14 to 258 mg/kg during organogenesis (gestation days 8-10), doses ≥19 mg/kg of hydromorphone produced skull malformations (exencephaly and cranioschisis).
+In CF-1 mice, continuous infusion of hydromorphone (≥15 mg/kg over 24 hours) via implanted osmotic pumps during organogenesis (gestation days 7-10) produced soft tissue malformations (cryptorchidism, cleft palate, malformed ventricles and retina), and skeletal variations (split supraoccipital, checkerboard and split sternebrae, delayed ossification of the paws and ectopic ossification sites).
 The malformations and variations observed in the hamsters and mice were observed at doses approximately 6-fold and 3-fold higher, respectively, than the human dose of 24 mg hydromorphone hydrochloride (4 mg every 4 hours), on a body surface area basis.
 
-## 8.2 Labor And Delivery
+## 8.2 Labor and Delivery
+
+## 8.3 Nursing Mothers
+
+## 8.4 Pediatric Use
+
+## 8.5 Geriatric Use
+
+## 8.2 Labor and Delivery
 
 Hydromorphone hydrochloride should be used with caution during labor.
 Occasionally, opioid analgesics including hydromorphone hydrochloride injection may prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
@@ -49,7 +57,7 @@ Titration in these patients should proceed cautiously [see Individualization of 
 ## 8.6 Renal Impairment
 
 The pharmacokinetics of hydromorphone following an oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets) are affected by renal impairment.
-Mean exposure to hydromorphone (Cmax and AUC0-∞) is increased by 2 fold in patients with moderate (CLcr = 40 - 60 mL/min) renal impairment and increased by 4 fold in patients with severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
+Mean exposure to hydromorphone (Cmax and AUC0-∞) is increased by 2 fold in patients with moderate (CLcr=40 - 60 mL/min) renal impairment and increased by 4 fold in patients with severe (CLcr <30 mL/min) renal impairment compared with normal subjects (CLcr >80 mL/min).
 In addition, in patients with severe renal impairment, hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Start patients with renal impairment on one-fourth to one-half the usual starting dose depending on the degree of impairment.
 Patients with renal impairment should be closely monitored during dose titration.
 [see Clinical Pharmacology (12.3)]
