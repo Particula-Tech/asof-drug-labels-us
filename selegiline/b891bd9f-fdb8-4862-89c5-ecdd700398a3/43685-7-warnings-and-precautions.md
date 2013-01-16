@@ -15,10 +15,9 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
-Table 1
-
-| AGE RANGE | DRUG-PLACEBO DIFFERENCE IN NUMBER OF CASES OF SUICIDALITY PER 1,000 PATIENTS TREATED |
+| Table 1 |  |
 | --- | --- |
+| AGE RANGE | DRUG-PLACEBO DIFFERENCE INNUMBER OF CASES OF SUICIDALITYPER 1,000 PATIENTS TREATED |
 |  | Increases Compared to Placebo |
 | < 18 | 14 additional cases |
 | 18-24 | 5 additional cases |
@@ -87,7 +86,7 @@ Food and beverages to avoid and those which are acceptableAdapted from K.I.
 Shulman, S.E.
 Walker, Psychiatric Annals 2001; 31:378-384:
 
-| Class of Food and Beverage | Tyramine-Rich Foods and Beverages to Avoid | Acceptable Foods and Drinks, Containing No or Little Tyramine |
+| Class of Food and Beverage | Tyramine-Rich Foods and Beverages to Avoid | Acceptable Foods and Drinks,Containing No or Little Tyramine |
 | --- | --- | --- |
 | Meat, Poultry, and Fish | Air dried, aged and fermented meats, sausages and salamis (including cacciatore, hard salami and mortadella); pickled herring; and any spoiled or improperly stored meat, poultry, and fish (e.g., foods that have undergone changes in coloration, odor, or become moldy); spoiled or improperly stored animal livers | Fresh meat, poultry, and fish, including fresh processed meats (e.g., lunch meats, hot dogs, breakfast sausage, and cooked sliced ham) |
 | Vegetables | Broad bean pods (fava bean pods) | All other vegetables |
@@ -172,7 +171,7 @@ Patients should be advised not to use sympathomimetic agents while on EMSAM ther
 
 Patients should be advised not to use selective serotonin reuptake inhibitors (SSRIs, e.g., fluoxetine, sertraline, paroxetine, and St. John’s wort), dual serotonin and norepinephrine reuptake inhibitors (SNRIs, e.g., venlafaxine and duloxetine), tricyclic antidepressants (TCAs, e.g., imipramine and amitriptyline), mirtazapine, oral selegiline or other MAOIs (e.g., isocarboxazid, phenelzine, and tranylcypromine), bupropion hydrochloride or buspirone hydrochloride while on EMSAM therapy.
 
-EMSAM (selegiline transdermal system) has not been shown to impair psychomotor performance; however, any psychoactive drug may potentially impair judgment, thinking, or motor skills.
+EMSAM(selegiline transdermal system) has not been shown to impair psychomotor performance; however, any psychoactive drug may potentially impair judgment, thinking, or motor skills.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that EMSAM therapy does not impair their ability to engage in such activities.
 
 Patients should be told that, although EMSAM has not been shown to increase the impairment of mental and motor skills caused by alcohol, the concomitant use of EMSAM and alcohol in depressed patients is not recommended.
@@ -238,7 +237,7 @@ Seven-day treatment with ketoconazole (200 mg/day), a potent inhibitor of CYP3A4
 
 ### Levothyroxine
 
-In healthy subjects who had received EMSAM 6 mg/24 hours for 10 days, single dose administration with levothyroxine (150 µg) did not alter the pharmacokinetics of either selegiline or levothyroxine (as judged by T3 and T4 plasma levels).
+In healthy subjects who had received EMSAM 6 mg/24 hours for 10 days, single dose administration with levothyroxine (150 μg) did not alter the pharmacokinetics of either selegiline or levothyroxine (as judged by T3 and T4 plasma levels).
 
 ### Olanzapine
 
@@ -255,7 +254,7 @@ It is prudent to avoid the concomitant use of sympathomimetic agents with EMSAM.
 EMSAM 6 mg/24 hours for 10 days, co-administered with pseudoephedrine (60 mg, 3 times a day) did not affect the pharmacokinetics of pseudoephedrine.
 The effect of pseudoephedrine on EMSAM was not examined.
 There were no clinically significant changes in blood pressure during pseudoephedrine administration alone, or in combination with EMSAM.
-Nonetheless, it is prudent to avoid the concomitant use of sympathomimetic agents with EMSAM.
+Nonetheless, it is prudent to avoid the concomitant use of sympathomimetic agents with EMSAM.]
 
 ### Risperidone
 
@@ -329,7 +328,7 @@ Selegiline was negative in the Ames assay, the in vitro mammalian chromosome abe
 A mating and fertility study was conducted in male and female rats at transdermal doses of 10, 30, and 75 mg/kg/day of selegiline (8, 24, and 60 times the maximum recommended human dose of EMSAM [12 mg/24 hours] on a mg/m2 basis).
 Slight decreases in sperm concentration and total sperm count were observed at the high dose; however, no significant adverse effects on fertility or reproductive performance were observed.
 
-## Teratogenic Effects - Pregnancy Category C
+## Teratorgenic Effects – Pregnancy Category C
 
 In an embryofetal development study in rats, dams were treated with transdermal selegiline during the period of organogenesis at doses of 10, 30, and 75 mg/kg/day (8, 24, and 60 times the maximum recommended human dose [MRHD] of EMSAM [12 mg/24 hours] on a mg/m2 basis).
 At the highest dose there was a decrease in fetal weight and slight increases in malformations, delayed ossification (also seen at the mid dose), and embryofetal post-implantation lethality.
@@ -365,7 +364,7 @@ Because many drugs are excreted in human milk, caution should be exercised admin
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNINGand WARNINGS, Clinical Worsening and Suicide Risk).
 
 Anyone considering the use of EMSAM (selegiline transdermal system) in a child or adolescent must balance the potential risks with the clinical need.
 

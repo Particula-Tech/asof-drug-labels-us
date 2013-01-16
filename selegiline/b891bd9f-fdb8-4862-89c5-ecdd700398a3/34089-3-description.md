@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-EMSAM® (selegiline transdermal system) is a transdermally administered antidepressant.
+EMSAM®(selegiline transdermal system) is a transdermally administered antidepressant.
 When applied to intact skin, EMSAM is designed to continuously deliver selegiline over a 24-hour period.
 
 Selegiline base is a colorless to yellow liquid, chemically described as (-)-(N)-Methyl-N-[(1R)-1-methyl-2-phenylethyl]prop-2-yn-1-amine.

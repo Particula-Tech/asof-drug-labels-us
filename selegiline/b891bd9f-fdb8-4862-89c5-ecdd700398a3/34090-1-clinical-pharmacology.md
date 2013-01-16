@@ -11,14 +11,14 @@ The mechanism of action of EMSAM as an antidepressant is not fully understood, b
 In an in vivo animal model used to test for antidepressant activity (Forced Swim Test), selegiline administered by transdermal patch exhibited antidepressant properties only at doses that inhibited both MAO-A and MAO-B activity in the brain.
 In the CNS, MAO-A and MAO-B play important roles in the catabolism of neurotransmitter amines such as norepinephrine, dopamine, and serotonin, as well as neuromodulators such as phenylethylamine.
 Other molecular sites of action have also been explored and in this regard, a direct pharmacological interaction may also occur between selegiline and brain neuronal α2B receptors.
-In in vitro receptor binding assays, selegiline has demonstrated affinity for the human recombinant adrenergic α2B receptor (Ki = 0.3 µM).
-No affinity [Ki > 10 µM] was noted at dopamine receptors, adrenergic β3, glutamate, muscarinic M1-M5, nicotinic, or rolipram receptor/sites.
+In in vitro receptor binding assays, selegiline has demonstrated affinity for the human recombinant adrenergic α2B receptor (Ki = 0.3 μM).
+No affinity [Ki > 10 μM] was noted at dopamine receptors, adrenergic β3, glutamate, muscarinic M1-M5, nicotinic, or rolipram receptor/sites.
 
 ## Pharmacokinetics
 
 ### Absorption
 
-Following dermal application of EMSAM to humans, 25% - 30% of the selegiline content on average is delivered systemically over 24 hours (range ~ 10% - 40%).
+Following dermal application of EMSAM to humans, 25% - 30% of theselegilinecontent on average is delivered systemically over 24 hours (range ~ 10% - 40%).
 Consequently, the degree of drug absorption may be 1/3 higher than the average amounts of 6 mg to 12 mg per 24 hours.
 Transdermal dosing results in substantially higher exposure to selegiline and lower exposure to metabolites compared to oral dosing, where extensive first-pass metabolism occurs (Figure 2).
 In a 10-day study with EMSAM administered to normal volunteers, steady-state selegiline plasma concentrations were achieved within 5 days of daily dosing.
@@ -29,7 +29,6 @@ Mean (95% CI) steady-state plasma concentrations in healthy men and women follow
 
 Following dermal application of radiolabeled selegiline to laboratory animals, selegiline is rapidly distributed to all body tissues.
 Selegiline rapidly penetrates the blood-brain barrier.
-
 In humans, selegiline is approximately 90% bound to plasma protein over a 2 - 500 ng/mL concentration range.
 Selegiline does not accumulate in the skin.
 
@@ -40,7 +39,7 @@ Selegiline is extensively metabolized by several CYP450-dependent enzyme systems
 Selegiline is metabolized initially via N-dealkylation or N-depropargylation to form N-desmethylselegiline or R(-)-methamphetamine, respectively.
 Both of these metabolites can be further metabolized to R(-)-amphetamine.
 These metabolites are all levorotatory (l-)enantiomers and no racemic biotransformation to the dextrorotatory form (i.e., S(+)-amphetamine or S(+)-methamphetamine) occurs.
-R(-)-methamphetamine and R(-)-amphetamine are mainly excreted unchanged in urine.
+R(-)-methamphetamine and R(-)-amphetamine are mainly excreted unchanged in urine
 
 ### In vitro Metabolism
 
@@ -49,9 +48,9 @@ CYP2B6, CYP2C9, and CYP3A4/5 appeared to be the major contributing enzymes in th
 CYP2A6, CYP2B6, and CYP3A4/5 appeared to contribute to the formation of R(-)-amphetamine from N-desmethylselegiline.
 
 The potential for selegiline or N-desmethylselegiline to inhibit individual CYP450-dependent enzyme pathways was also examined in vitro with human liver microsomes.
-Each substrate was examined over a concentration range of 2.5 to 250 µM.
-Consistent with competitive inhibition, both selegiline and N-desmethylselegiline caused a concentration dependent inhibition of CYP2D6 at 10 - 250 µM and CYP3A4/5 at 25 - 250 µM.
-CYP2C19 and CYP2B6 were also inhibited at concentrations ≥ 100 µM.All inhibitory effects of selegiline and N-desmethylselegiline occurred at concentrations that are several orders of magnitude higher than concentrations seen clinically (highest predose concentration observed at a dose of 12 mg/24 hours at steady-state was 0.046 µM) (see PRECAUTIONS, Drug Interactions).
+Each substrate was examined over a concentration range of 2.5 to 250 μM.
+Consistent with competitive inhibition, both selegiline and N-desmethylselegiline caused a concentration dependent inhibition of CYP2D6 at 10 - 250 μM and CYP3A4/5 at 25 - 250 μM.
+CYP2C19 and CYP2B6 were also inhibited at concentrations ≥ 100 μM.All inhibitory effects of selegiline and N-desmethylselegiline occurred at concentrations that are several orders of magnitude higher than concentrations seen clinically (highest predose concentration observed at a dose of 12 mg/24 hours at steady-state was 0.046 μM) (see PRECAUTIONS, Drug Interactions)
 
 ### Excretion
 
@@ -63,11 +62,15 @@ The systemic clearance of selegiline after intravenous administration was 1.4 L/
 
 ### Population Subgroups
 
-Age -- The effect of age on the pharmacokinetics or metabolism of selegiline during administration of EMSAM has not been systematically evaluated.
+#### Age
+
+The effect of age on the pharmacokinetics or metabolism of selegiline during administration of EMSAM has not been systematically evaluated.
 The recommended dose for elderly patients is EMSAM 6 mg/24 hours.
 (See DOSAGE AND ADMINISTRATION.)
 
-Gender -- No gender differences have been observed in the pharmacokinetics or metabolism of selegiline during administration of EMSAM.
+#### Gender
+
+No gender differences have been observed in the pharmacokinetics or metabolism of selegiline during administration of EMSAM.
 No adjustment of EMSAM dosage based on gender is needed.
 
 ### Reduced Hepatic Function

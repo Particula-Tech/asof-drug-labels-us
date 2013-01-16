@@ -16,12 +16,15 @@ Pharmacist: Dispense with enclosed Medication Guide.
 
 INSTRUCTIONS FOR APPLICATION
 
-1. Select and prepare an appropriate site on the (A) upper chest or back (below the neck and above the waist), (B) upper thigh, or (C) outer surface of the upper arm, as directed in the enclosed Medication Guide.
-2. Bend both sides of the clear peelable liner.
-   Peel off one strip only of the clear liner.
-   Avoid touching the sticky side of the transdermal system.
-3. Apply sticky side of the transdermal system to the chosen skin site.
-   Remove remaining strip, gently roll remaining part onto skin, and press transdermal system firmly in place with the tips of your fingers.
+- 1.
+  Select and prepare an appropriate site on the (A) upper chest or back (below the neck and above the waist), (B) upper thigh, or (C) outer surface of the upper arm, as directed in the enclosed Medication Guide.
+- 2.
+  Bend both sides of the clear peelable liner.
+  Peel off one strip only of the clear liner.
+  Avoid touching the sticky side of the transdermal system.
+- 3.
+  Apply sticky side of the transdermal system to the chosen skin site.
+  Remove remaining strip, gently roll remaining part onto skin, and press transdermal system firmly in place with the tips of your fingers.
 
 For more detailed instructions, read enclosed Medication Guide.
 
@@ -34,10 +37,10 @@ Wear only one transdermal system at a time.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Distributed by Dey Pharma, L.P.
-Napa, CA 94558
+Dist. by Mylan Specialty L.P.
+Basking Ridge, NJ 07920
 
-Manufactured for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
+Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
 Rx only
 
@@ -60,12 +63,15 @@ Pharmacist: Dispense with enclosed Medication Guide.
 
 INSTRUCTIONS FOR APPLICATION
 
-1. Select and prepare an appropriate site on the (A) upper chest or back (below the neck and above the waist), (B) upper thigh, or (C) outer surface of the upper arm, as directed in the enclosed Medication Guide.
-2. Bend both sides of the clear peelable liner.
-   Peel off one strip only of the clear liner.
-   Avoid touching the sticky side of the transdermal system.
-3. Apply sticky side of the transdermal system to the chosen skin site.
-   Remove remaining strip, gently roll remaining part onto skin, and press transdermal system firmly in place with the tips of your fingers.
+- 1.
+  Select and prepare an appropriate site on the (A) upper chest or back (below the neck and above the waist), (B) upper thigh, or (C) outer surface of the upper arm, as directed in the enclosed Medication Guide.
+- 2.
+  Bend both sides of the clear peelable liner.
+  Peel off one strip only of the clear liner.
+  Avoid touching the sticky side of the transdermal system.
+- 3.
+  Apply sticky side of the transdermal system to the chosen skin site.
+  Remove remaining strip, gently roll remaining part onto skin, and press transdermal system firmly in place with the tips of your fingers.
 
 For more detailed instructions, read enclosed Medication Guide.
 
@@ -78,10 +84,10 @@ Wear only one transdermal system at a time.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Distributed by Dey Pharma, L.P.
-Napa, CA 94558
+Dist. by Mylan Specialty L.P.
+Basking Ridge, NJ 07920
 
-Manufactured for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
+Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
 Rx only
 
@@ -104,12 +110,15 @@ Pharmacist: Dispense with enclosed Medication Guide.
 
 INSTRUCTIONS FOR APPLICATION
 
-1. Select and prepare an appropriate site on the (A) upper chest or back (below the neck and above the waist), (B) upper thigh, or (C) outer surface of the upper arm, as directed in the enclosed Medication Guide.
-2. Bend both sides of the clear peelable liner.
-   Peel off one strip only of the clear liner.
-   Avoid touching the sticky side of the transdermal system.
-3. Apply sticky side of the transdermal system to the chosen skin site.
-   Remove remaining strip, gently roll remaining part onto skin, and press transdermal system firmly in place with the tips of your fingers.
+- 1.
+  Select and prepare an appropriate site on the (A) upper chest or back (below the neck and above the waist), (B) upper thigh, or (C) outer surface of the upper arm, as directed in the enclosed Medication Guide.
+- 2.
+  Bend both sides of the clear peelable liner.
+  Peel off one strip only of the clear liner.
+  Avoid touching the sticky side of the transdermal system.
+- 3.
+  Apply sticky side of the transdermal system to the chosen skin site.
+  Remove remaining strip, gently roll remaining part onto skin, and press transdermal system firmly in place with the tips of your fingers.
 
 For more detailed instructions, read enclosed Medication Guide.
 
@@ -122,9 +131,9 @@ Wear only one transdermal system at a time.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Distributed by Dey Pharma, L.P.
-Napa, CA 94558
+Dist. by Mylan Specialty L.P.
+Basking Ridge, NJ 07920
 
-Manufactured for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
+Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
 Rx only
