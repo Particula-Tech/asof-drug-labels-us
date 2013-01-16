@@ -20,7 +20,7 @@ Therefore:
 The use of PROTOPIC Ointment should be avoided on pre-malignant and malignant skin conditions.
 Some malignant skin conditions, such as cutaneous T-cell lymphoma (CTCL), may mimic atopic dermatitis.
 
-The use of tacrolimus ointment is not recommended in patients having skin conditions with a skin barrier defect where there is the potential for increased systemic absorption of tacrolimus, including but not limited to, Netherton's syndrome, lamellar ichthyosis, generalized erthroderma or cutaneous Graft Versus Host Disease.
+The use of tacrolimus ointment is not recommended in patients having skin conditions with a skin barrier defect where there is the potential for increased systemic absorption of tacrolimus, including but not limited to, Netherton's syndrome, lamellar ichthyosis, generalized erythroderma or cutaneous Graft Versus Host Disease.
 Oral application is also not recommended.
 Post-marketing cases of increased tacrolimus blood level have been reported in these conditions.
 

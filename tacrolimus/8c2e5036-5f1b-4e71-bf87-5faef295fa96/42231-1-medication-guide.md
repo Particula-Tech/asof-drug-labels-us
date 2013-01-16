@@ -148,18 +148,20 @@ Active Ingredient: tacrolimus, either 0.03% or 0.1%
 
 Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum and white wax.
 
+Product of Japan
+
+Manufactured by:
+
+Astellas Pharma Tech Co., Ltd. Toyama Technology Center, 2-178 Kojin-machi, Toyama city, Toyama 930-0809, Japan
+
 Marketed by:
 
 Astellas Pharma US, Inc.
 
-Deerfield, IL 60015-2548
-
-Manufactured by:
-
-Astellas Pharma Tech Co., Ltd., Toyama Technology Center, 2-178 Kojin-machi, Toyama city, Toyama 930-0809, Japan
+Northbrook, IL 60062
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: November 2011
+Revised: May 2012
 
-11J082-PRT-SPL
+12D030-PRT-SPL
