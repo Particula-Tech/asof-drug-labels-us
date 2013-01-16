@@ -72,7 +72,7 @@ See the end of this leaflet for a complete list of ingredients in VALTREX.
 
 Before taking VALTREX, tell your healthcare provider:
 
-About all your medical conditions, including:
+About all of your medical conditions, including:
 
 - if you have had a bone marrow transplant or kidney transplant, or if you have advanced HIV-1 disease or "AIDS".
   Patients with these conditions may have a higher chance for getting a blood disorder called thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS).
@@ -161,9 +161,9 @@ Distributed by: GlaxoSmithKline Research Triangle Park, NC 27709
 
 Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709 or DSM Pharmaceuticals, Inc. Greenville, NC 27834
 
-©2011, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-October 2011
+January 2013
 
-VTX:3PIL
+VTX:4PIL

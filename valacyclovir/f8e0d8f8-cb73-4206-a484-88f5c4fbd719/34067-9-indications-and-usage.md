@@ -28,7 +28,7 @@ Cold Sores (Herpes Labialis): VALTREX is indicated for the treatment of cold sor
 The efficacy of VALTREX initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
 
 Chickenpox: VALTREX is indicated for the treatment of chickenpox in immunocompetent pediatric patients aged 2 to less than 18 years.
-Based on efficacy data from clinical studies with oral acyclovir, treatment with VALTREX should be initiated within 24 hours after the onset of rash [see Clinical Studies (14.4)].
+Based on efficacy data from clinical trials with oral acyclovir, treatment with VALTREX should be initiated within 24 hours after the onset of rash [see Clinical Studies (14.4)].
 
 ## 1.3 Limitations of Use
 

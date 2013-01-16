@@ -11,7 +11,7 @@ Cases of acute renal failure have been reported in:
 
 - Elderly patients with or without reduced renal function.
   Caution should be exercised when administering VALTREX to geriatric patients, and dosage reduction is recommended for those with impaired renal function [see Dosage and Administration (2.4), Use in Specific Populations (8.5)].
-- Patients with underlying renal disease who received higher than recommended doses of VALTREX for their level of renal function.
+- Patients with underlying renal disease who received higher-than-recommended doses of VALTREX for their level of renal function.
   Dosage reduction is recommended when administering VALTREX to patients with renal impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.6)].
 - Patients receiving other nephrotoxic drugs.
   Caution should be exercised when administering VALTREX to patients receiving potentially nephrotoxic drugs.
@@ -23,6 +23,6 @@ In the event of acute renal failure and anuria, the patient may benefit from hem
 
 ## 5.3 Central Nervous System Effects
 
-Central nervous system adverse reactions, including agitation, hallucinations, confusion, delirium, seizures, and encephalopathy, have been reported in both adult and pediatric patients with or without reduced renal function and in patients with underlying renal disease who received higher than recommended doses of VALTREX for their level of renal function.
+Central nervous system adverse reactions, including agitation, hallucinations, confusion, delirium, seizures, and encephalopathy, have been reported in both adult and pediatric patients with or without reduced renal function and in patients with underlying renal disease who received higher-than-recommended doses of VALTREX for their level of renal function.
 Elderly patients are more likely to have central nervous system adverse reactions.
 VALTREX should be discontinued if central nervous system adverse reactions occur [see Adverse Reactions (6.3), Use in Specific Populations (8.5, 8.6)].

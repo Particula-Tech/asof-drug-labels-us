@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 - VALTREX may be given without regard to meals.
-- Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from 500 mg VALTREX Caplets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration (2.3)].
+- Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from 500-mg VALTREX Caplets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration (2.3)].
 
 ## 2.1 Adult Dosing Recommendations
 
@@ -42,13 +42,13 @@ Prepare Suspension at Time of Dispensing as Follows:
 
 - Prepare SSV according to the USP-NF.
 - Using a pestle and mortar, grind the required number of VALTREX 500 mg Caplets until a fine powder is produced (5 VALTREX Caplets for 25 mg/mL suspension; 10 VALTREX Caplets for 50 mg/mL suspension).
-- Gradually add approximately 5 mL aliquots of SSV to the mortar and triturate the powder until a paste has been produced.
+- Gradually add approximately 5-mL aliquots of SSV to the mortar and triturate the powder until a paste has been produced.
   Ensure that the powder has been adequately wetted.
-- Continue to add approximately 5 mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25 mg/mL and 50 mg/mL suspensions.
-- Transfer the mixture to a suitable 100 mL measuring flask.
+- Continue to add approximately 5-mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25-mg/mL and 50-mg/mL suspensions.
+- Transfer the mixture to a suitable 100-mL measuring flask.
 - Transfer the cherry flavor* to the mortar and dissolve in approximately 5 mL of SSV.
   Once dissolved, add to the measuring flask.
-- Rinse the mortar at least 3 times with approximately 5 mL aliquots of SSV, transferring the rinsing to the measuring flask between additions.
+- Rinse the mortar at least 3 times with approximately 5-mL aliquots of SSV, transferring the rinsing to the measuring flask between additions.
 - Make the suspension to volume (100 mL) with SSV and shake thoroughly to mix.
 - Transfer the suspension to an amber glass medicine bottle with a child-resistant closure.
 - The prepared suspension should be labeled with the following information “Shake well before using.
@@ -73,13 +73,13 @@ VALTREX Dosage Recommendations for Adults With Renal Impairment
 | Genital herpes: Recurrent episode | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Genital herpes: Suppressive therapy |  |  |  |  |
 | Immunocompetent patients | 1 gram every 24 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
-| Alternate dose for immunocompetent patients with greater than or equal to 9 recurrences/year | 500 mg every 24 hours | no reduction | 500 mg every 48 hours | 500 mg every 48 hours |
+| Alternate dose for immunocompetent patients with less than or equal to 9 recurrences/year | 500 mg every 24 hours | no reduction | 500 mg every 48 hours | 500 mg every 48 hours |
 | HIV-1 infected patients | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Herpes zoster | 1 gram every 8 hours | 1 gram every 12 hours | 1 gram every 24 hours | 500 mg every 24 hours |
 
 Hemodialysis: Patients requiring hemodialysis should receive the recommended dose of VALTREX after hemodialysis.
 During hemodialysis, the half-life of acyclovir after administration of VALTREX is approximately 4 hours.
-About one third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
+About one-third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
 
 Peritoneal Dialysis: There is no information specific to administration of VALTREX in patients receiving peritoneal dialysis.
 The effect of chronic ambulatory peritoneal dialysis (CAPD) and continuous arteriovenous hemofiltration/dialysis (CAVHD) on acyclovir pharmacokinetics has been studied.

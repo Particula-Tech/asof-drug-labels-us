@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling.
+See FDA-Approved Patient Labeling
 
 ## 17.1 Importance of Adequate Hydration
 
@@ -46,12 +46,10 @@ Distributed by: GlaxoSmithKline Research Triangle Park, NC 27709
 
 Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709 or DSM Pharmaceuticals, Inc. Greenville, NC 27834
 
-©2011, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-October 2011
-
-VTX:4PI
+VTX:5PI
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
