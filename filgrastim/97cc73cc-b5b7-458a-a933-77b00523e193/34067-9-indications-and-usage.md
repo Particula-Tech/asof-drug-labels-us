@@ -12,7 +12,7 @@ NEUPOGEN® is indicated for reducing the time to neutrophil recovery and the dur
 
 ## Cancer Patients Receiving Bone Marrow Transplant
 
-NEUPOGEN® is indicated to reduce the duration of neutropenia and neutropenia-related clinical sequelae‚ eg‚ febrile neutropenia‚ in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by marrow transplantation (see CLINICAL EXPERIENCE).
+NEUPOGEN® is indicated to reduce the duration of neutropenia and neutropenia-related clinical sequelae‚ e.g.‚ febrile neutropenia in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by marrow transplantation (see CLINICAL EXPERIENCE).
 It is recommended that CBCs and platelet counts be obtained at a minimum of 3 times per week (see LABORATORY MONITORING) following marrow infusion to monitor the recovery of marrow reconstitution.
 
 ## Patients Undergoing Peripheral Blood Progenitor Cell Collection and Therapy

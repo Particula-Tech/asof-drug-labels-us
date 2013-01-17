@@ -9,10 +9,10 @@ No difference in survival or disease progression was demonstrated.
 
 In the phase 3‚ randomized‚ double-blind‚ placebo-controlled trial conducted in patients with small cell lung cancer‚ patients were randomized to receive NEUPOGEN® (n = 99) or placebo (n = 111) starting on day 4‚ after receiving standard dose chemotherapy with cyclophosphamide‚ doxorubicin‚ and etoposide.
 A total of 210 patients were evaluated for efficacy and 207 evaluated for safety.
-Treatment with NEUPOGEN® resulted in a clinically and statistically significant reduction in the incidence of infection‚ as manifested by febrile neutropenia; the incidence of at least one infection over all cycles of chemotherapy was 76% (84/111) for placebo-treated patients‚ versus 40% (40/99) for NEUPOGEN®-treated patients (p < 0.001).
+Treatment with NEUPOGEN® resulted in a clinically and statistically significant reduction in the incidence of infection‚ as manifested by febrile neutropenia; the incidence of at least one infection over all cycles of chemotherapy was 76% (84/111) for placebo-treated patients versus 40% (40/99) for NEUPOGEN®-treated patients (p < 0.001).
 The following secondary analyses were also performed.
-The requirements for in-patient hospitalization and antibiotic use were also significantly decreased during the first cycle of chemotherapy; incidence of hospitalization was 69% (77/111) for placebo-treated patients in cycle 1‚ versus 52% (51/99) for NEUPOGEN®-treated patients (p = 0.032).
-The incidence of IV antibiotic usage was 60% (67/111) for placebo-treated patients in cycle 1‚ versus 38% (38/99) for NEUPOGEN®-treated patients (p = 0.003).
+The requirements for in-patient hospitalization and antibiotic use were also significantly decreased during the first cycle of chemotherapy; incidence of hospitalization was 69% (77/111) for placebo-treated patients in cycle 1 versus 52% (51/99) for NEUPOGEN®-treated patients (p = 0.032).
+The incidence of IV antibiotic usage was 60% (67/111) for placebo-treated patients in cycle 1 versus 38% (38/99) for NEUPOGEN®-treated patients (p = 0.003).
 The incidence‚ severity‚ and duration of severe neutropenia (absolute neutrophil count [ANC] < 500/mm3) following chemotherapy were all significantly reduced.
 The incidence of severe neutropenia in cycle 1 was 84% (83/99) for patients receiving NEUPOGEN® versus 96% (106/110) for patients receiving placebo (p = 0.004).
 Over all cycles‚ patients randomized to NEUPOGEN® had a 57% (286/500 cycles) rate of severe neutropenia versus 77% (416/543 cycles) for patients randomized to placebo.
@@ -21,7 +21,7 @@ The mean duration of neutropenia in cycle 1 was 5.64 ± 2.27 days for patients r
 Over all cycles‚ the median duration of neutropenia was 3 days for patients randomized to placebo versus 1 day for patients randomized to NEUPOGEN®.
 The median severity of neutropenia (as measured by ANC nadir) was 72/mm3 (range 0/mm3 to 7912/mm3) in cycle 1 for patients receiving NEUPOGEN® versus 38/mm3 (range 0/mm3 to 9520/mm3) for patients receiving placebo (p = 0.012).
 The mean severity of neutropenia in cycle 1 was 496/mm3 ± 1382/mm3 for patients receiving NEUPOGEN® versus 204/mm3 ± 953/mm3 for patients receiving placebo.
-Over all cycles‚ the ANC nadir for patients randomized to NEUPOGEN® was 403/mm3‚ versus 161/mm3 for patients randomized to placebo.
+Over all cycles‚ the ANC nadir for patients randomized to NEUPOGEN® was 403/mm3 versus 161/mm3 for patients randomized to placebo.
 Administration of NEUPOGEN® resulted in an earlier ANC nadir following chemotherapy than was experienced by patients receiving placebo (day 10 vs day 12).
 NEUPOGEN® was well tolerated when given SC daily at doses of 4 to 8 mcg/kg for up to 14 consecutive days following each cycle of chemotherapy (see ADVERSE REACTIONS).
 
@@ -72,14 +72,14 @@ There were no statistically significant differences between NEUPOGEN® and place
 
 In two separate randomized‚ controlled trials‚ patients with Hodgkin’s disease (HD) and non-Hodgkin’s lymphoma (NHL) were treated with myeloablative chemotherapy and autologous bone marrow transplantation (ABMT).
 In one study (n = 54)‚ NEUPOGEN® was administered at doses of 10 or 30 mcg/kg/day; a third treatment group in this study received no NEUPOGEN®.
-A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the NEUPOGEN®-treated group versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group‚ and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
+A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the NEUPOGEN®-treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group‚ and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
 In the second study (n = 44‚ 43 patients evaluable)‚ NEUPOGEN® was administered at doses of 10 or 20 mcg/kg/day; a third treatment group in this study received no NEUPOGEN®.
-A statistically significant reduction in the median number of days of severe neutropenia occurred in the NEUPOGEN®-treated group versus the control group (21.5 days in the control group and 10 days in both treatment groups‚ p < 0.001).
+A statistically significant reduction in the median number of days of severe neutropenia occurred in the NEUPOGEN®-treated groups versus the control group (21.5 days in the control group and 10 days in both treatment groups‚ p < 0.001).
 The number of days of febrile neutropenia was also reduced significantly in this study (13.5 days in the control group‚ 5 days in the 10 mcg/kg/day group‚ and 5.5 days in the 20 mcg/kg/day group [5 days in the combined treatment groups‚ p < 0.0001]).
 Reductions in the number of days of hospitalization and antibiotic use were also seen‚ although these reductions were not statistically significant.
 There were no effects on red blood cell or platelet levels.
 
-In a randomized‚ placebo-controlled trial‚ 70 patients with myeloid and nonmyeloid malignancies were treated with myeloablative therapy and allogeneic bone marrow transplant followed by 300 mcg/m2/day of a Filgrastim product.
+In a randomized‚ placebo-controlled trial‚ 70 patients with myeloid and nonmyeloid malignancies were treated with myeloablative therapy and allogeneic bone marrow transplant followed by 300 mcg/m2/day of a filgrastim product.
 A statistically significant reduction in the median number of days of severe neutropenia occurred in the treated group versus the control group (19 days in the control group and 15 days in the treatment group‚ p < 0.001) and time to recovery of ANC to ≥ 500/mm3 (21 days in the control group and 16 days in the treatment group‚ p < 0.001).
 
 In three nonrandomized studies (n = 119)‚ patients received ABMT and treatment with NEUPOGEN®.
@@ -105,21 +105,21 @@ The median CFU-GM level on each day of mobilization was determined from the data
 These data are presented below.
 
 The data from Amgen study 1 were supported by data from Amgen study 2 in which 22 pretreated breast cancer patients (median number of prior cycles = 3) were studied.
-Both the CFU-GM and CD34+ cells reached a maximum on day 5 at > 10-fold over baseline and then remained elevated with leukapheresis.
+Both the CFU-GM and CD34+ cells reached a maximum on day 5 at >10-fold over baseline and then remained elevated with leukapheresis.
 
 Progenitor Cell Levels in Peripheral Blood by Mobilization Day
 
 |  | Overall Study 1 CFU-GM/mL |  | Study 2 CFU-GM/mL |  | Study 2 CD34+ (x 104/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | No. Samples | Median(25% – 75%) | No. Samples | Median(25% – 75%) | No. Samples | Median(25% – 75%) |
-| Day 1 | 11 | 18(13 – 62) | 20 | 42(15 – 151) | 20 | 0.13(0.02 – 0.66) |
-| Day 2 | 7 | 22(3 – 61) | n/an/a = not available | n/a | n/a | n/a |
-| Day 3 | 10 | 138(39 – 364) | n/a | n/a | n/a | n/a |
-| Day 4 | 18 | 365(158 – 864) | 18 | 576(108 – 1819) | 17 | 2.11(0.58 – 3.93) |
-| Day 5 | 36 | 781(391 – 1608) | 21 | 960(72 – 1677) | 22 | 3.16(1.08 – 6.11) |
-| Day 6 | 46 | 505(199 – 1397) | 22 | 756(70 – 3486) | 22 | 2.67(1.09 – 4.40) |
-| Day 7 | 37 | 333(111 – 938) | 22 | 597(118 – 2009) | 21 | 2.64(0.78 – 4.22) |
-| Day 8 | 15 | 383(94 – 815) | 12 | 51(10 – 746) | 12 | 1.61(0.38 – 4.31) |
+| Day 1 | 11 | 18 (13 – 62) | 20 | 42 (15 – 151) | 20 | 0.13 (0.02 – 0.66) |
+| Day 2 | 7 | 22 (3 – 61) | n/an/a = not available | n/a | n/a | n/a |
+| Day 3 | 10 | 138 (39 – 364) | n/a | n/a | n/a | n/a |
+| Day 4 | 18 | 365 (158 – 864) | 18 | 576 (108 – 1819) | 17 | 2.11 (0.58 – 3.93) |
+| Day 5 | 36 | 781 (391 – 1608) | 21 | 960 (72 – 1677) | 22 | 3.16 (1.08 – 6.11) |
+| Day 6 | 46 | 505 (199 – 1397) | 22 | 756 (70 – 3486) | 22 | 2.67 (1.09 – 4.40) |
+| Day 7 | 37 | 333 (111 – 938) | 22 | 597 (118 – 2009) | 21 | 2.64 (0.78 – 4.22) |
+| Day 8 | 15 | 383 (94 – 815) | 12 | 51 (10 – 746) | 12 | 1.61 (0.38 – 4.31) |
 
 In three studies of patients with prior exposure to chemotherapy‚ the median CFU-GM yield in the leukapheresis product ranged from 20.9 to 32.7 x 104/kg body weight (n = 105).
 In two of these studies where CD34+ yields in the leukapheresis product were also determined‚ the median CD34+ yields were 3.11 and 2.80 x 106/kg, respectively (n = 56).
@@ -148,7 +148,7 @@ Severe chronic neutropenia (SCN) (idiopathic‚ cyclic‚ and congenital) is cha
 The daily administration of NEUPOGEN® has been shown to be safe and effective in causing a sustained increase in the neutrophil count and a decrease in infectious morbidity in children and adults with the clinical syndrome of SCN.16 In the phase 3 trial‚ summarized in the following table‚ daily treatment with NEUPOGEN® resulted in significant beneficial changes in the incidence and duration of infection‚ fever‚ antibiotic use‚ and oropharyngeal ulcers.
 In this trial‚ 120 patients with a median age of 12 years (range 1 to 76 years) were treated.
 
-Overall Significant Changes in Clinical Endpoints Median Incidence Incidence values were calculated for each patient‚ and are defined as the total number of events experienced divided by the number of 28-day periods of exposure (on-study).
+Overall Significant Changes in Clinical Endpoints Median IncidenceIncidence values were calculated for each patient‚ and are defined as the total number of events experienced divided by the number of 28-day periods of exposure (on-study).
 Median incidence values were then reported for each patient group.
 (events) or Duration (days) per 28-day Period
 

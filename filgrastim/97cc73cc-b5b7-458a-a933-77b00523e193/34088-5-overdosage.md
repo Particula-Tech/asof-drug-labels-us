@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-In cancer patients receiving NEUPOGEN® as an adjunct to myelosuppressive chemotherapy‚ it is recommended‚ to avoid the potential risks of excessive leukocytosis‚ that NEUPOGEN® therapy be discontinued if the ANC surpasses 10‚000/mm3 after the chemotherapy-induced ANC nadir has occurred.
+In cancer patients receiving NEUPOGEN® as an adjunct to myelosuppressive chemotherapy‚ it is recommended to avoid the potential risks of excessive leukocytosis‚ that NEUPOGEN® therapy be discontinued if the ANC surpasses 10‚000/mm3 after the chemotherapy-induced ANC nadir has occurred.
 Doses of NEUPOGEN® that increase the ANC beyond 10‚000/mm3 may not result in any additional clinical benefit.
 
 The maximum tolerated dose of NEUPOGEN® has not been determined.

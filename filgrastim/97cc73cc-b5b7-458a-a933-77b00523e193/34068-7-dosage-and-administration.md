@@ -9,7 +9,7 @@ The prefilled syringe should be disposed of by placing the entire prefilled syri
 ## Cancer Patients Receiving Myelosuppressive Chemotherapy
 
 The recommended starting dose of NEUPOGEN® is 5 mcg/kg/day‚ administered as a single daily injection by SC bolus injection‚ by short IV infusion (15 to 30 minutes)‚ or by continuous SC or continuous IV infusion.
-A CBC and platelet count should be obtained before instituting NEUPOGEN® therapy‚ and monitored twice weekly during therapy.
+A CBC and platelet count should be obtained before instituting NEUPOGEN® therapy and monitored twice weekly during therapy.
 Doses may be increased in increments of 5 mcg/kg for each chemotherapy cycle‚ according to the duration and severity of the ANC nadir.
 
 NEUPOGEN® should be administered no earlier than 24 hours after the administration of cytotoxic chemotherapy.
@@ -28,7 +28,7 @@ During the period of neutrophil recovery‚ the daily dose of NEUPOGEN® should 
 
 | Absolute Neutrophil Count | NEUPOGEN® Dose Adjustment |
 | --- | --- |
-| When ANC > 1000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/day If ANC decreases to < 1000/mm3 at any time during the 5 mcg/kg/day administration‚ NEUPOGEN® should be increased to 10 mcg/kg/day‚ and the above steps should then be followed. |
+| When ANC > 1000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/dayIf ANC decreases to < 1000/mm3 at any time during the 5 mcg/kg/day administration‚ NEUPOGEN® should be increased to 10 mcg/kg/day‚ and the above steps should then be followed. |
 | then: |  |
 | If ANC remains > 1000/mm3 for 3 more consecutive days | Discontinue NEUPOGEN® |
 | then: |  |
@@ -58,7 +58,7 @@ Dose Adjustments:
 
 Chronic daily administration is required to maintain clinical benefit.
 Absolute neutrophil count should not be used as the sole indication of efficacy.
-The dose should be individually adjusted based on the patients’ clinical course as well as ANC.
+The dose should be individually adjusted based on the patient's clinical course as well as ANC.
 In the SCN postmarketing surveillance study, the reported median daily doses of NEUPOGEN® were: 6.0 mcg/kg (congenital neutropenia), 2.1 mcg/kg (cyclic neutropenia), and 1.2 mcg/kg (idiopathic neutropenia).
 In rare instances, patients with congenital neutropenia have required doses of NEUPOGEN® ≥ 100 mcg/kg/day.
 

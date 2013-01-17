@@ -43,10 +43,10 @@
 14. Bronchud MH‚ Howell A‚ Crowther D‚ et al. The use of granulocyte colony-stimulating factor to increase the intensity of treatment with doxorubicin in patients with advanced breast and ovarian cancer.
     Br J Cancer.
     1989;60:121-128.
-15. Heil G, Hoelzer D, Sanz MA, et al. A randomized, double-blind, placebo-controlled, phase III study of Filgrastim in remission induction and consolidation therapy for adults with de novo Acute Myeloid Leukemia.
+15. Heil G, Hoelzer D, Sanz MA, et al. A randomized, double-blind, placebo-controlled, phase III study of filgrastim in remission induction and consolidation therapy for adults with de novo Acute Myeloid Leukemia.
     Blood.
     1997;90:4710-4718.
-16. Dale DC‚ Bonilla MA‚ Davis MW‚ et al. A randomized controlled phase III trial of recombinant human granulocyte colony-stimulating factor (Filgrastim) for treatment of severe chronic neutropenia.
+16. Dale DC‚ Bonilla MA‚ Davis MW‚ et al. A randomized controlled phase III trial of recombinant human granulocyte colony-stimulating factor (filgrastim) for treatment of severe chronic neutropenia.
     Blood.
     1993;81:2496-2502.
 17. Schroeder TM and Kurth R. Spontaneous chromosomal breakage and high incidence of leukemia in inherited disease.

@@ -3,7 +3,7 @@
 ## Allergic Reactions
 
 Allergic-type reactions occurring on initial or subsequent treatment have been reported in < 1 in 4000 patients treated with NEUPOGEN®.
-These have generally been characterized by systemic symptoms involving at least 2 body systems‚ most often skin (rash‚ urticaria‚ facial edema)‚ respiratory (wheezing‚ dyspnea)‚ and cardiovascular (hypotension‚ tachycardia).
+These have generally been characterized by systemic symptoms involving at least two body systems‚ most often skin (rash‚ urticaria‚ facial edema)‚ respiratory (wheezing‚ dyspnea)‚ and cardiovascular (hypotension‚ tachycardia).
 Some reactions occurred on initial exposure.
 Reactions tended to occur within the first 30 minutes after administration and appeared to occur more frequently in patients receiving NEUPOGEN® IV.
 Rapid resolution of symptoms occurred in most cases after administration of antihistamines‚ steroids‚ bronchodilators‚ and/or epinephrine.
@@ -23,7 +23,7 @@ Patients should receive appropriate medical management for this condition.
 
 ## Alveolar Hemorrhage and Hemoptysis
 
-Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization has been reported in healthy donors undergoing peripheral blood progenitor cell (PBPC) mobilization.
+Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization has been reported in healthy donors undergoing PBPC mobilization.
 Hemoptysis resolved with discontinuation of NEUPOGEN®.
 The use of NEUPOGEN® for PBPC mobilization in healthy donors is not an approved indication.
 
@@ -52,7 +52,7 @@ If a patient with SCN develops abnormal cytogenetics or myelodysplasia‚ the ri
 The safety and efficacy of NEUPOGEN® given simultaneously with cytotoxic chemotherapy have not been established.
 Because of the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy‚ do not use NEUPOGEN® in the period 24 hours before through 24 hours after the administration of cytotoxic chemotherapy (see DOSAGE AND ADMINISTRATION).
 
-The efficacy of NEUPOGEN® has not been evaluated in patients receiving chemotherapy associated with delayed myelosuppression (eg, nitrosoureas) or with mitomycin C or with myelosuppressive doses of antimetabolites such as 5-fluorouracil.
+The efficacy of NEUPOGEN® has not been evaluated in patients receiving chemotherapy associated with delayed myelosuppression (e.g., nitrosoureas), with mitomycin C, or with myelosuppressive doses of antimetabolites such as 5-fluorouracil.
 
 The safety and efficacy of NEUPOGEN® have not been evaluated in patients receiving concurrent radiation therapy.
 Simultaneous use of NEUPOGEN® with chemotherapy and radiation therapy should be avoided.
@@ -81,22 +81,22 @@ In order to avoid the potential complications of excessive leukocytosis‚ a CBC
 #### Cancer Patients Receiving Myelosuppressive Chemotherapy
 
 A transient increase in neutrophil counts is typically seen 1 to 2 days after initiation of NEUPOGEN® therapy.
-However‚ for a sustained therapeutic response‚ NEUPOGEN® therapy should be continued following chemotherapy until the post nadir ANC reaches 10‚000/mm3.
+However‚ for a sustained therapeutic response‚ NEUPOGEN® therapy should be continued following chemotherapy until the post-nadir ANC reaches 10‚000/mm3.
 Therefore‚ the premature discontinuation of NEUPOGEN® therapy‚ prior to the time of recovery from the expected neutrophil nadir‚ is generally not recommended (see DOSAGE AND ADMINISTRATION).
 
 #### Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The incidence of antibody development in patients receiving NEUPOGEN® has not been adequately determined.
-While available data suggest that a small proportion of patients developed binding antibodies to Filgrastim, the nature and specificity of these antibodies has not been adequately studied.
+While available data suggest that a small proportion of patients developed binding antibodies to filgrastim, the nature and specificity of these antibodies has not been adequately studied.
 In clinical studies comparing NEUPOGEN® and Neulasta®, the incidence of antibodies binding to NEUPOGEN® was 3% (11/333).
 In these 11 patients, no evidence of a neutralizing response was observed using a cell-based bioassay.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody positivity in an assay may be influenced by several factors including timing of sampling, sample handling, concomitant medications, and underlying disease.
 Therefore, comparison of the incidence of antibodies to NEUPOGEN® with the incidence of antibodies to other products may be misleading.
 
 Cytopenias resulting from an antibody response to exogenous growth factors have been reported on rare occasions in patients treated with other recombinant growth factors.
-There is a theoretical possibility that an antibody directed against Filgrastim may cross-react with endogenous G-CSF, resulting in immune-mediated neutropenia; however, this has not been reported in clinical studies or in post-marketing experience.
-Patients who develop hypersensitivity to Filgrastim (NEUPOGEN®) may have allergic or hypersensitivity reactions to other E coli-derived proteins.
+There is a theoretical possibility that an antibody directed against filgrastim may cross-react with endogenous G-CSF, resulting in immune-mediated neutropenia; however, this has not been reported in clinical studies or in post-marketing experience.
+Patients who develop hypersensitivity to filgrastim (NEUPOGEN®) may have allergic or hypersensitivity reactions to other E coli-derived proteins.
 
 ## Cutaneous Vasculitis
 
@@ -118,7 +118,7 @@ It is not intended to be a disclosure of all known or possible effects.
 
 A CBC and platelet count should be obtained prior to chemotherapy‚ and at regular intervals (twice per week) during NEUPOGEN® therapy.
 Following cytotoxic chemotherapy‚ the neutrophil nadir occurred earlier during cycles when NEUPOGEN® was administered‚ and WBC differentials demonstrated a left shift‚ including the appearance of promyelocytes and myeloblasts.
-In addition‚ the duration of severe neutropenia was reduced‚ and was followed by an accelerated recovery in the neutrophil counts.
+In addition‚ the duration of severe neutropenia was reduced and was followed by an accelerated recovery in the neutrophil counts.
 
 ### Cancer Patients Receiving Bone Marrow Transplant
 
@@ -128,8 +128,8 @@ Frequent CBCs and platelet counts are recommended (at least 3 times per week) fo
 
 During the initial 4 weeks of NEUPOGEN® therapy and during the 2 weeks following any dose adjustment‚ a CBC with differential and platelet count should be performed twice weekly.
 Once a patient is clinically stable‚ a CBC with differential and platelet count should be performed monthly during the first year of treatment.
-Thereafter, if clinically stable, routine monitoring with regular CBCs (ie, as clinically indicated but at least quarterly) is recommended.
-Additionally, for those patients with congenital neutropenia, annual bone marrow and cytogenetic evaluations should be performed throughout the duration of treatment (see WARNINGS, ADVERSE REACTIONS).
+Thereafter, if clinically stable, routine monitoring with regular CBCs (i.e., as clinically indicated but at least quarterly) is recommended.
+Additionally, for those patients with congenital neutropenia, annual bone marrow and cytogenetic evaluations should be performed throughout the duration of treatment (see WARNINGS and ADVERSE REACTIONS).
 
 In clinical trials‚ the following laboratory results were observed:
 
@@ -147,7 +147,7 @@ In clinical trials‚ the following laboratory results were observed:
 Drug interactions between NEUPOGEN® and other drugs have not been fully evaluated.
 Drugs which may potentiate the release of neutrophils‚ such as lithium‚ should be used with caution.
 
-Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging changes.
+Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging changes.
 This should be considered when interpreting bone-imaging results.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -183,10 +183,10 @@ Because many drugs are excreted in human milk‚ caution should be exercised if 
 In a phase 3 study to assess the safety and efficacy of NEUPOGEN® in the treatment of SCN, 120 patients with a median age of 12 years were studied.
 Of the 120 patients, 12 were infants (1 month to 2 years of age), 47 were children (2 to 12 years of age), and 9 were adolescents (12 to 16 years of age).
 Additional information is available from a SCN postmarketing surveillance study, which includes long-term follow-up of patients in the clinical studies and information from additional patients who entered directly into the postmarketing surveillance study.
-Of the 531 patients in the surveillance study as of 31 December 1997, 32 were infants, 200 were children, and 68 were adolescents (see CLINICAL EXPERIENCE, INDICATIONS AND USAGE, LABORATORY MONITORING, DOSAGE AND ADMINISTRATION).
+Of the 531 patients in the surveillance study as of 31 December 1997, 32 were infants, 200 were children, and 68 were adolescents (see CLINICAL EXPERIENCE, INDICATIONS AND USAGE, LABORATORY MONITORING, and DOSAGE AND ADMINISTRATION).
 
 Pediatric patients with congenital types of neutropenia (Kostmann’s syndrome, congenital agranulocytosis, or Schwachman-Diamond syndrome) have developed cytogenetic abnormalities and have undergone transformation to MDS and AML while receiving chronic NEUPOGEN® treatment.
-The relationship of these events to NEUPOGEN® administration is unknown (see WARNINGS, ADVERSE REACTIONS).
+The relationship of these events to NEUPOGEN® administration is unknown (see WARNINGS and ADVERSE REACTIONS).
 
 Long-term follow-up data from the postmarketing surveillance study suggest that height and weight are not adversely affected in patients who received up to 5 years of NEUPOGEN® treatment.
 Limited data from patients who were followed in the phase 3 study for 1.5 years did not suggest alterations in sexual maturation or endocrine function.
@@ -201,4 +201,4 @@ There was one report of palpable splenomegaly associated with NEUPOGEN® therapy
 Among 855 subjects enrolled in 3 randomized, placebo-controlled trials of NEUPOGEN® use following myelosuppressive chemotherapy, there were 232 subjects age 65 or older, and 22 subjects age 75 or older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other clinical experience has not identified differences in the responses between elderly and younger patients.
 
-Clinical studies of NEUPOGEN® in other approved indications (ie, bone marrow transplant recipients, PBPC mobilization, and SCN) did not include sufficient numbers of subjects aged 65 and older to determine whether elderly subjects respond differently from younger subjects.
+Clinical studies of NEUPOGEN® in other approved indications (ie, bone marrow transplant (BMT) recipients, PBPC mobilization, and SCN) did not include sufficient numbers of subjects aged 65 and older to determine whether elderly subjects respond differently from younger subjects.

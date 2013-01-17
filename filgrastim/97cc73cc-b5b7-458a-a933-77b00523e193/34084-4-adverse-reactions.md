@@ -61,13 +61,13 @@ The time to transfusion-independent platelet recovery and the number of days of 
 
 ### Cancer Patients Receiving Bone Marrow Transplant
 
-In clinical trials‚ the reported adverse effects were those typically seen in patients receiving intensive chemotherapy followed by bone marrow transplant (BMT).
+In clinical trials‚ the reported adverse effects were those typically seen in patients receiving intensive chemotherapy followed by BMT.
 The most common events reported in both control and treatment groups included stomatitis, nausea, and vomiting‚ generally of mild-to-moderate severity and were considered unrelated to NEUPOGEN®.
-In the randomized studies of BMT involving 167 patients who received study drug‚ the following events occurred more frequently in patients treated with Filgrastim than in controls: nausea (10% vs 4%)‚ vomiting (7% vs 3%)‚ hypertension (4% vs 0%)‚ rash (12% vs 10%)‚ and peritonitis (2% vs 0%).
+In the randomized studies of BMT involving 167 patients who received study drug‚ the following events occurred more frequently in patients treated with filgrastim than in controls: nausea (10% vs 4%)‚ vomiting (7% vs 3%)‚ hypertension (4% vs 0%)‚ rash (12% vs 10%)‚ and peritonitis (2% vs 0%).
 None of these events were reported by the investigator to be related to NEUPOGEN®.
 One event of erythema nodosum was reported moderate in severity and possibly related to NEUPOGEN®.
 
-Generally‚ adverse events observed in nonrandomized studies were similar to those seen in randomized studies‚ occurred in a minority of patients, and were of mild-to-moderate severity.
+Generally‚ adverse events observed in nonrandomized studies were similar to those seen in randomized studies‚ occurred in a minority of patients and were of mild-to-moderate severity.
 In one study (n = 45)‚ 3 serious adverse events reported by the investigator were considered possibly related to NEUPOGEN®.
 These included 2 events of renal insufficiency and 1 event of capillary leak syndrome.
 The relationship of these events to NEUPOGEN® remains unclear since they occurred in patients with culture-proven infection with clinical sepsis who were receiving potentially nephrotoxic antibacterial and antifungal therapy.
@@ -102,7 +102,7 @@ An additional 5% of patients had platelet counts between 50‚000 and 100‚000/
 There were no associated serious hemorrhagic sequelae in these patients.
 Epistaxis was noted in 15% of patients treated with NEUPOGEN®, but was associated with thrombocytopenia in 2% of patients.
 Anemia was reported in approximately 10% of patients‚ but in most cases appeared to be related to frequent diagnostic phlebotomy‚ chronic illness, or concomitant medications.
-Other adverse events infrequently observed and possibly related to NEUPOGEN® therapy were: injection site reaction‚ rash‚ hepatomegaly‚ arthralgia‚ osteoporosis‚ cutaneous vasculitis‚ hematuria/proteinuria‚ alopecia‚ and exacerbation of some pre-existing skin disorders (eg‚ psoriasis).
+Other adverse events infrequently observed and possibly related to NEUPOGEN® therapy were: injection site reaction‚ rash‚ hepatomegaly‚ arthralgia‚ osteoporosis‚ cutaneous vasculitis‚ hematuria/proteinuria‚ alopecia‚ and exacerbation of some pre-existing skin disorders (e.g.‚ psoriasis).
 
 Cytogenetic abnormalities, transformation to MDS, and AML have been observed in patients treated with NEUPOGEN® for SCN (see WARNINGS, PRECAUTIONS: Pediatric Use).
 As of 31 December 1997, data were available from a postmarketing surveillance study of 531 SCN patients with an average follow-up of 4.0 years.
@@ -125,3 +125,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - sickle cell crisis (see WARNINGS: Sickle Cell Disorders)
 - cutaneous vasculitis (see PRECAUTIONS: Cutaneous Vasculitis)
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis)
+- decreased bone density and osteoporosis in pediatric SCN patients receiving chronic treatment with NEUPOGEN®.

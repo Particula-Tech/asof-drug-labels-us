@@ -1,25 +1,25 @@
 # CLINICAL PHARMACOLOGY
 
-## Colony-stimulating Factors
+## Colony-Stimulating Factors
 
 Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation.
 
 Endogenous G-CSF is a lineage specific colony-stimulating factor which is produced by monocytes‚ fibroblasts, and endothelial cells.
 G-CSF regulates the production of neutrophils within the bone marrow and affects neutrophil progenitor proliferation‚2‚3 differentiation,2‚4 and selected end-cell functional activation (including enhanced phagocytic ability‚5 priming of the cellular metabolism associated with respiratory burst‚6 antibody dependent killing,7 and the increased expression of some functions associated with cell surface antigens8).
-G-CSF is not species specific and has been shown to have minimal direct in vivo or in vitro effects on the production of hematopoietic cell types other than the neutrophil lineage.
+G-CSF is not species-specific and has been shown to have minimal direct in vivo or in vitro effects on the production of hematopoietic cell types other than the neutrophil lineage.
 
 ## Preclinical Experience
 
 Filgrastim was administered to monkeys‚ dogs‚ hamsters‚ rats‚ and mice as part of a preclinical toxicology program which included single-dose acute‚ repeated-dose subacute‚ subchronic‚ and chronic studies.
-Single-dose administration of Filgrastim by the oral‚ intravenous (IV)‚ subcutaneous (SC)‚ or intraperitoneal (IP) routes resulted in no significant toxicity in mice‚ rats‚ hamsters‚ or monkeys.
+Single-dose administration of filgrastim by the oral‚ intravenous (IV)‚ subcutaneous (SC)‚ or intraperitoneal (IP) routes resulted in no significant toxicity in mice‚ rats‚ hamsters‚ or monkeys.
 Although no deaths were observed in mice‚ rats‚ or monkeys at dose levels up to 3450 mcg/kg or in hamsters using single doses up to approximately 860 mcg/kg‚ deaths were observed in a subchronic (13-week) study in monkeys.
-In this study‚ evidence of neurological symptoms was seen in monkeys treated with doses of Filgrastim greater than 1150 mcg/kg/day for up to 18 days.
+In this study‚ evidence of neurological symptoms was seen in monkeys treated with doses of filgrastim greater than 1150 mcg/kg/day for up to 18 days.
 Deaths were seen in 5 of the 8 treated animals and were associated with 15- to 28-fold increases in peripheral leukocyte counts‚ and neutrophil-infiltrated hemorrhagic foci were seen in both the cerebrum and cerebellum.
-In contrast‚ no monkeys died following 13 weeks of daily IV administration of Filgrastim at a dose level of 115 mcg/kg.
-In an ensuing 52-week study‚ one 115 mcg/kg dosed female monkey died after 18 weeks of daily IV administration of Filgrastim.
+In contrast‚ no monkeys died following 13 weeks of daily IV administration of filgrastim at a dose level of 115 mcg/kg.
+In an ensuing 52-week study‚ one 115 mcg/kg dosed female monkey died after 18 weeks of daily IV administration of filgrastim.
 Death was attributed to cardiopulmonary insufficiency.
 
-In subacute‚ repeated-dose studies‚ changes observed were attributable to the expected pharmacological actions of Filgrastim (ie‚ dose-dependent increases in white cell counts‚ increased circulating segmented neutrophils‚ and increased myeloid:erythroid ratio in bone marrow).
+In subacute‚ repeated-dose studies‚ changes observed were attributable to the expected pharmacological actions of filgrastim (ie‚ dose-dependent increases in white cell counts‚ increased circulating segmented neutrophils‚ and increased myeloid:erythroid ratio in bone marrow).
 In all species‚ histopathologic examination of the liver and spleen revealed evidence of ongoing extramedullary granulopoiesis; increased spleen weights were seen in all species and appeared to be dose-related.
 A dose-dependent increase in serum alkaline phosphatase was observed in rats‚ and may reflect increased activity of osteoblasts and osteoclasts.
 Changes in serum chemistry values were reversible following discontinuation of treatment.
@@ -30,7 +30,7 @@ In rats‚ osteoclasis and osteoanagenesis were found in the femur‚ humerus‚
 These effects reversed to normal within 4 to 5 weeks following cessation of treatment.
 
 In the 52-week chronic‚ repeated-dose studies performed in rats (IP injection up to 57.5 mcg/kg/day)‚ and cynomolgus monkeys (IV injection of up to 115 mcg/kg/day)‚ changes observed were similar to those noted in the subacute studies.
-Expected pharmacological actions of Filgrastim included dose-dependent increases in white cell counts‚ increased circulating segmented neutrophils and alkaline phosphatase levels‚ and increased myeloid:erythroid ratios in the bone marrow.
+Expected pharmacological actions of filgrastim included dose-dependent increases in white cell counts‚ increased circulating segmented neutrophils and alkaline phosphatase levels‚ and increased myeloid:erythroid ratios in the bone marrow.
 Decreases in platelet counts were also noted in primates.
 In no animals tested were hemorrhagic complications observed.
 Rats displayed dose-related swelling of the hind limb‚ accompanied by some degree of hind limb dysfunction; osteopathy was noted microscopically.
@@ -38,7 +38,7 @@ Enlarged spleens (both species) and livers (monkeys)‚ reflective of ongoing ex
 
 ## Pharmacologic Effects of NEUPOGEN®
 
-In phase 1 studies involving 96 patients with various nonmyeloid malignancies‚ NEUPOGEN® administration resulted in a dose-dependent increase in circulating neutrophil counts over the dose range of 1 to 70 mcg/kg/day.9-11 This increase in neutrophil counts was observed whether NEUPOGEN® was administered IV (1 to 70 mcg/kg twice daily)‚9 SC (1 to 3 mcg/kg once daily)‚11 or by continuous SC infusion (3 to 11 mcg/kg/day).10 With discontinuation of NEUPOGEN® therapy‚ neutrophil counts returned to baseline‚ in most cases within 4 days.
+In phase 1 studies involving 96 patients with various nonmyeloid malignancies‚ NEUPOGEN® administration resulted in a dose-dependent increase in circulating neutrophil counts over the dose range of 1 to 70 mcg/kg/day.9-11 This increase in neutrophil counts was observed whether NEUPOGEN® was administered IV (1 to 70 mcg/kg twice daily)‚9 SC (1 to 3 mcg/kg once daily)‚11 or by continuous SC infusion (3 to 11 mcg/kg/day).10 With discontinuation of NEUPOGEN® therapy‚ neutrophil counts returned to baseline in most cases within 4 days.
 Isolated neutrophils displayed normal phagocytic (measured by zymosan-stimulated chemoluminescence) and chemotactic (measured by migration under agarose using N-formyl-methionyl-leucyl-phenylalanine [fMLP] as the chemotaxin) activity in vitro.
 
 The absolute monocyte count was reported to increase in a dose-dependent manner in most patients receiving NEUPOGEN®; however‚ the percentage of monocytes in the differential count remained within the normal range.
@@ -52,7 +52,7 @@ Such changes were transient and were not associated with clinical sequelae, nor 
 ## Pharmacokinetics
 
 Absorption and clearance of NEUPOGEN® follows first-order pharmacokinetic modeling without apparent concentration dependence.
-A positive linear correlation occurred between the parenteral dose and both the serum concentration and area under the concentration-time curves.
+A positive linear correlation occurred between the parenteral dose and both the serum concentration and area-under-the-concentration-time curves.
 Continuous IV infusion of 20 mcg/kg of NEUPOGEN® over 24 hours resulted in mean and median serum concentrations of approximately 48 and 56 ng/mL‚ respectively.
 Subcutaneous administration of 3.45 mcg/kg and 11.5 mcg/kg resulted in maximum serum concentrations of 4 and 49 ng/mL‚ respectively‚ within 2 to 8 hours.
 The volume of distribution averaged 150 mL/kg in both normal subjects and cancer patients.
