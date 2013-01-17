@@ -229,7 +229,7 @@ Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhi
 This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, may result in deterioration of renal function, including possible acute renal failure.
-Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+These effects are usually reversible.
 
 #### Aspirin
 

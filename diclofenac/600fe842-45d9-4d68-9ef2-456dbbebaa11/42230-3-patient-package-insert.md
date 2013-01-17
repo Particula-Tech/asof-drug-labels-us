@@ -66,4 +66,4 @@ See your doctor if you have questions.
 Keep out of reach of children.
 
 This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com
+For current full prescribing information, please visit www.pfizer.com.
