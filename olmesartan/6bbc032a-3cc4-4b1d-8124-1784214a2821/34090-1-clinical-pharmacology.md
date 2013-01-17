@@ -92,10 +92,10 @@ The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not b
 
 Hepatic Insufficiency: Increases in AUC0-∞ and Cmax for olmesartan were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
 
-Drug Interactions: See PRECAUTIONS, Drug Interactions.
+Drug Interactions: See PRECAUTIONS: Drug Interactions
 
 Drug interaction with bile acid sequestering agent colesevelam Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
-Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride (see PRECAUTIONS, Drug Interactions).
+Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride (see PRECAUTIONS: Drug Interactions).
 
 ## Pharmacodynamics
 
