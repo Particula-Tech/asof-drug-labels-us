@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091404"
+  ],
+  "inn": "meropenem",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-507-21",
+    "63323-508-31"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "meropenem",
+      "name": "Meropenem"
+    }
+  ],
+  "setid": "12714f80-d6e5-4453-b66c-62f57c16ddfc",
+  "source": "dailymed"
+}
