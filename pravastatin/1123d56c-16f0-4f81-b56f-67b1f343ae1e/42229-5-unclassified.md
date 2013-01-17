@@ -1,5 +1,0 @@
-Pravastatin Sodium Tablets USP
-
-10 mg, 20 mg, 40 mg & 80 mg
-
-Rx only

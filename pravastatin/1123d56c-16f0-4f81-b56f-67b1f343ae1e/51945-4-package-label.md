@@ -1,25 +1,41 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Pravastatin Sodium Tablets USP
+PRAVASTATIN SODIUM TABLETS USP
 
-10 mg – Bottle of 90s
+10 mg
 
-NDC 68180-485-09 bottles of 90
+Rx Only
 
-Pravastatin Sodium Tablets USP
+NDC 68180-485-09
 
-20 mg – Bottle of 90s
+90 Tablets
 
-NDC 68180-486-09 bottles of 90
+PRAVASTATIN SODIUM TABLETS USP
 
-Pravastatin Sodium Tablets USP
+20 mg
 
-40 mg – Bottle of 90s
+Rx Only
 
-NDC 68180-487-09 bottles of 90
+NDC 68180-486-09
 
-Pravastatin Sodium Tablets USP
+90 Tablets
 
-80 mg – Bottle of 90s
+PRAVASTATIN SODIUM TABLETS USP
 
-NDC 68180-488-09 bottles of 90
+40 mg
+
+Rx Only
+
+NDC 68180-487-09
+
+90 Tablets
+
+PRAVASTATIN SODIUM TABLETS USP
+
+80 mg
+
+Rx Only
+
+NDC 68180-488-09
+
+90 Tablets
