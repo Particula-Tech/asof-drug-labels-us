@@ -57,7 +57,7 @@ Like all medicines, ACZONE® Gel can cause some side effects.
 The most common side effects of ACZONE® Gel are dryness, redness, oiliness and peeling of the skin being treated.
 
 When the active ingredient of ACZONE® Gel (called dapsone) is taken orally as a pill, it has been related to the abnormal breakdown of red blood cells (hemolytic anemia).
-If you have glucose-6-phoshate dehydrogenase deficiency, you may have a greater risk for lowering your hemoglobin level.
+If you have glucose-6-phosphate dehydrogenase deficiency, you may have a greater risk for lowering your hemoglobin level.
 However, using ACZONE® Gel on the skin is not expected to put enough dapsone in the blood to cause clinical symptoms of hemolytic anemia.
 You are advised to be alert for signs and symptoms suggestive of this type of anemia (sudden onset of: back pain, breathlessness, tiredness/weakness with daily activities, dark-brown urine, high fever and yellow or pale skin).
 If you experience these signs and symptoms, stop use and call your doctor immediately.
@@ -70,7 +70,7 @@ If you have any questions, ask your doctor or pharmacist.
 
 How should I store ACZONE® Gel?
 
-Store ACZONE® Gel at room temperature 68 to 77ºF.
+Store ACZONE® Gel at room temperature 68º to 77ºF.
 Do not freeze ACZONE® Gel.
 
 Keep ACZONE® Gel out of the reach of children less than 12 years of age.
@@ -85,6 +85,6 @@ You may call 1-800-433-8871 to obtain more information about ACZONE® Gel.
 
 ACZONE® (dapsone) Gel, 5%
 
-© 2011 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 5,863,560; 6,060,085; and 6,620,435 Made in the U.S.A.
+© 2013 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 5,863,560; 6,060,085; and 6,620,435 Made in the U.S.A.
 
-72205US12C
+72205US11B
