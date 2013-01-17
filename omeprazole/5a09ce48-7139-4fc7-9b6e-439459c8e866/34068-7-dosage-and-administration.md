@@ -63,15 +63,10 @@ Alternative administrative options can be used for pediatric patients unable to 
 
 Omeprazole is available as a delayed-release capsule.
 
-For patients who have difficulty swallowing capsules, the contents of a omeprazole delayed-release capsule can be added to applesauce.
+For patients who have difficulty swallowing capsules, the contents of an omeprazole delayed-release capsule can be added to applesauce.
 One tablespoon of applesauce should be added to an empty bowl and the capsule should be opened.
 All of the pellets inside the capsule should be carefully emptied on the applesauce.
 The pellets should be mixed with the applesauce and then swallowed immediately with a glass of cool water to ensure complete swallowing of the pellets.
 The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
 The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
-
-## 2.9 Use with Clopidogrel
-
-Avoid concomitant use of clopidogrel and omeprazole.
-Co-administration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [see WARNINGS AND PRECAUTIONS (5.4) AND DRUG INTERACTIONS (7.3)].

@@ -44,8 +44,7 @@ Because omeprazole is excreted in human milk, because of the potential for serio
 ## 8.4 Pediatric Use
 
 Use of omeprazole in pediatric and adolescent patients 2 to 16 years of age for the treatment of GERD is supported by a) extrapolation of results, already included in the currently approved labeling, from adequate and well-controlled studies that supported the approval of omeprazole for adults, and b) safety and pharmacokinetic studies performed in pediatric and adolescent patients.
-[See CLINICAL PHARMACOLOGY, PHARMACOKINETICS, PEDIATRIC FOR PHARMACOKINETIC INFORMATION (12.3) AND DOSAGE AND ADMINISTRATION (2).
-ADVERSE REACTIONS (6.1) AND CLINICAL STUDIES, (14.6)].
+[See CLINICAL PHARMACOLOGY, PHARMACOKINETICS, PEDIATRIC FOR PHARMACOKINETIC INFORMATION (12.3) AND DOSAGE AND ADMINISTRATION (2), ADVERSE REACTIONS (6.1) AND CLINICAL STUDIES, (14.6)].
 The safety and effectiveness of omeprazole for the treatment of GERD in patients < 1 year of age have not been established.
 The safety and effectiveness of omeprazole for other pediatric uses have not been established.
 

@@ -26,7 +26,7 @@ Dose reduction of saquinavir should be considered from the safety perspective fo
 
 There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
 
-## 7.2 Drugs for Which Gastric pH can Affect Bioavailability
+## 7.2 Drugs for which Gastric pH can Affect Bioavailability
 
 Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability.
 Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, ampicillin esters, iron salts and erlotinib can decrease, while the absorption of drugs such as digoxin can increase during treatment with omeprazole.
@@ -63,14 +63,9 @@ Clopidogrel
 
 Omeprazole is an inhibitor of CYP2C19 enzyme.
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see WARNINGS AND PRECAUTIONS (5.4)].
-
-In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as clopidogrel) for 5 days.
-The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when clopidogrel and omeprazole were administered together.
-The active metabolite of clopidogrel selectively and irreversibly inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y12 receptor, thereby inhibiting platelet aggregation.
-The mean inhibition of platelet aggregation at 5 mcM ADP was diminished by 39% (Day 1) and 21% (Day 5) when clopidogrel and omeprazole were administered together.
-
-In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see WARNINGS AND PRECAUTIONS (5.4)].
+Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+Avoid concomitant administration of omeprazole with clopidogrel.
+When using omeprazole, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
 
 There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel.
 
@@ -78,12 +73,17 @@ There are no adequate combination studies of a lower dose of omeprazole or a hig
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
 
-## 7.5 Interactions With Investigations of Neuroendocrine Tumors
+## 7.5 Interactions with Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
-[see WARNINGS AND PRECAUTIONS (5.7) AND CLINICAL PHARMACOLOGY (12)].
+[see WARNINGS AND PRECAUTIONS (5.8) AND CLINICAL PHARMACOLOGY (12)].
 
-## 7.6 Methotrexate
+## 7.6 Combination Therapy with Clarithromycin
+
+Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interactions [see WARNINGS AND PRECAUTIONS in prescribing information for clarithromycin].
+Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [see CONTRAINDICATIONS in prescribing information for clarithromycin].
+
+## 7.7 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see WARNINGS AND PRECAUTIONS (5.10)].
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see WARNINGS AND PRECAUTIONS (5.9)].

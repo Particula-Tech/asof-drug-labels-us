@@ -53,7 +53,7 @@ For a given patient, H. pylori was considered eradicated if at least two of thes
 
 The combination of omeprazole plus clarithromycin plus amoxicillin was effective in eradicating H. pylori.
 
-Table 6
+Table 5
 
 |  | Per-Protocol Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-Treat Patients were included in the analysis if they had documented H. pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
 | --- | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ Table 6
 
 Dual Therapy (omeprazole/clarithromycin)
 
-Four randomized, double-blind, multi-center studies (4, 5, 6, and 7) evaluated omeprazole 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days, followed by omeprazole 20 mg once daily, (studies 4, 5, and 7) or by omeprazole 40 mg once daily (Study 6) for an additional 14 days in patients with active duodenal ulcer associated with H. pylori.
+Four randomized, double-blind, multi-center studies (4, 5, 6, and 7) evaluated omeprazole 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days, followed by omeprazole 20 mg once daily, (Studies 4, 5, and 7) or by omeprazole 40 mg once daily (Study 6) for an additional 14 days in patients with active duodenal ulcer associated with H. pylori.
 Studies 4 and 5 were conducted in the U.S. and Canada and enrolled 242 and 256 patients, respectively.
 H. pylori infection and duodenal ulcer were confirmed in 219 patients in Study 4 and 228 patients in Study 5.
 These studies compared the combination regimen to omeprazole and clarithromycin monotherapies.
@@ -78,7 +78,7 @@ In the per-protocol analysis, the following patients were excluded: dropouts, pa
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori.
 
-Table 7
+Table 6
 
 |  | Omeprazole + Clarithromycin | Omeprazole | Clarithromycin |
 | --- | --- | --- | --- |
@@ -94,7 +94,7 @@ Ulcer healing was not significantly different when clarithromycin was added to o
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori and reduced duodenal ulcer recurrence.
 
-Table 8
+Table 7
 
 | Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status% of Patients with Ulcer Recurrence |  |  |
 | --- | --- | --- |
