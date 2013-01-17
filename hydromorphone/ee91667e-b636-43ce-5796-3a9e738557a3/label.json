@@ -1,14 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019034"
+  ],
   "inn": "hydromorphone",
-  "labeler": "Abbott Laboratories",
+  "labeler": "AbbVie Inc.",
   "package_ndcs": [
-    " 0074-2453-11",
+    "0074-2453-11",
     "0074-2453-27",
     "0074-2453-51",
     "0074-2455-31"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Dilaudid-HP"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Dilaudid-HP"
+    }
+  ],
   "setid": "ee91667e-b636-43ce-5796-3a9e738557a3",
   "source": "dailymed"
 }

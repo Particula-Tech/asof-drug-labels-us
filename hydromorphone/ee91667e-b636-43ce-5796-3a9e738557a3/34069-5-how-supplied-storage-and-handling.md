@@ -29,5 +29,3 @@ Manufactured by
 Hospira, Inc., Lake Forest, IL 60045, U.S.A.
 
 for
-
-Abbott Laboratories, North Chicago, IL 60064, U.S.A.
