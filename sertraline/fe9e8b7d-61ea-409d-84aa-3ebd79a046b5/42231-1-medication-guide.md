@@ -29,8 +29,7 @@ ZOLOFT and other antidepressant medicines may cause serious side effects, includ
     - trouble sleeping
     - an increase in activity or talking more than what is normal for you
     - other unusual changes in behavior or mood
-- 2.Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
-  This condition can be life-threatening and may include:
+- 2.Serotonin Syndrome This condition can be life-threatening and may include:
   - agitation, hallucinations, coma or other changes in mental status
   - coordination problems or muscle twitching (overactive reflexes)
   - racing heartbeat, high or low blood pressure
@@ -91,12 +90,12 @@ Do not take ZOLOFT if you:
   See the end of this Medication Guide for a complete list of ingredients in ZOLOFT.
 - take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
 - take Antabuse® (disulfiram) (if you are taking the liquid form of ZOLOFT) due to the alcohol content.
-- take a Monoamine Oxidase Inhibitor (MAOI).
+- take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- Do not take an MAOI within 2 weeks of stopping ZOLOFT unless directed to do so by your physician.
+- Do not start ZOLOFT if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
   People who take ZOLOFT close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
-  - Do not take an MAOI within 2 weeks of stopping ZOLOFT.
-  - Do not start ZOLOFT if you stopped taking an MAOI in the last 2 weeks.
   - high fever
   - uncontrolled muscle spasms
   - stiff muscles
@@ -248,6 +247,6 @@ Inactive ingredients
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-LAB-0540-2.0
+LAB-0540-3.0
 
-August 2011
+December 2012

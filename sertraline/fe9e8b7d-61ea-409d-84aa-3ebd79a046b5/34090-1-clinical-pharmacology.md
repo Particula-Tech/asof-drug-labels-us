@@ -144,7 +144,7 @@ Study 3 was not readily interpretable regarding a dose response relationship for
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age, race, or gender.
 
 In a longer-term study, patients meeting DSM-III-R criteria for Panic Disorder who had responded during a 52-week open trial on ZOLOFT 50–200 mg/day (n=183) were randomized to continuation of ZOLOFT or to substitution of placebo for up to 28 weeks of observation for discontinuation due to relapse or insufficient clinical response.
-Response during the open phase was defined as a CGI-I score of 1 (very much improved) or 2 (much improved).
+Response during the open phase was defined as a CGI-I score of 1(very much improved) or 2 (much improved).
 Relapse during the double-blind phase was defined as the following conditions being met on three consecutive visits: (1) CGI-I ≥ 3; (2) meets DSM-III-R criteria for Panic Disorder; (3) number of panic attacks greater than at baseline.
 Insufficient clinical response indicated a worsening of the patient's condition that resulted in study discontinuation, as assessed by the investigator.
 Patients receiving continued ZOLOFT treatment experienced a significantly lower rate of discontinuation due to relapse or insufficient clinical response over the subsequent 28 weeks compared to those receiving placebo.
@@ -186,7 +186,7 @@ Patients on oral contraceptives were excluded from these trials; therefore, the 
 Efficacy was assessed with the Daily Record of Severity of Problems (DRSP), a patient-rated instrument that mirrors the diagnostic criteria for PMDD as identified in the DSM-IV, and includes assessments for mood, physical symptoms, and other symptoms.
 Other efficacy assessments included the Hamilton Depression Rating Scale (HAMD-17), and the Clinical Global Impression Severity of Illness (CGI-S) and Improvement (CGI-I) scores.
 
-In Study 1, involving n=251 randomized patients, ZOLOFT treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
+In Study 1, involving n=251 randomized patients; ZOLOFT treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
 In subsequent cycles, patients were dosed in the range of 50–150 mg/day on the basis of clinical response and toleration.
 The mean dose for completers was 102 mg/day.
 ZOLOFT administered daily throughout the menstrual cycle was significantly more effective than placebo on change from baseline to endpoint on the DRSP total score, the HAMD-17 total score, and the CGI-S score, as well as the CGI-I score at endpoint.

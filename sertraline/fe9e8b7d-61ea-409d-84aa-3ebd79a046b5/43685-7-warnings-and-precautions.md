@@ -53,31 +53,23 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that ZOLOFT is not approved for use in treating bipolar depression.
 
-Cases of serious sometimes fatal reactions have been reported in patients receiving ZOLOFT (sertraline hydrochloride), a selective serotonin reuptake inhibitor (SSRI), in combination with a monoamine oxidase inhibitor (MAOI).
-Symptoms of a drug interaction between an SSRI and an MAOI include: hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, mental status changes that include confusion, irritability, and extreme agitation progressing to delirium and coma.
-These reactions have also been reported in patients who have recently discontinued an SSRI and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Therefore, ZOLOFT should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
-Similarly, at least 14 days should be allowed after stopping ZOLOFT before starting an MAOI.
+### Serotonin Syndrome
 
-The concomitant use of ZOLOFT with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS – Potential for Interaction with Monoamine Oxidase Inhibitors).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including ZOLOFT, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-### Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including ZOLOFT treatment, but particularly with concomitant use of serotonergic drugs (including triptans and fentanyl) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The concomitant use of ZOLOFT with MAOIs intended to treat psychiatric disorders is contraindicated.
+ZOLOFT should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking ZOLOFT.
+ZOLOFT should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-The concomitant use of ZOLOFT with MAOIs intended to treat depression is contraindicated.
+If concomitant use of ZOLOFT with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
-If concomitant treatment of ZOLOFT with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-
-The concomitant use of ZOLOFT with serotonin precursors (such as tryptophan) is not recommended.
-
-Treatment with ZOLOFT and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
-
-Co-administration of ZOLOFT with other drugs which enhance the effects of serotonergic neurotransmission, such as tryptophan, fenfluramine, fentanyl, 5-HT agonists, or the herbal medicine St. John's Wort (hypericum perforatum) should be undertaken with caution and avoided whenever possible due to the potential for pharmacodynamic interaction.
+Treatment with ZOLOFT and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
 
@@ -97,7 +89,7 @@ Only rarely have sertraline patients been discontinued for weight loss.
 ZOLOFT has not been evaluated in patients with a seizure disorder.
 These patients were excluded from clinical studies during the product's premarket testing.
 No seizures were observed among approximately 3000 patients treated with ZOLOFT in the development program for major depressive disorder.
-However, 4 patients out of approximately 1800 (220 <18 years of age) exposed during the development program for obsessive-compulsive disorder experienced seizures, representing a crude incidence of 0.2%.
+However, 4 patients out of approximately 1800 (220<18 years of age) exposed during the development program for obsessive-compulsive disorder experienced seizures, representing a crude incidence of 0.2%.
 Three of these patients were adolescents, two with a seizure disorder and one with a family history of seizure disorder, none of whom were receiving anticonvulsant medication.
 Accordingly, ZOLOFT should be introduced with care in patients with a seizure disorder.
 
@@ -149,8 +141,7 @@ Based on the pharmacokinetic results, there is no need for dosage adjustment in 
 
 ### Interference with Cognitive and Motor Performance
 
-In controlled studies, ZOLOFT did not cause sedation and did not interfere with psychomotor performance.
-(See Information for Patients.)
+In controlled studies, ZOLOFT did not cause sedation and did not interfere with psychomotor performance (See Information for Patients).
 
 ### Hyponatremia
 
@@ -272,7 +263,7 @@ The duration of an appropriate washout period which should intervene before swit
 
 ### Monoamine Oxidase Inhibitors
 
-See CONTRAINDICATIONS and WARNINGS.
+See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
 
 ### Drugs Metabolized by P450 3A4
 
@@ -293,8 +284,7 @@ Furthermore, whenever ZOLOFT is withdrawn from co-therapy, an increased dose of 
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including ZOLOFT, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including ZOLOFT, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome).
-The concomitant use of ZOLOFT with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS – Drug Interactions).
+See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
 
 ### Triptans
 
@@ -366,7 +356,9 @@ Sertraline had no genotoxic effects, with or without metabolic activation, based
 
 A decrease in fertility was seen in one of two rat studies at a dose of 80 mg/kg (4 times the maximum recommended human dose on a mg/m2 basis).
 
-## Pregnancy–Pregnancy Category C
+## Pregnancy
+
+### Pregnancy Category C
 
 Reproduction studies have been performed in rats and rabbits at doses up to 80 mg/kg/day and 40 mg/kg/day, respectively.
 These doses correspond to approximately 4 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
@@ -381,23 +373,26 @@ The clinical significance of these effects is unknown.
 There are no adequate and well-controlled studies in pregnant women.
 ZOLOFT (sertraline hydrochloride) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Pregnancy-Nonteratogenic Effects
+## Pregnancy
 
-Neonates exposed to ZOLOFT and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-These findings are based on post marketing reports.
+### Nonteratogenic Effects
+
+Neonates exposed to ZOLOFT and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome).
 
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1–2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately sixfold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1 – 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including ZOLOFT) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
 
-When treating a pregnant woman with ZOLOFT during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic in the context of antidepressant therapy at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+
+When treating a pregnant woman with ZOLOFT, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
+This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION).
 
 ## Labor and Delivery
 

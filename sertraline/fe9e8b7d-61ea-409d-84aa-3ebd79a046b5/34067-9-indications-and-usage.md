@@ -17,7 +17,7 @@ The usefulness of the drug in patients receiving ZOLOFT for extended periods sho
 
 ZOLOFT is indicated for the treatment of obsessions and compulsions in patients with obsessive-compulsive disorder (OCD), as defined in the DSM-III-R; i.e., the obsessions or compulsions cause marked distress, are time-consuming, or significantly interfere with social or occupational functioning.
 
-The efficacy of ZOLOFT was established in 12-week trials with obsessive-compulsive outpatients having diagnoses of obsessive-compulsive disorder as defined according to DSM-III or DSM-III-R criteria (seeClinical Trials under CLINICAL PHARMACOLOGY).
+The efficacy of ZOLOFT was established in 12-week trials with obsessive-compulsive outpatients having diagnoses of obsessive-compulsive disorder as defined according to DSM-III or DSM-III-R criteria (see Clinical Trials under CLINICAL PHARMACOLOGY).
 
 Obsessive-compulsive disorder is characterized by recurrent and persistent ideas, thoughts, impulses, or images (obsessions) that are ego-dystonic and/or repetitive, purposeful, and intentional behaviors (compulsions) that are recognized by the person as excessive or unreasonable.
 
