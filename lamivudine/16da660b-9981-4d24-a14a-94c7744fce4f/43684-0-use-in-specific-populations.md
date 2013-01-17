@@ -4,7 +4,7 @@
 
 Pregnancy Category C.
 
-Fetal Risk Summary: There are no adequate and well-controlled studies of COMBIVIR (lamivudine and zidovudine) in pregnant women.
+Fetal Risk Summary: There are no adequate and well-controlled trials of COMBIVIR (lamivudine and zidovudine) in pregnant women.
 Clinical trial data demonstrate that maternal zidovudine treatment during pregnancy reduces vertical transmission of HIV-1 infection to the fetus.
 Animal reproduction studies performed with lamivudine and zidovudine showed increased embryotoxicity and fetal malformations (zidovudine), and increased embryolethality (lamivudine).
 COMBIVIR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -22,8 +22,8 @@ No dose adjustments are needed during pregnancy.
 In a clinical trial, adverse events among HIV-1-infected women were not different among untreated women and women treated with zidovudine.
 It is not known whether risks of adverse events associated with lamivudine are altered in pregnant women compared with other HIV-1-infected patients (see Human data below).
 
-Data:Human Data: Lamivudine: Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical studies conducted in South Africa.
-The study assessed pharmacokinetics in: 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
+Data:Human Data: Lamivudine: Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
+The trial assessed pharmacokinetics in: 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in nonpregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 
@@ -31,9 +31,9 @@ Zidovudine: A randomized, double-blind, placebo-controlled trial was conducted i
 Zidovudine treatment during pregnancy reduced the rate of maternal-fetal HIV-1 transmission from 24.9% for infants born to placebo-treated mothers to 7.8% for infants born to mothers treated with zidovudine.
 There were no differences in pregnancy-related adverse events between the treatment groups.
 Congenital abnormalities occurred with similar frequency between neonates born to mothers who received zidovudine and neonates born to mothers who received placebo.
-The observed abnormalities included problems in embryogenesis (prior to 14 weeks) or were recognized on ultrasound before or immediately after initiation of study drug [see Clinical Studies (14.2)].
+The observed abnormalities included problems in embryogenesis (prior to 14 weeks) or were recognized on ultrasound before or immediately after initiation of trial drug [see Clinical Studies (14.2)].
 
-Zidovudine pharmacokinetics were studied in a Phase 1 study of 8 women during the last trimester of pregnancy.
+Zidovudine pharmacokinetics were studied in a Phase 1 trial of 8 women during the last trimester of pregnancy.
 As pregnancy progressed, there was no evidence of drug accumulation.
 The pharmacokinetics of zidovudine were similar to that of nonpregnant adults.
 Consistent with passive transmission of the drug across the placenta, zidovudine concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery.
@@ -54,9 +54,9 @@ However, there were no signs of teratogenicity at doses up to one-fifth the leth
 The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 Because of both the potential for HIV-1 transmission and serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving COMBIVIR.
 
-Although no studies of COMBIVIR excretion in breast milk have been performed, lactation studies performed with lamivudine and zidovudine show that both drugs are excreted in human breast milk.
+Although no trials of COMBIVIR excretion in breast milk have been performed, lactation trials performed with lamivudine and zidovudine show that both drugs are excreted in human breast milk.
 Samples of breast milk obtained from 20 mothers receiving lamivudine monotherapy (300 mg twice daily) or combination therapy (150 mg lamivudine twice daily and 300 mg zidovudine twice daily) had measurable concentrations of lamivudine.
-In another study, after administration of a single dose of 200 mg zidovudine to 13 HIV-1-infected women, the mean concentration of zidovudine was similar in human milk and serum.
+In another trial, after administration of a single dose of 200 mg zidovudine to 13 HIV‑1‑infected women, the mean concentration of zidovudine was similar in human milk and serum.
 
 ## 8.4 Pediatric Use
 
@@ -64,7 +64,7 @@ COMBIVIR should not be administered to pediatric patients weighing less than 30 
 
 ## 8.5 Geriatric Use
 
-Clinical studies of COMBIVIR did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical trials of COMBIVIR did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 COMBIVIR is not recommended for patients with impaired renal function (i.e., creatinine clearance less than 50 mL/min) because it is a fixed-dose combination that cannot be adjusted.
 

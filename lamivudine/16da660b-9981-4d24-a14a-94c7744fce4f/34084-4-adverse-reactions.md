@@ -2,17 +2,17 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Hematologic toxicity, including neutropenia and anemia [see Boxed Warning, Warnings and Precautions (5.1)].
-- •Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)].
-- •Lactic acidosis and hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
-- •Acute exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.4)].
-- •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.6)].
-- •Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions (5.6)].
-- •Pancreatitis [see Warnings and Precautions (5.7)].
+- Hematologic toxicity, including neutropenia and anemia [see Boxed Warning, Warnings and Precautions (5.1)].
+- Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)].
+- Lactic acidosis and hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
+- Acute exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.4)].
+- Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.6)].
+- Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions (5.6)].
+- Pancreatitis [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Lamivudine Plus Zidovudine Administered As Separate Formulations: In 4 randomized, controlled trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day, the following selected adverse reactions and laboratory abnormalities were observed (see Tables 1 and 2).
 
@@ -48,7 +48,7 @@ Selected Clinical Adverse Reactions (≥5% Frequency) in 4 Controlled Clinical T
 | Myalgia | 8% |
 | Arthralgia | 5% |
 
-Pancreatitis was observed in 9 of the 2,613 adult patients (0.3%) who received EPIVIR in controlled clinical trials [see Warnings and Precautions (5.7)].
+Pancreatitis was observed in 9 of the 2,613 adult subjects (0.3%) who received EPIVIR in controlled clinical trials [see Warnings and Precautions (5.7)].
 
 Selected laboratory abnormalities observed during therapy are listed in Table 2.
 
@@ -66,8 +66,8 @@ Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Cl
 | Amylase (>2.0 x ULN) | 4.2% (72) |
 | ULN = Upper limit of normal. |  |
 | ANC = Absolute neutrophil count. |  |
-| n = Number of patients assessed. |  |
-| a Frequencies of these laboratory abnormalities were higher in patients with mild laboratory abnormalities at baseline. |  |
+| n = Number of subjects assessed. |  |
+| a Frequencies of these laboratory abnormalities were higher in subjects with mild laboratory abnormalities at baseline. |  |
 
 ## 6.2 Postmarketing Experience
 

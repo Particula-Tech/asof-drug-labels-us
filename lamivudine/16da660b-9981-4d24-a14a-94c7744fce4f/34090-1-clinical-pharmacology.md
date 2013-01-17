@@ -8,14 +8,14 @@ COMBIVIR is an antiviral agent [see Clinical Pharmacology (12.4)].
 
 Pharmacokinetics in Adults:COMBIVIR: One COMBIVIR Tablet was bioequivalent to 1 EPIVIR Tablet (150 mg) plus 1 RETROVIR Tablet (300 mg) following single-dose administration to fasting healthy subjects (n = 24).
 
-Lamivudine: The pharmacokinetic properties of lamivudine in fasting patients are summarized in Table 3.
+Lamivudine: The pharmacokinetic properties of lamivudine in fasting subjects are summarized in Table 3.
 Following oral administration, lamivudine is rapidly absorbed and extensively distributed.
 Binding to plasma protein is low.
 Approximately 70% of an intravenous dose of lamivudine is recovered as unchanged drug in the urine.
 Metabolism of lamivudine is a minor route of elimination.
 In humans, the only known metabolite is the trans-sulfoxide metabolite (approximately 5% of an oral dose after 12 hours).
 
-Zidovudine: The pharmacokinetic properties of zidovudine in fasting patients are summarized in Table 3.
+Zidovudine: The pharmacokinetic properties of zidovudine in fasting subjects are summarized in Table 3.
 Following oral administration, zidovudine is rapidly absorbed and extensively distributed.
 Binding to plasma protein is low.
 Zidovudine is eliminated primarily by hepatic metabolism.
@@ -44,7 +44,7 @@ Pharmacokinetic Parametersa for Lamivudine and Zidovudine in Adults
 | e Approximate range. |  |  |  |  |
 
 Effect of Food on Absorption of COMBIVIR: COMBIVIR may be administered with or without food.
-The lamivudine and zidovudine AUC following administration of COMBIVIR with food was similar when compared to fasting healthy subjects (n = 24).
+The lamivudine and zidovudine AUC following administration of COMBIVIR with food was similar when compared with fasting healthy subjects (n = 24).
 
 Special Populations:
 
@@ -52,7 +52,7 @@ Pregnancy: See Use in Specific Populations (8.1).
 
 COMBIVIR: No data are available.
 
-Zidovudine: Zidovudine pharmacokinetics has been studied in a Phase 1 study of 8 women during the last trimester of pregnancy.
+Zidovudine: Zidovudine pharmacokinetics has been studied in a Phase 1 trial of 8 women during the last trimester of pregnancy.
 As pregnancy progressed, there was no evidence of drug accumulation.
 The pharmacokinetics of zidovudine was similar to that of nonpregnant adults.
 Consistent with passive transmission of the drug across the placenta, zidovudine concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery.
@@ -65,7 +65,7 @@ Pediatric Patients: COMBIVIR should not be administered to pediatric patients we
 
 Geriatric Patients: The pharmacokinetics of lamivudine and zidovudine have not been studied in patients over 65 years of age.
 
-Gender: A pharmacokinetic study in healthy male (n = 12) and female (n = 12) subjects showed no gender differences in zidovudine AUC∞ or lamivudine AUC∞ normalized for body weight.
+Gender: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) subjects showed no gender differences in zidovudine AUC∞ or lamivudine AUC∞ normalized for body weight.
 
 Race: Lamivudine: There are no significant racial differences in lamivudine pharmacokinetics.
 
@@ -73,10 +73,10 @@ Zidovudine: The pharmacokinetics of zidovudine with respect to race have not bee
 
 Drug Interactions: See Drug Interactions (7).
 
-No drug interaction studies have been conducted using COMBIVIR Tablets.
+No drug interaction trials have been conducted using COMBIVIR Tablets.
 However, Table 4 presents drug interaction information for the individual components of COMBIVIR.
 
-Lamivudine Plus Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1-infected adult patients given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg q 12 hr).
+Lamivudine Plus Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1-infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg q 12 hr).
 
 Table 4.
 Effect of Coadministered Drugs on Lamivudine and Zidovudine AUCa
@@ -105,7 +105,7 @@ Effect of Coadministered Drugs on Lamivudine and Zidovudine AUCa
 | b Estimated range of percent difference. |  |  |  |  |  |
 
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected patients [see Warnings and Precautions (5.5)].
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.5)].
 
 ## 12.4 Microbiology
 
@@ -132,31 +132,31 @@ The EC50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0
 In cell culture drug combination studies, zidovudine demonstrates synergistic activity with the nucleoside reverse transcriptase inhibitors (NRTIs) abacavir, didanosine, lamivudine, and zalcitabine; the non-nucleoside reverse transcriptase inhibitors (NNRTIs) delavirdine and nevirapine; and the protease inhibitors (PIs) indinavir, nelfinavir, ritonavir, and saquinavir; and additive activity with interferon alfa.
 Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell culture.
 
-Resistance: Lamivudine Plus Zidovudine Administered As Separate Formulations: In patients receiving lamivudine monotherapy or combination therapy with lamivudine plus zidovudine, HIV-1 isolates from most patients became phenotypically and genotypically resistant to lamivudine within 12 weeks.
-In some patients harboring zidovudine-resistant virus at baseline, phenotypic sensitivity to zidovudine was restored by 12 weeks of treatment with lamivudine and zidovudine.
+Resistance: Lamivudine Plus Zidovudine Administered As Separate Formulations: In subjects receiving lamivudine monotherapy or combination therapy with lamivudine plus zidovudine, HIV‑1 isolates from most subjects became phenotypically and genotypically resistant to lamivudine within 12 weeks.
+In some subjects harboring zidovudine‑resistant virus at baseline, phenotypic sensitivity to zidovudine was restored by 12 weeks of treatment with lamivudine and zidovudine.
 Combination therapy with lamivudine plus zidovudine delayed the emergence of amino acid substitutions conferring resistance to zidovudine.
 
-HIV-1 strains resistant to both lamivudine and zidovudine have been isolated from patients after prolonged lamivudine/zidovudine therapy.
+HIV-1 strains resistant to both lamivudine and zidovudine have been isolated from subjects after prolonged lamivudine/zidovudine therapy.
 Dual resistance required the presence of multiple amino acid substitutions, the most essential of which may be G333E.
 The incidence of dual resistance and the duration of combination therapy required before dual resistance occurs are unknown.
 
-Lamivudine: Lamivudine-resistant isolates of HIV-1 have been selected in cell culture and have also been recovered from patients treated with lamivudine or lamivudine plus zidovudine.
-Genotypic analysis of isolates selected in cell culture and recovered from lamivudine-treated patients showed that the resistance was due to a specific amino acid substitution in the HIV-1 reverse transcriptase at codon 184 changing the methionine to either isoleucine or valine (M184V/I).
+Lamivudine: Lamivudine‑resistant isolates of HIV‑1 have been selected in cell culture and have also been recovered from subjects treated with lamivudine or lamivudine plus zidovudine.
+Genotypic analysis of isolates selected in cell culture and recovered from lamivudine‑treated subjects showed that the resistance was due to a specific amino acid substitution in the HIV‑1 reverse transcriptase at codon 184 changing the methionine to either isoleucine or valine (M184V/I).
 
-Zidovudine: HIV-1 isolates with reduced susceptibility to zidovudine have been selected in cell culture and were also recovered from patients treated with zidovudine.
-Genotypic analyses of the isolates selected in cell culture and recovered from zidovudine-treated patients showed substitutions in the HIV-1 RT gene resulting in 6 amino acid substitutions (M41L, D67N, K70R, L210W, T215Y or F, and K219Q) that confer zidovudine resistance.
+Zidovudine: HIV‑1 isolates with reduced susceptibility to zidovudine have been selected in cell culture and were also recovered from subjects treated with zidovudine.
+Genotypic analyses of the isolates selected in cell culture and recovered from zidovudine‑treated subjects showed substitutions in the HIV-1 RT gene resulting in 6 amino acid substitutions (M41L, D67N, K70R, L210W, T215Y or F, and K219Q) that confer zidovudine resistance.
 In general, higher levels of resistance were associated with greater number of amino acid substitutions.
 
 Cross-Resistance: Cross-resistance has been observed among NRTIs.
 
-Lamivudine Plus Zidovudine: Cross-resistance between lamivudine and zidovudine has not been reported.
-In some patients treated with lamivudine alone or in combination with zidovudine, isolates have emerged with a substitution at codon 184, which confers resistance to lamivudine.
-Cross-resistance to abacavir, didanosine, tenofovir, and zalcitabine has been observed in some patients harboring lamivudine-resistant HIV-1 isolates.
-In some patients treated with zidovudine plus didanosine or zalcitabine, isolates resistant to multiple drugs, including lamivudine, have emerged (see under Zidovudine below).
+Lamivudine Plus Zidovudine: Cross‑resistance between lamivudine and zidovudine has not been reported.
+In some subjects treated with lamivudine alone or in combination with zidovudine, isolates have emerged with a substitution at codon 184, which confers resistance to lamivudine.
+Cross-resistance to abacavir, didanosine, tenofovir, and zalcitabine has been observed in some subjects harboring lamivudine‑resistant HIV‑1 isolates.
+In some subjects treated with zidovudine plus didanosine or zalcitabine, isolates resistant to multiple drugs, including lamivudine, have emerged (see under Zidovudine below).
 
 Lamivudine: See Lamivudine Plus Zidovudine (above).
 
-Zidovudine: In a study of 167 HIV-1-infected patients, isolates (n = 2) with multi-drug resistance to didanosine, lamivudine, stavudine, zalcitabine, and zidovudine were recovered from patients treated for ≥1 year with zidovudine plus didanosine or zidovudine plus zalcitabine.
-The pattern of resistance-associated amino acid substitutions with such combination therapies was different (A62V, V75I, F77L, F116Y, Q151M) from the pattern with zidovudine monotherapy, with the Q151M substitution being most commonly associated with multi-drug resistance.
+Zidovudine: In a trial of 167 HIV‑1‑infected subjects, isolates (n = 2) with multi‑drug resistance to didanosine, lamivudine, stavudine, zalcitabine, and zidovudine were recovered from subjects treated for ≥1 year with zidovudine plus didanosine or zidovudine plus zalcitabine.
+The pattern of resistance‑associated amino acid substitutions with such combination therapies was different (A62V, V75I, F77L, F116Y, Q151M) from the pattern with zidovudine monotherapy, with the Q151M substitution being most commonly associated with multi‑drug resistance.
 The substitution at codon 151 in combination with substitutions at 62, 75, 77, and 116 results in a virus with reduced susceptibility to didanosine, lamivudine, stavudine, zalcitabine, and zidovudine.
-Thymidine analogue mutations (TAMs) are selected by zidovudine and confer cross-resistance to abacavir, didanosine, stavudine, tenofovir, and zalcitabine.
+Thymidine analogue mutations (TAMs) are selected by zidovudine and confer cross‑resistance to abacavir, didanosine, stavudine, tenofovir, and zalcitabine.

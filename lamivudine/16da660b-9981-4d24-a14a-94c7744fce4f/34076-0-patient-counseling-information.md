@@ -25,11 +25,11 @@ Patients should remain under the care of a physician when using COMBIVIR.
 
 Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
 
-- •Do not share needles or other injection equipment.
-- •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- •Do not have any kind of sex without protection.
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
   Always practice safe sex by using a latex or polyurethane condom or other barrier method to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-- •Do not breastfeed.
+- Do not breastfeed.
   Lamivudine and zidovudine are excreted in human breast milk.
   Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
@@ -50,7 +50,7 @@ Research Triangle Park, NC 27709
 
 Lamivudine is manufactured under agreement from Shire Pharmaceuticals Group plc Basingstoke, UK
 
-©2011, ViiV Healthcare.
+©2013, ViiV Healthcare.
 All rights reserved.
 
-November 2011 CMB: 4PI
+CMB: 5PI

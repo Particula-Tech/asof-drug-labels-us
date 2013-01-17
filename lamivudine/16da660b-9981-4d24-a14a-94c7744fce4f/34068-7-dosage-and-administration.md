@@ -9,7 +9,7 @@ The recommended oral dose of COMBIVIR in HIV-1-infected adults and adolescents w
 The recommended oral dosage of scored COMBIVIR Tablets for pediatric patients who weigh greater than or equal to 30 kg and for whom a solid oral dosage form is appropriate is 1 tablet administered twice daily.
 
 Before prescribing COMBIVIR Tablets, children should be assessed for the ability to swallow tablets.
-If a child is unable to reliably swallow a COMBIVIR tablet, the liquid oral formulations should be prescribed: EPIVIR® (lamivudine) Oral Solution and RETROVIR® (zidovudine) Syrup.
+If a child is unable to reliably swallow a COMBIVIR Tablet, the liquid oral formulations should be prescribed: EPIVIR® (lamivudine) Oral Solution and RETROVIR® (zidovudine) Syrup.
 
 ## 2.3 Patients Requiring Dosage Adjustment
 

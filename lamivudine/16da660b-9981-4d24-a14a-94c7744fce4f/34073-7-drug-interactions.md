@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-No drug interaction studies have been conducted using COMBIVIR Tablets [see Clinical Pharmacology (12.3)].
+No drug interaction trials have been conducted using COMBIVIR Tablets [see Clinical Pharmacology (12.3)].
 
 ## 7.1 Antiretroviral Agents
 
