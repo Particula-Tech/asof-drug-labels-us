@@ -32,10 +32,7 @@ Weekly dosing with PROZAC Weekly capsules is recommended to be initiated 7 days 
 
 If satisfactory response is not maintained with PROZAC Weekly, consider reestablishing a daily dosing regimen [see Clinical Studies (14.1)].
 
-Switching Patients to a Tricyclic Antidepressant (TCA) — Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Drug Interactions (7.9)].
-
-Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) — At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with PROZAC.
-In addition, at least 5 weeks, perhaps longer, should be allowed after stopping PROZAC before starting an MAOI [see Contraindications (4) and Drug Interactions (7.1)].
+Switching Patients to a Tricyclic Antidepressant (TCA) — Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Warnings and Precautions (5.2) and Drug Interactions (7.7)].
 
 ## 2.2 Obsessive Compulsive Disorder
 
@@ -145,9 +142,8 @@ PROZAC monotherapy is not indicated for the treatment of treatment resistant dep
 
 ## 2.7 Dosing in Specific Populations
 
-Treatment of Pregnant Women during the Third Trimester — When treating pregnant women with PROZAC during the third trimester, the physician should carefully consider the potential risks and potential benefits of treatment.
-Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-The physician may consider tapering PROZAC in the third trimester [see Use in Specific Populations (8.1)].
+Treatment of Pregnant Women — When treating pregnant women with PROZAC, the physician should carefully consider the potential risks and potential benefits of treatment.
+Neonates exposed to SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
 
 Geriatric — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)]
 
@@ -158,8 +154,26 @@ Concomitant Illness — Patients with concurrent disease or on multiple concomit
 PROZAC and Olanzapine in Combination — The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, non-smoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modifications may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-PROZAC and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 18 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.9)].
+PROZAC and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 18 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.7)].
 
 ## 2.8 Discontinuation of Treatment
 
 Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.13)].
+
+## 2.9 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PROZAC.
+Conversely, at least 5 weeks should be allowed after stopping PROZAC before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
+
+## 2.10 Use of PROZAC with Other MAOIs such as Linezolid or Methylene Blue
+
+Do not start PROZAC in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].
+
+In some cases, a patient already receiving PROZAC therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, PROZAC should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for five weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with PROZAC may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with PROZAC is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

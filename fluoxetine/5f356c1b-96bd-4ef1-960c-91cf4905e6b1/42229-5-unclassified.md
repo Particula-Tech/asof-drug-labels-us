@@ -1,10 +1,10 @@
-Literature revised June 15, 2011
+Literature revised January 3, 2013
 
 Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-Copyright © 1987, 2011, Eli Lilly and Company.
+Copyright © 1987, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 7432 DPP
+PV 7433 DPP
