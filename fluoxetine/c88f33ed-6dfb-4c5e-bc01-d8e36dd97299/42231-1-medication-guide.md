@@ -43,7 +43,7 @@ Call your healthcare provider right away if you have any of the following sympto
 PROZAC may be associated with these serious side effects:
 
 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -52,6 +52,10 @@ This condition can be life-threatening and may include:
 - sweating or fever
 - nausea, vomiting, or diarrhea
 - muscle rigidity
+- dizziness
+- flushing
+- tremor
+- seizures
 
 3.
 Severe allergic reactions:
@@ -123,9 +127,9 @@ Do not take PROZAC if you:
 - are allergic to fluoxetine hydrochloride or any of the ingredients in PROZAC.
   See the end of this Medication Guide for a complete list of ingredients in PROZAC.
 - take a Monoamine Oxidase Inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.
-  - Do not take an MAOI within 5 weeks of stopping PROZAC.
-  - Do not start PROZAC if you stopped taking an MAOI in the last 2 weeks.
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  - Do not take an MAOI within 5 weeks of stopping PROZAC unless directed to do so by your physician.
+  - Do not start PROZAC if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take PROZAC close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -149,8 +153,8 @@ Before starting PROZAC, tell your healthcare provider if you:
 
 - Are taking certain drugs or treatments such as:
   - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, MAOI's (including linezolid, an antibiotic), or antipsychotics
-  - Tramadol
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
+  - Tramadol and fentanyl
   - Over-the-counter supplements such as tryptophan or St. John's Wort
   - Electroconvulsive therapy (ECT)
 - have liver problems
@@ -271,7 +275,7 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised June 27, 2011
+Medication Guide revised January 3, 2013
 
 Marketed by: Lilly USA, LLC
 
@@ -279,7 +283,7 @@ Indianapolis, IN 46285, USA
 
 www.prozac.com
 
-Copyright © 2009, 2011, Eli Lilly and Company.
+Copyright © 2009, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 7103 AMP
+PV 7104 AMP

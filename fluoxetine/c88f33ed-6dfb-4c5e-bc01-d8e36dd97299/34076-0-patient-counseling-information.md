@@ -24,12 +24,11 @@ Families and caregivers of patients should be advised to look for the emergence 
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Box Warning and Warnings and Precautions (5.1)].
 
-## 17.3 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+## 17.3 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome or NMS-like reactions with the concomitant use of PROZAC and triptans, tramadol, or other serotonergic agents [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of PROZAC and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
 
-Patients should be advised of the signs and symptoms associated with serotonin syndrome or NMS-like reactions that may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, in which the symptoms may include hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
 
 ## 17.4 Allergic Reactions and Rash
@@ -40,7 +39,7 @@ Patients should be cautioned to seek medical care immediately if they experience
 
 ## 17.5 Abnormal Bleeding
 
-Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.6)].
+Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.4)].
 Patients should be advised to call their doctor if they experience any increased or unusual bruising or bleeding while taking PROZAC.
 
 ## 17.6 Hyponatremia

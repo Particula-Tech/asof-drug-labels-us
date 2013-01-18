@@ -52,7 +52,7 @@ Due to the large volume of distribution of this drug, forced diuresis, dialysis,
 No specific antidotes for fluoxetine are known.
 
 A specific caution involves patients who are taking or have recently taken fluoxetine and might ingest excessive quantities of a TCA.
-In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation [see Drug Interactions (7.9)].
+In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation [see Drug Interactions (7.7)].
 
 Based on experience in animals, which may not be relevant to humans, fluoxetine-induced seizures that fail to remit spontaneously may respond to diazepam.
 

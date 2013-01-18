@@ -45,7 +45,7 @@ Thus, the net pharmacodynamic activities were essentially the same.
 Alternative, nonsaturable pathways (non-2D6) also contribute to the metabolism of fluoxetine.
 This explains how fluoxetine achieves a steady-state concentration rather than increasing without limit.
 
-Because fluoxetine's metabolism, like that of a number of other compounds including TCAs and other selective serotonin reuptake inhibitors (SSRIs), involves the CYP2D6 system, concomitant therapy with drugs also metabolized by this enzyme system (such as the TCAs) may lead to drug interactions [see Drug Interactions (7.9)].
+Because fluoxetine's metabolism, like that of a number of other compounds including TCAs and other selective serotonin reuptake inhibitors (SSRIs), involves the CYP2D6 system, concomitant therapy with drugs also metabolized by this enzyme system (such as the TCAs) may lead to drug interactions [see Drug Interactions (7.7)].
 
 Accumulation and Slow Elimination — The relatively slow elimination of fluoxetine (elimination half-life of 1 to 3 days after acute administration and 4 to 6 days after chronic administration) and its active metabolite, norfluoxetine (elimination half-life of 4 to 16 days after acute and chronic administration), leads to significant accumulation of these active species in chronic use and delayed attainment of steady state, even when a fixed dose is used [see Warnings and Precautions (5.12)].
 After 30 days of dosing at 40 mg/day, plasma concentrations of fluoxetine in the range of 91 to 302 ng/mL and norfluoxetine in the range of 72 to 258 ng/mL have been observed.
