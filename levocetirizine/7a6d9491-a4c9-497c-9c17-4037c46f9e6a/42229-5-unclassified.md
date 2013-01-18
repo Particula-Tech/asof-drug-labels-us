@@ -6,4 +6,6 @@ and
 
 Marketed by Winthrop U.S., a business of sanofi-aventis U.S. LLC Bridgewater, NJ 08807
 
-©2010 UCB, Inc. All rights reserved.
+A SANOFI COMPANY
+
+©2012 UCB, Inc. All rights reserved.

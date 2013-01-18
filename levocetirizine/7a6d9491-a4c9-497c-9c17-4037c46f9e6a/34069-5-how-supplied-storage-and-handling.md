@@ -7,8 +7,6 @@ They are supplied in unit of use HDPE bottles.
 
 Levocetirizine Dihydrochloride oral solution is a clear, colorless liquid containing 0.5 mg of levocetirizine dihydrochloride per mL.
 
-Oral solution in 5 oz glass bottles (NDC 0955-1026-20)
-
 Oral Solution in 5 oz polypropylene bottles (NDC 0955-1026-21)
 
 Storage:

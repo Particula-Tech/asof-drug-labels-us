@@ -10,7 +10,7 @@ Levocetirizine Dihydrochloride 5 mg
 
 90 Tablets
 
-sanofi aventis
+SANOFI
 
 PRINCIPAL DISPLAY PANEL - 2.5 mg /5 mL Bottle Carton
 
@@ -27,4 +27,4 @@ Rx Only
 1 x 5 oz.
 (148 mL) polypropylene bottle
 
-sanofi aventis
+SANOFI

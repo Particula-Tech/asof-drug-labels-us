@@ -7,19 +7,18 @@
   "labeler": "Winthrop U.S.",
   "package_ndcs": [
     "0955-1025-90",
-    "0955-1026-20",
     "0955-1026-21"
   ],
   "products": [
     {
       "form": "SOLUTION",
       "generic": "levocetirizine dihydrochloride",
-      "name": "Xyzal"
+      "name": "levocetirizine dihydrochloride"
     },
     {
       "form": "TABLET, FILM COATED",
       "generic": "levocetirizine dihydrochloride",
-      "name": "Xyzal"
+      "name": "levocetirizine dihydrochloride"
     }
   ],
   "setid": "7a6d9491-a4c9-497c-9c17-4037c46f9e6a",
