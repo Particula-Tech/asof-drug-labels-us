@@ -16,7 +16,7 @@ The clearance of methocarbamol in 8 renally-impaired patients on maintenance hem
 In 8 patients with cirrhosis secondary to alcohol abuse, the mean total clearance of methocarbamol was reduced approximately 70% compared to that obtained in 8 age- and weight-matched normal subjects.
 The mean (± SD) elimination half-life in the cirrhotic patients and the normal subjects was 3.38 (± 1.62) hours and 1.11 (± 0.27) hours, respectively.The percent of methocarbamol bound to plasma proteins was decreased to approximately 40 to 45% compared to 46 to 50% in the normal subjects.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Solco Healthcare at 1-866-257-2597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Solco Healthcare at 1-888-869-8008 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 Manufactured for:
 
