@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA202810"
+  ],
+  "inn": "oxcarbazepine",
+  "labeler": "Supernus",
+  "package_ndcs": [
+    "17772-121-01",
+    "17772-121-10",
+    "17772-122-01",
+    "17772-122-10",
+    "17772-123-01",
+    "17772-123-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxcarbazepine",
+      "name": "OXTELLAR XR"
+    }
+  ],
+  "setid": "aa610e56-1d1d-11e1-8bc2-0800200c9a66",
+  "source": "dailymed"
+}
