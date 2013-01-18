@@ -51,7 +51,7 @@ The mean improvements over baseline at the end of treatment are shown in Table 6
 Table 6.
 Clinical Signs and Symptoms: Mean Improvements Over Baseline
 
-|  | CUTIVATE® Cream Once Daily |  |  | CUTIVATE® Cream Twice Daily |
+|  | CUTIVATE® Cream Once Daily |  | CUTIVATE® Cream Twice Daily |  |
 | --- | --- | --- | --- | --- |
 |  | Study 1 | Study 2 | Study 1 | Study 2 |
 | Erythema | 1.7 | 1.5 | 1.8 | 1.7 |
