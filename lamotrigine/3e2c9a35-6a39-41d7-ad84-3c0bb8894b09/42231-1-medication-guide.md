@@ -131,8 +131,9 @@ LAMICTAL XR is a prescription medicine used:
 
 - •together with other medicines to treat primary generalized tonic-clonic seizures and partial onset seizures in people 13 years or older.
 - •alone when changing from other medicines used to treat partial seizures in people 13 years or older.
-- It is not known if LAMICTAL XR is safe or effective in children under the age of 13.
-  Other forms of LAMICTAL can be used in children 2 to 12 years.
+
+It is not known if LAMICTAL XR is safe or effective in children under the age of 13.
+Other forms of LAMICTAL can be used in children 2 to 12 years.
 
 Who should not take LAMICTAL XR?
 

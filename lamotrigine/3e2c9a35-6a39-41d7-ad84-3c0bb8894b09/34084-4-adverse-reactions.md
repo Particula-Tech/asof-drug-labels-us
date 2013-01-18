@@ -123,35 +123,35 @@ Other Clinical Trial Experience: Immediate-release lamotrigine has been administ
 
 Adverse reactions are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse reactions are defined as those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare adverse reactions are those occurring in fewer than 1/1,000 patients.
 
-Cardiovascular System:Infrequent: Hypertension, palpitations, postural hypotension, syncope, tachycardia, vasodilation.
+Cardiovascular System: Infrequent: Hypertension, palpitations, postural hypotension, syncope, tachycardia, vasodilation.
 
-Dermatological:Infrequent: Acne, alopecia, hirsutism, maculopapular rash, urticaria.
+Dermatological: Infrequent: Acne, alopecia, hirsutism, maculopapular rash, urticaria.
 Rare: Leukoderma, multiforme erythema, petechial rash, pustular rash.
 
-Digestive System:Infrequent: Dysphagia, liver function tests abnormal, mouth ulceration.
+Digestive System: Infrequent: Dysphagia, liver function tests abnormal, mouth ulceration.
 Rare: Gastrointestinal hemorrhage, hemorrhagic colitis, hepatitis, melena and stomach ulcer.
 
-Endocrine System:Rare: Goiter, hypothyroidism.
+Endocrine System: Rare: Goiter, hypothyroidism.
 
-Hematologic and Lymphatic System:Infrequent: Ecchymosis, leukopenia.
+Hematologic and Lymphatic System: Infrequent: Ecchymosis, leukopenia.
 Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, petechia, thrombocytopenia.
 
-Metabolic and Nutritional Disorders:Infrequent: Aspartate transaminase increased.
+Metabolic and Nutritional Disorders: Infrequent: Aspartate transaminase increased.
 Rare: Alcohol intolerance, alkaline phosphatase increase, alanine transaminase increase, bilirubinemia, gamma glutamyl transpeptidase increase, hyperglycemia.
 
-Musculoskeletal System:Rare: Muscle atrophy, pathological fracture, tendinous contracture.
+Musculoskeletal System: Rare: Muscle atrophy, pathological fracture, tendinous contracture.
 
-Nervous System:Frequent: Confusion.
+Nervous System: Frequent: Confusion.
 Infrequent: Akathisia, apathy, aphasia, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, stupor.
 Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, neuralgia, paralysis, peripheral neuritis.
 
-Respiratory System:Rare: Hiccup, hyperventilation.
+Respiratory System: Rare: Hiccup, hyperventilation.
 
-Special Senses:Frequent: Amblyopia.
+Special Senses: Frequent: Amblyopia.
 Infrequent: Abnormality of accommodation, conjunctivitis, dry eyes, ear pain, photophobia, taste perversion, tinnitus.
 Rare: Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus, taste loss, uveitis, visual field defect.
 
-Urogenital System:Infrequent: Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, urinary incontinence.
+Urogenital System: Infrequent: Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, urinary incontinence.
 Rare: Acute kidney failure, breast neoplasm, creatinine increase, female lactation, kidney failure, kidney pain, nocturia, urinary retention, urinary urgency.
 
 ## 6.3 Postmarketing Experience With Immediate-Release Lamotrigine
