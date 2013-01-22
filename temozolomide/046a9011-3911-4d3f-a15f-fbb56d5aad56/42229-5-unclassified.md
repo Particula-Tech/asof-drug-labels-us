@@ -8,9 +8,15 @@ TEMODAR Capsules: U.S. Patent No. 5,260,291 TEMODAR for Injection: U.S. Patent N
 
 Copyright © 1999, 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2012
+Revised: 01/2013
 
-052365-TMD-MTL-USPI.13
+052365-TMD-MTL-USPI.14
+
+TEMODAR® (temozolomide) for Injection
+
+PHARMACIST:
+
+Dispense enclosed Patient Package Insert to each patient.
 
 PHARMACIST INFORMATION SHEET
 
@@ -31,10 +37,10 @@ Dosing for Patients with Refractory Anaplastic Astrocytoma [See Full Prescribing
 
 Dosage of TEMODAR must be adjusted according to nadir neutrophil and platelet counts in the previous cycle and neutrophil and platelet counts at the time of initiating the next cycle.
 The initial dose is 150 mg/m2 orally once daily for 5 consecutive days per 28-day treatment cycle.
-If both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are ≥1.5 × 109/L (1500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are ≥100 × 109/L (100,000/µL), the TEMODAR dose may be increased to 200 mg/m2/ day for 5 consecutive days per 28-day treatment cycle.
+If both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are greater than or equal to 1.5 × 109/L (1500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 × 109/L (100,000/µL), the TEMODAR dose may be increased to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle.
 During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
 The next cycle of TEMODAR should not be started until the ANC and platelet count exceed these levels.
-If the ANC falls to <1.0 × 109/L (1000/µL) or the platelet count is <50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose [see Table 4 in the Full Prescribing Information, Recommended Dosing and Dose Modification Guidelines (2.1)].
+If the ANC falls to less than 1.0 × 109/L (1000/µL) or the platelet count is less than 50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose [see Table 4 in the Full Prescribing Information, Recommended Dosing and Dose Modification Guidelines (2.1)].
 
 Patients should continue to receive TEMODAR until their physician determines that their disease has progressed, or until unacceptable side effects or toxicities occur.
 Physicians may alter the treatment regimen for a given patient.
@@ -45,16 +51,16 @@ Concomitant Phase Treatment Schedule
 
 TEMODAR is administered at 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions), followed by maintenance TEMODAR for 6 cycles.
 No dose reductions are recommended; however, dose interruptions may occur based on patient tolerance.
-The TEMODAR dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count ≥1.5 × 109/L, platelet count ≥100 ×109/L, common toxicity criteria (CTC) non-hematological toxicity ≤Grade 1 (except for alopecia, nausea, and vomiting).
+The TEMODAR dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 × 109/L, platelet count greater than or equal to 100 × 109/L, common toxicity criteria (CTC) non-hematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and non-hematological toxicity criteria as noted in Table 1 of the Full Prescribing Information under 2.1 Recommended Dosing and Dose Modification Guidelines.
-PCP prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade ≤1).
+Pneumocystis carinii pneumonia (PCP) prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
 
 Maintenance Phase Treatment Schedule
 
 Four weeks after completing the TEMODAR + RT phase, TEMODAR is administered for an additional 6 cycles of maintenance treatment.
 Dosage in Cycle 1 (maintenance) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
-At the start of Cycle 2, the dose can be escalated to 200 mg/m2, if the CTC non-hematologic toxicity for Cycle 1 is Grade ≤2 (except for alopecia, nausea, and vomiting), absolute neutrophil count (ANC) is ≥1.5 × 109/L, and the platelet count is ≥100 × 109/L.
+At the start of Cycle 2, the dose can be escalated to 200 mg/m2, if the CTC non-hematologic toxicity for Cycle 1 is Grade less than or equal to 2 (except for alopecia, nausea, and vomiting), absolute neutrophil count (ANC) is greater than or equal to 1.5 × 109/L, and the platelet count is greater than or equal to 100 × 109/L.
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 The dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 
@@ -70,7 +76,8 @@ Care should be exercised in the handling and preparation of TEMODAR.
 Vials should not be opened.
 If vials are accidentally opened or damaged, rigorous precautions should be taken with the contents to avoid inhalation or contact with the skin or mucous membranes.
 The use of gloves and safety glasses is recommended to avoid exposure in case of breakage of the vial.
-Procedures for proper handling and disposal of anticancer drugs should be considered.1–4 Several guidelines on this subject have been published.
+Procedures for proper handling and disposal of anticancer drugs should be considered {1-4}.
+Several guidelines on this subject have been published.
 
 1. TEMODAR for Injection vials should be stored refrigerated at 2°–8°C (36°–46°F).
 2. Bring the vial to room temperature prior to reconstitution with Sterile Water for Injection.
@@ -103,7 +110,7 @@ TEMODAR may affect testicular function, so male patients should exercise adequat
 TEMODAR may cause birth defects.
 Female patients should avoid becoming pregnant while receiving this drug.
 It is not known whether TEMODAR is excreted into breast milk.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants and tumorigenicity shown for temozolomide in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother from TEMODAR.
+Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants and tumorigenicity shown for temozolomide in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of TEMODAR to the mother.
 
 What are the side effects of TEMODAR?
 [See Full Prescribing Information, Adverse Reactions (6)].
@@ -146,11 +153,11 @@ U.S. Patent Nos. 5,260,291; 6,987,108; and 7,786,118
 
 Copyright © 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 05/2012
+Revised: 01/2013
 
-052365-TMD-PWi-PhI.10
+052365-TMD-PWi-PhI.12
 
-TEMODAR (temozolomide) Capsules
+TEMODAR® (temozolomide) Capsules
 
 PHARMACIST:
 
@@ -173,10 +180,10 @@ How might the dose of TEMODAR be modified for Refractory Anaplastic Astrocytoma?
 
 Dosage of TEMODAR must be adjusted according to nadir neutrophil and platelet counts in the previous cycle and neutrophil and platelet counts at the time of initiating the next cycle.
 The initial dose is 150 mg/m2 orally once daily for 5 consecutive days per 28-day treatment cycle.
-If both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are ≥1.5 × 109/L (1500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are ≥100 × 109/L (100,000/µL), the TEMODAR dose may be increased to 200 mg/m2/ day for 5 consecutive days per 28-day treatment cycle.
+If both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are greater than or equal to 1.5 × 109/L (1500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 × 109/L (100,000/µL), the TEMODAR dose may be increased to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle.
 During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
 The next cycle of TEMODAR should not be started until the ANC and platelet count exceed these levels.
-If the ANC falls to <1.0 × 109/L (1000/µL) or the platelet count is <50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 1 below).
+If the ANC falls to less than 1.0 × 109/L (1000/µL) or the platelet count is less than 50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 1 below).
 
 What is the TEMODAR Capsules treatment regimen?
 
@@ -188,17 +195,17 @@ Newly Diagnosed Concomitant Phase Treatment Schedule
 
 TEMODAR is administered orally at 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions), followed by maintenance TEMODAR for 6 cycles.
 No dose reductions are recommended; however, dose interruptions may occur based on patient tolerance.
-The TEMODAR dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count ≥1.5 × 109/L, platelet count ≥100 ×109/L, common toxicity criteria (CTC) nonhematological toxicity ≤Grade 1 (except for alopecia, nausea and vomiting).
+The TEMODAR dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 × 109/L, platelet count greater than or equal to 100 ×109/L, common toxicity criteria (CTC) nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 2.
-PCP prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC grade ≤1).
+Pneumocystis carinii pneumonia (PCP) prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC grade less than or equal to 1).
 
 TABLE 2: Temozolomide Dosing Interruption or Discontinuation During Concomitant Radiotherapy and Temozolomide
 
-| Toxicity | TMZ InterruptionTreatment with concomitant TMZ could be continued when all of the following conditions were met: absolute neutrophil count ≥1.5 × 109/L; platelet count ≥100 × 109/L; CTC nonhematological toxicity ≤Grade 1 (except for alopecia, nausea, vomiting). | TMZ Discontinuation |
+| Toxicity | TMZ InterruptionTreatment with concomitant TMZ could be continued when all of the following conditions were met: absolute neutrophil count greater than or equal to 1.5 × 109/L; platelet count greater than or equal to 100 × 109/L; CTC nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, vomiting). | TMZ Discontinuation |
 | --- | --- | --- |
-| Absolute Neutrophil Count | ≥0.5 and <1.5 × 109/L | <0.5 × 109/L |
-| Platelet Count | ≥10 and <100 × 109/L | <10 × 109/L |
+| Absolute Neutrophil Count | greater than or equal to 0.5 and less than 1.5 × 109/L | less than 0.5 × 109/L |
+| Platelet Count | greater than or equal to 10 and less than 100 × 109/L | less than 10 × 109/L |
 | CTC Nonhematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 2 | CTC Grade 3 or 4 |
 | TMZ = temozolomide; CTC = Common Toxicity Criteria. |  |  |
 
@@ -206,7 +213,7 @@ Maintenance Phase Treatment Schedule
 
 Four weeks after completing the TEMODAR + RT phase, TEMODAR is administered for an additional 6 cycles of maintenance treatment.
 Dosage in Cycle 1 (maintenance) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
-At the start of Cycle 2, the dose is escalated to 200 mg/m2, if the CTC nonhematologic toxicity for Cycle 1 is Grade ≤2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥1.5 × 109/L, and the platelet count is ≥100 × 109/L.
+At the start of Cycle 2, the dose is escalated to 200 mg/m2, if the CTC nonhematologic toxicity for Cycle 1 is Grade less than or equal to 2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is greater than or equal to 1.5 × 109/L, and the platelet count is greater than or equal to 100 × 109/L.
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 The dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 
@@ -227,8 +234,8 @@ TABLE 4: Temozolomide Dose Reduction or Discontinuation During Maintenance Treat
 
 | Toxicity | Reduce TMZ by 1 Dose LevelTMZ dose levels are listed in Table 3. | Discontinue TMZ |
 | --- | --- | --- |
-| Absolute Neutrophil Count | <1.0 × 109/L | See footnote TMZ is to be discontinued if dose reduction to <100 mg/m2 is required or if the same Grade 3 nonhematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction. |
-| Platelet Count | <50 × 109/L | See footnote |
+| Absolute Neutrophil Count | less than 1.0 × 109/L | See footnoteTMZ is to be discontinued if dose reduction to less than 100 mg/m2 is required or if the same Grade 3 nonhematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction. |
+| Platelet Count | less than 50 × 109/L | See footnote |
 | CTC Nonhematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 3 | CTC Grade 4 |
 | TMZ = temozolomide; CTC = Common Toxicity Criteria. |  |  |
 
@@ -251,6 +258,8 @@ TEMODAR may cause birth defects.
 Female patients should avoid becoming pregnant while receiving this drug.
 Women who are nursing prior to receiving TEMODAR should discontinue nursing.
 It is not known whether TEMODAR is excreted into breast milk.
+
+Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants and tumorigenicity shown for temozolomide in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of TEMODAR to the mother.
 
 What are the side effects of TEMODAR?
 
@@ -335,6 +344,6 @@ U.S. Patent No. 5,260,291
 
 Copyright © 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2012
+Revised: 01/2013
 
-052365-TMD-CP-PhI.7
+052365-TMD-CP-PhI.8

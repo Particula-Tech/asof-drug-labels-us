@@ -4,7 +4,7 @@
 
 Patients treated with TEMODAR may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anemia, which in some cases has resulted in a fatal outcome.
 In some cases, exposure to concomitant medications associated with aplastic anemia, including carbamazepine, phenytoin, and sulfamethoxazole/trimethoprim, complicates assessment.
-Prior to dosing, patients must have an absolute neutrophil count (ANC) ≥1.5 × 109/L and a platelet count ≥100 × 109/L.
+Prior to dosing, patients must have an absolute neutrophil count (ANC) greater than or equal to 1.5 × 109/L and a platelet count greater than or equal to 100 × 109/L.
 A complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L and platelet count exceeds 100 × 109/L.
 Geriatric patients and women have been shown in clinical trials to have a higher risk of developing myelosuppression.
 
@@ -14,7 +14,7 @@ Cases of myelodysplastic syndrome and secondary malignancies, including myeloid 
 
 ## 5.3 Pneumocystis carinii Pneumonia
 
-For treatment of newly diagnosed glioblastoma multiforme: Prophylaxis against Pneumocystis carinii pneumonia is required for all patients receiving concomitant TEMODAR and radiotherapy for the 42-day regimen.
+For treatment of newly diagnosed glioblastoma multiforme: Prophylaxis against Pneumocystis carinii pneumonia (PCP) is required for all patients receiving concomitant TEMODAR and radiotherapy for the 42-day regimen.
 
 There may be a higher occurrence of PCP when temozolomide is administered during a longer dosing regimen.
 However, all patients receiving temozolomide, particularly patients receiving steroids, should be observed closely for the development of PCP regardless of the regimen.

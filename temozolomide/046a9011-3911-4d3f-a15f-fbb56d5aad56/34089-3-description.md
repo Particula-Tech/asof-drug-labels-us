@@ -21,7 +21,7 @@ The inactive ingredients for TEMODAR Capsules are as follows:
 - TEMODAR 180 mg: lactose anhydrous (316.3 mg), colloidal silicon dioxide (0.5 mg), sodium starch glycolate (27 mg), tartaric acid (5.4 mg), and stearic acid (10.8 mg).
 - TEMODAR 250 mg: lactose anhydrous (154.3 mg), colloidal silicon dioxide (0.7 mg), sodium starch glycolate (22.5 mg), tartaric acid (9 mg), and stearic acid (13.5 mg).
 
-The body of the capsules are made of gelatin, and are opaque white.
+The body of the capsules is made of gelatin, and is opaque white.
 The cap is also made of gelatin, and the colors vary based on the dosage strength.
 The capsule body and cap are imprinted with pharmaceutical branding ink, which contains shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, purified water, strong ammonia solution, potassium hydroxide, and ferric oxide.
 

@@ -6,7 +6,7 @@ Care should be exercised in the handling and preparation of TEMODAR.
 Vials and capsules should not be opened.
 If vials or capsules are accidentally opened or damaged, rigorous precautions should be taken with the contents to avoid inhalation or contact with the skin or mucous membranes.
 The use of gloves and safety glasses is recommended to avoid exposure in case of breakage of the vial or capsules.
-Procedures for proper handling and disposal of anticancer drugs should be considered1–4.
+Procedures for proper handling and disposal of anticancer drugs should be considered {1–4}.
 Several guidelines on this subject have been published.
 
 ## 16.2 How Supplied
@@ -112,8 +112,8 @@ TEMODAR for Injection 100 mg: NDC 0085-1381-01
 
 ## 16.3 Storage
 
-Store TEMODAR Capsules at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+Store TEMODAR Capsules at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 
-Store TEMODAR for Injection refrigerated at 2°–8°C (36°–46°F).
+Store TEMODAR for Injection refrigerated at 2–8°C (36–46°F).
 After reconstitution, store reconstituted product at room temperature (25°C [77°F]).
 Reconstituted product must be used within 14 hours, including infusion time.

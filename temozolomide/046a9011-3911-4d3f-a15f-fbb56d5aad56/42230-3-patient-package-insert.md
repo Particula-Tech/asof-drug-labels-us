@@ -1,4 +1,4 @@
-Patient Package Insert TEMODAR® (tĕm-ō-dăr) (temozolomide) Capsules TEMODAR® (tĕm-ō-dăr) (temozolomide) for Injection
+Patient Information TEMODAR® (tĕm-ō-dăr) (temozolomide) Capsules TEMODAR® (tĕm-ō-dăr) (temozolomide) for Injection
 
 What is the most important information I should know about TEMODAR?
 
@@ -20,7 +20,7 @@ Who should not take TEMODAR?
 
 Do not take TEMODAR if you:
 
-- have had an allergic reaction to DTIC (dacarbazine), another cancer medicine.
+- have had an allergic reaction to dacarbazine (DTIC), another cancer medicine.
 - have had a red itchy rash, or a severe allergic reaction, such as trouble breathing, swelling of the face, throat, or tongue, or severe skin reaction to TEMODAR or any of the ingredients in TEMODAR.
   If you are not sure, ask your doctor.
   See the end of the leaflet for a list of ingredients in TEMODAR.
@@ -29,7 +29,7 @@ What should I tell my doctor before taking TEMODAR?
 
 Tell your doctor about all your medical conditions, including if you:
 
-- are allergic to DTIC (dacarbazine) or have had a severe allergic reaction to TEMODAR.
+- are allergic to dacarbazine (DTIC) or have had a severe allergic reaction to TEMODAR.
   See "Who should not take TEMODAR?"
 - have kidney problems
 - have liver problems
@@ -48,7 +48,7 @@ Keep a list of them and show it to your doctor and pharmacist when you get a new
 
 How should I take TEMODAR?
 
-Temodar may be taken by mouth as a capsule at home, or you may receive TEMODAR by injection into a vein (intravenous).
+TEMODAR may be taken by mouth as a capsule at home, or you may receive TEMODAR by injection into a vein (intravenous).
 Your doctor will decide the best way for you to take TEMODAR.
 
 There are two common dosing schedules for taking TEMODAR.
@@ -80,7 +80,7 @@ TEMODAR Capsules:
 - Take each day's dose of TEMODAR Capsules at one time, with a full glass of water.
 - Swallow TEMODAR Capsules whole.
   Do not chew, open, or split the capsules.
-- If TEMODAR capsules are accidentally opened or damaged, be careful not to breathe in (inhale) the powder from the capsules or get the powder on your skin or mucous membranes (for example, in your nose or mouth).
+- If TEMODAR Capsules are accidentally opened or damaged, be careful not to breathe in (inhale) the powder from the capsules or get the powder on your skin or mucous membranes (for example, in your nose or mouth).
   If contact with any of these areas happens, flush the area with water.
 - If you vomit TEMODAR Capsules, do not take any more capsules.
   Wait and take your next planned dose.
@@ -113,11 +113,11 @@ TEMODAR can cause serious side effects.
   TEMODAR affects cells that grow rapidly, including bone marrow cells.
   This can cause you to have a decrease in blood cells.
   Your doctor can monitor your blood for these effects.
-  - White blood cells are needed to fight infections.
+  - –White blood cells are needed to fight infections.
     Neutrophils are a type of white blood cell that help prevent bacterial infections.
     Decreased neutrophils can lead to serious infections that can lead to death.
     Other white blood cells called lymphocytes may also be decreased.
-  - Platelets are blood cells needed for normal blood clotting.
+  - –Platelets are blood cells needed for normal blood clotting.
     Low platelet counts can lead to bleeding.
     Tell your doctor about any unusual bruising or bleeding.
 
@@ -170,12 +170,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store TEMODAR Capsules?
 
 - Store TEMODAR Capsules at 77°F (controlled room temperature).
-  Storage at 59° to 86°F (15° to 30°C) is permitted occasionally.
+  Storage at 59°F to 86°F (15°C to 30°C) is permitted occasionally.
 - Keep TEMODAR Capsules out of the reach of children and pets.
 
 General information about TEMODAR.
 
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Package Insert.
+Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
 Do not use TEMODAR for a condition for which it was not prescribed.
 Do not give TEMODAR to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -208,7 +208,7 @@ Active ingredient: temozolomide.
 
 Inactive ingredients: lactose anhydrous, colloidal silicon dioxide, sodium starch glycolate, tartaric acid, stearic acid.
 
-The body of the capsules are made of gelatin and are opaque white.
+The body of the capsules is made of gelatin and is opaque white.
 The cap is also made of gelatin, and the colors vary based on the dosage strength.
 The capsule body and cap are imprinted with pharmaceutical branding ink, which contains shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, purified water, strong ammonia, potassium hydroxide, and ferric oxide.
 
@@ -242,6 +242,6 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 1999, 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 05/2012
+Revised: 01/2013
 
-052365-TMD-MTL-PPI.4
+052365-TMD-MTL-PPI.6

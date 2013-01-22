@@ -14,7 +14,7 @@ Women of childbearing potential should be advised to avoid becoming pregnant dur
 ## 8.3 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants and tumorigenicity shown for temozolomide in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother from TEMODAR.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants and tumorigenicity shown for temozolomide in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of TEMODAR to the mother.
 
 ## 8.4 Pediatric Use
 
