@@ -2,9 +2,9 @@
 
 ## 16.1 HOW SUPPLIED
 
-Carton containing two Auvi-Q™ (epinephrine injection, USP) 0.3 mg auto-injectors and a single Auvi-Q™ Trainer - NDC 0024-5833-02
+Carton containing two Auvi‑Q™ (epinephrine injection, USP) 0.3 mg auto-injectors and a single Auvi‑Q™ Trainer - NDC 0024-5833-02
 
-Carton containing two Auvi-Q™ (epinephrine injection, USP) 0.15 mg auto-injectors and a single Auvi-Q™ Trainer - NDC 0024-5831-02
+Carton containing two Auvi‑Q™ (epinephrine injection, USP) 0.15 mg auto-injectors and a single Auvi‑Q™ Trainer - NDC 0024-5831-02
 
 Rx only
 

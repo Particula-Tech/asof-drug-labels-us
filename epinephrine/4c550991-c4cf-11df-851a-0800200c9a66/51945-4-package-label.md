@@ -1,10 +1,10 @@
 Package Label - Principal Display Panel – EAI 0.3 mg Carton
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES in patients weighing over 66 lb
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 For single-use injection.
 Refill prescription after use.
@@ -15,13 +15,13 @@ FOR ALLERGIC EMERGENCIES in patients weighing over 66 lb
 
 PUSH HERE & LIFT
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 2 1 PREFILLED + TRAINER AUTO-INJECTORS
 
 sanofi aventis
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES in patients weighing over 66 lb
 
@@ -46,13 +46,13 @@ See www.dtsc.ca.gov/hazardouswaste/perchlorate
 
 Package Label - Principal Display Panel – EAI 0.3 mg Outer Case Label
 
-Keep Auvi-Q in this case until you need to use it
+Keep Auvi‑Q in this case until you need to use it
 
 NDC 0024-5833-02 Rx Only
 
 Pull device from this case
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 For single-use injection.
 Refill prescription after use.
@@ -69,7 +69,7 @@ Replace auto-injector if solution is discolored, cloudy, or contains particles
 
 Manufactured for sanofi aventis
 
-www.auvi-q.com
+www.Auvi‑Q.com
 
 SA6017-01-04 Origin Germany 50097012
 
@@ -79,7 +79,7 @@ Package Label - Principal Display Panel – EAI 0.3 mg Device Label
 
 Each 0.3 mL contains: • 0.3 mg epinephrine • 2.3 mg sodium chloride • 0.5 mg sodium bisulfite • Water for injection
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES
 
@@ -97,7 +97,7 @@ EXP: YYYY-MM XXXXXXXXXXXX Lot: xxxxxxxxxxxxxx SA6026-01-04
 
 For single-use injection Refill prescription after use
 
-Replace the outer case and take your used Auvi-Q with you to a healthcare professional for proper disposal
+Replace the outer case and take your used Auvi‑Q with you to a healthcare professional for proper disposal
 
 Replace auto-injector if solution is discolored, cloudy, or contains particles
 
@@ -107,11 +107,11 @@ Package Label - Principal Display Panel – EAI 0.3 mg Physician Sample Carton
 
 PHYSICIAN SAMPLE NOT FOR SALE
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES in patients weighing over 66 lb
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 For single-use injection Refill prescription after use
 
@@ -124,7 +124,7 @@ FOR ALLERGIC EMERGENCIES in patients weighing over 66 lb
 
 PUSH HERE & LIFT
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 1 1 PREFILLED + TRAINER AUTO-INJECTOR
 
@@ -132,7 +132,7 @@ sanofi aventis
 
 PHYSICIAN SAMPLE NOT FOR SALE
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES in patients weighing over 66 lb
 
@@ -158,7 +158,7 @@ See www.dtsc.ca.gov/hazardouswaste/perchlorate
 
 Package Label - Principal Display Panel – EAI 0.3 mg Physician Sample Outer Case Label
 
-Keep Auvi-Q in this case until you need to use it
+Keep Auvi‑Q in this case until you need to use it
 
 PHYSICIAN SAMPLE NOT FOR SALE
 
@@ -169,7 +169,7 @@ Pull device from this case
 PHYSICIAN SAMPLE.
 NOT FOR SALE
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.3 mg auto-injector
 
 For single-use injection.
 Refill prescription after use.
@@ -186,7 +186,7 @@ Replace auto-injector if solution is discolored, cloudy, or contains particles
 
 Manufactured for sanofi aventis
 
-www.auvi-q.com
+www.Auvi‑Q.com
 
 SA6077-01-01 Origin Germany 50097014
 
@@ -194,11 +194,11 @@ BACK
 
 Package Label - Principal Display Panel – EAI 0.15 mg Carton
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES in patients weighing 33 lb-66 lb
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 For single-use injection.
 Refill prescription after use.
@@ -209,13 +209,13 @@ FOR ALLERGIC EMERGENCIES in patients weighing 33 lb-66 lb
 
 PUSH HERE & LIFT
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 2 1 PREFILLED + TRAINER AUTO-INJECTORS
 
 sanofi aventis
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES in patients weighing 33 lb-66 lb
 
@@ -240,13 +240,13 @@ See www.dtsc.ca.gov/hazardouswaste/perchlorate
 
 Package Label - Principal Display Panel – EAI 0.15 mg Outer Case Label
 
-Keep Auvi-Q in this case until you need to use it
+Keep Auvi‑Q in this case until you need to use it
 
 NDC 0024-5831-02 Rx Only
 
 Pull device from this case
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 For single-use injection.
 Refill prescription after use.
@@ -263,7 +263,7 @@ Replace auto-injector if solution is discolored, cloudy, or contains particles
 
 Manufactured for sanofi aventis
 
-www.auvi-q.com
+www.Auvi‑Q.com
 
 SA6017-02-04 Origin Germany 50097005
 
@@ -273,7 +273,7 @@ Package Label - Principal Display Panel – EAI 0.15 mg Device Label
 
 Each 0.15 mL contains: • 0.15 mg epinephrine • 1.2 mg sodium chloride • 0.2 mg sodium bisulfite • Water for injection
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES
 
@@ -291,7 +291,7 @@ EXP: YYYY-MM XXXXXXXXXXXX Lot: xxxxxxxxxxxxxx SA6026-02-04
 
 For single-use injection Refill prescription after use
 
-Replace the outer case and take your used Auvi-Q with you to a healthcare professional for proper disposal
+Replace the outer case and take your used Auvi‑Q with you to a healthcare professional for proper disposal
 
 Replace auto-injector if solution is discolored, cloudy, or contains particles
 
@@ -301,11 +301,11 @@ Package Label - Principal Display Panel – EAI 0.15 mg Physician Sample Carton
 
 PHYSICIAN SAMPLE NOT FOR SALE
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES in patients weighing 33 lb-66 lb
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 For single-use injection Refill prescription after use
 
@@ -318,7 +318,7 @@ FOR ALLERGIC EMERGENCIES in patients weighing 33 lb-66 lb
 
 PUSH HERE & LIFT
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 1 1 PREFILLED + TRAINER AUTO-INJECTOR
 
@@ -326,7 +326,7 @@ sanofi aventis
 
 PHYSICIAN SAMPLE NOT FOR SALE
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 FOR ALLERGIC EMERGENCIES in patients weighing 33 lb-66 lb
 
@@ -352,7 +352,7 @@ See www.dtsc.ca.gov/hazardouswaste/perchlorate
 
 Package Label - Principal Display Panel – EAI 0.15 mg Physician Sample Outer Case Label
 
-Keep Auvi-Q in this case until you need to use it
+Keep Auvi‑Q in this case until you need to use it
 
 PHYSICIAN SAMPLE NOT FOR SALE
 
@@ -363,7 +363,7 @@ Pull device from this case
 PHYSICIAN SAMPLE.
 NOT FOR SALE
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi‑Q™ epinephrine injection, USP 0.15 mg auto-injector
 
 For single-use injection.
 Refill prescription after use.
@@ -380,7 +380,7 @@ Replace auto-injector if solution is discolored, cloudy, or contains particles
 
 Manufactured for sanofi aventis
 
-www.auvi-q.com
+www.Auvi‑Q.com
 
 SA6077-02-01 Origin Germany 50097008
 
@@ -388,17 +388,17 @@ BACK
 
 Package Label - Principal Display Panel – Trainer Carton Label
 
-TRAINER for Auvi-Q™
+TRAINER for Auvi‑Q™
 
 CONTAINS NO ACTIVE DRUG OR NEEDLE
 
-TRAINER for Auvi-Q™
+TRAINER for Auvi‑Q™
 
 CONTAINS NO ACTIVE DRUG OR NEEDLE
 
 PUSH HERE & LIFT
 
-TRAINER for Auvi-Q™
+TRAINER for Auvi‑Q™
 
 CONTAINS NO ACTIVE DRUG OR NEEDLE
 
@@ -407,7 +407,7 @@ sanofi aventis
 Read enclosed Patient Information leaflet and Trainer Instructions for Use found inside.
 
 Use this TRAINER to practice often.
-Register for refill reminder, helpful resources and tools at: www.auvi-q.com
+Register for refill reminder, helpful resources and tools at: www.Auvi‑Q.com
 
 For Practice Only - Reusable CONTAINS NO ACTIVE DRUG OR NEEDLE
 
@@ -424,7 +424,7 @@ See www.dtsc.ca.gov/hazardouswaste/perchlorate
 
 Package Label - Principal Display Panel – Trainer Outer Case Label
 
-TRAINER for Auvi-Q™
+TRAINER for Auvi‑Q™
 
 CONTAINS NO ACTIVE DRUG OR NEEDLE
 
@@ -432,7 +432,7 @@ CONTAINS NO ACTIVE DRUG OR NEEDLE
 
 Pull TRAINER from this case
 
-TRAINER for Auvi-Q™
+TRAINER for Auvi‑Q™
 
 CONTAINS NO ACTIVE DRUG OR NEEDLE
 
@@ -440,13 +440,13 @@ Instructions for use found inside on TRAINER
 
 FRONT
 
-TRAINER for Auvi-Q™
+TRAINER for Auvi‑Q™
 
 CONTAINS NO ACTIVE DRUG OR NEEDLE
 
 Use this TRAINER to practice often.
 
-Register for refill reminder, helpful resources and tools at: www.auvi-q.com
+Register for refill reminder, helpful resources and tools at: www.Auvi‑Q.com
 
 For Practice Only - Reusable CONTAINS NO ACTIVE DRUG OR NEEDLE
 
@@ -458,13 +458,13 @@ BACK
 
 Package Label - Principal Display Panel – Trainer Device Label
 
-TRAINER for Auvi-Q™
+TRAINER for Auvi‑Q™
 
 CONTAINS NO ACTIVE DRUG OR NEEDLE
 
 SA6078-01-01
 
-TRAINER for Auvi-Q™
+TRAINER for Auvi‑Q™
 
 FOR PRACTICE ONLY - REUSABLE
 

@@ -16,15 +16,15 @@ These effects were not seen in mice at approximately 3 times the maximum recomme
 ## 8.3 NURSING MOTHERS
 
 It is not known whether epinephrine is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Auvi-Q™ is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Auvi‑Q™ is administered to a nursing woman.
 
 ## 8.4 PEDIATRIC USE
 
-Auvi-Q™ may be given safely to pediatric patients at a dosage appropriate to body weight [see DOSAGE AND ADMINISTRATION (2)].
+Auvi‑Q™ may be given safely to pediatric patients at a dosage appropriate to body weight [see DOSAGE AND ADMINISTRATION (2)].
 However, studies in pediatric patients weighing less than 15 kg (33 pounds) have not been conducted.
 
 ## 8.5 GERIATRIC USE
 
-Clinical studies of Auvi-Q™ did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Auvi‑Q™ did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 Epinephrine should be administered with caution in elderly individuals, who may be at greater risk for developing adverse reactions after epinephrine administration [see WARNINGS AND PRECAUTIONS (5.4), OVERDOSAGE (10)].

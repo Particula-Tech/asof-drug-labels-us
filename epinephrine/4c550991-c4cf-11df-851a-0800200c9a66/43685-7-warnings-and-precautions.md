@@ -2,13 +2,13 @@
 
 ## 5.1 EMERGENCY TREATMENT
 
-Auvi-Q™ is not intended as a substitute for immediate medical care.
+Auvi‑Q™ is not intended as a substitute for immediate medical care.
 In conjunction with the administration of epinephrine, the patient should seek immediate medical or hospital care.
 More than two sequential doses of epinephrine should only be administered under direct medical supervision [see INDICATIONS AND USAGE (1), DOSAGE AND ADMINISTRATION (2) and PATIENT COUNSELING INFORMATION (17.1)].
 
 ## 5.2 INCORRECT LOCATIONS OF INJECTION
 
-Auvi-Q™ should ONLY be injected into the anterolateral aspect of the thigh [see DOSAGE AND ADMINISTRATION (2) and PATIENT COUNSELING INFORMATION (17.1)].
+Auvi‑Q™ should ONLY be injected into the anterolateral aspect of the thigh [see DOSAGE AND ADMINISTRATION (2) and PATIENT COUNSELING INFORMATION (17.1)].
 
 - Do not inject intravenously.
   Large doses or accidental intravenous injection of epinephrine may result in cerebral hemorrhage due to sharp rise in blood pressure.
@@ -33,9 +33,9 @@ The alternatives to using epinephrine in a life-threatening situation may not be
 
 Some patients may be at greater risk for developing adverse reactions after epinephrine administration.
 Despite these concerns, it should be recognized that the presence of these conditions is not a contraindication to epinephrine administration in an acute, life-threatening situation.
-Therefore, patients with these conditions, and/or any other person who might be in a position to administer Auvi-Q™ to a patient experiencing anaphylaxis should be carefully instructed in regard to the circumstances under which epinephrine should be used.
+Therefore, patients with these conditions, and/or any other person who might be in a position to administer Auvi‑Q™ to a patient experiencing anaphylaxis should be carefully instructed in regard to the circumstances under which epinephrine should be used.
 
 - Patients with Heart Disease Epinephrine should be administered with caution to patients who have heart disease, including patients with cardiac arrhythmias, coronary artery or organic heart disease, or hypertension.
   In such patients, or in patients who are on drugs that may sensitize the heart to arrhythmias, epinephrine may precipitate or aggravate angina pectoris as well as produce ventricular arrhythmias [see DRUG INTERACTIONS (7) and ADVERSE REACTIONS (6)].
 - Other Patients and Diseases Epinephrine should be administered with caution to patients with hyperthyroidism, diabetes, elderly individuals, and pregnant women.
-  Patients with Parkinson’s disease may notice a temporary worsening of symptoms.
+  Patients with Parkinson's disease may notice a temporary worsening of symptoms.
