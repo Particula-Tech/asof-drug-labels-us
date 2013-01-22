@@ -17,9 +17,9 @@ Table 1
 
 |  | Size (mL) | Composition |  |  |  | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥ 600 mOsmol/L) may cause vein damage.Osmolarity (mOsmol/L) (actual) | pH | Ionic Concentration (mEq/L) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Heparin Sodium, USP (units/mL) | Sodium Chloride, USP (NaCl) (g/L) | Dibasic Sodium Phosphate Heptahydrate, USP (Na2HPO4•7H2O) (g/L) | Citric Acid Hydrous, USP (C6H8O7•H2O) (g/L) | Sodium | Chloride | Phosphate (asHPO4=) | Citrate |  |  |  |  |
-| 1000 USP Heparin Units and 0.9% Sodium Chloride Injection | 500 | 2 | 9 | 4.34 | 0.4 | 322 | 7.0 (6.0to8.0) | 186 | 154 | 32 (16mmol/L) | 6 |
-| 2000 USP Heparin Units and 0.9% Sodium Chloride Injection | 1000 | 2 | 9 | 4.34 | 0.4 | 322 | 7.0 (6.0to8.0) | 186 | 154 | 32 (16mmol/L) | 6 |
+| Heparin Sodium, USP (units/mL) | Sodium Chloride, USP (NaCl) (g/L) | Dibasic Sodium Phosphate Heptahydrate, USP (Na2HPO4•7H2O) (g/L) | Citric Acid Hydrous, USP (C6H8O7•H2O) (g/L) | Sodium | Chloride | Phosphate (as HPO4=) | Citrate |  |  |  |  |
+| 1000 USP Heparin Units and 0.9% Sodium Chloride Injection | 500 | 2 | 9 | 4.34 | 0.4 | 322 | 7.0 (6.0 to 8.0) | 186 | 154 | 32 (16 mmol/L) | 6 |
+| 2000 USP Heparin Units and 0.9% Sodium Chloride Injection | 1000 | 2 | 9 | 4.34 | 0.4 | 322 | 7.0 (6.0 to 8.0) | 186 | 154 | 32 (16 mmol/L) | 6 |
 
 This VIAFLEX Plus plastic container is fabricated from a specially formulated polyvinyl chloride (PL 146 Plastic).
 VIAFLEX Plus on the container indicates the presence of a drug additive in a drug vehicle.
