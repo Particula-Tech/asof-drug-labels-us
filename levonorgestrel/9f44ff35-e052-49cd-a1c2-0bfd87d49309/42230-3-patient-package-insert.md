@@ -274,3 +274,5 @@ Manufactured in Finland
 © 2013, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
 
 Approved: January 2013
+
+6704800
