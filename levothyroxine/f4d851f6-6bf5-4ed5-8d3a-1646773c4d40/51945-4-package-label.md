@@ -8,6 +8,8 @@ NDC 24090-490-84
 
 Rx Only
 
+Do not remove individual capsules from blister packaging until ready to use
+
 AKRIMAX PHARMACEUTICALS
 
 4 blisters × 7 capsules
@@ -21,6 +23,8 @@ NDC 24090-491-84
 25 mcg per capsule
 
 Rx Only
+
+Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
@@ -36,6 +40,8 @@ NDC 24090-492-84
 
 Rx Only
 
+Do not remove individual capsules from blister packaging until ready to use
+
 AKRIMAX PHARMACEUTICALS
 
 4 blisters × 7 capsules
@@ -49,6 +55,8 @@ NDC 24090-493-84
 75 mcg per capsule
 
 Rx Only
+
+Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
@@ -64,6 +72,8 @@ NDC 24090-494-84
 
 Rx Only
 
+Do not remove individual capsules from blister packaging until ready to use
+
 AKRIMAX PHARMACEUTICALS
 
 4 blisters × 7 capsules
@@ -77,6 +87,8 @@ NDC 24090-495-84
 100 mcg per capsule
 
 Rx Only
+
+Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
@@ -92,6 +104,8 @@ NDC 24090-496-84
 
 Rx Only
 
+Do not remove individual capsules from blister packaging until ready to use
+
 AKRIMAX PHARMACEUTICALS
 
 4 blisters × 7 capsules
@@ -105,6 +119,8 @@ NDC 24090-497-84
 125 mcg per capsule
 
 Rx Only
+
+Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
@@ -120,6 +136,8 @@ NDC 24090-498-84
 
 Rx Only
 
+Do not remove individual capsules from blister packaging until ready to use
+
 AKRIMAX PHARMACEUTICALS
 
 4 blisters × 7 capsules
@@ -133,6 +151,8 @@ NDC 24090-499-84
 150 mcg per capsule
 
 Rx Only
+
+Do not remove individual capsules from blister packaging until ready to use
 
 AKRIMAX PHARMACEUTICALS
 
