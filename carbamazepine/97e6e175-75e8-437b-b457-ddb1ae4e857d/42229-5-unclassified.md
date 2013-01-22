@@ -47,9 +47,8 @@ At least once every 3 months throughout the treatment period, attempts should be
 
 |  | Initial Dose | Subsequent Dose | Maximum Daily Dose |
 | --- | --- | --- | --- |
-| Indication | Tablet* | Tablet* | Tablet* |
+| Indication | TabletTablet = Chewable or conventional tablets | Tablet | Tablet |
 | Epilepsy Under 6 yr | 10-20 mg/kg/day b.i.d. or t.i.d. | Increase weekly to achieve optimal clinical response, t.i.d. or q.i.d. | 35 mg/kg/24 hr. (See Dosage and Administration section above) |
 | 6-12 yr | 100 mg b.i.d. (200 mg/day) | Add up to 100 mg/day at weekly intervals, t.i.d. or q.i.d. | 1000 mg/24 hr. |
 | Over 12 yr | 200 mg b.i.d. (400 mg/day) | Add up to 200 mg/day at weekly intervals, t.i.d. or q.i.d. | 1000 mg/24 hr. (12-15 yr) 1200 mg/24 hr. (>15 yr) 1600 mg/24 hr. (adults, in rare instances) |
 | Trigeminal Neuralgia | 100 mg b.i.d. (200 mg/day) | Add up to 200 mg/day in increments of 100 mg every 12 hr. | 1200 mg/24 hr. |
-| * Tablet = Chewable or conventional tablets |  |  |  |

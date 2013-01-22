@@ -212,11 +212,11 @@ cimetidine, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarit
 CYP 3A4 inducers can increase the rate of carbamazepine metabolism.
 Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include:
 
-cisplatin, doxorubicin HCl, felbamate†, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.
+cisplatin, doxorubicin HCl, felbamate†, fosphenytoin, rifampin, phenobarbital,phenytoin, primidone, methsuximide, theophylline, aminophylline.
 
 When carbamazepine is given with drugs that can increase or decrease carbamazepine levels, close monitoring of carbamazepine levels is indicated and dosage adjustment may be required.
 
-______________________________________________________________________________
+____________________________________________________________________________________________________________
 
 * increased levels of the active 10,11-epoxide
 
@@ -226,7 +226,7 @@ ______________________________________________________________________________
 
 Increased levels: clomipramine HCl, phenytoin, primidone
 
-Carbamazepine is a potent inducer of hepatic CYP 3A4 and may therefore reduce plasma concentrations of comedications mainly metabolized by 3A4 through induction of their metabolism.
+Carbamazepine is a potent inducer of hepatic CYP 3A4 and may therefore reduce plasma concentrations of co-medications mainly metabolized by 3A4 through induction of their metabolism.
 Carbamazepine causes, or would be expected to cause, decreased levels of the following:
 
 acetaminophen, alprazolam, bupropion, dihydropyridine calcium channel blockers (e.g., felodipine), citalopram, cyclosporine, corticosteroids (e.g., prednisolone, dexamethasone), clonazepam, clozapine, dicumarol, doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
@@ -247,7 +247,9 @@ Carbamazepine may antagonize the effects of nondepolarizing muscle relaxants (e.
 
 Their dosage may need to be raised, and patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected.
 
-Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
+Alterations of thyroid function have been reported in combination therapy with
+
+other anticonvulsant medications.
 
 Concomitant use of carbamazepine with hormonal contraceptive products (e.g., oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
 Breakthrough bleeding and unintended pregnancies have been reported.
