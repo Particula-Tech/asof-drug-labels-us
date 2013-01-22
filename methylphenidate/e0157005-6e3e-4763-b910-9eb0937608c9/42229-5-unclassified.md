@@ -1,4 +1,4 @@
-Manufactured for: NextWave Pharmaceuticals, Inc., Cupertino, CA 95014 Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 Rev 02
+Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 LAB-0656-1.0
 
 Instructions for Use
 
@@ -80,8 +80,6 @@ Figure M
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-NextWave Pharmaceuticals, Inc., Cupertino, CA 95014
+LAB-0658-1.0
 
-Rev 00
-
-09/2012
+January 2013

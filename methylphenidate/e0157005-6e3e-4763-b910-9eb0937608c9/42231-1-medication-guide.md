@@ -12,7 +12,7 @@ This Medication Guide does not take the place of talking to your doctor about yo
 | 1. Heart-related problems: sudden death in patients who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate |
 | Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. |
 | Your doctor should check you or your child carefully for heart problems before starting QUILLIVANT XR. |
-| Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with QUILLIVANT XR. |
+| Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with QUILLIVANT XR. |
 | Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking QUILLIVANT XR. |
 | 2. Mental (Psychiatric) problems: |
 | All Patients new or worse behavior and thought problemsnew or worse bipolar illness |
@@ -24,7 +24,7 @@ What is QUILLIVANT XR?
 
 QUILLIVANT XR is a central nervous system stimulant prescription medicine.
 QUILLIVANT XR is a liquid medicine that you take by mouth.
-It is used for the treatment of Attention-Deficit Hyperactivity Disorder (ADHD).
+It is used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
 QUILLIVANT XR may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
 
 QUILLIVANT XR should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
@@ -82,11 +82,11 @@ How should QUILLIVANT XR be taken?
   If the oral dosing dispenser is missing or not provided, please contact your pharmacist for a replacement.
 - QUILLIVANT XR can be taken with or without food.
   Taking QUILLIVANT XR with food may shorten the time it takes for the medicine to start working.
-- From time to time, your doctor may stop QUILLIVANT XR treatment for awhile to check ADHD symptoms.
+- From time to time, your doctor may stop QUILLIVANT XR treatment for a while to check ADHD symptoms.
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking QUILLIVANT XR.
 - Children should have their height and weight checked often while taking QUILLIVANT XR.
   QUILLIVANT XR treatment may be stopped if a problem is found during these check-ups.
-- In case of poisoning call your poison control center at 1-800-222-1222 right away, or go the nearest hospital emergency room.
+- In case of poisoning call your poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
 
 What are possible side effects of QUILLIVANT XR?
 
@@ -152,10 +152,6 @@ Inactive Ingredients: sodium polystyrene sulfonate, povidone, triacetin, polyvin
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for and distributed by:
+LAB-0657-1.0
 
-NextWave Pharmaceuticals, Inc., Cupertino, CA 95014
-
-Rev 00
-
-09/2012
+January 2013
