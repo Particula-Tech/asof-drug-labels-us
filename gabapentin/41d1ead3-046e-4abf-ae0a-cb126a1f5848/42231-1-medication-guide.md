@@ -148,7 +148,7 @@ This Medication Guide summarizes the most important information about gabapentin
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about gabapentin that was written for healthcare professionals.
 
-For more information about gabapentin capsules, or to report side effects regarding gabapentin capsules, please call Exelan Pharmaceuticals at 1-877-397-6028.
+For more information about gabapentin capsules, or to report side effects regarding gabapentin capsules, please call Exelan Pharmaceuticals at 1-855-295-7455.
 
 ## What are the ingredients in gabapentin capsules?
 
@@ -161,6 +161,6 @@ The 400 mg capsule shell contains FD&C Red 40, D&C Yellow 10 and titanium dioxid
 
 Manufactured by: InvaGen Pharmaceuticals, Inc. Hauppauge, NY, 11788
 
-Manufactured for: Exelan Pharmaceuticals, Inc. Peachtree City, GA 30269
+Manufactured for: Exelan Pharmaceuticals, Inc. Lawrenceville, GA 30046
 
-Rev: 10/11
+Rev: 07/12
