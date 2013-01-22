@@ -2,7 +2,7 @@
 
 In the treatment of accidental overdosages of folic acid antagonists, intravenous leucovorin should be administered as promptly as possible.
 As the time interval between antifolate administration [e.g., methotrexate (MTX)] and leucovorin rescue increases, leucovorin's effectiveness in counteracting toxicity decreases.
-In the treatment of accidental overdosages of intrathecally administered folic acid antagonists, do not adminster leucovorin intrathecally.
+In the treatment of accidental overdosages of intrathecally administered folic acid antagonists, do not administer leucovorin intrathecally.
 LEUCOVORIN MAY BE HARMFUL OR FATAL IF GIVEN INTRATHECALLY.
 
 Monitoring of the serum MTX concentration is essential in determining the optimal dose and duration of treatment with leucovorin.
