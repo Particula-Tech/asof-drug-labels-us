@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203634"
+  ],
+  "inn": "budesonide",
+  "labeler": "Santarus, Inc",
+  "package_ndcs": [
+    "68012-309-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "budesonide (11.beta.,16.alpha.(s))",
+      "name": "Uceris"
+    }
+  ],
+  "setid": "92cbb190-8851-46ed-bfe0-166ca62ef2e9",
+  "source": "dailymed"
+}
