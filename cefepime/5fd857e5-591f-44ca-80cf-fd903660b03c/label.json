@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA065441"
+  ],
+  "inn": "cefepime",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-240-10",
+    "44567-241-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefepime",
+      "name": "Cefepime"
+    }
+  ],
+  "setid": "5fd857e5-591f-44ca-80cf-fd903660b03c",
+  "source": "dailymed"
+}
