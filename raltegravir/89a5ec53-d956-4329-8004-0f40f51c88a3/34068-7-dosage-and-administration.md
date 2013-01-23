@@ -19,7 +19,7 @@ For the treatment of adult patients with HIV-1 infection, the dosage of ISENTRES
 For the treatment of children and adolescents with HIV-1 infection, the dosage of ISENTRESS is as follows:
 
 - 12 years of age and older: One 400 mg film-coated tablet orally, twice daily
-- 6 to less than 12 years of age: If at least 25 kg in weight:If less than 25 kg in weight:
+- 6 to less than 12 years of age: If at least 25 kg in weight: If less than 25 kg in weight:
   - One 400 mg film-coated tablet orally, twice daily OR
   - Chewable tablets: weight based to maximum dose 300 mg, twice daily as specified in Table 1
   - Chewable tablets: weight based to maximum dose 300 mg, twice daily as specified in Table 1
