@@ -59,14 +59,14 @@ A recommended guideline for such a transition is given below but the physician s
 
 | Alternative Agent | Dosage |
 | --- | --- |
-| Propranolol hydrochloride | 10 to 20 mg q 4 to 6 hrs |
-| Digoxin | 0.125 to 0.5 mg q 6 hrs (p.o. or i.v.) |
+| Propranolol hydrochloride | 10 mg to 20 mg q 4 to 6 hrs |
+| Digoxin | 0.125 mg to 0.5 mg q 6 hrs (p.o. or i.v.) |
 | Verapamil | 80 mg q 6 hrs |
 
 The dosage of esmolol should be reduced as follows:
 
-1. Thirty minutes following the first dose of the alternative agent, reduce the infusion rate of esmolol by one-half (50%).
-2. Following the second dose of the alternative agent, monitor the patient’s response and if satisfactory control is maintained for the first hour, discontinue esmolol.
+1. 1.Thirty minutes following the first dose of the alternative agent, reduce the infusion rate of esmolol by one-half (50%).
+2. 2.Following the second dose of the alternative agent, monitor the patient’s response and if satisfactory control is maintained for the first hour, discontinue esmolol.
 
 The use of infusions of esmolol up to 24 hours has been well documented; in addition, limited data from 24 to 48 hrs (N=48) indicate that esmolol is well tolerated up to 48 hours.
 
@@ -75,17 +75,19 @@ INTRAOPERATIVE AND POSTOPERATIVE TACHYCARDIA AND/OR HYPERTENSION
 In the intraoperative and postoperative settings it is not always advisable to slowly titrate the dose of esmolol to a therapeutic effect.
 Therefore, two dosing options are presented: immediate control dosing and a gradual control when the physician has time to titrate.
 
-1. Immediate Control For intraoperative treatment of tachycardia and/or hypertension give an 80 mg (approximately 1 mg/kg) bolus dose over 30 seconds followed by a 150 mcg/kg/min infusion, if necessary.
+1. 1.Immediate Control
+2. For intraoperative treatment of tachycardia and/or hypertension give an 80 mg (approximately 1 mg/kg) bolus dose over 30 seconds followed by a 150 mcg/kg/min infusion, if necessary.
    Adjust the infusion rate as required up to 300 mcg/kg/min to maintain desired heart rate and/or blood pressure.
-2. Gradual Control For postoperative tachycardia and hypertension, the dosing schedule is the same as that used in supraventricular tachycardia.
+3. 2.Gradual Control
+4. For postoperative tachycardia and hypertension, the dosing schedule is the same as that used in supraventricular tachycardia.
    To initiate treatment, administer a loading dosage infusion of 500 mcg/kg/min of esmolol for one minute followed by a four-minute maintenance infusion of 50 mcg/kg/min.
    If an adequate therapeutic effect is not observed within five minutes, repeat the same loading dosage and follow with a maintenance infusion increased to 100 mcg/kg/min (see above SUPRAVENTRICULAR TACHYCARDIA)
 
 Notes:
 
-1. Higher dosages (250 to 300 mcg/kg/min) may be required for adequate control of blood pressure than those required for the treatment of atrial fibrillation, flutter and sinus tachycardia.
+1. 1.Higher dosages (250 to 300 mcg/kg/min) may be required for adequate control of blood pressure than those required for the treatment of atrial fibrillation, flutter and sinus tachycardia.
    One third of the postoperative hypertensive patients required these higher doses.
-2. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+2. 2.Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 Directions for Use of the 10 mL Ready-to-use Vial (10 milligrams/mL)
 

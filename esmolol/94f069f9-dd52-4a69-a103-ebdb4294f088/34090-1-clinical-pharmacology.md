@@ -17,7 +17,7 @@ Steady-state blood levels are maintained during infusion but decrease rapidly af
 Because of its short half-life, blood levels of esmolol can be rapidly altered by increasing or decreasing the infusion rate and rapidly eliminated by discontinuing the infusion.
 
 Consistent with the high rate of blood-based metabolism of esmolol, less than 2% of the drug is excreted unchanged in the urine.
-Within 24 hours of the end of infusion, approximately 73 to 88% of the dosage has been accounted for in the urine as the acid metabolite of esmolol.
+Within 24 hours of the end of infusion, approximately 73% to 88% of the dosage has been accounted for in the urine as the acid metabolite of esmolol.
 
 Metabolism of esmolol results in the formation of the corresponding free acid and methanol.
 The acid metabolite has been shown in animals to have about 1/1500th the activity of esmolol and in normal volunteers its blood levels do not correspond to the level of beta blockade.
@@ -53,13 +53,13 @@ No adverse pulmonary effects were observed in patients with COPD who received th
 
 In two multicenter, randomized, double-blind, controlled comparisons of esmolol with placebo and propranolol, maintenance doses of 50 to 300 mcg/kg/min (0.05 to 0.3 mg/kg/min) of esmolol were found to be more effective than placebo and about as effective as propranolol, 3 to 6 mg given by bolus injections, in the treatment of supraventricular tachycardia, principally atrial fibrillation and atrial flutter.
 The majority of these patients developed their arrhythmias postoperatively.
-About 60 to 70% of the patients treated with esmolol had a desired therapeutic effect (either a 20% reduction in heart rate, a decrease in heart rate to less than 100 bpm, or, rarely, conversion to NSR) and about 95% of those who responded did so at a dosage of 200 mcg/kg/min (0.2 mg/kg/min) or less.
+About 60% to 70% of the patients treated with esmolol had a desired therapeutic effect (either a 20% reduction in heart rate, a decrease in heart rate to less than 100 bpm, or, rarely, conversion to NSR) and about 95% of those who responded did so at a dosage of 200 mcg/kg/min (0.2 mg/kg/min) or less.
 The average effective dosage of esmolol was approximately 100 to 115 mcg/kg/min (0.1 to 0.115 mg/kg/min) in the two studies.
 Other multicenter baseline-controlled studies gave essentially similar results.
 In the comparison with propranolol, about 50% of patients in both the esmolol and propranolol groups were on concomitant digoxin.
 Response rates were slightly higher with both beta blockers in the digoxin-treated patients.
 
-In all studies significant decreases of blood pressure occurred in 20 to 50% of patients, identified either as adverse reaction reports by investigators, or by observation of systolic pressure less than 90 mmHg or diastolic pressure less than 50 mmHg.
+In all studies significant decreases of blood pressure occurred in 20% to 50% of patients, identified either as adverse reaction reports by investigators, or by observation of systolic pressure less than 90 mmHg or diastolic pressure less than 50 mmHg.
 The hypotension was symptomatic (mainly diaphoresis or dizziness) in about 12% of patients, and therapy was discontinued in about 11% of patients, about half of whom were symptomatic.
 In comparison to propranolol, hypotension was about three times as frequent with esmolol, 53% vs. 17%.
 The hypotension was rapidly reversible with decreased infusion rate or after discontinuation of therapy with esmolol.

@@ -16,5 +16,5 @@ Its partition coefficient (octanol/water) at pH 7.0 is 0.42 compared to 17.0 for
 
 Esmolol hydrochloride injection, 10 mg/mL is a clear, colorless to light yellow, sterile, nonpyrogenic solution.
 
-100 mg, 10 mL Single Dose Vial - Each mL contains 10 mg Esmolol Hydrochloride and Water for Injection; buffered with 1.688 mg Sodium Acetate Anhydrous (equivalent to 2.8mg Sodium Acetate Trihydrate) and 0.546 mg Glacial Acetic Acid.
+100 mg, 10 mL Single Dose Vial - Each mL contains 10 mg Esmolol Hydrochloride and Water for Injection; buffered with 1.688 mg Sodium Acetate Anhydrous (equivalent to 2.8 mg Sodium Acetate Trihydrate) and 0.546 mg Glacial Acetic Acid.
 Sodium Hydroxide and/or Hydrochloric Acid added as necessary, to adjust pH to 4.5 to 5.5.

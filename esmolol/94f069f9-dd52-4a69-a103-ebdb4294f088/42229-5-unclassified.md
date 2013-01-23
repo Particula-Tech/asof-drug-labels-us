@@ -1,4 +1,4 @@
-Rx Only
+Rx only
 
 Ready-to-use Vials
 

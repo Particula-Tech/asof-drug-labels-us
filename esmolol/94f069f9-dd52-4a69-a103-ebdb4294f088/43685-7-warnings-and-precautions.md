@@ -1,6 +1,6 @@
 # WARNINGS
 
-Hypotension: In clinical trials 20 to 50% of patients treated with esmolol have experienced hypotension, generally defined as systolic pressure less than 90 mmHg and/or diastolic pressure less than 50 mmHg.
+Hypotension: In clinical trials 20% to 50% of patients treated with esmolol have experienced hypotension, generally defined as systolic pressure less than 90 mmHg and/or diastolic pressure less than 50 mmHg.
 About 12% of the patients have been symptomatic (mainly diaphoresis or dizziness).
 Hypotension can occur at any dose but is dose-related so that doses beyond 200 mcg/kg/min (0.2 mg/kg/min) are not recommended.
 Patients should be closely monitored, especially if pretreatment blood pressure is low.
@@ -32,7 +32,7 @@ Extravasation of 20 mg/mL may lead to a serious local reaction and possible skin
 Concentrations greater than 10 mg/mL or infusion into small veins or through a butterfly catheter should be avoided.
 
 Because the acid metabolite of esmolol is primarily excreted unchanged by the kidney, esmolol should be administered with caution to patients with impaired renal function.
-The elimination half-life of the acid metabolite was prolonged ten-fold and the plasma level was considerably elevated in patients with endstage renal disease.
+The elimination half-life of the acid metabolite was prolonged ten-fold and the plasma level was considerably elevated in patients with end-stage renal disease.
 
 Care should be taken in the intravenous administration of esmolol as sloughing of the skin and necrosis have been reported in association with infiltration and extravasation of intravenous infusions.
 
@@ -44,7 +44,7 @@ Patients treated concurrently with esmolol and a catecholamine depletor should t
 A study of interaction between esmolol and warfarin showed that concomitant administration of esmolol and warfarin does not alter warfarin plasma levels.
 Esmolol concentrations were equivocally higher when given with warfarin, but this is not likely to be clinically important.
 
-When digoxin and esmolol were concomitantly administered intravenously to normal volunteers, there was a 10 to 20% increase in digoxin blood levels at some time points.
+When digoxin and esmolol were concomitantly administered intravenously to normal volunteers, there was a 10% to 20% increase in digoxin blood levels at some time points.
 Digoxin did not affect esmolol pharmacokinetics.
 When intravenous morphine and esmolol were concomitantly administered in normal subjects, no effect on morphine blood levels was seen, but esmolol steady-state blood levels were increased by 46% in the presence of morphine.
 No other pharmacokinetic parameters were changed.

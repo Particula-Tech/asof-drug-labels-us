@@ -2,24 +2,37 @@
 
 NDC 67457-182-10
 
-10 mL
-
-Single Dose Vial
+For Intravenous Use
 
 Esmolol Hydrochloride Injection
 
-100mg/10mL (10 mg/mL)
+100 mg/10 mL (10 mg/mL)
 
-FOR INTRAVENOUS USE
+Rx only 10 x 10 mL Single-Dose Vials
 
-Contains no preservatives - discard unused portion.
+Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Rx Only
+Manufactured by: Mylan Institutional Galway, Ireland
+
+MI:182:10C:R1
+
+www.mylan.com
+
+Contains no preservatives.
+Discard unused portion.
 
 Each mL contains: 10 mg Esmolol Hydrochloride and Water for Injection.
-Buffered with Sodium Acetate and Glacial Acetic Acid.
-Sodium Hydroxide and/or Hydrochloric Acid added for pH adjustment. pH range is 4.5 - 5.5.
+Buffered with 1.688 mg Sodium Acetate Anhydrous (equivalent to 2.8 mg Sodium Acetate Trihydrate) and 0.546 mg Glacial Acetic Acid.
+Sodium Hydroxide and/or Hydrochloric Acid added for pH adjustment. pH range is 4.5 to 5.5.
 
-Manufactured for: Bioniche Pharma USA LLC, Lake Forest, IL 60045
+Usual Dosage: See accompanying prescribing information.
 
-Made in Ireland
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+
+Protect from freezing.
+
+Avoid excessive heat.
+
+Avoid contact with alkalies.
+Do not use if discolored or if a precipitate is present.

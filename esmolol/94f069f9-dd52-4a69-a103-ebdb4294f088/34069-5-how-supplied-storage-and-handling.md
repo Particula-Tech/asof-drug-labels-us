@@ -1,19 +1,18 @@
 # HOW SUPPLIED
 
-ESMOLOL HYROCHLORIDE INJECTION, 10 mg/mL
+Esmolol Hydrochloride Injection, 100 mg/10 mL (10 mg/mL)
 
-NDC 67457-182-10 100 mg – 10 mL Ready-to-use Vials, Box of 10
+NDC 67457-182-10 carton containing 10, 10 mL Ready-to-use Vials
 
-Store at 25°C (77°F).
-Excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
-
-PROTECT FROM FREEZING.
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+Protect from freezing.
 Avoid excessive heat.
 
-Manufactured for: Manufactured by:
+Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Bioniche Pharma USA LLC, Bioniche Teo., Inverin,
+Manufactured by: Mylan Institutional Galway, Ireland
 
-Lake Forest, IL 60045 Co. Galway, Ireland
+APRIL 2012 MI:ESMOIJ:R1
 
-Revised May 2008 0643L100
+0643L101

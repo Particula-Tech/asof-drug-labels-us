@@ -27,4 +27,4 @@ Taste perversion has also been reported.
 Skin (Infusion Site) – Infusion site reactions including inflammation and induration were reported in about 8% of patients.
 Edema, erythema, skin discoloration, burning at the infusion site, thrombophlebitis, and local skin necrosis from extravasation have each occurred in less than 1% of patients.
 
-Miscellaneous – Each of the following has been reported in less than 1% of patients: Urinary retention, speech disorder, abnormal vision, midcapsular pain, rigors, and fever.
+Miscellaneous – Each of the following has been reported in less than 1% of patients: Urinary retention, speech disorder, abnormal vision, midscapular pain, rigors, and fever.
