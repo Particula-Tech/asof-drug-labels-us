@@ -57,7 +57,8 @@ What are BOTOX and BOTOX Cosmetic?
 
 BOTOX is a prescription medicine that is injected into muscles and used:
 
-- to treat leakage of urine (incontinence) in adults with overactive bladder due to neurologic disease.
+- to treat overactive bladder symptoms such as a strong need to urinate with leaking or wetting accidents (urge urinary incontinence), a strong need to urinate right away (urgency), and urinating often (frequency) in adults when another type of medicine (anticholinergic) does not work well enough or cannot be taken.
+- to treat leakage of urine (incontinence) in adults with overactive bladder due to neurologic disease when another type of medicine (anticholinergic) does not work well enough or cannot be taken.
 - to prevent headaches in adults with chronic migraine who have 15 or more days each month with headache lasting 4 or more hours each day.
 - to treat increased muscle stiffness in elbow, wrist, and finger muscles in adults with upper limb spasticity.
 - to treat the abnormal head position and neck pain that happens with cervical dystonia (CD) in adults.
@@ -165,7 +166,9 @@ Other side effects of BOTOX and BOTOX Cosmetic include:
 - neck pain
 - eye problems: double vision, blurred vision, decreased eyesight, drooping eyelids, swelling of your eyelids, and dry eyes.
 - urinary tract infection in people being treated for urinary incontinence
+- painful urination in people being treated for urinary incontinence
 - inability to empty your bladder on your own and are being treated for urinary incontinence.
+  If you have difficulty fully emptying your bladder after getting BOTOX, you may need to use disposable self-catheters to empty your bladder up to a few times each day until your bladder is able to start empyting again.
 - allergic reactions.
   Symptoms of an allergic reaction to BOTOX or BOTOX Cosmetic may include: itching, rash, red itchy welts, wheezing, asthma symptoms, or dizziness or feeling faint.
   Tell your doctor or get medical help right away if you are wheezing or have asthma symptoms, or if you become dizzy or faint.
@@ -193,14 +196,13 @@ Active ingredient: botulinum toxin type A
 
 Inactive ingredients: human albumin and sodium chloride
 
-Issued: 08/2011
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2012 Allergan, Inc. ® marks owned by Allergan, Inc. Patented.
-See: www.allergan.com/products/patent_notices
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 Revised: 01/2013 © 2013 Allergan, Inc. ® marks owned by Allergan, Inc.
 
 Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
+Patented.
+See: www.allergan.com/products/patent_notices
 
-72284US14
+72284US15
