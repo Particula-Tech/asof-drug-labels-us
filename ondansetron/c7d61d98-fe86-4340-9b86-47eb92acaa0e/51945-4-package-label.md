@@ -76,8 +76,6 @@ Orally Disintegrating Tablets
 
 4 mg
 
-30 Tablets (3 blistercards each containing 10 tablets)
-
 Each tablet contains 4 mg ondansetron base.
 
 Store between 2o and 30oC (36o and 86oF).
@@ -88,24 +86,14 @@ Rx only
 
 See package insert for Dosage and Administration.
 
-Do not remove ZOFRAN ODT Orally Disintegrating Tablets from the blisterpack until immediately before use.
-When dispensed for outpatient use, the blister(s) should be provided in an appropriate child-resistant container.
+30 Tablets (3 blistercards each containing 10 tablets)
 
-Do not use if blisters are torn, broken, or missing.
+Made in Singapore
 
-Manufactured by Cardinal Health
+©2012, GlaxoSmithKline
 
-Blagrove, Swindon, Wiltshire, UK SN5 8RU
-
-for GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in England
-
-©2004, GlaxoSmithKline
-
-A007639 Rev.8/04
+A106432 Rev.
+6/12
 
 # Principal Display Panel
 
@@ -119,8 +107,6 @@ Orally Disintegrating Tablets
 
 8 mg
 
-30 Tablets (3 blistercards each containing 10 tablets)
-
 Each tablet contains 8 mg ondansetron base.
 
 Store between 2o and 30oC (36o and 86oF).
@@ -131,25 +117,14 @@ Rx only
 
 See package insert for Dosage and Administration.
 
-Do not remove ZOFRAN ODT Orally Disintegrating Tablets from the blisterpack until immediately before use.
-When dispensed for outpatient use, the blister(s) should be provided in an appropriate child-resistant container.
+30 Tablets (3 blistercards each containing 10 tablets)
 
-Do not use if blisters are torn, broken, or missing.
+Made in Singapore
 
-Manufactured by Cardinal Health
+©2012, GlaxoSmithKline
 
-Blagrove, Swindon, Wiltshire, UK SN5 8RU
-
-for GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in England
-
-©2004, GlaxoSmithKline
-
-A007692 Rev.
-8/04
+A106434 Rev.
+6/12
 
 # Principal Display Panel
 
