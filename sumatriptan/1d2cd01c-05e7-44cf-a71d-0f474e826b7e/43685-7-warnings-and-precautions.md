@@ -1,16 +1,16 @@
 # WARNINGS
 
-Sumatriptan succinate tablets should only be used where a clear diagnosis of migraine headache has been established.
+Sumatriptan tablets should only be used where a clear diagnosis of migraine headache has been established.
 
 ## Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events
 
 Sumatriptan should not be given to patients with documented ischemic or vasospastic coronary artery disease (CAD) (see CONTRAINDICATIONS).
-It is strongly recommended that sumatriptan not be given to patients in whom unrecognized CAD is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, female with surgical or physiological menopause or male over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
+It is strongly recommended that sumatriptan not be given to patients in whom unrecognized CAD is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, female with surgical or physiological menopause, or male over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
 The sensitivity of cardiac diagnostic procedures to detect cardiovascular disease or predisposition to coronary artery vasospasm is modest, at best.
 If, during the cardiovascular evaluation, the patient’s medical history or electrocardiographic investigations reveal findings indicative of, or consistent with, coronary artery vasospasm or myocardial ischemia, sumatriptan should not be administered (see CONTRAINDICATIONS).
 
 For patients with risk factors predictive of CAD, who are determined to have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of sumatriptan tablets take place in the setting of a physician’s office or similar medically staffed and equipped facility unless the patient has previously received sumatriptan.
-Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining on the first occasion of use an electrocardiogram (ECG) during the interval immediately following sumatriptan succinate tablets, in these patients with risk factors.
+Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining on the first occasion of use an electrocardiogram (ECG) during the interval immediately following sumatriptan tablets in these patients with risk factors.
 
 It is recommended that patients who are intermittent long-term users of sumatriptan and who have or acquire risk factors predictive of CAD, as described above, undergo periodic interval cardiovascular evaluation as they continue to use sumatriptan.
 
@@ -18,7 +18,7 @@ The systematic approach described above is intended to reduce the likelihood tha
 
 ## Drug-Associated Cardiac Events and Fatalities
 
-Serious adverse cardiac events, including acute myocardial infarction, life threatening disturbances of cardiac rhythm and death have been reported within a few hours following the administration of sumatriptan succinate injection or sumatriptan succinate tablets.
+Serious adverse cardiac events, including acute myocardial infarction, life threatening disturbances of cardiac rhythm and death have been reported within a few hours following the administration of sumatriptan succinate injection or sumatriptan tablets.
 Considering the extent of use of sumatriptan in patients with migraine, the incidence of these events is extremely low.
 
 The fact that sumatriptan can cause coronary vasospasm, that some of these events have occurred in patients with no prior cardiac disease history and with documented absence of CAD, and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug.
@@ -37,7 +37,7 @@ Among approximately 4,000 patients with migraine who participated in premarketin
 
 ### Post-Marketing Experience with Sumatriptan
 
-Serious cardiovascular events, some resulting in death, have been reported in association with the use of sumatriptan succinate injection or sumatriptan succinate tablets.
+Serious cardiovascular events, some resulting in death, have been reported in association with the use of sumatriptan succinate injection or sumatriptan tablets.
 The uncontrolled nature of post-marketing surveillance, however, makes it impossible to determine definitively the proportion of the reported cases that were actually caused by sumatriptan or to reliably assess causation in individual cases.
 On clinical grounds, the longer the latency between the administration of sumatriptan and the onset of the clinical event, the less likely the association is to be causative.
 Accordingly, interest has focused on events beginning within one hour of the administration of sumatriptan.
@@ -64,9 +64,10 @@ Visual disorders may also be part of a migraine attack.
 
 ## Serotonin Syndrome
 
-The development of a potentially life threatening serotonin syndrome may occur with triptans, including treatment with sumatriptan, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
-If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram, escitalopram) or SNRI (e.g., venlafaxine, duloxetine) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome may occur with triptans, including sumatriptan, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+The onset of symptoms can occur within minutes to hours of receiving a new or a greater dose of a serotonergic medication.
+Treatment with sumatriptan treatment should be discontinued if serotonin syndrome is suspected.
 
 ## Increase in Blood Pressure
 
@@ -77,7 +78,7 @@ Sumatriptan should be administered with caution to patients with controlled hype
 ## Concomitant Drug Use
 
 In patients taking MAO-A inhibitors, sumatriptan plasma levels attained after treatment with recommended doses are 7-fold higher following oral administration than those obtained under other conditions.
-Accordingly, the coadministration of sumatriptan succinate tablets and an MAO-A inhibitor is contraindicated (see CLINICAL PHARMACOLOGY and CONTRAINDICATIONS).
+Accordingly, the coadministration of sumatriptan tablets and an MAO-A inhibitor is contraindicated (see CLINICAL PHARMACOLOGY and CONTRAINDICATIONS).
 
 ## Hypersensitivity
 
@@ -89,7 +90,7 @@ In general, hypersensitivity reactions to drugs are more likely to occur in indi
 
 ## General
 
-Chest discomfort and jaw or neck tightness have been reported following use of sumatriptan succinate tablets and have also been reported infrequently following administration of sumatriptan nasal spray.
+Chest discomfort and jaw or neck tightness have been reported following use of sumatriptan tablets and have also been reported infrequently following administration of sumatriptan nasal spray.
 Chest, jaw or neck tightness is relatively common after administration of sumatriptan succinate injection.
 Only rarely have these symptoms been associated with ischemic ECG changes.
 However, because sumatriptan may cause coronary artery vasospasm, patients who experience signs or symptoms suggestive of angina following sumatriptan should be evaluated for the presence of CAD or a predisposition to Prinzmetal variant angina before receiving additional doses of sumatriptan, and should be monitored electrocardiographically if dosing is resumed and similar symptoms recur.
@@ -105,20 +106,12 @@ There have been rare reports where patients received sumatriptan for severe head
 
 For a given attack, if a patient does not respond to the first dose of sumatriptan, the diagnosis of migraine should be reconsidered before administration of a second dose.
 
-Overuse of acute migraine treatments has been associated with the exacerbation of headache (medication overuse headache) in susceptible patients.
-Withdrawal of the treatment may be necessary.
+## Overuse
 
-## Binding to Melanin-Containing Tissues
-
-In rats treated with a single subcutaneous dose (0.5 mg/kg) or oral dose (2 mg/kg) of radiolabeled sumatriptan, the elimination half-life of radioactivity from the eye was 15 and 23 days, respectively, suggesting that sumatriptan and/or its metabolites bind to the melanin of the eye.
-Because there could be an accumulation in melanin-rich tissues over time, this raises the possibility that sumatriptan could cause toxicity in these tissues after extended use.
-However, no effects on the retina related to treatment with sumatriptan were noted in any of the oral or subcutaneous toxicity studies.
-Although no systematic monitoring of ophthalmologic function was undertaken in clinical trials and no specific recommendations for ophthalmologic monitoring are offered, prescribers should be aware of the possibility of long-term ophthalmologic effects.
-
-## Corneal Opacities
-
-Sumatriptan causes corneal opacities and defects in the corneal epithelium in dogs; this raises the possibility that these changes may occur in humans.
-While patients were not systematically evaluated for these changes in clinical trials, and no specific recommendations for monitoring are being offered, prescribers should be aware of the possibility of these changes (see ANIMAL TOXICOLOGY).
+Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
+Medication overuse headache may present as migraine-like daily headaches or as a marked increase in frequency of migraine attacks.
+Detoxification of patients, including withdrawal of the overused drugs, and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
+Migraine patients should be informed about the risks of medication overuse, and encouraged to record headache frequency and drug use.
 
 ## Information for Patients
 
@@ -144,17 +137,17 @@ Because there is a theoretical basis that these effects may be additive, use of 
 ### Monoamine Oxidase-A Inhibitors
 
 MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure.
-Therefore, the use of sumatriptan succinate tablets in patients receiving MAO-A inhibitors is contraindicated (see CLINICAL PHARMACOLOGY and CONTRAINDICATIONS).
+Therefore, the use of sumatriptan tablets in patients receiving MAO-A inhibitors is contraindicated (see CLINICAL PHARMACOLOGY and CONTRAINDICATIONS).
 
 ## Drug/Laboratory Test Interactions
 
-Sumatriptan succinate tablets are not known to interfere with commonly employed clinical laboratory tests.
+Sumatriptan tablets are not known to interfere with commonly employed clinical laboratory tests.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 ### Carcinogenesis
 
-In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats, 104 weeks) or drinking water (mice, 78 weeks).
+In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats: 104 weeks) or drinking water (mice: 78 weeks).
 Average exposures achieved in mice receiving the highest dose (target dose of 160 mg/kg/day) were approximately 40 times the exposure attained in humans after the maximum recommended single oral dose of 100 mg.
 The highest dose administered to rats (160 mg/kg/day, reduced from 360 mg/kg/day during week 21) was approximately 15 times the maximum recommended single human oral dose of 100 mg on a mg/m2 basis.
 There was no evidence of an increase in tumors in either species related to sumatriptan administration.
@@ -189,7 +182,7 @@ The mechanism of the embryolethality is not known.
 The highest no-effect dose for embryolethality by the oral route was 50 mg/kg/day, which is approximately 9 times the maximum single recommended human oral dose of 100 mg on a mg/m2 basis.
 By the intravenous route, the highest no-effect dose was 0.75 mg/kg/day, or approximately one-tenth of the maximum single recommended human oral dose of 100 mg on a mg/m2 basis.
 
-The intravenous administration of sumatriptan to pregnant rats throughout organogenesis at 12.5mg/kg/day, the maximum dose tested, did not cause embryolethality.
+The intravenous administration of sumatriptan to pregnant rats throughout organogenesis at 12.5 mg/kg/day, the maximum dose tested, did not cause embryolethality.
 This dose is equivalent to the maximum single recommended human oral dose of 100 mg on a mg/m2 basis.
 Additionally, in a study in rats given subcutaneous sumatriptan daily prior to and throughout pregnancy at 60 mg/kg/day, the maximum dose tested, there was no evidence of increased embryo/fetal lethality.
 This dose is equivalent to approximately 6 times the maximum recommended single human oral dose of 100 mg on a mg/m2 basis.
@@ -218,11 +211,11 @@ In a similar study in rats by the subcutaneous route there was no increase in pu
 ### Nursing Mothers
 
 Sumatriptan is excreted in human breast milk following subcutaneous administration.
-Infant exposure to sumatriptan can be minimized by avoiding breast-feeding for 12 hours after treatment with sumatriptan succinate tablets.
+Infant exposure to sumatriptan can be minimized by avoiding breast-feeding for 12 hours after treatment with sumatriptan tablets.
 
 ### Pediatric Use
 
-Safety and effectiveness of sumatriptan succinate tablets in pediatric patients under 18 years of age have not been established; therefore, sumatriptan succinate tablets are not recommended for use in patients under 18 years of age.
+Safety and effectiveness of sumatriptan tablets in pediatric patients under 18 years of age have not been established; therefore, sumatriptan tablets are not recommended for use in patients under 18 years of age.
 
 Two controlled clinical trials evaluating sumatriptan nasal spray (5 mg to 20 mg) in pediatric patients aged 12 to 17 years enrolled a total of 1,248 adolescent migraineurs who treated a single attack.
 The studies did not establish the efficacy of sumatriptan nasal spray compared to placebo in the treatment of migraine in adolescents.
@@ -234,10 +227,10 @@ Adverse events observed in these clinical trials were similar in nature to those
 The frequency of all adverse events in these patients appeared to be both dose and age dependent, with younger patients reporting events more commonly than older adolescents.
 
 Post-marketing experience documents that serious adverse events have occurred in the pediatric population after use of subcutaneous, oral and/or intranasal sumatriptan.
-These reports include events similar in nature to those reported rarely in adults, including stroke, visual loss and death.
+These reports include events similar in nature to those reported rarely in adults, including stroke, visual loss, and death.
 A myocardial infarction has been reported in a 14 year old male following the use of oral sumatriptan; clinical signs occurred within one day of drug administration.
 Since clinical data to determine the frequency of serious adverse events in pediatric patients who might receive injectable, oral, or intranasal sumatriptan are not presently available, the use of sumatriptan in patients aged younger than 18 years is not recommended.
 
 ## Geriatric Use
 
-The use of sumatriptan in elderly patients is not recommended because elderly patients are more likely to have decreased hepatic function, they are at higher risk for CAD and blood pressure increases may be more pronounced in the elderly (see WARNINGS).
+The use of sumatriptan in elderly patients is not recommended because elderly patients are more likely to have decreased hepatic function, they are at higher risk for CAD, and blood pressure increases may be more pronounced in the elderly (see WARNINGS).

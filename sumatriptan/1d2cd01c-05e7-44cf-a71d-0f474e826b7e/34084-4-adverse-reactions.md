@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Serious cardiac events, including some that have been fatal, have occurred following the use sumatriptan succinate injection or sumatriptan succinate tablets.
+Serious cardiac events, including some that have been fatal, have occurred following the use sumatriptan succinate injection or sumatriptan tablets.
 These events are extremely rare and most have been reported in patients with risk factors predictive of CAD.
 Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia and ventricular fibrillation (see CONTRAINDICATIONS, WARNINGS and PRECAUTIONS).
 
@@ -9,16 +9,16 @@ Significant hypertensive episodes, including hypertensive crises, have been repo
 ## Incidence in Controlled Clinical Trials
 
 Table 2 lists adverse events that occurred in placebo-controlled clinical trials in patients who took at least one dose of study drug.
-Only events that occurred at a frequency of 2% or more in any group treated with sumatriptan succinate tablets and were more frequent in that group than in the placebo group are included in Table 2.
+Only events that occurred at a frequency of 2% or more in any group treated with sumatriptan tablets and were more frequent in that group than in the placebo group are included in Table 2.
 The events cited reflect experience gained under closely monitored conditions of clinical trials in a highly selected patient population.
 In actual clinical practice or in other clinical trials, these frequency estimates may not apply, as the conditions of use, reporting behavior, and the kinds of patients treated may differ.
 
 Table 2.
-Treatment-Emergent Adverse Events Reported by at Least 2% of Patients in Controlled Migraine TrialsEvents that occurred at a frequency of 2% or more in the group treated with sumatriptan succinate tablets and that occurred more frequently in that group than the placebo group.
+Treatment-Emergent Adverse Events Reported by at Least 2% of Patients in Controlled Migraine TrialsEvents that occurred at a frequency of 2% or more in the group treated with sumatriptan tablets and that occurred more frequently in that group than the placebo group.
 
 | Adverse Event Type | Percent of Patients Reporting |  |  |  |
 | --- | --- | --- | --- | --- |
-| Placebo (N = 309) | Sumatriptan Succinate Tablets 25 mg (N = 417) | Sumatriptan Succinate Tablets 50 mg (N = 771) | Sumatriptan Succinate Tablets 100 mg (N = 437) |  |
+| Placebo (N = 309) | Sumatriptan Tablets 25 mg (N = 417) | Sumatriptan Tablets 50 mg (N = 771) | Sumatriptan Tablets 100 mg (N = 437) |  |
 | Atypical sensations | 4% | 5% | 6% | 6% |
 | Paresthesia (all types) | 2% | 3% | 5% | 3% |
 | Sensation warm/cold | 2% | 3% | 2% | 3% |
@@ -32,19 +32,19 @@ Treatment-Emergent Adverse Events Reported by at Least 2% of Patients in Control
 | Other |  |  |  |  |
 | Malaise/fatigue | < 1% | 2% | 2% | 3% |
 
-Other events that occurred in more than 1% of patients receiving sumatriptan succinate tablets and at least as often on placebo included nausea and/or vomiting, migraine, headache, hyposalivation, dizziness and drowsiness/sleepiness.
+Other events that occurred in more than 1% of patients receiving sumatriptan tablets and at least as often on placebo included nausea and/or vomiting, migraine, headache, hyposalivation, dizziness and drowsiness/sleepiness.
 
-Sumatriptan succinate tablets are generally well tolerated.
+Sumatriptan tablets are generally well tolerated.
 Across all doses, most adverse reactions were mild and transient and did not lead to long-lasting effects.
 The incidence of adverse events in controlled clinical trials was not affected by gender or age of the patients.
 There were insufficient data to assess the impact of race on the incidence of adverse events.
 
-## Other Events Observed in Association with the Administration of Sumatriptan Succinate Tablets
+## Other Events Observed in Association with the Administration of Sumatriptan Tablets
 
 In the paragraphs that follow, the frequencies of less commonly reported adverse clinical events are presented.
-Because the reports include events observed in open and uncontrolled studies, the role of sumatriptan succinate tablets in their causation cannot be reliably determined.
+Because the reports include events observed in open and uncontrolled studies, the role of sumatriptan tablets in their causation cannot be reliably determined.
 Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, etc., limit the value of quantitative frequency estimates provided.
-Event frequencies are calculated as the number of patients who used sumatriptan succinate tablets (25 mg, 50 mg or 100 mg) and reported an event divided by the total number of patients (N = 6,348) exposed to sumatriptan succinate tablets.
+Event frequencies are calculated as the number of patients who used sumatriptan tablets (25 mg, 50 mg or 100 mg) and reported an event divided by the total number of patients (N = 6,348) exposed to sumatriptan tablets.
 All reported events are included except those already listed in the previous table, those too general to be informative, and those not reasonably associated with the use of the drug.
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients, infrequent adverse events are those occurring in 1/100 to 1/1,000 patients, and rare adverse events are those occurring in fewer than 1/1,000 patients.
 
