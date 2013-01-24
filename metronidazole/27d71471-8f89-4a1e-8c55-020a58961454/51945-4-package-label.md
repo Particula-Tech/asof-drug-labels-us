@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Vandazole (Metronidazole Vaginal Gel, 0.75%) 70 grams Box Text
+## Vandazole (Metronidazole Vaginal Gel, 0.75%) 70 grams Tube Label
 
 NDC 0245-0860-70
 
