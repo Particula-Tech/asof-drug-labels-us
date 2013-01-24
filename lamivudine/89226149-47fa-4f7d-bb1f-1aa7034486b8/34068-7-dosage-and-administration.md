@@ -2,12 +2,12 @@
 
 ## 2.1 Adults and Adolescents >16 years of age
 
-The recommended oral dose of EPIVIR in HIV-1-infected adults and adolescents >16 years of age is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
+The recommended oral dose of EPIVIR in HIV-1-infected adults and adolescents aged >16 years is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
 If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
 
 ## 2.2 Pediatric Patients
 
-The recommended oral dose of EPIVIR Oral Solution in HIV-1-infected pediatric patients 3 months to 16 years of age is 4 mg/kg twice daily (up to a maximum of 150 mg twice a day), administered in combination with other antiretroviral agents.
+The recommended oral dose of EPIVIR Oral Solution in HIV-1-infected pediatric patients aged 3 months to 16 years is 4 mg/kg twice daily (up to a maximum of 150 mg twice a day), administered in combination with other antiretroviral agents.
 
 EPIVIR is also available as a scored tablet for HIV-1-infected pediatric patients who weigh ≥14 kg and for whom a solid dosage form is appropriate.
 Before prescribing EPIVIR Tablets, children should be assessed for the ability to swallow tablets.

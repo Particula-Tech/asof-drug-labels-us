@@ -2,14 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. There are no adequate and well-controlled studies of EPIVIR in pregnant women.
+Pregnancy Category C. There are no adequate and well-controlled trials of EPIVIR in pregnant women.
 Animal reproduction studies in rats and rabbits revealed no evidence of teratogenicity.
 Increased early embryolethality occurred in rabbits at exposure levels similar to those in humans.
 EPIVIR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical studies conducted in South Africa.
-The study assessed pharmacokinetics in: 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
-These studies were not designed or powered to provide efficacy information.
+Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
+The trial assessed pharmacokinetics in: 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
+These trials were not designed or powered to provide efficacy information.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 In a subset of subjects, lamivudine amniotic fluid specimens were collected following natural rupture of membranes.
@@ -38,7 +38,7 @@ The safety and effectiveness of twice-daily EPIVIR in combination with other ant
 
 ## 8.5 Geriatric Use
 
-Clinical studies of EPIVIR did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical trials of EPIVIR did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 In particular, because lamivudine is substantially excreted by the kidney and elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments should be made accordingly [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 

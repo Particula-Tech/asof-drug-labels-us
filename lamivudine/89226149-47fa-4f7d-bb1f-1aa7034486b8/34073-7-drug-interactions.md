@@ -20,4 +20,4 @@ There is no information regarding the effect on lamivudine pharmacokinetics of h
 
 ## 7.4 Drugs with No Observed Interactions With EPIVIR
 
-A drug interaction study showed no clinically significant interaction between EPIVIR and zidovudine.
+A drug interaction trial showed no clinically significant interaction between EPIVIR and zidovudine.
