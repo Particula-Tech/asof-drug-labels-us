@@ -26,5 +26,5 @@ Each mL contains:
 
 Actives: Loteprednol Etabonate 5 mg (0.5%) and Tobramycin 3 mg (0.3%).
 Inactives: Edetate Disodium, Glycerin, Povidone, Purified Water, Tyloxapol, and Benzalkonium Chloride 0.01% (preservative).
-Sulfuric Acid and/or Sodium Hydroxide may be added to adjust the pH to 5.7-5.9.
+Sulfuric Acid and/or Sodium Hydroxide may be added to adjust the pH.
 The suspension is essentially isotonic with a tonicity of 260 to 320 mOsmol/kg.
