@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 Adverse reactions seen during continuous epidural clonidine infusion are dose-dependent and typical for a compound of this pharmacologic class.
 The adverse events most frequently reported in the pivotal controlled clinical trial of continuous epidural clonidine administration consisted of hypotension, postural hypotension, decreased heart rate, rebound hypertension, dry mouth, nausea, confusion, dizziness, somnolence, and fever.
@@ -16,7 +16,7 @@ The following adverse events were reported in two or more patients and may be re
 
 Incidence of Adverse Events in the Two-Week Trial
 
-| Adverse Events | Clonidine N = 38 n(%) | Placebo N = 47 n(%) |
+| Adverse Events | ClonidineN = 38n (%) | PlaceboN = 47n (%) |
 | --- | --- | --- |
 | Total Number of Patients Who Experienced at Least One Adverse Event | 37 (97.4) | 38 (80.5) |
 | Hypotension | 17 (44.8) | 5 (10.6) |
@@ -46,10 +46,10 @@ The following adverse reactions have also been reported with the use of any dosa
 In many cases patients were receiving concomitant medication and a causal relationship has not been established:
 
 Body as a Whole: Weakness, 10%; fatigue, 4%; headache and withdrawal syndrome, each 1%.
-Also reported were pallor, a weakly positive Coomb's test, and increased sensitivity to alcohol.
+Also reported were pallor, a weakly positive Coomb’s test, and increased sensitivity to alcohol.
 
 Cardiovascular: Palpitations and tachycardia, and bradycardia, each 0.5%.
-Syncope, Raynaud's phenomenon, congestive heart failure, and electrocardiographic abnormalities (i.e., sinus node arrest, functional bradycardia, high degree AV block) have been reported rarely.
+Syncope, Raynaud’s phenomenon, congestive heart failure, and electrocardiographic abnormalities (i.e., sinus node arrest, functional bradycardia, high degree AV block) have been reported rarely.
 Rare cases of sinus bradycardia and atrioventricular block have been reported, both with and without the use of concomitant digitalis.
 
 Central Nervous System: Nervousness and agitation, 3%; mental depression, 1%; insomnia, 0.5%.

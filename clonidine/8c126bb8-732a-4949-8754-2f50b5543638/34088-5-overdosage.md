@@ -1,13 +1,13 @@
-# OVERDOSAGE:
+# OVERDOSAGE
 
 Hypertension may develop early and may be followed by hypotension, bradycardia, respiratory depression, hypothermia, drowsiness, decreased or absent reflexes, irritability, and miosis.
 With large oral overdoses, reversible cardiac conduction defects or arrhythmias, apnea, coma, and seizures have been reported.
-As little as 100 μg of oral clonidine has produced signs of toxicity in pediatric patients.
+As little as 100 mcg of oral clonidine has produced signs of toxicity in pediatric patients.
 
 There is no specific antidote for clonidine overdosage.
 Supportive care may include atropine sulfate for bradycardia, intravenous fluids and/or vasopressor agents for hypotension.
 Hypertension associated with overdosage has been treated with intravenous furosemide, diazoxide or alpha-blocking agents such as phentolamine.
-Naloxone may be a useful adjunct in the treatment of clonidine-induced respiratory depression, hypotension, and/or coma; blood pressure should be monitored since the administration of naloxone has occasionally resulted in paradoxical hypertension.
+Naloxone may be a useful adjunct in the treatment of clonidine induced respiratory depression, hypotension, and/or coma; blood pressure should be monitored since the administration of naloxone has occasionally resulted in paradoxical hypertension.
 Tolazoline administration has yielded inconsistent results and is not recommended as first-line therapy.
 Dialysis is not likely to significantly enhance the elimination of clonidine.
 

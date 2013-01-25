@@ -1,37 +1,65 @@
-# PRINCIPAL DISPLAY PANEL - 0.1 mg/mL Single Dose Vial Label
+PRINCIPAL DISPLAY PANEL
 
-NDC 67457-218-10
+NDC 67457-218-10 10 mL
 
-Rx only
+Duraclon® clonidine HCl injection
 
-DURACLON® clonidine HCl injection
-
-10 mL Single Dose Vial
-
-100 µg/mL (0.1 mg/mL)
+1000 mcg/10 mL (100 mcg/mL)
 
 For Epidural Injection
 
-Marketed by: Bioniche Pharma USA LLC.
-Lake Forest, IL 60045
+Rx only Single-Dose Vial
 
-BIONICHEPHARMA
+Preservative Free
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg/mL Single Dose Vial Label
+Sterile.
+Non-pyrogenic.
 
-NDC 67457-219-10
+Each mL contains: 100 mcg clonidine hydrochloride, USP and 9 mg sodium chloride, USP in water for injection, USP.
 
-Rx only
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment.
+Discard unused portion.
 
-DURACLON® clonidine HCl injection
+Usual Dosage: See accompanying prescribing information.
 
-10 mL Single Dose Vial
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
-500 µg/mL (0.5 mg/mL)
+Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A. Made in Ireland 0414C101 MI:218:1C:R2
 
-For Epidural Injection MUST BE DILUTED BEFORE USE.
+Duraclon® is a licensed registered trademark.
 
-Marketed by: Bioniche Pharma USA LLC.
-Lake Forest, IL 60045
+Mylan.com
 
-BIONICHEPHARMA
+PRINCIPAL DISPLAY PANEL
+
+NDC 67457-219-10 10 mL
+
+Duraclon® clonidine HCl injection
+
+5000 mcg/10 mL (500 mcg/mL)
+
+For Epidural Injection MUST BE DILUTED BEFORE USE
+
+Rx only Single-Dose Vial
+
+Preservative Free
+
+Sterile.
+Non-pyrogenic.
+
+Each mL contains: 500 mcg clonidine hydrochloride, USP and 9 mg sodium chloride, USP in water for injection, USP.
+
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment.
+Discard unused portion.
+
+Usual Dosage: See accompanying prescribing information.
+
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+
+Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A. Made in Ireland 0413C101 MI:219:1C:R2
+
+Duraclon® is a licensed registered trademark.
+
+Mylan.com
