@@ -21,7 +21,10 @@ In patients who have developed localized contact sensitization to clonidine tran
 
 In patients who develop an allergic reaction to clonidine transdermal system, substitution of oral clonidine hydrochloride may also elicit an allergic reaction (including generalized rash, urticaria, or angioedema).
 
-Clonidine hydrochloride tablets should be used with caution in patients with severe coronary insufficiency, conduction disturbances, recent myocardial infarction, cerebrovascular disease or chronic renal failure.
+The sympatholytic action of clonidine may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
+There are post-marketing reports of patients with conduction abnormalities and/or taking other sympatholytic drugs who developed severe bradycardia requiring IV atropine, IV isoproterenol and temporary cardiac pacing while taking clonidine.
+
+In hypertension caused by pheochromocytoma, no therapeutic effect of clonidine hydrochloride tablets can be expected.
 
 ## Perioperative Use
 
@@ -32,8 +35,8 @@ Blood pressure should be carefully monitored during surgery and additional measu
 
 Patients should be cautioned against interruption of clonidine hydrochloride tablets therapy without their physician's advice.
 
-Patients who engage in potentially hazardous activities, such as operating machinery or driving, should be advised of a possible sedative effect of clonidine.
-They should also be informed that this sedative effect may be increased by concomitant use of alcohol, barbiturates, or other sedating drugs.
+Since patients may experience a possible sedative effect, dizziness, or accommodation disorder with use of clonidine, caution patients about engaging in activities such as driving a vehicle or operating appliances or machinery.
+Also, inform patients that this sedative effect may be increased by concomitant use of alcohol, barbiturates, or other sedating drugs.
 
 Patients who wear contact lenses should be cautioned that treatment with clonidine hydrochloride tablets may cause dryness of eyes.
 
@@ -41,11 +44,15 @@ Patients who wear contact lenses should be cautioned that treatment with clonidi
 
 Clonidine may potentiate the CNS-depressive effects of alcohol, barbiturates or other sedating drugs.
 If a patient receiving clonidine hydrochloride is also taking tricyclic antidepressants, the hypotensive effect of clonidine may be reduced, necessitating an increase in the clonidine dose.
+If a patient receiving clonidine is also taking neuroleptics, orthostatic regulation disturbances (e.g., orthostatic hypotension, dizziness, fatigue) may be induced or exacerbated.
 
-Monitor heart rate in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction, e.g., digitalis, calcium channel blockers, and beta-blockers.
+Monitor heart rate in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction, e.g., digitalis, calcium channel blockers and beta-blockers.
 Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concomitantly with diltiazem or verapamil.
 
 Amitriptyline in combination with clonidine enhances the manifestation of corneal lesions in rats (see Toxicology).
+
+Based on observations in patients in a state of alcoholic delirium it has been suggested that high intravenous doses of clonidine may increase the arrhythmogenic potential (QT- prolongation, ventricular fibrillation) of high intravenous doses of haloperidol.
+Causal relationship and relevance for clonidine oral tablets have not been established.
 
 ## Toxicology
 
@@ -63,8 +70,8 @@ In combination with amitriptyline, clonidine hydrochloride administration led to
 Chronic dietary administration of clonidine was not carcinogenic to rats (132 weeks) or mice (78 weeks) dosed, respectively, at up to 46 or 70 times the maximum recommended daily human dose as mg/kg (9 or 6 times the MRDHD on a mg/m2 basis).
 There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse micronucleus test for clastogenicity.
 
-Fertility of male or female rats was unaffected by clonidine doses as high as 150 mcg/kg (approximately 3 times MRDHD).
-In a separate experiment, fertility of female rats appeared to be affected at dose levels of 500 to 2000 mcg/kg (10 to 40 times the oral MRDHD on a mg/kg basis; 2 to 8 times the MRDHD on a mg/m2 basis.)
+Fertility of male or female rats was unaffected by clonidine doses as high as 150 µg/kg (approximately 3 times MRDHD).
+In a separate experiment, fertility of female rats appeared to be affected at dose levels of 500 to 2000 µg/kg (10 to 40 times the oral MRDHD on a mg/kg basis; 2 to 8 times the MRDHD on a mg/m2 basis).
 
 ## Pregnancy
 
@@ -72,10 +79,11 @@ Teratogenic Effects: Pregnancy Category C
 
 Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of clonidine hydrochloride tablets produced no evidence of a teratogenic or embryotoxic potential in rabbits.
 In rats, however, doses as low as 1/3 the oral MRDHD (1/15 the MRDHD on a mg/m2 basis) of clonidine were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
-Increased resorptions were not associated with treatment at the same time or at higher dose levels (up to 3 times the oral MRDHD) when the dams were treated on gestation days 6-15.
-Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1-14 (lowest dose employed in the study was 500 mcg/kg).
+Increased resorptions were not associated with treatment at the same time or at higher dose levels (up to 3 times the oral MRDHD) when the dams were treated on gestation days 6 to 15.
+Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1 to 14 (lowest dose employed in the study was 500 µg/kg).
 
 No adequate, well-controlled studies have been conducted in pregnant women.
+Clonidine crosses the placental barrier (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers

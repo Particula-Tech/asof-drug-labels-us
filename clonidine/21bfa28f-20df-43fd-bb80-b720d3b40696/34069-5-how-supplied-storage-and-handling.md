@@ -38,6 +38,21 @@ Bottles of 1000: NDC 29300-137-10
 
 Bottles of 2500: NDC 29300-137-25
 
-Store at 200-250C (680-770F) [See USP Controlled Room Temperature].
+Store at 200- 250C (680- 770F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
+
+Manufactured by:
+
+UNICHEM LABORATORIES LTD.
+
+Pilerne Ind.
+Estate, Pilerne, Bardez, Goa 403 511, India
+
+Marketed by:
+
+Rochelle Park, NJ 07662.
+
+13004869
+
+02-R-10/2012

@@ -6,9 +6,9 @@ The most frequent (which appear to be dose-related) are dry mouth, occurring in 
 The following less frequent adverse experiences have also been reported in patients receiving clonidine hydrochloride tablets, but in many cases patients were receiving concomitant medication and a causal relationship has not been established.
 
 Body as a Whole: Fatigue, fever, headache, pallor, weakness, and withdrawal syndrome.
-Also reported were a weakly positive Coombs’ test and increased sensitivity to alcohol.
+Also reported were a weakly positive Coombs' test and increased sensitivity to alcohol.
 
-Cardiovascular: Bradycardia, congestive heart failure, electrocardiographic abnormalities (i.e., sinus node arrest, junctional bradycardia, high degree AV block and arrhythmias), orthostatic symptoms, palpitations, Raynaud’s phenomenon, syncope, and tachycardia.
+Cardiovascular: Bradycardia, congestive heart failure, electrocardiographic abnormalities (i.e., sinus node arrest, junctional bradycardia, high degree AV block and arrhythmias), orthostatic symptoms, palpitations, Raynaud's phenomenon, syncope, and tachycardia.
 Cases of sinus bradycardia and atrioventricular block have been reported, both with and without the use of concomitant digitalis.
 
 Central Nervous System: Agitation, anxiety, delirium, delusional perception, hallucinations (including visual and auditory), insomnia, mental depression, nervousness, other behavioral changes, paresthesia, restlessness, sleep disorder, and vivid dreams or nightmares.

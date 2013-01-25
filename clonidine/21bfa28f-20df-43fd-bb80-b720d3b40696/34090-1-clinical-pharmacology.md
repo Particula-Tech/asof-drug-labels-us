@@ -20,8 +20,18 @@ Clonidine acutely stimulates growth hormone release in both children and adults,
 
 ## Pharmacokinetics
 
-The plasma level of clonidine peaks in approximately 3 to 5 hours and the plasma half-life ranges from 12 to 16 hours.
+The pharmacokinetics of clonidine is dose-proportional in the range of 100 to 600 µg.
+The absolute bioavailability of clonidine on oral administration is 70% to 80%.
+Peak plasma clonidine levels are attained in approximately 1 to 3 hours.
+
+Following intravenous administration, clonidine displays biphasic disposition with a distribution half-life of about 20 minutes and an elimination half-life ranging from 12 to 16 hours.
 The half-life increases up to 41 hours in patients with severe impairment of renal function.
-Following oral administration about 40-60% of the absorbed dose is recovered in the urine as unchanged drug in 24 hours.
+Clonidine crosses the placental barrier.
+It has been shown to cross the blood-brain barrier in rats.
+
+Following oral administration about 40% to 60% of the absorbed dose is recovered in the urine as unchanged drug in 24 hours.
 About 50% of the absorbed dose is metabolized in the liver.
 Neither food nor the race of the patient influences the pharmacokinetics of clonidine.
+
+The antihypertensive effect is reached at plasma concentrations between about 0.2 and 2.0 ng/mL in patients with normal excretory function.
+A further rise in the plasma levels will not enhance the antihypertensive effect.
