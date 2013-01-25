@@ -1,31 +1,36 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-HYPOTHALAMIC-PITUITARY-ADRENAL (HPA) AXIS FUNCTION
+## 5.1 Effects on the Endocrine System
 
 Clobetasol propionate is a highly potent topical corticosteroid that has been shown to suppress the HPA axis at the lowest doses tested.
-Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
-Manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria can also be produced in some patients by systemic absorption of topical corticosteroids while on treatment.
-
-Conditions which increase systemic absorption include the application of the more potent corticosteroids, use over large surface areas, prolonged use, and the addition of occlusive dressings or use on occluded areas.
-Therefore, patients applying a topical steroid to a large surface area or to areas under occlusion should be evaluated periodically for evidence of HPA axis suppression.
-If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid.
+Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency.
+This may occur during treatment or upon withdrawal of the topical corticosteroid.
+The effect of CLOBEX (clobetasol propionate) Shampoo, 0.05% on HPA axis suppression was evaluated in one trial in adolescents 12 to 17 years of age.
+In this trial, 5 of 12 evaluable subjects developed suppression of their HPA axis following 4 weeks of treatment with CLOBEX (clobetasol propionate) Shampoo, 0.05% applied once daily for 15 minutes to a dry scalp before lathering and rinsing.
+Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression.
+Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure.
+An adrenocorticotropic hormone (ACTH) stimulation test may be helpful in evaluating patients for HPA axis suppression.
+If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid.
+Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids.
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids.
-Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur, requiring supplemental systemic corticosteroids.
-For information on systemic supplementation, see prescribing information for those products.
+Cushing’s syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids.
+Use of more than one corticosteroid-containing product at the same time may increase the total systemic exposure.
+Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios [see Use in Specific Populations (8.4)].
 
-The effect of Clobex Shampoo on HPA axis suppression was evaluated in one study in adolescents 12 to 17 years of age.
-In this study, 5 of 12 evaluable subjects developed suppression of their HPA axis following 4 weeks of treatment with Clobex Shampoo applied once daily for 15 minutes to a dry scalp before lathering and rinsing.
+## 5.2 Allergic Contact Dermatitis
 
-If irritation develops, Clobex Shampoo should be discontinued and appropriate therapy instituted.
-Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation, as with most topical products not containing corticosteroids.
-Such an observation should be corroborated with appropriate diagnostic patch testing.
+If irritation develops, CLOBEX Shampoo, 0.05%, should be discontinued and appropriate therapy instituted.
+Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation.
+Clinical diagnosis of allergic contact dermatitis can be confirmed with patch testing.
 
-In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
-If a favorable response does not occur promptly, use of Clobex Shampoo should be discontinued until the infection has been adequately controlled.
-Although Clobex Shampoo is intended for the topical treatment of moderate to severe scalp psoriasis, it should be noted that certain areas of the body, such as the face, groin, and axillae, are more prone to atrophic changes than other areas of the body following treatment with corticosteroids.
-Clobex Shampoo should not be used on the face, groin or axillae.
-Avoid any contact of the drug product with the eyes and lips.
-In case of contact, rinse thoroughly with water all parts of the body that came in contact with the shampoo.
+## 5.3 Concomitant Skin Infections
 
-Treatment should be limited to 4 consecutive weeks.
-As with other corticosteroids, therapy should be discontinued when control is achieved.
+In the presence of dermatologic infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
+If a favorable response does not occur promptly, use of CLOBEX Shampoo, 0.05%, should be discontinued until the infection has been adequately controlled.
+
+## 5.4 Local Adverse Reactions with Topical Corticosteroids
+
+Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids.
+Reactions may include atrophy, striae, telangiectasias, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria.
+Some local adverse reactions may be irreversible.
+Clobetasol propionate is not recommended in patients with acne vulgaris, rosacea or perioral dermatitis.

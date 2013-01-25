@@ -1,3 +1,4 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Shampoo: 0.05%
+Shampoo, 0.05%, w/w.
+Each gram of CLOBEX Shampoo, 0.05%, contains 0.5 mg of clobetasol propionate in a translucent, colorless to pale yellow viscous liquid.
