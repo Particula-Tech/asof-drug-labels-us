@@ -2,7 +2,7 @@
 
 ## Initial Treatment
 
-The recommended starting dose for venlafaxine hydrochloride tablets are 75 mg/day, administered in two or three divided doses, taken with food.
+The recommended starting dose for venlafaxine tablets are 75 mg/day, administered in two or three divided doses, taken with food.
 Depending on tolerability and the need for further clinical effect, the dose may be increased to 150 mg/day.
 If needed, the dose should be further increased up to 225 mg/day.
 When increasing the dose, increments of up to 75 mg/day should be made at intervals of no less than 4 days.
@@ -13,9 +13,8 @@ Certain patients, including more severely depressed patients, may therefore resp
 
 ### Treatment of Pregnant Women During the Third Trimester
 
-Neonates exposed to venlafaxine hydrochloride tablets, other SNRIs, or SSRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
-When treating pregnant women with venlafaxine hydrochloride tablets during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering venlafaxine hydrochloride tablets in the third trimester.
+Neonates exposed to venlafaxine tablets, other SNRIs, or SSRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
+When treating pregnant women with venlafaxine tablets during the third trimester, the physician should carefully consider the potential risks and benefits of treatment..
 
 ### Dosage for Patients with Hepatic Impairment
 
@@ -38,19 +37,32 @@ When individualizing the dosage, extra care should be taken when increasing the 
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
 In one study, in which patients responding during 8 weeks of acute treatment with venlafaxine extended-release capsules were assigned randomly to placebo or to the same dose of venlafaxine extended-release capsules (75, 150, or 225 mg/day, qAM) during 26 weeks of maintenance treatment as they had received during the acute stabilization phase, longer-term efficacy was demonstrated.
-A second longer-term study has demonstrated the efficacy of venlafaxine hydrochloride tablets in maintaining an antidepressant response in patients with recurrent depression who had responded and continued to be improved during an initial 26 weeks of treatment and were then randomly assigned to placebo or venlafaxine hydrochloride tablets for periods of up to 52 weeks on the same dose (100 to 200 mg/day, on a b.i.d. schedule) (see CLINICAL TRIALS).
-Based on these limited data, it is not known whether or not the dose of venlafaxine hydrochloride tablets/ venlafaxine extended-release capsules needed for maintenance treatment is identical to the dose needed to achieve an initial response.
+A second longer-term study has demonstrated the efficacy of venlafaxine tablets in maintaining an antidepressant response in patients with recurrent depression who had responded and continued to be improved during an initial 26 weeks of treatment and were then randomly assigned to placebo or venlafaxine tablets for periods of up to 52 weeks on the same dose (100 to 200 mg/day, on a b.i.d. schedule) (see CLINICAL TRIALS).
+Based on these limited data, it is not known whether or not the dose of venlafaxine tablets/ venlafaxine extended-release capsules needed for maintenance treatment is identical to the dose needed to achieve an initial response.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
 
 ## Discontinuing Venlafaxine Hydrochloride
 
-Symptoms associated with discontinuation of venlafaxine hydrochloride tablets, other SNRIs, and SSRIs, have been reported (see PRECAUTIONS).
+Symptoms associated with discontinuation of venlafaxine tablets, other SNRIs, and SSRIs, have been reported (see PRECAUTIONS).
 Patients should be monitored for these symptoms when discontinuing treatment.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-## SWITCHING PATIENTS TO OR FROM A MONOAMINE OXIDASE INHIBITOR
+## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders.
 
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with venlafaxine hydrochloride tablets.
-In addition, at least 7 days should be allowed after stopping venlafaxine hydrochloride tablets before starting an MAOI (see CONTRAINDICATIONS).
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with venlafaxine hydrochloride.
+Conversely, at least 7 days should be allowed after stopping venlafaxine hydrochloride before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+
+## Use of Venlafaxine Hydrochloride with Other MAOIs, Such as Linezolid or Methylene Blue:
+
+Do not start venlafaxine hydrochloride in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving therapy with venlafaxine hydrochloride may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, venlafaxine hydrochloride should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 7 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with venlafaxine hydrochloride may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with venlafaxine hydrochloride is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).

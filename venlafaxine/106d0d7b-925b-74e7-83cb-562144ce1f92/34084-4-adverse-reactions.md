@@ -143,7 +143,7 @@ TABLE 3 Treatment-Emergent Adverse Experience Incidence in a Dose Comparison Tri
 
 ### Adaptation to Certain Adverse Events
 
-Over a 6-week period, there was evidence of adaptation to some adverse events with continued therapy (eg, dizziness and nausea), but less to other effects (eg, abnormal ejaculation and dry mouth).
+Over a 6-week period, there was evidence of adaptation to some adverse events with continued therapy (e.g., dizziness and nausea), but less to other effects (e.g., abnormal ejaculation and dry mouth).
 
 ### Vital Sign Changes
 
@@ -156,9 +156,9 @@ However, there is a dose dependency for blood pressure increase (see WARNINGS).
 ### Laboratory Changes
 
 Of the serum chemistry and hematology parameters monitored during clinical trials with venlafaxine hydrochloride, a statistically significant difference with placebo was seen only for serum cholesterol.
-In premarketing trials, treatment with venlafaxine hydrochloride tablets was associated with a mean final on-therapy increase in total cholesterol of 3 mg/dL.
+In premarketing trials, treatment with venlafaxine tablets was associated with a mean final on-therapy increase in total cholesterol of 3 mg/dL.
 
-Patients treated with venlafaxine hydrochloride tablets for at least 3 months in placebo-controlled 12-month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
+Patients treated with venlafaxine tablets for at least 3 months in placebo-controlled 12-month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
 This increase was duration dependent over the study period and tended to be greater with higher doses.
 Clinically relevant increases in serum cholesterol, defined as 1) a final on-therapy increase in serum cholesterol ≥ 50 mg/dL from baseline and to a value ≥ 261 mg/dL or 2) an average on-therapy increase in serum cholesterol ≥ 50 mg/dL from baseline and to a value ≥ 261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0.0% of placebo-treated patients (see PRECAUTIONS-General-Serum Cholesterol Elevation).
 
@@ -172,7 +172,7 @@ In a flexible-dose study, with doses in the range of 200 to 375 mg/day and mean 
 During its premarketing assessment, multiple doses of venlafaxine hydrochloride were administered to 2897 patients in Phase 2 and Phase 3 studies.
 In addition, in premarketing assessment of venlafaxine extended-release capsules, multiple doses were administered to 705 patients in Phase 3 major depressive disorder studies and venlafaxine hydrochloride was administered to 96 patients.
 During its premarketing assessment, multiple doses of venlafaxine extended-release capsules were also administered to 1381 patients in Phase 3 GAD studies and 277 patients in Phase 3 Social Anxiety Disorder studies.
-The conditions and duration of exposure to venlafaxine in both development programs varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient (venlafaxine hydrochloride tablets only) and outpatient studies, fixed-dose and titration studies.
+The conditions and duration of exposure to venlafaxine in both development programs varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient (venlafaxine tablets only) and outpatient studies, fixed-dose and titration studies.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
 
