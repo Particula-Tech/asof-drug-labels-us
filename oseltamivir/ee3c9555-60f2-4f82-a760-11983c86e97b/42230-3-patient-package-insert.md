@@ -1,153 +1,191 @@
-Patient Information TAMIFLU® (oseltamivir phosphate)
+PATIENT INFORMATION
 
-This leaflet contains important information about TAMIFLU (TAM-ih-flew).
-Read it well before you begin treatment.
-This information does not take the place of talking with your healthcare professional about your medical condition or your treatment.
-This leaflet does not list all the benefits and risks of TAMIFLU.
-If you have any questions about TAMIFLU, ask your healthcare professional.
-Only your healthcare professional can determine if TAMIFLU is right for you.
+TAMIFLU® (TAM-ih-flew) (oseltamivir phosphate) capsules, for oral use
+
+TAMIFLU® (TAM-ih-flew) (oseltamivir phosphate) for oral suspension
 
 What is TAMIFLU?
 
-TAMIFLU attacks the influenza virus and stops it from spreading inside your body.
-TAMIFLU treats flu at its source, by attacking the virus that causes the flu, rather than simply masking symptoms.
+TAMIFLU is a prescription medicine used to:
 
-TAMIFLU is for treating adults and children age 1 and older with the flu whose flu symptoms started within the last day or two.
-TAMIFLU can also reduce the chance of getting the flu in people age 1 and older who have a higher chance of getting the flu because they spend time with someone who has the flu.
-TAMIFLU can also reduce the chance of getting the flu if there is a flu outbreak in the community.
+- treat the flu (influenza) in people 2 weeks of age and older who have had flu symptoms for no more than two days.
+- prevent the flu in people who are 1 year of age and older.
 
-What is "Flu"?
+It is not known if TAMIFLU is:
 
-"The flu" is an infection caused by the influenza virus.
-Flu symptoms include fever (usually 100ºF to 103ºF in adults, and sometimes higher in children) and problems such as cough, sore throat, runny or stuffy nose, headaches, muscle aches, fever, and extreme tiredness.
-Many people use the term "flu" to mean any combination of these symptoms, such as the common cold, but true influenza infection is often worse and may last longer than a cold.
+- effective in people who start treatment after 2 days of developing flu symptoms.
+- effective for the treatment of the flu in people with long-time (chronic) heart problems or breathing problems.
+- effective for the treatment or prevention of flu in people who have weakened immune systems (immunocompromised).
+- safe and effective for the treatment of the flu in children less than 2 weeks of age.
+- safe and effective in the prevention of the flu in children less than 1 year of age.
 
-Flu outbreaks happen about once a year, usually in the winter, when the influenza virus spreads widely in the community.
-Outside of those outbreaks, only a very tiny number of respiratory infections are caused by the influenza virus.
+TAMIFLU does not treat or prevent illness that is caused by infections other than the influenza virus.
 
-Should I get a flu shot?
+TAMIFLU does not prevent bacterial infections that may happen with the flu.
 
-TAMIFLU is not a substitute for a flu vaccination.
-You should continue to get a flu vaccination every year, according to your healthcare professional's advice.
+TAMIFLU does not take the place of receiving a flu vaccination.
+Talk to your healthcare provider about when you should receive an annual flu vaccination.
 
 Who should not take TAMIFLU?
 
-Do not take TAMIFLU if you are allergic to the main ingredient, oseltamivir phosphate, or to any other ingredients of TAMIFLU.
-Before starting treatment, make sure your healthcare professional knows if you take any other medicines, or are pregnant, planning to become pregnant, or breastfeeding.
-TAMIFLU is normally not recommended for use during pregnancy or nursing, as the effects on the unborn child or nursing infant are unknown.
-TAMIFLU is not recommended for use in children younger than 1 year of age.
+Do not take TAMIFLU if you are allergic to oseltamivir phosphate or any of the ingredients in TAMIFLU.
+See the end of this leaflet for a complete list of ingredients in TAMIFLU.
 
-Tell your healthcare professional if you have any type of kidney disease, heart disease, respiratory disease, or any serious health condition.
+What should I tell my healthcare provider before taking TAMIFLU?
 
-TAMIFLU for Oral Suspension contains sorbitol.
-Sorbitol may cause upset stomach and diarrhea in patients with a family history of fructose intolerance.
+Before you take TAMIFLU, tell your healthcare provider if you:
+
+- have problems swallowing TAMIFLU capsules.
+- have kidney problems
+- have a history of fructose (fruit sugar) intolerance.
+  TAMIFLU contains sorbitol and may cause stomach upset and diarrhea in people who are fructose intolerant.
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  It is not known if TAMIFLU will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if TAMIFLU passes into your breast milk.
+  You and your healthcare provider should decide if you will take TAMIFLU while you are breastfeeding.
+
+Tell your healthcare provider about all the medicines you take, including prescription or over-the-counter medicines, vitamins, and herbal supplements.
+
+Know the medicines you take.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take TAMIFLU?
 
-It is important that you begin your treatment with TAMIFLU as soon as possible from the first appearance of your flu symptoms or soon after you are exposed to the flu.
-If you feel worse or develop new symptoms during treatment with TAMIFLU, or if your flu symptoms do not start to get better, you should contact your healthcare professional.
-
-If you have the flu: Take TAMIFLU twice a day for 5 days, once in the morning and once in the evening.
-You should complete the entire treatment of 10 doses (capsules or suspension), even if you feel better.
-
-To prevent the flu: If someone in your home has the flu, take TAMIFLU once a day for 10 days or for as long as prescribed.
-You can take TAMIFLU for up to 6 weeks if you are exposed to the flu because of an outbreak in your community.
-Follow your healthcare professional's advice on how long to take TAMIFLU.
-
-You can take TAMIFLU with food or without food.
-There is less chance of stomach upset if you take it with a light snack, milk, or a meal.
-
-If you are taking TAMIFLU for Oral Suspension, your pharmacist will give you a dosing dispenser to measure the proper amount of Oral Suspension for your dose.
-Follow your healthcare professional's instructions on how to measure the proper dose for you.
-Review the instructions below on how to use the dispenser and ask your pharmacist if you have any questions.
-If you lose or damage the dispenser and cannot use it, contact your healthcare professional or pharmacist for advice on the proper dose.
-
-If TAMIFLU for Oral Suspension is not available, your healthcare provider may instruct you to open TAMIFLU Capsules and mix the contents with sweetened liquids such as regular or sugar-free chocolate syrup, corn syrup, caramel topping, or light brown sugar (dissolved in water).
-Please follow the dosing instructions below.
-
-If you forget to take your medicine, take the missed dose as soon as you remember, except if it is 2 hours or less before your next dose.
-Then continue to take TAMIFLU at the usual times.
-Do not take 2 doses at a time to make up for a missed dose.
-If you miss several doses, tell your healthcare professional and follow the advice given to you.
+- Take TAMIFLU exactly as your healthcare provider tells you to.
+- Take TAMIFLU with food or without food.
+  There is less chance of stomach upset if you take TAMIFLU with food.
+- If you miss a dose of TAMIFLU, take it as soon as you remember.
+  If it is 2 hours or less before your next dose, do not take the missed dose.
+  Take your next dose of TAMIFLU at your scheduled time.
+  Do not take 2 doses at the same time.
+- If TAMIFLU for oral suspension is not available or you cannot swallow TAMIFLU capsules, your healthcare provider may instruct you to open TAMIFLU capsules and mix the capsules contents with sweetened liquids such as chocolate syrup (regular or sugar-free), corn syrup, caramel topping, or light brown sugar (dissolved in water).
+- If your healthcare provider has instructed you to take TAMIFLU oral suspension or open your TAMIFLU capsules, read the detailed Instructions for Use at the end of this leaflet.
 
 What are the possible side effects of TAMIFLU?
 
-The most common side effects of TAMIFLU are nausea and vomiting.
-These are usually mild to moderate.
-They usually happen in the first 2 days of treatment.
-Taking TAMIFLU with food may reduce the chance of getting these side effects.
+TAMIFLU may cause serious side effects, including:
 
-If you develop an allergic reaction or severe rash, stop taking TAMIFLU and contact your healthcare professional.
+- Serious skin and allergic reactions.
+  TAMIFLU can cause serious skin and allergic reactions.
+  Stop taking TAMIFLU and get medical help right away if you get any of the following symptoms:
+  - skin rash or hives
+  - your skin blisters and peels
+  - blisters or sores in your mouth
+  - itching
+  - swelling of your face, eyes, lips, tongue, or throat
+  - trouble breathing
+  - chest pain or tightness
+- Change in behavior.
+  People, especially children, who have the flu can develop nervous system problems and abnormal behavior that can lead to death.
+  During treatment with TAMIFLU, tell your healthcare provider right away if you or your child have confusion, speech problems, shaky movements, seizures, or start hearing voices or seeing things that are not really there (hallucinations).
 
-People with the flu, particularly children and adolescents, may be at an increased risk of seizures, confusion, or abnormal behavior early during their illness.
-These events may occur shortly after beginning TAMIFLU or may occur when flu is not treated.
-These events are uncommon but may result in accidental injury to the patient.
-Therefore, patients should be observed for signs of unusual behavior and a healthcare professional should be contacted immediately if the patient shows any signs of unusual behavior.
+The most common side effects of TAMIFLU when used for treatment of the flu include nausea and vomiting.
 
-Before taking TAMIFLU, please let your healthcare provider know if you have received nasally administered influenza virus vaccine during the past two weeks.
+The most common side effect of TAMIFLU when used for prevention of the flu include nausea, vomiting, diarrhea, and stomach (abdomen) pain.
 
-If you notice any side effects not mentioned in this leaflet, or if you have any concerns about the side effects you get, tell your healthcare professional.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-How and where should I store TAMIFLU?
+These are not all of the possible side effects of TAMIFLU.
 
-TAMIFLU Capsules should be stored at room temperature, 77°F (25°C) and kept in a dry place.
-Keep this medication out of reach of children.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-TAMIFLU for Oral Suspension should be stored under refrigeration for up to 17 days at 36° to 46°F (2° to 8°C).
-Do not freeze.
-Alternatively, store at room temperature for up to 10 days.
-Discard any unused portion when you are finished with your prescribed dosing of TAMIFLU.
+How should I store TAMIFLU?
 
-General advice about prescription medicines:
+- Store TAMIFLU capsules at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store TAMIFLU for oral suspension in the refrigerator for up to 17 days between 36°F to 46°F (2°C to 8°C)
+- Store TAMIFLU for oral suspension for up to 10 days at room temperature between 68°F to 77°F (20°C to 25°C).
+- Safely throw away any unused TAMIFLU that is out of date or no longer needed.
 
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+Keep TAMIFLU and all medicines out of the reach of children.
+
+General information about the safe and effective use of TAMIFLU.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use TAMIFLU for a condition for which it was not prescribed.
 Do not give TAMIFLU to other people, even if they have the same symptoms you have.
-It may not be right for them.
+It mayharm them.
 
-This leaflet summarizes the most important information about TAMIFLU.
-If you would like more information, talk with your healthcare professional.
-You can ask your pharmacist or healthcare professional for information about TAMIFLU that is written for health professionals.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about TAMIFLU that is written for health professionals.
 
-DOSING INSTRUCTIONS FOR PATIENTS:
+For more information, go to www.tamiflu.com.
 
-How Do I Prepare a Dose of TAMIFLU for Oral Suspension?
+What are the ingredients in TAMIFLU?
 
-Please follow instructions carefully to ensure proper dosing of the oral suspension.
+Active ingredient: oseltamivir phosphate
 
-- Shake closed bottle well for about 5 seconds before each use.
-- Remove child-resistant cap.
-- Before inserting the tip of the oral dispenser into bottle adapter, push the plunger completely down toward the tip of the oral dispenser.
-  Insert tip firmly into opening of the bottle adapter.
-- Turn the entire unit (bottle and oral dispenser) upside down.
-- Pull the plunger out slowly until the desired amount of medication is withdrawn into the oral dispenser (see figure).
-  The 12.5 mL (75 mg) dose is obtained by filling the dispenser twice, once to the 10 mL graduation, and a second fill to the 2.5 mL graduation.
+Inactive ingredients:
 
-- Turn the entire unit right side up and remove the oral dispenser slowly from the bottle.
-- Dispense directly into mouth.
-  Do not mix with any liquid prior to dispensing.
-- Close bottle with child-resistant cap after each use.
-- Disassemble oral dispenser, rinse under running tap water and air dry prior to next use.
+TAMIFLU capsules: pregelatinized starch, talc, povidone K30, croscarmellose sodium, and sodium stearyl fumarate
 
-If Directed by My Healthcare Provider, How Do I Mix the Contents of TAMIFLU Capsules with Sweetened Liquids?
+30mg capsule shell: gelatin, titanium dioxide, yellow iron oxide, and red iron oxide
 
-Please follow instructions carefully to ensure proper dosing.
+45mg capsules shell: gelatin, titanium dioxide, and black iron oxide
 
-- Holding one capsule over a small bowl, carefully pull the capsule open and pour the complete contents of the capsule into the bowl.
-- Add to the capsule contents a small amount of a sweetened liquid such as chocolate syrup (regular or sugar-free), corn syrup, caramel topping, or light brown sugar (dissolved in water) that the child will consume completely.
-- Stir the mixture and give the entire dose to the child.
+75mg capsules shell: gelatin, titanium dioxide, yellow iron oxide, black iron oxide, and red iron oxide
 
-Distributed by:
+TAMIFLU for oral suspension: sorbitol, monosodium citrate, xanthan gum, titanium dioxide, tutti-frutti flavoring, sodium benzoate, saccharin sodium and water.
 
-Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
+Instructions For Use TAMIFLU® (TAM-ih-flew) (oseltamivir phosphate) capsules, for oral use
 
-Licensor:
+TAMIFLU® (TAM-ih-flew) (oseltamivir phosphate) for oral suspension
 
-Gilead Sciences, Inc. Foster City, California 94404
+How do I prepare a dose of TAMIFLU for oral suspension using the oral dispenser?
 
-TUCOS_640796_PPI_2011_03(K)
+| Figure A. Oral Suspension | Figure B. Oral Dispenser |
+| --- | --- |
 
-Rev.
-March 2011
+Step 1.
+Shake the TAMIFLU for oral suspension bottle well before each use.
 
-© 2011 Genentech, Inc. All rights reserved.
+Step 2.
+Open the bottle by pushing downward on the child resistant bottle cap and twisting it in the direction of the arrow.
+
+Step 3.
+Fully push down the plunger of the oral dispenser toward the tip before inserting into the bottle.
+Insert the tip of the oral dispenser into the opening of the bottle adapter.
+
+Step 4.
+Turn the entire unit (bottle and oral dispenser) upside down.
+
+Step 5.
+Gently pull back on the plunger of the oral dispenser until the bottom of the plunger is even with the line for the dose prescribed by your healthcare provider.
+(See Figure C).
+
+Figure C. Removing Oral Suspension
+
+Step 6.
+Turn the entire unit right-side up and remove the oral dispenser slowly from the bottle by pulling straight up on the oral dispenser.
+Do not pull on plunger.
+
+Step 7.
+Place the tip of the oral dispenser in the mouth.
+Press on the plunger to give the full contents of the oral dispenser into the mouth.
+
+Step 8.
+Close the bottle with the child-resistant bottle cap after each use.
+
+Step 9.
+Remove the plunger from the barrel, rinse both under running tap water and allow to air dry after each use.
+
+How do I mix the contents of TAMIFLU capsules with sweetened liquids, if directed by my healthcare provider?
+
+You will need:
+
+- the prescribed dose of TAMIFLU capsules
+- a small bowl
+- sweetened liquid, such as chocolate syrup (regular or sugar-free), corn syrup, caramel topping, or light brown sugar (dissolved in water)
+
+Step 1.
+Open the contents of the prescribed dose of TAMIFLU capsules into a small bowl.
+
+Step 2.
+Add a small amount of the sweetened liquid to the capsule contents.
+
+Step 3.
+Stir the mixture and give the entire dose of TAMIFLU.
+
+This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.

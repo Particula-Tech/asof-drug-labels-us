@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Oseltamivir is an antiviral drug [see Clinical Pharmacology (12.4)].
+Oseltamivir is an antiviral drug [see Microbiology(12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -49,35 +49,40 @@ Special Populations
 
 Renal Impairment
 
-Administration of 100 mg of oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
-Oseltamivir carboxylate exposures in patients with normal and impaired renal function administered various dose regimens of oseltamivir are described in Table 7.
+Administration of 100 mg of oseltamivir phosphate twice daily for 5 days to subjects with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
+Oseltamivir carboxylate exposures in subjects with normal and impaired renal function administered various dose regimens of oseltamivir are described in Table 7.
 
-Table 7 Oseltamivir Carboxylate Exposures in Patients With Normal and Reduced Serum Creatinine Clearance
+Table 7 Oseltamivir Carboxylate Exposures in Subjects With Normal and Reduced Serum Creatinine Clearance
 
 | 30 mg weekly | 30 mg alternate HD cycle |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Parameter | Normal Renal Function |  |  | Impaired Renal Function |  |  |  |  |
 |  | 75 mg once daily | 75 mg twice daily | 150 mg twice daily | Creatinine Clearance <10 mL/min |  | Creatinine Clearance >10 and <30 mL/min |  |  |
-| CAPD | Hemodialysis | 75 mg daily | 75 mg alternate days | 30 mg daily |  |  |  |  |
+|  |  |  |  | CAPD | Hemodialysis | 75 mg daily | 75 mg alternate days | 30 mg daily |
 | Cmax | 259Observed values. All other values are predicted. | 348 | 705 | 766 | 850 | 1638 | 1175 | 655 |
 | Cmin | 39 | 138 | 288 | 62 | 48 | 864 | 209 | 346 |
 | AUC48AUC normalized to 48 hours. | 7476 | 10876 | 21864 | 17381 | 12429 | 62636 | 21999 | 25054 |
 
 Hepatic Impairment
 
-In clinical studies oseltamivir carboxylate exposure was not altered in patients with mild or moderate hepatic impairment [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
+In clinical studies oseltamivir carboxylate exposure was not altered in subjects with mild or moderate hepatic impairment [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
-Pediatric Patients
+Pediatric Subjects (1 to 12 years of age)
 
-The pharmacokinetics of oseltamivir and oseltamivir carboxylate have been evaluated in a single-dose pharmacokinetic study in pediatric patients aged 5 to 16 years (n=18) and in a small number of pediatric patients aged 3 to 12 years (n=5) enrolled in a clinical trial.
-Younger pediatric patients cleared both the prodrug and the active metabolite faster than adult patients resulting in a lower exposure for a given mg/kg dose.
+The pharmacokinetics of oseltamivir and oseltamivir carboxylate have been evaluated in a single-dose pharmacokinetic study in pediatric subjects aged 5 to 16 years (n=18) and in a small number of pediatric subjects aged 3 to 12 years (n=5) enrolled in a clinical trial.
+Younger pediatric subjects cleared both the prodrug and the active metabolite faster than adult subjects resulting in a lower exposure for a given mg/kg dose.
 For oseltamivir carboxylate, apparent total clearance decreases linearly with increasing age (up to 12 years).
-The pharmacokinetics of oseltamivir in pediatric patients over 12 years of age are similar to those in adult patients.
+The pharmacokinetics of oseltamivir in pediatric subjects over 12 years of age are similar to those in adult subjects.
+
+Pediatric Subjects (2 weeks to less than 1 year of age)
+
+The pharmacokinetics of oseltamivir and oseltamivir carboxylate have been evaluated in two open-label studies of pediatric subjects less than one year of age (n=122) infected with influenza.
+Apparent clearance of the active metabolite decreases with decreasing age in subjects less than 1 year of age; however the oseltamivir and oseltamivir carboxylate exposure following a 3 mg/kg dose in subjects under 1 year of age is expected to be within the observed exposures in adults and adolescents receiving 75 mg twice daily and 150 mg twice daily.
 
 Geriatric Patients
 
-Exposure to oseltamivir carboxylate at steady-state was 25% to 35% higher in geriatric patients (age range 65 to 78 years) compared to young adults given comparable doses of oseltamivir.
-Half-lives observed in the geriatric patients were similar to those seen in young adults.
+Exposure to oseltamivir carboxylate at steady-state was 25% to 35% higher in geriatric subjects (age range 65 to 78 years) compared to young adults given comparable doses of oseltamivir.
+Half-lives observed in the geriatric subjects were similar to those seen in young adults.
 Based on drug exposure and tolerability, dose adjustments are not required for geriatric patients for either treatment or prophylaxis [see Dosage and Administration (2.6)].
 
 ## 12.4 Microbiology

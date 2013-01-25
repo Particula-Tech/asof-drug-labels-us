@@ -2,7 +2,7 @@
 
 ## 1.1 Treatment of Influenza
 
-TAMIFLU is indicated for the treatment of uncomplicated acute illness due to influenza infection in patients 1 year and older who have been symptomatic for no more than 2 days.
+TAMIFLU is indicated for the treatment of acute, uncomplicated illness due to influenza infection in patients 2 weeks of age and older who have been symptomatic for no more than 2 days.
 
 ## 1.2 Prophylaxis of Influenza
 

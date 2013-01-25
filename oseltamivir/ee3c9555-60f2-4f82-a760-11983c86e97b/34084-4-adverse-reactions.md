@@ -11,18 +11,18 @@ The most common adverse reactions are nausea and vomiting.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Treatment Studies in Adult Subjects
+Treatment Studies in Adult and Adolescent Subjects (13 years of age and older)
 
 A total of 1171 subjects who participated in adult controlled clinical trials for the treatment of influenza were treated with TAMIFLU.
 The most frequently reported adverse events in these studies were nausea and vomiting.
 These events were generally of mild to moderate severity and usually occurred on the first 2 days of administration.
 Less than 1% of subjects discontinued prematurely from clinical trials due to nausea and vomiting.
 
-Adverse events that occurred with an incidence of ≥1% in 1440 subjects taking placebo or TAMIFLU 75 mg twice daily in adult treatment studies are shown in Table 4.
+Adverse events that occurred with an incidence of 1% or greater in 1440 subjects taking placebo or TAMIFLU 75 mg twice daily in adult treatment studies are shown in Table 4.
 This summary includes 945 healthy young adults and 495 "at risk" subjects (elderly patients and patients with chronic cardiac or respiratory disease).
 Those events reported numerically more frequently in subjects taking TAMIFLU compared with placebo were nausea, vomiting, bronchitis, insomnia, and vertigo.
 
-Prophylaxis Studies in Adult Subjects
+Prophylaxis Studies in Adult and Adolescent Subjects (13 years of age and older)
 
 A total of 4187 subjects (adolescents, healthy adults, and elderly) participated in prophylaxis studies, of whom 1790 received the recommended dose of 75 mg once daily for up to 6 weeks.
 Adverse events were qualitatively very similar to those seen in the treatment studies, despite a longer duration of dosing (see Table 4).
@@ -32,9 +32,10 @@ There were no clinically relevant differences in the safety profile of the 942 e
 
 Table 4 Most Frequent Adverse Events in Studies in Naturally Acquired Influenza in Subjects 13 Years of Age and Older
 
-| Adverse EventAdverse events included are all events reported in the treatment studies with frequency ≥1% in the TAMIFLU 75 mg twice daily group. | Placebo N=716 |  | TAMIFLU 75 mg twice daily N=724 |  | Placebo/ No ProphylaxisThe majority of subjects received placebo; 254 subjects from a randomized, open-label postexposure prophylaxis study in households did not receive placebo or prophylaxis therapy. N=1688 |  | TAMIFLU 75 mg once daily N=1790 |  |
+| N=716 |  | N=724 |  | N=1688 |  | N=1790 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Treatment |  |  |  | Prophylaxis |  |  |  |
+| Adverse Event Adverse events included are all events reported in the treatment studies with frequency ≥1% in the TAMIFLU 75 mg twice daily group. | Placebo |  | TAMIFLU 75 mg twice daily |  | Placebo/ No ProphylaxisThe majority of subjects received placebo; 254 subjects from a randomized, open-label postexposure prophylaxis study in households did not receive placebo or prophylaxis therapy. |  | TAMIFLU 75 mg once daily |  |
 | Nausea (without vomiting) | 40 | (6%) | 72 | (10%) | 56 | (3%) | 129 | (7%) |
 | Vomiting | 21 | (3%) | 68 | (9%) | 16 | (1%) | 39 | (2%) |
 | Diarrhea | 70 | (10%) | 48 | (7%) | 40 | (2%) | 50 | (3%) |
@@ -47,21 +48,21 @@ Table 4 Most Frequent Adverse Events in Studies in Naturally Acquired Influenza 
 | Vertigo | 4 | (1%) | 7 | (1%) | 4 | (<1%) | 4 | (<1%) |
 | Fatigue | 7 | (1%) | 7 | (1%) | 163 | (10%) | 139 | (8%) |
 
-Additional adverse events occurring in <1% of patients receiving TAMIFLU for treatment included unstable angina, anemia, pseudomembranous colitis, humerus fracture, pneumonia, pyrexia, and peritonsillar abscess.
+Additional adverse events occurring in less than 1% of patients receiving TAMIFLU for treatment included unstable angina, anemia, pseudomembranous colitis, humerus fracture, pneumonia, pyrexia, and peritonsillar abscess.
 
-Treatment Studies in Pediatric Subjects
+Treatment Studies in Pediatric Subjects (1 to 12 years of age)
 
 A total of 1032 pediatric subjects aged 1 to 12 years (including 698 otherwise healthy pediatric subjects aged 1 to 12 years and 334 asthmatic pediatric subjects aged 6 to 12 years) participated in controlled clinical trials of TAMIFLU given for the treatment of influenza.
 A total of 515 pediatric subjects received treatment with TAMIFLU for oral suspension.
 
-Adverse events occurring in ≥1% of pediatric subjects receiving TAMIFLU treatment are listed in Table 5.
+Adverse events occurring in 1% or greater of pediatric subjects receiving TAMIFLU treatment are listed in Table 5.
 The most frequently reported adverse event was vomiting.
 Other events reported more frequently by pediatric subjects treated with TAMIFLU included abdominal pain, epistaxis, ear disorder, and conjunctivitis.
 These events generally occurred once and resolved despite continued dosing resulting in discontinuation of drug in 8 out of 515 (2%) cases.
 
 The adverse event profile in adolescents is similar to that described for adult subjects and pediatric subjects aged 1 to 12 years.
 
-Prophylaxis Studies in Pediatric Subjects
+Prophylaxis Studies in Pediatric Subjects (1 to 12 years of age)
 
 Pediatric subjects aged 1 to 12 years participated in a postexposure prophylaxis study in households, both as index cases (n=134) and as contacts (n=222).
 Gastrointestinal events were the most frequent, particularly vomiting.
@@ -69,7 +70,7 @@ In a separate 6-week, uncontrolled, pediatric seasonal prophylaxis study (n=49),
 
 Table 5 Most Frequent Adverse Events Occurring in Children Aged 1 to 12 Years in Studies in Naturally Acquired Influenza
 
-| Adverse EventAdverse events included in Table 5 are all events reported in the treatment studies with frequency ≥1% in the TAMIFLU 75 mg twice daily group. | Placebo N=517 |  | TAMIFLU 2 mg/kg twice daily N=515 |  | No ProphylaxisUnit dose = age-based dosing of 30 mg, 45 mg, or 60 mg N=87 |  | Prophylaxis with TAMIFLU once daily N=99 |  |
+| Adverse EventAdverse events included in Table 5 are all events reported in the treatment studies with frequency ≥1% in the TAMIFLU 75 mg twice daily group. | Placebo N=517 |  | TAMIFLU 2 mg/kg twice daily N=515 |  | No Prophylaxis N=87 |  | Prophylaxis with TAMIFLU once dailyUnit dose = age-based dosing of 30 mg, 45 mg, or 60 mg N=99 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Treatment TrialsPooled data from trials of TAMIFLU treatment of naturally acquired influenza. |  |  |  | Household Prophylaxis TrialA randomized, open-label study of household transmission in which household contacts received either prophylaxis or no prophylaxis but treatment if they became ill. Only contacts who received prophylaxis or who remained on no prophylaxis are included in this table. |  |  |  |
 | Vomiting | 48 | (9%) | 77 | (15%) | 2 | (2%) | 10 | (10%) |
@@ -87,6 +88,12 @@ Table 5 Most Frequent Adverse Events Occurring in Children Aged 1 to 12 Years in
 | Dermatitis | 10 | (2%) | 5 | (1%) | - |  | - |  |
 | Lymphadenopathy | 8 | (2%) | 5 | (1%) | - |  | - |  |
 | Tympanic membrane disorder | 6 | (1%) | 5 | (1%) | - |  | - |  |
+
+Treatment Studies in Pediatric Subjects (2 weeks to less than 1 year of age)
+
+Assessment of adverse reactions is based on two open label studies that included safety data on 135 influenza-infected subjects 2 weeks to less than 1 year of age (including premature infants at least 36 weeks post conceptional age) exposed to TAMIFLU at doses ranging from 2 to 3.5 mg/kg twice daily for 5 days.
+The safety profile was similar across the age range studied, with vomiting, diarrhea and diaper rash being the most frequently reported adverse reactions.
+The safety profile observed in subjects 2 weeks to less than 1 year of age was consistent with the established safety profile of adults and pediatric subjects older than 1 year of age.
 
 Prophylaxis Study in Immunocompromised Subjects
 

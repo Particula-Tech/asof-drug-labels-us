@@ -23,13 +23,13 @@ TAMIFLU should, therefore, be used only if the potential benefit for the lactati
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of TAMIFLU in pediatric patients younger than 1 year of age have not been studied.
-TAMIFLU is not indicated for either treatment or prophylaxis of influenza in pediatric patients younger than 1 year of age because of the unknown clinical significance of nonclinical animal toxicology data for human infants [see Nonclinical Toxicology (13.2)].
+Safety and efficacy of TAMIFLU for treatment of influenza in pediatric patients less than 2 weeks of age have not been established.
+Safety and efficacy of TAMIFLU for prophylaxis of influenza have not been established for pediatric patients less than 1 year of age.
 
 ## 8.5 Geriatric Use
 
 Of the total number of subjects in clinical studies of TAMIFLU for the treatment of influenza, 19% were 65 and over, while 7% were 75 and over.
-Of the total number of patients in clinical studies of TAMIFLU for the prophylaxis of influenza, 25% were 65 and over, while 18% were 75 and over.
+Of the total number of subjects in clinical studies of TAMIFLU for the prophylaxis of influenza, 25% were 65 and over, while 18% were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects.
 
 The safety of TAMIFLU in geriatric subjects has been established in clinical studies that enrolled 741 subjects (374 received placebo and 362 received TAMIFLU).

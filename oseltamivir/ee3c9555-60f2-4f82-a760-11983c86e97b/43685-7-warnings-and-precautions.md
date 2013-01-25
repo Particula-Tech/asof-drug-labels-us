@@ -29,3 +29,6 @@ No difference in the incidence of complications was observed between the treatme
 No information is available regarding treatment of influenza in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalization.
 
 Efficacy of TAMIFLU for treatment or prophylaxis of influenza has not been established in immunocompromised patients.
+
+Safety and efficacy of TAMIFLU for treatment of influenza in pediatric patients less than 2 weeks of age have not been established.
+Safety and efficacy of TAMIFLU for prophylaxis of influenza have not been established for pediatric patients less than 1 year of age.
