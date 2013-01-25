@@ -12,7 +12,7 @@ Attention Health Care Professional: Dispense the enclosed Medication Guide to ea
 
 SHAKE WELL BEFORE USING.
 
-Dulera® canister to be used with Dulera® actuator only.
+Dulera canister to be used with Dulera actuator only.
 
 Rx only
 
@@ -33,7 +33,7 @@ Attention Health Care Professional: Dispense the enclosed Medication Guide to ea
 
 SHAKE WELL BEFORE USING.
 
-Dulera® canister to be used with Dulera® actuator only.
+Dulera canister to be used with Dulera actuator only.
 
 Rx only
 

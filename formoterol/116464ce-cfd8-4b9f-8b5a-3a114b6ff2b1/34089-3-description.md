@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg, are combinations of mometasone furoate and formoterol fumarate dihydrate for oral inhalation only.
+DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg are combinations of mometasone furoate and formoterol fumarate dihydrate for oral inhalation only.
 
 One active component of DULERA is mometasone furoate, a corticosteroid having the chemical name 9,21-dichloro-11(Beta),17-dihydroxy-16 (alpha)-methylpregna-1,4-diene-3,20-dione 17-(2-furoate) with the following chemical structure:
 

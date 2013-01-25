@@ -112,6 +112,7 @@ Ask your healthcare provider or pharmacist if you have any questions.
   Always have a rescue inhaler with you to treat sudden symptoms.
   Use your rescue inhaler if you have breathing problems between doses of DULERA.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
+- Remove the cap from the mouthpiece of the actuator before using DULERA.
 - Rinse your mouth with water after each dose (2 puffs) of DULERA.
   This will help to lessen the chance of getting a yeast infection (thrush) in the mouth and throat.
 - Do not spray DULERA in your eyes.
@@ -165,6 +166,7 @@ DULERA can cause serious side effects, including:
   - dizziness
   - weakness
   - seizures
+  - electrocardiogram (ECG) changes
 - Lower bone mineral density.
   This may be a problem for people who already have a higher chance for low bone density (osteoporosis).
 - Slowed growth in children.
@@ -180,6 +182,10 @@ The most common side effects of DULERA include:
 - inflammation of the sinuses (sinusitis)
 - headache
 
+Other side effects:
+
+- Worsening asthma or sudden asthma attacks have been reported with the use of inhaled mometasone furoate (one of the medicines in DULERA).
+
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 These are not all the side effects with DULERA.
@@ -188,7 +194,7 @@ Ask your healthcare provider or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to Schering Corporation, a subsidiary of Merck & Co., Inc., at 1-877-888-4231.
+You may also report side effects to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., at 1-877-888-4231.
 
 How do I store DULERA?
 

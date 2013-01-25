@@ -22,8 +22,8 @@ Concomitant treatment with xanthine derivatives may potentiate any hypokalemic e
 ## 7.4 Diuretics
 
 Concomitant treatment with diuretics may potentiate the possible hypokalemic effect of adrenergic agonists.
-The ECG changes and/or hypokalemia that may result from the administration of non-potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
-Although the clinical significance of these effects is not known, caution is advised in the coadministration of DULERA with non-potassium sparing diuretics.
+The ECG changes and/or hypokalemia that may result from the administration of non-potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
+Although the clinical significance of these effects is not known, caution is advised in the coadministration of DULERA with non-potassium-sparing diuretics.
 
 ## 7.5 Monoamine oxidase inhibitors, tricyclic antidepressants, and drugs known to prolong the QTc interval
 

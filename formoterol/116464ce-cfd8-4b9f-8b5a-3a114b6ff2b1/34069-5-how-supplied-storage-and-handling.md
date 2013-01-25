@@ -30,13 +30,13 @@ Actuators from other products should not be used with the DULERA canister.
 The correct amount of medication in each inhalation cannot be ensured after the labeled number of actuations from the canister has been used, even though the inhaler may not feel completely empty and may continue to operate.
 The inhaler should be discarded when the labeled number of actuations has been used (the dose counter will read "0").
 
-Store at controlled room temperature 20°–25°C (68°–77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+Store at controlled room temperature 20–25°C (68–77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 
 The 120-inhalation inhaler does not require specific storage orientation.
 For the 60-inhalation inhaler, after priming, store the inhaler with the mouthpiece down or in a horizontal position.
 
 For best results, the canister should be at room temperature before use.
-Shake well before using.
+Shake well and remove the cap from the mouthpiece of the actuator before using.
 Keep out of reach of children.
 Avoid spraying in eyes.
 

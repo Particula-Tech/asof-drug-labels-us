@@ -87,7 +87,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including DU
 
 ## 8.5 Geriatric Use
 
-A total of 77 patients 65 years of age and older (of which 11 were 75 years and older) have been treated with DULERA in 3 clinical trials up to 52 weeks in duration.
+A total of 77 patients 65 years of age and older (11 of whom were 75 years and older) have been treated with DULERA in 3 clinical trials up to 52 weeks in duration.
 Similar efficacy and safety results were observed in an additional 28 patients 65 years of age and older who were treated with DULERA in another clinical trial.
 No overall differences in safety or effectiveness were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 As with other products containing beta2-agonists, special caution should be observed when using DULERA in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by beta2-agonists.

@@ -33,7 +33,7 @@ Cardiovascular Effects:
 
 DULERA:
 
-In a single dose, double blind placebo controlled crossover trial in 25 patients with asthma, single dose treatment of 10 mcg formoterol fumarate in combination with 400 mcg of mometasone furoate delivered via DULERA 200 mcg/5 mcg were compared to formoterol fumarate 10 mcg MDI, formoterol fumarate 12 mcg dry powder inhaler (DPI; nominal dose of formoterol fumarate delivered 10 mcg), or placebo.
+In a single-dose, double-blind placebo controlled crossover trial in 25 patients with asthma, single dose treatment of 10 mcg formoterol fumarate in combination with 400 mcg of mometasone furoate delivered via DULERA 200 mcg/5 mcg were compared to formoterol fumarate 10 mcg MDI, formoterol fumarate 12 mcg dry powder inhaler (DPI; nominal dose of formoterol fumarate delivered 10 mcg), or placebo.
 The degree of bronchodilation at 12 hours after dosing with DULERA was similar to formoterol fumarate delivered alone via MDI or DPI.
 
 ECGs and blood samples for glucose and potassium were obtained prior to dosing and post dose.
@@ -44,7 +44,7 @@ There was no evidence of significant hypokalemia or hyperglycemia in response to
 No relevant changes in heart rate or changes in ECG data were observed with DULERA in the trial.
 No patients had a QTcB (QTc corrected by Bazett's formula) ≥500 msec during treatment.
 
-In a single dose crossover trial involving 24 healthy subjects, single dose of formoterol fumarate 10, 20, or 40 mcg in combination with 400 mcg of mometasone furoate delivered via DULERA were evaluated for safety (ECG, blood potassium and glucose changes).
+In a single-dose crossover trial involving 24 healthy subjects, single dose of formoterol fumarate 10, 20, or 40 mcg in combination with 400 mcg of mometasone furoate delivered via DULERA were evaluated for safety (ECG, blood potassium and glucose changes).
 ECGs and blood samples for glucose and potassium were obtained at baseline and post dose.
 Decrease in mean serum potassium was similar across all three treatment groups (approximately 0.3 mmol/L) and values were within the normal range.
 No clinically significant increases in mean blood glucose values or heart rate were observed.
@@ -82,14 +82,14 @@ Mometasone furoate:
 
 Healthy Subjects: The systemic exposures to mometasone furoate from DULERA versus mometasone furoate delivered via DPI were compared.
 Following oral inhalation of single and multiple doses of the DULERA, mometasone furoate was absorbed in healthy subjects with median Tmax values ranging from 0.50 to 4 hours.
-Following single-dose administration of higher than recommended dose of DULERA (4 inhalations of DULERA 200 mcg/5 mcg) in healthy subjects, the arithmetic mean (CV%) Cmax and AUC(0-12 hr) values for MF were 67.8 (49) pg/mL and 650 (51) pg.hr/mL, respectively while the corresponding estimates following 5 days of BID dosing of DULERA 800 mcg/20 mcg were 241 (36) pg/mL and 2200 (35) pg.hr/mL.
+Following single-dose administration of higher than recommended dose of DULERA (4 inhalations of DULERA 200 mcg/5 mcg) in healthy subjects, the arithmetic mean (CV%) Cmax and AUC(0-12 hr) values for MF were 67.8 (49) pg/mL and 650 (51) pg∙hr/mL, respectively while the corresponding estimates following 5 days of BID dosing of DULERA 800 mcg/20 mcg were 241 (36) pg/mL and 2200 (35) pg∙hr/mL.
 Exposure to mometasone furoate increased with increasing inhaled dose of DULERA 100 mcg/5 mcg to 200 mcg/5 mcg.
 Studies using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of mometasone furoate is negligible (<1%).
 
 The above study demonstrated that the systemic exposure to mometasone furoate (based on AUC) was approximately 52% and 25% lower on Day 1 and Day 5, respectively, following DULERA administration compared to mometasone furoate via a DPI.
 
 Asthma Patients: Following oral inhalation of single and multiple doses of the DULERA, mometasone furoate was absorbed in asthma patients with median Tmax values ranging from 1 to 2 hours.
-Following single-dose administration of DULERA 400 mcg/10 mcg, the arithmetic mean (CV%) Cmax and AUC(0-12 hr) values for MF were 20 (88) pg/mL and 170 (94) pg.hr/mL, respectively while the corresponding estimates following BID dosing of DULERA 400 mcg/10 mcg at steady-state were 60 (36) pg/mL and 577 (40) pg.hr/mL.
+Following single-dose administration of DULERA 400 mcg/10 mcg, the arithmetic mean (CV%) Cmax and AUC(0-12 hr) values for MF were 20 (88) pg/mL and 170 (94) pg∙hr/mL, respectively while the corresponding estimates following BID dosing of DULERA 400 mcg/10 mcg at steady-state were 60 (36) pg/mL and 577 (40) pg∙hr/mL.
 
 Formoterol fumarate:
 
@@ -105,7 +105,7 @@ Distribution
 
 Mometasone furoate: Based on the study employing a 1000 mcg inhaled dose of tritiated mometasone furoate inhalation powder in humans, no appreciable accumulation of mometasone furoate in the red blood cells was found.
 Following an intravenous 400 mcg dose of mometasone furoate, the plasma concentrations showed a biphasic decline, with a mean steady-state volume of distribution of 152 liters.
-The in vitro protein binding for mometasone furoate was reported to be 98 to 99% (in a concentration range of 5 to 500 ng/mL).
+The in vitro protein binding for mometasone furoate was reported to be 98% to 99% (in a concentration range of 5 to 500 ng/mL).
 
 Formoterol fumarate: The binding of formoterol to human plasma proteins in vitro was 61% to 64% at concentrations from 0.1 to 100 ng/mL.
 Binding to human serum albumin in vitro was 31% to 38% over a range of 5 to 500 ng/mL.

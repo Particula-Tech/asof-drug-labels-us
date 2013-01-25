@@ -8,7 +8,7 @@ One clinical trial compared DULERA to placebo and the individual components, mom
 
 Trial 1: Clinical Trial with DULERA 100 mcg/5 mcg
 
-This 26-week, placebo controlled trial evaluated 781 patients 12 years of age and older comparing DULERA 100 mcg/5 mcg (n=191 patients), mometasone furoate 100 mcg (n=192 patients), formoterol fumarate 5 mcg (n=202 patients) and placebo (n=196 patients); each administered as 2 inhalations twice daily by metered dose inhalation aerosols.
+This 26-week, placebo-controlled trial evaluated 781 patients 12 years of age and older comparing DULERA 100 mcg/5 mcg (n=191 patients), mometasone furoate 100 mcg (n=192 patients), formoterol fumarate 5 mcg (n=202 patients) and placebo (n=196 patients); each administered as 2 inhalations twice daily by metered dose inhalation aerosols.
 All other maintenance therapies were discontinued.
 This study included a 2 to 3-week run-in period with mometasone furoate 100 mcg, 2 inhalations twice daily.
 This trial included patients ranging from 12 to 76 years of age, 41% male and 59% female, and 72% Caucasian and 28% non-Caucasian.
@@ -31,14 +31,14 @@ Clinically judged deteriorations in asthma or reductions in lung function were a
 Deteriorations in asthma were defined as any of the following: a 20% decrease in FEV1; a 30% decrease in PEF on two or more consecutive days; emergency treatment, hospitalization, or treatment with systemic corticosteroids or other asthma medications not allowed per protocol.
 Fewer patients who received DULERA 100 mcg/5 mcg reported an event compared to patients who received formoterol 5 mcg (p<0.001).
 
-Table 3: Trial 1 - Clinically judged deterioration in asthma or reduction in lung functionIncludes only the first event day for each patient.
+Table 3: Trial 1 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
 Patients could have experienced more than one event criterion.
 
-|  | DULERA 100 mcg/ 5 mcgTwo inhalations, twice daily. (n=191) | Mometasone furoate 100 mcg (n=192) | Formoterol 5 mcg (n=202) | Placebo (n=196) |
+|  | DULERA 100 mcg/ 5 mcgTwo inhalations, twice daily. (n=191) | Mometasone Furoate 100 mcg (n=192) | Formoterol 5 mcg (n=202) | Placebo (n=196) |
 | --- | --- | --- | --- | --- |
 | Clinically judged deterioration in asthma or reduction in lung function | 58 (30%) | 65 (34%) | 109 (54%) | 109 (56%) |
-| Decrease in FEV1Decrease in absolute FEV1 below the treatment period stability limit (defined as 80% of the average of the two predose FEV1 measurements taken 30 minutes and immediately prior to the first dose of randomized trial medication) | 18 (9%) | 19 (10%) | 31 (15%) | 41 (21%) |
-| Decrease in PEFDecrease in AM or PM peak expiratory flow (PEF) on 2 or more consecutive days below the treatment period stability limit (defined as 70% of the AM or PM PEF obtained over the last 7 days of the run-in period) | 37 (19%) | 41 (21%) | 62 (31%) | 61 (31%) |
+| Decrease in FEV1Decrease in absolute FEV1 below the treatment period stability limit (defined as 80% of the average of the two predose FEV1 measurements taken 30 minutes and immediately prior to the first dose of randomized trial medication). | 18 (9%) | 19 (10%) | 31 (15%) | 41 (21%) |
+| Decrease in PEFDecrease in AM or PM peak expiratory flow (PEF) on 2 or more consecutive days below the treatment period stability limit (defined as 70% of the AM or PM PEF obtained over the last 7 days of the run-in period). | 37 (19%) | 41 (21%) | 62 (31%) | 61 (31%) |
 | Emergency treatment | 0 | 1 (<1%) | 4 (2%) | 1 (<1%) |
 | Hospitalization | 1 (<1%) | 0 | 0 | 0 |
 | Treatment with excluded asthma medicationThirty patients received glucocorticosteroids; 1 patient received formoterol via dry powder inhaler in the Formoterol 5 mcg group. | 2 (1%) | 4 (2%) | 17 (8%) | 8 (4%) |
@@ -46,9 +46,9 @@ Patients could have experienced more than one event criterion.
 The change in mean trough FEV1 from baseline to Week 12 was assessed as another endpoint to evaluate the contribution of mometasone furoate 100 mcg to DULERA 100 mcg/5 mcg.
 A significantly greater increase in mean trough FEV1 was observed for DULERA 100 mcg/5 mcg compared to formoterol 5 mcg (the primary treatment comparison) as well as to placebo (Table 4).
 
-Table 4: Trial 1 – Change in trough FEV1 from baseline to Week 12
+Table 4: Trial 1 – Change in Trough FEV1 from Baseline to Week 12
 
-| Treatment arm | N | Baseline (L) | Change from baseline at Week 12 (L) | Treatment difference from placebo (L) | P-value vs. placebo | P-value vs. formoterol |
+| Treatment Arm | N | Baseline (L) | Change From Baseline at Week 12 (L) | Treatment Difference from Placebo (L) | P-Value vs. Placebo | P-Value vs. Formoterol |
 | --- | --- | --- | --- | --- | --- | --- |
 | DULERA 100 mcg/5 mcg | 167 | 2.33 | 0.13 | 0.18 | <0.001 | <0.001 |
 | Mometasone furoate 100 mcg | 175 | 2.36 | 0.07 | 0.12 | <0.001 | 0.058 |
@@ -80,9 +80,9 @@ The difference was maintained over 12 weeks of therapy.
 Mean change in trough FEV1 from baseline to Week 12 was also assessed to evaluate the relative contribution of mometasone furoate to DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg (Table 5).
 A greater numerical increase in the mean trough FEV1 was observed for DULERA 200 mcg/5 mcg compared to DULERA 100 mcg/5 mcg and mometasone furoate 200 mcg.
 
-Table 5: Trial 2 – Change in trough FEV1 from baseline to Week 12
+Table 5: Trial 2 – Change in Trough FEV1 from Baseline to Week 12
 
-| Treatment arm | N | Baseline (L) | Change from baseline at Week 12 (L) |
+| Treatment Arm | N | Baseline (L) | Change from Baseline at Week 12 (L) |
 | --- | --- | --- | --- |
 | DULERA 100 mcg/5 mcg | 232 | 2.10 | 0.14 |
 | DULERA 200 mcg/5 mcg | 255 | 2.05 | 0.19 |
@@ -91,14 +91,14 @@ Table 5: Trial 2 – Change in trough FEV1 from baseline to Week 12
 Clinically judged deterioration in asthma or reduction in lung function was assessed as an additional endpoint.
 Fewer patients who received DULERA 200 mcg/5 mcg or DULERA 100/5 mcg compared to mometasone furoate 200 mcg alone reported an event, defined as in Trial 1 by any of the following: a 20% decrease in FEV1; a 30% decrease in PEF on two or more consecutive days; emergency treatment, hospitalization, or treatment with systemic corticosteroids or other asthma medications not allowed per protocol.
 
-Table 6: Trial 2 - Clinically judged deterioration in asthma or reduction in lung functionIncludes only the first event day for each patient.
+Table 6: Trial 2 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
 Patients could have experienced more than one event criterion.
 
-|  | DULERA 100 mcg/ 5 mcgTwo inhalations, twice daily. (n=233) | DULERA 200 mcg/ 5 mcg (n=255) | Mometasone furoate 200 mcg (n=240) |
+|  | DULERA 100 mcg/ 5 mcgTwo inhalations, twice daily. (n=233) | DULERA 200 mcg/ 5 mcg (n=255) | Mometasone Furoate 200 mcg (n=240) |
 | --- | --- | --- | --- |
 | Clinically judged deterioration in asthma or reduction in lung function | 29 (12%) | 31 (12%) | 44 (18%) |
-| Decrease in FEV1Decrease in absolute FEV1 below the treatment period stability limit (defined as 80% of the average of the two predose FEV1 measurements taken 30 minutes and immediately prior to the first dose of randomized trial medication) | 23 (10%) | 17 (7%) | 33 (14%) |
-| Decrease in PEF on two consecutive daysDecrease in AM or PM peak expiratory flow (PEF) below the treatment period stability limit (defined as 70% of the AM or PM PEF obtained over the last 7 days of the run-in period) | 2 (1%) | 4 (2%) | 3 (1%) |
+| Decrease in FEV1Decrease in absolute FEV1 below the treatment period stability limit (defined as 80% of the average of the two predose FEV1 measurements taken 30 minutes and immediately prior to the first dose of randomized trial medication). | 23 (10%) | 17 (7%) | 33 (14%) |
+| Decrease in PEF on two consecutive daysDecrease in AM or PM peak expiratory flow (PEF) below the treatment period stability limit (defined as 70% of the AM or PM PEF obtained over the last 7 days of the run-in period). | 2 (1%) | 4 (2%) | 3 (1%) |
 | Emergency treatment | 2 (1%) | 1 (<1%) | 1 (<1%) |
 | Hospitalization | 0 | 1 (<1%) | 0 |
 | Treatment with excluded asthma medicationTwenty four patients received glucocorticosteroids; 1 patient received albuterol in the DULERA 200 mcg / 5 mcg group. | 5 (2%) | 8 (3%) | 12 (5%) |

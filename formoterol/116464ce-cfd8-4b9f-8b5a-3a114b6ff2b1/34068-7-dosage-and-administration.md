@@ -5,6 +5,8 @@
 DULERA should be administered only by the orally inhaled route (see Instructions for Using DULERA in the Medication Guide).
 After each dose, the patient should be advised to rinse his/her mouth with water without swallowing.
 
+The cap from the mouthpiece of the actuator should be removed before using DULERA.
+
 DULERA should be primed before using for the first time by releasing 4 test sprays into the air, away from the face, shaking well before each spray.
 In cases where the inhaler has not been used for more than 5 days, prime the inhaler again by releasing 4 test sprays into the air, away from the face, shaking well before each spray.
 

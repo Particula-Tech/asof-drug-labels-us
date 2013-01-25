@@ -97,7 +97,7 @@ Caution should be exercised when considering the coadministration of DULERA with
 ## 5.9 Paradoxical Bronchospasm and Upper Airway Symptoms
 
 DULERA may produce inhalation induced bronchospasm with an immediate increase in wheezing after dosing that may be life-threatening.
-If inhalation induced bronchospasm occurs, it should be treated immediately with an inhaled, short-acting inhaled bronchodilator.
+If inhalation induced bronchospasm occurs, it should be treated immediately with an inhaled, short-acting bronchodilator.
 DULERA should be discontinued immediately and alternative therapy instituted.
 
 ## 5.10 Immediate Hypersensitivity Reactions

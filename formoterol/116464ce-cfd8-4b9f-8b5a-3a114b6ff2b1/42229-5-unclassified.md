@@ -1,16 +1,14 @@
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
 Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
 
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Copyright © 2010 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
 U.S. Patent Nos. 6,068,832; 7,067,502; and 7,566,705.
 
-The trademarks depicted in this piece are owned by their respective companies.
+The trademarks depicted herein are owned by their respective companies.
 
-Revised: 05/2012
-
-418131-MFF-AO-USPI.14
+418131-MFF-AO-USPI.17
 
 Patient Instructions for Use
 
@@ -24,6 +22,7 @@ The parts of your DULERA:
 
 There are 2 main parts to your DULERA inhaler – the metal canister that holds the medicine and the blue plastic actuator that sprays the medicine from the canister.
 The inhaler also has a cap that covers the mouthpiece of the actuator (see Figure 1).
+The cap from the mouthpiece must be removed before use.
 The inhaler contains 60 or 120 actuations (puffs).
 
 Figure 1
@@ -41,7 +40,7 @@ The counter will stop counting at 0.
 
 Before using your DULERA:
 
-Remove the cap from the mouthpiece of the actuator (see Figure 2).
+REMOVE THE CAP FROM THE MOUTHPIECE OF THE ACTUATOR (see Figure 2).
 Check the mouthpiece for objects before use.
 Make sure the canister is fully inserted into the actuator.
 
@@ -58,16 +57,17 @@ Before you use DULERA for the first time, you must prime the inhaler.
 
 Using your DULERA
 
-- 4.Remove the cap from the mouthpiece of the actuator (see Figure 2).
+- 4.REMOVE THE CAP FROM THE MOUTHPIECE OF THE ACTUATOR (see Figure 3).
   Check the mouthpiece for objects before use.
   Make sure the canister is fully inserted into the actuator.
 - 5.Shake the inhaler well before each use.
 - 6.Breathe out as fully as you comfortably can through your mouth.
   Push out as much air from your lungs as possible.
-  Hold the inhaler in the upright position and place the mouthpiece into your mouth (see Figure 3).
+  Hold the inhaler in the upright position and place the mouthpiece into your mouth (see Figure 4).
   Close your lips around the mouthpiece.
 
-Figure 3
+| Figure 3 | Figure 4 |
+| --- | --- |
 
 - 7.Take a deep breath (inhale) in slowly through your mouth.
   While doing this, press down firmly and fully on the top of the canister until it stops moving in the actuator.
@@ -75,11 +75,11 @@ Figure 3
 - 8.When you have finished breathing in, hold your breath as long as you comfortably can, up to 10 seconds.
   Then remove the inhaler from your mouth and breathe out through your nose, while keeping your lips closed.
 - 9.Wait at least 30 seconds to take your second puff of DULERA.
-- 10.Shake the inhaler well again and repeat steps 6 through 8 before you take your second puff of DULERA.
+- 10.Shake the inhaler well again and repeat steps 6 through 8 to take your second puff of DULERA.
 
 After using your DULERA inhaler:
 
-- 11.Replace the cap over the mouthpiece right away after use.
+- 11.Replace the cap over the mouthpiece right away after use (see Figure 5).
 - 12.After you finish taking DULERA (2 puffs), rinse your mouth with water.
 
 Reading the counter
@@ -119,17 +119,17 @@ Routine cleaning instructions:
 - Do not attempt to unblock the actuator with a sharp object, such as a pin.
 - Do not wash or put any parts of your inhaler in water.
 
-Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Copyright © 2010 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
 U.S. Patent Nos. 6,068,832; 7,067,502; and 7,566,705.
 
-The trademarks depicted in this piece are owned by their respective companies.
+The trademarks depicted herein are owned by their respective companies.
 
 FORADIL is a registered trademark of Astellas Pharma Inc.
 
@@ -137,6 +137,6 @@ AEROLIZER is a registered trademark of Novartis AG.
 
 NORVIR and KALETRA are registered trademarks of Abbott Laboratories.
 
-Revised: 03/2012
+Revised: 01/2013
 
-418131-MFF-AO-MG.10
+418131-MFF-AO-MG.13
