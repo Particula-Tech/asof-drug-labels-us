@@ -114,10 +114,10 @@ The Gruppo Italiano per lo Studio della Sopravvivenza nell'Infarto Miocardico (G
 It was designed to examine the effects of short-term (6 week) treatment with lisinopril, nitrates, their combination, or no therapy on short-term (6 week) mortality and on long-term death and markedly impaired cardiac function.
 Patients presenting within 24 hours of the onset of symptoms who were hemodynamically stable were randomized, in a 2 x 2 factorial design, to six weeks of either
 
-1. PRINIVIL alone (n = 4841),
-2. nitrates alone (n = 4869),
-3. PRINIVIL plus nitrates (n = 4841), or
-4. open control (n = 4843).
+1. PRINIVIL alone (n=4841),
+2. nitrates alone (n=4869),
+3. PRINIVIL plus nitrates (n=4841), or
+4. open control (n=4843).
 
 All patients received routine therapies, including thrombolytics (72%), aspirin (84%), and a beta-blocker (31%), as appropriate, normally utilized in acute myocardial infarction (MI) patients.
 
@@ -127,7 +127,7 @@ The protocol excluded patients with hypotension (systolic blood pressure ≤100 
 Study treatment was withdrawn at six weeks except where clinical conditions indicated continuation of treatment.
 
 The primary outcomes of the trial were the overall mortality at six weeks and a combined endpoint at six months after the myocardial infarction, consisting of the number of patients who died, had late (day 4) clinical congestive heart failure, or had extensive left ventricular damage defined as ejection fraction ≤35%, or an akinetic-dyskinetic [A-D] score ≥45%.
-Patients receiving PRINIVIL (n = 9646) alone or with nitrates, had an 11 percent lower risk of death (2p [two-tailed] = 0.04) compared to patients receiving no PRINIVIL (n = 9672) (6.4 percent versus 7.2 percent, respectively) at six weeks.
+Patients receiving PRINIVIL (n=9646) alone or with nitrates, had an 11 percent lower risk of death (2p [two-tailed]=0.04) compared to patients receiving no PRINIVIL (n=9672) (6.4 percent versus 7.2 percent, respectively) at six weeks.
 Although patients randomized to receive PRINIVIL for up to six weeks also fared numerically better on the combined end-point at 6 months, the open nature of the assessment of heart failure, substantial loss to follow-up echocardiography, and substantial excess use of lisinopril between 6 weeks and 6 months in the group randomized to 6 weeks of lisinopril, preclude any conclusion about this endpoint.
 
 Patients with acute myocardial infarction, treated with PRINIVIL had a higher (9.0 percent versus 3.7 percent, respectively) incidence of persistent hypotension (systolic blood pressure <90 mmHg for more than 1 hour) and renal dysfunction (2.4 percent versus 1.1 percent) in-hospital and at six weeks (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration).

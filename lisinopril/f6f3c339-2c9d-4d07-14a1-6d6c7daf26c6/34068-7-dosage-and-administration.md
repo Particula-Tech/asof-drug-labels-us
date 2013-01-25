@@ -24,16 +24,18 @@ If the diuretic cannot be discontinued, an initial dose of 5 mg should be used u
 
 Concomitant administration of PRINIVIL with potassium supplements, potassium salt substitutes, or potassium-sparing diuretics may lead to increases of serum potassium (see PRECAUTIONS).
 
-Dosage Adjustment in Renal Impairment: The usual dose of PRINIVIL (10 mg) is recommended for patients with a creatinine clearance >30 mL/min (serum creatinine of up to approximately 3 mg/dL).
-For patients with creatinine clearance ≥10 mL/min ≤30 mL/min (serum creatinine ≥3 mg/dL), the first dose is 5 mg once daily.
-For patients with creatinine clearance <10 mL/min (usually on hemodialysis) the recommended initial dose is 2.5 mg.
+Dosage Adjustment in Renal Impairment: The usual dose of PRINIVIL (10 mg) is recommended for patients with a creatinine clearance greater than 30 mL/min (serum creatinine of up to approximately 3 mg/dL).
+For patients with creatinine clearance greater than or equal to 10 mL/min and less than or equal to 30 mL/min (serum creatinine greater than or equal to 3 mg/dL), the first dose is 5 mg once daily.
+For patients with creatinine clearance less than 10 mL/min (usually on hemodialysis) the recommended initial dose is 2.5 mg.
 The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
+
+Table 3
 
 | Renal Status | Creatinine- Clearance mL/min | Initial Dose mg/day |
 | --- | --- | --- |
 | Normal Renal Function to Mild Impairment | >30 mL/min | 10 mg |
 | Moderate to Severe Impairment | ≥10 ≤30 mL/min | 5 mg |
-| Dialysis PatientsSee WARNINGS, Anaphylactoid reactions during membrane exposure | <10 mL/min | 2.5 mgDosage or dosing interval should be adjusted depending on the blood pressure response. |
+| Dialysis PatientsSee WARNINGS, Anaphylactoid reactions during membrane exposure. | <10 mL/min | 2.5 mgDosage or dosing interval should be adjusted depending on the blood pressure response. |
 
 ## Heart Failure
 
@@ -49,7 +51,7 @@ The appearance of hypotension after the initial dose of PRINIVIL does not preclu
 
 The usual effective dosage range is 5 to 20 mg per day administered as a single daily dose.
 
-Dosage Adjustment in Patients with Heart Failure and Renal Impairment or Hyponatremia: In patients with heart failure who have hyponatremia (serum sodium <130 mEq/L) or moderate to severe renal impairment (creatinine clearance ≤30 mL/min or serum creatinine >3 mg/dL), therapy with PRINIVIL should be initiated at a dose of 2.5 mg once a day under close medical supervision.
+Dosage Adjustment in Patients with Heart Failure and Renal Impairment or Hyponatremia: In patients with heart failure who have hyponatremia (serum sodium less than 130 mEq/L) or moderate to severe renal impairment (creatinine clearance less than or equal to 30 mL/min or serum creatinine greater than 3 mg/dL), therapy with PRINIVIL should be initiated at a dose of 2.5 mg once a day under close medical supervision.
 (See WARNINGS and PRECAUTIONS, Drug Interactions.)
 
 ## Acute Myocardial Infarction
@@ -57,9 +59,9 @@ Dosage Adjustment in Patients with Heart Failure and Renal Impairment or Hyponat
 In hemodynamically stable patients within 24 hours of the onset of symptoms of acute myocardial infarction, the first dose of PRINIVIL is 5 mg given orally, followed by 5 mg after 24 hours, 10 mg after 48 hours and then 10 mg of PRINIVIL once daily.
 Dosing should continue for six weeks.
 Patients should receive, as appropriate, the standard recommended treatments such as thrombolytics, aspirin and beta-blockers.
-Patients with a low systolic blood pressure (≤120 mmHg) when treatment is started or during the first 3 days after the infarct should be given a lower 2.5 mg oral dose of PRINIVIL (see WARNINGS).
-If hypotension occurs (systolic blood pressure ≤100 mmHg) a daily maintenance dose of 5 mg may be given with temporary reductions to 2.5 mg if needed.
-If prolonged hypotension occurs (systolic blood pressure <90 mmHg for more than 1 hour) PRINIVIL should be withdrawn.
+Patients with a low systolic blood pressure (less than or equal to 120 mmHg) when treatment is started or during the first 3 days after the infarct should be given a lower 2.5 mg oral dose of PRINIVIL (see WARNINGS).
+If hypotension occurs (systolic blood pressure less than or equal to 100 mmHg) a daily maintenance dose of 5 mg may be given with temporary reductions to 2.5 mg if needed.
+If prolonged hypotension occurs (systolic blood pressure less than 90 mmHg for more than 1 hour) PRINIVIL should be withdrawn.
 For patients who develop symptoms of heart failure, see DOSAGE AND ADMINISTRATION, Heart Failure.
 
 Dosage Adjustment in Patients with Myocardial Infarction with Renal Impairment: In acute myocardial infarction, treatment with PRINIVIL should be initiated with caution in patients with evidence of renal dysfunction, defined as serum creatinine concentration exceeding 2 mg/dL.
@@ -70,18 +72,18 @@ No evaluation of dosage adjustment in myocardial infarction patients with severe
 In general, blood pressure response and adverse experiences were similar in younger and older patients given similar doses of PRINIVIL.
 Pharmacokinetic studies, however, indicate that maximum blood levels and area under the plasma concentration time curve (AUC) are doubled in older patients, so that dosage adjustments should be made with particular caution.
 
-## Pediatric Hypertensive Patients ≥6 years of age
+## Pediatric Hypertensive Patients 6 years of age and older
 
 The usual recommended starting dose is 0.07 mg/kg once daily (up to 5 mg total).
 Dosage should be adjusted according to blood pressure response.
 Doses above 0.61 mg/kg (or in excess of 40 mg) have not been studied in pediatric patients.
 (See CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism and Pharmacodynamics and Clinical Effects.)
 
-PRINIVIL is not recommended in pediatric patients <6 years or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism, Pharmacodynamics and Clinical Effects and PRECAUTIONS).
+PRINIVIL is not recommended in pediatric patients younger than 6 years or in pediatric patients with glomerular filtration rate less than 30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism, Pharmacodynamics and Clinical Effects and PRECAUTIONS).
 
 ## Preparation of Suspension (for 200 mL of a 1.0 mg/mL suspension)
 
 Add 10 mL of Purified Water USP to a polyethylene terephthalate (PET) bottle containing ten 20-mg tablets of PRINIVIL and shake for at least one minute.
-Add 30 mL of Bicitra®Registered trademark of Alza Corporation diluent and 160 mL of Ora-Sweet SF™Trademark of Paddock Laboratories, Inc. to the concentrate in the PET bottle and gently shake for several seconds to disperse the ingredients.
+Add 30 mL of Bicitra® diluent and 160 mL of Ora-Sweet SF™ to the concentrate in the PET bottle and gently shake for several seconds to disperse the ingredients.
 The suspension should be stored at or below 25°C (77°F) and can be stored for up to four weeks.
 Shake the suspension before each use.
