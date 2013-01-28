@@ -1,3 +1,5 @@
+MEDICATION GUIDEADDERALL XR® (ADD-ur-all X-R) CII
+
 Read the Medication Guide that comes with ADDERALL XR before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about you or your child's treatment with ADDERALL XR.
@@ -50,7 +52,6 @@ ADDERALL XR and some medicines may interact with each other and cause serious si
 Sometimes the doses of other medicines will need to be adjusted while taking ADDERALL XR.
 
 Your doctor will decide whether ADDERALL XR can be taken with other medicines.
-
 Especially tell your doctor if you or your child takes:
 
 - anti-depression medicines including MAOIs
@@ -147,10 +148,5 @@ The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
 The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide
 
 Manufactured for Shire US Inc., Wayne, PA 19087.
-
-ADDERALL XR is registered in the US Patent and Trademark Office © 2011 Shire US Inc
-
-Rev.
-08/2011
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+ADDERALL XR is registered in the US Patent and Trademark Office © 2011 Shire US Inc Rev.
+01/2013 This Medication Guide has been approved by the U.S. Food and Drug Administration.

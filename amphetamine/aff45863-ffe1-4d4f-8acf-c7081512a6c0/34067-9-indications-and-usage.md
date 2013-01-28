@@ -4,7 +4,7 @@
 
 ADDERALL XR® is indicated for the treatment of attention deficit hyperactivity disorder (ADHD).
 
-The efficacy of ADDERALL XR in the treatment of ADHD was established on the basis of two controlled trials in children aged 6 to 12, one controlled trial in adolescents aged 13 to 17, and one controlled trial in adults who met DSM-IV® criteria for ADHD [seeCLINICAL STUDIES (14)].
+The efficacy of ADDERALL XR in the treatment of ADHD was established on the basis of two controlled trials in children aged 6 to 12, one controlled trial in adolescents aged 13 to 17, and one controlled trial in adults who met DSM-IV® criteria for ADHD [see CLINICAL STUDIES (14)].
 
 A diagnosis of ADHD (DSM-IV®) implies the presence of hyperactive-impulsive or inattentive symptoms that caused impairment and were present before age 7 years.
 The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning, and be present in two or more settings, e.g., school (or work) and at home.

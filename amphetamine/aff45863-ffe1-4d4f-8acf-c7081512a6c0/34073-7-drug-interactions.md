@@ -7,7 +7,7 @@ MAO Inhibitors
 MAOI antidepressants slow amphetamine metabolism.
 This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
 A variety of toxic neurological effects and malignant hyperpyrexia can occur, sometimes with fatal results.
-Do not administer ADDERALL XR during or within 14 days following the administration of monoamine oxidase inhibitors [seeCONTRAINDICATIONS (4)].
+Do not administer ADDERALL XR during or within 14 days following the administration of monoamine oxidase inhibitors [see CONTRAINDICATIONS (4)].
 
 Alkalinizing Agents
 
@@ -92,7 +92,7 @@ Propoxyphene Overdosage
 
 In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
 
-## 7.7 Proton Pump Inhibitors
+## 7.7 Proton Pump Inhibitors (PPI)
 
 PPIs act on proton pumps by blocking acid production, thereby reducing gastric acidity.
 When ADDERALL XR (20 mg single-dose) was administered concomitantly with the proton pump inhibitor, omeprazole (40 mg once daily for 14 days), the median Tmax of d-amphetamine was decreased by 1.25 hours (from 4 to 2.75 hours), and the median Tmax of l-amphetamine was decreased by 2.5 hours (from 5.5 to 3 hours), compared to ADDERALL XR administered alone.

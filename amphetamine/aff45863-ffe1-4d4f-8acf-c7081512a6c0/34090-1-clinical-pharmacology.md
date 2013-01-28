@@ -47,7 +47,7 @@ Since amphetamine has a pKa of 9.9, urinary recovery of amphetamine is highly de
 Alkaline urine pHs result in less ionization and reduced renal elimination, and acidic pHs and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion.
 Urinary recovery of amphetamine has been reported to range from 1% to 75%, depending on urinary pH, with the remaining fraction of the dose hepatically metabolized.
 Consequently, both hepatic and renal dysfunction have the potential to inhibit the elimination of amphetamine and result in prolonged exposures.
-In addition, drugs that effect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased, [seeDRUG INTERACTIONS (7)].
+In addition, drugs that effect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased, [see DRUG INTERACTIONS (7)].
 
 Special Populations
 

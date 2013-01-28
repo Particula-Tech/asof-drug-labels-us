@@ -7,19 +7,19 @@ Sudden Death and Pre-existing Structural Cardiac Abnormalities or Other Serious 
 Children and Adolescents
 
 Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
-Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug [seeCONTRAINDICATIONS (4)].
+Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug [see CONTRAINDICATIONS (4)].
 
 Adults
 
 Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
-Adults with such abnormalities should also generally not be treated with stimulant drugs [seeCONTRAINDICATIONS (4)].
+Adults with such abnormalities should also generally not be treated with stimulant drugs [see CONTRAINDICATIONS (4)].
 
 Hypertension and Other Cardiovascular Conditions
 
 Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia [seeCONTRAINDICATIONS (4) and ADVERSE REACTIONS (6)].
+Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia [see CONTRAINDICATIONS (4) and ADVERSE REACTIONS (6)].
 
 Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
 
