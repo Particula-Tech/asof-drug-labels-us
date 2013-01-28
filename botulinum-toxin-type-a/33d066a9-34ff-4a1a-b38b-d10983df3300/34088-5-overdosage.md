@@ -3,7 +3,7 @@
 Excessive doses of BOTOX (onabotulinumtoxinA) for injection may be expected to produce neuromuscular weakness with a variety of symptoms.
 
 Symptoms of overdose are likely not to be present immediately following injection.
-Should accidental injection or oral ingestion occur or overdose be suspected, the person should be medically supervised for several weeks for signs and symptoms of systemic muscular weakness which could be local, or distant from the site of injection [see Boxed Warning and Warnings and Precautions (5.2, 5.5)].
+Should accidental injection or oral ingestion occur or overdose be suspected, the person should be medically supervised for several weeks for signs and symptoms of systemic muscular weakness which could be local, or distant from the site of injection [see Boxed Warning and Warnings and Precautions (5.2, 5.6)].
 These patients should be considered for further medical evaluation and appropriate medical therapy immediately instituted, which may include hospitalization.
 
 If the musculature of the oropharynx and esophagus are affected, aspiration may occur which may lead to development of aspiration pneumonia.

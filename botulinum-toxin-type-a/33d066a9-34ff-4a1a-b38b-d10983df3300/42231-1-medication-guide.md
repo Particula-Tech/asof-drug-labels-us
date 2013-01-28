@@ -1,4 +1,14 @@
-MEDICATION GUIDE BOTOX® BOTOX® Cosmetic (Boe-tox) (onabotulinumtoxinA) for Injection
+MEDICATION GUIDE
+
+BOTOX®
+
+BOTOX® Cosmetic
+
+(Boe-tox)
+
+(onabotulinumtoxinA)
+
+for Injection
 
 Read the Medication Guide that comes with BOTOX or BOTOX Cosmetic before you start using it and each time it is given to you.
 There may be new information.
@@ -15,26 +25,31 @@ BOTOX and BOTOX Cosmetic may cause serious side effects that can be life threate
 These problems can happen hours, days, to weeks after an injection of BOTOX or BOTOX Cosmetic.
 Call your doctor or get medical help right away if you have any of these problems after treatment with BOTOX or BOTOX Cosmetic:
 
-1. Problems swallowing, speaking, or breathing.
-   These problems can happen hours, days, to weeks after an injection of BOTOX or BOTOX Cosmetic usually because the muscles that you use to breathe and swallow can become weak after the injection.
-   Death can happen as a complication if you have severe problems with swallowing or breathing after treatment with BOTOX or BOTOX Cosmetic.
-   - People with certain breathing problems may need to use muscles in their neck to help them breathe.
-     These people may be at greater risk for serious breathing problems with BOTOX or BOTOX Cosmetic.
-   - Swallowing problems may last for several months.
-     People who cannot swallow well may need a feeding tube to receive food and water.
-     If swallowing problems are severe, food or liquids may go into your lungs.
-     People who already have swallowing or breathing problems before receiving BOTOX or BOTOX Cosmetic have the highest risk of getting these problems.
-2. Spread of toxin effects.
-   In some cases, the effect of botulinum toxin may affect areas of the body away from the injection site and cause symptoms of a serious condition called botulism.
-   The symptoms of botulism include:
-   - loss of strength and muscle weakness all over the body
-   - double vision
-   - blurred vision and drooping eyelids
-   - hoarseness or change or loss of voice (dysphonia)
-   - trouble saying words clearly (dysarthria)
-   - loss of bladder control
-   - trouble breathing
-   - trouble swallowing
+1.
+Problems swallowing, speaking, or breathing.
+These problems can happen hours, days, to weeks after an injection of BOTOX or BOTOX Cosmetic usually because the muscles that you use to breathe and swallow can become weak after the injection.
+Death can happen as a complication if you have severe problems with swallowing or breathing after treatment with BOTOX or BOTOX Cosmetic.
+
+- People with certain breathing problems may need to use muscles in their neck to help them breathe.
+  These people may be at greater risk for serious breathing problems with BOTOX or BOTOX Cosmetic.
+- Swallowing problems may last for several months.
+  People who cannot swallow well may need a feeding tube to receive food and water.
+  If swallowing problems are severe, food or liquids may go into your lungs.
+  People who already have swallowing or breathing problems before receiving BOTOX or BOTOX Cosmetic have the highest risk of getting these problems.
+
+2.
+Spread of toxin effects.
+In some cases, the effect of botulinum toxin may affect areas of the body away from the injection site and cause symptoms of a serious condition called botulism.
+The symptoms of botulism include:
+
+- loss of strength and muscle weakness all over the body
+- double vision
+- blurred vision and drooping eyelids
+- hoarseness or change or loss of voice (dysphonia)
+- trouble saying words clearly (dysarthria)
+- loss of bladder control
+- trouble breathing
+- trouble swallowing
 
 These symptoms can happen hours, days, to weeks after you receive an injection of BOTOX or BOTOX Cosmetic.
 
@@ -47,7 +62,8 @@ What are BOTOX and BOTOX Cosmetic?
 
 BOTOX is a prescription medicine that is injected into muscles and used:
 
-- to treat leakage of urine (incontinence) in adults with overactive bladder due to neurologic disease.
+- to treat overactive bladder symptoms such as a strong need to urinate with leaking or wetting accidents (urge urinary incontinence), a strong need to urinate right away (urgency), and urinating often (frequency) in adults when another type of medicine (anticholinergic) does not work well enough or cannot be taken.
+- to treat leakage of urine (incontinence) in adults with overactive bladder due to neurologic disease when another type of medicine (anticholinergic) does not work well enough or cannot be taken.
 - to prevent headaches in adults with chronic migraine who have 15 or more days each month with headache lasting 4 or more hours each day.
 - to treat increased muscle stiffness in elbow, wrist, and finger muscles in adults with upper limb spasticity.
 - to treat the abnormal head position and neck pain that happens with cervical dystonia (CD) in adults.
@@ -155,7 +171,9 @@ Other side effects of BOTOX and BOTOX Cosmetic include:
 - neck pain
 - eye problems: double vision, blurred vision, decreased eyesight, drooping eyelids, swelling of your eyelids, and dry eyes.
 - urinary tract infection in people being treated for urinary incontinence
+- painful urination in people being treated for urinary incontinence
 - inability to empty your bladder on your own and are being treated for urinary incontinence.
+  If you have difficulty fully emptying your bladder after getting BOTOX, you may need to use disposable self-catheters to empty your bladder up to a few times each day until your bladder is able to start empyting again.
 - allergic reactions.
   Symptoms of an allergic reaction to BOTOX or BOTOX Cosmetic may include: itching, rash, red itchy welts, wheezing, asthma symptoms, or dizziness or feeling faint.
   Tell your doctor or get medical help right away if you are wheezing or have asthma symptoms, or if you become dizzy or faint.
@@ -183,14 +201,16 @@ Active ingredient: botulinum toxin type A
 
 Inactive ingredients: human albumin and sodium chloride
 
-Issued: 08/2011
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2012 Allergan, Inc. ® marks owned by Allergan, Inc. Patented.
-See: www.allergan.com/products/patent_notices
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612
 
-Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
+Revised: 01/2013
+
+© 2013 Allergan, Inc. ® marks owned by Allergan, Inc. Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 
-72309US12 and 72312US12
+Patented.
+See: www.allergan.com/products/patent_notices
+
+72309US13 72312US13 72511US10

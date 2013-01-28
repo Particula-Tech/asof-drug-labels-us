@@ -8,6 +8,7 @@ BOTOX is contraindicated in patients who are hypersensitive to any botulinum tox
 
 BOTOX is contraindicated in the presence of infection at the proposed injection site(s).
 
-## 4.3 Acute Urinary Tract Infection and/or Acute Urinary Retention
+## 4.3 Urinary Tract Infection or Urinary Retention
 
-Intradetrusor injection of BOTOX is contraindicated in patients with detrusor overactivity associated with a neurologic condition who have acute urinary tract infection, and in patients with acute urinary retention who are not routinely performing clean intermittent self-catheterization (CIC).
+Intradetrusor injection of BOTOX is contraindicated in patients with overactive bladder or detrusor overactivity associated with a neurologic condition who have a urinary tract infection.
+Intradetrusor injection of BOTOX is also contraindicated in patients with urinary retention and in patients with post-void residual (PVR) urine volume >200 mL, who are not routinely performing clean intermittent self-catheterization (CIC).

@@ -18,4 +18,4 @@ The no-effect doses for reproductive toxicity (4 Units/kg in males, 8 Units/kg i
 ## 13.2 Animal Toxicology
 
 In a study to evaluate inadvertent peribladder administration, bladder stones were observed in 1 of 4 male monkeys that were injected with a total of 6.8 Units/kg divided into the prostatic urethra and proximal rectum (single administration).
-No bladder stones were observed in male or female monkeys following injection of up to 36 Units/kg (~12X the human dose) directly to the bladder as either single or 4 repeat dose injections or in female rats for single injections up to 100 Units/kg (~33X the human dose).
+No bladder stones were observed in male or female monkeys following injection of up to 36 Units/kg (~12X the highest human bladder dose) directly to the bladder as either single or 4 repeat dose injections or in female rats for single injections up to 100 Units/kg (~33X the highest human bladder dose).

@@ -8,7 +8,7 @@ There are no adequate and well-controlled studies in pregnant women.
 BOTOX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 When BOTOX (4, 8, or 16 Units/kg) was administered intramuscularly to pregnant mice or rats two times during the period of organogenesis (on gestation days 5 and 13), reductions in fetal body weight and decreased fetal skeletal ossification were observed at the two highest doses.
-The no-effect dose for developmental toxicity in these studies (4 Units/kg) is approximately 1½ times the average high human dose for upper limb spasticity of 360 Units on a body weight basis (Units/kg).
+The no-effect dose for developmental toxicity in these studies (4 Units/kg) is approximately 0.7 times the average high human dose for upper limb spasticity of 360 Units on a body weight basis (Units/kg).
 
 When BOTOX was administered intramuscularly to pregnant rats (0.125, 0.25, 0.5, 1, 4, or 8 Units/kg) or rabbits (0.063, 0.125, 0.25, or 0.5 Units/kg) daily during the period of organogenesis (total of 12 doses in rats, 13 doses in rabbits), reduced fetal body weights and decreased fetal skeletal ossification were observed at the two highest doses in rats and at the highest dose in rabbits.
 These doses were also associated with significant maternal toxicity, including abortions, early deliveries, and maternal death.
@@ -24,7 +24,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Urinary Incontinence due to Detrusor Overactivity associated with a Neurologic Condition
+Bladder Dysfunction
 
 Safety and effectiveness in patients below the age of 18 years have not been established.
 
@@ -50,7 +50,24 @@ Safety and effectiveness in pediatric patients below the age of 12 years have no
 
 ## 8.5 Geriatric Use
 
-Clinical studies of BOTOX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Overall, with the exception of Overactive Bladder (see below), clinical studies of BOTOX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 There were too few patients over the age of 75 to enable any comparisons.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+Overactive Bladder
+
+Of 1242 overactive bladder patients in placebo-controlled clinical studies of BOTOX, 41.4% (n=514) were 65 years of age or older, and 14.7% (n=182) were 75 years of age or older.
+Adverse reactions of UTI and urinary retention were more common in patients 65 years of age or older in both placebo and BOTOX groups compared to younger patients (see Table 15).
+Otherwise, there were no overall differences in the safety profile following BOTOX treatment between patients aged 65 years and older compared to younger patients in these studies.
+
+Table 15.
+Incidence of Urinary Tract Infection and Urinary Retention according to Age Group during First Placebo-controlled Treatment, Placebo-controlled Clinical Trials in Patients with OAB
+
+|  | <65 Years |  | 65 to 74 Years |  | >75 Years |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Adverse Reactions | BOTOX 100 Units (N=344) | Placebo (N=348) | BOTOX 100 Units (N=169) | Placebo (N=151) | BOTOX 100 Units (N=94) | Placebo (N=86) |
+| Urinary tract infection | 73 (21%) | 23 (7%) | 51 (30%) | 20 (13%) | 36 (38%) | 16 (19%) |
+| Urinary retention | 21 (6%) | 2 (0.6%) | 14 (8%) | 0 (0%) | 8 (9%) | 1 (1%) |
+
+Observed effectiveness was comparable between these age groups in placebo-controlled clinical studies.

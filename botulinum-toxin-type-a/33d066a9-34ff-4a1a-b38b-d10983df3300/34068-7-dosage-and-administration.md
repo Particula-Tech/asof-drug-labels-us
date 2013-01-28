@@ -6,6 +6,7 @@ The potency Units of BOTOX (onabotulinumtoxinA) for injection are specific to th
 They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.1) and Description (11)].
 
 Indication specific dosage and administration recommendations should be followed.
+When initiating treatment, the lowest recommended dose should be used.
 In treating adult patients for one or more indications, the maximum cumulative dose should generally not exceed 360 Units, in a 3 month interval.
 
 The safe and effective use of BOTOX depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
@@ -25,12 +26,13 @@ Record the date and time of reconstitution on the space on the label.
 BOTOX should be administered within 24 hours after reconstitution.
 During this time period, reconstituted BOTOX should be stored in a refrigerator (2° to 8°C).
 
-Table 1: Dilution Instructions for BOTOX Vials (100 Units and 200 Units)
+Table 1: Dilution Instructions for BOTOX Vials (100 Units and 200 Units)**
 
 | Diluent* Added to 100 Unit Vial | Resulting Dose Units per 0.1 mL | Diluent* Added to 200 Unit Vial | Resulting Dose Units per 0.1 mL |
 | --- | --- | --- | --- |
-| 1 mL 2 mL 4 mL 8 mL | 10 Units 5 Units 2.5 Units 1.25 Units | 1 mL 2 mL 4 mL 8 mL 10 mL | 20 Units 10 Units 5 Units 2.5 Units 2 Units |
+| 1 mL 2 mL 4 mL 8 mL 10 mL | 10 Units 5 Units 2.5 Units 1.25 Units 1 Unit | 1 mL 2 mL 4 mL 8 mL 10 mL | 20 Units 10 Units 5 Units 2.5 Units 2 Units |
 | *Preservative-free 0.9% Sodium Chloride Injection, USP Only |  |  |  |
+| **For Detrusor Overactivity associated with a Neurologic Condition Dilution see Section 2.3 |  |  |  |
 
 Note: These dilutions are calculated for an injection volume of 0.1 mL.
 A decrease or increase in the BOTOX dose is also possible by administering a smaller or larger injection volume - from 0.05 mL (50% decrease in dose) to 0.15 mL (50% increase in dose).
@@ -43,35 +45,66 @@ A new, sterile needle and syringe should be used to enter the vial on each occas
 Reconstituted BOTOX should be clear, colorless, and free of particulate matter.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration and whenever the solution and the container permit.
 
-## 2.3 Detrusor Overactivity associated with a Neurologic Condition
+## 2.3 Bladder Dysfunction
 
-Patients should not have an acute urinary tract infection prior to treatment.
-Prophylactic antibiotics (except aminoglycosides, see Drug Interactions (7)) should be administered 1-3 days pre-treatment, on the treatment day, and 1-3 days post-treatment.
+General
+
+Patients must not have a urinary tract infection (UTI) at the time of treatment.
+Prophylactic antibiotics, except aminoglycosides, [see Drug Interactions (7.1)] should be administered 1-3 days pre-treatment, on the treatment day, and 1-3 days post-treatment to reduce the likelihood of procedure-related UTI.
 
 Patients should discontinue anti-platelet therapy at least 3 days before the injection procedure.
 Patients on anti-coagulant therapy need to be managed appropriately to decrease the risk of bleeding.
 
 Appropriate caution should be exercised when performing a cystoscopy.
 
+Overactive Bladder
+
+An intravesical instillation of diluted local anesthetic with or without sedation may be used prior to injection, per local site practice.
+If a local anesthetic instillation is performed, the bladder should be drained and irrigated with sterile saline before injection.
+
+The recommended dose is 100 Units of BOTOX, and is the maximum recommended dose.
+The recommended dilution is 100 Units/10 mL with 0.9% non-preserved saline solution (see Table 1).
+Dispose of any unused saline.
+
+Reconstituted BOTOX (100 Units/10 mL) is injected into the detrusor muscle via a flexible or rigid cystoscope, avoiding the trigone.
+The bladder should be instilled with enough saline to achieve adequate visualization for the injections, but over-distension should be avoided.
+
+The injection needle should be filled (primed) with approximately 1 mL of reconstituted BOTOX prior to the start of injections (depending on the needle length) to remove any air.
+
+The needle should be inserted approximately 2 mm into the detrusor, and 20 injections of 0.5 mL each (total volume of 10 mL) should be spaced approximately 1 cm apart (see Figure 1).
+For the final injection, approximately 1 mL of sterile normal saline should be injected so that the remaining BOTOX in the needle is delivered to the bladder.
+After the injections are given, patients should demonstrate their ability to void prior to leaving the clinic.
+The patient should be observed for at least 30 minutes post-injection and until a spontaneous void has occurred.
+
+Patients should be considered for reinjection when the clinical effect of the previous injection has diminished (median time until patients qualified for the second treatment of BOTOX in double-blind, placebo-controlled clinical studies was 169 days [~24 weeks]), but no sooner than 12 weeks from the prior bladder injection.
+
+Figure 1: Injection Pattern for Intradetrusor Injections for Treatment of Overactive Bladder and Detrusor Overactivity associated with a Neurologic Condition
+
+Detrusor Overactivity associated with a Neurologic Condition
+
 An intravesical instillation of diluted local anesthetic with or without sedation, or general anesthesia may be used prior to injection, per local site practice.
 If a local anesthetic instillation is performed, the bladder should be drained and irrigated with sterile saline before injection.
 
 The recommended dose is 200 Units of BOTOX per treatment, and should not be exceeded.
 
-Reconstitute a 200 Unit vial of BOTOX with 6 mL of 0.9% non-preserved saline solution and mix the vial gently.
-Draw 2 mL from the vial into each of three 10 mL syringes.
-Complete the reconstitution by adding 8 mL of 0.9% non-preserved saline solution into each of the 10 mL syringes, and mix gently.
-This will result in three 10 mL syringes each containing 10 mL (~67 Units in each), for a total of 200 Units of reconstituted BOTOX.
-Use immediately after reconstitution in the syringe.
-Dispose of any unused saline.
+200 Unit Vial of BOTOX
 
-Alternatively, reconstitute two 100 Unit vials of BOTOX, each with 6 mL of 0.9% non-preserved saline solution and mix the vials gently.
-Draw 4 mL from each vial into each of two 10 mL syringes.
-Draw the remaining 2 mL from each vial into a third 10 mL syringe.
-Complete the reconstitution by adding 6 mL of 0.9% non-preserved saline solution into each of the 10 mL syringes, and mix gently.
-This will result in three 10 mL syringes each containing 10 mL (~67 Units in each), for a total of 200 Units of reconstituted BOTOX.
-Use immediately after reconstitution in the syringe.
-Dispose of any unused saline.
+- Reconstitute a 200 Unit vial of BOTOX with 6 mL of 0.9% non-preserved saline solution and mix the vial gently.
+- Draw 2 mL from the vial into each of three 10 mL syringes.
+- Complete the reconstitution by adding 8 mL of 0.9% non-preserved saline solution into each of the 10 mL syringes, and mix gently.
+  This will result in three 10 mL syringes each containing 10 mL (~67 Units in each), for a total of 200 Units of reconstituted BOTOX.
+- Use immediately after reconstitution in the syringe.
+  Dispose of any unused saline.
+
+100 Unit Vial of BOTOX
+
+- Reconstitute two 100 Unit vials of BOTOX, each with 6 mL of 0.9% non-preserved saline solution and mix the vials gently.
+- Draw 4 mL from each vial into each of two 10 mL syringes.
+  Draw the remaining 2 mL from each vial into a third 10 mL syringe for a total of 4 mL in each syringe.
+- Complete the reconstitution by adding 6 mL of 0.9% non-preserved saline solution into each of the 10 mL syringes, and mix gently.
+  This will result in three 10 mL syringes each containing 10 mL (~67 Units in each), for a total of 200 Units of reconstituted BOTOX.
+- Use immediately after reconstitution in the syringe.
+  Dispose of any unused saline.
 
 Reconstituted BOTOX (200 Units/30 mL) is injected into the detrusor muscle via a flexible or rigid cystoscope, avoiding the trigone.
 The bladder should be instilled with enough saline to achieve adequate visualization for the injections, but over-distension should be avoided.
@@ -79,18 +112,16 @@ The bladder should be instilled with enough saline to achieve adequate visualiza
 The injection needle should be filled (primed) with approximately 1 mL of reconstituted BOTOX prior to the start of injections (depending on the needle length) to remove any air.
 
 The needle should be inserted approximately 2 mm into the detrusor, and 30 injections of 1 mL (~6.7 Units) each (total volume of 30 mL) should be spaced approximately 1 cm apart (see Figure 1).
-For the final injection, approximately 1 mL of sterile normal saline should be injected so the full dose is delivered.
+For the final injection, approximately 1 mL of sterile normal saline should be injected so that the remaining BOTOX in the needle is is delivered to the bladder.
 After the injections are given, the saline used for bladder wall visualization should be drained.
 The patient should be observed for at least 30 minutes post-injection.
 
 Patients should be considered for re-injection when the clinical effect of the previous injection diminishes (median time to qualification for re-treatment in the double-blind, placebo-controlled clinical studies was 295-337 days [42-48 weeks] for BOTOX 200 Units), but no sooner than 12 weeks from the prior bladder injection.
 
-Figure 1: Injection Pattern for Detrusor Overactivity associated with a Neurologic Condition
-
 ## 2.4 Chronic Migraine
 
 The recommended dilution is 200 Units/4 mL or 100 Units/2 mL, with a final concentration of 5 Units per 0.1 mL (see Table 1).
-The recommended dose for treating chronic migraine is 155 Units administered intramuscularly (IM) using a sterile 30-gauge, 0.5 inch needle as 0.1 mL (5 Units) injections per each site.
+The recommended dose for treating chronic migraine is 155 Units administered intramuscularly using a sterile 30-gauge, 0.5 inch needle as 0.1 mL (5 Units) injections per each site.
 Injections should be divided across 7 specific head/neck muscle areas as specified in the diagrams and Table 2 below.
 A one inch needle may be needed in the neck region for patients with thick neck muscles.
 With the exception of the procerus muscle, which should be injected at one site (midline), all muscles should be injected bilaterally with half the number of injection sites administered to the left, and half to the right side of the head and neck.
@@ -140,7 +171,7 @@ The degree and pattern of muscle spasticity at the time of re-injection may nece
 
 A double-blind, placebo-controlled study enrolled patients who had extended histories of receiving and tolerating BOTOX injections, with prior individualized adjustment of dose.
 The mean BOTOX dose administered to patients in this study was 236 Units (25th to 75th percentile range of 198 Units to 300 Units).
-The BOTOX dose was divided among the affected muscles [see Clinical Studies (14.4)].
+The BOTOX dose was divided among the affected muscles [see Clinical Studies (14.5)].
 
 Dosing in initial and sequential treatment sessions should be tailored to the individual patient based on the patient's head and neck position, localization of pain, muscle hypertrophy, patient response, and adverse event history.
 The initial dose for a patient without prior use of BOTOX should be at a lower dose, with subsequent dosing adjusted based on individual response.
@@ -158,7 +189,7 @@ In the double-blind, placebo-controlled study most subjects were observed to hav
 
 The recommended dose is 50 Units per axilla.
 The hyperhidrotic area to be injected should be defined using standard staining techniques, e.g., Minor's Iodine-Starch Test.
-The recommended dilution is 100 Units/4 mL with 0.9% preservative-free sterile saline (see Dilution Table).
+The recommended dilution is 100 Units/4 mL with 0.9% preservative-free sterile saline (see Table 1).
 Using a 30 gauge needle, 50 Units of BOTOX (2 mL) is injected intradermally in 0.1 to 0.2 mL aliquots to each axilla evenly distributed in multiple sites (10-15) approximately 1-2 cm apart.
 
 Repeat injections for hyperhidrosis should be administered when the clinical effect of a previous injection diminishes.

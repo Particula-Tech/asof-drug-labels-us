@@ -23,8 +23,8 @@ No definitive serious adverse event reports of distant spread of toxin effect as
 
 Care should be taken when injecting in or near vulnerable anatomic structures.
 Serious adverse events including fatal outcomes have been reported in patients who had received BOTOX injected directly into salivary glands, the oro-lingual-pharyngeal region, esophagus and stomach.
+Safety and effectiveness have not been established for indications pertaining to these injection sites.
 Some patients had pre-existing dysphagia or significant debility.
-(Safety and effectiveness have not been established for indications pertaining to these injection sites.)
 Pneumothorax associated with injection procedure has been reported following the administration of BOTOX near the thorax.
 Caution is warranted when injecting in proximity to the lung, particularly the apices.
 
@@ -35,7 +35,12 @@ These reactions include anaphylaxis, serum sickness, urticaria, soft tissue edem
 If such a reaction occurs, further injection of BOTOX should be discontinued and appropriate medical therapy immediately instituted.
 One fatal case of anaphylaxis has been reported in which lidocaine was used as the diluent, and consequently the causal agent cannot be reliably determined.
 
-## 5.5 Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia
+## 5.5 Pre-Existing Neuromuscular Disorders
+
+Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored particularly closely when given botulinum toxin.
+Patients with neuromuscular disorders may be at increased risk of clinically significant effects including severe dysphagia and respiratory compromise from therapeutic doses of BOTOX [see Adverse Reactions (6.1)].
+
+## 5.6 Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia
 
 Treatment with BOTOX and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
@@ -57,11 +62,6 @@ Injections into the levator scapulae may be associated with an increased risk of
 Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
 These reactions can occur within hours to weeks after injection with botulinum toxin [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
-## 5.6 Pre-Existing Neuromuscular Disorders
-
-Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored particularly closely when given botulinum toxin.
-Patients with neuromuscular disorders may be at increased risk of clinically significant effects including severe dysphagia and respiratory compromise from therapeutic doses of BOTOX [see Adverse Reactions (6.1)].
-
 ## 5.7 Pulmonary Effects of BOTOX in Patients with Compromised Respiratory Status Treated for Spasticity or for Detrusor Overactivity associated with a Neurologic Condition
 
 Patients with compromised respiratory status treated with BOTOX for upper limb spasticity should be monitored closely.
@@ -75,7 +75,8 @@ Table 4: Event rate per patient treatment cycle among patients with reduced lung
 | Week 1 | 4% | 0% | 3% | 0% | 7% | 3% |
 | Week 6 | 7% | 4% | 4% | 2% | 2% | 2% |
 | Week 12 | 10% | 5% | 2% | 1% | 4% | 1% |
-| Differences from placebo were not statistically significant |  |  |  |  |  |  |
+
+Differences from placebo were not statistically significant
 
 In patients with reduced lung function, upper respiratory tract infections were also reported more frequently as adverse reactions in patients treated with BOTOX than in patients treated with placebo [see Warnings and Precautions (5.10)].
 
@@ -106,40 +107,77 @@ It is recommended that appropriate instruments to decompress the orbit be access
 Bronchitis was reported more frequently as an adverse reaction in patients treated for upper limb spasticity with BOTOX (3% at 251 Units-360 Units total dose), compared to placebo (1%).
 In patients with reduced lung function treated for upper limb spasticity, upper respiratory tract infections were also reported more frequently as adverse reactions in patients treated with BOTOX (11% at 360 Units total dose; 8% at 240 Units total dose) compared to placebo (6%).
 
-## 5.11 Autonomic Dysreflexia and Urinary Retention in Patients Treated for Detrusor Overactivity associated with a Neurologic Condition
+## 5.11 Autonomic Dysreflexia in Patients Treated for Detrusor Overactivity associated with a Neurologic Condition
 
 Autonomic dysreflexia associated with intradetrusor injections of BOTOX could occur in patients treated for detrusor overactivity associated with a neurologic condition and may require prompt medical therapy.
 In clinical trials, the incidence of autonomic dysreflexia was greater in patients treated with BOTOX 200 Units compared with placebo (1.5% versus 0.4%, respectively).
 
-In double-blind, placebo-controlled trials, the proportion of subjects who were not using clean intermittent catheterization (CIC) prior to injection and who subsequently required catheterization for urinary retention following treatment with BOTOX or placebo is shown in Table 6.
-The duration of post-injection catheterization is also shown.
+## 5.12 Urinary Tract Infections in Patients with Overactive Bladder
 
-Table 6: Proportion of Patients not using CIC at baseline and then Catheterizing for Urinary Retention and Duration of Catheterization following injection in double-blind, placebo-controlled clinical trials
+BOTOX increases the incidence of urinary tract infection [see Adverse Reactions (6.1)].
+Clinical trials for overactive bladder excluded patients with more than 2 UTIs in the past 6 months and those taking antibiotics chronically due to recurrent UTIs.
+Use of BOTOX for the treatment of overactive bladder in such patients and in patients with multiple recurrent UTIs during treatment should only be considered when the benefit is likely to outweigh the potential risk.
 
-| Timepoint | BOTOX 200 Unit (N=108) | Placebo (N=104) |
+## 5.13 Urinary Retention in Patients Treated for Bladder Dysfunction
+
+Due to the risk of urinary retention, treat only patients who are willing and able to initiate catheterization post-treatment, if required, for urinary retention.
+
+In patients who are not catheterizing, post-void residual (PVR) urine volume should be assessed within 2 weeks post-treatment and periodically as medically appropriate up to 12 weeks, particularly in patients with multiple sclerosis or diabetes mellitus.
+Depending on patient symptoms, institute catheterization if PVR urine volume exceeds 200 mL and continue until PVR falls below 200 mL.
+Instruct patients to contact their physician if they experience difficulty in voiding as catheterization may be required.
+
+The incidence and duration of urinary retention is described below for patients with overactive bladder and detrusor overactivity associated with a neurologic condition who received BOTOX or placebo injections.
+
+Overactive Bladder
+
+In double-blind, placebo-controlled trials in patients with OAB, the proportion of subjects who initiated clean intermittent catheterization (CIC) for urinary retention following treatment with BOTOX or placebo is shown in Table 6.
+The duration of post-injection catheterization for those who developed urinary retention is also shown.
+
+Table 6: Proportion of Patients Catheterizing for Urinary Retention and Duration of Catheterization following an injection in double-blind, placebo-controlled clinical trials in OAB
+
+| Timepoint | BOTOX 100 Units (N=552) | Placebo (N=542) |
 | --- | --- | --- |
 | Proportion of Patients Catheterizing for Urinary Retention |  |  |
-| At any time during complete treatment cycle | 33 (30.6%) | 7 (6.7%) |
+| At any time during complete treatment cycle | 6.5% (n=36) | 0.4% (n=2) |
+| Duration of Catheterization for Urinary Retention (Days) |  |  |
+| Median | 63 | 11 |
+| Min, Max | 1, 214 | 3, 18 |
+
+Patients with diabetes mellitus treated with BOTOX were more likely to develop urinary retention than those without diabetes, as shown in Table 7.
+
+Table 7.
+Proportion of Patients Experiencing Urinary Retention following an injection in double-blind, placebo-controlled clinical trials in OAB according to history of Diabetes Mellitus
+
+|  | Patients with Diabetes |  | Patients without Diabetes |  |
+| --- | --- | --- | --- | --- |
+| BOTOX 100 Units (N=81) | Placebo (N=69) | BOTOX 100 Units (N=526) | Placebo (N=516) |  |
+| Urinary retention | 12.3% (n=10) | 0 | 6.3% (n=33) | 0.6% (n=3) |
+
+Detrusor Overactivity associated with a Neurologic Condition
+
+In double-blind, placebo-controlled trials in patients with detrusor overactivity associated with a neurologic condition, the proportion of subjects who were not using clean intermittent catheterization (CIC) prior to injection and who subsequently required catheterization for urinary retention following treatment with BOTOX or placebo is shown in Table 8.
+The duration of post-injection catheterization for those who developed urinary retention is also shown.
+
+Table 8: Proportion of Patients not using CIC at baseline and then Catheterizing for Urinary Retention and Duration of Catheterization following an injection in double-blind, placebo-controlled clinical trials
+
+| Timepoint | BOTOX 200 Units (N=108) | Placebo (N=104) |
+| --- | --- | --- |
+| Proportion of Patients Catheterizing for Urinary Retention |  |  |
+| At any time during complete treatment cycle | 30.6% (n=33) | 6.7% (n=7) |
 | Duration of Catheterization for Urinary Retention (Days) |  |  |
 | Median | 289 | 358 |
 | Min, Max | 1, 530 | 2, 379 |
 
-Among patients not using CIC at baseline, those with MS were more likely to require CIC post-injection than those with SCI (see Table 7).
+Among patients not using CIC at baseline, those with MS were more likely to require CIC post-injection than those with SCI (see Table 9).
 
-Table 7: Proportion of Patients by Etiology (MS and SCI) not using CIC at baseline and then Catheterizing for Urinary Retention following injection in double-blind, placebo-controlled clinical trials
+Table 9: Proportion of Patients by Etiology (MS and SCI) not using CIC at baseline and then Catheterizing for Urinary Retention following an injection in double-blind, placebo-controlled clinical trials
 
-| BOTOX 200 Unit (N=86) | Placebo (N=88) | BOTOX 200 Unit (N=22) | Placebo (N=16) |  |
-| --- | --- | --- | --- | --- |
 | Timepoint | MS |  | SCI |  |
-| At any time during complete treatment cycle | 27 (31%) | 4 (5%) | 6 (27%) | 3 (19%) |
+| --- | --- | --- | --- | --- |
+| BOTOX 200 Units (N=86) | Placebo (N=88) | BOTOX 200 Units (N=22) | Placebo (N=16) |  |
+| At any time during complete treatment cycle | 31% (n=27) | 5% (n=4) | 27% (n=6) | 19% (n=3) |
 
-Due to the risk of urinary retention, only patients who are willing and/or able to initiate catheterization post-treatment, if required, should be considered for treatment.
-
-In patients who are not catheterizing, post-void residual (PVR) urine volume should be assessed within 2 weeks post-treatment and periodically as medically appropriate up to 12 weeks.
-Catheterization should be instituted if PVR urine volume exceeds 200 mL and continued until PVR falls below 200 mL.
-Patients should be instructed to contact their physician if they experience difficulty in voiding as catheterization may be required.
-
-## 5.12 Human Albumin and Transmission of Viral Diseases
+## 5.14 Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
 Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.

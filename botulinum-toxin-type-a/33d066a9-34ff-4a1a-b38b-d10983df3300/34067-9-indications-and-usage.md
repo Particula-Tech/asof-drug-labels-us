@@ -1,8 +1,14 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Detrusor Overactivity associated with a Neurologic Condition
+## 1.1 Bladder Dysfunction
 
-BOTOX (onabotulinumtoxinA) for injection is indicated for the treatment of urinary incontinence due to detrusor overactivity associated with a neurologic condition (e.g., SCI, MS) in adults who have an inadequate response to or are intolerant of an anticholinergic medication.
+Overactive Bladder
+
+BOTOX (onabotulinumtoxinA) for injection is indicated for the treatment of overactive bladder with symptoms of urge urinary incontinence, urgency, and frequency, in adults who have an inadequate response to or are intolerant of an anticholinergic medication.
+
+Detrusor Overactivity associated with a Neurologic Condition
+
+BOTOX is indicated for the treatment of urinary incontinence due to detrusor overactivity associated with a neurologic condition (e.g., SCI, MS) in adults who have an inadequate response to or are intolerant of an anticholinergic medication.
 
 ## 1.2 Chronic Migraine
 
