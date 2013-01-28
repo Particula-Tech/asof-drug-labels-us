@@ -19,10 +19,10 @@ Table 2: Principal Radiation Emission Data for Nitrogen 13
 
 | Radiation/Emission | % Per Disintegration | Energy |
 | --- | --- | --- |
-| Positron(β+) | 100 | 1190 keV (Max.) |
-| Gamma(±) Produced by positron annihilation | 200 | 511 keV |
+| Positron(?+) | 100 | 1190 keV (Max.) |
+| Gamma(�) Produced by positron annihilation | 200 | 511 keV |
 
-The specific gamma ray constant for nitrogen N 13 is 6.0 R/hr/mCi (1.35 × 10-6 Gy/hr/kBq) at 1 cm.
+The specific gamma ray constant for nitrogen N 13 is 6.0 R/hr/mCi (1.35 � 10-6 Gy/hr/kBq) at 1 cm.
 The half-value layer (HVL) of lead (Pb) for 511 keV photons is 4 mm.
 Selected coefficients of attenuation are listed in Table 3 as a function of lead shield thickness.
 For example, the use of 39 mm thickness of lead will attenuate the external radiation by a factor of about 1000.

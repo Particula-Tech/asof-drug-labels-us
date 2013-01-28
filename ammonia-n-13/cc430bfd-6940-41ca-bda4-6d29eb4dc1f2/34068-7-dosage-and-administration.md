@@ -2,7 +2,7 @@
 
 ## 2.1 Rest Imaging Study
 
-- Aseptically withdraw Ammonia N 13 Injection from its container and administer 10-20 mCi (0.368 —0.736 GBq) as a bolus through a catheter inserted into a large peripheral vein.
+- Aseptically withdraw Ammonia N 13 Injection from its container and administer 10-20 mCi (0.368 �0.736 GBq) as a bolus through a catheter inserted into a large peripheral vein.
 - Start imaging 3 minutes after the injection and acquire images for a total of 10 - 20 minutes.
 
 ## 2.2 Stress Imaging Study
