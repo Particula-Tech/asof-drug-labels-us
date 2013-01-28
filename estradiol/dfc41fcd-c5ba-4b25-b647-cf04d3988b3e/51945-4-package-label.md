@@ -6,7 +6,7 @@ Each gram contains 0.1 mg estradiol in a nonliquefying base.
 
 Usual Dosage: See enclosed Package Insert for Full Prescribing Information.
 
-CAUTION: Keep this and all medication out of the reach of children.
+CAUTION: Keep this and all medications out of the reach of children.
 
 ESTRACE® CREAM (estradiol vaginal cream, USP, 0.01%)
 

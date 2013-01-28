@@ -10,17 +10,17 @@ The warnings, precautions, and adverse reactions associated with oral estrogen t
 Estrogen and estrogen/progestin therapy has been associated with an increased risk of cardiovascular events such as myocardial infarction and stroke, as well as venous thrombosis and pulmonary embolism (venous thromboembolism or VTE).
 Should any of these occur or be suspected, estrogens should be discontinued immediately.
 
-Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (e.g., personal history or family history of VTE, obesity, and systemic lupus erythematosus) should be managed appropriately.
+Risk factors for arterial vascular disease (for example, hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (for example, personal history or family history of VTE, obesity, and systemic lupus erythematosus) should be managed appropriately.
 
 ### a. Coronary heart disease and stroke
 
 In the Women’s Health Initiative (WHI) study, an increase in the number of myocardial infarctions and strokes has been observed in women receiving CE compared to placebo.
 These observations are preliminary, and the study is continuing (see CLINICAL PHARMACOLOGY, Clinical Studies).
 
-In the CE/MPA substudy of WHI, an increased risk of coronary heart disease (CHD) events (defined as nonfatal myocardial infarction and CHD death) was observed in women receiving CE/MPA compared to women receiving placebo (37 vs 30 per 10,000 women-years).
+In the CE/MPA substudy of WHI, an increased risk of coronary heart disease (CHD) events (defined as nonfatal myocardial infarction and CHD death) was observed in women receiving CE/MPA compared to women receiving placebo (37 versus 30 per 10,000 women-years).
 The increase in risk was observed in year one and persisted.
 
-In the same substudy of WHI, an increased risk of stroke was observed in women receiving CE/MPA compared to women receiving placebo (29 vs 21 per 10,000 women-years).
+In the same substudy of WHI, an increased risk of stroke was observed in women receiving CE/MPA compared to women receiving placebo (29 versus 21 per 10,000 women-years).
 The increase in risk was observed after the first year and persisted.
 
 In postmenopausal women with documented heart disease (n = 2,763, average age 66.7 years) a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study; HERS) treatment with CE/MPA (0.625 mg/2.5 mg per day) demonstrated no cardiovascular benefit.
@@ -69,10 +69,10 @@ In the WHI trial and from observational studies, the excess risk increased with 
 From observational studies, the risk appeared to return to baseline in about five years after stopping treatment.
 In addition, observational studies suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen/progestin combination therapy as compared to estrogen-alone therapy.
 
-In the CE/MPA substudy, 26% of the women reported prior use of estrogen-alone and/or estrogen/progestin combination hormone therapy.
-After a mean follow-up of 5.6 years during the clinical trial, the overall relative risk of invasive breast cancer was 1.24 (95% confidence interval 1.01 - 1.54), and the overall absolute risk was 41 vs 33 cases per 10,000 women-years for CE/MPA compared with placebo.
-Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 vs 25 cases per 10,000 women-years for CE/MPA compared with placebo.
-Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 vs 36 cases per 10,000 women-years for CE/MPA compared with placebo.
+In the CE/MPA substudy, 26 percent of the women reported prior use of estrogen-alone and/or estrogen/progestin combination hormone therapy.
+After a mean follow-up of 5.6 years during the clinical trial, the overall relative risk of invasive breast cancer was 1.24 (95 percent confidence interval 1.01 to 1.54), and the overall absolute risk was 41 versus 33 cases per 10,000 women-years for CE/MPA compared with placebo.
+Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years for CE/MPA compared with placebo.
+Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years for CE/MPA compared with placebo.
 In the same substudy, invasive breast cancers were larger and diagnosed at a more advanced stage in the CE/MPA group compared with the placebo group.
 Metastatic disease was rare with no apparent difference between the two groups.
 Other prognostic factors such as histologic subtype, grade and hormone receptor status did not differ between the groups.
@@ -83,9 +83,9 @@ In addition, mammography examinations should be scheduled based on patient age, 
 
 ## 3. Dementia
 
-In the Women’s Health Initiative Memory Study (WHIMS), 4,532 generally healthy postmenopausal women 65 years of age and older were studied, of whom 35% were 70 to 74 years of age and 18% were 75 or older.
-After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n = 2,229) and 21 women in the placebo group (0.9%, n = 2,303) received diagnoses of probable dementia.
-The relative risk for CE/MPA versus placebo was 2.05 (95% confidence interval 1.21 – 3.48), and was similar for women with and without histories of menopausal hormone use before WHIMS.
+In the Women’s Health Initiative Memory Study (WHIMS), 4,532 generally healthy postmenopausal women 65 years of age and older were studied, of whom 35 percent were 70 to 74 years of age and 18 percent were 75 or older.
+After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8 percent, n = 2,229) and 21 women in the placebo group (0.9 percent, n = 2,303) received diagnoses of probable dementia.
+The relative risk for CE/MPA versus placebo was 2.05 (95 percent confidence interval 1.21 to 3.48), and was similar for women with and without histories of menopausal hormone use before WHIMS.
 The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 22 cases per 10,000 women-years, and the absolute excess risk for CE/MPA was 23 cases per 10,000 women-years.
 It is unknown whether these findings apply to younger postmenopausal women (see CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use).
 
@@ -151,7 +151,7 @@ Estrogens should be used with caution in individuals with severe hypocalcemia.
 ### 8. Ovarian cancer
 
 The CE/MPA substudy of WHI reported that estrogen-plus-progestin increased the risk of ovarian cancer.
-After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95% confidence interval 0.77 – 3.24) but was not statistically significant.
+After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95 percent confidence interval 0.77 to 3.24) but was not statistically significant.
 The absolute risk for CE/MPA versus placebo was 4.2 versus 2.7 cases per 10,000 women-years.
 In some epidemiologic studies, the use of estrogen alone, in particular for ten or more years, has been associated with an increased risk of ovarian cancer.
 Other epidemiologic studies have not found these associations.
@@ -172,7 +172,7 @@ Physicians are advised to discuss the PATIENT INFORMATION leaflet with patients 
 
 ## C. LABORATORY TESTS
 
-Estrogen administration should be initiated at the lowest dose approved for the indication and then guided by clinical response rather than by serum hormone levels (e.g., estradiol, FSH).
+Estrogen administration should be initiated at the lowest dose approved for the indication and then guided by clinical response rather than by serum hormone levels (for example, estradiol, FSH).
 
 ## D. DRUG/LABORATORY TEST INTERACTIONS
 
@@ -218,10 +218,10 @@ Therefore, estrogens should only be administered to pediatric patients when clea
 
 ## I. GERIATRIC USE
 
-In the Women’s Health Initiative Memory Study, including 4,532 women 65 years of age and older, followed for an average of 4 years, 82% (n = 3,729) were 65 to 74 while 18% (n = 803) were 75 and over.
-Most women (80%) had no prior hormone therapy use.
+In the Women’s Health Initiative Memory Study, including 4,532 women 65 years of age and older, followed for an average of 4 years, 82 percent (n = 3,729) were 65 to 74 while 18 percent (n = 803) were 75 and over.
+Most women (80 percent) had no prior hormone therapy use.
 Women treated with conjugated estrogens-plus-medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
 Alzheimer’s disease was the most common classification of probable dementia in both the conjugated estrogens-plus-medroxyprogesterone acetate group and the placebo group.
-Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70 (see WARNINGS, Dementia).
+Ninety percent of the cases of probable dementia occurred in the 54 percent of women that were older than 70 (see WARNINGS, Dementia).
 
 There have not been sufficient numbers of geriatric patients involved in studies utilizing ESTRACE (estradiol vaginal cream, USP, 0.01%) to determine whether those over 65 years of age differ from younger subjects in their response to ESTRACE (estradiol vaginal cream, USP, 0.01%).

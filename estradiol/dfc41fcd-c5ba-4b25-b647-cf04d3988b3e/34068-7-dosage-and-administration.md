@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Use of ESTRACE (estradiol vaginal cream, USP, 0.01%), alone or in combination with a progestin, should be limited to the shortest duration consistent with treatment goals and risks for the individual woman.
-Patients should reevaluate periodically as clinically appropriate (e.g., 3-month to 6-month intervals) to determine if treatment is still necessary (see BOXED WARNINGS and WARNINGS).
+Patients should reevaluate periodically as clinically appropriate (for example, 3-month to 6-month intervals) to determine if treatment is still necessary (see BOXED WARNINGS and WARNINGS).
 For treatment of vulvar and vaginal atrophy associated with the menopause, the lowest dose and regimen that will control symptoms should be chosen and medication should be discontinued as promptly as possible.
 For women who have a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
 

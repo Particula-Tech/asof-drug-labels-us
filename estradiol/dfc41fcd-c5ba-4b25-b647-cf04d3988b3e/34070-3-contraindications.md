@@ -6,7 +6,7 @@ ESTRACE (estradiol vaginal cream, USP, 0.01%) should not be used in women with a
 2. Known, suspected, or history of cancer of the breast.
 3. Known or suspected estrogen-dependent neoplasia.
 4. Active deep vein thrombosis, pulmonary embolism or history of these conditions.
-5. Active or recent (e.g., within the past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction).
+5. Active or recent (for example, within the past year) arterial thromboembolic disease (for example, stroke, myocardial infarction).
 6. Liver dysfunction or disease.
 7. ESTRACE (estradiol vaginal cream, USP, 0.01%) should not be used in patients with known hypersensitivity to its ingredients.
 8. Known or suspected pregnancy.
