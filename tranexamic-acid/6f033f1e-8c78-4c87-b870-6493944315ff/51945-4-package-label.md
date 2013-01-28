@@ -2,15 +2,16 @@ PRINCIPAL DISPLAY PANEL - 1000 mg/10 mL
 
 NDC 67457-197-10
 
-For Intravenous Use Only
-
 Tranexamic Acid Injection
 
 1000 mg/10 mL (100 mg/mL)
 
-Rx only 10 x 10 mL Single Dose Vials
+For Intravenous Use Only
 
-Sterile, Nonpyrogenic
+Rx only 10 x 10 mL Single-Dose Vials
+
+Sterile.
+Non-pyrogenic.
 
 Discard unused portion.
 
@@ -23,11 +24,11 @@ Store at 20° to 25°C (68° to 77°F).
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Made in Ireland
+Manufactured by: Mylan Institutional Galway, Ireland
 
-MI:197:10C:R1
+MI:197:10C:R2
 
-www.mylan.com
+Mylan.com
 
 PRINCIPAL DISPLAY PANEL - 1000 mg per 10 mL
 
