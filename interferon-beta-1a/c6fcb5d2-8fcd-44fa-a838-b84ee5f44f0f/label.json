@@ -7,6 +7,11 @@
   "package_ndcs": [
     "44087-0022-3",
     "44087-0044-3",
+    "44087-0188-1",
+    "44087-3322-1",
+    "44087-3322-9",
+    "44087-3344-1",
+    "44087-3344-9",
     "44087-8822-1"
   ],
   "products": [
@@ -14,6 +19,16 @@
       "form": "INJECTION, SOLUTION",
       "generic": "interferon beta-1a",
       "name": "REBIF"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "interferon beta-1a",
+      "name": "REBIF REBIDOSE"
+    },
+    {
+      "form": "KIT",
+      "generic": "interferon beta-1a",
+      "name": "REBIF REBIDOSE"
     },
     {
       "form": "KIT",
