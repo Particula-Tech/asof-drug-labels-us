@@ -1,4 +1,4 @@
-# Principal Display Panel
+# PRINCIPAL DISPLAY PANEL
 
 ## Atenolol Tablets USP 25 mg 100s Label Text
 
@@ -16,7 +16,7 @@ Rx only
 
 TEVA
 
-# Principal Display Panel
+# PRINCIPAL DISPLAY PANEL
 
 ## Atenolol Tablets USP 50 mg 100s Label Text
 
@@ -34,7 +34,7 @@ Rx only
 
 TEVA
 
-# Principal Display Panel
+# PRINCIPAL DISPLAY PANEL
 
 ## Atenolol Tablets USP 100 mg 100s Label Text
 

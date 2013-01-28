@@ -53,7 +53,7 @@ On the other hand, atenolol can increase oxygen requirements by increasing left 
 In a multicenter clinical trial (ISIS-1) conducted in 16,027 patients with suspected myocardial infarction, patients presenting within 12 hours (mean = 5 hours) after the onset of pain were randomized to either conventional therapy plus atenolol (n = 8,037), or conventional therapy alone (n = 7,990).
 Patients with a heart rate of < 50 bpm or systolic blood pressure < 100 mm Hg, or with other contraindications to beta blockade were excluded.
 Thirty-eight percent of each group were treated within 4 hours of onset of pain.
-The mean time from onset of pain to entry was 5.0 ± 2.7 hours in both groups.
+The mean time from onset of pain to entry was 5 ± 2.7 hours in both groups.
 Patients in the atenolol group were to receive atenolol I.V. injection 5 to 10 mg given over 5 minutes plus atenolol tablets 50 mg every 12 hours orally on the first study day (the first oral dose administered about 15 minutes after the IV dose) followed by either atenolol tablets 100 mg once daily or atenolol tablets 50 mg twice daily on days 2 to 7.
 The groups were similar in demographic and medical history characteristics and in electrocardiographic evidence of myocardial infarction, bundle branch block, and first degree atrioventricular block at entry.
 

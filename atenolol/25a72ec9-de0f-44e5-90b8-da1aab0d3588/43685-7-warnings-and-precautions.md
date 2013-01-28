@@ -17,7 +17,7 @@ If cardiac failure continues despite adequate treatment, atenolol should be with
 Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta-blockers are administered with verapamil or diltiazem.
 Patients with preexisting conduction abnormalities or left ventricular dysfunction are particularly susceptible (see PRECAUTIONS).
 
-## Bronchospastic Disease
+## Bronchospastic Diseases
 
 PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS.
 Because of its relative beta1 selectivity, however, atenolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
@@ -51,8 +51,8 @@ Administration of atenolol, starting in the second trimester of pregnancy, has b
 No studies have been performed on the use of atenolol in the first trimester and the possibility of fetal injury cannot be excluded.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-Neonates born to mothers who are receiving atenolol at parturition or breast-feeding may be at risk for hypoglycemia and bradycardia.
-Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breast-feeding (see PRECAUTIONS, Nursing Mothers).
+Neonates born to mothers who are receiving atenolol at parturition or breastfeeding may be at risk for hypoglycemia and bradycardia.
+Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breastfeeding (see PRECAUTIONS, Nursing Mothers).
 
 Atenolol has been shown to produce a dose-related increase in embryo/fetal resorptions in rats at doses equal to or greater than 50 mg/kg/day or 25 or more times the maximum recommended human antihypertensive dose.* Although similar effects were not seen in rabbits, the compound was not evaluated in rabbits at doses above 25 mg/kg/day or 12.5 times the maximum recommended human antihypertensive dose.*
 
@@ -117,7 +117,7 @@ Chronic studies employing oral atenolol performed in animals have revealed the o
 
 ### Teratogenic Effects
 
-#### Pregnancy category D
+#### Pregnancy Category D
 
 See WARNINGS, Pregnancy and Fetal Injury.
 
@@ -125,11 +125,11 @@ See WARNINGS, Pregnancy and Fetal Injury.
 
 Atenolol is excreted in human breast milk at a ratio of 1.5 to 6.8 when compared to the concentration in plasma.
 Caution should be exercised when atenolol is administered to a nursing woman.
-Clinically significant bradycardia has been reported in breast-fed infants.
+Clinically significant bradycardia has been reported in breastfed infants.
 Premature infants, or infants with impaired renal function, may be more likely to develop adverse effects.
 
-Neonates born to mothers who are receiving atenolol at parturition or breast-feeding may be at risk for hypoglycemia and bradycardia.
-Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breast-feeding (see WARNINGS, Pregnancy and Fetal Injury).
+Neonates born to mothers who are receiving atenolol at parturition or breastfeeding may be at risk for hypoglycemia and bradycardia.
+Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breastfeeding (see WARNINGS, Pregnancy and Fetal Injury).
 
 ## Pediatric Use
 

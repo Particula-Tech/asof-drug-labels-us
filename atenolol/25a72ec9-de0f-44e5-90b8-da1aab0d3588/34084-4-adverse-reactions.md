@@ -8,7 +8,8 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 
 |  | Volunteered (U.S. Studies) |  | Total - Volunteered and Elicited (Foreign + U.S. Studies) |  |
 | --- | --- | --- | --- | --- |
-| Atenolol (n = 164) % | Placebo (n = 206) % | Atenolol (n = 399) % | Placebo (n = 407) % |  |
+| Atenolol (n = 164) | Placebo (n = 206) | Atenolol (n = 399) | Placebo (n = 407) |  |
+|  | % | % | % | % |
 | CARDIOVASCULAR |  |  |  |  |
 | Bradycardia | 3 | 0 | 3 | 0 |
 | Cold Extremities | 0 | 0.5 | 12 | 5 |
