@@ -5,7 +5,7 @@ No significant metabolism, deiodination, or biotransformation occurs.
 
 The initial concentration and volume of the medium, in conjunction with appropriate patient manipulation and the volume of CSF into which the medium is placed, will determine the extent of the diagnostic contrast that can be achieved.
 
-Following intrathecal injection in conventional radiography, OMNIPAQUE 240, and OMNIPAQUE 300 will continue to provide good diagnostic contrast for at least 30 minutes.
+Following intrathecal injection in conventional radiography, OMNIPAQUE 300 will continue to provide good diagnostic contrast for at least 30 minutes.
 Slow diffusion of iohexol takes place throughout the CSF with subsequent absorption into the bloodstream.
 Once in the systemic circulation, iohexol displays little tendency to bind to serum or plasma proteins.
 At approximately 1 hour following injection, contrast of diagnostic quality will no longer be available for conventional myelography.

@@ -9,21 +9,31 @@ Headache is often accompanied by nausea and vomiting and tends to be more freque
 Transient alterations in vital signs may occur and their significance must be assessed on an individual basis.
 Those reactions reported in clinical studies with OMNIPAQUE are listed below in decreasing order of occurrence, based on clinical studies of 1531 patients.
 
-Headaches: The most frequently occurring adverse reaction following myelography has been headache, with an incidence of approximately 18%.
+## Headaches
+
+The most frequently occurring adverse reaction following myelography has been headache, with an incidence of approximately 18%.
 Headache may be caused by either a direct effect of the contrast medium or by CSF leakage at the dural puncture site.
 However, in managing the patient, it is considered more important to minimize intracranial entry of contrast medium by postural management than attempting to control possible CSF leakage (see PATIENT MANAGEMENT).
 
-Pain: Mild to moderate pain including backache, neckache and stiffness, and neuralgia occurred following injection with an incidence of about 8%.
+## Pain
 
-Nausea and Vomiting: Nausea was reported with an incidence of about 6%, and vomiting about 3% (see PATIENT MANAGEMENT).
+Mild to moderate pain including backache, neckache and stiffness, and neuralgia occurred following injection with an incidence of about 8%.
+
+## Nausea and Vomiting
+
+Nausea was reported with an incidence of about 6%, and vomiting about 3% (see PATIENT MANAGEMENT).
 Maintaining normal hydration is very important.
 The use of phenothiazine antinauseants is not recommended.
 (See WARNINGS—General.)
 Reassurance to the patient that the nausea will clear usually is all that is required.
 
-Dizziness: Transient dizziness was reported in about 2% of the patients.
+## Dizziness
 
-Other Reactions: Other reactions occurring with an individual incidence of less than 0.1% included: feeling of heaviness, hypotension, hypertonia, sensation of heat, sweating, vertigo, loss of appetite, drowsiness, hypertension, photophobia, tinnitus, neuralgia, paresthesia, difficulty in micturition, and neurological changes.
+Transient dizziness was reported in about 2% of the patients.
+
+## Other Reactions
+
+Other reactions occurring with an individual incidence of less than 0.1% included: feeling of heaviness, hypotension, hypertonia, sensation of heat, sweating, vertigo, loss of appetite, drowsiness, hypertension, photophobia, tinnitus, neuralgia, paresthesia, difficulty in micturition, and neurological changes.
 All were transient and mild with no clinical sequelae.
 
 ## General Adverse Reactions to Contrast Media
@@ -52,7 +62,6 @@ In one case, persistent cortical loss of vision has been reported in association
 Ventricular block has been reported; amnesia of varying degrees may be present for the reaction event.
 
 Rarely, persistent though transitory weakness in the leg or ocular muscles has been reported.
-
 Peripheral neuropathies have been rare and transitory.
 They include sensory and/or motor or nerve root disturbances, myelitis, persistent leg muscle pain or weakness, 6th nerve palsy, or cauda equina syndrome.
 Muscle cramps, fasciculation or myoclonia, spinal convulsion, or spasticity is unusual and has responded promptly to a small intravenous dose of diazepam.
@@ -80,7 +89,7 @@ Most adverse reactions to injectable contrast media appear within 1 to 3 minutes
 
 # ADVERSE REACTIONS: Intravascular—General
 
-Adverse reactions following the use of OMNIPAQUE 240, OMNIPAQUE 300, and OMNIPAQUE 350 are usually of mild to moderate severity.
+Adverse reactions following the use of OMNIPAQUE 300 and OMNIPAQUE 350 are usually of mild to moderate severity.
 However, serious, life-threatening and fatal reactions, mostly of cardiovascular origin, have been associated with the administration of iodine-containing contrast media, including OMNIPAQUE.
 The injection of contrast media is frequently associated with the sensation of warmth and pain, especially in peripheral angiography; pain and warmth are less frequent and less severe with OMNIPAQUE than with many contrast media.
 
@@ -103,7 +112,7 @@ Individual adverse reactions which occurred to a significantly greater extent fo
 
 ## Pediatrics
 
-In controlled clinical trials involving 391 patients for pediatric angiocardiography, urography, and contrast enhanced computed tomographic head imaging, adverse reactions following the use of OMNIPAQUE 240, OMNIPAQUE 300, and OMNIPAQUE 350 were generally less frequent than with adults.
+In controlled clinical trials involving 391 patients for pediatric angiocardiography, urography, and contrast enhanced computed tomographic head imaging, adverse reactions following the use of OMNIPAQUE 300 and OMNIPAQUE 350 were generally less frequent than with adults.
 
 Cardiovascular System: Ventricular tachycardia (0.5%), 2:1 heart block (0.5%), hypertension (0.3%), and anemia (0.3%).
 
@@ -129,6 +138,7 @@ Rare fatalities have occurred, due to this or unknown causes.
 Signs and symptoms related to the respiratory system: pulmonary or laryngeal edema, bronchospasm, dyspnea; or to the nervous system: restlessness, tremors, convulsions.
 Other reactions: flushing, pain, warmth, metallic taste, nausea, vomiting, anxiety, headache, confusion, pallor, weakness, sweating, localized areas of edema, especially facial cramps, neutropenia, and dizziness.
 Rarely, immediate or delayed rigors can occur, sometimes accompanied by hyperpyrexia.
+
 Infrequently, "iodism" (salivary gland swelling) from organic iodinated compounds appears two days after exposure and subsides by the sixth day.
 
 In general, the reactions which are known to occur upon parenteral administration of iodinated contrast agents are possible with any nonionic agent.
@@ -164,35 +174,17 @@ Electrocardiographic and hemodynamic abnormalities occur less frequently with OM
 
 ## Body Cavities
 
-In controlled clinical trials involving 285 adult patients for various body cavity examinations using OMNIPAQUE 240, 300, and 350, the following adverse reactions were reported.
+In controlled clinical trials involving 285 adult patients for various body cavity examinations using OMNIPAQUE 300 and 350, the following adverse reactions were reported.
 
-Cardiovascular System
+Cardiovascular System Incidence > 1%: None Incidence ≤ 1%: Hypertension
 
-Incidence > 1%: None
+Nervous System Incidence > 1%: Pain (26%) Incidence ≤ 1%: Headache, somnolence, fever, muscle weakness, burning, unwell feeling, tremors, lightheadedness, syncope
 
-Incidence ≤ 1%: Hypertension
+Respiratory System None
 
-Nervous System
+Gastrointestinal System Incidence > 1%: None Incidence ≤ 1%: Flatulence, diarrhea, nausea, vomiting, abdominal pressure
 
-Incidence > 1%: Pain (26%)
-
-Incidence ≤ 1%: Headache, somnolence, fever, muscle weakness, burning, unwell feeling, tremors, lightheadedness, syncope
-
-Respiratory System
-
-None
-
-Gastrointestinal System
-
-Incidence > 1%: None
-
-Incidence ≤ 1%: Flatulence, diarrhea, nausea, vomiting, abdominal pressure
-
-Skin and Appendages
-
-Incidence > 1%: Swelling (22%), heat (7%)
-
-Incidence ≤ 1%: Hematoma at injection site
+Skin and Appendages Incidence > 1%: Swelling (22%), heat (7%) Incidence ≤ 1%: Hematoma at injection site
 
 The most frequent reactions, pain and swelling, were almost exclusively reported after arthrography and were generally related to the procedure rather than the contrast medium.
 Gastrointestinal reactions were almost exclusively reported after oral pass-thru examinations.

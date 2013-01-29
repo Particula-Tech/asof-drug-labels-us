@@ -5,7 +5,7 @@
 Serious adverse reactions have been reported due to the inadvertent intrathecal administration of iodinated contrast media that are not indicated for intrathecal use.
 These serious adverse reactions include: death, convulsions, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, seizures, rhabdomyolysis, hyperthermia, and brain edema.
 Special attention must be given to insure that OMNIPAQUE 350 is not administered intrathecally.
-(OMNIPAQUE 240 and OMNIPAQUE 300 are approved for intrathecal administration).
+(OMNIPAQUE 300 is approved for intrathecal administration).
 
 If grossly bloody CSF is encountered, the possible benefits of a myelographic procedure should be considered in terms of the risk to the patient.
 
@@ -77,7 +77,9 @@ If nondisposable equipment is used, scrupulous care should be taken to prevent r
 Parenteral products should be inspected visually for particulate matter and discoloration prior to administration.
 If particulate matter or discoloration is present, do not use.
 
-Repeat Procedures: If in the clinical judgment of the physician sequential or repeat examinations are required, a suitable interval of time between administrations should be observed to allow for normal clearance of the drug from the body (see DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY).
+## Repeat Procedures
+
+If in the clinical judgment of the physician sequential or repeat examinations are required, a suitable interval of time between administrations should be observed to allow for normal clearance of the drug from the body (see DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY).
 
 ## Information for Patients (or if applicable, children)
 
@@ -86,7 +88,7 @@ Patients receiving injectable radiopaque diagnostic agents should be instructed 
 1. Inform your physician if you are pregnant (see CLINICAL PHARMACOLOGY).
 2. Inform your physician if you are diabetic or if you have multiple myeloma, pheochromocytoma, homozygous sickle cell disease or known thyroid disorder (see WARNINGS).
 3. Inform your physician if you are allergic to any drugs, food, or if you had any reactions to previous injections of dyes used for x-ray procedures (see PRECAUTIONS—General).
-4. Inform your physician about any other medications you are currently taking, including nonprescription drugs, before you are administered this drug.
+4. Inform your physician about any other medications you are currently taking, including non-prescription drugs, before you are administered this drug.
 
 ## Drug Interactions
 
@@ -103,7 +105,9 @@ OMNIPAQUE did not impair the fertility of male or female rats when administered 
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category B
+### Teratogenic Effects
+
+#### Pregnancy Category B
 
 Reproduction studies performed in rats and rabbits at dosages up to 4.0 gI/kg and 2.5 gI/kg, respectively [2.3 and 1.4 times the maximum recommended dose for a 50 kg human, or approximately 0.4 (rat) and 0.5 (rabbit) times the maximum recommended dose for a 50 kg human following normalization of the data to body surface area estimates] have not revealed evidence of impaired fertility or harm to the fetus due to OMNIPAQUE.
 Adequate and well-controlled studies in pregnant women have not been conducted.
@@ -147,7 +151,6 @@ Ionic contrast media, when injected intravenously or intra-arterially, may promo
 Administration of radiopaque materials to patients known or suspected of having pheochromocytoma should be performed with extreme caution.
 If, in the opinion of the physician, the possible benefits of such procedures outweigh the considered risks, the procedures may be performed; however, the amount of radiopaque medium injected should be kept to an absolute minimum.
 The patient's blood pressure should be assessed throughout the procedure and measures for the treatment of hypertensive crisis should be readily available.
-
 Reports of thyroid storm following the use of iodinated, ionic radiopaque contrast media in patients with hyperthyroidism or with an autonomously functioning thyroid nodule suggest that this additional risk be evaluated in such patients before use of any contrast medium.
 
 Urography should be performed with caution in patients with severely impaired renal function and patients with combined renal and hepatic disease.
@@ -224,7 +227,9 @@ OMNIPAQUE did not impair the fertility of male or female rats when administered 
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category B
+### Teratogenic Effects
+
+#### Pregnancy Category B
 
 Reproduction studies performed in rats and rabbits at dosages up to 4.0 gI/kg and 2.5 gI/kg, respectively [2.3 and 1.4 times the maximum recommended dose for a 50 kg human, or approximately 0.4 (rat) and 0.5 (rabbit) times the maximum recommended dose for a 50 kg human following normalization of the data to body surface area estimates] have not revealed evidence of impaired fertility or harm to the fetus due to OMNIPAQUE.
 Adequate and well-controlled studies in pregnant women have not been conducted.
