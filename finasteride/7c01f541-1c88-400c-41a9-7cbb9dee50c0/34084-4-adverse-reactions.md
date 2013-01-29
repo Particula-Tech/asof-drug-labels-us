@@ -102,17 +102,22 @@ New reports of drug-related sexual adverse experiences decreased with duration o
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse effects have been reported in post-marketing experience with PROSCAR and/or finasteride at lower doses.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+The following additional adverse events have been reported in postmarketing experience with PROSCAR.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
 - -hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face
 - -testicular pain
-- -erectile dysfunction (ED) that continued after discontinuation of treatment, reported rarely in men taking PROSCAR for the treatment of BPH.
-  Most men were older and were taking concomitant medications and/or had co-morbid conditions with a known association to ED.
+- -sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, decreased libido and ejaculation disorders (e.g. reduced ejaculate volume).
+  These events were reported rarely in men taking PROSCAR for the treatment of BPH.
+  Most men were older and were taking concomitant medications and/or had co-morbid conditions.
   The independent role of PROSCAR in these events is unknown.
-- -male infertility and/or poor seminal quality have been reported rarely in men taking PROSCAR for the treatment of BPH.
+- -male infertility and/or poor seminal quality were reported rarely in men taking PROSCAR for the treatment of BPH.
+  Normalization or improvement of poor seminal quality has been reported after discontinuation of finasteride.
   The independent role of PROSCAR in these events is unknown.
-  Normalization or improvement of seminal quality has been reported after discontinuation of finasteride.
 - -depression
-- -decreased libido that continued after discontinuation of treatment
 - -male breast cancer.
+
+The following additional adverse event related to sexual dysfunction that continued after discontinuation of treatment has been reported in postmarketing experience with finasteride at lower doses used to treat male pattern baldness.
+Because the event is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate its frequency or establish a causal relationship to drug exposure:
+
+- -orgasm disorders
