@@ -2,18 +2,19 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling.
 
-- PR Interval Prolongation, QT Interval Prolongation [see Warnings and Precautions (5.6, 5.7)]
+- QT Interval Prolongation, PR Interval Prolongation [see Warnings and Precautions (5.5, 5.6)]
 - Drug Interactions [see Warnings and Precautions (5.1)]
 - Pancreatitis [see Warnings and Precautions (5.3)]
 - Hepatotoxicity [see Warnings and Precautions (5.4)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-## 6.1 Adults - Clinical Trials Experience
+## 6.1 Adult Clinical Trial Experience
 
 The safety profile of KALETRA in adults is primarily based on 1,964 HIV-1 infected patients in clinical trials.
 
 The most common adverse reaction was diarrhea, which was generally of mild to moderate severity.
+
 In study 730, the incidence of diarrhea of any severity during 48 weeks of therapy was 60% in patients receiving KALETRA tablets once daily compared to 57% in patients receiving KALETRA tablets twice daily.
 More patients receiving KALETRA tablets once daily (14, 4.2%) had ongoing diarrhea at the time of discontinuation as compared to patients receiving KALETRA tablets twice daily (6, 1.8%).
 In study 730, discontinuations due to any adverse reaction were 4.8% in patients receiving KALETRA tablets once daily as compared to 3% in patients receiving KALETRA tablets twice daily.
@@ -239,7 +240,7 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibito
 | Hemoglobin | <80 g/L | 1% | 1% | 1% | 1% | 2% |
 | 1 ULN = upper limit of the normal range; N/A = Not Applicable. 2 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz. 3 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine. 4 Criterion for Study 802 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
 
-## 6.2 Pediatric Patients - Clinical Trials Experience
+## 6.2 Pediatric Clinical Trial Experience
 
 KALETRA oral solution dosed up to 300/75 mg/m2 has been studied in 100 pediatric patients 6 months to 12 years of age.
 The adverse reaction profile seen during Study 940 was similar to that for adult patients.
@@ -288,9 +289,9 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% Pediatric Patients in Stud
 The following adverse reactions have been reported during postmarketing use of KALETRA.
 Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to KALETRA exposure.
 
-Body as a Whole Redistribution/accumulation of body fat has been reported [see Warnings and Precautions (5.9)].
+Body as a Whole Redistribution/accumulation of body fat has been reported [see Warnings and Precautions (5.10)].
 
 Cardiovascular Bradyarrhythmias.
-First-degree AV block, second-degree AV block, third-degree AV block, QTc interval prolongation, torsades (torsade) de pointes [see Warnings and Precautions (5.6, 5.7)].
+First-degree AV block, second-degree AV block, third-degree AV block, QTc interval prolongation, torsades (torsade) de pointes [see Warnings and Precautions (5.5, 5.6)].
 
 Skin and Appendages Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome and erythema multiforme.

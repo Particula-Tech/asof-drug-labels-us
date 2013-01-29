@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Patients without Prior Antiretroviral Therapy
+## 14.1 Adult Patients without Prior Antiretroviral Therapy
 
 Study 863: KALETRA Capsules twice daily + stavudine + lamivudine compared to nelfinavir three times daily + stavudine + lamivudine
 
@@ -66,7 +66,7 @@ Outcomes of Randomized Treatment Through Week 48 (Study 730)
 Through 48 weeks of therapy, 78% in the KALETRA once daily arm and 77% in the KALETRA twice daily arm achieved and maintained HIV-1 RNA < 50 copies/mL (95% confidence interval for the difference, -5.9% to 6.8%).
 Mean CD4+ cell count increases at Week 48 were 186 cells/mm3 for the KALETRA once daily arm and 198 cells/mm3 for the KALETRA twice daily arm.
 
-## 14.2 Patients with Prior Antiretroviral Therapy
+## 14.2 Adult Patients with Prior Antiretroviral Therapy
 
 Study 888: KALETRA Capsules twice daily + nevirapine + NRTIs compared to investigator-selected protease inhibitor(s) + nevirapine + NRTIs
 
@@ -118,7 +118,7 @@ Outcomes of Randomized Treatment Through Week 48 (Study 802)
 
 Through 48 weeks of treatment, the mean change from baseline for CD4 + cell count was 135 cells/mm3 for the once daily group and 122 cells/mm3 for the twice daily group.
 
-## 14.3 Other Studies Supporting Approval
+## 14.3 Other Studies Supporting Approval in Adult Patients
 
 Study 720: KALETRA twice daily + stavudine + lamivudine Study 765: KALETRA twice daily + nevirapine + NRTIs
 

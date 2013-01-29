@@ -24,6 +24,8 @@ KALETRA must always be used in combination with other antiretroviral drugs.
 Patients should not alter the dose or discontinue therapy without consulting with their doctor.
 If a dose of KALETRA is missed patients should take the dose as soon as possible and then return to their normal schedule.
 However, if a dose is skipped the patient should not double the next dose.
+The amount of HIV-1 virus in their blood may increase if the medicine is stopped for even a short time.
+The virus may become resistant to KALETRA and become harder to treat.
 
  KALETRA is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 Patients should remain under the care of a physician when using KALETRA.
@@ -45,7 +47,9 @@ Drug Interactions
  KALETRA tablets can be taken at the same time as didanosine without food.
 Patients taking didanosine should take didanosine one hour before or two hours after KALETRA oral solution.
 
- If they are receiving sildenafil, tadalafil, or vardenafil, there may be an increased risk of associated adverse reactions including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.
+ If they are receiving avanafil, sildenafil, tadalafil, or vardenafil for the treatment of erectile dysfunction, there may be an increased risk of associated adverse reactions including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.
+If they are currently using or planning to use avanafil or tadalafil (for the treatment of pulmonary arterial hypertension) they should ask their doctor about potential adverse reactions these medications may cause when taken with KALETRA.
+The doctor may choose not to keep them on avanafil, or may adjust the dose of tadalafil while initiating treatment with KALETRA.
 
  If they are receiving estrogen-based hormonal contraceptives, additional or alternate contraceptive measures should be used during therapy with KALETRA.
 

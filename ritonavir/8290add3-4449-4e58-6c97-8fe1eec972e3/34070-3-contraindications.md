@@ -13,7 +13,7 @@ Drugs That are Contraindicated with KALETRA
 | --- | --- | --- |
 | Alpha 1- Adrenoreceptor Antagonist | Alfuzosin | Potentially increased alfuzosin concentrations can result in hypotension. |
 | Antimycobacterial | Rifampin | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents [see Drug Interactions (7)]. |
-| Ergot Derivatives | Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
+| Ergot Derivatives | Dihydroergotamine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI Motility Agent | Cisapride | Potential for cardiac arrhythmias. |
 | Herbal Products | St. John's Wort (hypericum perforatum) | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors. |
 | HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for myopathy including rhabdomyolysis. |

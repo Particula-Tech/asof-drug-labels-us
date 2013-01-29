@@ -47,7 +47,7 @@ The clinical trial was an open-label, multicenter trial evaluating the pharmacok
 Dose selection for patients 6 months to 12 years of age was based on the following results.
 The 230/57.5 mg/m2 oral solution twice daily regimen without nevirapine and the 300/75 mg/m2 oral solution twice daily regimen with nevirapine provided lopinavir plasma concentrations similar to those obtained in adult patients receiving the 400/100 mg twice daily regimen (without nevirapine) [see Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
-A prospective multicenter, open-label trial evaluated the pharmacokinetic profile, tolerability, safety and efficacy of high-dose KALETRA with or without concurrent NNRTI therapy (Group 1: 400/100 mg/m2 twice daily + ≥ 2 NRTIs; Group 2: 480/120 mg/m2 twice daily + ≥ 1 NRTI + 1 NNRTI) in children and adolescents ≥ 2 years to < 18 years of age who had failed prior therapy.
+A prospective multicenter, open-label trial evaluated the pharmacokinetic profile, tolerability, safety and efficacy of high-dose KALETRA with or without concurrent NNRTI therapy (Group 1: 400/100 mg/m2 twice daily + ≥ 2 NRTIs; Group 2: 480/120 mg/m2 twice daily + ≥ 1 NRTI + 1 NNRTI) in 26 children and adolescents ≥ 2 years to < 18 years of age who had failed prior therapy.
 Patients also had saquinavir mesylate added to their regimen.
 This strategy was intended to assess whether higher than approved doses of KALETRA could overcome protease inhibitor cross-resistance.
 High doses of KALETRA exhibited a safety profile similar to those observed in previous trials; changes in HIV-1 RNA were less than anticipated; three patients had HIV-1 RNA <400 copies/mL at Week 48.
