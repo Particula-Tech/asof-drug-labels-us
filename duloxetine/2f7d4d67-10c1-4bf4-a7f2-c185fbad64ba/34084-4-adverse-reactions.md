@@ -68,7 +68,7 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More and Great
 | a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
 | b Also includes asthenia. |  |  |
 | c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| d Also includes initial insomnia, middle insomnia and early morning awakening. |  |  |
+| d Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
 | e Also includes hypersomnia and sedation. |  |  |
 | f Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
 
@@ -225,7 +225,7 @@ In one long-term CLBP 54-week study (13-week, placebo-controlled acute phase and
 
 ## 6.9 Laboratory Changes
 
-Cymbalta treatment in placebo-controlled clinical trials across approved indications was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in Cymbalta-treated patients when compared with placebo-treated patients [see Warnings and Precautions (5.2)].
+Cymbalta treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in Cymbalta-treated patients when compared with placebo-treated patients [see Warnings and Precautions (5.2)].
 High bicarbonate and cholesterol and abnormal (high or low) potassium were observed more frequently in duloxetine treated patients compared to placebo.
 
 ## 6.10 Electrocardiogram Changes
