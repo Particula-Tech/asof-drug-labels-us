@@ -6,7 +6,7 @@ Controlled clinical trials have provided frequency information for reported adve
 Not all of the following adverse reactions have been reported with dicyclomine hydrochloride.
 Adverse reactions are included here that have been reported for pharmacologically similar drugs with anticholinergic/antispasmodic action.
 
-Gastrointestinal: dry mouth, nausea, vomiting, constipation. bloated feeling, abdominal pain, taste loss, anorexia.
+Gastrointestinal: dry mouth, nausea, vomiting, constipation, bloated feeling, abdominal pain, taste loss, anorexia.
 
 Central Nervous System: dizziness, lightheadedness, tingling, headache, drowsiness, weakness, nervousness, numbness, mental confusion and/or excitement (especially in elderly persons), dyskinesia, lethargy, syncope, speech disturbance, insomnia.
 

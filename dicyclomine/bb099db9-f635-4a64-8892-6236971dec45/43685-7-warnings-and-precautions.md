@@ -18,7 +18,7 @@ There are reports that administration of dicyclomine hydrochloride oral soution 
 Death has been reported.
 No causal relationship between these effects observed in infants and dicyclomine administration has been established.
 DICYCLOMINE HYDROCHLORIDE ORAL SOLUTION IS CONTRAINDICATED IN INFANTS LESS THAN 6 MONTHS OF AGE AND IN NURSING MOTHERS.
-(See CONTRAINDICATIONS and PRECAUTIONS: Nursing Mothers and Pediatric Use).
+(see CONTRAINDICATIONS and PRECAUTIONS: Nursing MothersNursing Mothers and Pediatric UsePediatric Use).
 
 Safety and efficacy of dicyclomine hydrochloride in pediatric patients have not been established.
 
@@ -63,7 +63,7 @@ Anticholinergic drugs in the presence of increased intraocular pressure may be h
 (See also CONTRAINDICATIONS.)
 
 Anticholinergic agents may affect gastrointestinal absorption of various drugs, such as slowly dissolving dosage forms of digoxin; increased serum digoxin concentrations may result.
-Anticholinergic drugs may antagonize the effects of the drugs that alter gastrointestinal motility, such as metoclopramide.
+Anticholinergic drugs may antagonize the effects of drugs that alter gastrointestinal motility, such as metoclopramide.
 Because antacids may interfere with the absorption of anticholinergic agents, simultaneous use of these drugs should be avoided.
 
 The inhibiting effects of anticholinergic drugs on gastric hydrochloric acid secretion are antagonized by agents used to treat achlorhydria and those used to test gastric secretion.
@@ -78,13 +78,13 @@ In studies in rats at doses of up to 100 mg/kg/day, dicyclomine hydrochloride pr
 
 ## Pregnancy
 
-## Teratogenic Effects
+### Teratogenic Effects
 
-### Pregnancy Category B
+#### Pregnancy Category B
 
 Reproduction studies have been performed in rats and rabbits at doses up to 33 times the maximum recommended human dose based on 160 mg/day (3 mg/kg) and have revealed no evidence of impaired fertility or harm to the fetus due to dicyclomine.
 Epidemiologic studies in pregnant women with products containing dicyclomine hydrochloride (at doses up to 40 mg/day) have not shown that dicyclomine increases the risk of fetal abnormalities if administered during the first trimester of pregnancy.
-There are, however, no adequate and well-controlled studies in pregnant women at the recommended doses (80-l60 mg/day).
+There are, however, no adequate and well-controlled studies in pregnant women at the recommended doses (80 to 160 mg/day).
 Because animal reproduction studies are not always predictive of human response, dicyclomine hydrochloride as indicated for functional bowel/irritable bowel syndrome should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers

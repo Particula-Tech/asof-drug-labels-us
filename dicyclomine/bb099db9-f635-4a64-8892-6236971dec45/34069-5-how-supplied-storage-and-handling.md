@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Dicyclomine Hydrochloride Oral Solution USP is supplied as a pink, clear, berry-flavored syrup in bottles of 473 mL (16 fl oz).
+Dicyclomine hydrochloride oral solution is supplied as a pinkish orange, tropical fruit punch-flavored syrup in bottles of 473 mL (16 fl oz).
 
 ## STORAGE
 

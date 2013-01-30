@@ -1,12 +1,12 @@
 # CLINICAL PHARMACOLOGY
 
 Dicyclomine relieves smooth muscle spasm of the gastrointestinal tract.
-Animal studies indicate that this action is achieved via a dual mechanism: (1) a specific anticholinergic effect (antimuscarinic) at the acetylcholine-receptor sites with approximately 1/8 the milligram potency of atropine (in vitro, guinea pig ileum): and (2) a direct effect upon smooth muscle (musculotropic) as evidenced by dicyclomine’s antagonism of bradykinin-and histamine-induced spasms of the isolated guinea pig ileum.
+Animal studies indicate that this action is achieved via a dual mechanism: (1) a specific anticholinergic effect (antimuscarinic) at the acetylcholine-receptor sites with approximately 1/8 the milligram potency of atropine (in vitro, guinea pig ileum); and (2) a direct effect upon smooth muscle (musculotropic) as evidenced by dicyclomine’s antagonism of bradykinin- and histamine-induced spasms of the isolated guinea pig ileum.
 Atropine did not affect responses to these two agonists.
 In vivo studies in cats and dogs showed dicyclomine to be equally potent against acetylcholine (ACh)- or barium chloride (BaCl2)-induced intestinal spasm while atropine was at least 200 times more potent against effects of ACh than BaCl2.
 Tests for mydriatic effects in mice showed that dicyclomine was approximately 1/500 as potent as atropine; antisialagogue tests in rabbits showed dicyclomine to be 1/300 as potent as atropine.
 
-In man, dicyclomine is rapidly absorbed after oral administration, reaching peak values within 60-90 minutes.
+In man, dicyclomine is rapidly absorbed after oral administration, reaching peak values within 60 to 90 minutes.
 The principal route of elimination is via the urine (79.5% of the dose).
 Excretion also occurs in the feces, but to a lesser extent (8.4%).
 Mean half-life of plasma elimination in one study was determined to be approximately 1.8 hours when plasma concentrations were measured for 9 hours after a single dose.
