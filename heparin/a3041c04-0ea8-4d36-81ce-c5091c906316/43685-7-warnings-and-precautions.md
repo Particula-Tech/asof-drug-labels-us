@@ -29,7 +29,7 @@ Other - Menstruation, liver disease with impaired hemostasis.
 ## Coagulation Testing
 
 When heparin sodium is administered in therapeutic amounts, its dosage should be regulated by frequent blood coagulation tests.
-If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sodium should be discontinued promptly (see OVERDOSAGE).
+If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sodium should be discontinued promptly (See OVERDOSAGE).
 
 ## Thrombocytopenia
 
@@ -37,14 +37,14 @@ Thrombocytopenia has been reported to occur in patients receiving heparin with a
 Platelet counts should be obtained at baseline and periodically during heparin administration.
 Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin-induced Thrombocytopenia (HIT) With or Without Thrombosis), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops (See Heparin-induced Thrombocytopenia (HIT) With or Without Thrombosis), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
 
 ## Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis)
 
 HIT is a serious immune-mediated reaction resulting from irreversible aggregation of platelets.
 HIT may progress to the development of venous and arterial thromboses, a condition referred to as HIT with thrombosis.
 Thrombotic events may also be the initial presentation for HIT.
-These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and fatal outcomes.
+These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, thrombus formation on a prosthetic cardiac valve, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and fatal outcomes.
 
 Once HIT (with or without thrombosis) is diagnosed or strongly suspected, all heparin sodium sources (including heparin flushes) should be discontinued and an alternative anticoagulant used.
 Future use of heparin sodium, especially within 3 to 6 months following the diagnosis of HIT (with or without thrombosis), and while patients test positive for HIT antibodies, should be avoided.
@@ -72,7 +72,7 @@ In patients with diminished renal function, administration of solutions containi
 
 Excessive administration of potassium-free solutions may result in significant hypokalemia.
 
-Because dosages of this drug are titrated to response (see DOSAGE AND ADMINISTRATION), no additives should be made to Heparin Sodium in 0.9% Sodium Chloride Injection.
+Because dosages of this drug are titrated to response (See DOSAGE AND ADMINISTRATION), no additives should be made to Heparin Sodium in 0.9% Sodium Chloride Injection.
 
 # PRECAUTIONS
 
@@ -100,7 +100,7 @@ Use only if solution is clear and container and seals are intact.
 
 ## Laboratory Tests
 
-Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see DOSAGE AND ADMINISTRATION).
+Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (See DOSAGE AND ADMINISTRATION).
 
 ## Drug Interactions
 
@@ -152,5 +152,5 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-A higher incidence of bleeding has been reported in patients over 60 years of age, especially women (see PRECAUTIONS, General).
-Clinical studies indicate that lower doses of heparin may be indicated in these patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+A higher incidence of bleeding has been reported in patients over 60 years of age, especially women (See PRECAUTIONS, General).
+Clinical studies indicate that lower doses of heparin may be indicated in these patients (See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).

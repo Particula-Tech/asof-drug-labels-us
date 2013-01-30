@@ -2,8 +2,8 @@
 
 ## Hemorrhage
 
-Hemorrhage is the chief complication that may result from heparin therapy (see WARNINGS).
-An overly prolonged clotting time or minor bleeding during therapy can usually be controlled by withdrawing the drug (see OVERDOSAGE).
+Hemorrhage is the chief complication that may result from heparin therapy (See WARNINGS).
+An overly prolonged clotting time or minor bleeding during therapy can usually be controlled by withdrawing the drug (See OVERDOSAGE).
 It should be appreciated that gastrointestinal or urinary tract bleeding during anticoagulant therapy may indicate the presence of an underlying occult lesion.
 Bleeding can occur at any site but certain specific hemorrhagic complications may be difficult to detect:
 
