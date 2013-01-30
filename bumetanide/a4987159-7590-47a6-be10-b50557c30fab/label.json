@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018225"
+  ],
   "inn": "bumetanide",
-  "labeler": "Roche Pharmaceuticals",
+  "labeler": "Genentech, Inc.",
   "package_ndcs": [
     "0004-0121-01",
     "0004-0121-11",
@@ -11,7 +13,13 @@
     "0004-0162-01",
     "0004-0162-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bumetanide",
+      "name": "Bumex"
+    }
+  ],
   "setid": "a4987159-7590-47a6-be10-b50557c30fab",
   "source": "dailymed"
 }

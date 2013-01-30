@@ -53,7 +53,7 @@ Urine flow rate peaked during the first hour after drug administration in 80% of
 
 ## Geriatric Pharmacology
 
-In a group of ten geriatric subjects between the ages of 65 and 73 years, total bumetanide clearance was significantly lower (1.8 ± 0.3 mL/min·kg) compared with younger subjects (2.9 ± 0.2 mL/min·kg) after a single oral bumetanide 0.5 mg dose.
+In a group of ten geriatric subjects between the ages of 65 and 73 years, total bumetanide clearance was significantly lower (1.8 ± 0.3 mL/min∙kg) compared with younger subjects (2.9 ± 0.2 mL/min∙kg) after a single oral bumetanide 0.5 mg dose.
 Maximum plasma concentrations were higher in geriatric subjects (16.9 ± 1.8 ng/mL) compared with younger subjects (10.3 ± 1.5 ng/mL).
 Urine flow rate and total excretion of sodium and potassium were increased less in the geriatric subjects compared with younger subjects, although potassium excretion and fractional sodium excretion were similar between the two age groups.
 Nonrenal clearance, bioavailability, and volume of distribution were not significantly different between the two groups.
