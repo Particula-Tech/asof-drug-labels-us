@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091280"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Sun Pharmaceutical Industries Limited",
+  "package_ndcs": [
+    "62756-529-40"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "desmopressin acetate",
+      "name": "Desmopressin Acetate"
+    }
+  ],
+  "setid": "9fd48eec-aa24-4888-b99f-d409ada958a7",
+  "source": "dailymed"
+}

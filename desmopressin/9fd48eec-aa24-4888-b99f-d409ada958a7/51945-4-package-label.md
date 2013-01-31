@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 62756-529-40 Desmopressin Acetate Injection, USP 40 mcg/10 mL (4 mcg/mL) FOR INTRAVENOUS/SUBCUTANEOUS USE ONLY Refrigerate Rx only One 10 mL Multiple-dose Vial SUN PHARMA
