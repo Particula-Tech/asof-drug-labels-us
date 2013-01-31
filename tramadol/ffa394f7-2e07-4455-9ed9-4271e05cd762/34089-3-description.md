@@ -1,7 +1,7 @@
 # Description
 
-RYZOLT ® (tramadol hydrochloride extended-release tablets) is a centrally acting analgesic composed of a dual-matrix delivery system with both immediate-release and extended-release characteristics.
-The chemical name for tramadol hydrochloride is (±) cis -2-[(dimethylamino) methyl]-1-(3-methoxyphenyl) cyclohexanol hydrochloride.
+RYZOLT® (tramadol hydrochloride extended-release tablets) is a centrally acting analgesic composed of a dual-matrix delivery system with both immediate-release and extended-release characteristics.
+The chemical name for tramadol hydrochloride is (±)cis-2-[(dimethylamino) methyl]-1-(3-methoxyphenyl) cyclohexanol hydrochloride.
 Its structural formula is:
 
 C16H25NO2 ·HCl
