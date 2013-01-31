@@ -51,7 +51,7 @@ The study was not adequately designed to conclusively assess the potential induc
 Repaglinide: In a healthy volunteer study, the concomitant administration of Exjade (30 mg per kg/day for 4 days) and the CYP2C8 probe substrate repaglinide (single dose of 0.5 mg) resulted in an increase in repaglinide systemic exposure (AUC) to 2.3-fold of control and an increase in Cmax of 62% [see Drug Interactions (7.3)].
 
 Theophylline: In a healthy volunteer study, the concomitant administration of Exjade (repeated dose of 30 mg per kg/day) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an approximate doubling of the theophylline AUC and elimination half-life.
-The single dose Cmax was not affected, but an increase in theophylline Cmax is expected to occur with chronic dosing [see Drug Interactions (7.4].
+The single dose Cmax was not affected, but an increase in theophylline Cmax is expected to occur with chronic dosing [see Drug Interactions (7.4)].
 
 Rifampicin: In a healthy volunteer study, the concomitant administration of Exjade (single dose of 30 mg per kg) and the potent UDP-glucuronosyltransferase (UGT) inducer rifampicin (600 mg/day for 9 days) resulted in a decrease of deferasirox systemic exposure (AUC) by 44% [see Drug Interactions (7.5)].
 

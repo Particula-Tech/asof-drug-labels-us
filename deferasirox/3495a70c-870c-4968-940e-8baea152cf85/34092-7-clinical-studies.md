@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+Transfusional Iron Overload
+
 The primary efficacy study, Study 1, was a multicenter, open-label, randomized, active comparator control study to compare Exjade (deferasirox) and deferoxamine in patients with β-thalassemia and transfusional hemosiderosis.
 Patients ≥2 years of age were randomized in a 1:1 ratio to receive either oral Exjade at starting doses of 5, 10, 20 or 30 mg per kg once daily or subcutaneous Desferal (deferoxamine) at starting doses of 20 to 60 mg per kg for at least 5 days per week based on LIC (liver iron concentration) at baseline (2-3, >3-7, >7-14 and >14 mg Fe/g dry weight).
 Patients randomized to deferoxamine who had LIC values <7 mg Fe/g dry weight were permitted to continue on their prior deferoxamine dose, even though the dose may have been higher than specified in the protocol.
@@ -36,3 +38,50 @@ At end of study, the mean change in LIC (as measured by magnetic susceptometry b
 One-hundred five (105) patients with thalassemia major and cardiac iron overload were enrolled in a study assessing the change in cardiac MRI T2* value (measured in milliseconds, ms) before and after treatment with deferasirox.
 Cardiac T2* values at baseline ranged from 5 to <20 ms. The geometric mean of cardiac T2* in the 68 subjects who completed 3 years of EXJADE therapy increased from 11.98 ms at baseline to 17.12 ms at 3 years.
 Cardiac T2* values improved in patients with severe cardiac iron overload (<10 ms) and in those with mild to moderate cardiac iron overload (≥10 to <20 ms). The clinical significance of these observations is unknown.
+
+Non-transfusion Dependent Thalassemia
+
+Study 4 was a randomized, double-blind, placebo-controlled trial of treatment with Exjade for patients 10 years of age or older with non-transfusion-dependent thalassemia syndromes and iron overload.
+Eligible patients had an LIC of at least 5 mg Fe/g dw measured by R2 MRI and a serum ferritin exceeding 300 mcg/L at screening (two consecutive values at least 14 days apart from each other).
+A total of 166 patients were randomized, 55 to the Exjade 5 mg/kg/day dose group, 55 to the Exjade 10 mg/kg/day dose group, and 56 to placebo (28 to each matching placebo group).
+Doses could be increased after 6 months if the LIC exceeded 7 mg Fe/g dw and the LIC reduction from baseline was less than 15%.
+The patients enrolled included 89 males and 77 females.
+The underlying disease was beta-thalassemia intermedia in 95 (57%) patients, HbE beta-thalassemia in 49 (30%) patients, and alpha-thalassemia in 22 (13%) patients.
+There were 17 pediatric patients in the study.
+Caucasians comprised 57% of the study population and Asians comprised 42%.
+The median baseline LIC (range) for all patients was 12.1 (2.6-49.1) mg Fe/g dw.
+Follow-up was for one year.
+The primary efficacy endpoint of change in LIC from baseline to Week 52 was statistically significant in favor of both Exjade dose groups compared with placebo (p ≤0.001) (Table 5).
+Furthermore, a statistically significant dose effect of Exjade was observed in favor of the 10 mg/kg/day dose group (10 versus 5 mg/kg/day, p=0.009).
+In a descriptive analysis, the target LIC (less than 5 mg Fe/g dw) was reached by 15 (27%) of 55 patients in the 10 mg/kg/day arm, 8 (15%) of 55 patients in the 5 mg/kg/day arm and 2 (4%) of 56 patients in the combined placebo groups.
+
+Table 5.
+Absolute Change in LIC at Week 52 in NTDT Patients
+
+|  | Starting Dose1 |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Exjade | Exjade | Exjade |
+|  | Placebo | 5 mg/kg/day | 10 mg/kg/day | 20 mg/kg/day |
+| Study 42 |  |  |  |  |
+| Number of Subjects | n=54 | n=51 | n=54 | - |
+| Mean LIC at Baseline (mg Fe/g dw) | 16.1 | 13.4 | 14.4 | - |
+| Mean Change (mg Fe/g dw) | +0.4 | -2.0 | -3.8 | - |
+| (95% Confidence Interval) | (-0.6, +1.3) | (-2.9, -1.0) | (-4.8, -2.9) | - |
+| Study 5 |  |  |  |  |
+| Number of Subjects | - | n=8 | n=77 | n=43 |
+| Mean LIC at Baseline (mg Fe/g dw) | - | 5.6 | 8.8 | 23.5 |
+| Mean Change (mg Fe/g dw) | - | -1.5 | -2.8 | -9.1 |
+| (95% Confidence Interval) | - | (-3.7, +0.7) | (-3.4, -2.2) | (-11.0, -7.3) |
+| 1Randomized dose in Study 4 or assigned starting dose in Study 5 |  |  |  |  |
+| 2Least square mean change for Study 4 |  |  |  |  |
+
+Study 5 was an open-label trial of Exjade for the treatment of patients previously enrolled on Study 4, including cross-over to active treatment for those previously treated with placebo.
+The starting dose of Exjade in Study 5 was assigned based on the patient’s LIC at completion of Study 4, being 20 mg/kg/day for an LIC exceeding 15 mg Fe/g dw, 10 mg/kg/day for LIC 3-15 mg Fe/g dw, and observation if the LIC was less than 3 mg Fe/g dw.
+Patients could continue on 5 mg/kg/day if they had previously exhibited at least a 30% reduction in LIC.
+Doses could be increased to a maximum of 20 mg/kg/day after 6 months if the LIC was more than 7 mg Fe/g dw and the LIC reduction from baseline was less than 15%.
+The primary efficacy endpoint in Study 5 was the proportion of patients achieving an LIC less than 5 mg Fe/g dw.
+A total of 133 patients were enrolled.
+Twenty patients began Study 5 with an LIC less than 5 mg Fe/g dw.
+Of the 113 patients with a baseline LIC of at least 5 mg Fe/g dw in Study 5, the target LIC (less than 5 mg Fe/g dw) was reached by 39 (35%).
+The responders included 4 (10%) of 39 patients treated at 20 mg/kg/day for a baseline LIC exceeding 15 mg Fe/g dw, and 31 (51%) of 61 patients treated at 10 mg/kg/day for a baseline LIC between 5 and 15 mg Fe/g dw.
+The absolute change in LIC at Week 52 by starting dose is shown in Table 5 above.

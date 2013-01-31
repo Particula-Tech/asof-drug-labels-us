@@ -22,19 +22,23 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-Of the 700 patients who received Exjade during clinical studies, 292 were pediatric patients 2 - <16 years of age with various congenital and acquired anemias, including 52 patients age 2 - <6 years, 121 patients age 6 - <12 years and 119 patients age 12 - <16 years.
+Of the 700 patients with transfusional iron overload who received Exjade during clinical studies, 292 were pediatric patients 2 - <16 years of age with various congenital and acquired anemias, including 52 patients age 2 - <6 years, 121 patients age 6 - <12 years and 119 patients age 12 - <16 years.
 Seventy percent of these patients had β-thalassemia.
 Children between the ages of 2 - <6 years have a systemic exposure to Exjade approximately 50% of that of adults [see Clinical Pharmacology (12.3)].
 However, the safety and efficacy of Exjade in pediatric patients was similar to that of adult patients, and younger pediatric patients responded similarly to older pediatric patients.
 The recommended starting dose and dosing modification are the same for children and adults [see Clinical Studies (14), Indications and Usage (1), and Dosage and Administration (2.1)].
 
-Growth and development were within normal limits in children followed for up to 5 years in clinical trials.
+Growth and development in patients with chronic iron overload due to blood transfusions were within normal limits in children followed for up to 5 years in clinical trials.
 
-Safety and effectiveness of Exjade in children < 2 years of age have not been established.
+Sixteen pediatric patients (10 to <16 years of age) with chronic iron overload and non-transfusional-dependent thalassemia were treated with Exjade in clinical studies.
+The safety and efficacy of Exjade in these children was similar to that seen in the adults.
+The recommended starting dose and dosing modification are the same for children and adults with chronic iron overload in non-transfusional-dependent thalassemia [see Clinical Studies (14), Indications and Usage (1.2), and Dosage and Administration (2.2)].
+
+Safety and effectiveness have not been established in pediatric patients with chronic iron overload due to blood transfusions who are less than 2 years of age or pediatric patients with chronic iron overload and non-transfusional-dependent thalassemia who are less than 10 years of age.
 
 ## 8.5 Geriatric Use
 
-Four hundred and thirty-one (431) patients ≥65 years of age were studied in clinical trials of Exjade.
+Four hundred and thirty-one (431) patients ≥65 years of age were studied in clinical trials of Exjade in the transfusional iron overload setting.
 The majority of these patients had myelodysplastic syndrome (MDS) (n=393).
 In these trials, elderly patients experienced a higher frequency of adverse reactions than younger patients.
 Monitor elderly patients for early signs or symptoms of adverse reactions that may require a dose adjustment.
@@ -47,7 +51,7 @@ The safety, efficacy and pharmacokinetics of Exjade have not been studied in pat
 
 Exjade can cause renal failure.
 Monitor serum creatinine and calculate creatinine clearance (using Cockcroft-Gault method) during treatment in all patients.
-Reduce, interrupt or discontinue Exjade dosing based on increases in serum creatinine [see Dose and Administration (2.4) and Warnings and Precautions (5.1)].
+Reduce, interrupt or discontinue Exjade dosing based on increases in serum creatinine [see Dosage and Administration (2.4, 2.5) and Warnings and Precautions (5.1)].
 
 Exjade is contraindicated in patients with a creatinine clearance <40 mL/min or serum creatinine >2 times the age-appropriate upper limit of normal [see Contraindications (4)].
 
@@ -59,4 +63,4 @@ The impact of severe (Child-Pugh C) hepatic impairment was assessed in only one 
 
 Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
 For patients with moderate (Child-Pugh B) hepatic impairment, the starting dose should be reduced by 50%.
-Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [See Dosage and Administration (2.3), and Warnings and Precautions (5.2].
+Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [See Dosage and Administration (2.4), and Warnings and Precautions (5.2].
