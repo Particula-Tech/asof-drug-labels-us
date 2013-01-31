@@ -38,7 +38,7 @@ Children treated with Soliris may be at increased risk of developing serious inf
 Administer vaccinations for the prevention of Streptococcus pneumoniae and Haemophilus influenza type b (Hib) infections according to ACIP guidelines.
 Use caution when administering Soliris to patients with any systemic infection.
 
-## 5.4 Monitoring After Soliris Discontinuation
+## 5.4 Monitoring Disease Manifestations After Soliris Discontinuation
 
 Treatment Discontinuation for PNH
 
