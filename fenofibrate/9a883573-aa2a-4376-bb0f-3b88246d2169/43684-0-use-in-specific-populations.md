@@ -25,13 +25,15 @@ A decision should be made whether to discontinue nursing or to discontinue the d
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of LIPOFEN in pediatric patients have not been established.
+Safety and effectiveness have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
 Fenofibrate is substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Since elderly patients have a higher incidence of renal impairment, the dose selection for the elderly should be made on the basis of renal function [see Dosage and Administration [2.5] and Clinical Pharmacology (12.3)].
+Since elderly patients have a higher incidence of renal impairment, the dose selection for the elderly should be made on the basis of renal function [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Fenofibrate exposure is not influenced by age.
 Elderly patients with normal renal function should require no dose modifications.
+Consider monitoring renal function in elderly patients taking LIPOFEN.
 
 ## 8.6 Renal Impairment
 

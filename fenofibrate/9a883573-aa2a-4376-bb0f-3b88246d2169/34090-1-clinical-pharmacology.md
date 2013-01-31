@@ -9,20 +9,22 @@ The lipid-modifying effects of fenofibric acid seen in clinical practice have be
 Through this mechanism, fenofibrate increases lipolysis and elimination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of apoprotein C-III (an inhibitor of lipoprotein lipase activity).
 The resulting decrease in triglycerides produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be atherogenic due to their susceptibility to oxidation), to large buoyant particles.
 These larger particles have a greater affinity for cholesterol receptors and are catabolized rapidly.
-Activation of PPARα also induces an increase in the synthesis of apolipoproteins A-I, A-II and HDL-cholesterol.
+Activation of PPARα also induces an increase in the synthesis of apolipoproteins AI, AII and HDL cholesterol.
+
+Fenofibrate also reduces serum uric acid levels in hyperuricemic and normal individuals by increasing the urinary excretion of uric acid.
 
 ## 12.2 Pharmacodynamics
 
-Elevated levels of total-C, LDL-C, and apo B and decreased levels of HDL-C and its transport complex, Apo AI and Apo AII, are risk factors for atherosclerosis.
-Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-C, LDL-C, and triglycerides, and inversely with the level of HDL-C.
+Elevated levels of total-c, LDL-C, and apo B and decreased levels of HDL-C and its transport complex, Apo AI and Apo AII, are risk factors for atherosclerosis.
+Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-c, LDL-C, and triglycerides, and inversely with the level of HDL-C.
 The independent effect of raising HDL-C or lowering triglycerides (TG) on the risk of cardiovascular morbidity and mortality has not been determined.
 
 Fenofibric acid, the active metabolite of fenofibrate, produces reductions in total cholesterol, LDL cholesterol, apolipoprotein B, total triglycerides and triglyceride rich lipoprotein (VLDL) in treated patients.
-In addition, treatment with fenofibrate results in increases in high density lipoprotein (HDL) and apolipoproteins apo AI and apo AII.
+In addition, treatment with fenofibrate results in increases in high density lipoprotein (HDL) and apolipoproteins AI and AII.
 
 ## 12.3 Pharmacokinetics
 
-The extent and rate of absorption of fenofibric acid after administration of 150 mg LIPOFEN capsules are equivalent under low-fat and high-fat fed conditions to 160 mg Tricor® tablets.
+The extent and rate of absorption of fenofibric acid after administration of 150 mg LIPOFEN capsules are equivalent under low-fat and high-fat fed conditions to 160 mg TriCor® tablets.
 
 Fenofibrate is a pro-drug of the active chemical moiety fenofibric acid.
 Fenofibrate is converted by ester hydrolysis in the body to fenofibric acid which is the active constituent measurable in the circulation.
@@ -34,7 +36,8 @@ However, fenofibrate is well absorbed from the gastrointestinal tract.
 Following oral administration in healthy volunteers, approximately 60% of a single dose of radiolabeled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
 Peak plasma levels of fenofibric acid occur within approximately 5 hours after oral administration.
 
-The absorption of fenofibrate is increased when administered with food.With LIPOFEN, the extent of absorption is increased by approximately 58% and 25% under high-fat fed and low-fat fed conditions as compared to fasting conditions, respectively.
+The absorption of fenofibrate is increased when administered with food.
+With LIPOFEN, the extent of absorption is increased by approximately 58% and 25% under high-fat fed and low-fat fed conditions as compared to fasting conditions, respectively.
 
 In a single dose and multiple dose bioavailability study with LIPOFEN capsules 200 mg, the extent of absorption (AUC) of fenofibric acid, the principal metabolite of fenofibrate, was 42% larger at steady state compared to single-dose administration.
 The rate of absorption (Cmax) of fenofibric acid was 73% greater after multiple-dose than after single-dose administration.
@@ -52,13 +55,13 @@ A small amount of fenofibric acid is reduced at the carbonyl moiety to a benzhyd
 
 In vitro and in vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (e.g., cytochrome P450) to a significant extent.
 
-Excretion: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
+Elimination: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
 After administration of radiolabeled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in feces.
 
-Fenofibric acid is eliminated with a half-life of approximately 20 hours allowing once daily administration in a clinical setting.
+Fenofibric acid is eliminated with a half-life of approximately 20 hours allowing once daily dosing.
 
 Geriatrics: In elderly volunteers 77 to 87 years of age, the apparent oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
-This indicates that an equivalent dose of LIPOFEN can be used in elderly subjects with normal renal function, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
+This indicates that an equivalent dose of LIPOFEN can be used in elderly subjects with normal renal function, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
 
 Pediatrics: Pharmacokinetics of LIPOFEN has not been studied in pediatric patients.
 
@@ -67,9 +70,10 @@ Gender: No pharmacokinetic difference between males and females has been observe
 Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied, however fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
 
 Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate and severe renal impairment.
-Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
-Patients with mild (CrCl 50-80 mL/min) to moderate renal impairment (CrCl 30-50 mL/min) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
-Based on these findings, the use of LIPOFEN should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
+Patients with mild (estimated glomerular filtration rate eGFR 60-89 ml/min/1.73m2) to moderate (eGFR 30-59 mL/min/1.73m2) renal impairment had similar exposure but an increase in the half-life for fenofibric acid was observed as compared to that of healthy subjects.
+Patients with severe renal impairment (eGFR <30 mL/min/1.73m2) showed a 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
+In patients with mild to moderate renal impairment, treatment with LIPOFEN should be initiated at a dose of 50 mg per day, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
+Based on these findings, the use of LIPOFEN should be avoided in patients who have severe renal impairment.
 
 Hepatic Impairment: No pharmacokinetic studies have been conducted in patients having hepatic impairment.
 
@@ -82,7 +86,7 @@ Table 3 describes the effects of fenofibrate on co-administered drugs.
 Table 2.
 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
-| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
+| Co- Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
 | --- | --- | --- | --- | --- |
 |  |  |  | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |
@@ -93,23 +97,21 @@ Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenof
 | Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg1 once daily for 10 days | ↑1% | ↓1% |
 | Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for 10 days | ↓9% | ↓6% |
 | Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg1 once daily for 14 days | ↑10% | ↑3% |
-| 1 TriCor (fenofibrate) oral tablet |  |  |  |  |
-| 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
 
 Table 3.
 Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
 
-| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
-| --- | --- | --- | --- | --- |
 |  |  | Analyte | AUC | Cmax |
+| --- | --- | --- | --- | --- |
+| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
 | Lipid-lowering agents |  |  |  |  |
 | Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
 | Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
-|  |  | 3α-Hydroxyl-iso-pravastatin | ↑26% | ↑29% |
-| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
+|  |  | 3α-Hydroxyl-iso- pravastatin | ↑26% | ↑29% |
+| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S- Fluvastatin | ↑15% | ↑16% |
 | Anti-diabetic agents |  |  |  |  |
 | Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
 | Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
 | Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
-| 1 TriCor (fenofibrate) oral tablet |  |  |  |  |
-| 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |

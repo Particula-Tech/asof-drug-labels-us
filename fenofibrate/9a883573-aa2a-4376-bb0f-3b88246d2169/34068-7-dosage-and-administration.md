@@ -1,8 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosing Information
+## 2.1 General Considerations
 
 LIPOFEN capsules should be given with meals thereby optimizing the absorption of the medication.
+
+Patients should be advised to swallow LIPOFEN capsules whole.
+Do not open, crush, dissolve or chew capsules.
 
 Patients should be placed on an appropriate lipid-lowering diet before receiving LIPOFEN, and should continue this diet during treatment with LIPOFEN.
 
@@ -18,11 +21,11 @@ Therapy should be withdrawn in patients who do not have an adequate response aft
 
 Consideration should be given to reducing the dosage of LIPOFEN if lipid levels fall significantly below the targeted range.
 
-## 2.2 Primary Hypercholesterolemia or Mixed Dyslipidemia
+## 2.2 Primary Hypercholesterolemia or Mixed Dyslipidemia:
 
 The dose of LIPOFEN is 150 mg once daily.
 
-## 2.3 Severe Hypertriglyceridemia
+## 2.3 Severe Hypertriglyceridemia:
 
 The initial dose is 50 to 150 mg per day.
 Dosage should be individualized according to patient response, and should be adjusted if necessary following repeat lipid determination at 4 to 8 week intervals.
@@ -32,8 +35,8 @@ The maximum dose of LIPOFEN is 150 mg once daily.
 ## 2.4 Impaired Renal Function
 
 In patients with mild-to-moderate renal impairment, treatment with LIPOFEN should be initiated at a dose of 50 mg per day, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
-The use of LIPOFEN should be avoided in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology(12.3)].
+The use of LIPOFEN should be avoided in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Geriatric Patients
 
-Dose selection for the elderly should be made on the basis of renal function [see Use in Specific Populations (8.5)].
+Dose selection for the elderly should be made on the basis of renal function [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].

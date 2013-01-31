@@ -10,9 +10,13 @@ To prevent bleeding complications, frequent monitoring of PT/INR and dose adjust
 
 ## 7.2 Immunosuppressants
 
-Immunosuppressant agents such as cyclosporine and tacrolimus can impair renal function and renal excretion is the primary elimination route of fibrate drugs including LIPOFEN.
+Immunosuppressant agents such as cyclosporine and tacrolimus can impair renal function and because renal excretion is the primary elimination route of fibrate drugs including LIPOFEN, there is a risk that an interaction will lead to deterioration of renal function.
 When immunosuppressants and other potentially nephrotoxic agents are co-administered with LIPOFEN, the lowest effective dose of LIPOFEN should be employed and renal function should be monitored.
 
 ## 7.3 Bile-Acid Binding Resins
 
 Since bile-acid binding resins may bind other drugs given concurrently, patients should take LIPOFEN at least 1 hour before or 4 to 6 hours after a bile acid binding resin to avoid impeding its absorption.
+
+## 7.4 Colchicine
+
+Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine.

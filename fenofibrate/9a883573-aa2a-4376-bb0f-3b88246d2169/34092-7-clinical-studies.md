@@ -4,8 +4,8 @@ Clinical trials have not been conducted with LIPOFEN.
 
 ## 14.1 Primary Hypercholesterolemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia
 
-The effects of fenofibrate at a dose equivalent to 150 mg per day of LIPOFEN were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
-Fenofibrate therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
+The effects of fenofibrate at a dose equivalent to 150 mg per day of LIPOFEN were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-c 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
+Fenofibrate therapy lowered LDL-C, total-c, and the LDL-C/HDL-C ratio.
 Fenofibrate therapy also lowered triglycerides and raised HDL-C (see Table 4).
 
 Table 4.
@@ -16,17 +16,16 @@ Mean Percent Change in Lipid Parameters at End of Treatment+
 | Pooled Cohort |  |  |  |  |
 | Mean baseline lipid values (n=646) | 306.9 mg/dL | 213.8 mg/dL | 52.3 mg/dL | 191.0 mg/dL |
 | All FEN (n=361) | -18.7%* | -20.6%* | +11.0%* | * -28.9%* |
-| Placebo (n=285) - | -0.4% | -2.2% | +0.7% | +7.7% |
+| Placebo (n=285) | -0.4% | -2.2% | +0.7% | +7.7% |
 | Baseline LDL-C >160 mg/dL and TG <150 mg/dL |  |  |  |  |
-| Mean baseline lipid values (n=334) | 307.7 mg/dL | 227.7 mg/dL | 58.1 mg/dL \ | 101.7 mg/dL |
+| Mean baseline lipid values (n=334) | 307.7 mg/dL | 227.7 mg/dL | 58.1 mg/dL | 101.7 mg/dL |
 | All FEN (n=193) | -22.4%* | -31.4%* | +9.8% | -23.5%* |
 | Placebo (n=141) | +0.2% | -2.2% | +2.6% | +11.7% |
 | Baseline LDL-C >160 mg/dL and TG ≥150 mg/dL |  |  |  |  |
 | Mean baseline lipid values (n=242) | 312.8 mg/dL | 219.8 mg/dL | 46.7 mg/dL | 231.9 mg/dL |
 | All FEN (n=126) | -16.8%* | -20.1%* | +14.6%* | -35.9%* |
 | Placebo (n=116) | -3.0% | -6.6% | +2.3% | +0.9% |
-| + Duration of study treatment was 3 to 6 months. |  |  |  |  |
-| * p = <0.05 vs. Placebo |  |  |  |  |
+| + Duration of study treatment was 3 to 6 months. * p = <0.05 vs. Placebo |  |  |  |  |
 
 In a subset of the subjects, measurements of apo B were conducted.
 Fenofibrate treatment significantly reduced apo B from baseline to endpoint as compared with placebo (-25.1% vs. 2.4%, p<0.0001, n=213 and 143 respectively).
@@ -35,11 +34,11 @@ Fenofibrate treatment significantly reduced apo B from baseline to endpoint as c
 
 The effects of fenofibrate on serum triglycerides were studied in two randomized, double-blind, placebo-controlled clinical trials of 147 hypertriglyceridemic patients.
 Patients were treated for eight weeks under protocols that differed only in that one entered patients with baseline TG levels of 500 to 1500 mg/dL, and the other TG levels of 350 to 500 mg/dL.
-In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia, treatment with fenofibrate at dosages equivalent to 150 mg LIPOFEN per day decreased primarily very low density lipoprotein (VLDL) triglycerides and VLDL cholesterol.
+In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia, treatment with fenofibrate at dosages equivalent to 150 mg LIPOFEN per day decreased primarily very low density lipoprotein (VLDL), triglycerides and VLDL cholesterol.
 Treatment of some with elevated triglycerides often results in an increase of LDL-C (see Table 5).
 
 Table 5.
-Effects in Patients With Hypertriglyceridemia
+Effects in Patients With Severe Hypertriglyceridemia
 
 | Study 1 | Placebo |  |  |  | Fenofibrate |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
