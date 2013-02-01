@@ -41,21 +41,22 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Eye disorders: cycloplegia, mydriasis, vision blurred
 - Gastrointestinal disorders: abdominal distension, abdominal pain, constipation, dry mouth, dyspepsia, nausea, vomiting
 - General disorders and administration site conditions: fatigue, malaise
-- Immune System Disorders: drug hypersensitivity including face oedema, angioedema, anaphylactic shock
-- Nervous system disorders: dizziness, headache, hallucinations, insomnia, somnolence, syncope
-- Psychiatric disorders: confusional state, nervousness
+- Immune System Disorders: drug hypersensitivity including face edema, angioedema, anaphylactic shock
+- Nervous system disorders: dizziness, headache, somnolence, syncope
+- Psychiatric disorders: As with the other anti-cholinergic drugs, cases of delirium or symptoms of delirium such as amnesia (or transient global amnesia), agitation, confusional state, delusion, disorientation, hallucination (including visual hallucination) as well as mania, mood altered and pseudodementia, have been reported with the use of Dicyclomine.
+  Nervousness and insomnia have also been reported.
 - Reproductive system and breast disorders: suppressed lactation
 - Respiratory, thoracic and mediastinal disorders: dyspnoea, nasal congestion
 - Skin and subcutaneous tissue disorder: dermatitis allergic, erythema, rash
 
 ## 6.3 Adverse Reactions Reported with Similar Drugs with Anticholinergic/Antispasmodic Action
 
-- Gastrointestinal: anorexia,
+- Gastrointestinal: anorexia
 - Central Nervous System: tingling, numbness, dyskinesia, speech disturbance, insomnia
-- Peripheral Nervous System: With overdosage, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).
+- Peripheral Nervous System: With overdosage, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis)
 - Ophthalmologic: diplopia, increased ocular tension
-- Dermatologic/Allergic: urticaria, itching, and other dermal manifestations;
+- Dermatologic/Allergic: urticaria, itching, and other dermal manifestations
 - Genitourinary: urinary hesitancy, urinary retention in patients with prostatic hypertrophy
 - Cardiovascular: hypertension
 - Respiratory: apnea
-- Other: decreased sweating, sneezing, throat congestion, impotence.
+- Other: decreased sweating, sneezing, throat congestion, impotence

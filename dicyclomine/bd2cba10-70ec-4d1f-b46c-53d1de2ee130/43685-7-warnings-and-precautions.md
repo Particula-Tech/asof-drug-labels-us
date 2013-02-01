@@ -15,8 +15,8 @@ In the presence of high environmental temperature heat prostration can occur wit
 It should also be used cautiously in patients with fever.
 If symptoms occur, the drug should be discontinued and supportive measures instituted.
 Because of the inhibitory effect on muscarinic receptors within the autonomic nervous system, caution should be taken in patients with autonomic neuropathy.
-Central nervous system (CNS) signs and symptoms include confusion, disorientation, short-term amnesia, hallucinations, dysarthria, ataxia, coma, euphoria, fatigue, insomnia, agitation and mannerisms, and inappropriate affect.
-Psychosis has been reported in sensitive individuals given anticholinergic drugs.
+Central nervous system (CNS) signs and symptoms include confusional state, disorientation, amnesia, hallucinations, dysarthria, ataxia, coma, euphoria, fatigue, insomnia, agitation and mannerisms, and inappropriate affect.
+Psychosis and delirium have been reported in sensitive individuals (such as elderly patients and/or in patients with mental illness) given anticholinergic drugs.
 These CNS signs and symptoms usually resolve within 12 to 24 hours after discontinuation of the drug.
 
 Dicyclomine hydrochloride may produce drowsiness, dizziness or blurred vision.
