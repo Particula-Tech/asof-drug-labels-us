@@ -1,7 +1,7 @@
 # WARNING: PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY
 
 TYSABRI increases the risk of progressive multifocal leukoencephalopathy (PML), an opportunistic viral infection of the brain that usually leads to death or severe disability.
-Cases of PML have been reported in patients taking TYSABRI who were recently or concomitantly treated with immunomodulators or immunosuppressants, as well as in patients receiving TYSABRI as monotherapy [seeWarnings and Precautions (5.1)].
+Cases of PML have been reported in patients taking TYSABRI who were recently or concomitantly treated with immunomodulators or immunosuppressants, as well as in patients receiving TYSABRI as monotherapy [see Warnings and Precautions (5.1)].
 
 - Because of the risk of PML, TYSABRI is available only through a special restricted distribution program called the TOUCH® Prescribing Program.
   Under the TOUCH® Prescribing Program, only prescribers, infusion centers, and pharmacies associated with infusion centers registered with the program are able to prescribe, distribute, or infuse the product.

@@ -4,7 +4,7 @@
 
 TYSABRI was evaluated in two randomized, double-blind, placebo-controlled trials in patients with multiple sclerosis.
 Both studies enrolled patients who experienced at least one clinical relapse during the prior year and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5.0.
-Results for each study are shown in Tables 4 and 5.
+Results for each study are shown in Tables 5 and 6.
 Median time on study drug was 120 weeks in each study.
 In both studies, neurological evaluations were performed every 12 weeks and at times of suspected relapse.
 Magnetic resonance imaging evaluations for T1-weighted gadolinium (Gd)-enhancing lesions and T2-hyperintense lesions were performed annually.
@@ -21,68 +21,42 @@ The efficacy of TYSABRI alone was not compared with the efficacy of TYSABRI plus
 
 The primary endpoint at 2 years was time to onset of sustained increase in disability, defined as an increase of at least 1 point on the EDSS from baseline EDSS ≥ 1.0 that was sustained for 12 weeks, or at least a 1.5 point increase on the EDSS from baseline EDSS=0 that was sustained for 12 weeks.
 Time to onset of sustained increase in disability was longer in TYSABRI-treated patients than in placebo-treated patients in Studies MS1 (Figure 1) and MS2.
-The proportion of patients with increased disability and the annualized relapse rate were also lower in TYSABRI-treated patients than in placebo-treated patients in Studies MS1 and MS2 (Tables 4 and 5).
-
-Table 4.
-Clinical and MRI Endpoints in Study MS1 (Monotherapy Study) at 2 Years
-
-|  | TYSABRI |  | Placebo |
-| --- | --- | --- | --- |
-|  | n=627 |  | n=315 |
-| Clinical Endpoints |  |  |  |
-| Percentage with sustained increase in disability | 17% |  | 29% |
-| Relative Risk Reduction | 42% (95% CI 23%, 57%) |  |  |
-| Annualized relapse rate | 0.22 |  | 0.67 |
-| Relative reduction (percentage) | 67% |  |  |
-| Percentage of patients remaining relapse-free | 67% | 41% |  |
-| MRI Endpoints |  |  |  |
-| New or newly enlarging T2-hyperintense lesions |  |  |  |
-| Median | 0.0 | 5.0 |  |
-| Percentage of patients with*: |  |  |  |
-| 0 lesions | 57% | 15% |  |
-| 1 lesion | 17% | 10% |  |
-| 2 lesions | 8% | 8% |  |
-| 3 or more lesions | 18% | 68% |  |
-| Gd-enhancing lesions |  |  |  |
-| Median | 0.0 | 0.0 |  |
-| Percentage of patients with: |  |  |  |
-| 0 lesions | 97% | 72% |  |
-| 1 lesion | 2% | 12% |  |
-| 2 or more lesions | 1% | 16% |  |
-| All analyses were intent-to-treat. For each endpoint, p<0.001. Determination of p-values: Increase in disability by Cox proportional hazards model adjusted for baseline EDSS and age; relapse rate by Poisson regression adjusting for baseline relapse rate, EDSS, presence of Gd-enhancing lesions, age; percentage relapse-free by logistic regression adjusting for baseline relapse rate; and lesion number by ordinal logistic regression adjusting for baseline lesion number. |  |  |  |
-| Annualized relapse rate is calculated as the number of relapses for each subject divided by the number of years followed in the study for that subject. The value reported is the mean across all subjects. |  |  |  |
-| *Values do not total 100% due to rounding. |  |  |  |
+The proportion of patients with increased disability and the annualized relapse rate were also lower in TYSABRI-treated patients than in placebo-treated patients in Studies MS1 and MS2 (Tables 5 and 6).
 
 Table 5.
+Clinical and MRI Endpoints in Study MS1 (Monotherapy Study) at 2 Years
+
+|  | TYSABRI n=627 | Placebo n=315 |
+| --- | --- | --- |
+| Clinical Endpoints |  |  |
+| Percentage with sustained increase in disability Relative Risk Reduction | 17% | 29% |
+| 42% (95% CI 23%, 57%) |  |  |
+| Annualized relapse rate Relative reduction (percentage) Percentage of patients remaining relapse-free | 0.22 | 0.67 |
+| 67% |  |  |
+| 67% | 41% |  |
+| MRI Endpoints |  |  |
+| New or newly enlarging T2-hyperintense lesions Median Percentage of patients with*: 0 lesions 1 lesion 2 lesions 3 or more lesions | 0.0 57% 17% 8% 18% | 05.0 15% 10% 8% 68% |
+| Gd-enhancing lesions Median Percentage of patients with: 0 lesions 1 lesion 2 or more lesions | 0.0 97% 2% 1% | 0.0 72% 12% 16% |
+| All analyses were intent-to-treat. For each endpoint, p<0.001. Determination of p-values: Increase in disability by Cox proportional hazards model adjusted for baseline EDSS and age; relapse rate by Poisson regression adjusting for baseline relapse rate, EDSS, presence of Gd-enhancing lesions, age; percentage relapse-free by logistic regression adjusting for baseline relapse rate; and lesion number by ordinal logistic regression adjusting for baseline lesion number. Annualized relapse rate is calculated as the number of relapses for each subject divided by the number of years followed in the study for that subject. The value reported is the mean across all subjects. *Values do not total 100% due to rounding. |  |  |
+
+Table 6.
 Clinical and MRI Endpoints in Study MS2 (Add-On Study) at 2 Years
 
-|  | TYSABRI | Placebo |
+|  | TYSABRI plus AVONEX n=589 | Placebo plus AVONEX n=582 |
 | --- | --- | --- |
-|  | plus AVONEX | plus AVONEX |
-|  | n=589 | n=582 |
 | Clinical Endpoints |  |  |
-| Percentage with sustained increase in disability | 23% | 29% |
-| Relative Risk Reduction | 24% (95% CI 4%, 39%) |  |
-| Annualized relapse rate | 0.33 | 0.75 |
-| Relative reduction (percentage) | 56% |  |
-| Percentage of patients remaining relapse-free | 54% | 32% |
+| Percentage with sustained increase in disability Relative Risk Reduction | 23% | 29% |
+| 24% (95% CI 4%, 39%) |  |  |
+| Annualized relapse rate Relative reduction (percentage) Percentage of patients remaining relapse-free | 0.33 | 0.75 |
+| 56% |  |  |
+| 54% | 32% |  |
 | MRI Endpoints |  |  |
-| New or newly enlarging T2-hyperintense lesions |  |  |
-| Median | 0.0 | 3.0 |
-| Percentage of patients with*: |  |  |
-| 0 lesions | 67% | 30% |
-| 1 lesion | 13% | 9% |
-| 2 lesions | 7% | 10% |
-| 3 or more lesions | 14% | 50% |
-| Gd-enhancing lesions |  |  |
-| Median | 0.0 | 0.0 |
-| Percentage of patients with*: |  |  |
-| 0 lesions | 96% | 75% |
-| 1 lesion | 2% | 12% |
-| 2 or more lesions | 1% | 14% |
-| All analyses were intent-to-treat. For disability accumulation p=0.024, for all other endpoints, p<0.001. Determination of p-values: Increase in disability by Cox proportional hazards model adjusted for baseline EDSS; relapse rate by Poisson regression adjusting for baseline relapse rate, EDSS, presence of Gd-enhancing lesions, age; percentage relapse-free by logistic regression adjusting for baseline relapse rate; and lesion number by ordinal logistic regression adjusting for baseline lesion number. |  |  |
-| Annualized relapse rate is calculated as the number of relapses for each subject divided by the number of years followed in the study for that subject. The value reported is the mean across all subjects. |  |  |
-| *Values do not total 100% due to rounding. |  |  |
+| New or newly enlarging T2-hyperintense lesions Median Percentage of patients with*: 0 lesions 1 lesion 2 lesions 3 or more lesions | 0.0 67% 13% 7% 14% | 3.0 30% 9% 10% 50% |
+| Gd-enhancing lesions Median Percentage of patients with*: 0 lesions 1 lesion 2 or more lesions | 0.0 96% 2% 1% | 0.0 75% 12% 14% |
+| All analyses were intent-to-treat. For disability accumulation p=0.024, for all other endpoints, p<0.001. Determination of p-values: Increase in disability by Cox proportional hazards model adjusted for baseline EDSS; relapse rate by Poisson regression adjusting for baseline relapse rate, EDSS, presence of Gd-enhancing lesions, age; percentage relapse-free by logistic regression adjusting for baseline relapse rate; and lesion number by ordinal logistic regression adjusting for baseline lesion number. Annualized relapse rate is calculated as the number of relapses for each subject divided by the number of years followed in the study for that subject. The value reported is the mean across all subjects. *Values do not total 100% due to rounding. |  |  |
+
+Figure 1.
+Time to Increase in Disability Sustained for 12 Weeks in Study MS1
 
 Changes in MRI findings often do not correlate with changes in the clinical status of patients (e.g., disability progression).
 The prognostic significance of the MRI findings in these studies has not been evaluated.
@@ -93,7 +67,7 @@ The efficacy of treatment with TYSABRI beyond two years is not known.
 
 The safety and efficacy of TYSABRI were evaluated in three randomized, double-blind, placebo-controlled clinical trials in 1414 adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] ≥220 and ≤450) [see Reference (15)].
 Concomitant inhibitors of TNF-α were not permitted.
-Concomitant stable doses of aminosalicylates, corticosteroids, and/or immunosuppressants (e.g., 6-mercaptopurine, azathioprine, or methotrexate) were permitted, and 89% of patients continued to receive at least one of these medications.
+Concomitant stable doses of aminosalicylates, corticosteroids, and/or immunosuppressants (e.g., 6-mercatopurine, azathioprine, or methotrexate) were permitted, and 89% of patients continued to receive at least one of these medications.
 Although permitted in the clinical trials, combination therapy with immunosuppressants is not recommended [see Indications and Usage (1.2)].
 Overall, approximately two-thirds of patients were not taking concomitant immunosuppressants, and approximately one-third of patients were taking neither concomitant immunosuppressants nor concomitant corticosteroids.
 
@@ -105,24 +79,16 @@ In a post hoc analysis of the subset of 653 patients with elevated baseline C-re
 
 In the second induction trial, Study CD2, only patients with elevated serum C-reactive Protein (CRP) were studied.
 A total of 509 patients were randomized 1:1 to receive three monthly infusions of either 300 mg TYSABRI or placebo.
-In Study CD2, in contrast to Study CD1, clinical response and clinical remission (defined as CDAI score <150) were required to be met at both Weeks 8 and 12, rather than at a single time-point; patients with incomplete information were considered as not having a response (Table 6).
+In Study CD2, in contrast to Study CD1, clinical response and clinical remission (defined as CDAI score <150) were required to be met at both Weeks 8 and 12, rather than at a single time-point; patients with incomplete information were considered as not having a response (Table 7).
 
-Table 6.
+Table 7.
 Induction of Clinical Response and Remission in Study CD2
 
 |  | TYSABRI n=259 | Placebo n=250 | Treatment Difference (95% CI) |
 | --- | --- | --- | --- |
-| Clinical Response at: |  |  |  |
-| Week 8 | 56% | 40% | 16% (8%, 26%) |
-| Week 12 | 60% | 44% | 16% (7%, 25%) |
-| Both Weeks 8 & 12* | 48% | 32% | 16% (7%, 24%) |
-| Clinical Remission at: |  |  |  |
-| Week 8 | 32% | 21% | 11% (3%, 19%) |
-| Week 12 | 37% | 25% | 12% (4%, 21%) |
-| Both Weeks 8 & 12* | 26% | 16% | 10% (3%, 18%) |
-| *p<0.005 |  |  |  |
-| Response is defined as a ≥70-point reduction in CDAI score from baseline. |  |  |  |
-| Remission is defined as CDAI <150. |  |  |  |
+| Clinical Response at: Week 8 Week 12 Both Weeks 8 & 12* | 56% 60% 48% | 40% 44% 32% | 16% (8%, 26%) 16% (7%, 25%) 16% (7%, 24%) |
+| Clinical Remission at: Week 8 Week 12 Both Weeks 8 & 12* | 32% 37% 26% | 21% 25% 16% | 11% (3%, 19%) 12% (4%, 21%) 10% (3%, 18%) |
+| *p <0.005 Response is defined as a ≥70-point reduction in CDAI score from baseline. Remission is defined as CDAI <150. |  |  |  |
 
 In studies CD1 and CD2, for subgroups defined by prior use of, or by inadequate response to prior therapies (i.e., corticosteroids, immunosuppressants, and inhibitors of TNF-α), the treatment effect was generally similar to that seen in the whole study population.
 In the subgroup of patients that were taking neither concomitant immunosuppressants nor concomitant corticosteroids, the treatment effect was generally similar to that seen in the whole study population.
@@ -134,25 +100,16 @@ In this study, 331 patients from Study CD1 that had had a clinical response to T
 
 Maintenance of response was assessed by the proportion of patients who did not lose clinical response at any study visit for an additional 6 and 12 months of treatment (i.e., Month 9 and Month 15 after initial treatment with TYSABRI).
 The study also assessed the proportion of patients who did not lose clinical remission at any study visit within the subset of those who were in remission at study entry.
-Requiring maintenance of response or remission at each visit, as opposed to just at Month 9 or Month 15, may result in lower proportions meeting endpoint criteria, and may make a comparison of these results with those of other products used to treat Crohn's disease misleading (Table 7).
+Requiring maintenance of response or remission at each visit, as opposed to just at Month 9 or Month 15, may result in lower proportions meeting endpoint criteria, and may make a comparison of these results with those of other products used to treat Crohn's disease misleading (Table 8).
 
-Table 7.
+Table 8.
 Maintenance of Clinical Response and Remission in Study CD3
 
 |  | TYSABRI | Placebo | Treatment Difference (95% CI) |
 | --- | --- | --- | --- |
-|  | n=164 | n=167 |  |
-| Clinical Response through: |  |  |  |
-| Month 9* | 61% | 29% | 32% (21%, 43%) |
-| Month 15 | 54% | 20% | 34% (23%, 44%) |
-|  | n=128† | n=118† |  |
-| Clinical Remission through: |  |  |  |
-| Month 9* | 45% | 26% | 19% (6%, 31%) |
-| Month 15 | 40% | 15% | 25% (13%, 36%) |
-| *p<0.005 |  |  |  |
-| †Number of patients included for analysis of “through” Month 9 and Month 15 includes only those in remission upon entry into Study CD3. |  |  |  |
-| Response is defined as CDAI <220 and a ≥70-point reduction in CDAI score compared to Baseline from Study CD1. |  |  |  |
-| Remission is defined as CDAI <150. |  |  |  |
+| Clinical Response through: Month 9* Month 15 | n=164 61% 54% | n=167 29% 20% | 32% (21%, 43%) 34% (23%, 44%) |
+| Clinical Remission through: Month 9* Month 15 | n=128† 45% 40% | n=118† 26% 15% | 19% (6%, 31%) 25% (13%, 36%) |
+| *p<0.005 †Number of patients included for analysis of “through” Month 9 and Month 15 includes only those in remission upon entry into Study CD3. Response is defined as CDAI <220 and a ≥70-point reduction in CDAI score compared to Baseline from Study CD1. Remission is defined as CDAI <150. |  |  |  |
 
 For subgroups in study CD3 defined by prior use of, or by inadequate response to prior therapies (i.e., corticosteroids, immunosuppressants, and inhibitors of TNF-α), the treatment effect was generally similar to that seen in the whole study population.
 In the subgroup of patients that were taking neither concomitant immunosuppressants nor concomitant corticosteroids, the treatment effect was generally similar to that seen in the whole study population.

@@ -9,8 +9,8 @@ If a woman becomes pregnant while taking TYSABRI, consider enrolling her in the 
 
 ## 8.3 Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from TYSABRI, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+TYSABRI has been detected in human milk.
+The effects of this exposure on infants are unknown.
 
 ## 8.4 Pediatric Use
 

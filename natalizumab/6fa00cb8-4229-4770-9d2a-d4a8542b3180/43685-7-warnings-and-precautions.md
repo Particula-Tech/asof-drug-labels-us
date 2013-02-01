@@ -2,14 +2,45 @@
 
 ## 5.1 Progressive Multifocal Leukoencephalopathy (PML)
 
-Progressive multifocal leukoencephalopathy, an opportunistic infection caused by the JC virus, that typically only occurs in patients who are immunocompromised, developed in three patients who received TYSABRI in clinical trials [see Boxed Warning].
+Progressive multifocal leukoencephalopathy, an opportunistic infection caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, developed in three patients who received TYSABRI in clinical trials [see Boxed Warning].
 Two cases of PML were observed among 1869 patients with multiple sclerosis treated for a median of 120 weeks.
 The third case occurred among 1043 patients with Crohn's disease after the patient received eight doses.
 Both multiple sclerosis patients were receiving concomitant immunomodulatory therapy and the Crohn's disease patient had been treated in the past with immunosuppressive therapy.
 
-In the postmarketing setting, additional cases of PML have been reported in multiple sclerosis patients who were receiving no concomitant immunomodulatory therapy.
-In patients treated with TYSABRI, the risk of developing PML increases with longer treatment duration, and for patients treated for 24 to 36 months is generally similar to the rates seen in clinical trials.
-There is limited experience beyond 3 years of treatment.
+In the postmarketing setting, additional cases of PML have been reported in multiple sclerosis and Crohn's disease patients who were receiving no concomitant immunomodulatory therapy.
+Three factors that are known to increase the risk of PML in TYSABRI-treated patients have been identified:
+
+- Longer treatment duration, especially beyond 2 years.
+  There is limited experience in patients who have received more than 4 years of TYSABRI treatment.
+- Prior treatment with an immunosuppressant (e.g., mitoxantrone, azathioprine, methotrexate, cyclophosphamide, mycophenolate mofetil).
+- The presence of anti-JCV antibodies.
+  Patients who are anti-JCV antibody positive have a higher risk for developing PML.
+
+The risks and benefits of continuing treatment with Tysabri should be carefully considered in patients who are found to be anti-JCV antibody positive and have one or more additional risk factors.
+Patients with all three known risk factors have an estimated risk of PML of 11/1,000.
+
+Consideration should be given to testing patients for anti-JCV antibody status prior to treatment or during treatment if antibody status is unknown.
+Infection by the JC virus is required for the development of PML.
+Anti-JCV antibody negative status indicates that exposure to the JC virus has not been detected.
+Patients who are anti-JCV antibody negative are still at risk for the development of PML due to the potential for a new JCV infection or a false negative test result.
+Therefore, patients with a negative anti-JCV antibody test result should be retested every 6 months.
+For purposes of risk assessment, a patient with a positive anti-JCV antibody test at any time is considered anti-JCV antibody positive regardless of the results of any prior or subsequent anti-JCV antibody testing.
+When assessed, anti-JCV antibody status should be determined using an analytically and clinically validated immunoassay.
+
+Table 1: Estimated Incidence of PML Stratified by Risk Factor
+
+| Tysabri Exposure† | Anti-JCV Antibody Positive* |  |
+| --- | --- | --- |
+| No Prior Immunosuppressant Use | Prior Immunosuppressant Use |  |
+| 1-24 months | <1/1,000 | 2/1,000 |
+| 25-48 months | 5/1,000 | 11/1,000 |
+| Notes: Based on postmarketing PML data as of September 5, 2012 and TYSABRI use data as of August 31, 2012. |  |  |
+| †Data beyond 4 years of treatment are limited. |  |  |
+| *Risk in anti-JCV antibody positive patients was estimated based on the assumptions that 18% of Tysabri-treated MS patients have a history of prior immunosuppressant treatment and that 55% of Tysabri-treated MS patients are anti-JCV antibody positive. The anti-JCV antibody status was determined using an anti-JCV antibody test (ELISA) that has been analytically and clinically validated and is configured with detection and inhibition steps to confirm the presence of JCV-specific antibodies with a false negative rate of 3%. |  |  |
+
+Anti-JCV antibody testing should not be used to diagnose PML.
+Anti-JCV antibody testing should not be performed for at least two weeks following plasma exchange due to the removal of antibodies from the serum.
+
 There are no known interventions that can reliably prevent PML or adequately treat PML if it occurs.
 It is not known whether early detection of PML and discontinuation of TYSABRI will mitigate the disease.
 
@@ -17,27 +48,30 @@ Ordinarily, patients receiving chronic immunosuppressant or immunomodulatory the
 
 Because of the risk of PML, TYSABRI is available only under a special restricted distribution program, the TOUCH® Prescribing Program.
 
-In multiple sclerosis patients, an MRI scan should be obtained prior to initiating therapy withTYSABRI.
-This MRI may be helpful in differentiating subsequent multiple sclerosis symptomsfrom PML.
+In multiple sclerosis patients, an MRI scan should be obtained prior to initiating therapy with TYSABRI.
+This MRI may be helpful in differentiating subsequent multiple sclerosis symptoms from PML.
 
-In Crohn's disease patients, a baseline brain MRI may also be helpful to distinguish preexistentlesions from newly developed lesions, but brain lesions at baseline that could causediagnostic difficulty while on TYSABRI therapy are uncommon.
+In Crohn's disease patients, a baseline brain MRI may also be helpful to distinguish pre-existent lesions from newly developed lesions, but brain lesions at baseline that could cause diagnostic difficulty while on TYSABRI therapy are uncommon.
 
-Healthcare professionals should monitor patients on TYSABRI for any new sign orsymptom suggestive of PML.
-Typical symptoms associated with PML are diverse, progress overdays to weeks, and include progressive weakness on one side of the body or clumsiness of limbs,disturbance of vision, and changes in thinking, memory, and orientation leading to confusion andpersonality changes.
-The progression of deficits usually leads to death or severe disability overweeks or months.
-Withhold TYSABRI dosing immediately at the first sign or symptom suggestiveof PML.
+Healthcare professionals should monitor patients on TYSABRI for any new sign or symptom suggestive of PML.
+Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+The progression of deficits usually leads to death or severe disability over weeks or months.
+Withhold TYSABRI dosing immediately at the first sign or symptom suggestive of PML.
 
 For diagnosis of PML, an evaluation including a gadolinium-enhanced MRI scan of the brain and, when indicated, cerebrospinal fluid analysis for JC viral DNA are recommended.
+If the initial evaluations for PML are negative but clinical suspicion for PML remains, continue to withhold TYSABRI dosing and repeat the evaluations.
+
 There are no known interventions that can adequately treat PML if it occurs.
 Three sessions of plasma exchange over 5 to 8 days were shown to accelerate TYSABRI clearance in a study of 12 patients with MS who did not have PML, although in the majority of patients alpha-4 integrin receptor binding remained high.
 Adverse events which may occur during plasma exchange include clearance of other medications and volume shifts, which have the potential to lead to hypotension or pulmonary edema.
 Although plasma exchange has not been studied in TYSABRI treated patients with PML, it has been used in such patients in the postmarketing setting to remove TYSABRI more quickly from the circulation.
+Anti-JCV antibody testing should not be performed during or for at least two weeks following plasma exchange due to the removal of antibodies from the serum.
 
-Immune reconstitution inflammatory syndrome (IRIS) has been reported in TYSABRI treated patients who developed PML and subsequently discontinued TYSABRI.
+Immune reconstitution inflammatory syndrome (IRIS) has been reported in the majority of TYSABRI treated patients who developed PML and subsequently discontinued TYSABRI.
 In almost all cases, IRIS occurred after plasma exchange was used to eliminate circulating TYSABRI.
-It presents as an unanticipated clinical decline in the patient's condition after return of immune function (and in some cases after apparent clinical improvement) and, in the case of PML, is often followed by characteristic changes in the MRI.
+It presents as a clinical decline in the patient's condition after TYSABRI removal (and in some cases after apparent clinical improvement) that may be rapid, can lead to serious neurological complications or death and is often associated with characteristic changes in the MRI.
 TYSABRI has not been associated with IRIS in patients discontinuing treatment with TYSABRI for reasons unrelated to PML.
-In TYSABRI treated patients with PML, IRIS has been reported within days to several weeks after plasma exchange.
+In TYSABRI-treated patients with PML, IRIS has been reported within days to several weeks after plasma exchange.
 Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
 ## 5.2 Distribution Program for TYSABRI
@@ -99,6 +133,7 @@ However, the increase in infections was similar in placebo-treated and TYSABRI-t
 Concurrent use of antineoplastic, immunosuppressant, or immunomodulating agents may further increase the risk of infections, including PML and other opportunistic infections, over the risk observed with use of TYSABRI alone [see Boxed Warning, Warnings and Precautions (5.1), Adverse Reactions (6.1)].
 The safety and efficacy of TYSABRI in combination with antineoplastic, immunosuppressant, or immunomodulating agents have not been established.
 Patients receiving chronic immunosuppressant or immunomodulatory therapy or who have systemic medical conditions resulting in significantly compromised immune system function should not ordinarily be treated with TYSABRI.
+The risk of PML is also increased in patients who have been treated with an immunosuppressant prior to receiving TYSABRI [see Warnings and Precautions (5.1)].
 
 For patients with Crohn's disease who start TYSABRI while on chronic corticosteroids, commence steroid withdrawal as soon as a therapeutic benefit has occurred.
 If the patient cannot discontinue systemic corticosteroids within six months, discontinue TYSABRI.
@@ -114,9 +149,9 @@ TYSABRI should be discontinued in patients with jaundice or other evidence of si
 
 ## 5.6 Laboratory Test Abnormalities
 
-TYSABRI induces increases in circulating lymphocytes, monocytes, eosinophils, basophils, and nucleated red blood cells.
-Observed changes persist during TYSABRI exposure, but are reversible, returning to baseline levels usually within 16 weeks after the last dose.
-Elevations of neutrophils are not observed.
+In clinical trials, TYSABRI was observed to induce increases in circulating lymphocytes, monocytes, eosinophils, basophils, and nucleated red blood cells.
+Observed changes persisted during TYSABRI exposure, but were reversible, returning to baseline levels usually within 16 weeks after the last dose.
+Elevations of neutrophils were not observed.
 TYSABRI induces mild decreases in hemoglobin levels that are frequently transient.
 
 ## 5.7 Immunizations

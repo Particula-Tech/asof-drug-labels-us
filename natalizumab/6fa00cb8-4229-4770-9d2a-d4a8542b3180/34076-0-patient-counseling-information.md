@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide (17.6)
+See FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 General Counseling Information
 
@@ -34,7 +34,7 @@ Instruct the patient of the importance of contacting their doctor if they develo
 Inform patients that TYSABRI may cause liver injury.
 Instruct the patient to contact their doctor if they develop symptoms of hepatoxicity [see Warnings and Precautions (5.5)].
 
-I61061-8
+I61061-17
 
 TYSABRI (natalizumab)
 
@@ -42,10 +42,8 @@ Manufactured by: Biogen Idec Inc. 14 Cambridge Center Cambridge, MA 02142 USA 1-
 
 Distributed by: Elan Pharmaceuticals, Inc. South San Francisco, CA 94080
 
-© 2009 Biogen Idec Inc. All rights reserved.
+© 2012 Biogen Idec Inc. All rights reserved.
 
 TYSABRI® is a registered trademark of Elan Pharmaceuticals, Inc. AVONEX® is a registered trademark of Biogen Idec TOUCH® is a registered trademark of Elan Pharmaceuticals, Inc.
 
-U.S. Patent Numbers: 5,840,299, 6,033,665, 6,602,503, 5,168,062, 5,385,839, 5,730,978
-
-## 17.6 Medication Guide
+U.S. Patent Numbers: 5,840,299; 6,602,503
