@@ -5,7 +5,9 @@
   "inn": "clobetasol",
   "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
-    "0299-3847-04"
+    "0299-3847-00",
+    "0299-3847-04",
+    "0299-3847-05"
   ],
   "products": [
     {
