@@ -1,4 +1,4 @@
-# Principle Display Panel – Bottle Label
+# Principal Display Panel – Bottle Label
 
 NDC 48878-0620-1
 
@@ -8,11 +8,18 @@ Peridex™
 
 Oral rinse
 
-Ingredients: 0.12% chlorhexidine gluconate in a base
+DIRECTIONS FOR USE: Fill cap to the “fill line” (15 ml).
+Swish in
 
-containing water, 11.6% alcohol, glycerin, PEG-40 sorbitan
+mouth undiluted for 30 seconds, then spit out.
+Use after breakfast
 
-diisostearate, flavor, sodium saccharin and FD&C Blue No. !1.
+and before bedtime.
+Or, use as prescribed.
+
+NOTE: To minimize medicinal taste, do not rinse with water
+
+immediately after use.
 
 Rx only
 
