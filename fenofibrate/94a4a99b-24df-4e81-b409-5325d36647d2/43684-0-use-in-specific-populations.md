@@ -25,7 +25,7 @@ A decision should be made whether to discontinue nursing or to discontinue the d
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
@@ -40,3 +40,7 @@ Consider monitoring renal function in elderly patients taking Triglide.
 The use of Triglide should be avoided in patients with severe renal impairment [see Contraindications (4)].
 Dose reduction is required in patients with mild to moderate renal impairment [See Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 Monitoring renal function in patients with renal impairment is recommended.
+
+## 8.7 Hepatic Impairment
+
+The use of Triglide has not been evaluated in subjects with hepatic impairment [see Contraindications (4) and Clinical Pharmacology (12.3)].

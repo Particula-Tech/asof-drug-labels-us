@@ -9,15 +9,17 @@ Patients should be advised:
 - to inform their physician of all medications, supplements, and herbal preparations they are taking and any change in their medical condition.
 - to inform a physician prescribing a new medication, that they are taking Triglide.
 - to continue to follow an appropriate lipid-modifying diet while taking Triglide.
-- to take Triglide once daily at the prescribed dose, swallow each tablet whole.
+- to take Triglide once daily at the prescribed dose, swallowing each tablet whole.
 - to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
 - to return to their physician’s office for routine monitoring.
 
-Distributed by: Shionogi Inc. Florham Park, NJ 07932
+Distributed by: Shionogi Inc.
 
-TRI-PI-01
+Florham Park, NJ 07932
+
+TRI-PI-02
 
 Rev.
-04/2012
+01/2013
 
 © Shionogi Inc. All rights reserved.

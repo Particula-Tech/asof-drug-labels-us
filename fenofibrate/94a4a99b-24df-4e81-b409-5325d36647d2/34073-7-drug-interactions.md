@@ -13,6 +13,10 @@ Frequent PT/INR determinations are advisable until it has been definitely determ
 Immunosuppressants such as cyclosporine and tacrolimus can produce nephrotoxicity with decreases in creatinine clearance and rises in serum creatinine, and because renal excretion is the primary elimination route of fibrate drugs including Triglide, there is a risk that an interaction will lead to deterioration of renal function.
 The benefits and risks of using Triglide with immunosuppressants and other potentially nephrotoxic agents should be carefully considered, and the lowest effective dose employed and renal function monitored.
 
-## 7.3 Bile-Acid Resins
+## 7.3 Bile-Acid Binding Resins
 
-Since bile acid resins may bind other drugs given concurrently, patients should take Triglide at least 1 hour before or 4 to 6 hours after a bile acid binding resin to avoid impeding its absorption.
+Since bile acid binding resins may bind other drugs given concurrently, patients should take Triglide at least 1 hour before or 4 to 6 hours after a bile acid binding resin to avoid impeding its absorption.
+
+## 7.4 Colchicine
+
+Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine.

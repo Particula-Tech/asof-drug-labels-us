@@ -4,6 +4,9 @@
 
 Patients should be placed on an appropriate lipid-lowering diet before receiving Triglide, and should continue this diet during treatment with Triglide.
 Triglide tablets can be given without regard to meals.
+Patients should be advised to swallow Triglide tablets whole.
+Do not crush, dissolve or chew tablets.
+
 The initial treatment for dyslipidemia is dietary therapy specific for the type of lipoprotein abnormality.
 Excess body weight and excess alcoholic intake may be important factors in hypertriglyceridemia and should be addressed prior to any drug therapy.
 Physical exercise can be an important ancillary measure.
@@ -27,8 +30,8 @@ The maximum dose is 160 mg once daily.
 ## 2.4 Impaired Renal Function
 
 Treatment with Triglide should be initiated at a dose of 50 mg per day in patients with mild to moderately impaired renal function, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
-The use of Triglide should be avoided in patients with severe renal impairment [see Use in Special Populations (8.6) and Clinical Pharmacology (12.3).
+The use of Triglide should be avoided in patients with severe renal impairment [see Use in Special Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Geriatric Patients
 
-Dose selection for the elderly should be made on the basis of renal function [See Use in Special Populations (8.5)].
+Dose selection for the elderly should be made on the basis of renal function [See Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].

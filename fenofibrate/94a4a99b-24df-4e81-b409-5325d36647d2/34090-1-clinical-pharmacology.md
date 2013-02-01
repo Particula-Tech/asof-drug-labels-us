@@ -1,20 +1,19 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The active moiety of Triglide is fenofibric acid.
 The pharmacological effects of fenofibric acid in both animals and humans have been extensively studied through oral administration of fenofibrate.
 
-The effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of perxisome proliferators activated receptor α (PPARα).
+The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of perxisome proliferators activated receptor α (PPARα).
 Through this mechanism, fenofibrate increases lipolysis and elimination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of apoprotein C-III (an inhibitor of lipoprotein lipase activity).
-
 The resulting decrease in TG produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be artherogenic due to their susceptibility to oxidation), to large buoyant particles.
 These larger particles have a greater affinity for cholesterol receptors and are catabolized rapidly.
 Activation of PPARα also induces an increase in the synthesis of apoproteins A-I, A-II and HDL-cholesterol.
 
 Fenofibrate also reduces serum uric acid levels in hyperuricemic and normal individuals by increasing the urinary excretion of uric acid.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 A variety of clinical studies have demonstrated that elevated levels of TC, LDL-C, and apo B, an LDL membrane complex, are associated with human atherosclerosis.
 Similarly, decreased levels of HDL-C and its transport complex, apolipoprotein A (apo AI and apo AII) are associated with the development of atherosclerosis.
@@ -46,13 +45,13 @@ Fenofibric acid is primarily conjugated with glucuronic acid and then excreted i
 A small amount of fenofibric acid is reduced at the carbonyl moiety to a benzhydrol metabolite which is, in turn, conjugated with glucuronic acid and excreted in urine.
 In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (e.g., cytochrome P450) to a significant extent.
 
-Excretion: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
+Elimination: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
 After administration of radiolabelled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
-Fenofibric acid is eliminated with a half-life of approximately 16 hours, allowing once daily administration in a clinical setting.
+Fenofibric acid is eliminated with a half-life of approximately 16 hours, allowing once daily dosing.
 
 Geriatrics: In elderly volunteers 77 to 87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
 This indicates that a similar dosage regimen can be used in the elderly, without increasing accumulation of the drug or metabolites.
-[See Dosage and Administration (2.4) and Use in Special Populations (8.5).]
+[See Dosage and Administration (2.4) and Use in Specific Populations (8.5).]
 
 Pediatrics: Pharmacokinetics of Triglide has not been studied in pediatric patients.
 
@@ -61,9 +60,9 @@ Gender: No pharmacokinetic difference between males and females has been observe
 Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied; however, fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
 
 Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
-Patients with severe renal impairment (creatinine clearance [CrCl ≤ 30 mL/min] < 30 mL/min) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
-Patients with mild (CrCl 50-80 mL/min) to moderate renal impairment (CrCl 30-50 mL/min) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
-Based on these findings, the use of Triglide should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
+Patients with severe renal impairment (creatinine clearance [CrCl ≤ 30 mL/min] < 30 mL/min or estimated glomerular filtration rate [eGFR] <30 mL/min/1.73 m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
+Patients with mild to moderate renal impairment (CrCl 30-80 mL/min or eGRF 30-59 mL/min/1.73 m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
+Based on these findings, the use of Triglide should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment [see Dosage and Administration (2.4).]
 
 Hepatic Impairment: No pharmacokinetic studies have been conducted in patients having hepatic impairment.
 
