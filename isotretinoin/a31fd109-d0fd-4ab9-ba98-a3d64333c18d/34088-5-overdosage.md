@@ -9,5 +9,5 @@ Female patients of childbearing potential who present with isotretinoin overdose
 Patients who are pregnant should receive counseling about the risks to the fetus, as described in the Boxed CONTRAINDICATIONS AND WARNINGS.
 Non-pregnant patients must be warned to avoid pregnancy for at least one month and receive contraceptive counseling as described in PRECAUTIONS.
 Educational materials for such patients can be obtained by calling the manufacturer.
-Because an overdose would be expected to result in higher levels of isotretinoin in semen than found during a normal treatment course, male patients should use a condom, or avoid reproductive sexual activity with a female patient who is or might become pregnant, for 1 month after the overdose.
-All patients with isotretinoin overdose should not donate blood for at least 1 month.
+Because an overdose would be expected to result in higher levels of isotretinoin in semen than found during a normal treatment course, male patients should use a condom, or avoid reproductive sexual activity with a female patient who is or might become pregnant, for one month after the overdose.
+All patients with isotretinoin overdose should not donate blood for at least one month.

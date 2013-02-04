@@ -18,9 +18,9 @@ What is the most important information I should know about Claravis?
    Female patients who are pregnant or who plan to become pregnant must not take Claravis.
    Female patients must not get pregnant:
 
-- for 1 month before starting Claravis
+- for one month before starting Claravis
 - while taking Claravis
-- for 1 month after stopping Claravis.
+- for one month after stopping Claravis.
 
 If you get pregnant while taking Claravis, stop taking it right away and call your doctor.
 Doctors and patients should report all cases of pregnancy to:
@@ -128,7 +128,7 @@ How should I take Claravis?
   You must also follow all the instructions of the iPLEDGE program.
   Before prescribing Claravis, your doctor will:
 - explain the iPLEDGE program to you
-- have you sign the Patient Information/Informed Consent (for all patients).
+- have you sign the Patient Information/Informed Consent form (for all patients).
   Female patients who can get pregnant must also sign another consent form.
 
 You will not be prescribed Claravis if you cannot agree to or follow all the instructions of the iPLEDGE program.
@@ -150,22 +150,22 @@ You will not be prescribed Claravis if you cannot agree to or follow all the ins
 - You must return to your doctor as directed to make sure you don’t have signs of serious side effects.
   Your doctor may do blood tests to check for serious side effects from Claravis.
   Female patients who can get pregnant will get a pregnancy test each month.
-- Female patients who can get pregnant must agree to use 2 separate forms of effective birth control at the same time 1 month before, while taking, and for 1 month after taking Claravis.
-  You must access the iPLEDGE system to answer questions about the program requirements and to enter your 2 chosen forms of birth control.
+- Female patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Claravis.
+  You must access the iPLEDGE system to answer questions about the program requirements and to enter your two chosen forms of birth control.
   To access the iPLEDGE system, go to www.ipledgeprogram.com or call 1-866-495-0654.
 
 You must talk about effective birth control methods with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
 Your doctor can arrange this free visit, which will be paid for by the company that makes Claravis.
 
-If you have sex at any time without using 2 forms of effective birth control, get pregnant, or miss your expected period, stop using Claravis and call your doctor right away.
+If you have sex at any time without using two forms of effective birth control, get pregnant, or miss your expected period, stop using Claravis and call your doctor right away.
 
 What should I avoid while taking Claravis?
 
-- Do not get pregnant while taking Claravis and for 1 month after stopping Claravis.
+- Do not get pregnant while taking Claravis and for one month after stopping Claravis.
   See "What is the most important information I should know about Claravis?”
-- Do not breast feed while taking Claravis and for 1 month after stopping Claravis.
+- Do not breast feed while taking Claravis and for one month after stopping Claravis.
   We do not know if Claravis can pass through your milk and harm the baby.
-- Do not give blood while you take Claravis and for 1 month after stopping Claravis.
+- Do not give blood while you take Claravis and for one month after stopping Claravis.
   If someone who is pregnant gets your donated blood, her baby may be exposed to Claravis and may be born with birth defects.
 - Do not take other medicines or herbal products with Claravis unless you talk to your doctor.
   See “What should I tell my doctor before taking Claravis?”
@@ -283,15 +283,17 @@ Inactive Ingredients: Each capsule contains the following inactive ingredients: 
 In addition, the 10 mg capsule contains black iron oxide and FD&C yellow no. 6.
 The 20 mg capsule contains black iron oxide, red iron oxide and yellow iron oxide.
 The 30 mg capsule contains red iron oxide and yellow iron oxide.
-The 40 mg capsule FD&C yellow no. 6.
+The 40 mg capsule contains colloidal silicon, sodium lauryl sulfate, and FD&C yellow no. 6.
 
-The edible imprinting ink contains: 10 mg strength, D&C red no. 7 calcium lake, ethylene glycol monoethyl ether, FD&C yellow no. 6 aluminum lake, pharmaceutical shellac and titanium dioxide; 20 mg strength, ammonium hydroxide, pharmaceutical glaze, propylene glycol, simethicone and titanium dioxide; the 30 mg strength, D&C yellow no. 10 aluminum lake, FD&C blue no.1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, iron oxide black, propylene glycol, and shellac glaze; the 40 mg strength, ammonium hydroxide, FD&C blue no. 2, iron oxide black, propylene glycol, and shellac glaze.
+The edible imprinting ink contains: 10 mg strength, D&C red no. 7 calcium lake, ethylene glycol monoethyl ether, FD&C yellow no. 6 aluminum lake, shellac glaze and titanium dioxide; 20 mg strength, ammonium hydroxide, propylene glycol, shellac glaze, simethicone and titanium dioxide; the 30 mg strength, D&C yellow no. 10 aluminum lake, FD&C blue no.1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, iron oxide black, propylene glycol, and shellac glaze; the 40 mg strength, ammonium hydroxide, FD&C blue no. 2 aluminum lake, iron oxide black, propylene glycol, and shellac glaze.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Dilantin is a registered trademark of Warner-Lambert Company LLC.
 
-BARR LABORATORIES, INC. POMONA, NY 10970
+BARR LABORATORIES, INC.
 
-Iss.
-2/2010 BR-1054, 1055, 1056, 1057
+Pomona, NY 10970
+
+Rev.
+B 5/2012

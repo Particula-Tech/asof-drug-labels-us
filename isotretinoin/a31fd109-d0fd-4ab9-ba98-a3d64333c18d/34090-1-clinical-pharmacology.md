@@ -10,7 +10,7 @@ The decrease in sebum secretion is temporary and is related to the dose and dura
 
 ## Pharmacokinetics
 
-### Absorption:
+### Absorption
 
 Due to its high lipophilicity, oral absorption of isotretinoin is enhanced when given with a high-fat meal.
 In a crossover study, 74 healthy adult subjects received a single 80 mg oral dose (2 x 40 mg capsules) of Claravis under fasted and fed conditions.
@@ -22,18 +22,18 @@ Therefore, Claravis capsules should always be taken with food (see DOSAGE AND AD
 Clinical studies have shown that there is no difference in the pharmacokinetics of isotretinoin between patients with nodular acne and healthy subjects with normal skin.
 
 Table 2.
-Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N=74
+Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N = 74
 
 | Claravis 2 x 40 mg Capsules | AUCo-∞(ng • hr/mL) | Cmax(ng/mL) | Tmax(hr) | t½(hr) |
 | --- | --- | --- | --- | --- |
 | FedEating a standardized high-fat meal | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
 | Fasted | 3,703 (46%) | 301 (63%) | 3.2 (56%) | 21 (30%) |
 
-### Distribution:
+### Distribution
 
 Isotretinoin is more than 99.9% bound to plasma proteins, primarily albumin.
 
-### Metabolism:
+### Metabolism
 
 Following oral administration of isotretinoin, at least three metabolites have been identified in human plasma: 4-oxo-isotretinoin, retinoic acid (tretinoin), and 4-oxo-retinoic acid (4-oxo-tretinoin).
 Retinoic acid and 13-cis-retinoic acid are geometric isomers and show reversible interconversion.
@@ -49,7 +49,7 @@ After multiple oral dose administration of isotretinoin to adult cystic acne pat
 In vitro studies indicate that the primary P450 isoforms involved in isotretinoin metabolism are 2C8, 2C9, 3A4, and 2B6.
 Isotretinoin and its metabolites are further metabolized into conjugates, which are then excreted in urine and feces.
 
-### Elimination:
+### Elimination
 
 Following oral administration of an 80 mg dose of 14C-isotretinoin as a liquid suspension, 14C-activity in blood declined with a half-life of 90 hours.
 The metabolites of isotretinoin and any conjugates are ultimately excreted in the feces and urine in relatively equal amounts (total of 65% to 83%).
@@ -58,22 +58,22 @@ After both single and multiple doses, the observed accumulation ratios of isotre
 
 ## Special Patient Populations
 
-### Pediatric Patients:
+### Pediatric Patients
 
-The pharmacokinetics of isotretinoin were evaluated after single and multiple doses in 38 pediatric patients (12 to 15 years) and 19 adult patients (≥18 years) who received isotretinoin for the treatment of severe recalcitrant nodular acne.
+The pharmacokinetics of isotretinoin were evaluated after single and multiple doses in 38 pediatric patients (12 to 15 years) and 19 adult patients (≥ 18 years) who received isotretinoin for the treatment of severe recalcitrant nodular acne.
 In both age groups, 4-oxo-isotretinoin was the major metabolite; tretinoin and 4-oxo-tretinoin were also observed.
 The dose-normalized pharmacokinetic parameters for isotretinoin following single and multiple doses are summarized in Table 3 for pediatric patients.
 There were no statistically significant differences in the pharmacokinetics of isotretinoin between pediatric and adult patients.
 
 Table 3.
-Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Administration in Pediatric Patients, 12 to 15 Years of Age Mean (± SD), N=38The single and multiple dose data in this table were obtained following a non-standardized meal that is not comparable to the high-fat meal that was used in the study in Table 2.
+Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Administration in Pediatric Patients, 12 to 15 Years of Age Mean (± SD), N = 38The single and multiple dose data in this table were obtained following a non-standardized meal that is not comparable to the high-fat meal that was used in the study in Table 2.
 
 | Parameter | Isotretinoin (Single Dose) | Isotretinoin (Steady-State) |
 | --- | --- | --- |
 | Cmax (ng/mL) | 573.25 (278.79) | 731.98 (361.86) |
-| AUC(0-12) (ng·hr/mL) | 3033.37 (1394.17) | 5082.00 (2184.23) |
-| AUC(0-24) (ng·hr/mL) | 6003.81 (2885.67) | -- |
-| Tmax (hr)Median (range) | 6.00 (1.00-24.60) | 4.00 (0-12.00) |
+| AUC(0 to 12) (ng·hr/mL) | 3033.37 (1394.17) | 5082 (2184.23) |
+| AUC(0 to 24) (ng·hr/mL) | 6003.81 (2885.67) | -- |
+| Tmax (hr)Median (range) | 6 (1 to 24.6) | 4 (0 to 12) |
 | CSSmin (ng/mL) | -- | 352.32 (184.44) |
 | T½ (hr) | -- | 15.69 (5.12) |
 | CL/F (L/hr) | -- | 17.96 (6.27) |

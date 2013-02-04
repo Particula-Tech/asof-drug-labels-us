@@ -1,6 +1,10 @@
 # CONTRAINDICATIONS
 
-## Pregnancy: Category X
+## Pregnancy
+
+### Teratogenic effects
+
+#### Category X
 
 See Boxed CONTRAINDICATIONS AND WARNINGS.
 

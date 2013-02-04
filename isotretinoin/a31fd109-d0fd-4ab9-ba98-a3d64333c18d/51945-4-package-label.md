@@ -8,22 +8,23 @@
 
 ## Claravis 10 mg Capsules Prescription Blister 10s Pack Text
 
-Barr
+Barr Laboratories Inc.
 
-Laboratories Inc. Claravis TM (isotretinoin capsules, USP)
+Claravis TM (isotretinoin capsules, USP) Each capsule contains 10 mg isotretinoin
 
-Each capsule contains 10 mg isotretinoin Prescription Blister Pack
+Prescription Blister Pack 10 Capsules
 
-10 Capsules Rx only PATIENT:
+Rx only
 
-READ INFORMATION CAREFULLY.
-CAUSES BIRTH DEFECTS DO NOT GET PREGNANT
+PATIENT: READ INFORMATION CAREFULLY.
+
+CAUSES BIRTH DEFECTS
+
+DO NOT GET PREGNANT
 
 10 mg PHARMACISTS: DISPENSE INTACT.
 
-THIS AREA FOR
-
-PRESCRIPTION LABEL
+THIS AREA FOR PRESCRIPTION LABEL
 
 # PRINCIPAL DISPLAY PANEL, Part 1 of 4
 
@@ -35,22 +36,23 @@ PRESCRIPTION LABEL
 
 ## Claravis 20 mg Capsules Prescription Blister 10s Pack Text
 
-Barr
+Barr Laboratories Inc.
 
-Laboratories Inc. Claravis TM (isotretinoin capsules, USP)
+Claravis TM (isotretinoin capsules, USP) Each capsule contains 20 mg isotretinoin
 
-Each capsule contains 20 mg isotretinoin Prescription Blister Pack
+Prescription Blister Pack 10 Capsules
 
-10 Capsules Rx only PATIENT:
+Rx only
 
-READ INFORMATION CAREFULLY.
-CAUSES BIRTH DEFECTS DO NOT GET PREGNANT
+PATIENT: READ INFORMATION CAREFULLY.
+
+CAUSES BIRTH DEFECTS
+
+DO NOT GET PREGNANT
 
 20 mg PHARMACISTS: DISPENSE INTACT.
 
-THIS AREA FOR
-
-PRESCRIPTION LABEL
+THIS AREA FOR PRESCRIPTION LABEL
 
 # PRINCIPAL DISPLAY PANEL, Part 1 of 4
 
@@ -62,22 +64,21 @@ PRESCRIPTION LABEL
 
 ## Claravis 30 mg Capsules Prescription Blister 10s Pack Text
 
-Barr
+Barr Laboratories Inc.
 
-Laboratories Inc. Claravis TM (isotretinoin capsules, USP)
+Claravis TM (isotretinoin capsules, USP) Each capsule contains 30 mg isotretinoin
 
-Each capsule contains 30 mg isotretinoin Prescription Blister Pack
+Prescription Blister Pack 10 Capsules
 
-10 Capsules Rx only PATIENT:
+Rx only
 
-READ INFORMATION CAREFULLY.
+PATIENT: READ INFORMATION CAREFULLY.
+
 CAUSES BIRTH DEFECTS DO NOT GET PREGNANT
 
 30 mg PHARMACISTS: DISPENSE INTACT.
 
-THIS AREA FOR
-
-PRESCRIPTION LABEL
+THIS AREA FOR PRESCRIPTION LABEL
 
 # PRINCIPAL DISPLAY PANEL, Part 1 of 4
 
@@ -89,19 +90,20 @@ PRESCRIPTION LABEL
 
 ## Claravis 40 mg Capsules Prescription Blister 10s Pack Text
 
-Barr
+Barr Laboratories Inc.
 
-Laboratories Inc. Claravis TM (isotretinoin capsules, USP)
+Claravis TM (isotretinoin capsules, USP) Each capsule contains 40 mg isotretinoin
 
-Each capsule contains 40 mg isotretinoin Prescription Blister Pack
+Prescription Blister Pack 10 Capsules
 
-10 Capsules Rx only PATIENT:
+Rx only
 
-READ INFORMATION CAREFULLY.
-CAUSES BIRTH DEFECTS DO NOT GET PREGNANT
+PATIENT: READ INFORMATION CAREFULLY.
+
+CAUSES BIRTH DEFECTS
+
+DO NOT GET PREGNANT
 
 40 mg PHARMACISTS: DISPENSE INTACT.
 
-THIS AREA FOR
-
-PRESCRIPTION LABEL
+THIS AREA FOR PRESCRIPTION LABEL
