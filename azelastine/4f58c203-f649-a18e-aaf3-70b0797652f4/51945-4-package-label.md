@@ -1,8 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
-
-Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
-
-PRINCIPAL DISPLAY PANEL - 137 mcg/spray BOTTLE LABEL
+# PRINCIPAL DISPLAY PANEL - BOTTLE LABEL
 
 APOTEX CORP. NDC 60505-0833-5
 

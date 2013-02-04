@@ -1,16 +1,16 @@
-# PATIENT: How to Use Instructions
+# PATIENT: How to Use Instructions Rx Only Azelastine Hydrochloride Nasal Solution 0.1% (Nasal Spray), 137 mcg/spray
 
 FOR INTRANASAL USE ONLY
 
 IMPORTANT: FOLLOW INSTRUCTIONS CAREFULLY TO ENSURE PROPER DOSING.
 
-DOSING: The dosage of azelastine hydrochloride nasal solution is 1 spray per nostril twice daily for pediatric patients (ages 5-11 years) with seasonal allergic rhinitis.
+DOSING: The dosage of azelastine hydrochloride nasal solution is 1 spray per nostril twice daily for pediatric patients (ages 5 to 11 years) with seasonal allergic rhinitis.
 For patients age 12 and older with seasonal allergic rhinitis the dosage is one or two sprays per nostril twice daily.
 For patients age 12 and older with nonallergic vasomotor rhinitis the dosage is two sprays per nostril twice daily.
 Keep your head tilted downward when spraying.
 Alternate sprays between nostrils.
 Breathe gently to avoid drawing any medication into the throat.
-Follow the instructions below to use your Azelastine Hydrochloride Nasal Solution 0.1% (Nasal Spray) pump.
+Follow the instructions below to use your azelastine hydrochloride nasal solution 0.1% (nasal spray) pump.
 
 TO PRIME:
 
@@ -54,6 +54,7 @@ Breathe in gently, and do not tilt head back after dosing to avoid drawing medic
 
 CAUTION: Keep bottle tightly closed and away from children.
 In case of accidental ingestion by a young child, seek professional assistance or contact a poison control center immediately.
+
 Do not spray in eyes.
 
 NOTE: Keep the dust cover and safety clip on the spray pump unit when not in use.
@@ -62,10 +63,12 @@ After each use and before replacing the dust cover, wipe the spray tip with a cl
 TO CLEAN:
 
 1.
-If spray nozzle becomes clogged, DO NOT ATTEMPT TO CLEAR IT USING A POINTED OBJECT.Remove the spray pump unit from the bottle.
+If spray nozzle becomes clogged, DO NOT ATTEMPT TO CLEAR IT USING A POINTED OBJECT.
+Remove the spray pump unit from the bottle.
 
 2.
-Soak only the spray pump unit in warm water.Squirt several times while holding under water.
+Soak only the spray pump unit in warm water.
+Squirt several times while holding under water.
 
 3.
 Make sure the spray pump unit is dry.
@@ -79,7 +82,7 @@ To avoid leakage, firm pressure is required to ensure that the pump is fully thr
 6.
 Follow instructions for priming.
 
-Store upright at 20º-25ºC (68º-77ºF) [See USP Controlled Room Temperature].
+Store upright at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 Protect from freezing.
 Keep bottle tightly closed and away from children.
 
@@ -89,6 +92,4 @@ Keep bottle tightly closed and away from children.
 | Toronto, Ontario | Weston, FL |  |
 | Canada M9L 1T9 | 33326 |  |
 
-241533
-
-January 2009
+December 2012

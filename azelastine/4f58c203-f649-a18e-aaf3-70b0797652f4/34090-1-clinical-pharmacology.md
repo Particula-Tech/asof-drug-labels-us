@@ -7,7 +7,7 @@ The major metabolite, desmethylazelastine, also possesses H1-receptor antagonist
 ## Pharmacokinetics and Metabolism
 
 After intranasal administration, the systemic bioavailability of azelastine hydrochloride is approximately 40%.
-Maximum plasma concentrations (Cmax) are achieved in 2-3 hours.
+Maximum plasma concentrations (Cmax) are achieved in 2 to 3 hours.
 Based on intravenous and oral administration, the elimination half-life, steady-state volume of distribution, and plasma clearance are 22 hours, 14.5 L/kg, and 0.5 L/h/kg, respectively.
 Approximately 75% of an oral dose of radiolabeled azelastine hydrochloride was excreted in the feces with less than 10% as unchanged azelastine.
 Azelastine is oxidatively metabolized to the principal active metabolite, desmethylazelastine, by the cytochrome P450 enzyme system.
@@ -15,7 +15,7 @@ The specific P450 isoforms responsible for the biotransformation of azelastine h
 In a multiple-dose, steady-state drug interaction study in normal volunteers, cimetidine (400 mg twice daily), a nonspecific P450 inhibitor, raised orally administered mean azelastine (4 mg twice daily) concentrations by approximately 65%.
 
 The major active metabolite, desmethylazelastine, was not measurable (below assay limits) after single-dose intranasal administration of azelastine hydrochloride.
-After intranasal dosing of azelastine hydrochloride to steady-state, plasma concentrations of desmethylazelastine range from 20-50% of azelastine concentrations.
+After intranasal dosing of azelastine hydrochloride to steady-state, plasma concentrations of desmethylazelastine range from 20 to 50% of azelastine concentrations.
 When azelastine hydrochloride is administered orally, desmethylazelastine has an elimination half-life of 54 hours.
 Limited data indicate that the metabolite profile is similar when azelastine hydrochloride is administered via the intranasal or oral route.
 
@@ -29,7 +29,7 @@ Studies in healthy subjects administered oral doses of azelastine hydrochloride 
 
 Following oral administration, pharmacokinetic parameters were not influenced by age, gender, or hepatic impairment.
 
-Based on oral, single-dose studies, renal insufficiency (creatinine clearance <50 mL/min) resulted in a 70-75% higher Cmax and AUC compared to normal subjects.
+Based on oral, single-dose studies, renal insufficiency (creatinine clearance <50 mL/min) resulted in a 70 to 75% higher Cmax and AUC compared to normal subjects.
 Time to maximum concentration was unchanged.
 
 Oral azelastine has been safely administered to over 1400 asthmatic subjects, supporting the safety of administering azelastine hydrochloride nasal solution to allergic rhinitis patients with asthma.
@@ -37,7 +37,7 @@ Oral azelastine has been safely administered to over 1400 asthmatic subjects, su
 ## Pharmacodynamics
 
 In a placebo-controlled study (95 subjects with allergic rhinitis), there was no evidence of an effect of azelastine hydrochloride nasal solution (2 sprays per nostril twice daily for 56 days) on cardiac repolarization as represented by the corrected QT interval (QTc) of the electrocardiogram.
-At higher oral exposures (≥4 mg twice daily), a nonclinically significant mean change on the QTc (3-7 millisecond increase) was observed.
+At higher oral exposures (≥4 mg twice daily), a nonclinically significant mean change on the QTc (3 to 7 millisecond increase) was observed.
 
 Interaction studies investigating the cardiac repolarization effects of concomitantly administered oral azelastine hydrochloride and erythromycin or ketoconazole were conducted.
 Oral erythromycin had no effect on azelastine pharmacokinetics or QTc based on analysis of serial electrocardiograms.
@@ -52,11 +52,11 @@ Ketoconazole interfered with the measurement of azelastine plasma levels; howeve
 U.S. placebo-controlled clinical trials of azelastine hydrochloride nasal solution included 322 patients with seasonal allergic rhinitis who received two sprays per nostril twice a day for up to 4 weeks.
 These trials included 55 pediatric patients ages 12 to 16 years.
 Azelastine hydrochloride nasal solution showed significant improvement compared to placebo in the two primary efficacy variables – the Total Symptom Complex (TSC) and the Major Symptom Complex (MSC).
-The results for the MSC are shown in Table 1 as the mean change from Baseline in the average of individual symptoms of nose blows, sneezes, runny nose/sniffles, itchy nose and watery eyes as assessed by patients on a 0-5 categorical scale.
+The results for the MSC are shown in Table 1 as the mean change from Baseline in the average of individual symptoms of nose blows, sneezes, runny nose/sniffles, itchy nose and watery eyes as assessed by patients on a 0 to 5 categorical scale.
 
 Table 1: Summary of Primary Efficacy* Analyses for Pivotal Studies Supporting Two Sprays Per Nostril Twice Daily.
 
-|  | Azelastine HCl Nasal Solution | Placebo | Outcomes |  |
+|  | Azelastine HCl Nasal Solution | PlaceboNasal Spray | Outcomes |  |
 | --- | --- | --- | --- | --- |
 | Azelastine HCl Nasal Solution vs. Placebo |  |  |  |  |
 | Mean (SD) |  | Difference between Treatments | P value |  |
@@ -72,16 +72,18 @@ Table 1: Summary of Primary Efficacy* Analyses for Pivotal Studies Supporting Tw
 | Sample Size | N=66 | N=66 |  |  |
 | Baseline | 12.04 (4.03) | 11.66 (3.96) |  |  |
 | Change from Baseline | -3.31 (3.74) | -1.96 (3.57) | 1.35 | 0.0374 |
-| * Average of individual symptoms of nose blows, sneezes, runny nose/sniffles, itchy nose, and watery eyes as assessed by patients on a 0-5 categorical scale. |  |  |  |  |
+| * Average of individual symptoms of nose blows, sneezes, runny nose/sniffles, itchy nose, and watery eyes as assessed by patients on a 0 to 5 categorical scale. |  |  |  |  |
 
 #### Trials Supporting One Spray Per Nostril Twice Daily
 
 Two hundred seventy five patients with seasonal allergic rhinitis received azelastine hydrochloride nasal solution one spray per nostril twice daily for 2 weeks in two U.S. placebo-controlled trials.
-The primary efficacy endpoint was the change from Baseline to Day 14 in the Total Nasal Symptom Score [TNSS] (the average of individual scores of runny nose, sneezing, itchy nose, and nasal congestion) as assessed by patients on a 0-3 categorical scale.
+The primary efficacy endpoint was the change from Baseline to Day 14 in the Total Nasal Symptom Score [TNSS] (the average of individual scores of runny nose, sneezing, itchy nose, and nasal congestion) as assessed by patients on a 0 to 3 categorical scale.
 Compared to placebo, azelastine hydrochloride nasal solution significantly improved the TNSS.
 The results are shown in Table 2.
 
-|  | Azelastine HCl Nasal Solution | Placebo | Outcomes |  |
+Table 2: Summary of Primary Efficacy* Analyses for Pivotal Studies Supporting One Spray Per Nostril Twice Daily.
+
+|  | Azelastine HCl Nasal Solution | PlaceboNasal Spray | Outcomes |  |
 | --- | --- | --- | --- | --- |
 | Azelastine HCl Nasal Solution vs. Placebo |  |  |  |  |
 | LS Mean (SD) |  | Difference between Treatments | P value |  |
@@ -93,7 +95,7 @@ The results are shown in Table 2.
 | Sample Size | N=137 | N=136 |  |  |
 | Baseline | 16.62 (4.197) | 16.84 (4.768) |  |  |
 | Change from Baseline | -3.68 (4.163) | -2.50 (4.011) | 1.18 | 0.0173 |
-| * Average of individual symptoms of runny nose, sneezing, itchy nose, and nasal congestion as assessed by patients on a 0-3 categorical scale. |  |  |  |  |
+| * Average of individual symptoms of runny nose, sneezing, itchy nose and nasal congestion as assessed by patients on a 0 to 3 categorical scale. |  |  |  |  |
 
 Two-week studies comparing the efficacy (and safety) of azelastine hydrochloride nasal solution two sprays per nostril twice daily versus one spray per nostril twice daily were not conducted.
 

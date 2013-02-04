@@ -8,6 +8,7 @@ The recommended dose of azelastine hydrochloride nasal solution in children 5 ye
 ## Vasomotor Rhinitis
 
 The recommended dose of azelastine hydrochloride nasal solution in adults and children 12 years and older with vasomotor rhinitis is two sprays per nostril twice daily.
+
 Before initial use, the delivery system should be primed with 4 sprays or until a fine mist appears.
 When 3 or more days have elapsed since the last use, the pump should be reprimed with 2 sprays or until a fine mist appears.
 

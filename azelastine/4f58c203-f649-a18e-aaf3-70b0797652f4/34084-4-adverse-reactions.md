@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+To report SUSPECTED ADVERSE REACTIONS, contact Apotex Corp., Drug Safety at 1-800-667-4708 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.
+
 ## Seasonal Allergic Rhinitis
 
 ### Azelastine Hydrochloride Nasal Solution Two Sprays Per Nostril Twice Daily
@@ -8,7 +10,7 @@ Adverse experience information for azelastine hydrochloride nasal solution is de
 In placebo-controlled efficacy trials, the incidence of discontinuation due to adverse reactions in patients receiving azelastine hydrochloride nasal solution was not different from vehicle placebo (2.2% vs 2.8%, respectively).
 In these clinical studies, adverse events that occurred more often in patients treated with azelastine hydrochloride nasal solution versus vehicle placebo included bitter taste (19.7% vs 0.6%), somnolence (11.5% vs 5.4%), weight increase (2.0% vs 0%), and myalgia (1.5% vs 0%).
 
-The following table contains adverse events that were reported with frequencies ≥2% in the azelastine hydrochloride nasal solution 2 sprays per nostril twice daily treatment group and more frequently than placebo in short-term (≤2 days) and long-term (2-8 weeks) clinical trials.
+The following table contains adverse events that were reported with frequencies ≥2% in the azelastine hydrochloride nasal solution 2 sprays per nostril twice daily treatment group and more frequently than placebo in short-term (≤2 days) and long-term (2 to 8 weeks) clinical trials.
 
 | ADVERSE EVENT | Azelastine HCl Nasal Spray n = 391 | Vehicle Placebo n = 353 |
 | --- | --- | --- |
@@ -85,4 +87,4 @@ Events observed infrequently (<2% and exceeding placebo incidence) in patients w
 In controlled trials involving nasal and oral azelastine hydrochloride formulations, there were infrequent occurrences of hepatic transaminase elevations.
 The clinical relevance of these reports has not been established.
 
-In addition, the following spontaneous adverse events have been reported during the marketing of azelastine hydrochloride nasal solution and causal relationship with the drug is unknown: anaphylactoid reaction, application site irritation, atrial fibrillation, chest pain, confusion, dyspnea, facial edema, involuntary muscle contractions, palpitations, paresthesia, parosmia, pruritus, rash, disturbance or loss of sense of smell and/or taste, tolerance, urinary retention, vision abnormal, and xerophthalmia.
+In addition, the following spontaneous adverse events have been reported during the marketing of azelastine hydrochloride nasal solution and causal relationship with the drug is unknown: anaphylactoid reaction, application site irritation, atrial fibrillation, chest pain, confusion, dyspnea, facial edema, involuntary muscle contractions, nasal sores, palpitations, paresthesia, parosmia, pruritus, rash, disturbance or loss of sense of smell and/or taste, tolerance, urinary retention, vision abnormal and xerophthalmia.
