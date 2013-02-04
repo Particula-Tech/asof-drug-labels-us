@@ -1,6 +1,7 @@
 # HOW SUPPLIED
 
-CARAFATE (sucralfate) Suspension 1 g/10 mL is a pink suspension supplied in bottles of 14 fl oz (NDC 58914-170-14).
+CARAFATE® (sucralfate) Suspension 1 g/10 mL is a pink suspension supplied in bottles of 14 fl oz (NDC 58914-170-14).
+Dispense as is.
 
 SHAKE WELL BEFORE USING.
 AVOID FREEZING.
@@ -11,12 +12,12 @@ Rx Only
 
 Prescribing Information as of December 2010
 
-Axcan Pharma US, Inc.
+Aptalis Pharma US, Inc.
 
-22 Inverness Center Parkway
+100 Somerset Corporate Boulevard
 
-Birmingham, AL 35242
+Bridgewater, NJ 08807
 
-USA
+www.aptalispharma.com
 
-www.axcan.com
+Carafate® is a reg﻿istered trademark of Aptalis Pharma Canada Inc.

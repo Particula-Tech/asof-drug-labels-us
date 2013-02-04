@@ -55,7 +55,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Clinical studies of CARAFATE Suspension did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of CARAFATE® Suspension did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 (See DOSAGE AND ADMINISTRATION)
