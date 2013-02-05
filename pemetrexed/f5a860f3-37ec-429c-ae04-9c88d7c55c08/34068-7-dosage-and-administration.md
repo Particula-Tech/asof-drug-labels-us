@@ -118,7 +118,7 @@ ALIMTA extravasation should be managed with local standard practice for extravas
    If particulate matter is observed, do not administer.
 5. An appropriate quantity of the reconstituted ALIMTA solution must be further diluted into a solution of 0.9% Sodium Chloride Injection (preservative free), so that the total volume of solution is 100 ml.
    ALIMTA is administered as an intravenous infusion over 10 minutes.
-6. Chemical and physical stability of reconstituted and infusion solutions of ALIMTA were demonstrated for up to 24 hours following initial reconstitution, when stored at refrigerated or ambient room temperature [see USP Controlled Room Temperature] and lighting.
+6. Chemical and physical stability of reconstituted and infusion solutions of ALIMTA were demonstrated for up to 24 hours following initial reconstitution, when stored refrigerated.
    When prepared as directed, reconstitution and infusion solutions of ALIMTA contain no antimicrobial preservatives.
    Discard any unused portion.
 
