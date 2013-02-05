@@ -1,7 +1,5 @@
-Primary Display Panel for NDC 63459-700-60
+# Label for NDC 63459-700-60
 
-Primary Display Panel for NDC 63459-700-11
+# Carton for NDC 63459-700-22
 
-Primary Display Panel for NDC 63459-700-15
-
-Primary Display Panel for NDC 63459-701-60
+# Label for NDC 63459-701-60
