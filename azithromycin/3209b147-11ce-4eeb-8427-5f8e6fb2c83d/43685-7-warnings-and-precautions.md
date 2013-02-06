@@ -47,7 +47,7 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 ## General
 
 Because azithromycin is principally eliminated via the liver, caution should be exercised when azithromycin is administered to patients with impaired hepatic function.
-Due to the limited data in subjects with GFR < 10 mL/min, caution should be exercised when prescribing azithromycin in these patients (see CLINICAL PHARMACOLOGY, Special Populations, Renal Insufficiency).
+Due to the limited data in subjects with GFR < 10 mL/min, caution should be exercised when prescribing azithromycin in these patients (see CLINICAL PHARMACOLOGY, Special Populations, RenalInsufficiency).
 
 Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
@@ -122,7 +122,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-See CLINICAL PHARMACOLOGY; INDICATIONS AND USAGE; and DOSAGE AND ADMINISTRATION.
+See CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION.
 
 Acute Otitis Media (total dosage regimen: 30 mg/kg, see DOSAGE AND ADMINISTRATION): Safety and effectiveness in the treatment of pediatric patients with otitis media under 6 months of age have not been established.
 
@@ -130,7 +130,7 @@ Acute Bacterial Sinusitis (dosage regimen: 10 mg/kg on Days 1 to 3): Safety and 
 Use of azithromycin for the treatment of acute bacterial sinusitis in pediatric patients (6 months of age or greater) is supported by adequate and well-controlled studies in adults, similar pathophysiology of acute sinusitis in adults and pediatric patients, and studies of acute otitis media in pediatric patients.
 
 Community-Acquired Pneumonia (dosage regimen: 10 mg/kg on Day 1 followed by 5 mg/kg on Days 2 to 5): Safety and effectiveness in the treatment of pediatric patients with community-acquired pneumonia under 6 months of age have not been established.
-Safety and effectiveness for pneumonia due to Chlamydiapneumoniae and Mycoplasma pneumoniae were documented in pediatric clinical trials.
+Safety and effectiveness for pneumonia due to Chlamydophilapneumoniae and Mycoplasma pneumoniae were documented in pediatric clinical trials.
 Safety and effectiveness for pneumonia due to Haemophilus influenzae and Streptococcus pneumoniae were not documented bacteriologically in the pediatric clinical trial due to difficulty in obtaining specimens.
 Use of azithromycin for these two microorganisms is supported, however, by evidence from adequate and well-controlled studies in adults.
 

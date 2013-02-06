@@ -22,7 +22,7 @@ Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day reg
 |  | 3 Day Regimen |  | 5 Day Regimen |  |
 | --- | --- | --- | --- | --- |
 | Pharmacokinetic Parameter[mean (SD)] | Day 1 | Day 3 | Day 1 | Day 5 |
-| Cmax (serum, mcg/mL) | 0.44 (0.22) | 0.54 (0.25) | 0.43 (0.2) | 0.24 (0.06) |
+| Cmax (serum, mcg/mL) | 0.44 (0.22) | 0.54 (0.25) | 0.43 (0.20) | 0.24 (0.06) |
 | Serum AUC0-∞ (mcg·hr/mL) | 17.4 (6.2)Total AUC for the entire 3 day and 5 day regimens |  | 14.9 (3.1) |  |
 | Serum T1/2 | 71.8 hr |  | 68.9 hr |  |
 
@@ -154,7 +154,7 @@ Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Pr
 | Carbamazepine | 200 mg/day x 2 days, then 200 mg BID x 18 days | 500 mg/day PO for days 16 to 18 | 7 | 0.97(0.88 to 1.06) | 0.96(0.88 to 1.06) |
 | Cetirizine | 20 mg/day x 11 days | 500 mg PO on day 7, then 250 mg/day on days 8 to 11 | 14 | 1.03(0.93 to 1.14) | 1.02(0.92 to 1.13) |
 | Didanosine | 200 mg PO BID x 21 days | 1,200 mg/day PO on days 8 to 21 | 6 | 1.44(0.85 to 2.43) | 1.14 (0.83 to 1.57) |
-| Efavirenz | 400 mg/day x 7 days | 600 mg PO on day 7 | 14 | 1.0490% Confidence interval not reported | 0.95 |
+| Efavirenz | 400 mg/day x 7 days | 600 mg PO on day 7 | 14 | 1.04- 90% Confidence interval not reported | 0.95 |
 | Fluconazole | 200 mg PO single dose | 1,200 mg PO single dose | 18 | 1.04(0.98 to 1.11) | 1.01(0.97 to 1.05) |
 | Indinavir | 800 mg TID x 5 days | 1,200 mg PO on day 5 | 18 | 0.96(0.86 to 1.08) | 0.9(0.81 to 1) |
 | Midazolam | 15 mg PO on day 3 | 500 mg/day PO x 3 days | 12 | 1.27(0.89 to 1.81) | 1.26(1.01 to 1.56) |
@@ -164,8 +164,8 @@ Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Pr
 | Theophylline | 4 mg/kg I.V. on days 1, 11, 25 | 500 mg PO on day 7, then 250 mg/day on days 8 to 11 | 10 | 1.19(1.02 to 1.4) | 1.02(0.86 to 1.22) |
 | Theophylline | 300 mg PO BID x 15 days | 500 mg PO on day 6, then 250 mg/day on days 7 to 10 | 8 | 1.09(0.92 to 1.29) | 1.08(0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg PO on day1, then 250 mg/dayon day 2 | 12 | 1.06 | 1.02 |
-| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day PO x 7 days | 1,200 mg PO on day 7 | 12 | 0.85(0.75 to 0.97)/0.9(0.78 to 1.03) | 0.87(0.8 to 0.95)/0.96(0.88 to 1.03) |
-| Zidovudine | 500 mg/day PO x 21 days | 600 mg/day PO x 14 days | 5 | 1.12(0.42 to 3.02) | 0.94(0.52 to 1.7) |
+| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day PO x 7 days | 1,200 mg PO on day 7 | 12 | 0.85(0.75 to 0.97)/0.90(0.78 to 1.03) | 0.87(0.80 to 0.95)/0.96(0.88 to 1.03) |
+| Zidovudine | 500 mg/day PO x 21 days | 600 mg/day PO x 14 days | 5 | 1.12(0.42 to 3.02) | 0.94(0.52 to 1.70) |
 | Zidovudine | 500 mg/day PO x 21 days | 1,200 mg/day PO x 14 days | 4 | 1.31(0.43 to 3.97) | 1.3(0.69 to 2.43) |
 | NA - Not Available Mean rifabutin concentrations one-half day after the last dose of rifabutin were 60 ng/mL when coadministered with azithromycin and 71 ng/mL when coadministered with placebo. |  |  |  |  |  |
 
@@ -175,26 +175,32 @@ Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence o
 | Coadministered Drug | Dose of Coadministered Drug | Dose of Azithromycin | n | Ratio (with/withoutcoadministered drug) of Azithromycin PharmacokineticParameters (90% CI);No Effect = 1 |  |
 | --- | --- | --- | --- | --- | --- |
 | Mean Cmax | Mean AUC |  |  |  |  |
-| Efavirenz | 400 mg/day x 7 days | 600 mg PO on day 7 | 14 | 1.22(1.04 to 1.42) | 0.9290% Confidence interval not reported |
+| Efavirenz | 400 mg/day x 7 days | 600 mg PO on day 7 | 14 | 1.22(1.04 to 1.42) | 0.92- 90% Confidence interval not reported |
 | Fluconazole | 200 mg PO single dose | 1,200 mg PO single dose | 18 | 0.82(0.66 to 1.02) | 1.07(0.94 to 1.22) |
-| Nelfinavir | 750 mg TID x 11 days | 1,200 mg PO on day 9 | 14 | 2.36(1.77 to 3.15) | 2.12(1.8 to 2.5) |
+| Nelfinavir | 750 mg TID x 11 days | 1,200 mg PO on day 9 | 14 | 2.36(1.77 to 3.15) | 2.12(1.80 to 2.50) |
 | Rifabutin | 300 mg/day x 10 days | 500 mg PO on day 1, then 250 mg/day on days 2 to 10 | 6 | See footnote below | NA |
-| NA – Not available |  |  |  |  |  |
+| NA - Not available |  |  |  |  |  |
 
 Mean azithromycin concentrations one day after the last dose were 53 ng/mL when coadministered with 300 mg daily rifabutin and 49 ng/mL when coadministered with placebo.
 
 ## Microbiology
 
-Azithromycin acts by binding to the 50S ribosomal subunit of susceptible microorganisms and, thus, interfering with microbial protein synthesis.
-Nucleic acid synthesis is not affected.
+### Mechanism of Action
 
-Azithromycin concentrates in phagocytes and fibroblasts as demonstrated by in vitro incubation techniques.
-Using such methodology, the ratio of intracellular to extracellular concentration was > 30 after one hour incubation.
+Azithromycin binds to the 23S rRNA of the bacterial 50S ribosomal subunit.
+It blocks protein synthesis by inhibiting the transpeptidation/translocation step of protein synthesis and by inhibiting the assembly of the 50S ribosomal subunit.
+
+Azithromycin concentrates in phagocytes and fibroblasts as demonstrated by in vitro incubation techniques.The ratio of intracellular to extracellular concentration was > 30 after one hour incubation.
 In vivo studies suggest that concentration in phagocytes may contribute to drug distribution to inflamed tissues.
 
-Azithromycin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGEsection.
+### Mechanism of Resistance
 
-### Aerobic and facultative gram-positive microorganisms
+The most frequently encountered mechanism of resistance to azithromycin is modification of the 23S rRNA at positions corresponding to A2058 and A2059 in the Escherichia coli numbering system.
+In addition to cross resistance with other macrolides (erythromycin and clarithromycin), ribosomal modification may determine resistance to other antibiotic classes (lincosamides and streptogramins B) that bind to overlapping ribosomal sites.
+
+Azithromycin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections (see INDICATIONS AND USAGE).
+
+### Gram-positive bacteria
 
 Staphylococcus aureus
 
@@ -204,10 +210,7 @@ Streptococcus pneumoniae
 
 Streptococcus pyogenes
 
-NOTE: Azithromycin demonstrates cross-resistance with erythromycin-resistant gram-positive strains.
-Most strains of Enterococcus faecalis and methicillin-resistant staphylococci are resistant to azithromycin.
-
-### Aerobic and facultative gram-negative microorganisms
+### Gram-negative bacteria
 
 Haemophilus ducreyi
 
@@ -217,42 +220,40 @@ Moraxella catarrhalis
 
 Neisseria gonorrhoeae
 
-### “Other” microorganisms
+### “Other” bacteria
 
-Chlamydia pneumoniae
+Chlamydophila pneumoniae
 
 Chlamydia trachomatis
 
 Mycoplasma pneumoniae
 
-Beta-lactamase production should have no effect on azithromycin activity.
-
 The following in vitro data are available, but their clinical significance is unknown.
 
-At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoints for azithromycin.
-However, the safety and effectiveness of azithromycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
+At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the azithromycin susceptible breakpoint of ≤ 4 mcg/mL.
+However, safety and effectiveness of azithromycin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled trials.
 
-### Aerobic and facultative gram-positive microorganisms
+### Gram-positive bacteria
 
-Streptococci (Groups C, F, G)
+Beta-hemolytic streptococci (Groups C, F, G)
 
 Viridans group streptococci
 
-### Aerobic and facultative gram-negative microorganisms
+### Gram-negative bacteria
 
 Bordetella pertussis
 
-Legionella pneumophila
-
-### Anaerobic microorganisms
+### Anaerobic bacteria
 
 Peptostreptococcus species
 
 Prevotella bivia
 
-### “Other” microorganisms
+### “Other” bacteria
 
 Ureaplasma urealyticum
+
+Legionella pneumophila
 
 #### Susceptibility Testing Methods
 
@@ -264,28 +265,28 @@ These reports may differ from susceptibility data obtained from outpatient use, 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1,3 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of azithromycin powder.
+Standardized procedures are based on a dilution method1,2 (broth or agar) or equivalent with standardized inoculum concentration and standardized concentration of azithromycin powder.
 The MIC values should be interpreted according to criteria provided in Table 3.
 
 #### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 15 mcg azithromycin to test the susceptibility of microorganisms to azithromycin.
+One such standardized procedure2,3 requires the use of standardized inoculum concentration.
+This procedure uses paper disks impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
 The disk diffusion interpretive criteria are provided in Table 3.
 
 Table 3.
-Susceptibility Interpretive Criteria for Azithromycin Susceptibility Test Result Interpretive Criteria
+Susceptibility Test Interpretive Criteria for Azithromycin Susceptibility Test Result Interpretive Criteria
 
 | Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion(zone diameters in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | S | I | RThe current absence of data on resistant strains precludes defining any category other than “susceptible.” If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. | S | I | R |
-| Haemophilus spp. | ≤ 4 | -- | -- | ≥ 12 | -- | -- |
+|  | S | I | R | S | I | R |
+| Haemophilus influenzae Insufficient information is available to determine Intermediate or Resistant interpretive criteria | ≤ 4 | -- | -- | ≥ 12 | -- | -- |
 | Staphylococcus aureus | ≤ 2 | 4 | ≥ 8 | ≥ 18 | 14 to 17 | ≤ 13 |
-| Streptococci includingS. pneumoniaeSusceptibility of streptococci including S. pneumoniae to azithromycin and other macrolides can be predicted by testing erythromycin. | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14 to 17 | ≤ 13 |
+| Streptococci includingS. pneumoniae | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14 to 17 | ≤ 13 |
+| Susceptibility to azithromycin must be tested in ambient air. |  |  |  |  |  |  |
 
-No interpretive criteria have been established for testing Neisseria gonorrhoeae.
-This species is not usually tested.
+The ability to correlate MIC values and plasma drug levels is difficult as azithromycin concentrates in macrophages and tissues (see Clinical Pharmacology).
 
 A report of “susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound reaches the concentrations usually achievable.
 A report of “intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -295,18 +296,17 @@ A report of “resistant” indicates that the pathogen is not likely to be inhi
 
 ### Quality Control
 
-Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures.
-Standard azithromycin powder should provide the following range of values noted in Table 4.
-Quality control microorganisms are specific strains of organisms with intrinsic biological properties.
-QC strains are very stable strains which will give a standard and repeatable susceptibility pattern.
-The specific strains used for microbiological quality control are not clinically significant.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.
+Standard azithromycin powder should provide the following range of MIC values noted in Table 4.
+For the diffusion technique using the azithromycin 15 mcg disk, the criteria in Table 4 should be achieved.
 
 Table 4.
 Acceptable Quality Control Ranges for Azithromycin
 
 | QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion(zone diameters in mm) |
 | --- | --- | --- |
-| Haemophilus influenzaeATCC 49247 | 1 to 4 | 13 to 21 |
-| Staphylococcus aureus ATCC 29213 | 0.5 to 2 |  |
-| Staphylococcus aureusATCC 25923 |  | 21 to 26 |
+| Haemophilus influenzaeATCCATCC = American Type Culture Collection 49247 | 1 to 4 | 13 to 21 |
+| Staphylococcus aureus ATCC 29213 | 0.5 to 2 | ••• |
+| Staphylococcus aureusATCC 25923 | ••• | 21 to 26 |
 | Streptococcus pneumoniaeATCC 49619 | 0.06 to 0.25 | 19 to 25 |
+| Susceptibility to azithromycin must be tested in ambient air |  |  |

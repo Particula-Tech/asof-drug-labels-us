@@ -90,7 +90,7 @@ Symptoms of a severe allergic reaction may include trouble breathing; swelling o
 Azithromycin may cause other less common side effects besides those listed here.
 For a list of all the side effects that have been reported, ask the doctor, nurse or pharmacist for the Azithromycin Professional Package Insert.
 
-• What Should I Do If My Child Vomits (Spits Up) The 1-Day Treatment of Azithromycin?
+• What Should I Do If My Child Vomits (Spits Up) The 1 Day Treatment of Azithromycin?
 
 If your child vomits within 30 minutes after the 1 day treatment for an ear infection, please call your child’s doctor.
 

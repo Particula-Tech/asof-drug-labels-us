@@ -48,7 +48,7 @@ Based on Body Weight
 | Dosing Calculated on 10 mg/kg/day Day 1 and 5 mg/kg/day Days 2 to 5. |  |  |  |  |  |  |  |
 | Weight |  | 100 mg/5 mL |  | 200 mg/5 mL |  | Total mL per Treatment Course | Total mg per Treatment Course |
 | Kg | Lbs. | Day 1 | Days 2 to 5 | Day 1 | Days 2 to 5 |  |  |
-| 5 | 11 | 2.5 mL (1/2 tsp) | 1.25 mL (1/4 tsp) |  |  | 7.5 mL | 150 mg |
+| 5 | 11 | 2.5 mL(1/2 tsp) | 1.25 mL (1/4 tsp) |  |  | 7.5 mL | 150 mg |
 | 10 | 22 | 5 mL (1 tsp) | 2.5 mL (1/2 tsp) |  |  | 15 mL | 300 mg |
 | 20 | 44 |  |  | 5 mL (1 tsp) | 2.5 mL (½ tsp) | 15 mL | 600 mg |
 | 30 | 66 |  |  | 7.5 mL(1½ tsp) | 3.75 mL (¾ tsp) | 22.5 mL | 900 mg |
