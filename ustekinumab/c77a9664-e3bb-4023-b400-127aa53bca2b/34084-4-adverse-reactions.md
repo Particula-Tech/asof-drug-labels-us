@@ -59,7 +59,8 @@ The presence of ustekinumab in the serum can interfere with the detection of ant
 In STUDIES 1 and 2, antibody testing was done at time points when ustekinumab may have been present in the serum.
 Table 2 summarizes the antibody results from STUDY 1 through year 3 and STUDY 2 through year 4.
 
-Table 2: Presence of anti-ustekinumab antibodies in STUDY 1 through Year 3 and STUDY 2 through Year 4.
+Table 2.
+Presence of anti-ustekinumab antibodies in STUDY 1 through Year 3 and STUDY 2 through Year 4.
 
 | Antibody Results | STUDY 1 (N=746) | STUDY 2 (N=1202) |
 | --- | --- | --- |

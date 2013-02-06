@@ -49,6 +49,8 @@ Cancers:
 
 STELARA® may decrease the activity of your immune system and increase your risk for certain types of cancers.
 Tell your doctor if you have ever had any type of cancer.
+Some people who are receiving STELARA® and have risk factors for skin cancer have developed certain types of skin cancers.
+During your treatment with STELARA®, tell your doctor if you develop any new skin growths.
 
 Reversible Posterior Leukoencephalopathy Syndrome (RPLS):
 
@@ -81,10 +83,11 @@ Before you receive STELARA®, tell your doctor if you:
   Tell your doctor if anyone in your house needs a vaccine.
   The viruses used in some types of vaccines can spread to people with a weakened immune system, and can cause serious problems.
   You should not receive the BCG vaccine during the one year before taking STELARA® or one year after you stop taking STELARA®.
+- have any new or changing lesions within psoriasis areas or on normal skin.
 - are receiving or have received allergy shots, especially for serious allergic reactions.
   Allergy shots may not work as well for you during treatment with STELARA®.
   STELARA® may also increase your risk of having an allergic reaction to an allergy shot.
-- receive phototherapy for your psoriasis.
+- receive or have received phototherapy for your psoriasis.
 - have any other medical conditions.
 - are pregnant or planning to become pregnant.
   It is not known if STELARA® will harm your unborn baby.
@@ -96,10 +99,10 @@ Before you receive STELARA®, tell your doctor if you:
   Ask your doctor if you are not sure.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Especially tell your doctor if you take:
+Especially tell your doctor if you:
 
-- other medicines that affect your immune system.
-- certain medicines that can affect how your liver breaks down other medicines.
+- take or have taken other medicines that affect your immune system.
+- take certain medicines that can affect how your liver breaks down other medicines.
 
 Ask your doctor or pharmacist if you are not sure if your medicine is one that is listed above.
 
@@ -161,13 +164,13 @@ Active ingredient: ustekinumab
 
 Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80, and sucrose.
 
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
 Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, License No. 1864 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403
 
 Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
-Revised May 2012
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised 01/2013
 
 U.S. License No. 1864
 
