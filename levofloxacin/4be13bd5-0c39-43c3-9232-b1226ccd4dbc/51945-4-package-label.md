@@ -1,37 +1,37 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Levofloxacin Tablets
+Levofloxacin Tablets, 250 mg
 
-250 mg – Bottle of 50s
+Bottles of 50
 
-NDC 68180-240-08 bottles of 50
+NDC 68180-240-08
 
-Levofloxacin Tablets
+Levofloxacin Tables, 250 mg
 
-250 mg – Carton of 100 Tablets
+Carton of 100 Tablets
 
-NDC 68180-240-13 Carton of 100 Tablets
+NDC 68180-240-13
 
-Levofloxacin Tablets
+Levofloxacin Tablets, 500 mg
 
-500 mg – Bottle of 50s
+Bottles of 100 Tablets
 
-NDC 68180-241-08 Bottle of 50
+NDC 68180-241-01
 
-Levofloxacin Tablets
+Levofloxacin Tablets, 500 mg
 
-500 mg – Carton of 100 Tablets
+Carton of 100 Tablets
 
-NDC 68180-241-13 Carton of 100 Tablets
+NDC 68180-241-13
 
-Levofloxacin Tablets
+Levofloxacin Tablets, 750 mg
 
-750 mg – Bottle of 20s
+Bottles of 20 Tablets
 
-NDC 68180-242-20 Bottle of 20
+NDC 68180-242-20
 
-Levofloxacin Tablets
+Levofloxacin Tablets, 750 mg
 
-750 mg – Carton of 100 Tablets
+Carton of 100 Tablets
 
-NDC 68180-242-13 Carton of 100 Tablets
+NDC 68180-242-13
