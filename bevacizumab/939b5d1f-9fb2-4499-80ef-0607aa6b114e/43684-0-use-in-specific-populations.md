@@ -36,7 +36,7 @@ The effect of Avastin on overall survival was similar in elderly patients as com
 
 In Study 2, patients aged ≥ 65 years receiving Avastin plus FOLFOX4 had a greater relative risk as compared to younger patients for the following adverse events: nausea, emesis, ileus, and fatigue.
 
-In Study 4, patients aged ≥ 65 years receiving carboplatin, paclitaxel, and Avastin had a greater relative risk for proteinuria as compared to younger patients.
+In Study 5, patients aged ≥ 65 years receiving carboplatin, paclitaxel, and Avastin had a greater relative risk for proteinuria as compared to younger patients.
 [See Warnings and Precautions (5.8).]
 
 Of the 742 patients enrolled in Genentech-sponsored clinical studies in which all adverse events were captured, 212 (29%) were age 65 or older and 43 (6%) were age 75 or older.
@@ -51,6 +51,7 @@ However, the increase in arterial thromboembolic events incidence was greater in
 
 Avastin increases the risk of ovarian failure and may impair fertility.
 Inform females of reproductive potential of the risk of ovarian failure prior to starting treatment with Avastin.
+
 Long term effects of Avastin exposure on fertility are unknown.
 
 In a prospectively designed substudy of 179 premenopausal women randomized to receive chemotherapy with or without Avastin, the incidence of ovarian failure was higher in the Avastin arm (34%) compared to the control arm (2%).

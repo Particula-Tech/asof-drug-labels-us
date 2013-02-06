@@ -20,6 +20,7 @@ The recommended doses are 5 mg/kg or 10 mg/kg every 2 weeks when used in combina
 
 - Administer 5 mg/kg when used in combination with bolus-IFL.
 - Administer 10 mg/kg when used in combination with FOLFOX4.
+- Administer 5 mg/kg every 2 weeks or 7.5 mg/kg every 3 weeks when used in combination with a fluoropyrimidine-irinotecan or fluoropyrimidine-oxaliplatin based chemotherapy regimen in patients who have progressed on a first-line Avastin-containing regimen.
 
 Non-Squamous Non-Small Cell Lung Cancer (NSCLC)
 

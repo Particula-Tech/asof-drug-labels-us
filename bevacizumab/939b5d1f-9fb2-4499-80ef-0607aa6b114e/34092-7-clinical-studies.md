@@ -30,6 +30,9 @@ Table 4 Study 1 Efficacy Results
 | Duration of Response |  |  |
 | Median (months) | 7.1 | 10.4 |
 
+| Figure 1 Duration of Survival in Study 1 |
+| --- |
+
 Among the 110 patients enrolled in Arm 3, median OS was 18.3 months, median progression-free survival (PFS) was 8.8 months, objective response rate (ORR) was 39%, and median duration of response was 8.5 months.
 
 Study 2
@@ -51,6 +54,38 @@ The activity of Avastin in combination with bolus or infusional 5-FU/LV was eval
 Seventy-three percent of patients received concurrent bolus 5-FU/LV.
 One objective partial response was verified in the first 100 evaluable patients for an overall response rate of 1% (95% CI 0–5.5%).
 
+Study 4
+
+Study 4 was a prospective, randomized, open-label, multinational, controlled trial in patients with histologically confirmed metastatic colorectal cancer who had progressed on a first-line Avastin containing regimen.
+Patients were excluded if they progressed within 3 months of initiating first-line chemotherapy and if they received Avastin for less than 3 consecutive months in the first-line setting.
+
+Patients were randomized (1:1) within 3 months after discontinuation of Avastin as first-line therapy to receive fluoropyrimidine/oxaliplatin- or fluoropyrimidine/irinotecan-based chemotherapy with or without Avastin administered at 5 mg/kg every 2 weeks or 7.5 mg/kg every 3 weeks.
+The choice of second line therapy was contingent upon first-line chemotherapy treatment.
+Second-line treatment was administered until progressive disease or unacceptable toxicity.
+The main outcome measure was OS defined as the time from randomization until death from any cause.
+
+Of the 820 patients randomized, the majority of patients were male (64%) and the median age was 63.0 years (range 21 to 84 years).
+At baseline, 52% of patients were ECOG performance status (PS) 1, 44% were ECOG PS 0, 58% received irinotecan-based therapy as first-line treatment, 55% progressed on first-line treatment within 9 months, and 77% received their last dose of Avastin as first-line treatment within 42 days of being randomized.
+Second-line chemotherapy regimens were generally balanced between each treatment arm.
+
+The addition of Avastin to fluoropyrimidine-based chemotherapy resulted in a statistically significant prolongation of survival and PFS; there was no significant difference in overall response rate, a key secondary outcome measure.
+Results are presented in Table 5 and Figure 2.
+
+Table 5 Study 4 Efficacy Results
+
+|  | Chemotherapy | Avastin + Chemotherapy |
+| --- | --- | --- |
+| Number of Patients | 411 | 409 |
+| Overall Survivalp = 0.0057 by unstratified log rank test. |  |  |
+| Median (months) | 9.8 | 11.2 |
+| Hazard ratio (95% CI) | 0.81 (0.69, 0.94) |  |
+| Progression-Free Survivalp-value < 0.0001 by unstratified log rank test. |  |  |
+| Median (months) | 4.0 | 5.7 |
+| Hazard ratio (95% CI) | 0.68 (0.59, 0.78) |  |
+
+| Figure 2 Duration of Survival in Study 4 |
+| --- |
+
 ## 14.2 Lack of Efficacy in Adjuvant Treatment of Colon Cancer
 
 Lack of efficacy of Avastin as an adjunct to standard chemotherapy for the adjuvant treatment of colon cancer was determined in two randomized, open-label, multicenter clinical trials.
@@ -68,7 +103,6 @@ The hazard ratios for overall survival were 1.31 (95% CI=1.03, 1.67) and 1.27 (9
 Similar lack of efficacy for DFS were observed in the Avastin-containing arms compared to control in the high-risk stage II cohort.
 
 In a second study, 2710 patients with stage II and III colon cancer who had undergone surgery with curative intent, were randomized to receive either Avastin administered at a dose equivalent to 2.5 mg/kg/week in combination with mFOLFOX6 (N=1354) or mFOLFOX6 alone (N=1356).
-
 The median age was 57 years, 50% were male and 87% Caucasian.
 Seventy-five percent had stage III disease.
 The main efficacy outcome was DFS among stage III patients.
@@ -77,7 +111,7 @@ Overall survival, an additional efficacy outcome, was not significantly improved
 
 ## 14.3 Unresectable Non–Squamous Non–Small Cell Lung Cancer (NSCLC)
 
-Study 4
+Study 5
 
 The safety and efficacy of Avastin as first-line treatment of patients with locally advanced, metastatic, or recurrent non–squamous NSCLC was studied in a single, large, randomized, active-controlled, open-label, multicenter study.
 
@@ -89,9 +123,12 @@ The main outcome measure was duration of survival.
 Of the 878 patients randomized, the median age was 63, 46% were female, 43% were ≥ age 65, and 28% had ≥ 5% weight loss at study entry.
 Eleven percent had recurrent disease and of the 89% with newly diagnosed NSCLC, 12% had Stage IIIB with malignant pleural effusion and 76% had Stage IV disease.
 
-The results are presented in Figure 2.
+The results are presented in Figure 3.
 OS was statistically significantly higher among patients receiving PC plus Avastin compared with those receiving PC alone; median OS was 12.3 months vs. 10.3 months [hazard ratio 0.80 (repeated 95% CI 0.68, 0.94), final p- value 0.013, stratified log-rank test].
 Based on investigator assessment which was not independently verified, patients were reported to have longer PFS with Avastin in combination with PC compared to PC alone.
+
+| Figure 3 Duration of Survival in Study 5 |
+| --- |
 
 In an exploratory analyses across patient subgroups, the impact of Avastin on OS was less robust in the following: women [HR = 0.99 (95% CI: 0.79, 1.25)], age ≥ 65 years [HR = 0.91 (95% CI: 0.72, 1.14)] and patients with ≥ 5% weight loss at study entry [HR = 0.96 (95% CI: 0.73, 1.26)].
 
@@ -104,9 +141,9 @@ The addition of Avastin to CG chemotherapy failed to demonstrate an improvement 
 
 ## 14.4 Glioblastoma
 
-Study 5
+Study 6
 
-The efficacy and safety of Avastin was evaluated in Study 5, an open-label, multicenter, randomized, non-comparative study of patients with previously treated glioblastoma.
+The efficacy and safety of Avastin was evaluated in Study 6, an open-label, multicenter, randomized, non-comparative study of patients with previously treated glioblastoma.
 Patients received Avastin (10 mg/kg IV) alone or Avastin plus irinotecan every 2 weeks until disease progression or until unacceptable toxicity.
 All patients received prior radiotherapy (completed at least 8 weeks prior to receiving Avastin) and temozolomide.
 Patients with active brain hemorrhage were excluded.
@@ -118,20 +155,20 @@ Median duration of response was 4.2 months (95% CI 3.0, 5.7).
 Radiologic assessment was based on MRI imaging (using T1 and T2/FLAIR).
 MRI does not necessarily distinguish between tumor, edema, and radiation necrosis.
 
-Study 6
+Study 7
 
-Study 6, was a single-arm, single institution trial with 56 patients with glioblastoma.
+Study 7, was a single-arm, single institution trial with 56 patients with glioblastoma.
 All patients had documented disease progression after receiving temozolomide and radiation therapy.
 Patients received Avastin 10 mg/kg IV every 2 weeks until disease progression or unacceptable toxicity.
 
 The median age was 54, 54% were male, 98% Caucasian, and 68% had a Karnofsky Performance Status of 90–100.
 
-The efficacy of Avastin was supported by an objective response rate of 19.6% (95% CI 10.9%, 31.3%) using the same response criteria as in Study 5.
+The efficacy of Avastin was supported by an objective response rate of 19.6% (95% CI 10.9%, 31.3%) using the same response criteria as in Study 6.
 Median duration of response was 3.9 months (95% CI 2.4, 17.4).
 
 ## 14.5 Metastatic Renal Cell Carcinoma (mRCC)
 
-Study 7
+Study 8
 
 Patients with treatment-naïve mRCC were evaluated in a multicenter, randomized, double-blind, international study comparing Avastin plus interferon alfa 2a (IFN-α2a) versus placebo plus IFN-α2a.
 A total of 649 patients who had undergone a nephrectomy were randomized (1:1) to receive either Avastin (10 mg/kg IV infusion every 2 weeks; n = 327) or placebo (IV every 2 weeks; n = 322) in combination with IFN-α2a (9 MIU subcutaneously three times weekly, for a maximum of 52 weeks).
@@ -142,7 +179,10 @@ Secondary outcome measures were ORR and OS.
 The median age was 60 years (range 18–82), 96% were white, and 70% were male.
 The study population was characterized by Motzer scores as follows: 28% favorable (0), 56% intermediate (1-2), 8% poor (3–5), and 7% missing.
 
-The results are presented in Figure 3.
+The results are presented in Figure 4.
 PFS was statistically significantly prolonged among patients receiving Avastin plus IFN-α2a compared to those receiving IFN-α2a alone; median PFS was 10.2 months vs. 5.4 months [HR 0.60 (95% CI 0.49, 0.72), p-value < 0.0001, stratified log-rank test].
 Among the 595 patients with measurable disease, ORR was also significantly higher (30% vs. 12%, p < 0.0001, stratified CMH test).
 There was no improvement in OS based on the final analysis conducted after 444 deaths, with a median OS of 23 months in the Avastin plus IFN-α2a arm and 21 months in the IFN-α2a plus placebo arm [HR 0.86, (95% CI 0.72, 1.04)].
+
+| Figure 4 Progression-Free Survival in Study 8 |
+| --- |
