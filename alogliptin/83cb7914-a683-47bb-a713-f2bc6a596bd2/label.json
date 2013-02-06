@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA203414"
+  ],
+  "inn": "alogliptin",
+  "labeler": "Takeda Pharmaceuticals America, Inc.",
+  "package_ndcs": [
+    "64764-335-60",
+    "64764-335-77",
+    "64764-335-80",
+    "64764-337-60",
+    "64764-337-77",
+    "64764-337-80"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "alogliptin and metformin hydrochloride",
+      "name": "KAZANO"
+    }
+  ],
+  "setid": "83cb7914-a683-47bb-a713-f2bc6a596bd2",
+  "source": "dailymed"
+}
