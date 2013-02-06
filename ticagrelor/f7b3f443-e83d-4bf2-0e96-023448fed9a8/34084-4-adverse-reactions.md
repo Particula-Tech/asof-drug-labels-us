@@ -4,7 +4,7 @@
 
 The following adverse reactions are also discussed elsewhere in the labeling:
 
-- •Dyspnea [see Warnings and Precautions (5.4)]
+- Dyspnea [see Warnings and Precautions (5.4)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -26,7 +26,7 @@ PLATO used the following bleeding severity categorization:
 Figure 1 shows major bleeding events over time.
 Many events are early, at a time of coronary angiography, PCI, CABG, and other procedures, but the risk persists during later use of antiplatelet therapy.
 
-Figure 1 - Kaplan-Meier estimate of time to first PLATO-defined ‘Total Major’ bleeding event
+Figure 1 Kaplan-Meier estimate of time to first PLATO-defined ‘Total Major’ bleeding event
 
 Annualized rates of bleeding are summarized in Table 1 below.
 About half of the bleeding events were in the first 30 days.
@@ -48,7 +48,7 @@ In PLATO, 1584 patients underwent CABG surgery.
 The percentages of those patients who bled are shown in Table 2.
 Rates were very high but similar for BRILINTA and clopidogrel.
 
-Table 2 – CABG bleeds (KM%)
+Table 2 - CABG bleeds (KM%)
 
 |  | Patients with CABG |  |
 | --- | --- | --- |
@@ -62,19 +62,19 @@ When antiplatelet therapy was stopped 5 days before CABG, major bleeding occurre
 
 No data exist with BRILINTA regarding a hemostatic benefit of platelet transfusions.
 
-Drug Discontinuation
+### Drug Discontinuation
 
 In PLATO, the rate of study drug discontinuation attributed to adverse reactions was 7.4% for BRILINTA and 5.4% for clopidogrel.
 Bleeding caused permanent discontinuation of study drug in 2.3% of BRILINTA patients and 1.0% of clopidogrel patients.
 Dyspnea led to study drug discontinuation in 0.9% of BRILINTA and 0.1% of clopidogrel patients.
 
-Common Adverse Events
+### Common Adverse Events
 
 A variety of non-hemorrhagic adverse events occurred in PLATO at rates of 3% or more.
 These are shown in Table 3.
 In the absence of a placebo control, whether these are drug related cannot be determined in most cases, except where they are more common on BRILINTA or clearly related to the drug’s pharmacologic effect (dyspnea).
 
-Table 3 – Percentage of patients reporting non-hemorrhagic adverse events at least 3% or more in either group
+Table 3 - Percentage of patients reporting non-hemorrhagic adverse events at least 3% or more in either group
 
 |  | BRILINTA N=9235 | Clopidogrel N=9186 |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Table 3 – Percentage of patients reporting non-hemorrhagic adverse events at l
 | Fatigue | 3.2 | 3.2 |
 | Chest pain | 3.1 | 3.5 |
 
-Bradycardia
+### Bradycardia
 
 In clinical studies BRILINTA has been shown to increase the occurrence of Holter-detected bradyarrhythmias (including ventricular pauses).
 PLATO excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2nd or 3rd degree AV block, or bradycardic-related syncope and not protected with a pacemaker).
@@ -100,11 +100,7 @@ In PLATO, syncope, pre-syncope and loss of consciousness were reported by 1.7% a
 
 In a Holter substudy of about 3000 patients in PLATO, more patients had ventricular pauses with BRILINTA (6.0%) than with clopidogrel (3.5%) in the acute phase; rates were 2.2% and 1.6% respectively after 1 month.
 
-Gynecomastia
-
-In PLATO, gynecomastia was reported by 0.23% of men on BRILINTA and 0.05% on clopidogrel.
-
-Other sex-hormonal adverse reactions, including sex organ malignancies, did not differ between the two treatment groups in PLATO.
+### Gynecomastia In PLATO, gynecomastia was reported by 0.23% of men on BRILINTA and 0.05% on clopidogrel. Other sex-hormonal adverse reactions, including sex organ malignancies, did not differ between the two treatment groups in PLATO.
 
 Lab abnormalities
 
@@ -120,3 +116,10 @@ In PLATO, a >50% increase in serum creatinine levels was observed in 7.4% of pat
 The increases typically did not progress with ongoing treatment and often decreased with continued therapy.
 Evidence of reversibility upon discontinuation was observed even in those with the greatest on treatment increases.
 Treatment groups in PLATO did not differ for renal-related serious adverse events such as acute renal failure, chronic renal failure, toxic nephropathy, or oliguria.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of BRILINTA.
+Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune system disorders – Hypersensitivity reactions including angioedema [see Contraindications (4.4)].

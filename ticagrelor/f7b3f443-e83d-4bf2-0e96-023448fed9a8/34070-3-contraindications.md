@@ -12,3 +12,7 @@ BRILINTA is contraindicated in patients with active pathological bleeding such a
 
 BRILINTA is contraindicated in patients with severe hepatic impairment because of a probable increase in exposure, and it has not been studied in these patients.
 Severe hepatic impairment increases the risk of bleeding because of reduced synthesis of coagulation proteins [see Clinical Pharmacology (12.3)].
+
+## 4.4 Hypersensitivity
+
+BRILINTA is contraindicated in patients with hypersensitivity (e.g. angioedema) to ticagrelor or any component of the product [see Adverse Reactions (6.2)].

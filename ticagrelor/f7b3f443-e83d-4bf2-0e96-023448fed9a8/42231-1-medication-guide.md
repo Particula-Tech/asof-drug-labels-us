@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-BRILINTA™ (brih-LIN-tah)
+BRILINTA® (brih-LIN-tah)
 
 (ticagrelor)
 
@@ -57,7 +57,7 @@ These can be fatal.
 Platelets are blood cells that help with normal blood clotting.
 BRILINTA helps prevent platelets from sticking together and forming a clot that can block an artery.
 
-It is not known if BRILINTA is safe and works in children.
+It is not known if BRILINTA is safe and effective in children.
 
 Who should not take BRILINTA?
 
@@ -67,10 +67,8 @@ Do not take BRILINTA if you:
 - •have a history of bleeding in the brain
 - •have bleeding from your stomach or intestine now (an ulcer)
 - •have severe liver problems
-
-When instructed by your doctor, you should stop taking BRILINTA 5 days before you have elective surgery.
-This will help to decrease your risk of bleeding with your surgery or procedure.
-Your doctor should tell you when to start taking BRILINTA again, as soon as possible after surgery.
+- •are allergic to ticagrelor or any of the ingredients in BRILINTA.
+  See the end of this Medication Guide for a complete list of ingredients in BRILINTA.
 
 What should I tell my doctor before taking BRILINTA?
 
@@ -83,11 +81,11 @@ Before you take BRILINTA, tell your doctor if you:
 - •have lung problems, such as COPD or asthma
 - •have liver problems
 - •have a history of stroke
-- •are pregnant, or are plan to become pregnant.
+- •are pregnant or are plan to become pregnant.
   It is not known if BRILINTA will harm your unborn baby.
   You and your doctor should decide if you will take BRILINTA.
-- •are breastfeeding.
-  It is not known if BRILINTA passes into your breast-milk.
+- •are breastfeeding or plan to breastfeed.
+  It is not known if BRILINTA passes into your breast milk.
   You and your doctor should decide if you will take BRILINTA or breastfeed.
   You should not do both without talking with your doctor.
 
@@ -142,7 +140,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store BRILINTA?
 
-- •Store BRILINTA at room temperature between 59°F to 86°F (15°C to 30°C).
+- •Store BRILINTA at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep BRILINTA and all medicines out of the reach of children.
 
@@ -165,10 +163,10 @@ Active ingredient: ticagrelor
 
 Inactive ingredients: mannitol, dibasic calcium phosphate, sodium starch glycolate, hydroxypropyl cellulose, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, talc, polyethylene glycol 400, and ferric oxide yellow.
 
-Issued: 07/2011
+Revised: January 24, 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: AstraZeneca LP, Wilmington, DE 19850
 
-© AstraZeneca 2011
+© AstraZeneca 2011, 2012

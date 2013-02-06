@@ -11,7 +11,3 @@ Bottles of 180 – NDC 0186-0777-18
 Storage and Handling
 
 Store at 25°C (77°F); excursions permitted to 15°-30°C (59°- 86°F) [see USP controlled room temperature].
-
-Keep BRILINTA in the container it comes in.
-
-Keep BRILINTA tablets dry.
