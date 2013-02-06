@@ -192,8 +192,8 @@ High blood sugar can be lowered by diet and exercise, and by certain medicines w
 
 Talk to your doctor about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and problems you have because of your diabetes.
 
-Santarus, Inc. 3721 Valley Centre Dr., Suite 400 San Diego, CA 92130 1-888-778-0887 www.GlumetzaXR.com For prescription only
+Santarus, Inc. San Diego, CA 92130 1-888-778-0887 www.GlumetzaXR.com For prescription only
 
-Revised November 2011
+Revised January 2013
 
-©2011 Santarus, Inc.
+©2013 Santarus, Inc.

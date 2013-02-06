@@ -25,8 +25,12 @@ Patients should be informed that GLUMETZA must be swallowed whole and not crushe
 
 Manufactured for Santarus, Inc., San Diego, CA 92130 • 1-888-778-0887.
 
+500 mg product: U.S. Patent Nos. 6,340,475, 6,488,962, 6,635,280, and 6,723,340.
+
+1000 mg product: U.S. Patent Nos. 6,488,962, 7,780,987, and 8,323,692.
+
 SANTARUS,INC.®
 
-© 2011 Santarus, Inc.
+© 2013 Santarus, Inc.
 
-S-0055A
+S-0055B
