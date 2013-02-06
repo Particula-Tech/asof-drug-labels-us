@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203263"
+  ],
+  "inn": "doxorubicin",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-049-40",
+    "47335-050-40"
+  ],
+  "products": [
+    {
+      "form": "INJECTABLE, LIPOSOMAL",
+      "generic": "doxorubicin hydrochloride",
+      "name": "Doxorubicin Hydrochloride"
+    }
+  ],
+  "setid": "fbc48fa5-0bfb-4957-b13c-a56bb7a13b56",
+  "source": "dailymed"
+}
