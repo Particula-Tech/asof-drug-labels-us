@@ -47,7 +47,7 @@ Decreased White Blood Cells called neutrophils, which are needed to fight infect
 Tell your doctor if you have any indication of infection such as fever, chills, sore throat, or mouth or nose sores, especially symptoms which are flu-like.
 
 4.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -110,9 +110,10 @@ Do not take mirtazapine orally disintegrating tablets if you:
 
 - are allergic to mirtazapine or any of the ingredients in mirtazapine orally disintegrating tablets.
   See the end of this Medication Guide for a complete list of ingredients in mirtazapine orally disintegrating tablets.
-- take a Monoamine Oxidase Inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-- it is recommended that mirtazapine orally disintegrating tablets not be used in combination with an MAOI within 14 days of initiating or discontinuing therapy with an MAOI.
+- take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take a MAOI, including the antibiotic linezolid.
+- Do not take a MAOI within 2 weeks of stopping mirtazapine orally disintegrating tablets unless directed to do so by your physician.
+- Do not start mirtazapine orally disintegrating tablets if you stopped taking a MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take mirtazapine orally disintegrating tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -128,13 +129,13 @@ What should I tell my healthcare provider before taking mirtazapine orally disin
 Ask if you are not sure.
 Before starting mirtazapine orally disintegrating tablets, tell your healthcare provider if you:
 
-- Are taking certain drugs such as:
+- are taking certain drugs such as:
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
   - Tramadol used to treat pain
-  - Over-the-counter supplements such as tryptophan or St. John’s Wort
-  - Phenytoin, carbamazepine, or rifampicin (these drugs can decrease your blood level of mirtazapine)
-  - Cimetidine or ketoconazole (these drugs can increase your blood level of mirtazapine)
+  - Over-the-counter supplements such as tryptophan or St. John’s wort
+  - Phenytoin, carbamazepine, or rifampicin (these drugs can decrease your blood level of mirtazapine orally disintegrating tablets)
+  - Cimetidine or ketoconazole (these drugs can increase your blood level of mirtazapine orally disintegrating tablets)
 - Have or had:
   - liver problems
   - kidney problems
@@ -149,7 +150,7 @@ Before starting mirtazapine orally disintegrating tablets, tell your healthcare 
   Some mirtazapine may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking mirtazapine orally disintegrating tablets
 
-Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines that you take , including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Mirtazapine orally disintegrating tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 Your healthcare provider or pharmacist can tell you if it is safe to take mirtazapine orally disintegrating tablets with your other medicines.
 Do not start or stop any medicine while taking mirtazapine orally disintegrating tablets without talking to your healthcare provider first.
@@ -214,6 +215,6 @@ If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about mirtazapine orally disintegrating tablets that is written for healthcare professionals.
 For more information about mirtazapine orally disintegrating tablets call 1-866-850-2876.
 What are the ingredients in mirtazapine orally disintegrating tablets?
-Active ingredient: mirtazapine Inactive ingredients 15 mg, 30 mg, 45 mg: Aspartame, citric acid anhydrous, crospovidone, magnesium stearate, mannitol, microcrystalline cellulose, natural and artificial orange flavor, sodium bicarbonate, hypromellose, povidone, sugar spheres, Eudragit E100.
+Active ingredient: mirtazapine Inactive ingredients 15 mg, 30 mg, 45 mg: mannitol, aspartame, natural and artificial peppermint flavor, strawberry guarana flavor, crospovidone, magnesium stearate, colloidal silicon dioxide, and microcrystalline cellulose.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 03/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2012

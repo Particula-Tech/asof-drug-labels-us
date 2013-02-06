@@ -10,7 +10,7 @@ Short-term studies did not show an increase in the risk of suicidality with anti
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
+There were differences in absolute risk of suicidality across different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
@@ -46,16 +46,17 @@ For these 3 patients, onset of severe neutropenia was detected on days 61, 9, an
 All 3 patients recovered after mirtazapine was stopped.
 These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
 If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low WBC count, treatment with mirtazapine orally disintegrating tablets should be discontinued and the patient should be closely monitored.
-MAO Inhibitors In patients receiving other drugs for major depressive disorder in combination with a monoamine oxidase inhibitor (MAOI) and in patients who have recently discontinued a drug for major depressive disorder and then are started on an MAOI, there have been reports of serious and sometimes fatal reactions, including nausea, vomiting, flushing, dizziness, tremor, myoclonus, rigidity, diaphoresis, hyperthermia, autonomic instability with rapid fluctuations of vital signs, seizures, and mental status changes ranging from agitation to coma.
-Although there are no human data pertinent to such an interaction with mirtazapine orally disintegrating tablets, it is recommended that mirtazapine orally disintegrating tablets not be used in combination with an MAOI, or within 14 days of initiating or discontinuing therapy with an MAOI.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SSRIs, SNRIs, MAOIs, and other serotonergic drugs used as monotherapy, including mirtazapine orally disintegrating tablets, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
-The concomitant use of mirtazapine orally disintegrating tablets with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS ).
-If concomitant treatment of mirtazapine orally disintegrating tablets with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-The concomitant use of mirtazapine orally disintegrating tablets with serotonin precursors (such as tryptophan) is not recommended.
-Treatment with mirtazapine orally disintegrating tablets and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Serotonin Syndrome The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including mirtazapine orally disintegrating tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
+The concomitant use of mirtazapine orally disintegrating tablets with MAOIs intended to treat psychiatric disorders is contraindicated.
+Mirtazapine Orally Disintegrating Tablets should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking mirtazapine orally disintegrating tablets.
+Mirtazapine Orally Disintegrating Tablets should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION ).
+If concomitant use of mirtazapine orally disintegrating tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+Treatment with mirtazapine orally disintegrating tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
 
@@ -64,9 +65,9 @@ Treatment with mirtazapine orally disintegrating tablets and any concomitant ser
 Discontinuation Symptoms There have been reports of adverse reactions upon the discontinuation of mirtazapine/ mirtazapine orally disintegrating tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
 The majority of the reported cases are mild and self-limiting.
 Even though these have been reported as adverse reactions, it should be realized that these symptoms may be related to underlying disease.
-Patients currently taking mirtazapine should NOT discontinue treatment abruptly, due to risk of discontinuation symptoms.
+Patients currently taking mirtazapine orally disintegrating tablets should NOT discontinue treatment abruptly, due to risk of discontinuation symptoms.
 At the time that a medical decision is made to discontinue treatment with mirtazapine, a gradual reduction in the dose, rather than an abrupt cessation, is recommended.
-Akathisia/Psychomotor Restlessness The use of antidepressants has been associated with the development of akathisia, characterized by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
+Akathisia/Psychomotor Restlessness The use of antidepressants has been associated with the development of akathisia, characterized by a subjectively unpleasant or distressing restlessness and need to move, often accompanied by an inability to sit or stand still.
 This is most likely to occur within the first few weeks of treatment.
 In patients who develop these symptoms, increasing the dose may be detrimental.
 Hyponatremia Hyponatremia has been reported very rarely with the use of mirtazapine.
@@ -74,7 +75,7 @@ Caution should be exercised in patients at risk, such as elderly patients or pat
 Somnolence In US controlled studies, somnolence was reported in 54% of patients treated with mirtazapine tablets, compared to 18% for placebo and 60% for amitriptyline.
 In these studies, somnolence resulted in discontinuation for 10.4% of mirtazapine-treated patients, compared to 2.2% for placebo.
 It is unclear whether or not tolerance develops to the somnolent effects of mirtazapine.
-Because of the potentially significant effects of mirtazapine on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug’s effect on their own psychomotor performance (see Information for Patients ).
+Because of the potentially significant effects of mirtazapine on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug’s effect on their own psychomotor performance (see PRECAUTIONS : Information for Patients ).
 Dizziness In US controlled studies, dizziness was reported in 7% of patients treated with mirtazapine, compared to 3% for placebo and 14% for amitriptyline.
 It is unclear whether or not tolerance develops to the dizziness observed in association with the use of mirtazapine.
 
@@ -101,7 +102,7 @@ Mirtazapine Orally Disintegrating Tablets have not been systematically evaluated
 Mirtazapine was associated with significant orthostatic hypotension in early clinical pharmacology trials with normal volunteers.
 Orthostatic hypotension was infrequently observed in clinical trials with depressed patients.
 Mirtazapine Orally Disintegrating Tablets should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
-Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) = 11 to 39 mL/min/1.73 m 2 ] and severe [GFR < 10 mL/min/1.73 m 2 ] renal impairment, and also in patients with hepatic impairment.
+Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR)=11 to 39 mL/min/1.73 m 2 ] and severe [GFR<10 mL/min/1.73 m 2 ] renal impairment, and also in patients with hepatic impairment.
 Caution is indicated in administering mirtazapine orally disintegrating tablets to such patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION ).
 
 ## Information for Patients
@@ -124,11 +125,12 @@ The drowsiness associated with mirtazapine use may impair a patient’s ability 
 Thus, patients should be cautioned about engaging in hazardous activities until they are reasonably certain that mirtazapine orally disintegrating tablets therapy does not adversely affect their ability to engage in such activities.
 Completing Course of Therapy While patients may notice improvement with mirtazapine orally disintegrating tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 Concomitant Medication Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for mirtazapine orally disintegrating tablets interact with other drugs.
+Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of mirtazapine orally disintegrating tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
 Alcohol The impairment of cognitive and motor skills produced by mirtazapine has been shown to be additive with those produced by alcohol.
 Accordingly, patients should be advised to avoid alcohol while taking any dosage form of mirtazapine.
 Phenylalanine Phenylketonuric patients should be informed that mirtazapine orally disintegrating tablets contain phenylalanine 1.5 mg per 15 mg tablet, 3 mg per 30 mg tablet, and 4.5 mg per 45 mg tablet.
 Pregnancy Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during mirtazapine orally disintegrating tablets therapy.
-Nursing Patients should be advised to notify their physician if they are breast-feeding an infant.
+Nursing Patients should be advised to notify their physician if they are breastfeeding an infant.
 
 ## Laboratory Tests
 
@@ -138,7 +140,7 @@ There are no routine laboratory tests recommended.
 
 As with other drugs, the potential for interaction by a variety of mechanisms (e.g., pharmacodynamic, pharmacokinetic inhibition or enhancement, etc.) is a possibility (see CLINICAL PHARMACOLOGY ).
 Monoamine Oxidase Inhibitors (See CONTRAINDICATIONS , WARNINGS , and DOSAGE AND ADMINISTRATION .)
-Serotonergic Drugs Based on the mechanism of action of mirtazapine and the potential for serotonin syndrome, caution is advised when mirtazapine orally disintegrating tablets are coadministered with other drugs or agents that may affect the serotonergic neurotransmitter systems, such as tryptophan, triptans, linezolid, serotonin reuptake inhibitors, venlafaxine, lithium, tramadol, or St. John's wort (see CONTRAINDICATIONS and WARNINGS ).
+Serotonergic Drugs (See CONTRAINDICATIONS and WARNINGS .)
 Drugs Affecting Hepatic Metabolism The metabolism and pharmacokinetics of mirtazapine orally disintegrating tablets may be affected by the induction or inhibition of drug-metabolizing enzymes.
 Drugs that are Metabolized by and/or Inhibit Cytochrome P450 Enzymes CYP Enzyme Inducers (these studies used both drugs at steady state) Phenytoin In healthy male patients (n=18), phenytoin (200 mg daily) increased mirtazapine (30 mg daily) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45%.
 Mirtazapine did not significantly affect the pharmacokinetics of phenytoin.
@@ -153,8 +155,7 @@ Caution should be exercised when coadministering mirtazapine with potent CYP3A4 
 Paroxetine In an in vivo interaction study in healthy, CYP2D6 extensive metabolizer patients (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor.
 Other Drug-Drug Interactions Amitriptyline In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
 Warfarin In healthy male subjects (n=16), mirtazapine (30 mg daily), at steady state, caused a small (0.2) but statistically significant increase in the International Normalized Ratio (INR) in subjects treated with warfarin.
-As at a higher dose of mirtazapine, a more pronounced effect can not be excluded.
-It is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
+As at a higher dose of mirtazapine, a more pronounced effect can not be excluded, it is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
 Lithium No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with subtherapeutic levels of lithium (600 mg/day for 10 days) at steady state and a single 30 mg dose of mirtazapine.
 The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown.
 Risperidone In an in vivo , nonrandomized, interaction study, subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug, showed that mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg b.i.d.).
@@ -179,9 +180,9 @@ Mating and conception were not affected by the drug, but estrous cycling was dis
 
 ## Pregnancy
 
-### Teratogenic Effects-Pregnancy Category C
+### Teratogenic Effects
 
-Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on a mg/m 2 basis, respectively], have revealed no evidence of teratogenic effects.
+Pregnancy Category C Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on a mg/m 2 basis, respectively], have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in postimplantation losses in dams treated with mirtazapine.
 There was an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights.
 The cause of these deaths is not known.

@@ -2,11 +2,11 @@
 
 Pharmacodynamics The mechanism of action of mirtazapine orally disintegrating tablets, as with other drugs effective in the treatment of major depressive disorder, is unknown.
 Evidence gathered in preclinical studies suggests that mirtazapine enhances central noradrenergic and serotonergic activity.
-These studies have shown that mirtazapine acts as an antagonist at central presynaptic α 2 adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
+These studies have shown that mirtazapine acts as an antagonist at central presynaptic α 2 -adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
 Mirtazapine is a potent antagonist of 5-HT 2 and 5-HT 3 receptors.
 Mirtazapine has no significant affinity for the 5-HT 1A and 5-HT 1B receptors.
 Mirtazapine is a potent antagonist of histamine (H 1 ) receptors, a property that may explain its prominent sedative effects.
-Mirtazapine is a moderate peripheral α 1 adrenergic antagonist, a property that may explain the occasional orthostatic hypotension reported in association with its use.
+Mirtazapine is a moderate peripheral α 1 -adrenergic antagonist, a property that may explain the occasional orthostatic hypotension reported in association with its use.
 Mirtazapine is a moderate antagonist at muscarinic receptors, a property that may explain the relatively low incidence of anticholinergic side effects associated with its use.
 
 ## Pharmacokinetics
@@ -24,7 +24,7 @@ Several unconjugated metabolites possess pharmacological activity but are presen
 The (-) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer.
 Plasma levels are linearly related to dose over a dose range of 15 to 80 mg.
 The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males).
-Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio = 1.5).
+Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio=1.5).
 Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL.
 Special Populations Geriatric Following oral administration of mirtazapine tablets 20 mg/day for 7 days to subjects of varying ages (range, 25 to 74), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
 The differences were most striking in males, with a 40% lower clearance in elderly males compared to younger males, while the clearance in elderly females was only 10% lower compared to younger females.
@@ -34,7 +34,7 @@ Gender The mean elimination half-life of mirtazapine after oral administration r
 Race There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of mirtazapine orally disintegrating tablets.
 Renal Insufficiency The disposition of mirtazapine was studied in patients with varying degrees of renal function.
 Elimination of mirtazapine is correlated with creatinine clearance.
-Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11 to 39 mL/min/1.73 m 2 ) and approximately 50% in patients with severe (Clcr = < 10 mL/min/1.73 m 2 ) renal impairment when compared to normal subjects.
+Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr=11 to 39 mL/min/1.73 m 2 ) and approximately 50% in patients with severe (Clcr=<10 mL/min/1.73 m 2 ) renal impairment when compared to normal subjects.
 Caution is indicated in administering mirtazapine orally disintegrating tablets to patients with compromised renal function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION ).
 Hepatic Insufficiency Following a single 15 mg oral dose of mirtazapine, the oral clearance of mirtazapine was decreased by approximately 30% in hepatically impaired patients compared to subjects with normal hepatic function.
 Caution is indicated in administering mirtazapine orally disintegrating tablets to patients with compromised hepatic function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION ).
