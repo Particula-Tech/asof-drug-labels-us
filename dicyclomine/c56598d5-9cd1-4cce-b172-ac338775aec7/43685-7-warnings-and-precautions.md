@@ -1,10 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Inadvertent Intravenousmuscular Administration
+## 5.1 Inadvertent Intravenous Administration
 
-BENTYL solution for intramuscular administration only.
+BENTYL solution is for intramuscular administration only.
 Do not administer by any other route.
-Inadvertent intravenous administration may result in thrombosis, thrombophlebitis and injection site reactions such as pain, edema, skin colour change, and reflex sympathetic dystrophy syndrome [see Adverse Reactions (6.2)].
+Inadvertent intravenous administration may result in thrombosis, thrombophlebitis and injection site reactions such as pain, edema, skin color change, and reflex sympathetic dystrophy syndrome [see Adverse Reactions (6.2)].
 
 ## 5.2 Cardiovascular Conditions
 
@@ -15,16 +15,17 @@ Care is required in patients with coronary heart disease, as ischemia and infarc
 ## 5.3 Peripheral and Central Nervous System
 
 The peripheral effects of dicyclomine hydrochloride are a consequence of their inhibitory effect on muscarinic receptors of the autonomic nervous system.
-They include dryness of the mouth with difficulty in swallowing and talking, thirst, reduced bronchial secretions, dilatation of pupils (mydriasis) with loss of accommodation (cycloplegia) and photophobia, flushing and dryness of the skin, transient bradycardia followed by tachycardia, with palpitations and arrhythmias, and difficulty in micturition, as well as reduction in the tone and motility of the gastrointestinal tract leading to constipation [see Adverse Reactions (6)].
+They include dryness of the mouth with difficulty in swallowing and talking, thirst, reduced bronchial secretions, dilatation of the pupils (mydriasis) with loss of accommodation (cycloplegia) and photophobia, flushing and dryness of the skin, transient bradycardia followed by tachycardia, with palpitations and arrhythmias, and difficulty in micturition, as well as reduction in the tone and motility of the gastrointestinal tract leading to constipation [see Adverse Reactions (6)].
 
-In the presence of a high environmental temperature heat prostration can occur with drug use (fever and heat stroke due to decreased sweating).
+In the presence of high environmental temperature heat prostration can occur with drug use (fever and heat stroke due to decreased sweating).
 It should also be used cautiously in patients with fever.
 If symptoms occur, the drug should be discontinued and supportive measures instituted.
 Because of the inhibitory effect on muscarinic receptors within the autonomic nervous system, caution should be taken in patients with autonomic neuropathy.
 
-Central nervous system (CNS) signs and symptoms include confusion, disorientation, short-term amnesia, hallucinations, dysarthria, ataxia, coma, euphoria, fatigue, insomnia, agitation and mannerisms, and inappropriate affect.
-Psychosis has been reported in sensitive individuals given anticholinergic drugs.
-These CNS signs and symptoms usually resolve within 12 to 24 hours after discontinuation of the drug
+Central nervous system (CNS) signs and symptoms include confusional state, disorientation, amnesia, hallucinations, dysarthria, ataxia, coma, euphoria, fatigue, insomnia, agitation and mannerisms, and inappropriate affect.
+
+Psychosis and delirium have been reported in sensitive individuals (such as elderly patients and/or in patients with mental illness) given anticholinergic drugs.
+These CNS signs and symptoms usually resolve within 12 to 24 hours after discontinuation of the drug.
 
 BENTYL may produce drowsiness, dizziness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or performing hazardous work while taking BENTYL.
@@ -54,12 +55,12 @@ BENTYL is contraindicated in patients with severe ulcerative colitis [see Contra
 
 ## 5.8 Prostatic Hypertrophy
 
-BENYL should be used with caution in patients with known or suspected prostatic enlargement, in whom prostatic enlargement may lead to urinary retention [see Adverse Reactions (6.3)]
+BENTYL should be used with caution in patients with known or suspected prostatic enlargement, in whom prostatic enlargement may lead to urinary retention [see Adverse Reactions (6.3)]
 
 ## 5.9 Hepatic and Renal Disease
 
 BENTYL should be used with caution in patients with known hepatic and renal impairment.
 
-## 5.10 Geriatic Population
+## 5.10 Geriatric Population
 
 Dicyclomine hydrochloride should be used with caution in elderly who may be more susceptible to its adverse effects.

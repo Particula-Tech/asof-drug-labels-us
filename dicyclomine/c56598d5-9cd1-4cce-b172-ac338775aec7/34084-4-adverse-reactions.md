@@ -6,11 +6,11 @@ These effects are dose-related and are usually reversible when treatment is disc
 
 The most serious adverse reactions reported with dicyclomine hydrochloride include cardiovascular and central nervous system symptoms [see Warnings and Precautions (5.2,5.3)].
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect the exposure in controlled clinical trials involving over 100 patients treated for functional bowel/irritable bowel syndrome with dicyclomine hydrochloride at initial doses of 160 mg daily (40 mg four times a day)
+The data described below reflect exposure in controlled clinical trials involving over 100 patients treated for functional bowel/irritable bowel syndrome with dicyclomine hydrochloride at initial doses of 160 mg daily (40 mg four times a day)
 
 In these trials most of the side effects were typically anticholinergic in nature and were reported by 61% of the patients.
 Table 1 presents adverse reactions (MedDRA 13.0 preferred terms) by decreasing order of frequency in a side-by-side comparison with placebo.
@@ -34,18 +34,21 @@ A dose reduction from 160 mg daily to an average daily dose of 90 mg was require
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions, presented by system organ class in alphabetical order, have been identified during post approval use of BENTYL.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their freqeuncy or establish a casual relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Cardiac disorders: palpitations, tachyarrhythmias
 - Eye disorders: cycloplegia, mydriasis, vision blurred
 - Gastrointestinal disorders: abdominal distension, abdominal pain, constipation, dry mouth, dyspepsia, nausea, vomiting
 - General disorders and administration site conditions: fatigue, malaise
-- Immune System Disorders: drug hypersensitivity including face oedema, angioedema, anaphylactic shock
-- Nervous system disorders: dizziness, headache, hallucinations insomnia, somnolence, syncope
-- Psychiatric disorders: confusional state, nervousness
+- Immune System Disorders: drug hypersensitivity including face edema, angioedema, anaphylactic shock
+- Nervous system disorders: dizziness, headache, somnolence, syncope
+- Psychiatric disorders: As with the other anti-cholinergic drugs, cases of delirium or symptoms of delirium such as amnesia (or transient global amnesia), agitation, confusional state, delusion, disorientation, hallucination (including visual hallucination) as well as mania, mood altered and pseudodementia, have been reported with the use of Dicyclomine.
+  Nervousness and insomnia have also been reported.
 - Reproductive system and breast disorders: suppressed lactation
-- Respiratory, thoracid and mediastinal disorders: dyspnoea, nasal congestion
+- Respiratory, thoracic and mediastinal disorders: dyspnoea, nasal congestion
 - Skin and subcutaneous tissue disorder: dermatitis allergic, erythema, rash
+
+Cases of thrombosis, thrombophlebitis and injection site reactions such as local pain, edema, skin color change and even reflex sympathetic dystrophy syndrome have been reported following inadverent IV injection of BENTYL.
 
 ## 6.3 Adverse Reactions Reported with Similar Drugs with Anticholinergic/Antispasmodic Action
 

@@ -7,5 +7,5 @@ BENTYL is contraindicated in infants less than 6 months of age [see Use in Speci
 - glaucoma [see Adverse Reactions (6.3) and Drug Interactions (7.1)]
 - obstructive uropathy [see Warnings and Precautions (5.8)]
 - obstructive disease of the gastrointestinal tract [see Warnings and Precautions (5.5)]
-- severe ulcerative colitis [see Warnings and Precautions (5.4)]
+- severe ulcerative colitis [see Warnings and Precautions (5.7)]
 - reflux esophagitis

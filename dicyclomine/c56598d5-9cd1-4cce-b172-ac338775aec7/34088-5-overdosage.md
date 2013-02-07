@@ -5,7 +5,7 @@ In case of an overdose, patients should contact a physician, poison control cent
 The signs and symptoms of overdosage include: headache; nausea; vomiting; blurred vision; dilated pupils; hot, dry skin; dizziness; dryness of the mouth; difficulty in swallowing; and CNS stimulation including convulsion.
 A curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).
 
-One reported event included a 37-year-old female who reported numbness on the left side, cold fingertips, blurred vision, abdominal and flank pain, decreased appetite, dry mouth, and nervousness following ingestion of 320 mg daily (four 20 mg tablets four times daily.)
+One reported event included a 37-year-old who reported numbness on the left side, cold fingertips, blurred vision, abdominal and flank pain, decreased appetite, dry mouth, and nervousness following ingestion of 320 mg daily (four 20 mg tablets four times daily.)
 These events resolved after discontinuing the dicyclomine.
 
 The acute oral LD50 of the drug is 625 mg/kg in mice.

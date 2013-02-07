@@ -12,9 +12,9 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## 8.3 Nursing Mothers
 
-BENTYL is contraindicated in women who are human milk feeding.
+BENTYL is contraindicated in women who are breastfeeding.
 Dicyclomine hydrochloride is excreted in human milk.
-Because of the potential for serious adverse reactions in human milk-fed infants from BENTYL, a decision should be made whether to discontine nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in breast-fed infants from BENTYL, a decision should be made whether to discontine nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 [see Use in Specific Populations (8.4)].
 
 ## 8.4 Pediatric Use
@@ -22,13 +22,13 @@ Because of the potential for serious adverse reactions in human milk-fed infants
 Safety and effectiveness in pediatric patients have not been established.
 
 BENTYL is contraindicated in infants less than 6 months of age.
-[see Contraindications (4)] There are published cases reporting that the administration of dicyclomine hydrochloride syrup to infants has been followed by serious respiratory symptoms (dyspnea, shortness of breath, breathlessness, respiratory collapse, apnea and asphyxia), seizures, syncope, pulse rate fluctuations, muscular hypotonia, and coma, and death, however; no causal relationship has been established.
+[see Contraindications (4)] There are published cases reporting that the administration of dicyclomine hydrochloride to infants has been followed by serious respiratory symptoms (dyspnea, shortness of breath, breathlessness, respiratory collapse, apnea and asphyxia), seizures, syncope, pulse rate fluctuations, muscular hypotonia, and coma, and death, however; no causal relationship has been established.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of BENTYL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range in adults, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 

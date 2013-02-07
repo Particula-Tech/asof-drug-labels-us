@@ -3,7 +3,7 @@
 ## 7.1 Antiglaucoma Agents
 
 Anticholinergics antagonize the effects of antiglaucoma agents.
-Anticholinergic drugs in the presence of increased intraocular pressure may be hazardous when taken concurrently with agents such as corticosteriods.
+Anticholinergic drugs in the presence of increased intraocular pressure may be hazardous when taken concurrently with agents such as corticosteroids.
 Use of BENTYL in patients with glaucoma is not recommended [see Contraindications (4)].
 
 ## 7.2 Other Drugs with Anticholinergic Activity
@@ -12,7 +12,7 @@ The following agents may increase certain actions or side effects of anticholine
 
 ## 7.3 Other Gastrointestinal Motility Drugs
 
-Interaction with other gastrointestinal motility drugs may antagonize the effects of drugs that alter gastrointestinal motility, such as metoclopraminde.
+Interaction with other gastrointestinal motility drugs may antagonize the effects of drugs that alter gastrointestinal motility, such as metoclopramide.
 
 ## 7.4 Effect of Antacids
 
@@ -20,7 +20,7 @@ Because antacids may interfere with the absorption of anticholinergic agents inc
 
 ## 7.5 Effect on Absorption of Other Drugs
 
-Anticholinergic agents may affect the gastrointestinal absorption of various drugs by affecting the gastrointestinal motility, such as slowly dissolving dosage forms of digoxin; increased serum digoxin concentration may result.
+Anticholinergic agents may affect gastrointestinal absorption of various drugs by affecting gastrointestinal motility, such as slowly dissolving dosage forms of digoxin; increased serum digoxin concentration may result.
 
 ## 7.6 Effect on Gastric Acid Secretion
 
