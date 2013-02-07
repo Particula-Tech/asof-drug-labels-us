@@ -1,10 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+See FDA-approved patient labeling (Medication Guide)
 
 Patients should be informed that liver problems including life-threatening cases have been reported with SELZENTRY.
-Patients should be informed that if they develop signs or symptoms of hepatitis or allergic reaction following use of SELZENTRY (rash, skin, or eyes look yellow; dark urine; vomiting; abdominal pain), they should stop SELZENTRY and seek medical evaluation immediately.
-Patients should understand that laboratory tests for liver enzymes and bilirubin will be ordered prior to starting SELZENTRY, at other times during treatment, and if they develop severe rash or signs and symptoms of hepatitis or an allergic reaction on treatment [see Warnings and Precautions (5.1)].
+Patients should be informed that if they develop signs or symptoms of hepatitis or allergic reaction following use of SELZENTRY (rash, skin or eyes look yellow, dark urine, vomiting, abdominal pain), they should stop SELZENTRY and seek medical evaluation immediately.
+Patients should understand that laboratory tests for liver enzymes and bilirubin will be ordered prior to starting SELZENTRY, at other times during treatment, and if they develop severe rash or signs and symptoms of hepatitis or an allergic reaction on treatment [see Warnings and Precautions (5.1), (5.2)].
 
 Patients should be informed that SELZENTRY is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 
@@ -28,7 +28,7 @@ If it is less than 6 hours before their next scheduled dose, they should not tak
 
 Patients should be advised that when their supply of SELZENTRY starts to run low, they should ask their doctor or pharmacist for a refill.
 
-Caution should be used when administering SELZENTRY in patients with a history of postural hypotension or on concomitant medication known to lower blood pressure.
+Caution should be used when administering SELZENTRYin patients with a history of postural hypotension or on concomitant medication known to lower blood pressure.
 Patients should be advised that if they experience dizziness while taking SELZENTRY, they should avoid driving or operating machinery.
 
 TROFILE® is a registered trademark of Monogram Biosciences, Inc.
@@ -45,13 +45,9 @@ Pfizer Manufacturing Deutschland GmbH
 
 Freiburg, Germany
 
-©2012, ViiV Healthcare.
+©2013, ViiV Healthcare.
 All rights reserved.
 
-August 2012
+SEL: 7PI
 
-SEL: 6PI
-
-PHARMACIST-DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _
+PHARMACIST‑DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT

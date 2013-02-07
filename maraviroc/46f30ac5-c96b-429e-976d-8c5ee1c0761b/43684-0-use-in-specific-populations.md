@@ -20,23 +20,23 @@ Because of the potential for both HIV transmission and serious adverse reactions
 
 ## 8.4 Pediatric Use
 
-The pharmacokinetics, safety and efficacy of maraviroc in patients aged <16 years have not been established.
+The pharmacokinetics, safety and efficacy of maraviroc in patients younger than 16 years have not been established.
 Therefore, maraviroc should not be used in this patient population.
 
 ## 8.5 Geriatric Use
 
-There were insufficient numbers of subjects aged 65 and over in the clinical studies to determine whether they respond differently from younger subjects.
+There were insufficient numbers of subjects aged 65 and over in the clinical trials to determine whether they respond differently from younger subjects.
 In general, caution should be exercised when administering SELZENTRY in elderly patients, also reflecting the greater frequency of decreased hepatic and renal function, of concomitant disease and other drug therapy.
 
 ## 8.6 Renal Impairment
 
-Recommended doses of SELZENTRY for patients with impaired renal function (CrCl ≤80 mL/min) are based on the results of a pharmacokinetic study conducted in healthy subjects with various degrees of renal impairment.
+Recommended doses of SELZENTRY for patients with impaired renal function (CrCl ≤80 mL/min) are based on the results of a pharmacokinetic trial conducted in healthy subjects with various degrees of renal impairment.
 The pharmacokinetics of maraviroc in subjects with mild and moderate renal impairment was similar to that in subjects with normal renal function [see Clinical Pharmacology (12.3)].
 A limited number of subjects with mild and moderate renal impairment in the Phase 3 clinical trials (n = 131 and n = 12, respectively) received the same dose of SELZENTRY as that administered to subjects with normal renal function.
 In these subjects there was no apparent difference in the adverse event profile for maraviroc compared with subjects with normal renal function.
 
 If patients with severe renal impairment or ESRD not receiving a concomitant potent CYP3A inhibitor or inducer experience any symptoms of postural hypotension while taking SELZENTRY 300 mg twice daily, the dose should be reduced to 150 mg twice daily.
-No studies have been performed in subjects with severe renal impairment or ESRD co-treated with potent CYP3A inhibitors or inducers.
+No trials have been performed in subjects with severe renal impairment or ESRD co-treated with potent CYP3A inhibitors or inducers.
 Hence, no dose of SELZENTRY can be recommended, and SELZENTRY is contraindicated for these patients [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
@@ -53,5 +53,5 @@ Dosage adjustment based on gender is not necessary.
 ## 8.9 Race
 
 Population pharmacokinetic analysis of pooled Phase 1/2a data indicated exposure was 26.5% higher in Asians (N = 95) as compared with non-Asians (n = 318).
-However, a study designed to evaluate pharmacokinetic differences between Caucasians (n = 12) and Singaporeans (n = 12) showed no difference between these 2 populations.
+However, a trial designed to evaluate pharmacokinetic differences between Caucasians (n = 12) and Singaporeans (n = 12) showed no difference between these 2 populations.
 No dose adjustment based on race is needed.

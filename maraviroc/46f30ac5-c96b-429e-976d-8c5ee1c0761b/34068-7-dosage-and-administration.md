@@ -26,7 +26,7 @@ Recommended Dosing Regimens Based on Renal Function
 
 | Concomitant Medicationsa | Dose of SELZENTRY Based on Renal Function |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Normal(CrCl>80 mL/min) | Mild(CrCl >50 and ≤80 mL/min) | Moderate(CrCl ≥30 and ≤50 mL/min) | Severe(CrCl <30 mL/min) | End-Stage Renal Disease (ESRD)On Regular Hemodialysis |  |
+| Normal(CrCl>80 mL/min) | Mild(CrCl >50 and ≤80 mL/min) | Moderate(CrCl ≥30 and ≤50 mL/min) | Severe(CrCl <30 mL/min) | End-Stage Renal Disease On Regular Hemodialysis |  |
 | Potent CYP3A inhibitors (with or without a CYP3A inducer)a | 150 mg twice daily | 150 mg twice daily | 150 mg twice daily | NR | NR |
 | Other concomitant medicationsa | 300 mg twice daily | 300 mg twice daily | 300 mg twice daily | 300 mg twice dailyb | 300 mg twice dailyb |
 | Potent CYP3A Inducers (without a potent CYP3A inhibitor)a | 600 mg twice daily | 600 mg twice daily | 600 mg twice daily | NR | NR |
@@ -35,4 +35,4 @@ NR = Not recommended.
 
 aSee Table 1 for the list of concomitant medications.
 
-bThe dose of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Warnings and Precautions (5.2)].
+bThe dose of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Warnings and Precautions (5.3)].

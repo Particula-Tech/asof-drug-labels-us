@@ -25,9 +25,9 @@ What is SELZENTRY?
 SELZENTRY is an anti-HIV medicine called a CCR5 antagonist.
 HIV-1 (Human Immunodeficiency Virus) is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
 
-SELZENTRY is used with other anti-HIV medicines in adults with CCR5-tropic HIV‑1 infection.
+SELZENTRY is used with other anti-HIV medicines in adults with CCR5-tropic HIV-1 infection.
 
-Use of SELZENTRY is not recommended in people with dual/mixed or CXCR4‑tropic HIV‑1.
+Use of SELZENTRY is not recommended in people with dual/mixed or CXCR4-tropic HIV-1.
 
 - SELZENTRY will not cure HIV-1 infection.
 - People taking SELZENTRY may still develop infections, including opportunistic infections or other conditions that happen with HIV-1 infection.
@@ -51,15 +51,15 @@ Avoid doing things that can spread HIV-1 infection.
 How does SELZENTRY work?
 
 HIV-1 enters cells in your blood by attaching itself to structures on the surface of the cell called receptors.
-SELZENTRY blocks a specific receptor called CCR5 that CCR5‑tropic HIV‑1 uses to enter CD4 or T‑cells in your blood.
-Your healthcare provider will do a blood test to see if you have been infected with CCR5‑tropic HIV‑1 before prescribing SELZENTRY for you.
+SELZENTRY blocks a specific receptor called CCR5 that CCR5-tropic HIV-1 uses to enter CD4 or T-cells in your blood.
+Your healthcare provider will do a blood test to see if you have been infected with CCR5-tropic HIV-1 before prescribing SELZENTRY for you.
 
 - When used with other anti-HIV medicines, SELZENTRY may:
 - reduce the amount of HIV-1 in your blood.
   This is called “viral load”.
 - increase the number of white blood cells called T (CD4) cells.
 
-SELZENTRY does not work in all people with CCR5‑tropic HIV‑1 infection.
+SELZENTRY does not work in all people with CCR5-tropic HIV-1 infection.
 
 Who should not take SELZENTRY?
 
@@ -77,7 +77,8 @@ Before you take SELZENTRY, tell your healthcare provider if you:
 - have any other medical condition.
 - are pregnant or plan to become pregnant.
   It is not known if SELZENTRY may harm your unborn baby.
-  Antiretroviral Pregnancy Registry.There is a pregnancy registry for women who take antiviral medicines during pregnancy.
+  Antiretroviral Pregnancy Registry.
+  There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   The purpose of the registry is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.
 
@@ -104,10 +105,10 @@ The levels of SELZENTRY in your blood may change and your healthcare provider ma
 | - etravirine (Intelence®)- rifampin (Rifadin®, Rifater®) | - rifampin (Rifadin®, Rifater®) |
 | - carbamezepine (Tegretol®) | -phenobarbital (Luminal®) |
 | - phenytoin (Dilantin®) |  |
-| - Ritonavir (Norvir® |  |
+| - ritonavir (Norvir® |  |
 
-Do not take products that contain St. John’s Wort (hypericum perforatum).
-St. John’s Wort may lower the levels of SELZENTRY in your blood so that it will not work to treat your CCR5-tropic HIV infection.
+Do not take products that contain St. John’s wort (Hypericum perforatum).
+St. John’s wort may lower the levels of SELZENTRY in your blood so that it will not work to treat your CCR5-tropic HIV-1 infection.
 
 Know the medicines you take.
 Keep a list of your medicines.
@@ -116,7 +117,7 @@ Show the list to your healthcare provider and pharmacist when you get a new medi
 How should I take SELZENTRY?
 
 Take SELZENTRY exactly as prescribed by your healthcare provider.
-SELZENTRY comes in 150‑mg and 300‑mg tablets.
+SELZENTRY comes in 150-mg and 300-mg tablets.
 Your healthcare provider will prescribe the dose that is right for you.
 
 - Take SELZENTRY 2 times a day.
@@ -132,7 +133,7 @@ Do not change your dose or stop taking SELZENTRY or your other anti-HIV medicine
   If it is less than 6 hours before your next dose, do not take the missed dose.
   Wait and take the next dose at the regular time.
   Do not take a double dose to make up for a missed dose.
-- It is very important to take all your anti‑HIV medicines as prescribed.
+- It is very important to take all your anti-HIV medicines as prescribed.
   This can help your medicines work better.
   It also lowers the chance that your medicines will stop working to fight HIV-1 (drug resistance).
 - When your SELZENTRY supply starts to run low, ask your healthcare provider or pharmacist for a refill.
@@ -144,6 +145,24 @@ There have been serious side effects when SELZENTRY has been given with other an
 
 - Liver problems.
   See “What is the most important information I should know about SELZENTRY?”
+
+- Serious skin rash and allergic reactions.
+  Severe and potentially life-threatening skin reactions and allergic reactions have been reported in some patients taking SELZENTRY.
+  If you develop a rash with any of the following symptoms, stop using SELZENTRY and contact your doctor right away:
+  - fever
+  - generally ill feeling
+  - muscle aches
+  - blisters or sores in your mouth
+  - blisters or peeling of the skin
+  - redness or swelling of the eyes
+  - swelling of the mouth or face or lips
+  - problems breathing
+  - yellowing of the skin or whites of your eyes
+  - dark or tea colored urine
+  - pain, aching, or tenderness on the right side below the ribs
+  - loss of appetite
+  - nausea/vomiting
+
 - Heart problems including heart attack.
 - Low blood pressure when standing up (postural hypotension).
   Low blood pressure when standing up can cause dizziness or fainting.
@@ -210,9 +229,9 @@ Pfizer Manufacturing Deutschland GmbH
 
 Freiburg, Germany
 
-©2012, ViiV Healthcare.
+©2013, ViiV Healthcare.
 All rights reserved.
 
-August 2012
+February 2013
 
-SEL:3MG
+SEL:4MG
