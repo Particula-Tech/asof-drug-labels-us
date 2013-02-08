@@ -40,4 +40,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2012-41
+T2013-05 January 2013

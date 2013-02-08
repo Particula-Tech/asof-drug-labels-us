@@ -30,7 +30,7 @@ Patients with cardiac disease or risk factors for cardiac or history of renal fa
 Hepatotoxicity, occasionally severe, may occur with Gleevec [see Adverse Reactions (6.3)].
 Cases of fatal liver failure and severe liver injury requiring liver transplants have been reported with both short-term and long-term use of Gleevec.
 Liver function (transaminases, bilirubin, and alkaline phosphatase) should be monitored before initiation of treatment and monthly, or as clinically indicated.
-Laboratory abnormalities should be managed with Gleevec interruption and/or dose reduction [see Dosage and Administration (2.11)].
+Laboratory abnormalities should be managed with Gleevec interruption and/or dose reduction [see Dosage and Administration (2.12)].
 
 When Gleevec is combined with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
 Additionally, there have been reports of acute liver failure.
@@ -52,9 +52,9 @@ There have been rare reports, including fatalities, of gastrointestinal perforat
 
 ## 5.7 Hypereosinophilic Cardiac Toxicity
 
-In patients with hypereosinophilic syndrome and cardiac involvement, cases of cardiogenic shock/left ventricular dysfunction have been associated with the initiation of Gleevec therapy.
+In patients with hypereosinophilic syndrome with occult infiltration of HES cells within the myocardium, cases of cardiogenic shock/left ventricular dysfunction have been associated with HES cell degranulation upon the initiation of Gleevec therapy.
 The condition was reported to be reversible with the administration of systemic steroids, circulatory support measures and temporarily withholding Gleevec.
-Myelodysplastic/myeloproliferative disease and systemic mastocytosis may be associated with high eosinophil levels.
+Myelodysplastic/ myeloproliferative disease and systemic mastocytosis may be associated with high eosinophil levels.
 Performance of an echocardiogram and determination of serum troponin should therefore be considered in patients with HES/CEL, and in patients with MDS/MPD or ASM associated with high eosinophil levels.
 If either is abnormal, the prophylactic use of systemic steroids (1-2 mg/kg) for one to two weeks concomitantly with Gleevec should be considered at the initiation of therapy.
 

@@ -25,14 +25,18 @@ Because of the potential for serious adverse reactions in nursing infants from G
 
 ## 8.4 Pediatric Use
 
-Gleevec safety and efficacy have been demonstrated in children with newly diagnosed Ph+ chronic phase CML.
-There are no data in children under 2 years of age.
+Gleevec safety and efficacy have been demonstrated in children with newly diagnosed Ph+ chronic phase CML and Ph+ ALL.
+There are no data in children under 1 year of age.
 
 As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2-4 hours.
 Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs. 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).
 Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to the 400 mg dose in adults.
 The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
 Mean imatinib AUC did not increase proportionally with increasing dose.
+
+Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
+After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
+The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
 
 ## 8.5 Geriatric Use
 
@@ -50,13 +54,13 @@ The efficacy of Gleevec was similar in patients older than 65 years and younger 
 
 ## 8.6 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 cancer patients with varying degrees of hepatic impairment (Table 13) at imatinib doses ranging from 100-800 mg.
+The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 cancer patients with varying degrees of hepatic impairment (Table 14) at imatinib doses ranging from 100-800 mg.
 Exposure to both imatinib and CGP74588 was comparable between each of the mildly and moderately hepatically-impaired groups and the normal group.
 Patients with severe hepatic impairment tend to have higher exposure to both imatinib and its metabolite than patients with normal hepatic function.
 At steady state, the mean Cmax/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
 The mean Cmax/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function [see Dosage and Administration (2.11)].
 
-Table 13 Liver Function Classification
+Table 14 Liver Function Classification
 
 | Liver Function Test | Normal (n=14) | Mild (n=30) | Moderate (n=20) | Severe (n=20) |
 | --- | --- | --- | --- | --- |
@@ -66,14 +70,14 @@ Table 13 Liver Function Classification
 
 ## 8.7 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment (Table 14) at single and steady state imatinib doses ranging from 100 to 800 mg/day.
+The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment (Table 15) at single and steady state imatinib doses ranging from 100 to 800 mg/day.
 The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
 The AUCs did not increase for doses greater than 600 mg in patients with mild renal impairment.
 The AUCs did not increase for doses greater than 400 mg in patients with moderate renal impairment.
 Two patients with severe renal impairment were dosed with 100 mg/day and their exposures were similar to those seen in patients with normal renal function receiving 400 mg/day.
-Dose reductions are necessary for patients with moderate and severe renal impairment [See Dosage and Administration (2.10)].
+Dose reductions are necessary for patients with moderate and severe renal impairment [See Dosage and Administration (2.11)].
 
-Table 14 Renal Function Classification
+Table 15 Renal Function Classification
 
 | Renal Dysfunction | Renal Function Tests |
 | --- | --- |

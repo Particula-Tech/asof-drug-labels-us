@@ -4,8 +4,9 @@ Therapy should be initiated by a physician experienced in the treatment of patie
 The prescribed dose should be administered orally, with a meal and a large glass of water.
 Doses of 400 mg or 600 mg should be administered once daily, whereas a dose of 800 mg should be administered as 400 mg twice a day.
 
-In children, Gleevec treatment can be given as a once-daily dose or alternatively the daily dose may be split into two - once in the morning and once in the evening.
-There is no experience with Gleevec treatment in children under 2 years of age.
+In children, Gleevec treatment can be given as a once-daily dose in CML and Ph+ ALL.
+Alternatively, in children with CML the daily dose may be split into two - one portion dosed in the morning and one portion in the evening.
+There is no experience with Gleevec treatment in children under 1 year of age.
 
 For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of water or apple juice.
 The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 mL for a 100 mg tablet, and 200 mL for a 400 mg tablet) and stirred with a spoon.
@@ -25,44 +26,48 @@ In CML, a dose increase from 400 mg to 600 mg in adult patients with chronic pha
 
 The recommended dose of Gleevec for children with newly diagnosed Ph+ CML is 340 mg/m2/day (not to exceed 600 mg).
 
-## 2.3 Ph+ ALL
+## 2.3 Adults Patients with Ph+ ALL
 
 The recommended dose of Gleevec is 600 mg/day for adult patients with relapsed/refractory Ph+ ALL.
 
-## 2.4 MDS/MPD
+## 2.4 Pediatric Patients with Ph+ ALL
+
+The recommended dose of Gleevec to be given in combination with chemotherapy to children with newly diagnosed Ph+ ALL is 340mg/m2/day (not to exceed 600mg).
+
+## 2.5 MDS/MPD
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with MDS/MPD.
 
-## 2.5 ASM
+## 2.6 ASM
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with ASM without the D816V c-Kit mutation.
 If c-Kit mutational status is not known or unavailable, treatment with Gleevec 400 mg/day may be considered for patients with ASM not responding satisfactorily to other therapies.
 For patients with ASM associated with eosinophilia, a clonal hematological disease related to the fusion kinase FIP1L1-PDGFRα, a starting dose of 100 mg/day is recommended.
 Dose increase from 100 mg to 400 mg for these patients may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
-## 2.6 HES/CEL
+## 2.7 HES/CEL
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with HES/CEL.
 For HES/CEL patients with demonstrated FIP1L1-PDGFRα fusion kinase, a starting dose of 100 mg/day is recommended.
 Dose increase from 100 mg to 400 mg for these patients may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
-## 2.7 DFSP
+## 2.8 DFSP
 
 The recommended dose of Gleevec is 800 mg/day for adult patients with DFSP.
 
-## 2.8 Metastatic or Unresectable GIST
+## 2.9 Metastatic or Unresectable GIST
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with unresectable and/or metastatic, malignant GIST.
 A dose increase up to 800 mg daily (given as 400 mg twice daily) may be considered, as clinically indicated, in patients showing clear signs or symptoms of disease progression at a lower dose and in the absence of severe adverse drug reactions.
 
-## 2.9 Adjuvant GIST
+## 2.10 Adjuvant GIST
 
 The recommended dose of Gleevec is 400 mg/day for the adjuvant treatment of adult patients following complete gross resection of GIST.
 In clinical trials one year of Gleevec and three years of Gleevec were studied.
 In the patient population defined in Study 2, three years of Gleevec is recommended [see Clinical Studies (14.8)].
 The optimal treatment duration with Gleevec is not known.
 
-## 2.10 Dose Modification Guidelines
+## 2.11 Dose Modification Guidelines
 
 Concomitant Strong CYP3A4 inducers: The use of concomitant strong CYP3A4 inducers should be avoided (e.g., dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, rifampacin, phenobarbital).
 If patients must be co-administered a strong CYP3A4 inducer, based on pharmacokinetic studies, the dosage of Gleevec should be increased by at least 50%, and clinical response should be carefully monitored [see Drug Interactions (7.1)].
@@ -77,7 +82,7 @@ For patients with moderate renal impairment doses greater than 400 mg are not re
 Imatinib should be used with caution in patients with severe renal impairment.
 A dose of 100 mg/day was tolerated in two patients with severe renal impairment [See Warnings and Precautions (5.3),Use in Specific Populations (8.7)].
 
-## 2.11 Dose Adjustment for Hepatotoxicity and Non-Hematologic Adverse Reactions
+## 2.12 Dose Adjustment for Hepatotoxicity and Non-Hematologic Adverse Reactions
 
 If elevations in bilirubin >3 x institutional upper limit of normal (IULN) or in liver transaminases >5 x IULN occur, Gleevec should be withheld until bilirubin levels have returned to a <1.5 x IULN and transaminase levels to <2.5 x IULN.
 In adults, treatment with Gleevec may then be continued at a reduced daily dose (i.e., 400 mg to 300 mg, 600 mg to 400 mg or 800 mg to 600 mg).
@@ -86,7 +91,7 @@ In children, daily doses can be reduced under the same circumstances from 340 mg
 If a severe non-hematologic adverse reaction develops (such as severe hepatotoxicity or severe fluid retention), Gleevec should be withheld until the event has resolved.
 Thereafter, treatment can be resumed as appropriate depending on the initial severity of the event.
 
-## 2.12 Dose Adjustment for Hematologic Adverse Reactions
+## 2.13 Dose Adjustment for Hematologic Adverse Reactions
 
 Dose reduction or treatment interruptions for severe neutropenia and thrombocytopenia are recommended as indicated in Table 1.
 
