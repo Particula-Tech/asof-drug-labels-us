@@ -1,6 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (Medication Guide) .
+See FDA-approved Patient Labeling (Medication Guide).
+
 Counsel patients on the benefits and risks of receiving levetiracetam.
 Provide the Medication Guide to patients and/or caregivers, and instruct them to read the Medication Guide prior to taking levetiracetam.
 Instruct patients to take levetiracetam only as prescribed.
@@ -14,4 +15,4 @@ Pregnancy Advise patients to notify their healthcare provider if they become pre
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)] .
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 01/2013

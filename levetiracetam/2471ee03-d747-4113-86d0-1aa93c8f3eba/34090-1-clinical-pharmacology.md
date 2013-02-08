@@ -54,8 +54,8 @@ The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
 Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
 However, there was about a 22% increase of apparent clearance of levetiracetam when it was coadministered with an enzyme-inducing AED (e.g., carbamazepine).
-Following single dose administration (20 mg/kg) of a 10% oral solution to children with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
-The pharmacokinetic results indicated that half-life was shorter (5.3 h) than for adults (7.2 h) and apparent clearance was faster (1.5 mL/min/kg) than for adults (0.96 mL/min/kg).
+Pharmacokinetics information in pediatric patients less than 4 years of age is approved for UCB, Inc.’s levetiracetam tablets.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information .
 Population pharmacokinetic analysis showed that body weight was significantly correlated to the clearance of levetiracetam in pediatric patients; clearance increased with an increase in body weight.
 Pregnancy Levetiracetam levels may decrease during pregnancy.
 Gender Levetiracetam C max and AUC were 20% higher in women (N=11) compared to men (N=12).

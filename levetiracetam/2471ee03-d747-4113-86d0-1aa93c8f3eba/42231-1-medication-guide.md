@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-MEDICATION GUIDE Levetiracetam Tablets USP Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
+Levetiracetam Tablets USP Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 What is the most important information I should know about levetiracetam tablets?
@@ -37,7 +37,7 @@ What are levetiracetam tablets?
 
 Levetiracetam tablets are a prescription medicine taken by mouth that is used with other medicines to treat:
 
-- partial onset seizures in people 1 month of age and older with epilepsy
+- partial onset seizures in people 4 years of age and older with epilepsy
 - myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
 - primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
@@ -83,7 +83,7 @@ Take levetiracetam tablets exactly as prescribed.
   Ask your healthcare provider for levetiracetam oral solution if you cannot swallow tablets.
 - If your healthcare provider has prescribed levetiracetam oral solution, be sure to ask your pharmacist for a medicine dropper or medicine cup to help you measure the correct amount of levetiracetam oral solution.
   Do not use a household teaspoon.
-  Ask your pharmacist for instructions on how to use the measuring device the right away.
+  Ask your pharmacist for instructions on how to use the measuring device the right way.
 - If you miss a dose of levetiracetam tablets, take it as soon as you remember.
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
@@ -144,7 +144,11 @@ If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
 You can also get information about levetiracetam tablets by calling 1-866-850-2876.
 What are the ingredients of levetiracetam tablets?
-Active ingredient: levetiracetam Inactive ingredients: corn starch, colloidal silicon dioxide, povidone, talc, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and purified water.
-In addition 250 mg contains FD&C Blue #2/indigo carmine aluminum lake, 500 mg contains iron oxide yellow, and 750 mg contains FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Blue #2/indigo carmine aluminum lake, and iron oxide red.
+Active ingredient: levetiracetam Inactive ingredients: corn starch, colloidal silicon dioxide, povidone, talc, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, purified water and additional agents listed below:.
+250 mg tablets: FD&C Blue #2/indigo carmine aluminum lake 500 mg tablets: iron oxide yellow 750 mg tablets: FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Blue #2/indigo carmine aluminum lake and iron oxide red.
+
+Information on the use of levetiracetam in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2012
+
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 01/2013

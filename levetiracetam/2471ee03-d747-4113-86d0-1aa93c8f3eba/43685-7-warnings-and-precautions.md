@@ -4,10 +4,12 @@
 
 In some patients levetiracetam causes behavioral abnormalities.
 The incidences of behavioral abnormalities in the myoclonic and primary generalized tonic-clonic seizure studies were comparable to those of the adult and pediatric partial onset seizure studies.
-A total of 13.3% of adult levetiracetam-treated patients and 37.6% of pediatric levetiracetam-treated patients (4 to 16 years of age) compared to 6.2% and 18.6% of adult and pediatric placebo patients respectively, experienced non-psychotic behavioral symptoms (reported as aggression, agitation, anger, anxiety , apathy, depersonalization, depression, emotional lability, hostility, hyperkinesias, irritability, nervousness, neurosis, and personality disorder).
+
+A total of 13.3% of adult levetiracetam-treated patients and 37.6% of pediatric levetiracetam-treated patients (4 to 16 years of age) compared to 6.2% and 18.6% of adult and pediatric placebo patients respectively, experienced non-psychotic behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, hyperkinesias, irritability, nervousness, neurosis, and personality disorder).
 A randomized double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of levetiracetam as adjunctive therapy in pediatric patients (4 to 16 years of age).
 The results from an exploratory analysis indicated a worsening in levetiracetam-treated patients on aggressive behavior (one of eight behavior dimensions) as measured in a standardized and systematic way using a validated instrument, the Achenbach Child Behavior Checklist (CBCL/6 to 18).
 In pediatric patients 1 month to < 4 years of age, irritability was reported in 11.7% of the levetiracetam-treated patients compared to 0% of placebo patients.
+
 A total of 1.7% of adult levetiracetam-treated patients discontinued treatment due to behavioral adverse events, compared to 0.2% of placebo patients.
 The treatment dose was reduced in 0.8% of adult levetiracetam-treated patients and in 0.5% of placebo patients.
 Overall, 10.9% of levetiracetam-treated pediatric patients experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6.2% of placebo patients.
@@ -98,7 +100,9 @@ The mean decreases from baseline in the levetiracetam-treated group were -0.4 x 
 Mean relative lymphocyte counts increased by 1.7% in levetiracetam-treated patients, compared to a decrease of 4% in placebo patients (statistically significant).
 In the controlled trial, more levetiracetam-treated patients had a possibly clinically significant abnormally low WBC value (3% levetiracetam-treated versus 0% placebo), however, there was no apparent difference between treatment groups with respect to neutrophil count (5% levetiracetam-treated versus 4.2% placebo).
 No patient was discontinued secondary to low WBC or neutrophil counts.
-In the controlled cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the levetiracetam-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7 x 10 9 /L).
+
+In the controlled cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the levetiracetam-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7 x 109/L).
+
 Juvenile Myoclonic Epilepsy Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
 The data from the partial seizure patients should be considered to be relevant for JME patients.
 
