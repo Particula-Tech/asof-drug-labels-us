@@ -1,6 +1,6 @@
 Medication Guide
 
-Cymbalta®[sim-BALL-tah] (Duloxetine Delayed-Release Capsules)
+Cymbalta® [sim-BALL-tah] (Duloxetine Delayed-Release Capsules)
 
 Read the Medication Guide that comes with Cymbalta® before you start taking it and each time you get a refill.
 There may be new information.
