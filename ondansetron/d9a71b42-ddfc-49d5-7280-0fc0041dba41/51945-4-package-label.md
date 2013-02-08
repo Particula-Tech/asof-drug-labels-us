@@ -21,15 +21,9 @@ Sterile
 
 20-mL Multidose Vial
 
-*Each 1 mL of aqueous solution contains ondansetron 2 mg as ondansetron hydrochloride dihydrate; sodium chloride 8.3 mg; citric acid monohydrate 0.5 mg and sodium citrate dehydrate 0.25 mg as buffers; methylparaben 1.2 mg and propylparaben 0.15 mg as preservatives.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in England
+Made in Singapore
 
 ©2002, GlaxoSmithKline
 
-4146298 Rev.
-7/02
+10000000110796 Rev.
+10/12
