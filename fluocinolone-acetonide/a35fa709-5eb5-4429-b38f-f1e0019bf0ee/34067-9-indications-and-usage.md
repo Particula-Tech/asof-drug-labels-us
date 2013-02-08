@@ -12,4 +12,4 @@ The following are important statements relating to the indication and usage of T
 - The safety and efficacy of TRI-LUMA Cream in patients of skin types V and VI have not been studied.
   Excessive bleaching resulting in undesirable cosmetic effect in patients with darker skin cannot be excluded.
 - The safety and efficacy of TRI-LUMA Cream in the treatment of hyperpigmentation conditions other than melasma of the face have not been studied.
-- Because pregnant and lactating women were excluded from, and women of child-bearing potential had to use birth control measures in the clinical trials, the safety and efficacy of TRI-LUMA Cream in pregnant women and nursing mothers have not been established (See PRECAUTIONS, Pregnancy).
+- Because pregnant and lactating women were excluded from, and women of childbearing potential had to use birth control measures in the clinical trials, the safety and efficacy of TRI-LUMA Cream in pregnant women and nursing mothers have not been established (See PRECAUTIONS, Pregnancy).

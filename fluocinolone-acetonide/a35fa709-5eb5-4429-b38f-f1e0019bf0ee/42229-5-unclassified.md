@@ -52,7 +52,7 @@ If you are pregnant, think you are pregnant, plan to be pregnant or are nursing 
 Your doctor will decide with you whether the benefits in using TRI-LUMA Cream will be greater than the risks.
 If possible, delay treatment with TRI-LUMA Cream until after the baby is born.
 
-Tell your doctor about all the other medicines and skin products you use, including prescription and nonprescription medicines, cosmetics, and supplements.
+Tell your doctor about all the other medicines and skin products you use, including prescription and non-prescription medicines, cosmetics, and supplements.
 They may make your skin more sensitive to sunlight.
 
 How should I use TRI-LUMA Cream?
@@ -160,4 +160,14 @@ You can ask your pharmacist or doctor for information about TRI-LUMA that is wri
 Ingredients: TRI-LUMA Cream contains fluocinolone acetonide, hydroquinone, and tretinoin as active ingredients, as well as the following in the cream base: butylated hydroxytoluene, cetyl alcohol, citric acid, glycerin, glyceryl stearate, magnesium aluminum silicate, methyl gluceth-10, methylparaben, PEG-100 stearate, propylparaben, purified water, sodium metabisulfite, stearic acid, and stearyl alcohol.
 
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, TX 76177 USA Manufactured by: Hill Dermaceuticals, Inc. Sanford, FL 32773 USA 20071-0210 Revised February 2010
+Fort Worth, TX 76177 USA
+
+Manufactured by:
+
+Hill Dermaceuticals, Inc. Sanford, FL 32773 USA
+
+or
+
+Manufactured by: G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
+
+P52091-0 Revised: January 2013

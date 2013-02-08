@@ -22,14 +22,15 @@ See package insert for complete prescribing information.
 Each gram contains: Active: fluocinolone acetonide 0.01% (0.1 mg), hydroquinone 4% (40 mg), and tretinoin 0.05% (0.5mg).
 Inactive: butylated hydroxytouluene, cetyl alcohol, citric acid, glycerin, glyceryl stearate, magnesium aluminum silicate, methyl gluceth-10, methylparaben, PEG-100 stearate, propylparaben, purified water, sodium metabisulfite, stearic acid, and stearyl alcohol.
 
-Storage: Keep tightly closed.
-Store at controlled room temperature 68° to 77°F (20°-25°C), excursions permitted between 59° and 86°F (15°-30°C).
+Storage: Store in a refrigerator, 36° to 46°F (2°-8°C).
 Protect from freezing.
 
-US Patent Pending www.triluma.com
+See carton closure for lot number and expiration date.
+
+www.triluma.com
 
 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA Manufactured by: Hill Dermaceuticals, Inc. Sanford, Florida 32773 USA GALDERMA is a registered trademark.
-10084-0507
+10084-0312
 
 Lot No: Exp.Date:
