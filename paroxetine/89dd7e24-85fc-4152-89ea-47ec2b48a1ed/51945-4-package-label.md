@@ -6,7 +6,7 @@ Paroxetine Tablets, USP 10 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
 Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 10 mg of paroxetine.
 
@@ -23,9 +23,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM7001H4
+RM7001H5
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -35,7 +35,7 @@ Paroxetine Tablets, USP 20 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
 Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 20 mg of paroxetine.
 
@@ -52,9 +52,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM7002H4
+RM7002H5
 
 PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -64,7 +64,7 @@ Paroxetine Tablets, USP 30 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
 Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 30 mg of paroxetine.
 
@@ -81,9 +81,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM7003H4
+RM7003H5
 
 PRINCIPAL DISPLAY PANEL - 40 mg
 
@@ -93,7 +93,7 @@ Paroxetine Tablets, USP 40 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
 Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 40 mg of paroxetine.
 
@@ -110,6 +110,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM7004H4
+RM7004H5
