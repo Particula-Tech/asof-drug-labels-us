@@ -2,36 +2,36 @@
 
 Ventricular Arrhythmia
 
-Sotalol can cause serious ventricular arrhythmias, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QT interval prolongation.
-QT interval prolongation is directly related to the dose of sotalol hydrochloride tablets (AF).
+Sotalol (AF) can cause serious ventricular arrhythmias, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QT interval prolongation.
+QT interval prolongation is directly related to the dose of sotalol (AF).
 Factors such as reduced creatinine clearance, gender (female) and larger doses increase the risk of TdP.
-The risk of TdP can be reduced by adjustment of the sotalol hydrochloride tablets (AF) dose according to creatinine clearance and by monitoring the ECG for excessive increases in the QT interval.
+The risk of TdP can be reduced by adjustment of the sotalol (AF) dose according to creatinine clearance and by monitoring the ECG for excessive increases in the QT interval.
 
-Treatment with sotalol hydrochloride tablets (AF) must therefore be started only in patients observed for a minimum of three days on their maintenance dose in a facility that can provide electrocardiographic monitoring and in the presence of personnel trained in the management of serious ventricular arrhythmias.
-Calculation of the creatinine clearance must precede administration of the first dose of sotalol hydrochloride tablets (AF).
+Treatment with sotalol (AF) must therefore be started only in patients observed for a minimum of three days on their maintenance dose in a facility that can provide electrocardiographic monitoring and in the presence of personnel trained in the management of serious ventricular arrhythmias.
+Calculation of the creatinine clearance must precede administration of the first dose of sotalol (AF).
 For detailed instructions regarding dose selection, see DOSAGE AND ADMINISTRATION.
 
-## Proarrhythmia in Atrial Fibrillation/Atrial Flutter Patients:
+## Proarrhythmia in Atrial Fibrillation/Atrial Flutter Patients
 
-In eight controlled trials of patients with AFIB/AFL and other supraventricular arrhythmias (N=659) there were four cases of Torsade de Pointes reported (0.6%) during the controlled phase of treatment with sotalol hydrochloride tablets (AF).
+In eight controlled trials of patients with AFIB/AFL and other supraventricular arrhythmias (N=659) there were four cases of Torsade de Pointes reported (0.6%) during the controlled phase of treatment with sotalol (AF).
 The incidence of Torsade de Pointes was significantly lower in those patients receiving total daily doses of 320 mg or less (0.3%), as summarized in Table 5 below.
 Both patients who had Torsade de Pointes in the group receiving >320 mg/day were receiving 640 mg/day.
 In the group receiving ≤320 mg daily, one case of TdP occurred at a daily dose of 320 mg on day 4 of treatment and one case occurred on a daily dose of 160 mg on day 1 of treatment.
 
 Table 5 Incidence of Torsade de Pointes in Controlled Trials of AFIB and Other Supraventricular Arrhythmias
 
-|  | Sotalol Hydrochloride Tablets (AF) (Daily Dose) |  |  |  |  |
+|  | Sotalol Hydrochloride (AF) (Daily Dose) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | AnyDose(N=659) | >320mg/day(N=62) | ≤320mg/day(N=597) | ≤240mg/day(N=340) | Placebo(N=358) |  |
 | n(%) | n(%) | n(%) | n(%) | n(%) |  |
 | Torsade de Pointes | 4(0.6%) | 2(3.2%) | 2(0.3%) | 1(0.3%) | 0 |
 
 Prolongation of the QT interval is dose related, increasing from baseline an average of 25, 40, and 50 msec in the 80, 120, and 160 mg groups, respectively, in the clinical dose-response study.
-In this clinical trial sotalol hydrochloride tablets (AF) treatment was not initiated if the QT interval was greater than 450 msec and during therapy the dose was reduced or discontinued if the QT interval was ≥520 msec.
+In this clinical trial sotalol (AF) treatment was not initiated if the QT interval was greater than 450 msec and during therapy the dose was reduced or discontinued if the QT interval was ≥520 msec.
 
 Experience in patients with ventricular arrhythmias is also pertinent to the risk of Torsade de Pointes in patients with AFIB/AFL (see below).
 
-## Proarrhythmia in Ventricular Arrhythmia Patients: [see Sotalol Hydrochloride Package Insert]
+## Proarrhythmia in Ventricular Arrhythmia Patients [see Sotalol Hydrochloride Package Insert]
 
 In patients with a history of sustained ventricular tachycardia, the incidence of Torsade de Pointes during sotalol treatment was 4% and worsened VT in about 1%; in patients with other less serious ventricular arrhythmias the incidence of Torsade de Pointes was 1% and new or worsened VT in about 0.7%.
 Additionally, in approximately 1% of patients, deaths were considered possibly drug related; such cases, although difficult to evaluate, may have been associated with proarrhythmic events.
@@ -57,9 +57,9 @@ Table 7 Relationship Between QTc Interval Prolongation and Torsade de Pointes
 | On-TherapyQTc Interval(msec) | Incidence ofTorsade dePointes | Change in QTcInterval FromBaseline (msec) | Incidence ofTorsade dePointes |
 | --- | --- | --- | --- |
 | less than 500 | 1.3% (1787)() Number of patients assessed | less than 65 | 1.6% (1516) |
-| 500-525 | 3.4% (236) | 65-80 | 3.2% (158) |
-| 525-550 | 5.6% (125) | 80-100 | 4.1% (146) |
-| >550 | 10.8% (157) | 100-130 | 5.2% (115) |
+| 500 to 525 | 3.4% (236) | 65 to 80 | 3.2% (158) |
+| 525 to 550 | 5.6% (125) | 80 to100 | 4.1% (146) |
+| >550 | 10.8% (157) | 100 to130 | 5.2% (115) |
 |  |  | >130 | 7.1% (99) |
 
 In addition to dose and presence of sustained VT, other risk factors for Torsade de Pointes were gender (females had a higher incidence), excessive prolongation of the QTc interval and history of cardiomegaly or congestive heart failure.
@@ -71,20 +71,20 @@ Although sotalol therapy was discontinued in most patients experiencing Torsade 
 
 ## Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents
 
-The use of sotalol hydrochloride tablets (AF) in conjunction with other drugs that prolong the QT interval has not been studied and is not recommended.
+The use of sotalo (AF) in conjunction with other drugs that prolong the QT interval has not been studied and is not recommended.
 Such drugs include many antiarrhythmics, some phenothiazines, bepridil, tricyclic antidepressants, and certain oral macrolides.
-Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with sotalol hydrochloride tablets (AF).
-In clinical trials, sotalol hydrochloride tablets (AF) was not administered to patients previously treated with oral amiodarone for >1 month in the previous three months.
-Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with sotalol hydrochloride tablets (AF) because of their potential to prolong refractoriness (see WARNINGS).
+Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with sotalol (AF).
+In clinical trials, sotalots (AF) was not administered to patients previously treated with oral amiodarone for >1 month in the previous three months.
+Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with sotalots (AF), because of their potential to prolong refractoriness (see WARNINGS).
 There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics.
 
 ## Congestive Heart Failure
 
 Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure, and beta-blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
-In patients who have heart failure controlled by digitalis and/or diuretics, sotalol hydrochloride tablets (AF) should be administered cautiously.
+In patients who have heart failure controlled by digitalis and/or diuretics, sotalol (AF) should be administered cautiously.
 Both digitalis and sotalol slow AV conduction.
 As with all beta-blockers, caution is advised when initiating therapy in patients with any evidence of left ventricular dysfunction.
-In a pooled data base of four placebo-controlled AFIB/AFL and PSVT studies, new or worsening CHF occurred during therapy with sotalol hydrochloride tablets (AF) in 5 (1.2%) of 415 patients.
+In a pooled data base of four placebo-controlled AFIB/AFL and PSVT studies, new or worsening CHF occurred during therapy with sotalol (AF) in 5 (1.2%) of 415 patients.
 In these studies patients with uncontrolled heart failure were excluded (i.e., NYHA Functional Classes III or IV).
 In other premarketing sotalol studies, new or worsened congestive heart failure (CHF) occurred in 3.3% (n=3257) of patients and led to discontinuation in approximately 1% of patients receiving sotalol.
 The incidence was higher in patients presenting with sustained ventricular tachycardia/fibrillation (4.6%, n=1363), or a prior history of heart failure (7.3%, n=696).
@@ -93,90 +93,89 @@ NYHA Classification was also closely associated to the incidence of new or worse
 
 ## Electrolyte Disturbances
 
-Sotalol hydrochloride tablets (AF) should not be used in patients with hypokalemia or hypomagnesemia prior to correction of imbalance, as these conditions can exaggerate the degree of QT prolongation, and increase the potential for Torsade de Pointes.
+Sotalol (AF) should not be used in patients with hypokalemia or hypomagnesemia prior to correction of imbalance, as these conditions can exaggerate the degree of QT prolongation, and increase the potential for Torsade de Pointes.
 Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
 
 ## Bradycardia/Heart Block
 
-The incidence of bradycardia (as determined by the investigators) in the supraventricular arrhythmia population treated with sotalol hydrochloride tablets (AF) (N = 415) was 13%, and led to discontinuation in 2.4% of patients.
+The incidence of bradycardia (as determined by the investigators) in the supraventricular arrhythmia population treated with sotalol (AF) (N = 415) was 13%, and led to discontinuation in 2.4% of patients.
 Bradycardia itself increases the risk of Torsade de Pointes.
 
-## Recent Acute MI:
+## Recent Acute MI
 
 Sotalol has been used in a controlled trial following an acute myocardial infarction without evidence of increased mortality (see Safety in Patients with Structural Heart Disease).
 Although specific studies of its use in treating atrial arrhythmias after infarction have not been conducted, the usual precautions regarding heart failure, avoidance of hypokalemia, bradycardia or prolonged QT interval apply.
 
-## The following warnings are related to the beta-blocking activity of sotalol.
+## The following warnings are related to the beta-blocking activity of sotalol AF.
 
 ## Abrupt Withdrawal
 
 Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy.
 Occasional cases of exacerbation of angina pectoris, arrhythmias and, in some cases, myocardial infarction have been reported after abrupt discontinuation of beta-blocker therapy.
-Therefore, it is prudent when discontinuing chronically administered sotalol hydrochloride tablets (AF), particularly in patients with ischemic heart disease, to carefully monitor the patient and consider the temporary use of an alternate beta-blocker if appropriate.
-If possible, the dosage of sotalol hydrochloride tablets (AF) should be gradually reduced over a period of one to two weeks.
+Therefore, it is prudent when discontinuing chronically administered sotalol (AF), particularly in patients with ischemic heart disease, to carefully monitor the patient and consider the temporary use of an alternate beta-blocker if appropriate.
+If possible, the dosage of sotalol (AF) should be gradually reduced over a period of one to two weeks.
 If angina or acute coronary insufficiency develops, appropriate therapy should be instituted promptly.
 Patients should be warned against interruption or discontinuation of therapy without the physician's advice.
-Because coronary artery disease is common and may be unrecognized in patients receiving sotalol hydrochloride tablets (AF), abrupt discontinuation in patients with arrhythmias may unmask latent coronary insufficiency.
+Because coronary artery disease is common and may be unrecognized in patients receiving sotalols (AF), abrupt discontinuation in patients with arrhythmias may unmask latent coronary insufficiency.
 
-## Non-Allergic Bronchospasm (e.g., chronic bronchitis and emphysema):
+## Non-Allergic Bronchospasm (e.g., chronic bronchitis and emphysema)
 
 PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD IN GENERAL NOT RECEIVE BETA-BLOCKERS.
-It is prudent, if sotalol hydrochloride tablets (AF) are to be administered, to use the smallest effective dose, so that inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors may be minimized.
+It is prudent, if sotalol hydrochloride (AF) is to be administered, to use the smallest effective dose, so that inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors may be minimized.
 
-## Anaphylaxis:
+## Anaphylaxis
 
 While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
 
-## Anesthesia:
+## Major Surgery
 
-The management of patients undergoing major surgery who are being treated with beta-blockers is controversial.
-Protracted severe hypotension and difficulty in restoring and maintaining normal cardiac rhythm after anesthesia have been reported in patients receiving beta-blockers.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-## Diabetes:
+## Diabetes
 
-In patients with diabetes (especially labile diabetes) or with a history of episodes of spontaneous hypoglycemia, sotalol hydrochloride tablets (AF) should be given with caution since beta-blockade may mask some important premonitory signs of acute hypoglycemia; e.g., tachycardia.
+In patients with diabetes (especially labile diabetes) or with a history of episodes of spontaneous hypoglycemia, sotalol (AF) should be given with caution since beta-blockade may mask some important premonitory signs of acute hypoglycemia; e.g., tachycardia.
 
-## Sick Sinus Syndrome:
+## Sick Sinus Syndrome
 
-Sotalol hydrochloride tablets (AF) should be used only with extreme caution in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses or sinus arrest.
-In patients with AFIB and sinus node dysfunction, the risk of Torsade de Pointes with sotalol hydrochloride tablets (AF) therapy is increased, especially after cardioversion.
-Bradycardia following cardioversion in these patients is associated with QTc interval prolongation which is augmented due to the reverse use dependence of the Class III effects of sotalol hydrochloride tablets (AF).
-Patients with AFIB/AFL associated with the sick sinus syndrome may be treated with sotalol hydrochloride tablets (AF) if they have an implanted pacemaker for control of bradycardia symptoms.
+Sotalol (AF) should be used only with extreme caution in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses or sinus arrest.
+In patients with AFIB and sinus node dysfunction, the risk of Torsade de Pointes with sotalol (AF) therapy is increased, especially after cardioversion.
+Bradycardia following cardioversion in these patients is associated with QTc interval prolongation which is augmented due to the reverse use dependence of the Class III effects of sotalol (AF).
+Patients with AFIB/AFL associated with the sick sinus syndrome may be treated with sotalol (AF) if they have an implanted pacemaker for control of bradycardia symptoms.
 
-## Thyrotoxicosis:
+## Thyrotoxicosis
 
 Beta-blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-blockade which might be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm.
-The beta-blocking effects of sotalol hydrochloride tablets (AF) may be useful in controlling heart rate in AFIB associated with thyrotoxicosis but no study has been conducted to evaluate this.
+The beta-blocking effects of sotalol (AF) may be useful in controlling heart rate in AFIB associated with thyrotoxicosis but no study has been conducted to evaluate this.
 
 # PRECAUTIONS
 
 ## Renal Impairment
 
-Sotalol hydrochloride is eliminated principally via the kidneys through glomerular filtration and to a small degree by tubular secretion.
-There is a direct relationship between renal function, as measured by serum creatinine or creatinine clearance, and the elimination rate of sotalol hydrochloride.
-Guidance for dosing in conditions of renal impairment can be found under "DOSAGE AND ADMINISTRATION."
+Sotalol hydrochloride (AF) is eliminated principally via the kidneys through glomerular filtration and to a small degree by tubular secretion.
+There is a direct relationship between renal function, as measured by serum creatinine or creatinine clearance, and the elimination rate of sotalol hydrochloride (AF).
+Guidance for dosing in conditions of renal impairment can be found under DOSAGE AND ADMINISTRATION.
 
 ## Information for Patients
 
 Please refer to the patient package insert.
 
-Prior to initiation of sotalol hydrochloride tablets (AF) therapy, the patient should be advised to read the patient package insert and reread it each time therapy is renewed.
-The patient should be fully instructed on the need for compliance with the recommended dosing of sotalol hydrochloride tablets (AF), the potential interactions with drugs that prolong the QT interval and other antiarrhythmics, and the need for periodic monitoring of QT and renal function to minimize the risk of serious abnormal rhythms.
+Prior to initiation of sotalol (AF) therapy, the patient should be advised to read the patient package insert and reread it each time therapy is renewed.
+The patient should be fully instructed on the need for compliance with the recommended dosing of sotalol (AF), the potential interactions with drugs that prolong the QT interval and other antiarrhythmics, and the need for periodic monitoring of QT and renal function to minimize the risk of serious abnormal rhythms.
 
-### Medications and Supplements:
+### Medications and Supplements
 
-Assessment of patients' medication history should include all over-counter, prescription and herbal/natural preparations with emphasis on preparations that may affect the pharmacodynamics of sotalol such as other cardiac antiarrhythmic drugs, some phenothiazines, bepridil, tricyclic antidepressants and oral macrolides (see WARNINGS and Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents).
+Assessment of patients' medication history should include all over-counter, prescription and herbal/natural preparations with emphasis on preparations that may affect the pharmacodynamics of sotalol (AF) such as other cardiac antiarrhythmic drugs, some phenothiazines, bepridil, tricyclic antidepressants and oral macrolides (see WARNINGS, Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents).
 Patients should be instructed to notify their health care providers of any change in over-the-counter, prescription or supplement use.
-If a patient is hospitalized or is prescribed a new medication for any condition, the patient must inform the health care provider of ongoing sotalol hydrochloride tablets (AF) therapy.
+If a patient is hospitalized or is prescribed a new medication for any condition, the patient must inform the health care provider of ongoing sotalol (AF) therapy.
 Patients should also check with their health care provider and/or pharmacist prior to taking a new over-the-counter medicine.
 
-### Electrolyte Imbalance:
+### Electrolyte Imbalance
 
 If patients experience symptoms that may be associated with altered electrolyte balance, such as excessive or prolonged diarrhea, sweating, or vomiting, or loss of appetite or thirst, these conditions should be immediately reported to their health care provider.
 
-### Dosing Schedule:
+### Dosing Schedule
 
 Patients should be instructed NOT to double the next dose if a dose is missed.
 The next dose should be taken at the usual time.

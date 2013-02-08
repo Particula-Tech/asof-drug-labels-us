@@ -1,19 +1,19 @@
 # HOW SUPPLIED
 
-Sotalol Hydrochloride Tablets (AF) 80 mg are available for oral administration as white to off-white, capsule shaped, scored tablets, imprinted "APO" on one side and "AF" bisect "80" on the other side; supplied in bottles of 100 (NDC 60505-0222-1) and bottles of 1000 (NDC 60505-0222-2).
+Sotalol hydrochloride tablets, USP (AF) 80 mg are available for oral administration as white to off-white, capsule shaped, scored tablets, imprinted "APO" on one side and "AF" bisect "80" on the other side; supplied in bottles of 100 (NDC 60505-0222-1) and bottles of 1000 (NDC 60505-0222-2).
 
-Sotalol Hydrochloride Tablets (AF) 120 mg are available for oral administration as white to off-white, capsule shaped, scored tablets, imprinted "APO" on one side and "AF" bisect "120" on the other side; supplied in bottles of 100 (NDC 60505-0223-1) and bottles of 1000 (NDC 60505-0223-2).
+Sotalol hydrochloride tablets, USP (AF) 120 mg are available for oral administration as white to off-white, capsule shaped, scored tablets, imprinted "APO" on one side and "AF" bisect "120" on the other side; supplied in bottles of 100 (NDC 60505-0223-1) and bottles of 1000 (NDC 60505-0223-2).
 
-Sotalol Hydrochloride Tablets (AF) 160 mg are available for oral administration as white to off-white, capsule shaped, scored tablets, imprinted "APO" on one side and "AF" bisect "160" on the other side; supplied in bottles of 100 (NDC 60505-0224-1) and bottles of 1000 (NDC 60505-0224-2).
+Sotalol hydrochloride tablets, USP (AF) 160 mg are available for oral administration as white to off-white, capsule shaped, scored tablets, imprinted "APO" on one side and "AF" bisect "160" on the other side; supplied in bottles of 100 (NDC 60505-0224-1) and bottles of 1000 (NDC 60505-0224-2).
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Dispense in a tight, light resistant container [see USP].
 
-APOTEX INC. SOTALOL HYDROCHLORIDE TABLETS (AF) 80 mg, 120 mg and 160 mg
+APOTEX INC. SOTALOL HYDROCHLORIDE TABLETS, USP (AF) 80 mg, 120 mg and 160 mg
 
 Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: May 2004
+Revised: November 2012
 
 Rev.
-0
+1

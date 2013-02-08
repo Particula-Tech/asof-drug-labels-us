@@ -1,46 +1,48 @@
 # DRUG INTERACTIONS
 
-## Drugs undergoing CYP450 metabolism:
+## Drugs undergoing CYP450 metabolism
 
 Sotalol is primarily eliminated by renal excretion; therefore, drugs that are metabolized by CYP450 are not expected to alter the pharmacokinetics of sotalol.
 
-## Digoxin:
+## Digoxin
 
 Proarrhythmic events were more common in sotalol treated patients also receiving digoxin; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in the patients receiving digoxin.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
 
-## Calcium blocking drugs:
+## Calcium blocking drugs
 
-Sotalol hydrochloride tablets (AF) should be administered with caution in conjunction with calcium blocking drugs because of possible additive effects on atrioventricular conduction or ventricular function.
+Sotalol (AF) should be administered with caution in conjunction with calcium blocking drugs because of possible additive effects on atrioventricular conduction or ventricular function.
 Additionally, concomitant use of these drugs may have additive effects on blood pressure, possibly leading to hypotension.
 
-## Catecholamine-depleting agents:
+## Catecholamine-depleting agents
 
 Concomitant use of catecholamine-depleting drugs, such as reserpine and guanethidine, with a beta-blocker may produce an excessive reduction of resting sympathetic nervous tone.
-Patients treated with sotalol hydrochloride tablets (AF) plus a catecholamine depletor should therefore be closely monitored for evidence of hypotension and/or marked bradycardia which may produce syncope.
+Patients treated with sotalol (AF) plus a catecholamine depletor should therefore be closely monitored for evidence of hypotension and/or marked bradycardia which may produce syncope.
 
-## Insulin and oral antidiabetics:
+## Insulin and oral antidiabetics
 
 Hyperglycemia may occur, and the dosage of insulin or antidiabetic drugs may require adjustment.
 Symptoms of hypoglycemia may be masked.
 
-## Beta-2-receptor stimulants:
+## Beta-2-receptor stimulants
 
-Beta-agonists such as salbutamol, terbutaline and isoprenaline may have to be administered in increased dosages when used concomitantly with sotalol hydrochloride tablets (AF).
+Beta-agonists such as salbutamol, terbutaline and isoprenaline may have to be administered in increased dosages when used concomitantly with sotalol (AF).
 
-## Clonidine:
+## Clonidine
 
-Beta-blocking drugs may potentiate the rebound hypertension sometimes observed after discontinuation of clonidine; therefore, caution is advised when discontinuing clonidine in patients receiving sotalol hydrochloride tablets (AF).
+Beta-blocking drugs may potentiate the rebound hypertension sometimes observed after discontinuation of clonidine; therefore, caution is advised when discontinuing clonidine in patients receiving sotalol (AF).
 
-## Other:
+## Other
 
 No pharmacokinetic interactions were observed with hydrochlorothiazide or warfarin.
 
-## Antacids:
+## Antacids
 
-Administration of sotalol hydrochloride tablets (AF) within 2 hours of antacids containing aluminum oxide and magnesium hydroxide should be avoided because it may result in a reduction in Cmax and AUC of 26% and 20%, respectively and consequently in a 25% reduction in the bradycardic effect at rest.
-Administration of the antacid two hours after sotalol hydrochloride tablets (AF) has no effect on the pharmacokinetics or pharmacodynamics of sotalol.
+Administration of sotalol (AF) within 2 hours of antacids containing aluminum oxide and magnesium hydroxide should be avoided because it may result in a reduction in Cmax and AUC of 26% and 20%, respectively and consequently in a 25% reduction in the bradycardic effect at rest.
+Administration of the antacid two hours after sotalol (AF) has no effect on the pharmacokinetics or pharmacodynamics of sotalol.
 
-## Drug/Laboratory Test Interactions:
+## Drug/Laboratory Test Interactions
 
 The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods.
 In screening patients suspected of having a pheochromocytoma and being treated with sotalol, a specific method, such as a high performance liquid chromatographic assay with solid phase extraction (e.g., J. Chromatogr.
@@ -48,7 +50,7 @@ In screening patients suspected of having a pheochromocytoma and being treated w
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No evidence of carcinogenic potential was observed in rats during a 24-month study at 137-275 mg/kg/ day (approximately 30 times the maximum recommended human oral dose (MRHD) as mg/kg or 5 times the MRHD as mg/m2) or in mice, during a 24-month study at 4141-7122 mg/kg/day (approximately 450-750 times the MRHD as mg/kg or 36-63 times the MRHD as mg/m2).
+No evidence of carcinogenic potential was observed in rats during a 24-month study at 137-275 mg/kg/ day (approximately 30 times the maximum recommended human oral dose (MRHD) as mg/kg or 5 times the MRHD as mg/m2) or in mice, during a 24-month study at 4141-7122 mg/kg/day (approximately 450 to 750 times the MRHD as mg/kg or 36 to 63 times the MRHD as mg/m2).
 
 Sotalol has not been evaluated in any specific assay of mutagenicity or clastogenicity.
 
@@ -64,15 +66,15 @@ However, animal reproduction studies are not always predictive of human response
 
 Although there are no adequate and well-controlled studies in pregnant women, sotalol HCl has been shown to cross the placenta, and is found in amniotic fluid.
 There has been a report of subnormal birth weight with sotalol.
-Therefore, sotalol hydrochloride tablets (AF) should be used during pregnancy only if the potential benefit outweighs the potential risk.
+Therefore, sotalol (AF) should be used during pregnancy only if the potential benefit outweighs the potential risk.
 
 ## Nursing Mothers
 
 Sotalol is excreted in the milk of laboratory animals and has been reported to be present in human milk.
-Because of the potential for adverse reactions in nursing infants from sotalol, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for adverse reactions in nursing infants from sotalol (AF), a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
-The safety and effectiveness of sotalol in pediatric patients have not been established.
+The safety and effectiveness of sotalol (AF) in children have not been established.
 However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 years old.
-(SeeCLINICAL PHARMACOLOGY.)
+(See CLINICAL PHARMACOLOGY.)

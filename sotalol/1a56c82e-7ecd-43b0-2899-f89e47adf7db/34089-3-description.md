@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Sotalol hydrochloride, is an antiarrhythmic drug with Class II (beta-adrenoreceptor blocking) and Class III (cardiac action potential duration prolongation) properties.
-It is supplied as a white to off-white, scored tabletablet for oral administration.
+It is supplied as a white to off-white, capsule-shaped, scored tablet for oral administration.
 Sotalol hydrochloride is a white, crystalline solid with a molecular weight of 308.8.
 It is hydrophilic, soluble in water, propylene glycol and ethanol, but is only slightly soluble in chloroform.
 Chemically, sotalol hydrochloride is d,l-N-[4-[1-hydroxy-2-[(1-methylethyl)amino]ethyl]phenyl]methanesulfonamide monohydrochloride.

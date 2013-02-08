@@ -1,13 +1,11 @@
 # PATIENT INFORMATION
 
-What You Should Know About Sotalol Hydrochloride Tablets (AF)
+What You Should Know About Sotalol Hydrochloride Tablets, USP (AF)
 
-(generic name: sotalol hydrochloride)
-
-What is the most important information I should know about sotalol hydrochloride tablets (AF)?
+What is the most important information I should know about sotalol hydrochloride tablets, USP (AF)?
 
 Because you have irregular heartbeats (atrial fibrillation) that are troublesome to you, sotalol hydrochloride tablets (AF) have been prescribed to help your heart to beat in a more normal way.
-However, in some patients sotalol hydrochloride tablets (AF) can cause a different type of abnormal heartbeat that can be dangerous, and in rare instances can even cause death.
+However, in some patients sotalol hydrochloride (AF) can cause a different type of abnormal heartbeat that can be dangerous, and in rare instances can even cause death.
 You may feel this different type of abnormal heartbeat as a fast beating of the heart with lightheadedness and fainting.
 The possibility of this different type of abnormal heartbeat is the reason you and your doctor have discussed whether your symptoms are troublesome enough for you to start taking sotalol hydrochloride tablets (AF).
 
@@ -15,7 +13,7 @@ Clinical studies using sotalol hydrochloride tablets (AF) have shown that the mo
 If this abnormal heartbeat occurs, it usually happens during the first few days of treatment.
 This is why you should be started on sotalol hydrochloride tablets (AF) in a hospital or another place where your heartbeat can be watched closely by health care professionals for the first few days.
 They can help you if problems occur.
-When sotalol hydrochloride tablets (AF) are started this way, this different type of abnormal heartbeat is rare and the hospital staff is there to treat it.
+When sotalol hydrochloride (AF) is started this way, this different type of abnormal heartbeat is rare and the hospital staff is there to treat it.
 
 It is important that when you go home, you take the exact dose the doctor prescribed for you.
 At any time while you are taking sotalol hydrochloride tablets (AF), watch for signs that you may be getting this different type of abnormal heartbeat and call your doctor if they occur.
@@ -38,13 +36,13 @@ Also, call your doctor right away if you have any of the following conditions:
 
 These are conditions that will make you more likely to get the different type of abnormal heartbeat.
 
-If you take sotalol hydrochloride tablets (AF) with certain other medicines, you will increase your chance of getting this different type of abnormal heartbeat.
-These medicines are listed below under "Who should not take sotalol hydrochloride tablets (AF)?"
+If you take sotalol hydrochloride (AF) with certain other medicines, you will increase your chance of getting this different type of abnormal heartbeat.
+These medicines are listed below under "Who should not take sotalol hydrochloride tablets, USP (AF)?"
 
-Once your doctor finds the right dose for you, always take that exact amount of sotalol hydrochloride tablets (AF).
+Once your doctor finds the right dose for you, always take that exact amount of sotalol hydrochloride (AF).
 Never take an extra dose and never skip a dose of sotalol hydrochloride tablets (AF).
 
-What are sotalol hydrochloride tablets (AF)?
+What are sotalol hydrochloride tablets, USP (AF)?
 
 Sotalol hydrochloride tablets (AF) is a medicine that is given to patients with atrial fibrillation (irregular heartbeats).
 Atrial fibrillation happens when certain parts of the heart (the chambers known as atria) beat too fast or irregularly.
@@ -58,7 +56,7 @@ Sotalol hydrochloride tablets (AF) may help your heart stay beating regularly fo
 This information about sotalol hydrochloride tablets (AF) was developed to ensure that you and your doctor get the right information about your type of irregular heartbeats.
 Consult your doctor before you accept any other sotalol product that does not provide this patient information.
 
-Who should not take sotalol hydrochloride tablets (AF)?
+Who should not take sotalol hydrochloride tablets, USP (AF)?
 
 Sotalol hydrochloride tablets (AF) are not for everyone with irregular heartbeats (atrial fibrillation).
 This is why you and your doctor need to discuss the benefits and risks of sotalol hydrochloride tablets (AF) and whether your symptoms are troublesome enough for you to start taking sotalol hydrochloride tablets (AF).
@@ -70,18 +68,18 @@ Do not take sotalol hydrochloride tablets (AF) if you:
 - have symptoms of heart failure (such as shortness of breath when you exercise or are physically active and swelling of the ankles or legs);
 - have a very slow heart beat and do not have an implanted artificial pacemaker;
 
-Taking certain other medicines with sotalol hydrochloride tablets (AF) can increase the chance that you will get the dangerous abnormal heartbeat discussed in "What is the most important information I should know about sotalol hydrochloride tablets (AF)?"
+Taking certain other medicines with sotalol hydrochloride tablets (AF) can increase the chance that you will get the dangerous abnormal heartbeat discussed in "What is the most important information I should know about sotalol hydrochloride tablets, USP (AF)?"
 These include medicines used to treat abnormal heart rhythms and some other heart problems as well as medicines used to treat depression and other mental problems, night-time heartburn, asthma and infections.
 Therefore, you should be sure to tell your health care provider about all prescription and non-prescription medicines you are taking, as well as vitamins, dietary supplements, and any natural or herbal remedies.
 In addition, tell your doctor about any problems you have with your heart or kidneys.
 
-If you are pregnant, you should know that there is no information about the safety of sotalol hydrochloride tablets (AF) in pregnant women.
+If you are pregnant, you should know that there is no information about the safety of sotalol hydrochloride (AF) in pregnant women.
 Some reports indicate that sotalol hydrochloride is passed into the breast milk.
 Women who are taking sotalol hydrochloride tablets (AF) should not breast feed a child.
 
-How should I take sotalol hydrochloride tablets (AF)?
+How should I take sotalol hydrochloride tablets, USP (AF)?
 
-Your doctor will start you on sotalol hydrochloride tablets (AF) in the hospital and will check your heart rhythm for the first 2 or more days of treatment.
+Your doctor will start you on sotalol hydrochloride (AF) in the hospital and will check your heart rhythm for the first 2 or more days of treatment.
 This will allow your doctor to find the right dose for you.
 Always take the exact amount your doctor prescribes.
 Never change your sotalol hydrochloride tablets (AF) dose unless your doctor tells you to.
@@ -107,11 +105,11 @@ If you take more sotalol hydrochloride tablets (AF) than you should have, call y
 If you cannot reach your doctor, go to the nearest hospital emergency room.
 Take your sotalol hydrochloride tablets (AF) with you to show to the doctor or nurse.
 
-What should I avoid while taking sotalol hydrochloride tablets (AF)?
+What should I avoid while taking sotalol hydrochloride tablets, USP (AF)?
 
-Certain other medicines taken with sotalol hydrochloride tablets (AF) may increase the chance that you will get the dangerous abnormal heartbeat (see "Who should not take sotalol hydrochloride tablets (AF)?").
+Certain other medicines taken with sotalol hydrochloride tablets (AF) may increase the chance that you will get the dangerous abnormal heartbeat (see "Who should not take sotalol hydrochloride tablets, USP (AF)?").
 Do not take sotalol hydrochloride tablets (AF) with these medicines.
-Before you start taking sotalol hydrochloride tablets (AF) tell your doctor about all prescription and non-prescription medicines you are taking (see also "Who should not take sotalol hydrochloride tablets (AF)?").
+Before you start taking sotalol hydrochloride tablets (AF) tell your doctor about all prescription and non-prescription medicines you are taking (see also "Who should not take sotalol hydrochloride tablets, USP (AF)?").
 Once you begin taking sotalol hydrochloride tablets (AF), do not start taking any new medicines until you check with your doctor.
 
 Carry a list of all the medicines and supplements you take.
@@ -121,9 +119,9 @@ They need this information to make sure your medicines are safe to take at the s
 Tell your doctor or dentist you are taking sotalol hydrochloride tablets (AF) before you have an operation or dental surgery.
 Sotalol hydrochloride tablets (AF) can affect how well some anesthetics work.
 
-What are the possible side effects of sotalol hydrochloride tablets (AF)?
+What are the possible side effects of sotalol hydrochloride tablets, USP (AF)?
 
-Sotalol hydrochloride tablets (AF) most serious side effect, a different type of dangerous abnormal heartbeat, is discussed in "What is the most important information I should know about sotalol hydrochloride tablets (AF)?"
+Sotalol hydrochloride tablets (AF) most serious side effect, a different type of dangerous abnormal heartbeat, is discussed in "What is the most important information I should know about sotalol hydrochloride tablets, USP (AF)?"
 Dangerous abnormal heartbeats happen rarely.
 But they can be serious and, in rare instances, can even cause death.
 
@@ -131,7 +129,7 @@ Sotalol hydrochloride tablets (AF) most common side effects are tiredness, slow 
 Sotalol hydrochloride tablets (AF) can also cause other side effects.
 If you are concerned about these or any other side effects, ask your doctor.
 
-Important points about sotalol hydrochloride tablets (AF)
+Important points about sotalol hydrochloride tablets, USP (AF)
 
 Sotalol hydrochloride tablets (AF) can help you best if you take it as your doctor has prescribed it.
 
@@ -146,13 +144,16 @@ Sotalol hydrochloride tablets (AF) can help you best if you take it as your doct
 - Get your refills on time.
 - Do not stop taking sotalol hydrochloride tablets (AF) until your doctor tells you to stop.
 
-This leaflet provides a summary of information about sotalol hydrochloride tablets (AF).
+This leaflet provides a summary of information about sotalol hydrochloride tablets, USP (AF).
 Your doctor or pharmacist has a longer leaflet written for healthcare professionals that you can ask to read.
-Sotalol hydrochloride tablets (AF) was prescribed for your particular condition.
+Sotalol hydrochloride tablets, USP (AF) was prescribed for your particular condition.
 Do not use it for another condition or give it to others.
 
-APOTEX INC. SOTALOL HYDROCHLORIDE TABLETS (AF) 80 mg, 120 mg and 160 mg
+APOTEX INC. SOTALOL HYDROCHLORIDE TABLETS, USP (AF) 80 mg, 120 mg and 160 mg
 
 Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: December 2003
+Revised: November 2012
+
+Rev.
+1
