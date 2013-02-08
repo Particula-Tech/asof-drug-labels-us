@@ -1,14 +1,12 @@
-# Principle Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 24208-358-10
 
 Bausch & Lomb
 
-Zylet®
+Zylet
 
-loteprednol etabonate 0.5%
-
-and tobramycin 0.3% ophthalmic suspension
+loteprednol etabonate 0.5% and tobramycin 0.3% ophthalmic suspension
 
 Rx only
 
