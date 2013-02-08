@@ -2,15 +2,15 @@
 
 The following adverse reactions are discussed in more details in other sections of labeling:
 
-- Psychiatric Symptoms [see Warnings and Precautions (5.1)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.2)]
-- Somnolence and Fatigue [see Warnings and Precautions (5.3)]
-- Serious Dermatological Reactions [see Warnings and Precautions (5.4)]
-- Coordination Difficulties [see Warnings and Precautions (5.5)]
-- Withdrawal Seizures [see Warnings and Precautions (5.6)]
-- Hematologic Abnormalities [see Warnings and Precautions (5.7)]
-- Blood Pressure Increases [see Warnings and Precautions (5.8)]
-- Seizure Control During Pregnancy [see Warnings and Precautions (5.9)]
+- •Psychiatric Symptoms [see Warnings and Precautions (5.1)]
+- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.2)]
+- •Somnolence and Fatigue [see Warnings and Precautions (5.3)]
+- •Serious Dermatological Reactions [see Warnings and Precautions (5.4)]
+- •Coordination Difficulties [see Warnings and Precautions (5.5)]
+- •Withdrawal Seizures [see Warnings and Precautions (5.6)]
+- •Hematologic Abnormalities [see Warnings and Precautions (5.7)]
+- •Blood Pressure Increases [see Warnings and Precautions (5.8)]
+- •Seizure Control During Pregnancy [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -137,27 +137,8 @@ Table 5: Incidence (%) of Adverse Reactions in Pooled Placebo-Controlled, Add-On
 
 In the well controlled pooled pediatric clinical studies in patients 4 to 16 years of age, 7% of patients receiving levetiracetam and 9% receiving placebo discontinued as a result of an adverse event.
 
-#### Pediatric Patients One Month to < 4 Years
-
-In the 7-day, controlled pediatric clinical study in children one month to less than 4 years of age with partial onset seizures, the adverse reactions most frequently reported with the use of levetiracetam in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, were somnolence and irritability.
-Because of the shorter exposure period, incidences of adverse reactions are expected to be lower then in other pediatric studies in older patients.
-Therefore, other controlled pediatric data, presented above, should also be considered to apply to this age group.
-
-Table 6 lists adverse reactions that occurred in at least 5% of pediatric epilepsy patients (ages one month to < 4 years) treated with levetiracetam participating in the placebo-controlled study and were numerically more common than in patients treated with placebo.
-In this study, either levetiracetam or placebo was added to concurrent AED therapy.
-Adverse reactions were usually mild to moderate in intensity.
-
-Table 6: Incidence (%) of Adverse Reactions in a Placebo-Controlled, Add-On Study in Pediatric Patients Ages One Month to < 4 Years Experiencing Partial Onset Seizures by Body System (Adverse Reactions Occurred in at Least 5% of Levetiracetam-Treated Patients and Occurred More Frequently than Placebo-Treated Patients)
-
-| Body System/ Adverse Reaction | Levetiracetam (N = 60) % | Placebo (N = 56) % |
-| --- | --- | --- |
-| Nervous System |  |  |
-| Somnolence | 13 | 2 |
-| Psychiatric Disorders |  |  |
-| Irritability | 12 | 0 |
-
-In the 7-day controlled pediatric clinical study in patients one month to < 4 years of age, 3% of patients receiving levetiracetam and 2% receiving placebo either discontinued or had a dose reduction as a result of an adverse event.
-There was no adverse event that resulted in discontinuation for more than one patient.
+Adverse reaction information in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets and oral solution.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ### Myoclonic Seizures
 
@@ -166,11 +147,11 @@ The adverse reaction pattern for patients with JME is expected to be essentially
 
 In the well controlled clinical study that included both adolescent (12 to 16 years of age) and adult patients with myoclonic seizures, the most frequently reported adverse reactions in patients using levetiracetam in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, were somnolence, neck pain, and pharyngitis.
 
-Table 7 lists adverse reactions that occurred in at least 5% of juvenile myoclonic epilepsy patients experiencing myoclonic seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
+Table 6 lists adverse reactions that occurred in at least 5% of juvenile myoclonic epilepsy patients experiencing myoclonic seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
 In this study, either levetiracetam or placebo was added to concurrent AED therapy.
 Adverse reactions were usually mild to moderate in intensity.
 
-Table 7: Incidence (%) of Adverse Reactions in a Placebo-Controlled, Add-On Study in Patients 12 Years of Age and Older with Myoclonic Seizures by Body System (Adverse Reactions Occurred in at Least 5% of Levetiracetam-Treated Patients and Occurred More Frequently than Placebo-Treated Patients)
+Table 6: Incidence (%) of Adverse Reactions in a Placebo-Controlled, Add-On Study in Patients 12 Years of Age and Older with Myoclonic Seizures by Body System (Adverse Reactions Occurred in at Least 5% of Levetiracetam-Treated Patients and Occurred More Frequently than Placebo-Treated Patients)
 
 | Body System/ Adverse Reaction | Levetiracetam (N = 60) % | Placebo (N = 60) % |
 | --- | --- | --- |
@@ -187,9 +168,9 @@ Table 7: Incidence (%) of Adverse Reactions in a Placebo-Controlled, Add-On Stud
 | Depression | 5 | 2 |
 
 In the placebo-controlled study, 8% of patients receiving levetiracetam and 2% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
-The adverse reactions that led to discontinuation or dose reduction in the well controlled study and occurred more frequently in levetiracetam-treated patients than in placebo-treated patients are presented in Table 8.
+The adverse reactions that led to discontinuation or dose reduction in the well controlled study and occurred more frequently in levetiracetam-treated patients than in placebo-treated patients are presented in Table 7.
 
-Table 8: Adverse Reactions that Resulted in Discontinuation or Dose Reduction that Occurred More Frequently in Levetiracetam-Treated Patients in the Placebo-Controlled Study in Patients with Juvenile Myoclonic Epilepsy
+Table 7: Adverse Reactions that Resulted in Discontinuation or Dose Reduction that Occurred More Frequently in Levetiracetam-Treated Patients in the Placebo-Controlled Study in Patients with Juvenile Myoclonic Epilepsy
 
 | Adverse Reaction | Levetiracetam (N = 60) % | Placebo (N = 60) % |
 | --- | --- | --- |
@@ -210,11 +191,11 @@ The adverse reaction pattern for patients with PGTC seizures is expected to be e
 
 In the well controlled clinical study that included patients 4 years of age and older with primary generalized tonic-clonic (PGTC) seizures, the most frequently reported adverse reaction in patients using levetiracetam in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, was nasopharyngitis.
 
-Table 9 lists adverse reactions that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
+Table 8 lists adverse reactions that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
 In this study, either levetiracetam or placebo was added to concurrent AED therapy.
 Adverse reactions were usually mild to moderate in intensity.
 
-Table 9: Incidence (%) of Adverse Reactions in a Placebo-Controlled, Add-On Study in Patients 4 Years of Age and Older with PGTC Seizures by MedDRA System Organ Class (Adverse Reactions Occurred in at Least 5% of Levetiracetam-Treated Patients and Occurred More Frequently than Placebo-Treated Patients)
+Table 8: Incidence (%) of Adverse Reactions in a Placebo-Controlled, Add-On Study in Patients 4 Years of Age and Older with PGTC Seizures by MedDRA System Organ Class (Adverse Reactions Occurred in at Least 5% of Levetiracetam-Treated Patients and Occurred More Frequently than Placebo-Treated Patients)
 
 | Body System/ Adverse Reaction | Levetiracetam (N = 79) % | Placebo (N = 84) % |
 | --- | --- | --- |

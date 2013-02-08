@@ -27,19 +27,8 @@ There is no evidence that doses greater than 3000 mg/day confer additional benef
 
 ### Pediatric Patients
 
-#### 1 Month to < 6 Months
-
-Treatment should be initiated with a daily dose of 14 mg/kg in two divided doses (7 mg/kg twice daily).
-The daily dose should be increased every 2 weeks by increments of 14 mg/kg to the recommended daily dose of 42 mg/kg (21 mg/kg twice daily).
-In the clinical trial, the mean daily dose was 35 mg/kg in this age group.
-The effectiveness of lower doses has not been studied.
-
-#### 6 Months to < 4 Years
-
-Treatment should be initiated with a daily dose of 20 mg/kg in two divided doses (10 mg/kg twice daily).
-The daily dose should be increased in 2 weeks by an increment of 20 mg/kg to the recommended daily dose of 50 mg/kg (25 mg/kg twice daily).
-If a patient cannot tolerate a daily dose of 50 mg/kg, the daily dose may be reduced.
-In the clinical trial, the mean daily dose was 47 mg/kg in this age group.
+Dosing information in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets and oral solution.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 #### 4 Years to < 16 Years
 

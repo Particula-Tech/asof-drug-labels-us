@@ -41,8 +41,11 @@ Because of the potential for serious adverse reactions in nursing infants from l
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of levetiracetam in the adjunctive treatment of partial onset seizures in pediatric patients age 1 month to 16 years old with epilepsy have been established [see Clinical Studies (14.1)].
+The safety and effectiveness of levetiracetam in the adjunctive treatment of partial onset seizures in pediatric patients age 4 years to 16 years old with epilepsy have been established [see Clinical Studies (14.1)].
 The dosing recommendation in these pediatric patients varies according to age group and is weight-based [see Dosage and Administration (2.2)].
+
+Pediatric use information in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets and oral solution.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 The safety and effectiveness of levetiracetam as adjunctive treatment of myoclonic seizures in adolescents 12 years of age and older with juvenile myoclonic epilepsy have been established [see Clinical Studies (14.2)].
 
