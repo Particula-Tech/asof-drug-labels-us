@@ -6,7 +6,7 @@ Citalopram Tablets, USP 10 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 10 mg citalopram base.
 
@@ -21,9 +21,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-www.mylan.com
+Mylan.com
 
-RMX6231A2
+RMX6231A3
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -39,7 +39,7 @@ Citalopram Tablets, USP 20 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 20 mg citalopram base.
 
@@ -54,9 +54,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-www.mylan.com
+Mylan.com
 
-RMX6232A2
+RMX6232A3
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -72,7 +72,7 @@ Citalopram Tablets, USP 40 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 40 mg citalopram base.
 
@@ -87,9 +87,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-www.mylan.com
+Mylan.com
 
-RMX6233A2
+RMX6233A3
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

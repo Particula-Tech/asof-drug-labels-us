@@ -7,8 +7,8 @@ In vitro and in vivo studies in animals suggest that citalopram is a highly sele
 Tolerance to the inhibition of 5-HT uptake is not induced by long-term (14 day) treatment of rats with citalopram.
 Citalopram is a racemic mixture (50/50),and the inhibition of 5-HT reuptake by citalopram is primarily due to the (S)-enantiomer.
 
-Citalopram has no or very low affinity for 5-HT1A, 5-HT2A, dopamine D1 and D2, α1-,α2- and β-adrenergic, histamine H1, gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
-Antagonism of muscarinic, histaminergic and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative and cardiovascular effects of other psychotropic drugs.
+Citalopram has no or very low affinity for 5-HT1A, 5-HT2A, dopamine D1 and D2, α1-, α2- and β-adrenergic, histamine H1, gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
+Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects of other psychotropic drugs.
 
 ## Pharmacokinetics
 
@@ -71,7 +71,7 @@ In patients with mild to moderate renal function impairment, oral clearance of c
 No adjustment of dosage for such patients is recommended.
 No information is available about the pharmacokinetics of citalopram in patients with severely reduced renal function (creatinine clearance < 20 mL/min).
 
-### Drug-Drug Interactions
+### Drug-drug Interactions
 
 In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, -2C9, or -2E1, but did suggest that it is a weak inhibitor of CYP1A2, -2D6, and -2C19.
 Citalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these enzymes.
