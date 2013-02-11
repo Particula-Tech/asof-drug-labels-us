@@ -24,11 +24,11 @@ See package insert for dosage information.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-www.mylan.com
-
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M0871-99-4C:R9
+Mylan.com
+
+M0871-99-4C:R10
 
 PRINCIPAL DISPLAY PANEL - 0.2 mg/day
 
@@ -56,11 +56,11 @@ See package insert for dosage information.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-www.mylan.com
-
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M0872-99-4C:R9
+Mylan.com
+
+M0872-99-4C:R10
 
 PRINCIPAL DISPLAY PANEL - 0.3 mg/day
 
@@ -88,8 +88,8 @@ See package insert for dosage information.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-www.mylan.com
-
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M0873-99-4C:R9
+Mylan.com
+
+M0873-99-4C:R10

@@ -67,6 +67,8 @@ Dispose of carefully out of reach of children.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
+For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JUNE 2012 PL:CTS:R10
+REVISED JANUARY 2013 PL:CTS:R11
