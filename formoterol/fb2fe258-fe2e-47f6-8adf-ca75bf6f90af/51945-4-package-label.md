@@ -21,14 +21,14 @@ Protect pouch from heat.
 VIAL SHOULD ALWAYS BE STORED IN THE FOIL POUCH, AND ONLY REMOVED IMMEDIATELY BEFORE USE.
 Keep out of reach of children.
 
-FOR THE HEALTHCARE PROVIDER: When Perforomist™ Inhalation Solution is dispensed to the patient, write an expiration date in the "Use by" box on the carton or dispensing container.
+FOR THE HEALTHCARE PROVIDER: When Perforomist® Inhalation Solution is dispensed to the patient, write an expiration date in the "Use by" box on the carton or dispensing container.
 The date should not exceed either 3 months from date dispensed or the expiration date on the product, whichever comes first.
 After dispensing to the patient, store at 2°C to 25°C (36°F to 77°F) for up to 3 months.
 
-FOR THE PATIENT: Use Perforomist™ Inhalation Solution prior to the "Use by" date.
+FOR THE PATIENT: Use Perforomist® Inhalation Solution prior to the "Use by" date.
 
 Rx Only
 
 U.S. Pat.
-Nos. 6,667,344 and 6,814,953 Dey Pharma, L.P.
+Nos. 6,667,344 and 6,814,953 Mylan Specialty L.P.
 Napa, CA 94558

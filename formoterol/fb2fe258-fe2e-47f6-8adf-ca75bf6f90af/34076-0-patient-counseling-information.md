@@ -39,12 +39,10 @@ FDA-Approved Medication Guide
 
 See the accompanying Medication Guide.
 
-Dey®
-
-Dey Pharma, L.P., Napa, CA 94558
+MYLAN® Mylan Specialty L.P., Napa, CA 94558
 
 U.S. Pat.
 No. 6,667,344 U.S. Pat.
 No. 6,814,953
 
-03-848-05
+03-848-07
