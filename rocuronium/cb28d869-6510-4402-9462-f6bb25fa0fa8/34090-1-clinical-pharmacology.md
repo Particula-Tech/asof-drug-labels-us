@@ -50,8 +50,35 @@ Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating
 | 0.8 (n=18) | – | 0.5 (0.3-1.0) | 30 (17-56) |
 | n = the number of patients who had time to maximum block recordedClinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |
 
-Due to Organon USA Inc.’s marketing exclusivity rights, this drug product is not approved with certain pharmacodynamic information.
-Labeling describing additional pharmacodynamics in pediatric populations is approved for Organon USA Inc.’s rocuronium bromide injection.
+Table 6 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
+
+Table 6.
+Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
+
+| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 (min) |
+| --- | --- | --- |
+| Neonates birth to <28 days |  |  |
+| 0.45 (n=5) | 1.1 (0.6-2.2) | 40.3 (32.5-62.6) |
+| 0.6 (n=10) | 1.0 (0.2-2.1) | 49.7 (16.6-119.0) |
+| 1 (n=6) | 0.6 (0.3-1.8) | 114.4 (92.6-136.3) |
+| Infants 28 days to ≤3 mo |  |  |
+| 0.45 (n=9) | 0.5 (0.4-1.3) | 49.1 (13.5-79.9) |
+| 0.6 (n=11) | 0.4 (0.2-0.8) | 59.8 (32.3-87.8) |
+| 1 (n=5) | 0.3 (0.2-0.7) | 103.3 (90.8-155.4) |
+| Toddlers >3 mo to ≤2 yrs |  |  |
+| 0.45 (n=17) | 0.8 (0.3-1.9) | 39.2 (16.9-59.4) |
+| 0.6 (n=29) | 0.6 (0.2-1.6) | 44.2 (18.9-68.8) |
+| 1 (n=15) | 0.5 (0.2-1.5) | 72.0 (36.2-128.2) |
+| Children >2 yrs to ≤11 yrs |  |  |
+| 0.45 (n=14) | 0.9 (0.4-1.9) | 21.5 (17.5-38.0) |
+| 0.6 (n=37) | 0.8 (0.3-1.7) | 36.7 (20.1-65.9) |
+| 1 (n=16) | 0.7 (0.4-1.2) | 53.1 (31.2-89.9) |
+| Adolescents >11 to ≤17 yrs |  |  |
+| 0.45 (n=18) | 1.0 (0.5-1.7) | 37.5 (18.3-65.7) |
+| 0.6 (n=31) | 0.9 (0.2-2.1) | 41.4 (16.3-91.2) |
+| 1 (n=14) | 0.7 (0.5-1.2) | 67.1 (25.6-93.8) |
+
+n=the number of patients with the highest number of observations for time to maximum block or reappearance T3.
 
 The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
 
@@ -154,5 +181,18 @@ Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients (ages 3
 | Volume of Distribution at Steady State (L/kg) | 0.30 (0.04) | 0.26 (0.06) | 0.21 (0.03) |
 | t1/2 β Elimination (hr) | 1.3 (0.5) | 1.1 (0.7) | 0.8 (0.3) |
 
-Due to Organon USA Inc.’s marketing exclusivity right, this drug product is not approved with certain pediatric pharmacokinetic information.
-Labeling describing additional pharmacokinetics in pediatric populations is approved for Organon USA Inc’s rocuronium bromide injection.
+Pharmacokinetics of rocuronium bromide were evaluated using a population analysis of the pooled pharmacokinetic datasets from 2 trials under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia.
+All pharmacokinetic parameters were found to be linearly proportional to body weight.
+In patients under the age of 18 years clearance (CL) and volume of distribution (Vss) increase with bodyweight (kg) and age (years).
+As a result the terminal half-life of rocuronium bromide decreases with increasing age from 1.1 hour to 0.7-0.8 hour.
+Table 10 presents the pharmacokinetic parameters in the different age groups in the studies with sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia.
+
+Table 10.
+Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia
+
+| PK Parameters | Patient Age Range |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Birth to<28 days | 28 days to≤3 mos | 3 mos to≤2 yrs | 2 to ≤11 yrs | 11 to ≤17 yrs |  |
+| CL (L/kg/hr) | 0.31 (0.07) | 0.30 (0.08) | 0.33 (0.10) | 0.35 (0.09) | 0.29 (0.14) |
+| Volume of Distribution (L/kg) | 0.42 (0.06) | 0.31 (0.03) | 0.23 (0.03) | 0.18 (0.02) | 0.18 (0.01) |
+| t1/2 β (hr) | 1.1 (0.2) | 0.9 (0.3) | 0.8 (0.2) | 0.7 (0.2) | 0.8 (0.3) |

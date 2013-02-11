@@ -4,10 +4,10 @@ In clinical trials, the most common adverse reactions (2%) are transient hypoten
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- Anaphylaxis [see WARNINGS AND PRECAUTIONS (5.2)]
-- Residual paralysis [see WARNINGS AND PRECAUTIONS (5.4)]
-- Myopathy [see WARNINGS AND PRECAUTIONS (5.5)]
-- Increased pulmonary vascular resistance [see WARNINGS AND PRECAUTIONS (5.11)]
+- •Anaphylaxis [see WARNINGS AND PRECAUTIONS (5.2)]
+- •Residual paralysis [see WARNINGS AND PRECAUTIONS (5.4)]
+- •Myopathy [see WARNINGS AND PRECAUTIONS (5.5)]
+- •Increased pulmonary vascular resistance [see WARNINGS AND PRECAUTIONS (5.11)]
 
 ## 6.1 Clinical Trials Experience
 

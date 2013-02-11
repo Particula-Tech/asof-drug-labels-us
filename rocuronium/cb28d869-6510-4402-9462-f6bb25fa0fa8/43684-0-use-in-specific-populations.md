@@ -24,6 +24,8 @@ Rocuronium bromide is not recommended for rapid sequence induction in Cesarean s
 The use of rocuronium bromide has been studied in pediatric patients 3 months to 14 years of age under halothane anesthesia.
 Of the pediatric patients anesthetized with halothane who did not receive atropine for induction, about 80% experienced a transient increase (30% or greater) in heart rate after intubation.
 One of the 19 infants anesthetized with halothane and fentanyl who received atropine for induction experienced this magnitude of change [see DOSAGE AND ADMINISTRATION (2.5) and CLINICAL STUDIES (14.3)].
+Rocuronium bromide was also studied in pediatric patients up to 17 years of age, including neonates, under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia.
+Onset time and clinical duration varied with dose, the age of the patient, and anesthetic technique.
 
 The overall analysis of ECG data in pediatric patients indicates that the concomitant use of rocuronium bromide with general anesthetic agents can prolong the QTc interval.
 The data also suggest that rocuronium bromide may increase heart rate.
@@ -32,9 +34,6 @@ Additionally, when examining plasma levels of rocuronium bromide in correlation 
 
 Rocuronium bromide is not recommended for rapid sequence intubation in pediatric patients.
 Recommendations for use in pediatric patients are discussed in other sections [see DOSAGE AND ADMINISTRATION (2.5) and CLINICAL PHARMACOLOGY (12.2)].
-
-Due to Organon USA Inc.’s marketing exclusivity rights, this drug product is not approved with certain pediatric use information.
-Labeling describing additional information for pediatric use is approved for Organon USA Inc.’s rocuronium bromide injection.
 
 ## 8.5 Geriatric Use
 

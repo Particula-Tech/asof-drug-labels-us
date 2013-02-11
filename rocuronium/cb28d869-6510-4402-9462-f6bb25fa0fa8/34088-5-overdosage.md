@@ -4,7 +4,7 @@ Overdosage with neuromuscular blocking agents may result in neuromuscular block 
 The primary treatment is maintenance of a patent airway, controlled ventilation, and adequate sedation until recovery of normal neuromuscular function is assured.
 Once evidence of recovery from neuromuscular block is observed, further recovery may be facilitated by administration of an anticholinesterase agent in conjunction with an appropriate anticholinergic agent.
 
-## Reversal of Neuromuscular Blockade
+Reversal of Neuromuscular Blockade
 
 Anticholinesterase agents should not be administered prior to the demonstration of some spontaneous recovery from neuromuscular blockade.
 The use of a nerve stimulator to document recovery is recommended.

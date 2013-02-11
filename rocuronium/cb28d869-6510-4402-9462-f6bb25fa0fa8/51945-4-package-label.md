@@ -1,4 +1,4 @@
-# 10 mg/mL 10 ml Label
+# 10 mg/mL 10 mL Label
 
 NDC 0781-3220-70
 
@@ -19,23 +19,3 @@ Peel off & apply to syringe
 Sterile, nonpyrogenic
 
 SANDOZ
-
-# 10 mg/mL 5 mL Label
-
-NDC 0781-3220-75 5 mL multiple dose vial
-
-Rocuronium
-
-Bromide Injection
-
-10 mg/mL
-
-(50 mg/5 mL)
-
-Rx only For IV use only
-
-Peel off &
-
-apply to syringe
-
-Sterile, nonpyrogenic
