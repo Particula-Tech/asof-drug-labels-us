@@ -62,10 +62,10 @@ The effectiveness of clozapine in reducing the risk of recurrent suicidal behavi
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment and the remainder were not.
 Patients met one of the following criteria:
 
-- They had attempted suicide within the three years prior to their baseline evaluation.
-- They had been hospitalized to prevent a suicide attempt within the three years prior to their baseline evaluation.
-- They demonstrated moderate-to-severe suicidal ideation with a depressive component within one week prior to their baseline evaluation.
-- They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
+- • They had attempted suicide within the three years prior to their baseline evaluation.
+- • They had been hospitalized to prevent a suicide attempt within the three years prior to their baseline evaluation.
+- • They demonstrated moderate-to-severe suicidal ideation with a depressive component within one week prior to their baseline evaluation.
+- • They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
 
 Dosing regimens for each treatment group were determined by individual investigators and were individualized by patient.
 Dosing was flexible, with a dose range of 200–900 mg/day for clozapine and 5–20 mg/day for olanzapine.

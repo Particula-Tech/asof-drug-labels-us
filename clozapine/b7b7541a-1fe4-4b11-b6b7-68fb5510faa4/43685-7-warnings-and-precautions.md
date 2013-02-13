@@ -66,11 +66,11 @@ Frequency of Monitoring Based on Stage of Therapy or Results from WBC Count and 
 | 12 months of therapy | All results for WBC count ≥3500/mm3 and ANC ≥2000/mm3 | Every 4 weeks ad infinitum |
 | Immature forms present | N/A | Repeat WBC count and ANC |
 | Discontinuation of therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC count ≥3500/mm3 and ANC ≥2000/mm3 |
-| Substantial drop in WBC count or ANC | Single drop or cumulative drop within 3 weeks of WBC count ≥3000/mm3 or ANC ≥1500/mm3 | Repeat WBC count and ANC If repeat values are 3000/mm3 ≤WBC count ≤3500/mm3 and ANC >2000/mm3, then monitor twice weekly |
+| Substantial drop in WBC count or ANC | Single drop or cumulative drop within 3 weeks of WBC count ≥3000/mm3 or ANC ≥1500/mm3 | 1. Repeat WBC count and ANC2. If repeat values are 3000/mm3 ≤WBC count ≤3500/mm3 and ANC >2000/mm3, then monitor twice weekly |
 | Mild leukopenia and/or Mild granulocytopenia | 3500/mm3 >WBC count ≥3000/mm3 and/or 2000/mm3 >ANC ≥1500/mm3 | Twice weekly until WBC count >3500/mm3 and ANC >2000/mm3 then return to previous monitoring frequency |
-| Moderate leukopenia and/or Moderate granulocytopenia | 3000/mm3 >WBC count ≥2000/mm3 and/or 1500/mm3 >ANC ≥1000/mm3 | Interrupt therapy Daily until WBC count >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC count >3500/mm3 and ANC >2000/mm3 May rechallenge when WBC count >3500/mm3 and ANC >2000/mm3 If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
-| Severe leukopenia and/or Severe granulocytopenia | WBC count <2000/mm3 and/or ANC <1000/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC count >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC count >3500/mm3 and ANC >2000/mm3 Weekly after WBC count >3500/mm3 |
-| Agranulocytosis | ANC <500/mm3 | Discontinue treatment and do not rechallenge patientMonitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC count >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC count >3500/mm3 and ANC >2000/mm3 Weekly after WBC count >3500/mm3 |
+| Moderate leukopenia and/or Moderate granulocytopenia | 3000/mm3 >WBC count ≥2000/mm3 and/or 1500/mm3 >ANC ≥1000/mm3 | 1. Interrupt therapy2. Daily until WBC count >3000/mm3 and ANC >1500/mm33. Twice weekly until WBC count >3500/mm3 and ANC >2000/mm34. May rechallenge when WBC count >3500/mm3 and ANC >2000/mm35. If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
+| Severe leukopenia and/or Severe granulocytopenia | WBC count <2000/mm3 and/or ANC <1000/mm3 | 1. Discontinue treatment and do not rechallenge patient2. Monitor until normal and for at least four weeks from day of discontinuation as follows: ∘ Daily until WBC count >3000/mm3 and ANC >1500/mm3∘ Twice weekly until WBC count >3500/mm3 and ANC >2000/mm3∘ Weekly after WBC count >3500/mm3 |
+| Agranulocytosis | ANC <500/mm3 | 1.Discontinue treatment and do not rechallenge patient2.Monitor until normal and for at least four weeks from day of discontinuation as follows: ∘ Daily until WBC count >3000/mm3 and ANC >1500/mm3∘ Twice weekly until WBC count >3500/mm3 and ANC >2000/mm3∘ Weekly after WBC count >3500/mm3 |
 | WBC = White blood cell ANC = Absolute neutrophil count |  |  |
 
 ### Decrements in WBC Count and/or ANC
@@ -147,7 +147,7 @@ Caution should be exercised when FazaClo® (clozapine, USP) is prescribed in pat
 Caution is also indicated when treating patients with cardiovascular disease or family history of long QT syndrome.
 
 Caution should be exercised when FazaClo® (clozapine, USP) is used in combination with other medications known to prolong the QTc interval.
-These include certain antipsychotic medications (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), antiarrhythmic medication in Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) (see DRUG INTERACTIONS).
+These include certain antipsychotic medications (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), antiarrhythmic medication in Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetronmesylate, probucol or tacrolimus) (see DRUG INTERACTIONS).
 
 Hypokalemia, (which can result from diuretic therapy, diarrhea, and other causes), and/or hypomagnesemia can also increase the risk of QT prolongation.
 Use caution when treating patients at risk for significant electrolyte disturbance, particularly hypokalemia.
@@ -339,23 +339,23 @@ Check with the anesthesiologist regarding continuation of FazaClo® (clozapine, 
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe FazaClo® (clozapine, USP):
 
-- Patients who are to receive FazaClo® (clozapine, USP) should be warned about the significant risk of developing agranulocytosis.
+- • Patients who are to receive FazaClo® (clozapine, USP) should be warned about the significant risk of developing agranulocytosis.
   Patients should be advised to immediately report the appearance of lethargy, weakness, fever, sore throat, malaise, mucous membrane ulceration, or other possible signs of infection.
   Particular attention should be paid to any flu-like complaints or other symptoms that might suggest infection.
-  - Patients should be informed that FazaClo® (clozapine, USP) Orally Disintegrating Tablets will be made available only through a special program designed to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
+  - ∘ Patients should be informed that FazaClo® (clozapine, USP) Orally Disintegrating Tablets will be made available only through a special program designed to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
     Patients should be informed that their WBC count and ANC will be monitored as follows:
-    - Weekly blood tests are required for the first 6 months.
-    - If acceptable WBC counts and ANCs (WBC count ≥3500/mm3 and ANC ≥2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
-    - Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.
-- Patients should be informed of the significant risk of seizure during FazaClo® (clozapine, USP) treatment, and they should be advised to avoid driving and any other potentially hazardous activity while taking FazaClo® (clozapine, USP).
-- Patients with phenylketonuria should be aware that FazaClo® (clozapine, USP) contains phenylalanine (a component of aspartame).
+    - ▪ Weekly blood tests are required for the first 6 months.
+    - ▪ If acceptable WBC counts and ANCs (WBC count ≥3500/mm3 and ANC ≥2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
+    - ▪ Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.
+- • Patients should be informed of the significant risk of seizure during FazaClo® (clozapine, USP) treatment, and they should be advised to avoid driving and any other potentially hazardous activity while taking FazaClo® (clozapine, USP).
+- • Patients with phenylketonuria should be aware that FazaClo® (clozapine, USP) contains phenylalanine (a component of aspartame).
   (See PRECAUTIONS, Phenylketonurics.)
-- Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration.
-- Patients should be informed that if they miss taking FazaClo® (clozapine, USP) for more than 2 days, they should not restart their medication at the same dosage but should contact their physician for dosing instructions.
-- Patients should notify their physician if they are taking or plan to take any prescription or over-the-counter drugs or alcohol.
-- Patients should notify their physician if they become pregnant or intend to become pregnant during therapy.
-- Patients should not breast feed an infant if they are taking FazaClo® (clozapine, USP).
-- Patients should be advised that FazaClo® (clozapine, USP) tablets should remain in the original package until immediately before use.
+- • Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration.
+- • Patients should be informed that if they miss taking FazaClo® (clozapine, USP) for more than 2 days, they should not restart their medication at the same dosage but should contact their physician for dosing instructions.
+- • Patients should notify their physician if they are taking or plan to take any prescription or over-the-counter drugs or alcohol.
+- • Patients should notify their physician if they become pregnant or intend to become pregnant during therapy.
+- • Patients should not breast feed an infant if they are taking FazaClo® (clozapine, USP).
+- • Patients should be advised that FazaClo® (clozapine, USP) tablets should remain in the original package until immediately before use.
 
 ## Drug Interactions
 
