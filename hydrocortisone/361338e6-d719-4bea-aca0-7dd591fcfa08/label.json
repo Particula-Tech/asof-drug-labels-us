@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020453"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "10337-153-15",
+    "10337-153-46",
+    "10337-153-80"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "hydrocortisone probutate",
+      "name": "PANDEL"
+    }
+  ],
+  "setid": "361338e6-d719-4bea-aca0-7dd591fcfa08",
+  "source": "dailymed"
+}
