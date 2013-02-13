@@ -15,7 +15,7 @@ Changes in insulin strength, manufacturer, type (e.g., Regular, NPH, analog), sp
 ## General
 
 Hypoglycemia and hypokalemia are among the potential clinical adverse effects associated with the use of all insulins.
-Because of differences in the action of Humalog Mix50/50 and other insulins, care should be taken in patients in whom such potential side effects might be clinically relevant (e.g., patients who are fasting, have autonomic neuropathy, or are using potassium–lowering drugs or patients taking drugs sensitive to serum potassium level).
+Because of differences in the action of Humalog Mix50/50 and other insulins, care should be taken in patients in whom such potential side effects might be clinically relevant (e.g., patients who are fasting, have autonomic neuropathy, or are using potassium-lowering drugs or patients taking drugs sensitive to serum potassium level).
 Lipodystrophy and hypersensitivity are among other potential clinical adverse effects associated with the use of all insulins.
 
 As with all insulin preparations, the time course of Humalog Mix50/50 action may vary in different individuals or at different times in the same individual and is dependent on site of injection, blood supply, temperature, and physical activity.
@@ -58,28 +58,26 @@ Patients should be advised not to share their Pens with others.
 ## Laboratory Tests
 
 As with all insulins, the therapeutic response to Humalog Mix50/50 should be monitored by periodic blood glucose tests.
-Periodic measurement of hemoglobin A1c is recommended for the monitoring of long–term glycemic control.
+Periodic measurement of hemoglobin A1c is recommended for the monitoring of long-term glycemic control.
 
 ## Drug Interactions
 
-Insulin requirements may be increased by medications with hyperglycemic activity such as corticosteroids, isoniazid, certain lipid–lowering drugs (e.g., niacin), estrogens, oral contraceptives, phenothiazines, and thyroid replacement therapy.
+Insulin requirements may be increased by medications with hyperglycemic activity such as corticosteroids, isoniazid, certain lipid-lowering drugs (e.g., niacin), estrogens, oral contraceptives, phenothiazines, and thyroid replacement therapy.
 
-Insulin requirements may be decreased in the presence of drugs that increase insulin sensitivity or have hypoglycemic activity, such as oral antidiabetic agents, salicylates, sulfa antibiotics, certain antidepressants (monoamine oxidase inhibitors), angiotensin–converting–enzyme inhibitors, angiotensin II receptor blocking agents, beta–adrenergic blockers, inhibitors of pancreatic function (e.g., octreotide), and alcohol.
-Beta–adrenergic blockers may mask the symptoms of hypoglycemia in some patients.
+Insulin requirements may be decreased in the presence of drugs that increase insulin sensitivity or have hypoglycemic activity, such as oral antidiabetic agents, salicylates, sulfa antibiotics, certain antidepressants (monoamine oxidase inhibitors), angiotensin-converting-enzyme inhibitors, angiotensin II receptor blocking agents, beta-adrenergic blockers, inhibitors of pancreatic function (e.g., octreotide), and alcohol.
+Beta-adrenergic blockers may mask the symptoms of hypoglycemia in some patients.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long–term studies in animals have not been performed to evaluate the carcinogenic potential of Humalog, Humalog Mix75/25, or Humalog Mix50/50.
+Long-term studies in animals have not been performed to evaluate the carcinogenic potential of Humalog, Humalog Mix75/25, or Humalog Mix50/50.
 Insulin lispro was not mutagenic in a battery of in vitro and in vivo genetic toxicity assays (bacterial mutation tests, unscheduled DNA synthesis, mouse lymphoma assay, chromosomal aberration tests, and a micronucleus test).
 There is no evidence from animal studies of impairment of fertility induced by insulin lispro.
 
 ## Pregnancy
 
-### Teratogenic Effects — Pregnancy Category B
-
-Reproduction studies with insulin lispro have been performed in pregnant rats and rabbits at parenteral doses up to 4 and 0.3 times, respectively, the average human dose (40 units/day) based on body surface area.
+Teratogenic Effects — Pregnancy Category B — Reproduction studies with insulin lispro have been performed in pregnant rats and rabbits at parenteral doses up to 4 and 0.3 times, respectively, the average human dose (40 units/day) based on body surface area.
 The results have revealed no evidence of impaired fertility or harm to the fetus due to insulin lispro.
-There are, however, no adequate and well–controlled studies with Humalog, Humalog Mix75/25, or Humalog Mix50/50 in pregnant women.
+There are, however, no adequate and well-controlled studies with Humalog, Humalog Mix75/25, or Humalog Mix50/50 in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers
