@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA077263"
+  ],
+  "inn": "rizatriptan",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-7471-19",
+    "0093-7471-43",
+    "0093-7472-19",
+    "0093-7472-43"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rizatriptan benzoate",
+      "name": "Rizatriptan Benzoate"
+    }
+  ],
+  "setid": "4ef60c83-ba48-4134-968b-13800ea9b7f2",
+  "source": "dailymed"
+}
