@@ -216,216 +216,162 @@ All rights reserved.
 
 PV 5564 AMP
 
-Humalog® KwikPen™ insulin lispro injection, USP (rDNA origin)
+Instructions for Use HUMALOG®KwikPen™ insulin lispro injection (rDNA origin)
 
-Disposable Insulin Delivery Device User Manual
+Read the Instructions for Use before you start taking HUMALOG and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-________________________________________________________________________________________
+HUMALOG® KwikPen™ (“Pen”) is a disposable pen containing 3 mL (300 units) of U-100 HUMALOG® [insulin lispro injection (rDNA origin)] insulin.
+You can inject from 1 to 60 units in a single injection.
 
-Introduction
-
-Humalog® KwikPen™ (“Pen”) is designed for ease of use.
-It is a disposable insulin delivery device (“insulin Pen”) containing 3 mL (300 units) of U-100 Humalog® [insulin lispro injection, USP (rDNA origin)] insulin.
-You can inject from 1 to 60 units of Humalog in one injection.
-You can dial your dose one unit at a time.
-If you dial too many units, you can dial backwards to correct the dose without wasting any insulin.
-
-Before using Humalog KwikPen, read the entire manual completely and follow the directions carefully.
-If you do not follow these directions completely, you may get too much or too little insulin.
-Do not share your Humalog KwikPen or needles with anyone else.
+Do not share your HUMALOG KwikPen or needles with anyone else.
 You may give an infection to them or get an infection from them.
-DO NOT USE your KwikPen if any part appears broken or damaged.
-Contact Lilly at 1-800-Lilly-Rx (1-800-545-5979) or your healthcare professional for a replacement Pen.
-Always carry an extra Pen in case yours is lost or damaged.
-This Pen is not recommended for use by the blind or visually impaired persons without the assistance of a person trained in the proper use of the product.
 
-Preparing Humalog KwikPen
+This Pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
 
-Important Notes
+Supplies you will need to give your HUMALOG injection:
 
-- Read and follow the directions provided in the Patient Information Leaflet.
-- Check the label on your Pen before each injection for the expiration date and to make sure you are using the correct type of insulin.
-- Your healthcare professional has prescribed the best type of insulin for you.
-  Any changes in insulin therapy should be made only under medical supervision.
-- KwikPen is recommended for use with Becton, Dickinson and Company pen needles.
-- Be sure the needle is completely attached to the Pen before use.
-- Do not share your Pen or needles.
-- Keep these directions for future reference.
+- HUMALOG KwikPen
+- HUMALOG KwikPen compatible needle (Becton, Dickinson and Company Pen Needles recommended)
+- Alcohol swab
 
-Frequently Asked Questions about Preparing Humalog KwikPen
+Preparing HUMALOG KwikPen:
 
-- What should my insulin look like?
-  Humalog is clear and colorless.
-  If your Humalog is cloudy, colored, or has solid particles or clumps in it, return it to your pharmacy for a replacement.
-  Be sure to refer to your Patient Information Leaflet for the appearance of your specific insulin.
-- Why should I use a new needle for each injection?
-  This will help ensure sterility.
-  If needles are reused, you may get the wrong amount of insulin, a clogged needle or a jammed Pen.
-- What should I do if I am not sure how much insulin remains in my cartridge?
-  Hold the Pen with the needle end pointing down.
-  The scale on the clear Cartridge Holder shows an estimate of the number of units remaining.
-  These numbers should NOT be used for measuring an insulin dose.
+- Wash your hands with soap and water.
+- Check the HUMALOG KwikPen Label to make sure you are taking the right type of insulin.
+  This is especially important if you use more than 1 type of insulin.
+- Do not use HUMALOG past the expiration date printed on the Label.
+- Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
 
-Priming Humalog KwikPen
+| Step 1: Pull the Pen Cap straight off. Wipe the Rubber Seal with an alcohol swab. Do not twist the cap.Do not remove the KwikPen Label. HUMALOG should look clear and colorless. Do not use HUMALOG if it is thick, cloudy, colored, has solid particles or clumps in it. |  |
+| --- | --- |
+| Step 2: Pull off the Paper Tab from Outer Needle Shield. |  |
+| Step 3: Push the capped Needle straight onto the Pen and turn the Needle forward until it is tight. |  |
+| Step 4: Pull off the Outer Needle Shield. Do not throw it away. Pull off the Inner Needle Shield and throw it away. |  |
 
-Important Notes
+Priming your HUMALOG KwikPen:
 
-- Prime every time.
-  The Pen must be primed to a stream of insulin before each injection to make sure the Pen is ready to dose.
-- If you do not prime, you may get too much or too little insulin.
+Prime before each injection.
+Priming ensures the Pen is ready to dose and removes air that may collect in the cartridge during normal use.
+If you do not prime before each injection, you may get too much or too little insulin.
 
-Frequently Asked Questions about Priming
+| Step 5: Turn the Dose Knob to select 2 units. |  |
+| --- | --- |
+| Step 6: Hold your Pen with the Needle pointing up. Tap the Cartridge Holder gently to collect air bubbles at the top. |  |
+| Step 7: Hold your Pen with Needle pointing up. Push the Dose Knob in until it stops, and “0” is seen in the Dose Window. Hold the Dose Knob in and count to 5 slowly. A stream of insulin should be seen from the needle. -If you do not see a stream of insulin, repeat steps 5 to 7, no more than 4 times. -If you still do not see a stream of insulin, change the needle and repeat steps 5 to 7. |  |
 
-- Why should I prime my KwikPen before each dose?
-  1. Ensures that the Pen is ready to dose.
-  2. Confirms that a stream of insulin comes out of the tip of the needle when you push the Dose Knob in.
-  3. Removes air that may collect in the needle or insulin cartridge during normal use.
-- What should I do if I cannot completely push in the Dose Knob when priming the KwikPen?
-  1. Attach a new needle.
-  2. Prime the Pen.
-- What should I do if I see an air bubble in the cartridge?
-  You need to prime the Pen.
-  Remember, do not store the Pen with the needle attached as this may cause air bubbles to collect in the insulin cartridge.
-  A small air bubble will not affect your dose and you can continue to take your dose as usual.
+Selecting your dose:
 
-Injecting Your Dose
+| Step 8: Turn the Dose Knob to select the number of units you need to inject. The Dose Indicator should line up with your dose. The dose can be corrected by turning the Dose Knob in either direction until the correct dose lines up with the Dose Indicator. The even numbers are printed on the dial. The odd numbers, after the number 1, are shown as full lines. | (10 units shown) (15 units shown) |
+| --- | --- |
 
-Important Notes
+- The HUMALOG KwikPen will not let you dial more than the number of units left in the Pen.
+- If your dose is more than the number of units left in the Pen, you may either:
+  - -inject the amount left in your Pen and then use a new Pen to give the rest of your dose, or
+  - -get a new Pen and inject the full dose.
+- The Pen is designed to deliver a total of 300 units of insulin.
+  The cartridge contains an additional small amount of insulin that can't be delivered.
 
-- Follow the instructions for sanitary injection technique recommended by your healthcare professional.
-- Make sure you receive your complete dose by pushing and holding the dose knob in and count to 5 slowly before removing the needle.
-  If insulin is leaking from the Pen you may not have held it in your skin long enough.
-- The Pen will not allow you to dial more than the number of units left in the Pen.
-- If your dose is greater than the number of units left in the Pen, you may either inject the amount remaining in your current Pen and then use a new Pen to complete your dose OR inject the full dose with a new Pen.
-- Do not attempt to inject your insulin by turning the Dose Knob.
-  You will NOT receive your insulin by turning the Dose Knob.
-  You must PUSH the Dose Knob straight in for the dose to be delivered.
-- Do not attempt to change the dose while injecting.
-- The directions regarding needle handling are not intended to replace local, healthcare professional or institutional policies.
-- Remove the needle after completing each injection.
+Giving your HUMALOG injection:
 
-Frequently Asked Questions about Injecting Your Dose
+- Inject your HUMALOG as your healthcare provider has shown you.
+- Change (rotate) your injection site for each injection.
+- Do not try to change your dose while injecting HUMALOG.
 
-- Why is it difficult to push the Dose Knob when I try to inject?
-  1. Your needle may be clogged.
-     Try attaching a new needle.
-     When you do this you may see insulin come out of the needle.
-     Then prime the Pen.
-  2. Pressing the Dose Knob quickly may make the Dose Knob harder to push.
-     Pressing the Dose Knob more slowly may make it easier.
-  3. Using a larger diameter needle will make it easier to push the Dose Knob during your injection.
-     See your healthcare professional to determine which needle size is best for you.
-  4. If the Dose Knob continues to be difficult to push after following the steps above, try the steps below under “What should I do if my KwikPen is jammed?”.
-- What should I do if my KwikPen is jammed?
-  Your Pen may be jammed if it is difficult to inject a dose or dial a dose.
-  To clear the jam:
-  1. Attach a new needle.
-     When you do this you may see insulin come out of the needle.
-  2. Prime the Pen.
-  3. Dial your dose and inject.
-  4. If the Dose Knob is still difficult to push, contact Lilly at 1-800-Lilly-Rx (1-800-545-5979).
-- Why is insulin leaking from the needle after I finished injecting my dose?
-  You may have removed the needle from your skin too quickly.
-  1. Make sure you see a 0 in the Dose Window to confirm you received the complete dose.
-  2. For the next dose, push and hold the Dose Knob in and count to 5 slowly before removing the needle.
-- What should I do if my dose is dialed and the Dose Knob is accidentally pushed in without a needle attached?
-  1. Dial back to zero.
-  2. Attach a new needle.
-     When you do this you may see insulin come out of the needle.
-  3. Prime the Pen.
-  4. Dial your dose and inject.
-- What should I do if I dial a wrong dose (too high or too low)?
-  Turn the Dose Knob backward or forward to correct the dose before injecting.
-- What should I do if I see insulin leaking from the KwikPen needle while dialing the dose or correcting the dose?
-  Do not inject the dose because you may not get your complete dose.
-  Dial the Pen down to zero and prime the Pen again (see “Priming Humalog KwikPen” steps 2 B-D).
-  Dial your dose and inject.
-- What should I do if my full dose cannot be dialed?
-  The Pen will not allow you to dial a dose greater than the number of insulin units remaining in the cartridge.
-  For example, if you need 31 units and only 25 units remain in the cartridge you will not be able to dial past 25.
-  Do not attempt to dial past this point.
-  You may either:
-  1. Inject the partial dose and then inject the remaining dose using a new Pen. or
-  2. Inject the full dose with a new Pen.
-- Why can I not dial the dose to use the small amount of insulin that remains in my cartridge?
-  The Pen is designed to deliver at least 300 units of insulin.
-  The Pen design prevents the cartridge from being completely emptied because the small amount of insulin that remains in the cartridge cannot be delivered.
+| Step 9: Choose your injection site. HUMALOG is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms. Wipe the skin with an alcohol swab, and let the injection site dry before you inject your dose. |  |
+| --- | --- |
+| Step 10: Insert the Needle into your skin. |  |
+| Step 11: Put your thumb on the Dose Knob and push the Dose Knob in until it stops. Hold the Dose Knob in and slowly count to 5. |  |
+| Step 12: Pull the Needle out of your skin. You should see “0” in the Dose Window. If you do not see “0” in the Dose Window, you did not receive your full dose. If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. A drop of insulin at the needle tip is normal. It will not affect your dose. If you do not think you received your full dose, do not take another dose. Call Lilly or your healthcare provider for assistance. |  |
+| Step 13: Carefully replace the Outer Needle Shield. |  |
+| Step 14: Unscrew the capped Needle and throw it away. Do not store the Pen with the Needle attached to prevent leaking, blocking of the Needle, and air from entering the Pen. |  |
+| Step 15: Replace the Pen Cap by lining up the Cap Clip with the Dose Indicator and pushing straight on. |  |
 
-Storage and Disposal
+After your injection:
 
-Important Notes
+- Put your used needles and pens in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and pens in your household trash.
+- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - -made of a heavy-duty plastic,
+  - -can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - -upright and stable during use,
+  - -leak-resistant, and
+  - -properly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and pens.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
 
-- Refer to the Patient Information Leaflet for complete insulin storage instructions.
-- Pens that have not been used should be stored in a refrigerator but not in a freezer.
-  Do not use a Pen if it has been frozen.
-- Do not store the Pen with the needle attached.
-  If the needle remains attached, insulin may leak from the Pen, insulin may dry inside the needle causing the needle to clog, or air bubbles may form inside the cartridge.
-- The Pen you are currently using should be kept at room temperature and away from heat and light.
-- Keep the Pen out of the reach of children.
-- Dispose of used needles in a puncture-resistant container or as directed by your healthcare professional.
-- Dispose of used Pens as instructed by your healthcare professional and without the needle attached.
+How should I store my HUMALOG KwikPen?
 
-Use the space below to keep track of how long you should use each Pen in the carton.
-Once you start using a KwikPen it must be thrown out after the number of days listed in your Patient Information Leaflet, even if there is insulin remaining in the Pen.
-Record the date you start using a Pen, find the number of days that KwikPen should be used in the Patient Information Leaflet and determine the date the Pen should be thrown out.
-Record the dates in the space provided below.
+- Store unused HUMALOG Pens in the refrigerator at 36°F to 46°F (2°C to 8°C).
+  The Pen you are currently using can be stored out of the refrigerator below 86°F (30°C).
+- Do not freeze HUMALOG.
+  Do not use HUMALOG if it has been frozen.
+- Unused HUMALOG Pens may be used until the expiration date printed on the Label, if kept in the refrigerator.
+- The HUMALOG Pen you are using should be thrown away after 28 days, even if it still has insulin left in it.
+- Keep HUMALOG away from heat and out of the light.
+
+General information about the safe and effective use of HUMALOG KwikPen
+
+- Keep HUMALOG KwikPen and needles out of the reach of children.
+- Do not use your Pen if any part looks broken or damaged.
+- Always carry an extra Pen in case yours is lost or damaged.
+- If you can not remove the Pen Cap, gently twist the Pen Cap back and forth, and then pull the Pen Cap straight off.
+- If it is hard to push the Dose Knob or the Pen is not working the right way:
+  - -Your Needle may be blocked.
+    Put on a new Needle and prime the Pen.
+  - -You may have dust, food, or liquid inside the Pen.
+    Throw the Pen away and get a new one.
+  - -It may help to push the Dose Knob more slowly during your injection.
+- Use the space below to keep track of how long you should use each HUMALOG KwikPen.
+  - -Write down the date you start using your HUMALOG KwikPen.
+    Count forward 28 days.
+  - -Write down the date you should throw it away.
 
 Example:
 
-| Pen 1 - First used on _______ + | Number of days you should = | Throw out on ______ |
-| --- | --- | --- |
-| Date | use KwikPen (from Patient | Date |
-|  | Information Leaflet) |  |
-| Pen 1 - First used on _______ | Throw out on _______ |  |
-| Date | Date |  |
-| Pen 2 - First used on _______ | Throw out on _______ |  |
-| Date | Date |  |
-| Pen 3 - First used on _______ | Throw out on _______ |  |
-| Date | Date |  |
-| Pen 4 - First used on _______ | Throw out on _______ |  |
-| Date | Date |  |
-| Pen 5 - First used on _______ | Throw out on _______ |  |
-| Date | Date |  |
+Pen 1 - First used on _______ + 28 days = Throw out on ______
 
-If you have any questions or problems with your Humalog KwikPen, contact Lilly at 1-800-Lilly-Rx (1-800-545-5979) or your healthcare professional for assistance.
+Date Date
 
-For more information on Humalog KwikPen and insulin, please visit our website at www.humalog.com
+Pen 1 - First used on _______ Throw out on _______
+
+Date Date
+
+Pen 2 - First used on _______ Throw out on _______
+
+Date Date
+
+Pen 3 - First used on _______ Throw out on _______
+
+Date Date
+
+Pen 4 - First used on _______ Throw out on _______
+
+Date Date
+
+Pen 5 - First used on _______ Throw out on _______
+
+Date Date
+
+If you have any questions or problems with your HUMALOG KwikPen, contact Lilly at 1-800-Lilly-Rx (1-800-545-5979) or call your healthcare provider for help.
+For more information on HUMALOG KwikPen and insulin, go to www.humalog.com.
+
+These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 Humalog® and Humalog® KwikPen™ are trademarks of Eli Lilly and Company.
 
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
+Marketed by: Lilly USA, LLC
 
-Copyright © 2007, 2011, Eli Lilly and Company.
+Indianapolis, IN 46285, USA
+
+Copyright © 2007, 2013, Eli Lilly and Company.
 All rights reserved.
 
 | Humalog KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2000. |
 | --- |
 
-| Getting Ready |  |  |  |
-| --- | --- | --- | --- |
-| Make sure you have the following items: | □ Humalog® KwikPen™ | □ New Pen Needle | □ Alcohol Swab |
+Revised: January 30, 2013
 
-| Pen Parts | KwikPen, and Needle* Assembly *sold separately |
-| --- | --- |
-
-| Follow these instructions for each injection |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| 1. Preparing Humalog KwikPen |  |  |  |  |
-| A. | B. |  | C. |  |
-| Pull Pen Cap to remove. Be sure to check your insulin for: TypeExpiration dateAppearance Use an alcohol swab to wipe the Rubber Seal on the end of the Cartridge Holder. | Remove Paper Tab from Outer Needle Shield. |  | Push capped needle straight onto the Pen. Screw needle on until secure. |  |
-
-| 2. Priming Humalog KwikPen |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Caution: If you do not prime before each injection, you may get too much or too little insulin. |  |  |  |  |
-| A. | B. | C. | D. |  |
-| Pull off Outer Needle Shield. Do not throw away. Pull off Inner Needle Shield and throw away. | Dial 2 Units by turning the Dose Knob. | Point Pen up. Tap Cartridge Holder to collect air at top. |  | With needle pointing up, push Dose Knob in until it stops and 0 is seen in the Dose Window. |
-| Hold Dose Knob in and count to 5 slowly. Priming is complete when a stream of insulin appears from the needle tip and you have counted to 5 slowly. If a stream of insulin does not appear, repeat priming steps 2 B-D up to four times. If the Pen still does not prime, change the needle and repeat the priming steps above. Note: If you do not see a stream of insulin from the tip of the needle and the Dose Knob becomes hard to push, then change the needle and prime the Pen. |  |  |  |  |
-
-| 3. Injecting Your Dose |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| A. | B. |  | C. | D. |
-| Turn Dose Knob to the number of units you need to inject. If you dial too many units, you can correct the dose by dialing backwards. Example: 10 units shown. Example: 15 units shown. The even numbers are printed on the dial. The odd numbers, after the number one, are shown as full lines. | Insert needle into skin using injection technique recommended by your healthcare professional. Place your thumb on the Dose Knob and push firmly until the Dose Knob stops. Note: The Pen will not allow you to dial more than the number of units left in the Pen. | To deliver the full dose, hold Dose Knob in and count to 5 slowly. Remove needle from skin. Note: Check to make sure you see 0 in the Dose Window to confirm you received the complete dose. | Carefully replace the Outer Needle Shield. Note: Remove the needle after each injection to keep air out of the cartridge. Do not store the Pen with the needle attached. | Unscrew the capped needle and dispose of as directed by your healthcare professional. Replace Pen Cap. |
-
-Literature revised October 28, 2011
-
-PV 5592 AMP
+PV 5594 AMP
