@@ -5,7 +5,7 @@
 Pregnancy Category C
 
 There are no adequate and well-controlled studies in pregnant women.
-Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Amlodipine should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
 
 No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (respectively, 8 timesBased on patient weight of 50 kg. and 23 times the maximum recommended human dose of 10 mg on a mg/m2 basis) during their respective periods of major organogenesis.
 However, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
@@ -17,6 +17,8 @@ It is not known whether amlodipine is excreted in human milk.
 In the absence of this information, it is recommended that nursing be discontinued while NORVASC is administered.
 
 ## 8.4 Pediatric Use
+
+NORVASC (2.5 to 5 mg daily) is effective in lowering blood pressure in patients 6 to 17 years [see Clinical Studies (14.1)].
 
 Effect of NORVASC on blood pressure in patients less than 6 years of age is not known.
 

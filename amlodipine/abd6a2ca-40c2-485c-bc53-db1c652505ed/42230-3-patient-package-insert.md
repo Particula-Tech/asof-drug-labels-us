@@ -64,7 +64,6 @@ What are the possible side effects of NORVASC?
 NORVASC may cause the following side effects.
 Most side effects are mild or moderate:
 
-- headache
 - swelling of your legs or ankles
 - tiredness, extreme sleepiness
 - stomach pain, nausea
@@ -97,4 +96,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about NORVASC, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
 
-LAB-0015-6.0 October 2011
+LAB-0015-7.0 January 2013
