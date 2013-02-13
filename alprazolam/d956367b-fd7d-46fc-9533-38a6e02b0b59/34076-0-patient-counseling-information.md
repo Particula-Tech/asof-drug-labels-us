@@ -4,21 +4,21 @@
 
 To assure safe and effective use of benzodiazepines, all patients prescribed NIRAVAM should be provided with the following guidance.
 
-1. Do not remove NIRAVAM tablets from the bottle until just prior to dosing.
+1. 1.Do not remove NIRAVAM tablets from the bottle until just prior to dosing.
    With dry hands, open the bottle, remove the tablet, and immediately place on the tongue to dissolve and be swallowed with the saliva.
    The tablet may also be taken with water.
-2. Discard any cotton that was included in the bottle and reseal the bottle tightly to prevent introducing moisture that might cause the tablets to disintegrate.
-3. Store at room temperature in a dry place.
+2. 2.Discard any cotton that was included in the bottle and reseal the bottle tightly to prevent introducing moisture that might cause the tablets to disintegrate.
+3. 3.Store at room temperature in a dry place.
    Protect from moisture.
-4. Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
+4. 4.Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
    Alcohol should generally not be used during treatment with benzodiazepines.
-5. NIRAVAM is not recommended for use in pregnancy.
+5. 5.NIRAVAM is not recommended for use in pregnancy.
    Therefore, inform your physician if you are pregnant, if you are planning to have a child, or if you become pregnant while you are taking this medication.
-6. Inform your physician if you are nursing.
-7. Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
-8. Do not increase the dose even if you think the medication “does not work anymore” without consulting your physician.
+6. 6.Inform your physician if you are nursing.
+7. 7.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
+8. 8.Do not increase the dose even if you think the medication “does not work anymore” without consulting your physician.
    Benzodiazepines, even after relatively short-term use at the doses recommended, may produce emotional and/or physical dependence.
-9. Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur even after relatively short-term use at the doses recommended.
+9. 9.Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur even after relatively short-term use at the doses recommended.
    You should follow a gradual dosage tapering schedule.
 
 ## 17.2 Additional Counseling Information for Panic Disorder Patients

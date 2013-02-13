@@ -36,40 +36,40 @@ In addition to the relatively common (i.e., greater than 1%) adverse reactions d
 
 Table 2: Adverse Reactions Reported in Placebo-Controlled Trials of Alprazolam in Panic Disorder (>2% and greater than placebo)
 
-| PANIC DISORDER |  |  |
-| --- | --- | --- |
-| Body System/Adverse Reaction | Treatment-Emergent Symptom Incidencea |  |
-| ALPRAZOLAM (%) N = 1388 | PLACEBO (%) N = 1231 |  |
-| Central Nervous System |  |  |
-| Sedation | 77 | 43 |
-| Fatigue and Tiredness | 49 | 42 |
-| Impaired Coordination | 40 | 18 |
-| Irritability | 33 | 30 |
-| Memory Impairment | 33 | 22 |
-| Cognitive Disorder | 29 | 21 |
-| Dysarthria | 23 | 6 |
-| Decreased Libido | 14 | 8 |
-| Confusional State | 10 | 8 |
-| Increased Libido | 8 | 4 |
-| Change in Libido (Not Specified) | 7 | 6 |
-| Disinhibition | 3 | 2 |
-| Talkativeness | 2 | 1 |
-| Derealization | 2 | 1 |
-| Gastrointestinal |  |  |
-| Constipation | 26 | 15 |
-| Increased Salivation | 6 | 4 |
-| Cutaneous |  |  |
-| Rash | 11 | 8 |
-| Other |  |  |
-| Increased Appetite | 33 | 23 |
-| Decreased Appetite | 28 | 24 |
-| Weight Gain | 27 | 18 |
-| Weight Loss | 23 | 17 |
-| Micturition Difficulties | 12 | 9 |
-| Menstrual Disorders | 10 | 9 |
-| Sexual Dysfunction | 7 | 4 |
-| Incontinence | 2 | 1 |
-| a) Events reported by 1% or more of alprazolam patients are included. |  |  |
+| PANIC DISORDER |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Body System/Adverse Reaction | Treatment-Emergent Symptom Incidencea |  |  |  |  |
+| ALPRAZOLAM (%) N = 1388 | PLACEBO (%) N = 1231 |  |  |  |  |
+| Central Nervous System |  |  |  |  |  |
+| Sedation | 77 | 43 |  |  |  |
+| Fatigue and Tiredness | 49 | 42 |  |  |  |
+| Impaired Coordination | 40 | 18 |  |  |  |
+| Irritability | 33 | 30 |  |  |  |
+| Memory Impairment | 33 | 22 |  |  |  |
+| Cognitive Disorder | 29 | 21 |  |  |  |
+| Dysarthria | 23 | 6 |  |  |  |
+| Decreased Libido | 14 | 8 |  |  |  |
+| Confusional State | 10 | 8 |  |  |  |
+| Increased Libido | 8 | 4 |  |  |  |
+| Change in Libido (Not Specified) | 7 | 6 |  |  |  |
+| Disinhibition | 3 | 2 |  |  |  |
+| Talkativeness | 2 | 1 |  |  |  |
+| Derealization | 2 | 1 |  |  |  |
+| Gastrointestinal |  |  |  |  |  |
+| Constipation | 26 | 15 |  |  |  |
+| Increased Salivation | 6 | 4 |  |  |  |
+| Cutaneous |  |  |  |  |  |
+| Rash | 11 | 8 |  |  |  |
+| Other |  |  |  |  |  |
+| Increased Appetite | 33 | 23 |  |  |  |
+| Decreased Appetite | 28 | 24 |  |  |  |
+| Weight Gain | 27 | 18 |  |  |  |
+| Weight Loss | 23 | 17 |  |  |  |
+| Micturition Difficulties | 12 | 9 |  |  |  |
+| Menstrual Disorders | 10 | 9 |  |  |  |
+| Sexual Dysfunction | 7 | 4 |  |  |  |
+| Incontinence | 2 | 1 |  |  |  |
+| a) Events reported by 1% or more of alprazolam patients are included. |  |  |  |  |  |
 
 In addition to the relatively common (i.e., greater than 1%) adverse reactions described in the table above, the following adverse reactions have been reported in association with the use of alprazolam: seizures, hallucinations, depersonalization, taste alterations, diplopia, elevated bilirubin, elevated hepatic enzymes, and jaundice.
 
