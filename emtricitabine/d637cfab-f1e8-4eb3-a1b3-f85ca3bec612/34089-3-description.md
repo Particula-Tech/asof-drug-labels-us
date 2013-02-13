@@ -12,7 +12,7 @@ The tablets include the following inactive ingredients: pregelatinized starch, l
 The tablets are film-coated with a coating material containing polyethylene glycol, hypromellose, lactose monohydrate, triacetin, titanium dioxide, iron oxide red, FD&C Blue #2 aluminum lake, FD&C Yellow #6 aluminum lake.
 
 Emtricitabine: The chemical name of emtricitabine is 5-fluoro-1-[(2R,5S)-2-(hydroxymethyl)-1,3-oxathiolan-5-yl]cytosine.
-Emtricitabine is the (-) enantiomer of a thio analog of cytidine, which differs from other cytidine analogs in that it has a fluorine in the 5-position.
+Emtricitabine is the (–) enantiomer of a thio analog of cytidine, which differs from other cytidine analogs in that it has a fluorine in the 5-position.
 
 It has a molecular formula of C8H10FN3O3S and a molecular weight of 247.24.
 It has the following structural formula:

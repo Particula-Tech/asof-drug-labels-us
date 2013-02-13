@@ -9,7 +9,7 @@ COMPLERA is a fixed-dose combination of antiviral drugs emtricitabine, rilpiviri
 Effects on Electrocardiogram
 
 The effect of rilpivirine at the recommended dose of 25 mg once daily on the QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg once daily) controlled crossover study in 60 healthy adults, with 13 measurements over 24 hours at steady state.
-The maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline-correction was 4.8 (8.2) milliseconds (i.e., below the threshold of clinical concern).
+The maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline-correction was 2.0 (5.0) milliseconds (i.e., below the threshold of clinical concern).
 
 When supratherapeutic doses of 75 mg once daily and 300 mg once daily of rilpivirine were studied in healthy adults, the maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline-correction were 10.7 (15.3) and 23.3 (28.4) milliseconds, respectively.
 Steady-state administration of rilpivirine 75 mg once daily and 300 mg once daily resulted in a mean steady-state Cmax approximately 2.6-fold and 6.7-fold, respectively, higher than the mean Cmax observed with the recommended 25 mg once daily dose of rilpivirine [See Warnings and Precautions (5.4)].
@@ -35,16 +35,16 @@ Exposure to rilpivirine was generally lower in HIV-1 infected subjects than in h
 After oral administration, the Cmax of rilpivirine is achieved within 4–5 hours.
 The absolute bioavailability of rilpivirine is unknown.
 
-Table 5 Population Pharmacokinetic Estimates of Rilpivirine 25 mg Once Daily in Antiretroviral Treatment-Naive HIV-1-infected Subjects (Pooled Data from Phase 3 Trials through Week 48)
+Table 5 Population Pharmacokinetic Estimates of Rilpivirine 25 mg Once Daily in Antiretroviral Treatment-Naive HIV-1-infected Subjects (Pooled Data from Phase 3 Trials through Week 96)
 
 | Parameter | Rilpivirine 25 mg once daily N=679 |
 | --- | --- |
 | AUC24h (ng∙h/mL) |  |
-| Mean ± Standard Deviation | 2397 ± 1032 |
-| Median (Range) | 2204 (482 – 8601) |
+| Mean ± Standard Deviation | 2235 ± 851 |
+| Median (Range) | 2096 (198 – 7307) |
 | C0h (ng/mL) |  |
-| Mean ± Standard Deviation | 80 ± 37 |
-| Median (Range) | 74 (1 – 300) |
+| Mean ± Standard Deviation | 79 ± 35 |
+| Median (Range) | 73 (2 – 288) |
 
 Rilpivirine is approximately 99.7% bound to plasma proteins in vitro, primarily to albumin.
 In vitro experiments indicate that rilpivirine primarily undergoes oxidative metabolism by the cytochrome CYP3A system.
@@ -135,14 +135,14 @@ Tenofovir increased the Cmin of emtricitabine by 20% (90% confidence interval [C
 Emtricitabine had no effect on the Cmax, AUC and Cmin of tenofovir.
 Coadministration of emtricitabine and famciclovir had no effect on the Cmax or AUC of either medication.
 
-Drug interaction studies were performed for tenofovir DF and the following medications: entecavir, methadone, oral contraceptives (ethinyl estrodiol/norgestimate), ribavirin, and tacrolimus.
+Drug interaction studies were performed for tenofovir DF and the following medications: entecavir, methadone, oral contraceptives (ethinyl estradiol/norgestimate), ribavirin, and tacrolimus.
 Tacrolimus increased the Cmax of tenofovir by 13% (90% CI: [↑1 to ↑27]) and had no effect on the tenofovir AUC and Cmin.
 Tenofovir had no effect on the Cmax, AUC and Cmin of tacrolimus.
 
 The Cmax, AUC and Cmin of tenofovir were not affected in the presence of entecavir.
 Tenofovir increased the AUC of entecavir by 13% (90% CI: [↑11 to ↑15]) and had no effect on the entecavir Cmax and Cmin.
 
-Tenofovir had no effect on the Cmax, AUC and Cmin of methadone or ethinyl estrodiol/norgestimate or the Cmax and AUC of ribavirin.
+Tenofovir had no effect on the Cmax, AUC and Cmin of methadone or ethinyl estradiol/norgestimate or the Cmax and AUC of ribavirin.
 
 Rilpivirine: Rilpivirine is primarily metabolized by cytochrome CYP3A, and drugs that induce or inhibit CYP3A may thus affect the clearance of rilpivirine.
 Coadministration of COMPLERA and drugs that induce CYP3A may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance.
@@ -163,7 +163,7 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Rilpivirine
 | Acetaminophen | 500 mg single dose | 150 mg once dailyThe Interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. | 16 | ↑ 9 (↑ 1 to ↑ 18) | ↑ 16 (↑ 10 to ↑ 22) | ↑ 26 (↑ 16 to ↑ 38) |
 | Atorvastatin | 40 mg once daily | 150 mg once daily | 16 | ↓ 9 (↓ 21 to↑ 6) | ↓ 10 (↓ 19 to ↓ 1) | ↓ 10 (↓ 16 to ↓ 4) |
 | Chlorzoxazone | 500 mg single dose | 150 mg once daily | 16 | ↑ 17 (↑ 8 to ↑ 27) | ↑ 25 (↑ 16 to ↑ 35) | ↑ 18 (↑ 9 to ↑ 28) |
-| Ethinylestradiol/ Norethindrone | 0.035 mg once daily/1 mg once daily | 25 mg once daily | 16 | ↔ | ↔ | ↔ |
+| Ethinyl estradiol/ Norethindrone | 0.035 mg once daily/1 mg once daily | 25 mg once daily | 16 | ↔ | ↔ | ↔ |
 | Famotidine | 40 mg single dose taken 12 hours before rilpivirine | 150 mg single dose | 24 | ↓ 1 (↓ 16 to↑ 16) | ↓ 9 (↓ 22 to↑ 7) | NA |
 | 40 mg single dose taken 2 hours before rilpivirine | 150 mg single dose | 23 | ↓ 85 (↓ 88 to ↓ 81) | ↓ 76 (↓ 80 to ↓ 72) | NA |  |
 | 40 mg single dose taken 4 hours after rilpivirine | 150 mg single dose | 24 | ↑ 21 (↑ 6 to↑ 39) | ↑ 13 (↑ 1 to↑ 27) | NA |  |
@@ -185,10 +185,10 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | 2-hydroxy-atorvastatin | 16 | ↑ 58 (↑ 33 to ↑ 87) | ↑ 39 (↑ 29 to ↑ 50) | ↑ 32 (↑ 10 to ↑ 58) |  |  |
 | 4-hydroxy-atorvastatin | 16 | ↑ 28 (↑ 15 to ↑ 43) | ↑ 23 (↑ 13 to ↑ 33) | NA |  |  |
 | Chlorzoxazone | 500 mg single dose | 150 mg once daily | 16 | ↓ 2 (↓ 15 to ↑ 13) | ↑ 3 (↓ 5 to ↑ 13) | NA |
-| Ethinylestradiol | 0.035 mg once daily | 25 mg once daily | 17 | ↑ 17 (↑ 6 to ↑ 30) | ↑ 14 (↑ 10 to ↑ 19) | ↑ 9 (↑ 3 to ↑ 16) |
+| Ethinyl estradiol | 0.035 mg once daily | 25 mg once daily | 17 | ↑ 17 (↑ 6 to ↑ 30) | ↑ 14 (↑ 10 to ↑ 19) | ↑ 9 (↑ 3 to ↑ 16) |
 | Norethindrone | 1 mg once daily | 17 | ↓ 6 (↓ 17 to ↑ 6) | ↓ 11 (↓ 16 to ↓ 6) | ↓ 1 (↓ 10 to ↑ 8) |  |
 | Ketoconazole | 400 mg once daily | 150 mg once daily | 14 | ↓ 15 (↓ 20 to ↓ 10) | ↓ 24 (↓ 30 to ↓ 18) | ↓ 66 (↓ 75 to ↓ 54) |
-| R(-) methadone | 60–100 mg once daily individualized dose | 25 mg once daily | 13 | ↓ 14 (↓ 22 to ↓ 5) | ↓ 16 (↓ 26 to ↓ 5) | ↓ 22 (↓ 33 to ↓ 9) |
+| R(–) methadone | 60–100 mg once daily individualized dose | 25 mg once daily | 13 | ↓ 14 (↓ 22 to ↓ 5) | ↓ 16 (↓ 26 to ↓ 5) | ↓ 22 (↓ 33 to ↓ 9) |
 | S(+) methadone | 13 | ↓ 13 (↓ 22 to ↓ 3) | ↓ 16 (↓ 26 to ↓ 4) | ↓ 21 (↓ 33 to ↓ 8) |  |  |
 | Omeprazole | 20 mg once daily | 150 mg once daily | 15 | ↓ 14 (↓ 32 to ↑ 9) | ↓ 14 (↓ 24 to ↓ 3) | NA |
 | Rifampin | 600 mg once daily | 150 mg once daily | 16 | ↑ 2 (↓ 7 to ↑ 12) | ↓ 1 (↓ 8 to ↑ 7) | NA |
@@ -245,36 +245,42 @@ The frequently observed amino acid substitutions that emerged and conferred decr
 
 In Treatment-Naive HIV-1-infected Subjects
 
-In a pooled resistance analysis for subjects receiving rilpivirine in combination with emtricitabine/tenofovir DF in clinical trials C209 and C215 [See Clinical Studies (14)], the emergence of resistance among subjects was greater in the rilpivirine arm compared to the efavirenz arm (see Table 8).
-In the combined studies, 44% (34/77) of the virologic failures in the rilpivirine arms had genotypic and phenotypic resistance to rilpivirine compared to 23% (10/43) of the virologic failures in the efavirenz arms who had genotypic and phenotypic resistance to efavirenz.
-Moreover, phenotypic and/or genotypic resistance to emtricitabine and tenofovir emerged in 51% (39/77) and 9% (7/77) of the virologic failures, respectively, in the rilpivirine arms compared to 16% (7/43) and 9% (4/43) in the efavirenz arms.
+In the Week 96 pooled resistance analysis for subjects receiving rilpivirine or efavirenz in combination with emtricitabine/tenofovir DF in the Phase 3 clinical trials C209 and C215, the emergence of resistance was greater among subjects' viruses in the rilpivirine plus emtricitabine/tenofovir DF arm compared to the efavirenz plus emtricitabine/tenofovir DF arm and was dependent on baseline viral load.
+In the pooled resistance analysis, 61% (47/77) of the subjects who qualified for resistance analysis (resistance analysis subjects) in the rilpivirine plus emtricitabine/tenofovir DF arm had virus with genotypic and/or phenotypic resistance to rilpivirine compared to 42% (18/43) of the resistance analysis subjects in the efavirenz plus emtricitabine/tenofovir DF arm who had genotypic and/or phenotypic resistance to efavirenz.
+Moreover, genotypic and/or phenotypic resistance to emtricitabine or tenofovir emerged in viruses from 57% (44/77) of the resistance analysis subjects in the rilpivirine arm compared to 26% (11/43) in the efavirenz arm.
 
-Emerging NNRTI substitutions in the rilpivirine virologic failures included V90I, K101E/P/T, E138K/G, V179I/L, Y181I/C, V189I, H221Y, F227C/L and M230L, which were associated with a rilpivirine phenotypic fold change range of 2.6–621.
-The E138K substitution emerged most frequently on rilpivirine treatment commonly in combination with the M184I substitution.
-The emtricitabine and lamivudine resistance-associated substitutions M184I or V emerged more frequently in rilpivirine virologic failures compared to efavirenz virologic failures (see Table 8).
+Emerging NNRTI substitutions in the rilpivirine resistance analysis of subjects' viruses included V90I, K101E/P/T, E138K/A/Q/G, V179I/L, Y181C/I, V189I, H221Y, F227C/L and M230L, which were associated with a rilpivirine phenotypic fold change range of 2.6–621.
+The E138K substitution emerged most frequently during rilpivirine treatment commonly in combination with the M184I substitution.
+The emtricitabine and lamivudine resistance-associated substitutions M184I or V and NRTI resistance-associated substitutions (K65R/N, A62V, D67N/G, K70E, Y115F, K219E/R) emerged more frequently in the rilpivirine resistance analysis subjects than in efavirenz resistance analysis subjects (See Table 8).
 
-Table 8 Proportion of Frequently Emergent Reverse Transcriptase Substitutions in Virologic Failures in Subjects Who Received Rilpivirine or Efavirenz in Combination with Emtricitabine/Tenofovir DF in Studies C209 and C215
+NNRTI- and NRTI-resistance substitutions emerged less frequently in the resistance analysis of viruses from subjects with baseline viral loads of ≤100,000 copies/mL compared to viruses from subjects with baseline viral loads of >100,000 copies/mL: 23% (10/44) compared to 77% (34/44) of NNRTI-resistance substitutions and 20% (9/44) compared to 80% (35/44) of NRTI-resistance substitutions.
+This difference was also observed for the individual emtricitabine/lamivudine and tenofovir resistance substitutions: 22% (9/41) compared to 78% (32/41) for M184I/V and 0% (0/8) compared to 100% (8/8) for K65R/N.
+Additionally, NNRTI and/or NRTI-resistance substitutions emerged less frequently in the resistance analysis of the viruses from subjects with baseline CD4+ cell counts ≥200 cells/mm3 compared to the viruses from subjects with baseline CD4+ cell counts <200 cells/mm3: 32% (14/44) compared to 68% (30/44) of NNRTI-resistance substitutions and 27% (12/44) compared to 73% (32/44) of NRTI-resistance substitutions.
+
+Table 8 Proportion of Frequently Emerging Reverse Transcriptase Substitutions in the HIV-1 Virus of Resistance Analysis SubjectsSubjects who qualified for resistance analysis Who Received Rilpivirine or Efavirenz in Combination with Emtricitabine/Tenofovir DF from Pooled Phase 3 TMC278-C209 and TMC278-C215 Trials in the Week 96 Analysis
 
 | N=550 | N=546 |  |
 | --- | --- | --- |
-|  | Rilpivirine + FTC/TDF | Efavirenz + FTC/TDF |
-| Virologic Failures (As-Treated) | 77/523 (15%) | 43/480 (9%) |
-| Evaluable Post-Baseline Resistance Data | 64 | 27 |
-| Emergent NNRTI Substitutions in Virologic Failures with Post-Baseline Data |  |  |
-| V90I | 13% (8/64) | 0 |
-| K101E/P/T | 17% (11/64) | 0 |
-| K103N | 0 | 30% (8/27) |
-| V106M | 0 | 7% (2/27) |
-| E138K/G | 38% (24/64) | 0 |
-| E138K+M184IThis combination of NNRTI and NRTI substitutions is a subset of those with the E138K. | 30% (19/64) | 0 |
-| V179I/D/L | 5% (3/64) | 4% (1/27) |
-| V181C/I | 11% (7/64) | 0 |
-| Y188C | 0 | 7% (2/27) |
-| V189I | 8% (5/64) | 0 |
-| H221Y | 9% (6/64) | 0 |
-| Emergent NRTI Substitutions in Virologic Failures with Post-Baseline Data |  |  |
-| M184I or V | 55% (35/64) | 19% (5/27) |
-| K65R/N | 11% (7/64) | 7% (2/27) |
+|  | C209 and C215 N=1096 |  |
+| Rilpivirine + FTC/TDF | Efavirenz + FTC/TDF |  |
+| Subjects who Qualified for Resistance Analysis | 14% (77/550) | 8% (43/546) |
+| Subjects with Evaluable Post-Baseline Resistance Data | 70 | 31 |
+| Emergent NNRTI SubstitutionsV90, L100, K101, K103, V106, V108, E138, V179, Y181, Y188, V189, G190, H221, P225, F227, and M230 |  |  |
+| Any | 63% (44/70) | 55% (17/31) |
+| V90I | 14% (10/70) | 0 |
+| K101E/P/T/Q | 19% (13/70) | 10% (3/31) |
+| K103N | 1% (1/70) | 39% (12/31) |
+| E138K/A/Q/G | 40% (28/70) | 0 |
+| E138K+M184IThis combination of NRTI and NNRTI substitutions is a subset of those with the E138K. | 30% (21/70) | 0 |
+| V179I/D | 6% (4/70) | 10% (3/31) |
+| Y181C/I/S | 13% (9/70) | 3% (1/31) |
+| V189I | 9% (6/70) | 0 |
+| H221Y | 10% (7/70) | 0 |
+| Emergent NRTI SubstitutionsA62V, K65R/N, D67N/G, K70E, L74I, Y115F, M184V/I, L210F, K219E/R |  |  |
+| Any | 63% (44/70) | 32% (10/31) |
+| M184I/V | 59% (41/70) | 26% (8/31) |
+| K65R/N | 11% (8/70) | 6% (2/31) |
+| A62V, D67N/G, K70E, Y115F, or K219E/RThese substitutions emerged in addition to the primary substitutions M184V/I or K65R; A62V (n=2), D67N/G (n=3), K70E (n=4), Y115F (n=2), K219E/R (n=8) in rilpivirine resistance analysis subjects. | 20% (14/70) | 3% (1/31) |
 
 Cross Resistance
 
@@ -291,18 +297,20 @@ Site-Directed NNRTI Mutant Virus
 Cross-resistance has been observed among NNRTIs.
 The single NNRTI substitutions K101P, Y181I and Y181V conferred 52-fold, 15-fold and 12-fold decreased susceptibility to rilpivirine, respectively.
 The combination of E138K and M184I showed 6.7-fold reduced susceptibility to rilpivirine compared to 2.8-fold for E138K alone.
-The K103N substitution did not show reduced susceptibility to rilpivirine.
+The K103N substitution did not show reduced susceptibility to rilpivirine by itself.
+However, the combination of K103N and L100I resulted in a 7-fold reduced susceptibility to rilpivirine.
+In another study, the Y188L substitution resulted in a reduced susceptibility to rilpivirine of 9-fold for clinical isolates and 6-fold for site-directed mutants.
 Combinations of 2 or 3 NNRTI resistance-associated substitutions gave decreased susceptibility to rilpivirine (fold change range of 3.7–554) in 38% and 66% of mutants, respectively.
 
 In Treatment-Naive HIV-1-infected Subjects
 
-Considering all of the available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, H221Y, F227C, M230I or M230L.
+Considering all of the available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, Y188L, H221Y, F227C, M230I or M230L.
 
 Cross-resistance to efavirenz, etravirine and/or nevirapine is likely after virologic failure and development of rilpivirine resistance.
-In the pooled analysis for subjects receiving rilpivirine in combination with emtricitabine/tenofovir DF in clinical trials C209 and C215 [See Clinical Studies (14)], 34 virologic failure subjects had evidence of rilpivirine resistance.
-Of these subjects, 91% (N=31) were resistant to etravirine and efavirenz, and 65% (N=22) were resistant to nevirapine.
-In the efavirenz arm, none of the 10 efavirenz-resistant virologic failures were resistant to etravirine at failure.
-Subjects experiencing virologic failure on rilpivirine developed more NNRTI resistance-associated substitutions conferring more cross-resistance to the NNRTI class and had a higher likelihood of cross-resistance to all NNRTIs in the class than subjects who failed on efavirenz.
+In a pooled 96-Week analysis for subjects receiving rilpivirine in combination with emtricitabine/tenofovir DF in the Phase 3 clinical trials TMC278-C209 and TMC278-C215, 43 of the 70 (61%) rilpivirine resistance analysis subjects with post-baseline resistance data had virus with decreased susceptibility to rilpivirine (≥2.5-fold).
+Of these, 84% (n=36/43) were resistant to efavirenz (≥3.3 fold change), 88% (n=38/43) were resistant to etravirine (≥3.2 fold change) and 60% (n=26/43) were resistant to nevirapine (≥6 fold change).
+In the efavirenz arm, 3 of the 15 (20%) efavirenz resistance analysis subjects had viruses with resistance to etravirine and rilpivirine, and 93% (14/15) had resistance to nevirapine.
+Virus from subjects experiencing virologic failure on rilpivirine in combination with emtricitabine/tenofovir DF developed more NNRTI resistance-associated substitutions conferring more cross-resistance to the NNRTI class and had a higher likelihood of cross-resistance to all NNRTIs in the class than subjects who failed on efavirenz.
 
 Emtricitabine: Emtricitabine-resistant isolates (M184V/I) were cross-resistant to lamivudine but retained susceptibility in cell culture to didanosine, stavudine, tenofovir, zidovudine, and NNRTIs (delavirdine, efavirenz, nevirapine, and rilpivirine).
 HIV-1 isolates containing the K65R substitution, selected in vivo by abacavir, didanosine, and tenofovir, demonstrated reduced susceptibility to inhibition by emtricitabine.

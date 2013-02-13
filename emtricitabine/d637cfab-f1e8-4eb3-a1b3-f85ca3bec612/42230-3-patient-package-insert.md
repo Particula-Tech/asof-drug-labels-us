@@ -1,44 +1,8 @@
-Information for Patients
-
-Patients should be advised that:
-
-- Patients should remain under the care of a healthcare provider when using COMPLERA.
-- Patients should be informed that COMPLERA is not a cure for HIV infection.
-  Patients should stay on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.
-  Patients should be told that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
-- Patients should be advised to continue to practice safer sex and to use latex or polyurethane condoms to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions or blood.
-  Patients should be advised never to re-use or share needles.
-- It is important to take COMPLERA on a regular dosing schedule with a meal and to avoid missing doses.
-  A protein drink does not constitute a meal.
-  If the patient misses a dose of COMPLERA within 12 hours of the time it is usually taken, the patient should take COMPLERA with a meal as soon as possible and then take the next dose of COMPLERA at the regularly scheduled time.
-  If a patient misses a dose of COMPLERA by more than 12 hours, the patient should not take the missed dose, but resume the usual dosing schedule.
-  Inform the patient that he or she should not take more or less than the prescribed dose of COMPLERA at any one time.
-- Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
-  Treatment with COMPLERA should be suspended in any patients who develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity (including nausea, vomiting, unusual or unexpected stomach discomfort, and weakness) [See Warnings and Precautions (5.1)].
-- Patients with HIV-1 should be tested for hepatitis B virus (HBV) before initiating antiretroviral therapy.
-  Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued EMTRIVA or VIREAD [See Warnings and Precautions (5.2)].
-  COMPLERA should not be discontinued without first informing their healthcare provider.
-- Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of VIREAD.
-  COMPLERA should be avoided with concurrent or recent use of a nephrotoxic agent [See Warnings and Precautions (5.3)].
-- COMPLERA may interact with many drugs; therefore, patients should be advised to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [See Warnings and Precautions (5.4)].
-- COMPLERA should not be coadministered with the following drugs, as significant decreases in rilpivirine plasma concentrations may occur due to CYP3A enzyme induction or gastric pH increase, which may result in loss of virologic response and possible resistance to COMPLERA or to the class of NNRTIs: the anticonvulsants carbamazepine, oxcarbazepine, phenobarbital, phenytoin; the antimycobacterials rifabutin, rifampin, rifapentine; proton pump inhibitors, such as esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole; the glucocorticoid systemic dexamethasone (more than a single dose); or St. John's wort (Hypericum perforatum) [See Contraindications (4)].
-- Patients should be informed that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with COMPLERA.
-  If they experience depressive symptoms, they should seek immediate medical evaluation [See Warnings and Precautions (5.5)].
-- Decreases in bone mineral density have been observed with the use of VIREAD.
-  Bone mineral density (BMD) monitoring should be considered in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [See Warnings and Precautions (5.6)].
-- COMPLERA should not be coadministered with ATRIPLA, TRUVADA, EMTRIVA, VIREAD or EDURANT; or with drugs containing lamivudine, including COMBIVIR, EPIVIR or EPIVIR-HBV, EPZICOM, or TRIZIVIR; or with HEPSERA [See Warnings and Precautions (5.7)].
-- Redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known [See Warnings and Precautions (5.8)].
-- In some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
-  It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
-  Patients should be advised to inform their healthcare provider immediately of any symptoms of infection [See Warnings and Precautions (5.9)].
-
-FDA-Approved Patient Labeling
-
 Patient Information
 
-COMPLERA® (kom-PLEH-rah) (emtricitabine, rilpivirine and tenofovir disoproxil fumarate) Tablets
+COMPLERA® (kom-PLEH-rah) (emtricitabine, rilpivirine, tenofovir disoproxil fumarate) Tablets
 
-Important: Ask your doctor or pharmacist about medicines that should not be taken with COMPLERA.
+Important: Ask your healthcare provider or pharmacist about medicines that should not be taken with COMPLERA.
 For more information, see the section "What should I tell my healthcare provider before taking COMPLERA?"
 
 Read this Patient Information before you start taking COMPLERA and each time you get a refill.
@@ -49,86 +13,105 @@ What is the most important information I should know about COMPLERA?
 
 COMPLERA can cause serious side effects, including:
 
-1.
-Build-up of an acid in your blood (lactic acidosis).
-Lactic acidosis can happen in some people who take COMPLERA or similar (nucleoside analogs) medicines.
-Lactic acidosis is a serious medical emergency that can lead to death.
-
-Lactic acidosis can be hard to identify early, because the symptoms could seem like symptoms of other health problems.
-Call your healthcare provider right away if you get any of the following symptoms which could be signs of lactic acidosis:
-
-- feeling very weak or tired
-- have unusual (not normal) muscle pain
-- have trouble breathing
-- have stomach pain with
-  - nausea (feel sick to your stomach)
-  - vomiting
-- feel cold, especially in your arms and legs
-- feel dizzy or lightheaded
-- have a fast or irregular heartbeat
-
-2.
-Severe liver problems.
-Severe liver problems can happen in people who take COMPLERA or similar medicines.
-In some cases these liver problems can lead to death.
-Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take COMPLERA.
-
-Call your healthcare provider right away if you have any of the following symptoms of liver problems:
-
-- your skin or the white part of your eyes turns yellow (jaundice).
-- dark "tea-colored" urine
-- light-colored bowel movements (stools)
-- loss of appetite for several days or longer
-- nausea
-- stomach pain
+- 1.Build-up of an acid in your blood (lactic acidosis).
+  Lactic acidosis can happen in some people who take COMPLERA or similar (nucleoside analogs) medicines.
+  Lactic acidosis is a serious medical emergency that can lead to death.
+  Lactic acidosis can be hard to identify early, because the symptoms could seem like symptoms of other health problems.
+  Call your healthcare provider right away if you get any of the following symptoms which could be signs of lactic acidosis:
+  - feeling very weak or tired
+  - have unusual (not normal) muscle pain
+  - have trouble breathing
+  - have stomach pain with
+    - nausea (feel sick to your stomach)
+    - vomiting
+  - feel cold, especially in your arms and legs
+  - feel dizzy or lightheaded
+  - have a fast or irregular heartbeat
+- 2.Severe liver problems.
+  Severe liver problems can happen in people who take COMPLERA or similar medicines.
+  In some cases these liver problems can lead to death.
+  Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take COMPLERA.
+  Call your healthcare provider right away if you have any of the following symptoms of liver problems:
+  - your skin or the white part of your eyes turns yellow (jaundice)
+  - dark "tea-colored" urine
+  - light-colored bowel movements (stools)
+  - loss of appetite for several days or longer
+  - nausea
+  - stomach pain
 
 You may be more likely to get lactic acidosis or severe liver problems if you are female, very overweight (obese), or have been taking COMPLERA or a similar medicine containing nucleoside analogs for a long time.
 
-3.
-Worsening of Hepatitis B infection.
-If you also have hepatitis B virus (HBV) infection and you stop taking COMPLERA, your HBV infection may become worse (flare-up).
-A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
-COMPLERA is not approved for the treatment of HBV, so you must discuss your HBV therapy with your healthcare provider.
-
-- Do not let your COMPLERA run out.
-  Refill your prescription or talk to your healthcare provider before your COMPLERA is all gone.
-- Do not stop taking COMPLERA without first talking to your healthcare provider.
-- If you stop taking COMPLERA, your healthcare provider will need to check your health often and do regular blood tests to check your HBV infection.
-  Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking COMPLERA.
+- 3.Worsening of Hepatitis B infection.
+  If you also have hepatitis B virus (HBV) infection and you stop taking COMPLERA, your HBV infection may become worse (flare-up).
+  A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
+  COMPLERA is not approved for the treatment of HBV, so you must discuss your HBV therapy with your healthcare provider.
+  - Do not let your COMPLERA run out.
+    Refill your prescription or talk to your healthcare provider before your COMPLERA is all gone.
+  - Do not stop taking COMPLERA without first talking to your healthcare provider.
+  - If you stop taking COMPLERA, your healthcare provider will need to check your health often and do blood tests regularly to check your HBV infection.
+    Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking COMPLERA.
 
 What is COMPLERA?
 
 COMPLERA is a prescription HIV (Human Immunodeficiency Virus) medicine that:
 
-- is used to treat HIV-1 in adults who have never taken HIV medicines before.
-  HIV is the virus that causes AIDS (Acquired Immunodeficiency Syndrome).
-- contains 3 medicines, (rilpivirine, emtricitabine, tenofovir disoproxil fumarate) combined in one tablet.
-  EMTRIVA and VIREAD are HIV-1 (human immunodeficiency virus) nucleoside analog reverse transcriptase inhibitors (NRTIs) and EDURANT is an HIV-1 non-nucleoside analog reverse transcriptase inhibitor (NNRTI).
+- is used to treat HIV-1 in adults who have never taken HIV medicines before, and
+- who have an amount of HIV in their blood (this is called 'viral load') that is no more than 100,000 copies/mL.
+  Your healthcare provider will measure your viral load.
+
+HIV is the virus that causes AIDS (Acquired Immunodeficiency Syndrome).
+
+COMPLERA contains 3 medicines, (rilpivirine, emtricitabine, tenofovir disoproxil fumarate) combined in one tablet.
+Emtricitabine (EMTRIVA®) and tenofovir disoproxil fumarate (VIREAD®) are HIV-1 (human immunodeficiency virus) nucleoside analog reverse transcriptase inhibitors (NRTIs).
+Rilpivirine (Edurant®) is an HIV-1 non-nucleoside analog reverse transcriptase inhibitor (NNRTI).
 
 It is not known if COMPLERA is safe and effective in children under the age of 18 years.
 
 COMPLERA may help:
 
 - Reduce the amount of HIV in your blood.
-  This is called your "viral load".
-- Increase the number of white blood cells called CD4+ (T) cells that help fight off other infections.
+- Increase the number of white blood cells called CD4+ (T) cells in your blood that help fight off other infections.
 
-Reducing the amount of HIV and increasing the CD4+ (T) cell count may improve your immune system.
-This may reduce your risk of death or infections that can happen when your immune system is weak (opportunistic infections).
+Reducing the amount of HIV and increasing the CD4+ (T) cells in your blood may help improve your immune system.
+This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
 
 COMPLERA does not cure HIV infections or AIDS.
 
-- Always practice safer sex.
-- Use latex or polyurethane condoms to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
-- Never re-use or share needles.
+You must stay on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.
+
+Avoid doing things that can spread HIV-1 infection to others.
+
+- Do not share or re-use needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
 
 Ask your healthcare provider if you have any questions about how to prevent passing HIV to other people.
 
 Who should not take COMPLERA?
 
-- Do not take COMPLERA if your HIV infection has been previously treated with HIV medicines.
-- Do not take COMPLERA if you are taking certain other medicines.
-  For more information about medicines that must not be taken with COMPLERA, see "What should I tell my healthcare provider before taking COMPLERA?"
+Do not take COMPLERA if:
+
+- your HIV infection has been previously treated with HIV medicines.
+- you are taking any of the following medicines:
+  - anti-seizure medicines:
+    - carbamazepine (Carbatrol®, Equetro®, Tegretol®, Tegretol- XR®, Teril®, Epitol®)
+    - oxcarbazepine (Trileptal®)
+    - phenobarbital (Luminal®)
+    - phenytoin (Dilantin®, Dilantin-125®, Phenytek®)
+  - anti-tuberculosis (anti-TB) medicines:
+    - rifabutin (Mycobutin®)
+    - rifampin (Rifater®,Rifamate®, Rimactane®, Rifadin®)
+    - rifapentine (Priftin®)
+  - proton pump inhibitor (PPI) medicine for certain stomach or intestinal problems:
+    - dexlansoprazole (Dexilant®)
+    - esomeprazole (Nexium®, Vimovo®)
+    - lansoprazole (Prevacid®)
+    - omeprazole (Prilosec®, Zegerid®)
+    - pantoprazole sodium (Protonix®)
+    - rabeprazole (Aciphex®)
+  - more than 1 dose of the steroid medicine dexamethasone or dexamethasone sodium phosphate
+  - St. John's wort (Hypericum perforatum)
 
 What should I tell my healthcare provider before taking COMPLERA?
 
@@ -140,13 +123,15 @@ Before you take COMPLERA, tell your healthcare provider if you:
 - have bone problems
 - are pregnant or plan to become pregnant.
   It is not known if COMPLERA can harm your unborn child.
-  Pregnancy Registry.
-  There is a pregnancy registry for women who take antiviral medicines during pregnancy.
-  Its purpose is to collect information about the health of you and your baby.
-  Talk to your healthcare provider about how you can take part in this registry.
+  - Pregnancy Registry.
+    There is a pregnancy registry for women who take antiviral medicines during pregnancy.
+    The purpose of this registry is to collect information about the health of you and your baby.
+    Talk to your healthcare provider about how you can take part in this registry.
 - are breast-feeding or plan to breast-feed.
-  The Centers for Disease Control and Prevention recommends that mothers with HIV not breastfeed because they can pass the HIV through their milk to the baby.
-  It is not known if COMPLERA can pass through your breast milk and harm your baby.
+  You should not breastfeed if you have HIV because of the risk of passing HIV to your baby.
+  Do not breastfeed if you are taking COMPLERA.
+  At least two of the medicines contained in COMPLERA can be passed to your baby in your breast milk.
+  We do not know whether this could harm your baby.
   Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -155,32 +140,33 @@ COMPLERA may affect the way other medicines work, and other medicines may affect
 If you take certain medicines with COMPLERA, the amount of COMPLERA in your body may be too low and it may not work to help control your HIV infection.
 The HIV virus in your body may become resistant to COMPLERA or other HIV medicines that are like it.
 
-Do not take COMPLERA if you also take these medicines:
+COMPLERA provides a complete treatment for HIV infection.
+Do not take other HIV medicines with COMPLERA.
 
-- COMPLERA provides a complete treatment for HIV infection.
-  Do not take other HIV medicines with COMPLERA.
-- the anti-seizure medicines carbamazepine (CARBATROL®, EQUETRO®, TEGRETOL®, TEGRETOL- XR®, TERIL®, EPITOL®), oxcarbazepine (TRILEPTAL®), phenobarbital (LUMINAL®), phenytoin (DILANTIN®, DILANTIN-125®, PHENYTEK®)
-- the anti-tuberculosis medicines rifabutin (MYCOBUTIN®), rifampin (RIFATER®, RIFAMATE®, RIMACTANE®, RIFADIN®) and rifapentine (PRIFTIN®)
-- a proton pump inhibitor medicine for certain stomach or intestinal problems, including esomeprazole (NEXIUM®, VIMOVO®), lansoprazole (PREVACID®), omeprazole (PRILOSEC®), pantoprazole sodium (PROTONIX®), rabeprazole (ACIPHEX®)
-- more than 1 dose of the steroid medicine dexamethasone or dexamethasone sodium phosphate
-- St. John's wort (Hypericum perforatum)
+If you take COMPLERA, you should not take:
 
-If you are taking COMPLERA, you should not take:
-
-- other medicines that contain tenofovir (VIREAD®, TRUVADA®, ATRIPLA®)
-- other medicines that contain emtricitabine or lamivudine (EMTRIVA®, COMBIVIR®, EPIVIR® or EPIVIR-HBV®, EPZICOM®, TRIZIVIR®)
-- rilpivirine (EDURANT™)
+- other medicines that contain tenofovir (VIREAD, TRUVADA®, STRIBILD™, ATRIPLA®)
+- other medicines that contain emtricitabine or lamivudine (EMTRIVA, Combivir®, Epivir® or Epivir-HBV®, Epzicom®, Trizivir®, ATRIPLA, TRUVADA, STRIBILD)
+- rilpivirine (Edurant)
 - adefovir (HEPSERA®)
 
-Also tell your healthcare provider if you take:
+Especially tell your healthcare provider if you take:
 
 - an antacid medicine that contains aluminum, magnesium hydroxide, or calcium carbonate.
-  Take antacids at least 2 hours before or at least 4 hours after you take COMPLERA.
-- a histamine-2 blocker medicine, including famotidine (PEPCID®), cimetidine (TAGAMET®), nizatidine (AXID®), or ranitidine hydrochloride (ZANTAC®).
-  Take these medicines at least 12 hours before or at least 4 hours after you take COMPLERA.
-- the antibiotic medicines clarithromycin (BIAXIN®), erythromycin (E-MYCIN®, ERYC®, ERY-TAB®, PCE®, PEDIAZOLE®, ILOSON®), and troleandomycin (TAO®)
-- an antifungal medicine by mouth, including fluconazole (DIFLUCAN®), itraconazole (SPORANOX®), ketoconazole (NIZORAL®), posaconazole (NOXAFIL®), voriconazole (VFEND®)
-- methadone (DOLOPHINE®)
+  If you take an antacid during treatment with COMPLERA, take the antacid at least 2 hours before or at least 4 hours after you take COMPLERA.
+- a medicine to block the acid in your stomach, including cimetidine (Tagamet®), famotidine (Pepcid®), nizatidine (Axid®), or ranitidine hydrochloride (Zantac®).
+  If you take one of these medicines during treatment with COMPLERA, take the acid blocker at least 12 hours before or at least 4 hours after you take COMPLERA.
+- any of these medicines (if taken by mouth or injection):
+  - clarithromycin (Biaxin®)
+  - erythromycin (E-Mycin®, Eryc®, Ery-Tab®, PCE®, Pediazole®, Iloson®)
+  - fluconazole (Diflucan®)
+  - itraconazole (Sporanox®)
+  - ketoconazole (Nizoral®)
+  - methadone (Dolophine®)
+  - posaconazole (Noxafil®)
+  - telithromycin (Ketek®)
+  - voriconazole (Vfend®)
+- medicines that are eliminated by the kidney, including acyclovir (Zovirax®), cidofovir (VISTIDE®), ganciclovir (Cytovene IV®, Vitrasert®), valacyclovir (Valtrex®), and valganciclovir (Valcyte®)
 
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one that is listed above.
 
@@ -210,16 +196,21 @@ How should I take COMPLERA?
 
 What are the possible side effects of COMPLERA?
 
-COMPLERA may cause the following serious side effects, including:
+COMPLERA can cause serious side effects, including:
 
 - See "What is the most important information I should know about COMPLERA?"
-- New or worse kidney problems can happen in some people who take COMPLERA.
-  If you have had kidney problems in the past or take other medicines that can cause kidney problems, your healthcare provider may need to do blood tests to check your kidneys during your treatment with COMPLERA.
+- New or worse kidney problems, including kidney failure, can happen in some people who take COMPLERA.
+  Your healthcare provider should do blood tests to check your kidneys before starting treatment with COMPLERA.
+  If you have had kidney problems in the past or need to take another medicine that can cause kidney problems, your healthcare provider may need to do blood tests to check your kidneys during your treatment with COMPLERA.
 - Depression or mood changes.
   Tell your healthcare provider right away if you have any of the following symptoms:
   - feeling sad or hopeless
   - feeling anxious or restless
   - have thoughts of hurting yourself (suicide) or have tried to hurt yourself
+- Change in liver enzymes.
+  People with a history of hepatitis B or C virus infection or who have certain liver enzyme changes may have an increased risk of developing new or worsening liver problems during treatment with COMPLERA.
+  Liver problems can also happen during treatment with COMPLERA in people without a history of liver disease.
+  Your healthcare provider may need to do tests to check your liver enzymes before and during treatment with COMPLERA.
 - Bone problems can happen in some people who take COMPLERA.
   Bone problems include bone pain, softening or thinning (which may lead to fractures).
   Your healthcare provider may need to do additional tests to check your bones.
@@ -260,7 +251,7 @@ You may report side effects to FDA at 1-800-FDA-1088 (1-800-332-1088).
 
 How do I store COMPLERA?
 
-- Store COMPLERA at room temperature 77 °F (25 °C).
+- Store COMPLERA at room temperature between 68 °F to 77 °F (20 °C to 25 °C).
 - Keep COMPLERA in its original container and keep the container tightly closed.
 - Do not use COMPLERA if the seal over the bottle opening is broken or missing.
 
@@ -276,7 +267,7 @@ It may harm them.
 This leaflet summarizes the most important information about COMPLERA.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about COMPLERA that is written for health professionals.
-For more information, call (1-800-445-3235) or go to www.COMPLERA.com.
+For more information, call 1-800-445-3235 or go to www.COMPLERA.com.
 
 What are the ingredients of COMPLERA?
 
@@ -293,11 +284,10 @@ Gilead Sciences, Inc.
 
 Foster City, CA 94404
 
-Issued: August 2012
+Revised: January 2013
 
-COMPLERA, EMTRIVA, HEPSERA, TRUVADA, and VIREAD are trademarks of Gilead Sciences, Inc., or one of its related companies.
-EDURANT is a trademark of Tibotec Pharmaceuticals.
-ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
+COMPLERA, EMTRIVA, HEPSERA, TRUVADA, VIREAD, and VISTIDE are trademarks of Gilead Sciences, Inc., or its related companies.
+Edurant is a trademark of Janssen Pharmaceuticals, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-202123-GS-001
+202123-GS-002

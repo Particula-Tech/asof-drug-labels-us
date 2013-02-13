@@ -21,9 +21,17 @@ Healthcare providers are encouraged to register patients by calling 1-800-258-42
 ## 8.3 Nursing Mothers
 
 The Centers for Disease Control and Prevention recommend that HIV infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
-Studies in rats have demonstrated that tenofovir is secreted in milk.
-Studies in lactating rats and their offspring indicate that rilpivirine was present in rat milk.
-It is not known whether emtricitabine, rilpivirine, or tenofovir is excreted in human milk.
+
+Emtricitabine: Samples of breast milk obtained from five HIV-1 infected mothers show that emtricitabine is secreted in human milk.
+Breastfeeding infants whose mothers are being treated with emtricitabine may be at risk for developing viral resistance to emtricitabine.
+Other emtricitabine-associated risks in infants breastfed by mothers being treated with emtricitabine are unknown.
+
+Rilpivirine: Studies in lactating rats and their offspring indicate that rilpivirine was present in rat milk.
+It is not known whether rilpivirine is secreted in human milk.
+
+Tenofovir Disoproxil Fumarate: Samples of breast milk obtained from five HIV-1 infected mothers in the first post-partum week show that tenofovir is excreted in human milk.
+The impact of this exposure in breastfed infants is unknown.
+
 Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving COMPLERA.
 
 ## 8.4 Pediatric Use

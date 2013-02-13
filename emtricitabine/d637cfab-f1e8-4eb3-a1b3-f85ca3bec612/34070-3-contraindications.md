@@ -4,6 +4,6 @@ COMPLERA should not be coadministered with the following drugs, as significant d
 
 - the anticonvulsants carbamazepine, oxcarbazepine, phenobarbital, phenytoin
 - the antimycobacterials rifabutin, rifampin, rifapentine
-- proton pump inhibitors, such as esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole
+- proton pump inhibitors, such as dexlansoprazole, esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole
 - the glucocorticoid systemic dexamethasone (more than a single dose)
 - St. John's wort (Hypericum perforatum)

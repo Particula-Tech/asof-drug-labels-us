@@ -1,4 +1,4 @@
-# WARNINGS: LACTIC ACIDOSIS/SEVERE HEPATOMEGALY WITH STEATOSIS and POST TREATMENT ACUTE EXACERBATION OF HEPATITIS B
+# WARNING: LACTIC ACIDOSIS/SEVERE HEPATOMEGALY WITH STEATOSIS and POST TREATMENT ACUTE EXACERBATION OF HEPATITIS B
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including tenofovir disoproxil fumarate, a component of COMPLERA, in combination with other antiretrovirals [See Warnings and Precautions (5.1)].
 
