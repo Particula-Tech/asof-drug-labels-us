@@ -2,10 +2,10 @@
 
 Humalog Mix75/25 [75% insulin lispro protamine suspension and 25% insulin lispro injection, (rDNA origin)] is available in the following package sizes: each presentation containing 100 units insulin lispro per mL (U-100).
 
-| 10 mL vials | NDC 0002–7511–01 (VL-7511) |
+| 10 mL vials | NDC 0002-7511-01 (VL-7511) |
 | --- | --- |
-| 5 x 3 mL prefilled insulin delivery devices (Pen) | NDC 0002–8794–59 (HP-8794) |
-| 5 x 3 mL prefilled insulin delivery devices (KwikPen™) | NDC 0002–8797–59 (HP-8797) |
+| 5 x 3 mL prefilled insulin delivery devices (Pen) | NDC 0002-8794-59 (HP-8794) |
+| 5 x 3 mL prefilled insulin delivery devices (KwikPen™) | NDC 0002-8797-59 (HP-8797) |
 
 Storage — Humalog Mix75/25 should be stored in a refrigerator [2° to 8°C (36° to 46°F)], but not in the freezer.
 Do not use Humalog Mix75/25 if it has been frozen.
@@ -18,3 +18,16 @@ See table below:
 | --- | --- | --- | --- |
 | 10 mL Vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
 | 3 mL Pen and KwikPen (prefilled) | 10 days | Until expiration date | 10 days. Do not refrigerate. |
+
+Literature revised March 16, 2009
+
+KwikPens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA Pens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France Vials manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France
+
+for Eli Lilly and Company, Indianapolis, IN 46285, USA
+
+www.humalog.com
+
+Copyright © 2007, 2009, Eli Lilly and Company.
+All rights reserved.
+
+PV 5551 AMP
