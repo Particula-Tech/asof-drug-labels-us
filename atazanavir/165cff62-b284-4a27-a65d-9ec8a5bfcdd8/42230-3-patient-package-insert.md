@@ -133,6 +133,8 @@ The following side effects have been reported with REYATAZ:
 - if you have liver disease including hepatitis B or C, your liver disease may get worse when you take anti-HIV medicines like REYATAZ.
 - kidney stones have been reported in patients taking REYATAZ.
   If you develop signs or symptoms of kidney stones (pain in your side, blood in your urine, pain when you urinate) tell your healthcare provider promptly.
+- gallbladder disorders (which may include gallstones and gallbladder inflammation) have been reported in patients taking REYATAZ.
+  If you develop signs or symptoms of gallstones (pain in the right or middle upper stomach, fever, nausea and vomiting, or yellowing of skin and whites of the eyes), tell your healthcare provider promptly.
 - some patients with hemophilia have increased bleeding problems with protease inhibitors like REYATAZ.
 - changes in body fat.
   These changes may include an increased amount of fat in the upper back and neck (“buffalo hump”), breast, and around the trunk.
@@ -142,8 +144,6 @@ The following side effects have been reported with REYATAZ:
   In some patients with advanced HIV infection (AIDS) and a history of opportunistic infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment, including REYATAZ, is started.
 
 Other common side effects of REYATAZ taken with other anti-HIV medicines include nausea; headache; stomach pain; vomiting; diarrhea; depression; fever; dizziness; trouble sleeping; numbness, tingling, or burning of hands or feet; and muscle pain.
-
-Gallbladder disorders (which may include gallstones and gallbladder inflammation) have been reported in patients taking REYATAZ.
 
 What important information should I know about taking REYATAZ with other medicines?
 
@@ -177,10 +177,8 @@ Resistance to REYATAZ or cross-resistance to other HIV medicines may develop:
 The following medicines are not recommended with REYATAZ:
 
 - SEREVENT DISKUS® (salmeterol) and ADVAIR® (salmeterol with fluticasone), used to treat asthma, emphysema/chronic obstructive pulmonary disease also known as COPD.
-
-Do not take the following medicine if you are taking REYATAZ and NORVIR® together:
-
-- VFEND® (voriconazole).
+- VICTRELIS® (boceprevir), used to treat chronic hepatitis C infection in adults.
+- VFEND® (voriconazole), used to treat fungal infections.
 
 The following medicines may require your healthcare provider to monitor your therapy more closely (for some medicines a change in the dose or dose schedule may be needed):
 
@@ -192,7 +190,7 @@ The following medicines may require your healthcare provider to monitor your the
   There is an increased chance of serious side effects if you take REYATAZ with this cholesterol-lowering medicine.
 - Medicines for abnormal heart rhythm: CORDARONE® (amiodarone), lidocaine, quinidine (also known as CARDIOQUIN®, QUINIDEX®, and others).
 - MYCOBUTIN® (rifabutin, an antibiotic used to treat tuberculosis).
-- BUPRENEX®, SUBUTEX®, SUBOXONE®, (buprenorphine or buprenorphine/naloxone, used to treat pain and addiction to narcotic painkillers).
+- BUPRENEX®, SUBUTEX®, SUBOXONE® (buprenorphine or buprenorphine/naloxone, used to treat pain and addiction to narcotic painkillers).
 - VASCOR® (bepridil, used for chest pain).
 - COUMADIN® (warfarin).
 - Tricyclic antidepressants such as ELAVIL® (amitriptyline), NORPRAMIN® (desipramine), SINEQUAN® (doxepin), SURMONTIL® (trimipramine), TOFRANIL® (imipramine), or VIVACTIL® (protriptyline).
@@ -214,6 +212,7 @@ The following medicines may require a change in the dose or dose schedule of eit
 - Calcium channel blockers such as CARDIZEM® or TIAZAC® (diltiazem), COVERA-HS® or ISOPTIN SR® (verapamil) and others.
 - BIAXIN® (clarithromycin).
 - Medicines for indigestion, heartburn, or ulcers such as AXID® (nizatidine), PEPCID AC® (famotidine), TAGAMET® (cimetidine), or ZANTAC® (ranitidine).
+- Antiepileptic medicines such as CARBATROL® or EPITOL®(carbamazepine), DILANTIN® (phenytoin), or phenobarbital, or LAMICTAL® (lamotrigine).
 
 Talk to your healthcare provider about choosing an effective method of contraception.
 REYATAZ may affect the safety and effectiveness of hormonal contraceptives such as birth control pills or the contraceptive patch.
@@ -259,4 +258,4 @@ Other brands listed are the trademarks of their respective owners and are not tr
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226B3 Rev November 2012
+Rev January 2013

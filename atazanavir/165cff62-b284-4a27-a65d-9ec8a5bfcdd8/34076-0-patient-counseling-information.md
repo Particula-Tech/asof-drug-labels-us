@@ -56,3 +56,9 @@ This may be accompanied by yellowing of the skin or whites of the eyes and alter
 
 Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy including protease inhibitors and that the cause and long-term health effects of these conditions are not known at this time.
 It is unknown whether long-term use of REYATAZ will result in a lower incidence of lipodystrophy than with other protease inhibitors.
+
+## 17.7 Nephrolithiasis and Cholelithiasis
+
+Patients should be informed that kidney stones and/or gallstones have been reported with REYATAZ use.
+Some patients with kidney stones and/or gallstones required hospitalization for additional management and some had complications.
+Discontinuation of REYATAZ may be necessary as part of the medical management of these adverse events.

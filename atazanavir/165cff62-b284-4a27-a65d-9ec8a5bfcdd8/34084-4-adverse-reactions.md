@@ -5,7 +5,7 @@ The following adverse reactions are discussed in greater detail in other section
 - cardiac conduction abnormalities [see Warnings and Precautions (5.2)]
 - rash [see Warnings and Precautions (5.3)]
 - hyperbilirubinemia [see Warnings and Precautions (5.4)]
-- nephrolithiasis [see Warnings and Precautions (5.6)]
+- nephrolithiasis and cholelithiasis [see Warnings and Precautions (5.6)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -277,12 +277,12 @@ Gastrointestinal System: pancreatitis
 
 Hepatic System: hepatic function abnormalities
 
-Hepatobiliary Disorders: cholelithiasis, cholecystitis, cholestasis
+Hepatobiliary Disorders: cholelithiasis [see Warnings and Precautions (5.6)], cholecystitis, cholestasis
 
 Metabolic System and Nutrition Disorders: diabetes mellitus, hyperglycemia [see Warnings and Precautions (5.7)]
 
 Musculoskeletal System: arthralgia
 
-Renal System: nephrolithiasis [see Warnings and Precautions (5.6)]
+Renal System: nephrolithiasis [see Warnings and Precautions (5.6)], interstitial nephritis
 
 Skin and Appendages: alopecia, maculopapular rash [see Contraindications (4) and Warnings and Precautions (5.3)], pruritus

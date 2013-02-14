@@ -104,8 +104,8 @@ Table 15: Predicted Steady-State Pharmacokinetics of Atazanavir (capsule formula
 
 | Body Weight (range in kg) | atazanavir/ritonavir Dose (mg) | Cmax ng/mL Geometric Mean (CV%) | AUC ng•h/mL Geometric Mean (CV%) | Cmin ng/mL Geometric Mean (CV%) |
 | --- | --- | --- | --- | --- |
-| 15–<20 | 150/100 | 5213 (78.7%) | 42902 (77.0%) | 504 (99.5%) |
-| 20–<40 | 200/100 | 4954 (81.7%) | 42999 (78.5%) | 562 (98.9%) |
+| 15 – <20 | 150/100 | 5213 (78.7%) | 42902 (77.0%) | 504 (99.5%) |
+| 20 – <40 | 200/100 | 4954 (81.7%) | 42999 (78.5%) | 562 (98.9%) |
 | ≥40 | 300/100 | 5040 (84.6%) | 46777 (80.6%) | 691 (98.5%) |
 
 Pregnancy
@@ -145,6 +145,8 @@ Table 17: Drug Interactions: Pharmacokinetic Parameters for Atazanavir in the Pr
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Coadministered Drug Dose/Schedule | REYATAZ Dose/Schedule | Ratio (90% Confidence Interval) of Atazanavir Pharmacokinetic Parameters with/without Coadministered Drug; No Effect = 1.00 |  |  |
 | atenolol | 50 mg QD, d 7−11 (n=19) and d 19−23 | 400 mg QD, d 1−11 (n=19) | 1.00 (0.89, 1.12) | 0.93 (0.85, 1.01) | 0.74 (0.65, 0.86) |
+| boceprevir | 800 mg TID, d 1−6, 25−31 | 300 mg QD/ritonavir 100 mg QD, d 10−31 | atazanavir: 0.75 (0.64−0.88) | atazanavir: 0.65 (0.55−0.78) | atazanavir: 0.51 (0.44−0.61) |
+|  |  |  | ritonavir: 0.73 (0.64−0.83) | ritonavir: 0.64 (0.58−0.72) | ritonavir: 0.55 (0.45−0.67) |
 | clarithromycin | 500 mg BID, d 7−10 (n=29) and d 18−21 | 400 mg QD, d 1−10 (n=29) | 1.06 (0.93, 1.20) | 1.28 (1.16, 1.43) | 1.91 (1.66, 2.21) |
 | didanosine (ddI) (buffered tablets) plus stavudine (d4T)b | ddI: 200 mg x 1 dose, d4T: 40 mg x 1 dose (n=31) | 400 mg x 1 dose simultaneously with ddI and d4T (n=31) | 0.11 (0.06, 0.18) | 0.13 (0.08, 0.21) | 0.16 (0.10, 0.27) |
 |  | ddI: 200 mg x 1 dose, d4T: 40 mg x 1 dose (n=32) | 400 mg x 1 dose 1 h after ddI + d4T (n=32) | 1.12 (0.67, 1.18) | 1.03 (0.64, 1.67) | 1.03 (0.61, 1.73) |
@@ -174,6 +176,8 @@ Table 17: Drug Interactions: Pharmacokinetic Parameters for Atazanavir in the Pr
 | telaprevir | 750 mg q8h for 10 days (n=7) | 300 mg QD/ritonavir 100 mg QD for 20 days (n=7) | 0.85 (0.73, 0.98) | 1.17 (0.97, 1.43) | 1.85 (1.40, 2.44) |
 | tenofovirp | 300 mg QD, d 9−16 (n=34) | 400 mg QD, d 2−16 (n=34) | 0.79 (0.73, 0.86) | 0.75 (0.70, 0.81) | 0.60 (0.52, 0.68) |
 |  | 300 mg QD, d 15−42 (n=10) | 300 mg/ritonavir 100 mg QD, d 1−42 (n=10) | 0.72q (0.50, 1.05) | 0.75q (0.58, 0.97) | 0.77q (0.54, 1.10) |
+| voriconazole (Subjects with at least one functional CYP2C19 allele) | 200 mg BID, d 2−3, 22−30; 400 mg BID, d 1, 21 (n=20) | 300 mg/ritonavir 100 mg QD, d 11−30 (n=20) | 0.87 (0.80, 0.96) | 0.88 (0.82, 0.95) | 0.80 (0.72, 0.90) |
+| voriconazole (Subjects without a functional CYP2C19 allele) | 50 mg BID, d 2−3, 22−30; 100 mg BID, d 1, 21 (n=8) | 300 mg/ritonavir 100 mg QD, d 11−30 (n=8) | 0.81 (0.66, 1.00) | 0.80 (0.65, 0.97) | 0.69 (0.54, 0.87) |
 | a Data provided are under fed conditions unless otherwise noted. |  |  |  |  |  |
 | b All drugs were given under fasted conditions. |  |  |  |  |  |
 | c 400 mg ddI EC and REYATAZ were administered together with food on Days 8 and 19. |  |  |  |  |  |
@@ -200,6 +204,7 @@ Table 18: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 | Coadministered Drug | Coadministered Drug Dose/Schedule | REYATAZ Dose/Schedule | Ratio (90% Confidence Interval) of Coadministered Drug Pharmacokinetic Parameters with/without REYATAZ; No Effect = 1.00 |  |  |
 | acetaminophen | 1 gm BID, d 1−20 (n=10) | 300 mg QD/ritonavir 100 mg QD, d 11−20 (n=10) | 0.87 (0.77, 0.99) | 0.97 (0.91, 1.03) | 1.26 (1.08, 1.46) |
 | atenolol | 50 mg QD, d 7−11 (n=19) and d 19−23 | 400 mg QD, d 1−11 (n=19) | 1.34 (1.26, 1.42) | 1.25 (1.16, 1.34) | 1.02 (0.88, 1.19) |
+| boceprevir | 800 mg TID, d 1−6, 25−31 | 300 mg QD/ritonavir 100 mg QD, d 10−31 | 0.93 (0.80, 1.08) | 0.95 (0.87, 1.05) | 0.82 (0.68, 0.98) |
 | clarithromycin | 500 mg BID, d 7−10 (n=21) and d 18−21 | 400 mg QD, d 1−10 (n=21) | 1.50 (1.32, 1.71) OH- clarithromycin: 0.28 (0.24, 0.33) | 1.94 (1.75, 2.16) OH- clarithromycin: 0.30 (0.26, 0.34) | 2.60 (2.35, 2.88) OH- clarithromycin: 0.38 (0.34, 0.42) |
 | didanosine (ddI) (buffered tablets) plus stavudine (d4T)b | ddI: 200 mg x 1 dose, d4T: 40 mg x 1 dose (n=31) | 400 mg x 1 dose simultaneous with ddI and d4T (n=31) | ddI: 0.92 (0.84, 1.02) d4T: 1.08 (0.96, 1.22) | ddI: 0.98 (0.92, 1.05) d4T: 1.00 (0.97, 1.03) | NA d4T: 1.04 (0.94, 1.16) |
 | ddI (enteric-coated [EC] capsules)c | 400 mg d 1 (fasted), d 8 (fed) (n=34) | 400 mg QD, d 2−8 (n=34) | 0.64 (0.55, 0.74) | 0.66 (0.60, 0.74) | 1.13 (0.91, 1.41) |
@@ -215,11 +220,13 @@ Table 18: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 |  | 150 mg twice weekly, d 1−15 (n=7) | 300 mg QD/ritonavir 100 mg QD, d 1−17 (n=7) | 2.49m (2.03, 3.06) 25-O- desacetyl- rifabutin: 7.77 (6.13, 9.83) | 1.48m (1.19, 1.84) 25-O- desacetyl- rifabutin: 10.90 (8.14, 14.61) | 1.40m (1.05, 1.87) 25-O- desacetyl- rifabutin: 11.45 (8.15, 16.10) |
 | pitavastatin | 4 mg QD for 5 days | 300 mg QD for 5 days | 1.60 (1.39, 1.85) | 1.31 (1.23, 1.39) | NA |
 | rosiglitazonen | 4 mg single dose, d 1, 7, 17 (n=14) | 400 mg QD, d 2–7, then 300 mg QD/ritonavir 100 mg QD, d 8–17 (n=14) | 1.08 (1.03, 1.13) 0.97 (0.91, 1.04) | 1.35 (1.26, 1.44) 0.83 (0.77, 0.89) | NA NA |
-| rosuvastatin | 10 mg single dose | 300 mg QD/ ritonavir 100 mg QD for 7 days | ↑7-foldo | ↑3-foldo | NA |
+| rosuvastatin | 10 mg single dose | 300 mg QD/ ritonavir 100 mg QD for 7 days | ↑ 7-foldo | ↑ 3-foldo | NA |
 | saquinavirp (soft gelatin capsules) | 1200 mg QD, d 1−13 (n=7) | 400 mg QD, d 7−13 (n=7) | 4.39 (3.24, 5.95) | 5.49 (4.04, 7.47) | 6.86 (5.29, 8.91) |
 | telaprevir | 750 mg q8h for 10 days (n=14) | 300 mg QD/ ritonavir 100 mg QD for 20 days (n=14) | 0.79 (0.74, 0.84) | 0.80 (0.76, 0.85) | 0.85 (0.75, 0.98) |
 | tenofovirq | 300 mg QD, d 9−16 (n=33) and d 24−30 (n=33) | 400 mg QD, d 2−16 (n=33) | 1.14 (1.08, 1.20) | 1.24 (1.21, 1.28) | 1.22 (1.15, 1.30) |
 |  | 300 mg QD, d 1−7 (pm) (n=14) d 25−34 (pm) (n=12) | 300 mg QD/ritonavir 100 mg QD, d 25−34 (am) (n=12)r | 1.34 (1.20, 1.51) | 1.37 (1.30, 1.45) | 1.29 (1.21, 1.36) |
+| voriconazole (Subjects with at least one functional CYP2C19 allele) | 200 mg BID, d 2−3, 22−30; 400 mg BID, d 1, 21 (n=20) | 300 mg/ritonavir 100 mg QD, d 11−30 (n=20) | 0.90 (0.78, 1.04) | 0.67 (0.58, 0.78) | 0.61 (0.51, 0.72) |
+| voriconazole (Subjects without a functional CYP2C19 allele) | 50 mg BID, d 2−3, 22−30; 100 mg BID, d 1, 21 (n=8) | 300 mg/ritonavir 100 mg QD, d 11−30 (n=8) | 4.38 (3.55, 5.39) | 5.61 (4.51, 6.99) | 7.65 (5.71, 10.2) |
 | lamivudine + zidovudine | 150 mg lamivudine + 300 mg zidovudine BID, d 1−12 (n=19) | 400 mg QD, d 7−12 (n=19) | lamivudine: 1.04 (0.92, 1.16) zidovudine: 1.05 (0.88, 1.24) zidovudine glucuronide: 0.95 (0.88, 1.02) | lamivudine: 1.03 (0.98, 1.08) zidovudine: 1.05 (0.96, 1.14) zidovudine glucuronide: 1.00 (0.97, 1.03) | lamivudine: 1.12 (1.04, 1.21) zidovudine: 0.69 (0.57, 0.84) zidovudine glucuronide: 0.82 (0.62, 1.08) |
 | a Data provided are under fed conditions unless otherwise noted. |  |  |  |  |  |
 | b All drugs were given under fasted conditions. |  |  |  |  |  |
@@ -235,7 +242,7 @@ Table 18: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 | l Not the recommended therapeutic dose of atazanavir. |  |  |  |  |  |
 | m When compared to rifabutin 150 mg QD alone d1−10 (n=14). Total of Rifabutin + 25-O-desacetyl-rifabutin: AUC 2.19 (1.78, 2.69). |  |  |  |  |  |
 | n Rosiglitazone used as a probe substrate for CYP2C8. |  |  |  |  |  |
-| o Mean ratio (with/without coadministered drug). ↑indicates an increase in rosuvastatin exposure. |  |  |  |  |  |
+| o Mean ratio (with/without coadministered drug). ↑ indicates an increase in rosuvastatin exposure. |  |  |  |  |  |
 | p The combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID. However, the Cmax is about 79% higher than that for the standard dosing of saquinavir (soft gelatin capsules) alone at 1200 mg TID. |  |  |  |  |  |
 | q Note that similar results were observed in a study where administration of tenofovir and REYATAZ was separated by 12 hours. |  |  |  |  |  |
 | r Administration of tenofovir and REYATAZ was temporally separated by 12 hours. |  |  |  |  |  |

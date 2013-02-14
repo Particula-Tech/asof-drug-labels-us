@@ -3,7 +3,7 @@
 ## 14.1 Adult Patients Without Prior Antiretroviral Therapy
 
 Study AI424-138: a 96-week study comparing the antiviral efficacy and safety of atazanavir/ritonavir with lopinavir/ritonavir, each in combination with fixed-dose tenofovir-emtricitabine in HIV-1 infected treatment-naive subjects.
-Study AI424-138 is a 96-week, open-label, randomized, multicenter study, comparing REYATAZ (300 mg once daily) with ritonavir (100 mg once daily) to lopinavir with ritonavir (400/100 mg twice daily), each in combination with fixed-dose tenofovir with emtricitabine (300/200 mg once daily), in 878 antiretroviral treatment-naive treated patients.
+Study AI424-138 was a 96-week, open-label, randomized, multicenter study, comparing REYATAZ (300 mg once daily) with ritonavir (100 mg once daily) to lopinavir with ritonavir (400/100 mg twice daily), each in combination with fixed-dose tenofovir with emtricitabine (300/200 mg once daily), in 878 antiretroviral treatment-naive treated patients.
 Patients had a mean age of 36 years (range: 19–72), 49% were Caucasian, 18% Black, 9% Asian, 23% Hispanic/Mestizo/mixed race, and 68% were male.
 The median baseline plasma CD4+ cell count was 204 cells/mm3 (range: 2 to 810 cells/mm3) and the mean baseline plasma HIV-1 RNA level was 4.94 log10 copies/mL (range: 2.60 to 5.88 log10 copies/mL).
 Treatment response and outcomes through Week 96 are presented in Table 22.
@@ -82,7 +82,7 @@ Through 48 weeks of therapy, the mean increase from baseline in CD4+ cell count 
 ## 14.2 Adult Patients With Prior Antiretroviral Therapy
 
 Study AI424-045: REYATAZ once daily + ritonavir once daily compared to REYATAZ once daily + saquinavir (soft gelatin capsules) once daily, and compared to lopinavir + ritonavir twice daily, each in combination with tenofovir + one NRTI.
-Study AI424-045 is an ongoing, randomized, multicenter trial comparing REYATAZ (300 mg once daily) with ritonavir (100 mg once daily) to REYATAZ (400 mg once daily) with saquinavir soft gelatin capsules (1200 mg once daily), and to lopinavir + ritonavir (400/100 mg twice daily), each in combination with tenofovir and one NRTI, in 347 (of 358 randomized) patients who experienced virologic failure on HAART regimens containing PIs, NRTIs, and NNRTIs.
+Study AI424-045 was a randomized, multicenter trial comparing REYATAZ (300 mg once daily) with ritonavir (100 mg once daily) to REYATAZ (400 mg once daily) with saquinavir soft gelatin capsules (1200 mg once daily), and to lopinavir + ritonavir (400/100 mg twice daily), each in combination with tenofovir and one NRTI, in 347 (of 358 randomized) patients who experienced virologic failure on HAART regimens containing PIs, NRTIs, and NNRTIs.
 The mean time of prior exposure to antiretrovirals was 139 weeks for PIs, 283 weeks for NRTIs, and 85 weeks for NNRTIs.
 The mean age was 41 years (range: 24 to 74); 60% were Caucasian, and 78% were male.
 The mean baseline CD4+ cell count was 338 cells/mm3 (range: 14 to 1543 cells/mm3) and the mean baseline plasma HIV-1 RNA level was 4.4 log10 copies/mL (range: 2.6 to 5.88 log10 copies/mL).
@@ -90,7 +90,7 @@ The mean baseline CD4+ cell count was 338 cells/mm3 (range: 14 to 1543 cells/mm3
 Treatment outcomes through Week 48 for the REYATAZ/ritonavir and lopinavir/ritonavir treatment arms are presented in Table 25.
 REYATAZ/ritonavir and lopinavir/ritonavir were similar for the primary efficacy outcome measure of time-averaged difference in change from baseline in HIV RNA level.
 Study AI424-045 was not large enough to reach a definitive conclusion that REYATAZ/ritonavir and lopinavir/ritonavir are equivalent on the secondary efficacy outcome measure of proportions below the HIV RNA lower limit of detection.
-[See Clinical Pharmacology, Tables 20 and 21 (12.4).]
+[See Clinical Pharmacology, Tables 20 and 21(12.4).]
 
 Table 25: Outcomes of Treatment Through Week 48 in Study AI424-045 (Patients with Prior Antiretroviral Experience)
 

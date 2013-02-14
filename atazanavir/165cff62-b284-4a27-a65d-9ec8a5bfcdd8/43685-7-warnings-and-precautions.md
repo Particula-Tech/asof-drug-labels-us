@@ -2,7 +2,7 @@
 
 ## 5.1 Drug Interactions
 
-See Table 3 for a listing of drugs that are contraindicated for use with REYATAZ due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
+See Table 3 for a listing of drugs that are contraindicated for use with REYATAZ (atazanavir sulfate) due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
 [See Contraindications (4).]
 Please refer to Table 13 for established and other potentially significant drug interactions [see Drug Interactions (7.3)].
 
@@ -30,7 +30,7 @@ In controlled clinical trials, rash (all grades, regardless of causality) occurr
 The median time to onset of rash in clinical studies was 7.3 weeks and the median duration of rash was 1.4 weeks.
 Rashes were generally mild-to-moderate maculopapular skin eruptions.
 Treatment-emergent adverse reactions of moderate or severe rash (occurring at a rate of ≥2%) are presented for the individual clinical studies [see Adverse Reactions (6.1)].
-Dosing with REYATAZ was often continued without interruption in patients who developed rash.
+Dosing with REYATAZ (atazanavir sulfate) was often continued without interruption in patients who developed rash.
 The discontinuation rate for rash in clinical trials was <1%.
 REYATAZ should be discontinued if severe rash develops.
 Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions, including drug rash, eosinophilia and systemic symptoms (DRESS) syndrome, have been reported in patients receiving REYATAZ.
@@ -54,11 +54,12 @@ Patients with underlying hepatitis B or C viral infections or marked elevations 
 In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with REYATAZ and during treatment.
 [See Adverse Reactions (6.3) and Use in Specific Populations (8.8).]
 
-## 5.6 Nephrolithiasis
+## 5.6 Nephrolithiasis and Cholelithiasis
 
-Cases of nephrolithiasis were reported during postmarketing surveillance in HIV-infected patients receiving REYATAZ therapy.
+Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in HIV-infected patients receiving REYATAZ therapy.
+Some patients required hospitalization for additional management and some had complications.
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made.
-If signs or symptoms of nephrolithiasis occur, temporary interruption or discontinuation of therapy may be considered.
+If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered.
 [See Adverse Reactions (6.4).]
 
 ## 5.7 Diabetes Mellitus/Hyperglycemia
