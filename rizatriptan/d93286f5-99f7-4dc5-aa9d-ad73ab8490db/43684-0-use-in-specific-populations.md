@@ -49,4 +49,4 @@ Geriatric patients who have other cardiovascular risk factors (e.g., diabetes, h
 ## 8.6 Patients with Phenylketonuria
 
 Orally Disintegrating Tablets contain phenylalanine (a component of aspartame).
-The 5 and 10 mg orally disintegrating tablets contain 1.1 and 2.1 mg phenylalanine, respectively.
+The 5- and 10-mg orally disintegrating tablets contain 1.1 and 2.1 mg phenylalanine, respectively.

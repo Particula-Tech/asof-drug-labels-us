@@ -2,7 +2,7 @@
 
 See FDA-Approved Patient Labeling (Patient Information).
 
-Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-related Events, and Cerebrovascular Events
+Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-Related Events, and Cerebrovascular Events
 
 Inform patients that MAXALT may cause serious cardiovascular side effects such as myocardial infarction or stroke.
 Although serious cardiovascular events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
@@ -20,7 +20,7 @@ Nursing Mothers
 
 Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
 
-Ability To Perform Complex Tasks
+Ability to Perform Complex Tasks
 
 Since migraines or treatment with MAXALT may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after administration of MAXALT.
 

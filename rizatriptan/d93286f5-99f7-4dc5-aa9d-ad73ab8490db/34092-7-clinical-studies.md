@@ -19,7 +19,7 @@ Table 2: Response Rates 2 Hours Following Treatment of Initial Headache in Studi
 
 | Study | Placebo | MAXALT Tablets 5 mg | MAXALT Tablets 10 mg |
 | --- | --- | --- | --- |
-| 1 | 35% (n=304) | 62%p-value <0.05 in comparison with placebo (n=458) | 71%,p-value <0.05 in comparison with 5 mg (n=456) |
+| 1 | 35% (n=304) | 62%p-value <0.05 in comparison with placebo. (n=458) | 71%,p-value <0.05 in comparison with 5 mg. (n=456) |
 | 2Results for initial headache only. | 37% (n=82) | — | 77% (n=320) |
 | 3 | 23% (n=80) | 63% (n=352) | — |
 | 4 | 40% (n=159) | 60% (n=164) | 67% (n=385) |
@@ -51,8 +51,8 @@ Table 3: Response Rates 2 Hours Following Treatment of Initial Headache in Studi
 
 | Study | Placebo | MAXALT-MLT 5 mg | MAXALT-MLT 10 mg |
 | --- | --- | --- | --- |
-| 5 | 47% (n=98) | 66%p-value <0.01 in comparison with placebo (n=100) | 66% (n=113) |
-| 6 | 28% (n=180) | 59% (n=181) | 74%,p-value <0.01 in comparison with 5 mg (n=186) |
+| 5 | 47% (n=98) | 66%p-value <0.01 in comparison with placebo. (n=100) | 66% (n=113) |
+| 6 | 28% (n=180) | 59% (n=181) | 74%,p-value <0.01 in comparison with 5 mg. (n=186) |
 
 The estimated probability of achieving an initial headache response by 2 hours following treatment with MAXALT-MLT in pooled Studies 5 and 6 is depicted in Figure 3.
 
@@ -81,7 +81,7 @@ Table 4: Response Rates 2 Hours Following Treatment of Initial Headache in Pedia
 
 | Endpoint | Placebo | MAXALT-MLT | p-Value |
 | --- | --- | --- | --- |
-| No headache pain at 2 hours post-dose | 24% (n/m = 94/388) | 33% (n/m = 126/382) | 0.01 |
+| No headache pain at 2 hours post-dose | 24% (n/m=94/388) | 33% (n/m=126/382) | 0.01 |
 | n = Number of evaluable patients with no headache pain at 2 hours post-dose. m = Number of evaluable patients in population. |  |  |  |
 
 The observed percentage of pediatric patients achieving no headache pain within 2 hours following initial treatment with MAXALT-MLT is shown in Figure 5.

@@ -33,7 +33,7 @@ Other minor metabolites, the N-oxide, the 6-hydroxy compound, and the sulfate co
 
 Elimination
 
-The total radioactivity of the administered dose recovered over 120 hours in urine and feces was 82% and 12%, respectively, following a single 10 mg oral administration of 14C-rizatriptan.
+The total radioactivity of the administered dose recovered over 120 hours in urine and feces was 82% and 12%, respectively, following a single 10-mg oral administration of 14C-rizatriptan.
 Following oral administration of 14C-rizatriptan, rizatriptan accounted for about 17% of circulating plasma radioactivity.
 Approximately 14% of an oral dose is excreted in urine as unchanged rizatriptan while 51% is excreted as indole acetic acid metabolite, indicating substantial first pass metabolism.
 

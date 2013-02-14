@@ -4,7 +4,7 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - Myocardial Ischemia, Myocardial Infarction, and Prinzmetal's Angina [see Warnings and Precautions (5.1)].
 - Arrhythmias [see Warnings and Precautions (5.2)].
-- Chest and or Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
+- Chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
 - Cerebrovascular Events [see Warnings and Precautions (5.4)].
 - Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
 - Medication Overuse Headache [see Warnings and Precautions (5.6)].

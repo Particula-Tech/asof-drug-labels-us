@@ -1,4 +1,4 @@
-Patient Information MAXALT® (max-awlt) and MAXALT-MLT® rizatriptan benzoate tablets and orally disintegrating tablets
+Patient Information MAXALT® (max-awlt) and MAXALT-MLT® rizatriptan benzoate Tablets and Orally Disintegrating Tablets
 
 Read this Patient Information before you start taking MAXALT® and each time you get a refill.
 There may be new information.
@@ -145,7 +145,7 @@ Call your doctor or go to the nearest hospital emergency room right away if you 
   - muscle spasm
   - loss of coordination
   - nausea, vomiting or diarrhea
-- increased blood pressure
+- increased blood pressure.
 
 The most common side effects of MAXALT in adults include:
 

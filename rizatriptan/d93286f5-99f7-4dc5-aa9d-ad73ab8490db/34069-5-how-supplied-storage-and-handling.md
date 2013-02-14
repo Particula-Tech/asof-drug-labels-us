@@ -22,6 +22,6 @@ NDC 0006-3801-18, 6 × unit of use carrying case of 3 orally disintegrating tabl
 
 Storage
 
-Store MAXALT Tablets at room temperature, 15-30°C (59-86°F).
+Store MAXALT Tablets at room temperature, 59-86°F (15-30°C).
 
-Store MAXALT-MLT Orally Disintegrating Tablets at room temperature, 15-30°C (59-86°F).
+Store MAXALT-MLT Orally Disintegrating Tablets at room temperature, 59-86°F (15-30°C).

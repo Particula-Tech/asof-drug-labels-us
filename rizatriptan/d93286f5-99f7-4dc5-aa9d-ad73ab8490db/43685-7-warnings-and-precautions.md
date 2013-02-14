@@ -5,7 +5,7 @@
 MAXALT should not be given to patients with ischemic or vasospastic coronary artery disease.
 There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of MAXALT.
 Some of these reactions occurred in patients without known coronary artery disease (CAD).
-5-HT1 agonists including MAXALT may cause coronary artery vasospasm (Prinzmetal's Angina), even in patients without a history of CAD.
+5-HT1 agonists, including MAXALT may cause coronary artery vasospasm (Prinzmetal's Angina), even in patients without a history of CAD.
 
 Triptan-naïve patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) should have a cardiovascular evaluation prior to receiving MAXALT.
 If there is evidence of CAD or coronary artery vasospasm, MAXALT should not be administered [see Contraindications (4)].
