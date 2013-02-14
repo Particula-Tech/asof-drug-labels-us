@@ -37,8 +37,7 @@ Call your healthcare provider right away if you have any of the following sympto
 SERTRALINE HYDROCHLORIDE may be associated with these serious side effects:
 
 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
-This condition can be life-threatening and may include:
+Serotonin Syndrome This condition can be life-threatening and may include:
 
 - 
   - agitation, hallucinations, coma or other changes in mental status
@@ -119,12 +118,12 @@ Do not take SERTRALINE HYDROCHLORIDE if you:
   See the end of this Medication Guide for a complete list of ingredients in SERTRALINE HYDROCHLORIDE.
 - take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
 - take Antabuse® (disulfiram) (if you are taking the liquid form of SERTRALINE HYDROCHLORIDE) due to the alcohol content.
-- take a Monoamine Oxidase Inhibitor (MAOI).
+- take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
   People who take SERTRALINE HYDROCHLORIDE close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
-  - Do not take an MAOI within 2 weeks of stopping SERTRALINE HYDROCHLORIDE.
-  - Do not start SERTRALINE HYDROCHLORIDE if you stopped taking an MAOI in the last 2 weeks.
+  - Do not take an MAOI within 2 weeks of stopping SERTRALINE HYDROCHLORIDE unless directed to do so by your physician.
+  - Do not start SERTRALINE HYDROCHLORIDE if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
   - 
     - high fever
     - uncontrolled muscle spasms
@@ -274,6 +273,6 @@ Inactive ingredients
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-LAB-0541-3.0
+LAB-0541-4.0
 
-August 2011
+February 2013
