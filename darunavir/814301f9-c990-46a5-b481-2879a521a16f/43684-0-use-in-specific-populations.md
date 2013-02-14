@@ -29,11 +29,16 @@ Because of both the potential for HIV transmission and the potential for serious
 
 Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Warnings and Precautions (5.11), Use in Specific Populations (8.1), Clinical Pharmacology (12.3) and Nonclinical Toxicology (13.2)].
 
-Do not administer PREZISTA/ritonavir once daily in pediatric patients.
+The safety, pharmacokinetic profile, and virologic and immunologic responses of PREZISTA/ritonavir were evaluated in treatment-experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighting at least 10 kg.
+These subjects were evaluated in clinical trials TMC114-C212 (80 subjects, 6 to less than 18 years of age) and TMC114-228 (21 subjects, 3 to less than 6 years of age) [see Adverse Reactions (6.5), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.1, 6.2)].
+Please see Dosage and Administration (2.2) for twice-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
 
-The safety, pharmacokinetic profile, and virologic and immunologic responses of PREZISTA/ritonavir were evaluated in treatment-experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg [see Adverse Reactions (6.6), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
-Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.6)].
-Please see Dosage and Administration (2.2) for dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
+In clinical trial TMC114-C230, the safety, pharmacokinetic profile and virologic and immunologic responses of PREZISTA/ritonavir administered once daily were evaluated in treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years of age (12 subjects) [see Adverse Reactions (6.5), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.1, 6.2)].
+Once daily dosing recommendations for pediatric patients 3 to less than 12 years of age were derived using population pharmacokinetic modeling and simulation.
+Although a PREZISTA/ritonavir once daily dosing pediatric trial was not conducted in children less than 12 years of age, there is sufficient clinical safety data to support the predicted PREZISTA exposures for the dosing recommendations in this age group [see Clinical Pharmacology (12.3)].
+Please see Dosage and Administration (2.2) for once-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
 
 ## 8.5 Geriatric Use
 

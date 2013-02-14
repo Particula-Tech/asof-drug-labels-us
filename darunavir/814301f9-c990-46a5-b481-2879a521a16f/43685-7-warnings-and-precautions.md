@@ -46,8 +46,8 @@ In clinical studies with PREZISTA/ritonavir, the incidence and severity of rash 
 
 ## 5.5 Drug Interactions
 
-See Table 4 for a listing of drugs that are contraindicated for use with PREZISTA/ritonavir due to potentially life-threatening adverse events, significant drug-drug interactions, or loss of therapeutic effect to PREZISTA [see Contraindications (4)].
-Please refer to Table 9 for established and other potentially significant drug-drug interactions [see Drug Interactions (7.3)].
+See Table 6 for a listing of drugs that are contraindicated for use with PREZISTA/ritonavir due to potentially life-threatening adverse events, significant drug-drug interactions, or loss of therapeutic effect to PREZISTA [see Contraindications (4)].
+Please refer to Table 11 for established and other potentially significant drug-drug interactions [see Drug Interactions (7.3)].
 
 ## 5.6 Diabetes Mellitus / Hyperglycemia
 
@@ -83,4 +83,4 @@ Because the potential for HIV cross-resistance among PIs has not been fully expl
 
 ## 5.11 Pediatric Patients
 
-Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4) Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].
+Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].

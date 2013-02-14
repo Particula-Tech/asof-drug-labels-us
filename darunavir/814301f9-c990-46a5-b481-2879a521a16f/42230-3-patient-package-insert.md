@@ -1,4 +1,4 @@
-Patient Information
+PATIENT INFORMATION
 
 PREZISTA (pre-ZIS-ta) (darunavir) Oral Suspension
 
@@ -40,7 +40,7 @@ However, stop taking PREZISTA and ritonavir combination treatment and call your 
 - mouth sores or ulcers
 - red or inflamed eyes, like "pink eye" (conjunctivitis)
 
-Rash occurred more often in patients taking PREZISTA and raltegravir together than with either drug separately, but was generally mild.
+Rash occurred more often in people taking PREZISTA and raltegravir together than with either drug separately, but was generally mild.
 
 See "What are the possible side effects of PREZISTA?" for more information about side effects.
 
@@ -111,7 +111,7 @@ PREZISTA may affect the way other medicines work and other medicines may affect 
 
 Especially tell your healthcare provider if you take:
 
-- medicine to treat HIV
+- other medicine to treat HIV
 - estrogen-based contraceptives (birth control).
   PREZISTA might reduce the effectiveness of estrogen-based contraceptives.
   You must take additional precautions for birth control such as a condom.
@@ -135,7 +135,7 @@ Especially tell your healthcare provider if you take:
 - medicine for narcotic withdrawal such as methadone (Methadose®, Dolophine Hydrochloride), buprenorphine (Butrans®, Buprenex®, Subutex®), buprenorphine/naloxone (Suboxone®)
 - medicine to treat schizophrenia such as risperidone (Risperdal®), thioridazine
 - medicine to treat erectile dysfunction or pulmonary hypertension such as sildenafil (Viagra®, Revatio®), vardenafil (Levitra®, Staxyn®), tadalafil (Cialis®, Adcirca®)
-- medicine to treat anxiety, depression or panic disorder such as sertraline (Zoloft®), paroxetine (Paxil®)
+- medicine to treat anxiety, depression or panic disorder such as sertraline (Zoloft®), paroxetine (Paxil®, Pexeva®)
 
 This is not a complete list of medicines that you should tell your healthcare provider that you are taking.
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one that is listed above.
@@ -151,13 +151,17 @@ How should I take PREZISTA?
 - Take PREZISTA and ritonavir (NORVIR®) with food.
 - Swallow PREZISTA tablets whole with a drink.
   If you have difficulty swallowing PREZISTA tablets, PREZISTA oral suspension is also available.
-  Your health care provider will help determine whether PREZISTA tablets or oral suspension is right for you.
-- PREZISTA oral suspension should be given with the supplied oral dosing syringe.
-  Shake the suspension well before each usage.
+  Your health care provider will help decide whether PREZISTA tablets or oral suspension is right for you.
 - If your child is taking PREZISTA, your child's healthcare provider will decide the right dose based on your child's weight.
   Your child's healthcare provider will tell you how much PREZISTA (tablets or oral suspension) and how much ritonavir (NORVIR®) (capsules, tablets or solution) your child should take.
-  Your child should take PREZISTA with ritonavir twice a day with food.
+  Your child should take PREZISTA with ritonavir with food.
   If your child does not tolerate ritonavir oral solution, ask your child's healthcare provider for advice.
+- PREZISTA oral suspension should be given with the supplied oral dosing syringe.
+  Shake the suspension well before each use.
+  See the Instructions for Use that with PREZISTA oral suspension for information about the right way to prepare and take a dose.
+- If your or your child's prescribed dose of PREZISTA oral suspension is more than 6 mL, you will need to divide the dose.
+  Follow the instructions given to you by your healthcare provider or pharmacist about how to divide the dose.
+  Ask your healthcare provider or pharmacist if you are not sure.
 - If you take too much PREZISTA, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What should I do if I miss a dose?
@@ -275,4 +279,4 @@ PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: November 2012
+Revised: February 2013
