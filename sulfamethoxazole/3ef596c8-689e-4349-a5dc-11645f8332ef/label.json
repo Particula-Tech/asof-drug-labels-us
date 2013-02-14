@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA018615"
+  ],
+  "inn": "sulfamethoxazole",
+  "labeler": "STI Pharma LLC",
+  "package_ndcs": [
+    "54879-007-16"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Sulfamethoxazole and Trimethoprim"
+    }
+  ],
+  "setid": "3ef596c8-689e-4349-a5dc-11645f8332ef",
+  "source": "dailymed"
+}
