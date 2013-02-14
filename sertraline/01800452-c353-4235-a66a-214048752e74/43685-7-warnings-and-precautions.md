@@ -54,7 +54,7 @@ The concomitant use of sertraline hydrochloride with MAOIs intended to treat dep
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including sertraline hydrochloride treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including sertraline hydrochloride treatment, but particularly with concomitant use of serotonergic drugs (including triptans and fentanyl) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
@@ -62,6 +62,7 @@ The concomitant use of sertraline hydrochloride with MAOIs intended to treat dep
 If concomitant treatment of sertraline hydrochloride with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 The concomitant use of sertraline hydrochloride with serotonin precursors (such as tryptophan) is not recommended.
 Treatment with sertraline hydrochloride and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Coadministration of sertraline hydrochloride with other drugs which enhance the effects of serotonergic neurotransmission, such as tryptophan, fenfluramine, fentanyl, 5-HT agonists, or the herbal medicine St. John’s Wort (hypericum perforatum) should be undertaken with caution and avoided whenever possible due to the potential for pharmacodynamic interaction.
 
 # PRECAUTIONS
 
@@ -81,7 +82,7 @@ Only rarely have sertraline patients been discontinued for weight loss.
 Sertraline hydrochloride has not been evaluated in patients with a seizure disorder.
 These patients were excluded from clinical studies during the product’s premarket testing.
 No seizures were observed among approximately 3000 patients treated with sertraline hydrochloride in the development program for major depressive disorder.
-However, 4 patients out of approximately 1800 (220<18 years of age) exposed during the development program for another disorder experienced seizures, representing a crude incidence of 0.2%.
+However, 4 patients out of approximately 1800 (220<18 years of age) exposed during the development program for obsessive-compulsive disorder experienced seizures, representing a crude incidence of 0.2%.
 Three of these patients were adolescents, two with a seizure disorder and one with a family history of seizure disorder, none of whom were receiving anticonvulsant medication.
 Accordingly, sertraline hydrochloride should be introduced with care in patients with a seizure disorder.
 
@@ -113,7 +114,7 @@ Clinical experience with sertraline hydrochloride in patients with certain conco
 Caution is advisable in using sertraline hydrochloride in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
 Patients with a recent history of myocardial infarction or unstable heart disease were excluded from clinical studies during the product’s premarket testing.
 However, the electrocardiograms of 774 patients who received sertraline hydrochloride in double-blind trials were evaluated and the data indicate that sertraline hydrochloride is not associated with the development of significant ECG abnormalities.
-Sertraline hydrochloride administered in a flexible dose range of 50 to 200 mg/day (mean dose of 89 mg/day) was evaluated in a post-marketing, placebo-controlled trial of 372 randomized subjects with a DSM-IV diagnosis of major depressive disorder and recent history of myocardial infarction or unstable angina requiring hospitalization.
+Sertraline hydrochloride administered in a flexible dose range of 50 to 200 mg/day (mean dose of 89 mg/day) was evaluated in a postmarketing, placebo-controlled trial of 372 randomized subjects with a DSM-IV diagnosis of major depressive disorder and recent history of myocardial infarction or unstable angina requiring hospitalization.
 Exclusions from this trial included, among others, patients with uncontrolled hypertension, need for cardiac surgery, history of CABG within 3 months of index event, severe or symptomatic bradycardia, non-atherosclerotic cause of angina, clinically significant renal impairment (creatinine > 2.5 mg/dL), and clinically significant hepatic dysfunction.
 Sertraline hydrochloride treatment initiated during the acute phase of recovery (within 30 days post-MI or post-hospitalization for unstable angina) was indistinguishable from placebo in this study on the following week 16 treatment endpoints: left ventricular ejection fraction, total cardiovascular events (angina, chest pain, edema, palpitations, syncope, postural dizziness, CHF, MI, tachycardia, bradycardia, and changes in BP), and major cardiovascular events involving death or requiring hospitalization (for MI, CHF, stroke, or angina).
 Sertraline hydrochloride is extensively metabolized by the liver.
@@ -149,7 +150,7 @@ While there have been reports of abnormal bleeding or purpura in several patient
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with sertraline hydrochloride and should counsel them in its appropriate use.
-A patient Medication Guide About “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for sertraline hydrochloride oral concentrate.
+A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for sertraline hydrochloride oral concentrate.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -181,7 +182,10 @@ At times, a slight haze may appear after mixing; this is normal.
 
 ## Laboratory Tests
 
-None.
+False-positive urine immunoassay screening tests for benzodiazepines have been reported in patients taking sertraline.
+This is due to lack of specificity of the screening tests.
+False-positive test results may be expected for several days following discontinuation of sertraline therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish sertraline from benzodiazepines.
 
 ## Drug Interactions
 
@@ -206,7 +210,7 @@ There was a 23% increase in T max for desmethyldiazepam in the sertraline hydroc
 The clinical significance of these changes is unknown.
 In a placebo-controlled trial in normal volunteers, the administration of two doses of sertraline hydrochloride did not significantly alter steady-state lithium levels or the renal clearance of lithium.
 Nonetheless, at this time, it is recommended that plasma lithium levels be monitored following initiation of sertraline hydrochloride therapy with appropriate adjustments to the lithium dose.
-In a controlled study of a single dose (2 mg) of pimozide, 200 mg sertraline (q.d.) co-administration to steady state was associated with a mean increase in pimozide AUC and C max of about 40%, but was not associated with any changes in EKG.
+In a controlled study of a single dose (2 mg) of pimozide, 200 mg sertraline (q.d.) coadministration to steady state was associated with a mean increase in pimozide AUC and C max of about 40%, but was not associated with any changes in EKG.
 Since the highest recommended pimozide dose (10 mg) has not been evaluated in combination with sertraline, the effect on QT interval and PK parameters at doses higher than 2 mg at this time are not known.
 While the mechanism of this interaction is unknown, due to the narrow therapeutic index of pimozide and due to the interaction noted at a low dose of pimozide, concomitant administration of sertraline hydrochloride and pimozide should be contraindicated (see CONTRAINDICATIONS ).
 Results of placebo-controlled trial in normal volunteers suggest that chronic administration of sertraline 200 mg/day does not produce clinically important inhibition of phenytoin metabolism.
@@ -215,7 +219,7 @@ The effect of sertraline hydrochloride on valproate levels has not been evaluate
 In the absence of such data, it is recommended that plasma valproate levels be monitored following initiation of sertraline hydrochloride therapy with appropriate adjustments to the valproate dose.
 The risk of using sertraline hydrochloride in combination with other CNS active drugs has not been systematically evaluated.
 Consequently, caution is advised if the concomitant administration of sertraline hydrochloride and such drugs is required.
-There is limited controlled experience regarding the optimal timing of switching from other drugs effective in the treatment of major depressive disorder to sertraline hydrochloride.
+There is limited controlled experience regarding the optimal timing of switching from other drugs effective in the treatment of major depressive disorder, obsessive-compulsive disorder, panic disorder, posttraumatic stress disorder, premenstrual dysphoric disorder and social anxiety disorder to sertraline hydrochloride.
 Care and prudent medical judgment should be exercised when switching, particularly from long-acting agents.
 The duration of an appropriate washout period which should intervene before switching from one selective serotonin reuptake inhibitor (SSRI) to another has not been established.
 
@@ -225,24 +229,24 @@ See CONTRAINDICATIONS and WARNINGS .
 
 ### Drugs Metabolized by P450 3A4
 
-In three separate in vivo interaction studies, sertraline was co-administered with cytochrome P450 3A4 substrates, terfenadine, carbamazepine, or cisapride under steady-state conditions.
+In three separate in vivo interaction studies, sertraline was coadministered with cytochrome P450 3A4 substrates, terfenadine, carbamazepine, or cisapride under steady-state conditions.
 The results of these studies indicated that sertraline did not increase plasma concentrations of terfenadine, carbamazepine, or cisapride.
 These data indicate that sertraline’s extent of inhibition of P450 3A4 activity is not likely to be of clinical significance.
 Results of the interaction study with cisapride indicate that sertraline 200 mg (q.d.) induces the metabolism of cisapride (cisapride AUC and C max were reduced by about 35%).
 
 ### Drugs Metabolized by P450 2D6
 
-Many drugs effective in the treatment of major depressive disorder, e.g., the SSRIs, including sertraline, and most tricyclic antidepressant drugs effective in the treatment of major depressive disorder inhibit the biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase), and, thus, may increase the plasma concentrations of co-administered drugs that are metabolized by P450 2D6.
+Many drugs effective in the treatment of major depressive disorder, e.g., the SSRIs, including sertraline, and most tricyclic antidepressant drugs effective in the treatment of major depressive disorder inhibit the biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase), and, thus, may increase the plasma concentrations of coadministered drugs that are metabolized by P450 2D6.
 The drugs for which this potential interaction is of greatest concern are those metabolized primarily by 2D6 and which have a narrow therapeutic index, e.g., the tricyclic antidepressant drugs effective in the treatment of major depressive disorder and the Type 1C antiarrhythmics propafenone and flecainide.
-The extent to which this interaction is an important clinical problem depends on the extent of the inhibition of P450 2D6 by the antidepressant and the therapeutic index of the co-administered drug.
+The extent to which this interaction is an important clinical problem depends on the extent of the inhibition of P450 2D6 by the antidepressant and the therapeutic index of the coadministered drug.
 There is variability among the drugs effective in the treatment of major depressive disorder in the extent of clinically important 2D6 inhibition, and in fact sertraline at lower doses has a less prominent inhibitory effect on 2D6 than some others in the class.
 Nevertheless, even sertraline has the potential for clinically important 2D6 inhibition.
 Consequently, concomitant use of a drug metabolized by P450 2D6 with sertraline hydrochloride may require lower doses than usually prescribed for the other drug.
-Furthermore, whenever sertraline hydrochloride is withdrawn from co-therapy, an increased dose of the co-administered drug may be required (see Tricyclic Antidepressant Drugs Effective in the Treatment of Major Depressive Disorder under PRECAUTIONS ).
+Furthermore, whenever sertraline hydrochloride is withdrawn from co-therapy, an increased dose of the coadministered drug may be required (see Tricyclic Antidepressant Drugs Effective in the Treatment of Major Depressive Disorder under PRECAUTIONS ).
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including sertraline hydrochloride, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including sertraline hydrochloride, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS - Serotonin Syndrome ).
+Based on the mechanism of action of SNRIs and SSRIs, including sertraline hydrochloride, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including sertraline hydrochloride, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome ).
 The concomitant use of sertraline hydrochloride with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS - Drug Interactions ).
 
 ### Triptans
@@ -258,8 +262,8 @@ If concomitant treatment with sumatriptan and an SSRI (e.g., citalopram, fluoxet
 ### Tricyclic Antidepressant Drugs Effective in the Treatment of Major Depressive Disorder (TCAs)
 
 The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.
-Nevertheless, caution is indicated in the co-administration of TCAs with sertraline hydrochloride, because sertraline may inhibit TCA metabolism.
-Plasma TCA concentrations may need to be monitored, and the dose of TCA may need to be reduced, if a TCA is co-administered with sertraline hydrochloride (see Drugs Metabolized by P450 2D6 under PRECAUTIONS ).
+Nevertheless, caution is indicated in the coadministration of TCAs with sertraline hydrochloride, because sertraline may inhibit TCA metabolism.
+Plasma TCA concentrations may need to be monitored, and the dose of TCA may need to be reduced, if a TCA is coadministered with sertraline hydrochloride (see Drugs Metabolized by P450 2D6 under PRECAUTIONS ).
 
 ### Hypoglycemic Drugs
 
@@ -330,7 +334,7 @@ The clinical significance of these effects is unknown.
 There are no adequate and well-controlled studies in pregnant women.
 Sertraline hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Pregnancy - Nonteratogenic Effects
+### Pregnancy-Nonteratogenic Effects
 
 Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 These findings are based on post marketing reports.
@@ -357,37 +361,42 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population with Major Depressive Disorder (MDD) has not been established (see BOX WARNING and WARNINGS-Clinical Worsening and Suicide Risk ).
+The efficacy of sertraline hydrochloride for the treatment of obsessive-compulsive disorder was demonstrated in a 12-week, multicenter, placebo-controlled study with 187 outpatients ages 6 to 17 (see Clinical Trials under CLINICAL PHARMACOLOGY ).
+Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS - Clinical Worsening and Suicide Risk ).
 Two placebo controlled trials (n=373) in pediatric patients with MDD have been conducted with sertraline hydrochloride, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of sertraline hydrochloride in a child or adolescent must balance the potential risks with the clinical need.
-Sertraline pharmacokinetics were evaluated in a group of 61 pediatric patients between 6 and 17 years of age and revealed similar drug exposures to those of adults when plasma concentration was adjusted for weight (see Pharmacokinetics under CLINICAL PHARMACOLOGY ).
-Approximately 600 pediatric patients between 6 and 17 years of age have received sertraline hydrochloride in clinical trials, both controlled and uncontrolled.
+The safety of sertraline hydrochloride use in children and adolescents with OCD, ages 6 to 18, was evaluated in a 12-week, multicenter, placebo-controlled study with 187 outpatients, ages 6 to 17, and in a flexible dose, 52 week open extension study of 137 patients, ages 6 to 18, who had completed the initial 12-­week, double-blind, placebo-controlled study.
+Sertraline hydrochloride was administered at doses of either 25 mg/day (children, ages 6 to 12) or 50 mg/day (adolescents, ages 13 to 18) and then titrated in weekly 25 mg/day or 50 mg/day increments, respectively, to a maximum dose of 200 mg/day based upon clinical response.
+The mean dose for completers was 157 mg/day.
+In the acute 12 week pediatric study and in the 52 week study, sertraline hydrochloride had an adverse event profile generally similar to that observed in adults.
+Sertraline pharmacokinetics were evaluated in 61 pediatric patients between 6 and 17 years of age with major depressive disorder or OCD and revealed similar drug exposures to those of adults when plasma concentration was adjusted for weight (see Pharmacokinetics under CLINICAL PHARMACOLOGY ).
+Approximately 600 patients with major depressive disorder or OCD between 6 and 17 years of age have received sertraline hydrochloride in clinical trials, both controlled and uncontrolled.
 The adverse event profile observed in these patients was generally similar to that observed in adult studies with sertraline hydrochloride (see ADVERSE REACTIONS ).
-As with other SSRIs, decreased appetite and weight loss have been observed in associated with the use of sertraline hydrochloride.
+As with other SSRIs, decreased appetite and weight loss have been observed in association with the use of sertraline hydrochloride.
 In a pooled analysis of two 10-week, double-blind, placebo-controlled, flexible dose (50 to 200 mg) outpatient trials for major depressive disorder (n=373), there was a difference in weight change between sertraline and placebo of roughly 1 kilogram, for both children (ages 6 to 11) and adolescents (ages 12 to 17), in both cases representing a slight weight loss for sertraline compared to a slight gain for placebo.
 At baseline the mean weight for children was 39 kg for sertraline and 38.5 kg for placebo.
 At baseline the mean weight for adolescents was 61.4 kg for sertraline and 62.5 kg for placebo.
 There was a bigger difference between sertraline and placebo in the proportion of outliers for clinically important weight loss in children than in adolescents.
-For children, about 7% had a weight loss > 7% of body weight compared to none of the placebo patients; for adolescents, about 2% had a weight loss > 7% of body weight compared of about 1% of placebo patients.
+For children, about 7% had a weight loss > 7% of body weight compared to none of the placebo patients; for adolescents, about 2% had a weight loss > 7% of body weight compared to about 1% of placebo patients.
 A subset of these patients who completed the randomized controlled trials (sertraline n=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study.
 A mean weight loss of approximately 0.5 kg was seen during the first eight weeks of treatment for subjects with first exposure to sertraline during the open-label extension study, similar to the mean weight loss observed among sertraline treated subjects during the first eight weeks of the randomized controlled trials.
 The subjects continuing in the open label study began gaining weight compared to baseline by week 12 of sertraline treatment.
 Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo controlled trial + 24 weeks open label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
 Regular monitoring of weight and growth is recommended if treatment of a pediatric patient with an SSRI is to be continued long term.
-Safety and effectiveness in pediatric patients with major depressive disorder have not been established.
-The risks, if any, that may be associated with sertraline hydrochloride’s use beyond 1 year in children and adolescents have not been systematically assessed.
+Safety and effectiveness in pediatric patients below the age of 6 have not been established.
+The risks, if any, that may be associated with sertraline hydrochloride’s use beyond 1 year in children and adolescents with OCD or major depressive disorder have not been systematically assessed.
 The prescriber should be mindful that the evidence relied upon to conclude that sertraline is safe for use in children and adolescents derives from clinical studies that were 10 to 52 weeks in duration and from the extrapolation of experience gained with adult patients.
 In particular, there are no studies that directly evaluate the effects of long-term sertraline use on the growth, development, and maturation of children and adolescents.
-Although there is no affirmative finding to suggest that sertraline possesses a capacity to adversely affect growth, development or maturation, the absence of such findings is not compelling evidence of the absence of the potential of sertraline to have adverse effects in chronic use (see WARNINGS - Clinical Worsening and Suicide Risk ).
+Although there is no affirmative finding to suggest that sertraline possesses a capacity to adversely affect growth, development or maturation, the absence of such findings is not compelling evidence of the absence of the potential of sertraline to have adverse effects in chronic use (see WARNINGS–Clinical Worsening and Suicide Risk ).
 
 ## Geriatric Use
 
-U.S. geriatric clinical studies of sertraline hydrochloride in major depressive disorder included 663 sertraline hydrochloride-treated subjects ≥65 years of age, of those, 180 were ≥75 years of age.
+U.S. geriatric clinical studies of sertraline hydrochloride in major depressive disorder included 663 sertraline hydrochloride-treated subjects ≥ 65 years of age, of those, 180 were ≥ 75 years of age.
 No overall differences in the pattern of adverse reactions were observed in the geriatric clinical trial subjects relative to those reported in younger subjects (see ADVERSE REACTIONS ), and other reported experience has not identified differences in safety patterns between the elderly and younger subjects.
 As with all medications, greater sensitivity of some older individuals cannot be ruled out.
 There were 947 subjects in placebo-controlled geriatric clinical studies of sertraline hydrochloride in major depressive disorder.
 No overall differences in the pattern of efficacy were observed in the geriatric clinical trial subjects relative to those reported in younger subjects.
 Other Adverse Events in Geriatric Patients.
-In 354 geriatric subjects treated with sertraline hydrochloride in placebo-controlled trials, the overall profile of adverse events was generally similar to that shown in Table 2.
-Urinary tract infection was the only adverse event not appearing in Table 2 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
+In 354 geriatric subjects treated with sertraline hydrochloride in placebo-controlled trials, the overall profile of adverse events was generally similar to that shown in Tables 2 and 3.
+Urinary tract infection was the only adverse event not appearing in Tables 2 and 3 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
 SSRIs and SNRIs, including sertraline hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia ).
