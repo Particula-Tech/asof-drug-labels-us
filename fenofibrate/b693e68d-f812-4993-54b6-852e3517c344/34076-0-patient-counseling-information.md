@@ -1,7 +1,5 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Patient Counseling
-
 Patients should be advised:
 
 - of the potential benefits and risks of TRICOR.
@@ -17,5 +15,4 @@ Patients should be advised:
 
 Manufactured for Abbott Laboratories, North Chicago, IL 60064, U.S.A. by Fournier Laboratories Ireland Limited, Anngrove, Carrigtwohill Co. Cork, Ireland.
 
-Rev.
-09/2011
+03-A774 February, 2013

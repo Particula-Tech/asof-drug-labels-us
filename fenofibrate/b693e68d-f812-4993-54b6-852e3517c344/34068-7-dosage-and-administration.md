@@ -28,7 +28,7 @@ The maximum dose is 145 mg once daily.
 
 ## 2.4 Impaired Renal Function
 
-Treatment with TRICOR should be initiated at a dose of 48 mg/day in patients having mild to moderately impaired renal function, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
+Treatment with TRICOR should be initiated at a dose of 48 mg per day in patients having mild to moderately impaired renal function, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
 The use of TRICOR should be avoided in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Geriatric Patients

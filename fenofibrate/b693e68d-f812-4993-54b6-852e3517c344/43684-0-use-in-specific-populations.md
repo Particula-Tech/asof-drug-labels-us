@@ -25,7 +25,7 @@ A decision should be made whether to discontinue nursing or to discontinue the d
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
@@ -38,7 +38,7 @@ Consider monitoring renal function in elderly patients taking TRICOR.
 ## 8.6 Renal Impairment
 
 The use of TRICOR should be avoided in patients who have severe renal impairment [see Contraindications (4)].
-Dose reduction is required in patients with mild to moderate renal impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Dose reduction is required in patients with mild to moderate renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 Monitoring renal function in patients with renal impairment is recommended.
 
 ## 8.7 Hepatic Impairment

@@ -36,7 +36,7 @@ In patients with hypertriglyceridemia and normal cholesterolemia with or without
 Treatment of patients with elevated triglycerides often results in an increase of LDL-C (see Table 5).
 
 Table 5.
-Effects of TRICOR in Patients With Hypertriglyceridemia
+Effects of TRICOR in Patients With Severe Hypertriglyceridemia
 
 | Study 1 | Placebo |  |  |  | TRICOR |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

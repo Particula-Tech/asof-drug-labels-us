@@ -5,8 +5,8 @@
 The active moiety of TRICOR is fenofibric acid.
 The pharmacological effects of fenofibric acid in both animals and humans have been extensively studied through oral administration of fenofibrate.
 
-The effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of peroxisome proliferator activated receptor α (PPARα).
-Through this mechanism, fenofibrate increases lipolysis and elimination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of approtein C-III (an inhibitor of lipoprotein lipase activity).
+The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of peroxisome proliferator activated receptor α (PPARα).
+Through this mechanism, fenofibrate increases lipolysis and elimination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of apoprotein C-III (an inhibitor of lipoprotein lipase activity).
 
 The resulting decrease in TG produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be atherogenic due to their susceptibility to oxidation), to large buoyant particles.
 These larger particles have a greater affinity for cholesterol receptors and are catabolized rapidly.
@@ -55,19 +55,19 @@ A small amount of fenofibric acid is reduced at the carbonyl moiety to a benzhyd
 
 In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (e.g., cytochrome P450) to a significant extent.
 
-Excretion
+Elimination
 
 After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
 After administration of radiolabelled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
 
-Fenofibric acid is eliminated with a half-life of 20 hours, allowing once daily administration in a clinical setting.
+Fenofibric acid is eliminated with a half-life of 20 hours, allowing once daily dosing.
 
 Special Populations
 
 Geriatrics
 
 In elderly volunteers 77 to 87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
-This indicates that a similar dosage regimen can be used in elderly with normal renal functoin, without increasing accumulation of the drug or metabolites.
+This indicates that a similar dosage regimen can be used in elderly with normal renal function, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
 
 Pediatrics
 
@@ -84,13 +84,13 @@ The influence of race on the pharmacokinetics of fenofibrate has not been studie
 Renal Impairment
 
 The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
-Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
-Patients with mild (CrCl 50–80 mL/min) to moderate (CrCl 30-50 mL/min) renal impairment had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
-Based on these findings, the use of TRICOR should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
+Patients with severe renal impairment (estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
+Patients with mild to moderate renal impairment (eGFR 30-59 mL/min/1.73m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
+Based on these findings, the use of TRICOR should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment [see Dosage and Administration (2.4)].
 
 Hepatic Impairment
 
-No pharmacokinetic studies have been conducted in patients having hepatic insufficiency.
+No pharmacokinetic studies have been conducted in patients with hepatic impairment.
 
 Drug-drug Interactions
 
@@ -102,7 +102,7 @@ Table 3 describes the effects of co-administered fenofibrate or fenofibric acid 
 
 | Table 2. Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Co-AdministeredDrug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate |  | Changes in Fenofibric Acid Exposure |  |
+| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate |  | Changes in Fenofibric Acid Exposure |  |
 |  |  |  |  | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |  |
 | Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg1 once daily for 10 days |  | ↓2% | ↓4% |
