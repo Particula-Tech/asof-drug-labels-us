@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA008697"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0073-1",
+    "59762-0074-1",
+    "59762-0075-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydrocortisone",
+      "name": "Hydrocortisone"
+    }
+  ],
+  "setid": "bc751403-94f2-4f9d-b533-cf6186a40ceb",
+  "source": "dailymed"
+}
