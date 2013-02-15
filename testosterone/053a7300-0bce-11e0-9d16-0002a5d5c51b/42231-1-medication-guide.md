@@ -194,8 +194,10 @@ Inactive ingredients: propylene glycol, purified water, ethanol, 2-propanol, ole
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-© 2012 Endo Pharmaceuticals
+Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany Manufactured for: Endo Pharmaceuticals Inc., 100 Endo Boulevard, Malvern, PA 19355
 
-PG2319
+© 2012 Endo Pharmaceuticals Inc. All rights reserved.
 
-Issued 05/2012
+PG2513
+
+Issued: 12/2012

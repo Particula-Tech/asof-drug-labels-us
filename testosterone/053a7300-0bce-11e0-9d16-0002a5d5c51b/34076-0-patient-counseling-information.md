@@ -50,8 +50,12 @@ Patients should be informed that treatment with androgens may lead to adverse re
 
 Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
 
-Manufactured for: Endo Pharmaceuticals Inc., 100 Endo Boulevard, Chadds Ford, PA 19317
+Manufactured for: Endo Pharmaceuticals Inc., 100 Endo Boulevard, Malvern, PA 19355
+
+© 2012 Endo Pharmaceuticals Inc. All rights reserved.
 
 Fortesta is a registered trademark of Endo Pharmaceuticals Inc.
 
-PG2318 05/2012
+PG2512
+
+Revised: 12/2012
