@@ -17,9 +17,6 @@ Patients should be advised that treatment with SOMA should be limited to acute u
 In the post-marketing experience with SOMA, cases of dependence, withdrawal, and abuse have been reported with prolonged use.
 If the musculoskeletal symptoms still persist, patients should contact their healthcare provider for further evaluation.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-800-526-3840 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
 Meda Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-IN-090H2-19 Rev.
-12/11
+IN -90H2-20 Revised 1/2013 © 2013 Meda Pharmaceuticals Inc.
