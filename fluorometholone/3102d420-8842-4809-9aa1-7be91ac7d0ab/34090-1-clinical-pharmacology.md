@@ -5,7 +5,7 @@ They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migrati
 
 There is no generally accepted explanation for the mechanism of action of ocular corticosteroids.
 However, corticosteroids are thought to act by the induction of phospholipase A2 inhibitory proteins, collectively called lipocortins.
-It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and Ieukotrienes by inhibiting the release of their common precursor arachidonic acid.
+It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and Ieukotrienes by inhibiting the release of their common precursor, arachidonic acid.
 Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
 Corticosteroids are capable of producing a rise in intraocular pressure.

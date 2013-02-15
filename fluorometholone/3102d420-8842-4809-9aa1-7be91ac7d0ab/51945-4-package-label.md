@@ -1,15 +1,9 @@
 ALLERGAN
 
-FML®
+NDC 0023-0316-04 Rx only
 
-(fluorometholone ophthalmic ointment) 0.1%
+FML® (fluorometholone ophthalmic ointment) 0.1%
 
-sterile 3.5 g
+sterile
 
-NDC 0023-0316-04 Rx Only
-
-FML®
-
-(fluorometholone ophthalmic ointment) 0.1%
-
-3.5 g Sterile
+3.5 g
