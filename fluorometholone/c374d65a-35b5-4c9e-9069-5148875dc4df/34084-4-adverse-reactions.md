@@ -2,7 +2,7 @@
 
 Adverse reactions include, in decreasing order of frequency, elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing.
 
-Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical steroids.
+Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical dermatologic steroids applied to the skin.
 
 Corticosteroid-containing preparations have also been reported to cause acute anterior uveitis and perforation of the globe.
 Keratitis, conjunctivitis, corneal ulcers, mydriasis, conjunctival hyperemia, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids.
@@ -12,4 +12,4 @@ Fungal and viral infections of the cornea are particularly prone to develop coin
 The possibility of fungal invasion should be considered in any persistent corneal ulceration where steroid treatment has been used (see WARNINGS).
 
 Transient burning and stinging upon instillation and other minor symptoms of ocular irritation have been reported with the use of FML® suspension.
-Other adverse events reported with the use of FML® suspension include: allergic reactions, visual disturbance (blurry vision), and taste perversion.
+Other adverse events reported with the use of fluorometholone include: allergic reactions; foreign body sensation; erythema of eyelid; eyelid edema/eye swelling; eye discharge; eye pain; eye pruritus; lacrimation increased; rash; taste perversion; visual disturbance (blurry vision); and visual field defect.
