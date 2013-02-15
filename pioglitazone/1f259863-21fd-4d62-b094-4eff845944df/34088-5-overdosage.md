@@ -1,0 +1,6 @@
+# 10 OVERDOSAGE
+
+During controlled clinical trials, one case of overdose with pioglitazone hydrochloride was reported.
+A male patient took 120 mg per day for four days, then 180 mg per day for seven days.
+The patient denied any clinical symptoms during this period.
+In the event of overdosage, appropriate supportive treatment should be initiated according to the patient’s clinical signs and symptoms.

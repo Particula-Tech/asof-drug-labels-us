@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA200268"
+  ],
+  "inn": "pioglitazone",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-512-05",
+    "65862-512-10",
+    "65862-512-30",
+    "65862-513-05",
+    "65862-513-10",
+    "65862-513-30",
+    "65862-514-05",
+    "65862-514-10",
+    "65862-514-30",
+    "65862-514-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pioglitazone hydrochloride",
+      "name": "Pioglitazone Hydrochloride"
+    }
+  ],
+  "setid": "1f259863-21fd-4d62-b094-4eff845944df",
+  "source": "dailymed"
+}
