@@ -10,8 +10,6 @@ DIGIFAB is a registered trademark of BTG International Inc.
 
 Manufactured by Jubilant HollisterStier Kirkland, Canada H9H 4J4
 
-Distributed by Covis Pharmaceuticals, Inc. Cary, NC 27511
+Distributed by Covis Pharmaceuticals, Inc. Cary, NC 27511 Made in Germany
 
-2012, Covis Pharmaceuticals, Inc. All rights reserved.
-
-April 2012
+2012, Covis Pharmaceuticals, Inc.
