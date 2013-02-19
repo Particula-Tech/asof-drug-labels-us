@@ -56,7 +56,7 @@ Mean Maraviroc Pharmacokinetic Parameters
 | 150 mg twice daily (+ CYP3A inhibitor) | 375 | 2,463 | 332 | 101 |  |
 | Treatment-naive HIV subjects (Phase 2b/3)a | 300 mg twice daily | 344 | 1,865 | 287 | 60 |
 
-- aThe estimated exposure is lower compared with other trials possibly due to sparse sampling, food effect, compliance, and concomitant medications.
+aThe estimated exposure is lower compared with other trials possibly due to sparse sampling, food effect, compliance, and concomitant medications.
 
 Absorption: Peak maraviroc plasma concentrations are attained 0.5 to 4 hours following single oral doses of 1 to 1,200 mg administered to uninfected volunteers.
 The pharmacokinetics of oral maraviroc are not dose proportional over the dose range.
@@ -117,31 +117,33 @@ Cotrimoxazole and tenofovir did not affect the pharmacokinetics of maraviroc.
 Table 10.
 Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 
-| Coadministered Drugand Dose | N | Dose of SELZENTRY |  | Ratio (90% CI) of Maraviroc Pharmacokinetic Parameters With/Without Coadministered Drug(No Effect = 1.00) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmin | AUCtau |  | Cmax |  |  |  |  |
-| CYP3A and/or P-gp Inhibitors |  |  |  |  |  |  |  |
-| Ketoconazole400 mg q.d. | 12 | 100 mg b.i.d. |  | 3.75(3.01, 4.69) | 5.00(3.98, 6.29) |  | 3.38(2.38, 4.78) |
-| Ritonavir100 mg b.i.d. | 8 | 100 mg b.i.d. |  | 4.55(3.37, 6.13) | 2.61(1.92, 3.56) |  | 1.28(0.79, 2.09) |
-| Saquinavir (soft gel capsules) /ritonavir1,000 mg/100 mg b.i.d. | 11 | 100 mg b.i.d. |  | 11.3(8.96, 14.1) | 9.77(7.87, 12.14) |  | 4.78(3.41, 6.71) |
-| Lopinavir/ritonavir400 mg/100 mg b.i.d. | 11 | 300 mg b.i.d. |  | 9.24(7.98, 10.7) | 3.95(3.43, 4.56) |  | 1.97(1.66, 2.34) |
-| Atazanavir400 mg q.d. | 12 | 300 mg b.i.d. |  | 4.19(3.65, 4.80) | 3.57(3.30, 3.87) |  | 2.09(1.72, 2.55) |
-| Atazanavir/ritonavir300 mg/100 mg q.d. | 12 | 300 mg b.i.d. |  | 6.67(5.78, 7.70) | 4.88(4.40, 5.41) |  | 2.67(2.32, 3.08) |
-| Darunavir/ritonavir600 mg/100 mg b.i.d. | 12 | 150 mg b.i.d. |  | 8.00(6.35, 10.1) | 4.052.94, 5.59 |  | 2.29(1.46, 3.59) |
-| CYP3A and/or P-gp Inducers |  |  |  |  |  |  |  |
-| Efavirenz 600 mg q.d. | 12 | 100 mg b.i.d. |  | 0.55(0.43, 0.72) | 0.552(0.492, 0.620) |  | 0.486(0.377, 0.626) |
-| Efavirenz600 mg q.d. | 12 | 200 mg b.i.d.(+ efavirenz):100 mg b.i.d. (alone) |  | 1.09(0.89, 1.35) | 1.15(0.98, 1.35) |  | 1.16(0.87, 1.55) |
-| Rifampicin600 mg q.d. | 12 | 100 mg b.i.d. |  | 0.22(0.17, 0.28) | 0.368(0.328, 0.413) |  | 0.335(0.260, 0.431) |
-| Rifampicin600 mg q.d. | 12 | 200 mg b.i.d.(+ rifampicin):100 mg b.i.d. (alone) |  | 0.66(0.54, 0.82) | 1.04(0.89, 1.22) |  | 0.97(0.72, 1.29) |
-| Etravirine200 mg b.i.d. | 14 | 300 mg b.i.d. |  | 0.609(0.525, 0.707) | 0.468(0.381, 0.576) |  | 0.400(0.282, 0.566) |
-| Nevirapinea200 mg b.i.d. (+ lamivudine 150 mg b.i.d., tenofovir 300 mg q.d.) | 8 | 300 mg single dose |  | - | 1.01(0.65, 1.55) |  | 1.54(0.94, 2.51) |
-| CYP3A and/or P-gp Inhibitors and Inducers |  |  |  |  |  |  |  |
-| Lopinavir/ritonavir + efavirenz 400 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 300 mg b.i.d. |  | 6.29(4.72, 8.39) |  | 2.53(2.24, 2.87) | 1.25(1.01, 1.55) |
-| Saquinavir(soft gel capsules) /ritonavir + efavirenz 1,000 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 100 mg b.i.d. |  | 8.42(6.46, 10.97) |  | 5.00(4.26, 5.87) | 2.26(1.64, 3.11) |
-| Darunavir/ritonavir + etravirine 600 mg/100 mg b.i.d. + 200 mg b.i.d. | 10 | 150 mg b.i.d. |  | 5.27(4.51, 6.15) |  | 3.10(2.57, 3.74) | 1.77(1.20, 2.60) |
-| Tipranavir/ritonavir500 mg/200 mg b.i.d. | 12 | 150 mg b.i.d. |  | 1.80(1.55, 2.09) |  | 1.02(0.850, 1.23) | 0.86(0.61, 1.21) |
-| Other |  |  |  |  |  |  |  |
-| Raltegravir 400 mg b.i.d. | 17 |  | 300 mg b.i.d. | 0.90(0.85, 0.96) |  | 0.86(0.80, 0.92) | 0.79(0.67, 0.94) |
+| Coadministered Drugand Dose | N | Dose of SELZENTRY | Ratio (90% CI) of Maraviroc Pharmacokinetic Parameters With/Without Coadministered Drug(No Effect = 1.00) |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Cmin | AUCtau | Cmax |  |  |  |
+| CYP3A and/or P-gp Inhibitors |  |  |  |  |  |
+| Ketoconazole400 mg q.d. | 12 | 100 mg b.i.d. | 3.75(3.01, 4.69) | 5.00(3.98, 6.29) | 3.38(2.38, 4.78) |
+| Ritonavir100 mg b.i.d. | 8 | 100 mg b.i.d. | 4.55(3.37, 6.13) | 2.61(1.92, 3.56) | 1.28(0.79, 2.09) |
+| Saquinavir (soft gel capsules) /ritonavir1,000 mg/100 mg b.i.d. | 11 | 100 mg b.i.d. | 11.3(8.96, 14.1) | 9.77(7.87, 12.14) | 4.78(3.41, 6.71) |
+| Lopinavir/ritonavir400 mg/100 mg b.i.d. | 11 | 300 mg b.i.d. | 9.24(7.98, 10.7) | 3.95(3.43, 4.56) | 1.97(1.66, 2.34) |
+| Atazanavir400 mg q.d. | 12 | 300 mg b.i.d. | 4.19(3.65, 4.80) | 3.57(3.30, 3.87) | 2.09(1.72, 2.55) |
+| Atazanavir/ritonavir300 mg/100 mg q.d. | 12 | 300 mg b.i.d. | 6.67(5.78, 7.70) | 4.88(4.40, 5.41) | 2.67(2.32, 3.08) |
+| Darunavir/ritonavir600 mg/100 mg b.i.d. | 12 | 150 mg b.i.d. | 8.00(6.35, 10.1) | 4.052.94, 5.59 | 2.29(1.46, 3.59) |
+| CYP3A and/or P-gp Inducers |  |  |  |  |  |
+| Efavirenz 600 mg q.d. | 12 | 100 mg b.i.d. | 0.55(0.43, 0.72) | 0.55(0.49, 0.62) | 0.49(0.38, 0.63) |
+| Efavirenz600 mg q.d. | 12 | 200 mg b.i.d.(+ efavirenz):100 mg b.i.d. (alone) | 1.09(0.89, 1.35) | 1.15(0.98, 1.35) | 1.16(0.87, 1.55) |
+| Rifampicin600 mg q.d. | 12 | 100 mg b.i.d. | 0.22(0.17, 0.28) | 0.37(0.33, 0.41) | 0.34(0.26, 0.43) |
+| Rifampicin600 mg q.d. | 12 | 200 mg b.i.d.(+ rifampicin):100 mg b.i.d. (alone) | 0.66(0.54, 0.82) | 1.04(0.89, 1.22) | 0.97(0.72, 1.29) |
+| Etravirine200 mg b.i.d. | 14 | 300 mg b.i.d. | 0.61(0.53, 0.71) | 0.47(0.38, 0.58) | 0.40(0.28, 0.57) |
+| Nevirapinea200 mg b.i.d. (+ lamivudine 150 mg b.i.d., tenofovir 300 mg q.d.) | 8 | 300 mgsingle dose | - | 1.01(0.65, 1.55) | 1.54(0.94, 2.51) |
+| CYP3A and/or P-gp Inhibitors and Inducers |  |  |  |  |  |
+| Lopinavir/ritonavir + efavirenz 400 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 300 mg b.i.d. | 6.29(4.72, 8.39) | 2.53(2.24, 2.87) | 1.25(1.01, 1.55) |
+| Saquinavir(soft gel capsules) /ritonavir + efavirenz 1,000 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 100 mg b.i.d. | 8.42(6.46, 10.97) | 5.00(4.26, 5.87) | 2.26(1.64, 3.11) |
+| Darunavir/ritonavir + etravirine 600 mg/100 mg b.i.d. + 200 mg b.i.d. | 10 | 150 mg b.i.d. | 5.27(4.51, 6.15) | 3.10(2.57, 3.74) | 1.77(1.20, 2.60) |
+| Fosamprenavir/ritonavir700 mg/100 mg b.i.d. | 14 | 300 mg b.i.d. | 4.74(4.03, 5.57) | 2.49(2.19, 2.82) | 1.52(1.27, 1.82) |
+| Fosamprenavir/ritonavir1,400 mg/100 mg q.d. | 14 | 300 mg q.d. | 1.80(1.53, 2.13) | 2.26(1.99, 2.58) | 1.45(1.20, 1.74) |
+| Tipranavir/ritonavir500 mg/200 mg b.i.d. | 12 | 150 mg b.i.d. | 1.80(1.55, 2.09) | 1.02(0.85, 1.23) | 0.86(0.61, 1.21) |
+| Other |  |  |  |  |  |
+| Raltegravir 400 mg b.i.d. | 17 | 300 mg b.i.d. | 0.90(0.85, 0.96) | 0.86(0.80, 0.92) | 0.79(0.67, 0.94) |
 
 aCompared with historical data.
 
@@ -152,6 +154,12 @@ In vitro results suggest that maraviroc could inhibit P-gp in the gut.
 However, maraviroc did not significantly affect the pharmacokinetics of digoxin in vivo, indicating maraviroc may not significantly inhibit or induce P-gp clinically.
 
 Drug interaction trials were performed with maraviroc and other drugs likely to be coadministered or commonly used as probes for pharmacokinetic interactions (see Table 10).
+
+Coadministration of fosamprenavir 700 mg/ritonavir 100 mg twice daily and maraviroc 300 mg twice daily decreased the Cmin and AUC of amprenavir by 36% and 35%, respectively.
+Coadministration of fosamprenavir 1,400 mg/ritonavir 100 mg once daily and maraviroc 300 mg once daily decreased the Cmin and AUC by 15% and 30%, respectively.
+No dosage adjustment is necessary when SELZENTRY is dosed 150 mg twice daily in combination with fosamprenavir/ritonavir dosed once or twice daily.
+Fosamprenavir should be given with ritonavir when coadministered with SELZENTRY.
+
 Maraviroc had no effect on the pharmacokinetics of zidovudine or lamivudine.
 Maraviroc decreased the Cmin and AUC of raltegravir by 27% and 37%, respectively, which is not clinically significant.
 Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, no effect on the urinary 6β-hydroxycortisol/cortisol ratio, suggesting no induction of CYP3A in vivo.

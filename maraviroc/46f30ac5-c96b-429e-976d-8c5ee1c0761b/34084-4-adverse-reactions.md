@@ -37,7 +37,7 @@ Percentage of Subjects With Selected Treatment-Emergent Adverse Events (All Caus
 
 |  | SELZENTRYTwice Dailya |  | Placebo |  |
 | --- | --- | --- | --- | --- |
-|  | N = 426(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 309b | N = 209(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 111b |
+| Body System/Adverse Event | N = 426(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 309b | N = 209(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 111b |
 | Eye Disorders |  |  |  |  |
 | Conjunctivitis | 2 | 3 | 1 | 3 |
 | Ocular infections, inflammations, and associated manifestations | 2 | 3 | 1 | 2 |
@@ -95,7 +95,9 @@ a300-mg dose equivalent.
 
 bPYE = Patient-years of exposure.
 
-Laboratory Abnormalities: Table 4 shows the treatment-emergent Grade 3-4 laboratory abnormalities that occurred in >2% of subjects receiving SELZENTRY.Table 4.
+Laboratory Abnormalities: Table 4 shows the treatment-emergent Grade 3-4 laboratory abnormalities that occurred in >2% of subjects receiving SELZENTRY.
+
+Table 4.
 Maximum Shift in Laboratory Test Values (Without Regard to Baseline)
 
 Incidence ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) Trials A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
@@ -111,13 +113,15 @@ Incidence ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) Trials A4001027 and A
 
 aPercentages based on total subjects evaluated for each laboratory parameter.
 
+ULN=upper limit of normal.
+
 Trial in Treatment‑Naive Subjects: Treatment‑Emergent Adverse Events:Treatment‑emergent adverse events, regardless of causality, from Trial A4001026, a double‑blind, comparative, controlled trial in which 721 treatment‑naive subjects received SELZENTRY 300 mg twice daily (N = 360) or efavirenz (N = 361) in combination with zidovudine/lamivudine for 96 weeks, are summarized in Table 5.
 Selected events occurring in ≥2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on efavirenz are not displayed.
 
 Table 5.
 Percentage of Subjects With Selected Treatment-Emergent Adverse Events (All Causality) (≥2% on SELZENTRY and at a higher rate compared with efavirenz) Trial A4001026 (96 Weeks)
 
-|  | SELZENTRY 300 mg Twice Daily + Zidovudine/Lamivudine(N = 360)% | Efavirenz 600 mg Once Daily + Zidovudine/Lamivudine(N = 361)% |
+| Body System/Adverse Event | SELZENTRY 300 mg Twice Daily +Zidovudine/Lamivudine(N = 360)% | Efavirenz 600 mg Once Daily +Zidovudine/Lamivudine(N = 361)% |
 | --- | --- | --- |
 | Blood and Lymphatic System Disorders |  |  |
 | Anemias NEC | 8 | 5 |
@@ -173,6 +177,8 @@ Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence �
 
 aN = Total number of subjects evaluable for laboratory abnormalities.
 
+ULN=upper limit of normal.
+
 Percentages based on total subjects evaluated for each laboratory parameter.
 If the same subject in a given treatment group had >1 occurrence of the same abnormality, only the most severe is counted.
 
@@ -199,4 +205,4 @@ Nervous System Disorders: Cerebrovascular accident, convulsions and epilepsy, tr
 The following events have been identified during post-approval use of SELZENTRY and are not listed above.
 Because these reactions are reported voluntarily from a population of unknown size, it is not possible to estimate their frequency or establish a causal relationship to exposure to SELZENTRY.
 
-Skin and Subcutaneous Tissue Disorders: Stevens‑Johnson syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN).
+Skin and Subcutaneous Tissue Disorders: Stevens‑Johnson syndrome (SJS), drug rash with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN).

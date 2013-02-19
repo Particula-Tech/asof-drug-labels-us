@@ -28,7 +28,7 @@ If it is less than 6 hours before their next scheduled dose, they should not tak
 
 Patients should be advised that when their supply of SELZENTRY starts to run low, they should ask their doctor or pharmacist for a refill.
 
-Caution should be used when administering SELZENTRYin patients with a history of postural hypotension or on concomitant medication known to lower blood pressure.
+Caution should be used when administering SELZENTRY in patients with a history of postural hypotension or on concomitant medication known to lower blood pressure.
 Patients should be advised that if they experience dizziness while taking SELZENTRY, they should avoid driving or operating machinery.
 
 TROFILE® is a registered trademark of Monogram Biosciences, Inc.
@@ -48,6 +48,6 @@ Freiburg, Germany
 ©2013, ViiV Healthcare.
 All rights reserved.
 
-SEL: 7PI
+SEL: 8PI
 
 PHARMACIST‑DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT

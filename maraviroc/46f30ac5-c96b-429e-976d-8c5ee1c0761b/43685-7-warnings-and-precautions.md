@@ -51,7 +51,7 @@ Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barr
 ## 5.5 Potential Risk of Infection
 
 SELZENTRY antagonizes the CCR5 co-receptor located on some immune cells, and therefore could potentially increase the risk of developing infections.
-The overall incidence and severity of infection, as well as AIDS-defining category C infections, was comparable in the treatment groups during the Phase 3 treatment-experienced trials of SELZENTRY.
+The overall incidence and severity of infection, as well as AIDS-defining category C infections, were comparable in the treatment groups during the Phase 3 treatment-experienced trials of SELZENTRY.
 While there was a higher rate of certain upper respiratory tract infections reported in the arm receiving SELZENTRY compared with placebo (23% versus 13%), there was a lower rate of pneumonia (2% versus 5%) reported in subjects receiving SELZENTRY.
 A higher incidence of Herpes virus infections (11 per 100 patient-years) was also reported in the arm receiving SELZENTRY when adjusted for exposure compared with placebo (8 per 100 patient-years).
 

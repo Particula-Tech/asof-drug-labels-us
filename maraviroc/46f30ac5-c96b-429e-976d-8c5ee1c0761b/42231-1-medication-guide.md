@@ -94,18 +94,27 @@ Your healthcare provider may need to change your dose of SELZENTRY when you take
 
 The levels of SELZENTRY in your blood may change and your healthcare provider may need to adjust your dose of SELZENTRY when taking any of the following medications together with SELZENTRY:
 
-| - darunavir (Prezista®) | - delavirdine (Rescriptor®) |
-| --- | --- |
-| - lopinavir/ritonavir (Kaletra®, Norvir®) | - ketoconazole (Nizoral®) |
-| - atazanavir (Reyataz®) | - itraconazole (Sporanox®) |
-| - saquinavir (Invirase®) | - clarithromycin (Biaxin®) |
-| - nelfinavir (Viracept®) | - nefazodone (Serzone®) |
-| - indinavir (Crixivan®) | - telithromycin (Ketek®) |
-| - fosamprenavir (Lexiva®) | - efavirenz (Sustiva®, Atripla®) |
-| - etravirine (Intelence®)- rifampin (Rifadin®, Rifater®) | - rifampin (Rifadin®, Rifater®) |
-| - carbamezepine (Tegretol®) | -phenobarbital (Luminal®) |
-| - phenytoin (Dilantin®) |  |
-| - ritonavir (Norvir® |  |
+- darunavir (PREZISTA®)- delavirdine (RESCRIPTOR®)
+
+- lopinavir/ritonavir (KALETRA®, NORVIR®)- ketoconazole (NIZORAL®)
+
+- atazanavir (REYATAZ®)- itraconazole (SPORANOX®)
+
+- saquinavir (INVIRASE®)- clarithromycin (BIAXIN®)
+
+- nelfinavir (VIRACEPT®)- nefazodone (SERZONE®)
+
+- indinavir (CRIXIVAN®)- telithromycin (KETEK®)
+
+- fosamprenavir (LEXIVA®) - efavirenz (SUSTIVA®, ATRIPLA®)
+
+- etravirine (INTELENCE®)- rifampin (RIFADIN®, RIFATER®)
+
+- carbamezepine (TEGRETOL®)- phenobarbital (LUMINAL®)
+
+- phenytoin (DILANTIN®)
+
+- ritonavir (NORVIR®)
 
 Do not take products that contain St. John’s wort (Hypericum perforatum).
 St. John’s wort may lower the levels of SELZENTRY in your blood so that it will not work to treat your CCR5-tropic HIV-1 infection.
@@ -145,7 +154,6 @@ There have been serious side effects when SELZENTRY has been given with other an
 
 - Liver problems.
   See “What is the most important information I should know about SELZENTRY?”
-
 - Serious skin rash and allergic reactions.
   Severe and potentially life-threatening skin reactions and allergic reactions have been reported in some patients taking SELZENTRY.
   If you develop a rash with any of the following symptoms, stop using SELZENTRY and contact your doctor right away:
@@ -162,7 +170,6 @@ There have been serious side effects when SELZENTRY has been given with other an
   - pain, aching, or tenderness on the right side below the ribs
   - loss of appetite
   - nausea/vomiting
-
 - Heart problems including heart attack.
 - Low blood pressure when standing up (postural hypotension).
   Low blood pressure when standing up can cause dizziness or fainting.
