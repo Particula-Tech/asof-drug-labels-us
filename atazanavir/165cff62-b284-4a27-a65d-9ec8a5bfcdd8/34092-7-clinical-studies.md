@@ -90,7 +90,7 @@ The mean baseline CD4+ cell count was 338 cells/mm3 (range: 14 to 1543 cells/mm3
 Treatment outcomes through Week 48 for the REYATAZ/ritonavir and lopinavir/ritonavir treatment arms are presented in Table 25.
 REYATAZ/ritonavir and lopinavir/ritonavir were similar for the primary efficacy outcome measure of time-averaged difference in change from baseline in HIV RNA level.
 Study AI424-045 was not large enough to reach a definitive conclusion that REYATAZ/ritonavir and lopinavir/ritonavir are equivalent on the secondary efficacy outcome measure of proportions below the HIV RNA lower limit of detection.
-[See Clinical Pharmacology, Tables 20 and 21(12.4).]
+[See Clinical Pharmacology, Tables 20 and 21 (12.4).]
 
 Table 25: Outcomes of Treatment Through Week 48 in Study AI424-045 (Patients with Prior Antiretroviral Experience)
 
