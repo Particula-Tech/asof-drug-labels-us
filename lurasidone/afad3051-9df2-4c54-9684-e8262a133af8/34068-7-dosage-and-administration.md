@@ -35,5 +35,4 @@ LATUDA should not be used in combination with a strong CYP3A4 inhibitor (e.g., k
 
 Concomitant Use with Potential CYP3A4 Inducers
 
-The recommended starting dose is 20 mg/day.
 LATUDA should not be used in combination with a strong CYP3A4 inducer (e.g., rifampin) [see Contraindications (4); Drug Interactions (7.1)].

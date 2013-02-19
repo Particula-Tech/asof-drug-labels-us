@@ -26,6 +26,10 @@ Tablet
 
 40 mg
 
+901405R00
+
+(01)122 63402 304014
+
 EXP: LOT:
 
 Sunovion Pharmaceuticals Inc.
@@ -70,7 +74,7 @@ Rx only
 
 Please see full prescribing information,
 
-including boxed WARNINGS.
+including Boxed Warning.
 
 Sunovion
 
@@ -80,9 +84,7 @@ NDC 63402-304-04
 
 28 Tablets (4 Cards, 7 Tablets Each)
 
-PROFESSIONAL SAMPLES
-
-NOT FOR SALE OR REIMBURSEMENT
+PROFESSIONAL SAMPLES - NOT FOR SALE OR REIMBURSEMENT
 
 Package not child resistant.
 
