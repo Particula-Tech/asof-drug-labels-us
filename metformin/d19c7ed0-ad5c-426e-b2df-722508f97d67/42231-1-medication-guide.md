@@ -121,6 +121,8 @@ How should I take JANUMET?
   Low blood sugar can happen more often when JANUMET is taken with certain other diabetes medicines.
   See "What are the possible side effects of JANUMET?".
 - Take JANUMET with meals to lower your chance of having an upset stomach.
+- Do not break or cut JANUMET tablets before swallowing.
+  If you cannot swallow JANUMET tablets whole, tell your doctor.
 - Continue to take JANUMET as long as your doctor tells you.
 - If you take too much JANUMET, call your doctor or local Poison Control Center right away.
 - If you miss a dose, take it with food as soon as you remember.
@@ -221,19 +223,3 @@ When this happens, sugar (glucose) builds up in the blood.
 This can lead to serious medical problems.
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
-
-JANUMET® and JANUVIA® are registered trademarks of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
-
-Avandia® is a registered trademark of GlaxoSmithKline.
-
-Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
-
-Revised: 04/2012
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-USMG-T-0431A1204R005
-
-US Patent Nos.: 6,699,871 and 7,326,708
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.

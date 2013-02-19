@@ -26,6 +26,8 @@ Patients should be informed that the incidence of hypoglycemia is increased when
 Patients should be informed that allergic reactions have been reported during postmarketing use of sitagliptin, one of the components of JANUMET.
 If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JANUMET and seek medical advice promptly.
 
+Patients should be informed that the tablets must never be split or divided before swallowing.
+
 Physicians should instruct their patients to read the Medication Guide before starting JANUMET therapy and to reread each time the prescription is renewed.
 Patients should be instructed to inform their doctor if they develop any bothersome or unusual symptom, or if any symptom persists or worsens.
 
@@ -36,16 +38,3 @@ A1C is especially useful for evaluating long-term glycemic control.
 
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
 While megaloblastic anemia has rarely been seen with metformin therapy, if this is suspected, Vitamin B12 deficiency should be excluded.
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-USPI-T-0431A1204R005
-
-US Patent Nos.: 6,699,871 and 7,326,708
-
-1,2 Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
-
-3 GLUCOPHAGE® is a registered trademark of Merck Sante S.A.S, an associate of Merck KGaA of Darmstadt, Germany.
-Licensed to Bristol-Myers Squibb Company.
-
-Copyright © 2007, 2008, 2009, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
