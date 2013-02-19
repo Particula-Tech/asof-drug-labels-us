@@ -27,13 +27,13 @@ Prescribers should always follow appropriate pain management principles of caref
 
 In the selection of an initial dose of Methadone Hydrochloride Injection, attention should be given to the following:
 
-1. The total daily dose, potency and specific characteristics of the opioid the patient had been taking previously, if any;
-2. The relative potency estimate used to calculate an equianalgesic starting methadone dose, in particular, whether it is intended for use in acute or chronic methadone dosing;
-3. The patient's degree of opioid tolerance;
-4. The age, general condition and medical status of the patient;
-5. Concurrent medications, particularly other CNS and respiratory depressants;
-6. The type, severity and expected duration of the patient's pain;
-7. The acceptable balance between pain control and adverse side effects.
+1. 1.The total daily dose, potency and specific characteristics of the opioid the patient had been taking previously, if any;
+2. 2.The relative potency estimate used to calculate an equianalgesic starting methadone dose, in particular, whether it is intended for use in acute or chronic methadone dosing;
+3. 3.The patient's degree of opioid tolerance;
+4. 4.The age, general condition and medical status of the patient;
+5. 5.Concurrent medications, particularly other CNS and respiratory depressants;
+6. 6.The type, severity and expected duration of the patient's pain;
+7. 7.The acceptable balance between pain control and adverse side effects.
 
 Methadone Hydrochloride Injection may be administered intravenously, subcutaneously or intramuscularly.
 The absorption of subcutaneous and intramuscular methadone has not been well characterized and appears to be unpredictable.
@@ -78,13 +78,13 @@ Oral Morphine to Intravenous Methadone Conversion for Chronic Administration
 Table 2.
 Parenteral Morphine to Intravenous Methadone Conversion for Chronic Administration (Derived from Table 1, assuming a 3:1 oral:parenteral morphine ratio)
 
-| Total Daily Baseline Parenteral Morphine Dose | Estimated Daily Parenteral Methadone Requirement as Percent of Total Daily Morphine DoseThe total daily methadone dose derived from the table above may then be divided to reflect the intended dosing schedule (i.e., for administration every 8 hours, divide total daily methadone dose by 3). |  |
-| --- | --- | --- |
-| 10 mg to 30 mg | 40% to 66% |  |
-| 30 mg to 50 mg | 27% to 66% |  |
-| 50 mg to 100 mg | 22% to 50% |  |
-| 100 mg to 200 mg | 15% to 34% |  |
-| 200 mg to 500 mg | 10% to 20% |  |
+| Total Daily Baseline Parenteral Morphine Dose | Estimated Daily Parenteral Methadone Requirement as Percent of Total Daily Morphine DoseThe total daily methadone dose derived from the table above may then be divided to reflect the intended dosing schedule (i.e., for administration every 8 hours, divide total daily methadone dose by 3). |
+| --- | --- |
+| 10 mg to 30 mg | 40% to 66% |
+| 30 mg to 50 mg | 27% to 66% |
+| 50 mg to 100 mg | 22% to 50% |
+| 100 mg to 200 mg | 15% to 34% |
+| 200 mg to 500 mg | 10% to 20% |
 
 Note: Equianalgesic methadone dosing varies not only between patients, but also within the same patient, depending on baseline morphine (or other opioid) dose.
 Tables 1 and 2 have been included in order to illustrate this concept and to provide a safe starting point for opioid conversion.
