@@ -1,8 +1,10 @@
 MEDICATION GUIDE
 
-ZORTRESS (ZOR-tres) Tablets
+ZORTRESS (ZOR-tres)
 
 (everolimus)
+
+Tablets
 
 Read this Medication Guide before you start using ZORTRESS and each time you get a refill.
 There may be new information.
@@ -13,18 +15,21 @@ This information does not take the place of talking with your doctor about your 
 
 What is ZORTRESS?
 
-ZORTRESS is a prescription medicine used to prevent transplant rejection (antirejection medicine) in people who have received a kidney transplant.
+ZORTRESS is a prescription medicine used to prevent transplant rejection (antirejection medicine) in people who have received a kidney transplant or liver transplant.
 Transplant rejection happens when the body’s immune system perceives the new transplanted kidney as “foreign” and attacks it.
 
 ZORTRESS is used with other medicines called cyclosporine, corticosteroids and certain other transplant medicines to prevent rejection of your transplanted kidney.
+Zortress is used with other medicines called tacrolimus and corticosteroids to prevent rejection of your transplanted liver.
 
-It is not known if ZORTRESS is safe and effective in children.
+It is not known if ZORTRESS is safe and effective in transplanted organs other than the kidney and liver.
+
+It is not known if ZORTRESS is safe and effective in children under 18 years of age.
 
 Who should not take ZORTRESS?
 
 Do not take ZORTRESS if you are allergic to:
 
-- everolimus (AFINITOR®) or any of the ingredients in ZORTRESS.
+- everolimus (ZORTRESS/AFINITOR®) or any of the ingredients in ZORTRESS.
   See the end of this Medication Guide for a complete list of ingredients in ZORTRESS.
 - sirolimus (Rapamune®)
 
@@ -72,7 +77,8 @@ How should I take ZORTRESS?
 - Take ZORTRESS exactly as your doctor tells you.
 - Do not stop taking ZORTRESS or change your dose unless your doctor tells you to.
 - Take ZORTRESS at the same time as your dose of cyclosporine medicine.
-  Do not stop taking or change your dose of cyclosporine medicine unless your doctor tells you to.
+- Do not stop taking or change your dose of cyclosporine or tacrolimus medicine unless your doctor tells you to.
+- If your doctor changes your dose of cyclosporine your dose of ZORTRESS may change.
 - Take ZORTRESS 2 times a day about 12 hours apart.
 - Swallow ZORTRESS tablets whole with a glass of water.
   Do not crush or chew ZORTRESS tablets.
@@ -81,7 +87,7 @@ How should I take ZORTRESS?
   If you take ZORTRESS tablets without food, always take ZORTRESS tablets without food.
 - Your doctor will do regular blood tests to check your kidney function while you take ZORTRESS.
   It is important that you get these tests done when your doctor tells you to.
-  Blood tests will monitor how your kidneys are working and make sure you are getting the right dose of ZORTRESS.
+  Blood tests will monitor how your kidneys are working and make sure you are getting the right dose of ZORTRESS and other transplant medications they may be on (cyclosporine and tacrolimus).
 - If you take too much ZORTRESS, call your doctor or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking ZORTRESS?
@@ -89,7 +95,7 @@ What should I avoid while taking ZORTRESS?
 - Avoid receiving any live vaccines while taking ZORTRESS.
   Some vaccines may not work as well while you are taking ZORTRESS.
 - Do not eat grapefruit or drink grapefruit juice while you are taking ZORTRESS.
-  Grapefruit may change your blood level of ZORTRESS.
+  Grapefruit may increase your blood level of ZORTRESS.
 - Limit the amount of time you spend in the sunlight.
   Avoid using tanning beds or sunlamps.
   People who take ZORTRESS have a higher risk of getting skin cancer.
@@ -118,11 +124,15 @@ ZORTRESS can cause serious side effects, including:
   - blood, fluid, or pus in your incision
   - your incision opens up
   - swelling of your incision
+- lung or breathing problems.
+  Tell your doctor right away if you have new or worsening cough, shortness of breath, difficulty breathing or wheezing.
+  In some patients lung or breathing problems have been severe, and can even lead to death.
+  Your doctor may need to stop ZORTRESS or lower your dose.
 - increased cholesterol and triglycerides (fat in your blood).
-  If your cholesterol and triglyceride levels are high, your doctor may want to lower them with diet, exercise and certain medicines.
+  If your cholesterol and triglyceride levels are high your doctor may want to lower them with diet, exercise and certain medicines.
+- protein in your urine (proteinuria).
 - change in kidney function.
   ZORTRESS may cause kidney problems when taken along with a standard dose of cyclosporine medicine instead of a lower dose.
-- protein in your urine (proteinuria).
 
 Your doctor should do blood and urine tests to monitor your cholesterol, triglycerides and kidney function.
 
@@ -130,24 +140,33 @@ Your doctor should do blood and urine tests to monitor your cholesterol, triglyc
   Certain viruses can live in your body and cause active infections when your immune system is weak.
   Viral infections that can happen with ZORTRESS include BK virus-associated nephropathy.
   BK virus can affect how your kidney works and cause your transplanted kidney to fail.
-- lung or breathing problems.
-  Tell your doctor right away if you have new or worsening cough, shortness of breath, difficulty breathing or wheezing.
-  In some patients lung or breathing problems have been severe, and can even lead to death.
-  Your doctor may need to stop ZORTRESS or lower your dose.
 - blood clotting problems.
 - diabetes.
   Tell your doctor if you have frequent urination, increased thirst or hunger.
 - male infertility (low or no sperm count).
 
-The most common side effects of ZORTRESS include:
+The most common side effects of ZORTRESS in people who have had a kidney or liver transplant include:
 
-- swelling of the lower legs, ankles and feet
-- constipation
+These common side effects have been reported in both kidney and liver transplant patients:
+
 - nausea
+- swelling of the lower legs, ankles and feet
 - high blood pressure
+
+The most common side effects of ZORTRESS in people who have had a kidney transplant include:
+
+- constipation
 - low red blood cell count (anemia)
 - urinary tract infection
 - increased fat in the blood (cholesterol and triglycerides)
+
+The most common side effects of ZORTRESS in people who have had a liver transplant include:
+
+- diarrhea
+- headache
+- fever
+- abdominal pain
+- low white blood cells
 
 These are not all of the possible side effects of ZORTRESS.
 Tell your doctor about any side effect that bothers you or that does not go away.
@@ -193,4 +212,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 Rapamune® is a registered trademark of Pfizer Inc Gengraf® is a registered trademark of Abbott Laboratories
 
-T2012-111 April 2012
+T2013-10 February 2013

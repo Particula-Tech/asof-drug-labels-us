@@ -16,13 +16,13 @@ Kidney Graft Thrombosis
 
 Nephrotoxicity
 
-- Increased nephrotoxicity can occur with use of standard doses of cyclosporine in combination with everolimus.
-  Therefore reduced doses of cyclosporine should be used in combination with everolimus in order to reduce renal dysfunction.
+- Increased nephrotoxicity can occur with use of standard doses of cyclosporine in combination with Zortress.
+  Therefore reduced doses of cyclosporine should be used in combination with Zortress in order to reduce renal dysfunction.
   It is important to monitor the cyclosporine and everolimus whole blood trough concentrations.
-  [See Dosage and Administration (2.2 and 2.3) and Warnings and Precautions (5.5) and Clinical Pharmacology (12.5 and 12.6)]
+  [See Dosage and Administration (2.2 and 2.3) and Warnings and Precautions (5.5) and Clinical Pharmacology (12.7 and 12.8)]
 
 Mortality in Heart Transplantation
 
 - Increased mortality, often associated with serious infections, within the first three months post-transplantation was observed in a clinical trial of de novo heart transplant patients receiving immunosuppressive regimens with or without induction therapy.
   Use in heart transplantation is not recommended.
-  [See Warnings and Precautions (5.6)]
+  [See Warnings and Precautions (5.7)]

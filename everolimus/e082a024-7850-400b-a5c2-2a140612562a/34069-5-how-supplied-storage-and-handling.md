@@ -2,6 +2,7 @@
 
 Zortress (everolimus) Tablets are packed in child-resistant blisters.
 
+Table 11.
 Description of Zortress (everolimus) Tablets
 
 | Dosage Strength | 0.25 mg | 0.5 mg | 0.75 mg |
