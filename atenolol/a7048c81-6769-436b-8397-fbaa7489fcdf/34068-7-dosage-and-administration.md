@@ -7,7 +7,7 @@ The full effect of this dose will usually be seen within one to two weeks.
 If an optimal response is not achieved, the dosage should be increased to atenolol 100 mg given as one tablet a day.
 Increasing the dosage beyond 100 mg a day is unlikely to produce any further benefit.
 
-Atenolol may be used alone or concomitantly with other antihypertensive agents including thiazide-type diuretics, hydralazine, prazosin, and alpha-methyldopa.
+Atenolol tablets may be used alone or concomitantly with other antihypertensive agents including thiazide-type diuretics, hydralazine, prazosin and alpha-methyldopa.
 
 ## Angina Pectoris
 
@@ -20,28 +20,28 @@ The maximum early effect on exercise tolerance occurs with doses of 50 mg to 100
 
 ## Acute Myocardial Infarction
 
-In patients with definite or suspected acute myocardial infarction, treatment with atenolol injection should be initiated as soon as possible after the patient's arrival in the hospital and after eligibility is established.
-Such treatment should be initiated in a coronary care or similar unit immediately after the patient's hemodynamic condition has stabilized.
+In patients with definite or suspected acute myocardial infarction, treatment with atenolol I.V. injection should be initiated as soon as possible after the patient’s arrival in the hospital and after eligibility is established.
+Such treatment should be initiated in a coronary care or similar unit immediately after the patient’s hemodynamic condition has stabilized.
 Treatment should begin with the intravenous administration of 5 mg atenolol over 5 minutes followed by another 5 mg intravenous injection 10 minutes later.
-Atenolol injection should be administered under carefully controlled conditions including monitoring of blood pressure, heart rate, and electrocardiogram.
-Dilutions of atenolol injection in Dextrose Injection USP, Sodium Chloride Injection USP, or Dextrose and Sodium Chloride Injection may be used.
+Atenolol I.V. injection should be administered under carefully controlled conditions including monitoring of blood pressure, heart rate and electrocardiogram.
+Dilutions of atenolol I.V. injection in Dextrose Injection USP, Sodium Chloride Injection USP, or Sodium Chloride and Dextrose Injection may be used.
 These admixtures are stable for 48 hours if they are not used immediately.
 
 In patients who tolerate the full intravenous dose (10 mg), atenolol tablets 50 mg should be initiated 10 minutes after the last intravenous dose followed by another 50 mg oral dose 12 hours later.
-Thereafter, atenolol can be given orally either 100 mg once daily or 50 mg twice a day for a further 6 to 9 days or until discharge from the hospital.
-If bradycardia or hypotension requiring treatment or any other untoward effects occur, atenolol should be discontinued.
+Thereafter, atenolol tablets can be given orally either 100 mg once daily or 50 mg twice a day for a further 6 to 9 days or until discharge from the hospital.
+If bradycardia or hypotension requiring treatment or any other untoward effects occur, atenolol tablets should be discontinued.
 (See full prescribing information prior to initiating therapy with atenolol tablets.)
 
-Data from other beta blocker trials suggest that if there is any question concerning the use of IV beta blocker or clinical estimate that there is a contraindication, the IV beta blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets 50 mg twice daily or 100 mg once a day for at least seven days (if the IV dosing is excluded).
+Data from other beta-blocker trials suggest that if there is any question concerning the use of I.V. beta-blocker or clinical estimate that there is a contraindication, the I.V. beta-blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets 50 mg twice daily or 100 mg once a day for at least 7 days (if the I.V. dosing is excluded).
 
-Although the demonstration of efficacy of atenolol is based entirely on data from the first seven postinfarction days, data from other beta blocker trials suggest that treatment with beta blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
+Although the demonstration of efficacy of atenolol is based entirely on data from the first 7 postinfarction days, data from other beta-blocker trials suggest that treatment with beta blockers that are effective in the postinfarction setting may be continued for 1 to 3 years if there are no contraindications.
 
-Atenolol is an additional treatment to standard coronary care unit therapy.
+Atenolol tablets are an additional treatment to standard coronary care unit therapy.
 
 ## Elderly Patients or Patients with Renal Impairment
 
 Atenolol is excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
 Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.
 Atenolol excretion would be expected to decrease with advancing age.
 
@@ -66,4 +66,4 @@ Patients on hemodialysis should be given 25 mg or 50 mg after each dialysis; thi
 
 ## Cessation of Therapy in Patients with Angina Pectoris
 
-If withdrawal of atenolol therapy is planned, it should be achieved gradually and patients should be carefully observed and advised to limit physical activity to a minimum.
+If withdrawal of atenolol tablets therapy is planned, it should be achieved gradually and patients should be carefully observed and advised to limit physical activity to a minimum.

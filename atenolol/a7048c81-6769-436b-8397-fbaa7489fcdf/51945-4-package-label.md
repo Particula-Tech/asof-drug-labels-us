@@ -4,10 +4,9 @@ NDC 0378-0218-01
 
 Atenolol Tablets, USP 25 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Atenolol, USP......
-25 mg
+Each tablet contains: Atenolol, USP 25 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -23,9 +22,9 @@ See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0218A3
+RM0218A4
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -33,10 +32,9 @@ NDC 0378-0231-01
 
 Atenolol Tablets, USP 50 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Atenolol, USP......
-50 mg
+Each tablet contains: Atenolol, USP 50 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -52,9 +50,9 @@ See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0231A10
+RM0231A11
 
 PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -62,10 +60,9 @@ NDC 0378-0757-93
 
 Atenolol Tablets, USP 100 mg
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
-Each tablet contains: Atenolol, USP......
-100 mg
+Each tablet contains: Atenolol, USP 100 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -81,6 +78,6 @@ See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0757H1
+RM0757H2

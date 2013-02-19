@@ -5,7 +5,7 @@ Overdosage with atenolol has been reported with patients surviving acute doses a
 The predominant symptoms reported following atenolol overdose are lethargy, disorder of respiratory drive, wheezing, sinus pause and bradycardia.
 Additionally, common effects associated with overdosage of any beta-adrenergic blocking agent and which might also be expected in atenolol overdose are congestive heart failure, hypotension, bronchospasm and/or hypoglycemia.
 
-Treatment of overdose should be directed to the removal of any unabsorbed drug by induced emesis, gastric lavage, or administration of activated charcoal.
+Treatment of overdose should be directed to the removal of any unabsorbed drug by induced emesis, gastric lavage or administration of activated charcoal.
 Atenolol can be removed from the general circulation by hemodialysis.
 Other treatment modalities should be employed at the physician's discretion and may include:
 
