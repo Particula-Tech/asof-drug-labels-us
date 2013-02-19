@@ -39,3 +39,5 @@ Manufactured by: CPL Mississauga, Ontario, Canada L5N 6L6
 
 Made in Canada.
 GALDERMA is a registered trademark. www.clobex.com
+
+P52061-0

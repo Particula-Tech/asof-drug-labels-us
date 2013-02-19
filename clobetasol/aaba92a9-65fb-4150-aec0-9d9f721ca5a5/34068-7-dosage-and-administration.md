@@ -13,6 +13,6 @@ Treatment beyond 2 weeks should be limited to localized lesions of moderate to s
 If no improvement is seen within 2 weeks, reassessment of diagnosis may be necessary.
 Before prescribing for more than 2 weeks, any additional benefits of extending treatment to 4 weeks should be weighed against the risk of HPA axis suppression.
 
-Use in pediatric patients younger than 18 years is not recommended because of the potential for HPA axis suppression [see Use in Specific Populations (8.4)].
+Use in pediatric patients younger than 18 years is not recommended because of the potential for HPA axis suppression see [Use in Specific Populations (8.4)].
 
 Unless directed by physician, CLOBEX® Spray, 0.05% should not be used with occlusive dressings.

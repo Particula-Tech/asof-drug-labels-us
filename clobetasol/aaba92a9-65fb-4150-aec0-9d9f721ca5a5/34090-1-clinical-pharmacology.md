@@ -10,10 +10,14 @@ Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
 ## 12.2 Pharmacodynamics
 
-Vasoconstrictor Assay CLOBEX® Spray, 0.05% is in the super-high range of potency as demonstrated in a vasoconstrictor study in healthy subjects when compared with other topical corticosteroids.
+Vasoconstrictor Assay
+
+CLOBEX® Spray, 0.05% is in the super-high range of potency as demonstrated in a vasoconstrictor study in healthy subjects when compared with other topical corticosteroids.
 However, similar blanching scores do not necessarily imply therapeutic equivalence.
 
-Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression The effect of CLOBEX® Spray, 0.05% on hypothalamic-pituitary-adrenal (HPA) axis function was investigated in adults in two studies.
+Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression
+
+The effect of CLOBEX® Spray, 0.05% on hypothalamic-pituitary-adrenal (HPA) axis function was investigated in adults in two studies.
 In the first study, patients with plaque psoriasis covering at least 20% of their body applied CLOBEX® Spray, 0.05% twice daily for up to 4 weeks.
 15% (2 out of 13) of patients displayed adrenal suppression after 4 weeks of use based on the Cosyntropin Stimulation Test.
 The laboratory suppression was transient; all subjects returned to normal after cessation of drug use.

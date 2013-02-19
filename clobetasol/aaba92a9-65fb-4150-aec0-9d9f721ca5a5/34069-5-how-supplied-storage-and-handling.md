@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CLOBEX® Spray, 0.05% is supplied in a white HDPE bottle with a white polypropylene cap and white LDPE liner in the following sizes:
+CLOBEX® Spray, 0.05% is a clear, colorless liquid, supplied in a white HDPE bottle with a white polypropylene cap and white LDPE liner in the following sizes:
 
 2 fl oz/59 mL NDC 0299-3849-02
 

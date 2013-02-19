@@ -27,13 +27,19 @@ Do not exceed 26 sprays per application or 52 sprays per day.
 Do not apply to the face, underarms, or groin and avoid contact with eyes and lips.
 See package insert for complete prescribing information.
 
-TO THE PHARMACIST Replace cap with spray pump prior to dispensing.
+See lot number and expiration date on the bottom of the carton.
+
+TO THE PHARMACIST:
+
+- Ensure the patient receives the Patient Information.
+- Replace cap with spray pump prior to dispensing.
 
 Each gram contains: Active: clobetasol propionate (0.5 mg).
 Inactive: alcohol, isopropyl myristate, sodium lauryl sulfate, and undecylenic acid.
 
 Store at controlled room temperature 68º to 77ºF (20º - 25ºC), excursions permitted between 59º and 86ºF (15º - 30ºC).
 Protect from freezing.
+Do not refeigerate or store above 86ºF (30ºC).
 Keep out of reach of children.
 
 US Patent Nos: 5,972,920; 5,990,100 and foreign patents pending.
@@ -44,3 +50,9 @@ Fort Worth, Texas 76177 USA
 Manufactured by: CPL Mississauga, Ontario, Canada L5N 6L6
 
 GALDERMA is a registered trademark.
+
+Made in Canada
+
+www.clobex.com
+
+P50878-0

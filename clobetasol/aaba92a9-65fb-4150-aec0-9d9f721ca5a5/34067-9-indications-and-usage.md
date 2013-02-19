@@ -7,7 +7,7 @@ The total dosage should not exceed 50 g (59 mL or 2 fl. oz.) per week.
 Do not use more than 26 sprays per application or 52 sprays per day.
 Treatment should be limited to 4 consecutive weeks.
 
-Patients should be instructed to use CLOBEX® Spray, 0.05% for the minimum amount of time necessary to achieve the desired results [see Dosage and Administration (2)].
+Patients should be instructed to use CLOBEX® Spray, 0.05% for the minimum amount of time necessary to achieve the desired results see [Dosage and Administration (2)].
 
 Use in patients under 18 years of age is not recommended because safety has not been established and because numerically high rates of HPA axis suppression were seen with other clobetasol propionate topical formulations.
 

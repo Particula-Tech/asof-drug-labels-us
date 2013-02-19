@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C:
+Teratogenic Effects: Pregnancy Category C:
 
 There are no adequate and well-controlled studies in pregnant women.
 Therefore, CLOBEX® Spray, 0.05% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -31,7 +31,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## 8.4 Pediatric Use
 
 Use in patients under 18 years of age is not recommended, because safety has not been established and because numerically high rates of HPA axis suppression were seen with other clobetasol propionate topical formulations.
-Safety and effectiveness in pediatric patients treated with CLOBEX® Spray, 0.05% have not been established [see Warnings and Precautions (5.1)].
+Safety and effectiveness in pediatric patients treated with CLOBEX® Spray, 0.05% have not been established see [Warnings and Precautions (5.1)].
 
 Because of higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of glucocorticosteroid insufficiency during and/or after withdrawal of treatment.
@@ -41,7 +41,7 @@ HPA axis suppression, Cushing’s syndrome, linear growth retardation, delayed w
 Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
-## 8.5 Geriatic Use
+## 8.5 Geriatric Use
 
 Clinical studies of CLOBEX® Spray, 0.05% did not include sufficient numbers of patients aged 65 and over to adequately determine whether they respond differently than younger patients.
 In two randomized, vehicle controlled clinical trials, 21 of the 240 patients (9%) were over the age of 65.
