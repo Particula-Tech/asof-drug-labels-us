@@ -75,7 +75,7 @@ Patients with myelosuppression may require more intensive monitoring of complete
 No formal drug interaction studies have been conducted with Rebif®.
 Due to its potential to cause neutropenia and lymphopenia, proper monitoring of patients is required if Rebif® is given in combination with myelosuppressive agents.
 
-Also, the potential for hepatic injury should be considered when Rebif® is used in combination with other products associated with hepatic injury, or when new agents are added to the regimen of patients already on Rebif® (see WARNINGS: Hepatic injury).
+Also, the potential for hepatic injury should be considered when Rebif® is used in combination with other products associated with hepatic injury, or when new agents are added to the regimen of patients already on Rebif® (see WARNINGS: Hepatic Injury).
 
 ## Immunization
 

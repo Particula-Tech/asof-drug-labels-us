@@ -1,4 +1,4 @@
-# References
+References
 
 1. PRISMS Study Group.
    Randomized double-blind placebo-controlled study of interferon β-1a in relapsing/remitting multiple sclerosis.

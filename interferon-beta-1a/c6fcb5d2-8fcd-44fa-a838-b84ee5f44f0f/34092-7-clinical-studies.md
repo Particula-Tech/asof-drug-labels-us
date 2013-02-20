@@ -33,7 +33,7 @@ Table 1: Clinical and MRI Endpoints from Study 1
 | Percent (%) of patients exacerbation-free at 2 yearsLogistic regression adjusted for center. Patients lost to follow-up prior to an exacerbation were excluded from this analysis (n = 185, 183, and 184 for the placebo, 22 mcg tiw, and 44 mcg tiw groups, respectively) | 15% | 25%p<0.05 compared to placebo | 32% |
 | Median time to first exacerbation (months),Cox proportional hazard model adjusted for center | 4.5 | 7.6 | 9.6 |
 | MRI | n = 172 | n = 171 | n = 171 |
-| Median percent (%) change of MRI PD-T2 lesion area at 2 yearsANOVA on ranks adjusted for center. Patients with missing scans were excluded from this analysis | 11.0 | -1.2 | -3.8 |
+| Median percent (%) change of MRI PD-T2 lesion area at 2 yearsANOVA on ranks adjusted for center. Patients with missing scans were excluded from this analysis | 11.0% | -1.2% | -3.8% |
 | Median number of active lesions per patient per scan (PD/T2; 6 monthly) | 2.25 | 0.75 | 0.5 |
 
 The time to onset of progression in disability sustained for three months was significantly longer in patients treated with Rebif® than in placebo-treated patients.
@@ -66,9 +66,9 @@ Table 2: Clinical and MRI Results from Study 2
 | Proportion of patients relapse-free at 24 weeksLogistic regression model adjusted for treatment and center, intent to treat analysis | 75%p <0.001, and | 63% | 12% | 0.68 |
 |  |  |  | (95% CI: 5%, 19%) | (95% CI: 0.54, 0.86) |
 | Proportion of patients relapse-free at 48 weeks | 62%p = 0.009, Rebif® compared to Avonex® | 52% | 10% | 0.81 |
-|  |  |  | (95%CI: 2%, 17%) | (95%CI: 0.68, 0.96) |
+|  |  |  | (95% CI: 2%, 17%) | (95% CI: 0.68, 0.96) |
 | MRI (through 24 weeks) | N=325 | N=325 |  |  |
-| Median of the mean number of combined unique MRI lesions per patient per scanNonparametric ANCOVA model adjusted for treatment and center, with baseline combined unique lesions as the single covariate.(25th, 75th percentiles) | 0.17 | 0.33 |  |  |
+| Median of the mean number of combined unique MRI lesions per patient per scanNonparametric ANCOVA model adjusted for treatment and center, with baseline combined unique lesions as the single covariate. (25th, 75th percentiles) | 0.17 | 0.33 |  |  |
 | (0.00, 0.67) | (0.00, 1.25) |  |  |  |
 
 The adverse reactions over 48 weeks were generally similar between the two treatment groups.

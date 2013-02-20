@@ -1,6 +1,6 @@
 # Medication Guide
 
-Rebif® (Re-bif) Interferon beta-1a
+Rebif® (Re-bif) interferon beta-1a
 
 (in-ter-feer-on beta-one-â)
 
@@ -161,7 +161,7 @@ Instructions for Preparing and Giving Yourself an Injection of Rebif® using a p
 
 Before you begin, gather all of the supplies listed below:
 
-- Rebif® pre-filled syringe or Rebidose® autoinjector.
+- Rebif® pre-filled syringe or Rebidose® autoinjector
 - Alcohol swabs (wipes) or cotton balls and rubbing alcohol
 - Small adhesive bandage strip (if desired)
 - Puncture resistant safety container for disposal of used syringes
@@ -270,4 +270,4 @@ Marketed by: EMD Serono, Inc. Pfizer Inc. Rockland, MA 02370 New York, NY 10017
 
 December, 2012
 
-N67Z0104A
+N67Z0104B

@@ -80,11 +80,13 @@ The adverse reactions were generally similar in Studies 1 and 2, taking into acc
 In addition to adverse events reported from clinical trials, the following events have been reported during postmarketing use of Rebif®.
 Because these reactions were reported voluntarily from a population of uncertain size, the frequency or a causal relationship to Rebif® cannot be reliably determined.
 
-Autoimmune Disorders: drug-induced lupus erythematosus, autoimmune hepatitis.
+Autoimmune Disorders: Drug-induced lupus erythematosus, autoimmune hepatitis.
 
 Blood and Lymphatic System Disorders: Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), pancytopenia.
 
 Eye Disorders: Retinal vascular disorders (i.e. retinopathy, cotton wool spots or obstruction of retinal artery or vein).
+
+General Disorders and Administration Site Conditions: Increased sweating.
 
 Hepatobiliary Disorders: Rare cases of severe liver dysfunction, including hepatic failure requiring liver transplantation (see WARNINGS: Hepatic Injury).
 
@@ -92,7 +94,7 @@ Nervous System: Seizures (see PRECAUTIONS: General).
 Transient neurological symptoms (i.e., hypoesthesia, muscle spasm, paresthesia, difficulty walking, musculoskeletal stiffness) that mimic MS exacerbations of limited duration, temporally related to the injections and most prominent at the initiation of therapy.
 In some cases, these symptoms were associated with flu-like syndrome.
 
-Psychiatric Disorders: suicide (see WARNINGS: Depression and Suicide).
+Psychiatric Disorders: Suicide (see WARNINGS: Depression and Suicide).
 
 Skin and Subcutaneous Tissue Disorders: Injection site abscesses, injection site infections, including cellulitis and necrosis requiring debridement, systemic antibiotic treatment and/or grafting; erythema multiforme, and Stevens-Johnson syndrome.
 

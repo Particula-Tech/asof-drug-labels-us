@@ -11,7 +11,7 @@ The following package presentations are available:
 
 Rebif® (interferon beta -1a) Titration Pack, NDC 44087-8822-1
 
-- -Six Rebif® 8.8 mcg pre-filled syringes and Six Rebif® 22 mcg pre-filled syringe
+- -Six Rebif® 8.8 mcg pre-filled syringes and Six Rebif® 22 mcg pre-filled syringes
 
 Rebif® (interferon beta -1a) 22 mcg Pre-filled syringe
 
