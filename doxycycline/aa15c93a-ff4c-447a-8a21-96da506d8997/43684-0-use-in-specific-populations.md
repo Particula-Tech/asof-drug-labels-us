@@ -5,10 +5,6 @@
 Teratogenic Effects: Pregnancy Category D [see Warnings and Precautions (5.1)].
 Results from animal studies indicate that doxycycline crosses the placenta and is found in fetal tissues.
 
-## 8.2 Labor and Delivery
-
-The effect of tetracyclines on labor and delivery is unknown.
-
 ## 8.3 Nursing Mothers
 
 Tetracyclines are excreted in human milk.
@@ -16,7 +12,7 @@ Because of the potential for serious adverse reactions in infants from doxycycli
 
 ## 8.4 Pediatric Use
 
-ORACEA should not be used in infants and children less than 8 years of age [see Warnings and Precautions(5.1)].
+ORACEA should not be used in infants and children less than 8 years of age [see Warnings and Precautions (5.1)].
 ORACEA has not been studied in children of any age with regard to safety or efficacy, therefore use in children is not recommended.
 
 ## 8.5 Geriatric Use

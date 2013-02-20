@@ -36,8 +36,9 @@ Note: Percentages based on total number of study participants in each treatment 
 
 Adverse Reactions for Tetracyclines:The following adverse reactions have been observed in patients receiving tetracyclines at higher, antimicrobial doses: Gastrointestinal: anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, and inflammatory lesions (with vaginal candidiasis) in the anogenital region.
 Hepatotoxicity has been reported rarely.
-Rare instances of esophagitis and esophageal ulcerations have been reported in patients receiving the capsule forms of the drugs in the tetracycline class.
+Rare instances of esophagitis and esophageal ulcerations have been reported in patients receiving the capsule forms of the drugs in the tetracycline-class.
 Most of the patients experiencing esophagitis and/or esophageal ulceration took their medication immediately before lying down [see Dosage and Administration (2)].
+
 Skin: maculopapular and erythematous rashes.
 Exfoliative dermatitis has been reported but is uncommon.
 Photosensitivity is discussed above [see Warnings and Precautions(5.4)].
