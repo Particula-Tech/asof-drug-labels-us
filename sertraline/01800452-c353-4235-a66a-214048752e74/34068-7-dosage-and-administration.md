@@ -65,6 +65,7 @@ If sertraline is administered to patients with liver impairment, a lower or less
 
 Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS ).
 When treating pregnant women with sertraline hydrochloride during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
+
 The physician may consider tapering sertraline hydrochloride in the third trimester.
 
 ## Discontinuation of Treatment with Sertraline Hydrochloride

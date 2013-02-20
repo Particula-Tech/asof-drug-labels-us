@@ -30,7 +30,7 @@ Call your healthcare provider right away if you have any of the following sympto
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 Sertraline hydrochloride oral concentrate may be associated with these serious side effects: 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome or Neuroleptic Malignant Syndrome like reactions.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -240,4 +240,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Orap ® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin ® is a registered trademark of Bristol Myers Squibb.
 Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. Antabuse ® is a registered trademark of Duramed Pharmaceuticals, Inc. and Ayerst, McKenna & Harrison Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 06/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 07/2012

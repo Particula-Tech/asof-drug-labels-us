@@ -219,13 +219,13 @@ The effect of sertraline hydrochloride on valproate levels has not been evaluate
 In the absence of such data, it is recommended that plasma valproate levels be monitored following initiation of sertraline hydrochloride therapy with appropriate adjustments to the valproate dose.
 The risk of using sertraline hydrochloride in combination with other CNS active drugs has not been systematically evaluated.
 Consequently, caution is advised if the concomitant administration of sertraline hydrochloride and such drugs is required.
-There is limited controlled experience regarding the optimal timing of switching from other drugs effective in the treatment of major depressive disorder, obsessive-compulsive disorder, panic disorder, posttraumatic stress disorder, premenstrual dysphoric disorder and social anxiety disorder to sertraline hydrochloride.
+There is limited controlled experience regarding the optimal timing of switching from other drugs effective in the treatment of major depressive disorder , obsessive-compulsive disorder, panic disorder, posttraumatic stress disorder, premenstrual dysphoric disorder and social anxiety disorder to sertraline hydrochloride.
 Care and prudent medical judgment should be exercised when switching, particularly from long-acting agents.
 The duration of an appropriate washout period which should intervene before switching from one selective serotonin reuptake inhibitor (SSRI) to another has not been established.
 
 ### Monoamine Oxidase Inhibitors
 
-See CONTRAINDICATIONS and WARNINGS .
+See CONTRAINDICATIONS and WARNINGS.
 
 ### Drugs Metabolized by P450 3A4
 
@@ -341,13 +341,13 @@ These findings are based on post marketing reports.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS ).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS).
 Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20 th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
+In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
 There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
 The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
-When treating a pregnant woman with sertraline hydrochloride during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION ).
+When treating a pregnant woman with sertraline hydrochloride during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
 Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic in the context of antidepressant therapy at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
 ## Labor and Delivery
