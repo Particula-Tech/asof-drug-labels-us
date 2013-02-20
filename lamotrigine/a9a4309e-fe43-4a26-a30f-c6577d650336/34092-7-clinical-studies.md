@@ -2,12 +2,12 @@
 
 ## 14.1 Epilepsy
 
-Monotherapy With Lamotrigine in Adults With Partial Seizures Already Receiving Treatment With Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single AED: The effectiveness of monotherapy with lamotrigine was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial seizures.
+Monotherapy With Lamotrigine in Adults With Partial Seizures Already Receiving Treatment With Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single Antiepileptic Drug: The effectiveness of monotherapy with lamotrigine was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial seizures.
 The patients experienced at least 4 simple partial, complex partial, and/or secondarily generalized seizures during each of 2 consecutive 4-week periods while receiving carbamazepine or phenytoin monotherapy during baseline.
 Lamotrigine (target dose of 500 mg/day) or valproate (1,000 mg/day) was added to either carbamazepine or phenytoin monotherapy over a 4-week period.
 Patients were then converted to monotherapy with lamotrigine or valproate during the next 4 weeks, then continued on monotherapy for an additional 12-week period.
 Study endpoints were completion of all weeks of study treatment or meeting an escape criterion.
-Criteria for escape relative to baseline were: (1) doubling of average monthly seizure count, (2) doubling of highest consecutive 2-day seizure frequency, (3) emergence of a new seizure type (defined as a seizure that did not occur during the 8-week baseline) that is more severe than seizure types that occur during study treatment, or (4) clinically significant prolongation of generalized tonic-clonic (GTC) seizures.
+Criteria for escape relative to baseline were: (1) doubling of average monthly seizure count, (2) doubling of highest consecutive 2-day seizure frequency, (3) emergence of a new seizure type (defined as a seizure that did not occur during the 8-week baseline) that is more severe than seizure types that occur during study treatment, or (4) clinically significant prolongation of generalized tonic-clonic seizures.
 The primary efficacy variable was the proportion of patients in each treatment group who met escape criteria.
 The percentages of patients who met escape criteria were 42% (32/76) in the group receiving lamotrigine and 69% (55/80) in the valproate group.
 The difference in the percentage of patients meeting escape criteria was statistically significant ( p = 0.0012) in favor of lamotrigine.

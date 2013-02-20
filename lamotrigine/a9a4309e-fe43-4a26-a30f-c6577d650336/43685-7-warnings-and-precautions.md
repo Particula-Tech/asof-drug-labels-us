@@ -9,19 +9,19 @@ There was 1 rash-related death in this 1,983-patient cohort.
 Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
-Adult Population: Serious rash associated with hospitalization and discontinuation of lamotrigine occurred in 0.3% (11 of 3,348) of adult patients who received lamotrigine in premarketing clinical trials of epilepsy.
+Adult Populatio: Serious rash associated with hospitalization and discontinuation of lamotrigine occurred in 0.3% (11 of 3,348) of adult patients who received lamotrigine in premarketing clinical trials of epilepsy.
 In the bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine as adjunctive therapy.
 No fatalities occurred among these individuals.
 However, in worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
 Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.2)] .
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered lamotrigine in the absence of valproate were hospitalized.
-Patients With History of Allergy or Rash to Other AEDs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients With History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 ## 5.2 Multiorgan Hypersensitivity Reactions and Organ Failure
 
-Multiorgan hypersensitivity reactions, also known as Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have occurred with lamotrigine.
-Some have been fatal or life-threatening.
+Multiorgan hypersensitivity reactions, also known as Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have occurred with lamotrigine.
+Some have been fatal or life threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
@@ -72,7 +72,7 @@ Behaviors of concern should be reported immediately to healthcare providers.
 ## 5.5 Use in Patients With Bipolar Disorder
 
 Acute Treatment of Mood Episodes : Safety and effectiveness of lamotrigine in the acute treatment of mood episodes have not been established.
-Children and Adolescents (less than 18 years of age) :Safety and effectiveness of lamotrigine in patients below the age of 18 years with mood disorders have not been established [see Warnings and Precautions (5.4)] .
+Children and Adolescents (less than 18 years of age) : Safety and effectiveness of lamotrigine in patients below the age of 18 years with mood disorders have not been established [see Warnings and Precautions (5.4)] .
 Clinical Worsening and Suicide Risk Associated With Bipolar Disorder :Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
 Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment or at the time of dose changes.
 In addition, patients with a history of suicidal behavior or thoughts, those patients exhibiting a significant degree of suicidal ideation prior to commencement of treatment, and young adults are at an increased risk of suicidal thoughts or suicide attempts, and should receive careful monitoring during treatment [see Warnings and Precautions (5.4)] .

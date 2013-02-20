@@ -207,7 +207,7 @@ Bipolar Disorder: The most commonly observed (≥5%) treatment-emergent adverse 
 Adverse reactions that occurred in at least 5% of patients and were numerically more common during the dose-escalation phase of lamotrigine in these trials (when patients may have been receiving concomitant medications) compared with the monotherapy phase were: headache (25%), rash (11%), dizziness (10%), diarrhea (8%), dream abnormality (6%), and pruritus (6%).
 During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months' duration, 13% of 227 patients who received lamotrigine (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
 The adverse reactions which most commonly led to discontinuation of lamotrigine were rash (3%) and mania/hypomania/mixed mood adverse reactions (2%).
-Approximately 16% of 2,401 patients who received lamotrigine (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse reaction; most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
+Approximately 16% of 2,401 patients who received lamotrigine (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse reaction, most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
 The overall adverse reaction profile for lamotrigine was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
 Table 12.
@@ -245,7 +245,7 @@ Musculoskeletal: Arthralgia, myalgia.
 Nervous System: Amnesia, depression, agitation, emotional lability, dyspraxia, abnormal thoughts, dream abnormality, hypoesthesia.
 Respiratory: Sinusitis.
 Urogenital: Urinary frequency.
-Adverse Reactions Following Abrupt Discontinuation: In the 2 maintenance trials, there was no increase in the incidence, severity or type of adverse reactions in Bipolar Disorder patients after abruptly terminating therapy with lamotrigine.
+Adverse Reactions Following Abrupt Discontinuation: In the 2 maintenance trials, there was no increase in the incidence, severity, or type of adverse reactions in Bipolar Disorder patients after abruptly terminating therapy with lamotrigine.
 In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine.
 However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients [see Warnings and Precautions (5.9)] .
 Mania/Hypomania/Mixed Episodes: During the double-blind, placebo-controlled clinical trials in Bipolar I Disorder in which patients were converted to monotherapy with lamotrigine (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
@@ -273,7 +273,7 @@ Rare: Alcohol intolerance, alkaline phosphatase increase, alanine transaminase i
 Musculoskeletal System: Infrequent: Arthritis, leg cramps, myasthenia, and twitching.
 Rare: Bursitis, muscle atrophy, pathological fracture, and tendinous contracture.
 Nervous System: Frequent: Confusion and paresthesia.
-Infrequent: Akathisia, apathy, aphasia, CNS depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
+Infrequent: Akathisia, apathy, aphasia, central nervous system (CNS) depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
 Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, faintness, grand mal convulsions, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, muscle spasm, neuralgia, neurosis, paralysis, and peripheral neuritis.
 Respiratory System: Infrequent: Yawn.
 Rare: Hiccup and hyperventilation.

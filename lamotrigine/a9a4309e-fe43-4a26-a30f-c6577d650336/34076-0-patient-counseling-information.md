@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide that accompanies the product.
+See FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Rash
 
@@ -21,18 +21,20 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 Patients should be advised to notify their physician if worsening of seizure control occurs.
 
-## 17.5 CNS Adverse Effects
+## 17.5 Central Nervous System Adverse Effects
 
-Patients should be advised that lamotrigine may cause dizziness, somnolence, and other symptoms and signs of central nervous system (CNS) depression.
+Patients should be advised that lamotrigine may cause dizziness, somnolence, and other symptoms and signs of CNS depression.
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on lamotrigine to gauge whether or not it adversely affects their mental and/or motor performance.
 
-## 17.6 Pregnancy
+## 17.6 Pregnancy and Nursing
 
 Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
 Patients should be advised to notify their physicians if they intend to breastfeed or are breastfeeding an infant.
 Patients should also be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)] .
+Patients who intend to breastfeed should be informed that lamotrigine is present in breast milk and that they should monitor their child for potential adverse effects of this drug.
+Benefits and risks of continuing breastfeeding should be discussed with the patient.
 
 ## 17.7 Oral Contraceptive Use
 
@@ -57,4 +59,4 @@ Medication errors may also occur between the different formulations of lamotrigi
 To reduce the potential of medication errors, write and say lamotrigine clearly.
 Depictions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)] .
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 09/2012
