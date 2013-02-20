@@ -22,13 +22,13 @@ Patients using Dovonex® Cream should receive the following information and inst
    As with any topical medication, patients should wash their hands after application.
 2. This medication should not be used for any disorder other than that for which it was prescribed.
 3. Patients should report to their physician any signs of adverse reactions.
-4. Patients that apply Dovonex® Cream to exposed portions of the body should avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.).
+4. Patients that apply Dovonex® to exposed portions of the body should avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 When calcipotriene was applied topically to mice for up to 24 months at dosages of 3, 10 and 30 µg/kg/day (corresponding to 9, 30 and 90 µg/m2/day), no significant changes in tumor incidence were observed when compared to control.
 In a study in which albino hairless mice were exposed to both UVR and topically applied calcipotriene, a reduction in the time required for UVR to induce the formation of skin tumors was observed (statistically significant in males only), suggesting that calcipotriene may enhance the effect of UVR to induce skin tumors.
-Patients that apply Dovonex® Cream to exposed portions of the body should avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.). Physicians may wish to limit or avoid use of phototherapy in patients that use Dovonex® Cream.
+Patients that apply Dovonex® to exposed portions of the body should avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.). Physicians may wish to limit or avoid use of phototherapy in patients that use Dovonex®.
 
 Calcipotriene did not elicit any mutagenic effects in an Ames mutagenicity assay, a mouse lymphoma TK locus assay, a human lymphocyte chromosome aberration assay, or in a micronucleus assay conducted in mice.
 
