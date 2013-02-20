@@ -3,7 +3,7 @@
     "NDA021574"
   ],
   "inn": "metformin",
-  "labeler": "Shionogi Pharma, Inc.",
+  "labeler": "Shionogi Inc.",
   "package_ndcs": [
     "59630-574-60",
     "59630-574-99",
@@ -12,9 +12,9 @@
   ],
   "products": [
     {
-      "form": "TABLET, EXTENDED RELEASE",
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
       "generic": "metformin hydrochloride",
-      "name": "Fortamet"
+      "name": "FORTAMET"
     }
   ],
   "setid": "ed71d7ea-f5af-4406-8b0d-68e17cb1e61e",

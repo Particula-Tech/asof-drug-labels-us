@@ -1,5 +1,7 @@
 # PATIENT INFORMATION ABOUT FORTAMET® (metformin hydrochloride) Extended-Release Tablets
 
+Rx only
+
 Q1.
 Why do I need to take FORTAMET®?
 
@@ -21,7 +23,7 @@ Your doctor may recommend that you try lifestyle modifications such as improved 
 Each patient will be treated individually by his or her physician, and should follow all treatment recommendations.
 
 Q4.
-Does FORTAMET® work differently from other glucose control medications?
+Does FORTAMET® work differently from other glucosecontrol medications?
 
 Yes.
 FORTAMET®, as well as other formulations of metformin, lowers the amount of sugar in your blood by controlling how much sugar is released by the liver.
@@ -95,7 +97,7 @@ You should not take FORTAMET® if:
 
 - You have some forms of kidney or liver problems
 - You have congestive heart failure which is treated with medications, e.g., digoxin (Lanoxin®) or furosemide (Lasix®)
-- You drink alcohol excessively (all the time or short-term "binge" drinking)
+- You drink alcohol excessively (all the time or short-term “binge” drinking)
 - You are seriously dehydrated (have lost a large amount of body fluids)
 - You are going to have, within a few days, certain x-ray tests with injectable contrast agents
 - You are going to have surgery
@@ -134,7 +136,7 @@ Q16.
 How do I take FORTAMET®?
 
 FORTAMET® tablets should not be cut, crushed, or chewed and should be taken whole with a full glass of water once daily with the evening meal.
-Occasionally, the inactive ingredients of FORTAMET® may be eliminated as a soft mass in your stool that may look like the original tablet; this is not harmful and will not affect the way FORTAMET® works to control your diabetes.
+Occasionally, the inactive ingredients of FORTAMET® may be eliminated as a soft mass in your stool that may look like the original tablet; this is not harmful and will not affect the way FORTAMET® works to control diabetes.
 FORTAMET® should be taken once a day with food.
 You will be started on a low dose of FORTAMET® and your dosage will be increased gradually until your blood sugar is controlled.
 
@@ -144,14 +146,14 @@ Where can I get more information about FORTAMET®?
 This leaflet is a summary of the most important information about FORTAMET®.
 If you have any questions or problems, you should talk to your doctor or other healthcare provider about type 2 diabetes as well as FORTAMET® and its side effects.
 
-Distributed by: Shionogi Pharma, Inc. Atlanta, GA 30328
+Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
 Manufactured by: Watson Laboratories - Florida Ft.
 Lauderdale, FL 33314
 
 www.Fortamet.com
 
-FORT-PI-10 Rev.
-02/10 193672
+FORT-PI-11 Rev.
+04/12 193672-1
 
 U.S. patent numbers 6,495,162; 6,866,866; 6,790,459; 6,099,859 - additional patents pending.
