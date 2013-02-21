@@ -41,6 +41,7 @@ Do not take HYZAAR if you:
 - are allergic to any sulfonamide-containing ("sulfa") medicines.
   Ask your doctor if you are not sure what sulfonamide-containing ("sulfa") medicines are.
 - are not passing urine.
+- have diabetes and are taking a medicine called aliskiren to reduce blood pressure.
 
 ## What should I tell my doctor before taking HYZAAR?
 
@@ -158,6 +159,6 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 
 Copyright © 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 11/2011
+Revised: 11/2012
 
-9964306
+USPPI-T-0954A1211R007
