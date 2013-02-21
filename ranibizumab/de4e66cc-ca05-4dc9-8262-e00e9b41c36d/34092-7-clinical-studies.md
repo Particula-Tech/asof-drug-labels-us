@@ -65,9 +65,26 @@ Patients treated with LUCENTIS in Study AMD-3 received a mean of 6 total treatme
 
 In Study AMD-3, the primary efficacy endpoint was mean change in visual acuity at 12 months compared with baseline (see Figure 2).
 After an initial increase in visual acuity (following monthly dosing), on average, patients dosed once every 3 months with LUCENTIS lost visual acuity, returning to baseline at Month 12.
-In Study AMD-3, almost all LUCENTIS-treated patients (90%) maintained their visual acuity at Month 12.
+In Study AMD-3, almost all LUCENTIS-treated patients (90%) lost fewer than 15 letters of visual acuity at Month 12.
 
 | Figure 2 Mean Change in Visual Acuity from Baseline to Month 12 in Study AMD-3 |
+| --- |
+
+Study AMD-4
+
+Study AMD-4 was a randomized, double-masked, active treatment-controlled, two-year study designed to assess the safety and efficacy of LUCENTIS 0.5 mg administered monthly or less frequently than monthly in patients with neovascular AMD.
+Patients randomized to the LUCENTIS 0.5 mg less frequent dosing arm received 3 monthly doses followed by monthly assessments where patients were eligible to receive LUCENTIS injections guided by pre-specified re-treatment criteria.
+A total of 550 patients were enrolled in the two 0.5 mg treatment groups; 521 (95%) of these patients completed Month 12 of this study.
+Data are available through Month 12.
+
+From Month 3 through Month 12, patients in the 0.5 mg less frequent dosing arm gained an average of 0.1 letters in visual acuity and patients in the 0.5 mg monthly arm gained an average of 1.7 letters (see Figure 3).
+Over the same time period, patients in the 0.5 mg less frequent dosing and 0.5 mg monthly arms averaged 4.8 and 8.3 injections, respectively.
+The distribution of injections received in the less frequent dosing arm is shown in Figure 4.
+
+| Figure 3 Mean Change in Visual Acuity from Baseline to Month 12 in Study AMD-4 |
+| --- |
+
+| Figure 4 Distribution of Injections from Month 3 to Month 12 in the Less Frequent Dosing Arm in Study AMD-4 |
 | --- |
 
 ## 14.2 Macular Edema Following Retinal Vein Occlusion (RVO)
@@ -93,7 +110,7 @@ Table 5 Visual Acuity Outcomes at Month 6 in Study RVO-1 and Study RVO-2
 | Gain of ≥15 letters in visual acuity (%) | RVO-1 | 29% | 61% | 31% (20%, 43%) |
 | Gain of ≥15 letters in visual acuity (%) | RVO-2 | 17% | 48% | 30% (20%, 41%) |
 
-| Figure 3 Mean Change in Visual Acuity from Baseline to Month 6 in Study RVO-1 and Study RVO-2 |
+| Figure 5 Mean Change in Visual Acuity from Baseline to Month 6 in Study RVO-1 and Study RVO-2 |
 | --- |
 
 p < 0.01 for all time points
@@ -124,7 +141,7 @@ Table 6 Visual Acuity Outcomes at Month 24 in Study DME-1 and Study DME-2
 | Mean change in visual acuity (letters) | DME-1 | 2.3 | 10.9 | 8.5 (5.4, 11.5) |
 | DME-2 | 2.6 | 12.5 | 9.6 (6.1, 13.0) |  |
 
-| Figure 4 Mean Change in Visual Acuity from Baseline to Month 36 in Study DME-1 and Study DME-2 |
+| Figure 6 Mean Change in Visual Acuity from Baseline to Month 36 in Study DME-1 and Study DME-2 |
 | --- |
 
 p < 0.01 for all time points comparing LUCENTIS 0.3 mg to sham through Month 24

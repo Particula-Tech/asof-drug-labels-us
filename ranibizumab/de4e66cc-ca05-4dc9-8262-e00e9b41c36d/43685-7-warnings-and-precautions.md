@@ -18,8 +18,9 @@ ATEs are defined as nonfatal stroke, nonfatal myocardial infarction, or vascular
 
 Neovascular (Wet) Age-Related Macular Degeneration
 
-The ATE rate in the three controlled neovascular AMD studies during the first year was 1.9% (17 of 874) in the combined group of patients treated with 0.3 mg or 0.5 mg LUCENTIS compared with 1.1% (5 of 441) in patients from the control arms [see Clinical Studies (14.1)].
+The ATE rate in the three controlled neovascular AMD studies (AMD-1, AMD-2, AMD-3) during the first year was 1.9% (17 of 874) in the combined group of patients treated with 0.3 mg or 0.5 mg LUCENTIS compared with 1.1% (5 of 441) in patients from the control arms [see Clinical Studies (14.1)].
 In the second year of Studies AMD-1 and AMD-2, the ATE rate was 2.6% (19 of 721) in the combined group of LUCENTIS-treated patients compared with 2.9% (10 of 344) in patients from the control arms.
+In Study AMD-4, the ATE rates observed in the 0.5 mg arms of the study during the first year were similar to rates observed in AMD-1, AMD-2, and AMD-3.
 
 In a pooled analysis of 2-year controlled studies (AMD-1, AMD-2, and a study of LUCENTIS used adjunctively with verteporfin photodynamic therapy), the stroke rate (including both ischemic and hemorrhagic stroke) was 2.7% (13 of 484) in patients treated with 0.5 mg LUCENTIS compared to 1.1% (5 of 435) in patients in the control arms (odds ratio 2.2 (95% confidence interval (0.8-7.1))).
 

@@ -8,19 +8,22 @@ The binding of ranibizumab to VEGF-A prevents the interaction of VEGF-A with its
 
 ## 12.2 Pharmacodynamics
 
-Increased center point thickness (CPT) as assessed by optical coherence tomography (OCT) is associated with neovascular AMD, macular edema following RVO, and DME.
+Increased retinal thickness (i.e., center point thickness (CPT) or central foveal thickness (CFT)), as assessed by optical coherence tomography (OCT) is associated with neovascular AMD, macular edema following RVO, and DME.
 Leakage from choroidal neovascularization (CNV) as assessed by fluorescein angiography (FA) is associated with neovascular AMD.
 
 Neovascular (Wet) Age-Related Macular Degeneration
 
-In Study AMD-3, CPT was assessed by OCT in 118 of 184 patients.
-OCT measurements were collected at baseline, Months 1, 2, 3, 5, 8, and 12.
+In Study AMD-3, CPT was assessed by time domain (TD)-OCT in 118 of 184 patients.
+TD-OCT measurements were collected at baseline, Months 1, 2, 3, 5, 8, and 12.
 In patients treated with LUCENTIS, CPT decreased, on average, more than in the sham group from baseline through Month 12.
 CPT decreased by Month 1 and decreased further at Month 3, on average.
-CPT data did not provide information useful in influencing treatment decisions [see Clinical Studies (14.1)].
+In this study, CPT data did not provide information useful in influencing treatment decisions [see Clinical Studies (14.1)].
 
-In patients treated with LUCENTIS, the area of vascular leakage, on average, decreased by Month 3 as assessed by FA.
-The area of vascular leakage for an individual patient was not correlated with visual acuity.
+In Study AMD-4, CFT was assessed by spectral domain (SD)-OCT in all patients; on average, CFT reductions were observed beginning at Day 7 following the first LUCENTIS injection through Month 12 in both arms.
+CFT data did not provide information capable of predicting final visual acuity results [see Clinical Studies (14.1)].
+
+In patients treated with LUCENTIS, the area of CNV leakage, on average, decreased by Month 3 as assessed by FA.
+The area of CNV leakage for an individual patient was not correlated with visual acuity.
 
 Macular Edema Following Retinal Vein Occlusion
 
