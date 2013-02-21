@@ -11,6 +11,5 @@ All patients had been receiving nonlabeled fluorouracil until the peak of the in
 One gram of labeled preparation was applied to the entire face and neck and left in place for 12 hours.
 Urine samples were collected.
 At the end of 3 days, the total recovery ranged between 0.48% and 0.94% with an average of 0.76%, indicating that approximately 5.98% of the topical dose was absorbed systemically.
-If applied twice daily, this would indicate systemic absorption systemically.
 If applied twice daily, this would indicate systemic absorption of topical fluorouracil to be in the range of 5 to 6 mg per daily dose of 100 mg.
 In an additional study, negligible amounts of labeled material were found in plasma, urine and expired CO2 after 3 days of treatment with topically applied 14C-labeled fluorouracil.
