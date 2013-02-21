@@ -10,6 +10,6 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 
 Copyright © 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 11/2011
+Revised: 11/2012
 
-9964205
+USPPI-T-09541211R006

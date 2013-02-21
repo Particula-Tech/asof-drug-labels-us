@@ -40,6 +40,7 @@ If you have diabetic nephropathy it means that your kidneys do not work properly
 
 - Do not take COZAAR if you are allergic to any of the ingredients in COZAAR.
   See the end of this leaflet for a complete list of ingredients in COZAAR.
+- Do not take COZAAR if you have diabetes and are taking a medicine called aliskiren to reduce blood pressure.
 
 ## What should I tell my doctor before taking COZAAR?
 
