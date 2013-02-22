@@ -6,7 +6,7 @@ DALIRESP® (da'-li-resp)
 
 Tablets
 
-Read this Medication Guide before you start taking DALIRESP™ and each time you get a refill.
+Read this Medication Guide before you start taking DALIRESP® and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
@@ -123,8 +123,8 @@ Active ingredient: roflumilast Inactive ingredients: lactose monohydrate, corn s
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-02/2011
+02/2013
 
-Manufactured by: Nycomed GmbH Production Site Oranienburg Lehnitzstrasse 70 – 98 16515 Oranienburg Germany
+Manufactured by: Takeda GmbH Production Site Oranienburg Lehnitzstrasse 70 – 98 16515 Oranienburg Germany
 
 Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA

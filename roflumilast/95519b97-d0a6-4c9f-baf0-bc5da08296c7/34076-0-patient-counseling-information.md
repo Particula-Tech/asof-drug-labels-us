@@ -32,14 +32,10 @@ If unexplained or clinically significant weight loss occurs, weight loss should 
 The administration of the cytochrome P450 enzyme inducer rifampicin resulted in a reduction in exposure which may result in a decrease in the therapeutic effectiveness of DALIRESP.
 Therefore, the use of strong cytochrome P450 enzyme inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin) with DALIRESP is not recommended [see Drugs That Induce Cytochrome P450 (CYP) Enzymes (7.1) and Clinical Pharmacology (12.3)].
 
-Manufactured by:
+Manufactured by: Takeda GmbH Production Site Oranienburg Lehnitzstrasse 70 – 98 16515 Oranienburg Germany
 
-Nycomed GmbH Production Site Oranienburg Lehnitzstrasse 70 – 98 16515 Oranienburg Germany
+Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
 
-Manufactured for:
+Daliresp® is a registered trademark of Takeda GmbH.
 
-Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
-
-Daliresp® is a registered trademark of Nycomed GmbH.
-
-© 2010, 2011 Forest Laboratories, Inc.
+© 2010-2013 Forest Laboratories, Inc.
