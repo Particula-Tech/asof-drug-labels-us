@@ -33,7 +33,7 @@ Mean Decreases (mm Hg) in Seated and Standing Blood Pressure for Patients Treate
 | *S/D = Systolic/diastolic blood pressure |  |  |  |  |  |  |
 
 While most of the effectiveness of guanfacine in combination (and as monotherapy in white patients) was present at 1 mg, adverse reactions at this dose were not clearly distinguishable from those associated with placebo.
-Adverse reactions were clearly present at 2 and 3 mg (seeADVERSE REACTIONS).
+Adverse reactions were clearly present at 2 and 3 mg (see ADVERSE REACTIONS).
 
 In a second 12-week placebo-controlled study 1, 2, or 3 mg of guanfacine hydrochloride administered with 25 mg chlorthalidone once daily, a significant decrease in blood pressure was maintained for a full 24 hours after dosing.
 While there was no significant difference between the 12 and 24 hour blood pressure readings, the fall in blood pressure at 24 hours was numerically smaller, suggesting possible escape of blood pressure in some patients and the need for individualization of therapy.

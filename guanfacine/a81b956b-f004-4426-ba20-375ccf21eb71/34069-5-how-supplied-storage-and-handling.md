@@ -8,12 +8,11 @@ Guanfacine Tablets USP 2 mg, are peach, round tablets, debossed with WATSON 453 
 
 Bottles of 100 tablets are supplied with child-resistant closures.
 
-Store at 20°-25°C (68°-77°F).
-[See USP controlled room temperature.]
+Store at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container.
 
-Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Watson Pharma, Inc. Corona, CA 92880 USA
+Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-1108B Revised: November 2008 174350
+Revised: May 2011 198950

@@ -7,7 +7,7 @@ Like other antihypertensive agents, guanfacine should be used with caution in pa
 ## Sedation:
 
 Guanfacine, like other orally active central α2 adrenergic agonists, causes sedation or drowsiness, especially when beginning therapy.
-These symptoms are dose-related (seeADVERSE REACTIONS).
+These symptoms are dose-related (see ADVERSE REACTIONS).
 When guanfacine is used with other centrally active depressants (such as phenothiazines, barbiturates, or benzodiazepines), the potential for additive sedative effects should be considered.
 
 ## Rebound:
@@ -30,7 +30,7 @@ The potential for increased sedation when guanfacine is given with other CNS-dep
 
 The administration of guanfacine concomitantly with a known microsomal enzyme inducer (phenobarbital or phenytoin) to two patients with renal impairment reportedly resulted in significant reductions in elimination half-life and plasma concentration.
 In such cases, therefore, more frequent dosing may be required to achieve or maintain the desired hypotensive response.
-Further, if guanfacine is to be discontinued in such patients, careful tapering of the dosage may be necessary in order to avoid rebound phenomena (seeRebound above).
+Further, if guanfacine is to be discontinued in such patients, careful tapering of the dosage may be necessary in order to avoid rebound phenomena (see Rebound above).
 
 ## Anticoagulants:
 
@@ -86,4 +86,4 @@ All patients recovered upon discontinuation of guanfacine HCl.
 Clinical studies of guanfacine did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy (seeCLINICAL PHARMACOLOGY, Pharmacokinetics).
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
