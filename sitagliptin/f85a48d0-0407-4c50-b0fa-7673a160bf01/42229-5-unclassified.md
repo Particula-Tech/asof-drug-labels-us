@@ -5,8 +5,8 @@ Via Emilia, 21 27100 – Pavia, Italy OR MERCK SHARP & DOHME LTD. Cramlington, N
 
 US Patent Nos.: 6,699,871 and 7,326,708
 
-Copyright © 2006, 2007, 2009, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+Copyright © 2006, 2007, 2009, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 04/2012
+Revised: 02/2013
 
-USPI-T-04311204R008
+USPI-T-04311302R009

@@ -4,17 +4,15 @@
 
 The recommended dose of JANUVIA is 100 mg once daily.
 JANUVIA can be taken with or without food.
-JANUVIA should be swallowed whole.
-The tablets must not be split, crushed, or chewed before swallowing.
 
 ## 2.2 Patients with Renal Insufficiency
 
-For patients with mild renal insufficiency (creatinine clearance [CrCl] ≥50 mL/min, approximately corresponding to serum creatinine levels of ≤1.7 mg/dL in men and ≤1.5 mg/dL in women), no dosage adjustment for JANUVIA is required.
+For patients with mild renal insufficiency (creatinine clearance [CrCl] greater than or equal to 50 mL/min, approximately corresponding to serum creatinine levels of less than or equal to 1.7 mg/dL in men and less than or equal to 1.5 mg/dL in women), no dosage adjustment for JANUVIA is required.
 
-For patients with moderate renal insufficiency (CrCl ≥30 to <50 mL/min, approximately corresponding to serum creatinine levels of >1.7 to ≤3.0 mg/dL in men and >1.5 to ≤2.5 mg/dL in women), the dose of JANUVIA is 50 mg once daily.
+For patients with moderate renal insufficiency (CrCl greater than or equal to 30 to less than 50 mL/min, approximately corresponding to serum creatinine levels of greater than 1.7 to less than or equal to 3.0 mg/dL in men and greater than 1.5 to less than or equal to 2.5 mg/dL in women), the dose of JANUVIA is 50 mg once daily.
 
-For patients with severe renal insufficiency (CrCl <30 mL/min, approximately corresponding to serum creatinine levels of >3.0 mg/dL in men and >2.5 mg/dL in women) or with end-stage renal disease (ESRD) requiring hemodialysis or peritoneal dialysis, the dose of JANUVIA is 25 mg once daily.
-JANUVIA may be administered without regard to the timing of hemodialysis.
+For patients with severe renal insufficiency (CrCl less than 30 mL/min, approximately corresponding to serum creatinine levels of greater than 3.0 mg/dL in men and greater than 2.5 mg/dL in women) or with end-stage renal disease (ESRD) requiring hemodialysis or peritoneal dialysis, the dose of JANUVIA is 25 mg once daily.
+JANUVIA may be administered without regard to the timing of dialysis.
 
 Because there is a need for dosage adjustment based upon renal function, assessment of renal function is recommended prior to initiation of JANUVIA and periodically thereafter.
 Creatinine clearance can be estimated from serum creatinine using the Cockcroft-Gault formula.

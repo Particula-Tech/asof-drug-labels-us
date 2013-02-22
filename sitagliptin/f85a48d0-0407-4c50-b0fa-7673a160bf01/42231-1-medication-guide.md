@@ -71,9 +71,6 @@ How should I take JANUVIA?
 
 - Take JANUVIA 1 time each day exactly as your doctor tells you.
 - You can take JANUVIA with or without food.
-- Take JANUVIA tablets whole.
-  Do not split, crush, or chew JANUVIA tablets before swallowing.
-  If you cannot swallow JANUVIA tablets whole tell your doctor.
 - Your doctor may do blood tests from time to time to see how well your kidneys are working.
   Your doctor may change your dose of JANUVIA based on the results of your blood tests.
 - Your doctor may tell you to take JANUVIA along with other diabetes medicines.
@@ -172,10 +169,10 @@ US Patent Nos.: 6,699,871 and 7,326,708
 
 Avandia® is a registered trademark of GlaxoSmithKline.
 
-Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 04/2012
+Revised: 02/2013
 
-USMG-T-04311204R008
+USMG-T-04311302R009
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

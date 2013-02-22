@@ -91,7 +91,7 @@ Compared to normal healthy control subjects, an approximate 1.1- to 1.6-fold inc
 Because increases of this magnitude are not clinically relevant, dosage adjustment in patients with mild renal insufficiency is not necessary.
 Plasma AUC levels of sitagliptin were increased approximately 2-fold and 4-fold in patients with moderate renal insufficiency and in patients with severe renal insufficiency, including patients with ESRD on hemodialysis, respectively.
 Sitagliptin was modestly removed by hemodialysis (13.5% over a 3- to 4-hour hemodialysis session starting 4 hours postdose).
-To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with moderate and severe renal insufficiency, as well as in ESRD patients requiring hemodialysis.
+To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with moderate and severe renal insufficiency, as well as in ESRD patients requiring dialysis.
 [See Dosage and Administration (2.2).]
 
 Hepatic Insufficiency
