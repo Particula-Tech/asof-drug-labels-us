@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203479"
+  ],
+  "inn": "clozapine",
+  "labeler": "Jazz Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "18860-121-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "clozapine",
+      "name": "VERSACLOZ"
+    }
+  ],
+  "setid": "693cb9d4-39db-4ecf-9eae-b01f06f8d5d1",
+  "source": "dailymed"
+}
