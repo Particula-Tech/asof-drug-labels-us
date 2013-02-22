@@ -14,7 +14,8 @@ Initial combination therapy or maintenance of combination therapy should be indi
 
 JANUMET XR should be administered with food to reduce the gastrointestinal side effects associated with the metformin component.
 JANUMET XR should be given once daily with a meal preferably in the evening.
-Inform patients that JANUMET XR tablets must not be split, broken, crushed, or chewed before swallowing.
+JANUMET XR should be swallowed whole.
+The tablets must not be split, crushed, or chewed before swallowing.
 
 The 100 mg sitagliptin/1000 mg metformin hydrochloride extended-release tablet should be taken as a single tablet once daily.
 Patients using two JANUMET XR tablets (such as two 50 mg sitagliptin/500 mg metformin hydrochloride extended-release tablets or two 50 mg sitagliptin/1000 mg metformin hydrochloride extended-release tablets) should take the two tablets together once daily.

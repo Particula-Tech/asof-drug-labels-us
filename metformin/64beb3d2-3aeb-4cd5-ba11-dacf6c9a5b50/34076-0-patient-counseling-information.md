@@ -28,7 +28,7 @@ Patients should be informed that the incidence of hypoglycemia is increased when
 Patients should be informed that allergic reactions have been reported during postmarketing use of sitagliptin, one of the components of JANUMET XR.
 If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JANUMET XR and seek medical advice promptly.
 
-Patients should be informed that JANUMET XR tablets must be swallowed whole and never split, crushed or chewed.
+Patients should be informed that the tablets must be swallowed whole and never split, crushed or chewed.
 
 Physicians should instruct their patients to read the Medication Guide before starting JANUMET XR therapy and to reread each time the prescription is renewed.
 Patients should be instructed to inform their doctor if they develop any bothersome or unusual symptom, or if any symptom persists or worsens.
@@ -47,6 +47,6 @@ US Patent Nos.: 6,699,871 and 7,326,708
 
 Copyright © 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 04/2012
+Revised: 02/2013
 
-USPI-XRT-0431A1204R001
+USPI-XRT-0431A1302R002

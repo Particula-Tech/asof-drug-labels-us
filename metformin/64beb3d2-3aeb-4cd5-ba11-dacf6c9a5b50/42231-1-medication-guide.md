@@ -112,9 +112,9 @@ How should I take JANUMET XR?
   See "What are the possible side effects of JANUMET XR?".
 - Take JANUMET XR 1 time each day with a meal to help to lower your chance of having an upset stomach.
   It is better to take JANUMET XR with your evening meal.
-- Swallow JANUMET XR tablets whole.
-  Never crush, split or chew JANUMET XR tablets.
-  Tell your doctor if you cannot swallow tablets whole.
+- Take JANUMET XR tablets whole.
+  Do not break, cut, crush, dissolve, or chew JANUMET XR tablets before swallowing.
+  If you cannot swallow JANUMET XR tablets whole, tell your doctor.
 - Continue to take JANUMET XR as long as your doctor tells you.
 - If you take too much JANUMET XR, call your doctor or local Poison Control Center right away.
 - If you miss a dose, take it with food as soon as you remember.
