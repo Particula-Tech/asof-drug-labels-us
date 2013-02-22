@@ -1,10 +1,10 @@
 # DESCRIPTION
 
-DUETACT® (pioglitazone hydrochloride and glimepiride) tablets contain two oral antihyperglycemic agents used in the management of type 2 diabetes: pioglitazone hydrochloride and glimepiride.
+DUETACT (pioglitazone and glimepiride) tablets contain two oral antihyperglycemic agents used in the management of type 2 diabetes: pioglitazone and glimepiride.
 The concomitant use of pioglitazone and a sulfonylurea, the class of drugs that includes glimepiride, has been previously approved based on clinical trials in patients with type 2 diabetes inadequately controlled on a sulfonylurea.
 Additional efficacy and safety information about pioglitazone and glimepiride monotherapies may be found in the prescribing information for each individual drug.
 
-Pioglitazone hydrochloride is an oral antihyperglycemic agent that acts primarily by decreasing insulin resistance.
+Pioglitazone is an oral antihyperglycemic agent that acts primarily by decreasing insulin resistance.
 Pioglitazone is used in the management of type 2 diabetes.
 Pharmacological studies indicate that pioglitazone improves sensitivity to insulin in muscle and adipose tissue and inhibits hepatic gluconeogenesis.
 Pioglitazone improves glycemic control while reducing circulating insulin levels.
@@ -25,7 +25,7 @@ The chemical structure is as shown:
 
 glimepiride
 
-Glimepiride is a white to yellowish-white crystalline, odorless, to practically odorless powder, that has a molecular formula of C24H34N4O5S and a molecular weight of 490.62.
+Glimepiride is a white to yellowish-white crystalline, odorless to practically odorless powder, that has a molecular formula of C24H34N4O5S and a molecular weight of 490.62.
 It is soluble in dimethylsulfoxide, slightly soluble in acetone, very slightly soluble in acetonitrile and methanol, and practically insoluble in water.
 
-DUETACT is available as a tablet for oral administration containing 30 mg pioglitazone hydrochloride (as the base) with 2 mg glimepiride (30 mg/2 mg) or 30 mg pioglitazone hydrochloride (as the base) with 4 mg glimepiride (30 mg/4 mg) formulated with the following excipients: croscarmellose sodium NF, lactose monohydrate NF, magnesium stearate NF, hydroxypropyl cellulose NF, polysorbate 80 NF, and microcrystalline cellulose NF.
+DUETACT is available as a tablet for oral administration containing 30 mg pioglitazone (as the base) with 2 mg glimepiride (30 mg/2 mg) or 30 mg pioglitazone (as the base) with 4 mg glimepiride (30 mg/4 mg) formulated with the following excipients: croscarmellose sodium NF, lactose monohydrate NF, magnesium stearate NF, hydroxypropyl cellulose NF, polysorbate 80 NF, and microcrystalline cellulose NF.
