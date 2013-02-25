@@ -9,5 +9,5 @@ It is postulated that these proteins control the biosynthesis of potent mediator
 Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
 Corticosteroids are capable of producing a rise in intraocular pressure.
-In clinical studies of documented steroid-responders, fluorometholone demonstrated a significantly longer average time to produce a rise in intraocular pressure than dexamethasone phosphate; however, in a small percentage of individuals a significant rise in intraocular pressure occurred within one week.
+In clinical studies of documented steroid-responders, fluorometholone demonstrated a significantly longer average time to produce a rise in intraocular pressure than dexamethasone phosphate; however, in a small percentage of individuals, a significant rise in intraocular pressure occurred within one week.
 The ultimate magnitude of the rise was equivalent for both drugs.
