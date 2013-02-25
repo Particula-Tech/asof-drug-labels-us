@@ -2,11 +2,11 @@
 
 NDC 67457-182-10
 
-For Intravenous Use
-
 Esmolol Hydrochloride Injection
 
 100 mg/10 mL (10 mg/mL)
+
+For Intravenous Use
 
 Rx only 10 x 10 mL Single-Dose Vials
 
@@ -14,9 +14,9 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-MI:182:10C:R1
+MI:182:10C:R2
 
-www.mylan.com
+Mylan.com
 
 Contains no preservatives.
 Discard unused portion.

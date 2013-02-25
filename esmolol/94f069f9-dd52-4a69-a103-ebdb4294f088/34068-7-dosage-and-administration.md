@@ -75,11 +75,9 @@ INTRAOPERATIVE AND POSTOPERATIVE TACHYCARDIA AND/OR HYPERTENSION
 In the intraoperative and postoperative settings it is not always advisable to slowly titrate the dose of esmolol to a therapeutic effect.
 Therefore, two dosing options are presented: immediate control dosing and a gradual control when the physician has time to titrate.
 
-1. 1.Immediate Control
-2. For intraoperative treatment of tachycardia and/or hypertension give an 80 mg (approximately 1 mg/kg) bolus dose over 30 seconds followed by a 150 mcg/kg/min infusion, if necessary.
+1. 1.Immediate Control For intraoperative treatment of tachycardia and/or hypertension give an 80 mg (approximately 1 mg/kg) bolus dose over 30 seconds followed by a 150 mcg/kg/min infusion, if necessary.
    Adjust the infusion rate as required up to 300 mcg/kg/min to maintain desired heart rate and/or blood pressure.
-3. 2.Gradual Control
-4. For postoperative tachycardia and hypertension, the dosing schedule is the same as that used in supraventricular tachycardia.
+2. 2.Gradual Control For postoperative tachycardia and hypertension, the dosing schedule is the same as that used in supraventricular tachycardia.
    To initiate treatment, administer a loading dosage infusion of 500 mcg/kg/min of esmolol for one minute followed by a four-minute maintenance infusion of 50 mcg/kg/min.
    If an adequate therapeutic effect is not observed within five minutes, repeat the same loading dosage and follow with a maintenance infusion increased to 100 mcg/kg/min (see above SUPRAVENTRICULAR TACHYCARDIA)
 

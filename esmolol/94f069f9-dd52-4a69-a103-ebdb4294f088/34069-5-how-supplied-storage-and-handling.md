@@ -13,6 +13,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-APRIL 2012 MI:ESMOIJ:R1
+REVISED JANUARY 2013 MI:ESMOIJ:R2
 
-0643L101
+0643L102
