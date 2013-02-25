@@ -1,10 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Initial Treatment of Major Depressive Disorder
+## 2.1 General Instruction for Use
 
 The recommended dose for PRISTIQ is 50 mg once daily, with or without food.
 
-In clinical studies, doses of 50-400 mg/day were shown to be effective, although no additional benefit was demonstrated at doses greater than 50 mg/day and adverse events and discontinuations were more frequent at higher doses.
+In clinical studies, doses of 50 mg to 400 mg per day were shown to be effective, although no additional benefit was demonstrated at doses greater than 50 mg per day and adverse reactions and discontinuations were more frequent at higher doses.
 
 When discontinuing therapy, gradual dose reduction is recommended whenever possible to minimize discontinuation symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.9)].
 
@@ -13,33 +13,21 @@ Tablets must be swallowed whole with fluid and not divided, crushed, chewed, or 
 
 ## 2.2 Special Populations
 
-### Pregnant women during the third trimester
+Patients with renal impairment
 
-Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
-When treating pregnant women with PRISTIQ during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
+The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [CrCl] = 30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
+The maximum recommended dose in patients with severe renal impairment (24-hr CrCl less than 30 mL/min, C-G) or end-stage renal disease (ESRD) is 50 mg every other day.
+Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-### Patients with renal impairment
+Patients with hepatic impairment
 
-No dosage adjustment is necessary in patients with mild renal impairment (24-hr CrCl = 50-80 mL/min).
-
-The recommended dose in patients with moderate renal impairment (24-hr CrCl = 30-50 mL/min) is 50 mg per day.
-The recommended dose in patients with severe renal impairment (24-hr CrCl < 30 mL/min) or end-stage renal disease (ESRD) is 50 mg every other day.
-Supplemental doses should not be given to patients after dialysis.
-The doses should not be escalated in patients with moderate or severe renal impairment, or ESRD [see Warnings and Precautions (5.10), Use in Specific Populations (8.6) and Clinical Pharmacology (12.6)].
-
-### Patients with hepatic impairment
-
-The recommended dose in patients with hepatic impairment is 50 mg/day.
-Dose escalation above 100 mg/day is not recommended [see Clinical Pharmacology (12.6)].
-
-### Elderly patients
-
-No dosage adjustment is required solely on the basis of age; however, the possibility of reduced renal clearance of PRISTIQ should be considered when determining the dose [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.6)].
+The recommended dose in patients with moderate to severe hepatic impairment is 50 mg per day.
+Dose escalation above 100 mg per day is not recommended [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Maintenance/Continuation/Extended Treatment
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
-However, the longer-term efficacy of PRISTIQ at a dose of 50 mg/day that was effective in short-term, controlled studies has not been studied.
+Longer-term efficacy of PRISTIQ (50–400 mg) was established in two maintenance trials [see Clinical Studies (14)].
 Patients should be periodically reassessed to determine the need for continued treatment.
 
 ## 2.4 Discontinuing PRISTIQ
@@ -53,9 +41,9 @@ Subsequently, the physician may continue decreasing the dose, but at a more grad
 ## 2.5 Switching Patients From Other Antidepressants to PRISTIQ
 
 Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to PRISTIQ.
-Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms [see Contraindications (4.2)].
+Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms.
 
-## 2.6 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## 2.6 Switching Patients To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PRISTIQ.
 Conversely, at least 7 days should be allowed after stopping PRISTIQ before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.2)].

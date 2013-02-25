@@ -1,11 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Clinical Worsening and Suicide Risk
+## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled studies of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled studies of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled studies in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term studies of 9 antidepressant drugs in over 4,400 patients.
@@ -13,17 +13,17 @@ The pooled analyses of placebo-controlled studies in adults with MDD or other ps
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
 Table 1
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 25 to 64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric studies.
@@ -39,13 +39,14 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.9) and Dosage and Administration (2.3) for a description of the risks of discontinuation of PRISTIQ].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.7) for a description of the risks of discontinuation of PRISTIQ].
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
+
 Prescriptions for PRISTIQ should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-### Screening patients for bipolar disorder
+Screening patients for bipolar disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled studies) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -73,28 +74,13 @@ Treatment with PRISTIQ and any concomitant serotonergic agents should be discont
 
 ## 5.3 Elevated Blood Pressure
 
-Patients receiving PRISTIQ should have regular monitoring of blood pressure since increases in blood pressure were observed in clinical studies.
+Patients receiving PRISTIQ should have regular monitoring of blood pressure since increases in blood pressure were observed in clinical studies [see Adverse Reactions (6.1)].
 Pre-existing hypertension should be controlled before initiating treatment with PRISTIQ.
-Caution should be exercised in treating patients with pre-existing hypertension or other underlying conditions that might be compromised by increases in blood pressure.
+Caution should be exercised in treating patients with pre-existing hypertension, cardiovascular, or cerebrovascular conditions that might be compromised by increases in blood pressure.
 Cases of elevated blood pressure requiring immediate treatment have been reported with PRISTIQ.
-
-### Sustained hypertension
 
 Sustained blood pressure increases could have adverse consequences.
 For patients who experience a sustained increase in blood pressure while receiving PRISTIQ, either dose reduction or discontinuation should be considered [see Adverse Reactions (6.1)].
-Treatment with PRISTIQ at all doses from 50 mg/day to 400 mg/day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥ 90 mm Hg and ≥ 10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 2).
-Analyses of patients in PRISTIQ controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
-This was seen at all doses with a suggestion of a higher rate at 400 mg/day.
-
-Table 2: Proportion of Patients with Sustained Elevation of Supine Diastolic Blood Pressure
-
-| Treatment Group | Proportion of Patients with Sustained Hypertension |
-| --- | --- |
-| Placebo | 0.5% |
-| PRISTIQ 50 mg/day | 1.3% |
-| PRISTIQ 100 mg/day | 0.7% |
-| PRISTIQ 200 mg/day | 1.1% |
-| PRISTIQ 400 mg/day | 2.3% |
 
 ## 5.4 Abnormal Bleeding
 
@@ -110,23 +96,11 @@ Mydriasis has been reported in association with PRISTIQ; therefore, patients wit
 
 ## 5.6 Activation of Mania/Hypomania
 
-During all MDD and VMS (vasomotor symptoms) phase 2 and phase 3 studies, mania was reported for approximately 0.1% of patients treated with PRISTIQ.
+During all MDD phase 2 and phase 3 studies, mania was reported for approximately 0.02% of patients treated with PRISTIQ.
 Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorder who were treated with other marketed antidepressants.
 As with all antidepressants, PRISTIQ should be used cautiously in patients with a history or family history of mania or hypomania.
 
-## 5.7 Cardiovascular/Cerebrovascular Disease
-
-Caution is advised in administering PRISTIQ to patients with cardiovascular, cerebrovascular, or lipid metabolism disorders [see Adverse Reactions (6.1)].
-Increases in blood pressure and small increases in heart rate were observed in clinical studies with PRISTIQ.
-PRISTIQ has not been evaluated systematically in patients with a recent history of myocardial infarction, unstable heart disease, uncontrolled hypertension, or cerebrovascular disease.
-Patients with these diagnoses, except for cerebrovascular disease, were excluded from clinical studies.
-
-## 5.8 Serum Cholesterol and Triglyceride Elevation
-
-Dose-related elevations in fasting serum total cholesterol, LDL (low density lipoprotein) cholesterol, and triglycerides were observed in the controlled studies.
-Measurement of serum lipids should be considered during treatment with PRISTIQ [see Adverse Reactions (6.1)].
-
-## 5.9 Discontinuation of Treatment with PRISTIQ
+## 5.7 Discontinuation Syndrome
 
 Discontinuation symptoms have been systematically and prospectively evaluated in patients treated with PRISTIQ during clinical studies in Major Depressive Disorder.
 Abrupt discontinuation or dose reduction has been associated with the appearance of new symptoms that include dizziness, nausea, headache, irritability, insomnia, diarrhea, anxiety, fatigue, abnormal dreams, and hyperhidrosis.
@@ -140,21 +114,14 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose, but at a more gradual rate [see Dosage and Administration (2.4) and Adverse Reactions (6.1)].
 
-## 5.10 Renal Impairment
-
-In patients with moderate or severe renal impairment or end-stage renal disease (ESRD) the clearance of PRISTIQ was decreased, thus prolonging the elimination half-life of the drug.
-As a result, there were potentially clinically significant increases in exposures to PRISTIQ [see Clinical Pharmacology (12.6)].
-Dosage adjustment (50 mg every other day) is necessary in patients with severe renal impairment or ESRD.
-The doses should not be escalated in patients with moderate or severe renal impairment or ESRD [see Dosage and Administration (2.2)].
-
-## 5.11 Seizure
+## 5.8 Seizure
 
 Cases of seizure have been reported in pre-marketing clinical studies with PRISTIQ.
 PRISTIQ has not been systematically evaluated in patients with a seizure disorder.
 Patients with a history of seizures were excluded from pre-marketing clinical studies.
 PRISTIQ should be prescribed with caution in patients with a seizure disorder.
 
-## 5.12 Hyponatremia
+## 5.9 Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including PRISTIQ.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -166,12 +133,7 @@ Discontinuation of PRISTIQ should be considered in patients with symptomatic hyp
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-## 5.13 Co-administration of Drugs Containing Desvenlafaxine and Venlafaxine
-
-Desvenlafaxine is the major active metabolite of venlafaxine.
-Products containing desvenlafaxine and products containing venlafaxine should not be used concomitantly with PRISTIQ.
-
-## 5.14 Interstitial Lung Disease and Eosinophilic Pneumonia
+## 5.10 Interstitial Lung Disease and Eosinophilic Pneumonia
 
 Interstitial lung disease and eosinophilic pneumonia associated with venlafaxine (the parent drug of PRISTIQ) therapy have been rarely reported.
 The possibility of these adverse events should be considered in patients treated with PRISTIQ who present with progressive dyspnea, cough, or chest discomfort.
