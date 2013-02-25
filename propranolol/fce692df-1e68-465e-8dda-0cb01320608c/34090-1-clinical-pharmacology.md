@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## General
+General
 
 Propranolol is a nonselective, beta-adrenergic receptor-blocking agent possessing no other autonomic nervous system activity.
 It specifically competes with beta-adrenergic receptor-stimulating agents for available receptor sites.
@@ -12,7 +12,7 @@ Inderal LA should not be considered a simple mg-for-mg substitute for convention
 When changing to Inderal LA from conventional propranolol, a possible need for retitration upwards should be considered, especially to maintain effectiveness at the end of the dosing interval.
 In most clinical settings, however, such as hypertension or angina where there is little correlation between plasma levels and clinical effect, Inderal LA has been therapeutically equivalent to the same mg dose of conventional Inderal as assessed by 24-hour effects on blood pressure and on 24-hour exercise responses of heart rate, systolic pressure, and rate pressure product.
 
-## Mechanism of Action
+Mechanism of Action
 
 The mechanism of the antihypertensive effect of propranolol has not been established.
 Among the factors that may be involved in contributing to the antihypertensive action include: (1) decreased cardiac output, (2) inhibition of renin release by the kidneys, and (3) diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain.

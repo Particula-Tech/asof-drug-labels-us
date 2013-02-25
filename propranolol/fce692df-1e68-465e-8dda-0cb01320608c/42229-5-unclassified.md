@@ -1,6 +1,6 @@
 # PHARMACOKINETICS AND DRUG METABOLISM
 
-## Absorption
+Absorption
 
 Propranolol is highly lipophilic and almost completely absorbed after oral administration.
 However, it undergoes high first pass metabolism by the liver and on average, only about 25% of propranolol reaches the systemic circulation.
@@ -9,7 +9,7 @@ Peak blood levels following dosing with Inderal LA occur at about 6 hours.
 
 The effect of food on Inderal LA bioavailability has not been investigated.
 
-## Distribution
+Distribution
 
 Approximately 90% of circulating propranolol is bound to plasma proteins (albumin and alpha-1-acid glycoprotein).
 The binding is enantiomer-selective.
@@ -18,7 +18,7 @@ The volume of distribution of propranolol is approximately 4 liters/kg.
 
 Propranolol crosses the blood-brain barrier and the placenta, and is distributed into breast milk.
 
-## Metabolism and Elimination
+Metabolism and Elimination
 
 Propranolol is extensively metabolized with most metabolites appearing in the urine.
 Propranolol is metabolized through three primary routes: aromatic hydroxylation (mainly 4-hydroxylation), N-dealkylation followed by further side-chain oxidation, and direct glucuronidation.
@@ -40,14 +40,14 @@ The lower AUCs for the Inderal LA capsules are due to greater hepatic metabolism
 Over a twenty-four (24) hour period, blood levels are fairly constant for about twelve (12) hours, then decline exponentially.
 The apparent plasma half-life is about 10 hours.
 
-## Enantiomers
+Enantiomers
 
 Propranolol is a racemic mixture of two enantiomers, R(+) and S(-).
 The S(-)-enantiomer is approximately 100 times as potent as the R(+)-enantiomer in blocking beta adrenergic receptors.
 In normal subjects receiving oral doses of racemic propranolol, S(-)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40-90% as a result of stereoselective hepatic metabolism.
 Clearance of the pharmacologically active S(-)-propranolol is lower than R(+)-propranolol after intravenous and oral doses.
 
-## Special Population
+Special Population
 
 Geriatric
 
@@ -96,7 +96,7 @@ Propranolol is extensively metabolized by the liver.
 In a study conducted in 6 patients with cirrhosis and 7 healthy subjects receiving 160 mg of a long-acting preparation of propranolol once a day for 7 days, the steady-state propranolol concentration in patients with cirrhosis was increased 2.5-fold in comparison to controls.
 In the patients with cirrhosis, the half-life obtained after a single intravenous dose of 10 mg propranolol increased to 7.2 hours compared to 2.9 hours in control (see PRECAUTIONS).
 
-## Drug Interactions
+Drug Interactions
 
 All drug interaction studies were conducted with propranolol.
 There are no data on drug interactions with Inderal LA capsules.
@@ -219,11 +219,3 @@ Hypertrophic Subaortic Stenosis
 
 In an uncontrolled series of 13 patients with New York Heart Association (NYHA) class 2 or 3 symptoms and hypertrophic subaortic stenosis diagnosed at cardiac catheterization, oral propranolol 40-80 mg t.i.d. was administered and patients were followed for up to 17 months.
 Propranolol was associated with improved NYHA class for most patients.
-
-Manufactured for Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 By Wyeth Pharmaceuticals, Inc., a subsidiary of Pfizer, Inc. Philadelphia, PA 19101
-
-Marketed and Distributed by Akrimax Pharmaceuticals, LLC Cranford, NJ 07016
-
-447F003 10/11
-
-LAB-0553-1.0 Revised October 2011

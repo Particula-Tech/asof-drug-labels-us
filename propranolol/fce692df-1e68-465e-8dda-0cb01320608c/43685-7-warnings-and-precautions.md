@@ -51,7 +51,7 @@ In one case, this result was reported after an initial dose of 5 mg propranolol.
 
 # PRECAUTIONS
 
-## General
+General
 
 Propranolol should be used with caution in patients with impaired hepatic or renal function.
 Inderal LA is not indicated for the treatment of hypertensive emergencies.
@@ -63,19 +63,19 @@ Withdrawal may lead to a return of increased intraocular pressure.
 While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
-## Clinical Laboratory Tests
+Clinical Laboratory Tests
 
 In patients with hypertension, use of propranolol has been associated with elevated levels of serum potassium, serum transaminases, and alkaline phosphatase.
 In severe heart failure, the use of propranolol has been associated with increases in Blood Urea Nitrogen.
 
-## Drug Interactions
+Drug Interactions
 
 Caution should be exercised when Inderal LA is administered with drugs that have an affect on CYP2D6, 1A2, or 2C19 metabolic pathways.
 Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see Drug Interactions in PHARMACOKINETICS AND DRUG METABOLISM).
 
 Alcohol when used concomitantly with propranolol, may increase plasma levels of propranolol.
 
-## Cardiovascular Drugs
+Cardiovascular Drugs
 
 Antiarrhythmics
 
@@ -131,7 +131,7 @@ Isoproterenol and Dobutamine
 Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
 Also, propranolol may reduce sensitivity to dobutamine stress echocardiography in patients undergoing evaluation for myocardial ischemia.
 
-## Non-Cardiovascular Drugs
+Non-Cardiovascular Drugs
 
 Nonsteroidal Anti-Inflammatory Drugs
 
@@ -160,14 +160,14 @@ Thyroxine
 
 Thyroxine may result in a lower than expected T3 concentration when used concomitantly with propranolol.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In dietary administration studies in which mice and rats were treated with propranolol hydrochloride for up to 18 months at doses of up to 150 mg/kg/day, there was no evidence of drug-related tumorigenesis.
 On a body surface area basis, this dose in the mouse and rat is, respectively, about equal to and about twice the maximum recommended human oral daily dose (MRHD) of 640 mg propranolol hydrochloride.
 In a study in which both male and female rats were exposed to propranolol hydrochloride in their diets at concentrations of up to 0.05% (about 50 mg/kg body weight and less than the MRHD), from 60 days prior to mating and throughout pregnancy and lactation for two generations, there were no effects on fertility.
 Based on differing results from Ames Tests performed by different laboratories, there is equivocal evidence for a genotoxic effect of propranolol in bacteria (S. typhimurium strain TA 1538).
 
-## Pregnancy: Pregnancy Category C
+Pregnancy: Pregnancy Category C
 
 In a series of reproductive and developmental toxicology studies, propranolol was given to rats by gavage or in the diet throughout pregnancy and lactation.
 At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the MRHD on a body surface area basis), treatment was associated with embryotoxicity (reduced litter size and increased resorption rates) as well as neonatal toxicity (deaths).
@@ -180,18 +180,18 @@ Neonates whose mothers are receiving propranolol at parturition have exhibited b
 Adequate facilities for monitoring such infants at birth should be available.
 Inderal LA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers
+Nursing Mothers
 
 Propranolol is excreted in human milk.
 Caution should be exercised when Inderal LA is administered to a nursing woman.
 
-## Pediatric Use
+Pediatric Use
 
 Safety and effectiveness of propranolol in pediatric patients have not been established.
 
 Bronchospasm and congestive heart failure have been reported coincident with the administration of propranolol therapy in pediatric patients.
 
-## Geriatric Use
+Geriatric Use
 
 Clinical studies of Inderal LA did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
