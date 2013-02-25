@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide
+See FDA-approved patient labeling (Medication Guide)
 
 ## 17.1 Initiate Treatment and Continue to Attempt to Quit if Lapse
 

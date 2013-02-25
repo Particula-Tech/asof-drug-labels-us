@@ -157,7 +157,10 @@ Vascular Disorders.
 Frequent: hot flush.
 Infrequent: thrombosis.
 
-CHANTIX has also been studied in a trial conducted in patients with stable cardiovascular disease, a trial conducted in patients with chronic obstructive pulmonary disease (COPD) and a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial").
+CHANTIX has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD) (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial").
+(3) a trial conducted in patients with stable cardiovascular disease and (4) a trial conducted in patients with stable schizophrenia or schizoaffective disorder.
+
+Adverse events in the trial of patients with COPD and in the alternative quit date instruction trial were quantitatively and qualitatively similar to those observed in premarketing studies.
 
 In the trial of patients with stable cardiovascular disease, more types and a greater number of cardiovascular events were reported compared to premarketing studies.
 Treatment-emergent (on-treatment or 30 days after treatment) cardiovascular events reported with a frequency ≥ 1% in either treatment group in this study were angina pectoris (3.7% and 2.0% for varenicline and placebo, respectively), chest pain (2.5% vs. 2.3%), peripheral edema (2.0% vs. 1.1%), hypertension (1.4% vs. 2.6%), and palpitations (0.6 % vs. 1.1%).
@@ -167,7 +170,21 @@ During non-treatment follow up to 52 weeks, the adjudicated events included need
 Some of the patients requiring coronary revascularization underwent the procedure as part of management of nonfatal MI and hospitalization for angina.
 Cardiovascular death occurred in 0.3% of patients in the varenicline arm and 0.6% of patients in the placebo arm over the course of the 52-week study.
 
-Adverse events in the trial of patients with COPD and in the alternative quit date instruction trial were quantitatively and qualitatively similar to those observed in premarketing studies.
+In the trial of patients with stable schizophrenia or schizoaffective disorder, 128 smokers on antipsychotic medication were randomized 2:1 to varenicline (1 mg twice daily) or placebo for 12 weeks with 12-week non-drug follow-up.
+The most common adverse events in patients taking varenicline were nausea (24% vs. 14.0% on placebo), headache (11% vs. 19% on placebo) and vomiting (11% vs. 9% on placebo).
+Among reported neuropsychiatric adverse events, insomnia was the only event that occurred in either treatment group in ≥ 5% of subjects at a rate higher in the varenicline group than in placebo (10% vs. 5%).
+These common and neuropsychiatric adverse events occurred on treatment or within 30 days after the last dose of study drug.
+There was no consistent worsening of schizophrenia in either treatment group as measured by the Positive and Negative Syndrome Scale.
+There were no overall changes in extra-pyramidal signs, as measured by the Simpson-Angus Rating Scale.
+The Columbia-Suicide Severity Rating Scale was administered at baseline and at clinic visits during the treatment and non-treatment follow-up phases.
+Over half of the patients had a lifetime history of suicidal behavior and/or ideation (62% on varenicline vs. 51% on placebo), but at baseline, no patients in the varenicline group reported suicidal behavior and/or ideation vs. one patient in the placebo group (2%).
+Suicidal behavior and/or ideation were reported in 11% of the varenicline-treated and 9% of the placebo-treated patients during the treatment phase.
+During the post-treatment phase, suicidal behavior and/or ideation were reported in 11% of patients in the varenicline group and 5% of patients in the placebo group.
+Many of the patients reporting suicidal behavior and ideation in the follow-up phase had not reported such experiences in the treatment phase.
+However, no new suicidal ideation or behavior emerged in either treatment group shortly (within one week) after treatment discontinuation (a phenomenon noted in post-marketing reporting).
+There were no completed suicides.
+There was one suicide attempt in a varenicline-treated patient.
+The limited data available from this single smoking cessation study are not sufficient to allow conclusions to be drawn.
 
 ## 6.2 Postmarketing Experience
 
