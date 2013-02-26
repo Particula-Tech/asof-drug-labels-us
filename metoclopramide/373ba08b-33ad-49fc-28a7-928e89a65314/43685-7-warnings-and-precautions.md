@@ -26,8 +26,9 @@ Cogentin® (benztropine mesylate), 1 to 2 mg intramuscularly, may also be used t
 Tardive Dyskinesia (see Boxed Warnings)
 
 Treatment with metoclopramide can cause tardive dyskinesia (TD), a potentially irreversible and disfiguring disorder characterized by involuntary movements of the face, tongue, or extremities.
-Although the risk of TD with metoclopramide has not been extensively studied, one published study reported a TD prevalence of 20% among patients treated for at least 12 weeks.
-Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
+The risk of tardive dyskinesia increases with the duration of treatment and the total cumulative dose.
+An analysis of utilization patterns showed that about 20% of patients who used metoclopramide took it longer than 12 weeks.
+Treatment with metoclopramide for longer than the recommended 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
 
 Although the risk of developing TD in the general population may be increased among the elderly, women, and diabetics, it is not possible to predict which patients will develop metoclopramide-induced TD.
 Both the risk of developing TD and the likelihood that TD will become irreversible increase with duration of treatment and total cumulative dose.
@@ -53,7 +54,7 @@ Metoclopramide should be given to patients with a prior history of depression on
 
 # PRECAUTIONS
 
-## General
+General
 
 In one study in hypertensive patients, intravenously administered metoclopramide was shown to release catecholamines, hence, caution should be exercised when metoclopramide is used in patients with hypertension.
 
@@ -67,17 +68,17 @@ Intravenous administration of Metoclopramide Injection, USP, diluted in a parent
 Giving a promotility drug such as metoclopramide theoretically could put increased pressure on suture lines following a gut anastomosis or closure.
 This possibility should be considered and weighed when deciding whether to use metoclopramide or nasogastric suction in the prevention of postoperative nausea and vomiting.
 
-## Information for Patients
+Information for Patients
 
 A patient Medication Guide is available for metoclopramide.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is printed at the end of this document.
+Refer to the accompanying Medication Guide.
 
 Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
 The ambulatory patient should be cautioned accordingly.
 
-## Drug Interactions
+Drug Interactions
 
 The effects of metoclopramide on gastrointestinal motility are antagonized by anticholinergic drugs and narcotic analgesics.
 Additive sedative effects can occur when metoclopramide is given with alcohol, sedatives, hypnotics, narcotics or tranquilizers.
@@ -90,7 +91,7 @@ Gastroparesis (gastric stasis) may be responsible for poor diabetic control in s
 Exogenously administered insulin may begin to act before food has left the stomach and lead to hypoglycemia.
 Because the action of metoclopramide will influence the delivery of food to the intestines and thus the rate of absorption, insulin dosage or timing of dosage may require adjustment.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A 77-week study was conducted in rats with oral doses up to about 40 times the maximum recommended human daily dose.
 Metoclopramide elevates prolactin levels and the elevation persists during chronic administration.
@@ -101,18 +102,18 @@ Neither clinical studies nor epidemiologic studies conducted to date, however, h
 
 An Ames mutagenicity test performed on metoclopramide was negative.
 
-## Pregnancy Category B
+Pregnancy Category B
 
 Reproduction studies performed in rats, mice, and rabbits by the IM, IV, subcutaneous (SC), and oral routes at maximum levels ranging from 12 to 250 times the human dose have demonstrated no impairment of fertility or significant harm to the fetus due to metoclopramide.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## Nursing Mothers
+Nursing Mothers
 
 Metoclopramide is excreted in human milk.
 Caution should be exercised when metoclopramide is administered to a nursing mother.
 
-## Pediatric Use
+Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established except as stated to facilitate small bowel intubation (see OVERDOSAGE and DOSAGE AND ADMINISTRATION).
 
@@ -122,9 +123,9 @@ In addition, neonates have reduced levels of NADH-cytochrome b5 reductase which,
 
 The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients.
 Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults.
-(See WARNINGS and ADVERSE REACTIONS–Extrapyramidal Reactions.)
+(See WARNINGS and ADVERSE REACTIONS – Extrapyramidal Reactions (EPS).)
 
-## Geriatric Use
+Geriatric Use
 
 Clinical studies of metoclopramide did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
 
@@ -132,14 +133,16 @@ The risk of developing parkinsonian-like side effects increases with ascending d
 Geriatric patients should receive the lowest dose of metoclopramide that is effective.
 If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide, metoclopramide should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS).
 
-The elderly may be at greater risk for tardive dyskinesia (see WARNINGS–Tardive Dyskinesia).
+The elderly may be at greater risk for tardive dyskinesia (see WARNINGS – Tardive Dyskinesia).
 
 Sedation has been reported in metoclopramide users.
-Sedation may cause confusion and manifest as over-sedation in elderly (see CLINICAL PHARMACOLOGY, PRECAUTIONS–Information for Patients and ADVERSE REACTIONS–CNS Effects).
+Sedation may cause confusion and manifest as over-sedation in elderly (see CLINICAL PHARMACOLOGY, PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – CNS Effects).
 
-Metoclopramide is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION–Use in Patients with Renal or Hepatic Impairment).
+Metoclopramide is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION – Use in Patients with Renal or Hepatic Impairment).
 
-For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION–Use in Patients with Renal or Hepatic Impairment).
+For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION – Use in Patients with Renal or Hepatic Impairment).
 
-Other Special Populations: Patients with NADH-cytochrome b5 reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia when metoclopramide is administered.
+Other Special Populations
+
+Patients with NADH-cytochrome b5 reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia when metoclopramide is administered.
 In patients with G6PD deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (see OVERDOSAGE).

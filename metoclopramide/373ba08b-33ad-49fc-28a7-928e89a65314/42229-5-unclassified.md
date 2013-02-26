@@ -1,4 +1,4 @@
-Ampul
+Injection, USP
 
 Fliptop Vial
 
