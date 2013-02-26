@@ -26,7 +26,7 @@ Who should not take ZETIA?
 - Do not take ZETIA if you are allergic to ezetimibe, the active ingredient in ZETIA, or to the inactive ingredients.
   For a list of inactive ingredients, see the "Inactive ingredients" section that follows.
 - If you have active liver disease, do not take ZETIA while taking cholesterol-lowering medicines called statins.
-- If you are pregnant or breast-feeding, do not take ZETIA while taking a statin.
+- If you are pregnant or breastfeeding, do not take ZETIA while taking a statin.
 - If you are a woman of childbearing age, you should use an effective method of birth control to prevent pregnancy while using ZETIA added to statin therapy.
 
 ZETIA has not been studied in children under age 10.
@@ -43,7 +43,7 @@ Tell your doctor if you:
   ZETIA may not be right for you.
 - are pregnant or plan to become pregnant.
   Your doctor will discuss with you whether ZETIA is right for you.
-- are breast-feeding.
+- are breastfeeding.
   We do not know if ZETIA can pass to your baby through your milk.
   Your doctor will discuss with you whether ZETIA is right for you.
 - experience unexplained muscle pain, tenderness, or weakness.
@@ -106,12 +106,12 @@ Inactive ingredients:
 
 Croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 
-Merck Sharp & Dohm Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
 
-Copyright © (2001-2012) MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2012 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2012
+Revised: 02/2013
 
-USPPI-T-06531206R024
+USPPI-T-06531302R025

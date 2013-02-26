@@ -29,8 +29,8 @@ Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station
 
 U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
 
-Copyright © (2001-2012) MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2012 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2012
+Revised: 02/2013
 
-USPI-T-06531206R024
+USPI-T-06531302R025
