@@ -19,9 +19,8 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30
 For Single-Use Only.
 Discard unused portion.
 
-LATEX-FREE
-
 Sterile, Nonpyrogenic, Preservative-free.
+The container closure is not made with natural rubber latex.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -30,4 +29,4 @@ SAGENT™
 
 Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2012 Sagent Pharmaceuticals, Inc.
 
-Revised: June 2012
+Revised: October 2012

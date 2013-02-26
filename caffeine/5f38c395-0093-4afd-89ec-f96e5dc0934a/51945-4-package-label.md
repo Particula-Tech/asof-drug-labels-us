@@ -10,10 +10,10 @@ Caffeine Citrate Injection, USP
 
 (20 mg per mL)
 
-LATEX-FREE
-
 For IV Use Only
 
 3 mL Single-Dose Vial
 
 Discard unused portion
+
+For Intravenous Use Only
