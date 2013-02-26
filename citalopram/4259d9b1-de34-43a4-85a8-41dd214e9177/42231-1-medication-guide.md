@@ -272,4 +272,4 @@ Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, 
 
 Licensed from H. Lundbeck A/S
 
-© 2010, 2011, 2012 Forest Laboratories, Inc.
+© 2010, 2011, 2012Forest Laboratories, Inc.
