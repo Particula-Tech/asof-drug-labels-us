@@ -34,6 +34,21 @@ This swelling is associated with the headache pain of a migraine attack.
 ZOMIG blocks the release of substances from nerve endings that cause more pain and other symptoms like nausea, and sensitivity to light and sound.
 It is thought that these actions contribute to relief of your symptoms by ZOMIG.
 
+- Who should not take ZOMIG?
+- Do not take ZOMIG if you:
+- •Have heart disease or a history of heart disease
+- •Have uncontrolled high blood pressure
+- •Have hemiplegic or basilar migraine (if you are not sure about this, ask your doctor)
+- •Have or had a stroke or problems with your blood circulation
+- •Have serious liver problems
+- •Have taken any of the following medicines in the last 24 hours: other “triptans” like almotriptan (AXERT®), eletriptan (RELPAX®), frovatriptan (FROVA®), naratriptan (AMERGE®), rizatriptan (MAXALT®), sumatriptan (IMITREX®), sumatriptan/naproxen (TREXIMET); ergotamines like BELLERGAL-S®, CAFERGOT®, ERGOMAR®, WIGRAINE®; dihydroergotamine like D.H.E.
+  45® or MIGRANAL®; or methysergide (SANSERT®).
+  These medications have side effects similar to ZOMIG.
+- •Have taken monoamine oxidase (MAO) inhibitors such as phenelzine sulfate (NARDIL®) or tranylcypromine sulfate (PARNATE®) for depression or other conditions within the last 2 weeks.
+- •Are allergic to ZOMIG or any of its ingredients.
+  The active ingredient is zolmitriptan.
+  The inactive ingredients are listed at the end of this leaflet.
+
 Tell your doctor about all the medicines you take or plan to take, including prescription and non-prescription medicines, supplements, and herbal remedies.
 
 Tell your doctor if you are sensitive to phenylalanine, which can be found in the artificial sweetener aspartame.
