@@ -72,7 +72,7 @@ TSH levels should be closely monitored in such patients.
 
 ## 5.10 Toxicities from Long-Term Use
 
-It is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney and cardiac toxicity and immunosuppression.
+It is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney, and cardiac toxicity and immunosuppression.
 Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia.
 Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralization and dilation of the renal tubules and tubular nephrosis.
 Increased BUN and creatinine were observed in several of these animals.

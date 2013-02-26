@@ -16,7 +16,7 @@ For daily dosing of 800 mg and above, dosing should be accomplished using the 40
 
 Treatment may be continued as long as there is no evidence of progressive disease or unacceptable toxicity.
 
-## 2.1 Adult Patients with Ph+ CML CP, AP and BC
+## 2.1 Adult Patients with Ph+ CML CP, AP, and BC
 
 The recommended dose of Gleevec is 400 mg/day for adult patients in chronic phase CML and 600 mg/day for adult patients in accelerated phase or blast crisis.
 
@@ -75,12 +75,12 @@ If patients must be co-administered a strong CYP3A4 inducer, based on pharmacoki
 Hepatic Impairment: Patients with mild and moderate hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
 A 25% decrease in the recommended dose should be used for patients with severe hepatic impairment [see Use in Specific Populations (8.6)].
 
-Renal Impairment: Patients with moderate renal impairment (CrCL = 20-39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
-Doses greater than 600 mg are not recommended in patients with mild renal impairment (CrCL = 40-59 mL/min).
+Renal Impairment: Patients with moderate renal impairment (CrCL=20-39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
+Doses greater than 600 mg are not recommended in patients with mild renal impairment (CrCL=40-59 mL/min).
 For patients with moderate renal impairment doses greater than 400 mg are not recommended.
 
 Imatinib should be used with caution in patients with severe renal impairment.
-A dose of 100 mg/day was tolerated in two patients with severe renal impairment [See Warnings and Precautions (5.3),Use in Specific Populations (8.7)].
+A dose of 100 mg/day was tolerated in two patients with severe renal impairment [See Warnings and Precautions (5.3), Use in Specific Populations (8.7)].
 
 ## 2.12 Dose Adjustment for Hepatotoxicity and Non-Hematologic Adverse Reactions
 

@@ -38,4 +38,4 @@ No dose adjustment is necessary, however, caution is recommended when administer
 In vitro, Gleevec inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 µM).
 Co-administration of Gleevec (400 mg/day for eight days) with acetaminophen (1000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
 Gleevec pharmacokinetics were not altered in the presence of single-dose acetaminophen.
-There is no pharmacokinetic or safety data on the concomitant use of Gleevec at doses > 400 mg/day or the chronic use of concomitant acetaminophen and Gleevec.
+There is no pharmacokinetic or safety data on the concomitant use of Gleevec at doses >400 mg/day or the chronic use of concomitant acetaminophen and Gleevec.

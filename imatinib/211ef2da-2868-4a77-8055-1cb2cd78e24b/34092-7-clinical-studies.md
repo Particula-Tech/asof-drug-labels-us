@@ -29,18 +29,18 @@ Patients that crossed over prior to progression were not censored at the time of
 The estimated rate of progression-free survival at 84 months in the ITT population was 81.2 % [95% CI: 78, 85] in the Gleevec arm and 60.6 % [56, 65] in the IFN arm (p<0.0001, log-rank test), (Figure 1).
 With 7 years follow up there were 93 (16.8%) progression events in the Gleevec arm: 37(6.7%) progression to AP/BC, 31(5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC and 10 (1.8%) CML unrelated deaths.
 In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm of which 130 occurred during first-line treatment with IFN-Ara-C.
-The estimated rate of patients free of progression to accelerated phase (AP) or blast crisis (BC) at 84 months was 92.5 %[90, 95] in the Gleevec arm compared to the 85.1%, [82, 89] (p≤0.001) in the IFN arm, (Figure 2).
+The estimated rate of patients free of progression to accelerated phase (AP) or blast crisis (BC) at 84 months was 92.5%[90, 95] in the Gleevec arm compared to the 85.1%, [82, 89] (p≤0.001) in the IFN arm, (Figure 2).
 The annual rates of any progression events have decreased with time on therapy.
 The probability of remaining progression free at 60 months was 95% for patients who were in complete cytogenetic response (CCyR) with molecular response (≥3 log reduction in Bcr-Abl transcripts as measured by quantitative reverse transcriptase polymerase chain reaction) at 12 months, compared to 89% for patients in complete cytogenetic response but without a major molecular response and 70% in patients who were not in complete cytogenetic response at this time point (p<0.001).
 
 A total of 71 (12.8%) and 85 (15.4%) patients died in the Gleevec and IFN+Ara-C group, respectively.
 At 84 months the estimated overall survival is 86.4% (83, 90) vs. 83.3% (80, 87) in the randomized Gleevec and the IFN+Ara-C group, respectively (p=0.073 log-rank test).
-The hazard ratio is 0.750 with 95% CI 0.547 – 1.028.
+The hazard ratio is 0.750 with 95% CI 0.547-1.028.
 This time-to-event endpoint may be affected by the high crossover rate from IFN+Ara-C to Gleevec.
 Major cytogenetic response, hematologic response, evaluation of minimal residual disease (molecular response), time to accelerated phase or blast crisis and survival were main secondary endpoints.
 Response data are shown in Table 16.
 Complete hematologic response, major cytogenetic response and complete cytogenetic response were also statistically significantly higher in the Gleevec arm compared to the IFN + Ara-C arm (no cross-over data considered for evaluation of responses).
-Median time to CCyR in the 454 responders was 6 months (range 2-64 months, 25th to 75th percentiles = 3 to 11 months) with 10% of responses seen only after 22 months of therapy).
+Median time to CCyR in the 454 responders was 6 months (range 2-64 months, 25th to 75th percentiles=3 to 11 months) with 10% of responses seen only after 22 months of therapy).
 
 Table 16 Response in Newly Diagnosed CML Study (84-Month Data)
 
@@ -59,7 +59,7 @@ Table 16 Response in Newly Diagnosed CML Study (84-Month Data)
 | *p<0.001, Fischer’s exact test 1Hematologic response criteria (all responses to be confirmed after ≥4 weeks): WBC<10 x 109/L, platelet <450 x 109/L, myelocyte + metamyelocyte <5% in blood, no blasts and promyelocytes in blood, no extramedullary involvement. 2Cytogenetic response criteria (confirmed after ≥4 weeks): complete (0% Ph+ metaphases) or partial (1%-35%). A major response (0%-35%) combines both complete and partial responses. 3Unconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation. |  |  |
 
 Molecular response was defined as follows: in the peripheral blood, after 12 months of therapy, reduction of ≥3 logarithms in the amount of bcr-abl transcripts (measured by real-time quantitative reverse transcriptase PCR assay) over a standardized baseline.
-Molecular response was only evaluated in a subset of patients who had a complete cytogenetic response by 12 months or later (N = 333).
+Molecular response was only evaluated in a subset of patients who had a complete cytogenetic response by 12 months or later (N=333).
 The molecular response rate in patients who had a complete cytogenetic response in the Gleevec arm was 59% at 12 months and 72% at 24 months.
 
 Physical, functional, and treatment-specific biologic response modifier scales from the FACT-BRM (Functional Assessment of Cancer Therapy - Biologic Response Modifier) instrument were used to assess patient-reported general effects of interferon toxicity in 1,067 patients with CML in chronic phase.

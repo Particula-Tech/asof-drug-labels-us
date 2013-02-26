@@ -28,7 +28,7 @@ The main circulating active metabolite in humans is the N-demethylated piperazin
 It shows in vitro potency similar to the parent imatinib.
 The plasma AUC for this metabolite is about 15% of the AUC for imatinib.
 The plasma protein binding of N-demethylated metabolite CGP74588 is similar to that of the parent compound.
-Human liver microsome studies demonstrated that Gleevec is a potent competitive inhibitor of CYP2C9, CYP2D6, and CYP3A4/5 with Ki values of 27, 7.5 and 8 µM, respectively.
+Human liver microsome studies demonstrated that Gleevec is a potent competitive inhibitor of CYP2C9, CYP2D6, and CYP3A4/5 with Ki values of 27, 7.5, and 8 µM, respectively.
 
 Imatinib elimination is predominately in the feces, mostly as metabolites.
 Based on the recovery of compound(s) after an oral 14C-labeled dose of imatinib, approximately 81% of the dose was eliminated within 7 days, in feces (68% of dose) and urine (13% of dose).

@@ -59,7 +59,7 @@ Table 2 Adverse Reactions Regardless of Relationship to Study Drug Reported in N
 
 Table 3 Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (≥10% of All Patients in any Trial)(1)
 
-|  | Myeloid Blast Crisis (n= 260) |  | Accelerated Phase (n=235) |  | Chronic Phase, IFN Failure (n=532) |  |
+|  | Myeloid Blast Crisis (n=260) |  | Accelerated Phase (n=235) |  | Chronic Phase, IFN Failure (n=532) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | % |  | % |  | % |  |
 | Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
@@ -172,16 +172,16 @@ In combination with multi-agent chemotherapy
 
 Pediatric and young adult patients with very high risk ALL, defined as those with an expected 5 year event-free survival (EFS) less than 45%, were enrolled after induction therapy on a multicenter, non-randomized cooperative group pilot protocol.
 The study population included patients with a median age of 10 years (1 to 21 years), 61% of whom were male, 75% were white, 7% were black and 6% were Asian/Pacific Islander.
-Patients with Ph+ ALL (n = 92) were assigned to receive Gleevec and treated in 5 successive cohorts.
+Patients with Ph+ ALL (n=92) were assigned to receive Gleevec and treated in 5 successive cohorts.
 Gleevec exposure was systematically increased in successive cohorts by earlier introduction and more prolonged duration.
 
-The safety of Gleevec given in combination with intensive chemotherapy was evaluated by comparing the incidence of grade 3 and 4 adverse events, neutropenia (<750/µL) and thrombocytopenia (< 75,000/ µL) in the 92 patients with Ph+ ALL compared to 65 patients with Ph- ALL enrolled on the trial who did not receive Gleevec.
+The safety of Gleevec given in combination with intensive chemotherapy was evaluated by comparing the incidence of grade 3 and 4 adverse events, neutropenia (<750/µL) and thrombocytopenia (<75,000/ µL) in the 92 patients with Ph+ ALL compared to 65 patients with Ph- ALL enrolled on the trial who did not receive Gleevec.
 The safety was also evaluated comparing the incidence of adverse events in cycles of therapy administered with or without Gleevec.
 The protocol included up to 18 cycles of therapy.
 Patients were exposed to a cumulative total of 1425 cycles of therapy, 778 with Gleevec and 647 without Gleevec.
 The adverse events that were reported with a 5% or greater incidence in patients with Ph+ ALL compared to Ph- ALL or with a 1% or greater incidence in cycles of therapy that included Gleevec are presented in Table 6.
 
-Table 6 Adverse Reactions Reported More Frequently in Patients Treated with Study Drug (> 5%) or in Cycles with Study Drug (>1%)
+Table 6 Adverse Reactions Reported More Frequently in Patients Treated with Study Drug (>5%) or in Cycles with Study Drug (>1%)
 
 | Adverse Event | Per Patient Incidence Ph+ALL With Gleevec N = 92 | Per Patient Incidence Ph- ALL No Gleevec N = 65 | Per Patient Per Cycle Incidence With Gleevec* N = 778 | Per Patient Per Cycle Incidence No Gleevec** N = 647 |
 | --- | --- | --- | --- | --- |
@@ -246,7 +246,7 @@ None of the 5 patients in the phase 2 study with ASM discontinued Gleevec due to
 
 The safety profile in the HES/CEL patient population does not appear to be different from the safety profile of Gleevec observed in other hematologic malignancy populations, such as Ph+ CML.
 All patients experienced at least one adverse reaction, the most common being gastrointestinal, cutaneous and musculoskeletal disorders.
-Hematological abnormalities were also frequent, with instances of CTC Grade 3 leukopenia, neutropenia, lymphopenia and anemia.
+Hematological abnormalities were also frequent, with instances of CTC Grade 3 leukopenia, neutropenia, lymphopenia, and anemia.
 
 ## 6.10 Dermatofibrosarcoma Protuberans
 
@@ -292,7 +292,7 @@ Table 9 Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
 Unresectable and/or Malignant Metastatic GIST
 
 In the Phase 3 trials the majority of Gleevec-treated patients experienced adverse reactions at some time.
-The most frequently reported adverse reactions were edema, fatigue, nausea, abdominal pain, diarrhea, rash, vomiting, myalgia, anemia and anorexia.
+The most frequently reported adverse reactions were edema, fatigue, nausea, abdominal pain, diarrhea, rash, vomiting, myalgia, anemia, and anorexia.
 Drug was discontinued for adverse reactions in a total of 89 patients (5.4%).
 Superficial edema, most frequently periorbital or lower extremity edema was managed with diuretics, other supportive measures, or by reducing the dose of Gleevec [see Dosage and Administration (2.12)].
 Severe (CTC Grade 3/4) edema was observed in 182 patients (11.1%).
@@ -369,13 +369,13 @@ Table 11 Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant M
 Adjuvant Treatment of GIST
 
 In Study 1, the majority of both Gleevec and placebo treated patients experienced at least one adverse reaction at some time.
-The most frequently reported adverse reactions were similar to those reported in other clinical studies in other patient populations and include diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting and abdominal pain.
+The most frequently reported adverse reactions were similar to those reported in other clinical studies in other patient populations and include diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting, and abdominal pain.
 No new adverse reactions were reported in the adjuvant GIST treatment setting that had not been previously reported in other patient populations including patients with unresectable and/or malignant metastatic GIST.
 Drug was discontinued for adverse reactions in 57 patients (17%) and 11 patients (3%) of the Gleevec and placebo treated patients respectively.
-Edema, gastrointestinal disturbances (nausea, vomiting, abdominal distention and diarrhea), fatigue, low hemoglobin and rash were the most frequently reported adverse reactions at the time of discontinuation.
+Edema, gastrointestinal disturbances (nausea, vomiting, abdominal distention and diarrhea), fatigue, low hemoglobin, and rash were the most frequently reported adverse reactions at the time of discontinuation.
 
 In Study 2, discontinuation of therapy due to adverse reactions occurred in 15 patients (8%) and 27 patients (14%) of the Gleevec 12-month and 36-month treatment arms, respectively.
-As in previous trials the most common adverse reactions were diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting and abdominal pain.
+As in previous trials the most common adverse reactions were diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting, and abdominal pain.
 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 5% of the patients treated with Gleevec are shown in Table 12 (Study 1) and Table 13 (Study 2).
 There were no deaths attributable to Gleevec treatment in either trial.
@@ -500,7 +500,7 @@ The following adverse reactions have been reported during clinical trials of Gle
 
 Cardiac Disorders:
 
-Estimated 0.1%-1%: congestive cardiac failure, tachycardia, palpitations, pulmonary edema,
+Estimated 0.1%-1%: congestive cardiac failure, tachycardia, palpitations, pulmonary edema
 
 Estimated 0.01%-0.1%: arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris, pericardial effusion
 
@@ -508,17 +508,17 @@ Vascular Disorders:
 
 Estimated 1%-10%: flushing, hemorrhage
 
-Estimated 0.1%-1%: hypertension, hypotension, peripheral coldness, Raynauds phenomenon, hematoma,
+Estimated 0.1%-1%: hypertension, hypotension, peripheral coldness, Raynauds phenomenon, hematoma, subdural hematoma
 
 Clinical Laboratory Tests:
 
-Estimated 0.1%-1%: blood CPK increased, blood LDH increased,
+Estimated 0.1%-1%: blood CPK increased, blood LDH increased
 
 Estimated 0.01%-0.1%: blood amylase increased
 
 Dermatologic:
 
-Estimated 1%-10%: dry skin, alopecia, face edema, erythema, photosensitivity reaction,
+Estimated 1%-10%: dry skin, alopecia, face edema, erythema, photosensitivity reaction
 
 Estimated 0.1%-1%: exfoliative dermatitis, bullous eruption, nail disorder, purpura, psoriasis, rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, skin hyperpigmentation, onychoclasis, folliculitis, petechiae
 
@@ -528,9 +528,9 @@ Digestive:
 
 Estimated 1%-10%: abdominal distention, gastroesophageal reflux, dry mouth, gastritis
 
-Estimated 0.1%-1%: gastric ulcer, stomatitis, mouth ulceration, eructation, melena, esophagitis, ascites, hematemesis, chelitis, dysphagia, pancreatitis,
+Estimated 0.1%-1%: gastric ulcer, stomatitis, mouth ulceration, eructation, melena, esophagitis, ascites, hematemesis, chelitis, dysphagia, pancreatitis
 
-Estimated 0.01%-0.1%: colitis, ileus, inflammatory bowel disease,
+Estimated 0.01%-0.1%: colitis, ileus, inflammatory bowel disease
 
 General Disorders and Administration Site Conditions:
 

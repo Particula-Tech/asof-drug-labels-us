@@ -20,7 +20,7 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 
 Imatinib and its active metabolite are excreted into human milk.
 Based on data from three breastfeeding women taking Gleevec, the milk:plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
-Considering the combined concentration of imatinib and active metabolite, a breastfed infant could receive up to 10 % of the maternal therapeutic dose based on body weight.
+Considering the combined concentration of imatinib and active metabolite, a breastfed infant could receive up to 10% of the maternal therapeutic dose based on body weight.
 Because of the potential for serious adverse reactions in nursing infants from Gleevec, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
