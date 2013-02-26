@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trial Experience
 
@@ -10,7 +10,7 @@ Study 1 was a multi-center, randomized, double-blind, placebo-controlled study w
 
 Commonly observed adverse reactions (incidence of ≥2% in either active treatment group and greater than the rate on placebo) during the treatment period are listed in Table 2.
 
-Table 2 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial- Treatment Period (Study 1)
+Table 2 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial-Treatment Period (Study 1)
 
 |  | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- | --- |
@@ -48,11 +48,12 @@ Table 2 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial- Treatment 
 | Lower Respiratory Tract Infection | 0 | 3% | 1% |
 | Pollakiuria | 0 | 3% | 0 |
 | Sleep Terror | 0 | 3% | 0 |
-| * Somnolence includes the terms "somnolence" and "sedation". † Fatigue includes the terms "fatigue" and "lethargy". |  |  |  |
+
+* Somnolence includes the terms "somnolence" and "sedation". † Fatigue includes the terms "fatigue" and "lethargy".
 
 Commonly observed adverse reactions (incidence of ≥2% in either active treatment group and greater than the rate on placebo) during the taper period are listed in Table 3.
 
-Table 3 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial- Taper Period* (Study 1)
+Table 3 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial-Taper Period* (Study 1)
 
 |  | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- | --- |
@@ -63,7 +64,8 @@ Table 3 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial- Taper Peri
 | Somnolence | 3% | 2% | 0 |
 | Heart Rate Increased | 3% | 0 | 0 |
 | Otitis Media Acute | 0 | 3% | 0 |
-| * Taper Period: 0.2 mg dose, week 8; 0.4 mg dose, weeks 6-8; Placebo dose, weeks 6-8 |  |  |  |
+
+* Taper Period: 0.2 mg dose, week 8; 0.4 mg dose, weeks 6-8; Placebo dose, weeks 6-8
 
 Study 2: Flexible-dose KAPVAY as Adjunctive Therapy to Psychostimulants
 
@@ -71,9 +73,9 @@ Study 2 was a multi-center, randomized, double-blind, placebo-controlled study, 
 KAPVAY was initiated at 0.1 mg/day and titrated up to 0.4 mg/day over a 3-week period.
 Most KAPVAY treated patients (75.5%) were escalated to the maximum dose of 0.4 mg/day.
 
-Commonly observed adverse reactions (incidence of ≥2% in the treatment group and greater than the rate on placebo) during the treatment period are listed in Table 4.
+Commonly observed adverse reactions (incidence of ≥ 2% in the treatment group and greater than the rate on placebo) during the treatment period are listed in Table 4.
 
-Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial- Treatment Period (Study 2)
+Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial-Treatment Period (Study 2)
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -92,11 +94,12 @@ Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Th
 | Abdominal Pain | 2% | 1% |
 | Anxiety | 2% | 0 |
 | Pain in Extremity | 2% | 0 |
-| * Somnolence includes the terms: "somnolence" and "sedation". † Fatigue includes the terms "fatigue" and "lethargy". |  |  |
+
+* Somnolence includes the terms: "somnolence" and "sedation". † Fatigue includes the terms "fatigue" and "lethargy".
 
 Commonly observed adverse reactions (incidence of ≥2% in the treatment group and greater than the rate on placebo) during the taper period are listed in Table 5.
 
-Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial- Taper Period* (Study 2)
+Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial-Taper Period* (Study 2)
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -107,9 +110,8 @@ Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Th
 | Throat Pain | 3% | 1% |
 | Gastroenteritis Viral | 2% | 0 |
 | Rash | 2% | 0 |
-| * Taper Period: weeks 6-8 |  |  |
 
-Most common adverse reactions, defined as events that were reported in at least 5% of drug-treated patients and at least twice the rate as in placebo patients, during the treatment period were somnolence, fatigue, upper respiratory tract infection, irritability, throat pain, insomnia, nightmares, emotional disorder, constipation, nasal congestion, increased body temperature, dry mouth, and ear pain.
+* Taper Period: weeks 6-8 Most common adverse reactions, defined as events that were reported in at least 5% of drug-treated patients and at least twice the rate as in placebo patients, during the treatment period were somnolence, fatigue, upper respiratory tract infection, irritability, throat pain, insomnia, nightmares, emotional disorder, constipation, nasal congestion, increased body temperature, dry mouth, and ear pain.
 The most common adverse reactions that were reported during the taper phase were upper abdominal pain and gastrointestinal virus.
 
 Adverse Reactions Leading to Discontinuation
@@ -126,3 +128,8 @@ KAPVAY treatment was not associated with any clinically important effects on any
 Mean decreases in blood pressure and heart rate were seen [see Warnings and Precautions (5.1)].
 
 There were no changes on ECGs to suggest a drug-related effect.
+
+## 6.2 Postmarketing Experience
+
+Hallucinations and atrioventricular (AV) block have been identified during post approval use of KAPVAY.
+Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

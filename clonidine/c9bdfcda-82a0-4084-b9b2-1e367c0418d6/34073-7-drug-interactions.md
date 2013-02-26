@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 No drug interaction studies have been conducted with KAPVAY in children.
 The following have been reported with other oral immediate release formulations of clonidine.

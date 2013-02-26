@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 KAPVAY is an extended-release tablet formulation of clonidine hydrochloride.
 While it is dosed twice a day, the same as the immediate-release clonidine formulation, it is not to be used interchangeably with the immediate-release formulation.

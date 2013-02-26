@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 KAPVAY (clonidine hydrochloride) extended-release is a centrally acting alpha2-adrenergic agonist available as 0.1 mg or 0.2 mg extended-release tablets for oral administration.
 Each 0.1 mg and 0.2 mg tablet is equivalent to 0.087 mg and 0.174 mg, respectively, of the free base.

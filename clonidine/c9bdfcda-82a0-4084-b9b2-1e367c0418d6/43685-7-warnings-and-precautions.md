@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Hypotension/Bradycardia
 
@@ -12,7 +12,7 @@ The maximum placebo-subtracted mean change in diastolic blood pressure was +3.3 
 The maximum placebo-subtracted mean change in heart rate was -0.6 beats per minute on KAPVAY 0.2 mg/day and -3.0 beats per minute on KAPVAY 0.4 mg/day.
 
 Measure heart rate and blood pressure prior to initiation of therapy, following dose increases, and periodically while on therapy.
-Use KAPVAY with caution in patients with a history of hypotension, heart block, bradycardia, or cardiovascular disease, because it can decrease blood pressure and heart rate.
+Uptitrate KAPVAY slowly in patients with a history of hypotension, and those with underlying conditions that may be worsened by hypotension and bradycardia; e.g., heart block, bradycardia, cardiovascular disease, vascular disease, cerebrovascular disease, or chronic renal failure.
 Use caution in treating patients who have a history of syncope or may have a condition that predisposes them to syncope, such as hypotension, orthostatic hypotension, bradycardia, or dehydration.
 Use KAPVAY with caution in patients treated concomitantly with antihypertensives or other drugs that can reduce blood pressure or heart rate or increase the risk of syncope.
 Advise patients to avoid becoming dehydrated or overheated.
@@ -42,9 +42,11 @@ In patients who have developed localized contact sensitization to clonidine tran
 
 In patients who develop an allergic reaction from clonidine transdermal system, substitution of oral clonidine hydrochloride may also elicit an allergic reaction (including generalized rash, urticaria, or angioedema).
 
-## 5.5 Patients with Vascular Disease, Cardiac Conduction Disease, or Renal Failure
+## 5.5 Cardiac Conduction Abnormalities
 
-Clonidine hydrochloride should be used with caution in patients with severe coronary insufficiency, conduction disturbances, recent myocardial infarction, cerebrovascular disease or chronic renal failure.
+The sympatholytic action of clonidine may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
+There have been post-marketing reports of patients with conduction abnormalities and/or taking other sympatholytic drugs who developed severe bradycardia requiring IV atropine, IV isoproterenol, and temporary cardiac pacing while taking clonidine.
+Uptitrate KAPVAY slowly and monitor vital signs frequently in patients with cardiac conduction abnormalities or patients concomitantly treated with other sympatholytic drugs.
 
 ## 5.6 Other Clonidine-Containing Products
 

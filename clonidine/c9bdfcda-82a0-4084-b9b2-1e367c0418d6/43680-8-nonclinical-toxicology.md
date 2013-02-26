@@ -8,9 +8,9 @@ These doses are approximately 20, 25, and 15 times, respectively, the maximum re
 There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse micronucleus test for clastogenicity.
 
 Fertility of male or female rats was unaffected by clonidine HCl doses as high as 150 mcg/kg/day (approximately 3 times the MRDHD on a mg/m2 basis).
-In a separate experiment, fertility of female rats appeared to be adversely affected at dose levels of 500 and 2000 mcg/kg/day (10 and 40 times the MRHD on a mg/ m2 basis).
+In a separate experiment, fertility of female rats appeared to be adversely affected at dose levels of 500 and 2000 mcg/kg/day (10 and 40 times the MRHD on a mg/m2 basis).
 
-## 13.2 Ocular Toxicity
+## 13.2 Animal Toxicology and/or Pharmacology
 
 In several studies with oral clonidine hydrochloride, a dose-dependent increase in the incidence and severity of spontaneous retinal degeneration was seen in albino rats treated for six months or longer.
 Tissue distribution studies in dogs and monkeys showed a concentration of clonidine in the choroid.
