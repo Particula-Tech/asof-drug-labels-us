@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA012787"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Medimetriks Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "43538-900-12",
+    "43538-900-99",
+    "43538-901-12"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluocinolone acetonide",
+      "name": "Synalar"
+    },
+    {
+      "form": "KIT",
+      "generic": "fluocinolone acetonide",
+      "name": "Synalar"
+    }
+  ],
+  "setid": "5af2e4c1-082b-48a0-aae7-72d4a68cbb2d",
+  "source": "dailymed"
+}
