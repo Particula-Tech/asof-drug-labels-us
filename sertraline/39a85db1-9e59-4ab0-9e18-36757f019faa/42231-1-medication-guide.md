@@ -30,8 +30,7 @@ Call your healthcare provider right away if you have any of the following sympto
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 Sertraline hydrochloride tablets may be associated with these serious side effects: 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
-This condition can be life-threatening and may include:
+Serotonin Syndrome This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
 - coordination problems or muscle twitching (overactive reflexes)
@@ -100,10 +99,10 @@ Do not take sertraline hydrochloride tablets if you:
 - are allergic to sertraline or any of the ingredients in sertraline hydrochloride tablets.
   See the end of this Medication Guide for a complete list of ingredients in sertraline hydrochloride tablets.
 - take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
-- take a Monoamine Oxidase Inhibitor (MAOI).
+- take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - Do not take an MAOI within 2 weeks of stopping sertraline hydrochloride tablets.
-  - Do not start sertraline hydrochloride tablets if you stopped taking an MAOI in the last 2 weeks.
+- Do not take an MAOI within 2 weeks of stopping sertraline hydrochloride tablets unless directed to do so by your physician.
+- Do not start sertraline hydrochloride tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take sertraline hydrochloride tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -168,7 +167,7 @@ Sertraline hydrochloride tablets and some medicines may interact with each other
 Your healthcare provider or pharmacist can tell you if it is safe to take sertraline hydrochloride tablets with your other medicines.
 Do not start or stop any medicine while taking sertraline hydrochloride tablets without talking to your healthcare provider first.
 
-| If you take sertraline hydrochloride tablets, you should not take any other medicines that contain sertraline (sertraline HCl, sertraline hydrochloride, etc.). |
+| If you take sertraline hydrochloride tablets, you should not take any other medicines that contain sertraline (sertraline hydrochloride etc.). |
 | --- |
 
 How should I take sertraline hydrochloride tablets?
@@ -237,4 +236,4 @@ Besides, 25 mg contains D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Orap ® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin ® is a registered trademark of Bristol Myers Squibb.
-Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2012
+Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 01/2013

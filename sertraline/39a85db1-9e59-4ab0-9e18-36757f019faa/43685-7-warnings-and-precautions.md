@@ -45,25 +45,20 @@ It is generally believed (though not established in controlled trials) that trea
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that sertraline hydrochloride is not approved for use in treating bipolar depression.
-Cases of serious sometimes fatal reactions have been reported in patients receiving sertraline hydrochloride, a selective serotonin reuptake inhibitor (SSRI), in combination with a monoamine oxidase inhibitor (MAOI).
-Symptoms of a drug interaction between an SSRI and an MAOI include: hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, mental status changes that include confusion, irritability, and extreme agitation progressing to delirium and coma.
-These reactions have also been reported in patients who have recently discontinued an SSRI and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Therefore, sertraline hydrochloride should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
-Similarly, at least 14 days should be allowed after stopping sertraline hydrochloride before starting an MAOI.
-The concomitant use of sertraline hydrochloride with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS - Potential for Interaction with Monoamine Oxidase Inhibitors).
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including sertraline hydrochloride treatment, but particularly with concomitant use of serotonergic drugs (including triptans and fentanyl) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
-The concomitant use of sertraline hydrochloride with MAOIs intended to treat depression is contraindicated.
-If concomitant treatment of sertraline hydrochloride with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-The concomitant use of sertraline hydrochloride with serotonin precursors (such as tryptophan) is not recommended.
-Treatment with sertraline hydrochloride and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
-Coadministration of sertraline hydrochloride with other drugs which enhance the effects of serotonergic neurotransmission, such as tryptophan, fenfluramine, fentanyl, 5-HT agonists, or the herbal medicine St. John’s Wort (hypericum perforatum) should be undertaken with caution and avoided whenever possible due to the potential for pharmacodynamic interaction.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including sertraline hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
+The concomitant use of sertraline hydrochloride with MAOIs intended to treat psychiatric disorders is contraindicated.
+Sertraline hydrochloride should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking sertraline hydrochloride.
+Sertraline hydrochloride should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+If concomitant use of sertraline hydrochloride with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+Treatment with sertraline hydrochloride and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
 
@@ -121,6 +116,9 @@ Signs and symptoms of hyponatremia include headache, difficulty concentrating, m
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 Platelet Function There have been rare reports of altered platelet function and/or abnormal results from laboratory studies in patients taking sertraline hydrochloride.
 While there have been reports of abnormal bleeding or purpura in several patients taking sertraline hydrochloride, it is unclear whether sertraline hydrochloride had a causative role.
+Angle-Closure Glaucoma SSRIs including sertraline may have an effect on pupil size resulting in mydriasis.
+This mydriatic effect has the potential to narrow the eye angle resulting in increased intraocular pressure and angle-closure glaucoma, especially in patients pre-disposed.
+Sertraline should therefore be used with caution in patients with angle-closure glaucoma or history of glaucoma.
 
 ## Information for Patients
 
@@ -175,10 +173,9 @@ The effect of sertraline hydrochloride on valproate levels has not been evaluate
 In the absence of such data, it is recommended that plasma valproate levels be monitored following initiation of sertraline hydrochloride therapy with appropriate adjustments to the valproate dose.
 The risk of using sertraline hydrochloride in combination with other CNS active drugs has not been systematically evaluated.
 Consequently, caution is advised if the concomitant administration of sertraline hydrochloride and such drugs is required.
-There is limited controlled experience regarding the optimal timing of switching from other drugs effective in the treatment of major depressive disorder, obsessive-compulsive disorder, panic disorder, posttraumatic stress disorder, premenstrual dysphoric disorder and social anxiety disorder to sertraline hydrochloride.
-Care and prudent medical judgment should be exercised when switching, particularly from long-acting agents.
+There is limited controlled experience regarding the optimal timing of switching from other drugs effective in the treatment of major depressive disorder, obsessive-compulsive disorder, panic disorder, posttraumatic stress disorder, premenstrual dysphoric disorder and social anxiety disorder to sertraline hydrochloride.Care and prudent medical judgment should be exercised when switching, particularly from long-acting agents.
 The duration of an appropriate washout period which should intervene before switching from one selective serotonin reuptake inhibitor (SSRI) to another has not been established.
-Monoamine Oxidase Inhibitors See CONTRAINDICATIONS and WARNINGS .
+Monoamine Oxidase Inhibitors See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
 Drugs Metabolized by P450 3A4 In three separate in vivo interaction studies, sertraline was coadministered with cytochrome P450 3A4 substrates, terfenadine, carbamazepine, or cisapride under steady-state conditions.
 The results of these studies indicated that sertraline did not increase plasma concentrations of terfenadine, carbamazepine, or cisapride.
 These data indicate that sertraline’s extent of inhibition of P450 3A4 activity is not likely to be of clinical significance.
@@ -193,8 +190,7 @@ There is variability among the drugs effective in the treatment of major depress
 Nevertheless, even sertraline has the potential for clinically important 2D6 inhibition.
 Consequently, concomitant use of a drug metabolized by P450 2D6 with sertraline hydrochloride may require lower doses than usually prescribed for the other drug.
 Furthermore, whenever sertraline hydrochloride is withdrawn from co-therapy, an increased dose of the coadministered drug may be required (see Tricyclic Antidepressant Drugs Effective in the Treatment of Major Depressive Disorder (TCAs) under PRECAUTIONS ).
-Serotonergic Drugs Based on the mechanism of action of SNRIs and SSRIs, including sertraline hydrochloride, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including sertraline hydrochloride, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome ).
-The concomitant use of sertraline hydrochloride with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS - Drug Interactions ).
+Serotonergic Drugs See CONTRAINDICATIONS, WARNINGS , and DOSAGE AND ADMINISTRATION .
 Triptans There have been rare postmarketing reports of serotonin syndrome with use of an SNRI or an SSRI and a triptan.
 If concomitant treatment of SNRIs and SSRIs, including sertraline hydrochloride, with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome ).
 Sumatriptan There have been rare postmarketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of a selective serotonin reuptake inhibitor (SSRI) and sumatriptan.
@@ -245,21 +241,21 @@ The clinical significance of these effects is unknown.
 There are no adequate and well-controlled studies in pregnant women.
 Sertraline hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic Effects
+### Pregnancy-Nonteratogenic Effects
 
-Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-These findings are based on postmarketing reports.
+Neonates exposed to sertraline hydrochloride and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS ).
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome ).
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20 th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
-When treating a pregnant woman with sertraline hydrochloride during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION ).
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic in the context of antidepressant therapy at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including sertraline hydrochloride) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+When treating a pregnant woman with sertraline hydrochloride, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
+This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION ).
 
 ## Labor and Delivery
 

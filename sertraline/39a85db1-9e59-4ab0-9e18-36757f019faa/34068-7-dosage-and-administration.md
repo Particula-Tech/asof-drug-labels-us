@@ -36,14 +36,21 @@ Nevertheless, patients should be periodically reassessed to determine the need f
 Premenstrual Dysphoric Disorder The effectiveness of sertraline hydrochloride tablets in long-term use, that is, for more than 3 menstrual cycles, has not been systematically evaluated in controlled trials.
 However, as women commonly report that symptoms worsen with age until relieved by the onset of menopause, it is reasonable to consider continuation of a responding patient.
 Dosage adjustments, which may include changes between dosage regimens (e.g., daily throughout the menstrual cycle versus during the luteal phase of the menstrual cycle), may be needed to maintain the patient on the lowest effective dosage and patients should be periodically reassessed to determine the need for continued treatment.
-Switching Patients to or from a Monoamine Oxidase Inhibitor At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with sertraline hydrochloride tablets.
-In addition, at least 14 days should be allowed after stopping sertraline hydrochloride tablets before starting an MAOI (see CONTRAINDICATIONS and WARNINGS ).
+Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with sertraline hydrochloride tablets.
+Conversely, at least 14 days should be allowed after stopping sertraline hydrochloride tablets before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS ).
+Use of Sertraline Hydrochloride Tablets With Other MAOIs Such as Linezolid or Methylene Blue Do not start sertraline hydrochloride tablets in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS ).
+In some cases, a patient already receiving sertraline hydrochloride tablets therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, sertraline hydrochloride tablets should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with sertraline hydrochloride tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS ).
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with sertraline hydrochloride tablets is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS ).
 Special Populations Dosage for Hepatically Impaired Patients The use of sertraline in patients with liver disease should be approached with caution.
 The effects of sertraline in patients with moderate and severe hepatic impairment have not been studied.
 If sertraline is administered to patients with liver impairment, a lower or less frequent dose should be used (see CLINICAL PHARMACOLOGY and PRECAUTIONS ).
 Treatment of Pregnant Women During the Third Trimester Neonates exposed to sertraline hydrochloride tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS ).
 When treating pregnant women with sertraline hydrochloride tablets during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering sertraline hydrochloride tablets in the third trimester.
 
 ## Discontinuation of Treatment with Sertraline Hydrochloride Tablets
 

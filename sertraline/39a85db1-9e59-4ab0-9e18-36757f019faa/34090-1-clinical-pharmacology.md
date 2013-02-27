@@ -131,7 +131,7 @@ The mean duration of PMDD symptoms for these patients was approximately 10.5 yea
 Patients on oral contraceptives were excluded from these trials; therefore, the efficacy of sertraline in combination with oral contraceptives for the treatment of PMDD is unknown.
 Efficacy was assessed with the Daily Record of Severity of Problems (DRSP), a patient-rated instrument that mirrors the diagnostic criteria for PMDD as identified in the DSM-IV, and includes assessments for mood, physical symptoms, and other symptoms.
 Other efficacy assessments included the Hamilton Depression Rating Scale (HAMD-17), and the Clinical Global Impression Severity of Illness (CGI-S) and Improvement (CGI-I) scores.
-In Study 1, involving N=251 randomized patients, sertraline hydrochloride treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
+In Study 1, involving N=251 randomized patients; sertraline hydrochloride treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
 In subsequent cycles, patients were dosed in the range of 50 to 150 mg/day on the basis of clinical response and toleration.
 The mean dose for completers was 102 mg/day.
 Sertraline hydrochloride administered daily throughout the menstrual cycle was significantly more effective than placebo on change from baseline to endpoint on the DRSP total score, the HAMD-17 total score, and the CGI-S score, as well as the CGI-I score at endpoint.
