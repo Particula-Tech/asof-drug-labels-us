@@ -29,7 +29,7 @@ PROSTIN VR PEDIATRIC should not be used in neonates with respiratory distress sy
 A differential diagnosis should be made between respiratory distress syndrome (hyaline membrane disease) and cyanotic heart disease (restricted pulmonary blood flow).
 If full diagnostic facilities are not immediately available, cyanosis (pO2 less than 40 torr) and restricted pulmonary blood flow apparent on an X-ray are appropriate indicators of congenital heart defects.
 
-## Necessary Monitoring
+### Necessary Monitoring
 
 In all neonates, arterial pressure should be monitored intermittently by umbilical artery catheter, auscultation, or with a Doppler transducer.
 Should arterial pressure fall significantly, decrease the rate of infusion immediately.
