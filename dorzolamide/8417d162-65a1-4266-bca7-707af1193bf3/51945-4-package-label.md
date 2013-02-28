@@ -8,10 +8,10 @@ Dorzolamide HCl Ophthalmic Solution, 2%*
 
 Dorzolamide Equivalent (Dorzolamide hydrochloride 22.3 mg/mL)
 
-Sterile
-
-Rx only
+(Sterile)
 
 [icon- eye] [icon- solution] [icon- 10 mL]
 
-FOR TOPICAL APPLICATION IN THE EYE
+10 mL
+
+Rx only

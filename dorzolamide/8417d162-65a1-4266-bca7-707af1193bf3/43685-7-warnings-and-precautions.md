@@ -37,7 +37,7 @@ Precautions should be used when prescribing Dorzolamide HCl Ophthalmic Solution 
 
 Dorzolamide HCl Ophthalmic Solution is a sulfonamide and although administered topically is absorbed systemically.
 Therefore the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration.
-Patients should be advised that if serious or unusual reactions or signs of hypersensitivity occur, they should discontinue the use of the product (see WARNINGS).
+Patients should be advised that if serious or unusual reactions including severe skin reactions or signs of hypersensitivity occur, they should discontinue the use of the product (see WARNINGS).
 
 Patients should be advised that if they develop any ocular reactions, particularly conjunctivitis and lid reactions, they should discontinue use and seek their physician's advice.
 
@@ -76,9 +76,11 @@ In reproduction studies of dorzolamide hydrochloride in rats, there were no adve
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
-Pregnancy Category C. Developmental toxicity studies with dorzolamide hydrochloride in rabbits at oral doses of ≥ 2.5 mg/kg/day (31 times the recommended human ophthalmic dose) revealed malformations of the vertebral bodies.
+Pregnancy Category C.
+
+Developmental toxicity studies with dorzolamide hydrochloride in rabbits at oral doses of ≥ 2.5 mg/kg/day (31 times the recommended human ophthalmic dose) revealed malformations of the vertebral bodies.
 These malformations occurred at doses that caused metabolic acidosis with decreased body weight gain in dams and decreased fetal weights.
 No treatment-related malformations were seen at 1.0 mg/kg/day (13 times the recommended human ophthalmic dose).
 There are no adequate and well-controlled studies in pregnant women.
