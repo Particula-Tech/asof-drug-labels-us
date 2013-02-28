@@ -17,11 +17,9 @@ Patients should be advised that treatment with Carisoprodol should be limited to
 In the post-marketing experience with Carisoprodol, cases of dependence, withdrawal, and abuse have been reported with prolonged use.
 If the musculoskeletal symptoms still persist, patients should contact their healthcare provider for further evaluation.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Wallace Pharmaceuticals Inc. at 1-800-619-6344 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
 Manufactured by: Meda Pharmaceuticals Inc. Decatur, IL 62525 For: Wallace Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
 WALLACE PHARMACEUTICALS™
 
-IN-5901-04 Rev.
-1/12
+IN-5901-05 Rev.
+1/2013

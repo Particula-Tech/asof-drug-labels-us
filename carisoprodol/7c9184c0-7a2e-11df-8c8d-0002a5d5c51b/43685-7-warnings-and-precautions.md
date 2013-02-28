@@ -7,15 +7,19 @@ There have been post-marketing reports of motor vehicle accidents associated wit
 
 Since the sedative effects of Carisoprodol and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive, appropriate caution should be exercised with patients who take more than one of these CNS depressants simultaneously.
 
-## 5.2 Drug Dependence, Withdrawal, and Abuse
+## 5.2 Abuse, Dependence and Withdrawal
 
-In the post-marketing experience with Carisoprodol, cases of dependence, withdrawal, and abuse have been reported with prolonged use.
-Most cases of dependence, withdrawal, and abuse occurred in patients who have had a history of addiction or who used Carisoprodol in combination with other drugs with abuse potential.
-However, there have been post-marketing adverse event reports of Carisoprodol-associated abuse when used without other drugs with abuse potential.
-Withdrawal symptoms have been reported following abrupt cessation after prolonged use.
-To reduce the chance of Carisoprodol dependence, withdrawal, or abuse, Carisoprodol should be used with caution in addiction-prone patients and in patients taking other CNS depressants including alcohol, and Carisoprodol should not be used more than two to three weeks for the relief of acute musculoskeletal discomfort.
+Carisoprodol, the active ingredient in the tablets, has been subject to abuse, dependence, withdrawal, misuse and criminal diversion [see Drug Abuse and Dependence (9.1, 9.2, 9.3)].
+Abuse of Carisprodol poses a risk of overdosage which may lead to death, CNS and respiratory depression, hypotension, seizures, and other disorders [see Overdosage (10)].
 
-Carisoprodol, and one of its metabolites, meprobamate (both controlled substances), may cause dependence [see Clinical Pharmacology (12.3)].
+Post-marketing experience cases of carisoprodol abuse and dependence have been reported in patients with prolonged use and a history of drug abuse.
+Although most of these patients took other drugs of abuse, some patients solely abused carisoprodol.
+Withdrawal symptoms have been reported following abrupt cessation of carisoprodol after prolonged use.
+Reported withdrawal symptoms included insomnia, vomiting, abdominal cramps, headache, tremors, muscle twitching, ataxia, hallucinations, and psychosis.
+One of carisoprodol’s metabolites, meprobamate (a controlled substance), may also cause dependence [see Clinical Pharmacology (12.3)].
+
+To reduce the risk of Carisoprodol abuse, assess the risk of abuse prior to prescribing.
+After prescribing limit the length of treatment to three weeks for the relief of acute musculoskeletal discomfort, keep careful prescription records, monitor for signs of abuse and overdose, and educate patients and their families about abuse and on proper storage and disposal.
 
 ## 5.3 Seizures
 
