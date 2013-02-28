@@ -21,7 +21,7 @@ Although magnesium-depletion studies in normal subjects suggest that hypomagnese
 
 Clinical Studies
 
-In controlled studies, the nature, severity and incidence of the adverse events that were observed in 493 transplanted patients treated with cyclosporine (MODIFIED) were comparable with those observed in 208 transplanted patients who received Sandimmune® (cyclosporine capsules) in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
+In controlled studies, the nature, severity and incidence of the adverse events that were observed in 493 transplanted patients treated with cyclosporine (MODIFIED) were comparable with those observed in 208 transplanted patients who received Sandimmune® Soft Gelatin Capsules (cyclosporine capsules, USP) in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
 
 Based on the historical experience with Sandimmune®, the following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants.
 
@@ -58,7 +58,7 @@ Based on the historical experience with Sandimmune®, the following reactions oc
 | Miscellaneous |  |  |  |  |  |  |
 |  | Gynecomastia | < 1 | 0 | < 1 | 4 | 3 |
 
-Among 705 kidney transplant patients treated with cyclosporine oral solution in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1.0%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
+Among 705 kidney transplant patients treated with cyclosporine oral solution (Sandimmune®) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1.0%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
 
 The following reactions occurred in 2% or less of cyclosporine-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, migraine (Gengraf®), muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
 
@@ -283,38 +283,38 @@ These elevations are likely to become more pronounced and may result in irrevers
 
 Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clinical Trials
 
-| Body System* Preferred Term | Cyclosporine (MODIFIED) (N = 182) | Sandimmune® (N = 185) |
-| --- | --- | --- |
-| Infection or Potential Infection | 24.7% | 24.3% |
-| Influenza-like Symptoms | 9.9% | 8.1% |
-| Upper Respiratory Tract Infections | 7.7% | 11.3% |
-| Cardiovascular System | 28.0% | 25.4% |
-| Hypertension** | 27.5% | 25.4% |
-| Urinary System | 24.2% | 16.2% |
-| Increased Creatinine | 19.8% | 15.7% |
-| Central and Peripheral Nervous System | 26.4% | 20.5% |
-| Headache | 15.9% | 14.0% |
-| Paresthesia | 7.1% | 4.8% |
-| Musculoskeletal System | 13.2% | 8.7% |
-| Arthralgia | 6.0% | 1.1% |
-| Body As a Whole – General | 29.1% | 22.2% |
-| Pain | 4.4% | 3.2% |
-| Metabolic and Nutritional | 9.3% | 9.7% |
-| Reproductive, Female | 8.5% (4 of 47 females) | 11.5% (6 of 52 females) |
-| Resistance Mechanism | 18.7% | 21.1% |
-| Skin and Appendages | 17.6% | 15.1% |
-| Hypertrichosis | 6.6% | 5.4% |
-| Respiratory System | 5.0% | 6.5% |
-| Bronchospasm, Coughing, Dyspnea, Rhinitis | 5.0% | 4.9% |
-| Psychiatric | 5.0% | 3.8% |
-| Gastrointestinal System | 19.8% | 28.7% |
-| Abdominal Pain | 2.7% | 6.0% |
-| Diarrhea | 5.0% | 5.9% |
-| Dyspepsia | 2.2% | 3.2% |
-| Gum Hyperplasia | 3.8% | 6.0% |
-| Nausea | 5.5% | 5.9% |
-| White cell and RES | 4.4% | 2.7% |
-| * Total percentage of events within the system. ** Newly occurring hypertension = SBP ≥160 mm Hg and/or DBP ≥90 mm Hg. |  |  |
+| Body System* | Preferred Term | Cyclosporine (MODIFIED) (N = 182) | Sandimmune® (N = 185) |
+| --- | --- | --- | --- |
+| Infection or Potential Infection |  | 24.7% | 24.3% |
+|  | Influenza-like Symptoms | 9.9% | 8.1% |
+|  | Upper Respiratory Tract Infections | 7.7% | 11.3% |
+| Cardiovascular System |  | 28.0% | 25.4% |
+|  | Hypertension** | 27.5% | 25.4% |
+| Urinary System |  | 24.2% | 16.2% |
+|  | Increased Creatinine | 19.8% | 15.7% |
+| Central and Peripheral Nervous System |  | 26.4% | 20.5% |
+|  | Headache | 15.9% | 14.0% |
+|  | Paresthesia | 7.1% | 4.8% |
+| Musculoskeletal System |  | 13.2% | 8.7% |
+|  | Arthralgia | 6.0% | 1.1% |
+| Body As a Whole – General |  | 29.1% | 22.2% |
+|  | Pain | 4.4% | 3.2% |
+| Metabolic and Nutritional |  | 9.3% | 9.7% |
+| Reproductive, Female |  | 8.5% (4 of 47 females) | 11.5% (6 of 52 females) |
+| Resistance Mechanism |  | 18.7% | 21.1% |
+| Skin and Appendages |  | 17.6% | 15.1% |
+|  | Hypertrichosis | 6.6% | 5.4% |
+| Respiratory System |  | 5.0% | 6.5% |
+|  | Bronchospasm, Coughing, Dyspnea, Rhinitis | 5.0% | 4.9% |
+| Psychiatric |  | 5.0% | 3.8% |
+| Gastrointestinal System |  | 19.8% | 28.7% |
+|  | Abdominal Pain | 2.7% | 6.0% |
+|  | Diarrhea | 5.0% | 5.9% |
+|  | Dyspepsia | 2.2% | 3.2% |
+|  | Gum Hyperplasia | 3.8% | 6.0% |
+|  | Nausea | 5.5% | 5.9% |
+| White cell and RES |  | 4.4% | 2.7% |
+| * Total percentage of events within the system. ** Newly occurring hypertension = SBP ≥160 mm Hg and/or DBP ≥90 mm Hg. |  |  |  |
 
 The following events occurred in 1% to less than 3% of psoriasis patients treated with cyclosporine:
 

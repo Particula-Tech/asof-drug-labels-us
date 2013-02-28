@@ -4,33 +4,33 @@
 
 ## All Patients
 
-Cyclosporine, the active ingredient of Gengraf (cyclosporine capsules, USP [MODIFIED]), can cause nephrotoxicity and hepatotoxicity.
+Cyclosporine, the active ingredient of Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]), can cause nephrotoxicity and hepatotoxicity.
 The risk increases with increasing doses of cyclosporine.
-Renal dysfunction including structural kidney damage is a potential consequence of Gengraf and therefore renal function must be monitored during therapy.
+Renal dysfunction including structural kidney damage is a potential consequence of Gengraf® and therefore renal function must be monitored during therapy.
 Care should be taken in using cyclosporine with nephrotoxic drugs (see PRECAUTIONS).
 
-Patients receiving Gengraf require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
+Patients receiving Gengraf® require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
 Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
 If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can be associated with the occurrence of structural kidney damage and persistent renal dysfunction.
 
-An increase in serum creatinine and BUN may occur during Gengraf therapy and reflect a reduction in the glomerular filtration rate.
+An increase in serum creatinine and BUN may occur during Gengraf® therapy and reflect a reduction in the glomerular filtration rate.
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 The frequency and severity of serum creatinine elevations increase with dose and duration of cyclosporine therapy.
 These elevations are likely to become more pronounced without dose reduction or discontinuation.
 
-Because Gengraf (cyclosporine capsules, USP [MODIFIED]) is not bioequivalent to Sandimmune (Cyclosporine Capsules), conversion from Gengraf to Sandimmune using a 1:1 ratio (mg/kg/day) may result in lower cyclosporine blood concentrations.
-Conversion from Gengraf to Sandimmune should be made with increased monitoring to avoid the potential of underdosing.
+Because Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) is not bioequivalent to Sandimmune® Soft Gelatin Capsules (cyclosporine capsules, USP), conversion from Gengraf® to Sandimmune® using a 1:1 ratio (mg/kg/day) may result in lower cyclosporine blood concentrations.
+Conversion from Gengraf® to Sandimmune® should be made with increased monitoring to avoid the potential of underdosing.
 
 ## Kidney, Liver, and Heart Transplant
 
 Nephrotoxicity
 
-Cyclosporine, the active ingredient of Gengraf (cyclosporine capsules, USP [MODIFIED]), can cause nephrotoxicity and hepatotoxicity when used in high doses.
+Cyclosporine, the active ingredient of Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]), can cause nephrotoxicity and hepatotoxicity when used in high doses.
 It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine therapy.
 These elevations in renal transplant patients do not necessarily indicate rejection, and each patient must be fully evaluated before dosage adjustment is initiated.
 
 Based on the historical Sandimmune® experience with oral solution, nephrotoxicity associated with cyclosporine had been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
-Mild nephrotoxicity was generally noted 2-3 months after renal transplant and consisted of an arrest in the fall of the pre-operative elevations of BUN and creatinine at a range of 35-45 mg/dL and 2.0-2.5 mg/dL respectively.
+Mild nephrotoxicity was generally noted 2 to 3 months after renal transplant and consisted of an arrest in the fall of the pre-operative elevations of BUN and creatinine at a range of 35 to 45 mg/dL and 2.0 to 2.5 mg/dL respectively.
 These elevations were often responsive to cyclosporine dosage reduction.
 
 More overt nephrotoxicity was seen early after transplantation and was characterized by a rapidly rising BUN and creatinine.
@@ -68,7 +68,7 @@ Reversibility of arteriolopathy has been reported after stopping cyclosporine or
 
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 
-In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the Gengraf dose to excessive levels.
+In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the Gengraf® dose to excessive levels.
 
 Thrombotic Microangiopathy
 
@@ -102,18 +102,18 @@ Transplant patients receiving cyclosporine are at increased risk for serious inf
 
 Serious Infections
 
-Patients receiving immunosuppressants, including Gengraf, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
+Patients receiving immunosuppressants, including Gengraf®, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
 These infections may lead to serious, including fatal, outcomes (see Boxed WARNING and ADVERSE REACTIONS).
 
 Polyoma Virus Infections
 
-Patients receiving immunosuppressants including Gengraf are at increased risk for opportunistic infections, including polyoma virus infections.
+Patients receiving immunosuppressants including Gengraf® are at increased risk for opportunistic infections, including polyoma virus infections.
 Polyoma virus infections in transplant patients may have serious, and sometimes, fatal outcomes.
 These include cases of JC virus-associated progressive multifocal leukoencephalopathy (PML) and polyoma virus-associated nephropathy (PVAN) especially due to BK virus infection which have been observed in patients receiving cyclosporine.
 PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (see ADVERSE REACTIONS/Postmarketing Experience, Kidney, Liver and Heart Transplantation).
 Patient monitoring may help detect patients at risk for PVAN.
 
-Cases of PML have been reported in patients treated with Gengraf.
+Cases of PML have been reported in patients treated with Gengraf®.
 PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies and ataxia.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
@@ -147,24 +147,24 @@ It is not clear whether the risk with cyclosporine is greater than that in rheum
 Five cases of lymphoma were detected: four in a survey of approximately 2,300 patients treated with cyclosporine for rheumatoid arthritis, and another case of lymphoma was reported in a clinical trial.
 Although other tumors (12 skin cancers, 24 solid tumors of diverse types, and 1 multiple myeloma) were also reported in this survey, epidemiologic analyses did not support a relationship to cyclosporine other than for malignant lymphomas.
 
-Patients should be thoroughly evaluated before and during Gengraf (cyclosporine capsules, USP [MODIFIED]) treatment for the development of malignancies.
-Moreover, use of Gengraf therapy with other immunosuppressive agents may induce an excessive immunosuppression which is known to increase the risk of malignancy.
+Patients should be thoroughly evaluated before and during Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) treatment for the development of malignancies.
+Moreover, use of Gengraf® therapy with other immunosuppressive agents may induce an excessive immunosuppression which is known to increase the risk of malignancy.
 
 ## Psoriasis
 
 (See also Boxed WARNINGS for Psoriasis)
 
-Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using Gengraf (cyclosporine capsules, USP [MODIFIED]) should be considered before treatment of patients with psoriasis.
-Cyclosporine, the active ingredient in Gengraf, can cause nephrotoxicity and hypertension (see PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
-Patients who may be at increased risk such as those with abnormal renal function, uncontrolled hypertension or malignancies, should not receive Gengraf.
+Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) should be considered before treatment of patients with psoriasis.
+Cyclosporine, the active ingredient in Gengraf®, can cause nephrotoxicity and hypertension (see PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
+Patients who may be at increased risk such as those with abnormal renal function, uncontrolled hypertension or malignancies, should not receive Gengraf®.
 
-Renal dysfunction is a potential consequence of Gengraf, therefore renal function must be monitored during therapy.
+Renal dysfunction is a potential consequence of Gengraf®, therefore renal function must be monitored during therapy.
 
-Patients receiving Gengraf require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
+Patients receiving Gengraf® require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
 Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
 If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can cause structural kidney damage and persistent renal dysfunction.
 
-An increase in serum creatinine and BUN may occur during Gengraf therapy and reflects a reduction in the glomerular filtration rate.
+An increase in serum creatinine and BUN may occur during Gengraf® therapy and reflects a reduction in the glomerular filtration rate.
 
 Kidney biopsies from 86 psoriasis patients treated for a mean duration of 23 months with 1.2 to 7.6 mg/kg/day of cyclosporine showed evidence of cyclosporine nephropathy in 18/86 (21%) of the patients.
 The pathology consisted of renal tubular atrophy and interstitial fibrosis.
@@ -192,7 +192,7 @@ Patients should not be treated concurrently with cyclosporine and PUVA or UVB, o
 Patients should also be warned to protect themselves appropriately when in the sun, and to avoid excessive sun exposure.
 Patients should be thoroughly evaluated before and during treatment for the presence of malignancies remembering that malignant lesions may be hidden by psoriatic plaques.
 Skin lesions not typical of psoriasis should be biopsied before starting treatment.
-Patients should be treated with Gengraf (cyclosporine capsules, USP [MODIFIED]) only after complete resolution of suspicious lesions, and only if there are no other treatment options (see Special Monitoring for Psoriasis Patients).
+Patients should be treated with Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) only after complete resolution of suspicious lesions, and only if there are no other treatment options (see Special Monitoring for Psoriasis Patients).
 
 # PRECAUTIONS
 
@@ -200,7 +200,7 @@ Patients should be treated with Gengraf (cyclosporine capsules, USP [MODIFIED]) 
 
 Hypertension
 
-Cyclosporine is the active ingredient of Gengraf (cyclosporine capsules, USP [MODIFIED]).
+Cyclosporine is the active ingredient of Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]).
 Hypertension is a common side effect of cyclosporine therapy which may persist (see ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION for monitoring recommendations).
 Mild or moderate hypertension is encountered more frequently than severe hypertension and the incidence decreases over time.
 In recipients of kidney, liver, and heart allografts treated with cyclosporine, antihypertensive therapy may be required (see Special Monitoring of Rheumatoid Arthritis and Psoriasis Patients).
@@ -215,11 +215,11 @@ Special Monitoring of Rheumatoid Arthritis Patients
 
 Before initiating treatment, a careful physical examination, including blood pressure measurements (on at least two occasions) and two creatinine levels to estimate baseline should be performed.
 Blood pressure and serum creatinine should be evaluated every 2 weeks during the initial 3 months and then monthly if the patient is stable.
-It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs and after initiation of new nonsteroidal anti-inflammatory drug therapy during Gengraf (cyclosporine capsules, USP [MODIFIED]) treatment.
+It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs and after initiation of new nonsteroidal anti-inflammatory drug therapy during Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) treatment.
 If coadministered with methotrexate, CBC and liver function tests are recommended to be monitored monthly (see also PRECAUTIONS - General, Hypertension).
 
-In patients who are receiving cyclosporine, the dose of Gengraf should be decreased by 25%-50% if hypertension occurs.
-If hypertension persists, the dose of Gengraf should be further reduced or blood pressure should be controlled with antihypertensive agents.
+In patients who are receiving cyclosporine, the dose of Gengraf® should be decreased by 25% to 50% if hypertension occurs.
+If hypertension persists, the dose of Gengraf® should be further reduced or blood pressure should be controlled with antihypertensive agents.
 In most cases, blood pressure has returned to baseline when cyclosporine was discontinued.
 
 In placebo-controlled trials of rheumatoid arthritis patients, systolic hypertension (defined as an occurrence of two systolic blood pressure readings > 140 mmHg) and diastolic hypertension (defined as two diastolic blood pressure readings > 90 mmHg) occurred in 33% and 19% of patients treated with cyclosporine, respectively.
@@ -228,30 +228,30 @@ The corresponding placebo rates were 22% and 8%.
 Special Monitoring for Psoriasis Patients
 
 Before initiating treatment, a careful dermatological and physical examination, including blood pressure measurements (on at least two occasions) should be performed.
-Since Gengraf (cyclosporine capsules, USP [MODIFIED]) is an immunosuppressive agent, patients should be evaluated for the presence of occult infection on their first physical examination and for the presence of tumors initially, and throughout treatment with Gengraf.
-Skin lesions not typical for psoriasis should be biopsied before starting Gengraf.
-Patients with malignant or premalignant changes of the skin should be treated with Gengraf only after appropriate treatment of such lesions and if no other treatment option exists.
+Since Gengraf® (cyclosporine capsules, USP [MODIFIED]) is an immunosuppressive agent, patients should be evaluated for the presence of occult infection on their first physical examination and for the presence of tumors initially, and throughout treatment with Gengraf®.
+Skin lesions not typical for psoriasis should be biopsied before starting Gengraf®.
+Patients with malignant or premalignant changes of the skin should be treated with Gengraf® only after appropriate treatment of such lesions and if no other treatment option exists.
 
 Baseline laboratories should include serum creatinine (on two occasions), BUN, CBC, serum magnesium, potassium, uric acid, and lipids.
 
-The risk of cyclosporine nephropathy is reduced when the starting dose is low (2.5 mg/kg/day), the maximum dose does not exceed 4 mg/kg/day, serum creatinine is monitored regularly while cyclosporine is administered, and the dose of Gengraf is decreased when the rise in creatinine is greater than or equal to 25% above the patients pretreatment level.
-The increase in creatinine is generally reversible upon timely decrease of the dose of Gengraf or its discontinuation.
+The risk of cyclosporine nephropathy is reduced when the starting dose is low (2.5 mg/kg/day), the maximum dose does not exceed 4 mg/kg/day, serum creatinine is monitored regularly while cyclosporine is administered, and the dose of Gengraf® is decreased when the rise in creatinine is greater than or equal to 25% above the patients pretreatment level.
+The increase in creatinine is generally reversible upon timely decrease of the dose of Gengraf® or its discontinuation.
 
 Serum creatinine and BUN should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable.
 If the serum creatinine is greater than or equal to 25% above the patient's pretreatment level, serum creatinine should be repeated within two weeks.
-If the change in serum creatinine remains greater than or equal to 25% above baseline, Gengraf should be reduced by 25%-50%.
-If at any time the serum creatinine increases by greater than or equal to 50% above pretreatment level, Gengraf should be reduced by 25%-50%.
-Gengraf should be discontinued if reversibility (within 25% of baseline) of serum creatinine is not achievable after two dosage modifications.
-It is advisable to monitor serum creatinine after an increase of the dose of nonsteroidal anti-inflammatory drug and after initiation of new nonsteroidal anti-inflammatory therapy during Gengraf treatment.
+If the change in serum creatinine remains greater than or equal to 25% above baseline, Gengraf® should be reduced by 25% to 50%.
+If at any time the serum creatinine increases by greater than or equal to 50% above pretreatment level, Gengraf® should be reduced by 25% to 50%.
+Gengraf® should be discontinued if reversibility (within 25% of baseline) of serum creatinine is not achievable after two dosage modifications.
+It is advisable to monitor serum creatinine after an increase of the dose of nonsteroidal anti-inflammatory drug and after initiation of new nonsteroidal anti-inflammatory therapy during Gengraf® treatment.
 
 Blood pressure should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable, or more frequently when dosage adjustments are made.
-Patients without a history of previous hypertension before initiation of treatment with Gengraf, should have the drug reduced by 25%-50% if found to have sustained hypertension.
-If the patient continues to be hypertensive despite multiple reductions of Gengraf, then Gengraf should be discontinued.
-For patients with treated hypertension, before the initiation of Gengraf therapy, their medication should be adjusted to control hypertension while on Gengraf.
-Gengraf should be discontinued if a change in hypertension management is not effective or tolerable.
+Patients without a history of previous hypertension before initiation of treatment with Gengraf®, should have the drug reduced by 25% to 50% if found to have sustained hypertension.
+If the patient continues to be hypertensive despite multiple reductions of Gengraf®, then Gengraf® should be discontinued.
+For patients with treated hypertension, before the initiation of Gengraf® therapy, their medication should be adjusted to control hypertension while on Gengraf®.
+Gengraf® should be discontinued if a change in hypertension management is not effective or tolerable.
 
 CBC, uric acid, potassium, lipids, and magnesium should also be monitored every 2 weeks for the first 3 months of therapy, and then monthly if the patient is stable or more frequently when dosage adjustments are made.
-Gengraf dosage should be reduced by 25%-50% for any abnormality of clinical concern.
+Gengraf® dosage should be reduced by 25% to 50% for any abnormality of clinical concern.
 
 In controlled trials of cyclosporine in psoriasis patients, cyclosporine blood concentrations did not correlate well with either improvement or with side effects such as renal dysfunction.
 
@@ -265,7 +265,7 @@ Patients should also be informed of the risk of hypertension and renal dysfuncti
 
 Patients should be advised that during treatment with cyclosporine, vaccination may be less effective and the use of live attenuated vaccines should be avoided.
 
-Patients should be advised to take Gengraf on a consistent schedule with regard to time of day and relation to meals.
+Patients should be advised to take Gengraf® on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
 
 ## Laboratory Tests
@@ -297,7 +297,7 @@ In addition, concomitant non-steroidal anti-inflammatory drugs, particularly in 
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
 Various agents are known to either increase or decrease plasma or whole blood of cyclosporine levels usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Monitoring of circulating cyclosporine concentrations and appropriate Gengraf (cyclosporine capsules, USP [MODIFIED]) dosage adjustment are essential when these drugs are used concomitantly (see DOSAGE AND ADMINISTRATION - Blood Concentration Monitoring).
+Monitoring of circulating cyclosporine concentrations and appropriate Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) dosage adjustment are essential when these drugs are used concomitantly (see DOSAGE AND ADMINISTRATION - Blood Concentration Monitoring).
 
 ### 1. Drugs That Increase Cyclosporine Concentrations
 
@@ -373,13 +373,13 @@ Statin therapy needs to be temporarily withheld or discontinued in patients with
 Repaglinide
 
 Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
-In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 - 3.7 fold) and 2.4 fold (range 1.2 - 5.3 fold), respectively.
+In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 to 3.7 fold) and 2.4 fold (range 1.2 to 5.3 fold), respectively.
 Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
 
 Aliskiren
 
 Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycoprotein and CYP3A4.
-In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5 fold (90% CI: 1.96 - 3.17) and the mean AUC by approximately 4.3 fold (90% CI: 3.52 - 5.21), compared to when these subjects received aliskiren alone.
+In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5 fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3 fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone.
 The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the Tmax (0.5 hours versus 1.5 to 2.0 hours).
 The mean AUC and Cmax of cyclosporine were comparable to reported literature values.
 Co-administration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
@@ -429,7 +429,7 @@ Psoriasis patients receiving other immunosuppressive agents or radiation therapy
 During treatment with cyclosporine, vaccination may be less effective.
 The use of live vaccines should be avoided.
 
-For additional information on Cyclosporine Drug Interactions please contact Abbott Laboratories Medical Information Department at 1-800-633-9110.
+For additional information on Cyclosporine Drug Interactions please contact AbbVie Inc. Medical Information Department at 1-800-633-9110.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
@@ -444,7 +444,7 @@ Cyclosporine was not mutagenic in appropriate test systems.
 Cyclosporine has not been found to be mutagenic/genotoxic in the Ames Test, the V79-HGPRT Test, the micronucleus test in mice and Chinese hamsters, the chromosome-aberration tests in Chinese hamster bone-marrow, the mouse dominant lethal assay, and the DNA-repair test in sperm from treated mice.
 A recent study analyzing sister chromatid exchange (SCE) induction by cyclosporine using human lymphocytes in vitro gave indication of a positive effect (i.e., induction of SCE), at high concentrations in this system.
 In two published research studies, rabbits exposed to cyclosporine in utero (10 mg/kg/day subcutaneously) demonstrated reduced numbers of nephrons, renal hypertrophy, systemic hypertension and progressive renal insufficiency up to 35 weeks of age.
-Pregnant rats which received 12 mg/kg/day of cyclosporine intravenously (twice the recommended human intravenous dose) had fetuses with an increase incidence of ventricular septal defect.
+Pregnant rats which received 12 mg/kg/day of cyclosporine intravenously (twice the recommended human intravenous dose) had fetuses with an increased incidence of ventricular septal defect.
 These findings have not been demonstrated in other species and their relevance for humans is unknown.
 
 No impairment in fertility was demonstrated in studies in male and female rats.
@@ -472,7 +472,7 @@ Cyclosporine has been shown to be embryo- and fetotoxic in rats and rabbits foll
 Fetal toxicity was noted in rats at 0.8 and rabbits at 5.4 times the transplant doses in humans of 6 mg/kg, where dose corrections are based on body surface area.
 Cyclosporine was embryo- and fetotoxic as indicated by increased pre- and postnatal mortality and reduced fetal weight together with related skeletal retardation.
 
-There are no adequate and well-controlled studies in pregnant women and, therefore, Gengraf (cyclosporine capsules, USP [MODIFIED]) should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
+There are no adequate and well-controlled studies in pregnant women and, therefore, Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
 
 In pregnant transplant recipients who are being treated with immunosuppressants the risk of premature births is increased.
 The following data represent the reported outcomes of 116 pregnancies in women receiving cyclosporine during pregnancy, 90% of whom were transplant patients, and most of whom received cyclosporine throughout the entire gestational period.
@@ -483,17 +483,17 @@ Pre-term delivery occurred in 47%.
 Seven malformations were reported in 5 viable infants and in 2 cases of fetal loss.
 Twenty-eight percent of the infants were small for gestational age.
 Neonatal complications occurred in 27%.
-Therefore, the risks and benefits of using Gengraf during pregnancy should be carefully weighed.
+Therefore, the risks and benefits of using Gengraf® during pregnancy should be carefully weighed.
 
 A limited number of observations in children exposed to cyclosporine in utero is available, up to an age of approximately 7 years.
 Renal function and blood pressure in these children were normal.
 
-Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using Gengraf in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of Gengraf.
+Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using Gengraf® in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of Gengraf®.
 
 ## Nursing Mothers
 
 Cyclosporine passes into breast milk.
-Mothers receiving treatment with Gengraf should not breast feed.
+Mothers receiving treatment with Gengraf® should not breast feed.
 
 ## Pediatric Use
 
@@ -503,7 +503,7 @@ The safety and efficacy of cyclosporine (MODIFIED) treatment in children with ju
 ## Geriatric Use
 
 In rheumatoid arthritis clinical trials with cyclosporine, 17.5% of patients were age 65 or older.
-These patients were more likely to develop systolic hypertension on therapy, and more likely to show serum creatinine rises ≥ 50% above the baseline after 3-4 months of therapy.
+These patients were more likely to develop systolic hypertension on therapy, and more likely to show serum creatinine rises ≥ 50% above the baseline after 3 to 4 months of therapy.
 
 Clinical studies of cyclosporine oral solution (modified) in transplant and psoriasis patients did not include a sufficient number of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experiences have not identified differences in response between the elderly and younger patients.

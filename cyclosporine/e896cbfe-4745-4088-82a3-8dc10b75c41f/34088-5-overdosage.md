@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
 There is a minimal experience with cyclosporine overdosage.
-Forced emesis and gastric lavage can be of value up to 2 hours after administration of Gengraf (cyclosporine capsules, USP [MODIFIED]).
+Forced emesis and gastric lavage can be of value up to 2 hours after administration of Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]).
 Transient hepatotoxicity and nephrotoxicity may occur which should resolve following drug withdrawal.
 Oral doses of cyclosporine up to 10 g (about 150 mg/kg) have been tolerated with relatively minor clinical consequences, such as vomiting, drowsiness, headache, tachycardia and, in a few patients, moderately severe, reversible impairment of renal function.
 However, serious symptoms of intoxication have been reported following accidental parenteral overdosage with cyclosporine in premature neonates.

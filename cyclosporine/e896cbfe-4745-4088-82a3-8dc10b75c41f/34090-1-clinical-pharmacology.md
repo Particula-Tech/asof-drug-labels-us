@@ -21,18 +21,18 @@ The disposition of cyclosporine from blood is generally biphasic, with a termina
 Following intravenous administration, the blood clearance of cyclosporine (assay: HPLC) is approximately 5 to 7 mL/min/kg in adult recipients of renal or liver allografts.
 Blood cyclosporine clearance appears to be slightly slower in cardiac transplant patients.
 
-The Gengraf Capsules (cyclosporine capsules, USP [MODIFIED]) and Gengraf Oral Solution (cyclosporine oral solution, USP [MODIFIED]) are bioequivalent.
+The Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) and Gengraf® Oral Solution (cyclosporine oral solution, USP [MODIFIED]) are bioequivalent.
 
 The relationship between administered dose and exposure (area under the concentration versus time curve, AUC) is linear within the therapeutic dose range.
 The intersubject variability (total, % CV) of cyclosporine exposure (AUC) when cyclosporine (MODIFIED) or Sandimmune® is administered ranges from approximately 20% to 50% in renal transplant patients.
 This intersubject variability contributes to the need for individualization of the dosing regimen for optimal therapy (see DOSAGE AND ADMINISTRATION).
-Intrasubject variability of AUC in renal transplant recipients (% CV) was 9%-21% for cyclosporine (MODIFIED) and 19%-26% for Sandimmune®.
-In the same studies, intrasubject variability of trough concentrations (% CV) was 17%-30% for cyclosporine (MODIFIED) and 16%-38% for Sandimmune®.
+Intrasubject variability of AUC in renal transplant recipients (% CV) was 9% to 21% for cyclosporine (MODIFIED) and 19% to 26% for Sandimmune®.
+In the same studies, intrasubject variability of trough concentrations (% CV) was 17% to 30% for cyclosporine (MODIFIED) and 16% to 38% for Sandimmune®.
 
 ### Absorption
 
 Cyclosporine (MODIFIED) has increased bioavailability compared to Sandimmune®.
-The absolute bioavailability of cyclosporine administered as Sandimmune is dependent on the patient population, estimated to be less than 10% in liver transplant patients and as great as 89% in some renal transplant patients.
+The absolute bioavailability of cyclosporine administered as Sandimmune® is dependent on the patient population, estimated to be less than 10% in liver transplant patients and as great as 89% in some renal transplant patients.
 The absolute bioavailability of cyclosporine administered as cyclosporine (MODIFIED) has not been determined in adults.
 In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration (Cmax) was approximately 40% to 106% greater following administration of cyclosporine (MODIFIED) compared to following administration of Sandimmune®.
 The dose normalized AUC in de novo liver transplant patients administered cyclosporine (MODIFIED) 28 days after transplantation was 50% greater and Cmax was 90% greater than in those patients administered Sandimmune®.
@@ -60,9 +60,9 @@ When the patients were administered cyclosporine (MODIFIED) with and without T-t
 ### Distribution
 
 Cyclosporine is distributed largely outside the blood volume.
-The steady state volume of distribution during intravenous dosing has been reported as 3-5 L/kg in solid organ transplant recipients.
+The steady state volume of distribution during intravenous dosing has been reported as 3 to 5 L/kg in solid organ transplant recipients.
 In blood, the distribution is concentration dependent.
-Approximately 33%-47% is in plasma, 4%-9% in lymphocytes, 5%-12% in granulocytes, and 41%-58% in erythrocytes.
+Approximately 33% to 47% is in plasma, 4% to 9% in lymphocytes, 5% to 12% in granulocytes, and 41% to 58% in erythrocytes.
 At high concentrations, the binding capacity of leukocytes and erythrocytes becomes saturated.
 In plasma, approximately 90% is bound to proteins, primarily lipoproteins.
 Cyclosporine is excreted in human milk (see PRECAUTIONS - Nursing Mothers).
@@ -94,8 +94,8 @@ No clinically significant pharmacokinetic interactions occurred between cyclospo
 Pediatric Population
 
 Pharmacokinetic data from pediatric patients administered cyclosporine (MODIFIED) or Sandimmune® are very limited.
-In 15 renal transplant patients aged 3-16 years, cyclosporine whole blood clearance after IV administration of Sandimmune® was 10.6 ± 3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
-In a study of 7 renal transplant patients aged 2-16, the cyclosporine clearance ranged from 9.8 to 15.5 mL/min/kg.
+In 15 renal transplant patients aged 3 to 16 years, cyclosporine whole blood clearance after IV administration of Sandimmune® was 10.6 ± 3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
+In a study of 7 renal transplant patients aged 2 to 16, the cyclosporine clearance ranged from 9.8 to 15.5 mL/min/kg.
 In 9 liver transplant patients aged 0.6 to 5.6 years, clearance was 9.3 ± 5.4 mL/min/kg (assay: HPLC).
 
 In the pediatric population, cyclosporine (MODIFIED) also demonstrates an increased bioavailability as compared to Sandimmune®.
