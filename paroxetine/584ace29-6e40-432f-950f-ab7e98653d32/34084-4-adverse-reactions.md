@@ -121,9 +121,9 @@ d. Mostly “ejaculatory delay.”
 
 e. Includes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction,” and “impotence.”
 
-F. Includes mostly “difficulty with micturition” and “urinary hesitancy.”
+f. Includes mostly “difficulty with micturition” and “urinary hesitancy.”
 
-G. Includes mostly “anorgasmia” and “difficulty reaching climax/orgasm.”
+g. Includes mostly “anorgasmia” and “difficulty reaching climax/orgasm.”
 
 #### Obsessive Compulsive Disorder, Panic Disorder, and Social Anxiety Disorder
 
@@ -320,7 +320,7 @@ No significant changes in vital signs (systolic and diastolic blood pressure, pu
 
 #### ECG Changes
 
-In an analysis of ECGs obtained in 682 patients treated with PAXIL and 415 patients treated with placebo in controlled clinical trials, no clinically significant changes were seen in the ECGs of either group
+In an analysis of ECGs obtained in 682 patients treated with PAXIL and 415 patients treated with placebo in controlled clinical trials, no clinically significant changes were seen in the ECGs of either group.
 
 #### Liver Function Tests
 

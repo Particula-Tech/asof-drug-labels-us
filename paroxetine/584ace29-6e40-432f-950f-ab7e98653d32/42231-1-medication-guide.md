@@ -53,9 +53,9 @@ PAXIL may be associated with these serious side effects:
    - ∘trouble breathing
    - ∘swelling of the face, tongue, eyes, or mouth
    - ∘rash, itchy welts (hives), or blisters, alone or with fever or joint pain
-3. 1.Abnormal bleeding: PAXIL and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
-4. 2.Seizures or convulsions
-5. 3.Manic episodes:
+3. 4.Abnormal bleeding: PAXIL and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+4. 5.Seizures or convulsions
+5. 6.Manic episodes:
    - ∘greatly increased energy
    - ∘severe trouble sleeping
    - ∘racing thoughts
@@ -63,9 +63,9 @@ PAXIL may be associated with these serious side effects:
    - ∘unusually grand ideas
    - ∘excessive happiness or irritability
    - ∘talking more or faster than usual
-6. 4.Changes in appetite or weight.
+6. 7.Changes in appetite or weight.
    Children and adolescents should have height and weight monitored during treatment.
-7. 5.Low salt (sodium) levels in the blood.
+7. 8.Low salt (sodium) levels in the blood.
    Elderly people may be at greater risk for this.
    Symptoms may include:
 
@@ -244,8 +244,6 @@ Inactive ingredients in tablets: dibasic calcium phosphate dihydrate, hypromello
 Inactive ingredients in suspension for oral administration: polacrilin potassium, microcrystalline cellulose, propylene glycol, glycerin, sorbitol, methylparaben, propylparaben, sodium citrate dihydrate, citric acid anhydrous, sodium saccharin, flavorings, FD&C Yellow No. 6 aluminum lake, and simethicone emulsion, USP.
 
 PAXIL and PAXIL CR are registered trademarks of GlaxoSmithKline.
-The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
-The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -261,7 +259,7 @@ Apotex Corp.
 
 Weston, FL 33326
 
-©2011, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-July 2011 PXL-AP:3MG
+January 2013 PXL-AP:4MG
