@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-CAMPTOSAR Injection (irinotecan hydrochloride injection) is an antineoplastic agent of the topoisomerase I inhibitor class.
+CAMPTOSAR (irinotecan hydrochloride injection) is an antineoplastic agent of the topoisomerase I inhibitor class.
 
 CAMPTOSAR is supplied as a sterile, pale yellow, clear, aqueous solution.
 Each milliliter of solution contains 20 mg of irinotecan hydrochloride (on the basis of the trihydrate salt), 45 mg of sorbitol, NF, and 0.9 mg of lactic acid, USP.

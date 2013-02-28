@@ -9,7 +9,7 @@ Clinical studies of combination and single-agent use are described below.
 
 First Line Therapy in Combination with 5-FU/LV: Studies 1 and 2
 
-Two phase 3, randomized, controlled, multinational clinical trials support the use of CAMPTOSAR Injection as first-line treatment of patients with metastatic carcinoma of the colon or rectum.
+Two phase 3, randomized, controlled, multinational clinical trials support the use of CAMPTOSAR as first-line treatment of patients with metastatic carcinoma of the colon or rectum.
 In each study, combinations of irinotecan with 5-FU and LV were compared with 5-FU and LV alone.
 Study 1 compared combination irinotecan/bolus 5-FU/LV therapy given weekly with a standard bolus regimen of 5-FU/LV alone given daily for 5 days every 4 weeks; an irinotecan-alone treatment arm given on a weekly schedule was also included.
 Study 2 evaluated two different methods of administering infusional 5-FU/LV, with or without irinotecan.

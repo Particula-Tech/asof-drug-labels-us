@@ -108,9 +108,9 @@ Prophylactic or therapeutic administration of atropine should be considered in p
 
 Inspect vial contents for particulate matter and discoloration and repeat inspection when drug product is withdrawn from vial into syringe.
 
-CAMPTOSAR Injection 20 mg/mL is intended for single use only and any unused portion should be discarded.
+CAMPTOSAR 20 mg/mL is intended for single use only and any unused portion should be discarded.
 
-CAMPTOSAR Injection must be diluted prior to infusion.
+CAMPTOSAR must be diluted prior to infusion.
 CAMPTOSAR should be diluted in 5% Dextrose Injection, USP, (preferred) or 0.9% Sodium Chloride Injection, USP, to a final concentration range of 0.12 mg/mL to 2.8 mg/mL.
 Other drugs should not be added to the infusion solution.
 
@@ -119,14 +119,14 @@ Solutions diluted in 5% Dextrose Injection, USP, and stored at refrigerated temp
 Refrigeration of admixtures using 0.9% Sodium Chloride Injection, USP, is not recommended due to a low and sporadic incidence of visible particulates.
 Freezing CAMPTOSAR and admixtures of CAMPTOSAR may result in precipitation of the drug and should be avoided.
 
-The CAMPTOSAR Injection solution should be used immediately after reconstitution as it contains no antibacterial preservative.
+The CAMPTOSAR solution should be used immediately after reconstitution as it contains no antibacterial preservative.
 Because of possible microbial contamination during dilution, it is advisable to use the admixture prepared with 5% Dextrose Injection, USP, within 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
 In the case of admixtures prepared with 5% Dextrose Injection, USP, or Sodium Chloride Injection, USP, the solutions should be used within 4 hours if kept at room temperature.
-If reconstitution and dilution are performed under strict aseptic conditions (e.g. on Laminar Air Flow bench), CAMPTOSAR Injection solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
+If reconstitution and dilution are performed under strict aseptic conditions (e.g. on Laminar Air Flow bench), CAMPTOSAR solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
 
 ## 2.6 Safe Handling
 
-Care should be exercised in the handling and preparation of infusion solutions prepared from CAMPTOSAR Injection.
+Care should be exercised in the handling and preparation of infusion solutions prepared from CAMPTOSAR.
 The use of gloves is recommended.
 If a solution of CAMPTOSAR contacts the skin, wash the skin immediately and thoroughly with soap and water.
 If CAMPTOSAR contacts the mucous membranes, flush thoroughly with water.

@@ -209,7 +209,8 @@ Eight percent of patients treated with irinotecan and 7% treated with 5-FU-based
 Of the 316 patients treated with irinotecan, the most clinically significant adverse events (all grades, 1–4) were diarrhea (84%), alopecia (72%), nausea (70%), vomiting (62%), cholinergic symptoms (47%), and neutropenia (30%).
 Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in CLINICAL STUDIES (14.1).
 
-Table 8: Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan TherapySeverity of adverse events based on NCI CTC (version 1.0)
+Table 8.
+Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan TherapySeverity of adverse events based on NCI CTC (version 1.0)
 
 | Adverse Event | Irinotecan N=189 | BSC BSC = best supportive care N=90 | Irinotecan N=127 | 5-FU N=129 |
 | --- | --- | --- | --- | --- |
