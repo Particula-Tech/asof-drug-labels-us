@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202971"
+  ],
+  "inn": "aripiprazole",
+  "labeler": "OTSUKA PHARMACEUTICAL CO., LTD.",
+  "package_ndcs": [
+    "46602-0023-5",
+    "46602-0024-5"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION, EXTENDED RELEASE",
+      "generic": "aripiprazole",
+      "name": "Abilify Maintena"
+    }
+  ],
+  "setid": "e3e1c5e2-e038-4220-8900-0cf8935916f9",
+  "source": "dailymed"
+}
