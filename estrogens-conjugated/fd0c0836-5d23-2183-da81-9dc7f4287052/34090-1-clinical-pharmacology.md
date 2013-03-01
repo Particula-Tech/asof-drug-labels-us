@@ -13,7 +13,7 @@ Estrogens act through binding to nuclear receptors in estrogen-responsive tissue
 To date, two estrogen receptors have been identified.
 These vary in proportion from tissue to tissue.
 
-Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH), through a negative feedback mechanism.
+Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and FSH, through a negative feedback mechanism.
 Estrogens act to reduce the elevated levels of these gonadotropins seen in postmenopausal women.
 
 Parenterally administered medroxyprogesterone acetate (MPA) inhibits gonadotropin production, which in turn prevents follicular maturation and ovulation; although available data indicate that this does not occur when the usually recommended oral dosage is given as single daily doses.
@@ -26,7 +26,7 @@ Currently, there are no pharmacodynamic data known for PREMPRO or PREMPHASE tabl
 
 ## 12.3 Pharmacokinetics
 
-### Absorption
+Absorption
 
 PREMPRO and PREMPHASE contain a formulation of medroxyprogesterone acetate (MPA) that is immediately released and conjugated estrogens that are slowly released over several hours.
 Conjugated estrogens are water-soluble and are well-absorbed from the gastrointestinal tract after release from the drug formulation.
@@ -35,62 +35,62 @@ Table 3 and Table 4 summarize the mean pharmacokinetic parameters for select unc
 
 TABLE 3: PHARMACOKINETIC PARAMETERS FOR UNCONJUGATED AND CONJUGATED ESTROGENS (CE) AND MEDROXYPROGESTERONE ACETATE (MPA)
 
-| DRUG | 3 x 0.625 mg CE/2.5 mg MPA Combination Tablets (n = 75) |  |  |  | 2 x 0.625 mg CE/5 mg MPA Combination Tablets (n = 51) |  |  |  |
+| DRUG | 2 × 0.625 mg CE/2.5 mg MPA Combination Tablets (n = 54) |  |  |  | 2 × 0.625 mg CE/5 mg MPA Combination Tablets (n = 51) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unconjugated Estrogens |  |  |  |  |  |  |  |  |
 | PK Parameter Arithmetic Mean (%CV) | Cmax (pg/mL) | tmax (h) | t1/2 (h) | AUC (pg•h/mL) | Cmax (pg/mL) | tmax (h) | t1/2 (h) | AUC (pg•h/mL) |
-| Estrone | 163 (40) | 8.7 (58) | 35.9 (35) | 6859 (37) | 124 (43) | 10 (35) | 62.2 (137) | 6303 (40) |
-| BA* -Estrone | 143 (45) | 8.7 (58) | 20.7 (33) | 4042 (42) | 104 (49) | 10 (35) | 26.0 (100) | 3136 (51) |
-| Equilin | 82 (45) | 7.5 (50) | 14.3 (36) | 1729 (34) | 54 (43) | 8.9 (34) | 15.5 (53) | 1179 (56) |
+| Unconjugated Estrogens |  |  |  |  |  |  |  |  |
+| Estrone | 175 (23) | 7.6 (24) | 31.6 (23) | 5358 (34) | 124 (43) | 10 (35) | 62.2 (137) | 6303 (40) |
+| BA* -Estrone | 159 (26) | 7.6 (24) | 16.9 (34) | 3313 (40) | 104 (49) | 10 (35) | 26.0 (100) | 3136 (51) |
+| Equilin | 71 (31) | 5.8 (34) | 9.9 (35) | 951 (43) | 54 (43) | 8.9 (34) | 15.5 (53) | 1179 (56) |
+| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) |
 | Conjugated Estrogens |  |  |  |  |  |  |  |  |
+| Total Estrone | 6.6 (38) | 6.1 (28) | 20.7 (34) | 116 (59) | 6.3 (48) | 9.1 (29) | 23.6 (36) | 151 (42) |
+| BA* -Total Estrone | 6.4 (39) | 6.1 (28) | 15.4 (34) | 100 (57) | 6.2 (48) | 9.1 (29) | 20.6 (35) | 139 (40) |
+| Total Equilin | 5.1 (45) | 4.6 (35) | 11.4 (25) | 50 (70) | 4.2 (52) | 7.0 (36) | 17.2 (131) | 72 (50) |
 | PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) |
-| Total Estrone | 5.8 (45) | 7.4 (39) | 22.8 (40) | 127 (43) | 6.3 (48) | 9.1 (29) | 23.6 (36) | 151 (42) |
-| BA* -Total Estrone | 5.6 (46) | 7.4 (39) | 16.0 (36) | 107 (42) | 6.2 (48) | 9.1 (29) | 20.6 (35) | 139 (40) |
-| Total Equilin | 4.4 (48) | 5.7 (46) | 11.8 (36) | 68 (41) | 4.2 (52) | 7.0 (36) | 17.2 (131) | 72 (50) |
-| Medroxyprogesterone Acetatea |  |  |  |  |  |  |  |  |
-| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) |
-| MPA | 0.9 (67) | 2.0 (46) | 28.1 (25) | 6.0 (60) | 4.8 (31) | 2.4 (50) | 46.3 (39) | 102 (28) |
-| BA* = Baseline adjustedCmax = peak plasma concentration tmax = time peak concentration occurst1/2 = apparent terminal-phase disposition half-life (0.693/λz)AUC = total area under the concentration-time curve aMPA concentrations in plasma samples obtained following administration of 3 x 0.625 mg CE/2.5 mg MPA combination tablets were measured by gas chromatography/mass spectroscopy/mass spectroscopy. MPA concentrations in plasma samples from previous studies with 2 x 0.625 mg CE/2.5 mg MPA combination tablets were measured by radioimmunoassay. |  |  |  |  |  |  |  |  |
+| Medroxyprogesterone Acetate |  |  |  |  |  |  |  |  |
+| MPA | 1.5 (40) | 2.8 (54) | 37.6 (30) | 37 (30) | 4.8 (31) | 2.4 (50) | 46.3 (39) | 102 (28) |
+| BA* = Baseline adjusted Cmax = peak plasma concentration tmax = time peak concentration occurs t1/2 = apparent terminal-phase disposition half-life (0.693/λz) AUC = total area under the concentration-time curve |  |  |  |  |  |  |  |  |
 
 TABLE 4.
 PHARMACOKINETIC PARAMETERS FOR UNCONJUGATED AND CONJUGATED ESTROGENS (CE) AND MEDROXYPROGESTERONE ACETATE (MPA)
 
-| DRUG | 4 x 0.45 mg CE/1.5 mg MPA Combination (n = 65) |  |  |  |
+| DRUG | 4 × 0.45 mg CE/1.5 mg MPA Combination (n = 65) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Unconjugated Estrogens |  |  |  |  |
 | PK Parameter Arithmetic Mean (%CV) | Cmax (pg/mL) | tmax (h) | t1/2 (h) | AUC (pg•h/mL) |
+| Unconjugated Estrogens |  |  |  |  |
 | Estrone | 149 (35) | 8.9 (35) | 37.5 (35) | 6641 (39) |
 | BA* -Estrone | 130 (40) | 8.9 (35) | 21.2 (35) | 3799 (47) |
 | Equilin | 83 (38) | 8.3 (48) | 15.9 (44) | 1889 (40) |
-| Conjugated Estrogens |  |  |  |  |
 | PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) |
+| Conjugated Estrogens |  |  |  |  |
 | Total Estrone | 5.4 (49) | 7.9 (48) | 22.4 (53) | 119 (48) |
 | BA* -Total Estrone | 5.2 (48) | 7.9 (48) | 15.1 (29) | 100 (47) |
 | Total Equilin | 4.3 (42) | 6.5 (45) | 11.6 (31) | 74 (48) |
-| Medroxyprogesterone Acetatea |  |  |  |  |
 | PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) |
+| Medroxyprogesterone Acetate |  |  |  |  |
 | MPA | 0.7 (66) | 2.0 (52) | 26.2 (35) | 5.0 (61) |
-| BA* = Baseline adjustedCmax = peak plasma concentrationtmax = time peak concentration occurs t1/2 = apparent terminal-phase disposition half-life (0.693/λz)AUC = total area under the concentration-time curve aMPA concentrations in plasma samples obtained following administration of 4 x 0.45 mg CE/1.5 mg MPA combination tablets were measured by gas chromatography/mass spectroscopy/mass spectroscopy. |  |  |  |  |
+| BA* = Baseline adjusted Cmax = peak plasma concentration tmax = time peak concentration occurs t1/2 = apparent terminal-phase disposition half-life (0.693/λz) AUC = total area under the concentration-time curve |  |  |  |  |
 
 Food-Effect: Single dose studies in healthy, postmenopausal women were conducted to investigate any potential drug interaction when PREMPRO or PREMPHASE is administered with a high-fat breakfast.
 Administration with food decreased the Cmax of total estrone by 18 to 34 percent and increased total equilin Cmax by 38 percent compared to the fasting state, with no other effect on the rate or extent of absorption of other conjugated or unconjugated estrogens.
 Administration with food approximately doubles MPA Cmax and increases MPA AUC by approximately 20 to 30 percent.
 
-Dose Proportionality: The Cmax and AUC values for MPA observed in two separate pharmacokinetic studies conducted with 2 PREMPRO 0.625 mg/2.5 mg or 2 PREMPRO or PREMPHASE 0.625 mg/5 mg tablets exhibited nonlinear dose proportionality; doubling the MPA dose from 2 x 2.5 to 2 x 5 mg increased the mean Cmax and AUC by 3.2- and 2.8-fold, respectively.
+Dose Proportionality: The Cmax and AUC values for MPA observed in two separate pharmacokinetic studies conducted with 2 PREMPRO 0.625 mg/2.5 mg or 2 PREMPRO or PREMPHASE 0.625 mg/5 mg tablets exhibited nonlinear dose proportionality; doubling the MPA dose from 2 × 2.5 to 2 × 5 mg increased the mean Cmax and AUC by 3.2- and 2.8-fold, respectively.
 
-The dose proportionality of estrogens and MPA was assessed by combining pharmacokinetic data across another two studies totaling 61 healthy, postmenopausal women.
-Single conjugated estrogens doses of 2 x 0.3 mg, 2 x 0.45 mg, or 2 x 0.625 mg were administered either alone or in combination with MPA doses of 2 x 1.5 mg or 2 x 2.5 mg.
+The dose proportionality of estrogens and medroxyprogesterone acetate was assessed by combining pharmacokinetic data across another two studies totaling 61 healthy, postmenopausal women.
+Single conjugated estrogens doses of 2 × 0.3 mg, 2 × 0.45 mg, or 2 × 0.625 mg were administered either alone or in combination with medroxyprogesterone acetate doses of 2 × 1.5 mg or 2 × 2.5 mg.
 Most of the estrogen components demonstrated dose proportionality; however, several estrogen components did not.
-MPA pharmacokinetic parameters increased in a dose-proportional manner.
+Medroxyprogesterone acetate pharmacokinetic parameters increased in a dose-proportional manner.
 
-### Distribution
+Distribution
 
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
-Estrogens circulate in the blood largely bound to sex hormone‑binding globulin (SHBG) and albumin.
+Estrogens circulate in the blood largely bound to SHBG and albumin.
 MPA is approximately 90 percent bound to plasma proteins, but does not bind to SHBG.
 
-### Metabolism
+Metabolism
 
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
@@ -100,11 +100,11 @@ Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide c
 In postmenopausal women, a significant portion of the circulating estrogens exists as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 Metabolism and elimination of MPA occur primarily in the liver via hydroxylation, with subsequent conjugation and elimination in the urine.
 
-### Excretion
+Excretion
 
-Estradiol, estrone, and estriol are excreted in the urine, along with glucuronide and sulfate conjugates.
+Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 Most metabolites of MPA are excreted as glucuronide conjugates, with only minor amounts excreted as sulfates.
 
-### Specific Populations
+Use in Specific Populations
 
 No pharmacokinetic studies were conducted in specific populations, including patients with renal or hepatic impairment.
