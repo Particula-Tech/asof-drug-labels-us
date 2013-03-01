@@ -2,14 +2,14 @@
 
 See BOXED WARNINGS.
 
-## Cardiovascular disorders
+## 1. Cardiovascular disorders
 
 Estrogen and estrogen/progestin therapy has been associated with an increased risk of cardiovascular events such as myocardial infarction and stroke, as well as venous thrombosis and pulmonary embolism (venous thromboembolism or VTE).
 Should any of these occur or be suspected, estrogens should be discontinued immediately.
 
 Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (e.g., personal history or family history of VTE, obesity, and systemic lupus erythematosus) should be managed appropriately.
 
-### Coronary heart disease and stroke
+### a. Coronary heart disease and stroke
 
 In the Women’s Health Initiative (WHI) study, an increased risk of stroke was observed in women receiving oral CE compared to placebo.
 
@@ -27,7 +27,7 @@ Two thousand three hundred and twenty one women from the original HERS trial agr
 Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall.
 Rates of CHD events were comparable among women in the CE/MPA group and the placebo group in HERS, HERS II, and overall.
 
-### Venous thromboembolism (VTE)
+### b. Venous thromboembolism (VTE)
 
 In the Women’s Health Initiative (WHI) study, an increased risk of deep vein thrombosis was observed in women receiving CE compared to placebo.
 
@@ -38,9 +38,9 @@ The increase in VTE risk was observed during the first year and persisted.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
-## Malignant neoplasms
+## 2. Malignant neoplasms
 
-### Endometrial cancer
+### a. Endometrial cancer
 
 The use of unopposed estrogens in women with intact uteri has been associated with an increased risk of endometrial cancer.
 The reported endometrial cancer risk among unopposed estrogen users is about 2-fold to 12-fold greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.
@@ -52,7 +52,7 @@ Adequate diagnostic measures, including endometrial sampling when indicated, sho
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 
-### Breast cancer
+### b. Breast cancer
 
 The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
 The most important randomized clinical trial providing information about this issue is the Women’s Health Initiative (WHI) substudy of CE/MPA (see CLINICAL PHARMACOLOGY, Clinical Studies).
@@ -76,7 +76,7 @@ The use of estrogen plus progestin has been reported to result in an increase in
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
-## Dementia
+## 3. Dementia
 
 In the Women’s Health Initiative Memory Study (WHIMS), 4,532 generally healthy postmenopausal women 65 years of age and older were studied, of whom 35% were 70 to 74 years of age and 18% were 75 or older.
 After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n = 2,229) and 21 women in the placebo group (0.9%, n = 2,303) received diagnoses of probable dementia.
@@ -85,16 +85,16 @@ The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 2
 It is unknown whether these findings apply to younger postmenopausal women.
 (See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use.)
 
-## Gallbladder disease
+## 4. Gallbladder disease
 
 A 2-fold to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
 
-## Hypercalcemia
+## 5. Hypercalcemia
 
 Estrogen administration may lead to severe hypercalcemia in patients with breast cancer and bone metastases.
 If hypercalcemia occurs, use of the drug should be stopped and appropriate measures taken to reduce the serum calcium level.
 
-## Visual abnormalities
+## 6. Visual abnormalities
 
 Retinal vascular thrombosis has been reported in patients receiving estrogens.
 Discontinue medication pending examination if there is sudden partial or complete loss of vision, or a sudden onset of proptosis, diplopia, or migraine.
@@ -102,9 +102,9 @@ If examination reveals papilledema or retinal vascular lesions, estrogens should
 
 # PRECAUTIONS
 
-## General
+## A. General
 
-### Addition of a progestin when a woman has not had a hysterectomy
+### 1. Addition of a progestin when a woman has not had a hysterectomy
 
 Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
 Endometrial hyperplasia may be a precursor to endometrial cancer.
@@ -112,37 +112,37 @@ Endometrial hyperplasia may be a precursor to endometrial cancer.
 There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone treatment.
 These include a possible increased risk of breast cancer.
 
-### Elevated blood pressure
+### 2. Elevated blood pressure
 
 In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
 In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogens on blood pressure was not seen.
 Blood pressure should be monitored at regular intervals with estrogen use.
 
-### Hypertriglyceridemia
+### 3. Hypertriglyceridemia
 
 In patients with preexisting hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis and other complications.
 
-### Impaired liver function and past history of cholestatic jaundice
+### 4. Impaired liver function and past history of cholestatic jaundice
 
 Estrogens may be poorly metabolized in patients with impaired liver function.
 For patients with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised and in the case of recurrence, medication should be discontinued.
 
-### Hypothyroidism
+### 5. Hypothyroidism
 
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
 Patients with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
 Patients dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy.
 These patients should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
 
-### Fluid retention
+### 6. Fluid retention
 
 Because estrogens may cause some degree of fluid retention, patients with conditions that might be influenced by this factor, such as a cardiac or renal dysfunction, warrant careful observation when estrogens are prescribed.
 
-### Hypocalcemia
+### 7. Hypocalcemia
 
 Estrogens should be used with caution in individuals with severe hypocalcemia.
 
-### Ovarian cancer
+### 8. Ovarian cancer
 
 The CE/MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95% confidence interval 0.77-3.24) but was not statistically significant.
@@ -150,57 +150,57 @@ The absolute risk for CE/MPA versus placebo was 4.2 versus 2.7 cases per 10,000 
 In some epidemiological studies, the use of estrogen alone, in particular for ten or more years, has been associated with an increased risk of ovarian cancer.
 Other epidemiologic studies have not found these associations.
 
-### Exacerbation of endometriosis
+### 9. Exacerbation of endometriosis
 
 Endometriosis may be exacerbated with administration of estrogens.
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen alone therapy.
 For patients known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-### Exacerbation of other conditions
+### 10. Exacerbation of other conditions
 
 Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine or porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
 
-## Patient Information
+## B. Patient Information
 
 Physicians are advised to discuss the PATIENT INFORMATION leaflet with patients for whom they prescribe Estradiol Transdermal System Continuous Delivery (Once-Weekly).
 
-## Laboratory Tests
+## C. Laboratory Tests
 
 Estrogen administration should be initiated at the lowest dose approved for the indication and then guided by clinical response rather than by serum hormone levels (e.g., estradiol, FSH).
 
-## Drug/Laboratory Test Interactions
+## D. Drug/Laboratory Test Interactions
 
-1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-2. Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+1. 1.Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+2. 2.Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
    T3 resin uptake is decreased, reflecting the elevated TBG.
    Free T4 and free T3 concentrations are unaltered.
    Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
-3. Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.
+3. 3.Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.
    Free hormone concentrations may be decreased.
    Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
-4. Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, and in oral formulations increased triglyceride levels.
-5. Impaired glucose tolerance.
-6. Reduced response to metyrapone test.
+4. 4.Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, and in oral formulations increased triglyceride levels.
+5. 5.Impaired glucose tolerance.
+6. 6.Reduced response to metyrapone test.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## E. Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
 (See BOXED WARNINGS, WARNINGS and PRECAUTIONS.)
 
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
-## Pregnancy
+## F. Pregnancy
 
 Estradiol Transdermal System Continuous Delivery (Once-Weekly) should not be used during pregnancy.
 (See CONTRAINDICATIONS.)
 
-## Nursing Mothers
+## G. Nursing Mothers
 
 Estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
 Detectable amounts of estrogens have been identified in the milk of mothers receiving this drug.
 Caution should be exercised when Estradiol Transdermal System Continuous Delivery (Once-Weekly) is administered to a nursing woman.
 
-## Pediatric Use
+## H. Pediatric Use
 
 Estrogen replacement therapy has been used for the induction of puberty in adolescents with some forms of pubertal delay.
 Safety and effectiveness in pediatric patients have not otherwise been established.
@@ -210,7 +210,7 @@ Estrogen treatment of prepubertal girls also induces premature breast developmen
 In boys, estrogen treatment may modify the normal pubertal process and induce gynecomastia.
 (See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION.)
 
-## Geriatric Use
+## I. Geriatric Use
 
 There have not been sufficient numbers of geriatric patients involved in clinical studies utilizing Estradiol Transdermal System Continuous Delivery (Once-Weekly) to determine whether those over 65 years of age differ from younger subjects in their response to Estradiol Transdermal System Continuous Delivery (Once-Weekly).
 

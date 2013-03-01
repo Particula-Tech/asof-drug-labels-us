@@ -187,7 +187,7 @@ Results of the CE/MPA substudy, which included 16,608 women (average age of 63 y
 
 Table 3 RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHIadapted from JAMA, 2002; 288:321-333
 
-| Event | Relative Risk CE/MPA vs. Placebo at 5.2 Years (95% CI**nominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebo n = 8102 | CE/MPA n = 8506 |
+| Event | Relative Risk CE/MPA vs. Placebo at 5.2 Years (95% CI nominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebo n = 8102 | CE/MPA n = 8506 |
 | --- | --- | --- | --- |
 | Absolute Risk per 10,000 Person-years |  |  |  |
 | CHD events Nonfatal MI CHD death | 1.29 (1.02-1.63) 1.32 (1.02-1.72) 1.18 (0.70-1.97) | 30 23 6 | 37 30 7 |

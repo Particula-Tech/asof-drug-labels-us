@@ -9,7 +9,8 @@ There is no evidence that the use of “natural” estrogens results in a differ
 CARDIOVASCULAR AND OTHER RISKS
 
 Estrogens with and without progestins should not be used for the prevention of cardiovascular disease or dementia.
-(See WARNINGS, Cardiovascular disorders and Dementia.)
+(See WARNINGS, Cardiovascular disorders and 3.
+Dementia.)
 
 The Women’s Health Initiative (WHI) study reported increased risks of myocardial infarction, stroke, invasive breast cancer, pulmonary emboli, and deep vein thrombosis in postmenopausal women (50 to 79 years of age) during 5 years of treatment with oral conjugated estrogens (CE 0.625 mg) combined with medroxyprogesterone acetate (MPA 2.5 mg) relative to placebo.
 (See CLINICAL PHARMACOLOGY, Clinical Studies and WARNINGS, Cardiovascular disorders and Malignant neoplasms, Breast cancer.)
@@ -23,13 +24,13 @@ Because of these risks, estrogens with or without progestins should be prescribe
 
 What is the most important information I should know about Estradiol Transdermal System Continuous Delivery (Once-Weekly) (an estrogen hormone)?
 
-- Estrogens increase the chances of getting cancer of the uterus.
+- •Estrogens increase the chances of getting cancer of the uterus.
 
 Report any unusual vaginal bleeding right away while you are taking estrogens.
 Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
 Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
-- Do not use estrogens with or without progestins to prevent heart disease, heart attacks, strokes, or dementia.
+- •Do not use estrogens with or without progestins to prevent heart disease, heart attacks, strokes, or dementia.
 
 Using estrogens with or without progestins may increase your chances of getting heart attack, strokes, breast cancer, and blood clots.
 Using estrogens with progestins may increase your risk of dementia.

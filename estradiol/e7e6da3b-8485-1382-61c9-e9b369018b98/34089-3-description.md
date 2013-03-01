@@ -9,6 +9,8 @@ Estradiol USP is a white, crystalline powder, chemically described as estra-1,3,
 It has a molecular formula of C18H2402 and molecular weight of 272.39.
 The structural formula is:
 
+Meets USP Drug Release Test 2.
+
 The Estradiol Transdermal System Continuous Delivery (Once-Weekly) comprises four layers.
 Proceeding from the visible surface toward the surface attached to the skin, these layers are (1) a foam backing with adhesive layer, (2) a polyester film, and (3) an acrylate adhesive matrix containing estradiol USP.
 A protective liner (4) of siliconized polyester film is attached to the adhesive surface and must be removed before the system can be used.

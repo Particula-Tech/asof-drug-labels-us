@@ -25,10 +25,10 @@ Estradiol Transdermal System, 0.1 mg/day Continuous Delivery (Once-Weekly), USP 
 Individual Carton of 4 systems
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 Do not store unpouched.
 Apply immediately upon removal from the protective pouch.
 
-MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED AUGUST 2008 ETS:R16
+REVISED AUGUST 2012 ETS:R19
