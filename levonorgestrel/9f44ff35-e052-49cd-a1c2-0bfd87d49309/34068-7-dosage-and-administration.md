@@ -26,7 +26,6 @@ Use strict aseptic techniques throughout the insertion procedure [see Warnings a
 
 - •Insert Skyla into the uterine cavity during the first seven days of the menstrual cycle or immediately after a first trimester abortion.
   Back up contraception is not needed when Skyla is inserted as directed.
-
 - •Postpone postpartum insertion and insertions following second trimester abortions a minimum of six weeks or until the uterus is fully involuted.
   If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.6, 5.7)].
 
@@ -97,7 +96,6 @@ Figure 3: Setting the flange
 
 - •Continue holding the slider in this forward position.
   Advance the inserter through the cervix until the flange is approximately 1.5–2 cm from the cervix and then pause (Figure 4).
-- 
 
 Figure 4.
 Advancing insertion tube until flange is 1.5 to 2 cm from the cervix
@@ -109,7 +107,6 @@ If necessary, dilate the cervical canal.
 
 - •While holding the inserter steady, move the slider down to the mark to release the arms of Skyla (Figure 5).
   Wait 10 seconds for the horizontal arms to open completely.
-- 
 
 #### Step 6–Advance to fundal position
 
@@ -133,9 +130,9 @@ Move Skyla into the fundal position
 Figure 8.
 Cutting the threads
 
-1. Skyla insertion is now complete.
-   Prescribe analgesics, if indicated.
-   Keep a copy of the Consent Form with lot number for your records.
+- Skyla insertion is now complete.
+  Prescribe analgesics, if indicated.
+  Keep a copy of the Consent Form with lot number for your records.
 
 ### Important information to consider during or after insertion
 

@@ -2,9 +2,9 @@
 
 ## 5.1 Ectopic Pregnancy
 
-1. Evaluate women for ectopic pregnancy if they become pregnant with Skyla in place because the likelihood of a pregnancy being ectopic is increased with Skyla.
-   Approximately half of pregnancies that occur with Skyla in place are likely to be ectopic.
-   Also consider the possibility of ectopic pregnancy in the case of lower abdominal pain, especially in association with missed periods or if an amenorrheic woman starts bleeding.
+- Evaluate women for ectopic pregnancy if they become pregnant with Skyla in place because the likelihood of a pregnancy being ectopic is increased with Skyla.
+  Approximately half of pregnancies that occur with Skyla in place are likely to be ectopic.
+  Also consider the possibility of ectopic pregnancy in the case of lower abdominal pain, especially in association with missed periods or if an amenorrheic woman starts bleeding.
 
 The incidence of ectopic pregnancy in clinical trials with Skyla, which excluded women with a history of ectopic pregnancy, was approximately 0.1% per year.
 The risk of ectopic pregnancy in women who have a history of ectopic pregnancy and use Skyla is unknown.
@@ -46,10 +46,10 @@ Aseptic technique during insertion of Skyla is essential in order to minimize se
 
 ### Pelvic Inflammatory Disease (PID)
 
-1. Skyla is contraindicated in the presence of known or suspected PID or in women with a history of PID unless there has been a subsequent intrauterine pregnancy [see Contraindications (4)].
-   IUDs have been associated with an increased risk of PID, most likely due to organisms being introduced into the uterus during insertion.1 In clinical trials, PID was observed in 0.4% of women overall and occurred more frequently within the first year and most often within the first month after insertion of Skyla.
-2. Promptly examine users with complaints of lower abdominal or pelvic pain, odorous discharge, unexplained bleeding, fever, genital lesions or sores.
-   Remove Skyla in cases of recurrent endometritis or pelvic inflammatory disease, or if an acute pelvic infection is severe or does not respond to treatment.
+- Skyla is contraindicated in the presence of known or suspected PID or in women with a history of PID unless there has been a subsequent intrauterine pregnancy [see Contraindications (4)].
+  IUDs have been associated with an increased risk of PID, most likely due to organisms being introduced into the uterus during insertion.1 In clinical trials, PID was observed in 0.4% of women overall and occurred more frequently within the first year and most often within the first month after insertion of Skyla.
+- Promptly examine users with complaints of lower abdominal or pelvic pain, odorous discharge, unexplained bleeding, fever, genital lesions or sores.
+  Remove Skyla in cases of recurrent endometritis or pelvic inflammatory disease, or if an acute pelvic infection is severe or does not respond to treatment.
 
 #### Women at increased risk for PID
 
@@ -133,7 +133,9 @@ If perforation occurs, locate and remove Skyla.
 Surgery may be required.
 Delayed detection or removal of Skyla in case of perforation may result in migration outside the uterine cavity, adhesions, peritonitis, intestinal perforations, intestinal obstruction, abscesses and erosion of adjacent viscera.
 
-The risk of perforation may be increased if Skyla is inserted during lactation or when the uterus is fixed retroverted or not completely involuted during the postpartum period.
+Clinical trials with Skyla excluded breast-feeding women.
+An interim analysis from a large postmarketing safety study with other IUDs shows an increased risk of perforation in lactating women.
+The risk of perforation may be increased if Skyla is inserted when the uterus is fixed retroverted or not completely involuted during the postpartum period.
 Delay Skyla insertion a minimum of six weeks or until involution is complete following a delivery or a second trimester abortion.
 
 ## 5.7 Expulsion
