@@ -4,16 +4,17 @@ Drugs or herbal products that induce enzymes, including CYP3A4, that metabolize 
 
 Some drugs or herbal products that may decrease the serum concentration of levonorgestrel include:
 
-- barbiturates
-- bosentan
-- carbamazepine
-- felbamate
-- griseofulvin
-- oxcarbazepine
-- phenytoin
-- rifampin
-- St. John’s wort
-- topiramate.
+- •barbiturates
+- •bosentan
+- •carbamazepine
+- •felbamate
+- •griseofulvin
+- •oxcarbazepine
+- •phenytoin
+- •rifampin
+- •St.
+  John’s wort
+- •topiramate.
 
 Significant changes (increase or decrease) in the serum concentrations of the progestin have been noted in some cases of co-administration with HIV protease inhibitors or with non-nucleoside reverse transcriptase inhibitors.
 

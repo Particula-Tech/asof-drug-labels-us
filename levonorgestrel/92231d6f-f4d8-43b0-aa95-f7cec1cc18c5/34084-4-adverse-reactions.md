@@ -2,13 +2,13 @@
 
 The following most serious adverse reactions associated with the use of Mirena are discussed in greater detail in the Warnings and Precautions section (5):
 
-- Ectopic Pregnancy [see Warnings and Precautions (5.1)]
-- Intrauterine Pregnancy [see Warnings and Precautions (5.2)]
-- Group A streptococcal sepsis (GAS) [see Warnings and Precautions (5.3)]
-- Pelvic Inflammatory Disease [see Warnings and Precautions (5.4)]
-- Embedment [see Warnings and Precautions (5.6)]
-- Perforation [see Warnings and Precautions (5.7)]
-- Breast Cancer [see Warnings and Precautions (5.10)]
+- •Ectopic Pregnancy [see Warnings and Precautions (5.1)]
+- •Intrauterine Pregnancy [see Warnings and Precautions (5.2)]
+- •Group A streptococcal sepsis (GAS) [see Warnings and Precautions (5.3)]
+- •Pelvic Inflammatory Disease [see Warnings and Precautions (5.4)]
+- •Embedment [see Warnings and Precautions (5.6)]
+- •Perforation [see Warnings and Precautions (5.7)]
+- •Breast Cancer [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trial Experience
 

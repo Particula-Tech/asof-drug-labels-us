@@ -108,7 +108,9 @@ If perforation occurs, pregnancy may result [see Warnings and Precautions (5.1 a
 Mirena must be located and removed; surgery may be required.
 Delayed detection of perforation may result in migration outside the uterine cavity, adhesions, peritonitis, intestinal perforations, intestinal obstruction, abscesses and erosion of adjacent viscera.
 
-The risk of perforation may be increased in lactating women, in women with fixed retroverted uteri, and during the postpartum period.
+Clinical trials with Mirena excluded breast-feeding women.
+An interim analysis from a large postmarketing safety study shows an increased risk of perforation in lactating women.
+The risk of perforation may be increased in women with fixed retroverted uteri, and during the postpartum period.
 To decrease the risk of perforation postpartum, Mirena insertion should be delayed a minimum of 6 weeks after delivery or until uterine involution is complete.
 If involution is substantially delayed, consider waiting until 12 weeks postpartum.
 Inserting Mirena immediately after first trimester abortion is not known to increase the risk of perforation, but insertion after second trimester abortion should be delayed until uterine involution is complete.
@@ -143,66 +145,66 @@ Two observational studies have not provided evidence of an increased risk of bre
 
 ## 5.11 Patient Evaluation and Clinical Considerations
 
-- A complete medical and social history, including that of the partner, should be obtained to determine conditions that might influence the selection of an IUD for contraception [see Contraindications (4)].
-- Special attention must be given to ascertaining whether the woman is at increased risk of infection (for example, leukemia, acquired immune deficiency syndrome (AIDS), I.V. drug abuse), or has a history of PID unless there has been a subsequent intrauterine pregnancy.
+- •A complete medical and social history, including that of the partner, should be obtained to determine conditions that might influence the selection of an IUD for contraception [see Contraindications (4)].
+- •Special attention must be given to ascertaining whether the woman is at increased risk of infection (for example, leukemia, acquired immune deficiency syndrome (AIDS), I.V. drug abuse), or has a history of PID unless there has been a subsequent intrauterine pregnancy.
   Mirena is contraindicated in these women.
-- A physical examination should include a pelvic examination, a Pap smear, examination of the breasts, and appropriate tests for any other forms of genital or other sexually transmitted diseases, such as gonorrhea and chlamydia laboratory evaluations, if indicated.
+- •A physical examination should include a pelvic examination, a Pap smear, examination of the breasts, and appropriate tests for any other forms of genital or other sexually transmitted diseases, such as gonorrhea and chlamydia laboratory evaluations, if indicated.
   Use of Mirena in patients with vaginitis or cervicitis should be postponed until proper treatment has eradicated the infection and until it has been shown that the cervicitis is not due to gonorrhea or chlamydia [see Contraindications (4)].
-- Irregular bleeding may mask symptoms and signs of endometrial polyps or cancer.
+- •Irregular bleeding may mask symptoms and signs of endometrial polyps or cancer.
   Because irregular bleeding/spotting is common during the first months of Mirena use, exclude endometrial pathology prior to the insertion of Mirena in women with persistent or uncharacteristic bleeding.
   If unexplained bleeding irregularities develop during the prolonged use of Mirena, appropriate diagnostic measures should be taken [see Warnings and Precautions (5.5)].
-- The healthcare provider should determine that the patient is not pregnant.
+- •The healthcare provider should determine that the patient is not pregnant.
   The possibility of insertion of Mirena in the presence of an existing undetermined pregnancy is reduced if insertion is performed within 7 days of the onset of a menstrual period.
   Mirena can be replaced by a new system at any time in the cycle.
   Mirena can be inserted immediately after first trimester abortion.
-- Mirena should not be inserted until 6 weeks postpartum or until involution of the uterus is complete in order to reduce the incidence of perforation and expulsion.
+- •Mirena should not be inserted until 6 weeks postpartum or until involution of the uterus is complete in order to reduce the incidence of perforation and expulsion.
   If involution is substantially delayed, consider waiting until 12 weeks postpartum [see Warnings and Precautions (5.7)].
-- Patients with certain types of valvular or congenital heart disease and surgically constructed systemic-pulmonary shunts are at increased risk of infective endocarditis.
+- •Patients with certain types of valvular or congenital heart disease and surgically constructed systemic-pulmonary shunts are at increased risk of infective endocarditis.
   Use of Mirena in these patients may represent a potential source of septic emboli.
   Patients with known congenital heart disease who may be at increased risk should be treated with appropriate antibiotics at the time of insertion and removal.
-- Patients requiring chronic corticosteroid therapy or insulin for diabetes should be monitored with special care for infection.
+- •Patients requiring chronic corticosteroid therapy or insulin for diabetes should be monitored with special care for infection.
 
 ### Mirena should be used with caution in patients who have:
 
-- Coagulopathy or are receiving anticoagulants
-- Migraine, focal migraine with asymmetrical visual loss or other symptoms indicating transient cerebral ischemia
-- Exceptionally severe headache
-- Marked increase of blood pressure
-- Severe arterial disease such as stroke or myocardial infarction.
+- •Coagulopathy or are receiving anticoagulants
+- •Migraine, focal migraine with asymmetrical visual loss or other symptoms indicating transient cerebral ischemia
+- •Exceptionally severe headache
+- •Marked increase of blood pressure
+- •Severe arterial disease such as stroke or myocardial infarction.
 
 ## 5.12 Insertion Precautions
 
-- Observe strict asepsis during insertion.
+- •Observe strict asepsis during insertion.
   The presence of organisms capable of establishing PID cannot be determined by appearance, and IUD insertion may be associated with introduction of vaginal bacteria into the uterus.
   Administration of antibiotics may be considered, but the utility of this treatment is unknown.
-- Carefully sound the uterus prior to Mirena insertion to determine the degree of patency of the endocervical canal and the internal os, and the direction and depth of the uterine cavity.
+- •Carefully sound the uterus prior to Mirena insertion to determine the degree of patency of the endocervical canal and the internal os, and the direction and depth of the uterine cavity.
   In occasional cases, severe cervical stenosis may be encountered.
   Do not use excessive force to overcome this resistance.
-- Fundal positioning of Mirena is important to prevent expulsion and maximize efficacy.
+- •Fundal positioning of Mirena is important to prevent expulsion and maximize efficacy.
   Therefore, follow the instructions for the insertion carefully.
-- If the patient develops decreased pulse, perspiration, or pallor, have her remain supine until these signs resolve.
+- •If the patient develops decreased pulse, perspiration, or pallor, have her remain supine until these signs resolve.
   Insertion may be associated with some pain and/or bleeding.
   Syncope, bradycardia, or other neurovascular episodes may occur during insertion of Mirena, especially in patients with a predisposition to these conditions or cervical stenosis.
 
 ## 5.13 Continuation and Removal
 
-- Reexamine and evaluate patients 4 to 12 weeks after insertion and once a year thereafter, or more frequently if clinically indicated.
-- If the threads are not visible, they may have retracted into the uterus or broken, or Mirena may have broken, perforated the uterus, or been expelled [see Warnings and Precautions (5.7 and5.8)].
+- •Reexamine and evaluate patients 4 to 12 weeks after insertion and once a year thereafter, or more frequently if clinically indicated.
+- •If the threads are not visible, they may have retracted into the uterus or broken, or Mirena may have broken, perforated the uterus, or been expelled [see Warnings and Precautions (5.7 and 5.8)].
   If the length of the threads has changed from the length at time of insertion, the system may have become displaced.
   Pregnancy must be excluded and the location of Mirena verified, for example, by sonography, X-ray, or by gentle exploration of the uterine cavity with a probe.
   If Mirena is displaced, remove it.
   A new Mirena may be inserted at that time or during the next menses if it is certain that conception has not occurred.
   If Mirena is in place with no evidence of perforation, no intervention is indicated.
-- Promptly examine users with complaints of pain, odorous discharge, unexplained bleeding [see Warnings and Precautions (5.5)], fever, genital lesions or sores.
-- Consider the possibility of ectopic pregnancy in the case of lower abdominal pain especially in association with missed periods or if an amenorrheic woman starts bleeding [see Warnings and Precautions (5.1)].
+- •Promptly examine users with complaints of pain, odorous discharge, unexplained bleeding [see Warnings and Precautions (5.5)], fever, genital lesions or sores.
+- •Consider the possibility of ectopic pregnancy in the case of lower abdominal pain especially in association with missed periods or if an amenorrheic woman starts bleeding [see Warnings and Precautions (5.1)].
 
 ### In the event a pregnancy is confirmed during Mirena use:
 
-- Determine whether pregnancy is ectopic and, if so, take appropriate measures.
-- Inform patient of the risks of leaving Mirena in place or removing it during pregnancy and of the lack of data on long-term effects on the offspring of women who have had Mirena in place during conception or gestation [see Warnings and Precautions (5.2)].
-- If possible, Mirena should be removed after the patient has been warned of the risks of removal.
+- •Determine whether pregnancy is ectopic and, if so, take appropriate measures.
+- •Inform patient of the risks of leaving Mirena in place or removing it during pregnancy and of the lack of data on long-term effects on the offspring of women who have had Mirena in place during conception or gestation [see Warnings and Precautions (5.2)].
+- •If possible, Mirena should be removed after the patient has been warned of the risks of removal.
   If removal is difficult, the patient should be counseled and offered pregnancy termination.
-- If Mirena is left in place, the patient's course should be followed closely.
+- •If Mirena is left in place, the patient's course should be followed closely.
 
 ### In the event of a sexually transmitted disease during Mirena use:
 
@@ -212,23 +214,23 @@ Removal of Mirena should be considered.
 
 ### Mirena should be removed for the following medical reasons:
 
-- New onset menorrhagia and/or metrorrhagia producing anemia
-- Sexually transmitted disease
-- Pelvic infection; endometritis
-- Symptomatic genital actinomycosis
-- Intractable pelvic pain
-- Severe dyspareunia
-- Pregnancy
-- Endometrial or cervical malignancy
-- Uterine or cervical perforation.
+- •New onset menorrhagia and/or metrorrhagia producing anemia
+- •Sexually transmitted disease
+- •Pelvic infection; endometritis
+- •Symptomatic genital actinomycosis
+- •Intractable pelvic pain
+- •Severe dyspareunia
+- •Pregnancy
+- •Endometrial or cervical malignancy
+- •Uterine or cervical perforation.
 
 ### Removal of the system should also be considered if any of the following conditions arise for the first time:
 
-- Migraine, focal migraine with asymmetrical visual loss or other symptoms indicating transient cerebral ischemia
-- Exceptionally severe headache
-- Jaundice
-- Marked increase of blood pressure
-- Severe arterial disease such as stroke or myocardial infarction.
+- •Migraine, focal migraine with asymmetrical visual loss or other symptoms indicating transient cerebral ischemia
+- •Exceptionally severe headache
+- •Jaundice
+- •Marked increase of blood pressure
+- •Severe arterial disease such as stroke or myocardial infarction.
 
 Removal may be associated with some pain and/or bleeding or neurovascular episodes.
 
