@@ -31,13 +31,13 @@ In the same patients, these reactions were avoided when ACE inhibitors were temp
 
 ### Anaphylactoid Reactions During Membrane Exposure:
 
-Sudden and potentially life threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., *AN69®) and treated concomitantly with an ACE inhibitor.
+Sudden and potentially life threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69®*) and treated concomitantly with an ACE inhibitor.
 In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
 Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
 
-* AN69® is a registered trademark of Hospal Ltd.
+*AN69 is a registered trademark of Hospal Ltd.
 
 ## Hypotension:
 
@@ -89,7 +89,7 @@ If oligohydramnios is observed, discontinue lisinopril, unless it is considered 
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 Closely observe infants with histories of in utero exposure to lisinopril for hypotension, oliguria, and hyperkalemia.
-(see Precautions, Pediatric Use).
+(see PRECAUTIONS, Pediatric Use).
 
 No teratogenic effects of lisinopril were seen in studies of pregnant rats, mice, and rabbits.
 On a mg/kg basis, the doses used were up to 625 times (in mice), 188 times (in rats), and 0.6 times (in rabbits) the maximum recommended human dose.
@@ -132,7 +132,7 @@ Lisinopril should be used cautiously, if at all, with these agents and with freq
 
 ### Cough:
 
-Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent non-productive cough has been reported with all ACE inhibitors, almost always resolving after discontinuation of therapy.
+Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, almost always resolving after discontinuation of therapy.
 ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
 
 ### Surgery/Anesthesia:
@@ -186,7 +186,7 @@ The antihypertensive effect of ACE inhibitors, including lisinopril, may be atte
 Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Closely monitor blood pressure, renal function and electrolytes in patients on lisinopril and other agents that affect the RAS.
 
-Do not co-administer aliskiren with lisinopril in patients with diabetes.
+Do not coadminister aliskiren with lisinopril in patients with diabetes.
 Avoid use of aliskiren with lisinopril in patients with renal impairment (GFR < 60 ml/min).
 
 Other Agents: Lisinopril has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions.
@@ -235,7 +235,7 @@ Lisinopril, which crosses the placenta, has been removed from neonatal circulati
 
 Antihypertensive effects of lisinopril have been established in hypertensive pediatric patients aged 6 to 16 years.
 
-There are no data on the effect of lisinopril on blood pressure in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2 (See CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism and Pharmacodynamics and Clinical Effects, and DOSAGE AND ADMINISTRATION).
+There are no data on the effect of lisinopril on blood pressure in pediatric patients under age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2 (See CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism and Pharmacodynamics and Clinical Effects, and DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use:
 

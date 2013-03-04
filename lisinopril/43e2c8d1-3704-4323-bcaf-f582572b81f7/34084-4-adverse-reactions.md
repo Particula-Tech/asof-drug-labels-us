@@ -120,7 +120,7 @@ Nervous System/Psychiatric: Stroke, ataxia, memory impairment, tremor, periphera
 Respiratory System: Malignant lung neoplasms, hemoptysis, pulmonary infiltrates, bronchospasm, asthma, pleural effusion, pneumonia, eosinophilic pneumonitis, bronchitis, wheezing, orthopnea, painful respiration, epistaxis, laryngitis, sinusitis, pharyngeal pain, pharyngitis, rhinitis, rhinorrhea.
 
 Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis, cutaneous pseudolymphoma, psoriasis.
-Other severe skin reactions have been reported rarely, including toxic epidermal necrolysis and Stevens-Johnson syndrome; causal relationship has not been established.
+Other severe skin reactions have been reported rarely, including toxic epidermal necrolysis and Stevens-Johnson Syndrome; causal relationship has not been established.
 
 Special Senses: Visual loss, diplopia, blurred vision, tinnitus, photophobia, taste disturbances, olfactory disturbance.
 
@@ -133,7 +133,7 @@ Angioedema: Angioedema has been reported in patients receiving lisinopril with a
 Angioedema associated with laryngeal edema may be fatal.
 If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with lisinopril should be discontinued and appropriate therapy instituted immediately (See WARNINGS).
 
-In rare cases, intestinal angioedema has been reported in post-marketing experience.
+In rare cases, intestinal angioedema has been reported in postmarketing experience.
 
 Hypotension: In hypertensive patients, hypotension occurred in 1.2% and syncope occurred in 0.1% of patients with an incidence higher in Black than in non-Black patients.
 Hypotension or syncope was a cause of discontinuation of therapy in 0.5% of hypertensive patients.
@@ -158,7 +158,7 @@ Hemoglobin and Hematocrit: Small decreases in hemoglobin and hematocrit (mean de
 In clinical trials, less than 0.1% of patients discontinued therapy due to anemia.
 Hemolytic anemia has been reported; a causal relationship to lisinopril cannot be excluded.
 
-Liver Function Tests: Rarely, elevations of liver enzymes and/or serum bilirubin have occurred (See WARNINGS, Hepatic Failure).
+Liver Function Tests: Rarely, elevations of liver enzymes and/or serum bilirubin have occurred, (See WARNINGS, Hepatic Failure).
 
 In hypertensive patients, 2.0% discontinued therapy due to laboratory adverse experiences, principally elevations in blood urea nitrogen (0.6%), serum creatinine (0.5%) and serum potassium (0.4%).
 
