@@ -24,7 +24,7 @@ Considering the extent of use of sumatriptan in patients with migraine, the inci
 The fact that sumatriptan can cause coronary vasospasm, that some of these events have occurred in patients with no prior cardiac disease history and with documented absence of CAD, and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug.
 In many cases, however, where there has been known underlying coronary artery disease, the relationship is uncertain.
 
-Premarketing Experience WithSumatriptan: Of 6,348 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of oral sumatriptan, 2 experienced clinical adverse events shortly after receiving oral sumatriptan that may have reflected coronary vasospasm.
+Premarketing Experience With Sumatriptan: Of 6,348 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of oral sumatriptan, 2 experienced clinical adverse events shortly after receiving oral sumatriptan that may have reflected coronary vasospasm.
 Neither of these adverse events was associated with a serious clinical outcome.
 
 Among the more than 1,900 patients with migraine who participated in premarketing controlled clinical trials of subcutaneous sumatriptan, there were 8 patients who sustained clinical events during or shortly after receiving sumatriptan that may have reflected coronary artery vasospasm.
@@ -33,7 +33,7 @@ Of these 8 patients, 4 had either findings suggestive of CAD or risk factors pre
 
 Among approximately 4,000 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of sumatriptan nasal spray, 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event.
 
-Postmarketing Experience WithSumatriptan: Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
+Postmarketing Experience With Sumatriptan: Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
 The uncontrolled nature of postmarketing surveillance, however, makes it impossible to determine definitively the proportion of the reported cases that were actually caused by sumatriptan or to reliably assess causation in individual cases.
 On clinical grounds, the longer the latency between the administration of IMITREX and the onset of the clinical event, the less likely the association is to be causative.
 Accordingly, interest has focused on events beginning within 1 hour of the administration of IMITREX.

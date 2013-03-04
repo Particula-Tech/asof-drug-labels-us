@@ -16,22 +16,10 @@ Rx only
 
 Each tablet contains sumatriptan succinate equivalent to 25 mg of sumatriptan.
 
-Do not use if package is torn or broken or if you receive fewer tablets than your doctor prescribed.
+Made in Singapore
 
-See prescribing information for dosage information.
-
-Store between 36o and 86oF (2o and 30oC).
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Canada
-
-©2006, GlaxoSmithKline
-
-10000000035879 Rev.
-11/06
+10000000112994 Rev.
+12/12
 
 # Principal Display Panel
 
@@ -51,22 +39,10 @@ Rx only
 
 Each tablet contains sumatriptan succinate equivalent to 50 mg of sumatriptan.
 
-Do not use if package is torn or broken or if you receive fewer tablets than your doctor prescribed.
+Made in Singapore
 
-See prescribing information for dosage information.
-
-Store between 36o and 86oF (2o and 30oC).
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Canada
-
-©2006, GlaxoSmithKline
-
-10000000035878 Rev.
-11/06
+10000000112995 Rev.
+12/12
 
 # Prinicpal Display Panel
 
@@ -86,19 +62,7 @@ Rx only
 
 Each tablet contains sumatriptan succinate equivalent to 100 mg of sumatriptan.
 
-Do not use if package is torn or broken or if you receive fewer tablets than your doctor prescribed.
+Made in Singapore
 
-See prescribing information for dosage information.
-
-Store between 36o and 86oF (2o and 30oC).
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Canada
-
-©2006, GlaxoSmithKline
-
-10000000035877 Rev.
-12/06
+10000000112996 Rev.
+12/12
