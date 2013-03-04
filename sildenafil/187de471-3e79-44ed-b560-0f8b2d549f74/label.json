@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202025"
+  ],
+  "inn": "sildenafil",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-351-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sildenafil",
+      "name": "Sildenafil"
+    }
+  ],
+  "setid": "187de471-3e79-44ed-b560-0f8b2d549f74",
+  "source": "dailymed"
+}
