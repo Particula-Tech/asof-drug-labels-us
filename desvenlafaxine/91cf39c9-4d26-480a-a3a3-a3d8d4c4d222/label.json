@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA204150"
+  ],
+  "inn": "desvenlafaxine",
+  "labeler": "Ranbaxy Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "63304-191-30",
+    "63304-191-90",
+    "63304-192-30",
+    "63304-192-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "desvenlafaxine",
+      "name": "Desvenlafaxine"
+    }
+  ],
+  "setid": "91cf39c9-4d26-480a-a3a3-a3d8d4c4d222",
+  "source": "dailymed"
+}
