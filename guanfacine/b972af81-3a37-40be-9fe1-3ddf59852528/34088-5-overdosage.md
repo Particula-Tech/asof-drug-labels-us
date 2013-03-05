@@ -2,12 +2,9 @@
 
 Symptoms
 
-Two cases of accidental overdose of INTUNIV® were reported in clinical trials in pediatric ADHD patients.
-These reports included adverse reactions of sedation and bradycardia in one patient and somnolence and dizziness in the other patient.
-
 Post-marketing reports of guanfacine overdosage indicate that hypotension, drowsiness, lethargy, and bradycardia have been observed following overdose.
 Initial hypertension may develop early and may be followed by hypotension.
-Similar symptoms have been described in voluntary reports to the American Association of Poison Control Center's National Poison Data System.
+Similar symptoms have been described in voluntary reports to the American Association of Poison Control Center’s National Poison Data System.
 Miosis of the pupils may be noted on examination.
 No fatal overdoses of guanfacine have been reported in published literature.
 

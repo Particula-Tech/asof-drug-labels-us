@@ -1,5 +1,3 @@
-# PRINCIPAL DISPLAY PANEL
-
 NDC 54092-513-02 - 1 mg 100 Count Bottle
 
 NDC 54092-515-02 - 2 mg 100 Count Bottle

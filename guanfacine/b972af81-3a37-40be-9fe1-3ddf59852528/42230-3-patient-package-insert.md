@@ -1,10 +1,4 @@
-# Patient Information
-
-INTUNIV® (in-TOO-niv)
-
-(guanfacine)
-
-Extended-Release Tablets
+Patient Information INTUNIV® (in-TOO-niv) (guanfacine) Extended-Release Tablets
 
 Read the Patient Information that comes with INTUNIV® before you start taking it and each time you get a refill.
 There may be new information.
@@ -15,17 +9,6 @@ What is INTUNIV®?
 INTUNIV® is a prescription medicine used to treat the symptoms of attention deficit/hyperactivity disorder (ADHD).
 
 INTUNIV® is not a central nervous system (CNS) stimulant.
-
-INTUNIV® should be used as a part of a total treatment program for ADHD that may include counselling or other therapies.
-
-It is not known if INTUNIV® is effective:
-
-- for use longer than 9 weeks
-
-It is not known if INTUNIV® is safe or effective:
-
-- in children younger than 6 years old
-- in adults
 
 What should I tell my doctor before taking INTUNIV®?
 
@@ -41,7 +24,7 @@ Before you take INTUNIV®, tell your doctor if you:
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - are breast-feeding or plan to breast-feed.
   It is not known if INTUNIV® passes into your breast milk.
-  You and your doctor should decide if you will take INTUNIV® or breastfeed.
+  Talk to your doctor about the best way to feed your baby while taking INTUNIV®.
 
 Tell your doctor about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -51,7 +34,6 @@ Especially tell your doctor if you take:
 
 - ketoconazole
 - medicines that can affect enzyme metabolism
-- valproic acid
 - high blood pressure medicine
 - sedatives
 - benzodiazepines
@@ -69,7 +51,7 @@ How should I take INTUNIV®?
 - Your doctor may change your dose.
   Do not change your dose of INTUNIV® without talking to your doctor.
 - Do not stop taking INTUNIV® without talking to your doctor.
-- INTUNIV® should be taken 1 time a day, either alone or in combination with an ADHD stimulant medication that your doctor may prescribe.
+- INTUNIV® should be taken 1 time a day in the morning or in the evening, either alone or in combination with an ADHD stimulant medication that your doctor may prescribe.
   Your doctor will tell you when to take INTUNIV® and when to take your ADHD stimulant medication.
 - INTUNIV® should be swallowed whole with a small amount of water, milk, or other liquid.
 - Do not crush, chew, or break INTUNIV®.
@@ -95,7 +77,6 @@ INTUNIV® may cause serious side effects including:
 - sleepiness
 
 Get medical help right away, if you have any of the symptoms listed above.
-
 The most common side effects of INTUNIV® include:
 
 - sleepiness
@@ -116,7 +97,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store INTUNIV®?
 
-- Store INTUNIV® between 590F to 860F (15oC to 30oC)
+- Store INTUNIV® between 59oF to 86oF (15oC to 30oC)
 
 Keep INTUNIV® and all medicines out of the reach of children.
 
@@ -130,7 +111,6 @@ It may harm them.
 This leaflet summarizes the most important information about INTUNIV®.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about INTUNIV® that is written for health professionals.
-
 For more information, go to www.INTUNIV.com or call 1-800-828-2088.
 
 What are the ingredients in INTUNIV®?
@@ -141,11 +121,5 @@ Inactive ingredients: hypromellose, methacrylic acid copolymer, lactose, povidon
 In addition, the 3mg and 4mg tablets also contain green pigment blend PB-1763.
 
 Manufactured for Shire US Inc., Wayne, PA 19087.
-
-INTUNIV® is a registered trademark of Shire LLC.
-
-©2011 Shire Pharmaceuticals Inc.
-
-This product is covered by US patents including 5,854,290; 6,287,599; 6,811,794.
-
-Version: 06 2011
+INTUNIV® is a registered trademark of Shire LLC. ©2013 Shire US Inc. This product is covered by US patents including 6,287,599; 6,811,794.
+Version: 02 2013

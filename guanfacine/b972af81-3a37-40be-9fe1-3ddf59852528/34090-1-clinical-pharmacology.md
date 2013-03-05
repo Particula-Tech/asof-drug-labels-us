@@ -2,17 +2,33 @@
 
 ## 12.1 Mechanism of Action
 
-Guanfacine is a selective alpha2A-adrenergic receptor agonist.
+Guanfacine is a central alpha2A-adrenergic receptor agonist.
 Guanfacine is not a central nervous system (CNS) stimulant.
 The mechanism of action of guanfacine in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
-Guanfacine is a selective alpha2A-adrenergic receptor agonist in that it has a 15-20 times higher affinity for this receptor subtype than for the alpha2B or alpha2C subtypes.
+Guanfacine is a selective central alpha2A-adrenergic receptor agonist in that it has a 15-20 times higher affinity for this receptor subtype than for the alpha2B or alpha2C subtypes.
 
 Guanfacine is a known antihypertensive agent.
-By stimulating alpha2A-adrenergic receptors, guanfacine reduces sympathetic nerve impulses from the vasomotor center to the heart and blood vessels.
+By stimulating central alpha2A-adrenergic receptors, guanfacine reduces sympathetic nerve impulses from the vasomotor center to the heart and blood vessels.
 This results in a decrease in peripheral vascular resistance and a reduction in heart rate.
+
+Effects on Height, Weight, and Body Mass Index (BMI)
+
+Patients taking INTUNIV® demonstrated similar growth compared to normative data.
+Patients taking INTUNIV® had a mean increase in weight of 0.5 kg (1 lb) compared to those receiving placebo over a comparative treatment period.
+Patients receiving INTUNIV® for at least 12 months in open-label studies gained an average of 8 kg (17 lbs) in weight and 8 cm (3 in) in height.
+The height, weight, and BMI percentile remained stable in patients at 12 months in the long-term studies compared to when they began receiving INTUNIV®.
+
+Effect on ECG
+
+The effect of two dose levels of immediate-release guanfacine (4 mg and 8 mg) on the QT interval was evaluated in a double-blind, randomized, placebo- and active-controlled, cross-over study in healthy adults.
+A dose-dependent decrease in heart rate was observed during the first 12 hours, at time of maximal concentrations.
+The mean change in heart rate was -13 bpm at 4 mg and -22 bpm at 8 mg.
+An apparent increase in mean QTc was observed for both doses.
+However, guanfacine does not appear to interfere with cardiac repolarization of the form associated with pro-arrhythmic drugs.
+This finding has no known clinical relevance.
 
 ## 12.3 Pharmacokinetics
 
@@ -25,16 +41,17 @@ Immediate-release guanfacine and INTUNIV® have different pharmacokinetic charac
 
 A comparison across studies suggests that the Cmax is 60% lower and AUC0-∞ 43% lower, respectively, for INTUNIV® compared to immediate-release guanfacine.
 Therefore, the relative bioavailability of INTUNIV® to immediate-release guanfacine is 58%.
-The mean pharmacokinetic parameters in adults following the administration of INTUNIV® 1 mg once daily and immediate-release guanfacine 1mg once daily are summarized in Table 4.
+The mean pharmacokinetic parameters in adults following the administration of INTUNIV® 1 mg once daily and immediate-release guanfacine 1mg once daily are summarized in Table 5.
 
-| Table 4: Pharmacokinetic Parameters in Adults |  |  |
+| Table 5: Pharmacokinetic Parameters in Adults |  |  |
 | --- | --- | --- |
 | Parameter | INTUNIV® 1 mg once daily (n=52) | Immediate-release guanfacine 1 mg once daily (n=12) |
 | Cmax (ng/mL) | 1.0 ± 0.3 | 2.5 ± 0.6 |
 | AUC0-∞ (ng.h/mL) | 32 ± 9 | 56 ± 15 |
 | tmax (h) | 6.0 (4.0 - 8.0) | 3.0 (1.5-4.0) |
 | t1/2 (h) | 18 ± 4 | 16 ± 3 |
-| Note: Values are mean +/- SD, except for tmax which is median (range) |  |  |
+
+Note: Values are mean +/- SD, except for tmax which is median (range)
 
 Exposure to guanfacine was higher in children (ages 6-12) compared to adolescents (ages 13-17) and adults.
 After oral administration of multiple doses of INTUNIV® 4 mg, the Cmax was 10 ng/mL compared to 7 ng/mL and the AUC was 162 ng h/mL compared to 116 ng h/mL in children (ages 6-12) and adolescents (ages 13-17), respectively.
@@ -49,7 +66,7 @@ Following administration of INTUNIV® in single doses of 1 mg, 2 mg, 3 mg, and 4
 
 Metabolism and Elimination
 
-In vitro studies with human liver microsomes and recombinant CYP's demonstrated that guanfacine was primarily metabolized by CYP3A4.
+In vitro studies with human liver microsomes and recombinant CYP’s demonstrated that guanfacine was primarily metabolized by CYP3A4.
 In pooled human hepatic microsomes, guanfacine did not inhibit the activities of the major cytochrome P450 isoenzymes (CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5).
 Guanfacine is a substrate of CYP3A4/5 and exposure is affected by CYP3A4/5 inducers/inhibitors.
 
