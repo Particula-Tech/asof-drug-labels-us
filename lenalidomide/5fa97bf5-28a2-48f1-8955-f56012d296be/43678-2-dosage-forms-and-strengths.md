@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-REVLIMID 2.5 mg, 5 mg, 10 mg, 15 mg and 25 mg capsules will be supplied through the RevAssist program
+REVLIMID 2.5 mg, 5 mg, 10 mg, 15 mg and 25 mg capsules will be supplied through the REVLIMID REMS™ program
 
 REVLIMID is available in the following capsule strengths:
 

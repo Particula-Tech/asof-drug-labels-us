@@ -1,36 +1,59 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide
+See FDA-approved Patient labeling (Medication Guide)
 
-## 17.1 Importance of Preventing Pregnancy
+Embryo-Fetal Toxicity Advise patients that REVLIMID is contraindicated in pregnancy [see Contraindicatons (4.1)].
+REVLIMID is a thalidomide analog and can cause serious birth defects or death to a developing baby.
+[see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
-Females of Childbearing Potential
+- Advise females of reproductive potential that they must avoid pregnancy while taking REVLIMID and for at least 4 weeks after completing therapy.
+- Initiate REVLIMID treatment in females of reproductive potential only following a negative pregnancy test.
+- Advise females of reproductive potential of the importance of monthly pregnancy tests and the need to use two different forms of contraception including at least one highly effective form simultaneously during REVLIMID therapy, during dose interruption and for 4 weeks after she has completely finished taking REVLIMID.
+  Highly effective forms of contraception other than tubal ligation include IUD and hormonal (birth control pills, injections, patch or implants) and a partner’s vasectomy.
+  Additional effective contraceptive methods include latex or synthetic condom, diaphragm and cervical cap.
+- Instruct patient to immediately stop taking REVLIMID and contact her doctor if she becomes pregnant while taking this drug, if she misses her menstrual period, or experiences unusual menstrual bleeding, if she stops taking birth control, or if she thinks FOR ANY REASON that she may be pregnant.
+- Advise patient that if her doctor is not available, she can call 1-888-668-2528 for information on emergency contraception [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
+- Advise males to always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID and for up to 28 days after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
+- Advise male patients taking REVLIMID that they must not donate sperm [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
+- All patients must be instructed to not donate blood while taking REVLIMID, during dose interruptions and for 1 month following discontinuation of REVLIMID [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
-Patients must be counseled on lenalidomide’s potential risk of teratogenicity due to its structural similarity to thalidomide and data from an embryofetal development study showing treatment with lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy.
+REVLIMID REMS™ program Because of the risk of embryo-fetal toxicity, REVLIMID is only available through a restricted program called the REVLIMID REMS™ program (formerly known as the “RevAssist®” program)[see Warnings and Precautions (5.2)].
 
-REVLIMID treatment should only be initiated in females of childbearing potential following a negative pregnancy test.
-Females of childbearing potential must be informed of the importance of monthly pregnancy tests and the need to use two different forms of contraception including at least one highly effective form simultaneously during REVLIMID therapy, during therapy interruption and for 4 weeks after she has completely finished taking REVLIMID.
-Highly effective forms of contraception other than tubal ligation include IUD and hormonal (birth control pills, injections, patch or implants) and a partner’s vasectomy.
-Additional effective contraceptive methods include latex condom, diaphragm and cervical cap.
-Patient must be instructed to immediately stop taking REVLIMID and contact her doctor if she becomes pregnant while taking this drug, if she misses her menstrual period, or experiences unusual menstrual bleeding, if she stops taking birth control, or if she thinks FOR ANY REASON that she may be pregnant.
-The patient understands that if her doctor is not available, she can call 1-888-668-2528 for information on emergency contraception [see Use in Specific Populations (8.1)].
+- Patients must sign a Patient-Prescriber agreement form and comply with the requirements to receive REVLIMID.
+  In particular, females of reproductive potential must comply with the pregnancy testing, contraception requirements and participate in monthly telephone surveys.
+  Males must comply with the contraception requirements [see Use in Specific Populations (8.6)].
+- REVLIMID is available only from pharmacies that are certified in REVLIMID REMS™ program.
+  Provide patients with the telephone number and website for information on how to obtain the product
 
-REVLIMID treatment should only be initiated in a female not of childbearing potential if she confirms that she is not now pregnant, nor of childbearing potential as she has been postmenopausal naturally for at least 24 months (been through the change of life); or she has had a hysterectomy or bilateral oophorectomy.
-The patient or guardian certifies that a prepubertal female child is not now pregnant, nor is of childbearing potential as menstruation has not yet begun, and/or the child will not be engaging in heterosexual sexual contact for at least 4 weeks before REVLIMID therapy, during therapy, during therapy interruption and for at least 4 weeks after stopping REVLIMID therapy.
+Hematologic Toxicity
 
-REVLIMID treatment should only be initiated in men who agree to either completely abstain from sexual contact with women who are pregnant or able to become pregnant, or use a latex condom every time he engages in any sexual contact with women who are pregnant or may become pregnant.
-The patient should inform his doctor if he has had unprotected sexual contact with a woman who can become pregnant.
-He understands that if his doctor is not available, he can call 1-888-668-2528 for information on emergency contraception.
+REVLIMID is associated with significant neutropenia and thrombocytopenia [See Boxed Warnings and Warnings and Precautions (5.3)]
 
-## 17.2 Hematologic Toxicity
+Venous Thromboembolism
 
-REVLIMID is associated with significant neutropenia and thrombocytopenia [see Boxed Warnings and Warnings and Precautions (5.3)]
+REVLIMID/dexamethasone has demonstrated significant increased risk of DVT and PE in patients with multiple myeloma [See Boxed Warnings and Warnings and Precautions (5.4)]
 
-## 17.3 Deep Vein Thrombosis and Pulmonary Embolism
+Allergic Reactions
 
-REVLIMID/dexamethasone has demonstrated significant increased risk of DVT and PE in patients with multiple myeloma [see Boxed Warnings and Warning and Precautions (5.4)]
+Inform patients of the potential for allergic reactions including hypersensitivity, angioedema, Stevens Johnsons Syndrome, or toxic epidermal necrolysis if they had such a reaction to THALOMID and report symptoms associated with these events to their healthcare provider for evaluation.
 
-## 17.4 Dosing Instructions
+Tumor Lysis Syndrome
+
+Inform patients of the potential risk of tumor lysis syndrome and report any signs and symptoms associated with this event to their healthcare provider for evaluation.
+
+Tumor Flare Reaction
+
+Inform patients of the potential risk of tumor flare reaction and report any signs and symptoms associated with this event to their healthcare provider for evaluation.
+
+Hepatotoxicity
+
+Inform patients of the risk of hepatotoxicity and report any signs and symptoms associated with this event to their healthcare provider for evaluation.
+
+Secondary Primary Malignancies
+
+Inform patients of the potential risk of developing second primary malignancies during treatment with REVLIMID.
+
+Dosing Instructions
 
 Inform patients to take REVLIMID once daily at about the same time each day, either with or without food.
 The capsules should not be opened, broken, or chewed.
@@ -48,6 +71,6 @@ REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Cor
 U.S. Pat.
 Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,855,217; 7,968,569
 
-©2005-2012 Celgene Corporation, All Rights Reserved.
+©2005-2013 Celgene Corporation, All Rights Reserved.
 
-RevPlyPI.014/MG.014 11/12
+RevPlyPI.015L/MG.015L 02/13

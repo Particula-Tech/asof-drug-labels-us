@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-REVLIMIDshould be taken orally at about the same time each day, either with or without food.
+REVLIMID should be taken orally at about the same time each day, either with or without food.
 REVLIMID capsules should be swallowed whole with water.
 The capsules should not be opened, broken, or chewed.
 
@@ -48,11 +48,11 @@ The recommendations for initial starting doses for patients with multiple myelom
 
 Table 1: Starting Dose Adjustment for Renal Impairment in Multiple Myeloma (Days 1 – 21 of each 28 day cycle)
 
-| Category | Renal Function (Cockcroft-Gault) | Dose |
-| --- | --- | --- |
-| Moderate Renal Impairment | CLcr 30-60 mL/min | 10 mg Every 24 hours |
-| Severe Renal Impairment | CLcr < 30 mL/min (not requiring dialysis) | 15 mg Every 48 hours |
-| End Stage Renal Disease | CLcr < 30 mL/min (requiring dialysis) | 5 mg Once daily. On dialysis days, administer the dose following dialysis. |
+|  | Category |  | Renal Function (Cockcroft-Gault) |  | Dose |
+| --- | --- | --- | --- | --- | --- |
+|  | Moderate Renal Impairment |  | CLcr 30-60 mL/min |  | 10 mg Every 24 hours |
+|  | Severe Renal Impairment |  | CLcr < 30 mL/min (not requiring dialysis) |  | 15 mg Every 48 hours |
+|  | End Stage Renal Disease |  | CLcr < 30 mL/min (requiring dialysis) |  | 5 mg Once daily. On dialysis days, administer the dose following dialysis. |
 
 After initiation of REVLIMID therapy, subsequent REVLIMID dose modification should be based on individual patient treatment tolerance, as described elsewhere in this section.
 
@@ -94,7 +94,7 @@ If thrombocytopenia develops during treatment at 5 mg daily in MDS
 | When Platelets | Recommended Course |
 | --- | --- |
 | <30,000/mcL or <50,000/mcL with platelet transfusions | Interrupt REVLIMID treatment |
-| Return to ≥30,000/mcL (without hemostatic failure) | Resume REVLIMID at 2.5 mg every other day |
+| Return to ≥30,000/mcL (without hemostatic failure) | Resume REVLIMID at 2.5 mg daily |
 
 Patients who are dosed initially at 10 mg and experience neutropenia should have their dosage adjusted as follows:
 
@@ -126,7 +126,7 @@ If neutropenia develops during treatment at 5 mg daily in MDS
 | When Neutrophils | Recommended Course |
 | --- | --- |
 | <500/mcL for ≥7 days or <500/mcL associated with fever (≥38.5°C) | Interrupt REVLIMID treatment |
-| Return to ≥500/mcL | Resume REVLIMID at 2.5 mg every other day |
+| Return to ≥500/mcL | Resume REVLIMID at 2.5 mg daily |
 
 Other Grade 3 / 4 Toxicities in MDS For other Grade 3/4 toxicities judged to be related to REVLIMID, hold treatment and restart at next lower dose level when toxicity has resolved to ≤ Grade 2.
 

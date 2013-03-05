@@ -1,10 +1,10 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
-## 14.1. Multiple Myeloma
+## 14.1 Multiple Myeloma
 
 Two randomized studies (Studies 1 and 2) were conducted to evaluate the efficacy and safety of REVLIMID.
 These multicenter, multinational, double-blind, placebo-controlled studies compared REVLIMID plus oral pulse high-dose dexamethasone therapy to dexamethasone therapy alone in patients with multiple myeloma who had received at least one prior treatment.
-These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3.0 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2.0 mg/dL.
+These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3 platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3.0 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2.0 mg/dL.
 
 In both studies, patients in the REVLIMID/dexamethasone group took 25 mg of REVLIMID orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle.
 Patients in the placebo/dexamethasone group took 1 placebo capsule on Days 1 to 28 of each 28-day cycle.
@@ -74,11 +74,15 @@ TTP Results in Study 1 and Study 2
 | Events n (%) | 73 (41) | 120 (68) | 68 (39) | 130 (74) |
 | Median TTP in months [95% CI] | 13.9 [9.5, 18.5] | 4.7 [3.7, 4.9] | 12.1 [9.5, NE] | 4.7 [3.8, 4.8] |
 | Hazard Ratio [95% CI] | 0.285 [0.210, 0.386] |  | 0.324 [0.240, 0.438] |  |
-| Log-rank Test p-value | <0.001 |  | <0.001 |  |
+| Log-rank Test p-value 3 |  |  |  |  |
+|  | <0.001 |  | <0.001 |  |
 | Response |  |  |  |  |
-| Complete Response (CR) n (%) | 23 (13) | 1 (1) | 27 (15) | 7 (4) |
-| Partial Response (RR/PR) n (%) | 84 (48) | 33 (19) | 77 (44) | 34 (19) |
-| Overall Response n (%) | 107 (61) | 34 (19) | 104 (59) | 41 (23) |
+| Complete Response |  |  |  |  |
+| (CR) n (%) | 23 (13) | 1 (1) | 27 (15) | 7 (4) |
+| Partial Response |  |  |  |  |
+| (RR/PR) n (%) | 84 (48) | 33 (19) | 77 (44) | 34 (19) |
+| Overall Response n (%) |  |  |  |  |
+|  | 107 (61) | 34 (19) | 104 (59) | 41 (23) |
 | p-value | <0.001 |  | <0.001 |  |
 | Odds Ratio [95% CI] | 6.38 [3.95, 10.32] |  | 4.72 [2.98, 7.49] |  |
 

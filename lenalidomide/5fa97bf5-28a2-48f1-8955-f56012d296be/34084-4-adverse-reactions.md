@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following adverse reactions are described in detail in other labeling sections:
 
@@ -131,7 +131,7 @@ Table 4: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and With a ≥1%
 | Psychiatric Disorder |  |  |
 | Depression | 10 (2.8) | 6 (1.7) |
 
-Table 5: Serious Adverse Events Reported in ≥1% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
+Table 5: Serious Adverse Reactions Reported in ≥1% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
 
 | System Organ Class/ Preferred Term | REVLIMID/Dex& (n=353) n (%) | Placebo/Dex& (n=350) n (%) |
 | --- | --- | --- |
@@ -164,7 +164,7 @@ Discontinuations due to DVT adverse reactions were reported at comparable rates 
 Pulmonary embolism (PE) was reported as a serious adverse drug reaction including Grade 3/4 (3.7%) at a higher rate in the REVLIMID/dexamethasone group compared to 0.9% in the placebo/dexamethasone group.
 Discontinuations due to PE adverse reactions were reported at comparable rates between groups.
 
-Other Adverse Events
+Other Adverse Reactions
 
 In these clinical studies of REVLIMID in patients with multiple myeloma, the following adverse drug reactions (ADRs) not described above that occurred at ≥1% rate and of at least twice of the placebo percentage rate were reported:
 
@@ -341,7 +341,7 @@ Cardiac disorders: cardiac failure congestive, atrial fibrillation, angina pecto
 
 Ear and labyrinth disorders: vertigo
 
-Endocrine disorders: Basedow’s disease
+Endocrine disorders: Basedow's disease
 
 Gastrointestinal disorders: gastrointestinal hemorrhage, colitis ischemic, intestinal perforation, rectal hemorrhage, colonic polyp, diverticulitis, dysphagia, gastritis, gastroenteritis, gastroesophageal reflux disease, obstructive inguinal hernia, irritable bowel syndrome, melena, pancreatitis due to biliary obstruction, pancreatitis, perirectal abscess, small intestinal obstruction, upper gastrointestinal hemorrhage
 

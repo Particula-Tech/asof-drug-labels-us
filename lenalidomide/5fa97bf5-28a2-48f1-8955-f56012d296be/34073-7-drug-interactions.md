@@ -20,4 +20,5 @@ Close monitoring of PT and INR is recommended in multiple myeloma patients takin
 
 ## 7.3 Concomitant Therapies That May Increase the Risk of Thrombosis
 
-Erythropoietic agents, or other agents that may increase the risk of thrombosis, such as estrogen containing therapies, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone [see Warnings and Precautions (5.4)].
+Erythropoietic agents, or other agents that may increase the risk of thrombosis, such as estrogen containing therapies, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone.
+[see Warnings and Precautions (5.4)]

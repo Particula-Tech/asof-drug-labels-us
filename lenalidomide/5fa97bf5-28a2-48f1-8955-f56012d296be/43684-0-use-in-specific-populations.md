@@ -2,25 +2,32 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X: [see Boxed Warnings and Contraindications (4.1)]
+Pregnancy Category X [see Boxed Warnings and Contraindications (4.1)]
 
-REVLIMID can cause fetal harm when administered to a pregnant woman.
-REVLIMID is contraindicated in women who are or may become pregnant.
-There are no adequate and well-controlled studies in pregnant women.
-However, in an animal study, lenalidomide caused thalidomide-type limb defects in monkey offspring.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
+Risk Summary
+
+REVLIMID can cause embryo-fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
+REVLIMID is a thalidomide analogue.
+
+Thalidomide is a human teratogen, inducing a high frequency of severe and life-threatening birth defects such as amelia (absence of limbs), phocomelia (short limbs), hypoplasticity of the bones, absence of bones, external ear abnormalities (including anotia, micropinna, small or absent external auditory canals), facial palsy, eye abnormalities (anophthalmos, microphthalmos), and congenital heart defects.
+Alimentary tract, urinary tract, and genital malformations have also been documented and mortality at or shortly after birth has been reported in about 40% of infants.
+
+Lenalidomide caused thalidomide-type limb defects in monkey offspring.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus
 
 If pregnancy does occur during treatment, immediately discontinue the drug.
 Under these conditions, refer patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
 Any suspected fetal exposure to REVLIMID must be reported to the FDA via the MedWatch program at 1-800-332-1088 and also to Celgene Corporation at 1-888-423-5436.
 
-In an embryofetal developmental toxicity study in monkeys, teratogenicity, including thalidomide-like limb defects, occurred in offspring when pregnant monkeys received oral lenalidomide during organogenesis at doses approximately 0.17 times the maximum recommended human dose (MRHD) of 25 mg, based on body surface area.
-Similar studies in pregnant rabbits and rats at 20 times and 200 times the MRHD respectively, produced embryolethality in rabbits and no adverse reproductive effects in rats.
-In another study, pregnant rats received lenalidomide from organogenesis through lactation, some delay in sexual maturation occurred in male offspring.
-As with thalidomide, the rat model may not adequately address the full spectrum of potential human embryofetal developmental effects for lenalidomide.
+Animal data
 
-Females of childbearing potential must use effective means of contraception for 28 days before therapy, during lenalidomide therapy and dose interruptions, and for 28 days following discontinuation of lenalidomide therapy, or continually abstain from reproductive heterosexual sexual intercourse.
-Because of the increased risk of VTE in patients with multiple myeloma taking lenalidomide and dexamethasone, and to a lesser extent patients with MDS taking lenalidomide monotherapy, and because there is an increased risk of VTE in patients taking combined oral contraceptive pills, physicians should discuss the risk/benefit of contraceptive methods with their patients
+In an embryo-fetal developmental toxicity study in monkeys, teratogenicity, including thalidomide-like limb defects, occurred in offspring when pregnant monkeys received oral lenalidomide during organogenesis at doses approximately 0.17 times the maximum recommended human dose (MRHD) of 25 mg, based on body surface area.
+Similar studies in pregnant rabbits and rats at 20 times and 200 times the MRHD respectively, produced embryo lethality in rabbits and no adverse reproductive effects in rats.
+
+In a pre- and post-natal development study in rats, animals received lenalidomide from organogenesis through lactation.
+The study revealed a few adverse effects on the offspring of female rats treated with lenalidomide at doses up to 500 mg/kg (approximately 200 times the human dose of 25 mg based on body surface area).
+The male offspring exhibited slightly delayed sexual maturation and the female offspring had slightly lower body weight gains during gestation when bred to male offspring.
+As with thalidomide, the rat model may not adequately address the full spectrum of potential human embryo-fetal developmental effects for lenalidomide.
 
 ## 8.3 Nursing mothers
 
@@ -51,11 +58,32 @@ No differences in efficacy were observed between patients over 65 years of age a
 Since elderly patients are more likely to have decreased renal function, care should be taken in dose selection.
 Monitor renal function.
 
-## 8.6 Renal Impairment
+## 8.6 Females of Reproductive Potential and Males
+
+REVLIMID can cause fetal harm when administered during pregnancy [see Use in Specific Populations (8.1)].
+Females of reproductive potential must avoid pregnancy 4 weeks before therapy, while taking REVLIMID, during dose interruptions and for at least 4 weeks after completing therapy.
+
+Females Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use two methods of reliable birth control simultaneously (one highly effective form of contraception – tubal ligation, IUD, hormonal (birth control pills, injections, hormonal patches, vaginal rings or implants) or partner’s vasectomy and one additional effective contraceptive method – male latex or synthetic condom, diaphragm or cervical cap.
+Contraception must begin 4 weeks prior to initiating treatment with REVLIMID, during therapy, during dose interruptions and continuing for 4 weeks following discontinuation of REVLIMID therapy.
+Reliable contraception is indicated even where there has been a history of infertility, unless due to hysterectomy.
+Females of reproductive potential should be referred to a qualified provider of contraceptive methods, if needed.
+
+Females of reproductive potential must have 2 negative pregnancy tests before initiating REVLIMID.
+The first test should be performed within 10-14 days, and the second test within 24 hours prior to prescribing REVLIMID.
+Once treatment has started and during dose interruptions, pregnancy testing for females of reproductive potential should occur weekly during the first 4 weeks of use, then pregnancy testing should be repeated every 4 weeks in females with regular menstrual cycles.
+If menstrual cycles are irregular, the pregnancy testing should occur every 2 weeks.
+Pregnancy testing and counseling should be performed if a patient misses her period or if there is any abnormality in her menstrual bleeding.
+REVLIMID treatment must be discontinued during this evaluation.
+
+Males Lenalidomide is present in the semen of males who take REVLIMID.
+Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID, during dose interruptions and for up to 28 days after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
+Male patients taking REVLIMID must not donate sperm
+
+## 8.7 Renal Impairment
 
 Since lenalidomide is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID are recommended to provide appropriate drug exposure in patients with moderate (CLcr 30-60 mL/min) or severe renal impairment (CLcr < 30 mL/min) and in patients on dialysis [see Dosage and Administration (2.1, 2.2)].
 
-## 8.7 Hepatic Impairment
+## 8.8 Hepatic Impairment
 
 No study has been conducted in patients with hepatic impairment.
 The elimination of unchanged lenalidomide is predominantly by the renal route.

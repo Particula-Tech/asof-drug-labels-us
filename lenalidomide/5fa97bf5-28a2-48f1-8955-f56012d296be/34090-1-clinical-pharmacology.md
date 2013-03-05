@@ -1,6 +1,6 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1. Mechanism of action
+## 12.1 Mechanism of action
 
 The mechanism of action of lenalidomide remains to be fully characterized.
 Lenalidomide possesses immunomodulatory, antiangiogenic, and antineoplastic properties.
@@ -73,4 +73,4 @@ Pediatric: No pharmacokinetic data are available in patients below the age of 18
 
 Gender: The effects of gender on the pharmacokinetics of lenalidomide have not been studied.
 
-Race: Pharmacokinetic differences due to race have not been studied.
+Race: Pharmacokinetic differences due to race have not been studied
