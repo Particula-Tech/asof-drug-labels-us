@@ -1,7 +1,15 @@
-For more information call 1-888-440-7903.
+For more information call 1-800-526-7736.
 
-Manufactured for: McNeil Pediatrics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+Manufactured by:
 
-10180604
+Janssen-Cilag Manufacturing, LLC
 
-Revised: November 2010
+Gurabo, Puerto Rico 00778 or
+
+Alza Corp.
+
+Vacaville, CA 95688
+
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+
+Revised: November 2012

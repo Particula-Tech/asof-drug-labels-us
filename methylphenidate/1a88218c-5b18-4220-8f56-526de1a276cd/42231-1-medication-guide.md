@@ -106,7 +106,7 @@ Ask your doctor or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to McNeil Pediatrics at 1-888-440-7903.
+You may also report side effects to Janssen Pharmaceuticals, Inc. at 1-800-JANSSEN or (1-800-526-7736).
 
 How should I store CONCERTA®?
 
@@ -123,7 +123,7 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about CONCERTA®.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about CONCERTA® that was written for healthcare professionals.
-For more information about CONCERTA® call 1-888-440-7903.
+For more information about CONCERTA® call 1-800-526-7736.
 
 What are the ingredients in CONCERTA®?
 
@@ -133,6 +133,16 @@ Inactive Ingredients: butylated hydroxytoluene, carnauba wax, cellulose acetate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: McNeil Pediatrics Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
+Manufactured by:
 
-10180602 Revised: November 2010
+Janssen-Cilag Manufacturing, LLC
+
+Gurabo, Puerto Rico 00778 or
+
+Alza Corp.
+
+Vacaville, CA 95688
+
+Manufactured for: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
+
+Revised: November 2012

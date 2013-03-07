@@ -14,8 +14,6 @@ Rx only
 
 Please see the Medication Guide provided by your pharmacist.
 
-MCNEIL PEDIATRICS™ DIVISION OF ORTHO-MCNEIL-JANSSEN PHARMACEUTICALS, INC.
-
 PRINCIPAL DISPLAY PANEL - 27 mg Tablet Label
 
 NDC 50458-588-01 100 tablets
@@ -32,7 +30,7 @@ Rx only
 
 Please see the Medication Guide provided by your pharmacist.
 
-MCNEIL PEDIATRICS™ DIVISION OF ORTHO-MCNEIL-JANSSEN PHARMACEUTICALS, INC.
+Janssen
 
 PRINCIPAL DISPLAY PANEL - 36 mg Tablet Label
 
@@ -50,10 +48,6 @@ Rx only
 
 Please see the Medication Guide provided by your pharmacist.
 
-MCNEIL PEDIATRICS™ DIVISION OF ORTHO-MCNEIL-JANSSEN PHARMACEUTICALS, INC.
-
-© Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2002
-
 PRINCIPAL DISPLAY PANEL - 54 mg Tablet Label
 
 NDC 50458-587-01 100 tablets
@@ -69,5 +63,3 @@ Each tablet contains 54 mg methylphenidate hydrochloride in a controlled-release
 Rx only
 
 Please see the Medication Guide provided by your pharmacist.
-
-MCNEIL PEDIATRICS™ DIVISION OF ORTHO-MCNEIL-JANSSEN PHARMACEUTICALS, INC.
