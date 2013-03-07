@@ -33,10 +33,8 @@ In addition, the extended use at doses greater than 4 mg per day appears to incr
 These are generally minor but seizure can occur, especially if you reduce the dose too rapidly or discontinue the medication abruptly.
 Seizure can be life-threatening.
 
-Manufactured for: Azur Pharma, Inc. Philadelphia, PA 19103, USA
-
-By: CIMA® LABS INC. Eden Prairie, MN 55344, USA
+Manufactured for: Jazz Pharmaceuticals Commercial Corp. Philadelphia, PA 19103
 
 U.S. Patent Nos. 6,024,981 and 6,221,392.
 
-CIMA® is a registered trademark of CIMA LABS INC. NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+NIRAVAM® is a registered trademark of UCB Manufacturing, Inc.

@@ -118,8 +118,7 @@ Although other medications with weak uricosuric effect have been reported to cau
 
 ## 5.11 Use in Patients with Concomitant Illness
 
-It is recommended that the dosage be limited to the smallest effective dose to preclude the development of ataxia or oversedation which may be a particular problem in elderly or debilitated patients.
-[see Dosage and Administration (2)].
+It is recommended that the dosage be limited to the smallest effective dose to preclude the development of ataxia or oversedation which may be a particular problem in elderly or debilitated patients [see Dosage and Administration (2)].
 The usual precautions in treating patients with impaired renal, hepatic or pulmonary function should be observed.
 There have been rare reports of death in patients with severe pulmonary disease shortly after the initiation of treatment with alprazolam.
 A decreased systemic alprazolam elimination rate (e.g., increased plasma half-life) has been observed in both alcoholic liver disease patients and obese patients receiving alprazolam [see Clinical Pharmacology (12)].

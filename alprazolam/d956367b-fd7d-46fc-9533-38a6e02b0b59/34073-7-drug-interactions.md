@@ -21,7 +21,7 @@ Drugs which inhibit this metabolic pathway can have a profound effect on the cle
 
 ## 7.5 Drugs Demonstrated to be CYP3A Inhibitors of Possible Clinical Significance on the Basis of Clinical Studies Involving Alprazolam
 
-Use caution during coadministration NIRAVAM and the following drugs:
+Use caution during coadministration of NIRAVAM and the following drugs:
 
 Fluoxetine — Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased half-life by 17%, and decreased measured psychomotor performance.
 

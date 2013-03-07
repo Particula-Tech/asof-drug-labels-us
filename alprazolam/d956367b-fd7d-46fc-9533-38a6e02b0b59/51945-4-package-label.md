@@ -8,7 +8,7 @@ NIRAVAM® 0.25 mg (alprazolam orally disintegrating tablets)
 
 Rx only CIV
 
-AZUR PHARMA
+Jazz Pharmaceuticals
 
 orally disintegrating tablets
 
@@ -23,16 +23,16 @@ Dispense in a tight container as defined in the USP/NF.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Distributed by: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
+Distributed by: Jazz Pharmaceuticals Commercial Corp. Philadelphia, PA 19103
 
 U.S. Patent Nos. 6,024,981 and 6,221,392
 
 NIRAt-10-12 Rev.
-01/11 2E
+05/12 3E
 
-NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+NIRAVAM® is a registered trademark of UCB Manufacturing, Inc.
 
-00017323
+00017961
 
 LOT: EXP:
 
@@ -46,7 +46,7 @@ NIRAVAM® 0.5 mg (alprazolam orally disintegrating tablets)
 
 Rx only CIV
 
-AZUR PHARMA
+Jazz Pharmaceuticals
 
 orally disintegrating tablets
 
@@ -61,16 +61,16 @@ Dispense in a tight container as defined in the USP/NF.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Distributed by: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
+Distributed by: Jazz Pharmaceuticals Commercial Corp. Philadelphia, PA 19103
 
 U.S. Patent Nos. 6,024,981 and 6,221,392
 
 NIRAt-10-12 Rev.
-01/11 2E
+05/12 3E
 
-NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+NIRAVAM® is a registered trademark of UCB Manufacturing, Inc.
 
-00017322
+00017960
 
 LOT: EXP:
 
@@ -84,7 +84,7 @@ NIRAVAM® 1 mg (alprazolam orally disintegrating tablets)
 
 Rx only CIV
 
-AZUR PHARMA
+Jazz Pharmaceuticals
 
 orally disintegrating tablets
 
@@ -99,16 +99,16 @@ Dispense in a tight container as defined in the USP/NF.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Distributed by: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
+Distributed by: Jazz Pharmaceuticals Commercial Corp. Philadelphia, PA 19103
 
 U.S. Patent Nos. 6,024,981 and 6,221,392
 
 NIRAt-10-12 Rev.
-01/11 2E
+05/12 3E
 
-NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+NIRAVAM® is a registered trademark of UCB Manufacturing, Inc.
 
-00017321
+00017959
 
 LOT: EXP:
 
@@ -122,7 +122,7 @@ NIRAVAM® 2 mg (alprazolam orally disintegrating tablets)
 
 Rx only CIV
 
-AZUR PHARMA
+Jazz Pharmaceuticals
 
 orally disintegrating tablets
 
@@ -137,15 +137,15 @@ Dispense in a tight container as defined in the USP/NF.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Distributed by: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
+Distributed by: Jazz Pharmaceuticals Commercial Corp. Philadelphia, PA 19103
 
 U.S. Patent Nos. 6,024,981 and 6,221,392
 
 NIRAt-10-12 Rev.
-01/11 2E
+05/12 3E
 
-NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+NIRAVAM® is a registered trademark of UCB Manufacturing, Inc.
 
-00017320
+00017958
 
 LOT: EXP:
