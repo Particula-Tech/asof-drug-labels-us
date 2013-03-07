@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091186"
+  ],
+  "inn": "zoledronic-acid",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-685-07"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "zoledronic acid",
+      "name": "Zoledronic Acid"
+    }
+  ],
+  "setid": "1738a682-5903-b675-3a7a-61d299a6f248",
+  "source": "dailymed"
+}
