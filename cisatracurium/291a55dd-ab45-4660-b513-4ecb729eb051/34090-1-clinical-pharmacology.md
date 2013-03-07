@@ -24,31 +24,22 @@ The average infusion rate requirement may be decreased by as much as 30% to 40%.
 
 The onset, duration of action, and recovery profiles of cisatracurium besylate during propofol/oxygen or propofol/nitrous oxide/oxygen anesthesia are similar to those during opioid/nitrous oxide/oxygen anesthesia.
 
-Table 1.
-Pharmacodynamic Dose Response* of Cisatracurium During Opioid/Nitrous Oxide/Oxygen Anesthesia
-
-|  |  |  |  |  | Time to Spontaneous Recovery |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Initial Dose of cisatracurium besylate (mg/kg) | Time to 90% Block (min) |  | Time to Maximum Block (min) |  | 5% Recovery (min) | 25% Recovery† (min) | 95% Recovery (min) | T 4:T 1 Ratio‡≥ 70% (min) | 25%-75% Recovery Index (min) |
-| Adults |  |  |  |  |  |  |  |  |  |
-| 0.1 (2 × ED95) (n§= 98) | 3.3 (1-8.7) |  | 5 (1.2-17.2) |  | 33 (15-51) | 42 (22-63) | 64 (25-93) | 64 (32-91) | 13 (5-30) |
-| 0.15\|\| (3 × ED95) (n = 39) | 2.6 (1-4.4) |  | 3.5 (1.6-6.8) |  | 46 (28-65) | 55 (44-74) | 76 (60-103) | 75 (63-98) | 13 (11-16) |
-| 0.2 (4 × ED95) (n = 30) | 2.4 (1.5-4.5) |  | 2.9 (1.9-5.2) |  | 59 (31-103) | 65 (43-103) | 81 (53-114) | 85 (55-114) | 12 (2-30) |
-| 0.25 (5 × ED95) (n = 15) | 1.6 (0.8-3.3) |  | 2 (1.2-3.7) |  | 70 (58-85) | 78 (66-86) | 91 (76-109) | 97 (82-113) | 8 (5-12) |
-| 0.4 (8 × ED95) (n = 15) | 1.5 (1.3-1.8) |  | 1.9 (1.4-2.3) |  | 83 (37-103) | 91 (59-107) | 121 (110-134) | 126 (115-137) | 14 (10-18) |
-| Infants (1-23 mos.) |  |  |  |  |  |  |  |  |  |
-| 0.15** (n = 18-26) | 1.5 (0.7-3.2) |  | 2 (1.3-4.3) |  | 36 (28-50) | 43 (34-58) | 64 (54-84) | 59 (49-76) | 11.3 (7.3-18.3) |
-| Children (2-12 yr) |  |  |  |  |  |  |  |  |  |
-| 0.08¶ (2 × ED95) (n = 60) | 2.2 (1.2-6.8) |  | 3.3 (1.7-9.7) | 22 (11-38) |  | 29 (20-46) | 52 (37-64) | 50 (37-62) | 11 (7-15) |
-| 0.1 (n = 16) | 1.7 (1.3-2.7) |  | 2.8 (1.8-6.7) | 21 (13-31) |  | 28 (21-38) | 46 (37-58) | 44 (36-58) | 10 (7-12) |
-| 0.15** (n = 23-24) | 2.1 (1.3-2.8) |  | 3 (1.5-8) | 29 (19-38) |  | 36 (29-46) | 55 (45-72) | 54 (44-66) | 10.6 (8.5-17.7) |
-| * Values shown are medians of means from individual studies. Values in parentheses are ranges of individual patient values. |  |  |  |  |  |  |  |  |  |
-| † Clinically effective duration of block. |  |  |  |  |  |  |  |  |  |
-| ‡ Train-of-four ratio. |  |  |  |  |  |  |  |  |  |
-| § n=the number of patients with Time to Maximum Block data. |  |  |  |  |  |  |  |  |  |
-| \|\| Propofol anesthesia. |  |  |  |  |  |  |  |  |  |
-| ¶ Halothane anesthesia. |  |  |  |  |  |  |  |  |  |
-| ** Thiopentone, alfentanil, N2O/O2 anesthesia |  |  |  |  |  |  |  |  |  |
+| Table 1. Pharmacodynamic Dose ResponseValues shown are medians of means from individual studies. Values in parentheses are ranges of individual patient values. of Cisatracurium During Opioid/Nitrous Oxide/Oxygen Anesthesia |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Time to Spontaneous Recovery |  |  |  |  |  |
+| Initial Dose of cisatracurium besylate (mg/kg) | Time to 90% Block (min) | Time to Maximum Block (min) | 5% Recovery (min) |  | 25% RecoveryClinically effective duration of block. (min) | 95% Recovery (min) | T 4:T 1 RatioTrain-of-four ratio.≥70% (min) | 25%-75% Recovery Index (min) |
+| Adults |  |  |  |  |  |  |  |  |
+| 0.1 (2 × ED95) (nn=the number of patients with Time to Maximum Block data.= 98) | 3.3 (1-8.7) | 5 (1.2-17.2) | 33 (15-51) |  | 42 (22-63) | 64 (25-93) | 64 (32-91) | 13 (5-30) |
+| 0.15Propofol anesthesia. (3 × ED95) (n = 39) | 2.6 (1-4.4) | 3.5 (1.6-6.8) | 46 (28-65) |  | 55 (44-74) | 76 (60-103) | 75 (63-98) | 13 (11-16) |
+| 0.2 (4 × ED95) (n = 30) | 2.4 (1.5-4.5) | 2.9 (1.9-5.2) | 59 (31-103) |  | 65 (43-103) | 81 (53-114) | 85 (55-114) | 12 (2-30) |
+| 0.25 (5 × ED95) (n = 15) | 1.6 (0.8-3.3) | 2 (1.2-3.7) | 70 (58-85) |  | 78 (66-86) | 91 (76-109) | 97 (82-113) | 8 (5-12) |
+| 0.4 (8 × ED95) (n = 15) | 1.5 (1.3-1.8) | 1.9 (1.4-2.3) | 83 (37-103) |  | 91 (59-107) | 121 (110-134) | 126 (115-137) | 14 (10-18) |
+| Infants (1-23 mos.) |  |  |  |  |  |  |  |  |
+| 0.15Thiopentone, alfentanil, N2O/O2 anesthesia. (n = 18-26) | 1.5 (0.7-3.2) | 2 (1.3-4.3) | 36 (28-50) |  | 43 (34-58) | 64 (54-84) | 59 (49-76) | 11.3 (7.3-18.3) |
+| Children (2-12 yr) |  |  |  |  |  |  |  |  |
+| 0.08Halothane anesthesia. (2 × ED95) (n = 60) | 2.2 (1.2-6.8) | 3.3 (1.7-9.7) |  | 22 (11-38) | 29 (20-46) | 52 (37-64) | 50 (37-62) | 11 (7-15) |
+| 0.1 (n = 16) | 1.7 (1.3-2.7) | 2.8 (1.8-6.7) |  | 21 (13-31) | 28 (21-38) | 46 (37-58) | 44 (36-58) | 10 (7-12) |
+| 0.15 (n = 23-24) | 2.1 (1.3-2.8) | 3 (1.5-8) |  | 29 (19-38) | 36 (29-46) | 55 (45-72) | 54 (44-66) | 10.6 (8.5-17.7) |
 
 When administered during the induction of adequate anesthesia using propofol, nitrous oxide/oxygen, and co-induction agents (e.g., fentanyl and midazolam), GOOD or EXCELLENT conditions for tracheal intubation occurred in 96/102 (94%) patients in 1.5 to 2 minutes following 0.15 mg/kg cisatracurium and in 97/110 (88%) patients in 1.5 minutes following 0.2 mg/kg cisatracurium.
 
@@ -101,25 +92,25 @@ The results are summarized in Table 4.
 Table 4.
 Study of Tracheal Intubation for Pediatrics Stratified by Age Group (0.15 mg/kg Cisatracurium Besylate with Halothane or Thiopentone/ Fentanyl Anesthesia)
 
-|  | Cisatracurium 0.15 mg/kg 1-11 mo. n = 30 |  | Cisatracurium.15 mg/kg 1- 4 years n = 31 |  | Cisatracurium 0.15 mg/kg 5-12 years n = 30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Intubating Conditions at 120 seconds** | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Excellent and Good |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Proportion | 30/30 | 30/30 | 29/30 | 26/30 | 29/30 | 29/30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Percent | 100% | 100% | 97% | 87% | 97% | 97% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Excellent |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Proportion | 30/30 | 25/30 | 27/30 | 19/30 | 22/30 | 21/30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Percent | 100% | 83% | 90% | 63% | 73% | 70% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Good |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Proportion | 0 | 5/30 | 2/30 | 7/30 | 7/30 | 8/30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Percent | 0% | 17% | 7% | 23% | 23% | 27% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Poor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Proportion | 0/30 | 0/30 | 1/30 | 4/30 | 1/30 | 1/30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Percent | 0% | 0% | 3% | 13% | 3% | 3% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ** Excellent: Easy passage of the tube without coughing. Vocal cords relaxed and abducted. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Good: Passage of tube with slight coughing and/or bucking. Vocal cords relaxed and abducted. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Poor: Passage of tube with moderate coughing and/or bucking. Vocal cords moderately adducted. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Response of patient requires adjustment of ventilation pressure and/or rate. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Cisatracurium 0.15 mg/kg 1-11 mo. n = 30 |  | Cisatracurium 0.15 mg/kg 1- 4 years n = 31 |  | Cisatracurium 0.15 mg/kg 5-12 years n = 30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Intubating Conditions at 120 seconds** | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Excellent and Good |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Proportion | 30/30 | 30/30 | 29/30 | 26/30 | 29/30 | 29/30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Percent | 100% | 100% | 97% | 87% | 97% | 97% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Excellent |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Proportion | 30/30 | 25/30 | 27/30 | 19/30 | 22/30 | 21/30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Percent | 100% | 83% | 90% | 63% | 73% | 70% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Good |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Proportion | 0 | 5/30 | 2/30 | 7/30 | 7/30 | 8/30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Percent | 0% | 17% | 7% | 23% | 23% | 27% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Poor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Proportion | 0/30 | 0/30 | 1/30 | 4/30 | 1/30 | 1/30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Percent | 0% | 0% | 3% | 13% | 3% | 3% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ** Excellent: Easy passage of the tube without coughing. Vocal cords relaxed and abducted. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Good: Passage of tube with slight coughing and/or bucking. Vocal cords relaxed and abducted. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Poor: Passage of tube with moderate coughing and/or bucking. Vocal cords moderately adducted. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Response of patient requires adjustment of ventilation pressure and/or rate. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 EXCELLENT or GOOD intubating conditions were produced 120 seconds following 0.15 mg/kg cisatracurium besylate in 88/90 (98%) of patients induced with halothane and in 85/90 (94%) of patients induced with thiopentone and fentanyl.
 There were no patients for whom intubation was not possible, but there were 7/120 patients ages 1 to 12 years for whom intubating conditions were described as poor.
@@ -198,16 +189,13 @@ Because cisatracurium is three times more potent than atracurium and lower doses
 
 Results from population pharmacokinetic/pharmacodynamic (PK/PD) analyses from 241 healthy surgical patients are summarized in Table 5.
 
-Table 5.
-Key Population PK/PD Parameter Estimates for Cisatracurium in Healthy Surgical Patients* Following 0.1 (2 × ED95) to 0.4 mg/kg (8 × ED95) Cisatracurium
-
-| Parameter | Estimate† | Magnitude of Interpatient Variability (CV)‡ |
+| Parameter | EstimateThe percent standard error of the mean (%SEM) ranged from 3% to 12% indicating good precision for the PK/PD estimates. | Magnitude of Interpatient Variability (CV)Expressed as a coefficient of variation; the %SEM ranged from 20% to 35% indicating adequate precision for the estimates of interpatient variability. |
 | --- | --- | --- |
+| Table 5. Key Population PK/PD Parameter Estimates for Cisatracurium in Healthy Surgical PatientsHealthy male non-obese patients 19-64 years of age with creatinine clearance values greater than 70 mL/min who received cisatracurium during opioid anesthesia and had venous samples collected. Following 0.1 (2 × ED95) to 0.4 mg/kg (8 × ED95) Cisatracurium |  |  |
 | CL (mL/min/kg) | 4.57 | 16% |
-| Vss (mL/kg)§ | 145 | 27% |
-| keo (min-1)ll | 0.0575 | 61% |
-| EC50 (ng/mL)¶ | 141 | 52% |
-| * Healthy male non-obese patients 19-64 years of age with creatinine clearance values greater than 70 mL/min who received cisatracurium during opioid anesthesia and had venous samples collected. † The percent standard error of the mean (%SEM) ranged from 3% to 12% indicating good precision for the PK/PD estimates. ‡ Expressed as a coefficient of variation; the %SEM ranged from 20% to 35% indicating adequate precision for the estimates of interpatient variability. § Vss is the volume of distribution at steady state estimated using a two-compartment model with elimination from both compartments. Vss is equal to the sum of the volume in the central compartment (Vc) and the volume in the peripheral compartment (Vp); interpatient variability could only be estimated for Vc. ll Rate constant describing the equilibration between plasma concentrations and neuromuscular block. ¶ Concentration required to produce 50% T1 suppression; an index of patient sensitivity. |  |  |
+| Vss (mL/kg)Vss is the volume of distribution at steady state estimated using a two-compartment model with elimination from both compartments. Vss is equal to the sum of the volume in the central compartment (Vc) and the volume in the peripheral compartment (Vp); interpatient variability could only be estimated for Vc. | 145 | 27% |
+| keo (min-1)Rate constant describing the equilibration between plasma concentrations and neuromuscular block. | 0.0575 | 61% |
+| EC50 (ng/mL)Concentration required to produce 50% T1 suppression; an index of patient sensitivity. | 141 | 52% |
 
 The magnitude of interpatient variability in CL was low (16%), as expected based on the importance of Hofmann elimination (see Pharmacokinetics -Elimination).
 The magnitudes of interpatient variability in CL and volume of distribution were low in comparison to those for keo and EC50.
@@ -265,15 +253,12 @@ The rate of equilibration between plasma cisatracurium concentrations and neurom
 These changes were consistent with the 1-minute slower times to maximum block in elderly patients receiving 0.1 mg/kg cisatracurium besylate, when compared to young patients receiving the same dose.
 The minor differences in PK/PD parameters of cisatracurium between elderly patients and young patients were not associated with clinically significant differences in the recovery profile of cisatracurium besylate.
 
-Table 6.
-Pharmacokinetic Parameters* of Cisatracurium in Healthy Elderly and Young Adult Patients Following 0.1 mg/kg (2× ED95) Cisatracurium Besylate (Isoflurane/Nitrous Oxide/Oxygen Anesthesia)
-
 | Parameter | Healthy Elderly Patients | Healthy Young Adult Patients |
 | --- | --- | --- |
-| Elimination Half-Life (t½β, min) | 25.8 ± 3.6† | 22.1 ± 2.5 |
-| Volume of Distribution at Steady State‡ (mL/kg) | 156 ± 17† | 133 ± 15 |
+| Table 6. Pharmacokinetic ParametersValues presented are mean ± SD. of Cisatracurium in Healthy Elderly and Young Adult Patients Following 0.1 mg/kg (2× ED95) CisatracuriumBesylate (Isoflurane/Nitrous Oxide/Oxygen Anesthesia) |  |  |
+| Elimination Half-Life (t½β, min) | 25.8 ± 3.6P < 0.05 for comparisons between healthy elderly and healthy young adult patients. | 22.1 ± 2.5 |
+| Volume of Distribution at Steady StateVolume of distribution is underestimated because elimination from the peripheral compartment is ignored. (mL/kg) | 156 ± 17 | 133 ± 15 |
 | Plasma Clearance (mL/min/kg) | 5.7 ± 1 | 5.3 ± 0.9 |
-| * Values presented are mean ± SD. † P < 0.05 for comparisons between healthy elderly and healthy young adult patients. ‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
 
 #### Patients with Hepatic Disease
 
@@ -286,15 +271,12 @@ These minor differences in pharmacokinetics were not associated with clinically 
 
 The t½β values of metabolites are longer in patients with hepatic disease and concentrations may be higher after long-term administration (see Pharmacokinetics - Special Populations - Intensive Care Unit Patients).
 
-Table 7.
-Pharmacokinetic Parameters* of Cisatracurium in Healthy Adult Patients and in Patients Undergoing Liver Transplantation Following 0.1 mg/kg (2 × ED95) Cisatracurium (Isoflurane/Nitrous Oxide/Oxygen Anesthesia)
-
 | Parameter | Liver Transplant Patients | Healthy Adult Patients |
 | --- | --- | --- |
+| Table 7. Pharmacokinetic ParametersValues presented are mean ± SD. of Cisatracurium in Healthy Adult Patients and in Patients Undergoing Liver Transplantation Following 0.1 mg/kg (2 × ED95) Cisatracurium (Isoflurane/Nitrous Oxide/Oxygen Anesthesia) |  |  |
 | Elimination Half-Life (t½β, min) | 24.4 ± 2.9 | 23.5 ± 3.5 |
-| Volume of Distribution at Steady State‡ (mL/kg) | 195 ± 38† | 161 ± 23 |
-| Plasma Clearance (mL/min/kg) | 6.6 ± 1.1† | 5.7 ± 0.8 |
-| * Values presented are mean ± SD. † P < 0.05 for comparisons between liver transplant patients and healthy adult patients. ‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
+| Volume of Distribution at Steady StateVolume of distribution is underestimated because elimination from the peripheral compartment is ignored. (mL/kg) | 195 ± 38P < 0.05 for comparisons between liver transplant patients and healthy adult patients. | 161 ± 23 |
+| Plasma Clearance (mL/min/kg) | 6.6 ± 1.1 | 5.7 ± 0.8 |
 
 #### Patients with Renal Dysfunction
 
@@ -305,15 +287,12 @@ There were no differences in the durations or rates of recovery of cisatracurium
 
 The t½β values of metabolites are longer in patients with renal failure and concentrations may be higher after long-term administration (see Pharmacokinetics-Special Populations - Intensive Care Unit Patients).
 
-Table 8.
-Pharmacokinetic Parameters* for Cisatracurium in Healthy Adult Patients and in Patients With End-Stage Renal Disease (ESRD) Receiving 0.1 mg/kg (2 × ED95) Cisatracurium (Opioid/Nitrous Oxide/Oxygen Anesthesia)
-
 | Parameter | Healthy Adult Patients | ESRD Patients |
 | --- | --- | --- |
+| Table 8. Pharmacokinetic ParametersValues presented are mean ± SD. for Cisatracurium in Healthy Adult Patients and in Patients With End-Stage Renal Disease (ESRD) Receiving 0.1 mg/kg (2 × ED95) Cisatracurium (Opioid/Nitrous Oxide/Oxygen Anesthesia) |  |  |
 | Elimination Half-Life (t½β, min) | 29.4 ± 4.1 | 32.3 ± 6.3 |
-| Volume of Distribution at Steady State† (mL/kg) | 149 ± 35 | 160 ± 32 |
+| Volume of Distribution at Steady StateVolume of distribution is underestimated because elimination from the peripheral compartment is ignored. (mL/kg) | 149 ± 35 | 160 ± 32 |
 | Plasma Clearance (mL/min/kg) | 4.66 ± 0.86 | 4.26 ± 0.62 |
-| * Values presented are mean ± SD.† Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
 
 Population pharmacokinetic analyses revealed that patients with creatinine clearances ≤ 70 mL/min had a slower rate of equilibration between plasma concentrations and neuromuscular block than patients with normal renal function; this change was associated with a slightly slower (~ 40 seconds) predicted time to 90% T1 suppression in patients with renal dysfunction following 0.1 mg/kg cisatracurium besylate.
 There was no clinically significant alteration in the recovery profile of cisatracurium besylate in patients with renal dysfunction.
@@ -328,18 +307,17 @@ The relationships between plasma cisatracurium or atracurium concentrations and 
 The minor differences in pharmacokinetics were not associated with any differences in the recovery profiles of cisatracurium besylate and atracurium in ICU patients.
 
 Table 9.
-Parameter Estimates* for Cisatracurium, Atracurium, and Metabolites in ICU Patients After Long-Term (24-48 Hour) Administration of Cisatracurium or Atracurium Besylate
+Parameter EstimatesPresented as mean ± standard deviation. for Cisatracurium, Atracurium, and Metabolites in ICU Patients After Long-Term (24-48 Hour) Administration of Cisatracurium or Atracurium Besylate
 
 |  | Parameter | Cisatracurium (n = 6) | Atracurium (n = 6) |
 | --- | --- | --- | --- |
-| Parent Compound | CL (mL/min/kg) | 7.45 ± 1.02 | 7.49 ± 0.66† |
-|  | t½β (min) | 26.8 ± 11.1 | 16.5 ± 6† |
-|  | Vβ (mL/kg)‡ | 280 ± 103 | 178 ± 71† |
+| Parent Compound | CL (mL/min/kg) | 7.45 ± 1.02 | 7.49 ± 0.66n = 5. |
+|  | t½β (min) | 26.8 ± 11.1 | 16.5 ± 6 |
+|  | Vβ (mL/kg)Volume of distribution during the terminal elimination phase, an underestimate because elimination from the peripheral compartment is ignored. | 280 ± 103 | 178 ± 71 |
 | Laudanosine | Cmax (ng/mL) | 707 ± 360 | 2318 ± 1498 |
 |  | t½β (hrs) | 6.6 ± 4.1 | 8.4 ± 7.3 |
-| MQA metabolite | Cmax (ng/mL) | 152-181§ | 943 ± 333ll |
-|  | t½β (min) | 26-31§ | 21-58§ |
-| * Presented as mean ± standard deviation.† n = 5. ‡ Volume of distribution during the terminal elimination phase, an underestimate because elimination from the peripheral compartment is ignored. § n = 2, range presented.ll n = 3. |  |  |  |
+| MQA metabolite | Cmax (ng/mL) | 152-181n = 2, range presented. | 943 ± 333n = 3. |
+|  | t½β (min) | 26-31 | 21-58 |
 
 Plasma metabolite pharmacokinetics are listed in Table 9.
 Limited pharmacokinetic data are available for patients with liver/kidney dysfunction receiving cisatracurium besylate.

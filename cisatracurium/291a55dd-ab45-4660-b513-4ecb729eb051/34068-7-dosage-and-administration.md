@@ -114,14 +114,14 @@ Cisatracurium besylate injection is acidic (pH = 3.25 to 3.65) and may not be co
 
 Studies have shown that cisatracurium besylate injection is compatible with:
 
-- 5% Dextrose injection, USP
-- 0.9% Sodium chloride injection, USP
-- 5% Dextrose and 0.9% Sodium chloride injection, USP
-- SUFENTA® (sufentanil citrate) injection, diluted as directed
-- ALFENTA® (alfentanil hydrochloride) injection, diluted as directed
-- SUBLIMAZE® (fentanyl citrate) injection, diluted as directed
-- VERSED® (midazolam hydrochloride) injection, diluted as directed
-- Droperidol injection, diluted as directed
+- •5% Dextrose injection, USP
+- •0.9% Sodium chloride injection, USP
+- •5% Dextrose and 0.9% Sodium chloride injection, USP
+- •SUFENTA® (sufentanil citrate) injection, diluted as directed
+- •ALFENTA® (alfentanil hydrochloride) injection, diluted as directed
+- •SUBLIMAZE® (fentanyl citrate) injection, diluted as directed
+- •VERSED® (midazolam hydrochloride) injection, diluted as directed
+- •Droperidol injection, diluted as directed
 
 Cisatracurium besylate injection is not compatible with DIPRIVAN® (propofol) injection or TORADOL® (ketorolac) injection for Y-site administration.
 Studies of other parenteral products have not been conducted.
