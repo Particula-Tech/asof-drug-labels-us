@@ -158,16 +158,16 @@ While the hemodynamic profile was comparable in both the cisatracurium besylate 
 Unlike atracurium, cisatracurium besylate, at therapeutic doses of 2 × ED95 to 8 × ED95 (0.1 to 0.4 mg/kg), administered over 5 to 10 seconds, does not cause dose-related elevations in mean plasma histamine concentration.
 
 Figure 1.
-Maximum Percent Change from Preinjection in Heart Rate (HR) and Mean Arterial Pressure (MAP) During First 5 Minutes after Initial 4 × ED95 to 8 × ED95 Doses of Cisatracurium Besylate in Healthy Adult Patients Receiving Opioid/Nitrous Oxide/Oxygen Anesthesia (n = 44)
+Maximum Percent Change from Preinjection in Heart Rate (HR) and Mean Arterial Pressure (MAP) During First 5 Minutes after Initial 4 × ED95 to 8 × ED95 Doses of CisatracuriumBesylate in Healthy Adult Patients Receiving Opioid/Nitrous Oxide/Oxygen Anesthesia (n = 44)
 
 Figure 2.
-Percent Change from Preinjection in Heart Rate (HR) and Mean Arterial Pressure (MAP) 10 Minutes After an Initial 4 × ED95 to 8 × ED95 Dose of Cisatracurium Besylate in Patients Undergoing CABG Surgery Receiving Oxygen/Fentanyl/Midazolam/Anesthesia (n = 54)
+Percent Change from Preinjection in Heart Rate (HR) and Mean Arterial Pressure (MAP) 10 Minutes After an Initial 4 × ED95 to 8 × ED95 Dose of CisatracuriumBesylate in Patients Undergoing CABG Surgery Receiving Oxygen/Fentanyl/Midazolam/Anesthesia (n = 54)
 
 No clinically significant changes in MAP or HR were observed following administration of doses up to 0.1 mg/kg cisatracurium besylate over 5 to 10 seconds in 2- to 12-year-old children receiving either halothane/nitrous oxide/oxygen or opioid/nitrous oxide/oxygen anesthesia.
 Doses of 0.15 mg/kg cisatracurium besylate administered over 5 seconds were not consistently associated with changes in HR and MAP in pediatric patients aged 1 month to 12 years receiving opioid/nitrous oxide/oxygen or halothane/nitrous oxide/oxygen anesthesia.
 
 Figure 3.
-Heart Rate and MAP Change at 1 Minute After the Initial Dose, By Age Group Treatment Group: Cisatracurium Besylate 0:3 × ED95 Opioid Intubation at 120 Sec.
+Heart Rate and MAP Change at 1 Minute After the Initial Dose, By Age Group Treatment Group: CisatracuriumBesylate 0:3 × ED95 Opioid Intubation at 120 Sec.
 
 1 to 11 Months
 
@@ -176,7 +176,7 @@ Heart Rate and MAP Change at 1 Minute After the Initial Dose, By Age Group Treat
 5 to 13 Years
 
 Figure 4.
-Heart Rate and MAP Change at 1 Minute After the Initial Dose, By Age Group Treatment Group: Cisatracurium Besylate H:3 × ED95 Halothane Intubation at 120 Sec.
+Heart Rate and MAP Change at 1 Minute After the Initial Dose, By Age Group Treatment Group: CisatracuriumBesylate H:3 × ED95 Halothane Intubation at 120 Sec.
 
 1 to 11 Months
 

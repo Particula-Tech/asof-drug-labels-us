@@ -148,7 +148,7 @@ Intubation of the trachea in patients 1-4 years old was facilitated more reliabl
 
 The 10 mL multiple-dose vials of cisatracurium besylate injection contain benzyl alcohol as a preservative.
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
-The “gasping syndrome”, (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages 99 mg/kg/day in neonates and low-birth-weight neonates.
+The “gasping syndrome”, (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
 Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.

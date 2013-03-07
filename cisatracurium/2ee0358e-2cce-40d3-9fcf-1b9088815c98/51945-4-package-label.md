@@ -2,7 +2,7 @@
 
 NDC 0781-3152-70
 
-Cisatracurium Besylate Injection
+CisatracuriumBesylate Injection
 
 20 mg/10 mL*
 
