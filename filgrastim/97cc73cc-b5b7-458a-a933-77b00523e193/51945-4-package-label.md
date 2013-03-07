@@ -34,38 +34,54 @@ Amgen Inc. Thousand Oaks, CA 91320 U.S.A U.S. License No. 1080
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - prefilled syringe, 300 mcg
 
-10 x 300 mcg/0.5 mL Single Use Prefilled Syringes with 27 Gauge Needles NDC 55513-924-10
+NDC 55513-924-10
+
+10 x 300 mcg/0.5 mL Single Use Prefilled Syringes with 27 Gauge Needles
 
 AMGEN®
 
-Neupogen® SingleJect® Filgrastim A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
+Neupogen® SingleJect®
 
-300 mcg
+Filgrastim
+
+A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
 Single Use Prefilled Syringes with 27 Gauge Needles
+
+300 mcg
 
 300 mcg/0.5 mL
 
 For Subcutaneous or Intravenous Use Only
+
+This Product Contains Dry Natural Rubber
 
 Sterile Solution – No Preservative
 
 Refrigerate at 2° to 8°C (36° to 46°F).
 Avoid Shaking.
 
-RX Only
+Rx Only
 
 Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
 
-Thousand Oaks, CA 91320 U.S.A U.S. License No. 1080
+Thousand Oaks, CA 91320 U.S.A.
+
+U.S. License No. 1080
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - prefilled syringe, 480 mcg
 
-10 x 480 mcg/0.8 mL Single Use Prefilled Syringes with 27 Gauge Needles NDC 55513-209-10
+NDC 55513-209-10
+
+10 x 480 mcg/0.8 mL Single Use Prefilled Syringes with 27 Gauge Needles
 
 AMGEN®
 
-Neupogen® SingleJect® Filgrastim A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
+Neupogen® SingleJect®
+
+Filgrastim
+
+A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
 480 mcg
 
@@ -75,13 +91,17 @@ Single Use Prefilled Syringes with 27 Gauge Needles
 
 For Subcutaneous or Intravenous Use Only
 
+This Product Contains Dry Natural Rubber
+
 Sterile Solution – No Preservative
 
 Refrigerate at 2° to 8°C (36° to 46°F).
 Avoid Shaking.
 
-RX Only
+Rx Only
 
 Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
 
-Thousand Oaks, CA 91320 U.S.A U.S. License No. 1080
+Thousand Oaks, CA 91320 U.S.A.
+
+U.S. License No. 1080

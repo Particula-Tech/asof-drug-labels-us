@@ -1,4 +1,4 @@
-# NEUPOGEN® (Filgrastim) Information for Patients and Caregivers
+# NEUPOGEN® (filgrastim) Information for Patients and Caregivers
 
 This patient package insert provides information and instructions for people who will be receiving NEUPOGEN® and their caregivers.
 This patient package insert does not tell you everything about NEUPOGEN®.
@@ -47,6 +47,8 @@ If there is a lump, swelling, or bruising at an injection site that does not go 
 If you have a sickle cell disorder, make sure that you tell your doctor before you start taking NEUPOGEN®.
 If you have a sickle cell crisis after getting NEUPOGEN®, tell your doctor right away.
 
+Talk to your doctor if you experience unusual bleeding or bruising while taking NEUPOGEN®, as this could mean a decrease of platelets which reduces the ability of blood to clot.
+
 Make sure your doctor knows about all medicines, and herbal or vitamin supplements you are taking before starting NEUPOGEN®.
 If you are taking lithium you may need more frequent blood tests.
 
@@ -90,6 +92,9 @@ It is not known if NEUPOGEN® can get into human breast milk.
 
 If you are pregnant, plan to become pregnant, think you may be pregnant, or are breast feeding, you should tell your doctor before using NEUPOGEN®.
 If you become pregnant during NEUPOGEN® treatment, you are encouraged to enroll in Amgen's Pregnancy Surveillance Program.
+You should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
+
+If you breastfeed during NEUPOGEN® treatment, you are encouraged to enroll in Amgen’s Lactation Surveillance Program.
 You should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
 
 How to prepare and give a NEUPOGEN® injection?
@@ -268,12 +273,12 @@ The needle cover on the single-use prefilled syringe contains dry natural rubber
 
 Manufactured by: Amgen Manufacturing, Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S.A.
 
-Revised: 05/2012
+Revised: 03/2013
 
 1xxxxxx
 
-© 1991-2012 Amgen Inc. All rights reserved.
+© 1991-2013 Amgen Inc. All rights reserved.
 
-v9
+v10
 
-PMV 9
+PMV10

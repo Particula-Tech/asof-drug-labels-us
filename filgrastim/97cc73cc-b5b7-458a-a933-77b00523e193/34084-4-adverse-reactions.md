@@ -79,6 +79,7 @@ In this setting‚ NEUPOGEN® was generally well tolerated.
 Adverse events related to NEUPOGEN® consisted primarily of mild-to-moderate musculoskeletal symptoms‚ reported in 44% of patients.
 These symptoms were predominantly events of medullary bone pain (33%).
 Headache was reported related to NEUPOGEN® in 7% of patients.
+
 Transient increases in alkaline phosphatase related to NEUPOGEN® were reported in 21% of the patients who had serum chemistries measured; most were mild-to-moderate.
 
 All patients had increases in neutrophil counts during mobilization‚ consistent with the biological effects of NEUPOGEN®.
@@ -119,7 +120,7 @@ Additionally, annual bone marrow and cytogenetic evaluations are recommended in 
 The following adverse reactions have been identified during postapproval of NEUPOGEN®.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- splenic rupture (see WARNINGS: Splenic Rupture)
+- splenomegaly (enlarged spleen) and splenic rupture (see WARNINGS: Splenic Rupture)
 - acute respiratory distress syndrome (ARDS) (see WARNINGS: Acute Respiratory Distress Syndrome)
 - alveolar hemorrhage and hemoptysis (see WARNINGS: Alveolar Hemorrhage and Hemoptysis)
 - sickle cell crisis (see WARNINGS: Sickle Cell Disorders)

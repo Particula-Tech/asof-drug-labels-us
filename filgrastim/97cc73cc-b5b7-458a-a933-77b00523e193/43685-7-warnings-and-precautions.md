@@ -32,6 +32,11 @@ The use of NEUPOGEN® for PBPC mobilization in healthy donors is not an approved
 Severe sickle cell crises, in some cases resulting in death, have been associated with the use of NEUPOGEN® in patients with sickle cell disorders.
 Only physicians qualified by specialized training or experience in the treatment of patients with sickle cell disorders should prescribe NEUPOGEN® for such patients, and only after careful consideration of the potential risks and benefits.
 
+## Thrombocytopenia
+
+Thrombocytopenia has been reported commonly in patients receiving NEUPOGEN®.
+Platelet counts should be monitored closely.
+
 ## Patients With Severe Chronic Neutropenia
 
 The safety and efficacy of NEUPOGEN® in the treatment of neutropenia due to other hematopoietic disorders (eg‚ myelodysplastic syndrome [MDS]) have not been established.
@@ -177,6 +182,9 @@ Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enro
 
 It is not known whether NEUPOGEN® is excreted in human milk.
 Because many drugs are excreted in human milk‚ caution should be exercised if NEUPOGEN® is administered to a nursing woman.
+
+Women who are nursing during NEUPOGEN® treatment are encouraged to enroll in Amgen’s Lactation Surveillance Program.
+Patients or their physicians should call 1‑800‑77‑AMGEN (1-800-772-6436) to enroll.
 
 ## Pediatric Use
 
