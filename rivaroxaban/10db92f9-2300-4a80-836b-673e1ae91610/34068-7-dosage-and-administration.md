@@ -64,3 +64,15 @@ If a dose of XARELTO is not taken at the scheduled time, administer the dose as 
   In this particular instance, two 15 mg tablets may be taken at once.
   The patient should continue with the regular 15 mg twice daily intake as recommended on the following day.
 - For patients receiving 20, 15 or 10 mg once daily: The patient should take the missed XARELTO dose immediately.
+
+## 2.8 Administration Options
+
+For patients who are unable to swallow whole tablets, 15 mg or 20 mg XARELTO tablets may be crushed and mixed with applesauce immediately prior to use and administered orally.
+After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should be immediately followed by food [see Dosage and Administration (2.1, 2.3, 2.4) and Clinical Pharmacology (12.3)].
+
+Administration via nasogastric (NG) tube or gastric feeding tube: After confirming gastric placement of the tube, 15 mg or 20 mg XARELTO tablets may be crushed and suspended in 50 mL of water and administered via an NG tube or gastric feeding tube.
+Since rivaroxaban absorption is dependent on the site of drug release, avoid administration of XARELTO distal to the stomach which can result in reduced absorption and thereby, reduced drug exposure.
+After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should then be immediately followed by enteral feeding [see Clinical Pharmacology (12.3)].
+
+Crushed 15 mg or 20 mg XARELTO tablets are stable in water and in applesauce for up to 4 hours.
+An in vitro compatibility study indicated that there is no adsorption of rivaroxaban from a water suspension of a crushed XARELTO tablet to PVC or silicone nasogastric (NG) tubing.

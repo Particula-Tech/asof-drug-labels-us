@@ -8,6 +8,8 @@ See FDA-approved patient labeling (Medication Guide).
 - Remind patients to not discontinue XARELTO without first talking to their healthcare professional.
 - Advise patients with atrial fibrillation to take XARELTO once daily with the evening meal.
 - Advise patients with DVT and/or PE to take XARELTO 15 mg or 20 mg tablets with food at approximately the same time every day [see Dosage and Administration (2.4)].
+- Advise patients who cannot swallow the tablet whole to crush XARELTO and combine with a small amount of applesauce followed by food [see Dosage and Administration (2.8)].
+- For patients requiring an NG tube or gastric feeding tube, instruct the patient or caregiver to crush the XARELTO tablet and mix it with a small amount of water before administering via the tube [see Dosage and Administration (2.8)].
 - If a dose is missed, advise the patient to take XARELTO as soon as possible on the same day and continue on the following day with their recommended daily dose regimen.
 
 ## 17.2 Bleeding Risks

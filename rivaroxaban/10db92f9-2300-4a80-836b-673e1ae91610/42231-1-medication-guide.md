@@ -1,4 +1,4 @@
-MEDICATION GUIDE XARELTO® (zah-REL-toe) (rivaroxaban) Tablets
+MEDICATION GUIDE XARELTO® (zah-REL-toe) (rivaroxaban) tablets
 
 Read this Medication Guide before you start taking XARELTO and each time you get a refill.
 There may be new information.
@@ -111,13 +111,25 @@ How should I take XARELTO?
 - Do not change your dose or stop taking XARELTO unless your doctor tells you to.
 - Your doctor will tell you how much XARELTO to take and when to take it.
 - Your doctor may change your dose if needed.
-- For people who have:
-  - atrial fibrillation: Take XARELTO 1 time a day with your evening meal.
-    Stopping XARELTO may increase your risk of having a stroke or forming blood clots in other parts of your body.
-  - blood clots in the veins of your legs or lungs: To treat blood clots, take XARELTO once or twice a day according to your doctor's instructions.
-    XARELTO is usually taken with food.
-    Take XARELTO at the same time each day.
-  - hip or knee replacement surgery: Take XARELTO 1 time a day with or without food.
+- If you take XARELTO for:
+  - atrial fibrillation:
+    - Take XARELTO 1 time a day with your evening meal.
+    - If you miss a dose of XARELTO, take it as soon as you remember on the same day.
+      Take your next dose at your regularly scheduled time.
+  - blood clots in the veins of your legs or lungs:
+    - Take XARELTO once or twice a day as prescribed by your doctor.
+    - Take XARELTO with food at the same time each day.
+    - If you miss a dose of XARELTO:
+      - and take XARELTO 2 times a day: Take XARELTO as soon as you remember on the same day.
+        You may take 2 doses at the same time to make up for the missed dose.
+        Take your next dose at your regularly scheduled time.
+      - and take XARELTO 1 time a day: Take XARELTO as soon as you remember on the same day.
+        Take your next dose at your regularly scheduled time.
+  - hip or knee replacement surgery:
+    - Take XARELTO 1 time a day with or without food.
+    - If you miss a dose of XARELTO, take it as soon as you remember on the same day.
+      Take your next dose at your regularly scheduled time.
+- If you have difficulty swallowing the tablet whole, talk to your doctor about other ways to take XARELTO.
 - Your doctor will decide how long you should take XARELTO.
   Do not stop taking XARELTO without talking with your doctor first.
 - Your doctor may stop XARELTO for a short time before any surgery, medical or dental procedure.
@@ -125,7 +137,6 @@ How should I take XARELTO?
 - Do not run out of XARELTO.
   Refill your prescription of XARELTO before you run out.
   When leaving the hospital following a hip or knee replacement, be sure that you will have XARELTO available to avoid missing any doses.
-- If you miss a dose of XARELTO, take it as soon as you remember on the same day and continue with your next regularly scheduled dose.
 - If you take too much XARELTO, go to the nearest hospital emergency room or call your doctor right away.
 
 What are the possible side effects of XARELTO?
@@ -176,7 +187,7 @@ Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
 
-Revised: November 2012
+Revised: March 2013
 
 © Janssen Pharmaceuticals, Inc. 2011
 

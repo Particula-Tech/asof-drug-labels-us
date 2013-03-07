@@ -28,7 +28,10 @@ Coadministration of XARELTO (30 mg single dose) with the H2-receptor antagonist 
 Absorption of rivaroxaban is dependent on the site of drug release in the GI tract.
 A 29% and 56% decrease in AUC and Cmax compared to tablet was reported when rivaroxaban granulate is released in the proximal small intestine.
 Exposure is further reduced when drug is released in the distal small intestine, or ascending colon.
-Avoid administration of rivaroxaban via a method that could deposit drug directly into the proximal small intestine (e.g., feeding tube) which can result in reduced absorption and related drug exposure.
+Avoid administration of rivaroxaban distal to the stomach which can result in reduced absorption and related drug exposure.
+
+In a study with 44 healthy subjects, both mean AUC and Cmax values for 20 mg rivaroxaban administered orally as a crushed tablet mixed in applesauce were comparable to that after the whole tablet.
+However, for the crushed tablet suspended in water and administered via an NG tube followed by a liquid meal, only mean AUC was comparable to that after the whole tablet, and Cmax was 18% lower.
 
 Distribution
 
@@ -37,13 +40,14 @@ The steady-state volume of distribution in healthy subjects is approximately 50 
 
 Metabolism
 
-Approximately 51% of an orally administered [14C]-rivaroxaban dose was recovered as metabolites in urine (30%) and feces (21%).
+Approximately 51% of an orally administered [14C]-rivaroxaban dose was recovered as inactive metabolites in urine (30%) and feces (21%).
 Oxidative degradation catalyzed by CYP3A4/5 and CYP2J2 and hydrolysis are the major sites of biotransformation.
 Unchanged rivaroxaban was the predominant moiety in plasma with no major or active circulating metabolites.
 
 Excretion
 
-Following oral administration of a [14C]-rivaroxaban dose, 66% of the radioactive dose was recovered in urine (36% as unchanged drug) and 28% was recovered in feces (7% as unchanged drug).
+Following oral administration, approximately one-third of the absorbed dose is excreted unchanged in the urine, with the remaining two-thirds excreted as inactive metabolites in both the urine and feces.
+In a Phase 1 study, following the administration of a [14C]-rivaroxaban dose, 66% of the radioactive dose was recovered in urine (36% as unchanged drug) and 28% was recovered in feces (7% as unchanged drug).
 Unchanged drug is excreted into urine, mainly via active tubular secretion and to a lesser extent via glomerular filtration (approximate 5:1 ratio).
 Rivaroxaban is a substrate of the efflux transporter proteins P-gp and ABCG2 (also abbreviated Bcrp).
 Rivaroxaban's affinity for influx transporter proteins is unknown.

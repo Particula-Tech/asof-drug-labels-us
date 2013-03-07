@@ -4,7 +4,7 @@
 
 Discontinuing XARELTO in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from XARELTO to warfarin in clinical trials in atrial fibrillation patients.
-If XARELTO must be discontinued for a reason other than pathological bleeding, consider administering another anticoagulant [see Dosage and Administration (2.3) and Clinical Studies (14.1)].
+If XARELTO must be discontinued for a reason other than pathological bleeding, consider administering another anticoagulant [see Dosage and Administration (2.2) and Clinical Studies (14.1)].
 
 ## 5.2 Risk of Bleeding
 
