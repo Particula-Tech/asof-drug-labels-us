@@ -5,9 +5,9 @@ The volume and concentration of E‑Z‑HD™ to be administered will depend on 
 Mixing Instructions for Cat.
 No. 764:
 
-Fill the measuring cup (Cat.
-No. 763) to the top with water (approximately 65 mL).
-Add water to the E‑Z‑HD bottle and replace the lid securely.
+Accurately measure 65 mL of water (measuring cup Cat.
+No. 763 may be used.)
+Add water to the E-Z-HD bottle and replace the lid securely.
 Invert the bottle and tap with fingers to mix contrast with water.
 Shake vigorously for 30 seconds.
 Wait 5 minutes, then reshake thoroughly.
@@ -22,10 +22,7 @@ Typical adult dose:
 
 Yield:
 
-135 mL suspension 85% w/w, 250% w/v.
-
-Use immediately upon reconstitution.
-Discard any unused suspension.
+After reconstitution with 65 mL of water, yields 135 mL of suspension, 85% w/w, 250% w/v.
 
 MRI Technical Note:
 
