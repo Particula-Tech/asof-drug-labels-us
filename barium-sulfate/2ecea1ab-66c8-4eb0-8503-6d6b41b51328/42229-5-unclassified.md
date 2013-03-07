@@ -17,4 +17,4 @@ Such reactions are usually non-allergic in nature and are best treated by having
 Manufactured by E-Z-EM Canada Inc. a subsidiary of E-Z-EM, Inc. Lake Success, NY 11042 Tel: 1-516-333-8230 1-800 544-4624
 
 rev.
-01/11 TX1624
+10/12 TX1624-1
