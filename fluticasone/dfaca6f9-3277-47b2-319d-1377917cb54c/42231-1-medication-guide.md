@@ -214,17 +214,20 @@ The parts of your ADVAIR HFA
 
 There are 2 main parts to your ADVAIR HFA inhaler—the metal canister that holds the medicine and the purple plastic actuator that sprays the medicine from the canister (see Figure 1).
 
-- The canister has a counter to show how many sprays of medicine you have left.
-  The number shows through a window in the back of the actuator.
-  The counter starts at 124, or at 064 if you have a sample or institutional canister.
-  The number will count down by 1 each time you spray the inhaler.
-  The counter will stop counting at 000.
-- Never try to change the numbers or take the counter off the metal canister.
-  The counter cannot be reset, and it is permanently attached to the canister.
-- The mouthpiece of the actuator is covered by a cap.
-  The strap on the cap keeps it attached to the actuator.
-- Do not use the actuator with a canister of medicine from any other inhaler.
-  Do not use an ADVAIR HFA canister with an actuator from any other inhaler.
+The canister has a counter to show how many sprays of medicine you have left.
+The number shows through a window in the back of the actuator.
+The counter starts at 124, or at 064 if you have a sample or institutional canister.
+The number will count down by 1 each time you spray the inhaler.
+The counter will stop counting at 000.
+
+Never try to change the numbers or take the counter off the metal canister.
+The counter cannot be reset, and it is permanently attached to the canister.
+
+The mouthpiece of the actuator is covered by a cap.
+The strap on the cap keeps it attached to the actuator.
+
+Do not use the actuator with a canister of medicine from any other inhaler.
+Do not use an ADVAIR HFA canister with an actuator from any other inhaler.
 
 Using your ADVAIR HFA
 
@@ -254,36 +257,52 @@ If you have any questions, ask your doctor or pharmacist.
 3. Make sure the canister fits firmly in the actuator.
 4. Shake the inhaler well for 5 seconds.
 
-1. 2.Hold the inhaler with the mouthpiece down (see Figure 2).
-2. Breathe out through your mouth and push as much air from your lungs as you can.
-   Put the mouthpiece in your mouth and close your lips around it.
-   1. 1.Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
-3. Right after the spray comes out, take your finger off the canister.
-   After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+2.
+Hold the inhaler with the mouthpiece down (see Figure 2).
 
-1. 3.Hold your breath as long as you can, up to 10 seconds, then breathe normally.
-2. 4.Wait about 30 seconds and shake the inhaler well for 5 seconds.
-   Repeat steps 2 through 4.
-3. 5.After you finish taking this medicine, rinse your mouth with water.
-   Spit out the water.
-   Do not swallow it.
-4. 6.Put the cap back on the mouthpiece after every time you use the inhaler.
-   Make sure it snaps firmly into place.
+- Breathe out through your mouth and push as much air from your lungs as you can.
+  Put the mouthpiece in your mouth and close your lips around it.
+
+3.
+Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
+
+- Right after the spray comes out, take your finger off the canister.
+  After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+
+4.Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+
+5.Wait about 30 seconds and shake the inhaler well for 5 seconds.
+Repeat steps 2 through 4.
+
+6.
+After you finish taking this medicine, rinse your mouth with water.
+Spit out the water.
+Do not swallow it.
+
+7.
+Put the cap back on the mouthpiece after every time you use the inhaler.
+Make sure it snaps firmly into place.
 
 Cleaning your ADVAIR HFA
 
 Clean your inhaler at least 1 time each week after your evening dose.
 It is important to keep the canister and plastic actuator clean so the medicine will not build-up and block the spray.
 
-1. 1.Take the cap off the mouthpiece.
-   The strap on the cap will stay attached to the actuator.
-   Do not take the canister out of the plastic actuator.
-2. 2.Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
-   Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
+1.
+Take the cap off the mouthpiece.
+The strap on the cap will stay attached to the actuator.
+Do not take the canister out of the plastic actuator.
 
-1. 3.Wipe the inside of the mouthpiece with a clean tissue dampened with water.
-   Let the actuator air-dry overnight.
-2. 4.Put the cap back on the mouthpiece after the actuator has dried.
+2.
+Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
+Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
+
+3.
+Wipe the inside of the mouthpiece with a clean tissue dampened with water.
+Let the actuator air-dry overnight.
+
+4.
+Put the cap back on the mouthpiece after the actuator has dried.
 
 Replacing your ADVAIR HFA
 

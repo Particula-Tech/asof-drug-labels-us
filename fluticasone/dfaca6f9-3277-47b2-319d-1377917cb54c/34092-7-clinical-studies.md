@@ -57,7 +57,7 @@ Secondary Efficacy Variable Results for Patients Previously Treated With Beta2-A
 
 a Change from baseline = change from baseline at Endpoint (last available data).
 
-The subjective impact of asthma on patients’ perceptions of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7‑point scale where 1 = maximum impairment and 7 = none).
+The subjective impact of asthma on patients’ perceptions of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7‑ point scale where 1 = maximum impairment and 7 = none).
 Patients receiving ADVAIR HFA 45/21 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.14 [95% CI: 0.85, 1.44] compared with placebo).
 
 Study 2: Clinical Trial With ADVAIR HFA 45/21 Inhalation Aerosol: This active-controlled 12-week US study compared ADVAIR HFA 45/21 with fluticasone propionate CFC inhalation aerosol 44 mcg and salmeterol CFC inhalation aerosol 21 mcg, each given as 2 inhalations twice daily, in 283 patients using as-needed albuterol alone.
@@ -84,7 +84,7 @@ As shown in Figure 3, morning PEF improved significantly with ADVAIR HFA 230/21 
 Improvements in morning PEF observed with ADVAIR HFA 230/21 were similar to improvements observed with ADVAIR DISKUS 500/50.
 
 Figure 3.
-Mean Percent Change From Baseline in MorningPeak Expiratory Flow in Patients Previously Treated With Inhaled Corticosteroids (Study 4)
+Mean Percent Change From Baseline in Morning Peak Expiratory Flow in Patients Previously Treated With Inhaled Corticosteroids (Study 4)
 
 ## 14.2 One-Year Safety Study
 

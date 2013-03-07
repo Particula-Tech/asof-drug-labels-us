@@ -60,11 +60,11 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2012, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-December 2012
+March 2013
 
-ADH:7PI
+ADH:8PI
 
 - PHARMACIST—DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT

@@ -27,7 +27,7 @@ In humans, single doses of salmeterol administered via inhalation aerosol attenu
 
 ## 12.2 Pharmacodynamics
 
-ADVAIR HFA:Healthy Subjects: Cardiovascular Effects: Since systemic pharmacodynamic effects of salmeterol are not normally seen at the therapeutic dose, higher doses were used to produce measurable effects.
+ADVAIR HFA: Healthy Subjects: Cardiovascular Effects: Since systemic pharmacodynamic effects of salmeterol are not normally seen at the therapeutic dose, higher doses were used to produce measurable effects.
 Four (4) placebo-controlled crossover studies were conducted in healthy subjects: (1) a cumulative-dose study using 42 to 336 mcg of salmeterol CFC inhalation aerosol given alone or as ADVAIR HFA 115/21, (2) a single-dose study using 4 inhalations of ADVAIR HFA 230/21, salmeterol CFC inhalation aerosol 21 mcg, or fluticasone propionate CFC inhalation aerosol 220 mcg, (3) a single-dose study using 8 inhalations of ADVAIR HFA 45/21, ADVAIR HFA 115/21, or ADVAIR HFA 230/21, and (4) a single-dose study using 4 inhalations of ADVAIR HFA 230/21; 2 inhalations of ADVAIR DISKUS 500/50; 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg; or 1,010 mcg of fluticasone propionate given intravenously.
 In these studies pulse rate, blood pressure, QTc interval, glucose, and/or potassium were measured.
 Comparable or lower effects were observed for ADVAIR HFA compared with ADVAIR DISKUS or salmeterol alone.
@@ -60,14 +60,14 @@ The geometric mean ratio of 24-hour urinary cortisol excretion at week 12 compar
 The effect of 21 days of treatment with ADVAIR HFA 45/21 (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100/50 (1 inhalation twice daily) on serum cortisol was evaluated in 31 children aged 4 to 11 years with mild asthma.
 There were reductions in serum cortisol from baseline in all treatment groups (14%, 22%, and 13% for ADVAIR HFA, ADVAIR HFA with spacer, and ADVAIR DISKUS, respectively).
 
-Other Fluticasone Propionate Products:Patients With Asthma: Hypothalamic-Pituitary-Adrenal Axis Effects: In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol <18 mcg/dL assessed by radioimmunoassay) were noted both in patients receiving fluticasone propionate and in patients receiving placebo.
+Other Fluticasone Propionate Products: Patients With Asthma: Hypothalamic-Pituitary-Adrenal Axis Effects: In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol <18 mcg/dL assessed by radioimmunoassay) were noted both in patients receiving fluticasone propionate and in patients receiving placebo.
 The incidence of abnormal tests at 500 mcg twice daily was greater than placebo.
 In a 2-year study carried out with the DISKHALER® inhalation device in 64 patients with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no patient receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol <18 mcg/dL).
 With a peak cortisol threshold of <35 mcg/dL, 1 patient receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.
 Another patient receiving fluticasone propionate (5%) had an abnormal response at 2 years.
 No patient on placebo had an abnormal response at 1 or 2 years.
 
-Other Salmeterol Xinafoate Products:Patients With Asthma: Cardiovascular Effects: Inhaled salmeterol, like other beta-adrenergic agonist drugs, can produce dose-related cardiovascular effects and effects on blood glucose and/or serum potassium [see Warnings and Precautions (5.12, 5.18)].
+Other Salmeterol Xinafoate Products: Patients With Asthma: Cardiovascular Effects: Inhaled salmeterol, like other beta-adrenergic agonist drugs, can produce dose-related cardiovascular effects and effects on blood glucose and/or serum potassium [see Warnings and Precautions (5.12, 5.18)].
 The cardiovascular effects (heart rate, blood pressure) associated with salmeterol occur with similar frequency, and are of similar type and severity, as those noted following albuterol administration.
 
 The effects of rising inhaled doses of salmeterol and standard inhaled doses of albuterol were studied in volunteers and in patients with asthma.
@@ -85,7 +85,7 @@ Fluticasone Propionate Nasal Spray: In patients receiving ADVAIR HFA in three 12
 
 ## 12.3 Pharmacokinetics
 
-Absorption:Fluticasone Propionate: Healthy Subjects: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
+Absorption: Fluticasone Propionate: Healthy Subjects: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
 Studies using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung is systemically absorbed.
 
@@ -123,7 +123,7 @@ Systemic exposure to salmeterol was similar for ADVAIR HFA (53 pg•hr/mL [95% C
 The effect of 21 days of treatment with ADVAIR HFA 45/21 (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100/50 (1 inhalation twice daily) was evaluated in 31 children aged 4 to 11 years with mild asthma.
 Systemic exposure to salmeterol was similar for ADVAIR HFA, ADVAIR HFA with spacer, and ADVAIR DISKUS (126 pg•hr/mL [95% CI: 70, 225], 103 pg•hr/mL [95% CI: 54, 200], and 110 pg•hr/mL [95% CI: 55, 219], respectively).
 
-Distribution:Fluticasone Propionate: Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
+Distribution: Fluticasone Propionate: Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
 The volume of distribution averaged 4.2 L/kg.
 
 The percentage of fluticasone propionate bound to human plasma proteins averages 99%.
@@ -131,7 +131,7 @@ Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not
 
 Salmeterol: The percentage of salmeterol bound to human plasma proteins averages 96% in vitro over the concentration range of 8 to 7,722 ng of salmeterol base per milliliter, much higher concentrations than those achieved following therapeutic doses of salmeterol.
 
-Metabolism:Fluticasone Propionate: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
+Metabolism: Fluticasone Propionate: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
 The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
@@ -142,7 +142,7 @@ No significant amount of unchanged salmeterol base was detected in either urine 
 An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by CYP3A4.
 Ketoconazole, a strong inhibitor of CYP3A4, essentially completely inhibited the formation of α-hydroxysalmeterol in vitro.
 
-Elimination:Fluticasone Propionate: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
+Elimination: Fluticasone Propionate: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 Terminal half-life estimates of fluticasone propionate for ADVAIR HFA, ADVAIR DISKUS, and fluticasone propionate CFC inhalation aerosol were similar and averaged 5.6 hours.
 
