@@ -14,7 +14,7 @@ Based on clinical trials with RETISERT, during the 3-year post-implantation peri
 
 MANUFACTURER INFORMATION
 
-Revised May 2011
+Revised May 2012
 
 Marketed by: Bausch & Lomb Incorporated Rochester, NY 14609
 
@@ -24,4 +24,4 @@ U.S. Patent # 6,217,895 U.S. Patent # 6,548,078
 
 ™/® denote trademarks of Bausch & Lomb Incorporated. © Bausch & Lomb Incorporated
 
-9028005
+9028007
