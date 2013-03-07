@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ZIANA® (clindamycin phosphate 1.2% and tretinoin 0.025%) Gel, is an antibiotic and retinoid combination gel product with two active ingredients.
+ZIANA (clindamycin phosphate 1.2% and tretinoin 0.025%) Gel, is an antibiotic and retinoid combination gel product with two active ingredients.
 Clindamycin phosphate is a water-soluble ester of the semi-synthetic antibiotic produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent antibiotic lincomycin.
 
 The chemical name for clindamycin phosphate is Methyl 7-chloro-6,7,8-trideoxy-6-(1-methyl-trans-4-propyl-L-2-pyrrolidinecarboxamido)-1-thio-L-threo-α-D-galacto-octopyranoside 2-(dihydrogen phosphate).
@@ -13,4 +13,4 @@ The structural formula for tretinoin is represented below:
 
 Tretinoin:
 
-ZIANA® Gel contains the following inactive ingredients: purified water USP, glycerin USP, carbomer 981 NF, methylparaben NF, polysorbate 80 NF, edetate disodium USP, citric acid USP, propylparaben NF, butylated hydroxytoluene NF, and tromethamine USP.
+ZIANA Gel contains the following inactive ingredients: purified water USP, glycerin USP, carbomer 981 NF, methylparaben NF, polysorbate 80 NF, edetate disodium USP, citric acid USP, propylparaben NF, butylated hydroxytoluene NF, and tromethamine USP.

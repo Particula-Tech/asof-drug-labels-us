@@ -1,7 +1,9 @@
 Manufactured for: Medicis, The Dermatology Company Scottsdale, AZ 85256
 
-By: Contract Pharmaceuticals Limited Niagara Buffalo, NY 14213
+By: Contract Pharmaceuticals Limited Mississauga, Ontario, Canada L5N 6L6
 
-U.S. Patent 5,721,275 U.S. Patent 6,387,383
+Made in Canada
 
-09-0052 (Folded) 09-0054 (Flat)
+U.S. Patent 6,387,383 and RE 41,134
+
+05100256

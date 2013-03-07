@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZIANA® (clindamycin phosphate 1.2% and tretinoin 0.025%) Gel is supplied as follows:
+ZIANA (clindamycin phosphate 1.2% and tretinoin 0.025%) Gel is supplied as follows:
 
-2 gram tube NDC 99207-300-02 30 gram tube NDC 99207-300-30 60 gram tube NDC 99207-300-60
+30 gram tube NDC 99207-300-30 60 gram tube NDC 99207-300-60
 
 Storage and Handling
 
