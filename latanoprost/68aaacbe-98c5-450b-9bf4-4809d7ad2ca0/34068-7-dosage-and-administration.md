@@ -8,5 +8,5 @@ It has been shown that administration of these prostaglandin drug products more 
 
 Reduction of the intraocular pressure starts approximately 3 to 4 hours after administration and the maximum effect is reached after 8 to 12 hours.
 
-latanoprost ophthalmic solution may be used concomitantly with other topical ophthalmic drug products to lower intraocular pressure.
+Latanoprost Ophthalmic Solution may be used concomitantly with other topical ophthalmic drug products to lower intraocular pressure.
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.

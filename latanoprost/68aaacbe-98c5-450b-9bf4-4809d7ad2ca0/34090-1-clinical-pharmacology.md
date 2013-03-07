@@ -9,16 +9,24 @@ The higher the level of IOP, the greater the likelihood of optic nerve damage an
 
 ## Pharmacokinetics/Pharmacodynamics
 
-Absorption: Latanoprost is absorbed through the cornea where the isopropyl ester prodrug is hydrolyzed to the acid form to become biologically active.
+Absorption
+
+Latanoprost is absorbed through the cornea where the isopropyl ester prodrug is hydrolyzed to the acid form to become biologically active.
 Studies in man indicate that the peak concentration in the aqueous humor is reached about two hours after topical administration.
 
-Distribution: The distribution volume in humans is 0.16 ± 0.02 L/kg.
+Distribution
+
+The distribution volume in humans is 0.16 ± 0.02 L/kg.
 The acid of latanoprost can be measured in aqueous humor during the first 4 hours, and in plasma only during the first hour after local administration.
 
-Metabolism: Latanoprost, an isopropyl ester prodrug, is hydrolyzed by esterases in the cornea to the biologically active acid.
+Metabolism
+
+Latanoprost, an isopropyl ester prodrug, is hydrolyzed by esterases in the cornea to the biologically active acid.
 The active acid of latanoprost reaching the systemic circulation is primarily metabolized by the liver to the 1,2-dinor and 1,2,3,4-tetranor metabolites via fatty acid β-oxidation.
 
-Excretion: The elimination of the acid of latanoprost from human plasma is rapid (t1/2=17 min) after both intravenous and topical administration.
+Excretion
+
+The elimination of the acid of latanoprost from human plasma is rapid (t1/2=17 min) after both intravenous and topical administration.
 Systemic clearance is approximately 7 mL/min/kg.
 Following hepatic β-oxidation, the metabolites are mainly eliminated via the kidneys.
 Approximately 88% and 98% of the administered dose is recovered in the urine after topical and intravenous dosing, respectively.

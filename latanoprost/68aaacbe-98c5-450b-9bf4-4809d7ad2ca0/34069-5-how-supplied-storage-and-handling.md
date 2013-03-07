@@ -20,4 +20,4 @@ Bausch & Lomb Incorporated Tampa, Florida 33637
 
 ©Bausch & Lomb Incorporated
 
-Revised November 2010
+Revised: November 2012

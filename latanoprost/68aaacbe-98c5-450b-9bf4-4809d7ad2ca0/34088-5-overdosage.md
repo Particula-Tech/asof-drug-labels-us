@@ -1,4 +1,4 @@
-# Overdosage
+# OVERDOSAGE
 
 Apart from ocular irritation and conjunctival or episcleral hyperemia, the ocular effects of latanoprost administered at high doses are not known.
 Intravenous administration of large doses of latanoprost in monkeys has been associated with transient bronchoconstriction; however, in 11 patients with bronchial asthma treated with latanoprost, bronchoconstriction was not induced.

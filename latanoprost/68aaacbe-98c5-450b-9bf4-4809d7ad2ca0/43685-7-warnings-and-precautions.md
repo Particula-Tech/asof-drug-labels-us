@@ -76,7 +76,7 @@ Latanoprost has not been found to have any effect on male or female fertility in
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 ### Pregnancy Category C.
 
