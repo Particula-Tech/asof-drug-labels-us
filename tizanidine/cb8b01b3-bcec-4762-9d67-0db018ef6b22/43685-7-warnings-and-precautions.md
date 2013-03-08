@@ -76,7 +76,7 @@ Ciprofloxacin and tizanidine should not be used together (see CONTRAINDICATIONS 
 
 ## POSSIBLE INTERACTION WITH OTHER CYP1A2 INHIBITORS
 
-Because of potential drug interactions, concomitant use of tizanidine with other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone, mexiletine, propafenone, and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir and ticlopidine (see CLINICAL PHARMACOLOGY: Drug Interactions) should ordinarily be avoided.
+Because of potential drug interactions, concomitant use of tizanidine with other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrhythmics (amiodarone, mexiletine, propafenone, and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir and ticlopidine (see CLINICAL PHARMACOLOGY: Drug Interactions) should ordinarily be avoided.
 If their use is clinically necessary, they should be used with caution.
 
 # PRECAUTIONS
@@ -147,7 +147,7 @@ These changes resulted in significantly decreased blood pressure, increased drow
 ### CYP1A2 inhibitors
 
 The interaction between tizanidine and either fluvoxamine or ciprofloxacin is most likely due to inhibition of CYP1A2 by fluvoxamine or ciprofloxacin.
-Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, including zileuton, other fluroquinolones, antiarrythmics (amiodarone, mexiletine, propafenone, and verapamil), cimetidine and famotidine, oral contraceptives, acyclovir, and ticlopidine may also lead to substantial increases in tizanidine blood concentrations.
+Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, including zileuton, other fluroquinolones, antiarrhythmics (amiodarone, mexiletine, propafenone, and verapamil), cimetidine and famotidine, oral contraceptives, acyclovir, and ticlopidine may also lead to substantial increases in tizanidine blood concentrations.
 Concomitant use of tizanidine with CYP1A2 inhibitors should ordinarily be avoided.
 If their use is clinically necessary, they should be used with caution (see WARNINGS).
 

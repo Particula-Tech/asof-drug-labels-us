@@ -14,7 +14,7 @@ Watson Rx only 150 Capsules
 
 # PRINCIPAL DISPLAY PANEL - 6 mg Capsule Bottle Label
 
-NDC 0591-2790-86 Tizanidine Hydrochloride Capsules 2 mg
+NDC 0591-2790-86 Tizanidine Hydrochloride Capsules 6 mg
 
 STOP Not interchangeable with tizanidine tablets or Zanaflex® tablets.
 Watson Rx only 150 Capsules

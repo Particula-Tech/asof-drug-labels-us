@@ -6,6 +6,7 @@ Tizanidine is an agonist at α2-adrenergic receptor sites and presumably reduces
 In animal models, tizanidine has no direct effect on skeletal muscle fibers or the neuromuscular junction, and no major effect on monosynaptic spinal reflexes.
 The effects of tizanidine are greatest on polysynaptic pathways.
 The overall effect of these actions is thought to reduce facilitation of spinal motor neurons.
+
 The imidazoline chemical structure of tizanidine is related to that of the anti-hypertensive drug clonidine and other α2-adrenergic agonists.
 Pharmacological studies in animals show similarities between the two compounds, but tizanidine was found to have one-tenth to one-fiftieth (1/50) of the potency of clonidine in lowering blood pressure.
 
@@ -96,7 +97,7 @@ These changes resulted in significant decreases in blood pressure, increased dro
 ### CYP1A2 Inhibitors
 
 The interaction between tizanidine and either fluvoxamine or ciprofloxacin is most likely due to inhibition of CYP1A2 by fluvoxamine or ciprofloxacin.
-Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone, mexiletine, propafenone and verapamil), cimetidine, famotidine oral contraceptives, acyclovir and ticlopidine, may also lead to substantial increases in tizanidine blood concentrations (see WARNINGS).
+Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrhythmics (amiodarone, mexiletine, propafenone and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir and ticlopidine, may also lead to substantial increases in tizanidine blood concentrations (see WARNINGS).
 
 ### Oral Contraceptives
 
