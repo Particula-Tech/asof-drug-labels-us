@@ -253,8 +253,6 @@ Active ingredient: paroxetine hydrochloride
 Inactive ingredients in tablets: hypromellose, polyvinylpyrrolidone, lactose monohydrate, magnesium stearate, silicon dioxide, glyceryl behenate, methacrylic acid copolymer type C, sodium lauryl sulfate, polysorbate 80, talc, triethyl citrate, titanium dioxide, polyethylene glycols, and 1 or more of the following colorants: Yellow ferric oxide, red ferric oxide, D&C Red No. 30 aluminum lake, FD&C Yellow No. 6 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake.
 
 PAXIL and PAXIL CR are registered trademarks of GlaxoSmithKline.
-The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
-The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -270,4 +268,4 @@ Apotex Corp.
 
 Weston, FL 33326
 
-July 2011 PCR-AP:3MG
+January 2013 PCR-AP:4MG

@@ -92,7 +92,7 @@ Dosage should not exceed 50 mg/day.
 ## Switching a Patient to or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PAXIL CR.
-Conversely, at least 14 days should be allowed after stoppingPAXIL CRbefore starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+Conversely, at least 14 days should be allowed after stopping PAXIL CR before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
 ## Use of PAXIL CR With Other MAOIs, Such as Linezolid or Methylene Blue
 

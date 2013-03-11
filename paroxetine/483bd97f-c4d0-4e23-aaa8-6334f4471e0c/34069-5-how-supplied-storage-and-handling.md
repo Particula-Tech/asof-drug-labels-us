@@ -18,8 +18,6 @@ Store at or below 25°C (77°F) [see USP].
 
 PAXIL CR is a registered trademark of GlaxoSmithKline.
 
-GEOMATRIX is a trademark of Jago Pharma, Muttenz, Switzerland.
-
 Manufactured by
 
 GlaxoSmithKline
@@ -32,4 +30,4 @@ Apotex Corp.
 
 Weston, FL 33326
 
-December 2012 PCR-AP:5PI
+January 2013 PCR-AP:6PI

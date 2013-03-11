@@ -20,7 +20,7 @@ Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who ar
 
 ### Absorption and Distribution
 
-Tablets of PAXIL CR contain a degradable polymeric matrix (GEOMATRIX™) designed to control the dissolution rate of paroxetine over a period of approximately 4 to 5 hours.
+Tablets of PAXIL CR contain a degradable polymeric matrix designed to control the dissolution rate of paroxetine over a period of approximately 4 to 5 hours.
 In addition to controlling the rate of drug release in vivo, an enteric coat delays the start of drug release until tablets of PAXIL CR have left the stomach.
 
 Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
