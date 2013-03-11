@@ -90,27 +90,26 @@ Zidovudine had no effect on atovaquone pharmacokinetics.
 
 ## Relationship Between Plasma Atovaquone Concentration and Clinical Outcome
 
-In a comparative study of atovaquone tablets with TMP-SMX for oral treatment of mild-to-moderate Pneumocystiscarinii pneumonia (PCP) (see INDICATIONS AND USAGE), where AIDS patients received 750 mg atovaquone tablets 3 times daily for 21 days, the mean steady-state atovaquone concentration was 13.9 ± 6.9 mcg/mL (n = 133).
+In a comparative study of atovaquone tablets with TMP-SMX for oral treatment of mild-to-moderate PCP (see INDICATIONS AND USAGE), where AIDS patients received 750 mg atovaquone tablets 3 times daily for 21 days, the mean steady-state atovaquone concentration was 13.9 ± 6.9 mcg/mL (n = 133).
 Analysis of these data established a relationship between plasma atovaquone concentration and successful treatment.
 This is shown in Table 2.
 
 Table 2.
 Relationship Between Plasma Atovaquone Concentration and Successful Treatment
 
-| Steady-State PlasmaAtovaquone Concentrations | Successful Treatment*(No. Successes/No. in Group) (%) |  |  |  |
+| Steady-State PlasmaAtovaquone Concentrations | Successful TreatmentaNo. Successes/No. in Group (%) |  |  |  |
 | --- | --- | --- | --- | --- |
-| (mcg/mL) | Observed |  | Predicted† |  |
-| 0 to <5 | 0/6 | (0%) | 1.5/6 | (25%) |
-| 5 to <10 | 18/26 | (69%) | 14.7/26 | (57%) |
-| 10 to <15 | 30/38 | (79%) | 31.9/38 | (84%) |
-| 15 to <20 | 18/19 | (95%) | 18.1/19 | (95%) |
-| 20 to <25 | 18/18 | (100%) | 17.8/18 | (99%) |
-| 25+ | 6/6 | (100%) | 6/6 | (100%) |
+| (mcg/mL) | Observed |  | Predictedb |  |
+| 0 to <5 | 0/6 | (0) | 1.5/6 | (25) |
+| 5 to <10 | 18/26 | (69) | 14.7/26 | (57) |
+| 10 to <15 | 30/38 | (79) | 31.9/38 | (84) |
+| 15 to <20 | 18/19 | (95) | 18.1/19 | (95) |
+| 20 to <25 | 18/18 | (100) | 17.8/18 | (99) |
+| 25+ | 6/6 | (100) | 6/6 | (100) |
 
-* Successful treatment was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
-This was based on data from patients for which both outcome and steady-state plasma atovaquone concentration data are available.
-
-† Based on logistic regression analysis.
+- a Successful treatment was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
+  This was based on data from patients for which both outcome and steady-state plasma atovaquone concentration data are available.
+- b Based on logistic regression analysis.
 
 A dosing regimen of MEPRON Suspension for the treatment of mild-to-moderate PCP has been selected to achieve average plasma atovaquone concentrations of approximately 20 mcg/mL, because this plasma concentration was previously shown to be well tolerated and associated with the highest treatment success rates (Table 2).
 In an open-label PCP treatment study with MEPRON Suspension, dosing regimens of 1,000 mg once daily, 750 mg twice daily, 1,500 mg once daily, and 1,000 mg twice daily were explored.

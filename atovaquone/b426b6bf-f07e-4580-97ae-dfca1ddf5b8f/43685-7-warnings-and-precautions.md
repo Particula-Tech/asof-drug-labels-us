@@ -1,6 +1,6 @@
 # WARNINGS
 
-Clinical experience with MEPRON for the treatment of PCP has been limited to patients with mild-to-moderate PCP [(A-a)DO2≤45 mm Hg].
+Clinical experience with MEPRON for the treatment of PCP has been limited to patients with mild-to-moderate PCP ([(A-a)DO2]1 ≤45 mm Hg).
 Treatment of more severe episodes of PCP has not been systematically studied with this agent.
 Also, the efficacy of MEPRON in patients who are failing therapy with TMP-SMX has not been systematically studied.
 
@@ -14,7 +14,7 @@ Therefore, parenteral therapy with other agents should be considered for patient
 Gastrointestinal disorders may limit absorption of orally administered drugs.
 Patients with these disorders also may not achieve plasma concentrations of atovaquone associated with response to therapy in controlled trials.
 
-Based upon the spectrum of in vitro antimicrobial activity, atovaquone is not effective therapy for concurrent pulmonary conditions such as bacterial, viral, or fungal pneumonia or mycobacterial diseases.
+Based upon the spectrum of in vitro antimicrobial activity, atovaquone is not effective therapy for concurrent pulmonary conditions such as bacterial, viral, or other fungal pneumonia or mycobacterial diseases.
 Clinical deterioration in patients may be due to infections with other pathogens, as well as progressive PCP.
 All patients with acute PCP should be carefully evaluated for other possible causes of pulmonary disease and treated with additional agents as appropriate.
 
@@ -49,7 +49,7 @@ It is not known if MEPRON interferes with clinical laboratory test or assay resu
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies in rats were negative; 24-month studies in mice showed treatment-related increases in incidence of hepatocellular adenoma and hepatocellular carcinoma at all doses tested which ranged from 1.4 to 3.6 times the average steady-state plasma concentrations in humans during acute treatment of Pneumocystiscarinii pneumonia.
+Carcinogenicity studies in rats were negative; 24-month studies in mice showed treatment-related increases in incidence of hepatocellular adenoma and hepatocellular carcinoma at all doses tested which ranged from 1.4 to 3.6 times the average steady-state plasma concentrations in humans during acute treatment of PCP.
 Atovaquone was negative with or without metabolic activation in the Ames Salmonella mutagenicity assay, the Mouse Lymphoma mutagenesis assay, and the Cultured Human Lymphocyte cytogenetic assay.
 No evidence of genotoxicity was observed in the in vivo Mouse Micronucleus assay.
 

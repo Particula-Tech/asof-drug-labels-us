@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-MEPRON Suspension is indicated for the prevention of Pneumocystiscarinii pneumonia in patients who are intolerant to trimethoprim-sulfamethoxazole (TMP-SMX).
+MEPRON Suspension is indicated for the prevention of Pneumocystis jiroveci pneumonia in patients who are intolerant to trimethoprim-sulfamethoxazole (TMP-SMX).
 
 MEPRON Suspension is also indicated for the acute oral treatment of mild-to-moderate PCP in patients who are intolerant to TMP-SMX.
 
@@ -13,7 +13,7 @@ The indication for prevention of PCP is based on the results of 2 clinical trial
 This randomized, open-label trial enrolled a total of 1,057 patients at 48 study centers.
 Patients were randomized to receive 1,500 mg MEPRON Suspension once daily (n = 536) or 100 mg dapsone once daily (n = 521).
 Median follow-up was 24 months.
-Patients randomized to the dapsone arm who were seropositive for Toxoplasmagondii and had a CD4 count <100 cells/mm3 also received pyrimethamine and folinic acid.
+Patients randomized to the dapsone arm who were seropositive for Toxoplasma gondii and had a CD4 count <100 cells/mm3 also received pyrimethamine and folinic acid.
 PCP event rates are shown in Table 3.
 There was no significant difference in mortality rates between the groups.
 
@@ -26,23 +26,20 @@ The results of the PCP event rates appear in Table 3.
 There were no significant differences in mortality rates among the groups.
 
 Table 3.
-Confirmed or Presumed/Probable PCP Events(As-Treated Analysis)*
+Confirmed or Presumed/Probable PCP Events(As-Treated Analysis)a
 
 | Assessment | Study 115-211 |  | Study 115-213 |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Atovaquone1,500 mg/day(n = 527) | Dapsone100 mg/day(n = 510) | Atovaquone750 mg/day(n = 188) | Atovaquone1,500 mg/day(n = 172) | AerosolizedPentamidine300 mg/month(n = 169) |  |
-| % | 15% | 19% | 23% | 18% | 17% |
-| Relative Risk†(CI)‡ | 0.77(0.57, 1.04) |  | 1.47(0.86, 2.50) | 1.14(0.63, 2.06) |  |
+| % | 15 | 19 | 23 | 18 | 17 |
+| Relative Riskb(CI)c | 0.77(0.57, 1.04) |  | 1.47(0.86, 2.50) | 1.14(0.63, 2.06) |  |
 
-* Those events occurring during or within 30 days of stopping assigned treatment.
-
-† Relative risk <1 favors atovaquone and values >1 favor comparator.
-These trials were designed to show superiority of atovaquone to the comparator.
-This was not shown.
-
-‡ The confidence level of the interval for the dapsone comparative study was 95% and for the pentamidine comparative study was 97.5%.
-
-An analysis of all PCP events (intent-to-treat analysis) showed results similar to those above.
+- aThose events occurring during or within 30 days of stopping assigned treatment.
+- bRelative risk <1 favors atovaquone and values >1 favor comparator.
+  These trials were designed to show superiority of atovaquone to the comparator.
+  This was not shown.
+- cThe confidence level of the interval for the dapsone comparative study was 95% and for the pentamidine comparative study was 97.5%.
+- An analysis of all PCP events (intent-to-treat analysis) showed results similar to those above.
 
 ## Treatment of PCP
 
@@ -79,15 +76,15 @@ Outcome of Treatment for PCP-Positive Patients Enrolled in the TMP-SMX Comparati
 
 |  | Number of Patients(% of Total) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Outcome of Therapy* | MEPRON(n = 160) |  | TMP-SMX(n = 162) |  | PValue |
-| Therapy success | 99 | (62%) | 103 | (64%) | 0.75 |
+| Outcome of Therapya | MEPRON(n = 160) |  | TMP-SMX(n = 162) |  | PValue |
+| Therapy success | 99 | (62) | 103 | (64) | 0.75 |
 | Therapy failure |  |  |  |  |  |
-| -Lack of response | 28 | (17%) | 10 | (6%) | <0.01 |
-| -Adverse experience | 11 | (7%) | 33 | (20%) | <0.01 |
-| -Unevaluable | 22 | (14%) | 16 | (10%) | 0.28 |
-| Required alternate PCP therapy during study | 55 | (34%) | 55 | (34%) | 0.95 |
+| -Lack of response | 28 | (17) | 10 | (6) | <0.01 |
+| -Adverse experience | 11 | (7) | 33 | (20) | <0.01 |
+| -Unevaluable | 22 | (14) | 16 | (10) | 0.28 |
+| Required alternate PCP therapy during study | 55 | (34) | 55 | (34) | 0.95 |
 
-* As defined by the protocol and described in study description above.
+- a As defined by the protocol and described in study description above.
 
 The failure rate due to lack of response was significantly larger for patients receiving MEPRON while the failure rate due to adverse experiences was significantly larger for patients receiving TMP-SMX.
 

@@ -18,14 +18,14 @@ Treatment-Limiting Adverse Experiences in the Dapsone Comparative PCP Prevention
 | --- | --- | --- | --- | --- |
 | All Patients |  | Patients Not Taking Either Drug at Enrollment |  |  |
 | MEPRON 1,500 mg/day(n = 536) | Dapsone100 mg/day(n = 521) | MEPRON1,500 mg/day(n = 238) | Dapsone 100 mg/day(n = 249) |  |
-| Any event | 24.4% | 25.9% | 20.2% | 43.4% |
-| Rash | 6.3% | 8.8% | 7.6% | 16.1% |
-| Nausea | 4.1% | 0.6% | 2.5% | 0.8% |
-| Diarrhea | 3.2% | 0.2% | 2.1% | 0.4% |
-| Vomiting | 2.2% | 0.6% | 1.3% | 0.8% |
-| Allergic reaction | 1.1% | 2.9% | 0.8% | 4.8% |
-| Fever | 0.6% | 2.9% | 0% | 5.6% |
-| Anemia | 0% | 1.5% | 0% | 2.0% |
+| Any event | 24.4 | 25.9 | 20.2 | 43.4 |
+| Rash | 6.3 | 8.8 | 7.6 | 16.1 |
+| Nausea | 4.1 | 0.6 | 2.5 | 0.8 |
+| Diarrhea | 3.2 | 0.2 | 2.1 | 0.4 |
+| Vomiting | 2.2 | 0.6 | 1.3 | 0.8 |
+| Allergic reaction | 1.1 | 2.9 | 0.8 | 4.8 |
+| Fever | 0.6 | 2.9 | 0 | 5.6 |
+| Anemia | 0 | 1.5 | 0 | 2.0 |
 
 Table 7 summarizes the clinical adverse experiences reported by ≥20% of patients in any group in the aerosolized pentamidine comparative study of MEPRON Suspension (n = 549), regardless of attribution.
 The incidence of adverse experiences at the recommended dose was similar to that seen with aerosolized pentamidine.
@@ -41,20 +41,20 @@ Treatment-Emergent Adverse Experiences in the Aerosolized Pentamidine Comparativ
 | Treatment-EmergentAdverse Experience | Percentage of Patients with Treatment-Emergent Adverse Experience |  |  |
 | --- | --- | --- | --- |
 | MEPRON 1,500 mg/day(n = 175) | MEPRON 750 mg/day (n = 188) | Aerosolized Pentamidine (n = 186) |  |
-| Diarrhea | 42% | 42% | 35% |
-| Rash | 39% | 46% | 28% |
-| Headache | 28% | 31% | 22% |
-| Nausea | 26% | 32% | 23% |
-| Cough increased | 25% | 25% | 31% |
-| Fever | 25% | 31% | 18% |
-| Rhinitis | 24% | 18% | 17% |
-| Asthenia | 22% | 31% | 31% |
-| Infection | 22% | 18% | 19% |
-| Abdominal pain | 20% | 21% | 20% |
-| Dyspnea | 15% | 21% | 16% |
-| Vomiting | 15% | 22% | 11% |
-| Patients discontinuing therapy due to an adverse experience | 25% | 16% | 7% |
-| Patients reporting at least 1 adverse experience | 98% | 96% | 89% |
+| Diarrhea | 42 | 42 | 35 |
+| Rash | 39 | 46 | 28 |
+| Headache | 28 | 31 | 22 |
+| Nausea | 26 | 32 | 23 |
+| Cough increased | 25 | 25 | 31 |
+| Fever | 25 | 31 | 18 |
+| Rhinitis | 24 | 18 | 17 |
+| Asthenia | 22 | 31 | 31 |
+| Infection | 22 | 18 | 19 |
+| Abdominal pain | 20 | 21 | 20 |
+| Dyspnea | 15 | 21 | 16 |
+| Vomiting | 15 | 22 | 11 |
+| Patients discontinuing therapy due to an adverse experience | 25 | 16 | 7 |
+| Patients reporting at least 1 adverse experience | 98 | 96 | 89 |
 
 Other events occurring in ≥10% of the patients receiving the recommended dose of MEPRON included sweating, flu syndrome, pain, sinusitis, pruritus, insomnia, depression, and myalgia.
 Bronchospasm occurred more frequently in patients receiving aerosolized pentamidine (11%) than in patients receiving MEPRON 1,500 mg/day (4%) and MEPRON 750 mg/day (2%).
@@ -73,21 +73,21 @@ Treatment-Emergent Adverse Experiences in the TMP-SMX Comparative PCP Treatment 
 |  | Percentage of Patients with Treatment-Emergent Adverse Experience |  |
 | --- | --- | --- |
 | Treatment-EmergentAdverse Experience | MEPRON(n = 203) | TMP-SMX(n = 205) |
-| Rash (including maculopapular) | 23% | 34% |
-| Nausea | 21% | 44% |
-| Diarrhea | 19% | 7% |
-| Headache | 16% | 22% |
-| Vomiting | 14% | 35% |
-| Fever | 14% | 25% |
-| Insomnia | 10% | 9% |
-| Asthenia | 8% | 8% |
-| Pruritus | 5% | 9% |
-| Monilia, oral | 5% | 10% |
-| Abdominal pain | 4% | 7% |
-| Constipation | 3% | 17% |
-| Dizziness | 3% | 8% |
-| Patients discontinuing therapy due to an adverse experience | 9% | 24% |
-| Patients reporting at least 1 adverse experience | 63% | 65% |
+| Rash (including maculopapular) | 23 | 34 |
+| Nausea | 21 | 44 |
+| Diarrhea | 19 | 7 |
+| Headache | 16 | 22 |
+| Vomiting | 14 | 35 |
+| Fever | 14 | 25 |
+| Insomnia | 10 | 9 |
+| Asthenia | 8 | 8 |
+| Pruritus | 5 | 9 |
+| Monilia, oral | 5 | 10 |
+| Abdominal pain | 4 | 7 |
+| Constipation | 3 | 17 |
+| Dizziness | 3 | 8 |
+| Patients discontinuing therapy due to an adverse experience | 9 | 24 |
+| Patients reporting at least 1 adverse experience | 63 | 65 |
 
 Although an equal percentage of patients receiving MEPRON and TMP-SMX reported at least 1 adverse experience, more patients receiving TMP-SMX required discontinuation of therapy due to an adverse event.
 Twenty-four percent of patients receiving TMP-SMX were prematurely discontinued from therapy due to an adverse experience versus 9% of patients receiving MEPRON.
@@ -106,18 +106,17 @@ Treatment-Emergent Laboratory Test Abnormalities in the TMP-SMX Comparative PCP 
 |  | Percentage of Patients Developing a Laboratory Test Abnormality |  |
 | --- | --- | --- |
 | Laboratory Test Abnormality | MEPRON | TMP-SMX |
-| Anemia (Hgb<8.0 g/dL) | 6% | 7% |
-| Neutropenia (ANC<750 cells/mm3) | 3% | 9% |
-| Elevated ALT (>5 x ULN) | 6% | 16% |
-| Elevated AST (>5 x ULN) | 4% | 14% |
-| Elevated alkaline phosphatase (>2.5 x ULN) | 8% | 6% |
-| Elevated amylase (>1.5 x ULN) | 7% | 12% |
-| Hyponatremia (<0.96 x LLN) | 7% | 26% |
+| Anemia (Hgb<8.0 g/dL) | 6 | 7 |
+| Neutropenia (ANC<750 cells/mm3) | 3 | 9 |
+| Elevated ALT (>5 x ULN) | 6 | 16 |
+| Elevated AST (>5 x ULN) | 4 | 14 |
+| Elevated alkaline phosphatase (>2.5 x ULN) | 8 | 6 |
+| Elevated amylase (>1.5 x ULN) | 7 | 12 |
+| Hyponatremia (<0.96 x LLN) | 7 | 26 |
 
 ULN = upper limit of normal range.
 
 LLN = lower limit of normal range.
-
 Table 10 summarizes the clinical adverse experiences reported by ≥5% of the primary therapy study population (n = 144) during the comparative trial of MEPRON and intravenous pentamidine, regardless of attribution.
 A slightly lower percentage of patients who received MEPRON reported occurrence of adverse events than did those who received pentamidine (63% vs 72%).
 However, only 7% of patients discontinued treatment with MEPRON due to adverse events, while 41% of patients who received pentamidine discontinued treatment for this reason (P <0.001).
@@ -132,30 +131,30 @@ Treatment-Emergent Adverse Experiences in the Pentamidine Comparative PCP Treatm
 |  | Percentage of Patients with Treatment-Emergent Adverse Experience |  |
 | --- | --- | --- |
 | Treatment-EmergentAdverse Experience | MEPRON(n = 73) | Pentamidine(n = 71) |
-| Fever | 40% | 25% |
-| Nausea | 22% | 37% |
-| Rash | 22% | 13% |
-| Diarrhea | 21% | 31% |
-| Insomnia | 19% | 14% |
-| Headache | 18% | 28% |
-| Vomiting | 14% | 17% |
-| Cough | 14% | 1% |
-| Abdominal pain | 10% | 11% |
-| Pain | 10% | 10% |
-| Sweat | 10% | 3% |
-| Monilia, oral | 10% | 3% |
-| Asthenia | 8% | 14% |
-| Dizziness | 8% | 14% |
-| Anxiety | 7% | 10% |
-| Anorexia | 7% | 10% |
-| Sinusitis | 7% | 6% |
-| Dyspepsia | 5% | 10% |
-| Rhinitis | 5% | 7% |
-| Taste perversion | 3% | 13% |
-| Hypoglycemia | 1% | 15% |
-| Hypotension | 1% | 10% |
-| Patients discontinuing therapy due to an adverse experience | 7% | 41% |
-| Patients reporting at least 1 adverse experience | 63% | 72% |
+| Fever | 40 | 25 |
+| Nausea | 22 | 37 |
+| Rash | 22 | 13 |
+| Diarrhea | 21 | 31 |
+| Insomnia | 19 | 14 |
+| Headache | 18 | 28 |
+| Vomiting | 14 | 17 |
+| Cough | 14 | 1 |
+| Abdominal pain | 10 | 11 |
+| Pain | 10 | 10 |
+| Sweat | 10 | 3 |
+| Monilia, oral | 10 | 3 |
+| Asthenia | 8 | 14 |
+| Dizziness | 8 | 14 |
+| Anxiety | 7 | 10 |
+| Anorexia | 7 | 10 |
+| Sinusitis | 7 | 6 |
+| Dyspepsia | 5 | 10 |
+| Rhinitis | 5 | 7 |
+| Taste perversion | 3 | 13 |
+| Hypoglycemia | 1 | 15 |
+| Hypotension | 1 | 10 |
+| Patients discontinuing therapy due to an adverse experience | 7 | 41 |
+| Patients reporting at least 1 adverse experience | 63 | 72 |
 
 Laboratory test abnormalities reported in ≥5% of patients in the pentamidine comparative study are presented in Table 11.
 Laboratory abnormality was reported as the reason for discontinuation of treatment in 2 of 73 patients who received MEPRON.
@@ -169,15 +168,15 @@ Treatment-Emergent Laboratory Test Abnormalities in the Pentamidine Comparative 
 | Laboratory Test | Percentage of Patients Developing a Laboratory Test Abnormality |  |
 | --- | --- | --- |
 | Abnormality | MEPRON | Pentamidine |
-| Anemia (Hgb<8.0 g/dL) | 4% | 9% |
-| Neutropenia (ANC<750 cells/mm3) | 5% | 9% |
-| Hyponatremia (<0.96 x LLN) | 10% | 10% |
-| Hyperkalemia (>1.18 x ULN) | 0% | 5% |
-| Alkaline phosphatase (>2.5 x ULN) | 5% | 2% |
-| Hyperglycemia (>1.8 x ULN) | 9% | 13% |
-| Elevated AST (>5 x ULN) | 0% | 5% |
-| Elevated amylase (>1.5 x ULN) | 8% | 4% |
-| Elevated creatinine (>1.5 x ULN) | 0% | 7% |
+| Anemia (Hgb<8.0 g/dL) | 4 | 9 |
+| Neutropenia (ANC<750 cells/mm3) | 5 | 9 |
+| Hyponatremia (<0.96 x LLN) | 10 | 10 |
+| Hyperkalemia (>1.18 x ULN) | 0 | 5 |
+| Alkaline phosphatase (>2.5 x ULN) | 5 | 2 |
+| Hyperglycemia (>1.8 x ULN) | 9 | 13 |
+| Elevated AST (>5 x ULN) | 0 | 5 |
+| Elevated amylase (>1.5 x ULN) | 8 | 4 |
+| Elevated creatinine (>1.5 x ULN) | 0 | 7 |
 
 ULN = upper limit of normal range.
 
