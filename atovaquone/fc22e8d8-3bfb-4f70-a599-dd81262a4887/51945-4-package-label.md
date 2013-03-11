@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0675-01
 
@@ -31,7 +31,7 @@ Rev.
 
 A079205
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0676-01
 
