@@ -2,8 +2,16 @@
 
 When using fluoxetine and olanzapine in combination, also refer to the Contraindications section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
 
+## 4.1 Monoamine Oxidase Inhibitors (MAOIs)
+
+The use of MAOIs intended to treat psychiatric disorders with fluoxetine or within 5 weeks of stopping treatment with fluoxetine is contraindicated because of an increased risk of serotonin syndrome.
+The use of fluoxetine within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [see Dosage and Administration (2.9) and Warnings and Precautions (5.2)].
+
+Starting fluoxetine in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [seeDosage and Administration (2.10) and Warnings and Precautions (5.2)].
+
+## 4.2 Other Contraindications
+
 The use of fluoxetine is contraindicated with the following:
 
-- Monoamine Oxidase Inhibitors [see Drug Interactions (7.1)]
-- Pimozide [see Drug Interactions (7.9)]
-- Thioridazine [see Drug Interactions (7.9)]
+- Pimozide [see Drug Interactions (7.7)]
+- Thioridazine [see Drug Interactions (7.7)]
