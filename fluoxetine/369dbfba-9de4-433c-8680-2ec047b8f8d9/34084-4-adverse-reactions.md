@@ -106,7 +106,8 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 Associated with discontinuation in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 5 lists the adverse reactions associated with discontinuation of fluoxetine treatment (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S.
 Panic Disorder clinical trials.
 
-Table 5: Most Common Adverse Reactions Associated With Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncludes U.S. data for Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials.
+Table 5: Most Common Adverse Reactions Associated With Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncludes U.S. Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S.
+Panic Disorder clinical trials.
 
 | Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Combined (N = 1533) | Major Depressive Disorder (N = 392) | OCD (N = 266) | Bulimia (N = 450) | Panic Disorder (N = 425) |
 | --- | --- | --- | --- | --- |

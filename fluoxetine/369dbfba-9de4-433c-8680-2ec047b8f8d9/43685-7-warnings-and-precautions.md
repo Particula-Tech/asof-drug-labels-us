@@ -43,27 +43,30 @@ Consideration should be given to changing the therapeutic regimen, including pos
 
 If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.13)].
 
-Families and caregivers of patients being treated with antidepressants for Major Depressive Disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for Major Depressive Disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for fluoxetine capsules should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
 It should be noted that fluoxetine is approved in the pediatric population only for Major Depressive Disorder and Obsessive Compulsive Disorder.
 Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 18 years of age have not been established.
 
-## 5.2 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions
+## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including fluoxetine treatment, but particularly with concomitant use of serotonergic drugs (including triptans), with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form, can resemble neuroleptic malignant syndrome which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including fluoxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-The concomitant use of fluoxetine with MAOIs intended to treat depression is contraindicated [see Contraindications (4) and Drug Interactions (7.1)].
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-If concomitant treatment of fluoxetine with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Drug Interactions (7.4)].
+The concomitant use of fluoxetine with MAOIs intended to treat psychiatric disorders is contraindicated.
+Fluoxetine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking fluoxetine.
+Fluoxetine should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.9, 2.10)].
 
-The concomitant use of fluoxetine with serotonin precursors (such as tryptophan) is not recommended [see Drug Interactions (7.3)].
+If concomitant use of fluoxetine with other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
-Treatment with fluoxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above reactions occur and supportive symptomatic treatment should be initiated.
+Treatment with fluoxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Allergic Reactions and Rash
 
@@ -131,11 +134,11 @@ Weight change should be monitored during therapy.
 ## 5.7 Abnormal Bleeding
 
 SNRIs and SSRIs, including fluoxetine, may increase the risk of bleeding reactions.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
+Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.6)].
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.8 Hyponatremia
 

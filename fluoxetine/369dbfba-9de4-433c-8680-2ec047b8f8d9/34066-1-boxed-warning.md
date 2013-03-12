@@ -10,7 +10,7 @@ Fluoxetine is approved for use in pediatric patients with MDD and Obsessive Comp
 
 When using fluoxetine and olanzapine in combination, also refer to Boxed Warning section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
 
-If you take fluoxetine capsules USP, you should not take any other medicines that contain fluoxetine hydrochloride including:
+If you take fluoxetine capsules, you should not take any other medicines that contain fluoxetine hydrochloride including:
 
 - Symbyax®
 - Sarafem®
