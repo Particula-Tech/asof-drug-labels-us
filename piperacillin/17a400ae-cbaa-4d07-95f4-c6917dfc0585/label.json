@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090498"
+  ],
+  "inn": "piperacillin",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-804-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "piperacillin and tazobactam",
+      "name": "Piperacillin and Tazobactam"
+    }
+  ],
+  "setid": "17a400ae-cbaa-4d07-95f4-c6917dfc0585",
+  "source": "dailymed"
+}

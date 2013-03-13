@@ -1,0 +1,146 @@
+# DOSAGE AND ADMINISTRATION
+
+Piperacillin and tazobactam for injection should be administered by intravenous infusion over 30 minutes.
+
+The usual total daily dose of piperacillin and tazobactam for injection for adults is 3.375 g every six hours totaling 13.5 g (12.0 g piperacillin/1.5 g tazobactam).
+
+## Nosocomial Pneumonia
+
+Initial presumptive treatment of patients with nosocomial pneumonia should start with piperacillin and tazobactam for injection at a dosage of 4.5 g every six hours plus an aminoglycoside, totaling 18.0 g (16.0 g piperacillin/2.0 g tazobactam).
+Treatment with the aminoglycoside should be continued in patients from whom Pseudomonas aeruginosa is isolated.
+If Pseudomonas aeruginosa is not isolated, the aminoglycoside may be discontinued at the discretion of the treating physician.
+
+Due to the in vitro inactivation of the aminoglycoside by beta-lactam antibiotics, piperacillin and tazobactam and the aminoglycoside are recommended for separate administration.
+Piperacillin and tazobactam and the aminoglycoside should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated (see PRECAUTIONS, Drug Interactions).
+
+In circumstances where co-administration via Y-site is necessary, piperacillin and tazobactam is compatible for simultaneous co-administration via Y-site infusion only with the following aminoglycosides under the following conditions:
+
+TABLE 4
+
+| Aminoglycoside | Piperacillinand Tazobactam Dose (grams) | Piperacillin and Tazobactam Diluent Volume (mL) | Aminoglycoside Concentration Range* (mg/mL) | Acceptable Diluents |
+| --- | --- | --- | --- | --- |
+| Amikacin | 2.25, 3.375, 4.5 | 50, 100, 150 | 1.75 to 7.5 | 0.9%Sodium Chloride or 5% Dextrose |
+| Gentamicin | 2.25, 3.375, 4.5 | 50, 100, 150 | 0.7 to 3.32 | 0.9%Sodium Chloride or 5% Dextrose |
+
+*The concentration ranges in Table 4 are based on administration of the aminoglycoside in divided doses (10 to 15 mg/kg/day in two daily doses for amikacin and 3 to 5 mg/kg/day in three daily doses for gentamicin).
+Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with piperacillin and tazobactam has not been evaluated.
+See package insert for each aminoglycoside for complete dosage and administration instructions.
+
+Piperacillin and tazobactam is not compatible with tobramycin for simultaneous co-administration via Y-site infusion.
+Compatibility of piperacillin and tazobactam with other aminoglycosides has not been established.
+Only the concentration and diluents for amikacin or gentamicin with the dosages of piperacillin and tazobactam listed above have been established as compatible for co-administration via Y-site infusion.
+Simultaneous co-administration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by piperacillin and tazobactam.
+
+## Renal Insufficiency
+
+In patients with renal insufficiency (Creatinine Clearance ≤ 40 mL/min), the intravenous dose of piperacillin and tazobactam for injection should be adjusted to the degree of actual renal function impairment.
+In patients with nosocomial pneumonia receiving concomitant aminoglycoside therapy, the aminoglycoside dosage should be adjusted according to the recommendations of the manufacturer.
+The recommended daily doses of piperacillin and tazobactam for injection for patients with renal insufficiency are as follows:
+
+TABLE 5: Recommended Dosing of Piperacillin and Tazobactam for injection in Patients with Normal Renal Function and Renal Insufficiency (As total grams piperacillin/tazobactam)
+
+| Renal Function (Creatinine Clearance, mL/min) | All Indications (except nosocomial pneumonia) | Nosocomial Pneumonia |
+| --- | --- | --- |
+| >40 mL/min | 3.375 q 6 h | 4.5 q 6 h |
+| 20 to 40 mL/min* | 2.25 q 6 h | 3.375 q 6 h |
+| <20 mL/min* | 2.25 q 8 h | 2.25 q 6 h |
+| Hemodialysis** | 2.25 q 12 h | 2.25 q 8 h |
+| CAPD | 2.25 q 12 h | 2.25 q 8 h |
+
+* Creatinine clearance for patients not receiving hemodialysis
+
+** 0.75 g should be administered following each hemodialysis session on hemodialysis days
+
+For patients on hemodialysis, the maximum dose is 2.25 g every twelve hours for all indications other than nosocomial pneumonia and 2.25 g every eight hours for nosocomial pneumonia.
+Since hemodialysis removes 30% to 40% of the administered dose, an additional dose of 0.75 g piperacillin and tazobactam for injection should be administered following each dialysis period on hemodialysis days.
+No additional dosage of piperacillin and tazobactam for injection is necessary for CAPD patients.
+
+## Duration of Therapy
+
+The usual duration of piperacillin and tazobactam for injection treatment is from seven to ten days.
+However, the recommended duration of piperacillin and tazobactam for injection treatment of nosocomial pneumonia is 7 to 14 days.
+In all conditions, the duration of therapy should be guided by the severity of the infection and the patient's clinical and bacteriological progress.
+
+## Pediatric Patients
+
+For children with appendicitis and/or peritonitis 9 months of age or older, weighing up to 40 kg, and with normal renal function, the recommended piperacillin and tazobactam for injection dosage is 100 mg piperacillin/12.5 mg tazobactam per kilogram of body weight, every 8 hours.
+For pediatric patients between 2 months and 9 months of age, the recommended piperacillin and tazobactam for injection dosage based on pharmacokinetic modeling, is 80 mg piperacillin/10 mg tazobactam per kilogram of body weight, every 8 hours (see PRECAUTIONS, General, Pediatric Use and CLINICAL PHARMACOLOGY).
+Pediatric patients weighing over 40 kg and with normal renal function should receive the adult dose.
+There are no dosage recommendations for piperacillin and tazobactam for injection in pediatric patients with impaired renal function.
+
+## Directions for Reconstitution and Dilution for Use
+
+Intravenous Administration
+
+RECONSTITUTED STOCK SOLUTION MUST BE TRANSFERRED AND FURTHER DILUTED FOR IV INFUSION
+
+The pharmacy bulk vial is for use in the hospital pharmacy admixture service only under a laminar flow hood.
+After reconstitution, entry into the vial must be made with a transfer set or other sterile dispensing device, and contents should be dispensed as aliquots into intravenous solution using aseptic technique.
+Use entire contents of pharmacy bulk package promptly.
+Discard any unused portion after 24 hours if stored at room temperature 20° to 25°C (68° to 77°F), or after 48 hours if stored at refrigerated temperature 2° to 8°C (36° to 46°F).
+
+Reconstitute the pharmacy bulk package with exactly 152 mL of a compatible reconstitution diluent, listed below, to a concentration of 200 mg/mL of piperacillin and 25 mg/mL of tazobactam.
+Shake well until dissolved.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to and during administration whenever solution and container permit.
+
+Compatible Reconstitution Diluents
+
+0.9% Sodium Chloride for Injection
+
+Sterile Water for Injection‡
+
+Dextrose 5%
+
+Bacteriostatic Saline/Parabens
+
+Bacteriostatic Water/Parabens
+
+Bacteriostatic Saline/Benzyl Alcohol
+
+Bacteriostatic Water/Benzyl Alcohol
+
+Reconstituted piperacillin and tazobactam for injection solution should be further diluted (recommended volume per dose of 50 mL to 150 mL) in a compatible intravenous diluent solution listed below.
+Administer by infusion over a period of at least 30 minutes.
+During the infusion it is desirable to discontinue the primary infusion solution.
+
+Compatible Intravenous Diluent Solutions
+
+0.9% Sodium Chloride for Injection
+
+Sterile Water for Injection‡
+
+Dextrose 5%
+
+Dextran 6% in Saline
+
+LACTATED RINGER’S SOLUTION IS NOT COMPATIBLE WITH PIPERACILLIN AND TAZOBACTAM FOR INJECTION.
+
+‡ Maximum recommended volume per dose of Sterile Water for Injection is 50 mL.
+
+Piperacillin and tazobactam for injection should not be mixed with other drugs in a syringe or infusion bottle since compatibility has not been established.
+
+Piperacillin and tazobactam for injection is not chemically stable in solutions that contain only sodium bicarbonate and solutions that significantly alter the pH.
+
+Piperacillin and tazobactam for injection should not be added to blood products or albumin hydrolysates.
+
+Piperacillin and tazobactam for injection can be used in ambulatory intravenous infusion pumps.
+
+Stability of Piperacillin and Tazobactam for Injection Following Reconstitution
+
+Piperacillin and tazobactam for injection is stable in glass and plastic containers (plastic syringes, I.V. bags and tubing) when used with compatible diluents.
+
+The Pharmacy Bulk Package should NOT be frozen after reconstitution.
+Discard unused portions after 24 hours if stored at room temperature 20° to 25°C (68° to 77°F), or after 48 hours if stored at refrigerated temperature 2° to 8°C (36° to 46°F).
+Vials should not be frozen after reconstitution.
+
+Stability studies in the I.V. bags have demonstrated chemical stability (potency, pH of reconstituted solution and clarity of solution) for up to 24 hours at room temperature and up to one week at refrigerated temperature.
+Piperacillin and tazobactam for injection contains no preservatives.
+Appropriate consideration of aseptic technique should be used.
+
+Stability of piperacillin and tazobactam for injection in an ambulatory intravenous infusion pump has been demonstrated for a period of 12 hours at room temperature.
+Each dose was reconstituted and diluted to a volume of 37.5 mL or 25 mL.
+One-day supplies of dosing solution were aseptically transferred into the medication reservoir (I.V. bags or cartridge).
+The reservoir was fitted to a preprogrammed ambulatory intravenous infusion pump per the manufacturer’s instructions.
+Stability of piperacillin and tazobactam for injection is not affected when administered using an ambulatory intravenous infusion pump.
+
+Parenteral drug products should be inspected visually for particulate matter or discoloration prior to administration, whenever solution and container permit.
