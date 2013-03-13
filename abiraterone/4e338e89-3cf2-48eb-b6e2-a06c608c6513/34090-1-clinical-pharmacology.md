@@ -78,9 +78,9 @@ The AUC for dextrorphan, the active metabolite of dextromethorphan, increased ap
 
 In a clinical study to determine the effects of abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily) on a single 100 mg dose of the CYP1A2 substrate theophylline, no increase in systemic exposure of theophylline was observed.
 
-Abiraterone is a substrate of CYP3A4, in vitro.
-The effects of strong CYP3A4 inhibitors or inducers on the pharmacokinetics of abiraterone have not been evaluated, in vivo.
-Strong inhibitors and inducers of CYP3A4 should be avoided or used with caution [see Drug Interactions (7.2)].
+In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55% [see Drug Interactions (7.2)].
+
+In a separate clinical pharmacokinetic interaction study of healthy subjects, coadministration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.2)].
 
 ## 12.6 QT Prolongation
 
