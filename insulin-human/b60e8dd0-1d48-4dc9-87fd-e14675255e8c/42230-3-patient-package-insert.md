@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-Humulin®(HU-mu-lin) R
+Humulin® (HU-mu-lin) R
 
 Regular U-500 (Concentrated) insulin human injection, USP (rDNA origin)
 
