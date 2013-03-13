@@ -22,10 +22,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in India
+Made in Canada
 
-A058921 Rev.
-7/08
+A108002 Rev.
+6/12
 
 Principal Display Panel
 
@@ -36,8 +36,6 @@ ZOVIRAX®
 (acyclovir)
 
 Suspension
-
-Rx only
 
 1 pint (473 mL)
 
@@ -51,14 +49,16 @@ Store at 15o to 25oC (59o to 77oF).
 
 Dispense in tight container as defined in the USP.
 
+Rx only
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in India
+Made in Canada
 
-A076757 Rev.
-12/09
+A107741 Rev.
+6/12
 
 Principal Display Panel
 
@@ -69,6 +69,8 @@ ZOVIRAX®
 (acyclovir)
 
 Tablets
+
+100 Tablets
 
 Each tablet contains 400 mg
 
