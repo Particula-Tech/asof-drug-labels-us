@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Simvastatin tablet is contraindicated in the following conditions:
 

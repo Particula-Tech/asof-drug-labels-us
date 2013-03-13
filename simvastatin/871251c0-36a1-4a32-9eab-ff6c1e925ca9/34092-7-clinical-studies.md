@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Clinical Studies in Adults
 
@@ -35,9 +35,9 @@ At baseline, 3,421 patients (17%) had LDL-C levels below 100 mg/dL, of whom 953 
 
 The HPS results showed that simvastatin tablets 40 mg/day significantly reduced: total and CHD mortality; non-fatal MI, stroke, and revascularization procedures (coronary and non-coronary) (see Table 4).
 
-TABLE 4: Summary of Heart Protection Study Results
+TABLE 4 Summary of Heart Protection Study Results
 
-| Endpoint | Simvastatin Tablets (N=10,269)n (%)n = number of patients with indicated event | Placebo (N=10,267)n (%) | Risk Reduction (%) (95% CI) | p-Value |
+| Endpoint | Simvastatin Tablets (N=10,269) n (%)n = number of patients with indicated event | Placebo (N=10,267) n (%) | Risk Reduction (%) (95% CI) | p-Value |
 | --- | --- | --- | --- | --- |
 | Primary |  |  |  |  |
 | Mortality | 1,328 (12.9) | 1,507 (14.7) | 13 (6 to 19) | p=0.0003 |
@@ -68,13 +68,13 @@ In addition, simvastatin significantly decreased the proportion of patients with
 
 Modifications of Lipid Profiles
 
-Primary Hyperlipidemia (Fredrickson type lla and llb)
+Primary Hyperlipidemia (Fredrickson type IIa and IIb)
 
 Simvastatin tablet has been shown to be effective in reducing total-C and LDL-C in heterozygous familial and non-familial forms of hyperlipidemia and in mixed hyperlipidemia.
 Maximal to near maximal response is generally achieved within 4 to 6 weeks and maintained during chronic therapy.
 Simvastatin tablets consistently and significantly decreased total-C, LDL-C, total-C/HDL-C ratio, and LDL-C/HDL-C ratio; simvastatin tablets also decreased TG and increased HDL-C (see Table 5).
 
-TABLE 5: Mean Response in Patients with Primary Hyperlipidemia and Combined (mixed) Hyperlipidemia (Mean Percent Change from Baseline After 6 to 24 Weeks)
+TABLE 5 Mean Response in Patients with Primary Hyperlipidemia and Combined (mixed) Hyperlipidemia (Mean Percent Change from Baseline After 6 to 24 Weeks)
 
 | TREATMENT | N | TOTAL-C | LDL-C | HDL-C | TGmedian percent change |
 | --- | --- | --- | --- | --- | --- |
@@ -96,7 +96,7 @@ Hypertriglyceridemia (Frederickson type IV)
 
 The results of a subgroup analysis in 74 patients with type lV hyperlipidemia from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 6.
 
-TABLE 6: Six-week, Lipid-lowering Effects of Simvastatin in Type lV Hyperlipidemia Median Percent Change (25th and 75th percentile) from BaselineThe median baseline values (mg/dL) for the patients in this study were: total-C = 254, LDL-C = 135, HDL-C = 36, TG = 404, VLDL-C = 83, and non-HDL-C = 215
+TABLE 6 Six-week, Lipid-lowering Effects of Simvastatin in Type lV Hyperlipidemia Median Percent Change (25th and 75th percentile) from BaselineThe median baseline values (mg/dL) for the patients in this study were: total-C = 254, LDL-C = 135, HDL-C = 36, TG = 404, VLDL-C = 83, and non-HDL-C = 215
 
 | TREATMENT | N | Total-C | LDL-C | HDL-C | TG | VLDL-C | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ Dysbetalipoproteinemia (Fredrickson type lll)
 
 The results of a subgroup analysis in 7 patients with type lll hyperlipidemia (dysbetalipoproteinemia) (apo E2/2) (VLDL-C/TG>0.25) from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 7.
 
-TABLE 7: Six-week, Lipid-lowering Effects of Simvastatin in Type lll Hyperlipidemia Median Percent Change (min, max) from BaselineThe median baseline values (mg/dL) were: total-C = 324, LDL-C = 121, HDL-C = 31, TG = 411, VLD-C = 170, and non-HDL-C = 291.
+TABLE 7 Six-week, Lipid-lowering Effects of Simvastatin in Type lll Hyperlipidemia Median Percent Change (min, max) from BaselineThe median baseline values (mg/dL) were: total-C = 324, LDL-C = 121, HDL-C = 31, TG = 411, VLD-C = 170, and non-HDL-C = 291.
 
 | TREATMENT | N | Total-C | LDL-C + IDL | HDL-C | TG | VLDL-C+IDL | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -144,7 +144,7 @@ In a 24-week extension, 144 patients elected to continue therapy with simvastati
 Simvastatin tablets significantly decreased plasma levels of total-C, LDL-C, and Apo B (see Table 8).
 Results from the extension at 48 weeks were comparable to those observed in the base study.
 
-TABLE 8: Lipid-Lowering Effects of Simvastatin in Adolescent Patients with Heterozygous Familial Hypercholesterolemia (Mean Percent Change from Baseline)
+TABLE 8 Lipid-Lowering Effects of Simvastatin in Adolescent Patients with Heterozygous Familial Hypercholesterolemia (Mean Percent Change from Baseline)
 
 | Dosage | Duration | N |  | Total-C | LDL-C | HDL-C | TGmedian percent change | Apo B |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

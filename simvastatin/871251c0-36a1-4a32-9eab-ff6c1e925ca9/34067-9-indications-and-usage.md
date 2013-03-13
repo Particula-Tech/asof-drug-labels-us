@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 Therapy with lipid-altering agents should be only one component of multiple risk factor intervention in individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
 Drug therapy is indicated as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures alone has been inadequate.

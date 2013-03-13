@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trials Experience
 
@@ -12,7 +12,7 @@ Scandinavian Simvastatin Survival Study
 
 In 4S involving 4,444 (age range 35 to 71 years, 19% women, 100% Caucasians) treated with 20 to 40 mg/day of simvastatin tablets (n=2,221) or placebo (n=2,223) over a median of 5.4 years, adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 2.
 
-TABLE 2: Adverse Reactions Reported Regardless of Causality by ≥2% of Patients Treated with simvastatin tablets and Greater than Placebo in 4S
+TABLE 2 Adverse Reactions Reported Regardless of Causality by ≥2% of Patients Treated with Simvastatin Tablets and Greater than Placebo in 4S
 
 |  | Simvastatin Tablets (N = 2,221) % | Placebo (N = 2,223) % |
 | --- | --- | --- |
@@ -34,6 +34,11 @@ The incidence of myopathy/rhabdomyolysis was <0.1% in patients treated with simv
 
 Other Clinical Studies
 
+In a clinical trial in which 12,064 patients with a history of myocardial infarction were treated with simvastatin (mean follow-up 6.7 years), the incidence of myopathy (defined as unexplained muscle weakness or pain with a serum creatine kinase [CK] >10 times upper limit of normal [ULN]) in patients on 80 mg/day was approximately 0.9% compared with 0.02% for patients on 20 mg/day.
+The incidence of rhabdomyolysis (defined as myopathy with a CK >40 times ULN) in patients on 80 mg/day was approximately 0.4% compared with 0% for patients on 20 mg/day.
+The incidence of myopathy, including rhabdomyolysis, was highest during the first year and then notably decreased during the subsequent years of treatment.
+In this trial, patients were carefully monitored and some interacting medicinal products were excluded.
+
 Other adverse reactions reported in clinical trials were: diarrhea, rash, dyspepsia, flatulence, and asthenia.
 
 Laboratory Tests
@@ -51,6 +56,12 @@ In a 48-week, controlled study in adolescent boys and girls who were at least 1 
 ## 6.2 Post-Marketing Experience
 
 Because the below reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following additional adverse reactions have been identified during postapproval use of simvastatin: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), dizziness, muscle cramps, myalgia, pancreatitis, memory impairment, paresthesia, peripheral neuropathy, vomiting, anemia, erectile dysfunction, interstitial lung disease, rhabdomyolysis, hepatitis/jaundice, hepatic failure and depression.
+The following additional adverse reactions have been identified during postapproval use of simvastatin: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), dizziness, muscle cramps, myalgia, pancreatitis, paresthesia, peripheral neuropathy, vomiting, anemia, erectile dysfunction, interstitial lung disease, rhabdomyolysis, hepatitis/jaundice, fatal and non-fatal hepatic failure, and depression.
+
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
 An apparent hypersensitivity syndrome has been reported rarely which has included some of the following features: anaphylaxis, angioedema, lupus erythematous-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, purpura, thrombocytopenia, leukopenia, hemolytic anemia, positive ANA, ESR increase, eosinophilia, arthritis, arthralgia, urticaria, asthenia, photosensitivity, fever, chills, flushing, malaise, dyspnea, toxic epidermal necrolysis, erythema multiforme, including Stevens-Johnson syndrome.
+
+There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+These cognitive issues have been reported for all statins.
+The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
