@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 Fluocinolone Acetonide Topical Solution, USP 0.01% in 60 mL bottles, NDC 0168-0059-60
 
@@ -8,4 +8,4 @@ Protect from freezing.
 
 E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
 
-I259D R10/11 #348
+I259E R10/12 #348
