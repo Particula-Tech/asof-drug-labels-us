@@ -1,4 +1,4 @@
-# Patient Package Insert
+- PHARMACIST—DETACH HERE AND GIVE LEAFLET TO PATIENT
 
 Patient Information
 
@@ -168,6 +168,8 @@ There are 2 main parts of your VENTOLIN HFA inhaler:
 - •the metal canister that holds the medicine.
   See Figure A.
 
+Figure A
+
 The actuator has a protective cap that covers the mouthpiece.
 The strap on the cap will stay attached to the actuator.
 
@@ -180,6 +182,8 @@ The number shows through a window in the back of the actuator.
 The counter starts at either 204 or 64, depending on which size inhaler you have.
 See Figure B.
 
+Figure B
+
 Priming your VENTOLIN HFA inhaler:
 
 Your VENTOLIN HFA inhaler must be primed before you use it for the first time, when it has not been used for more than 14 days in a row, or if it has been dropped.
@@ -191,13 +195,13 @@ Do not prime your VENTOLIN HFA every day.
 - •Shake the inhaler well, and spray it into the air away from your face.
   See Figure C.
 
-1. Figure C
+Figure C
 
 - •Shake and spray the inhaler like this 3 more times to finish priming it.
   After you prime the actuator for the first time, the dose counter in the window on the back of the actuator should show the number 200 or 60, depending on which size inhaler you have.
   See Figure D.
-- 
-- Figure D
+
+Figure D
 
 Each time you use your VENTOLIN HFA inhaler:
 
@@ -253,6 +257,8 @@ Cleaning your VENTOLIN HFA actuator:
 It is very important to keep the plastic actuator clean so the medicine will not build-up and block the spray.
 See Figure G.
 
+Figure G
+
 - •Do not try to clean the metal canister or let it get wet.
   The inhaler may stop spraying if it is not cleaned correctly.
 - •Wash the actuator at least once a week as follows:
@@ -265,9 +271,13 @@ Step 9.
 Hold the actuator under the faucet and run warm water through it for about 30 seconds.
 See Figure H.
 
+Figure H
+
 Step 10.
 Turn the actuator upside down and run warm water through the mouthpiece for about 30 seconds.
 See Figure I.
+
+Figure I
 
 Step 11.
 Shake off as much water from the actuator as you can.
@@ -277,6 +287,8 @@ If there is any build-up, repeat Steps 9 and 10.
 Step 12.
 Let the actuator air-dry completely, such as overnight.
 See Figure J.
+
+Figure J
 
 Step 13.
 When the actuator is dry, put the canister in the actuator and make sure it fits firmly.

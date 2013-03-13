@@ -49,13 +49,10 @@ AeroChamber Plus is a registered trademark of Monaghan Medical Inc.
 
 OptiChamber is a registered trademark of Respironics Inc.
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+- GlaxoSmithKline
+- Research Triangle Park, NC 27709
 
 ©2012, GlaxoSmithKline.
 All rights reserved.
 
 VNT:8PI
-
-PHARMACIST—DETACH HERE AND GIVE LEAFLET TO PATIENT
