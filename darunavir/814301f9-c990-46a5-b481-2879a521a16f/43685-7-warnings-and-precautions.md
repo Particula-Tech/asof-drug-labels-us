@@ -83,4 +83,4 @@ Because the potential for HIV cross-resistance among PIs has not been fully expl
 
 ## 5.11 Pediatric Patients
 
-Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].
+Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4) Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].

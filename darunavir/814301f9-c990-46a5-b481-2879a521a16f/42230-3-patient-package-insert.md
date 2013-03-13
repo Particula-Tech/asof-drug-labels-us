@@ -136,6 +136,7 @@ Especially tell your healthcare provider if you take:
 - medicine to treat schizophrenia such as risperidone (Risperdal®), thioridazine
 - medicine to treat erectile dysfunction or pulmonary hypertension such as sildenafil (Viagra®, Revatio®), vardenafil (Levitra®, Staxyn®), tadalafil (Cialis®, Adcirca®)
 - medicine to treat anxiety, depression or panic disorder such as sertraline (Zoloft®), paroxetine (Paxil®, Pexeva®)
+- medicine to treat malaria (Coartem®)
 
 This is not a complete list of medicines that you should tell your healthcare provider that you are taking.
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one that is listed above.

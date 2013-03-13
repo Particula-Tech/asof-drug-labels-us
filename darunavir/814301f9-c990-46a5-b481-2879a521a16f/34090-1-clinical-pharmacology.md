@@ -168,6 +168,7 @@ Table 14: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | BoceprevirAUC is AUC(0-last); N = 10 for Cmin in the reference arm | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.64 (0.58–0.71) | 0.56 (0.51–0.61) | 0.41 (0.38–0.45) |
 | Telaprevir | 750 mg every 8 hours 1125 mg every 12 hours | 600/100 mg b.i.d. 600/100 mg b.i.d. | 11N = 14 for Cmax 15 | ↓ ↓ | 0.60 (0.56–0.64) 0.53 (0.47–0.59) | 0.60 (0.57–0.63) 0.49 (0.43–0.55) | 0.58 (0.52–0.64) 0.42 (0.35–0.51) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
+| Artemether/ Lumefantrine | 80/480 mg (6 doses at 0, 8, 24, 36, 48, and 60 hours) | 600/100 mg b.i.d. | 14 | ↔ | 1.00 (0.93–1.07) | 0.96 (0.90–1.03) | 0.87 (0.77–0.98) |
 | Carbamazepine | 200 mg b.i.d. | 600/100 mg b.i.d. | 16 | ↔ | 1.04 (0.93–1.16) | 0.99 (0.90–1.08) | 0.85 (0.73–1.00) |
 | Clarithromycin | 500 mg b.i.d. | 400/100 mg b.i.d. | 17 | ↔ | 0.83 (0.72–0.96) | 0.87 (0.75–1.01) | 1.01 (0.81–1.26) |
 | Ketoconazole | 200 mg b.i.d. | 400/100 mg b.i.d. | 14 | ↑ | 1.21 (1.04–1.40) | 1.42 (1.23–1.65) | 1.73 (1.39–2.14) |
@@ -207,6 +208,11 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
 | Atorvastatin | 40 mg q.d. when administered alone | 300/100 mg b.i.d. | 15 | ↑ | 0.56 (0.48–0.67) | 0.85 (0.76–0.97) | 1.81 (1.37–2.40) |
 |  | 10 mg q.d. when administered with darunavir/ritonavir |  |  |  |  |  |  |
+| Artemether | 80 mg single dose | 600/100 mg b.i.d. | 15 | ↓ | 0.85 (0.68–1.05) | 0.91 (0.78–1.06) | - |
+| Dihydroartemisinin |  |  | 15 | ↑ | 1.06 (0.82–1.39) | 1.12 (0.96–1.30) | - |
+| Artemether | Artemether/lumefantrine 80/480 mg (6 doses at 0, 8, 24, 36, 48, and 60 hours) | 600/100 mg b.i.d. | 15 | ↓ | 0.82 (0.61–1.11) | 0.84 (0.69–1.02) | 0.97 (0.90–1.05) |
+| Dihydroartemisinin |  | 15 | ↓ | 0.82 (0.66–1.01) | 0.82 (0.74–0.91) | 1.00 (0.82–1.22) |  |
+| Lumefantrine |  | 15 | ↑ | 1.65 (1.49–1.83) | 2.75 (2.46–3.08) | 2.26 (1.92–2.67) |  |
 | Buprenorphine/ Naloxone | 8/2 mg to 16/4 mg q.d. | 600/100 mg b.i.d. | 17 | ↔ | 0.92 ratio is for buprenorphine; mean Cmax and AUC24 for naloxone were comparable when buprenorphine/naloxone was administered with or without PREZISTA/ritonavir (0.79–1.08) | 0.89 (0.78–1.02) | 0.98 (0.82–1.16) |
 | Norbuprenorphine |  |  | 17 | ↑ | 1.36 (1.06–1.74) | 1.46 (1.15–1.85) | 1.71 (1.29–2.27) |
 | Carbamazepine | 200 mg b.i.d. | 600/100 mg b.i.d. | 16 | ↑ | 1.43 (1.34–1.53) | 1.45 (1.35–1.57) | 1.54 (1.41–1.68) |
