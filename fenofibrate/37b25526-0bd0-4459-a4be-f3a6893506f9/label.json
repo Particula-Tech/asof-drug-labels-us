@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021695"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-130-06",
+    "68180-131-06"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fenofibrate",
+      "name": "Fenofibrate"
+    }
+  ],
+  "setid": "37b25526-0bd0-4459-a4be-f3a6893506f9",
+  "source": "dailymed"
+}
