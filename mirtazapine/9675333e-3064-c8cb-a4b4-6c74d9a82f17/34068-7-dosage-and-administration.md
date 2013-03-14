@@ -3,7 +3,7 @@
 ## Initial Treatment
 
 The recommended starting dose for mirtazapine tablets is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
-In the controlled clinical trials establishing the efficacy of mirtazapine tablets in the treatment of major depressive disorder, the effective dose range was generally 15 to 45 mg/day.
+In the controlled clinical trials establishing the efficacy of mirtazapine in the treatment of major depressive disorder, the effective dose range was generally 15 to 45 mg/day.
 While the relationship between dose and satisfactory response in the treatment of major depressive disorder for mirtazapine tablets has not been adequately explored, patients not responding to the initial 15 mg dose may benefit from dose increases up to a maximum of 45 mg/day.
 Mirtazapine tablets has an elimination half-life of approximately 20 to 40 hours; therefore, dose changes should not be made at intervals of less than one to two weeks in order to allow sufficient time for evaluation of the therapeutic response to a given dose.
 
@@ -19,11 +19,23 @@ Systematic evaluation of mirtazapine tablets has demonstrated that its efficacy 
 Based on these limited data, it is unknown whether or not the dose of mirtazapine tablets needed for maintenance treatment is identical to the dose needed to achieve an initial response.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
 
-## Switching Patients To or From a Monoamine Oxidase Inhibitor
+## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-Concomitant use of mirtazapine tablets with MAOIs is contraindicated.
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with mirtazapine tablets.
-In addition, at least 14 days should be allowed after stopping mirtazapine tablets before starting an MAOI.
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with mirtazapine tablets.
+Conversely, at least 14 days should be allowed after stopping mirtazapine tablets before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+
+## Use of Mirtazapine Tablets With Other MAOIs, Such as Linezolid or Methylene Blue
+
+Do not start mirtazapine tablets in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving therapy with mirtazapine may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, Mirtazapine tablets should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with mirtazapine tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with mirtazapine tablets is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
 
 ## Discontinuation of Mirtazapine Tablets, USP Treatment
 

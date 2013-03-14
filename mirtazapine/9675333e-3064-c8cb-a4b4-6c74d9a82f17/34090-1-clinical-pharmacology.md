@@ -5,14 +5,14 @@
 The mechanism of action of mirtazapine tablets, as with other drugs effective in the treatment of major depressive disorder, is unknown.
 
 Evidence gathered in preclinical studies suggests that mirtazapine enhances central noradrenergic and serotonergic activity.
-These studies have shown that mirtazapine acts as an antagonist at central presynaptic α2 adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
+These studies have shown that mirtazapine acts as an antagonist at central presynaptic α2-adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
 
 Mirtazapine is a potent antagonist of 5-HT2 and 5-HT3 receptors.
 Mirtazapine has no significant affinity for the 5-HT1A and 5-HT1B receptors.
 
 Mirtazapine is a potent antagonist of histamine (H1) receptors, a property that may explain its prominent sedative effects.
 
-Mirtazapine is a moderate peripheral α1 adrenergic antagonist, a property that may explain the occasional orthostatic hypotension reported in association with its use.
+Mirtazapine is a moderate peripheral α1-adrenergic antagonist, a property that may explain the occasional orthostatic hypotension reported in association with its use.
 
 Mirtazapine is a moderate antagonist at muscarinic receptors, a property that may explain the relatively low incidence of anticholinergic side effects associated with its use.
 
@@ -46,7 +46,7 @@ Caution is indicated in administering mirtazapine tablets to elderly patients (s
 
 ### Pediatrics
 
-Safety and effectiveness of mirtazapine in the pediatric population have not been established (seePRECAUTIONS).
+Safety and effectiveness of mirtazapine in the pediatric population have not been established (see PRECAUTIONS).
 
 ### Gender
 
@@ -65,7 +65,7 @@ Caution is indicated in administering mirtazapine tablets to patients with compr
 
 ### Hepatic Insufficiency
 
-Following a single 15 mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine was decreased by approximately 30% in hepatically impaired patients compared to subjects with normal hepatic function.
+Following a single 15-mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine was decreased by approximately 30% in hepatically impaired patients compared to subjects with normal hepatic function.
 Caution is indicated in administering mirtazapine tablets to patients with compromised hepatic function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ## Clinical Trials Showing Effectiveness
