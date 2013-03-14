@@ -16,8 +16,6 @@ Manufactured by: Warner Chilcott Deutschland GmbH D-64331 Weiterstadt Germany
 
 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866
 
-Under license from Medeva Pharma Suisse AG (registered trademark owner).
-
 U.S. Patent Nos. 5,541,170 and 5,541,171
 
-0753G047
+0753G048
