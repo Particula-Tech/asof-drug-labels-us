@@ -3,7 +3,7 @@
 In U.S. and foreign controlled studies, the frequency of serious adverse reactions reported was very low.
 Of 702 patients, 11.8% reported adverse reactions and in only 1.5% was glipizide discontinued.
 
-Hypoglycemia: SeePRECAUTIONS andOVERDOSAGE sections.
+Hypoglycemia: See PRECAUTIONS and OVERDOSAGE sections.
 
 Gastrointestinal: Gastrointestinal disturbances are the most common reactions.
 Gastrointestinal complaints were reported with the following approximate incidence: nausea and diarrhea, one in seventy; constipation and gastralgia, one in one hundred.
@@ -14,7 +14,7 @@ Dermatologic: Allergic skin reactions including erythema, morbilliform or maculo
 These may be transient and may disappear despite continued use of glipizide; if skin reactions persist, the drug should be discontinued.
 Porphyria cutanea tarda and photosensitivity reactions have been reported with sulfonylureas.
 
-Hematologic: Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia, aplastic anemia, and pancytopenia have been reported with sulfonylureas.
+Hematologic: Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia (see PRECAUTIONS), aplastic anemia, and pancytopenia have been reported with sulfonylureas.
 
 Metabolic: Hepatic porphyria and disulfiram-like reactions have been reported with sulfonylureas.
 In the mouse, glipizide pretreatment did not cause an accumulation of acetaldehyde after ethanol administration.
@@ -29,3 +29,9 @@ Laboratory Tests: The pattern of laboratory test abnormalities observed with gli
 Occasional mild to moderate elevations of SGOT, LDH, alkaline phosphatase, BUN and creatinine were noted.
 One case of jaundice was reported.
 The relationship of these abnormalities to glipizide is uncertain, and they have rarely been associated with clinical symptoms.
+
+Postmarketing Experience
+
+The following adverse events have been reported in postmarketing surveillance:
+
+Hepatobiliary: Cholestatic and hepatocellular forms of liver injury accompanied by jaundice have been reported rarely in association with glipizide; glipizide should be discontinued if this occurs.

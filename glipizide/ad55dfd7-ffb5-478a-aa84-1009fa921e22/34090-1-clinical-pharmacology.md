@@ -10,7 +10,7 @@ Fasting insulin levels are not elevated even on long-term glipizide administrati
 The insulinotropic response to a meal occurs within 30 minutes after an oral dose of glipizide in diabetic patients, but elevated insulin levels do not persist beyond the time of the meal challenge.
 Extrapancreatic effects may play a part in the mechanism of action of oral sulfonylurea hypoglycemic drugs.
 
-Blood sugar control persists in some patients for up to 24 hours after a single dose of glipizide, even though plasma levels have declined to a small fraction of peak levels by that time (seePharmacokinetics below).
+Blood sugar control persists in some patients for up to 24 hours after a single dose of glipizide, even though plasma levels have declined to a small fraction of peak levels by that time (see Pharmacokinetics below).
 
 Some patients fail to respond initially, or gradually lose their responsiveness to sulfonylurea drugs, including glipizide.
 Alternatively, glipizide may be effective in some patients who have not responded or have ceased to respond to other sulfonylureas.
