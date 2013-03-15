@@ -146,8 +146,8 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-©2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+©2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: September 2012
+Revised: March 2013
 
-10003128/12 OT1338RI052012 10003129/11 IT1322Q
+10003128/12 OT1338SC082013 10003129/11 IT1322R
