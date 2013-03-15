@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects — Pregnancy Category D [see Warnings and Precautions (5.6)]
+Teratogenic Effects - Pregnancy Category D [see Warnings and Precautions (5.6)]
 
 Based on its mechanism of action, ALIMTA can cause fetal harm when administered to a pregnant woman.
 There are no adequate and well controlled studies of ALIMTA in pregnant women.

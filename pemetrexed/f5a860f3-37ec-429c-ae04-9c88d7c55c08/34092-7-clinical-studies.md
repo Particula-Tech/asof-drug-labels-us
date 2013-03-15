@@ -48,7 +48,7 @@ Patients treated with gemcitabine plus cisplatin received a relative dose intens
 The primary endpoint in this study was overall survival.
 The median survival time was 10.3 months in the ALIMTA plus cisplatin treatment arm and 10.3 months in the gemcitabine plus cisplatin arm, with an adjusted hazard ratio of 0.94.
 
-Table 11: First-Line Therapy: Efficacy in NSCLC – ITT Population
+Table 11: First-Line Therapy: Efficacy in NSCLC - ITT Population
 
 |  | ALIMTA plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
@@ -75,10 +75,10 @@ Table 12: First-Line Therapy: Overall Survival in NSCLC Histologic Subgroups
 | Othere (N=252) | 8.6 (6.8-10.2) | N=106 | 9.2 (8.1-10.6) | N=146 | 1.12 (0.84-1.49) | 1.08 (0.81-1.45) |
 | Squamous Cell (N=473) | 9.4 (8.4-10.2) | N=244 | 10.8 (9.5-12.1) | N=229 | 1.22 (0.99-1.50) | 1.23 (1.00-1.51) |
 | a A HR that is less than 1.0 indicates that survival is better in the AC arm than in the GC arm. Alternatively, a HR that is greater than 1.0 indicates survival is better in the GC arm than in the AC arm. |  |  |  |  |  |  |
-| bUnadjusted for multiple comparisons. |  |  |  |  |  |  |
-| cHRs adjusted for ECOG PS, gender, disease stage, and basis for pathological diagnosis (histopathological/cytopathological). |  |  |  |  |  |  |
-| dIncludes adenocarcinoma, large cell, and other histologies except those with squamous cell type. |  |  |  |  |  |  |
-| eThe subgroup of "other" represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, squamous cell carcinoma, or large cell carcinoma. |  |  |  |  |  |  |
+| b Unadjusted for multiple comparisons. |  |  |  |  |  |  |
+| c HRs adjusted for ECOG PS, gender, disease stage, and basis for pathological diagnosis (histopathological/cytopathological). |  |  |  |  |  |  |
+| d Includes adenocarcinoma, large cell, and other histologies except those with squamous cell type. |  |  |  |  |  |  |
+| e The subgroup of "other" represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, squamous cell carcinoma, or large cell carcinoma. |  |  |  |  |  |  |
 
 ## 14.2 Non-Small Cell Lung Cancer – Maintenance
 
@@ -160,7 +160,7 @@ Table 15: Maintenance Therapy Following Platinum-Based Induction Therapy: Effica
 | --- | --- | --- | --- | --- |
 | ALIMTA | Placebo | ALIMTA | Placebo |  |
 | Median (months) | Median (months) | Median (months) | Median (months) |  |
-| HRc(95% CI) |  | HRc(95% CI) |  |  |
+| HRc (95% CI) |  | HRc (95% CI) |  |  |
 | Nonsquamous NSCLCd | 15.5 | 10.3 | 4.4 | 1.8 |
 | N=481 | 0.70 (0.56-0.88) |  | 0.47 (0.37-0.60) |  |
 | Adenocarcinoma | 16.8 | 11.5 | 4.6 | 2.7 |
@@ -248,7 +248,7 @@ Table 17: ALIMTA Maintenance Therapy Following ALIMTA Plus Cisplatin Induction T
 A multi-center, randomized, open label study was conducted in patients with Stage III or IV NSCLC after prior chemotherapy to compare the overall survival following treatment with ALIMTA versus docetaxel.
 ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 and docetaxel was administered at 75 mg/m2 as a 1-hour intravenous infusion.
 Both drugs were given on Day 1 of each 21-day cycle.
-All patients treated with ALIMTA received vitamin supplementation with folic acid and vitamin B 12.
+All patients treated with ALIMTA received vitamin supplementation with folic acid and vitamin B12.
 The study was intended to show either an overall survival superiority or non-inferiority of ALIMTA to docetaxel.
 Patient demographics of the intent to treat (ITT) population are shown in Table 18.
 
@@ -314,7 +314,7 @@ Both drugs were given on Day 1 of each 21-day cycle.
 After 117 patients were treated, white cell and GI toxicity led to a change in protocol whereby all patients were given folic acid and vitamin B12 supplementation.
 
 The primary analysis of this study was performed on the population of all patients randomly assigned to treatment who received study drug (randomized and treated).
-An analysis was also performed on patients who received folic acid and vitamin B 12 supplementation during the entire course of study therapy (fully supplemented), as supplementation is recommended [see Dosage and Administration (2.3)].
+An analysis was also performed on patients who received folic acid and vitamin B12 supplementation during the entire course of study therapy (fully supplemented), as supplementation is recommended [see Dosage and Administration (2.3)].
 Results in all patients and those fully supplemented were similar.
 Patient demographics are shown in Table 21.
 

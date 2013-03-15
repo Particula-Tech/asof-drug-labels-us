@@ -68,7 +68,7 @@ Incidence Less than 1%
 - Metabolism and Nutrition — increased GGT
 - Neurology — motor neuropathy
 
-Non-Small Cell Lung Cancer (NSCLC) — Maintenance
+Non-Small Cell Lung Cancer (NSCLC) – Maintenance
 
 ALIMTA Maintenance Following Non-ALIMTA Containing, Platinum-Based Induction Therapy
 
@@ -193,7 +193,7 @@ Incidence Less than 1%
 - 
 - Vascular — pulmonary embolism
 
-Non-Small Cell Lung Cancer (NSCLC) – After Prior Chemotherapy
+Non-Small Cell Lung Cancer (NSCLC) - After Prior Chemotherapy
 
 Table 7 provides the frequency and severity of adverse reactions that have been reported in >5% of 265 patients randomly assigned to receive single-agent ALIMTA with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single-agent docetaxel.
 All patients were diagnosed with locally advanced or metastatic NSCLC and received prior chemotherapy.

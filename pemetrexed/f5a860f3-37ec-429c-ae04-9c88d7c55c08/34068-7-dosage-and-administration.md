@@ -39,7 +39,7 @@ Dose adjustments at the start of a subsequent cycle should be based on nadir hem
 Treatment may be delayed to allow sufficient time for recovery.
 Upon recovery, patients should be retreated using the guidelines in Tables 1-3, which are suitable for using ALIMTA as a single-agent or in combination with cisplatin.
 
-Table 1: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplatin - Hematologic Toxicities
+Table 1: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplatin – Hematologic Toxicities
 
 | Nadir ANC <500/mm3 and nadir platelets ≥50,000/mm3. | 75% of previous dose (pemetrexed and cisplatin). |
 | --- | --- |
@@ -50,7 +50,7 @@ Table 1: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplati
 If patients develop nonhematologic toxicities (excluding neurotoxicity) ≥Grade 3, treatment should be withheld until resolution to less than or equal to the patient's pre-therapy value.
 Treatment should be resumed according to guidelines in Table 2.
 
-Table 2: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplatin - Nonhematologic Toxicitiesa,b
+Table 2: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplatin – Nonhematologic Toxicitiesa,b
 
 |  | Dose of ALIMTA (mg/m2) | Dose of Cisplatin (mg/m2) |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ Table 2: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplati
 In the event of neurotoxicity, the recommended dose adjustments for ALIMTA and cisplatin are described in Table 3.
 Patients should discontinue therapy if Grade 3 or 4 neurotoxicity is experienced.
 
-Table 3: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplatin - Neurotoxicity
+Table 3: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplatin – Neurotoxicity
 
 |  | Dose of ALIMTA | Dose of Cisplatin |
 | --- | --- | --- |
