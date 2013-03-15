@@ -32,10 +32,10 @@ Adverse events were usually mild (38%) or moderate (41%) in intensity.
 
 Table 1 Treatment-Emergent Adverse-Event Incidence in a Double-Blind, Placebo-Controlled 33 Week Trial in Early Parkinson’s Disease (Events ≥2% of Patients Treated with MIRAPEX ER and greater than with Placebo)
 
-|  | % | % | % |
-| --- | --- | --- | --- |
 | Body System/Adverse Event | Placebo | MIRAPEX ER | Immediate-Release Pramipexole |
+| --- | --- | --- | --- |
 |  | (n=103) | (n=223) | (n=213) |
+|  | % | % | % |
 | Nervous system disorders |  |  |  |
 | Somnolence | 15 | 36 | 33 |
 | Dizziness | 7 | 12 | 12 |
@@ -91,10 +91,10 @@ Adverse events were usually mild (32%) or moderate (17%) in intensity.
 
 Table 2 Treatment-Emergent Adverse-Event Incidence in a Double-Blind, Placebo-Controlled Trial in Advanced Parkinson’s Disease* (Events ≥2% of Patients Treated with MIRAPEX ER and greater than with Placebo)
 
-|  | % | % | % |
-| --- | --- | --- | --- |
 | Body System/Adverse Event | Placebo | MIRAPEX ER | Immediate-Release Pramipexole |
+| --- | --- | --- | --- |
 |  | n=178 | n=164 | n=175 |
+|  | % | % | % |
 | Nervous system disorders |  |  |  |
 | Dyskinesia | 8 | 17 | 18 |
 | Headache | 3 | 7 | 4 |

@@ -53,6 +53,6 @@ Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
 
 Trademark under license from: Boehringer Ingelheim International GmbH
 
-©2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+©2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-OT220011UI052012 74988-08
+OT220011WC082013 74988-09

@@ -17,8 +17,8 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 Trademark under license from: Boehringer Ingelheim International GmbH
 
-©2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+©2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: September 2012
+Revised: March 2013
 
-OT220011UI052012 74988-08
+OT220011WC082013 74988-09
