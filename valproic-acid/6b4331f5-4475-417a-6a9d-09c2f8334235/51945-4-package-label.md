@@ -1,11 +1,23 @@
-NDC 0074-5681-16
+NDC 0074–5682–16
 
-16 fl oz Depakene® Valproic Acid Oral Solution, USP 250 mg per 5 mL
+16 fl oz
 
-Rx only
+DEPAKENE®
+
+VALPROIC ACID ORAL SOLUTION, USP
+
+250 mg per 5 mL
+
+Rx only Abbott
 
 NDC 0074–5681–13
 
-100 Capsules Depakene® Valproic Acid Capsules, USP 250 mg
+100 Capsules
 
-Rx only
+DEPAKENE®
+
+VALPROIC ACID CAPSULES, USP
+
+250 mg
+
+Rx only Abbott
