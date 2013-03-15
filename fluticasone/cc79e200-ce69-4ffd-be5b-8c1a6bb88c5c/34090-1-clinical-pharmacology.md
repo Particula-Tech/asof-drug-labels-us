@@ -4,7 +4,6 @@ Like other topical corticosteroids, fluticasone propionate has anti-inflammatory
 The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear.
 However, corticosteroids are thought to act by the induction of phospholipase A2 inhibitory proteins, collectively called lipocortins.
 It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor, arachidonic acid.
-
 Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
 Although fluticasone propionate has a weak affinity for the progesterone receptor and virtually no affinity for the mineralocorticoid, estrogen or androgen receptors, the clinical relevance as related to safety is unknown.
