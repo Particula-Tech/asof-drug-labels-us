@@ -20,6 +20,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210, INDIA.
 
-10 9988 1 642688
+10 9988 2 643613
 
-Issued November 2012
+Issued January 2013

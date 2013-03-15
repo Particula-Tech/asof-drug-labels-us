@@ -32,17 +32,8 @@ After administration of the 10-mg film-coated tablet to fasted adults, the mean 
 The mean oral bioavailability is 64%.
 The oral bioavailability and Cmax are not influenced by a standard meal in the morning.
 
-For the 5-mg chewable tablet, the mean Cmax is achieved in 2 to 2.5 hours after administration to adults in the fasted state.
-The mean oral bioavailability is 73% in the fasted state versus 63% when administered with a standard meal in the morning.
-
-For the 4-mg chewable tablet, the mean Cmax is achieved 2 hours after administration in pediatric patients 2 to 5 years of age in the fasted state.
-
-The 4-mg oral granule formulation is bioequivalent to the 4-mg chewable tablet when administered to adults in the fasted state.
-The co-administration of the oral granule formulation with applesauce did not have a clinically significant effect on the pharmacokinetics of montelukast.
-A high fat meal in the morning did not affect the AUC of montelukast oral granules; however, the meal decreased Cmax by 35% and prolonged Tmax from 2.3 ± 1.0 hours to 6.4 ± 2.9 hours.
-
 The safety and efficacy of montelukast sodium in patients with asthma were demonstrated in clinical trials in which the 10-mg film-coated tablet and 5-mg chewable tablet formulations were administered in the evening without regard to the time of food ingestion.
-The safety of montelukast sodium in patients with asthma was also demonstrated in clinical trials in which the 4-mg chewable tablet were administered in the evening without regard to the time of food ingestion.
+The safety of montelukast sodium in patients with asthma was also demonstrated in clinical trials in which the 4-mg chewable tablet and 4-mg oral granule formulations were administered in the evening without regard to the time of food ingestion.
 The safety and efficacy of montelukast sodium in patients with seasonal allergic rhinitis were demonstrated in clinical trials in which the 10-mg film-coated tablet was administered in the morning or evening without regard to the time of food ingestion.
 
 The comparative pharmacokinetics of montelukast when administered as two 5-mg chewable tablets versus one 10-mg film-coated tablet have not been evaluated.
@@ -91,17 +82,6 @@ Adolescents and Pediatric Patients: Pharmacokinetic studies evaluated the system
 The plasma concentration profile of montelukast following administration of the 10-mg film-coated tablet is similar in adolescents ≥15 years of age and young adults.
 The 10-mg film-coated tablet is recommended for use in patients ≥15 years of age.
 
-The mean systemic exposure of the 4-mg chewable tablet in pediatric patients 2 to 5 years of age and the 5-mg chewable tablets in pediatric patients 6 to 14 years of age is similar to the mean systemic exposure of the 10-mg film-coated tablet in adults.
-The 5-mg chewable tablet should be used in pediatric patients 6 to 14 years of age and the 4-mg chewable tablet should be used in pediatric patients 2 to 5 years of age.
-
-In children 6 to 11 months of age, the systemic exposure to montelukast and the variability of plasma montelukast concentrations were higher than those observed in adults.
-Based on population analyses, the mean AUC (4296 ng•hr/mL [range 1200 to 7153]) was 60% higher and the mean Cmax (667 ng/mL [range 201 to 1058]) was 89% higher than those observed in adults (mean AUC 2689 ng•hr/mL [range 1521 to 4595]) and mean Cmax (353 ng/mL [range 180 to 548]).
-The systemic exposure in children 12 to 23 months of age was less variable, but was still higher than that observed in adults.
-The mean AUC (3574 ng•hr/mL [range 2229 to 5408]) was 33% higher and the mean Cmax (562 ng/mL [range 296 to 814]) was 60% higher than those observed in adults.
-Safety and tolerability of montelukast in a single-dose pharmacokinetic study in 26 children 6 to 23 months of age were similar to that of patients two years and above [see Adverse Reactions (6.1)].
-The 4-mg oral granule formulation should be used for pediatric patients 12 to 23 months of age for the treatment of asthma, or for pediatric patients 6 to 23 months of age for the treatment of perennial allergic rhinitis.
-Since the 4-mg oral granule formulation is bioequivalent to the 4-mg chewable tablet, it can also be used as an alternative formulation to the 4-mg chewable tablet in pediatric patients 2 to 5 years of age.
-
 Drug-Drug Interactions
 
 Theophylline, Prednisone, and Prednisolone: Montelukast sodium has been administered with other therapies routinely used in the prophylaxis and chronic treatment of asthma with no apparent increase in adverse reactions.
@@ -119,7 +99,7 @@ These medications included thyroid hormones, sedative hypnotics, non-steroidal a
 
 Cytochrome P450 (CYP) Enzyme Inducers: Phenobarbital, which induces hepatic metabolism, decreased the area under the plasma concentration curve (AUC) of montelukast approximately 40% following a single 10-mg dose of montelukast.
 No dosage adjustment for montelukast sodium is recommended.
-It is reasonable to employ appropriate clinical monitoring when potent CYP enzyme inducers, such as phenobarbital or rifampin, are co-administered with montelukast sodium.
+It is reasonable to employ appropriate clinical monitoring when potent CYP enzyme inducers, such as phenobarbital or rifampin, are coadministered with montelukast sodium.
 
 Effect of Montelukast on Cytochrome P450 (CYP) Enzymes: Montelukast is a potent inhibitor of CYP2C8 in vitro.
 However, data from a clinical drug-drug interaction study involving montelukast and rosiglitazone (a probe substrate representative of drugs primarily metabolized by CYP2C8) in 12 healthy individuals demonstrated that the pharmacokinetics of rosiglitazone are not altered when the drugs are coadministered, indicating that montelukast does not inhibit CYP2C8 in vivo.

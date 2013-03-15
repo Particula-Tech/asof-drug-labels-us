@@ -30,36 +30,6 @@ The safety profile of montelukast sodium, when administered as a single dose for
 Cumulatively, 569 patients were treated with montelukast sodium for at least 6 months, 480 for one year, and 49 for two years in clinical trials.
 With prolonged treatment, the adverse experience profile did not significantly change.
 
-Pediatric Patients 6 to 14 Years of Age with Asthma
-
-Montelukast sodium has been evaluated for safety in 476 pediatric patients 6 to 14 years of age.
-Cumulatively, 289 pediatric patients were treated with montelukast sodium for at least 6 months, and 241 for one year or longer in clinical trials.
-The safety profile of montelukast sodium in the 8-week, double-blind, pediatric efficacy trial was generally similar to the adult safety profile.
-In pediatric patients 6 to 14 years of age receiving montelukast sodium, the following events occurred with a frequency ≥2% and more frequently than in pediatric patients who received placebo: pharyngitis, influenza, fever, sinusitis, nausea, diarrhea, dyspepsia, otitis, viral infection, and laryngitis.
-The frequency of less common adverse events was comparable between montelukast sodium and placebo.
-With prolonged treatment, the adverse experience profile did not significantly change.
-
-Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-In studies evaluating growth rate, the safety profile in these pediatric patients was consistent with the safety profile previously described for montelukast sodium.
-In a 56-week, double-blind study evaluating growth rate in pediatric patients 6 to 8 years of age receiving montelukast sodium, the following events not previously observed with the use of montelukast sodium in this age group occurred with a frequency ≥ 2% and more frequently than in pediatric patients who received placebo: headache, rhinitis (infective), varicella, gastroenteritis, atopic dermatitis, acute bronchitis, tooth infection, skin infection, and myopia.
-
-Pediatric Patients 2 to 5 Years of Age with Asthma
-
-Montelukast sodium has been evaluated for safety in 573 pediatric patients 2 to 5 years of age in single- and multiple-dose studies.
-Cumulatively, 426 pediatric patients 2 to 5 years of age were treated with montelukast sodium for at least 3 months, 230 for 6 months or longer, and 63 patients for one year or longer in clinical trials.
-In pediatric patients 2 to 5 years of age receiving montelukast sodium, the following events occurred with a frequency ≥ 2% and more frequently than in pediatric patients who received placebo: fever, cough, abdominal pain, diarrhea, headache, rhinorrhea, sinusitis, otitis, influenza, rash, ear pain, gastroenteritis, eczema, urticaria, varicella, pneumonia, dermatitis, and conjunctivitis.
-
-Pediatric Patients 6 to 23 Months of Age with Asthma
-
-Safety and effectiveness in pediatric patients younger than 12 months of age with asthma have not been established.
-
-Montelukast sodium has been evaluated for safety in 175 pediatric patients 6 to 23 months of age.
-The safety profile of montelukast sodium in a 6-week, double-blind, placebo-controlled clinical study was generally similar to the safety profile in adults and pediatric patients 2 to 14 years of age.
-In pediatric patients 6 to 23 months of age receiving montelukast sodium, the following events occurred with a frequency ≥ 2% and more frequently than in pediatric patients who received placebo: upper respiratory infection, wheezing; otitis media; pharyngitis, tonsillitis, cough; and rhinitis.
-The frequency of less common adverse events was comparable between montelukast sodium and placebo.
-
 Adults and Adolescents 15 Years of Age and Older with Seasonal Allergic Rhinitis
 
 Montelukast sodium has been evaluated for safety in 2199 adult and adolescent patients 15 years of age and older in clinical trials.
@@ -67,24 +37,6 @@ Montelukast sodium administered once daily in the morning or in the evening had 
 In placebo-controlled clinical trials, the following event was reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: upper respiratory infection, 1.9% of patients receiving montelukast sodium vs. 1.5% of patients receiving placebo.
 In a 4-week, placebo-controlled clinical study, the safety profile was consistent with that observed in 2-week studies.
 The incidence of somnolence was similar to that of placebo in all studies.
-
-Pediatric Patients 2 to 14 Years of Age with Seasonal Allergic Rhinitis
-
-Montelukast sodium has been evaluated in 280 pediatric patients 2 to 14 years of age in a 2-week, multicenter, double-blind, placebo-controlled, parallel-group safety study.
-Montelukast sodium administered once daily in the evening had a safety profile similar to that of placebo.
-In this study, the following events occurred with a frequency ≥2% and at an incidence greater than placebo: headache, otitis media, pharyngitis, and upper respiratory infection.
-
-Adults and Adolescents 15 Years of Age and Older with Perennial Allergic Rhinitis
-
-Montelukast sodium has been evaluated for safety in 3357 adult and adolescent patients 15 years of age and older with perennial allergic rhinitis of whom 1632 received montelukast sodium in two, 6-week, clinical studies.
-Montelukast sodium administered once daily had a safety profile consistent with that observed in patients with seasonal allergic rhinitis and similar to that of placebo.
-In these two studies, the following events were reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: sinusitis, upper respiratory infection, sinus headache, cough, epistaxis, and increased ALT.
-The incidence of somnolence was similar to that of placebo.
-
-Pediatric Patients 6 Months to 14 Years of Age with Perennial Allergic Rhinitis
-
-The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the safety in patients 2 to 14 years of age with seasonal allergic rhinitis.
-The safety in patients 6 to 23 months of age is supported by data from pharmacokinetic and safety and efficacy studies in asthma in this pediatric population and from adult pharmacokinetic studies.
 
 ## 6.2 Post-Marketing Experience
 
