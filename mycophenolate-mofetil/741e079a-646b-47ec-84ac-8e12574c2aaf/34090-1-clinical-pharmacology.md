@@ -97,7 +97,7 @@ Table 1 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administratio
 | Late (>6 months) | 1.5 g/oral | 1.54 (±0.51) (n=6) | 19.3 (±11.7) (n=6) | 49.3 (±14.8) (n=6) |
 
 Two 500 mg tablets have been shown to be bioequivalent to four 250 mg capsules.
-Five mL of the 200 μg/mL constituted oral suspension have been shown to be bioequivalent to four 250 mg capsules.
+Five mL of the 200 mg/mL constituted oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
 ### Special Populations
 
@@ -123,12 +123,12 @@ In addition, the single-dose plasma MPAG AUC was 3-fold to 6-fold higher in volu
 No data are available on the safety of long-term exposure to this level of MPAG.
 
 Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was 62.4 μg•h/mL (±19.3).
-Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
 In patients with delayed renal graft function posttransplant, mean MPA AUC(0-12h) was comparable to that seen in posttransplant patients without delayed renal graft function.
 There is a potential for a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 However, dose adjustment does not appear to be necessary in patients with delayed renal graft function.
-Mean plasma MPAG AUC(0-12h) was 2-fold to 3-fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Mean plasma MPAG AUC(0-12h) was 2-fold to 3-fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS: Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
 In 8 patients with primary graft non-function following renal transplantation, plasma concentrations of MPAG accumulated about 6-fold to 8-fold after multiple dosing for 28 days.
 Accumulation of MPA was about 1-fold to 2-fold.
@@ -149,7 +149,7 @@ MPA AUC was 44.1 μg•h/mL (±15.5).
 ### Pediatrics
 
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil oral suspension at a dose of 600 μg/m2 bid (up to a maximum of 1 g bid) after allogeneic renal transplantation.
-The pharmacokinetic data for MPA is provided in Table 3:
+The pharmacokinetic data for MPA is provided in Table 3.
 
 Table 3 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Renal Transplantation
 

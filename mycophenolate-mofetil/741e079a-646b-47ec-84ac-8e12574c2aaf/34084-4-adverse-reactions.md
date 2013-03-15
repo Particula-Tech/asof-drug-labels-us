@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
 The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections eg, opportunistic infection (see WARNINGS: Infections and WARNINGS: Latent Viral Infections).
-The adverse event profile associated with the administration of mycophenolate mofetil Intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
+The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
 
-## Mycophenolate mofetil oral
+## Mycophenolate Mofetil Oral
 
 The incidence of adverse events for mycophenolate mofetil was determined in randomized, comparative, double-blind trials in prevention of rejection in renal (2 active, 1 placebo-controlled trials), cardiac (1 active-controlled trial), and hepatic (1 active-controlled trial) transplant patients.
 
@@ -11,11 +11,11 @@ The incidence of adverse events for mycophenolate mofetil was determined in rand
 
 Elderly patients (≥65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals (see PRECAUTIONS).
 
-Safety data are summarized below for all active-controlled trials in renal (2 trials), cardiac (1trial), and hepatic (1 trial) transplant patients.
+Safety data are summarized below for all active-controlled trials in renal (2 trials), cardiac (1 trial), and hepatic (1 trial) transplant patients.
 Approximately 53% of the renal patients, 65% of the cardiac patients, and 48% of the hepatic patients have been treated for more than 1 year.
 Adverse events reported in ≥20% of patients in the mycophenolate mofetil treatment groups are presented below.
 
-Table 8 Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ≥20% of Patients in the Mycophenolate Mofetil Group)
+Table 9 Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ≥20% of Patients in the Mycophenolate Mofetil Group)
 
 |  | % | % | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,23 +108,23 @@ Severe neutropenia (ANC <0.5 × 103/mL) developed in up to 2.0% of renal transpl
 
 All transplant patients are at increased risk of opportunistic infections.
 The risk increases with total immunosuppressive load (see WARNINGS: Infections and WARNINGS: Latent Viral Infections).
-Table 9 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
+Table 10 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
-Table 9 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
+Table 10 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
 
-|  | % | % | % | % | % | % | % |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Renal Studies |  |  |  | Cardiac Study |  | Hepatic Study |  |  |
-|  | MMFMMF= Mycophenolate Mofetil 2 g/day | MMF 3 g/day | Azathioprine 1 to 2 mg/kg/day or 100 to 150 mg/day | MMF 3 g/day | Azathioprine 1.5 to 3 mg/kg/day | MMF 3 g/day | Azathioprine 1 to 2 mg/kg/day |  |
-|  | (n=336) | (n=330) | (n=326) | (n=289) | (n=289) | (n=277) | (n=287) |  |
-| Herpes simplex | 16.7 | 20.0 | 19.0 | 20.8 | 14.5 | 10.1 | 5.9 |  |
-| CMV |  |  |  |  |  |  |  |  |
-| – Viremia/ syndrome | 13.4 | 12.4 | 13.8 | 12.1 | 10.0 | 14.1 | 12.2 |  |
-| – Tissue invasive disease | 8.3 | 11.5 | 6.1 | 11.4 | 8.7 | 5.8 | 8.0 |  |
-| Herpes zoster | 6.0 | 7.6 | 5.8 | 10.7 | 5.9 | 4.3 | 4.9 |  |
-| – Cutaneous disease | 6.0 | 7.3 | 5.5 | 10.0 | 5.5 | 4.3 | 4.9 |  |
-| Candida | 17.0 | 17.3 | 18.1 | 18.7 | 17.6 | 22.4 | 24.4 |  |
-| – Mucocutaneous | 15.5 | 16.4 | 15.3 | 18.0 | 17.3 | 18.4 | 17.4 |  |
+|  | Renal Studies |  |  | Cardiac Study |  | Hepatic Study |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | MMF 2 g/day | MMFMMF= Mycophenolate Mofetil 3 g/day | Azathioprine 1 to 2 mg/kg/day or 100 to 150 mg/day | MMF 3 g/day | Azathioprine 1.5 to 3 mg/kg/day | MMF 3 g/day | Azathioprine 1 to 2 mg/kg/day |
+| (n=336) | (n=330) | (n=326) | (n=289) | (n=289) | (n=277) | (n=287) |  |
+| % | % | % | % | % | % | % |  |
+| Herpes simplex | 16.7 | 20 | 19 | 20.8 | 14.5 | 10.1 | 5.9 |
+| CMV |  |  |  |  |  |  |  |
+| Viremia/ Syndrome | 13.4 | 12.4 | 13.8 | 12.1 | 10.0 | 14.1 | 12.2 |
+| Tissue invasive disease | 8.3 | 11.5 | 6.1 | 11.4 | 8.7 | 5.8 | 8.0 |
+| Herpes zoster | 6.0 | 7.6 | 5.8 | 10.7 | 5.9 | 4.3 | 4.9 |
+| Cutaneous disease | 6 | 7.3 | 5.5 | 10.0 | 5.5 | 4.3 | 4.9 |
+| Candida | 17.0 | 17.3 | 18.1 | 18.7 | 17.6 | 22.4 | 24.4 |
+| Mucocutaneous | 15.5 | 16.4 | 15.3 | 18.0 | 17.3 | 18.4 | 17.4 |
 
 The following other opportunistic infections occurred with an incidence of less than 4% in mycophenolate mofetil patients in the above azathioprine-controlled studies: Herpes zoster, visceral disease; Candida, urinary tract infection, fungemia/disseminated disease, tissue invasive disease; Cryptococcosis; Aspergillus/Mucor; Pneumocystis carinii.
 
@@ -136,7 +136,7 @@ In cardiac transplant patients, the overall incidence of opportunistic infection
 
 The following adverse events were reported with 3% to <20% incidence in renal, cardiac, and hepatic transplant patients treated with mycophenolate mofetil, in combination with cyclosporine and corticosteroids.
 
-Table 10 Adverse Events Reported in 3% to <20% of Patients Treated With Mycophenolate Mofetil in Combination With Cyclosporine and Corticosteroids
+Table 11 Adverse Events Reported in 3% to <20% of Patients Treated With Mycophenolate Mofetil in Combination With Cyclosporine and Corticosteroids
 
 | Body System |  |
 | --- | --- |
@@ -157,7 +157,7 @@ Table 10 Adverse Events Reported in 3% to <20% of Patients Treated With Mycophen
 
 The type and frequency of adverse events in a clinical study in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension 600 μg/m2 bid (up to 1 g bid) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g bid with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
 
-## Mycophenolate mofetil intravenous
+## Mycophenolate Mofetil Intravenous
 
 The adverse event profile of mycophenolate mofetil intravenous was determined from a single, double- blind, controlled comparative study of the safety of 2 g/day of intravenous and oral mycophenolate mofetil in renal transplant patients in the immediate posttransplant period (administered for the first 5 days).
 The potential venous irritation of mycophenolate mofetil intravenous was evaluated by comparing the adverse events attributable to peripheral venous infusion of mycophenolate mofetil intravenous with those observed in the intravenous placebo group; patients in this group received active medication by the oral route.
@@ -169,9 +169,9 @@ The safety profile of intravenous mycophenolate mofetil was similar to that of i
 
 ## Postmarketing Experience
 
-### Congenital Disorders:
+### Congenital Disorders: Embryofetal Toxicity:
 
-Congenital malformations including ear malformations have been reported in offspring of patients exposed to mycophenolate mofetil during pregnancy (see WARNINGS: Pregnancy).
+Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
 
 ### Digestive:
 

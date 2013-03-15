@@ -29,7 +29,7 @@ Table 4 Renal Transplant Studies Incidence of Treatment Failure (Biopsy-proven R
 | USA StudyAntithymocyte globulin induction/MMF or azathioprine/cyclosporine/corticosteroids. (N=499 patients) | Mycophenolate Mofetil 2 g/day (n=167 patients) | Mycophenolate Mofetil 3 g/day (n=166 patients) | Azathioprine 1 to 2 mg/kg/day (n=166 patients) |
 | --- | --- | --- | --- |
 | All treatment failures | 31.1% | 31.3% | 47.6% |
-| Early termination without prior acute rejectionDoes not include death and graft loss as reason for early termination. | 9.6% | 6.0% |  |
+| Early termination without prior acute rejectionDoes not include death and graft loss as reason for early termination. | 9.6% | 12.7% | 6.0% |
 | Biopsy-proven rejection episode on treatment | 19.8% | 17.5% | 38.0% |
 | Europe/Canada/Australia StudyMMF or azathioprine/cyclosporine/corticosteroids. (N=503 patients) | Mycophenolate Mofetil 2 g/day (n=173 patients) | Mycophenolate Mofetil 3 g/day (n=164 patients) | Azathioprine 100 to 150 mg/kg/day (n=166 patients) |
 | All treatment failures | 38.2% | 34.8% | 50.0% |
@@ -87,7 +87,7 @@ A double-blind, randomized, comparative, parallel-group, multicenter study in pr
 The total number of patients enrolled was 565.
 Per protocol, patients received mycophenolate mofetil 1 g bid intravenously for up to 14 days followed by mycophenolate mofetil 1.5 g bid orally or azathioprine 1 to 2 mg/kg/day intravenously followed by azathioprine 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
 The actual median oral dose of azathioprine on study was 1.5 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) initially and 1.26 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) at 12 months.
-The two primary endpoints were: (1) the proportion of patients who experienced, in the first 6 months post-transplantation, one or more episodes of biopsy-proven and treated rejection or death or retransplantation, and (2) the proportion of patients who experienced graft loss (death or retransplantation) during the first 12 months post-transplantation.
+The two primary endpoints were: (1) the proportion of patients who experienced, in the first 6 months posttransplantation, one or more episodes of biopsy-proven and treated rejection or death or retransplantation, and (2) the proportion of patients who experienced graft loss (death or retransplantation) during the first 12 months posttransplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection and for the occurrence of graft loss (death or retransplantation) for 1 year.
 
 ### Results
