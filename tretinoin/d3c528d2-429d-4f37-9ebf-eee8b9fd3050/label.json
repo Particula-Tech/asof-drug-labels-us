@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA020475"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-513-82",
+    "68682-513-84",
+    "68682-513-85",
+    "68682-514-92",
+    "68682-514-94",
+    "68682-514-95"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "tretinoin",
+      "name": "Tretinoin"
+    }
+  ],
+  "setid": "d3c528d2-429d-4f37-9ebf-eee8b9fd3050",
+  "source": "dailymed"
+}
