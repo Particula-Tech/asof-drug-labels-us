@@ -1,7 +1,7 @@
-# CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
-One open-label, multicenter study was conducted with each ELIGARD® formulation (7.5 mg, 22.5 mg, 30 mg, and 45 mg) in patients with Jewett stage A though D prostate cancer who were treated with at least a single injection of study drug (Table 3).
-These studies evaluated the achievement and maintenance of castrate serum testosterone suppression over the duration of therapy (Figures 5–8).
+One open-label, multicenter study was conducted with each ELIGARD® formulation (7.5 mg, 22.5 mg, 30 mg, and 45 mg) in patients with Jewett stage A though D prostate cancer who were treated with at least a single injection of study drug (Table 7).
+These studies evaluated the achievement and maintenance of castrate serum testosterone suppression over the duration of therapy (Figures 15-18).
 
 During the AGL9904 study using ELIGARD® 7.5 mg, once testosterone suppression was achieved, no patients (0%) demonstrated breakthrough (concentration >50 ng/dL) at any time in the study.
 
@@ -21,7 +21,7 @@ During the AGL0205 study using ELIGARD® 45 mg, once testosterone suppression wa
 This patient reached castrate suppression at Day 21 and remained suppressed until Day 308 when his testosterone level rose to 112 ng/dL.
 At Month 12 (Day 336), his testosterone was 210 ng/dL.
 
-Table 3.
+Table 7.
 Summary of ELIGARD® Clinical Studies
 
 |  |  |  | 7.5 mg | 22.5 mg | 30 mg | 45 mg |
@@ -45,18 +45,23 @@ Summary of ELIGARD® Clinical Studies
 | Day 42 | 119 (100%) | - | 89 (100%) | - |  |  |
 | Conclusion | 117Two patients withdrew for reasons unrelated to drug. (100%) | 111 (100%) | 81 (99%) | 102 (99%) |  |  |
 
-Figure 5 ELIGARD® 7.5 mg Mean Serum Testosterone Concentrations (n=117)
+Figure 15.
+ELIGARD® 7.5 mg Mean Serum Testosterone Concentrations (n=117)
 
-Figure 6 ELIGARD® 22.5 mg Mean Serum Testosterone Concentrations (n=111)
+Figure 16.
+ELIGARD® 22.5 mg Mean Serum Testosterone Concentrations (n=111)
 
-Figure 7 ELIGARD® 30 mg Mean Serum Testosterone Concentrations (n=90)
+Figure 17.
+ELIGARD® 30 mg Mean Serum Testosterone Concentrations (n=90)
 
-Figure 8 ELIGARD® 45 mg Mean Serum Testosterone Concentrations (n=103)
+Figure 18.
+ELIGARD® 45 mg Mean Serum Testosterone Concentrations (n=103)
 
 Serum PSA decreased in all patients in all studies whose Baseline values were elevated above the normal limit.
-Refer to Table 4 for a summary of the effectiveness of ELIGARD® in reducing serum PSA values.
+Refer to Table 8 for a summary of the effectiveness of ELIGARD® in reducing serum PSA values.
 
-Table 4 Effect of ELIGARD® on Patient Serum PSA Values
+Table 8.
+Effect of ELIGARD® on Patient Serum PSA Values
 
 | ELIGARD® | 7.5 mg | 22.5 mg | 30 mg | 45 mg |
 | --- | --- | --- | --- | --- |
@@ -64,9 +69,10 @@ Table 4 Effect of ELIGARD® on Patient Serum PSA Values
 | Patients with Normal PSA at Study ConclusionAmong patients who presented with elevated levels at Baseline | 94% | 91% | 93% | 95% |
 
 Other secondary efficacy endpoints evaluated included WHO performance status, bone pain, urinary pain and urinary signs and symptoms.
-Refer to Table 5 for a summary of these endpoints.
+Refer to Table 9 for a summary of these endpoints.
 
-Table 5 Secondary Efficacy Endpoints
+Table 9.
+Secondary Efficacy Endpoints
 
 |  |  | ELIGARD® 7.5 mg | ELIGARD® 22.5 mg | ELIGARD® 30 mg | ELIGARD® 45 mg |
 | --- | --- | --- | --- | --- | --- |

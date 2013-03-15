@@ -1,9 +1,9 @@
-# DESCRIPTION
+# 11. DESCRIPTION
 
-ELIGARD® is a sterile polymeric matrix formulation of leuprolide acetate for subcutaneous injection.
+ELIGARD® is a sterile polymeric matrix formulation of leuprolide acetate, a GnRH agonist, for subcutaneous injection.
 It is designed to deliver leuprolide acetate at a controlled rate over a one-, three-, four- or six-month therapeutic period.
 
-Leuprolide acetate is a synthetic nonapeptide analog of naturally occurring gonadotropin releasing hormone (GnRH or LH-RH) that, when given continuously, inhibits pituitary gonadotropin secretion and suppresses testicular and ovarian steroidogenesis.
+Leuprolide acetate is a synthetic nonapeptide analog of naturally occurring gonadotropin releasing hormone (GnRH) that, when given continuously, inhibits pituitary gonadotropin secretion and suppresses testicular and ovarian steroidogenesis.
 The analog possesses greater potency than the natural hormone.
 The chemical name is 5-oxo-L-prolyl-L-histidyl-L-tryptophyl-L-seryl-L-tyrosyl-D-leucyl-L-leucyl-L-arginyl-N-ethyl-L-prolinamide acetate (salt) with the following structural formula:
 
@@ -14,9 +14,9 @@ ELIGARD® is administered subcutaneously, where it forms a solid drug delivery d
 One syringe contains the ATRIGEL® Delivery System and the other contains leuprolide acetate.
 ATRIGEL® is a polymeric (non-gelatin containing) delivery system consisting of a biodegradable poly (DL-lactide-co-glycolide) (PLGH or PLG) polymer formulation dissolved in a biocompatible solvent, N-methyl-2-pyrrolidone (NMP).
 
-Refer to Table 1 for the delivery system composition and constituted product formulation for each ELIGARD® product.
+Refer to Table 5 for the delivery system composition and constituted product formulation for each ELIGARD® product.
 
-Table 1.
+Table 5.
 ELIGARD® Delivery System Composition and Constituted Product Formulation
 
 |  |  | ELIGARD® 7.5 mg | ELIGARD® 22.5 mg | ELIGARD® 30 mg | ELIGARD® 45 mg |
@@ -29,4 +29,4 @@ ELIGARD® Delivery System Composition and Constituted Product Formulation
 | Leuprolide acetate delivered | 7.5 mg | 22.5 mg | 30 mg | 45 mg |  |
 | Approximate Leuprolide free base equivalent | 7.0 mg | 21 mg | 28 mg | 42 mg |  |
 | Approximate administered formulation weight | 250 mg | 375 mg | 500 mg | 375 mg |  |
-|  | Approximate injection volume | 0.25 mL | 0.375 mL | 0.5 mL | 0.375 mL |
+| Approximate injection volume | 0.25 mL | 0.375 mL | 0.5 mL | 0.375 mL |  |

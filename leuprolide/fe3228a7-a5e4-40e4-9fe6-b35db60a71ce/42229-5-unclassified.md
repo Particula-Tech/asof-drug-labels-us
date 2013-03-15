@@ -1,3 +1,7 @@
-Manufactured by: TOLMAR, Inc. Fort Collins, CO 80526 for: TOLMAR Therapeutics, Inc. Fort Collins, CO 80526 Distributed by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+Revised 02/2013
 
-44380, Rev 1 11/09 Revised 11/2009
+Manufactured by: Tolmar, Inc Fort Collins, CO 80526 for: TOLMAR Therapeutics, Inc. Fort Collins, CO 80526
+
+Distributed by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+
+©2013 sanofi-aventis U.S. LLC

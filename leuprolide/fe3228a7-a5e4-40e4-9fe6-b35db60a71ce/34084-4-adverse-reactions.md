@@ -1,15 +1,18 @@
-# ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
+
+## 6.1 Clinical trial experience
 
 The safety of all ELIGARD® formulations was evaluated in clinical trials involving patients with advanced prostate cancer.
-In addition, the safety of ELIGARD® 7.5 mg was evaluated in 8 surgically castrated males (Table 7).
-ELIGARD®, like other LH-RH analogs, caused a transient increase in serum testosterone concentrations during the first one to two weeks of treatment.
+In addition, the safety of ELIGARD® 7.5 mg was evaluated in 8 surgically castrated males (Table 4).
+ELIGARD®, like other GnRH analogs, caused a transient increase in serum testosterone concentrations during the first one to two weeks of treatment.
 Therefore, potential exacerbations of signs and symptoms of the disease during the first weeks of treatment are of concern in patients with vertebral metastases and/or urinary obstruction or hematuria.
-If these conditions are aggravated, it may lead to neurological problems such as weakness and/or paresthesia of the lower limbs or worsening of urinary symptoms (see WARNINGS and PRECAUTIONS).
+If these conditions are aggravated, it may lead to neurological problems such as weakness and/or paresthesia of the lower limbs or worsening of urinary symptoms [see WARNINGS AND PRECAUTIONS (5.2)].
 
 During the clinical trials, injection sites were closely monitored.
-Refer to Table 6 for a summary of reported injection site events.
+Refer to Table 3 for a summary of reported injection site events.
 
-Table 6 Reported Injection Site Adverse Events
+Table 3.
+Reported Injection Site Adverse Events
 
 |  | 7.5 mg | 22.5 mg | 30 mg | 45 mg |
 | --- | --- | --- | --- | --- |
@@ -32,7 +35,8 @@ The following possibly or probably related systemic adverse events occurred duri
 Often, causality is difficult to assess in patients with metastatic prostate cancer.
 Reactions considered not drug-related are excluded.
 
-Table 7 Summary of Possible or Probably Related Systemic Adverse Events Reported by > 2% of Patients treated with ELIGARD®
+Table 4.
+Summary of Possible or Probably Related Systemic Adverse Events Reported by > 2% of Patients treated with ELIGARD®
 
 |  |  | 7.5 mg | 7.5 mg | 22.5 mg | 30 mg | 45 mg |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -43,11 +47,11 @@ Table 7 Summary of Possible or Probably Related Systemic Adverse Events Reported
 | Body as a Whole | Malaise and Fatigue | 21 (17.5 %) |  | 7 (6.0%) | 12 (13.3%) | 13 (11.7%) |
 | Weakness |  |  |  |  | 4 (3.6%) |  |
 | Nervous System | Dizziness | 4 (3.3%) |  |  | 4 (4.4%) |  |
-| Vascular | Hot flashes/sweats | 68 (56.7%)Expected pharmacological consequences of testosterone suppression. | 2 (25.0%) | 66 (56.4%) | 66 (73.3%) | 64 (57.7%) |
+| Vascular | Hot flashes/sweats | 68 (56.7%)Expected pharmacological consequences of testosterone suppression. In the patient populations studied with ELIGARD® 7.5 mg, a total of 86 hot flashes/sweats adverse events were reported in 70 patients. Of these, 71 events (83%) were mild; 14 (16%) were moderate; 1 (1%) was severe. In the patient population studied with ELIGARD® 22.5 mg, a total of 84 hot flashes/sweats adverse events were reported in 66 patients. Of these, 73 events (87%) were mild; 11 (13%) were moderate; none were severe. In the patient population studied with ELIGARD® 30 mg, a total of 75 hot flash adverse events were reported in 66 patients. Of these, 57 events (76%) were mild; 16 (21%) were moderate; 2 (3%) were severe. In the patient population studied with ELIGARD® 45 mg, a total of 89 hot flash adverse events were reported in 64 patients. Of these, 62 events (70%) were mild; 27 (30%) were moderate; none were severe. | 2 (25.0%) | 66 (56.4%) | 66 (73.3%) | 64 (57.7%) |
 | Renal/Urinary | Urinary frequency |  |  | 3 (2.6%) | 2 (2.2%) |  |
 | Nocturia |  |  |  | 2 (2.2%) |  |  |
 | Gastrointestinal | Nausea |  |  | 4 (3.4%) | 2 (2.2%) |  |
-|  | Gastroenteritis/colitis | 3 (2.5%) |  |  |  |  |
+| Gastroenteritis/colitis | 3 (2.5%) |  |  |  |  |  |
 | Skin | Pruritis |  |  | 3 (2.6%) |  |  |
 | Clamminess |  |  |  | 4 (4.4%) |  |  |
 | Night sweats |  |  |  | 3 (3.3%) | 3 (2.7%) |  |
@@ -59,7 +63,6 @@ Table 7 Summary of Possible or Probably Related Systemic Adverse Events Reported
 | Gynecomastia |  |  |  | 2 (2.2%) | 4 (3.6%) |  |
 | Testicular pain |  |  |  | 2 (2.2%) |  |  |
 | Psychiatric | Decreased libido |  |  |  | 3 (3.3%) |  |
-| In the patient populations studied with ELIGARD® 7.5 mg, a total of 86 hot flashes/sweats adverse events were reported in 70 patients. Of these, 71 events (83%) were mild; 14 (16%) were moderate; 1 (1%) was severe. In the patient population studied with ELIGARD® 22.5 mg, a total of 84 hot flashes/sweats adverse events were reported in 66 patients. Of these, 73 events (87%) were mild; 11 (13%) were moderate; none were severe. In the patient population studied with ELIGARD® 30 mg, a total of 75 hot flash adverse events were reported in 66 patients. Of these, 57 events (76%) were mild; 16 (21%) were moderate; 2 (3%) were severe. In the patient population studied with ELIGARD® 45 mg, a total of 89 hot flash adverse events were reported in 64 patients. Of these, 62 events (70%) were mild; 27 (30%) were moderate; none were severe. |  |  |  |  |  |  |
 
 In addition, the following possibly or probably related systemic adverse events were reported by < 2% of the patients treated with ELIGARD® in these clinical studies.
 
@@ -77,17 +80,14 @@ In addition, the following possibly or probably related systemic adverse events 
 | Skin | Alopecia, clamminess, night sweats, sweating increased |
 | Vascular | Hypertension, hypotension |
 
-## Changes in Bone Density
-
-Decreased bone density has been reported in the medical literature in men who have had orchiectomy or who have been treated with an LH-RH agonist analog.Hatano T et al. Incidence of bone fracture in patients receiving luteinizing hormone-releasing hormone agonists for prostate cancer.
-BJU International 2000 86: 449–452.
+Changes in Bone Density: Decreased bone density has been reported in the medical literature in men who have had orchiectomy or who have been treated with a GnRH agonist analog.
 It can be anticipated that long periods of medical castration in men will have effects on bone density.
 
-## Post-Marketing
-
-### Pituitary apoplexy
+## 6.2 Postmarketing experience
 
 During post-marketing surveillance, rare cases of pituitary apoplexy (a clinical syndrome secondary to infarction of the pituitary gland) have been reported after the administration of gonadotropin-releasing hormone agonists.
 In a majority of these cases, a pituitary adenoma was diagnosed with a majority of pituitary apoplexy cases occurring within 2 weeks of the first dose, and some within the first hour.
 In these cases, pituitary apoplexy has presented as sudden headache, vomiting, visual changes, ophthalmoplegia, altered mental status, and sometimes cardiovascular collapse.
 Immediate medical attention has been required.
+
+Convulsions have also been reported in the postmarketing setting.

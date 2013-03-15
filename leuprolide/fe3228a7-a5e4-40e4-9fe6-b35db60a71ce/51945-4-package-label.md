@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 7.5 mg Carton
+PRINCIPAL DISPLAY PANEL - 7.5 mg Carton
 
 E-907
 
@@ -22,7 +22,7 @@ Rx Only
 
 sanofi aventis
 
-# PRINCIPAL DISPLAY PANEL - 7.5 mg Syringe
+PRINCIPAL DISPLAY PANEL - 7.5 mg Syringe
 
 Rx Only NDC 0024-0794-75 E-907 Syringe A
 
@@ -36,7 +36,7 @@ sanofi aventis
 
 LOT: EXP:
 
-# PRINCIPAL DISPLAY PANEL - 7.5 mg Diluent
+PRINCIPAL DISPLAY PANEL - 7.5 mg Diluent
 
 Syringe B
 
@@ -65,7 +65,7 @@ Lot #
 
 Exp.
 
-# PRINCIPAL DISPLAY PANEL - 22.5 mg Carton
+PRINCIPAL DISPLAY PANEL - 22.5 mg Carton
 
 E-922
 
@@ -89,7 +89,7 @@ Rx Only
 
 sanofi aventis
 
-# PRINCIPAL DISPLAY PANEL - 22.5 mg Syringe
+PRINCIPAL DISPLAY PANEL - 22.5 mg Syringe
 
 Rx Only NDC 0024-0223-05 E-922 Syringe A
 
@@ -103,7 +103,7 @@ sanofi aventis
 
 LOT: EXP:
 
-# PRINCIPAL DISPLAY PANEL - 22.5 mg Diluent
+PRINCIPAL DISPLAY PANEL - 22.5 mg Diluent
 
 Syringe B
 
@@ -132,7 +132,7 @@ Lot #
 
 Exp.
 
-# PRINCIPAL DISPLAY PANEL - 30 mg Carton
+PRINCIPAL DISPLAY PANEL - 30 mg Carton
 
 E-130
 
@@ -156,7 +156,7 @@ Rx Only
 
 sanofi aventis
 
-# PRINCIPAL DISPLAY PANEL - 30 mg Syringe
+PRINCIPAL DISPLAY PANEL - 30 mg Syringe
 
 Rx Only NDC 0024-0611-30 E-130 Syringe A
 
@@ -170,7 +170,7 @@ sanofi aventis
 
 LOT: EXP:
 
-# PRINCIPAL DISPLAY PANEL - 30 mg Diluent
+PRINCIPAL DISPLAY PANEL - 30 mg Diluent
 
 Syringe B
 
@@ -199,7 +199,7 @@ Lot #
 
 Exp.
 
-# PRINCIPAL DISPLAY PANEL - 45 mg Carton
+PRINCIPAL DISPLAY PANEL - 45 mg Carton
 
 E-045
 
@@ -223,7 +223,7 @@ Rx Only
 
 sanofi aventis
 
-# PRINCIPAL DISPLAY PANEL - 45 mg Syringe
+PRINCIPAL DISPLAY PANEL - 45 mg Syringe
 
 Rx ONLY NDC 0024-0606-45 E-045 Syringe A
 
@@ -237,7 +237,7 @@ sanofi aventis
 
 LOT: EXP:
 
-# PRINCIPAL DISPLAY PANEL - 45 mg Diluent
+PRINCIPAL DISPLAY PANEL - 45 mg Diluent
 
 Syringe B
 
