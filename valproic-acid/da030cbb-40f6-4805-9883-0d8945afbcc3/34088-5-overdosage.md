@@ -1,7 +1,7 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Overdosage with valproate may result in somnolence, heart block, and deep coma.
-Fatalities have been reported; however patients have recovered from valproate serum concentrations as high as 2120 µg/mL.
+Fatalities have been reported; however patients have recovered from valproate serum concentrations as high as 2120 mcg/mL.
 
 In overdose situations, the fraction of drug not bound to protein is high and hemodialysis or tandem hemodialysis plus hemoperfusion may result in significant removal of drug.
 General supportive measures should be applied with particular attention to the maintenance of adequate urinary output.

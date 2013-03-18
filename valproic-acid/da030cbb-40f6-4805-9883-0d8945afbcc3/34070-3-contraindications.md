@@ -1,7 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-VALPROATE SODIUM INJECTION SHOULD NOT BE ADMINISTERED TO PATIENTS WITH HEPATIC DISEASE OR SIGNIFICANT HEPATIC DYSFUNCTION.
+Depacon should not be administered to patients with hepatic disease or significant hepatic dysfunction [see Warnings and Precautions (5.1)].
 
-Valproate sodium injection is contraindicated in patients with known hypersensitivity to the drug.
+Depacon is contraindicated in patients with known hypersensitivity to the drug [see Warnings and Precautions (5.10)].
 
-Valproate sodium injection is contraindicated in patients with known urea cycle disorders (see WARNINGS).
+Depacon is contraindicated in patients with known urea cycle disorders [see Warnings and Precautions (5.5)].
