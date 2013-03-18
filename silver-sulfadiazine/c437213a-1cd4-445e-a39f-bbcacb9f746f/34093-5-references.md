@@ -11,8 +11,6 @@
    J Trauma.
    1977; 17:835–836.
 
-Prescribing Information as of July 2003.
-
 Distributed by:
 
 Monarch Pharmaceuticals, Inc.
@@ -26,3 +24,7 @@ Manufactured by:
 King Pharmaceuticals, Inc.
 
 Bristol, TN 37620
+
+LAB-0647-2.0
+
+February 2013

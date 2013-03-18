@@ -1,9 +1,21 @@
-# LabelGraphics1
+# PRINCIPAL DISPLAY PANEL - 20 g Tube Label
 
-# LabelGraphics2
+NDC 61570-131-20
 
-# LabelGraphics3
+SILVADENE® (silver sulfadiazine) CREAM 1%
 
-# LabelGraphic4
+FOR TOPICAL USE ONLY.
 
-# LabelGraphics5
+Dosage and Administration: Read package insert for prescribing information.
+
+Rx Only
+
+KEEP OUT OF REACH OF CHILDREN
+
+Store at controlled room temper- ature 59°–86°F (15°–30°C).
+
+20 grams
+
+Monarch Pharmaceuticals®
+
+U.S. Patent 3,761,590
