@@ -104,6 +104,8 @@ Although there were few non-Caucasian patients, no differences in the incidences
 The following adverse reactions have been identified during postapproval use of VIMPAT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Blood and lymphatic system disorders: Agranulocytosis
+
 Cardiac disorders: Atrioventricular block, atrial fibrillation, atrial flutter, bradycardia
 
 Immune system disorders: Drug hypersensitivity reactions

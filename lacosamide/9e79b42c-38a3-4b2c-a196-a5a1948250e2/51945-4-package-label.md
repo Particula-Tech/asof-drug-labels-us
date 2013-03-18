@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
+PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
 
 NDC 0131-2477-35
 
@@ -10,7 +10,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
 
 NDC 0131-2478-35
 
@@ -22,7 +22,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-# PRINCIPAL DISPLAY PANEL - 150 mg Bottle Label
+PRINCIPAL DISPLAY PANEL - 150 mg Bottle Label
 
 NDC 0131-2479-35
 
@@ -34,7 +34,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
+PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
 
 NDC 0131-2480-35
 
