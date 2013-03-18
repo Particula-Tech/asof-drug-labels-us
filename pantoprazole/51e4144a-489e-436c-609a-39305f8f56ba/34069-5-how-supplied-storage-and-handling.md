@@ -17,8 +17,7 @@ Each vial (NDC 0008-0923-51) contains PROTONIX I.V. for Injection (each vial con
 
 ### Storage and Handling
 
-Store PROTONIX I.V. for Injection vials at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F).
-[See USP Controlled Room Temperature.]
+Store PROTONIX I.V. for Injection vials at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature].
 
 Protect from light.
 The reconstituted product should not be frozen.
