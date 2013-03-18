@@ -30,7 +30,8 @@ Table Adverse Experiences by Body System, Number of Patients and Number of Occur
 | Paresthesia | 1 (1) | 1 (1) |  |
 | Respiratory System | Dyspnea | 0 (0) | 1 (1) |
 | Rhinitis | 1 (1) | 2 (2) |  |
-| * There may be a possible relationship between these adverse experiences and the study drugs. These adverse experiences could have also been produced by the patient’s clinical state or other concomitant therapy.± Sore throat, Common cold |  |  |  |
+| * There may be a possible relationship between these adverse experiences and the study drugs. These adverse experiences could have also been produced by the patient’s clinical state or other concomitant therapy. |  |  |  |
+| ± Sore throat, Common cold |  |  |  |
 
 The intensity of the reported adverse experiences following the administration of Nascobal (Cyanocobalamin, USP) Gel for Intranasal Administration and intramuscular vitamin B12 were generally mild.
 One patient reported severe headache following intramuscular dosing.
