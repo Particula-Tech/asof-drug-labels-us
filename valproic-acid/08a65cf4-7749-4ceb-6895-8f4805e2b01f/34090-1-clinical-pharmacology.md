@@ -1,16 +1,33 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
 Divalproex sodium dissociates to the valproate ion in the gastrointestinal tract.
 The mechanisms by which valproate exerts its therapeutic effects have not been established.
 It has been suggested that its activity in epilepsy is related to increased brain concentrations of gamma-aminobutyric acid (GABA).
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-### Absorption/Bioavailability
+The relationship between plasma concentration and clinical response is not well documented.
+One contributing factor is the nonlinear, concentration dependent protein binding of valproate which affects the clearance of the drug.
+Thus, monitoring of total serum valproate cannot provide a reliable index of the bioactive valproate species.
 
-Equivalent oral doses of DEPAKOTE (divalproex sodium) products and DEPAKENE (valproic acid) capsules deliver equivalent quantities of valproate ion systemically.
+For example, because the plasma protein binding of valproate is concentration dependent, the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
+Higher than expected free fractions occur in the elderly, in hyperlipidemic patients, and in patients with hepatic and renal diseases.
+
+Epilepsy
+
+The therapeutic range in epilepsy is commonly considered to be 50 to 100 mcg/mL of total valproate, although some patients may be controlled with lower or higher plasma concentrations.
+
+Mania
+
+In placebo-controlled clinical trials of acute mania, patients were dosed to clinical response with trough plasma concentrations between 50 and 125 mcg/mL [see Dosage and Administration (2.1)].
+
+## 12.3 Pharmacokinetics
+
+Absorption/Bioavailability
+
+Equivalent oral doses of Depakote (divalproex sodium) products and Depakene (valproic acid) capsules deliver equivalent quantities of valproate ion systemically.
 Although the rate of valproate ion absorption may vary with the formulation administered (liquid, solid, or sprinkle), conditions of use (e.g., fasting or postprandial) and the method of administration (e.g., whether the contents of the capsule are sprinkled on food or the capsule is taken intact), these differences should be of minor clinical importance under the steady state conditions achieved in chronic use in the treatment of epilepsy.
 
 However, it is possible that differences among the various valproate products in Tmax and Cmax could be important upon initiation of treatment.
@@ -20,23 +37,22 @@ While the absorption rate from the G.I. tract and fluctuation in valproate plasm
 Experience employing dosing regimens from once-a-day to four-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicate that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations between valproate formulations are inconsequential from a practical clinical standpoint.
 Whether or not rate of absorption influences the efficacy of valproate as an antimanic or antimigraine agent is unknown.
 
-Co-administration of oral valproate products with food and substitution among the various DEPAKOTE and DEPAKENE formulations should cause no clinical problems in the management of patients with epilepsy (see DOSAGE AND ADMINISTRATION).
+Co-administration of oral valproate products with food and substitution among the various Depakote and Depakene formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.2)].
 Nonetheless, any changes in dosage administration, or the addition or discontinuance of concomitant drugs should ordinarily be accompanied by close monitoring of clinical status and valproate plasma concentrations.
 
-### Distribution
+Distribution
 
-#### Protein Binding
+Protein Binding
 
-The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 µg/mL to 18.5% at 130 µg/mL.
+The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
 Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (e.g., aspirin).
-Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide).
-(See PRECAUTIONS - Drug Interactions for more detailed information on the pharmacokinetic interactions of valproate with other drugs.)
+Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see Drug Interactions (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
 
-#### CNS Distribution
+CNS Distribution
 
 Valproate concentrations in cerebrospinal fluid (CSF) approximate unbound concentrations in plasma (about 10% of total concentration).
 
-### Metabolism
+Metabolism
 
 Valproate is metabolized almost entirely by the liver.
 In adult patients on monotherapy, 30-50% of an administered dose appears in urine as a glucuronide conjugate.
@@ -47,19 +63,19 @@ Less than 3% of an administered dose is excreted unchanged in urine.
 The relationship between dose and total valproate concentration is nonlinear; concentration does not increase proportionally with the dose, but rather, increases to a lesser extent due to saturable plasma protein binding.
 The kinetics of unbound drug are linear.
 
-### Elimination
+Elimination
 
 Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m2 and 11 L/1.73 m2, respectively.
 Mean plasma clearance and volume of distribution for free valproate are 4.6 L/hr/1.73 m2 and 92 L/1.73 m2.
-Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1000 mg.
+Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1,000 mg.
 
 The estimates cited apply primarily to patients who are not taking drugs that affect hepatic metabolizing enzyme systems.
 For example, patients taking enzyme-inducing antiepileptic drugs (carbamazepine, phenytoin, and phenobarbital) will clear valproate more rapidly.
 Because of these changes in valproate clearance, monitoring of antiepileptic concentrations should be intensified whenever concomitant antiepileptics are introduced or withdrawn.
 
-### Special Populations
+Special Populations
 
-#### Effect of Age
+Effect of Age
 
 Neonates
 
@@ -76,46 +92,28 @@ Elderly
 
 The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26).
 Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
-Accordingly, the initial dosage should be reduced in the elderly (See DOSAGE AND ADMINISTRATION).
+Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.4)].
 
-#### Effect of Gender
+Effect of Sex
 
 There are no differences in the body surface area adjusted unbound clearance between males and females (4.8±0.17 and 4.7±0.07 L/hr per 1.73 m2, respectively).
 
-#### Effect of Race
+Effect of Race
 
 The effects of race on the kinetics of valproate have not been studied.
 
-#### Effect of Disease
+Effect of Disease
 
 Liver Disease
 
-(See BOXED WARNING, CONTRAINDICATIONS, and WARNINGS).
 Liver disease impairs the capacity to eliminate valproate.
 In one study, the clearance of free valproate was decreased by 50% in 7 patients with cirrhosis and by 16% in 4 patients with acute hepatitis, compared with 6 healthy subjects.
 In that study, the half-life of valproate was increased from 12 to 18 hours.
 Liver disease is also associated with decreased albumin concentrations and larger unbound fractions (2 to 2.6 fold increase) of valproate.
-Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal.
+Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [see Boxed Warning, Contraindications (4) and Warnings and Precautions (5.1)].
 
 Renal Disease
 
 A slight reduction (27%) in the unbound clearance of valproate has been reported in patients with renal failure (creatinine clearance < 10 mL/minute); however, hemodialysis typically reduces valproate concentrations by about 20%.
 Therefore, no dosage adjustment appears to be necessary in patients with renal failure.
 Protein binding in these patients is substantially reduced; thus, monitoring total concentrations may be misleading.
-
-### Plasma Levels and Clinical Effect
-
-The relationship between plasma concentration and clinical response is not well documented.
-One contributing factor is the nonlinear, concentration dependent protein binding of valproate which affects the clearance of the drug.
-Thus, monitoring of total serum valproate cannot provide a reliable index of the bioactive valproate species.
-
-For example, because the plasma protein binding of valproate is concentration dependent, the free fraction increases from approximately 10% at 40 µg/mL to 18.5% at 130 µg/mL.
-Higher than expected free fractions occur in the elderly, in hyperlipidemic patients, and in patients with hepatic and renal diseases.
-
-#### Epilepsy
-
-The therapeutic range in epilepsy is commonly considered to be 50 to 100 µg/mL of total valproate, although some patients may be controlled with lower or higher plasma concentrations.
-
-#### Mania
-
-In placebo-controlled clinical trials of acute mania, patients were dosed to clinical response with trough plasma concentrations between 50 and 125 µg/mL (See DOSAGE AND ADMINISTRATION).

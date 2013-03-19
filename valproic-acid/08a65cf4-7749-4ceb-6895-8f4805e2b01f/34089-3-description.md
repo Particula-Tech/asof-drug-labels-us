@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Divalproex sodium is a stable co-ordination compound comprised of sodium valproate and valproic acid in a 1:1 molar relationship and formed during the partial neutralization of valproic acid with 0.5 equivalent of sodium hydroxide.
 Chemically it is designated as sodium hydrogen bis(2-propylpentanoate).
@@ -6,12 +6,12 @@ Divalproex sodium has the following structure:
 
 Divalproex sodium occurs as a white powder with a characteristic odor.
 
-DEPAKOTE tablets are for oral administration.
-DEPAKOTE tablets are supplied in three dosage strengths containing divalproex sodium equivalent to 125 mg, 250 mg, or 500 mg of valproic acid.
+Depakote tablets are for oral administration.
+Depakote tablets are supplied in three dosage strengths containing divalproex sodium equivalent to 125 mg, 250 mg, or 500 mg of valproic acid.
 
-## Inactive Ingredients
+Inactive Ingredients
 
-DEPAKOTE tablets: cellulosic polymers, diacetylated monoglycerides, povidone, pregelatinized starch (contains corn starch), silica gel, talc, titanium dioxide, and vanillin.
+Depakote tablets: cellulosic polymers, diacetylated monoglycerides, povidone, pregelatinized starch (contains corn starch), silica gel, talc, titanium dioxide, and vanillin.
 
 In addition, individual tablets contain:
 
