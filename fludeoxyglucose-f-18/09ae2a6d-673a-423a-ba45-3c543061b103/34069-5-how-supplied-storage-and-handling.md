@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND DRUG HANDLING
 
-Fludeoxyglucose F 18 Injection is supplied in multiple dose vials containing between 0.740 – 11.1 GBq/mL (20 - 300 mCi/mL), of no carrier added 2-deoxy-2-[F 18] fluoro-D-glucose, at end of synthesis.
+Fludeoxyglucose F 18 Injection is supplied in multiple dose vials containing between 0.74 - 18.5 GBq (20 - 500 mCi), of no carrier added 2-deoxy-2-[F 18] fluoro-D-glucose, at end of synthesis.
 The contents of each vial are sterile, pyrogen-free and preservative-free.
 
 NDC Code: 30 mL Vial: NDC 52768-001-30 50 mL Vial: NDC 52768-001-50
