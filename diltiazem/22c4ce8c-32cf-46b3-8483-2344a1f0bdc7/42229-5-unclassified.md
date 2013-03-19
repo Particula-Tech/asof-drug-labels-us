@@ -1,5 +1,3 @@
-Rx only
-
 Once-a-Day Dosage
 
 ® Cardizem is a registered trademark of Biovail Laboratories International SRL.

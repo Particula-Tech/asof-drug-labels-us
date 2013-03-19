@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021392"
+  ],
   "inn": "diltiazem",
-  "labeler": "Kos Pharmaceuticals, Inc.",
+  "labeler": "AbbVie Inc.",
   "package_ndcs": [
     "60598-120-30",
     "60598-120-90",
@@ -16,7 +18,13 @@
     "60598-125-30",
     "60598-125-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "diltiazem hydrochloride",
+      "name": "Cardizem LA"
+    }
+  ],
   "setid": "22c4ce8c-32cf-46b3-8483-2344a1f0bdc7",
   "source": "dailymed"
 }
