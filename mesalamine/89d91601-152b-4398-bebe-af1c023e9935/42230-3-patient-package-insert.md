@@ -1,98 +1,135 @@
-# Patient Information
+# FDA-Approved Patient Labeling
 
-CANASA® Rectal Suppositories
+Patient Information
 
-(Mesalamine, USP) 1000 mg
-
-Read this information carefully before you begin treatment.
-Also, read the information you get whenever you get more medicine.
+Read the Patient Information leaflet that comes with CANASA before you start taking it and each time you get a refill.
 There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
-If you have any questions about this medicine, ask your doctor or pharmacist.
+This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
+If you have any questions about CANASA, ask your doctor or pharmacist.
 
-## What is CANASA®?
+What is CANASA?
 
-CANASA® (can-AH-sah) is a medicine used to treat ulcerative proctitis (ulcerative rectal colitis).
-CANASA® works inside your rectum (lower intestine) to help reduce bleeding, mucous and bloody diarrhea caused by inflammation (swelling and soreness) of the rectal area.
-You use CANASA® by inserting it into your rectum.
+CANASA is a prescription medicine used to treat active ulcerative proctitis (ulcerative rectal colitis).
 
-## Who should not use CANASA®?
+It is not known if CANASA is safe and effective for use for longer than 6 weeks.
 
-Do not use CANASA® if you are allergic to the active ingredient mesalamine (also found in drugs such as Rowasa, Asacol, Pentasa, Azulfidine, and Dipentum), if you are allergic to the inactive ingredients, or if you have had any unusual reaction to the ingredients.
+It is not known if CANASA is safe and effective in children.
 
-Tell your doctor if you:
+Who should not use CANASA?
 
-- Have kidney problems.
-  Using CANASA® may make them worse.
-- Have had inflamed pancreas (pancreatitis).
-- Are pregnant.
-  You and your doctor will decide if you should use CANASA®.
-- Have ever had pericarditis (inflamed sac around your heart).
-- Are allergic to sulfasalazine.
-  You may need to watch for signs of an allergic reaction to CANASA®.
-- Are allergic to aspirin.
-- Are allergic to other things, such as foods, preservatives, or dyes.
+Do not use CANASA if you are:
+
+- allergic to medicines that contain salicylates, including aspirin.
+- allergic to mesalamine or any of the ingredients in CANASA.
+  See the end of this leaflet for a complete list of ingredients in CANASA.
+
+Ask your doctor if you are not sure if your medicine is listed above.
+
+What should I tell my doctor before using CANASA?
+
+Before using CANASA, tell your doctor if you:
+
+- have a history of allergic reaction to the medicine sulfasalazine (Azulfidine)
+- have kidney problems
+- have ever had inflammation of the sac around your heart (pericarditis).
+- have any other medical condition
+- are pregnant or plan to become pregnant.
+  It is not known if CANASA can harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  CANASA can pass into your milk.
+  Talk to your doctor about the best way to feed your baby if you use CANASA.
+
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
+
+How should I use CANASA?
+
+- Use CANASA exactly as prescribed by your doctor.
+  Your doctor will tell you how long to continue using CANASA.
+- CANASA comes as a suppository that you insert into your rectum.
+- CANASA is used 1 time each day, at bedtime.
+- After CANASA is inserted in your rectum, you should try to keep (retain) the suppository in your rectum for 1 to 3 hours, or longer if possible.
+- CANASA can cause staining of surfaces including, clothing, and other fabrics, flooring, painted surfaces, marble, granite, vinyl and enamel.
+  Keep CANASA away from these surfaces to prevent staining.
+
+What are the possible side effects of CANASA?
+
+CANASA may cause serious side effects, including:
+
+Allergic type reactions.
+This can include sudden symptoms called "Acute intolerance syndrome."
+When this happens, it is usually in people who have had an allergic reaction to medicines containing sulfasalazine.
+Stop using CANASA and tell your doctor right away if you get any of these symptoms:
+
+- cramps
+- stomach (abdominal) pain
+- bloody diarrhea
+- fever
+- headache
+- rash
+
+- Inflammation of the sac around the heart (pericarditis).
+  Tell your doctor right away if you get chest pain or shortness of breath.
+  Your doctor may tell you to stop using CANASA if you get pericarditis.
+
+The most common side effects of CANASA include:
+
+- dizziness
+- acne
+- colitis (inflammation of the colon)
+- rectal pain (pain in the final portion of the large intestine)
+- fever
+- rash
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
+
+These are not all of the possible side effects of CANASA.
+For more information ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-## How should I use CANASA®?
+How should I store CANASA?
 
-Follow your doctor’s instructions about how often to use CANASA® and how long to use it.
-For the 1000 mg suppository, the usual dose is one suppository at bedtime for 3-6 weeks.
-We do not know if CANASA® will work for children or is safe for them.
+- Store CANASA below 77°F (25°C)
+- CANASA may be refrigerated.
+- Keep CANASA away from direct heat, light or humidity.
 
-Follow these steps to use CANASA®:
+Keep CANASA and all medicines out of the reach of children.
 
-1. For best results, empty your rectum (have a bowel movement) just before using CANASA®.
-2. Detach one CANASA® suppository from the strip of suppositories.
-3. Hold the suppository upright and carefully peel open the plastic at the pre-cut line to take out the suppository.
-4. Insert the suppository with the pointed end first completely into your rectum, using gentle pressure.
-5. For best results, keep the suppository in your rectum for 3 hours or longer, if possible.
+General information about CANASA
 
-If you have trouble inserting CANASA®, you may put a little bit of lubricating gel on the suppository.
+Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
+Do not use CANASA for a condition for which it was not prescribed.
+Do not give CANASA to other people, even if they have the same symptoms you have.
+It may harm them.
 
-Do not handle the suppository too much, since it may begin to melt from the heat from your hands and body.
-
-If you miss a dose of CANASA®, use it as soon as possible, unless it is almost time for next dose.
-Do not use two CANASA® suppositories at the same time to make up for a missed dose.
-
-Keep using CANASA® as long as your doctor tells you to use it, even if you feel better.
-CANASA® can cause stains on things it touches.
-Therefore keep it away from clothing and other fabrics, flooring, painted surfaces, marble, granite, plastics, and enamel.
-Be careful since CANASA® may stain clothing.
-
-## What should I avoid while taking CANASA®?
-
-Do not breast feed while using CANASA®.
-We do not know if CANASA® can pass through the milk and harm the baby.
-Tell your doctor if you become pregnant while using CANASA®.
-
-## What are the possible side effects of CANASA®?
-
-- The most common side effects of CANASA® are: headache, gas or flatulence, and diarrhea.
-  These events also occurred when patients were given an inactive suppository.
-- Less common, but possibly serious side effects include a reaction to the medicine (acute intolerance syndrome) that includes cramps, sharp abdominal (stomach area) pain, bloody diarrhea, and sometimes fever, headache and rash.
-  Stop use and tell your doctor right away if you get any of these symptoms.
-- In rare cases, the sac around the heart may become inflamed (pericarditis).
-  Tell your doctor right away if you develop chest pain or shortness of breath, which are signs of this problem.
-- In rare cases, patients using CANASA® develop worsening colitis (pancolitis).
-- A very few patients using CANASA® may have mild hair loss.
-- Other side effects not listed above may also occur in some patients.
-
-If you notice any other side effects, check with your doctor or pharmacist.
-
-## How should I store CANASA®?
-
-Store CANASA® below 25°C (77°F), may be refrigerated.
-Keep it away from direct heat, light, or humidity.
-
-## General advice about prescription medicines
-
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use CANASA® for a condition for which it was not prescribed.
-Do not give CANASA® to other people, even if they have the same symptoms you have.
-
-This leaflet summarizes the most important information about CANASA®.
+This leaflet summarizes the most important information about CANASA.
 If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about CANASA® that is written for health professionals.
+You can ask your doctor or pharmacist for information about CANASA that is written for health professionals.
+
+For more information, go to www.canasa.com, or call 1-800-472-2634.
+
+What are the ingredients in CANASA?
+
+Active ingredients: Mesalamine
+
+Inactive ingredients: Hard fat base
+
+Distrubuted by:
+
+Aptalis Pharma US, Inc.
+
+100 Somerset Corporate Boulevard
+
+Bridgewater, NJ 08807 USA
+
+www.aptalispharma.com
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+CANASA® is a registered trademark of Aptalis Pharma Canada Inc., an affiliate of Aptalis Pharma US, Inc.
+
+© 2013 Aptalis Pharma US, Inc.

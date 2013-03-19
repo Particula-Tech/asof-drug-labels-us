@@ -3,7 +3,7 @@
     "NDA021252"
   ],
   "inn": "mesalamine",
-  "labeler": "Axcan Pharma US, Inc.",
+  "labeler": "Aptalis Pharma US, Inc.",
   "package_ndcs": [
     "58914-501-18",
     "58914-501-33",
@@ -14,7 +14,7 @@
     {
       "form": "SUPPOSITORY",
       "generic": "mesalamine",
-      "name": "Canasa"
+      "name": "CANASA"
     }
   ],
   "setid": "89d91601-152b-4398-bebe-af1c023e9935",
