@@ -17,15 +17,13 @@ Depakote ER was significantly more effective than placebo in reduction of the MR
 
 The efficacy of valproate in reducing the incidence of complex partial seizures (CPS) that occur in isolation or in association with other seizure types was established in two controlled trials.
 
-In one, multiclinic, placebo controlled study employing an add-on design, (adjunctive therapy) 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either Depakote or placebo.
+In one, multi-clinic, placebo controlled study employing an add-on design, (adjunctive therapy) 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either Depakote or placebo.
 Randomized patients were to be followed for a total of 16 weeks.
 The following Table presents the findings.
 
-Table 10.
-Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
-
-| Add-on Treatment | Number of Patients | Baseline Incidence | Experimental Incidence |
+| Table 10. Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks |  |  |  |
 | --- | --- | --- | --- |
+| Add-on Treatment | Number of Patients | Baseline Incidence | Experimental Incidence |
 | Depakote | 75 | 16.0 | 8.9* |
 | Placebo | 69 | 14.5 | 11.5 |
 | * Reduction from baseline statistically significantly greater for valproate than placebo at p ≤ 0.05 level. |  |  |  |
@@ -47,11 +45,9 @@ In patients converted to Depakote monotherapy, the mean total valproate concentr
 
 The following Table presents the findings for all patients randomized who had at least one post-randomization assessment.
 
-Table 11.
-Monotherapy Study Median Incidence of CPS per 8 Weeks
-
-| Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
+| Table 11. Monotherapy Study Median Incidence of CPS per 8 Weeks |  |  |  |
 | --- | --- | --- | --- |
+| Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
 | High dose Valproate | 131 | 13.2 | 10.7* |
 | Low dose Valproate | 134 | 14.2 | 13.8 |
 | * Reduction from baseline statistically significantly greater for high dose than low dose at p ≤ 0.05 level. |  |  |  |

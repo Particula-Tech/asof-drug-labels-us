@@ -24,4 +24,4 @@ Complex absence is the term used when other signs are also present.
 
 Depakote ER is indicated for prophylaxis of migraine headaches.
 There is no evidence that Depakote ER is useful in the acute treatment of migraine headaches.
-Because it may be a hazard to the fetus, Depakote ER should be considered for women of childbearing potential only after this risk has been thoroughly discussed with the patient and weighed against the potential benefits of treatment [see Warnings and Precautions(5.2), Patient Counseling Information(17.3)].
+Because it may be a hazard to the fetus, Depakote ER should be considered for women of childbearing potential only after this risk has been thoroughly discussed with the patient and weighed against the potential benefits of treatment [see Warnings and Precautions (5.2) and Patient Counseling Information (17.3)].

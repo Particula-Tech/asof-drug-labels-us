@@ -10,7 +10,10 @@ It has been suggested that its activity in epilepsy is related to increased brai
 
 The relationship between plasma concentration and clinical response is not well documented.
 One contributing factor is the nonlinear, concentration dependent protein binding of valproate which affects the clearance of the drug.
-Thus, monitoring of total serum valproate may not provide a reliable index of the bioactive valproate species as protein binding may be affected by age and disease state (e.g. hepatic or renal insufficiency, hyperlipidemia).
+Thus, monitoring of total serum valproate may not provide a reliable index of the bioactive valproate species.
+
+For example, because the plasma protein binding of valproate is concentration dependent, the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
+Higher than expected free fractions occur in the elderly, in hyperlipidemic patients, and in patients with hepatic and renal diseases.
 
 Epilepsy
 
@@ -38,11 +41,9 @@ In two randomized, crossover studies, multiple daily doses of Depakote were comp
 In these two studies, Depakote ER and Depakote regimens were equivalent with respect to area under the curve (AUC; a measure of the extent of bioavailability).
 Additionally, valproate Cmax was lower, and Cmin was either higher or not different, for Depakote ER relative to Depakote regimens (see Table 9).
 
-Table 9.
-Bioavailability of Depakote ER Tablets Relative to Depakote When Depakote ER Dose is 8 to 20% Higher
-
-| Study Population | Regimens | Relative Bioavailability |  |  |
+| Table 9. Bioavailability of Depakote ER Tablets Relative to Depakote When Depakote ER Dose is 8 to 20% Higher |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Study Population | Regimens | Relative Bioavailability |  |  |
 |  | Depakote ER vs. Depakote | AUC24 | Cmax | Cmin |
 | Healthy Volunteers (N=35) | 1000 & 1500 mg Depakote ER vs. 875 & 1250 mg Depakote | 1.059 | 0.882 | 1.173 |
 | Patients with epilepsy on concomitant enzyme-inducing antiepilepsy drugs (N = 64) | 1000 to 5000 mg Depakote ER vs. 875 to 4250 mg Depakote | 1.008 | 0.899 | 1.022 |
@@ -55,7 +56,7 @@ Protein Binding
 
 The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
 Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (e.g., aspirin).
-Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see Drug Interactions (7) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
+Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see Drug Interactions (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
 
 CNS Distribution
 
@@ -114,7 +115,7 @@ Liver disease impairs the capacity to eliminate valproate.
 In one study, the clearance of free valproate was decreased by 50% in 7 patients with cirrhosis and by 16% in 4 patients with acute hepatitis, compared with 6 healthy subjects.
 In that study, the half-life of valproate was increased from 12 to 18 hours.
 Liver disease is also associated with decreased albumin concentrations and larger unbound fractions (2 to 2.6 fold increase) of valproate.
-Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [see Boxed Warning, Contraindications (4), Warnings and Precautions (5.1)].
+Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [see Boxed Warning, Contraindications (4), and Warnings and Precautions (5.1)].
 
 Renal Disease
 

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Depakote ER 250 mg is available as white ovaloid tablets with the corporate Abbott “A” logo, and the Abbo-Code (HF).
+Depakote ER 250 mg is available as white ovaloid tablets with the “a” logo and the code (HF).
 Each Depakote ER tablet contains divalproex sodium equivalent to 250 mg of valproic acid in the following package sizes:
 
 Bottles of 60....……………………………………………(NDC 0074-3826-60).
@@ -9,16 +9,16 @@ Bottles of 100……………………………………………..(NDC 0074-382
 
 Bottles of 500……………………………………………..(NDC 0074-3826-53).
 
-ABBO-PAC unit dose packages of 100…………………..(NDC 0074-3826-11).
+Unit Dose Packages of 100..................…………………..(NDC 0074-3826-11).
 
-Depakote ER 500 mg is available as gray ovaloid tablets with the corporate Abbott “A” logo, and the Abbo-Code HC.
+Depakote ER 500 mg is available as gray ovaloid tablets with the “a” logo and the code HC.
 Each Depakote ER tablet contains divalproex sodium equivalent to 500 mg of valproic acid in the following packaging sizes:
 
-Bottles of 100....................................................................(NDC 0074-7126-13).
+Bottles of 100...................................................................(NDC 0074-7126-13).
 
-Bottles of 500....................................................................(NDC 0074-7126-53).
+Bottles of 500...................................................................(NDC 0074-7126-53).
 
-ABBO-PAC unit dose packages of 100............................(NDC 0074-7126-11).
+Unit Dose Packages of 100...............................................(NDC 0074-7126-11).
 
 Recommended Storage
 
