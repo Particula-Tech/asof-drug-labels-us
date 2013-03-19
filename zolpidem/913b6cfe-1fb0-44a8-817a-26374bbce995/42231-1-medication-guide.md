@@ -92,7 +92,7 @@ How should I take Intermezzo?
   Intermezzo may help you fall asleep faster when you take it on an empty stomach.
 - Call your health care provider if your insomnia worsens or is not better within 7 to 10 days.
   This may mean that there is another condition causing your sleep problem.
-- If you take too much Intermezzo or overdose get emergency treatment.
+- If you take too much Intermezzo or overdose, get emergency treatment.
 
 What are the possible side effects of Intermezzo?
 
@@ -158,4 +158,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Distributed by: Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-Issued: July 2012
+Issued: January 2014

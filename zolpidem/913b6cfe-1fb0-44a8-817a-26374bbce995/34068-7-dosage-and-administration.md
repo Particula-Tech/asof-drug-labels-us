@@ -8,7 +8,7 @@ Intermezzo should only be taken if the patient has at least 4 hours of bedtime r
 Intermezzo should be placed under the tongue and allowed to disintegrate completely before swallowing.
 The tablet should not be swallowed whole.
 For optimal effect, Intermezzo should not be administered with or immediately after a meal.
-The blister should be removed from the pouch just prior to dosing.
+The tablet should be removed from the pouch just prior to dosing.
 
 ## 2.2 Basic Dosing Information
 

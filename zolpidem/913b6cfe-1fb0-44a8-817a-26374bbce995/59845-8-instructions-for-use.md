@@ -16,7 +16,7 @@ Using Intermezzo the wrong way can make you drowsy in the morning.
 
 Before you go to bed:
 
-- Place only 1 Intermezzo pouch by your bed, and have a clock or watch nearby (see Figure A).
+- Place only 1 Intermezzo pouch by your bed, and have a clock or watch nearby (see Figure A). Figure A
 - Store all other unopened Intermezzo pouches with your other medicines away from your bedside.
 - Only open the Intermezzo pouch when you are ready to use it.
 - You can either use the Intermezzo Dosing Time Chart (see Figure B) or the Dosing Time Tool (see Figure C) that comes with Intermezzo to find the latest time during the night you can take Intermezzo.
@@ -58,16 +58,15 @@ Open the Intermezzo pouch you placed by your bed.
   While the Intermezzo pouch is folded, tear the pouch open at the notch at the center of the dotted line (see Figure D).
 
 Step 3.
-Remove the foil blister from the Intermezzo pouch.
-Push the Intermezzo tablet through the foil (see Figure E).
+Remove the tablet from the Intermezzo pouch.
 
 Step 4.
 Leave the empty Intermezzo pouch where you can see it.
-The empty pouch will help remind you that you already took your Intermezzo dose (see Figure F).
+The empty pouch will help remind you that you already took your Intermezzo dose (see Figure E).
 
 Step 5.
 While in bed, place the Intermezzo tablet under your tongue and allow it to break apart completely, then swallow.
-Do not swallow it whole (see Figure G).
+Do not swallow it whole (see Figure F).
 
 Step 6.
 Throw the empty Intermezzo pouch away in the morning.
@@ -80,4 +79,4 @@ This Medication Guide and Instructions for Use have been approved by the U.S. Fo
 Distributed by: Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-Issued: July 2012
+Issued: January 2014

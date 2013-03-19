@@ -8,7 +8,7 @@ Dosage adjustments of Intermezzo and of other concomitant CNS depressants may be
 The use of Intermezzo with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see Dosage and Administration (2.3)].
 
 In a driving study, healthy subjects who received Intermezzo with fewer than four hours of bedtime remaining had evidence of impaired driving compared to subjects who received placebo [see Clinical Studies (14.2)].
-The risk of next-day driving impairment (and psychomotor impairment) is increased if Intermezzo is taken with less than 4 hours of bedtime remaining; if higher than recommended dose is taken; if co-administered with other CNS depressants; or co-administered with other drugs that increase the blood levels of zolpidem.
+The risk of next-day driving impairment (and psychomotor impairment) is increased if Intermezzo is taken with less than 4 hours of bedtime remaining, if higher than recommended dose is taken, if co-administered with other CNS depressants, or co-administered with other drugs that increase the blood levels of zolpidem.
 
 ## 5.2 Need to Evaluate for Co-morbid Diagnoses
 

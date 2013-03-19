@@ -37,7 +37,7 @@ Sedating drugs may cause confusion and over-sedation in the elderly; elderly pat
 
 Clinical trial experience with other zolpidem formulations (5 mg to 10 mg oral zolpidem tartrate) given at bedtime:
 
-A total of 154 patients in U.S. controlled clinical trials and 897 patients in non-U.S. clinical trials who received oral zolpidem were ≥ 60 years of age.
+A total of 154 patients in U.S.-controlled clinical trials and 897 patients in non-U.S. clinical trials who received oral zolpidem were ≥ 60 years of age.
 For a pool of U.S. patients receiving oral zolpidem tartrate at doses of ≤ 10 mg or placebo, there were three adverse reactions occurring at an incidence of at least 3% for zolpidem and for which the zolpidem incidence was at least twice the placebo incidence (see Table 2).
 
 Table 2: Adverse Reactions in Geriatric Patients in Pooled Trials of 5 mg to 10 mg of Oral Zolpidem Tartrate Given at Bedtime
@@ -57,7 +57,7 @@ Of these 18 patients, 14 (78%) were receiving zolpidem tartrate doses >10 mg.
 
 The dose of Intermezzo in elderly patients is 1.75 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative-hypnotic drugs.
 
-## 8.6 Gender Difference in Pharmacokinetics
+## 8.6 Gender Differences in Pharmacokinetics
 
 Women cleared zolpidem tartrate from the body after sublingual administration of a 3.5 mg dose of Intermezzo at a lower rate than men (2.7 mL/min/kg vs. 4.0 mL/min/kg).
 Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.

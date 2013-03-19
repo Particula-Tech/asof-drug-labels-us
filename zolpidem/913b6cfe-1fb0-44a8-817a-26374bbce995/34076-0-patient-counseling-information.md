@@ -37,7 +37,7 @@ Tell the patient that Intermezzo should not be swallowed whole.
 
 Tell patients that the effect of Intermezzo may be slowed if taken with or immediately after a meal.
 
-Instruct patients to remove the blister from the unit-dose pouch just prior to dosing.
+Instruct patients to remove the tablet from the unit-dose pouch just prior to dosing.
 
 Advise patients NOT to take Intermezzo if they drank alcohol that day or before bed.
 
@@ -46,6 +46,6 @@ Healthcare professionals can telephone Purdue Pharma’s Medical Services Depart
 Distributed by: Purdue Pharma L.P.
 Stamford, CT 06901-3431 Manufactured by: Patheon Pharmaceuticals, Inc., Cincinnati, OH 45237
 
-U.S. Patent Numbers 7658945;7682628
+U.S. Patent Numbers 7658945; 7682628; 8,242,131; 8,252,809
 
 ©2012, Purdue Pharma L.P.

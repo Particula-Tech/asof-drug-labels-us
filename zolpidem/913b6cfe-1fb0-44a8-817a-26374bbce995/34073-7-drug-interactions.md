@@ -25,7 +25,7 @@ Concomitant administration of zolpidem and sertraline increases exposure to zolp
 
 ### Fluoxetine
 
-After multiple doses of zolpidem tartrate and fluoxetine an increase in the zolpidem half-life (17%) was observed.
+After multiple doses of zolpidem tartrate and fluoxetine, an increase in the zolpidem half-life (17%) was observed.
 There was no evidence of an additive effect in psychomotor performance [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Drugs that Affect Drug Metabolism via Cytochrome P450
@@ -36,7 +36,7 @@ The effect of other P450 enzymes on the exposure to zolpidem is not known.
 ### Rifampin
 
 Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
-Use of Rifampin in combination with zolpidem may decrease the efficacy of zolpidem.
+Use of rifampin in combination with zolpidem may decrease the efficacy of zolpidem.
 
 ### Ketoconazole
 
