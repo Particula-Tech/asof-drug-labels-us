@@ -25,7 +25,7 @@ Following either oral or intravenous administration of 14 C-labeled irbesartan, 
 In vitro studies of irbesartan oxidation by cytochrome P450 isoenzymes indicated irbesartan was oxidized primarily by 2C9; metabolism by 3A4 was negligible.
 Irbesartan was neither metabolized by, nor did it substantially induce or inhibit, isoenzymes commonly associated with drug metabolism (1A1, 1A2, 2A6, 2B6, 2D6, 2E1).
 There was no induction or inhibition of 3A4.
-Distribution Irbesartan is 90% bound to serum proteins (primarily albumin and α 1 -acid glycoprotein) with negligible binding to cellular components of blood.
+Distribution Irbesartan is 90% bound to serum proteins (primarily albumin and ⛙ 1 -acid glycoprotein) with negligible binding to cellular components of blood.
 The average volume of distribution is 53 liters to 93 liters.
 Total plasma and renal clearances are in the range of 157 mL/min to 176 mL/min and 3.0 mL/min to 3.5 mL/min, respectively.
 With repetitive dosing, irbesartan accumulates to no clinically relevant extent.
