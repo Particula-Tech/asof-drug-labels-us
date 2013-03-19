@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA010104"
+  ],
+  "inn": "phytonadione",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-1704-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phytonadione",
+      "name": "Mephyton"
+    }
+  ],
+  "setid": "5be7bb0a-dddb-4cb4-bf89-a8fafb726c83",
+  "source": "dailymed"
+}
