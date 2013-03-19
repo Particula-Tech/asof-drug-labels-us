@@ -8,8 +8,6 @@ BETAMETHASONE VALERATE CREAM USP, 0.1% (Potency expressed as betamethasone)
 
 Rx only
 
-Each gram contains 1.2 mg betamethasone valerate (equivalent to 1 mg betamethasone) in a soft, white, hydrophilic cream of water, miner- al oil, white petrolatum, polyethylene glycol 1000 monocetyl ether, cetostearyl alcohol, monobasic sodium phosphate and phosphor- ic acid or sodium hydroxide; chlorocresol is present as a preservative.
-
 NET WT 15 grams
 
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 15 GRAM CARTON
@@ -42,8 +40,6 @@ FOR DERMATOLOGIC USE ONLY NOT FOR OPHTHALMIC USE
 
 Rx only
 
-E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
-
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 ML CARTON
 
 NDC 0168-0041-60
@@ -56,12 +52,7 @@ BETAMETHASONE VALERATE LOTION USP, 0.1% (Potency expressed as betamethasone)
 
 FOR DERMATOLOGIC USE ONLY NOT FOR OPHTHALMIC USE
 
-Each gram contains 1.2 mg betamethasone valerate (equivalent to 1 mg betamethasone) in a vehicle of isopropyl alcohol and water slightly thickened with carbomer 934P.
-Phosphoric acid or sodium hydroxide is used to adjust pH.
-
 Rx only
-
-E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
 
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 15 GRAM CONTAINER
 
@@ -72,8 +63,6 @@ Fougera®
 BETAMETHASONE VALERATE OINTMENT USP, 0.1% (Potency expressed as betamethasone)
 
 Rx only
-
-Each gram contains 1.2 mg betamethasone valerate (equivalent to 1 mg betamethasone) in an ointment base of white petrolatum and mineral oil.
 
 NET WT 15 grams
 
