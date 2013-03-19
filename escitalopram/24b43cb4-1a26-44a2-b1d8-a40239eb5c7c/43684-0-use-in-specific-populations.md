@@ -25,14 +25,15 @@ Pregnancy-Nonteratogenic Effects Neonates exposed to escitalopram and other SSRI
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2 )].
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1—2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective, case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
-When treating a pregnant woman with escitalopram during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment [see Dosage and Administration (2.1)].
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including escitalopram tablets) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+When treating a pregnant woman with escitalopram tablets, the physician should carefully consider both the potential risks of taking an SSRl, along with the established benefits of treating depression with an antidepressant.
+This decision can only be made on a case by case basis [see Dosage and Administration (2.1.) ].
 
 ## 8.2 Labor & Delivery
 

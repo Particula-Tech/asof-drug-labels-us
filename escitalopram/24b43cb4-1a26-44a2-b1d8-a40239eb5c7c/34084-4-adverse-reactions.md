@@ -27,7 +27,7 @@ Adults The most commonly observed adverse reactions in escitalopram patients (in
 Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 715 depressed patients who received escitalopram at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
 
-| TABLE 2 |  |  |
+| TA BLE 2 |  |  |
 | --- | --- | --- |
 | Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder |  |  |
 | Adverse Reaction | Escitalopram | Placebo |
@@ -162,7 +162,7 @@ The exposure under supratherapeutic 30 mg dose is similar to the steady state co
 Other Reactions Observed During the Premarketing Evaluation of escitalopram Following is a list of treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with escitalopram for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
 The listing does not include those events already listed in Tables 2 & 3 , those events for which a drug cause was remote and at a rate less than 1% or lower than placebo, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life threatening.
 Events are categorized by body system.
-Events of major clinical importance are described in the Warnings and Precautions section (5).
+Events of major clinical importance are described in the Warnings and Precautions section ( 5 ).
 Cardiovascular - hypertension, palpitation.
 Central and Peripheral Nervous System Disorders - light-headed feeling, migraine.
 Gastrointestinal Disorders - abdominal cramp, heartburn, gastroenteritis.

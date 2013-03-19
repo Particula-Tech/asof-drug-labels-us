@@ -14,9 +14,9 @@ Patients should be advised of the following issues and asked to alert their pres
 Clinical Worsening and Suicide Risk Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.1)].
-Serotonin Syndrome Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram and triptans, tramadol or other serotonergic agents [see Warnings and Precautions (5.2)].
-Abnormal Bleeding Patients should be cautioned about the concomitant use of escitalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.7)].
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.1 )].
+Serotonin Syndrome Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram tablets with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol tryptophan, buspirone and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2) ].
+Abnormal Bleeding Patients should be cautioned about the concomitant use of escitalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.7 )].
 Concomitant Medications Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
 Continuing the Therapy Prescribed While patients may notice improvement with escitalopram therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
@@ -42,7 +42,7 @@ Suicidal thoughts or actions: • Escitalopram and other antidepressant medicine
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you: • attempts to commit suicide • acting on dangerous impulses • acting aggressive or violent • thoughts about suicide or dying • new or worse depression • new or worse anxiety or panic attacks • feeling agitated, restless, angry or irritable • trouble sleeping • an increase in activity or talking more than what is normal for you • other unusual changes in behavior or mood Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 Escitalopram Tablets may be associated with these serious side effects: 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include: • agitation, hallucinations, coma or other changes in mental status • coordination problems or muscle twitching (overactive reflexes) • racing heartbeat, high or low blood pressure • sweating or fever • nausea, vomiting, or diarrhea • muscle rigidity 3.
 Severe allergic reactions: • trouble breathing • swelling of the face, tongue, eyes or mouth • rash, itchy welts (hives) or blisters, alone or with fever or joint pain 4.
 Abnormal bleeding: Escitalopram and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
@@ -62,8 +62,8 @@ You should discuss all treatment choices with your healthcare provider.
 Escitalopram is also used to treat: • Major Depressive Disorder (MDD) • Generalized Anxiety Disorder (GAD) Talk to your healthcare provider if you do not think that your condition is getting better with Escitalopram tablet treatment.
 Who should not take Escitalopram Tablets?
 Do not take escitalopram tablets if you: • are allergic to escitalopram or citalopram hydrobromide or any of the ingredients in escitalopram tablets.
-See the end of this Medication Guide for a completelist of ingredients in escitalopram tablets. • take a Monoamine Oxidase Inhibitor (MAOI).
-Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid. o Do not take an MAOI within 14 days of stopping escitalopram tablets. o Do not start escitalopram tablets if you stopped taking an MAOI in the last 14 days.
+See the end of this Medication Guide for a completelist of ingredients in escitalopram tablets. • If you take a Monoamine Oxidase Inhibitor (MAOI).
+Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid. o Do not take an MAOI within 2 weeks of stopping escitalopram tablets unless directed to do so by your physician. o Do not start escitalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 People who take Escitalopram Tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms: • high fever • uncontrolled muscle spasms • stiff muscles • rapid changes in heart rate or blood pressure • confusion • loss of consciousness (pass out) • take the antipsychotic medicine pimozide (Orap®) because taking this drug with Escitalopram Tablets can cause serious heart problems.
 What should I tell my healthcare provider before taking Escitalopram Tablets?
@@ -110,12 +110,14 @@ For more information, call 1-888-943-3210.
 What are the ingredients in Escitalopram Tablets?
 Active ingredient: escitalopram oxalate USP Inactive ingredients: • Tablets: Lactose monohydrate, talc, croscarmellose sodium, colloidal silicon dioxide, sodium carboxymethylcellulose, propyl gallate and magnesium stearate.
 The film coating contains hypromellose, titanium dioxide, and polyethylene glycol.
-Coumadin® is registered trademark of Bridtol Mayers Squibb Jantoven® is registered trademark of USL Pharma Orap® is registered trademark of Teva Pharma.
-Celexa is registered trademark of FOREST LABS
+Coumadin® is registered trademark of Bristol Myers Squibb.
+Jantoven® is registered trademark of USL Pharma.
+Orap® is registered trademark of Teva Pharma.
+Celexa is registered trademark of FOREST LABS.
 
 Manufactured for: Macleods Pharma USA, INC,.
 Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
-Revised OCTOBER 2012
+Revised JANUARY 2013 This Medication Guide has been approved by the U.S. Food and Drug Administration.
