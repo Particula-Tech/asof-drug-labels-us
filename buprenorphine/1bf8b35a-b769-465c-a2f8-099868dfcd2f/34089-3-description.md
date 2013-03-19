@@ -1,15 +1,12 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Buprenorphine HCl Sublingual tablets contain buprenorphine HCl.
-
-Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptor.
-
-Buprenorphine is a Schedule III narcotic under the Controlled Substances Act.
-
-Buprenorphine hydrochloride is a white powder, weakly acidic with limited solubility in water (17 mg/mL).
-Chemically, buprenorphine is 17-(cyclopropylmethyl)-α-(1,1-dimethylethyl)-4, 5-epoxy-18, 19-dihydro-3-hydroxy-6-methoxy-α-methyl-6, 14-ethenomorphinan-7-methanol, hydrochloride [5α, 7α(S)]-.
-Buprenorphine hydrochloride has the molecular formula C29 H41 NO4 HCl and the molecular weight is 504.10.
-
-Buprenorphine HCl Sublingual Tablets are white tablets intended for sublingual administration.
-They are available in two dosage strengths, 2 mg buprenorphine and 8 mg buprenorphine free base.
+Buprenorphine HCl Sublingual Tablets are supplied as white, sublingual tablets available in two dosage strengths, 2 mg buprenorphine and 8 mg buprenorphine free base.
 Each tablet also contains anhydrous citric acid, corn starch, crospovidone, lactose monohydrate, magnesium stearate, mannitol, povidone, and sodium citrate.
+The 2 mg buprenorphine tablet is embossed with product identification "54 775" on one side and plain on the other side.
+The 8 mg buprenorphine tablet is embossed with product identification "54 411" on one side and plain on the other side.
+
+Chemically, buprenorphine HCl is (2S)-2-[17-Cyclopropylmethyl-4,5α-epoxy-3-hydroxy-6-methoxy-6α, 14-etheno-14α-morphinan-7α-yl]-3,3-dimethylbutan-2-ol hydrochloride.
+It has the following chemical structure:
+
+Buprenorphine HCl has the molecular formula C29H41 NO4 • HCl and the molecular weight is 504.10.
+It is a white or off-white crystalline powder, sparingly soluble in water, freely soluble in methanol, soluble in alcohol and practically insoluble in cyclohexane.

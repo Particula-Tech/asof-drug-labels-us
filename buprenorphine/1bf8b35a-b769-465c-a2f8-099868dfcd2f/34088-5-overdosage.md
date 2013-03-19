@@ -1,16 +1,13 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Manifestations
+The manifestations of acute overdose include pinpoint pupils, sedation, hypotension, respiratory depression, and death.
 
-Manifestations of acute overdose include pinpoint pupils, sedation, hypotension, respiratory depression and death.
+In the event of overdose, the respiratory and cardiac status of the patient should be monitored carefully.
+When respiratory or cardiac functions are depressed, primary attention should be given to the re-establishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation.
+Oxygen, IV fluids, vasopressors, and other supportive measures should be employed as indicated.
 
-## Treatment
-
-The respiratory and cardiac status of the patient should be monitored carefully.
-In the event of depression of respiratory or cardiac function, primary attention should be given to the re-establishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation.
-Oxygen, intravenous fluids, vasopressors, and other supportive measures should be employed as indicated.
-
-IN THE CASE OF OVERDOSE, THE PRIMARY MANAGEMENT SHOULD BE THE RE-ESTABLISHMENT OF ADEQUATE VENTILATION WITH MECHANICAL ASSISTANCE OF RESPIRATION, IF REQUIRED NALOXONE MAY NOT BE EFFECTIVE IN REVERSING ANY RESPIRATORY DEPRESSION PRODUCED BY BUPRENORPHINE.
-
-High doses of naloxone hydrochloride, 10 to 35 mg/70 kg may be of limited value in the management of buprenorphine overdose.
-Doxapram (a respiratory stimulant) also has been used.
+In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
+Naloxone may be of value for the management of buprenorphine overdose.
+Higher than normal doses and repeated administration may be necessary.
+The long duration of action of buprenorphine HCl sublingual tablets should be taken into consideration when determining the length of treatment and medical surveillance needed to reverse the effects of an overdose.
+Insufficient duration of monitoring may put patients at risk.
