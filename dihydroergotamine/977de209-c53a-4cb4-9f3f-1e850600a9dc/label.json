@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020148"
+  ],
+  "inn": "dihydroergotamine",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-357-10"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "dihydroergotamine mesylate",
+      "name": "Dihydroergotamine Mesylate"
+    }
+  ],
+  "setid": "977de209-c53a-4cb4-9f3f-1e850600a9dc",
+  "source": "dailymed"
+}
