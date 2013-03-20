@@ -4,7 +4,7 @@ This section contains a representative sample of product package labeling.
 Product may be manufactured at multiple manufacturing sites.
 See the How Supplied section for a list of products and associated manufacturing sites.
 
-PACKAGE CARTON – HUMALOG Mix75/25 Vial 10 mL 1ct
+PACKAGE CARTON – HUMALOG Mix75/25 10 mL Vial 1ct
 
 NDC 0002-7511-01
 
@@ -16,7 +16,7 @@ VL-7511
 
 Humalog®
 
-Mix75/25TM
+Mix75/25™
 
 75% insulin lispro
 
@@ -36,11 +36,11 @@ www.humalog.com
 
 Lilly
 
-PACKAGE CARTON – HUMALOG Mix75/25 Vial 10 mL 1ct
+PACKAGE CARTON – HUMALOG Mix75/25 KwikPen 5ct
 
 NDC 0002-8797-59
 
-Humalog® Mix75/25TM
+Humalog® Mix75/25™
 
 75% insulin lispro protamine suspension
 
@@ -58,7 +58,7 @@ Rx only
 
 Needles not included
 
-This device is recommended for sue with Becton, Dickinson and Company's insulin pen needles
+This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
 
 For subcutaneous use only.
 

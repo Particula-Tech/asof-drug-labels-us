@@ -30,14 +30,19 @@ Do not take Humalog Mix75/25 if:
 - you are allergic to anything in Humalog Mix75/25.
   See the end of this leaflet for a complete list of ingredients in Humalog Mix75/25.
 
-Tell your healthcare provider:
+What should I tell my healthcare provider before taking Humalog Mix75/25?
 
-- about all your medical conditions.
+Before you use Humalog Mix75/25, tell your healthcare provider if you:
+
+- have liver or kidney problems or any other medical conditions.
   Medical conditions can affect your insulin needs and your dose of Humalog Mix75/25.
-- if you are pregnant or breastfeeding.
+- take any other medicines, especially ones commonly called TZDs (thiazolidinediones).
+- have heart failure or other heart problems.
+  If you have heart failure, it may get worse while you take TZDs with Humalog Mix75/25.
+- are pregnant or breastfeeding.
   You and your healthcare provider should talk about the best way to manage your diabetes while you are pregnant or breastfeeding.
   Humalog Mix75/25 has not been studied in pregnant or nursing women.
-- about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+- take other medicines, including prescription and non-prescription medicines, vitamins and herbal supplements.
   Many medicines can affect your blood sugar levels and insulin needs.
   Your Humalog Mix75/25 dose may need to change if you take other medicines.
 
@@ -110,6 +115,21 @@ Talk to your healthcare provider if low blood sugar is a problem for you.
 - Skin thickens or pits at the injection site (lipodystrophy).
   This can happen if you don't change (rotate) your injection sites enough.
 
+Humalog Mix75/25 may cause serious side effects, including:
+
+- swelling of your hands and feet
+- heart failure.
+  Taking certain diabetes pills called thiazolidinediones or "TZDs" with Humalog Mix75/25 may cause heart failure in some people.
+  This can happen even if you have never had heart failure or heart problems before.
+  If you already have heart failure it may get worse while you take TZDs with Humalog Mix75/25.
+  Your healthcare provider should monitor you closely while you are taking TZDs with Humalog Mix75/25.
+  Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
+  - shortness of breath
+  - swelling of your ankles or feet
+  - sudden weight gain
+
+Treatment with TZDs and Humalog Mix75/25 may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
+
 These are not all the side effects from Humalog Mix75/25.
 Ask your healthcare provider or pharmacist for more information.
 
@@ -138,7 +158,7 @@ It may harm them.
 
 This leaflet summarized the most important information about Humalog Mix75/25.
 If you would like more information about Humalog Mix75/25 or diabetes, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about Humalog Mix75/25 that is written for health professionals.
+You can ask your healthcare provider or pharmacist for information about Humalog Mix75/25 that is written for healthcare providers.
 
 For questions you may call 1-800-LillyRx (1-800-545-5979) or visit www.humalog.com.
 
@@ -148,18 +168,16 @@ Active ingredients: insulin lispro protamine suspension and insulin lispro.
 
 Inactive ingredients: protamine sulfate, glycerin, dibasic sodium phosphate, metacresol, zinc oxide (zinc ion), phenol and water for injection.
 
-Patient Information issued September 6, 2007
+Patient Information revised March 11, 2013
 
-KwikPens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA Pens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France Vials manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France
-
-for Eli Lilly and Company, Indianapolis, IN 46285, USA
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 2007, Eli Lilly and Company.
+Copyright © 2007, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 5580 AMP
+PV 5581 AMP
 
 Instructions for Use HUMALOG® Mix75/25™ KwikPen™ 75% insulin lispro protamine suspension and 25% insulin lispro injection (rDNA origin)
 
@@ -191,7 +209,7 @@ Preparing HUMALOG Mix75/25 KwikPen:
 
 | Step 1: Pull the Pen Cap straight off. Wipe the Rubber Seal with an alcohol swab. Do not twist the cap. Do not remove the KwikPen Label. |  |
 | --- | --- |
-| Step2: Gently roll the Pen ten times. |  |
+| Step 2: Gently roll the Pen ten times. |  |
 | Invert the Pen ten times. HUMALOG Mix75/25 should look white and cloudy after mixing. Do not use if it looks clear or contains any lumps or particles. |  |
 | Step 3: Pull off the Paper Tab from Outer Needle Shield. |  |
 | Step 4: Push the capped Needle straight onto the Pen and turn the Needle forward until it is tight. |  |
