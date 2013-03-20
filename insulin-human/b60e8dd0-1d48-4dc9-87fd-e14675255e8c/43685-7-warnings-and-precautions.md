@@ -6,6 +6,11 @@ Changes in insulin strength, manufacturer, type (e.g., regular, NPH, analog, etc
 Humulin R U-500 contains 500 units of insulin in each milliliter (5-times more concentrated than Humulin R U-100).
 For Humulin R U-500, extreme caution must be observed in the measurement of dosage because inadvertent overdose may result in serious adverse reaction or life-threatening hypoglycemia.
 
+Fluid retention and heart failure with concomitant use of PPAR-gamma agonists: Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
+Fluid retention may lead to or exacerbate heart failure.
+Patients treated with insulin, including Humulin R U-500, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
+
 # PRECAUTIONS
 
 ## Dosing Confusion/Dosing Errors

@@ -56,6 +56,9 @@ Before you take Humulin R U-500, tell your healthcare provider if you:
 
 - have liver or kidney problems or any other medical conditions.
   Certain medical conditions can affect your insulin needs and your dose of Humulin R U-500.
+- take any other medicines, especially ones commonly called TZDs (thiazolidinediones).
+- have heart failure or other heart problems.
+  If you have heart failure, it may get worse while you take TZDs with Humulin R U-500.
 - are pregnant, plan to become pregnant, or are breast-feeding.
   It is not known if Humulin R U-500 will harm your unborn baby or breast-feeding child.
   You and your healthcare provider should talk about the best way to manage your diabetes while you are pregnant or breast-feeding.
@@ -194,8 +197,21 @@ Common side effects of Humulin R U-500 include:
 - Injection site reactions (local allergic reaction).
   Symptoms may include: redness, swelling and itching at the injection site.
   Tell your healthcare provider if you have skin reactions that do not go away.
-- Weight gain
-- Swelling due to fluid retention
+
+Humulin R U-500 may cause serious side effects, including:
+
+- swelling of your hands and feet
+- heart failure.
+  Taking certain diabetes pills called thiazolidinediones or "TZDs" with Humulin R U-500 may cause heart failure in some people.
+  This can happen even if you have never had heart failure or heart problems before.
+  If you already have heart failure it may get worse while you take TZDs with Humulin R U-500.
+  Your healthcare provider should monitor you closely while you are taking TZDs with Humulin R U-500.
+  Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
+  - shortness of breath
+  - swelling of your ankles or feet
+  - sudden weight gain
+
+Treatment with TZDs and Humulin R U-500 may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -245,8 +261,8 @@ Inactive ingredients: glycerin, metacresol, zinc oxide, water for injection, sod
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Patient Information revised May 20, 2011
+Patient Information revised March 9, 2013
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-PA 8901 AMP
+PA 8902 AMP
