@@ -10,6 +10,11 @@ Glucose monitoring is recommended for all patients with diabetes.
 Any change of insulin should be made cautiously and only under medical supervision.
 Changes in insulin strength, manufacturer, type (e.g., Regular, NPH, analog), species, or method of manufacture may result in the need for a change in dosage.
 
+Fluid retention and heart failure with concomitant use of PPAR-gamma agonists: Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
+Fluid retention may lead to or exacerbate heart failure.
+Patients treated with insulin, including Humalog Mix50/50, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
+
 # PRECAUTIONS
 
 ## General

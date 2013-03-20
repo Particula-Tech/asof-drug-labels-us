@@ -16,7 +16,7 @@ VL-7512
 
 Humalog®
 
-Mix50/50TM
+Mix50/50™
 
 50% insulin lispro
 
@@ -36,11 +36,11 @@ www.humalog.com
 
 Lilly
 
-PACKAGE CARTON – HUMALOG Mix50/50 KwikPen
+PACKAGE CARTON – HUMALOG Mix50/50 KwikPen 5ct
 
 NDC 0002-8798-59
 
-Humalog® Mix50/50TM
+Humalog® Mix50/50™
 
 50% insulin lispro protamine suspension
 
@@ -64,4 +64,4 @@ For subcutaneous use only.
 
 5 x 3 mL Prefilled Pens
 
-Read User Manual for Instructions
+Read User Manual for instructions

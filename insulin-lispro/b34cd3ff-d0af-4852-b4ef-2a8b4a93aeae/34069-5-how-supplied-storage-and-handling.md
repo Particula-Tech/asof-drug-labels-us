@@ -19,15 +19,13 @@ See table below:
 | 10 mL Vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
 | 3 mL Pen and KwikPen (prefilled) | 10 days | Until expiration date | 10 days. Do not refrigerate. |
 
-Literature revised March 16, 2009
+Literature revised March 11, 2013
 
-KwikPens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA Pens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France Vials manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France
-
-for Eli Lilly and Company, Indianapolis, IN 46285, USA
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 2007, 2009, Eli Lilly and Company.
+Copyright © 2007, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 5542 AMP
+PV 5543 AMP
