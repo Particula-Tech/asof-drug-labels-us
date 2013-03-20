@@ -26,7 +26,7 @@ PACKAGE CARTON – HUMALOG KwikPen 5ct
 
 NDC 0002-8799-59
 
-Humalog® KwikPenTM
+Humalog® KwikPen™
 
 insulin lispro injection, USP (rDNA origin)
 
@@ -42,9 +42,7 @@ Rx only
 
 Needles not included
 
-This device is recommended for use with Becton, Dickinson and Comapny's insulin pen needles
-
-For subcutaneous use.
+This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
 
 5 x 3 mL Prefilled Pens
 

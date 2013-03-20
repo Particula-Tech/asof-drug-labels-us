@@ -83,10 +83,10 @@ Hepatic Impairment — Type 2 diabetic patients with impaired hepatic function s
 However, some studies with human insulin have shown increased circulating levels of insulin in patients with liver failure.
 Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with hepatic dysfunction.
 
-Race – The effects of race on the pharmacokinetics and pharmacodynamics of HUMALOG have not been studied.
+Race — The effects of race on the pharmacokinetics and pharmacodynamics of HUMALOG have not been studied.
 
-Obesity – The effect of obesity on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied.
+Obesity — The effect of obesity on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied.
 
-Pregnancy – The effect of pregnancy on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied [see Use in Specific Populations (8.1)].
+Pregnancy — The effect of pregnancy on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied [see Use in Specific Populations (8.1)].
 
-Smoking – The effect of smoking on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied.
+Smoking — The effect of smoking on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied.

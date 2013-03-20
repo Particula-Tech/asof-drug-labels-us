@@ -65,3 +65,10 @@ Patients using continuous subcutaneous insulin infusion pump therapy must be tra
 ## 5.8 Drug Interactions
 
 Some medications may alter insulin requirements and the risk for hypoglycemia or hyperglycemia [see Drug Interactions (7)].
+
+## 5.9 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
+
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
+Fluid retention may lead to or exacerbate heart failure.
+Patients treated with insulin, including HUMALOG, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.

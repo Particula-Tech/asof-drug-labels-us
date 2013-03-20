@@ -49,14 +49,17 @@ Do not take HUMALOG if:
 
 What should I tell my healthcare provider before taking HUMALOG?
 
-Tell your healthcare provider:
+Before you use HUMALOG, tell your healthcare provider if you:
 
-- about all your medical conditions, including liver or kidney problems.
+- have liver or kidney problems or any other medical conditions.
   Your dose may need to be adjusted.
-- if you are pregnant or breastfeeding.
+- take any other medicines, especially ones commonly called TZDs (thiazolidinediones).
+- have heart failure or other heart problems.
+  If you have heart failure, it may get worse while you take TZDs with HUMALOG.
+- are pregnant or breastfeeding.
   You and your healthcare provider should talk about the best way to manage your diabetes while you are pregnant or breastfeeding.
   HUMALOG has not been studied in pregnant or nursing women.
-- about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+- take other medicines, including prescription and non-prescription medicines, vitamins and herbal supplements.
   Your HUMALOG dose may need to change if you take other medicines.
 
 Know the medicines you take.
@@ -144,9 +147,23 @@ What are the possible side effects of HUMALOG?
 - Skin thickens or pits at the injection site (lipodystrophy).
   Change (rotate) when you inject your insulin to help to prevent these skin changes from happening.
   Do not inject insulin into this type of skin.
-- Swelling of your hands and feet
 - Low potassium in your blood (hypokalemia)
 - Weight gain
+
+HUMALOG may cause serious side effects, including:
+
+- swelling of your hands and feet
+- heart failure.
+  Taking certain diabetes pills called thiazolidinediones or "TZDs" with HUMALOG may cause heart failure in some people.
+  This can happen even if you have never had heart failure or heart problems before.
+  If you already have heart failure it may get worse while you take TZDs with HUMALOG.
+  Your healthcare provider should monitor you closely while you are taking TZDs with HUMALOG.
+  Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
+  - shortness of breath
+  - swelling of your ankles or feet
+  - sudden weight gain
+
+Treatment with TZDs and HUMALOG may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
 
 These are not all of the possible side effects from HUMALOG.
 Ask your healthcare provider or pharmacist for more information.
@@ -205,18 +222,18 @@ __________
 
 Humalog® and Humalog® KwikPen™ are registered trademarks of Eli Lilly and Company.
 
-Patient Information revised May 23, 2011
+Patient Information revised March 11, 2013
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 2007, 2011, Eli Lilly and Company.
+Copyright © 2007, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 5564 AMP
+PV 5565 AMP
 
-Instructions for Use HUMALOG®KwikPen™ insulin lispro injection (rDNA origin)
+Instructions for Use HUMALOG® KwikPen™ insulin lispro injection (rDNA origin)
 
 Read the Instructions for Use before you start taking HUMALOG and each time you get a refill.
 There may be new information.
