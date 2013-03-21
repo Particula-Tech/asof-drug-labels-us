@@ -25,6 +25,6 @@ King Pharmaceuticals, Inc.
 
 Bristol, TN 37620
 
-LAB-0647-2.0
+LAB-0647-3.0
 
-February 2013
+March 2013

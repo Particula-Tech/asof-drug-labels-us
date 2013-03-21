@@ -10,7 +10,3 @@ Other infrequently occurring events include skin necrosis, erythema multiforme, 
 
 Reduction in bacterial growth after application of topical antibacterial agents has been reported to permit spontaneous healing of deep partial-thickness burns by preventing conversion of the partial thickness to full thickness by sepsis.
 However, reduction in bacterial colonization has caused delayed separation, in some cases necessitating escharotomy in order to prevent contracture.
-
-Absorption of silver sulfadiazine varies depending upon the percent of body surface area and the extent of the tissue damage.
-Although few have been reported, it is possible that any adverse reaction associated with sulfonamides may occur.
-Some of the reactions, which have been associated with sulfonamides, are as follows: blood dyscrasias including agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, and hemolytic anemia; dermatologic and allergic reactions, including Stevens-Johnson syndrome and exfoliative dermatitis; gastrointestinal reactions; hepatitis and hepatocellular necrosis; CNS reactions; and toxic nephrosis.
