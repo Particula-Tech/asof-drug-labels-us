@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019842"
+  ],
   "inn": "ibuprofen",
-  "labeler": "McNeil Consumer Healthcare",
+  "labeler": "Ortho McNeil Pharmaceuticals",
   "package_ndcs": [
     "0045-0448-04",
     "0045-0448-16"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "ibuprofen",
+      "name": "MOTRIN"
+    }
+  ],
   "setid": "1ec26930-abe6-4db3-9315-aa896f7d5232",
   "source": "dailymed"
 }

@@ -19,18 +19,18 @@ Absorption - In vivo studies indicate that ibuprofen is well absorbed orally fro
 
 Table 1 Pharmacokinetic Parameters of Ibuprofen Suspension [Mean values (% coefficient of variation)]
 
-| Formulation |  | Suspension | Suspension |
-| --- | --- | --- | --- |
-| Dose |  | 200mg (2.8mg/kg) in Adults | 10mg/kg in Febrile Children |
-| Number of Patients |  | 24 | 18 |
-| AUCinf (μg•h/mL) |  | 64 (27%) | 155 (24%) |
-| Cmax (μg/mL) |  | 19 (22%) | 55 (23%) |
-| Tmax (h) |  | 0.79 (69%) | 0.97 (57%) |
-| CI/F(mL/h/kg) |  | 45.6 (22%) | 68.6 (22%) |
-| Legend: | AUCinf = Area-under-the-curve to infinity |  |  |
-|  | Tmax = Time-to-peak plasma concentration |  |  |
-|  | Cmax = Peak plasma concentration |  |  |
-|  | Cl/F = Clearance divided by fraction at drug absorbed |  |  |
+| Formulation | Suspension | Suspension |
+| --- | --- | --- |
+| Dose | 200mg (2.8mg/kg) in Adults | 10mg/kg in Febrile Children |
+| Number of Patients | 24 | 18 |
+| AUCinf (μg•h/mL) | 64 (27%) | 155 (24%) |
+| Cmax (μg/mL) | 19 (22%) | 55 (23%) |
+| Tmax (h) | 0.79 (69%) | 0.97 (57%) |
+| CI/F(mL/h/kg) | 45.6 (22%) | 68.6 (22%) |
+| Legend: | AUCinf = Area-under-the-curve to infinity |  |
+|  | Tmax = Time-to-peak plasma concentration |  |
+|  | Cmax = Peak plasma concentration |  |
+|  | Cl/F = Clearance divided by fraction at drug absorbed |  |
 
 Antacids - A bioavailability study in adults has shown that there was no interference with the absorption of ibuprofen when given in conjunction with an antacid containing both aluminum hydroxide and magnesium hydroxide.
 
