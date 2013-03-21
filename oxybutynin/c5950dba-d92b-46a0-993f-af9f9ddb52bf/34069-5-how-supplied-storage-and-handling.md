@@ -59,5 +59,5 @@ for:
 
 Wilmington, NC 28405, USA
 
-CIA72763D Rev.
-7E 05/2012
+CIA72763E Rev.
+8E 02/2013
