@@ -70,3 +70,10 @@ Specific anti-insulin antibodies as well as cross-reacting anti-insulin antibodi
 Changes in cross-reactive antibodies were more common after NovoLog Mix 70/30 than with Novolin 70/30 but these changes did not correlate with change in HbA1c or increase in insulin dose.
 The clinical significance of these antibodies has not been established.
 Antibodies did not increase further after long-term exposure (>6 months) to NovoLog Mix 70/30.
+
+## 5.8 Fluid retention and heart failure can occur with concomitant use of PPAR-gamma agonists
+
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
+Fluid retention may lead to or exacerbate heart failure.
+Patients treated with insulin, including NovoLog Mix 70/30, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.

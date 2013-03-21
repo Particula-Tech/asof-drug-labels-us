@@ -32,6 +32,9 @@ What should I tell my healthcare provider before taking NovoLog® Mix 70/30?
 Before you use NovoLog® Mix 70/30, tell your healthcare provider if you:
 
 - •have kidney or liver problems
+- •take any other medicines, especially ones commonly called TZDs (thiazolidinediones).
+- •have heart failure or other heart problems.
+  If you have heart failure, it may get worse while you take TZDs with NovoLog® Mix 70/30.
 - •have any other medical conditions.
   Medical conditions can affect your insulin needs and your dose of NovoLog® Mix 70/30.
 - •are pregnant or plan to become pregnant.
@@ -145,6 +148,17 @@ Your dose of NovoLog® Mix 70/30 may need to be changed.
   - ∘a fast heartbeat
   - ∘sweating
   - ∘feel faint
+- •Swelling of your hands and feet
+- •Heart Failure.
+  Taking certain diabetes pills called thiazolidinediones or “TZDs” with NovoLog® Mix 70/30 may cause heart failure in some people.
+  This can happen even if you have never had heart failure or heart problems before.
+  If you already have heart failure it may get worse while you take TZDs with NovoLog® Mix 70/30.
+  Your healthcare provider should monitor you closely while you are taking TZDs with NovoLog® Mix 70/30.
+  Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
+  - ∘shortness of breath
+  - ∘swelling of your ankles or feet
+  - ∘sudden weight gain
+- Treatment with TZDs and NovoLog® Mix 70/30 may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
 
 The most common side effects of NovoLog® Mix 70/30 include:
 
@@ -209,17 +223,17 @@ All NovoLog® Mix 70/30 vials and NovoLog® Mix 70/30 FlexPen® are latex free.
 
 Helpful information for people with diabetes is published by the American Diabetes Association, 1701 N Beauregard Street, Alexandria, VA 22311 and is available at www.diabetes.org.
 
-Date of Issue: September 20, 2011
+Date of Issue: March 9, 2013
 
-Version: 8
+Version: 9
 
 Novo Nordisk®, NovoLog®, and FlexPen® are registered trademarks of Novo Nordisk A/S.
 
-NovoLog® is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
 
 FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004 and other patents pending.
 
-© 2002-2011 Novo Nordisk
+© 2002-2013 Novo Nordisk
 
 Manufactured by:
 
@@ -231,9 +245,9 @@ For information about NovoLog® Mix 70/30 contact:
 
 Novo Nordisk Inc.
 
-100 College Road West
+800 Scudders Mill Road
 
-Princeton, New Jersey 08540
+Plainsboro, New Jersey 08536
 
 1-800-727-6500
 
@@ -274,7 +288,7 @@ Step 1: If you are using a new vial, pull off the tamper-resistant cap (See Figu
 Step 2: Wipe the rubber stopper with an alcohol swab (See Figure B).
 
 Step 3: Roll the NovoLog Mix 70/30 vial between your hands 10 times.
-Keep the vial in a horizontal (flat) position (See Figure C). Roll the vial between your hands until the Novolog® Mix 70/30 looks white and cloudy.
+Keep the vial in a horizontal (flat) position (See Figure C). Roll the vial between your hands until the NovoLog® Mix 70/30 looks white and cloudy.
 Do not shake the vial.
 
 Step 4: Hold the syringe with the needle pointing up.
@@ -349,21 +363,21 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: December 2012
+Revised: March 2013
 
 NovoLog® is a registered trademark of Novo Nordisk A/S.
 
 NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
 
-© 2002-2012 Novo Nordisk
+© 2002-2013 Novo Nordisk
 
 For information about NovoLog® Mix 70/30 contact:
 
 Novo Nordisk Inc.
 
-100 College Road West
+800 Scudders Mill Road
 
-Princeton, New Jersey 08540
+Plainsboro, New Jersey 08536
 
 1-800-727-6500
 
@@ -455,7 +469,7 @@ I. Keep the needle pointing upwards, press the push-button all the way in (see d
 A drop of insulin should appear at the needle tip.
 If not, change the needle and repeat the procedure no more than 6 times.
 
-If you do not see a drop of insulin after 6 times, do not use the NovoLog Mix® 70/30 FlexPen® and contact Novo Nordisk at 1-800-727-6500.
+If you do not see a drop of insulin after 6 times, do not use the NovoLog® Mix 70/30 FlexPen® and contact Novo Nordisk at 1-800-727-6500.
 
 A small air bubble may remain at the needle tip, but it will not be injected.
 
@@ -557,9 +571,9 @@ Needles and NovoLog® Mix 70/30 FlexPen® must not be shared.
 Remember to keep the disposable NovoLog® Mix 70/30 FlexPen® with you.
 Do not leave it in a car or other location where it can get too hot or too cold.
 
-Date of Issue: May 7, 2010
+Date of Issue: March 2013
 
-Version: 8
+Version: 9
 
 Novo Nordisk®, NovoLog®, FlexPen®, and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
@@ -567,7 +581,7 @@ NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422
 
 FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004 and other patents pending.
 
-© 2002-2010 Novo Nordisk
+© 2002-2013 Novo Nordisk
 
 Manufactured by:
 
@@ -579,9 +593,9 @@ For information about NovoLog® Mix 70/30 contact:
 
 Novo Nordisk Inc.
 
-100 College Road West
+800 Scudders Mill Road
 
-Princeton, New Jersey 08540
+Plainsboro, New Jersey 08536
 
 1-800-727-6500
 

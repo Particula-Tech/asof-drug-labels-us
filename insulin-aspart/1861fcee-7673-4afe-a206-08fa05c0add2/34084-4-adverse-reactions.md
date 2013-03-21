@@ -7,7 +7,7 @@ Clinical trials are conducted under widely varying designs, therefore, the adver
 - •Hypoglycemia
 
 Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including NovoLog Mix 70/30 [see Warnings and Precautions (5.2)].
-NovoLog Mix 70/30 should not be used during episodes of hypoglycemia [see Contraindications (4)] and [Warnings and Precautions (5)].
+NovoLog Mix 70/30 should not be used during episodes of hypoglycemia [see Contraindications (4) and Warnings and Precautions (5)].
 
 - •Insulin initiation and glucose control intensification
 

@@ -58,3 +58,5 @@ Avoid freezing.
 Protect from light.
 
 novo nordisk®
+
+## Generic Section
