@@ -87,3 +87,10 @@ Interim therapy with subcutaneous injection may be required [see Dosage and Admi
 
 NovoLog should not be exposed to temperatures greater than 37°C (98.6°F).
 NovoLog that will be used in a pump should not be mixed with other insulin or with a diluent [see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17.2)].
+
+## 5.10 Fluid retention and heart failure with concomitant use of PPAR-gamma agonists
+
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
+Fluid retention may lead to or exacerbate heart failure.
+Patients treated with insulin, including NovoLog, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.

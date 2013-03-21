@@ -40,6 +40,9 @@ Tell your healthcare provider:
   NovoLog® has not been studied in nursing women.
 - •about all medicines you take, including prescriptions and non-prescription medicines, vitamins and herbal supplements.
   Your NovoLog® dose may change if you take other medicines.
+- •if you take any other medicines, especially ones commonly called TZDs (thiazolidinediones).
+- •if you have heart failure or other heart problems.
+  If you have heart failure, it may get worse while you take TZDs with NovoLog®.
 
 Know the medicines you take.
 Keep a list of your medicines with you to show your healthcare providers when you get a new medicine.
@@ -141,6 +144,16 @@ Talk to your healthcare provider if low blood sugar is a problem for you.
   Change (rotate) where you inject your insulin to help to prevent these skin changes from happening.
   Do not inject insulin into this type of skin.
 - •Swelling of your hands and feet
+- •Heart Failure.
+  Taking certain diabetes pills called thiazolidinediones or “TZDs” with NovoLog® may cause heart failure in some people.
+  This can happen even if you have never had heart failure or heart problems before.
+  If you already have heart failure it may get worse while you take TZDs with NovoLog®.
+  Your healthcare provider should monitor you closely while you are taking TZDs with NovoLog®.
+  Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
+  - ∘shortness of breath
+  - ∘swelling of your ankles or feet
+  - ∘sudden weight gain
+- Treatment with TZDs and NovoLog® may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
 - •Vision changes
 - •Low potassium in your blood (hypokalemia)
 - •Weight gain
@@ -199,9 +212,9 @@ NovoLog® ingredients include:
 
 All NovoLog® vials, PenFill® cartridges and NovoLog® FlexPen® are latex free.
 
-Date of Issue: June 2011
+Date of Issue: March 9, 2013
 
-Version: 11
+Version: 12
 
 Novo Nordisk®, NovoLog®, PenFill®, FlexPen®, NovoPen®, NovoFine®, and PenMate® are registered trademarks of Novo Nordisk A/S.
 
@@ -211,7 +224,7 @@ FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004, and othe
 
 PenFill® is covered by US Patent No. 5,693,027.
 
-© 2002-2011 Novo Nordisk
+© 2002-2013 Novo Nordisk
 
 Manufactured by:
 
@@ -223,9 +236,9 @@ For information about NovoLog® contact:
 
 Novo Nordisk Inc.
 
-100 College Road West
+800 Scudders Mill Road
 
-Princeton, New Jersey 08540
+Plainsboro, New Jersey 08536
 
 PATIENT INSTRUCTIONS FOR USE
 
@@ -342,21 +355,21 @@ NovoLog® is a registered trademark of Novo Nordisk A/S.
 
 NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
 
-© 2002-2012 Novo Nordisk
+© 2002-2013 Novo Nordisk
 
 For information about NovoLog® contact:
 
 Novo Nordisk Inc.
 
-100 College Road West
+800 Scudders Mill Road
 
-Princeton, New Jersey 08540
+Plainsboro, New Jersey 08536
 
 1-800-727-6500
 
 www.novonordisk-us.com
 
-Revised: December 2012
+Revised: March 2013
 
 PATIENT INSTRUCTIONS FOR USE
 
@@ -429,9 +442,9 @@ Do not throw used needles and cartridges in household trash or recycling bins.
 11.
 Put the pen cap back on the Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
 
-Date of Issue: June 2011
+Date of Issue: March 2013
 
-Version: 8
+Version: 9
 
 Novo Nordisk®, NovoLog®, PenFill®, and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
@@ -439,7 +452,7 @@ NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents p
 
 PenFill® is covered by US Patent No. 5,693,027.
 
-© 2002-2011 Novo Nordisk
+© 2002-2013 Novo Nordisk
 
 Manufactured by:
 
@@ -451,9 +464,9 @@ For information about NovoLog® contact:
 
 Novo Nordisk Inc.
 
-100 College Road West
+800 Scudders Mill Road
 
-Princeton, New Jersey 08540
+Plainsboro, New Jersey 08536
 
 PATIENT INSTRUCTIONS FOR USE
 

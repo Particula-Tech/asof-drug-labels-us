@@ -49,11 +49,13 @@ If these problems cannot be promptly corrected, patients should resume therapy w
 
 See separate leaflet.
 
-Date of Issue: June 2011
+Rx Only
 
-Version: 19
+Date of Issue: March 9, 2013
 
-Novo Nordisk®, NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, PenMate®, and NovoFine® are registered trademarks of Novo Nordisk A/S.
+Version: 20
+
+Novo Nordisk®, NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, PenMate® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
 NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
 
@@ -63,7 +65,7 @@ PenFill® is covered by US Patent No. 5,693,027.
 
 †The brands listed are the registered trademarks of their respective owners and are not trademarks of Novo Nordisk A/S.
 
-© 2002-2011 Novo Nordisk
+© 2002-2013 Novo Nordisk
 
 Manufactured by:
 
@@ -75,7 +77,7 @@ For information about NovoLog contact:
 
 Novo Nordisk Inc.
 
-Princeton, New Jersey 08540
+Plainsboro, New Jersey 08536
 
 1-800-727-6500
 
