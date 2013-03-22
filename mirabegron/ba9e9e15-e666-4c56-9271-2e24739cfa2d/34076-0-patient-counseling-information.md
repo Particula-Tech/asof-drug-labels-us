@@ -1,4 +1,4 @@
-# 17 Patient Counseling Information
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling (Patient Information)
 
@@ -140,6 +140,8 @@ When these muscle contractions happen too often or cannot be controlled, you can
 
 Rx Only
 
+PRODUCT OF JAPAN
+
 Manufactured by:
 
 Astellas Pharma Technologies, Inc.
@@ -154,6 +156,6 @@ Northbrook, Illinois 60062
 
 © 2012 Astellas Pharma US, Inc.
 
-Revised: June 2012
+Revised: September 2012
 
-11G054-MIR
+12H055-MIR

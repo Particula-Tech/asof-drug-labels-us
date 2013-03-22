@@ -1,4 +1,4 @@
-# 16 How Supplied
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Mirabegron is supplied as oval, film coated extended-release tablets, available in bottles and blister units as follows
 
