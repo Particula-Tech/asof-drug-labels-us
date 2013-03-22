@@ -59,10 +59,10 @@ Neonatal opioid withdrawal syndrome may be life-threatening and should be treate
 
 ## 8.7 Hepatic Impairment
 
-In a study that used a single 4 mg oral dose of immediate-release hydromorphone tablets, four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-µ) were observed in patients with moderate hepatic impairment (Child-Pugh Group B). Start patients with moderate hepatic impairment on 25% of the EXALGO dose that would be used in patients with normal hepatic function.
+In a study that used a single 4 mg oral dose of immediate-release hydromorphone tablets, four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-∞) were observed in patients with moderate hepatic impairment (Child-Pugh Group B). Start patients with moderate hepatic impairment on 25% of the EXALGO dose that would be used in patients with normal hepatic function.
 Closely monitor patients with moderate hepatic impairment for respiratory and central nervous system depression during initiation of therapy with EXALGO and during dose titration.
 The pharmacokinetics of hydromorphone in severe hepatic impairment patients have not been studied.
-As further increases in Cmax and AUC0-µ of hydromorphone in this group are expected, use of alternate analgesics is recommended [see Dosage and Administration (2.4)].
+As further increases in Cmax and AUC0-∞ of hydromorphone in this group are expected, use of alternate analgesics is recommended [see Dosage and Administration (2.4)].
 
 ## 8.8 Renal Impairment
 

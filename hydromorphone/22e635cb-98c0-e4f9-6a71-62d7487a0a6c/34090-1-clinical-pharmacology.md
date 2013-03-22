@@ -3,8 +3,8 @@
 ## 12.1 Mechanism of Action
 
 Hydromorphone, a semi-synthetic morphine derivative, is a hydrogenated ketone of morphine.
-Hydromorphone is principally an agonist of mu-receptors, showing a weak affinity for k-receptors.
-Comparing relative binding affinity for mu- and k-opioid receptors, hydromorphone binds more specifically to mu-receptors than structurally related morphine.
+Hydromorphone is principally an agonist of mu-receptors, showing a weak affinity for κ-receptors.
+Comparing relative binding affinity for mu- and κ-opioid receptors, hydromorphone binds more specifically to mu-receptors than structurally related morphine.
 As an opioid agonist, the principle therapeutic action of hydromorphone is analgesia.
 The precise mechanism of action of opioid analgesics is not known but the effects are thought to be mediated through opioid-specific receptors located predominantly in the central nervous system (CNS).
 Interaction with the mu-opioid receptor subtype is believed to be responsible for most of hydromorphone’s clinical effects.
@@ -125,8 +125,8 @@ The effect of race on EXALGO pharmacokinetics has not been studied.
 
 Hepatic Impairment
 
-In a study that used a single 4 mg oral dose of immediate-release hydromorphone tablets, four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-µ) were observed in patients with moderate hepatic impairment (Child-Pugh Group B). Pharmacokinetics of hydromorphone in severe hepatic impairment patients has not been studied.
-Further increase in Cmax and AUC0-µ of hydromorphone in this group is expected.
+In a study that used a single 4 mg oral dose of immediate-release hydromorphone tablets, four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-∞) were observed in patients with moderate hepatic impairment (Child-Pugh Group B). Pharmacokinetics of hydromorphone in severe hepatic impairment patients has not been studied.
+Further increase in Cmax and AUC0-∞ of hydromorphone in this group is expected.
 Start patients with moderate hepatic impairment on 25% of the usual dose of EXALGO and closely monitor for respiratory and central nervous system depression during dose titration.
 Consider alternate analgesic therapy for patients with severe hepatic impairment [see Dosage and Administration (2.4) and Specific Populations (8.7)].
 
@@ -140,8 +140,8 @@ As EXALGO is only intended for once-daily administration, consider use of an alt
 Drug Interaction/Alcohol Interaction
 
 An in vivo study examined the effect of alcohol (40%, 20%, 4% and 0%) on the bioavailability of a single dose of 16 mg of EXALGO in healthy, fasted or fed volunteers.
-The results showed that the hydromorphone mean AUC0-µ was 5% higher and 4% lower (not statistically significant) in the fasted and fed groups respectively after co-administration of 240 mL of 40% alcohol.
-The AUC0-µ was similarly unaffected in subjects following the co-administration of EXALGO and alcohol (240 mL of 20% or 4% alcohol).
+The results showed that the hydromorphone mean AUC0-∞ was 5% higher and 4% lower (not statistically significant) in the fasted and fed groups respectively after co-administration of 240 mL of 40% alcohol.
+The AUC0-∞ was similarly unaffected in subjects following the co-administration of EXALGO and alcohol (240 mL of 20% or 4% alcohol).
 
 The change in geometric mean Cmax with concomitant administration of alcohol and EXALGO ranged from an increase of 10% to 31% across all conditions studied.
 The change in mean Cmax was greater in the fasted group of subjects.
