@@ -1,7 +1,5 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
-
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Hematologic toxicity, including neutropenia and anemia [see Boxed Warning, Warnings and Precautions (5.1)].
@@ -9,11 +7,13 @@ The following adverse reactions are discussed in greater detail in other section
 - Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 - Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.4)].
 
+## 6.1 Clinical Trials Experience
+
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 Adults: The frequency and severity of adverse reactions associated with the use of zidovudine are greater in patients with more advanced infection at the time of initiation of therapy.
-Table 2 summarizes events reported at a statistically significant greater incidence for patients receiving zidovudine in a monotherapy study.
+Table 3 summarizes events reported at a statistically significant greater incidence for patients receiving zidovudine in a monotherapy study.
 
-Table 2.
+Table 3.
 Percentage (%) of Patients With Adverse Reactions* in Asymptomatic HIV-1 Infection (ACTG 019)
 
 | Adverse Reaction | Zidovudine 500 mg/day (n = 453) | Placebo (n = 428) |
@@ -29,11 +29,11 @@ Percentage (%) of Patients With Adverse Reactions* in Asymptomatic HIV-1 Infecti
 | Vomiting | 17% | 10% |
 | *Reported in ≥5% of study population. †Not statistically significant versus placebo. |  |  |
 
-In addition to the adverse reactions listed in Table 2, adverse reactions observed at an incidence of ≥5% in any treatment arm in clinical studies (NUCA3001, NUCA3002, NUCB3001, and NUCB3002) were abdominal cramps, abdominal pain, arthralgia, chills, dyspepsia, fatigue, insomnia, musculoskeletal pain, myalgia, and neuropathy.
+In addition to the adverse reactions listed in Table 3, adverse reactions observed at an incidence of ≥5% in any treatment arm in clinical studies (NUCA3001, NUCA3002, NUCB3001, and NUCB3002) were abdominal cramps, abdominal pain, arthralgia, chills, dyspepsia, fatigue, insomnia, musculoskeletal pain, myalgia, and neuropathy.
 Additionally, in these studies hyperbilirubinemia was reported at an incidence of ≤0.8%.
-Selected laboratory abnormalities observed during a clinical study of monotherapy with zidovudine are shown in Table 3.
+Selected laboratory abnormalities observed during a clinical study of monotherapy with zidovudine are shown in Table 4.
 
-Table 3.
+Table 4.
 Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Patients With Asymptomatic HIV-1 Infection (ACTG 019)
 
 | Test (Abnormal Level) | Zidovudine 500 mg/day (n = 453) | Placebo (n = 428) |
@@ -46,9 +46,9 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Patients With As
 | ULN = Upper limit of normal. |  |  |
 
 Pediatrics: The clinical adverse reactions reported among adult recipients of zidovudine may also occur in pediatric patients.
-Study ACTG 300: Selected clinical adverse reactions and physical findings with a ≥5% frequency during therapy with EPIVIR ® (lamivudine) Oral Suspension 4 mg/kg twice daily plus zidovudine160 mg/m 2 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 4.
+Study ACTG 300: Selected clinical adverse reactions and physical findings with a ≥5% frequency during therapy with EPIVIR ® (lamivudine) oral suspension 4 mg/kg twice daily plus zidovudine 160 mg/m 2 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 5.
 
-Table 4.
+Table 5.
 Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in Pediatric Patients in Study ACTG 300
 
 | Adverse Reaction | EPIVIR plus Zidovudine (n = 236) | Didanosine (n = 235) |
@@ -72,9 +72,9 @@ Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in P
 | Lymphadenopathy | 9% | 11% |
 | *Includes pain, discharge, erythema, or swelling of an ear. |  |  |
 
-Selected laboratory abnormalities experienced by therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 5.
+Selected laboratory abnormalities experienced by therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 6.
 
-Table 5.
+Table 6.
 Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Patients in Study ACTG 300
 
 | Test (Abnormal Level) | EPIVIR plus Zidovudine | Didanosine |

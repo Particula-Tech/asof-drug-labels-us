@@ -28,7 +28,7 @@ There was an increase in the number of tumors in the lung, liver, and female rep
 
 Oral teratology studies in the rat and in the rabbit at doses up to 500 mg/kg/day revealed no evidence of teratogenicity with zidovudine.
 Zidovudine treatment resulted in embryo/fetal toxicity as evidenced by an increase in the incidence of fetal resorptions in rats given 150 or 450 mg/kg/day and rabbits given 500 mg/kg/day.
-The doses used in the teratology studies resulted in peak zidovudine plasma concentrations (after one half of the daily dose) in rats 66 to 226 times, and in rabbits 12 to 87 times, mean steady-state peak human plasma concentrations (after one sixth of the daily dose) achieved with the recommended daily dose (100 mg every 4 hours).
+The doses used in the teratology studies resulted in peak zidovudine plasma concentrations (after one-half of the daily dose) in rats 66 to 226 times, and in rabbits 12 to 87 times, mean steady-state peak human plasma concentrations (after one-sixth of the daily dose) achieved with the recommended daily dose (100 mg every 4 hours).
 In an in vitro experiment with fertilized mouse oocytes, zidovudine exposure resulted in a dose-dependent reduction in blastocyst formation.
 In an additional teratology study in rats, a dose of 3,000 mg/kg/day (very near the oral median lethal dose in rats of 3,683 mg/kg) caused marked maternal toxicity and an increase in the incidence of fetal malformations.
 This dose resulted in peak zidovudine plasma concentrations 350 times peak human plasma concentrations.

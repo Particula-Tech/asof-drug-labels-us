@@ -3,7 +3,7 @@
 ## 2.1 Treatment of HIV-1 Infection
 
 Adults: The recommended oral dose of zidovudine capsules is 600 mg/day in divided doses in combination with other antiretroviral agents.
-Pediatric Patients (4 weeks to <18 years of age): Healthcare professionals should pay special attention to accurate calculation of the dose of zidovudine capsules, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
+Pediatric Patients (Aged 4 Weeks to <18 Years): Healthcare professionals should pay special attention to accurate calculation of the dose of zidovudine capsules, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
 Prescribers should calculate the appropriate dose of zidovudine capsules for each child based on body weight (kg) and should not exceed the recommended adult dose.
 Before prescribing zidovudine capsules, children should be assessed for the ability to swallow capsules.
 If a child is unable to reliably swallow a zidovudine capsule, the zidovudine syrup formulation should be prescribed.
@@ -12,9 +12,9 @@ Zidovudine syrup should be used to provide accurate dosage when whole capsules a
 
 Table 1: Recommended Pediatric Dosage of Zidovudine Capsules
 
-| b.i.d. | t.i.d. |  |  |
-| --- | --- | --- | --- |
 | Body Weight (kg) | Total Daily Dose | Dosage Regimen and Dose |  |
+| --- | --- | --- | --- |
+| Twice Daily | Three Times Daily |  |  |
 | 4 to <9 | 24 mg/kg/day | 12 mg/kg | 8 mg/kg |
 | ≥9 to <30 | 18 mg/kg/day | 9 mg/kg | 6 mg/kg |
 | ≥30 | 600 mg/day | 300 mg | 200 mg |
@@ -27,8 +27,17 @@ In some cases the dose calculated by mg/kg will not be the same as that calculat
 
 The recommended dosage regimen for administration to pregnant women (>14 weeks of pregnancy) and their neonates is: Maternal Dosing: 100 mg orally 5 times per day until the start of labor [see Clinical Studies (14.3)] .
 During labor and delivery, intravenous zidovudine should be administered at 2 mg/kg (total body weight) over 1 hour followed by a continuous intravenous infusion of 1 mg/kg/hour (total body weight) until clamping of the umbilical cord.
-Neonatal Dosing: 2 mg/kg orally every 6 hours starting within 12 hours after birth and continuing through 6 weeks of age.
-Neonates unable to receive oral dosing may be administered zidovudine intravenously at 1.5 mg/kg, infused over 30 minutes, every 6 hours.
+Neonatal Dosing: Start neonatal dosing within 12 hours after birth and continuing through 6 weeks of age.
+Neonates unable to receive oral dosing may be administered zidovudine intravenously.
+See Table 2.
+
+Table 2.
+Recommended Neonatal Dosages of Zidovudine
+
+| Route | Total Daily Dose | Dose and Dosage Regimen |
+| --- | --- | --- |
+| Oral | 8 mg/kg/day | 2 mg/kg every 6 hours |
+| IV | 6 mg/kg/day | 1.5 mg/kg infused over 30 minutes, every 6 hours |
 
 ## 2.3 Patients With Severe Anemia and/or Neutropenia
 

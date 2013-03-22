@@ -6,7 +6,7 @@ Therapy with zidovudine has been shown to prolong survival and decrease the inci
 
 Combination Therapy: Zidovudine in combination with other antiretroviral agents has been shown to be superior to monotherapy for one or more of the following endpoints: delaying death, delaying development of AIDS, increasing CD4+ cell counts, and decreasing plasma HIV-1 RNA.
 The clinical efficacy of a combination regimen that includes zidovudine was demonstrated in study ACTG 320.
-This study was a multi-center, randomized, double-blind, placebo-controlled trial that compared zidovudine 600 mg/day plus EPIVIR 300 mg/day to zidovudine plus EPIVIR plus indinavir 800 mg t.i.d.
+This study was a multi-center, randomized, double-blind, placebo-controlled trial that compared zidovudine 600 mg/day plus EPIVIR 300 mg/day to zidovudine plus EPIVIR plus indinavir 800 mg three times daily.
 The incidence of AIDS-defining events or death was lower in the triple-drug–containing arm compared with the 2-drug–containing arm (6.1% versus 10.9%, respectively).
 Monotherapy: In controlled studies of treatment-naive patients conducted between 1986 and 1989, monotherapy with zidovudine, as compared with placebo, reduced the risk of HIV-1 disease progression, as assessed using endpoints that included the occurrence of HIV-1-related illnesses, AIDS-defining events, or death.
 These studies enrolled patients with advanced disease (BW 002), and asymptomatic or mildly symptomatic disease in patients with CD4+ cell counts between 200 and 500 cells/mm 3 (ACTG 016 and ACTG 019).
@@ -19,9 +19,9 @@ ACTG 300 was a multi-center, randomized, double-blind study that provided for co
 A total of 471 symptomatic, HIV-1-infected therapy-naive pediatric patients were enrolled in these 2 treatment arms.
 The median age was 2.7 years (range: 6 weeks to 14 years), the mean baseline CD4+ cell count was 868 cells/mm 3 , and the mean baseline plasma HIV-1 RNA was 5 log 10 copies/mL.
 The median duration that patients remained on study was approximately 10 months.
-Results are summarized in Table 10.
+Results are summarized in Table 11.
 
-Table 10.
+Table 11.
 Number of Patients (%) Reaching a Primary Clinical Endpoint (Disease Progression or Death)
 
 | Endpoint | EPIVIR plus Zidovudine (n = 236) | Didanosine (n = 235) |
