@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS & USAGE
 
 Methocarbamol tablets USP are indicated as an adjunct to rest, physical therapy, and other measures for the relief of discomfort associated with acute, painful musculoskeletal conditions.
 The mode of action of methocarbamol has not been clearly identified, but may be related to its sedative properties.
