@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021516"
+  ],
+  "inn": "timolol",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-004-01",
+    "24208-004-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "timolol maleate",
+      "name": "Istalol"
+    }
+  ],
+  "setid": "258bbc8d-00ee-45b0-ac35-6f16c4e8d45f",
+  "source": "dailymed"
+}
