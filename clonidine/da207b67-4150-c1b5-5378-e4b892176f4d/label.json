@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017407"
+  ],
+  "inn": "clonidine",
+  "labeler": "Boehringer Ingelheim Promeco S.A. de C.V.",
+  "package_ndcs": [
+    "64674-006-01",
+    "64674-007-01",
+    "64674-011-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonidine hydrochloride",
+      "name": "Catapres"
+    }
+  ],
+  "setid": "da207b67-4150-c1b5-5378-e4b892176f4d",
+  "source": "dailymed"
+}
