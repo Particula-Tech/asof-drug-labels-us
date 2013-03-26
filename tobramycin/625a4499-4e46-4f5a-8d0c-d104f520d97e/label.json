@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA201688"
+  ],
+  "inn": "tobramycin",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0630-11",
+    "0078-0630-35",
+    "0078-0630-56"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tobramycin",
+      "name": "TOBI Podhaler"
+    }
+  ],
+  "setid": "625a4499-4e46-4f5a-8d0c-d104f520d97e",
+  "source": "dailymed"
+}
