@@ -59,7 +59,7 @@ In patients with type 2 diabetes administered sitagliptin 100 mg (N=81) or sitag
 
 JANUMET
 
-The results of a bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin/metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to co-administration of corresponding doses of sitagliptin (JANUVIA®2) and metformin hydrochloride as individual tablets.
+The results of a bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin/metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to co-administration of corresponding doses of sitagliptin (JANUVIA®) and metformin hydrochloride as individual tablets.
 
 Absorption
 
@@ -172,7 +172,7 @@ Elderly subjects (65 to 80 years) had approximately 19% higher plasma concentrat
 Metformin hydrochloride
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half life is prolonged, and Cmax is increased, compared to healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see GLUCOPHAGE3 prescribing information: CLINICAL PHARMACOLOGY, Special Populations, Geriatrics).
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see GLUCOPHAGE prescribing information: CLINICAL PHARMACOLOGY, Special Populations, Geriatrics).
 
 JANUMET treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced [see Warnings and Precautions (5.1, 5.4)].
 
