@@ -9,13 +9,6 @@ Rx only.
 4 fl. oz.
 (120 mL)
 
-Manufactured for: PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869
+janssen
 
-Manufactured by: Janssen Pharmaceutica, N.V.
-Beerse, Belgium
-
-PriCara® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
-
-© OMJPI 2004
-
-US - 979392
+US - 987863
