@@ -132,11 +132,11 @@ Drug Interactions
 In Vitro Assessment of Drug Interactions
 
 Sitagliptin is not an inhibitor of CYP isozymes CYP3A4, 2C8, 2C9, 2D6, 1A2, 2C19 or 2B6, and is not an inducer of CYP3A4.
-Sitagliptin is a p-glycoprotein substrate, but does not inhibit p‑glycoprotein mediated transport of digoxin.
+Sitagliptin is a p-glycoprotein substrate, but does not inhibit p-glycoprotein mediated transport of digoxin.
 Based on these results, sitagliptin is considered unlikely to cause interactions with other drugs that utilize these pathways.
 
 Sitagliptin is not extensively bound to plasma proteins.
-Therefore, the propensity of sitagliptin to be involved in clinically meaningful drug‑drug interactions mediated by plasma protein binding displacement is very low.
+Therefore, the propensity of sitagliptin to be involved in clinically meaningful drug-drug interactions mediated by plasma protein binding displacement is very low.
 
 In Vivo Assessment of Drug Interactions
 
