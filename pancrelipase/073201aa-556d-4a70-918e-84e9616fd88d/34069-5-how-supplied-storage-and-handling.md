@@ -35,6 +35,15 @@ Each CREON capsule is available as a two-piece gelatin capsule with orange opaqu
 - 100 capsules (NDC 0032-1224-01)
 - 250 capsules (NDC 0032-1224-07)
 
+CREON (pancrelipase) Delayed-Release Capsules
+
+36,000 USP units of lipase; 114,000 USP units of protease; 180,000 USP units of amylase
+
+Each CREON capsule is available as a two-piece gelatin capsule with blue opaque cap with imprint “CREON 1236” and a colorless transparent body that contains tan-colored, delayed-release pancrelipase supplied in bottles of:
+
+- 100 capsules (NDC 0032-3016-13)
+- 250 capsules (NDC 0032-3016-28)
+
 Storage and Handling
 
 CREON must be stored at room temperature up to 25°C (77°F) and protected from moisture.

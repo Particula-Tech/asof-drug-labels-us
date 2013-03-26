@@ -10,3 +10,4 @@ Each CREON delayed-release capsule strength contains the specified amounts of li
 - 6,000 USP units of lipase; 19,000 USP units of protease; 30,000 USP units of amylase delayed-release capsules have an orange opaque cap with imprint “CREON 1206” and a blue opaque body.
 - 12,000 USP units of lipase; 38,000 USP units of protease; 60,000 USP units of amylase delayed-release capsules have a brown opaque cap with imprint “CREON 1212” and a colorless transparent body.
 - 24,000 USP units of lipase; 76,000 USP units of protease; 120,000 USP units of amylase delayed-release capsules have an orange opaque cap with imprint “CREON 1224” and a colorless transparent body.
+- 36,000 USP units of lipase; 114,000 USP units of protease; 180,000 USP units of amylase delayed-release capsules have a blue opaque cap with imprint “CREON 1236” and a colorless transparent body.

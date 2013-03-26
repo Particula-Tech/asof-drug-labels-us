@@ -29,14 +29,16 @@ Advise patients and caregivers to contact their healthcare professional immediat
 
 Manufactured by:
 
-- Abbott Products GmbH
-- Hannover, Germany
+Abbott Laboratories GmbH
 
-Marketed By:
+Hannover, Germany
 
-- Abbott Laboratories
-- North Chicago, IL 60064, U.S.A.
+Marketed by:
 
-1055216 12E Rev Jul 2011
+AbbVie Inc.
 
-© 2011 Abbott Laboratories
+North Chicago, IL 60064, U.S.A.
+
+© 2012 AbbVie Inc.
+
+1083531 March, 2013

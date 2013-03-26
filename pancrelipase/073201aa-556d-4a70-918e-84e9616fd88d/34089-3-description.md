@@ -26,3 +26,6 @@ The shells contain black iron oxide, gelatin, red iron oxide, sodium lauryl sulf
 
 24,000 USP units of lipase; 76,000 USP units of protease; 120,000 USP units of amylase delayed-release capsules have a Swedish-orange opaque cap with imprint “CREON 1224” and a colorless transparent body.
 The shells contain gelatin, red iron oxide, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
+
+36,000 USP units of lipase; 114,000 USP units of protease; 180,000 USP units of amylase delayed-release capsules have a blue opaque cap with imprint “CREON 1236” and a colorless transparent body.
+The shells contain gelatin, titanium dioxide, FD&C Blue No. 2 and sodium lauryl sulfate.

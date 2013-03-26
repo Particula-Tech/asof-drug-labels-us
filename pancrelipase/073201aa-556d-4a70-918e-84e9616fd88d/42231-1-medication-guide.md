@@ -121,7 +121,7 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
 
-You may also report side effects to Abbott Laboratories at 1-800-241-1643.
+You may also report side effects to AbbVie Inc. at 1-800-633-9110.
 
 How should I store CREON?
 
@@ -144,7 +144,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about CREON.
 If you would like more information, talk to your doctor.
 You can ask your doctor or pharmacist for information about CREON that is written for healthcare professionals.
-For more information, go to www.creon-us.com or call toll-free [1-800-241-1643].
+For more information, go to www.creon-us.com or call toll-free [1-800-633-9110].
 
 What are the ingredients in CREON?
 
@@ -156,20 +156,22 @@ The shells of the CREON 6,000 USP units of lipase, 12,000 USP units of lipase, a
 
 In addition:
 
-The shells for the CREON 3,000 USP units of lipase contain titanium dioxide and hypromellose.
+The shells for the CREON 3,000 USP units of lipase strength capsules contain titanium dioxide and hypromellose.
 
-The shells of the 6,000 USP units of lipase strength capsules contain FD&C Blue No. 2.
+The shells of the CREON 6,000 USP units of lipase strength capsules contain FD&C Blue No. 2.
 
-The shells of the 12,000 USP units of lipase strength capsules contain black iron oxide.
+The shells of the CREON 12,000 USP units of lipase strength capsules contain black iron oxide.
+
+The shells of the CREON 36,000 USP units of lipase strength capsules contain gelatin, titanium dioxide, sodium lauryl sulfate and FD&C Blue No. 2.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for:
 
-Abbott Laboratories North Chicago, IL 60064, U.S.A.
+AbbVie Inc.
 
-1055216 12E Rev Jul 2011
+North Chicago, IL 60064, U.S.A.
 
-© 2011 Abbott Laboratories
+© 2012 AbbVie Inc.
 
-Rev July/2011
+1083531 March, 2013
