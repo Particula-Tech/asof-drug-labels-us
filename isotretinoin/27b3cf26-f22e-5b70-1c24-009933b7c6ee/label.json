@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA202099"
+  ],
+  "inn": "isotretinoin",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-135-79",
+    "55111-135-81",
+    "55111-136-79",
+    "55111-136-81",
+    "55111-137-79",
+    "55111-137-81"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "isotretinoin",
+      "name": "ZENATANE"
+    }
+  ],
+  "setid": "27b3cf26-f22e-5b70-1c24-009933b7c6ee",
+  "source": "dailymed"
+}
