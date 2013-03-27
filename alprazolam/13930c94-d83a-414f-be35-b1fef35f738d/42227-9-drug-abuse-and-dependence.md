@@ -29,4 +29,4 @@ As with all anxiolytics, repeat prescriptions should be limited to those who are
 
 ## Controlled Substance Class
 
-Alprazolam is a controlled substance under the Controlled Substance Act by the Drug Enforcement Administration and alprazolam tablets have been assigned to Schedule IV.
+Alprazolam is a controlled substance under the Controlled Substance Act by the Drug Enforcement Administration and Alprazolam Tablets have been assigned to Schedule IV.

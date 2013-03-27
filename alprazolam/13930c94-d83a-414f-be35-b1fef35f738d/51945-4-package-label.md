@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 0.25 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 0.25 mg Bottle Label
 
 NDC 59762-3719-1 100 Tablets
 
@@ -10,9 +10,9 @@ alprazolam tablets, USP CIV
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Bottle Label
 
-NDC 59762-3720-1 100 Tablets
+NDC 59762-3720-4 1000 Tablets
 
 GREENSTONE® BRAND
 
@@ -22,7 +22,7 @@ alprazolam tablets, USP CIV
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 1 mg Bottle Label
 
 NDC 59762-3721-1 100 Tablets
 
@@ -34,7 +34,7 @@ alprazolam tablets, USP CIV
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 2 mg Bottle Label
 
 NDC 59762-3722-1 100 Tablets
 

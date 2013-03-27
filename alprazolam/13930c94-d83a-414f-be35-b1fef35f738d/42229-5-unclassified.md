@@ -1,3 +1,5 @@
+Rx only
+
 LAB-0005-6.0
 
 August 2011
