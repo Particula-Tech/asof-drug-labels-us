@@ -65,6 +65,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - non-steroidal anti-inflammatory drugs including celecoxib, ibuprofen, and naproxen
 - prednisone, a steroid used to treat skin, gastrointestinal, hematological or respiratory disorders
 - antiviral medications used to treat HIV like saquinavir or zidovudine
+- tofacitinib for rheumatoid arthritis
 - vitamin A nutritional supplement
 
 Since there are many brand names for these medicines, check with your doctor or pharmacist if you have any questions.
@@ -150,4 +151,4 @@ You can ask your pharmacist or doctor for information about DIFLUCAN that is wri
 
 You can also visit the DIFLUCAN Internet site at www.diflucan.com.
 
-LAB-0380-5.0 June 2011
+LAB-0380-6.0 March 2013

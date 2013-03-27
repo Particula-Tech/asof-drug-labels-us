@@ -1,52 +1,115 @@
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Blister Pack
 
-NDC 0049-3410-30
-
-30 Tablets
-
-DIFLUCAN® (Fluconazole Tablets)
-
-50 mg
-
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
-
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
-
-NDC 0049-3420-30
-
-30 Tablets
-
-DIFLUCAN® (Fluconazole Tablets)
+DIFLUCAN® (Fluconazole Tablet)
 
 100 mg
+
+ROERIG DIV OF PFIZER INC, NY, NY 10017
+
+EXP & LOT AREA
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Blister Pack Carton
+
+100 Tablets NDC 0049-3420-41
+
+DIFLUCAN® 100 (Fluconazole Tablets)
+
+100 mg
+
+For in-institution use only
 
 Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Tablet Blister Pack
 
-12 Cards x 1 Tablet
+1 Blister x 1 Tablet * Due to Candida
 
-NDC 0049-3500-79
-
-Rx only
+The easy ORAL cure for most vaginal yeast* infections
 
 Diflucan®150-mg (fluconazole tablet)
 
+Rx only
+
+Directions: Push tablet through foil and take by mouth
+
+Your doctor has prescribed Diflucan® (fluconazole) for a vaginal yeast* infection
+
+Diflucan (fluconazole) is a unique treatment for vaginal yeast infections because it is taken orally.
+Just one oral tablet provides a full course of therapy sufficient to cure most vaginal yeast infections...it's that easy.
+
+Some important things to know about Diflucan
+
+- Diflucan may be taken anytime—day or night, with or without meals—so you should take it by mouth immediately to ensure the earliest possible relief from the infection and its symptoms.
+
+*Due to Candida
+
+# PRINCIPAL DISPLAY PANEL - 12 x 150 mg Blister Pack Carton
+
+12 Blisters x 1 Tablet
+
+NDC 0049-3500-79 Rx only
+
+Diflucan®150-mg (fluconazole tablet)
+
+Distributed by
+
 Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Blister Pack
 
-NDC 0049-3430-30
-
-30 Tablets
-
-DIFLUCAN® (Fluconazole Tablets)
+DIFLUCAN® (Fluconazole Tablet)
 
 200 mg
 
+ROERIG DIV OF PFIZER INC, NY, NY 10017
+
+EXP & LOT AREA
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Blister Pack Carton
+
+100 Tablets NDC 0049-3430-41
+
+DIFLUCAN® 200 (Fluconazole Tablets)
+
+200 mg
+
+For in-institution use only
+
 Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 35 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Label
+
+NDC 0049-3440-19
+
+35 mL when reconstituted
+
+DIFLUCAN® (Fluconazole for Oral Suspension)
+
+ORANGE FLAVORED
+
+10 mg/mL
+
+when reconstituted
+
+Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Carton
+
+NDC 0049-3440-19
+
+35 mL when reconstituted
+
+DIFLUCAN® (Fluconazole for Oral Suspension)
+
+ORANGE FLAVORED
+
+10 mg/mL
+
+when reconstituted
+
+Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+
+# PRINCIPAL DISPLAY PANEL - 40 mg/mL Bottle Label
 
 NDC 0049-3450-19
 
@@ -56,78 +119,24 @@ DIFLUCAN® (Fluconazole for Oral Suspension)
 
 ORANGE FLAVORED
 
-40 mg/mL when reconstituted
+40 mg/mL
+
+when reconstituted
 
 Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 100 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 40 mg/mL Bottle Carton
 
-NDC 0049-3371-26
+NDC 0049-3450-19
 
-100 mL Rx only
+35 mL when reconstituted
 
-DIFLUCAN® (Fluconazole Injection) (for intravenous infusion only)
+DIFLUCAN® (Fluconazole for Oral Suspension)
 
-Sterile Solution in 0.9% Sodium Chloride Injection
+ORANGE FLAVORED
 
-200 mg/100 mL* (2 mg/mL)
+40 mg/mL
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
-
-# PRINCIPAL DISPLAY PANEL - 200 mL Bottle Label
-
-NDC 0049-3372-26
-
-200 mL Rx only
-
-DIFLUCAN® (Fluconazole Injection) (for intravenous infusion only)
-
-Sterile Solution in 0.9% Sodium Chloride Injection
-
-400 mg/200 mL* (2 mg/mL)
+when reconstituted
 
 Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
-
-# PRINCIPAL DISPLAY PANEL - 200 mL Container Label
-
-LOT EXP
-
-Diflucan® (fluconazole) injection 400 mg
-
-ISO-OSMOTIC SODIUM CHLORIDE DILUENT
-
-Pfizer Roerig
-
-200 mL (2 mg/mL)*
-
-NDC 0049-3436-26 2B3436 STERILE NONPYROGENIC
-
-*EACH 200 mL CONTAINS 400 mg OF FLUCONAZOLE AND 1.8 g OF SODIUM CHLORIDE (USP) IN WATER FOR INJECTION (USP) OSMOLARITY 315 mOsmol/L (CALC)
-
-DOSAGE INTRAVENOUSLY AS DIRECTED BY A PHYSICIAN SEE PACKAGE INSERT
-
-CAUTIONS DO NOT ADD SUPPLEMENTARY MEDICATION MUST NOT BE USED IN SERIES CONNECTIONS DO NOT USE UNLESS SOLUTION IS CLEAR RX ONLY
-
-VIAFLEX PLUS SINGLE DOSE CONTAINER PL 146 PLASTIC DIFLUCAN IS A REGISTERED TRADEMARK OF PFIZER INC VIAFLEX AND PL 146 ARE REGISTERED TRADEMARKS OF BAXTER INTERNATIONAL INC MANUFACTURED FOR ROERIG A DIV OF PFIZER INC NY NY 10017 USA BY BAXTER HEALTHCARE CORPORATION DEERFIELD IL 60015 USA 01 4585 00 4 1214
-
-# PRINCIPAL DISPLAY PANEL - 200 mL Container Label
-
-LOT EXP
-
-Diflucan® (fluconazole) injection 400 mg
-
-ISO-OSMOTIC DEXTROSE DILUENT
-
-Pfizer Roerig
-
-200 mL (2 mg/mL)*
-
-NDC 0049-3438-26 2B3434 STERILE NONPYROGENIC
-
-*EACH 200 mL CONTAINS 400 mg OF FLUCONAZOLE AND 11.2 g OF DEXTROSE (USP) IN WATER FOR INJECTION (USP) OSMOLARITY 289 mOsmol/L (CALC)
-
-DOSAGE INTRAVENOUSLY AS DIRECTED BY A PHYSICIAN SEE PACKAGE INSERT
-
-CAUTIONS DO NOT ADD SUPPLEMENTARY MEDICATION MUST NOT BE USED IN SERIES CONNECTIONS DO NOT USE UNLESS SOLUTION IS CLEAR RX ONLY
-
-VIAFLEX PLUS SINGLE DOSE CONTAINER PL 146 PLASTIC DIFLUCAN IS A REGISTERED TRADEMARK OF PFIZER INC VIAFLEX AND PL 146 ARE REGISTERED TRADEMARKS OF BAXTER INTERNATIONAL INC MANUFACTURED FOR ROERIG A DIV OF PFIZER INC NY NY 10017 USA BY BAXTER HEALTHCARE CORPORATION DEERFIELD IL 60015 USA 01 4587 00 3 1215
