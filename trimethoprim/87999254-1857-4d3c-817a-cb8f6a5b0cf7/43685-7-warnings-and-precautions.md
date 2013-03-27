@@ -21,7 +21,7 @@ This precaution is necessary if the sterility of the drops is to be maintained.
 If redness, irritation, swelling or pain persists or increases, discontinue use immediately and contact your physician.
 Patients should be advised not to wear contact lenses if they have signs and symptoms of ocular bacterial infections.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis: Long-term studies in animals to evaluate carcinogenic potential have not been conducted with polymyxin B sulfate or trimethoprim.
 
@@ -35,7 +35,7 @@ No adverse effects on fertility or general reproductive performance were observe
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 Pregnancy Category C. Animal reproduction studies have not been conducted with polymyxin B sulfate.
 It is not known whether polymyxin B sulfate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
@@ -51,19 +51,19 @@ In a separate survey, Brumfitt and Pursell also found no congenital abnormalitie
 
 Because trimethoprim may interfere with folic acid metabolism, trimethoprim should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic effects
+### Nonteratogenic Effects
 
 The oral administration of trimethoprim to rats at a dose of 70 mg/kg/day commencing with the last third of gestation and continuing through parturition and lactation caused no deleterious effects on gestation or pup growth and survival.
 
-## Nursing mothers
+## Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when polymyxin B sulfate and trimethoprim ophthalmic solution is administered to a nursing woman.
 
-## Pediatric use
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients below the age of 2 months have not been established (see WARNINGS).
 
-## Geriatric use
+## Geriatric Use
 
 No overall differences in safety or effectiveness have been observed between elderly and other adult patients.

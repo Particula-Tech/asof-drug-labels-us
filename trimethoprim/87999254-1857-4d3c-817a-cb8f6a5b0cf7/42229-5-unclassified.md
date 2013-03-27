@@ -1,9 +1,7 @@
-# MANUFACTURER INFORMATION
+(Sterile)
 
-Bausch & Lomb Incorporated Tampa, Florida 33637
+Rx only
 
-©Bausch & Lomb Incorporated
+FOR USE IN THE EYES ONLY
 
-Revised August 2007
-
-9117800 (Folded) 9117900 (Flat)
+*Does not meet USP packaging specification for light resistance.
