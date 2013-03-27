@@ -112,7 +112,7 @@ Cardiac disorders: Frequent: palpitation; Infrequent: sinus tachycardia
 
 Ear and Labyrinth disorders: Frequent: Vertigo; Infrequent: tinnitus, ear pain
 
-Eye disorders: Frequent: blurred vision; Infrequent: tmydriasis, photophobia
+Eye disorders: Frequent: blurred vision; Infrequent: mydriasis, photophobia
 
 Gastrointestinal disorders: Frequent: diarrhea, vomiting, dyspepsia, abdominal pain; Infrequent: dysphagia, salivary hypersecretion
 
@@ -143,7 +143,7 @@ Discontinuation-Emergent Symptoms: Incidence in Short-Term, Placebo-Controlled T
 
 |  | Alprazolam XR (n=422) | Placebo (n=261) |
 | --- | --- | --- |
-| System Organ Class/Adverse Event | Percentage of Patients Reporting Adverse Event |  |
+| System Organ Class/AdverseEvent | Percentage of Patients Reporting Adverse Event |  |
 | Nervous system disorders |  |  |
 | Tremor | 28.2 | 10.7 |
 | Headache | 26.5 | 12.6 |
@@ -185,5 +185,4 @@ Instances of irritability, hostility, and intrusive thoughts have been reported 
 Various adverse drug reactions have been reported in association with the use of Alprazolam tablets since market introduction.
 The majority of these reactions were reported through the medical event voluntary reporting system.
 Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of Alprazolam tablets cannot be readily determined.
-Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea.
-(see PRECAUTIONS).
+Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).

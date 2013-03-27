@@ -81,17 +81,25 @@ The following are examples of drugs known to inhibit the metabolism of alprazola
 
 ### Potent CYP3A Inhibitors
 
-Azole antifungal agents — Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
+#### Azole antifungal agents
+
+Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
 The coadministration of alprazolam with these agents is not recommended.
 Other azole-type antifungal agents should also be considered potent CYP3A inhibitors and the coadministration of alprazolam with them is not recommended (see CONTRAINDICATIONS).
 
-Drugs demonstrated to be CYP3A inhibitors on the basis of clinical studies involving alprazolam (caution and consideration of appropriate alprazolam dose reduction are recommended during coadministration with the following drugs)
+### Drugs demonstrated to be CYP3A inhibitors on the basis of clinical studies involving alprazolam (caution and consideration of appropriate alprazolam dose reduction are recommended during coadministration with the following drugs)
 
-Nefazodone — Coadministration of nefazodone increased alprazolam concentration two-fold.
+#### Nefazodone
 
-Fluvoxamine — Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
+Coadministration of nefazodone increased alprazolam concentration two-fold.
 
-Cimetidine — Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
+#### Fluvoxamine
+
+Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
+
+#### Cimetidine
+
+Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
 
 ### Other Drugs Possibly Affecting Alprazolam Metabolism
 
@@ -122,7 +130,7 @@ The usual precautions in treating patients with impaired renal, hepatic, or pulm
 There have been rare reports of death in patients with severe pulmonary disease shortly after the initiation of treatment with Alprazolam tablets.
 A decreased systemic alprazolam elimination rate (eg, increased plasma half-life) has been observed in both alcoholic liver disease patients and obese patients receiving Alprazolam tablets (see CLINICAL PHARMACOLOGY).
 
-## Information For Patients
+## Information for Patients
 
 To assure safe and effective use of Alprazolam XR, the physician should provide the patient with the following guidance.
 
@@ -164,11 +172,17 @@ Drugs which inhibit this metabolic pathway may have a profound effect on the cle
 
 ### Drugs demonstrated to be CYP3A inhibitors of possible clinical significance on the basis of clinical studies involving alprazolam (caution is recommended during coadministration with alprazolam)
 
-Fluoxetine — Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased half-life by 17%, and decreased measured psychomotor performance.
+#### Fluoxetine
 
-Propoxyphene — Coadministration of propoxyphene decreased the maximum plasma concentration of alprazolam by 6%, decreased clearance by 38%, and increased half-life by 58%.
+Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased half-life by 17%, and decreased measured psychomotor performance.
 
-Oral Contraceptives — Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased half-life by 29%.
+#### Propoxyphene
+
+Coadministration of propoxyphene decreased the maximum plasma concentration of alprazolam by 6%, decreased clearance by 38%, and increased half-life by 58%.
+
+#### Oral Contraceptives
+
+Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased half-life by 29%.
 
 ### Drugs and other substances demonstrated to be CYP3A inhibitors on the basis of clinical studies involving benzodiazepines metabolized similarly to alprazolam or on the basis of in vitro studies with alprazolam or other benzodiazepines (caution is recommended during coadministration with alprazolam)
 
@@ -186,7 +200,7 @@ Carbamazepine can increase alprazolam metabolism and therefore can decrease plas
 
 Although interactions between benzodiazepines and commonly employed clinical laboratory tests have occasionally been reported, there is no consistent pattern for a specific drug or specific test.
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenic potential was observed during 2-year bioassay studies of alprazolam in rats at doses up to 30 mg/kg/day (150 times the maximum recommended daily human dose of 10 mg/day) and in mice at doses up to 10 mg/kg/day (50 times the maximum recommended daily human dose).
 
@@ -208,7 +222,7 @@ Alprazolam produced no impairment of fertility in rats at doses up to 5 mg/kg/da
 It should be considered that the child born of a mother who is receiving benzodiazepines may be at some risk for withdrawal symptoms from the drug during the postnatal period.
 Also, neonatal flaccidity and respiratory problems have been reported in children born of mothers who have been receiving benzodiazepines.
 
-## Labor And Delivery
+## Labor and Delivery
 
 Alprazolam has no established use in labor or delivery.
 
