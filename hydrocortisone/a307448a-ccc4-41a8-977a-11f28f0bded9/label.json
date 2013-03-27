@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA016199"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "ANIP Acquisition Company",
+  "package_ndcs": [
+    "62559-111-07",
+    "62559-111-11"
+  ],
+  "products": [
+    {
+      "form": "ENEMA",
+      "generic": "hydrocortisone",
+      "name": "Cortenema"
+    }
+  ],
+  "setid": "a307448a-ccc4-41a8-977a-11f28f0bded9",
+  "source": "dailymed"
+}
