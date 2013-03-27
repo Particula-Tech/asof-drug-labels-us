@@ -4,7 +4,7 @@ XANAX Tablets contain alprazolam which is a triazolo analog of the 1,4 benzodiaz
 
 The chemical name of alprazolam is 8-Chloro-1-methyl-6-phenyl-4H-s-triazolo [4,3-α] [1,4] benzodiazepine.
 
-The structural formula is represented below:
+The structural formula is represented to the right:
 
 Alprazolam is a white crystalline powder, which is soluble in methanol or ethanol but which has no appreciable solubility in water at physiological pH.
 

@@ -4,7 +4,7 @@
 
 Certain adverse clinical events, some life-threatening, are a direct consequence of physical dependence to XANAX.
 These include a spectrum of withdrawal symptoms; the most important is seizure (see DRUG ABUSE AND DEPENDENCE).
-Even after relatively short-term use at the doses recommended for the treatment of transient anxiety and anxiety disorder (ie, 0.75 to 4.0 mg per day), there is some risk of dependence.
+Even after relatively shortterm use at the doses recommended for the treatment of transient anxiety and anxiety disorder (ie, 0.75 to 4.0 mg per day), there is some risk of dependence.
 Spontaneous reporting system data suggest that the risk of dependence and its severity appear to be greater in patients treated with doses greater than 4 mg/day and for long periods (more than 12 weeks).
 However, in a controlled postmarketing discontinuation study of panic disorder patients, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
 In contrast, patients treated with doses of XANAX greater than 4 mg/day had more difficulty tapering to zero dose than those treated with less than 4 mg/day.
@@ -77,7 +77,9 @@ The following are examples of drugs known to inhibit the metabolism of alprazola
 
 ## Potent CYP3A Inhibitors
 
-Azole antifungal agents— Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
+### Azole antifungal agents
+
+Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
 The coadministration of alprazolam with these agents is not recommended.
 Other azole-type antifungal agents should also be considered potent CYP3A inhibitors and the coadministration of alprazolam with them is not recommended (see CONTRAINDICATIONS).
 
