@@ -186,6 +186,4 @@ Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Issued: 04/2012
-
-196664-01
+Content Updated: April 2013 196664-02
