@@ -11,7 +11,7 @@ Clinically, all benzodiazepines cause a dose-related central nervous system depr
 ### Absorption
 
 Following oral administration of XANAX (immediate-release) Tablets, alprazolam is readily absorbed.
-Peak concentrations in the plasma occur in one to two hours following administration.
+Peak concentrations in the plasma occur in one to two hours following 2 administration.
 Plasma levels are proportional to the dose given; over the dose range of 0.5 to 3.0 mg, peak levels of 8.0 to 37 ng/mL were observed.
 Using a specific assay methodology, the mean plasma elimination half-life of alprazolam has been found to be about 11.2 hours (range: 6.3–26.9 hours) in healthy adults.
 
@@ -42,7 +42,7 @@ Their half-lives appear to be similar to that of alprazolam.
 The pharmacokinetic parameters at steady-state for the two hydroxylated metabolites of alprazolam (4-hydroxyalprazolam and α-hydroxyalprazolam) were similar for XANAX and XANAX XR Tablets, indicating that the metabolism of alprazolam is not affected by absorption rate.
 The plasma concentrations of 4-hydroxyalprazolam and α-hydroxyalprazolam relative to unchanged alprazolam concentration after both XANAX XR and XANAX Tablets were always less than 10% and 4%, respectively.
 The reported relative potencies in benzodiazepine receptor binding experiments and in animal models of induced seizure inhibition are 0.20 and 0.66, respectively, for 4-hydroxyalprazolam and α-hydroxyalprazolam.
-Such low concentrations and the lesser potencies of 4-hydroxyalprazolam and α-hydroxyalprazolam suggest that they are unlikely to contribute much to the pharmacological effects of alprazolam.
+Such low concentrations 3 and the lesser potencies of 4-hydroxyalprazolam and α-hydroxyalprazolam suggest that they are unlikely to contribute much to the pharmacological effects of alprazolam.
 The benzophenone metabolite is essentially inactive.
 
 ### Elimination
@@ -62,13 +62,21 @@ In an obese group of subjects the half-life of alprazolam ranged between 9.9 and
 
 Because of its similarity to other benzodiazepines, it is assumed that alprazolam undergoes transplacental passage and that it is excreted in human milk.
 
-Race — Maximal concentrations and half-life of alprazolam are approximately 15% and 25% higher in Asians compared to Caucasians.
+#### Race
 
-Pediatrics — The pharmacokinetics of alprazolam after administration of the XANAX XR Tablet in pediatric patients have not been studied.
+Maximal concentrations and half-life of alprazolam are approximately 15% and 25% higher in Asians compared to Caucasians.
 
-Gender — Gender has no effect on the pharmacokinetics of alprazolam.
+#### Pediatrics
 
-Cigarette Smoking — Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
+The pharmacokinetics of alprazolam after administration of the XANAX XR Tablet in pediatric patients have not been studied.
+
+#### Gender
+
+Gender has no effect on the pharmacokinetics of alprazolam.
+
+#### Cigarette Smoking
+
+Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
 
 ### Drug-Drug Interactions
 
@@ -79,7 +87,7 @@ Compounds that are potent inhibitors of CYP3A would be expected to increase plas
 Drug products that have been studied in vivo, along with their effect on increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS–Drug Interactions).
 
 CYP3A inducers would be expected to decrease alprazolam concentrations and this has been observed in vivo.
-The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90±0.21 mL/min/kg to 2.13±0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1±4.9 to 7.7±1.7 h) following administration of 300 mg/day carbamazepine for 10 days (see PRECAUTIONS–Drug Interactions).
+The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90±0.21 mL/min/kg to 2.13±0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1±4.9 to 7.7 ±1.7 h) following administration of 300 mg/day carbamazepine for 10 days (see PRECAUTIONS–Drug Interactions).
 However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000–1200 mg/day); the effect at usual carbamazepine doses is unknown.
 
 The ability of alprazolam to induce or inhibit human hepatic enzyme systems has not been determined.

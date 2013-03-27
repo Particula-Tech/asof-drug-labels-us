@@ -39,9 +39,10 @@ The cited values, however, do provide the prescribing physician with some basis 
 The following table shows the incidence of treatment-emergent adverse events that occurred during 6- to 8-week placebo-controlled trials in 1% or more of patients treated with XANAX XR where the incidence in patients treated with XANAX XR was greater than the incidence in placebo-treated patients.
 The most commonly observed adverse events in panic disorder patients treated with XANAX XR (incidence of 5% or greater and at least twice the incidence in placebo patients) were: sedation, somnolence, memory impairment, dysarthria, coordination abnormal, ataxia, libido decreased (see table).
 
+Treatment-Emergent Adverse Events: Incidence in Short-Term, Placebo-Controlled Clinical Trials with XANAX XR
+
 |  | XANAX XR (n=531) | Placebo (n=349) |
 | --- | --- | --- |
-| Treatment-Emergent Adverse Events: Incidence in Short-Term, Placebo-Controlled Clinical Trials with XANAX XR |  |  |
 | System Organ Class/Adverse Event | Percentage of Patients Reporting Adverse Event |  |
 | Nervous system disorders |  |  |
 | Sedation | 45.2 | 22.6 |
@@ -105,7 +106,7 @@ The most commonly observed adverse events in panic disorder patients treated wit
 Following is a list of MedDRA terms that reflect treatment-emergent adverse events reported by 531 patients with panic disorder treated with XANAX XR.
 All potentially important reported events are included except those already listed in the above table or elsewhere in labeling, those events for which a drug cause was remote, those event terms that were so general as to be uninformative, and those events that occurred at rates similar to background rates in the general population.
 It is important to emphasize that, although the events reported occurred during treatment with XANAX XR, they were not necessarily caused by the drug.
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on 1 or more occasions in at least l/l00 patients; infrequent adverse events are those occurring in less than l/100 patients but at least l/1000 patients; rare events are those occurring in fewer than l/1000 patients.
+Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on 1 or more occasions in at least l/l00 patients; infrequent adverse events are those occurring in less 16 than l/100 patients but at least l/1000 patients; rare events are those occurring in fewer than l/1000 patients.
 
 Cardiac disorders: Frequent: palpitation; Infrequent: sinus tachycardia
 
@@ -138,10 +139,11 @@ Nevertheless, the types of adverse events reported in the clinical trials with X
 
 The following table shows the incidence of discontinuation-emergent adverse events that occurred during short-term, placebo-controlled trials in 5% or more of patients treated with XANAX XR where the incidence in patients treated with XANAX XR was two times greater than the incidence in placebo-treated patients.
 
+Discontinuation-Emergent Symptoms: Incidence in Short-Term, Placebo-Controlled Trials with XANAX XR
+
 |  | XANAX XR (n=422) | Placebo (n=261) |
 | --- | --- | --- |
-| Discontinuation-Emergent Symptoms: Incidence in Short-Term, Placebo-Controlled Trials with XANAX XR |  |  |
-| System Organ Class/Adverse Event | Percentage of Patients Reporting Adverse Event |  |
+| System Organ Class/AdverseEvent | Percentage of Patients Reporting Adverse Event |  |
 | Nervous system disorders |  |  |
 | Tremor | 28.2 | 10.7 |
 | Headache | 26.5 | 12.6 |
@@ -173,7 +175,7 @@ Some patients may benefit from an even slower dosage reduction.
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
 
 As with all benzodiazepines, paradoxical reactions such as stimulation, increased muscle spasticity, sleep disturbances, hallucinations, and other adverse behavioral effects such as agitation, rage, irritability, and aggressive or hostile behavior have been reported rarely.
-In many of the spontaneous case reports of adverse behavioral effects, patients were receiving other CNS drugs concomitantly and/or were described as having underlying psychiatric conditions.
+In many of the spontaneous case reports of adverse behavioral effects, patients were receiving 18 other CNS drugs concomitantly and/or were described as having underlying psychiatric conditions.
 Should any of the above events occur, alprazolam should be discontinued.
 Isolated published reports involving small numbers of patients have suggested that patients who have borderline personality disorder, a prior history of violent or aggressive behavior, or alcohol or substance abuse may be at risk for such events.
 Instances of irritability, hostility, and intrusive thoughts have been reported during discontinuation of alprazolam in patients with posttraumatic stress disorder.

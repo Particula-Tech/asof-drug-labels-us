@@ -5,7 +5,7 @@
 Certain adverse clinical events, some life-threatening, are a direct consequence of physical dependence to alprazolam.
 These include a spectrum of withdrawal symptoms; the most important is seizure (see DRUG ABUSE AND DEPENDENCE).
 Even after relatively short-term use at doses of ≤ 4 mg/day, there is some risk of dependence.
-Spontaneous reporting system data suggest that the risk of dependence and its severity appear to be greater in patients treated with doses greater than 4 mg/day and for long periods (more than 12 weeks).
+Spontaneous reporting system data suggest that the risk of dependence and its severity appear to be greater in 6 patients treated with doses greater than 4 mg/day and for long periods (more than 12 weeks).
 However, in a controlled postmarketing discontinuation study of panic disorder patients who received XANAX Tablets, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
 In contrast, patients treated with doses of XANAX Tablets greater than 4 mg/day had more difficulty tapering to zero dose than those treated with less than 4 mg/day.
 
@@ -29,7 +29,7 @@ The third case involved multiple seizures after the patient completed treatment 
 All three patients recovered without sequelae.
 
 Seizures have also been observed in association with dose reduction or discontinuation of XANAX Tablets, the immediate release form of alprazolam.
-Seizures attributable to XANAX were seen after drug discontinuance or dose reduction in 8 of 1980 patients with panic disorder or in patients participating in clinical trials where doses of XANAX greater than 4 mg/day for over 3 months were permitted.
+Seizures attributable to 7 XANAX were seen after drug discontinuance or dose reduction in 8 of 1980 patients with panic disorder or in patients participating in clinical trials where doses of XANAX greater than 4 mg/day for over 3 months were permitted.
 Five of these cases clearly occurred during abrupt dose reduction, or discontinuation from daily doses of 2 to 10 mg.
 Three cases occurred in situations where there was not a clear relationship to abrupt dose reduction or discontinuation.
 In one instance, seizure occurred after discontinuation from a single dose of 1 mg after tapering at a rate of 1 mg every three days from 6 mg daily.
@@ -63,7 +63,7 @@ For the same reason, patients should be cautioned about the simultaneous ingesti
 ## Risk of Fetal Harm
 
 Benzodiazepines can potentially cause fetal harm when administered to pregnant women.
-If alprazolam is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+If alprazolam is used during pregnancy, or if the patient becomes pregnant while taking this 8 drug, the patient should be apprised of the potential hazard to the fetus.
 Because of experience with other members of the benzodiazepine class, alprazolam is assumed to be capable of causing an increased risk of congenital abnormalities when administered to a pregnant woman during the first trimester.
 Because use of these drugs is rarely a matter of urgency, their use during the first trimester should almost always be avoided.
 The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
@@ -81,17 +81,25 @@ The following are examples of drugs known to inhibit the metabolism of alprazola
 
 ### Potent CYP3A Inhibitors
 
-Azole antifungal agents — Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
+#### Azole antifungal agents
+
+Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
 The coadministration of alprazolam with these agents is not recommended.
 Other azole-type antifungal agents should also be considered potent CYP3A inhibitors and the coadministration of alprazolam with them is not recommended (see CONTRAINDICATIONS).
 
 ### Drugs demonstrated to be CYP3A inhibitors on the basis of clinical studies involving alprazolam (caution and consideration of appropriate alprazolam dose reduction are recommended during coadministration with the following drugs)
 
-Nefazodone — Coadministration of nefazodone increased alprazolam concentration two-fold.
+#### Nefazodone
 
-Fluvoxamine — Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
+Coadministration of nefazodone increased alprazolam concentration two-fold.
 
-Cimetidine — Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
+#### Fluvoxamine
+
+Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
+
+#### Cimetidine
+
+Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
 
 ### Other Drugs Possibly Affecting Alprazolam Metabolism
 
@@ -122,7 +130,7 @@ The usual precautions in treating patients with impaired renal, hepatic, or pulm
 There have been rare reports of death in patients with severe pulmonary disease shortly after the initiation of treatment with XANAX Tablets.
 A decreased systemic alprazolam elimination rate (eg, increased plasma half-life) has been observed in both alcoholic liver disease patients and obese patients receiving XANAX Tablets (see CLINICAL PHARMACOLOGY).
 
-## Information For Patients
+## Information for Patients
 
 To assure safe and effective use of XANAX XR, the physician should provide the patient with the following guidance.
 
@@ -164,11 +172,17 @@ Drugs which inhibit this metabolic pathway may have a profound effect on the cle
 
 ### Drugs demonstrated to be CYP3A inhibitors of possible clinical significance on the basis of clinical studies involving alprazolam (caution is recommended during coadministration with alprazolam)
 
-Fluoxetine — Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased half-life by 17%, and decreased measured psychomotor performance.
+#### Fluoxetine
 
-Propoxyphene — Coadministration of propoxyphene decreased the maximum plasma concentration of alprazolam by 6%, decreased clearance by 38%, and increased half-life by 58%.
+Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased half-life by 17%, and decreased measured psychomotor performance.
 
-Oral Contraceptives — Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased half-life by 29%.
+#### Propoxyphene
+
+Coadministration of propoxyphene decreased the maximum plasma concentration of alprazolam by 6%, decreased clearance by 38%, and increased half-life by 58%.
+
+#### Oral Contraceptives
+
+Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased half-life by 29%.
 
 ### Drugs and other substances demonstrated to be CYP3A inhibitors on the basis of clinical studies involving benzodiazepines metabolized similarly to alprazolam or on the basis of in vitro studies with alprazolam or other benzodiazepines (caution is recommended during coadministration with alprazolam)
 
@@ -186,7 +200,7 @@ Carbamazepine can increase alprazolam metabolism and therefore can decrease plas
 
 Although interactions between benzodiazepines and commonly employed clinical laboratory tests have occasionally been reported, there is no consistent pattern for a specific drug or specific test.
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenic potential was observed during 2-year bioassay studies of alprazolam in rats at doses up to 30 mg/kg/day (150 times the maximum recommended daily human dose of 10 mg/day) and in mice at doses up to 10 mg/kg/day (50 times the maximum recommended daily human dose).
 
@@ -208,7 +222,7 @@ Alprazolam produced no impairment of fertility in rats at doses up to 5 mg/kg/da
 It should be considered that the child born of a mother who is receiving benzodiazepines may be at some risk for withdrawal symptoms from the drug during the postnatal period.
 Also, neonatal flaccidity and respiratory problems have been reported in children born of mothers who have been receiving benzodiazepines.
 
-## Labor And Delivery
+## Labor and Delivery
 
 Alprazolam has no established use in labor or delivery.
 
