@@ -11,9 +11,9 @@ Verapamil hydrochloride, USP is an almost white, crystalline powder, practically
 It is soluble in water, chloroform and methanol.
 Verapamil hydrochloride is not structurally related to other cardioactive drugs.
 
-In addition to verapamil hydrochloride, the verapamil hydrochloride extended-release capsule contains the following inactive ingredients: ammonium hydroxide, dibutyl sebacate, diethyl phthalate, ethylcellulose, fumed silica, hypromellose, maltodextrin, methacrylic acid copolymer, oleic acid, polyethylene glycol, povidone, silicon dioxide, sodium lauryl sulfate, sugar spheres and talc.
+In addition to verapamil hydrochloride, the verapamil hydrochloride extended-release capsules, USP contain the following inactive ingredients: ammonium hydroxide, dibutyl sebacate, diethyl phthalate, ethylcellulose, fumed silica, hypromellose, maltodextrin, methacrylic acid copolymer, oleic acid, polyethylene glycol, povidone, silicon dioxide, sugar spheres and talc.
 
-In addition, each of the empty gelatin capsules contain the following: FD&C Green No. 3, gelatin, and titanium dioxide.
+In addition, each of the empty gelatin capsules contain the following: FD&C Green No. 3, gelatin, sodium lauryl sulfate, and titanium dioxide.
 In addition the 180 mg capsule contains D&C yellow No. 10.
 
 The imprinting ink contains the following: black iron oxide, D&C Yellow No. 10 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake, FD&C Blue No. 2 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, propylene glycol, and shellac glaze.

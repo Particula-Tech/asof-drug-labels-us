@@ -19,7 +19,7 @@ Tilt table testing (60 degrees) was not able to induce orthostatic hypotension.
 
 Elevations of transaminases with and without concomitant elevations in alkaline phosphatase and bilirubin have been reported.
 Such elevations have sometimes been transient and may disappear even in the face of continued verapamil treatment.
-Several cases of hepatocellular injury related to verapamil have been proven by rechallenge; half of these had clinical symptoms (malaise, fever, and/or right upper quadrant pain) in addition to elevations of SGOT, SGPT, and alkaline phosphatase.
+Several cases of hepatocellular injury related to verapamil have been proven by rechallenge; half of these had clinical symptoms (malaise, fever, and/or right upper quadrant pain) in addition to elevations of SGOT, SGPT and alkaline phosphatase.
 Periodic monitoring of liver function in patients receiving verapamil is therefore prudent.
 
 ## Accessory Bypass Tract (Wolff-Parkinson-White or Lown-Ganong-Levine)
@@ -65,7 +65,7 @@ Careful monitoring for abnormal prolongation of the PR interval or other signs o
 
 ### Use in Patients with Attenuated (Decreased) Neuromuscular Transmission
 
-It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne’s muscular dystrophy, and that verapamil prolongs recovery from the neuromuscular blocking agent, vecuronium and causes a worsening of myasthenia gravis.
+It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne’s muscular dystrophy, and that verapamil prolongs recovery from the neuromuscular blocking agent vecuronium and causes a worsening of myasthenia gravis.
 It may be necessary to decrease the dosage of verapamil when it is administered to patients with attenuated neuromuscular transmission.
 
 ### Use in Patients with Impaired Renal Function
@@ -88,7 +88,15 @@ When the sprinkle method of administration is prescribed, details of the proper 
 
 In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450, CYP3A4, CYP1A2, and CYP2C.
 Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
-Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics.
+
+#### HMG-CoA Reductase Inhibitors
+
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+
+Coadministration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
+Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
+Limit the daily dose of lovastatin to 40 mg.
+Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
 
 #### Beta-Blockers
 
@@ -104,21 +112,14 @@ Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has be
 A decrease in metoprolol clearance has been reported when verapamil and metoprolol were administered together.
 A similar effect has not been observed when verapamil and atenolol are given together.
 
-#### Clonidine
-
-Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
-Monitor heart rate in patients receiving concomitant verapamil and clonidine.
-
 #### Digitalis
 
-Consider reducing digoxin dose when verapamil and digoxin are to be given together.
-Monitor digoxin level periodically during therapy.
+Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted.
 Chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.
-In patients with hepatic cirrhosis the influence of verapamil on digoxin pharmacokinetics is magnified.
-Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively.
-If digoxin toxicity is suspected, suspend or discontinue digoxin therapy.
-
-In previous clinical trials with other verapamil formulations related to the control of ventricular response in patients taking digoxin who had atrial fibrillation or atrial flutter, ventricular rates below 50/min at rest occurred in 15% of patients, and asymptomatic hypotension occurred in 5% of patients.
+In patients with hepatic cirrhosis the influence of verapamil on digoxin kinetics is magnified.
+Maintenance digitalis doses should be reduced when verapamil is administered, and the patient should be carefully monitored to avoid over or under digitalization.
+Whenever over digitalization is suspected, the daily dose of digoxin should be reduced or temporarily discontinued.
+Upon discontinuation of verapamil hydrochloride, the patient should be reassessed to avoid under digitalization.
 
 #### Antihypertensive Agents
 
@@ -215,9 +216,9 @@ It may be necessary to decrease the dose of verapamil and/or the dose of the neu
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 An 18-month toxicity study in rats, at a low multiple (6-fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential.
-There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for 2 years at doses of 10, 35, and 120 mg/kg per day or approximately 1x, 3.5x, and 12x, respectively, the maximum recommended human daily dose (480 mg per day or 9.6 mg/kg/day).
+There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for 2 years at doses of 10, 35 and 120 mg/kg per day or approximately 1 time, 3.5 times and 12 times, respectively, the maximum recommended human daily dose (480 mg/day or 9.6 mg/kg/day).
 
-Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate, with or without metabolic activation.
+Verapamil was not mutagenic in the Ames test in five test strains at 3 mg per plate, with or without metabolic activation.
 
 Studies in female rats at daily dietary doses up to 5.5 times (55 mg/kg/day) the maximum recommended human dose did not show impaired fertility.
 Effects on male fertility have not been determined.
@@ -229,7 +230,7 @@ Effects on male fertility have not been determined.
 Reproduction studies have been performed in rabbits and rats at oral doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the maximum recommended human daily dose, respectively, and have revealed no evidence of teratogenicity.
 In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams.
 This oral dose has also been shown to cause hypotension in rats.
-There are no adequate and well controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 Verapamil crosses the placental barrier and can be detected in umbilical vein blood at delivery.
 

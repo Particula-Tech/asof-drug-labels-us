@@ -25,7 +25,7 @@ In clinical trials of other formulations of verapamil hydrochloride (N=4,954) th
 | Dizziness | 3.3% |
 | Fatigue | 1.7% |
 | Nausea | 2.7% |
-| Bradycardia (HR<50/min) | 1.4% |
+| Bradycardia (HR < 50/min) | 1.4% |
 | Hypotension | 2.5% |
 | AV block-total 1º, 2º, 3º | 1.2% |
 | 2º and 3º | 0.8% |

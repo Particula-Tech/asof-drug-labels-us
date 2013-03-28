@@ -4,12 +4,10 @@ Verapamil hydrochloride extended-release is a calcium ion influx inhibitor (slow
 
 Normal sinus rhythm is usually not affected by verapamil hydrochloride.
 However in patients with sick sinus syndrome, verapamil hydrochloride may interfere with sinus node impulse generation and may induce sinus arrest or sinoatrial block.
-
 Atrioventricular block can occur in patients without preexisting conduction defects.
 (See WARNINGS.)
 Verapamil hydrochloride does not alter the normal atrial action potential or intraventricular conduction time, but depresses amplitude, velocity of depolarization and conduction in depressed atrial fibers.
 Verapamil hydrochloride may shorten the antegrade effective refractory period of accessory bypass tracts.
-
 Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil.
 (See WARNINGS.)
 
@@ -21,7 +19,6 @@ It is not known whether this action is important at the doses used in man.
 ### Essential Hypertension
 
 Verapamil hydrochloride exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/minute is uncommon).
-
 Verapamil hydrochloride regularly reduces arterial pressure at rest and at a given level of exercise by dilating peripheral arterioles and reducing the total peripheral resistance (afterload) against which the heart works.
 
 ## Pharmacokinetics and Metabolism
@@ -38,7 +35,7 @@ The quantitative relationship between plasma verapamil concentrations and blood 
 In a multiple dose pharmacokinetic study, peak concentrations for a single daily dose of verapamil hydrochloride extended-release 240 mg were approximately 65% of those obtained with an 80 mg t.i.d. dose of the conventional immediate-release tablets, and the 24-hour post-dose concentrations were approximately 30% higher.
 At a total daily dose of 240 mg, verapamil hydrochloride extended-release was shown to have a similar extent of verapamil bioavailability based on the AUC-24 as that obtained with the conventional immediate-release tablets.
 In this same study verapamil hydrochloride extended-release doses of 120 mg, 240 mg and 360 mg once daily were compared after multiple doses.
-The ratios of the verapamil and norverapamil AUCs for verapamil hydrochloride extended-release 120 mg, 240 mg and 360 mg once daily doses are 1 (565 ng•hr/mL):3 (1660 ng•hr/mL):5 (2729 ng•hr/mL) and 1 (621 ng•hr/mL):3 (1614 ng•hr/mL):4 (2535 ng•hr/mL), respectively, indicating that the AUC increased non-proportionately with increasing doses.
+The ratios of the verapamil and norverapamil AUCs for the verapamil hydrochloride extended-release 120 mg, 240 mg and 360 mg once daily doses are 1 (565 ng•hr/mL):3 (1660 ng•hr/mL):5 (2729 ng•hr/mL) and 1 (621 ng•hr/mL):3 (1614 ng•hr/mL):4 (2535 ng•hr/mL), respectively, indicating that the AUC increased non-proportionately with increasing doses.
 
 Food does not affect the extent or rate of the absorption of verapamil from the verapamil hydrochloride extended-release capsule.
 The verapamil hydrochloride extended-release 240 mg capsule when administered with food had a Cmax of 77 ng/mL which occurred 9 hours after dosing, and an AUC(0-inf) of 1387 ng•hr/mL.
@@ -62,7 +59,7 @@ The biologic activity of norverapamil appears to be approximately 20% that of ve
 Approximately 70% of an administered dose of verapamil hydrochloride is excreted as metabolites in the urine and 16% or more in the feces within 5 days.
 About 3% to 4% is excreted in the urine as unchanged drug.
 Approximately 90% is bound to plasma proteins.
-In patients with hepatic insufficiency, metabolism is delayed and elimination half-life prolonged up to 14 to 16 hours (see PRECAUTIONS), the volume of distribution is increased, and plasma clearance reduced to about 30% of normal.
+In patients with hepatic insufficiency, metabolism is delayed and elimination half-life prolonged up to 14 to 16 hours (see PRECAUTIONS), the volume of distribution is increased and plasma clearance reduced to about 30% of normal.
 Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one-third of the oral daily dose required for patients with normal liver function.
 
 After 4 weeks of oral dosing (120 mg q.i.d.), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil.
@@ -70,9 +67,8 @@ After 4 weeks of oral dosing (120 mg q.i.d.), verapamil and norverapamil levels 
 In ten healthy males, administration of oral verapamil (80 mg every 8 hours for 6 days) and a single oral dose of ethanol (0.8 g/kg), resulted in a 17% increase in mean peak ethanol concentrations (106.45 ± 21.40 to 124.23 ± 24.74 mg/dL) compared with placebo.
 (See PRECAUTIONS: Drug Interactions.)
 
-The area under the blood ethanol concentration versus time curve (AUC over 12 hours) increased by 30% (365.67 ± 93.52 to 475.07 ± 97.24 mg•hr/dL).
-
-Verapamil AUCs were positively correlated (r=0.71) to increased ethanol blood AUC values.
+The area under the blood ethanol concentration vs. time curve (AUC over 12 hours) increased by 30% (365.67 ± 93.52 to 475.07 ± 97.24 mg•hr/dL).
+Verapamil AUCs were positively correlated (r = 0.71) to increased ethanol blood AUC values.
 
 ## Geriatric Use
 
