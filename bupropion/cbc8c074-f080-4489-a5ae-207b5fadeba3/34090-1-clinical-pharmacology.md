@@ -27,7 +27,7 @@ In vitro findings suggest that cytochrome P450IIB6 (CYP2B6) is the principal iso
 Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite.
 The potency and toxicity of the metabolites relative to bupropion have not been fully characterized.
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
-This may be of clinical importance because the plasma concentrations of the metabolites are as high or higher than those of bupropion.
+This may be of clinical importance because the plasma concentrations of the metabolites are as high as or higher than those of bupropion.
 
 Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by or which inhibit/induce the cytochrome P450IIB6 (CYP2B6) isoenzyme, such as ritonavir or efavirenz.
 In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.

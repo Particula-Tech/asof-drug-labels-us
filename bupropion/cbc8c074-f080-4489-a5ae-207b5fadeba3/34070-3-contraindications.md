@@ -8,7 +8,9 @@ WELLBUTRIN SR is contraindicated in patients with a current or prior diagnosis o
 
 WELLBUTRIN SR is contraindicated in patients undergoing abrupt discontinuation of alcohol or sedatives (including benzodiazepines).
 
-The concurrent administration of WELLBUTRIN SR and a monoamine oxidase (MAO) inhibitor is contraindicated.
-At least 14 days should elapse between discontinuation of an MAO inhibitor and initiation of treatment with WELLBUTRIN SR.
+The use of monoamine oxidase inhibitors or MAOIs (intended to treat psychiatric disorders) concomitantly with WELLBUTRIN SR or within 14 days of stopping treatment with WELLBUTRIN SR is contraindicated.
+There is an increased risk of hypertensive reactions when bupropion is used concomitantly with other drugs that inhibit the reuptake of dopamine or norepinephrine or inhibit their metabolism (e.g., MAOIs).
+The use of WELLBUTRIN SR within 14 days of stopping treatment with an MAOI is also contraindicated.
+Starting WELLBUTRIN SR in a patient treated with reversible MAOIs such as linezolid or intravenous methylene blue is contraindicated (see DOSAGE AND ADMINISTRATION and DRUG INTERACTIONS).
 
 WELLBUTRIN SR is contraindicated in patients who have shown an allergic response to bupropion or the other ingredients that make up WELLBUTRIN SR.

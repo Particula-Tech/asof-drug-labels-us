@@ -33,7 +33,7 @@ What is the most important information I should know about antidepressant medici
    - ∘Keep all follow-up visits with the healthcare provider as scheduled.
      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-Call a healthcare provider right away if you or your family member has any of the followingsymptoms, especially if they are new, worse, or worry you:
+Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
 | •thoughts about suicide or dying•attempts to commit suicide•new or worse depression•new or worse anxiety•feeling very agitated or restless•panic attacks | •trouble sleeping (insomnia)•new or worse irritability•acting aggressive, being angry, or violent•acting on dangerous impulses•an extreme increase in activity and talking (mania)•other unusual changes in behavior or mood |
 | --- | --- |
@@ -107,13 +107,16 @@ WELLBUTRIN SR is a prescription medicine used to treat adults with a certain typ
 
 Who should not take WELLBUTRIN SR?
 
-Do not take WELLBUTRIN SR if you
+Do not take WELLBUTRIN SR if you:
 
 - •have or had a seizure disorder or epilepsy.
 - •are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN® Tablets or WELLBUTRIN XL® Extended-Release Tablets.
   Bupropion is the same active ingredient that is in WELLBUTRIN SR.
 - •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- •have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
+- •take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  - ∘do not take an MAOI within 2 weeks of stopping WELLBUTRIN SR unless directed to do so by your physician.
+  - ∘do not start WELLBUTRIN SR if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
 - •are allergic to the active ingredient in WELLBUTRIN SR, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in WELLBUTRIN SR.
@@ -124,13 +127,12 @@ Tell your doctor if you have ever had depression, suicidal thoughts or actions, 
 See “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions.”
 
 - •Tell your doctor about your other medical conditions including if you:
-- •
   - ∘are pregnant or plan to become pregnant.
     It is not known if WELLBUTRIN SR can harm your unborn baby.
   - ∘are breastfeeding.
     WELLBUTRIN SR passes through your milk.
     It is not known if WELLBUTRIN SR can harm your baby.
-  - ∘haveliverproblems, especially cirrhosis of the liver.
+  - ∘have liver problems, especially cirrhosis of the liver.
   - ∘have kidney problems.
   - ∘have an eating disorder such as anorexia nervosa or bulimia.
   - ∘have had a head injury.
@@ -221,9 +223,7 @@ The tablets are printed with edible black ink.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, ZYBAN, and PARNATE are registered trademarks of GlaxoSmithKline.
-
-The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL and ZYBAN are registered trademarks of GlaxoSmithKline.
 
 Distributed by:
 
@@ -241,9 +241,9 @@ or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2011, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-August 2011
+March 2013
 
-WLS:7MG
+WLS:8MG

@@ -12,7 +12,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
 Table 1
@@ -87,7 +87,7 @@ WELLBUTRIN SR should be discontinued and not restarted in patients who experienc
 
 Data for the immediate-release formulation of bupropion revealed a seizure incidence of approximately 0.4% (i.e., 13 of 3,200 patients followed prospectively) in patients treated at doses in a range of 300 to 450 mg/day.
 The 450-mg/day upper limit of this dose range is close to the currently recommended maximum dose of 400 mg/day for WELLBUTRIN SR.
-This seizure incidence (0.4%) may exceed that of other marketed antidepressants and WELLBUTRIN SR up to 300 mg/dayby as much as 4-fold.
+This seizure incidence (0.4%) may exceed that of other marketed antidepressants and WELLBUTRIN SR up to 300 mg/day by as much as 4-fold.
 This relative risk is only an approximate estimate because no direct comparative studies have been conducted.
 
 Additional data accumulated for the immediate-release formulation of bupropion suggested that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day, which is twice the usual adult dose and one and one-half the maximum recommended daily dose (400 mg) of WELLBUTRIN SR.
@@ -95,7 +95,7 @@ This disproportionate increase in seizure incidence with dose incrementation cal
 
 Data for WELLBUTRIN SR revealed a seizure incidence of approximately 0.1% (i.e., 3 of 3,100 patients followed prospectively) in patients treated at doses in a range of 100 to 300 mg/day.
 It is not possible to know if the lower seizure incidence observed in this study involving the sustained-release formulation of bupropion resulted from the different formulation or the lower dose used.
-However, as noted above, theimmediate-release and sustained-release formulations are bioequivalent with regard to both rate and extent of absorption during steady state (the most pertinent condition to estimating seizure incidence), since most observed seizures occur under steady-state conditions.
+However, as noted above, the immediate-release and sustained-release formulations are bioequivalent with regard to both rate and extent of absorption during steady state (the most pertinent condition to estimating seizure incidence), since most observed seizures occur under steady-state conditions.
 
 - •Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
 - •Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
@@ -283,7 +283,11 @@ Drugs which require metabolic activation by CYP2D6 in order to be effective (e.g
 Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
 Citalopram did not affect the pharmacokinetics of bupropion and its 3 metabolites.
 
-MAO Inhibitors: Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
+MAO Inhibitors: Concomitant use of MAOIs and bupropion is contraindicated.
+Bupropion inhibits the reuptake of dopamine and norepinephrine and can increase risk of hypertensive reactions when used concomitantly with drugs that also inhibit the reuptake of dopamine or norepinephrine, including MAOIs.
+In addition, MAOIs decrease the metabolism of dopamine and norepinephrine.
+These effects can increase dopaminergic and noradrenergic activity.
+Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 Levodopa and Amantadine: Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.
 Administration of WELLBUTRIN SR to patients receiving either levodopa or amantadine concurrently should be undertaken with caution, using small initial doses and gradual dose increases.

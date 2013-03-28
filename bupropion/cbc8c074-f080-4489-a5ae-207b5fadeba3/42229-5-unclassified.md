@@ -18,9 +18,9 @@ or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2011, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved
 
-August 2011
+March 2013
 
-WLS:8PI
+WLS:9PI

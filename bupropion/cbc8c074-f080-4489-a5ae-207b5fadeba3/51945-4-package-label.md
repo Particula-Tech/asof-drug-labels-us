@@ -4,7 +4,7 @@ NDC 0173-0947-55
 
 Wellbutrin SR®
 
-(bupropionHCl)
+(bupropion HCl)
 
 Sustained-Release Tablets
 
