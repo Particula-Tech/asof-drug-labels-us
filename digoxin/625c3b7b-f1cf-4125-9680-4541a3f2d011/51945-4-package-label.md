@@ -1,10 +1,14 @@
-# Principal Display Panel - 125 mcg Tablet
+# Principal Display Panel
 
-100 Tablets NDC 0173-0242-55
+NDC 0173-0242-55
 
-LANOXIN® (digoxin)
+LANOXIN®
+
+(digoxin)
 
 Tablets, USP
+
+100 Tablets
 
 Each scored tablet contains
 
@@ -12,25 +16,42 @@ Each scored tablet contains
 
 Rx only
 
-Manufactured by DSM Pharmaceuticals, Inc. Greenville, NC 27834 for
-
-GlaxoSmithKline Research Triangle Park, NC 27709 Made in Germany
-
-10000000060556 Rev.
-9/08
-
 See prescribing information for dosage information.
-Store at 25°C (77°F) in a dry place and protect from light (see insert).
+
+Store at 25oC (77oF) in a dry place and protect from light (see insert).
+
 Dispense in tight, light-resistant container as defined in the USP.
+
 Do not use if printed safety seal under cap is broken or missing.
 
-# Principal Display Panel - 250 mcg Tablet
+Manufactured by
 
-100 Tablets NDC 0173-0249-55
+DSM Pharmaceuticals, Inc.
 
-LANOXIN® (digoxin)
+Greenville, NC 27834 for
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+Made in Germany
+
+10000000060556
+
+Rev.
+9/08
+
+# Principal Display Panel
+
+NDC 0173-0249-55
+
+LANOXIN®
+
+(digoxin)
 
 Tablets, USP
+
+100 Tablets
 
 Each scored tablet contains
 
@@ -38,14 +59,27 @@ Each scored tablet contains
 
 Rx only
 
-Manufactured by DSM Pharmaceuticals, Inc. Greenville, NC 27834 for
-
-GlaxoSmithKline Research Triangle Park, NC 27709 Made in Germany
-
-10000000060558 Rev.
-9/08
-
 See prescribing information for dosage information.
-Store at 25°C (77°F) in a dry place (see insert).
+
+Store at 25oC (77oF) in a dry place (see insert).
+
 Dispense in tight container as defined in the USP.
+
 Do not use if printed safety seal under cap is broken or missing.
+
+Manufactured by
+
+DSM Pharmaceuticals, Inc.
+
+Greenville, NC 27834 for
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+Made in Germany
+
+10000000060558
+
+Rev.
+9/08
