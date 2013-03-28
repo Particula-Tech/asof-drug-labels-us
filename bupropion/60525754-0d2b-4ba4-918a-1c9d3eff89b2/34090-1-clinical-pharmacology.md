@@ -31,7 +31,7 @@ In vitro findings suggest that cytochrome P450IIB6 (CYP2B6) is the principal iso
 Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite.
 The potency and toxicity of the metabolites relative to bupropion have not been fully characterized.
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
-This may be of clinical importance because their plasma concentrations are as high or higher than those of bupropion.
+This may be of clinical importance because their plasma concentrations are as high as or higher than those of bupropion.
 
 Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by or which inhibit/induce the cytochrome P450IIB6 (CYP2B6) isoenzyme, such as ritonavir or efavirenz.
 In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
@@ -81,9 +81,9 @@ An inter-study comparison between normal subjects and patients with end-stage re
 A second study, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure to a single 150-mg dose of sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 The elimination of bupropion and/or the major metabolites of bupropion may be reduced by impaired renal function (see PRECAUTIONS: Renal Impairment).
 
-During a chronic dosing study in 14 depressed patients with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), no apparent effect on the pharmacokinetics of bupropion or its metabolites was revealed, compared to healthy volunteers.
+Left Ventricular Dysfunction: During a chronic dosing study in 14 depressed patients with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), no apparent effect on the pharmacokinetics of bupropion or its metabolites was revealed, compared to healthy volunteers.
 
-Left Ventricular Dysfunction: The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy studies involving patients dosed in a range of 300 to 750 mg/day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
+Age: The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy studies involving patients dosed in a range of 300 to 750 mg/day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
 A single-dose pharmacokinetic study demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that of younger subjects.
 These data suggest there is no prominent effect of age on bupropion concentration; however, another pharmacokinetic study, single and multiple dose, has suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites (see PRECAUTIONS: Geriatric Use).
 

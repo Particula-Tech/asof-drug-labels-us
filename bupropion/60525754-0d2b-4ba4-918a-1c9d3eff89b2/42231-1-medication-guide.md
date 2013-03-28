@@ -107,13 +107,16 @@ WELLBUTRIN is a prescription medicine used to treat adults with a certain type o
 
 Who should not take WELLBUTRIN?
 
-Do not take WELLBUTRIN if you
+Do not take WELLBUTRIN if you:
 
 - •have or had a seizure disorder or epilepsy.
 - •are taking ZYBAN (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN SR Sustained-Release Tablets or WELLBUTRIN XL Extended-Release Tablets.
   Bupropion is the same active ingredient that is in WELLBUTRIN.
 - •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- •have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
+- •take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  - ∘do not take an MAOI within 2 weeks of stopping WELLBUTRIN unless directed to do so by your physician.
+  - ∘do not start WELLBUTRIN if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
 - •are allergic to the active ingredient in WELLBUTRIN, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in WELLBUTRIN.
@@ -124,7 +127,6 @@ Tell your doctor if you have ever had depression, suicidal thoughts or actions, 
 See “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions.”
 
 - •Tell your doctor about your other medical conditions including if you:
-- •
   - ∘are pregnant or plan to become pregnant.
     It is not known if WELLBUTRIN can harm your unborn baby.
   - ∘are breastfeeding.
@@ -213,9 +215,7 @@ Inactive ingredients: 75-mg tablet − D&C Yellow No. 10 Lake, FD&C Yellow No. 6
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and PARNATE are registered trademarks of GlaxoSmithKline.
-
-The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of GlaxoSmithKline.
 
 Distributed by:
 
@@ -233,9 +233,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-August 2011
+March 2013
 
-WLT:7MG
+WLT:8MG

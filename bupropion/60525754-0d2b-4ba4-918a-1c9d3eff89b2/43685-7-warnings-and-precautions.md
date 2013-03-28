@@ -255,7 +255,11 @@ Drugs which require metabolic activation by CYP2D6 in order to be effective (e.g
 Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
 Citalopram did not affect the pharmacokinetics of bupropion and its 3 metabolites.
 
-MAO Inhibitors: Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
+MAO Inhibitors: Concomitant use of MAOIs and bupropion is contraindicated.
+Bupropion inhibits the reuptake of dopamine and norepinephrine and can increase risk of hypertensive reactions when used concomitantly with drugs that also inhibit the reuptake of dopamine or norepinephrine, including MAOIs.
+In addition, MAOIs decrease the metabolism of dopamine and norepinephrine.
+These effects can increase dopaminergic and noradrenergic activity.
+Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 Levodopa and Amantadine: Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.
 Administration of WELLBUTRIN to patients receiving either levodopa or amantadine concurrently should be undertaken with caution, using small initial doses and small gradual dose increases.

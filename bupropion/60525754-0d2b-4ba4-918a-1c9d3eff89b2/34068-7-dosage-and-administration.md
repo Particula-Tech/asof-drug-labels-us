@@ -41,12 +41,31 @@ WELLBUTRIN should be discontinued in patients who do not demonstrate an adequate
 The lowest dose that maintains remission is recommended.
 Although it is not known how long the patient should remain on WELLBUTRIN, it is generally recognized that acute episodes of depression require several months or longer of antidepressant drug treatment.
 
-## Dosage Adjustment for Patients with Impaired Hepatic Function
+## Dosage Adjustment for Patients With Impaired Hepatic Function
 
 WELLBUTRIN should be used with extreme caution in patients with severe hepatic cirrhosis.
 The dose should not exceed 75 mg once a day in these patients.
 WELLBUTRIN should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild-to-moderate hepatic cirrhosis (see CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 
-## Dosage Adjustment for Patients with Impaired Renal Function
+## Dosage Adjustment for Patients With Impaired Renal Function
 
 WELLBUTRIN should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
+
+## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with WELLBUTRIN.
+Conversely, at least 14 days should be allowed after stopping WELLBUTRIN before starting an MAOI antidepressant (see CONTRAINDICATIONS and DRUG INTERACTIONS).
+
+## Use of WELLBUTRIN With Reversible MAOIs Such as Linezolid or Methylene Blue
+
+Do not start WELLBUTRIN in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
+Drug interactions can increase the risk of hypertensive reactions.
+In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDICATIONS and DRUG INTERACTIONS).
+
+In some cases, a patient already receiving therapy with WELLBUTRIN may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, WELLBUTRIN should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with WELLBUTRIN may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with WELLBUTRIN is unclear.
+The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use (see CONTRAINDICATIONS and DRUG INTERACTIONS).

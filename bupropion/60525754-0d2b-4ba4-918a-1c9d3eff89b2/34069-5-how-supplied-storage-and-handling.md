@@ -7,7 +7,7 @@ WELLBUTRIN Tablets, 100 mg of bupropion hydrochloride, are red, round, biconvex 
 Store at 15° to 25°C (59° to 77°F).
 Protect from light and moisture.
 
-WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL are registered trademarks of GlaxoSmithKline.
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of GlaxoSmithKline.
 
 KALETRA is a registered trademark of Abbott Laboratories.
 
@@ -27,9 +27,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-August 2011
+March 2013
 
-WLT:8PI
+WLT:9PI
