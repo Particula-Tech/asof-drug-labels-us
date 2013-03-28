@@ -18,20 +18,36 @@ Stopping TEGRETOL suddenly can cause serious problems.
 
 TEGRETOL can cause serious side effects, including:
 
-1.
-TEGRETOL may cause rare but serious skin rashes that may lead to death.
-These serious skin reactions are more likely to happen when you begin taking TEGRETOL within the first four months of treatment but may occur at later times.
-These reactions can happen in anyone, but are more likely in people of Asian descent.
-If you are of Asian descent, you may need a genetic blood test before you take TEGRETOL to see if you are at a higher risk for serious skin reactions with this medicine.
-Symptoms may include: • skin rash • hives • sores in your mouth • blistering or peeling of the skin
-
-2.
-TEGRETOL may cause rare but serious blood problems.
-Symptoms may include: • fever, sore throat or other infections that come and go or do not go away • easy bruising • red or purple spots on your body • bleeding gums or nose bleeds • severe fatigue or weakness
-
-3.
-Like other antiepileptic drugs, TEGRETOL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: • thoughts about suicide or dying • attempts to commit suicide • new or worse depression • new or worse anxiety • feeling agitated or restless • panic attacks • trouble sleeping (insomnia) • new or worse irritability • acting aggressive, being angry, or violent • acting on dangerous impulses • an extreme increase in activity and talking (mania) • other unusual changes in behavior or mood
+1. TEGRETOL may cause rare but serious skin rashes that may lead to death.
+   These serious skin reactions are more likely to happen when you begin taking TEGRETOL within the first four months of treatment but may occur at later times.
+   These reactions can happen in anyone, but are more likely in people of Asian descent.
+   If you are of Asian descent, you may need a genetic blood test before you take TEGRETOL to see if you are at a higher risk for serious skin reactions with this medicine.
+   Symptoms may include:
+   - skin rash
+   - hives
+   - sores in your mouth
+   - blistering or peeling of the skin
+2. TEGRETOL may cause rare but serious blood problems.
+   Symptoms may include:
+   - fever, sore throat, or other infections that come and go or do not go away
+   - easy bruising
+   - red or purple spots on your body
+   - bleeding gums or nose bleeds
+   - severe fatigue or weakness
+3. Like other antiepileptic drugs, TEGRETOL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+   Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+   - thoughts about suicide or dying
+   - attempts to commit suicide
+   - new or worse depression
+   - new or worse anxiety
+   - feeling agitated or restless
+   - panic attacks
+   - trouble sleeping (insomnia)
+   - new or worse irritability
+   - acting aggressive, being angry, or violent
+   - acting on dangerous impulses
+   - an extreme increase in activity and talking (mania)
+   - other unusual changes in behavior or mood
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
@@ -74,7 +90,7 @@ What should I tell my healthcare provider before taking TEGRETOL?
 
 Before you take TEGRETOL, tell your healthcare provider if you:
 
-- have or have had suicidal thoughts or actions, depression or mood problems
+- have or have had suicidal thoughts or actions, depression, or mood problems
 - have or ever had heart problems
 - have or ever had blood problems
 - have or ever had liver problems
@@ -114,8 +130,12 @@ How should I take TEGRETOL?
 - Your healthcare provider may change your dose.
   Do not change your dose of TEGRETOL without talking to your healthcare provider.
 - Take TEGRETOL with food.
-- TEGRETOL-XR tablets: • Do not crush, chew, or break TEGRETOL-XR tablets. • Tell you healthcare provider if you can not swallow TEGRETOL-XR whole.
-- TEGRETOL Suspension: • Shake the bottle well each time before use. • Do not take TEGRETOL suspension at the same time you take other liquid medicines.
+- TEGRETOL-XR Tablets:
+  - Do not crush, chew, or break TEGRETOL-XR tablets.
+  - Tell you healthcare provider if you can not swallow TEGRETOL-XR whole.
+- TEGRETOL Suspension:
+  - Shake the bottle well each time before use.
+  - Do not take TEGRETOL suspension at the same time you take other liquid medicines.
 - If you take too much TEGRETOL, call your healthcare provider or local Poison Control Center right away.
 
 What should I avoid while taking TEGRETOL?
@@ -166,15 +186,13 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store TEGRETOL?
 
-- Do not store TEGRETOL Tablets above 30°C (86°F). • Keep TEGRETOL tablets dry.
-
+- Do not store TEGRETOL Tablets above 30°C (86°F).
+  - Keep TEGRETOL Tablets dry.
 - Do not store TEGRETOL Chewable Tablets above 30°C (86°F).
   - Keep TEGRETOL Chewable Tablets out of the light.
-  - Keep TEGRETOL Chewable Tablets tablets dry.
-
-- Store TEGRETOL-XR tablets between 15°C to 30°C (59°F to 86°F).
-  - Keep TEGRETOL XR tablets dry.
-
+  - Keep TEGRETOL Chewable Tablets dry.
+- Store TEGRETOL-XR Tablets between 15°C to 30°C (59°F to 86°F).
+  - Keep TEGRETOL-XR Tablets dry.
 - Do not store TEGRETOL Suspension above 30°C (86°F).
   - Shake well before using.
   - Keep TEGRETOL Suspension in a tight, light-resistant container.
@@ -200,18 +218,14 @@ Active ingredient: carbamazepine
 
 Inactive ingredients:
 
-- TEGRETOL tablets: colloidal silicon dioxide, D&C Red No. 30 Aluminum Lake (chewable tablets only), FD&C Red No. 40 (200-mg tablets only), flavoring (chewable tablets only), gelatin, glycerin, magnesium stearate, sodium starch glycolate (chewable tablets only), starch, stearic acid, and sucrose (chewable tablets only).
+- TEGRETOL Tablets: colloidal silicon dioxide, D&C Red No. 30 Aluminum Lake (chewable tablets only), FD&C Red No. 40 (200-mg tablets only), flavoring (chewable tablets only), gelatin, glycerin, magnesium stearate, sodium starch glycolate (chewable tablets only), starch, stearic acid, and sucrose (chewable tablets only).
 - TEGRETOL Suspension: Citric acid, FD&C Yellow No. 6, flavoring, polymer, potassium sorbate, propylene glycol, purified water, sorbitol, sucrose, and xanthan gum.
-- TEGRETOL-XR tablets: cellulose compounds, dextrates, iron oxides, magnesium stearate, mannitol, polyethylene glycol, sodium lauryl sulfate, titanium dioxide (200-mg tablets only).
+- TEGRETOL-XR Tablets: cellulose compounds, dextrates, iron oxides, magnesium stearate, mannitol, polyethylene glycol, sodium lauryl sulfate, titanium dioxide (200-mg tablets only).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-167/T2011-32 September 2012/March 2011
+T2013-24 March 2013

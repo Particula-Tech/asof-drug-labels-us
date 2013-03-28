@@ -53,3 +53,5 @@ Do not store above 30°C (86°F).
 Dispense in tight, light-resistant container (USP).
 
 *Thorazine® is a registered trademark of GlaxoSmithKline.
+
+T2013-23 March 2013
