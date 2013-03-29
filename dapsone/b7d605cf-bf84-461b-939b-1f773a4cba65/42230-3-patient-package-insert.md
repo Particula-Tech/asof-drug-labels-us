@@ -85,6 +85,7 @@ You may call 1-800-433-8871 to obtain more information about ACZONE® Gel.
 
 ACZONE® (dapsone) Gel, 5%
 
-© 2013 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 5,863,560; 6,060,085; and 6,620,435 Made in the U.S.A.
+© 2013 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
+See: www.allergan.com/products/patent_notices Made in the U.S.A.
 
-72205US11B
+72205US13

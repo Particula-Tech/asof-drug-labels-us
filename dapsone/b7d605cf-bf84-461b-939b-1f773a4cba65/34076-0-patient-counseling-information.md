@@ -12,4 +12,6 @@ See FDA-Approved Patient Labeling (17.2)
 4. Protect ACZONE® Gel, 5%, from freezing.
 5. See Patient Labeling for additional information on safety, efficacy, general use, and storage of ACZONE® Gel, 5%.
 
+------Cut Here ✂ --------------------------------------------------------------------------------------
+
 ## 17.2 FDA-Approved Patient Labeling
