@@ -1,6 +1,6 @@
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
+PRINCIPAL DISPLAY PANEL - 10 mg BOTTLE LABEL
 
-PRINCIPAL DISPLAY PANEL - 10 mg
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
 APOTEX CORP. NDC 60505-2578-9
 
@@ -12,9 +12,9 @@ Rx
 
 90 count
 
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
+PRINCIPAL DISPLAY PANEL - 20 mg BOTTLE LABEL
 
-PRINCIPAL DISPLAY PANEL - 20 mg
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
 APOTEX CORP. NDC 60505-2579-9
 
@@ -26,9 +26,9 @@ Rx
 
 90 count
 
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
+PRINCIPAL DISPLAY PANEL - 40 mg BOTTLE LABEL
 
-PRINCIPAL DISPLAY PANEL - 40 mg
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
 APOTEX CORP. NDC 60505-2580-9
 
@@ -40,9 +40,9 @@ Rx
 
 90 count
 
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
+PRINCIPAL DISPLAY PANEL - 80 mg BOTTLE LABEL
 
-PRINCIPAL DISPLAY PANEL - 80 mg
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
 APOTEX CORP. NDC 60505-2671-9
 

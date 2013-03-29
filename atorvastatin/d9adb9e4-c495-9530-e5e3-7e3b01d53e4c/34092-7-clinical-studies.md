@@ -20,7 +20,7 @@ Atorvastatin calcium also significantly decreased the relative risk for revascul
 Although the reduction of fatal and non-fatal strokes did not reach a pre-defined significance level (p=0.01), a favorable trend was observed with a 26% relative risk reduction (incidences of 1.7% for atorvastatin calcium and 2.3% for placebo).
 There was no significant difference between the treatment groups for death due to cardiovascular causes (p=0.51) or noncardiovascular causes (p=0.17).
 
-In the Collaborative Atorvastatin Diabetes Study (CARDS), the effect of atorvastatin calcium on cardiovascular disease (CVD) endpoints was assessed in 2838 subjects (94% white, 68% male), ages 40 to 75 with type 2 diabetes based on WHO criteria, without prior history of cardiovascular disease and with LDL ≤ 160 mg/dL and TG ≤ 600 mg/dL.
+In the Collaborative Atorvastatin Diabetes Study (CARDS), the effect of atorvastatin calcium on cardiovascular disease (CVD) endpoints was assessed in 2838 subjects (94% white, 68% male), ages 40 to 75 with type 2 diabetes based on WHO criteria, without prior history of cardiovascular disease and with LDL ≥ 160 mg/dL and TG ≤ 600 mg/dL.
 In addition to diabetes, subjects had 1 or more of the following risk factors: current smoking (23%), hypertension (80%), retinopathy (30%), or microalbuminuria (9%) or macroalbuminuria (3%).
 No subjects on hemodialysis were enrolled in the study.
 In this multicenter, placebo-controlled, double-blind clinical trial, subjects were randomly allocated to either atorvastatin calcium 10 mg daily (1429) or placebo (1411) in a 1:1 ratio and were followed for a median duration of 3.9 years.
@@ -60,7 +60,7 @@ Overview of Efficacy Results in TNT
 | First major cardiovascular endpoint | 548 | (10.9) | 434 | (8.7) | 0.78 (0.69, 0.89) |
 | Components of the Primary Endpoint |  |  |  |  |  |
 | CHD death | 127 | (2.5) | 101 | (2.0) | 0.80 (0.61, 1.03) |
-| Nonfatal, non-procedure related MI | 308 | (6.2) | 243 | (4.9) | 0.78 (0.66, 0.93) |
+| Non-fatal, non-procedure related MI | 308 | (6.2) | 243 | (4.9) | 0.78 (0.66, 0.93) |
 | Resuscitated cardiac arrest | 26 | (0.5) | 25 | (0.5) | 0.96 (0.56, 1.67) |
 | Stroke (fatal and non-fatal) | 155 | (3.1) | 117 | (2.3) | 0.75 (0.59, 0.96) |
 | SECONDARY ENDPOINTS * |  |  |  |  |  |
@@ -115,7 +115,7 @@ In two multicenter, placebo-controlled, dose-response studies in patients with h
 (Pooled results are provided in Table 6.)
 
 TABLE 6.
-Dose-Response in Patients With Primary Hypercholesterolemia (Adjusted Mean % Change From Baseline)
+Dose-Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
 
 | Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -134,7 +134,7 @@ In three multicenter, double-blind studies in patients with hyperlipidemia, ator
 After randomization, patients were treated for 16 weeks with either atorvastatin calcium 10 mg per day or a fixed dose of the comparative agent (Table 7).
 
 TABLE 7.
-Mean Percent Change From Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
+Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
 
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -170,7 +170,7 @@ The response to atorvastatin calcium in 64 patients with isolated hypertriglycer
 For the atorvastatin calcium -treated patients, median (min, max) baseline TG level was 565 (267 to 1502).
 
 TABLE 8.
-Combined Patients With Isolated Elevated TG: Median (min, max) Percent Changes From Baseline
+Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change From Baseline
 
 |  | Placebo (N=12) | Atorvastatin 10 mg (N=37) | Atorvastatin 20 mg (N=13) | Atorvastatin 80 mg (N=14) |
 | --- | --- | --- | --- | --- |
@@ -215,7 +215,8 @@ The number of atorvastatin calcium-treated patients who required uptitration to 
 
 Atorvastatin calcium significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 10).
 
-TABLE 10 Lipid-altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percent Change from Baseline at Endpoint in Intention-to-Treat Population)
+TABLE 10.
+Lipid-altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change from Baseline at Endpoint in Intention-to-Treat Population)
 
 | DOSAGE | N | Total-C | LDL-C | HDL-C | TG | Apolipoprotein B |
 | --- | --- | --- | --- | --- | --- | --- |

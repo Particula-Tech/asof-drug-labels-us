@@ -35,7 +35,9 @@ Individualization of drug dosage should be based on therapeutic response [see Do
 
 ## 12.3 Pharmacokinetics
 
-Absorption: Atorvastatin is rapidly absorbed after oral administration; maximum plasma concentrations occur within 1 to 2 hours.
+Absorption
+
+Atorvastatin is rapidly absorbed after oral administration; maximum plasma concentrations occur within 1 to 2 hours.
 Extent of absorption increases in proportion to atorvastatin dose.
 The absolute bioavailability of atorvastatin (parent drug) is approximately 14% and the systemic availability of HMG-CoA reductase inhibitory activity is approximately 30%.
 The low systemic availability is attributed to presystemic clearance in gastrointestinal mucosa and/or hepatic first-pass metabolism.
@@ -43,35 +45,53 @@ Although food decreases the rate and extent of drug absorption by approximately 
 Plasma atorvastatin concentrations are lower (approximately 30% for Cmax and AUC) following evening drug administration compared with morning.
 However, LDL-C reduction is the same regardless of the time of day of drug administration [see Dosage and Administration (2)].
 
-Distribution: Mean volume of distribution of atorvastatin is approximately 381 liters.
+Distribution
+
+Mean volume of distribution of atorvastatin is approximately 381 liters.
 Atorvastatin is ≥98% bound to plasma proteins.
 A blood/plasma ratio of approximately 0.25 indicates poor drug penetration into red blood cells.
 Based on observations in rats, atorvastatin is likely to be secreted in human milk [see Contraindications, Nursing Mothers (4.4) and Use in Specific Populations, Nursing Mothers (8.3)].
 
-Metabolism: Atorvastatin is extensively metabolized to ortho- and parahydroxylated derivatives and various beta-oxidation products.
+Metabolism
+
+Atorvastatin is extensively metabolized to ortho- and parahydroxylated derivatives and various beta-oxidation products.
 In vitro inhibition of HMG-CoA reductase by ortho- and parahydroxylated metabolites is equivalent to that of atorvastatin.
 Approximately 70% of circulating inhibitory activity for HMG-CoA reductase is attributed to active metabolites.
 In vitro studies suggest the importance of atorvastatin metabolism by cytochrome P450 3A4, consistent with increased plasma concentrations of atorvastatin in humans following co-administration with erythromycin, a known inhibitor of this isozyme [see Drug Interactions (7.1)].
 In animals, the ortho-hydroxy metabolite undergoes further glucuronidation.
 
-Excretion: Atorvastatin and its metabolites are eliminated primarily in bile following hepatic and/or extra-hepatic metabolism; however, the drug does not appear to undergo enterohepatic recirculation.
+Excretion
+
+Atorvastatin and its metabolites are eliminated primarily in bile following hepatic and/or extra-hepatic metabolism; however, the drug does not appear to undergo enterohepatic recirculation.
 Mean plasma elimination half-life of atorvastatin in humans is approximately 14 hours, but the half-life of inhibitory activity for HMG-CoA reductase is 20 to 30 hours due to the contribution of active metabolites.
 Less than 2% of a dose of atorvastatin is recovered in urine following oral administration.
 
 Specific Populations
 
-Geriatric: Plasma concentrations of atorvastatin are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥65 years) than in young adults.
+Geriatric
+
+Plasma concentrations of atorvastatin are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥65 years) than in young adults.
 Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults [see Use in Specific Populations, Geriatric Use (8.5)].
 
-Pediatric: Pharmacokinetic data in the pediatric population are not available.
+Pediatric
 
-Gender: Plasma concentrations of atorvastatin in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin between men and women.
+Pharmacokinetic data in the pediatric population are not available.
 
-Renal Impairment: Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin; thus, dose adjustment in patients with renal dysfunction is not necessary [see Dosage and Administration, Dosage in Patients with Renal Impairment (2.5), Warnings and Precautions, Skeletal Muscle (5.1)].
+Gender
 
-Hemodialysis: While studies have not been conducted in patients with end-stage renal disease, hemodialysis is not expected to significantly enhance clearance of atorvastatin since the drug is extensively bound to plasma proteins.
+Plasma concentrations of atorvastatin in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin between men and women.
 
-Hepatic Impairment: In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin are markedly increased.
+Renal Impairment
+
+Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin; thus, dose adjustment in patients with renal dysfunction is not necessary [see Dosage and Administration, Dosage in Patients with Renal Impairment (2.5), Warnings and Precautions, Skeletal Muscle (5.1)].
+
+Hemodialysis
+
+While studies have not been conducted in patients with end-stage renal disease, hemodialysis is not expected to significantly enhance clearance of atorvastatin since the drug is extensively bound to plasma proteins.
+
+Hepatic Impairment
+
+In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin are markedly increased.
 Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
 Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4.1)].
 
@@ -99,7 +119,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Colestipol 10 mg BID, 28 weeks | 40 mg QD for 28 weeks | Not determined | ↓ 26%** |
 | Maalox TC® 30 mL QD, 17 days | 10 mg QD for 15 days | ↓ 33% | ↓ 34% |
 | Efavirenz 600 mg QD, 14 days | 10 mg for 3 days | ↓ 41% | ↓ 1% |
-| #Rifampin 600 mg QD, 7 days (co-administered) † | 40 mg SD | ↑ 30% | ↑ 2.7 fold |
+| #Rifampin 600 mg QD, 7 days (coadministered) † | 40 mg SD | ↑ 30% | ↑ 2.7 fold |
 | #Rifampin 600 mg QD, 5 days (doses separated) † | 40 mg SD | ↓ 80% | ↓ 40% |
 | #Gemfibrozil 600mg BID, 7 days | 40mg SD | ↑ 35% | ↓ Less than 1% |
 | #Fenofibrate 160mg QD, 7 days | 40mg SD | ↑ 3% | ↑ 2% |
@@ -127,7 +147,7 @@ Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 | Atorvastatin | Co-administered drug and dosing regimen |  |  |
 | 80 mg QD for 15 days | Antipyrine, 600 mg SD | ↑ 3% | ↓ 11% |
 | 80 mg QD for 14 days | #Digoxin 0.25 mg QD, 20 days | ↑ 15% | ↑ 20 % |
-| 40 mg QD for 22 days | Oral contraceptive QD, 2 months - norethindrone 1mg - ethinyl estradiol 35µg | ↑ 28% ↑ 19% | ↑ 23% ↑ 30% |
+| 40 mg QD for 22 days | Oral contraceptive QD, 2 months - norethindrone 1mg - ethinyl estradiol 35mcg | ↑ 28% ↑ 19% | ↑ 23% ↑ 30% |
 | 10 mg, SD | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | No change | No change |
 | 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | ↓ 27% | ↓ 18% |
 | 10 mg QD for 4 days | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | No change | No change |

@@ -15,6 +15,7 @@ Combination of Protease Inhibitors: Atorvastatin AUC was significantly increased
 Therefore, in patients taking the HIV protease inhibitor tipranavir plus ritonavir, or the hepatitis C protease inhibitor telaprevir, concomitant use of atorvastatin should be avoided.
 In patients taking the HIV protease inhibitor lopinavir plus ritonavir, caution should be used when prescribing atorvastatin and the lowest dose necessary should be used.
 In patients taking the HIV protease inhibitors saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, the dose of atorvastatin should not exceed 20 mg and should be used with caution [see Warnings and Precautions, Skeletal Muscle (5.1) and Dosage and Administration (2.6)].
+In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, the dose of atorvastatin should not exceed 40 mg and close clinical monitoring is recommended.
 
 Itraconazole: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 40 mg and itraconazole 200 mg [see Clinical Pharmacology (12.3)].
 Therefore, in patients taking itraconazole, caution should be used when the atorvastatin dose exceeds 20 mg [see Warnings and Precautions, Skeletal Muscle (5.1) and Dosage and Administration (2.6)].
@@ -28,8 +29,7 @@ Contains one or more components that inhibit CYP 3A4 and can increase plasma con
 Atorvastatin and atorvastatin-metabolites are substrates of the OATP1B1 transporter.
 Inhibitors of the OATP1B1 (e.g., cyclosporine) can increase the bioavailability of atorvastatin.
 Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 10 mg and cyclosporine 5.2 mg/kg/day compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
-The co-administration of atorvastatin with cyclosporine should be avoided.
-[see Warnings and Precautions, Skeletal Muscle (5.1)].
+The co-administration of atorvastatin with cyclosporine should be avoided [see Warnings and Precautions, Skeletal Muscle (5.1)].
 
 ## 7.4 Gemfibrozil
 
@@ -50,7 +50,7 @@ Due to the dual interaction mechanism of rifampin, simultaneous co-administratio
 
 ## 7.8 Digoxin
 
-When multiple doses of atorvastatin and digoxin were coadministered, steady state plasma digoxin concentrations increased by approximately 20%.
+When multiple doses of atorvastatin and digoxin were co-administered, steady state plasma digoxin concentrations increased by approximately 20%.
 Patients taking digoxin should be monitored appropriately.
 
 ## 7.9 Oral Contraceptives

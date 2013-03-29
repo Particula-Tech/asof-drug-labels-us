@@ -7,8 +7,7 @@ Patients should also be advised to inform other healthcare professionals prescri
 
 ## 17.1 Muscle Pain
 
-All patients starting therapy with atorvastatin calcium tablets should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness, or weakness.
-The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (>1 liter) of grapefruit juice.
+All patients starting therapy with atorvastatin calcium tablets should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing atorvastatin calcium.The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (>1 liter) of grapefruit juice.
 They should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
 ## 17.2 Liver Enzymes
@@ -29,6 +28,19 @@ Patients who have a lipid disorder and are breastfeeding, should be advised to d
 
 Maalox TC® is a registered trademark of Novartis Consumer Health Inc.
 
+Manufactured By: Manufactured For:
+
+Apotex Inc. Apotex Corp.
+
+Toronto, ON Weston, Florida
+
+Canada, M9L 1T9 33326
+
+Revised: December 2012
+
+Rev.
+5
+
 PATIENT INFORMATION
 
 Atorvastatin Calcium Tablets
@@ -39,9 +51,9 @@ This leaflet does not take the place of talking with your doctor about your cond
 
 If you have any questions about atorvastatin calcium tablets, ask your doctor or pharmacist.
 
-What are Atorvastatin Calcium tablets?
+What are atorvastatin calcium tablets?
 
-Atorvastatin calcium tablets is a prescription medicine that lowers cholesterol in your blood.
+Atorvastatin calcium tablets are a prescription medicine that lowers cholesterol in your blood.
 It lowers the LDL-C ("bad" cholesterol) and triglycerides in your blood.
 It can raise your HDL-C ("good" cholesterol) as well.
 Atorvastatin calcium tablets are for adults and children over 10 whose cholesterol does not come down enough with exercise and a low-fat diet alone.
@@ -113,9 +125,7 @@ How Should I Take Atorvastatin Calcium Tablets?
   Your dose of atorvastatin calcium tablets may be changed based on these blood test results.
 - Take atorvastatin calcium tablets each day at any time of day at about the same time each day.
   Atorvastatin calcium tablets can be taken with or without food.
-
-Don't break atorvastatin calcium tablets before taking.
-
+  Don't break atorvastatin calcium tablets before taking.
 - Your doctor should start you on a low-fat diet before giving you atorvastatin calcium tablets.
   Stay on this low-fat diet when you take atorvastatin calcium tablets.
 - If you miss a dose of atorvastatin calcium tablets, take it as soon as you remember.
@@ -155,7 +165,9 @@ These serious side effects include:
 
 Call your doctor right away if you have:
 
-- muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.
+- muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.This may be an early sign of a rare muscle problem.
+- muscle problems that do not go away even after your doctor has advised you to stop taking atorvastatin calcium tablets.
+  Your doctor may do further tests to diagnose the cause of your muscle problems.
 - allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away.
 - nausea and vomiting.
 - passing brown or dark-colored urine.
@@ -205,7 +217,7 @@ Toronto, ON Weston, Florida
 
 Canada, M9L 1T9 33326
 
-Revised: May 2012
+Revised: December 2012
 
 Rev.
-4
+5

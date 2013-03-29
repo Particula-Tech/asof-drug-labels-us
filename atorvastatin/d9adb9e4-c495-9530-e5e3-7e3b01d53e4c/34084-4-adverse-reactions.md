@@ -35,7 +35,9 @@ Clinical adverse reactions occurring in ≥ 2% in patents treated with any dose 
 | Insomnia | 3.0 | 2.8 | 1.1 | 5.3 | 2.8 | 2.9 |
 | Pharyngolaryngeal pain | 2.3 | 3.9 | 1.6 | 2.8 | 0.7 | 2.1 |
 
-Other adverse reactions reported in placebo-controlled studies include: Body as a whole: malaise, pyrexia; Digestive system: abdominal discomfort, eructation, flatulence, hepatitis, cholestasis; Musculoskeletal system: musculoskeletal pain, muscle fatigue, neck pain, joint swelling; Metabolic and nutritional system: transaminases increase, liver function test abnormal, blood alkaline phosphatase increase, creatine phosphokinase increase, hyperglycemia; Nervous system: nightmare; Respiratory system: epistaxis; Skin and appendages: urticaria; Special senses: vision blurred, tinnitus; Urogenital system: white blood cells urine positive.
+Other adverse reactions reported in placebo-controlled studies include
+
+Body as a whole: malaise, pyrexia; Digestive system: abdominal discomfort, eructation, flatulence, hepatitis, cholestasis; Musculoskeletal system: musculoskeletal pain, muscle fatigue, neck pain, joint swelling; Metabolic and nutritional system: transaminases increase, liver function test abnormal, blood alkaline phosphatase increase, creatine phosphokinase increase, hyperglycemia; Nervous system: nightmare; Respiratory system: epistaxis; Skin and appendages: urticaria; Special senses: vision blurred, tinnitus; Urogenital system: white blood cells urine positive.
 
 Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT)
 
@@ -78,9 +80,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adverse reactions associated with atorvastatin calcium therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, and pancreatitis.
 
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
+
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 These cognitive issues have been reported for all statins.
-The reports are generally nonserious and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
 
 ## 6.3 Pediatric Patients (ages 10 to 17 years)
 
