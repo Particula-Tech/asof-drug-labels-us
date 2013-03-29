@@ -286,14 +286,22 @@ This response has been attributed to inhibition of renal prostaglandin synthesis
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 Concomitant therapy with potassium-sparing diuretics may be associated with increased serum potassium levels.
 
-#### Potent CYP2C9 inhibitors
+#### CYP2C9 inhibitors
 
-Caution is recommended when co-prescribing diclofenac with potent CYP2C9 inhibitors (such as sulfinpyrazone and voriconazole), which could result in a significant increase in peak plasma concentrations and exposure to diclofenac due to inhibition of diclofenac metabolism.
+Use caution when dosing diclofenac with CYP2C9 inhibitors (e.g., voriconazole).
+Concomitant use of CYP2C9 inhibitors may enhance toxicity of diclofenac due to an increase in systemic exposure to diclofenac.
+When concomitant use of CYP2C9 inhibitors is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of ARTHROTEC 50 twice daily (see DOSAGE AND ADMINISTRATION).
 
 #### Voriconazole
 
 In a published study, single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2).
 The mean Cmax and AUC of diclofenac were increased by 2.1-fold and 1.8-fold respectively when coadministered with voriconazole compared to diclofenac alone.
+
+#### CYP2C9 inducers
+
+Use caution when dosing diclofenac with CYP2C9 inducers (e.g., rifampin).
+Concomitant use of CYP2C9 inducers may lead to compromised efficacy due to a decrease in systemic exposure to diclofenac.
+The separate products of misoprostol and diclofenac should be used if a higher dose of diclofenac is deemed necessary (see DOSAGE AND ADMINISTRATION).
 
 #### Other drugs
 
