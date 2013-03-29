@@ -171,10 +171,14 @@ There have been reports of epidural or spinal hematoma formation with concurrent
 The majority of patients had a post-operative indwelling epidural catheter placed for analgesia or received additional drugs affecting hemostasis such as NSAIDs.
 Many of the epidural or spinal hematomas caused neurologic injury, including long-term or permanent paralysis.
 
-Local reactions at the injection site (e.g. nodules, inflammation, oozing), systemic allergic reactions (e.g. pruritus, urticaria, anaphylactic/anaphylactoid reactions), vesiculobullous rash, rare cases of hypersensitivity cutaneous vasculitis, purpura, skin necrosis (occurring at either the injection site or distant from the injection site), thrombocytosis, and thrombocytopenia with thrombosis [see Warnings and Precautions (5.5)] have been reported.
+Local reactions at the injection site (e.g. nodules, inflammation, oozing), systemic allergic reactions (e.g. pruritus, urticaria, anaphylactic/anaphylactoid reactions including shock), vesiculobullous rash, rare cases of hypersensitivity cutaneous vasculitis, purpura, skin necrosis (occurring at either the injection site or distant from the injection site), thrombocytosis, and thrombocytopenia with thrombosis [see Warnings and Precautions (5.5)] have been reported.
 
 Cases of hyperkalemia have been reported.
 Most of these reports occurred in patients who also had conditions that tend toward the development of hyperkalemia (e.g., renal dysfunction, concomitant potassium-sparing drugs, administration of potassium, hematoma in body tissues).
 Very rare cases of hyperlipidemia have also been reported, with one case of hyperlipidemia, with marked hypertriglyceridemia, reported in a diabetic pregnant woman; causality has not been determined.
+
+Cases of headache, hemorrhagic anemia, eosinophilia, alopecia, hepatocellular and cholestatic liver injury have been reported.
+
+Osteoporosis has also been reported following long-term therapy (greater than 3 months).
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.

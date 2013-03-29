@@ -15,10 +15,10 @@ Patients should also be informed:
 - to tell their physicians and dentists they are taking Lovenox and/or any other product known to affect bleeding before any surgery is scheduled and before any new drug is taken [see Warnings and Precautions (5.3)].
 - to tell their physicians and dentists of all medications they are taking, including those obtained without a prescription, such as aspirin or other NSAIDs [see Drug Interactions (7)].
 
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 Multiple-dose vials are also manufactured by DSM Pharmaceuticals, Inc. Greenville, NC 27835
 
 Novation, the supply company of VHA and UHC, and NOVAPLUS are trademarks of Novation, LLC.
 
-© 2011 sanofi-aventis U.S. LLC
+© 2013 sanofi-aventis U.S. LLC
