@@ -13,7 +13,7 @@ No vaginal tumors occurred at the low or middle dose in rats.
 No other drug-related tumors were observed in either sex of either species.
 At doses that produced tumors in mice and rats, the estimated drug exposure (as measured by AUC) was approximately 3 times (mouse) and 24 times (rat) the estimated human exposure at the recommended therapeutic dose of 100 mg every 4 hours.
 It is not known how predictive the results of rodent carcinogenicity studies may be for humans.
-Zidovudine was mutagenic in a 5178Y/TK +/- mouse lymphoma assay, positive in an in vitro cell transformation assay, clastogenic in a cytogenetic assay using cultured human lymphocytes, and positive in mouse and rat micronucleus tests after repeated doses.
+Zidovudine was mutagenic in a 5178Y/TK+/- mouse lymphoma assay, positive in an in vitro cell transformation assay, clastogenic in a cytogenetic assay using cultured human lymphocytes, and positive in mouse and rat micronucleus tests after repeated doses.
 It was negative in a cytogenetic study in rats given a single dose.
 Zidovudine, administered to male and female rats at doses up to 7 times the usual adult dose based on body surface area, had no effect on fertility judged by conception rates.
 Two transplacental carcinogenicity studies were conducted in mice.
