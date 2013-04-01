@@ -130,7 +130,7 @@ Carbamazepine should be used with caution in patients with a mixed seizure disor
 
 Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac conduction disturbance, including second and third degree AV heart block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with carbamazepine.
 
-AV heart block, including second and third degree block, have been reported following carbamazepine treatment.
+AV heart block, including second and third degree block, have been reported following, carbamazepine treatment.
 This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
@@ -230,7 +230,7 @@ When carbamazepine is given with drugs that can increase or decrease carbamazepi
 
 Increased levels: clomipramine HCl, phenytoin, primidone
 
-Carbamazepine is a potent inducer of hepatic CYP 3A4 and may therefore reduce plasma concentrations of comedications mainly metabolized by 3A4 through induction of their metabolism.
+Carbamazepine is a potent inducer of hepatic CYP 3A4 and may therefore reduce plasma concentrations of co-medications mainly metabolized by 3A4 through induction of their metabolism.
 Carbamazepine causes, or would be expected to cause, decreased levels of the following:
 
 acetaminophen, alprazolam, bupropion, dihydropyridine calcium channel blockers (e.g., felodipine), citalopram, cyclosporine, corticosteroids (e.g., prednisolone, dexamethasone), clonazepam, clozapine, dicumarol, doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
@@ -266,7 +266,7 @@ The significance of these findings relative to the use of carbamazepine in human
 
 ## Usage in Pregnancy
 
-### Pregnancy Category D (see WARNINGS).
+Pregnancy Category D (see WARNINGS).
 
 ## Labor and Delivery
 

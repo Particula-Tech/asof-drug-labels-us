@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Carbamazepine USP is an anticonvulsant and specific analgesic for trigeminal neuralgia, available for oral administration as tablets of 200 mg.
+Carbamazepine USP, is an anticonvulsant and specific analgesic for trigeminal neuralgia, available for oral administration as tablets of 200 mg.
 Its chemical name is 5H-dibenz[b,f]azepine-5-carboxamide, and its structural formula is:
 
 Carbamazepine USP is a white to off-white powder, practically insoluble in water and soluble in alcohol and in acetone.

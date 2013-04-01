@@ -2,7 +2,7 @@
 
 ## Epilepsy
 
-Carbamazepine is indicated for use as an anticonvulsant drug.
+Carbamazepine tablets, USP are indicated for use as an anticonvulsant drug.
 Evidence supporting efficacy of carbamazepine as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with the following seizure types:
 
 1. Partial seizures with complex symptomatology (psychomotor, temporal lobe).
@@ -13,7 +13,7 @@ Evidence supporting efficacy of carbamazepine as an anticonvulsant was derived f
 
 ## Trigeminal Neuralgia
 
-Carbamazepine is indicated in the treatment of the pain associated with true trigeminal neuralgia.
+Carbamazepine tablets, USP are indicated in the treatment of the pain associated with true trigeminal neuralgia.
 
 Beneficial results have also been reported in glossopharyngeal neuralgia.
 

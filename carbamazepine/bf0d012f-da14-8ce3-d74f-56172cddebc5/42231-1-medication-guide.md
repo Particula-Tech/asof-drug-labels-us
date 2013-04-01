@@ -6,6 +6,8 @@ Read this Medication Guide before you start taking carbamazepine tablets, USP an
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
+What is the most important information I should know about carbamazepine?
+
 Do not stop taking carbamazepine without first talking to your healthcare provider.
 
 Stopping carbamazepine suddenly can cause serious problems.
@@ -212,7 +214,7 @@ Toronto, Ontario Weston, Florida
 
 Canada M9L 1T9 33326
 
-May 2011
+January 2013
 
 Rev.
-1
+2

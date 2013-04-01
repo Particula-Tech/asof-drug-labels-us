@@ -6,7 +6,7 @@ A low initial daily dosage with a gradual increase is advised.
 As soon as adequate control is achieved, the dosage may be reduced very gradually to the minimum effective level.
 Medication should be taken with meals.
 
-## Epilepsy (see INDICATIONS AND USAGE):
+Epilepsy (see INDICATIONS AND USAGE):
 
 Adults and children over 12 years of age - Initial: 200 mg b.i.d. for tablets (400 mg/day).
 Increase at weekly intervals by adding up to 200 mg/day using a t.i.d. or q.i.d. regimen of carbamazepine tablets until the optimal response is obtained.
@@ -28,11 +28,12 @@ No recommendation regarding the safety of carbamazepine for use at doses above 3
 Combination Therapy: Carbamazepine may be used alone or with other anticonvulsants.
 When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy Category D).
 
-## Trigeminal Neuralgia (see INDICATIONS AND USAGE):
+Trigeminal Neuralgia (see INDICATIONS AND USAGE):
 
 Initial: On the first day, 100 mg b.i.d. for tablets for a totally daily dose of 200 mg.
-This daily dose may be increased by up to 200 mg/day using increments of 100 mg every 12 hours for tablets only as needed to achieve freedom from pain.
+This daily dose may be increased by up to 200 mg/day using increments of 100 mg every 12 hours for tablets, only as needed to achieve freedom from pain.
 Do not exceed 1200 mg daily.
+
 Maintenance: Control of pain can be maintained in most patients with 400 to 800 mg daily.
 However, some patients may be maintained on as little as 200 mg daily, while others may require as much as 1200 mg daily.
 At least once every 3 months throughout the treatment period, attempts should be made to reduce the dose to the minimum effective level or even to discontinue the drug.

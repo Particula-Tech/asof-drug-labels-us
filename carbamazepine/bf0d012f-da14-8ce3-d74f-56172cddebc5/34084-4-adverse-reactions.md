@@ -11,11 +11,11 @@ The following additional adverse reactions have been reported:
 
 Hemopoietic System
 
-Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, anemia, acute intermittent porphyria variegate porphyria, porphyria cutanea tarda.
+Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, anemia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
 
 Skin
 
-Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, and diaphoresis.
+Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, and onychomadesis.
 In certain cases, discontinuation of therapy may be necessary.
 Isolated cases of hirsutism have been reported, but a causal relationship is not clear.
 
@@ -74,7 +74,7 @@ Metabolism
 
 Fever and chills.
 Inappropriate antidiuretic hormone (ADH) secretion syndrome has been reported.
-Cases of frank water intoxication, with decreased serum sodium (hyponatremia) and confusion have been reported in association with carbamazepine use (see PRECAUTIONS, Laboratory Tests).
+Cases of frank water intoxication, with decreased serum sodium (hyponatremia) and confusion, have been reported in association with carbamazepine use (see PRECAUTIONS,Laboratory Tests).
 Decreased levels of plasma calcium leading to osteoporosis have been reported.
 
 Other
