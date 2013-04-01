@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-RETIN-A MICRO® (ret-in-A MY-kroe) (tretinoin gel) microsphere, 0.1% and 0.04% For Topical Use Only
+RETIN-A MICRO®(ret-in-A MY-kroe) (tretinoin gel) microsphere, 0.1% and 0.04% For Topical Use Only
 
 Read this information carefully before you start to use your medicine and each time you get more medicine.
 There may be new information about this medicine when you get your prescription renewed.

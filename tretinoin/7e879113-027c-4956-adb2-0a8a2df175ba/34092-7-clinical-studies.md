@@ -20,7 +20,7 @@ In Study #2, twenty-eight percent (28%) of patients using Retin-A Micro® (treti
 
 ## Retin-A Micro® (tretinoin gel) microsphere, 0.04%
 
-In two vehicle-controlled clinical studies, Retin-A Micro®®(tretinoin gel) microsphere, 0.04%, applied once daily, was more effective (p< 0.05) than vehicle in reducing the acne lesion counts.
+In two vehicle-controlled clinical studies, Retin-A Micro® (tretinoin gel) microsphere, 0.04%, applied once daily, was more effective (p< 0.05) than vehicle in reducing the acne lesion counts.
 The mean reductions in lesion counts from baseline after treatment for 12 weeks are shown in the following table:
 
 Mean Percent Reduction in Lesion Counts Retin-A Micro® (tretinoin gel) microsphere, 0.04%
