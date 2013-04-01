@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA075536"
+  ],
+  "inn": "doxazosin",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-2067-01",
+    "0093-2067-05",
+    "0093-2068-01",
+    "0093-2068-05",
+    "0093-2068-19",
+    "0093-2068-93",
+    "0093-2069-01",
+    "0093-2069-05",
+    "0093-2069-19",
+    "0093-2069-93",
+    "0093-2070-01",
+    "0093-2070-05",
+    "0093-2070-19",
+    "0093-2070-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxazosin mesylate",
+      "name": "Doxazosin"
+    }
+  ],
+  "setid": "0aaa68a7-f73b-46d8-860f-a76d96897489",
+  "source": "dailymed"
+}
