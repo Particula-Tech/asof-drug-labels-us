@@ -40,8 +40,7 @@ Before taking SINGULAIR, tell your healthcare provider if you:
   SINGULAIR chewable tablets contain aspartame, a source of phenylalanine
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  If you are pregnant or plan to become pregnant, SINGULAIR may not be right for you.
-  If you become pregnant while taking SINGULAIR, talk to your healthcare provider about reporting your pregnancy to the Pregnancy Registry for SINGULAIR, or you can enroll in this registry by calling 1-800-986-8999.
+  Talk to your doctor if you are pregnant or plan to become pregnant, as SINGULAIR may not be right for you.
 - are breast-feeding or plan to breast-feed.
   It is not known if SINGULAIR passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking SINGULAIR.
@@ -124,7 +123,7 @@ SINGULAIR may cause serious side effects.
 - Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking SINGULAIR:
 
-| agitation including aggressive behavior or hostilitybad or vivid dreamsdepressiondisorientation (confusion)disturbance in attentionfeeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory impairmentrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
+| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory problemsrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
 | --- | --- |
 
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).

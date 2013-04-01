@@ -11,9 +11,6 @@ During worldwide marketing experience, congenital limb defects have been rarely 
 Most of these women were also taking other asthma medications during their pregnancy.
 A causal relationship between these events and SINGULAIR has not been established.
 
-Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., maintains a registry to monitor the pregnancy outcomes of women exposed to SINGULAIR while pregnant.
-Patients and healthcare providers are encouraged to report any prenatal exposure to SINGULAIR by calling the Pregnancy Registry at 1-800-986-8999.
-
 ## 8.3 Nursing Mothers
 
 Studies in rats have shown that montelukast is excreted in milk.
