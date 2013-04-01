@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Enoxaparin sodium is a low molecular weight heparin which has antithrombotic properties.
+Enoxaparin is a low molecular weight heparin which has antithrombotic properties.
 
 ## 12.2 Pharmacodynamics
 
