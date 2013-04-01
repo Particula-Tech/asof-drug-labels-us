@@ -2,13 +2,15 @@ PACKAGE LABEL- Cymbalta 20 mg, bottle of 60
 
 NDC 0002-3235-60
 
-60 Capsules
+60 capsules
 
 PU3235
 
 Cymbalta®
 
-Duloxetine HCl DELAYED RELEASE CAPSULES
+duloxetine
+
+delayed release capsules
 
 20 mg
 
@@ -24,13 +26,15 @@ PACKAGE LABEL- Cymbalta 30 mg, bottle of 30
 
 NDC 0002-3240-30
 
-30 Capsules
+30 capsules
 
 PU3240
 
 Cymbalta®
 
-duloxetine HCl DELAYED RELEASE CAPSULES
+duloxetine
+
+delayed release capsules
 
 30 mg
 
@@ -52,7 +56,9 @@ PU3270
 
 Cymbalta®
 
-duloxetine HCl DELAYED RELEASE CAPSULES
+duloxetine
+
+delayed release capsules
 
 60 mg
 
