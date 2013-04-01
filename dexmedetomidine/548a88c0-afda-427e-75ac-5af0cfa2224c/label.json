@@ -5,11 +5,18 @@
   "inn": "dexmedetomidine",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
-    "0409-1638-02"
+    "0409-1638-02",
+    "0409-1660-10",
+    "0409-1660-50"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Precedex"
+    },
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
       "generic": "dexmedetomidine hydrochloride",
       "name": "Precedex"
     }

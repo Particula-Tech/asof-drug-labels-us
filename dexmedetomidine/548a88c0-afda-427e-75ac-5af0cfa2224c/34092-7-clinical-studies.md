@@ -20,7 +20,7 @@ Table 9: Ramsay Level of Sedation Scale
 | 2 | Patient cooperative, oriented, and tranquil |
 | 1 | Patient anxious, agitated, or restless |
 
-In the first study, 175 patients were randomized to receive placebo and 178 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
+In the first study, 175 patients were randomized to receive placebo and 178 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of 1 mcg/kg intravenous over 10 minutes.
 The study drug infusion rate was adjusted to maintain a Ramsay sedation score of ≥3.
 Patients were allowed to receive “rescue” midazolam as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered for pain as needed.
@@ -32,20 +32,21 @@ A significantly greater percentage of patients in the Precedex group maintained 
 
 Table 10: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 
-|  | Placebo N=175 | Precedex N=178 | p-value |
+|  | Placebo (N = 175) | Precedex (N = 178) | p-value |
 | --- | --- | --- | --- |
-| Mean Total Dose (mg) of Midazolam Standard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011* |
+| Mean Total Dose (mg) of Midazolam | 19 mg | 5 mg | 0.0011* |
+| Standard deviation | 53 mg | 19 mg |  |
 | Categorized Midazolam Use |  |  |  |
 | 0 mg | 43 (25%) | 108 (61%) | <0.001** |
 | 0–4 mg | 34 (19%) | 36 (20%) |  |
 | >4 mg | 98 (56%) | 34 (19%) |  |
-| ITT (intent-to-treat) population includes all randomized patients.* ANOVA model with treatment center.** Chi-square |  |  |  |
+| ITT (intent-to-treat) population includes all randomized patients.* ANOVA model with treatment center.** Chi-square. |  |  |  |
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the Precedex and placebo groups.
 On average, Precedex-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
 In addition, 44% (79 of 178 patients) of Precedex patients received no morphine sulfate for pain versus 19% (33 of 175 patients) in the placebo group.
 
-In a second study, 198 patients were randomized to receive placebo and 203 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
+In a second study, 198 patients were randomized to receive placebo and 203 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of 1 mcg/kg intravenous over 10 minutes.
 The study drug infusion was adjusted to maintain a Ramsay sedation score of ≥3.
 Patients were allowed to receive “rescue” propofol as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered as needed for pain.
@@ -57,9 +58,10 @@ A significantly greater percentage of patients in the Precedex group compared to
 
 Table 11: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 
-|  | Placebo N=198 | Precedex N=203 | p-value |
+|  | Placebo (N = 198) | Precedex (N = 203) | p-value |
 | --- | --- | --- | --- |
-| Mean Total Dose (mg) of Propofol Standard deviation | 513 mg782 mg | 72 mg249 mg | <0.0001* |
+| Mean Total Dose (mg) of Propofol | 513 mg | 72 mg | <0.0001* |
+| Standard deviation | 782 mg | 249 mg |  |
 | Categorized Propofol Use |  |  |  |
 | 0 mg | 47 (24%) | 122 (60%) | <0.001** |
 | 0–50 mg | 30 (15%) | 43 (21%) |  |
@@ -90,8 +92,8 @@ Table 12: Observer’s Assessment of Alertness/Sedation
 | Responds readily to name spoken in normal tone | Normal | Normal | Clear, no ptosis | 5 (alert) |
 | Lethargic response to name spoken in normal tone | Mild slowing or thickening | Mild relaxation | Glazed or mild ptosis (less than half the eye) | 4 |
 | Responds only after name is called loudly and/or repeatedly | Slurring or prominent slowing | Marked relaxation (slack jaw) | Glazed and marked ptosis (half the eye or more) | 3 |
-| Responds only after mild prodding or shaking | Few recognizable words | — | — | 2 |
-| Does not respond to mild prodding or shaking | — | — | — | 1 (deep sleep) |
+| Responds only after mild prodding or shaking | Few recognizable words | – | – | 2 |
+| Does not respond to mild prodding or shaking | – | – | – | 1 (deep sleep) |
 
 Patients were randomized to receive a loading infusion of either Precedex 1 mcg/kg, Precedex 0.5 mcg/kg, or placebo (normal saline) given over 10 minutes and followed by a maintenance infusion started at 0.6 mcg/kg/hr.
 The maintenance infusion of study drug could be titrated from 0.2 mcg/kg/hr to 1 mcg/kg/hr to achieve the targeted sedation score (Observer’s Assessment of Alertness/Sedation Scale ≤4).
@@ -109,11 +111,11 @@ For efficacy results see Table 13.
 
 Table 13: Key Efficacy Results of Procedural Sedation Studies
 
-| Study | Loading Infusion Treatment Arm | Number of Patients Enrolleda | % Not Requiring Midazolam Rescue | Confidence b Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | Confidenceb Intervals of the Mean Rescue Dose |
+| Study | Loading Infusion Treatment Arm | Number of Patients Enrolleda | % Not Requiring Midazolam Rescue | Confidenceb Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | Confidenceb Intervals of the Mean Rescue Dose |
 | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 | Precedex 0.5 mcg/kg | 134 | 40 | 37 (27, 48) | 1.4 (1.7) | -2.7 (-3.4, -2.0) |
 | Precedex 1 mcg/kg | 129 | 54 | 51 (40, 62) | 0.9 (1.5) | -3.1 (-3.8, -2.5) |  |
-| placebo | 63 | 3 | — | 4.1 (3.0) | — |  |
+| placebo | 63 | 3 | – | 4.1 (3.0) | – |  |
 | Study 2 | Precedex 1 mcg/kg | 55 | 53 | 39 (20, 57) | 1.1 (1.5) | -1.8 (-2.7, -0.9) |
-| placebo | 50 | 14 | — | 2.9 (3.0) | — |  |
+| placebo | 50 | 14 | – | 2.9 (3.0) | – |  |
 | a Based on ITT population defined as all randomized and treated patients.b Normal approximation to the binomial with continuity correction. |  |  |  |  |  |  |

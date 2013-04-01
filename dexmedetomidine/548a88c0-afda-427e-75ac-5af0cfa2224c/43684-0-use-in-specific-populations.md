@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
+Pregnancy Category C
 
 There are no adequate and well-controlled studies of Precedex use in pregnant women.
 In an in vitro human placenta study, placental transfer of dexmedetomidine occurred.

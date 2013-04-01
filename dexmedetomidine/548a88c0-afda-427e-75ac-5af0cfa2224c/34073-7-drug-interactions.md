@@ -9,4 +9,4 @@ However, due to possible pharmacodynamic interactions, when co-administered with
 
 ## 7.2 Neuromuscular Blockers
 
-In one study of 10 healthy volunteers, administration of Precedex for 45 minutes at a plasma concentration of one ng/mL resulted in no clinically meaningful increases in the magnitude of neuromuscular blockade associated with rocuronium administration.
+In one study of 10 healthy volunteers, administration of Precedex for 45 minutes at a plasma concentration of 1 ng/mL resulted in no clinically meaningful increases in the magnitude of neuromuscular blockade associated with rocuronium administration.
