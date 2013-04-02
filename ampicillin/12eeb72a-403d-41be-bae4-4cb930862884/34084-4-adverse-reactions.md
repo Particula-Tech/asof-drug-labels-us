@@ -44,7 +44,7 @@ The following adverse reactions have been reported with ampicillin-class antibio
 
 Gastritis, stomatitis, black "hairy" tongue and enterocolitis.
 Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment.
-(See WARNINGS.)
+(see WARNINGS section).
 
 ### Hypersensitivity Reactions
 
@@ -52,7 +52,7 @@ Urticaria, erythema multiforme, and an occasional case of exfoliative dermatitis
 These reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
 Whenever such reactions occur, the drug should be discontinued, unless the opinion of the physician dictates otherwise.
 Serious and occasional fatal hypersensitivity (anaphylactic) reactions can occur with a penicillin.
-(See WARNINGS.)
+(See WARNINGS section).
 
 ### Hematologic
 

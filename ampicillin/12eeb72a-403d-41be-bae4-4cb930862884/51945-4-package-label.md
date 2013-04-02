@@ -1,17 +1,29 @@
-# PRINCIPAL DISPLAY PANEL - 15 g Bulk Carton
+# PRINCIPAL DISPLAY PANEL - 15 g Bulk Vial Label
 
-NDC 0049-0024-28
+Pfizer Injectables
 
-1 Bottle Rx only
+NDC 0049-0024-28 Rx only
 
 Unasyn® (ampicillin sodium/ sulbactam sodium)
 
-Sterile
+15 g*
+
+Sterile For Intravenous Use
 
 PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION
 
+# PRINCIPAL DISPLAY PANEL - 15 g Bulk Carton
+
+NDC 0049-0024-28 Rx only
+
+1 Bottle
+
+Unasyn® (ampicillin sodium/ sulbactam sodium)
+
 15 g*
 
-For Intravenous Use
+PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+Sterile For Intravenous Use
+
+Pfizer Injectables

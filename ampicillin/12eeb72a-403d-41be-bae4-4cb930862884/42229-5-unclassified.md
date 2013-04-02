@@ -33,30 +33,30 @@ After reconstitution, use within two hours if stored at room temperature, or wit
 
 Reconstituted Bulk Solution Should Not be Used For Direct Infusion
 
-If the reconstituted bulk solution is stored for less than one hour at room temperature (20°C/68°F) prior to further dilution, the use periods indicated in Table B apply for the diluted solutions.
+If the reconstituted bulk solution is stored for less than one hour at room temperature (20°C/68°F) prior to further dilution, the use periods indicated in Table 6 apply for the diluted solutions.
 
-If the bulk solution is stored for one to two hours at room temperature (20°C/68°F) and then diluted with Sterile Water for Injection or 0.9% Sodium Chloride Injection to the following concentrations, the use periods indicated in Table C apply.
+If the bulk solution is stored for one to two hours at room temperature (20°C/68°F) and then diluted with Sterile Water for Injection or 0.9% Sodium Chloride Injection to the following concentrations, the use periods indicated in Table 7 apply.
 
 Any unused portions of solution that remain after the indicated time periods should be discarded.
 
-Table B
+Table 6
 
 | Diluent | Maximum Concentration (mg/mL) UNASYN (Ampicillin/Sulbactam) | Use Periods |
 | --- | --- | --- |
-| Sterile Water for Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs @ 21°C 48 hrs @ 4°C 72 hrs @ 4°C |
-| 0.9% Sodium Chloride Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs @ 21°C 48 hrs @ 4°C 72 hrs @ 4°C |
-| 5% Dextrose Injection | 30 (20/10) 30 (20/10) 3 (2/1) | 2 hrs @ 21°C 4 hrs @ 4°C 2 hrs @ 21°C |
-| Lactated Ringer's Injection | 45 (30/15) 45 (30/15) | 8 hrs @ 21°C 24 hrs @ 4°C |
-| M/6 Sodium Lactate Injection | 45 (30/15) 45 (30/15) | 8 hrs @ 21°C 12 hrs @ 4°C |
-| 5% Dextrose in 0.45% Saline | 3 (2/1) 15 (10/5) | 4 hrs @ 21°C 4 hrs @ 4°C |
-| 10% Invert Sugar | 3 (2/1) 30 (20/10) | 4 hrs @ 21°C 3 hrs @ 4°C |
+| Sterile Water for Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 21°C 48 hrs at 4°C 72 hrs at4°C |
+| 0.9% Sodium Chloride Injection, (USP) | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 21°C 48 hrs at 4°C 72 hrs at 4°C |
+| 5% Dextrose Injection | 30 (20/10) 30 (20/10) 3 (2/1) | 2 hrs at 21°C 4 hrs at 4°C 2 hrs at 21°C |
+| Lactated Ringer's Injection | 45 (30/15) 45 (30/15) | 8 hrs at 21°C 24 hrs at 4°C |
+| M/6 Sodium Lactate Injection | 45 (30/15) 45 (30/15) | 8 hrs at 21°C 12 hrs at 4°C |
+| 5% Dextrose in 0.45% Saline | 3 (2/1) 15 (10/5) | 4 hrs at 21°C 4 hrs at 4°C |
+| 10% Invert Sugar | 3 (2/1) 30 (20/10) | 4 hrs at 21°C 3 hrs at 4°C |
 
-Table C
+Table 7
 
 | IV Solution | Maximum Concentration (mg/mL) UNASYN (Ampicillin/Sulbactam) | Use Period |
 | --- | --- | --- |
-| Sterile Water for Injection, USP | 45 (30/15) 45 (30/15) | 4 hrs @ 21°C 24 hrs @ 4°C |
-| 0.9% Sodium Chloride Injection, USP | 45 (30/15) 45 (30/15) | 4 hrs @ 21°C 24 hrs @ 4°C |
+| Sterile Water for Injection, USP | 45 (30/15) 45 (30/15) | 4 hrs at 21°C 24 hrs at 4°C |
+| 0.9% Sodium Chloride Injection, USP | 45 (30/15) 45 (30/15) | 4 hrs at 21°C 24 hrs at 4°C |
 
 ## Animal Pharmacology
 
@@ -64,7 +64,7 @@ While reversible glycogenosis was observed in laboratory animals, this phenomeno
 
 # OTHER SIZE PACKAGES AVAILABLE
 
-UNASYN is also supplied in glass vial and piggyback bottles in the following package sizes:
+UNASYN® is also supplied in glass vial and piggyback bottles in the following package sizes:
 
 Vials containing 1.5 g (NDC 0049-0013-83) equivalent of UNASYN (1 g ampicillin as the sodium salt plus 0.5 g sulbactam as the sodium salt)
 
@@ -84,6 +84,6 @@ The 3 g UNASYN ADD-Vantage® vials are only to be used with Abbott Laboratories'
 
 Rx only
 
-LAB-0018-5.0
+LAB-0018-6.0
 
-September 2010
+September 2012
