@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA010515"
+  ],
+  "inn": "isoproterenol",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-1442-02",
+    "0409-1442-03"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "isoproterenol hydrochloride",
+      "name": "Isuprel"
+    }
+  ],
+  "setid": "a58f95fa-18f9-4938-8e3f-f33244f68298",
+  "source": "dailymed"
+}
