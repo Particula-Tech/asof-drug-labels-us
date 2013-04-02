@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA012093"
+  ],
+  "inn": "isosorbide-dinitrate",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0152-01",
+    "0187-0192-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "isosorbide dinitrate",
+      "name": "Isordil"
+    }
+  ],
+  "setid": "8ddd2577-311a-4967-bb67-ad72e2b76f83",
+  "source": "dailymed"
+}
