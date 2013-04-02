@@ -1,13 +1,15 @@
 # PRINCIPAL DISPLAY PANEL - 3 Bottle Carton
 
-Multi-Pack Three 2.5 mL bottles Not to be sold separately.
+Pfizer
 
-NDC 0013-8303-01 Rx only
+NDC 0013-8303-01
 
-Xalatan® latanoprost ophthalmic Solution
+Xalatan® latanoprost ophthalmic solution
 
 STERILE 0.005%
 
-125 µg/ 2.5 mL*
+125 µg/2.5 mL*
 
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Multi-Pack Three 2.5 mL bottles Not to be sold separately.
+
+Rx only
