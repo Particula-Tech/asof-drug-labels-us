@@ -138,7 +138,7 @@ When prolonged treatment (1–2 weeks) with enzyme-inducing drugs such as rifamp
 #### Rifampin
 
 In a study of 12 schizophrenic patients coadministered oral haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline.
-In 5 other schizophrenic patients treated with haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations.
+In 5 other schizophrenic patients treated with oral haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations.
 
 #### Carbamazepine
 
