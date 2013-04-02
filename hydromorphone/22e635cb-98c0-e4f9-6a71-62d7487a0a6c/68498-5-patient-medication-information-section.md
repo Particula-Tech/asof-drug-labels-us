@@ -67,7 +67,7 @@ Disposal
 
 Advise patients that when EXALGO is no longer needed to flush the unused tablets down the toilet or remit to authorities at a certified drug take-back program.
 
-EXALGO is a registered trademark of Mallinckrodt LLC. © 2012 Mallinckrodt LLC
+EXALGO is a registered trademark of Mallinckrodt LLC. © 2013 Mallinckrodt LLC
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 

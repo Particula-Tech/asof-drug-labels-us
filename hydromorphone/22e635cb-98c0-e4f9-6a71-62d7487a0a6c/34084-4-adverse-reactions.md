@@ -106,23 +106,23 @@ Endocrine disorders: hypogonadism
 
 Eye disorders: vision blurred, diplopia, dry eye, miosis
 
-Gastrointestinal disorders: flatulence, dysphagia, hematochezia, abdominal distension, hemorrhoids, abnormal feces, intestinal obstruction, eructation, diverticulum, gastrointestinal motility disorder, large intestine perforation, anal fissure, bezoar, duodenitis, ileus, impaired gastric emptying, painful defecation
+Gastrointestinal disorders: esophageal reflux aggravated, flatulence, dysphagia, hematochezia, abdominal distension, hemorrhoids, abnormal feces, intestinal obstruction, eructation, diverticulum, gastrointestinal motility disorder, large intestine perforation, anal fissure, bezoar, duodenitis, ileus, impaired gastric emptying, painful defecation
 
-General disorders and administration site conditions: chills, malaise, feeling abnormal, feeling hot and cold, feeling jittery, hangover, difficulty in walking, feeling drunk, hypothermia
+General disorders and administration site conditions: chills, influenza-like illness, malaise, feeling abnormal, feeling of body temperature change, feeling jittery, hangover, gait disturbance, feeling drunk, body temperature decreased
 
 Infections and infestations: gastroenteritis, diverticulitis
 
 Injury, poisoning and procedural complications: contusion, overdose
 
-Investigations: weight decreased, hepatic enzyme increased, blood potassium decreased, blood amylase increased, blood testosterone decreased, oxygen saturation decreased
+Investigations: weight decreased, hepatic enzyme increased, blood potassium decreased, blood amylase increased, blood testosterone decreased
 
 Metabolism and nutrition disorders: dehydration, fluid retention, increased appetite, hyperuricemia
 
 Musculoskeletal and connective tissue disorders: myalgia
 
-Nervous system disorders: tremor, sedation, hypoesthesia, paresthesia, disturbance in attention, memory impairment, dysarthria, syncope, balance disorder, dysgeusia, depressed level of consciousness, coordination abnormal, hyperesthesia, myoclonus, dyskinesia, hyperreflexia, encephalopathy, cognitive disorder, convulsion, psychomotor hyperactivity
+Nervous system disorders: tremor, sedation, hypoesthesia, paresthesia, disturbance in attention, memory impairment, dysarthria, syncope, balance disorder, dysgeusia, depressed level of consciousness, coordination abnormal, hyperesthesia, myoclonus, dyskinesia, crying, hyperreflexia, encephalopathy, cognitive disorder, convulsion, psychomotor hyperactivity
 
-Psychiatric disorders: confusional state, nervousness, restlessness, abnormal dreams, mood altered, hallucination, panic attack, euphoric mood, paranoia, dysphoria, listless, crying, suicide ideation, libido decreased, aggression
+Psychiatric disorders: confusional state, nervousness, restlessness, abnormal dreams, mood altered, hallucination, sleep disorder, panic attack, euphoric mood, paranoia, dysphoria, listless, suicide ideation, libido decreased, aggression
 
 Renal and urinary disorders: dysuria, urinary retention, urinary frequency, urinary hesitation, micturition disorder
 
@@ -130,10 +130,14 @@ Reproductive system and breast disorders: erectile dysfunction, sexual dysfuncti
 
 Respiratory, thoracic and mediastinal disorders: rhinorrhea, respiratory distress, hypoxia, bronchospasm, sneezing, hyperventilation, respiratory depression
 
-Skin and subcutaneous tissue disorders: erythema
+Skin and subcutaneous tissue disorders: erythema, skin burning sensation
 
 Vascular disorders: flushing, hypertension, hypotension
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reaction has been identified during post-approval use of EXALGO: Skin and subcutaneous tissue disorders: urticaria
+The following adverse reactions have been identified during post-approval use of EXALGO:
+
+Immune system disorders: hypersensitivity
+
+Skin and subcutaneous tissue disorders: angioedema, urticaria

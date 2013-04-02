@@ -2,7 +2,7 @@
 
 ## 2.1 Initial Dosing
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience.
+Initiate the dosing regimen for each patient individually, taking into account the patient&apos;s prior analgesic treatment experience.
 Overestimating the EXALGO dose when converting patients from another opioid medication can result in fatal overdose with the first dose.
 Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with EXALGO [see Warnings and Precautions (5.2)].
 
@@ -10,10 +10,10 @@ Consider the following factors when selecting an initial dose of EXALGO:
 
 - Total daily dose and potency of the opioid the patient has been taking previously;
 - Reliability of the relative potency estimate used to calculate the equivalent dose of hydromorphone needed (Note: potency estimates may vary with the route of administration);
-- Patient's degree of opioid experience and opioid tolerance;
+- Patient&apos;s degree of opioid experience and opioid tolerance;
 - General condition and medical status of the patient;
 - Concurrent medication;
-- Type and severity of the patient's pain.
+- Type and severity of the patient&apos;s pain.
 
 EXALGO is administered at a frequency of once daily (every 24 hours), approximately the same time every day, with or without food.
 
@@ -31,7 +31,7 @@ Conversion from Oral Opioids to EXALGO
 While there are useful tables of oral and parenteral equivalents, there is substantial inter-patient variation in the relative potency of different opioid drugs and formulations.
 Specific recommendations of equianalgesic doses are not available because of a lack of systematic evidence for these types of analgesic substitutions.
 Published relative potency data are available, but such ratios are approximations.
-As such, it is safer to underestimate a patient's 24-hour oral hydromorphone requirement and provide rescue medication (e.g. immediate-release hydromorphone) than to overestimate and manage an adverse reaction.
+As such, it is safer to underestimate a patient&apos;s 24-hour oral hydromorphone requirement and provide rescue medication (e.g. immediate-release hydromorphone) than to overestimate and manage an adverse reaction.
 
 The following table was used in a clinical trial of EXALGO.
 The recommended starting dose of EXALGO is 50% of the calculated estimate of daily hydromorphone requirement.
