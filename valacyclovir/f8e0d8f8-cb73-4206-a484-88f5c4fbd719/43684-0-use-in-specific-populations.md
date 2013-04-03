@@ -32,11 +32,11 @@ The use of VALTREX for treatment of chickenpox in pediatric patients aged 2 to l
 
 The efficacy and safety of valacyclovir have not been established in pediatric patients:
 
-- aged less than 12 years with cold sores
-- aged less than 18 years with genital herpes
-- aged less than 18 years with herpes zoster
-- aged less than 2 years with chickenpox
-- for suppressive therapy following neonatal HSV infection.
+- •aged less than 12 years with cold sores
+- •aged less than 18 years with genital herpes
+- •aged less than 18 years with herpes zoster
+- •aged less than 2 years with chickenpox
+- •for suppressive therapy following neonatal HSV infection.
 
 The pharmacokinetic profile and safety of valacyclovir oral suspension in children aged less than 12 years were studied in 3 open‑label trials.
 No efficacy evaluations were conducted in any of the 3 trials.

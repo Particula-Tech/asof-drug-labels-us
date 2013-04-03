@@ -9,13 +9,13 @@ Treatment with VALTREX should be stopped immediately if clinical signs, symptoms
 
 Cases of acute renal failure have been reported in:
 
-- Elderly patients with or without reduced renal function.
+- •Elderly patients with or without reduced renal function.
   Caution should be exercised when administering VALTREX to geriatric patients, and dosage reduction is recommended for those with impaired renal function [see Dosage and Administration (2.4), Use in Specific Populations (8.5)].
-- Patients with underlying renal disease who received higher-than-recommended doses of VALTREX for their level of renal function.
+- •Patients with underlying renal disease who received higher-than-recommended doses of VALTREX for their level of renal function.
   Dosage reduction is recommended when administering VALTREX to patients with renal impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.6)].
-- Patients receiving other nephrotoxic drugs.
+- •Patients receiving other nephrotoxic drugs.
   Caution should be exercised when administering VALTREX to patients receiving potentially nephrotoxic drugs.
-- Patients without adequate hydration.
+- •Patients without adequate hydration.
   Precipitation of acyclovir in renal tubules may occur when the solubility (2.5 mg/mL) is exceeded in the intratubular fluid.
   Adequate hydration should be maintained for all patients.
 

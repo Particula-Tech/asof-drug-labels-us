@@ -14,7 +14,7 @@ Rx only
 
 Equivalent to 500 mg valacyclovir per caplet.
 
-See prescribing information for Dosage and Administration.
+See prescribing information for dosage information.
 
 Store at 15o to 25oC (59o to 77oF).
 
@@ -24,10 +24,12 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Rev.
-6/07
+Made in UK
 
-A041620
+Rev.
+5/11
+
+A074074
 
 Principal Display Panel
 
@@ -45,7 +47,7 @@ Rx only
 
 Equivalent to 1 gram valacyclovir per caplet.
 
-See prescribing information for Dosage and Administration.
+See prescribing information for dosage information.
 
 Store at 15o to 25oC (59o to 77oF).
 
@@ -55,7 +57,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Rev.
-6/07
+Made in UK
 
-A041622
+Rev.
+5/11
+
+A073888

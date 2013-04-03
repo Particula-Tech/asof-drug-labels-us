@@ -16,22 +16,22 @@ VALTREX lowers the ability of herpes viruses to multiply in your body.
 
 VALTREX is used in adults:
 
-- to treat cold sores (also called fever blisters or herpes labialis)
-- to treat shingles (also called herpes zoster)
-- to treat or control genital herpes outbreaks in adults with normal immune systems
-- to control genital herpes outbreaks in adults infected with the human immunodeficiency virus (HIV-1) with CD4+ cell count greater than 100 cells/mm3
-- with safer sex practices to lower the chances of spreading genital herpes to others.
+- •to treat cold sores (also called fever blisters or herpes labialis)
+- •to treat shingles (also called herpes zoster)
+- •to treat or control genital herpes outbreaks in adults with normal immune systems
+- •to control genital herpes outbreaks in adults infected with the human immunodeficiency virus (HIV-1) with CD4+ cell count greater than 100 cells/mm3
+- •with safer sex practices to lower the chances of spreading genital herpes to others.
   Even with safer sex practices, it is still possible to spread genital herpes.
 
 VALTREX used daily with the following safer sex practices can lower the chances of passing genital herpes to your partner.
 
-- Do not have sexual contact with your partner when you have any symptom or outbreak of genital herpes.
-- Use a condom made of latex or polyurethane whenever you have sexual contact.
+- •Do not have sexual contact with your partner when you have any symptom or outbreak of genital herpes.
+- •Use a condom made of latex or polyurethane whenever you have sexual contact.
 
 VALTREX is used in children:
 
-- to treat cold sores (for children aged greater than or equal to 12 years)
-- to treat chickenpox (for children aged 2 to less than 18 years).
+- •to treat cold sores (for children aged greater than or equal to 12 years)
+- •to treat chickenpox (for children aged 2 to less than 18 years).
 
 VALTREX does not cure herpes infections (cold sores, chickenpox, shingles, or genital herpes).
 
@@ -59,8 +59,8 @@ You can spread genital herpes to others, even when you have no symptoms.
 If you are sexually active, you can still pass herpes to your partner, even if you are taking VALTREX.
 VALTREX, taken every day as prescribed and used with the following safer sex practices, can lower the chances of passing genital herpes to your partner.
 
-- Do not have sexual contact with your partner when you have any symptom or outbreak of genital herpes.
-- Use a condom made of latex or polyurethane whenever you have sexual contact.
+- •Do not have sexual contact with your partner when you have any symptom or outbreak of genital herpes.
+- •Use a condom made of latex or polyurethane whenever you have sexual contact.
 
 Ask your healthcare provider for more information about safer sex practices.
 
@@ -74,22 +74,22 @@ Before taking VALTREX, tell your healthcare provider:
 
 About all of your medical conditions, including:
 
-- if you have had a bone marrow transplant or kidney transplant, or if you have advanced HIV-1 disease or "AIDS".
+- •if you have had a bone marrow transplant or kidney transplant, or if you have advanced HIV-1 disease or "AIDS".
   Patients with these conditions may have a higher chance for getting a blood disorder called thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS).
   TTP/HUS can result in death.
-- if you have kidney problems.
+- •if you have kidney problems.
   Patients with kidney problems may have a higher chance for getting side effects or more kidney problems with VALTREX.
   Your healthcare provider may give you a lower dose of VALTREX.
-- if you are aged 65 years or older.
+- •if you are aged 65 years or older.
   Elderly patients have a higher chance of certain side effects.
   Also, elderly patients are more likely to have kidney problems.
   Your healthcare provider may give you a lower dose of VALTREX.
-- if you are pregnant or planning to become pregnant.
+- •if you are pregnant or planning to become pregnant.
   Talk with your healthcare provider about the risks and benefits of taking prescription drugs (including VALTREX) during pregnancy.
-- if you are breastfeeding.
+- •if you are breastfeeding.
   VALTREX may pass into your milk and it may harm your baby.
   Talk with your healthcare provider about the best way to feed your baby if you are taking VALTREX.
-- about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+- •about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
   VALTREX may affect other medicines, and other medicines may affect VALTREX.
   It is a good idea to keep a complete list of all the medicines you take.
   Show this list to your healthcare provider and pharmacist any time you get a new medicine.
@@ -99,14 +99,14 @@ How should I take VALTREX?
 Take VALTREX exactly as prescribed by your healthcare provider.
 Your dose of VALTREX and length of treatment will depend on the type of herpes infection that you have and any other medical problems that you have.
 
-- Do not stop VALTREX or change your treatment without talking to your healthcare provider.
-- VALTREX can be taken with or without food.
-- If you are taking VALTREX to treat cold sores, chickenpox, shingles, or genital herpes, you should start treatment as soon as possible after your symptoms start.
+- •Do not stop VALTREX or change your treatment without talking to your healthcare provider.
+- •VALTREX can be taken with or without food.
+- •If you are taking VALTREX to treat cold sores, chickenpox, shingles, or genital herpes, you should start treatment as soon as possible after your symptoms start.
   VALTREX may not help you if you start treatment too late.
-- If you miss a dose of VALTREX, take it as soon as you remember and then take your next dose at its regular time.
+- •If you miss a dose of VALTREX, take it as soon as you remember and then take your next dose at its regular time.
   However, if it is almost time for your next dose, do not take the missed dose.
   Wait and take the next dose at the regular time.
-- Do not take more than the prescribed number of VALTREX Caplets each day.
+- •Do not take more than the prescribed number of VALTREX Caplets each day.
   Call your healthcare provider right away if you take too much VALTREX.
 
 What are the possible side effects of VALTREX?
@@ -132,12 +132,12 @@ For more information ask your healthcare provider or pharmacist.
 
 How should I store VALTREX?
 
-- Store VALTREX Caplets at room temperature, 59° to 77°F (15° to 25°C).
-- Store VALTREX suspension between 2° to 8°C (36° to 46°F) in a refrigerator.
+- •Store VALTREX Caplets at room temperature, 59° to 77°F (15° to 25°C).
+- •Store VALTREX suspension between 2° to 8°C (36° to 46°F) in a refrigerator.
   Discard after 28 days.
-- Keep VALTREX in a tightly closed container.
-- Do not keep medicine that is out of date or that you no longer need.
-- Keep VALTREX and all medicines out of the reach of children.
+- •Keep VALTREX in a tightly closed container.
+- •Do not keep medicine that is out of date or that you no longer need.
+- •Keep VALTREX and all medicines out of the reach of children.
 
 General information about VALTREX
 
