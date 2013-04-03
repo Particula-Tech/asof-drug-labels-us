@@ -1,0 +1,5 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+
+5 mg/100 mL Vial Label
+
+Vial Carton

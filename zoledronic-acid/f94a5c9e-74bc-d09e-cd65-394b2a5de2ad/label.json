@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091363"
+  ],
+  "inn": "zoledronic-acid",
+  "labeler": "Dr.Reddy's Laboratories Ltd",
+  "package_ndcs": [
+    "55111-688-52"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "zoledronic acid",
+      "name": "Zoledronic Acid"
+    }
+  ],
+  "setid": "f94a5c9e-74bc-d09e-cd65-394b2a5de2ad",
+  "source": "dailymed"
+}
