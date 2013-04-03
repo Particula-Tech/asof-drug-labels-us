@@ -56,7 +56,7 @@ Approximately 80% of the dose is excreted in the urine either as glucuronides of
 
 The half-life of the parent is about two hours, while the half-life of MHD is about nine hours.
 
-Special Populations
+## 12.6 Special Populations
 
 Hepatic Impairment
 

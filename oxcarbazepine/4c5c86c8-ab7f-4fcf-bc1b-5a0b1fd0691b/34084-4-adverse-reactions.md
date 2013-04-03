@@ -277,4 +277,6 @@ Digestive System: pancreatitis and/or lipase and/or amylase increase
 
 Hematologic and Lymphatic Systems: aplastic anemia [see Warnings and Precautions (5.9)]
 
+Metabolism: hypothyroidism
+
 Skin and Appendages: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)]

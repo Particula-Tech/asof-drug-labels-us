@@ -123,7 +123,7 @@ Although there are no case reports to indicate cross sensitivity with other drug
 
 ## 5.9 Hematologic Events
 
-Rare reports of pancytopenia, agranulocytosis, and leukopenia have been seen in patients treated with Trileptal during post-marketing experience.
+Rare reports of pancytopenia, agranulocytosis, and leukopenia have been seen in patients treated with Trileptal during postmarketing experience.
 Discontinuation of the drug should be considered if any evidence of these hematologic events develop.
 
 ## 5.10 Seizure Control During Pregnancy
