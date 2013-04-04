@@ -1,6 +1,6 @@
 MUSE
 
-(alprostadil) urethral suppository
+(alprostadil) urethralsuppository
 
 PATIENT INFORMATION
 
@@ -181,7 +181,7 @@ If you feel dizzy, light-headed, faint, or experience rapid pulse, lie down imme
 If symptoms persist, call your doctor promptly.
 Because of the potential for these side effects, MUSE titration should be carried out under medical supervision.
 
-(See also: “WHAT ARE THE POSSIBLE SIDE EFFECTS OF MUSE?” on the other side.)
+(See also: "WHAT ARE THE POSSIBLE SIDE EFFECTS OF MUSE?" on the other side.)
 
 In women, mild vaginal itching and burning have been observed.
 

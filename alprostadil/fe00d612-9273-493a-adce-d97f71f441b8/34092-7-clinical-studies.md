@@ -13,4 +13,4 @@ Couples on active therapy were more likely to have at least 1 successful sexual 
 Among patients who reported successful intercourse at least once with active treatment, approximately 7 of 10 MUSE systems resulted in successful sexual intercourse.
 Results were similar in patients with erectile dysfunction stemming from surgery or trauma, diabetes, vascular disease, or other etiologies, and were similar in Caucasians and non-Caucasians.
 In administrations resulting in sexual intercourse, the duration of erections sufficient for penetration was 6 minutes on placebo and 16 minutes on active drug.
-Successful therapy with MUSE was associated with improvement in the quality of life measures of “emotional well-being” for patients and “relationship with partner” for both patients and their female partners.
+Successful therapy with MUSE was associated with improvement in the quality of life measures of "emotional well-being" for patients and "relationship with partner" for both patients and their female partners.
