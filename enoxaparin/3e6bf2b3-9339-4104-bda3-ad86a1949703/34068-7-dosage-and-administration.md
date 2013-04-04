@@ -100,13 +100,13 @@ Do not remove by pulling on the plunger as this may damage the syringe.
   If adjusting the dose is required, the adjustment must be done prior to injecting the prescribed dose into the patient.
 - See Administration: Subcutaneous Injection Technique for a description of the Standard Protocol for administration.
 - Depress the plunger while grasping the finger flange until the entire dose has been given.
-  The Passive needle guard will NOT activate unless the ENTIRE dose has been given.
+  The Passive needle guard should not activate unless the ENTIRE dose has been given.
 - Remove needle from patient, then let go of the plunger and allow syringe to move up until the entire needle is guarded.
 - Dispose of syringe/needle guard assembly in approved sharps container.
 
 NOTE:
 
-- The safety system can only be activated once the syringe has been emptied.
+- The safety system should only activate once the syringe has been emptied.
 - Activation of the safety system must be done only after removing the needle from the patient's skin.
 - Do not replace the needle shield after injection.
 - The safety system should not be sterilized.
