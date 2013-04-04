@@ -43,20 +43,19 @@ Special Senses: Visual disturbance.
 
 Urogenital: Menopausal symptoms, Urinary frequency, Urinary retention.
 
-Incidence less than 1%, possibly causally related: the following lists adverse reactions that occurred with an incidence of less than 1% in clinical trials and/or reported in post-marketing experience.
+Incidence less than 1%, possibly causally related: the following lists adverse reactions that occurred with an incidence of less than 1% in clinical trials of tramadol and/or reported in post-marketing experience with tramadol-containing products.
 
 Body as a Whole: Accidental injury, Allergic reaction, Anaphylaxis, Death, Suicidal tendency, Weight loss, Serotonin syndrome (mental status change, hyperreflexia, fever, shivering, tremor, agitation, diaphoresis, seizures and coma).
 
 Cardiovascular: Orthostatic hypotension, Syncope, Tachycardia.
 
-Central Nervous System: Abnormal gait, Amnesia, Cognitive dysfunction, Depression, Difficulty in concentration, Hallucinations, Paresthesia, Seizure (see WARNINGS).
-Tremor.
+Central Nervous System: Abnormal gait, Amnesia, Cognitive dysfunction, Delirium, Depression, Difficulty in concentration, Hallucinations, Movement disorder, Paresthesia, Seizure (see WARNINGS), Speech disorder, Tremor.
 
 Respiratory: Dyspnea.
 
 Skin: Stevens-Johnson syndrome/Toxic epidermal necrolysis, Urticaria, Vesicles.
 
-Special Senses: Dysgeusia.
+Special Senses: Dysgeusia, Mydriasis.
 
 Urogenital: Dysuria, Menstrual disorder.
 
@@ -66,7 +65,7 @@ However, the most significant events are listed below as alerting information to
 
 Cardiovascular: Abnormal ECG, Hypertension, Hypotension, Myocardial ischemia, Palpitations, Pulmonary edema, Pulmonary embolism.
 
-Central Nervous System: Migraine, Speech disorders.
+Central Nervous System: Migraine.
 
 Gastrointestinal: Gastrointestinal bleeding, Hepatitis, Stomatitis, Liver failure.
 
