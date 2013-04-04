@@ -1,11 +1,11 @@
-PRINCIPAL DISPLAY PANEL - 100 MG Carton
+PRINCIPAL DISPLAY PANEL - Vial Carton
 
 NDC 57894-030-01
 
-Remicade® INFLIXIMAB
+Remicade® (Infliximab) For Injection 100 mg per vial
 
-100 MG Lyophilized Concentrate Single Use Vial
+Single use vial - Discard unused portion
 
-Provide Medication Guide to Patient.
+Each patient is required to receive the enclosed Medication Guide
 
-For IV Use only Rx only
+Must Reconstitute and Dilute Before Intravenous Infusion Must infuse over at least 2 hours with an in-line filter Rx only

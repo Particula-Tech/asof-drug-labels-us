@@ -34,7 +34,7 @@ Before starting REMICADE, tell your doctor if you:
   These infections may develop or become more severe if you take REMICADE.
   If you do not know if you have lived in an area where histoplasmosis, coccidioidomycosis, or blastomycosis is common, ask your doctor.
 - have or have had hepatitis B
-- use the medicines KINERET (anakinra), ORENCIA (abatacept) or ACTEMRA (tocilizumab)
+- use the medicines KINERET (anakinra), ORENCIA (abatacept), ACTEMRA (tocilizumab), or other medicines called biologics used to treat the same conditions as REMICADE.
 
 After starting REMICADE, if you have an infection, any sign of an infection including a fever, cough, flu-like symptoms, or have open cuts or sores on your body, call your doctor right away.
 REMICADE can make you more likely to get infections or make any infection that you have worse.
@@ -50,6 +50,8 @@ Risk of Cancer
   All of these patients had received medicines known as azathioprine or 6-mercaptopurine together with REMICADE.
 - People who have been treated for rheumatoid arthritis, Crohn's disease, ulcerative colitis, ankylosing spondylitis, psoriatic arthritis and plaque psoriasis for a long time may be more likely to develop lymphoma.
   This is especially true for people with very active disease.
+- Some people treated with REMICADE have developed certain kinds of skin cancer.
+  If any changes in the appearance of your skin or growths on your skin occur during or after your treatment with REMICADE, tell your doctor.
 - Patients with COPD (a specific type of lung disease) may have an increased risk for getting cancer while being treated with REMICADE.
 - Tell your doctor if you have ever had any type of cancer.
   Discuss with your doctor any need to adjust medicines you may be taking.
@@ -112,7 +114,10 @@ Tell your doctor about all of your medical conditions, including if you:
   Talk to your doctor about the best way to feed your baby while taking REMICADE.
   You should not breast-feed while taking REMICADE.
 
-If you have a baby and you were using REMICADE during your pregnancy, tell your baby's doctor about your REMICADE use before the baby receives any vaccine.
+If you have a baby and you were using REMICADE during your pregnancy, it is important to tell your baby's doctor and other health care professionals about your REMICADE use so they can decide when your baby should receive any vaccine.
+Certain vaccinations may cause infections.
+
+If you received REMICADE while you were pregnant, your baby may be at higher risk for getting an infection for at least six months after the last dose of REMICADE you received during your pregnancy.
 
 How should I receive REMICADE?
 
@@ -129,16 +134,17 @@ How should I receive REMICADE?
 
 What should I avoid while receiving REMICADE?
 
-Do not take REMICADE and the medications KINERET (anakinra), ORENCIA (abatacept) or ACTEMRA (tocilizumab) together.
+Do not take REMICADE together with medications such as KINERET (anakinra), ORENCIA (abatacept), ACTEMRA (tocilizumab), or other medicines called biologics that are used to treat the same conditions as REMICADE.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+These include any other medicines to treat Crohn's disease, ulcerative colitis, rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis or psoriasis.
 
 Know the medicines you take.
 Keep a list of your medicines and show them to your doctor and pharmacist when you get a new medicine.
 
 What are the possible side effects of REMICADE?
 
-Remicade can cause serious side effects, including:
+REMICADE can cause serious side effects, including:
 
 See "What is the most important information I should know about REMICADE?".
 
@@ -303,8 +309,8 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044
 
 U.S. License No. 1864
 
-Revised October 2011
+Revised March 2013
 
-©Janssen Biotech, Inc. 2011
+©Janssen Biotech, Inc. 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

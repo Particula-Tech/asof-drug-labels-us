@@ -10,7 +10,7 @@ Doses of 10 to 15 mg/kg in pharmacodynamic animal models with the anti-TNF analo
 Doses up to 40 mg/kg were shown to produce no adverse effects in animal reproduction studies.
 
 As with other IgG antibodies, REMICADE crosses the placenta and has been detected up to 6 months in the serum of infants born to female patients treated with REMICADE during pregnancy.
-Consequently, these infants may be at increased risk of infection, and caution is advised in the administration of live vaccines to these infants [see Warnings and Precautions (5.13)].
+Consequently, these infants may be at increased risk of infection, and caution is advised in the administration of live vaccines to these infants [see Warnings and Precautions (5.14)].
 
 ## 8.3 Nursing Mothers
 

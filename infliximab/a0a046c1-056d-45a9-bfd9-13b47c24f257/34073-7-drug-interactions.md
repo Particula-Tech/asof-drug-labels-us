@@ -10,7 +10,11 @@ Therefore, the combination of REMICADE and anakinra or abatacept is not recommen
 
 The use of tocilizumab in combination with biological DMARDs such as TNF antagonists, including REMICADE, should be avoided because of the possibility of increased immunosuppression and increased risk of infection.
 
-## 7.3 Methotrexate (MTX) and Other Concomitant Medications
+## 7.3 Use with Other Biological Therapeutics
+
+The combination of REMICADE with other biological therapeutics used to treat the same conditions as REMICADE is not recommended [see Warnings and Precautions (5.11)].
+
+## 7.4 Methotrexate (MTX) and Other Concomitant Medications
 
 Specific drug interaction studies, including interactions with MTX, have not been conducted.
 The majority of patients in rheumatoid arthritis or Crohn's disease clinical studies received one or more concomitant medications.
@@ -19,12 +23,12 @@ Concomitant Crohn's disease medications were antibiotics, antivirals, corticoste
 In psoriatic arthritis clinical trials, concomitant medications included MTX in approximately half of the patients as well as NSAIDs, folic acid and corticosteroids.
 Concomitant MTX use may decrease the incidence of anti-infliximab antibody production and increase infliximab concentrations.
 
-## 7.4 Immunosuppressants
+## 7.5 Immunosuppressants
 
 Patients with Crohn's disease who received immunosuppressants tended to experience fewer infusion reactions compared to patients on no immunosuppressants [see Adverse Reactions (6.1)].
 Serum infliximab concentrations appeared to be unaffected by baseline use of medications for the treatment of Crohn's disease including corticosteroids, antibiotics (metronidazole or ciprofloxacin) and aminosalicylates.
 
-## 7.5 Cytochrome P450 Substrates
+## 7.6 Cytochrome P450 Substrates
 
 The formation of CYP450 enzymes may be suppressed by increased levels of cytokines (e.g., TNFα, IL-1, IL-6, IL-10, IFN) during chronic inflammation.
 Therefore, it is expected that for a molecule that antagonizes cytokine activity, such as infliximab, the formation of CYP450 enzymes could be normalized.

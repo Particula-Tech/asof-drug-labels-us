@@ -73,6 +73,11 @@ All of these patients had received treatment with the immunosuppressants azathio
 It is uncertain whether the occurrence of HSTCL is related to REMICADE or REMICADE in combination with these other immunosuppressants.
 When treating patients with inflammatory bowel disease, particularly in adolescents and young adults, consideration of whether to use REMICADE alone or in combination with other immunosuppressants should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with REMICADE monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
+Skin cancer
+
+Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including REMICADE [see Adverse Reactions (6.2)].
+Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
+
 Other Malignancies
 
 In the controlled portions of clinical trials of some TNF-blocking agents including REMICADE, more malignancies (excluding lymphoma and nonmelanoma skin cancer [NMSC]) have been observed in patients receiving those TNF-blockers compared with control patients.
@@ -163,16 +168,21 @@ Therefore, the combination of REMICADE and anakinra is not recommended.
 In clinical studies, concurrent administration of TNF-blocking agents and abatacept have been associated with an increased risk of infections including serious infections compared with TNF-blocking agents alone, without increased clinical benefit.
 Therefore, the combination of REMICADE and abatacept is not recommended [see Drug Interactions (7.1)].
 
-## 5.11 Switching between Biological Disease-Modifying Antirheumatic Drugs (DMARDs)
+## 5.11 Concurrent Administration with other Biological Therapeutics
+
+There is insufficient information regarding the concomitant use of REMICADE with other biological therapeutics used to treat the same conditions as REMICADE.
+The concomitant use of REMICADE with these biologics is not recommended because of the possibility of an increased risk of infection [see Drug Interactions (7.3)].
+
+## 5.12 Switching between Biological Disease-Modifying Antirheumatic Drugs (DMARDs)
 
 Care should be taken when switching from one biologic to another, since overlapping biological activity may further increase the risk of infection.
 
-## 5.12 Autoimmunity
+## 5.13 Autoimmunity
 
 Treatment with REMICADE may result in the formation of autoantibodies and, rarely, in the development of a lupus-like syndrome.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with REMICADE, treatment should be discontinued [see Adverse Reactions (6.1)].
 
-## 5.13 Vaccinations
+## 5.14 Vaccinations
 
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.
