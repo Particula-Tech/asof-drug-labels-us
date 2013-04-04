@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019835",
+    "NDA020346",
+    "NDA021621"
+  ],
   "inn": "cetirizine",
-  "labeler": "Pfizer Labs",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
     "0069-0731-66",
     "0069-0732-66",
@@ -10,7 +14,23 @@
     "0069-5530-47",
     "0069-5530-93"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "cetirizine hydrochloride",
+      "name": "Zyrtec"
+    },
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "cetirizine hydrochloride",
+      "name": "Zyrtec"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cetirizine hydrochloride",
+      "name": "Zyrtec"
+    }
+  ],
   "setid": "ecb84b38-ed22-48b0-861c-d09cf8f101c9",
   "source": "dailymed"
 }
