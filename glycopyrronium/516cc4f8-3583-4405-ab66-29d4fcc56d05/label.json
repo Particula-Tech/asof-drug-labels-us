@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA090963"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "West-Ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9679-01",
+    "0143-9679-10",
+    "0143-9680-01",
+    "0143-9680-25",
+    "0143-9681-01",
+    "0143-9681-25",
+    "0143-9682-01",
+    "0143-9682-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "glycopyrrolate",
+      "name": "Glycopyrrolate"
+    }
+  ],
+  "setid": "516cc4f8-3583-4405-ab66-29d4fcc56d05",
+  "source": "dailymed"
+}
