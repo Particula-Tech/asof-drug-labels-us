@@ -8,6 +8,7 @@
   Also, advise the patient that the prescribing information is available to her upon request.
 - •Inform the patient that irregular or prolonged bleeding and spotting, and/or cramps may occur during the first few weeks after insertion.
   If her symptoms continue or are severe she should report them to her healthcare provider.
+- •Instruct the patient to contact her healthcare provider if she experiences any of the following:
   - ∘A stroke or heart attack
   - ∘Develops very severe or migraine headaches
   - ∘Unexplained fever
