@@ -1,63 +1,125 @@
 # PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
-NDC 0071-0803-24 100 Capsules Rx only
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Neurontin® (gabapentin) capsules
+Pfizer NDC 0071-0803-24
+
+Neurontin® (gabapentin)
 
 100 mg
 
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+capsules
+
+100 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
 
-NDC 0071-0805-24 100 Capsules Rx only
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0071-0805-24
+
+Neurontin® (gabapentin)
+
+300 mg
+
+capsules
+
+100 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 300 mg Blister Pack
 
 Neurontin® (gabapentin) capsules
 
 300 mg
 
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN INDIA
+
+EXP & LOT AREA
+
+# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Carton
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0071-0805-40
+
+Neurontin® (gabapentin)
+
+300 mg
+
+capsules
+
+For in-institution use only
+
+UNIT DOSE
+
+50 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 400 mg Capsule Bottle Label
 
-NDC 0071-0806-24 100 Capsules Rx only
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0071-0806-24
+
+Neurontin® (gabapentin)
+
+400 mg
+
+capsules
+
+100 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 400 mg Blister Pack
 
 Neurontin® (gabapentin) capsules
 
 400 mg
 
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN INDIA
 
-# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
+EXP & LOT AREA
 
-NDC 0071-0513-24 100 Tablets Rx only
-
-Neurontin® (gabapentin) tablets
-
-600 mg
-
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
-
-# PRINCIPAL DISPLAY PANEL - 800 mg Tablet Bottle Label
-
-NDC 0071-0401-24 100 Tablets Rx only
-
-Neurontin® (gabapentin) tablets
-
-800 mg
-
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
-
-# PRINCIPAL DISPLAY PANEL - 470 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 400 mg Capsule Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0071-2012-23
+Pfizer NDC 0071-0806-40
 
-470 mL Rx only
+Neurontin® (gabapentin)
 
-Neurontin® (gabapentin) oral solution
+400 mg
 
-250 mg / 5 mL
+capsules
 
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+For in-institution use only
+
+UNIT DOSE
+
+50 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0071-0513-24
+
+Neurontin® (gabapentin)
+
+600 mg
+
+tablets
+
+100 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 800 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0071-0401-24
+
+Neurontin® (gabapentin)
+
+800 mg
+
+tablets
+
+100 Tablets Rx only
