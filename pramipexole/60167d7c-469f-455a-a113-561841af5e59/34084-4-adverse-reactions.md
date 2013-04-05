@@ -173,7 +173,7 @@ Therefore, no specific guidance is offered regarding routine monitoring; the pra
 
 Other Adverse Events Observed During Phase 2 and 3 Clinical Trials
 
-pramipexole dihydrochloride tablets have been administered to 1620 Parkinson's disease patients in Phase 2 and 3 clinical trials.
+Pramipexole dihydrochloride tablets have been administered to 1620 Parkinson's disease patients in Phase 2 and 3 clinical trials.
 During these trials, all adverse events were recorded by the clinical investigators using terminology of their own choosing; similar types of events were grouped into a smaller number of standardized categories using MedDRA dictionary terminology.
 These categories are used in the listing below.
 Adverse events which are not listed above but occurred on at least two occasions (one occasion if the event was serious) in the 2509 individuals exposed to pramipexole dihydrochloride tablets are listed below.
@@ -228,4 +228,4 @@ Vascular disorders: aneurysm, angiopathy, arteriosclerosis, circulatory collapse
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson's disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritis, syncope, vomiting, and weight increase.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), inappropriate antidiuretic hormone secretion (SIADH), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritis, syncope, vomiting, and weight increase.

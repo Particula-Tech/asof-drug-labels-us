@@ -52,13 +52,13 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8038475 Revised November 2012
+8040223 Revised March 2013
 
 PATIENT INFORMATION
 
 Pramipexole Dihydrochloride Tablets
 
-Read this Patient Information before you start taking pramipexole dihydrochloride tablets this medicine and each time you get a refill.
+Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 
@@ -146,7 +146,7 @@ What should I avoid while taking pramipexole dihydrochloride tablets?
 
 What are the possible side effects of pramipexole dihydrochloride tablets?
 
-pramipexole dihydrochloride tablets may cause serious side effects, including:
+Pramipexole dihydrochloride tablets may cause serious side effects, including:
 
 • falling asleep during normal daily activities. pramipexole dihydrochloride tablets may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.
 
@@ -245,4 +245,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8038475 Revised November 2012
+8040223 Revised March 2013
