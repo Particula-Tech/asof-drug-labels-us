@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017463"
+  ],
   "inn": "ibuprofen",
-  "labeler": "Pharmacia & Upjohn Company",
+  "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-7385-01",
     "0009-7385-02",
@@ -16,7 +18,13 @@
     "0009-7387-04",
     "0009-7387-08"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ibuprofen",
+      "name": "Motrin"
+    }
+  ],
   "setid": "a8207fbd-f307-4120-95f7-4276a63bd4a1",
   "source": "dailymed"
 }
