@@ -2,21 +2,20 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 # REFERENCES
 
-1. National Committee for Clinical Laboratory Standards, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically – Fifth Edition.
-   Approved Standard NCCLS Document M7-A5, Vol. 20, No. 2 (ISBN 1-56238-394-9).
-   NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA 19087-1898, January 2000.
-2. National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disk Susceptibility Tests - Seventh Edition.
-   Approved Standard NCCLS Document M2-A7, Vol. 20, No. 1 (ISBN 1-56238-393-0).
-   NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA 19087-1898, January 2000.
-3. National Committee for Clinical Laboratory Standards.
-   Performance Standards for Antimicrobial Susceptibility Testing – Eleventh Informational Supplement.
-   NCCLS Document M100-S11, Vol. 21, No. 1 (ISBN 1-56238-426-0).
-   NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA 19087-1898, January 2001.
+1. Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Ninth Edition.
+   CLSI document M07-A9.
+   CLSI 950 West Valley Rd, Suite 250, Wayne, PA 19087, 2012.
+2. CLSI, Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Second Informational Supplement.
+   CLSI document M100-S22.
+   CLSI, Wayne, PA 19087, 2012.
+3. CLSI.
+   Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard - Eleventh Edition.
+   CLSI document M02-A11.
+   CLSI, Wayne, PA 19087, 2012.
 
 Rx only
 
 Licensed from Pliva
 
-LAB-0023-10.0
-
-January 2011
+LAB-0023-13.0 February 2013

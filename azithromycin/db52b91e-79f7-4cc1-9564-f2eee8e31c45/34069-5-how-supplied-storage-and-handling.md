@@ -21,7 +21,7 @@ These are packaged in bottles and blister cards of 3 tablets (TRI-PAKS™) as fo
 ZITHROMAX tablets should be stored between 15° to 30°C (59° to 86°F).
 
 ZITHROMAX for oral suspension after constitution contains a flavored suspension.
-ZITHROMAX® for oral suspension is supplied to provide 100 mg/5 mL or 200 mg/5 mL suspension in bottles as follows:
+ZITHROMAX for oral suspension is supplied to provide 100 mg/5 mL or 200 mg/5 mL suspension in bottles as follows:
 
 | Azithromycin contents per bottle | NDC |
 | --- | --- |

@@ -28,7 +28,11 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 250 mg - 50 Tablet Unit Dose Box
 
-50 Tablets NDC 0069-3060-86
+UNIT DOSE
+
+Pfizer
+
+NDC 0069-3060-86
 
 Zithromax® (azithromycin)
 
@@ -36,7 +40,9 @@ Zithromax® (azithromycin)
 
 For in-institution use only
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+50 Tablets
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 500 mg - 30 Tablet Bottle
 
@@ -60,7 +66,11 @@ PFIZER LABS DIV OF PFIZER INC, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 500 mg - 50 Tablet Unit Dose Box
 
-50 Tablets NDC 0069-3070-86
+UNIT DOSE
+
+Pfizer
+
+NDC 0069-3070-86
 
 Zithromax® (azithromycin)
 
@@ -68,7 +78,9 @@ Zithromax® (azithromycin)
 
 For in-institution use only
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+50 Tablets
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Bottle
 

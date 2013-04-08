@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 ZITHROMAX (azithromycin tablets and azithromycin for oral suspension) contain the active ingredient azithromycin, an azalide, a subclass of macrolide antibiotics, for oral administration.
-Azithromycin has the chemical name (2R,3S,4R,5R,8R, 10R,11R,12S,13S,14R)-13-[(2,6-dideoxy-3-C-methyl-3-O-methyl-α-L-ribo-hexopyranosyl)oxy]-2-ethyl-3,4,10-trihydroxy-3,5,6,8,10,12,14-heptamethyl-11-[[3,4,6-trideoxy-3-(dimethylamino)-β-D-xylo-hexopyranosyl]oxy]-1-oxa-6-azacyclopentadecan-15-one.
+Azithromycin has the chemical name (2R,3S,4R,5R,8R, 10R,11R,12S,13S,14R)-13-[(2,6-dideoxy-3-C-methyl-3-O-methyl-α-L-ribo-hexopyranosyl) oxy]-2-ethyl-3,4,10-trihydroxy-3,5,6,8,10,12,14-heptamethyl-11-[[3,4,6-trideoxy-3- (dimethylamino)-β-D-xylo-hexopyranosyl]oxy]-1-oxa-6-azacyclopentadecan-15-one.
 Azithromycin is derived from erythromycin; however, it differs chemically from erythromycin in that a methyl-substituted nitrogen atom is incorporated into the lactone ring.
 Its molecular formula is C38H72N2O12, and its molecular weight is 749.00.
 Azithromycin has the following structural formula:

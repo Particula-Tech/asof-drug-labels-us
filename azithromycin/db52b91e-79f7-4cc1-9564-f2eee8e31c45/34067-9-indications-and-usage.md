@@ -9,7 +9,7 @@ Acute bacterial exacerbations of chronic obstructive pulmonary disease due to Ha
 
 Acute bacterial sinusitis due to Haemophilus influenzae, Moraxella catarrhalis or Streptococcus pneumoniae.
 
-Community-acquired pneumonia due to Chlamydia pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae or Streptococcus pneumoniae in patients appropriate for oral therapy.
+Community-acquired pneumonia due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae or Streptococcus pneumoniae in patients appropriate for oral therapy.
 
 NOTE: Azithromycin should not be used in patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors such as any of the following:
 
@@ -54,7 +54,7 @@ In the absence of such data, local epidemiology and susceptibility patterns may 
 Acute otitis media caused by Haemophilus influenzae, Moraxella catarrhalis or Streptococcus pneumoniae.
 (For specific dosage recommendation, see DOSAGE AND ADMINISTRATION.)
 
-Community-acquired pneumonia due to Chlamydia pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae or Streptococcus pneumoniae in patients appropriate for oral therapy.
+Community-acquired pneumonia due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae or Streptococcus pneumoniae in patients appropriate for oral therapy.
 (For specific dosage recommendation, see DOSAGE AND ADMINISTRATION.)
 
 NOTE: Azithromycin should not be used in pediatric patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors such as any of the following:
