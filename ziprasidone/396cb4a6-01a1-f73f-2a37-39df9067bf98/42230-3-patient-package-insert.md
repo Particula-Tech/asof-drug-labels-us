@@ -120,6 +120,6 @@ Manufactured by:
 
 Dr. Reddy’s Laboratories Limited
 
-Bachepalli – 502 325 INDIA
+Bachupally - 500 090 INDIA
 
-Revised: 1111
+Revised: 0413

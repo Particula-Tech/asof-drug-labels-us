@@ -148,8 +148,10 @@ Ziprasidone and other antipsychotic drugs should be used cautiously in patients 
 As with other drugs that antagonize dopamine D2 receptors, ziprasidone elevates prolactin levels in humans.
 Increased prolactin levels were also observed in animal studies with this compound, and were associated with an increase in mammary gland neoplasia in mice; a similar effect was not observed in rats [see Nonclinical Toxicology (13.1)].
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+
+Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds, the clinical significance of elevated serum prolactin levels is unknown for most patients.
+Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density.
 
 ## 5.12 Potential for Cognitive and Motor Impairment
 
