@@ -6,7 +6,7 @@ Pregnancy Category C; Category D starting 30 weeks gestation There are no adequa
 Meloxicam crosses the placental barrier.
 Prior to 30 weeks gestation, use meloxicam during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Starting at 30 weeks gestation, avoid meloxicam and other NSAIDs, in pregnant women as premature closure of the ductus arteriosus in the fetus may occur.
-If this drug is used during this time period in pregnancy, inform the patient of the potential hazard to a fetus [see Warnings and Precautions (5.9) and Patient Counseling Information (17.8)] .
+If this drug is used during this time period in pregnancy, inform the patient of the potential hazard to a fetus [see Warnings and Precautions (5.9) and Patient Counseling Information (17.8)].
 Teratogenic Effects Meloxicam was not teratogenic when administered to pregnant rats during fetal organogenesis at oral doses up to 4 mg/kg/day (2.6-fold greater than the maximum recommended human daily dose [MRHD] based on body surface area [BSA] comparison).
 Administration of meloxicam to pregnant rabbits throughout embryogenesis produced an increased incidence of septal defects of the heart at an oral dose of 60 mg/kg/day.
 The no effect level was 20 mg/kg/day (26-fold greater than the MRHD based on BSA conversion).
@@ -24,7 +24,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-Use of this drug for a pediatric indication is protected by marketing exclusivity.
+The safety and effectiveness of meloxicam in pediatric JRA patients from 2 to 17 years of age has been evaluated in three clinical trials [see Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 
@@ -36,19 +36,19 @@ No overall differences in safety or effectiveness were observed between these su
 
 No dose adjustment is necessary in patients with mild to moderate hepatic impairment.
 Patients with severe hepatic impairment have not been adequately studied.
-Since meloxicam is significantly metabolized in the liver; the use of meloxicam in these patients should be done with caution [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)] .
+Since meloxicam is significantly metabolized in the liver; the use of meloxicam in these patients should be done with caution [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 No dose adjustment is necessary in patients with mild to moderate renal impairment.
 Patients with severe renal impairment have not been studied.
 The use of meloxicam in subjects with severe renal impairment is not recommended.
-Following a single dose of meloxicam, the free C max plasma concentrations were higher in patients with renal failure on chronic hemodialysis (1% free fraction) in comparison to healthy volunteers (0.3% free fraction).
+Following a single dose of meloxicam, the free Cmax plasma concentrations were higher in patients with renal failure on chronic hemodialysis (1% free fraction) in comparison to healthy volunteers (0.3% free fraction).
 Therefore, it is recommended that meloxicam dosage in this population not exceed 7.5 mg per day.
 Hemodialysis did not lower the total drug concentration in plasma; therefore, additional doses are not necessary after hemodialysis.
-Meloxicam is not dialyzable [see Dosage and Administration (2.1), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)] .
+Meloxicam is not dialyzable [see Dosage and Administration (2.1), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
 
 ## 8.8 Females of Reproductive Potential
 
 Data from several small studies in humans and from studies in animals indicate that NSAIDs, including meloxicam, may be associated with a reversible delay in ovulation.
-Therefore, in women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended .
+Therefore, in women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended.

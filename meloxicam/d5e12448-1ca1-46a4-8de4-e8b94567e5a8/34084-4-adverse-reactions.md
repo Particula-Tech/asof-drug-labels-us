@@ -14,11 +14,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 ## 6.1 Clinical Trials Experience
 
-Adults
-
-Osteoarthritis and Rheumatoid Arthritis
-
-The meloxicam Phase 2/3 clinical trial database includes 10,122 OA patients and 1012 RA patients treated with meloxicam 7.5 mg/day, 3505 OA patients and 1351 RA patients treated with meloxicam 15 mg/day.
+Adults Osteoarthritis and Rheumatoid Arthritis The meloxicam Phase 2/3 clinical trial database includes 10,122 OA patients and 1012 RA patients treated with meloxicam 7.5 mg/day, 3505 OA patients and 1351 RA patients treated with meloxicam 15 mg/day.
 Meloxicam at these doses was administered to 661 patients for at least 6 months and to 312 patients for at least one year.
 Approximately 10,500 of these patients were treated in ten placebo- and/or active-controlled osteoarthritis trials and 2363 of these patients were treated in ten placebo- and/or active-controlled rheumatoid arthritis trials.
 Gastrointestinal (GI) adverse events were the most frequently reported adverse events in all treatment groups across meloxicam trials.
@@ -116,6 +112,13 @@ Table 2 Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in 4 to 6 We
 | 1 WHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined 2 WHO preferred terms rash, rash erythematous, and rash maculo-papular combined |  |  |  |  |
 
 Higher doses of meloxicam (22.5 mg and greater) have been associated with an increased risk of serious GI events; therefore, the daily dose of meloxicam should not exceed 15 mg.
+Pediatrics Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA) Three hundred and eighty-seven patients with pauciarticular and polyarticular course JRA were exposed to meloxicam with doses ranging from 0.125 to 0.375 mg/kg per day in three clinical trials.
+These studies consisted of two 12-week multicenter, double-blind, randomized trials (one with a 12-week open-label extension and one with a 40-week extension) and one 1-year open-label PK study.
+The adverse events observed in these pediatric studies with meloxicam were similar in nature to the adult clinical trial experience, although there were differences in frequency.
+In particular, the following most common adverse events, abdominal pain, vomiting, diarrhea, headache, and pyrexia, were more common in the pediatric than in the adult trials.
+Rash was reported in seven (<2%) patients receiving meloxicam.
+No unexpected adverse events were identified during the course of the trials.
+The adverse events did not demonstrate an age or gender-specific subgroup effect.
 The following is a list of adverse drug reactions occurring in <2% of patients receiving meloxicam in clinical trials involving approximately 16,200 patients.
 
 | Body as a Whole | allergic reaction, face edema, fatigue, fever, hot flushes, malaise, syncope, weight decrease, weight increase |

@@ -8,4 +8,4 @@ Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported i
 
 ## 4.2 Coronary Surgery
 
-Meloxicam tablets are contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)] .
+Meloxicam tablets are contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)].

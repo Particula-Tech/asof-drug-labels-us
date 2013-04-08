@@ -8,17 +8,17 @@ Patients with known CV disease or risk factors for CV disease may be at greater 
 To minimize the potential risk for an adverse CV event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
-Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4.2)] .
+Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4.2)].
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events [see Warnings and Precautions (5.2)] .
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events [see Warnings and Precautions (5.2)].
 
-## 5.2 Gastrointestinal (GI) Effects – Risk of GI Ulceration, Bleeding, and Perforation
+## 5.2 Gastrointestinal (GI) Effects - Risk of GI Ulceration, Bleeding, and Perforation
 
 NSAIDs, including meloxicam, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
 Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs, occur in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
-These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy .
+These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
 However, even short-term therapy is not without risk.
 Prescribe NSAIDs, including meloxicam, with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
 Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to patients with neither of these risk factors.
@@ -34,9 +34,9 @@ For high-risk patients, consider alternate therapies that do not involve NSAIDs.
 Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including meloxicam.
 These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy.
 Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
-In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported [see Adverse Reactions (6.1)] .
+In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported [see Adverse Reactions (6.1)].
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with meloxicam.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue meloxicam [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)] .
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue meloxicam [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 5.4 Hypertension
 
@@ -60,9 +60,9 @@ Discontinuation of NSAID therapy is usually followed by recovery to the pretreat
 A pharmacokinetic study in patients with mild and moderate renal impairment revealed that no dosage adjustments in these patient populations are required.
 Patients with severe renal impairment have not been studied.
 The use of meloxicam in patients with severe renal impairment with CrCl less than 20 mL/min is not recommended.
-A study performed in patients on hemodialysis revealed that although overall C max was diminished in this population, the proportion of free drug not bound to plasma was increased.
+A study performed in patients on hemodialysis revealed that although overall Cmax was diminished in this population, the proportion of free drug not bound to plasma was increased.
 Therefore it is recommended that meloxicam dosage in this population not exceed 7.5 mg per day.
-Closely monitor the renal function of patients with impaired renal function who are taking meloxicam [see Dosage and Administration (2.1), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)] .
+Closely monitor the renal function of patients with impaired renal function who are taking meloxicam [see Dosage and Administration (2.1), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 Use caution when initiating treatment with meloxicam in patients with considerable dehydration.
 It is advisable to rehydrate patients first and then start therapy with meloxicam.
 Caution is also recommended in patients with pre-existing kidney disease.
@@ -73,7 +73,7 @@ Because some meloxicam metabolites are excreted by the kidney, monitor patients 
 
 As with other NSAIDs, anaphylactoid reactions have occurred in patients without known prior exposure to meloxicam.
 Meloxicam should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4.1) and Warnings and Precautions (5.12)] .
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4.1) and Warnings and Precautions (5.12)].
 Seek emergency help in cases where an anaphylactoid reaction occurs.
 
 ## 5.8 Adverse Skin Reactions
@@ -84,7 +84,7 @@ Inform patients about the signs and symptoms of serious skin manifestations and 
 
 ## 5.9 Pregnancy
 
-Starting at 30 weeks gestation, avoid the use of meloxicam because it may cause premature closure of the ductus arteriosus [see Use in Specific Populations (8.1) and Patient Counseling Information (17.8)] .
+Starting at 30 weeks gestation, avoid the use of meloxicam because it may cause premature closure of the ductus arteriosus [see Use in Specific Populations (8.1) and Patient Counseling Information (17.8)].
 
 ## 5.10 Corticosteroid Treatment
 
