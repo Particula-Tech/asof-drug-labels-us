@@ -32,16 +32,37 @@ Distributed by Roerig Division of Pfizer Inc, NY, NY 10017
 
 PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label
 
+Pfizer
+
 NDC 0049-3160-44
 
-45 g (75 mL when reconstituted)
+Vfend® (voriconazole)
 
-Vfend® (voriconazole) for oral suspension
+40 mg/mL*
+
+for oral suspension
 
 ORANGE FLAVORED
 
-40 mg/mL *
+45 g (75 mL when reconstituted) Rx only
+
+PRINCIPAL DISPLAY PANEL - 40 mg Bottle Carton
 
 Pfizer
 
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017
+NDC 0049-3160-44
+
+Vfend® (voriconazole)
+
+40 mg/mL*
+
+for oral suspension
+
+ORANGE FLAVORED
+
+Oral Dispenser Included
+
+Important: Read assembly instructions carefully before dispensing.
+Contains Small Parts - Keep out of reach of children.
+
+45 g (75 mL when reconstituted) Rx only
