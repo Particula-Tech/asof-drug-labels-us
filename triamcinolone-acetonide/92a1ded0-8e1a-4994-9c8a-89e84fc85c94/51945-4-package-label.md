@@ -2,31 +2,12 @@
 
 NDC 0168-0003-15
 
-FOUGERA®
-
-TRIAMCINOLONE
-
-ACETONIDE CREAM
-
-USP, 0.025%
+FOUGERA® TRIAMCINOLONE ACETONIDE CREAM USP, 0.025%
 
 Rx only
 
 FOR EXTERNAL USE ONLY.
-
 NOT FOR OPHTHALMIC USE.
-
-CONTAINS: 0.25 mg Triamcinolone
-
-Acetonide per gram in a base
-
-containing Emulsifying Wax, Cetyl
-
-Alcohol, Isopropyl Palmitate,
-
-Sorbitol Solution, Glycerin, Lactic Acid,
-
-Benzyl Alcohol and Purified Water.
 
 NET WT 15 grams
 
@@ -36,20 +17,11 @@ NDC 0168-0003-15
 
 Rx only
 
-FOUGERA®
+FOUGERA® TRIAMCINOLONE ACETONIDE CREAM USP, 0.025%
 
-TRIAMCINOLONE
-
-ACETONIDE CREAM
-
-USP, 0.025%
-
-WARNING: Keep out of
-
-reach of children.
+WARNING: Keep out of reach of children.
 
 FOR EXTERNAL USE ONLY.
-
 NOT FOR OPHTHALMIC USE.
 
 NET WT 15 grams
@@ -58,31 +30,12 @@ NET WT 15 grams
 
 NDC 0168-0004-15
 
-FOUGERA®
-
-TRIAMCINOLONE
-
-ACETONIDE CREAM
-
-USP, 0.1%
+FOUGERA® TRIAMCINOLONE ACETONIDE CREAM USP, 0.1%
 
 Rx only
 
 FOR EXTERNAL USE ONLY.
-
 NOT FOR OPHTHALMIC USE.
-
-CONTAINS: 1 mg Triamcinolone
-
-Acetonide per gram in a base
-
-containing Emulsifying Wax, Cetyl
-
-Alcohol, Isopropyl Palmitate, Sorbitol
-
-Solution, Glycerin, Lactic Acid,
-
-Benzyl Alcohol and Purified Water.
 
 NET WT 15 grams
 
@@ -92,20 +45,11 @@ NDC 0168-0004-15
 
 Rx only
 
-FOUGERA®
+FOUGERA® TRIAMCINOLONE ACETONIDE CREAM USP, 0.1%
 
-TRIAMCINOLONE
-
-ACETONIDE CREAM
-
-USP, 0.1%
-
-WARNING: Keep out of
-
-reach of children.
+WARNING: Keep out of reach of children.
 
 FOR EXTERNAL USE ONLY.
-
 NOT FOR OPHTHALMIC USE.
 
 NET WT 15 grams
@@ -114,31 +58,12 @@ NET WT 15 grams
 
 NDC 0168-0002-15
 
-FOUGERA®
-
-TRIAMCINOLONE
-
-ACETONIDE CREAM
-
-USP, 0.5%
+FOUGERA® TRIAMCINOLONE ACETONIDE CREAM USP, 0.5%
 
 Rx only
 
 FOR EXTERNAL USE ONLY.
-
 NOT FOR OPHTHALMIC USE.
-
-CONTAINS: 5 mg Triamcinolone
-
-Acetonide per gram in a base
-
-containing Emulsifying Wax, Cetyl
-
-Alcohol, Isopropyl Palmitate, Sorbitol
-
-Solution, Glycerin, Lactic Acid,
-
-Benzyl Alcohol and Purified Water.
 
 NET WT 15 grams
 
@@ -148,20 +73,11 @@ NDC 0168-0002-15
 
 Rx only
 
-FOUGERA®
+FOUGERA® TRIAMCINOLONE ACETONIDE CREAM USP, 0.5%
 
-TRIAMCINOLONE
-
-ACETONIDE CREAM
-
-USP, 0.5%
-
-WARNING: Keep out of
-
-reach of children.
+WARNING: Keep out of reach of children.
 
 FOR EXTERNAL USE ONLY.
-
 NOT FOR OPHTHALMIC USE.
 
 NET WT 15 grams
