@@ -10,8 +10,8 @@ Headache, nightmares, and insomnia have also been reported.
 Cardiovascular: Shortness of breath and bradycardia have occurred in approximately 3 of 100 patients.
 Cold extremities; arterial insufficiency, usually of the Raynaud type; palpitations; congestive heart failure; peripheral edema; and hypotension have been reported in about 1 of 100 patients.
 Gangrene in patients with pre-existing severe peripheral circulatory disorders has also been reported very rarely.
-(See CONTRAINDICATIONS , WARNINGS , and PRECAUTIONS .)
-Respiratory: Wheezing (bronchospasm) and dyspnea have been reported in about 1 of 100 patients (see WARNINGS ).
+(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS.)
+Respiratory: Wheezing (bronchospasm) and dyspnea have been reported in about 1 of 100 patients (see WARNINGS).
 Rhinitis has also been reported.
 Gastrointestinal: Diarrhea has occurred in about 5 of 100 patients.
 Nausea, dry mouth, gastric pain, constipation, flatulence, and heartburn have been reported in about 1 of 100 patients.
@@ -50,8 +50,8 @@ Miscellaneous: Unstable diabetes and claudication have been reported, but a drug
 
 A variety of adverse reactions not listed above have been reported with other beta-adrenergic blocking agents and should be considered potential adverse reactions to metoprolol.
 Central Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics.
-Cardiovascular: Intensification of AV block (see CONTRAINDICATIONS ).
-Hematologic: Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
-Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm, and respiratory distress.
+Cardiovascular: Intensification of AV block (see CONTRAINDICATIONS).
+Hematologic: Agranulocytosis, nonthrombocytopenic purpura and thrombocytopenic purpura.
+Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm and respiratory distress.
 Postmarketing Experience The following adverse reactions have been reported during postapproval use of metoprolol: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.
