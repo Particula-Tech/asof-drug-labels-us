@@ -1,41 +1,29 @@
-# PRINCIPAL DISPLAY PANEL - 1 mg Bottle
+# PRINCIPAL DISPLAY PANEL - 1 mg Capsule Bottle Label
 
-NDC 0069-4310-71
-
-250 Capsules
+Pfizer NDC 0069-4310-71
 
 Minipress® (prazosin hydrochloride)
 
-1 mg*
+1 mg* Capsules
 
-Pfizer
+250 Capsules Rx only
 
-Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+# PRINCIPAL DISPLAY PANEL - 2 mg Capsule Bottle Label
 
-# PRINCIPAL DISPLAY PANEL - 2 mg Bottle
-
-NDC 0069-4370-71
-
-250 Capsules
+Pfizer NDC 0069-4370-71
 
 Minipress® (prazosin hydrochloride)
 
-2 mg*
+2 mg* Capsules
 
-Pfizer
+250 Capsules Rx only
 
-Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+# PRINCIPAL DISPLAY PANEL - 5 mg Capsule Bottle Label
 
-# PRINCIPAL DISPLAY PANEL - 5 mg Bottle
-
-NDC 0069-4380-71
-
-250 Capsules
+Pfizer NDC 0069-4380-71
 
 Minipress® (prazosin hydrochloride)
 
-5 mg*
+5 mg* Capsules
 
-Pfizer
-
-Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+250 Capsules Rx only
