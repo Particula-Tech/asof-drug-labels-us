@@ -24,14 +24,14 @@ Following oral and intravenous administration of 14C-labeled losartan potassium,
 In vitro studies indicate that cytochrome P450 2C9 and 3A4 are involved in the biotransformation of losartan to its metabolites.
 Minimal conversion of losartan to the active metabolite (less than 1% of the dose compared to 14% of the dose in normal subjects) was seen in about one percent of individuals studied.
 
-The terminal half-life of losartan is about 2 hours and of the metabolite is about 6-9 hours.
+The terminal half-life of losartan is about 2 hours and of the metabolite is about 6 to 9 hours.
 
 The pharmacokinetics of losartan and its active metabolite are linear with oral losartan doses up to 200 mg and do not change over time.
 Neither losartan nor its metabolite accumulates in plasma upon repeated once-daily dosing.
 
 Following oral administration, losartan is well absorbed (based on absorption of radiolabeled losartan) and undergoes substantial first-pass metabolism; the systemic bioavailability of losartan is approximately 33%.
 About 14% of an orally-administered dose of losartan is converted to the active metabolite.
-Mean peak concentrations of losartan and its active metabolite are reached in 1 hour and in 3-4 hours, respectively.
+Mean peak concentrations of losartan and its active metabolite are reached in 1 hour and in 3 to 4 hours, respectively.
 While maximum plasma concentrations of losartan and its active metabolite are approximately equal, the AUC of the metabolite is about 4 times as great as that of losartan.
 A meal slows absorption of losartan and decreases its Cmax but has only minor effects on losartan AUC or on the AUC of the metabolite (about 10% decreased).
 
@@ -55,15 +55,15 @@ Pharmacokinetic parameters after multiple doses of losartan (average dose 0.7 mg
 Pharmacokinetics of losartan and its active metabolite were generally similar across the studied age groups and similar to historical pharmacokinetic data in adults.
 The principal pharmacokinetic parameters in adults and children are shown in the table below.
 
-Table 1Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6-16 Following Multiple Dosing
+Table 1Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to 16 Following Multiple Dosing
 
 |  | Parent | Active Metabolite | Parent | Active Metabolite |
 | --- | --- | --- | --- | --- |
-|  | Adults given 50 mg once daily for 7days N=12 |  | Age 6-16 given 0.7 mg/kg once daily for 7 days N=25 |  |
+|  | Adults given 50 mg once daily for 7days N=12 |  | Age 6 to 16 given 0.7 mg/kg once daily for 7 days N=25 |  |
 | AUC0-24Mean ± standard deviation(ng·h/mL) | 442 ±173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
 | C MAX (ng/mL) | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
 | T1/2(h)Harmonic mean and standard deviation | 2.1 ± 0.70 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
-| TPEAK(h)Median | 0.9 | 3.5 | 2.0 | 4.1 |
+| TPEAK(h)Median | 0.9 | 3.5 | 2 | 4.1 |
 | CLREN (mL/min) | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
 
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
@@ -82,15 +82,15 @@ Pharmacokinetic differences due to race have not been studied (see also PRECAUTI
 
 ## Renal Insufficiency:
 
-Following oral administration, plasma concentrations and AUCs of losartan and its active metabolite are increased by 50-90% in patients with mild (creatinine clearance of 50 to 74 mL/min) or moderate (creatinine clearance 30 to 49 mL/min) renal insufficiency.
-In this study, renal clearance was reduced by 55-85% for both losartan and its active metabolite in patients with mild or moderate renal insufficiency.
+Following oral administration, plasma concentrations and AUCs of losartan and its active metabolite are increased by 50 to 90% in patients with mild (creatinine clearance of 50 to 74 mL/min) or moderate (creatinine clearance 30 to 49 mL/min) renal insufficiency.
+In this study, renal clearance was reduced by 55 to 85% for both losartan and its active metabolite in patients with mild or moderate renal insufficiency.
 Neither losartan nor its active metabolite can be removed by hemodialysis.
-No dosage adjustment is necessary for patients with renal impairment unless they are volume-depleted (see WARNINGS, Hypotension —Volume-Depleted Patientsand DOSAGE AND ADMINISTRATION).
+No dosage adjustment is necessary for patients with renal impairment unless they are volume-depleted (see WARNINGS, Hypotension —Volume-Depleted Patients and DOSAGE AND ADMINISTRATION).
 
 ## Hepatic Insufficiency:
 
-Following oral administration in patients with mild to moderate alcoholic cirrhosis of the liver, plasma concentrations of losartan and its active metabolite were, respectively, 5-times and about 1.7-times those in young male volunteers.
-Compared to normal subjects the total plasma clearance of losartan in patients with hepatic insufficiency was about 50% lower and the oral bioavailability was about 2-times higher.
+Following oral administration in patients with mild to moderate alcoholic cirrhosis of the liver, plasma concentrations of losartan and its active metabolite were, respectively, 5 times and about 1.7 times those in young male volunteers.
+Compared to normal subjects the total plasma clearance of losartan in patients with hepatic insufficiency was about 50% lower and the oral bioavailability was about 2 times higher.
 A lower starting dose is recommended for patients with a history of hepatic impairment (see DOSAGE AND ADMINISTRATION).
 
 ## Drug Interactions:
@@ -110,7 +110,7 @@ The AUC of active metabolite following oral losartan was not affected by erythro
 ## Adult Hypertension:
 
 Losartan inhibits the pressor effect of angiotensin II (as well as angiotensin I) infusions.
-A dose of 100 mg inhibits the pressor effect by about 85% at peak with 25-40% inhibition persisting for 24 hours.
+A dose of 100 mg inhibits the pressor effect by about 85% at peak with 25 to 40% inhibition persisting for 24 hours.
 
 Removal of the negative feedback of angiotensin II causes a 2- to 3-fold rise in plasma renin activity and consequent rise in angiotensin II plasma concentration in hypertensive patients.
 Losartan does not affect the response to bradykinin, whereas ACE inhibitors increase the response to bradykinin.
@@ -121,22 +121,22 @@ In a single-dose study in normal volunteers, losartan had no effects on glomerul
 In multiple-dose studies in hypertensive patients, there were no notable effects on systemic or renal prostaglandin concentrations, fasting triglycerides, total cholesterol or HDL-cholesterol or fasting glucose concentrations.
 There was a small uricosuric effect leading to a minimal decrease in serum uric acid (mean decrease <0.4 mg/dL) during chronic oral administration.
 
-The antihypertensive effects of losartan potassium tablets were demonstrated principally in 4 placebo-controlled, 6 to 12-week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95-115.
-The studies allowed comparisons of two doses (50-100 mg/day) as once-daily or twice-daily regimens, comparisons of peak and trough effects, and comparisons of response by gender, age, and race.
+The antihypertensive effects of losartan potassium tablets were demonstrated principally in 4 placebo-controlled, 6 to 12 week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95 to 115.
+The studies allowed comparisons of two doses (50 to 100 mg/day) as once-daily or twice-daily regimens, comparisons of peak and trough effects, and comparisons of response by gender, age, and race.
 Three additional studies examined the antihypertensive effects of losartan and hydrochlorothiazide in combination.
 
 The 4 studies of losartan monotherapy included a total of 1075 patients randomized to several doses of losartan and 334 to placebo.
-The 10- and 25-mg doses produced some effect at peak (6 hours after dosing) but small and inconsistent trough (24 hour) responses.
-Doses of 50, 100 and 150 mg once daily gave statistically significant systolic/diastolic mean decreases in blood pressure, compared to placebo in the range of 5.5-10.5/3.5-7.5 mmHg, with the 150-mg dose giving no greater effect than 50-100 mg.
-Twice-daily dosing at 50-100 mg/day gave consistently larger trough responses than once-daily dosing at the same total dose.
-Peak (6 hour) effects were uniformly, but moderately, larger than trough effects, with the trough-to-peak ratio for systolic and diastolic responses 50-95% and 60-90%, respectively.
+The 10 and 25 mg doses produced some effect at peak (6 hours after dosing) but small and inconsistent trough (24 hour) responses.
+Doses of 50, 100 and 150 mg once daily gave statistically significant systolic/diastolic mean decreases in blood pressure, compared to placebo in the range of 5.5 to 10.5/3.5 to 7.5 mmHg, with the 150 mg dose giving no greater effect than 50 to 100 mg.
+Twice-daily dosing at 50 to 100 mg/day gave consistently larger trough responses than once-daily dosing at the same total dose.
+Peak (6 hour) effects were uniformly, but moderately, larger than trough effects, with the trough-to-peak ratio for systolic and diastolic responses 50 to 95% and 60 to 90%, respectively.
 
 Addition of a low dose of hydrochlorothiazide (12.5 mg) to losartan 50 mg once daily resulted in placebo-adjusted blood pressure reductions of 15.5/9.2 mmHg.
 
 Analysis of age, gender, and race subgroups of patients showed that men and women, and patients over and under 65, had generally similar responses.
 Losartan potassium tablets were effective in reducing blood pressure regardless of race, although the effect was somewhat less in Black patients (usually a low-renin population).
 
-The effect of losartan is substantially present within one week but in some studies the maximal effect occurred in 3-6 weeks.
+The effect of losartan is substantially present within one week but in some studies the maximal effect occurred in 3 to 6 weeks.
 In long-term follow-up studies (without placebo control) the effect of losartan appeared to be maintained for up to a year.
 There is no apparent rebound effect after abrupt withdrawal of losartan.
 There was essentially no change in average heart rate in losartan-treated patients in controlled trials.
@@ -192,7 +192,7 @@ The Components of Primary Endpoint (as a first event) counts only the events tha
 
 Table 2 Incidence of Primary Endpoint Events
 
-|  | N (%) | RateRate per 1000 patient-years of follow-up | N (%) | Rate |  |  |  |
+|  | N (%) | RateRate per 1000 patient years of follow-up | N (%) | Rate |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Losartan Potassium |  | Atenolol |  | Risk ReductionAdjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy | 95% CI | p-Value |
 | Primary Composite Endpoint | 508 (11) | 23.8 | 588 (13) | 27.9 | 13% | 2% to 23% | 0.021 |
@@ -232,7 +232,7 @@ Losartan-K = Losartan Potassium.
 ## Race:
 
 In the LIFE study, Black patients treated with atenolol were at lower risk of experiencing the primary composite endpoint compared with Black patients treated with losartan potassium tablets.
-In the subgroup of Black patients (n=533; 6% of the LIFE study patients), there were 29 primary endpoints among 263 patients on atenolol (11%, 26 per 1000 patient-years) and 46 primary endpoints among 270 patients (17%, 42 per 1000 patient-years) on losartan potassium tablets.
+In the subgroup of Black patients (n=533; 6% of the LIFE study patients), there were 29 primary endpoints among 263 patients on atenolol (11%, 26 per 1000 patient years) and 46 primary endpoints among 270 patients (17%, 42 per 1000 patient years) on losartan potassium tablets.
 This finding could not be explained on the basis of differences in the populations other than race or on any imbalances between treatment groups.
 In addition, blood pressure reductions in both treatment groups were consistent between Black and non-Black patients.
 Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.
@@ -240,11 +240,11 @@ However, the LIFE study provides no evidence that the benefits of losartan potas
 
 Nephropathy in Type 2 Diabetic Patients:
 
-The Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study was a randomized, placebo controlled, double-blind, multicenter study conducted worldwide in 1513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3.0 mg/dl in females or males <60 kg and 1.5 to 3.0 mg/dl in males ≤60 kg and proteinuria [urinary albumin to creatinine ratio ≥300 mg/g]).
+The Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study was a randomized, placebo controlled, double-blind, multicenter study conducted worldwide in 1513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3 mg/dl in females or males ≤60 kg and 1.5 to 3 mg/dl in males >60 kg and proteinuria [urinary albumin to creatinine ratio ≥300 mg/g]).
 
 Patients were randomized to receive losartan potassium tablet 50 mg once daily or placebo on a background of conventional antihypertensive therapy excluding ACE inhibitors and angiotensin II antagonists.
 After one month, investigators were instructed to titrate study drug to 100 mg once daily if the trough blood pressure goal (140/90 mmHg) was not achieved.
-Overall, 72% of patients received the 100-mg daily dose more than 50% of the time they were on study drug.
+Overall, 72% of patients received the 100 mg daily dose more than 50% of the time they were on study drug.
 Because the study was designed to achieve equal blood pressure control in both groups, other antihypertensive agents (diuretics, calcium-channel blockers, alpha- or beta-blockers, and centrally acting agents) could be added as needed in both groups.
 Patients were followed for a mean duration of 3.4 years.
 
@@ -300,6 +300,6 @@ Table 4Efficacy Outcomes within Demographic Subgroups
 | Male | 956 | 40.9 | 43.3 | 0.892 (0.733, 1.085) | 17.5 | 21.5 | 0.809 (0.605, 1.081) |
 | Race |  |  |  |  |  |  |  |
 | Asian | 252 | 41.9 | 54.8 | 0.655 (0.453, 0.947) | 18.8 | 27.4 | 0.625 (0.367, 1.066) |
-| Black | 230 | 40 | 39 | 0.983 (0.647, 1.495) | 17.6 | 21.0 | 0.831 (0.456, 1.516) |
-| Hispanic | 277 | 55 | 54 | 1.003 (0.728, 1.380) | 30.0 | 28.5 | 1.024 (0.661, 1.586) |
+| Black | 230 | 40 | 39 | 0.983 (0.647, 1.495) | 17.6 | 21 | 0.831 (0.456, 1.516) |
+| Hispanic | 277 | 55 | 54 | 1.003 (0.728, 1.380) | 30 | 28.5 | 1.024 (0.661, 1.586) |
 | White | 735 | 40.5 | 43.2 | 0.809 (0.645, 1.013) | 16.2 | 23.9 | 0.596 (0.427, 0.831) |

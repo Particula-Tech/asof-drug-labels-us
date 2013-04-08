@@ -1,31 +1,31 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 68382-135-16 in bottle of 90 Tablets
+NDC 68382-135-01
 
 Losartan Potassium Tablets USP, 25 mg
 
-Rx only
+100 Tablets
 
-90 TABLETS
+Rx only
 
 ZYDUS
 
-NDC 68382-136-16 in bottle of 90 Tablets
+NDC 68382-136-01
 
 Losartan Potassium Tablets USP, 50 mg
 
-Rx only
+100 Tablets
 
-90 TABLETS
+Rx only
 
 ZYDUS
 
-NDC 68382-137-16 in bottle of 90 Tablets
+NDC 68382-137-01
 
 Losartan Potassium Tablets USP, 100 mg
 
-Rx only
+100 Tablets
 
-90 TABLETS
+Rx only
 
 ZYDUS

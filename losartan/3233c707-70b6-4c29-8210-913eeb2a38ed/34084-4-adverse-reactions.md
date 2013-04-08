@@ -9,7 +9,7 @@ The overall incidence of adverse experiences reported with losartan potassium ta
 
 In controlled clinical trials, discontinuation of therapy due to clinical adverse experiences was required in 2.3 percent of patients treated with losartan potassium tablets and 3.7 percent of patients given placebo.
 
-The following table of adverse events is based on four 6- to 12-week, placebo-controlled trials involving over 1000 patients on various doses (10-150 mg) of losartan and over 300 patients given placebo.
+The following table of adverse events is based on four 6 to 12 week, placebo-controlled trials involving over 1000 patients on various doses (10 to 150 mg) of losartan and over 300 patients given placebo.
 All doses of losartan are grouped because none of the adverse events appeared to have a dose-related frequency.
 The adverse experiences reported in ≥1% of patients treated with losartan potassium tablets and more commonly than placebo are shown in the table below.
 
@@ -67,7 +67,7 @@ The incidence of cough is shown below.
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.
 
-Cases of cough, including positive re-challenges, have been reported with the use of losartan in post-marketing experience.
+Cases of cough, including positive re-challenges, have been reported with the use of losartan in postmarketing experience.
 
 ## Pediatric Patients:
 
@@ -126,9 +126,9 @@ The adverse experiences, regardless of drug relationship, reported with an incid
 | Urogenital |  |  |
 | Urinary tract infection | 16 | 13 |
 
-## Post-Marketing Experience:
+## Postmarketing Experience:
 
-The following additional adverse reactions have been reported in post-marketing experience:
+The following additional adverse reactions have been reported in postmarketing experience:
 
 Digestive: Hepatitis (reported rarely).
 

@@ -9,7 +9,7 @@ The usual starting dose of losartan potassium tablets is 50 mg once daily, with 
 Losartan potassium tablets can be administered once or twice daily with total daily doses ranging from 25 mg to 100 mg.
 
 If the antihypertensive effect measured at trough using once-a-day dosing is inadequate, a twice-a-day regimen at the same total daily dose or an increase in dose may give a more satisfactory response.
-The effect of losartan is substantially present within one week but in some studies the maximal effect occurred in 3-6 weeks (see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Hypertension).
+The effect of losartan is substantially present within one week but in some studies the maximal effect occurred in 3 to 6 weeks (see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Hypertension).
 
 If blood pressure is not controlled by losartan potassium tablets alone, a low dose of a diuretic may be added.
 Hydrochlorothiazide has been shown to have an additive effect (see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Hypertension).
@@ -31,7 +31,7 @@ Immediately shake for at least 2 minutes.
 Let the concentrate stand for 1 hour and then shake for 1 minute to disperse the tablet contents.
 Separately prepare a 50/50 volumetric mixture of Ora-Plus™*** and Ora-Sweet SF™***.
 Add 190 mL of the 50/50 Ora-Plus™ /Ora-Sweet SF™ mixture to the tablet and water slurry in the PET bottle and shake for 1 minute to disperse the ingredients.
-The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 4 weeks.
+The suspension should be refrigerated at 2 to 8°C (36 to 46°F) and can be stored for up to 4 weeks.
 Shake the suspension prior to each use and return promptly to the refrigerator.
 
 ## Hypertensive Patients with Left Ventricular Hypertrophy:

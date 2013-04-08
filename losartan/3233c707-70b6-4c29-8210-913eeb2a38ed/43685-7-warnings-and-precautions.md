@@ -42,11 +42,11 @@ These conditions should be corrected prior to administration of losartan potassi
 
 ## Hypersensitivity
 
-Angioedema (see ADVERSE REACTIONS, Post-Marketing Experience).
+Angioedema (see ADVERSE REACTIONS, Postmarketing Experience).
 
 Impaired Hepatic Function:
 
-Based on pharmacokinetic data, which demonstrate significantly increased plasma concentrations of losartan in cirrhotic patients, a lower dose should be considered for patients with impaired liver function (see DOSAGE AND ADMINISTRATIONand CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Based on pharmacokinetic data, which demonstrate significantly increased plasma concentrations of losartan in cirrhotic patients, a lower dose should be considered for patients with impaired liver function (see DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY, Pharmacokinetics).
 
 ## Impaired Renal Function:
 
@@ -100,16 +100,19 @@ Monitor renal function periodically in patients receiving losartan and NSAID the
 
 The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
 
-Dual blockade of the renin-angiotensin-aldosterone system
+Dual Blockade of the Renin-Angiotensin System (RAS)
 
-It has been reported in the literature that in patients with established atherosclerotic disease, heart failure, or with diabetes with end organ damage, dual blockade of the renin-angiotensin-aldosterone system is associated with a higher frequency of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) as compared to use of a single renin-angiotensin-aldosterone system agent.
-Dual blockade (e.g., by adding an ACE inhibitor to an angiotensin II receptor antagonist) should be limited to individually defined cases with close monitoring of renal function.
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on losartan potassium and other agents that affect the RAS.
+
+Do not co-administer aliskiren with losartan potassium tablets in patients with diabetes.
+Avoid use of aliskiren with losartan potassium tablets in patients with renal impairment (GFR <60 ml/min).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Losartan potassium was not carcinogenic when administered at maximally tolerated dosages to rats and mice for 105 and 92 weeks, respectively.
 Female rats given the highest dose (270 mg/kg/day) had a slightly higher incidence of pancreatic acinar adenoma.
-The maximally tolerated dosages (270 mg/kg/day in rats, 200 mg/kg/day in mice) provided systemic exposures for losartan and its pharmacologically active metabolite that were approximately 160- and 90-times (rats) and 30- and 15-times (mice) the exposure of a 50 kg human given 100 mg per day.
+The maximally tolerated dosages (270 mg/kg/day in rats, 200 mg/kg/day in mice) provided systemic exposures for losartan and its pharmacologically active metabolite that were approximately 160 and 90 times (rats) and 30 and 15 times (mice) the exposure of a 50 kg human given 100 mg per day.
 
 Losartan potassium was negative in the microbial mutagenesis and V-79 mammalian cell mutagenesis assays and in the in vitro alkaline elution and in vitro and in vivo chromosomal aberration assays.
 In addition, the active metabolite showed no evidence of genotoxicity in the microbial mutagenesis, in vitro alkaline elution, and in vitro chromosomal aberration assays.

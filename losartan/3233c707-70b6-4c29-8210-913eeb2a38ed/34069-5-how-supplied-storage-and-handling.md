@@ -10,8 +10,6 @@ NDC 68382-135-01 in bottle of 100 tablets
 
 NDC 68382-135-10 in bottle of 1,000 tablets
 
-NDC 68382-135-40 in bottle of 5,000 tablets
-
 NDC 68382-135-24 in bottle of 10,000 tablets
 
 Losartan Potassium Tablets USP, 50 mg are white to off-white, capsule-shaped, film-coated tablets debossed with the logo of "Z16" on one side and lip type breakline on other side and are supplied as follows:
@@ -36,6 +34,8 @@ NDC 68382-137-01 in bottle of 100 tablets
 
 NDC 68382-137-10 in bottle of 1,000 tablets
 
+NDC 68382-137-24 in bottle of 10,000 tablets
+
 ## Storage:
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
@@ -58,6 +58,6 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-Rev.: 01/12
+Rev.: 01/13
 
-Revision Date: 2012/01/11
+Revision Date: 2013/01/12
