@@ -49,4 +49,4 @@ Packaged in bottles of 100.
 
 Store at 15° to 30°C (59° to 86°F) in well-closed containers.
 
-Revised: October 2010
+Revised: March 2013

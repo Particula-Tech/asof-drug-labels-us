@@ -88,7 +88,7 @@ NSAID medicines that need a prescription
 | Etodolac | Lodine®, Lodine®XL |
 | Fenoprofen | Nalfon®, Nalfon®200 |
 | Flurbirofen | Ansaid® |
-| Ibuprofen | Motrin®, Tab-Profen®, Vicoprofen® *(combined with hydrocodone), Combunox™ (combined with oxycodone) |
+| Ibuprofen | Motrin®, Tab-Profen®, Vicoprofen®*(combined with hydrocodone), Combunox™ (combined with oxycodone) |
 | Indomethacin | Indocin®, Indocin®SR, Indo-Lemmon™, Indomethagan™ |
 | Ketoprofen | Oruvail® |
 | Ketorolac | Toradol® |

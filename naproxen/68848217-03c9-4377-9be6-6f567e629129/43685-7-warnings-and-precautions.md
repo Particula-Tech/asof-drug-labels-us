@@ -1,6 +1,6 @@
 # WARNINGS
 
-## CARDIOVASCULAR EFFECTS
+## Cardiovascular Effects
 
 ### Cardiovascular Thrombotic Events
 
@@ -12,7 +12,7 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation).
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see WARNINGS: Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation).
 
 Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
@@ -61,14 +61,14 @@ NSAIDs should be given with care to patients with a history of inflammatory bowe
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, hypovolemia, heart failure, liver dysfunction, salt depletion, those taking diuretics and ACE inhibitors, and the elderly.
+Patients at greatest risk of this reaction are those with impaired renal function, hypovolemia, heart failure, liver dysfunction, salt depletion, those taking diuretics and angiotensin converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs), and the elderly.
 Discontinuation of nonsteroidal anti-inflammatory drug therapy is usually followed by recovery to the pretreatment state (see WARNINGS: Advanced Renal Disease).
 
 ## Advanced Renal Disease
 
 No information is available from controlled clinical studies regarding the use of NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS or NAPROSYN Suspension in patients with advanced renal disease.
 Therefore, treatment with NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS and NAPROSYN Suspension is not recommended in these patients with advanced renal disease.
-If NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS or NAPROSYN Suspension therapy must be initiated, close monitoring of the patient's renal function is advisable.
+If NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS or NAPROSYN Suspension therapy must be initiated, close monitoring of the patient's renal function is advisable and patients should be adequately hydrated.
 
 ## Anaphylactoid Reactions
 
@@ -147,7 +147,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
    Patients should be apprised of the importance of this follow-up (see WARNINGS: Cardiovascular Effects).
 2. NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS and NAPROSYN Suspension, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
    Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS: Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
+   Patients should be apprised of the importance of this follow-up (see WARNINGS: Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
 3. NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS and NAPROSYN Suspension, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
    Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
    Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
@@ -167,10 +167,14 @@ If clinical signs and symptoms consistent with liver or renal disease develop, s
 
 ## Drug Interactions
 
-### ACE-inhibitors
+### Angiotensin Converting Enzyme (ACE)-inhibitors/Angiotensin Receptor Blockers (ARBs)
 
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
+NSAIDs may diminish the antihypertensive effect of ACE-inhibitors, ARBs, or beta-blockers (including propanolol).
+
+Monitor patients taking NSAIDs concomitantly with ACE-inhibitors, ARBs, or beta blockers for changes in blood pressure.
+
+In addition, in patients who are elderly, volume-depleted (including those on diuretic therapy), or have compromised renal function, co-administration of NSAIDs with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure.
+Monitor these patients closely for signs of worsening renal function.
 
 ### Antacids and Sucralfate
 
@@ -221,8 +225,6 @@ Caution should be used when NSAIDs are administered concomitantly with SSRIs.
 
 Naproxen is highly bound to plasma albumin; it thus has a theoretical potential for interaction with other albumin-bound drugs such as coumarin-type anticoagulants, sulphonylureas, hydantoins, other NSAIDs, and aspirin.
 Patients simultaneously receiving naproxen and a hydantoin, sulphonamide or sulphonylurea should be observed for adjustment of dose if required.
-
-Naproxen and other nonsteroidal anti-inflammatory drugs can reduce the antihypertensive effect of propranolol and other beta-blockers.
 
 Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly.
 
