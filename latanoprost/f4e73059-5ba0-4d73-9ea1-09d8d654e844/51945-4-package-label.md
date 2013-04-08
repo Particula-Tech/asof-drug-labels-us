@@ -1,13 +1,19 @@
+# PRINCIPAL DISPLAY PANEL - 2.5 mL Bottle Label
+
+Xalatan® latanoprost ophthalmic solution Sterile 0.005% 125 µg/2.5 mL
+
+8Q2412
+
 # PRINCIPAL DISPLAY PANEL - 2.5 mL Bottle Carton
 
-NDC 0013-8303-04 Rx only
+NDC 0013-8303-04
 
-One 2.5 mL Bottle
+Pfizer
 
 Xalatan® latanoprost ophthalmic solution
 
 STERILE 0.005%
 
-125 µg/ 2.5 mL*
+125 µg/2.5 mL*
 
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+One 2.5 mL Bottle Rx only
