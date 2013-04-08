@@ -4,9 +4,9 @@ The pattern of adverse effects seen with dicylomine is mostly related to its pha
 They are a consequence of the inhibitory effect on muscarinic receptors within the autonomic nervous system.
 These effects are dose-related and are usually reversible when treatment is discontinued.
 
-The most serious adverse reactions reported with dicyclomine hydrochloride include cardiovascular and central nervous system symptoms[see Warnings and Precautions (5.2, 5.3)].
+The most serious adverse reactions reported with dicyclomine hydrochloride include cardiovascular and central nervous system symptoms [see Warnings and Precautions (5.2, 5.3)].
 
-## 6.3 Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -31,7 +31,7 @@ Nine percent (9%) of patients were discontinued from dicyclomine hydrochloride b
 In 41% of the patients with side effects, side effects disappeared or were tolerated at the 160 mg daily dose without reduction.
 A dose reduction from 160 mg daily to an average daily dose of 90 mg was required in 46% of the patients with side effects who then continued to experience a favorable clinical response; their side effects either disappeared or were tolerated.
 
-## 6.4 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions, presented by system organ class in alphabetical order, have been identified during post approval use of dicyclomine hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -42,12 +42,13 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - General disorders and administration site conditions: fatigue, malaise
 - Immune System Disorders: drug hypersensitivity including face oedema, angioedema, anaphylactic shock
 - Nervous system disorders: dizziness, headache, hallucinations insomnia, somnolence, syncope
-- Psychiatric disorders: confusional state, nervousness
+- Psychiatric disorders: As with the other anti-cholinergic drugs, cases of delirium or symptoms of delirium such as amnesia (or transient global amnesia), agitation, confusional state, delusion, disorientation, hallucination (including visual hallucination) as well as mania, mood altered and pseudodementia, have been reported with the use of Dicyclomine.
+  Nervousness and insomnia have also been reported.
 - Reproductive system and breast disorders: suppressed lactation
 - Respiratory, thoracic and mediastinal disorders: dyspnoea, nasal congestion
 - Skin and subcutaneous tissue disorder: dermatitis allergic, erythema, rash
 
-## 6.5 Adverse Reactions Reported with Similar Drugs with Anticholinergic/Antispasmodic Action
+## 6.3 Adverse Reactions Reported with Similar Drugs with Anticholinergic/Antispasmodic Action
 
 Gastrointestinal: anorexia, Central Nervous System: tingling, numbness, dyskinesia, speech disturbance, insomnia Peripheral Nervous System: With overdosage, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).
 Ophthalmologic: diplopia, increased ocular tension Dermatologic/Allergic: urticaria, itching, and other dermal manifestations; Genitourinary: urinary hesitancy, urinary retention in patients with prostatic hypertrophy Cardiovascular: hypertension Respiratory: apnea Other: decreased sweating,sneezing, throat congestion, impotence.

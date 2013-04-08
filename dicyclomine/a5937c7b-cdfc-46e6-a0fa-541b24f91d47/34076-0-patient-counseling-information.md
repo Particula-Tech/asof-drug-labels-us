@@ -6,7 +6,7 @@ Inform parents and caregivers not to administer dicyclomine hydrochloride in inf
 
 ## 17.3 Use in Nursing Mothers
 
-Advise lactating women that dicyclomine hydrochloride should not be used while human milk feeding their infants [see Use in Specific Populations (8.3, 8.4)].
+Advise lactating women that dicyclomine hydrochloride should not be used while breastfeeding their infants [see Use in Specific Populations (8.3, 8.4)].
 
 ## 17.4 Peripheral and Central Nervous System
 
@@ -19,4 +19,4 @@ Manufactured for: Watson Laboratories, Inc. Corona, CA 92880 USA
 
 Manufactured by: Patheon Pharmaceuticals Inc. Cincinnati, OH 45215 USA
 
-Revised: May 2012 70225265
+Revised: January 2013 70027374

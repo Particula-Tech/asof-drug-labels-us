@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.3 Mechanism of Action
+## 12.1 Mechanism of Action
 
 Dicyclomine relieves smooth muscle spasm of the gastrointestinal tract.
 Animal studies indicate that this action is achieved via a dual mechanism:
@@ -12,11 +12,11 @@ Atropine did not affect responses to these two agonists.
 In vivo studies in cats and dogs showed dicyclomine to be equally potent against acetylcholine (ACh)- or barium chloride (BaCl2)-induced intestinal spasm while atropine was at least 200 times more potent against effects of ACh than BaCl2.
 Tests for mydriatic effects in mice showed that dicyclomine was approximately 1/500 as potent as atropine; antisialagogue tests in rabbits showed dicyclomine to be 1/300 as potent as atropine.
 
-## 12.4 Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Dicyclomine hydrochloride can inhibit the secretion of saliva and sweat, decrease gastrointestinal secretions and motility, cause drowsiness, dilate the pupils, increase heart rate, and depress motor function
 
-## 12.5 Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption and Distribution In man, dicyclomine is rapidly absorbed after oral administration, reaching peak values within 60-90 minutes.
 Mean volume of distribution for a 20 mg oral dose is approximately 3.65 L/kg suggesting extensive distribution in tissues.

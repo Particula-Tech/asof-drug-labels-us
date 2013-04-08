@@ -9,9 +9,9 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## 8.3 Nursing Mothers
 
-Dicyclomine hydrochloride is contraindicated in women who are human milk feeding.
-Dicyclomine hydrochloride is excreted in human milk.
-Because of the potential for serious adverse reactions in human milk-fed infants from dicyclomine hydrochloride, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.4)].
+Dicyclomine hydrochloride is contraindicated in women who are breastfeeding.
+Dicyclomine hydrochloride is excreted in breastmilk.
+Because of the potential for serious adverse reactions in human breastfed infants from dicyclomine hydrochloride, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.4)].
 
 ## 8.4 Pediatric Use
 
