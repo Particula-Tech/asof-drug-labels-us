@@ -6,6 +6,7 @@ In U.S. clinical trials, symptoms consistent with angioedema were seen in none o
 Angioedema associated with laryngeal edema can be fatal.
 If laryngeal stridor or angioedema of the face, tongue, or glottis occurs, treatment with benazepril should be discontinued and appropriate therapy instituted immediately.
 Where there is involvement of the tongue, glottis, or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine injection 1:1000 (0.3 mL to 0.5 mL) should be promptly administered (see ADVERSE REACTIONS).
+
 Black patients receiving ACE inhibitors have been reported to have a higher incidence of angioedema compared to nonblacks.
 Intestinal Angioedema Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
@@ -38,9 +39,11 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue benazepril, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to benazepril for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use ).
+Closely observe infants with histories of in utero exposure to benazepril for hypotension, oliguria, and hyperkalemia (see
+
+PRECAUTIONS, Pediatric Use).
 No teratogenic effects of benazepril were seen in studies of pregnant rats, mice, and rabbits.
-On a mg/m 2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50 kg woman).
+On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50 kg woman).
 On a mg/kg basis these multiples are 300 times (in rats), 90 times (in mice), and more than 3 times (in rabbits) the maximum recommended human dose.
 
 ## Hepatic Failure
@@ -63,7 +66,7 @@ Dosage reduction of benazepril and/or discontinuation of the diuretic may be req
 Evaluation of the hypertensive patient should always include assessment of renal function (see DOSAGE AND ADMINISTRATION).
 Hyperkalemia In clinical trials, hyperkalemia (serum potassium at least 0.5 mEq/L greater than the upper limit of normal) occurred in approximately 1% of hypertensive patients receiving benazepril.
 In most cases, these were isolated values which resolved despite continued therapy.
-Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with benazepril (see Drug Interactions ).
+Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with benazepril (see Drug Interactions).
 
 ### Cough
 
@@ -89,7 +92,7 @@ Neutropenia Patients should be told to promptly report any indication of infecti
 
 Diuretics Patients on diuretics, especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with benazepril.
 The possibility of hypotensive effects with benazepril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with benazepril.
-If this is not possible, the starting dose should be reduced (see DOSAGE AND ADMINISTRATION ).
+If this is not possible, the starting dose should be reduced (see DOSAGE AND ADMINISTRATION).
 Potassium Supplements and Potassium-Sparing Diuretics Concomitant use with benazepril may effect potassium levels.
 Monitor potassium periodically.
 Oral Anticoagulants Interaction studies with warfarin and acenocoumarol failed to identify any clinically important effects on the serum concentrations or clinical effects of these anticoagulants.
@@ -102,6 +105,10 @@ Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) including Selective Cyclooxygenas
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving benazepril and NSAID therapy.
 The antihypertensive effect of ACE inhibitors, including benazepril, may be attenuated by NSAIDs.
+Dual Blockade of the Renin-Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on benazepril and other agents that block the RAS.
+Do not co-administer aliskiren with benazepril in patients with diabetes.
+Avoid use of aliskiren with benazepril in patients with renal impairment (GFR <60 mL/min).
 Other Benazepril has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions.
 Benazepril, like other ACE inhibitors, has had less than additive effects with beta-adrenergic blockers, presumably because both drugs lower blood pressure by inhibiting parts of the renin-angiotensin system.
 The pharmacokinetics of benazepril are not affected by the following drugs: hydrochlorothiazide, furosemide, chlorthalidone, digoxin, propranolol, atenolol, nifedipine, amlodipine, naproxen, acetylsalicylic acid, or cimetidine.
@@ -113,7 +120,7 @@ No evidence of carcinogenicity was found when benazepril was administered to rat
 When compared on the basis of body weights, this dose is 110 times the maximum recommended human dose.
 When compared on the basis of body surface areas, this dose is 18 and 9 times (rats and mice, respectively) the maximum recommended human dose (calculations assume a patient weight of 60 kg).
 No mutagenic activity was detected in the Ames test in bacteria (with or without metabolic activation), in an in vitro test for forward mutations in cultured mammalian cells, or in a nucleus anomaly test.
-In doses of 50 to 500 mg/kg/day (6 to 60 times the maximum recommended human dose based on mg/m 2 comparison and 37 to 375 times the maximum recommended human dose based on a mg/kg comparison), benazepril had no adverse effect on the reproductive performance of male and female rats.
+In doses of 50 to 500 mg/kg/day (6 to 60 times the maximum recommended human dose based on mg/m2 comparison and 37 to 375 times the maximum recommended human dose based on a mg/kg comparison), benazepril had no adverse effect on the reproductive performance of male and female rats.
 
 ## Nursing Mothers
 
@@ -132,11 +139,13 @@ Because elderly patients are more likely to have decreased renal function, care 
 Neonates with a history of in utero exposure to benazepril: If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 Benazepril, which crosses the placenta, can theoretically be removed from the neonatal circulation by these means; there are occasional reports of benefit from these maneuvers with another ACE inhibitor, but experience is limited.
-The antihypertensive effects of benazepril have been evaluated in a double-blind study in pediatric patients 7 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacodynamics, Hypertension ).
-The pharmacokinetics of benazepril have been evaluated in pediatric patients 6 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism ).
+The antihypertensive effects of benazepril have been evaluated in a double-blind study in pediatric patients 7 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacodynamics, Hypertension).
+The pharmacokinetics of benazepril have been evaluated in pediatric patients 6 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
 Benazepril was generally well tolerated and adverse effects were similar to those described in adults.
-(See ADVERSE REACTIONS: Pediatric Patients .)
+(See ADVERSE REACTIONS: Pediatric Patients.)
 The long-term effects of benazepril on growth and development have not been studied.
 Infants below the age of 1 year should not be given benazepril because of the risk of effects on kidney development.
-Treatment with benazepril is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS ), and in children with glomerular filtration rate <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups.
-(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism, In Pediatric Patients and DOSAGE AND ADMINISTRATION .)
+Treatment with benazepril is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS), and in children with glomerular filtration rate <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups.
+(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism, In Pediatric Patients
+
+and DOSAGE AND ADMINISTRATION.)

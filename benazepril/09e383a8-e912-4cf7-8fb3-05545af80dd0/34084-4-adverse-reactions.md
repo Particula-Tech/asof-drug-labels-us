@@ -4,7 +4,7 @@ Benazepril has been evaluated for safety in over 6000 patients with hypertension
 The overall incidence of reported adverse events was comparable in benazepril and placebo patients.
 The reported side effects were generally mild and transient, and there was no relation between side effects and age, duration of therapy, or total dosage within the range of 2 to 80 mg.
 Discontinuation of therapy because of a side effect was required in approximately 5% of U.S. patients treated with benazepril and in 3% of patients treated with placebo.
-The most common reasons for discontinuation were headache (0.6%) and cough (0.5%) (see PRECAUTIONS, Cough ).
+The most common reasons for discontinuation were headache (0.6%) and cough (0.5%) (see PRECAUTIONS, Cough).
 The side effects considered possibly or probably related to study drug that occurred in U.S. placebo-controlled trials in more than 1% of patients treated with benazepril are shown below.
 
 PATIENTS IN U.S. PLACEBO-CONTROLLED STUDIES
@@ -29,4 +29,4 @@ Another potentially important adverse experience, eosinophilic pneumonitis, has 
 The adverse experience profile for pediatric patients appears to be similar to that seen in adult patients.
 Clinical Laboratory Test Findings Hemoglobin Decreases in hemoglobin (a low value and a decrease of 5 g/dL) were rare, occurring in only 1 of 2,014 patients receiving benazepril alone and in 1 of 1,357 patients receiving benazepril plus a diuretic.
 No U.S. patients discontinued treatment because of decreases in hemoglobin.
-Other (causal relationships unknown) Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes (see WARNINGS ) have been reported, as have scattered incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.
+Other (causal relationships unknown) Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes (see WARNINGS) have been reported, as have scattered incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.

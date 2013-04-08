@@ -6,12 +6,12 @@ Angiotensin II also stimulates aldosterone secretion by the adrenal cortex.
 Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decreased aldosterone secretion.
 The latter decrease may result in a small increase of serum potassium.
 Hypertensive patients treated with benazepril alone for up to 52 weeks had elevations of serum potassium of up to 0.2 mEq/L.
-Similar patients treated with benazepril and hydrochlorothiazide for up to 24 weeks had no consistent changes in their serum potassium (see PRECAUTIONS ).
+Similar patients treated with benazepril and hydrochlorothiazide for up to 24 weeks had no consistent changes in their serum potassium (see PRECAUTIONS).
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
 In animal studies, benazepril had no inhibitory effect on the vasopressor response to angiotensin II and did not interfere with the hemodynamic effects of the autonomic neurotransmitters acetylcholine, epinephrine, and norepinephrine.
 ACE is identical to kininase, an enzyme that degrades bradykinin.
 Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of benazepril remains to be elucidated.
-While the mechanism through which benazepril lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, benazepril has an antihypertensive effect even in patients with low-renin hypertension (see INDICATIONS AND USAGE ).
+While the mechanism through which benazepril lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, benazepril has an antihypertensive effect even in patients with low-renin hypertension (see INDICATIONS AND USAGE).
 
 ## Pharmacokinetics and Metabolism
 
@@ -23,15 +23,15 @@ The serum protein binding of benazepril is about 96.7% and that of benazeprilat 
 Benazepril is almost completely metabolized to benazeprilat, which has much greater ACE inhibitory activity than benazepril, and to the glucuronide conjugates of benazepril and benazeprilat.
 Only trace amounts of an administered dose of benazepril can be recovered in the urine as unchanged benazepril, while about 20% of the dose is excreted as benazeprilat, 4% as benazepril glucuronide, and 8% as benazeprilat glucuronide.
 The kinetics of benazepril are approximately dose-proportional within the dosage range of 10 to 80 mg.
-In adults , the effective half-life of accumulation of benazeprilat following multiple dosing of benazepril hydrochloride is 10 to 11 hours.
+In adults, the effective half-life of accumulation of benazeprilat following multiple dosing of benazepril hydrochloride is 10 to 11 hours.
 Thus, steady-state concentrations of benazeprilat should be reached after 2 or 3 doses of benazepril hydrochloride given once daily.
 The kinetics did not change, and there was no significant accumulation during chronic administration (28 days) of once-daily doses between 5 mg and 20 mg.
 Accumulation ratios based on AUC and urinary recovery of benazeprilat were 1.19 and 1.27, respectively.
 Benazepril and benazeprilat are cleared predominantly by renal excretion in healthy subjects with normal renal function.
 Nonrenal (i.e., biliary) excretion accounts for approximately 11% to 12% of benazeprilat excretion in healthy subjects.
 In patients with renal failure, biliary clearance may compensate to an extent for deficient renal clearance.
-In patients with renal insufficiency , the disposition of benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance > 30 mL/min) is similar to that in patients with normal renal function.
-In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady state may be delayed (see DOSAGE AND ADMINISTRATION ).
+In patients with renal insufficiency, the disposition of benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance > 30 mL/min) is similar to that in patients with normal renal function.
+In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady state may be delayed (see DOSAGE AND ADMINISTRATION).
 When dialysis was started 2 hours after ingestion of 10 mg of benazepril, approximately 6% of benazeprilat was removed in 4 hours of dialysis.
 The parent compound, benazepril, was not detected in the dialysate.
 In patients with hepatic insufficiency (due to cirrhosis), the pharmacokinetics of benazeprilat are essentially unaltered.
@@ -58,7 +58,7 @@ The antihypertensive effects of benazepril were not appreciably different in pat
 In normal human volunteers, single doses of benazepril caused an increase in renal blood flow but had no effect on glomerular filtration rate.
 Use of benazepril in combination with thiazide diuretics gives a blood-pressure-lowering effect greater than that seen with either agent alone.
 By blocking the renin-angiotensin-aldosterone axis, administration of benazepril tends to reduce the potassium loss associated with the diuretic.
-Pediatric In a clinical study of 107 pediatric patients, 7 to 16 years of age, with either systolic or diastolic pressure above the 95 th percentile, patients were given 0.1 or 0.2 mg/kg then titrated up to 0.3 or 0.6 mg/kg with a maximum dose of 40 mg once daily.
+Pediatric In a clinical study of 107 pediatric patients, 7 to 16 years of age, with either systolic or diastolic pressure above the 95th percentile, patients were given 0.1 or 0.2 mg/kg then titrated up to 0.3 or 0.6 mg/kg with a maximum dose of 40 mg once daily.
 After four weeks of treatment, the 85 patients whose blood pressure was reduced on therapy were then randomized to either placebo or benazepril and were followed up for an additional two weeks.
 At the end of two weeks, blood pressure (both systolic and diastolic) in children withdrawn to placebo rose by 4 to 6 mmHg more than in children on benazepril.
 No dose-response was observed for the three doses.
