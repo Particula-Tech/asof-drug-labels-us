@@ -68,9 +68,9 @@ Long-term studies in animals have not been performed to evaluate carcinogenic or
 ### Pregnancy Category B
 
 Reproduction studies have been performed in mice, rats, and rabbits at doses up to ten (10) times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to UNASYN.
-There are, however, no adequate and well controlled studies in pregnant women.
+There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-(See–Drug/Laboratory Test Interactions.)
+(see–PRECAUTIONS-Drug/Laboratory Test Interactions section).
 
 ## Labor and Delivery
 
@@ -85,6 +85,6 @@ Low concentrations of ampicillin and sulbactam are excreted in the milk; therefo
 
 The safety and effectiveness of UNASYN have been established for pediatric patients one year of age and older for skin and skin structure infections as approved in adults.
 Use of UNASYN in pediatric patients is supported by evidence from adequate and well-controlled studies in adults with additional data from pediatric pharmacokinetic studies, a controlled clinical trial conducted in pediatric patients and post-marketing adverse events surveillance.
-(See CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE, ADVERSE REACTIONS, DOSAGE AND ADMINISTRATION, and CLINICAL STUDIES sections.)
+(see CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE, ADVERSE REACTIONS, DOSAGE AND ADMINISTRATION, and CLINICAL STUDIES sections).
 
 The safety and effectiveness of UNASYN have not been established for pediatric patients for intra-abdominal infections.

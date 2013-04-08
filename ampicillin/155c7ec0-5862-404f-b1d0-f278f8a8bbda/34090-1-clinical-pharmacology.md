@@ -14,13 +14,13 @@ Approximately 75 to 85% of both ampicillin and sulbactam are excreted unchanged 
 Somewhat higher and more prolonged serum levels of ampicillin and sulbactam can be achieved with the concurrent administration of probenecid.
 
 In patients with impaired renal function the elimination kinetics of ampicillin and sulbactam are similarly affected, hence the ratio of one to the other will remain constant whatever the renal function.
-The dose of UNASYN in such patients should be administered less frequently in accordance with the usual practice for ampicillin (see DOSAGE and ADMINISTRATION).
+The dose of UNASYN in such patients should be administered less frequently in accordance with the usual practice for ampicillin (see DOSAGE and ADMINISTRATION section).
 
 Ampicillin has been found to be approximately 28% reversibly bound to human serum protein and sulbactam approximately 38% reversibly bound.
 
 The following average levels of ampicillin and sulbactam were measured in the tissues and fluids listed:
 
-TABLE A Concentration of UNASYN in Various Body Tissues and Fluids
+TABLE 1 Concentration of UNASYN in Various Body Tissues and Fluids
 
 | Fluid or Tissue | Dose (grams) Ampicillin/Sulbactam | Concentration (mcg/mL or mcg/g) Ampicillin/Sulbactam |
 | --- | --- | --- |

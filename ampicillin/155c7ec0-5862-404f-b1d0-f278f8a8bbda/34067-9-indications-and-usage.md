@@ -6,7 +6,7 @@ Skin and Skin Structure Infections caused by beta-lactamase producing strains of
 Klebsiella spp.
 (including K. pneumoniae), Proteus mirabilis, Bacteroides fragilis, Enterobacter spp., and Acinetobacter calcoaceticus.
 
-NOTE: For information on use in pediatric patients see PRECAUTIONS–Pediatric Use and CLINICAL STUDIES sections.
+Note: For information on use in pediatric patients see PRECAUTIONS–Pediatric Use and CLINICAL STUDIES sections.
 
 Intra-Abdominal Infections caused by beta-lactamase producing strains of Escherichia coli, Klebsiella spp.
 (including K. pneumoniae), Bacteroides spp.
@@ -20,7 +20,7 @@ Therefore, mixed infections caused by ampicillin-susceptible organisms and beta-
 
 Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify the organisms causing infection and to determine their susceptibility to UNASYN.
 
-Therapy may be instituted prior to obtaining the results from bacteriological and susceptibility studies, when there is reason to believe the infection may involve any of the beta-lactamase producing organisms listed above in the indicated organ systems.
+Therapy may be instituted prior to obtaining the results from bacteriological and susceptibility studies when there is reason to believe the infection may involve any of the beta-lactamase producing organisms listed above in the indicated organ systems.
 Once the results are known, therapy should be adjusted if appropriate.
 
 To reduce the development of drug-resistant bacteria and maintain effectiveness of UNASYN and other antibacterial drugs, UNASYN should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
