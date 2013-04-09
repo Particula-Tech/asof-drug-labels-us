@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 180 Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 180 Tablet Bottle Label
 
 NDC 24338-010-18 Rx only
 
