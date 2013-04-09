@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Myocardial Ischemia and Infarction and Other Adverse Cardiac Events
+## 5.1 Risk of Myocardial Ischemia and Infarction and/or Other Adverse Cardiac Events
 
 Cardiac Events and Fatalities with 5-HT1Agonists
 
