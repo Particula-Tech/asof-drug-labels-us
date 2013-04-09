@@ -261,6 +261,8 @@ Hemic and lymphatic: Pancytopenia
 
 Hepatobiliary disorders: Gallbladder perforation
 
+Infections and infestations: Necrotizing fasciitis, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation
+
 Musculoskeletal: Osteonecrosis of the jaw
 
 Renal: Renal thrombotic microangiopathy (manifested as severe proteinuria)

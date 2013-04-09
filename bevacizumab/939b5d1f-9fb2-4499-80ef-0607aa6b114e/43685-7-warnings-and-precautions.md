@@ -29,6 +29,10 @@ Suspend Avastin for at least 28 days prior to elective surgery.
 Do not administer Avastin until the wound is fully healed.
 [See Boxed Warning, Dosage and Administration (2.4).]
 
+Necrotizing fasciitis including fatal cases, has been reported in patients treated with Avastin; usually secondary to wound healing complications, gastrointestinal perforation or fistula formation.
+Discontinue Avastin therapy in patients who develop necrotizing fasciitis.
+[See Adverse Reactions (6.3).]
+
 ## 5.3 Hemorrhage
 
 Avastin can result in two distinct patterns of bleeding: minor hemorrhage, most commonly Grade 1 epistaxis; and serious, and in some cases fatal, hemorrhagic events.
