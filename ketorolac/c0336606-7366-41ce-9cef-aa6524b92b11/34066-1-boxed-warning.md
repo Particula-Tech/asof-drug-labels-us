@@ -32,8 +32,7 @@ TORADOL is CONTRAINDICATED as prophylactic analgesic before any major surgery.
 
 ## RISK DURING LABOR AND DELIVERY
 
-- The use of TORADOL in labor and delivery is contraindicated because it may adversely affect fetal circulation and inhibit uterine contractions.
-  The use of TORADOL is contraindicated in nursing mothers because of the potential adverse effects of prostaglandin-inhibiting drugs on neonates.
+The use of TORADOL in labor and delivery is contraindicated because it may adversely affect fetal circulation and inhibit uterine contractions.
 
 ## CONCOMITANT USE WITH NSAIDS
 

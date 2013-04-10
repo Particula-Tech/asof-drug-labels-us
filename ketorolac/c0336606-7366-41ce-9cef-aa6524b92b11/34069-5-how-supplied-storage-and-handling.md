@@ -7,4 +7,4 @@ There is a large T printed on both sides of the tablet, with TORADOL on one side
 
 Store bottles at 15° to 30°C (59° to 86°F).
 
-Package Insert Revised: December 2008
+Package Insert Revised: March 2013

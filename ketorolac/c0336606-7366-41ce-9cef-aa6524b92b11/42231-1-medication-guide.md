@@ -1,4 +1,4 @@
-## MEDICATION GUIDE FOR NONSTEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDs)
+# MEDICATION GUIDE FOR NONSTEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDs)
 
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
@@ -180,4 +180,6 @@ Distributed by:
 
 Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110-1199
 
-Copyright © 1997-2008 by Roche Laboratories Inc. All rights reserved.
+Copyright © 1997-2013 by Roche Laboratories Inc. All rights reserved.
+
+Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

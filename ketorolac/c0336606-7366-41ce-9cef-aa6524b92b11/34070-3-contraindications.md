@@ -17,8 +17,6 @@ TORADOL is contraindicated in patients with advanced renal impairment or in pati
 
 TORADOL is contraindicated in labor and delivery because, through its prostaglandin synthesis inhibitory effect, it may adversely affect fetal circulation and inhibit uterine contractions, thus increasing the risk of uterine hemorrhage.
 
-The use of TORADOL is contraindicated in nursing mothers because of the potential adverse effects of prostaglandin-inhibiting drugs on neonates.
-
 TORADOL inhibits platelet function and is, therefore, contraindicated in patients with suspected or confirmed cerebrovascular bleeding, hemorrhagic diathesis, incomplete hemostasis and those at high risk of bleeding (see WARNINGS and PRECAUTIONS).
 
 TORADOL is contraindicated in patients currently receiving aspirin or NSAIDs because of the cumulative risks of inducing serious NSAID-related adverse events.

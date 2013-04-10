@@ -51,7 +51,7 @@ Cardiovascular: arrhythmia, bradycardia, chest pain, flushing, hypotension, myoc
 
 Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell's syndrome, bullous reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis
 
-Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease)
+Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease)
 
 Hemic and Lymphatic: agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, postoperative wound hemorrhage (rarely requiring blood transfusion — see Boxed WARNING, WARNINGS, and PRECAUTIONS)
 
