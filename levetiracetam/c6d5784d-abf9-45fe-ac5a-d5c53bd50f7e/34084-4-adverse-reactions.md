@@ -156,6 +156,6 @@ The following adverse events have been identified during postapproval use of KEP
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 In addition to the adverse reactions listed above [see Adverse Reactions (6.1)], the following adverse events have been reported in patients receiving marketed KEPPRA worldwide.
-The listing is alphabetized: abnormal liver function test, choreoathetosis, dyskinesia, erythema multiforme, hepatic failure, hepatitis, leukopenia, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), Stevens-Johnson syndrome, thrombocytopenia, toxic epidermal necrolysis, and weight loss.
+The listing is alphabetized: abnormal liver function test, choreoathetosis, dyskinesia, erythema multiforme, hepatic failure, hepatitis, leukopenia, muscular weakness, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, Stevens-Johnson syndrome, thrombocytopenia, toxic epidermal necrolysis, and weight loss.
 Alopecia has been reported with KEPPRA use; recovery was observed in majority of cases where KEPPRA was discontinued.
 There have been reports of suicidal behavior (including completed suicide, suicide attempt and suicidal ideation) with marketed KEPPRA [see Patient Counseling Information (17)].

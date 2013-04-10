@@ -87,7 +87,7 @@ Table 2: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Functi
 
 KEPPRA injection was found to be physically compatible and chemically stable when mixed with the following diluents and antiepileptic drugs for at least 24 hours and stored in polyvinyl chloride (PVC) bags at controlled room temperature 15-30°C (59-86°F).
 
-Diluents Sodium chloride (0.9%) injection, USP Lactated Ringer's injection Dextrose 5% injection, USP
+Diluents Sodium chloride (0.9%) injection, USP Lactated Ringer’s injection Dextrose 5% injection, USP
 
 Other Antiepileptic Drugs Lorazepam Diazepam Valproate sodium
 

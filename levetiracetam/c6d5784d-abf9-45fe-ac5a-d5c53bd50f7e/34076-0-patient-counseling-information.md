@@ -11,7 +11,5 @@ Patients should be advised to immediately report any symptoms of depression and/
 
 KEPPRA injection manufactured for UCB, Inc. Smyrna, GA 30080
 
-KEPPRA is a registered trademark of UCB S.A. © 2011, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+KEPPRA is a registered trademark of UCB S.A. ©2012, UCB, Inc., Smyrna, GA 30080 All rights reserved.
 Printed in the U.S.A.
-
-8E

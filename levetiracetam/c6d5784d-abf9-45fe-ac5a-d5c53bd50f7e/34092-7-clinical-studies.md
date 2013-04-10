@@ -115,7 +115,7 @@ Table 11: Responder Rate (≥50% Reduction from Baseline) in Myoclonic Seizure D
 
 The effectiveness of KEPPRA as adjunctive therapy (added to other antiepileptic drugs) in patients with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 50 sites in 8 countries.
 Eligible patients on a stable dose of 1 or 2 antiepileptic drugs (AEDs) experiencing at least 3 PGTC seizures during the 8-week combined baseline period (at least one PGTC seizure during the 4 weeks prior to the prospective baseline period and at least one PGTC seizure during the 4-week prospective baseline period) were randomized to either KEPPRA or placebo.
-The 8-week combined baseline period is referred to as "baseline" in the remainder of this section.
+The 8-week combined baseline period is referred to as “baseline” in the remainder of this section.
 The population included 164 patients (KEPPRA N=80, placebo N=84) with idiopathic generalized epilepsy (predominately juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening) experiencing primary generalized tonic-clonic seizures.
 Each of these syndromes of idiopathic generalized epilepsy was well represented in this patient population.
 Patients were titrated over 4 weeks to a target dose of 3000 mg/day for adults or a pediatric target dose of 60 mg/kg/day and treated at a stable dose of 3000 mg/day (or 60 mg/kg/day for children) over 20 weeks (evaluation period).

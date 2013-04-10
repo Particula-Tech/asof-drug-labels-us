@@ -22,4 +22,4 @@ No adverse effects on male or female fertility or reproductive performance were 
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-ln animal studies, levetiracetam produced evidence of developmental toxicity at doses similar to or greater than human therapeutic doses.
+In animal studies, levetiracetam produced evidence of developmental toxicity at doses similar to or greater than human therapeutic doses.
