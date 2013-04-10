@@ -2,7 +2,7 @@
 
 ## Human Experience
 
-The most commonly reported signs and symptoms associated with CLOZARIL® (clozapine) overdose are: altered states of consciousness, including drowsiness, delirium and coma; tachycardia; hypotension; respiratory depression or failure; hypersalivation.
+The most commonly reported signs and symptoms associated with CLOZARIL (clozapine) overdose are: altered states of consciousness, including drowsiness, delirium and coma; tachycardia; hypotension; respiratory depression or failure; hypersalivation.
 Aspiration pneumonia and cardiac arrhythmias have also been reported.
 Seizures have occurred in a minority of reported cases.
 Fatal overdoses have been reported with CLOZARIL, generally at doses above 2500 mg.
@@ -22,4 +22,4 @@ Forced diuresis, dialysis, hemoperfusion and exchange transfusion are unlikely t
 In managing overdosage, the physician should consider the possibility of multiple drug involvement.
 
 Up-to-date information about the treatment of overdose can often be obtained from a certified Regional Poison Control Center.
-Telephone numbers of certified Poison Control Centers are listed in the Physicians’ Desk Reference®.**
+Telephone numbers of certified Poison Control Centers are listed in the Physicians’ Desk Reference®.

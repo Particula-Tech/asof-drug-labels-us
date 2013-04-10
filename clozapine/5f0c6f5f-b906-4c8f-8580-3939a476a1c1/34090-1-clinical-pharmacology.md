@@ -2,7 +2,7 @@
 
 ## Pharmacodynamics
 
-CLOZARIL® (clozapine) is classified as an ‘atypical’ antipsychotic drug because its profile of binding to dopamine receptors and its effects on various dopamine-mediated behaviors differ from those exhibited by more typical antipsychotic drug products.
+CLOZARIL (clozapine) is classified as an ‘atypical’ antipsychotic drug because its profile of binding to dopamine receptors and its effects on various dopamine-mediated behaviors differ from those exhibited by more typical antipsychotic drug products.
 In particular, although CLOZARIL does interfere with the binding of dopamine at D1, D2, D3 and D5 receptors, and has a high affinity for the D4 receptor, it does not induce catalepsy nor inhibit apomorphine-induced stereotypy.
 This evidence, consistent with the view that CLOZARIL is preferentially more active at limbic than at striatal dopamine receptors, may explain the relative freedom of CLOZARIL from extrapyramidal side effects.
 
@@ -18,7 +18,7 @@ Thus, CLOZARIL may be administered with or without food.
 
 Clozapine is approximately 97% bound to serum proteins.
 The interaction between CLOZARIL and other highly protein-bound drugs has not been fully evaluated but may be important.
-(See PRECAUTIONS.)
+(See PRECAUTIONS)
 
 Clozapine is almost completely metabolized prior to excretion and only trace amounts of unchanged drug are detected in the urine and feces.
 Approximately 50% of the administered dose is excreted in the urine and 30% in the feces.

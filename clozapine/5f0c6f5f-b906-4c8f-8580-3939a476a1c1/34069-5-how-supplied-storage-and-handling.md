@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-CLOZARIL® (clozapine) is available as 25 mg and 100 mg round, pale-yellow, uncoated tablets with a facilitated score on one side.
+CLOZARIL (clozapine) is available as 25 mg and 100 mg round, pale-yellow, uncoated tablets with a facilitated score on one side.
 
-## CLOZARIL® (clozapine) Tablets
+## CLOZARIL (clozapine) Tablets
 
 25 mg
 
@@ -37,7 +37,7 @@ If a patient is eligible for White Blood Cell (WBC) count and Absolute Neutrophi
 If a patient is eligible for WBC count and ANC testing every 4 weeks, then a four-week supply of CLOZARIL can be dispensed.
 Dispensing should be contingent upon the WBC count and ANC test results.
 
-*Zyprexa® (olanzapine) is a registered trademark of Eli Lilly and Company.
+*Zyprexa (olanzapine) is a registered trademark of Eli Lilly and Company.
 
 **Trademark of Thomson Healthcare, Inc.
 
@@ -47,4 +47,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2011-123 October 2011
+T2013-25 March 2013

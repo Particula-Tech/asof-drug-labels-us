@@ -1,8 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
-## Treatment-Resistant Schizophrenia
+## Switching from a previous antipsychotic therapy to CLOZARIL
 
-Upon initiation of CLOZARIL® (clozapine) therapy, up to a 1-week supply of additional CLOZARIL tablets may be provided to the patient to be held for emergencies (e.g., weather, holidays).
+It is generally recommended that CLOZARIL should not be used in combination with other antipsychotics.
+When CLOZARIL therapy is to be initiated in a patient undergoing oral antipsychotic therapy, it is recommended that the dosage of other antipsychotics be reduced or discontinued by gradually tapering it downwards.
+Based on the clinical circumstances, the prescribing physician should judge whether or not to discontinue the other antipsychotic therapy before initiating treatment with CLOZARIL.
+
+Treatment-Resistant Schizophrenia
+
+Upon initiation of CLOZARIL (clozapine) therapy, up to a 1-week supply of additional CLOZARIL tablets may be provided to the patient to be held for emergencies (e.g., weather, holidays).
 
 Initial Treatment:
 
@@ -37,7 +43,7 @@ Because of the significant risk associated with the use of CLOZARIL, patients sh
 Discontinuation of Treatment:
 
 In the event of planned termination of CLOZARIL therapy, gradual reduction in dose is recommended over a 1-2-week period.
-However, should a patient’s medical condition require abrupt discontinuation (e.g., leukopenia), the patient should be carefully observed for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as headache, nausea, vomiting, and diarrhea.
+However, should a patient’s medical condition require abrupt discontinuation (e.g., leukopenia), the patient should be carefully observed for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as headache, nausea, vomiting, and diarrhea (see Precautions).
 
 Reinitiation of Treatment in Patients Previously Discontinued:
 

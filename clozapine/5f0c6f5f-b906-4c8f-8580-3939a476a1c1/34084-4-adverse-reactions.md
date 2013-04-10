@@ -2,7 +2,7 @@
 
 ## Associated with Discontinuation of Treatment
 
-Sixteen percent of 1,080 patients who received CLOZARIL® (clozapine) in premarketing clinical trials discontinued treatment due to an adverse event, including both those that could be reasonably attributed to CLOZARIL treatment and those that might more appropriately be considered intercurrent illness.
+Sixteen percent of 1,080 patients who received CLOZARIL (clozapine) in premarketing clinical trials discontinued treatment due to an adverse event, including both those that could be reasonably attributed to CLOZARIL treatment and those that might more appropriately be considered intercurrent illness.
 The more common events considered to be causes of discontinuation included: CNS, primarily drowsiness/sedation, seizures, dizziness/syncope; cardiovascular, primarily tachycardia, hypotension and ECG changes; gastrointestinal, primarily nausea/vomiting; hematologic, primarily leukopenia/ granulocytopenia/ agranulocytosis; and fever.
 None of the events enumerated accounts for more than 1.7% of all discontinuations attributed to adverse clinical events.
 
@@ -18,7 +18,7 @@ Clozapine, an atypical antipsychotic, is associated with a low incidence of dyst
 
 ## Commonly Observed
 
-Adverse events observed in association with the use of CLOZARIL in clinical trials at an incidence of greater than 5% were: central nervous system complaints, including drowsiness/sedation, dizziness/vertigo, headache and tremor; autonomic nervous system complaints, including salivation, sweating, dry mouth and visual disturbances; cardiovascular findings, including tachycardia, hypotension and syncope; and gastrointestinal complaints, including constipation and nausea; and fever.
+Adverse events observed in association with the use of CLOZARIL in clinical trials at an incidence of greater than 5% were: central nervous system complaints, including drowsiness/sedation, dizziness/vertigo, headache, and tremor; autonomic nervous system complaints, including salivation, sweating, dry mouth, and visual disturbances; cardiovascular findings, including tachycardia, hypotension, and syncope; and gastrointestinal complaints, including constipation and nausea; and fever.
 Complaints of drowsiness/sedation tend to subside with continued therapy or dose reduction.
 Salivation may be profuse, especially during sleep, but may be diminished with dose reduction.
 
@@ -27,7 +27,7 @@ Salivation may be profuse, especially during sleep, but may be diminished with d
 The following table enumerates adverse events that occurred at a frequency of 1% or greater among CLOZARIL patients who participated in clinical trials.
 These rates are not adjusted for duration of exposure.
 
-Treatment-Emergent Adverse Experience Incidence Among Patients Taking CLOZARIL® (clozapine) in Clinical Trials (excluding the InterSePT™ Study) (N = 842) (Percentage of Patients Reporting)
+Treatment-Emergent Adverse Experience Incidence Among Patients Taking CLOZARIL (clozapine) in Clinical Trials (excluding the InterSePT Study) (N = 842) (Percentage of Patients Reporting)
 
 | Body System Adverse Eventa | Percent |
 | --- | --- |
@@ -106,11 +106,9 @@ Treatment-Emergent Adverse Experience Incidence Among Patients Taking CLOZARIL®
 The following table enumerates adverse events that occurred at a frequency of 10% for either treatment group in patients who took at least 1 dose of study medication during their participation in InterSePT, which was an adequate and well-controlled 2-year study evaluating the efficacy of CLOZARIL relative to Zyprexa in reducing the risk of emergent suicidal behavior in patients with schizophrenia or schizoaffective disorder.
 These rates are not adjusted for duration of exposure.
 
-Treatment-Emergent Adverse Experience Incidence1 Among Patients Taking CLOZARIL® (clozapine) or Zyprexa® (olanzapine) in the InterSePT™ Study (Percentage of Patients Reporting)
+Treatment-Emergent Adverse Experience Incidence1 Among Patients Taking CLOZARIL (clozapine) or Zyprexa (olanzapine) in the InterSePT Study (Percentage of Patients Reporting)
 
-Treatment-Emergent Adverse Experience Incidence Among Patients Taking CLOZARIL® (clozapine) in Clinical Trials (excluding the InterSePT™ Study) (N = 842) (Percentage of Patients Reporting)
-
-|  | Clozaril® N=479 % Reporting | Zyprexa® N=477 % Reporting |
+|  | Clozaril N=479 % Reporting | Zyprexa N=477 % Reporting |
 | --- | --- | --- |
 | Adverse Events |  |  |
 | Salivary hypersecretion | 48% | 6% |
@@ -126,7 +124,7 @@ Treatment-Emergent Adverse Experience Incidence Among Patients Taking CLOZARIL®
 | NEC - not elsewhere classified |  |  |
 | NOS - not otherwise specified |  |  |
 
-## Other Events Observed During the Premarketing Evaluation of CLOZARIL® (clozapine)
+## Other Events Observed During the Premarketing Evaluation of CLOZARIL (clozapine)
 
 This section reports additional, less frequent adverse events which occurred among the patients taking CLOZARIL in clinical trials.
 Various adverse events were reported as part of the total experience in these clinical studies; a causal relationship to CLOZARIL treatment cannot be determined in the absence of appropriate controls in some of the studies.
@@ -155,22 +153,18 @@ Miscellaneous: chills/chills with fever, malaise, appetite increase, ear disorde
 
 ## Postmarketing Clinical Experience
 
-Postmarketing experience has shown an adverse experience profile similar to that presented above.
-Voluntary reports of adverse events temporally associated with CLOZARIL not mentioned above that have been received since market introduction and that may have no causal relationship with the drug include the following:
+The following adverse reactions have been identified during post-approval use of CLOZARIL.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central Nervous System: delirium; EEG abnormal; exacerbation of psychosis; myoclonus; overdose; paresthesia; possible mild cataplexy, and status epilepticus, and obsessive compulsive symptoms.
+Central Nervous System: delirium, cholinergic syndrome, EEG abnormal; exacerbation of psychosis, myoclonus, overdose, paresthesia, possible mild cataplexy, status epilepticus, and obsessive compulsive symptoms.
 
-Cardiovascular System: atrial or ventricular fibrillation and periorbital edema.
+Cardiovascular System: atrial or ventricular fibrillation, myocardial infarction, ventricular tachycardia, cardiac arrest, QT interval prolongation, Torsades de Pointes, and periorbital edema.
 
-Ventricular tachycardia, cardiac arrest, QT prolongation, and Torsades de Pointes.
+Gastrointestinal System: acute pancreatitis, dysphagia, fecal impaction, intestinal obstruction/paralytic ileus, and salivary gland swelling.
 
-Gastrointestinal System: acute pancreatitis; dysphagia; fecal impaction; intestinal obstruction/paralytic ileus; and salivary gland swelling.
+Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 
-Hepatobiliary System: cholestasis; hepatitis; jaundice.
-
-Hepatic System: cholestasis.
-
-Urogenital System: acute interstitial nephritis and priapism.
+Urogenital System: acute interstitial nephritis, priapism, and renal failure.
 
 Integumentary (Skin): hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
 
@@ -178,7 +172,7 @@ Metabolic and Nutritional Disorders: hypercholesterolemia, hypertriglyceridemia 
 
 Musculoskeletal System: myasthenic syndrome and rhabdomyolysis.
 
-Respiratory System: aspiration, pleural effusion, and pneumonia and lower respiratory tract infection which may be fatal.
+Respiratory System: aspiration, pleural effusion, pneumonia, and lower respiratory tract infection which may be fatal.
 
 Hemic and Lymphatic System: deep vein thrombosis; elevated hemoglobin/hematocrit; ESR increased; pulmonary embolism; sepsis; thrombocytosis; and thrombocytopenia.
 

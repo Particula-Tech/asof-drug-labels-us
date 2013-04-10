@@ -5,54 +5,54 @@
 INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
 
 ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS TREATED WITH ANTIPSYCHOTIC DRUGS ARE AT AN INCREASED RISK OF DEATH.
-CLOZARIL® (clozapine) IS NOT APPROVED FOR THE TREATMENT OF PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS (SEE BOXED WARNING).
+CLOZARIL (clozapine) IS NOT APPROVED FOR THE TREATMENT OF PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS (SEE BOXED WARNING).
 
 AGRANULOCYTOSIS
 
-BECAUSE OF THE SIGNIFICANT RISK OF AGRANULOCYTOSIS, A POTENTIALLY LIFE-THREATENING ADVERSE EVENT (SEE FOLLOWING), CLOZARIL® (clozapine) SHOULD BE RESERVED FOR USE IN THE FOLLOWING INDICATIONS: 1) FOR TREATMENT OF SEVERELY ILL SCHIZOPHRENIC PATIENTS WHO FAIL TO SHOW AN ACCEPTABLE RESPONSE TO ADEQUATE COURSES OF STANDARD DRUG TREATMENT FOR SCHIZOPHRENIA, EITHER BECAUSE OF INSUFFICIENT EFFECTIVENESS OR THE INABILITY TO ACHIEVE AN EFFECTIVE DOSE DUE TO INTOLERABLE ADVERSE EFFECTS FROM THOSE DRUGS.
-CONSEQUENTLY, BEFORE INITIATING TREATMENT WITH CLOZARIL® (clozapine); IT IS STRONGLY RECOMMENDED THAT A PATIENT BE GIVEN AT LEAST 2 TRIALS, EACH WITH A DIFFERENT STANDARD DRUG PRODUCT FOR SCHIZOPHRENIA, AT AN ADEQUATE DOSE, AND FOR AN ADEQUATE DURATION.
+BECAUSE OF THE SIGNIFICANT RISK OF AGRANULOCYTOSIS, A POTENTIALLY LIFE-THREATENING ADVERSE EVENT (SEE FOLLOWING), CLOZARIL (clozapine) SHOULD BE RESERVED FOR USE IN THE FOLLOWING INDICATIONS: 1) FOR TREATMENT OF SEVERELY ILL SCHIZOPHRENIC PATIENTS WHO FAIL TO SHOW AN ACCEPTABLE RESPONSE TO ADEQUATE COURSES OF STANDARD DRUG TREATMENT FOR SCHIZOPHRENIA, EITHER BECAUSE OF INSUFFICIENT EFFECTIVENESS OR THE INABILITY TO ACHIEVE AN EFFECTIVE DOSE DUE TO INTOLERABLE ADVERSE EFFECTS FROM THOSE DRUGS.
+CONSEQUENTLY, BEFORE INITIATING TREATMENT WITH CLOZARIL (clozapine), IT IS STRONGLY RECOMMENDED THAT A PATIENT BE GIVEN AT LEAST 2 TRIALS, EACH WITH A DIFFERENT STANDARD DRUG PRODUCT FOR SCHIZOPHRENIA, AT AN ADEQUATE DOSE, AND FOR AN ADEQUATE DURATION.
 2) FOR REDUCING THE RISK FOR RECURRENT SUICIDAL BEHAVIOR IN PATIENTS WITH SCHIZOPHRENIA OR SCHIZOAFFECTIVE DISORDER WHO ARE JUDGED TO BE AT RISK OF REEXPERIENCING SUICIDAL BEHAVIOR.
 
-CLOZARIL® (clozapine) IS AVAILABLE ONLY THROUGH A DISTRIBUTION SYSTEM THAT ENSURES MONITORING OF WHITE BLOOD CELL (WBC) COUNT AND ABSOLUTE NEUTROPHIL COUNT (ANC) ACCORDING TO THE SCHEDULE DESCRIBED BELOW PRIOR TO DELIVERY OF THE NEXT SUPPLY OF MEDICATION.
+CLOZARIL (clozapine) IS AVAILABLE ONLY THROUGH A DISTRIBUTION SYSTEM THAT ENSURES MONITORING OF WHITE BLOOD CELL (WBC) COUNT AND ABSOLUTE NEUTROPHIL COUNT (ANC) ACCORDING TO THE SCHEDULE DESCRIBED BELOW PRIOR TO DELIVERY OF THE NEXT SUPPLY OF MEDICATION.
 
-AS DESCRIBED IN TABLE 1, PATIENTS WHO ARE BEING TREATED WITH CLOZARIL® (clozapine) MUST HAVE A BASELINE WBC COUNT AND ANC BEFORE INITIATION OF TREATMENT, AND A WBC COUNT AND ANC EVERY WEEK FOR THE FIRST 6 MONTHS.
+AS DESCRIBED IN TABLE 1, PATIENTS WHO ARE BEING TREATED WITH CLOZARIL (clozapine) MUST HAVE A BASELINE WBC COUNT AND ANC BEFORE INITIATION OF TREATMENT, AND A WBC COUNT AND ANC EVERY WEEK FOR THE FIRST 6 MONTHS.
 THEREAFTER, IF ACCEPTABLE WBC COUNTS AND ANC (WBC ≥3500/mm3 and ANC ≥2000/mm3) HAVE BEEN MAINTAINED DURING THE FIRST 6 MONTHS OF CONTINUOUS THERAPY, WBC COUNTS AND ANC CAN BE MONITORED EVERY 2 WEEKS FOR THE NEXT 6 MONTHS.
 THEREAFTER, IF ACCEPTABLE WBC COUNTS AND ANC (WBC ≥3500/mm3 and ANC ≥2000/mm3) HAVE BEEN MAINTAINED DURING THE SECOND 6 MONTHS OF CONTINUOUS THERAPY, WBC COUNT AND ANC CAN BE MONITORED EVERY 4 WEEKS.
 
-WHEN TREATMENT WITH CLOZARIL® (clozapine) IS DISCONTINUED (REGARDLESS OF THE REASON), WBC COUNT AND ANC MUST BE MONITORED WEEKLY FOR AT LEAST 4 WEEKS FROM THE DAY OF DISCONTINUATION OR UNTIL WBC ≥3500/mm3 AND ANC ≥2000/mm3.
+WHEN TREATMENT WITH CLOZARIL (clozapine) IS DISCONTINUED (REGARDLESS OF THE REASON), WBC COUNT AND ANC MUST BE MONITORED WEEKLY FOR AT LEAST 4 WEEKS FROM THE DAY OF DISCONTINUATION OR UNTIL WBC ≥3500/mm3 AND ANC ≥2000/mm3.
 
 ## Agranulocytosis
 
 Background
 
-Agranulocytosis, defined as an ANC of less than 500/mm3, has been estimated to occur in association with CLOZARIL® (clozapine) use at a cumulative incidence at 1 year of approximately 1.3%, based on the occurrence of 15 U.S. cases out of 1,743 patients exposed to CLOZARIL® (clozapine) during its clinical testing prior to domestic marketing.
+Agranulocytosis, defined as an ANC of less than 500/mm3, has been estimated to occur in association with CLOZARIL (clozapine) use at a cumulative incidence at 1 year of approximately 1.3%, based on the occurrence of 15 U.S. cases out of 1,743 patients exposed to CLOZARIL (clozapine) during its clinical testing prior to domestic marketing.
 All of these cases occurred at a time when the need for close monitoring of WBC counts was already recognized.
 Agranulocytosis could prove fatal if not detected early and therapy interrupted.
-Of the 149 cases of agranulocytosis reported world wide in association with CLOZARIL® (clozapine) use as of December 31, 1989, 32% were fatal.
-However, few of these deaths occurred since 1977, at which time the knowledge of CLOZARIL® (clozapine)-induced agranulocytosis became more widespread, and close monitoring of WBC counts more widely practiced.
-In the U.S., under a weekly WBC count monitoring system with CLOZARIL® (clozapine), there have been 585 cases of agranulocytosis as of August 21, 1997; 19 were fatal (3%).
-During this period 150,409 patients received CLOZARIL® (clozapine).
-A hematologic risk analysis was conducted based upon the available information in the Clozaril® National Registry (CNR) for U.S. patients.
+Of the 149 cases of agranulocytosis reported world wide in association with CLOZARIL (clozapine) use as of December 31, 1989, 32% were fatal.
+However, few of these deaths occurred since 1977, at which time the knowledge of CLOZARIL (clozapine)-induced agranulocytosis became more widespread, and close monitoring of WBC counts more widely practiced.
+In the U.S., under a weekly WBC count monitoring system with CLOZARIL (clozapine), there have been 585 cases of agranulocytosis as of August 21, 1997; 19 were fatal (3%).
+During this period 150,409 patients received CLOZARIL (clozapine).
+A hematologic risk analysis was conducted based upon the available information in the Clozaril National Registry (CNR) for U.S. patients.
 Based upon a cut-off date of April 30, 1995, the incidence rates of agranulocytosis based upon a weekly monitoring schedule, rose steeply during the first two months of therapy, peaking in the third month.
-Among CLOZARIL® (clozapine) patients who continued the drug beyond the third month, the weekly incidence of agranulocytosis fell to a substantial degree.
+Among CLOZARIL (clozapine) patients who continued the drug beyond the third month, the weekly incidence of agranulocytosis fell to a substantial degree.
 After 6 months, the weekly incidence of agranulocytosis declines still further, however, it never reaches zero.
 It should be noted that any type of reduction in the frequency of monitoring WBC counts may result in an increased incidence of agranulocytosis.
 
 Risk Factors
 
-Experience from clinical development, as well as from examples in the medical literature, suggest that patients who have developed agranulocytosis during CLOZARIL® (clozapine) therapy are at increased risk of subsequent episodes of agranulocytosis.
-Analysis of WBC count data from the Clozaril® National Registry also suggests that patients who have an initial episode of moderate leukopenia (3000/mm3 >WBC ≥2000/mm3) are at an increased risk of subsequent episodes of agranulocytosis.
-Except for bone marrow suppression during initial CLOZARIL® (clozapine) therapy, there are no other established risk factors, based on worldwide experience, for the development of agranulocytosis in association with CLOZARIL® (clozapine) use.
-However, a disproportionate number of the U.S. cases of agranulocytosis occurred in patients of Jewish background compared to the overall proportion of such patients exposed during domestic development of CLOZARIL® (clozapine).
+Experience from clinical development, as well as from examples in the medical literature, suggest that patients who have developed agranulocytosis during CLOZARIL (clozapine) therapy are at increased risk of subsequent episodes of agranulocytosis.
+Analysis of WBC count data from the Clozaril National Registry also suggests that patients who have an initial episode of moderate leukopenia (3000/mm3 >WBC ≥2000/mm3) are at an increased risk of subsequent episodes of agranulocytosis.
+Except for bone marrow suppression during initial CLOZARIL (clozapine) therapy, there are no other established risk factors, based on worldwide experience, for the development of agranulocytosis in association with CLOZARIL (clozapine) use.
+However, a disproportionate number of the U.S. cases of agranulocytosis occurred in patients of Jewish background compared to the overall proportion of such patients exposed during domestic development of CLOZARIL (clozapine).
 Most of the U.S. cases of agranulocytosis occurred within 4-10 weeks of exposure but neither dose nor duration is a reliable predictor of this problem.
-Agranulocytosis associated with other antipsychotic drugs has been reported to occur with a greater frequency in women, the elderly, and in patients who are cachectic or have a serious underlying medical illness; such patients may also be at particular risk with CLOZARIL® (clozapine), although this has not been definitely demonstrated.
+Agranulocytosis associated with other antipsychotic drugs has been reported to occur with a greater frequency in women, the elderly, and in patients who are cachectic or have a serious underlying medical illness; such patients may also be at particular risk with CLOZARIL (clozapine), although this has not been definitely demonstrated.
 
 WBC Count and ANC Monitoring Schedule
 
 Table 1 provides a summary of the frequency of monitoring that should occur based on various stages of therapy (e.g., initiation of therapy) or results from WBC count and ANC monitoring tests (e.g., moderate leukopenia).
 The text that follows should be consulted for additional details regarding the treatment of patients under the various conditions (e.g., severe leukopenia).
 
-Patients should be advised to report immediately the appearance of lethargy, weakness, fever, sore throat or any other signs of infection occurring at any time during CLOZARIL® (clozapine) therapy.
+Patients should be advised to report immediately the appearance of lethargy, weakness, fever, sore throat or any other signs of infection which may be indicative of neutropenia occurring at any time during CLOZARIL (clozapine) therapy.
 Such patients should have a WBC count and ANC performed promptly.
 
 Table 1.
@@ -60,7 +60,7 @@ Frequency of Monitoring based on Stage of Therapy or Results from WBC Count and 
 
 | Situation | Hematological Values for Monitoring | Frequency of WBC and ANC Monitoring |
 | --- | --- | --- |
-| Initiation of therapy | WBC ≥3500/mm3 ANC ≥2000/mm3 Note: Do not initiate in patients with 1) history of myeloproliferative disorder or 2) Clozaril® (clozapine) induced agranulocytosis or granulocytopenia | Weekly for 6 months |
+| Initiation of therapy | WBC ≥3500/mm3 ANC ≥2000/mm3 Note: Do not initiate in patients with 1) history of myeloproliferative disorder or 2) Clozaril (clozapine) induced agranulocytosis or granulocytopenia | Weekly for 6 months |
 | 6 months – 12 months of therapy | All results for WBC ≥3500/mm3 and ANC ≥2000/mm3 | Every 2 weeks for 6 months |
 | 12 months of therapy | All results for WBC ≥3500/mm3 and ANC ≥2000/mm3 | Every 4 weeks ad infinitum |
 | Immature forms present | N/A | Repeat WBC and ANC |
@@ -79,20 +79,20 @@ Additionally, patients should be carefully monitored for flu-like symptoms or ot
 
 Nonrechallengeable Patients
 
-If the total WBC count falls below 2000/mm3 or the ANC falls below 1000/mm3, bone marrow aspiration should be considered to ascertain granulopoietic status and patients should not be rechallenged with CLOZARIL® (clozapine).
+If the total WBC count falls below 2000/mm3 or the ANC falls below 1000/mm3, bone marrow aspiration should be considered to ascertain granulopoietic status and patients should not be rechallenged with CLOZARIL (clozapine).
 Protective isolation with close observation may be indicated if granulopoiesis is determined to be deficient.
 Should evidence of infection develop, the patient should have appropriate cultures performed and an appropriate antibiotic regimen instituted.
 
-Patients discontinued from CLOZARIL® (clozapine) therapy due to significant granulopoietic suppression have been found to develop agranulocytosis upon rechallenge, often with a shorter latency on reexposure.
-To reduce the chances of rechallenge occurring in patients who have experienced significant bone marrow suppression during CLOZARIL® (clozapine) therapy, a single, national master file (i.e., Nonrechallengeable Database) is maintained confidentially.
+Patients discontinued from CLOZARIL (clozapine) therapy due to significant granulopoietic suppression have been found to develop agranulocytosis upon rechallenge, often with a shorter latency on reexposure.
+To reduce the chances of rechallenge occurring in patients who have experienced significant bone marrow suppression during CLOZARIL (clozapine) therapy, a single, national master file (i.e., Nonrechallengeable Database) is maintained confidentially.
 
 Treatment of Rechallengeable Patients
 
-Patients may be rechallenged with CLOZARIL® (clozapine) if their WBC count does not fall below 2000/mm3 and the ANC does not fall below 1000/mm3.
-However, analysis of data from the Clozaril® National Registry suggests that patients who have an initial episode of moderate leukopenia (3000/mm3>WBC≥2000/mm3) have up to a 12-fold increased risk of having a subsequent episode of agranulocytosis when rechallenged compared to the full cohort of patients treated with CLOZARIL® (clozapine).
-Although CLOZARIL® (clozapine) therapy may be resumed if no symptoms of infection develop, and when the WBC count rises above 3500/mm3 and the ANC rises above 2000/mm3, prescribers are strongly advised to consider whether the benefit of continuing CLOZARIL® (clozapine) treatment outweighs the increased risk of agranulocytosis.
+Patients may be rechallenged with CLOZARIL (clozapine) if their WBC count does not fall below 2000/mm3 and the ANC does not fall below 1000/mm3.
+However, analysis of data from the Clozaril National Registry suggests that patients who have an initial episode of moderate leukopenia (3000/mm3>WBC≥2000/mm3) have up to a 12-fold increased risk of having a subsequent episode of agranulocytosis when rechallenged compared to the full cohort of patients treated with CLOZARIL (clozapine).
+Although CLOZARIL (clozapine) therapy may be resumed if no symptoms of infection develop, and when the WBC count rises above 3500/mm3 and the ANC rises above 2000/mm3, prescribers are strongly advised to consider whether the benefit of continuing CLOZARIL (clozapine) treatment outweighs the increased risk of agranulocytosis.
 
-Analyses of the Clozaril® National Registry have shown an increased risk of having a subsequent episode of granulopoietic suppression up to a year after recovery from the initial episode.
+Analyses of the Clozaril National Registry have shown an increased risk of having a subsequent episode of granulopoietic suppression up to a year after recovery from the initial episode.
 Therefore, as noted in Table 1 above, patients must undergo weekly WBC count and ANC monitoring for one year following recovery from an episode of moderate leukopenia and/or moderate granulocytopenia regardless of when the episode develops.
 If acceptable WBC counts and ANC (WBC ≥3500/mm3 and ANC ≥2000/mm3) have been maintained during the year of weekly monitoring, WBC counts can be monitored every 2 weeks for the next 6 months.
 If acceptable WBC counts and ANC (WBC ≥3500/mm3 and ANC ≥2000/mm3) continue to be maintained during the 6 months of every 2 week monitoring, WBC counts can be monitored every 4 weeks thereafter, ad infinitum.
@@ -121,7 +121,7 @@ These reports represent an incidence of 5.0, 16.3, 43.2, and 96.6 cases/100,000 
 The number of fatalities represent an incidence of 2.8, 2.3, 11.5, and 32.2 cases/100,000 patient-years, respectively.
 
 The overall incidence rate of myocarditis in patients with schizophrenia treated with antipsychotic agents is unknown.
-However, for the established market economies (WHO), the incidence of myocarditis is 0.3 cases/100,000 patient-years and the fatality rate is 0.2 cases/100,000 patient-years.
+However, for the established market economies (World Health Organization), the incidence of myocarditis is 0.3 cases/100,000 patient-years and the fatality rate is 0.2 cases/100,000 patient-years.
 Therefore, the rate of myocarditis in clozapine-treated patients appears to be 17-322 times greater than the general population and is associated with an increased risk of fatal myocarditis that is 14-161 times greater than the general population.
 
 The total reports of myocarditis for these four countries was 82 of which 51 (62%) occurred within the first month of clozapine treatment, 25 (31%) occurred after the first month of therapy and 6 (7%) were unknown.
@@ -138,16 +138,16 @@ Therefore, tachycardia during the first month of therapy warrants close monitori
 Prompt discontinuation of CLOZARIL treatment is warranted upon suspicion of myocarditis.
 Patients with clozapine-related myocarditis should not be rechallenged with CLOZARIL.
 
-QT Prolongation
+QT Interval Prolongation
 
 QT prolongation is associated with an increased risk for life-threatening ventricular arrhythmias including Torsades de Pointes.
-Treatment with CLOZARIL has been associated with QT prolongation as well as ventricular arrthymia, Torsades de Pointes, cardiac arrest, and sudden death.
+Treatment with CLOZARIL has been associated with QT prolongation as well as ventricular arrhythmia, Torsades de Pointes, cardiac arrest, and sudden death.
 
 Caution should be exercised when CLOZARIL is prescribed in patients with a history of long QT syndrome or QT prolongation, or other conditions that may increase their risk for QT prolongation or sudden death, including recent acute myocardial infarction, uncompensated heart failure, or clinically significant cardiac arrhythmia.
 Caution is also indicated when treating patients with cardiovascular disease or family history of long QT syndrome.
 
 Caution should be exercised when CLOZARIL is used in combination with other medications known to prolong the QTc interval.
-These include antipsychotic medication (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), antiarrhythmic medication in Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) (see DRUG INTERACTIONS).
+These include antipsychotic medication (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), antiarrhythmic medication in Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) (see PRECAUTIONS, Drug Interactions).
 
 Hypokalemia, (which can result from diuretic therapy, diarrhea, and other causes), and/or hypomagnesemia can also increase the risk of QT prolongation.
 Use caution when treating patients at risk for significant electrolyte disturbance, particularly hypokalemia.
@@ -161,7 +161,7 @@ Patients taking CLOZARIL who experience symptoms that could indicate the occurre
 
 Use caution when prescribing CLOZARIL concomitantly with drugs that inhibit the metabolism of CLOZARIL.
 CLOZARIL is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
-Use caution when prescribing CLOZARIL in patients with reduced activity of 1A2, 2D6, and 3A4 (see DRUG INTERACTIONS AND CLINICAL PHARMACOLOGY).
+Use caution when prescribing CLOZARIL in patients with reduced activity of 1A2, 2D6, and 3A4 (see PRECAUTIONS, Drug Interactions, and CLINICAL PHARMACOLOGY).
 
 ## Other Adverse Cardiovascular and Respiratory Effects
 
@@ -182,11 +182,17 @@ Either tachycardia or hypotension may pose a serious risk for an individual with
 A minority of CLOZARIL-treated patients experience ECG repolarization changes similar to those seen with other antipsychotic drugs, including S-T segment depression and flattening or inversion of T waves, which all normalize after discontinuation of CLOZARIL.
 The clinical significance of these changes is unclear.
 However, in clinical trials with CLOZARIL, several patients experienced significant cardiac events, including ischemic changes, myocardial infarction, arrhythmias and sudden death.
-In addition, there have been postmarketing reports of congestive heart failure, pericarditis, and pericardial effusions.
+In addition, there have been postmarketing reports of congestive heart failure, pericarditis, pericardial effusions, and myocardial infarction which may be fatal.
 Causality assessment was difficult in many of these cases because of serious preexisting cardiac disease and plausible alternative causes.
 Rare instances of sudden death have been reported in psychiatric patients, with or without associated antipsychotic drug treatment, and the relationship of these events to antipsychotic drug use is unknown.
 
 CLOZARIL should be used with caution in patients with known cardiovascular and/or pulmonary disease, and the recommendation for gradual titration of dose should be carefully observed.
+
+Metabolic Changes
+
+Atypical antipsychotic drugs, including CLOZARIL have been associated with metabolic changes that may increase cardiovascular/cerebrovascular risk.
+These metabolic changes may include hyperglycemia, dyslipidemia, and body weight gain.
+While atypical antipsychotic drugs may produce some metabolic changes, each drug in the class has its own specific risk profile.
 
 ## Hyperglycemia and Diabetes Mellitus
 
@@ -201,6 +207,96 @@ Patients with risk factors for diabetes mellitus (e.g., obesity, family history 
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
+
+In a pooled data analysis of 8 studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the CLOZARIL and chlorpromazine groups were +11 mg/dL and +4 mg/dL respectively.
+A higher proportion of the CLOZARIL group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 2).
+The CLOZARIL doses were 100-900 mg per day (mean modal dose: 512 mg per day).
+The maximum chlorpromazine dose was 1800 mg per day (mean modal dose: 1029 mg per day).
+The median duration of exposure was 42 days for CLOZARIL and chlorpromazine.
+
+Table 2.
+Categorical Changes in Fasting Glucose Level in Studies in Adult Subjects with Schizophrenia
+
+| Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
+| --- | --- | --- | --- | --- |
+| Fasting Glucose | Normal (<100 mg/dL) to High (≥126 mg/dL) | CLOZARIL | 198 | 53 (27) |
+| Chlorpromazine | 135 | 14 (10) |  |  |
+| Borderline (100 to 125 mg/dL) to High (≥126 mg/dL) | CLOZARIL | 57 | 24 (42) |  |
+| Chlorpromazine | 43 | 12 (28) |  |  |
+
+Dyslipidemia
+
+Undesirable alterations in lipids have occurred in patients treated with atypical antipsychotics, including CLOZARIL.
+Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using CLOZARIL is recommended.
+
+In a pooled data analysis of 10 studies in adult subjects with schizophrenia, CLOZARIL treatment was associated with increases in serum total cholesterol.
+No data were collected on LDL and HDL cholesterol.
+The mean increase in total cholesterol was 13 mg/dL in the CLOZARIL group and 15 mg/dL in the chlorpromazine group.
+In a pooled data analysis of 2 studies in adult subjects with schizophrenia, CLOZARIL treatment was associated with increases in fasting serum triglyceride.
+The mean increase in fasting triglyceride was 71 mg/dL (54%) in the CLOZARIL group and 39 mg/dL (35%) in the chlorpromazine group (Table 3).
+In addition, CLOZARIL treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 4.The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
+The median duration of clozapine and chlorpromazine exposure was 45 days and 38 days, respectively.
+The CLOZARIL dose range was 100 mg to 900 mg daily; the maximum chlorpromazine dose was 1800 mg daily.
+
+Table 3.
+Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in Adult Subjects with Schizophrenia
+
+| Treatment Arm | Baseline total cholesterol concentration (mg/dL) | Change from baseline mg/dL (%) |
+| --- | --- | --- |
+| CLOZARIL (N=334) | 184 | +13 (7) |
+| Chlorpromazine (185) | 182 | +15 (8) |
+|  | Baseline triglyceride concentration (mg/dL) | Change from baseline mg/dL (%) |
+| CLOZARIL (N=6) | 130 | +71 (54) |
+| Chlorpromazine (N=7) | 110 | +39 (35) |
+
+Table 4.
+Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Schizophrenia
+
+| Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
+| --- | --- | --- | --- | --- |
+| Total Cholesterol (random or fasting) | Increase by ≥40 mg/dL | CLOZARIL | 334 | 111 (33) |
+| Chlorpromazine | 185 | 46 (25) |  |  |
+| Normal (<200 mg/dL) to High (≥240 mg/dL) | CLOZARIL | 222 | 18 (8) |  |
+| Chlorpromazine | 132 | 3 (2) |  |  |
+| Borderline (200-239 mg/dL) to High (≥240 mg/dL) | CLOZARIL | 79 | 30 (38) |  |
+| Chlorpromazine | 34 | 14 (41) |  |  |
+| Triglycerides (fasting) | Increase by ≥50 mg/dL | CLOZARIL | 6 | 3 (50) |
+| Chlorpromazine | 7 | 3(43) |  |  |
+| Normal (<150 mg/dL) to High (≥200 mg/dL) | CLOZARIL | 4 | 0 (0) |  |
+| Chlorpromazine | 6 | 2 (33) |  |  |
+| Borderline (≥150 mg/dL and <200 mg/dL) to High (≥200 mg/dL) | CLOZARIL | 1 | 1 (100) |  |
+| Chlorpromazine | 1 | 0 (0) |  |  |
+
+Weight Gain
+
+Weight gain has occurred with the use of antipsychotics, including clozapine.
+Monitor weight during treatment with CLOZARIL.
+Table 5 summarizes the data on weight gain by the duration of exposure pooled from 11 studies with CLOZARIL and active comparators.
+The median duration of exposure was 609, 728, and 42 days, in the CLOZARIL, olanzapine, and chlorpromazine group, respectively.
+
+Table 5.
+Mean Change in Body Weight (kg) by duration of exposure from studies in adult subjects with schizophrenia
+
+| Metabolic parameter | Exposure duration | CLOZARIL (N=669) |  | Olanzapine (N=442) |  | Chlorpromazine (N=155) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| n | Mean | n | Mean | n | Mean |  |  |
+| Weight change from baseline | 2 weeks (Day 11–17) | 6 | 0.9 | 3 | 0.7 | 2 | -0.5 |
+| 4 weeks (Day 21–35) | 23 | 0.7 | 8 | 0.8 | 17 | 0.6 |  |
+| 8 weeks (Day 49–63) | 12 | 1.9 | 13 | 1.8 | 16 | 0.9 |  |
+| 12 weeks (Day 70–98) | 17 | 2.8 | 5 | 3.1 | 0 | 0 |  |
+| 24 weeks (154–182) | 42 | - 0.6 | 12 | 5.7 | 0 | 0 |  |
+| 48 weeks (Day 322–350) | 3 | 3.7 | 3 | 13.7 | 0 | 0 |  |
+
+Table 6 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥7% of body weight relative to baseline.
+The median duration of exposure was 609, 728, and 42 days, in the CLOZARIL, olanzapine, and chlorpromazine group, respectively.
+
+Table 6.
+Proportion of adult subjects in schizophrenia studies with weight gain ≥7% relative to baseline body weight
+
+| Weight change | CLOZARIL | Olanzapine | Chlorpromazine |
+| --- | --- | --- | --- |
+| N | 669 | 442 | 155 |
+| ≥7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
@@ -249,7 +345,7 @@ However, some patients may require treatment with CLOZARIL despite the presence 
 
 Because of the significant risk of agranulocytosis and seizure, both of which present a continuing risk over time, the extended treatment of patients failing to show an acceptable level of clinical response should ordinarily be avoided.
 In addition, the need for continuing treatment in patients exhibiting beneficial clinical responses should be periodically reevaluated.
-Although it is not known whether the risk would be increased, it is prudent either to avoid CLOZARIL® (clozapine) or use it cautiously in patients with a previous history of agranulocytosis induced by other drugs.
+Although it is not known whether the risk would be increased, it is prudent either to avoid CLOZARIL (clozapine) or use it cautiously in patients with a previous history of agranulocytosis induced by other drugs.
 
 ## Cardiomyopathy
 
@@ -274,7 +370,7 @@ There have been several reports of NMS in patients receiving CLOZARIL, usually i
 
 The possibility of pulmonary embolism should be considered in patients receiving CLOZARIL who present with deep vein thrombosis, acute dyspnea, chest pain or with other respiratory signs and symptoms.
 As of December 31, 1993 there were 18 cases of fatal pulmonary embolism in association with CLOZARIL therapy in users 10-54 years of age.
-Based upon the extent of use observed in the Clozaril® National Registry, the mortality rate associated with pulmonary embolus was 1 death per 3,450 person-years of use.
+Based upon the extent of use observed in the Clozaril National Registry, the mortality rate associated with pulmonary embolus was 1 death per 3,450 person-years of use.
 This rate was about 27.5 times higher than that in the general population of a similar age and gender (95% Confidence Interval; 17.1, 42.2).
 Deep vein thrombosis has also been observed in association with CLOZARIL therapy.
 Whether pulmonary embolus can be attributed to CLOZARIL or some characteristic(s) of its users is not clear, but the occurrence of deep vein thrombosis or respiratory symptomatology should suggest its presence.
@@ -309,6 +405,10 @@ The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for dementia patients or other patients treated with CLOZARIL.
 CLOZARIL should be used with caution in patients with dementia or risk factors for stroke.
 
+## Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation
+
+If abrupt discontinuation of CLOZARIL is necessary (e.g., because of agranulocytosis, leucopenia, or another medical condition), monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.
+
 ## Use in Patients with Concomitant Illness
 
 Clinical experience with CLOZARIL in patients with concomitant systemic diseases is limited.
@@ -336,7 +436,7 @@ Physicians are advised to discuss the following issues with patients for whom th
 - Patients should be informed that if they miss taking CLOZARIL for more than 2 days, they should not restart their medication at the same dosage, but should contact their physician for dosing instructions.
 - Patients should notify their physician if they are taking, or plan to take, any prescription or over-the-counter drugs or alcohol.
 - Patients should notify their physician if they become pregnant or intend to become pregnant during therapy.
-- Patients should not breast-feed an infant if they are taking CLOZARIL.
+- Patients should not breastfeed an infant if they are taking CLOZARIL.
 
 ## Drug Interactions
 
@@ -358,8 +458,8 @@ The administration of epinephrine should be avoided in the treatment of drug-ind
 
 QT prolongation: Treatment with CLOZARIL has been associated with QT interval prolongation and fatal arrhythmia.
 CLOZARIL should be used with caution when co-administered with medications known to prolong the QTc interval.
-Such medications include: Class 1A (e.g., quinidine, procainamide), Class III (e.g., amiodarone, sotalol) antiarrrythmic medications, certain antipsychotic medications (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g. gatifloxacin, moxifloxacin, sparfloxacin), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol and tacrolimus).
-Use caution when co-administering CLOZARIL with medications that can cause electrolyte imbalance (e.g., diuretics) [see WARNINGS].
+Such medications include: Class 1A (e.g., quinidine, procainamide), Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, certain antipsychotic medications (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g. gatifloxacin, moxifloxacin, sparfloxacin), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol and tacrolimus).
+Use caution when coadministering CLOZARIL with medications that can cause electrolyte imbalance (e.g., diuretics) [see WARNINGS].
 
 Pharmacokinetic-Related Interactions
 

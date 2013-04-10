@@ -2,9 +2,9 @@
 
 ## Treatment-Resistant Schizophrenia
 
-CLOZARIL® (clozapine) is indicated for the management of severely ill schizophrenic patients who fail to respond adequately to standard drug treatment for schizophrenia.
+CLOZARIL (clozapine) is indicated for the management of severely ill schizophrenic patients who fail to respond adequately to standard drug treatment for schizophrenia.
 Because of the significant risk of agranulocytosis and seizure associated with its use, CLOZARIL should be used only in patients who have failed to respond adequately to treatment with appropriate courses of standard drug treatments for schizophrenia, either because of insufficient effectiveness or the inability to achieve an effective dose due to intolerable adverse effects from those drugs.
-(See WARNINGS.)
+(See WARNINGS)
 
 The effectiveness of CLOZARIL in a treatment-resistant schizophrenic population was demonstrated in a 6-week study comparing CLOZARIL and chlorpromazine.
 Patients meeting DSM-III criteria for schizophrenia and having a mean BPRS total score of 61 were demonstrated to be treatment resistant by history and by open, prospective treatment with haloperidol before entering into the double-blind phase of the study.
