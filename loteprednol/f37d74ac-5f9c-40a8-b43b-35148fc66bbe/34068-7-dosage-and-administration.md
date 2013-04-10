@@ -1,4 +1,4 @@
-# Dosage and Administration
+# DOSAGE AND ADMINISTRATION
 
 SHAKE VIGOROUSLY BEFORE USING.
 

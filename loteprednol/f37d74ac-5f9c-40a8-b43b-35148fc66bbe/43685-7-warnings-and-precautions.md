@@ -1,4 +1,4 @@
-# Warnings
+# WARNINGS
 
 Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision, and in posterior subcapsular cataract formation.
 Steroids should be used with caution in the presence of glaucoma.
@@ -12,7 +12,7 @@ Employment of a corticosteroid medication in the treatment of patients with a hi
 
 The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation.
 
-# Precautions
+# PRECAUTIONS
 
 ## General
 
@@ -27,7 +27,7 @@ Fungal infections of the cornea are particularly prone to develop coincidentally
 Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use.
 Fungal cultures should be taken when appropriate.
 
-## Information for patients
+## Information for Patients
 
 This product is sterile when packaged.
 Patients should be advised not to allow the dropper tip to touch any surface, as this may contaminate the suspension.
@@ -53,12 +53,12 @@ Loteprednol etabonate was maternally toxic (significantly reduced body weight ga
 Oral exposure of female rats to 50 mg/kg/day of loteprednol etabonate from the start of the fetal period through the end of lactation, a maternally toxic treatment regimen (significantly decreased body weight gain), gave rise to decreased growth and survival, and retarded development in the offspring during lactation; the NOEL for these effects was 5 mg/kg/day.
 Loteprednol etabonate had no effect on the duration of gestation or parturition when administered orally to pregnant rats at doses up to 50 mg/kg/day during the fetal period.
 
-## Nursing mothers
+## Nursing Mothers
 
 It is not known whether topical ophthalmic administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
 Systemic steroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 Caution should be exercised when LOTEMAX is administered to a nursing woman.
 
-## Pediatric use
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
