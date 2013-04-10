@@ -1,5 +1,5 @@
-Revised August 2011
+Revised November 2012
 
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-© 2011 sanofi-aventis U.S. LLC
+© 2012 sanofi-aventis U.S. LLC
