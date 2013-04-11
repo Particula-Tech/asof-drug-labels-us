@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021903"
+  ],
+  "inn": "ibuprofen",
+  "labeler": "Recordati Rare Diseases Inc.",
+  "package_ndcs": [
+    "55292-122-52"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ibuprofen lysine",
+      "name": "Neoprofen"
+    }
+  ],
+  "setid": "6f5ede6f-b0b7-4fc8-969e-652f60ead047",
+  "source": "dailymed"
+}
