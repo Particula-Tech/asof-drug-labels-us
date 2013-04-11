@@ -27,7 +27,7 @@ Fungal infections of the cornea are particularly prone to develop coincidentally
 Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use.
 Fungal cultures should be taken when appropriate.
 
-## Information for patients
+## Information for Patients
 
 This product is sterile when packaged.
 Patients should be advised not to allow the dropper tip to touch any surface, as this may contaminate the suspension.
@@ -61,12 +61,12 @@ Loteprednol etabonate had no effect on the duration of gestation or parturition 
 There are no adequate and well controlled studies in pregnant women.
 ALREX Ophthalmic Suspension should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing mothers
+## Nursing Mothers
 
 It is not known whether topical ophthalmic administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
 Systemic steroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 Caution should be exercised when ALREX is administered to a nursing woman.
 
-## Pediatric use
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
