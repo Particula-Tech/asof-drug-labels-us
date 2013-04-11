@@ -56,7 +56,13 @@ There is one metabolite of meropenem that is microbiologically inactive.
 Excretion
 
 In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
-Approximately 70% of the intravenously administered dose is recovered as unchanged meropenem in the urine over 12 hours, after which little further urinary excretion is detectable.
+
+Meropenem is primarily excreted unchanged by the kidneys.
+Approximately 70% (50 – 75%) of the dose is excreted unchanged within 12 hours.
+A further 28% is recovered as the microbiologically inactive metabolite.
+Fecal elimination represents only approximately 2% of the dose.
+The measured renal clearance and the effect of probenecid show that meropenem undergoes both filtration and tubular secretion.
+
 Urinary concentrations of meropenem in excess of 10 mcg/mL are maintained for up to 5 hours after a 500 mg dose.
 
 Specific Populations
@@ -98,13 +104,14 @@ Meropenem readily penetrates the cell wall of most Gram-positive and Gram-negati
 Its strongest affinities are toward PBPs 2, 3 and 4 of Escherichia coli and Pseudomonas aeruginosa; and PBPs 1, 2 and 4 of Staphylococcus aureus.
 Bactericidal concentrations (defined as a 3 log10 reduction in cell counts within 12 to 24 hours) are typically 1-2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
 
-Meropenem has significant stability to hydrolysis by β-lactamases of most categories, both penicillinases and cephalosporinases produced by Gram-positive and Gram=negative bacteria.
+Meropenem has significant stability to hydrolysis by β-lactamases, both penicillinases and cephalosporinases produced by Gram-positive and Gram-negative bacteria.
 
 Meropenem should not be used to treat methicillin-resistant Staphylococcus aureus (MRSA) or methicillin-resistant Staphylococcus epidermidis (MRSE).
 
 Mechanism of Resistance
 
 There are several mechanisms of resistance to carbapenems: 1) decreased permeability of the outer membrane of Gram-negative bacteria (due to diminished production of porins) causing reduced bacterial uptake, 2) reduced affinity of the target PBPs, 3) increased expression of efflux pump components, and 4) production of antibiotic-destroying enzymes (carbapenemases, metallo-β-lactamases).
+Localized clusters of infections due to carbapenem-resistant bacteria have been reported in some regions.
 
 Cross-Resistance
 
@@ -116,19 +123,17 @@ In vitro tests show meropenem to act synergistically with aminoglycoside antibio
 
 Spectrum of Activity
 
-Meropenem has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section (1).
+Meropenem has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section (1).
 
 Gram-positive bacteria
 
-Enterococcus faecalis (excluding vancomycin-resistant isolates)
+Enterococcus faecalis (vancomycin-resistant isolates)
 
-Staphylococcus aureus (β-lactamase- and non-β-lactamase-producing, methicillin-susceptible isolates only)
+Staphylococcus aureus (methicillin-susceptible isolates only)
 
 Streptococcus agalactiae
 
 Streptococcus pneumoniae (penicillin-susceptible isolates only)
-
-NOTE: Penicillin-resistant isolates had meropenem MIC90 values of 1 or 2 mcg/mL, which is above the 0.12 mcg/mL susceptible breakpoint for these species.
 
 Streptococcus pyogenes
 
@@ -138,7 +143,7 @@ Gram-negative bacteria
 
 Escherichia coli
 
-Haemophilus influenzae (β-lactamase- and non-β-lactamase-producing)
+Haemophilus influenzae
 
 Klebsiella pneumoniae
 
@@ -157,8 +162,8 @@ Bacteroides thetaiotaomicron
 Peptostreptococcus species
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoints for meropenem.
-However, the safety and effectiveness of meropenem in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
+At least 90% of the following bacteria have exhibited in vitro minimum inhibitory concentrations (MICs) less than or equal to the susceptible breakpoints for meropenem.
+However, the safety and effectiveness of meropenem in treating clinical infections due to these bacteria have not been established in adequate and well-controlled trials.
 
 Gram-positive bacteria
 
@@ -166,12 +171,12 @@ Staphylococcus epidermidis (methicillin-susceptible isolates only)
 
 Gram-negative bacteria
 
-| Acinetobacter speciesAeromonas hydrophilaCampylobacter jejuni Citrobacter diversusCitrobacter freundiiEnterobacter cloacaeHaemophilus influenzae (ampicillin-resistant, non-β-lactamase-producing isolates [BLNAR isolates])Hafnia alveiKlebsiella oxytoca | Moraxella catarrhalis(β-lactamase- and non-β-lactamase-producing isolates)Morganella morganiiPasteurella multocidaProteus vulgarisSerratia marcescens |
+| Aeromonas hydrophilaCampylobacter jejuni Citrobacter koseri (formerly diversus)Citrobacter freundiiEnterobacter cloacaeHafnia alveiKlebsiella oxytocaMoraxella catarrhalisMorganella morganiiPasteurella multocidaProteus vulgarisSerratia marcescens |  |
 | --- | --- |
 
 Anaerobic bacteria
 
-| Bacteroides distasonisBacteroides ovatusBacteroides uniformisBacteroides ureolyticusBacteroides vulgatusClostridium difficileClostridium perfringens | Eubacterium lentumFusobacterium speciesPrevotella biviaPrevotella intermediaPrevotella melaninogenicaPorphyromonas asaccharolyticaPropionibacterium acnes |
+| Bacteroides distasonisBacteroides ovatusBacteroides uniformisBacteroides ureolyticusBacteroides vulgatusClostridium difficileClostridium perfringensEubacterium lentumFusobacterium speciesPrevotella biviaPrevotella intermediaPrevotella melaninogenicaPorphyromonas asaccharolyticaPropionibacterium acnes |  |
 | --- | --- |
 
 Susceptibility Test Methods
@@ -184,7 +189,8 @@ Dilution Techniques:
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method.
-Standardized procedures are based on a dilution method1..3 (broth or agar) or equivalent using standardized inoculum concentrations and standardized concentrations of meropenem powder.
+Standardized procedures are based on a dilution method1.
+3 (broth or agar) or equivalent using standardized inoculum concentrations and standardized concentrations of meropenem powder.
 The MIC values should be interpreted according to the criteria provided in Table 2.
 
 Diffusion Techniques:
@@ -195,30 +201,22 @@ The zone size should be determined using a standardized test method 2,3 and requ
 This procedure uses paper disks impregnated with 10-mcg of meropenem to test the susceptibility of microorganisms to meropenem.
 The disk diffusion interpretive criteria are provided in Table 2.
 
-Streptococcus pneumoniae isolates should be tested using 1-mcg oxacillin disk.
-Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible (MIC ≤ 0.06 mcg/mL) to penicillin and can be considered susceptible to meropenem for approved indications, and meropenem need not be tested.
-A meropenem MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤19 mm.
-The disk test does not distinguish penicillin intermediate isolates (i.e., MICs = 0.12-1.0 mcg/mL) from isolates that are penicillin resistant (i.e., MICs ≥ 2 mcg/mL).
-Viridans group streptococci should be tested for meropenem susceptibility using an MIC method.
-Reliable disk diffusion tests for meropenem do not yet exist for testing streptococci.
-
 Anaerobic Techniques:
 
 For anaerobic bacteria, the susceptibility to meropenem as MICs can be determined by a standardized test method.4 The MIC values obtained should be interpreted according to the criteria provided in Table 2.
 
 | Table 2. Susceptibility Interpretive Criteria for Meropenem |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Minimum InhibitoryConcentrations(mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
+|  | Minimum InhibitoryConcentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
 | Pathogen | S | I | R | S | I | R |
-| Enterobacteriaceae, Acinetobacter spp. and Pseudomonas aeruginosa | ≤ 4 | 8 | ≥ 16 | ≥ 16 | 14–15 | ≤ 13 |
+| Enterobacteriaceae | ≤1 | 2 | ≥ 4 | ≥ 23 | 20-22 | ≤ 19 |
+| Pseudomonas aeruginosa | ≤ 4 | 8 | ≥ 16 | ≥16 | 14-15 | ≤13 |
 | Haemophilus influenzaeThe current absence of data on resistant isolates precludes defining any category other than “Susceptible”. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 0.5 | — | — | ≥ 20 | — | — |
-| Staphylococcus aureusStaphylococci that are resistant to methicillin/oxacillin must be considered resistant to meropenem. | ≤ 4 | 8 | ≥ 16 | ≥ 16 | 14–15 | ≤ 13 |
-| Streptococcus pneumoniaeNo Disk diffusion (zone diameter) interpretative criteria have been established for testing Streptococcus pneumoniae, Streptococcus agalactiae, and Streptococcus pyogenes. Use results from dilution techniques (MICs). | ≤ 12 |  |  |  |  |  |
-| Streptococcus agalactiae and Streptococcus pyogenes | ≤ 0.5 | — | — |  |  |  |
-| AnaerobesMIC values using either Brucella blood or Wilkins Chalgren agar (former reference medium) are considered equivalent, based upon published in vitro literature and a multicenter collaborative trial for these antimicrobial agents. | ≤ 4 | 8 | ≥ 16 |  |  |  |
-| S = Susceptible, I = Intermediate, R = Resistant |  |  |  |  |  |  |
-
-No interpretative criteria have been established for testing enterococci and Neisseria meningitidis.
+| Neisseria meningitidis | ≤ 0.25 | — | — | ≥ 30 | — | — |
+| Streptococcus pneumoniaeInterpretative criteria in Table 2 should only be used for isolates from CSF. For nonmeningitis isolates of Streptococcus pneumoniae a penicillin MIC of ≤ 0.06 mcg/mL or oxacillin zone ≥ 20 mm can predict susceptibility to meropenem. MIC testing should be performed on isolates that do not test as susceptible by either of these methods, and on all meningitis S. pneumoniae isolates.Reliable disk diffusion tests for meropenem do not yet exist for testing streptococci | ≤ 0.25 | 0.5 | ≥ 1 | — | — | — |
+| Streptococcus agalactiae and Streptococcus pyogenes,Viridans group streptococci should be tested for meropenem susceptibility using an MIC method, | ≤ 0.5 | — | — | — | — | — |
+| AnaerobesMIC values using either Brucella blood or Wilkins Chalgren agar (former reference medium) are considered equivalent, based upon published in vitro literature and a multicenter collaborative trial for these antimicrobial agents. | ≤ 4 | 8 | ≥ 16 | — | — | — |
+| S = Susceptible, I = Intermediate, R = ResistantNo interpretative criteria have been established for testing enterococci.Susceptibility of staphylococci to meropenem may be deduced from testing penicillin and either cefoxitin or oxacillin. |  |  |  |  |  |  |
 
 A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -237,11 +235,11 @@ Standard meropenem powder should provide the following range of values noted in 
 | Staphylococcus aureusATCC 29213 | 0.03-0.12 | — |
 | Staphylococcus aureusATCC 25923 | — | 29–37 |
 | Streptococcus pneumoniaeATCC 49619 | 0.06-0.25 | 28–35 |
-| Enterococcus faecalisATCC 29212 | 2.0–8.0 |  |
+| Enterococcus faecalisATCC 29212 | 2–8 |  |
 | Escherichia coliATCC 25922 | 0.008-0.06 | 28–34 |
 | Haemophilus influenzaeATCC 49766 | 0.03-0.12 |  |
 | Haemophilus influenzaeATCC 49247 | — | 20–28 |
-| Pseudomonas aeruginosaATCC 27853 | 0.25-1.0 | 27–33 |
+| Pseudomonas aeruginosaATCC 27853 | 0.25-1 | 27–33 |
 | Bacteroides fragilisUsing the Reference Agar Dilution procedure.ATCC 25285 | 0.03–0.25 |  |
 | Bacteroides thetaiotaomicronATCC 29741 | 0.125-0.5 |  |
 | Eubacterium lentumATCC 43055 | 0.125-1 |  |

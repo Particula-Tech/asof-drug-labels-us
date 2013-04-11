@@ -10,12 +10,14 @@
 - •Patients should be counseled to inform their physician if they are taking valproic acid or divalproex sodium.
   Valproic acid concentrations in the blood may drop below the therapeutic range upon co-administration with MERREM I.V.
   If treatment with MERREM I.V. is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed [see Warnings and Precautions (5.3)].
+- •Patients receiving MERREM I.V. on an outpatient basis may develop adverse events such as seizures, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
+  Until it is reasonably well established that MERREM I.V. is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.10)].
 
 NORMOSOL is a registered trademark of Hospira Inc.
 
 All other trademarks are the property of the AstraZeneca group of companies.
 
-© AstraZeneca 2010
+© AstraZeneca 2013
 
 Distributed by:
 
@@ -23,4 +25,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Rev 12/10
+Rev 3/2013

@@ -40,6 +40,8 @@ For pediatric patients from 3 months of age and older, the MERREM I.V. dose is 1
 Pediatric patients weighing over 50 kg should be administered MERREM I.V. at a dose of 500 mg every 8 hours for complicated skin and skin structure infections, 1 g every 8 hours for intra-abdominal infections and 2 g every 8 hours for meningitis.
 MERREM I.V. should be given as intravenous infusion over approximately 15 to 30 minutes or as an intravenous bolus injection (5 to 20 mL) over approximately 3-5 minutes.
 
+There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 g) bolus dose.
+
 Recommended MERREM I.V.
 Dosage Schedule for Pediatric Patients With Normal Renal Function
 

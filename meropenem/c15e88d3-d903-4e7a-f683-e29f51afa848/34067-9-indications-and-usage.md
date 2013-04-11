@@ -8,7 +8,7 @@ MERREM I.V. is useful as presumptive therapy in the indicated condition (e.g., i
 
 ## 1.1 Skin and Skin Structure Infections (Adult Patients and Pediatric Patients ≥ 3 Months only)
 
-MERREM I.V. is indicated as a single agent therapy for the treatment of complicated skin and skin structure infections due to Staphylococcus aureus (β-lactamase- and non-β-lactamase-producing, methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (excluding vancomycin-resistant isolates), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis, and Peptostreptococcus species.
+MERREM I.V. is indicated as a single agent therapy for the treatment of complicated skin and skin structure infections due to Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (vancomycin-resistant isolates), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis, and Peptostreptococcus species.
 
 ## 1.2 Intra-abdominal Infections (Adult Patients and Pediatric Patients ≥ 3 Months only)
 
@@ -16,7 +16,7 @@ MERREM I.V. is indicated as a single agent therapy for the treatment of complica
 
 ## 1.3 Bacterial Meningitis (Pediatric Patients ≥ 3 Months only)
 
-MERREM I.V. is indicated as a single agent therapy for the treatment of bacterial meningitis caused by Streptococcus pneumoniae‡, Haemophilus influenzae (β-lactamase- and non-β-lactamase-producing isolates), and Neisseria meningitidis.
+MERREM I.V. is indicated as a single agent therapy for the treatment of bacterial meningitis caused by Streptococcus pneumoniae‡, Haemophilus influenza, and Neisseria meningitidis.
 
 ‡ The efficacy of meropenem as monotherapy in the treatment of meningitis caused by penicillin nonsusceptible isolates of Streptococcus pneumoniae has not been established.
 
