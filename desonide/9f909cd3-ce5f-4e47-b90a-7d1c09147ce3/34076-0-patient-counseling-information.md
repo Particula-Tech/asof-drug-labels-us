@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
-
-## 17.1 Information for Patients
+See FDA-Approved Patient Labeling (Patient Information)
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
@@ -16,11 +14,23 @@ Patients using topical corticosteroids should receive the following information 
 2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
 3. 3.The treated skin area should not be bandaged, otherwise covered, or wrapped so as to be occlusive unless directed by the physician.
 4. 4.Patients should report any signs of local or systemic adverse reactions to the physician.
-5. 5.Patients should inform their physicians that they are using Verdeso Foam if surgery is contemplated.
+5. 5.Patients should inform their physicians that they are using VERDESO Foam if surgery is contemplated.
 6. 6.Therapy should be discontinued when control is achieved.
    If no improvement is seen within 4 weeks, contact the physician.
-7. 7.Do not use other corticosteroid-containing products while using Verdeso Foam without first consulting your physician.
-8. 8.The propellant in Verdeso Foam is flammable.
+7. 7.Do not use other corticosteroid-containing products while using VERDESO Foam without first consulting your physician.
+8. 8.The propellant in VERDESO Foam is flammable.
    Avoid fire, flame or smoking during and immediately following application.
 
-VDS:3PI
+VERDESO is a registered trademark of Stiefel Laboratories, Inc.
+
+Manufactured for
+
+Stiefel Laboratories, Inc.
+
+Research Triangle Park, NC 27709
+
+©2013, Stiefel Laboratories, Inc. All rights reserved.
+
+VDS:4PI
+
+PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT

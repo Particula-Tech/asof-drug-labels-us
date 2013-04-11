@@ -2,7 +2,7 @@ Principal Display Panel
 
 NDC 63032-111-50
 
-Verdeso®
+VERDESO®
 
 (desonide)
 
