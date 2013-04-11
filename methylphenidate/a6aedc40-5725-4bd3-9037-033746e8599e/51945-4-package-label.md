@@ -1,10 +1,12 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg Capsule Label
+# PRINCIPAL DISPLAY PANEL - 10 mg Capsule Bottle Label
 
 NDC 53014-579-07
 
 Once Daily
 
-Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules CII
+Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules
+
+CII
 
 100 Capsules 10 mg
 
@@ -16,13 +18,15 @@ Please use accompanying Medication Guide.
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 20 mg Capsule Label
+# PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label
 
 NDC 53014-580-07
 
 Once Daily
 
-Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules CII
+Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules
+
+CII
 
 100 Capsules 20 mg
 
@@ -34,13 +38,15 @@ Please use accompanying Medication Guide.
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 30 mg Capsule Label
+# PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
 
 NDC 53014-581-07
 
 Once Daily
 
-Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules CII
+Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules
+
+CII
 
 100 Capsules 30 mg
 
@@ -52,13 +58,15 @@ Please use accompanying Medication Guide.
 
 ucb
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Capsule Label
+# PRINCIPAL DISPLAY PANEL - 40 mg Capsule Bottle Label
 
 NDC 53014-582-07
 
 Once Daily
 
-Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules CII
+Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules
+
+CII
 
 100 Capsules 40 mg
 
@@ -70,13 +78,15 @@ Please use accompanying Medication Guide.
 
 ucb
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Capsule Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
 
 NDC 53014-583-07
 
 Once Daily
 
-Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules CII
+Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules
+
+CII
 
 100 Capsules 50 mg
 
@@ -88,13 +98,15 @@ A Medication Guide is required for every prescription dispensed.
 
 Please use accompanying Medication Guide.
 
-# PRINCIPAL DISPLAY PANEL - 60 mg Capsule Label
+# PRINCIPAL DISPLAY PANEL - 60 mg Capsule Bottle Label
 
 NDC 53014-584-07
 
 Once Daily
 
-Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules CII
+Metadate CD® (methylphenidate HCl, USP) Extended-Release Capsules
+
+CII
 
 100 Capsules 60 mg
 
