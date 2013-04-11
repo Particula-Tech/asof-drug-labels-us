@@ -38,9 +38,9 @@ Table 4: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
 ### Serum Gastrin Effects
 
-Fasting serum gastrin levels were assessed in two double-blind studies of the acute healing of erosive esophagitis (EE) in which 682 patients with gastroesophageal reflux disease (GERD) received 10 mg, 20 mg or 40 mg of pantoprazole for up to 8 weeks.
-At 4 weeks of treatment there was an increase in mean gastrin levels of 7%, 35% and 72% over pretreatment values in the 10 mg, 20 mg and 40 mg treatment groups, respectively.
-A similar increase in serum gastrin levels was noted at the 8-week visit with mean increases of 3%, 26% and 84% for the three pantoprazole dose groups.
+Fasting serum gastrin levels were assessed in two double-blind studies of the acute healing of erosive esophagitis (EE) in which 682 patients with gastroesophageal reflux disease (GERD) received 10 mg, 20 mg, or 40 mg of pantoprazole for up to 8 weeks.
+At 4 weeks of treatment there was an increase in mean gastrin levels of 7%, 35%, and 72% over pretreatment values in the 10 mg, 20 mg, and 40 mg treatment groups, respectively.
+A similar increase in serum gastrin levels was noted at the 8-week visit with mean increases of 3%, 26%, and 84% for the three pantoprazole dose groups.
 Median serum gastrin levels remained within normal limits during maintenance therapy with pantoprazole sodium delayed-release tablets.
 
 In long-term international studies involving over 800 patients, a 2- to 3-fold mean increase from the pretreatment fasting serum gastrin level was observed in the initial months of treatment with pantoprazole at doses of 40 mg per day during GERD maintenance studies and 40 mg or higher per day in patients with refractory GERD.
@@ -66,7 +66,7 @@ Pantoprazole does not accumulate, and its pharmacokinetics are unaltered with mu
 Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately one hour.
 
 In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 mcg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration vs. time curve (AUC) is 4.8 mcg•h/mL (range 1.4 to 13.3 mcg•h/mL).
-Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6 to 14 L/h, and its apparent volume of distribution is 11 to 23.6 L.
+Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6 to 14 L/h, and its apparent volume of distribution is 11 L to 23.6 L.
 
 ### Absorption
 
@@ -79,7 +79,7 @@ Thus, pantoprazole sodium delayed-release tablets may be taken without regard to
 
 ### Distribution
 
-The apparent volume of distribution of pantoprazole is approximately 11 to 23.6 L, distributing mainly in extracellular fluid.
+The apparent volume of distribution of pantoprazole is approximately 11 L to 23.6 L, distributing mainly in extracellular fluid.
 The serum protein binding of pantoprazole is about 98%, primarily to albumin.
 
 ### Metabolism
@@ -124,10 +124,10 @@ These pharmacokinetic changes in hepatic-impaired patients result in minimal dru
 No dosage adjustment is needed in patients with mild to severe hepatic impairment.
 Doses higher than 40 mg/day have not been studied in hepatically impaired patients.
 
-### Drug-Drug Interactions
+### Drug-drug Interactions
 
-Pantoprazole is metabolized mainly by CYP2C19 and to minor extents by CYPs 3A4, 2D6 and 2C9.
-In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also a CYP3A4 substrate] and phenytoin [also a CYP3A4 inducer] and clopidogrel), nifedipine, midazolam and clarithromycin (CYP3A4 substrates), metoprolol (a CYP2D6 substrate), diclofenac, naproxen and piroxicam (CYP2C9 substrates), and theophylline (a CYP1A2 substrate) in healthy subjects, the pharmacokinetics of pantoprazole were not significantly altered.
+Pantoprazole is metabolized mainly by CYP2C19 and to minor extents by CYPs 3A4, 2D6, and 2C9.
+In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also a CYP3A4 substrate] and phenytoin [also a CYP3A4 inducer] and clopidogrel), nifedipine, midazolam, and clarithromycin (CYP3A4 substrates), metoprolol (a CYP2D6 substrate), diclofenac, naproxen and piroxicam (CYP2C9 substrates), and theophylline (a CYP1A2 substrate) in healthy subjects, the pharmacokinetics of pantoprazole were not significantly altered.
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 In a crossover clinical study, 66 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with pantoprazole (80 mg at the same time as clopidogrel) for 5 days.
@@ -135,28 +135,28 @@ On Day 5, the mean AUC of the active metabolite of clopidogrel was reduced by ap
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 μM ADP) was correlated with the change in the exposure to clopidogrel active metabolite.
 The clinical significance of this finding is not clear.
 
-In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of the following drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, warfarin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
+In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of the following drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, warfarin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam, and oral contraceptives [levonorgestrel/ethinyl estradiol]).
 Dosage adjustment of these drugs is not necessary when they are coadministered with pantoprazole.
-In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, metronidazole and amoxicillin had no clinically relevant interactions with pantoprazole.
+In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, metronidazole, and amoxicillin had no clinically relevant interactions with pantoprazole.
 
-Based on studies evaluating possible interactions of pantoprazole with other drugs, no dosage adjustment is needed with concomitant use of the following: theophylline, cisapride, antipyrine, caffeine, carbamazepine, diazepam (and its active metabolite, desmethyldiazepam), diclofenac, naproxen, piroxicam, digoxin, ethanol, glyburide, an oral contraceptive (levonorgestrel/ethinyl estradiol), metoprolol, nifedipine, phenytoin, warfarin, midazolam, clarithromycin, metronidazole or amoxicillin.
+Based on studies evaluating possible interactions of pantoprazole with other drugs, no dosage adjustment is needed with concomitant use of the following: theophylline, cisapride, antipyrine, caffeine, carbamazepine, diazepam (and its active metabolite, desmethyldiazepam), diclofenac, naproxen, piroxicam, digoxin, ethanol, glyburide, an oral contraceptive (levonorgestrel/ethinyl estradiol), metoprolol, nifedipine, phenytoin, warfarin, midazolam, clarithromycin, metronidazole, or amoxicillin.
 
 There was also no interaction with concomitantly administered antacids.
 
-There have been post-marketing reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including pantoprazole and warfarin concomitantly [see Drug Interactions (7.2)].
+There have been post-marketing reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including pantoprazole, and warfarin concomitantly [see Drug Interactions (7.2)].
 
-Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once-daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
+Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
 
 ### Other Effects
 
-In a clinical pharmacology study, pantoprazole 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin and growth hormone.
+In a clinical pharmacology study, pantoprazole 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin, and growth hormone.
 
-In a 1-year study of GERD patients treated with pantoprazole 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4 and TSH.
+In a one-year study of GERD patients treated with pantoprazole 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
 
 ## 12.4 Pharmacogenomics
 
 CYP2C19 displays a known genetic polymorphism due to its deficiency in some subpopulations (e.g., approximately 3% of Caucasians and African-Americans and 17% to 23% of Asians are poor metabolizers).
-Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10 hours in adults, they still have minimal accumulation (≤ 23%) with once-daily dosing.
+Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10 hours in adults, they still have minimal accumulation (≤ 23%) with once daily dosing.
 For adult patients who are CYP2C19 poor metabolizers, no dosage adjustment is needed.
 
 Similar to adults, pediatric patients who have the poor metabolizer genotype of CYP2C19 (CYP2C19 *2/*2) exhibited greater than a 6-fold increase in AUC compared to pediatric extensive (CYP2C19 *1/*1) and intermediate (CYP2C19 *1/*x) metabolizers.

@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ### Adults
 
-Safety in nine randomized comparative U.S. clinical trials in patients with GERD included 1,473 patients on oral pantoprazole (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another proton pump inhibitor and 82 patients on placebo.
+Safety in nine randomized comparative U.S. clinical trials in patients with GERD included 1,473 patients on oral pantoprazole (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another proton pump inhibitor, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
 Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
@@ -47,7 +47,7 @@ However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, thi
 
 In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in 35 patients taking pantoprazole 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of pantoprazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -60,6 +60,8 @@ Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic f
 
 Immune System Disorders: anaphylaxis (including anaphylactic shock)
 
+Infections and Infestations:Clostridium difficile associated diarrhea
+
 Investigations: weight changes
 
 Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
@@ -70,4 +72,4 @@ Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
 Renal and Urinary Disorders: interstitial nephritis
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson Syndrome, and toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke’s edema)
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke’s edema)

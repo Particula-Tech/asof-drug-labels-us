@@ -30,7 +30,7 @@ There were no effects on fertility or reproductive performance when pantoprazole
 Studies in neonatal/juvenile and adult rats and dogs were performed.
 The data from these studies revealed that animals in both age groups respond to pantoprazole in a similar manner.
 Gastric alterations, including increased stomach weights, increased incidence of eosinophilic chief cells in adult and neonatal/juvenile rats, and atrophy of chief cells in adult rats and in neonatal/juvenile dogs, were observed in the fundic mucosa of stomachs in repeated-dose studies.
-Decreases in red cell mass parameters, increases in cholesterol and triglycerides, increased liver weight, enzyme induction and hepatocellular hypertrophy were also seen in repeated-dose studies in rats and/or dogs.
+Decreases in red cell mass parameters, increases in cholesterol and triglycerides, increased liver weight, enzyme induction, and hepatocellular hypertrophy were also seen in repeated-dose studies in rats and/or dogs.
 Full to partial recovery of these effects were noted in animals of both age groups following a recovery period.
 
 ### Reproductive Toxicology Studies

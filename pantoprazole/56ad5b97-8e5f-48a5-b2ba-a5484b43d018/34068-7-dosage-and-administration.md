@@ -9,7 +9,7 @@ Table 1: Recommended Dosing Schedule for Pantoprazole Sodium Delayed-release Tab
 
 | Indication | Dose | Frequency |
 | --- | --- | --- |
-| Short-Term Treatment of Erosive Esophagitis Associated with GERD |  |  |
+| Short-term Treatment of Erosive Esophagitis Associated with GERD |  |  |
 | Adults | 40 mg | Once daily for up to 8 weeksFor adult patients who have not healed after 8 weeks of treatment, an additional 8-week course of pantoprazole sodium delayed-release tablets may be considered. |
 | Maintenance of Healing of Erosive Esophagitis |  |  |
 | Adults | 40 mg | Once daily |
@@ -27,7 +27,7 @@ Table 2: Administration Instructions
 
 | Formulation | Route | InstructionsPatients should be cautioned that pantoprazole sodium delayed-release tablets should not be split, chewed, or crushed. |
 | --- | --- | --- |
-| Delayed-Release Tablets | Oral | Swallowed whole, with or without food |
+| Delayed-release Tablets | Oral | Swallowed whole, with or without food |
 
 ### Pantoprazole Sodium Delayed-release Tablets
 

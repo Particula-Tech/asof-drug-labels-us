@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active ingredient in pantoprazole sodium delayed-release tablets is a substituted benzimidazole, sodium salt of 5-(difluoro methoxy)-2-[[(3,4-dimethoxy-2-pyridinyl)methyl] sulfinyl]- 1H-benzimidazole sesquihydrate, a compound that inhibits gastric acid secretion.
+The active ingredient in pantoprazole sodium delayed-release tablets is a substituted benzimidazole, sodium salt of 5-(difluoromethoxy)-2-[[(3,4-dimethoxy-2-pyridinyl)methyl]sulfinyl]-1H-benzimidazole sesquihydrate, a compound that inhibits gastric acid secretion.
 Its molecular formula is C16H14F2N3NaO4S x 1.5 H2O, with a molecular weight of 432.36.
 The structural formula is:
 
@@ -14,6 +14,6 @@ At ambient temperature, the degradation half-life is approximately 2.8 hours at 
 
 Pantoprazole sodium, USP is supplied as a delayed-release tablet, available in two strengths (20 mg and 40 mg).
 
-Each pantoprazole sodium delayed-release tablet, USP contains 45.1 mg or 22.6 mg of pantoprazole sodium sesquihydrate (equivalent to 40 mg or 20 mg pantoprazole, respectively) with the following inactive ingredients: ammonium hydroxide, black iron oxide, calcium stearate, crospovidone, hypromellose, mannitol, methacrylic acid copolymer, povidone, propylene glycol, sodium carbonate, shellac glaze, titanium dioxide, triethyl citrate and yellow iron oxide.
+Each pantoprazole sodium delayed-release tablet, USP contains 45.10 mg or 22.55 mg of pantoprazole sodium sesquihydrate (equivalent to 40 mg or 20 mg pantoprazole, respectively) with the following inactive ingredients: ammonium hydroxide, anhydrous sodium carbonate, black iron oxide, calcium stearate, crospovidone, hypromellose, mannitol, methacrylic acid copolymer, povidone, propylene glycol, shellac glaze, titanium dioxide, triethyl citrate and yellow iron oxide.
 
 Pantoprazole sodium delayed-release tablets USP, 20 mg and 40 mg, meet USP Dissolution Test 3.

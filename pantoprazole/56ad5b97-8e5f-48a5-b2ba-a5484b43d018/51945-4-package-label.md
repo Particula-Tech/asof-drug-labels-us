@@ -4,9 +4,9 @@ NDC 0378-6688-77
 
 Pantoprazole Sodium Delayed-release Tablets, USP 20 mg*
 
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 90 TABLETS
+Rx only 90 Tablets
 
 *Each film-coated tablet contains pantoprazole sodium, USP equivalent to 20 mg of pantoprazole.
 
@@ -25,9 +25,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6688MM2
+RMX6688MM3
 
-www.mylan.com
+Mylan.com
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -41,9 +41,9 @@ NDC 0378-6689-77
 
 Pantoprazole Sodium Delayed-release Tablets, USP 40 mg*
 
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 90 TABLETS
+Rx only 90 Tablets
 
 *Each film-coated tablet contains pantoprazole sodium, USP equivalent to 40 mg of pantoprazole.
 
@@ -62,9 +62,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6689MM2
+RMX6689MM3
 
-www.mylan.com
+Mylan.com
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
