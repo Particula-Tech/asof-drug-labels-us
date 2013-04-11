@@ -51,7 +51,7 @@ The results were similar for drug-eluting and bare metal stents.
 
 The Kaplan-Meier curve (Figure 7) shows time to first occurrence of the primary composite endpoint of CV death, non-fatal MI or non-fatal stroke in the overall study.
 
-Figure 7 - Time to First Occurrence of CV death, MI, or Stroke in PLATO
+Figure - Time to First Occurrence of CV death, MI, or Stroke in PLATO
 
 The curves separate by 30 days (RRR 12%) and continue to diverge throughout the 12 month treatment period (RRR 16%).
 
@@ -65,7 +65,7 @@ Most of the characteristics shown are baseline characteristics, but some reflect
 Patients were not stratified by initial diagnosis, but the effect in the unstable angina subset (determined after randomization) appeared smaller than the effect in the NSTEMI and STEMI subsets.
 The results in the subsets based on final diagnosis (STEMI, NSTEMI and unstable angina) are also presented in Figure 8.
 
-Figure 8 - Subgroup analyses of PLATO
+Figure - Subgroup analyses of PLATO
 
 Regional Differences
 
@@ -83,7 +83,7 @@ Overall results favored BRILINTA when used with low maintenance doses (≤ 100 m
 Figure 8 shows overall results by median aspirin dose.
 Table 5 shows results by region and dose.
 
-Table 5 - PLATO: CV Death, MI, Stroke by maintenance aspirin dose in the US and outside the US
+Table - PLATO: CV Death, MI, Stroke by maintenance aspirin dose in the US and outside the US
 
 Like any unplanned subset analysis, especially one where the characteristic is not a true baseline characteristic (but may be determined by usual investigator practice), the above analyses must be treated with caution.
 It is notable, however, that aspirin dose predicts outcome in both regions with a similar pattern, and that the pattern is similar for the two major components of the primary endpoint, CV death and non-fatal MI.

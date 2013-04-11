@@ -8,7 +8,7 @@
 - •If possible, manage bleeding without discontinuing BRILINTA.
   Stopping BRILINTA increases the risk of subsequent cardiovascular events (5.5).
 
-WARNING: ASPIRIN DOSE AND BRILINTA EFFECTIVENESS
+# WARNING: ASPIRIN DOSE AND BRILINTA EFFECTIVENESS
 
 - •Maintenance doses of aspirin above 100 mg reduce the effectiveness of BRILINTA and should be avoided.
   After any initial dose, use with aspirin 75-100 mg per day (5.2, 14).

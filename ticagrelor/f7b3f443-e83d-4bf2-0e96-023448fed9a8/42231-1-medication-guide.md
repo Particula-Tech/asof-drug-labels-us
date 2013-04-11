@@ -81,7 +81,7 @@ Before you take BRILINTA, tell your doctor if you:
 - •have lung problems, such as COPD or asthma
 - •have liver problems
 - •have a history of stroke
-- •are pregnant or are plan to become pregnant.
+- •are pregnant or plan to become pregnant.
   It is not known if BRILINTA will harm your unborn baby.
   You and your doctor should decide if you will take BRILINTA.
 - •are breastfeeding or plan to breastfeed.
@@ -163,10 +163,10 @@ Active ingredient: ticagrelor
 
 Inactive ingredients: mannitol, dibasic calcium phosphate, sodium starch glycolate, hydroxypropyl cellulose, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, talc, polyethylene glycol 400, and ferric oxide yellow.
 
-Revised: January 24, 2013
+Revised: March 29, 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: AstraZeneca LP, Wilmington, DE 19850
 
-© AstraZeneca 2011, 2012
+© AstraZeneca 2011, 2013

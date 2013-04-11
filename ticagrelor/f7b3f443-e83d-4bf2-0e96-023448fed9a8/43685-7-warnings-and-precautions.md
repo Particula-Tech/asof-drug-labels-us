@@ -27,10 +27,11 @@ Consider the risks and benefits of treatment, noting the probable increase in ex
 
 ## 5.4 Dyspnea
 
-Dyspnea was reported in 14% of patients treated with BRILINTA and in 8% of patients taking clopidogrel.
-Dyspnea was usually mild to moderate in intensity and often resolved during continued treatment.
+In PLATO, dyspnea was reported in 14% of patients treated with BRILINTA and in 8% of patients taking clopidogrel.
+Dyspnea was usually mild to moderate in intensity and often resolved during continued treatment, but occasionally required discontinuation (0.9% of patients taking BRILINTA versus 0.1% of patients taking clopidogrel).
 If a patient develops new, prolonged, or worsened dyspnea during treatment with BRILINTA, exclude underlying diseases that may require treatment.
 If dyspnea is determined to be related to BRILINTA, no specific treatment is required; continue BRILINTA without interruption.
+In the case of intolerable dyspnea requiring discontinuation of BRILINTA, consider prescribing another antiplatelet agent.
 
 In a substudy, 199 patients from PLATO underwent pulmonary function testing irrespective of whether they reported dyspnea.
 There was no significant difference between treatment groups for FEV1.

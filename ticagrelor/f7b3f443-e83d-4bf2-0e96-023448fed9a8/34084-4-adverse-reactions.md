@@ -26,7 +26,7 @@ PLATO used the following bleeding severity categorization:
 Figure 1 shows major bleeding events over time.
 Many events are early, at a time of coronary angiography, PCI, CABG, and other procedures, but the risk persists during later use of antiplatelet therapy.
 
-Figure 1 Kaplan-Meier estimate of time to first PLATO-defined ‘Total Major’ bleeding event
+Figure Kaplan-Meier estimate of time to first PLATO-defined ‘Total Major’ bleeding event
 
 Annualized rates of bleeding are summarized in Table 1 below.
 About half of the bleeding events were in the first 30 days.
@@ -52,7 +52,7 @@ Table 2 - CABG bleeds (KM%)
 
 |  | Patients with CABG |  |
 | --- | --- | --- |
-|  | BRILINTAN=770 | ClopidrogelN=814 |
+|  | BRILINTAN=770 | ClopidogrelN=814 |
 | Total Major | 85.8 | 86.9 |
 | Fatal/Life-threatening | 48.1 | 47.9 |
 | Fatal | 0.9 | 1.1 |
