@@ -148,7 +148,7 @@ Diarrhea was sometimes associated with other gastrointestinal complaints such as
 Table 7.
 Liver Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus
 
-| U.S. TRIAL |  |  | EUROPEAN TRIAL |  |
+|  | U.S. TRIAL |  | EUROPEAN TRIAL |  |
 | --- | --- | --- | --- | --- |
 |  | Tacrolimus | Cyclosporine/ | Tacrolimus | Cyclosporine/ |
 |  | (N=250) | AZA | (N=264) | AZA |
@@ -171,19 +171,80 @@ Liver Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treate
 | Kidney Function Abnormal | 40% | 27% | 36% | 23% |
 | Creatinine Increased | 39% | 25% | 24% | 19% |
 | BUN Increased | 30% | 22% | 12% | 9% |
-| Oliguria Urinary Tract Infection | 18%16% | 15%18% | 19%21% | 12%19% |
+| Oliguria | 18% | 15% | 19% | 12% |
+| Urinary Tract Infection | 16% | 18% | 21% | 19% |
 | Metabolic and Nutritional |  |  |  |  |
-| Hypomagnesemia Hyperglycemia Hyperkalemia Hypokalemia | 48%47%45%29% | 45%38%26%34% | 16%33%13%13% | 9%22%9%16% |
+| Hypomagnesemia | 48% | 45% | 16% | 9% |
+| Hyperglycemia | 47% | 38% | 33% | 22% |
+| Hyperkalemia | 45% | 26% | 13% | 9% |
+| Hypokalemia | 29% | 34% | 13% | 16% |
 | Hemic and Lymphatic |  |  |  |  |
-| Anemia Leukocytosis Thrombocytopenia | 47%32%24% | 38%26%20% | 5%8%14% | 1%8%19% |
+| Anemia | 47% | 38% | 5% | 1% |
+| Leukocytosis | 32% | 26% | 8% | 8% |
+| Thrombocytopenia | 24% | 20% | 14% | 19% |
 | Miscellaneous |  |  |  |  |
-| Pain Abdominal Pain Asthenia Fever Back Pain Ascites Peripheral Edema | 63%59%52%48%30%27%26% | 57%54%48%56%29%22%26% | 24%29%11%19%17%7%12% | 22%22%7%22%17%8%14% |
+| Pain | 63% | 57% | 24% | 22% |
+| Abdominal Pain | 59% | 54% | 29% | 22% |
+| Asthenia | 52% | 48% | 11% | 7% |
+| Fever | 48% | 56% | 19% | 22% |
+| Back Pain | 30% | 29% | 17% | 17% |
+| Ascites | 27% | 22% | 7% | 8% |
+| Peripheral Edema | 26% | 26% | 12% | 14% |
 | Respiratory System |  |  |  |  |
-| Pleural Effusion Dyspnea Atelectasis | 30%29%28% | 32%23%30% | 36%5%5% | 35%4%4% |
+| Pleural Effusion | 30% | 32% | 36% | 35% |
+| Dyspnea | 29% | 23% | 5% | 4% |
+| Atelectasis | 28% | 30% | 5% | 4% |
 | Skin and Appendages |  |  |  |  |
-| Pruritus Rash | 36%24% | 20%19% | 15%10% | 7%4% |
+| Pruritus | 36% | 20% | 15% | 7% |
+| Rash | 24% | 19% | 10% | 4% |
 
 Less frequently observed adverse reactions in both liver transplantation and kidney transplantation patients are described under the subsection Less Frequently Reported Adverse Reactions.
+
+Heart Transplantation
+
+The incidence of adverse reactions was determined based on two trials in primary orthotopic heart transplantation.
+In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids and azathioprine (AZA) in combination with tacrolimus (n=157) or cyclosporine (n=157) for 18 months.
+The trial population had a mean age of 51 years (range 18 to 65), the distribution was 82% male, and the composition was White (96%), Black (3%) and other(1%).
+
+The most common adverse reactions (≥ 15%) observed in tacrolimus-treated heart transplant patients are: abnormal renal function, hypertension, diabetes mellitus, CMV infection, tremor, hyperglycemia, leukopenia, infection, anemia, bronchitis, pericardial effusion, urinary tract infection and hyperlipemia.
+
+Adverse reactions in heart transplant patients in the European trial are presented below:
+
+Table 8.
+Heart Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
+
+|  | Tacrolimus/AZA (n=157) | Cyclosporine/AZA(n=157) |
+| --- | --- | --- |
+| Cardiovascular System |  |  |
+| Hypertension | 62% | 69% |
+| Pericardial Effusion | 15% | 14% |
+| Body as a Whole |  |  |
+| CMV Infection | 32% | 30% |
+| Infection | 24% | 21% |
+| Metabolic and Nutritional Disorders |  |  |
+| Diabetes Mellitus | 26% | 16% |
+| Hyperglycemia | 23% | 17% |
+| Hyperlipemia | 18% | 27% |
+| Hemic and Lymphatic System |  |  |
+| Anemia | 50% | 36% |
+| Leukopenia | 48% | 39% |
+| Urogenital System |  |  |
+| Kidney Function Abnormal | 56% | 57% |
+| Urinary Tract Infection | 16% | 12% |
+| Respiratory System |  |  |
+| Bronchitis | 17% | 18% |
+| Nervous System |  |  |
+| Tremor | 15% | 6% |
+
+In the European trial, the cyclosporine trough concentrations were above the pre-defined target range (i.e., 100 to 200 ng/mL) at Day 122 and beyond in 32 to 68% of the patients in the cyclosporine treatment arm, whereas the tacrolimus trough concentrations were within the pre-defined target range (i.e., 5 to 15 ng/mL) in 74 to 86% of the patients in the tacrolimus treatment arm.
+
+In a U.S. trial, the incidence of adverse reactions was based on 331 heart transplant patients that received corticosteroids and tacrolimus in combination with sirolimus (n=109), tacrolimus in combination with MMF (n=107) or cyclosporine modified in combination with MMF (n=115) for 1 year.
+The trial population had a mean age of 53 years (range 18 to 75), the distribution was 78% male, and the composition was White (83%), Black (13%) and other (4%).
+
+Only selected targeted treatment-emergent adverse reactions were collected in the U.S. heart transplantation trial.
+Those reactions that were reported at a rate of 15% or greater in patients treated with tacrolimus and MMF include the following: any target adverse reactions (99%), hypertension (89%), hyperglycemia requiring antihyperglycemic therapy (70%), hypertriglyceridemia (65%), anemia (hemoglobin <10.0 g/dL) (65%), fasting blood glucose >140 mg/dL (on two separate occasions) (61%), hypercholesterolemia (57%), hyperlipidemia (34%), WBCs <3000 cells/mcL (34%), serious bacterial infections (30%), magnesium <1.2 mEq/L (24%), platelet count <75,000 cells/mcL (19%), and other opportunistic infections (15%).
+
+Other targeted treatment-emergent adverse reactions in tacrolimus-treated patients occurred at a rate of less than 15%, and include the following: Cushingoid features, impaired wound healing, hyperkalemia, Candida infection, and CMV infection/syndrome.
 
 New Onset Diabetes After Transplant
 
@@ -257,9 +318,30 @@ a) Use of insulin for 30 or more consecutive days, with < 5 day gap, without a p
 
 b) Patients without pre-transplant history of diabetes mellitus.
 
+Heart Transplant
+
+Insulin-dependent PTDM was reported in 13% and 22% of tacrolimus-treated heart transplant patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year post-transplant, in the U.S. and European randomized trials, respectively (Table 13).
+Hyperglycemia defined as two fasting plasma glucose levels ≥126 mg/dL was reported with the use of tacrolimus plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
+
+Table 13.
+Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
+
+| Status of PTDMa | US Trial | European Trial |  |  |
+| --- | --- | --- | --- | --- |
+|  | Tacrolimus /MMF | Cyclosporine/MMF | Tacrolimus/ AZA | Cyclosporine/AZA |
+| Patients at riskb | 75 | 83 | 132 | 138 |
+| New Onset PTDMa | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
+| Patients still on insulin at1 yearc | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
+
+a) Use of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus.
+
+b) Patients without pre-transplant history of diabetes mellitus.
+
+c) 7 to 12 months for the U.S. trial.
+
 Less Frequently Reported Adverse Reactions (>3% and <15%)
 
-The following adverse reactions were reported in liver, kidney transplant recipients who were treated with tacrolimus in clinical trials.
+The following adverse reactions were reported in either liver, kidney, and/or heart transplant recipients who were treated with tacrolimus in clinical trials.
 
 Nervous System [see Warnings and Precautions (5.8)]
 
@@ -271,7 +353,7 @@ Abnormal vision, amblyopia, ear pain, otitis media, tinnitus
 
 Gastrointestinal
 
-Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis, gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite, jaundice, liver damage, oesophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, rectal disorder, stomatitis,
+Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis, gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite, jaundice, liver damage, oesophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, rectal disorder, stomatitis
 
 Cardiovascular
 

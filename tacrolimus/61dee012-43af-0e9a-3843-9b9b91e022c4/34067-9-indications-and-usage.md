@@ -12,9 +12,15 @@ Tacrolimus capsules are indicated for the prophylaxis of organ rejection in pati
 It is recommended that tacrolimus capsules be used concomitantly with adrenal corticosteroids [see Clinical Studies (14.2)].
 Therapeutic drug monitoring is recommended for all patients receiving tacrolimus capsules [see Dosage and Administration (2.6)].
 
+## 1.3 Prophylaxis of Organ Rejection in Heart Transplant
+
+Tacrolimus capsules are indicated for the prophylaxis of organ rejection in patients receiving allogeneic heart transplants.
+It is recommended that tacrolimus capsules be used concomitantly with azathioprine or mycophenolate mofetil (MMF) and adrenal corticosteroids [see Clinical Studies (14.3)].
+Therapeutic drug monitoring is recommended for all patients receiving tacrolimus capsules[see Dosage and Administration (2.6)].
+
 ## 1.4 Limitations of Use
 
 Tacrolimus capsules should not be used simultaneously with cyclosporine [see Dosage and Administration (2.5)].
 
-Use with sirolimus is not recommended in liver transplant.
+Use with sirolimus is not recommended in liver and heart transplant.
 The safety and efficacy of tacrolimus capsules with sirolimus has not been established in kidney transplant [see Warnings and Precautions (5.12)].

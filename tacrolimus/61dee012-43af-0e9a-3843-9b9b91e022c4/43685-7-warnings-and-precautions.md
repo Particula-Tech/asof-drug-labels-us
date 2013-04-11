@@ -63,7 +63,7 @@ Chronic calcineurininhibitor nephrotoxicity is associated with increased serum c
 Patients with impaired renal function should be monitored closely as the dosage of tacrolimus may need to be reduced.
 In patients with persistent elevations of serum creatinine who are unresponsive to dosage adjustments, consideration should be given to changing to another immunosuppressive therapy.
 
-Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 52% of kidney transplantation patients and in 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials, respectively [see Adverse Reactions (6.1)].
+Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 52% of kidney transplantation patients and in 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials, respectively, and in 59% of heart transplantation patients in a European randomized trial [see Adverse Reactions (6.1)].
 
 Due to the potential for additive or synergistic impairment of renal function, care should be taken when administering tacrolimus with drugs that may be associated with renal dysfunction.
 These include, but are not limited to, aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors (e.g., tenofovir) and protease inhibitors (e.g., ritonavir, indinavir).
@@ -114,9 +114,14 @@ The safety and efficacy of tacrolimus with sirolimus has not been established in
 
 Use of sirolimus with tacrolimus in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT) and is not recommended [see Indications and Usage (1.4)].
 
-## 5.13 Use with Strong Inhibitors and Inducers of CYP3A
+Use of sirolimus (2 mg per day) with tacrolimus in heart transplant patients in a U.S. trial was associated with increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Clinical Studies (14.3)].
 
-Co-administration with strong CYP3A4-inhibitors (e.g., ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of tacrolimus whole blood trough concentrations [see Drug Interactions (7)].
+## 5.13 Use with CYP3A4 Inhibitors and Inducers Including Those That Prolong QT
+
+Coadministration with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without adjustments in the dosing regimen of tacrolimus and subsequent close monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions [see Drug Interactions (7)].
+
+When coadministering tacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, close monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
+Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation..
 
 ## 5.14 Myocardial Hypertrophy
 

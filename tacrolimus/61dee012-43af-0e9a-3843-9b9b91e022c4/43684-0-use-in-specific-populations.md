@@ -20,7 +20,7 @@ As the effect of chronic exposure to tacrolimus in healthy infants is not establ
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of tacrolimus in pediatric kidney transplant patients have not been established.
+The safety and efficacy of tacrolimus in pediatric kidney and heart transplant patients have not been established.
 Successful liver transplants have been performed in pediatric patients (ages up to 16 years) using tacrolimus.
 Two randomized active controlled trials of tacrolimus in primary liver transplantation included 56 pediatric patients.
 Thirty-one patients were randomized to tacrolimus-based and 25 to cyclosporine-based therapies.
@@ -36,7 +36,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Use in Renal Impairment
 
 The pharmacokinetics of tacrolimus in patients with renal impairment was similar to that in healthy volunteers with normal renal function.
-However, consideration should be given to dosing tacrolimus at the lower end of the therapeutic dosing range in patients who have received a liver transplant and have pre-existing renal impairment.
+However, consideration should be given to dosing tacrolimus at the lower end of the therapeutic dosing range in patients who have received a liver or heart transplant and have pre-existing renal impairment.
 Further reductions in dose below the targeted range may be required [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Use in Hepatic Impairment

@@ -180,3 +180,16 @@ Most patients are stable when trough whole blood concentrations are maintained b
 Long-term post-transplant patients often are maintained at the low end of this target range.
 
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation ranged from 9.8 ng/mL to 19.4 ng/mL.
+
+## 14.3 Heart Transplantation
+
+Two open-label, randomized, comparative trials evaluated the safety and efficacy of tacrolimus-based and cyclosporinebased immunosuppression in primary orthotopic heart transplantation.
+In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids and azathioprine in combination with tacrolimus or cyclosporine modified for 18 months.
+In a 3-arm trial conducted in the US, 331 patients received corticosteroids and tacrolimus plus sirolimus, tacrolimus plus mycophenolate mofetil (MMF) or cyclosporine modified plus MMF for 1 year.
+
+In the European trial, patient/graft survival at 18 months post-transplant was similar between treatment arms, 92% in the tacrolimus group and 90% in the cyclosporine group.
+In the U.S. trial, patient and graft survival at 12 months was similar with 93% survival in the tacrolimus plus MMF group and 86% survival in the cyclosporine modified plus MMF group.
+In the European trial, the cyclosporine trough concentrations were above the pre-defined target range (i.e., 100 to 200 ng/mL) at Day 122 and beyond in 32 to 68% of the patients in the cyclosporine treatment arm, whereas the tacrolimus trough concentrations were within the pre-defined target range (i.e., 5 to 15 ng/mL) in 74 to 86% of the patients in the tacrolimus treatment arm.
+Data from this European trial indicate that from 1 week to 3 months post-transplant, approximately 80% of patients maintained trough concentrations between 8 to 20 ng/mL and, from 3 months through 18 months post-transplant, approximately 80% of patients maintained trough concentrations between 6 to18 ng/mL.
+
+The U.S. trial contained a third arm of a combination regimen of sirolimus, 2 mg per day, and full-dose tacrolimus; however, this regimen was associated with increased risk of wound healing complications, renal function impairment, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Warnings and Precautions (5.12)].
