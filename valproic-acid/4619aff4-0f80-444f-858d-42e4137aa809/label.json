@@ -3,7 +3,7 @@
     "NDA019680"
   ],
   "inn": "valproic-acid",
-  "labeler": "Abbott Laboratories",
+  "labeler": "AbbVie Inc.",
   "package_ndcs": [
     "0074-6114-11",
     "0074-6114-13",
@@ -11,7 +11,7 @@
   ],
   "products": [
     {
-      "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "form": "CAPSULE",
       "generic": "divalproex sodium",
       "name": "Depakote"
     }

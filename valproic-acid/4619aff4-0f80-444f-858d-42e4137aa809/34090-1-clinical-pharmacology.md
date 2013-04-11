@@ -10,7 +10,10 @@ It has been suggested that its activity in epilepsy is related to increased brai
 
 The relationship between plasma concentration and clinical response is not well documented.
 One contributing factor is the nonlinear, concentration dependent protein binding of valproate which affects the clearance of the drug.
-Thus, monitoring of total serum valproate may not provide a reliable index of the bioactive valproate species as protein binding may be affected by age and disease state (e.g. hepatic or renal insufficiency, hyperlipidemia).
+Thus, monitoring of total serum valproate may not provide a reliable index of the bioactive valproate species.
+
+For example, because the plasma protein binding of valproate is concentration dependent, the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
+Higher than expected free fractions occur in the elderly, in hyperlipidemic patients, and in patients with hepatic and renal diseases.
 
 Epilepsy
 
@@ -37,7 +40,7 @@ Protein Binding
 
 The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
 Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (e.g., aspirin).
-Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [See Drug Interactions (7) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
+Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see Drug Interactions (7) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
 
 CNS Distribution
 
@@ -58,7 +61,7 @@ Elimination
 
 Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m2 and 11 L/1.73 m2, respectively.
 Mean plasma clearance and volume of distribution for free valproate are 4.6 L/hr/1.73 m2 and 92 L/1.73 m2.
-Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1000 mg.
+Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1,000 mg.
 
 The estimates cited apply primarily to patients who are not taking drugs that affect hepatic metabolizing enzyme systems.
 For example, patients taking enzyme-inducing antiepileptic drugs (carbamazepine, phenytoin, and phenobarbital) will clear valproate more rapidly.
@@ -77,7 +80,7 @@ Elderly
 
 The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26).
 Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
-Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.4)].
+Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.2)].
 
 Effect of Sex
 
@@ -95,7 +98,7 @@ Liver disease impairs the capacity to eliminate valproate.
 In one study, the clearance of free valproate was decreased by 50% in 7 patients with cirrhosis and by 16% in 4 patients with acute hepatitis, compared with 6 healthy subjects.
 In that study, the half-life of valproate was increased from 12 to 18 hours.
 Liver disease is also associated with decreased albumin concentrations and larger unbound fractions (2 to 2.6 fold increase) of valproate.
-Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [See Boxed Warning, Contraindications (4), Warnings and Precautions (5.1)].
+Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [see Boxed Warning, Contraindications (4), and Warnings and Precautions (5.1)].
 
 Renal Disease
 

@@ -4,35 +4,33 @@ The following adverse reactions are discussed in greater detail in other section
 
 Hepatic failure (5.1)
 
-Teratogenicity (5.2)
+Birth defects and neurobehavioral adverse effects (5.3)
 
-Pancreatitis (5.3)
+Pancreatitis (5.4)
 
-Hyperammonemic encephalopathy (5.4, 5.7)
+Hyperammonemic encephalopathy (5.5, 5.8)
 
-Somnolence in the elderly (5.12)
+Somnolence in the elderly (5.13)
 
-Thrombocytopenia (5.6)
+Thrombocytopenia (5.7)
 
-Multi-organ hypersensitivity reactions (5.10)
+Multi-organ hypersensitivity reactions (5.11)
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 ## 6.1 Epilepsy
 
-Based on a placebo-controlled trial of adjunctive therapy for treatment of partial seizures, Depakote was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
-Intolerance was the primary reason for discontinuation in the Depakote -treated patients (6%), compared to 1% of placebo-treated patients.
+Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, Depakote was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
+Intolerance was the primary reason for discontinuation in the Depakote-treated patients (6%), compared to 1% of placebo-treated patients.
 
-In a long term (12-month) safety study in pediatric patients (N=169) between the ages of 3 and 10 years old, no clinically meaningful differences in the adverse event profile were observed when compared to adults.
+In a long term (12-month) safety study in pediatric patients (n=169) between the ages of 3 and 10 years old, no clinically meaningful differences in the adverse event profile were observed when compared to adults.
 
-Table 2 lists treatment-emergent adverse reactions which were reported by ≥ 5% of Depakote -treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
+Table 2 lists treatment-emergent adverse reactions which were reported by ≥ 5% of Depakote-treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of Depakote and other antiepilepsy drugs.
 
-Table 2.
-Adverse reactions Reported by ≥ 5% of Patients Treated with Depakote During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
-
-| Body System/Event | Depakote (%) (n = 77) | Placebo (%) (n = 70) |
+| Table 2. Adverse Reactions Reported by ≥ 5% of Patients Treated with Valproate During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures |  |  |
 | --- | --- | --- |
+| Body System/Event | Depakote (%) (n = 77) | Placebo (%) (n = 70) |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
 | Asthenia | 27 | 7 |
@@ -65,14 +63,12 @@ Adverse reactions Reported by ≥ 5% of Patients Treated with Depakote During Pl
 | Alopecia | 6 | 1 |
 | Weight Loss | 6 | 0 |
 
-Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of patients in the high dose Depakote group, and for which the incidence was greater than in the low dose group, in a controlled trial of Depakote monotherapy treatment of complex partial seizures.
-Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of Depakote and other antiepilepsy drugs.
+Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of patients in the high dose valproate group, and for which the incidence was greater than in the low dose group, in a controlled trial of Depakote monotherapy treatment of complex partial seizures.
+Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of valproate and other antiepilepsy drugs.
 
-Table 3.
-Adverse reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Depakote Monotherapy for Complex Partial Seizuresa
-
-| Body System/Event | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
+| Table 3. Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizuresa |  |  |
 | --- | --- | --- |
+| Body System/Event | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
 | Digestive System |  |  |
@@ -108,7 +104,7 @@ Adverse reactions Reported by ≥ 5% of Patients in the High Dose Group in the C
 | Tinnitus | 7 | 1 |
 | a. Headache was the only adverse event that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |  |  |
 
-The following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with Depakote in the controlled trials of complex partial seizures:
+The following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with valproate in the controlled trials of complex partial seizures:
 
 Body as a Whole: Back pain, chest pain, malaise.
 
@@ -151,7 +147,7 @@ Sedation usually abates upon reduction of other antiepileptic medication.
 Tremor (may be dose-related), hallucinations, ataxia, headache, nystagmus, diplopia, asterixis, "spots before eyes", dysarthria, dizziness, confusion, hypesthesia, vertigo, incoordination, and parkinsonism have been reported with the use of valproate.
 Rare cases of coma have occurred in patients receiving valproate alone or in conjunction with phenobarbital.
 In rare instances encephalopathy with or without fever has developed shortly after the introduction of valproate monotherapy without evidence of hepatic dysfunction or inappropriately high plasma valproate levels.
-Although recovery has been described following drug withdrawal, there have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders [see Warnings and Precautions (5.4)].
+Although recovery has been described following drug withdrawal, there have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders [see Warnings and Precautions (5.5)].
 
 Several reports have noted reversible cerebral atrophy and dementia in association with valproate therapy.
 
@@ -172,7 +168,7 @@ Weakness.
 
 Hematologic
 
-Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.6)].
+Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.7) and Drug Interactions (7)].
 Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Hepatic
@@ -184,23 +180,35 @@ These results may reflect potentially serious hepatotoxicity [see Warnings and P
 Endocrine
 
 Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, and parotid gland swelling.
-Abnormal thyroid function tests [see Warnings and Precautions (5.14)].
+Abnormal thyroid function tests [see Warnings and Precautions (5.15)].
 
 There have been rare spontaneous reports of polycystic ovary disease.
 A cause and effect relationship has not been established.
 
-Pancreatic: Acute pancreatitis including fatalities [see Warnings and Precautions (5.3)].
+Pancreatic
 
-Metabolic: Hyperammonemia [see Warnings and Precautions (5.7 and 5.8)], hyponatremia, and inappropriate ADH secretion.
+Acute pancreatitis including fatalities [see Warnings and Precautions (5.4)].
+
+Metabolic
+
+Hyperammonemia [see Warnings and Precautions (5.8, 5.9)], hyponatremia, and inappropriate ADH secretion.
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 
 Decreased carnitine concentrations have been reported although the clinical relevance is undetermined.
 
 Hyperglycinemia has occurred and was associated with a fatal outcome in a patient with preexistent nonketotic hyperglycinemia.
 
-Genitourinary: Enuresis and urinary tract infection.
+Genitourinary
 
-Special Senses: Hearing loss, either reversible or irreversible, has been reported; however, a cause and effect relationship has not been established.
+Enuresis and urinary tract infection.
+
+Special Senses
+
+Hearing loss, either reversible or irreversible, has been reported; however, a cause and effect relationship has not been established.
 Ear pain has also been reported.
 
-Other: Allergic reaction, anaphylaxis, edema of the extremities, lupus erythematosus, bone pain, cough increased, pneumonia, otitis media, bradycardia, cutaneous vasculitis, fever, and hypothermia [see Warnings and Precautions (5.9)].
+Other
+
+Allergic reaction, anaphylaxis, edema of the extremities, lupus erythematosus, bone pain, cough increased, pneumonia, otitis media, bradycardia, cutaneous vasculitis, fever, and hypothermia [see Warnings and Precautions (5.10)].
+
+There have been reports of developmental delay, autism and/or autism spectrum disorder in the offspring of women exposed to valproate during pregnancy.

@@ -24,15 +24,15 @@ Caution should be observed if valproate and aspirin are to be co-administered.
 
 Carbapenem Antibiotics
 
-A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (ertapenem, imipenem, meropenem) and may result in loss of seizure control.
+A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) and may result in loss of seizure control.
 The mechanism of this interaction in not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
-Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.11)].
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.12)].
 
 Felbamate
 
-A study involving the co-administration of 1200 mg/day of felbamate with valproate to patients with epilepsy (n=10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
-Increasing the felbamate dose to 2400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
+A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n=10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
+Increasing the felbamate dose to 2,400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
 A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
 
 Rifampin
@@ -81,26 +81,26 @@ Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10
 
 Clonazepam
 
-The concomitant use of valproic acid and clonazepam may induce absence status in patients with a history of absence type seizures.
+The concomitant use of valproate and clonazepam may induce absence status in patients with a history of absence type seizures.
 
 Diazepam
 
 Valproate displaces diazepam from its plasma albumin binding sites and inhibits its metabolism.
-Co-administration of valproate (1500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n=6).
+Co-administration of valproate (1,500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n=6).
 Plasma clearance and volume of distribution for free diazepam were reduced by 25% and 20%, respectively, in the presence of valproate.
 The elimination half-life of diazepam remained unchanged upon addition of valproate.
 
 Ethosuximide
 
 Valproate inhibits the metabolism of ethosuximide.
-Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1600 mg/day) to healthy volunteers (n=6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone.
+Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1,600 mg/day) to healthy volunteers (n=6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone.
 Patients receiving valproate and ethosuximide, especially along with other anticonvulsants, should be monitored for alterations in serum concentrations of both drugs.
 
 Lamotrigine
 
 In a steady-state study involving 10 healthy volunteers, the elimination half-life of lamotrigine increased from 26 to 70 hours with valproate co-administration (a 165% increase).
 The dose of lamotrigine should be reduced when co-administered with valproate.
-Serious skin reactions (such as Stevens - Johnson syndrome and toxic epidermal necrolysis) have been reported with concomitant lamotrigine and valproate administration.
+Serious skin reactions (such as Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported with concomitant lamotrigine and valproate administration.
 See lamotrigine package insert for details on lamotrigine dosing with concomitant valproate administration.
 
 Phenobarbital
@@ -133,7 +133,7 @@ The clinical relevance of this displacement is unknown.
 Warfarin
 
 In an in vitro study, valproate increased the unbound fraction of warfarin by up to 32.6%.
-The therapeutic relevance of this is unknown; however, coagulation tests should be monitored if valproic acid therapy is instituted in patients taking anticoagulants.
+The therapeutic relevance of this is unknown; however, coagulation tests should be monitored if valproate therapy is instituted in patients taking anticoagulants.
 
 Zidovudine
 
@@ -163,6 +163,6 @@ Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (25
 
 ## 7.3 Topiramate
 
-Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.4, 5.7, 5.8)].
-Concomitant administration of topiramate with valproic acid has also been associated with hypothermia in patients who have tolerated either drug alone.
-It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.7, 5.9)].
+Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.5, 5.8, 5.9)].
+Concomitant administration of topiramate with valproate has also been associated with hypothermia in patients who have tolerated either drug alone.
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.8, 5.10)].
