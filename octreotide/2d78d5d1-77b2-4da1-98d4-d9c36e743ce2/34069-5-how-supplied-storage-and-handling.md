@@ -15,17 +15,9 @@ At room temperature, (20° to 30°C or 70° to 86°F), octreotide acetate inject
 The solution can be allowed to come to room temperature prior to administration.
 Do not warm artificially.
 
-Also available in 5 mL multiple dose clear vials as follows:
-
-NDC 67457-240-05; octreotide acetate equivalent to octreotide 200 mcg/mL, individually boxed.
-
-NDC 67457-247-05; octreotide acetate equivalent to octreotide 1000 mcg/mL, individually boxed.
-
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Single-dose syringes manufactured by:
-
-Italfarmaco S.p.A.
+Manufactured by: Italfarmaco S.p.A.
 V.le Fulvio Testi, 330 20126 Milano, Italy
 
-REVISED AUGUST 2012 MI:OCTRIJ:R2 PK20194
+REVISED MARCH 2013 MI:OCTRIJ:R3 PK20262

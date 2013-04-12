@@ -5,8 +5,11 @@
   "inn": "octreotide",
   "labeler": "Mylan Institutional LLC",
   "package_ndcs": [
+    "67457-239-00",
     "67457-239-01",
+    "67457-245-00",
     "67457-245-01",
+    "67457-246-00",
     "67457-246-01"
   ],
   "products": [
