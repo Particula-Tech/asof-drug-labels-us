@@ -20,14 +20,14 @@ Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Volunteers at Steady-
 
 | AUC0-24 (mcg•h/mL) | t1/2 (h) | Vss (L/kg) | CLT (mL/h/kg) | Cmax (mcg/mL) |  |
 | --- | --- | --- | --- | --- | --- |
-| DoseCUBICIN was administered by infusion over a 30-minute period.Doses of CUBICIN in excess of 6 mg/kg have not been approved. (mg/kg) | Pharmacokinetic ParametersAUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |
+| DoseCUBICIN was administered by IV infusion over a 30-minute period.Doses of CUBICIN in excess of 6 mg/kg have not been approved. (mg/kg) | Pharmacokinetic ParametersAUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |
 | 4 (N=6) | 494 (75) | 8.1 (1.0) | 0.096 (0.009) | 8.3 (1.3) | 57.8 (3.0) |
 | 6 (N=6) | 632 (78) | 7.9 (1.0) | 0.101 (0.007) | 9.1 (1.5) | 93.9 (6.0) |
 | 8 (N=6) | 858 (213) | 8.3 (2.2) | 0.101 (0.013) | 9.0 (3.0) | 123.3 (16.0) |
 | 10 (N=9) | 1039 (178) | 7.9 (0.6) | 0.098 (0.017) | 8.8 (2.2) | 141.1 (24.0) |
 | 12 (N=9) | 1277 (253) | 7.7 (1.1) | 0.097 (0.018) | 9.0 (2.8) | 183.7 (25.0) |
 
-Daptomycin pharmacokinetics were generally linear and time-independent at CUBICIN doses of 4 to 12 mg/kg q24h administered for up to 14 days.
+Daptomycin pharmacokinetics were generally linear and time-independent at CUBICIN doses of 4 to 12 mg/kg q24h administered by IV infusion over a 30-minute period for up to 14 days.
 Steady-state trough concentrations were achieved by the third daily dose.
 The mean (SD) steady-state trough concentrations attained following the administration of 4, 6, 8, 10, and 12 mg/kg q24h were 5.9 (1.6), 6.7 (1.6), 10.3 (5.5), 12.9 (2.9), and 13.7 (5.2) mcg/mL, respectively.
 
@@ -53,7 +53,7 @@ Metabolism
 
 In in vitro studies, daptomycin was not metabolized by human liver microsomes.
 
-In 5 healthy young adults after infusion of radiolabeled 14C-daptomycin, the plasma total radioactivity was similar to the concentration determined by microbiological assay.
+In 5 healthy adults after infusion of radiolabeled 14C-daptomycin, the plasma total radioactivity was similar to the concentration determined by microbiological assay.
 Inactive metabolites were detected in urine, as determined by the difference between total radioactive concentrations and microbiologically active concentrations.
 In a separate study, no metabolites were observed in plasma on Day 1 following the administration of CUBICIN at 6 mg/kg to subjects.
 Minor amounts of three oxidative metabolites and one unidentified compound were detected in urine.
@@ -70,11 +70,11 @@ Renal Impairment
 
 Population-derived pharmacokinetic parameters were determined for infected patients (complicated skin and skin structure infections [cSSSI] and S. aureus bacteremia) and noninfected subjects with various degrees of renal function (Table 8).
 Total plasma clearance (CLT), elimination half-life (t1/2), and volume of distribution at steady-state (Vss) in patients with cSSSI were similar to those in patients with S. aureus bacteremia.
-Following IV administration of CUBICIN 4 mg/kg q24h, the mean CLT was 9%, 22%, and 46% lower among subjects and patients with mild (CLCR 50–80 mL/min), moderate (CLCR 30–<50 mL/min), and severe (CLCR <30 mL/min) renal impairment, respectively, than in those with normal renal function (CLCR >80 mL/min).
+Following administration of CUBICIN 4 mg/kg q24h by IV infusion over a 30-minute period, the mean CLT was 9%, 22%, and 46% lower among subjects and patients with mild (CLCR 50–80 mL/min), moderate (CLCR 30–<50 mL/min), and severe (CLCR <30 mL/min) renal impairment, respectively, than in those with normal renal function (CLCR >80 mL/min).
 The mean steady-state systemic exposure (AUC), t1/2, and Vss increased with decreasing renal function, although the mean AUC for patients with CLCR 30–80 mL/min was not markedly different from the mean AUC for patients with normal renal function.
 The mean AUC for patients with CLCR <30 mL/min and for patients on dialysis (CAPD and hemodialysis dosed post-dialysis) was approximately 2 and 3 times higher, respectively, than for patients with normal renal function.
 The mean Cmax ranged from 60 to 70 mcg/mL in patients with CLCR ≥30 mL/min, while the mean Cmax for patients with CLCR <30 mL/min ranged from 41 to 58 mcg/mL.
-After IV administration of CUBICIN 6 mg/kg q24h, the mean Cmax ranged from 80 to 114 mcg/mL in patients with mild to moderate renal impairment and was similar to that of patients with normal renal function.
+After administration of CUBICIN 6 mg/kg q24h by IV infusion over a 30-minute period, the mean Cmax ranged from 80 to 114 mcg/mL in patients with mild to moderate renal impairment and was similar to that of patients with normal renal function.
 
 Table 8.
 Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of CUBICIN 4 mg/kg or 6 mg/kg to Infected Patients and Noninfected Subjects with Various Degrees of Renal Function
@@ -90,7 +90,7 @@ Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of
 | CAPD | 27.56 (4.53) N=5 | 0.11 (0.02) N=5 | 2.9 (0.4) N=5 | 1409 (238) N=5 | NA | NA |
 | Note: CUBICIN was administered over a 30-minute period. |  |  |  |  |  |  |
 
-Because renal excretion is the primary route of elimination, adjustment of CUBICIN dosage is necessary in patients with severe renal impairment (CLCR <30 mL/min) [see Dosage and Administration (2.4)].
+Because renal excretion is the primary route of elimination, adjustment of CUBICIN dosage interval is necessary in patients with severe renal impairment (CLCR <30 mL/min) [see Dosage and Administration (2.4)].
 
 Hepatic Impairment
 
@@ -107,13 +107,13 @@ No dosage adjustment is warranted based on gender when CUBICIN is administered.
 Geriatric
 
 The pharmacokinetics of daptomycin were evaluated in 12 healthy elderly subjects (≥75 years of age) and 11 healthy young controls (18 to 30 years of age).
-Following administration of a single 4 mg/kg IV dose of CUBICIN, the mean total clearance of daptomycin was approximately 35% lower and the mean AUC0-∞ was approximately 58% higher in elderly subjects than in healthy young subjects.
+Following administration of a single 4 mg/kg dose of CUBICIN by IV infusion over a 30-minute period, the mean total clearance of daptomycin was approximately 35% lower and the mean AUC0-∞ was approximately 58% higher in elderly subjects than in healthy young subjects.
 There were no differences in Cmax [see Use in Specific Populations (8.5)].
 
 Obesity
 
 The pharmacokinetics of daptomycin were evaluated in 6 moderately obese (Body Mass Index [BMI] 25 to 39.9 kg/m2) and 6 extremely obese (BMI ≥40 kg/m2) subjects and controls matched for age, gender, and renal function.
-Following administration of CUBICIN as a single 4 mg/kg IV dose based on total body weight, the total plasma clearance of daptomycin normalized to total body weight was approximately 15% lower in moderately obese subjects and 23% lower in extremely obese subjects than in nonobese controls.
+Following administration of CUBICIN by IV infusion over a 30-minute period as a single 4 mg/kg dose based on total body weight, the total plasma clearance of daptomycin normalized to total body weight was approximately 15% lower in moderately obese subjects and 23% lower in extremely obese subjects than in nonobese controls.
 The AUC0-∞ of daptomycin was approximately 30% higher in moderately obese subjects and 31% higher in extremely obese subjects than in nonobese controls.
 The differences were most likely due to differences in the renal clearance of daptomycin.
 No adjustment of CUBICIN dosage is warranted in obese patients.
@@ -131,30 +131,30 @@ It is unlikely that daptomycin will inhibit or induce the metabolism of drugs me
 
 Aztreonam
 
-In a study in which 15 healthy adult subjects received a single dose of CUBICIN 6 mg/kg IV and a combination dose of CUBICIN 6 mg/kg IV and aztreonam 1 g IV, the Cmax and AUC0-∞ of daptomycin were not significantly altered by aztreonam.
+In a study in which 15 healthy adult subjects received a single dose of CUBICIN 6 mg/kg IV and a combination dose of CUBICIN 6 mg/kg IV and aztreonam 1 g IV, administered over a 30-minute period, the Cmax and AUC0-∞ of daptomycin were not significantly altered by aztreonam.
 
 Tobramycin
 
-In a study in which 6 healthy adult males received a single dose of CUBICIN 2 mg/kg IV, tobramycin 1 mg/kg IV, and both in combination, the mean Cmax and AUC0-∞ of daptomycin were 12.7% and 8.7% higher, respectively, when CUBICIN was coadministered with tobramycin.
+In a study in which 6 healthy adult males received a single dose of CUBICIN 2 mg/kg IV, tobramycin 1 mg/kg IV, and both in combination, administered over a 30-minute period, the mean Cmax and AUC0-∞ of daptomycin were 12.7% and 8.7% higher, respectively, when CUBICIN was coadministered with tobramycin.
 The mean Cmax and AUC0-∞ of tobramycin were 10.7% and 6.6% lower, respectively, when tobramycin was coadministered with CUBICIN.
 These differences were not statistically significant.
 The interaction between daptomycin and tobramycin with a clinical dose of CUBICIN is unknown.
 
 Warfarin
 
-In 16 healthy subjects, IV administration of CUBICIN 6 mg/kg q24h for 5 days, with coadministration of a single oral dose of warfarin (25 mg) on the 5th day, had no significant effect on the pharmacokinetics of either drug and did not significantly alter the INR (International Normalized Ratio).
+In 16 healthy subjects, administration of CUBICIN 6 mg/kg q24h by IV infusion over a 30-minute period for 5 days, with coadministration of a single oral dose of warfarin (25 mg) on the 5th day, had no significant effect on the pharmacokinetics of either drug and did not significantly alter the INR (International Normalized Ratio).
 
 Simvastatin
 
-In 20 healthy subjects on a stable daily dose of simvastatin 40 mg, administration of CUBICIN 4 mg/kg IV q24h for 14 days (N=10) had no effect on plasma trough concentrations of simvastatin and was not associated with a higher incidence of adverse events, including skeletal myopathy, than in subjects receiving placebo once daily (N=10) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+In 20 healthy subjects on a stable daily dose of simvastatin 40 mg, administration of CUBICIN 4 mg/kg q24h by IV infusion over a 30-minute period for 14 days (N=10) had no effect on plasma trough concentrations of simvastatin and was not associated with a higher incidence of adverse events, including skeletal myopathy, than in subjects receiving placebo once daily (N=10) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
 Probenecid
 
-Concomitant administration of probenecid (500 mg 4 times daily) and a single dose of CUBICIN 4 mg/kg IV did not significantly alter the Cmax or AUC0-∞ of daptomycin.
+Concomitant administration of probenecid (500 mg 4 times daily) and a single dose of CUBICIN 4 mg/kg by IV infusion over a 30-minute period did not significantly alter the Cmax or AUC0-∞ of daptomycin.
 
 ## 12.4 Microbiology
 
-Daptomycin belongs to the cyclic lipopeptide class of antibiotics.
+Daptomycin belongs to the cyclic lipopeptide class of antibacterials.
 Daptomycin has clinical utility in the treatment of infections caused by aerobic, Gram-positive bacteria.
 The in vitro spectrum of activity of daptomycin encompasses most clinically relevant Gram-positive pathogenic bacteria.
 
@@ -165,8 +165,8 @@ The clinical significance of this is not known.
 
 Mechanism of Action
 
-The mechanism of action of daptomycin is distinct from that of any other antibiotic.
-Daptomycin binds to bacterial membranes and causes a rapid depolarization of membrane potential.
+The mechanism of action of daptomycin is distinct from that of any other antibacterial.
+Daptomycin binds to bacterial cell membranes and causes a rapid depolarization of membrane potential.
 This loss of membrane potential causes inhibition of DNA, RNA, and protein synthesis, which results in bacterial cell death.
 
 Mechanism of Resistance
@@ -223,7 +223,7 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Dilution Techniques
 
-Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized broth test method2,3 with the broth adjusted to a calcium content of 50 mg/L.
 The use of the agar dilution method is not recommended with daptomycin3.
@@ -250,7 +250,7 @@ The use of the disk diffusion method is not recommended with daptomycin3,4.
 Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test2,3.
-Standard daptomycin powder should provide the range of MIC values noted in Table 10.
+Standard daptomycin powder should provide the ranges of MIC values noted in Table 10.
 
 Table 10.
 Acceptable Quality Control Ranges for Daptomycin to Be Used in Validation of Susceptibility Test Results

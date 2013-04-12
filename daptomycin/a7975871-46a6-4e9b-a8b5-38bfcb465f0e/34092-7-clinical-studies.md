@@ -62,7 +62,7 @@ In the ITT population, 120 patients received CUBICIN and 115 received comparator
 Thirty-five patients treated with an anti-staphylococcal semi-synthetic penicillin received vancomycin initially for 1 to 3 days, pending final susceptibility results for the S. aureus isolates.
 The median age among the 235 patients in the ITT population was 53 years (range: 21 to 91 years); 30/120 (25%) in the CUBICIN group and 37/115 (32%) in the comparator group were ≥65 years of age.
 Of the 235 ITT patients, there were 141 (60%) males and 156 (66%) Caucasians across the two treatment groups.
-In addition, 176 (75%) of the ITT population had systemic inflammatory response syndrome (SIRS) and 85 (36%) had surgical procedures within 30 days after onset of the S. aureus bacteremia.
+In addition, 176 (75%) of the ITT population had systemic inflammatory response syndrome (SIRS) at baseline and 85 (36%) had surgical procedures within 30 days prior to onset of the S. aureus bacteremia.
 Eighty-nine patients (38%) had bacteremia caused by methicillin-resistant S. aureus (MRSA).
 Entry diagnosis was based on the modified Duke criteria and comprised 37 (16%) Definite, 144 (61%) Possible, and 54 (23%) Not Endocarditis.
 Of the 37 patients with an entry diagnosis of Definite Endocarditis, all (100%) had a final diagnosis of infective endocarditis, and of the 144 patients with an entry diagnosis of Possible Endocarditis, 15 (10%) had a final diagnosis of infective endocarditis as assessed by the Adjudication Committee.

@@ -13,7 +13,7 @@ Because animal reproduction studies are not always predictive of human response,
 Daptomycin is present in human milk but is poorly bioavailable orally.
 In a single case study, CUBICIN was administered daily for 28 days to a nursing mother at an IV dose of 6.7 mg/kg/day, and samples of the patient's breast milk were collected over a 24-hour period on day 27.
 The highest measured concentration of daptomycin in the breast milk was 0.045 mcg/mL1.
-The calculated maximum daily CUBICIN dose to the infant (assuming mean milk consumption of 150 mL/kg/day) was 0.1% of the maternal dose (6.7 mg/kg/day).
+The calculated maximum daily CUBICIN dose to the infant (assuming mean milk consumption of 150 mL/kg/day) was 0.1% of the maternal dose of 6.7 mg/kg/day.
 Caution should be exercised when CUBICIN is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
@@ -32,5 +32,5 @@ However, no adjustment of CUBICIN dosage is warranted for elderly patients with 
 
 ## 8.6 Patients with Renal Impairment
 
-Daptomycin is eliminated primarily by the kidneys; therefore, a modification of CUBICIN dosage is recommended for patients with CLCR <30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
+Daptomycin is eliminated primarily by the kidneys; therefore, a modification of CUBICIN dosage interval is recommended for patients with CLCR <30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
 In patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.4), Warnings and Precautions (5.2, 5.7), and Clinical Pharmacology (12.3)].

@@ -58,31 +58,31 @@ Failure of treatment due to persisting or relapsing S. aureus bacteremia/endocar
 
 ## 5.7 Decreased Efficacy in Patients with Moderate Baseline Renal Impairment
 
-There are limited data available from the cSSSI clinical trials regarding clinical efficacy of daptomycin treatment in patients with CrCL <50 mL/min; only 31/534 (6%) patients treated with daptomycin in the intent-to-treat (ITT) population had a baseline CrCL <50 mL/min.
-Table 2 shows the number of patients by CrCL and treatment group who were clinical successes in the cSSSI trials.
+Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of CUBICIN treatment in patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with CUBICIN in the intent-to-treat (ITT) population had a baseline CLCR <50 mL/min.
+Table 2 shows the number of patients by renal function and treatment group who were clinical successes in the Phase 3 cSSSI trials.
 
 Table 2.
-Clinical Success Rates by Treatment Group and Renal Function in the Daptomycin cSSSI Clinical Trials (Population: ITT)
+Clinical Success Rates by Renal Function and Treatment Group in Phase 3 cSSSI Trials (Population: ITT)
 
-| Daptomycin 4 mg/kg q24h | Comparator |  |
+| CUBICIN 4 mg/kg q24h | Comparator |  |
 | --- | --- | --- |
-| CrCL | Success Rate n/N (%) |  |
-| 50-70 mL/min | 25/38 (66%) | 30/48 (63%) |
-| 30-<50 mL/min | 7/15 (47%) | 20/35 (57%) |
+| CLCR | Success Rate n/N (%) |  |
+| 50–70 mL/min | 25/38 (66%) | 30/48 (63%) |
+| 30–<50 mL/min | 7/15 (47%) | 20/35 (57%) |
 
-In a subgroup analysis of the ITT population in the S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Trials (14.2)], in the daptomycin-treated patients were lower in patients with baseline CrCL <50 mL/min (Table 3).
+In a subgroup analysis of the ITT population in the Phase 3 S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Trials (14.2)], in the CUBICIN-treated patients were lower in patients with baseline CLCR <50 mL/min (see Table 3).
 A decrease of the magnitude shown in Table 3 was not observed in comparator-treated patients.
 
 Table 3.
-Adjudication Committee Success Rates at TOC Stratified by Baseline Creatinine Clearance in the S. aureus Bacteremia/Endocarditis Trial (Population: ITT)
+Adjudication Committee Clinical Success Rates at Test of Cure by Baseline Creatinine Clearance and Treatment Subgroup in the S. aureus Bacteremia/Endocarditis Trial (Population: ITT)
 
-| Bacteremia | Right-Sided Infective Endocardtis | Bacteremia | Right-Sided Infective Endocardtis |  |
+| Bacteremia | Right-Sided Infective Endocarditis | Bacteremia | Right-Sided Infective Endocarditis |  |
 | --- | --- | --- | --- | --- |
-| Baseline CrCL | Success Rate n/N (%) |  |  |  |
-| Daptomycin |  | Comparator |  |  |
+| Baseline CLCR | Success Rate n/N (%) |  |  |  |
+| CUBICIN 6 mg/kg q24h |  | Comparator |  |  |
 | >80 mL/min | 30/50 (60%) | 7/14 (50%) | 19/42 (45%) | 5/11 (46%) |
-| 50-80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
-| 30-50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
+| 50–80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
+| 30–<50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
 
 Consider these data when selecting antibacterial therapy for use in patients with baseline moderate to severe renal impairment.
 

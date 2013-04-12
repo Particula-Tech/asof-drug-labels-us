@@ -20,7 +20,7 @@ Severity was dose-dependent.
 All muscle effects, including microscopic changes, were fully reversible within 30 days following the cessation of dosing.
 
 In adult animals, effects on peripheral nerve (characterized by axonal degeneration and frequently accompanied by significant losses of patellar reflex, gag reflex, and pain perception) were observed at daptomycin doses higher than those associated with skeletal myopathy.
-Deficits in the dogs' patellar reflexes were seen within 2 weeks after the start of treatment at 40 mg/kg/day (9 times the human Cmax at the 6 mg/kg q24h dose), with some clinical improvement noted within 2 weeks after the cessation of dosing.
+Deficits in the dogs' patellar reflexes were seen within 2 weeks after the start of treatment at 40 mg/kg/day (9 times the human Cmax at the 6 mg/kg/day dose), with some clinical improvement noted within 2 weeks after the cessation of dosing.
 However, at 75 mg/kg/day for 1 month, 7 of 8 dogs failed to regain full patellar reflex responses within a 3-month recovery period.
 In a separate study in dogs receiving doses of 75 and 100 mg/kg/day for 2 weeks, minimal residual histological changes were noted at 6 months after the cessation of dosing.
 However, recovery of peripheral nerve function was evident.

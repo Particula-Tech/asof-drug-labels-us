@@ -16,12 +16,12 @@ Clinical trials enrolled 1,864 patients treated with CUBICIN and 1,416 treated w
 
 Complicated Skin and Skin Structure Infection Trials
 
-In Phase 3 complicated skin and skin structure infection trials, CUBICIN was discontinued in 15/534 (2.8%) patients due to an adverse reaction, while comparator was discontinued in 17/558 (3.0%) patients.
+In Phase 3 complicated skin and skin structure infection (cSSSI) trials, CUBICIN was discontinued in 15/534 (2.8%) patients due to an adverse reaction, while comparator was discontinued in 17/558 (3.0%) patients.
 
 The rates of the most common adverse reactions, organized by body system, observed in cSSSI (4 mg/kg CUBICIN) patients are displayed in Table 4.
 
 Table 4.
-Incidence of Adverse Reactions that Occurred in ≥2% of Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Groups in Phase 3 cSSSI Trials
+Incidence of Adverse Reactions that Occurred in ≥2% of Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
 
 | CUBICIN 4 mg/kg (N=534) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). (N=558) |  |
 | --- | --- | --- |
@@ -67,7 +67,7 @@ S. aureus Bacteremia/Endocarditis Trial
 
 In the S. aureus bacteremia/endocarditis trial, CUBICIN was discontinued in 20/120 (16.7%) patients due to an adverse reaction, while comparator was discontinued in 21/116 (18.1%) patients.
 
-Serious Gram-negative infections (including bloodstream infections) were reported in 10/120 (8.3%) CUBICIN-treated and 0/115 comparator-treated patients.
+Serious Gram-negative infections (including bloodstream infections) were reported in 10/120 (8.3%) CUBICIN-treated patients and 0/115 comparator-treated patients.
 Comparator-treated patients received dual therapy that included initial gentamicin for 4 days.
 Infections were reported during treatment and during early and late follow-up.
 Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal osteomyelitis/mediastinitis, bowel infarction, recurrent Crohn's disease, recurrent line sepsis, and recurrent urosepsis caused by a number of different Gram-negative bacteria.
@@ -75,7 +75,7 @@ Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal o
 The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in S. aureus bacteremia/endocarditis (6 mg/kg CUBICIN) patients are displayed in Table 5.
 
 Table 5.
-Incidence of Adverse Reactions that Occurred in ≥5% of Patients in the CUBICIN Treatment Group and ≥ to the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
+Incidence of Adverse Reactions that Occurred in ≥5% of Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
 
 | CUBICIN 6 mg/kg (N=120) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. (N=116) |  |
 | --- | --- | --- |
@@ -143,12 +143,12 @@ The symptoms resolved within 3 days and CPK returned to normal within 7 to 10 da
 Table 6 summarizes the CPK shifts from Baseline through End of Therapy in the cSSSI trials.
 
 Table 6.
-Incidence of CPK Elevations from Baseline during Therapy in Either the CUBICIN Treatment Group or the Comparator Treatment Groups in Phase 3 cSSSI Trials
+Incidence of CPK Elevations from Baseline during Therapy in Either the CUBICIN Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Trials
 
 | % | n | % | n | % | n | % | n |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Change in CPK |  | All Patients |  |  |  | Patients with Normal CPK at Baseline |  |  |  |
-| CUBICIN (N=430) |  | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). (N=459) |  | CUBICIN (N=374) |  | Comparator (N=392) |  |  |  |
+| CUBICIN 4 mg/kg (N=430) |  | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). (N=459) |  | CUBICIN 4 mg/kg (N=374) |  | Comparator (N=392) |  |  |  |
 | No Increase |  | 90.7 | 390 | 91.1 | 418 | 91.2 | 341 | 91.1 | 357 |
 | Maximum Value | >1× ULNULN (Upper Limit of Normal) is defined as 200 U/L. | 9.3 | 40 | 8.9 | 41 | 8.8 | 33 | 8.9 | 35 |
 |  | >2× ULN | 4.9 | 21 | 4.8 | 22 | 3.7 | 14 | 3.1 | 12 |
@@ -168,7 +168,7 @@ Three of these 11 CUBICIN-treated patients discontinued therapy due to CPK eleva
 The following adverse reactions have been identified during postapproval use of CUBICIN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure.
 
-Immune System Disorders: anaphylaxis; hypersensitivity reactions, including pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
+Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
 
 Infections and Infestations: Clostridium difficile–associated diarrhea [see Warnings and Precautions (5.5)]
 
