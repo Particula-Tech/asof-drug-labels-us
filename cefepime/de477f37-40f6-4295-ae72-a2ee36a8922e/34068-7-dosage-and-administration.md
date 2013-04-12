@@ -55,7 +55,8 @@ Data in pediatric patients with impaired renal function are not available; howev
 
 ## Administration
 
-For Intravenous Infusion, constitute the 1 g, or 2 g vial, and add an appropriate quantity of the resulting solution to an intravenous container with one of the compatible intravenous fluids listed in the Compatibility and Stability subsection.
+For Intravenous Infusion, Dilute with a suitable parenteral vehicle prior to intravenous infusion.
+Constitute the 1 g, or 2 g vial, and add an appropriate quantity of the resulting solution to an intravenous container with one of the compatible intravenous fluids listed in the Compatibility and Stability subsection.
 THE RESULTING SOLUTION SHOULD BE ADMINISTERED OVER APPROXIMATELY 30 MINUTES.
 
 Intermittent intravenous infusion with a Y-type administration set can be accomplished with compatible solutions.
@@ -75,8 +76,8 @@ Table 14: Preparation of Solutions of Cefepime for Injection
 
 ## Compatibility and Stability
 
-Intravenous: Cefepime for injection is compatible at concentrations between 1 mg per mL and 40 mg per mL with the following intravenous infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, Normosol-R™, and Normosol-M™ in 5% Dextrose Injection.
-These solutions may be stored up to 24 hours at controlled room temperature 20° to 25°C (68° to 77°F) or 7 days in a refrigerator 2° to 8°C (36° to 46°F).
+Intravenous: Cefepime for injection is compatible at concentrations between 1 mg per mL and 40 mg per mL with the following intravenous infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, NormosolTM-R, and NormosolTM-M in 5% Dextrose Injection.
+These solutions may be stored up to 24 hours at controlled room temperature 20°C to 25°C (68°F to 77°F) or 7 days in a refrigerator 2°C to 8°C (36°F to 46°F).
 
 Cefepime for injection admixture compatibility information is summarized in Table 15.
 
@@ -95,7 +96,7 @@ Table 15: Cefepime Admixture Stability
 | 4 mg/mL | Heparin 10 to 50 units/mL | NS or D5W | 24 hours | 7 days |
 | 4 mg/mL | Potassium Chloride 10 to 40 mEq/L | NS or D5W | 24 hours | 7 days |
 | 4 mg/mL | Theophylline 0.8 mg/mL | D5W | 24 hours | 7 days |
-| 1 to 4 mg/mL | na | Aminosyn® II 4.25% with electrolytes and calcium | 8 hours | 3 days |
+| 1 to 4 mg/mL | na | AminosynTM II 4.25% with electrolytes and calcium | 8 hours | 3 days |
 | 0.125 to 0.25 mg/mL | na | InpersolTM with 4.25% dextrose | 24 hours | 7 days |
 | NS = 0.9% Sodium Chloride Injection |  |  |  |  |
 | D5W = 5% Dextrose Injection |  |  |  |  |
@@ -105,8 +106,9 @@ Table 15: Cefepime Admixture Stability
 Solutions of cefepime for injection, like those of most beta-lactam antibiotics, should not be added to solutions of ampicillin at a concentration greater than 40 mg per mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate, or aminophylline because of potential interaction.
 However, if concurrent therapy with cefepime for injection is indicated, each of these antibiotics can be administered separately.
 
-Intramuscular: Cefepime for injection constituted as directed is stable for 24 hours at controlled room temperature 20° to 25°C (68° to 77°F) or for 7 days in a refrigerator 2° to 8°C (36° to 46°F) with the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride Injection, 5% Dextrose Injection, Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol, or 0.5% or 1% Lidocaine Hydrochloride.
+Intramuscular: Cefepime for injection constituted as directed is stable for 24 hours at controlled room temperature 20°C to 25°C (68°F to 77°F) or for 7 days in a refrigerator 2°C to 8°C (36°F to 46°F) with the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride Injection, 5% Dextrose Injection, Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol, or 0.5% or 1% Lidocaine Hydrochloride.
 
 NOTE: PARENTERAL DRUGS SHOULD BE INSPECTED VISUALLY FOR PARTICULATE MATTER BEFORE ADMINISTRATION.
+IF PARTICULATE MATTER IS EVIDENT IN RECONSTITUTED FLUIDS, THE DRUG SOLUTION SHOULD BE DISCARDED.
 
 As with other cephalosporins, the color of cefepime for injection powder, as well as its solutions, tend to darken depending on storage conditions; however, when stored as recommended, the product potency is not adversely affected.

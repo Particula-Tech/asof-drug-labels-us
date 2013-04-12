@@ -11,13 +11,8 @@
    Nephron.
    1976; 16:31-41.
 
-Normosol-R™ and Normosol-M™ are trademarks of Abbott Laboratories.
-Aminosyn® is a registered trademark of Abbott Laboratories.
-Inpersol™ is a trademark of Abbott Laboratories.
-Clinitest® and Clinistix® are registered trademarks of Bayer HealthCare LLC.
-
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Brazil ©2012 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Brazil ©2013 Sagent Pharmaceuticals, Inc.
 
-Revised: March 2012
+Revised: January 2013

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Cefepime for Injection, USP is supplied as follows:
+Cefepime for injection, USP is supplied as follows:
 
 | NDC | Cefepime for Injection, USP | Package Factor |
 | --- | --- | --- |

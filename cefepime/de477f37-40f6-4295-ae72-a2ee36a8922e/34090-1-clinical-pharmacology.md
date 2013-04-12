@@ -224,7 +224,7 @@ Table 6
 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Laboratory control microorganisms are specific strains of microbiological assay organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within bacteria; the specific strains are not clinically significant in their current microbiological status.
-For the diffusion technique, the 30-mcg cefepime disk should provide the following zone diameters in these laboratory test quality control strains (Table 7):
+For the diffusion technique, the 30 mcg cefepime disk should provide the following zone diameters in these laboratory test quality control strains (Table 7):
 
 Table 7
 

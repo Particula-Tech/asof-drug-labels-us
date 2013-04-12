@@ -38,13 +38,9 @@ A similar safety profile was seen in clinical trials of pediatric patients (see 
 
 In addition to the events reported during North American clinical trials with cefepime, the following adverse experiences have been reported during worldwide postmarketing experience.
 
-As with some other drugs in this class, encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, and seizures have been reported.
-Although most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules, some cases of encephalopathy occurred in patients receiving a dosage adjustment for their renal function.
-(See also WARNINGS.)
-
-If seizures associated with drug therapy occur, the drug should be discontinued.
-Anticonvulsant therapy can be given if clinically indicated.
-Precautions should be taken to adjust daily dosage in patients with renal insufficiency or other conditions that may compromise renal function to reduce antibiotic concentrations that can lead or contribute to these and other serious adverse events, including renal failure.
+Encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and nonconvulsive status epilepticus have been reported.
+Although most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules, some cases of neurotoxicity occurred in patients receiving an appropriate dosage adjustment for their degree of renal impairment.
+If neurotoxicity associated with cefepime therapy occurs, consider discontinuing cefepime or making appropriate dosage adjustments in patients with renal impairment (see WARNINGS).
 
 As with other cephalosporins, anaphylaxis including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis and thrombocytopenia have been reported.
 
@@ -53,3 +49,5 @@ As with other cephalosporins, anaphylaxis including anaphylactic shock, transien
 In addition to the adverse reactions listed above that have been observed in patients treated with cefepime, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics:
 
 Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, hepatic dysfunction including cholestasis, and pancytopenia.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
