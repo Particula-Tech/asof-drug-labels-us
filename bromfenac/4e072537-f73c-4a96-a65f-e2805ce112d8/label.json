@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA203168"
+  ],
+  "inn": "bromfenac",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-602-01",
+    "24208-602-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bromfenac sodium",
+      "name": "Prolensa"
+    }
+  ],
+  "setid": "4e072537-f73c-4a96-a65f-e2805ce112d8",
+  "source": "dailymed"
+}
