@@ -626,8 +626,7 @@ These were reversible upon discontinuation of the infusion.
 
 Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
 
-Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome, interstitial pneumonia.
-Pulmonary fibrosis has been rarely reported.
+Respiratory dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
 Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
 
 Renal: renal insufficiency and renal failure have been reported, the majority of these cases were associated with concomitant nephrotoxic drugs.

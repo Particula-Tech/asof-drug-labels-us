@@ -194,6 +194,8 @@ Use only a 21 gauge needle to withdraw docetaxel from the vial because larger bo
 3. Thoroughly mix the infusion by gentle manual rotation.
 4. As with all parenteral products, docetaxel should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
    If the docetaxel dilution for intravenous infusion is not clear or appears to have precipitation, it should be discarded.
+5. Docetaxel infusion solution is supersaturated, therefore may crystallize over time.
+   If crystals appear, the solution must no longer be used and shall be discarded.
 
 The docetaxel dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
 
