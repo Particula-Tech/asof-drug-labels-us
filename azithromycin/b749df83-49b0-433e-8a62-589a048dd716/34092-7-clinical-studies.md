@@ -58,7 +58,7 @@ Additionally, azithromycin/rifabutin combination therapy is more effective than 
 The difference (rifabutin–azithromycin/rifabutin) in the cumulative one year incidence rates (12.5%) is statistically significant (p<0.001) with an adjusted 95% confidence interval of (6.6%, 18.4%).
 The comparable number of patients experiencing adverse events and the fewer number of patients lost to follow-up on rifabutin should be taken into account when interpreting the significance of this difference.
 
-In Study 174, sensitivity testing5 was performed on all available MAC isolates from subjects randomized to either azithromycin, rifabutin or the combination.
+In Study 174, sensitivity testing4 was performed on all available MAC isolates from subjects randomized to either azithromycin, rifabutin or the combination.
 The distribution of MIC values for azithromycin from susceptibility testing of the breakthrough isolates was similar between study arms.
 As the efficacy of azithromycin in the treatment of disseminated MAC has not been established, the clinical relevance of these in vitro MICs as an indicator of susceptibility or resistance is not known.
 

@@ -29,6 +29,18 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+## QT Prolongation
+
+Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with macrolides, including azithromycin.
+Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
+Providers should consider the risk of QT prolongation which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including:
+
+- patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure
+- patients on drugs known to prolong the QT interval
+- patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, aminodarone, sotalol) antiarrhythmic agents.
+
+Elderly patients may be more susceptible to drug-associated effects on the QT interval.
+
 # PRECAUTIONS
 
 ## General
@@ -36,9 +48,6 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 Because azithromycin is principally eliminated via the liver, caution should be exercised when azithromycin is administered to patients with impaired hepatic function.
 Due to the limited data in subjects with GFR<10 mL/min, caution should be exercised when prescribing azithromycin in these patients.
 (See CLINICAL PHARMACOLOGY - Renal Insufficiency).
-
-Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with other macrolides.
-A similar effect with azithromycin cannot be completely ruled out in patients at increased risk for prolonged cardiac repolarization.
 
 Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
@@ -182,6 +191,8 @@ Dosage adjustment does not appear to be necessary for older patients with normal
 
 In multiple-dose clinical trials of oral azithromycin, 9% of patients were at least 65 years of age (458/4949) and 3% of patients (144/4949) were at least 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+Elderly patients may be more susceptible to development of torsades de pointes arrhythmia than younger patients (See WARNINGS).
 
 ZITHROMAX 600 mg tablets contain 2.1 mg of sodium per tablet.
 ZITHROMAX for oral suspension 1 gram single-dose packets contain 37.0 mg of sodium per packet.

@@ -4,6 +4,6 @@ Rx only
 
 Licensed from Pliva
 
-LAB-0022-10.0
+LAB-0022-13.0
 
-January 2011
+February 2013

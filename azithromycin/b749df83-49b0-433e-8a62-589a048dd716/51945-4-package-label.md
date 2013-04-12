@@ -10,16 +10,12 @@ Zithromax® (azithromycin)
 
 Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 1 g Single Dose Packet
+# PRINCIPAL DISPLAY PANEL - 1 g Single Dose Packet Box
 
 NDC 0069-3051-75
 
-Single Dose Packet
+contains ONE DOSE REGIMEN with patient booklet enclosed
 
-Zithromax® (azithromycin for oral suspension)
+FOR POSITION ONLY
 
-FOR ORAL ADMINISTRATION
-
-1 g*
-
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Zithromax® (azithromycin for oral suspension) one gram* single dose packet
