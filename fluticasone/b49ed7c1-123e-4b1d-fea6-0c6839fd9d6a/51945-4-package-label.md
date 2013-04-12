@@ -8,8 +8,6 @@ Flovent® HFA 44 mcg
 
 With Dose Counter
 
-Rx only
-
 FOR ORAL INHALATION ONLY
 
 Contents: Each canister contains a microcrystalline suspension of fluticasone propionate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
@@ -20,17 +18,17 @@ IMPORTANT: Read accompanying Patient Information leaflet carefully for further i
 
 Dosage: Use only as directed by your doctor.
 
-Store at 25oC (77oF); excursions permitted to 15o-30oC (59o-86oF).
+Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+
+Rx only
 
 Net Wt.
 10.6g 120 Metered Actuations
 
 GlaxoSmithKline, Research Triangle Park, NC 27709
 
-Made in Scotland
-
-10000000090614 Rev.
-1/11
+10000000105648 Rev.
+4/12
 
 Principal Display Panel
 
@@ -42,8 +40,6 @@ Flovent® HFA 110 mcg
 
 With Dose Counter
 
-Rx only
-
 FOR ORAL INHALATION ONLY
 
 Contents: Each canister contains a microcrystalline suspension of fluticasone propionate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
@@ -54,17 +50,17 @@ IMPORTANT: Read accompanying Patient Information leaflet carefully for further i
 
 Dosage: Use only as directed by your doctor.
 
-Store at 25oC (77oF); excursions permitted to 15o-30oC (59o-86oF).
+Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+
+Rx only
 
 Net Wt.
 12g 120 Metered Actuations
 
 GlaxoSmithKline, Research Triangle Park, NC 27709
 
-Made in Scotland
-
-10000000090612 Rev.
-1/11
+10000000100594 Rev.
+10/11
 
 Principal Display Panel
 
@@ -76,8 +72,6 @@ Flovent® HFA 220 mcg
 
 With Dose Counter
 
-Rx only
-
 FOR ORAL INHALATION ONLY
 
 Contents: Each canister contains a microcrystalline suspension of fluticasone propionate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
@@ -88,14 +82,14 @@ IMPORTANT: Read accompanying Patient Information leaflet carefully for further i
 
 Dosage: Use only as directed by your doctor.
 
-Store at 25oC (77oF); excursions permitted to 15o-30oC (59o-86oF).
+Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+
+Rx only
 
 Net Wt.
 12g 120 Metered Actuations
 
 GlaxoSmithKline, Research Triangle Park, NC 27709
 
-Made in Scotland
-
-10000000090357 Rev.
-1/11
+10000000100592 Rev.
+10/11
