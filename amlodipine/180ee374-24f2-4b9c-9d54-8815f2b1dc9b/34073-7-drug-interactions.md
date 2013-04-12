@@ -54,6 +54,10 @@ Monitor for symptoms of hypotension and edema when amlodipine is co-administered
 No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
 Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A4 inducers.
 
-## 7.13 Drug/Laboratory Test Interactions
+## 7.13 Cyclosporine
+
+A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine.
+
+## 7.14 Drug/Laboratory Test Interactions
 
 None known.

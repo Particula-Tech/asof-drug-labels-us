@@ -1,6 +1,4 @@
-SUMMARY OF INFORMATION ABOUT
-
-Amlodipine Besylate Tablets
+SUMMARY OF INFORMATION ABOUT Amlodipine Besylate Tablets
 
 Read this information carefully before you start taking amlodipine besylate tablets and each time you refill your prescription.
 There may be new information.
@@ -35,6 +33,7 @@ Your doctor or pharmacist can give you a list of these ingredients.
 What should I tell my doctor before taking amlodipine besylate tablets?
 
 Tell your doctor about any prescription and non-prescription medicines you are taking, including natural or herbal remedies.
+
 Tell your doctor if you:
 
 - ever had heart disease
@@ -69,7 +68,6 @@ What are the possible side effects of amlodipine besylate tablets?
 Amlodipine besylate may cause the following side effects.
 Most side effects are mild or moderate:
 
-- headache
 - swelling of your legs or ankles
 - tiredness, extreme sleepiness
 - stomach pain, nausea
@@ -102,4 +100,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about amlodipine besylate, or call 1-800-438-1985.
 
-LAB-0342-5.0 May 2011
+LAB-0342-7.0 January 2013
