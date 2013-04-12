@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA204042"
+  ],
+  "inn": "canagliflozin",
+  "labeler": "Janssen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50458-140-01",
+    "50458-140-10",
+    "50458-140-30",
+    "50458-140-50",
+    "50458-140-90",
+    "50458-141-01",
+    "50458-141-10",
+    "50458-141-30",
+    "50458-141-50",
+    "50458-141-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "canagliflozin",
+      "name": "INVOKANA"
+    }
+  ],
+  "setid": "b9057d3b-b104-4f09-8a61-c61ef9d4a3f3",
+  "source": "dailymed"
+}
