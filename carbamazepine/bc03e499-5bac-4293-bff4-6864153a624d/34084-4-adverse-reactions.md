@@ -39,8 +39,6 @@ There have been reports of associated paralysis and other symptoms of cerebral a
 
 Isolated cases of neuroleptic malignant syndrome have been reported with concomitant use of psychotropic drugs.
 
-Seizures induced or aggravated by antiepileptic drugs have been reported in the postmarketing use of Carbatrol.
-
 Digestive System: Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, anorexia, and dryness of the mouth and pharynx, including glossitis and stomatitis.
 
 Eyes: Scattered punctate cortical lens opacities, as well as conjunctivitis, have been reported.
@@ -48,15 +46,11 @@ Although a direct causal relationship has not been established, many phenothiazi
 
 Musculoskeletal System: Bone loss, aching joints and muscles, and leg cramps.
 
-Metabolism: Fever and chills, inappropriate antidiuretic hormone (ADH) secretion syndrome has been reported.
-Cases of frank water intoxication, with decreased serum sodium (hyponatremia) and confusion have been reported in association with carbamazepine use (see PRECAUTIONS, Laboratory Tests).
-Decreased levels of plasma calcium have been reported.
+Metabolism: Fever and chills.
+Decreased levels of plasma calcium leading to osteoporosis have been reported.
 
 Other: Isolated cases of a lupus erythematosus-like syndrome have been reported.
 There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglycerides in patients taking anticonvulsants.
 
 A case of aseptic meningitis, accompanied by myoclonus and peripheral eosinophilia, has been reported in a patient taking carbamazepine in combination with other medications.
 The patient was successfully dechallenged, and the meningitis reappeared upon rechallenge with carbamazepine.
-
-Multi-organ hypersensitivity reactions occurring within weeks after initiating Carbatrol therapy have been reported in rare cases.
-Signs or symptoms may include, but are not limited to, fever, adenopathy, eosinophilia, leucopenia, pancytopenia, thrombocytopenia, as well as liver abnormalities such as hepatitis, hepatocellular jaundice and liver function test abnormalities.

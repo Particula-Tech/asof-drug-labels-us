@@ -28,31 +28,60 @@ Tested patients who are found to be negative for the allele are thought to have 
 Over 90% of carbamazepine treated patients who will experience SJS/TEN have this reaction within the first few months of treatment.
 This information may be taken into consideration in determining the need for screening of genetically at-risk patients currently on Carbatrol.
 
-The HLA-B*1502 allele has not been found to predict risk of less severe adverse cutaneous reactions from carbamazepine, such as anticonvulsant hypersensitivity syndrome or non-serious rash (maculopapular eruption [MPE]).
+The HLA-B*1502 allele has not been found to predict risk of less severe adverse cutaneous reactions from carbamazepine, such as maculopapular eruption [MPE] or to predict Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
 
-Limited evidence suggests that HLA-B*1502 may be a risk factor for the development of SJS/TEN in patients of Chinese ancestry taking other anti-epileptic drugs associated with SJS/TEN.
+Limited evidence suggests that HLA-B*1502 may be a risk factor for the development of SJS/TEN in patients of Chinese ancestry taking other anti-epileptic drugs associated with SJS/TEN, including phenytoin.
 Consideration should be given to avoiding use of other drugs associated with SJS/TEN in HLA-B*1502 positive patients, when alternative therapies are otherwise equally acceptable.
-
-Application of HLA-B*1502 genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management.
-Many HLA-B*1502-positive Asian patients treated with carbamazepine will not develop SJS/TEN, and these reactions can still occur infrequently in HLA-B*1502-negative patients of any ethnicity.
-The role of other possible factors in the development of, and morbidity from, SJS/TEN, such as AED dose, compliance, concomitant medications, co-morbidities, and the level of dermatologic monitoring have not been studied.
 
 Patients should be made aware that Carbatrol contains carbamazepine and should not be used in combination with any other medications containing carbamazepine.
 
-## Aplastic anemia and agranulocytosis
+## Hypersensitivity Reactions and HLA-A*3101 Allele
+
+Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine.
+These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivity below).
+
+HLA-A*3101 is expected to be present in the following approximate frequencies: greater than 15% in patients of Japanese and Native American ancestry; up to about 10% in patients of Han Chinese, Korean, European, and Latin American ancestry; and up to about 5% in African-Americans and patients of Indian, Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
+
+The risks and benefits of carbamazepine therapy should be weighed before considering carbamazepine in patients known to be positive for HLA-A*3101.
+
+General Information on HLA Genotyping and Hypersensitivity
+
+Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management.
+Many HLA-B*1502-positive and HLA-A*3101-positive patients treated with carbamazepine will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur infrequently in HLA-B*1502-negative and HLA-A*3101-negative patients of any ethnicity.
+The role of other possible factors in the development of, and morbidity from, SJS/TEN and other hypersensitivity reactions, such as AED dose, compliance, concomitant medications, co-morbidities, and the level of dermatologic monitoring have not been studied.
+
+## Aplastic Anemia and Agranulocytosis
 
 Aplastic anemia and agranulocytosis have been reported in association with the use of carbamazepine.
-Data from a population-based case-control study demonstrate that the risk of developing these reactions is 5-8 times greater than in the general population.
-However, the overall risk of these reactions in the untreated general population is low, approximately six patients per one million population per year for agranulocytosis and two patients per one million population per year for aplastic anemia.
+(See BOXED WARNING.)
+Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.
 
-Although reports of transient or persistent decreased platelet or white blood cell counts are not uncommon in association with the use of carbamazepine, data are not available to estimate accurately their incidence or outcome.
-However, the vast majority of the cases of leukopenia have not progressed to the more serious conditions of aplastic anemia or agranulocytosis.
-Because of the very low incidence of agranulocytosis and aplastic anemia, the vast majority of minor hematologic changes observed in monitoring of patients on carbamazepine are unlikely to signal the occurrence of either abnormality.
-Nonetheless, complete pretreatment hematological testing should be obtained as a baseline.
-If a patient in the course of treatment exhibits low or decreased white blood cell or platelet counts, the patient should be monitored closely.
-Discontinuation of the drug should be considered if any evidence of significant bone marrow depression develops.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity
 
-## Suicidal behavior and Ideation
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan hypersensitivity, have occurred with carbamazepine.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+This disorder is variable in its expression, and other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Carbatrol should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+
+Hypersensitivity
+
+Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants including phenytoin, primidone, and phenobarbital.
+A history of hypersensitivity reactions should be obtained for patients and their immediate family members.
+If such history is present, benefits and risks should be carefully considered, and, if carbamazepine is initiated, the signs and symptoms of hypersensitivity should be carefully monitored.
+
+In patients who have exhibited hypersensitivity reactions to carbamazepine, approximately 25 to 30% may experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
+
+Withdrawal Precipitated Seizure, Status Epilepticus
+
+Antiepileptic drugs should not be abruptly discontinued because of the possibility of increased seizure frequency, including status epilepticus.
+When in the judgment of the clinician, the need for dosage reduction, discontinuation, or substitution of alternative anticonvulsant medication arises, this should be done gradually.
+However, in the event of an allergic or hypersensitivity reaction, more rapid substitution of alternative therapy may be necessary.
+
+## Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including Carbatrol, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -109,21 +138,23 @@ In individual cases where the severity and frequency of the seizure disorder are
 
 Tests to detect defects using current accepted procedures should be considered a part of routine prenatal care in childbearing women receiving carbamazepine.
 
+There have been a few cases of neonatal seizures and/or respiratory depression reported in association with maternal carbamazepine and other concomitant anticonvulsant drug use.
+A few cases of neonatal vomiting, diarrhea, and/or decreased feeding have also been reported in association with maternal carbamazepine use.
+These symptoms may represent a neonatal withdrawal syndrome.
+
 To provide information regarding the effects of in utero exposure to Carbatrol, physicians are advised to recommend that pregnant patients taking Carbatrol enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## General
 
-Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.
-
-In patients with seizure disorder, carbamazepine should not be discontinued abruptly because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
-
 Carbamazepine has shown mild anticholinergic activity; therefore, patients with increased intraocular pressure should be closely observed during therapy.
 
 Because of the relationship of the drug to other tricyclic compounds, the possibility of activation of a latent psychosis and, in elderly patients, of confusion or agitation should be considered.
 
-Co-administration of carbamazepine and delavirdine may lead to loss of virologic response and possible resistance to RESCRIPTOR or to the class of non-nucleoside reverse transcriptase inhibitors.
+The use of Carbatrol should be avoided in patients with a history of hepatic porphyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
+Acute attacks have been reported in such patients receiving Carbatrol therapy.
+Carbamazepine administration has also been demonstrated to increase porphyrin precursors in rodents, a presumed mechanism for the induction of acute attacks of porphyria.
 
 # PRECAUTIONS
 
@@ -133,30 +164,37 @@ Before initiating therapy, a detailed history and physical examination should be
 
 Carbamazepine should be used with caution in patients with a mixed seizure disorder that includes atypical absence seizures, since in these patients carbamazepine has been associated with increased frequency of generalized convulsions (see INDICATIONS AND USAGE).
 
-Antiepileptic drugs including carbamazepine may paradoxically worsen seizure frequency or induce new seizure types in some patients with epilepsy, though the mechanisms of seizure aggravation by antiepileptic drugs are mostly unknown (see ADVERSE REACTIONS, Nervous System).
-
 Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac, hepatic, or renal damage; adverse hematologic reaction to other drugs; or interrupted courses of therapy with carbamazepine.
 
-Multi-organ hypersensitivity reactions occurring within weeks after initiating Carbatrol therapy have been reported in rare cases (see ADVERSE REACTIONS, Other and PRECAUTIONS, Information for Patients).
-Patients who reported the triad of signs of fever, skin rash, and internal organ involvement made a swift recovery following discontinuation of therapy.
+Hyponatremia, Syndrome of Inappropriate Antidiuretic Hormone Secretion, and Water Intoxication
 
-Hypersensitivity reactions to carbamazepine have been associated with previous use of aromatic antiepileptic drugs including phenytoin, phenobarbital, and primidone.
-Therefore, a history of hypersensitivity reactions should be obtained for a patient and the immediate family members.
-If positive, caution should be used in prescribing carbamazepine.
+Hyponatremia can occur as a result of treatment with Carbatrol.
+In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+The risk of developing SIADH with Carbatrol treatment may be dose-related.
+Elderly patients may be at greater risk of developing hyponatremia.
+Patients treated with diuretics can be at greater risk.
+Consider discontinuing Carbatrol in patients with symptomatic hyponatremia.
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 
 ## Information for Patients
 
-Patients should be made aware of the early toxic signs and symptoms of a potential hematologic problem, such as fever, sore throat, rash, ulcers in the mouth, easy bruising, petechial or purpuric hemorrhage, and should be advised to report to the physician immediately if any such signs or symptoms appear.
+Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide before taking Carbatrol.
+
+Patients should be made aware of the early toxic signs and symptoms of potential hematologic, dermatologic, hypersensitivity, or hepatic reactions.
+These symptoms may include, but are not limited to, fever, sore throat, rash, ulcers in the mouth, easy bruising, lymphadenopathy and petechial or purpuric hemorrhage, and in the case of liver reactions, anorexia, nausea/vomiting, or jaundice.
 Patients should be advised that, because these signs and symptoms may signal a serious reaction, they must report any occurrence immediately to their physicians.
+In addition, the patient should be advised that these signs and symptoms should be reported even if mild or when occurring after extended use.
 
 Patients, their caregivers, and families should be counseled that AEDs, including Carbatrol, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
+
+Caution should be exercised if alcohol is taken in combination with Carbatrol therapy, due to a possible additive sedative effect.
 
 Since dizziness and drowsiness may occur, patients should be cautioned about the hazards of operating machinery or automobiles or engaging in other potentially dangerous tasks.
 
 Patients should be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see Warnings - Usage in Pregnancy)
+To enroll, patients can call the toll free number 1-888-233-2334 (see Warnings - Usage in Pregnancy).
 
 If necessary, the Carbatrol capsules can be opened and the contents sprinkled over food, such as a teaspoon of applesauce or other similar food products.
 Carbatrol capsules or their contents should not be crushed or chewed.
@@ -192,8 +230,6 @@ This monitoring may be particularly useful in cases of dramatic increase in seiz
 In addition, measurement of drug serum levels may aid in determining the cause of toxicity when more than one medication is being used.
 
 Thyroid function tests have been reported to show decreased values with carbamazepine administered alone.
-
-Hyponatremia has been reported in association with carbamazepine use, either alone or in combination with other drugs.
 
 Interference with some pregnancy tests has been reported.
 
@@ -235,7 +271,7 @@ Carbamazepine is known to induce CYP1A2 and CYP3A4.
 Therefore, the potential exists for interaction between carbamazepine and any agent metabolized by one (or more) of these enzymes.
 Agents that have been found, or are expected to have decreased plasma levels in the presence of Carbatrol® due to induction of CYP enzymes are the following:
 
-Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nortriptyline, olanzapine, oral and other hormonal contraceptives(3), oxcarbazepine, phenytoin(4), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(5), valproate, warfarin(6), nefazodone, ziprasidone, and zonisamide.
+Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nefazodone(7), nortriptyline, olanzapine, oral and other hormonal contraceptives(3), oxcarbazepine, phenytoin(4), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(5), valproate, warfarin(6), ziprasidone, and zonisamide.
 
 (3)Concomitant use of Carbatrol with hormonal contraceptive products (e.g., oral and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
 Breakthrough bleeding and unintended pregnancies have been reported with carbamazepine.
@@ -248,7 +284,7 @@ Careful monitoring of phenytoin plasma levels following co-medication with carba
 
 (6)Warfarin's anticoagulant effect can be reduced in the presence of carbamazepine.
 
-Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve therapeutic effect.
+(7)Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect.
 Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
 
 Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of treatment with Carbatrol®, it is reasonable to expect that a dose increase for the concomitant agent may be necessary.
@@ -257,14 +293,16 @@ Agents with Increased Levels in the Presence of Carbamazepine:
 
 Carbatrol® increases the plasma levels of the following agents:
 
-Clomipramine HCl, phenytoin(7), and primidone
+Clomipramine HCl, phenytoin(8), and primidone
 
-(7)Phenytoin has also been reported to decrease in the presence of carbamazepine.
+(8)Phenytoin has also been reported to decrease in the presence of carbamazepine.
 Careful monitoring of phenytoin plasma levels following co-medication with carbamazepine is advised.
 
 Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of the treatment with Carbatrol®, it is reasonable to expect that a dose decrease for the concomitant agent may be necessary.
 
 Pharmacological/Pharmacodynamic Interactions with Carbamazepine:
+
+Coadministration of Carbatrol with delavirdine may lead to loss of virologic response and possible resistance to delavirdine or to the class of non-nucleoside reverse transcriptase inhibitors (see CONTRAINDICATIONS).
 
 Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
 

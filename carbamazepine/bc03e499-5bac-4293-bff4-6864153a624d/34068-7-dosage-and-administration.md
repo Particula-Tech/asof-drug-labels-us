@@ -11,6 +11,8 @@ Do not crush or chew Carbatrol capsules or the sprinkled beads.
 
 Carbatrol is an extended-release formulation for twice a day administration.
 When converting patients from immediate release carbamazepine to Carbatrol extended-release capsules, the same total daily mg dose of carbamazepine should be administered.
+Following conversion to Carbatrol, patients should be closely monitored for seizure control.
+Depending on the therapeutic response after conversion, the total daily dose may need to be adjusted within the recommended dosing instructions.
 
 Epilepsy (see INDICATIONS AND USAGE)
 

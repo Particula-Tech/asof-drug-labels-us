@@ -24,14 +24,24 @@ Symptoms may include:
 - blistering or peeling of the skin
 
 2.
-CARBATROL may cause rare but serious blood problems.
-Symptoms may include:
+CARBATROL can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body such as your liver or blood cells.
+You may or may not have a rash when you get these types of reactions.
+Call your healthcare provider right away if you have any of these symptoms:
 
-- fever, sore throat or other infections that come and go or do not go away
-- easy bruising
+- frequent fevers or fevers that do not go away
+- frequent infections or an infection that does not go away
+- unusual bruising or bleeding
 - red or purple spots on your body
-- bleeding gums or nose bleeds
 - severe fatigue or weakness
+- unexpected muscle pain that does not go away
+- swelling of your face, eyes, lips, or tongue
+- swollen glands that do not go away
+- yellowing of your skin or the whites of your eyes
+- loss of appetite (anorexia) that does not go away
+- nausea or vomiting that does not go away
+
+These symptoms may be the first signs of a serious reaction.
+A healthcare provider should examine you to decide if you should continue taking CARBATROL.
 
 3.
 Like other antiepileptic drugs, CARBATROL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
@@ -81,6 +91,7 @@ Do not take CARBATROL if you:
 - are allergic to carbamazepine or any of the ingredients in CARBATROL.
   See the end of this Medication Guide for a complete list of ingredients in CARBATROL.
 - take nefazodone
+- take delavirdine
 - are allergic to antidepressant medications called tricyclic (TCAs).
 - have taken a medicine called Monoamine Oxidase Inhibitor (MAOI) in the last 14 days.
 
@@ -109,7 +120,7 @@ Before you take CARBATROL, tell your healthcare provider if you:
     The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
-  CARBATROL passes into your breast milk.
+  CARBATROL passes into breast milk.
   You and your healthcare provider should discuss whether you should take CARBATROL or breastfeed.
   You should not do both.
 
@@ -218,4 +229,4 @@ Shire US Inc.
 
 Wayne, PA 19087
 
-Issued [04/2012]
+Issued [03/2013]
