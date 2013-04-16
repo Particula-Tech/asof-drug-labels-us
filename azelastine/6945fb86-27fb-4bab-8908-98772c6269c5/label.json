@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202305"
+  ],
+  "inn": "azelastine",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "61314-308-02"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "azelastine hydrochloride",
+      "name": "Azelastine Hydrochloride"
+    }
+  ],
+  "setid": "6945fb86-27fb-4bab-8908-98772c6269c5",
+  "source": "dailymed"
+}
