@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA204141"
+  ],
+  "inn": "desoximetasone",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-5281-0",
+    "51672-5281-3",
+    "51672-5281-4",
+    "51672-5281-7"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "desoximetasone",
+      "name": "Topicort"
+    }
+  ],
+  "setid": "e417856a-b760-4626-bc34-8e4bc62c026c",
+  "source": "dailymed"
+}
