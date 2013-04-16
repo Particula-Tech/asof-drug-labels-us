@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Valganciclovir is an antiviral drug [see Clinical Pharmacology (12.4)].
+Valganciclovir is an antiviral drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -169,7 +169,7 @@ Table 14 Results of Drug Interaction Studies With Ganciclovir: Effects of Gancic
 |  |  |  | Cmax ↑36 ± 36% (range: -27% to 94%) |
 | Trimethoprim 200 mg once daily | 1000 mg every 8 hours | 12 | Increase (12%) in Cmin |
 
-## 12.4 Virology
+## 12.4 Microbiology
 
 Mechanism of Action: Valganciclovir is an L-valyl ester (prodrug) of ganciclovir that exists as a mixture of two diastereomers.
 After oral administration, both diastereomers are rapidly converted to ganciclovir by intestinal and hepatic esterases.
@@ -185,20 +185,23 @@ Sensitivity test results, expressed as the concentration of drug required to inh
 Thus, the reported EC50 values of ganciclovir that inhibit human CMV replication in cell culture (laboratory and clinical isolates) have ranged from 0.08 to 22.94 µM (0.02 to 5.75 µg/mL).
 The distribution and range in susceptibility observed in one assay evaluating 130 clinical isolates was 0 to 1 µM (35%), 1.1 to 2 µM (20%), 2.1 to 3 µM (27%), 3.1 to 4 µM (13%), 4.1 to 5 µM (5%), > 5 µM (<1%).
 Ganciclovir inhibits mammalian cell proliferation (CIC50) in cell culture at higher concentrations ranging from 40 to > 1,000 µM (10.21 to > 250 µg/mL).
-Bone marrow-derived colony-forming cells are more sensitive [CIC50 = 2.7 to 12 µM (0.69 to 3.06 µg/mL)].
+Bone marrow-derived colony-forming cells are more sensitive [CIC50 value = 2.7 to 12 µM (0.69 to 3.06 µg/mL)].
 
-Viral Resistance: CMV isolates with reduced susceptibility to ganciclovir have been selected in cell culture.
-Growth of CMV strains in the presence of ganciclovir resulted in the selection of pUL97 amino acid substitutions (M460I, M460V, L595S, and K599T) and pUL54 amino acid substitutions (D301N, N410K, F412V, L516R, L545S, V812L, P829S and D879G).
-Insufficient data are available on the development of resistance to ganciclovir and many pathways to resistance exist with no single pathway predominating.
-Viruses resistant to ganciclovir can arise after prolonged treatment or prophylaxis with valganciclovir by selection of amino acid substitutions in either the viral protein kinase, pUL97, responsible for ganciclovir monophosphorylation and/or in the viral DNA polymerase, pUL54.
-Virus with mutations in the UL97 gene is resistant to ganciclovir alone, whereas virus with mutations in the UL54 gene may show cross-resistance to other antivirals that target the viral DNA polymerase.
-Amino acid substitutions observed in individuals failing treatment or prophylaxis are summarized in Table 15.
+Viral Resistance:
 
-Table 15 Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
+Cell culture: CMV isolates with reduced susceptibility to ganciclovir have been selected in cell culture.
+Growth of CMV strains in the presence of ganciclovir resulted in the selection of amino acid substitutions in the viral protein kinase pUL97 (M460I/V, L595S, G598D, and K599T) and the viral DNA polymerase pUL54 (D301N, N410K, F412V, P488R, L516R, C539R, L545S, F595I, V812L, P829S, L862F, D879G, and V946L).
 
-| UL97 | L405P, A440V, M460I/V, V466G/M, H520Q, del 590-593, A591D/V, C592G, A594G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G, K599E/M, del 600-601, del 601-603, C603W/R/Y, C607F/Y |
+In vivo: Viruses resistant to ganciclovir can arise after prolonged treatment or prophylaxis with valganciclovir by selection of substitutions in pUL97 and/or pUL54.
+Limited clinical data are available on the development of clinical resistance to ganciclovir and many pathways to resistance likely exist.
+In clinical isolates, seven canonical pUL97 substitutions, (M460V/I, H520Q, C592G, A594V, L595S, C603W) are the most frequently reported ganciclovir resistance-associated substitutions.
+These and other substitutions less frequently reported in the literature, or observed in clinical trials, are listed in Table 15
+
+Table 15: Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
+
+| pUL97 | L405P, A440V, M460I/V, V466G/M, H520Q, del 590-593, A591D/V, C592G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y |
 | --- | --- |
-| UL54 | E315D, N408D/K/S, F412C, D413A/E, L501F/I, T503I, K513E/N/R, I521T, P522A/L/S, L545S, D588E/N, G629S, S695T, E756K, V781I, V787L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
+| pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E, L501F/I, T503I, K513E/N/R, I521T, P522A/L/S, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, V781I, V787L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
 | Note: Many additional pathways to ganciclovir resistance likely exist |  |
 
 The presence of known ganciclovir resistance-associated amino acid substitutions was evaluated in a study that extended valganciclovir CMV prophylaxis from 100 days to 200 days post-transplant in adult kidney transplant patients at high risk for CMV disease (D+/R-) [see Clinical Studies (14.1)].
@@ -209,10 +212,11 @@ Overall, the detection of known ganciclovir resistance-associated amino acid sub
 The possibility of viral resistance should be considered in patients who show poor clinical response or experience persistent viral excretion during therapy.
 
 Cross-Resistance: Cross-resistance has been reported for amino acid substitutions selected in cell culture by ganciclovir, cidofovir or foscarnet.
+In general, amino acid substitutions in pUL54 conferring cross-resistance to ganciclovir and cidofovir are located within the exonuclease domains and region V. Whereas, amino acid substitutions conferring cross-resistance to foscarnet are diverse, but concentrate at and between regions II (codon 696-742) and III (codon 805-845).
 The amino acid substitutions that resulted in reduced susceptibility to ganciclovir and either cidofovir and/or foscarnet are summarized in Table 16.
 
-Table 16 Summary of UL54 Amino Acid Substitutions with Cross-Resistance between Ganciclovir, Cidofovir, and/or Foscarnet
+Table 16 Summary of pUL54 Amino Acid Substitutions with Cross-Resistance between Ganciclovir, Cidofovir, and/or Foscarnet
 
-| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/V, D413E, L501I, T503I, K513E/N, L516R, I521T, P522S/A, L545S, D588N, E756K, V787L, V812L, T813S, A834P, G841A, del 981-982, A987G |
+| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/L/S/V, D413E, L501I, T503I, K513E/N, L516R, I521T, P522S/A, L545S/W, Q578H, D588N, I726T/V, E756K, V812L, T813S, A834P, G841A, del 981-982, A987G |
 | --- | --- |
-| Cross-resistant to foscarnet | F412C, D588N, E756K, V781I, V787L, L802M, A809V, V812L, T813S, T821I, A834P, G841A, del 981-982 |
+| Cross-resistant to foscarnet | F412C, Q578H/L, D588N, E756K, V781I, V787L, L802M, A809V, V812L, T813S, T821I, A834P, G841A, del 981-982 |

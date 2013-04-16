@@ -18,3 +18,9 @@
 - Drew A.L., Miner R., Saleh E. 1993.
   Antiviral Susceptibility Testing of Cytomegalovirus Criteria for Detecting Resistance to Antivirals.
   Clinical Diagnostic Virology 1:179-185.
+- Hakki M., Chou, S. The biology of cytomegalovirus drug resistance.
+  Curr Opinion in Infectious Dis.
+  2011; 24:605-611.
+- Lurain, N.S., Chou, S. Antiviral drug resistance of humancytomegalovirus.
+  Clin Microbiol Rev.
+  2010; 23(4):689-712.

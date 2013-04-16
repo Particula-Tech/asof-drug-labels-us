@@ -11,5 +11,4 @@ Table 8 Established and Other Potentially Significant Drug Interactions With Gan
 | Zidovudine | ↓ Ganciclovir ↑ Zidovudine | Zidovudine and Valcyte each have the potential to cause neutropenia and anemia |
 | Probenecid | ↑ Ganciclovir | Patients taking probenecid and Valcyte should be monitored for evidence of ganciclovir toxicity |
 | Mycophenolate Mofetil (MMF) | ↔ Ganciclovir (in patients with normal renal function) ↔ MMF (in patients with normal renal function) | Patients with renal impairment should be monitored carefully as levels of MMF metabolites and ganciclovir may increase |
-| Didanosine | ↓ Ganciclovir | Patients should be closely monitored for didanosine toxicity |
-|  | ↑ Didanosine |  |
+| Didanosine | ↓ Ganciclovir ↑ Didanosine | Patients should be closely monitored for didanosine toxicity |
