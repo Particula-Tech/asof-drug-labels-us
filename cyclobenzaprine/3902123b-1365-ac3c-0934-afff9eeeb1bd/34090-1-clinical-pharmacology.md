@@ -13,7 +13,7 @@ Cyclobenzaprine caused slight to moderate increase in heart rate in animals.
 
 ### Absorption
 
-In a single-dose study comprised of healthy adult males (n=15), the dose adjusted ratios of the arithmetic means of AUC0-168 and AUC0-∞ indicated that exposure of the AMRIX 30 mg was about 16% and 10% higher than that of AMRIX 15 mg, respectively.
+In a single-dose study comprised of healthy adult subjects (n=15), the dose adjusted ratios of the arithmetic means of AUC0-168 and AUC0-∞ indicated that exposure of the AMRIX 30 mg was about 16% and 10% higher than that of AMRIX 15 mg, respectively.
 The dose-adjusted ratios of the arithmetic means of Cmax indicated that the peak plasma concentration of AMRIX 30 mg was about 20% higher than that of AMRIX 15 mg.
 The half-lives and time to peak plasma cyclobenzaprine concentration were similar for both AMRIX 15 mg and 30 mg.
 These data are summarized below.

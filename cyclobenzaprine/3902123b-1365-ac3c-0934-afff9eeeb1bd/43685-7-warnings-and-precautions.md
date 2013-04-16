@@ -1,5 +1,11 @@
 # WARNINGS
 
+Serotonin Syndrome: The development of a potentially life-threatening serotonin syndrome has been reported with cyclobenzaprine when used in combination with other drugs, such as selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), tramadol, bupropion, meperidine, verapamil, or monoamine oxidase (MAO) inhibitors.
+The concomitant use of AMRIX with MAO inhibitors is contraindicated (see CONTRAINDICATIONS).
+Serotonin syndrome symptoms may include mental status changes (e.g., confusion, agitation, hallucinations), autonomic instability (e.g., diaphoresis, tachycardia, labile blood pressure, hyperthermia), neuromuscular abnormalities (e.g., tremor, ataxia, hyperreflexia, clonus, muscle rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Treatment with AMRIX and any concomitant serotonergic agents should be discontinued immediately if the above reactions occur and supportive symptomatic treatment should be initiated.
+If concomitant treatment with AMRIX and other serotonergic drugs is clinically warranted, careful observation is advised, particularly during treatment initiation or dose increases (see PRECAUTIONS, Drug Interactions).
+
 AMRIX is closely related to the tricyclic antidepressants, e.g., amitriptyline and imipramine.
 In short term studies for indications other than muscle spasm associated with acute musculoskeletal conditions, and usually at doses somewhat greater than those recommended for skeletal muscle spasm, some of the more serious central nervous system reactions noted with the tricyclic antidepressants have occurred (see WARNINGS, below, and ADVERSE REACTIONS).
 
@@ -20,13 +26,18 @@ Because of its atropine-like action, AMRIX should be used with caution in patien
 
 AMRIX, especially when used with alcohol or other CNS depressants, may impair mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle.
 
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of AMRIX and other drugs, such as selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), tramadol, bupropion, meperidine, verapamil, or monoamine oxidase (MAO) inhibitors.
+Patients should be advised of the signs and symptoms of serotonin syndrome, and be instructed to seek medical care immediately if they experience these symptoms (see WARNINGS, and see PRECAUTIONS, Drug Interactions).
+
 ## Drug Interactions
 
-AMRIX may have life-threatening interactions with MAO inhibitors.
-(See CONTRAINDICATIONS.)
+AMRIX may have life-threatening interactions with monoamine oxidase (MAO) inhibitors see CONTRAINDICATIONS).
+Postmarketing cases of serotonin syndrome have been reported during combined use of cyclobenzaprine and other drugs such as selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), tramadol, bupropion, meperidine, verapamil, or MAO inhibitors.
+If concomitant treatment with AMRIX and other serotonergic drugs is clinically warranted, careful observation is advised, particularly during treatment initiation or dose increases (see WARNINGS).
+
 AMRIX may enhance the effects of alcohol, barbiturates, and other CNS depressants.
 Tricyclic antidepressants may block the antihypertensive action of guanethidine and similarly acting compounds.
-Tricyclic antidepressants may enhance the seizure risk in patients taking tramadol (ULTRAM® [tramadol HCl tablets, Ortho-McNeil Pharmaceutical] or ULTRACET® [tramadol HCl and acetaminophen tablets, Ortho-McNeil Pharmaceutical]).
+Tricyclic antidepressants may enhance the seizure risk in patients taking tramadol.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

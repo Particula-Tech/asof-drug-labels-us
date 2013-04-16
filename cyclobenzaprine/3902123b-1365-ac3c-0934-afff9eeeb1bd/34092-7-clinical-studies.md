@@ -28,7 +28,7 @@ Table 4: Subject's Rating of Medication Helpfulness - Study 1106
 | Good | 14 (21.9%) | 21 (33.3%) | 13 (20.3%) | 9 (14.3%) |
 | Fair | 16 (25.0%) | 17 (27.0%) | 14 (21.9%) | 10 (15.9%) |
 | Poor | 19 (29.7%) | 6 (9.5%) | 12 (18.8%) | 5 (7.9%) |
-| Missing | 4 (6.3%) | 5 (17.9%) | 3 (4.7%) | 5 (7.9%) |
+| Missing | 4 (6.3%) | 5 (7.9%) | 3 (4.7%) | 5 (7.9%) |
 
 In addition, one of the two studies demonstrated significant differences between the AMRIX 30 mg group and the placebo group in terms of patient-rated relief from local pain due to muscle spasm at Day 4 and Day 8, in subject-rated restriction of movement at Day 4 and Day 8, and in patient-rated global impression of change at Day 4, Day 8, and Day 14.
 

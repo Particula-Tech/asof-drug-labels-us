@@ -1,10 +1,15 @@
-Distributed by: Cephalon, Inc. Frazer, PA 19355
+Distributed By: Teva Pharmaceuticals USA, Inc.
 
-Manufactured by: Eurand Inc. Vandalia, Ohio 45377 AMRIX is a trademark of Cephalon, Inc. or its affiliates.
+North Wales, PA 19454
 
-U.S. Patent No. 7,387,793
+Manufactured By: Aptalis Pharma Vandalia, OH 45377
 
-© 2004, 2006, 2007, 2008 Cephalon, Inc., or its affiliates.
+AMR-005
+
+Revised April 2013
+
+AMRIX is a trademark of IVAX International GmbH or its affiliates.
+
+© 2004-2013 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries, Ltd.
+
 All rights reserved.
-
-PI-40018-01 Revised December 2008

@@ -52,7 +52,7 @@ Cardiovascular: Tachycardia; arrhythmia; vasodilatation; palpitation; hypotensio
 Digestive: Vomiting; anorexia; diarrhea; gastrointestinal pain; gastritis; thirst; flatulence; edema of the tongue; abnormal liver function and rare reports of hepatitis, jaundice, and cholestasis.
 Hypersensitivity: Anaphylaxis; angioedema; pruritus; facial edema; urticaria; rash.
 Musculoskeletal: Local weakness.
-Nervous System and Psychiatric: Seizures, ataxia; vertigo; dysarthria; tremors; hypertonia; convulsions; muscle twitching; disorientation; insomnia; depressed mood; abnormal sensations; anxiety; agitation; psychosis, abnormal thinking and dreaming; hallucinations; excitement; paresthesia; diplopia.
+Nervous System and Psychiatric: Seizures, ataxia; vertigo; dysarthria; tremors; hypertonia; convulsions; muscle twitching; disorientation; insomnia; depressed mood; abnormal sensations; anxiety; agitation; psychosis, abnormal thinking and dreaming; hallucinations; excitement; paresthesia; diplopia; serotonin syndrome.
 Skin: Sweating.
 Special Senses: Ageusia; tinnitus.
 Urogenital: Urinary frequency and/or retention.
@@ -65,7 +65,7 @@ Body as a Whole: Chest pain; edema.
 Cardiovascular: Hypertension; myocardial infarction; heart block; stroke.
 Digestive: Paralytic ileus, tongue discoloration; stomatitis; parotid swelling.
 Endocrine: Inappropriate ADH syndrome.
-Hematic and Lymphatic: Purpura; bone marrow depression; leukopenia; eosinophilia; thrombocytopenia.
+Hematologic and Lymphatic: Purpura; bone marrow depression; leukopenia; eosinophilia; thrombocytopenia.
 Metabolic, Nutritional and Immune: Elevation and lowering of blood sugar levels; weight gain or loss.
 Musculoskeletal: Myalgia.
 Nervous System and Psychiatric: Decreased or increased libido; abnormal gait; delusions; aggressive behavior; paranoia; peripheral neuropathy; Bell’s palsy; alteration in EEG patterns; extrapyramidal symptoms.
