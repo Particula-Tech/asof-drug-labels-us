@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA022363"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Kowa Pharmaceuticals America, Inc.",
+  "package_ndcs": [
+    "66869-104-90",
+    "66869-204-07",
+    "66869-204-90",
+    "66869-404-07",
+    "66869-404-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pitavastatin calcium",
+      "name": "Livalo"
+    }
+  ],
+  "setid": "44dcbf97-99ec-427c-ba50-207e0069d6d2",
+  "source": "dailymed"
+}
