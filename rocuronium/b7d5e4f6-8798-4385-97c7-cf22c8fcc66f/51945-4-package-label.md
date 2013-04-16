@@ -2,12 +2,14 @@ PRINCIPAL DISPLAY PANEL - 5 mL Multiple Dose Vial Carton
 
 NDC 0052-0450-15
 
-10 x 5 mL multiple dose vials
-
-For IV use only
-
-Injection ZEMURON® (rocuronium bromide)
+Injection ZEMURON ® (rocuronium bromide)
 
 10 mg/mL
 
-Organon
+Rx only
+
+10 multiple-dose 5 mL vials
+
+For IV use only
+
+Lot and Expiry date legends to be printed on-line in this area.

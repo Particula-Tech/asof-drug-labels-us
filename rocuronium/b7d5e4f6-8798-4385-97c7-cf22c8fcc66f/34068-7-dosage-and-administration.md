@@ -12,15 +12,15 @@ In patients in whom potentiation of, or resistance to, neuromuscular block is an
 ## 2.1 Dose for Tracheal Intubation
 
 The recommended initial dose of ZEMURON, regardless of anesthetic technique, is 0.6 mg/kg.
-Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1 (0.4–6) minute(s) and most patients have intubation completed within 2 minutes.
+Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1 (0.4-6) minute(s) and most patients have intubation completed within 2 minutes.
 Maximum blockade is achieved in most patients in less than 3 minutes.
-This dose may be expected to provide 31 (15–85) minutes of clinical relaxation under opioid/nitrous oxide/oxygen anesthesia.
+This dose may be expected to provide 31 (15-85) minutes of clinical relaxation under opioid/nitrous oxide/oxygen anesthesia.
 Under halothane, isoflurane, and enflurane anesthesia, some extension of the period of clinical relaxation should be expected [see Drug Interactions (7.3)].
 
 A lower dose of ZEMURON (0.45 mg/kg) may be used.
-Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1.3 (0.8–6.2) minute(s), and most patients have intubation completed within 2 minutes.
+Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1.3 (0.8-6.2) minute(s), and most patients have intubation completed within 2 minutes.
 Maximum blockade is achieved in most patients in less than 4 minutes.
-This dose may be expected to provide 22 (12–31) minutes of clinical relaxation under opioid/nitrous oxide/oxygen anesthesia.
+This dose may be expected to provide 22 (12-31) minutes of clinical relaxation under opioid/nitrous oxide/oxygen anesthesia.
 Patients receiving this low dose of 0.45 mg/kg who achieve less than 90% block (about 16% of these patients) may have a more rapid time to 25% recovery, 12 to 15 minutes.
 
 A large bolus dose of 0.9 or 1.2 mg/kg can be administered under opioid/nitrous oxide/oxygen anesthesia without adverse effects to the cardiovascular system [see Clinical Pharmacology (12.2)].
@@ -31,7 +31,7 @@ In appropriately premedicated and adequately anesthetized patients, ZEMURON 0.6 
 
 ## 2.3 Maintenance Dosing
 
-Maintenance doses of 0.1, 0.15, and 0.2 mg/kg ZEMURON, administered at 25% recovery of control T1 (defined as 3 twitches of train-of-four), provide a median (range) of 12 (2–31), 17 (6–50), and 24 (7–69) minutes of clinical duration under opioid/nitrous oxide/oxygen anesthesia [see Clinical Pharmacology (12.2)].
+Maintenance doses of 0.1, 0.15, and 0.2 mg/kg ZEMURON, administered at 25% recovery of control T1 (defined as 3 twitches of train-of-four), provide a median (range) of 12 (2-31), 17 (6-50), and 24 (7-69) minutes of clinical duration under opioid/nitrous oxide/oxygen anesthesia [see Clinical Pharmacology (12.2)].
 In all cases, dosing should be guided based on the clinical duration following initial dose or prior maintenance dose and not administered until recovery of neuromuscular function is evident.
 A clinically insignificant cumulation of effect with repetitive maintenance dosing has been observed [see Clinical Pharmacology (12.2)].
 
@@ -55,59 +55,59 @@ Unused portions of infusion solutions should be discarded.
 
 Infusion rates of ZEMURON can be individualized for each patient using the following tables for 3 different concentrations of ZEMURON solution as guidelines:
 
-TABLE 1: Infusion Rates Using ZEMURON Injection (0.5 mg/mL)50 mg ZEMURON in 100 mL solution
+Table 1: Infusion Rates Using ZEMURON Injection (0.5 mg/mL)50 mg ZEMURON in 100 mL solution.
 
-|  |  | Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |
+| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
-| 10 | 22 | 4. 8 | 6 | 7. 2 | 8. 4 | 9. 6 | 10. 8 | 12 | 14. 4 | 16. 8 | 19. 2 |
-| 15 | 33 | 7. 2 | 9 | 10. 8 | 12. 6 | 14. 4 | 16. 2 | 18 | 21. 6 | 25. 2 | 28. 8 |
-| 20 | 44 | 9. 6 | 12 | 14. 4 | 16. 8 | 19. 2 | 21. 6 | 24 | 28. 8 | 33. 6 | 38. 4 |
+| 10 | 22 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
+| 15 | 33 | 7.2 | 9 | 10.8 | 12.6 | 14.4 | 16.2 | 18 | 21.6 | 25.2 | 28.8 |
+| 20 | 44 | 9.6 | 12 | 14.4 | 16.8 | 19.2 | 21.6 | 24 | 28.8 | 33.6 | 38.4 |
 | 25 | 55 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 36 | 42 | 48 |
-| 35 | 77 | 16. 8 | 21 | 25. 2 | 29. 4 | 33. 6 | 37. 8 | 42 | 50. 4 | 58. 8 | 67. 2 |
+| 35 | 77 | 16.8 | 21 | 25.2 | 29.4 | 33.6 | 37.8 | 42 | 50.4 | 58.8 | 67.2 |
 | 50 | 110 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |
-| 60 | 132 | 28. 8 | 36 | 43. 2 | 50. 4 | 57. 6 | 64. 8 | 72 | 86. 4 | 100. 8 | 115. 2 |
-| 70 | 154 | 33. 6 | 42 | 50. 4 | 58. 8 | 67. 2 | 75. 6 | 84 | 100. 8 | 117. 6 | 134. 4 |
-| 80 | 176 | 38. 4 | 48 | 57. 6 | 67. 2 | 76. 8 | 86. 4 | 96 | 115. 2 | 134. 4 | 153. 6 |
-| 90 | 198 | 43. 2 | 54 | 64. 8 | 75. 6 | 86. 4 | 97. 2 | 108 | 129. 6 | 151. 2 | 172. 8 |
+| 60 | 132 | 28.8 | 36 | 43.2 | 50.4 | 57.6 | 64.8 | 72 | 86.4 | 100.8 | 115.2 |
+| 70 | 154 | 33.6 | 42 | 50.4 | 58.8 | 67.2 | 75.6 | 84 | 100.8 | 117.6 | 134.4 |
+| 80 | 176 | 38.4 | 48 | 57.6 | 67.2 | 76.8 | 86.4 | 96 | 115.2 | 134.4 | 153.6 |
+| 90 | 198 | 43.2 | 54 | 64.8 | 75.6 | 86.4 | 97.2 | 108 | 129.6 | 151.2 | 172.8 |
 | 100 | 220 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 144 | 168 | 192 |
 
-TABLE 2: Infusion Rates Using ZEMURON Injection (1 mg/mL)100 mg ZEMURON in 100 mL solution
+Table 2: Infusion Rates Using ZEMURON Injection (1 mg/mL)100 mg ZEMURON in 100 mL solution.
 
-|  |  | Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |
+| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
-| 10 | 22 | 2. 4 | 3 | 3. 6 | 4. 2 | 4. 8 | 5. 4 | 6 | 7. 2 | 8. 4 | 9. 6 |
-| 15 | 33 | 3. 6 | 4. 5 | 5. 4 | 6. 3 | 7. 2 | 8. 1 | 9 | 10. 8 | 12. 6 | 14. 4 |
-| 20 | 44 | 4. 8 | 6 | 7. 2 | 8. 4 | 9. 6 | 10. 8 | 12 | 14. 4 | 16. 8 | 19. 2 |
-| 25 | 55 | 6 | 7. 5 | 9 | 10. 5 | 12 | 13. 5 | 15 | 18 | 21 | 24 |
-| 35 | 77 | 8. 4 | 10. 5 | 12. 6 | 14. 7 | 16. 8 | 18. 9 | 21 | 25. 2 | 29. 4 | 33. 6 |
+| 10 | 22 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 7.2 | 8.4 | 9.6 |
+| 15 | 33 | 3.6 | 4.5 | 5.4 | 6.3 | 7.2 | 8.1 | 9 | 10.8 | 12.6 | 14.4 |
+| 20 | 44 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
+| 25 | 55 | 6 | 7.5 | 9 | 10.5 | 12 | 13.5 | 15 | 18 | 21 | 24 |
+| 35 | 77 | 8.4 | 10.5 | 12.6 | 14.7 | 16.8 | 18.9 | 21 | 25.2 | 29.4 | 33.6 |
 | 50 | 110 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 36 | 42 | 48 |
-| 60 | 132 | 14. 4 | 18 | 21. 6 | 25. 2 | 28. 8 | 32. 4 | 36 | 43. 2 | 50. 4 | 57. 6 |
-| 70 | 154 | 16. 8 | 21 | 25. 2 | 29. 4 | 33. 6 | 37. 8 | 42 | 50. 4 | 58. 8 | 67. 2 |
-| 80 | 176 | 19. 2 | 24 | 28. 8 | 33. 6 | 38. 4 | 43. 2 | 48 | 57. 6 | 67. 2 | 76. 8 |
-| 90 | 198 | 21. 6 | 27 | 32. 4 | 37. 8 | 43. 2 | 48. 6 | 54 | 64. 8 | 75. 6 | 86. 4 |
+| 60 | 132 | 14.4 | 18 | 21.6 | 25.2 | 28.8 | 32.4 | 36 | 43.2 | 50.4 | 57.6 |
+| 70 | 154 | 16.8 | 21 | 25.2 | 29.4 | 33.6 | 37.8 | 42 | 50.4 | 58.8 | 67.2 |
+| 80 | 176 | 19.2 | 24 | 28.8 | 33.6 | 38.4 | 43.2 | 48 | 57.6 | 67.2 | 76.8 |
+| 90 | 198 | 21.6 | 27 | 32.4 | 37.8 | 43.2 | 48.6 | 54 | 64.8 | 75.6 | 86.4 |
 | 100 | 220 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |
 
-TABLE 3: Infusion Rates Using ZEMURON Injection (5 mg/mL)500 mg ZEMURON in 100 mL solution
+Table 3: Infusion Rates Using ZEMURON Injection (5 mg/mL)500 mg ZEMURON in 100 mL solution.
 
 |  |  | Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
-| 10 | 22 | 0. 5 | 0. 6 | 0. 7 | 0. 8 | 1 | 1. 1 | 1. 2 | 1. 4 | 1. 7 | 1. 9 |
-| 15 | 33 | 0. 7 | 0. 9 | 1. 1 | 1. 3 | 1. 4 | 1. 6 | 1. 8 | 2. 2 | 2. 5 | 2. 9 |
-| 20 | 44 | 1 | 1. 2 | 1. 4 | 1. 7 | 1. 9 | 2. 2 | 2. 4 | 2. 9 | 3. 4 | 3. 8 |
-| 25 | 55 | 1. 2 | 1. 5 | 1. 8 | 2. 1 | 2. 4 | 2. 7 | 3 | 3. 6 | 4. 2 | 4. 8 |
-| 35 | 77 | 1. 7 | 2. 1 | 2. 5 | 2. 9 | 3. 4 | 3. 8 | 4. 2 | 5 | 5. 9 | 6. 7 |
-| 50 | 110 | 2. 4 | 3 | 3. 6 | 4. 2 | 4. 8 | 5. 4 | 6 | 7. 2 | 8. 4 | 9. 6 |
-| 60 | 132 | 2. 9 | 3. 6 | 4. 3 | 5 | 5. 8 | 6. 5 | 7. 2 | 8. 6 | 10. 1 | 11. 5 |
-| 70 | 154 | 3. 4 | 4. 2 | 5 | 5. 9 | 6. 7 | 7. 6 | 8. 4 | 10. 1 | 11. 8 | 13. 4 |
-| 80 | 176 | 3. 8 | 4. 8 | 5. 8 | 6. 7 | 7. 7 | 8. 6 | 9. 6 | 11. 5 | 13. 4 | 15. 4 |
-| 90 | 198 | 4. 3 | 5. 4 | 6. 5 | 7. 6 | 8. 6 | 9. 7 | 10. 8 | 13 | 15. 1 | 17. 3 |
-| 100 | 220 | 4. 8 | 6 | 7. 2 | 8. 4 | 9. 6 | 10. 8 | 12 | 14. 4 | 16. 8 | 19. 2 |
+| 10 | 22 | 0.5 | 0.6 | 0.7 | 0.8 | 1 | 1.1 | 1.2 | 1.4 | 1.7 | 1.9 |
+| 15 | 33 | 0.7 | 0.9 | 1.1 | 1.3 | 1.4 | 1.6 | 1.8 | 2.2 | 2.5 | 2.9 |
+| 20 | 44 | 1 | 1.2 | 1.4 | 1.7 | 1.9 | 2.2 | 2.4 | 2.9 | 3.4 | 3.8 |
+| 25 | 55 | 1.2 | 1.5 | 1.8 | 2.1 | 2.4 | 2.7 | 3 | 3.6 | 4.2 | 4.8 |
+| 35 | 77 | 1.7 | 2.1 | 2.5 | 2.9 | 3.4 | 3.8 | 4.2 | 5 | 5.9 | 6.7 |
+| 50 | 110 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 7.2 | 8.4 | 9.6 |
+| 60 | 132 | 2.9 | 3.6 | 4.3 | 5 | 5.8 | 6.5 | 7.2 | 8.6 | 10.1 | 11.5 |
+| 70 | 154 | 3.4 | 4.2 | 5 | 5.9 | 6.7 | 7.6 | 8.4 | 10.1 | 11.8 | 13.4 |
+| 80 | 176 | 3.8 | 4.8 | 5.8 | 6.7 | 7.7 | 8.6 | 9.6 | 11.5 | 13.4 | 15.4 |
+| 90 | 198 | 4.3 | 5.4 | 6.5 | 7.6 | 8.6 | 9.7 | 10.8 | 13 | 15.1 | 17.3 |
+| 100 | 220 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
 
 ## 2.5 Dosage in Specific Populations
 
@@ -133,7 +133,7 @@ Spontaneous recovery and reversal of neuromuscular blockade following discontinu
 
 ZEMURON is not recommended for rapid sequence intubation in pediatric patients.
 
-Geriatric Patients: Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22–73), 62 (49–75), and 94 (64–138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
+Geriatric Patients: Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22-73), 62 (49-75), and 94 (64-138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
 No differences in duration of neuromuscular blockade following maintenance doses of ZEMURON were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2, 12.3)].
 
 Patients with Renal or Hepatic Impairment: No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg ZEMURON.
@@ -157,23 +157,26 @@ During 1 to 2 hours of infusion, the infusion rate of ZEMURON required to mainta
 
 Diluent Compatibility: ZEMURON is compatible in solution with:
 
-| 0.9% NaCl solution | sterile water for injection |
-| --- | --- |
-| 5% glucose in water | lactated Ringers |
-| 5% glucose in saline |  |
+|  | 0.9% NaCl solution | sterile water for injection |
+| --- | --- | --- |
+|  | 5% glucose in water | lactated Ringers |
+|  | 5% glucose in saline |  |
 
 ZEMURON is compatible in the above solutions at concentrations up to 5 mg/mL for 24 hours at room temperature in plastic bags, glass bottles, and plastic syringe pumps.
 
 Drug Admixture Incompatibility: ZEMURON is physically incompatible when mixed with the following drugs:
 
-| amphotericin | erythromycin | lorazepam |
+|  | amphotericin | hydrocortisone sodium succinate |
 | --- | --- | --- |
-| amoxicillin | famotidine | methohexital |
-| azathioprine | furosemide | methylprednisolone |
-| cefazolin | hydrocortisone sodium succinate | thiopental |
-| cloxacillin | insulin | trimethoprim |
-| dexamethasone | intralipid | vancomycin |
-| diazepam | ketorolac |  |
+|  | amoxicillin | insulin |
+|  | azathioprine | Intralipid |
+|  | cefazolin | ketorolac |
+|  | cloxacillin | lorazepam |
+|  | dexamethasone | methohexital |
+|  | diazepam | methylprednisolone |
+|  | erythromycin | thiopental |
+|  | famotidine | trimethoprim |
+|  | furosemide | vancomycin |
 
 If ZEMURON is administered via the same infusion line that is also used for other drugs, it is important that this infusion line is adequately flushed between administration of ZEMURON and drugs for which incompatibility with ZEMURON has been demonstrated or for which compatibility with ZEMURON has not been established.
 

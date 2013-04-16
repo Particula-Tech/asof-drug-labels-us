@@ -11,7 +11,7 @@ It is recommended that clinicians administering neuromuscular blocking agents su
 Severe anaphylactic reactions to neuromuscular blocking agents, including ZEMURON, have been reported.
 These reactions have, in some cases (including cases with ZEMURON), been life threatening and fatal.
 Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
-Precautions should also be taken in those patients who have had previous anaphylactic reactions to other neuromuscular blocking agents, since cross-reactivity between neuromuscular blocking agents, both depolarizing and non depolarizing, has been reported.
+Precautions should also be taken in those patients who have had previous anaphylactic reactions to other neuromuscular blocking agents, since cross-reactivity between neuromuscular blocking agents, both depolarizing and nondepolarizing, has been reported.
 
 ## 5.3 Need for Adequate Anesthesia
 
