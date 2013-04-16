@@ -1,0 +1,8 @@
+# PRINCIPAL DISPLAY PANEL - 20 gram Tube
+
+RENOVA® (TRETINOIN CREAM) 0.02%
+
+NDC 0187-5150-20
+
+NET WT.
+20 g Rx Only For Topical Use Only
