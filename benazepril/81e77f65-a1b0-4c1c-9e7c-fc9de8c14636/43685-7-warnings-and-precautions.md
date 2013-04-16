@@ -74,7 +74,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue Lotensin HCT, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Lotensin HCT for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
+Closely observe infants with histories of in utero exposure to Lotensin HCT for hypotension, oliguria, and hyperkalemia [see Precautions, Pediatric Use].
 
 No teratogenic effects of Lotensin were seen in studies of pregnant rats, mice, and rabbits.
 On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50-kg woman).
@@ -165,12 +165,18 @@ Therapy with Lotensin HCT should be interrupted for a few days before carrying o
 
 Interactions Common for Both Benazepril and Hydrochlorothiazide
 
-Potassium Supplements and Potassium-Sparing Diuretics: Concomitant use with Lotensin HCT may affect potassium levels.
+Potassium Supplements and Potassium-Sparing Diuretics: Concomitant use with Lotensin HCT may effect potassium levels.
 Monitor potassium periodically.
 
 Lithium: Renal clearance of lithium is reduced by thiazides and increase the risk of lithium toxicity.
 Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium.
 Monitor lithium levels when used concomitantly with Lotensin HCT.
+
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on Lotensin HCT and other agents that block the RAS.
+
+Do not co-administer aliskiren with Lotensin HCT in patients with diabetes.
+Avoid use of aliskiren with Lotensin HCT in patients with renal impairment (GFR <60 ml/min).
 
 NSAIDs and Cox-2 selective agents: In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -228,7 +234,7 @@ Positive test results were also obtained in the Aspergillus nidulans nondisjunct
 Fertility
 
 There are no human fertility data for hydrochlorothiazide.
-In animal studies, benazepril and hydrochlorothiazide alone or in combination had no effect on fertility and conception (see PRECAUTIONS, Non-clinical safety data).
+In animal studies, benazepril and hydrochlorothiazide alone or in combination had no effect on fertility and conception (see Non-Clinical Safety Data).
 
 ## Use in Specific Populations
 
@@ -262,7 +268,7 @@ No dose adjustment is required in patients with mild (CrCL 60-90 ml/min) or mode
 
 ## Hepatic Impairment
 
-No adjustment of the initial dose is required for patients with mild to moderate hepatic impairment (see CLINICAL PHARMACOLOGY).
+No adjustment of the initial dose is required for patients with mild to moderate hepatic impairment (see Clinical Pharmacology).
 
 Hydrochlorothiazide
 

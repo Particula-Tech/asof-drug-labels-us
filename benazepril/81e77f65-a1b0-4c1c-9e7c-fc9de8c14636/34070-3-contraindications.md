@@ -6,3 +6,5 @@ Lotensin HCT is also contraindicated in patients who are hypersensitive to benaz
 Hypersensitivity reactions are more likely to occur in patients with a history of allergy or bronchial asthma.
 
 Lotensin HCT is also contraindicated in patients with a history of angioedema with or without previous ACE inhibitor treatment.
+
+Do not co-administer aliskiren with angiotensin receptor blockers, ACE inhibitors, including Lotensin HCT in patients with diabetes.
