@@ -1,7 +1,11 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Phentermine hydrochloride USP has the chemical name of α,α,-Dimethylphenethylamine hydrochloride.
+Phentermine hydrochloride USP is a sympathomimetic amine anorectic.
+It has the chemical name of α,α,-Dimethylphenethylamine hydrochloride.
 The structural formula is as follows:
+
+C10H15N•HCl M.W.
+185.7
 
 Phentermine hydrochloride is a white, odorless, hygroscopic, crystalline powder which is soluble in water and lower alcohols, slightly soluble in chloroform and insoluble in ether.
 
