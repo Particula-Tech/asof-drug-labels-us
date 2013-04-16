@@ -56,6 +56,11 @@ Distribution
 
 Raltegravir is approximately 83% bound to human plasma protein over the concentration range of 2 to 10 µM.
 
+In one study of HIV-1 infected subjects who received raltegravir 400 mg twice daily, raltegravir was measured in the cerebrospinal fluid.
+In the study (n=18), the median cerebrospinal fluid concentration was 5.8% (range 1 to 53.5%) of the corresponding plasma concentration.
+This median proportion was approximately 3-fold lower than the free fraction of raltegravir in plasma.
+The clinical relevance of this finding is unknown.
+
 Metabolism and Excretion
 
 The apparent terminal half-life of raltegravir is approximately 9 hours, with a shorter α-phase half-life (~1 hour) accounting for much of the AUC.
