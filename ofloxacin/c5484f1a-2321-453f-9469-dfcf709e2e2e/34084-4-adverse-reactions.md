@@ -1,4 +1,4 @@
-# Adverse Reactions
+# ADVERSE REACTIONS
 
 In a Phase III clinical trials performed in support of once-daily dosing, 799 subjects with otitis externa and intact tympanic membranes were treated with ofloxacin otic solution.
 The studies, which served as the basis for approval, were 020 (pediatric, adolescents and adults), 016 (adolescents and adults) and 017 (pediatric).

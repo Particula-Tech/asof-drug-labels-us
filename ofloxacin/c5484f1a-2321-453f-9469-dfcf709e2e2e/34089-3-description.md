@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION
 
 Ofloxacin Otic Solution 0.3% is a sterile aqueous anti-infective (anti-bacterial) solution for otic use.
 Chemically, ofloxacin has three condensed 6-membered rings made up of a fluorinated carboxyquinolone with a benzoxazine ring.

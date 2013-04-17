@@ -1,4 +1,8 @@
-# Precautions
+PHARMACIST - DETACH INSTRUCTIONS FOR PATIENT
+
+Rx only
+
+# PRECAUTIONS
 
 ## General
 
@@ -14,7 +18,7 @@ No drug-related structural or functional changes of the cochlea and no lesions i
 No signs of local irritation were found when 0.3% ofloxacin was applied topically in the rabbit eye.
 Ofloxacin was also shown to lack dermal sensitizing potential in the guinea pig maximization study.
 
-## Information for patients
+## Information for Patients
 
 Avoid contaminating the applicator tip with material from the fingers or other sources.
 This precaution is necessary if the sterility of the drops is to be preserved.
@@ -36,11 +40,11 @@ The tragus should then be pumped 4 times by pushing inward to facilitate penetra
 This position should be maintained for five minutes.
 Repeat, if necessary, for the opposite ear (see DOSAGE AND ADMINISTRATION).
 
-## Drug interactions
+## Drug Interactions
 
 Specific drug interaction studies have not been conducted with ofloxacin otic solution 0.3%.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies to determine the carcinogenic potential of ofloxacin have not been conducted.
 Ofloxacin was not mutagenic in the Ames test, the sister chromatid exchange assay (Chinese hamster and human cell lines), the unscheduled DNA synthesis (UDS) assay using human fibroblasts, the dominant lethal assay, or the mouse micronucleus assay.
@@ -62,19 +66,19 @@ Ofloxacin has not been shown to be teratogenic at doses as high as 810 mg/kg/day
 
 Ofloxacin has not been shown to have any adverse effects on the developing embryo or fetus at doses relevant to the amount of ofloxacin that will be delivered ototopically at the recommended clinical doses.
 
-### Nonteratogenic effects
+### Nonteratogenic Effects
 
 Additional studies in the rat demonstrated that doses up to 360 mg/kg/day during late gestation had no adverse effects on late fetal development, labor, delivery, lactation, neonatal viability, or growth of the newborn.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Ofloxacin otic solution 0.3% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing mothers
+## Nursing Mothers
 
 In nursing women, a single 200 mg oral dose resulted in concentrations of ofloxacin in milk which were similar to those found in plasma.
 It is not known whether ofloxacin is excreted in human milk following topical otic administration.
 Because of the potential for serious adverse reactions from ofloxacin in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric use
+## Pediatric Use
 
 Safety and efficacy have been demonstrated in pediatric patients of the following ages for the listed indications:
 
@@ -96,15 +100,13 @@ Although quinolones, including ofloxacin, have been shown to cause arthropathy i
 Store at 25ºC (77ºF), excursions permitted to 15º-30ºC (59º-86ºF).
 Protect from light.
 
-# Manufacturer Information
-
 Revised May 2007
 
 Bausch & Lomb Incorporated, Tampa, FL 33637 ©Bausch & Lomb Incorporated
 
-9047601 (Folded)/9047701 (Flat)
+9047602 (Folded)/9047702 (Flat)
 
-DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT.
+DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT
 
 # Patient Information
 
@@ -191,7 +193,10 @@ This will allow the ear drops to flow down into the ear canal.
 Stay on side
 
 The person who received the ear drops should remain on his/her side for at least 5 minutes.
-Repeat Steps 2-5 for the other ear if both ears are infected.
+
+JakeBrown31803
+
+JakRepeat Steps 2-5 for the other ear if both ears are infected.
 
 How often should Ofloxacin Otic Solution 0.3% be given?
 
@@ -253,4 +258,4 @@ Bausch & Lomb Incorporated Tampa, FL 33637 ©Bausch & Lomb Incorporated
 Prod.
 No. 41007
 
-9047601 (Folded)/9047701 (Flat)
+9047602 (Folded)/9047702 (Flat)

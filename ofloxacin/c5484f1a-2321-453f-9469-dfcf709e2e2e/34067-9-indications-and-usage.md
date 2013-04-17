@@ -1,4 +1,4 @@
-# Indications and Usage
+# INDICATIONS AND USAGE
 
 Ofloxacin otic solution 0.3% is indicated for the treatment of infections caused by susceptible isolates of the designated microorganisms in the specific conditions listed below
 

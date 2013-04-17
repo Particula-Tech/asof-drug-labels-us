@@ -1,4 +1,4 @@
-# How Supplied
+# HOW SUPPLIED
 
 Ofloxacin Otic Solution 0.3% is supplied in plastic dropper bottles in the following sizes:
 

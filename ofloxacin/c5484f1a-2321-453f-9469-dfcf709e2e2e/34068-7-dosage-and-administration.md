@@ -1,4 +1,4 @@
-# Dosage and Administration
+# DOSAGE AND ADMINISTRATION
 
 Otitis Externa: The recommended dosage regimen for the treatment of otitis externa is:
 
