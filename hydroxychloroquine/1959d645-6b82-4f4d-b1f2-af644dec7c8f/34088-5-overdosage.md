@@ -1,8 +1,8 @@
 # OVERDOSAGE
 
 The 4-aminoquinoline compounds are very rapidly and completely absorbed after ingestion, and in accidental overdosage, or rarely with lower doses in hypersensitive patients, toxic symptoms may occur within 30 minutes.
-These consist of headache, drowsiness, visual disturbances, cardiovascular collapse, and convulsions, followed by sudden and early respiratory and cardiac arrest.
-The electrocardiogram may reveal atrial standstill, nodal rhythm, prolonged intraventricular conduction time, and progressive bradycardia leading to ventricular fibrillation and/or arrest.
+The symptoms of overdosage may include headache, drowsiness, visual disturbances, cardiovascular collapse, convulsions, hypokalemia, rhythm and conduction disorders including QT prolongation, torsade de pointe, ventricular tachycardia and ventricular fibrillation, followed by sudden potentially fatal respiratory and cardiac arrest.
+Immediate medical attention is required, as these effects may appear shortly after the overdose.
 Treatment is symptomatic and must be prompt with immediate evacuation of the stomach by emesis (at home, before transportation to the hospital) or gastric lavage until the stomach is completely emptied.
 If finely powdered, activated charcoal is introduced by the stomach tube, after lavage, and within 30 minutes after ingestion of the tablets, it may inhibit further intestinal absorption of the drug.
 To be effective, the dose of activated charcoal should be at least five times the estimated dose of hydroxychloroquine ingested.

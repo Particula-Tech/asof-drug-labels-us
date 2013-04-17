@@ -7,25 +7,58 @@ The precise mechanism of action is not known.
 
 ## Actions
 
-Like chloroquine phosphate, USP, PLAQUENIL is highly active against the erythrocytic forms of P. vivax and malariae and most strains of P. falciparum (but not the gametocytes of P. falciparum).
+Like chloroquine phosphate, USP, PLAQUENIL is highly active against the erythrocytic forms of P. vivax and P. malariae and most strains of P. falciparum (but not the gametocytes of P. falciparum).
 
-PLAQUENIL does not prevent relapses in patients with vivax or malariae malaria because it is not effective against exo-erythrocytic forms of the parasite, nor will it prevent vivax or malariae infection when administered as a prophylactic.
-It is highly effective as a suppressive agent in patients with vivax or malariae malaria, in terminating acute attacks, and significantly lengthening the interval between treatment and relapse.
-In patients with falciparum malaria, it abolishes the acute attack and effects complete cure of the infection, unless due to a resistant strain of P. falciparum.
+PLAQUENIL does not prevent relapses in patients with P. vivax or P. malariae malaria because it is not effective against exo-erythrocytic forms of the parasite, nor will it prevent P. vivax or P. malariae infection when administered as a prophylactic.
+It is highly effective as a suppressive agent in patients with P. vivax or P. malariae malaria, in terminating acute attacks, and significantly lengthening the interval between treatment and relapse.
+In patients with P. falciparum malaria, it abolishes the acute attack and effects complete cure of the infection, unless due to a resistant strain of P. falciparum.
 
 ## Indications
 
 PLAQUENIL is indicated for the treatment of acute attacks and suppression of malaria.
 
-## Warning
+## Warnings
 
 In recent years, it has been found that certain strains of P. falciparum have become resistant to 4-aminoquinoline compounds (including hydroxychloroquine) as shown by the fact that normally adequate doses have failed to prevent or cure clinical malaria or parasitemia.
 Treatment with quinine or other specific forms of therapy is therefore advised for patients infected with a resistant strain of parasites.
+
+Before starting a long-term treatment, both eyes should be carefully examined for visual acuity, central visual field and color vision.
+Examination should also include fundoscopy.
+These examinations should be repeated at least annually.
+Retinal toxicity is largely dose-related.
+
+The risk of retinal damages is small with daily doses of up to 6.5 mg/kg body weight.
+Exceeding the recommended daily dose sharply increases the risk of retinal toxicity.
+This examination should be more frequent and adapted to the patient in the following situations:
+
+- -daily dosage exceeding 6.5 mg/kg ideal body weight.
+  Absolute body weight used as a guide to dosage, could result in an overdosage in the obese;
+- -renal insufficiency;
+- -cumulative dose more than 200 g;
+- -elderly;
+- -impaired visual acuity.
+
+If any visual disturbance occurs (visual acuity, color vision), the drug should be immediately discontinued and the patient closely observed for possible progression of the abnormality.
+Retinal changes (and visual disturbances) may progress even after cessation of the therapy.
+(See ADVERSE REACTIONS)
+
+Suicidal behavior has been reported in very rare cases in patients treated with hydroxychloroquine.
 
 ## Adverse Reactions
 
 Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur.
 Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine.
+
+Psychiatric disorders: Nervousness, emotional lability, psychosis, suicidal behavior.
+
+Nervous system disorders: Dizziness, headache, convulsions have been reported with this class of drugs.
+
+Eye disorders: Retinopathy with changes in pigmentation and visual field defects have been reported.
+In its early form, it appears reversible on discontinuation of hydroxychloroquine.
+If allowed to develop, there may be a risk of progression even after treatment withdrawal.
+Cases of maculopathies and macular degeneration have been reported and may be irreversible.
+
+Skin and subcutaneous tissue disorders: Bullous eruptions including very rare cases of Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, photosensitivity and exfoliative dermatitis have been reported.
 
 ## Dosage and Administration
 
@@ -71,18 +104,31 @@ PLAQUENIL is useful in patients with the following disorders who have not respon
 PHYSICIANS SHOULD COMPLETELY FAMILIARIZE THEMSELVES WITH THE COMPLETE CONTENTS OF THIS LEAFLET BEFORE PRESCRlBlNG PLAQUENIL.
 
 Irreversible retinal damage has been observed in some patients who had received long-term or high-dosage 4-aminoquinoline therapy for discoid and systemic lupus erythematosus, or rheumatoid arthritis.
-Retinopathy has been reported to be dose-related.
 
 When prolonged therapy with any Antimalarial compound is contemplated, initial (base line) and periodic (every three months) ophthalmologic examinations (including visual acuity, expert slit-lamp, funduscopic, and visual field tests) should be performed.
 
-If there is any indication of abnormality in the visual acuity, visual field, or retinal macular areas (such as pigmentary changes, loss of foveal reflex), or any visual symptoms (such as light flashes and streaks) which are not fully explainable by difficulties of accommodation or corneal opacities, the drug should be discontinued immediately and the patient closely observed for possible progression.
-Retinal changes (and visual disturbances) may progress even after cessation of therapy.
+If there is any indication of abnormality in the visual acuity, visual field, color vision, or retinal macular areas (such as pigmentary changes, loss of foveal reflex), or any visual symptoms (such as light flashes and streaks) which are not fully explainable by difficulties of accommodation or corneal opacities, the drug should be discontinued immediately and the patient closely observed for possible progression.
+Retinal changes (and visual disturbances) may progress even after cessation of therapy (see ADVERSE REACTIONS).
+
+Retinal toxicity is largely dose-related.
+The risk of retinal damages is small with daily doses of up to 6.5 mg/kg body weight.
+Exceeding the recommended daily dose sharply increases the risk of retinal toxicity.
+This examination should be more frequent and adapted to the patient in the following situations:
+
+- -daily dosage exceeding 6.5 mg/kg ideal body weight.
+  Absolute body weight used as a guide to dosage, could result in an overdosage in the obese;
+- -renal insufficiency;
+- -cumulative dose more than 200 g;
+- -elderly;
+- -impaired visual acuity.
 
 All patients on long-term therapy with this preparation should be questioned and examined periodically, including the testing of knee and ankle reflexes, to detect any evidence of muscular weakness.
 If weakness occurs, discontinue the drug.
 
 In the treatment of rheumatoid arthritis, if objective improvement (such as reduced joint swelling, increased mobility) does not occur within six months, the drug should be discontinued.
 Safe use of the drug in the treatment of juvenile arthritis has not been established.
+
+Suicidal behavior has been reported in very rare cases in patients treated with hydroxychloroquine.
 
 ## Precautions
 
@@ -99,7 +145,7 @@ However, caution must be exercised in patients with impaired renal function and/
 Not all of the following reactions have been observed with every 4-aminoquinoline compound during long-term therapy, but they have been reported with one or more and should be borne in mind when drugs of this class are administered.
 Adverse effects with different compounds vary in type and frequency.
 
-CNS Reactions: Irritability, nervousness, emotional changes, nightmares, psychosis, headache, dizziness, vertigo, tinnitus, nystagmus, nerve deafness, convulsions, ataxia.
+CNS Reactions: Irritability, nervousness, emotional changes, nightmares, psychosis, headache, dizziness, vertigo, tinnitus, nystagmus, nerve deafness, convulsions, ataxia and suicidal behavior.
 
 Neuromuscular Reactions: Skeletal muscle palsies or skeletal muscle myopathy or neuromyopathy leading to progressive weakness and atrophy of proximal muscle groups which may be associated with mild sensory changes, depression of tendon reflexes and abnormal nerve conduction.
 
@@ -112,16 +158,17 @@ Ocular Reactions:
    Corneal deposits may appear as early as three weeks following initiation of therapy.
    The incidence of corneal changes and visual side effects appears to be considerably lower with hydroxychloroquine than with chloroquine.
 3. Retina: Macula: Edema, atrophy, abnormal pigmentation (mild pigment stippling to a "bull's-eye" appearance), loss of foveal reflex, increased macular recovery time following exposure to a bright light (photo-stress test), elevated retinal threshold to red light in macular, paramacular, and peripheral retinal areas.
-   Other fundus changes include optic disc pallor and atrophy, attenuation of retinal arterioles, fine granular pigmentary disturbances in the peripheral retina and prominent choroidal patterns in advanced stage.
+   Cases of maculopathies and macular degeneration have been reported and may be irreversible.Other fundus changes include optic disc pallor and atrophy, attenuation of retinal arterioles, fine granular pigmentary disturbances in the peripheral retina and prominent choroidal patterns in advanced stage.
 4. Visual field defects: Pericentral or paracentral scotoma, central scotoma with decreased visual acuity, rarely field constriction, abnormal color vision.The most common visual symptoms attributed to the retinopathy are: reading and seeing difficulties (words, letters, or parts of objects missing), photophobia, blurred distance vision, missing or blacked out areas in the central or peripheral visual field, light flashes and streaks.Retinopathy appears to be dose related and has occurred within several months (rarely) to several years of daily therapy; a small number of cases have been reported several years after antimalarial drug therapy was discontinued.
    It has not been noted during prolonged use of weekly doses of the 4-aminoquinoline compounds for suppression of malaria.Patients with retinal changes may have visual symptoms or may be asymptomatic (with or without visual field changes).
    Rarely scotomatous vision or field defects may occur without obvious retinal change.Retinopathy may progress even after the drug is discontinued.
    In a number of patients, early retinopathy (macular pigmentation sometimes with central field defects) diminished or regressed completely after therapy was discontinued.
+   If allowed to develop, there may be a risk of progression even after treatment withdrawal.
    Paracentral scotoma to red targets (sometimes called "premaculopathy") is indicative of early retinal dysfunction which is usually reversible with cessation of therapy.A small number of cases of retinal changes have been reported as occurring in patients who received only hydroxychloroquine.
    These usually consisted of alteration in retinal pigmentation which was detected on periodic ophthalmologic examination; visual field defects were also present in some instances.
    A case of delayed retinopathy has been reported with loss of vision starting one year after administration of hydroxychloroquine had been discontinued.
 
-Dermatologic Reactions: Bleaching of hair, alopecia, pruritus, skin and mucosal pigmentation, photosentivity, and skin eruptions (urticarial, morbilliform, lichenoid, maculopapular, purpuric, erythema annulare centrifugum, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, and exfoliative dermatitis).
+Dermatologic Reactions: Bleaching of hair, alopecia, pruritus, skin and mucosal pigmentation, photosentivity, and skin eruptions (urticarial, morbilliform, lichenoid, maculopapular, purpuric, erythema multiforme, erythema annulare centrifugum, Stevens-Johnson syndrome, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, and exfoliative dermatitis).
 
 Hematologic Reactions: Various blood dyscrasias such as aplastic anemia, agranulocytosis, leukopenia, anemia, thrombocytopenia (hemolysis in individuals with glucose-6-phosphate dehydrogenase (G-6-PD) deficiency).
 
@@ -169,8 +216,8 @@ Should a relapse occur after medication is withdrawn, therapy may be resumed or 
 Corticosteroids and salicylates may be used in conjunction with this compound, and they can generally be decreased gradually in dosage or eliminated after the drug has been used for several weeks.
 When gradual reduction of steroid dosage is indicated, it may be done by reducing every four to five days the dose of cortisone by no more than from 5 mg to 15 mg; of hydrocortisone from 5 mg to 10 mg; of prednisolone and prednisone from 1 mg to 2.5 mg; of methylprednisolone and triamcinolone from 1 mg to 2 mg; and of dexamethasone from 0.25 mg to 0.5 mg.
 
-sanofi-aventis U.S. LLC, Bridgewater, NJ 08807
+sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Revised August 2009
+Revised April 2012
 
-©2009 sanofi-aventis U.S. LLC
+©2012 sanofi-aventis U.S. LLC

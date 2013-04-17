@@ -2,6 +2,28 @@
 
 PLAQUENIL is not effective against chloroquine-resistant strains of P. falciparum.
 
+Before starting a long-term treatment, both eyes should be carefully examined for visual acuity, central visual field and color vision.
+Examination should also include fundoscopy.
+These examinations should be repeated at least annually.
+Retinal toxicity is largely dose-related.
+
+The risk of retinal damage is small with daily doses of up to 6.5 mg/kg body weight.
+Exceeding the recommended daily dose sharply increases the risk of retinal toxicity.
+This examination should be more frequent and adapted to the patient in the following situations:
+
+- -daily dosage exceeding 6.5 mg/kg ideal body weight.
+  Absolute body weight used as a guide to dosage, could result in an overdosage in the obese;
+- -renal insufficiency;
+- -cumulative dose more than 200 g;
+- -elderly;
+- -impaired visual acuity.
+
+If any visual disturbance occurs (visual acuity, color vision), the drug should be immediately discontinued and the patient closely observed for possible progression of the abnormality.
+Retinal changes (and visual disturbances) may progress even after cessation of the therapy.
+(See ADVERSE REACTIONS section)
+
+Suicidal behavior has been reported in very rare cases in patients treated with hydroxychloroquine.
+
 Children are especially sensitive to the 4-aminoquinoline compounds.
 A number of fatalities have been reported following the accidental ingestion of chloroquine, sometimes in relatively small doses (0.75 g or 1 g in one 3-year-old child).
 Patients should be strongly warned to keep these drugs out of the reach of children.
