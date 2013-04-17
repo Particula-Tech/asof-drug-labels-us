@@ -44,11 +44,9 @@ What is the most important information I should know about VAGIFEM
 
 (an estrogen hormone)
 
-- •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb)
-- Report any unusual vaginal bleeding right away while you are using Vagifem.
+- •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb)Report any unusual vaginal bleeding right away while you are using Vagifem.
   Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-
 - •Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline of brain function)
 - •Using estrogen-alone may increase your chances of getting strokes or blood clots
 - •Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older
