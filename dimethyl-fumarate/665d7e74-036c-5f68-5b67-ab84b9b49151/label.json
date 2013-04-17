@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA204063"
+  ],
+  "inn": "dimethyl-fumarate",
+  "labeler": "Biogen Idec Inc.",
+  "package_ndcs": [
+    "64406-005-01",
+    "64406-006-02",
+    "64406-007-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dimethyl fumarate",
+      "name": "Tecfidera"
+    },
+    {
+      "form": "KIT",
+      "generic": "dimethyl fumarate",
+      "name": "Tecfidera"
+    }
+  ],
+  "setid": "665d7e74-036c-5f68-5b67-ab84b9b49151",
+  "source": "dailymed"
+}
