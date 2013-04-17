@@ -1,8 +1,5 @@
 # DOSAGE AND ADMINISTRATION
 
-Penicillin G Sodium for Injection, USP may be given intravenously or intramuscularly.
-The usual dose recommendations are as follows:
-
 ## Adult patients
 
 | CLINICAL INDICATION | DOSAGE |
@@ -15,7 +12,7 @@ The usual dose recommendations are as follows:
 | Clostridial infections Botulism (adjunctive therapy to antitoxin) Gas gangrene (debridement and/or surgery as indicated) Tetanus (adjunctive therapy to human tetanus immune globulin) | 20 million units/day() |
 | Diphtheria (adjunctive therapy to antitoxin and for the prevention of the carrier state) | 2 to 3 million units/day in divided doses for 10 to 12 days() |
 | Erysipelothrix endocarditis | 12 to 20 million units/day for 4 to 6 weeks() |
-| Fusospirochetosis (severe infections of the oropharnyx [Vincents], lower respiratory tract and genital area) | 5 to 10 million units/day() |
+| Fusospirochetosis (severe infections of the oropharnyx [Vincent’s], lower respiratory tract and genital area) | 5 to 10 million units/day() |
 | Listeria infections |  |
 | Meningitis | 15 to 20 million units/day for 2 weeks() |
 | Endocarditis | 15 to 20 million units/day for 4 weeks() |

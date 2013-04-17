@@ -63,7 +63,7 @@ These drugs include: aspirin, phenylbutazone, sulfonamides, indomethacin, thiazi
 
 ## Drug/Laboratory Test Interactions
 
-After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedicts solution, Fehlings solution or Clinitest® tablet, but not with the enzyme-based tests, such as Clinistix® and Tes-Tape®.
+After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution or Clinitest® tablet, but not with the enzyme-based tests, such as Clinistix® and Tes-Tape®.
 
 Penicillin G has been associated with pseudoproteinuria by certain test methods.
 
