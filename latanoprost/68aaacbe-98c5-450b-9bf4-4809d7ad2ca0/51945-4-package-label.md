@@ -10,12 +10,14 @@ Ophthalmic Solution 0.005%
 
 125 μg/2.5 mL
 
-Sterile
+(Sterile)
 
 [icon- eye]
 
 [icon- solution]
 
 [icon- 2.5 mL]
+
+2.5 mL
 
 Rx only
