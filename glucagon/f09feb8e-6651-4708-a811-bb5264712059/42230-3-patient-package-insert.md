@@ -31,16 +31,16 @@ A person who has never given a shot may not be able to give one in an emergency.
 3.
 It is important that your family member or friend:
 
-- Act quickly.
+- •Act quickly.
   Being unconscious for a period of time may be harmful.
   Follow these instructions to give GlucaGen® the right way.
-- Turn the unconscious person on their side to prevent choking.
-- Do not mix GlucaGen® until they are ready to use it.
-- Mix the GlucaGen®.
+- •Turn the unconscious person on their side to prevent choking.
+- •Do not mix GlucaGen® until they are ready to use it.
+- •Mix the GlucaGen®.
   The syringe does not have GlucaGen® in it.
   You must mix the contents of the syringe with GlucaGen® in the vial provided in GlucaGen® HypoKit® before giving the injection.
   (See Instructions For Use)
-- Throw away any mixed GlucaGen® that is not used.
+- •Throw away any mixed GlucaGen® that is not used.
 
 The patient may be in a coma from very high blood sugar (severe hyperglycemia), rather than very low blood sugar.
 If this is the case, the unconscious person will not respond to GlucaGen®.
@@ -67,9 +67,9 @@ Who should not use GlucaGen®?
 
 Do not use GlucaGen® if the person:
 
-- is allergic to either glucagon or lactose
-- has a tumor of the adrenal gland called a pheocromocytoma
-- has a tumor of the pancreas called insulinoma
+- •is allergic to either glucagon or lactose
+- •has a tumor of the adrenal gland called a pheocromocytoma
+- •has a tumor of the pancreas called insulinoma
 
 Instructions for Use:
 
@@ -77,8 +77,8 @@ To Prepare GlucaGen® For Injection:
 
 GlucaGen® HypoKit® includes:
 
-- 1 vial containing 1 mg GlucaGen® powder (glucagon [rDNA origin] for injection)
-- 1 prefilled disposable syringe with attached needle containing 1 mL solvent (sterile water) for reconstitution
+- •1 vial containing 1 mg GlucaGen® powder (glucagon [rDNA origin] for injection)
+- •1 prefilled disposable syringe with attached needle containing 1 mL solvent (sterile water) for reconstitution
 
 The vial with GlucaGen® in it has a protective plastic cap.
 You must remove the plastic cap to inject the water and mix the GlucaGen®.
@@ -110,18 +110,17 @@ Gently pull back on the plunger and slowly withdraw all the liquid into the syri
 See Figure E. Do not pull the plunger out of the syringe.
 This helps prevent the medicine from leaking out of the syringe.
 
-- The usual dose for adults and children who weigh more than 55 pounds (25 kg) is 1 mg (1 mL).
+- •The usual dose for adults and children who weigh more than 55 pounds (25 kg) is 1 mg (1 mL).
   Withdraw the liquid to 1 mL mark on the syringe.
   See Figure F.
-
-- The usual dose for children who weigh less than 55 pounds (25 kg) is 0.5 mg (half of the adult dose).
+- •The usual dose for children who weigh less than 55 pounds (25 kg) is 0.5 mg (half of the adult dose).
   Withdraw the liquid to the 0.5 mL mark on the syringe for these children.
   See Figure F.
 
 If you do not know how much the child weighs:
 
-- Give a child under 6 years of age 0.5 mg (0.5 mL).
-- Give a child 6 years of age and older 1 mg (1 mL).
+- •Give a child under 6 years of age 0.5 mg (0.5 mL).
+- •Give a child 6 years of age and older 1 mg (1 mL).
 
 Step 6.
 Keep the needle in the liquid inside the vial.
@@ -176,16 +175,16 @@ Hypoglycemia may happen again after receiving GlucaGen® treatment.
 
 Early symptoms of hypoglycemia may include:
 
-| sweatingdrowsinessdizzinesssleep disturbancesirregular heartbeat (palpitation)anxiety tremorblurred visionhungerslurred speechrestlessness | depressed moodtingling in the hands, feet, lips, or tongueirritabilityabnormal behaviorlightheadednessunsteady movementinability to concentratepersonality changesheadache |
+| •sweating•drowsiness•dizziness•sleep disturbances•irregular heartbeat (palpitation)•anxiety •tremor•blurred vision•hunger•slurred speech•restlessness | •depressed mood•tingling in the hands, feet, lips, or tongue•irritability•abnormal behavior•lightheadedness•unsteady movement•inability to concentrate•personality changes•headache |
 | --- | --- |
 
 If not treated early, hypoglycemia may worsen and the person may have severe hypoglycemia.
 Signs of severe hypoglycemia include:
 
-- confusion
-- unconsciousness
-- seizures
-- death
+- •confusion
+- •unconsciousness
+- •seizures
+- •death
 
 Pregnancy.
 GlucaGen® is for use only during sudden, severe hypoglycemic attacks.
@@ -204,19 +203,18 @@ What are the possible side effects ofGlucaGen® ?
 
 GlucaGen® may cause serious side effects including:
 
-- allergic reactions.
-  Symptoms of a severe allergic reaction may include:
-  - rash or itching
-  - raised red patches on your skin (hives)
-  - swelling of the face, lips, tongue or throat
-  - problems breathing or swallowing
-  - very high or very low blood pressure
-  - fast or slow heartbeat
+- 
+  - ∘rash or itching
+  - ∘raised red patches on your skin (hives)
+  - ∘swelling of the face, lips, tongue or throat
+  - ∘problems breathing or swallowing
+  - ∘very high or very low blood pressure
+  - ∘fast or slow heartbeat
 
 The most common side effects of GlucaGen® include:
 
-- nausea
-- vomiting
+- •nausea
+- •vomiting
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of GlucaGen®.
@@ -229,15 +227,15 @@ How should I storeGlucaGen® HypoKit® ?
 
 Before mixing:
 
-- Store GlucaGen® HypoKit® for up to 24 months at 68°F to 77°F (20°C to 25°C).
-- Do not freeze GlucaGen® HypoKit®.
-- Keep GlucaGen® HypoKit® in the original package to protect from light.
-- Do not use GlucaGen® HypoKit® after the expiration date printed on the package.
+- •Store GlucaGen® HypoKit® for up to 24 months at 68°F to 77°F (20°C to 25°C).
+- •Do not freeze GlucaGen® HypoKit®.
+- •Keep GlucaGen® HypoKit® in the original package to protect from light.
+- •Do not use GlucaGen® HypoKit® after the expiration date printed on the package.
 
 After mixing:
 
-- Mixed GlucaGen® should be used right away.
-- GlucaGen® and the syringe with sterile water that comes in the kit, do not contain preservatives and should only be used one time.
+- •Mixed GlucaGen® should be used right away.
+- •GlucaGen® and the syringe with sterile water that comes in the kit, do not contain preservatives and should only be used one time.
   Throw away any unused medicine.
 
 Keep GlucaGen® HypoKit®, all medicines, needles and syringes out of the reach of children.

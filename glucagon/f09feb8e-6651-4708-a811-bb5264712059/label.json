@@ -5,7 +5,8 @@
   "inn": "glucagon",
   "labeler": "Novo Nordisk",
   "package_ndcs": [
-    "0169-7065-15"
+    "0169-7065-15",
+    "0169-7065-21"
   ],
   "products": [
     {

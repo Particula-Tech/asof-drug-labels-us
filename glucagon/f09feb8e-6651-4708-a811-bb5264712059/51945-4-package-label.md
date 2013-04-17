@@ -87,3 +87,43 @@ Novo Nordisk A/S
 8-9402-31-201-3
 
 Exp/Lot:
+
+# Principal Display Panel
+
+GlucaGen®HypoKit®
+
+NDC 0169-7065-21
+
+(Contains 2 of NDC 0169-7065-15)
+
+LIST 706521
+
+Emergency Use for Low Blood Sugar
+
+(glucagon [rDNA origin] for injection) 1 mg (1 unit)
+
+Rx only
+
+This carton contains 2 packs of GlucaGen® HypoKit®.
+
+Each kit contains: 1 vial GlucaGen® for
+
+injection 1 mg, 1 prefilled syringe of
+
+Sterile Water for Reconstitution – for
+
+use as diluent
+
+Once GlucaGen® is reconstituted with
+
+the prefilled syringe of Sterile Water for
+
+Reconstitution, the resulting solution
+
+contains 1 mg/mL of glucagon
+
+IMPORTANT – Read the enclosed insert
+
+carefully for directions before using.
+
+Carton contains 2 packs of GlucaGen® HypoKit®

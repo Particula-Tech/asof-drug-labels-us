@@ -21,6 +21,16 @@ GlucaGen Diagnostic Kit includes:
 
 NDC 55390-004-01
 
+GlucaGen HypoKit (Two-Pack) includes: 2 packs of GlucaGen HypoKit,
+
+Each HypoKit contains:
+
+1 vial containing 1 mg (1 unit) GlucaGen (glucagon [rDNA origin] for injection)
+
+1 disposable syringe containing 1 mL Sterile Water for Reconstitution
+
+NDC 0169-7065-21
+
 The GlucaGen 10-pack includes:
 
 10 vials, each containing 1 mg (1 unit) GlucaGen (glucagon [rDNA origin] for injection)
