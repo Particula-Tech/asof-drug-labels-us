@@ -14,9 +14,9 @@ Nervous System: dizziness, insomnia, sleepiness, vertigo
 
 Other: back pain, headache
 
-Postmarketing reports of hypersensitivity reactions, including urticaria (hives), angioedema, respiratory difficulty, rhinitis, laryngospasm, and facial swelling have been reported in patients receiving sucralfate tablets.
-Similar events were reported with sucralfate suspension.
-However, a causal relationship has not been established.
+Postmarketing: cases of hypersensitivity have been reported with the use of sucralfate tablets, including dyspnea, lip swelling, pruritus, rash, and urticaria.
+
+Cases of anaphylactic reactions, bronchospasm, laryngeal edema, edema of the mouth, Pharyngeal edema, respiratory tract edema and swelling of the face have been reported with an unknown oral formulation of sucralfate.
 
 Bezoars have been reported in patients treated with sucralfate.
 The majority of patients had underlying medical conditions that may predispose to bezoar formation (such as delayed gastric emptying) or were receiving concomitant enteral tube feedings.

@@ -22,7 +22,7 @@ STUDY 2
 | Placebo | 4/31 (13%) | 18/31 (58%) |
 
 The sucralfate-placebo differences were statistically significant in both studies at 4 weeks but not at 2 weeks.
-The poorer result in the first study may have occurred because sucralfate was given 2 hours after meals and at bedtime rather than 1 hour before meals and at bedtime, the regimen used in internation studies and in the second United States study.
+The poorer result in the first study may have occurred because sucralfate was given 2 hours after meals and at bedtime rather than 1 hour before meals and at bedtime, the regimen used in international studies and in the second United States study.
 In addition, in the first study liquid antacid was utilized as needed, whereas in the second study antacid tablets were used.
 
 ## Maintenance Therapy After Healing of Duodenal Ulcer

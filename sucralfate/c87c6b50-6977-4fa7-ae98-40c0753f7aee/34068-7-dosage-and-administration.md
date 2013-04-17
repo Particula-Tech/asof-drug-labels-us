@@ -13,4 +13,4 @@ Elderly: In general, dose selection for an elderly patient should be cautious, u
 (See PRECAUTIONS Geriatric Use)
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to Aptalis Pharma US, Inc. at 1-800-472-2634 or FDA at 1-800-FDA-1088 or www.fed.gov/medwatch.
