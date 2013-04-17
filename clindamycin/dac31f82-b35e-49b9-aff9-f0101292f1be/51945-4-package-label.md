@@ -1,4 +1,4 @@
-Principal Display Panel
+# PRINCIPAL DISPLAY PANEL
 
 Clindesse® (clindamycin phosphate) Vaginal Cream, 2%
 

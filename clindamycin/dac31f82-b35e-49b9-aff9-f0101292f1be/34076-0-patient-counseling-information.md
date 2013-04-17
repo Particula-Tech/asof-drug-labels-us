@@ -12,15 +12,15 @@ During this time period, condoms may not be reliable for preventing pregnancy or
 
 ## 17.3 Fungal Vaginal Infections
 
-Inform the patient that vaginal fungal infections can occur following use of Clindesse and may require treatment with an antifungal drug [see Adverse Reactons (6.1)].
+Inform the patient that vaginal fungal infections can occur following use of Clindesse and may require treatment with an antifungal drug [see Adverse Reactions (6.1)].
 
 ## 17.4 Accidental Exposure to the Eye
 
 Inform the patient that Clindesse contains ingredients which cause burning and irritation of the eye.
 In the event of accidental contact with the eye, rinse the eye with copious amounts of cool tap water and consult a physician.
 
-Manufactured by KV PharmaceuticalTM Co. for Ther-RxTM Corporation St. Louis, MO 63044
+Manufactured by Perrigo® Israel Yeruham 80500, Israel for Ther-Rx™ Corporation Chesterfield, MO 63005 USA
 
-P00000 02/2012
+P7002-1 04/2013
 
 Cleocin is a registered trademark of Pharmacia & Upjohn Company.
