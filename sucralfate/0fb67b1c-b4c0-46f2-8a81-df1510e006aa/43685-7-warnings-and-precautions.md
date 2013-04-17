@@ -1,7 +1,9 @@
 # PRECAUTIONS
 
+The physician should read the "PRECAUTIONS" section when considering the use of CARAFATE in pregnant or pediatric patients, or patients of childbearing potential.
+
 Duodenal ulcer is a chronic, recurrent disease.
-While short-term treatment with sucralfate can result in complete healing of the ulcer, a successful course of treatment with sucralfate should not be expected to alter the posthealing frequency or severity of duodenal ulceration.
+While short-term treatment with sucralfate can result in complete healing of the ulcer, a successful course of treatment with sucralfate should not be expected to alter the post healing frequency or severity of duodenal ulceration.
 
 Episodes of hyperglycemia have been reported in diabetic patients.
 Close monitoring of glycemia in diabetic patients treated with sucralfate suspension is recommended.
@@ -25,7 +27,7 @@ However, two clinical studies have demonstrated no change in either serum warfar
 
 The mechanism of these interactions appears to be nonsystemic in nature, presumably resulting from sucralfate binding to the concomitant agent in the gastrointestinal tract.
 In all cases studied to date (cimetidine, ciprofloxacin, digoxin, norfloxacin, ofloxacin, and ranitidine), dosing the concomitant medication 2 hours before sucralfate eliminated the interaction.
-Because of the potential of CARAFATE to alter the absorption of some drugs, CARAFATE should be administered separately from other drugs when alterations in bioavailability are felt to be critical.
+Due to CARAFATE's potential to alter the absorption of some drugs, CARAFATE should be administered separately from other drugs when alterations in bioavailability are felt to be critical.
 In these cases, patients should be monitored appropriately.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility

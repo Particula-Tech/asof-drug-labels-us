@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Active Duodenal Ulcer.
-The recommended adult oral dosage for duodenal ulcer is 1 g (10 mL/2 teaspoonfuls) four times per day.
+The recommended adult oral dosage for duodenal ulcer is 1 g (10 mL/2 teaspoons) four times per day.
 CARAFATE® should be administered on an empty stomach.
 
 Antacids may be prescribed as needed for relief of pain but should not be taken within one-half hour before or after sucralfate.
@@ -12,4 +12,4 @@ Elderly: In general, dose selection for an elderly patient should be cautious, u
 (See PRECAUTIONS Geriatric Use)
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to Aptalis Pharma US, Inc. at 1-800-472-2634 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch

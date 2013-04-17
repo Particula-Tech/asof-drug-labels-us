@@ -1,3 +1,3 @@
 # Principal Display Panel
 
-Carafate Suspension, Box Carafate Suspension, Foil Carafate Suspension, Bottle
+Carafate Suspension, BoxCarafate Suspension, Foil Carafate Suspension, Bottle
