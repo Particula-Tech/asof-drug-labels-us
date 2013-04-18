@@ -13,7 +13,7 @@ Rx only
 
 arbor™ PHARMACEUTICALS, INC. www.arborpharma.com
 
-# PRINCIPAL DISPLAY PANEL - 5 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mL Bottle Label
 
 NDC 24338-134-02 100 mL (when mixed) For Oral Suspension
 
@@ -25,7 +25,7 @@ Erythromycin activity 200 mg per 5 mL when reconstituted
 
 Rx only
 
-arbor™ PHARMACEUTICALS, INC. www.arborpharma.com
+arbor® PHARMACEUTICALS, INC.
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Bottle Label
 
@@ -39,4 +39,4 @@ Erythromycin activity 200 mg per 5 mL when reconstituted
 
 Rx only
 
-arbor™ PHARMACEUTICALS, INC. www.arborpharma.com
+arbor® PHARMACEUTICALS, INC.

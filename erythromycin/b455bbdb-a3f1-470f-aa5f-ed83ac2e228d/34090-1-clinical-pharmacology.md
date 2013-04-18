@@ -19,7 +19,7 @@ Antagonism has been demonstrated in vitro between erythromycin and clindamycin, 
 
 Many strains of Haemophilus influenzae are resistant to erythromycin alone but are susceptible to erythromycin and sulfonamides used concomitantly.
 
-Staphylocci resistant to erythromycin may emerge during a course of therapy.
+Staphylococci resistant to erythromycin may emerge during a course of therapy.
 
 Erythromycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
@@ -95,7 +95,7 @@ Standard erythromycin powder should provide the following MIC values:
 
 | Microorganism | MIC (µg/mL) |
 | --- | --- |
-| S. aureus ATCCATCC is a registered trademark of the American Type Culture Collection 25923 | 0.25-1 |
+| S. aureus ATCCATCC is a registered trademark of the American Type Culture Collection 29213 | 0.25-1 |
 | E. faecalis ATCC 29212 | 1-4 |
 | S. pneumoniae ATCC 49619 | 0.03-0.12 |
 
