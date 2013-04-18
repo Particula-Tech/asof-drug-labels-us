@@ -38,7 +38,8 @@ Body as a Whole:anaphylactoid reactions, angioneurotic edema, menstrual disorder
 
 Cardiovascular:congestive heart failure, vasculitis, hypertension, pulmonary edema
 
-Gastrointestinal:gastrointestinal bleeding and/or perforation, hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease), nonpeptic gastrointestinal ulceration, ulcerative stomatitis, esophagitis, peptic ulceration
+Gastrointestinal: inflammation,bleeding(sometimesfatal,particularlyinthe elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
+Esophagitis, stomatitis, hematemesis,pancreatitis, vomiting,colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease).
 
 Hepatobiliary: jaundice, abnormal liver function tests, hepatitis (some cases have been fatal)
 

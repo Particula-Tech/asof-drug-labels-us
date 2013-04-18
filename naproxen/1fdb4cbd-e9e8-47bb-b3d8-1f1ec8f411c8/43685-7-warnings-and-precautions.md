@@ -48,8 +48,9 @@ To minimize the potential risk for an adverse GI event in patients treated with 
 Patients and physicians should remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
 This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
 For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
+
 Epidemiological studies, both of the case-control and cohort design, have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.
-In two studies, concurrent use of an NSAID or aspirin potentiated the risk of bleeding (see PRECAUTIONS: Drug Interactions ).
+In two studies, concurrent use of an NSAID or aspirin potentiated the risk of bleeding (see PRECAUTIONS: Drug Interactions).
 Although these studies focused on upper gastrointestinal bleeding, there is reason to believe that bleeding at other sites may be similarly potentiated.
 NSAIDs should be given with care to patients with a history of inflammatory bowel disease (ulcerative colitis, Crohn’s disease) as their condition may be exacerbated.
 
@@ -65,7 +66,7 @@ Discontinuation of nonsteroidal anti-inflammatory drug therapy is usually follow
 
 No information is available from controlled clinical studies regarding the use of naproxen in patients with advanced renal disease.
 Therefore, treatment with naproxen is not recommended in these patients with advanced renal disease.
-If naproxen therapy must be initiated, close monitoring of the patient's renal function is advisable.
+If naproxen therapy must be initiated, close monitoring of the patient's renal function is advisable and patients should be adequately hydrated.
 
 ## Anaphylactoid Reactions
 
@@ -163,10 +164,12 @@ If clinical signs and symptoms consistent with liver or renal disease develop, s
 
 ## Drug Interactions
 
-ACE-inhibitors
+Angiotensin Converting Enzyme (ACE)-inhibitors/Angiotensin Receptor Blockers(ARBs) NSAIDs may diminish the antihypertensive effect of ACE-inhibitors, ARBs, or beta-blockers (including propanolol).
 
-Reports suggest that NSAIDs may diminish the antihypertensiveeffect of ACE-inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
+Monitor patients taking NSAIDs concomitantly with ACE-inhibitors, ARBs, or beta blockers for changes in blood pressure.
+
+In addition, in patients who are elderly, volume-depleted (including those on diuretic therapy), or have compromised renal function, co-administration of NSAIDs with ACE inhibitors or ARBsmay result in deterioration of renal function,includingpossibleacuterenalfailure.
+Monitor these patients closely for signs of worsening renal function
 
 Antacids and Sucralfate
 
@@ -217,8 +220,6 @@ Other Information Concerning Drug Interactions
 
 Naproxen is highly bound to plasma albumin; it thus has a theoretical potential for interaction with other albumin-bound drugs such as coumarintype anticoagulants, sulphonylureas, hydantoins, other NSAIDs, and aspirin.
 Patients simultaneously receiving naproxen and a hydantoin, sulphonamide or sulphonylureashould be observed for adjustment of dose if required.
-
-Naproxen and other nonsteroidal anti-inflammatory drugs can reduce the antihypertensive effect of propranolol and other beta-blockers.
 
 Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly.
 

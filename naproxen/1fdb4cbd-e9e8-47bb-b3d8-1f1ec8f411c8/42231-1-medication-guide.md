@@ -93,6 +93,7 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -134,12 +135,20 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for:
 
-Marksans Pharma Inc. 3-Phillips Ln, Lake Grove, NY 11755, USA
+Marksans Pharma Inc.
+
+3-Phillips Ln, Lake Grove,
+
+NY 11755, USA
 
 Manufactured by:
 
-Marksans Pharma Ltd. Plot No.L-82, L-83, Verna Indl.
-Estate, Verna, Goa-403 722, India
+Marksans Pharma Ltd.
+
+Plot No.L-82, L-83, Verna Indl.
+Estate,
+
+Verna, Goa-403 722, India
 
 Iss.
-05/10
+04/13
