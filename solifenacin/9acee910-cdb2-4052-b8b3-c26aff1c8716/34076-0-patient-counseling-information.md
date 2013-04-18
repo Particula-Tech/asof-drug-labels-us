@@ -161,6 +161,8 @@ overactive bladder, which are urinary frequency, urinary urgency, and urinary in
 
 Rx Only
 
+PRODUCT OF IRELAND
+
 Manufactured by:
 
 Astellas Pharma Technologies, Inc.
@@ -175,6 +177,6 @@ Northbrook, IL 60062
 
 © 2012 Astellas Pharma US, Inc.
 
-Revised: August 2012
+Revised: April 2013
 
-11K089-VES-SPL
+12H059-VES-SPL

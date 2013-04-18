@@ -74,3 +74,5 @@ Eye disorders: glaucoma;
 Gastrointestinal disorders: gastroesophageal reflux disease and ileus;
 
 Respiratory, thoracic and mediastinal disorders: dysphonia;
+
+Musculoskeletal and connective tissue disorders: muscular weakness;
