@@ -323,11 +323,11 @@ Table 18 Adverse Reactions Potentially Associated with EPS in MDD Trials by Dose
 | Preferred term | Placebo(N=309) |  | SEROQUEL XR 150 mg/day(N=315) |  | SEROQUEL XR 300 mg/day(N=312) |  | All Doses(N=627) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | % | n | % | n | % | n | % |  |
-| Dystonic event Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 1 | 0.3 | 0 | 0.0 | 1 | 0.2 |
-| Parkinsonism Patients with the following terms were counted in this category: cogwheel rigidity, tremor, drooling, hypokinesia | 5 | 1.6 | 3 | 1.0 | 4 | 1.3 | 7 | 1.1 |
-| Akathisia Patients with the following terms were counted in this category: akathisia, psychomotor agitation | 3 | 1.0 | 5 | 1.6 | 8 | 2.6 | 13 | 2.1 |
-| Dyskinetic event Patients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 0 | 0.0 | 1 | 0.3 | 1 | 0.2 |
-| Other extrapyramidal event Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder, movement disorder | 5 | 1.6 | 5 | 1.6 | 7 | 2.2 | 12 | 1.9 |
+| Dystonic eventPatients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 1 | 0.3 | 0 | 0.0 | 1 | 0.2 |
+| ParkinsonismPatients with the following terms were counted in this category: cogwheel rigidity, tremor, drooling, hypokinesia | 5 | 1.6 | 3 | 1.0 | 4 | 1.3 | 7 | 1.1 |
+| AkathisiaPatients with the following terms were counted in this category: akathisia, psychomotor agitation | 3 | 1.0 | 5 | 1.6 | 8 | 2.6 | 13 | 2.1 |
+| Dyskinetic eventPatients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 0 | 0.0 | 1 | 0.3 | 1 | 0.2 |
+| Other extrapyramidal eventPatients with the following terms were counted in this category: restlessness; extrapyramidal disorder, movement disorder | 5 | 1.6 | 5 | 1.6 | 7 | 2.2 | 12 | 1.9 |
 
 Children and Adolescents: Safety and effectiveness of SEROQUEL XR have not been established in pediatric patients and SEROQUEL XR is not approved for patients under the age of 18 years.
 In a short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration), the aggregated incidence of extrapyramidal symptoms was 12.9% for SEROQUEL and 5.3% for placebo, though the incidence of the individual adverse events (eg, akathisia, tremor, extrapyramidal disorder, hypokinesia, restlessness, psychomotor hyperactivity, muscle rigidity, dyskinesia) did not exceed 4.1% in any treatment group.
@@ -340,11 +340,11 @@ Table 19 Adverse experiences potentially associated with EPS in the short-term p
 | Preferred term | Placebo(N=75) |  | SEROQUEL 400 mg/day(N=73) |  | SEROQUEL 800 mg/day(N=74) |  | All SEROQUEL(N=147) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | :% | n | % | n | % | n | % |  |
-| Dystonic event Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
-| Parkinsonism Patients with the following terms were counted in this category: cogwheel rigidity, tremor | 2 | 2.7 | 4 | 5.5 | 4 | 5.4 | 8 | 5.4 |
-| Akathisia Patients with the following terms were counted in this category: akathisia | 3 | 4.0 | 3 | 4.1 | 4 | 5.4 | 7 | 4.8 |
-| Dyskinetic event Patients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
-| Other extrapyramidal event Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder | 0 | 0.0 | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 |
+| Dystonic eventPatients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
+| ParkinsonismPatients with the following terms were counted in this category: cogwheel rigidity, tremor | 2 | 2.7 | 4 | 5.5 | 4 | 5.4 | 8 | 5.4 |
+| AkathisiaPatients with the following terms were counted in this category: akathisia | 3 | 4.0 | 3 | 4.1 | 4 | 5.4 | 7 | 4.8 |
+| Dyskinetic eventPatients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
+| Other extrapyramidal eventPatients with the following terms were counted in this category: restlessness; extrapyramidal disorder | 0 | 0.0 | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 |
 
 Table 20 below presents a listing of patients with Adverse Experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration)
 
