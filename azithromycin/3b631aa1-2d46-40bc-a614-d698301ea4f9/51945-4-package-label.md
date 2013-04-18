@@ -1,27 +1,31 @@
-# PRINCIPAL DISPLAY PANEL - 500 mg Vial
+# PRINCIPAL DISPLAY PANEL - 500 mg Vial Label
+
+500 mg
 
 NDC 0069-3150-83
 
-Zithromax® (azithromycin for injection)
-
-For I.V. infusion only STERILE equivalent to 500 mg of azithromycin Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
-
-# PRINCIPAL DISPLAY PANEL - Vial Carton
-
-NDC 0069-3150-14
-
-1-Vial and 1-Vial-Mate® Adaptor†
+Rx only
 
 Zithromax® (azithromycin for injection)
 
 For I.V. infusion only
 
-equivalent to 500 mg/vial of azithromycin To yield 100 mg/mL* of solution when reconstituted as directed STERILE
+STERILE equivalent to 500 mg of azithromycin
 
-Rx only
+Pfizer Injectables
 
-500mg/vial
+# PRINCIPAL DISPLAY PANEL - 10 Vial Carton
 
-With Vial-Mate® Adaptor†
+NDC 0069-3150-83 Rx only
 
-Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+10 Vials
+
+Zithromax® (azithromycin for injection)
+
+Sterile
+
+For I.V. infusion only Equivalent to 500 mg/vial of azithromycin To yield 100 mg/mL* of solution when reconstituted as directed
+
+500 mg/vial
+
+Pfizer Injectables

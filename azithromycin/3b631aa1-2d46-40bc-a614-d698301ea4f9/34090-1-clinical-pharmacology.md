@@ -144,6 +144,14 @@ Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence o
 | Rifabutin | 300 mg/day × 10 days | 500 mg PO on day 1, then 250 mg/day on days 2–10 | 6 | See footnote below | NA |
 | NA – Not available |  |  |  |  |  |
 
+## Pharmacodynamics
+
+### Cardiac Electrophysiology
+
+QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
+Co-administration of azithromycin increased the QTc interval in a dose- and concentration-dependent manner.
+In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
+
 ## Microbiology
 
 Azithromycin acts by binding to the 50S ribosomal subunit of susceptible microorganisms and, thus, interfering with microbial protein synthesis.
@@ -217,10 +225,9 @@ Susceptibility Interpretive Criteria for Azithromycin Susceptibility Test Result
 | Pathogen | S | I | RThe current absence of data on resistant strains precludes defining any category other than "susceptible". If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum Inhibitory Concentrations (µg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
-| Haemophilus spp. | ≤ 4 | -- | -- | ≥ 12 | -- | -- |
+| Haemophilus influenzae | ≤ 4 | -- | -- | ≥ 12 | -- | -- |
 | Staphylococcus aureus | ≤ 2 | 4 | ≥ 8 | ≥ 18 | 14–17 | ≤ 13 |
-| Streptococci including |  |  |  |  |  |  |
-| S. pneumoniaeSusceptibility of streptococci including, S. pneumoniae to azithromycin and other macrolides can be predicted by testing erythromycin. | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14–17 | ≤ 13 |
+| Streptococcus pneumoniae Susceptibility of streptococci including, S. pneumoniae to azithromycin and other macrolides can be predicted by testing erythromycin. | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14–17 | ≤ 13 |
 
 No interpretive criteria have been established for testing Neisseria gonorrhoeae.
 This species is not usually tested.

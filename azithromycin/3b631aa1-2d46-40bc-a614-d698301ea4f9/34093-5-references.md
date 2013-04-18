@@ -1,12 +1,20 @@
 # REFERENCES
 
-1. National Committee for Clinical Laboratory Standards, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically – Fifth Edition.
-   Approved Standard NCCLS Document M7-A5, Vol. 20, No. 2 (ISBN 1-56238-394-9).
-   NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA 19087-1898, January, 2000.
-2. National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disk Susceptibility Tests – Seventh Edition.
-   Approved Standard NCCLS Document M2-A7, Vol. 20, No. 1 (ISBN 1-56238-393-0).
-   NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA 19087-1898, January, 2000.
-3. National Committee for Clinical Laboratory Standards.
-   Performance Standards for Antimicrobial Susceptibility Testing – Eleventh Informational Supplement.
-   NCCLS Document M100-S11, Vol. 21, No. 1 (ISBN 1-56238-426-0).
-   NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA 19087-1898, January, 2001.
+1. Clinical and Laboratory Standards Institute.
+   Performance Standards for Antimicrobial Susceptibility Testing; 21st Informational Supplement.
+   CLSI document M100-S21.
+   (ISBN 1-56238-742-1).
+   CLSI, 940 West Valley Road, Suite 1400, Wayne, PA, 19087-1898 USA.
+   2011
+2. Clinical and Laboratory Standards Institute.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - 8th ed.
+   CLSI document M07-A8.
+   (ISBN 1-56238-689-1).
+   CLSI, 940 West Valley Road, Suite 1400, Wayne, PA, 19087-1898 USA.
+   2009.
+3. Clinical and Laboratory Standards Institute.
+   Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard - 10th ed.
+   CLSI document M02-A10.
+   (ISBN 1-56238-688-3).
+   CLSI, 940 West Valley Road, Suite 1400, Wayne, PA, 19087-1898 USA.
+   2009
