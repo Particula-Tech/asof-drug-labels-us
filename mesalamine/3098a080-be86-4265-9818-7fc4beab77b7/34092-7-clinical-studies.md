@@ -4,7 +4,7 @@
 
 Two similarly designed, randomized, double blind, placebo-controlled trials were conducted in 517 adult patients with active, mild to moderate ulcerative colitis.
 The study population was primarily Caucasian (80%), had a mean age of 42 years (6% age 65 years or older), and was approximately 50% male.
-Both studies used LIALDA doses of 2.4 g/day and 4.8 g/day administered once daily for 8 weeks except for the 2.4 g/day group in Study 1, which was given in two divided doses (1.2g twice daily).
+Both studies used LIALDA doses of 2.4 g/day and 4.8 g/day administered once daily for 8 weeks except for the 2.4 g/day group in Study 1, which was given in two divided doses (1.2 g twice daily).
 The primary efficacy end-point in both trials was to compare the percentage of patients in remission after 8 weeks of treatment for the LIALDA treatment groups versus placebo.
 Remission was defined as an Ulcerative Colitis Disease Activity Index (UC-DAI) of ≤ 1, with scores of zero for rectal bleeding and for stool frequency, and a sigmoidoscopy score reduction of 1 point or more from baseline.
 

@@ -7,7 +7,7 @@ The most serious adverse reactions seen in Lialda clinical trials or with other 
 - Hypersensitivity reactions [See Warnings and Precautions (5.3)]
 - Hepatic impairment, including hepatic failure [See Warnings and Precautions (5.4)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -28,7 +28,7 @@ Table 1: Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienc
 | --- | --- | --- | --- |
 | Headache | 10 (5.6%) | 6 (3.4%) | 1 (0.6%) |
 | Flatulence | 7 (4%) | 5 (2.8%) | 5 (2.8%) |
-| Liver Function Test Abnormal | 1 (0.6%) | 4(2.2%) | 2 (1.1%) |
+| Liver Function Test Abnormal | 1 (0.6%) | 4 (2.2%) | 2 (1.1%) |
 | Alopecia | 0 | 2 (1.1%) | 0 |
 | Pruritus | 1 (0.6%) | 2 (1.1%) | 2 (1.1%) |
 | a: Adverse reactions for which the placebo rate equalled or exceeded the rate for at least one of the LIALDA treatment groups were abdominal pain, dizziness, dyspepsia, and nausea. |  |  |  |
@@ -113,6 +113,8 @@ Gastrointestinal: pancreatitis, cholecystitis, gastritis, gastroenteritis, gastr
 Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failure, Kawasaki-like syndrome including changes in liver enzymes
 
 Hematologic: agranulocytosis, aplastic anemia
+
+Musculoskeletal and Connective Tissue Disorders: myalgia
 
 Neurological/Psychiatric: peripheral neuropathy, Guillain-Barre syndrome, transverse myelitis
 

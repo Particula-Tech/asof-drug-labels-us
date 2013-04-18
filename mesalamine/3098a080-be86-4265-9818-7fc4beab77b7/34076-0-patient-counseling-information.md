@@ -18,4 +18,4 @@ By license of Giuliani S.p.A., Milan Italy.
 
 U.S. Patent No. 6,773,720.
 
-© 2011 Shire US Inc.
+© 2013 Shire US Inc.
