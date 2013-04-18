@@ -1,7 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 6.
-Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
+Table 6: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure (Cmax and AUCτ after 200 mg q12h) | Recommendations for Voriconazole Dosage Adjustment/Comments |
 | --- | --- | --- |

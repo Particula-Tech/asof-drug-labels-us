@@ -5,14 +5,14 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Overview
 
 The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3.0%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
-The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.2, 5.3), Adverse Reactions (6.3), Adverse Reactions (6.2)].
+The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.2, 5.3), and Adverse Reactions (6.2, 6.3)].
 
 ## 6.2 Clinical Trial Experience in Adults
 
 The data described in Table 2 reflect exposure to voriconazole in 1655 patients in the therapeutic studies.
 This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy or HIV and non-neutropenic patients.
 This subgroup does not include healthy subjects and patients treated in the compassionate use and non-therapeutic studies.
-This patient population was 62% male, had a mean age of 46 years (range 11–90, including 51 patients aged 12–18 years), and was 78% white and 10% black.
+This patient population was 62% male, had a mean age of 46 years (range 11–90, including 51 patients aged 12–18 years), and was 78% White and 10% Black.
 Five hundred sixty one patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over six months.
 Table 2 includes all adverse events which were reported at an incidence of ≥2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined, or study 305, as well as events of concern which occurred at an incidence of <2%.
 
@@ -24,7 +24,7 @@ Study 305 evaluated the effects of oral voriconazole (200 patients) and oral flu
 The rate of discontinuation from voriconazole study medication in Study 305 due to adverse events was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 2 Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602–608 Combined, or Study 305.
+Table 2: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602–608 Combined, or Study 305.
 Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis
 
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
@@ -68,8 +68,7 @@ Voriconazole treatment-related visual disturbances are common.
 In therapeutic trials, approximately 21% of patients experienced abnormal vision, color vision change and/or photophobia.
 Visual disturbances may be associated with higher plasma concentrations and/or doses.
 
-There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
-[see Warnings and Precautions (5.3)].
+There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema [see Warnings and Precautions (5.3)].
 
 The mechanism of action of the visual disturbance is unknown, although the site of action is most likely to be within the retina.
 In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.
@@ -96,29 +95,29 @@ The following adverse events occurred in <2% of all voriconazole-treated patient
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
 The list does not include events included in Table 5 above and does not include every event reported in the voriconazole clinical program.
 
-Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5.6)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain
+Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5.6)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain.
 
 Cardiovascular: atrial arrhythmia, atrial fibrillation, AV block complete, bigeminy, bradycardia, bundle branch block, cardiomegaly, cardiomyopathy, cerebral hemorrhage, cerebral ischemia, cerebrovascular accident, congestive heart failure, deep thrombophlebitis, endocarditis, extrasystoles, heart arrest, hypertension, hypotension, myocardial infarction, nodal arrhythmia, palpitation, phlebitis, postural hypotension, pulmonary embolus, QT interval prolonged, supraventricular extrasystoles, supraventricular tachycardia, syncope, thrombophlebitis, vasodilatation, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia (including torsade de pointes) [see Warnings and Precautions (5.6)].
 
-Digestive: anorexia, cheilitis, cholecystitis, cholelithiasis, constipation, diarrhea, duodenal ulcer perforation, duodenitis, dyspepsia, dysphagia, dry mouth, esophageal ulcer, esophagitis, flatulence, gastroenteritis, gastrointestinal hemorrhage, GGT/LDH elevated, gingivitis, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hepatic coma, hepatic failure, hepatitis, intestinal perforation, intestinal ulcer, jaundice, enlarged liver, melena, mouth ulceration, pancreatitis, parotid gland enlargement, periodontitis, proctitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, stomach ulcer, stomatitis, tongue edema
+Digestive: anorexia, cheilitis, cholecystitis, cholelithiasis, constipation, diarrhea, duodenal ulcer perforation, duodenitis, dyspepsia, dysphagia, dry mouth, esophageal ulcer, esophagitis, flatulence, gastroenteritis, gastrointestinal hemorrhage, GGT/LDH elevated, gingivitis, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hepatic coma, hepatic failure, hepatitis, intestinal perforation, intestinal ulcer, jaundice, enlarged liver, melena, mouth ulceration, pancreatitis, parotid gland enlargement, periodontitis, proctitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, stomach ulcer, stomatitis, tongue edema.
 
-Endocrine: adrenal cortex insufficiency, diabetes insipidus, hyperthyroidism, hypothyroidism
+Endocrine: adrenal cortex insufficiency, diabetes insipidus, hyperthyroidism, hypothyroidism.
 
-Hemic and Lymphatic: agranulocytosis, anemia (macrocytic, megaloblastic, microcytic, normocytic), aplastic anemia, hemolytic anemia, bleeding time increased, cyanosis, DIC, ecchymosis, eosinophilia, hypervolemia, leukopenia, lymphadenopathy, lymphangitis, marrow depression, pancytopenia, petechia, purpura, enlarged spleen, thrombocytopenia, thrombotic thrombocytopenic purpura
+Hemic and Lymphatic: agranulocytosis, anemia (macrocytic, megaloblastic, microcytic, normocytic), aplastic anemia, hemolytic anemia, bleeding time increased, cyanosis, DIC, ecchymosis, eosinophilia, hypervolemia, leukopenia, lymphadenopathy, lymphangitis, marrow depression, pancytopenia, petechia, purpura, enlarged spleen, thrombocytopenia, thrombotic thrombocytopenic purpura.
 
-Metabolic and Nutritional: albuminuria, BUN increased, creatine phosphokinase increased, edema, glucose tolerance decreased, hypercalcemia, hypercholesteremia, hyperglycemia, hyperkalemia, hypermagnesemia, hypernatremia, hyperuricemia, hypocalcemia, hypoglycemia, hypomagnesemia, hyponatremia, hypophosphatemia, peripheral edema, uremia
+Metabolic and Nutritional: albuminuria, BUN increased, creatine phosphokinase increased, edema, glucose tolerance decreased, hypercalcemia, hypercholesteremia, hyperglycemia, hyperkalemia, hypermagnesemia, hypernatremia, hyperuricemia, hypocalcemia, hypoglycemia, hypomagnesemia, hyponatremia, hypophosphatemia, peripheral edema, uremia.
 
-Musculoskeletal: arthralgia, arthritis, bone necrosis, bone pain, leg cramps, myalgia, myasthenia, myopathy, osteomalacia, osteoporosis
+Musculoskeletal: arthralgia, arthritis, bone necrosis, bone pain, leg cramps, myalgia, myasthenia, myopathy, osteomalacia, osteoporosis.
 
-Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amnesia, anxiety, ataxia, brain edema, coma, confusion, convulsion, delirium, dementia, depersonalization, depression, diplopia, dizziness, encephalitis, encephalopathy, euphoria, Extrapyramidal Syndrome, grand mal convulsion, Guillain-Barré syndrome, hypertonia, hypesthesia, insomnia, intracranial hypertension, libido decreased, neuralgia, neuropathy, nystagmus, oculogyric crisis, paresthesia, psychosis, somnolence, suicidal ideation, tremor, vertigo
+Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amnesia, anxiety, ataxia, brain edema, coma, confusion, convulsion, delirium, dementia, depersonalization, depression, diplopia, dizziness, encephalitis, encephalopathy, euphoria, Extrapyramidal Syndrome, grand mal convulsion, Guillain-Barré syndrome, hypertonia, hypesthesia, insomnia, intracranial hypertension, libido decreased, neuralgia, neuropathy, nystagmus, oculogyric crisis, paresthesia, psychosis, somnolence, suicidal ideation, tremor, vertigo.
 
-Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration
+Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration.
 
-Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria
+Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
 
-Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect
+Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect.
 
-Urogenital: anuria, blighted ovum, creatinine clearance decreased, dysmenorrhea, dysuria, epididymitis, glycosuria, hemorrhagic cystitis, hematuria, hydronephrosis, impotence, kidney pain, kidney tubular necrosis, metrorrhagia, nephritis, nephrosis, oliguria, scrotal edema, urinary incontinence, urinary retention, urinary tract infection, uterine hemorrhage, vaginal hemorrhage
+Urogenital: anuria, blighted ovum, creatinine clearance decreased, dysmenorrhea, dysuria, epididymitis, glycosuria, hemorrhagic cystitis, hematuria, hydronephrosis, impotence, kidney pain, kidney tubular necrosis, metrorrhagia, nephritis, nephrosis, oliguria, scrotal edema, urinary incontinence, urinary retention, urinary tract infection, uterine hemorrhage, vaginal hemorrhage.
 
 ## 6.3 Clinical Laboratory Values
 
@@ -144,7 +143,7 @@ In study 305, patients with esophageal candidiasis were randomized to either ora
 In study 307/602, patients with definite or probable invasive aspergillosis were randomized to either voriconazole or amphotericin B therapy.
 In study 608, patients with candidemia were randomized to either voriconazole or the regimen of amphotericin B followed by fluconazole.
 
-Table 3 Protocol 305 – Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
+Table 3: Protocol 305 – Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n /N (%) |
 | --- | --- | --- | --- |
@@ -153,11 +152,11 @@ Table 3 Protocol 305 – Patients with Esophageal Candidiasis Clinically Signifi
 | AST | >3.0× ULN | 38/187 (20.3) | 15/186 (8.1) |
 | ALT | >3.0× ULN | 20/187 (10.7) | 12/186 (6.5) |
 | Alk phos | >3.0× ULN | 19/187 (10.2) | 14/186 (7.5) |
-| n number of patients with a clinically significant abnormality while on study therapy |  |  |  |
-| N total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
-| ULN upper limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |
+| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
+| ULN = upper limit of normal |  |  |  |
 
-Table 4 Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
+Table 4: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -168,12 +167,12 @@ Table 4 Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinica
 | Alk phos | >3.0× ULN | 29/181 (16.0) | 38/173 (22.0) |
 | Creatinine | >1.3× ULN | 39/182 (21.4) | 102/177 (57.6) |
 | Potassium | <0.9× LLN | 30/181 (16.6) | 70/178 (39.3) |
-| n number of patients with a clinically significant abnormality while on study therapy |  |  |  |
-| N total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
-| ULN upper limit of normal |  |  |  |
-| LLN lower limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |
+| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
+| ULN = upper limit of normal |  |  |  |
+| LLN = lower limit of normal |  |  |  |
 
-Table 5 Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
+Table 5: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
 |  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin B followed by Fluconazole |
 | --- | --- | --- | --- |
@@ -184,7 +183,14 @@ Table 5 Protocol 608 – Treatment of Candidemia Clinically Significant Laborato
 | Alk phos | >3.0× ULN | 59/261 (22.6) | 26/115 (22.6) |
 | Creatinine | >1.3× ULN | 39/260 (15.0) | 32/118 (27.1) |
 | Potassium | <0.9× LLN | 43/258 (16.7) | 35/118 (29.7) |
-| n number of patients with a clinically significant abnormality while on study therapy |  |  |  |
-| N total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
-| ULN upper limit of normal |  |  |  |
-| LLN lower limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |
+| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
+| ULN = upper limit of normal |  |  |  |
+| LLN = lower limit of normal |  |  |  |
+
+## 6.4 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of voriconazole.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.14)].

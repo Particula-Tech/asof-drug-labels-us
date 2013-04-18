@@ -16,4 +16,4 @@ This was statistically significant only in the preliminary study and not in a la
 
 ## 13.2 Teratogenic Effects
 
-Pregnancy category D [see Warnings and Precautions (5.4), Use in Pregnancy (8.1)].
+Pregnancy category D [see Warnings and Precautions (5.4), and Use in Specific Populations (8.1)].
