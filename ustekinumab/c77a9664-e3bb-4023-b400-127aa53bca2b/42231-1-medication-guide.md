@@ -166,11 +166,11 @@ Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, po
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, License No. 1864 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403
+Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, License No. 1864 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403 and at Cilag AG, Schaffhausen, Switzerland
 
 Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
-Revised 01/2013
+Revised 04/2013
 
 U.S. License No. 1864
 
