@@ -1,11 +1,18 @@
 # DESCRIPTION
 
-Cefazolin for Injection, USP, is a semi-synthetic cephalosporin for intravenous administration that has the following chemical name: Sodium (6R-,7R)-3-[{(5-methyl -1,3,4-thiadiazol-2-yl)thio]-methyl}-8-oxo-7-[2-(1H-tetrazol-1-yl)acetamido-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2- carboxylate.Cefazolin sodium has the following structural formula:
+Cefazolin for Injection, USP is a semi-synthetic cephalosporin for parenteral administration.
+It is the sodium salt of (6R, 7R)-3-[[(5-methyl-1,3,4-thiadiazol-2-yl)]thio]methyl]-8-oxo-7-[2(1H-tetrazol-1-yl)acetoamido]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid.
 
-The sodium content is 48 mg per gram of cefazolin.
+Cefazolin for Injection, USP is a white to cream sterile powder.
+The color of Cefazolin for Injection, USP solutions may range from pale yellow to yellow without a change in potency.
 
-Cefazolin for injection, USP is supplied as a lyophilized form in Pharmacy Bulk Packages containing cefazolin sodium equivalent to 10 grams of cefazolin.
+The pH ranges from 4.0 and 6.0 for a solution containing 100 mg of cefazolin per mL.
 
-FURTHER DILUTION IS REQUIRED BEFORE USE.
+Cefazolin for Injection, USP is supplied in 10 or 20 grams Pharmacy Bulk Packages.
+Each Pharmacy Bulk Package contains Cefazolin Sodium, USP equivalent to 10 or 20 grams of cefazolin.
+The sodium content is approximately 48 mg (2.1 mEq) per gram of cefazolin sodium.
+It is to be administered by intravenous route.
+
 A Pharmacy Bulk Package is a container of a sterile preparation for intravenous use that contains many single doses.
-The contents are intended for use in a pharmacy admixture service and are restricted to the preparation of admixtures for intravenous infusion (see DOSAGE AND ADMINISTRATION, and DIRECTIONS FOR PROPER USE OF PHARMACY BULK PACKAGE).
+The contents are intended for use in a pharmacy admixture service and are restricted to the preparation of admixtures for intravenous infusion.
+FURTHER DILUTION IS REQUIRED BEFORE USE.

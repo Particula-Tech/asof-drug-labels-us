@@ -3,13 +3,15 @@
     "ANDA065143"
   ],
   "inn": "cefazolin",
-  "labeler": "West-ward Pharmaceutical Corp",
+  "labeler": "West-Ward Pharmaceutical Corp",
   "package_ndcs": [
-    "0143-9983-03"
+    "0143-9665-10",
+    "0143-9983-03",
+    "0143-9983-91"
   ],
   "products": [
     {
-      "form": "INJECTION",
+      "form": "INJECTION, POWDER, FOR SOLUTION",
       "generic": "cefazolin",
       "name": "Cefazolin"
     }

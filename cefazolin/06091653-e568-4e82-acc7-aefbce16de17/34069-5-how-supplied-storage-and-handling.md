@@ -1,9 +1,23 @@
 # HOW SUPPLIED
 
-Cefazolin for Injection, USP, in Pharmacy Bulk Packages is a dry powder supplied in bottles containing cefazolin sodium equivalent to 10 grams cefazolin, as follows: 10 g Cefazolin for Injection, USP, bottles in packages of 10 (NDC 0143-9983-03)
+Cefazolin for Injection, USP, is supplied in 10 and 20 grams Pharmacy Bulk Package vials.
+Each Pharmacy Bulk Package contains cefazolin sodium equivalent to 10 or 20 grams of cefazolin, as follows:
 
-Also available as: 500 mg Cefazolin for Injection, USP vials in packages of 25 (NDC 0143-9923-90) 1 g Cefazolin for Injection, USP vials in packages of 25 (NDC 0143-9924-90)
+| Cefazolin for Injection, USP | Vial Size | Packaged | NDC No. |
+| --- | --- | --- | --- |
+| 10 grams | 100 mL | Carton of 10 vials | 0143-9983-03 |
+| 20 grams | 100 mL | Carton of 10 vials | 0143-9665-10 |
 
-As with other cephalosporins, cefazolin for injection tends to darken depending on storage conditions; within the stated recommendations, however, product potency is not adversely affected.
+Also available as:
 
-Before reconstitution protect from light and store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+| Cefazolin for Injection, USP | Vial Size | Packaged | NDC No. |
+| --- | --- | --- | --- |
+| 500 mg | 10 mL | Carton of 25 vials | 0143-9923-90 |
+| 1 gram | 10 mL | Carton of 25 vials | 0143-9924-90 |
+
+Preservative Free.
+As with other cephalosporins, Cefazolin for Injection, USP tends to darken depending on storage conditions; within the stated recommendations; however, product potency is not adversely affected.
+
+Before reconstitution, protect from light and store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
+
+This container closure is not made with natural rubber latex.
