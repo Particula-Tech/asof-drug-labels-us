@@ -8,4 +8,4 @@ Ofloxacin Otic Solution, 0.3% (Sterile)
 
 Rx only
 
-[ear icon] USE IN EARS ONLY Rx only 10 mL
+[ear icon] USE IN EARS ONLY 10 mL
