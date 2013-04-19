@@ -23,13 +23,13 @@ A 750 mg oral dose given every 12 hours has been shown to produce an AUC at stea
 A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg IV dose.
 A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours.
 
-Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV Doses
-
-| Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
+| Steady-state Pharmacokinetic Parameters |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| AUC (mcg•hr/mL) | q12h, P.O. 13.7a | q12h, IV 12.7a | q12h, P.O. 31.6b | q8h, IV 32.9c |
+| Following Multiple Oral and IV Doses |  |  |  |  |
+| Parameters | 500 mg q12h, P.O. | 400 mg q12h, IV | 750 mg q12h, P.O. | 400 mg q8h, IV |
+| AUC (mcg●hr/mL) | 13.7a | 12.7a | 31.6b | 32.9c |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
-| aAUC 0-12h |  |  |  |  |
+| aAUC0-12h |  |  |  |  |
 | bAUC 24h=AUC0-12h x 2 |  |  |  |  |
 | cAUC 24h=AUC0-8h x 3 |  |  |  |  |
 
@@ -59,7 +59,8 @@ After a 250 mg oral dose, urine concentrations of ciprofloxacin usually exceed 2
 The urinary excretion of ciprofloxacin is virtually complete within 24 hours after dosing.
 The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exceeds the normal glomerular filtration rate of 120 mL/minute.
 Thus, active tubular secretion would seem to play a significant role in its elimination.
-Co-administration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
+Coadministration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
+
 Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after oral dosing, only a small amount of the dose administered is recovered from the bile as unchanged drug.
 An additional 1 to 2% of the dose is recovered from the bile in the form of metabolites.
 Approximately 20 to 35% of an oral dose is recovered from the feces within 5 days after dosing.
@@ -74,36 +75,31 @@ Concurrent administration of antacids containing magnesium hydroxide or aluminum
 
 The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly.
 
-Concomitant administration with tizanidine is contraindicated (See CONTRAINDICATIONS).
+Concomitant administration with tizanidine is contraindicated.
+(See CONTRAINDICATIONS).
 
 Concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions.
 Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration.
-(See WARNINGS:PRECAUTIONS.)
+(See WARNINGS: PRECAUTIONS.)
 
 ## Special Populations
 
 Pharmacokinetic studies of the oral (single dose) form of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (> 65 years) as compared to young adults.
-Although the Cmax is increased 16-40%, the increase in mean AUC is approximately 30%, and can be at least partially attributed to decreased renal clearance in the elderly.
+Although the Cmax is increased 16 to 40%, the increase in mean AUC is approximately 30%, and can be at least partially attributed to decreased renal clearance in the elderly.
 Elimination half-life is only slightly (~20%) prolonged in the elderly.
 These differences are not considered clinically significant.
 (See PRECAUTIONS: Geriatric Use.)
 
-### Renal Impairment
-
-In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
+Patients with Renal Impairment In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
 Dosage adjustments may be required.
 (See DOSAGE AND ADMINISTRATION.)
 
-### Hepatic Impairment
-
-In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
+Patients with Hepatic Impairment In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
 The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, however, have not been fully elucidated.
 
-### Pediatrics
-
-Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 mcg/mL (range: 1.5 – 3.4 mcg/mL) and the mean AUC was 9.2 mcg*h/mL (range: 5.8 – 14.9 mcg*h/mL).
+Pediatrics Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 mcg/mL (range: 1.5 to 3.4 mcg/mL) and the mean AUC was 9.2 mcg*h/mL (range: 5.8 to 14.9 mcg*h/mL).
 There was no apparent age-dependence, and no notable increase in Cmax or AUC upon multiple dosing (10 mg/kg TID).
-In children with severe sepsis who were given intravenous ciprofloxacin (10 mg/kg as a 1-hour infusion), the mean Cmax was 6.1 mcg/mL (range: 4.6 – 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 – 11.8 mcg/mL) in 10 children between 1 and 5 years of age.
-The AUC values were 17.4 mcg*h/mL (range: 11.8 – 32 mcg*h/mL) and 16.5 mcg*h/mL (range: 11 – 23.8 mcg*h/mL) in the respective age groups.
+In children with severe sepsis who were given intravenous ciprofloxacin (10 mg/kg as a 1-hour infusion), the mean Cmax was 6.1 mcg/mL (range: 4.6 to 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 to 11.8 mcg/mL) in 10 children between 1 and 5 years of age.
+The AUC values were 17.4 mcg*h/mL (range: 11.8 to 32.0 mcg*h/mL) and 16.5 mcg*h/mL (range: 11.0 to 23.8 mcg*h/mL) in the respective age groups.
 These values are within the range reported for adults at therapeutic doses.
-Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 - 5 hours, and the bioavailability of the oral suspension is approximately 60%.
+Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 to 5 hours, and the bioavailability of the oral suspension is approximately 60%.

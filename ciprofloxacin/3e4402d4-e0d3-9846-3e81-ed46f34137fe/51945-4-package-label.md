@@ -1,19 +1,11 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+# PRINCIPAL DISPLAY PANEL
 
-Representative Sample of Label - 250 mg - Bottle of 100
+NDC 16252-514-01 Ciprofloxacin Tablets, USP 250 mg Watson Rx only 100 Tablets
 
-NDC 16252-514-01
+# PRINCIPAL DISPLAY PANEL
 
-Ciprofloxacin
+NDC 16252-515-01 Ciprofloxacin Tablets, USP 500 mg Watson Rx only 100 Tablets
 
-Tablets, USP
+# PRINCIPAL DISPLAY PANEL
 
-250 mg*
-
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED SEPARATELY.
-
-Rx only
-
-100 tablets
-
-Watson
+NDC 16252-516-05 Ciprofloxacin Tablets, USP 750 mg Watson Rx only 50 Tablets

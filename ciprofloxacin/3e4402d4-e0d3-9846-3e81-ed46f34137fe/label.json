@@ -3,19 +3,16 @@
     "ANDA076794"
   ],
   "inn": "ciprofloxacin",
-  "labeler": "Cobalt Laboratories Inc.",
+  "labeler": "Cobalt Laboratories",
   "package_ndcs": [
-    "16252-514-00",
     "16252-514-01",
-    "16252-515-00",
     "16252-515-01",
-    "16252-516-00",
     "16252-516-05"
   ],
   "products": [
     {
       "form": "TABLET, FILM COATED",
-      "generic": "ciprofloxacin hydrochloride",
+      "generic": "ciprofloxacin",
       "name": "Ciprofloxacin"
     }
   ],
