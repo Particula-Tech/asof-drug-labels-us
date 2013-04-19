@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Cyclobenzaprine HCI relieves skeletal muscle spasm of local origin without interfering with muscle function.
+Cyclobenzaprine Hydrochloride relieves skeletal muscle spasm of local origin without interfering with muscle function.
 It is ineffective in muscle spasm due to central nervous system disease.
 
 Cyclobenzaprine reduced or abolished skeletal muscle hyperactivity in several animal models.
@@ -32,41 +32,41 @@ The plasma concentration of cyclobenzaprine is generally higher in the elderly a
 In a pharmacokinetic study in elderly individuals (≥65yrs old), mean (n=10) steady-state cyclobenzaprine AUC values were approximately 1.7 fold (171.0 ng.hr/mL, range 96.1-255.3) higher than those seen in a group of eighteen younger adults (101.4 ng.hr/mL, range 36.1-182.9) from another study.
 Elderly male subjects had the highest observed mean increase, approximately 2.4 fold (198.3 ng.hr/mL, range 155.6-255.3 versus 83.2 ng.hr/mL, range 41.1-142.5 for younger males) while levels in elderly females were increased to a much lesser extent, approximately 1.2 fold (143.8 ng.hr/mL, range 96.1-196.3 versus 115.9 ng.hr/mL, range 36.1-182.9 for younger females.)
 
-In light of these findings, therapy with Cyclobenzaprine HCl in the elderly should be initiated with 5 mg dose and titrated slowly upward.
+In light of these findings, therapy with Cyclobenzaprine Hydrochloride in the elderly should be initiated with 5 mg dose and titrated slowly upward.
 
 ## Hepatic Impairment
 
 In a pharmacokinetic study of sixteen subjects with hepatic impairment (15 mild, 1 moderate per Child-Pugh score), both AUC and Cmax were approximately double the values seen in the healthy control group.
-Based on the findings, Cyclobenzaprine HCl should be used with caution in subjects with mild hepatic impairment starting with the 5 mg dose and titrating slowly upward.
-Due to the lack of data in subjects with more severe hepatic insufficiency, the use of Cyclobenzaprine HCl in subjects with moderate to severe impairment is not recommended.
+Based on the findings, Cyclobenzaprine Hydrochloride should be used with caution in subjects with mild hepatic impairment starting with the 5 mg dose and titrating slowly upward.
+Due to the lack of data in subjects with more severe hepatic insufficiency, the use of Cyclobenzaprine Hydrochloride in subjects with moderate to severe impairment is not recommended.
 
-No significant effect on plasma levels or bioavailability of Cyclobenzaprine HCl or aspirin was noted when single or multiple doses of the two drugs were administered concomitantly.
-Concomitant administration of Cyclobenzaprine HCl and naproxen or diflunisal was well tolerated with no reported unexpected adverse effects.
-However combination therapy of Cyclobenzaprine HCl with naproxen was associated with more side effects than therapy with naproxen alone, primarily in the form of drowsiness.
-No well-controlled studies have been performed to indicate that Cyclobenzaprine HCl enhances the clinical effect of aspirin or other analgesics, or whether analgesics enhance the clinical effect of Cyclobenzaprine HCl in acute musculoskeletal conditions.
+No significant effect on plasma levels or bioavailability of Cyclobenzaprine Hydrochloride or aspirin was noted when single or multiple doses of the two drugs were administered concomitantly.
+Concomitant administration of Cyclobenzaprine Hydrochloride and naproxen or diflunisal was well tolerated with no reported unexpected adverse effects.
+However combination therapy of Cyclobenzaprine Hydrochloride with naproxen was associated with more side effects than therapy with naproxen alone, primarily in the form of drowsiness.
+No well-controlled studies have been performed to indicate that Cyclobenzaprine Hydrochloride enhances the clinical effect of aspirin or other analgesics, or whether analgesics enhance the clinical effect of Cyclobenzaprine Hydrochloride in acute musculoskeletal conditions.
 
 ## Clinical Studies
 
-Eight double-blind controlled clinical studies were performed in 642 patients comparing Cyclobenzaprine HCl tablets 10 mg, diazepamVALIUM® (diazepam, Roche), and placebo.
+Eight double-blind controlled clinical studies were performed in 642 patients comparing Cyclobenzaprine Hydrochloride Tablets 10 mg, diazepamVALIUM® (diazepam, Roche), and placebo.
 Muscle spasm, local pain and tenderness, limitation of motion, and restriction in activities of daily living were evaluated.
-In three of these studies there was a significantly greater improvement with Cyclobenzaprine HCl than with diazepam, while in the other studies the improvement following both treatments was comparable.
+In three of these studies there was a significantly greater improvement with Cyclobenzaprine Hydrochloride than with diazepam, while in the other studies the improvement following both treatments was comparable.
 
-Although the frequency and severity of adverse reactions observed in patients treated with Cyclobenzaprine HCl were comparable to those observed in patients treated with diazepam, dry mouth was observed more frequently in patients treated with Cyclobenzaprine HCl and dizziness more frequently in those treated with diazepam.
+Although the frequency and severity of adverse reactions observed in patients treated with Cyclobenzaprine Hydrochloride were comparable to those observed in patients treated with diazepam, dry mouth was observed more frequently in patients treated with Cyclobenzaprine Hydrochloride and dizziness more frequently in those treated with diazepam.
 The incidence of drowsiness, the most frequent adverse reaction, was similar with both drugs.
 
-The efficacy of Cyclobenzaprine HCl tablets 5 mg was demonstrated in two seven-day, double-blind, controlled clinical trials enrolling 1405 patients.
-One study compared Cyclobenzaprine HCl tablets 5 and 10 mg t.i.d. to placebo; and a second study compared Cyclobenzaprine HCl tablets 5 and 2.5 mg t.i.d. to placebo.
+The efficacy of Cyclobenzaprine Hydrochloride Tablets 5 mg was demonstrated in two seven-day, double-blind, controlled clinical trials enrolling 1405 patients.
+One study compared Cyclobenzaprine Hydrochloride Tablets 5 and 10 mg t.i.d. to placebo; and a second study compared Cyclobenzaprine Hydrochloride Tablets 5 and 2.5 mg t.i.d. to placebo.
 Primary endpoints for both trials were determined by patient-generated data and included global impression of change, medication helpfulness, and relief from starting backache.
 Each endpoint consisted of a score on a 5-point rating scale (from 0 or worst outcome to 4 or best outcome).
 Secondary endpoints included a physician’s evaluation of the presence and extent of palpable muscle spasm.
 
-Comparisons of Cyclobenzaprine HCl tablets 5 mg and placebo groups in both trials established the statistically significant superiority of the 5 mg dose for all three primary endpoints at day 8 and, in the study comparing 5 and 10 mg, at day 3 or 4 as well.
-A similar effect was observed with Cyclobenzaprine HCl tablets 10 mg (all endpoints).
-Physician-assessed secondary endpoints also showed that Cyclobenzaprine HCl tablets 5 mg was associated with a greater reduction in palpable muscle spasm than placebo.
+Comparisons of Cyclobenzaprine Hydrochloride Tablets 5 mg and placebo groups in both trials established the statistically significant superiority of the 5 mg dose for all three primary endpoints at day 8 and, in the study comparing 5 and 10 mg, at day 3 or 4 as well.
+A similar effect was observed with Cyclobenzaprine Hydrochloride Tablets 10 mg (all endpoints).
+Physician-assessed secondary endpoints also showed that Cyclobenzaprine Hydrochloride Tablets 5 mg was associated with a greater reduction in palpable muscle spasm than placebo.
 
-Analysis of the data from controlled studies show that Cyclobenzaprine HCl produces clinical improvement whether or not sedation occurs.
+Analysis of the data from controlled studies show that Cyclobenzaprine Hydrochloride produces clinical improvement whether or not sedation occurs.
 
 ## Surveillance Program
 
-A post-marketing surveillance program was carried out in 7607 patients with acute musculoskeletal disorders, and included 297 patients treated with Cyclobenzaprine HCl tablets 10 mg for 30 days or longer.
-The overall effectiveness of Cyclobenzaprine HCl was similar to that observed in the double-blind controlled studies; the overall incidence of adverse effects was less (see ADVERSE REACTIONS).
+A post-marketing surveillance program was carried out in 7607 patients with acute musculoskeletal disorders, and included 297 patients treated with Cyclobenzaprine Hydrochloride Tablets 10 mg for 30 days or longer.
+The overall effectiveness of Cyclobenzaprine Hydrochloride was similar to that observed in the double-blind controlled studies; the overall incidence of adverse effects was less (see ADVERSE REACTIONS).

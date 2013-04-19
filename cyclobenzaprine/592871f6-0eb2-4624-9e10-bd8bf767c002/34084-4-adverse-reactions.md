@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
-Incidence of most common adverse reactions in the 2 double-blindNote: Cyclobenzaprine HCl tablets 10 mg data are from one clinical trial.
-Cyclobenzaprine HCl tablets 5 mg and placebo data are from two studies., placebo-controlled 5 mg studies (incidence of >3% on Cyclobenzaprine HCl tablets 5 mg):
+Incidence of most common adverse reactions in the 2 double-blindNote: Cyclobenzaprine Hydrochloride tablets 10 mg data are from one clinical trial.
+Cyclobenzaprine Hydrochloride tablets 5 mg and placebo data are from two studies., placebo-controlled 5 mg studies (incidence of >3% on Cyclobenzaprine Hydrochloride Tablets 5 mg):
 
-|  | Cyclobenzaprine HCl tablets 5 mg | Cyclobenzaprine HCl tablets 10 mg | Placebo |
+|  | Cyclobenzaprine Hydrochloride Tablets 5 mg | Cyclobenzaprine Hydrochloride Tablets 10 mg | Placebo |
 | --- | --- | --- | --- |
 |  | N=464 | N=249 | N=469 |
 | Drowsiness | 29% | 38% | 10% |
@@ -13,13 +13,13 @@ Cyclobenzaprine HCl tablets 5 mg and placebo data are from two studies., placebo
 
 Adverse reactions which were reported in 1% to 3% of the patients were: abdominal pain, acid regurgitation, constipation, diarrhea, dizziness, nausea, irritability, mental acuity decreased, nervousness, upper respiratory infection, and pharyngitis.
 
-The following list of adverse reactions is based on the experience in 473 patients treated with Cyclobenzaprine HCl tablets 10 mg in additional controlled clinical studies, 7607 patients in the post-marketing surveillance program, and reports received since the drug was marketed.
+The following list of adverse reactions is based on the experience in 473 patients treated with Cyclobenzaprine Hydrochloride Tablets 10 mg in additional controlled clinical studies, 7607 patients in the post-marketing surveillance program, and reports received since the drug was marketed.
 The overall incidence of adverse reactions among patients in the surveillance program was less than the incidence in the controlled clinical studies.
 
-The adverse reactions reported most frequently with Cyclobenzaprine HCl were drowsiness, dry mouth and dizziness.
+The adverse reactions reported most frequently with Cyclobenzaprine Hydrochloride were drowsiness, dry mouth and dizziness.
 The incidence of these common adverse reactions was lower in the surveillance program than in the controlled clinical studies:
 
-|  | Clinical Studies With Cyclobenzaprine HCl tablets 10 mg | Surveillance Program With Cyclobenzaprine HCl tablets 10 mg |
+|  | Clinical Studies With Cyclobenzaprine Hydrochloride Tablets 10 mg | Surveillance Program With Cyclobenzaprine Hydrochloride Tablets 10 mg |
 | --- | --- | --- |
 | Drowsiness | 39% | 16% |
 | Dry Mouth | 27% | 7% |
@@ -40,7 +40,7 @@ Hypersensitivity: Anaphylaxis; angioedema; pruritus; facial edema; urticaria; ra
 
 Musculoskeletal: Local weakness.
 
-Nervous System and Psychiatric: Seizures, ataxia; vertigo; dysarthria; tremors; hypertonia; convulsions; muscle twitching; disorientation; insomnia; depressed mood; abnormal sensations; anxiety; agitation; psychosis, abnormal thinking and dreaming; hallucinations; excitement; paresthesia; diplopia.
+Nervous System and Psychiatric: Seizures, ataxia; vertigo; dysarthria; tremors; hypertonia; convulsions; muscle twitching; disorientation; insomnia; depressed mood; abnormal sensations; anxiety; agitation; psychosis, abnormal thinking and dreaming; hallucinations; excitement; paresthesia; diplopia, serotonin syndrome.
 
 Skin: Sweating.
 
@@ -50,7 +50,7 @@ Urogenital: Urinary frequency and/or retention.
 
 Causal Relationship Unknown
 
-Other reactions, reported rarely for Cyclobenzaprine HCl under circumstances where a causal relationship could not be established or reported for other tricyclic drugs, are listed to serve as alerting information to physicians:
+Other reactions, reported rarely for Cyclobenzaprine Hydrochloride under circumstances where a causal relationship could not be established or reported for other tricyclic drugs, are listed to serve as alerting information to physicians:
 
 Body as a whole: Chest pain; edema.
 

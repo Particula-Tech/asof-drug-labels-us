@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Cyclobenzaprine HCl Tablets, USP are available in the following strengths and package sizes:
+Cyclobenzaprine Hydrochloride Tablets, USP are available in the following strengths and package sizes:
 
 5 mg (Orange, round, film-coated, debossed with TL211 on one side and plain on the other side)
 
@@ -22,4 +22,4 @@ Jubilant Cadista Pharmaceuticals Inc.
 
 Salisbury, MD 21801, USA.
 
-Revised 03/11
+Rev. # 04/13

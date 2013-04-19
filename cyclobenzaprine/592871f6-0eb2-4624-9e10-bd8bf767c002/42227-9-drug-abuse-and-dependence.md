@@ -1,16 +1,16 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Pharmacologic similarities among the tricyclic drugs require that certain withdrawal symptoms be considered when Cyclobenzaprine HCl is administered, even though they have not been reported to occur with this drug.
+Pharmacologic similarities among the tricyclic drugs require that certain withdrawal symptoms be considered when Cyclobenzaprine Hydrochloride is administered, even though they have not been reported to occur with this drug.
 Abrupt cessation of treatment after prolonged administration rarely may produce nausea, headache, and malaise.
 These are not indicative of addiction.
 
 OVERDOSAGE
 
-Although rare, deaths may occur from overdosage with Cyclobenzaprine HCl.
+Although rare, deaths may occur from overdosage with Cyclobenzaprine Hydrochloride.
 Multiple drug ingestion (including alcohol) is common in deliberate cyclobenzaprine overdose.
 As management of overdose is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
 Signs and symptoms of toxicity may develop rapidly after cyclobenzaprine overdose; therefore, hospital monitoring is required as soon as possible.
-The acute oral LD50 of Cyclobenzaprine HCl is approximately 338 and 425 mg/kg in mice and rats, respectively.
+The acute oral LD50 of Cyclobenzaprine Hydrochloride is approximately 338 and 425 mg/kg in mice and rats, respectively.
 
 MANIFESTATIONS
 
@@ -35,7 +35,7 @@ Dialysis is probably of no value because of low plasma concentrations of the dru
 
 Gastrointestinal Decontamination
 
-All patients suspected of an overdose with Cyclobenzaprine HCl should receive gastrointestinal decontamination.
+All patients suspected of an overdose with Cyclobenzaprine Hydrochloride should receive gastrointestinal decontamination.
 This should include large volume gastric lavage followed by activated charcoal.
 If consciousness is impaired, the airway should be secured prior to lavage and emesis is contra-indicated
 
