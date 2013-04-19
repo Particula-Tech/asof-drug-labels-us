@@ -10,7 +10,7 @@ Bottle of 30: NDC# 0456-3407-33
 
 Yellow cap and dark green opaque capsule with “FLI 14 mg” black imprint on the yellow cap.
 
-Bottle of 30: NDC# 0456-3414-33 Bottle of 90: NDC# 0456-3414-90 10 x 10 Unit Dose: NDC# 0456-3407-63
+Bottle of 30: NDC# 0456-3414-33 Bottle of 90: NDC# 0456-3414-90 10 x 10 Unit Dose: NDC# 0456-3414-63
 
 21 mg Capsule:
 
