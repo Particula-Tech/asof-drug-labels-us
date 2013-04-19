@@ -4,7 +4,7 @@ Follistim® AQ (follitropin beta injection) Cartridge is indicated:
 
 In Women for:
 
-## 1.1 Induction of Ovulation and Pregnancy in Anovulatory Infertile Women in Whom the Cause of Infertility is Functional and Not Due to Primary Ovarian Failure.
+## 1.1 Induction of Ovulation and Pregnancy in Anovulatory Infertile Women in Whom the Cause of Infertility is Functional and Not Due to Primary Ovarian Failure
 
 Prior to initiation of treatment with Follistim AQ Cartridge:
 
@@ -14,17 +14,17 @@ Prior to initiation of treatment with Follistim AQ Cartridge:
 - Tubal patency should be demonstrated.
 - The fertility status of the male partner should be evaluated.
 
-## 1.2 Pregnancy in Normal Ovulatory Women Undergoing Controlled Ovarian Stimulation as Part of an In Vitro Fertilization (IVF) or Intracytoplasmic Sperm Injection (ICSI) Cycle.
+## 1.2 Pregnancy in Normal Ovulatory Women Undergoing Controlled Ovarian Stimulation as Part of an In Vitro Fertilization (IVF) or Intracytoplasmic Sperm Injection (ICSI) Cycle
 
 Prior to initiation of treatment with Follistim AQ Cartridge:
 
 - Women should have a complete gynecologic and endocrinologic evaluation and diagnosis of cause of infertility.
-- The possibility of pregnancy should be excluded
-- The fertility status of the male partner should be evaluated
+- The possibility of pregnancy should be excluded.
+- The fertility status of the male partner should be evaluated.
 
 In Men for:
 
-## 1.3 Induction of Spermatogenesis in Men with Primary and Secondary Hypogonadotropic Hypogonadism (HH) in Whom the Cause of Infertility is Not Due to Primary Testicular Failure.
+## 1.3 Induction of Spermatogenesis in Men with Primary and Secondary Hypogonadotropic Hypogonadism (HH) in Whom the Cause of Infertility is Not Due to Primary Testicular Failure
 
 Prior to initiation of treatment with Follistim AQ Cartridge:
 

@@ -13,7 +13,7 @@ Table 6: Cumulative Ovulation Rates
 | Second treatment cycle | 82% |
 | Third treatment cycle | 85% |
 
-Table 7: Cumulative OngoingAll ongoing pregnancies were confirmed after at least 12 weeks after the hCG injection., Study was not powered to demonstrate this outcome.
+Table 7: Cumulative OngoingAll ongoing pregnancies were confirmed after at least 12 weeks after the hCG injection.,Study was not powered to demonstrate this outcome.
 Pregnancy Rates
 
 | Cycle | Follistim (n=105) |

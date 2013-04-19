@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Ovarian Hyperstimulation Syndrome [see Warnings and Precautions(5.2)]
+- Ovarian Hyperstimulation Syndrome [see Warnings and Precautions (5.2)]
 - Atelectasis [see Warnings and Precautions (5.3)]
 - Thromboembolism [see Warnings and Precautions (5.3)]
 - Ovarian Torsion [see Warnings and Precautions (5.4)]
@@ -59,7 +59,7 @@ Table 3: Common Adverse Reactions Reported At a Frequency of ≥2% in a Randomiz
 
 Induction of Spermatogenesis
 
-In an open-label, non-comparative clinical trial, 49 men with hypogonadotropic hypogonadism were enrolled to received pretreatment with hCG, followed by combination therapy with hCG and Follistim for induction of spermatogenesis.
+In an open-label, non-comparative clinical trial, 49 men with hypogonadotropic hypogonadism were enrolled to receive pretreatment with hCG, followed by combination therapy with hCG and Follistim for induction of spermatogenesis.
 Of the 49 men, 30 received weekly Follistim doses of 450 international units; 24 of these 30 men received a total of 48 weeks of treatment with Follistim.
 Adverse reactions occurring with an incidence of greater than 2% in the 30 men treated with Follistim are listed in Table 4.
 
@@ -85,22 +85,12 @@ Table 4: Common Adverse Reactions Reported At a Frequency of ≥2% in an Open-La
 The following adverse reactions have been identified during post approval use of Follistim and/or Follistim AQ Cartridge.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal disorders
+Gastrointestinal disorders Abdominal distension, abdominal pain, constipation, diarrhea
 
-Abdominal distension, abdominal pain, constipation, diarrhea
+General disorders and administration site conditions Injection site reaction
 
-General disorders and administration site conditions
+Reproductive system and breast disorders Breast tenderness, metrorrhagia, ovarian enlargement, vaginal hemorrhage
 
-Injection site reaction
+Skin and subcutaneous tissue disorders Rash
 
-Reproductive system and breast disorders
-
-Breast tenderness, metrorrhagia, ovarian enlargement, vaginal hemorrhage
-
-Skin and subcutaneous tissue disorders
-
-Rash
-
-Vascular disorders
-
-Thromboembolism [see Warnings and Precautions (5.3)]
+Vascular disorders Thromboembolism [see Warnings and Precautions (5.3)]
