@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021267"
+  ],
+  "inn": "voriconazole",
+  "labeler": "Roerig",
+  "package_ndcs": [
+    "0049-4190-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "voriconazole",
+      "name": "VFEND"
+    }
+  ],
+  "setid": "08d08721-1f4c-478a-8abf-d9c402d50553",
+  "source": "dailymed"
+}
