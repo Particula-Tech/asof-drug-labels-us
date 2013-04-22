@@ -8,12 +8,13 @@ The following adverse reactions are discussed in more detail in other sections o
 - Infusion reactions [see Warnings and Precautions (5.2)]
 - Myelosuppression [see Warnings and Precautions (5.3)]
 - Hand-Foot syndrome [see Warnings and Precautions (5.4)]
+- Secondary Oral Neoplasms [see Warnings and Precautions (5.9)]
 
 The most common adverse reactions observed with DOXIL are asthenia, fatigue, fever, nausea, stomatitis, vomiting, diarrhea, constipation, anorexia, hand-foot syndrome, rash and neutropenia, thrombocytopenia and anemia.
 
 The most common serious adverse reactions observed with DOXIL are described in Section 6.2.
 
-The safety data described below reflect exposure to DOXIL in 1310 patients including: 239 patients with ovarian cancer, 753 patients with AIDS-related Kaposi's sarcoma and 318 patients with multiple myeloma [see Adverse Reactions in Clinical Trials (6.2)].
+The safety data described below reflect exposure to DOXIL in 1310 patients including: 239 patients with ovarian cancer, 753 patients with AIDS-related Kaposi's sarcoma and 318 patients with multiple myeloma [see Adverse Reactions (6.2)].
 
 ## 6.2 Adverse Reactions in Clinical Trials
 
@@ -237,3 +238,5 @@ Respiratory, Thoracic and Mediastinal Disorders: rare cases of pulmonary embolis
 Hematologic disorders: Secondary acute myelogenous leukemia with and without fatal outcome has been reported in patients whose treatment included DOXIL.
 
 Skin and subcutaneous tissue disorders: rare cases of erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported.
+
+Secondary oral neoplasms: very rare cases of secondary oral cancer have been reported in patients with long-term (more than one year) exposure to DOXIL, or those receiving a cumulative DOXIL dose greater than 720 mg/m2 [see Warnings and Precautions (5.9)].

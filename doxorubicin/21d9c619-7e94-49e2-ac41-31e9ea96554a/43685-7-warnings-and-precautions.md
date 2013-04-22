@@ -66,7 +66,7 @@ In patients with relapsed ovarian cancer, myelosuppression was generally moderat
 In the three single-arm studies, anemia was the most common hematologic adverse reaction (52.6%), followed by leukopenia (WBC< 4,000 mm3; 42.2%), thrombocytopenia (24.2%), and neutropenia (ANC <1,000; 19.0%).
 In the randomized study, anemia was the most common hematologic adverse reaction (40.2%), followed by leukopenia (WBC <4,000 mm3; 36.8%), neutropenia (ANC <1,000; 35.1%), and thrombocytopenia (13.0%) [see Adverse Reactions (6.2)].
 
-In patients with relapsed ovarian cancer, 4.6% received G-CSF (or GM-CSF) to support their blood counts [see Dosage and Administrations (2.5)].
+In patients with relapsed ovarian cancer, 4.6% received G-CSF (or GM-CSF) to support their blood counts [see Dosage and Administration (2.5)].
 
 For patients with AIDS-related Kaposi's sarcoma who often present with baseline myelosuppression due to such factors as their HIV disease or concomitant medications, myelosuppression appears to be the dose-limiting adverse reaction at the recommended dose of 20 mg/m2 [see Adverse Reactions (6.2)].
 Leukopenia is the most common adverse reaction experienced in this population; anemia and thrombocytopenia can also be expected.
@@ -114,3 +114,9 @@ Radiation-induced toxicity to the myocardium, mucosae, skin, and liver have been
 ## 5.8 Monitoring: Laboratory Tests
 
 Complete blood counts, including platelet counts, should be obtained frequently and at a minimum prior to each dose of DOXIL [see Warnings and Precautions (5.3)].
+
+## 5.9 Secondary Oral Neoplasms
+
+Very rare cases of secondary oral cancer have been reported in patients with long-term (more than one year) exposure to DOXIL, or those receiving a cumulative DOXIL dose greater than 720 mg/m2.
+Cases of secondary oral cancer were diagnosed both during treatment with DOXIL and up to 6 years after the last dose.
+Patients should be examined at regular intervals for the presence of oral ulceration or any oral discomfort that may be indicative of secondary oral cancer.
