@@ -23,9 +23,9 @@ The most common adverse reactions (>5%) reported by patients in clinical trials 
 
 TABLE 1: Common Adverse Reactions (>5%)
 
-| Adverse Reaction | OxyContin (n=227) | Placebo (n=45) |
+| Adverse Reaction | OxyContin | Placebo |
 | --- | --- | --- |
-| (%) | (%) |  |
+| (n=227) (%) | (n=45) (%) |  |
 | Constipation | (23) | (7) |
 | Nausea | (23) | (11) |
 | Somnolence | (23) | (4) |

@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Oxycodone is a pure mu receptor opioid agonist whose principal therapeutic action is analgesia.
+Oxycodone is a mu receptor opioid agonist whose principal therapeutic action is analgesia.
 Other members of the class known as opioid agonists include substances such as morphine, hydromorphone, fentanyl, codeine, hydrocodone and oxymorphone.
 Pharmacological effects of opioid agonists include anxiolysis, euphoria, feelings of relaxation, respiratory depression, constipation, miosis, and cough suppression, as well as analgesia.
 Increasing doses of pure mu receptor agonists are associated with increasing analgesia.
@@ -89,11 +89,11 @@ This high oral bioavailability is due to low pre-systemic and/or first-pass meta
 
 Plasma Oxycodone Concentration over Time
 
-Dose proportionality has been established for OxyContin 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 2).
+Dose proportionality has been established for OxyContin 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 3).
 Given the short elimination t½ of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OxyContin.
 In a study comparing 10 mg of OxyContin every 12 hours to 5 mg of immediate-release oxycodone every 6 hours, the two treatments were found to be equivalent for AUC and Cmax, and similar for Cmin (trough) concentrations.
 
-TABLE 2
+TABLE 3
 
 | Mean [% coefficient of variation] |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -129,7 +129,7 @@ Noroxycodone exhibits very weak anti-nociceptive potency compared to oxycodone, 
 Although noroxymorphone is an active metabolite and present at relatively high concentrations in circulation, it does not appear to cross the blood-brain barrier to a significant extent.
 Oxymorphone is present in the plasma only at low concentrations and undergoes further metabolism to form its glucuronide and noroxymorphone.
 Oxymorphone has been shown to be active and possessing analgesic activity but its contribution to analgesia following oxycodone administration is thought to be clinically insignificant.
-Other metabolites (ɑ- and ß-oxycodol, noroxycodol and oxymorphol) may be present at very low concentrations and demonstrate limited penetration into the brain as compared to oxycodone.
+Other metabolites (α- and ß-oxycodol, noroxycodol and oxymorphol) may be present at very low concentrations and demonstrate limited penetration into the brain as compared to oxycodone.
 The enzymes responsible for keto-reduction and glucuronidation pathways in oxycodone metabolism have not been established.
 
 Excretion

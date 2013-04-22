@@ -13,7 +13,7 @@ The risk for opioid abuse is increased in patients with a personal or family his
 Patients at increased risk may still be appropriately treated with modified-release opioid formulations; however these patients will require intensive monitoring for signs of misuse, abuse, or addiction.
 Routinely monitor all patients receiving opioids for signs of misuse, abuse, and addiction because these drugs carry a risk for addiction even under appropriate medical use.
 
-Misuse or abuse of OxyContin by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of the opioid and pose a significant risk that could result in overdose and death [see Overdosage (10)].
+Misuse or abuse of OxyContin by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of the opioid and pose a significant risk that could result in overdose and death [see Drug Abuse and Dependence (9), and Overdosage (10)].
 
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
@@ -105,7 +105,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 ## 5.12 Avoidance of Withdrawal
 
 Avoid the use of mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including OxyContin.
-In these patients, mixed agonists/antagonists analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
+In these patients, mixed agonist/antagonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
 
 When discontinuing OxyContin, gradually taper the dose [see Dosage and Administration (2.4)].
 Do not abruptly discontinue OxyContin.

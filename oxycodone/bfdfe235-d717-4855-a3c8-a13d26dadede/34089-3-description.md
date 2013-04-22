@@ -4,7 +4,7 @@ OxyContin (oxycodone hydrochloride controlled-release) is an opioid analgesic su
 The tablet strengths describe the amount of oxycodone per tablet as the hydrochloride salt.
 The structural formula for oxycodone hydrochloride is as follows:
 
-The chemical name is 4, 5ɑ-epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one hydrochloride.
+The chemical name is 4, 5α-epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one hydrochloride.
 
 Oxycodone is a white, odorless crystalline powder derived from the opium alkaloid, thebaine.
 Oxycodone hydrochloride dissolves in water (1 g in 6 to 7 mL).

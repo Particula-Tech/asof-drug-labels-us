@@ -17,7 +17,7 @@ Such agents should be administered cautiously to persons who are known, or suspe
 In such cases, an abrupt or complete reversal of opioid effects may precipitate an acute withdrawal syndrome.
 
 Because the duration of reversal would be expected to be less than the duration of action of oxycodone in OxyContin, carefully monitor the patient until spontaneous respiration is reliably reestablished.
-OxyContin will continue to release oxycodone and add to the oxycodone load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
+OxyContin will continue to release oxycodone and add to the oxycodone load for 24 to 48 hours or longer following ingestion necessitating prolonged monitoring.
 If the response to opioid antagonists is suboptimal or not sustained, additional antagonist should be administered as directed in the product’s prescribing information.
 
 In an individual physically dependent on opioids, administration of the usual dose of the antagonist will precipitate an acute withdrawal syndrome.

@@ -63,6 +63,6 @@ Healthcare professionals can telephone Purdue Pharma’s Medical Services Depart
 Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-©2012, Purdue Pharma L.P.
+©2013, Purdue Pharma L.P.
 
-U.S. Patent Numbers 5,508,042; 6,488,963; 7,129,248; 7,674,799; 7,674,800; 7,683,072; and 7,776,314
+U.S. Patent Numbers 6,488,963; 7,129,248; 7,674,799; 7,674,800; 7,683,072; 7,776,314; 8,114,383; 8,309,060; and 8,337,888.
