@@ -16,7 +16,7 @@ Unit dose packages of 100 NDC 0009-0056-05
 
 DOSEPAK™ Unit of Use (21 tablets) NDC 0009-0056-04
 
-8 mg (peach, elliptical, scored, imprinted MEDROL 8)
+8 mg (white, elliptical, scored, imprinted MEDROL 8)
 
 Bottles of 25 NDC 0009-0022-01
 
@@ -24,7 +24,7 @@ Bottles of 25 NDC 0009-0022-01
 
 Bottles of 50 NDC 0009-0073-01
 
-32 mg (peach, elliptical, scored, imprinted MEDROL 32)
+32 mg (white, elliptical, scored, imprinted MEDROL 32)
 
 Bottles of 25 NDC 0009-0176-01
 

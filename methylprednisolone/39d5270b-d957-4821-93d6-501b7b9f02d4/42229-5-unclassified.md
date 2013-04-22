@@ -1,3 +1,1 @@
-Rx only
-
-LAB-0157-3.0 November 2006
+LAB-0157-4.0 April 2012
