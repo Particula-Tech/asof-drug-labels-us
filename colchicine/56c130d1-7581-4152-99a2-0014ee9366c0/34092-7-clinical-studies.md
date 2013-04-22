@@ -14,12 +14,16 @@ Rates of response were similar for the recommended low-dose treatment group (38%
 
 Table 8 Number (%) of Responders Based on Target Joint Pain Score at 24 Hours Post First Dose
 
-| Low-dose (n=74) | High-dose (n=52) | Low-dose vs Placebo (95% CI) | High-dose vs Placebo (95% CI) |  |
-| --- | --- | --- | --- | --- |
 | COLCRYS Dose Responders n (%) |  | Placebo n (%) (n=58) | % Differences in Proportion |  |
+| --- | --- | --- | --- | --- |
+| Low-dose (n=74) | High-dose (n=52) | Low-dose vs Placebo (95% CI) | High-dose vs Placebo (95% CI) |  |
 | 28 (38%) | 17 (33%) | 9 (16%) | 22 (8, 37) | 17 (1, 33) |
 
 Figure 1 below shows the percentage of patients achieving varying degrees of improvement in pain from baseline at 24 hours.
+
+Figure 1
+
+Pain Relief on Low and High Doses of COLCRYS and Placebo (Cumulative)
 
 The evidence for the efficacy of colchicine in patients with FMF is derived from the published literature.
 Three randomized, placebo-controlled studies were identified.

@@ -93,9 +93,9 @@ For information regarding clinical recommendations, see Table 1 in Dose Modifica
 
 Table 6 Drug Interactions: Pharmacokinetic Parameters for COLCRYS (colchicine, USP) tablets in the Presence of the Co-Administered Drug
 
-|  |  |  |  | Cmax | AUC0-t |
-| --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of COLCRYS (mg) | N | % Change in Colchicine Concentrations from Baseline (Range: Min - Max) |  |
+| --- | --- | --- | --- | --- | --- |
+| Cmax | AUC0-t |  |  |  |  |
 | Cyclosporine | 100 mg single-dose | 0.6 mg single-dose | 23 | 270.0 (62.0 to 606.9) | 259.0 (75.8 to 511.9) |
 | Clarithromycin | 250 mg BID, 7 days | 0.6 mg single-dose | 23 | 227.2 (65.7 to 591.1) | 281.5 (88.7 to 851.6) |
 | Ketoconazole | 200 mg BID, 5 days | 0.6 mg single-dose | 24 | 101.7 (19.6 to 219.0) | 212.2 (76.7 to 419.6) |
@@ -111,9 +111,9 @@ In healthy volunteers given theophylline co-administered with COLCRYS (0.6 mg b.
 
 Table 7 Drug Interactions: Pharmacokinetic Parameters for Co-Administration of Drug in the Presence of COLCRYS (colchicine, USP) tablets
 
-|  |  |  |  | Cmax | AUC0-t |
-| --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of COLCRYS (mg) | N | % Change in Co-Administered Drug Concentrations from Baseline (Range: Min - Max) |  |
+| --- | --- | --- | --- | --- | --- |
+| Cmax | AUC0-t |  |  |  |  |
 | Theophylline | 300 mg (elixir) single-dose | 0.6 mg BID × 14 days | 27 | 1.6 (-30.4 to 23.1) | 1.6 (-28.5 to 27.1) |
 | Ethinyl Estradiol (Ortho-Novum® 1/35) | 21-Day Cycle (Active Treatment) + 7-Day Placebo | 0.6 mg BID × 14 days | 27Conducted in healthy adult females | -6.7 (-40.3 to 44.7) | -3.0AUCτ (-25.3 to 24.9) |
 | Norethindrone (Ortho-Novum® 1/35) | 0.94 (-37.3 to 59.4) | -1.6 (-32.0 to 33.7) |  |  |  |

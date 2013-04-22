@@ -8,9 +8,9 @@ Patients should be advised to take COLCRYS as prescribed, even if they are feeli
 Patients should not alter the dose or discontinue treatment without consulting with their doctor.
 If a dose of COLCRYS is missed:
 
-- For treatment of a gout flare when the patient is not being dosed for prophylaxis, take the missed dose as soon as possible.
-- For treatment of a gout flare during prophylaxis, take the missed dose immediately, wait twelve hours, then resume the previous dosing schedule.
-- For prophylaxis without treatment for a gout flare, or FMF, take the dose as soon as possible and then return to the normal dosing schedule.
+- • For treatment of a gout flare when the patient is not being dosed for prophylaxis, take the missed dose as soon as possible.
+- • For treatment of a gout flare during prophylaxis, take the missed dose immediately, wait twelve hours, then resume the previous dosing schedule.
+- • For prophylaxis without treatment for a gout flare, or FMF, take the dose as soon as possible and then return to the normal dosing schedule.
   However, if a dose is skipped the patient should not double the next dose.
 
 ## 17.2 Fatal Overdose

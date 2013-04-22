@@ -43,9 +43,9 @@ FMF:
 The recommended dosage of COLCRYS for FMF in pediatric patients 4 years of age and older is based on age.
 The following daily doses may be given as a single or divided dose twice daily:
 
-- Children 4 – 6 years: 0.3 mg to 1.8 mg daily
-- Children 6 – 12 years: 0.9 mg to 1.8 mg daily
-- Adolescents older than 12 years: 1.2 mg to 2.4 mg daily
+- • Children 4 – 6 years: 0.3 mg to 1.8 mg daily
+- • Children 6 – 12 years: 0.9 mg to 1.8 mg daily
+- • Adolescents older than 12 years: 1.2 mg to 2.4 mg daily
 
 ## 2.4 Dose Modification for Co-administration of Interacting Drugs
 
@@ -59,18 +59,18 @@ Table 1 COLCRYS Dose Adjustment for Co-administration with Interacting Drugs if 
 | Strong CYP3A4 InhibitorsPatients with renal or hepatic impairment should not be given COLCRYS in conjunction with strong CYP3A4 or P-gp inhibitors [see CONTRAINDICATIONS (4)]. |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Drug | Noted or Anticipated Outcome | Gout Flares |  |  |  | FMF |  |
-|  |  | Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  |  |  |
-|  |  | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |
+| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  | Original Intended Dosage | Adjusted Dose |  |  |
+| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |  |  |  |
 | Atazanavir Clarithromycin Darunavir/ RitonavirWhen used in combination with Ritonavir, see dosing recommendations for strong CYP3A4 inhibitors [see CONTRAINDICATIONS (4)]. Indinavir Itraconazole Ketoconazole Lopinavir/ Ritonavir Nefazodone Nelfinavir Ritonavir Saquinavir Telithromycin Tipranavir/ Ritonavir | Significant increase in colchicine plasma levels; fatal colchicine toxicity has been reported with clarithromycin, a strong CYP3A4 inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other strong CYP3A4 inhibitors. | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg once a day 0.3 mg once every other day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 – 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
 | Moderate CYP3A4 Inhibitors |  |  |  |  |  |  |  |
 | Drug | Noted or Anticipated Outcome | Gout Flares |  |  |  | FMF |  |
-|  |  | Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  |  |  |
-|  |  | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |
+| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  | Original Intended Dosage | Adjusted Dose |  |  |
+| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |  |  |  |
 | Amprenavir Aprepitant Diltiazem Erythromycin Fluconazole Fosamprenavir (pro-drug of Amprenavir) Grapefruit Juice Verapamil | Significant increase in colchicine plasma concentration is anticipated. Neuromuscular toxicity has been reported with diltiazem and verapamil interactions. | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg twice a day or 0.6 mg once a day 0.3 mg once a day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 1.2 mg (2 tablets) × 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 – 2.4 mg. | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
 | P-gp Inhibitors |  |  |  |  |  |  |  |
 | Drug | Noted or Anticipated Outcome | Gout Flares |  |  |  | FMF |  |
-|  |  | Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  |  |  |
-|  |  | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |
+| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  | Original Intended Dosage | Adjusted Dose |  |  |
+| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |  |  |  |
 | Cyclosporine Ranolazine | Significant increase in colchicine plasma levels; fatal colchicine toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other P-gp inhibitors. | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg once a day 0.3 mg once every other day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 0.6 mg (1 tablet) × 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 – 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
 
 Table 2 COLCRYS Dose Adjustment for Co-administration with Protease Inhibitors
@@ -84,8 +84,7 @@ Table 2 COLCRYS Dose Adjustment for Co-administration with Protease Inhibitors
 | Fosamprenavir (Lexiva) with Ritonavir | Patients with renal or hepatic impairment should not be given colchicine with Lexiva/ritonavir. | Original dose | Adjusted dose | 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
 | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg once a day 0.3 mg once every other day |  |  |  |  |
 | Fosamprenavir (Lexiva) | Patients with renal or hepatic impairment should not be given colchicine with Lexiva/ritonavir. | Original dose | Adjusted dose | 1.2 mg (2 tablets) × 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
-| 0.6 mg twice a day | 0.3 mg twice a day or 0.6 mg once a day |  |  |  |  |
-| 0.6 mg once a day | 0.3 mg once a day |  |  |  |  |
+| 0.6 mg twice a day 0.6 mg once a day | 0.3 mg twice a day or 0.6 mg once a day 0.3 mg once a day |  |  |  |  |
 | Indinavir (Crixivan) | Patients with renal or hepatic impairment should not be given colchicine with Crixivan. | Original dose | Adjusted dose | 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
 | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg once a day 0.3 mg once every other day |  |  |  |  |
 | Lopinavir/Ritonavir (Kaletra) | Patients with renal or hepatic impairment should not be given colchicine with Kaletra. | Original dose | Adjusted dose | 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |

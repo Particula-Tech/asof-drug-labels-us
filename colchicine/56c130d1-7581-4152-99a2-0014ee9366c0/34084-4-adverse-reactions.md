@@ -26,9 +26,9 @@ Severe diarrhea occurred in 19% and vomiting occurred in 17% of patients taking 
 
 Table 3 Number (%) of Patients with at Least One Drug-Related Treatment Emergent Adverse Events with an Incidence of ≥ 2% of Patients in Any Treatment Group
 
-| MedDRA Preferred Term | High (N=52) n (%) | Low (N=74) n (%) | (N=59) n (%) |
+| MedDRA System Organ ClassMedDRA Preferred Term | COLCRYS Dose |  | Placebo (N=59) n (%) |
 | --- | --- | --- | --- |
-| MedDRA System Organ Class | COLCRYS Dose |  | Placebo |
+| High (N=52) n (%) | Low (N=74) n (%) |  |  |
 | Number of Patients with at Least One Drug-Related TEAE | 40 (77) | 27 (37) | 16 (27) |
 | Gastrointestinal Disorders | 40 (77) | 19 (26) | 12 (20) |
 | Diarrhea | 40 (77) | 17 (23) | 8 (14) |
