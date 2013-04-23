@@ -41,7 +41,7 @@ Actinomyces species1 Borrelia recurrentis Chlamydia psittaci Chlamydia trachomat
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug for treatment.*
 
-Broth microdilution and agar dilution susceptibility testing should be performed with tetracycline except when testing Neisseria meningitidis (see below) since it predicts susceptibility to minocycline.
+Broth microdilution and agar dilution susceptibility testing should be performed with tetracycline except when testingNeisseria meningitidis(see below) since it predicts susceptibility to minocycline.
 However, certain bacteria (e.g.
 Acinetobacter species) may be more susceptible to minocycline and doxycycline than to tetracycline.
 
