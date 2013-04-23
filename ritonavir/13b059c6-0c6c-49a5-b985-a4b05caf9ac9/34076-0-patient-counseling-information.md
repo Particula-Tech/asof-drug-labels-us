@@ -79,4 +79,4 @@ Concomitant use of Revatio® (sildenafil) with NORVIR is contraindicated in pati
 
 NORVIR 100 mg soft gelatin capsules are manufactured for:
 
-Abbott Laboratories North Chicago, IL 60064 USA
+AbbVie Inc. North Chicago, IL 60064 USA
