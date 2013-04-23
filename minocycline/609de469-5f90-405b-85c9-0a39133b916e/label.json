@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050444"
+  ],
+  "inn": "minocycline",
+  "labeler": "Rempex Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "54531-100-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocin"
+    }
+  ],
+  "setid": "609de469-5f90-405b-85c9-0a39133b916e",
+  "source": "dailymed"
+}
