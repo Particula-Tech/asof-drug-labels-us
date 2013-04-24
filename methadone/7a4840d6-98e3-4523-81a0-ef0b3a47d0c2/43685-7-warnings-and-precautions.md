@@ -21,7 +21,7 @@ Respiratory depression is the primary risk of DOLOPHINE.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a “sighing” pattern of breathing (deep breaths separated by abnormally long pauses).
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)_Refi4i_dependence_id_d4b1468e-a383-49ea].
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of DOLOPHINE, the risk is greatest during the initiation of therapy or following a dose increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect, especially during the initial dosing period.
@@ -34,11 +34,11 @@ Respiratory depression has also been reported with use of methadone when used as
 
 To further reduce the risk of respiratory depression, consider the following:
 
-- Patients tolerant to other opioids may be incompletely tolerant to methadone.
+- •Patients tolerant to other opioids may be incompletely tolerant to methadone.
   Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists who are being converted to treatment with methadone, thus making determination of dosing during opioid treatment conversion complex.
   Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
-- Proper dosing and titration are essential and DOLOPHINE should be prescribed only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone, especially when converting patients from other opioids, and in the use of potent opioids for the management of chronic pain.
-- DOLOPHINE is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
+- •Proper dosing and titration are essential and DOLOPHINE should be prescribed only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone, especially when converting patients from other opioids, and in the use of potent opioids for the management of chronic pain.
+- •DOLOPHINE is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
 
 ## 5.3 Life-Threatening QT Prolongation
 

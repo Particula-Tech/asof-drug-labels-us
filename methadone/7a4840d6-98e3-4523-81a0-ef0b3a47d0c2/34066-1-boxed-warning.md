@@ -34,66 +34,66 @@ DOLOPHINE® (DOL-o-feen) (methadone hydrochloride) Tablets, CII
 
 DOLOPHINE is:
 
-- A strong prescription pain medicine that contains methadone, an opioid (narcotic) that is used to treat moderate to severe around-the-clock pain.
-- Used to manage drug addiction.
+- •A strong prescription pain medicine that contains methadone, an opioid (narcotic) that is used to treat moderate to severe around-the-clock pain.
+- •Used to manage drug addiction.
 
 Important information about DOLOPHINE:
 
-- Get emergency help right away if you take too much DOLOPHINE (overdose).
+- •Get emergency help right away if you take too much DOLOPHINE (overdose).
   DOLOPHINE overdose can cause life threatening breathing problems that can lead to death.
-- Never give anyone else DOLOPHINE They could die from taking it.
+- •Never give anyone else DOLOPHINE They could die from taking it.
   Store DOLOPHINE away from children and in a safe place to prevent stealing or abuse.
   Selling or giving away DOLOPHINE is against the law.
 
 Do not take DOLOPHINE if you have:
 
-- Severe asthma, trouble breathing, or other lung problems.
-- A bowel blockage or have narrowing of the stomach or intestines.
+- •Severe asthma, trouble breathing, or other lung problems.
+- •A bowel blockage or have narrowing of the stomach or intestines.
 
 Before taking DOLOPHINE, tell your healthcare provider if you have a history of:
 
-- head injury, seizures
-- heart, liver, kidney, thyroid problems
-- problems urinating
-- pancreas or gallbladder problems
-- abuse of street or prescription drugs, alcohol addiction, or mental health problems.
+- •head injury, seizures
+- •heart, liver, kidney, thyroid problems
+- •problems urinating
+- •pancreas or gallbladder problems
+- •abuse of street or prescription drugs, alcohol addiction, or mental health problems.
 
 Tell your healthcare provider if you are:
 
-- pregnant or planning to become pregnant.
+- •pregnant or planning to become pregnant.
   DOLOPHINE may harm your unborn baby.
-- breastfeeding.
+- •breastfeeding.
   DOLOPHINE passes into breast milk and may harm your baby.
-- taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
+- •taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
 
 When taking DOLOPHINE:
 
-- Do not change your dose.
+- •Do not change your dose.
   Take DOLOPHINE exactly as prescribed by your healthcare provider.
-- Do not take more than your prescribed dose in 24 hours.
+- •Do not take more than your prescribed dose in 24 hours.
   If you take DOLOPHINE for pain and miss a dose, take DOLOPHINE as soon as possible and then take your next dose 8 or 12 hours later as directed by your healthcare provider.
   If it is almost time for your next dose, skip the missed dose and go back to your regular dosing schedule.
-- If you take DOLOPHINE for opioid addiction, take your next dose the following day as scheduled.
+- •If you take DOLOPHINE for opioid addiction and miss a dose, take your next dose the following day as scheduled.
   Do not take extra doses.
   Taking more than the prescribed dose may cause you to overdose because DOLOPHINE builds up in your body over time.
-- Call your healthcare provider if the dose you are taking does not control your pain.
-- Do not stop taking DOLOPHINE without talking to your healthcare provider.
-- After you stop DOLOPHINE, flush any unused tablets down the toilet.
+- •Call your healthcare provider if the dose you are taking does not control your pain.
+- •Do not stop taking DOLOPHINE without talking to your healthcare provider.
+- •After you stop DOLOPHINE, flush any unused tablets down the toilet.
 
 While taking DOLOPHINE Do Not:
 
-- Drive or operate heavy machinery, until you know how DOLOPHINE affects you.
+- •Drive or operate heavy machinery, until you know how DOLOPHINE affects you.
   DOLOPHINE can make you sleepy, dizzy, or lightheaded.
-- Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
+- •Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
 
 The possible side effects of DOLOPHINE are:
 
-- constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness.
+- •constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness.
   Call your healthcare provider if you have any of these symptoms and they are severe.
 
 Get emergency medical help if you have:
 
-- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, or you are feeling faint.
+- •trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, or you are feeling faint.
 
 These are not all the possible side effects of DOLOPHINE.
 Call your doctor for medical advice about side effects.
@@ -101,8 +101,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov.
 
 This Medication Guide has been approved by the U.S. FDA.
-Issue: July 2012
+Issue: April 2013
 
 Manufactured by: Roxane Laboratories, Inc., Columbus, Ohio 43216, www.Roxane.com, or call 1-800-962-8364
 
-4077444//04
+4077444//05

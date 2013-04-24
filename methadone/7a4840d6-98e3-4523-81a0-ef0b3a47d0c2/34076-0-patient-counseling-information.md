@@ -21,8 +21,8 @@ Inform patients that potentially serious additive effects may occur if DOLOPHINE
 
 Important Administration Instructions: Instruct patients how to properly take DOLOPHINE, including the following:
 
-- Using DOLOPHINE exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression)
-- Not discontinuing DOLOPHINE without first discussing the need for a tapering regimen with the prescriber
+- •Using DOLOPHINE exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression)
+- •Not discontinuing DOLOPHINE without first discussing the need for a tapering regimen with the prescriber
 
 Hypotension: Inform patients that DOLOPHINE may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position).
@@ -47,6 +47,8 @@ Columbus, Ohio 43216
 
 www.Roxane.com, or call 1-800-962-8364
 
-4077444//04
+4077444//05
 
-© RLI, 2012
+Revised April 2013
+
+© RLI, 2013
