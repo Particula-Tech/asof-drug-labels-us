@@ -6,8 +6,6 @@ Rocuronium Bromide Injection, 10 mg/mL is available in:
 
 100 mg/10 mL, 10 mL Multi-dose vial - NDC 67457-228-10, cartons of 10
 
-The packaging of this product contains no natural rubber (latex).
-
 Rocuronium Bromide Injection should be stored in a refrigerator, 2° to 8°C (36° to 46°F).
 DO NOT FREEZE.
 Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use Rocuronium Bromide Injection within 60 days.

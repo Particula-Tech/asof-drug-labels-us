@@ -28,52 +28,52 @@ Table 5 presents the time to onset and clinical duration for the initial dose of
 
 Table 5: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Opioid/Nitrous Oxide/Oxygen Anesthesia (Adults) and Halothane Anesthesia (Pediatric Patients)
 
-| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to ≥80% Block (min) | Time to Maximum Block (min) | Clinical Duration (min) |
-| --- | --- | --- | --- |
-| Adults 18 to 64 yrs |  |  |  |
-| 0.45 (n=50) | 1.3 (0.8–6.2) | 3.0 (1.3–8.2) | 22 (12–31) |
-| 0.6 (n=142) | 1.0 (0.4–6.0) | 1.8 (0.6–13.0) | 31 (15–85) |
-| 0.9 (n=20) | 1.1 (0.3–3.8) | 1.4 (0.8–6.2) | 58 (27–111) |
-| 1.2 (n=18) | 0.7 (0.4–1.7) | 1.0 (0.6–4.7) | 67 (38–160) |
-| Geriatric ≥65 yrs |  |  |  |
-| 0.6 (n=31) | 2.3 (1.0–8.3) | 3.7 (1.3–11.3) | 46 (22–73) |
-| 0.9 (n=5) | 2.0 (1.0–3.0) | 2.5 (1.2–5.0) | 62 (49–75) |
-| 1.2 (n=7) | 1.0 (0.8–3.5) | 1.3 (1.2–4.7) | 94 (64–138) |
-| Infants 3 mo to 1 yr |  |  |  |
-| 0.6 (n=17) | — | 0.8 (0.3–3.0) | 41 (24–68) |
-| 0.8 (n=9) | — | 0.7 (0.5–0.8) | 40 (27–70) |
-| Pediatric 1 to 12 yrs |  |  |  |
-| 0.6 (n=27) | 0.8 (0.4–2.0) | 1.0 (0.5–3.3) | 26 (17–39) |
-| 0.8 (n=18) | — | 0.5 (0.3–1.0) | 30 (17–56) |
-| n = the number of patients who had time to maximum block recordedClinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |
+| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to ≥80% Block (min) | Time to Maximum Block (min) | Clinical Duration (min) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Adults 18 to 64 yrs |  |  |  |  |  |  |
+| 0.45 (n=50) | 1.3 (0.8–6.2) | 3.0 (1.3–8.2) | 22 (12–31) |  |  |  |
+| 0.6 (n=142) | 1.0 (0.4–6.0) | 1.8 (0.6–13.0) | 31 (15–85) |  |  |  |
+| 0.9 (n=20) | 1.1 (0.3–3.8) | 1.4 (0.8–6.2) | 58 (27–111) |  |  |  |
+| 1.2 (n=18) | 0.7 (0.4–1.7) | 1.0 (0.6–4.7) | 67 (38–160) |  |  |  |
+| Geriatric ≥65 yrs |  |  |  |  |  |  |
+| 0.6 (n=31) | 2.3 (1.0–8.3) | 3.7 (1.3–11.3) | 46 (22–73) |  |  |  |
+| 0.9 (n=5) | 2.0 (1.0–3.0) | 2.5 (1.2–5.0) | 62 (49–75) |  |  |  |
+| 1.2 (n=7) | 1.0 (0.8–3.5) | 1.3 (1.2–4.7) | 94 (64–138) |  |  |  |
+| Infants 3 mo to 1 yr |  |  |  |  |  |  |
+| 0.6 (n=17) | — | 0.8 (0.3–3.0) | 41 (24–68) |  |  |  |
+| 0.8 (n=9) | — | 0.7 (0.5–0.8) | 40 (27–70) |  |  |  |
+| Pediatric 1 to 12 yrs |  |  |  |  |  |  |
+| 0.6 (n=27) | 0.8 (0.4–2.0) | 1.0 (0.5–3.3) | 26 (17–39) |  |  |  |
+| 0.8 (n=18) | — | 0.5 (0.3–1.0) | 30 (17–56) |  |  |  |
+| n = the number of patients who had time to maximum block recordedClinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |  |  |  |
 
 Table 6 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
 
 Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction)and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
 
-| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 [min] |
-| --- | --- | --- |
-| Neonates birth to <28 days |  |  |
-| 0.45 (n=5) | 1.1 (0.6-2.2) | 40.3 (32.5–62.6) |
-| 0.6 (n=10) | 1.0 (02-2.1) | 49.7 (16.6-119.0) |
-| 1 (n=6) | 0.6 (03-1.8) | 114.4 (92.6-136.3) |
-| Infants 28 days to ≤3 mo |  |  |
-| 0.45 (n=9) | 0.5 (0.4-1.3) | 49.1 (13.5-79.9) |
-| 0.6 (n=11) | 0.4 (0.2-0.8) | 59.8 (32.3-87.8) |
-| 1 (n=5) | 0.3 (0.2-0.7) | 59.8 (32.3-87.8) |
-| Toddlers >3 mo to ≤2 yrs |  |  |
-| 0.45 (n=17) | 0.8 (0.3-1.9) | 39.2 (16.9-59.4) |
-| 0.6 (n=29) | 0.6 (0.2-1.6) | 44.2 (18.9-68.8) |
-| 1 (n=15) | 0.5 (0.2-1.5) | 72.0 (36.2-128.2) |
-| Children >2 yrs to ≤11 yrs |  |  |
-| 0.45 (n=14) | 0.9 (0.4-1.9) | 21.5 (17.5-38.0) |
-| 0.6 (n=37) | 0.8 (0.3-1.7) | 36.7 (20.1-65.9) |
-| 1 (n=16) | 0.7 (0.4-1.2) | 53.1 (31.2-89.9) |
-| Adolescents >11 to ≤ yrs |  |  |
-| 0.45 (n=18) | 1.0 (0.5-1.7) | 37.5 (18.3-65.7) |
-| 0.6 (n=31) | 0.9 (0.2-2.1) | 41.4 (16.3-91.2) |
-| 1 (n=4) | 0.7 (0.5-1.2) | 67.1 (25.6-93.8) |
-| n = the number of patients with the highest number of observations for time to maximum block or reappearance T3. |  |  |
+| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 [min] |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Neonates birth to <28 days |  |  |  |  |  |  |  |  |  |
+| 0.45 (n=5) | 1.1 (0.6-2.2) | 40.3 (32.5–62.6) |  |  |  |  |  |  |  |
+| 0.6 (n=10) | 1.0 (02-2.1) | 49.7 (16.6-119.0) |  |  |  |  |  |  |  |
+| 1 (n=6) | 0.6 (03-1.8) | 114.4 (92.6-136.3) |  |  |  |  |  |  |  |
+| Infants 28 days to ≤3 mo |  |  |  |  |  |  |  |  |  |
+| 0.45 (n=9) | 0.5 (0.4-1.3) | 49.1 (13.5-79.9) |  |  |  |  |  |  |  |
+| 0.6 (n=11) | 0.4 (0.2-0.8) | 59.8 (32.3-87.8) |  |  |  |  |  |  |  |
+| 1 (n=5) | 0.3 (0.2-0.7) | 59.8 (32.3-87.8) |  |  |  |  |  |  |  |
+| Toddlers >3 mo to ≤2 yrs |  |  |  |  |  |  |  |  |  |
+| 0.45 (n=17) | 0.8 (0.3-1.9) | 39.2 (16.9-59.4) |  |  |  |  |  |  |  |
+| 0.6 (n=29) | 0.6 (0.2-1.6) | 44.2 (18.9-68.8) |  |  |  |  |  |  |  |
+| 1 (n=15) | 0.5 (0.2-1.5) | 72.0 (36.2-128.2) |  |  |  |  |  |  |  |
+| Children >2 yrs to ≤11 yrs |  |  |  |  |  |  |  |  |  |
+| 0.45 (n=14) | 0.9 (0.4-1.9) | 21.5 (17.5-38.0) |  |  |  |  |  |  |  |
+| 0.6 (n=37) | 0.8 (0.3-1.7) | 36.7 (20.1-65.9) |  |  |  |  |  |  |  |
+| 1 (n=16) | 0.7 (0.4-1.2) | 53.1 (31.2-89.9) |  |  |  |  |  |  |  |
+| Adolescents >11 to ≤ yrs |  |  |  |  |  |  |  |  |  |
+| 0.45 (n=18) | 1.0 (0.5-1.7) | 37.5 (18.3-65.7) |  |  |  |  |  |  |  |
+| 0.6 (n=31) | 0.9 (0.2-2.1) | 41.4 (16.3-91.2) |  |  |  |  |  |  |  |
+| 1 (n=4) | 0.7 (0.5-1.2) | 67.1 (25.6-93.8) |  |  |  |  |  |  |  |
+| n = the number of patients with the highest number of observations for time to maximum block or reappearance T3. |  |  |  |  |  |  |  |  |  |
 
 The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
 

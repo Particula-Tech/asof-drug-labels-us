@@ -10,4 +10,4 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Gland Pharma Ltd Hyderabad 500 043 India Code No.: AP/DRUGS/103/97
 
-LEA-019177-02 REVISED AUGUST 2012 MI:ROCUIJ:R2
+LEA-019177-03 REVISED MARCH 2013 MI:ROCUIJ:R3
