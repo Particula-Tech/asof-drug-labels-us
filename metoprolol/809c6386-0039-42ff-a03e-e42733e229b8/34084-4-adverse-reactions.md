@@ -15,13 +15,11 @@ Headache, nightmares, and insomnia have also been reported.
 
 Shortness of breath and bradycardia have occurred in approximately 3 of 100 patients.
 Cold extremities; arterial insufficiency, usually of the Raynaud type; palpitations; congestive heart failure; peripheral edema; and hypotension have been reported in about 1 of 100 patients.
-Gangrene in patients with preexisting severe peripheral circulatory disorders has also been reported very rarely.
-(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS.)
+Gangrene in patients with preexisting severe peripheral circulatory disorders has also been reported very rarely (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
 
 ### Respiratory
 
-Wheezing (bronchospasm) and dyspnea have been reported in about 1 of 100 patients.
-(See WARNINGS.)
+Wheezing (bronchospasm) and dyspnea have been reported in about 1 of 100 patients (see WARNINGS).
 Rhinitis has also been reported.
 
 ### Gastrointestinal
@@ -35,7 +33,7 @@ Isolated cases of transaminase, alkaline phosphatase, and lactic dehydrogenase e
 ### Hypersensitive Reactions
 
 Pruritus or rash have occurred in about 5 of 100 patients.
-Very rarely, photosensitivity and worsening of psoriasis have been reported.
+Very rarely, photosensitivity and worsening of psoriasis has been reported.
 
 ### Miscellaneous
 
@@ -97,11 +95,11 @@ Intensification of AV block (see CONTRAINDICATIONS).
 
 ### Hematologic
 
-Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
+Agranulocytosis, nonthrombocytopenic purpura and thrombocytopenic purpura.
 
 ### Hypersensitive Reactions
 
-Fever combined with aching and sore throat, laryngospasm, and respiratory distress.
+Fever combined with aching and sore throat, laryngospasm and respiratory distress.
 
 ## Post-Marketing Experience
 

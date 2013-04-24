@@ -2,12 +2,11 @@ PRINCIPAL DISPLAY PANEL - 25 mg
 
 NDC 0378-0018-91
 
-METOPROLOL TARTRATE TABLETS, USP 25 mg
+Metoprolol Tartrate Tablets, USP 25 mg
 
-60 TABLETS (Rx only)
+Rx only 60 Tablets
 
-Each film-coated tablet contains: Metoprolol tartrate, USP......
-25 mg
+Each film-coated tablet contains: Metoprolol tartrate, USP 25 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -22,20 +21,21 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0018D1
+Mylan.com
+
+RM0018D4
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
 NDC 0378-0032-01
 
-METOPROLOL TARTRATE TABLETS, USP 50 mg
+Metoprolol Tartrate Tablets, USP 50 mg
 
-100 TABLETS (Rx only)
+Rx only 100 Tablets
 
-Each film-coated tablet contains: Metoprolol tartrate, USP......
-50 mg
+Each film-coated tablet contains: Metoprolol tartrate, USP 50 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -50,20 +50,21 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0032A10
+Mylan.com
+
+RM0032A13
 
 PRINCIPAL DISPLAY PANEL - 100 mg
 
 NDC 0378-0047-01
 
-METOPROLOL TARTRATE TABLETS, USP 100 mg
+Metoprolol Tartrate Tablets, USP 100 mg
 
-100 TABLETS (Rx only)
+Rx only 100 Tablets
 
-Each film-coated tablet contains: Metoprolol tartrate, USP......
-100 mg
+Each film-coated tablet contains: Metoprolol tartrate, USP 100 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -78,6 +79,8 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0047A10
+Mylan.com
+
+RM0047A13

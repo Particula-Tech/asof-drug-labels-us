@@ -34,6 +34,6 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 To report SUSPECTED ADVERSE REACTIONS, contact Mylan Pharmaceuticals Inc. Toll free at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED DECEMBER 2009 MTPL:R10
+REVISED MARCH 2013 MTPL:R13
