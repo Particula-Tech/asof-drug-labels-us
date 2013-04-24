@@ -12,7 +12,7 @@
    CLSI document M100-S19, 2009.
 
 This product's label may have been updated.
-For current package insert and further product information, please visit www.triaxpharma.com or call our toll-free number: 800 978 5060.
+For current package insert and further product information, please visit www.rempexpharma.com or call our toll-free number: 866-932-9189.
 Call between 9:00 a.m. and 5:00 p.m.
 Eastern Time, Monday through Friday.
 
