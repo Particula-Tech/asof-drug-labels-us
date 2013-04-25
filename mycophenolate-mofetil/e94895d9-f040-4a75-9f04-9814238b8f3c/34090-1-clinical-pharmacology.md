@@ -11,12 +11,12 @@ Mycophenolate mofetil USP has been demonstrated to inhibit immunologically media
 
 Mycophenolate mofetil USP is rapidly absorbed following oral administration and hydrolyzed to form MPA, which is the active metabolite.
 MPA is a potent, selective, uncompetitive, and reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH), and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation into DNA.
-Because T­ and B­lymphocytes are critically dependent for their proliferation on de novo synthesis of purines, whereas other cell types can utilize salvage pathways, MPA has potent cytostatic effects on lymphocytes.
-MPA inhibits proliferative responses of T­ and B­lymphocytes to both mitogenic and allospecific stimulation.
+Because T‑ and B‑lymphocytes are critically dependent for their proliferation on de novo synthesis of purines, whereas other cell types can utilize salvage pathways, MPA has potent cytostatic effects on lymphocytes.
+MPA inhibits proliferative responses of T‑ and B‑lymphocytes to both mitogenic and allospecific stimulation.
 Addition of guanosine or deoxyguanosine reverses the cytostatic effects of MPA on lymphocytes.
-MPA also suppresses antibody formation by B­lymphocytes.
+MPA also suppresses antibody formation by B‑lymphocytes.
 MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
-Mycophenolate mofetil USP did not inhibit early events in the activation of human peripheral blood mononuclear cells, such as the production of interleukin­1 (IL­1) and interleukin-2 (IL­2), but did block the coupling of these events to DNA synthesis and proliferation.
+Mycophenolate mofetil USP did not inhibit early events in the activation of human peripheral blood mononuclear cells, such as the production of interleukin‑1 (IL‑1) and interleukin-2 (IL‑2), but did block the coupling of these events to DNA synthesis and proliferation.
 
 ## Pharmacokinetics
 
@@ -28,7 +28,7 @@ The parent drug, mycophenolate mofetil USP, can be measured systemically during 
 ### Absorption
 
 In 12 healthy volunteers, the mean absolute bioavailability of oral mycophenolate mofetil USP relative to intravenous mycophenolate mofetil USP (based on MPA AUC) was 94%.
-The area under the plasma­concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in renal transplant patients receiving multiple doses of mycophenolate mofetil USP up to a daily dose of 3 g (see Table 1).
+The area under the plasma‑concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in renal transplant patients receiving multiple doses of mycophenolate mofetil USP up to a daily dose of 3 g (see Table 1).
 
 Food (27 g fat, 650 calories) had no effect on the extent of absorption (MPA AUC) of mycophenolate mofetil USP when administered at doses of 1.5 g bid to renal transplant patients.
 However, MPA Cmax was decreased by 40% in the presence of food (see DOSAGE AND ADMINISTRATION).
@@ -50,13 +50,13 @@ Following oral and intravenous dosing, mycophenolate mofetil USP undergoes compl
 Metabolism to MPA occurs presystemically after oral dosing.
 MPA is metabolized principally by glucuronyl transferase to form the phenolic glucuronide of MPA (MPAG) which is not pharmacologically active.
 In vivo, MPAG is converted to MPA via enterohepatic recirculation.
-The following metabolites of the 2­hydroxyethyl­morpholino moiety are also recovered in the urine following oral administration of mycophenolate mofetil to healthy subjects: N­(2­carboxymethyl)-morpholine, N­(2­hydroxyethyl)­morpholine, and the N­oxide of N­(2­hydroxyethyl)-morpholine.
+The following metabolites of the 2‑hydroxyethyl‑morpholino moiety are also recovered in the urine following oral administration of mycophenolate mofetil to healthy subjects: N‑(2‑carboxymethyl)-morpholine, N‑(2‑hydroxyethyl)‑morpholine, and the N‑oxide of N‑(2‑hydroxyethyl)-morpholine.
 
-Secondary peaks in the plasma MPA concentration­time profile are usually observed 6 to 12 hours postdose.
+Secondary peaks in the plasma MPA concentration‑time profile are usually observed 6 to 12 hours postdose.
 The coadministration of cholestyramine (4 g tid) resulted in approximately a 40% decrease in the MPA AUC (largely as a consequence of lower concentrations in the terminal portion of the profile).
 These observations suggest that enterohepatic recirculation contributes to MPA plasma concentrations.
 
-Increased plasma concentrations of mycophenolate mofetil USP metabolites (MPA 50% increase and MPAG about a 3­fold to 6­fold increase) are observed in patients with renal insufficiency (see CLINICAL PHARMACOLOGY: Special Populations).
+Increased plasma concentrations of mycophenolate mofetil USP metabolites (MPA 50% increase and MPAG about a 3‑fold to 6‑fold increase) are observed in patients with renal insufficiency (see CLINICAL PHARMACOLOGY: Special Populations).
 
 ### Excretion
 
@@ -67,7 +67,7 @@ At clinically encountered concentrations, MPA and MPAG are usually not removed b
 However, at high MPAG plasma concentrations (>100 mcg/mL), small amounts of MPAG are removed.
 Bile acid sequestrants, such as cholestyramine, reduce MPA AUC by interfering with enterohepatic circulation of the drug (see OVERDOSAGE).
 
-Mean (±SD) apparent half­life and plasma clearance of MPA are 17.9 (±6.5) hours and 193 (±48) mL/min following oral administration and 16.6 (±5.8) hours and 177 (±31) mL/min following intravenous administration, respectively.
+Mean (±SD) apparent half‑life and plasma clearance of MPA are 17.9 (±6.5) hours and 193 (±48) mL/min following oral administration and 16.6 (±5.8) hours and 177 (±31) mL/min following intravenous administration, respectively.
 
 ### Pharmacokinetics in Healthy Volunteers, Renal, Cardiac, and Hepatic Transplant Patients
 
@@ -101,7 +101,7 @@ Five mL of the 200 mg/mL constituted oral suspension have been shown to be bioeq
 
 ### Special Populations
 
-Shown below are the mean (±SD) pharmacokinetic parameters for MPA following the administration of oral mycophenolate mofetil USP given as single doses to non­transplant subjects with renal or hepatic impairment.
+Shown below are the mean (±SD) pharmacokinetic parameters for MPA following the administration of oral mycophenolate mofetil USP given as single doses to non‑transplant subjects with renal or hepatic impairment.
 
 Table 2: Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of Mycophenolate Mofetil Capsules USP in Chronic Renal and Hepatic Impairment
 
@@ -117,21 +117,21 @@ Table 2: Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses
 
 ### Renal Insufficiency
 
-In a single­dose study, MMF was administered as capsule or intravenous infusion over 40 minutes.
+In a single‑dose study, MMF was administered as capsule or intravenous infusion over 40 minutes.
 Plasma MPA AUC observed after oral dosing to volunteers with severe chronic renal impairment [glomerular filtration rate (GFR) <25 mL/min/1.73 m2] was about 75% higher relative to that observed in healthy volunteers (GFR >80 mL/min/1.73 m2).
-In addition, the single­dose plasma MPAG AUC was 3­fold to 6­fold higher in volunteers with severe renal impairment than in volunteers with mild renal impairment or healthy volunteers, consistent with the known renal elimination of MPAG.
-No data are available on the safety of long­term exposure to this level of MPAG.
+In addition, the single‑dose plasma MPAG AUC was 3‑fold to 6‑fold higher in volunteers with severe renal impairment than in volunteers with mild renal impairment or healthy volunteers, consistent with the known renal elimination of MPAG.
+No data are available on the safety of long‑term exposure to this level of MPAG.
 
-Plasma MPA AUC observed after single­dose (1 g) intravenous dosing to volunteers (N=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was 62.4 mcg•h/mL (±19.3).
+Plasma MPA AUC observed after single‑dose (1 g) intravenous dosing to volunteers (N=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was 62.4 mcg•h/mL (±19.3).
 Multiple dosing of mycophenolate mofetil USP in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS:Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
-In patients with delayed renal graft function posttransplant, mean MPA AUC(0­12h) was comparable to that seen in posttransplant patients without delayed renal graft function.
+In patients with delayed renal graft function posttransplant, mean MPA AUC(0‑12h) was comparable to that seen in posttransplant patients without delayed renal graft function.
 There is a potential for a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 However, dose adjustment does not appear to be necessary in patients with delayed renal graft function.
-Mean plasma MPAG AUC(0­12h) was 2­fold to 3­fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS:Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
+Mean plasma MPAG AUC(0‑12h) was 2‑fold to 3‑fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS:Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
-In 8 patients with primary graft non­function following renal transplantation, plasma concentrations of MPAG accumulated about 6­fold to 8­fold after multiple dosing for 28 days.
-Accumulation of MPA was about 1­fold to 2­fold.
+In 8 patients with primary graft non‑function following renal transplantation, plasma concentrations of MPAG accumulated about 6‑fold to 8‑fold after multiple dosing for 28 days.
+Accumulation of MPA was about 1‑fold to 2‑fold.
 
 The pharmacokinetics of mycophenolate mofetil USP are not altered by hemodialysis.
 Hemodialysis usually does not remove MPA or MPAG.
@@ -139,11 +139,11 @@ At high concentrations of MPAG (>100 mcg/mL), hemodialysis removes only small am
 
 ### Hepatic Insufficiency
 
-In a single­dose (1 g oral) study of 18 volunteers with alcoholic cirrhosis and 6 healthy volunteers, hepatic MPA glucuronidation processes appeared to be relatively unaffected by hepatic parenchymal disease when pharmacokinetic parameters of healthy volunteers and alcoholic cirrhosis patients within this study were compared.
+In a single‑dose (1 g oral) study of 18 volunteers with alcoholic cirrhosis and 6 healthy volunteers, hepatic MPA glucuronidation processes appeared to be relatively unaffected by hepatic parenchymal disease when pharmacokinetic parameters of healthy volunteers and alcoholic cirrhosis patients within this study were compared.
 However, it should be noted that for unexplained reasons, the healthy volunteers in this study had about a 50% lower AUC as compared to healthy volunteers in other studies, thus making comparisons between volunteers with alcoholic cirrhosis and healthy volunteers difficult.
 Effects of hepatic disease on this process probably depend on the particular disease.
 Hepatic disease with other etiologies, such as primary biliary cirrhosis, may show a different effect.
-In a single­dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
+In a single‑dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 mcg•h/mL (±15.5).
 
 ### Pediatrics

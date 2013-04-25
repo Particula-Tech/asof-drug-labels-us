@@ -100,13 +100,13 @@ Table 8: Acceptable Contraception Methods for Females or Reproductive Potential
 | Pick from the following birth control options: |  |  |  |
 | --- | --- | --- | --- |
 | Option 1 |  |  |  |
-| Methods to Use Alone | Intrauterine devices (IUDs)Tubal sterilizationPatient's partner had a vasectomy |  |  |
+| Methods to Use Alone | •Intrauterine devices (IUDs)•Tubal sterilization•Patient's partner had a vasectomy |  |  |
 | OR |  |  |  |
 | Option 2 | Hormone Methods choose 1 |  | Barrier Methods choose 1 |
-| Choose One Hormone MethodANDOne Barrier Method | Estrogen and Progestrone Oral Contraceptive PillTransdermal patchVaginal ring Progesterone-only InjectionImplant | AND | Diaphragm with spermicideCervical cap with spermicideContraceptive spongeMale condomFemale condom |
+| Choose One Hormone MethodANDOne Barrier Method | Estrogen and Progestrone •Oral Contraceptive Pill•Transdermal patch•Vaginal ring Progesterone-only •Injection•Implant | AND | •Diaphragm with spermicide•Cervical cap with spermicide•Contraceptive sponge•Male condom•Female condom |
 | OR |  |  |  |
 | Option 3 | Barrier Methods choose 1 |  | Barrier Methods choose 1 |
-| Choose One Barrier Method from each column(must choose two methods) | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge | AND | Male condomFemale condom |
+| Choose One Barrier Method from each column(must choose two methods) | •Diaphragm with spermicide•Cervical cap with spermicide•Contraceptive sponge | AND | •Male condom•Female condom |
 
 ## Pregnancy Planning
 
@@ -166,15 +166,15 @@ Therefore, care should be taken if mycophenolate mofetil oral suspension USP is 
 
 See Medication Guide
 
-- Inform females of reproductive potential that use of mycophenolate mofetil USP during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, and advise them as to the appropriate steps to manage these risks, including that they must use acceptable contraception (see WARNINGS:Embryofetal Toxicity, PRECAUTIONS:Pregnancy Exposure Prevention and Planning).
-- Discuss pregnancy testing, pregnancy prevention and planning with females of reproductive potential.
+- •Inform females of reproductive potential that use of mycophenolate mofetil USP during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, and advise them as to the appropriate steps to manage these risks, including that they must use acceptable contraception (see WARNINGS:Embryofetal Toxicity, PRECAUTIONS:Pregnancy Exposure Prevention and Planning).
+- •Discuss pregnancy testing, pregnancy prevention and planning with females of reproductive potential.
   In the event of a positive pregnancy test, females should be counseled with regard to whether the maternal benefits of mycophenolate treatment may outweigh the risks to the fetus in certain situations.
-- Females of reproductive potential must use acceptable birth control during entire mycophenolate mofetil USP therapy and for 6 weeks after stopping mycophenolate mofetil USP, unless the patient chooses to avoid heterosexual intercourse completely (abstinence) (see PRECAUTIONS:Pregnancy Exposure Prevention and Planning, Table 8).
-- For patients who are considering pregnancy, discuss appropriate alternative immunosuppressants with less potential for embryofetal toxicity.
+- •Females of reproductive potential must use acceptable birth control during entire mycophenolate mofetil USP therapy and for 6 weeks after stopping mycophenolate mofetil USP, unless the patient chooses to avoid heterosexual intercourse completely (abstinence) (see PRECAUTIONS:Pregnancy Exposure Prevention and Planning, Table 8).
+- •For patients who are considering pregnancy, discuss appropriate alternative immunosuppressants with less potential for embryofetal toxicity.
   Risks and benefits of mycophenolate mofetil USP should be discussed with the patient.
-- Give patients complete dosage instructions and inform them about the increased risk of lymphoproliferative disease and certain other malignancies.
-- Inform patients that they need repeated appropriate laboratory tests while they are taking mycophenolate mofetil USP.
-- Advise patients that they should not breastfeed during mycophenolate mofetil USP therapy.
+- •Give patients complete dosage instructions and inform them about the increased risk of lymphoproliferative disease and certain other malignancies.
+- •Inform patients that they need repeated appropriate laboratory tests while they are taking mycophenolate mofetil USP.
+- •Advise patients that they should not breastfeed during mycophenolate mofetil USP therapy.
 
 ## Laboratory Tests
 

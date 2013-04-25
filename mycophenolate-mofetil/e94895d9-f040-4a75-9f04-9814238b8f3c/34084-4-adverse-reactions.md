@@ -169,7 +169,7 @@ The safety profile of intravenous mycophenolate mofetil was similar to that of i
 
 #### Embryofetal Toxicity
 
-Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil USP during pregnancy (see PRECAUTIONS:Pregnancy).
+Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil USP during pregnancy (see PRECAUTIONS: Pregnancy).
 
 ### Digestive
 
