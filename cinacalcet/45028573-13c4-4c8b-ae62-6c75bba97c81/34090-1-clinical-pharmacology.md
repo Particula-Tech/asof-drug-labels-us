@@ -55,7 +55,7 @@ Effect of co-administered drugs on cinacalcet
 
 | Co-administered drug and dosing regimen | Cinacalcet |  |  |
 | --- | --- | --- | --- |
-| Dose Single dose. | Mean change in AUC | Mean change in Cmax |  |
+| DoseSingle dose. | Mean change in AUC | Mean change in Cmax |  |
 | 200 mg ketoconazole twice daily for 7 days | 90 mg on day 5 | ↑128% | ↑116% |
 | 1500 mg calcium carbonate, single dose | 100 mg | ↓6% | ↓5% |
 | 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |
