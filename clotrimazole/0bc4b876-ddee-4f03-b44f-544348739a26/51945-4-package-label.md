@@ -3,9 +3,3 @@
 Roxane Laboratories, Inc.
 
 NDC 0054-4146-22
-
-# PRINCIPAL DISPLAY PANEL
-
-Roxane Laboratories, Inc.
-
-NDC 0054-8146-22
