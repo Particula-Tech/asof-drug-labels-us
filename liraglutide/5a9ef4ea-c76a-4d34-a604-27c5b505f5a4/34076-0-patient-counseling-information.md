@@ -16,8 +16,9 @@ Patients should be informed of the potential risk for worsening renal function, 
 
 ## 17.4 Pancreatitis
 
-Patients should be informed that persistent severe abdominal pain, that may radiate to the back and which may (or may not) be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
-Patients should be instructed to discontinue Victoza promptly, and to contact their physician, if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
+Patients should be informed of the potential risk for pancreatitis.
+Explain that persistent severe abdominal pain that may radiate to the back and which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
+Instruct patients to discontinue Victoza promptly and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
 
 ## 17.5 Hypersensitivity Reactions
 
@@ -52,17 +53,17 @@ Victoza should be titrated at the discretion of the prescribing physician [see D
 Patients should be informed that response to all diabetic therapies should be monitored by periodic measurements of blood glucose and A1c levels, with a goal of decreasing these levels towards the normal range.
 A1c is especially useful for evaluating long-term glycemic control.
 
-Date of Issue: December 13, 2012
+Date of Issue: April 16, 2013
 
-Version: 5
+Version: 6
 
 Victoza® is a registered trademark of Novo Nordisk A/S.
 
-Victoza® is covered by US Patent Nos. 6,268,343, 6,458,924 and 7,235,627 and other patents pending.
+Victoza® is covered by US Patent Nos. 6,268,343, 6,458,924, 7,235,627, 8,114,833 and other patents pending.
 
-Victoza® Pen is covered by US Patent Nos. 6,004,297, 6,235,004, 6,582,404 and other patents pending.
+Victoza® Pen is covered by US Patent Nos. 6,004,297, RE 43,834, RE 41,956 and other patents pending.
 
-© 2010-12 Novo Nordisk
+© 2010-13 Novo Nordisk
 
 Manufactured by:
 
@@ -74,8 +75,8 @@ For information about Victoza contact:
 
 Novo Nordisk Inc.
 
-100 College Road West
+800 Scudders Mill Road
 
-Princeton, NJ 08540
+Plainsboro, NJ 08536
 
 1-877-484-2869

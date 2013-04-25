@@ -255,25 +255,25 @@ For information about Victoza contact:
 
 Novo Nordisk Inc.
 
-100 College Road West
+800 Scudders Mill Road
 
-Princeton, NJ 08540
+Plainsboro, NJ 08536
 
 1-877-484-2869
 
-Issued: April 6, 2012
+Issued: April 2013
 
-Version: 3
+Version: 4
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Victoza® is a registered trademark of Novo Nordisk A/S.
 
-Victoza® is covered by US Patent Nos. 6,268,343, 6,458,924 and 7,235,627 and other patents pending.
+Victoza® is covered by US Patent Nos. 6,268,343, 6,458,924, 7,235,627, 8,114,833 and other patents pending.
 
-Victoza® pen is covered by US Patent Nos. 6,004,297, 6,235,004, 6,582,404 and other patents pending.
+Victoza® pen is covered by US Patent Nos. 6,004,297, RE 43,834, RE 41,956 and other patents pending.
 
-© 2010-2012 Novo Nordisk
+© 2010-2013 Novo Nordisk
 
 PATIENT INSTRUCTIONS FOR USE
 

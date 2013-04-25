@@ -37,15 +37,16 @@ Although routine monitoring of serum calcitonin is of uncertain value in patient
 
 ## 5.2 Pancreatitis
 
+Based on spontaneous postmarketing reports, acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with Victoza.
+After initiation of Victoza, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
+If pancreatitis is suspected, Victoza should promptly be discontinued and appropriate management should be initiated.
+If pancreatitis is confirmed, Victoza should not be restarted.
+Consider antidiabetic therapies other than Victoza in patients with a history of pancreatitis.
+
 In clinical trials of Victoza, there have been 13 cases of pancreatitis among Victoza-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years).
 Nine of the 13 cases with Victoza were reported as acute pancreatitis and four were reported as chronic pancreatitis.
 In one case in a Victoza-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established.
 Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
-There are no conclusive data establishing a risk of pancreatitis with Victoza treatment.
-After initiation of Victoza, and after dose increases, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
-If pancreatitis is suspected, Victoza and other potentially suspect medications should be discontinued promptly, confirmatory tests should be performed and appropriate management should be initiated.
-If pancreatitis is confirmed, Victoza should not be restarted.
-Use with caution in patients with a history of pancreatitis.
 
 ## 5.3 Use with Medications Known to Cause Hypoglycemia
 

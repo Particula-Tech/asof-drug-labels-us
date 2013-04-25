@@ -152,7 +152,7 @@ Table 5 Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in the 52
 
 |  | Victoza Treatment | Active Comparator | Placebo Comparator |
 | --- | --- | --- | --- |
-| Monotherapy | Victoza(N = 497) | Glimepiride (N = 248) | None |
+| Monotherapy | Victoza (N = 497) | Glimepiride (N = 248) | None |
 | Patient not able to self-treat | 0 | 0 | - |
 | Patient able to self-treat | 9.7 (0.24) | 25.0 (1.66) | - |
 | Not classified | 1.2 (0.03) | 2.4 (0.04) | - |
@@ -204,3 +204,4 @@ Because these events are reported voluntarily from a population of uncertain siz
 - •Angioedema and anaphylactic reactions.
   [see Contraindications (4), Warnings and Precautions (5.5), Patient counseling Information (17.5)]
 - •Allergic reactions: rash and pruritus
+- •Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death [see Warnings and Precautions (5.2)]
