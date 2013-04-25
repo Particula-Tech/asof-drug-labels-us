@@ -119,7 +119,7 @@ Syncope was reported in 0.6% of the patients treated with ziprasidone.
 
 Ziprasidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
-## 5.8 Leukopenia, Neutropenia, Agranulocytosis
+## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents.
 Agranulocytosis (including fatal cases) has also been reported.
@@ -148,8 +148,10 @@ Ziprasidone and other antipsychotic drugs should be used cautiously in patients 
 As with other drugs that antagonize dopamine D2 receptors, ziprasidone elevates prolactin levels in humans.
 Increased prolactin levels were also observed in animal studies with this compound, and were associated with an increase in mammary gland neoplasia in mice; a similar effect was not observed in rats [see Nonclinical Toxicology (13.1)].
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+
+Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds, the clinical significance of elevated serum prolactin levels is unknown for most patients.
+Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density.
 
 ## 5.12 Potential for Cognitive and Motor Impairment
 
@@ -174,13 +176,13 @@ Appropriate care is advised when prescribing ziprasidone for patients who will b
 The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.16 Patients with Concomitant Illness
+## 5.16 Patients with Concomitant illness
 
-Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6),(8.7)].
+Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)]
 
 Ziprasidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
-Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.2), (5.7)].
+Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.2), (5.7)]
 
 ## 5.17 Laboratory Tests
 

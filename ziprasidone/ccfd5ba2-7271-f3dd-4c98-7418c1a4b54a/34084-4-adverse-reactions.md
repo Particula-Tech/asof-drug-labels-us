@@ -55,7 +55,7 @@ Table 1: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Placeb
 | Dry Mouth | 4 | 2 |
 | Anorexia | 2 | 1 |
 | Nervous |  |  |
-| Extrapyramidal SymptonsExtrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching. None of these adverse reactions occurred individually at an incidence greater than 5% in schizophrenia trials. | 14 | 8 |
+| Extrapyramidal SymptomsExtrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching. None of these adverse reactions occurred individually at an incidence greater than 5% in schizophrenia trials. | 14 | 8 |
 | Somnolence | 14 | 7 |
 | Akathisia | 8 | 7 |
 | DizzinessDizziness includes the adverse reaction terms dizziness and lightheadedness. | 8 | 6 |
@@ -86,12 +86,12 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-Vital Sign Changes -Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.7)].
+Vital Sign Changes -Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.7)]
 
 Weight Gain -The proportions of patients meeting a weight gain criterion of ≥7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
 A median weight gain of 0.5 kg was observed in ziprasidone patients compared to no median weight change in placebo patients.
 In this set of clinical trials, weight gain was reported as an adverse reaction in 0.4% and 0.4% of ziprasidone and placebo patients, respectively.
-During long-term therapy with ziprasidone, a categorization of patients at baseline on the basis of body mass index (BMI) revealed the greatest mean weight gain and highest incidence of clinically significant weight gain (>7% of body weight) in patients with low BMI (<23) compared to normal (23-27) or overweight patients (>27).
+During long-term therapy with ziprasidone, a categorization of patients at baseline on the basis of body mass index (BMI) revealed the greatest mean weight gain and highest incidence of clinically significant weight gain (>7% of body weight) in patients with low BMI (<23) compared to normal (23 to 27) or overweight patients (>27).
 There was a mean weight gain of 1.4 kg for those patients with a “low” baseline BMI, no mean change for patients with a “normal” BMI, and a 1.3 kg mean weight loss for patients who entered the program with a “high” BMI.
 
 ECG Changes -Ziprasidone is associated with an increase in the QTc interval [see Warnings and Precautions (5.2)].
@@ -107,13 +107,13 @@ Adverse reactions are further categorized by body system and listed in order of 
 
 Frequent -adverse reactions occurring in at least 1/100 patients (≥1.0% of patients) (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing);
 
-Infrequent -adverse reactions occurring in 1/100 to 1/1000 patients (in 0.1-1.0% of patients)
+Infrequent -adverse reactions occurring in 1/100 to 1/1000 patients (in 0.1 to 1.0% of patients)
 
 Rare – adverse reactions occurring in fewer than 1/1000 patients (<0.1% of patients).
 
 | Body as a Whole |  |  |
 | --- | --- | --- |
-| Frequent |  | abdominal pain, flu syndrome, fever, accidenal fall, face edema, chills, photosensitivity reaction, flank pain, hypothermia, motor vehicle accident |
+| Frequent |  | abdominal pain, flu syndrome, fever, accidental fall, face edema, chills, photosensitivity reaction, flank pain, hypothermia, motor vehicle accident |
 | Cardiovascular System |  |  |
 | Frequent |  | tachycardia, hypertension, postural hypotension |
 | Infrequent |  | bradycardia, angina pectoris, atrial fibrillation |
@@ -149,7 +149,7 @@ Rare – adverse reactions occurring in fewer than 1/1000 patients (<0.1% of pat
 | Infrequent |  | conjunctivitis, dry eyes, tinnitus, blepharitis, cataract, photophobia |
 | Rare |  | eye hemorrhage, visual field defect, keratitis, keratoconjunctivitis |
 | Urogenital System |  |  |
-| Infrequent |  | impotence, abnormal ejaculation, amenorrhea, hematuria, menorrhagia, female lactation, polyuria, urinary retention, metrorrhagia, male sexual dysfunction, anorgasmia, glycosuria |
+| Infrequent |  | impotence, abnormal ejaculation, amenorrhea, hematuria, menorrhagia, female lactation, polyuria, urinary retention metrorrhagia, male sexual dysfunction, anorgasmia, glycosuria |
 | Rare |  | gynecomastia, vaginal hemorrhage, nocturia, oliguria, female sexual dysfunction, uterine hemorrhage |
 
 ## 6.2 Postmarketing Experience

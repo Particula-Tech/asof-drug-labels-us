@@ -10,7 +10,7 @@ However, it has been proposed that this drug’s efficacy in schizophrenia is me
 Ziprasidone exhibited high in vitro binding affinity for the dopamine D2 and D3, the serotonin 5HT2A, 5HT2C, 5HT1A, 5HT1D, and α1-adrenergic receptors (Kis of 4.8, 7.2, 0.4, 1.3, 3.4, 2, and 10 nM, respectively), and moderate affinity for the histamine H1 receptor (Ki=47 nM).
 Ziprasidone functioned as an antagonist at the D2, 5HT2A, and 5HT1D receptors, and as an agonist at the 5HT1A receptor.
 Ziprasidone inhibited synaptic reuptake of serotonin and norepinephrine.
-No appreciable affinity was exhibited for other receptor/binding sites tested, including the cholinergic muscarinic receptor (IC50 >1 μM).
+No appreciable affinity was exhibited for other receptor/binding sites tested, including the cholinergic muscarinic receptor (IC50 >1 mcM).
 Antagonism at receptors other than dopamine and 5HT2 with similar receptor affinities may explain some of the other therapeutic and side effects of ziprasidone.
 Ziprasidone’s antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
 Ziprasidone’s antagonism of α1-adrenergic receptors may explain the orthostatic hypotension observed with this drug.
@@ -26,16 +26,22 @@ Steady-state concentrations are achieved within one to three days of dosing.
 The mean apparent systemic clearance is 7.5 mL/min/kg.
 Ziprasidone is unlikely to interfere with the metabolism of drugs metabolized by cytochrome P450 enzymes.
 
-Absorption: Ziprasidone is well absorbed after oral administration, reaching peak plasma concentrations in 6 to 8 hours.
+Absorption
+
+Ziprasidone is well absorbed after oral administration, reaching peak plasma concentrations in 6 to 8 hours.
 The absolute bioavailability of a 20 mg dose under fed conditions is approximately 60%.
 The absorption of ziprasidone is increased up to two-fold in the presence of food.
 
-Distribution: Ziprasidone has a mean apparent volume of distribution of 1.5 L/kg.
+Distribution
+
+Ziprasidone has a mean apparent volume of distribution of 1.5 L/kg.
 It is greater than 99% bound to plasma proteins, binding primarily to albumin and α1-acid glycoprotein.
 The in vitro plasma protein binding of ziprasidone was not altered by warfarin or propranolol, two highly protein-bound drugs, nor did ziprasidone alter the binding of these drugs in human plasma.
 Thus, the potential for drug interactions with ziprasidone due to displacement is minimal.
 
-Metabolism and Elimination: Ziprasidone is extensively metabolized after oral administration with only a small amount excreted in the urine (<1%) or feces (<4%) as unchanged drug.
+Metabolism and Elimination
+
+Ziprasidone is extensively metabolized after oral administration with only a small amount excreted in the urine (<1%) or feces (<4%) as unchanged drug.
 Ziprasidone is primarily cleared via three metabolic routes to yield four major circulating metabolites, benzisothiazole (BITP) sulphoxide, BITP-­sulphone, ziprasidone sulphoxide, and S-methyl-dihydroziprasidone.
 Approximately 20% of the dose is excreted in the urine, with approximately 66% being eliminated in the feces.
 Unchanged ziprasidone represents about 44% of total drug-related material in serum.

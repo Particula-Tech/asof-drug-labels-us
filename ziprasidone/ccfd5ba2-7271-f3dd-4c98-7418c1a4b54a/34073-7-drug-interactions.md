@@ -36,11 +36,11 @@ Other inhibitors of CYP3A4 would be expected to have similar effects.
 
 Cimetidine Cimetidine at a dose of 800 mg QD for 2 days did not affect ziprasidone pharmacokinetics.
 
-Antacid The co-administration of 30 mL of Maalox® (magnesium hydroxide, aluminium hydroxide and simethicone) with ziprasidone did not affect the pharmacokinetics of ziprasidone.
+Antacid The co-administration of 30 mL of Maalox® (magnesium hydroxide, aluminum hydroxide and simethicone) with ziprasidone did not affect the pharmacokinetics of ziprasidone.
 
 ## 7.5 Lithium
 
-Ziprasidone at a dose of 40 mg twice daily administered with lithium at a dose of 450 mg twice daily for 7 days did not affect the steady-state level or renal clearance of lithium.
+Ziprasidone at a dose of 40 mg twice daily administered concomitantly with lithium at a dose of 450 mg twice daily for 7 days did not affect the steady-state level or renal clearance of lithium.
 
 ## 7.6 Oral Contraceptives
 

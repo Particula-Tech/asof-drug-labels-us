@@ -16,12 +16,13 @@ The safety of doses above 100 mg twice daily has not been systematically evaluat
 
 Maintenance Treatment
 
-While there is no body of evidence available to answer the question of how long a patient treated with ziprasidone should remain on it, a maintenance study in patients who had been symptomatically stable and then randomized to continue ziprasidone or switch to placebo demonstrated a delay in time to relapse for patients receiving ziprasidone hydrochloride capsules.
-[see Clinical Studies (14.1)].
+While there is no body of evidence available to answer the question of how long a patient treated with ziprasidone should remain on it, a maintenance study in patients who had been symptomatically stable and then randomized to continue ziprasidone or switch to placebo demonstrated a delay in time to relapse for patients receiving ziprasidone hydrochloride capsules [see Clinical Studies (14.1)].
 No additional benefit was demonstrated for doses above 20 mg twice daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 ## 2.4 Dosing in Special Populations
 
-Oral: Dosage adjustments are generally not required on the basis of age, gender, race, or renal or hepatic impairment.
+Oral
+
+Dosage adjustments are generally not required on the basis of age, gender, race, or renal or hepatic impairment.
 Ziprasidone hydrochloride capsules are not approved for use in children or adolescents.

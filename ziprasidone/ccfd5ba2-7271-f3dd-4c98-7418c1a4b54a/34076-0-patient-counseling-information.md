@@ -21,34 +21,37 @@ Maalox® is a Registered Trademark of Novartis Consumer Health Inc.
 
 APOTEX INC. ZIPRASIDONE HYDROCHLORIDE CAPSULES 20 mg, 40 mg, 60 mg and 80 mg
 
-| Manufactured by: |  |  |  | Manufactured for: |
-| --- | --- | --- | --- | --- |
-| Apotex Inc. |  |  |  | Apotex Corp. |
-| Toronto, Ontario |  |  |  | Weston, Florida |
-| Canada M9L 1T9 |  |  |  | 33326 |
+Manufactured by: Manufactured for:
 
-Revised: December 2011
+Apotex Inc. Apotex Corp.
 
-Revision:5
+Toronto, Ontario Weston, Florida
+
+Canada M9L 1T9 33326
+
+Revised: April 2013
+
+Revision: 6
 
 ## 17.3 FDA-Approved Patient Labeling
 
-| PATIENT SUMMARY OF INFORMATION ABOUT Ziprasidone Hydrochloride Capsules |
-| --- |
+PATIENT SUMMARY OF INFORMATION ABOUT
 
-Information for patients taking ziprasidone hydrochloride capsulesor their caregivers
+Ziprasidone Hydrochloride Capsules
+
+Information for patients taking ziprasidone hydrochloride capsules or their caregivers
 
 This summary contains important information about ziprasidone hydrochloride capsules.
 It is not meant to take the place of your doctor’s instructions.
 Read this information carefully before you take ziprasidone hydrochloride capsules.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about ziprasidone hydrochloride capsules.
 
-What areZiprasidone Hydrochloride Capsules?
+What are ziprasidone hydrochloride capsules?
 
 Ziprasidone hydrochloride capsules are a type of prescription medicine called a psychotropic, also known as an atypical antipsychotic.
 Ziprasidone hydrochloride capsules can be used to treat symptoms of schizophrenia.
 
-Who Should TakeZiprasidone Hydrochloride Capsules?
+Who should take ziprasidone hydrochloride capsules?
 
 Only your doctor can know if ziprasidone hydrochloride capsules are right for you.
 Ziprasidone hydrochloride capsules may be prescribed for you if you have schizophrenia.
@@ -66,7 +69,7 @@ Do not stop taking the capsules even when you feel better without first discussi
 
 It is also important to remember that ziprasidone hydrochloride capsules should be taken with food.
 
-What is the most important safety information I should know aboutziprasidone hydrochloride capsules?
+What is the most important safety information I should know about ziprasidone hydrochloride capsules?
 
 Ziprasidone hydrochloride capsules are not approved for the treatment of patients with dementia-related psychosis.
 Elderly patients with a diagnosis of psychosis related to dementia treated with antipsychotics are at an increased risk of death when compared to patients who are treated with placebo (a sugar pill).
@@ -80,10 +83,10 @@ Your risk of dangerous changes in heart rhythm can be increased if you are takin
 Therefore, it is important to tell your doctor about any other medicines that you take, including non-prescription medicines, supplements, and herbal medicines.
 You must also tell your doctor about any heart problems you have or have had.
 
-Who should NOT takeZiprasidone Hydrochloride Capsules?
+Who should NOT take ziprasidone hydrochloride capsules?
 
 Elderly patients with a diagnosis of psychosis related to dementia.
-Ziprasidone hydrochloride capsules is not approved for the treatment of these patients.
+Ziprasidone hydrochloride capsules are not approved for the treatment of these patients.
 
 Anything that can increase the chance of a heart rhythm abnormality should be avoided.
 Therefore, do not take ziprasidone hydrochloride capsules if:
@@ -91,7 +94,7 @@ Therefore, do not take ziprasidone hydrochloride capsules if:
 - You have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor)
 - You are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
 
-What To Tell Your Doctor Before You Start Ziprasidone Hydrochloride Capsules
+What to tell your doctor before you start ziprasidone hydrochloride capsules
 
 Only your doctor can decide if ziprasidone hydrochloride capsules are right for you.
 Before you start ziprasidone hydrochloride capsules, be sure to tell your doctor if you:
@@ -116,7 +119,7 @@ Ziprasidone Hydrochloride Capsules And Other Medicines
 There are some medications that may be unsafe to use when taking ziprasidone hydrochloride capsules, and there are some medicines that can affect how well ziprasidone hydrochloride capsules works.
 While you are on ziprasidone hydrochloride capsules, check with your doctor before starting any new prescription or over-the-counter medications, including natural/herbal remedies.
 
-How To Take Ziprasidone Hydrochloride Capsules
+How to take ziprasidone hydrochloride capsules
 
 - Take ziprasidone hydrochloride capsules only as directed by your doctor.
 - Swallow the capsules whole.
@@ -152,7 +155,7 @@ Your doctor may want to check your blood to make sure that you have the right am
 
 For a list of all side effects that have been reported, ask your doctor or pharmacist for the ziprasidone hydrochloride capsules Professional Package Insert.
 
-What To Do For An Overdose
+What to do for an overdose
 
 In case of an overdose, call your doctor or poison control center right away or go to the nearest emergency room.
 
@@ -181,11 +184,11 @@ It is best to avoid consuming alcoholic beverages while taking ziprasidone hydro
 
 Call your doctor immediately if you take more than the amount of ziprasidone hydrochloride capsules prescribed by your doctor.
 
-Ziprasidone hydrochloride capsules has not been shown to be safe or effective in the treatment of children and teenagers under the age of 18 years old.
+Ziprasidone hydrochloride capsules have not been shown to be safe or effective in the treatment of children and teenagers under the age of 18 years old.
 
 Keep ziprasidone hydrochloride capsules and all medicines out of the reach of children.
 
-How To Store Ziprasidone Hydrochloride Capsules
+How to store ziprasidone hydrochloride capsules
 
 Store ziprasidone hydrochloride capsules at room temperature (59° to 86°F or 15° to 30°C).
 
@@ -197,12 +200,14 @@ If you have any questions or want more information about ziprasidone hydrochlori
 
 APOTEX INC. ZIPRASIDONE HYDROCHLORIDE CAPSULES 20 mg, 40 mg, 60 mg and 80 mg
 
-| Manufactured by: |  |  |  | Manufactured for: |
-| --- | --- | --- | --- | --- |
-| Apotex Inc. |  |  |  | Apotex Corp. |
-| Toronto, Ontario |  |  |  | Weston, Florida |
-| Canada M9L 1T9 |  |  |  | 33326 |
+Manufactured by: Manufactured for:
 
-Revised: December 2011
+Apotex Inc. Apotex Corp.
 
-Revision:5
+Toronto, Ontario Weston, Florida
+
+Canada M9L 1T9 33326
+
+Revised: April 2013
+
+Revision: 6
