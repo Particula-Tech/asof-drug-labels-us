@@ -1,13 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Lack of Interchangeability between Botulinum Toxin Products
+## 5.1 Spread of Toxin Effect
 
-The potency Units of XEOMIN are specific to the preparation and assay method utilized.
-They are not interchangeable with the other preparations of botulinum toxin products and, therefore, units of biological activity of XEOMIN cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
-
-## 5.2 Spread of Toxin Effect
-
-Post-marketing safety data from XEOMIN and other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
+Postmarketing safety data from XEOMIN and other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence, and breathing difficulties.
 These symptoms have been reported hours to weeks after injection.
 Swallowing and breathing difficulties can be life threatening and there have been reports of death related to the spread of toxin effects.
@@ -15,6 +10,11 @@ The risk of symptoms is probably greatest in children treated for spasticity but
 In unapproved uses, including spasticity in children and adults, and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia.
 
 Patients or caregivers should be advised to seek immediate medical care if swallowing, speech, or respiratory disorders occur.
+
+## 5.2 Lack of Interchangeability between Botulinum Toxin Products
+
+The potency Units of XEOMIN are specific to the preparation and assay method utilized.
+They are not interchangeable with the other preparations of botulinum toxin products and, therefore, Units of biological activity of XEOMIN cannot be compared to or converted into Units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
 ## 5.3 Hypersensitivity Reactions
 
@@ -26,7 +26,7 @@ If serious and/or immediate hypersensitivity reactions occur further injection o
 Treatment with XEOMIN and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
 In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing.
-When distant effects occur, additional respiratory muscles may be involved [See Warnings and Precautions (5.2)].
+When distant effects occur, additional respiratory muscles may be involved [See Warnings and Precautions (5.1)].
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin.
 Dysphagia may persist for several months, and require use of a feeding tube to maintain adequate nutrition and hydration.
@@ -40,7 +40,7 @@ Patients with smaller neck muscle mass and patients who require bilateral inject
 In general, limiting the dose injected into the sternocleidomastoid muscle may decrease the occurrence of dysphagia.
 
 Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
-These reactions can occur within hours to weeks after injection with botulinum toxin [See Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+These reactions can occur within hours to weeks after injection with botulinum toxin [See Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
 ## 5.5 Pre-existing Neuromuscular Disorders and other Special Populations
 
@@ -58,7 +58,16 @@ To prevent ectropion, botulinum toxin products should not be injected into the m
 Ecchymosis easily occurs in the soft tissues of the eyelid.
 Immediate gentle pressure at the injection site can limit that risk.
 
-## 5.7 Human Albumin and Transmission of Viral Diseases
+## 5.7 Risk of Ptosis in Patients Treated with XEOMIN for Glabellar Lines
+
+Do not exceed the recommended dosage and frequency of administration of XEOMIN.
+
+In order to reduce the complication of ptosis the following steps should be taken:
+
+- Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.
+- Corrugator injections should be placed at least 1 cm above the bony supraorbital ridge.
+
+## 5.8 Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
 Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.

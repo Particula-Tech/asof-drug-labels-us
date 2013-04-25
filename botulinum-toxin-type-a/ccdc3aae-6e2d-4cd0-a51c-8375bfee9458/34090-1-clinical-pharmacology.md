@@ -8,7 +8,6 @@ Impulse transmission is re-established by the formation of new nerve endings.
 
 ## 12.2 Pharmacodynamics
 
-In rodents it was shown that degree and duration of hindlimb muscle paralysis is dose-dependent.
 In patients, recovery from paralysis after intramuscular injection normally occurs within 3-4 months as nerve terminals sprout and reconnect with the muscle endplate.
 
 ## 12.3 Pharmacokinetics

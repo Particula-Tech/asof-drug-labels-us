@@ -1,12 +1,14 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions to XEOMIN are discussed in greater detail in other sections of the labeling.
+The following adverse reactions to XEOMIN are discussed in greater detail in other sections of the labeling:
 
-Hypersensitivity [see Contraindications (4)] Dysphagia and Breathing Difficulties in Treatment of cervical dystonia [see Warnings and Precautions (5.4)] Spread of Effects from Toxin [see Warnings and Precautions (5.2)]
+- Hypersensitivity [see Contraindications (4) and Warnings and Precautions (5.3)]
+- Dysphagia and Breathing Difficulties in Treatment of cervical dystonia [see Warnings and Precautions (5.4)]
+- Spread of Effects from Toxin [see Warnings and Precautions (5.1)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions and for various lengths of time, adverse event rates observed in the clinical trials of a drug cannot be directly compared with rates in other clinical trials of another drug, and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
 
 Cervical Dystonia
 
@@ -19,10 +21,9 @@ Common adverse events (≥5% in any XEOMIN treatment group) observed in patients
 
 Table 2: Most Common TEAEs (≥5%) and Greater than Placebo: Double-Blind Phase of Clinical Trial
 
-| Preferred Term | (N=77) | (N=82) | (N=74) |
+| System Organ Class Preferred Term | XEOMIN 120 Units (N=77) | XEOMIN 240 Units (N=82) | Placebo (N=74) |
 | --- | --- | --- | --- |
-|  | Double-Blind Phase |  |  |
-| System Organ Class | XEOMIN 120 Units | XEOMIN 240 Units | Placebo |
+|  |  | Double-Blind Phase |  |
 | Any TEAEs | 57% | 55% | 42% |
 | Musculoskeletal and connective tissue disorders | 23% | 32% | 11% |
 | Neck pain | 7% | 15% | 4% |
@@ -46,10 +47,9 @@ No serious adverse events occurred in patients who received XEOMIN; one placebo-
 
 Table 3: Most Common TEAEs (≥5%) and Greater than Placebo: Double-Blind Phase of Clinical Trial
 
-| Preferred Term | (N=74) | (N=34) |
+| System Organ Class Preferred Term | XEOMIN (N=74) | Placebo (N=34) |
 | --- | --- | --- |
 |  | Double-Blind Phase |  |
-| System Organ Class | XEOMIN | Placebo |
 | Subjects with TEAEs | 70% | 62% |
 | Eye disorders | 38% | 21% |
 | Eyelid ptosis | 19% | 9% |
@@ -67,21 +67,52 @@ Table 3: Most Common TEAEs (≥5%) and Greater than Placebo: Double-Blind Phase 
 | Respiratory, thoracic and mediastinal disorders | 11% | 3% |
 | Dyspnoea | 5% | 3% |
 
-## 6.2 Post-Marketing Experience
+Glabellar Lines
 
-The following adverse reactions have been reported during post-approval use with XEOMIN: eye swelling, eyelid edema, dysphagia, nausea, injection site pain, injection site reaction, allergic dermatitis, localized allergic reactions like swelling, edema, erythema, pruritus or rash, herpes zoster, muscular weakness, muscle spasm, dysarthria, myalgia and hypersensitivity.
+In three placebo-controlled trials in 803 subjects with glabellar lines, 535 subjects received a single dose of 20 Units XEOMIN and 268 subjects received placebo.
+XEOMIN treated subjects were 24 to 74 years old, and were predominantly female (88%).
+The most frequent adverse reactions in XEOMIN treated subjects were: headache 29 (5.4%), facial paresis 4 (0.7%), injection site hematoma 3 (0.6%) and eyelid edema 2 (0.4%).
+Four serious adverse events occurred in two placebo-treated subjects.
+Six XEOMIN treated subjects experienced six serious adverse events.
+All serious adverse events were assessed as unrelated to study drug.
 
-## 6.3 Immunogenicity
+The adverse reactions below reflect exposure to XEOMIN with glabellar lines in placebo-controlled studies.
+Adverse reactions are adverse events in which there is some basis to believe there is a causal relationship between the drug and the occurrence of the adverse event.
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Table 4: Adverse Reactions in Placebo-Controlled Trials
+
+| Adverse reactions | XEOMIN (N=535) (%) | Placebo (N=268) (%) |
+| --- | --- | --- |
+| Nervous system disorders | 33 (6.1) | 6 (2.2) |
+| Headache1 | 29 (5.4) | 6 (2.2) |
+| Facial paresis (brow ptosis) | 4 (0.7) | 0 |
+| General disorders and administration site conditions | 5 (0.9) | 2 (0.7) |
+| Injection site hematoma | 3 (0.6) | 0 |
+| Injection site pain | 1 (0.2) | 0 |
+| Facial pain | 1 (0.2) | 0 |
+| Injection site swelling | 0 | 1 (0.4) |
+| Sensation of pressure | 0 | 1 (0.4) |
+| Eye disorders | 5 (0.9) | 0 |
+| Eyelid edema | 2 (0.4) | 0 |
+| Blepharospasm | 1 (0.2) | 0 |
+| Eye disorder | 1(0.2) | 0 |
+| Eyelid ptosis | 1(0.2) | 0 |
+
+In open label, multiple dose trials, adverse reactions were reported for 105 of the 800 subjects (13.1%).
+Headache was the most common adverse reaction, reported for 57 subjects (7.1%), followed by injection site hematoma in 8 subjects (1.0%).
+Adverse reactions reported in less than 1% of subjects were: facial paresis (brow ptosis), muscle disorder (elevation of eyebrow), injection site pain, and eyelid edema.
+
+## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
-Neutralizing antibody titers were assessed in all clinical studies of XEOMIN, using the hemidiaphragm assay.
-In the XEOMIN development program, twelve of 1080 subjects (1.1%) who were antibody negative at baseline developed neutralizing antibodies to botulinum toxin during the course of their respective study.
-Each of these 12 subjects had been treated with another botulinum toxin prior to exposure to XEOMIN.
-Because the majority of patients had previously been exposed to other botulinum neurotoxins, and because most trials were of short duration with controlled intervals between treatments, the potential for antibody formation has not been fully characterized.
-The significance of these antibodies is unknown since in the presence of neutralizing antibodies some patients may continue to experience clinical benefit.
-A single subject with a twenty year history of cervical dystonia who was reported as botulinum toxin-naïve and treated with 240 Units of XEOMIN demonstrated transiently positive neutralizing antibodies which reverted to negative at study termination.
-This subject was determined to be a primary non-responder.
 
 The incidence of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 In addition, the observed incidence of antibody positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies across products in this class may be misleading.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been reported during post-approval use with XEOMIN.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: eye swelling, eyelid edema, dysphagia, nausea, flu-like symptoms, injection site pain, injection site reaction, allergic dermatitis, localized allergic reactions like swelling, edema, erythema, pruritus or rash, herpes zoster, muscular weakness, muscle spasm, dysarthria, myalgia and hypersensitivity.

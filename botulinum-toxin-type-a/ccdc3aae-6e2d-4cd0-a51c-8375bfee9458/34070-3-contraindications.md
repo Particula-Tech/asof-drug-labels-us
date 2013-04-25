@@ -3,7 +3,7 @@
 ## 4.1 Hypersensitivity
 
 Use in patients with a known hypersensitivity to the active substance botulinum neurotoxin type A, or to any of the excipients (human albumin, sucrose), could lead to a life-threatening allergic reaction.
-XEOMIN is contraindicated in patients with known hypersensitivity to any botulinum toxin preparation or to any of the components in the formulation [see Description (11)].
+XEOMIN is contraindicated in patients with known hypersensitivity to any botulinum toxin preparation or to any of the components in the formulation [see Warnings and Precautions (5.3) and Description (11)].
 
 ## 4.2 Infection at Injection Site
 

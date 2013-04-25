@@ -7,3 +7,7 @@ XEOMIN (incobotulinumtoxinA) is indicated for the treatment of adults with cervi
 ## 1.2 Blepharospasm
 
 XEOMIN (incobotulinumtoxinA) is indicated for the treatment of adults with blepharospasm who were previously treated with onabotulinumtoxinA (Botox).
+
+## 1.3 Glabellar Lines
+
+XEOMIN (incobotulinumtoxinA) is indicated for the temporary improvement in the appearance of moderate to severe glabellar lines associated with corrugator and/or procerus muscle activity in adult patients.

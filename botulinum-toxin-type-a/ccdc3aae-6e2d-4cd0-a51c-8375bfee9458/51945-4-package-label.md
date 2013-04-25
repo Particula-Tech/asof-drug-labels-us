@@ -10,10 +10,6 @@ For Intramuscular Use.
 Single-use vial; Discard unused portion.
 Usual dosage: see package insert.
 
-Lot:
-
-EXP:
-
 PRINCIPAL DISPLAY PANEL - 50 Units/Vial Carton
 
 Rx Only NDC 0259-1605-01
@@ -41,10 +37,6 @@ XEOMIN® for Injection
 For Intramuscular Use.
 Single-use vial; Discard unused portion.
 Usual dosage: see package insert.
-
-Lot:
-
-EXP:
 
 PRINCIPAL DISPLAY PANEL - 100 Units/Vial Carton
 

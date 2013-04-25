@@ -10,9 +10,9 @@ Patients were randomized (1:1:1) to receive a single administration of XEOMIN 24
 Each patient received a single administration of 4.8 mL of reconstituted study agent (XEOMIN 240 Units, XEOMIN 120 Units, or placebo).
 The investigator at each site decided which muscles would receive injections of the study agent, the number of injection sites, and the volume at each site.
 The muscles most frequently injected were the splenius capitis/semispinalis, trapezius, sternocleidomastoid, scalene, and levator scapulae muscles.
-Table 2 indicates the average XEOMIN dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trial.
+Table 5 indicates the average XEOMIN dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trial.
 
-Table 4: XEOMIN 120 Units Initial Dose (Units and % of the Total Dose) by Unilateral Muscle Injected During Double Blind Pivotal Phase 3 Study
+Table 5: XEOMIN 120 Units Initial Dose (Units and % of the Total Dose) by Unilateral Muscle Injected During Double Blind Pivotal Phase 3 Study
 
 |  | Number of Patients Injected Per Muscle | Median XEOMIN Units | 75th percentile XEOMIN Units |
 | --- | --- | --- | --- |
@@ -34,16 +34,17 @@ Three patients discontinued the study prematurely due to adverse events: two pat
 The primary efficacy endpoint was the change in the TWSTRS total score from baseline to Week 4 post-injection, in the intent-to-treat (ITT) population, with missing values replaced by the patient's baseline value.
 In the ITT population, the difference between the XEOMIN 240 Unit group and the placebo group in the change of the TWSTRS total score from baseline to Week 4 was -9.0 points, 95% confidence interval (CI) -12.0; -5.9 points; the difference between the XEOMIN 120 Unit group and the placebo group in the change of the TWSTRS total score from baseline to Week 4 was -7.5 points, 95% CI -10.4; -4.6 points.
 
-Figure 1 illustrates the cumulative percentage of patients from each of the three treatment groups who had attained the specified change in TWSTRS Score from baseline versus 4 weeks post-injection.
+Figure 2 illustrates the cumulative percentage of patients from each of the three treatment groups who had attained the specified change in TWSTRS Score from baseline versus 4 weeks post-injection.
 Three change scores have been identified for illustrative purposes, and the percent of patients in each group achieving that result is shown.
 
-Figure 1: Cumulative Percentage of Patients with Specified Changes from Baseline TWSTRS Total Score at Week 4
+| Figure 2: Cumulative Percentage of Patients with Specified Changes from Baseline TWSTRS Total Score at Week 4 |
+| --- |
 
 The curves demonstrate that both patients assigned to placebo and XEOMIN have a wide range of responses, but that the active treatment groups are more likely to show greater improvements.
 A curve for an effective treatment would be shifted to the left of the curve for placebo, while an ineffective or deleterious treatment would be superimposed upon or shifted to the right of the curve for placebo.
 
 Comparison of each XEOMIN group to the placebo group was statistically significant at p<0.001.
-Initial XEOMIN doses of 120 Units and 240 Units demonstrated no significant difference in effectiveness between the doses.
+Initial XEOMIN doses of 120 Units and 240 Units demonstrated no significant difference in effectiveness between the doses..
 The efficacy of XEOMIN was similar in patients who were botulinum toxin naïve and those who had received botulinum toxin prior to this study.
 
 Examination of age and gender subgroups did not identify differences in response to XEOMIN among these subgroups.
@@ -59,9 +60,9 @@ Patients were randomized (2:1) to receive a single administration of XEOMIN (n=7
 Each patient in the XEOMIN group received a XEOMIN treatment (dose, volume, dilution, and injection sites per muscle) that was similar to the most recent onabotulinumtoxinA injection sessions prior to study entry.
 The highest dose permitted in this study was 50 Units per eye; the mean XEOMIN dose was 33 Units per eye.
 
-In Table 5 the most frequently injected sites, the median dose per injection site, and the median number (and range) of injection sites per eye are presented.
+In Table 6 the most frequently injected sites, the median dose per injection site, and the median number (and range) of injection sites per eye are presented.
 
-Table 5: Median Dose and Median Number of Injection Sites per Eye (Blepharospasm)
+Table 6: Median Dose and Median Number of Injection Sites per Eye (Blepharospasm)
 
 | Injection Area | Median Units XEOMIN | Median Number of Injection Sites (Min-Max) |
 | --- | --- | --- |
@@ -82,7 +83,37 @@ The primary efficacy endpoint was the change in the JRS Severity subscore from b
 In the ITT population, the difference between the XEOMIN group and the placebo group in the change of the JRS Severity subscore from baseline to Week 6 was -1.0 (95% CI -1.4; -0.5) points.
 Comparison of the XEOMIN group to the placebo group was statistically significant at p<0.001.
 
-Figure 2: Frequency Distribution of Changes from Baseline JRS Severity Subscore at Week 6
+| Figure 3: Frequency Distribution of Changes from Baseline JRS Severity Subscore at Week 6 |
+| --- |
 
 Examination of age and gender subgroups did not identify substantial differences in response to XEOMIN among these subgroups.
 There were too few African-American patients to assess efficacy in that population.
+
+## 14.3 Glabellar Lines
+
+Two identically designed randomized, double-blind, multi-center, placebo controlled clinical trials (Studies GL-1 and GL-2) were conducted to evaluate XEOMIN for use in the temporary improvement of moderate to severe glabellar lines.
+The studies enrolled 547 healthy patients (≥18 years old) with glabellar lines of at least moderate severity at maximum frown.
+Three hundred sixty six subjects were treated with 20 U of XEOMIN and 181 subjects were treated with placebo.
+Subjects were excluded if they had marked ptosis, deep dermal scarring, or an inability to lessen glabellar lines, even by physically spreading them apart.
+The mean age of study subjects was 46 years.
+The majority of patients were female (86% and 93% in Studies GL-1 and GL-2, respectively), and predominantly Caucasian (89% and 65% respectively).
+The study subjects received either 20 U of XEOMIN or an equal amount of placebo.
+The total dose was delivered in 5 equally divided intramuscular injections of 4 Units each to specific sites (see Figure 1).
+Subjects were followed up for 120 days.
+
+Investigators and subjects assessed efficacy at maximum frown on Day 30 of treatment using a 4-point scale (0=none, 1=mild, 2=moderate, 3=severe).
+Composite treatment success was defined as a 2-grade improvement on this scale compared to baseline for both the investigator's and subject's assessments on Day 30.
+The percentage of subjects with treatment success was greater on the XEOMIN arm than the placebo arm at Day 30 in both studies (see Table 7).
+The percentage of subjects with composite treatment success at each visit are presented in Figure 4.
+
+Table 7: Treatment Success at Day 30 (at Least 2 Grades Improvement from Baseline at Maximum Frown)
+
+|  | XEOMIN (N=184) | Placebo (N=92) | XEOMIN (N=182) | Placebo (N=89) |
+| --- | --- | --- | --- | --- |
+|  | GL-1 |  | GL-2 |  |
+| Composite Treatment SuccessSuccess on both the Investigator and Subject Assessments | 111 (60%) | 0 (0%) | 87 (48%) | 0 (0%) |
+| Investigator Assessment | 141 (77%) | 0 (0%) | 129 (71%) | 0 (0%) |
+| Subject Assessment | 120 (65%) | 0 (0%) | 101 (55%) | 1 (1%) |
+
+| Figure 4: Percentage of Subjects with Composite Treatment Success by Visit – Observed Cases (GL-1 and GL-2) |
+| --- |

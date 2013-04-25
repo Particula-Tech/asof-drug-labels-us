@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 The potency Units of XEOMIN (incobotulinumtoxinA) for injection are specific to the preparation and assay method utilized.
-They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of XEOMIN cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.1) and Description (11)].
+They are not interchangeable with other preparations of botulinum toxin products and, therefore, Units of biological activity of XEOMIN cannot be compared to or converted into Units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.2) and Description (11)].
 
 ## 2.1 Cervical Dystonia
 
@@ -32,14 +32,24 @@ XEOMIN dosing has not been established in patients with blepharospasm who have n
 
 The frequency of XEOMIN repeat treatments should be determined by clinical response but should generally be no more frequent than every 12 weeks [see Clinical Studies (14.2)].
 
-## 2.3 Special Populations
+## 2.3 Glabellar Lines
 
-The safety and effectiveness of XEOMIN in the treatment of cervical dystonia and blepharospasm in patients below 18 years of age have not been assessed [see Warnings and Precautions (5.2)].
+The total recommended XEOMIN dose is 20 Units per treatment session divided into five equal intramuscular injections of 4 Units each.
+The five injection sites are: two injections in each corrugator muscle and one injection in the procerus muscle.
 
-## 2.4 Preparation and Dilution Technique
+Retreatment with XEOMIN should be administered no more frequently than every three months.
 
-Prior to injection, reconstitute each vial of XEOMIN with sterile, preservative-free 0.9% Sodium chloride Injection USP.
-Draw up an appropriate amount of 0.9% saline solution into a syringe (see Table 1).
+| Figure 1: Injection Sites for Glabellar Lines |
+| --- |
+
+## 2.4 Special Populations
+
+The safety and effectiveness of XEOMIN in the treatment of cervical dystonia, blepharospasm, and glabellar lines in patients below 18 years of age have not been assessed [see Warnings and Precautions (5.1)].
+
+## 2.5 Preparation and Reconstitution Technique
+
+Prior to injection, reconstitute each vial of XEOMIN with sterile, preservative-free 0.9% Sodium Chloride Injection, USP.
+Draw up an appropriate amount of preservative-free 0.9% Sodium Chloride Injection, USP into a syringe (see Table 1).
 Clean the exposed portion of the rubber stopper of the vial with alcohol (70%) prior to insertion of the needle.
 Gently inject the saline solution into the vial.
 If the vacuum does not pull the solvent into the vial, then XEOMIN must be discarded.
@@ -51,25 +61,25 @@ Diluent volumes for reconstitution of XEOMIN are indicated in Table 1.
 
 Table 1: Diluent Volumes for Reconstitution of XEOMIN
 
-| Volume of Preservative-free 0.9% Sodium Chloride | 50 Unit Vial: Resulting dose in units per 0.1 mL | 100 Unit Vial: Resulting dose in units per 0.1 mL |
+| Volume of Preservative-free 0.9% Sodium Chloride Injection, USP | 50 Unit Vial: Resulting dose in Units per 0.1 mL | 100 Unit Vial: Resulting dose in Units per 0.1 mL |
 | --- | --- | --- |
 | 0.25 mL | 20 Units | - |
 | 0.5 mL | 10 Units | 20 Units |
 | 1 mL | 5 Units | 10 Units |
+| 1.25 mL | 4 Units | 8 Units |
 | 2 mL | 2.5 Units | 5 Units |
+| 2.5 mL | 2 Units | 4 Units |
 | 4 mL | 1.25 Units | 2.5 Units |
+| 5 mL | 1 Unit | 2 Units |
 | 8 mL | - | 1.25 Units |
 
 Reconstituted XEOMIN solution should be administered within 24 hours after dilution.
-During this time period, reconstituted XEOMIN should be stored in a refrigerator 2-8°C (36-46°F) [see: HOW SUPPLIED/STORAGE AND HANDLING, Storage (16.2)].
+During this time period, reconstituted XEOMIN should be stored in a refrigerator 2-8°C (36-46°F) [see How Supplied/Storage and Handling (16.2)].
 
-## 2.5 Administration
+## 2.6 Administration
 
 Reconstituted XEOMIN is intended for intramuscular injection only.
 After reconstitution, XEOMIN should be used for only one injection session and for only one patient.
-A suitable sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for injections into deeper muscles) should be used for administration.
-
-Localization of the involved muscles with electromyographic guidance or nerve stimulation techniques may be useful.
 
 If proposed injection sites are marked with a pen, the product must not be injected through the pen marks; otherwise a permanent tattooing effect may occur.
 
@@ -78,7 +88,21 @@ The number of injection sites is dependent upon the size of the muscle to be tre
 XEOMIN should be injected carefully when injected at sites close to sensitive structures, such as the carotid artery, lung apices and esophagus.
 Before administering XEOMIN, the physician should be familiar with the patient's anatomy and any anatomic alterations, e.g., due to prior surgical procedures.
 
-## 2.6 Monitoring to Assess Effectiveness
+Cervical Dystonia
+
+A suitable sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for injections into deeper muscles) should be used in the administration in the treatment of cervical dystonia.
+
+Localization of the involved muscles with electromyographic guidance or nerve stimulation techniques may be useful.
+
+Blepharospasm
+
+A suitable sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for injections into deeper muscles) should be used in the administration in the treatment of blepharospasm.
+
+Glabellar Lines
+
+A suitable sterile needle 30-33 gauge (0.3-0.2 mm diameter), 13 mm length should be used in the administration in the treatment of glabellar lines.
+
+## 2.7 Monitoring to Assess Effectiveness
 
 The median first onset of XEOMIN effect occurs within seven days after injection.
 The typical duration of effect of each treatment is up to 3 months; however, the effect may last significantly longer, or shorter, in individual patients.
