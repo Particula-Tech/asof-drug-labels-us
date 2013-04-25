@@ -74,6 +74,8 @@ AVINZA® (morphine sulfate extended- release capsules)
 
 CII
 
+For use in opioid-tolerant patients only
+
 King Pharmaceuticals
 
 Rx Only 100 capsules
@@ -89,6 +91,8 @@ NDC 60793-608-01
 AVINZA® (morphine sulfate extended- release capsules)
 
 CII
+
+For use in opioid-tolerant patients only
 
 King Pharmaceuticals
 
