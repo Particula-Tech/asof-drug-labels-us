@@ -4,7 +4,7 @@
 
 No evidence of a tumorigenic effect was observed in a 24-month study in Sprague-Dawley rats receiving doses of finasteride up to 160 mg/kg/day in males and 320 mg/kg/day in females.
 These doses produced respective systemic exposure in rats of 111 and 274 times those observed in man receiving the recommended human dose of 5 mg/day.
-All exposure calculations were based on calculated AUC (0-24 hr) for animals and mean AUC (0-24 hr) for man (0.4 mcg•hr/mL).
+All exposure calculations were based on calculated AUC(0-24 hr) for animals and mean AUC(0-24 hr) for man (0.4 mcg•hr/mL).
 In a 19-month carcinogenicity study in CD-1 mice, a statistically significant (p≤0.05) increase in the incidence of testicular Leydig cell adenomas was observed at 228 times the human exposure (250 mg/kg/day).
 In mice at 23 times the human exposure, estimated (25 mg/kg/day) and in rats at 39 times the human exposure (40 mg/kg/day) an increase in the incidence of Leydig cell hyperplasia was observed.
 A positive correlation between the proliferative changes in the Leydig cells and an increase in serum LH levels (2- to 3-fold above control) has been demonstrated in both rodent species treated with high doses of finasteride.

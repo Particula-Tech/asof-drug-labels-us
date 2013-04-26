@@ -3,8 +3,8 @@
 ## 8.1 Pregnancy
 
 Pregnancy Category X. [See Contraindications (4).]
-Finasteride is contraindicated for use in women who are or may become pregnant.
-Finasteride is a Type II 5α-reductase inhibitor that prevents conversion of testosterone to 5α-dihydrotestosterone (DHT), a hormone necessary for normal development of male genitalia.
+Finasterideis contraindicated for use in women who are or may become pregnant.
+Finasterideis a Type II 5α-reductase inhibitor that prevents conversion of testosterone to 5α-dihydrotestosterone (DHT), a hormone necessary for normal development of male genitalia.
 In animal studies, finasteride caused abnormal development of external genitalia in male fetuses.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the male fetus.
 Abnormal male genital development is an expected consequence when conversion of testosterone to 5α-dihydrotestosterone (DHT) is inhibited by 5α-reductase inhibitors.
@@ -45,7 +45,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Of the total number of subjects included in a long-term efficacy and safety study, 1480 and 105 subjects were 65 and over and 75 and over, respectively.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-No dosage adjustment is necessary in the elderly [see Clinical Pharmacology (12.3) and Clinical Studies (14)] .
+No dosage adjustment is necessary in the elderly [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
 ## 8.6 Hepatic Impairment
 
@@ -53,4 +53,4 @@ Caution should be exercised in the administration of finasteride in those patien
 
 ## 8.7 Renal Impairment
 
-No dosage adjustment is necessary in patients with renal impairment [see Clinical Pharmacology (12.3)] .
+No dosage adjustment is necessary in patients with renal impairment [see Clinical Pharmacology (12.3)].

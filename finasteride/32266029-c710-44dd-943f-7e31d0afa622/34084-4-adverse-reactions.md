@@ -3,7 +3,7 @@
 ## 6.1 Clinical Trials Experience
 
 Finasteride is generally well tolerated; adverse reactions usually have been mild and transient.
-4-Year Placebo-Controlled Study ( A Long-Term Efficacy and Safety Study ) In a long-term efficacy and safety study, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
+4-Year Placebo-Controlled Study (A Long-Term Efficacy and Safety Study) In a long-term efficacy and safety study, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
 The most frequently reported adverse reactions were related to sexual function.
 3.7% (57 patients) treated with finasteride and 2.1% (32 patients) treated with placebo discontinued therapy as a result of adverse reactions related to sexual function, which are the most frequently reported adverse reactions.
 Table 1 presents the only clinical adverse reactions considered possibly, probably or definitely drug related by the investigator, for which the incidence on finasteride was ≥1% and greater than placebo over the 4 years of the study.
@@ -31,7 +31,7 @@ The individual adverse effects which occurred more frequently in the combination
 Of these, the incidence of abnormal ejaculation in patients receiving combination therapy was comparable to the sum of the incidences of this adverse experience reported for the two monotherapies.
 Combination therapy with finasteride and doxazosin was associated with no new clinical adverse experience.
 Four patients in MTOPS reported the adverse experience breast cancer.
-Three of these patients were on finasteride only and one was on combination therapy [see Long Term Data] .
+Three of these patients were on finasteride only and one was on combination therapy [see Long Term Data].
 The MTOPS Study was not specifically designed to make statistical comparisons between groups for reported adverse experiences.
 In addition, direct comparisons of safety data between the MTOPS study and previous studies of the single agents may not be appropriate based upon differences in patient population, dosage or dose regimen, and other procedural and study design elements.
 
@@ -63,9 +63,12 @@ New reports of drug-related sexual adverse experiences decreased with duration o
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse effects have been reported in postmarketing experience with finasteride and/or finasteride at lower doses.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: - hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face. - testicular pain. - erectile dysfunction (ED) that continued after discontinuation of treatment, reported rarely in men taking finasteride for the treatment of BPH.
-Most men were older and were taking concomitant medications and/or had co-morbid conditions with a known association to ED.
-The independent role of finasteride in these events is unknown. - male infertility and/or poor seminal quality have been reported rarely in men taking finasteride for the treatment of BPH.
-The independent role of finasteride in these events is unknown.
-Normalization or improvement of seminal quality has been reported after discontinuation of finasteride. - depression. - decreased libido that continued after discontinuation of treatment. - male breast cancer.
+The following additional adverse events have been reported in postmarketing experience with finasteride.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: - hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face. - testicular pain. - sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, decreased libido and ejaculation disorders (e.g., reduced ejaculate volume).
+These events were reported rarely in men taking finasteride for the treatment of BPH.
+Most men were older and were taking concomitant medications and/or had co-morbid conditions.
+The independent role of finasteride in these events is unknown. - male infertility and/or poor seminal quality were reported rarely in men taking finasteride for the treatment of BPH.
+Normalization or improvement of poor seminal quality has been reported after discontinuation of finasteride.
+The independent role of finasteride in these events is unknown. - depression. - male breast cancer.
+The following additional adverse event related to sexual dysfunction that continued after discontinuation of treatment has been reported in postmarketing experience with finasteride at lower doses used to treat male pattern baldness.
+Because the event is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate its frequency or establish a causal relationship to drug exposure: - orgasm disorders

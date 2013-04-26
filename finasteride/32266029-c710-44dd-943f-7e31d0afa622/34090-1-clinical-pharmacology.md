@@ -7,7 +7,7 @@ Type II 5α-reductase metabolizes testosterone to DHT in the prostate gland, liv
 DHT induces androgenic effects by binding to androgen receptors in the cell nuclei of these organs.
 Finasteride is a competitive and specific inhibitor of Type II 5α-reductase with which it slowly forms a stable enzyme complex.
 Turnover from this complex is extremely slow (t½ ~ 30 days).
-This has been demonstrated both in vivo and in vitro .
+This has been demonstrated both in vivo and in vitro.
 Finasteride has no affinity for the androgen receptor.
 In man, the 5α-reduced steroid metabolites in blood and urine are decreased after administration of finasteride.
 
@@ -44,13 +44,13 @@ Although steady state was not reached in this study, mean trough plasma concentr
 Finasteride has been shown to cross the blood brain barrier but does not appear to distribute preferentially to the CSF.
 In 2 studies of healthy subjects (n=69) receiving finasteride 5 mg/day for 6 to 24 weeks, finasteride concentrations in semen ranged from undetectable (<0.1 ng/mL) to 10.54 ng/mL.
 In an earlier study using a less sensitive assay, finasteride concentrations in the semen of 16 subjects receiving finasteride 5 mg/day ranged from undetectable (<1 ng/mL) to 21 ng/mL.
-Thus, based on a 5 mL ejaculate volume, the amount of finasteride in semen was estimated to be 50- to 100-fold less than the dose of finasteride (5 mcg) that had no effect on circulating DHT levels in men [see also Use in Specific Populations (8.1)] .
+Thus, based on a 5 mL ejaculate volume, the amount of finasteride in semen was estimated to be 50- to 100-fold less than the dose of finasteride (5 mcg) that had no effect on circulating DHT levels in men [see also Use in Specific Populations (8.1)].
 Metabolism Finasteride is extensively metabolized in the liver, primarily via the cytochrome P450 3A4 enzyme subfamily.
 Two metabolites, the t-butyl side chain monohydroxylated and monocarboxylic acid metabolites, have been identified that possess no more than 20% of the 5α-reductase inhibitory activity of finasteride.
 Excretion In healthy young subjects (n=15), mean plasma clearance of finasteride was 165 mL/min (range, 70 to ­279 mL/min) and mean elimination half-life in plasma was 6 hours (range, 3 to 16 hours).
-Following an oral dose of 14 C-finasteride in man (n=6), a mean of 39% (range, 32 to 46%) of the dose was excreted in the urine in the form of metabolites; 57% (range, 51 to 64%) was excreted in the feces.
+Following an oral dose of 14C-finasteride in man (n=6), a mean of 39% (range, 32 to 46%) of the dose was excreted in the urine in the form of metabolites; 57% (range, 51 to 64%) was excreted in the feces.
 The mean terminal half-life of finasteride in subjects ≥70 years of age was approximately 8 hours (range, 6 to 15 hours; n=12), compared with 6 hours (range, 4 to 12 hours; n=12) in subjects 45 to 60 years of age.
-As a result, mean AUC (0-24 hr) after 17 days of dosing was 15% higher in subjects ≥70 years of age than in subjects 45 to 60 years of age (p=0.02).
+As a result, mean AUC(0-24 hr) after 17 days of dosing was 15% higher in subjects ≥70 years of age than in subjects 45 to 60 years of age (p=0.02).
 
 Table 3: Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15)
 
@@ -64,7 +64,7 @@ Table 3: Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15)
 
 Pediatric Finasteride pharmacokinetics have not been investigated in patients <18 years of age.
 Finasteride is not indicated for use in pediatric patients [see Warnings and Precautions (5.4), Use in Specific Populations (8.4)].
-Gender Finasteride is not indicated for use in women [see Contraindications (4) , Warnings and Precautions (5.3 and 5.4), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)] .
+Gender Finasteride is not indicated for use in women [see Contraindications (4), Warnings and Precautions (5.3 and 5.4), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)].
 Geriatric No dosage adjustment is necessary in the elderly.
 Although the elimination rate of finasteride is decreased in the elderly, these findings are of no clinical significance.
 [See Clinical Pharmacology (12.3) and Use in Specific Populations (8.5).]
@@ -84,7 +84,7 @@ Race The effect of race on finasteride pharmacokinetics has not been studied.
 Hepatic Impairment The effect of hepatic impairment on finasteride pharmacokinetics has not been studied.
 Caution should be exercised in the administration of finasteride in those patients with liver function abnormalities, as finasteride is metabolized extensively in the liver.
 Renal Impairment No dosage adjustment is necessary in patients with renal impairment.
-In patients with chronic renal impairment, with creatinine clearances ranging from 9 to 55 mL/min, AUC, maximum plasma concentration, half-life, and protein binding after a single dose of 14 C-finasteride were similar to values obtained in healthy volunteers.
+In patients with chronic renal impairment, with creatinine clearances ranging from 9 to 55 mL/min, AUC, maximum plasma concentration, half-life, and protein binding after a single dose of 14C-finasteride were similar to values obtained in healthy volunteers.
 Urinary excretion of metabolites was decreased in patients with renal impairment.
 This decrease was associated with an increase in fecal excretion of metabolites.
 Plasma concentrations of metabolites were significantly higher in patients with renal impairment (based on a 60% increase in total radioactivity AUC).

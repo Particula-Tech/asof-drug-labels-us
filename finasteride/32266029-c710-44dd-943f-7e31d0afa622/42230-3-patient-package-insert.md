@@ -50,6 +50,7 @@ The following have been reported in general use with finasteride tablets and/or 
 - allergic reactions, including rash, itching, hives, and swelling of the lips and face
 - rarely, some men may have testicular pain
 - trouble getting or keeping an erection that continued after stopping the medication
+- problems with ejaculation that continued after stopping the medication
 - male infertility and/or poor quality of semen.
   Improvement in the quality of semen has been reported after stopping the medication
 - depression
@@ -87,7 +88,7 @@ Do not give your finasteride tablets to anyone else.
 It has been prescribed only for you.
 For more information call 1-866-850-2876.
 What are the ingredients in finasteride tablets?
-Active ingredient: finasteride Inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, pregelatinised starch, docusate sodium, magnesium stearate, hypromellose, hydroxypropyl cellulose, titanium dioxide, talc, iron oxide yellow, and FD&C Blue #2 aluminum lake.
+Active ingredient: finasteride Inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, pregelatinised starch (maize), docusate sodium, magnesium stearate, hypromellose, hydroxypropyl cellulose, titanium dioxide, talc, iron oxide yellow, and FD&C Blue #2 aluminum lake.
 What is BPH?
 BPH is an enlargement of the prostate gland.
 The prostate is located below the bladder.
@@ -111,4 +112,4 @@ However, since each case of BPH is different, you should know that:
 - You may need to take finasteride tablets for six (6) months or more to see whether it improves your symptoms.
 - Therapy with finasteride tablets may reduce the need for surgery for an enlarged prostate.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 05/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2013
