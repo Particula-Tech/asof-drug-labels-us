@@ -12,7 +12,7 @@ Suicidal thoughts or actions:
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
   - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when fluoxetine capsules is started or when the dose is changed.
+  - Pay particular attention to such changes when fluoxetine capsules are started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
@@ -30,7 +30,7 @@ Call your healthcare provider right away if you have any of the following sympto
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 Fluoxetine capsules may be associated with these serious side effects: 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -39,6 +39,10 @@ This condition can be life-threatening and may include:
 - sweating or fever
 - nausea, vomiting, or diarrhea
 - muscle rigidity
+- dizziness
+- flushing
+- tremor
+- seizures
 
 3.
 Severe allergic reactions:
@@ -48,9 +52,11 @@ Severe allergic reactions:
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 4.
-Abnormal bleeding: Fluoxetine capsules and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ® , Jantoven ® ), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Fluoxetine capsules and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 5.
-Seizures or convulsions 6.
+Seizures or convulsions
+
+6.
 Manic episodes:
 
 - greatly increased energy
@@ -99,9 +105,9 @@ Do not take fluoxetine capsules if you:
 - are allergic to fluoxetine hydrochloride or any of the ingredients in fluoxetine capsules.
   See the end of this Medication Guide for a complete list of ingredients in fluoxetine capsules.
 - take a Monoamine Oxidase Inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.
-- Do not take an MAOI within 5 weeks of stopping fluoxetine capsules.
-- Do not start fluoxetine capsules if you stopped taking an MAOI in the last 2 weeks.
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  - Do not take an MAOI within 5 weeks of stopping fluoxetine capsules unless directed to do so by your physician.
+  - Do not start fluoxetine capsules if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take fluoxetine capsules close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -123,10 +129,10 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
 
 - Are taking certain drugs or treatments such as:
   - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, MAOI’s (including linezolid, an antibiotic), or antipsychotics
-  - Tramadol
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
+  - Tramadol and fentanyl
   - Over-the-counter supplements such as tryptophan or St. John’s Wort
-  - Electroconvulsive therapy (ECT)
+- Electroconvulsive therapy (ECT)
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -139,7 +145,7 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
 - are pregnant or plan to become pregnant.
   It is not known if fluoxetine capsules will harm your unborn baby.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
-- are breastfeeding or plan to breastfeed.
+- are breast-feeding or plan to breast-feed.
   Some fluoxetine may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking fluoxetine capsules.
 
@@ -148,7 +154,7 @@ Fluoxetine capsules and some medicines may interact with each other, may not wor
 Your healthcare provider or pharmacist can tell you if it is safe to take fluoxetine capsules with your other medicines.
 Do not start or stop any medicine while taking fluoxetine capsules without talking to your healthcare provider first.
 
-## How should I take fluoxetine capsules?
+How should I take fluoxetine capsules?
 
 - Take fluoxetine capsules exactly as prescribed.
   Your healthcare provider may need to change the dose of fluoxetine capsules until it is the right dose for you.
@@ -223,9 +229,9 @@ Active ingredient: fluoxetine hydrochloride Inactive ingredients: pregelatinized
 In addition 40 mg also contains FD&C Yellow #6.
 The capsules are printed with edible ink containing black iron oxide and shellac.
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
-Mellaril ® is a registered trademark of Novartis AG Corporation.
-Orap ® is a registered trademark of Teva Pharmaceuticals USA.
-Coumadin ® is a registered trademark of Bristol Myers Squibb.
-Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. Zyprexa ® is a registered trademark of Eli Lilly and Company.
+Mellaril® is a registered trademark of Novartis AG Corporation.
+Orap® is a registered trademark of Teva Pharmaceuticals USA.
+Coumadin® is a registered trademark of Bristol Myers Squibb.
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Zyprexa® is a registered trademark of Eli Lilly and Company.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2013

@@ -29,7 +29,7 @@ In this short-term study, the lowest plasma concentration at which a seizure occ
 In a separate single-dose study, the ECG of dogs given high doses did not reveal prolongation of the PR, QRS, or QT intervals.
 Tachycardia and an increase in blood pressure were observed.
 Consequently, the value of the ECG in predicting cardiac toxicity is unknown.
-Nonetheless, the ECG should ordinarily be monitored in cases of human overdose [see Overdosage (10.3)] .
+Nonetheless, the ECG should ordinarily be monitored in cases of human overdose [see Overdosage (10.3)].
 
 ## 10.3 Management of Overdose
 
@@ -43,9 +43,9 @@ Activated charcoal should be administered.
 Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
 No specific antidotes for fluoxetine are known.
 A specific caution involves patients who are taking or have recently taken fluoxetine and might ingest excessive quantities of a TCA.
-In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation [see Drug Interactions (7.9)] .
+In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation [see Drug Interactions (7.7)].
 Based on experience in animals, which may not be relevant to humans, fluoxetine-induced seizures that fail to remit spontaneously may respond to diazepam.
 In managing overdosage, consider the possibility of multiple drug involvement.
 The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR) .
+Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
 For specific information about overdosage with olanzapine and fluoxetine in combination, refer to the Overdosage section of the Symbyax package insert.

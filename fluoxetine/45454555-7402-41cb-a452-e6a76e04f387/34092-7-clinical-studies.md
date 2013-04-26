@@ -4,7 +4,7 @@ When using fluoxetine and olanzapine in combination, also refer to the Clinical 
 
 ## 14.1 Major Depressive Disorder
 
-Daily Dosing Adult — The efficacy of fluoxetine was studied in 5- and 6-week placebo-controlled trials with depressed adult and geriatric outpatients (≥18 years of age) whose diagnoses corresponded most closely to the DSM-III (currently DSM-IV) category of Major Depressive Disorder . fluoxetine was shown to be significantly more effective than placebo as measured by the Hamilton Depression Rating Scale (HAM-D).
+Daily Dosing Adult — The efficacy of fluoxetine was studied in 5- and 6-week placebo-controlled trials with depressed adult and geriatric outpatients (≥18 years of age) whose diagnoses corresponded most closely to the DSM-III (currently DSM-IV) category of Major Depressive Disorder. fluoxetine was shown to be significantly more effective than placebo as measured by the Hamilton Depression Rating Scale (HAM-D).
 Fluoxetine was also significantly more effective than placebo on the HAM-D subscores for depressed mood, sleep disturbance, and the anxiety subfactor.
 Two 6-week controlled studies (N=671, randomized) comparing fluoxetine 20 mg and placebo have shown fluoxetine 20 mg daily to be effective in the treatment of elderly patients (≥60 years of age) with Major Depressive Disorder.
 In these studies, fluoxetine produced a significantly higher rate of response and remission as defined, respectively, by a 50% decrease in the HAM-D score and a total endpoint HAM-D score of ≤8.

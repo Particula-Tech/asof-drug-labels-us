@@ -7,7 +7,7 @@ Studies comparing fluoxetine 20, 40, and 60 mg/day to placebo indicate that 20 m
 Consequently, a dose of 20 mg/day, administered in the morning, is recommended as the initial dose.
 A dose increase may be considered after several weeks if insufficient clinical improvement is observed.
 Doses above 20 mg/day may be administered on a once-a-day (morning) or BID schedule (i.e., morning and noon) and should not exceed a maximum dose of 80 mg/day.
-Pediatric (children and adolescents) — In the short-term (8 to 9 week) controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Major Depressive Disorder, patients were administered fluoxetine doses of 10 to 20 mg/day [see Clinical Studies (14.1)] .
+Pediatric (children and adolescents) — In the short-term (8 to 9 week) controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Major Depressive Disorder, patients were administered fluoxetine doses of 10 to 20 mg/day [see Clinical Studies (14.1)].
 Treatment should be initiated with a dose of 10 or 20 mg/day.
 After 1 week at 10 mg/day, the dose should be increased to 20 mg/day.
 However, due to higher plasma levels in lower weight children, the starting and target dose in this group may be 10 mg/day.
@@ -15,14 +15,12 @@ A dose increase to 20 mg/day may be considered after several weeks if insufficie
 All patients — As with other drugs effective in the treatment of Major Depressive Disorder, the full effect may be delayed until 4 weeks of treatment or longer.
 Maintenance/Continuation/Extended Treatment — It is generally agreed that acute episodes of Major Depressive Disorder require several months or longer of sustained pharmacologic therapy.
 Whether the dose needed to induce remission is identical to the dose needed to maintain and/or sustain euthymia is unknown.
-Daily Dosing — Systematic evaluation of fluoxetine capsules in adult patients has shown that its efficacy in Major Depressive Disorder is maintained for periods of up to 38 weeks following 12 weeks of open-label acute treatment (50 weeks total) at a dose of 20 mg/day [see Clinical Studies (14.1)] .
-Switching Patients to a Tricyclic Antidepressant (TCA) — Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Drug Interactions (7.9) ] .
-Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) — At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with fluoxetine capsules.
-In addition, at least 5 weeks, perhaps longer, should be allowed after stopping fluoxetine capsules before starting an MAOI [see Contraindications (4) and Drug Interactions (7.1)] .
+Daily Dosing — Systematic evaluation of fluoxetine capsules in adult patients has shown that its efficacy in Major Depressive Disorder is maintained for periods of up to 38 weeks following 12 weeks of open-label acute treatment (50 weeks total) at a dose of 20 mg/day [see Clinical Studies (14.1)].
+Switching Patients to a Tricyclic Antidepressant (TCA) — Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Warnings and Precautions (5.2) and Drug Interactions (7.7)].
 
 ## 2.2 Obsessive Compulsive Disorder
 
-Initial Treatment Adult — In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fixed daily doses of 20, 40, or 60 mg of fluoxetine or placebo [see Clinical Studies (14.2)] .
+Initial Treatment Adult — In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fixed daily doses of 20, 40, or 60 mg of fluoxetine or placebo [see Clinical Studies (14.2)].
 In one of these studies, no dose-response relationship for effectiveness was demonstrated.
 Consequently, a dose of 20 mg/day, administered in the morning, is recommended as the initial dose.
 Since there was a suggestion of a possible dose-response relationship for effectiveness in the second study, a dose increase may be considered after several weeks if insufficient clinical improvement is observed.
@@ -30,7 +28,7 @@ The full therapeutic effect may be delayed until 5 weeks of treatment or longer.
 Doses above 20 mg/day may be administered on a once daily (i.e., morning) or BID schedule (i.e., morning and noon).
 A dose range of 20 to 60 mg/day is recommended; however, doses of up to 80 mg/day have been well tolerated in open studies of OCD.
 The maximum fluoxetine dose should not exceed 80 mg/day.
-Pediatric (children and adolescents) — In the controlled clinical trial of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.2)] .
+Pediatric (children and adolescents) — In the controlled clinical trial of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.2)].
 In adolescents and higher weight children, treatment should be initiated with a dose of 10 mg/day.
 After 2 weeks, the dose should be increased to 20 mg/day.
 Additional dose increases may be considered after several more weeks if insufficient clinical improvement is observed.
@@ -45,17 +43,17 @@ However, dosage adjustments should be made to maintain the patient on the lowest
 
 ## 2.3 Bulimia Nervosa
 
-Initial Treatment — In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Bulimia Nervosa, patients were administered fixed daily fluoxetine doses of 20 or 60 mg, or placebo [see Clinical Studies (14.3)] .
+Initial Treatment — In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Bulimia Nervosa, patients were administered fixed daily fluoxetine doses of 20 or 60 mg, or placebo [see Clinical Studies (14.3)].
 Only the 60 mg dose was statistically significantly superior to placebo in reducing the frequency of binge-eating and vomiting.
 Consequently, the recommended dose is 60 mg/day, administered in the morning.
 For some patients it may be advisable to titrate up to this target dose over several days.
 Fluoxetine doses above 60 mg/day have not been systematically studied in patients with bulimia.
-Maintenance/Continuation Treatment — Systematic evaluation of continuing fluoxetine capsules 60 mg/day for periods of up to 52 weeks in patients with bulimia who have responded while taking fluoxetine capsules 60 mg/day during an 8-week acute treatment phase has demonstrated a benefit of such maintenance treatment [see Clinical Studies (14.3)] .
+Maintenance/Continuation Treatment — Systematic evaluation of continuing fluoxetine capsules 60 mg/day for periods of up to 52 weeks in patients with bulimia who have responded while taking fluoxetine capsules 60 mg/day during an 8-week acute treatment phase has demonstrated a benefit of such maintenance treatment [see Clinical Studies (14.3)].
 Nevertheless, patients should be periodically reassessed to determine the need for maintenance treatment.
 
 ## 2.4 Panic Disorder
 
-Initial Treatment — In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Panic Disorder, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.4)] .
+Initial Treatment — In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Panic Disorder, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.4)].
 Treatment should be initiated with a dose of 10 mg/day.
 After one week, the dose should be increased to 20 mg/day.
 The most frequently administered dose in the 2 flexible-dose clinical trials was 20 mg/day.
@@ -66,7 +64,7 @@ Nevertheless, patients should be periodically reassessed to determine the need f
 
 ## 2.5 Fluoxetine Capsules and Olanzapine in Combination: Depressive Episodes Associated with Bipolar I Disorder
 
-When using fluoxetine capsules and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax .
+When using fluoxetine capsules and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 Fluoxetine should be administered in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 12.5 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
@@ -94,17 +92,35 @@ Fluoxetine capsules monotherapy is not indicated for the treatment of depressive
 
 ## 2.7 Dosing in Specific Populations
 
-Treatment of pregnant Women During the Third Trimester — When treating pregnant women with fluoxetine capsules during the third trimester, the physician should carefully consider the potential risks and potential benefits of treatment.
-Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-The physician may consider tapering fluoxetine capsules in the third trimester [see Use in Specific Populations (8.1)].
+Treatment of Pregnant Women — When treating pregnant women with fluoxetine capsules, the physician should carefully consider the potential risks and potential benefits of treatment.
+Neonates exposed to SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
+
 Geriatric — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)].
 Hepatic Impairment — As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
+
 Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.10)].
+
 Fluoxetine Capsules and Olanzapine in Combination — The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, non-smoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modifications may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-Fluoxetine capsules and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 18 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.9)] .
+Fluoxetine capsules and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 18 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.7)].
 
 ## 2.8 Discontinuation of Treatment
 
-Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.13) ].
+Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.13)].
+
+## 2.9 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with fluoxetine capsules.
+Conversely, at least 5 weeks should be allowed after stopping fluoxetine capsules before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
+
+## 2.10 Use of Fluoxetine Capsules with Other MAOIs such as Linezolid or Methylene Blue
+
+Do not start fluoxetine capsules in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].
+In some cases, a patient already receiving fluoxetine capsules therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, fluoxetine capsules should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for five weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with fluoxetine capsules may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with fluoxetine capsules is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

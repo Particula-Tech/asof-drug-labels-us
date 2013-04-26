@@ -20,11 +20,10 @@ Families and caregivers of patients should be advised to look for the emergence 
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Box Warning and Warnings and Precautions (5.1)].
 
-## 17.3 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+## 17.3 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome or NMS-like reactions with the concomitant use of fluoxetine and triptans, tramadol, or other serotonergic agents [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
-Patients should be advised of the signs and symptoms associated with serotonin syndrome or NMS-like reactions that may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, in which the symptoms may include hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
 
 ## 17.4 Allergic Reactions and Rash
@@ -35,7 +34,7 @@ Patients should be cautioned to seek medical care immediately if they experience
 
 ## 17.5 Abnormal Bleeding
 
-Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.6)].
+Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.4)].
 Patients should be advised to call their doctor if they experience any increased or unusual bruising or bleeding while taking fluoxetine.
 
 ## 17.6 Hyponatremia
@@ -57,18 +56,18 @@ Patients should also be advised to inform their physicians if they plan to disco
 ## 17.9 Discontinuation of Treatment
 
 Patients should be advised to take fluoxetine exactly as prescribed, and to continue taking fluoxetine as prescribed even after their symptoms improve.
-Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their physician [see Warnings and Precautions (5.13)] .
+Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their physician [see Warnings and Precautions (5.13)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with fluoxetine.
 
 ## 17.10 Use in Specific Populations
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
-Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1) ] .
+Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 Nursing Mothers — Patients should be advised to notify their physician if they intend to breastfeed an infant during therapy.
-Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is not recommended [see Use in Specific Populations (8.3)] .
-Pediatric Use — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1) ] .
+Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is not recommended [see Use in Specific Populations (8.3)].
+Pediatric Use — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine.
-Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 18 years of age have not been established [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)] .
-Symbyax ® and Sarafem ® are registered trademarks of Eli Lilly.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2011
+Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 18 years of age have not been established [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
+Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2013
