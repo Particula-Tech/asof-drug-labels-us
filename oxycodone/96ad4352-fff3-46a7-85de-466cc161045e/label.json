@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA202160"
+  ],
+  "inn": "oxycodone",
+  "labeler": "Aurolife Pharma LLC",
+  "package_ndcs": [
+    "13107-055-01",
+    "13107-055-30",
+    "13107-055-99",
+    "13107-056-01",
+    "13107-056-30",
+    "13107-056-99",
+    "13107-057-01",
+    "13107-057-30",
+    "13107-057-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxycodone hydrochloride",
+      "name": "Oxycodone Hydrochloride"
+    }
+  ],
+  "setid": "96ad4352-fff3-46a7-85de-466cc161045e",
+  "source": "dailymed"
+}
