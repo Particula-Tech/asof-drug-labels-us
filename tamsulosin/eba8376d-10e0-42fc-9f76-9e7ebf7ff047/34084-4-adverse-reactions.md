@@ -5,9 +5,9 @@
 There have been no clinical trials conducted with JALYN; however, the clinical efficacy and safety of coadministered dutasteride and tamsulosin, which are individual components of JALYN, have been evaluated in a multicenter, randomized, double-blind, parallel group trial (the Combination with Alpha-Blocker Therapy, or CombAT, trial).
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
-- The most common adverse reactions reported in subjects receiving coadministered dutasteride and tamsulosin were impotence, decreased libido, breast disorders (including breast enlargement and tenderness), ejaculation disorders, and dizziness.
+- •The most common adverse reactions reported in subjects receiving coadministered dutasteride and tamsulosin were impotence, decreased libido, breast disorders (including breast enlargement and tenderness), ejaculation disorders, and dizziness.
   Ejaculation disorders occurred significantly more in subjects receiving coadministration therapy (11%) compared with those receiving dutasteride (2%) or tamsulosin (4%) as monotherapy.
-- Trial withdrawal due to adverse reactions occurred in 6% of subjects receiving coadministered dutasteride and tamsulosin, and in 4% of subjects receiving dutasteride or tamsulosin as monotherapy.
+- •Trial withdrawal due to adverse reactions occurred in 6% of subjects receiving coadministered dutasteride and tamsulosin, and in 4% of subjects receiving dutasteride or tamsulosin as monotherapy.
   The most common adverse reaction in all treatment arms leading to trial withdrawal was erectile dysfunction (1% to 1.5%).
 
 In the CombAT trial, over 4,800 male subjects with BPH were randomly assigned to receive 0.5 mg dutasteride, 0.4 mg tamsulosin hydrochloride, or coadministration therapy (0.5 mg dutasteride and 0.4 mg tamsulosin hydrochloride) administered once daily in a 4-year double-blind trial.
@@ -110,7 +110,7 @@ Reproductive System and Breast Disorders:Testicular pain and testicular swelling
 
 Tamsulosin:
 
-Immune System Disorders: Hypersensitivity reactions, including rash, urticaria, pruritus, angioedema, and respiratory problems.
+Immune System Disorders: Hypersensitivity reactions, including rash, urticaria, pruritus, angioedema, and respiratory problems have been reported with positive rechallenge in some cases.
 
 Cardiac Disorders: Palpitations, dyspnea, atrial fibrillation, arrhythmia, and tachycardia.
 

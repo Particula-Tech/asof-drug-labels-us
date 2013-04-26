@@ -68,11 +68,16 @@ The purpose of this deferred period is to prevent administration of dutasteride 
 
 ## 5.9 Intraoperative Floppy Iris Syndrome
 
-Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients treated with alpha adrenergic antagonists, including tamsulosin, which is a component of JALYN.
-Most reports were in patients taking the alpha adrenergic antagonist when IFIS occurred, but in some cases, the alpha adrenergic antagonist had been stopped prior to surgery (2 days to 9 months).
-Advise patients considering cataract surgery to tell their ophthalmologist that they take or have taken JALYN Capsules.
-The patient’s ophthalmologist should be prepared for possible modification to their surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients on or previously treated with alpha adrenergic antagonists, including tamsulosin, which is a component of JALYN.
+
+Most reports were in patients taking the alpha adrenergic antagonist when IFIS occurred, but in some cases, the alpha adrenergic antagonist had been stopped prior to surgery.
+In most of these cases, the alpha adrenergic antagonist had been stopped recently prior to surgery (2 to 14 days), but in a few cases, IFIS was reported after the patients had been off the alpha adrenergic antagonist for a longer period (5 weeks to 9 months).
+IFIS is a variant of small pupil syndrome and is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
+The patient’s ophthalmologist should be prepared for possible modifications to their surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
+
+IFIS may increase the risk of eye complications during and after the operation.
 The benefit of stopping alpha adrenergic antagonist therapy prior to cataract surgery has not been established.
+The initiation of therapy with tamsulosin in patients for whom cataract surgery is scheduled is not recommended.
 
 ## 5.10 Sulfa Allergy
 

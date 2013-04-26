@@ -3,9 +3,9 @@
 JALYN (dutasteride and tamsulosin hydrochloride) Capsules contain dutasteride (a selective inhibitor of both the type 1 and type 2 isoforms of steroid 5 alpha-reductase, an intracellular enzyme that converts testosterone to DHT and tamsulosin (an antagonist of alpha1A-adrenoceptors in the prostate).
 Each JALYN Capsule contains the following:
 
-- One dutasteride oblong, opaque, dull-yellow soft gelatin capsule, containing 0.5 mg of dutasteride dissolved in a mixture of butylated hydroxytoluene and mono-di-glycerides of caprylic/capric acid.
+- •One dutasteride oblong, opaque, dull-yellow soft gelatin capsule, containing 0.5 mg of dutasteride dissolved in a mixture of butylated hydroxytoluene and mono-di-glycerides of caprylic/capric acid.
   The inactive ingredients in the soft-gelatin capsule shell are ferric oxide (yellow), gelatin (from certified BSE-free bovine sources), glycerin, and titanium dioxide.
-- Tamsulosin hydrochloride white to off-white pellets, containing 0.4 mg tamsulosin hydrochloride and the inactive ingredients: methacrylic acid copolymer dispersion, microcrystalline cellulose, talc, and triethyl citrate.
+- •Tamsulosin hydrochloride white to off-white pellets, containing 0.4 mg tamsulosin hydrochloride and the inactive ingredients: methacrylic acid copolymer dispersion, microcrystalline cellulose, talc, and triethyl citrate.
 
 The above components are encapsulated in a hard-shell capsule made with the inactive ingredients of carrageenan, FD&C yellow 6, hypromellose, iron oxide red, potassium chloride, titanium dioxide, and imprinted with “GS 7CZ” in black ink.
 

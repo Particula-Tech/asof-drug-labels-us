@@ -21,27 +21,27 @@ Who should not take JALYN?
 
 Do Not Take JALYN if you are:
 
-- pregnant or could become pregnant.
+- •pregnant or could become pregnant.
   JALYN may harm your unborn baby.
   Pregnant women should not touch JALYN Capsules.
   If a woman who is pregnant with a male baby gets enough JALYN in her body by swallowing or touching JALYN, the male baby may be born with sex organs that are not normal.
   If a pregnant woman or woman of childbearing potential comes in contact with leaking JALYN Capsules, the contact area should be washed immediately with soap and water.
-- a child or teenager.
-- allergic to dutasteride, tamsulosin, or any of the ingredients in JALYN.
+- •a child or teenager.
+- •allergic to dutasteride, tamsulosin, or any of the ingredients in JALYN.
   See the end of this leaflet for a complete list of ingredients in JALYN.
-- taking another medicine that contains an alpha-blocker.
-- allergic to other 5 alpha-reductase inhibitors, for example, PROSCAR® (finasteride) Tablets.
+- •taking another medicine that contains an alpha-blocker.
+- •allergic to other 5 alpha-reductase inhibitors, for example, PROSCAR® (finasteride) Tablets.
 
 What should I tell my healthcare provider before taking JALYN?
 
 Before you take JALYN, tell your healthcare provider if you:
 
-- have a history of low blood pressure
-- take medicines to treat high blood pressure
-- plan to have cataract surgery
-- have liver problems
-- are allergic to sulfa medications
-- have any other medical conditions
+- •have a history of low blood pressure
+- •take medicines to treat high blood pressure
+- •plan to have cataract surgery
+- •have liver problems
+- •are allergic to sulfa medications
+- •have any other medical conditions
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 JALYN and other medicines may affect each other, causing side effects.
@@ -52,58 +52,59 @@ Keep a list of them to show your healthcare provider and pharmacist when you get
 
 How should I take JALYN?
 
-- Take JALYN exactly as your healthcare provider tells you to take it.
-- Swallow JALYN Capsules whole.
+- •Take JALYN exactly as your healthcare provider tells you to take it.
+- •Swallow JALYN Capsules whole.
   Do not crush, chew, or open JALYN Capsules because the contents of the capsule may irritate your lips, mouth, or throat.
-- Take your JALYN 1 time each day, about 30 minutes after the same meal every day.
+- •Take your JALYN 1 time each day, about 30 minutes after the same meal every day.
   For example, you may take JALYN 30 minutes after dinner every day.
-- If you miss a dose, you can take it later that same day, 30 minutes after a meal.
+- •If you miss a dose, you can take it later that same day, 30 minutes after a meal.
   Do not take 2 JALYN capsules in the same day.
   If you stop or forget to take JALYN for several days, talk with your healthcare provider before starting again.
-- If you take too much JALYN, call your healthcare provider or go to the nearest hospital emergency room right away.
+- •If you take too much JALYN, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking JALYN?
 
-- Avoid driving, operating machinery, or other dangerous activities when starting treatment with JALYN until you know how JALYN affects you.
+- •Avoid driving, operating machinery, or other dangerous activities when starting treatment with JALYN until you know how JALYN affects you.
   JALYN can cause a sudden drop in your blood pressure, especially at the start of treatment.
   A sudden drop in blood pressure may cause you to faint, feel dizzy or lightheaded.
-- You should not donate blood while taking JALYN or for 6 months after you have stopped JALYN.
+- •You should not donate blood while taking JALYN or for 6 months after you have stopped JALYN.
   This is important to prevent pregnant women from receiving JALYN through blood transfusions.
 
 What are the possible side effects of JALYN?
 
 JALYN may cause serious side effects, including:
 
-- Decreased blood pressure.
+- •Decreased blood pressure.
   JALYN may cause a sudden drop in your blood pressure upon standing from a sitting or lying position, especially at the start of treatment.
   Symptoms of low blood pressure may include:
-- fainting
-- dizziness
-- feeling lightheaded
-- Rare and serious allergic reactions, including:
-- swelling of your face, tongue, or throat
-- serious skin reactions, such as skin peeling
+- •fainting
+- •dizziness
+- •feeling lightheaded
+- •Rare and serious allergic reactions, including:
+- •swelling of your face, tongue, or throat
+- •difficulty breathing
+- •serious skin reactions, such as skin peeling
 
 Get medical help right away if you have these serious allergic reactions.
 
-- Higher chance of a more serious form of prostate cancer.
-- Eye problems during cataract surgery.
+- •Higher chance of a more serious form of prostate cancer.
+- •Eye problems during cataract surgery.
   During cataract surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken JALYN in the past.
   If you need to have cataract surgery, tell your surgeon if you take or have taken JALYN.
-- A painful erection that will not go away.
+- •A painful erection that will not go away.
   Rarely, JALYN can cause a painful erection (priapism), which cannot be relieved by having sex.
   If this happens, get medical help right away.
   If priapism is not treated, there could be lasting damage to your penis, including not being able to have an erection.
 
 The most common side effects of JALYN include:
 
-- ejaculation problems*
-- trouble getting or keeping an erection (impotence)*
-- a decrease in sex drive (libido)*
-- dizziness
-- enlarged or painful breasts.
+- •ejaculation problems*
+- •trouble getting or keeping an erection (impotence)*
+- •a decrease in sex drive (libido)*
+- •dizziness
+- •enlarged or painful breasts.
   If you notice breast lumps or nipple discharge, you should talk to your healthcare provider.
-- runny nose
+- •runny nose
 
 *Some of these events may continue after you stop taking JALYN.
 
@@ -128,10 +129,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store JALYN?
 
-- Store JALYN Capsules at room temperature (59° to 86°F or 15° to 30°C).
-- JALYN Capsules may become deformed and/or discolored if kept at high temperatures.
-- Do not use or touch JALYN if your capsules are deformed, discolored, or leaking.
-- Safely throw away medicine that is no longer needed.
+- •Store JALYN Capsules at room temperature (59° to 86°F or 15° to 30°C).
+- •JALYN Capsules may become deformed and/or discolored if kept at high temperatures.
+- •Do not use or touch JALYN if your capsules are deformed, discolored, or leaking.
+- •Safely throw away medicine that is no longer needed.
 
 Keep JALYN and all medicines out of the reach of children.
 
@@ -180,9 +181,9 @@ D-59320 Ennigerloh, Germany
 
 Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2012, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-October 2012
+April 2013
 
-JLN:5PIL
+JLN:6PIL
