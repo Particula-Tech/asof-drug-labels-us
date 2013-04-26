@@ -1,10 +1,10 @@
-# DOSAGE AND ADMINISTRATION - ADULTS
+# DOSAGE AND ADMINISTRATION
 
 Adults Ciprofloxacin tablets should be administered orally to adults as described in the Dosage Guidelines table.
 The determination of dosage for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative organism, the integrity of the patient’s host-defense mechanisms, and the status of renal function and hepatic function.
 The duration of treatment depends upon the severity of infection.
 The usual duration is 7 to 14 days; however, for severe and complicated infections more prolonged therapy may be required.
-Ciprofloxacin should be administered at least 2 hours before or 6 hours after magnesium/aluminum antacids, polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate, Videx ® (didanosine) chewable/buffered tablets or pediatric powder for oral solution, other highly buffered drugs, or other products containing calcium, iron or zinc.
+Ciprofloxacin should be administered at least 2 hours before or 6 hours after magnesium/aluminum antacids, polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate, Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution, other highly buffered drugs, or other products containing calcium, iron or zinc.
 
 ADULT DOSAGE GUIDELINES
 
@@ -26,7 +26,7 @@ ADULT DOSAGE GUIDELINES
 | Typhoid Fever | Mild/Moderate | 500 mg | q 12 h | 10 days |
 | Urethral and Cervical Gonococcal Infections | Uncomplicated | 250 mg | single dose | single dose |
 | Inhalational anthrax (post-exposure)** |  | 500 mg | q 12 h | 60 days |
-| * Used in conjunction with metronidazole † Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). ** Drug administration should begin as soon as possible after suspected or confirmed exposure. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax – Additional Information. |  |  |  |  |
+| * Used in conjunction with metronidazole † Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). ** Drug administration should begin as soon as possible after suspected or confirmed exposure. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.6 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax, Additional Information. |  |  |  |  |
 
 Conversion of IV to Oral Dosing in Adults Patients whose therapy is started with ciprofloxacin IV may be switched to ciprofloxacin tablets when clinically indicated at the discretion of the physician (See CLINICAL PHARMACOLOGY and table below for the equivalent dosing regimens).
 
@@ -53,14 +53,21 @@ RECOMMENDED STARTING AND MAINTENANCE DOSES FOR PATIENTS WITH IMPAIRED RENAL FUNC
 | Patients on hemodialysis or Peritoneal dialysis | 250 – 500 mg q 24 h (after dialysis) |
 
 When only the serum creatinine concentration is known, the following formula may be used to estimate creatinine clearance.
-Weight (kg) x (140 - age) Men: Creatinine clearance (mL/min) = 72 x serum creatinine (mg/dL) Women: 0.85 x the value calculated for men.
+
+Weight (kg) x (140 - age)
+
+Men: Creatinine clearance (mL/min) = ---------------------------------------
+
+72 x serum creatinine (mg/dL)
+
+Women: 0.85 x the value calculated for men.
 The serum creatinine should represent a steady state of renal function.
 In patients with severe infections and severe renal impairment, a unit dose of 750 mg may be administered at the intervals noted above.
 Patients should be carefully monitored.
 Pediatrics Ciprofloxacin tablets should be administered orally as described in the Dosage Guidelines table.
 An increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues, has been observed.
-(See ADVERSE REACTIONS and CLINICAL STUDIES .)
-Dosing and initial route of therapy (i.e., IV or oral) for complicated urinary tract infection or pyelonephritis should be determined by the severity of the infection.
+(See ADVERSE REACTIONS and CLINICAL STUDIES.)
+Dosing and initial route of therapy (that is, IV or oral) for complicated urinary tract infection or pyelonephritis should be determined by the severity of the infection.
 In the clinical trial, pediatric patients with moderate to severe infection were initiated on 6 to 10 mg/kg IV every 8 hours and allowed to switch to oral therapy (10 to 20 mg/kg every 12 hours), at the discretion of the physician.
 
 | Infection | Route of Administration | Dose (mg/kg) | Frequency | Total Duration |
@@ -70,7 +77,7 @@ In the clinical trial, pediatric patients with moderate to severe infection were
 | (patients from 1 to 17 years of age) | Oral | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 12 hours |  |
 | Inhalational Anthrax (Post-Exposure)** | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
 | Oral | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours |  |  |
-| * The total duration of therapy for complicated urinary tract infection and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). ** Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax – Additional Information. |  |  |  |  |
+| * The total duration of therapy for complicated urinary tract infection and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). ** Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.6 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax in Adults and Pediatrics, Additional Information. |  |  |  |  |
 
 Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of complicated urinary tract infection and pyelonephritis.
-No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (i.e., creatinine clearance of < 50 mL/min/1.73m2).
+No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (that is, creatinine clearance of < 50 mL/min/1.73m2).

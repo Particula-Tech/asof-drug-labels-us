@@ -17,7 +17,7 @@ The serum elimi­nation half-life in subjects with normal renal function is appr
 Serum concentrations increase proportionately with doses up to 1000 mg.
 A 500 mg oral dose given every 12 hours has been shown to produce an area under the serum concentration time curve (AUC) equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
-A 750 mg oral dose results in a C max similar to that observed with a 400 mg IV dose.
+A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg IV dose.
 A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours.
 
 Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV Doses
@@ -38,14 +38,14 @@ Low levels of the drug have been detected in the aqueous and vitreous humors of 
 Metabolism Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (see CONTRAINDICATIONS, WARNINGS, PRECAUTIONS, Drug Interactions ).
+Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (see CONTRAINDICATIONS, WARNINGS, PRECAUTIONS, Drug Interactions).
 Excretion The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
 Approximately 40 to 50% of an orally administered dose is excreted in the urine as unchanged drug.
 After a 250 mg oral dose, urine concentrations of ciprofloxacin usually exceed 200 mcg/mL during the first two hours and are approximately 30 mcg/mL at 8 to 12 hours after dosing.
 The urinary excretion of ciprofloxacin is virtually complete within 24 hours after dosing.
 The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exceeds the normal glomerular filtration rate of 120 mL/minute.
 Thus, active tubular secretion would seem to play a significant role in its elimination.
-Coadministration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
+Co-administration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
 Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after oral dosing, only a small amount of the dose administered is recovered from the bile as unchanged drug.
 An additional 1 to 2% of the dose is recovered from the bile in the form of metabolites.
 Approximately 20 to 35% of an oral dose is recovered from the feces within 5 days after dosing.
@@ -55,25 +55,25 @@ A 10 mL volume of the 5% ciprofloxacin suspension (containing 250 mg ciprofloxac
 Drug-Drug Interactions When ciprofloxacin tablet is given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
 The overall absorption of ciprofloxacin tablet, however, is not substantially affected.
 Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90%.
-(See PRECAUTIONS .)
+(See PRECAUTIONS.)
 The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly.
-Concomitant administration with tizanidine is contraindicated (See CONTRAINDICATIONS ).
+Concomitant administration with tizanidine is contraindicated (see CONTRAINDICATIONS).
 Concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions.
 Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration.
-(See WARNINGS: PRECAUTIONS .)
+(See WARNINGS: PRECAUTIONS.)
 Special Populations Pharmacokinetic studies of the oral (single dose) and intravenous (single and multiple dose) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (> 65 years) as compared to young adults.
-Although the C max is increased 16 to 40%, the increase in mean AUC is approximately 30%, and can be at least partially attributed to decreased renal clearance in the elderly.
+Although the Cmax is increased 16 to 40%, the increase in mean AUC is approximately 30%, and can be at least partially attributed to decreased renal clearance in the elderly.
 Elimination half-life is only slightly (~20%) prolonged in the elderly.
 These differences are not considered clinically significant.
-(See PRECAUTIONS: Geriatric Use .)
-Renal Impaiment In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
+(See PRECAUTIONS: Geriatric Use.)
+Patients with Renal Impairment In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
 Dosage adjustments may be required.
-(See DOSAGE AND ADMINISTRATION .)
-Hepatic Impairment In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
+(See DOSAGE AND ADMINISTRATION.)
+Patients with Hepatic Impairment In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
 The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, however, have not been fully elucidated.
-Pediatrics Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean C max was 2.4 mcg/mL (range: 1.5 to 3.4 mcg/mL) and the mean AUC was 9.2 mcg*h/mL (range: 5.8 to 14.9 mcg*h/mL).
-There was no apparent age-dependence, and no notable increase in C max or AUC upon multiple dosing (10 mg/kg TID).
-In children with severe sepsis who were given intravenous ciprofloxacin (10 mg/kg as a 1-hour infusion), the mean C max was 6.1 mcg/mL (range: 4.6 to 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 to 11.8 mcg/mL) in 10 children between 1 and 5 years of age.
+Pediatrics Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 mcg/mL (range: 1.5 to 3.4 mcg/mL) and the mean AUC was 9.2 mcg*h/mL (range: 5.8 to 14.9 mcg*h/mL).
+There was no apparent age-dependence, and no notable increase in Cmax or AUC upon multiple dosing (10 mg/kg TID).
+In children with severe sepsis who were given intravenous ciprofloxacin (10 mg/kg as a 1-hour infusion), the mean Cmax was 6.1 mcg/mL (range: 4.6 to 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 to 11.8 mcg/mL) in 10 children between 1 and 5 years of age.
 The AUC values were 17.4 mcg*h/mL (range: 11.8 to 32 mcg*h/mL) and 16.5 mcg*h/mL (range: 11 to 23.8 mcg*h/mL) in the respective age groups.
 These values are within the range reported for adults at therapeutic doses.
 Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 to 5 hours, and the bioavailability of the oral suspension is approximately 60%.
@@ -81,69 +81,34 @@ MICROBIOLOGY Mechanism of Action The bactericidal action of ciprofloxacin result
 Mechanism of Resistance The mechanism of action of fluoroquinolones, including ciprofloxacin, is different from that of penicillins, cephalosporins, aminoglycosides, macrolides, and tetracyclines; therefore, microorganisms resistant to these classes of drugs may be susceptible to ciprofloxacin.
 Resistance to fluoroquinolones occurs primarily by either mutations in the DNA gyrases, decreased outer membrane permeability, or drug efflux.
 In vitro resistance to ciprofloxacin develops slowly by multiple step mutations.
-Resistance to ciprofloxacin due to spontaneous mutations occurs at a general frequency of between < 10 -9 to 1x10 -6 .
+Resistance to ciprofloxacin due to spontaneous mutations occurs at a general frequency of between < 10-9 to 1x10-6.
 Cross Resistance There is no known cross-resistance between ciprofloxacin and other classes of antimicrobials.
+
 Ciprofloxacin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert for ciprofloxacin tablets.
-Gram-positive bacteria Enterococcus faecalis Staphylococcus aureus Staphylococcus epidermidis Staphylococcus saprophyticus Streptococcus pneumoniae Streptococcus pyogenes Gram-negative bacteria Campylobacter jejuni Proteus mirabilis Citrobacter diversus Proteus vulgaris Citrobacter freundii Providencia rettgeri Enterobacter cloacae Providencia stuartii Escherichia coli Pseudomonas aeruginosa Haemophilus influenzae Salmonella typhi Haemophilus parainfluenzae Serratia marcescens Klebsiella pneumoniae Shigella boydii Moraxella catarrhalis Shigella dysenteriae Morganella morganii Shigella flexneri Neisseria gonorrhoeae Shigella sonnei Ciprofloxacin has been shown to be active against Bacillus anthracis both in vitro and by use of serum levels as a surrogate marker (see INDICATIONS AND USAGE and Inhalational Anthrax – Additional Information ).
+Gram-positive bacteria Enterococcus faecalis (vancomycin-susceptible isolates only) Staphylococcus aureus (methicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin-susceptible isolates only) Staphylococcus saprophyticus Streptococcus pneumoniae (penicillin-susceptible isolates only) Streptococcus pyogenes Gram-negative bacteria Campylobacter jejuni Proteus mirabilis Citrobacter koseri (diversus) Proteus vulgaris Citrobacter freundii Providencia rettgeri Enterobacter cloacae Providencia stuartii Escherichia coli Pseudomonas aeruginosa Haemophilus influenzae Salmonella typhi Haemophilus parainfluenzae Serratia marcescens Klebsiella pneumoniae Shigella boydii Moraxella catarrhalis Shigella dysenteriae Morganella morganii Shigella flexneri Neisseria gonorrhoeae Shigella sonnei Ciprofloxacin has been shown to be active against Bacillus anthracis both in vitro and by use of serum levels as a surrogate marker (see INDICATIONS AND USAGE and Inhalational Anthrax - Additional Information).
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (≤1 mcg/mL).
 However, the efficacy of ciprofloxacin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
-Gram-positive bacteria Staphylococcus haemolyticus Staphylococcus hominis Gram-negative bacteria Acinetobacter Iwoffi Pasteurella multocida Aeromonas hydrophila Salmonella enteritidis Edwardsiella tarda Vibrio cholerae Enterobacter aerogenes Vibrio parahaemolyticus Klebsiella oxytoca Vibrio vulnificus Legionella pneumophila Yersinia enterocolitica Susceptibility Test Methods When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+Gram-positive bacteria Staphylococcus haemolyticus (methicillin-susceptible isolates only) Staphylococcus hominis (methicillin-susceptible isolates only) Bacillus anthracis Gram-negative bacteria Acinetobacter Iwoffi Pasteurella multocida Aeromonas hydrophila Salmonella enteritidis Edwardsiella tarda Vibrio cholerae Enterobacter aerogenes Vibrio parahaemolyticus Klebsiella oxytoca Vibrio vulnificus Legionella pneumophila Yersinia enterocolitica Susceptibility Test Methods When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-- Dilution Techniques
+- Dilution Techniques Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+  These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+  The MICs should be determined using a standardized test method (broth and/or agar).1,3,4 The MIC values should be interpreted according to criteria provided in Table 1.
 
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth and/or agar).
-1 The MIC values should be interpreted according to criteria provided in Table 1.
+- Diffusion Techniques Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+  The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+  The zone size should be determined using a standardized test method.2,3,4 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
+  The disc diffusion interpretive criteria are provided in Table 1.
+  Table 1: Susceptibility Test Interpretive Criteria for Ciprofloxacin MIC (mcg/mL) Zone Diameter (mm) Bacteria S I R S I R Enterobacteriaceae ≤1 2 ≥4 ≥21 16-20 ≤15 Enterococcus faecalis ≤1 2 ≥4 ≥21 16-20 ≤15 Staphylococcus aureus ≤1 2 ≥4 ≥21 16-20 ≤15 Staphylococcus epidermidis ≤1 2 ≥4 ≥21 16-20 ≤15 Staphylococcus saprophyticus ≤1 2 ≥4 ≥21 16-20 ≤15 Pseudomonas aeruginosa ≤1 2 ≥4 ≥21 16-20 ≤15 Haemophilus influenzaea ≤1 - - ≥21 - - Haemophilus parainfluenzaea ≤1 - - ≥21 - - Salmonella typhi ≤0.06 0.12-0.5 ≥1 ≥31 21-30 ≤20 Streptococcus pneumoniae ≤1 2 ≥4 ≥21 16-20 ≤15 Streptococcus pyogenes ≤1 2 ≥4 ≥21 16-20 ≤15 Neisseria gonorrhoeae ≤0.06 0.12-0.5 ≥1 ≥41 28-40 ≤27 Bacillus anthracisa ≤0.25 - - - - - S=Susceptible, I=Intermediate, and R=Resistant. a The current absence of data on resistant isolates precludes defining any results other than “Susceptible”.
+  If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing.
 
-- Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.
-2 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
-The disc diffusion interpretive criteria are provided in Table 1.
-
-Table 1: Susceptibility Test Interpretive Criteria for Ciprofloxacin
-
-|  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Species | S | I | R | S | I | R |
-| Enterobacteriaceae | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Staphylococcus species | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Pseudomonas aeruginosa | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Haemophilus influenzaea | ≤1 |  |  | ≥21 |  |  |
-| Haemophilus parainfluenzaea | ≤1 |  |  | ≥21 |  |  |
-| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Streptococcus pyogenes | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Neisseria gonorrhoeaeb | ≤0.06 | 0.12-0.5 | ≥1 | ≥41 | 28-40f | ≤27f |
-| S=Susceptible, I=Intermediate, and R=Resistant. a The current absence of data on resistant strains precludes defining any results other than “Susceptible”. Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. b This interpretive standard is applicable only to agar dilution test with GC agar base and 1% defined growth supplement. |  |  |  |  |  |  |
-
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
+A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone, which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-- Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-1,2 For dilution technique, standard ciprofloxacin powder should provide the MIC values according to criteria outlined in Table 2.
-For diffusion technique, the 5 mcg ciprofloxacin disk should provide the zone diameters outlined in Table 2.
-
-Table 2: Quality Control for Susceptibility Testing of Ciprofloxacin
-
-| Strains | MICRange (mcg/mL) | Zone Diameter (mm) |
-| --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 | 0.25–2 | - |
-| Escherichia coli ATCC 25922 | 0.004–0.015 | 30–40 |
-| Haemophilus influenzae ATCC 49247 | 0.004–0.03 | 34–42 |
-| Pseudomonas aeruginosa ATCC 27853 | 0.25–1 | 25–33 |
-| Staphylococcus aureus ATCC 29213 | 0.12–0.5 | - |
-| Staphylococcus aureus ATCC 25923 | - | 22–30 |
-| Neisseria gonorrhoeae ATCC 49226a | 0.001–0.008 | 48–58 |
-| C. jejuni ATCC 33560b | 0.06–0.25 and 0.03–0.12 | - |
-| a N. gonorrhoeae ATCC 49226 tested by agar dilution procedure using GC agar and 1% defined growth supplement in a 5% CO2 environment at 35° to 37°C for 20 to 24 hours3. b C. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5 to 5% lysed horse blood in a microaerophilic environment at 36° to 37°C for 48 hours and for 42°C at 24 hours2, respectively. |  |  |
+- Quality Control Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 2.
+  For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 2 should be achieved.
+  Table 2: Acceptable Quality Control Ranges for CiprofloxacinBacteria MIC Range (mcg/mL) Zone Diameter (mm) Enterococcus faecalis ATCC 29212 0.25–2 - Escherichia coli ATCC 25922 0.004–0.015 30–40 Haemophilus influenzae ATCC 49247 0.004–0.03 34–42 Pseudomonas aeruginosa ATCC 27853 0.25–1 25–33 Staphylococcus aureus ATCC 29213 0.12–0.5 - Staphylococcus aureus ATCC 25923 - 22–30 Neisseria gonorrhoeae ATCC 49226 0.001–0.008 48–58 Campylobacter jejuni ATCC 33560 0.06–0.25 and 0.03–0.12 -

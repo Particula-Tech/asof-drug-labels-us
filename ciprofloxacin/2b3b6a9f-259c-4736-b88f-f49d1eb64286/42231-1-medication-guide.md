@@ -20,7 +20,7 @@ Tendon rupture or swelling of the tendon (tendinitis)
 - The risk of getting tendon problems while you take ciprofloxacin tablets are higher if you:
   - Are over 60 years of age
   - Are taking steroids (corticosteroids)
-  - Have had a kidney, heart or lung transplant.
+  - Have had a kidney, heart or lung transplant
 - Tendon problems can happen in people who do not have the above risk factors when they take ciprofloxacin tablets.
   Other reasons that can increase your risk of tendon problems can include:
   - Physical activity or exercise
@@ -44,7 +44,7 @@ Tendon rupture or swelling of the tendon (tendinitis)
 Worsening of myasthenia gravis (a disease which causes muscle weakness).
 Fluoroquinolones like ciprofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
-See the section “What are the possible side effects of ciprofloxacin tablets?” for more information about side effects .
+See the section “What are the possible side effects of ciprofloxacin tablets?” for more information about side effects.
 
 ## What are ciprofloxacin tablets?
 
@@ -103,7 +103,7 @@ Especially tell your healthcare provider if you take:
 - Theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®).
 - Glyburide (Micronase®, Glynase®, Diabeta®, Glucovance®).
   See “What are the possible side effects of ciprofloxacin tablets?”.
-- Phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Penytoin Sodium®, Phenytek®).
+- Phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®).
 - Products that contain caffeine.
 - A medicine to control your heart rate or rhythm (antiarrhythmics) See “What are the possible side effects of ciprofloxacin tablets?”.
 - An anti-psychotic medicine.
@@ -154,13 +154,14 @@ If this happens, ciprofloxacin tablets and other antibiotic medicines may not wo
   Do not take two doses at the same time, and do not take more than two doses in one day.
 - If you take too much, call your healthcare provider or get medical help immediately.
 
-If you have been prescribed ciprofloxacin tablets after being exposed to anthrax: Ciprofloxacin tablets have been approved to lessen the chance of getting anthrax disease or worsening of the disease after you are exposed to the anthrax bacteria germ.
-Take ciprofloxacin tablets exactly as prescribed by your healthcare provider.
-Do not stop taking ciprofloxacin tablets without talking with your healthcare provider.
-If you stop taking ciprofloxacin tablets too soon, it may not keep you from getting the anthrax disease.
-Side effects may happen while you are taking ciprofloxacin tablets.
-When taking your ciprofloxacin tablets to prevent anthrax infection, you and your healthcare provider should talk about whether the risks of stopping ciprofloxacin tablets too soon are more important than the risks of side effects with ciprofloxacin tablets.
+If you have been prescribed ciprofloxacin tablets after being exposed to anthrax:
 
+- Ciprofloxacin tablets have been approved to lessen the chance of getting anthrax disease or worsening of the disease after you are exposed to the anthrax bacteria germ.
+- Take ciprofloxacin tablets exactly as prescribed by your healthcare provider.
+  Do not stop taking ciprofloxacin tablets without talking with your healthcare provider.
+  If you stop taking ciprofloxacin tablets too soon, it may not keep you from getting the anthrax disease.
+- Side effects may happen while you are taking ciprofloxacin tablets.
+  When taking your ciprofloxacin tablets to prevent anthrax infection, you and your healthcare provider should talk about whether the risks of stopping ciprofloxacin tablets too soon are more important than the risks of side effects with ciprofloxacin tablets.
 - If you are pregnant, or plan to become pregnant while taking ciprofloxacin tablets, you and your healthcare provider should decide whether the benefits of taking ciprofloxacin tablets for anthrax are more important than the risks.
 
 ## What should I avoid while taking ciprofloxacin tablets?
@@ -299,7 +300,7 @@ Keep ciprofloxacin tablets and all medicines out of the reach of children.
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ciprofloxacin tablets for a condition for which it is not prescribed.
 Do not give ciprofloxacin tablets to other people, even if they have the same symptoms that you have.
-They may harm them .
+They may harm them.
 This Medication Guide summarizes the most important information about ciprofloxacin tablets.
 If you would like more information about ciprofloxacin tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about ciprofloxacin tablets that is written for healthcare professionals.
@@ -310,4 +311,4 @@ For more information call 1-866-850-2876.
 Active ingredient: ciprofloxacin Inactive ingredients: microcrystalline cellulose, sodium starch glycolate, povidone, colloidal silicon dioxide, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2013

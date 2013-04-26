@@ -1,7 +1,7 @@
 # ANIMAL PHARMACOLOGY
 
 Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested.
-(See WARNINGS .)
+(See WARNINGS.)
 Damage of weight bearing joints was observed in juvenile dogs and rats.
 In young beagles, 100 mg/kg ciprofloxacin, given daily for 4 weeks, caused degenerative articular changes of the knee joint.
 At 30 mg/kg, the effect on the joint was minimal.
@@ -12,8 +12,8 @@ In another study, removal of weight bearing from the joint reduced the lesions b
 Crystalluria, sometimes associated with secondary nephropathy, occurs in laboratory animals dosed with ciprofloxacin.
 This is primarily related to the reduced solubility of ciprofloxacin under alkaline conditions, which predominate in the urine of test animals; in man, crystalluria is rare since human urine is typically acidic.
 In rhesus monkeys, crystalluria without nephropathy was noted after single oral doses as low as 5 mg/kg.
-(approximately 0.07-times the highest recommended therapeutic dose based upon mg/m 2 ).
-After 6 months of intravenous dosing at 10 mg/kg/day, no nephropathological changes were noted; however, nephropathy was observed after dosing at 20 mg/kg/day for the same duration (approximately 0.2-times the highest recommended therapeutic dose based upon mg/m 2 ).
+(approximately 0.07-times the highest recommended therapeutic dose based upon mg/m2).
+After 6 months of intravenous dosing at 10 mg/kg/day, no nephropathological changes were noted; however, nephropathy was observed after dosing at 20 mg/kg/day for the same duration (approximately 0.2-times the highest recommended therapeutic dose based upon mg/m2).
 In dogs, ciprofloxacin at 3 and 10 mg/kg by rapid IV injection (15 sec.) produces pronounced hypotensive effects.
 These effects are considered to be related to histamine release, since they are partially antagonized by pyrilamine, an antihistamine.
 In rhesus monkeys, rapid IV injection also produces hypotension but the effect in this species is inconsistent and less pronounced.
