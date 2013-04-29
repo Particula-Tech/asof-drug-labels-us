@@ -75,11 +75,11 @@ Before initiation of KAZANO therapy and at least annually thereafter, renal func
 In patients in whom development of renal dysfunction is anticipated, renal function should be assessed more frequently and KAZANO discontinued if evidence of renal impairment is present.
 Metformin treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced, as these patients are more susceptible to developing lactic acidosis.
 
-Use of concomitant medications that may affect renal function or metformin disposition
+Use of Concomitant Medications that may Affect Renal Function or Metformin Disposition
 
 Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion [see Drug Interactions (7.2)], should be used with caution.
 
-Radiological studies and surgical procedures:
+Radiological Studies and Surgical Procedures
 
 Radiologic studies involving the use of intravascular iodinated contrast materials (for example, intravenous urogram, intravenous cholangiography, angiography, and computed tomography) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin.
 Therefore, in patients in whom any such study is planned, KAZANO should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been re-evaluated and found to be normal.

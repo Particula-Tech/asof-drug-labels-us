@@ -58,4 +58,4 @@ Controlled studies of metformin did not include sufficient numbers of subjects a
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 Metformin should only be used in patients with normal renal function.
-The initial and maintenance dosing of metformin should be conservative in patients with advanced age, due to the potential for decreased renal function in this population [see Contraindications (4), Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
+The initial and maintenance dosing of metformin should be conservative in patients with advanced age, due to the potential for decreased renal function in this population [see Contraindications (4), Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].

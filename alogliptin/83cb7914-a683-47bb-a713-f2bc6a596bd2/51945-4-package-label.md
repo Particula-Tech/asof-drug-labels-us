@@ -4,7 +4,7 @@ NDC 64764-335-60
 
 Kazano
 
-(alogliptin and metforminHCl) tablets
+(alogliptin and metformin HCl) tablets
 
 12.5* mg/500 mg
 
@@ -24,7 +24,7 @@ NDC 64764-337-60
 
 Kazano
 
-(alogliptin and metforminHCl) tablets
+(alogliptin and metformin HCl) tablets
 
 12.5* mg/500 mg
 

@@ -19,7 +19,7 @@ Adverse reactions reported in ≥4% of patients treated with KAZANO and more fre
 | Table 1. Adverse Reactions Reported in ≥4% of Patients Treated with KAZANO and More Frequently Than in Patients Receiving Either Alogliptin, Metformin or Placebo |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Number of Patients (%) |  |  |  |  |
-|  | KAZANOKAZANO - includes data pooled for patients receiving alogliptin 25 and 12.5 mg combined with various dose of metformin | AlogliptinAlogliptin - includes data pooled for patients receiving alogliptin 25 and 12.5 mg | MetforminMetformin - includes data pooled for patients receiving various doses of metformin | Placebo |
+|  | KAZANOKAZANO − includes data pooled for patients receiving alogliptin 25 and 12.5 mg combined with various dose of metformin | AlogliptinAlogliptin − includes data pooled for patients receiving alogliptin 25 and 12.5 mg | MetforminMetformin − includes data pooled for patients receiving various doses of metformin | Placebo |
 |  | N=2794 | N=222 | N=1592 | N=106 |
 | Upper respiratory tract infection | 224 (8.0) | 6 (2.7) | 105 (6.6) | 3 (2.8) |
 | Nasopharyngitis | 191 (6.8) | 7 (3.2) | 93 (5.8) | 2 (1.9) |

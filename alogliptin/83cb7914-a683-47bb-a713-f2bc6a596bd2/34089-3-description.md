@@ -13,7 +13,7 @@ It is soluble in dimethylsulfoxide, sparingly soluble in water and methanol, sli
 
 Metformin hydrochloride
 
-Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
+Metformin hydrochloride (N,N -dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
 Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63.
 Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.

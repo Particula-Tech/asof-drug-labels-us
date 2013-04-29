@@ -24,7 +24,7 @@ Lipid effects were neutral.
 
 | Table 6. Glycemic Parameters at Week 26 for Alogliptin and Metformin Alone and in Combination in Patients with Type 2 Diabetes |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo | Alogliptin 12.5 mg twice daily | MetforminHCl 500 mg twice daily | MetforminHCl 1000 mg twice daily | Alogliptin 12.5 mg + MetforminHCl 500 mg twice daily | Alogliptin 12.5 mg + MetforminHCl 1000 mg twice daily |
+|  | Placebo | Alogliptin 12.5 mg twice daily | Metformin HCl 500 mg twice daily | Metformin HCl 1000 mg twice daily | Alogliptin 12.5 mg + Metformin HCl 500 mg twice daily | Alogliptin 12.5 mg + Metformin HCl 1000 mg twice daily |
 | A1C (%)Intent-to-treat population using last observation on study prior to discontinuation of double-blind study medication or sulfonylurea rescue therapy for patients needing rescue. | N=102 | N=104 | N=103 | N=108 | N=102 | N=111 |
 | Baseline (mean) | 8.5 | 8.4 | 8.5 | 8.4 | 8.5 | 8.4 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value.) | 0.1 | -0.6 | -0.7 | -1.1 | -1.2 | -1.6 |
