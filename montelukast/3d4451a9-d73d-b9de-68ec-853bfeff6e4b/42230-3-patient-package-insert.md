@@ -47,8 +47,7 @@ What should I tell my healthcare provider before taking montelukast sodium?Befor
 • have any other medical conditions
 
 • are pregnant or plan to become pregnant.
-If you are pregnant or plan to become pregnant, montelukast sodium may not be right for you.
-If you become pregnant while taking montelukast sodium, talk to your healthcare provider.
+Talk to your doctor if you are pregnant or plan to become pregnant, as montelukast sodium may not be right for you.
 
 • are breast-feeding or plan to breast-feed.
 It is not known if montelukast sodium passes into your breast milk.
@@ -124,6 +123,8 @@ Tell your healthcare provider right away if you or your child have any of these 
 
 • agitation including aggressive behavior or hostility
 
+• attention problems
+
 • bad or vivid dreams
 
 • depression
@@ -135,6 +136,8 @@ Tell your healthcare provider right away if you or your child have any of these 
 • hallucinations (seeing or hearing things that are not really there)
 
 • irritability
+
+• memory problems
 
 • restlessness
 
@@ -259,4 +262,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1112
+Revised: 0413
