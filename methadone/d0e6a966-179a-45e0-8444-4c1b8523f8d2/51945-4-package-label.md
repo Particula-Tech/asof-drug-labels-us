@@ -1,4 +1,4 @@
-# Package Label - Methadone Hydrochloride Intensol TM (Oral ConcentratE USP), CII
+# Package Label - Methadone Hydrochloride Intensol TM (Oral Concentrate USP), CII
 
 NDC 0054-3553-44
 

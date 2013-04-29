@@ -21,8 +21,8 @@ Inform patients that potentially serious additive effects may occur if methadone
 
 Important Administration Instructions: Instruct patients how to properly take methadone, including the following:
 
-- Using methadone exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression)
-- Not discontinuing methadone without first discussing the need for a tapering regimen with the prescriber
+- •Using methadone exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression)
+- •Not discontinuing methadone without first discussing the need for a tapering regimen with the prescriber
 
 Hypotension: Inform patients that methadone may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position).
@@ -45,6 +45,8 @@ Roxane Laboratories, Inc.
 
 Columbus, Ohio 43216
 
-4056351//07
+4056351//08
 
-© RLI, 2012
+Revised April 2013
+
+© RLI, 2013

@@ -38,11 +38,11 @@ Respiratory depression has also been reported with use of methadone when used as
 
 To further reduce the risk of respiratory depression, consider the following:
 
-- Patients tolerant to other opioids may be incompletely tolerant to methadone.
+- •Patients tolerant to other opioids may be incompletely tolerant to methadone.
   Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists who are being converted to treatment with methadone, thus making determination of dosing during opioid treatment conversion complex.
   Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
-- Proper dosing and titration are essential and methadone should be prescribed only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone, especially when converting patients from other opioids, and in the use of potent opioids for the management of chronic pain.
-- Methadone is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
+- •Proper dosing and titration are essential and methadone should be prescribed only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone, especially when converting patients from other opioids, and in the use of potent opioids for the management of chronic pain.
+- •Methadone is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
 
 ## 5.3 Life-Threatening QT Prolongation
 
