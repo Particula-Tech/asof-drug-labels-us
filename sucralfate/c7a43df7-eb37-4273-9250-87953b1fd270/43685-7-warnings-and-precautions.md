@@ -1,7 +1,12 @@
 # PRECAUTIONS
 
+The physician should read the PRECAUTIONS section when considering the use of this drug in pregnant or pediatric patients, or patients of childbearing potential.
+
 Duodenal ulcer is a chronic, recurrent disease.
-While short-term treatment with sucralfate can result in complete healing of the ulcer, a successful course of treatment with sucralfate should not be expected to alter the posthealing frequency or severity of duodenal ulceration.
+While short-term treatment with sucralfate can result in complete healing of the ulcer, a successful course of treatment with sucralfate should not be expected to alter the post healing frequency or severity of duodenal ulceration.
+
+Isolated reports of sucralfate tablet aspiration with accompanying respiratory complications have been received.
+Therefore, sucralfate tablets should be used with caution by patients who have known conditions that may impair swallowing, such as recent or prolonged intubation, tracheostomy, prior history of aspiration, dysphagia, or any other conditions that may alter gag and cough reflexes, or diminish oropharyngeal coordination or motility.
 
 ## Special Populations
 
@@ -57,9 +62,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Clinical studies of sucralfate tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(See DOSAGE ANDADMINISTRATION.)
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see DOSAGE ANDADMINISTRATION).
 
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-(See PRECAUTIONS, SpecialPopulations, Chronic Renal Failureand Dialysis Patients.)
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see PRECAUTIONS, SpecialPopulations, Chronic Renal Failureand Dialysis Patients).
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

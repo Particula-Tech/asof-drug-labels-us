@@ -14,5 +14,7 @@ The recommended adult oral dosage is 1 g twice a day.
 
 ## Elderly
 
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(See PRECAUTIONS, Geriatric Use.)
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see PRECAUTIONS, Geriatric Use).
+
+Call your doctor for medical advice about side effects.
+You may report side effects to TEVA USA, PHARMACOVIGILANCE at tel: 1-888-838-2872, x6351 or drug.safety@tevapharm.com; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

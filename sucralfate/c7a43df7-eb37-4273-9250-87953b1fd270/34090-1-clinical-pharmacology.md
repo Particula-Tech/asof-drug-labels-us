@@ -9,7 +9,7 @@ The following observations also appear pertinent:
 1. Studies in human subjects and with animal models of ulcer disease have shown that sucralfate forms an ulcer-adherent complex with proteinaceous exudate at the ulcer site.
 2. In vitro, a sucralfate-albumin film provides a barrier to diffusion of hydrogen ions.
 3. In human subjects, sucralfate given in doses recommended for ulcer therapy inhibits pepsin activity in gastric juice by 32%.
-4. In vitro, sucralfate absorbs bile salts.
+4. In vitro, sucralfate adsorbs bile salts.
 
 These observations suggest that sucralfate’s antiulcer activity is the result of formation of an ulcer-adherent complex that covers the ulcer site and protects it against further attack by acid, pepsin, and bile salts.
 There are approximately 14 to 16 mEq of acid-neutralizing capacity per 1 g dose of sucralfate.
