@@ -33,7 +33,7 @@ Cases of myopathy, including rhabdomyolysis, have been reported with pravastatin
 ## 5.2 Liver
 
 Statins, like some other lipid-lowering therapies, have been associated with biochemical abnormalities of liver function.
-In 3 long-term (4.8-5.9 years), placebo-controlled clinical trials (WOS, LIPID, CARE), 19,592 subjects (19,768 randomized) were exposed to pravastatin or placebo [see CLINICAL STUDIES (14)].
+In 3 long-term (4.8 to 5.9 years), placebo-controlled clinical trials, 19,592 subjects (19,768 randomized) were exposed to pravastatin or placebo [see CLINICAL STUDIES (14)].
 In an analysis of serum transaminase values (ALT, AST), incidences of marked abnormalities were compared between the pravastatin and placebo treatment groups; a marked abnormality was defined as a post-treatment test value greater than 3 times the upper limit of normal for subjects with pretreatment values less than or equal to the upper limit of normal, or 4 times the pretreatment value for subjects with pretreatment values greater than the upper limit of normal but less than 1.5 times the upper limit of normal.
 Marked abnormalities of ALT or AST occurred with similar low frequency (≤1.2%) in both treatment groups.
 Overall, clinical trial experience showed that liver function test abnormalities observed during pravastatin therapy were usually asymptomatic, not associated with cholestasis, and did not appear to be related to treatment duration.

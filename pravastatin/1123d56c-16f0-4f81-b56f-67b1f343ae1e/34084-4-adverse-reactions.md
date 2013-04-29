@@ -32,11 +32,12 @@ Long-Term Controlled Morbidity and Mortality Trials
 
 In the pravastatin sodium placebo-controlled clinical trials database of 21,483 patients (age range 24-75 years, 10.3% women, 52.3% Caucasians, 0.8% Blacks, 0.5% Hispanics, 0.1% Asians, 0.1% Others, 46.1% Not Recorded) with a median treatment duration of 261 weeks, 8.1% of patients on pravastatin sodium and 9.3% patients on placebo discontinued due to adverse events regardless of causality.
 
-Adverse event data were pooled from 7 double-blind, placebo-controlled trials (West of Scotland Coronary Prevention Study [WOS]; Cholesterol and Recurrent Events study [CARE]; Long-term Intervention with Pravastatin in Ischemic Disease study [LIPID]; Pravastatin Limitation of Atherosclerosis in the Coronary Arteries study [PLAC I]; Pravastatin, Lipids and Atherosclerosis in the Carotids study [PLAC II]; Regression Growth Evaluation Statin Study [REGRESS]; and Kuopio Atherosclerosis Prevention Study [KAPS]) involving a total of 10,764 patients treated with pravastatin 40 mg and 10,719 patients treated with placebo.
+Adverse event data were pooled from several double-blind, placebo-controlled trials (e.g.
+West of Scotland Coronary Prevention Study [WOS]; Pravastatin Limitation of Atherosclerosis in the Coronary Arteries study [PLAC I]; Pravastatin, Lipids and Atherosclerosis in the Carotids study [PLAC II]; Regression Growth Evaluation Statin Study [REGRESS]; and Kuopio Atherosclerosis Prevention Study [KAPS]) involving a total of 10,764 patients treated with pravastatin 40 mg and 10,719 patients treated with placebo.
 The safety and tolerability profile in the pravastatin group was comparable to that of the placebo group.
-Patients were exposed to pravastatin for a mean of 4.0 to 5.1 years in WOS, CARE, and LIPID and 1.9 to 2.9 years in PLAC I, PLAC II, KAPS, and REGRESS.
+Patients were exposed to pravastatin for a mean of 4 to 5.1 years in, among other trials WOS and 1.9 to 2.9 years in PLAC I, PLAC II, KAPS, and REGRESS.
 In these long-term trials, the most common reasons for discontinuation were mild, non-specific gastrointestinal complaints.
-Collectively, these 7 trials represent 47,613 patient-years of exposure to pravastatin.
+Collectively, these trials represent 47,613 patient-years of exposure to pravastatin.
 All clinical adverse events (regardless of causality) occurring in ≥2% of patients treated with pravastatin in these studies are identified in Table 2.
 
 Table 2: Adverse Events in ≥2% of Patients Treated with Pravastatin 40 mg and at an Incidence Greater Than Placebo in Long-Term Placebo-Controlled Trials

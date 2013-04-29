@@ -15,7 +15,7 @@ In addition, there was no evidence of mutagenicity in either a dominant lethal t
 
 In a fertility study in adult rats with daily doses up to 500 mg/kg, pravastatin did not produce any adverse effects on fertility or general reproductive performance.
 
-## 13.3 Animal Toxicology and/or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 CNS Toxicity
 

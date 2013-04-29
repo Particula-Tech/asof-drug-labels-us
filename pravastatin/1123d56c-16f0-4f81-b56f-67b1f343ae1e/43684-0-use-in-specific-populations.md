@@ -2,6 +2,8 @@
 
 ## 8.1 Pregnancy
 
+Teratogenic Effects
+
 Pregnancy Category X
 
 [See CONTRAINDICATIONS (4.3)]
@@ -47,8 +49,6 @@ Double-blind, placebo-controlled pravastatin studies in children less than 8 yea
 
 ## 8.5 Geriatric Use
 
-Two secondary prevention trials with pravastatin (CARE and LIPID) included a total of 6593 subjects treated with pravastatin 40 mg for periods ranging up to 6 years.
-Across these 2 studies, 36.1% of pravastatin subjects were aged 65 and older and 0.8% were aged 75 and older.
 The beneficial effect of pravastatin in elderly subjects in reducing cardiovascular events and in modifying lipid profiles was similar to that seen in younger subjects.
 The adverse event profile in the elderly was similar to that in the overall population.
 Other reported clinical experience has not identified differences in responses to pravastatin between elderly and younger patients.

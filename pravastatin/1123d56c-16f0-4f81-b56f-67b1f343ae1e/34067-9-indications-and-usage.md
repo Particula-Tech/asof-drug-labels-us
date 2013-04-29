@@ -11,14 +11,6 @@ In hypercholesterolemic patients without clinically evident coronary heart disea
 - reduce the risk of undergoing myocardial revascularization procedures.
 - reduce the risk of cardiovascular mortality with no increase in death from non-cardiovascular causes.
 
-In patients with clinically evident CHD, pravastatin sodium is indicated to:
-
-- reduce the risk of total mortality by reducing coronary death.
-- reduce the risk of MI.
-- reduce the risk of undergoing myocardial revascularization procedures.
-- reduce the risk of stroke and stroke/transient ischemic attack (TIA).
-- slow the progression of coronary atherosclerosis.
-
 ## 1.2 Hyperlipidemia
 
 Pravastatin Sodium Tablets USP are indicated:
