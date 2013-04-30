@@ -1,6 +1,4 @@
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
-
-PRINCIPAL DISPLAY PANEL - 10 mg BOTTLE LABEL
+PRINCIPAL DISPLAY PANEL - 10 mg BOTTLE
 
 APOTEX CORP. NDC 60505-0145-0
 
@@ -10,11 +8,9 @@ Omeprazole Delayed-Release Capsules, USP
 
 Rx
 
-30 count bottle
+30 bottle count
 
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
-
-PRINCIPAL DISPLAY PANEL - 20 mg BOTTLE LABEL
+PRINCIPAL DISPLAY PANEL - 20 mg BOTTLE
 
 APOTEX CORP. NDC 60505-0065-0
 
@@ -24,11 +20,9 @@ Omeprazole Delayed-Release Capsules, USP
 
 Rx
 
-30 count bottle
+30 bottle count
 
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
-
-PRINCIPAL DISPLAY PANEL - 40 mg BOTTLE LABEL
+PRINCIPAL DISPLAY PANEL - 40 mg BOTTLE
 
 APOTEX CORP. NDC 60505-0146-0
 
@@ -38,4 +32,4 @@ Omeprazole Delayed-Release Capsules, USP
 
 Rx
 
-30 count bottle
+30 bottle count

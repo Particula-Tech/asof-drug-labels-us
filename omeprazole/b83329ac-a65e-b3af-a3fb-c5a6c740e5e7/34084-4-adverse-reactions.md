@@ -14,7 +14,8 @@ Additional adverse reactions that were reported with an incidence ≥1% included
 The clinical trial safety profile in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
 The clinical trial safety profile in pediatric patients who received omeprazole delayed-release capsules was similar to that in adult patients.
 Unique to the pediatric population, however, adverse reactions of the respiratory system were most frequently reported in the 2 to 16 year age group (18.5%).
-Similarly, accidental injuries were reported frequently in the 2 to 16 year age group (3.8%).[See Use in Specific Populations (8.4)]
+Similarly, accidental injuries were reported frequently in the 2 to 16 year age group (3.8%).
+[See Use in Specific Populations (8.4)]
 
 ## 6.2 Clinical Trials Experience with Omeprazole in Combination Therapy for H. pylori Eradication
 
@@ -33,7 +34,7 @@ None of these occurred at a higher frequency than that reported by patients taki
 The following adverse reactions have been identified during post-approval use of omeprazole delayed-release capsules.
 Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
 
-Body As a Whole: Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise
+Body As a Whole: Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise;
 
 Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, elevated blood pressure, peripheral edema
 
@@ -45,7 +46,9 @@ These polyps are benign and appear to be reversible when treatment is discontinu
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 
-Hepatic:Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
+Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
+
+Infections and Infestations: Clostridium difficile associated diarrhea
 
 Metabolism and Nutritional disorders: Hypoglycemia, hypomagnesemia, hyponatremia, weight gain
 
@@ -61,6 +64,6 @@ Special Senses: Tinnitus, taste perversion
 
 Ocular: Optic atrophy, anterior ischemic optic neuropathy, optic neuritis, dry eye syndrome, ocular irritation, blurred vision, double vision
 
-Urogenital:Interstitial nephritis, hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain
+Urogenital: Interstitial nephritis, hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain
 
-Hematologic: Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leucocytosis
+Hematologic: Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leucocytosis.

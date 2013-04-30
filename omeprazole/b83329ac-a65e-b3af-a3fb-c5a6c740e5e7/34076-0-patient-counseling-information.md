@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+“See FDA-Approved Medication Guide”
+
 Omeprazole delayed-release capsule should be taken before eating.
 Patients should be informed that the omeprazole delayed-release capsule should be swallowed whole.
 
@@ -11,17 +13,21 @@ The applesauce used should not be hot and should be soft enough to be swallowed 
 The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
+Advise patients to immediately report and seek care for diarrhea that does not improve.
+This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.3)].
+
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
 
 APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 
-| Manufactured by: | Manufactured for: |
-| --- | --- |
-| Apotex Inc. | Apotex Corp. |
-| Toronto, Ontario | Weston, Florida |
-| Canada | 33326 |
-| M9L 1T9 |  |
+Manufactured by: Manufactured for:
 
-Revised: June 2012
+Apotex Inc. Apotex Corp.
 
-Revision: 14
+Toronto, Ontario Weston, Florida
+
+Canada M9L 1T9 USA 33326
+
+Revised: December 2012
+
+Revision: 15
