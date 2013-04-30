@@ -45,6 +45,11 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for Effexor XR should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
+## Bone Fractures
+
+Epidemiological studies show an increased risk of bone fractures in patients receiving selective serotonin reuptake inhibitors (SSRIs) including venlafaxine.
+The mechanism leading to this risk is not fully understood.
+
 ## Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
@@ -270,10 +275,9 @@ Effexor XR, like many antidepressants, should be used cautiously in patients wit
 
 ### Abnormal Bleeding
 
-SSRIs and SNRIs, including Effexor XR, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
+SSRIs and SNRIs, including Effexor XR, may increase the risk of bleeding events, ranging from ecchymoses, hematomas, epistaxis, petechiae, and gastrointestinal hemorrhage to life-threatening hemorrhage.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants or other drugs known to affect platelet function may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of Effexor XR and NSAIDs, aspirin, or other drugs that affect coagulation.
 
