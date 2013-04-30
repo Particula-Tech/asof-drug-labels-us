@@ -94,9 +94,9 @@ No gender-related pharmacokinetic differences have been observed in children, ad
 
 No specific studies have been conducted to assess what effect, if any, race may have on the disposition of oxcarbazepine.
 
-## Drug Interactions:
+### Drug Interactions
 
-### In Vitro
+#### In Vitro
 
 Oxcarbazepine can inhibit CYP2C19 and induce CYP3A4/5 with potentially important effects on plasma concentrations of other drugs.
 In addition, several AEDs that are cytochrome P450 inducers can decrease plasma concentrations of oxcarbazepine and MHD.
@@ -114,6 +114,6 @@ In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A f
 
 As binding of MHD to plasma proteins is low (40%), clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
 
-### In Vivo
+#### In Vivo
 
 For in vivo drug interactions [see Drug Interactions (7)].

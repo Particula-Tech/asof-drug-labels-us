@@ -40,8 +40,7 @@ Because of the potential for serious adverse reactions to oxcarbazepine in nursi
 
 Oxcarbazepine is indicated for use as adjunctive therapy for partial seizures in patients aged 2-16 years.
 Oxcarbazepine is also indicated as monotherapy for partial seizures in patients aged 4-16 years.
-Oxcarbazepine has been given to 898 patients between the ages of 1 month-17 years in controlled clinical trials (332 treated as monotherapy) and about 677 patients between the ages of 1 month-17 years in other trials.
-[see Adverse Reactions (6.1) for a description of the adverse events associated with oxcarbazepine use in this population.]
+Oxcarbazepine has been given to 898 patients between the ages of 1 month-17 years in controlled clinical trials (332 treated as monotherapy) and about 677 patients between the ages of 1 month-17 years in other trials [see Adverse Reactions (6.1) for a description of the adverse events associated with oxcarbazepine use in this population].
 
 ## 8.5 Geriatric Use
 

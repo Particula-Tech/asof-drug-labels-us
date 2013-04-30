@@ -20,11 +20,11 @@ Oxcarbazepine tablets can cause serious side effects, including:
 Oxcarbazepine tablets may cause the level of sodium in your blood to be low.
 Symptoms of low blood sodium include:
 
-- nausea
-- tiredness, lack of energy
-- headache
-- confusion
-- more frequent or more severe seizures.
+- •nausea
+- •tiredness, lack of energy
+- •headache
+- •confusion
+- •more frequent or more severe seizures.
 
 Similar symptoms that are not related to low sodium may occur from taking oxcarbazepine tablets.
 You should tell your healthcare provider if you have any of these side effects and if they bother you or they do not go away.
@@ -38,17 +38,17 @@ You may or may not have a rash with these types of reactions.
 
 Call your healthcare provider right away if you have any of the following:
 
-- swelling of your face, eyes, lips, or tongue
-- trouble swallowing or breathing
-- a skin rash
-- hives
-- fever, swollen glands, or sore throat that do not go away or come and go
-- painful sores in the mouth or around your eyes
-- yellowing of your skin or eyes
-- unusual bruising or bleeding
-- severe fatigue or weakness
-- severe muscle pain
-- frequent infections or infections that do not go away
+- •swelling of your face, eyes, lips, or tongue
+- •trouble swallowing or breathing
+- •a skin rash
+- •hives
+- •fever, swollen glands, or sore throat that do not go away or come and go
+- •painful sores in the mouth or around your eyes
+- •yellowing of your skin or eyes
+- •unusual bruising or bleeding
+- •severe fatigue or weakness
+- •severe muscle pain
+- •frequent infections or infections that do not go away
 
 Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
 Tell your healthcare provider if you are allergic to carbamazepine.
@@ -58,23 +58,23 @@ Like other antiepileptic drugs, oxcarbazepine tablets may cause suicidal thought
 
 Call a doctor right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
-- thoughts about suicide or dying
-- attempts to commit suicide
-- new or worse depression
-- new or worse anxiety
-- feeling agitated or restless
-- panic attacks
-- trouble sleeping (insomnia)
-- new or worse irritability
-- acting aggressive, being angry, or violent
-- acting on dangerous impulses
-- an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
+- •thoughts about suicide or dying
+- •attempts to commit suicide
+- •new or worse depression
+- •new or worse anxiety
+- •feeling agitated or restless
+- •panic attacks
+- •trouble sleeping (insomnia)
+- •new or worse irritability
+- •acting aggressive, being angry, or violent
+- •acting on dangerous impulses
+- •an extreme increase in activity and talking (mania)
+- •other unusual changes in behavior or mood
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
-- Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-- Keep all follow-up visits with your healthcare provider as scheduled.
+- •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+- •Keep all follow-up visits with your healthcare provider as scheduled.
 
 Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
@@ -90,37 +90,37 @@ If you have suicidal thoughts or actions, your healthcare provider may check for
 
 Oxcarbazepine tablets are a prescription medicine used:
 
-- alone or with other medicines to treat partial seizures in adults.
-- alone to treat partial seizures in children 4 years and older.
-- with other medicines to treat partial seizures in children 2 years and older.
+- •alone or with other medicines to treat partial seizures in adults.
+- •alone to treat partial seizures in children 4 years and older.
+- •with other medicines to treat partial seizures in children 2 years and older.
 
 ## Who should not take oxcarbazepine tablets?
 
-- Do not take oxcarbazepine tablets if you are allergic to oxcarbazepine or any of the other ingredients in oxcarbazepine tablets.
+- •Do not take oxcarbazepine tablets if you are allergic to oxcarbazepine or any of the other ingredients in oxcarbazepine tablets.
   See the end of this leaflet for a complete list of ingredients in oxcarbazepine tablets.
-- Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
+- •Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
   Tell your healthcare provider if you are allergic to carbamazepine.
 
 ## What should I tell my healthcare provider before taking oxcarbazepine tablets?
 
 Before taking oxcarbazepine tablets, tell your healthcare provider about all your medical conditions, including if you:
 
-- have or have had suicidal thoughts or actions, depression or mood problems
-- have liver problems
-- have kidney problems
-- are allergic to carbamazepine.
+- •have or have had suicidal thoughts or actions, depression or mood problems
+- •have liver problems
+- •have kidney problems
+- •are allergic to carbamazepine.
   Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
-- use birth control medicine.
+- •use birth control medicine.
   Oxcarbazepine tablets may cause your birth control medicine to be less effective.
   Talk to your healthcare provider about the best birth control method to use.
-- are pregnant or plan to become pregnant.
+- •are pregnant or plan to become pregnant.
   Oxcarbazepine tablets may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking oxcarbazepine tablets.
   You and your healthcare provider will decide if you should take oxcarbazepine tablets while you are pregnant.
-  - If you become pregnant while taking oxcarbazepine tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  - ∘If you become pregnant while taking oxcarbazepine tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
-- are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   Oxcarbazepine passes into breast milk.
   You and your healthcare provider should discuss whether you should take oxcarbazepine tablets or breastfeed; you should not do both.
 
@@ -134,20 +134,20 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 
 ## How should I take oxcarbazepine tablets?
 
-- Do not stop taking oxcarbazepine tablets without talking to your healthcare provider.
+- •Do not stop taking oxcarbazepine tablets without talking to your healthcare provider.
   Stopping oxcarbazepine tablets suddenly can cause serious problems, including seizures that will not stop (status epilepticus).
-- Take oxcarbazepine tablets exactly as prescribed.
+- •Take oxcarbazepine tablets exactly as prescribed.
   Your healthcare provider may change your dose.
   Your healthcare provider will tell you how much oxcarbazepine to take.
-- Take oxcarbazepine tablets 2 times a day.
-- Take oxcarbazepine tablets with or without food.
-- If you take too much oxcarbazepine, call your healthcare provider or local Poison Control Center right away.
+- •Take oxcarbazepine tablets 2 times a day.
+- •Take oxcarbazepine tablets with or without food.
+- •If you take too much oxcarbazepine, call your healthcare provider or local Poison Control Center right away.
 
 ## What should I avoid while taking oxcarbazepine tablets?
 
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how oxcarbazepine tablets affect you.
+- •Do not drive, operate heavy machinery, or do other dangerous activities until you know how oxcarbazepine tablets affect you.
   Oxcarbazepine tablets may slow your thinking and motor skills.
-- Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking oxcarbazepine tablets until you talk to your healthcare provider.
+- •Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking oxcarbazepine tablets until you talk to your healthcare provider.
   Oxcarbazepine tablets taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
 
 ## What are the possible side effects of oxcarbazepine tablets?
@@ -156,30 +156,30 @@ See “What is the most important information I should know about oxcarbazepine 
 
 Oxcarbazepine tablets may cause other serious side effects including:
 
-- your seizures can happen more often or become worse
-- trouble concentrating
-- problems with your speech and language
-- feeling confused
-- feeling sleepy and tired
-- trouble walking and with coordination
+- •your seizures can happen more often or become worse
+- •trouble concentrating
+- •problems with your speech and language
+- •feeling confused
+- •feeling sleepy and tired
+- •trouble walking and with coordination
 
 Get medical help right away if you have any of the symptoms listed above or listed in “What is the most important information I should know about oxcarbazepine tablets?”
 
 The most common side effects of oxcarbazepine tablets include:
 
-- dizziness
-- sleepiness
-- double vision
-- tiredness
-- nausea
-- vomiting
-- problems with vision
-- stomach pain
-- trembling
-- upset stomach
-- problems with walking and coordination (unsteadiness)
-- rash
-- infections (especially in children)
+- •dizziness
+- •sleepiness
+- •double vision
+- •tiredness
+- •nausea
+- •vomiting
+- •problems with vision
+- •stomach pain
+- •trembling
+- •upset stomach
+- •problems with walking and coordination (unsteadiness)
+- •rash
+- •infections (especially in children)
 
 These are not all the possible side effects of oxcarbazepine tablets.
 For more information, ask your healthcare provider or pharmacist.
@@ -190,8 +190,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 ## How should I store oxcarbazepine tablets?
 
-- Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-  - Keep oxcarbazepine tablets dry.
+- •Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+  - ∘Keep oxcarbazepine tablets dry.
 
 Keep oxcarbazepine tablets and all medicines out of the reach of children.
 
@@ -227,4 +227,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-April 2011
+March 2013
