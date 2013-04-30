@@ -10,7 +10,7 @@ ONCE DAILY ULTRAM® ER (tramadol HCl) Extended-Release Tablets
 
 Rx only
 
-PriCara® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
@@ -24,7 +24,7 @@ ONCE DAILY ULTRAM® ER (tramadol HCl) Extended-Release Tablets
 
 Rx only
 
-PriCara® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
@@ -38,4 +38,4 @@ ONCE DAILY ULTRAM® ER (tramadol HCl) Extended-Release Tablets
 
 Rx only
 
-PriCara® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen

@@ -86,3 +86,14 @@ Respiratory, thoracic and mediastinal disorders: yawning
 Skin and subcutaneous tissue disorders: contusion, piloerection, clamminess, night sweats, urticaria
 
 Vascular disorders: hypertension aggravated, hypertension, peripheral ischemia
+
+## Post-marketing experience
+
+The following adverse reactions, not noted above, have been identified during post approval use of tramadol-containing products.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
+
+Eye disorders: miosis, mydriasis
+
+Nervous system disorders: movement disorder, speech disorder
+
+Psychiatric disorders: delirium

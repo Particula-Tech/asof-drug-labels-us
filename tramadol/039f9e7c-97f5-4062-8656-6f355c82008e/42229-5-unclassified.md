@@ -6,8 +6,6 @@ Manufactured by: Biovail Corporation, Mississauga, ON L5N 8M5, Canada
 
 Made in Canada
 
-Manufactured for: PriCara®, Division of Ortho-McNeil-Janssen Pharmaceuticals Inc., Raritan, NJ 08869
+Manufactured for: Janssen Pharmaceuticals Inc., Titusville, NJ 08560
 
-LB0049-05
-
-Revised June 2009
+Revised February 2013
