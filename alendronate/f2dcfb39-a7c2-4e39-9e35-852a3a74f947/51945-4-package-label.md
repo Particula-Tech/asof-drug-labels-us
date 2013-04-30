@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL - Bi Fold Card, Outer 70 mg
 
-ONCE WEEKLY FOSAMAX® 70 mg (Alendronate Sodium Tablets)
+ONCE WEEKLY FOSAMAX ® 70 mg (Alendronate Sodium Tablets)
 
 Dispense the enclosed Medication Guide to each patient.
 
@@ -14,11 +14,14 @@ USUAL ADULT DOSAGE: ONE 70 mg TABLET ONCE WEEKLY
 
 See accompanying circular for complete dosage information.
 
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Manuf. by: Merck Sharp & Dohme (Italia) S.p.A.
+27100 - Pavia, Italy
 
 Alendronate Sodium (active ingred.)
 Made in Ireland.
-Formulated in USA.
+Formulated in Italy.
 
 PRINCIPAL DISPLAY PANEL - Bottle Label 70 mg per 75 mL
 

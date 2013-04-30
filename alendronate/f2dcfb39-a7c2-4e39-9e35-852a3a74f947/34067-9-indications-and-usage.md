@@ -26,6 +26,8 @@ Treatment is indicated in patients with Paget's disease of bone who have alkalin
 
 ## 1.6 Important Limitations of Use
 
-The safety and effectiveness of FOSAMAX for the treatment of osteoporosis are based on clinical data of four years duration.
 The optimal duration of use has not been determined.
+The safety and effectiveness of FOSAMAX for the treatment of osteoporosis are based on clinical data of four years duration.
 All patients on bisphosphonate therapy should have the need for continued therapy re-evaluated on a periodic basis.
+Patients at low-risk for fracture should be considered for drug discontinuation after 3 to 5 years of use.
+Patients who discontinue therapy should have their risk for fracture re-evaluated periodically.

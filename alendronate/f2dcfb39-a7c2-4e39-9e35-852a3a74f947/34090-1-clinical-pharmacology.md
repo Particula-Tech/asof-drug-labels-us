@@ -125,7 +125,7 @@ Although no formal renal impairment pharmacokinetic study has been conducted in 
 Therefore, somewhat greater accumulation of alendronate in bone might be expected in patients with impaired renal function.
 
 No dosage adjustment is necessary for patients with creatinine clearance 35 to 60 mL/min.
-FOSAMAX is not recommended for patients with creatinine clearance <35 mL/min due to lack of experience with alendronate in renal failure.
+FOSAMAX is not recommended for patients with creatinine clearance less than 35 mL/min due to lack of experience with alendronate in renal failure.
 
 Hepatic Impairment: As there is evidence that alendronate is not metabolized or excreted in the bile, no studies were conducted in patients with hepatic impairment.
 No dosage adjustment is necessary.

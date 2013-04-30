@@ -9,9 +9,9 @@ Via Emilia, 21, 27100 - Pavia, Italy
 
 Copyright © 1995, 1997, 2000, 2010, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2012
+Revised: 04/2013
 
-USPI-MF-02171206R015
+uspi-mf-02171304r016
 
 Distributed by:
 
@@ -24,8 +24,8 @@ Via Emilia, 21, 27100 - Pavia, Italy
 
 Copyright © 2010, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2012
+Revised: 04/2013
 
-USMG-MF-02171206R015
+usmg-mf-02171304r016
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

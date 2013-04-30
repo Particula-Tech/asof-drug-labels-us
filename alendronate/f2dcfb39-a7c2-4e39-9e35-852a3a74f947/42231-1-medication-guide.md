@@ -151,7 +151,9 @@ The most common side effects of FOSAMAX are:
 - Pain in your bones, joints, or muscles
 - Nausea
 
-You may get allergic reactions, such as hives or, in rare cases, swelling of your face, lips, tongue, or throat.
+You may get allergic reactions, such as hives or swelling of your face, lips, tongue, or throat.
+
+Worsening of asthma has been reported.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 

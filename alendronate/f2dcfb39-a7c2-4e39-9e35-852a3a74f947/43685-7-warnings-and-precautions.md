@@ -9,7 +9,7 @@ Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esoph
 In some cases these have been severe and required hospitalization.
 Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue FOSAMAX and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
 
-The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates including FOSAMAX and/or who fail to swallow oral bisphosphonates including FOSAMAX with the recommended full glass (6-8 oz) of water, and/or who continue to take oral bisphosphonates including FOSAMAX after developing symptoms suggestive of esophageal irritation.
+The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates including FOSAMAX and/or who fail to swallow oral bisphosphonates including FOSAMAX with the recommended full glass (6-8 ounces) of water, and/or who continue to take oral bisphosphonates including FOSAMAX after developing symptoms suggestive of esophageal irritation.
 Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2.6)].
 In patients who cannot comply with dosing instructions due to mental disability, therapy with FOSAMAX should be used under appropriate supervision.
 
@@ -41,6 +41,7 @@ In placebo-controlled clinical studies of FOSAMAX, the percentages of patients w
 
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including FOSAMAX.
 Known risk factors for osteonecrosis of the jaw include invasive dental procedures (e.g., tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (e.g., chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (e.g., periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+The risk of ONJ may increase with duration of exposure to bisphosphonates.
 
 For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.
 Clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit/risk assessment.
@@ -65,7 +66,7 @@ Interruption of bisphosphonate therapy should be considered, pending a risk/bene
 
 ## 5.6 Renal Impairment
 
-FOSAMAX is not recommended for patients with creatinine clearance <35 mL/min [see Dosage and Administration (2.8)].
+FOSAMAX is not recommended for patients with creatinine clearance less than 35 mL/min.
 
 ## 5.7 Glucocorticoid-Induced Osteoporosis
 

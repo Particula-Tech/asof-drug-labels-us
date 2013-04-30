@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 Treatment of Osteoporosis in Postmenopausal Women
 
@@ -13,14 +13,14 @@ Study 1 and Study 2 were identically designed, three-year, placebo-controlled, d
 Overall, 3620 patients were exposed to placebo and 3432 patients exposed to FOSAMAX.
 Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs were included in these clinical trials.
 In Study 1 and Study 2 all women received 500 mg elemental calcium as carbonate.
-In Study 3 and Study 4 all women with dietary calcium intake less than 1000 mg per day received 500 mg calcium and 250 IU Vitamin D per day.
+In Study 3 and Study 4 all women with dietary calcium intake less than 1000 mg per day received 500 mg calcium and 250 international units Vitamin D per day.
 
 Among patients treated with alendronate 10 mg or placebo in Study 1 and Study 2, and all patients in Study 3 and Study 4, the incidence of all-cause mortality was 1.8% in the placebo group and 1.8% in the FOSAMAX group.
 The incidence of serious adverse event was 30.7% in the placebo group and 30.9% in the FOSAMAX group.
 The percentage of patients who discontinued the study due to any clinical adverse event was 9.5% in the placebo group and 8.9% in the FOSAMAX group.
-Adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either FOSAMAX or placebo are presented in Table 1.
+Adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either FOSAMAX or placebo are presented in Table 1.
 
-Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥1% of Patients
+Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | FOSAMAX10 mg/day for three years % (n=196) | Placebo % (n=397) | FOSAMAX5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years % (n=3236) | Placebo % (n=3223) |
 | --- | --- | --- | --- | --- |
@@ -47,7 +47,7 @@ Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reaction
 | Special Senses |  |  |  |  |
 | taste perversion | 0.5 | 1.0 | 0.1 | 0.0 |
 
-Rarely, rash and erythema have occurred.
+Rash and erythema have occurred.
 
 Gastrointestinal Adverse Reactions: One patient treated with FOSAMAX (10 mg/day), who had a history of peptic ulcer disease and gastrectomy and who was taking concomitant aspirin, developed an anastomotic ulcer with mild hemorrhage, which was considered drug related.
 Aspirin and FOSAMAX were discontinued and the patient recovered.
@@ -55,15 +55,15 @@ In the Study 1 and Study 2 populations, 49-54% had a history of gastrointestinal
 [See Warnings and Precautions (5.1).]
 
 Laboratory Test Findings: In double-blind, multicenter, controlled studies, asymptomatic, mild, and transient decreases in serum calcium and phosphate were observed in approximately 18% and 10%, respectively, of patients taking FOSAMAX versus approximately 12% and 3% of those taking placebo.
-However, the incidences of decreases in serum calcium to <8.0 mg/dL (2.0 mM) and serum phosphate to ≤2.0 mg/dL (0.65 mM) were similar in both treatment groups.
+However, the incidences of decreases in serum calcium to less than 8.0 mg/dL (2.0 mM) and serum phosphate to less than or equal to 2.0 mg/dL (0.65 mM) were similar in both treatment groups.
 
 Weekly Dosing
 
 The safety of FOSAMAX 70 mg once weekly for the treatment of postmenopausal osteoporosis was assessed in a one-year, double-blind, multicenter study comparing FOSAMAX 70 mg once weekly and FOSAMAX 10 mg daily.
 The overall safety and tolerability profiles of once weekly FOSAMAX 70 mg and FOSAMAX 10 mg daily were similar.
-The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients in either treatment group are presented in Table 2.
+The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients in either treatment group are presented in Table 2.
 
-Table 2: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥1% of Patients
+Table 2: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | Once Weekly FOSAMAX 70 mg % (n=519) | FOSAMAX 10 mg/day % (n=370) |
 | --- | --- | --- |
@@ -94,9 +94,9 @@ Weekly Dosing
 The safety of FOSAMAX 35 mg once weekly compared to FOSAMAX 5 mg daily was evaluated in a one-year, double-blind, multicenter study of 723 patients.
 The overall safety and tolerability profiles of once weekly FOSAMAX 35 mg and FOSAMAX 5 mg daily were similar.
 
-The adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either once weekly FOSAMAX 35 mg, FOSAMAX 5 mg/day or placebo are presented in Table 3.
+The adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either once weekly FOSAMAX 35 mg, FOSAMAX 5 mg/day or placebo are presented in Table 3.
 
-Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥1% of Patients
+Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | FOSAMAX 5 mg/day % (n=642) | Placebo % (n=648) | FOSAMAX 5 mg/day % (n=361) | Once Weekly FOSAMAX 35 mg % (n=362) |
 | --- | --- | --- | --- | --- |
@@ -119,9 +119,9 @@ In two studies (of one and two years' duration) of postmenopausal osteoporotic w
 Osteoporosis in Men
 
 In two placebo-controlled, double-blind, multicenter studies in men (a two-year study of FOSAMAX 10 mg/day and a one-year study of once weekly FOSAMAX 70 mg) the rates of discontinuation of therapy due to any clinical adverse event were 2.7% for FOSAMAX 10 mg/day vs. 10.5% for placebo, and 6.4% for once weekly FOSAMAX 70 mg vs. 8.6% for placebo.
-The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in ≥2% of patients treated with either FOSAMAX or placebo are presented in Table 4.
+The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 2% of patients treated with either FOSAMAX or placebo are presented in Table 4.
 
-Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥2% of Patients
+Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 2% of Patients
 
 |  | FOSAMAX 10 mg/day % (n=146) | Placebo % (n=95) | Once Weekly FOSAMAX 70 mg % (n=109) | Placebo % (n=58) |
 | --- | --- | --- | --- | --- |
@@ -138,9 +138,9 @@ Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Prob
 Glucocorticoid-Induced Osteoporosis
 
 In two, one-year, placebo-controlled, double-blind, multicenter studies in patients receiving glucocorticoid treatment, the overall safety and tolerability profiles of FOSAMAX 5 and 10 mg/day were generally similar to that of placebo.
-The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either FOSAMAX 5 or 10 mg/day or placebo are presented in Table 5.
+The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either FOSAMAX 5 or 10 mg/day or placebo are presented in Table 5.
 
-Table 5: One-Year Studies in Glucocorticoid-Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥1% of Patients
+Table 5: One-Year Studies in Glucocorticoid-Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | FOSAMAX 10 mg/day % (n=157) | FOSAMAX 5 mg/day % (n=161) | Placebo % (n=159) |
 | --- | --- | --- | --- |
@@ -170,20 +170,22 @@ Discontinuation of therapy due to any clinical adverse events occurred in 6.4% o
 The following adverse reactions have been identified during post-approval use of FOSAMAX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole: hypersensitivity reactions including urticaria and rarely angioedema.
-Transient symptoms of myalgia, malaise, asthenia and rarely, fever have been reported with FOSAMAX, typically in association with initiation of treatment.
-Rarely, symptomatic hypocalcemia has occurred, generally in association with predisposing conditions.
-Rarely, peripheral edema.
+Body as a Whole: hypersensitivity reactions including urticaria and angioedema.
+Transient symptoms of myalgia, malaise, asthenia and fever have been reported with FOSAMAX, typically in association with initiation of treatment.
+Symptomatic hypocalcemia has occurred, generally in association with predisposing conditions.
+Peripheral edema.
 
-Gastrointestinal: esophagitis, esophageal erosions, esophageal ulcers, rarely esophageal stricture or perforation, and oropharyngeal ulceration.
-Gastric or duodenal ulcers, some severe and with complications, have also been reported [see Dosage and Administration (2); Warnings and Precautions (5.1)].
+Gastrointestinal: esophagitis, esophageal erosions, esophageal ulcers, esophageal stricture or perforation, and oropharyngeal ulceration.
+Gastric or duodenal ulcers, some severe and with complications, have also been reported [see Dosage and Administration (2.6); Warnings and Precautions (5.1)].
 
-Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported rarely [see Warnings and Precautions (5.4)].
+Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported [see Warnings and Precautions (5.4)].
 
-Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and rarely incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures [see Warnings and Precautions (5.5)].
+Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures [see Warnings and Precautions (5.5)].
 
 Nervous System: dizziness and vertigo.
 
-Skin: rash (occasionally with photosensitivity), pruritus, alopecia, rarely severe skin reactions, including Stevens-Johnson syndrome and toxic epidermal necrolysis.
+Pulmonary: acute asthma exacerbations.
 
-Special Senses: rarely uveitis, scleritis or episcleritis.
+Skin: rash (occasionally with photosensitivity), pruritus, alopecia, severe skin reactions, including Stevens-Johnson syndrome and toxic epidermal necrolysis.
+
+Special Senses: uveitis, scleritis or episcleritis.

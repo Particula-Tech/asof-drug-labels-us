@@ -3,7 +3,7 @@
 ## 7.1 Calcium Supplements/Antacids
 
 Co-administration of FOSAMAX and calcium, antacids, or oral medications containing multivalent cations will interfere with absorption of FOSAMAX.
-Therefore, patients must wait at least one-half hour after taking FOSAMAX before taking any other oral medications.
+Therefore, instruct patients to wait at least one-half hour after taking FOSAMAX before taking any other oral medications.
 
 ## 7.2 Aspirin
 
