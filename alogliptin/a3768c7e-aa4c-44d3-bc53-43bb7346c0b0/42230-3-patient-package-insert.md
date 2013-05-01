@@ -163,10 +163,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-Revised: January 2013
+Revised: April 2013
 
 NESINA is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and is used under license by Takeda Pharmaceuticals America, Inc.
 
 © 2013 Takeda Pharmaceuticals America, Inc.
 
-NES011 R1
+NES011 R2

@@ -237,7 +237,7 @@ Add-On Therapy to Insulin
 In a 26-week, placebo-controlled study, a total of 390 patients inadequately controlled on insulin alone (42%) or in combination with metformin (58%) (mean baseline A1C = 9.3%) were randomized to receive NESINA 12.5 mg, NESINA 25 mg, or placebo.
 Patients were maintained on their insulin regimen (median dose = 55 IU) upon randomization and those previously treated with insulin in combination with metformin (median dose = 1700 mg) prior to randomization continued on the combination regimen during the treatment period.
 Patients entered the trial on short-, intermediate- or long-acting (basal) insulin or premixed insulin.
-Patients who failed to meet pre-specified hyperglycemic goals during the 26 month treatment period received glycemic rescue therapy.
+Patients who failed to meet pre-specified hyperglycemic goals during the 26-week treatment period received glycemic rescue therapy.
 
 The addition of NESINA 25 mg once daily to insulin therapy resulted in statistically significant improvements from baseline in A1C and FPG at Week 26, when compared to placebo (Table 11).
 A total of 20% of patients receiving NESINA 25 mg and 40% of those receiving placebo required glycemic rescue.
