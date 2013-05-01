@@ -13,7 +13,7 @@ Although dabigatran increased the incidence of delayed or irregular ossification
 ## 8.2 Labor and Delivery
 
 Safety and effectiveness of PRADAXA during labor and delivery have not been studied in clinical trials.
-Consider the risks of bleeding and of stroke in using PRADAXA in this setting [see Warnings and Precautions (5.1)].
+Consider the risks of bleeding and of stroke in using PRADAXA in this setting [see Warnings and Precautions (5.2)].
 
 Death of offspring and mother rats during labor in association with uterine bleeding occurred during treatment of pregnant rats from implantation (gestation Day 7) to weaning (lactation Day 21) with dabigatran at a dose of 70 mg/kg (about 2.6 times the human exposure at MRHD of 300 mg/day based on AUC comparisons).
 

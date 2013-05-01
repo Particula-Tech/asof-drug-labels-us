@@ -6,6 +6,15 @@ This Medication Guide does not take the place of talking with your doctor about 
 
 What is the most important information I should know about PRADAXA?
 
+- People with atrial fibrillation (a type of irregular heartbeat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
+  PRADAXA lowers your chance of having a stroke by helping to prevent clots from forming.
+  If you stop taking PRADAXA, you may have increased risk of forming a clot in your blood.
+  Do not stop taking PRADAXA without talking to the doctor who prescribes it for you.
+  Stopping PRADAXA increases your risk of having a stroke.
+  PRADAXA may need to be stopped, if possible, prior to surgery or a medical or dental procedure.
+  Ask the doctor who prescribed PRADAXA for you when you should stop taking it.
+  Your doctor will tell you when you may start taking PRADAXA again after your surgery or procedure.
+  If you have to stop taking PRADAXA, your doctor may prescribe another medicine to help prevent a blood clot from forming.
 - PRADAXA can cause bleeding which can be serious, and sometimes lead to death.
   This is because PRADAXA is a blood thinner medicine that lowers the chance of blood clots forming in your body.
 - You may have a higher risk of bleeding if you take PRADAXA and:
@@ -178,14 +187,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: December 2012
+Revised: April 2013
 
 The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright 2012 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2013 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-09 IT5060TL142012
+75461-10 IT5060VD252013
 
-75457-09 IT5400R
+75457-10 IT5400S
 
-301841-04 IT5624F
+301841-05 IT5624G

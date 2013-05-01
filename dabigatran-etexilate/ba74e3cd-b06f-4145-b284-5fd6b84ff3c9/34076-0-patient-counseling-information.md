@@ -56,10 +56,10 @@ Instruct patients to inform their health care provider if they will have or have
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Copyright 2012 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2013 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-09 IT5060TL142012
+75461-10 IT5060VD252013
 
-75457-09 IT5400R
+75457-10 IT5400S
 
-301841-04 IT5624F
+301841-05 IT5624G

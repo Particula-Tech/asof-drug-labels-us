@@ -1,6 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Bleeding
+## 5.1 Increased Risk of Stroke with Discontinuation of PRADAXA
+
+Discontinuing PRADAXA in absence of adequate alternative anticoagulation increases the risk of thrombotic events.
+If PRADAXA must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant [see Dosage and Administration (2.6)].
+
+## 5.2 Risk of Bleeding
 
 PRADAXA increases the risk of bleeding and can cause significant and, sometimes, fatal bleeding.
 Promptly evaluate any signs or symptoms of blood loss (e.g., a drop in hemoglobin and/or hematocrit or hypotension).
@@ -15,7 +20,7 @@ Activated prothrombin complex concentrates (aPCCs, e.g., FEIBA), or recombinant 
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of dabigatran.
 Consider administration of platelet concentrates in cases where thrombocytopenia is present or long-acting antiplatelet drugs have been used.
 
-## 5.2 Thromboembolic and Bleeding Events in Patients with Prosthetic Heart Valves
+## 5.3 Thromboembolic and Bleeding Events in Patients with Prosthetic Heart Valves
 
 The safety and efficacy of PRADAXA in patients with bileaflet mechanical prosthetic heart valves was evaluated in the RE-ALIGN trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose adjusted warfarin or 150, 220, or 300 mg of PRADAXA twice a day.
 RE-ALIGN was terminated early due to the occurrence of significantly more thromboembolic events (valve thrombosis, stroke, transient ischemic attack, and myocardial infarction) and an excess of major bleeding (predominantly post-operative pericardial effusions requiring intervention for hemodynamic compromise) in the PRADAXA treatment arm as compared to the warfarin treatment arm.
@@ -23,11 +28,6 @@ These bleeding and thromboembolic events were seen both in patients who were ini
 Therefore, the use of PRADAXA is contraindicated in patients with mechanical prosthetic valves [see Contraindications (4)].
 
 The use of PRADAXA for the prophylaxis of thromboembolic events in patients with atrial fibrillation in the setting of other forms of valvular heart disease, including the presence of a bioprosthetic heart valve, has not been studied and is not recommended.
-
-## 5.3 Temporary Discontinuation of PRADAXA
-
-Discontinuing anticoagulants, including PRADAXA, for active bleeding, elective surgery, or invasive procedures, places patients at an increased risk of stroke.
-Minimize lapses in therapy.
 
 ## 5.4 Effect of P-gp Inducers and Inhibitors on Dabigatran Exposure
 

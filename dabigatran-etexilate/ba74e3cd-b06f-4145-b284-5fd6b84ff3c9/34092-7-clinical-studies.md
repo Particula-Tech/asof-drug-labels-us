@@ -50,6 +50,10 @@ Table 5 Strokes and Systemic Embolism in the RE-LY Study
 | Hemorrhagic stroke | 12 | 45 | 0.26 (0.14, 0.49) |
 | Systemic embolism | 13 | 21 | 0.61 (0.30, 1.21) |
 
+In the RE-LY trial, the rate of all-cause mortality was lower on dabigatran 150 mg than on warfarin (3.6% per year versus 4.1% per year).
+The rate of vascular death was lower on dabigatran 150 mg compared to warfarin (2.3% per year versus 2.7% per year).
+Non-vascular death rates were similar in the treatment arms.
+
 The efficacy of PRADAXA 150 mg twice daily was generally consistent across major subgroups (see Figure 3).
 
 Figure 3 Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics

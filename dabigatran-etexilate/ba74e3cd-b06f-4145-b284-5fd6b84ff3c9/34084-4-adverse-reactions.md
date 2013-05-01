@@ -24,7 +24,7 @@ Drug Discontinuation in RE-LY
 The rates of adverse reactions leading to treatment discontinuation were 21% for PRADAXA 150 mg and 16% for warfarin.
 The most frequent adverse reactions leading to discontinuation of PRADAXA were bleeding and gastrointestinal events (i.e., dyspepsia, nausea, upper abdominal pain, gastrointestinal hemorrhage, and diarrhea).
 
-Bleeding [see Warnings and Precautions (5.1)]
+Bleeding [see Warnings and Precautions (5.2)]
 
 Table 2 shows the number of patients experiencing serious bleeding during the treatment period in the RE-LY study, with the bleeding rate per 100 patient-years (%).
 Major bleeds fulfilled one or more of the following criteria: bleeding associated with a reduction in hemoglobin of at least 2 grams per deciliter or leading to a transfusion of at least 2 units of blood, or symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding).
@@ -60,4 +60,4 @@ In the RE-LY study, drug hypersensitivity (including urticaria, rash, and prurit
 
 The following adverse reactions have been identified during postapproval use of PRADAXA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reaction has been identified during postapproval use of PRADAXA: angioedema.
+The following adverse reactions have been identified during postapproval use of PRADAXA: angioedema, thrombocytopenia.

@@ -9,4 +9,4 @@ Using a high-flux dialyzer, blood flow rate of 200 mL/min, and dialysate flow ra
 At the same dialysate flow rate, approximately 57% can be cleared using a dialyzer blood flow rate of 300 mL/min, with no appreciable increase in clearance observed at higher blood flow rates.
 Upon cessation of hemodialysis, a redistribution effect of approximately 7% to 15% is seen.
 The effect of dialysis on dabigatran’s plasma concentration would be expected to vary based on patient specific characteristics.
-Measurement of aPTT or ECT may help guide therapy [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+Measurement of aPTT or ECT may help guide therapy [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
