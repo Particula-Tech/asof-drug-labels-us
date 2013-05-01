@@ -17,7 +17,7 @@ Cholecalciferol
 
 Significant lethality occurred in mice treated with a single high oral dose of calcitriol (4 mg/kg), the hormonal metabolite of cholecalciferol.
 
-There is limited information regarding doses of cholecalciferol associated with acute toxicity, although intermittent (yearly or twice yearly) single doses of ergocalciferol (vitamin D2) as high as 600,000 IU have been given without reports of toxicity.
+There is limited information regarding doses of cholecalciferol associated with acute toxicity, although intermittent (yearly or twice yearly) single doses of ergocalciferol (vitamin D2) as high as 600,000 international units have been given without reports of toxicity.
 Signs and symptoms of vitamin D toxicity include hypercalcemia, hypercalciuria, anorexia, nausea, vomiting, polyuria, polydipsia, weakness, and lethargy.
 Serum and urine calcium levels should be monitored in patients with suspected vitamin D toxicity.
 Standard therapy includes restriction of dietary calcium, hydration, and systemic glucocorticoids in patients with severe hypercalcemia.

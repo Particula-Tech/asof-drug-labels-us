@@ -3,7 +3,7 @@
 ## 7.1 Calcium Supplements/Antacids
 
 It is likely that calcium supplements, antacids, and some oral medications will interfere with absorption of alendronate.
-Therefore, patients must wait at least one-half hour after taking FOSAMAX PLUS D before taking any other oral medications.
+Therefore, instruct patients to wait at least one-half hour after taking FOSAMAX PLUS D before taking any other oral medications.
 
 ## 7.2 Aspirin
 

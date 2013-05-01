@@ -14,7 +14,7 @@ No similar fetal effects were seen when pregnant rabbits were treated at doses u
 Both total and ionized calcium decreased in pregnant rats at 15 mg/kg/day (13 times a 10-mg human daily dose based on surface area, mg/m2) resulting in delays and failures of delivery.
 Protracted parturition due to maternal hypocalcemia occurred in rats at doses as low as 0.5 mg/kg/day (0.5 times a 10 mg human daily dose based on surface area, mg/m2) when rats were treated from before mating through gestation.
 Maternotoxicity (late pregnancy deaths) occurred in the female rats treated with 15 mg/kg/day for varying periods of time ranging from treatment only during pre-mating to treatment only during early, middle, or late gestation; these deaths were lessened but not eliminated by cessation of treatment.
-Calcium supplementation either in the drinking water or by minipump could not ameliorate the hypocalcemia or prevent maternal and neonatal deaths due to delays in delivery; calcium supplementation IV prevented maternal, but not fetal deaths.
+Calcium supplementation either in the drinking water or by minipump could not ameliorate the hypocalcemia or prevent maternal and neonatal deaths due to delays in delivery; intravenous calcium supplementation prevented maternal, but not fetal deaths.
 
 Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years.
 The amount of bisphosphonate incorporated into adult bone, and hence, the amount available for release back into the systemic circulation, is directly related to the dose and duration of bisphosphonate use.
@@ -25,8 +25,8 @@ The impact of variables such as time between cessation of bisphosphonate therapy
 Cholecalciferol
 
 No data are available for cholecalciferol (vitamin D3).
-Administration of high doses (≥10,000 IU/every other day) of ergocalciferol (vitamin D2) to pregnant rabbits resulted in abortions and an increased incidence of fetal aortic stenosis.
-Administration of vitamin D2 (40,000 IU/day) to pregnant rats resulted in neonatal death, decreased fetal weight, and impaired osteogenesis of long bones postnatally.
+Administration of high doses (greater than or equal to 10,000 international units/every other day) of ergocalciferol (vitamin D2) to pregnant rabbits resulted in abortions and an increased incidence of fetal aortic stenosis.
+Administration of vitamin D2 (40,000 international units/day) to pregnant rats resulted in neonatal death, decreased fetal weight, and impaired osteogenesis of long bones postnatally.
 
 There are no studies in pregnant women.
 FOSAMAX PLUS D should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and fetus.
@@ -42,7 +42,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 FOSAMAX PLUS D is not indicated for use in children.
 
 The efficacy and safety of alendronate were examined in a randomized, double-blind, placebo-controlled two-year study of 139 pediatric patients, aged 4-18 years, with severe osteogenesis imperfecta.
-One-hundred-and-nine patients were randomized to 5 mg alendronate daily (weight <40 kg) or 10 mg alendronate daily (weight ≥40 kg) and 30 patients to placebo.
+One-hundred-and-nine patients were randomized to 5 mg alendronate daily (weight less than 40 kg) or 10 mg alendronate daily (weight greater than or equal to 40 kg) and 30 patients to placebo.
 The mean baseline lumbar spine BMD Z-score of the patients was -4.5.
 The mean change in lumbar spine BMD Z-score from baseline to Month 24 was 1.3 in the alendronate-treated patients and 0.1 in the placebo-treated patients.
 Treatment with alendronate did not reduce the risk of fracture.
@@ -52,7 +52,7 @@ There were no statistically significant differences between the alendronate and 
 
 ## 8.5 Geriatric Use
 
-Of the patients receiving FOSAMAX in the Fracture Intervention Trial (FIT), 71% (n=2302) were ≥65 years of age and 17% (n=550) were ≥75 years of age.
+Of the patients receiving FOSAMAX in the Fracture Intervention Trial (FIT), 71% (n=2302) were greater than or equal to 65 years of age and 17% (n=550) were greater than or equal to 75 years of age.
 Of the patients receiving FOSAMAX in the United States and Multinational osteoporosis treatment studies in women, and osteoporosis studies in men [see Clinical Studies (14.1, 14.2)], 45% and 54%, respectively, were 65 years of age or over.
 No overall differences in efficacy or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Dietary requirements of vitamin D3 are increased in the elderly.

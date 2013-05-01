@@ -22,5 +22,5 @@ The structural formula is:
 Cholecalciferol is a white, crystalline, odorless powder.
 Cholecalciferol is practically insoluble in water, freely soluble in usual organic solvents, and slightly soluble in vegetable oils.
 
-FOSAMAX PLUS D for oral administration contains 91.37 mg of alendronate monosodium salt trihydrate, the molar equivalent of 70 mg of free acid, and 70 or 140 mcg of cholecalciferol, equivalent to 2800 or 5600 International Units (IU) vitamin D, respectively.
+FOSAMAX PLUS D for oral administration contains 91.37 mg of alendronate monosodium salt trihydrate, the molar equivalent of 70 mg of free acid, and 70 or 140 mcg of cholecalciferol, equivalent to 2800 or 5600 international units vitamin D, respectively.
 Each tablet contains the following inactive ingredients: microcrystalline cellulose, lactose anhydrous, medium chain triglycerides, gelatin, croscarmellose sodium, sucrose, colloidal silicon dioxide, magnesium stearate, butylated hydroxytoluene, modified food starch, and sodium aluminum silicate.

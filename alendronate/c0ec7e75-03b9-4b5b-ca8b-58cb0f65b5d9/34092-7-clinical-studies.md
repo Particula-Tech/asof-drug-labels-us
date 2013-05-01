@@ -119,13 +119,13 @@ The long-term effects of combined FOSAMAX and HRT on fracture occurrence and fra
 The efficacy of FOSAMAX in men with hypogonadal or idiopathic osteoporosis was demonstrated in two clinical studies.
 
 A two-year, double-blind, placebo-controlled, multicenter study of FOSAMAX 10 mg once daily enrolled a total of 241 men between the ages of 31 and 87 (mean, 63).
-All patients in the trial had either: 1) a BMD T-score ≤‑2 at the femoral neck and ≤‑1 at the lumbar spine, or 2) a baseline osteoporotic fracture and a BMD T-score ≤‑1 at the femoral neck.
+All patients in the trial had either: 1) a BMD T-score less than or equal to -2 at the femoral neck and less than or equal to -1 at the lumbar spine, or 2) a baseline osteoporotic fracture and a BMD T-score less than or equal to -1 at the femoral neck.
 At two years, the mean increases relative to placebo in BMD in men receiving FOSAMAX 10 mg/day were significant at the following sites: lumbar spine, 5.3%; femoral neck, 2.6%; trochanter, 3.1%; and total body, 1.6%.
-Treatment with FOSAMAX also reduced height loss (FOSAMAX, ‑0.6 mm vs. placebo, ‑2.4 mm).
+Treatment with FOSAMAX also reduced height loss (FOSAMAX, -0.6 mm vs. placebo, -2.4 mm).
 
 A one-year, double-blind, placebo-controlled, multicenter study of once weekly FOSAMAX 70 mg enrolled a total of 167 men between the ages of 38 and 91 (mean, 66).
-Patients in the study had either: 1) a BMD T-score ≤-2 at the femoral neck and ≤-1 at the lumbar spine, 2) a BMD T-score ≤-2 at the lumbar spine and ≤-1 at the femoral neck, or 3) a baseline osteoporotic fracture and a BMD T-score ≤-1 at the femoral neck.
+Patients in the study had either: 1) a BMD T-score less than or equal to -2 at the femoral neck and less than or equal to -1 at the lumbar spine, 2) a BMD T-score less than or equal to -2 at the lumbar spine and less than or equal to -1 at the femoral neck, or 3) a baseline osteoporotic fracture and a BMD T-score less than or equal to -1 at the femoral neck.
 At one year, the mean increases relative to placebo in BMD in men receiving FOSAMAX 70 mg once weekly were significant at the following sites: lumbar spine, 2.8%; femoral neck, 1.9%; trochanter, 2.0%; and total body, 1.2%.
 These increases in BMD were similar to those seen at one year in the 10 mg once-daily study.
 
-In both studies, BMD responses were similar regardless of age (≥65 years vs. <65 years), gonadal function (baseline testosterone <9 ng/dL vs. ≥9 ng/dL), or baseline BMD (femoral neck and lumbar spine T-score ≤-2.5 vs. >-2.5).
+In both studies, BMD responses were similar regardless of age (greater than or equal to 65 years vs. less than 65 years), gonadal function (baseline testosterone less than 9 ng/dL vs. greater than or equal to 9 ng/dL), or baseline BMD (femoral neck and lumbar spine T-score less than or equal to -2.5 vs. greater than -2.5).

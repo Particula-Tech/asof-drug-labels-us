@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - BI FOLD CARD, OUTER 70 mg/2800 IU
+PRINCIPAL DISPLAY PANEL - BI FOLD CARD, OUTER 70 mg/2800 international units
 
 FOSAMAX® PLUS D (alendronate sodium/cholecalciferol) tablets
 
@@ -22,7 +22,7 @@ By: FROSST IBERICA, S. A. 28805 Alcalá de Henares Madrid, Spain
 
 Made in Spain
 
-PRINCIPAL DISPLAY PANEL - BI FOLD CARD, OUTER 70 mg/5600 IU
+PRINCIPAL DISPLAY PANEL - BI FOLD CARD, OUTER 70 mg/5600 international units
 
 FOSAMAX® PLUS D (alendronate sodium/cholecalciferol) tablets
 
