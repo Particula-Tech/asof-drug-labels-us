@@ -14,7 +14,8 @@ Stopping carbamazepine suddenly can cause serious problems.
 
 Carbamazepine can cause serious side effects, including:
 
-1.Carbamazepine may cause rare but serious skin rashes that may lead to death.
+1.
+Carbamazepine may cause rare but serious skin rashes that may lead to death.
 These serious skin reactions are more likely to happen when you begin taking carbamazepine within the first four months of treatment but may occur at later times.
 These reactions can happen in anyone, but are more likely in people of Asian descent.
 If you are of Asian descent, you may need a genetic blood test before you take carbamazepine to see if you are at a higher risk for serious skin reactions with this medicine.
@@ -25,7 +26,9 @@ Symptoms may include:
 - sores in your mouth
 - blistering or peeling of the skin
 
-2.Carbamazepine may cause rare but serious blood problems.
+2.
+Carbamazepine may cause rare but serious blood problems.
+
 Symptoms may include:
 
 - fever, sore throat or other infections that come and go or do not go away
@@ -34,7 +37,8 @@ Symptoms may include:
 - bleeding gums or nose bleeds
 - severe fatigue or weakness
 
-3.Like other antiepileptic drugs, carbamazepine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+3.
+Like other antiepileptic drugs, carbamazepine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -82,11 +86,11 @@ Do not take carbamazepine if you:
 - have a history of bone marrow depression.
 - are allergic to carbamazepine or any of the ingredients in Carbamazepine Tablets USP, Carbamazepine Oral Suspension USP, Carbamazepine Tablets USP (Chewable), or Carbamazepine Extended-Release Tablets USP.
   See the end of this Medication Guide for a complete list of ingredients in Carbamazepine Tablets USP, Carbamazepine Oral Suspension USP, Carbamazepine Tablets USP (Chewable), or Carbamazepine Extended-Release Tablets USP.
-  - take nefazodone.
-  - are allergic to medicines called tricyclic antidepressants (TCAs).
-    Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
-  - have taken a medicine called a Monoamine Oxidase Inhibitor (MAOI) in the last 14 days.
-    Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
+- take nefazodone.
+- are allergic to medicines called tricyclic antidepressants (TCAs).
+  Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
+- have taken a medicine called a Monoamine Oxidase Inhibitor (MAOI) in the last 14 days.
+  Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
 
 What should I tell my healthcare provider before taking carbamazepine?
 
@@ -123,7 +127,7 @@ Do not start or stop other medicines without talking to your healthcare provider
 Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-How should I take Carbamazepine?
+How should I take carbamazepine?
 
 - Do not stop taking carbamazepine without first talking to your healthcare provider.
   Stopping carbamazepine suddenly can cause serious problems.
@@ -133,15 +137,15 @@ How should I take Carbamazepine?
 - Your healthcare provider may change your dose.
   Do not change your dose of carbamazepine without talking to your healthcare provider.
 - Take carbamazepine with food.
-- Carbamazepine Extended-Release Tablets:
+- Carbamazepine extended-release tablets:
   - Do not crush, chew, or break carbamazepine extended-release tablets.
-  - Tell you healthcare provider if you can not swallow carbamazepine extended-release tablets whole.
-- Carbamazepine Oral Suspension:
+  - Tell your healthcare provider if you can not swallow carbamazepine extended-release tablets whole.
+- Carbamazepine oral suspension:
   - Shake the bottle well each time before use.
   - Do not take carbamazepine oral suspension at the same time you take other liquid medicines.
 - If you take too much carbamazepine, call your healthcare provider or local Poison Control Center right away.
 
-What should I avoid while taking Carbamazepine?
+What should I avoid while taking carbamazepine?
 
 - Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking carbamazepine until you talk to your healthcare provider.
   Carbamazepine taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
@@ -188,16 +192,16 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store carbamazepine?
 
-- Store Carbamazepine Tablets USP at 20°C–25°C (68°-77°F).
+- Store Carbamazepine Tablets USP at 20°C-25°C (68°-77°F).
   - Keep Carbamazepine tablets dry.
-- Store Carbamazepine Tablets USP (chewable) at 20°C–25°C (68°-77°F).
+- Store Carbamazepine Tablets USP (chewable) at 20°C-25°C (68°-77°F).
   - Keep Carbamazepine Tablets USP (chewable) out of the light.
   - Keep Carbamazepine Tablets USP (chewable) dry.
-- Store Carbamazepine Extended-Release Tablets USP at 20°C–25°C (68°-77°F).
+- Store Carbamazepine Extended-Release Tablets USP at 20°C-25°C (68°-77°F).
   - Keep Carbamazepine Extended-Release Tablets USP dry.
-- Store Carbamazepine Oral Suspension USP at 20°C–25°C (68°-77°F).
+- Store Carbamazepine Oral Suspension USP at 20°C-25°C (68°-77°F).
   - Shake well before using.
-  - Keep Carbamazepine Oral Suspension USP in a tight, light-resistant container.
+  - Keep Carbamazepine Oral Suspension USP in a tight, light resistant container.
 
 Keep carbamazepine and all medicines out of the reach of children.
 
@@ -207,6 +211,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use carbamazepine for a condition for which it was not prescribed.
 Do not give carbamazepine to other people, even if they have the same symptoms that you have.
 It may harm them.
+
 This Medication Guide summarizes the most important information about carbamazepine.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for the full prescribing information about carbamazepine that is written for health professionals.
@@ -223,11 +228,6 @@ Inactive ingredients:
 - Carbamazepine Oral Suspension USP, 100 mg/5 mL – citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol, purified water, sorbitol solution, sucrose and xanthan gum.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Made in Israel
 
-Distributed by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532
-
-Made in Israel.
-
-Revised: February 2012
-
-70725-0212-5
+Revised: April 2013 70725-0413-6
