@@ -194,9 +194,7 @@ Stay on side
 
 The person who received the ear drops should remain on his/her side for at least 5 minutes.
 
-JakeBrown31803
-
-JakRepeat Steps 2-5 for the other ear if both ears are infected.
+Repeat Steps 2-5 for the other ear if both ears are infected.
 
 How often should Ofloxacin Otic Solution 0.3% be given?
 
