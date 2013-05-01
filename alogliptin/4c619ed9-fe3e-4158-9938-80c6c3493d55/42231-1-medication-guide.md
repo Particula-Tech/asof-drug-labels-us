@@ -207,10 +207,10 @@ Takeda Pharmaceuticals America, Inc.
 
 Deerfield, IL 60015
 
-Revised: January 2013
+Revised: April 2013
 
 OSENI, NESINA and ACTOS are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc.
 
 © 2013 Takeda Pharmaceuticals America, Inc.
 
-ALP008 R1
+ALP008 R2

@@ -51,13 +51,13 @@ The mean increase in body weight was similar between pioglitazone alone and alog
 | Baseline (mean) | 8.5 | 8.6 | 8.5 | 8.5 | 8.5 | 8.5 | 8.5 | 8.6 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region, metformin dose and baseline value. with 95% confidence interval) | -0.1 | -0.9 | -0.8 | -0.9 | -1 | -1.3p≤0.01 when compared to pioglitazone and alogliptin alone. | -1.4 | -1.6 |
 | Difference from pioglitazone (adjusted mean with 95% confidence interval) | - | - | - | - | - | -0.5 (-0.7, -0.3) | -0.5 (-0.7, -0.3) | -0.6 (-0.8, -0.4) |
-| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | - | -0.4(-0.6, -0.1) | -0.5(-0.7, -0.3) | -0.7 (-0.9, -0.5) |
+| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | - | -0.4 (-0.6, -0.1) | -0.5 (-0.7, -0.3) | -0.7 (-0.9, -0.5) |
 | Patients (%) achieving A1C ≤7% | 6% (8/129) | 27% (35/129) | 26% (33/129) | 30% (38/129) | 36% (47/129) | 55% (71/130) | 53% (69/130) | 60% (78/130) |
 | Fasting Plasma Glucose (mg/dL) | N=129 | N=126 | N=127 | N=125 | N=129 | N=130 | N=126 | N=127 |
 | Baseline (mean) | 177 | 184 | 177 | 175 | 181 | 179 | 179 | 178 |
 | Change from baseline (adjusted mean with 95% confidence interval) | 7 | -19 | -24 | -29 | -32 | -38 | -42 | -53 |
-| Difference from pioglitazone (adjusted mean with 95% confidence interval) | - | - | - | - | - | -14(-24, -5) | -13(-23, -3) | -20(-30, -11) |
-| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | - | -19(-29, -10) | -23(-33, -13) | -34(-44, -24) |
+| Difference from pioglitazone (adjusted mean with 95% confidence interval) | - | - | - | - | - | -14 (-24, -5) | -13 (-23, -3) | -20 (-30, -11) |
+| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | - | -19 (-29, -10) | -23 (-33, -13) | -34 (-44, -24) |
 
 Figure 3.
 Change From Baseline in A1C at Week 26 with Alogliptin and Pioglitazone Alone and Alogliptin in Combination with Pioglitazone when Added to Metformin
@@ -68,7 +68,7 @@ In a 52-week, active-comparator study, a total of 803 patients inadequately cont
 Patients were maintained on a stable dose of metformin (median dose = 1700 mg).
 Patients who failed to meet pre-specified hyperglycemic goals during the 52-week treatment period received glycemic rescue therapy.
 
-In combination with pioglitazone and metformin, alogliptin 25 mg was shown to be statistically superior in lowering A1C and FPG compared with the titration of pioglitazone from 30 mg to 45 mg at Week 26 at Week 52 (Table 12, results shown only for Week 52).
+In combination with pioglitazone and metformin, alogliptin 25 mg was shown to be statistically superior in lowering A1C and FPG compared with the titration of pioglitazone from 30 mg to 45 mg at Week 26 and Week 52 (Table 12, results shown only for Week 52).
 A total of 11% of patients who were receiving alogliptin 25 mg in combination with pioglitazone 30 mg and metformin and 22% of patients receiving a dose titration of pioglitazone from 30 mg to 45 mg in combination with metformin required glycemic rescue.
 
 Improvements in A1C were not affected by gender, age, race, or baseline BMI.
