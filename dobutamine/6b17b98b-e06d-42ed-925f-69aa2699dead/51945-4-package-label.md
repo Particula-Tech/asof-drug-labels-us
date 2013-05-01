@@ -4,36 +4,28 @@ LOT
 
 EXP
 
-2B0791
+NDC 0338-1075-02
 
-NDC 0338-1073-02
+DOBUTamine
 
-250 mg Total
+Dobutamine Hydrochloride in 5% Dextrose Injection
 
-DOBUTamine Hydrochloride in 5% Dextrose Injection (1000 mcg/mL)
+500 mg per 250 mL (2,000 mcg / mL)
 
-250 mL Each 100 mL contains Dobutamine Hydrochloride USP equivalent to 100 mg Dobutamine 5 g Dextrose Hydrous USP 5 mEq/L sodium bisulfite added as a stabilizer pH adjusted with sodium hydroxide and/or hydrochloric acid pH 3.5 (2.5 to 5.5) Osmolarity 259 mOsmol/L (CALC) Sterile Nonpyrogenic Single dose container Drug additives should not be made to this solution Dosage Intravenously as directed by a physician See directions Cautions Must not be used in series connections Do not administer simultaneously with blood Do not use unless soluton is clear Rx Only
+250 ml Sterile single dose container Each 100 mL contains Dobutamine HCl USP equivalent to 200 mg Dobutamine and 5 g Dextrose Hydrous USP 5 mEq/L Sodium Bisulfite added as a stabilizer pH 3.5 (2.5 to 5.5) Osmolarity 266 mOsmol/L (CALC) Usual Dosage See Insert Do not add supplementary medication Store in moisture and oxygen barrier overwrap at room temperature (77ºF or 25ºC) until ready to use Rx Only
 
-VIAFLEX plus container
+Baxter Logo USA
 
-PL 2207 plastic
+2B0792
 
-Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Lot: Pxxxxxx QTY: 18-250 mL
 
-Made in USA
+Exp: xxx xxxx Code: 2B0792
 
-Baxter and VIAFLEX are trademarks of Baxter International Inc.
+NDC 0338-1075-02
 
-For product information 1-800-933-0303
+DOBUTamine 500mg per 250mL Dextrose 5% INJ
 
-Lot: XXXXXXX QTY: 18-250 mL
+Bar Code (17)XXXXX00(10)Pxxxxxx
 
-Exp: xxxx xxxx Code: 2B0791
-
-NDC 0338-1073-02
-
-DOBUTamine 250mg 250 mL Dextrose 5% INJ
-
-Bar Code (17)xx00(10)XXXXXXX
-
-Bar Code (01)50303381073027
+Bar Code (01)50303381075021
