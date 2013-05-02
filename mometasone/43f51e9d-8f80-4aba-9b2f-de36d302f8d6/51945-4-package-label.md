@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 15 g Carton
+PRINCIPAL DISPLAY PANEL - 15 g Tube Carton
 
 NDC 0085-0567-01
 
@@ -12,15 +12,15 @@ Not for ophthalmic use.
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 45 g Carton
+PRINCIPAL DISPLAY PANEL - 15 g Tube Carton
 
-NDC 0085-0567-02
+NDC 0085-3149-01
 
-45 g
+15 g
 
-ELOCON® Cream, 0.1% brand of (mometasone furoate cream USP)
+ELOCON® (mometasone furoate) Cream, 0.1%
 
-For dermatologic use only.
+For topical use only.
 
 Not for ophthalmic use.
 

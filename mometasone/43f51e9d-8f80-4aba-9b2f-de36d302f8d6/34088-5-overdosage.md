@@ -1,3 +1,3 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Topically applied ELOCON® Cream, 0.1% can be absorbed in sufficient amounts to produce systemic effects (see PRECAUTIONS).
+Topically applied ELOCON Cream can be absorbed in sufficient amounts to produce systemic effects [see Warnings and Precautions (5.1)].

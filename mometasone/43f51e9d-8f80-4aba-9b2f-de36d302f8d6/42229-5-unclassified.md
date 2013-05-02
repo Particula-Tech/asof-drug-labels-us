@@ -1,15 +1,7 @@
-For Dermatologic Use Only
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Not for Ophthalmic Use
+Manufactured by: Schering-Plough Labo NV Heist-op-den-Berg, Belgium
 
-PRODUCT INFORMATION
+Copyright © 1987, 2008, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Manufactured by: Schering-Plough Canada, Inc., Pointe Claire, Quebec, Canada.
-Distributed by: Schering Corporation, a subsidiary of
-
-Copyright © 1987, 2008 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
-
-The trademarks depicted in this piece are owned by their respective companies.
-
-Rev.
-4/10 34304700T
+032088-EL-CR-USPI.7

@@ -1,5 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ELOCON® Cream, 0.1% is supplied in 15-g (NDC 0085-0567-01) and 45-g (NDC 0085-0567-02) tubes; boxes of one.
+ELOCON Cream is white to off-white in color and supplied in 15-gram (NDC 0085-3149-01) and 50-gram (NDC 0085-3149-03) tubes.
 
-Store at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Avoid excessive heat.
