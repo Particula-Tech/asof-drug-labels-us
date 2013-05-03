@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA017794"
+  ],
+  "inn": "lorazepam",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0063-01",
+    "0187-0064-01",
+    "0187-0064-10",
+    "0187-0065-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lorazepam",
+      "name": "Ativan"
+    }
+  ],
+  "setid": "89057c93-8155-4040-acec-64e877bd2b4c",
+  "source": "dailymed"
+}
