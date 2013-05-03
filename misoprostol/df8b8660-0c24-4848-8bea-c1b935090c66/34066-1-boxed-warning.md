@@ -6,7 +6,7 @@ UTERINE RUPTURE HAS BEEN REPORTED WHEN MISOPROSTOL WAS ADMINISTERED IN PREGNANT 
 DICLOFENAC SODIUM/MISOPROSTOL TABLETS SHOULD NOT BE TAKEN BY PREGNANT WOMEN (see CONTRAINDICATIONS, WARNINGS and PRECAUTIONS).
 
 PATIENTS MUST BE ADVISED OF THE ABORTIFACIENT PROPERTY AND WARNED NOT TO GIVE THE DRUG TO OTHERS.
-DICLOFENAC SODIUM/MISOPROSTOL TABLETS should not be used in women of childbearing potential unless the patient requires nonsteroidal anti­inflammatory drug (NSAID) therapy and is at high risk of developing gastric or duodenal ulceration or for developing complications from gastric or duodenal ulcers associated with the use of the NSAID (see WARNINGS).
+DICLOFENAC SODIUM/MISOPROSTOL TABLETS should not be used in women of childbearing potential unless the patient requires nonsteroidal anti-­inflammatory drug (NSAID) therapy and is at high risk of developing gastric or duodenal ulceration or for developing complications from gastric or duodenal ulcers associated with the use of the NSAID (see WARNINGS).
 In such patients, diclofenac sodium and misoprostol delayed-release tablets may be prescribed if the patient:
 
 - has had a negative serum pregnancy test within 2 weeks prior to beginning therapy.

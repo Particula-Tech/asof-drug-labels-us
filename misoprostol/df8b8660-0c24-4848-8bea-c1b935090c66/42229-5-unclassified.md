@@ -14,7 +14,7 @@ Patients should be informed about the signs and/or symptoms of serious CV events
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
 The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
 
-Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
 ## Hypertension
 
@@ -25,14 +25,15 @@ Blood pressure (BP) should be monitored closely during the initiation of NSAID t
 
 ## Congestive Heart Failure and Edema
 
-Fluid retention and edema have been observed in some patients taking NSAIDs. diclofenac sodium and misoprostol delayed-release tablets should be used with caution in patients with fluid retention or heart failure.
+Fluid retention and edema have been observed in some patients taking NSAIDs.
+Diclofenac sodium and misoprostol delayed-release tablets should be used with caution in patients with fluid retention or heart failure.
 
 ## Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
 
 NSAIDs, including diclofenac sodium and misoprostol delayed-release tablets, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3-6 months, and in about 2-4% of patients treated for one year.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3 to 6 months, and in about 2 to 4% of patients treated for one year.
 These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
 However, even short-term therapy is not without risk.
 NSAIDs should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
@@ -73,15 +74,16 @@ Borderline elevations (i.e., less than 3 times the ULN), or greater elevations o
 Of the markers of hepatic function, ALT (SGPT) is recommended for the monitoring of liver injury.
 
 In clinical trials, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) (ALT was not measured in all studies) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment.
-In a large, open-label, controlled trial of 3,700 patients treated for 2-6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
+In a large, open-label, controlled trial of 3,700 patients treated for 2 to 6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
 Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (i.e., more than 8 times the ULN) in about 1% of the 3,700 patients.
-In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3–8 times the ULN), and marked (>8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
+In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3 to 8 times the ULN), and marked (>8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
 Elevations in transaminases were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
+In another clinical trial where over 17,000 patients received diclofenac for a mean of 18 months, hepatitis was rarely observed.
 
 Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
 Abnormal tests occurred during the first 2 months of therapy with diclofenac in 42 of the 51 patients in all trials who developed marked transaminase elevations.
 
-In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of therapy, but can occur at any time during treatment with diclofenac.
+In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and usually occur within 1 to 6 months, but can occur at any time during treatment with diclofenac.
 Postmarketing surveillance has reported cases of severe hepatic reactions, including liver necrosis, jaundice, fulminant hepatitis with and without jaundice, and liver failure.
 Some of these reported cases resulted in fatalities or liver transplantation.
 
@@ -189,10 +191,12 @@ It has been prescribed for your specific condition, may not be the correct treat
 This information sheet does not cover all possible side effects of diclofenac sodium and misoprostol delayed-release tablets.
 See your doctor if you have questions.
 Keep out of reach of children.
-Rx only
+
+This product’s label may have been updated.
+For current full prescribing information, please visit www.watson.com Rx only
 
 Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
 
 Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: 04/2012 204843-1
+Revised: May 2013 204843-5

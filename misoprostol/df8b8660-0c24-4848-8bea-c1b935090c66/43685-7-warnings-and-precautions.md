@@ -67,7 +67,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
   Patients should be apprised of the importance of this follow-up (see WARNINGS, CARDIOVASCULAR EFFECTS).
 - Diclofenac sodium and misoprostol delayed-release tablets, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulceration and bleeding, and should ask for medical advice when observing any indicative sign or symptoms, including epigastric pain, dyspepsia, melena, and hematemesis.
-  Patients should be apprised of the importance of this follow-up see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
+  Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
 - Diclofenac sodium and misoprostol delayed-release tablets, like other NSAIDs, can cause serious skin side effects, such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalization and even death.
   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative sign or symptoms.
   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
@@ -105,6 +105,9 @@ ACE-Inhibitors:
 
 Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
 This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, may result in deterioration of renal function, including possible acute renal failure.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 Aspirin:
 
@@ -157,19 +160,31 @@ Thus, it is not recommended that diclofenac sodium and misoprostol delayed-relea
 
 Diuretics:
 
-Clinical studies, as well as post marketing observations, have shown that diclofenac sodium and misoprostol delayed-release tablets can reduce the natriuretic effect of furosemide and thiazides in some patients.
+Clinical studies, as well as postmarketing observations, have shown that diclofenac sodium and misoprostol delayed-release tablets can reduce the natriuretic effect of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 Concomitant therapy with potassium-sparing diuretics may be associated with increased serum potassium levels.
+
+CYP2C9 inhibitors:
+
+Use caution when dosing diclofenac with CYP2C9 inhibitors (e.g. voriconazole).
+Concomitant use of CYP2C9 inhibitors may enhance toxicity of diclofenac due to an increase in systemic exposure to diclofenac.
+When concomitant use of CYP2C9 inhibitors is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of diclofenac sodium and misoprostol delayed-release tablets, 50 mg/0.2 mg twice daily (see DOSAGE AND ADMINISTRATION).
 
 Voriconazole:
 
 In a published study, single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2).
 The mean Cmax and AUC of diclofenac were increased by 2.1-fold and 1.8-fold respectively when coadministered with voriconazole compared to diclofenac alone.
 
+CYP2C9 inducers:
+
+Use caution when dosing diclofenac with CYP2C9 inducers (e.g. rifampin).
+Concomitant use of CYP2C9 inducers may lead to compromised efficacy due to a decrease in systemic exposure to diclofenac.
+The separate products of misoprostol and diclofenac should be used if a higher dose of diclofenac is deemed necessary (see DOSAGE AND ADMINISTRATION).
+
 Other drugs:
 
-In small groups of patients (7–10 patients/interaction study), the concomitant administration of azathioprine, gold, chloroquine, D-penicillamine, prednisolone, doxycycline or digitoxin did not significantly affect the peak levels and AUC levels of diclofenac sodium.
+In small groups of patients (7 to 10 patients/interaction study), the concomitant administration of azathioprine, gold, chloroquine, D-penicillamine, prednisolone, doxycycline, or digitoxin did not significantly affect the peak levels and AUC levels of diclofenac sodium.
 Phenobarbital toxicity has been reported to have occurred in a patient on chronic phenobarbital treatment following the initiation of diclofenac therapy.
 In vitro, diclofenac interferes minimally with the protein binding of prednisolone (10% decrease in binding).
 Benzylpenicillin, ampicillin, oxacillin, chlortetracycline, doxycycline, cephalothin, erythromycin, and sulfamethoxazole have no influence, in vitro, on the protein binding of diclofenac in human serum.
@@ -186,12 +201,12 @@ Hyperostosis did not occur in long-term studies in the dog and rat and has not b
 Long-term animal studies to evaluate the potential for carcinogenesis and animal studies to evaluate the effects on fertility have been performed with each component of diclofenac sodium and misoprostol delayed-release tablets given alone.
 Diclofenac sodium and misoprostol delayed-release tablets itself (diclofenac sodium and misoprostol combinations in 250:1 ratio) was not genotoxic in the Ames test, the Chinese hamster ovary cell (CHO/HGPRT) forward mutation test, the rat lymphocyte chromosome aberration test, or the mouse micronucleus test.
 
-In a 24-month at carcinogenicity study, oral misoprostol at doses up to 2.4 mg/kg/day (14.4 mg/m2/day, 24 times the recommended maximum human dose of 0.6 mg/m2/day) was not tumorigenic.
+In a 24-month rat carcinogenicity study, oral misoprostol at doses up to 2.4 mg/kg/day (14.4 mg/m2/day, 24 times the recommended maximum human dose of 0.6 mg/m2/day) was not tumorigenic.
 In a 21-month mouse carcinogenicity study, oral misoprostol at doses up to 16 mg/kg/day (48 mg/m2/day), 80 times the recommended maximum human dose based on body surface area, was not tumorigenic.
 Misoprostol, when administered to male and female breeding rats in an oral dose range of 0.1 to 10 mg/kg/day (0.6 to 60 mg/m2/day, 1 to 100 times the recommended maximum human dose based on body surface area) produced dose-related pre- and post-implantation losses and a significant decrease in the number of live pups born at the highest dose.
 These findings suggest the possibility of a general adverse effect on fertility in males and females.
 
-In a 24-month at carcinogenicity study, oral diclofenac sodium up to 2 mg/kg/day (12 mg/m2/day) was not tumorigenic.
+In a 24-month rat carcinogenicity study, oral diclofenac sodium up to 2 mg/kg/day (12 mg/m2/day) was not tumorigenic.
 For a 50-kg person of average height (1.46m2 body surface area), this dose represents 0.08 times the recommended maximum human dose (148 mg/m2) on a body surface area basis.
 In a 24-month mouse carcinogenicity study, oral diclofenac sodium at doses up to 0.3 mg/kg/day (0.9 mg/m2/day, 0.006 times the recommended maximum human dose based on body surface area) in males and 1 mg/kg/day (3 mg/m2/day, 0.02 times the recommended maximum human dose based on body surface area) in females was not tumorigenic.
 Diclofenac sodium at oral doses up to 4 mg/kg/day (24 mg/m2/day, 0.16 times the recommended maximum human dose based on body surface area) was found to have no effect on fertility and reproductive performance of male and female rats.
@@ -238,7 +253,7 @@ There are no adequate and well-controlled studies in pregnant women.
 
 Diclofenac sodium has been found in the milk of nursing mothers.
 Misoprostol is rapidly metabolized in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
-There are no published reports of adverse effects of misoprostol in breast-feeding infants of mothers taking misoprostol.
+There are no published reports of adverse effects of misoprostol in breastfeeding infants of mothers taking misoprostol.
 Caution should be exercised when Diclofenac sodium/Misoprostol tablets is administered to a nursing woman.
 
 ## Labor and Delivery

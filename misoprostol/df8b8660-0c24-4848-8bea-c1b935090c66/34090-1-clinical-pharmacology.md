@@ -2,19 +2,19 @@
 
 ## Pharmacodynamics and pharmacokinetics of diclofenac sodium
 
-Diclofenac sodium is a nonsteroidal anti-inflammatory drug NSAID).
+Diclofenac sodium is a nonsteroidal anti-inflammatory drug (NSAID).
 In pharmacologic studies, diclofenac sodium has shown anti-inflammatory, analgesic, and antipyretic properties.
 The mechanism of action of diclofenac sodium, like other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition.
 
 Diclofenac sodium is completely absorbed from the GI tract after fasting, oral administration.
 The diclofenac sodium in diclofenac sodium and misoprostol delayed-release tablets is in a pharmaceutical formulation that resists dissolution in the low pH of gastric fluid but allows a rapid release of drug in the higher pH environment of the duodenum.
 Only 50% of the absorbed dose is systemically available due to first pass metabolism.
-Peak plasma levels are achieved in 2 hours (range 1–4 hours), and the area under the plasma concentration curve (AUC) is dose-proportional within the range of 25 mg to 150 mg.
+Peak plasma levels are achieved in 2 hours (range 1 to 4 hours), and the area under the plasma concentration curve (AUC) is dose-proportional within the range of 25 mg to 150 mg.
 Peak plasma levels are less than dose-proportional and are approximately 1.5 and 2.0 mcg/mL for 50 mg and 75 mg doses, respectively.
 
 Five diclofenac metabolites have been identified in human plasma and urine.
 The metabolites include 4’-hydroxy-, 5-hydroxy-, 3’-hydroxy-, 4’,5-dihydroxy- and 3’-hydroxy-4’-methoxy diclofenac.
-The major diclofenac metabolite, 4’-hydroxy-diclofenac, has a very weak pharmacologic activity.
+The major diclofenac metabolite, 4’-hydroxy-diclofenac, has very weak pharmacologic activity.
 The formation of 4’-hydroxy-diclofenac is primarily mediated by CYP2C9.
 Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
 Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
@@ -27,11 +27,11 @@ More than 99% of diclofenac sodium is reversibly bound to human plasma albumin.
 Diclofenac sodium is eliminated through metabolism and subsequent urinary and biliary excretion of the glucuronide and the sulfate conjugates of the metabolites.
 Approximately 65% of the dose is excreted in the urine and 35% in the bile.
 
-Conjugates of unchanged diclofenac account for 5–10% of the dose excreted in the urine and for less than 5% excreted in the bile.
+Conjugates of unchanged diclofenac account for 5-10% of the dose excreted in the urine and for less than 5% excreted in the bile.
 Little or no unchanged unconjugated drug is excreted.
-Conjugates of the principal metabolite account for 20–30% of the dose excreted in the urine and for 10–20% of the dose excreted in the bile.
+Conjugates of the principal metabolite account for 20–30% of the dose excreted in the urine and for 10-20% of the dose excreted in the bile.
 
-Conjugates of three other metabolites together account for 10–20% of the dose excreted in the urine and for small amounts excreted in the bile.
+Conjugates of three other metabolites together account for 10 to 20% of the dose excreted in the urine and for small amounts excreted in the bile.
 The elimination half-life values for these metabolites are shorter than those for the parent drug.
 Urinary excretion of an additional metabolite (half-life = 80 hours) accounts for only 1.4% of the oral dose.
 The degree of accumulation of diclofenac metabolites is unknown.
@@ -55,7 +55,7 @@ It is likely that these specific receptors allow misoprostol taken with food to 
 Misoprostol produces a moderate decrease in pepsin concentration during basal conditions, but not during histamine stimulation.
 It has no significant effect on fasting or postprandial gastrin nor intrinsic factor output.
 
-Effects on gastric acid secretion: Misoprostol, over the range of 50–200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
+Effects on gastric acid secretion: Misoprostol, over the range of 50 to 200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
 Activity is apparent 30 minutes after oral administration and persists for at least 3 hours.
 In general, the effects of 50 mcg were modest and shorter-lived, and only the 200 mcg dose had substantial effects on nocturnal secretion or on histamine- and meal-stimulated secretion.
 
@@ -101,7 +101,7 @@ Food decreases the multiple-dose bioavailability profile of diclofenac sodium an
 
 ### Specific populations
 
-A 4-week study, comparing plasma level profiles of diclofenac 50 mg bid) n younger (26–46 years) versus older (66–81 years) adults, did not show differences between age groups (10 patients per age group).
+A 4-week study, comparing plasma level profiles of diclofenac (50 mg bid) in younger (26 to 46 years) versus older (66 to 81 years) adults, did not show differences between age groups (10 patients per age group).
 In a multiple-dose (bid) crossover study of 24 people aged 65 years or older, the misoprostol contained in diclofenac sodium and misoprostol delayed-release tablets did not affect the pharmacokinetics of diclofenac sodium.
 
 Differences in the pharmacokinetics of diclofenac have not been detected in studies of patients with renal (50 mg intravenously) or hepatic impairment (100 mg oral solution).

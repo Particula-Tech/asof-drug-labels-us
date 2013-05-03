@@ -12,7 +12,7 @@ Diclofenac sodium, as a single ingredient or in combination with misoprostol, ha
 
 Diclofenac, and other NSAIDs, have caused serious gastrointestinal toxicity, such as bleeding, ulceration, and perforation of the stomach, small intestine or large intestine.
 Misoprostol has been shown to reduce the incidence of endoscopically diagnosed NSAID-induced gastric and duodenal ulcers.
-In a 12-week, randomized, double-blind, dose response study, misoprostol 200 mcg administered qid, tid, or bid, was significantly more effective than placebo in reducing the incidence of gastric ulcer in OA and RA patients using a variety of NSAIDs.
+In a 12-week, randomized, double-blind, dose-response study, misoprostol 200 mcg administered qid, tid, or bid, was significantly more effective than placebo in reducing the incidence of gastric ulcer in OA and RA patients using a variety of NSAIDs.
 The tid regimen was therapeutically equivalent to misoprostol 200 mcg qid with respect to the prevention of gastric ulcers.
 Misoprostol 200 mcg given bid was less effective than 200 mcg given tid or qid.
 The incidence of NSAID-induced duodenal ulcer was also significantly reduced with all three regimens of misoprostol compared to placebo (see Table 2).
@@ -35,7 +35,7 @@ Table 3
 
 | Osteoarthritis patients with history of ulcer or erosive disease (N=572), 6 weeks | Incidence of ulcers |  |
 | --- | --- | --- |
-|  | Gastric | Duodenal |
+|  | Gastric | Duodena |
 | Diclofenac Sodium/ Misoprostol Tablets 50 mg/0.2 mg tid | 3%* | 6% |
 | Diclofenac Sodium/ Misoprostol Tablets 75 mg/0.2 mg bid | 4%* | 3% |
 | diclofenac sodium 75 mg bid | 11% | 7% |

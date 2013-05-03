@@ -92,7 +92,7 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 - stomach pain
 - unusual weight gain
 - flu-like symptoms
-- swelling of the arms and legs, hand and feet
+- swelling of the arms and legs, hands and feet
 
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
@@ -105,8 +105,10 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 - Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
-- Some of these NSAID medicines are sold in lower doses without a prescription (over –the –counter).
-  Talk to your healthcare provider before using over –the –counter NSAIDs for more than 10 days.
+- Some of these NSAID medicines are sold in lower doses without a prescription (over–the–counter).
+  Talk to your healthcare provider before using over–the–counter NSAIDs for more than 10 days.
+
+NSAID medicines that need a prescription
 
 | Generic Name | Tradename |
 | --- | --- |
@@ -116,7 +118,7 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 | Etodolac | Lodine, Lodine XL |
 | Fenoprofen | Nalfon, Nalfon 200 |
 | Flurbiprofen | Ansaid |
-| Ibuprofen | Motrin, Tab-Profen, Vicoprofen* combined with hydrocodone), Combunox (combined with oxycodone) |
+| Ibuprofen | Motrin, Tab-Profen, Vicoprofen* (combined with hydrocodone), Combunox (combined with oxycodone) |
 | Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
 | Ketoprofen | Oruvail |
 | Ketorolac | Toradol |
@@ -138,4 +140,4 @@ Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
 
 Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: 04/2012
+Revised: May 2013
