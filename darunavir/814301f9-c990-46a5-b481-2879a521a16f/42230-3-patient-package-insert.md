@@ -136,7 +136,7 @@ Especially tell your healthcare provider if you take:
 - medicine to treat schizophrenia such as risperidone (Risperdal®), thioridazine
 - medicine to treat erectile dysfunction or pulmonary hypertension such as sildenafil (Viagra®, Revatio®), vardenafil (Levitra®, Staxyn®), tadalafil (Cialis®, Adcirca®)
 - medicine to treat anxiety, depression or panic disorder such as sertraline (Zoloft®), paroxetine (Paxil®, Pexeva®)
-- medicine to treat malaria (Coartem®)
+- medicine to treat malaria such as artemether/lumefantrine (Coartem®)
 
 This is not a complete list of medicines that you should tell your healthcare provider that you are taking.
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one that is listed above.
@@ -159,7 +159,7 @@ How should I take PREZISTA?
   If your child does not tolerate ritonavir oral solution, ask your child's healthcare provider for advice.
 - PREZISTA oral suspension should be given with the supplied oral dosing syringe.
   Shake the suspension well before each use.
-  See the Instructions for Use that with PREZISTA oral suspension for information about the right way to prepare and take a dose.
+  See the Instructions for Use that come with PREZISTA oral suspension for information about the right way to prepare and take a dose.
 - If your or your child's prescribed dose of PREZISTA oral suspension is more than 6 mL, you will need to divide the dose.
   Follow the instructions given to you by your healthcare provider or pharmacist about how to divide the dose.
   Ask your healthcare provider or pharmacist if you are not sure.
@@ -280,4 +280,4 @@ PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: February 2013
+Revised: April 2013

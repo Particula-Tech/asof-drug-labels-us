@@ -16,7 +16,7 @@ INSTRUCTIONS FOR USE
 PREZISTA® (pre-ZIS-ta) (darunavir) Oral Suspension
 
 Be sure that you read, understand, and follow these Instructions for Use so that you measure and take PREZISTA Oral Suspension correctly.
-Ask your healthcare provider or healthcare provider if you are not sure.
+Ask your healthcare provider if you are not sure.
 
 | Each PREZISTA Oral Suspension carton contains: 1 bottle of PREZISTA Oral SuspensionOral dosing syringe1 oral syringe adapter |  |
 | --- | --- |
@@ -57,4 +57,4 @@ Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusv
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: February 2013
+Revised: April 2013

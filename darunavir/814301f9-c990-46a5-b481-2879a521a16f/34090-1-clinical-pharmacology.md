@@ -105,7 +105,7 @@ Pediatric Patients
 
 PREZISTA/ritonavir administered twice daily:
 
-The pharmacokinetics of darunavir in combination with ritonavir in 92 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg showed that the administered weight-based dosages resulted in similar darunavir exposure when compared to the darunavir exposure achieved in treatment-experienced adults receiving PREZISTA/ritonavir 600/100 mg twice daily [see Dosage and Administration (2.2)].
+The pharmacokinetics of darunavir in combination with ritonavir in 93 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg showed that the administered weight-based dosages resulted in similar darunavir exposure when compared to the darunavir exposure achieved in treatment-experienced adults receiving PREZISTA/ritonavir 600/100 mg twice daily [see Dosage and Administration (2.2)].
 
 PREZISTA/ritonavir administered once daily:
 
@@ -118,15 +118,15 @@ The population pharmacokinetic parameters in pediatric subjects with PREZISTA/ri
 
 Table 13: Population Pharmacokinetic Estimates of Darunavir Exposure (Study TMC114-C230, Study TMC114-C212 and Study TMC114-C228) Following Administration of Doses in Tables 2 and 3
 
-| 10 to less than 15 kgPopulation pharmacokinetic parameter estimates based on the Weeks 2 and 4 analysis that evaluated a darunavir dose of 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily. N = 10 | 15 to less than 20 kgThe 15 kg to less than 20 kg weight group received 380 mg (3.8 mL) PREZISTA oral suspension twice daily with 48 mg (0.6 mL) ritonavir oral solution twice daily in TMC114-C228. Population pharmacokinetic parameter estimates based on the Week 2 and Week 24 analysis that evaluated a darunavir dose of 380 mg twice daily. N = 12 |  |  |  |
+| 10 to less than 15 kgCalculated from individual pharmacokinetic parameters estimated for Week 2 and Week 4, based on the Week 48 analysis that evaluated a darunavir dose of 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily. N = 10 | 15 to less than 20 kgThe 15 kg to less than 20 kg weight group received 380 mg (3.8 mL) PREZISTA oral suspension twice daily with 48 mg (0.6 mL) ritonavir oral solution twice daily in TMC114-C228. Calculated from individual pharmacokinetic parameters estimated for Week 2 post-dose adjustment visit; Week 24 and Week 48 based on the - Week 48 analysis that evaluated a darunavir dose of 380 mg twice daily. N = 13 |  |  |  |
 | --- | --- | --- | --- | --- |
 | Parameter | Study TMC114-C230 PREZISTA/ritonavir once dailySummary statistics for population pharmacokinetic parameter estimates for DRV after administration of DRV/rtv at 800/100 mg q.d. in treatment-naïve HIV-1 infected subjects from 12 to < 18 years of age –Week-48 Analyses N = 12 | Study TMC114-C212 PREZISTA/ ritonavir twice daily N = 74 | Study TMC114-C228 PREZISTA/ ritonavir twice dailySubjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group. |  |
 | AUC24h (ng∙h/mL) AUC24h is calculated as AUC12h*2 |  |  |  |  |
-| Mean ± Standard Deviation | 84390 ± 23587 | 126377 ± 34356 | 137399 ± 51067 | 158773 ± 61932 |
-| Median (Range) | 86741 (35527–123325) | 127340 (67054–230720) | 123229 (92098–262720) | 138578 (104974–317420) |
+| Mean ± Standard Deviation | 84390 ± 23587 | 126377 ± 34356 | 137896 ± 51420 | 157760 ± 54080 |
+| Median (Range) | 86741 (35527–123325) | 127340 (67054–230720) | 124044 (89688–261090) | 132698 (112310 – 294840) |
 | C0h (ng/mL) |  |  |  |  |
-| Mean ± Standard Deviation | 2141 ± 865 | 3948 ± 1363 | 4429 ± 2064 | 4858 ± 2521 |
-| Median (Range) | 2234 (542–3776) | 3888 (1836–7821) | 4010 (2576–9488) | 4469 (2733–11300) |
+| Mean ± Standard Deviation | 2141 ± 865 | 3948 ± 1363 | 4510 ± 2031 | 4848 ± 2143 |
+| Median (Range) | 2234 (542–3776) | 3888 (1836–7821) | 4126 (2456–9361) | 3927 (3046 – 10292) |
 | N = number of subjects with data. |  |  |  |  |
 
 Drug Interactions

@@ -17,7 +17,7 @@ Randomization was stratified by screening plasma viral load (HIV-1 RNA less than
 Virologic response was defined as a confirmed plasma HIV-1 RNA viral load less than 50 copies/mL.
 Analyses included 689 subjects in Study TMC114-C211 who had completed 192 weeks of treatment or discontinued earlier.
 
-Demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the lopinavir/ritonavir arm (seeTable 18).
+Demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the lopinavir/ritonavir arm (see Table 18).
 Table 18 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 800/100 mg once daily arm and subjects in the lopinavir/ritonavir 800/200 mg per day arm in Study TMC114-C211.
 
 Table 18: Demographic and Baseline Characteristics of Subjects in Study TMC114-C211
@@ -136,7 +136,7 @@ HIV-1-infected subjects who were eligible for this trial had plasma HIV-1 RNA gr
 Virologic response was defined as a confirmed plasma HIV-1 RNA viral load less than 400 copies/mL.
 Analyses included 595 subjects in Study TMC114-C214 who had completed 96 weeks of treatment or discontinued earlier.
 
-Demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the lopinavir/ritonavir arm (seeTable 22).
+Demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the lopinavir/ritonavir arm (see Table 22).
 Table 22 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 600/100 mg twice daily arm and subjects in the lopinavir/ritonavir 400/100 mg twice daily arm in Study TMC114-C214.
 
 Table 22: Demographic and Baseline Characteristics of Subjects in Study TMC114-C214
@@ -283,7 +283,7 @@ Of the patients who discontinued, one patient discontinued treatment due to an a
 An additional 2 patients discontinued for other reasons, one patient due to compliance and another patient due to relocation.
 
 The proportion of pediatric subjects with HIV-1 RNA less than 400 copies/mL and less than 50 copies/mL was 64% and 50%, respectively.
-The mean CD4+ cell count increase from baseline was 117 cells/mm3.
+The mean increase in CD4+ cell count from baseline was 117 cells/mm3.
 
 Study TMC114-C228
 
@@ -295,12 +295,12 @@ The mean baseline plasma HIV-1 was 4.34 log10 copies/mL, the median baseline CD4
 Overall, 24% of subjects had a baseline plasma HIV-1 RNA greater than or equal to 100,000 copies/mL.
 All subjects had used greater than or equal to 2 NRTIs, 62% of subjects had used greater than or equal to 1 NNRTI and 76% had previously used at least one HIV PI.
 
-Twenty subjects (95%) completed the 24 week period.
+Twenty subjects (95%) completed the 48 week period.
 One subject prematurely discontinued treatment due to vomiting assessed as related to ritonavir.
 
-The proportion of subjects with HIV-1 RNA less than 50 copies/mL and less than 400 copies/mL was 57% and 81%, respectively.
-The mean change in CD4+ percentage from baseline was 4%.
-The mean change in CD4+ cell count from baseline was 109 × 106 cells/L.
+The proportion of subjects with HIV-1 RNA less than 50 copies/mL at Week 48 was 71%..
+The mean increase in CD4+ percentage from baseline was 4%.
+The mean change in CD4+ cell count from baseline was 187 × 106 cells/L.
 
 Study TMC114-C230
 
@@ -313,4 +313,4 @@ Overall, 41.7% of pediatric subjects had baseline plasma HIV-1 RNA ≥ 100,000 c
 All subjects completed the 48 week treatment period.
 
 The proportion of subjects with HIV-1 RNA less than 50 copies/mL and less than 400 copies/mL was 83.3% and 91.7%, respectively.
-The mean change in CD4+ cell count from baseline was 221 × 106 cells/L.
+The mean increase in CD4+ cell count from baseline was 221 × 106 cells/L.

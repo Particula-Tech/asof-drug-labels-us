@@ -227,19 +227,19 @@ Frequency, type, and severity of ADRs in pediatric subjects were comparable to t
 
 Study TMC114-C212
 
-ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 3%), excluding laboratory abnormalities reported as ADRs, were vomiting (13%), diarrhea (11%), abdominal pain (10%), headache (9%), rash (5%), nausea (4%) and fatigue (3%).
+Clinical ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 3%), were vomiting (13%), diarrhea (11%), abdominal pain (10%), headache (9%), rash (5%), nausea (4%) and fatigue (3%).
 
 Grade 3 or 4 laboratory abnormalities were ALT increased (Grade 3: 3%; Grade 4: 1%), AST increased (Grade 3: 1%), pancreatic amylase increased (Grade 3: 4%, Grade 4: 1%), pancreatic lipase increased (Grade 3: 1%), total cholesterol increased (Grade 3: 1%), and LDL increased (Grade 3: 3%).
 
 Study TMC114-C228
 
-ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 3%), excluding laboratory abnormalities, were diarrhea (19%), vomiting (14%) and rash (10%).
+Clinical ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 5%), were diarrhea (24%), vomiting (19%),rash (19%), abdominal pain (5%) and anorexia (5%).
 
 There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this study.
 
 Study TMC114-C230
 
-ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 3%), excluding laboratory abnormalities reported as ADRs, were vomiting (33%), nausea (25%), diarrhea (16.7%), abdominal pain (8.3%), decreased appetite (8.3%), prurirtus (8.3%), and rash (8.3%).
+Clinical ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 3%), were vomiting (33%), nausea (25%), diarrhea (16.7%), abdominal pain (8.3%), decreased appetite (8.3%), prurirtus (8.3%), and rash (8.3%).
 
 There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this study.
 

@@ -10,7 +10,7 @@ This indication is based on analyses of plasma HIV-1 RNA levels and CD4+ cell co
 
 PREZISTA, co-administered with ritonavir (PREZISTA/ritonavir), and with other antiretroviral agents, is indicated for the treatment of HIV-1 infection in pediatric patients 3 years of age and older [see Use in Specific Populations (8.4)].
 
-The indication for treatment-experienced pediatric patients 3 to less than 18 years of age is based on 24-week analyses of plasma HIV-1 RNA levels and CD4+ cell counts from two open-label Phase 2 trials in antiretroviral treatment-experienced pediatric subjects.
+The indication for treatment-experienced pediatric patients 3 to less than 18 years of age is based on analyses of plasma HIV-1 RNA levels and CD4+ cell counts from two open-label Phase 2 trials in antiretroviral treatment-experienced pediatric subjects(24-week analysis for one trial in patients 6 to less than 18 years of age; 48-week analysis for one trial in patients 3 to less than 6 years of age).
 The indication for treatment-naïve pediatric patients or antiretroviral treatment-experienced patients with no darunavir resistance associated substitutions is based on one open-label Phase 2 trial of 48 weeks duration in antiretroviral treatment-naïve subjects 12 to less than 18 years of age and pharmacokinetic modeling and simulation for patients 3 to less than 12 years of age.
 
 In treatment-experienced adult and pediatric patients, the following points should be considered when initiating therapy with PREZISTA/ritonavir:
