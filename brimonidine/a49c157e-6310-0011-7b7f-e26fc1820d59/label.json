@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204251"
+  ],
+  "inn": "brimonidine",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-4147-27"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "brinzolamide/brimonidine tartrate",
+      "name": "SIMBRINZA"
+    }
+  ],
+  "setid": "a49c157e-6310-0011-7b7f-e26fc1820d59",
+  "source": "dailymed"
+}
