@@ -1,5 +1,6 @@
 {
   "application_numbers": [
+    "NDA019891",
     "NDA019892"
   ],
   "inn": "hydromorphone",
@@ -17,12 +18,12 @@
     {
       "form": "LIQUID",
       "generic": "hydromorphone hydrochloride",
-      "name": "Dilaudid"
+      "name": "DILAUDID"
     },
     {
       "form": "TABLET",
       "generic": "hydromorphone hydrochloride",
-      "name": "Dilaudid"
+      "name": "DILAUDID"
     }
   ],
   "setid": "3afae8b9-bb24-447a-bc7f-041c8326a438",
