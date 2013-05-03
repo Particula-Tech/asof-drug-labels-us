@@ -2,22 +2,22 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Agranulocytosis [see Warnings and Precautions (5.1)].
-- Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
-- Seizures [see Warnings and Precautions (5.4)].
-- Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.5)].
-- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.6)].
-- Eosinophilia [see Warnings and Precautions (5.7)].
-- QT Interval Prolongation [see Warnings and Precautions (5.8)].
-- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.9)].
-- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.10)].
-- Fever [see Warnings and Precautions (5.11)].
-- Pulmonary Embolism [see Warnings and Precautions (5.12)].
-- Anticholinergic Toxicity [see Warnings and Precautions (5.13)].
-- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.14)].
-- Tardive Dyskinesia [see Warnings and Precautions (5.15)].
-- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.16)].
-- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.17)].
+- •Agranulocytosis [see Warnings and Precautions (5.1)].
+- •Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
+- •Seizures [see Warnings and Precautions (5.4)].
+- •Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.5)].
+- •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.6)].
+- •Eosinophilia [see Warnings and Precautions (5.7)].
+- •QT Interval Prolongation [see Warnings and Precautions (5.8)].
+- •Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.9)].
+- •Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.10)].
+- •Fever [see Warnings and Precautions (5.11)].
+- •Pulmonary Embolism [see Warnings and Precautions (5.12)].
+- •Anticholinergic Toxicity [see Warnings and Precautions (5.13)].
+- •Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.14)].
+- •Tardive Dyskinesia [see Warnings and Precautions (5.15)].
+- •Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.16)].
+- •Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.17)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -39,7 +39,7 @@ These rates are not adjusted for duration of exposure.
 Table 9.
 Adverse Reactions (≥ 2%) Reported in Clozapine-treated Patients (N=842) across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
 
-| Body System Adverse Reaction* | ClozapineN = 842 (Percentage of Patients) |
+| Body System Adverse Reaction | ClozapineN = 842 Percentage of Patients |
 | --- | --- |
 | Central Nervous System Drowsiness/Sedation Dizziness/Vertigo Headache Tremor | 39 19 7 6 |
 | Syncope Disturbed Sleep/Nightmares Restlessness Hypokinesia/Akinesia | 6 4 4 4 |

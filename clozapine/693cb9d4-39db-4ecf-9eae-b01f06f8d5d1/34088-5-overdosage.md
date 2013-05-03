@@ -2,7 +2,7 @@
 
 ## 10.1 Overdosage Experience
 
-The most commonly reported signs and symptoms associated with VERSACLOZ overdose are: sedation, delirium, coma, tachycardia, hypotension, respiratory depression or failure; and hypersalivation.
+The most commonly reported signs and symptoms associated with VERSACLOZ overdose are: sedation, delirium, coma, tachycardia, hypotension, respiratory depression or failure, and hypersalivation.
 There are reports of aspiration pneumonia, cardiac arrhythmias, and seizure.
 Fatal overdoses have been reported with clozapine, generally at doses above 2500 mg.
 There have also been reports of patients recovering from overdoses well in excess of 4 g.

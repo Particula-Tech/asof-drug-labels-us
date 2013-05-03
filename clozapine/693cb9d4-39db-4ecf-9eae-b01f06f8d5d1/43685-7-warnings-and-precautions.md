@@ -47,11 +47,11 @@ Frequency of Monitoring Based on Stage of Therapy or Results from WBC Count and 
 | 12 months of therapy | WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3 | Every 4 weeks ad infinitum |
 | Immature forms present | N/A | Repeat WBC and ANC |
 | Discontinuation of therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3 |
-| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of:WBC ≥ 3000/mm3 or ANC ≥ 1500/mm3 | Repeat WBC and ANC If repeat values are: WBC 3000/mm3 to 3500 and ANC > 2000/mm3, then monitor twice weekly |
+| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of:WBC ≥ 3000/mm3 or ANC ≥ 1500/mm3 | 1.Repeat WBC and ANC2. If repeat values are: WBC 3000/mm3 to 3500 and ANC > 2000/mm3, then monitor twice weekly |
 | Mild leukopenia and/or Mild granulocytopenia | If WBC 3000/mm3 to < 3500/mm3 and/or ANC 1500/mm3 to < 2000/mm3 | Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 then return to previous monitoring frequency |
-| Moderate leukopenia and/or Moderate granulocytopenia | WBC 2000/mm3 to < 3000/mm3 and/or ANC 1000/mm3 to < 1500/mm3 | Interrupt therapyDaily until WBC > 3000/mm3 and ANC > 1500/mm3Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3May rechallenge when WBC > 3500/mm3 and ANC > 2000/mm3If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
-| Severe leukopenia and/or Severe granulocytopenia | WBC count < 2000/mm3 and/or ANC < 1000/mm3 | Discontinue treatment and do not rechallenge patientMonitor until normal and for at least four weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3 - Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 - Weekly after WBC > 3500/mm3 |
-| Agranulocytosis | ANC < 500/mm3 | Discontinue treatment and do not rechallenge patientMonitor until normal and for at least four weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3 - Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 - Weekly after WBC > 3500/mm3 |
+| Moderate leukopenia and/or Moderate granulocytopenia | WBC 2000/mm3 to < 3000/mm3 and/or ANC 1000/mm3 to < 1500/mm3 | 1.Interrupt therapy2.Daily until WBC > 3000/mm3 and ANC > 1500/mm33.Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm34.May rechallenge when WBC > 3500/mm3 and ANC > 2000/mm35.If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
+| Severe leukopenia and/or Severe granulocytopenia | WBC count < 2000/mm3 and/or ANC < 1000/mm3 | 1.Discontinue treatment and do not rechallenge patient2.Monitor until normal and for at least four weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3- Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3- Weekly after WBC > 3500/mm3 |
+| Agranulocytosis | ANC < 500/mm3 | 1.Discontinue treatment and do not rechallenge patient2.Monitor until normal and for at least four weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3- Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3- Weekly after WBC > 3500/mm3 |
 | WBC = White blood cell ANC = Absolute neutrophil count |  |  |
 
 Decrements in WBC Count and/or ANC
@@ -93,10 +93,10 @@ Under the VERSACLOZ Patient Registry, prescribers, patients, pharmacies, and dis
 
 Required components of the VERSACLOZ Patient Registry are:
 
-- Healthcare professionals who prescribe VERSACLOZ must enroll in the program and comply with the Registry requirements.
-- Pharmacies that dispense VERSACLOZ must enroll in the program and comply with the Registry requirements.
-- Routine monitoring and submission of laboratory results (WBC and ANC) is required during treatment with VERSACLOZ [see Warnings and Precautions (5.1)].
-- Patients that receive VERSACLOZ must be enrolled in a registry.
+- •Healthcare professionals who prescribe VERSACLOZ must enroll in the program and comply with the Registry requirements.
+- •Pharmacies that dispense VERSACLOZ must enroll in the program and comply with the Registry requirements.
+- •Routine monitoring and submission of laboratory results (WBC and ANC) is required during treatment with VERSACLOZ [see Warnings and Precautions (5.1)].
+- •Patients that receive VERSACLOZ must be enrolled in a registry.
 
 Further information is available at http://www.versaclozregistry.com or 1-877-329-2256.
 

@@ -44,20 +44,12 @@ When restarting VERSACLOZ in patients who have discontinued VERSACLOZ (i.e., 2 d
 This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
 If that dose is well tolerated, the dose may be increased to the previously therapeutic dose more quickly than recommended for initial treatment.
 
-## 2.7 Dosage Adjustments with concomitant use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
+## 2.7 Dosage Adjustment with concomitant use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
 
 Dose adjustments may be necessary in patients with concomitant use of: strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin); moderate or weak CYP1A2 inhibitors (e.g., oral contraceptives, or caffeine); CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline); CYP3A4 inducers (e.g., phenytoin, carbamazepine, St. John’s wort, and rifampin); or CYP1A2 inducers (e.g., tobacco smoking) (Table 1) [See Drug Interactions (7)].
 
-Table 1: Dose Adjustment in Patients Taking Concomitant Medications
-
-| Co-medications | Scenarios |  |  |
-| --- | --- | --- | --- |
-|  | Initiating VERSACLOZ while taking aco-medication | Adding a co-medication while taking VERSACLOZ | Discontinuing a co-medication while continuing VERSACLOZ |
-| Strong CYP1A2 Inhibitors | Use one third of the VERSACLOZ dose. |  | Increase VERSACLOZ dose based on clinical response. |
-| Moderate or Weak CYP1A2 Inhibitors | Monitor for adverse reactions. Consider reducing the VERSACLOZ dose if necessary. |  | Monitor for lack of effectiveness. Consider increasing VERSACLOZ dose if necessary. |
-| CYP2D6 or CYP3A4 Inhibitors |  |  |  |
-| Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if the inducer is necessary, it may be necessary to increase the VERSACLOZ dose. Monitor for decreased effectiveness. |  | Reduce VERSACLOZ dose based on clinical response. |
-| Moderate or weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the VERSACLOZ dose if necessary. |  | Monitor for adverse reactions. Consider reducing the VERSACLOZ dose if necessary. |
+Table 1.
+Dose Adjustment in Patients Taking Concomitant Medications
 
 ## 2.8 Renal or Hepatic Impairment, or CYP2D6 Poor Metabolizers
 
