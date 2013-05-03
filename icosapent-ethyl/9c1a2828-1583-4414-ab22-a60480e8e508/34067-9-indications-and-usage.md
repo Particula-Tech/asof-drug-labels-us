@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-VASCEPA™ (icosapent ethyl) is indicated as an adjunct to diet to reduce triglyceride (TG) levels in adult patients with severe (≥500 mg/dL) hypertriglyceridemia.
+VASCEPA® (icosapent ethyl) is indicated as an adjunct to diet to reduce triglyceride (TG) levels in adult patients with severe (≥500 mg/dL) hypertriglyceridemia.
 
 Usage Considerations: Patients should be placed on an appropriate lipid-lowering diet and exercise regimen before receiving VASCEPA and should continue this diet and exercise regimen with VASCEPA.
 

@@ -1,4 +1,4 @@
-PATIENT INFORMATION VASCEPA™ (pronounced vas-EE-puh) (icosapent ethyl) Capsules
+PATIENT INFORMATION VASCEPA® (pronounced vas-EE-puh) (icosapent ethyl) Capsules
 
 Read this Patient Information before you start taking VASCEPA and each time you get a refill.
 There may be new information.
@@ -100,7 +100,7 @@ Inactive Ingredients: tocopherol, gelatin, glycerin, maltitol, sorbitol, and pur
 
 This patient information has been approved by the U.S. Food and Drug Administration.
 
-VASCEPA is a trademark of Amarin Pharmaceuticals Ireland Ltd. ©2012 Amarin Pharmaceuticals Ireland Ltd. PP00120C 09/2012
+VASCEPA is a trademark of Amarin Pharmaceuticals Ireland Ltd. ©2012 Amarin Pharmaceuticals Ireland Ltd. PP00120E 03/2013
 
 Distributed by: Amarin Pharma Inc. Bedminster, NJ, USA
 

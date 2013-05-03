@@ -6,4 +6,4 @@ Manufactured for: Amarin Pharmaceuticals Ireland Limited Dublin, Ireland +1-855-
 
 www.VASCEPA.com
 
-VASCEPA is a trademark of Amarin Pharmaceuticals Ireland Limited ©2012 Amarin Pharmaceuticals Ireland Limited P00120C 9/12
+VASCEPA is a trademark of Amarin Pharmaceuticals Ireland Limited ©2012 Amarin Pharmaceuticals Ireland Limited P00120E 03/13
