@@ -19,7 +19,7 @@ It has the following structural formula:
 
 Water for Injection, USP is chemically designated H2O.
 
-The flexible plastic container is fabricated from a specially formulated nonplasticized, thermoplastic co-polyester (CR3).
+The flexible plastic container is fabricated from a specially formulated nonplasticized, thermoplastic co‑polyester (CR3).
 Water can permeate from inside the container into the overwrap but not in amounts sufficient to affect the solution significantly.
 Solutions inside the plastic container also can leach out certain of its chemical components in very small amounts before the expiration period is attained.
 However, the safety of the plastic has been confirmed by tests in animals according to USP biological standards for plastic containers.
