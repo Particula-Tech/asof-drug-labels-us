@@ -34,7 +34,7 @@ Nonetheless, nasal and inhaled corticosteroids have been associated with the dev
 ## 5.3 Hypersensitivity Reactions
 
 Hypersensitivity reactions including instances of wheezing may occur after the intranasal administration of mometasone furoate monohydrate.
-Discontinue Nasonex Nasal Spray if such reactions occur [see Contraindications (4)].
+Discontinue NASONEX Nasal Spray if such reactions occur [see Contraindications (4)].
 
 ## 5.4 Immunosuppression
 
@@ -55,7 +55,7 @@ Corticosteroids should be used with caution, if at all, in patients with active 
 Hypercorticism and Adrenal Suppression
 
 When intranasal steroids are used at higher than recommended dosages or in susceptible individuals at recommended dosages, systemic corticosteroid effects such as hypercorticism and adrenal suppression may appear.
-If such changes occur, the dosage of Nasonex Nasal Spray should be discontinued slowly, consistent with accepted procedures for discontinuing oral corticosteroid therapy.
+If such changes occur, the dosage of NASONEX Nasal Spray should be discontinued slowly, consistent with accepted procedures for discontinuing oral corticosteroid therapy.
 
 ## 5.6 Effect on Growth
 

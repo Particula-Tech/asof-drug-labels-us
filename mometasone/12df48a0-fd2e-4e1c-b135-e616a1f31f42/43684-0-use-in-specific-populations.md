@@ -35,13 +35,13 @@ The safety and effectiveness of NASONEX Nasal Spray 50 mcg for allergic rhinitis
 Use of NASONEX Nasal Spray 50 mcg for allergic rhinitis in pediatric patients 2 to 11 years of age is supported by safety and efficacy data from clinical studies.
 Seven hundred and twenty (720) patients 3 to 11 years of age with allergic rhinitis were treated with mometasone furoate nasal spray 50 mcg (100 mcg total daily dose) in controlled clinical trials [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 Twenty-eight (28) patients 2 to 5 years of age with allergic rhinitis were treated with mometasone furoate nasal spray 50 mcg (100 mcg total daily dose) in a controlled trial to evaluate safety [see Adverse Reactions (6.1)].
-Safety and effectiveness of Nasonex Nasal Spray 50 mcg for allergic rhinitis in children less than 2 years of age have not been established.
+Safety and effectiveness of NASONEX Nasal Spray 50 mcg for allergic rhinitis in children less than 2 years of age have not been established.
 
-The safety and effectiveness of Nasonex Nasal Spray for the treatment of nasal polyps in children less than 18 years of age have not been established.
-One 4-month trial was conducted to evaluate the safety and efficacy of Nasonex in the treatment of nasal polyps in pediatric patients 6 to 17 years of age.
+The safety and effectiveness of NASONEX Nasal Spray for the treatment of nasal polyps in children less than 18 years of age have not been established.
+One 4-month trial was conducted to evaluate the safety and efficacy of NASONEX in the treatment of nasal polyps in pediatric patients 6 to 17 years of age.
 The primary objective of the study was to evaluate safety; efficacy parameters were collected as secondary endpoints.
-A total of 127 patients with nasal polyps were randomized to placebo or Nasonex Nasal Spray 100 mcg once or twice daily (patients 6 to 11 years of age) or 200 mcg once or twice daily (patients 12 to 17 years of age).
-The results of this trial did not support the efficacy of Nasonex Nasal Spray in the treatment of nasal polyps in pediatric patients.
+A total of 127 patients with nasal polyps were randomized to placebo or NASONEX Nasal Spray 100 mcg once or twice daily (patients 6 to 11 years of age) or 200 mcg once or twice daily (patients 12 to 17 years of age).
+The results of this trial did not support the efficacy of NASONEX Nasal Spray in the treatment of nasal polyps in pediatric patients.
 The adverse events reported in this trial were similar to the adverse events reported in patients 18 years of age and older with nasal polyps.
 
 Controlled clinical studies have shown intranasal corticosteroids may cause a reduction in growth velocity in pediatric patients.

@@ -6,31 +6,31 @@ FOR INTRANASAL USE ONLY
 
 Read the Patient Information that comes with NASONEX before you start using it and each time you get a refill.
 There may be new information.
-This Patient Information does not take the place of talking to your health-care provider about your medical condition or treatment.
-If you have any questions about NASONEX, ask your health-care provider.
+This Patient Information does not take the place of talking to your healthcare provider about your medical condition or treatment.
+If you have any questions about NASONEX, ask your healthcare provider.
 
 What is NASONEX?
 
 NASONEX Nasal Spray is a man-made (synthetic) corticosteroid medicine that is used to:
 
-- to treat the nasal symptoms of seasonal and year-round allergic rhinitis (inflammation of the lining of the nose) in adults and children 2 years of age and older.
-- to treat nasal congestion that happens with seasonal allergic rhinitis in adults and children 2 years of age and older.
-- to prevent nasal symptoms of seasonal allergic rhinitis in people 12 years of age and older.
-- to treat nasal polyps in people 18 years and older.
+- treat the nasal symptoms of seasonal and year-round allergic rhinitis (inflammation of the lining of the nose) in adults and children 2 years of age and older.
+- treat nasal congestion that happens with seasonal allergic rhinitis in adults and children 2 years of age and older.
+- prevent nasal symptoms of seasonal allergic rhinitis in people 12 years of age and older.
+- treat nasal polyps in people 18 years and older.
 
 The safety and effectiveness of NASONEX has not been shown:
 
-- In children under 2 years of age to treat allergic rhinitis.
-- In children under 18 years of age to treat nasal polyps.
+- in children under 2 years of age to treat allergic rhinitis.
+- in children under 18 years of age to treat nasal polyps.
 
 Who should not use NASONEX?
 
 Do not use NASONEX if you are allergic to any of the ingredients in NASONEX.
 See the end of this leaflet for a complete list of ingredients in NASONEX.
 
-What should I tell my health-care provider before using NASONEX?
+What should I tell my healthcare provider before using NASONEX?
 
-Before you take NASONEX, tell your health-care provider if you:
+Before you take NASONEX, tell your healthcare provider if you:
 
 - have had recent nasal sores, nasal surgery, or nasal injury.
 - have eye or vision problems, such as cataracts or glaucoma (increased pressure in your eye).
@@ -41,20 +41,20 @@ Before you take NASONEX, tell your health-care provider if you:
 - are pregnant or planning to become pregnant.
   It is not known if NASONEX will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- are breast-feeding or planning to breast-feed.
+- are breastfeeding or planning to breastfeed.
   It is not known whether NASONEX passes into your breast milk.
 
-Tell your health-care provider about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 NASONEX and other medicines may affect each other and cause side effects.
 NASONEX may affect the way other medicines work, and other medicines may affect how NASONEX works.
 
 Know the list of medicine you take.
-Keep a list of your medications with you to show your health-care provider and pharmacist when a new medication is prescribed.
+Keep a list of your medications with you to show your healthcare provider and pharmacist when a new medication is prescribed.
 
 How should I use NASONEX?
 
-- Use NASONEX exactly as prescribed by your health-care provider.
+- Use NASONEX exactly as prescribed by your healthcare provider.
 - This medicine is for use in the nose only.
   Do not spray it into your mouth or eyes.
 - An adult should help a young child use this medicine.
@@ -62,14 +62,14 @@ How should I use NASONEX?
   If you do miss a dose of NASONEX, take it as soon as you remember.
   However, do not take more than the daily dose prescribed by your doctor.
 - Do not use NASONEX more often than prescribed.
-  Ask your health-care provider if you have any questions.
-- For detailed instructions on how to use NASONEX Nasal Spray, see the "Patient's Instructions for Use" at the end of this leaflet.
+  Ask your healthcare provider if you have any questions.
+- For detailed instructions on how to use NASONEX Nasal Spray, see the "Patient Instructions for Use" at the end of this leaflet.
 
-See your health-care provider regularly to assess your symptoms while taking NASONEX and to check for side effects.
+See your healthcare provider regularly to assess your symptoms while taking NASONEX and to check for side effects.
 
 What should I avoid while taking NASONEX?
 
-If you are taking other corticosteroid medicines for allergy, either by mouth or injection, your health-care provider may advise you to stop taking them once you begin using NASONEX.
+If you are taking other corticosteroid medicines for allergy, either by mouth or injection, your healthcare provider may advise you to stop taking them once you begin using NASONEX.
 
 What are the possible side effects of NASONEX?
 
@@ -92,16 +92,16 @@ NASONEX may cause serious side effects, including:
 
 The most common side effects of NASONEX include:
 
-- Headache
+- headache
 - viral infection
 - sore throat
 - nosebleeds
 - cough
 
-Tell your health-care provider if you have any side effect that bothers you or that does not go away.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of NASONEX.
-For more information ask your health-care provider or pharmacist.
+For more information ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -122,8 +122,8 @@ Do not give NASONEX to other people even if they have the same symptoms you have
 It may harm them.
 
 This Patient Information leaflet provides a summary of the most important information about NASONEX.
-If you would like more information, talk with your health-care provider.
-You can ask your health-care provider or pharmacist for information about NASONEX that is written for health professionals.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about NASONEX that is written for health professionals.
 
 For more information, go to www.NASONEX.com or call 1-800-622-4477.
 
@@ -138,13 +138,13 @@ Patient Instructions for Use
 For use in your nose only.
 
 Read the Patient Instructions for Use carefully before you start to use your NASONEX Nasal Spray.
-If you have any questions, ask your health-care provider.
+If you have any questions, ask your healthcare provider.
 
 Shake the bottle well before each use.
 
 - 1.Remove the plastic cap (See Figure 1).
 
-- 2.Before you use NASONEX for the first time prime the pump by pressing downward on the shoulders of the white nasal applicator using your index finger and middle finger while holding the base of the bottle with your thumb (See Figure 2).
+- 2.Before you use NASONEX for the first time, prime the pump by pressing downward on the shoulders of the white nasal applicator using your index finger and middle finger while holding the base of the bottle with your thumb (See Figure 2).
   Do Not pierce the nasal applicator.
   Press down and release the pump 10 times or until a fine spray appears.
   Do Not spray into eyes.
@@ -160,7 +160,7 @@ Shake the bottle well before each use.
 - 4.For each spray, hold the spray bottle upright and press firmly downward 1 time on the shoulders of the white nasal applicator using your index and middle fingers while supporting the base of the bottle with your thumb.
   Breathe gently inward through the nostril (See Figure 4).
 
-|  |  | Note: It is important to keep the Nasonex unit in an upright orientation (as seen in Figure 4). Failure to do so may result in an incomplete or non-existent spray. |
+|  |  | Note: It is important to keep the NASONEX unit in an upright orientation (as seen in Figure 4). Failure to do so may result in an incomplete or non-existent spray. |
 | --- | --- | --- |
 
 - 5.Then breathe out through the mouth.
@@ -173,15 +173,15 @@ Each bottle of NASONEX Nasal Spray contains enough medicine for you to spray med
 Do not use the bottle of NASONEX Nasal Spray after 120 sprays.
 Additional sprays after the 120 sprays may not contain the right amount of medicine, you should keep track of the number of sprays used from each bottle of NASONEX Nasal Spray, and throw away the bottle even if it has medicine still left in.
 Do not count any sprays used for priming the device.
-Talk with your health-care provider before your supply runs out to see if you should get a refill of your medicine.
+Talk with your healthcare provider before your supply runs out to see if you should get a refill of your medicine.
 
 Pediatric Use: Administration to young children should be done by an adult.
 Steps 1 through 7 from the Patient Instructions for Use, should be followed.
 
 Cleaning: Do not try to unblock the nasal applicator with a sharp object.
-Please see Applicator Cleaning Instructions.
+Please see Patient Instructions for Cleaning Applicator.
 
-Patient Instruction for cleaning applicator
+Patient Instructions for Cleaning Applicator
 
 - 1.To clean the nasal applicator, remove the plastic cap (See Figure 5).
 
@@ -189,8 +189,7 @@ Patient Instruction for cleaning applicator
   Pull gently upward on the white nasal applicator to remove (See Figure 6).
 
 - 3.
-  Soak the nasal applicator in cold tap water and rinse both ends of the nasal applicator under cold tap water and dry.
-  (See Figure 7).
+  Soak the nasal applicator in cold tap water and rinse both ends of the nasal applicator under cold tap water and dry (See Figure 7).
   Do not try to unblock the nasal applicator by inserting a pin or other sharp object as this will damage the applicator and cause you not to get the right dose of medicine.
 
 - 4.
@@ -208,15 +207,3 @@ Patient Instruction for cleaning applicator
 
 - 7.
   Replace the plastic cap (See Figure 11).
-
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Schering-Plough (Singapore) Pte Ltd 70 Tuas West Drive, Singapore 638414 Or Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-Copyright © 1997, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
-
-U.S. Patent No. 6,127,353.
-
-Rev: 04/2012
-
-032088-NSX-NS-PPI.7

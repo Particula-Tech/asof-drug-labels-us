@@ -16,7 +16,7 @@ Allergic Rhinitis
 Adults and adolescents 12 years of age and older
 
 In controlled US and international clinical studies, a total of 3210 adult and adolescent patients 12 years and older with allergic rhinitis received treatment with NASONEX Nasal Spray 50 mcg at doses of 50 to 800 mcg/day.
-The majority of patients (n = 2103) were treated with 200 mcg/day.
+The majority of patients (n=2103) were treated with 200 mcg/day.
 A total of 350 adult and adolescent patients have been treated for one year or longer.
 Adverse events did not differ significantly based on age, sex, or race.
 Four percent or less of patients in clinical trials discontinued treatment because of adverse events and the discontinuation rate was similar for the vehicle and active comparators.
@@ -25,7 +25,7 @@ All adverse events (regardless of relationship to treatment) reported by 5% or m
 
 TABLE 1: ADULT AND ADOLESCENT PATIENTS 12 YEARS AND OLDER – ADVERSE EVENTS FROM CONTROLLED CLINICAL TRIALS IN SEASONAL ALLERGIC AND PERENNIAL ALLERGIC RHINITIS (PERCENT OF PATIENTS REPORTING)
 
-|  | NASONEX 200 mcg (n = 2103) | VEHICLE PLACEBO (n = 1671) |
+|  | NASONEX 200 mcg (n=2103) | VEHICLE PLACEBO (n=1671) |
 | --- | --- | --- |
 | Headache | 26 | 22 |
 | Viral Infection | 14 | 11 |
@@ -42,7 +42,7 @@ Other adverse events which occurred in less than 5% but greater than or equal to
 Pediatric patients <12 years of age
 
 In controlled US and international studies, a total of 990 pediatric patients (ages 3 to 11 years) with allergic rhinitis received treatment with NASONEX Nasal Spray 50 mcg, at doses of 25 to 200 mcg/day.
-The majority of pediatric patients (n = 720) were treated with 100 mcg/day.
+The majority of pediatric patients (n=720) were treated with 100 mcg/day.
 A total of 163 pediatric patients have been treated for one year or longer.
 Two percent or less of patients in clinical trials who received NASONEX Nasal Spray 50 mcg discontinued treatment because of adverse events and the discontinuation rate was similar for the placebo and active comparators.
 
@@ -65,7 +65,7 @@ Nasal ulcers and nasal and oral candidiasis were also reported in patients treat
 
 Nasal Congestion Associated with Seasonal Allergic Rhinitis
 
-A total of 1008 patients aged 12 years and older received NASONEX Nasal Spray 50 mcg 200 mcg/day (n = 506) or placebo (n = 502) for 15 days.
+A total of 1008 patients aged 12 years and older received NASONEX Nasal Spray 50 mcg 200 mcg/day (n=506) or placebo (n=502) for 15 days.
 Adverse events that occurred more frequently in patients treated with NASONEX Nasal Spray 50 mcg than in patients with the placebo included sinus headache (1.2% in NASONEX Nasal Spray 50 mcg group vs. 0.2% in placebo) and epistaxis (1% in NASONEX Nasal Spray 50 mcg group vs. 0.2% in placebo) and the overall adverse event profile was similar to that observed in the other allergic rhinitis trials.
 
 ## 6.2 Post-Marketing Experience
