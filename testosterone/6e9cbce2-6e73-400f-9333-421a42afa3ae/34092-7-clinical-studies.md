@@ -42,10 +42,10 @@ Table 4 below summarizes the testosterone concentration data in the patients who
 
 Table 4: Baseline-unadjusted Arithmetic Mean (±SD) Steady-State Serum Testosterone Concentrations on Days 15, 60 and 120 in Patients Who Completed 120 Days of Treatment
 
-| Day 15 | [N=0] | [N=135] | [N=0] | [N=0] | [N=135] |
-| --- | --- | --- | --- | --- | --- |
 |  | Dose of AXIRON |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 |  | 30 mg | 60 mg | 90 mg | 120 mg | Overall |
+| Day 15 | [N=0] | [N=135] | [N=0] | [N=0] | [N=135] |
 | Cavg (ng/dL) | -- | 456 (±226) | -- | -- | 456 (±226) |
 | Cmax (ng/dL) | -- | 744 (±502) | -- | -- | 744 (±502) |
 | Day 60 | [N=1] | [N=105] | [N=29] | [N=0] | [N=135] |
