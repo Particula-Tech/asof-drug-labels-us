@@ -2,12 +2,12 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.2)]
-- Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)]
-- Withdrawal effects [see Warnings and Precautions (5.4)]
-- CNS-depressant effects [see Warnings and Precautions (5.5)]
+- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
+- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
+- Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
+- Withdrawal effects [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical trials experience
+## 6.1 Clinical Trials Experience
 
 Associated with discontinuation of treatment: Approximately 4% of 1,701 patients who received zolpidem at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
 Reactions most commonly associated with discontinuation from U.S. trials were daytime drowsiness (0.5%), dizziness (0.4%), headache (0.5%), nausea (0.6%), and vomiting (0.5%).
@@ -100,8 +100,7 @@ Rare: allergic reaction, allergy aggravated, anaphylactic shock, face edema, hot
 Cardiovascular system: Infrequent: cerebrovascular disorder, hypertension, tachycardia.
 Rare: angina pectoris, arrhythmia, arteritis, circulatory failure, extrasystoles, hypertension aggravated, myocardial infarction, phlebitis, pulmonary embolism, pulmonary edema, varicose veins, ventricular tachycardia.
 
-Central and peripheral nervous system: Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo.
-Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
+Central and peripheral nervous system: Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
 Rare: abnormal gait, abnormal thinking, aggressive reaction, apathy, appetite increased, decreased libido, delusion, dementia, depersonalization, dysphasia, feeling strange, hypokinesia, hypotonia, hysteria, intoxicated feeling, manic reaction, neuralgia, neuritis, neuropathy, neurosis, panic attacks, paresis, personality disorder, somnambulism, suicide attempts, tetany, yawning.
 
 Gastrointestinal system: Frequent: dyspepsia, hiccup, nausea.

@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of action
+## 12.1 Mechanism of Action
 
 Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties.
 It interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.
@@ -36,19 +36,54 @@ Hepatic Impairment:
 The pharmacokinetics of Ambien in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
 Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically -compromised patients.
 Tmax did not change.
-The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Dosage and Administration (2.2) and Warnings and Precautions (5.6)].
+The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Dosage and Administration (2.2)].
 
 Renal Impairment:
 
 The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
 No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
-On day 1, Cmax was 172 ± 29 ng/mL (range: 46 to 344 ng/mL).
-After repeated dosing for 14 or 21 days, Cmax was 203 ± 32 ng/mL (range: 28 to 316 ng/mL).
-On day 1, Tmax was 1.7 ± 0.3 hr (range: 0.5 to 3.0 hr); after repeated dosing Tmax was 0.8 ± 0.2 hr (range: 0.5 to 2.0 hr). This variation is accounted for by noting that last-day serum sampling began 10 hours after the previous dose, rather than after 24 hours.
-This resulted in residual drug concentration and a shorter period to reach maximal serum concentration.
-On day 1, T1/2 was 2.4 ± 0.4 hr (range: 0.4 to 5.1 hr). After repeated dosing, T1/2 was 2.5 ± 0.4 hr (range: 0.7 to 4.2 hr). AUC was 796 ± 159 ng∙hr/mL after the first dose and 818 ± 170 ng∙hr/mL after repeated dosing.
 Zolpidem was not hemodialyzable.
 No accumulation of unchanged drug appeared after 14 or 21 days.
 Zolpidem pharmacokinetics were not significantly different in renally impaired patients.
 No dosage adjustment is necessary in patients with compromised renal function.
-However, as a general precaution, these patients should be closely monitored.
+
+Drug Interactions
+
+CNS-depressants
+
+Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1)].
+Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
+Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
+Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance.
+
+A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
+The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration.
+
+An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1)].
+
+Following five consecutive nightly doses at bedtime of oral zolpidem tartrate 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem Cmax was significantly higher (43%) and Tmax was significantly decreased (-53%).
+Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.
+
+A single-dose interaction study with zolpidem tartrate 10 mg and fluoxetine 20 mg at steady-state levels in male volunteers did not demonstrate any clinically significant pharmacokinetic or pharmacodynamic interactions.
+When multiple doses of zolpidem and fluoxetine were given at steady state and the concentrations evaluated in healthy females, an increase in the zolpidem half-life (17%) was observed.
+There was no evidence of an additive effect in psychomotor performance.
+
+Drugs that Affect Drug Metabolism via Cytochrome P450
+
+Some compounds known to inhibit CYP3A may increase exposure to zolpidem.
+The effect of inhibitors of other P450 enzymes on the pharmacokinetics of zolpidem is unknown.
+
+A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 200 mg at steady-state levels in male volunteers resulted in a 34% increase in AUC0–∞ of zolpidem tartrate.
+There were no pharmacodynamic effects of zolpidem detected on subjective drowsiness, postural sway, or psychomotor performance.
+
+A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate.
+Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
+
+A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem.
+Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
+
+Other Drugs with No Interactions with Zolpidem
+
+A study involving cimetidine/zolpidem tartrate and ranitidine/zolpidem tartrate combinations revealed no effect of either drug on the pharmacokinetics or pharmacodynamics of zolpidem.
+
+Zolpidem tartrate had no effect on digoxin pharmacokinetics and did not affect prothrombin time when given with warfarin in healthy subjects.

@@ -1,133 +1,145 @@
-MEDICATION GUIDE AMBIEN®(ām'bē-ən) Tablets C-IV (zolpidem tartrate)
+MEDICATION GUIDE AMBIEN® (ām'bē-ən) (zolpidem tartrate) Tablets C-IV
 
 Read the Medication Guide that comes with AMBIEN before you start taking it and each time you get a refill.
 There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your medical condition or treatment.
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
 What is the most important information I should know about AMBIEN?
 
-After taking AMBIEN, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
-The next morning, you may not remember that you did anything during the night.
-You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with AMBIEN.
-Reported activities include:
-
-- driving a car ("sleep-driving")
-- making and eating food
-- talking on the phone
-- having sex
-- sleep-walking
-
-Call your doctor right away if you find out that you have done any of the above activities after taking AMBIEN.
-
-Important:
-
-1.
-Take AMBIEN exactly as prescribed
-
 - Do not take more AMBIEN than prescribed.
+- Do not take AMBIEN unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
 - Take AMBIEN right before you get in bed, not sooner.
 
-2.
+AMBIEN may cause serious side effects, including:
+
+- After taking AMBIEN, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
+  The next morning, you may not remember that you did anything during the night.
+  You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with AMBIEN.
+  Reported activities include:
+  - driving a car ("sleep-driving")
+  - making and eating food
+  - talking on the phone
+  - having sex
+  - sleep-walking
+
+Call your healthcare provider right away if you find out that you have done any of the above activities after taking AMBIEN.
+
 Do not take AMBIEN if you:
 
-- drink alcohol
-- take other medicines that can make you sleepy.
-  Talk to your doctor about all of your medicines.
-  Your doctor will tell you if you can take AMBIEN with your other medicines.
-- cannot get a full night's sleep
+- drank alcohol that evening or before bed
+- took another medicine to help you sleep.
 
 What is AMBIEN?
 
 AMBIEN is a sedative-hypnotic (sleep) medicine.
-AMBIEN is used in adults for the short-term treatment of a sleep problem called insomnia.
-Symptoms of insomnia include:
+AMBIEN is used in adults for the short-term treatment of a sleep problem called insomnia (trouble falling asleep).
 
-- trouble falling asleep
-
-AMBIEN is not for children.
+It is not known if AMBIEN is safe and effective in children under the age of 18 years.
 
 Who should not take AMBIEN?
 
-Do not take AMBIEN if you are allergic to anything in it.
+- Do not take AMBIEN if you are allergic to zolpidem or any other ingredients in AMBIEN.
+  See the end of this Medication Guide for a complete list of ingredients in AMBIEN.
+- Do not take AMBIEN if you have had an allergic reaction to drugs containing zolpidem, such as Ambien CR, Edluar, Zolpimist, or Intermezzo.
+  Symptoms of a serious allergic reaction to zolpidem can include:
+  - swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
 
-See the end of this Medication Guide for a complete list of ingredients in AMBIEN.
+What should I tell my healthcare provider before taking AMBIEN?
 
 AMBIEN may not be right for you.
-Before starting AMBIEN, tell your doctor about all of your health conditions, including if you:
+Before starting AMBIEN, tell your healthcare provider about all of your health conditions, including if you:
 
 - have a history of depression, mental illness, or suicidal thoughts
 - have a history of drug or alcohol abuse or addiction
 - have kidney or liver disease
 - have a lung disease or breathing problems
-- are pregnant, planning to become pregnant, or breastfeeding
+- are pregnant, planning to become pregnant.
+  It is not known if AMBIEN will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  AMBIEN can pass into your breast milk.
+  It is not known if AMBIEN will harm your baby.
+  Talk to your healthcare provider about the best way to feed your baby while you take AMBIEN.
 
-Tell your doctor about all of the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+
 Medicines can interact with each other, sometimes causing serious side effects.
-Do not take AMBIEN with other medicines that can make you sleepy.
+Do not take AMBIEN with other medicines that can make you sleepy unless your healthcare provider tells you to.
 
 Know the medicines you take.
-Keep a list of your medicines with you to show your doctor and pharmacist each time you get a new medicine.
+Keep a list of your medicines with you to show your healthcare provider and pharmacist each time you get a new medicine.
 
 How should I take AMBIEN?
 
+- See "What is the most important information I should know about AMBIEN?"
 - Take AMBIEN exactly as prescribed.
-  Do not take more AMBIEN than prescribed for you.
-- Take AMBIEN right before you get into bed.
-- Do not take AMBIEN unless you are able to stay in bed a full night (7–8 hours) before you must be active again.
-- For faster sleep onset, AMBIEN should NOT be taken with or immediately after a meal.
-- Call your doctor if your insomnia worsens or is not better within 7 to 10 days.
+  Only take 1 AMBIEN tablet a night if needed.
+- Do not take AMBIEN if you drank alcohol that evening or before bed.
+- You should not take AMBIEN with or right after a meal.
+  AMBIEN may help you fall asleep faster if you take it on an empty stomach.
+- Call your healthcare provider if your insomnia worsens or is not better within 7 to 10 days.
   This may mean that there is another condition causing your sleep problem.
-- If you take too much AMBIEN or overdose, call your doctor or poison control center right away, or get emergency treatment.
+- If you take too much AMBIEN or overdose, get emergency treatment.
 
 What are the possible side effects of AMBIEN?
 
-Serious side effects of AMBIEN include:
+AMBIEN may cause serious side effects, including:
 
 - getting out of bed while not being fully awake and do an activity that you do not know you are doing.
-  (See "What is the most important information I should know about AMBIEN?)
+  See "What is the most important information I should know about AMBIEN?"
 - abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
 - memory loss
 - anxiety
 - severe allergic reactions.
-  Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
+  Symptoms include swelling of the tongue or throat, and trouble breathing.
   Get emergency medical help if you get these symptoms after taking AMBIEN.
 
-Call your doctor right away if you have any of the above side effects or any other side effects that worry you while using AMBIEN.
+Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using AMBIEN.
 
 The most common side effects of AMBIEN are:
 
 - drowsiness
 - dizziness
 - diarrhea
-- "drugged feelings"
-- You may still feel drowsy the next day after taking AMBIEN.
-  Do not drive or do other dangerous activities after taking AMBIEN until you feel fully awake.
+- grogginess or feeling as if you have been drugged
 
-After you stop taking a sleep medicine, you may have symptoms for 1 to 2 days such as: trouble sleeping, nausea, flushing, lightheadedness, uncontrolled crying, vomiting, stomach cramps, panic attack, nervousness, and stomach area pain.
+After you stop taking a sleep medicine, you may have symptoms for 1 to 2 days such as:
+
+- trouble sleeping
+- nausea
+- flushing
+- lightheadedness
+- uncontrolled crying
+- vomiting
+- stomach cramps
+- panic attack
+- nervousness
+- stomach area pain
 
 These are not all the side effects of AMBIEN.
-Ask your doctor or pharmacist for more information.
+Ask your healthcare provider or pharmacist for more information.
 
-Call your doctor for medical advice about side effects.
+Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1–800–FDA–1088.
 
 How should I store AMBIEN?
 
-- Store AMBIEN at room temperature, 68° to 77°F (20° to 25°C).
-- Keep AMBIEN and all medicines out of reach of children.
+- Store AMBIEN at room temperature, 68°F to 77°F (20°C to 25°C).
 
-General Information about AMBIEN
+Keep AMBIEN and all medicines out of reach of children.
 
-- Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-- Do not use AMBIEN for a condition for which it was not prescribed.
-- Do not share AMBIEN with other people, even if you think they have the same symptoms that you have.
-  It may harm them and it is against the law.
+General Information about the safe and effective use of AMBIEN
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use AMBIEN for a condition for which it was not prescribed.
+Do not share AMBIEN with other people, even if they have the same symptoms that you have.
+It may harm them and it is against the law.
 
 This Medication Guide summarizes the most important information about AMBIEN.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about AMBIEN that is written for healthcare professionals.
-For more information about AMBIEN, call 1-800-633-1610.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about AMBIEN that is written for healthcare professionals.
+
+For more information, call 1-800-633-1610.
 
 What are the ingredients in AMBIEN?
 
@@ -140,6 +152,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-May 2012
+April 2013
 
-© 2012 sanofi-aventis U.S. LLC
+© 2013 sanofi-aventis U.S. LLC
