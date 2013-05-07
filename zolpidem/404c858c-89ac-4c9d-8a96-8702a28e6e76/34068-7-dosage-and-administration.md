@@ -1,21 +1,24 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The dose of Ambien CR should be individualized.
+## 2.1 Dosage in Adults
 
-## 2.1 Dosage in adults
+Use the lowest effective dose for the patient.
+The recommended initial dose is 6.25 mg for women and either 6.25 or 12.5 mg for men, taken only once per night immediately before bedtime with at least 7–8 hours remaining before the planned time of awakening.
+If the 6.25 mg dose is not effective, the dose can be increased to 12.5 mg.
+In some patients, the higher morning blood levels following use of the 12.5 mg dose increase the risk of next day impairment of driving and other activities that require full alertness [see Warnings and Precautions (5.1)].
+The total dose of Ambien CR should not exceed 12.5 mg once daily immediately before bedtime.
 
-The recommended dose of Ambien CR for adults is 12.5 mg once daily immediately before bedtime.
-The total Ambien CR dose should not exceed 12.5 mg per day.
+The recommended initial doses for women and men are different because zolpidem clearance is lower in women.
 
-## 2.2 Special populations
+## 2.2 Special Populations
 
 Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate.
-Patients with hepatic insufficiency do not clear the drug as rapidly as normals.
-The recommended dose of Ambien CR in both of these patient populations is 6.25 mg once daily immediately before bedtime [see Warnings and Precautions (5.6)].
+Patients with hepatic insufficiency do not clear the drug as rapidly as normal subjects.
+The recommended dose of Ambien CR in both of these patient populations is 6.25 mg once daily immediately before bedtime [see Warnings and Precautions (5.1); Use in Specific Populations (8.5)].
 
-## 2.3 Use with CNS depressants
+## 2.3 Use with CNS Depressants
 
-Dosage adjustments may be necessary when Ambien CR is combined with other CNS depressant drugs because of the potentially additive effects [see Warnings and Precautions (5.5)].
+Dosage adjustment may be necessary when Ambien CR is combined with other CNS depressant drugs because of the potentially additive effects [see Warnings and Precautions (5.1)].
 
 ## 2.4 Administration
 

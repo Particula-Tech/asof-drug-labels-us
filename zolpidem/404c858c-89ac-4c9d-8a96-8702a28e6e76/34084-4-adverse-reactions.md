@@ -2,12 +2,12 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.2)]
-- Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)]
-- Withdrawal effects [see Warnings and Precautions (5.4)]
-- CNS-depressant effects [see Warnings and Precautions (5.5)]
+- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
+- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
+- Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
+- Withdrawal effects [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical trials experience
+## 6.1 Clinical Trials Experience
 
 Associated with discontinuation of treatment: In 3-week clinical trials in adults and elderly patients (> 65 years), 3.5% (7/201) patients receiving Ambien CR 6.25 or 12.5 mg discontinued treatment due to an adverse reaction as compared to 0.9% (2/216) of patients on placebo.
 The reaction most commonly associated with discontinuation in patients treated with Ambien CR was somnolence (1%).
@@ -34,7 +34,7 @@ The tables include only adverse reactions occurring at an incidence of at least 
 Table 1.
 Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial in Adults (percentage of patients reporting)
 
-|  | (N = 102) | (N = 110) |
+| (N = 102) | (N = 110) |  |
 | --- | --- | --- |
 | Body System/Adverse Reaction Reactions reported by at least 1% of patients treated with Ambien CR and at greater frequency than in the placebo group. | Ambien CR 12.5 mg | Placebo |
 | Infections and infestations |  |  |
@@ -109,9 +109,9 @@ Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlle
 Table 2.
 Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial in Elderly (percentage of patients reporting)
 
-| 6.25 mg (N=99) | (N=106) |  |
+| (N=99) | (N=106) |  |
 | --- | --- | --- |
-| Body System/Adverse Reaction Reactions reported by at least 1% of patients treated with Ambien CR and at greater frequency than in the placebo group. | Ambien CR | Placebo |
+| Body System/Adverse Reaction Reactions reported by at least 1% of patients treated with Ambien CR and at greater frequency than in the placebo group. | Ambien CR 6.25 mg | Placebo |
 | Infections and infestations |  |  |
 | Nasopharyngitis | 6 | 4 |
 | Lower respiratory tract infection | 1 | 0 |
@@ -160,7 +160,9 @@ Dose relationship for adverse reactions: There is evidence from dose comparison 
 
 Other adverse reactions observed during the premarketing evaluation of Ambien CR: Other treatment-emergent adverse reactions associated with participation in Ambien CR studies (those reported at frequencies of <1%) were not different in nature or frequency to those seen in studies with immediate-release zolpidem tartrate, which are listed below.
 
-Adverse Events Observed During the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate: Immediate-release zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
+Adverse Events Observed During the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate:
+
+Immediate-release zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals experiencing treatment-emergent adverse events, similar types of untoward events were grouped into a smaller number of standardized event categories and classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms.
 

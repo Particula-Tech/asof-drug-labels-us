@@ -1,27 +1,43 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Prescribers or other healthcare professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with sedative-hypnotics, should counsel them in its appropriate use, and should instruct them to read the accompanying Medication Guide [see Medication Guide (17.4)].
+See FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Severe anaphylactic and anaphylactoid reactions
+Inform patients and their families about the benefits and risks of treatment with Ambien CR.
+Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with Ambien CR and with each prescription refill.
+Review the Ambien CR Medication Guide with every patient prior to initiation of treatment.
+Instruct patients or caregivers that Ambien CR should be taken only as prescribed.
+
+CNS Depressant Effects and Next-Day Impairment
+
+Tell patients that Ambien CR can cause next-day impairment even when used as prescribed, and that this risk is increased if dosing instructions are not carefully followed.
+Caution patients against driving and other activities requiring complete mental alertness the day after use.
+Inform patients that impairment can be present despite feeling fully awake.
+
+Severe Anaphylactic and Anaphylactoid Reactions
 
 Inform patients that severe anaphylactic and anaphylactoid reactions have occurred with zolpidem.
 Describe the signs/symptoms of these reactions and advise patients to seek medical attention immediately if any of them occur.
 
-## 17.2 Sleep-driving and other complex behaviors
+Sleep-driving and Other Complex Behaviors
 
-There have been reports of people getting out of bed after taking a sedative-hypnotic and driving their cars while not fully awake, often with no memory of the event.
-If a patient experiences such an episode, it should be reported to his or her doctor immediately, since "sleep-driving" can be dangerous.
-This behavior is more likely to occur when Ambien CR is taken with alcohol or other central nervous system depressants [see Warnings and Precautions (5.3)].
-Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic.
-As with "sleep-driving", patients usually do not remember these events.
+Instruct patients and their families that sedative hypnotics can cause abnormal thinking and behavior change, including "sleep driving" and other complex behaviors while not being fully awake (preparing and eating food, making phone calls, or having sex).
+Tell patients to call you immediately if they develop any of these symptoms.
 
-In addition, patients should be advised to report all concomitant medications to the prescriber.
-Patients should be instructed to report events such as "sleep-driving" and other complex behaviors immediately to the prescriber.
+Suicide
 
-## 17.3 Administration instructions
+Tell patients to immediately report any suicidal thoughts.
 
-Patients should be counseled to take Ambien right before they get into bed and only when they are able to stay in bed a full night (7–8 hours) before being active again.
-Ambien CR tablets should not be crushed, divided, or chewed, and should not be taken with or immediately after a meal.
-Advise patients NOT to take Ambien CR when drinking alcohol.
+Alcohol and Other Drugs
 
-## 17.4 Medication Guide
+Ask patients about alcohol consumption, medicines they are taking, and drugs they may be taking without a prescription.
+Advise patients not to use Ambien CR if they drank alcohol that evening or before bed.
+
+Tolerance, Abuse, and Dependence
+
+Tell patients not to increase the dose of Ambien CR on their own, and to inform you if they believe the drug "does not work".
+
+Administration Instructions
+
+Patients should be counseled to take Ambien CR right before they get into bed and only when they are able to stay in bed a full night (7–8 hours) before being active again.
+Ambien CR tablets should not be taken with or immediately after a meal.
+Advise patients NOT to take Ambien CR if they drank alcohol that evening.

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Controlled clinical trials
+## 14.1 Controlled Clinical Trials
 
 Ambien CR was evaluated in three placebo-controlled studies for the treatment of patients with chronic primary insomnia (as defined in the APA Diagnostic and Statistical Manual of Mental Disorders, DSM IV).
 
@@ -18,7 +18,7 @@ In both studies, in patients treated with Ambien CR, polysomnography showed incr
 
 In a 24-week double-blind, placebo controlled, randomized study in adult outpatients (18–64 years) with primary insomnia (N=1025), Ambien CR 12.5 mg administered as needed (3 to 7 nights per week) was superior to placebo over 24 weeks, on patient global impression regarding aid to sleep, and on patient-reported specific sleep parameters for sleep induction and sleep maintenance with no significant increased frequency of drug intake observed over time.
 
-## 14.2 Studies pertinent to safety concerns for sedative/hypnotic drugs
+## 14.2 Studies Pertinent to Safety Concerns for Sedative/Hypnotic Drugs
 
 Next-day residual effects: In five clinical studies [three controlled studies in adults (18–64 years of age) administered Ambien CR 12.5 mg and two controlled studies in the elderly (≥ 65 years of age) administered Ambien CR 6.25 mg or 12.5 mg], the effect of Ambien CR on vigilance, memory, or motor function were assessed using neurocognitive tests.
 In these studies, no significant decrease in performance was observed eight hours after a nighttime dose.
