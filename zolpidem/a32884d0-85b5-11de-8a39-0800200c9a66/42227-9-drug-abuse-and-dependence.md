@@ -1,6 +1,6 @@
 # 9 DRUG ABUSE AND DEPENDENCE
 
-## 9.1 Controlled substance
+## 9.1 Controlled Substance
 
 Edluar contains the same active substance, zolpidem tartrate, as zolpidem tartrate oral tablets and is classified as a Schedule IV controlled substance by federal regulation.
 
@@ -17,7 +17,7 @@ Drug addiction is a treatable disease, using a multidisciplinary approach, but r
 
 Studies of abuse potential in former drug abusers found that the effects of single doses of zolpidem tartrate 40 mg were similar, but not identical, to diazepam 20 mg, while zolpidem tartrate 10 mg was difficult to distinguish from placebo.
 
-Because persons with a history of addiction to, or abuse of, drugs or alcohol are at increased risk for misuse, abuse, and addiction of Edluar, they should be monitored carefully when receiving Edluar or any other hypnotic.
+Because persons with a history of addiction to or abuse of, drugs or alcohol are at increased risk for misuse, abuse, and addiction of Edluar, they should be monitored carefully when receiving Edluar or any other hypnotic.
 
 ## 9.3 Dependence
 

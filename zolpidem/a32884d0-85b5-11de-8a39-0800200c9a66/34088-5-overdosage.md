@@ -1,10 +1,10 @@
 # 10 OVERDOSAGE
 
-## 10.1 Signs and symptoms
+## 10.1 Signs and Symptoms
 
 In postmarketing experience of overdose with zolpidem tartrate alone, or in combination with CNS-depressant agents, impairment of consciousness ranging from somnolence to coma, cardiovascular and/or respiratory compromise, and fatal outcomes have been reported.
 
-## 10.2 Recommended treatment
+## 10.2 Recommended Treatment
 
 Based on data obtained for zolpidem tartrate, general symptomatic and supportive measures for overdose with Edluar should be used along with immediate gastric lavage where appropriate.
 Intravenous fluids should be administered as needed.

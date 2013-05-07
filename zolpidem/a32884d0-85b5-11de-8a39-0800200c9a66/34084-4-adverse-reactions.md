@@ -2,17 +2,16 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious anaphylactic and anaphylactoid reactions [see Warning and Precautions (5.2)]
-- Abnormal thinking and behavior, complex behaviors [see Warning and Precautions (5.3)]
-- Withdrawal effects [see Warning and Precautions (5.4)]
-- CNS-depressant effects [see Warnings and Precautions (5.5)]
+- CNS-depressant effects and next-day impairment [see Warning and Precautions (5.1)]
+- Serious anaphylactic and anaphylactoid reactions [see Warning and Precautions (5.3)]
+- Abnormal thinking and behavior changes, and complex behaviors [see Warning and Precautions (5.4)]
+- Withdrawal effects [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical trials experience
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating incidence rates.
+Associated with discontinuation of treatment:
 
-Associated with discontinuation of treatment: Approximately 4% of 1,701 patients who received zolpidem tartrate at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
+Approximately 4% of 1,701 patients who received zolpidem tartrate at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
 Reactions most commonly associated with discontinuation from U.S. trials were daytime drowsiness (0.5%), dizziness (0.4%), headache (0.5%), nausea (0.6%), and vomiting (0.5%).
 
 Approximately 4% of 1,959 patients who received zolpidem tartrate at all doses (1 to 50 mg) in similar foreign trials discontinued treatment because of an adverse reaction.
@@ -20,10 +19,14 @@ Reactions most commonly associated with discontinuation from these trials were d
 
 Data from a clinical study in which selective serotonin reuptake inhibitor (SSRI)-treated patients were given zolpidem tartrate revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n=97) was discontinued after an attempted suicide.
 
-Most commonly observed adverse reactions in controlled trials: During short-term treatment (up to 10 nights) with zolpidem tartrate at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
+Most commonly observed adverse reactions in controlled trials:
+
+During short-term treatment (up to 10 nights) with zolpidem tartrate at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
 During longer-term treatment (28 to 35 nights) with zolpidem tartrate at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were dizziness (5%) and drugged feelings (3%).
 
-Adverse reactions observed at an incidence of ≥1% in controlled trials: The following tables enumerate treatment-emergent adverse event frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
+Adverse reactions observed at an incidence of ≥1% in controlled trials:
+
+The following tables enumerate treatment-emergent adverse event frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
 Events reported by investigators were classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms for the purpose of establishing event frequencies.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
@@ -83,17 +86,25 @@ TABLE 2: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controll
 | Rash | 2 | 1 |
 | *Reactions reported by at least 1% of patients treated with oral zolpidem and at a greater frequency than placebo. |  |  |
 
-Dose relationship for adverse reactions associated with oral zolpidem: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with oral zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
+Dose relationship for adverse reactions associated with oral zolpidem:
 
-Oral tissue-related adverse reactions to Edluar: The effect of chronic daily administration of Edluar on oral tissue was evaluated in a 60-day open-label study in 60 insomniac patients.
+There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with oral zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
+
+Oral tissue-related adverse reactions to Edluar:
+
+The effect of chronic daily administration of Edluar on oral tissue was evaluated in a 60-day open-label study in 60 insomniac patients.
 One patient developed transient sublingual erythema, and another transient paresthesia of the tongue.
 
-Adverse event incidence across the entire preapproval oral zolpidem database: Zolpidem was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
+Adverse event incidence across the entire preapproval oral zolpidem database:
+
+Zolpidem was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals experiencing treatment-emergent adverse events, similar types of untoward events were grouped into a smaller number of standardized event categories and classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms.
+
 The frequencies presented, therefore, represent the proportions of the 3,660 individuals exposed to zolpidem, at all doses, who experienced an event of the type cited on at least one occasion while receiving zolpidem.
 All reported treatment-emergent adverse events are included, except those already listed in the table above of adverse events in placebo-controlled studies, those coding terms that are so general as to be uninformative, and those events where a drug cause was remote.
 It is important to emphasize that, although the events reported did occur during treatment with zolpidem, they were not necessarily caused by it.
+
 Adverse events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in greater than 1/100 subjects; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in less than 1/1,000 patients.
 
 Autonomic nervous system: Infrequent: increased sweating, pallor, postural hypotension, syncope.
@@ -143,6 +154,6 @@ Special senses: Frequent: diplopia, vision abnormal.
 Infrequent: eye irritation, eye pain, scleritis, taste perversion, tinnitus.
 Rare: conjunctivitis, corneal ulceration, lacrimation abnormal, parosmia, photopsia.
 
-Urogenital system: Infrequent: urinary tract infection.
+Urogenital system: Frequent: urinary tract infection.
 Infrequent: cystitis, urinary incontinence.
 Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, pyelonephritis, renal pain, urinary retention.
