@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing Information
 
-The patient should be placed on a standard cholesterol-lowering diet before receiving pravastatin sodium tablets and should continue on this diet during treatment with pravastatin sodium tablets (see NCEP Treatment Guidelines for details on dietary therapy).
+The patient should be placed on a standard cholesterol-lowering diet before receiving pravastatin sodium tablets and should continue on this diet during treatment with pravastatin sodium tablets [see NCEP Treatment Guidelines for details on dietary therapy].
 
 ## 2.2 Adult Patients
 
@@ -17,7 +17,7 @@ Since the maximal effect of a given dose is seen within 4 weeks, periodic lipid 
 Children (Ages 8 to 13 Years, Inclusive)
 
 The recommended dose is 20 mg once daily in children 8 to 13 years of age.
-Doses greater than 20 mg have not been studied in this patient population
+Doses greater than 20 mg have not been studied in this patient population.
 
 Adolescents (Ages 14 to 18 Years)
 
@@ -31,9 +31,6 @@ Children and adolescents treated with pravastatin should be reevaluated in adult
 Pravastatin sodium may be used with bile acid resins.
 When administering a bile-acid-binding resin (e.g., cholestyramine, colestipol) and pravastatin, pravastatin sodium tablets should be given either 1 hour or more before or at least 4 hours following the resin.
 [See Clinical Pharmacology (12.3).]
-
-The combination of statins and fibrates should generally be used with caution.
-[See Warnings and Precautions (5.1).]
 
 ## 2.5 Dosage in Patients Taking Cyclosporine
 

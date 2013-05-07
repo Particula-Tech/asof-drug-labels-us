@@ -35,15 +35,15 @@ This response is maintained during extended periods of therapy.
 In addition, pravastatin sodium is effective in reducing the risk of acute coronary events in hypercholesterolemic patients with and without previous MI.
 
 A single daily dose is as effective as the same total daily dose given twice a day.
-In multicenter, double-blind, placebo-controlled studies of patients with primary hypercholesterolemia, treatment with pravastatin in daily doses ranging from 10 to 40 mg consistently and significantly decreased Total-C, LDL-C, TG, and Total-C/HDL-C and LDL-C/HDL-C ratios (see Table 4).
+In multicenter, double-blind, placebo-controlled studies of patients with primary hypercholesterolemia, treatment with pravastatin in daily doses ranging from 10 to 40 mg consistently and significantly decreased Total-C, LDL-C, TG, and Total-C/HDL-C and LDL-C/HDL-C ratios (see Table 5).
 
 In a pooled analysis of 2 multicenter, double-blind, placebo-controlled studies of patients with primary hypercholesterolemia, treatment with pravastatin at a daily dose of 80 mg (N=277) significantly decreased Total-C, LDL-C, and TG.
 The 25th and 75th percentile changes from baseline in LDL-C for pravastatin 80 mg were −43% and −30%.
-The efficacy results of the individual studies were consistent with the pooled data (see Table 4).
+The efficacy results of the individual studies were consistent with the pooled data (see Table 5).
 
-Treatment with pravastatin sodium modestly decreased VLDL-C and pravastatin sodium across all doses produced variable increases in HDL-C (see Table 4).
+Treatment with pravastatin sodium modestly decreased VLDL-C and pravastatin sodium across all doses produced variable increases in HDL-C (see Table 5).
 
-Table 4: Primary Hypercholesterolemia Studies: Dose Response of Pravastatin Sodium Once Daily Administration
+Table 5: Primary Hypercholesterolemia Studies: Dose Response of Pravastatin Sodium Once Daily Administration
 
 | Dose | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
@@ -62,9 +62,9 @@ Furthermore, pravastatin attenuated cholestyramine-induced increases in TG level
 ## 14.4 Hypertriglyceridemia (Fredrickson Type IV)
 
 The response to pravastatin in patients with Type IV hyperlipidemia (baseline TG >200 mg/dL and LDL-C <160 mg/dL) was evaluated in a subset of 429 patients.
-For pravastatin-treated subjects, the median (min, max) baseline TG level was 246.0 (200.5, 349.5) mg/dL (see Table 5.)
+For pravastatin-treated subjects, the median (min, max) baseline TG level was 246.0 (200.5, 349.5) mg/dL (see Table 6.)
 
-Table 5: Patients with Fredrickson Type IV Hyperlipidemia Median (25th, 75th percentile) Percent Change from Baseline
+Table 6: Patients with Fredrickson Type IV Hyperlipidemia Median (25th, 75th percentile) % Change from Baseline
 
 |  | Pravastatin 40 mg (N=429) | Placebo (N=430) |
 | --- | --- | --- |
@@ -76,24 +76,24 @@ Table 5: Patients with Fredrickson Type IV Hyperlipidemia Median (25th, 75th per
 
 ## 14.5 Dysbetalipoproteinemia (Fredrickson Type III)
 
-The response to pravastatin in two double-blind crossover studies of 46 patients with genotype E2/E2 and Fredrickson Type III dysbetalipoproteinemia is shown in Table 6.
+The response to pravastatin in two double-blind crossover studies of 46 patients with genotype E2/E2 and Fredrickson Type III dysbetalipoproteinemia is shown in Table 7.
 
-Table 6: Patients With Fredrickson Type III Dysbetalipoproteinemia Median (min, max) % Change From Baseline
+Table 7: Patients with Fredrickson Type III Dysbetalipoproteinemia Median (min, max) % Change from Baseline
 
 |  | Median (min, max) at Baseline (mg/dL) | Median % Change (min, max) Pravastatin 40 mg (N = 20) |
 | --- | --- | --- |
 | Study 1 |  |  |
 | Total-C | 386.5 (245.0, 672.0) | −32.7 (−58.5, 4.6) |
-| Triglycerides | 443.0 (275.0, 1299.0) | −23.7 (−68.5, 44.7) |
-| VLDL-C * | 206.5 (110.0, 379.0) | −43.8 (−73.1, −14.3) |
-| LDL-C * | 117.5 (80.0, 170.0) | −40.8 (−63.7, 4.6) |
+| TG | 443.0 (275.0, 1299.0) | −23.7 (−68.5, 44.7) |
+| VLDL-Ca | 206.5 (110.0, 379.0) | −43.8 (−73.1, −14.3) |
+| LDL-Ca | 117.5 (80.0, 170.0) | −40.8 (−63.7, 4.6) |
 | HDL-C | 30.0 (18.0, 88.0) | 6.4 (−45.0, 105.6) |
 | Non-HDL-C | 344.5 (215.0, 646.0) | −36.7 (−66.3, 5.8) |
 | a N=14 |  |  |
 |  | Median (min, max) at Baseline (mg/dL) | Median % Change (min, max) Pravastatin 40 mg (N = 26) |
 | Study 2 |  |  |
 | Total-C | 340.3 (230.1, 448.6) | −31.4 (−54.5, −13.0) |
-| Triglycerides | 343.2 (212.6, 845.9) | −11.9 (−56.5, 44.8) |
+| TG | 343.2 (212.6, 845.9) | −11.9 (−56.5, 44.8) |
 | VLDL-C | 145.0 (71.5, 309.4) | −35.7 (−74.7, 19.1) |
 | LDL-C | 128.6 (63.8, 177.9) | −30.3 (−52.2, 13.5) |
 | HDL-C | 38.7 (27.1, 58.0) | 5.0 (−17.7, 66.7) |
@@ -106,18 +106,17 @@ The children (aged 8 to 13 years) were randomized to placebo (N=63) or 20 mg of 
 Inclusion in the study required an LDL-C level >95th percentile for age and sex and one parent with either a clinical or molecular diagnosis of familial hypercholesterolemia.
 The mean baseline LDL-C value was 239 mg/dL and 237 mg/dL in the pravastatin (range: 151 to 405 mg/dL) and placebo (range: 154 to 375 mg/dL) groups, respectively.
 
-Pravastatin significantly decreased plasma levels of LDL-C, Total-C, and ApoB in both children and adolescents (see Table 7).
+Pravastatin significantly decreased plasma levels of LDL-C, Total-C, and ApoB in both children and adolescents (see Table 8).
 The effect of pravastatin treatment in the 2 age groups was similar.
-
-Table 7: Lipid-Lowering Effects of Pravastatin in Pediatric Patients With Heterozygous Familial Hypercholesterolemia: Least-Squares Mean % Change From Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)The above least-squares mean values were calculated based on log-transformed lipid values.
+Table 8: Lipid-Lowering Effects of Pravastatin in Pediatric Patients with Heterozygous Familial Hypercholesterolemia: Least-Squares Mean % Change from Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)a
 
 |  | Pravastatin 20 mg (Aged 8 to 13 years) N = 65 | Pravastatin 40 mg (Aged 14 to 18 years) N = 41 | Combined Pravastatin (Aged 8 to 18 years) N = 106 | Combined Placebo (Aged 8 to 18 years) N = 108 | 95% CI of the Difference Between Combined Pravastatin and Placebo |
 | --- | --- | --- | --- | --- | --- |
-| LDL-C | −26.04Significant at p ≤ 0.0001 when compared with placebo. | −21.07 | −24.07 | −1.52 | (−26.74, −18.86) |
-| TC | −20.75 | −13.08 | −17.72 | −0.65 | (−20.40, −13.83) |
+| LDL-C | −26.04b | −21.07b | −24.07b | −1.52 | (−26.74, −18.86) |
+| TC | −20.75b | −13.08b | −17.72b | −0.65 | (−20.40, −13.83) |
 | HDL-C | 1.04 | 13.71 | 5.97 | 3.13 | (−1.71, 7.43) |
 | TG | −9.58 | −0.30 | −5.88 | −3.27 | (−13.95, 10.01) |
-| ApoB (N) | −23.16 (61) | −18.08 (39) | −21.11 (100) | −0.97 (106) | (−24.29, −16.18) |
+| ApoB (N) | −23.16b (61) | −18.08b (39) | −21.11b (100) | −0.97 (106) | (−24.29, −16.18) |
 
 The mean achieved LDL-C was 186 mg/dL (range: 67 to 363 mg/dL) in the pravastatin group compared to 236 mg/dL (range: 105 to 438 mg/dL) in the placebo group.
 

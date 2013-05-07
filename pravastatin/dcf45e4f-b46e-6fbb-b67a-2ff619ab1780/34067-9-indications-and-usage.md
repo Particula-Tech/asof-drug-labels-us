@@ -15,8 +15,8 @@ In hypercholesterolemic patients without clinically evident coronary heart disea
 
 Pravastatin sodium tablets, USP are indicated:
 
-- high-density lipoprotein cholesterol (HDL-C) in patients with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson Types IIa and IIb).1
-- a s an adjunct to diet for the treatment of patients with elevated serum TG levels (Fredrickson Type IV).
+- as an adjunct to diet to reduce elevated total cholesterol (Total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (ApoB), and triglyceride (TG) levels and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson Types IIa and IIb).1
+- as an adjunct to diet for the treatment of patients with elevated serum TG levels (Fredrickson Type IV).
 - for the treatment of patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet.
 - as an adjunct to diet and lifestyle modification for treatment of heterozygous familial hypercholesterolemia (HeFH) in children and adolescent patients ages 8 years and older if after an adequate trial of diet the following findings are present:a.
   LDL-C remains ≥190 mg/dL orb.
@@ -24,4 +24,4 @@ Pravastatin sodium tablets, USP are indicated:
 
 ## 1.3 Limitations of Use
 
-Pravastatin sodium has not been studied in conditions where the major lipoprotein abnormality is elevation of chylomicrons (Fredrickson TypeI and V).
+Pravastatin sodium has not been studied in conditions where the major lipoprotein abnormality is elevation of chylomicrons (Fredrickson Types I and V).

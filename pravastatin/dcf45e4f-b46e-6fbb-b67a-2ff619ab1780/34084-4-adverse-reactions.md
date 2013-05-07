@@ -12,39 +12,39 @@ The most common adverse reactions that led to treatment discontinuation and occu
 
 All adverse clinical events (regardless of causality) reported in ≥2% of pravastatin-treated patients in placebo-controlled trials of up to 8 months duration are identified in Table 1:
 
-Table 1: Adverse Events in ≥ 2% of Patients Treated With Pravastatin 5 to 40 mg and at an Incidence Greater Than Placebo in Short-Term Placebo-Controlled Trials (% of Patients)
+Table 1: Adverse Events in ≥ 2% of Patients Treated with Pravastatin 5 to 40 mg and at an Incidence Greater Than Placebo in Short-Term Placebo-Controlled Trials (% of patients)
 
-| Body System/Event | 10 mg N=153 | 20 mgN=478 | 40 mgN=171 | Any Dose N=902 | PlaceboN=411 |
-| --- | --- | --- | --- | --- | --- |
-| Cardiovascular |  |  |  |  |  |
-| Angina Pectoris | 4.6 | 4.8 | 3.5 | 4.5 | 3.4 |
-| Dermatologic |  |  |  |  |  |
-| Rash | 2.6 | 6.7 | 1.2 | 4.5 | 1.4 |
-| Gastrointestinal |  |  |  |  |  |
-| Nausea/Vomiting | 5.9 | 10.5 | 2.3 | 7.4 | 7.1 |
-| Diarrhea | 8.5 | 6.5 | 4.7 | 6.7 | 5.6 |
-| Flatulence | 3.3 | 4.6 | 0.0 | 3.2 | 4.4 |
-| Dyspepsia/Heartburn | 3.3 | 3.6 | 0.6 | 2.5 | 2.7 |
-| Abdominal Distension | 3.3 | 2.1 | 0.6 | 2.0 | 2.4 |
-| General |  |  |  |  |  |
-| Fatigue | 1.3 | 5.2 | 0.0 | 3.4 | 3.9 |
-| Chest Pain | 1.3 | 3.3 | 1.2 | 2.7 | 1.9 |
-| Influenza | 2.6 | 1.9 | 0.6 | 2.0 | 0.7 |
-| Musculoskeletal |  |  |  |  |  |
-| Musculoskeletal Pain | 3.9 | 13.2 | 5.3 | 10.1 | 10.2 |
-| Myalgia | 2.6 | 2.9 | 1.2 | 2.3 | 1.2 |
-| Nervous System |  |  |  |  |  |
-| Headache | 6.5 | 7.5 | 3.5 | 6.3 | 4.6 |
-| Dizziness | 1.3 | 5.2 | 0.6 | 3.5 | 3.4 |
-| Respiratory |  |  |  |  |  |
-| Pharyngitis | 4.6 | 1.5 | 1.2 | 2.0 | 2.7 |
-| Upper Respiratory Infection | 9.8 | 5.2 | 4.1 | 5.9 | 5.8 |
-| Rhinitis | 5.2 | 3.8 | 1.2 | 3.9 | 4.9 |
-| Cough | 1.3 | 3.1 | 1.2 | 2.5 | 1.7 |
-| Investigation |  |  |  |  |  |
-| ALT Increased | 2.0 | 4.0 | 1.2 | 2.9 | 1.2 |
-| g-GT Increased | 2.6 | 2.1 | 0.6 | 2.0 | 1.2 |
-| CPK Increased | 1.3 | 5.2 | 2.9 | 4.1 | 3.6 |
+| Body System/Event | 5 mg N=100 | 10 mg N=153 | 20 mgN=478 | 40 mgN=171 | Any Dose N=902 | PlaceboN=411 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cardiovascular |  |  |  |  |  |  |
+| Angina Pectoris | 5.0 | 4.6 | 4.8 | 3.5 | 4.5 | 3.4 |
+| Dermatologic |  |  |  |  |  |  |
+| Rash | 3.0 | 2.6 | 6.7 | 1.2 | 4.5 | 1.4 |
+| Gastrointestinal |  |  |  |  |  |  |
+| Nausea/Vomiting | 4.0 | 5.9 | 10.5 | 2.3 | 7.4 | 7.1 |
+| Diarrhea | 8.0 | 8.5 | 6.5 | 4.7 | 6.7 | 5.6 |
+| Flatulence | 2.0 | 3.3 | 4.6 | 0.0 | 3.2 | 4.4 |
+| Dyspepsia/Heartburn | 0.0 | 3.3 | 3.6 | 0.6 | 2.5 | 2.7 |
+| Abdominal Distension | 2.0 | 3.3 | 2.1 | 0.6 | 2.0 | 2.4 |
+| General |  |  |  |  |  |  |
+| Fatigue | 4.0 | 1.3 | 5.2 | 0.0 | 3.4 | 3.9 |
+| Chest Pain | 4.0 | 1.3 | 3.3 | 1.2 | 2.7 | 1.9 |
+| Influenza | 4.0 | 2.6 | 1.9 | 0.6 | 2.0 | 0.7 |
+| Musculoskeletal |  |  |  |  |  |  |
+| Musculoskeletal Pain | 13.0 | 3.9 | 13.2 | 5.3 | 10.1 | 10.2 |
+| Myalgia | 1.0 | 2.6 | 2.9 | 1.2 | 2.3 | 1.2 |
+| Nervous System |  |  |  |  |  |  |
+| Headache | 5.0 | 6.5 | 7.5 | 3.5 | 6.3 | 4.6 |
+| Dizziness | 4.0 | 1.3 | 5.2 | 0.6 | 3.5 | 3.4 |
+| Respiratory |  |  |  |  |  |  |
+| Pharyngitis | 2.0 | 4.6 | 1.5 | 1.2 | 2.0 | 2.7 |
+| Upper Respiratory Infection | 6.0 | 9.8 | 5.2 | 4.1 | 5.9 | 5.8 |
+| Rhinitis | 7.0 | 5.2 | 3.8 | 1.2 | 3.9 | 4.9 |
+| Cough | 4.0 | 1.3 | 3.1 | 1.2 | 2.5 | 1.7 |
+| Investigation |  |  |  |  |  |  |
+| ALT Increased | 2.0 | 2.0 | 4.0 | 1.2 | 2.9 | 1.2 |
+| g-GT Increased | 3.0 | 2.6 | 2.1 | 0.6 | 2.0 | 1.2 |
+| CPK Increased | 5.0 | 1.3 | 5.2 | 2.9 | 4.1 | 3.6 |
 
 The safety and tolerability of pravastatin sodium at a dose of 80 mg in 2 controlled trials with a mean exposure of 8.6 months was similar to that of pravastatin sodium at lower doses except that 4 out of 464 patients taking 80 mg of pravastatin had a single elevation of CK >10 times ULN compared to 0 out of 115 patients taking 40 mg of pravastatin.
 
@@ -59,7 +59,7 @@ In these long-term trials, the most common reasons for discontinuation were mild
 Collectively, these 7 trials represent 47,613 patient-years of exposure to pravastatin.
 All clinical adverse events (regardless of causality) occurring in ≥2% of patients treated with pravastatin in these studies are identified in Table 2.
 
-Table 2: Adverse Events in ≥ 2% of Patients Treated With Pravastatin 40 mg and at an Incidence Greater Than Placebo in Long-Term Placebo-Controlled Trials
+Table 2: Adverse Events in ≥2% of Patients Treated with Pravastatin 40 mg and at an Incidence Greater Than Placebo in Long-Term Placebo-Controlled Trials
 
 | Body System/Event | Pravastatin(N = 10,764)% of patients | Placebo(N = 10,719)% of patients |
 | --- | --- | --- |
@@ -106,6 +106,8 @@ Immunologic: allergy, edema head/neck.
 
 Musculoskeletal: muscle weakness.
 
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
+
 Nervous System: vertigo, insomnia, memory impairment, neuropathy (including peripheral neuropathy).
 
 Special Senses: taste disturbance.
@@ -124,7 +126,7 @@ The reports are generally nonserious, and reversible upon statin discontinuation
 
 Hypersensitivity: anaphylaxis, angioedema, lupus erythematosus-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, purpura, hemolytic anemia, positive ANA, ESR increase, arthritis, arthralgia, asthenia, photosensitivity, chills, malaise, toxic epidermal necrolysis, erythema multiforme (including Stevens-Johnson syndrome).
 
-Gastrointestinal: abdominal pain, constipation, pancreatitis, hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, hepatoma.
+Gastrointestinal: abdominal pain, constipation, pancreatitis, hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, hepatoma, fatal and non-fatal hepatic failure.
 
 Dermatologic: a variety of skin changes (e.g., nodules, discoloration, dryness of mucous membranes, changes to hair/nails).
 

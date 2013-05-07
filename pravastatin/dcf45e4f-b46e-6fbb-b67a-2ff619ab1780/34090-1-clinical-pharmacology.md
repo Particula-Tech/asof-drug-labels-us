@@ -5,7 +5,7 @@
 Pravastatin is a reversible inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, an early and rate limiting step in the biosynthetic pathway for cholesterol.
 In addition, pravastatin reduces VLDL and TG and increases HDL-C.
 
-## 12.2 Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 General
 
@@ -74,42 +74,39 @@ Drug-Drug Interactions
 
 Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 
-| Coadministered Drug and Dosing Regimen |  | Pravastatin |  |
+| Coadministered Drug and Dosing Regimen | Pravastatin |  |  |
 | --- | --- | --- | --- |
 | Dose (mg) | Change in AUC | Change in Cmax |  |
 | Cyclosporine 5 mg/kg single dose | 40 mg single dose | ↑282% | ↑327% |
 | Clarithromycin 500 mg BID for 9 days | 40 mg OD for 8 days | ↑110% | ↑128% |
+| Darunavir 600 mg BID/Ritonavir 100 mg BID for 7 days | 40 mg single dose | ↑81% | ↑63% |
 | Colestipol 10 g single dose | 20 mg single dose | ↓47% | ↓53% |
-| Cholestyramine 4 g single dose | 20 mg single dose |  |  |
-| Administered simultaneously |  | ↓40% | ↓39% |
-| Administered 1 hour apart |  | ↑12% | ↑30% |
-| Administered 4 hours apart |  | ↓12% | ↓6.8% |
-| Cholestyramine 24 g OD for 4 weeks | 20 mg BID for 8 weeks | ↓51% | ↑4.9% |
-|  | 5 mg BID for 8 weeks | ↓38% | ↑23% |
-|  | 10 mg BID for 8 weeks | ↓18% | ↓33% |
-| Fluconazole |  |  |  |
-| 200 mg IV for 6 days | 20 mg PO + 10 mg IV | ↓34% | ↓33% |
-| 200 mg PO for 6 days | 20 mg PO + 10 mg IV | ↓16% | ↓16% |
+| Cholestyramine 4 g single dose Administered simultaneously Administered 1 hour prior to cholestyramine Administered 4 hours after cholestyramine | 20 mg single dose | ↓40%↑12% ↓12% | ↓39%↑30% ↓6.8% |
+| Cholestyramine 24 g OD for 4 weeks | 20 mg BID for 8 weeks 5 mg BID for 8 weeks 10 mg BID for 8 weeks | ↓51%↓38%↓18% | ↓4.9%↑23%↓33% |
+| Fluconazole 200 mg IV for 6 days 200 mg PO for 6 days | 20 mg PO+10 mg IV 20 mg PO+10 mg IV | ↓34%↓16% | ↓33%↓16% |
+| Kaletra 400 mg/100 mg BID for 14 days | 20 mg OD for 4 days | ­33% | ­26% |
 | Verapamil IR 120 mg for 1 day and Verapamil ER 480 mg for 3 days | 40 mg single dose | ↑31% | ↑42% |
 | Cimetidine 300 mg QID for 3 days | 20 mg single dose | ↑30% | ↑9.8% |
 | Antacids 15 mL QID for 3 days | 20 mg single dose | ↓28% | ↓24% |
 | Digoxin 0.2 mg OD for 9 days | 20 mg OD for 9 days | ↑23% | ↑26% |
 | Probucol 500 mg single dose | 20 mg single dose | ↑14% | ↑24% |
-| Warfarin 5 mg OD for 6 days | 20 mg BID for 6 days | ↓13% | ↓6.7% |
+| Warfarin 5 mg OD for 6 days | 20 mg BID for 6 days | ↓13% | ↑6.7% |
 | Itraconazole 200 mg OD for 30 days | 40 mg OD for 30 days | ↑11% (compared to Day 1) | ↑17% (compared to Day 1) |
 | Gemfibrozil 600 mg single dose | 20 mg single dose | ↓7.0% | ↓20% |
 | Aspirin 324 mg single dose | 20 mg single dose | ↑4.7% | ↑8.9% |
-| Nicotinic Acid 1 g single dose | 20 mg single dose | ↓3.6% | ↓8.2% |
+| Niacin1 g single dose | 20 mg single dose | ↓3.6% | ↓8.2% |
 | Diltiazem | 20 mg single dose | ↑2.7% | ↑30% |
 | Grapefruit juice | 40 mg single dose | ↓1.8% | ↑3.7% |
+
+BID = twice daily; OD = once daily; QID = four times daily
 
 Table 4: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs
 
 | Pravastatin Dosing Regimen | Name and Dose | Change in AUC | Change in Cmax |
 | --- | --- | --- | --- |
-| 20 mg BID for 6 days | Warfarin 5 mg OD for 6 days | ↑17% | ↑15% |
-|  | Chain in mean prothrombin time | ↑0.4 sec |  |
+| 20 mg BID for 6 days | Warfarin 5 mg OD for 6 days Change in mean prothrombin time | ↑17%↑0.4 sec | ↑15% |
 | 20 mg OD for 9 days | Digoxin 0.2 mg OD for 9 days | ↑4.6% | ↑5.3% |
-| 20 mg BID for 4 weeks | Antipyrine 1.2 g single dose | ↑3.0% | Not Reported |
-| 10 mg BID for 4 weeks |  | ↑1.6% |  |
-| 5 mg BID for 4 weeks |  | ↑ Less than 1% |  |
+| 20 mg BID for 4 weeks 0 mg BID for 4 weeks 5 mg BID for 4 weeks | Antipyrine 1.2 single dose | ↑3.0%↑1.6%↑Less than 1% | Not Reported |
+| 20 mg OD for 4 days | Kaletra 400 mg/100 mg BID for 14 days | No change | No change |
+
+BID = twice daily; OD = once daily

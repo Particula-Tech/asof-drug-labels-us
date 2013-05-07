@@ -9,9 +9,13 @@ Such patients merit closer monitoring for skeletal muscle effects.
 Uncomplicated myalgia has also been reported in pravastatin-treated patients [see Adverse Reactions (6)].
 Myopathy, defined as muscle aching or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values to greater than 10 times the upper limit of normal (ULN), was rare (<0.1%) in pravastatin clinical trials.
 Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevation of CPK.
-Predisposing factors include advanced age (>65), uncontrolled hypothyroidism, and renal impairment.
-Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
-Pravastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
+Predisposing factors include advanced age (≥65), uncontrolled hypothyroidism, and renal impairment.
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum CPK, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation and improvement with immunosuppressive agents.
+
+All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing pravastatin.
+
 Pravastatin therapy should also be temporarily withheld in any patient experiencing an acute or serious condition predisposing to the development of renal failure secondary to rhabdomyolysis, e.g., sepsis; hypotension; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
 
 The risk of myopathy during treatment with statins is increased with concurrent therapy with either erythromycin, cyclosporine, niacin, or fibrates.
@@ -22,6 +26,8 @@ Also, myopathy was not reported in a trial of combination pravastatin (40 mg/day
 There was a trend toward more frequent CPK elevations and patient withdrawals due to musculoskeletal symptoms in the group receiving combined treatment as compared with the groups receiving placebo, gemfibrozil, or pravastatin monotherapy.
 The use of fibrates alone may occasionally be associated with myopathy.
 The benefit of further alterations in lipid levels by the combined use of pravastatin sodium with fibrates should be carefully weighed against the potential risks of this combination.
+
+Cases of myopathy, including rhabdomyolysis, have been reported with pravastatin coadministered with colchicine, and caution should be exercised when prescribing pravastatin with colchicine [see Drug Interactions (7.3)].
 
 ## 5.2 Liver
 
@@ -38,10 +44,11 @@ Conclusions regarding liver safety are limited since the study was not large eno
 It is recommended that liver function tests be performed prior to the initiation of therapy and when clinically indicated.
 
 Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of pravastatin [see Contraindications (4.2)].
-Caution should be exercised when pravastatin is administered to patients who have a recent history of liver disease, have signs that may suggest liver disease (e.g., unexplained aminotransferase elevations, jaundice), or are heavy users of alcohol.
+Caution should be exercised when pravastatin is administered to patients who have a recent (<6 months) history of liver disease, have signs that may suggest liver disease (e.g., unexplained aminotransferase elevations, jaundice), or are heavy users of alcohol.
 
-Patients who develop increased transaminase levels or signs and symptoms of active liver disease while taking pravastatin should be evaluated with a second liver function evaluation to confirm the finding and be followed thereafter with frequent liver function tests until the abnormality(ies) return to normal.
-Should an increase in AST or ALT of 3 times the upper limit of normal or greater persist, withdrawal of pravastatin therapy is recommended..
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pravastatin.
+If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with pravastatin, promptly interrupt therapy.
+If an alternate etiology is not found do not restart pravastatin.
 
 ## 5.3 Endocrine Function
 
