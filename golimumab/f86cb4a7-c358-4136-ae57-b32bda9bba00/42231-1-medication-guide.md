@@ -39,6 +39,8 @@ Cancer
 - For children and adults taking TNF-blocker medicines, including SIMPONI, the chances of getting cancer may increase.
 - There have been cases of unusual cancers in children and teenage patients taking TNF-blocking agents.
 - People with inflammatory diseases including rheumatoid arthritis, psoriatic arthritis, or ankylosing spondylitis, especially those with very active disease, may be more likely to get lymphoma.
+- Some people treated with SIMPONI have developed certain kinds of skin cancer.
+  If any changes in the appearance of your skin or growths on your skin occur during or after your treatment with SIMPONI, tell your doctor.
 
 What is SIMPONI?
 
@@ -213,6 +215,4 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
 
 © Janssen Biotech, Inc. 2011
 
-Revised: 8/2011
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: 04/2013 This Medication Guide has been approved by the U.S. Food and Drug Administration

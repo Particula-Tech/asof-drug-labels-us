@@ -98,6 +98,8 @@ Vascular disorders: Vasculitis (systemic)
 The following adverse reactions have been identified during post-approval use of SIMPONI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SIMPONI exposure.
 
+Neoplasm Benign and Malignant: Melanoma [see Warnings and Precautions (5.2)]
+
 Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.10)], sarcoidosis
 
 Skin and subcutaneous tissue disorders: Skin exfoliation

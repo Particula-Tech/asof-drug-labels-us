@@ -94,6 +94,10 @@ Even in the absence of TNF blocker therapy, patients with rheumatoid arthritis m
 During the controlled portions of the Phase 2 trial in RA, and the Phase 3 trials in RA, PsA and AS, the incidence of malignancies other than lymphoma per 100 patient-years of follow-up was not elevated in the combined SIMPONI group compared with the placebo group.
 In the controlled and uncontrolled portions of these trials, the incidence of malignancies, other than lymphoma, in SIMPONI-treated patients was similar to that expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1
 
+Melanoma has been reported in patients treated with TNF-blocking agents, including SIMPONI.
+Merkel cell carcinoma has been reported in patients treated with TNF-blocking agents.
+Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
+
 In controlled trials of other TNF-blockers in patients at higher risk for malignancies (e.g., patients with COPD, patients with Wegener's granulomatosis treated with concomitant cyclophosphamide) a greater portion of malignancies occurred in the TNF-blocker group compared to the controlled group.
 In an exploratory 1-year clinical trial evaluating the use of 50, 100 and 200 mg of SIMPONI in 309 patients with severe persistent asthma, 6 patients developed malignancies other than NMSC in the SIMPONI groups compared to none in the control group.
 Three of the 6 patients were in the 200 mg SIMPONI group.
