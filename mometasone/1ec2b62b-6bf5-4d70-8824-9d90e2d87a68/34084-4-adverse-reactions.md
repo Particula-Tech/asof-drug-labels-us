@@ -103,7 +103,6 @@ The safety profile for ASMANEX TWISTHALER in the 52-week trial was similar to th
 The following adverse reactions have been reported during post-approval use of ASMANEX TWISTHALER.
 Because they are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System Disorders: Immediate and delayed hypersensitivity reactions including rash, pruritus, angioedema and anaphylactic reaction.
-[see Warnings and Precautions (5.3) and Contraindications (4.2)]
+Immune System Disorders: Immediate and delayed hypersensitivity reactions including rash, pruritus, angioedema and anaphylactic reaction [see Warnings and Precautions (5.3) and Contraindications (4.2)].
 
 Respiratory, Thoracic and Mediastinal Disorders: Asthma aggravation, which may include cough, dyspnea, wheezing and bronchospasm.

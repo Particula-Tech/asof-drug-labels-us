@@ -10,14 +10,14 @@ Asthma is a serious and potentially life-threatening condition.
 Poorly controlled asthma during pregnancy is associated with adverse outcomes for mother and fetus.
 ASMANEX TWISTHALER should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-There is a natural increase in corticosteroid production during pregnancy; therefore most women require a lower exogenous corticosteroid dose and may not need corticosteroid treatment during pregnancy.
+There is a natural increase in corticosteroid production during pregnancy; therefore, most women require a lower exogenous corticosteroid dose and may not need corticosteroid treatment during pregnancy.
 Infants born to mothers taking substantial oral corticosteroid doses during pregnancy should be monitored for signs of hypoadrenalism.
 
 When administered to pregnant mice, rats, and rabbits, mometasone furoate increased fetal malformations and decreased fetal growth (measured by lower fetal weights and/or delayed ossification).
 Dystocia and related complications were also observed when mometasone furoate was administered to rats late in gestation.
 However, experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroid exposure than humans.
 
-In a mouse reproduction study, subcutaneous mometasone furoate produced cleft palate at approximately one-third of the maximum recommended daily human dose (MRHD) for adults on an mcg/m2 basis and decreased fetal survival at approximately 1 time the MRHD.
+In a mouse reproduction study, subcutaneous mometasone furoate produced cleft palate at approximately one-third of the maximum recommended daily human dose (MRHD) for adults on an mcg/m2 basis and decreased fetal survival at approximately 1 times the MRHD.
 No toxicity was observed at approximately one-tenth of the MRHD.
 
 In a rat reproduction study, mometasone furoate produced umbilical hernia at topical dermal doses approximately 6 times the MRHD and delays in ossification at approximately 3 times the MRHD.

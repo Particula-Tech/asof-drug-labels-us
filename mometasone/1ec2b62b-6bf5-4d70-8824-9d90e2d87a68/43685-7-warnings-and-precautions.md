@@ -15,10 +15,10 @@ During such episodes, patients may require therapy with oral corticosteroids.
 ## 5.3 Hypersensitivity Reactions Including Anaphylaxis
 
 Hypersensitivity reactions including rash, pruritus, angioedema, and anaphylactic reaction have been reported with use of ASMANEX TWISTHALER.
-Discontinue ASMANEX TWISTHALER if such reactions occur [see Contraindications (4) and Postmarketing Experience (6.2)].
+Discontinue ASMANEX TWISTHALER if such reactions occur [see Contraindications (4.2) and Postmarketing Experience (6.2)].
 
 ASMANEX TWISTHALER contains small amounts of lactose, which contains trace levels of milk proteins.
-In postmarketing experience with ASMANEX TWISTHALER, anaphylactic reactions in patients with milk protein allergy have been reported [see Contraindications (4) and Postmarketing Experience (6.2)].
+In postmarketing experience with ASMANEX TWISTHALER, anaphylactic reactions in patients with milk protein allergy have been reported [see Contraindications (4.2) and Postmarketing Experience (6.2)].
 
 ## 5.4 Immunosuppression
 
@@ -47,7 +47,7 @@ During periods of stress or severe asthma attack, patients who have been withdra
 These patients should also be instructed to carry a medical identification card indicating that they may need supplementary systemic corticosteroids during periods of stress or severe asthma attack.
 
 Patients requiring oral corticosteroids should be weaned slowly from systemic corticosteroid use after transferring to ASMANEX TWISTHALER.
-Prednisone reduction can be accomplished by reducing the daily prednisone dose by 2.5 mg on a weekly basis during treatment with ASMANEX TWISTHALER [see Dosage and Administration (2)].
+Prednisone reduction can be accomplished by reducing the daily prednisone dose by 2.5 mg on a weekly basis during treatment with ASMANEX TWISTHALER [see Dosage and Administration (2.1)].
 Lung function (FEV1 or PEFR), beta-agonist use, and asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
 In addition to monitoring asthma signs and symptoms, patients should be observed for signs and symptoms of adrenal insufficiency such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
@@ -82,7 +82,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including AS
 
 ## 5.9 Glaucoma and Cataracts
 
-In clinical trials glaucoma, increased intraocular pressure, and cataracts have been reported in 8 of 3007 patients following the administration of ASMANEX TWISTHALER.
+In clinical trials, glaucoma, increased intraocular pressure, and cataracts have been reported in 8 of 3007 patients following the administration of ASMANEX TWISTHALER.
 Close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
 
 ## 5.10 Paradoxical Bronchospasm

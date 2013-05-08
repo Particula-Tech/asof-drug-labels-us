@@ -7,7 +7,7 @@ These trials included 1750 patients ranging from 12 to 83 years of age; 38% male
 Patients received ASMANEX TWISTHALER 110 mcg twice daily (n=133), 220 mcg once daily in the morning (n=209), 220 mcg once daily in the evening (n=232), 220 mcg twice daily (n=433), 440 mcg once daily in the morning (n=419), 440 mcg once daily in the evening (n=250), or 440 mcg twice daily (n=74).
 The results of the clinical trials are presented based upon previous asthma therapy.
 
-Patients ≥12 Years of Age Previously Maintained on Bronchodilators Alone: ASMANEX TWISTHALER was studied in three 12-week, double-blind trials in 737 patients with mild to moderate asthma (mean baseline FEV 1≅2.6 L, 72% of predicted normal) who were maintained on short-acting beta2-agonists alone.
+Patients ≥12 Years of Age Previously Maintained on Bronchodilators Alone: ASMANEX TWISTHALER was studied in three 12-week, double-blind trials in 737 patients with mild to moderate asthma (mean baseline FEV1≅2.6 L, 72% of predicted normal) who were maintained on short-acting beta2-agonists alone.
 The first 2 trials evaluated doses of 440 mcg administered as 2 inhalations once daily in the morning and 1 of these studies also evaluated 220 mcg twice daily.
 In both trials, AM predose FEV1 was significantly improved at endpoint (last observation) following treatment with 440 mcg ASMANEX TWISTHALER once daily in the morning as compared to placebo (14% vs. 2.5%, respectively, in 1 trial and 16% vs. 5.5% in the other).
 There was also a significant improvement in AM predose FEV1 at endpoint following treatment with ASMANEX TWISTHALER 220 mcg twice daily.
