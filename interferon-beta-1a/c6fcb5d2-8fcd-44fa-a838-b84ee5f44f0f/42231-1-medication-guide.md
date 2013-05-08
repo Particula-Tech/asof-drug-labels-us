@@ -25,7 +25,6 @@ Potential serious side effects include:
   If your skin or the whites of your eyes become yellow or if you are bruising easily you should call your doctor right away.
 - Risk to pregnancy.
   If you become pregnant while taking Rebif® you should call your doctor right away.
-  Rebif® may cause you to lose your baby (miscarry) or may cause harm to your unborn child.
   You and your doctor will need to decide whether the potential benefit of taking Rebif® is greater than the risks are to your unborn child.
 - Allergic reactions.
   Some patients taking Rebif® have had severe allergic reactions leading to difficulty breathing, and loss of consciousness.
@@ -94,7 +93,6 @@ What should I avoid while taking Rebif®?
 
 - Pregnancy.
   You should avoid becoming pregnant while taking Rebif® until you have talked with your doctor.
-  Rebif® can cause you to lose your baby (miscarry).
 - Breast feeding.
   You should talk to your doctor if you are breast feeding an infant.
   It is not known if the interferon in Rebif® can be passed to an infant in mother's milk, and it is not known whether the drug could harm the infant if it is passed to an infant.
@@ -268,6 +266,6 @@ Manufactured by: EMD Serono, Inc. Rockland, MA 02370 U.S. License 1773
 
 Marketed by: EMD Serono, Inc. Pfizer Inc. Rockland, MA 02370 New York, NY 10017
 
-December, 2012
+April, 2013
 
 N67Z0104B
