@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078164"
+  ],
+  "inn": "hydrochlorothiazide",
+  "labeler": "Citron Pharma LLC",
+  "package_ndcs": [
+    "57237-002-01",
+    "57237-002-99"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydrochlorothiazide",
+      "name": "Hydrochlorothiazide"
+    }
+  ],
+  "setid": "33f9c3ae-108d-469e-af6c-8be3b0f83139",
+  "source": "dailymed"
+}
