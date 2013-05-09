@@ -78,3 +78,4 @@ Adverse reactions have been reported during post-approval use with STELARA®.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to STELARA® exposure.
 
 - Immune system disorders: Serious hypersensitivity reactions (including anaphylaxis and angioedema), other hypersensitivity reactions (including rash and urticaria).
+- Skin reactions: Pustular psoriasis, erythrodermic psoriasis.
