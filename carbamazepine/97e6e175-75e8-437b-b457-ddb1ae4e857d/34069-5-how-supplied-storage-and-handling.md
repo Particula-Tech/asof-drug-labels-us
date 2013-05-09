@@ -59,4 +59,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8039421 Revised January 2013
+8040459 Revised April 2013
