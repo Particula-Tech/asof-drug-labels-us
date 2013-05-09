@@ -1,0 +1,5 @@
+PRINCIPAL DISPLAY PANEL
+
+25mg/100mg: 30 Tablets
+
+50mg/200mg: 30 Tablets

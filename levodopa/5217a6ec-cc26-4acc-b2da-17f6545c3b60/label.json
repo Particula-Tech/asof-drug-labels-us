@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA202323"
+  ],
+  "inn": "levodopa",
+  "labeler": "Accord Healthcare, Inc.",
+  "package_ndcs": [
+    "16729-078-01",
+    "16729-078-10",
+    "16729-078-16",
+    "16729-078-17",
+    "16729-079-01",
+    "16729-079-10",
+    "16729-079-16",
+    "16729-079-17"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "carbidopa and levodopa",
+      "name": "CARBIDOPA AND LEVODOPA"
+    }
+  ],
+  "setid": "5217a6ec-cc26-4acc-b2da-17f6545c3b60",
+  "source": "dailymed"
+}
