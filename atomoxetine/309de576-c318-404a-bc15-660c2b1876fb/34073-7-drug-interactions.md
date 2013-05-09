@@ -9,7 +9,7 @@ Such reactions may occur when these drugs are given concurrently or in close pro
 ## 7.2 Effect of CYP2D6 Inhibitors on Atomoxetine
 
 In extensive metabolizers (EMs), inhibitors of CYP2D6 (e.g., paroxetine, fluoxetine, and quinidine) increase atomoxetine steady-state plasma concentrations to exposures similar to those observed in poor metabolizers (PMs).
-In EM individuals treated with paroxetine or fluoxetine, the AUC of atomoxetine is approximately 6- to 8-fold and Css,max is about 3- to 4-fold greater than atomoxetine alone.
+In EM individuals treated with paroxetine or fluoxetine, the AUC of atomoxetine is approximately 6- to 8-fold and Css, max is about 3- to 4-fold greater than atomoxetine alone.
 
 In vitro studies suggest that coadministration of cytochrome P450 inhibitors to PMs will not increase the plasma concentrations of atomoxetine.
 

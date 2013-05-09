@@ -165,3 +165,111 @@ Do not use if Lilly inner seal is missing or broken.
 www.strattera.com
 
 Lilly
+
+PACKAGE LABEL - STRATTERA Titration Pack 10mg, 18mg, 25mg, 40mg 30ct
+
+5 X 10 mg Capsules PU 3227
+
+5 X 18 mg Capsules PU 3238
+
+5 X 25 mg Capsules PU 3228
+
+15 X 40 mg Capsules PU 3229
+
+FREE SAMPLE
+
+strattera®
+
+atomoxetine HCl
+
+This sample pack is recommended for children and adolescents whose weight is 63 - 74 lbs (28.6 - 33.3 kg).
+
+See full Prescribing Information to determine appropriate therapeutic dose.
+
+Rx only
+
+10mg Each capsule equivalent to 10 mg atomoxetine
+
+18mg Each capsule equivalent to 18 mg atomoxetine
+
+25mg Each capsule equivalent to 25 mg atomoxetine
+
+40mg Each capsule equivalent to 40 mg atomoxetine
+
+www.strattera.com
+
+Lilly
+
+LIFT TO OPEN
+
+PACKAGE LABEL - STRATTERA Titration Pack 18mg, 25mg, 40mg, 60mg 30ct
+
+5 X 18 mg Capsules PU 3238
+
+5 X 25 mg Capsules PU 3228
+
+5 X 40 mg Capsules PU 3229
+
+15 X 60 mg Capsules PU 3239
+
+FREE SAMPLE
+
+strattera®
+
+atomoxetine HCl
+
+This sample pack is recommended for children and adolescents whose weight is 94 - 110 lbs (42.9 - 50.0 kg).
+
+See full Prescribing Information to determine appropriate therapeutic dose.
+
+Rx only
+
+18mg Each capsule equivalent to 18 mg atomoxetine
+
+25mg Each capsule equivalent to 25 mg atomoxetine
+
+40mg Each capsule equivalent to 40 mg atomoxetine
+
+60mg Each capsule equivalent to 60 mg atomoxetine
+
+www.strattera.com
+
+Lilly
+
+LIFT TO OPEN
+
+PACKAGE LABEL - STRATTERA Titration Pack 25mg, 40mg, 60mg, 80mg 30ct
+
+5 X 25 mg Capsules PU 3228
+
+5 X 40 mg Capsules PU 3229
+
+5 X 60 mg Capsules PU 3239
+
+15 X 80 mg Capsules PU 3250
+
+FREE SAMPLE
+
+strattera®
+
+atomoxetine HCl
+
+This sample pack is recommended for children and adolescents whose weight is 126 - 147 lbs (57.2 - 66.7 kg) and adults.
+
+See full Prescribing Information to determine appropriate therapeutic dose.
+
+Rx only
+
+25mg Each capsule equivalent to 25 mg atomoxetine
+
+40mg Each capsule equivalent to 40 mg atomoxetine
+
+60mg Each capsule equivalent to 60 mg atomoxetine
+
+80mg Each capsule equivalent to 80 mg atomoxetine
+
+www.strattera.com
+
+Lilly
+
+LIFT TO OPEN

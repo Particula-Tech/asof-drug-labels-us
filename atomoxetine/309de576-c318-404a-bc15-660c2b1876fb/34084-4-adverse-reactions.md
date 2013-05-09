@@ -23,7 +23,7 @@ The most commonly observed adverse reactions in patients treated with STRATTERA 
 
 Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of pediatric patients experienced potentially clinically important changes in heart rate (≥20 beats per min) or blood pressure (≥15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
 
-Table 2: Common Treatment-Emergent Adverse Reactions Associated with the Use of STRATTERA in Acute (up to 18 weeks) Child and Adolescent Trials
+Table 2: Common Treatment–Emergent Adverse Reactions Associated with the Use of STRATTERA in Acute (up to 18 weeks) Child and Adolescent Trials
 
 | Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |

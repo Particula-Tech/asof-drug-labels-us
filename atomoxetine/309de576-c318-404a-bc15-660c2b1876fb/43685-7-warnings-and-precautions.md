@@ -64,15 +64,15 @@ The following table provides short-term, placebo-controlled clinical trial data 
 
 Table 1a
 
-|  | Maximumb |  | Endpoint |  | Maximumb |  | Endpoint |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Pediatric Acute Placebo-Controlled |  |  |  | Adult Acute Placebo-Controlled |  |  |  |
-|  | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Maximumb |  | Endpoint |  | Maximumb |  | Endpoint |  |
+| Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo |  |
 |  | % | % | % | % | % | % | % | % |
 | DBP (≥15 mm Hg) | 21.5 | 14.1 | 9.3 | 4.8 | 12.6 | 8.7 | 4.8 | 3.5 |
 | SBP (≥20 mm Hg) | 12.5 | 8.7 | 4.9 | 3.3 | 12.4 | 7.8 | 4.2 | 3.2 |
 | HR (≥20 bpm) | 23.4 | 11.5 | 12.2 | 3.8 | 22.4 | 8.3 | 10.2 | 2.0 |
-| a Abbreviations: bpm=beats per minute; DBP=diastolic blood pressure; HR=heart rate; mm Hg=millimeters mercury; SBP=systolic blood pressure. b Proportion of patients meeting threshold at any one time during clinical trial. |  |  |  |  |  |  |  |  |
+| a Abbreviations: bpm=beats per minute; DBP=diastolic blood pressure; HR=heart rate; mm Hg=millimeters mercury; SBP=systolic blood pressure.b Proportion of patients meeting threshold at any one time during clinical trial. |  |  |  |  |  |  |  |  |
 
 In placebo-controlled registration studies involving pediatric patients, tachycardia was identified as an adverse event for 0.3% (5/1597) of these STRATTERA patients compared with 0% (0/934) of placebo patients.
 The mean heart rate increase in extensive metabolizer (EM) patients was 5.0 beats/minute, and in poor metabolizer (PM) patients 9.4 beats/minute.

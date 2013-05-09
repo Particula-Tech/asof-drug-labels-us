@@ -9,7 +9,7 @@
 |  | 10 mg | 18 mg | 25 mg | 40 mg | 60 mg | 80 mg | 100 mg |
 | NDC Codes: |  |  |  |  |  |  |  |
 | Bottles of 30 | 0002-3227-30 | 0002-3238-30 | 0002-3228-30 | 0002-3229-30 | 0002-3239-30 | 0002-3250-30 | 0002-3251-30 |
-| aAtomoxetine base equivalent. |  |  |  |  |  |  |  |
+| a Atomoxetine base equivalent. |  |  |  |  |  |  |  |
 
 ## 16.2 Storage and Handling
 

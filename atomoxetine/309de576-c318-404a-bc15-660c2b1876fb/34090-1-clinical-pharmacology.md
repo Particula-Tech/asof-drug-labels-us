@@ -43,7 +43,7 @@ At therapeutic concentrations, 98% of atomoxetine in plasma is bound to protein,
 
 Metabolism and elimination — Atomoxetine is metabolized primarily through the CYP2D6 enzymatic pathway.
 People with reduced activity in this pathway (PMs) have higher plasma concentrations of atomoxetine compared with people with normal activity (EMs).
-For PMs, AUC of atomoxetine is approximately 10-fold and Css,max is about 5-fold greater than EMs.
+For PMs, AUC of atomoxetine is approximately 10-fold and Css, max is about 5-fold greater than EMs.
 Laboratory tests are available to identify CYP2D6 PMs.
 Coadministration of STRATTERA with potent inhibitors of CYP2D6, such as fluoxetine, paroxetine, or quinidine, results in a substantial increase in atomoxetine plasma exposure, and dosing adjustment may be necessary [see Warnings and Precautions (5.13)].
 Atomoxetine did not inhibit or induce the CYP2D6 pathway.
@@ -55,7 +55,7 @@ N-Desmethylatomoxetine is formed by CYP2C19 and other cytochrome P450 enzymes, b
 
 Mean apparent plasma clearance of atomoxetine after oral administration in adult EMs is 0.35 L/hr/kg and the mean half-life is 5.2 hours.
 Following oral administration of atomoxetine to PMs, mean apparent plasma clearance is 0.03 L/hr/kg and mean half-life is 21.6 hours.
-For PMs, AUC of atomoxetine is approximately 10-fold and Css,max is about 5-fold greater than EMs.
+For PMs, AUC of atomoxetine is approximately 10-fold and Css, max is about 5-fold greater than EMs.
 The elimination half-life of 4-hydroxyatomoxetine is similar to that of N-desmethylatomoxetine (6 to 8 hours) in EM subjects, while the half-life of N-desmethylatomoxetine is much longer in PM subjects (34 to 40 hours).
 
 Atomoxetine is excreted primarily as 4-hydroxyatomoxetine-O-glucuronide, mainly in the urine (greater than 80% of the dose) and to a lesser extent in the feces (less than 17% of the dose).
