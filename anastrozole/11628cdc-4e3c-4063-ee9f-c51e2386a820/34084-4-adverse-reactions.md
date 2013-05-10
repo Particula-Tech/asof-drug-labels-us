@@ -3,7 +3,7 @@
 Serious adverse reactions with ARIMIDEX occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
 This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
-Common adverse reactions (occurring with an incidence of >10%) in women taking ARIMIDEX included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
+Common adverse reactions (occurring with an incidence of ≥10%) in women taking ARIMIDEX included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
 In the ATAC trial, the most common reported adverse reaction (>0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the ARIMIDEX group.
 
@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ### Adjuvant Therapy
 
-Adverse reaction data for adjuvant therapy are based on the ATAC trial [see Clinical Studies (14.1)].
+Adverse reaction data for adjuvant therapy are based on the ATAC trial [seeClinical Studies (14.1)].
 The median duration of adjuvant treatment for safety evaluation was 59.8 months and 59.6 months for patients receiving ARIMIDEX 1 mg and tamoxifen 20 mg, respectively.
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
@@ -161,20 +161,17 @@ Patients receiving ARIMIDEX had a lower incidence of hot flashes, vaginal bleedi
 
 10-year median follow-up Safety Results from the ATAC Trial
 
-• Results are consistent with the previous analyses.
+Results are consistent with the previous analyses.
 
-• Serious adverse reactions were similar between ARIMIDEX (50%) and tamoxifen (51%).
+Serious adverse reactions were similar between ARIMIDEX (50%) and tamoxifen (51%).
 
-• Cardiovascular events were consistent with the known safety profiles of ARIMIDEX and tamoxifen.
-
-• The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the ARIMIDEX group (15%) compared to the tamoxifen group (11%).
-This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
-
-• The cumulative incidence of new primary cancers was similar in the ARIMIDEX group (13.7%) compared to the tamoxifen group (13.9%).
-Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8%) compared to the ARIMIDEX group (0.2%).
-
-• The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
-There were more deaths related to breast cancer in the tamoxifen than in the ARIMIDEX treatment group.
+- •Cardiovascular events were consistent with the known safety profiles of ARIMIDEX and tamoxifen.
+- •The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the ARIMIDEX group (15%) compared to the tamoxifen group (11%).
+  This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
+- •The cumulative incidence of new primary cancers was similar in the ARIMIDEX group (13.7%) compared to the tamoxifen group (13.9%).
+  Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8%) compared to the ARIMIDEX group (0.2%).
+- •The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
+  There were more deaths related to breast cancer in the tamoxifen than in the ARIMIDEX treatment group.
 
 ### First-Line Therapy
 
@@ -205,7 +202,7 @@ Table 3 – Adverse Reactions Occurring with an Incidence of at Least 5% in Tria
 | Anorexia | 26 (5) | 46 (9) |
 | Metabolic and Nutritional |  |  |
 | Peripheral edema | 51 (10) | 41 (8) |
-| Muscoloskeletal |  |  |
+| Musculoskeletal |  |  |
 | Bone pain | 54 (11) | 52 (10) |
 | Nervous |  |  |
 | Dizziness | 30 (6) | 22 (4) |
@@ -331,10 +328,11 @@ Table 6 — Number (n) and Percentage of Patients with Pre-specified Adverse Rea
 
 ## 6.2 Post-Marketing Experience
 
-Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase have been reported (>1% and <10%) and gamma-GT, bilirubin and hepatitis have been reported (> 0.1% and <1%) in patients receiving ARIMIDEX.
+These adverse reactions are reported voluntarily from a population of uncertain size.
+Therefore, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
+The following have been reported in post-approval use of Arimidex:
 
-ARIMIDEX may also be associated with rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
-
-Cases of allergic reactions including angioedema, urticaria and anaphylaxis have been reported in patients receiving ARIMIDEX [see Contraindications (4.2)].
-
-Trigger finger has been reported (>0.1% and <1%) in patients receiving ARIMIDEX.
+- •Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
+- •Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
+- •Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
+- •Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
