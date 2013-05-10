@@ -27,11 +27,11 @@ ADVAIR DISKUS can cause serious side effects, including:
    - ∘Get emergency medical care if:
      - ▪breathing problems worsen quickly and
      - ▪you use your rescue inhaler medicine, but it does not relieve your breathing problems.
-2. 1.ADVAIR DISKUS should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as inhaled corticosteroids.
-3. 2.When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR DISKUS.
+2. 2.ADVAIR DISKUS should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as inhaled corticosteroids.
+3. 3.When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR DISKUS.
    Your healthcare provider will decide if you can stop ADVAIR DISKUS without loss of asthma control.
    Your healthcare provider may prescribe a different asthma control medicine for you, such as an inhaled corticosteroid.
-4. 3.Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
+4. 4.Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
 
 What is ADVAIR DISKUS?
 
