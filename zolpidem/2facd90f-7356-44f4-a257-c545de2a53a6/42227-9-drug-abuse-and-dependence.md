@@ -28,4 +28,4 @@ These reported symptoms range from mild dysphoria and insomnia to a withdrawal s
 The following adverse reactions which are considered to meet the DSM-III-R criteria for uncomplicated sedative-hypnotic withdrawal were reported during U.S. clinical trials following placebo substitution occurring within 48 hours following last zolpidem treatment: fatigue, nausea, flushing, lightheadedness, uncontrolled crying, emesis, stomach cramps, panic attack, nervousness, and abdominal discomfort.
 These reported adverse reactions occurred at an incidence of 1% or less.
 However, available data cannot provide a reliable estimate of the incidence, if any, of dependence during treatment at recommended doses.
-Post-marketing reports of abuse, dependence, and withdrawal have been received.
+Postmarketing reports of abuse, dependence, and withdrawal have been received.

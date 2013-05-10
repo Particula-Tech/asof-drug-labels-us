@@ -1,9 +1,7 @@
-# Patient Instructions for Use
-
-Zolpimist (zolpidem tartrate) Oral Spray, Metered for Oral Use
+Patient Instructions for Use Zolpimist (zolpidem tartrate) Oral Spray, Metered for Oral Use
 
 Be sure to carefully read, understand, and follow these instructions so that you use Zolpimist the right way.
-Ask your doctor or pharmacist if you have any questions about how to use Zolpimist.
+Ask your healthcare provider or pharmacist if you have any questions about how to use Zolpimist.
 
 Priming:
 
@@ -43,7 +41,7 @@ Otherwise, there is no need to prime the pump.
 
 • Take Zolpimist exactly as prescribed.
 Do not take more Zolpimist than prescribed for you.
-Your doctor will tell you whether to take 1 or 2 sprays of Zolpimist.
+Your healthcare provider will tell you whether to take 1 or 2 sprays of Zolpimist.
 
 • Take Zolpimist right before you get into bed.
 
@@ -67,10 +65,10 @@ Fully press down on the pump to make sure that a full dose of Zolpimist is spray
 
 12.
 Let the pump return to the starting position.
-If your doctor prescribed only one spray of Zolpimist (5 mg dose), go directly to Step 14.
+If your healthcare provider prescribed only one spray of Zolpimist (5 mg dose), go directly to Step 14.
 
 13.
-If your doctor prescribes a second spray of Zolpimist (10 mg dose), repeat Step 11.
+If your healthcare provider prescribes a second spray of Zolpimist (10 mg dose), repeat Step 11.
 
 14.
 Put the clear protective cap back over the pump at the top of the child-resistant base after each use (see Figure 6).
@@ -88,6 +86,6 @@ See Medication Guide section “How should I store Zolpimist?” for instruction
 
 Manufactured for ECR Pharmaceuticals Richmond, Virginia 23255 by Rechon Life Sciences AB SE-216 10 Limhamn, Sweden
 
-Prepared October 2010
+May 2013
 
-Copyright, ECR Pharmaceuticals, 2010
+©ECR Pharmaceuticals, 2013

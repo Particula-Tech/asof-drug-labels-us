@@ -1,4 +1,4 @@
-# Principal Display Panel - Commercial Carton Label
+# PRINCIPAL DISPLAY PANEL - COMMERCIAL CARTON LABEL
 
 Principal Display Panel
 
@@ -63,7 +63,7 @@ CIV
 
 Caution: Federal law prohibits the transfer of this drug to any person other than the patient for whom it is prescribed.
 
-# Principal Display Panel - Physician Sample Carton Label
+# PRINCIPAL DISPLAY PANEL - PHYSICIAN SAMPLE CARTON LABEL
 
 Principal Display Panel
 

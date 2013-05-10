@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Zolpimist contains zolpidem tartrate, a non-benzodiazepine hypnotic of the imidazopyridine class.
-Chemically, zolpidem is N,N,6-trimethyl-2-p-tolylimidazo[1,2-a] pyridine-3-acetamide l-(+)tartrate (2:1).
+Zolpimist (zolpidem tartrate) is a gamma-aminobutyric acid (GABA) A agonist of the imidazopyridine class.
+Chemically, zolpidem is N,N,6-trimethyl-2-p-tolylimidazo[1,2-a] pyridine-3-acetamide l-(+)-tartrate (2:1).
 It has the following structure:
 
 Zolpidem tartrate is a white to off-white crystalline powder that is sparingly soluble in water, alcohol, and propylene glycol.

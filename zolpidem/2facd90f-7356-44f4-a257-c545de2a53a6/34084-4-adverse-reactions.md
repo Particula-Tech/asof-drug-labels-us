@@ -2,19 +2,14 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.2)].
-- Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)].
-- Withdrawal effects [see Warnings and Precautions (5.4)].
-- CNS-depressant effects [see Warnings and Precautions (5.5)].
+- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)].
+- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)].
+- Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)].
+- Withdrawal effects [see Warnings and Precautions (5.7)].
 
-## 6.1 Clinical trials experience
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating incidence rates.
-
-Associated with discontinuation of treatment:
-
-Approximately 4% of 1,701 patients who received zolpidem tartrate at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
+Associated with discontinuation of treatment: Approximately 4% of 1,701 patients who received zolpidem tartrate at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
 Reactions most commonly associated with discontinuation from U.S. trials were daytime drowsiness (0.5%), dizziness (0.4%), headache (0.5%), nausea (0.6%), and vomiting (0.5%).
 
 Approximately 4% of 1,959 patients who received zolpidem at all doses (1 to 50 mg) in similar foreign trials discontinued treatment because of an adverse reaction.
@@ -22,14 +17,10 @@ Reactions most commonly associated with discontinuation from these trials were d
 
 Data from a clinical study in which selective serotonin reuptake inhibitor (SSRI)-treated patients were given zolpidem revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n=97) was discontinued after an attempted suicide.
 
-Most commonly observed adverse reactions in controlled trials:
-
-During short-term treatment (up to 10 nights) with zolpidem tartrate at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
+Most commonly observed adverse reactions in controlled trials: During short-term treatment (up to 10 nights) with zolpidem tartrate at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
 During longer-term treatment (28 to 35 nights) with zolpidem tartrate at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were dizziness (5%) and drugged feelings (3%).
 
-Adverse reactions observed at an incidence of ≥1% in controlled trials:
-
-The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
+Adverse reactions observed at an incidence of ≥1% in controlled trials: The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
 Events reported by investigators were classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms for the purpose of establishing event frequencies.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
@@ -89,18 +80,12 @@ Incidence of Treatment-Emergent Adverse Reactions in Placebo-Controlled Clinical
 | Rash | 2 | 1 |
 | *Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo. |  |  |
 
-Dose relationship for adverse reactions:
+Dose relationship for adverse reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem tartrate use, particularly for certain CNS and gastrointestinal adverse reactions.
 
-There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem tartrate use, particularly for certain CNS and gastrointestinal adverse reactions.
-
-Oral tissue-related adverse reactions in Zolpimist pharmacokinetics studies:
-
-The effect of chronic daily administrations of Zolpimist on oral tissue has not been evaluated.
+Oral tissue-related adverse reactions in Zolpimist pharmacokinetics studies: The effect of chronic daily administrations of Zolpimist on oral tissue has not been evaluated.
 In pharmacokinetic studies conducted with Zolpimist in healthy subjects, an oral soft tissue exam was performed and no signs of oral irritation were noted following administration of single doses of Zolpimist.
 
-Adverse event incidence across the entire preapproval database:
-
-Zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the United States, Canada, and Europe.
+Adverse event incidence across the entire preapproval database: Zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the United States, Canada, and Europe.
 Treatment-emergent adverse event associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals experiencing treatment-emergent adverse events, similar types of untoward events were grouped into a smaller number of standardized event categories and classified utilizing a modified WHO dictionary of preferred terms.
 
@@ -110,83 +95,53 @@ It is important to emphasize that, although the events reported did occur during
 
 Adverse events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in greater than 1/100 subjects; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in less than 1/1,000 patients.
 
-Autonomic nervous system:
-
-Infrequent: increased sweating, pallor, postural hypotension, syncope.
+Autonomic nervous system: Infrequent: increased sweating, pallor, postural hypotension, syncope.
 Rare: abnormal accommodation, altered saliva, flushing, glaucoma, hypotension, impotence, increased saliva, tenesmus.
 
-Body as a whole:
-
-Frequent: asthenia.
+Body as a whole: Frequent: asthenia.
 Infrequent: edema, falling, fatigue, fever, malaise, trauma.
 Rare: allergic reaction, allergy aggravated, anaphylactic shock, face edema, hot flashes, increased ESR, pain, restless legs, rigors, tolerance increased, weight decrease.
 
-Cardiovascular system:
-
-Infrequent: cerebrovascular disorder, hypertension, tachycardia.
+Cardiovascular system: Infrequent: cerebrovascular disorder, hypertension, tachycardia.
 Rare: angina pectoris, arrhythmia, arteritis, circulatory failure, extrasystoles, hypertension aggravated, myocardial infarction, phlebitis, pulmonary embolism, pulmonary edema, varicose veins, ventricular tachycardia.
 
-Central and peripheral nervous system:
-
-Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo.
+Central and peripheral nervous system: Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo.
 Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
 Rare: abnormal gait, abnormal thinking, aggressive reaction, apathy, appetite increased, decreased libido, delusion, dementia, depersonalization, dysphasia, feeling strange, hypokinesia, hypotonia, hysteria, intoxicated feeling, manic reaction, neuralgia, neuritis, neuropathy, neurosis, panic attacks, paresis, personality disorder, somnambulism, suicide attempts, tetany, yawning.
 
-Gastrointestinal system:
-
-Frequent: dyspepsia, hiccup, nausea.
+Gastrointestinal system: Frequent: dyspepsia, hiccup, nausea.
 Infrequent: anorexia, constipation, dysphagia, flatulence, gastroenteritis, vomiting.
 Rare: enteritis, eructation, esophagospasm, gastritis, hemorrhoids, intestinal obstruction, rectal hemorrhage, tooth caries.
 
-Hematologic and lymphatic system:
+Hematologic and lymphatic system: Rare: anemia, hyperhemoglobinemia, leukopenia, lymphadenopathy, macrocytic anemia, purpura, thrombosis.
 
-Rare: anemia, hyperhemoglobinemia, leukopenia, lymphadenopathy, macrocytic anemia, purpura, thrombosis.
-
-Immunologic system:
-
-Infrequent: infection.
+Immunologic system: Infrequent: infection.
 Rare: abscess, herpes simplex, herpes zoster, otitis externa, otitis media.
 
-Liver and biliary system:
-
-Infrequent: abnormal hepatic function, increased SGPT.
+Liver and biliary system: Infrequent: abnormal hepatic function, increased SGPT.
 Rare: bilirubinemia, increased SGOT.
 
-Metabolic and nutritional:
-
-Infrequent: hyperglycemia, thirst.
+Metabolic and nutritional: Infrequent: hyperglycemia, thirst.
 Rare: gout, hypercholesteremia, hyperlipidemia, increased alkaline phosphatase, increased BUN, periorbital edema.
 
-Musculoskeletal system:
-
-Frequent: arthralgia, myalgia.
+Musculoskeletal system: Frequent: arthralgia, myalgia.
 Infrequent: arthritis.
 Rare: arthrosis, muscle weakness, sciatica, tendonitis.
 
-Reproductive system:
-
-Infrequent: menstrual disorder, vaginitis.
+Reproductive system: Infrequent: menstrual disorder, vaginitis.
 Rare: breast fibroadenosis, breast neoplasm, breast pain.
 
-Respiratory system:
-
-Frequent: upper respiratory infection.
+Respiratory system: Frequent: upper respiratory infection, lower respiratory infection.
 Infrequent: bronchitis, coughing, dyspnea, rhinitis.
-Rare: bronchospasm, epistaxis, hypoxia, laryngitis, pneumonia.
+Rare: bronchospasm, respiratory depression, epistaxis, hypoxia, laryngitis, pneumonia.
 
-Skin and appendages:
-
-Infrequent: pruritus.
+Skin and appendages: Infrequent: pruritus.
 Rare: acne, bullous eruption, dermatitis, furunculosis, injection-site inflammation, photosensitivity reaction, urticaria.
 
-Special senses:
-
-Frequent: diplopia, vision abnormal.
+Special senses: Frequent: diplopia, vision abnormal.
 Infrequent: eye irritation, eye pain, scleritis, taste perversion, tinnitus.
 Rare: conjunctivitis, corneal ulceration, lacrimation abnormal, parosmia, photopsia.
 
-Urogenital system:
-
-Frequent: urinary tract infection.
+Urogenital system: Frequent: urinary tract infection.
 Infrequent: cystitis, urinary incontinence.
 Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, pyelonephritis, renal pain, urinary retention.

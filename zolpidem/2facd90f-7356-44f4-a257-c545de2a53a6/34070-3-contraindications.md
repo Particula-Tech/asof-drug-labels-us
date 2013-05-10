@@ -1,3 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-Known hypersensitivity to zolpidem tartrate [see Warnings and Precautions (5.2)].
+Zolpimist is contraindicated in patients with known hypersensitivity to zolpidem.
+Observed reactions with zolpidem include anaphylaxis and angioedema [see Warnings and Precautions (5.3)].
