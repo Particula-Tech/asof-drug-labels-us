@@ -10,14 +10,14 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about ABILIFY?
 
-(For other side effects, also see “What are the possible side effects of ABILIFY?”)
+(For other side effects, also see “What are the possible side effects of ABILIFY?”).
 
 Serious side effects may happen when you take ABILIFY, including:
 
 - Increased risk of death in elderly patients with dementia-related psychosis: Medicines like ABILIFY can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
   ABILIFY is not approved for the treatment of patients with dementia-related psychosis.
 
-Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
+- Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
 
 1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
@@ -254,7 +254,7 @@ Active ingredient: aripiprazole
 
 Inactive ingredients:
 
-Tablets: cornstarch, hydroxypropyl, cellulose, lactose monohydrate, magnesium stearate, and microcrystalline cellulose.
+Tablets: cornstarch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and microcrystalline cellulose.
 Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
 
 ABILIFY DISCMELT Orally Disintegrating Tablets: acesulfame potassium, aspartame (which contains phenylalanine), calcium silicate, croscarmellose sodium, crospovidone, crème de vanilla (natural and artificial flavors), magnesium stearate, microcrystalline cellulose, silicon dioxide, tartaric acid, and xylitol.
@@ -265,8 +265,14 @@ The oral solution is flavored with natural orange cream and other natural flavor
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Tablets manufactured by Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan or Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
+
+Orally Disintegrating Tablets, Oral Solution, and Injection manufactured by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
+
+Distributed and marketed by Otsuka America Pharmaceutical, Inc, Rockville, MD 20850 USA
+
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550B2 03US12L-0104C Rev February 2012
+1239550B3 03US13L-1028C Rev April 2013
 
-© 2012, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
+© 2013, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

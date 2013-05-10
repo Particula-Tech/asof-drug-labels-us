@@ -132,7 +132,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 Adults
 
 In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or bipolar disorder, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
-Table 5 shows the proportion of aripiprazole-treated patients with normal and borderline fasting glucose at baseline (medium exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
+Table 5 shows the proportion of aripiprazole-treated patients with normal and borderline fasting glucose at baseline (median exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
 
 Table 5: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials in Adult Patients
 
@@ -176,7 +176,7 @@ Table 7: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric 
 | Fasting Glucose Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) |  |  |  |  |
 | Pooled Schizophrenia and Bipolar Disorder | Aripiprazole | 1/22 | 4.5 |  |
 | Placebo | 0/12 | 0 |  |  |
-| Irritabiity Associated with Autistic Disorder | Aripiprazole | 0/9 | 0 |  |
+| Irritability Associated with Autistic Disorder | Aripiprazole | 0/9 | 0 |  |
 | Placebo | 0/1 | 0 |  |  |
 
 At 12 weeks in the pooled adolescent schizophrenia and pediatric bipolar disorder trials, the mean change in fasting glucose in aripiprazole-treated patients was not significantly different than in placebo-treated patients [+2.4 mg/dL (n=81) and +0.1 mg/dL (n=15), respectively].
@@ -332,7 +332,7 @@ The incidence of orthostatic hypotension-associated events from short-term, plac
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), in pediatric oral aripiprazole-treated patients aged 6 to 17 years (0.2%, 1%), or in aripiprazole injection-treated patients (3%, 2%).
 
-Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
+Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
 If parenteral benzodiazepine therapy is deemed necessary in addition to aripiprazole injection treatment, patients should be monitored for excessive sedation and for orthostatic hypotension [see DRUG INTERACTIONS (7.3)].
 

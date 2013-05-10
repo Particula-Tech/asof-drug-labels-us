@@ -152,7 +152,7 @@ Less Common Adverse Reactions in Adult Patients with Adjunctive Therapy in Bipol
 
 Table 16 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute treatment (up to 6 weeks), including only those reactions that occurred in 2% or more of patients treated with adjunctive aripiprazole (doses of 15 mg/day or 30 mg/day) and lithium or valproate and for which the incidence in patients treated with this combination was greater than the incidence in patients treated with placebo plus lithium or valproate.
 
-Table16: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
+Table 16: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
 | System Organ Class Preferred Term | Aripiprazole + Li or Val* (n=253) | Placebo + Li or Val* (n=130) |
 | --- | --- | --- |

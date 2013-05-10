@@ -111,7 +111,7 @@ An examination of population subgroups did not reveal any clear evidence of diff
 
 Adults
 
-The efficacy of ABILIFY (aripiprazole) in the adjunctive treatment of major depressive disorder (MDD) was demonstrated in two short-term (6-week), placebo-controlled trials of adult patients meeting DSM-IV criteria for MDD who had had an inadequate response to prior antidepressant therapy (1 to 3 courses) in the current episode and who had also demonstrated an inadequate response to 8 weeks of prospective antidepressant therapy (paroxetine controlled-release, venlafaxine extended-release, fluoxetine, escitalopram, or sertraline).
+The efficacy of ABILIFY in the adjunctive treatment of major depressive disorder (MDD) was demonstrated in two short-term (6-week), placebo-controlled trials of adult patients meeting DSM-IV criteria for MDD who had had an inadequate response to prior antidepressant therapy (1 to 3 courses) in the current episode and who had also demonstrated an inadequate response to 8 weeks of prospective antidepressant therapy (paroxetine controlled-release, venlafaxine extended-release, fluoxetine, escitalopram, or sertraline).
 Inadequate response for prospective treatment was defined as less than 50% improvement on the 17-item version of the Hamilton Depression Rating Scale (HAMD17), minimal HAMD17 score of 14, and a Clinical Global Impressions Improvement rating of no better than minimal improvement.
 Inadequate response to prior treatment was defined as less than 50% improvement as perceived by the patient after a minimum of 6 weeks of antidepressant therapy at or above the minimal effective dose.
 
