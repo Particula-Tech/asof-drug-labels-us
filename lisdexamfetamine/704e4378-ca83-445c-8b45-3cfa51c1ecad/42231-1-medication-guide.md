@@ -177,13 +177,12 @@ What are the ingredients in Vyvanse?
 Active Ingredient: lisdexamfetamine dimesylate
 
 Inactive Ingredients: microcrystalline cellulose, croscarmellose sodium, and magnesium stearate.
-The capsule shells (imprinted with NRP104) contain gelatin, titanium dioxide, and 1 or more of the following: D&C Red #28, D&C Yellow #10, FD&C Blue #1, FD&C Green #3, and FD&C Red #40.
 The capsule shells (imprinted with S489) contain gelatin, titanium dioxide, and one or more of the following: FD&C Red #3, FD&C Yellow #6, FD&C Blue #1, Black Iron Oxide, and Yellow Iron Oxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for: Shire US Inc., Wayne, PA 19087.
 
-© 2012 Shire US Inc.
+© 2013 Shire US Inc.
 
-Revised November 2012
+Revised April 2013

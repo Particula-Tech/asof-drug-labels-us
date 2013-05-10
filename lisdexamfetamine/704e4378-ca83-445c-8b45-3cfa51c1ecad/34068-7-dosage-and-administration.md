@@ -26,3 +26,9 @@ Prior to treating children, adolescents, and adults with CNS stimulants, assess 
 
 To reduce the abuse of CNS stimulants including Vyvanse, assess the risk of abuse, prior to prescribing.
 After prescribing, keep careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and re-evaluate the need for Vyvanse use [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)].
+
+## 2.4 Dosage Modifications due to Drug Interactions
+
+Agents that alter urinary pH can impact urinary excretion and alter blood levels of amphetamine.
+Acidifying agents (e.g., ascorbic acid) decrease blood levels, while alkalinizing agents (e.g., sodium bicarbonate) increase blood levels.
+Adjust Vyvanse dosage accordingly [see Drug Interactions (7.1)].

@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Carcinogenesis Carcinogenicity studies of lisdexamfetamine dimesylate have not been performed.
 No evidence of carcinogenicity was found in studies in which d-, l-amphetamine (enantiomer ratio of 1:1) was administered to mice and rats in the diet for 2 years at doses of up to 30 mg/kg/day in male mice, 19 mg/kg/day in female mice, and 5 mg/kg/day in male and female rats.

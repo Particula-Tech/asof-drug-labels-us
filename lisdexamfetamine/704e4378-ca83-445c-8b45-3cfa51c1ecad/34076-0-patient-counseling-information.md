@@ -45,7 +45,7 @@ Advise patients to notify their healthcare provider if they are breastfeeding or
 Impairment in Ability to Operate Machinery or Vehicles
 
 Advise patients that Vyvanse may impair their ability to engage in potentially dangerous activities such as operating machinery or vehicles.
-Instruct patients to find out how Vyvanse will affect them before engaging in potentially dangerous activities.
+Instruct patients to find out how Vyvanse will affect them before engaging in potentially dangerous activities [see Adverse Reactions (6.1, 6.2)].
 
 For the Pharmacist
 
@@ -59,8 +59,6 @@ For more information call 1-800-828-2088
 
 Vyvanse® is a trademark of Shire LLC
 
-©2012 Shire US Inc.
+©2013 Shire US Inc.
 
 US Pat No. 7,105,486 and US Pat No. 7,223,735
-
-Last Modified: 11/2012

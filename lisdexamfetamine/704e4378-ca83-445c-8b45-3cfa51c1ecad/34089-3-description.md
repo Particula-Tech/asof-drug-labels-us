@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Vyvanse (lisdexamfetamine dimesylate), a CNS stimulant, is a capsule for once-a-day oral administration.
-The chemical designation for lisdexamfetamine dimesylate is (2S)-2,6-diamino-N-[(1S)-1-methyl-2-phenylethyl] hexanamide dimethanesulfonate.
+The chemical designation for lisdexamfetamine dimesylate is (2S)-2,6-diamino-N-[(1S)-1-methyl-2-phenylethyl hexanamide dimethanesulfonate.
 The molecular formula is C15H25N3O•(CH4O3S)2, which corresponds to a molecular weight of 455.60.
 The chemical structure is:
 

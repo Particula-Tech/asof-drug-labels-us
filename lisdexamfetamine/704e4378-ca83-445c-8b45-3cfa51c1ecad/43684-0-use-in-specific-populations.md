@@ -40,8 +40,7 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years [see Adverse reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
-The long-term efficacy of amphetamines, including Vyvanse, in pediatric patients have not been established.
+Safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 Safety and efficacy in pediatric patients below the age of 6 years have not been established.
 
 Growth Suppression
