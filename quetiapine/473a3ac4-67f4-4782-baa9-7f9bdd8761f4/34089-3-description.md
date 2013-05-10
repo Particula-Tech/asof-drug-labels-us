@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-SEROQUEL XR (quetiapine fumarate) is a psychotropic agent belonging to a chemical class, the dibenzothiazepine derivatives.
+SEROQUEL XR (quetiapine fumarate) is an atypical antipsychotic belonging to a chemical class, the dibenzothiazepine derivatives.
 The chemical designation is 2-[2-(4-dibenzo [b,f] [1,4] thiazepin-11-yl-1-piperazinyl)ethoxy]-ethanol fumarate (2:1) (salt).
 It is present in tablets as the fumarate salt.
 All doses and tablet strengths are expressed as milligrams of base, not as fumarate salt.

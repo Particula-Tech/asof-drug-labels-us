@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of SEROQUEL XR, as with other drugs having efficacy in the treatment of schizophrenia, bipolar disorder and major depressive disorder (MDD), is unknown.
-However, it has been proposed that the efficacy of SEROQUEL XR in schizophrenia is mediated through a combination of dopamine type 2 (D2) and serotonin type 2A (5HT2A) antagonism.
+The mechanism of action of SEROQUEL XR in the treatment of schizophrenia, bipolar disorder and major depressive disorder (MDD), is unknown.
+However, its efficacy in schizophrenia could be mediated through a combination of dopamine type 2 (D2) and serotonin type 2A (5HT2A) antagonism.
 The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activity at D2, but greater activity at 5HT2A receptors, than the parent drug (quetiapine).
 Quetiapine’s efficacy in bipolar depression and MDD may partly be explained by the high affinity and potent inhibitory effects that norquetiapine exhibits for the norepinephrine transporter.
 
@@ -15,7 +15,7 @@ Quetiapine and norquetiapine have affinity for multiple neurotransmitter recepto
 Quetiapine differs from norquetiapine in having no appreciable affinity for muscarinic M1 receptors whereas norquetiapine has high affinity.
 Quetiapine and norquetiapine lack appreciable affinity for benzodiazepine receptors.
 
-Receptor Affinities (Ki, nM) for Quetiapine and Norquetiapine
+Table 24: Receptor Affinities (Ki, nM) for Quetiapine and Norquetiapine
 
 | Receptor | Quetiapine | Norquetiapine |
 | --- | --- | --- |
@@ -30,7 +30,15 @@ Receptor Affinities (Ki, nM) for Quetiapine and Norquetiapine
 | Muscarinic M1 | 1086 | 38.3 |
 | Benzodiazepine | >10000 | > 10000 |
 
+Effect on QT Interval
+
+In clinical trials quetiapine was not associated with a persistent increase in QT intervals.
+However, the QT effect was not systematically evaluated in a thorough QT study.
+In post marketing experience there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval.
+
 ## 12.3 Pharmacokinetics
+
+Adults
 
 Following multiple dosing of quetiapine up to a total daily dose of 800 mg, administered in divided doses, the plasma concentration of quetiapine and norquetiapine, the major active metabolite of quetiapine, were proportional to the total daily dose.
 Accumulation is predictable upon multiple dosing.
@@ -40,13 +48,20 @@ The mean-terminal half-life is approximately 7 hours for quetiapine and approxim
 Steady-state concentrations are expected to be achieved within two days of dosing.
 SEROQUEL XR is unlikely to interfere with the metabolism of drugs metabolized by cytochrome P450 enzymes.
 
+Children and Adolescents
+
+At steady-state the pharmacokinetics of the parent compound, in children and adolescents (10-17 years of age), were similar to adults.
+However, when adjusted for dose and weight, AUC and Cmax of the parent compound were 41% and 39% lower, respectively, in children and adolescents than in adults.
+For the active metabolite, norquetiapine, AUC and Cmax were 45% and 31% higher, respectively, in children and adolescents than in adults.
+When adjusted for dose and weight, the pharmacokinetics of the metabolite, norquetiapine, was similar between children and adolescents and adults [see Use in Specific Populations (8.4)].
+
 Absorption
 
 Quetiapine fumarate reaches peak plasma concentrations approximately 6 hours following administration.
 SEROQUEL XR dosed once daily at steady-state has comparable bioavailability to an equivalent total daily dose of SEROQUEL administered in divided doses, twice daily.
 A high-fat meal (approximately 800 to 1000 calories) was found to produce statistically significant increases in the SEROQUEL XR Cmax and AUC of 44% to 52% and 20% to 22%, respectively, for the 50 mg and 300 mg tablets.
 In comparison, a light meal (approximately 300 calories) had no significant effect on the Cmax or AUC of quetiapine.
-It is recommended that SEROQUEL XR be taken without food or with a light meal [see Dosage and Administration (2)].
+It is recommended that SEROQUEL XR be taken without food or with a light meal [see Dosage and Administration (2.1)].
 
 Distribution
 
@@ -84,21 +99,42 @@ Smoking has no effect on the oral clearance of quetiapine.
 Renal Insufficiency
 
 Patients with severe renal impairment (CLcr=10-30 mL/min/1.73m2, n=8) had a 25% lower mean oral clearance than normal subjects (CLcr>80 mL/min/1.73m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
-Dosage adjustment is therefore not needed in these patients.
+Dosage adjustment is therefore not needed in these patients [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency
 
 Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In 2 of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
-Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4)].
+Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
 
-Drug-Drug Interactions
+Drug-Drug Interaction Studies
 
-In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes P450 1A2, 2C9, 2C19, 2D6 and 3A4.
+The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 25 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)].
 
-Quetiapine oral clearance is increased by the prototype cytochrome P450 3A4 inducer, phenytoin, and decreased by the prototype cytochrome P450 3A4 inhibitor, ketoconazole.
-Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole [see Dosage and Administration (2.4)and Drug Interactions (7.1)].
+Table 25: The Effect of Other Drugs on the PK of Quetiapine
 
-Quetiapine oral clearance is not inhibited by the non-specific enzyme inhibitor, cimetidine.
+| Coadministereddrug | Dose schedules |  | Effect onquetiapinepharmacokinetics |
+| --- | --- | --- | --- |
+| Coadministered drug | Quetiapine |  |  |
+| Phenytoin | 100 mg three times daily | 250 mg three times daily | 5 fold Increase in oral clearance |
+| Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state.No affect on absorption or mean oral clearance |
+| Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
+| Cimetidine | 400 mg three times daily for 4 days | 150 mg three times daily | 20% decrease in mean oral clearance |
+| Ketoconazole (potent CYP 3A4 inhibitor) | 200 mg once daily for 4 days | 25 mg single dose | 84% decrease in oral clearance resulting in a 6.2 fold increase in AUC of quetiapine |
+| Fluoxetine | 60 mg once daily | 300 mg twice daily | No change in steady state PK |
+| Imipramine | 75 mg twice daily | 300 mg twice daily | No change in steady state PK |
+| Haloperidol | 7.5 mg twice daily | 300 mg twice daily | No change in steady state PK |
+| Risperidone | 3 mg twice daily | 300 mg twice daily | No change in steady state PK |
 
-Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam [see Drug Interactions (7.2)].
+In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6 and 3A4.
+Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam (Table 26) [see Drug Interactions (7.2)].
+
+Table 26: The Effect of Quetiapine on the PK of Other Drugs
+
+| Coadministered drug | Dose schedules |  | Effect on other drugs pharmacokinetics |
+| --- | --- | --- | --- |
+| Coadministered drug | Quetiapine |  |  |
+| Lorazepam | 2 mg, single dose | 250 mg three times daily | Oral clearance of lorazepam reduced by 20% |
+| Divalproex | 500 mg twice daily | 150 mg twice daily | Cmax and AUC of free valproic acid at steady-state was decreased by 10-12% |
+| Lithium | Up to 2400 mg/day given in twice daily doses | 250 mg three times daily | No effect on steady-state pharmacokinetics of lithium |
+| Antipyrine | 1 g, single dose | 250 mg three times daily | No effect on clearance of antipyrine or urinary recovery of its metabolites |
