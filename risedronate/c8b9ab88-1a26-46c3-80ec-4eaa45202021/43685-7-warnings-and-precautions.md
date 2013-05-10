@@ -22,13 +22,16 @@ There have been post-marketing reports of gastric and duodenal ulcers with oral 
 
 ## 5.3 Mineral Metabolism
 
-Hypocalcemia and other disturbances of bone and mineral metabolism should be effectively treated before starting Atelvia therapy.
+Hypocalcemia has been reported in patients taking Atelvia.
+Treat hypocalcemia and other disturbances of bone and mineral metabolism should be effectively treated before starting Atelvia therapy.
+Instruct patients to take supplemental calcium and vitamin D if their dietary intake is inadequate.
 Adequate intake of calcium and vitamin D is important in all patients [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
 
 ## 5.4 Jaw Osteonecrosis
 
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including risedronate.
 Known risk factors for osteonecrosis of the jaw include invasive dental procedures (for example, tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (for example, chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (for example, periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+The risk of ONJ may increase with duration of exposure to bisphosphonates.
 
 For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.
 Clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit/risk assessment.
@@ -61,7 +64,7 @@ Interruption of bisphosphonate therapy should be considered, pending a risk/bene
 
 ## 5.7 Renal Impairment
 
-Atelvia is not recommended for use in patients with severe renal impairment (creatinine clearance <30 mL/min) because of lack of clinical experience.
+Atelvia is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
 
 ## 5.8 Laboratory Test Interactions
 

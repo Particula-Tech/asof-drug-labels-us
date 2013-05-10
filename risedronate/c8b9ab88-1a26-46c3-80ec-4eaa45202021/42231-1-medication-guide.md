@@ -1,11 +1,11 @@
-Medication Guide
+# Medication Guide
 
-Medication Guide Atelvia® (uh-TEL-v-uh) (risedronate sodium) delayed-release tablets
+Atelvia® (uh-TEL-v-uh) (risedronate sodium) delayed-release tablets
 
 Read this Medication Guide that comes with Atelvia® before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
-Talk to your doctor if you have any questions about Atelvia.
+Talk to your doctor if you have any questions about Atelvia, there may be new information about it.
 
 What is the most important information I should know about Atelvia?
 
@@ -158,7 +158,7 @@ The most common side effects of Atelvia include:
 - upset stomach
 - stomach area (abdominal) pain
 
-You may get allergic reactions, such as hives or, in rare cases, swelling of your face, lips, tongue, or throat.
+You may get allergic reactions, such as hives, swelling of your face, lips, tongue, or throat.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -197,6 +197,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by: Norwich Pharmaceuticals, Inc. North Norwich, NY 13814 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866 1-800-521-8813
 
-0979G0112
+0979G0114
 
 Covered under one or more of U.S. Patent Nos. 5,583,122; 5,622,721; 7,645,459 B2 and 7,645,460 B2, and other patents pending.

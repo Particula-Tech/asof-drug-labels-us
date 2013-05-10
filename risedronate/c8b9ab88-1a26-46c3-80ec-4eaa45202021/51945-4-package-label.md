@@ -12,7 +12,7 @@ Once-a-Week
 
 4 tablets
 
-# Principal Display Panel - Blister
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - Blister
 
 35 mg
 
