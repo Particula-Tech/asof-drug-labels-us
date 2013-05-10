@@ -1,8 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 50 mL Container Label
+PRINCIPAL DISPLAY PANEL
 
 CefTRIaxONE for Injection and Dextrose Injection
 
-1 g
+1g
 
 REF 3153-11 NDC 0264-3153-11
 
@@ -11,7 +11,6 @@ DUPLEX® DRUG DELIVERY SYSTEM
 50 mL
 
 Use only after mixing contents of both chambers.
-
 For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic
 
 Reconstitution: Hold container with set port in a downward direction and fold the diluent chamber just below the solution meniscus.
@@ -19,9 +18,7 @@ To activate seal, squeeze folded diluent chamber until seal between diluent and 
 Agitate the reconstituted solution until the drug powder is completely dissolved.
 Fold the container a second time and squeeze until seal between drug chamber and set port opens.
 
-After reconstitution each 50 mL single dose unit contains: Ceftriaxone for Injection (equivalent to 1 g ceftriaxone) with approx. 1.87 g Hydrous Dextrose USP in Water for Injection USP
-
-Approximate osmolality: 290 mOsmol/kg
+After reconstitution each 50 mL single dose unit contains: Ceftriaxone for Injection (equivalent to 1 g ceftriaxone) with approx. 1.87 g Hydrous Dextrose USP in Water for Injection USP Approximate osmolality: 290 mOsmol/kg
 
 Prior to Reconstitution: Store at 20-25°C (68-77°F).
 Excursions permitted to 15-30°C (59-86°F).
@@ -40,13 +37,13 @@ Do not freeze.
 
 The DUPLEX Container is Latex-free, PVC-free, and DEHP-free.
 
-Rx only
-
 B. Braun Medical Inc.
 
-Y37-002-397 LD-206-2
+Rx only
 
 Made in USA
+
+Y37-002-397 LD-206-2
 
 PEEL HERE
 
@@ -55,16 +52,15 @@ Drug Chamber
 Discard unit if foil strip is damaged.
 Peel foil strip only when ready for use.
 Visually inspect drug prior to reconstitution.
-
 See package insert for complete directions for reconstitution and administration.
 
 LD-336-1 X27-001-485
 
-# PRINCIPAL DISPLAY PANEL - 50 mL Container Label
+PRINCIPAL DISPLAY PANEL
 
 CefTRIaxONE for Injection and Dextrose Injection
 
-2 g
+2g
 
 REF 3155-11 NDC 0264-3155-11
 
@@ -73,7 +69,6 @@ DUPLEX® DRUG DELIVERY SYSTEM
 50 mL
 
 Use only after mixing contents of both chambers.
-
 For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic
 
 Reconstitution: Hold container with set port in a downward direction and fold the diluent chamber just below the solution meniscus.
@@ -81,9 +76,7 @@ To activate seal, squeeze folded diluent chamber until seal between diluent and 
 Agitate the reconstituted solution until the drug powder is completely dissolved.
 Fold the container a second time and squeeze until seal between drug chamber and set port opens.
 
-After reconstitution each 50 mL single dose unit contains: Ceftriaxone for Injection (equivalent to 2 g ceftriaxone) with approx. 1.11 g Hydrous Dextrose USP in Water for Injection USP
-
-Approximate osmolality: 290 mOsmol/kg
+After reconstitution each 50 mL single dose unit contains: Ceftriaxone for Injection (equivalent to 2 g ceftriaxone) with approx. 1.11 g Hydrous Dextrose USP in Water for Injection USP Approximate osmolality: 290 mOsmol/kg
 
 Prior to Reconstitution: Store at 20-25°C (68-77°F).
 Excursions permitted to 15-30°C (59-86°F).
@@ -102,13 +95,13 @@ Do not freeze.
 
 The DUPLEX Container is Latex-free, PVC-free, and DEHP-free.
 
-Rx only
-
 B. Braun Medical Inc.
 
-Y37-002-398 LD-207-2
+Rx only
 
 Made in USA
+
+Y37-002-398 LD-207-2
 
 PEEL HERE
 
@@ -117,7 +110,6 @@ Drug Chamber
 Discard unit if foil strip is damaged.
 Peel foil strip only when ready for use.
 Visually inspect drug prior to reconstitution.
-
 See package insert for complete directions for reconstitution and administration.
 
 LD-336-1 X27-001-485
