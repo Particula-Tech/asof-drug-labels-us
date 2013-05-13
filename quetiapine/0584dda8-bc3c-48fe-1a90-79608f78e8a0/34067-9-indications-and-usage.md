@@ -3,7 +3,7 @@
 ## 1.1 Schizophrenia
 
 SEROQUEL is indicated for the treatment of schizophrenia.
-The efficacy of SEROQUEL in schizophrenia was established in three 6-week trials in adults and one 6–week trial in adolescents (13–17 years).
+The efficacy of SEROQUEL in schizophrenia was established in three 6-week trials in adults and one 6-week trial in adolescents (13-17 years).
 The effectiveness of SEROQUEL for the maintenance treatment of schizophrenia has not been systematically evaluated in controlled clinical trials [see Clinical Studies (14.1)].
 
 ## 1.2 Bipolar Disorder
@@ -16,7 +16,7 @@ Efficacy was established in two 8-week monotherapy trials in adult patients with
 
 SEROQUEL is indicated for the maintenance treatment of bipolar I disorder, as an adjunct to lithium or divalproex.
 Efficacy was established in two maintenance trials in adults.
-The effectiveness of SEROQUEL as monotherapy for the maintenance treatment of bipolar disorder has not been systematically evaluated in controlled clinical trials [seeClinical Studies (14.2)].
+The effectiveness of SEROQUEL as monotherapy for the maintenance treatment of bipolar disorder has not been systematically evaluated in controlled clinical trials [see Clinical Studies (14.2)].
 
 ## 1.3 Special Considerations in Treating Pediatric Schizophrenia and Bipolar I Disorder
 

@@ -2,100 +2,54 @@
 
 SEROQUEL can be taken with or without food.
 
-## 2.1 Schizophrenia
+## 2.1 Recommended Dosing
 
-Adults
+The recommended initial dose, titration, dose range and maximum SEROQUEL dose for each approved indication is displayed in Table 1.
+After initial dosing, adjustments can be made upwards or downwards, if necessary, depending upon the clinical response and tolerability of the patient [see Clinical Studies (14.1 and 14.2)].
 
-Dose Selection— SEROQUEL should generally be administered with an initial dose of 25 mg twice daily, with increases in total daily dose of 25 mg - 50 mg divided in two or three doses on the second and third day, as tolerated, to a total dose range of 300 mg to 400 mg daily by the fourth day.
-Further dosage adjustments, if indicated, should generally occur at intervals of not less than 2 days, as steady-state for SEROQUEL would not be achieved for approximately 1-2 days in the typical patient.
-When dosage adjustments are necessary, dose increments/decrements of 25 mg - 50 mg divided twice daily are recommended.
-Most efficacy data with SEROQUEL were obtained using three times daily dosing regimens, but in one controlled trial 225 mg given twice per day was also effective.
+Table 1: Recommended Dosing for SEROQUEL
 
-Efficacy in schizophrenia was demonstrated in a dose range of 150 mg/day to 750 mg/day in the clinical trials supporting the effectiveness of SEROQUEL.
-In a dose response study, doses above 300 mg/day were not demonstrated to be more efficacious than the 300 mg/day dose.
-In other studies, however, doses in the range of 400 mg/day - 500 mg/day appeared to be needed.
-The safety of doses above 800 mg/day has not been evaluated in clinical trials.
+| Indication | Initial Dose and Titration | Recommended Dose | Maximum Dose |
+| --- | --- | --- | --- |
+| Schizophrenia-Adults (2.1) | Day 1: 25 mg twice daily. Increase in increments of 25 mg-50 mg divided two or three times on Days 2 and 3 to range of 300-400 mg by Day 4. Further adjustments can be made in increments of 25–50 mg twice a day, in intervals of not less than 2 days. | 150-750 mg/day | 750 mg/day |
+| Schizophrenia- Adolescents (13-17 years) (2.1) | Day 1: 25 mg twice daily. Day 2: Twice daily dosing totaling 100 mg. Day 3: Twice daily dosing totaling 200 mg.Day 4: Twice daily dosing totaling 300 mg.Day 5: Twice daily dosing totaling 400 mg.Further adjustments should be in increments no greater than 100 mg/day within the recommended dose range of 400-800 mg/day. Based on response and tolerability, may be administered three times daily. | 400-800 mg/day | 800 mg/day |
+| Schizophrenia-Maintenance | N/AN/A Not applicable | 400– 800 mg/day | 800 mg/day |
+| Bipolar Mania- Adults Monotherapy or as an adjunct to lithium or divalproex (2.2) | Day 1: Twice daily dosing totaling 100 mg. Day 2: Twice daily dosing totaling 200 mg. Day 3: Twice daily dosing totaling 300 mg.Day 4: Twice daily dosing totaling 400 mg.Further dosage adjustments up to 800 mg/day by Day 6 should be in increments of no greater than 200 mg/day. | 400– 800 mg/day | 800 mg/day |
+| Bipolar Mania- Children and Adolescents (10 to 17 years), Monotherapy | Day 1: 25 mg twice daily.Day 2: Twice daily dosing totaling 100 mg. Day 3: Twice daily dosing totaling 200 mg.Day 4: Twice daily dosing totaling 300 mg.Day 5: Twice daily dosing totaling 400 mg.Further adjustments should be in increments no greater than 100 mg/day within the recommended dose range of 400-600 mg/day. Based on response and tolerability, may be administered three times daily. | 400-600 mg/day | 600 mg/day |
+| Bipolar Depression- Adults | Administer once daily at bedtime. Day 1: 50 mgDay 2: 100 mgDay 3: 200 mgDay 4: 300 mg | 300 mg/day | 300 mg/day |
+| Bipolar I Disorder Maintenance Therapy- Adults | Administer twice daily totaling 400-800 mg/day as adjunct to lithium or divalproex. Generally, in the maintenance phase, patients continued on the same dose on which they were stabilized. | 400-800 mg/day | 800 mg/day |
 
-Maintenance Treatment—The effectiveness of SEROQUEL for longer than 6 weeks has not been evaluated in controlled clinical trials.
-While there is no body of evidence available to answer the question of how long the patient treated with SEROQUEL should be maintained, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
-Patients should be periodically reassessed to determine the need for maintenance treatment.
+Maintenance Treatment for Schizophrenia and Bipolar I Disorder
 
-Adolescents (13-17 years)
+Maintenance Treatment – Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
 
-Dose Selection—SEROQUEL should be administered twice daily.
-However, based on response and tolerability SEROQUEL may be administered three times daily where needed.
+## 2.2 Dose Modifications in Elderly Patients
 
-The total daily dose for the initial five days of therapy is 50 mg (Day 1), 100 mg (Day 2), 200 mg (Day 3), 300 mg (Day 4) and 400 mg (Day 5).
-After Day 5, the dose should be adjusted within the recommended dose range of 400 mg/day to 800 mg/day based on response and tolerability.
-Dosage adjustments should be in increments of no greater than 100 mg/day.
-Efficacy was demonstrated with SEROQUEL at both 400 mg and 800 mg; however, no additional benefit was seen in the 800 mg group.
-
-Maintenance Treatment—The effectiveness of SEROQUEL for longer than 6 weeks has not been evaluated in controlled clinical trials.
-While there is no body of evidence available to answer the question of how long the patient treated with SEROQUEL should be maintained, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
-Patients should be periodically reassessed to determine the need for maintenance treatment.
-
-## 2.2 Bipolar Disorder
-
-Adults
-
-Acute Treatment of Manic Episodes in Bipolar I Disorder
-
-Dose Selection—When used as monotherapy or adjunct therapy (with lithium or divalproex), SEROQUEL should be initiated in twice daily doses totaling 100 mg/day on Day 1, increased to 400 mg/day on Day 4 in increments of up to 100 mg/day in twice daily divided doses.
-Further dosage adjustments up to 800 mg/day by Day 6 should be in increments of no greater than 200 mg/day.
-Data indicate that the majority of patients responded between 400 mg/day to 800 mg/day.
-The safety of doses above 800 mg/day has not been evaluated in clinical trials.
-
-Acute Treatment of Depressive Episodes in Bipolar Disorder
-
-Dose Selection—SEROQUEL should be administered once daily at bedtime to reach 300 mg/day by Day 4.
-
-Recommended Dosing Schedule
-
-| Day | Day 1 | Day 2 | Day 3 | Day 4 |
-| --- | --- | --- | --- | --- |
-| SEROQUEL | 50 mg | 100 mg | 200 mg | 300 mg |
-
-In the clinical trials supporting effectiveness, the dosing schedule was 50 mg, 100 mg, 200 mg and 300 mg/day for Days 1-4 respectively.
-Patients receiving 600 mg increased to 400 mg on Day 5 and 600 mg on Day 8 (Week 1).
-Antidepressant efficacy was demonstrated with SEROQUEL at both 300 mg and 600 mg; however, no additional benefit was seen in the 600 mg group.
-
-Maintenance Treatment of Bipolar I Disorder
-
-Maintenance of efficacy in bipolar I disorder was demonstrated with SEROQUEL (administered twice daily totaling 400 to 800 mg per day) as adjunct therapy to lithium or divalproex.
-Generally, in the maintenance phase, patients continued on the same dose on which they were stabilized during the stabilization phase [see Clinical Studies (14.2)].
-
-Children and Adolescents (10 to 17 years)
-
-Acute Treatment of Manic Episodes in Bipolar I Disorder
-
-Dose Selection—SEROQUEL should be administered twice daily.
-However, based on response and tolerability SEROQUEL may be administered three times daily where needed.
-
-The total daily dose for the initial five days of therapy is 50 mg (Day 1), 100 mg (Day 2), 200 mg (Day 3), 300 mg (Day 4) and 400 mg (Day 5).
-After Day 5, the dose should be adjusted within the recommended dose range of 400 to 600mg/day based on response and tolerability.
-Dosage adjustments should be in increments of no greater than 100 mg/day.
-Efficacy was demonstrated with SEROQUEL at both 400 mg and 600 mg; however, no additional benefit was seen in the 600 mg group.
-
-Maintenance Treatment of Bipolar I Disorder
-
-The effectiveness of SEROQUEL for longer than 3 weeks has not been evaluated in controlled clinical trials of children and adolescents.
-While there is no body of evidence available to answer the question of how long the patient treated with SEROQUEL should be maintained, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
-Patients should be periodically reassessed to determine the need for maintenance treatment.
-
-## 2.3 Dosing in Special Populations
-
-Consideration should be given to a slower rate of dose titration and a lower target dose in the elderly and in patients who are debilitated or who have a predisposition to hypotensive reactions [see Clinical Pharmacology (12)].
+Consideration should be given to a slower rate of dose titration and a lower target dose in the elderly and in patients who are debilitated or who have a predisposition to hypotensive reactions [see Clinical Pharmacology (12.3)].
 When indicated, dose escalation should be performed with caution in these patients.
 
+Elderly patients should be started on SEROQUEL 50 mg/day and the dose can be increased in increments of 50 mg/day depending on the clinical response and tolerability of the individual patient.
+
+## 2.3 Dose Modifications in Hepatically Impaired Patients
+
 Patients with hepatic impairment should be started on 25 mg/day.
-The dose should be increased daily in increments of 25 mg/day – 50 mg/day to an effective dose, depending on the clinical response and tolerability of the patient.
+The dose should be increased daily in increments of 25 mg/day - 50 mg/day to an effective dose, depending on the clinical response and tolerability of the patient.
 
-## 2.4 Reinitiation of Treatment in Patients Previously Discontinued
+## 2.4 Dose Modifications when used with CYP3A4 Inhibitors
 
-Although there are no data to specifically address reinitiation of treatment, it is recommended that when restarting patients who have had an interval of less than one week off SEROQUEL, titration of SEROQUEL is not required and the maintenance dose may be reinitiated.
-When restarting therapy of patients who have been off SEROQUEL for more than one week, the initial titration schedule should be followed.
+SEROQUEL dose should be reduced to one sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). When the CYP3A4 inhibitor is discontinued, the dose of SEROQUEL should be increased by 6 fold [see Clinical Pharmacology (12.3)andDrug Interactions (7.1)].
 
-## 2.5 Switching from Antipsychotics
+## 2.5 Dose Modifications when used with CYP3A4 Inducers
+
+SEROQUEL dose should be increased up to 5 fold of the original dose when used in combination with a chronic treatment (e.g., greater than 7-14 days) of a potent CYP3A4 inducer (e.g., phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort etc.). The dose should be titrated based on the clinical response and tolerability of the individual patient.
+When the CYP3A4 inducer is discontinued, the dose of SEROQUEL should be reduced to the original level within 7-14 days [see Clinical Pharmacology (12.3)andDrug Interactions (7.1)].
+
+## 2.6 Reinitiation of Treatment in Patients Previously Discontinued
+
+Although there are no data to specifically address re-initiation of treatment, it is recommended that when restarting therapy of patients who have been off SEROQUEL for more than one week, the initial dosing schedule should be followed.
+When restarting patients who have been off SEROQUEL for less than one week, gradual dose escalation may not be required and the maintenance dose may be reinitiated.
+
+## 2.7 Switching from Antipsychotics
 
 There are no systematically collected data to specifically address switching patients with schizophrenia from antipsychotics to SEROQUEL, or concerning concomitant administration with antipsychotics.
 While immediate discontinuation of the previous antipsychotic treatment may be acceptable for some patients with schizophrenia, more gradual discontinuation may be most appropriate for others.
