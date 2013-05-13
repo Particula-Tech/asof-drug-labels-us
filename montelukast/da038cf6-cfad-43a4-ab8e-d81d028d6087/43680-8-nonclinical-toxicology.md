@@ -1,6 +1,6 @@
 # 13. NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of tumorigenicity was seen in carcinogenicity studies of either 2 years in Sprague-Dawley rats or 92 weeks in mice at oral gavage doses up to 200 mg/kg/day or 100 mg/kg/day, respectively.
 The estimated exposure in rats was approximately 120 and 75 times the AUC for adults and children, respectively, at the maximum recommended daily oral dose.
@@ -12,7 +12,7 @@ In fertility studies in female rats, montelukast produced reductions in fertilit
 No effects on female fertility or fecundity were observed at an oral dose of 100 mg/kg (estimated exposure was approximately 20 times the AUC for adults at the maximum recommended daily oral dose).
 Montelukast had no effects on fertility in male rats at oral doses up to 800 mg/kg (estimated exposure was approximately 160 times the AUC for adults at the maximum recommended daily oral dose).
 
-## 13.2 Animal Toxicology And/Or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Reproductive Toxicology Studies
 

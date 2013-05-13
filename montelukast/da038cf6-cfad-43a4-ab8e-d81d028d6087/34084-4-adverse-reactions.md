@@ -12,7 +12,7 @@ Adults and Adolescents 15 Years of Age and Older with Asthma
 Montelukast sodium has been evaluated for safety in approximately 2950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with montelukast sodium occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
 
-Table 1: Adverse Experiences Occurring in ≥1% of Patientswith an Incidence Greater than that in Patients Treated with Placebo
+Table 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
 
 |  | Montelukast 10 mg/day (%) (n=1955) | Placebo (%) (n=1180) |
 | --- | --- | --- |
@@ -102,7 +102,7 @@ Blood and lymphatic system disorders: increased bleeding tendency, thrombocytope
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
 
-Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, dream abnormalities, hallucinations, insomnia, irritability, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tremor [see Warnings and Precautions (5.4)].
+Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor [see Warnings and Precautions (5.4)].
 
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 

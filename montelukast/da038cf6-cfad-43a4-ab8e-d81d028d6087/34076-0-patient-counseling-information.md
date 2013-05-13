@@ -62,7 +62,7 @@ Before taking Montelukast Sodium, tell your healthcare provider if you:
   Montelukast sodium chewable tablets contain aspartame, a source of phenylalanine
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  If you are pregnant or plan to become pregnant, montelukast sodium may not be right for you.
+  Talk to your doctor if you are pregnant or plan to become pregnant, as montelukast sodium may not be right for you.
 - are breast-feeding or plan to breast-feed.
   It is not known if montelukast sodium passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking montelukast sodium.
@@ -75,10 +75,10 @@ How should I take Montelukast Sodium?
 For anyone who takes Montelukast Sodium:
 
 - Take montelukast sodium exactly as prescribed by your healthcare provider.
-  Your healthcare provider will tell you how much montelukast sodium to take, and whento take it.
+  Your healthcare provider will tell you how much montelukast sodium to take, and when to take it.
 - Do not stop taking montelukast sodium or change when you take it without talking with your healthcare provider.
 - You can take montelukast sodium with food or without food.
-- If youor your child misses a dose ofmontelukast sodium, just take the nextdose at your regular time.
+- If you or your child misses a dose of montelukast sodium, just take the next dose at your regular time.
   Do not take 2 doses at the same time.
 - If you take too much montelukast sodium tablets, call your healthcare provider or a Poison Control Center right away.
 
@@ -87,7 +87,7 @@ For adults and children 2 years of age and older with asthma:
 - Take montelukast sodium 1 time each day, in the evening.
   Continue to take montelukast sodium every day for as long as your healthcare provider prescribes it, even if you have no asthma symptoms.
 - Tell your healthcare provider right away if your asthma symptoms get worse, or if you need to use your rescue inhaler medicine more often for asthma attacks.
-- Do nottake montelukast sodium if you needrelief right away from a sudden asthmaattack.
+- Do not take montelukast sodium if you need relief right away from a sudden asthma attack.
   If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
 - Always have your rescue inhaler medicine with you for asthma attacks.
 - Do not stop taking or lower the dose of your other asthma medicines unless your healthcare provider tells you to.
@@ -96,9 +96,9 @@ For patients 15 years of age and older for the prevention of exercise-induced as
 
 - Take montelukast sodium at least 2 hours before exercise.
 - Always have your rescue inhaler medicine with you for asthma attacks.
-- If you take montelukast sodium every day for chronic asthma or allergic rhinitis, donot take another dose to prevent exercise-induced asthma.
+- If you take montelukast sodium every day for chronic asthma or allergic rhinitis, do not take another dose to prevent exercise-induced asthma.
   Talk to your healthcare provider about your treatment for exercise-induced asthma.
-- Do nottake 2 doses of montelukast sodiumwithin 24 hours (1 day).
+- Do not take 2 doses of montelukast sodium within 24 hours (1 day).
 
 For adults and children 2 years of age and older with seasonal allergic rhinitis, or for adults and children 2 years of age and older with perennial allergic rhinitis:
 
@@ -120,10 +120,10 @@ What are the possible side effects of montelukast sodium?
 
 Montelukast sodium may cause serious side effects.
 
-- Behaviorand mood-related changes.
+- Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking montelukast sodium:
 
-- Increasein certain white blood cells (eosinophils)and possible inflamed blood vessels throughoutthe body (systemic vasculitis).
+- Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels through out the body (systemic vasculitis).
   Rarely, this can happen in people with asthma who take montelukast sodium.
   This usually, but not always, happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
 
@@ -155,7 +155,7 @@ Other side effects with montelukast sodium include:
 - dizziness, drowsiness, pins and needles/numbness, seizures (convulsions or fits)
 - palpitations
 - nose bleed, stuffy nose
-- heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset,vomiting
+- heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 - hepatitis
 - bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
 - joint pain, muscle aches and muscle cramps
@@ -211,4 +211,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8038577 Revised November 2012
+8040660 Revised April 2013
