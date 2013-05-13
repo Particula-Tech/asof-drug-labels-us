@@ -10,9 +10,9 @@ Events occurring in ≥1% of patients receiving clindamycin phosphate vaginal cr
 
 TABLE 1 – Events Occurring in ≥1% of Non-pregnant Patients Receiving Clindamycin Phosphate Vaginal Cream 2%
 
-| 3 Day n=600 | 7 Day n=1325 |  |
+| Event | 3 Day n=600 | 7 Day n=1325 |
 | --- | --- | --- |
-| Event | Clindamycin Phosphate Vaginal Cream |  |
+|  | Clindamycin Phosphate Vaginal Cream |  |
 | Urogenital |  |  |
 | Vaginal moniliasis | 7.7 | 10.4 |
 | Vulvovaginitis | 6.0 | 4.4 |
@@ -47,9 +47,9 @@ Events occurring in ≥1% of patients receiving either clindamycin phosphate vag
 
 TABLE 2 - Events Occurring in ≥1% of Pregnant Patients Receiving Clindamycin Phosphate Vaginal Cream 2% or Placebo
 
-| 7 DAY n=180 | 7 DAY n=184 |  |
+| Event | 7 DAY n=180 | 7 DAY n=184 |
 | --- | --- | --- |
-| Event | Clindamycin Phosphate Vaginal Cream | Placebo |
+|  | Clindamycin Phosphate Vaginal Cream | Placebo |
 | Urogenital |  |  |
 | Vaginal moniliasis | 13.3 | 7.1 |
 | Vulvovaginal disorder | 6.7 | 7.1 |
@@ -67,7 +67,7 @@ Body as a whole: upper respiratory infection.
 
 Skin: pruritus (topical application site) and erythema.
 
-### Other clindamycin formulations
+## Other clindamycin formulations
 
 Clindamycin vaginal cream affords minimal peak serum levels and systemic exposure (AUCs) of clindamycin compared to 100 mg oral clindamycin dosing.
 Although these lower levels of exposure are less likely to produce the common reactions seen with oral clindamycin, the possibility of these and other reactions cannot be excluded presently.

@@ -1,4 +1,10 @@
-# Clindamycin Phosphate Vaginal Cream, USP FOR INTRAVAGINAL USE ONLY NOT FOR OPHTHALMIC, DERMAL, OR ORAL USE DIRECTIONS FOR USE
+# Clindamycin Phosphate Vaginal Cream, USP
+
+FOR INTRAVAGINAL USE ONLY
+
+NOT FOR OPHTHALMIC, DERMAL, OR ORAL USE
+
+DIRECTIONS FOR USE
 
 Disposable plastic applicators are provided with this package.
 They are designed to allow proper vaginal administration of the cream.
@@ -17,7 +23,9 @@ Slowly push the plunger until it stops.
 
 Carefully withdraw applicator from vagina, and discard applicator.
 
-REMEMBER TO APPLY ONE APPLICATORFUL EACH NIGHT BEFORE BEDTIME, OR AS PRESCRIBED BY YOUR DOCTOR.
+REMEMBER TO APPLY ONE APPLICATORFUL EACH NIGHT BEFORE
+
+BEDTIME, OR AS PRESCRIBED BY YOUR DOCTOR.
 
 INSTRUCCIONES PARA LA PACIENTE
 
