@@ -30,7 +30,7 @@ Uncomplicated urethral, endocervical, or rectal infection in adults caused by Ch
 
 Nongonococcal urethritis (NGU) caused by C. trachomatis or U. urealyticum: 100 mg by mouth, twice a day for 7 days.
 
-Syphilis — early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 2 weeks.
+Syphilis – early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 2 weeks.
 
 Syphilis of more than one year's duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 4 weeks.
 
@@ -45,6 +45,6 @@ Prophylaxis should be continued daily during travel in the malarious area and fo
 
 Inhalational anthrax (post-exposure):
 
-ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
-CHILDREN: weighing less than 100 lb (45 kg); 1 mg/lb (2.2 mg/kg) of body weight by mouth, twice a day for 60 days.
-Children weighing 100 lb or more should receive the adult dose.
+- ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
+- CHILDREN: weighing less than 100 lb (45 kg); 1 mg/lb (2.2 mg/kg) of body weight by mouth, twice a day for 60 days.
+  Children weighing 100 lb or more should receive the adult dose.

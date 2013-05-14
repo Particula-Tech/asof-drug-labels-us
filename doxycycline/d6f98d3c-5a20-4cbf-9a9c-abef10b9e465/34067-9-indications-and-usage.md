@@ -11,7 +11,7 @@ Doxycycline is indicated for the treatment of the following infections:
 - Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox, and tick fevers caused by Rickettsiae.
 - Respiratory tract infections caused by Mycoplasma pneumoniae.
 - Lymphogranuloma venereum caused by Chlamydia trachomatis.
-- Psittacosis (ornithosis) caused by Chlamydia psittaci.
+- Psittacosis (ornithosis) caused by Chlamydophila psittaci.
 - Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated, as judged by immunofluorescence.
 - Inclusion conjunctivitis caused by Chlamydia trachomatis.
 - Uncomplicated urethral, endocervical, or rectal infections in adults caused by Chlamydia trachomatis.
@@ -20,10 +20,10 @@ Doxycycline is indicated for the treatment of the following infections:
 
 Doxycycline is also indicated for the treatment of infections caused by the following gram-negative microorganisms:
 
-- Chancroid caused by Haemophilus ducreyi
-- Plague due to Yersinia pestis (formerly Pasteurella pestis).
-- Tularemia due to Francisella tularensis (formerly Pasteurella tularensis).
-- Cholera caused by Vibrio cholerae (formerly Vibrio comma).
+- Chancroid caused by Haemophilus ducreyi.
+- Plague due to Yersinia pestis.
+- Tularemia due to Francisella tularensis.
+- Cholera caused by Vibrio cholerae.
 - Campylobacter fetus infections caused by Campylobacter fetus (formerly Vibrio fetus).
 - Brucellosis due to Brucella species (in conjunction with streptomycin).
 - Bartonellosis due to Bartonella bacilliformis.
@@ -31,12 +31,12 @@ Doxycycline is also indicated for the treatment of infections caused by the foll
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 
-Doxycycline is indicated for treatment of infections caused by the following gram-negative microorganisms, when bacteriologic testing indicates appropriate susceptibility to the drug:
+Doxycycline is indicated for treatment of infections caused by the following gram-negative bacteria, when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 - Escherichia coli.
 - Enterobacter aerogenes (formerly Aerobacter aerogenes).
 - Shigella species.
-- Acinetobacter species (formerly Mima species and Herellea species).
+- Acinetobacter species.
 - Respiratory tract infections caused by Haemophilus influenzae.
 - Respiratory tract and urinary tract infections caused by Klebsiella species.
 

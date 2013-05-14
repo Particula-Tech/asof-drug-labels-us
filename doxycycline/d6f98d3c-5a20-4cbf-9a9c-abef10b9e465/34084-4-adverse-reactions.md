@@ -23,7 +23,7 @@ Hypersensitivity reactions: urticaria, angioneurotic edema, anaphylaxis, anaphyl
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
 
 Other: bulging fontanels in infants and intracranial hypertension in adults.
-(See PRECAUTIONS — General.)
+(See PRECAUTIONS – General.)
 
 When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland.
 No abnormalities of thyroid function studies are known to occur.
