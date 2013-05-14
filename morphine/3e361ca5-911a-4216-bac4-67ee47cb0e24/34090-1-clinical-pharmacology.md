@@ -8,10 +8,22 @@ In addition to analgesia, the widely diverse effects of morphine include drowsin
 Morphine produces both its therapeutic and its adverse effects by interaction with one or more classes of specific opioid receptors located throughout the body.
 Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro-medial medulla and the spinal cord to produce analgesia.
 
+## 12.2 Pharmacodynamics
+
+Plasma Level-Analgesia Relationships
+
+While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
+The effective dose in opioid-tolerant patients may be 10–50 times as great (or greater) than the appropriate dose for opioid-naïve individuals.
+Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
+
+CNS Depressant/Alcohol Interaction
+
+Additive pharmacodynamic effects may be expected when AVINZA is used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
+
 Effects on the Central Nervous System
 
 The principal therapeutic action of morphine is analgesia.
-Other therapeutic effects of morphine include anxiolysis, euphoria and feelings of relaxation.
+Other therapeutic effects of morphine include anxiolysis, euphoria, and feelings of relaxation.
 Although the precise mechanism of the analgesic action is unknown, specific CNS opiate receptors and endogenous compounds with morphine-like activity have been identified throughout the brain and spinal cord and are likely to play a role in the expression and perception of analgesic effects.
 In common with other opioids, morphine causes respiratory depression, in part by a direct effect on the brainstem respiratory centers.
 Morphine and related opioids depress the cough reflex by direct effect on the cough center in the medulla.
@@ -21,7 +33,7 @@ Pinpoint pupils are a sign of opioid overdose; however, when asphyxia is present
 
 Effects on the Gastrointestinal Tract and Other Smooth Muscle
 
-Gastric, biliary and pancreatic secretions are decreased by morphine.
+Gastric, biliary, and pancreatic secretions are decreased by morphine.
 Morphine causes a reduction in motility and is associated with an increase in tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm.
@@ -34,30 +46,19 @@ Effects on the Cardiovascular System
 In therapeutic doses, morphine does not usually exert major effects on the cardiovascular system.
 Morphine produces peripheral vasodilation which may result in orthostatic hypotension and fainting.
 Release of histamine can occur, which may play a role in opioid-induced hypotension.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating.
+Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, and sweating.
 
 Effects on the Endocrine System
 
 Opioids inhibit the secretion of ACTH, cortisol, and luteinizing hormone (LH) in humans.
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to hormonal changes that may manifest as symptoms of hypogonadism.
 
 Effects on the Immune System
 
 Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
-
-## 12.2 Pharmacodynamics
-
-Plasma Level-Analgesia Relationships
-
-While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
-The effective dose in opioid-tolerant patients may be 10–50 times as great (or greater) than the appropriate dose for opioid-naïve individuals.
-Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
-
-CNS Depressant/Alcohol Interaction
-
-Additive pharmacodynamic effects may be expected when AVINZA is used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
 
 ## 12.3 Pharmacokinetics
 

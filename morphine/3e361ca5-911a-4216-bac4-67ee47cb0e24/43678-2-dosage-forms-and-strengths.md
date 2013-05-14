@@ -6,9 +6,9 @@ Each 30 mg capsule has a yellow opaque cap with "AVINZA" printed on it and a whi
 
 Each 45 mg capsule has a light blue opaque cap with "AVINZA" printed on it and a white opaque body printed with "45" and "509".
 
-Each 60 mg capsule has a bluish-green opaque cap with "AVINZA" printed on it and a while opaque body printed with "60" and "506".
+Each 60 mg capsule has a bluish-green opaque cap with "AVINZA" printed on it and a white opaque body printed with "60" and "506".
 
-Each 75 mg capsule has an orange opaque cap with "AVINZA" printed on it and a while opaque body printed with "75" and "510".
+Each 75 mg capsule has an orange opaque cap with "AVINZA" printed on it and a white opaque body printed with "75" and "510".
 
 Each 90 mg capsule has a red opaque cap with "AVINZA" printed on it and a white opaque body printed with "90" and "507".
 
