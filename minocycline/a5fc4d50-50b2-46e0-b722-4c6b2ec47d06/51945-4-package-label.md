@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0591-5694-60 Minocycline Hydrochloride Capsules USP 50 mg Watson 60 Capsules Rx only
+NDC 0591-5694-01 Minocycline Hydrochloride Capsules USP 50 mg Watson 100 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL
 
