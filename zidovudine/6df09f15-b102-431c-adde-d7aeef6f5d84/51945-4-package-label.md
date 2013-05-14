@@ -2,6 +2,8 @@ Principal Display Panel
 
 NDC 49702-211-20
 
+NDC 49702-211-20
+
 RETROVIR®
 
 (zidovudine)
@@ -33,10 +35,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in South Korea
+Made in Canada
 
-10000000088518 Rev.
-10/10
+10000000108120 Rev.
+7/12
 
 Principal Display Panel
 

@@ -11,7 +11,7 @@ Prescribers should calculate the appropriate dose of RETROVIR for each child bas
 Before prescribing RETROVIR Capsules or Tablets, children should be assessed for the ability to swallow capsules or tablets.
 If a child is unable to reliably swallow a RETROVIR Capsule or Tablet, the RETROVIR Syrup formulation should be prescribed.
 
-The recommended dosage in pediatric patients 4 weeks of age and older and weighing ≥4 kg is provided in Table 1.
+The recommended dosage in pediatric patients aged 4 weeks to <18 years and weighing ≥4 kg is provided in Table 1.
 RETROVIR Syrup should be used to provide accurate dosage when whole tablets or capsules are not appropriate.
 
 Table 1.

@@ -30,7 +30,7 @@ Because of both the potential for HIV-1 transmission and the potential for serio
 
 ## 8.4 Pediatric Use
 
-RETROVIR has been studied in HIV-1-infected pediatric patients ≥6 weeks of age who had HIV-1-related symptoms or who were asymptomatic with abnormal laboratory values indicating significant HIV-1-related immunosuppression.
+RETROVIR has been studied in HIV-1-infected pediatric subjects aged ≥6 weeks who had HIV-1-related symptoms or who were asymptomatic with abnormal laboratory values indicating significant HIV-1-related immunosuppression.
 RETROVIR has also been studied in neonates perinatally exposed to HIV-1 [see Dosage and Administration (2.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2), (14.3)].
 
 ## 8.5 Geriatric Use

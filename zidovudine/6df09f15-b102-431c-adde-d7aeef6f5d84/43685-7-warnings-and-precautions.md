@@ -28,7 +28,7 @@ Treatment with RETROVIR should be suspended in any patient who develops clinical
 ## 5.4 Use With Interferon- and Ribavirin-Based Regimens in HIV-1/HCV Co-Infected Patients
 
 In vitro studies have shown ribavirin can reduce the phosphorylation of pyrimidine nucleoside analogues such as zidovudine.
-Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was coadministered with zidovudine in HIV-1/HCV co-infected patients [see Clinical Pharmacology (12.3)], exacerbation of anemia due to ribavirin has been reported when zidovudine is part of the HIV regimen.
+Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was coadministered with zidovudine in HIV-1/HCV co-infected subjects [see Clinical Pharmacology (12.3)], exacerbation of anemia due to ribavirin has been reported when zidovudine is part of the HIV regimen.
 Coadministration of ribavirin and zidovudine is not advised.
 Consideration should be given to replacing zidovudine in established combination HIV-1/HCV therapy, especially in patients with a known history of zidovudine-induced anemia.
 
@@ -47,7 +47,7 @@ RETROVIR should not be administered with combination products that contain zidov
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including RETROVIR.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.7 Fat Redistribution
 
