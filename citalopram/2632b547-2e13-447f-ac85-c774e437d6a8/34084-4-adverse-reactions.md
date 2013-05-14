@@ -15,7 +15,7 @@ An event was considered treatment-emergent if it occurred for the first time or 
 ### Adverse Events Associated with Discontinuation of Treatment
 
 Among 1063 depressed patients who received citalopram at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration, 16% discontinued treatment due to an adverse event, as compared to 8% of 446 patients receiving placebo.
-The adverse events associated with discontinuation and considered drug-related (i.e., associated with discontinuation in at least 1% of citalopram-treated patients at a rate at least twice that of placebo) are shown in TABLE 2 .
+The adverse events associated with discontinuation and considered drug-related (i.e., associated with discontinuation in at least 1% of citalopram-treated patients at a rate at least twice that of placebo) are shown in TABLE 2.
 It should be noted that one patient can report more than one reason for discontinuation and be counted more than once in this table.
 
 TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled, Depression Trials
@@ -43,7 +43,7 @@ Events included are those occurring in 2% or more of patients treated with cital
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
-The only commonly observed adverse event that occurred in citalopram patients with an incidence of 5% or greater and at least twice the incidence in placebo patients was ejaculation disorder (primarily ejaculatory delay) in male patients (see TABLE 3 ).
+The only commonly observed adverse event that occurred in citalopram patients with an incidence of 5% or greater and at least twice the incidence in placebo patients was ejaculation disorder (primarily ejaculatory delay) in male patients (see TABLE 3).
 
 TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clinical Trials*
 
@@ -126,7 +126,7 @@ These analyses revealed no clinically important changes in laboratory test param
 
 ### ECG Changes
 
-In a thorough QT study, citalopram was found to be associated with a dose-dependent increase in the QTc interval (see WARNINGS - QT-Prolongation and Torsade de Pointes ).
+In a thorough QT study, citalopram was found to be associated with a dose-dependent increase in the QTc interval (see WARNINGS - QT-Prolongation and Torsade de Pointes).
 Electrocardiograms from citalopram (N=802) and placebo (N=241) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
 In the citalopram group 1.9% of the patients had a change from baseline in QTcF >60 msec compared to 1.2% of the patients in the placebo group.
 None of the patients in the placebo group had a post-dose QTcF >500 msec compared to 0.5% of the patients in the citalopram group.
@@ -156,13 +156,13 @@ Rare: pulmonary embolism, granulocytopenia, lymphocytosis, lymphopenia, hypochro
 Metabolic and Nutritional Disorders - Frequent: decreased weight, increased weight.
 Infrequent: increased hepatic enzymes, thirst, dry eyes, increased alkaline phosphatase, abnormal glucose tolerance.
 Rare: bilirubinemia, hypokalemia, obesity, hypoglycemia, hepatitis, dehydration.
-Musculoskeletal System Disorders - Infrequent : arthritis, muscle weakness, skeletal pain.
-Rare : bursitis, osteoporosis.
+Musculoskeletal System Disorders - Infrequent: arthritis, muscle weakness, skeletal pain.
+Rare: bursitis, osteoporosis.
 Psychiatric Disorders - Frequent: impaired concentration, amnesia, apathy, depression, increased appetite, aggravated depression, suicide attempt, confusion.
 Infrequent: increased libido, aggressive reaction, paroniria, drug dependence, depersonalization, hallucination, euphoria, psychotic depression, delusion, paranoid reaction, emotional lability, panic reaction, psychosis.
 Rare: catatonic reaction, melancholia.
 Reproductive Disorders/Female* - Frequent: amenorrhea.
-Infrequent : galactorrhea, breast pain, breast enlargement, vaginal hemorrhage. * % based on female subjects only: 2955 Respiratory System Disorders - Frequent: coughing.
+Infrequent: galactorrhea, breast pain, breast enlargement, vaginal hemorrhage. * % based on female subjects only: 2955 Respiratory System Disorders - Frequent: coughing.
 Infrequent: bronchitis, dyspnea, pneumonia.
 Rare: asthma, laryngitis, bronchospasm, pneumonitis, sputum increased.
 Skin and Appendages Disorders - Frequent: rash, pruritus.

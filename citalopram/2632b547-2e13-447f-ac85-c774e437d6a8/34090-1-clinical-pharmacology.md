@@ -6,7 +6,7 @@ The mechanism of action of citalopram hydrobromide as an antidepressant is presu
 In vitro and in vivo studies in animals suggest that citalopram is a highly selective serotonin reuptake inhibitor (SSRI) with minimal effects on norepinephrine (NE) and dopamine (DA) neuronal reuptake.
 Tolerance to the inhibition of 5-HT uptake is not induced by long-term (14-day) treatment of rats with citalopram.
 Citalopram is a racemic mixture (50/50), and the inhibition of 5-HT reuptake by citalopram is primarily due to the (S)-enantiomer.
-Citalopram has no or very low affinity for 5-HT 1A, 5-HT 2A , dopamine D 1 and D 2, α 1 -, α 2 -, and β-adrenergic, histamine H 1 , gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
+Citalopram has no or very low affinity for 5-HT1A, 5-HT2A, dopamine D1 and D2, α1-, α2-, and β-adrenergic, histamine H1, gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
 Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects of other psychotropic drugs.
 
 ## Pharmacokinetics
@@ -37,16 +37,16 @@ In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 
 
 Age - Citalopram pharmacokinetics in subjects ≥ 60 years of age were compared to younger subjects in two normal volunteer studies.
 In a single-dose study, citalopram AUC and half-life were increased in the subjects ≥ 60 years old by 30% and 50%, respectively, whereas in a multiple-dose study they were increased by 23% and 30%, respectively.
-20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION ), due to the risk of QT prolongation.
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION), due to the risk of QT prolongation.
 Gender - In three pharmacokinetic studies (total N=32), citalopram AUC in women was one and a half to two times that in men.
 This difference was not observed in five other pharmacokinetic studies (total N=114).
 In clinical studies, no differences in steady state serum citalopram levels were seen between men (N=237) and women (N=388).
 There were no gender differences in the pharmacokinetics of DCT and DDCT.
 No adjustment of dosage on the basis of gender is recommended.
 Reduced hepatic function - Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects.
-20 mg/day is the maximum recommended dose for hepatically impaired patients (see WARNINGS and DOSAGE AND ADMINISTRATION ), due to the risk of QT prolongation.
-CYP2C19 poor metabolizers – In CYP2C19 poor metabolizers, citalopram steady state C max and AUC was increased by 68% and 107%, respectively.
-Citalopram 20 mg/day is the maximum recommended dose in CYP2C19 poor metabolizers due to the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION ).
+20 mg/day is the maximum recommended dose for hepatically impaired patients (see WARNINGS and DOSAGE AND ADMINISTRATION), due to the risk of QT prolongation.
+CYP2C19 poor metabolizers – In CYP2C19 poor metabolizers, citalopram steady state Cmax and AUC was increased by 68% and 107%, respectively.
+Citalopram 20 mg/day is the maximum recommended dose in CYP2C19 poor metabolizers due to the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 CYP2D6 poor metabolizers - Citalopram steady state levels were not significantly different in poor metabolizers and extensive metabolizers of CYP2D6.
 Reduced renal function - In patients with mild to moderate renal function impairment, oral clearance of citalopram was reduced by 17% compared to normal subjects.
 No adjustment of dosage for such patients is recommended.
@@ -59,7 +59,7 @@ Citalopram would be expected to have little inhibitory effect on in vivo metabol
 However, in vivo data to address this question are limited.
 CYP3A4 and CYP2C19 Inhibitors: Since CYP3A4 and CYP2C19 are the primary enzymes involved in the metabolism of citalopram, it is expected that potent inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, and macrolide antibiotics) and potent inhibitors of CYP2C19 (e.g., omeprazole) might decrease the clearance of citalopram.
 However, coadministration of citalopram and the potent CYP3A4 inhibitor ketoconazole did not significantly affect the pharmacokinetics of citalopram.
-Citalopram 20 mg/day is the maximum recommended dose in patients taking concomitant cimetidine or another CYP2C19 inhibitor, because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION ).
+Citalopram 20 mg/day is the maximum recommended dose in patients taking concomitant cimetidine or another CYP2C19 inhibitor, because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 CYP2D6 Inhibitors: Coadministration of a drug that inhibits CYP2D6 with citalopram is unlikely to have clinically significant effects on citalopram metabolism, based on the study results in CYP2D6 poor metabolizers.
 
 ## Clinical Efficacy Trials

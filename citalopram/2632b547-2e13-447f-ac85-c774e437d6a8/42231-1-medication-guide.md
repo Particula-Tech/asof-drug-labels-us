@@ -4,7 +4,7 @@ Citalopram Tablets, USP Read the Medication Guide that comes with citalopram tab
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
-What is the most important information I should know about citalopram tablets ?
+What is the most important information I should know about citalopram tablets?
 Citalopram tablets and other antidepressant medicines may cause serious side effects, including: 1.
 Suicidal thoughts or actions:
 
@@ -39,8 +39,7 @@ The symptoms may include:
 - shortness of breath
 - dizziness or fainting
 
-3.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+3.Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -58,7 +57,7 @@ Severe allergic reactions:
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 5.
-Abnormal bleeding: Citalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ® , Jantoven ® ), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Citalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 6.
 Seizures or convulsions 7.
 Manic episodes:
@@ -91,7 +90,7 @@ Stopping citalopram tablets too quickly may cause serious symptoms including:
 - headache, sweating, nausea, dizziness
 - electric shock-like sensations, shaking, confusion
 
-What are citalopram tablets ?
+What are citalopram tablets?
 Citalopram tablets are a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
 You should discuss all treatment choices with your healthcare provider.
@@ -100,15 +99,15 @@ Citalopram tablets are also used to treat:
 - Major Depressive Disorder (MDD)
 
 Talk to your healthcare provider if you do not think that your condition is getting better with citalopram tablets treatment.
-Who should not take citalopram tablets ?
+Who should not take citalopram tablets?
 Do not take citalopram tablets if you:
 
 - are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in citalopram tablets.
   See the end of this Medication Guide for a complete list of ingredients in citalopram tablets.
-- take a Monoamine Oxidase Inhibitor (MAOI).
+- If you take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - Do not take an MAOI within 14 days of stopping citalopram tablets.
-  - Do not start citalopram tablets if you stopped taking an MAOI in the last 14 days.
+  - Do not take an MAOI within 2 weeks of stopping citalopram tablets unless directed to do so by your physician.
+  - Do not start citalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take citalopram tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -159,7 +158,7 @@ Do not start or stop any medicine while taking citalopram tablets without talkin
 | If you take citalopram tablets, you should not take any other medicines that contain citalopram hydrobromide or escitalopram oxalate including: Lexapro. |
 | --- |
 
-How should I take citalopram tablets ?
+How should I take citalopram tablets?
 
 Take citalopram tablets exactly as prescribed.
 Your healthcare provider may need to change the dose of citalopram tablets until it is the right dose for you.
@@ -172,13 +171,13 @@ Do not take two doses of citalopram tablets at the same time.
 
 If you take too much citalopram, call your healthcare provider or poison control center right away, or get emergency treatment.
 
-What should I avoid while taking citalopram tablets ?
+What should I avoid while taking citalopram tablets?
 Citalopram tablets can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
 You should not drive, operate heavy machinery, or do other dangerous activities until you know how citalopram tablets affect you.
 Do not drink alcohol while using citalopram tablets.
-What are the possible side effects of citalopram tablets ?
+What are the possible side effects of citalopram tablets?
 Citalopram tablets may cause serious side effects, including: See “What is the most important information I should know about citalopram tablets?”
-Common possible side effects in people who take citalopram tablets include :
+Common possible side effects in people who take citalopram tablets include:
 
 - Nausea
 - Sleepiness
@@ -211,7 +210,7 @@ These are not all the possible side effects of citalopram tablets.
 For more information, ask your healthcare provider or pharmacist.
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
 YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
-How should I store citalopram tablets ?
+How should I store citalopram tablets?
 
 - Store citalopram tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 - Keep citalopram tablets bottle closed tightly.
@@ -225,10 +224,10 @@ This Medication Guide summarizes the most important information about citalopram
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about citalopram tablets that is written for healthcare professionals.
 For more information about citalopram tablets call 1-866-850-2876.
-What are the ingredients in citalopram tablets ?
+What are the ingredients in citalopram tablets?
 Active ingredient: citalopram hydrobromide Inactive ingredients: copovidone, corn starch, croscarmellose sodium, lactose monohydrate, magnesium stearate, hypromellose, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 Iron oxides are used as coloring agents in the peach (10 mg) and light pink (20 mg) tablets.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Orap ® is a registered trademark of Teva Pharmaceuticals USA.
-Coumadin ® is a registered trademark of Bristol Myers Squibb.
-Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 04/2012
+Orap® is a registered trademark of Teva Pharmaceuticals USA.
+Coumadin® is a registered trademark of Bristol Myers Squibb.
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2012
