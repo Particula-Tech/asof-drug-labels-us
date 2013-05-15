@@ -16,10 +16,9 @@ Xyrem can cause serious side effects including slow breathing or changes in your
 Do not drink alcohol or take medicines intended to make you fall asleep while you are taking Xyrem because they can make these side effects worse.
 Call your doctor right away if you have any of these serious side effects.
 
-- 
-  - •The active ingredient of Xyrem is a form of gamma-hydroxybutyrate (GHB).
-    GHB is a chemical that has been abused and misused.
-    Abuse and misuse of Xyrem can cause serious medical problems, including:
+- •The active ingredient of Xyrem is a form of gamma-hydroxybutyrate (GHB).
+  GHB is a chemical that has been abused and misused.
+  Abuse and misuse of Xyrem can cause serious medical problems, including:
 - oseizures
 - otrouble breathing
 - ochanges in alertness
@@ -70,12 +69,18 @@ Before you take Xyrem, tell your doctor if you:
 - •are breastfeeding or plan to breastfeed.
   It is not known if Xyrem passes into your breast milk.
   You and your doctor should decide if you will take Xyrem or breastfeed.
-- Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-- Especially, tell your doctor if you take other medicines to help you sleep (sedatives).
-  Do not take medicines that make you sleepy with Xyrem.
-- Know the medicines you take.
-  Keep a list of them to show your doctor and pharmacist when you get a new medicine.
-- How should I take Xyrem?
+- 
+
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
+Especially, tell your doctor if you take other medicines to help you sleep (sedatives).
+Do not take medicines that make you sleepy with Xyrem.
+
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
+
+How should I take Xyrem?
+
 - •Read the Instructions for Use at the end of this Medication Guide for detailed instructions on how to take Xyrem.
 - •Take Xyrem exactly as your doctor tells you to take it.
 - •Never change your Xyrem dose without talking to your doctor.

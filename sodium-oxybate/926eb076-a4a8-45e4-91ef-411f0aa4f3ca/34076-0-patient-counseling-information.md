@@ -19,17 +19,26 @@ Inform patients that after taking Xyrem they are likely to fall asleep quickly (
 The sudden onset of sleep, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization.
 Instruct patients to remain in bed following ingestion of their first dose, and not to take their second dose until 2.5 to 4 hours later.
 
-1. Food Effects on Xyrem
+Food Effects on Xyrem
 
 Inform patients to take the first dose at least 2 hours after eating.
 
-1. Respiratory Depression
-2. Inform patients that Xyrem can be associated with respiratory depression.
-3. Operating Hazardous Machinery
-4. Inform patients that until they are reasonably certain that Xyrem does not affect them adversely (e.g., impair judgment, thinking, or motor skills) they should not operate hazardous machinery, including automobiles or airplanes.
-5. Suicidality
-6. Instruct patients or families to contact a healthcare provider immediately if the patient develops depressed mood, markedly diminished interest or pleasure in usual activities, significant change in weight and/or appetite, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, or suicidal ideation.
-7. Sleepwalking
-8. Instruct patients and their families that Xyrem has been associated with sleepwalking and to contact their healthcare provider if this occurs.
-9. Sodium Intake
-10. Instruct patients who are sensitive to salt intake (e.g., those with heart failure, hypertension, or renal impairment) that Xyrem contains a significant amount of sodium and they should limit their sodium intake.
+Respiratory Depression
+
+Inform patients that Xyrem can be associated with respiratory depression.
+
+Operating Hazardous Machinery
+
+Inform patients that until they are reasonably certain that Xyrem does not affect them adversely (e.g., impair judgment, thinking, or motor skills) they should not operate hazardous machinery, including automobiles or airplanes.
+
+Suicidality
+
+Instruct patients or families to contact a healthcare provider immediately if the patient develops depressed mood, markedly diminished interest or pleasure in usual activities, significant change in weight and/or appetite, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, or suicidal ideation.
+
+Sleepwalking
+
+Instruct patients and their families that Xyrem has been associated with sleepwalking and to contact their healthcare provider if this occurs.
+
+Sodium Intake
+
+Instruct patients who are sensitive to salt intake (e.g., those with heart failure, hypertension, or renal impairment) that Xyrem contains a significant amount of sodium and they should limit their sodium intake.
