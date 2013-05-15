@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019618"
+  ],
+  "inn": "mesalamine",
+  "labeler": "Alaven Pharmaceutical LLC",
+  "package_ndcs": [
+    "68220-066-03",
+    "68220-066-04",
+    "68220-066-05",
+    "68220-066-06"
+  ],
+  "products": [
+    {
+      "form": "ENEMA",
+      "generic": "mesalamine",
+      "name": "Rowasa"
+    }
+  ],
+  "setid": "2f393841-42ef-46a4-a7b0-21cc59815912",
+  "source": "dailymed"
+}

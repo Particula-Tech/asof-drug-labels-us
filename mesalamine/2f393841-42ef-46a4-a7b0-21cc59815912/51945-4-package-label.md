@@ -1,0 +1,1 @@
+Package Printed Bottle – Principal Display Panel - 60 mL bottle 60 mL NDC 68220-066-06 ROWASA® (mesalamine) 4.0g/60mL Rectal Suspension Enema FOR RECTAL USE ONLY Rx ONLY Manufactured for: ALAVEN PHARMACEUTICAL LLC Marietta, GA 30067 www.ROWASA.com
