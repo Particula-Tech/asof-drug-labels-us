@@ -24,11 +24,20 @@ Table 1: Adverse Events in ≥ 4% of PAH Patients Receiving Tyvaso and More Freq
 | Flushing | 17 (15) | 1 (<1) |
 | Syncope | 7 (6) | 1 (<1) |
 
-The safety of Tyvaso was also studied in a long-term, open-label extension study in which 206 patients were dosed for a mean duration of one year.
+The safety of Tyvaso was also studied in a long-term, open-label extension study in which 206 patients were dosed for a mean duration of 2.3 years, with a maximum exposure of 5.4 years.
+Eighty-nine (89%) percent of patients achieved the target dose of nine breaths, four times daily.
+Forty-two (42%) percent achieved a dose of 12 breaths four times daily.
 The adverse events during this chronic dosing study were qualitatively similar to those observed in the 12-week placebo controlled trial.
 
 Adverse Events Associated with Route of Administration
 
 Adverse events in the treated group during the double-blind and open-label phase reflecting irritation to the respiratory tract included: cough, throat irritation, pharyngeal pain, epistaxis, hemoptysis and wheezing.
-Serious adverse events during the open-label portion of the study included pneumonia in 8 subjects.
+Serious adverse events during the open-label portion of the study included pneumonia in fifteen subjects.
 There were three serious episodes of hemoptysis (one fatal) noted during the open-label experience.
+
+## 6.2 Adverse Reactions Identified in Post-Marketing Experience
+
+The following adverse reaction has been identified during the postapproval use of Tyvaso.
+Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure:
+
+Angioedema.

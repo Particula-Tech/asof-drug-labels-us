@@ -9,9 +9,7 @@ In the event that a scheduled treatment session is missed or interrupted, therap
 Patients should avoid skin or eye contact with Tyvaso.
 If Tyvaso comes in contact with the skin or eyes, instruct patients to rinse immediately with water [see Dosage and Administration (2.4)].
 
-US Patent No. 5,153,222 US Patent No. 6,765,117 US Patent No. 6,521,212 US Patent No. 6,756,033
-
-©Copyright 2011 United Therapeutics Corp. All rights reserved.
+©Copyright 2013 United Therapeutics Corp. All rights reserved.
 
 Tyvaso manufactured for:
 

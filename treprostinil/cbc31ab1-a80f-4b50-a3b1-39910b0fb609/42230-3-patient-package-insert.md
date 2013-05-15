@@ -62,6 +62,8 @@ How should I take Tyvaso?
 - If you miss a dose of Tyvaso take it as soon as you remember.
 - Do not let Tyvaso solution get into your eyes or onto your skin.
   If it does, rinse your skin or eyes right away with water.
+- Using the Treatment Tracker, record the number of breaths you inhale during each treatment session (4 times a day).
+  You should bring your Treatment Tracker to your medical appointments, as your doctor may want to review it with you.
 
 What are the possible side effects of Tyvaso?
 
@@ -96,6 +98,9 @@ How should I store Tyvaso?
   The unopened Tyvaso ampules should be stored in the foil pouch.
 - After a Tyvaso ampule is opened and put into the medicine cup in the Tyvaso Inhalation System, Tyvaso can be kept in the medicine cup for no more than 1 day (24 hours).
 - Tyvaso that is left in the medicine cup at the end of the day must be thrown away.
+- The Tyvaso Inhalation System can be stored in the carrying case when not in use (Example: between treatment sessions or overnight).
+  If storing between treatment sessions, ensure that the plugs are firmly in place in the dome assembly to prevent spillage of Tyvaso.
+  See the Instructions for Use for additional information regarding storage of your Tyvaso Inhalation System.
 
 Keep Tyvaso and all medicines out of the reach of children.
 
@@ -109,14 +114,14 @@ It may harm them.
 This patient information leaflet summarizes the most important information about Tyvaso.
 You can ask your healthcare provider or specialty pharmacist for information about Tyvaso that is written for health professionals.
 
-For more information, go to www.tyvaso.com or call 1-866-458-6479.
+For more information, go to www.tyvaso.com or call 1-877-UNITHER (1-877-864-8437).
 
 What are the ingredients in Tyvaso?
 
 Active ingredient: treprostinil Inactive ingredients: sodium chloride, sodium citrate, sodium hydroxide, hydrochloric acid, and water for injection.
 
-Tyvaso is a trademark of United Therapeutics Corporation.
+Tyvaso is a registered trademark of United Therapeutics Corporation.
 
-Literature issued February 2011
+Literature issued May 2013.
 
-United Therapeutics Corp. Research Triangle Park, NC 27709 USA Copyright © 2011, United Therapeutics Corp. All rights reserved.
+United Therapeutics Corp. Research Triangle Park, NC 27709 USA Copyright © 2013, United Therapeutics Corp. All rights reserved.
