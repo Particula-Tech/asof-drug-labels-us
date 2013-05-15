@@ -2,9 +2,9 @@ ATTENTION PHARMACIST: Detach “Patient’s Instructions for Use” from package
 
 Prescribing Information
 
-Rx Only
+Rx only
 
-# POST-MARKETING EXPERIENCE
+# Post-Marketing Experience
 
 Allergic-type reactions such as skin rash, angioedema, including that of the throat, tongue, lips and face, generalized urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported with ipratropium bromide nasal solution 0.06% (Nasal Spray) and for other ipratropium bromide-containing products, with positive rechallenge in some cases.
 
@@ -12,13 +12,11 @@ Additional side effects identified from the published literature and/or post-mar
 
 After oral inhalation of ipratropium bromide in patients suffering from COPD/Asthma supraventricular tachycardia and atrial fibrillation have been reported.
 
-# MANUFACTURER INFORMATION
+Revised: October 2012
 
-Bausch & Lomb Incorporated Tampa, FL 33637 ©Bausch & Lomb Incorporated
+Bausch & Lomb Incorporated Tampa, FL 33637 ®/TM denote trademarks of Bausch & Lomb Incorporated ©Bausch & Lomb Incorporated
 
-9049306 (Folded)
-
-Revised November 2011
+9049307 (Folded)
 
 # Patient's Instructions For Use
 
@@ -100,12 +98,14 @@ If you have glaucoma or difficulty urinating due to an enlargement of the prosta
 
 If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using ipratropium bromide nasal solution 0.06% (Nasal Spray).
 
-STORAGE: Store tightly closed at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+STORAGE: Store tightly closed at 25°C (77°F); excursions permitted to 15°-25°C (59°-77°F).
 Avoid freezing.
 Keep out of reach of children.
 
-Bausch & Lomb Incorporated Tampa, FL 33637 ©Bausch & Lomb Incorporated
+Revised: October 2012
 
-9049306 (Folded)
+Bausch & Lomb Incorporated Tampa, FL 33637 ®/TM denote trademarks of Bausch & Lomb Incorporated
 
-Revised November 2011
+©Bausch & Lomb Incorporated
+
+9049307 (Folded)

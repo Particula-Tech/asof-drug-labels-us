@@ -4,7 +4,7 @@ Adverse reaction information on ipratropium bromide nasal solution 0.06% (Nasal 
 
 Table 1 shows adverse events reported for patients who received ipratropium bromide nasal solution 0.06% (Nasal Spray) at the recommended dose of 84 mcg per nostril, or vehicle, administered three or four times daily, where the incidence is 1% or greater in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group.
 
-Table 1 % of Patients with Common Cold Reporting EventsThis table includes adverse events for which the incidence was 1% or greater in the ipratropium bromide group and higher in th ipratropium bromide group than in the vehicle group.
+Table 1 % of Patients with Common Cold Reporting EventsThis table includes adverse events for which the incidence was 1% or greater in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group.
 
 |  | Ipratropium Bromide Nasal Solution0.06% (Nasal Spray) | Vehicle Control |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ Table 2 % of Patients with SAR Reporting EventsThis table includes adverse event
 |  | Ipratropium Bromide Nasal Solution0.06% (Nasal Spray) | Vehicle Control |
 | --- | --- | --- |
 | No. of Patients | 218 | 211 |
-| EpistaxisEpistaxis reported by 3.7% of ipratropium bromide patients and 2.4% of vehicle patients, blood-tinged nasal mucus by 2.3% of ipratropium bromide patients and 1.9% of vehicle patients. | 6.0% | 3.3% |
+| EpistaxisEpistaxis reported by 3.7% of ipratropium bromide patients and 2.4% of vehicle patients, blood tinged nasal mucus by 2.3% of ipratropium bromide patients and 1.9% of vehicle patients. | 6.0% | 3.3% |
 | Pharyngitis | 5.0% | 3.8% |
 | URI | 5.0% | 3.3% |
 | Nasal Dryness | 4.6% | 0.9% |

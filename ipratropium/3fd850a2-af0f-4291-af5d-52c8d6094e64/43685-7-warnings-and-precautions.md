@@ -7,7 +7,7 @@ If such a reaction occurs, therapy with ipratropium bromide nasal solution 0.06%
 
 ## General
 
-1. Effects Seen with Anticholinergic Drugs: Ipratropium bromide nasal solution 0.06% (Nasal Spray)should be used with caution in patients with narrow-angle glaucoma, prostatic hyperplasia, or bladder neck obstruction, particularly if they are receiving an anticholinergic by another route.
+1. Effects Seen with Anticholinergic Drugs: Ipratropium bromide nasal solution 0.06% (Nasal Spray) should be used with caution in patients with narrow-angle glaucoma, prostatic hyperplasia, or bladder neck obstruction, particularly if they are receiving an anticholinergic by another route.
 2. Use in Hepatic or Renal Disease: Ipratropium bromide nasal solution 0.06% (Nasal Spray) has not been studied in patients with hepatic or renal insufficiency.
    It should be used with caution in those patient populations.
 
@@ -17,16 +17,16 @@ Patients should be advised that temporary blurring of vision, precipitation or w
 Patients should be instructed to avoid spraying ipratropium bromide nasal solution 0.06% (Nasal Spray) in or around the eyes.
 Patients who experience eye pain, blurred vision, excessive nasal dryness or episodes of nasal bleeding should be instructed to contact their doctor.
 To ensure proper dosing, patients should be advised not to alter the size of the nasal spray opening.
-Patients should be reminded to carefully read and follow the accompanying Patient's Instructions For Use.
+Patients should be reminded to carefully read and follow the accompanying Patient's Instructions for Use.
 
 Since dizziness, accommodation disorder, mydriasis, and blurred vision may occur with use of ipratropium bromide nasal solution 0.06% (Nasal Spray), patients should be cautioned about engaging in activities requiring balance and visual acuity such as driving a car or operating appliances, machinery, etc.
 
-## Drug interactions
+## Drug Interactions
 
 No controlled clinical trials were conducted to investigate drug-drug interactions.
 There is potential for an additive interaction with other concomitantly administered medications with anticholinergic properties, including ipratropium bromide nasal solution 0.06% (Nasal Spray) for oral inhalation.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two-year oral carcinogenicity studies in rats and mice have revealed no carcinogenic activity at doses up to 6 mg/kg.
 This dose corresponds in rats and mice to approximately 70 and 35 times the maximum recommended daily intranasal dose in adults, respectively, and approximately 35 and 15 times the maximum recommended daily intranasal dose in children, respectively, on a mg/m2 basis.
@@ -37,7 +37,7 @@ At an oral dose of 500 mg/kg (approximately 16,000 times the maximum recommended
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 Pregnancy Category B. There are no adequate and well-controlled studies for ipratropium bromide nasal solution 0.06% (Nasal Spray) in pregnant women.
 Because animal reproduction studies are not always predictive of human response, ipratropium bromide nasal solution 0.06% (Nasal Spray) should be used during pregnancy only if clearly needed.
@@ -49,16 +49,16 @@ These studies demonstrated no evidence of teratogenic effects as a result of ipr
 At oral doses above 90 mg/kg in rats (approximately 1,100 times the MRDID in adults on a mg/m2 basis) embryotoxicity was observed as increased resorption.
 This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration.
 
-## Labor and delivery
+## Labor and Delivery
 
 The effect of ipratropium bromide on labor and delivery is unknown.
 
-## Nursing mothers
+## Nursing Mothers
 
 It is known that some ipratropium bromide is systemically absorbed following nasal administration; however the portion which may be excreted in human milk is unknown.
 Because lipid-insoluble quaternary cations pass into breast milk, caution should be exercised when ipratropium bromide nasal solution 0.06% (Nasal Spray) is administered to a nursing mother.
 
-## Pediatric use
+## Pediatric Use
 
 The safety of ipratropium bromide nasal solution 0.06% (Nasal Spray) at a dose of two sprays (84 mcg) per nostril three times a day (total dose 504 mcg/day) for two to four days has been demonstrated in two clinical trials involving 362 pediatric patients 5-11 years of age with naturally acquired common colds.
 In this pediatric population ipratropium bromide nasal solution 0.06% (Nasal Spray) had an adverse event profile similar to that observed in adolescent and adult patients.
