@@ -27,7 +27,7 @@ Carbapenem Antibiotics
 A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (for example, ertapenem, imipenem, meropenem this is not a complete list) and may result in loss of seizure control.
 The mechanism of this interaction is not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
-Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.11)].
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.13)].
 
 Felbamate
 
@@ -163,6 +163,6 @@ Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (25
 
 ## 7.3 Topiramate
 
-Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.7, 5.8)].
+Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.9, 5.10)].
 Concomitant administration of topiramate with valproate has also been associated with hypothermia in patients who have tolerated either drug alone.
-It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.7, 5.9)].
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.9, 5.11)].
