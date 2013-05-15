@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019627"
+  ],
+  "inn": "propofol",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-269-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "propofol",
+      "name": "Diprivan"
+    }
+  ],
+  "setid": "d1ae9e26-ffd6-43df-bbd6-869cdede6afe",
+  "source": "dailymed"
+}
