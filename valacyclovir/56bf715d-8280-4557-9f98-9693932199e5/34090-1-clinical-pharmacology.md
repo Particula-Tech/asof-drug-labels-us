@@ -6,10 +6,7 @@ Valacyclovir is an antiviral drug [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir has been investigated in 14 volunteer studies involving 283 adults.
-
-Labeling describing use of valacyclovir in pediatric patients with chickenpox (ages one month to < 12 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, that additional pediatric information is not approved for this valacyclovir hydrochloride tablet product.
+The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir has been investigated in 14 volunteer studies involving 283 adults and in three studies involving 112 pediatric subjects from 1 month to < 12 years of age.
 
 ### Pharmacokinetics in Adults
 
@@ -28,15 +25,14 @@ There is no accumulation of acyclovir after the administration of valacyclovir a
 Table 3.
 Mean (± SD) Plasma Acyclovir Pharmacokinetic Parameters Following Administration of Valacyclovir to Healthy Adult Volunteers
 
-| Dose | Single Dose Administration (n = 8) |  | Multiple Dose AdministrationAdministered 4 times daily for 11 days. (n = 24, 8 per treatment arm) |  |
+| Dose | Single Dose Administration (n = 8) |  | Multiple Dose AdministrationAdministered 4 times daily for 11 days. ND = not done. (n = 24, 8 per treatment arm) |  |
 | --- | --- | --- | --- | --- |
 | Cmax (± SD) (mcg/mL) | AUC (± SD) (hr • mcg/mL) | Cmax (± SD) (mcg/mL) | AUC (± SD) (hr • mcg/mL) |  |
-| 100 mg | 0.83 (± 0.14) | 2.28 (± 0.40) | ND | ND |
-| 250 mg | 2.15 (± 0.50) | 5.76 (± 0.60) | 2.11 (± 0.33) | 5.66 (± 1.09) |
+| 100 mg | 0.83 (± 0.14) | 2.28 (± 0.4) | ND | ND |
+| 250 mg | 2.15 (± 0.50) | 5.76 (± 0.6) | 2.11 (± 0.33) | 5.66 (± 1.09) |
 | 500 mg | 3.28 (± 0.83) | 11.59 (± 1.79) | 3.69 (± 0.87) | 9.88 (± 2.01) |
 | 750 mg | 4.17 (± 1.14) | 14.11 (± 3.54) | ND | ND |
 | 1000 mg | 5.65 (± 2.37) | 19.52 (± 6.04) | 4.96 (± 0.64) | 15.70 (± 2.27) |
-| ND = not done. |  |  |  |  |
 
 #### Distribution
 
@@ -87,8 +83,20 @@ After single dose administration of 1 gram of valacyclovir in healthy geriatric 
 The pharmacokinetics of acyclovir following single and multiple dose oral administration of valacyclovir in geriatric volunteers varied with renal function.
 Dose reduction may be required in geriatric patients, depending on the underlying renal status of the patient [see Dosage and Administration (2.4), Use in Specific Populations (8.5), (8.6)].
 
-Labeling describing additional pharmacokinetic studies with valacyclovir hydrochloride in pediatric patients (ages of one month to < 12 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those pharmacokinetic studies is not approved for this valacyclovir hydrochloride tablet product.
+#### Pediatrics
+
+Acyclovir pharmacokinetics have been evaluated in a total of 98 pediatric patients (1 month to < 12 years of age) following administration of the first dose of an extemporaneous oral suspension of valacyclovir [see Adverse Reactions (6.2), Use in Specific Populations (8.4)].
+Acyclovir pharmacokinetic parameter estimates following a 20 mg/kg dose are provided in Table 4.
+
+Table 4.
+Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Patients vs. 1 Gram Single Dose of Valacyclovir Hydrochloride to Adults
+
+| Parameter | Pediatric Patients(20 mg/kg Oral Suspension) |  |  | Adults1 gram Solid Dose of Valacyclovir Hydrochloridea(n = 15) |
+| --- | --- | --- | --- | --- |
+| 1 to < 2 yr(n = 6) | 2 to < 6 yr(n = 12) | 6 to < 12 yr(n = 8) |  |  |
+| AUC (mcg•hr/mL) | 14.4 (± 6.26) | 10.1 (± 3.35) | 13.1 (± 3.43) | 17.2 (± 3.1) |
+| Cmax (mcg/mL) | 4.03 (± 1.37) | 3.75 (± 1.14) | 4.71 (± 1.2) | 4.72 (± 1.37) |
+| a Historical estimates using pediatric pharmacokinetic sampling schedule. |  |  |  |  |
 
 ### Drug Interactions
 

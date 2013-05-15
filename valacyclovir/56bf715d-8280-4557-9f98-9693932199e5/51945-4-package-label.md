@@ -2,13 +2,13 @@ PRINCIPAL DISPLAY PANEL - 500 mg
 
 NDC 0378-4275-93
 
-Valacyclovir HCl Tablets 500 mg*
+Valacyclovir Tablets, USP 500 mg
 
 PHARMACIST: Dispense the Patient Information Leaflet provided separately to each patient.
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
-*Each film-coated tablet contains valacyclovir hydrochloride equivalent to 500 mg of valacyclovir.
+Each film-coated tablet contains valacyclovir hydrochloride, USP equivalent to 500 mg of valacyclovir.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -21,9 +21,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX4275H2
+Mylan.com
 
-www.mylan.com
+RMX4275H4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -35,13 +35,13 @@ PRINCIPAL DISPLAY PANEL - 1 gram
 
 NDC 0378-4276-93
 
-Valacyclovir HCl Tablets 1 g*
+Valacyclovir Tablets, USP 1 gram
 
 PHARMACIST: Dispense the Patient Information Leaflet provided separately to each patient.
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
-*Each film-coated tablet contains valacyclovir hydrochloride equivalent to 1 g of valacyclovir.
+Each film-coated tablet contains valacyclovir hydrochloride, USP equivalent to 1 gram of valacyclovir.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -54,9 +54,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX4276H2
+Mylan.com
 
-www.mylan.com
+RMX4276H4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
