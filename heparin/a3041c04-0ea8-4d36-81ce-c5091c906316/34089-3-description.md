@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Heparin Sodium (2 units/mL) in 0.9% Sodium Chloride Injection is a sterile, nonpyrogenic solution prepared from Heparin Sodium USP (derived from porcine intestinal mucosa and standardized for use as an anticoagulant) in 0.9% Sodium Chloride Injection.
+Heparin Sodium 1,000 USP units per 500 mL (2 USP units per mL) in 0.9% Sodium Chloride Injection is a sterile, nonpyrogenic solution prepared from Heparin Sodium USP (derived from porcine intestinal mucosa and standardized for use as an anticoagulant) in 0.9% Sodium Chloride Injection.
 It is to be administered by intravenous injection.
 The potency is determined by a biological assay using a USP reference standard based on units of heparin activity per milligram.
 

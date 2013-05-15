@@ -12,7 +12,7 @@ A baseline value for APTT should be obtained prior to administration of this sol
 
 ## Maintenance of Catheter Patency
 
-Although the rate of infusion of the 2 units/mL formulation is dependent upon the age, weight, clinical condition of the patient, and the procedure being employed, an infusion rate of 3 mL/hour has been found to be satisfactory.
+Although the rate of infusion of the 2 USP units/mL formulation is dependent upon the age, weight, clinical condition of the patient, and the procedure being employed, an infusion rate of 3 mL/hour has been found to be satisfactory.
 
 ## Geriatric Use
 

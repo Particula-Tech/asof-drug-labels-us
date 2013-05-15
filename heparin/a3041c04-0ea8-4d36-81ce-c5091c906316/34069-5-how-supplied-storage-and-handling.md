@@ -2,9 +2,9 @@
 
 Heparin Sodium in 0.9% Sodium Chloride Injection is supplied sterile and nonpyrogenic in Full Fill 500 mL EXCEL® Containers packaged 24 per case.
 
-| NDC | Cat. No. | Size |
+| NDC | REF | Size |
 | --- | --- | --- |
-| Heparin Sodium 1,000 Units in 0.9% Sodium Chloride Injection |  |  |
+| Heparin Sodium 1,000 USP units per 500 mL (2 USP units per mL) in 0.9% Sodium Chloride Injection |  |  |
 | 0264-9872-10 | P8721 | 500 mL |
 
 Exposure of pharmaceutical products to heat should be minimized.
