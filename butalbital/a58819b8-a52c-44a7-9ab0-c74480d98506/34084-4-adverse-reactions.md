@@ -39,7 +39,7 @@ Urinary: kidney impairment, urinary difficulty.
 
 Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema.
 
-The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
+The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, USP.
 Potential effects of high dosage are listed in the OVERDOSAGE section.
 
 Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis.

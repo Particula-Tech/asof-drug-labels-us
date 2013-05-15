@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Following an acute overdosage of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, toxicity may result from the barbiturate, the codeine, or the acetaminophen.
+Following an acute overdosage of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, USP, toxicity may result from the barbiturate, the codeine, or the acetaminophen.
 Toxicity due to the caffeine is less likely, due to the relatively small amounts in this formulation.
 
 ## Signs and Symptoms
@@ -18,7 +18,7 @@ Acute caffeine poisoning may cause insomnia, restlessness, tremor, and delirium,
 
 ## Treatment
 
-A single or multiple drug overdose with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
+A single or multiple drug overdose with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, USP is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
 Immediate treatment includes support of cardiorespiratory function and measures to reduce drug absorption.
 Oxygen, intravenous fluids, vasopressors, and other supportive measures should be employed as indicated.
 Assisted or controlled ventilation should also be considered.

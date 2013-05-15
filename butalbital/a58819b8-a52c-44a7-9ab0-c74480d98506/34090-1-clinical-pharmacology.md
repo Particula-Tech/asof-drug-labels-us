@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is a combination drug product intended as a treatment for tension headache.
+Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, USP is a combination drug product intended as a treatment for tension headache.
 
 Butalbital, Acetaminophen, and Caffeine Tablets, USP consists of a fixed combination of butalbital 50 mg, acetaminophen 325 mg and caffeine 40 mg.
 The role each component plays in the relief of the complex of symptoms known as tension headache is incompletely understood.
