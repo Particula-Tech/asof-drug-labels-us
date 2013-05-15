@@ -12,7 +12,7 @@ Sepsis accounted for the majority of the deaths.
 Non-Small Cell Lung Cancer
 
 Docetaxel administered at a dose of 100 mg/m2 in patients with locally advanced or metastatic non-small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
-There were 2.8% treatment-related deaths among the 176 patients treated at the 75 mg/m2dose in the randomized trials.
+There were 2.8% treatment-related deaths among the 176 patients treated at the 75 mg/m2 dose in the randomized trials.
 Among patients who experienced treatment-related mortality at the 75 mg/m2 dose level, 3 of 5 patients had an ECOG PS of 2 at study entry [see Dosage and Administration (2.2), Clinical Studies (14)].
 
 ## 5.2 Hepatic Impairment
@@ -35,9 +35,9 @@ Hematologic responses, febrile reactions and infections, and rates of septic dea
 
 Three breast cancer patients with severe liver impairment (bilirubin >1.7 times ULN) developed fatal gastrointestinal bleeding associated with severe drug-induced thrombocytopenia.
 In gastric cancer patients treated with docetaxel in combination with cisplatin and fluorouracil (TCF), febrile neutropenia and/or neutropenic infection occurred in 12% of patients receiving G-CSF compared to 28% who did not.
-Patients receiving TCF should be closely monitored during the first and subsequent cycles for febrile neutropenia and neutropenic infection [see Dosage and Administration (2.7), Adverse Reactions (6)].
+Patients receiving TCF should be closely monitored during the first and subsequent cycles for febrile neutropenia and neutropenic infection [see Dosage and Administration (2.7), Adverse Reactions (6)]
 
-## 5.4 Hypersensitivity Reactions
+## 5.4 Hypersensitivity reaction
 
 Patients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
 Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
@@ -46,7 +46,7 @@ Patients with a history of severe hypersensitivity reactions should not be recha
 
 Hypersensitivity reactions may occur within a few minutes following initiation of a Docetaxel Injection infusion.
 If minor reactions such as flushing or localized skin reactions occur, interruption of therapy is not required.
-All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of Docetaxel Injection [see Dosage and Administration (2.6)].
+All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of Docetaxel Injection [see Dosage and Administration (2.6)]
 
 ## 5.5 Fluid Retention
 

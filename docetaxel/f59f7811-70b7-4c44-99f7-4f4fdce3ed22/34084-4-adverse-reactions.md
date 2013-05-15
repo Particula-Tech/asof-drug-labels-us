@@ -17,7 +17,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Responding patients may not experience an improvement in performance status on therapy and may experience worsening.
 The relationship between changes in performance status, response to therapy, and treatment-related side effects has not been established.
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Breast Cancer
 
@@ -103,7 +103,6 @@ Among 2045 patients with solid tumors and normal baseline LFTs, severe neutropen
 Febrile neutropenia (<500 cells/mm3 with fever >38°C with intravenous antibiotics and/or hospitalization) occurred in 11% of patients with solid tumors, in 12.3% of patients with metastatic breast cancer, and in 9.8% of 92 breast cancer patients premedicated with 3-day corticosteroids.
 
 Severe infectious episodes occurred in 6.1% of patients with solid tumors, in 6.4% of patients with metastatic breast cancer, and in 5.4% of 92 breast cancer patients premedicated with 3-day corticosteroids.
-
 Thrombocytopenia (<100,000 cells/mm3) associated with fatal gastrointestinal hemorrhage has been reported.
 
 Hypersensitivity Reactions
@@ -125,7 +124,7 @@ Severe nail disorders were characterized by hypo- or hyperpigmentation, and occa
 
 Neurologic Reactions
 
-Neurologic reactions are discussed elsewhere in the label [see Warnings and Precautions (5.8)]
+Neurologic reactions are discussed elsewhere in the label [see Warnings and Precautions (5.8)].
 
 Gastrointestinal Reactions
 
@@ -165,13 +164,13 @@ Table 5 - Hematologic Adverse Reactions in Breast Cancer Patients Previously Tre
 |  | Normal LFTsNormal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN | Elevated LFTsElevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN | Normal LFTs |
 | Adverse Reaction | n=730 | n=18 | n=174 |
 | Neutropenia |  |  |  |
-| Any (<2000 cells/mm3) | 98 | 100 | 95 |
-| Grade 4 (<500 cells/mm3) | 84 | 94 | 75 |
+| Any <2000 cells/mm3 | 98 | 100 | 95 |
+| Grade 4 <500 cells/mm3 | 84 | 94 | 75 |
 | Thrombocytopenia |  |  |  |
-| Any (<100,000 cells/mm3) | 11 | 44 | 14 |
-| Grade 4 (<20,000 cells/mm3) | 1 | 17 | 1 |
-| Anemia (<11 g/dL) | 95 | 94 | 65 |
-| Infection Incidence of infection requiring hospitalization and/or intravenous antibiotics was 8.5% (n=62) among the 730 patients with normal LFTs at baseline; 7 patients had concurrent grade 3 neutropenia, and 46 patients had grade 4 neutropenia. |  |  |  |
+| Any <100,000 cells/mm3 | 11 | 44 | 14 |
+| Grade 4 <20,000 cells/mm3 | 1 | 17 | 1 |
+| Anemia <11 g/dL | 95 | 94 | 65 |
+| InfectionIncidence of infection requiring hospitalization and/or intravenous antibiotics was 8.5% (n=62) among the 730 patients with normal LFTs at baseline; 7 patients had concurrent grade 3 neutropenia, and 46 patients had grade 4 neutropenia. |  |  |  |
 | Any | 23 | 39 | 1 |
 | Grade 3 and 4 | 7 | 33 | 0 |
 | Febrile NeutropeniaFebrile Neutropenia: For 100 mg/m2, ANC grade 4 and fever >38°C with intravenous antibiotics and/or hospitalization; for 60 mg/m2, ANC grade 3/4 and fever >38.1°C |  |  |  |
@@ -221,7 +220,7 @@ Combination therapy with docetaxel in the adjuvant treatment of breast cancer
 
 The following table presents treatment emergent adverse reactions observed in 744 patients, who were treated with docetaxel 75 mg/m2 every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 7).
 
-Table 7 - Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel in Combination with Doxorubicin and Cyclophosphamide (TAX316).
+Table 7- Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel in Combination with Doxorubicin and Cyclophosphamide (TAX316).
 
 | Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | --- | --- | --- | --- | --- |
@@ -294,7 +293,7 @@ Acute Myeloid Leukemia (AML)
 Treatment-related acute myeloid leukemia or myelodysplasia is known to occur in patients treated with anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
 AML occurs at a higher frequency when these agents are given in combination with radiation therapy.
 AML occurred in the adjuvant breast cancer trial (TAX316).
-The cumulative risk of developing treatment-related AML at 5 years in TAX316 was 0.4% for TAC-treated patients and 0.1% for FAC-treated patients.
+The cumulative risk of developing treatment-related AML at 5 years in TAX316 was 0.4% for TAC treated patients and 0.1% for FAC-treated patients.
 This risk of AML is comparable to the risk observed for other anthracyclines/cyclophosphamide containing adjuvant breast chemotherapy regimens.
 
 Lung Cancer
@@ -330,7 +329,7 @@ Table 8 - Treatment Emergent Adverse Reactions Regardless of Relationship to Tre
 | Any | 6 | 0 | 1 |
 | Grade 3/4 | 3 | 0 | 0 |
 | Fluid Retention |  |  |  |
-| Any | 34 | NDNot Done | 23 |
+| Any | 3 | NDNot Done | 23 |
 | Severe | 3 |  | 3 |
 | Neurosensory |  |  |  |
 | Any | 23 | 14 | 29 |
@@ -379,7 +378,7 @@ Combination therapy with docetaxel in chemotherapy-naïve advanced unresectable 
 Table 9 presents safety data from two arms of an open label, randomized controlled trial (TAX326) that enrolled patients with unresectable stage IIIB or IV non-small cell lung cancer and no history of prior chemotherapy.
 Adverse reactions were described using the NCI Common Toxicity Criteria except where otherwise noted.
 
-Table 9 - Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy - Naïve Advanced Non-Small Cell Lung Cancer Patients Receiving Docetaxel in Combination with Cisplatin
+Table 9 - Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy- Naïve Advanced Non-Small Cell Lung Cancer Patients Receiving Docetaxel in Combination with Cisplatin
 
 | Adverse Reaction | Docetaxel 75 mg/m2 + Cisplatin 75 mg/m2 n=406 % | Vinorelbine 25 mg/m2 + Cisplatin 100 mg/m2 n=396 % |
 | --- | --- | --- |
@@ -398,10 +397,10 @@ Table 9 - Adverse Reactions Regardless of Relationship to Treatment in Chemother
 | Grade 3/4 | 8 | 8 |
 | Fever in absence of infection |  |  |
 | Any | 33 | 29 |
-| Grade 3/4 | <1 | 1 |
+| Grade 3/4 | < 1 | 1 |
 | Hypersensitivity ReactionReplaces NCI term "Allergy" |  |  |
 | Any | 12 | 4 |
-| Grade 3/4 | 3 | <1 |
+| Grade 3/4 | 3 | < 1 |
 | Fluid RetentionCOSTART term and grading system |  |  |
 | Any | 54 | 42 |
 | All severe or life-threatening events | 2 | 2 |
@@ -500,7 +499,7 @@ Gastric Cancer
 
 Combination therapy with docetaxel in gastric adenocarcinoma
 
-Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease, who were treated with docetaxel 75 mg/m2 in combination with cisplatin and fluorouracil (see table11).
+Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease, who were treated with docetaxel 75 mg/m2 in combination with cisplatin and fluorouracil (see Table 11).
 
 Table 11 - Clinically Important Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in the Gastric Cancer Study
 
@@ -551,7 +550,7 @@ Table 12 – Clinically Important Treatment Emergent Adverse Reactions (Regardle
 | Adverse Reaction (by Body System) | Any % | Grade 3/4 % | Any % | Grade 3/4 % | Any % | Grade 3/4 % | Any % | Grade 3/4 % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | TAX323 (n=355) |  |  |  | TAX324 (n=494) |  |  |  |
-| Docetaxel (n=174) |  | Comparator arm (n=181) |  | Docetaxel arm (n=251) |  | Comparator arm (n=243) |  |  |
+| Docetaxel arm (n=174) |  | Comparator arm (n=181) |  | Docetaxel arm (n=251) |  | Comparator arm (n=243) |  |  |
 | Neutropenia | 93 | 76 | 87 | 53 | 95 | 84 | 84 | 56 |
 | Anemia | 89 | 9 | 88 | 14 | 90 | 12 | 86 | 10 |
 | Thrombocytopenia | 24 | 5 | 47 | 18 | 28 | 4 | 31 | 11 |

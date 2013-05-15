@@ -8,7 +8,7 @@ Docetaxel Injection in combination with doxorubicin and cyclophosphamide is indi
 
 ## 1.2 Non-Small Cell Lung Cancer
 
-Docetaxel Injection as a single agent is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior platinum-based chemotherapy.
+Docetaxel Injection as a single agent is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior platinum based chemotherapy.
 
 Docetaxel Injection in combination with cisplatin is indicated for the treatment of patients with unresectable, locally advanced or metastatic non-small cell lung cancer who have not previously received chemotherapy for this condition.
 

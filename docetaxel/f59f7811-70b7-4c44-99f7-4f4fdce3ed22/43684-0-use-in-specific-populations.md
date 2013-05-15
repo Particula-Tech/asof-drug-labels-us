@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see 'Warnings and Precautions' section]
+Pregnancy Category D. [see 'Warnings and Precautions' section]
 
 Based on its mechanism of action and findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
 If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -29,7 +29,7 @@ Non-Small Cell Lung Cancer
 
 In a study conducted in chemotherapy-naïve patients with NSCLC (TAX326), 148 patients (36%) in the docetaxel+cisplatin group were 65 years of age or greater.
 There were 128 patients (32%) in the vinorelbine+cisplatin group 65 years of age or greater.
-In the docetaxel+cisplatin group, patients < 65 years of age had a median survival of 10.3 months (95% CI: 9.1 months, 11.8 3 months) and patients 65 years or older had a median survival of 12.1 months (95% CI: 9.3 months, 14 months).
+In the docetaxel+cisplatin group, patients < 65 years of age had a median survival of 10.3 months (95% CI: 9.1 months, 11.8 months) and patients 65 years or older had a median survival of 12.1 months (95% CI: 9.3 months, 14 months).
 In patients 65 years of age or greater treated with docetaxel+cisplatin, diarrhea (55%), peripheral edema (39%) and stomatitis (28%) were observed more frequently than in the vinorelbine+cisplatin group (diarrhea 24%, peripheral edema 20%, stomatitis 20%).
 Patients treated with docetaxel+cisplatin who were 65 years of age or greater were more likely to experience diarrhea (55%), infections (42%), peripheral edema (39%) and stomatitis (28%) compared to patients < the age of 65 administered the same treatment (43%, 31%, 31% and 21%, respectively).
 
@@ -63,5 +63,5 @@ Other reported clinical experience with this treatment regimen has not identifie
 ## 8.6 Hepatic Impairment
 
 Patients with bilirubin >ULN should not receive Docetaxel Injection.
-Also, patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN should not receive Docetaxel Injection.
+Also, patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN should not receive Docetaxel Injection.
 [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].

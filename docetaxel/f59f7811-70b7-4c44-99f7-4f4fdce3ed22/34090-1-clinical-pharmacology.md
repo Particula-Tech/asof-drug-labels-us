@@ -5,17 +5,17 @@
 Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions.
 Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly.
 This leads to the production of microtubule bundles without normal function and to the stabilization of microtubules, which results in the inhibition of mitosis in cells.
-Docetaxel's binding to microtubules does not alter the number of protofilaments in the bound microtubules, a feature which differs from most spindle poisons currently in clinical use.
+Docetaxel’s binding to microtubules does not alter the number of protofilaments in the bound microtubules, a feature which differs from most spindle poisons currently in clinical use.
 
 ## 12.3 Human Pharmacokinetics
 
 Absorption: The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
 The area under the curve (AUC) was dose proportional following doses of 70 mg/m2 to 115 mg/m2 with infusion times of 1 to 2 hours.
 Docetaxel's pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hr, respectively.
-Mean total body clearance was 21 L/h/m2.
+Mean total body clearance was 21 L/h/m2
 
 Distribution: The initial rapid decline represents distribution to the peripheral compartments and the late (terminal) phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
-Mean steady state volume of distribution was 113 L. In vitro studies showed that docetaxel is about 94% protein bound, mainly to α1-acid glycoprotein, albumin, and lipoproteins.
+Mean steady state volume of distribution was 113 L. In vitro studies showed that docetaxel is about 94% protein bound, mainly to α1 -acid glycoprotein, albumin, and lipoproteins.
 In three cancer patients, the in vitro binding to plasma proteins was found to be approximately 97%.
 Dexamethasone does not affect the protein binding of docetaxel.
 
@@ -42,7 +42,7 @@ Effect of Race: Mean total body clearance for Japanese patients dosed at the ran
 
 Effect of Ketoconazole: The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
 Patients were randomized to receive either docetaxel (100 mg/m2 intravenous) alone or docetaxel (10 mg/m2 intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
-The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7) and Drug-Drug Interactions (7)].
+The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7) and Drug-Drug Interactions (7)]
 
 Effect of Combination Therapies:
 
