@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA202890"
+  ],
+  "inn": "zolmitriptan",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-715-01",
+    "68382-715-06",
+    "68382-715-10",
+    "68382-715-16",
+    "68382-715-30",
+    "68382-715-69",
+    "68382-715-77",
+    "68382-715-86",
+    "68382-717-01",
+    "68382-717-06",
+    "68382-717-10",
+    "68382-717-16",
+    "68382-717-30",
+    "68382-717-77",
+    "68382-717-82",
+    "68382-717-87"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "zolmitriptan",
+      "name": "Zolmitriptan"
+    }
+  ],
+  "setid": "7fc95729-2f5d-4d5c-b26c-3a13854f73e3",
+  "source": "dailymed"
+}
