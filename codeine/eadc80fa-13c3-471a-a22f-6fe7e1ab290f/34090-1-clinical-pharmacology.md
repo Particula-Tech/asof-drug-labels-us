@@ -2,11 +2,11 @@
 
 This product combines the analgesic effects of a centrally acting analgesic, codeine, with a peripherally acting analgesic, acetaminophen.
 
-## Pharmacokinetics
+Pharmacokinetics
 
 The behavior of the individual components is described below.
 
-Codeine – Codeine is readily absorbed from the gastrointestinal tract.
+Codeine – Codeine is rapidly absorbed from the gastrointestinal tract.
 It is rapidly distributed from the intravascular spaces to the various body tissues, with preferential uptake by parenchymatous organs such as the liver, spleen and kidney.
 Codeine crosses the blood-brain barrier, and is found in fetal tissue and breast milk.
 The plasma concentration does not correlate with brain concentration or relief of pain; however, codeine is not bound to plasma proteins and does not accumulate in body tissues.
@@ -18,11 +18,7 @@ The remainder of the dose is excreted in the feces.
 
 At therapeutic doses, the analgesic effect reaches a peak within 2 hours and persists between 4 and 6 hours.
 
-See OVERDOSAGE for toxicity information.
-
 Acetaminophen – Acetaminophen is rapidly absorbed from the gastrointestinal tract and is distributed throughout most body tissues.
 The plasma half-life is 1.25 to 3 hours, but may be increased by liver damage and following overdosage.
 Elimination of acetaminophen is principally by liver metabolism (conjugation) and subsequent renal excretion of metabolites.
 Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug.
-
-See OVERDOSAGE for toxicity information.

@@ -2,14 +2,12 @@
 
 Dosage should be adjusted according to severity of pain and response of the patient.
 
-The usual adult dosage for tablets is:
+The usual adult dosage is:
 
-|  | Single Doses (Range) | Maximum 24 Hour Dose |
+|  | Single Doses (Range) | Maximum 24-Hour Dose |
 | --- | --- | --- |
 | Codeine Phosphate | 15 mg to 60 mg | 360 mg |
 | Acetaminophen | 300 mg to 1000 mg | 4000 mg |
-
-The usual dose of codeine phosphate in children is 0.5 mg/kg.
 
 Doses may be repeated up to every 4 hours.
 
