@@ -4,8 +4,8 @@
 
 Actonel has an affinity for hydroxyapatite crystals in bone and acts as an antiresorptive agent.
 At the cellular level, Actonel inhibits osteoclasts.
-The osteoclasts adhere normally to the bone surface, but show evidence of reduced active resorption (e.g., lack of ruffled border).
-Histomorphometry in rats, dogs, and minipigs showed that Actonel treatment reduces bone turnover (activation frequency, i.e., the rate at which bone remodeling sites are activated) and bone resorption at remodeling sites.
+The osteoclasts adhere normally to the bone surface, but show evidence of reduced active resorption (for example, lack of ruffled border).
+Histomorphometry in rats, dogs, and minipigs showed that Actonel treatment reduces bone turnover (activation frequency, that is, the rate at which bone remodeling sites are activated) and bone resorption at remodeling sites.
 
 ## 12.2 Pharmacodynamics
 
@@ -42,7 +42,7 @@ In pagetic patients treated with Actonel 30 mg daily for 2 months, bone turnover
 
 Absorption
 
-Based on simultaneous modeling of serum and urine data, peak absorption after an oral dose is achieved at ~ 1 hour (Tmax) and occurs throughout the upper gastrointestinal tract.
+Based on simultaneous modeling of serum and urine data, peak absorption after an oral dose is achieved at approximately 1 hour (Tmax) and occurs throughout the upper gastrointestinal tract.
 The fraction of the dose absorbed is independent of dose over the range studied (single dose, from 2.5 mg to 30 mg; multiple dose, from 2.5 mg to 5 mg).
 Steady-state conditions in the serum are observed within 57 days of daily dosing.
 Mean absolute oral bioavailability of the 30 mg tablet is 0.63% (90% CI: 0.54% to 0.75%) and is comparable to a solution.
@@ -76,23 +76,23 @@ In osteopenic postmenopausal women, the terminal exponential half-life was 561 h
 
 Specific Populations
 
-Pediatric: Actonel is not indicated for use in pediatric patients (see Pediatric Use [8.4]).
+Pediatric: Actonel is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
 
 Gender: Bioavailability and pharmacokinetics following oral administration are similar in men and women.
 
-Geriatric: Bioavailability and disposition are similar in elderly (>60 years of age) and younger subjects.
+Geriatric: Bioavailability and disposition are similar in elderly (greater than 60 years of age) and younger subjects.
 No dosage adjustment is necessary.
 
 Race: Pharmacokinetic differences due to race have not been studied.
 
 Renal Impairment: Risedronate is excreted unchanged primarily via the kidney.
 As compared to persons with normal renal function, the renal clearance of risedronate was decreased by about 70% in patients with creatinine clearance of approximately 30 mL/min.
-Actonel is not recommended for use in patients with severe renal impairment (creatinine clearance <30 mL/min) because of lack of clinical experience.
-No dosage adjustment is necessary in patients with a creatinine clearance ≥30 mL/min.
+Actonel is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
+No dosage adjustment is necessary in patients with a creatinine clearance greater than or equal to 30 mL/min.
 
 Hepatic Impairment: No studies have been performed to assess risedronate’s safety or efficacy in patients with hepatic impairment.
 Risedronate is not metabolized in rat, dog, and human liver preparations.
-Insignificant amounts (<0.1% of intravenous dose) of drug are excreted in the bile in rats.
+Insignificant amounts (less than 0.1% of intravenous dose) of drug are excreted in the bile in rats.
 Therefore, dosage adjustment is unlikely to be needed in patients with hepatic impairment.
 
 Drug Interactions: No specific drug-drug interaction studies were performed.

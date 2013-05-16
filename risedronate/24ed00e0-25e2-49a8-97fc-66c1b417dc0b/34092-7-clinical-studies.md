@@ -7,11 +7,11 @@ The Multinational study (VERT MN) (Actonel 5 mg, N = 408) was conducted primaril
 Patients were selected on the basis of radiographic evidence of previous vertebral fracture, and therefore, had established disease.
 The average number of prevalent vertebral fractures per patient at study entry was 4 in VERT MN, and 2.5 in VERT NA, with a broad range of baseline BMD levels.
 All patients in these studies received supplemental calcium 1000 mg/day.
-Patients with low 25-hydroxyvitamin D3 levels (approximately 40 nmol/L or less) also received supplemental vitamin D 500 IU/day.
+Patients with low 25-hydroxyvitamin D3 levels (approximately 40 nmol/L or less) also received supplemental vitamin D 500 international units/day.
 
 Effect on Vertebral Fractures
 
-Fractures of previously undeformed vertebrae (new fractures) and worsening of pre-existing vertebral fractures were diagnosed radiographically; some of these fractures were also associated with symptoms (i.e., clinical fractures).
+Fractures of previously undeformed vertebrae (new fractures) and worsening of pre-existing vertebral fractures were diagnosed radiographically; some of these fractures were also associated with symptoms (that is, clinical fractures).
 Spinal radiographs were scheduled annually and prospectively planned analyses were based on the time to a patient’s first diagnosed fracture.
 The primary endpoint for these studies was the incidence of new and worsening vertebral fractures across the period of 0 to 3 years.
 Actonel 5 mg daily significantly reduced the incidence of new and worsening vertebral fractures and of new vertebral fractures in both VERT NA and VERT MN at all time points (Table 3).
@@ -64,9 +64,9 @@ Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking Actonel 5 
 |  | Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
 |  | Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3.0 | -0.6 | 2.5 | 1.3 | 4.0 |
 |  | Midshaft Radius | -1.5* | 0.2* | -1.2* | 0.1* | ND |  | ND |  |
-|  | a The endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used. |  |  |  |  |  |  |  |  |
-|  | b The duration of the studies was 3 years. |  |  |  |  |  |  |  |  |
-|  | c The duration of the studies was 1.5 to 2 years. |  |  |  |  |  |  |  |  |
+|  | aThe endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used. |  |  |  |  |  |  |  |  |
+|  | bThe duration of the studies was 3 years. |  |  |  |  |  |  |  |  |
+|  | cThe duration of the studies was 1.5 to 2 years. |  |  |  |  |  |  |  |  |
 |  | * BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306). |  |  |  |  |  |  |  |  |
 |  | ND = analysis not done |  |  |  |  |  |  |  |  |
 
@@ -113,7 +113,7 @@ Actonel 5 mg daily was also effective in patients with lower baseline lumbar spi
 Bone mineral density at the distal radius decreased in both Actonel and placebo-treated women following 1 year of treatment.
 
 The safety and effectiveness of Actonel 35 mg once-a-week for the prevention postmenopausal osteoporosis were demonstrated in a 1-year, double-blind, placebo-controlled study of 278 patients (Actonel 35 mg, N = 136).
-All patients were supplemented with 1000 mg elemental calcium and 400 IU vitamin D per day.
+All patients were supplemented with 1000 mg elemental calcium and 400 international units vitamin D per day.
 The primary efficacy measure was the percent change in lumbar spine BMD from baseline after 1 year of treatment using LOCF (last observation carried forward).
 Actonel 35 mg once-a-week resulted in a statistically significant mean difference from placebo in lumbar spine BMD of +2.9% (least square mean for placebo -1.05%; risedronate +1.83%).
 Actonel 35 mg once-a-week also showed a statistically significant mean difference from placebo in BMD at the total proximal femur of +1.5% (placebo -0.53%; risedronate +1.01%), femoral neck of +1.2% (placebo -1.00%; risedronate +0.22%), and trochanter of +1.8% (placebo -0.74%; risedronate +1.07%).
@@ -137,25 +137,25 @@ Table 5 Percent Change from Baseline in BMD After 1 Year of Treatment
 Histology/Histomorphometry
 
 Bone biopsies from 53 postmenopausal women were obtained at endpoint.
-Patients had received Actonel 5 mg plus estrogen or estrogen alone once daily for 1 year.
+Patients had received Actonel 5 mg plus estrogen or estrogen-alone once daily for 1 year.
 Histologic evaluation (N = 47) demonstrated that the bone of patients treated with Actonel plus estrogen was of normal lamellar structure and normal mineralization.
-The histomorphometric parameter mineralizing surface, a measure of bone turnover, was assessed based upon baseline and post-treatment biopsy samples from 12 patients treated with Actonel plus estrogen and 12 treated with estrogen alone.
-Mineralizing surface decreased in both treatment groups (median percent change: Actonel plus estrogen, -79%; estrogen alone, -50%), consistent with the known effects of these agents on bone turnover.
+The histomorphometric parameter mineralizing surface, a measure of bone turnover, was assessed based upon baseline and post-treatment biopsy samples from 12 patients treated with Actonel plus estrogen and 12 treated with estrogen-alone.
+Mineralizing surface decreased in both treatment groups (median percent change: Actonel plus estrogen, -79%; estrogen-alone, -50%), consistent with the known effects of these agents on bone turnover.
 
 ## 14.3 Men with Osteoporosis
 
 The effects of Actonel 35 mg once-a-week on BMD were examined in a 2-year, double-blind, placebo-controlled, multinational study in 285 men with osteoporosis (Actonel, N = 192).
-The patients had a mean age of 60.6 years (range 36 to 84 years) and 95% were Caucasian.
+The patients had a mean age of 61 years (range 36 to 84 years) and 95% were Caucasian.
 At baseline, mean lumbar spine T-score was -3.2 and mean femoral neck T-score was -2.4.
-All patients in the study had either, 1) a BMD T-score ≤-2 at the femoral neck and ≤-1 at the lumbar spine, or 2) a BMD T-score ≤-1 at the femoral neck and ≤-2.5 at the lumbar spine.
-All patients were supplemented with calcium 1000 mg/day and vitamin D 400 to 500 IU/day.
+All patients in the study had either, 1) a BMD T-score less than or equal to -2 at the femoral neck and less than or equal to -1 at the lumbar spine, or 2) a BMD T-score less than or equal to -1 at the femoral neck and less than or equal to -2.5 at the lumbar spine.
+All patients were supplemented with calcium 1000 mg/day and vitamin D 400 to 500 international units/day.
 Actonel 35 mg once-a-week produced significant mean increases in BMD at the lumbar spine, femoral neck, trochanter, and total hip compared to placebo after 2 years of treatment (treatment difference: lumbar spine, 4.5%; femoral neck, 1.1%; trochanter, 2.2%; total proximal femur, 1.5%).
 
 ## 14.4 Glucocorticoid-Induced Osteoporosis
 
 Bone Mineral Density
 
-Two 1-year, double-blind, placebo-controlled trials in patients who were taking ≥7.5 mg/day of prednisone or equivalent demonstrated that Actonel 5 mg daily was effective in the prevention and treatment of glucocorticoid-induced osteoporosis in men and women who were either initiating or continuing glucocorticoid therapy.
+Two 1-year, double-blind, placebo-controlled trials in patients who were taking greater than or equal to 7.5 mg/day of prednisone or equivalent demonstrated that Actonel 5 mg daily was effective in the prevention and treatment of glucocorticoid-induced osteoporosis in men and women who were either initiating or continuing glucocorticoid therapy.
 The efficacy of Actonel therapy for glucocorticoid-induced osteoporosis beyond one year has not been studied.
 
 The prevention study enrolled 228 patients (Actonel 5 mg, N = 76) (18 to 85 years of age), each of whom had initiated glucocorticoid therapy (mean daily dose of prednisone 21 mg) within the previous 3 months (mean duration of use prior to study 1.8 months) for rheumatic, skin, and pulmonary diseases.
@@ -167,18 +167,18 @@ The treatment differences increased with continued treatment.
 Although BMD increased at the distal radius in the Actonel 5 mg group compared to the placebo group, the difference was not statistically significant.
 The differences between placebo and Actonel 5 mg after 1 year were 3.8% at the lumbar spine, 4.1% at the femoral neck, and 4.6% at the trochanter, as shown in Figure 3.
 The results at these skeletal sites were similar to the overall results when the subgroups of men and postmenopausal women, but not premenopausal women, were analyzed separately.
-Actonel was effective at the lumbar spine, femoral neck, and trochanter regardless of age (<65 vs. ≥65), gender, prior and concomitant glucocorticoid dose, or baseline BMD.
+Actonel was effective at the lumbar spine, femoral neck, and trochanter regardless of age (less than 65 vs. greater than or equal to 65), gender, prior and concomitant glucocorticoid dose, or baseline BMD.
 Positive treatment effects were also observed in patients taking glucocorticoids for a broad range of rheumatologic disorders, the most common of which were rheumatoid arthritis, temporal arteritis, and polymyalgia rheumatica.
 
-The treatment study of similar design enrolled 290 patients (Actonel 5 mg, N = 100) (19 to 85 years of age) with continuing, long-term (≥6 months) use of glucocorticoids (mean duration of use prior to study 60 months; mean daily dose of prednisone 15 mg) for rheumatic, skin, and pulmonary diseases.
+The treatment study of similar design enrolled 290 patients (Actonel 5 mg, N = 100) (19 to 85 years of age) with continuing, long-term (greater than or equal to 6 months) use of glucocorticoids (mean duration of use prior to study 60 months; mean daily dose of prednisone 15 mg) for rheumatic, skin, and pulmonary diseases.
 The baseline mean lumbar spine BMD was low (1.63 SD below the young healthy population mean), with 28% of the patients more than 2.5 SD below the mean.
-All patients in this study received supplemental calcium 1000 mg/day and vitamin D 400 IU/day.
+All patients in this study received supplemental calcium 1000 mg/day and vitamin D 400 international units/day.
 
-After 1 year of treatment, the BMD of the placebo group was within ±1% of baseline levels at the lumbar spine, femoral neck, and trochanter.
+After 1 year of treatment, the BMD of the placebo group was within 1% of baseline levels at the lumbar spine, femoral neck, and trochanter.
 Actonel 5 mg increased BMD at the lumbar spine (2.9%), femoral neck (1.8%), and trochanter (2.4%).
 The differences between Actonel and placebo were 2.7% at the lumbar spine, 1.9% at the femoral neck, and 1.6% at the trochanter as shown in Figure 4.
 The differences were statistically significant for the lumbar spine and femoral neck, but not at the femoral trochanter.
-Actonel was similarly effective on lumbar spine BMD regardless of age (<65 vs. ≥65), gender, or pre-study glucocorticoid dose.
+Actonel was similarly effective on lumbar spine BMD regardless of age (less than 65 vs. greater than or equal to 65), gender, or pre-study glucocorticoid dose.
 Positive treatment effects were also observed in patients taking glucocorticoids for a broad range of rheumatologic disorders, the most common of which were rheumatoid arthritis, temporal arteritis, and polymyalgia rheumatica.
 
 Vertebral Fractures
@@ -186,7 +186,7 @@ Vertebral Fractures
 In the prevention study of patients initiating glucocorticoids, the incidence of vertebral fractures at 1 year was reduced from 17% in the placebo group to 6% in the Actonel group.
 In the treatment study of patients continuing glucocorticoids, the incidence of vertebral fractures was reduced from 15% in the placebo group to 5% in the Actonel group (Figure 5).
 The statistically significant reduction in vertebral fracture incidence in the analysis of the combined studies corresponded to an absolute risk reduction of 11% and a relative risk reduction of 70%.
-All vertebral fractures were diagnosed radiographically; some of these fractures also were associated with symptoms (i.e., clinical fractures).
+All vertebral fractures were diagnosed radiographically; some of these fractures also were associated with symptoms (that is, clinical fractures).
 
 Histology/Histomorphometry
 
@@ -200,12 +200,12 @@ Only a small number of placebo-treated patients had both baseline and post-treat
 ## 14.5 Treatment of Paget’s Disease
 
 The efficacy of Actonel was demonstrated in 2 clinical studies involving 120 men and 65 women.
-In a double-blind, active-controlled study of patients with moderate-to-severe Paget’s disease (serum alkaline phosphatase levels of at least 2 times the upper limit of normal), patients were treated with Actonel 30 mg daily for 2 months or Didronel® (etidronate disodium) 400 mg daily for 6 months.
-At Day 180, 77% (43/56) of Actonel-treated patients achieved normalization of serum alkaline phosphatase levels, compared to 10.5% (6/57) of patients treated with Didronel (p<0.001).
+In a double-blind, active-controlled study of patients with moderate-to-severe Paget’s disease (serum alkaline phosphatase levels of at least 2 times the upper limit of normal), patients were treated with Actonel 30 mg daily for 2 months or Didronel (etidronate disodium) 400 mg daily for 6 months.
+At Day 180, 77% (43/56) of Actonel-treated patients achieved normalization of serum alkaline phosphatase levels, compared to 10.5% (6/57) of patients treated with Didronel (p less than 0.001).
 At Day 540, 16 months after discontinuation of therapy, 53% (17/32) of Actonel-treated patients and 14% (4/29) of Didronel-treated patients with available data remained in biochemical remission.
 
-During the first 180 days of the active-controlled study, 85% (51/60) of Actonel-treated patients demonstrated a ≥75% reduction from baseline in serum alkaline phosphatase excess (difference between measured level and midpoint of the normal range) with 2 months of treatment compared to 20% (12/60) in the Didronel-treated group with 6 months of treatment (p<0.001).
-Changes in serum alkaline phosphatase excess over time (shown in Figure 6) were significant following only 30 days of treatment, with a 36% reduction in serum alkaline phosphatase excess at that time compared to only a 6% reduction seen with Didronel treatment at the same time point (p<0.01).
+During the first 180 days of the active-controlled study, 85% (51/60) of Actonel-treated patients demonstrated a greater than or equal to 75% reduction from baseline in serum alkaline phosphatase excess (difference between measured level and midpoint of the normal range) with 2 months of treatment compared to 20% (12/60) in the Didronel-treated group with 6 months of treatment (p less than 0.001).
+Changes in serum alkaline phosphatase excess over time (shown in Figure 6) were significant following only 30 days of treatment, with a 36% reduction in serum alkaline phosphatase excess at that time compared to only a 6% reduction seen with Didronel treatment at the same time point (p less than 0.01).
 
 Response to Actonel therapy was similar in patients with mild to very severe Paget’s disease.
 Table 6 shows the mean percent reduction from baseline at Day 180 in excess serum alkaline phosphatase in patients with mild, moderate, or severe disease.
@@ -215,9 +215,9 @@ Table 6 Mean Percent Reduction from Baseline at Day 180 in Total Serum Alkaline 
 | Subgroup: Baseline Disease Severity (AP) | n | Baseline Serum AP (U/L)* | Mean % Reduction | n | Baseline Serum AP (U/L)* | Mean % Reduction |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Actonel 30 mg |  |  | Didronel 400 mg |  |  |
-| >2, <3x ULN | 32 | 271.6 ± 5.3 | -88.1 | 22 | 277.9 ± 7.45 | -44.6 |
-| ≥3, <7x ULN | 14 | 475.3 ± 28.8 | -87.5 | 25 | 480.5 ± 26.44 | -35.0 |
-| ≥7x ULN | 8 | 1336.5 ± 134.19 | -81.8 | 6 | 1331.5 ± 167.58 | -47.2 |
+| greater than 2, less than 3x ULN | 32 | 271.6 ± 5.3 | -88.1 | 22 | 277.9 ± 7.45 | -44.6 |
+| greater than or equal to 3, less than 7x ULN | 14 | 475.3 ± 28.8 | -87.5 | 25 | 480.5 ± 26.44 | -35.0 |
+| greater than or equal to 7x ULN | 8 | 1336.5 ± 134.19 | -81.8 | 6 | 1331.5 ± 167.58 | -47.2 |
 | *Values shown are mean ± SEM; ULN = upper limit of normal. |  |  |  |  |  |  |
 
 Response to Actonel therapy was similar between patients who had previously received anti-pagetic therapy and those who had not.

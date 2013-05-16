@@ -13,7 +13,7 @@ There were no significant drug-induced tumor findings in male or female mice.
 Mutagenesis
 
 Risedronate did not exhibit genetic toxicity in the following assays: In vitro bacterial mutagenesis in Salmonella and E. coli (Ames assay), mammalian cell mutagenesis in CHO/HGPRT assay, unscheduled DNA synthesis in rat hepatocytes and an assessment of chromosomal aberrations in vivo in rat bone marrow.
-Risedronate was positive in a chromosomal aberration assay in CHO cells at highly cytotoxic concentrations (>675 mcg/mL, survival of 6% to 7%).
+Risedronate was positive in a chromosomal aberration assay in CHO cells at highly cytotoxic concentrations (greater than 675 mcg/mL, survival of 6% to 7%).
 When the assay was repeated at doses exhibiting appropriate cell survival (29%), there was no evidence of chromosomal damage.
 
 Impairment of Fertility

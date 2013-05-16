@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
 No specific drug-drug interaction studies were performed.
-Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (e.g., Cytochrome P450).
+Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (for example, Cytochrome P450).
 
 ## 7.1 Calcium Supplements/Antacids
 

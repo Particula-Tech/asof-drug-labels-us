@@ -37,8 +37,8 @@ Because many drugs are excreted in human milk and because of the potential for s
 Actonel is not indicated for use in pediatric patients.
 
 The safety and effectiveness of risedronate was assessed in a one-year, randomized, double-blind, placebo controlled study of 143 pediatric patients (94 received risedronate) with osteogenesis imperfecta (OI).
-The enrolled population was predominantly patients with mild osteogenesis imperfecta (85% Type-I), aged 4 to <16 years, 50% male and 82% Caucasian, with a mean lumbar spine BMD Z-score of -2.08 (2.08 standard deviations below the mean for age-matched controls).
-Patients received either a 2.5 mg (≤30 kg body weight) or 5 mg (>30 kg body weight) daily oral dose.
+The enrolled population was predominantly patients with mild osteogenesis imperfecta (85% Type-I), aged 4 to less than 16 years, 50% male and 82% Caucasian, with a mean lumbar spine BMD Z-score of -2.08 (2.08 standard deviations below the mean for age-matched controls).
+Patients received either a 2.5 mg (less than or equal to 30 kg body weight) or 5 mg (greater than 30 kg body weight) daily oral dose.
 After one year, an increase in lumbar spine BMD in the risedronate group compared to the placebo group was observed.
 However, treatment with risedronate did not result in a reduction in the risk of fracture in pediatric patients with osteogenesis imperfecta.
 In Actonel-treated subjects, no mineralization defects were noted in paired bone biopsy specimens obtained at baseline and month 12.
@@ -46,7 +46,7 @@ In Actonel-treated subjects, no mineralization defects were noted in paired bone
 The overall safety profile of risedronate in OI patients treated for up to 12 months was generally similar to that of adults with osteoporosis.
 However, there was an increased incidence of vomiting compared to placebo.
 In this study, vomiting was observed in 15% of children treated with risedronate and 6% of patients treated with placebo.
-Other adverse events reported in ≥10% of patients treated with risedronate and with a higher frequency than placebo were: pain in the extremity (21% with risedronate versus 16% with placebo), headache (20% versus 8%), back pain (17% versus 10%), pain (15% versus 10%), upper abdominal pain (11% versus 8%), and bone pain (10% versus 4%).
+Other adverse events reported in greater than or equal to 10% of patients treated with risedronate and with a higher frequency than placebo were: pain in the extremity (21% with risedronate versus 16% with placebo), headache (20% versus 8%), back pain (17% versus 10%), pain (15% versus 10%), upper abdominal pain (11% versus 8%), and bone pain (10% versus 4%).
 
 ## 8.5 Geriatric Use
 
@@ -54,13 +54,13 @@ Of the patients receiving Actonel in postmenopausal osteoporosis studies [see Cl
 The corresponding proportions were 26% and 11% in glucocorticoid-induced osteoporosis trials, and 40% and 26% in Paget’s disease trials.
 No overall differences in efficacy between geriatric and younger patients were observed in these studies.
 In the male osteoporosis trial, 28% of patients receiving Actonel were between 65 and 75 years of age and 9% were over 75.
-The lumbar spine BMD response for Actonel compared to placebo was 5.6% for subjects <65 years and 2.9% for subjects ≥65 years.
+The lumbar spine BMD response for Actonel compared to placebo was 5.6% for subjects less than 65 years and 2.9% for subjects greater than or equal to 65 years.
 No overall differences in safety between geriatric and younger patients were observed in the Actonel trials, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
-Actonel is not recommended for use in patients with severe renal impairment (creatinine clearance <30 mL/min) because of lack of clinical experience.
-No dosage adjustment is necessary in patients with a creatinine clearance ≥30 mL/min.
+Actonel is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
+No dosage adjustment is necessary in patients with a creatinine clearance greater than or equal to 30 mL/min.
 
 ## 8.7 Hepatic Impairment
 

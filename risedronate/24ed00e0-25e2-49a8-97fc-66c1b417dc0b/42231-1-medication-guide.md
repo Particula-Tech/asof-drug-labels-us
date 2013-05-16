@@ -1,11 +1,11 @@
 # Medication Guide
 
-Medication Guide Actonel® (AK-toh-nel) (risedronate sodium) Tablets
+Actonel® (AK-toh-nel) (risedronate sodium) Tablets
 
 Read the Medication Guide that comes with Actonel® before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
-Talk to your doctor if you have any questions about Actonel.
+Talk to your doctor if you have any questions about Actonel, there may be new information about it.
 
 What is the most important information I should know about Actonel?
 
@@ -123,7 +123,7 @@ How should I take Actonel?
 - Take 1 Actonel tablet, after you get up for the day and before taking your first food, drink, or other medicine.
 - Take Actonel while you are sitting or standing.
 - Do not chew or suck on a tablet of Actonel.
-- Swallow Actonel tablet with a full glass (6 to 8 oz) of plain water only.
+- Swallow Actonel tablet with a full glass (6 to 8 ounces) of plain water only.
 - Do not take Actonel with mineral water, coffee, tea, soda, or juice.
 
 After swallowing Actonel tablet, wait at least 30 minutes:
@@ -157,7 +157,7 @@ The most common side effects of Actonel are:
 - stomach area (abdominal) pain
 - heartburn
 
-You may get allergic reactions, such as hives or, in rare cases, swelling of your face, lips, tongue, or throat.
+You may get allergic reactions, such as hives, swelling of your face, lips, tongue, or throat.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -200,7 +200,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Covered under one or more of U.S. Patent Nos. 5,583,122; 5,994,329; 6,015,801; 6,096,342; 6,165,513; 6,410,520; 6,432,932; 6,465,443; and 6,562,974.
 
-Manufactured by: Warner Chilcott Puerto Rico LLC, Manati, Puerto Rico 00674
+Manufactured by: Warner Chilcott Company, LLC Manati, Puerto Rico 00674
 
 or
 
@@ -212,4 +212,4 @@ Chinoin Pharmaceutical and Chemical Works Private Co. Ltd Veresegyhaz, Hungary
 
 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866 1-800-521-8813
 
-0472G125
+0472G129
