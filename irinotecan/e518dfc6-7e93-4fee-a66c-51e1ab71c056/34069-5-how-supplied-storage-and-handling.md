@@ -1,12 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CAMPTOSAR is available in single-dose brown glass vials in the following package sizes:
+CAMPTOSAR Injection is available in single-dose brown glass vials in the following package sizes:
 
 |  | 2 mL | NDC 0009-7529-02 |
 | --- | --- | --- |
 |  | 5 mL | NDC 0009-7529-01 |
 
-CAMPTOSAR is available in single-dose amber colored polypropylene CYTOSAFE® vials in the following package sizes:
+CAMPTOSAR Injection is available in single-dose amber colored polypropylene CYTOSAFE® vials in the following package sizes:
 
 |  | 2 mL | NDC 0009-7529-04 |
 | --- | --- | --- |

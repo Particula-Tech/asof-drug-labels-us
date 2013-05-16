@@ -83,7 +83,7 @@ If IPD is diagnosed, irinotecan and other chemotherapy should be discontinued an
 
 ## 5.7 Toxicity of the 5 Day Regimen
 
-Outside of a well-designed clinical study, CAMPTOSAR should not be used in combination with a regimen of 5-FU/LV administered for 4–5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths.
+Outside of a well-designed clinical study, CAMPTOSAR Injection should not be used in combination with a regimen of 5-FU/LV administered for 4–5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths.
 CAMPTOSAR should be used as recommended in Table 2 [see Dosage and Administration (2)].
 
 ## 5.8 Increased Toxicity in Patients with Performance Status 2

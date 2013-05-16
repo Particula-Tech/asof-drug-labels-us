@@ -28,10 +28,6 @@ Patients should discontinue ketoconazole at least 1 week prior to starting irino
 Coadministration of atazanavir sulfate, a CYP3A4 and UGT1A1 inhibitor has the potential to increase systemic exposure to SN-38, the active metabolite of irinotecan.
 Physicians should take this into consideration when co-administering these drugs.
 
-## 7.5 Bevacizumab
-
-Results from a dedicated drug-drug interaction trial demonstrated no significant effect of bevacizumab on the pharmacokinetics of irinotecan and its active metabolite SN-38.
-
-## 7.6 Drug-Laboratory Test Interactions
+## 7.5 Drug-Laboratory Test Interactions
 
 There are no known interactions between CAMPTOSAR and laboratory tests.
