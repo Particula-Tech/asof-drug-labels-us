@@ -16,7 +16,7 @@ Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate an
 | BODY AS A WHOLE |  |  |
 | Abdominal Pain | 4.6% | 4.4% |
 | Back Pain | 3.4% | 2.5% |
-| Headache |  |  |
+| Headache | 3.2 % | 2.7 % |
 | DIGESTIVE |  |  |
 | Nausea | 2.3% | 1.9% |
 | Constipation | 2.1% | 1.4% |

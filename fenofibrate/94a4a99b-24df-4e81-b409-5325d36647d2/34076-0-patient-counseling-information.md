@@ -13,11 +13,13 @@ Patients should be advised:
 - to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
 - to return to their physician’s office for routine monitoring.
 
-Distributed by: Shionogi Inc.
+Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
-Florham Park, NJ 07932
+Manufactured by: Aenova France SAS, 38291 Saint-Quentin-Fallavier, France
 
-TRI-PI-02
+Made in France
+
+TRI-PI-03
 
 Rev.
 01/2013
