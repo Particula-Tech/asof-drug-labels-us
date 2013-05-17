@@ -24,4 +24,9 @@ Complex absence is the term used when other signs are also present.
 
 Depakote ER is indicated for prophylaxis of migraine headaches.
 There is no evidence that Depakote ER is useful in the acute treatment of migraine headaches.
-Because it may be a hazard to the fetus, Depakote ER should be considered for women of childbearing potential only after this risk has been thoroughly discussed with the patient and weighed against the potential benefits of treatment [see Warnings and Precautions (5.2) and Patient Counseling Information (17.3)].
+
+## 1.4 Important Limitations
+
+Because of the risk to the fetus of decreased IQ, neural tube defects, and other major congenital malformations, which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition [see Warnings and Precautions (5.2, 5.3, 5.4), Use in Specific Populations (8.1), and Patient Counseling Information (17.3)].
+
+Depakote ER is contraindicated for prophylaxis of migraine headaches in women who are pregnant.

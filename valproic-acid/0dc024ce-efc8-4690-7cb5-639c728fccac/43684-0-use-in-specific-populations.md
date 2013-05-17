@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category D [see Warnings and Precautions (5.3)].
+Pregnancy Category D for epilepsy and for manic episodes associated with bipolar disorder [see Warnings and Precautions (5.2, 5.3)].
+
+Pregnancy Category X for prophylaxis of migraine headaches [see Contraindications (4)].
 
 Pregnancy Registry
 
@@ -15,24 +17,34 @@ Fetal Risk Summary
 All pregnancies have a background risk of birth defects (about 3%), pregnancy loss (about 15%), or other adverse outcomes regardless of drug exposure.
 Maternal valproate use during pregnancy for any indication increases the risk of congenital malformations, particularly neural tube defects, but also malformations involving other body systems (e.g., craniofacial defects, cardiovascular malformations).
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
-The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies.
+The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.3)].
 
-Several published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero[see Warnings and Precautions (5.3)].
+Exposure in utero to valproate products has been associated with cerebral atrophy [see Warnings and Precautions (5.7) and Adverse Reactions (6.4)].
 
-In animal studies, offspring had structural malformations similar to those seen in humans and demonstrated behavioral deficits.
+Several published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero[see Warnings and Precautions (5.3)].
+
+In animal studies, offspring with prenatal exposure to valproate had structural malformations similar to those seen in humans and demonstrated neurobehavioral deficits.
 
 Clinical Considerations
 
 - Neural tube defects are the congenital malformation most strongly associated with maternal valproate use.
   The risk of spina bifida following in utero valproate exposure is generally estimated as 1-2%, compared to an estimated general population risk for spina bifida of about 0.06 to 0.07% (6 to 7 in 10,000 births).
-- To prevent major seizures, women with epilepsy should not discontinue Depakote ER abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
+- Valproate can cause decreased IQ scores in children whose mothers were treated with valproate during pregnancy.
+- Because of the risks of decreased IQ, neural tube defects, and other fetal adverse events, which may occur very early in pregnancy:
+  - Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
+    This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
+  - Valproate is contraindicated during pregnancy in women being treated for prophylaxis of migraine headaches.
+  - Valproate should not be used to treat women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
+    In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
+    When treating a pregnant woman or a woman of childbearing potential, carefully consider both the potential risks and benefits of treatment and provide appropriate counseling.
+- To prevent major seizures, women with epilepsy should not discontinue valproate abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
   Even minor seizures may pose some hazard to the developing embryo or fetus.
   However, discontinuation of the drug may be considered prior to and during pregnancy in individual cases if the seizure disorder severity and frequency do not pose a serious threat to the patient.
 - Available prenatal diagnostic testing to detect neural tube and other defects should be offered to pregnant women using valproate.
 - Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
-  It is not known whether the risk of neural tube defects in the offspring of women receiving valproate is reduced by folic acid supplementation.
+  It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
   Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
-- Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.7)].
+- Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.9)].
   A patient who had low fibrinogen when taking multiple anticonvulsants including valproate gave birth to an infant with afibrinogenemia who subsequently died of hemorrhage.
   If valproate is used in pregnancy, the clotting parameters should be monitored carefully.
 - Patients taking valproate may develop hepatic failure [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -53,14 +65,14 @@ The NAAED Pregnancy Registry has reported a major malformation rate of 10.7% (95
 The major malformation rate among the internal comparison group of 1,048 epileptic women who received any other antiepileptic drug monotherapy during pregnancy was 2.9% (95% CI 2.0% to 4.1%).
 These data show a four-fold increased risk for any major malformation (Odds Ratio 4.0; 95% CI 2.1 to 7.4) following valproate exposure in utero compared to the risk following exposure in utero to any other antiepileptic drug monotherapy.
 
-Several published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero.
-The largest of these studies is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate had lower Differential Ability Scale (D.A.S.) scores at age 3 (92 [95% C.I.
-88-97]) than children with prenatal exposure to the other anti-epileptic drug monotherapy treatments evaluated: lamotrigine (101 [95% C.I.
-98-104]), carbamazepine (98 [95% C.I.
-95-102]) and phenytoin (99 [95% C.I.
-94-104]).
-The D.A.S., which has a mean score of 100 (SD = 15), is a battery of cognitive tests designed for children ages 2.5 to 17 years.
-The D.A.S. is a measure of neurobehavioral development performed when children are too young to undergo IQ testing and generally correlates with IQ scores later in childhood.
+Published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero.
+The largest of these studies is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
+94-101]) than children with prenatal exposure to the other anti-epileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
+105–110]), carbamazepine (105 [95% C.I.
+102–108]) and phenytoin (108 [95% C.I.
+104–112]).
+It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
+Because the women in this study were exposed to antiepileptic drugs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed.
 
 Although all of the available studies have methodological limitations, the weight of the evidence supports a causal association between valproate exposure in utero and subsequent adverse effects on cognitive development.
 
@@ -107,7 +119,7 @@ One twelve-month study was conducted to evaluate the safety of Depakote Sprinkle
 
 In these seven clinical trials, the safety and tolerability of Depakote in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
 
-Nonclinical Developmental Toxicology
+Juvenile Animal Toxicology
 
 In studies of valproate in immature animals, toxic effects not observed in adult animals included retinal dysplasia in rats treated during the neonatal period (from postnatal day 4) and nephrotoxicity in rats treated during the neonatal and juvenile (from postnatal day 14) periods.
 The no-effect dose for these findings was less than the maximum recommended human dose on a mg/m2 basis.
@@ -120,7 +132,7 @@ A higher percentage of patients above 65 years of age reported accidental injury
 Discontinuation of valproate was occasionally associated with the latter two events.
 It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
 
-A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.13)].
+A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.15)].
 The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see Dosage and Administration (2.5)].
 
 There is insufficient information available to discern the safety and effectiveness of valproate for the prophylaxis of migraines in patients over 65.
