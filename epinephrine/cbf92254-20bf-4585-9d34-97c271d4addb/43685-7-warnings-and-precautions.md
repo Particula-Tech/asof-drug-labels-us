@@ -28,7 +28,7 @@ In the latter category are oxygen, chlorine, bromine, iodine, permanganates, chr
 Use of epinephrine with excessive doses of digitalis, mercurial diuretics, or other drugs that sensitize the heart to arrhythmias is not recommended.
 Anginal pain may be induced when coronary insufficiency is present.
 
-The effects of epinephrine may be potentiated by tricyclic antidepressants; certain antihistamines, e.g., diphenhydramine, tripelennamine, d-chlor-pheniramine; and sodium l-thyroxine.
+The effects of epinephrine may be potentiated by tricyclic antidepressants; certain antihistamines, e.g., diphenhydramine, tripelennamine, d-chlorpheniramine; and sodium l-thyroxine.
 
 ## Usage in Pregnancy
 

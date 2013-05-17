@@ -17,16 +17,16 @@ When diluted, it may also be administered intracardially or intravenously.
 It may also be administered intraspinally by adding to anesthetic spinal fluid mixture.
 
 Store between 20° to 25°C (68° to 77°F).
-Excursions permitted to 15° to 25°C (59° to 77°F).
-[See USP Controlled Room Temperature]
+
+(See USP Controlled Room Temperature.)
 
 Protect from light and freezing.
 
 Rx Only.
 
-Prescribing Information as of June 2011.
+Prescribing Information as of January 2013.
 
 JHP Pharmaceuticals Manufactured and Distributed by: JHP Pharmaceuticals, LLC.
 Rochester, MI 48307
 
-3000390E
+3000390F

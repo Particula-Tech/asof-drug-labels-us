@@ -8,5 +8,5 @@ Arrhythmias, including fatal ventricular fibrillation, have been reported, parti
 Excessive rise in blood pressure may occur with systemic therapeutic doses or with inadvertent overdosage and may cause cerebrovascular hemorrhage.
 In patients with coronary insufficiency and/or ischemic heart disease, epinephrine may aggravate or precipitate angina.
 
-For medical advice about your adverse reactions contact your medical professional.
+For medical advice about adverse reactions contact your medical professional.
 To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/.
