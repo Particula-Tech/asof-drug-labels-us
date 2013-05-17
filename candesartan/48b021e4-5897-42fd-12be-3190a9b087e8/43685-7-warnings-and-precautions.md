@@ -20,8 +20,6 @@ Patients and physicians should be aware, however, that oligohydramnios may not a
 Closely observe infants with histories of in utero exposure to ATACAND HCT for hypotension, oliguria, and hyperkalemia.
 (see PRECAUTIONS, Pediatric Use.)
 
-### Candesartan Cilexetil-Hydrochlorothiazide
-
 There was no evidence of teratogenicity or other adverse effects on embryo-fetal development when pregnant mice, rats or rabbits were treated orally with candesartan cilexetil alone or in combination with hydrochlorothiazide.
 For mice, the maximum dose of candesartan cilexetil was 1000 mg/kg/day (about 150 times the maximum recommended daily human dose [MRHD]Doses compared on the basis of body surface area.
 MRHD considered to be 32 mg for candesartan cilexetil and 12.5 mg for hydrochlorothiazide.).
@@ -33,18 +31,34 @@ There was no evidence of harm to the rat or mouse fetus or embryo in studies in 
 Thiazides cross the placental barrier and appear in cord blood.
 There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
 
-## Hypotension in Volume- and Salt-Depleted Patients
+## Hypotension
 
-Based on adverse events reported from all clinical trials of ATACAND HCT, excessive reduction of blood pressure was rarely seen in patients with uncomplicated hypertension treated with candesartan cilexetil and hydrochlorothiazide (0.4%).
-Initiation of antihypertensive therapy may cause symptomatic hypotension in patients with intravascular volume- or sodium- depletion, eg, in patients treated vigorously with diuretics or in patients on dialysis.
-These conditions should be corrected prior to administration of ATACAND HCT, or the treatment should start under close medical supervision (see DOSAGE AND ADMINISTRATION).
+ATACAND HCT can cause symptomatic hypotension.
+Symptomatic hypotension is most likely to occur in patients who have been volume and/or salt depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting.
+Patients with symptomatic hypotension may require temporarily reducing the dose of ATACAND HCT or volume repletion.
+Volume and/or salt depletion should be corrected before initiating therapy with ATACAND HCT.
 
-If hypotension occurs, the patients should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
-A transient hypotensive response is not a contraindication to further treatment which usually can be continued without difficulty once the blood pressure has stabilized.
+In patients with heart failure, ATACAND HCT may cause excessive hypotension, which may lead to oliguria, azotemia, and (rarely) with acute renal failure and death (see WARNINGS, Impaired Renal Function).
+In such patients, ATACAND HCT therapy should be started under close medical supervision; they should be followed closely for the first 2 weeks of treatment and whenever the dose of candesartan or diuretic is increased.
 
-### Hydrochlorothiazide
+## Impaired Renal Function
 
-#### Acute Myopia and Secondary Angle-Closure Glaucoma
+Monitor renal function periodically in patients treated with ATACAND HCT.
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe heart failure, or volume depletion) may be at particular risk of developing oliguria, progressive azotemia, or acute renal failure on ATACAND HCT.
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on ATACAND HCT.
+
+## Potassium Abnormalities
+
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
+Hydrochlorothiazide can cause hypokalemia and hyponatremia.
+Hypomagnesema can result in hypokalemia which appears difficult to treat despite potassium repletion.
+Monitor serum electrolytes periodically.
+
+In clinical trials of various doses of candesartan cilexetil and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 2.5% versus 2.1% for placebo; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% versus 1.0% for placebo.
+No patient receiving ATACAND HCT 16-12.5 mg or 32-12.5 mg was discontinued due to increases or decreases in serum potassium.
+
+## Acute Myopia and Secondary Angle-Closure Glaucoma
 
 Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
 Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
@@ -53,97 +67,24 @@ The primary treatment is to discontinue hydrochlorothiazide as rapidly as possib
 Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
-#### Impaired Hepatic Function
-
-Thiazide diuretics should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
-
-#### Hypersensitivity Reaction
+## Hypersensitivity Reaction
 
 Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
 
-#### Systemic Lupus Erythematosus
-
-Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
-
-#### Lithium Interaction
-
-Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium).
-
 # PRECAUTIONS
 
-## General
+## Metabolic Disturbances
 
-### Candesartan Cilexetil−Hydrochlorothiazide
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
 
-In clinical trials of various doses of candesartan cilexetil and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 2.5% versus 2.1% for placebo; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% versus 1.0% for placebo.
-No patient receiving ATACAND HCT 16-12.5 mg or 32-12.5 mg was discontinued due to increases or decreases in serum potassium.
-Overall, the combination of candesartan cilexetil and hydrochlorothiazide had no clinically significant effect on serum potassium.
+Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance of uric acid and may cause or exacerbate hyperuricemia and precipitate gout in susceptible patients.
 
-Candesartan
+Thiazides decrease urinary calcium excretion and may cause mild elevation of serum calcium.
+Avoid using ATACAND HCT in patients with hypercalcemia.
 
-Major Surgery/Anesthesia— Hypotension may occur during major surgery and anesthesia in patients treated with angiotensin II receptor antagonists, including candesartan, due to blockade of the renin-angiotensin system.
-Very rarely, hypotension may be severe such that it may warrant the use of intravenous fluids and/or vasopressors.
+## Systemic Lupus Erythematosus
 
-### Hydrochlorothiazide
-
-Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
-
-All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance: namely, hyponatremia, hypochloremic alkalosis, and hypokalemia.
-Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids.
-Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
-
-Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
-Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
-Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (eg, increased ventricular irritability).
-
-Although any chloride deficit is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
-
-Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life-threatening.
-In actual salt depletion, appropriate replacement is the therapy of choice.
-
-Hyperuricemia may occur or acute gout may be precipitated in certain patients receiving thiazide therapy.
-
-In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required.
-Hyperglycemia may occur with thiazide diuretics.
-Thus latent diabetes mellitus may become manifest during thiazide therapy.
-
-The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
-
-If progressive renal impairment becomes evident consider withholding or discontinuing diuretic therapy.
-
-Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
-
-Thiazides may decrease urinary calcium excretion.
-Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism.
-Marked hypercalcemia may be evidence of hidden hyperparathyroidism.
-Thiazides should be discontinued before carrying out tests for parathyroid function.
-
-Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
-
-## Impaired Renal Function
-
-### Candesartan Cilexetil
-
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals treated with candesartan cilexetil.
-In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (eg, patients with severe congestive heart failure), treatment with angiotensin-converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar results may be anticipated in patients treated with candesartan cilexetil.
-(See CLINICAL PHARMACOLOGY, Special Populations.)
-
-In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
-There has been no long-term use of candesartan cilexetil in patients with unilateral or bilateral renal artery stenosis, but similar results may be expected.
-
-### Hydrochlorothiazide
-
-Thiazides should be used with caution in severe renal disease.
-In patients with renal disease, thiazides may precipitate azotemia.
-Cumulative effects of the drug may develop in patients with impaired renal function.
-
-## Impaired Hepatic Function
-
-### Candesartan Cilexetil
-
-Based on pharmacokinetic data significant increases in candesartan AUC and Cmax in patients with moderate hepatic impairment have been demonstrated.
-(See CLINICAL PHARMACOLOGY, Special Populations.)
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
 ## Information for Patients
 
@@ -155,21 +96,20 @@ Patients should be asked to report pregnancies to their physicians as soon as po
 
 ### Symptomatic Hypotension
 
-A patient receiving ATACAND HCT should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
-The patients should be told that if syncope occurs, ATACAND HCT should be discontinued until the physician has been consulted.
+Tell patients receiving ATACAND HCT that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
+Tell patients that if syncope occurs, discontinue ATACAND HCT until the physician has been consulted.
 
-All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
+Tell all patients that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 
-### Potassium Supplements
+### Hyperkalemia
 
-A patient receiving ATACAND HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
+Tell patients receiving ATACAND HCT not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
 
 ## Drug Interactions
 
-### Candesartan Cilexetil
-
-No significant drug interactions have been reported in studies of candesartan cilexetil given with other drugs such as glyburide, nifedipine, digoxin, warfarin, hydrochlorothiazide, and oral contraceptives in healthy volunteers.
 Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
+
+### Interactions common to both Candesartan Cilexetil and Hydrochlorothiazde
 
 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including candesartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -177,34 +117,33 @@ Monitor renal function periodically in patients receiving candesartan and NSAID 
 
 The antihypertensive effect of angiotensin II receptor antagonists, including candesartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
-Lithium − Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors, and with some angiotensin II receptor antagonists.
-An increase in serum lithium concentration has been reported during concomitant administration of lithium with candesartan cilexetil, so careful monitoring of serum lithium levels is recommended during concomitant use.
+Lithium − Renal clearance of lithium is reduced by thiazides and increases the risk of lithium toxicity.
+Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors, and with some angiotensin II receptor antagonists.
+An increase in serum lithium concentration has been reported during concomitant administration of lithium with candesartan cilexetil.
+Monitor serum lithium levels.
 
-### Hydrochlorothiazide
+### Interactions with Candesartan Cilexetil
 
-When administered concurrently the following drugs may interact with thiazide diuretics:
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on ATACAND HCT and other agents that affect the RAS.
+
+Do not co-administer aliskiren with ATACAND HCT in patients with diabetes.
+Avoid use of aliskiren with ATACAND HCT in patients with renal impairment (GFR <60 ml/min) (see CONTRAINDICATIONS).
+
+Interactions with Hydrochlorothiazide
 
 Alcohol, barbiturates, or narcotics − Potentiation of orthostatic hypotension may occur.
 
 Antidiabetic drugs (oral agents and insulin) − Dosage adjustment of the antidiabetic drug may be required.
 
-Other antihypertensive drugs − Additive effect or potentiation.
+Ion Exchange resins − Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
+Stagger the dosage of hydrochlorothiazide and ion exchange resins such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins.
 
-Cholestyramine and colestipol resins − Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
-Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
+Skeletal muscle relaxants, nondepolarizing (eg, tubocurarine) −Possible increased responsiveness to muscle relaxants such as curare derivatives.
 
-Corticosteroids, ACTH − Intensified electrolyte depletion, particularly hypokalemia.
-
-Pressor amines (eg, norepinephrine) − Possible decreased response to pressor amines but not sufficient to preclude their use.
-
-Skeletal muscle relaxants, nondepolarizing (eg, tubocurarine) −Possible increased responsiveness to the muscle relaxant.
-
-Lithium −Generally should not be given with diuretics.
-Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
-Refer to the package insert for lithium preparations before use of such preparations with ATACAND HCT.
-
-Non-steroidal Anti-inflammatory Drugs − In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
-Therefore, when ATACAND HCT and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+Digitalis: Thiazide-induced hypokalemia or hypomagnesemia may predispose to digoxin toxicity.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -245,11 +184,3 @@ If oliguria or hypotension occurs, direct attention toward support of blood pres
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
 Safety and effectiveness in pediatric patients have not been established.
-
-## Geriatric Use
-
-Of the total number of subjects in all clinical studies of ATACAND HCT (2831), 611 (22%) were 65 and over, while 94 (3%) were 75 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-
-Hydrochlorothiazide is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.

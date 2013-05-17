@@ -99,11 +99,13 @@ In hypertensive patients with renal insufficiency, serum concentrations of cande
 After repeated dosing, the AUC and Cmaxwere approximately doubled in patients with severe renal impairment (creatinine clearance <30 mL/min/1.73m2) compared to patients with normal kidney function.
 The pharmacokinetics of candesartan in hypertensive patients undergoing hemodialysis are similar to those in hypertensive patients with severe renal impairment.
 Candesartan cannot be removed by hemodialysis.
-No initial dosage adjustment is necessary in patients with renal insufficiency.
 
 Thiazide diuretics are eliminated by the kidney, with a terminal half-life of 5-15 hours.
 In a study of patients with impaired renal function (mean creatinine clearance of 19 mL/min), the half-life of hydrochlorothiazide elimination was lengthened to 21 hours.
 (See DOSAGE AND ADMINISTRATION.)
+
+Safety and effectiveness of ATACAND HCT in patients with severe renal impairment (CrCL ≤30 ml/min) have not been established.
+No dose adjustment is required in patients with mild CrCL 60-90 ml/min) or moderate (CrCL 30-60) renal impairment.
 
 ### Hepatic Insufficiency
 
@@ -112,12 +114,10 @@ The AUC for candesartan in patients with mild and moderate hepatic impairment wa
 The Cmax for candesartan was increased 56% and 73% respectively.
 The pharmacokinetics of candesartan in severe hepatic impairment have not been studied.
 No dose adjustment is recommended for patients with mild hepatic impairment.
-In patients with moderate hepatic impairment, consideration should be given to initiation of ATACAND at a lower dose, such as 8 mg.
-If a lower starting dose is selected for candesartan cilexetil, ATACAND HCT is not recommended for initial titration because the appropriate initial starting dose of candesartan cilexetil cannot be given.
+In patients with moderate hepatic impairment, ATACAND HCT is not recommended for initiation because the appropriate starting dose, 8 mg, cannot be given.
 (See DOSAGE AND ADMINISTRATION).
 
-Thiazide diuretics should be used with caution in patients with hepatic impairment.
-(See DOSAGE AND ADMINISTRATION.)
+Monitor patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
 
 ## Pharmacodynamics
 
