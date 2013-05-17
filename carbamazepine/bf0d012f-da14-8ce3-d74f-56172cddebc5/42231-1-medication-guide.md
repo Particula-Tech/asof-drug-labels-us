@@ -103,12 +103,18 @@ Before you take carbamazepine, tell your healthcare provider if you:
 - have any other medical conditions
 - drink grapefruit juice or eat grapefruit
 - use birth control.
-  Carbamazepine may make your birth control less effective.Tell your healthcare provider if your menstrual bleeding changes while you take birth control and carbamazepine.
+  Carbamazepine may make your birth control less effective.
+  Tell your healthcare provider if your menstrual bleeding changes while you take birth control and carbamazepine.
 - are pregnant or plan to become pregnant.
-  Carbamazepine may harm your unborn baby.Tell your healthcare provider right away if you become pregnant while taking carbamazepine.You and your healthcare provider should decide if you should take carbamazepine while you are pregnant.
-  - If you become pregnant while taking carbamazepine tablets, USP, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.You can enroll in this registry by calling 1-888-233-2334.
+  Carbamazepine may harm your unborn baby.
+  Tell your healthcare provider right away if you become pregnant while taking carbamazepine.
+  You and your healthcare provider should decide if you should take carbamazepine while you are pregnant.
+  - If you become pregnant while taking carbamazepine tablets, USP, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+    The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
+    You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
-  Carbamazepine passes into breast milk.You and your healthcare provider should discuss whether you should take carbamazepine or breastfeed; you should not do both.
+  Carbamazepine passes into breast milk.
+  You and your healthcare provider should discuss whether you should take carbamazepine or breastfeed; you should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 

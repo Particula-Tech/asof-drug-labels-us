@@ -15,7 +15,7 @@ Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thromboc
 
 Skin
 
-Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, and onychomadesis.
+Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, and onychomadesis.
 In certain cases, discontinuation of therapy may be necessary.
 Isolated cases of hirsutism have been reported, but a causal relationship is not clear.
 
@@ -74,16 +74,8 @@ Metabolism
 
 Fever and chills.
 Inappropriate antidiuretic hormone (ADH) secretion syndrome has been reported.
-Cases of frank water intoxication, with decreased serum sodium (hyponatremia) and confusion, have been reported in association with carbamazepine use (see PRECAUTIONS,Laboratory Tests).
+Cases of frank water intoxication, with decreased serum sodium (hyponatremia) and confusion, have been reported in association with carbamazepine use (see PRECAUTIONS, Laboratory Tests).
 Decreased levels of plasma calcium leading to osteoporosis have been reported.
-
-Other
-
-Multiorgan hypersensitivity reactions occurring days to weeks or months after initiating treatment have been reported in rare cases.
-Signs or symptoms may include, but are not limited to fever, skin rashes, vasculitis, lymphadenopathy, disorders mimicking lymphoma, arthralgia, leukopenia, eosinophilia, hepatosplenomegaly and abnormal liver function tests.
-These signs and symptoms may occur in various combinations and not necessarily concurrently.
-Signs and symptoms may initially be mild.
-Various organs, including but not limited to, liver, skin, immune system, lungs, kidneys, pancreas, myocardium, and colon may be affected (see PRECAUTIONS, General and PRECAUTIONS, Information for Patients).
 
 Isolated cases of a lupus erythematosus-like syndrome have been reported.
 There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglycerides in patients taking anticonvulsants.
