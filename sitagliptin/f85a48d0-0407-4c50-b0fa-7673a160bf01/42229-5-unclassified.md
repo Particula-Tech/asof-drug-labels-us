@@ -1,20 +1,14 @@
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 – Pavia, Italy OR MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 US Patent Nos.: 6,699,871 and 7,326,708
 
 Copyright © 2006, 2007, 2009, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2013
+Revised: 05/2013
 
-USPI-T-04311303R010
+USPI-T-04311305R011
 
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 – Pavia, Italy OR MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 US Patent Nos.: 6,699,871 and 7,326,708
 
@@ -22,6 +16,6 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2013
+Revised: 05/2013
 
-USMG-T-04311303R010
+USMG-T-04311305R011
