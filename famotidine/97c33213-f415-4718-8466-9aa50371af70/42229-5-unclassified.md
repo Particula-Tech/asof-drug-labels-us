@@ -11,7 +11,7 @@ Such use could result in air embolism due to residual air being drawn from the p
 ## Preparation for administration:
 
 1. Suspend container from eyelet support.
-2. Remove plastic protector from outlet port at bottom of container.
+2. Remove protector from outlet port at bottom of container.
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
@@ -28,10 +28,12 @@ Famotidine Injection, as supplied premixed in 0.9% sodium chloride in GALAXY con
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
+Printed in USA
+
+Baxter and Galaxy are registered trademarks of Baxter International Inc.
+
 Novation, the supply company of VHA and UHC, and NOVAPLUS are trademarks of Novation LLC
 
-7-19-61-207
+07-19-69-941
 
-Revised, February 2010
-
-*Bar Code Position Only 071961207
+Revised, November 2012

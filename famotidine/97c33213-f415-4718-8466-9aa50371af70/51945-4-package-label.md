@@ -67,4 +67,4 @@ Baxter and GALAXY are trademarks of Baxter International Inc.
 
 PL 2501 Plastic
 
-07-04-47-201 07-04-47-201
+07-04-47-201

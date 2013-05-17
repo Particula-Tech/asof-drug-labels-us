@@ -33,14 +33,11 @@ Table 7.
 
 | Pharmacodynamics of famotidine using the sigmoid Emax model |  |
 | --- | --- |
-|  | EC50 (ng/mL)* |
+|  | EC50 (ng/mL)Serum concentration of famotidine associated with 50% maximum gastric acid reduction. Values are presented as means ± SD. |
 | Pediatric Patients | 26 ± 13 |
 | Data from one study |  |
 | a) healthy adult subjects | 26.5 ± 10.3 |
 | b) adult patients with upper GI bleeding | 18.7 ± 10.8 |
-
-*Serum concentration of famotidine associated with 50% maximum gastric acid reduction.
-Values are presented as means ± SD.
 
 Five published studies (Table 8) examined the effect of famotidine on gastric pH and duration of acid suppression in pediatric patients.
 While each study had a different design, acid suppression data over time are summarized as follows:

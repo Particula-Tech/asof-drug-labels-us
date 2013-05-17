@@ -48,7 +48,7 @@ Two pharmacokinetic studies in pediatric patients <1 year of age (N=48) demonstr
 In contrast, pediatric patients 0-3 months of age had famotidine clearance values that were 2- to 4-fold less than those in older pediatric patients and adults.
 These studies also show that the mean bioavailability in pediatric patients <1 year of age after oral dosing is similar to older pediatric patients and adults.
 Pharmacodynamic data in pediatric patients 0-3 months of age suggest that the duration of acid suppression is longer compared with older pediatric patients, consistent with the longer famotidine half-life in pediatric patients 0-3 months of age.
-(See CLINICAL PHARMACOLOGY IN PEDIATRIC PATIENTS, Pharmacokinetics, and Pharmacodynamics.)
+(See CLINICAL PHARMACOLOGY IN PEDIATRIC PATIENTS, Pharmacokinetics and Pharmacodynamics.)
 
 In a double-blind, randomized, treatment-withdrawal study, 35 pediatric patients <1 year of age who were diagnosed as having gastroesophageal reflux disease were treated for up to 4 weeks with famotidine oral suspension (0.5 mg/kg/dose or 1 mg/kg/dose).
 Although an intravenous famotidine formulation was available, no patients were treated with intravenous famotidine in this study.

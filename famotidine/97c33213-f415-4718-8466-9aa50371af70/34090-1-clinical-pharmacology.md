@@ -96,9 +96,9 @@ Table 2.
 | Famotidine 40 mg h.s. (N=74) | Placebo h.s. (N=75) | Famotidine 40 mg h.s. (N=149) | Placebo h.s. (N=145) |  |
 | Week 4 | 45% | 39% | †47% | 31% |
 | Week 6 | †66% | 44% | †65% | 46% |
-| Week 8 | ***78% | 64% | †80% | 54% |
+| Week 8 | *78% | 64% | †80% | 54% |
 
-***,† Statistically significantly better than placebo (p≤0.05, p≤0.01 respectively)
+*,† Statistically significantly better than placebo (p≤0.05, p≤0.01 respectively)
 
 Time to complete relief of daytime and nighttime pain was statistically significantly shorter for patients receiving famotidine than for patients receiving placebo; however, in neither study was there a statistically significant difference in the proportion of patients whose pain was relieved by the end of the study (week 8).
 
@@ -125,8 +125,8 @@ Table 4.
 | % Endoscopic Healing - U.S. Study |  |  |  |
 | --- | --- | --- | --- |
 |  | Famotidine 40 mg b.i.d. (N=127) | Famotidine 20 mg b.i.d. (N=125) | Placebo (N=66) |
-| Week 6 | 48p≤0.01 vs Placebo,p≤0.01 vs Famotidine 20 mg b.i.d. | 32 | 18 |
-| Week 12 | 69,p≤0.05 vs Famotidine 20 mg b.i.d. | 54 | 29 |
+| Week 6 | 48p≤0.01 vs Placebo,p≤0.05 vs Famotidine 20 mg b.i.d. | 32 | 18 |
+| Week 12 | 69,p≤0.01 vs Famotidine 20 mg b.i.d. | 54 | 29 |
 
 As compared to placebo, patients who received famotidine had faster relief of daytime and nighttime heartburn and a greater percentage of patients experienced complete relief of nighttime heartburn.
 These differences were statistically significant.

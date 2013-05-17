@@ -32,7 +32,7 @@ Special Senses: tinnitus, taste disorder
 
 Other: rare cases of impotence and rare cases of gynecomastia have been reported; however, in controlled clinical trials, the incidences were not greater than those seen with placebo.
 
-The adverse reactions reported for famotidine tablets may also occur with Famotidine Injection.
+The adverse reactions reported for famotidine tablets may also occur with famotidine for oral suspension, famotidine injection in Galaxy plastic container, and famotidine injection.
 In addition, transient irritation at the injection site has been observed with famotidine injection.
 
 ## Pediatric Patients
