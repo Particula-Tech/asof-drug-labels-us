@@ -36,6 +36,7 @@ Do not take ATACAND if you:
 
 - •are allergic to any of the ingredients in ATACAND.
   See the end of this leaflet for a complete list of ingredients in ATACAND.
+- •are diabetic and taking aliskiren.
 
 What should I tell my doctor before taking ATACAND?
 
@@ -80,11 +81,13 @@ How should I take ATACAND?
   If your child switches between taking the tablet and the suspension, your doctor will change the dose as needed.
   Shake the bottle of suspension well before each dose.
 - •ATACAND is taken by mouth with or without food.
-- •If you miss a dose of ATACAND, take it as soon as you remember.
-  If it is almost time for your next dose, skip the missed dose.
-  Take the next dose on time.
-  Do not take 2 doses at one time.
-  If you are not sure about your dosing call your doctor or pharmacist.
+
+If you miss a dose of ATACAND, take it as soon as you remember.
+If it is almost time for your next dose, skip the missed dose.
+Take the next dose on time.
+Do not take 2 doses at one time.
+If you are not sure about your dosing call your doctor or pharmacist.
+
 - •If you take more ATACAND than prescribed, call your doctor, local poison control center, or go to the nearest emergency room.
 
 What should I avoid while taking ATACAND?
@@ -115,9 +118,6 @@ See “What should I tell my doctor before taking ATACAND?”
 - •Worsening kidney problems.
   Kidney problems may get worse in people that already have kidney disease or heart problems.
   Your doctor may do blood tests to check for this.
-- •Worsening liver problems.
-  Liver problems may get worse in people who already have liver problems, including inflammation of the liver and jaundice.
-  Tell your doctor if you notice that your skin or the whites of your eyes turn yellow.
 - •Increased potassium in your blood.
   Your doctor may do a blood test to check your potassium levels as needed.
 - •Symptoms of allergic reaction.
@@ -193,6 +193,6 @@ for: AstraZeneca LP, Wilmington, DE 19850
 
 ATACAND is a trademark of the AstraZeneca group of companies.
 
-Issued: April 2012
+Issued: April 2013
 
-©AstraZeneca 2010, 2012
+©AstraZeneca 2010, 2013

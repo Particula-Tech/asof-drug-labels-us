@@ -18,4 +18,4 @@ for: AstraZeneca LP, Wilmington, DE 19850
 
 ATACAND is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2012
+©AstraZeneca 2013

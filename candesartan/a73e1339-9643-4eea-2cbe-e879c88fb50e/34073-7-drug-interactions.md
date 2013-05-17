@@ -1,6 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-No significant drug interactions have been reported in studies of candesartan cilexetil given with other drugs such as glyburide, nifedipine, digoxin, warfarin, hydrochlorothiazide, and oral contraceptives in healthy volunteers, or given with enalapril to patients with heart failure (NYHA class II and III).
 Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
 
 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors).
@@ -13,4 +12,13 @@ The antihypertensive effect of angiotensin II receptor antagonists, including ca
 Lithium
 
 Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors, and with some angiotensin II receptor antagonists.
-An increase in serum lithium concentration has been reported during concomitant administration of lithium with ATACAND, so careful monitoring of serum lithium levels is recommended during concomitant use.
+An increase in serum lithium concentration has been reported during concomitant administration of lithium with ATACAND.
+Monitor serum lithium levels.
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on ATACAND and other agents that affect the RAS.
+
+Do not co-administer aliskiren with ATACAND in patients with diabetes.
+Avoid use of aliskiren with ATACAND in patients with renal impairment (GFR <60 ml/min) [see CONTRAINDICATIONS (4)].

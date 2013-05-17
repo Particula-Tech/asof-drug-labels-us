@@ -9,9 +9,8 @@ ATACAND can be administered once or twice daily with total daily doses ranging f
 Larger doses do not appear to have a greater effect, and there is relatively little experience with such doses.
 Most of the antihypertensive effect is present within 2 weeks, and maximal blood pressure reduction is generally obtained within 4 to 6 weeks of treatment with ATACAND.
 
-No initial dosage adjustment is necessary for elderly patients, for patients with mildly impaired renal function, or for patients with mildly impaired hepatic function [see CLINICAL PHARMACOLOGY (12.3)].
-In patients with moderate hepatic impairment, consideration should be given to initiation of ATACAND at a lower dose [see CLINICAL PHARMACOLOGY (12.3)].
-For patients with possible depletion of intravascular volume (eg, patients treated with diuretics, particularly those with impaired renal function), ATACAND should be initiated under close medical supervision and consideration should be given to administration of a lower dose [see WARNINGS AND PRECAUTIONS (5.3)].
+Use in Hepatic Impairment: Initiate with 8 mg ATACAND in patients with moderate hepatic insufficiency.
+Dosing recommendations cannot be provided for patients with severe hepatic insufficiency [see CLINICAL PHARMACOLOGY (12.3)].
 
 ATACAND may be administered with or without food.
 
@@ -43,7 +42,7 @@ An antihypertensive effect is usually present within 2 weeks, with full effect g
 
 Children < 1 year of age must not receive ATACAND for hypertension.
 
-All pediatric patients with a glomerular filtration rate less than 30 ml/min/1.73m2 should not receive ATACAND since ATACAND has not been studied in this population [see WARNINGS AND PRECAUTIONS (5.2)].
+All pediatric patients with a glomerular filtration rate less than 30 ml/min/1.73m2 should not receive ATACAND since ATACAND has not been studied in this population [seeSPECIAL POPULATIONS (8)].
 
 For children who cannot swallow tablets, an oral suspension may be substituted as described below:
 
@@ -56,7 +55,7 @@ Any strength of ATACAND tablets can be used in the preparation of the suspension
 Follow the steps below for preparation of the suspension.
 The number of tablets and volume of vehicle specified below will yield 160 mL of a 1 mg/mL suspension.
 
-- •Prepare the vehicle by adding equal volumes of Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc.Ora-Plus® (80 mL) and 1Ora-Sweet SF® (80 mL) or, alternatively, use1, Supplied as a 50/50% pre-mix of Ora-Plus® and Ora-Sweet SF®Ora-Blend SF® (160 mL).
+- •Prepare the vehicle by adding equal volumes of Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc.2 Supplied as a 50/50% pre-mix of Ora-Plus® and Ora-Sweet®Ora-Plus® (80 mL) and 1Ora-Sweet SF® (80 mL) or, alternatively, use, 1,2Ora-Blend SF® (160 mL).
 - •Add a small amount of vehicle to the required number of ATACAND tablets (five 32 mg tablets) and grind into a smooth paste using a mortar and pestle.
 - •Add the paste to a preparation vessel of suitable size.
 - •Rinse the mortar and pestle clean using the vehicle and add this to the vessel.

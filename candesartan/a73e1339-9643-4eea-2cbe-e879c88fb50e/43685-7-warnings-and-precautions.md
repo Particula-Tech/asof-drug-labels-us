@@ -21,17 +21,14 @@ Drugs that act directly on the renin-angiotensin system (RAS) can have effects o
 
 ## 5.3 Hypotension
 
-In adult or children patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (eg, those being treated with diuretics), symptomatic hypotension may occur.
-These conditions should be corrected prior to administration of ATACAND, or the treatment should start under close medical supervision [see DOSAGE AND ADMINISTRATION (2.1)].
+ATACAND can cause symptomatic hypotension.
+Symptomatic hypotension is most likely to occur in patients who have been volume and/or salt depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting.
+Patients with symptomatic hypotension may require temporarily reducing the dose of ATACAND, diuretic or both, and volume repletion.
+Volume and/or salt depletion should be corrected before initiating therapy with ATACAND.
 
-If hypotension occurs, the patients should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
-A transient hypotensive response is not a contraindication to further treatment which usually can be continued without difficulty once the blood pressure has stabilized.
-
-Caution should be observed when initiating therapy in patients with heart failure.
-Patients with heart failure given ATACAND commonly have some reduction in blood pressure.
-In patients with symptomatic hypotension this may require temporarily reducing the dose of ATACAND, or diuretic, or both, and volume repletion.
-In the CHARM program, hypotension was reported in 18.8% of patients on ATACAND versus 9.8% of patients on placebo.
+In the CHARM program (heart failure patients), hypotension was reported in 18.8% of patients on ATACAND versus 9.8% of patients on placebo.
 The incidence of hypotension leading to drug discontinuation in ATACAND-treated patients was 4.1% compared with 2.0% in placebo-treated patients.
+In the CHARM-Added program, where candesartan or placebo was given in addition to ACE inhibitors, hypotension was reported in 22.6% of patients treated with ATACAND versus 13.8% treated with placebo [see DRUG INTERACTIONS (7)].
 
 Monitoring of blood pressure is recommended during dose escalation and periodically thereafter.
 
@@ -40,31 +37,22 @@ Major Surgery/Anesthesia
 Hypotension may occur during major surgery and anesthesia in patients treated with angiotensin II receptor antagonists, including ATACAND, due to blockade of the renin-angiotensin system.
 Very rarely, hypotension may be severe such that it may warrant the use of intravenous fluids and/or vasopressors.
 
-## 5.4 Impaired Hepatic Function
+## 5.4 Impaired Renal Function
 
-Based on pharmacokinetic data which demonstrate significant increases in candesartan AUC and Cmax in patients with moderate hepatic impairment, a lower initiating dose should be considered for patients with moderate hepatic impairment [see CLINICAL PHARMACOLOGY (12.3)].
+Monitor renal function periodically in patients treated with ATACAND.
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system.
+Patients whose renal function may depend, in part, on the activity of the renin-angiotensin system (e.g., patient with renal artery stenosis, chronic kidney disease, severe heart failure, or volume depletion) may be at particular risk of developing oliguria, progressive azotemia or acute renal failure when treated with ATACAND.
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on ATACAND.
 
-## 5.5 Renal Function Deterioration
+In the CHARM program (heart failure patients), the incidence of abnormal renal function (e.g., creatinine increase) was 12.5% in patients treated with ATACAND versus 6.3% in patients treated with placebo.
+The incidence of abnormal renal function (e.g., creatinine increase) leading to drug discontinuation in ATACAND-treated patients was 6.3% compared with 2.9% in placebo-treated patients.
+In the CHARM-Added program, where candesartan or placebo was given in addition to ACE inhibitors, the incidence of abnormal renal function (e.g., creatinine increase) was 15% in patients treated with ATACAND versus 9% in patients treated with placebo [see DRUG INTERACTIONS (7)].
 
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in some individuals treated with ATACAND.
-In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (eg, patients with severe heart failure), treatment with angiotensin-converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar results may be anticipated in patients treated with ATACAND [see CLINICAL PHARMACOLOGY (12.3)].
+## 5.5 Hyperkalemia
 
-In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
-There has been no long-term use of ATACAND in patients with unilateral or bilateral renal artery stenosis, but similar results may be expected.
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
+Monitor serum potassium periodically.
 
-In heart failure patients treated with ATACAND, increases in serum creatinine may occur.
-Dosage reduction or discontinuation of the diuretic or ATACAND, and volume repletion may be required.
-In the CHARM program, the incidence of abnormal renal function (e.g., creatinine increase) was 12.5% in patients treated with ATACAND versus 6.3% in patients treated with placebo.
-The incidence of abnormal renal function (eg, creatinine increase) leading to drug discontinuation in ATACAND-treated patients was 6.3% compared with 2.9% in placebo-treated patients.
-Evaluation of patients with heart failure should always include assessment of renal function and volume status.
-Monitoring of serum creatinine is recommended during dose escalation and periodically thereafter.
-
-Pediatrics - ATACAND has not been studied in children with estimated glomerular filtration rate < 30 mL/min/1.73m2.
-
-## 5.6 Hyperkalemia
-
-In heart failure patients treated with ATACAND, hyperkalemia may occur, especially when taken concomitantly with ACE inhibitors and potassium-sparing diuretics such as spironolactone.
-In the CHARM program, the incidence of hyperkalemia was 6.3% in patients treated with ATACAND versus 2.1% in patients treated with placebo.
+In the CHARM program (heart failure patients), the incidence of hyperkalemia was 6.3% in patients treated with ATACAND versus 2.1% in patients treated with placebo.
 The incidence of hyperkalemia leading to drug discontinuation in ATACAND-treated patients was 2.4% compared with 0.6% in placebo-treated patients.
-During treatment with ATACAND in patients with heart failure, monitoring of serum potassium is recommended during dose escalation and periodically thereafter.
+In the CHARM-Added program where candesartan or placebo was given in addition to ACE inhibitors, the incidence of hyperkalemia was 9.5% in patients treated with ATACAND versus 3.5% in patients treated with placebo [see DRUG INTERACTIONS (7)].
