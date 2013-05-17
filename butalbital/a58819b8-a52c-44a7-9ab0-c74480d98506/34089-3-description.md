@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, USP is supplied in capsule form for oral administration.
+Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is supplied in capsule form for oral administration.
 Each capsule contains the following active ingredients:
 
 | butalbital, USP........................................ | 50 mg |

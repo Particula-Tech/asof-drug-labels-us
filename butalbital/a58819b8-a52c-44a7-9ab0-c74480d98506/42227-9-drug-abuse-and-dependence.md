@@ -2,7 +2,7 @@
 
 ## Controlled Substance
 
-Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, USP is controlled by the Drug Enforcement Administration and is classified under Schedule III.
+Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is controlled by the Drug Enforcement Administration and is classified under Schedule III.
 
 ## Abuse and Dependence
 
