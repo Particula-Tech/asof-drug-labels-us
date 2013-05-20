@@ -6,7 +6,7 @@ In the other trial, ipratropium bromide nasal solution 0.03% (Nasal Spray) was g
 Of the 285 patients who entered the open-label, follow-up trial, 232 were treated for 3 months, 200 for 6 months, and 159 up to one year.
 The majority (>86%) of patients treated for one year were maintained on 42 mcg per nostril, two or three times daily of ipratropium bromide nasal solution 0.03% (Nasal Spray).
 
-The following table shows adverse events, and the frequency that these adverse events led to the discontinuation of treatment, reported for patients who received ipratropium bromide nasal solution 0.03% (Nasal Spray) at the recommended dose of 42 mcg per nostril, or vehicle two or three times daily for four or eight weeks.
+Table 1 shows adverse events, and the frequency that these adverse events led to the discontinuation of treatment, reported for patients who received ipratropium bromide nasal solution 0.03% (Nasal Spray) at the recommended dose of 42 mcg per nostril, or vehicle two or three times daily for four or eight weeks.
 Only adverse events reported with the incidence of at least 2.0% in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group are shown.
 
 % Of Patients Reporting Events+

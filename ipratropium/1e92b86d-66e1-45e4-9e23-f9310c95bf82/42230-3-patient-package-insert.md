@@ -52,15 +52,13 @@ Replace the plastic dust cap and safety clip.
 At some time before the medication is completely used up, you should consult your physician or pharmacist to determine whether a refill is needed.
 You should not take extra doses or stop using ipratropium bromide nasal solution 0.03% (Nasal Spray) without consulting your physician.
 
-To clean:
+To Clean:
 
 If the nasal tip becomes clogged, remove the clear plastic dust cap and safety clip.
 Hold the nasal tip under running, warm tap water (Figure 4) for about a minute.
 Dry the nasal tip, reprime the nasal spray pump (step 2 above), and replace the plastic dust cap and safety clip.
 
-DO NOT ATTEMPT TO CLEAR THE TIP WITH A SHARP OR POINTED OBJECT.
-
-CAUTION:
+Caution:
 
 Ipratropium bromide nasal solution 0.03% (Nasal Spray) is intended to relieve your rhinorrhea (runny nose) with regular use.
 It is therefore important that you use ipratropium bromide nasal solution 0.03% (Nasal Spray) as prescribed by your physician.
@@ -78,15 +76,11 @@ If you have glaucoma or difficulty urinating due to an enlargement of the prosta
 
 If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using ipratropium bromide nasal solution 0.03% (Nasal Spray).
 
-STORAGE: Store tightly closed at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
-Avoid freezing.
+STORAGE: Store tightly closed at 25°C (77°F); excursions permitted to 15°-25°C (59°-77°F) Avoid freezing.
 Keep out of reach of children.
-Do not spray in the eyes.
 
-Rx Only
+Revised January 2012
 
 Bausch & Lomb Incorporated Tampa, FL 33637 ©Bausch & Lomb Incorporated
 
-Revised June 2008
-
-9103601 (Folded)
+9103603 (Folded)

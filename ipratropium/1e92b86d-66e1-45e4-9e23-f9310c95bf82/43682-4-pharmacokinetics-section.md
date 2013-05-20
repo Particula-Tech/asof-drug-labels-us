@@ -1,7 +1,7 @@
 # Pharmacokinetics
 
 Absorption: Ipratropium bromide is poorly absorbed into the systemic circulation following oral administration (2-3%).
-Less than 20% of an 84 mcg per nostril dose was absorbed from the nasal mucosa of normal volunteers, induced-cold patients, or perennial rhinitis adult patients.
+Less than 20% of an 84 mcg per nostril dose was absorbed from the nasal mucosa of normal volunteers, induced-cold patients, or perennial rhinitis patients.
 
 Distribution: Ipratropium bromide is minimally bound (0 to 9% in vitro) to plasma albumin and α1-acid glycoprotein.
 Its blood/plasma concentration ratio was estimated to be about 0.89.
