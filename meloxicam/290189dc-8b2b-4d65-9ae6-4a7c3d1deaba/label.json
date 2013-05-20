@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020938"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Boehringer Ingelheim Promeco S.A. de C.V.",
+  "package_ndcs": [
+    "64674-029-01",
+    "64674-030-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "meloxicam",
+      "name": "Mobic"
+    }
+  ],
+  "setid": "290189dc-8b2b-4d65-9ae6-4a7c3d1deaba",
+  "source": "dailymed"
+}
