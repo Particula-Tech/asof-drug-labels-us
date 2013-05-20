@@ -2,9 +2,9 @@ PRINCIPAL DISPLAY PANEL - 1 mg
 
 NDC 0378-1101-01
 
-PRAZOSIN HYDROCHLORIDE CAPSULES, USP 1 mg*
+Prazosin Hydrochloride Capsules, USP 1 mg*
 
-100 CAPSULES (Rx only)
+Rx only 100 Capsules
 
 *Each capsule contains prazosin hydrochloride, USP equivalent to 1 mg of prazosin.
 
@@ -21,17 +21,19 @@ Protect from moisture and light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM1101A6
+Mylan.com
+
+RM1101A7
 
 PRINCIPAL DISPLAY PANEL - 2 mg
 
 NDC 0378-2302-01
 
-PRAZOSIN HYDROCHLORIDE CAPSULES, USP 2 mg*
+Prazosin Hydrochloride Capsules, USP 2 mg*
 
-100 CAPSULES (Rx only)
+Rx only 100 Capsules
 
 *Each capsule contains prazosin hydrochloride, USP equivalent to 2 mg of prazosin.
 
@@ -48,17 +50,19 @@ Protect from moisture and light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM2302A6
+Mylan.com
+
+RM2302A7
 
 PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 0378-3205-01
 
-PRAZOSIN HYDROCHLORIDE CAPSULES, USP 5 mg*
+Prazosin Hydrochloride Capsules, USP 5 mg*
 
-100 CAPSULES (Rx only)
+Rx only 100 Capsules
 
 *Each capsule contains prazosin hydrochloride, USP equivalent to 5 mg of prazosin.
 
@@ -75,6 +79,8 @@ Protect from moisture and light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM3205A6
+Mylan.com
+
+RM3205A7
