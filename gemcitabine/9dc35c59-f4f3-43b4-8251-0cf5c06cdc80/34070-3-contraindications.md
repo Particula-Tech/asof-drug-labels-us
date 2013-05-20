@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Gemzar is contraindicated in those patients with a known hypersensitivity to the drug.
+Gemzar is contraindicated in patients with a known hypersensitivity to gemcitabine.

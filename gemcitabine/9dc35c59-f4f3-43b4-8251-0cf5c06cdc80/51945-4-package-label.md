@@ -8,7 +8,7 @@ Discard Unused Portion
 
 NDC 0002-7501-01
 
-GEMZAR ®
+GEMZAR®
 
 gemcitabine for injection
 
@@ -32,7 +32,7 @@ Discard Unused Portion
 
 NDC 0002-7502-01
 
-GEMZAR ®
+GEMZAR®
 
 gemcitabine for injection
 

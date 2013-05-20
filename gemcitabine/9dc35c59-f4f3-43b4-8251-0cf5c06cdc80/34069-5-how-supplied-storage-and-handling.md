@@ -4,10 +4,10 @@
 
 Gemzar (gemcitabine for injection, USP), is available in sterile single-use vials individually packaged in a carton containing:
 
-200 mg white to off-white, lyophilized powder in a 10-mL size sterile single-use vial - NDC 0002-7501-01 (No.
+200 mg white to off-white, lyophilized powder in a 10-mL size sterile single-use vial – NDC 0002-7501-01 (No.
 7501)
 
-1 g white to off-white, lyophilized powder in a 50-mL size sterile single-use vial - NDC 0002-7502-01 (No.
+1 g white to off-white, lyophilized powder in a 50-mL size sterile single-use vial – NDC 0002-7502-01 (No.
 7502)
 
 ## 16.2 Storage and Handling
