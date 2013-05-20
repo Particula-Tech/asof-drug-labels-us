@@ -2,7 +2,7 @@
 
 ## 1.1 Nonsquamous Non-Small Cell Lung Cancer – Combination with Cisplatin
 
-ALIMTA is indicated in combination with cisplatin therapy for the initial treatment of patients with locally advanced or metastatic nonsquamous non-small cell lung cancer.
+ALIMTA® is indicated in combination with cisplatin therapy for the initial treatment of patients with locally advanced or metastatic nonsquamous non-small cell lung cancer.
 
 ## 1.2 Nonsquamous Non-Small Cell Lung Cancer – Maintenance
 

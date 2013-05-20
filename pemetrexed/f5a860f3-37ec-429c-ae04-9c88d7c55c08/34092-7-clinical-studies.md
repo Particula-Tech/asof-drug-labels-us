@@ -48,7 +48,7 @@ Patients treated with gemcitabine plus cisplatin received a relative dose intens
 The primary endpoint in this study was overall survival.
 The median survival time was 10.3 months in the ALIMTA plus cisplatin treatment arm and 10.3 months in the gemcitabine plus cisplatin arm, with an adjusted hazard ratio of 0.94.
 
-Table 11: First-Line Therapy: Efficacy in NSCLC - ITT Population
+Table 11: First-Line Therapy: Efficacy in NSCLC – ITT Population
 
 |  | ALIMTA plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
@@ -140,7 +140,7 @@ This difference in treatment effect for ALIMTA based on histology demonstrating 
 
 Efficacy results for the overall patient population are presented in Table 14 and Figure 3, and efficacy results by pre-specified histologic subgroups are presented in Table 15 and Figure 4, below.
 
-Table 14: Maintenance Therapy Following Platinum-Based Induction Therapy: Efficacy of ALIMTA versus Placebo in NSCLC - ITT Population
+Table 14: Maintenance Therapy Following Platinum-Based Induction Therapy: Efficacy of ALIMTA versus Placebo in NSCLC – ITT Population
 
 | Efficacy Parametera,b | ALIMTA (N=441) | Placebo (N=222) |
 | --- | --- | --- |
@@ -276,7 +276,7 @@ The primary endpoint in this study was overall survival.
 The median survival time was 8.3 months in the ALIMTA treatment arm and 7.9 months in the docetaxel arm, with a hazard ratio of 0.99 (see Table 19).
 The study did not show an overall survival superiority of ALIMTA.
 
-Table 19: Efficacy of ALIMTA versus Docetaxel in Non-Small Cell Lung Cancer - ITT Population
+Table 19: Efficacy of ALIMTA versus Docetaxel in Non-Small Cell Lung Cancer – ITT Population
 
 |  | ALIMTA (N=283) | Docetaxel (N=288) |
 | --- | --- | --- |

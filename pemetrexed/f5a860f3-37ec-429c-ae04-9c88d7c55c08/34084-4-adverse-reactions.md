@@ -193,7 +193,7 @@ Incidence Less than 1%
 - 
 - Vascular — pulmonary embolism
 
-Non-Small Cell Lung Cancer (NSCLC) - After Prior Chemotherapy
+Non-Small Cell Lung Cancer (NSCLC) – After Prior Chemotherapy
 
 Table 7 provides the frequency and severity of adverse reactions that have been reported in >5% of 265 patients randomly assigned to receive single-agent ALIMTA with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single-agent docetaxel.
 All patients were diagnosed with locally advanced or metastatic NSCLC and received prior chemotherapy.
@@ -339,6 +339,8 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 These reactions occurred with ALIMTA when used as a single-agent and in combination therapies.
+
+Blood and Lymphatic System — immune-mediated hemolytic anemia
 
 Gastrointestinal — colitis, pancreatitis
 

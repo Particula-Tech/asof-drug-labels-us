@@ -122,11 +122,11 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
 You can also call 1-800-LILLY-RX (1-800-545-5979) or visit www.ALIMTA.com.
 
-Revised October 2012
+Revised May 2013
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA www.ALIMTA.com
 
-Copyright © 2004, 2012, Eli Lilly and Company.
+Copyright © 2004, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 6758 AMP
+PV 6759 AMP

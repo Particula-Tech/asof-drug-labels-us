@@ -79,7 +79,7 @@ Renally Impaired Patients
 
 In clinical studies, patients with creatinine clearance ≥45 mL/min required no dose adjustments other than those recommended for all patients.
 Insufficient numbers of patients with creatinine clearance below 45 mL/min have been treated to make dosage recommendations for this group of patients [see Clinical Pharmacology (12.3)].
-Therefore, ALIMTA should not be administered to patients whose creatinine clearance is <45 mL/min using the standard Cockcroft and Gault formula (below) or GFR measured by Tc99m-DPTA serum clearance method:
+Therefore, ALIMTA should not be administered to patients whose creatinine clearance is <45 mL/min using the standard Cockcroft and Gault formula (below) or GFR measured by Tc99m-DTPA serum clearance method:
 
 | Males: | [140 - Age in years] × Actual Body Weight (kg) | = mL/min |
 | --- | --- | --- |
