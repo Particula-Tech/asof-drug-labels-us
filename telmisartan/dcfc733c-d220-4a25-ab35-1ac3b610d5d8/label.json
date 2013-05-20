@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020850"
+  ],
+  "inn": "telmisartan",
+  "labeler": "Boehringer Ingelheim Promeco S.A. de C.V.",
+  "package_ndcs": [
+    "64674-039-37",
+    "64674-040-37",
+    "64674-041-37"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan",
+      "name": "Micardis"
+    }
+  ],
+  "setid": "dcfc733c-d220-4a25-ab35-1ac3b610d5d8",
+  "source": "dailymed"
+}
