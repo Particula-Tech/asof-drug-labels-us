@@ -10,13 +10,13 @@ CII
 
 100 Capsules 10 mg
 
+Rx Only
+
 ucb
 
 A Medication Guide is required for every prescription dispensed.
 
 Please use accompanying Medication Guide.
-
-Rx Only
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label
 
@@ -30,13 +30,13 @@ CII
 
 100 Capsules 20 mg
 
+Rx Only
+
 ucb
 
 A Medication Guide is required for every prescription dispensed.
 
 Please use accompanying Medication Guide.
-
-Rx Only
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
 

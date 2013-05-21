@@ -1,1 +1,3 @@
+Rx Only
+
 Once Daily

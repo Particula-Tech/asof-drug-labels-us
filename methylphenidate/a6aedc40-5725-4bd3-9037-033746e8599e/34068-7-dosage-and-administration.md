@@ -5,6 +5,7 @@ METADATE CD is administered once daily in the morning, before breakfast.
 METADATE CD may be swallowed whole with the aid of liquids, or alternatively, the capsule may be opened and the capsule contents sprinkled onto a small amount (tablespoon) of applesauce and given immediately, and not stored for future use.
 Drinking some fluids, e.g. water, should follow the intake of the sprinkles with applesauce.
 The capsules and the capsule contents must not be crushed or chewed (see PRECAUTIONS: Information for Patients).
+Patients should be advised to avoid alcohol while taking Metadate CD.
 
 Dosage should be individualized according to the needs and responses of the patient.
 

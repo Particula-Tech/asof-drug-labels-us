@@ -78,6 +78,8 @@ How should METADATE CD be taken?
   Swallow the applesauce and medicine mixture without chewing.
   Follow with a drink of water or other liquid.
   Never chew or crush the capsule or the medicine inside the capsule.
+- METADATE CD should not be taken with alcohol.
+  This may result in a more rapid release of the dose of METADATE CD.
 - From time to time, your doctor may stop METADATE CD treatment for a while to check ADHD symptoms.
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking METADATE CD.
   Children should have their height and weight checked often while taking METADATE CD.
@@ -137,5 +139,5 @@ The individual capsules contain the following coloring agents: 10 mg capsules: F
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Marketed by UCB, Inc. Smyrna, GA 30080 Manufactured by UCB Manufacturing, Inc. Rochester, NY 14623 METADATE CD is a registered trademark of the UCB Group of companies ©2009, UCB, Inc., Smyrna, GA 30080 All rights reserved.
-Printed in U.S.A. 2E 06/2009
+Marketed by UCB, Inc. Smyrna, GA 30080 Manufactured by UCB Manufacturing, Inc. Rochester, NY 14623 METADATE CD is a registered trademark of the UCB Group of companies ©2013, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+Printed in U.S.A. 05/2013

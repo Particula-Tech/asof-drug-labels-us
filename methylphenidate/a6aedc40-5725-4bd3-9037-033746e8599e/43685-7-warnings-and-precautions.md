@@ -83,6 +83,9 @@ Patients should be instructed to take one dose in the morning before breakfast.
 The patients should be instructed that the capsule may be swallowed whole, or alternatively, the capsule may be opened and the capsule contents sprinkled onto a small amount (tablespoon) of applesauce and given immediately, and not stored for future use.
 The capsules and the capsule contents must not be crushed or chewed.
 
+Patients should be advised to avoid alcohol while taking METADATE CD.
+Consumption of alcohol while taking METADATE CD may result in a more rapid release of the dose of methylphenidate.
+
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with methylphenidate and should counsel them in its appropriate use.
 A patient Medication Guide is available for METADATE CD.
 The prescriber or healthcare professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.

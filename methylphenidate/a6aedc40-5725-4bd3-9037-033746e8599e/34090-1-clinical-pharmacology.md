@@ -54,6 +54,13 @@ In vitro studies showed that methylphenidate was not metabolized by cytochrome P
 The mean terminal half-life (t½) of methylphenidate following administration of METADATE CD (t½=6.8h) is longer than the mean terminal (t½) following administration of methylphenidate hydrochloride immediate-release tablets (t½=2.9h) and methylphenidate hydrochloride sustained-release tablets (t½=3.4h) in healthy adult volunteers.
 This suggests that the elimination process observed for METADATE CD is controlled by the release rate of methylphenidate from the extended-release formulation, and that the drug absorption is the rate-limiting process.
 
+## Alcohol Effect
+
+An in vitro study was conducted to explore the effect of alcohol on the release characteristics of methylphenidate from the METADATE CD 60 mg capsule dosage form.
+At an alcohol concentration of 40% there was an increase in the release rate of methylphenidate in the first hour, resulting in 84% of the methylphenidate being released.
+The results with the 60 mg capsule are considered to be representative of the other available capsule strengths.
+Patients should be advised to avoid alcohol while taking METADATE CD.
+
 ## Special Populations
 
 ### Gender
