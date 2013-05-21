@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA201779"
+  ],
+  "inn": "zolmitriptan",
+  "labeler": "Glenmark Generics Inc.,USA",
+  "package_ndcs": [
+    "68462-497-76",
+    "68462-498-33"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "zolmitriptan",
+      "name": "Zolmitriptan"
+    }
+  ],
+  "setid": "333caafc-2e63-49f8-a0c6-534e528d228d",
+  "source": "dailymed"
+}
