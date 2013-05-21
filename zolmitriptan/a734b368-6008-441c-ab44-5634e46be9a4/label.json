@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202560"
+  ],
+  "inn": "zolmitriptan",
+  "labeler": "Glenmark Generics Inc.,USA",
+  "package_ndcs": [
+    "68462-499-76",
+    "68462-500-33"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "zolmitriptan",
+      "name": "zolmiptriptan"
+    }
+  ],
+  "setid": "a734b368-6008-441c-ab44-5634e46be9a4",
+  "source": "dailymed"
+}
