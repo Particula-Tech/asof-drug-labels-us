@@ -2,7 +2,7 @@
 
 Kidney, Liver and Heart Transplant
 
-(See boxed WARNINGs): Sandimmune® (cyclosporine), when used in high doses, can cause hepatotoxicity and nephrotoxicity.
+(See BOXED WARNING): Sandimmune® (cyclosporine), when used in high doses, can cause hepatotoxicity and nephrotoxicity.
 
 Nephrotoxicity
 
@@ -53,7 +53,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 |  | (131 I-hippuran) > decrease in perfusion (99m Tc DTPA) | Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
 | Therapy | Responds to decreased Sandimmune® (cyclosporine) | Responds to increased steroids or antilymphocyte globulin |
 
-ap < 0.05, bp < 0.01, cp < 0.001, dp < 0.0001
+ap <0.05, bp <0.01, cp <0.001, dp <0.0001
 
 A form of chronic progressive cyclosporine-associated nephrotoxicity is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
 From 5%-15% of transplant recipients will fail to show a reduction in a rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
@@ -61,7 +61,7 @@ Renal biopsies from these patients will demonstrate an interstitial fibrosis wit
 In addition, toxic tubulopathy, peritubular capillary congestion, arteriolopathy, and a striped form of interstitial fibrosis with tubular atrophy may be present.
 Though none of these morphologic changes is entirely specific, a histologic diagnosis of chronic progressive cyclosporine-associated nephrotoxicity requires evidence of these.
 
-When considering the development of chronic nephrotoxicity it is noteworthy that several authors have reported an association between the appearance of interstitial fibrosis and higher cumulative doses or persistently high circulating trough levels of cyclosporine.
+When considering the development of chronic nephrotoxicity it is noteworthy that several authors have reported an association between the appearance of interstitial fibrosis and higher cumulative doses or persistently high circulating trough concentrations of cyclosporine.
 This is particularly true during the first 6 posttransplant months when the dosage tends to be highest and when, in kidney recipients, the organ appears to be most vulnerable to the toxic effects of cyclosporine.
 Among other contributing factors to the development of interstitial fibrosis in these patients must be included, prolonged perfusion time, warm ischemia time, as well as episodes of acute toxicity, and acute and chronic rejection.
 The reversibility of interstitial fibrosis and its correlation to renal function have not yet been determined.
@@ -70,13 +70,16 @@ Impaired renal function at any time requires close monitoring, and frequent dosa
 In patients with persistent high elevations of BUN and creatinine who are unresponsive to dosage adjustments, consideration should be given to switching to other immunosuppressive therapy.
 In the event of severe and unremitting rejection, it is preferable to allow the kidney transplant to be rejected and removed rather than increase the Sandimmune® (cyclosporine) dosage to a very high level in an attempt to reverse the rejection.
 
+Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when co-administering Sandimmune with other drugs that may impair renal function.
+(See PRECAUTIONS, Drug Interactions)
+
 Thrombotic Microangiopathy
 
 Occasionally patients have developed a syndrome of thrombocytopenia and microangiopathic hemolytic anemia which may result in graft failure.
 The vasculopathy can occur in the absence of rejection and is accompanied by avid platelet consumption within the graft as demonstrated by Indium 111 labeled platelet studies.
 Neither the pathogenesis nor the management of this syndrome is clear.
 Though resolution has occurred after reduction or discontinuation of Sandimmune® (cyclosporine) and 1) administration of streptokinase and heparin or 2) plasmapheresis, this appears to depend upon early detection with Indium 111 labeled platelet scans.
-(See ADVERSE REACTIONS.)
+(See ADVERSE REACTIONS)
 
 Hyperkalemia
 
@@ -86,7 +89,7 @@ Hepatotoxicity
 
 Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis, and liver failure have been reported in patients treated with cyclosporine.
 Most reports included patients with significant co-morbidities, underlying conditions and other confounding factors including infectious complications and comedications with hepatotoxic potential.
-In some cases, mainly in transplant patients, fatal outcomes have been reported (see ADVERSE REACTIONS, Postmarketing Experience)
+In some cases, mainly in transplant patients, fatal outcomes have been reported (See ADVERSE REACTIONS, Postmarketing Experience)
 
 Hepatotoxicity, usually manifested by elevations in hepatic enzymes and bilirubin, was reported in patients treated with cyclosporine in clinical trials: 4% in renal transplantation, 7% in cardiac transplantation, and 4% in liver transplantation.
 This was usually noted during the first month of therapy when high doses of Sandimmune® (cyclosporine) were used.
@@ -101,10 +104,10 @@ The efficacy and safety of cyclosporine in combination with other immunosuppress
 Some malignancies may be fatal.
 Transplant patients receiving cyclosporine are at increased risk for serious infection with fatal outcome.
 
-## Serious Infections
+Serious Infections
 
 Patients receiving immunosuppressants, including Sandimmune, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
-These infections may lead to serious, including fatal, outcomes [See BOXED WARNING, and ADVERSE REACTIONS].
+These infections may lead to serious, including fatal, outcomes (See BOXED WARNING, and ADVERSE REACTIONS).
 
 Polyoma Virus Infections
 
@@ -112,7 +115,7 @@ Patients receiving immunosuppressants, including Sandimmune, are at increased ri
 Polyoma virus infections in transplant patients may have serious, and sometimes, fatal outcomes.
 These include cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), and polyoma virus-associated nephropathy (PVAN), especially due to BK virus infection, which have been observed in patients receiving cyclosporine.
 
-PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (see ADVERSE REACTIONS/Postmarketing Experience).
+PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (See ADVERSE REACTIONS/Postmarketing Experience).
 Patient monitoring may help detect patients at risk for PVAN.
 
 Cases of PML have been reported in patients treated with Sandimmune.
@@ -127,13 +130,15 @@ Neurotoxicity
 
 There have been reports of convulsions in adult and pediatric patients receiving cyclosporine, particularly in combination with high-dose methylprednisolone.
 
-Encephalopathy has been described both in postmarketing reports and in the literature.
+Encephalopathy, including Posterior Reversible Encephalopathy Syndrome (PRES), has been described both in postmarketing reports and in the literature.
 Manifestations include impaired consciousness, convulsions, visual disturbances (including blindness), loss of motor function, movement disorders and psychiatric disturbances.
 In many cases, changes in the white matter have been detected using imaging techniques and pathologic specimens.
 Predisposing factors such as hypertension, hypomagnesemia, hypocholesterolemia, high-dose corticosteroids, high cyclosporine blood concentrations, and graft-versus-host disease have been noted in many but not all of the reported cases.
 The changes in most cases have been reversible upon discontinuation of cyclosporine, and in some cases, improvement was noted after reduction of dose.
 It appears that patients receiving liver transplant are more susceptible to encephalopathy than those receiving kidney transplant.
 Another rare manifestation of cyclosporine-induced neurotoxicity is optic disc edema including papilloedema, with possible visual impairment, secondary to benign intracranial hypertension.
+
+Specific Excipients
 
 Anaphylactic Reactions
 
@@ -150,8 +155,14 @@ An aqueous solution of epinephrine 1:1000 should be available at the bedside as 
 Anaphylactic reactions have not been reported with the soft gelatin capsules or oral solution which lack Cremophor® EL (polyoxyethylated castor oil).
 In fact, patients experiencing anaphylactic reactions have been treated subsequently with the soft gelatin capsules or oral solution without incident.
 
+Alcohol (ethanol)
+
+The alcohol content (See DESCRIPTION) of Sandimmune should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g. pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
+For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
+The daily intravenous dose would deliver approximately 15% of the amount of alcohol contained in a standard drink.
+
 Care should be taken in using Sandimmune® (cyclosporine) with nephrotoxic drugs.
-(See PRECAUTIONS.)
+(See PRECAUTIONS)
 
 Conversion from Neoral to Sandimmune
 
@@ -162,258 +173,18 @@ Conversion from Neoral® to Sandimmune® (cyclosporine) should be made with incr
 
 ## General
 
-Patients with malabsorption may have difficulty in achieving therapeutic levels with Sandimmune® Soft Gelatin Capsules or Oral Solution.
+Patients with malabsorption may have difficulty in achieving therapeutic concentrations with Sandimmune® Soft Gelatin Capsules or Oral Solution.
 
 Hypertension
 
 Hypertension is a common side effect of Sandimmune® (cyclosporine) therapy.
-(See ADVERSE REACTIONS.)
-Mild or moderate hypertension is more frequently encountered than severe hypertension and the incidence decreases over time.
+(See ADVERSE REACTIONS) Mild or moderate hypertension is more frequently encountered than severe hypertension and the incidence decreases over time.
 Antihypertensive therapy may be required.
 Control of blood pressure can be accomplished with any of the common antihypertensive agents.
 However, since cyclosporine may cause hyperkalemia, potassium-sparing diuretics should not be used.
 While calcium antagonists can be effective agents in treating cyclosporine-associated hypertension, care should be taken since interference with cyclosporine metabolism may require a dosage adjustment.
-(See Drug Interactions.)
+(See Drug Interactions)
 
 Vaccination
 
 During treatment with Sandimmune® (cyclosporine), vaccination may be less effective and the use of live attenuated vaccines should be avoided.
-
-## Information for Patients
-
-Patients should be advised that any change of cyclosporine formulation should be made cautiously and only under physician supervision because it may result in the need for a change in dosage.
-
-Patients should be informed of the necessity of repeated laboratory tests while they are receiving the drug.
-They should be given careful dosage instructions, advised of the potential risks during pregnancy, and informed of the increased risk of neoplasia.
-
-Patients using cyclosporine oral solution with its accompanying syringe for dosage measurement should be cautioned not to rinse the syringe either before or after use.
-Introduction of water into the product by any means will cause variation in dose.
-
-## Laboratory Tests
-
-Renal and liver functions should be assessed repeatedly by measurement of BUN, serum creatinine, serum bilirubin, and liver enzymes.
-
-## Drug Interactions
-
-A. Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety
-
-All of the individual drugs cited below are well substantiated to interact with cyclosporine.
-In addition, concomitant nonsteroidal anti-inflammatory drugs, particularly in the setting of dehydration, may potentiate renal dysfunction.
-
-Drugs That May Potentiate Renal Dysfunction
-
-| Antibiotics | Antineoplastic | Antifungals | Anti-Inflammatory Drugs | Gastrointestinal Agents | Immunosuppressives | Other Drugs |
-| --- | --- | --- | --- | --- | --- | --- |
-| ciprofloxacin | melphalan | amphotericin B | azapropazon | cimetidine | tacrolimus | fibric acid derivatives (e.g., bezafibrate, fenofibrate) |
-| gentamicin |  | ketoconazole | colchicine | ranitidine |  | methotrexate |
-| tobramycin |  |  | diclofenac |  |  |  |
-| trimethoprim with sulfamethoxazole |  |  | naproxen |  |  |  |
-| vancomycin |  |  | sulindac |  |  |  |
-
-Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
-Various agents are known to either increase or decrease plasma or whole blood of cyclosporine levels usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
-Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Monitoring of circulating cyclosporine concentrations and appropriate Sandimmune® (cyclosporine) dosage adjustment are essential when these drugs are used concomitantly.
-(See Blood Concentration Monitoring.)
-
-1.
-Drugs That Increase Cyclosporine Concentrations
-
-| Calcium Channel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
-| --- | --- | --- | --- | --- |
-| diltiazem | fluconazole | azithromycin | methylprednisolone | allopurinol |
-| nicardipine | itraconazole | clarithromycin |  | amiodarone |
-| verapamil | ketoconazole | erythromycin |  | bromocriptine |
-|  | voriconazole | quinupristin/ dalfopristin |  | colchicine |
-|  |  |  |  | danazol |
-|  |  |  |  | imatinib |
-|  |  |  |  | metoclopramide |
-|  |  |  |  | nefazodone |
-|  |  |  |  | oral contraceptives |
-
-HIV Protease inhibitors
-
-The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
-Care should be exercised when these drugs are administered concomitantly.
-
-Grapefruit juice
-
-Grapefruit and grapefruit juice affect metabolism, increasing blood concentrations of cyclosporine, thus should be avoided.
-
-2.
-Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
-
-| Antibiotics | Anticonvulsants | Other Drugs / Dietary Supplements |  |
-| --- | --- | --- | --- |
-| nafcillin | carbamazepine | bosentan | St. John’s Wort |
-| rifampin | oxcarbazepine | octreotide |  |
-|  | phenobarbital | orlistat |  |
-|  | phenytoin | sulfinpyrazone |  |
-|  |  | terbinafine |  |
-|  |  | ticlopidine |  |
-
-St John’s Wort
-
-There have been reports of a serious drug interaction between cyclosporine and the herbal dietary supplement, St. John’s Wort.
-This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in subtherapeutic levels, rejection of transplanted organs, and graft loss.
-
-Rifabutin
-
-Rifabutin is known to increase the metabolism of other drugs metabolized by the cytochrome P-450 system.
-The interaction between rifabutin and cyclosporine has not been studied.
-Care should be exercised when these two drugs are administered concomitantly.
-
-### B. Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents
-
-Cyclosporine is an inhibitor of CYP3A4 and of the multidrug efflux transporter P-glycoprotein and may increase plasma concentrations of comedications that are substrates of CYP3A4 or P-glycoprotein or both.
-
-Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins) and aliskiren, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
-See the full prescribing information of the other drug for further information and specific recommendations.
-The decision on co-administration of cyclosporine with other drugs or agents should be made by the physician following the careful assessment of benefits and risks.
-
-Digoxin
-
-Severe digitalis toxicity has been seen within days of starting cyclosporine in several patients taking digoxin.
-If digoxin is used concurrently with cyclosporine, serum digoxin concentrations should be monitored.
-
-Colchicine
-
-There are reports on the potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy, especially in patients with renal dysfunction.
-Concomitant administration of cyclosporine and colchicine results in significant increases in colchicine plasma concentrations.
-If colchicine is used concurrently with cyclosporine, a reduction in the dosage of colchicine is recommended.
-
-HMG Co-A reductase inhibitors (statins)
-
-Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and rarely, fluvastatin.
-When concurrently administered with cyclosporine, the dosage of these statins should be reduced according to label recommendations.
-Statin therapy needs to be temporarily withheld or discontinued in patients with signs and symptoms of myopathy or those with risk factors predisposing to severe renal injury, including renal failure, secondary to rhabdomyolysis.
-
-Repaglinide
-
-Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
-In 12 healthy male subjects who received two doses of 100mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25mg repaglinide tablet (one half of a 0.5mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 - 3.7 fold) and 2.4 fold (range 1.2 - 5.3 fold), respectively.
-Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
-
-Aliskiren
-
-Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycoprotein and CYP3A4.
-In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5 fold (90% CI: 1.96 - 3.17) and the mean AUC by approximately 4.3 fold (90% CI: 3.52 - 5.21), compared to when these subjects received aliskiren alone.
-The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the Tmax (0.5 hours versus 1.5 to 2.0 hours).
-The mean AUC and Cmax of cyclosporine were comparable to reported literature values.
-Co-administration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
-The co-administration of cyclosporine with aliskiren is not recommended.
-
-Potassium sparing diuretics
-
-Cyclosporine should not be used with potassium-sparing diuretics because hyperkalemia can occur.
-Caution is also required when cyclosporine is coadministered with potassium-sparing drugs (e.g., angiotensin-converting enzyme inhibitors, angiotensin II receptor antagonists), potassium-containing drugs as well as in patients on a potassium-rich diet.
-Control of potassium levels in these situations is advisable.
-
-Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
-
-Clinical status and serum creatinine should be closely monitored when cyclosporine is used with nonsteroidal anti-inflammatory agents in rheumatoid arthritis patients.
-(See WARNINGS.)
-
-Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99mTc-diethylenetriaminepentaacetic acid (DTPA) and (p-aminohippuric acid) PAH clearances.
-Although concomitant administration of diclofenac does not affect blood levels of cyclosporine, it has been associated with approximate doubling of diclofenac blood levels and occasional reports of reversible decreases in renal function.
-Consequently, the dose of diclofenac should be in the lower end of the therapeutic range.
-
-Methotrexate Interaction
-
-Preliminary data indicate that when methotrexate and cyclosporine were coadministered to rheumatoid arthritis patients (N=20), methotrexate concentrations (AUCs) were increased approximately 30% and the concentrations (AUCs) of its metabolite, 7-hydroxy methotrexate, were decreased by approximately 80%.
-The clinical significance of this interaction is not known.
-Cyclosporine concentrations do not appear to have been altered (N=6).
-
-Sirolimus
-
-Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dose cyclosporine.
-This effect is often reversible with cyclosporine dose reduction.
-Simultaneous coadministration of cyclosporine significantly increases blood levels of sirolimus.
-To minimize increases in sirolimus blood concentrations, it is recommended that sirolimus be given 4 hours after cyclosporine administration.
-
-Nifedipine
-
-Frequent gingival hyperplasia when nifedipine is given concurrently with cyclosporine have been reported.
-
-Methylprednisolone
-
-Convulsions when high dose methylprednisolone is given concomitantly with cyclosporine have been reported.
-
-Other Immunosuppressive Drugs and Agents
-
-Psoriasis patients receiving other immunosuppressive agents or radiation therapy (including PUVA and UVB) should not receive concurrent cyclosporine because of the possibility of excessive immunosuppression.
-
-### C. Effect of Cyclosporine on the Efficacy of Live Vaccines
-
-During treatment with cyclosporine, vaccination may be less effective.
-The use of live vaccines should be avoided.
-
-For additional information on Cyclosporine Drug Interactions please contact Novartis Medical Affairs Department at 888-NOW-NOVA (888-669-6682).
-
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
-
-Cyclosporine gave no evidence of mutagenic or teratogenic effects in appropriate test systems.
-Only at dose levels toxic to dams, were adverse effects seen in reproduction studies in rats.
-(See Pregnancy.)
-
-Carcinogenicity studies were carried out in male and female rats and mice.
-In the 78-week mouse study, at doses of 1, 4, and 16 mg/kg/day, evidence of a statistically significant trend was found for lymphocytic lymphomas in females, and the incidence of hepatocellular carcinomas in mid-dose males significantly exceeded the control value.
-In the 24-month rat study, conducted at 0.5, 2, and 8 mg/kg/day, pancreatic islet cell adenomas significantly exceeded the control rate in the low-dose level.
-The hepatocellular carcinomas and pancreatic islet cell adenomas were not dose related.
-
-No impairment in fertility was demonstrated in studies in male and female rats.
-
-Cyclosporine has not been found mutagenic/genotoxic in the Ames Test, the V79-HGPRT Test, the micronucleus test in mice and Chinese hamsters, the chromosome-aberration tests in Chinese hamster bone marrow, the mouse dominant lethal assay, and the DNA-repair test in sperm from treated mice.
-A recent study analyzing sister chromatid exchange (SCE) induction by cyclosporine using human lymphocytes in vitro gave indication of a positive effect (i.e., induction of SCE), at high concentrations in this system.
-In two published research studies, rabbits exposed to cyclosporine in utero (10 mg/kg/day subcutaneously) demonstrated reduced numbers of nephrons, renal hypertrophy, systemic hypertension and progressive renal insufficiency up to 35 weeks of age.
-Pregnant rats which received 12 mg/kg/day of cyclosporine intravenously (twice the recommended human intravenous dose) had fetuses with an increased incidence of ventricular septal defect.
-These findings have not been demonstrated in other species and their relevance for humans is unknown.
-
-An increased incidence of malignancy is a recognized complication of immunosuppression in recipients of organ transplants.
-The most common forms of neoplasms are non-Hodgkin’s lymphoma and carcinomas of the skin.
-The risk of malignancies in cyclosporine recipients is higher than in the normal, healthy population, but similar to that in patients receiving other immunosuppressive therapies.
-It has been reported that reduction or discontinuance of immunosuppression may cause the lesions to regress.
-
-## Pregnancy
-
-### Pregnancy Category C.
-
-Animal studies have shown reproductive toxicity in rats and rabbits.
-Cyclosporine gave no evidence of mutagenic or teratogenic effects in the standard test systems with oral application (rats up to 17 mg/kg and rabbits up to 30 mg/kg per day orally).
-Sandimmune® Oral Solution (cyclosporine oral solution, USP) has been shown to be embryo- and fetotoxic in rats and rabbits when given in doses 2-5 times the human dose.
-At toxic doses (rats at 30 mg/kg/day and rabbits at 100 mg/kg/day), Sandimmune® Oral Solution (cyclosporine oral solution, USP) was embryo- and fetotoxic as indicated by increased pre- and postnatal mortality and reduced fetal weight together with related skeletal retardations.
-In the well-tolerated dose range (rats at up to 17 mg/kg/day and rabbits at up to 30 mg/kg/day), Sandimmune® Oral Solution (cyclosporine oral solution, USP) proved to be without any embryolethal or teratogenic effects.
-
-There are no adequate and well-controlled studies in pregnant women and therefore, Sandimmune® (cyclosporine) should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
-
-In pregnant transplant recipients who are being treated with immunosuppressants, the risk of premature birth is increased.
-The following data represent the reported outcomes of 116 pregnancies in women receiving Sandimmune® (cyclosporine) during pregnancy, 90% of whom were transplant patients, and most of whom received Sandimmune® (cyclosporine) throughout the entire gestational period.
-Since most of the patients were not prospectively identified, the results are likely to be biased toward negative outcomes.
-The only consistent patterns of abnormality were premature birth (gestational period of 28 to 36 weeks) and low birth weight for gestational age.
-It is not possible to separate the effects of Sandimmune® (cyclosporine) on these pregnancies from the effects of the other immunosuppressants, the underlying maternal disorders, or other aspects of the transplantation milieu.
-Sixteen fetal losses occurred.
-Most of the pregnancies (85 of 100) were complicated by disorders; including, preeclampsia, eclampsia, premature labor, abruptio placentae, oligohydramnios, Rh incompatibility and fetoplacental dysfunction.
-Preterm delivery occurred in 47%.
-Seven malformations were reported in 5 viable infants and in 2 cases of fetal loss.
-Twenty-eight percent of the infants were small for gestational age.
-Neonatal complications occurred in 27%.
-In a report of 23 children followed up to 4 years, postnatal development was said to be normal.
-More information on cyclosporine use in pregnancy is available from Novartis Pharmaceuticals Corporation.
-
-A limited number of observations in children exposed to cyclosporine in utero are available, up to an age of approximately 7 years.
-Renal function and blood pressure in these children were normal.
-
-## Nursing Mothers
-
-Cyclosporine passes into breast milk.
-Mothers receiving treatment with Sandimmune® (cyclosporine) should not breast-feed.
-
-## Pediatric Use
-
-Although no adequate and well-controlled studies have been conducted in children, patients as young as 6 months of age have received the drug with no unusual adverse effects.
-
-## Geriatric Use
-
-Clinical studies of Sandimmune® (cyclosporine) did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger patients.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

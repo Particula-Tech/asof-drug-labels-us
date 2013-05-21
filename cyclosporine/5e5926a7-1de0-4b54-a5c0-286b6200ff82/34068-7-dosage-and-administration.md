@@ -11,7 +11,23 @@ There is a trend towards use of even lower initial doses for renal transplantati
 The initial single daily dose is continued postoperatively for 1-2 weeks and then tapered by 5% per week to a maintenance dose of 5-10 mg/kg/day.
 Some centers have successfully tapered the maintenance dose to as low as 3 mg/kg/day in selected renal transplant patients without an apparent rise in rejection rate.
 
-(See Blood Concentration Monitoring below.)
+(See Blood Concentration Monitoring, below.)
+
+Specific Populations
+
+Renal Impairment
+
+Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (See CLINICAL PHARMACOLOGY).
+However, due to its nephrotoxic potential (See WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated.
+(See WARNINGS and PRECAUTIONS)
+
+Hepatic Impairment
+
+The clearance of cyclosporine may be significantly reduced in severe liver disease patients (See CLINICAL PHARMACOLOGY).
+Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range.
+(See WARNINGS and PRECAUTIONS)
+
+Pediatrics
 
 In pediatric usage, the same dose and dosing regimen may be used as in adults although in several studies, children have required and tolerated higher doses than those used in adults.
 
@@ -40,7 +56,7 @@ Introduction of water into the product by any means will cause variation in dose
 FOR INFUSION ONLY
 
 Note: Anaphylactic reactions have occurred with Sandimmune® Injection (cyclosporine injection, USP).
-(See WARNINGS.)
+(See WARNINGS)
 
 Patients unable to take Sandimmune® Soft Gelatin Capsules or Oral Solution pre- or postoperatively may be treated with the I.V. concentrate.
 Sandimmune® Injection (cyclosporine injection, USP) is administered at 1/3 the oral dose.
@@ -63,15 +79,15 @@ Parenteral drug products should be inspected visually for particulate matter and
 ## Blood Concentration Monitoring
 
 Several study centers have found blood concentration monitoring of cyclosporine useful in patient management.
-While no fixed relationships have yet been established, in one series of 375 consecutive cadaveric renal transplant recipients, dosage was adjusted to achieve specific whole blood 24-hour trough levels of 100-200 ng/mL as determined by high-pressure liquid chromatography (HPLC).
+While no fixed relationships have yet been established, in one series of 375 consecutive cadaveric renal transplant recipients, dosage was adjusted to achieve specific whole blood 24-hour trough concentrations of 100-200 ng/mL as determined by high-pressure liquid chromatography (HPLC).
 
-Of major importance to blood level analysis is the type of assay used.
-The above levels are specific to the parent cyclosporine molecule and correlate directly to the new monoclonal specific radioimmunoassays (mRIA-sp).
+Of major importance to blood concentration analysis is the type of assay used.
+The above concentrations are specific to the parent cyclosporine molecule and correlate directly to the new monoclonal specific radioimmunoassays (mRIA-sp).
 Nonspecific assays are also available which detect the parent compound molecule and various of its metabolites.
-Older studies often cited levels using a nonspecific assay which were roughly twice those of specific assays.
+Older studies often cited concentrations using a nonspecific assay which were roughly twice those of specific assays.
 Assay results are not interchangeable and their use should be guided by their approved labeling.
-If plasma specimens are employed, levels will vary with the temperature at the time of separation from whole blood.
-Plasma levels may range from 1/2-1/5 of whole blood levels.
+If plasma specimens are employed, concentrations will vary with the temperature at the time of separation from whole blood.
+Plasma concentrations may range from 1/2-1/5 of whole blood concentrations.
 Refer to individual assay labeling for complete instructions.
 In addition, Transplantation Proceedings (June 1990) contains position papers and a broad consensus generated at the Cyclosporine-Therapeutic Drug Monitoring conference that year.
-Blood level monitoring is not a replacement for renal function monitoring or tissue biopsies.
+Blood concentration monitoring is not a replacement for renal function monitoring or tissue biopsies.

@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 Sandimmune® (cyclosporine) is a potent immunosuppressive agent which in animals prolongs survival of allogeneic transplants involving skin, heart, kidney, pancreas, bone marrow, small intestine, and lung.
-Sandimmune® (cyclosporine) has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund's adjuvant arthritis, and graft vs. host disease in many animal species for a variety of organs.
+Sandimmune® (cyclosporine) has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft vs. host disease in many animal species for a variety of organs.
 
 Successful kidney, liver, and heart allogeneic transplants have been performed in man using Sandimmune® (cyclosporine).
 
@@ -35,3 +35,17 @@ Only 0.1% of the dose is excreted in the urine as unchanged drug.
 Of 15 metabolites characterized in human urine, 9 have been assigned structures.
 The major pathways consist of hydroxylation of the Cγ-carbon of 2 of the leucine residues, Cη-carbon hydroxylation, and cyclic ether formation (with oxidation of the double bond) in the side chain of the amino acid 3-hydroxyl-N,4-dimethyl-L-2-amino-6-octenoic acid and N-demethylation of N-methyl leucine residues.
 Hydrolysis of the cyclic peptide chain or conjugation of the aforementioned metabolites do not appear to be important biotransformation pathways.
+
+Specific Populations
+
+Renal Impairment
+
+In a study performed in 4 subjects with end-stage renal disease (creatinine clearance <5mL/min), an intravenous infusion of 3.5 mg/kg of cyclosporine over 4 hours administered at the end of a hemodialysis session resulted in a mean volume of distribution (Vdss) of 3.49 L/kg and systemic clearance (CL) of 0.369 L/hr/kg.
+This systemic CL (0.369 L/hr/kg) was approximately two thirds of the mean systemic CL (0.56 L/hr/kg) of cyclosporine in historical control subjects with normal renal function.
+In 5 liver transplant patients, the mean clearance of cyclosporine on and off hemodialysis was 463 mL/min and 398 mL/min, respectively.
+Less than 1% of the dose of cyclosporine was recovered in the dialysate.
+
+Hepatic Impairment
+
+Cyclosporine is extensively metabolized by the liver.
+Since severe hepatic impairment may result in significantly increased cyclosporine exposures, the dosage of cyclosporine may need to be reduced in these patients.

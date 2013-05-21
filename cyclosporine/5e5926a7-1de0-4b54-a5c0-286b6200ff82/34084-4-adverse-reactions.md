@@ -79,7 +79,7 @@ Patients receiving immunosuppressive therapies, including cyclosporine and cyclo
 Both generalized and localized infections can occur.
 Pre-existing infections may also be aggravated.
 Fatal outcomes have been reported.
-(see Warnings)
+(see WARNINGS)
 
 | Infectious Complications in the Randomized Renal Transplant Patients |  |  |
 | --- | --- | --- |
@@ -106,12 +106,12 @@ These effects are reversible upon discontinuation of treatment but are usually n
 Hepatotoxicity
 
 Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported.
-[See WARNINGS/Hepatotoxicity]
+(See WARNINGS, Hepatotoxicity)
 
 Increased Risk of Infections
 
 Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported.
-[See WARNINGS/ Polyoma Virus Infection]
+(See WARNINGS, Polyoma Virus Infection)
 
 Headache, including Migraine
 

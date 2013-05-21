@@ -12,8 +12,8 @@ Sandimmune® Soft Gelatin Capsules (cyclosporine capsules, USP) and Sandimmune®
 Sandimmune® and Neoral® are not bioequivalent and cannot be used interchangeably without physician supervision.
 
 The absorption of cyclosporine during chronic administration of Sandimmune® Soft Gelatin Capsules and Oral Solution was found to be erratic.
-It is recommended that patients taking the soft gelatin capsules or oral solution over a period of time be monitored at repeated intervals for cyclosporine blood levels and subsequent dose adjustments be made in order to avoid toxicity due to high levels and possible organ rejection due to low absorption of cyclosporine.
+It is recommended that patients taking the soft gelatin capsules or oral solution over a period of time be monitored at repeated intervals for cyclosporine blood concentrations and subsequent dose adjustments be made in order to avoid toxicity due to high concentrations and possible organ rejection due to low absorption of cyclosporine.
 This is of special importance in liver transplants.
-Numerous assays are being developed to measure blood levels of cyclosporine.
-Comparison of levels in published literature to patient levels using current assays must be done with detailed knowledge of the assay methods employed.
-(See Blood Level Monitoring under DOSAGE AND ADMINISTRATION.)
+Numerous assays are being developed to measure blood concentrations of cyclosporine.
+Comparison of concentrations in published literature to patient concentrations using current assays must be done with detailed knowledge of the assay methods employed.
+(See Blood Concentration Monitoring under DOSAGE AND ADMINISTRATION)

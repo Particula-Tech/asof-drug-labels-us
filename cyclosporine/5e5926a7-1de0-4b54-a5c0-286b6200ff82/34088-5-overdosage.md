@@ -7,6 +7,6 @@ Oral doses of cyclosporine up to 10 g (about 150 mg/kg) have been tolerated with
 However, serious symptoms of intoxication have been reported following accidental parenteral overdosage with cyclosporine in premature neonates.
 General supportive measures and symptomatic treatment should be followed in all cases of overdosage.
 Sandimmune® (cyclosporine) is not dialyzable to any great extent, nor is it cleared well by charcoal hemoperfusion.
-The oral LD50 is 2329 mg/kg in mice, 1480 mg/kg in rats, and > 1000 mg/kg in rabbits.
+The oral LD50 is 2329 mg/kg in mice, 1480 mg/kg in rats, and >1000 mg/kg in rabbits.
 The I.V.
 LD50 is 148 mg/kg in mice, 104 mg/kg in rats, and 46 mg/kg in rabbits.
