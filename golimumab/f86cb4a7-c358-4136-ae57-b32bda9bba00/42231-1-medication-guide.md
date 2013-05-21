@@ -41,6 +41,10 @@ Cancer
 - People with inflammatory diseases including rheumatoid arthritis, psoriatic arthritis, or ankylosing spondylitis, especially those with very active disease, may be more likely to get lymphoma.
 - Some people treated with SIMPONI have developed certain kinds of skin cancer.
   If any changes in the appearance of your skin or growths on your skin occur during or after your treatment with SIMPONI, tell your doctor.
+- Some people receiving medicines that are like SIMPONI, called TNF-blockers, developed a rare type of cancer called hepatosplenic T-cell lymphoma.
+  This type of cancer often results in death.
+  Most of these people were male teenagers or young men.
+  Also, most people were being treated for Crohn's disease or ulcerative colitis with a TNF-blocker and another medicine called IMURAN® (azathioprine) or PURINETHOL® (6-mercaptopurine, 6-MP).
 
 What is SIMPONI?
 
@@ -50,6 +54,10 @@ SIMPONI is used in adults:
 - with the medicine methotrexate to treat moderately to severely active rheumatoid arthritis (RA)
 - to treat active psoriatic arthritis (PsA) alone or with methotrexate
 - to treat active ankylosing spondylitis (AS)
+- with moderate to severe active ulcerative colitis (UC) when certain other UC medicines have not worked well enough OR cannot be tolerated, OR if it is necessary to continue taking steroid medicines:
+  - to begin helping some of your symptoms
+  - in people who respond to SIMPONI, to get their UC under control (induce remission) and keep UC under control (sustain remission)
+  - to begin to improve the way the lining of your large intestine looks to your doctor during colonoscopy
 
 You may continue to use other medicines that help treat your condition while taking SIMPONI, such as non-steroidal anti-inflammatory drugs (NSAIDs) and prescription steroids, as recommended by your doctor.
 
@@ -91,13 +99,13 @@ Keep a list of all your medications with you to show your doctor and pharmacist 
 How should I use SIMPONI?
 
 - SIMPONI is given as an injection under the skin (subcutaneous injection).
-- SIMPONI should be injected one time each month.
 - If your doctor decides that you or a caregiver may be able to give your injections of SIMPONI at home, you should receive training on the right way to prepare and inject SIMPONI.
   Do not try to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
 - Use SIMPONI exactly as prescribed by your doctor.
+  Your doctor will tell you how much SIMPONI to inject and when to inject it depending on your medical condition.
 - SIMPONI comes in a prefilled syringe or SmartJect autoinjector.
   Your doctor will prescribe the type that is best for you.
-- See the detailed Patient Instructions for Use at the end of this Medication Guide for instructions about the right way to prepare and give your SIMPONI injections at home.
+- See the detailed Instructions for Use that comes with your SIMPONI for information about the right way to prepare and give your SIMPONI injections at home.
 - Do not miss any doses of SIMPONI.
   If you forget to use SIMPONI, inject your dose as soon as you remember.
   Then, take your next dose at your regular scheduled time.
@@ -184,7 +192,7 @@ Tell your doctor about any side effect that bothers you or does not go away.
 Call your doctor for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
 
-How do I store SIMPONI?
+How should I store SIMPONI?
 
 - Refrigerate SIMPONI at 36°F to 46°F (2°C to 8°C).
 - Do not freeze SIMPONI.
@@ -211,8 +219,10 @@ Active ingredient: golimumab.
 Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, sorbitol, polysorbate 80, and water for injection.
 SIMPONI does not contain preservatives.
 
+This Medication Guide has been approved by the U.S. Food and Drug Administration
+
 Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
 
-© Janssen Biotech, Inc. 2011
+© Janssen Biotech, Inc. 2013
 
-Revised: 04/2013 This Medication Guide has been approved by the U.S. Food and Drug Administration
+Revised: 05/2013

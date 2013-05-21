@@ -6,13 +6,19 @@
   "labeler": "Janssen Biotech, Inc.",
   "package_ndcs": [
     "57894-070-01",
-    "57894-070-02"
+    "57894-070-02",
+    "57894-070-89",
+    "57894-070-90",
+    "57894-071-01",
+    "57894-071-02",
+    "57894-071-89",
+    "57894-071-90"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "golimumab",
-      "name": "SIMPONI"
+      "name": "Simponi"
     }
   ],
   "setid": "f86cb4a7-c358-4136-ae57-b32bda9bba00",

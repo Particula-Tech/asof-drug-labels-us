@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B – There are no adequate and well-controlled studies of SIMPONI in pregnant women.
+Pregnancy Category B – There are no adequate and well-controlled trials of SIMPONI in pregnant women.
 Because animal reproduction and developmental studies are not always predictive of human response, it is not known whether SIMPONI can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 SIMPONI should be used during pregnancy only if clearly needed.
 
@@ -32,4 +32,5 @@ Safety and effectiveness of SIMPONI in pediatric patients less than 18 years of 
 ## 8.5 Geriatric Use
 
 In the Phase 3 trials in RA, PsA, and AS, there were no overall differences in SAEs, serious infections, and AEs in SIMPONI-treated patients ages 65 or older (N = 155) compared with younger SIMPONI-treated patients.
+In UC, there were insufficient numbers of patients aged 65 and over to determine whether they respond differently from patients aged 18 to 65.
 Because there is a higher incidence of infections in the geriatric population in general, caution should be used in treating geriatric patients with SIMPONI.

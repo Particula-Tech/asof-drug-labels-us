@@ -5,9 +5,9 @@
 For the treatment of RA, SIMPONI should be used with methotrexate (MTX) [see Clinical Studies (14.1)].
 Since the presence or absence of concomitant MTX did not appear to influence the efficacy or safety of SIMPONI in the treatment of PsA or AS, SIMPONI can be used with or without MTX in the treatment of PsA and AS [see Clinical Studies (14.1) and Clinical Pharmacology (12.3)].
 
-## 7.2 Biologic Products for RA, PsA, and/or AS
+## 7.2 Biological Products for RA, PsA, and/or AS
 
-An increased risk of serious infections has been seen in clinical RA studies of other TNF-blockers used in combination with anakinra or abatacept, with no added benefit; therefore, use of SIMPONI with abatacept or anakinra is not recommended [see Warnings and Precautions (5.5 and 5.6)].
+An increased risk of serious infections has been seen in clinical RA trials of other TNF-blockers used in combination with anakinra or abatacept, with no added benefit; therefore, use of SIMPONI with abatacept or anakinra is not recommended [see Warnings and Precautions (5.5, 5.6)].
 A higher rate of serious infections has also been observed in RA patients treated with rituximab who received subsequent treatment with a TNF-blocker.
 The concomitant use of SIMPONI with biologics approved to treat RA, PsA, or AS is not recommended because of the possibility of an increased risk of infection.
 
@@ -16,7 +16,7 @@ The concomitant use of SIMPONI with biologics approved to treat RA, PsA, or AS i
 Live vaccines should not be given concurrently with SIMPONI [see Warnings and Precautions (5.9)].
 
 Infants born to women treated with SIMPONI during their pregnancy may be at increased risk of infection for up to 6 months.
-Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy (see Use in Specific Populations (8.1)].
+Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Use in Specific Populations (8.1)].
 
 ## 7.4 Cytochrome P450 Substrates
 

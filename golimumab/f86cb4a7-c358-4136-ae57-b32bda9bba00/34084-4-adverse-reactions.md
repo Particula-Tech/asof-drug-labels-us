@@ -1,13 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+## 6.1 Clinical Trials Experience
+
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-## 6.1 Clinical Studies Experience
-
-The safety data described below are based on 5 pooled, randomized, double-blind, controlled Phase 3 trials in patients with RA, PsA, and AS (Studies RA-1, RA-2, RA-3, PsA, and AS) [see Clinical Studies (14.1, 14.2 and 14.3)].
+The safety data described below are based on 5 pooled, randomized, double-blind, controlled Phase 3 trials in patients with RA, PsA, and AS (Trials RA-1, RA-2, RA-3, PsA, and AS) [see Clinical Studies (14.1, 14.2, and 14.3)].
 These 5 trials included 639 control-treated patients and 1659 SIMPONI-treated patients including 1089 with RA, 292 with PsA, and 278 with AS.
+The safety data in 1233 SIMPONI-treated patients with ulcerative colitis from 3 pooled, randomized, double-blind, controlled Phase 2/3 trials are also described below (Trials UC-1, UC-2, and UC-3) [see Clinical Studies (14.4)].
 The proportion of patients who discontinued treatment due to adverse reactions in the controlled Phase 3 trials through Week 16 in RA, PsA and AS was 2% for SIMPONI-treated patients and 3% for placebo-treated patients.
-The most common adverse reactions leading to discontinuation of SIMPONI in the controlled Phase 3 trials through Week 16 were sepsis (0.2%), alanine aminotransferase increased (0.2%), and aspartate aminotransferase increased (0.2%).
+The most common adverse reactions leading to discontinuation of SIMPONI in the controlled Phase 3 trials in RA, PsA and AS through Week 16 were sepsis (0.2%), alanine aminotransferase increased (0.2%), and aspartate aminotransferase increased (0.2%).
+The most common adverse drug reactions leading to discontinuation through Week 60 of the UC trials in patients who received SIMPONI induction and 100 mg during maintenance compared with patients who received SIMPONI induction and placebo during maintenance were tuberculosis (0.3% vs 0.6%) and anemia (0.3% vs 0%), respectively.
 
 The most serious adverse reactions were:
 
@@ -18,13 +20,25 @@ Upper respiratory tract infection and nasopharyngitis were the most common adver
 
 Infections
 
-In controlled Phase 3 trials through Week 16 in RA, PsA, and AS, infections were observed in 28% of SIMPONI-treated patients compared to 25% of control-treated patients [for Serious Infections, see Warnings and Precautions (5.1)].
+In controlled Phase 3 trials through Week 16 in RA, PsA, and AS, infections were observed in 28% of SIMPONI-treated patients compared to 25% of control-treated patients.
+For serious infections, see the Warnings and Precautions section [see Warnings and Precautions (5.1)].
+In the controlled Phase 2/3 trial of SIMPONI induction through Week 6 in UC, the rates of infections were similar in SIMPONI 200/100 mg-treated patients and placebo-treated patients, or approximately 12%.
+Through Week 60, the incidence per patient year of infections was similar in patients who received SIMPONI induction and 100 mg during maintenance compared with patients who received SIMPONI induction and placebo during the maintenance portion of the UC trial.
+
+Demyelinating Disorders
+
+In the controlled Phase 2/3 trial of SIMPONI induction through Week 6, no cases of demyelination were observed in SIMPONI 200/100 mg-treated patients or placebo-treated patients.
+Through Week 60, there were no cases of demyelination in the SIMPONI 100 mg group during maintenance.
+One case of CNS demyelination was observed in the placebo maintenance group in a patient who received SIMPONI 400/200 mg during induction.
 
 Liver Enzyme Elevations
 
 There have been reports of severe hepatic reactions including acute liver failure in patients receiving TNF-blockers.
 In controlled Phase 3 trials of SIMPONI in patients with RA, PsA, and AS through Week 16, ALT elevations ≥ 5 × ULN occurred in 0.2% of control-treated patients and 0.7% of SIMPONI-treated patients and ALT elevations ≥ 3 × ULN occurred in 2% of control-treated patients and 2% of SIMPONI-treated patients.
-Since many of the patients in the Phase 3 trials were also taking medications that cause liver enzyme elevations (e.g., NSAIDs, MTX), the relationship between SIMPONI and liver enzyme elevation is not clear.
+Since many of the patients in the Phase 3 trials for RA, PsA, and AS were also taking medications that cause liver enzyme elevations (e.g., NSAIDs, MTX), the relationship between SIMPONI and liver enzyme elevation is not clear.
+
+In Phase 2/3 UC trials, the incidence of ALT elevations ≥ 5 × ULN was similar in SIMPONI-treated patients and placebo-treated patients, or approximately 1%, with an average duration of follow-up of 46 weeks and 18 weeks, respectively.
+ALT elevations ≥ 3 × ULN occurred in 2.0% of SIMPONI-treated patients compared with 1.5% of placebo-treated patients with an average duration of follow-up of 46 weeks and 18 weeks, respectively.
 
 Autoimmune Disorders and Autoantibodies
 
@@ -32,19 +46,31 @@ The use of TNF-blockers, including SIMPONI, has been associated with the formati
 In the controlled Phase 3 trials in patients with RA, PsA, and AS through Week 14, there was no association of SIMPONI treatment and the development of newly positive anti-dsDNA antibodies.
 In Phase 3 trials in RA, PsA, and AS through 1 year of follow up, 4.0% of SIMPONI-treated patients and 2.6% of control patients were newly ANA-positive (at titers of 1:160 or greater).
 The frequency of anti-dsDNA antibodies at 1 year of follow up was uncommon in patients who were anti-dsDNA negative at baseline.
+Through Week 60 of the UC trials, 3.5% of patients who received SIMPONI induction and 100 mg during maintenance were newly ANA-positive (at titers of 1:160 or greater) compared with 3.5% of patients who received SIMPONI induction and placebo during the maintenance portion of the UC trial.
+The frequency of anti-dsDNA antibodies at 1 year of follow up in patients who were anti-dsDNA negative at baseline was 0.5% in patients receiving SIMPONI induction and 100 mg during maintenance compared with 0% in patients who received SIMPONI induction and placebo during maintenance.
 
 Injection Site Reactions
 
 In controlled Phase 3 trials through Week 16 in RA, PsA and AS, 6% of SIMPONI-treated patients had injection site reactions compared with 2% of control-treated patients.
 The majority of the injection site reactions were mild and the most frequent manifestation was injection site erythema.
-In controlled Phase 2 and 3 trials in RA, PsA, and AS, no patients treated with SIMPONI developed anaphylactic reactions.
+
+In the controlled Phase 2/3 trial through Week 6 in UC, 3.4% of SIMPONI-treated patients had injection site reactions compared with 1.5% in control-treated patients.
+The majority of the injection site reactions were mild and moderate and the most frequent manifestation was injection site erythema.
+
+In controlled Phase 2 and 3 trials in RA, PsA, AS, and Phase 2/3 UC trials, no patients treated with SIMPONI developed anaphylactic reactions.
 
 Immunogenicity
 
 Antibodies to SIMPONI were detected in 57 (4%) of SIMPONI-treated patients across the Phase 3 RA, PsA, and AS trials through Week 24.
 Similar rates were observed in each of the three indications.
 Patients who received SIMPONI with concomitant MTX had a lower proportion of antibodies to SIMPONI than patients who received SIMPONI without MTX (approximately 2% versus 7%, respectively).
+
+The presence of serum concentrations of golimumab can interfere with the detection of antibodies to SIMPONI leading to inconclusive results.
+In UC trials, 34 (3%), 341 (28%) and 823 (69%) of SIMPONI-treated subjects were positive, negative and inconclusive for antibodies to SIMPONI, respectively.
+Treatment with concomitant immunomodulators (AZA, 6-MP and MTX) resulted in a lower proportion of patients with antibodies to SIMPONI than patients receiving SIMPONI without immunomodulators (2% versus 4%, respectively).
+
 Of the patients with a positive antibody response to SIMPONI in the Phase 2 and 3 trials, most were determined to have neutralizing antibodies to golimumab as measured by a cell-based functional assay.
+
 The small number of patients positive for antibodies to SIMPONI limits the ability to draw definitive conclusions regarding the relationship between antibodies to golimumab and clinical efficacy or safety measures.
 
 The data above reflect the percentage of patients whose test results were considered positive for antibodies to SIMPONI in an ELISA assay, and are highly dependent on the sensitivity and specificity of the assay.
@@ -93,13 +119,17 @@ Skin and subcutaneous tissue disorders: psoriasis (new onset or worsening, palma
 
 Vascular disorders: Vasculitis (systemic)
 
+Other clinical trial adverse drug reactions in ulcerative colitis clinical trials
+
+In the Phase 2/3 trials in UC evaluating 1233 SIMPONI-treated patients, no new adverse drug reactions were identified and the frequency of adverse drug reactions was similar to the safety profile observed in patients with RA, PsA and AS.
+
 ## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of SIMPONI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SIMPONI exposure.
 
-Neoplasm Benign and Malignant: Melanoma [see Warnings and Precautions (5.2)]
-
 Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.10)], sarcoidosis
+
+Neoplasms benign, malignant and unspecified: Melanoma [see Warnings and Precautions (5.2)]
 
 Skin and subcutaneous tissue disorders: Skin exfoliation

@@ -1,7 +1,5 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-(see Boxed WARNING)
-
 ## 5.1 Serious Infections
 
 Patients treated with SIMPONI are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
@@ -12,7 +10,7 @@ The concomitant use of a TNF-blocker and abatacept or anakinra was associated wi
 
 Treatment with SIMPONI should not be initiated in patients with an active infection, including clinically important localized infections.
 Patients greater than 65 years of age, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.
-The risks and benefits of treatment should be considered prior to initiating SIMPONI in patients:
+Consider the risks and benefits of treatment prior to initiating SIMPONI in patients:
 
 - with chronic or recurrent infection;
 - who have been exposed to tuberculosis;
@@ -22,41 +20,46 @@ The risks and benefits of treatment should be considered prior to initiating SIM
 
 Monitoring
 
-Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with SIMPONI.
-SIMPONI should be discontinued if a patient develops a serious infection, an opportunistic infection, or sepsis.
-A patient who develops a new infection during treatment with SIMPONI should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with SIMPONI.
+Discontinue SIMPONI if a patient develops a serious infection, an opportunistic infection, or sepsis.
+For a patient who develops a new infection during treatment with SIMPONI, perform a prompt and complete diagnostic workup appropriate for an immunocompromised patient, initiate appropriate antimicrobial therapy and closely monitor them.
 
 Serious Infection in Clinical Trials
 
 In controlled Phase 3 trials through Week 16 in patients with RA, PsA, and AS, serious infections were observed in 1.4% of SIMPONI-treated patients and 1.3% of control-treated patients.
 In the controlled Phase 3 trials through Week 16 in patients with RA, PsA, and AS, the incidence of serious infections per 100 patient-years of follow-up was 5.7 (95% CI: 3.8, 8.2) for the SIMPONI group and 4.2 (95% CI: 1.8, 8.2) for the placebo group.
+In the controlled Phase 2/3 trial through Week 6 of SIMPONI induction in UC, the incidence of serious infections in SIMPONI 200/100 mg-treated patients was similar to the incidence of serious infections in placebo-treated patients.
+Through Week 60, the incidence of serious infections was similar in patients who received SIMPONI induction and 100 mg during maintenance compared with patients who received SIMPONI induction and placebo during the maintenance portion of the UC trial.
 Serious infections observed in SIMPONI-treated patients included sepsis, pneumonia, cellulitis, abscess, tuberculosis, invasive fungal infections, and hepatitis B infection.
 
 Tuberculosis
 
 Cases of reactivation of tuberculosis or new tuberculosis infections have been observed in patients receiving TNF-blockers, including patients who have previously received treatment for latent or active tuberculosis.
-Patients should be evaluated for tuberculosis risk factors and tested for latent infection prior to initiating SIMPONI and periodically during therapy.
+Evaluate patients for tuberculosis risk factors and test for latent infection prior to initiating SIMPONI and periodically during therapy.
 
 Treatment of latent tuberculosis infection prior to therapy with TNF-blockers has been shown to reduce the risk of tuberculosis reactivation during therapy.
-Induration of 5 mm or greater with tuberculin skin testing should be considered a positive test result when assessing if treatment for latent tuberculosis is needed prior to initiating SIMPONI, even for patients previously vaccinated with Bacille Calmette-Guerin (BCG).
+Prior to initiating SIMPONI, assess if treatment for latent tuberculosis is needed; an induration of 5 mm or greater is a positive tuberculin skin test, even for patients previously vaccinated with Bacille Calmette-Guerin (BCG).
 
-Anti-tuberculosis therapy should also be considered prior to initiation of SIMPONI in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
+Consider anti-tuberculosis therapy prior to initiation of SIMPONI in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
 Consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
 
-Patients should be closely monitored for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
+Monitor patients for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
 
-Tuberculosis should be strongly considered in patients who develop a new infection during SIMPONI treatment, especially in patients who have previously or recently traveled to countries with a high prevalence of tuberculosis, or who have had close contact with a person with active tuberculosis.
+Consider tuberculosis in the differential diagnosis in patients who develop a new infection during SIMPONI treatment, especially in patients who have previously or recently traveled to countries with a high prevalence of tuberculosis, or who have had close contact with a person with active tuberculosis.
 
 In the controlled and uncontrolled portions of the Phase 2 RA and Phase 3 RA, PsA, and AS trials, the incidence of active TB was 0.23 and 0 per 100 patient-years in 2347 SIMPONI-treated patients and 674 placebo-treated patients, respectively.
 Cases of TB included pulmonary and extra pulmonary TB.
 The overwhelming majority of the TB cases occurred in countries with a high incidence rate of TB.
+In the controlled Phase 2/3 trial of SIMPONI induction through Week 6 in UC, no cases of TB were observed in SIMPONI 200/100 mg-treated patients or in placebo-treated patients.
+Through Week 60, the incidence per 100 patient-years of TB in patients who received SIMPONI induction and 100 mg during the maintenance portion of the UC trial was 0.52 (95% CI: 0.11, 1.53).
+One case of TB was observed in the placebo maintenance group in a patient who received SIMPONI intravenous (IV) induction.
 
 Invasive Fungal Infections
 
-For SIMPONI-treated patients who reside or travel in regions where mycoses are endemic, invasive fungal infection should be suspected if they develop a serious systemic illness.
-Appropriate empiric antifungal therapy should be considered while a diagnostic workup is being performed.
+If patients develop a serious systemic illness and they reside or travel in regions where mycoses are endemic, consider invasive fungal infection in the differential diagnosis.
+Consider appropriate empiric antifungal therapy and take into account both the risk for severe fungal infection and the risks of antifungal therapy while a diagnostic workup is being performed.
 Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection.
-When feasible, the decision to administer empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the diagnosis and treatment of invasive fungal infections and should take into account both the risk for severe fungal infection and the risks of antifungal therapy.
+To aid in the management of such patients, consider consultation with a physician with expertise in the diagnosis and treatment of invasive fungal infections.
 
 Hepatitis B Virus Reactivation
 
@@ -87,12 +90,27 @@ The risks and benefits of TNF-blocker treatment including SIMPONI should be cons
 
 In the controlled portions of clinical trials of TNF-blockers including SIMPONI, more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with patients in the control groups.
 During the controlled portions of the Phase 2 trials in RA, and the Phase 3 trials in RA, PsA and AS, the incidence of lymphoma per 100 patient-years of follow-up was 0.21 (95% CI: 0.03, 0.77) in the combined SIMPONI group compared with an incidence of 0 (95% CI: 0., 0.96) in the placebo group.
-In the controlled and uncontrolled portions of these clinical trials in 2347 SIMPONI-treated patients with a median follow-up of 1.4 years, the incidence of lymphoma was 3.8-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1 Patients with RA and other chronic inflammatory diseases, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blocking therapy.
+In the controlled and uncontrolled portions of these clinical trials in 2347 SIMPONI-treated patients with a median follow-up of 1.4 years, the incidence of lymphoma was 3.8-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1 Through Week 60 of the UC trials, there were no cases of lymphoma with SIMPONI.
+Patients with RA and other chronic inflammatory diseases, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blocking therapy.
 Cases of acute and chronic leukemia have been reported with postmarketing TNF-blocker use in rheumatoid arthritis and other indications.
 Even in the absence of TNF blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
 
+Rare post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported in patients treated with TNF-blocking agents.
+This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
+Nearly all of the reported TNF-blocker associated cases have occurred in patients with Crohn's disease with some occurring in ulcerative colitis patients.
+The majority were in adolescent and young adult males.
+Almost all these patients had received treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) concomitantly with a TNF blocker at or prior to diagnosis.
+The potential risk with the combination of AZA or 6-MP and SIMPONI should be carefully considered.
+A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
+
 During the controlled portions of the Phase 2 trial in RA, and the Phase 3 trials in RA, PsA and AS, the incidence of malignancies other than lymphoma per 100 patient-years of follow-up was not elevated in the combined SIMPONI group compared with the placebo group.
-In the controlled and uncontrolled portions of these trials, the incidence of malignancies, other than lymphoma, in SIMPONI-treated patients was similar to that expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1
+In the controlled and uncontrolled portions of these trials, the incidence of malignancies, other than lymphoma, in SIMPONI-treated patients was similar to that expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1 In the 6-week placebo-controlled portions of the SIMPONI Phase 2/3 clinical trials in UC, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the SIMPONI and the placebo group.
+Through Week 60, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar to the general U.S. population according to the SEER database (adjusted for age, gender, and race).1 Short follow-up periods, such as those of one year or less in the studies above, may not adequately reflect the true incidence of malignancies.
+
+It is not known if SIMPONI treatment influences the risk for developing dysplasia or colon cancer.
+All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
+This evaluation should include colonoscopy and biopsies per local recommendations.
+In patients with newly diagnosed dysplasia treated with SIMPONI, the risks and benefits to the individual patient must be carefully reviewed and consideration should be given to whether therapy should be continued.
 
 Melanoma has been reported in patients treated with TNF-blocking agents, including SIMPONI.
 Merkel cell carcinoma has been reported in patients treated with TNF-blocking agents.
@@ -126,21 +144,21 @@ Therefore, the combination of TNF-blockers including SIMPONI and abatacept is no
 Concurrent administration of anakinra (an interleukin-1 antagonist) and another TNF-blocker, was associated with a greater portion of serious infections and neutropenia and no additional benefits compared with the TNF-blocker alone.
 Therefore, the combination of anakinra with TNF-blockers, including SIMPONI, is not recommended [see Drug Interactions (7.2)].
 
-## 5.7 Switching Between Biological Disease Modifying Antirheumatic Drugs (DMARDs)
+## 5.7 Switching Between Biological Disease Modifying Antirheumatic Drugs
 
-Care should be taken when switching from one biologic to another since overlapping biological activity may further increase the risk of infection.
+Care should be taken when switching from one biological product to another biological product since overlapping biological activity may further increase the risk of infection.
 
 ## 5.8 Hematologic Cytopenias
 
 There have been post-marketing reports of pancytopenia, leukopenia, neutropenia, aplastic anemia, and thrombocytopenia in patients receiving TNF-blockers.
-In clinical studies, cases of pancytopenia, leukopenia, neutropenia, and thrombocytopenia have also occurred in SIMPONI-treated patients.
+In clinical trials, cases of pancytopenia, leukopenia, neutropenia, and thrombocytopenia have also occurred in SIMPONI-treated patients.
 Caution should be exercised when using TNF-blockers, including SIMPONI, in patients who have or have had significant cytopenias.
 
 ## 5.9 Vaccinations
 
 Patients treated with SIMPONI may receive vaccinations, except for live vaccines.
 No data are available on the response to live vaccination or the risk of infection, or transmission of infection after the administration of live vaccines to patients receiving SIMPONI.
-In the Phase 3 PsA study, after pneumococcal vaccination, a similar proportion of SIMPONI-treated and placebo-treated patients were able to mount an adequate immune response of at least a 2-fold increase in antibody titers to pneumococcal polysaccharide vaccine.
+In the Phase 3 PsA trial, after pneumococcal vaccination, a similar proportion of SIMPONI-treated and placebo-treated patients were able to mount an adequate immune response of at least a 2-fold increase in antibody titers to pneumococcal polysaccharide vaccine.
 In both SIMPONI-treated and placebo-treated patients, the proportions of patients with response to pneumococcal vaccine were lower among patients receiving MTX compared with patients not receiving MTX.
 The data suggest that SIMPONI does not suppress the humoral immune response to the pneumococcal vaccine.
 
