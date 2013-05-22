@@ -27,7 +27,11 @@ Because it is known that the risk of myopathy during treatment with HMG-CoA redu
 
 The risk of skeletal muscle effects may be enhanced when LIVALO is used in combination with niacin; a reduction in LIVALO dosage should be considered in this setting [see Warnings and Precautions (5.1)].
 
-## 7.7 Warfarin
+## 7.7 Colchicine
+
+Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors coadministered with colchicine, and caution should be exercised when prescribing LIVALO with colchicine.
+
+## 7.8 Warfarin
 
 LIVALO had no significant pharmacokinetic interaction with R- and S- warfarin.
 LIVALO had no significant effect on prothrombin time (PT) and international normalized ratio (INR) when administered to patients receiving chronic warfarin treatment [see Clinical Pharmacology (12.3)].

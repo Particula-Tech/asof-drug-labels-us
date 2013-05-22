@@ -10,6 +10,8 @@ These factors include advanced age (≥65 years), renal impairment, and inadequa
 The risk of myopathy may also be increased with concurrent administration of fibrates or lipid-modifying doses of niacin.
 LIVALO should be administered with caution in patients with impaired renal function, in elderly patients, or when used concomitantly with fibrates or lipid-modifying doses of niacin [see Drug Interactions (7.6), Use in Specific Populations (8.5, 8.6) and Clinical Pharmacology (12.3)].
 
+Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors coadministered with colchicine, and caution should be exercised when prescribing LIVALO with colchicine [see Drug Interactions (7.7)].
+
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
 
@@ -26,6 +28,7 @@ In placebo-controlled Phase 2 studies, ALT >3 times the upper limit of normal wa
 One out of 202 patients (0.5%) administered LIVALO 4 mg had ALT >3 times the upper limit of normal.
 
 It is recommended that liver enzyme tests be performed before the initiation of LIVALO and if signs or symptoms of liver injury occur.
+All patients treated with LIVALO should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pitavastatin.
 If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with LIVALO, promptly interrupt therapy.
