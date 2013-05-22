@@ -35,7 +35,7 @@ Risks Specific to Abuse of Morphine Sulfate Extended-Release Tablets
 Morphine sulfate extended-release tablets are for oral use only.
 Abuse of morphine sulfate extended-release tablets poses a risk of overdose and death.
 This risk is increased with concurrent abuse of morphine sulfate extended-release tablets with alcohol and other substances.
-Taking cut, broken, chewed, crushed, or morphine sulfate extended-release tablets enhance drug release and increases the risk of overdose and death.
+Taking cut, broken, chewed, crushed, or dissolved morphine sulfate extended-release tablets enhances drug release and increases the risk of overdose and death.
 
 Due to the presence of talc as one of the excipients in morphine sulfate extended-release tablets, parenteral abuse can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.

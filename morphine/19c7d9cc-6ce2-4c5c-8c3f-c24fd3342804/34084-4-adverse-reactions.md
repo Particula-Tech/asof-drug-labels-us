@@ -14,7 +14,7 @@ The following adverse reactions described elsewhere in the labeling include:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Morphine sulfate extended-release tablets may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [seeOverdosage (10)].
+Morphine sulfate extended-release tablets may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [see Overdosage (10)].
 
 Most Frequently Observed Reactions
 

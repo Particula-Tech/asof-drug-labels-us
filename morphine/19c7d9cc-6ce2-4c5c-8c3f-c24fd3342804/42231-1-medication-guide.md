@@ -59,10 +59,7 @@ While taking morphine sulfate extended-release tablets Do Not:
 The possible side effects of morphine sulfate extended-release tablets are:
 
 - constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain.
-  Call your healthcare provider if you have any of these symptoms and they are severe.
-
-Get emergency medical help if you have:
-
+  Call your healthcare provider if you have any of these symptoms and they are severe.Get emergency medical help if you have:
 - trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, or you are feeling faint.
 
 These are not all the possible side effects of morphine sulfate extended-release tablets.
@@ -70,4 +67,6 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
-Manufactured for: Rhodes Pharmaceuticals L.P., or call 1-888-827-0616 302828-0A This Medication Guide has been approved by the U.S. FDA Issue: 07/2012
+Manufactured for: Rhodes Pharmaceuticals L.P., or call 1-888-827-0616
+
+This Medication Guide has been approved by the U.S. FDA Issue: 07/2012 302942-0A

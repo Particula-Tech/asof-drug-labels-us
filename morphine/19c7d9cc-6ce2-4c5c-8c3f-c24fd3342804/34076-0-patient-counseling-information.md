@@ -1,4 +1,4 @@
-# 17 INFORMATION FOR PATIENTS
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling (Medication Guide)
 
@@ -66,5 +66,7 @@ Coventry, RI 02816
 Manufactured by: Purdue Pharmaceuticals, L.P.
 Wilson, NC 27893
 
-302567-0A Rev.
-05/12
+302942-0A
+
+Rev.
+10/12

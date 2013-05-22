@@ -31,7 +31,7 @@ Decreased fertility in female offspring, and decreased plasma and testicular lev
 Decreased litter size and viability were observed in the offspring of male rats administered morphine (25 mg/kg, IP) for 1 day prior to mating.
 Behavioral abnormalities resulting from chronic morphine exposure of fetal animals included altered reflex and motor skill development, mild withdrawal, and altered responsiveness to morphine persisting into adulthood.
 
-## 8.2 Labor & Delivery
+## 8.2 Labor and Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 Morphine sulfate extended-release tablets are not recommended for use in women during and immediately prior to labor.

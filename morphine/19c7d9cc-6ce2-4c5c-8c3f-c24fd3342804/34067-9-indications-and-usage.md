@@ -1,7 +1,4 @@
-# 1 INDICATIONS & USAGE
-
-- 
-- 
+# 1 INDICATIONS AND USAGE
 
 Morphine Sulfate Extended-Release Tablets are indicated for the management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
 

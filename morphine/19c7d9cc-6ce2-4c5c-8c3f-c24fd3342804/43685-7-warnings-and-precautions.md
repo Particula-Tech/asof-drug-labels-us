@@ -35,13 +35,13 @@ Respiratory depression has also been reported with use of modified-release opioi
 
 To further reduce the risk of respiratory depression, consider the following:
 
-- •Proper dosing and titration are essential and morphine sulfate extended-release tablets should only be prescribed by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+- Proper dosing and titration are essential and morphine sulfate extended-release tablets should only be prescribed by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
   Morphine sulfate extended-release 100 mg and 200 mg tablets are for use in opioid-tolerant patients only.
   Ingestion of these strengths of morphine sulfate extended-release tablets may cause fatal respiratory depression when administered to patients not already tolerant to high doses of opioids.
-- •Instruct patients to swallow morphine sulfate extended-release tablets intact.
+- Instruct patients to swallow morphine sulfate extended-release tablets intact.
   The tablets are not to be crushed, dissolved, or chewed.
   The resulting morphine dose may be fatal, particularly in opioid-naïve individuals.
-- •Morphine sulfate extended-release tablets are contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
+- Morphine sulfate extended-release tablets are contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
 
 ## 5.3 Accidental Exposure
 

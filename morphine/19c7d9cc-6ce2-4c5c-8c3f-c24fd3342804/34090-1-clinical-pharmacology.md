@@ -101,7 +101,7 @@ The pharmacokinetics of morphine sulfate extended-release tablets have not been 
 
 Pediatric Patients
 
-The pharmacokinetics of morphine sulfate extended-release tablets has not been studied in pediatric patients below the age of 18.
+The pharmacokinetics of morphine sulfate extended-release tablets have not been studied in pediatric patients below the age of 18.
 
 Gender
 

@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Initial Dosing
 
@@ -31,10 +31,8 @@ While there are useful tables of oral and parenteral equivalents, there is subst
 As such, it is safer to underestimate a patient’s 24-hour oral morphine dose and provide rescue medication (e.g., immediate-release morphine) than to overestimate the 24-hour oral morphine dose and manage an adverse reaction.
 Consider the following general points:
 
-- 
 - Parenteral to oral morphine ratio: Between 2 to 6 mg of oral morphine may be required to provide analgesia equivalent to 1 mg of parenteral morphine.
   Typically, a dose of morphine that is approximately three times the previous daily parenteral morphine requirement is sufficient.
-- 
 - Other parenteral or oral non-morphine opioids to oral morphine sulfate: Specific recommendations are not available because of a lack of systematic evidence for these types of analgesic substitutions.
   Published relative potency data are available, but such ratios are approximations.
   In general, begin with half of the estimated daily morphine requirement as the initial dose, managing inadequate analgesia by supplementation with immediate-release morphine.
