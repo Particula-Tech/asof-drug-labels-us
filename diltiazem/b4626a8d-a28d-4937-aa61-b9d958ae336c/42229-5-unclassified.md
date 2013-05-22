@@ -2,12 +2,12 @@ Rx only
 
 Once-a-Day Dosage
 
-Cardizem® is a registered trademark of Biovail Laboratories International SRL
+Unless otherwise indicated, all trademarks are property of the Valeant family of companies.
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
+Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
-Manufactured for: Abbott Laboratories North Chicago, IL.
+Manufactured for: AbbVie Inc. North Chicago, IL.
 60064 USA
 
-LB0024-08 Rev.
-11/10
+LB0024-09 Rev.
+03/13

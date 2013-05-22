@@ -10,7 +10,7 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 Rx ONLY
 
-Abbott
+abbvie
 
 # PRINCIPAL DISPLAY PANEL - 180 mg Bottle Label
 
@@ -24,7 +24,7 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 Rx ONLY
 
-Abbott
+abbvie
 
 # PRINCIPAL DISPLAY PANEL - 240 mg Bottle Label
 
@@ -38,7 +38,7 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 Rx ONLY
 
-Abbott
+abbvie
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
 
@@ -52,7 +52,7 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 Rx ONLY
 
-Abbott
+abbvie
 
 # PRINCIPAL DISPLAY PANEL - 360 mg Bottle Label
 
@@ -66,7 +66,7 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 Rx ONLY
 
-Abbott
+abbvie
 
 # PRINCIPAL DISPLAY PANEL - 420 mg Bottle Label
 
@@ -80,4 +80,4 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 Rx ONLY
 
-Abbott
+abbvie
