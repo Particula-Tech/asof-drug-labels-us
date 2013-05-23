@@ -47,7 +47,7 @@ Antimicrobial agents used in high doses for short periods of time to treat non-g
 All patients with sexually-transmitted urethritis or cervicitis should have a serologic test for syphilis and appropriate cultures for gonorrhea performed at the time of diagnosis.
 Appropriate antimicrobial therapy and follow-up tests for these diseases should be initiated if infection is confirmed.
 
-Appropriate culture and susceptibility tests should be performed before treatment to determine the causative organism and its susceptibility to azithromycin.
+Appropriate culture and susceptibility tests should be performed before treatment to determine the causative organism and its susceptibility to azithromycin, USP.
 Therapy with azithromycin for oral suspension USP may be initiated before results of these tests are known; once the results become available, antimicrobial therapy should be adjusted accordingly.
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin for oral suspension USP and other antibacterial drugs, azithromycin for oral suspension USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.

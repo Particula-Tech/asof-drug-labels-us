@@ -2,7 +2,7 @@
 
 In clinical trials, most of the reported side effects were mild to moderate in severity and were reversible upon discontinuation of the drug.
 Potentially serious side effects of angioedema and cholestatic jaundice were reported rarely.
-Approximately 0.7% of the patients (adults and pediatric patients) from the 5 day multiple dose clinical trials discontinued azithromycin therapy because of treatment-related side effects.
+Approximately 0.7% of the patients (adults and pediatric patients) from the 5 day multiple-dose clinical trials discontinued azithromycin therapy because of treatment-related side effects.
 In adults given 500 mg/day for 3 days, the discontinuation rate due to treatment-related side effects was 0.6%.
 In clinical trials in pediatric patients given 30 mg/kg, either as a single dose or over 3 days, discontinuation from the trials due to treatment-related side effects was approximately 1% (see DOSAGE AND ADMINISTRATION).
 Most of the side effects leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain (see CLINICAL STUDIES, Pediatric Patients).
@@ -30,7 +30,7 @@ Allergic: Rash, pruritus, photosensitivity and angioedema.
 
 Single 1 gram dose regimen: Overall, the most common side effects in patients receiving a single-dose regimen of 1 gram of azithromycin were related to the gastrointestinal system and were more frequently reported than in patients receiving the multiple-dose regimen.
 
-Side effects that occurred in patients on the single one gram dosing regimen of azithromycin with a frequency of 1% or greater included diarrhea/loose stools (7%), nausea (5%), abdominal pain (5%), vomiting (2%), dyspepsia (1%) and vaginitis (1%).
+Side effects that occurred in patients on the single one-gram dosing regimen of azithromycin with a frequency of 1% or greater included diarrhea/loose stools (7%), nausea (5%), abdominal pain (5%), vomiting (2%), dyspepsia (1%) and vaginitis (1%).
 
 Single 2 gram dose regimen: Overall, the most common side effects in patients receiving a single 2 gram dose of azithromycin were related to the gastrointestinal system.
 Side effects that occurred in patients in this study with a frequency of 1% or greater included nausea (18%), diarrhea/loose stools (14%), vomiting (7%), abdominal pain (7%), vaginitis (2%), dyspepsia (1%) and dizziness (1%).
@@ -94,7 +94,7 @@ Adverse events reported with azithromycin during the postmarketing period in adu
 Allergic: Arthralgia, edema, urticaria and angioedema.
 
 Cardiovascular: Arrhythmias including ventricular tachycardia and hypotension.
-There have been rare reports of QT prolongation and torsades de pointes.
+There have been rare reports of QT prolongation and torsade de pointes.
 
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea rarely resulting in dehydration, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration.
 

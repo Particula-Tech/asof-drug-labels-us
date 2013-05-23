@@ -1,4 +1,4 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin and other antibacterial drugs, azithromycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin and other antibacterial drugs, azithromycin for oral suspension should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # PATIENT SUMMARY OF INFORMATION ABOUT
 
@@ -51,7 +51,7 @@ In addition to deciding the total amount of azithromycin to give to your child, 
 
 For Ear lnfections
 
-For ear infections, your child’s doctor will tell you to give azithromycin to your child in one of the following ways: the total amount as 1 dose on 1 day, or the total amount divided into 1 dose-per-day for 3 days or the total amount divided into 1 dose-per-day for 5 days, with a double dose on the first day.
+For ear infections, your child’s doctor will tell you to give azithromycin to your child in one of the following ways: the total amount as 1 dose on 1 day, or the total amount divided into 1 dose per-day for 3 days or the total amount divided into 1 dose-per-day for 5 days, with a double dose on the first day.
 Whether given all on 1 day, or divided over 3 days or over 5 days, the total amount of azithromycin you give to your child should be the same.
 
 For Pneumonia

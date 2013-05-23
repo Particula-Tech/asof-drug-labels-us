@@ -35,7 +35,7 @@ Two azithromycin 250 mg tablets are bioequivalent to a single 500 mg tablet.
 
 The absolute bioavailability of azithromycin 250 mg capsules is 38%.
 
-In a two-way crossover study in which 12 healthy subjects received a single 500 mg dose of azithromycin (two 250 mg tablets) with or without a high-fat meal, food was shown to increase Cmax by 23% but had no effect on AUC.
+In a two-way crossover study in which 12 healthy subjects received a single 500 mg dose of azithromycin (two 250 mg tablets) with or without a high fat meal, food was shown to increase Cmax by 23% but had no effect on AUC.
 
 When azithromycin suspension was administered with food to 28 adult healthy male subjects, Cmax increased by 56% and AUC was unchanged.
 
@@ -77,7 +77,7 @@ In vitro and in vivo studies to assess the metabolism of azithromycin have not b
 
 ## Elimination
 
-Plasma concentrations of azithromycin following single 500 mg oral and I.V. doses declined in a polyphasic pattern with a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hours.
+Plasma concentrations of azithromycin following single 500 mg oral and i.v. doses declined in a polyphasic pattern with a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hours.
 The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues.
 
 Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
@@ -158,15 +158,15 @@ Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Pr
 | Fluconazole | 200 mg PO single dose | 1,200 mg PO single dose | 18 | 1.04(0.98 to 1.11) | 1.01(0.97 to 1.05) |
 | Indinavir | 800 mg TID x 5 days | 1,200 mg PO on day 5 | 18 | 0.96(0.86 to 1.08) | 0.9(0.81 to 1) |
 | Midazolam | 15 mg PO on day 3 | 500 mg/day PO x 3 days | 12 | 1.27(0.89 to 1.81) | 1.26(1.01 to 1.56) |
-| Nelfinavir | 750 mg TID x 11 days | 1,200 mg PO on day 9 | 14 | 0.9(0.81 to 1.01) | 0.85 (0.78 to 0.93) |
+| Nelfinavir | 750 mg TID x 11 days | 1,200 mg PO on day 9 | 14 | 0.90(0.81 to 1.01) | 0.85 (0.78 to 0.93) |
 | Rifabutin | 300 mg/day x 10 days | 500 mg PO on day 1, then 250 mg/day on days 2 to 10 | 6 | See footnote below | NA |
 | Sildenafil | 100 mg on days 1 and 4 | 500 mg/day PO x 3 days | 12 | 1.16(0.86 to 1.57) | 0.92(0.75 to 1.12) |
-| Theophylline | 4 mg/kg I.V. on days 1, 11, 25 | 500 mg PO on day 7, then 250 mg/day on days 8 to 11 | 10 | 1.19(1.02 to 1.4) | 1.02(0.86 to 1.22) |
+| Theophylline | 4 mg/kg I.V. on days 1, 11, 25 | 500 mg PO on day 7, then 250 mg/day on days 8 to 11 | 10 | 1.19(1.02 to 1.40) | 1.02(0.86 to 1.22) |
 | Theophylline | 300 mg PO BID x 15 days | 500 mg PO on day 6, then 250 mg/day on days 7 to 10 | 8 | 1.09(0.92 to 1.29) | 1.08(0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg PO on day1, then 250 mg/dayon day 2 | 12 | 1.06 | 1.02 |
 | Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day PO x 7 days | 1,200 mg PO on day 7 | 12 | 0.85(0.75 to 0.97)/0.90(0.78 to 1.03) | 0.87(0.80 to 0.95)/0.96(0.88 to 1.03) |
 | Zidovudine | 500 mg/day PO x 21 days | 600 mg/day PO x 14 days | 5 | 1.12(0.42 to 3.02) | 0.94(0.52 to 1.70) |
-| Zidovudine | 500 mg/day PO x 21 days | 1,200 mg/day PO x 14 days | 4 | 1.31(0.43 to 3.97) | 1.3(0.69 to 2.43) |
+| Zidovudine | 500 mg/day PO x 21 days | 1,200 mg/day PO x 14 days | 4 | 1.31(0.43 to 3.97) | 1.30(0.69 to 2.43) |
 | NA - Not Available Mean rifabutin concentrations one-half day after the last dose of rifabutin were 60 ng/mL when coadministered with azithromycin and 71 ng/mL when coadministered with placebo. |  |  |  |  |  |
 
 Table 2.
@@ -183,6 +183,16 @@ Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence o
 
 Mean azithromycin concentrations one day after the last dose were 53 ng/mL when coadministered with 300 mg daily rifabutin and 49 ng/mL when coadministered with placebo.
 
+## Pharmacodynamics
+
+### Cardiac Electrophysiology
+
+QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
+Coadministration of azithromycin increased the QTc interval in a dose-and concentration-dependent manner.
+In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5
+
+(10) ms, 7 (12) ms and 9 (14) ms with the coadministration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
+
 ## Microbiology
 
 ### Mechanism of Action
@@ -190,7 +200,8 @@ Mean azithromycin concentrations one day after the last dose were 53 ng/mL when 
 Azithromycin binds to the 23S rRNA of the bacterial 50S ribosomal subunit.
 It blocks protein synthesis by inhibiting the transpeptidation/translocation step of protein synthesis and by inhibiting the assembly of the 50S ribosomal subunit.
 
-Azithromycin concentrates in phagocytes and fibroblasts as demonstrated by in vitro incubation techniques.The ratio of intracellular to extracellular concentration was > 30 after one hour incubation.
+Azithromycin concentrates in phagocytes and fibroblasts as demonstrated by in vitro incubation techniques.
+The ratio of intracellular to extracellular concentration was > 30 after one hour incubation.
 In vivo studies suggest that concentration in phagocytes may contribute to drug distribution to inflamed tissues.
 
 ### Mechanism of Resistance

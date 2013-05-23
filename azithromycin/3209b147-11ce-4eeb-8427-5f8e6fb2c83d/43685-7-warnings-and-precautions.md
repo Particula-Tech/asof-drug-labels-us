@@ -27,7 +27,7 @@ Clostridium difficile-associated diarrhea (CDAD) has been reported with use of n
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin- producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
@@ -36,10 +36,14 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## QT Prolongation
 
-Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with macrolides, including azithromycin.
-Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
-Although the absolute risk is unknown, it appears to be low with azithromycin likely due to the lack of appreciable drug interactions, and the observation that it is rarely reported as a postmarket adverse event.
-However, it would be prudent to avoid use in patients with known prolongation of the QT interval, patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
+Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsade de pointes, have been seen in treatment with macrolides, including azithromycin.
+Cases of torsade de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
+Providers should consider the risk of QT prolongation which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including:
+
+- patients with known prolongation of the QT interval, a history of torsade de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure
+- patients on drugs known to prolong the QT interval
+- patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
+
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 
 # PRECAUTIONS
@@ -146,8 +150,8 @@ Dosage adjustment does not appear to be necessary for older patients with normal
 In multiple-dose clinical trials of oral azithromycin, 9% of patients were at least 65 years of age (458/4949) and 3% of patients (144/4949) were at least 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
-Elderly patients may be more susceptible to development of torsades de pointes arrhythmia than younger patients (see WARNINGS).
+Elderly patients may be more susceptible to development of torsade de pointes arrhythmia than younger patients (see WARNINGS).
 
-Azithromycin for oral suspension 100 mg/5 mL contains 8.8 mg of sodium per 5 mL of constituted solution.
+Azithromycin for oral suspension USP, 100 mg/5 mL contains 8.8 mg of sodium per 5 mL of constituted solution.
 
-Azithromycin for oral suspension 200 mg/5 mL contains 8.8 mg of sodium per 5 mL of constituted solution.
+Azithromycin for oral suspension USP, 200 mg/5 mL contains 8.8 mg of sodium per 5 mL of constituted solution.

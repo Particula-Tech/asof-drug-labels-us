@@ -149,7 +149,7 @@ The most common side effects were diarrhea/loose stools (6% azithromycin vs. 2% 
 
 In a randomized, double-blind controlled clinical trial of acute exacerbation of chronic bronchitis (AECB), azithromycin (500 mg once daily for 3 days) was compared with clarithromycin (500 mg twice daily for 10 days).
 The primary endpoint of this trial was the clinical cure rate at Day 21 to 24.
-For the 304 patients analyzed in the modified intent-to-treat analysis at the Day 21 to 24 visit, the clinical cure rate for 3 days of azithromycin was 85% (125/147) compared to 82% (129/157) for 10 days of clarithromycin.
+For the 304 patients analyzed in the modified intent to treat analysis at the Day 21 to 24 visit, the clinical cure rate for 3 days of azithromycin was 85% (125/147) compared to 82% (129/157) for 10 days of clarithromycin.
 
 The following outcomes were the clinical cure rates at the Day 21 to 24 visit for the bacteriologically evaluable patients by pathogen:
 
@@ -165,16 +165,16 @@ The most common side effects were diarrhea, nausea and abdominal pain with compa
 
 ### Acute Bacterial Sinusitis
 
-In a randomized, double blind, double-dummy controlled clinical trial of acute bacterial sinusitis, azithromycin (500 mg once daily for 3 days) was compared with amoxicillin/clavulanate (500/125 mg tid for 10 days).
+In a randomized, double-blind, double-dummy controlled clinical trial of acute bacterial sinusitis, azithromycin (500 mg once daily for 3 days) was compared with amoxicillin/clavulanate (500/125 mg tid for 10 days).
 Clinical response assessments were made at Day 10 and Day 28.
 The primary endpoint of this trial was prospectively defined as the clinical cure rate at Day 28.
-For the 594 patients analyzed in the modified intent-to-treat analysis at the Day 10 visit, the clinical cure rate for 3 days of azithromycin was 88% (268/303) compared to 85% (248/291) for 10 days of amoxicillin/clavulanate.
-For the 586 patients analyzed in the modified intent-to-treat analysis at the Day 28 visit, the clinical cure rate for 3 days of azithromycin was 71.5% (213/298) compared to 71.5% (206/288), with a 97.5% confidence interval of -8.4 to 8.3, for 10 days of amoxicillin/clavulanate.
+For the 594 patients analyzed in the modified intent to treat analysis at the Day 10 visit, the clinical cure rate for 3 days of azithromycin was 88% (268/303) compared to 85% (248/291) for 10 days of amoxicillin/clavulanate.
+For the 586 patients analyzed in the modified intent to treat analysis at the Day 28 visit, the clinical cure rate for 3 days of azithromycin was 71.5% (213/298) compared to 71.5% (206/288), with a 97.5% confidence interval of -8.4 to 8.3, for 10 days of amoxicillin/clavulanate.
 
 In the safety analysis of this study, the overall incidence of treatment-related adverse events, primarily gastrointestinal, was lower in the azithromycin treatment arm (31%) than in the amoxicillin/clavulanate arm (51%).
 The most common side effects were diarrhea (17% in the azithromycin arm vs. 32% in the amoxicillin/clavulanate arm), and nausea (7% in the azithromycin arm vs. 12% in the amoxicillin/clavulanate arm) (see ADVERSE REACTIONS).
 
-In an open label, noncomparative study requiring baseline transantral sinus punctures the following outcomes were the clinical success rates at the Day 7 and Day 28 visits for the modified intent-to-treat patients administered 500 mg of azithromycin once daily for 3 days with the following pathogens:
+In an open label, noncomparative study requiring baseline transantral sinus punctures the following outcomes were the clinical success rates at the Day 7 and Day 28 visits for the modified intent to treat patients administered 500 mg of azithromycin once daily for 3 days with the following pathogens:
 
 | Pathogen | Azithromycin (500 mg per day for 3 Days) |  |
 | --- | --- | --- |
@@ -183,4 +183,4 @@ In an open label, noncomparative study requiring baseline transantral sinus punc
 | H. influenzae | 28/32 (87%) | 24/32 (75%) |
 | M. catarrhalis | 14/15 (93%) | 13/15 (87%) |
 
-The overall incidence of treatment-related adverse events in the noncomparative study was 21% in modified intent-to-treat patients treated with azithromycin at 500 mg once daily for 3 days with the most common side effects being diarrhea (9%), abdominal pain (4%) and nausea (3%) (see ADVERSE REACTIONS).
+The overall incidence of treatment-related adverse events in the noncomparative study was 21% in modified intent to treat patients treated with azithromycin at 500 mg once daily for 3 days with the most common side effects being diarrhea (9%), abdominal pain (4%) and nausea (3%) (see ADVERSE REACTIONS).

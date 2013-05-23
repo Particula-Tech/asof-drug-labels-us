@@ -22,4 +22,4 @@ Manufactured For:
 TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
 Rev.
-D 11/2012
+E 2/2013

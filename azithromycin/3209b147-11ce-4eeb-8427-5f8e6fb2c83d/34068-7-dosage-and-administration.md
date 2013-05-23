@@ -10,7 +10,7 @@ See INDICATIONS AND USAGE and CLINICAL PHARMACOLOGY.
 | Acute bacterial exacerbations of chronic obstructive pulmonary disease (mild to moderate) | 500 mg QD x 3 daysOR500 mg as a single dose on Day 1, followedby 250 mg once daily on Days 2 through 5. |
 | Acute bacterial sinusitis | 500 mg QD x 3 days |
 | Genital ulcer disease (chancroid) | One single 1 gram dose |
-| Non-gonoccocal urethritis and cervicitis | One single 1 gram dose |
+| Non-gonococcal urethritis and cervicitis | One single 1 gram dose |
 | Gonococcal urethritis and cervicitis | One single 2 gram dose |
 | *DUE TO THE INDICATED ORGANISMS (see INDICATIONS AND USAGE). |  |
 
@@ -29,15 +29,15 @@ No dosage adjustment is recommended based on age or gender (see CLINICAL PHARMAC
 
 ## Pediatric Patients
 
-Azithromycin for oral suspension USP can be taken with or without food.
+Azithromycin for oral suspension can be taken with or without food.
 
-Acute Otitis Media: The recommended dose of azithromycin for oral suspension USP for the treatment of pediatric patients with acute otitis media is 30 mg/kg given as a single dose or 10 mg/kg once daily for 3 days or 10 mg/kg as a single dose on the first day followed by 5 mg/kg/day on Days 2 through 5.
+Acute Otitis Media: The recommended dose of azithromycin for oral suspension for the treatment of pediatric patients with acute otitis media is 30 mg/kg given as a single dose or 10 mg/kg once daily for 3 days or 10 mg/kg as a single dose on the first day followed by 5 mg/kg/day on Days 2 through 5.
 (See chart below.)
 
-Acute Bacterial Sinusitis: The recommended dose of azithromycin for oral suspension USP for the treatment of pediatric patients with acute bacterial sinusitis is 10 mg/kg once daily for 3 days.
+Acute Bacterial Sinusitis: The recommended dose of azithromycin for oral suspension for the treatment of pediatric patients with acute bacterial sinusitis is 10 mg/kg once daily for 3 days.
 (See chart below.)
 
-Community-Acquired Pneumonia: The recommended dose of azithromycin for oral suspension USP for the treatment of pediatric patients with community-acquired pneumonia is 10 mg/kg as a single dose on the first day followed by 5 mg/kg on Days 2 through 5.
+Community-Acquired Pneumonia: The recommended dose of azithromycin for oral suspension for the treatment of pediatric patients with community-acquired pneumonia is 10 mg/kg as a single dose on the first day followed by 5 mg/kg on Days 2 through 5.
 (See chart below.)
 
 PEDIATRIC DOSAGE GUIDELINES FOR OTITIS MEDIA, ACUTE BACTERIAL SINUSITIS AND COMMUNITY-ACQUIRED PNEUMONIA (Age 6 months and above, see PRECAUTIONS, Pediatric Use.)
@@ -82,7 +82,7 @@ Based on Body Weight
 The safety of re-dosing azithromycin in pediatric patients who vomit after receiving 30 mg/kg as a single dose has not been established.
 In clinical studies involving 487 patients with acute otitis media given a single 30 mg/kg dose of azithromycin, eight patients who vomited within 30 minutes of dosing were re-dosed at the same total dose.
 
-Pharyngitis/Tonsillitis: The recommended dose of azithromycin for oral suspension USP for children with pharyngitis/tonsillitis is 12 mg/kg once daily for 5 days.
+Pharyngitis/Tonsillitis: The recommended dose of azithromycin for oral suspension for children with pharyngitis/tonsillitis is 12 mg/kg once daily for 5 days.
 (See chart below.)
 
 PEDIATRIC DOSAGE GUIDELINES FOR PHARYNGITIS/TONSILLITIS (Age 2 years and above, see PRECAUTIONS, Pediatric Use.)
@@ -99,7 +99,7 @@ Based on Body Weight
 | 33 | 73 | 10 mL(2 tsp) | 50 mL | 2000 mg |
 | 40 | 88 | 12.5 mL(2½ tsp) | 62.5 mL | 2500 mg |
 
-Constituting instructions for azithromycin for oral suspension USP, 300, 600, 900, 1200 mg bottles.
+Constituting instructions for azithromycin for oral suspension, 300, 600, 900, 1200 mg bottles.
 The table below indicates the volume of water to be used for constitution:
 
 | Amount of water to be added | Total volume after constitution (azithromycin content) | Azithromycin concentration after constitution |
@@ -113,5 +113,5 @@ Shake well before each use.
 Oversized bottle provides shake space.
 Keep tightly closed.
 
-After mixing, store suspension at 5° to 30°C (41° to 86°F) and use within 10 days.
+After mixing, store suspension at 5° to 25°C (41° to 77°F) and use within 10 days.
 Discard after full dosing is completed.
