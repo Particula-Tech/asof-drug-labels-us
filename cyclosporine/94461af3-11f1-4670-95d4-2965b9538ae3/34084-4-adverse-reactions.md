@@ -59,7 +59,7 @@ Patients receiving immunosuppressive therapies, including cyclosporine and cyclo
 Both generalized and localized infections can occur.
 Pre-existing infections may also be aggravated.
 Fatal outcomes have been reported.
-(see Warnings)
+(See WARNINGS)
 
 | Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune® |  |  |
 | --- | --- | --- |
@@ -82,12 +82,12 @@ Fatal outcomes have been reported.
 Hepatotoxicity
 
 Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported.
-[See WARNINGS/Hepatotoxicity]
+(See WARNINGS, Hepatotoxicity)
 
 Increased Risk of Infections
 
 Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported.
-[See WARNINGS/ Polyoma Virus Infection]
+(See WARNINGS, Polyoma Virus Infection)
 
 Headache, including Migraine
 
@@ -96,7 +96,7 @@ In some cases, patients have been unable to continue cyclosporine, however, the 
 
 ## Rheumatoid Arthritis
 
-The principal adverse reactions associated with the use of cyclosporine in rheumatoid arthritis are renal dysfunction (see WARNINGS), hypertension (see PRECAUTIONS), headache, gastrointestinal disturbances, and hirsutism/hypertrichosis.
+The principal adverse reactions associated with the use of cyclosporine in rheumatoid arthritis are renal dysfunction (See WARNINGS), hypertension (See PRECAUTIONS), headache, gastrointestinal disturbances, and hirsutism/hypertrichosis.
 
 In rheumatoid arthritis patients treated in clinical trials within the recommended dose range, cyclosporine therapy was discontinued in 5.3% of the patients because of hypertension and in 7% of the patients because of increased creatinine.
 These changes are usually reversible with timely dose decrease or drug discontinuation.
@@ -184,47 +184,47 @@ The following adverse events occurred in controlled clinical trials:
 |  | Urinary Tract Infection | 0% | 3% |  | 5% |  | 4% |  | 3% | 0% |
 | Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |  |  |  |
 |  | Purpura | 3% | 4% |  | 1% |  | 1% |  | 2% | 0% |
-| † Includes patients in 2.5 mg/kg/day dose group only. *NOS = Not Otherwise Specified. |  |  |  |  |  |  |  |  |  |  |
+| † Includes patients in 2.5 mg/kg/day dose group only. *NOS=Not Otherwise Specified. |  |  |  |  |  |  |  |  |  |  |
 
 In addition, the following adverse events have been reported in 1% to <3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
 
-Autonomic Nervous System: dry mouth, increased sweating;
+Autonomic Nervous System: dry mouth, increased sweating
 
-Body as a Whole: allergy, asthenia, hot flushes, malaise, overdose, procedure NOS*, tumor NOS*, weight decrease, weight increase;
+Body as a Whole: allergy, asthenia, hot flushes, malaise, overdose, procedure NOS*, tumor NOS*, weight decrease, weight increase
 
-Cardiovascular: abnormal heart sounds, cardiac failure, myocardial infarction, peripheral ischemia;
+Cardiovascular: abnormal heart sounds, cardiac failure, myocardial infarction, peripheral ischemia
 
-Central and Peripheral Nervous System: hypoesthesia, neuropathy, vertigo;
+Central and Peripheral Nervous System: hypoesthesia, neuropathy, vertigo
 
-Endocrine: goiter;
+Endocrine: goiter
 
-Gastrointestinal: constipation, dysphagia, enanthema, eructation, esophagitis, gastric ulcer, gastritis, gastroenteritis, gingival bleeding, glossitis, peptic ulcer, salivary gland enlargement, tongue disorder, tooth disorder;
+Gastrointestinal: constipation, dysphagia, enanthema, eructation, esophagitis, gastric ulcer, gastritis, gastroenteritis, gingival bleeding, glossitis, peptic ulcer, salivary gland enlargement, tongue disorder, tooth disorder
 
-Infection: abscess, bacterial infection, cellulitis, folliculitis, fungal infection, herpes simplex, herpes zoster, renal abscess, moniliasis, tonsillitis, viral infection;
+Infection: abscess, bacterial infection, cellulitis, folliculitis, fungal infection, herpes simplex, herpes zoster, renal abscess, moniliasis, tonsillitis, viral infection
 
-Hematologic: anemia, epistaxis, leukopenia, lymphadenopathy;
+Hematologic: anemia, epistaxis, leukopenia, lymphadenopathy
 
-Liver and Biliary System: bilirubinemia;
+Liver and Biliary System: bilirubinemia
 
-Metabolic and Nutritional: diabetes mellitus, hyperkalemia, hyperuricemia, hypoglycemia;
+Metabolic and Nutritional: diabetes mellitus, hyperkalemia, hyperuricemia, hypoglycemia
 
-Musculoskeletal System: arthralgia, bone fracture, bursitis, joint dislocation, myalgia, stiffness, synovial cyst, tendon disorder;
+Musculoskeletal System: arthralgia, bone fracture, bursitis, joint dislocation, myalgia, stiffness, synovial cyst, tendon disorder
 
-Neoplasms: breast fibroadenosis, carcinoma;
+Neoplasms: breast fibroadenosis, carcinoma
 
-Psychiatric: anxiety, confusion, decreased libido, emotional lability, impaired concentration, increased libido, nervousness, paroniria, somnolence;
+Psychiatric: anxiety, confusion, decreased libido, emotional lability, impaired concentration, increased libido, nervousness, paroniria, somnolence
 
-Reproductive (Female): breast pain, uterine hemorrhage;
+Reproductive (Female): breast pain, uterine hemorrhage
 
-Respiratory System: abnormal chest sounds, bronchospasm;
+Respiratory System: abnormal chest sounds, bronchospasm
 
-Skin and Appendages: abnormal pigmentation, angioedema, dermatitis, dry skin, eczema, nail disorder, pruritus, skin disorder, urticaria;
+Skin and Appendages: abnormal pigmentation, angioedema, dermatitis, dry skin, eczema, nail disorder, pruritus, skin disorder, urticaria
 
-Special Senses: abnormal vision, cataract, conjunctivitis, deafness, eye pain, taste perversion, tinnitus, vestibular disorder;
+Special Senses: abnormal vision, cataract, conjunctivitis, deafness, eye pain, taste perversion, tinnitus, vestibular disorder
 
-Urinary System: abnormal urine, hematuria, increased BUN, micturition urgency, nocturia, polyuria, pyelonephritis, urinary incontinence.
+Urinary System: abnormal urine, hematuria, increased BUN, micturition urgency, nocturia, polyuria, pyelonephritis, urinary incontinence
 
-*NOS = Not Otherwise Specified.
+*NOS=Not Otherwise Specified
 
 ## Psoriasis
 
@@ -276,27 +276,27 @@ These elevations are likely to become more pronounced and may result in irrevers
 
 The following events occurred in 1% to less than 3% of psoriasis patients treated with cyclosporine:
 
-Body as a Whole: fever, flushes, hot flushes;
+Body as a Whole: fever, flushes, hot flushes
 
-Cardiovascular: chest pain;
+Cardiovascular: chest pain
 
-Central and Peripheral Nervous System: appetite increased, insomnia, dizziness, nervousness, vertigo;
+Central and Peripheral Nervous System: appetite increased, insomnia, dizziness, nervousness, vertigo
 
-Gastrointestinal: abdominal distention, constipation, gingival bleeding;
+Gastrointestinal: abdominal distention, constipation, gingival bleeding
 
-Liver and Biliary System: hyperbilirubinemia;
+Liver and Biliary System: hyperbilirubinemia
 
-Neoplasms: skin malignancies [squamous cell (0.9%) and basal cell (0.4%) carcinomas];
+Neoplasms: skin malignancies [squamous cell (0.9%) and basal cell (0.4%) carcinomas]
 
-Reticuloendothelial: platelet, bleeding, and clotting disorders, red blood cell disorder;
+Reticuloendothelial: platelet, bleeding, and clotting disorders, red blood cell disorder
 
-Respiratory: infection, viral and other infection;
+Respiratory: infection, viral and other infection
 
-Skin and Appendages: acne, folliculitis, keratosis, pruritus, rash, dry skin;
+Skin and Appendages: acne, folliculitis, keratosis, pruritus, rash, dry skin
 
-Urinary System: micturition frequency;
+Urinary System: micturition frequency
 
-Vision: abnormal vision.
+Vision: abnormal vision
 
 Mild hypomagnesemia and hyperkalemia may occur but are asymptomatic.
 Increases in uric acid may occur and attacks of gout have been rarely reported.
@@ -304,3 +304,7 @@ A minor and dose related hyperbilirubinemia has been observed in the absence of 
 Cyclosporine therapy may be associated with a modest increase of serum triglycerides or cholesterol.
 Elevations of triglycerides (>750 mg/dL) occur in about 15% of psoriasis patients; elevations of cholesterol (>300 mg/dL) are observed in less than 3% of psoriasis patients.
 Generally these laboratory abnormalities are reversible upon dose reduction or discontinuation of cyclosporine.
+
+Postmarketing Experience, Psoriasis
+
+Cases of transformation to erythrodermic psoriasis or generalized pustular psoriasis upon either withdrawal or reduction of cyclosporine in patients with chronic plaque psoriasis have been reported.

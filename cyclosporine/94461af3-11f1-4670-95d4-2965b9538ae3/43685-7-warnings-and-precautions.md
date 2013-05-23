@@ -1,6 +1,6 @@
 # WARNINGS
 
-(See also Boxed WARNING)
+(See also BOXED WARNING)
 
 ## All Patients
 
@@ -61,7 +61,7 @@ From 5%-15% of transplant recipients who have received cyclosporine will fail to
 Renal biopsies from these patients will demonstrate one or several of the following alterations: tubular vacuolization, tubular microcalcifications, peritubular capillary congestion, arteriolopathy, and a striped form of interstitial fibrosis with tubular atrophy.
 Though none of these morphologic changes is entirely specific, a diagnosis of cyclosporine-associated structural nephrotoxicity requires evidence of these findings.
 
-When considering the development of cyclosporine-associated nephropathy, it is noteworthy that several authors have reported an association between the appearance of interstitial fibrosis and higher cumulative doses or persistently high circulating trough levels of cyclosporine.
+When considering the development of cyclosporine-associated nephropathy, it is noteworthy that several authors have reported an association between the appearance of interstitial fibrosis and higher cumulative doses or persistently high circulating trough concentrations of cyclosporine.
 This is particularly true during the first 6 post-transplant months when the dosage tends to be highest and when, in kidney recipients, the organ appears to be most vulnerable to the toxic effects of cyclosporine.
 Among other contributing factors to the development of interstitial fibrosis in these patients are prolonged perfusion time, warm ischemia time, as well as episodes of acute toxicity, and acute and chronic rejection.
 The reversibility of interstitial fibrosis and its correlation to renal function have not yet been determined.
@@ -69,7 +69,10 @@ Reversibility of arteriolopathy has been reported after stopping cyclosporine or
 
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 
-In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the Neoral® dose to excessive levels.
+In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the Neoral® dose to excessive blood concentrations.
+
+Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering Neoral with other drugs that may impair renal function.
+(See PRECAUTIONS, Drug Interactions)
 
 Thrombotic Microangiopathy
 
@@ -87,7 +90,8 @@ Hepatotoxicity
 
 Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis, and liver failure have been reported in patients treated with cyclosporine.
 Most reports included patients with significant co-morbidities, underlying conditions and other confounding factors including infectious complications and comedications with hepatotoxic potential.
-In some cases, mainly in transplant patients, fatal outcomes have been reported (see ADVERSE REACTIONS, Postmarketing Experience, Kidney, Liver and Heart Transplantation).
+In some cases, mainly in transplant patients, fatal outcomes have been reported.
+(See ADVERSE REACTIONS, Postmarketing Experience, Kidney, Liver and Heart Transplantation)
 
 Hepatotoxicity, usually manifested by elevations in hepatic enzymes and bilirubin, was reported in patients treated with cyclosporine in clinical trials: 4% in renal transplantation, 7% in cardiac transplantation, and 4% in liver transplantation.
 This was usually noted during the first month of therapy when high doses of cyclosporine were used.
@@ -105,14 +109,15 @@ Transplant patients receiving cyclosporine are at increased risk for serious inf
 Serious Infections
 
 Patients receiving immunosuppressants, including Neoral, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
-These infections may lead to serious, including fatal, outcomes [See BOXED WARNING, and ADVERSE REACTIONS].
+These infections may lead to serious, including fatal, outcomes.
+(See BOXED WARNING, and ADVERSE REACTIONS)
 
 Polyoma Virus Infections
 
 Patients receiving immunosuppressants, including Neoral, are at increased risk for opportunistic infections, including polyoma virus infections.
 Polyoma virus infections in transplant patients may have serious, and sometimes, fatal outcomes.
 These include cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), and polyoma virus-associated nephropathy (PVAN), especially due to BK virus infection, which have been observed in patients receiving cyclosporine.
-PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (see ADVERSE REACTIONS/Postmarketing Experience, Kidney, Liver and Heart Transplantation).
+PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (See ADVERSE REACTIONS, Postmarketing Experience, Kidney, Liver and Heart Transplantation).
 Patient monitoring may help detect patients at risk for PVAN.
 
 Cases of PML have been reported in patients treated with Neoral.
@@ -127,7 +132,7 @@ Neurotoxicity
 
 There have been reports of convulsions in adult and pediatric patients receiving cyclosporine, particularly in combination with high dose methylprednisolone.
 
-Encephalopathy has been described both in post-marketing reports and in the literature.
+Encephalopathy, including Posterior Reversible Encephalopathy Syndrome (PRES), has been described both in post-marketing reports and in the literature.
 Manifestations include impaired consciousness, convulsions, visual disturbances (including blindness), loss of motor function, movement disorders and psychiatric disturbances.
 In many cases, changes in the white matter have been detected using imaging techniques and pathologic specimens.
 Predisposing factors such as hypertension, hypomagnesemia, hypocholesterolemia, high-dose corticosteroids, high cyclosporine blood concentrations, and graft-versus-host disease have been noted in many but not all of the reported cases.
@@ -155,10 +160,10 @@ Moreover, use of Neoral® therapy with other immunosuppressive agents may induce
 
 ## Psoriasis
 
-## (See also Boxed WARNINGS for Psoriasis)
+(See also BOXED WARNING for Psoriasis)
 
 Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using Neoral® should be considered before treatment of patients with psoriasis.
-Cyclosporine, the active ingredient in Neoral®, can cause nephrotoxicity and hypertension (see PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
+Cyclosporine, the active ingredient in Neoral®, can cause nephrotoxicity and hypertension (See PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
 Patients who may be at increased risk such as those with abnormal renal function, uncontrolled hypertension or malignancies, should not receive Neoral®.
 
 Renal dysfunction is a potential consequence of Neoral® therefore renal function must be monitored during therapy.
@@ -198,11 +203,18 @@ Skin lesions not typical of psoriasis should be biopsied before starting treatme
 Patients should be treated with Neoral® only after complete resolution of suspicious lesions, and only if there are no other treatment options.
 (See Special Monitoring for Psoriasis Patients)
 
+Special Excipients
+
+Alcohol (ethanol)
+
+The alcohol content (See DESCRIPTION) of Neoral should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g., pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
+For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
+
 # PRECAUTIONS
 
 ## General
 
-### Hypertension
+Hypertension
 
 Cyclosporine is the active ingredient of Neoral®.
 Hypertension is a common side effect of cyclosporine therapy which may persist.
@@ -212,16 +224,16 @@ In recipients of kidney, liver, and heart allografts treated with cyclosporine, 
 While calcium antagonists can be effective agents in treating cyclosporine-associated hypertension, they can interfere with cyclosporine metabolism.
 (See Drug Interactions)
 
-### Vaccination
+Vaccination
 
 During treatment with cyclosporine, vaccination may be less effective; and the use of live attenuated vaccines should be avoided.
 
-### Special Monitoring of Rheumatoid Arthritis Patients
+Special Monitoring of Rheumatoid Arthritis Patients
 
 Before initiating treatment, a careful physical examination, including blood pressure measurements (on at least two occasions) and two creatinine levels to estimate baseline should be performed.
 Blood pressure and serum creatinine should be evaluated every 2 weeks during the initial 3 months and then monthly if the patient is stable.
 It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs and after initiation of new nonsteroidal anti-inflammatory drug therapy during Neoral® treatment.
-If co-administered with methotrexate, CBC and liver function tests are recommended to be monitored monthly.
+If coadministered with methotrexate, CBC and liver function tests are recommended to be monitored monthly.
 (See also PRECAUTIONS, General, Hypertension)
 
 In patients who are receiving cyclosporine, the dose of Neoral® should be decreased by 25%-50% if hypertension occurs.
@@ -231,7 +243,7 @@ In most cases, blood pressure has returned to baseline when cyclosporine was dis
 In placebo-controlled trials of rheumatoid arthritis patients, systolic hypertension (defined as an occurrence of two systolic blood pressure readings >140 mmHg) and diastolic hypertension (defined as two diastolic blood pressure readings >90 mmHg) occurred in 33% and 19% of patients treated with cyclosporine, respectively.
 The corresponding placebo rates were 22% and 8%.
 
-### Special Monitoring for Psoriasis Patients
+Special Monitoring for Psoriasis Patients
 
 Before initiating treatment, a careful dermatological and physical examination, including blood pressure measurements (on at least two occasions) should be performed.
 Since Neoral® is an immunosuppressive agent, patients should be evaluated for the presence of occult infection on their first physical examination and for the presence of tumors initially, and throughout treatment with Neoral®.
@@ -275,242 +287,3 @@ The combination of Neoral® Oral Solution (cyclosporine oral solution, USP) MODI
 
 Patients should be advised to take Neoral® on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
-
-## Laboratory Tests
-
-In all patients treated with cyclosporine, renal and liver functions should be assessed repeatedly by measurement of serum creatinine, BUN, serum bilirubin, and liver enzymes.
-Serum lipids, magnesium, and potassium should also be monitored.
-Cyclosporine blood concentrations should be routinely monitored in transplant patients (see DOSAGE AND ADMINISTRATION, Blood Concentration Monitoring in Transplant Patients), and periodically monitored in rheumatoid arthritis patients.
-
-## Drug Interactions
-
-A. Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety
-
-All of the individual drugs cited below are well substantiated to interact with cyclosporine.
-In addition, concomitant non-steroidal anti-inflammatory drugs, particularly in the setting of dehydration, may potentiate renal dysfunction.
-
-### Drugs That May Potentiate Renal Dysfunction
-
-| Antibiotics | Antineoplastics | Antifungals | Anti-inflammatory Drugs | Gastrointestinal Agents | Immunosuppressives | Other Drugs |
-| --- | --- | --- | --- | --- | --- | --- |
-| ciprofloxacin | melphalan | amphotericin B | azapropazon | cimetidine | tacrolimus | fibric acid derivatives |
-| gentamicin |  | ketoconazole | colchicine | ranitidine |  | (e.g., bezafibrate, fenofibrate) |
-| tobramycin |  |  | diclofenac |  |  | methotrexate |
-| vancomycin |  |  | naproxen |  |  |  |
-| trimethoprim with sulfamethoxazole |  |  | sulindac |  |  |  |
-
-Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
-Various agents are known to either increase or decrease plasma or whole blood of cyclosporine levels usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
-Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Monitoring of circulating cyclosporine concentrations and appropriate Neoral® dosage adjustment are essential when these drugs are used concomitantly.
-(See Blood Concentration Monitoring)
-
-### 1. Drugs That Increase Cyclosporine Concentrations
-
-| Calcium Channel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
-| --- | --- | --- | --- | --- |
-| diltiazem | fluconazole | azithromycin | methylprednisolone | Allopurinol |
-| nicardipine | itraconazole | clarithromycin |  | Amiodarone |
-| verapamil | ketoconazole | erythromycin |  | Bromocriptine |
-|  | voriconazole | quinupristin/ dalfopristin |  | colchicine |
-|  |  |  |  | danazol |
-|  |  |  |  | imatinib |
-|  |  |  |  | metoclopramide |
-|  |  |  |  | nefazodone |
-|  |  |  |  | oral contraceptives |
-
-HIV Protease inhibitors
-
-The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
-Care should be exercised when these drugs are administered concomitantly.
-
-Grapefruit juice
-
-Grapefruit and grapefruit juice affect metabolism, increasing blood concentrations of cyclosporine, thus should be avoided.
-
-### 2. Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
-
-| Antibiotics | Anticonvulsants | Other Drugs/Dietary Supplements |  |
-| --- | --- | --- | --- |
-| nafcillin | carbamazepine | bosentan | St. John’s Wort |
-| rifampin | oxcarbazepine | octreotide |  |
-|  | phenobarbital | orlistat |  |
-|  | phenytoin | sulfinpyrazone |  |
-|  |  | terbinafine |  |
-|  |  | ticlopidine |  |
-
-St. John’s Wort
-
-There have been reports of a serious drug interaction between cyclosporine and the herbal dietary supplement, St. John’s Wort.
-This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in subtherapeutic levels, rejection of transplanted organs, and graft loss.
-
-Rifabutin
-
-Rifabutin is known to increase the metabolism of other drugs metabolized by the cytochrome P-450 system.
-The interaction between rifabutin and cyclosporine has not been studied.
-Care should be exercised when these two drugs are administered concomitantly.
-
-### B. Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents
-
-Cyclosporine is an inhibitor of CYP3A4 and of the multidrug efflux transporter P-glycoprotein and may increase plasma concentrations of comedications that are substrates of CYP3A4 or P-glycoprotein or both.
-
-Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins), and, aliskiren, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
-See the full prescribing information of the other drug for further information and specific recommendations.
-The decision on co-administration of cyclosporine with other drugs or agents should be made by the physician following the careful assessment of benefits and risks.
-
-Digoxin
-
-Severe digitalis toxicity has been seen within days of starting cyclosporine in several patients taking digoxin.
-If digoxin is used concurrently with cyclosporine, serum digoxin concentrations should be monitored.
-
-Colchicine
-
-There are reports on the potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy, especially in patients with renal dysfunction.
-Concomitant administration of cyclosporine and colchicine results in significant increases in colchicine plasma concentrations.
-If colchicine is used concurrently with cyclosporine, a reduction in the dosage of colchicine is recommended.
-
-HMG-CoA reductase inhibitors (statins)
-
-Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and, rarely fluvastatin.
-When concurrently administered with cyclosporine, the dosage of these statins should be reduced according to label recommendations.
-Statin therapy needs to be temporarily withheld or discontinued in patients with signs and symptoms of myopathy or those with risk factors predisposing to severe renal injury, including renal failure, secondary to rhabdomyolysis.
-
-Repaglinide
-
-Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
-In 12 healthy male subjects who received two doses of 100mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25mg repaglinide tablet (one half of a 0.5mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 - 3.7 fold) and 2.4 fold (range 1.2 - 5.3 fold), respectively.
-Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
-
-Aliskiren
-
-Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycoprotein and CYP3A4.
-In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5 fold (90% CI: 1.96 - 3.17) and the mean AUC by approximately 4.3 fold (90% CI: 3.52 - 5.21), compared to when these subjects received aliskiren alone.
-The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the Tmax (0.5 hours versus 1.5 to 2.0 hours).
-The mean AUC and Cmax of cyclosporine were comparable to reported literature values.
-Co-administration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
-The co-administration of cyclosporine with aliskiren is not recommended.
-
-Potassium-Sparing Diuretics
-
-Cyclosporine should not be used with potassium-sparing diuretics because hyperkalemia can occur.
-Caution is also required when cyclosporine is co-administered with potassium sparing drugs (e.g. angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists), potassium containing drugs as well as in patients on a potassium rich diet.
-Control of potassium levels in these situations is advisable.
-
-Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
-
-Clinical status and serum creatinine should be closely monitored when cyclosporine is used with nonsteroidal anti-inflammatory agents in rheumatoid arthritis patients.
-(See WARNINGS)
-
-Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99mTc diethylenetriaminepentaacetic acid (DTPA) and (p-aminohippuric acid) PAH clearances.
-Although concomitant administration of diclofenac does not affect blood concentrations of cyclosporine, it has been associated with approximate doubling of diclofenac blood concentrations and occasional reports of reversible decreases in renal function.
-Consequently, the dose of diclofenac should be in the lower end of the therapeutic range.
-
-Methotrexate Interaction
-
-Preliminary data indicate that when methotrexate and cyclosporine were co-administered to rheumatoid arthritis patients (N=20), methotrexate concentrations (AUCs) were increased approximately 30% and the concentrations (AUCs) of its metabolite, 7-hydroxy methotrexate, were decreased by approximately 80%.
-The clinical significance of this interaction is not known.
-Cyclosporine concentrations do not appear to have been altered (N=6).
-
-Sirolimus
-
-Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dose cyclosporine.
-This effect is often reversible with cyclosporine dose reduction.
-Simultaneous co-administration of cyclosporine significantly increases blood levels of sirolimus.
-To minimize increases in sirolimus concentrations, it is recommended that sirolimus be given 4 hours after cyclosporine administration.
-
-Nifedipine
-
-Frequent gingival hyperplasia when nifedipine is given concurrently with cyclosporine have been reported.
-
-Methylprednisolone
-
-Convulsions when high dose methylprednisolone is given concurrently with cyclosporine have been reported.
-
-Other Immunosuppressive Drugs and Agents
-
-Psoriasis patients receiving other immunosuppressive agents or radiation therapy (including PUVA and UVB) should not receive concurrent cyclosporine because of the possibility of excessive immunosuppression.
-
-### C. Effect of Cyclosporine on the Efficacy of Live Vaccines
-
-During treatment with cyclosporine, vaccination may be less effective.
-The use of live vaccines should be avoided.
-
-For additional information on Cyclosporine Drug Interactions please contact Novartis Medical Affairs Department at 888-NOW-NOVA [888-669-6682].
-
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
-
-Carcinogenicity studies were carried out in male and female rats and mice.
-In the 78-week mouse study, evidence of a statistically significant trend was found for lymphocytic lymphomas in females, and the incidence of hepatocellular carcinomas in mid-dose males significantly exceeded the control value.
-In the 24-month rat study, pancreatic islet cell adenomas significantly exceeded the control rate in the low dose level.
-Doses used in the mouse and rat studies were 0.01 to 0.16 times the clinical maintenance dose (6 mg/kg).
-The hepatocellular carcinomas and pancreatic islet cell adenomas were not dose related.
-Published reports indicate that co-treatment of hairless mice with UV irradiation and cyclosporine or other immunosuppressive agents shorten the time to skin tumor formation compared to UV irradiation alone.
-
-Cyclosporine was not mutagenic in appropriate test systems.
-Cyclosporine has not been found to be mutagenic/genotoxic in the Ames Test, the V79-HGPRT Test, the micronucleus test in mice and Chinese hamsters, the chromosome-aberration tests in Chinese hamster bone-marrow, the mouse dominant lethal assay, and the DNA-repair test in sperm from treated mice.
-A recent study analyzing sister chromatid exchange (SCE) induction by cyclosporine using human lymphocytes in vitro gave indication of a positive effect (i.e., induction of SCE), at high concentrations in this system.
-In two published research studies, rabbits exposed to cyclosporine in utero (10 mg/kg/day subcutaneously) demonstrated reduced numbers of nephrons, renal hypertrophy, systemic hypertension and progressive renal insufficiency up to 35 weeks of age.
-Pregnant rats which received 12 mg/kg/day of cyclosporine intravenously (twice the recommended human intravenous dose) had fetuses with an increased incidence of ventricular septal defect.
-These findings have not been demonstrated in other species and their relevance for humans is unknown.
-
-No impairment in fertility was demonstrated in studies in male and female rats.
-
-Widely distributed papillomatosis of the skin was observed after chronic treatment of dogs with cyclosporine at 9 times the human initial psoriasis treatment dose of 2.5 mg/kg, where doses are expressed on a body surface area basis.
-This papillomatosis showed a spontaneous regression upon discontinuation of cyclosporine.
-
-An increased incidence of malignancy is a recognized complication of immunosuppression in recipients of organ transplants and patients with rheumatoid arthritis and psoriasis.
-The most common forms of neoplasms are non-Hodgkin’s lymphoma and carcinomas of the skin.
-The risk of malignancies in cyclosporine recipients is higher than in the normal, healthy population but similar to that in patients receiving other immunosuppressive therapies.
-Reduction or discontinuance of immunosuppression may cause the lesions to regress.
-
-In psoriasis patients on cyclosporine, development of malignancies, especially those of the skin has been reported.
-(See WARNINGS) Skin lesions not typical for psoriasis should be biopsied before starting cyclosporine treatment.
-Patients with malignant or premalignant changes of the skin should be treated with cyclosporine only after appropriate treatment of such lesions and if no other treatment option exists.
-
-## Pregnancy:
-
-### Pregnancy Category C
-
-Animal studies have shown reproductive toxicity in rats and rabbits.
-Cyclosporine gave no evidence of mutagenic or teratogenic effects in the standard test systems with oral application (rats up to 17 mg/kg and rabbits up to 30 mg/kg per day orally.)
-Only at dose levels toxic to dams, were adverse effects seen in reproduction studies in rats.
-Cyclosporine has been shown to be embryo- and fetotoxic in rats and rabbits following oral administration at maternally toxic doses.
-Fetal toxicity was noted in rats at 0.8 and rabbits at 5.4 times the transplant doses in humans of 6.0 mg/kg, where dose corrections are based on body surface area.
-Cyclosporine was embryo- and fetotoxic as indicated by increased pre- and postnatal mortality and reduced fetal weight together with related skeletal retardation.
-
-There are no adequate and well-controlled studies in pregnant women therefore, Neoral® should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
-
-In pregnant transplant recipients who are being treated with immunosuppressants the risk of premature birth is increased.
-The following data represent the reported outcomes of 116 pregnancies in women receiving cyclosporine during pregnancy, 90% of whom were transplant patients, and most of whom received cyclosporine throughout the entire gestational period.
-The only consistent patterns of abnormality were premature birth (gestational period of 28 to 36 weeks) and low birth weight for gestational age.
-Sixteen fetal losses occurred.
-Most of the pregnancies (85 of 100) were complicated by disorders; including, pre-eclampsia, eclampsia, premature labor, abruptio placentae, oligohydramnios, Rh incompatibility, and fetoplacental dysfunction.
-Pre-term delivery occurred in 47%.
-Seven malformations were reported in 5 viable infants and in 2 cases of fetal loss.
-Twenty-eight percent of the infants were small for gestational age.
-Neonatal complications occurred in 27%.
-Therefore, the risks and benefits of using Neoral® during pregnancy should be carefully weighed.
-
-A limited number of observations in children exposed to cyclosporine in utero are available, up to an age of approximately 7 years.
-Renal function and blood pressure in these children were normal.
-
-Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using Neoral® in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of Neoral®.
-
-## Nursing Mothers
-
-Cyclosporine passes into breast milk.
-Mothers receiving treatment with Neoral® should not breast-feed.
-
-## Pediatric Use
-
-Although no adequate and well-controlled studies have been completed in children, transplant recipients as young as one year of age have received Neoral® with no unusual adverse effects.
-The safety and efficacy of Neoral® treatment in children with juvenile rheumatoid arthritis or psoriasis below the age of 18 have not been established.
-
-## Geriatric Use
-
-In rheumatoid arthritis clinical trials with cyclosporine, 17.5% of patients were age 65 or older.
-These patients were more likely to develop systolic hypertension on therapy, and more likely to show serum creatinine rises ≥50% above the baseline after 3-4 months of therapy.
-
-Clinical studies of Neoral® in transplant and psoriasis patients did not include a sufficient number of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experiences have not identified differences in response between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

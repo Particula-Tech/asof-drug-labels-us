@@ -27,7 +27,7 @@ The effect of milk on the bioavailability of cyclosporine when administered as N
 
 The relationship between administered dose and exposure (area under the concentration versus time curve, AUC) is linear within the therapeutic dose range.
 The intersubject variability (total, %CV) of cyclosporine exposure (AUC) when Neoral® or Sandimmune® is administered ranges from approximately 20% to 50% in renal transplant patients.
-This intersubject variability contributes to the need for individualization of the dosing regimen for optimal therapy (see DOSAGE AND ADMINISTRATION).
+This intersubject variability contributes to the need for individualization of the dosing regimen for optimal therapy (See DOSAGE AND ADMINISTRATION).
 Intrasubject variability of AUC in renal transplant recipients (%CV) was 9%-21% for Neoral® and 19%-26% for Sandimmune®.
 In the same studies, intrasubject variability of trough concentrations (%CV) was 17%-30% for Neoral® and 16%-38% for Sandimmune®.
 
@@ -39,7 +39,7 @@ The absolute bioavailability of cyclosporine administered as Neoral® has not be
 In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration (Cmax) was approximately 40% to 106% greater following administration of Neoral® compared to following administration of Sandimmune®.
 The dose normalized AUC in de novo liver transplant patients administered Neoral® 28 days after transplantation was 50% greater and Cmax was 90% greater than in those patients administered Sandimmune®.
 AUC and Cmax are also increased (Neoral® relative to Sandimmune®) in heart transplant patients, but data are very limited.
-Although the AUC and Cmax values are higher on Neoral® relative to Sandimmune®, the pre-dose trough concentrations (dose-normalized) are similar for the two formulations.
+Although the AUC and Cmax values are higher on Neoral® relative to Sandimmune®, the predose trough concentrations (dose-normalized) are similar for the two formulations.
 
 Following oral administration of Neoral®, the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5-2.0 hours.
 The administration of food with Neoral® decreases the cyclosporine AUC and Cmax.
@@ -79,7 +79,7 @@ Cyclosporine is excreted in human milk.
 ## Metabolism
 
 Cyclosporine is extensively metabolized by the cytochrome P-450 3A enzyme system in the liver, and to a lesser degree in the gastrointestinal tract, and the kidney.
-The metabolism of cyclosporine can be altered by the co-administration of a variety of agents.
+The metabolism of cyclosporine can be altered by the coadministration of a variety of agents.
 (See PRECAUTIONS, Drug Interactions) At least 25 metabolites have been identified from human bile, feces, blood, and urine.
 The biological activity of the metabolites and their contributions to toxicity are considerably less than those of the parent compound.
 The major metabolites (M1, M9, and M4N) result from oxidation at the 1-beta, 9-gamma, and 4-N-demethylated positions, respectively.
@@ -90,16 +90,28 @@ Based on blood concentration data from stable renal transplant patients (13 pati
 
 Only 0.1% of a cyclosporine dose is excreted unchanged in the urine.
 Elimination is primarily biliary with only 6% of the dose (parent drug and metabolites) excreted in the urine.
-Neither dialysis nor renal failure alter cyclosporine clearance significantly.
+Neither dialysis nor renal failure alters cyclosporine clearance significantly.
 
 ## Drug Interactions
 
-(See PRECAUTIONS, Drug Interactions) When diclofenac or methotrexate was co-administered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased.
+(See PRECAUTIONS, Drug Interactions) When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased.
 (See PRECAUTIONS, Drug Interactions) No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
 
-## Special Populations
+Specific Populations
 
-### Pediatric Population
+Renal Impairment
+
+In a study performed in 4 subjects with end-stage renal disease (creatinine clearance <5 mL/min), an intravenous infusion of 3.5 mg/kg of cyclosporine over 4 hours administered at the end of a hemodialysis session resulted in a mean volume of distribution (Vdss) of 3.49 L/kg and systemic clearance (CL) of 0.369 L/hr/kg.
+This systemic CL (0.369 L/hr/kg) was approximately two thirds of the mean systemic CL (0.56 L/hr/kg) of cyclosporine in historical control subjects with normal renal function.
+In 5 liver transplant patients, the mean clearance of cyclosporine on and off hemodialysis was 463 mL/min and 398 mL/min, respectively.
+Less than 1% of the dose of cyclosporine was recovered in the dialysate.
+
+Hepatic Impairment
+
+Cyclosporine is extensively metabolized by the liver.
+Since severe hepatic impairment may result in significantly increased cyclosporine exposures, the dosage of cyclosporine may need to be reduced in these patients.
+
+## Pediatric Population
 
 Pharmacokinetic data from pediatric patients administered Neoral® or Sandimmune® are very limited.
 In 15 renal transplant patients aged 3-16 years, cyclosporine whole blood clearance after IV administration of Sandimmune® was 10.6±3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
@@ -123,6 +135,6 @@ In 7 liver de novo transplant patients aged 1.4-10 years, the absolute bioavaila
 | Age 7-15, Dosed BID (N=5) | 328±83 | 7.37±4.11 | 6922±1988 | 1827±487 | 418±143 | 8.7±2.9 |
 | 1AUC was measured over one dosing interval 2Assay: Cyclo-trac specific monoclonal radioimmunoassay 3Assay: TDx specific monoclonal fluorescence polarization immunoassay |  |  |  |  |  |  |
 
-### Geriatric Population
+## Geriatric Population
 
 Comparison of single dose data from both normal elderly volunteers (N=18, mean age 69 years) and elderly rheumatoid arthritis patients (N=16, mean age 68 years) to single dose data in young adult volunteers (N=16, mean age 26 years) showed no significant difference in the pharmacokinetic parameters.

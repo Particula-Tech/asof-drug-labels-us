@@ -9,6 +9,24 @@ The daily dose of Neoral® should always be given in two divided doses (BID).
 It is recommended that Neoral® be administered on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
 
+Specific Populations
+
+Renal Impairment in Kidney, Liver, and Heart Transplantation
+
+Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (See CLINICAL PHARMACOLOGY).
+However, due to its nephrotoxic potential (See WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated.
+(See WARNINGS and PRECAUTIONS)
+
+Renal Impairment in Rheumatoid Arthritis and Psoriasis
+
+Patients with impaired renal function should not receive cyclosporine.
+(See CONTRAINDICATIONS, WARNINGS and PRECAUTIONS)
+
+Hepatic Impairment
+
+The clearance of cyclosporine may be significantly reduced in severe liver disease patients (See CLINICAL PHARMACOLOGY).
+Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range (See WARNINGS and PRECAUTIONS).
+
 ## Newly Transplanted Patients
 
 The initial oral dose of Neoral® can be given 4-12 hours prior to transplantation or be given postoperatively.
@@ -102,7 +120,7 @@ To make Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED more p
 Patients should avoid switching diluents frequently.
 Grapefruit juice affects metabolism of cyclosporine and should be avoided.
 The combination of Neoral® solution with milk can be unpalatable.
-The effect of milk on the bioavailability of cyclosporine when adminstered as Neoral Oral Solution has not been evaluated.
+The effect of milk on the bioavailability of cyclosporine when administered as Neoral Oral Solution has not been evaluated.
 
 Take the prescribed amount of Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED from the container using the dosing syringe supplied, after removal of the protective cover, and transfer the solution to a glass of orange or apple juice.
 Stir well and drink at once.
