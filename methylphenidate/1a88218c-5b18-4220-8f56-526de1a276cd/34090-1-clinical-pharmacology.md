@@ -27,7 +27,7 @@ Mean methylphenidate plasma concentrations in 36 adults, following a single dose
 
 The mean single-dose pharmacokinetic parameters in 36 healthy adults following the administration of CONCERTA® 18 mg once daily and methylphenidate 5 mg three times daily are summarized in Table 6.
 
-TABLE 6.
+Table 6.
 Pharmacokinetic Parameters (Mean ± SD) After Single Dose in Healthy Adults
 
 | Parameters | CONCERTA® (18 mg once daily) (n=36) | Methylphenidate (5 mg three times daily) (n=35) |
@@ -71,6 +71,12 @@ Food Effects
 
 In patients, there were no differences in either the pharmacokinetics or the pharmacodynamic performance of CONCERTA® when administered after a high-fat breakfast.
 There is no evidence of dose dumping in the presence or absence of food.
+
+Alcohol Effect
+
+An in vitro study was conducted to explore the effect of alcohol on the release characteristics of methylphenidate from the CONCERTA® 18 mg tablet dosage form.
+At an alcohol concentration up to 40% there was no increased release of methylphenidate in the first hour.
+The results with the 18 mg tablet strength are considered representative of the other available tablet strengths.
 
 Special Populations
 

@@ -8,11 +8,12 @@ Three double-blind, active- and placebo-controlled studies were conducted in 416
 The controlled studies compared CONCERTA® given once daily (18, 36, or 54 mg), methylphenidate given three times daily over 12 hours (15, 30, or 45 mg total daily dose), and placebo in two single-center, 3-week crossover studies (Studies 1 and 2) and in a multicenter, 4-week, parallel-group comparison (Study 3).
 The primary comparison of interest in all three trials was CONCERTA® versus placebo.
 
-Symptoms of ADHD were evaluated by community schoolteachers using the Inattention / Overactivity with Aggression (IOWA) Conners scale.
-Statistically significant reduction in the Inattention / Overactivity subscale versus placebo was shown consistently across all three controlled studies for CONCERTA®.
+Symptoms of ADHD were evaluated by community schoolteachers using the Inattention/Overactivity with Aggression (IOWA) Conners scale.
+Statistically significant reduction in the Inattention/Overactivity subscale versus placebo was shown consistently across all three controlled studies for CONCERTA®.
 The scores for CONCERTA® and placebo for the three studies are presented in Figure 2.
 
-Figure 2: Mean Community School Teacher IOWA Conners Inattention/Overactivity Scores with CONCERTA® once daily (18, 36, or 54 mg) and placebo.
+Figure 2.
+Mean Community School Teacher IOWA Conners Inattention/Overactivity Scores with CONCERTA® once daily (18, 36, or 54 mg) and placebo.
 Studies 1 and 2 involved a 3-way crossover of 1 week per treatment arm.
 Study 3 involved 4 weeks of parallel-group treatments with a Last Observation Carried Forward analysis at week 4.
 Error bars represent the mean plus standard error of the mean.
@@ -21,7 +22,8 @@ In Studies 1 and 2, symptoms of ADHD were evaluated by laboratory schoolteachers
 The combined results from these two studies demonstrated statistically significant improvements in attention and behavior in patients treated with CONCERTA® versus placebo that were maintained through 12 hours after dosing.
 Figure 3 presents the laboratory schoolteacher SKAMP ratings for CONCERTA® and placebo.
 
-Figure 3: Laboratory School Teacher SKAMP Ratings: Mean (SEM) of Combined Attention (Studies 1 and 2)
+Figure 3.
+Laboratory School Teacher SKAMP Ratings: Mean (SEM) of Combined Attention (Studies 1 and 2)
 
 ## 14.2 Adolescents
 

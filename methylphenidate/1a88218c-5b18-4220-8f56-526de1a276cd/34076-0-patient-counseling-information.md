@@ -2,8 +2,6 @@
 
 See Medication Guide
 
-## 17.1 Information for Patients
-
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with methylphenidate and should counsel them in its appropriate use.
 A patient Medication Guide is available for CONCERTA®.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.

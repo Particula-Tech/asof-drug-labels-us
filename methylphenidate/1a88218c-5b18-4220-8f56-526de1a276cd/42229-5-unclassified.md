@@ -12,4 +12,6 @@ Vacaville, CA 95688
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised: November 2012
+Revised: May 2013
+
+©Janssen Pharmaceuticals, Inc. 2008

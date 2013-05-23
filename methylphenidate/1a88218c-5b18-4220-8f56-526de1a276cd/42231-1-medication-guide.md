@@ -2,7 +2,7 @@ MEDICATION GUIDE CONCERTA® (kon SER-ta) (methylphenidate HCl) Extended-release 
 
 Read the Medication Guide that comes with CONCERTA® before you or your child starts taking it and each time you get a refill.
 There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your or your child's treatment with CONCERTA®.
+This Medication Guide does not take the place of talking to your doctor about your or yours child's treatment with CONCERTA®.
 
 What Is CONCERTA®?
 
@@ -145,4 +145,4 @@ Vacaville, CA 95688
 
 Manufactured for: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
 
-Revised: November 2012
+Revised: May 2013

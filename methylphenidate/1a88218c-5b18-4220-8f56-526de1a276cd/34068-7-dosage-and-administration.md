@@ -10,7 +10,7 @@ CONCERTA® must be swallowed whole with the aid of liquids, and must not be chew
 
 The recommended starting dose of CONCERTA® for patients who are not currently taking methylphenidate or stimulants other than methylphenidate is 18 mg once daily for children and adolescents and 18 or 36 mg once daily for adults (see Table 1).
 
-TABLE 1.
+Table 1.
 CONCERTA® Recommended Starting Doses and Dose Ranges
 
 | Patient Age | Recommended Starting Dose | Dose Range |
@@ -25,7 +25,7 @@ The recommended dose of CONCERTA® for patients who are currently taking methylp
 Dosing recommendations are based on current dose regimen and clinical judgment.
 Conversion dosage should not exceed 72 mg daily.
 
-TABLE 2.
+Table 2.
 Recommended Dose Conversion from Methylphenidate Regimens to CONCERTA®
 
 | Previous Methylphenidate Daily Dose | Recommended CONCERTA® Starting Dose |
