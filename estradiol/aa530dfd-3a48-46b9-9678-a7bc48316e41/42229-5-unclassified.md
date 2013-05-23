@@ -2,9 +2,9 @@ PHYSICIAN'S LEAFLET
 
 Rx only
 
-LAB-0082-5.0
+LAB-0082-6.0
 
-August 2008
+March 2013
 
 What is ESTRING?
 
@@ -143,7 +143,8 @@ Serious but less common side effects include:
 - High blood pressure
 - Liver problems
 - High blood sugar
-- Enlargement of benign tumors of the uterus ("fibroids") Some of the warning signs of these serious side effects include:
+- Enlargement of benign tumors of the uterus ("fibroids")
+- Severe allergic reaction Some of the warning signs of these serious side effects include:
   - Breast lumps
   - Unusual vaginal bleeding
   - Dizziness and faintness
@@ -154,7 +155,8 @@ Serious but less common side effects include:
   - Pains in your legs
   - Changes in vision
   - Vomiting
-  - Yellowing of the skin, eyes or nail beds Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
+  - Yellowing of the skin, eyes or nail beds
+  - Skin rash, giant hives, swelling of the eyelids, face, lips, tongue or throat Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
 
 Less serious but common side effects include:
 
@@ -203,6 +205,9 @@ Estradiol, silicone polymers and barium sulfate are combined to form the ring.
 
 Storage: Store at controlled room temperature 15° to 30° C (59° to 86° F).
 
-LAB-0087-4.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
 
-August 2008
+LAB-0087-5.0
+
+March 2013
