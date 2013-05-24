@@ -1,3 +1,3 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-SeeFDA-Approved Patient Labeling
+SeeFDA-Approved Medication Guide

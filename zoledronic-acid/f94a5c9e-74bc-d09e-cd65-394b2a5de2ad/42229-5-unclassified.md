@@ -2,8 +2,7 @@ Information for Patients
 
 Patients should be made aware that zoledronic acid injection contains the same active ingredient (zoledronic acid) found in Zometa®, and that patients being treated with Zometa should not be treated with zoledronic acid injection.
 
-Zoledronic acid injection is contraindicated in patients with creatinine clearance < 35 ml/min.
-[See Contraindications (4.2)].
+Zoledronic acid injection is contraindicated in patients with creatinine clearance less than 35 ml/min [see Contraindications (4)].
 
 Before being given zoledronic acid injection patients should tell their doctor if they have kidney problems and what medications they are taking.
 
@@ -37,20 +36,3 @@ Severe and occasionally incapacitating bone, joint, and/or muscle pain have been
 Consider withholding future zoledronic acid injection treatment if severe symptoms develop.
 
 A typical femur fractures in patients on bisphosphonate therapy have been reported; patients with thigh or groin pain should be evaluated to rule out a femoral fracture.
-
-Rx only
-
-Manufactured by:
-
-Gland Pharma Limited
-
-D.P.
-Pally – 500 043 INDIA
-
-Manufactured for:
-
-Dr. Reddy’s Laboratories Limited
-
-Bachupally – 500 090 INDIA
-
-Issued: 0313

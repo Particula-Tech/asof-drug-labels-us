@@ -1,4 +1,4 @@
-MEDICATION GUIDE (zole DRO nik AS sid)
+MEDICATION GUIDE
 
 Zoledronic acid Injection
 
@@ -123,7 +123,7 @@ Your risk of kidney problems is higher if you:
 - Headache
 - Vomiting
 - Diarrhea Talk to your doctor about things you can do to help decrease some of these side effects that might happen with a zoledronic acid injection infusion.
-  You may get allergic reactions, such as hives or, in rare cases, swelling of your face, lips, tongue, or throat.
+  You may get allergic reactions, such as hives, swelling of your face, lips, tongue, or throat.
   Tell your doctor if you have any side effect that bothers you or that does not go away.
   These are not all the possible side effects of zoledronic acid injection.
   For more information, ask your doctor or pharmacist.
@@ -138,4 +138,4 @@ Your risk of kidney problems is higher if you:
   What are the ingredients in Zoledronic Acid Injection?
   Active ingredient: zoledronic acid monohydrate Inactive ingredients: mannitol and sodium citrate.
   This Medication Guide has been approved by the U.S. Food and Drug Administration.Rx Only Manufactured by: Gland Pharma Limited D.P.
-  Pally – 500 043 INDIA Manufactured for: Dr. Reddy’s Laboratories Limited Bachupally – 500 090 INDIA Issued: 0313
+  Pally – 500 043 INDIA Manufactured for: Dr. Reddy’s Laboratories Limited Bachupally – 500 090 INDIA Revised: 0513

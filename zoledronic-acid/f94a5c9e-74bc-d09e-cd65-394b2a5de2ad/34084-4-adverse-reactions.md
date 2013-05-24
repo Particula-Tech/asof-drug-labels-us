@@ -6,17 +6,17 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ### Paget's Disease of Bone
 
-In the Paget’s disease trials, two 6-month, double-blind, comparative, multinational studies of 349 men and women aged > 30 years with moderate to severe disease and with confirmed Paget’s disease of bone, 177 patients were exposed to zoledronic acid injection and 172 patients exposed to risedronate.
+In the Paget’s disease trials, two 6-month, double-blind, comparative, multinational studies of 349 men and women aged greater than 30 years with moderate to severe disease and with confirmed Paget’s disease of bone, 177 patients were exposed to zoledronic acid injection and 172 patients exposed to risedronate.
 Zoledronic acid injection was administered once as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
 Risedronate was given as an oral daily dose of 30 mg for 2 months.
 
 The incidence of serious adverse events was 5.1% in the zoledronic acid injection group and 6.4% in the risedronate group.
 The percentage of patients who withdrew from the study due to adverse events was 1.7% and 1.2% for the zoledronic acid injection and risedronate groups, respectively.
 
-Adverse reactions occurring in at least 2% of the Paget’s patients receiving zoledronic acid injection (single 5 mg IV infusion) or risedronate (30 mg oral daily dose for 2 months) over a 6-month study period are listed by system organ class in Table 1.
+Adverse reactions occurring in at least 2% of the Paget’s patients receiving zoledronic acid injection (single 5 mg intravenous infusion) or risedronate (30 mg oral daily dose for 2 months) over a 6-month study period are listed by system organ class in Table 1.
 
 Table 1.
-Adverse Reactions Reported in at Least 2% of Paget’s Patients Receiving Zoledronic Acid Injection (Single 5 mg IV Infusion) or Risedronate (Oral 30 mg Daily for 2 Months) Over a 6-Month Follow-Up Period
+Adverse Reactions Reported in at Least 2% of Paget’s Patients Receiving Zoledronic Acid Injection (Single 5 mg intravenous Infusion) or Risedronate (Oral 30 mg Daily for 2 Months) Over a 6-Month Follow-Up Period
 
 | System Organ Class | 5 mg IV Zoledronic Acid Injection % (N = 177) | 30 mg/day x 2 Months risedronate % (N = 172) |
 | --- | --- | --- |
@@ -61,7 +61,7 @@ Adverse Reactions Reported in at Least 2% of Paget’s Patients Receiving Zoledr
 Laboratory Findings
 
 In the Paget’s disease trials, early, transient decreases in serum calcium and phosphate levels were observed.
-Approximately 21% of patients had serum calcium levels <8.4 mg/dL 9 to 11 days following zoledronic acid injection administration.
+Approximately 21% of patients had serum calcium levels less than 8.4 mg/dL 9 to 11 days following zoledronic acid injection administration.
 
 Renal Impairment
 
@@ -84,16 +84,29 @@ Symptoms may be significant and lead to dehydration.
 
 Acute Renal Failure
 
-Cases of acute renal failure requiring hospitalization and/or dialysis or with a fatal outcome have been rarely reported.Increased serum creatinine was reported in patients with 1) underlying renal disease, 2) dehydration secondary to fever, sepsis, gastrointestinal losses, or diuretic therapy, or 3) other risk factors such as advanced age, or concomitant nephrotoxic drugs in the post-infusion period.
+Acute renal failure requiring hospitalization and/or dialysis or with a fatal outcome have been rarely reported.Increased serum creatinine was reported in patients with 1) underlying renal disease, 2) dehydration secondary to fever, sepsis, gastrointestinal losses, or diuretic therapy, or 3) other risk factors such as advanced age, or concomitant nephrotoxic drugs in the post-infusion period.
 Transient rise in serum creatinine can be correctable with intravenous fluids.
 
-Allergic ReactionsThere have been rare reports of allergic reaction with intravenous zoledronic acid including urticaria, angioedema, and bronchoconstriction.
-Rare cases of anaphylactic reaction/shock have also been reported.
+Allergic Reactions
 
-Hypocalcemia Rare cases of hypocalcemia have been reported.
+Allergic reaction with intravenous zoledronic acid including anaphylactic reaction/shock, urticaria, angioedema, and bronchoconstriction have been reported.
 
-Osteonecrosis of the Jaw Rare cases of osteonecrosis of the jaw have been reported.
+Asthma Exacerbations
 
-Ocular Adverse Events Rare cases of the following events have been reported: conjunctivitis, iritis, iridocyclitis, uveitis, episcleritis, scleritis, and orbital inflammation/edema.
+Asthma exacerbations have been reported.
 
-Other Rare cases of hypotension in patients with underlying risk factors have been reported.
+Hypocalcemia
+
+Hypocalcemia has been reported.
+
+Osteonecrosis of the Jaw
+
+Osteonecrosis of the jaw has been reported.
+
+Ocular Adverse Events
+
+Cases of the following events have been reported: conjunctivitis, iritis, iridocyclitis, uveitis, episcleritis, scleritis, and orbital inflammation/edema.
+
+Other
+
+Hypotension in patients with underlying risk factors have been reported.
