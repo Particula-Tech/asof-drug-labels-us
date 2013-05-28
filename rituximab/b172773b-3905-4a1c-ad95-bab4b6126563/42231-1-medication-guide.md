@@ -150,15 +150,14 @@ See "What is the most important information I should know about Rituxan?"
   Tell your doctor right away if you have any stomach area pain during treatment with Rituxan.
 - Low blood cell counts.
   Your doctor may do blood tests during treatment with Rituxan to check your blood cell counts.
-
-- White blood cells.
-  White blood cells fight against bacterial infections.
-  Low white blood cells can cause you to get infections, which may be serious.
-  See "Increased risk of infections" above for a list of symptoms of infection.
-- Red blood cells.
-  Red blood cells carry oxygen to your body tissues and organs.
-- Platelets.
-  Platelets are blood cells that help your blood to clot.
+  - White blood cells.
+    White blood cells fight against bacterial infections.
+    Low white blood cells can cause you to get infections, which may be serious.
+    See "Increased risk of infections" above for a list of symptoms of infection.
+  - Red blood cells.
+    Red blood cells carry oxygen to your body tissues and organs.
+  - Platelets.
+    Platelets are blood cells that help your blood to clot.
 
 Common side effects during Rituxan treatment include:
 

@@ -27,7 +27,7 @@ Correct electrolyte abnormalities, monitor renal function and fluid balance, and
 
 Mucocutaneous reactions, some with fatal outcome, can occur in patients treated with Rituxan.
 These reactions include paraneoplastic pemphigus, Stevens-Johnson syndrome, lichenoid dermatitis, vesiculobullous dermatitis, and toxic epidermal necrolysis.
-The onset of these reactions has varied from 1–13 weeks following Rituxan exposure.
+The onset of these reactions has been variable and includes reports with onset on the first day of Rituxan exposure.
 Discontinue Rituxan in patients who experience a severe mucocutaneous reaction.
 The safety of readministration of Rituxan to patients with severe mucocutaneous reactions has not been determined.
 [See Boxed Warning, Adverse Reactions (6, 6.1)].

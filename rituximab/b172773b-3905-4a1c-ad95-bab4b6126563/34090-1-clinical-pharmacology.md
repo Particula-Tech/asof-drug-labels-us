@@ -43,9 +43,9 @@ Treatment with rituximab in patients with RA was associated with reduction of ce
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-In GPA and MPA patients, peripheral blood CD19 B-cells depleted to less than 10 cells/µl following the first two infusions of Rituxan, and remained at that level in most (84%) patients through Month 6.
-By Month 12, the majority of patients (81%) showed signs of B-cell return with counts >10 cells/µL.
-By Month 18, most patients (87%) had counts >10 cells/µL.
+In GPA and MPA patients, peripheral blood CD19 B-cells depleted to less than 10 cells/μl following the first two infusions of Rituxan, and remained at that level in most (84%) patients through Month 6.
+By Month 12, the majority of patients (81%) showed signs of B-cell return with counts >10 cells/μL.
+By Month 18, most patients (87%) had counts >10 cells/μL.
 
 ## 12.3 Pharmacokinetics
 

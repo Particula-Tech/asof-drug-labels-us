@@ -204,7 +204,7 @@ The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24, b
 
 Table 9 ACR Responses in Study 1 and Study 2 (Percent of Patients) (Modified Intent-to-Treat Population)
 
-| Response | Placebo + MTX n = 201 | Rituxan + MTX n = 298 | Treatment Difference (Rituxan – Placebo) (95% CI) | Response | Placebo + MTX Retreatment n = 157 | Rituxan + MTX Retreatment n = 318 | Treatment Difference (Rituxan – Placebo)In Study 2, all patients received a first course of Rituxan 2 x 1000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either Rituxan 2 x 1000 mg + MTX or placebo + MTX at or after Week 24.,Since all patients received a first course of Rituxan, no comparison between Placebo + MTX and Rituxan + MTX is made at Week 24.,For Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive > 20 IU/mL, negative < 20 IU/mL) at baseline; For Study 2, weighted difference stratified by RF status at baseline and ≥ 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |
+| Response | Placebo + MTX n = 201 | Rituxan + MTX n = 298 | Treatment Difference (Rituxan – Placebo) (95% CI) | Response | Placebo + MTX Retreatment n = 157 | Rituxan + MTX Retreatment n = 318 | Treatment Difference (Rituxan – Placebo)In Study 2, all patients received a first course of Rituxan 2 × 1000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either Rituxan 2 × 1000 mg + MTX or placebo + MTX at or after Week 24.,Since all patients received a first course of Rituxan, no comparison between Placebo + MTX and Rituxan + MTX is made at Week 24.,For Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive > 20 IU/mL, negative < 20 IU/mL) at baseline; For Study 2, weighted difference stratified by RF status at baseline and ≥ 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Inadequate Response to TNF Antagonists |  |  |  |  |  |  |  |
 |  | Study 1 24 Week Placebo-Controlled (Week 24) |  |  |  | Study 2 Placebo-Controlled Retreatment (Week 24 and Week 48) |  |  |
@@ -239,9 +239,8 @@ Although both treatment groups received a brief course of intravenous and oral g
 A similar proportion of patients achieved these responses through Week 24 after a single course of treatment (2 infusions) with Rituxan.
 Similar patterns were demonstrated for ACR 50 and 70 responses.
 
-| Figure 2 Percent of Patients Achieving ACR 20 Response by Visit* Study 1 (Inadequate Response to TNF Antagonists) |
+| Figure 2 Percent of Patients Achieving ACR 20 Response by VisitThe same patients may not have responded at each time point. Study 1 (Inadequate Response to TNF Antagonists) |
 | --- |
-| *The same patients may not have responded at each time point. |
 
 Radiographic Response
 
@@ -317,7 +316,7 @@ Table 13 Percentage of Patients Who Achieved Complete Remission at 6 Months (Int
 |  | Rituxan (n = 99) | Cyclophosphamide (n = 98) | Treatment Difference (Rituxan – Cyclophosphamide) |
 | --- | --- | --- | --- |
 | Rate | 64% | 53% | 11% |
-| 95.1%The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. CI | (54%, 73%) | (43%, 63%) | (–3%, 24%) non-inferiority was demonstrated because the lower bound was higher than the prespecified non-inferiority margin (–3% > –20%). |
+| 95.1%The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. CI | (54%, 73%) | (43%, 63%) | (-3%, 24%) non-inferiority was demonstrated because the lower bound was higher than the prespecified non-inferiority margin (-3% > -20%). |
 
 Complete Remission (CR) at 12 and 18 months
 
