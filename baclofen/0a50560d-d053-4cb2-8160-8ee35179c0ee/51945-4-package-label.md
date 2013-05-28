@@ -20,9 +20,11 @@ Principal Display Panel – 20 mL vial label (500 mcg/mL)
 
 NDC 45945-155-02 Gablofen® (baclofen injection)
 
-10,000 mcg/20 mL (500 mcg/mL) For intrathecal use only Rx
+10,000 mcg/20 mL (500 mcg/mL) For intrathecal use only
 
-OnlySingle Use Vial- Discard Unused Portion
+Rx only
+
+Single Use Vial- Discard Unused Portion
 
 Principal Display Panel – 20 mL syringe label (1,000 mcg/mL)
 
