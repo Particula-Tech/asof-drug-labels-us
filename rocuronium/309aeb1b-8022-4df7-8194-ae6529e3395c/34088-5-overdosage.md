@@ -9,7 +9,7 @@ Reversal of Neuromuscular Blockade
 Anticholinesterase agents should not be administered prior to the demonstration of some spontaneous recovery from neuromuscular blockade.
 The use of a nerve stimulator to document recovery is recommended.
 
-Patients should be evaluated for adequate clinical evidence of neuromuscular recovery, e.g., 5-second head lift, adequate phonation, ventilation, and upper airway patency.
+Patients should be evaluated for adequate clinical evidence of neuromuscular recovery, e.g., 5‑second head lift, adequate phonation, ventilation, and upper airway patency.
 Ventilation must be supported while patients exhibit any signs of muscle weakness.
 
 Recovery may be delayed in the presence of debilitation, carcinomatosis, and concomitant use of certain drugs which enhance neuromuscular blockade or separately cause respiratory depression.

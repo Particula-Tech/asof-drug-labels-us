@@ -21,13 +21,7 @@ Adverse reactions in greater than 1% of patients: None
 
 Adverse reactions in less than 1% of patients (probably related or relationship unknown):
 
-Cardiovascular: arrhythmia, abnormal electrocardiogram, tachycardia
-
-Digestive: nausea, vomiting
-
-Respiratory: asthma (bronchospasm, wheezing, or rhonchi), hiccup
-
-Skin and Appendages: rash, injection site edema, pruritus
+Cardiovascular: arrhythmia, abnormal electrocardiogram, tachycardia Digestive: nausea, vomiting Respiratory: asthma (bronchospasm, wheezing, or rhonchi), hiccup Skin and Appendages: rash, injection site edema, pruritus
 
 In the European studies, the most commonly reported reactions were transient hypotension (2%) and hypertension (2%); these are in greater frequency than the U.S. studies (0.1% and 0.1%).
 Changes in heart rate and blood pressure were defined differently from in the U.S. studies in which changes in cardiovascular parameters were not considered as adverse events unless judged by the investigator as unexpected, clinically significant, or thought to be histamine related.

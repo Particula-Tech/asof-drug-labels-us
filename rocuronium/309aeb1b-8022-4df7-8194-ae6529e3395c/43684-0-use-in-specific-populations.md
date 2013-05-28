@@ -25,16 +25,15 @@ The use of rocuronium bromide has been studied in pediatric patients 3 months to
 Of the pediatric patients anesthetized with halothane who did not receive atropine for induction, about 80% experienced a transient increase (30% or greater) in heart rate after intubation.
 One of the 19 infants anesthetized with halothane and fentanyl who received atropine for induction experienced this magnitude of change [see Dosage and Administration (2.5) and Clinical Studies (14.3)].
 
+Rocuronium bromide was also studied in pediatric patients up to 17 years of age, including neonates, under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia.
+Onset time and clinical duration varied with dose, the age of the patient, and anesthetic technique.
 The overall analysis of ECG data in pediatric patients indicates that the concomitant use of rocuronium bromide with general anesthetic agents can prolong the QTc interval.
 The data also suggest that rocuronium bromide may increase heart rate.
 However, it was not possible to conclusively identify an effect of rocuronium bromide independent of that of anesthesia and other factors.
 Additionally, when examining plasma levels of rocuronium bromide in correlation to QTc interval prolongation, no relationship was observed [see Dosage and Administration (2.5), Warnings and Precautions (5.8), and Clinical Studies (14.3)].
 
 Rocuronium bromide is not recommended for rapid sequence intubation in pediatric patients.
-Recommendations for use in pediatric patients are discussed in other sections [see Dosage and Administration (2.5) and Clinical Pharmaocology (12.2)].
-
-Due to Organon USA Inc.’s marketing exclusivity rights, this drug product is not approved with certain pediatric use information.
-Labeling describing additional information for pediatric use is approved for Organon USA Inc.’s rocuronium bromide.
+Recommendations for use in pediatric patients are discussed in other sections [see Dosage and Administration (2.5) and Clinical Pharmacology (12.2)].
 
 ## 8.5 Geriatric Use
 

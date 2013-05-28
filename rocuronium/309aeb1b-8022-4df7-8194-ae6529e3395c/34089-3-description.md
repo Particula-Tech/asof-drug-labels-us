@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Rocuronium bromide injection is a nondepolarizing neuromuscular blocking agent with a rapid to intermediate onset depending on dose and intermediate duration.
-Rocuronium bromide is chemically designated as 1-[17β-(acetyloxy)-3α-hydroxy-2β-(4-morpholinyl)-5α-androstan-16β-yl]-1-(2propenyl)pyrrolidinium bromide.
+Rocuronium bromide is chemically designated as 1-[17β-(acetyloxy)-3α-hydroxy-2β-(4-morpholinyl)-5α-androstan-16β-yl]-1-(2-propenyl) pyrrolidinium bromide.
 
 The structural formula is:
 
