@@ -102,6 +102,18 @@ Table 2 Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in 4 to 6 We
 
 Higher doses of meloxicam (22.5 mg and greater) have been associated with an increased risk of serious GI events; therefore, the daily dose of meloxicam should not exceed 15 mg.
 
+Pediatrics
+
+Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA):
+
+Three hundred and eighty-seven patients with pauciarticular and polyarticular course JRA were exposed to meloxicam with doses ranging from 0.125 to 0.375 mg/kg per day in three clinical trials.
+These studies consisted of two 12-week multicenter, double-blind, randomized trials (one with a 12-week open-label extension and one with a 40-week extension) and one 1-year open-label PK study.
+The adverse events observed in these pediatric studies with meloxicam were similar in nature to the adult clinical trial experience, although there were differences in frequency.
+In particular, the following most common adverse events, abdominal pain, vomiting, diarrhea, headache, and pyrexia, were more common in the pediatric than in the adult trials.
+Rash was reported in seven (<2%) patients receiving meloxicam.
+No unexpected adverse events were identified during the course of the trials.
+The adverse events did not demonstrate an age or gender-specific subgroup effect.
+
 The following is a list of adverse drug reactions occurring in <2% of patients receiving meloxicam in clinical trials involving approximately 16,200 patients.
 
 | Body as a Whole | allergic reaction, face edema, fatigue, fever, hot flushes, malaise, syncope, weight decrease, weight increase |

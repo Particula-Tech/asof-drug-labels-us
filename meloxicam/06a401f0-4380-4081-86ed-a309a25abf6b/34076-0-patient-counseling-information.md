@@ -72,8 +72,8 @@ Pithampur (M.P.)-454 775
 
 INDIA.
 
-Revised: January, 2013.
-ID#: 229985
+Revised: May, 2013.
+ID#: 232981
 
 Meloxicam Tablets USP
 
@@ -257,4 +257,4 @@ Pithampur (M.P.)-454 775
 
 INDIA.
 
-Revised: January, 2013 ID#: 229986
+Revised: May, 2013 ID#: 232982

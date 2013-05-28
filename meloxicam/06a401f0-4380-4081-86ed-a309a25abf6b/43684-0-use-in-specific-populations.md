@@ -32,7 +32,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-Use of this drug for a pediatric indication is protected by marketing exclusivity.
+The safety and effectiveness of meloxicam in pediatric JRA patients from 2 to 17 years of age has been evaluated in three clinical trials [see DOSAGE AND ADMINISTRATION (2.3), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.2)].
 
 ## 8.5 Geriatric Use
 

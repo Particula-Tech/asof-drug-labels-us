@@ -4,19 +4,15 @@ Meloxicam Tablets USP, are available as light yellow coloured, round, biconvex t
 
 Meloxicam Tablets USP, 7.5 mg are available as follows:
 
-Bottles of 90 NDC 68180 – 501 – 09
+Bottles of 100 NDC 68180 - 501 - 01
 
-Bottles of 100 NDC 68180 – 501 – 01
-
-Bottles of 1000 NDC 68180 – 501 – 03
+Bottles of 1000 NDC 68180 - 501 - 03
 
 Meloxicam Tablets USP, 15 mg are available as follows:
 
-Bottles of 90 NDC 68180 – 502 – 09
+Bottles of 100 NDC 68180 - 502 - 01
 
-Bottles of 100 NDC 68180 – 502 – 01
-
-Bottles of 1000 NDC 68180 – 502 – 03
+Bottles of 1000 NDC 68180 - 502 - 03
 
 Storage
 

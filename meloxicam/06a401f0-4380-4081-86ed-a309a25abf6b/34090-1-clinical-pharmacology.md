@@ -57,7 +57,7 @@ Metabolism
 Meloxicam is extensively metabolized in the liver.
 Meloxicam metabolites include 5'-carboxy meloxicam (60% of dose), from P-450 mediated metabolism formed by oxidation of an intermediate metabolite 5'-hydroxymethyl meloxicam which is also excreted to a lesser extent (9% of dose).
 In vitro studies indicate that CYP2C9 (cytochrome P450 metabolizing enzyme) plays an important role in this metabolic pathway with a minor contribution of the CYP3A4 isozyme.
-Patients’ peroxidase activity is probably responsible for the other two metabolites which account for 16% and 4% of the administered dose, respectively.
+Patients' peroxidase activity is probably responsible for the other two metabolites which account for 16% and 4% of the administered dose, respectively.
 All the four metabolites are not known to have any in vivo pharmacological activity.
 
 Excretion
@@ -73,6 +73,17 @@ The elimination half-life is constant across dose levels indicating linear metab
 Plasma clearance ranges from 7 to 9 mL/min.
 
 Special Populations
+
+Pediatric:
+
+After single (0.25 mg/kg) dose administration and after achieving steady state (0.375 mg/kg/day), there was a general trend of approximately 30% lower exposure in younger patients (2 to 6 years old) as compared to the older patients (7 to 16 years old).
+The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg.
+The meloxicam mean (SD) elimination half-life was 15.2 (10.1) and 13.0 hours (3.0) for the 2 to 6 year old patients, and 7 to 16 year old patients, respectively.
+
+In a covariate analysis, utilizing population pharmacokinetics body-weight, but not age, was the single predictive covariate for differences in the meloxicam apparent oral plasma clearance.
+The body-weight normalized apparent oral clearance values were adequate predictors of meloxicam exposure in pediatric patients.
+
+The pharmacokinetics of meloxicam in pediatric patients under 2 years of age have not been investigated.
 
 Geriatric:
 
@@ -103,7 +114,7 @@ Total drug plasma concentrations of meloxicam decreased and total clearance of m
 The higher meloxicam clearance in subjects with renal impairment may be due to increased fraction of unbound meloxicam which is available for hepatic metabolism and subsequent excretion.
 No dosage adjustment is necessary in patients with mild to moderate renal impairment.
 Patients with severe renal impairment have not been adequately studied.
-The use of meloxicam in subjects with severe renal impairment is not recommended [See WARNINGS AND PRECAUTIONS (5.6) and 125USE IN SPECIFIC POPULATIONS (8.7)].
+The use of meloxicam in subjects with severe renal impairment is not recommended [See WARNINGS AND PRECAUTIONS (5.6) and USE IN SPECIFIC POPULATIONS (8.7)].
 
 Hemodialysis:
 
@@ -123,7 +134,7 @@ The clinical relevance of this interaction has not been established.
 
 Cimetidine: Concomitant administration of 200 mg cimetidine four times daily did not alter the single-dose pharmacokinetics of 30 mg meloxicam.
 
-Digoxin: Meloxicam 15 mg once daily for 7 days did not alter the plasma concentration profile of digoxin after β-acetyldigoxin administration for 7 days at clinical doses.
+Digoxin: Meloxicam 15 mg once daily for 7 days did not alter the plasma concentration profile of digoxin after β -acetyldigoxin administration for 7 days at clinical doses.
 In vitro testing found no protein binding drug interaction between digoxin and meloxicam.
 
 Lithium: In a study conducted in healthy subjects, mean pre-dose lithium concentration and AUC were increased by 21% in subjects receiving lithium doses ranging from 804 to 1072 mg twice daily with meloxicam 15 mg QD every day as compared to subjects receiving lithium alone [See DRUG INTERACTIONS (7.4)].
