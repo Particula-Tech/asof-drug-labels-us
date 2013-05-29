@@ -4,6 +4,12 @@
 
 The effect of fenofibrate on coronary heart disease morbidity and mortality and non-cardiovascular mortality has not been established.
 
+The Action to Control Cardiovascular Risk in Diabetes Lipid (ACCORD Lipid) trial was a randomized placebo-controlled study of 5,518 patients with type 2 diabetes mellitus on background statin therapy treated with fenofibrate.
+The mean duration of follow-up was 4.7 years.
+Fenofibrate plus statin combination therapy showed a non-significant 8% relative risk reduction in the primary outcome of major adverse cardiovascular events (MACE), a composite of nonfatal myocardial infarction, nonfatal stroke and cardiovascular disease death (hazard ratio [HR] 0.92, 95% CI 0.79 to 1.08) (p = 0.32) as compared to statin monotherapy.
+In a gender subgroup analysis, the hazard ratio for MACE in men receiving combination therapy versus statin monotherapy was 0.82 (95% CI 0.69 to 0.99), and the hazard ratio for MACE in women receiving combination therapy versus statin monotherapy was 1.38 (95% CI 0.98 to 1.94) (interaction p = 0.01).
+The clinical significance of this subgroup finding is unclear.
+
 The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study was a 5-year randomized, placebo-controlled study of 9,795 patients with type 2 diabetes mellitus treated with fenofibrate.
 Fenofibrate demonstrated a non-significant 11% relative reduction in the primary outcome of coronary heart disease events (hazard ratio [HR] 0.89, 95% CI 0.75 to 1.05, p = 0.16) and a significant 11% reduction in the secondary outcome of total cardiovascular disease events (HR 0.89 [0.80 to 0.99], p = 0.04).
 There was a non-significant 11% (HR 1.11 [0.95, 1.29], p = 0.18) and 19% (HR 1.19 [0.90, 1.57], p = 0.22) increase in total and coronary heart disease mortality, respectively, with fenofibrate as compared to placebo.
@@ -42,6 +48,8 @@ CPK levels should be assessed in patients reporting these symptoms and fenofibra
 Data from observational studies indicate that the risk for rhabdomyolysis is increased when fibrates, in particular gemfibrozil, are coadministered with an HMG-CoA reductase inhibitor (statin).
 The combination should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination [see Clinical Pharmacology (12.3)].
 
+Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates coadministered with colchicine and caution should be exercised when prescribing fenofibrate with colchicine [see Drug Interactions (7.4)].
+
 ## 5.3 Liver Function
 
 Fenofibrate at doses equivalent to 96 mg to 145 mg fenofibrate per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
@@ -53,7 +61,7 @@ In an 8-week dose-ranging study, the incidence of ALT or AST elevations to at le
 Hepatocellular, chronic active and cholestatic hepatitis associated with fenofibrate therapy have been reported after exposures of weeks to several years.
 In extremely rare cases, cirrhosis has been reported in association with chronic active hepatitis.
 
-Regular periodic monitoring of liver function, including serum ALT (SGPT) should be performed for the duration of therapy with fenofibrate and therapy discontinued if enzyme levels persist above 3 times the normal limit.
+Baseline and regular periodic monitoring of liver function, including serum ALT (SGPT) should be performed for the duration of therapy with fenofibrate and therapy discontinued if enzyme levels persist above 3 times the normal limit.
 
 ## 5.4 Serum Creatinine
 
@@ -98,3 +106,13 @@ Of 9,795 patients enrolled in FIELD, there were 4,900 in the placebo group and 4
 For DVT, there were 48 events (1%) in the placebo group and 67 (1%) in the fenofibrate group (p = 0.074); and for PE, there were 32 (0.7%) events in the placebo group and 53 (1%) in the fenofibrate group (p = 0.022).
 
 In the Coronary Drug Project, a higher proportion of the clofibrate group experienced definite or suspected fatal or nonfatal pulmonary embolism or thrombophlebitis than the placebo group (5.2% vs. 3.3% at 5 years; p < 0.01).
+
+## 5.11 Paradoxical Decreases in HDL Cholesterol Levels
+
+There have been post-marketing and clinical trial reports of severe decreases in HDL cholesterol levels (as low as 2 mg/dL) occurring in diabetic and non-diabetic patients initiated on fibrate therapy.
+The decrease in HDLC is mirrored by a decrease in apolipoprotein A1.
+This decrease has been reported to occur within 2 weeks to years after initiation of fibrate therapy.
+The HDL-C levels remain depressed until fibrate therapy has been withdrawn; the response to withdrawal of fibrate therapy is rapid and sustained.
+The clinical significance of this decrease in HDL-C is unknown.
+It is recommended that HDL-C levels be checked within the first few months after initiation of fibrate therapy.
+If a severely depressed HDL-C level is detected, fibrate therapy should be withdrawn and the HDL-C level monitored until it has returned to baseline, and fibrate therapy should not be re-initiated.

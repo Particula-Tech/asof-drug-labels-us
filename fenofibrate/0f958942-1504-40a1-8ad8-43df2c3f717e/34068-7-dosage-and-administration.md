@@ -23,12 +23,12 @@ The initial dose of fenofibrate tablets is 145 mg once daily.
 ## 2.3 Severe Hypertriglyceridemia
 
 The initial dose is 48 mg to 145 mg per day.
-Dosage should be individualized according to patient response and should be adjusted if necessary following repeat lipid determinations at 4- to 8-week intervals.
+Dosage should be individualized according to patient response and should be adjusted if necessary following repeat lipid determinations at 4 to 8 week intervals.
 The maximum dose is 145 mg once daily.
 
 ## 2.4 Impaired Renal Function
 
-Treatment with fenofibrate tablets should be initiated at a dose of 48 mg/day in patients having mild to moderately impaired renal function and increased only after evaluation of the effects on renal function and lipid levels at this dose.
+Treatment with fenofibrate tablets should be initiated at a dose of 48 mg per day in patients having mild to moderately impaired renal function and increased only after evaluation of the effects on renal function and lipid levels at this dose.
 The use of fenofibrate tablets should be avoided in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Geriatric Patients

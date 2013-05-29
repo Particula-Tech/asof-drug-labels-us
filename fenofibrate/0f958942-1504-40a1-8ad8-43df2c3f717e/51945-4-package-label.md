@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 48 mg
 
 NDC 0378-3065-93
 
-Fenofibrate Tablets 48 mg
+Fenofibrate Tablets, USP 48 mg
 
 Rx only 30 Tablets
 
@@ -23,7 +23,7 @@ Made in India
 
 Mylan.com
 
-RMX3065H
+RMX3065H1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -35,7 +35,7 @@ PRINCIPAL DISPLAY PANEL - 145 mg
 
 NDC 0378-3066-93
 
-Fenofibrate Tablets 145 mg
+Fenofibrate Tablets, USP 145 mg
 
 Rx only 30 Tablets
 
@@ -56,7 +56,7 @@ Made in India
 
 Mylan.com
 
-RMX3066H
+RMX3066H1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

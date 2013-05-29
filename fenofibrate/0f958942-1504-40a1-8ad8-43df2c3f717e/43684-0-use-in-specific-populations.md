@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects. Pregnancy Category C
+### Teratogenic Effects:
+
+#### Pregnancy Category C
 
 Safety in pregnant women has not been established.
 There are no adequate and well controlled studies of fenofibrate in pregnant women.
@@ -16,7 +18,7 @@ At higher multiples of human doses evidence of maternal toxicity was observed.
 In pregnant rabbits given oral gavage doses of 15, 150 and 300 mg/kg/day from gestation day 6 to 18 during the period of organogenesis and allowed to deliver, aborted litters were observed at 150 mg/kg/day (10 times the MRHD, based on body surface area comparisons: mg/m2).
 No developmental findings were observed at 15 mg/kg/day (at less than 1 times the MRHD, based on body surface area comparisons; mg/m2).
 
-In pregnant rats given oral dietary doses of 15, 75 and 300 mg/kg/day from gestation day 15 through lactation day 21 (weaning), maternal toxicity was observed at less than 1 times the maximum recommended human dose (MRHD), based on body surface area comparisons; mg/m2.
+In pregnant rats given oral dietary doses of 15, 75 and 300 mg/kg/day from gestation day 15 through lactation day 21 (weaning), maternal toxicity was observed at less than 1 times the maximum recommended human dose (MRHD), based on body surface area comparisons; mg/m2
 
 ## 8.3 Nursing Mothers
 
@@ -25,7 +27,7 @@ A decision should be made whether to discontinue nursing or to discontinue the d
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 

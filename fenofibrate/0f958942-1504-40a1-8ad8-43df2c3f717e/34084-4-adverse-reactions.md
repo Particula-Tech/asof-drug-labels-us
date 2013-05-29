@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -8,7 +8,7 @@ Adverse events reported by 2% or more of patients treated with fenofibrate (and 
 Adverse events led to discontinuation of treatment in 5% of patients treated with fenofibrate and in 3% treated with placebo.
 Increases in liver function tests were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double-blind trials.
 
-Table 1 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials.
+Table 1 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
 
 | BODY SYSTEM | FenofibrateDosage equivalent to 145 mg fenofibrate. | Placebo |
 | --- | --- | --- |
@@ -31,5 +31,5 @@ Table 1 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofi
 
 ## 6.2 Post-marketing Experience
 
-The following adverse reactions have been identified during post-approval use of fenofibrate: myalgia, rhabdomyolysis, pancreatitis, acute renal failure, muscle spasm, hepatitis, cirrhosis, anemia, arthralgia, decreases in hemoglobin, decreases in hematocrit, white blood cell decreases and asthenia.
+The following adverse reactions have been identified during post-approval use of fenofibrate: myalgia, rhabdomyolysis, pancreatitis, acute renal failure, muscle spasm, hepatitis, cirrhosis, anemia, arthralgia, decreases in hemoglobin, decreases in hematocrit, white blood cell decreases, asthenia, and severely depressed HDL-cholesterol levels.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

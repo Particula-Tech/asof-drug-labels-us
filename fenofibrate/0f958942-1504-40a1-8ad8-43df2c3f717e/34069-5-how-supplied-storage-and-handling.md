@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Fenofibrate tablets are available containing 48 mg and 145 mg of fenofibrate, USP.
+Fenofibrate tablets, USP are available containing 48 mg and 145 mg of fenofibrate, USP.
 
 The 48 mg tablets are white film-coated, oval, unscored tablets debossed with M on one side of the tablet and FE3 on the other side.
 They are available as follows:

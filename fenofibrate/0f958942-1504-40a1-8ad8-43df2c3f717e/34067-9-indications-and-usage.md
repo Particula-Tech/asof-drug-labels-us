@@ -9,7 +9,7 @@ Fenofibrate tablets are indicated as adjunctive therapy to diet to reduce elevat
 Fenofibrate tablets are also indicated as adjunctive therapy to diet for treatment of adult patients with severe hypertriglyceridemia.
 Improving glycemic control in diabetic patients showing fasting chylomicronemia will usually obviate the need for pharmacologic intervention.
 
-Markedly elevated levels of serum triglycerides (e.g. > 2000 mg/dL) may increase the risk of developing pancreatitis.
+Markedly elevated levels of serum triglycerides (e.g., > 2000 mg/dL) may increase the risk of developing pancreatitis.
 The effect of fenofibrate tablet therapy on reducing this risk has not been adequately studied.
 
 ## 1.3 Important Limitations of Use
