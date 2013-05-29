@@ -28,11 +28,9 @@ Thrombocytopenia: Thrombocytopenia in patients receiving heparin has been report
 It can occur 2 to 20 days (average 5 to 9) following the onset of heparin therapy.
 Obtain platelet counts before and periodically during heparin therapy.
 Monitor thrombocytopenia of any degree closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops, promptly discontinue heparin, evaluate for HIT and HITT, and, if necessary, administer an alternative anticoagulant (see Heparin-induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis).
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops, promptly discontinue heparin, evaluate for HIT and HITT, and, if necessary, administer an alternative anticoagulant (see Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis).
 
-Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis:
-
-Heparin-induced thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
+Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis: Heparin-induced thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
 HIT may progress to the development of venous and arterial thromboses, a condition known as heparin-induced thrombocytopenia and thrombosis (HITT).
 Thrombotic events may also be the initial presentation for HITT.
 These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
@@ -57,7 +55,7 @@ As the dosage of solutions of heparin sodium must be titrated to individual pati
 
 # PRECAUTIONS
 
-General:
+General
 
 a. Heparin Resistance:
 
@@ -69,7 +67,7 @@ A higher incidence of bleeding has been reported in patients, particularly women
 
 Laboratory Tests: Periodic platelet counts, hematocrits and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see DOSAGE AND ADMINISTRATION).
 
-Drug Interactions:
+Drug Interactions
 
 Oral anticoagulants: Heparin sodium may prolong the one-stage prothrombin time.
 Therefore, when heparin sodium is given with dicumarol or warfarin sodium, a period of at least 5 hours after the last intravenous dose should elapse before blood is drawn if a valid PROTHROMBIN time is to be obtained.
@@ -78,7 +76,7 @@ Platelet inhibitors: Drugs such as acetylsalicylic acid, dextran, phenylbutazone
 
 Other interactions: Digitalis, tetracyclines, nicotine, or antihistamines may partially counteract the anticoagulant action of heparin sodium.
 
-Drug/Laboratory Test Interactions:
+Drug/Laboratory Test Interactions
 
 Hyperaminotransferasemia: Significant elevations of aminotransferase (SGOT [S-AST] and SGPT [S-ALT]) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin.
 Since aminotransferase determinations are important in the differential diagnosis of myocardial infarction, liver disease, and pulmonary emboli, rises that might be caused by drugs (like heparin) should be interpreted with caution.
@@ -86,9 +84,9 @@ Since aminotransferase determinations are important in the differential diagnosi
 Carcinogenesis, Mutagenesis, Impairment of Fertility: No long-term studies in animals have been performed to evaluate carcinogenic potential of heparin.
 Also, no reproduction studies in animals have been performed concerning mutagenesis or impairment of fertility.
 
-Pregnancy:
+Pregnancy
 
-Pregnancy Category C. There are no adequate and well-controlled studies on heparin use in pregnant women.
+Pregnancy Category C: There are no adequate and well-controlled studies on heparin use in pregnant women.
 In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
 Heparin sodium does not cross the placenta, based on human and animal studies.
 Administration of heparin to pregnant animals at doses higher than the maximum human daily dose based on body weight resulted in increased resorptions.

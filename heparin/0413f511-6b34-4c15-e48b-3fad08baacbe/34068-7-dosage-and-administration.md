@@ -22,11 +22,11 @@ Although dosage must be adjusted for the individual patient according to the res
 
 | Method of Administration | Frequency | Recommended Dose* |
 | --- | --- | --- |
-| Intermittent IntravenousInjection | Initial Dose | 10,000 Units, either undiluted or in 50 − 100 mL of 0.45% Sodium Chloride Injection, USP |
-| Every 4 to 6 hours | 5,000 − 10,000 Units, either undiluted or in 50 − 100 mL of 0.45% Sodium Chloride Injection, USP |  |
-| Continuous IntravenousInfusion | Initial Dose | 5,000 Units by IV injection |
-| Continuous | 20,000 − 40,000 Units/24 hours in 0.45% Sodium Chloride Injection, USP |  |
-| *Based on 150 lb. (68 kg) patient. |  |  |
+| Intermittent Intravenous Injection | Initial Dose | 10,000 Units, either undiluted or in 50 – 100 mL of 0.45% Sodium Chloride Injection, USP |
+| Every 4 to 6 hours | 5,000 – 10,000 Units, either undiluted or in 50 – 100 mL of 0.45% Sodium Chloride Injection, USP |  |
+| Continuous Intravenous Infusion | Initial Dose | 5,000 Units by IV injection |
+| Continuous | 20,000 – 40,000 Units/24 hours in 0.45% Sodium Chloride Injection, USP |  |
+| * Based on 150 lb. (68 kg) patient. |  |  |
 
 Pediatric Use: There are no adequate and well controlled studies on heparin use in pediatric patients.
 Pediatric dosing recommendations are based on clinical experience.

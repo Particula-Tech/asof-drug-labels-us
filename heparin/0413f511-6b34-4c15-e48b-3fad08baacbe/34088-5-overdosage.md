@@ -18,4 +18,4 @@ Because fatal reactions often resembling anaphylaxis have been reported, the dru
 For additional information, the labeling of Protamine Sulfate Injection, USP products should be consulted.
 
 In the event of overhydration or solute overload, re-evaluate the patient and institute appropriate corrective measures.
-See WARNINGS and PRECAUTIONS.
+(See WARNINGS and PRECAUTIONS.)
