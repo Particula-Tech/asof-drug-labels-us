@@ -8,7 +8,7 @@ Women were stratified into two groups: Stratum I: no concomitant use of osteopor
 Women enrolled in Stratum I (n=5661) were evaluated annually for incidence of vertebral fractures.
 All women (Strata I and II) were evaluated for the incidence of hip and other clinical fractures.
 Reclast was administered once a year for three consecutive years, as a single 5 mg dose in 100 mL solution infused over at least 15 minutes, for a total of three doses.
-All women received 1000 to 1500 mg of elemental calcium plus 400 to 1200 IU of vitamin D supplementation per day.
+All women received 1000 to 1500 mg of elemental calcium plus 400 to 1200 international units of vitamin D supplementation per day.
 
 The two primary efficacy variables were the incidence of morphometric vertebral fractures at 3 years and the incidence of hip fractures over a median duration of 3 years.
 The diagnosis of an incident vertebral fracture was based on both qualitative diagnosis by the radiologist and quantitative morphometric criterion.
@@ -76,7 +76,7 @@ Study 2: The efficacy and safety of Reclast in the treatment of patients with os
 Concomitant osteoporosis therapies excluding other bisphosphonates and parathyroid hormone were allowed.
 Reclast was administered once a year as a single 5 mg dose in 100 mL solution, infused over at least 15 minutes.
 The study continued until at least 211 patients had confirmed clinical fractures in the study population.
-Vitamin D levels were not routinely measured but a loading dose of vitamin D (50,000 to 125,000 IU orally or IM) was given to patients and they were started on 1000 to 1500 mg of elemental calcium plus 800 to 1200 IU of vitamin D supplementation per day for at least 14 days prior to the study drug infusions.
+Vitamin D levels were not routinely measured but a loading dose of vitamin D (50,000 to 125,000 international units orally or IM) was given to patients and they were started on 1000 to 1500 mg of elemental calcium plus 800 to 1200 international units of vitamin D supplementation per day for at least 14 days prior to the study drug infusions.
 The primary efficacy variable was the incidence of clinical fractures over the duration of the study.
 
 Reclast significantly reduced the incidence of any clinical fracture by 35%.
@@ -98,10 +98,10 @@ Treatment with Reclast resulted in a 6.4% increase in BMD at the total hip and a
 
 ## 14.2 Prevention of Postmenopausal Osteoporosis
 
-The efficacy and safety of Reclast in postmenopausal women with osteopenia (low bone mass) was assessed in a 2-year randomized, multi-center, double-blind, placebo-controlled study of 581 postmenopausal women aged > 45 years, who were stratified by years since menopause: Stratum I women < 5 years from menopause (n=224); Stratum II women > 5 years from menopause (n=357).
+The efficacy and safety of Reclast in postmenopausal women with osteopenia (low bone mass) was assessed in a 2-year randomized, multi-center, double-blind, placebo-controlled study of 581 postmenopausal women aged greater than or equal to 45 years, who were stratified by years since menopause: Stratum I women less than 5 years from menopause (n=224); Stratum II women greater than or equal to 5 years from menopause (n=357).
 Patients within Stratum I and II were randomized to one of three treatment groups: (1) Reclast given at randomization and at Month 12 (n=77) in Stratum I and (n=121) in Stratum II; (2) Reclast given at randomization and placebo at Month 12 (n=70) in Stratum I and (n=111) in Stratum II; and (3) Placebo given at randomization and Month 12 (n=202).
 Reclast was administered as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
-All women received 500 to 1200 mg elemental calcium plus 400 to 800 IU vitamin D supplementation per day.
+All women received 500 to 1200 mg elemental calcium plus 400 to 800 international units vitamin D supplementation per day.
 The primary efficacy variable was the percent change of BMD at 24 Months relative to baseline.
 
 Effect on Bone Mineral Density (BMD)
@@ -121,7 +121,7 @@ Therefore, Reclast given once at randomization (and placebo given at Month 12) r
 The efficacy and safety of Reclast in men with osteoporosis or significant osteoporosis secondary to hypogonadism, was assessed in a randomized, multicenter, double-blind, active controlled, study of 302 men aged 25-86 years (mean age of 64).
 The duration of the trial was two years.
 Patients were randomized to either Reclast which was administered once annually as a 5 mg dose in 100 mL infused over 15 minutes for a total of up to two doses, or to an oral weekly bisphosphonate (active control) for up to two years.
-All participants received 1000 mg of elemental calcium plus 800 to 1000 IU of vitamin D supplementation per day.
+All participants received 1000 mg of elemental calcium plus 800 to 1000 international units of vitamin D supplementation per day.
 
 Effect on Bone Mineral Density (BMD)
 
@@ -129,11 +129,11 @@ An annual infusion of Reclast was non-inferior to the oral weekly bisphosphonate
 
 ## 14.4 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
 
-The efficacy and safety of Reclast to prevent and treat glucocorticoid-induced osteoporosis (GIO) was assessed in a randomized, multicenter, double-blind, stratified, active controlled study of 833 men and women aged 18-85 years (mean age of 54.4 years) treated with > 7.5 mg/day oral prednisone (or equivalent).
-Patients were stratified according to the duration of their pre-study corticosteroid therapy: < 3 months prior to randomization (prevention subpopulation), and > 3 months prior to randomization (treatment subpopulation).
+The efficacy and safety of Reclast to prevent and treat glucocorticoid-induced osteoporosis (GIO) was assessed in a randomized, multicenter, double-blind, stratified, active controlled study of 833 men and women aged 18-85 years (mean age of 54.4 years) treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
+Patients were stratified according to the duration of their pre-study corticosteroid therapy: less than or equal to 3 months prior to randomization (prevention subpopulation), and greater than 3 months prior to randomization (treatment subpopulation).
 The duration of the trial was one year.
 Patients were randomized to either Reclast which was administered once as a 5 mg dose in 100 mL infused over 15 minutes, or to an oral daily bisphosphonate (active control) for one year.
-All participants received 1000 mg of elemental calcium plus 400 to 1000 IU of vitamin D supplementation per day.
+All participants received 1000 mg of elemental calcium plus 400 to 1000 international units of vitamin D supplementation per day.
 
 Effect on Bone Mineral Density (BMD)
 
@@ -165,7 +165,7 @@ Most Reclast patients achieved a therapeutic response by the Day 63 visit.
 In addition, at 6 months, 89% (156/176) of Reclast-treated patients achieved normalization of SAP levels, compared to 58% (99/171) of patients treated with risedronate (p<0.0001) (see Figure 2).
 
 The therapeutic response to Reclast was similar across demographic and disease-severity groups defined by gender, age, previous bisphosphonate use, and disease severity.
-At 6 months, the percentage of Reclast-treated patients who achieved therapeutic response was 97% and 95%, respectively, in each of the baseline disease severity subgroups (baseline SAP < 3xULN, > 3xULN) compared to 75% and 74%, respectively, for the same disease severity subgroups of risedronate-treated patients.
+At 6 months, the percentage of Reclast-treated patients who achieved therapeutic response was 97% and 95%, respectively, in each of the baseline disease severity subgroups (baseline SAP less than 3xULN, greater than or equal to 3xULN) compared to 75% and 74%, respectively, for the same disease severity subgroups of risedronate-treated patients.
 
 In patients who had previously received treatment with oral bisphosphonates, therapeutic response rates were 96% and 55% for Reclast and risedronate, respectively.
 The comparatively low risedronate response was due to the low response rate (7/23, 30%) in patients previously treated with risedronate.

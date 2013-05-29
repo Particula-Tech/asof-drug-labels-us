@@ -76,7 +76,7 @@ Tell your doctor right away if you are pregnant or plan to become pregnant.
 Reclast may harm your unborn baby.
 
 6.
-Bone, joint, or muscle pain
+Bone, joint, or muscle pain.
 
 Some people who take bisphosphonates develop severe bone, joint, or muscle pain.
 
@@ -102,7 +102,7 @@ Who should not take Reclast?
 Do not take Reclast if you:
 
 - Have low levels of calcium in your blood
-- Have kidney problems.
+- Have kidney problems
 - Are allergic to zoledronic acid or any of its ingredients.
   A list of ingredients is at the end of this leaflet.
 
@@ -165,7 +165,7 @@ The most common side effects of Reclast included:
 
 Talk to your doctor about things you can do to help decrease some of these side effects that might happen with a Reclast infusion.
 
-You may get allergic reactions, such as hives or, in rare cases, swelling of your face, lips, tongue, or throat.
+You may get allergic reactions, such as hives, swelling of your face, lips, tongue, or throat.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -187,7 +187,7 @@ For more information, go to: www.RECLAST.com or call 1-866-732-5278.
 
 What are the ingredients in Reclast?
 
-Active ingredient: zoledronic acid monohydrate
+Active ingredient: zoledronic acid monohydrate.
 
 Inactive ingredients: mannitol and sodium citrate.
 
@@ -195,8 +195,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-©Novartis
+© Novartis
 
-T2011-143/T2011-144
-
-August 2011/August 2011
+T2013-40 April 2013

@@ -14,16 +14,16 @@ Although there are no data on fetal risk in humans, bisphosphonates do cause fet
 Therefore, there is a theoretical risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 The impact of variables such as time between cessation of bisphosphonate therapy to conception space, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on this risk has not been established.
 
-In female rats given daily subcutaneous doses of zoledronic acid beginning 15 days before mating and continuing through gestation, the number of stillbirths was increased and survival of neonates was decreased at approximately ≥ 0.3 times the anticipated human systemic exposure following a 5 mg intravenous dose (based on an AUC comparison).
-Adverse maternal effects were observed in all dose groups at ≥ 0.1 times the human systemic exposure following a 5 mg intravenous dose (based on an AUC comparison) and included dystocia and periparturient mortality in pregnant rats allowed to deliver.
+In female rats given daily subcutaneous doses of zoledronic acid beginning 15 days before mating and continuing through gestation, the number of stillbirths was increased and survival of neonates was decreased at approximately greater than or equal to 0.3 times the anticipated human systemic exposure following a 5 mg intravenous dose (based on an AUC comparison).
+Adverse maternal effects were observed in all dose groups at greater than or equal to 0.1 times the human systemic exposure following a 5 mg intravenous dose (based on an AUC comparison) and included dystocia and periparturient mortality in pregnant rats allowed to deliver.
 Maternal mortality was considered related to drug-induced inhibition of skeletal calcium mobilization, resulting in periparturient hypocalcemia.
 This appears to be a bisphosphonate class effect.
 
 In pregnant rats given daily subcutaneous dose of zoledronic acid during gestation, adverse fetal effects were observed at about 2 and 4 times human systemic exposure following a 5 mg intravenous dose (based on an AUC comparison).
 These adverse effects included increases in pre- and post-implantation losses, decreases in viable fetuses, and fetal skeletal, visceral, and external malformations.
 
-In pregnant rabbits given daily subcutaneous doses of zoledronic acid during gestation at doses ≤ 0.4 times the anticipated human systemic exposure following a 5 mg intravenous dose (based on a mg/m2 comparison) no adverse fetal effects were observed.
-Maternal mortality and abortion occurred in all treatment groups (at doses ≥ 0.04 times the human 5 mg intravenous dose, based on a mg/m2 comparison).
+In pregnant rabbits given daily subcutaneous doses of zoledronic acid during gestation at doses less than or equal to 0.4 times the anticipated human systemic exposure following a 5 mg intravenous dose (based on a mg/m2 comparison) no adverse fetal effects were observed.
+Maternal mortality and abortion occurred in all treatment groups (at doses greater than or equal to 0.04 times the human 5 mg intravenous dose, based on a mg/m2 comparison).
 Adverse maternal effects were associated with, and may have been caused by, drug-induced hypocalcemia [see Nonclinical Toxicology (13.3)].
 
 ## 8.3 Nursing Mothers
@@ -60,9 +60,9 @@ However, because decreased renal function occurs more commonly in the elderly, s
 
 ## 8.6 Renal Impairment
 
-Reclast is contraindicated in patients with creatinine clearance <35 mL/min and in those with evidence of acute renal impairment.
+Reclast is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment.
 There are no safety or efficacy data to support the adjustment of the Reclast dose based on baseline renal function.
-Therefore, no dosage adjustment is required in patients with a creatinine clearance of ≥ 35 mL/min [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
+Therefore, no dosage adjustment is required in patients with a creatinine clearance of greater than or equal to 35 mL/min [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
 Risk of acute renal failure may increase with underlying renal disease and dehydration secondary to fever, sepsis, gastrointestinal losses, diuretic therapy, advanced age, etc. [see Post-Marketing Experience (6.2)].
 
 ## 8.7 Hepatic Impairment

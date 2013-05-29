@@ -1,12 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling.
+See FDA-Approved Medication Guide
 
 Information for Patients
 
 Patients should be made aware that Reclast contains the same active ingredient (zoledronic acid) found in Zometa®, and that patients being treated with Zometa should not be treated with Reclast.
 
-Reclast is contraindicated in patients with creatinine clearance < 35 mL/min [see Contraindications (4.2)].
+Reclast is contraindicated in patients with creatinine clearance less than 35 mL/min [see Contraindications (4)].
 
 Before being given Reclast, patients should tell their doctor if they have kidney problems and what medications they are taking.
 
@@ -24,7 +24,7 @@ On the day of treatment the patient should eat and drink normally, which include
 After getting Reclast it is strongly recommended patients with Paget’s disease take calcium in divided doses (for example, 2 to 4 times a day) for a total of 1500 mg calcium a day to prevent low blood calcium levels.
 This is especially important for the two weeks after getting Reclast [see Warnings and Precautions (5.2)].
 
-Adequate calcium and vitamin D intake is important in patients with osteoporosis and the current recommended daily intake of calcium is 1200 mg and vitamin D is 800 IU – 1000 IU daily.
+Adequate calcium and vitamin D intake is important in patients with osteoporosis and the current recommended daily intake of calcium is 1200 mg and vitamin D is 800 international units – 1000 international units daily.
 All patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels.
 
 Patients should be aware of the most commonly associated side effects of therapy.
@@ -43,3 +43,5 @@ Severe and occasionally incapacitating bone, joint, and/or muscle pain have been
 Consider withholding future Reclast treatment if severe symptoms develop.
 
 Atypical femur fractures in patients on bisphosphonate therapy have been reported; patients with thigh or groin pain should be evaluated to rule out a femoral fracture.
+
+T2013-39 April 2013

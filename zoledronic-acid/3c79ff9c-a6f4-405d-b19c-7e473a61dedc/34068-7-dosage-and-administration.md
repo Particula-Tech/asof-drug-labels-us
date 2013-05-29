@@ -1,51 +1,34 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-A 5 mg dose of Reclast administered intravenously is recommended for patients with creatinine clearance ≥35 mL/min [see Warnings and Precautions (5.3)].
+## 2.1 Important Administration Instructions
 
-Reclast is contraindicated in patients with creatinine clearance <35 mL/min and in those with evidence of acute renal impairment [see Contraindications (4.2)].
+Reclast injection must be administered as an intravenous infusion over no less than 15 minutes.
 
-There are no safety or efficacy data to support the adjustment of the Reclast dose based on baseline renal function.
-Therefore, no dose adjustment is required in patients with CrCl ≥35 mL/min.
+- Patients must be appropriately hydrated prior to administration of Reclast [see Warnings and Precautions (5.3)].
+- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+- Intravenous infusion should be followed by a 10 mL normal saline flush of the intravenous line.
+- Administration of acetaminophen following Reclast administration may reduce the incidence of acute-phase reaction symptoms.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-
-Patients must be appropriately hydrated prior to administration of Reclast [see Warnings and Precautions (5.3)].
-
-The i.v. infusion should be followed by a 10 mL normal saline flush of the intravenous line.
-
-Administration of acetaminophen following Reclast administration may reduce the incidence of acute-phase reaction symptoms.
-
-## 2.1 Treatment of Osteoporosis in Postmenopausal Women
+## 2.2 Treatment of Osteoporosis in Postmenopausal Women
 
 The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
-For osteoporosis treatment, and to reduce the risk of hypocalcemia, patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
-Postmenopausal women require an average of at least 1200 mg calcium and 800-1000 IU vitamin D daily.
 
-## 2.2 Prevention of Osteoporosis in Postmenopausal Women
+## 2.3 Prevention of Osteoporosis in Postmenopausal Women
 
 The recommended regimen is a 5 mg infusion given once every 2 years intravenously over no less than 15 minutes.
-Patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
-Postmenopausal women require an average of 1200 mg calcium and 800-1000 IU vitamin D daily.
 
-## 2.3 Osteoporosis in Men
+## 2.4 Osteoporosis in Men
 
 The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
-Patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
-An average of at least 1200 mg calcium and 800-1000 IU vitamin D daily is recommended.
 
-## 2.4 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
+## 2.5 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
 
 The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
-Patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
-An average of at least 1200 mg calcium and 800-1000 IU vitamin D daily is recommended.
 
-## 2.5 Treatment of Paget’s Disease of Bone
+## 2.6 Treatment of Paget’s Disease of Bone
 
 The recommended dose is a 5 mg infusion.
 The infusion time must not be less than 15 minutes given over a constant infusion rate.
-
-To reduce the risk of hypocalcemia, all patients with Paget’s disease should receive 1500 mg elemental calcium daily in divided doses (750 mg two times a day, or 500 mg three times a day) and 800 IU vitamin D daily, particularly in the 2 weeks following Reclast administration.
-All patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels, and on the symptoms of hypocalcemia [see Warnings and Precautions (5.2)].
 
 Re-treatment of Paget’s Disease
 
@@ -53,7 +36,23 @@ After a single treatment with Reclast in Paget’s disease an extended remission
 Specific re-treatment data are not available.
 However, re-treatment with Reclast may be considered in patients who have relapsed, based on increases in serum alkaline phosphatase, or in those patients who failed to achieve normalization of their serum alkaline phosphatase, or in those patients with symptoms, as dictated by medical practice.
 
-## 2.6 Method of Administration
+## 2.7 Laboratory Testing and Oral Examination Prior to Administration
+
+- Prior to administration of each dose of Reclast, obtain a serum creatinine and creatinine clearance should be calculated based on actual body weight using Cockcroft-Gault formula before each Reclast dose.
+  Reclast is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment.
+  A 5 mg dose of Reclast administered intravenously is recommended for patients with creatinine clearance greater than or equal to 35 mL/min.
+  There are no safety or efficacy data to support the adjustment of the Reclast dose based on baseline renal function.
+  Therefore, no dose adjustment is required in patients with CrCl greater than or equal to 35 mL/min [see Contraindications (4), Warnings and Precautions (5.3)].
+- A routine oral examination should be performed by the prescriber prior to initiation of Reclast treatment [see Warnings and Precautions (5.4)].
+
+## 2.8 Calcium and Vitamin D Supplementation
+
+- Instruct patients being treated for Paget’s disease of bone on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels, and on the symptoms of hypocalcemia.
+  All patients should take 1500 mg elemental calcium daily in divided doses (750 mg two times a day, or 500 mg three times a day) and 800 international units vitamin D daily, particularly in the 2 weeks following Reclast administration [see Warnings and Precautions (5.2)].
+- Instruct patients being treated for osteoporosis to take supplemental calcium and vitamin D if their dietary intake is inadequate.
+  An average of at least 1200 mg calcium and 800-1000 international units vitamin D daily is recommended.
+
+## 2.9 Method of Administration
 
 The Reclast infusion time must not be less than 15 minutes given over a constant infusion rate.
 
