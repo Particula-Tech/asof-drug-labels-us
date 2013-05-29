@@ -1,5 +1,6 @@
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Vibramycin® and other antibacterial drugs, Vibramycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-Rx only
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0074-8.0 May 2013
+LAB-0074-9.0 May 2013

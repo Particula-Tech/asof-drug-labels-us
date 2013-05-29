@@ -58,7 +58,8 @@ The MIC values should be interpreted according to criteria provided in Table 1.
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method1,3,4 This procedure uses paper disks impregnated with 30-μg doxycycline to test the susceptibility of microorganisms to doxycycline.
+The zone size should be determined using a standardized test method1,3,4.
+This procedure uses paper disks impregnated with 30-μg doxycycline to test the susceptibility of microorganisms to doxycycline.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 ### Anaerobic Techniques
