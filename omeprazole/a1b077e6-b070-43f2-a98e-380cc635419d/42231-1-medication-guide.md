@@ -288,9 +288,9 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Issued October 2012
+Issued May 2013
 
 PRILOSEC is a registered trademark of the AstraZeneca group of companies.
 
-©2012 AstraZeneca Pharmaceuticals LP.
+©2013 AstraZeneca Pharmaceuticals LP.
 All rights reserved.
