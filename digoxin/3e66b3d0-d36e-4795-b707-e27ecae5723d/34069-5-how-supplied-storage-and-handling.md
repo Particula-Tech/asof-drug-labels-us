@@ -1,15 +1,7 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-LANOXIN (digoxin) Injection, 500 mcg (0.5 mg) in 2 mL (250 mcg [0.25 mg] per mL); Boxes of 10 (24987-260-10).
+LANOXIN (digoxin) Injection, 500 mcg (0.5 mg) in 2 mL (250 mcg [0.25 mg] per mL); box of 10 ampules (NDC 24987 260 10)
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature] and protect from light.
+LANOXIN (digoxin) Injection Pediatric, 100 mcg (0.1 mg) in 1 mL; box of 10 ampules (NDC 24987 262 10)
 
-LANOXIN and DIGIBIND are registered trademarks of GlaxoSmithKline
-
-DIGIFAB is a registered trademark of BTG International Inc.
-
-Manufactured by Jubilant HollisterStier Kirkland, Canada H9H 4J4
-
-Distributed by Covis Pharmaceuticals, Inc. Cary, NC 27511 Made in Germany
-
-2012, Covis Pharmaceuticals, Inc.
+Store at 25 °C (77 °F); excursions permitted to 15 °C to 30 °C (59 °F to 86 °F) [see USP Controlled Room Temperature] and protect from light.

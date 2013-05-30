@@ -1,158 +1,144 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## General
+## 2.1 Important Dosing and Administration Information
 
-Recommended dosages of digoxin may require considerable modification because of individual sensitivity of the patient to the drug, the presence of associated conditions, or the use of concurrent medications.
+In selecting a LANOXIN dosing regimen, it is important to consider factors that affect digoxin blood levels (e.g., body weight, age, renal function, concomitant drugs) since toxic levels of digoxin are only slightly higher than therapeutic levels.
+Dosing can be either initiated with a loading dose followed by maintenance dosing if rapid titration is desired or initiated with maintenance dosing without a loading dose.
 
 Parenteral administration of digoxin should be used only when the need for rapid digitalization is urgent or when the drug cannot be taken orally.
 Intramuscular injection can lead to severe pain at the injection site, thus intravenous administration is preferred.
 If the drug must be administered by the intramuscular route, it should be injected deep into the muscle followed by massage.
-No more than 500 mcg (2 mL) should be injected into a single site.
+For adults, no more than 500 mcg of LANOXIN Injection should be injected into a single site.
+For pediatric patients, no more than 200 mcg of LANOXIN Injection Pediatric should be injected into a single site.
 
-LANOXIN Injection can be administered undiluted or diluted with a 4-fold or greater volume of Sterile Water for Injection, 0.9% Sodium Chloride Injection, or 5% Dextrose Injection.
+Administer the dose over a period of 5 minutes or longer and avoid bolus administration to prevent systemic and coronary vasoconstriction.
+Mixing of LANOXIN Injection and Injection Pediatric with other drugs in the same container or simultaneous administration in the same intravenous line is not recommended.
+
+LANOXIN Injection and Injection Pediatric can be administered undiluted or diluted with a 4-fold or greater volume of Sterile Water for Injection, 0.9% Sodium Chloride Injection, or 5% Dextrose Injection.
 The use of less than a 4-fold volume of diluent could lead to precipitation of the digoxin.
 Immediate use of the diluted product is recommended.
 
-If tuberculin syringes are used to measure very small doses, one must be aware of the problem of inadvertent overadministration of digoxin.
-The syringe should not be flushed with the parenteral solution after its contents are expelled into an indwelling vascular catheter.
+If tuberculin syringes are used to measure very small doses do not flush with the parenteral solution after its contents are expelled into an indwelling vascular catheter to avoid overadministration of digoxin.
 
-Slow infusion of LANOXIN Injection is preferable to bolus administration.
-Rapid infusion of digitalis glycosides has been shown to cause systemic and coronary arteriolar constriction, which may be clinically undesirable.
-Caution is thus advised and LANOXIN Injection should probably be administered over a period of 5 minutes or longer.
-Mixing of LANOXIN Injection with other drugs in the same container or simultaneous administration in the same intravenous line is not recommended.
+Consider interruption or reduction in LANOXIN dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
-In selecting a dose of digoxin, the following factors must be considered:
+## 2.2 Loading Dosing Regimen in Adults and Pediatric Patients
 
-1. The body weight of the patient.
-   Doses should be calculated based upon lean (i.e., ideal) body weight.
-2. The patient’s renal function, preferably evaluated on the basis of estimated creatinine clearance.
-3. The patient’s age.
-   Infants and children require different doses of digoxin than adults.
-   Also, advanced age may be indicative of diminished renal function even in patients with normal serum creatinine concentration (i.e., below 1.5 mg/dL).
-4. Concomitant disease states, concurrent medications, or other factors likely to alter the pharmacokinetic or pharmacodynamic profile of digoxin (see PRECAUTIONS).
+Table 1.
+Recommended LANOXIN Injection Loading Dose
 
-## Serum Digoxin Concentrations
+| Age | Total IV Loading Dose (mcg/kg) Administer half the total loading dose initially, then ¼ the loading dose every 6-8 hours twice |
+| --- | --- |
+| Premature | 15-25 |
+| Full-Term | 20-30 |
+| 1-24 Months | 30-50 |
+| 2-5 Years | 25-35 |
+| 5-10 Years | 15-30 |
+| Adults and pediatric patients over 10 years | 8-12 |
+| mcg = microgram |  |
 
-In general, the dose of digoxin used should be determined on clinical grounds.
-However, measurement of serum digoxin concentrations can be helpful to the clinician in determining the adequacy of digoxin therapy and in assigning certain probabilities to the likelihood of digoxin intoxication.
-About two-thirds of adults considered adequately digitalized (without evidence of toxicity) have serum digoxin concentrations ranging from 0.8 to 2.0 ng/mL (lower serum trough concentrations of 0.5 to 1 ng/mL may be appropriate in some adult patients, see Maintenance Dosing).
-However, digoxin may produce clinical benefits even at serum concentrations below this range.
-About two-thirds of adult patients with clinical toxicity have serum digoxin concentrations greater than 2.0 ng/mL.
-However, since one-third of patients with clinical toxicity have concentrations less than 2.0 ng/mL, values below 2.0 ng/mL do not rule out the possibility that a certain sign or symptom is related to digoxin therapy.
-Rarely, there are patients who are unable to tolerate digoxin at serum concentrations below 0.8 ng/mL.
-Consequently, the serum concentration of digoxin should always be interpreted in the overall clinical context, and an isolated measurement should not be used alone as the basis for increasing or decreasing the dose of the drug.
+## 2.3 Maintenance Dosing in Adults and Pediatric Patients Over 10 Years Old
 
-To allow adequate time for equilibration of digoxin between serum and tissue, sampling of serum concentrations should be done just before the next scheduled dose of the drug.
-If this is not possible, sampling should be done at least 6 to 8 hours after the last dose, regardless of the route of administration or the formulation used.
-On a once-daily dosing schedule, the concentration of digoxin will be 10% to 25% lower when sampled at 24 versus 8 hours, depending upon the patient’s renal function.
-On a twice-daily dosing schedule, there will be only minor differences in serum digoxin concentrations whether sampling is done at 8 or 12 hours after a dose.
+The maintenance dose is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
 
-If a discrepancy exists between the reported serum concentration and the observed clinical response, the clinician should consider the following possibilities:
+The recommended starting maintenance doses in adults and pediatric patients over 10 years old with normal renal function are given in Table 2.
+Doses may be increased every 2 weeks according to clinical response, serum drug levels, and toxicity.
 
-1. Analytical problems in the assay procedure.
-2. Inappropriate serum sampling time.
-3. Administration of a digitalis glycoside other than digoxin.
-4. Conditions (described in WARNINGS and PRECAUTIONS) causing an alteration in the sensitivity of the patient to digoxin.
-5. Serum digoxin concentration may decrease acutely during periods of exercise without any associated change in clinical efficacy due to increased binding of digoxin to skeletal muscle.
+Table 2.
+Recommended Starting LANOXIN Injection Maintenance Dosage in Adults and Pediatric Patients Over 10 Years Old
 
-## Heart Failure
+| Age | Total Intravenous Maintenance Dose, mcg/kg/day (given once daily) |
+| --- | --- |
+| Adults and pediatric patients over 10 years | 2.4-3.6 |
+| mcg = microgram |  |
 
-### Adults
+Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old (to be given once daily) according to lean body weight and renal function.
+The doses are based on studies in adult patients with heart failure.
+Alternatively, the maintenance dose may be estimated by the following formula (peak body stores lost each day through elimination):
 
-Digitalization may be accomplished by either of 2 general approaches that vary in dosage and frequency of administration, but reach the same endpoint in terms of total amount of digoxin accumulated in the body.
+Total Maintenance Dose = Loading Dose (i.e., Peak Body Stores) x % Daily Loss/100 (% Daily Loss = 14 + Creatinine clearance/5)
 
-1. If rapid digitalization is considered medically appropriate, it may be achieved by administering a loading dose based upon projected peak digoxin body stores.
-   Maintenance dose can be calculated as a percentage of the loading dose.
-2. More gradual digitalization may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
-   Steady-state serum digoxin concentrations will be achieved in approximately 5 half-lives of the drug for the individual patient.
-   Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
+Reduce the dose of LANOXIN in patients whose lean weight is an abnormally small fraction of their total body mass because of obesity or edema.
 
-#### Rapid Digitalization With a Loading Dose
+Table 3.
+Recommended Maintenance Dose (in micrograms given once daily) of LANOXIN Injection in Pediatric Patients Over 10 Years Old and Adults by Lean Body Weight and by Renal Function
 
-LANOXIN Injection is frequently used to achieve rapid digitalization, with conversion to LANOXIN Tablets for maintenance therapy.
-If patients are switched from intravenous to oral digoxin formulations, allowances must be made for differences in bioavailability when calculating maintenance dosages (see Table 1, CLINICAL PHARMACOLOGY: Pharmacokinetics and dosing Table 5).
+| Corrected Creatinine Clearancea | Lean Body Weightc |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedb |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
+| 10 mL/min |  | 64 | 80 | 96 | 112 | 128 | 144 | 160 | 19 |
+| 20 mL/min |  | 72 | 90 | 108 | 126 | 144 | 162 | 180 | 16 |
+| 30 mL/min |  | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 14 |
+| 40 mL/min |  | 88 | 110 | 132 | 154 | 176 | 198 | 220 | 13 |
+| 50 mL/min |  | 96 | 120 | 144 | 168 | 192 | 216 | 240 | 12 |
+| 60 mL/min |  | 104 | 130 | 156 | 182 | 208 | 234 | 260 | 11 |
+| 70 mL/min |  | 112 | 140 | 168 | 196 | 224 | 252 | 280 | 10 |
+| 80 mL/min |  | 120 | 150 | 180 | 210 | 240 | 270 | 300 | 9 |
+| 90 mL/min |  | 128 | 160 | 192 | 224 | 256 | 288 | 320 | 8 |
+| 100 mL/min |  | 136 | 170 | 204 | 238 | 272 | 306 | 340 | 7 |
+| a For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr b If no loading dose administered c The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |
 
-Intramuscular injection of digoxin is extremely painful and offers no advantages unless other routes of administration are contraindicated.
+## 2.4 Maintenance Dosing in Pediatric Patients Less Than 10 Years Old
 
-Peak digoxin body stores of 8 to 12 mcg/kg should provide therapeutic effect with minimum risk of toxicity in most patients with heart failure and normal sinus rhythm.
-Because of altered digoxin distribution and elimination, projected peak body stores for patients with renal insufficiency should be conservative (i.e., 6 to 10 mcg/kg) (see PRECAUTIONS).
+The starting maintenance dose for heart failure in pediatric patients less than 10 years old is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
+The recommended starting maintenance doses for pediatric patients are given in Table 4.
+These recommendations assume the presence of normal renal function.
 
-The loading dose should be administered in several portions, with roughly half the total given as the first dose.
-Additional fractions of this planned total dose may be given at 6- to 8-hour intervals, with careful assessment of clinical response before each additional dose.
-If the patient’s clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given.
+Table 4.
+Recommended Starting LANOXIN Injection Maintenance Dosage in Pediatric Patients Less Than 10 Years Old
 
-A single initial intravenous dose of 400 to 600 mcg (0.4 to 0.6 mg) of LANOXIN Injection usually produces a detectable effect in 5 to 30 minutes that becomes maximal in 1 to 4 hours.
-Additional doses of 100 to 300 mcg (0.1 to 0.3 mg) may be given cautiously at 6- to 8-hour intervals until clinical evidence of an adequate effect is noted.
-The usual amount of LANOXIN Injection that a 70-kg patient requires to achieve 8- to 12-mcg/kg peak body stores is 600 to 1,000 mcg (0.6 to 1.0 mg).
+| Age | Dose Regimen, mcg/kg/dose (given TWICE daily) |
+| --- | --- |
+| Premature | 1.9-3.1 |
+| Full-Term | 3.0-4.5 |
+| 1-24 Months | 4.5-7.5 |
+| 2-5 Years | 3.8-5.3 |
+| 5-10 Years | 2.3-4.5 |
+| mcg = microgram |  |
 
-#### Maintenance Dosing
-
-The doses of oral digoxin used in controlled trials in patients with heart failure have ranged from 125 to 500 mcg (0.125 to 0.5 mg) once daily.
-In these studies, the digoxin dose has been generally titrated according to the patient’s age, lean body weight, and renal function.
-Therapy is generally initiated at a dose of 250 mcg (0.25 mg) once daily in patients under age 70 with good renal function, at a dose of 125 mcg (0.125 mg) once daily in patients over age 70 or with impaired renal function, and at a dose of 62.5 mcg (0.0625 mg) in patients with marked renal impairment.
-Doses may be increased every 2 weeks according to clinical response.
-
-In a subset of approximately 1,800 patients enrolled in the DIG trial (wherein dosing was based on an algorithm similar to that in Table 5) the mean (± SD) serum digoxin concentrations at 1 month and 12 months were 1.01 ± 0.47 ng/mL and 0.97 ± 0.43 ng/mL, respectively.
-There are no rigid guidelines as to the range of serum concentrations that are most efficacious.
-Several post hoc analyses of heart failure patients in the DIG trial suggest that the optimal trough digoxin serum level may be 0.5 ng/mL to 1 ng/mL.
-
-The maintenance dose should be based upon the percentage of the peak body stores lost each day through elimination.
-The following formula has had wide clinical use:
-
-Maintenance Dose = Peak Body Stores (i.e., Loading Dose) x % Daily Loss/100
-
-Where: % Daily Loss = 14 + Ccr/5
-
-(Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area.)
-
-Table 5 provides average daily maintenance dose requirements of LANOXIN Injection for patients with heart failure based upon lean body weight and renal function:
+Table 5 provides average daily maintenance dose requirements for pediatric patients less than 10 years old (to be given twice daily) with heart failure based on age, lean body weight, and renal function.
 
 Table 5.
-Usual Daily Maintenance Dose Requirements (mcg) of LANOXIN Injection for Estimated Peak Body Stores of 10 mcg/kga
+Recommended Maintenance Dose (in micrograms given TWICE daily) of LANOXIN Injection in Pediatric Patients Less Than 10 Years of Agea Based upon Lean Body Weight and Renal Functiona
 
-| Corrected Ccr(mL/min per 70 kg)b | Lean Body Weight |  |  |  |  |  |  | Number of Days |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| kg | 50 | 60 | 70 | 80 | 90 | 100 | Before Steady State Achievedc |  |
-| lb | 110 | 132 | 154 | 176 | 198 | 220 |  |  |
-| 0 |  | 75d | 75 | 100 | 100 | 125 | 150 | 22 |
-| 10 |  | 75 | 100 | 100 | 125 | 150 | 150 | 19 |
-| 20 |  | 100 | 100 | 125 | 150 | 150 | 175 | 16 |
-| 30 |  | 100 | 125 | 150 | 150 | 175 | 200 | 14 |
-| 40 |  | 100 | 125 | 150 | 175 | 200 | 225 | 13 |
-| 50 |  | 125 | 150 | 175 | 200 | 225 | 250 | 12 |
-| 60 |  | 125 | 150 | 175 | 200 | 225 | 250 | 11 |
-| 70 |  | 150 | 175 | 200 | 225 | 250 | 275 | 10 |
-| 80 |  | 150 | 175 | 200 | 250 | 275 | 300 | 9 |
-| 90 |  | 150 | 200 | 225 | 250 | 300 | 325 | 8 |
-| 100 |  | 175 | 200 | 250 | 275 | 300 | 350 | 7 |
+| Corrected Creatinine Clearanceb | Lean Body Weight |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 5 | 10 | 20 | 30 | 40 | 50 | 60 |  |  |
+| 10 mL/min |  | 8 | 16 | 32 | 48 | 64 | 80 | 96 | 19 |
+| 20 mL/min |  | 9 | 18 | 36 | 54 | 72 | 90 | 108 | 16 |
+| 30 mL/min |  | 10 | 20 | 40 | 60 | 80 | 100 | 120 | 14 |
+| 40 mL/min |  | 11 | 22 | 44 | 66 | 88 | 110 | 132 | 13 |
+| 50 mL/min |  | 12 | 24 | 48 | 72 | 96 | 120 | 144 | 12 |
+| 60 mL/min |  | 13 | 26 | 52 | 78 | 104 | 130 | 156 | 11 |
+| 70 mL/min |  | 14 | 28 | 56 | 84 | 112 | 140 | 168 | 10 |
+| 80 mL/min |  | 15 | 30 | 60 | 90 | 120 | 150 | 180 | 9 |
+| 90 mL/min |  | 16 | 32 | 64 | 96 | 128 | 160 | 192 | 8 |
+| 100 mL/min |  | 17 | 34 | 68 | 102 | 136 | 170 | 204 | 7 |
+| a Recommended are doses to be given twice daily. b The modified Schwartz equation may be used to estimate creatinine clearance. See footnote a under Table 3. c If no loading dose administered. |  |  |  |  |  |  |  |  |  |
 
-a Daily maintenance doses have been rounded to the nearest 25-mcg increment.
+## 2.5 Monitoring to Assess Safety, Efficacy, and Therapeutic Blood Levels
 
-b Ccr is creatinine clearance, corrected to 70-kg body weight or 1.73 m2 body surface area.
-For adults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 - Age)/Scr.
-For women, this result should be multiplied by 0.85.
-Note: This equation cannot be used for estimating creatinine clearance in infants or children.
+Monitor for signs and symptoms of digoxin toxicity and clinical response.
+Adjust dose based on toxicity, efficacy, and blood levels.
 
-c If no loading dose administered.
+Serum digoxin levels less than 0.5 ng/mL have been associated with diminished efficacy, while levels above 2 ng/mL have been associated with increased toxicity without increased benefit.
 
-d 75mcg = 0.075 mg.
+Interpret the serum digoxin concentration in the overall clinical context, and do not use an isolated measurement of serum digoxin concentration as the basis for increasing or decreasing the LANOXIN dose.
+Serum digoxin concentrations may be falsely elevated by endogenous digoxin-like substances [see Drug Interactions (7.4)].
+If the assay is sensitive to these substances, consider obtaining a baseline digoxin level before starting LANOXIN and correct post-treatment values by the reported baseline level.
 
-Example: Based on the above table, a patient in heart failure with an estimated lean body weight of 70 kg and a Ccr of 60 mL/min should be given a dose of 175 mcg (0.175 mg) daily of LANOXIN Injection.
-If no loading dose is administered, steady-state serum concentrations in this patient should be anticipated at approximately 11 days.
+Obtain serum digoxin concentrations just before the next scheduled LANOXIN dose or at least 6 hours after the last dose.
+The digoxin concentration is likely to be 10-25% lower when sampled right before the next dose (24 hours after dosing) compared to sampling 8 hours after dosing (using once-daily dosing).
+However, there will be only minor differences in digoxin concentrations using twice daily dosing whether sampling is done at 8 or 12 hours after a dose.
 
-### Infants and Children
+## 2.6 Switching from Intravenous Digoxin to Oral Digoxin
 
-See the full prescribing information for LANOXIN Injection Pediatric for specific recommendations.
+When switching from intravenous to oral digoxin formulations, make allowances for differences in bioavailability when calculating maintenance dosages (see Table 6).
 
-It cannot be overemphasized that dosage guidelines provided are based upon average patient response and substantial individual variation can be expected.
-Accordingly, ultimate dosage selection must be based upon clinical assessment of the patient.
+Table 6.
+Comparison of the Systemic Availability and Equivalent Doses of Oral and Intravenous LANOXIN
 
-## Atrial Fibrillation
-
-Peak digoxin body stores larger than the 8 to 12 mcg/kg required for most patients with heart failure and normal sinus rhythm have been used for control of ventricular rate in patients with atrial fibrillation.
-Doses of digoxin used for the treatment of chronic atrial fibrillation should be titrated to the minimum dose that achieves the desired ventricular rate control without causing undesirable side effects.
-Data are not available to establish the appropriate resting or exercise target rates that should be achieved.
-
-## Dosage Adjustment When Changing Preparations
-
-The difference in bioavailability between LANOXIN Injection or LANOXIN Tablets must be considered when changing patients from one dosage form to the other.
+|  | Absolute Bioavailability | Equivalent Doses (mcg) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| LANOXIN Tablets | 60-80% | 62.5 | 125 | 250 | 500 |
+| LANOXIN Intravenous Injection | 100% | 50 | 100 | 200 | 400 |

@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 LANOXIN (digoxin) is one of the cardiac (or digitalis) glycosides, a closely related group of drugs having in common specific effects on the myocardium.
 These drugs are found in a number of plants.
@@ -12,8 +12,10 @@ Its molecular formula is C41H64O14, its molecular weight is 780.95, and its stru
 Digoxin exists as odorless white crystals that melt with decomposition above 230°C.
 The drug is practically insoluble in water and in ether; slightly soluble in diluted (50%) alcohol and in chloroform; and freely soluble in pyridine.
 
-LANOXIN Injection is a sterile solution of digoxin for intravenous or intramuscular injection.
+LANOXIN Injection and Injection Pediatric are sterile solutions of digoxin for intravenous or intramuscular injection.
 The vehicle contains 40% propylene glycol and 10% alcohol.
-The injection is buffered to a pH of 6.8 to 7.2 with 0.17% dibasic sodium phosphate and 0.08% anhydrous citric acid.
-Each 2-mL ampul contains 500 mcg (0.5 mg) digoxin (250 mcg [0.25 mg] per mL).
+The injection is buffered to a pH of 6.8-7.2 with 0.17% dibasic sodium phosphate and 0.08% anhydrous citric acid.
+Each 2-mL ampule of LANOXIN Injection contains 500 mcg (0.5 mg) digoxin (250 mcg [0.25 mg] per mL).
+Dilution is not required.
+Each 1-mL ampule of LANOXIN Injection Pediatric contains 100 mcg (0.1 mg) digoxin.
 Dilution is not required.
