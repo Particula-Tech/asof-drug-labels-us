@@ -7,6 +7,8 @@ Heparin is not intended for intramuscular use.
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
 (See ADVERSE REACTIONS, Hypersensitivity.)
 
+Because Heparin Sodium in 5% Dextrose Injection is derived from animal tissue, it should be used with caution in patients with a history of allergy.
+
 ## Hemorrhage
 
 Hemorrhage can occur at virtually any site in patients receiving heparin.
@@ -140,7 +142,7 @@ Heparin sodium does not cross the placenta, based on human and animal studies.
 Administration of heparin to pregnant animals at doses higher than the maximum human daily dose based on body weight resulted in increased resorptions.
 Use heparin sodium during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
+In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 USP units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
 The number of early resorptions increased in both species.
 There was no evidence of teratogenic effects.
 

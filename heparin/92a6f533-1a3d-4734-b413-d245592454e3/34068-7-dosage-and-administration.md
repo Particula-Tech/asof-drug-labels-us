@@ -25,8 +25,8 @@ Although dosage must be adjusted for the individual patient according to the res
 
 | Method of Administration | Frequency | Recommended DoseBased on 150-lb. (68-kg) patient. |
 | --- | --- | --- |
-|  | Initial dose | 5,000 units by IV injection |
-| Continuous Intravenous infusion | Continuous | 20,000 – 40,000 units/24 hours |
+|  | Initial dose | 5,000 USP units by IV injection |
+| Continuous Intravenous infusion | Continuous | 20,000 – 40,000 USP units/24 hours |
 
 ## Pediatric Use
 
@@ -34,11 +34,11 @@ There are no adequate and well controlled studies on heparin use in pediatric pa
 Pediatric dosing recommendations are based on clinical experience.
 In general, the following dosage schedule may be used as a guideline in pediatric patients:
 
-Initial Dose 75 to 100 units/kg (IV bolus over 10 minutes)
+Initial Dose 75 to 100 USP units/kg (IV bolus over 10 minutes)
 
-Maintenance Dose Infants: 25 to 30 units/kg/hour; Infants less than 2 months have the highest requirements (average 28 units/kg/hour)
+Maintenance Dose Infants: 25 to 30 USP units/kg/hour; Infants less than 2 months have the highest requirements (average 28 USP units/kg/hour)
 
-Children greater than 1 year of age: 18 to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage
+Children greater than 1 year of age: 18 to 20 USP units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage
 
 Monitoring Adjust heparin to maintain aPTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70.
 

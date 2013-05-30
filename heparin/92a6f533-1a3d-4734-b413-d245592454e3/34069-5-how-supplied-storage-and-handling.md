@@ -2,13 +2,13 @@
 
 Heparin Sodium in 5% Dextrose Injection is supplied sterile and nonpyrogenic in EXCEL® containers packaged 24 per case.
 
-|  | NDC | Cat. No. | Size |
+|  | NDC | REF | Size |
 | --- | --- | --- | --- |
-| Heparin Sodium 20,000 Units in 5% Dextrose Injection |  |  |  |
+| Heparin Sodium 20,000 USP units per 500 mL (40 USP units per mL) in 5% Dextrose Injection |  |  |  |
 |  | 0264-9567-10 | P5671 | 500 mL |
-| Heparin Sodium 25,000 Units in 5% Dextrose Injection |  |  |  |
+| Heparin Sodium 25,000 USP units per 500 mL (50 USP units per mL) in 5% Dextrose Injection |  |  |  |
 |  | 0264-9577-10 | P5771 | 500 mL |
-| Heparin Sodium 25,000 Units in 5% Dextrose Injection |  |  |  |
+| Heparin Sodium 25,000 USP units per 250 mL (100 USP units per mL) in 5% Dextrose Injection |  |  |  |
 |  | 0264-9587-20 | P5872 | 250 mL |
 
 Exposure of pharmaceutical products to heat should be minimized.

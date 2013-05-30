@@ -2,7 +2,7 @@ Do not admix with other drugs.
 
 Rx only
 
-Revised: May 2012
+Revised: January 2013
 
 EXCEL is a registered trademark of B. Braun Medical Inc.
 
@@ -32,42 +32,38 @@ If leaks are found, discard solution as sterility may be impaired.
 
 B. Braun Medical Inc. Irvine, CA 92614-5895 USA 1-800-227-2862 www.bbraun.com Made in USA
 
-Y36-002-803 LD-239-3
+Y36-002-826 LD-239-4
 
 # PRINCIPAL DISPLAY PANEL - 250 mL Container Label
 
-HEPARIN SODIUM 25,000 UNITS 100 UNITS/ML in 5% Dextrose Injection
+HEPARIN SODIUM 25,000 USP units per 250 mL (100 USP units per mL) in 5% Dextrose Injection
 
-REF P5872 NDC 0264-9587-20 250 mL
+NDC 0264-9587-20 250 mL EXCEL® CONTAINER
 
-EXCEL® CONTAINER
+25,000 USP units per 250 mL (100 USP units per mL) HEPARIN
+
+LD-310-2 Y94-003-165
 
 Each 100 mL contains: Heparin Sodium USP (porcine intestinal mucosa) 10,000 USP Heparin units; Hydrous Dextrose USP 5 g; Dibasic Sodium Phosphate•7H2O USP 0.41 g; Citric Acid Anhydrous USP 0.093 g; Sodium Metabisulfite NF (antioxidant) <0.07 g Water for Injection USP qs
 
-pH: 5.6 (4.5-7.0) Calculated Osmolarity: 315 mOsmol/liter
-
 Electrolytes (mEq/liter): Sodium 38 Phosphate (HPO) 30; Citrate 15
 
-WARNING: Do not admix with other drugs.
+WARNING: CONTAINS SULFITES.
+Do not admix with other drugs.
 
-Sterile, nonpyrogenic.
+Sterile.
 Single dose container.
-Do not use in series connection.
-For intravenous use only.
-Use only if solution is clear and container and seals are intact.
 
-Recommended Storage: Room temperature (25ºC).
+For intravenous use only.
+
+Recommended Storage: Room temperature (25°C).
 Avoid excessive heat.
 Protect from freezing.
 See Package Insert.
-Rx only EXCEL is a registered trademark of B. Braun Medical Inc.
-
-B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
-
-Y94-003-125 LD-309-1
-
 Do not remove overwrap until ready for use.
-After removing the overwrap, check for minute leaks by squeezing container firmly.
-If leaks are found, discard solution as sterility may be impaired.
+
+REF P5872 Rx only B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
+
+LD-309-2 Y94-003-164
 
 EXP LOT
