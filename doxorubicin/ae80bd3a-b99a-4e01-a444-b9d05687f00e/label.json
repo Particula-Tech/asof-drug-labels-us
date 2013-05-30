@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA091495"
+  ],
+  "inn": "doxorubicin",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-207-05",
+    "25021-207-25",
+    "25021-207-51"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "doxorubicin hydrochloride",
+      "name": "doxorubicin hydrochloride"
+    }
+  ],
+  "setid": "ae80bd3a-b99a-4e01-a444-b9d05687f00e",
+  "source": "dailymed"
+}
