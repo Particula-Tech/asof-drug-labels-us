@@ -166,9 +166,9 @@ Call between 9:00 a.m. and 3:00 p.m.
 Eastern Time, Monday through Friday.
 Or you can visit our website: www.retinamicro.com.
 
-Ortho Dermatologics
+Ortho Dermatologics™
 
-Marketed by: Ortho Dermatologics Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Los Angeles, CA 90045
+Marketed by: Ortho Dermatologics™ Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Los Angeles, CA 90045
 
 RETIN-A MICRO® is a registered trademark of Ortho-McNeil Pharmaceutical, Inc. MICROSPONGE® is a registered trademark of AMCOL International Corporation
 
@@ -177,4 +177,4 @@ Manati, Puerto Rico 00674-0463
 
 © OMJPI 2010
 
-735442 201560
+30013053 10352801 10352901

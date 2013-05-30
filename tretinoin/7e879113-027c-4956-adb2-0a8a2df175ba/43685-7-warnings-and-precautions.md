@@ -115,4 +115,4 @@ Safety and effectiveness in children below the age of 12 have not been establish
 ## Geriatric Use
 
 Safety and effectiveness in a geriatric population have not been established.
-Clinical studies of Retin-A Micro® (tretinoin gel) microspere, 0.1% and 0.04% did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects
+Clinical studies of Retin-A Micro® (tretinoin gel) microspere, 0.1% and 0.04% did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
