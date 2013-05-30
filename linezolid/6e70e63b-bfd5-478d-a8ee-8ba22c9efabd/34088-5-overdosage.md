@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 In the event of overdosage, supportive care is advised, with maintenance of glomerular filtration.
 Hemodialysis may facilitate more rapid elimination of linezolid.
