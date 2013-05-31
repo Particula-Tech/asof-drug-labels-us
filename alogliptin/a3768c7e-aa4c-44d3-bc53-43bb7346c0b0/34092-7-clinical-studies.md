@@ -72,7 +72,7 @@ The mean decrease in body weight was similar between metformin alone and NESINA 
 
 | Table 5. Glycemic Parameters at Week 26 for NESINA and Metformin Alone and in Combination in Patients with Type 2 Diabetes |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo | NESINA12.5 mg twice daily | MetforminHCl500 mg twice daily | MetforminHCl1000 mg twice daily | NESINA12.5 mg+ MetforminHCl500 mgtwice daily | NESINA12.5 mg+ MetforminHCl1000 mgtwice daily |
+|  | Placebo | NESINA12.5 mg twice daily | Metformin HCl500 mg twice daily | Metformin HCl1000 mg twice daily | NESINA12.5 mg+ Metformin HCl500 mgtwice daily | NESINA12.5 mg+ Metformin HCl1000 mgtwice daily |
 | A1C (%)Intent-to-treat population using last observation on study prior to discontinuation of double-blind study medication or sulfonylurea rescue therapy for patients needing rescue. | N=102 | N=104 | N=103 | N=108 | N=102 | N=111 |
 | Baseline (mean) | 8.5 | 8.4 | 8.5 | 8.4 | 8.5 | 8.4 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value.) | 0.1 | -0.6 | -0.7 | -1.1 | -1.2 | -1.6 |
