@@ -59,7 +59,6 @@ Other adverse events (listed alphabetically) occurring at a frequency of 1 to 3 
    If an ulceration or erosion has occurred, consideration should be given to leaving the ring out and not replacing it until healing is complete in order to prevent the ring from adhering to the healing tissue.
 3. A few cases of bowel obstruction and vaginal ring use have been reported.
    Persistent abdominal complaints consistent with obstruction should be carefully evaluated.
-4. Cases of hypersensitivity have been reported.
 
 The following additional adverse events were reported at least once by patients receiving ESTRING in the worldwide clinical program, which includes controlled and uncontrolled studies.
 A causal relationship with ESTRING has not been established.
