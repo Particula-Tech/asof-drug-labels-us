@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202692"
+  ],
+  "inn": "ofloxacin",
+  "labeler": "Altaire Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59390-140-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ofloxacin",
+      "name": "Ofloxacin ophthalmic"
+    }
+  ],
+  "setid": "fe564e33-8f5d-4b57-87a9-7afae02eaf97",
+  "source": "dailymed"
+}
