@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203644"
+  ],
+  "inn": "dextroamphetamine",
+  "labeler": "Tris Pharma Inc",
+  "package_ndcs": [
+    "27808-085-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "dextroamphetamine",
+      "name": "Dextroamphetamine"
+    }
+  ],
+  "setid": "7658071e-ee2c-4d23-94ce-1906959ec036",
+  "source": "dailymed"
+}
