@@ -10,10 +10,10 @@ Net Contents: 17 g
 
 For Intranasal Use Only
 
-Rx Only
+Rx only
 
 NASONEX®
 
 (mometasone furoate monohydrate) Nasal Spray, 50mcg* *calculated on the anhydrous basis
 
-For more NASONEX® information log on to www.nasonex.com
+For more NASONEX information log on to www.nasonex.com
