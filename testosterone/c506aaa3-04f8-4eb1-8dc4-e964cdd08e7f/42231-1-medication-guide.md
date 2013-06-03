@@ -200,21 +200,19 @@ This Medication Guide summarizes the most important information about ANDROGEL 1
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about ANDROGEL 1% that is written for health professionals.
 
-For more information, go to www.ANDROGEL.com or call 1-800-241-1643.
+For more information, go to www.ANDROGEL.com or call 1-800-633-9110.
 
 What are the ingredients in ANDROGEL 1%?
 Active ingredient: testosterone
 
 Inactive ingredients: carbomer 980, ethyl alcohol 67.0%, isopropyl myristate, purified water and sodium hydroxide.
 
-© 2012 Abbott Laboratories
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Marketed by:
 
-Abbott Laboratories
+AbbVie Inc. North Chicago, IL 60064, USA
 
-North Chicago, IL 60064, U.S.A.
+© 2013 AbbVie Inc.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-A090630053845 September 2012
+A090630054573 May, 2013

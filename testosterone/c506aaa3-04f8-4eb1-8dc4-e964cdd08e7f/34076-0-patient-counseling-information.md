@@ -50,8 +50,10 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Wait 5 hours before swimming or washing following application of AndroGel 1%.
   This will ensure that the greatest amount of AndroGel 1% is absorbed into their system.
 
-A090630053845 September 2012
+Marketed by:
 
-Marketed by: Abbott Laboratories North Chicago, IL, 60064, U.S.A.
+AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2012 Abbott Laboratories
+© 2013 AbbVie Inc.
+
+A090630054573 May, 2013
