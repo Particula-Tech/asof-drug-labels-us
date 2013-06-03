@@ -52,6 +52,8 @@ AndroGel® (testosterone gel) 1.62% CIII
 
 For Topical Use Only
 
+Topical testosterone products may have different doses, strengths, or application instructions that may result in different systemic exposure.
+
 Rx only
 
 Multi-dose pump capable of dispensing 60 metered pump actuations.

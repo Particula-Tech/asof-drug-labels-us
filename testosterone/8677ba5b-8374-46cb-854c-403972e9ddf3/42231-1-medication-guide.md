@@ -212,7 +212,7 @@ This Medication Guide summarizes the most important information about ANDROGEL 1
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about ANDROGEL 1.62% that is written for health professionals.
 
-For more information, go to www.androgel.com or call 1-800-241-1643.
+For more information, go to www.androgel.com or call 1-800-633-9110.
 
 What are the ingredients in ANDROGEL 1.62%?
 
@@ -222,10 +222,10 @@ Inactive ingredients: carbopol 980, ethyl alcohol, isopropyl myristate, purified
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-A090630053786 September 2012
-
-© 2012 Abbott Laboratories
-
 Marketed by:
 
-Abbott Laboratories North Chicago, IL, 60064, U.S.A.
+AbbVie Inc. North Chicago, IL 60064, USA
+
+© 2013 AbbVie Inc.
+
+A090630054574 May, 2013
