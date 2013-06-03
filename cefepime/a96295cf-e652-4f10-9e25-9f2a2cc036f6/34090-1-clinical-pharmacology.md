@@ -24,7 +24,7 @@ Table 1: Average Plasma Concentrations in mcg/mL of Cefepime and Derived Pharmac
 | 8 h | 1.4 | 2.4 | 3.9 |
 | 12 h | 0.2 | 0.6 | 1.1 |
 | Cmax, mcg/mL | 39.1 (3.5) | 81.7 (5.1) | 163.9 (25.3) |
-| AUC,h•mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 284.8 (30.6) |
+| AUC, h•mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 284.8 (30.6) |
 | Number of subjects (male) | 9 | 9 | 9 |
 
 Following intramuscular (IM) administration, cefepime is completely absorbed.
@@ -42,8 +42,8 @@ Table 2: Average Plasma Concentrations in mcg/mL of Cefepime and Derived Pharmac
 | 4 h | 6.9 | 16 | 31.5 |
 | 8 h | 1.9 | 4.5 | 8.7 |
 | 12 h | 0.7 | 1.4 | 2.3 |
-| Cmax, mcg/mL | 13.9 (3.4) | 29.6 (4.4) | 57.5 (9.5) |
-| Tmax, h | 1.4 (0.9) | 1.6 (0.4) | 1.5 (0.4) |
+| Cmax,mcg/mL | 13.9 (3.4) | 29.6 (4.4) | 57.5 (9.5) |
+| Tmax,h | 1.4 (0.9) | 1.6 (0.4) | 1.5 (0.4) |
 | AUC, h•mcg/mL | 60 (8) | 137 (11) | 262 (23) |
 | Number of subjects (male) | 6 | 6 | 12 |
 
@@ -64,7 +64,9 @@ Table 3: Average Concentrations of Cefepime in Specific Body Fluids (mcg/mL) or 
 | Blister Fluid | 2 g IV | 6 | 1.5 | 81.4 mcg/mL |
 | Bronchial Mucosa | 2 g IV | 20 | 4.8 | 24.1 mcg/g |
 | Sputum | 2 g IV | 5 | 4 | 7.4 mcg/mL |
-| Urine | 500 mg IV 1 g IV 2 g IV | 8 12 12 | 0 to 4 0 to 4 0 to 4 | 292 mcg/mL 926 mcg/mL 3120 mcg/mL |
+| Urine | 500 mg IV | 8 | 0 to 4 | 292 mcg/mL |
+| 1 g IV | 12 | 0 to 4 | 926 mcg/mL |  |
+| 2 g IV | 12 | 0 to 4 | 3120 mcg/mL |  |
 | Bile | 2 g IV | 26 | 9.4 | 17.8 mcg/mL |
 | Peritoneal Fluid | 2 g IV | 19 | 4.4 | 18.3 mcg/mL |
 | Appendix | 2 g IV | 31 | 5.7 | 5.2 mcg/g |
@@ -114,68 +116,18 @@ Within bacterial cells, the molecular targets of cefepime are the penicillin bin
 
 Cefepime has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Aerobic Gram-Negative Microorganisms:
+Aerobic Gram-Negative Microorganisms: Enterobacter Escherichia coli Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa
 
-Enterobacter
-
-Escherichia coli
-
-Klebsiella pneumoniae
-
-Proteus mirabilis
-
-Pseudomonas aeruginosa
-
-Aerobic Gram-Positive Microorganisms:
-
-Staphylococcus aureus (methicillin-susceptible isolates only)
-
-Streptococcus pneumoniae
-
-Streptococcus pyogenes (Lancefield’s Group A streptococci)
-
-Viridans group streptococci
+Aerobic Gram-Positive Microorganisms: Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus pneumoniae Streptococcus pyogenes (Lancefield’s Group A streptococci) Viridans group streptococci
 
 The following in vitro data are available, but their clinical significance is unknown.
 Cefepime has been shown to have in vitro activity against most isolates of the following microorganisms; however, the safety and effectiveness of cefepime in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
 
-Aerobic Gram-Positive Microorganisms:
-
-Staphylococcus epidermidis (methicillin-susceptible isolates only)
-
-Staphylococcus saprophyticus
-
-Streptococcus agalactiae (Lancefield’s Group B streptococci)
+Aerobic Gram-Positive Microorganisms: Staphylococcus epidermidis (methicillin-susceptible isolates only) Staphylococcus saprophyticus Streptococcus agalactiae (Lancefield’s Group B streptococci)
 
 NOTE: Most isolates of enterococci, eg, Enterococcus faecalis, and methicillin-resistant staphylococci are resistant to cefepime.
 
-Aerobic Gram-Negative Microorganisms:
-
-Acinetobacter calcoaceticus subsp. lwoffii
-
-Citrobacter diversus
-
-Citrobacter freundii
-
-Enterobacter agglomerans
-
-Haemophilus influenzae (including beta-lactamase producing isolates)
-
-Hafnia alvei
-
-Klebsiella oxytoca
-
-Moraxella catarrhalis (including beta-lactamase producing isolates)
-
-Morganella morganii
-
-Proteus vulgaris
-
-Providencia rettgeri
-
-Providencia stuartii
-
-Serratia marcescens
+Aerobic Gram-Negative Microorganisms: Acinetobacter calcoaceticus subsp. lwoffii Citrobacter diversus Citrobacter freundii Enterobacter agglomerans Haemophilus influenzae (including beta-lactamase producing isolates) Hafnia alvei Klebsiella oxytoca Moraxella catarrhalis (including beta-lactamase producing isolates) Morganella morganii Proteus vulgaris Providencia rettgeri Providencia stuartii Serratia marcescens
 
 NOTE: Cefepime is inactive against many isolates of Stenotrophomonas (formerly Xanthomonas maltophilia and Pseudomonas maltophilia).
 
@@ -195,13 +147,13 @@ The MIC values should be interpreted according to the following criteria:
 
 Table 4
 
-| MIC (mcg/mL) |  |  |  |
+| Microorganism | MIC (mcg/mL) |  |  |
 | --- | --- | --- | --- |
-| Microorganism | Susceptible (S) | Intermediate (I) | Resistant (R) |
+| Susceptible (S) | Intermediate (I) | Resistant (R) |  |
 | Microorganisms other than Haemophilus spp.* and Streptococcus pneumoniae* | ≤8 | 16 | ≥32 |
 | Haemophilus spp.* | ≤2 | —* | —* |
 | S. pneumoniae* | ≤0.5 | 1 | ≥2 |
-| *NOTE: Isolates from these species should be tested for susceptibility using specialized dilution testing methods.1 Also, isolates of Haemophilus spp. with MICs greater than 2 mcg/mL should be considered equivocal and should be further evaluated. |  |  |  |
+| *NOTE: Isolates from these species should be tested for susceptibility using specialized dilution testing methods.1Also, isolates of Haemophilus spp. with MICs greater than 2 mcg/mL should be considered equivocal and should be further evaluated. |  |  |  |
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -234,9 +186,9 @@ Reports from the laboratory providing results of the standard single-disk suscep
 
 Table 6
 
-| Zone Diameter (mm) |  |  |  |
+| Microorganism | Zone Diameter (mm) |  |  |
 | --- | --- | --- | --- |
-| Microorganism | Susceptible (S) | Intermediate (I) | Resistant (R) |
+| Susceptible (S) | Intermediate (I) | Resistant (R) |  |
 | Microorganisms other than Haemophilus spp.* and S. pneumoniae* | ≥18 | 15 to 17 | ≤14 |
 | Haemophilus spp.* | ≥26 | —* | —* |
 | *NOTE: Isolates from these species should be tested for susceptibility using specialized diffusion testing methods.2 Isolates of Haemophilus spp. with zones smaller than 26 mm should be considered equivocal and should be further evaluated. Isolates of S. pneumoniae should be tested against a 1-mcg oxacillin disk; isolates with oxacillin zone sizes larger than or equal to 20 mm may be considered susceptible to cefepime. |  |  |  |

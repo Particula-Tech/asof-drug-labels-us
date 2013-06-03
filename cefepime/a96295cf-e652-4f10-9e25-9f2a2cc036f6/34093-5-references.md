@@ -1,24 +1,22 @@
 # REFERENCES
 
 1. National Committee for Clinical Laboratory Standards.
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically—Third Edition.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically-Third Edition.
    Approved Standard NCCLS Document M7-A3, Vol. 13, No. 25, NCCLS, Villanova, PA, December 1993.
 2. National Committee for Clinical Laboratory Standards.
-   Performance Standards for Antimicrobial Disk Susceptibility Tests—Fifth Edition.
+   Performance Standards for Antimicrobial Disk Susceptibility Tests-Fifth Edition.
    Approved Standard NCCLS Document M2-A5, Vol. 13, No. 24, NCCLS, Villanova, PA, December 1993.
 3. Cockcroft DW, Gault MH.
    Prediction of creatinine clearance from serum creatinine.
    Nephron.
-   1976; 16:31-41.
+   1976; 16:31- 41.
 
-Hospira, Inc
+Hospira, Inc. Lake Forest, IL 60045, USA
 
-Lake Forest, IL 60045, USA
+Revised: 4/2013
 
-Revised: 10/2012
-
-EN-3131
+EN-3259
 
 Product of India
 
-948026238
+948026268

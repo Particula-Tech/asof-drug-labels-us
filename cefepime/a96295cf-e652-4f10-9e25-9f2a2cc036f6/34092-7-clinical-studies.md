@@ -30,15 +30,15 @@ For all outcome measures, cefepime was therapeutically equivalent to ceftazidime
 
 Table 9: Pooled Response Rates for Empiric Therapy of Febrile Neutropenic Patients
 
-| Outcome Measures | % Response |  |  |
-| --- | --- | --- | --- |
-| Cefepime | Ceftazidime |  |  |
-| (n=164) | (n=153) |  |  |
-| Primary episode resolved with no treatment modification, no new febrile episodes or infection, and oral antibiotics allowed for completion of treatment | 51 | 55 |  |
-| Primary episode resolved with no treatment modification, no new febrile episodes or infection and no post-treatment oral antibiotics | 34 | 39 |  |
-| Survival, any treatment modification allowed | 93 | 97 |  |
-| Primary episode resolved with no treatment modification and oral antibiotics allowed for completion of treatment | 62 | 67 |  |
-| Primary episode resolved with no treatment modification and no post-treatment oral antibiotics | 46 | 51 |  |
+| Outcome Measures | % Response |  |
+| --- | --- | --- |
+| Cefepime | Ceftazidime |  |
+| (n=164) | (n=153) |  |
+| Primary episode resolved with no treatment modification, no new febrile episodes or infection, and oral antibiotics allowed for completion of treatment | 51 | 55 |
+| Primary episode resolved with no treatment modification, no new febrile episodes or infection and no post-treatment oral antibiotics | 34 | 39 |
+| Survival, any treatment modification allowed | 93 | 97 |
+| Primary episode resolved with no treatment modification and oral antibiotics allowed for completion of treatment | 62 | 67 |
+| Primary episode resolved with no treatment modification and no post-treatment oral antibiotics | 46 | 51 |
 
 Insufficient data exist to support the efficacy of cefepime monotherapy in patients at high risk for severe infection (including patients with a history of recent bone marrow transplantation, with hypotension at presentation, with an underlying hematologic malignancy, or with severe or prolonged neutropenia).
 No data are available in patients with septic shock.

@@ -15,9 +15,9 @@ The following adverse events were thought to be probably related to cefepime dur
 
 Table 10: Adverse Reactions Cefepime Multiple-Dose Dosing Regimens Clinical Trials—North America
 
-| INCIDENCE EQUAL TO OR GREATER THAN 1% | Local reactions (3 %), including phlebitis (1.3%), pain and/or inflammation (0.6%)*; rash(1.1%) |
+| INCIDENCE EQUAL TO OR GREATER THAN 1% | Local reactions (3 %), including phlebitis (1.3%), pain and/or inflammation (0.6%)*; rash (1.1%) |
 | --- | --- |
-| INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Colitis(including pseudomembranous colitis), diarrhea, fever, headache, nausea, oral moniliasis,pruritus,urticaria, vaginitis, vomiting |
+| INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Colitis (including pseudomembranous colitis), diarrhea, erythema, fever, headache, nausea, oral moniliasis, pruritus, urticaria, vaginitis, vomiting, anemia |
 | * Local reactions, irrespective of relationship to cefepime in those patients who received intravenous infusion (n=3048). |  |
 
 At the higher dose of 2 g every 8 hours, the incidence of probably-related adverse events was higher among the 795 patients who received this dose of cefepime.

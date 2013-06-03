@@ -33,8 +33,7 @@ The serum creatinine should represent a steady state of renal function:
 | Males: Creatinine Clearance (mL/min) = | Weight (kg) x (140–age) |
 | --- | --- |
 | 72 × serum creatinine (mg/dL) |  |
-
-Females: 0.85 × above value
+| Females: 0.85 × above value |  |
 
 Table 13: Recommended Dosing Schedule for MAXIPIME in Adult Patients (Normal Renal Function, Renal Impairment, and Hemodialysis)
 
@@ -75,10 +74,10 @@ Preparation of MAXIPIME solutions is summarized in Table 14.
 
 Table 14: Preparation of Solutions of MAXIPIME
 
-| Single-Dose Vials for Intravenous/Intramuscular Administration | Amount of Diluent to be added (mL) | Approximate Available Volume (mL) | Approximate Cefepime Concentration (mg/mL) |  |
-| --- | --- | --- | --- | --- |
-| cefepime vial content 500 mg (IV) 500 mg (IM) 1 g (IV) 1 g (IM) 2 g (IV) | 5 1.3 10 2.4 10 | 5.6 1.8 11.3 3.6 12.5 | 100 280 100 280 160 |  |
-| ADD-Vantage 1 g vial 1 g vial 2 g vial 2 g vial | 50 100 50 100 | 50 100 50 100 | 20 10 40 20 |  |
+| Single-Dose Vials for Intravenous/Intramuscular Administration | Amount of Diluent to be added (mL) | Approximate Available Volume (mL) | Approximate Cefepime Concentration (mg/mL) |
+| --- | --- | --- | --- |
+| cefepime vial content 500 mg (IV) 500 mg (IM) 1 g (IV) 1 g (IM) 2 g (IV) | 5 1.3 10 2.4 10 | 5.6 1.8 11.3 3.6 12.5 | 100 280 100 280 160 |
+| ADD-Vantage 1 g vial 1 g vial 2 g vial 2 g vial | 50 100 50 100 | 50 100 50 100 | 20 10 40 20 |
 
 Compatibility and Stability
 
@@ -90,21 +89,21 @@ MAXIPIME admixture compatibility information is summarized in Table 15.
 
 Table 15: Cefepime Admixture Stability
 
-| Stability Time for |  |  |  |  |
+|  |  |  | Stability Time for |  |
 | --- | --- | --- | --- | --- |
-| MAXIPIME Concentration | Admixture and Concentration | IV InfusionSolutions | RT/L (20° to 25°C) | Refrigeration(2° to 8°C) |
-| 40 mg/mL | Amikacin6 mg/mL | NS or D5W | 24 hours | 7 days |
+| MAXIPIME Concentration | Admixture and Concentration | IV Infusion Solutions | RT/L (20° to 25°C) | Refrigeration (2° to 8°C) |
+| 40 mg/mL | Amikacin 6 mg/mL | NS or D5W | 24 hours | 7 days |
 | 40 mg/mL | Ampicillin 1 mg/mL | D5W | 8 hours | 8 hours |
 | 40 mg/mL | Ampicillin 10 mg/mL | D5W | 2 hours | 8 hours |
-| 40 mg/mL | Ampicillin1 mg/mL | NS | 24 hours | 48 hours |
-| 40 mg/mL | Ampicillin10 mg/mL | NS | 8 hours | 48 hours |
-| 4 mg/mL | Ampicillin40 mg/mL | NS | 8 hours | 8 hours |
-| 4 to 40 mg/mL | ClindamycinPhosphate0.25 to 6 mg/mL | NS or D5W | 24 hours | 7 days |
-| 4 mg/mL | Heparin10 to 50 units/mL | NS or D5W | 24 hours | 7 days |
-| 4 mg/mL | Potassium Chloride10 to 40 mEq/L | NS or D5W | 24 hours | 7 days |
-| 4 mg/mL | Theophylline0.8 mg/mL | D5W | 24 hours | 7 days |
-| 1 to 4 mg/mL | na | Aminosyn™ II4.25% withelectrolytes and calcium | 8 hours | 3 days |
-| 0.125 to 0.25 mg/mL | na | Inpersol™with 4.25% dextrose | 24 hours | 7 days |
+| 40 mg/mL | Ampicillin 1 mg/mL | NS | 24 hours | 48 hours |
+| 40 mg/mL | Ampicillin 10 mg/mL | NS | 8 hours | 48 hours |
+| 4 mg/mL | Ampicillin 40 mg/mL | NS | 8 hours | 8 hours |
+| 4 to 40 mg/mL | Clindamycin Phosphate 0.25 to 6 mg/mL | NS or D5W | 24 hours | 7 days |
+| 4 mg/mL | Heparin 10 to 50 units/mL | NS or D5W | 24 hours | 7 days |
+| 4 mg/mL | Potassium Chloride 10 to 40 mEq/L | NS or D5W | 24 hours | 7 days |
+| 4 mg/mL | Theophylline 0.8 mg/mL | D5W | 24 hours | 7 days |
+| 1 to 4 mg/mL | na | Aminosyn™ II 4.25% with electrolytes and calcium | 8 hours | 3 days |
+| 0.125 to 0.25 mg/mL | na | Inpersol™ with 4.25% dextrose | 24 hours | 7 days |
 | NS = 0.9% Sodium Chloride Injection D5W = 5% Dextrose Injection na = not applicableRT/L = Ambient room temperature and light |  |  |  |  |
 
 Solutions of MAXIPIME, like those of most beta-lactam antibiotics, should not be added to solutions of ampicillin at a concentration greater than 40 mg per mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate, or aminophylline because of potential interaction.
@@ -132,19 +131,17 @@ To Assemble Vial and Flexible Diluent Container:
 
 (Use Aseptic Technique)
 
-1.
-Remove the protective covers from the top of the vial and the vial port on the diluent container as follows:
+1.Remove the protective covers from the top of the vial and the vial port on the diluent container as follows:
 
 a. To remove the breakaway vial cap, swing the pull ring over the top of the vial and pull down far enough to start the opening (SEE FIGURE 1.), then pull straight up to remove the cap.
 (SEE FIGURE 2.)
 
 NOTE: Once the breakaway cap has been removed, do not access vial with syringe.
 
-b. To remove the vial port cover, grasp the tab on the pull ring, pull up to break the three tie strings, then pull back to remove the cover.
+b.To remove the vial port cover, grasp the tab on the pull ring, pull up to break the three tie strings, then pull back to remove the cover.
 (SEE FIGURE 3.)
 
-2.
-Screw the vial into the vial port until it will go no further.
+2.Screw the vial into the vial port until it will go no further.
 THE VIAL MUST BE SCREWED IN TIGHTLY TO ASSURE A SEAL.
 This occurs approximately 1/2 turn (180°) after the first audible click.
 (SEE FIGURE 4.)
@@ -153,11 +150,9 @@ The clicking sound does not assure a seal; the vial must be turned as far as it 
 NOTE: Once vial is seated, do not attempt to remove.
 (SEE FIGURE 4.)
 
-3.
-Recheck the vial to assure that it is tight by trying to turn it further in the direction of assembly.
+3.Recheck the vial to assure that it is tight by trying to turn it further in the direction of assembly.
 
-4.
-Label appropriately.
+4.Label appropriately.
 
 To Reconstitute the Drug:
 
@@ -188,39 +183,29 @@ Preparation for Administration:
 
 (Use Aseptic Technique)
 
-1.
-Confirm the activation and admixture of vial contents.
+1.Confirm the activation and admixture of vial contents.
 
-2.
-Check for leaks by squeezing container firmly.
+2.Check for leaks by squeezing container firmly.
 If leaks are found, discard unit as sterility may be impaired.
 
-3.
-Close flow control clamp of administration set.
+3.Close flow control clamp of administration set.
 
-4.
-Remove cover from outlet port at bottom of container.
+4.Remove cover from outlet port at bottom of container.
 
-5.
-Insert piercing pin of administration set into port with a twisting motion until the pin is firmly seated.
+5.Insert piercing pin of administration set into port with a twisting motion until the pin is firmly seated.
 NOTE: See full directions on administration set carton.
 
-6.
-Lift the free end of the hanger loop on the bottom of the vial, breaking the two tie strings.
+6.Lift the free end of the hanger loop on the bottom of the vial, breaking the two tie strings.
 Bend the loop outward to lock it in the upright position, then suspend container from hanger.
 
-7.
-Squeeze and release drip chamber to establish proper fluid level in chamber.
+7.Squeeze and release drip chamber to establish proper fluid level in chamber.
 
-8.
-Open flow control clamp and clear air from set.
+8.Open flow control clamp and clear air from set.
 Close clamp.
 
-9.
-Attach set to venipuncture device.
+9.Attach set to venipuncture device.
 If device is not indwelling, prime and make venipuncture.
 
-10.
-Regulate rate of administration with flow control clamp.
+10.Regulate rate of administration with flow control clamp.
 
 WARNING: Do not use flexible container in series connections.
