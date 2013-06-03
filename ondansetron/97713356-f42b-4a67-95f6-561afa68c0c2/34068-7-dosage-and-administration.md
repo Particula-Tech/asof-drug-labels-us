@@ -3,15 +3,12 @@
 ## 2.1 Prevention of Nausea and Vomiting Associated with Initial and Repeat Courses of Emetogenic Chemotherapy
 
 Ondansetron Injection should be diluted in 50 mL of 5% Dextrose Injection or 0.9% Sodium Chloride Injection before administration.
-Adults: The recommended adult intravenous dosage of Ondansetron Injection is a single 32-mg dose or three 0.15-mg/kg doses.
-A single 32-mg dose is infused over 15 minutes beginning 30 minutes before the start of emetogenic chemotherapy.
-Efficacy of the 32-mg single dose beyond 24 hours has not been established.
-The recommended infusion rate should not be exceeded [see Overdosage (10)].
-With the three-dose (0.15-mg/kg) regimen, the first dose is infused over 15 minutes beginning 30 minutes before the start of emetogenic chemotherapy.
-Subsequent doses (0.15 mg/kg) are administered 4 and 8 hours after the first dose of Ondansetron Injection.
-Pediatrics: For pediatric patients 6 months through 18 years of age, the intravenous dosage of Ondansetron Injection, is three 0.15-mg/kg doses [see Clinical Studies (14.1) and Clinical Pharmacology (12.3)].
+Adults: The recommended adult intravenous dosage of Ondansetron Injection is three 0.15-mg/kg doses up to a maximum of 16 mg per dose [see Clinical Pharmacology (12.2)].
+The first dose is infused over 15 minutes beginning 30 minutes before the start of emetogenic chemotherapy.
+Subsequent doses (0.15 mg/kg up to a maximum of 16 mg per dose) are administered 4 and 8 hours after the first dose of Ondansetron Injection.
+Pediatrics: For pediatric patients 6 months through 18 years of age, the intravenous dosage of Ondansetron Injection, is three 0.15-mg/kg doses up to a maximum of 16 mg per dose [see Clinical Studies (14.1) and Clinical Pharmacology (12.2 and 12.3)].
 The first dose is to be administered 30 minutes before the start of moderately to highly emetogenic chemotherapy.
-Subsequent doses (0.15 mg/kg) are administered 4 and 8 hours after the first dose of Ondansetron Injection.
+Subsequent doses (0.15 mg/kg up to a maximum of 16 mg per dose) are administered 4 and 8 hours after the first dose of Ondansetron Injection.
 The drug should be infused intravenously over 15 minutes.
 
 ## 2.2 Prevention of Postoperative Nausea and Vomiting
@@ -36,7 +33,7 @@ Precaution: Occasionally, ondansetron precipitates at the stopper/vial interface
 Potency and safety are not affected.
 If a precipitate is observed, resolubilize by shaking the vial vigorously.
 
-## 2.4 Dosage Adjustment for Patients With Impaired Hepatic Function
+## 2.4 Dosage Adjustment for Patients with Impaired Hepatic Function
 
 In patients with severe hepatic impairment (Child-Pugh score of 10 or greater), a single maximal daily dose of 8 mg infused over 15 minutes beginning 30 minutes before the start of the emetogenic chemotherapy is recommended.
 There is no experience beyond first-day administration of ondansetron in these patients [see Clinical Pharmacology (12.3)].

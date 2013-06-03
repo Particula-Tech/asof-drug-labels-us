@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. Reproduction studies have been performed in pregnant rats and rabbits at intravenous doses up to 4 mg/kg per day (approximately 1 and 2 times the recommended human intravenous dose of 32 mg/day, respectively, based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to ondansetron.
+Pregnancy Category B. Reproduction studies have been performed in pregnant rats and rabbits at intravenous doses up to 4 mg/kg per day (approximately 1.4 and 2.9 times the recommended human intravenous dose of 0.15 mg/kg given three times a day, respectively, based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to ondansetron.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
@@ -16,7 +16,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 Little information is available about the use of ondansetron in pediatric surgical patients younger than 1 month of age.
 [See Clinical Studies (14.2)].Little information is available about the use of ondansetron in pediatric cancer patients younger than 6 months of age.
-[See Clinical Studies (14.1)and Dosage and Administration (2)].
+[See Clinical Studies (14.1) and Dosage and Administration (2)].
 The clearance of ondansetron in pediatric patients 1 month to 4 months of age is slower and the half-life is ~2.5 fold longer than patients who are > 4 to 24 months of age.
 As a precaution, it is recommended that patients less than 4 months of age receiving this drug be closely monitored.
 [See Clinical Pharmacology (12.3)].

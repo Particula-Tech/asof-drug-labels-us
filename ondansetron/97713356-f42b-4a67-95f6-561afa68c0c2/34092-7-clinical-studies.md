@@ -4,7 +4,7 @@ The clinical efficacy of ondansetron hydrochloride, the active ingredient of Ond
 
 ## 14.1 Chemotherapy-Induced Nausea and Vomiting
 
-Adults: In a double-blind study of three different dosing regimens of Ondansetron Injection 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
+Adults: In a double-blind study of three different dosing regimens of Ondansetron Injection, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
 The 0.30-mg/kg dosing regimen was not shown to be more effective than the 0.15-mg/kg dosing regimen.
 Cisplatin-Based Chemotherapy: In a double-blind study in 28 patients, Ondansetron Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
 Therapeutic response was as shown in Table 6.
@@ -43,47 +43,16 @@ The results of this study are summarized in Table 7.
 | Comparison of treatments with respect to |  |  |  |
 | 0 Emetic episodes | 54/136 | 41/138 | 0.083 |
 | More than 5 emetic episodes/rescued | 29/136 | 49/138 | 0.009 |
-| Median number to emetic episodes | 1 | 2 | 0.005 |
-| Median time of first emetic episode (h) | 20.5 | 4.3 | <0.001 |
+| Median number of emetic episodes | 1 | 2 | 0.005 |
+| Median time to first emetic episode (h) | 20.5 | 4.3 | <0.001 |
 | Global satisfaction with control of nausea and vomiting (0-100)Visual analog scale assessment: 0 = not at all satisfied, 100 = totally satisfied. | 85 | 63 | 0.001 |
 | Acute dystonic reactions | 0 | 8 | 0.005 |
 | Akathisia | 0 | 10 | 0.002 |
 
-In a stratified, randomized, double-blind, parallel-group, multicenter study, a single 32-mg dose of ondansetron was compared with three 0.15-mg/kg doses in patients receiving cisplatin doses of either 50 to 70 mg/m2 or ≥100 mg/m2.
-Patients received the first ondansetron dose 30 minutes before cisplatin.
-Two additional ondansetron doses were administered 4 and 8 hours later to the group receiving three 0.15-mg/kg doses.
-In both strata, significantly fewer patients on the single 32-mg dose than those receiving the three-dose regimen failed.
+Cyclophosphamide-Based Chemotherapy: In a double-blind, placebo-controlled study of Ondansetron Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, Ondansetron Injection was significantly more effective than placebo in preventing nausea and vomiting.
 The results are summarized in Table 8.
 
-Table 8.
-Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in 32 mg Single-Dose Therapy in Adults
-
-|  | Ondansetron dose |  |  |
-| --- | --- | --- | --- |
-|  | 0.15 mg/kg x 3 | 32 mg x 1 | P Value |
-| High-dose cisplatin (≥ 100 mg/m2) |  |  |  |
-| Number of patients | 100 | 102 |  |
-| Treatment response |  |  |  |
-| 0 Emetic episodes | 41 (41%) | 49 (48%) | 0.315 |
-| 1-2 Emetic episodes | 19 (19%) | 25 (25%) |  |
-| 3-5 Emetic episodes | 4 (4%) | 8 (8%) |  |
-| More than 5 emetic episodes/rescued | 36 (36%) | 20 (20%) | 0.009 |
-| Median time to first emetic episode (h) | 21.7 | 23 | 0.173 |
-| Median nausea scores (0-100)Visual analog scale assessment: 0 = no nausea, 100 = nausea as bad as it can be. | 28 | 13 | 0.004 |
-| Medium-dose cisplatin (50-70 mg/m2) |  |  |  |
-| Number of patients | 101 | 93 |  |
-| Treatment response |  |  |  |
-| 0 Emetic episodes | 62 (61%) | 68 (73%) | 0.083 |
-| 1-2 Emetic episodes | 11 (11%) | 14 (15%) |  |
-| 3-5 Emetic episodes | 6 (6%) | 3 (3%) |  |
-| More than 5 emetic episodes/rescued | 22 (22%) | 8 (9%) | 0.011 |
-| Median time to first emetic episode (h) | UndefinedMedian undefined since at least 50% of patients did not have any emetic episodes. | Undefined |  |
-| Median nausea scores (0-100) | 9 | 3 | 0.131 |
-
-Cyclophosphamide-Based Chemotherapy: In a double-blind, placebo-controlled study of Ondansetron Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, Ondansetron Injection was significantly more effective than placebo in preventing nausea and vomiting.
-The results are summarized in Table 9.
-
-| Table 9. Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-Day Cyclophosphamide TherapyChemotherapy consisted of cyclophosphamide in all patients, plus other agents, including fluorouracil, doxorubicin, methotrexate, and vincristine. There was no difference between treatments in the type of chemotherapy that would account for differences in response. in Adults |  |  |  |
+| Table 8. Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-Day Cyclophosphamide TherapyChemotherapy consisted of cyclophosphamide in all patients, plus other agents, including fluorouracil, doxorubicin, methotrexate, and vincristine. There was no difference between treatments in the type of chemotherapy that would account for differences in response. in Adults |  |  |  |
 | --- | --- | --- | --- |
 |  | Ondansetron Injection (0.15 mg/kg x 3) | Placebo | P ValueEfficacy based on "all patients treated" analysis. |
 | Number of patients | 10 | 10 |  |
@@ -117,9 +86,9 @@ Thus, prevention of vomiting in these pediatric patients was comparable to the p
 
 Adults: Adult surgical patients who received ondansetron immediately before the induction of general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) were evaluated in two double-blind US studies involving 554 patients.
 Ondansetron Injection (4 mg) intravenous given over 2 to 5 minutes was significantly more effective than placebo.
-The results of these studies are summarized in Table 10.
+The results of these studies are summarized in Table 9.
 
-Table 10.
+Table 9.
 Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Adult Patients
 
 |  | Ondansetron 4 mg Intravenous | Placebo | P Value |
@@ -145,7 +114,7 @@ Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Adult
 | Number of patients | 125 | 133 |  |
 | No nausea over 24-h postoperative period | 48 (38%) | 42 (32%) |  |
 
-The study populations in Table 10 consisted mainly of females undergoing laparoscopic procedures.
+The study populations in Table 9 consisted mainly of females undergoing laparoscopic procedures.
 In a placebo-controlled study conducted in 468 males undergoing outpatient procedures, a single 4-mg intravenous ondansetron dose prevented postoperative vomiting over a 24-hour study period in 79% of males receiving drug compared to 63% of males receiving placebo (P < 0.001).
 Two other placebo-controlled studies were conducted in 2,792 patients undergoing major abdominal or gynecological surgeries to evaluate a single 4-mg or 8-mg intravenous ondansetron dose for prevention of postoperative nausea and vomiting over a 24-hour study period.
 At the 4-mg dosage, 59% of patients receiving ondansetron versus 45% receiving placebo in the first study (P < 0.001) and 41% of patients receiving ondansetron versus 30% receiving placebo in the second study (P = 0.001) experienced no emetic episodes.
@@ -155,9 +124,9 @@ The surgical procedures included tonsillectomy with or without adenoidectomy, st
 Patients were randomized to either single intravenous doses of ondansetron (0.1 mg/kg for pediatric patients weighing 40 kg or less, 4 mg for pediatric patients weighing more than 40 kg) or placebo.
 Study drug was administered over at least 30 seconds, immediately prior to or following anesthesia induction.
 Ondansetron was significantly more effective than placebo in preventing nausea and vomiting.
-The results of these studies are summarized in Table 11.
+The results of these studies are summarized in Table 10.
 
-Table 11.
+Table 10.
 Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Pediatric Patients 2 to 12 Years of Age
 
 | Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |
@@ -188,9 +157,9 @@ Overall, 32 (10%) of placebo patients and 18 (5%) of patients who received ondan
 
 Adults: Adult surgical patients receiving general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) who received no prophylactic antiemetics and who experienced nausea and/or vomiting within 2 hours postoperatively were evaluated in two double-blind US studies involving 441 patients.
 Patients who experienced an episode of postoperative nausea and/or vomiting were given Ondansetron Injection (4 mg) intravenous over 2 to 5 minutes, and this was significantly more effective than placebo.
-The results of these studies are summarized in Table 12.
+The results of these studies are summarized in Table 11.
 
-Table 12.
+Table 11.
 Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting in Adult Patients
 
 |  | Ondansetron 4 mg Intravenous | Placebo | P Value |
@@ -218,15 +187,15 @@ Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting 
 | Number of patients | 105 | 85 |  |
 | Mean nausea score over 24-h postoperative period | 1.9 | 2.9 |  |
 
-The study populations in Table 12 consisted mainly of women undergoing laparoscopic procedures.
+The study populations in Table 11 consisted mainly of women undergoing laparoscopic procedures.
 Repeat Dosing in Adults: In patients who do not achieve adequate control of postoperative nausea and vomiting following a single, prophylactic, preinduction, intravenous dose of ondansetron 4 mg, administration of a second intravenous dose of ondansetron 4 mg postoperatively does not provide additional control of nausea and vomiting.
 Pediatrics: One double-blind, placebo-controlled, US study was performed in 351 male and female outpatients (2 to 12 years of age) who received general anesthesia with nitrous oxide and no prophylactic antiemetics.
 Surgical procedures were unrestricted.
 Patients who experienced two or more emetic episodes within 2 hours following discontinuation of nitrous oxide were randomized to either single intravenous doses of ondansetron (0.1 mg/kg for pediatric patients weighing 40 kg or less, 4 mg for pediatric patients weighing more than 40 kg) or placebo administered over at least 30 seconds.
 Ondansetron was significantly more effective than placebo in preventing further episodes of nausea and vomiting.
-The results of the study are summarized in Table 13.
+The results of the study are summarized in Table 12.
 
-Table 13.
+Table 12.
 Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting in Pediatric Patients 2 to 12 Years of Age
 
 | Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |
