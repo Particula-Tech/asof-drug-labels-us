@@ -9,13 +9,11 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
+PROTECT FROM LIGHT AND EXCESSIVE HUMIDITY.
+
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Manufactured By:
-
-TEVA PHARMACEUTICALS USA
-
-Sellersville, PA 18960
+TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
 Rev.
-I 10/2012
+J 4/2013

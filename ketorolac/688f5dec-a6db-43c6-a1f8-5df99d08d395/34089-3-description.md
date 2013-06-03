@@ -1,11 +1,11 @@
 # DESCRIPTION
 
-Ketorolac tromethamine, USP is a member of the pyrrolo-pyrrole group of non-steroidal anti-inflammatory drugs (NSAIDs).
-The chemical name for ketorolac tromethamine, USP is (±)-5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid, compound with 2-amino-2-(hydroxymethyl)-1,3-propanediol.
+Ketorolac Tromethamine Tablets USP are a member of the pyrrolo-pyrrole group of non-steroidal anti-inflammatory drugs (NSAIDs).
+The chemical name for ketorolac tromethamine, USP is (±)-5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid, compound with 2-amino-2-(hydroxymethyl)-1,3-propanediol (1:1).
 The structural formula is:
 
-C19H24N2O6 M.W.
-376.41
+C15H13NO3.C4H11NO3 M.W.
+376.40
 
 Ketorolac tromethamine, USP is a racemic mixture of [-]S and [+]R ketorolac tromethamine, USP.
 Ketorolac tromethamine, USP may exist in three crystal forms.

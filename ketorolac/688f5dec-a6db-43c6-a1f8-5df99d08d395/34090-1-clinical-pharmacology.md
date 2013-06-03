@@ -14,10 +14,10 @@ The greatest difference between large and small doses of ketorolac tromethamine 
 
 Ketorolac tromethamine is a racemic mixture of [-]S- and [+]R-enantiomeric forms, with the S-form having analgesic activity.
 
-### Comparison of IV, IM, and Oral Pharmacokinetics
+### Comparison of IV, IM and Oral Pharmacokinetics
 
 The pharmacokinetics of ketorolac tromethamine, following IV and IM doses of ketorolac tromethamine and oral doses of ketorolac tromethamine, are compared in Table 1.
-In adults, the extent of bioavailability following administration of the ORAL form of ketorolac tromethamine and IM form of ketorolac tromethamine was equal to that following an IV bolus.
+In adults, the extent of bioavailability following administration of the ORAL form of ketorolac tromethamine and the IM form of ketorolac tromethamine was equal to that following an IV bolus.
 
 ### Linear Kinetics
 

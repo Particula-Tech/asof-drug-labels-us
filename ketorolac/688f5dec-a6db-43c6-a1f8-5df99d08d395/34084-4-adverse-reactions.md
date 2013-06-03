@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 Adverse reaction rates increase with higher doses of ketorolac tromethamine.
-Practitioners should be alert for the severe complications of treatment with ketorolac tromethamine, such as GI ulceration, bleeding and perforation, postoperative bleeding, acute renal failure, anaphylactic and anaphylactoid reactions, and liver failure (see Boxed WARNING, WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
+Practitioners should be alert for the severe complications of treatment with ketorolac tromethamine, such as GI ulceration, bleeding and perforation, postoperative bleeding, acute renal failure, anaphylactic and anaphylactoid reactions and liver failure (see Boxed WARNING, WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 These NSAID-related complications can be serious in certain patients for whom ketorolac tromethamine is indicated, especially when the drug is used inappropriately.
 
 In patients taking ketorolac tromethamine or other NSAIDs in clinical trials, the most frequently reported adverse experiences in approximately 1% to 10% of patients are:
@@ -50,7 +50,7 @@ Body as a Whole: angioedema, death, hypersensitivity reactions such as anaphylax
 
 Cardiovascular: arrhythmia, bradycardia, chest pain, flushing, hypotension, myocardial infarction, vasculitis
 
-Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell’s syndrome, bullous reactions including Stevens-Johnson syndrome and toxic epidermal necrosis
+Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell’s syndrome, bullous reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis
 
 Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease)
 

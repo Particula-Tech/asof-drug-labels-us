@@ -17,8 +17,6 @@ Ketorolac tromethamine is contraindicated in patients with advanced renal impair
 
 Ketorolac tromethamine is contraindicated in labor and delivery because, through its prostaglandin synthesis inhibitory effect, it may adversely affect fetal circulation and inhibit uterine contractions, thus increasing the risk of uterine hemorrhage.
 
-The use of ketorolac tromethamine is contraindicated in nursing mothers because of the potential adverse effects of prostaglandin-inhibiting drugs on neonates.
-
 Ketorolac tromethamine inhibits platelet function and is, therefore, contraindicated in patients with suspected or confirmed cerebrovascular bleeding, hemorrhagic diathesis, incomplete hemostasis and those at high risk of bleeding (see WARNINGS and PRECAUTIONS).
 
 Ketorolac tromethamine is contraindicated in patients currently receiving aspirin or NSAIDs because of the cumulative risks of inducing serious NSAID-related adverse events.

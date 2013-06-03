@@ -1,4 +1,4 @@
-Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+MEDICATION GUIDE FOR NON-STEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDS)
 
 Rx only
 
@@ -101,6 +101,8 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
@@ -133,16 +135,11 @@ NSAID medicines that need a prescription
 | Sulindac | Clinoril |
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured By:
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
-TEVA PHARMACEUTICALS USA
-
-Sellersville, PA 18960
+TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
 Rev.
-B 7/2009
+C 4/2013

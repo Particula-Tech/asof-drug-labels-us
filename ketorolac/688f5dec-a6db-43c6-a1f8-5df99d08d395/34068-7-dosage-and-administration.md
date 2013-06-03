@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Carefully consider the potential benefits and risks of ketorolac tromethamine and other treatment options before deciding to use ketorolac tromethamine tablets.
+Carefully consider the potential benefits and risks of ketorolac tromethamine tablets and other treatment options before deciding to use ketorolac tromethamine tablets.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals.
 In adults, the combined duration of use of IV or IM dosing of ketorolac tromethamine and ketorolac tromethamine tablets is not to exceed 5 days.
 In adults, the use of ketorolac tromethamine tablets is only indicated as continuation therapy to IV or IM dosing of ketorolac tromethamine.
