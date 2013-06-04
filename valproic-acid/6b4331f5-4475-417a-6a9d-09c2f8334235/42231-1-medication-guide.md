@@ -14,7 +14,7 @@ Tablets
 
 DEPAKOTE (dep-a-kOte)
 
-(divalproex sodium)
+(divalproex sodium coated particles in capsules)
 
 Sprinkle Capsules
 
@@ -54,9 +54,10 @@ Depakote and Depakene can cause serious side effects, including:
    - Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
    - Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
    - If you take Depakote or Depakene during pregnancy for any medical condition, your child is at risk for having a lower IQ.
-   - There may be other medicines to treat your condition that have a lower chance of birth defects.
+   - There may be other medicines to treat your condition that have a lower chance of causing birth defects and decreased IQ in your child.
+   - Women who are pregnant must not take Depakote or Depakene to prevent migraine headaches.
    - All women of child-bearing age should talk to their healthcare provider about using other possible treatments instead of Depakote or Depakene.
-     If the decision is made to use Depakote or Depakene, you should use effective birth control (contraception) unless you are planning to become pregnant.
+     If the decision is made to use Depakote or Depakene, you should use effective birth control (contraception).
    - Tell your healthcare provider right away if you become pregnant while taking Depakote or Depakene.
      You and your healthcare provider should decide if you will continue to take Depakote or Depakene while you are pregnant.
    - Pregnancy Registry: If you become pregnant while taking Depakote or Depakene, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
@@ -110,14 +111,19 @@ Who should not take Depakote or Depakene?
 Do not take Depakote or Depakene if you:
 
 - have liver problems
+- have or think you have a genetic liver problem caused by a mitochondrial disorder (e.g.
+  Alpers-Huttenlocher syndrome)
 - are allergic to divalproex sodium, valproic acid, sodium valproate, or any of the ingredients in Depakote or Depakene.
   See the end of this leaflet for a complete list of ingredients in Depakote and Depakene.
 - have a genetic problem called urea cycle disorder
+- are pregnant for the prevention of migraine headaches
 
 What should I tell my healthcare provider before taking Depakote or Depakene?
 
 Before you take Depakote or Depakene, tell your healthcare provider if you:
 
+- have a genetic liver problem caused by a mitochondrial disorder (e.g.
+  Alpers-Huttenlocher syndrome)
 - drink alcohol
 - are pregnant or breastfeeding.
   Depakote or Depakene can pass into breast milk.
@@ -287,8 +293,6 @@ OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A.
 
 For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-Issued 02/2013 AbbVie Inc.
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-03-A729 February, 2013
+03-A323 May 2013
