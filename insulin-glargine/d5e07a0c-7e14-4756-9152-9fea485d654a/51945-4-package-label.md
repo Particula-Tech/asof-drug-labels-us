@@ -1,50 +1,26 @@
-PRINCIPAL DISPLAY PANEL - 10 mL-1 Count Vial Label
-
-NDC 0088-2220-33 Rx ONLY
-
-Lantus®
-
-insulin glargine (rDNA origin) injection
-
-100 units/mL (U-100)
-
-FOR SUBCUTANEOUS INJECTION ONLY
-
-DO NOT MIX WITH OTHER INSULINS
-
-STORE REFRIGERATED – DO NOT FREEZE
-
-One 10mL Vial
-
-sanofi aventis U.S. LLC, Bridgewater, NJ 08807
-
-Origin Germany 50085711
-
-Lot
-
-Exp
-
-PRINCIPAL DISPLAY PANEL - 10 mL-1 Count Vial Carton
+PRINCIPAL DISPLAY PANEL - 10 mL 1 Count Vial Label
 
 NDC 0088-2220-33
 
-Lantus®
+Lantus® insulin glargine (rDNA origin) injection 100 units/mL (U-100) 10 mL Vial
 
-insulin glargine (rDNA origin) injection
+Do not mix with other insulins For subcutaneous injection only Use within 28 days after initial use sanofi-aventis U.S. LLC, Bridgewater, NJ 08807 Rx ONLY Origin Germany 50098133 <MAT>512767
 
-100 units/mL (U-100)
+PRINCIPAL DISPLAY PANEL - 10 mL 1 Count Vial Carton
 
-DO NOT MIX WITH OTHER INSULINS
+NDC 0088-2220-33 Rx ONLY
 
-USE ONLY IF SOLUTION IS CLEAR AND COLORLESS WITH NO PARTICLES VISIBLE
+Lantus® insulin glargine (rDNA origin) injection 100 units/mL (U-100) One 10 mL Vial
 
-FOR SUBCUTANEOUS injection ONLY
+Do not mix with other insulins
 
-USE WITH U-100 SYRINGE ONLY
+Use only if solution is clear and colorless with no particles visible
 
-One 10mL Vial
+For subcutaneous injection only
 
-sanofi aventis
+Use with U-100 syringe only
+
+SANOFI
 
 PRINCIPAL DISPLAY PANEL - 3 mL Cartridge
 
@@ -112,7 +88,7 @@ OptiClik®
 
 sanofi aventis
 
-PRINCIPAL DISPLAY PANEL - LantusSoloStar 3mL-5 Count Label
+PRINCIPAL DISPLAY PANEL - 3 mL 5 count Label
 
 Lot
 
@@ -120,16 +96,20 @@ Exp
 
 NDC 0088-2219-05
 
-Lantus® SoloStar® insulin glargine (rDNA origin) injection 100 units/mL (U-100) Rx ONLY
+Lantus® SoloStar® insulin glargine (rDNA origin) injection
 
-Do Not Mix with Other Insulins For subcutaneous injection Only Use within 28 days after opening 3 mL Prefilled Pen sanofi-aventis U.S. LLC Origin Germany 50093040 sanofi aventis <MAT>500907
+100 units/mL (U-100) 3 mL Prefilled Pen
 
-PRINCIPAL DISPLAY PANEL - LantusSoloStar 3mL-5 Count Carton
+Do not mix with other insulins For subcutaneous injection only Use within 28 days after initial use sanofi-aventis U.S. LLC, Bridgewater, NJ 08807 Rx ONLY Origin Germany 50098301
 
-NDC 0088-2219-05 Rx ONLY
+<MAT>512750 SANOFI
 
-Lantus® SoloStar® insulin glargine (rDNA origin) injection 100 units/mL (U-100)
+PRINCIPAL DISPLAY PANEL - 3 mL 5 count Carton
 
-Solution for injection in a disposable insulin delivery device Do not mix with other insulins For subcutaneous injection only Use only if solution is clear and colorless with no particles visible Use within 28 days after opening *Needles not included (see back panel) Five 3 mL Prefilled Pens
+NDC 0088-2219-05 Lantus® SoloStar® insulin glargine (rDNA origin) injection 100 units/mL (U-100) Five 3 mL Prefilled Pens
 
-sanofi aventis
+Rx ONLY For single patient use only
+
+Solution for injection in a disposable insulin delivery device Do not mix with other insulins For subcutaneous injection only Use only if solution is clear and colorless with no particles visible Use within 28 days after initial use *Needles not included (see back panel)
+
+SANOFI

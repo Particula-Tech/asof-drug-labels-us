@@ -354,8 +354,7 @@ How should I store LANTUS?
   If a vial has been frozen or overheated, throw it away.
 - Open (In-Use) vial:Once a vial is opened, you can keep it in a refrigerator or at room temperature (below 86°F [30°C]) but away from direct heat and light.
   Opened vial, either kept in a refrigerator or at room temperature, should be discarded 28 days after the first use even if it still contains LANTUS.
-  Do not leave your insulin in a car on a summer day.
-  These storage conditions are summarized in the following table: Not in-use (unopened)Not in-use (unopened) In-use (opened) RefrigeratedRoom Temperature(See Temperature Below)10 mL VialUntil expiration date28 days28 days Refrigerated or room temperature
+  Do not leave your insulin in a car on a summer day.These storage conditions are summarized in the following table: Not in-use (unopened)Not in-use (unopened) In-use (opened) RefrigeratedRoom Temperature(See Temperature Below)10 mL VialUntil expiration date28 days28 days Refrigerated or room temperature
 - Do not use a vial of LANTUS after the expiration date stamped on the label.
 - Do not use LANTUS if it is cloudy, colored, or if you see particles.
 

@@ -5,7 +5,9 @@ sanofi-aventis U.S. LLC
 
 Bridgewater, NJ 08807
 
-©2010 sanofi-aventis U.S. LLC
+A SANOFI COMANY
+
+©2012 sanofi-aventis U.S. LLC
 
 Patient Information LANTUS® 3 mL cartridge system (300 units per cartridge system) 100 units per mL (U-100) (insulin glargine [recombinant DNA origin] injection)
 
@@ -1206,18 +1208,21 @@ If you do not follow these instructions you may get too much or too little insul
 SoloStar® is a disposable pen for the injection of insulin.
 Each SoloStar® contains in total 300 units of insulin.
 You can set doses from 1 to 80 units in steps of 1 unit.
+The pen plunger moves with each dose.
+The plunger will only move to the end of the cartridge when 300 units of insulin have been given.
 
 Keep this leaflet for future reference.
 
-If you have any questions about Solostar® or about diabetes, ask your healthcare professional, go to www.lantus.com or call sanofi aventis at 1-800-633-1610.
+If you have any questions about SoloStar® or about diabetes, ask your healthcare professional, go to www.lantus.com or call sanofi-aventis at 1-800-633-1610.
 
 Important information for use of SoloStar®:
 
 - Always attach a new needle before each use.
   BD Ultra-Fine needles are compatible with SoloStar®.
-  These are sold separately and manufactured by BD.
+  These are sold separately and are manufactured by BD.
   Contact your healthcare professional for further information.
 - Always perform the safety test before each injection.
+- Do not select a dose or press the injection button without a needle attached.
 - This pen is only for your use.
   Do not share it with anyone else.
 - If your injection is given by another person, special caution must be taken by this person to avoid accidental needle injury and transmission of infection.
@@ -1287,7 +1292,7 @@ This helps prevent contamination, and potential needle blocks.
 Step 3.
 Perform a Safety test
 
-Always perform the Safety test before each injection.
+Always perform the safety test before each injection.
 Performing the safety test ensures that you get an accurate dose by:
 
 - ensuring that pen and needle work properly
@@ -1354,10 +1359,10 @@ This helps prevent:
   If you are giving an injection to a third person, you should remove the needle in an approved manner to avoid needle-stick injuries.
 - C.Always put the pen cap back on the pen, then store the pen until your next injection.
 
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 Country of Origin: Germany
 
-Date of revision: March 2007
+Date of revision: May 2013
 
-©2007 sanofi-aventis U.S. LLC
+©2013 sanofi-aventis U.S. LLC
