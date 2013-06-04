@@ -9,8 +9,8 @@ CLOZAPINE IS NOT APPROVED FOR THE TREATMENT OF PATIENTS WITH DEMENTIA-RELATED PS
 
 ### AGRANULOCYTOSIS
 
-BECAUSE OF THE SIGNIFICANT RISK OF AGRANULOCYTOSIS A POTENTIALLY LIFE THREATENING ADVERSE EVENT (SEE FOLLOWING), CLOZAPINE SHOULD BE RESERVED FOR USE IN THE FOLLOWING INDICATIONS: 1) FOR TREATMENT OF SEVERELY ILL SCHIZOPHRENIC PATIENTS WHO FAIL TO SHOW AN ACCEPTABLE RESPONSE TO ADEQUATE COURSES OF STANDARD DRUG TREATMENT FOR SCHIZOPHRENIA, EITHER BECAUSE OF INSUFFICIENT EFFECTIVENESS OR THE INABILITY TO ACHIEVE AN EFFECTIVE DOSE DUE TO INTOLERABLE ADVERSE EFFECTS FROM THOSE DRUGS.
-CONSEQUENTLY, BEFORE INITIATING TREATMENT, WITH CLOZAPINE; IT IS STRONGLY RECOMMENDED THAT A PATIENT BE GIVEN AT LEAST TWO TRIALS, EACH WITH A DIFFERENT STANDARD DRUG PRODUCT FOR SCHIZOPHRENIA, AT AN ADEQUATE DOSE, AND FOR AN ADEQUATE DURATION.
+BECAUSE OF THE SIGNIFICANT RISK OF AGRANULOCYTOSIS, A POTENTIALLY LIFE THREATENING ADVERSE EVENT (SEE FOLLOWING), CLOZAPINE SHOULD BE RESERVED FOR USE IN THE FOLLOWING INDICATIONS: 1) FOR TREATMENT OF SEVERELY ILL SCHIZOPHRENIC PATIENTS WHO FAIL TO SHOW AN ACCEPTABLE RESPONSE TO ADEQUATE COURSES OF STANDARD DRUG TREATMENT FOR SCHIZOPHRENIA, EITHER BECAUSE OF INSUFFICIENT EFFECTIVENESS OR THE INABILITY TO ACHIEVE AN EFFECTIVE DOSE DUE TO INTOLERABLE ADVERSE EFFECTS FROM THOSE DRUGS.
+CONSEQUENTLY, BEFORE INITIATING TREATMENT WITH CLOZAPINE; IT IS STRONGLY RECOMMENDED THAT A PATIENT BE GIVEN AT LEAST TWO TRIALS, EACH WITH A DIFFERENT STANDARD DRUG PRODUCT FOR SCHIZOPHRENIA, AT AN ADEQUATE DOSE, AND FOR AN ADEQUATE DURATION.
 2) FOR REDUCING THE RISK FOR RECURRENT SUICIDAL BEHAVIOR IN PATIENTS WITH SCHIZOPHRENIA OR SCHIZOAFFECTIVE DISORDER WHO ARE JUDGED TO BE AT RISK OF REEXPERIENCING SUICIDAL BEHAVIOR.
 
 CLOZAPINE IS AVAILABLE ONLY THROUGH A DISTRIBUTION SYSTEM THAT ENSURES MONITORING OF WHITE BLOOD CELL (WBC) COUNT AND ABSOLUTE NEUTROPHIL COUNT (ANC) ACCORDING TO THE SCHEDULE DESCRIBED BELOW PRIOR TO DELIVERY OF THE NEXT SUPPLY OF MEDICATION.
@@ -52,7 +52,7 @@ Agranulocytosis associated with other antipsychotic drugs has been reported to o
 Table 1 provides a summary of the frequency of monitoring that should occur based on various stages of therapy (e.g., initiation of therapy) or results from WBC count and ANC monitoring tests (e.g., moderate leukopenia).
 The text that follows should be consulted for additional details regarding the treatment of patients under the various conditions (e.g., severe leukopenia).
 
-Patients should be advised to report immediately the appearance of lethargy, weakness, fever, sore throat or any other signs of infection occurring at any time during clozapine therapy.
+Patients should be advised to report immediately the appearance of lethargy, weakness, fever, sore throat or any other signs of infection which may be indicative of neutropenia occurring at any time during clozapine therapy.
 Such patients should have a WBC count and ANC performed promptly.
 
 Table 1.
@@ -149,7 +149,7 @@ Caution should be exercised when clozapine is prescribed in patients with a hist
 Caution is also indicated when treating patients with cardiovascular disease or family history of long QT syndrome.
 
 Caution should be exercised when clozapine is used in combination with other medications known to prolong the QTc interval.
-These include certain antipsychotic medication (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), antiarrhythmic medication in Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) (see DRUG INTERACTIONS).
+These include antipsychotic medication (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), antiarrhythmic medication in Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) (see PRECAUTIONS: Drug Interactions).
 
 Hypokalemia, (which can result from diuretic therapy, diarrhea, and other causes), and/or hypomagnesemia can also increase the risk of QT prolongation.
 Use caution when treating patients at risk for significant electrolyte disturbance, particularly hypokalemia.
@@ -163,7 +163,7 @@ Patients taking clozapine who experience symptoms that could indicate the occurr
 
 Use caution when prescribing clozapine concomitantly with drugs that inhibit the metabolism of clozapine.
 Clozapine is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
-Use caution when prescribing clozapine in patients with reduced activity of 1A2, 2D6, and 3A4 (see DRUG INTERACTIONS AND CLINICAL PHARMACOLOGY).
+Use caution when prescribing clozapine in patients with reduced activity of 1A2, 2D6, and 3A4 (see PRECAUTIONS: Drug Interactions and CLINICAL PHARMACOLOGY).
 
 ## Other Adverse Cardiovascular and Respiratory Effects
 
@@ -183,11 +183,17 @@ Either tachycardia or hypotension may pose a serious risk for an individual with
 A minority of clozapine treated patients experience ECG repolarization changes similar to those seen with other antipsychotic drugs, including S-T segment depression and flattening or inversion of T waves, which all normalize after discontinuation of clozapine.
 The clinical significance of these changes is unclear.
 However, in clinical trials with clozapine, several patients experienced significant cardiac events, including ischemic changes, myocardial infarction, arrhythmias and sudden death.
-In addition, there have been post-marketing reports of congestive heart failure, pericarditis, and pericardial effusions.
+In addition, there have been post-marketing reports of congestive heart failure, pericarditis, pericardial effusions and myocardial infarction which may be fatal.
 Causality assessment was difficult in many of these cases because of serious preexisting cardiac disease and plausible alternative causes.
 Rare instances of sudden death have been reported in psychiatric patients, with or without associated antipsychotic drug treatment, and the relationship of these events to antipsychotic drug use is unknown.
 
 Clozapine should be used with caution in patients with known cardiovascular and/or pulmonary disease, and the recommendation for gradual titration of dose should be carefully observed.
+
+## Metabolic Changes
+
+Atypical antipsychotic drugs, including clozapine have been associated with metabolic changes that may increase cardiovascular/cerebrovascular risk.
+These metabolic changes may include hyperglycemia, dyslipidemia and body weight gain.
+While atypical antipsychotic drugs may produce some metabolic changes, each drug in the class has its own specific risk profile.
 
 ## Hyperglycemia and Diabetes Mellitus
 
@@ -202,6 +208,95 @@ Patients with risk factors for diabetes mellitus (e.g., obesity, family history 
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
+
+In a pooled data analysis of eight studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the clozapine and chlorpromazine groups were + 11 mg/dL and + 4 mg/dL respectively.
+A higher proportion of the clozapine group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 3).
+The clozapine doses were 100 to 900 mg/day (mean modal dose: 512 mg/day).
+The maximum chlorpromazine dose was 1800 mg/day (mean modal dose: 1029 mg/day).
+The median duration of exposure was 42 days for clozapine and chlorpromazine.
+
+Table 2.
+Categorical Changes in Fasting Glucose Level in Studies in Adult Subjects with Schizophrenia
+
+| Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
+| --- | --- | --- | --- | --- |
+| Fasting Glucose | Normal(< 100 mg/dL)toHigh (≥ 126 mg/dL) | Clozapine | 198 | 53 (27) |
+| Chlorpromazine | 135 | 14 (10) |  |  |
+| Borderline(100 to 125 mg/dL)toHigh (≥ 126 mg/dL) | Clozapine | 57 | 24 (42) |  |
+| Chlorpromazine | 43 | 12 (28) |  |  |
+
+## Dyslipidemia
+
+Undesirable alterations in lipids have occurred in patients treated with atypical antipsychotics, including clozapine.
+Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using clozapine is recommended.
+In a pooled data analysis of 10 studies in adult subjects with schizophrenia, clozapine treatment was associated with increases in serum total cholesterol.
+No data were collected on LDL and HDL cholesterol.
+The mean increase in total cholesterol was 13 mg/dL in the clozapine group and 15 mg/dL in the chlorpromazine group.
+In a pooled data analysis of two studies in adult subjects with schizophrenia, clozapine treatment was associated with increases in fasting serum triglyceride.
+The mean increase in fasting triglyceride was 71 mg/dL (54%) in the clozapine group and 39 mg/dL (35%) in the chlorpromazine group (Table 4).
+In addition, clozapine treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 5.The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
+The median duration of clozapine and chlorpromazine exposure was 45 days and 38 days, respectively.
+The clozapine dose range was 100 mg to 900 mg daily; the maximum chlorpromazine dose was 1800 mg daily.
+
+Table 3.
+Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in Adult Subjects with Schizophrenia
+
+| Treatment Arm | Baseline total cholesterol concentration (mg/dL) | Change from baseline mg/dL (%) |
+| --- | --- | --- |
+| Clozapine (N = 334) | 184 | + 13 (7) |
+| Chlorpromazine (185) | 182 | + 15 (8) |
+|  | Baseline triglyceride concentration (mg/dL) | Change from baseline mg/dL (%) |
+| Clozapine (N = 6) | 130 | + 71 (54) |
+| Chlorpromazine (N = 7) | 110 | + 39 (35) |
+
+Table 4.
+Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Schizophrenia
+
+| Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
+| --- | --- | --- | --- | --- |
+| Total Cholesterol (random or fasting) | Increase by≥ 40 mg/dL | Clozapine | 334 | 111 (33) |
+| Chlorpromazine | 185 | 46 (25) |  |  |
+| Normal (< 200 mg/dL)toHigh (≥ 240 mg/dL) | Clozapine | 222 | 18 (8) |  |
+| Chlorpromazine | 132 | 3 (2) |  |  |
+| Borderline (200 to 239 mg/dL)toHigh (≥ 240 mg/dL) | Clozapine | 79 | 30 (38) |  |
+| Chlorpromazine | 34 | 14 (41) |  |  |
+| Triglycerides (fasting) | Increase by≥ 50 mg/dL | Clozapine | 6 | 3 (50) |
+| Chlorpromazine | 7 | 3 (43) |  |  |
+| Normal (< 150 mg/dL)toHigh (≥ 200 mg/dL) | Clozapine | 4 | 0 (0) |  |
+| Chlorpromazine | 6 | 2 (33) |  |  |
+| Borderline(≥ 150 mg/dL and< 200 mg/dL) to High(≥ 200 mg/dL) | Clozapine | 1 | 1 (100) |  |
+| Chlorpromazine | 1 | 0 (0) |  |  |
+
+## Weight Gain
+
+Weight gain has occurred with the use of antipsychotics, including clozapine.
+Monitor weight during treatment with clozapine.
+Table 6 summarizes the data on weight gain by the duration of exposure pooled from 11 studies with clozapine and active comparators.
+The median duration of exposure was 609, 728 and 42 days, in the clozapine, olanzapine, and chlorpromazine group, respectively.
+
+Table 5.
+Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Subjects with Schizophrenia
+
+| Metabolic parameter | Exposure duration | Clozapine(N = 669) |  | Olanzapine(N = 442) |  | Chlorpromazine(N = 155) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| n | Mean | n | Mean | n | Mean |  |  |
+| Weight change from baseline | 2 weeks(Day 11 to 17) | 6 | 0.9 | 3 | 0.7 | 2 | -0.5 |
+| 4 weeks(Day 21 to 35) | 23 | 0.7 | 8 | 0.8 | 17 | 0.6 |  |
+| 8 weeks(Day 49 to 63) | 12 | 1.9 | 13 | 1.8 | 16 | 0.9 |  |
+| 12 weeks(Day 70 to 98) | 17 | 2.8 | 5 | 3.1 | 0 | 0 |  |
+| 24 weeks(Day 154 to 182) | 42 | -0.6 | 12 | 5.7 | 0 | 0 |  |
+| 48 weeks(Day 322 to 350) | 3 | 3.7 | 3 | 13.7 | 0 | 0 |  |
+
+Table 6 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥ 7% of body weight relative to baseline.
+The median duration of exposure was 609, 728 and 42 days, in the clozapine, olanzapine and chlorpromazine group, respectively.
+
+Table 6.
+Proportion of Adult Subjects in Schizophrenia Studies with Weight Gain ≥ 7% Relative to Baseline Body Weight
+
+| Weight change | Clozapine | Olanzapine | Chlorpromazine |
+| --- | --- | --- | --- |
+| N | 669 | 442 | 155 |
+| ≥ 7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
@@ -316,6 +411,10 @@ The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for dementia patients or other patients treated with clozapine.
 Clozapine should be used with caution in patients with dementia or risk factors for stroke.
 
+## Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation
+
+If abrupt discontinuation of clozapine is necessary (e.g., because of agranulocytosis, leucopenia or another medical condition), monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.
+
 ## Use in Patients with Concomitant Illness
 
 Clinical experience with clozapine in patients with concomitant systemic diseases is limited.
@@ -330,20 +429,20 @@ Check with the anesthesiologist regarding continuation of clozapine therapy in a
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe clozapine:
 
-- Patients who are to receive clozapine should be warned about the significant risk of developing agranulocytosis.
+- •Patients who are to receive clozapine should be warned about the significant risk of developing agranulocytosis.
   Patients should be advised to report immediately the appearance of lethargy, weakness, fever, sore throat, malaise, mucous membrane ulceration or other possible signs of infection.
   Particular attention should be paid to any flu-like complaints or other symptoms that might suggest infection.
-  - Patients should be informed that clozapine tablets will be made available only through a special program designed to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
+  - •Patients should be informed that clozapine tablets will be made available only through a special program designed to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
     Patients should be informed that their WBC count and ANC will be monitored as follows:
-    - Weekly blood tests are required for the first 6 months.
-    - If acceptable WBC counts and ANCs (WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
-    - Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.
-- Patients should be informed of the significant risk of seizure during clozapine treatment, and they should be advised to avoid driving and any other potentially hazardous activity while taking clozapine.
-- Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration.
-- Patients should be informed that if they miss taking clozapine for more than 2 days, they should not restart their medication at the same dosage, but should contact their physician for dosing instructions.
-- Patients should notify their physician if they are taking, or plan to take, any prescription or over-the-counter drugs or alcohol.
-- Patients should notify their physician if they become pregnant or intend to become pregnant during therapy.
-- Patients should not breast-feed an infant if they are taking clozapine.
+    - •Weekly blood tests are required for the first 6 months.
+    - •If acceptable WBC counts and ANCs (WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
+    - •Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.
+- •Patients should be informed of the significant risk of seizure during clozapine treatment, and they should be advised to avoid driving and any other potentially hazardous activity while taking clozapine.
+- •Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration.
+- •Patients should be informed that if they miss taking clozapine for more than 2 days, they should not restart their medication at the same dosage, but should contact their physician for dosing instructions.
+- •Patients should notify their physician if they are taking, or plan to take, any prescription or over-the-counter drugs or alcohol.
+- •Patients should notify their physician if they become pregnant or intend to become pregnant during therapy.
+- •Patients should not breast-feed an infant if they are taking clozapine.
 
 ## Drug Interactions
 
@@ -367,7 +466,7 @@ The administration of epinephrine should be avoided in the treatment of drug ind
 
 Treatment with clozapine, has been associated with QT interval prolongation and fatal arrhythmia.
 Clozapine should be used with caution when coadministered with medications known to prolong the QTc interval.
-Such medications include: Class 1A (e.g., quinidine, procainamide) and Class III (e.g., amiodarone, sotalol) antiarrrythmic medications, certain antipsychotic medications (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g. gatifloxacin, moxifloxacin, sparfloxacin), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol and tacrolimus).
+Such medications include: Class 1A (e.g., quinidine, procainamide), Class III (e.g., amiodarone, sotalol) antiarrrythmic medications, certain antipsychotic medications (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g. gatifloxacin, moxifloxacin, sparfloxacin), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol and tacrolimus).
 Use caution when coadministering clozapine with medications that can cause electrolyte imbalance (e.g., diuretics) (see WARNINGS).
 
 ### Pharmacokinetic-Related Interactions

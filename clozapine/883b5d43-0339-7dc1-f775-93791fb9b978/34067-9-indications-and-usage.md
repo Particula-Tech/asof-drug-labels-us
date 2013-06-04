@@ -6,8 +6,8 @@ Clozapine tablets are indicated for the management of severely ill schizophrenic
 Because of the significant risk of agranulocytosis and seizure associated with its use, clozapine tablets should be used only in patients who have failed to respond adequately to treatment with appropriate courses of standard drug treatments for schizophrenia, either because of insufficient effectiveness or the inability to achieve an effective dose due to intolerable adverse effects from those drugs.
 (See WARNINGS.)
 
-The effectiveness of clozapine in a treatment resistant schizophrenic population was demonstrated in a 6-week study comparing clozapine and chlorpromazine.
-Patients meeting DSM-III criteria for schizophrenia and having a mean BPRS total score of 61 were demonstrated to be treatment resistant by history and by open, prospective treatment with haloperidol before entering into the double-blind phase of the study.
+The effectiveness of clozapine in a treatment-resistant schizophrenic population was demonstrated in a 6-week study comparing clozapine and chlorpromazine.
+Patients meeting DSM-III criteria for schizophrenia and having a mean BPRS total score of 61 were demonstrated to be treatment-resistant by history and by open, prospective treatment with haloperidol before entering into the double-blind phase of the study.
 The superiority of clozapine tablets to chlorpromazine was documented in statistical analyses employing both categorical and continuous measures of treatment effect.
 
 Because of the significant risk of agranulocytosis and seizure, events which both present a continuing risk over time, the extended treatment of patients failing to show an acceptable level of clinical response should ordinarily be avoided.

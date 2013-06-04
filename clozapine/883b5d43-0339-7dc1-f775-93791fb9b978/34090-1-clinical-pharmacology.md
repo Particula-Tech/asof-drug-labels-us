@@ -41,15 +41,14 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 
 ## Clinical Trial Data (Reducing the Risk of Recurrent Suicidal Behavior in Patients with Schizophrenia or Schizoaffective Disorder Who are Judged to be at Risk of Reexperiencing Suicidal Behavior)
 
-The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was assessed in the International Suicide Prevention Trial (InterSePT™), which was a prospective, randomized, international, parallel-group comparison of clozapine vs. Zyprexa®Zyprexa® (olanzapine) is a registered trademark of Eli Lilly and Company.
-(olanzapine) in patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for reexperiencing suicidal behavior.
+The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was assessed in the International Suicide Prevention Trial (InterSePT™), which was a prospective, randomized, international, parallel-group comparison of clozapine vs. Zyprexa®* (olanzapine) in patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for reexperiencing suicidal behavior.
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment, and the remainder were not.
 Patients met one of the following criteria:
 
-- They had attempted suicide within the 3 years prior to their baseline evaluation.
-- They had been hospitalized to prevent a suicide attempt within the 3 years prior to their baseline evaluation.
-- They demonstrated moderate-to-severe suicidal ideation with a depressive component within one week prior to their baseline evaluation.
-- They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
+- •They had attempted suicide within the 3 years prior to their baseline evaluation.
+- •They had been hospitalized to prevent a suicide attempt within the 3 years prior to their baseline evaluation.
+- •They demonstrated moderate-to-severe suicidal ideation with a depressive component within one week prior to their baseline evaluation.
+- •They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
 
 Dosing regimens for each treatment group were determined by individual investigators and were individualized by patient.
 Dosing was flexible, with a dose range of 200 to 900 mg/day for clozapine and 5 to 20 mg/day for Zyprexa.
@@ -61,7 +60,7 @@ A determination of whether or not a reported event met criterion 1 or 2 above wa
 
 A total of 980 patients were randomized to the study and 956 received study medication.
 Sixty-two percent of the patients were diagnosed with schizophrenia, and the remainder (38%) were diagnosed with schizoaffective disorder.
-Only about one-fourth of the total patient population (27%) was identified as “treatment resistant” at baseline.
+Only about one-fourth of the total patient population (27%) was identified as “treatment-resistant” at baseline.
 There were more males than females in the study (61% of all patients were male).
 The mean age of patients entering the study was 37 years (range 18 to 69).
 Most patients were Caucasian (71%), 15% were Black, 1% were Oriental, and 13% were classified as being of “other” races.

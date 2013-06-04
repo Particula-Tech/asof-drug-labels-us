@@ -92,7 +92,7 @@ Treatment-Emergent Adverse Experience Incidence Among Patients Taking Clozapine 
 | Muscle pain, ache | 1 |
 | Respiratory |  |
 | Throat discomfort | 1 |
-| Dyspnea, shortness of breath | 1 |
+| Dyspnea, Shortness of breath | 1 |
 | Nasal congestion | 1 |
 | Hemic/Lymphatic |  |
 | Leukopenia/Decreased WBC/Neutropenia | 3 |
@@ -152,22 +152,18 @@ Miscellaneous: chills/chills with fever, malaise, appetite increase, ear disorde
 
 ## Post-Marketing Clinical Experience
 
-Post-marketing experience has shown an adverse experience profile similar to that presented above.
-Voluntary reports of adverse events temporally associated with clozapine not mentioned above that have been received since market introduction and that may have no causal relationship with the drug include the following:
+The following adverse reactions have been identified during post-approval use of clozapine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central Nervous System: delirium; EEG abnormal; exacerbation of psychosis; myoclonus; overdose; paresthesia; possible mild cataplexy; status epilepticus; and obsessive compulsive symptoms.
+Central Nervous System: delirium, cholinergic syndrome, EEG abnormal; exacerbation of psychosis, myoclonus, overdose, paresthesia, possible mild cataplexy, status epilepticus and obsessive compulsive symptoms.
 
-Cardiovascular System: atrial or ventricular fibrillation and periorbital edema.
+Cardiovascular System: atrial or ventricular fibrillation, myocardial infarction, ventricular tachycardia, cardiac arrest, QT interval prolongation, Torsades de Pointes, and periorbital edema.
 
-- Ventricular tachycardia, cardiac arrest, QT prolongation, and Torsades de pointes.
+Gastrointestinal System: acute pancreatitis, dysphagia, fecal impaction, intestinal obstruction/paralytic ileus and salivary gland swelling.
 
-Gastrointestinal System: acute pancreatitis; dysphagia; fecal impaction; intestinal obstruction/paralytic ileus; and salivary gland swelling.
+Hepatobiliary System: cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 
-Hepatobiliary System: cholestasis; hepatitis; and jaundice.
-
-Hepatic System: cholestasis.
-
-Urogenital System: acute interstitial nephritis and priapism.
+Urogenital System: acute interstitial nephritis, priapism and renal failure.
 
 Integumentary (Skin): hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
 
@@ -175,7 +171,7 @@ Metabolic and Nutritional Disorders: hypercholesterolemia, hypertriglyceridemia 
 
 Musculoskeletal System: myasthenic syndrome and rhabdomyolysis.
 
-Respiratory System: aspiration, pleural effusion and pneumonia and lower respiratory tract infection which may be fatal.
+Respiratory System: aspiration, pleural effusion, pneumonia and lower respiratory tract infection which may be fatal.
 
 Hemic and Lymphatic System: deep vein thrombosis; elevated hemoglobin/hematocrit; ESR increased; pulmonary embolism; sepsis; thrombocytosis; and thrombocytopenia.
 

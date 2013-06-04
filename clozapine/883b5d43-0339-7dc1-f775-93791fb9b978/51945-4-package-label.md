@@ -4,10 +4,9 @@ NDC 0378-0825-01
 
 Clozapine Tablets, USP 25 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Clozapine, USP......
-25 mg
+Each tablet contains: Clozapine, USP 25 mg
 
 Usual Adult Dosage: See accompanying prescribing information.
 
@@ -27,7 +26,7 @@ Dispensing should be contingent upon the WBC count and ANC test results.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0825A7
+RM0825A8
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -35,10 +34,9 @@ NDC 0378-0972-01
 
 Clozapine Tablets, USP 50 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Clozapine, USP......
-50 mg
+Each tablet contains: Clozapine, USP 50 mg
 
 Usual Adult Dosage: See accompanying prescribing information.
 
@@ -58,7 +56,7 @@ Dispensing should be contingent upon the WBC count and ANC test results.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0972A1
+RM0972A2
 
 PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -66,10 +64,9 @@ NDC 0378-0860-01
 
 Clozapine Tablets, USP 100 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Clozapine, USP......
-100 mg
+Each tablet contains: Clozapine, USP 100 mg
 
 Usual Adult Dosage: See accompanying prescribing information.
 
@@ -89,7 +86,7 @@ Dispensing should be contingent upon the WBC count and ANC test results.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0860A7
+RM0860A8
 
 PRINCIPAL DISPLAY PANEL - 200 mg
 
@@ -97,10 +94,9 @@ NDC 0378-0973-01
 
 Clozapine Tablets, USP 200 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Clozapine, USP......
-200 mg
+Each tablet contains: Clozapine, USP 200 mg
 
 Usual Adult Dosage: See accompanying prescribing information.
 
@@ -120,4 +116,4 @@ Dispensing should be contingent upon the WBC count and ANC test results.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0973A1
+RM0973A2

@@ -1,12 +1,18 @@
 # DOSAGE AND ADMINISTRATION
 
+## Switching from a Previous Antipsychotic Therapy to Clozapine
+
+It is generally recommended that clozapine tablets should not be used in combination with other antipsychotics.
+When clozapine tablet therapy is to be initiated in a patient undergoing oral antipsychotic therapy, it is recommended that the dosage of other antipsychotics be reduced or discontinued by gradually tapering it downwards.
+Based on the clinical circumstances, the prescribing physician should judge whether or not to discontinue the other antipsychotic therapy before initiating treatment with clozapine tablets.
+
 ## Treatment-Resistant Schizophrenia
 
 Upon initiation of clozapine tablet therapy, up to a one week supply of additional clozapine tablets may be provided to the patient to be held for emergencies (e.g., weather, holidays).
 
 ### Initial Treatment
 
-It is recommended that treatment with clozapine begin with one-half of a 25 mg tablet (12.5 mg) once or twice daily and then be continued with daily dosage increments of 25 to 50 mg/day, if well tolerated, to achieve a target dose of 300 to 450 mg/day by the end of 2 weeks.
+It is recommended that treatment with clozapine tablets begin with one-half of a 25 mg tablet (12.5 mg) once or twice daily and then be continued with daily dosage increments of 25 to 50 mg/day, if well tolerated, to achieve a target dose of 300 to 450 mg/day by the end of 2 weeks.
 Subsequent dosage increments should be made no more than once or twice weekly, in increments not to exceed 100 mg.
 Cautious titration and a divided dosage schedule are necessary to minimize the risks of hypotension, seizure, and sedation.
 
@@ -16,7 +22,7 @@ In the multicenter study that provides primary support for the effectiveness of 
 
 Daily dosing should continue on a divided basis as an effective and tolerable dose level is sought.
 While many patients may respond adequately at doses between 300 to 600 mg/day, it may be necessary to raise the dose to the 600 to 900 mg/day range to obtain an acceptable response.
-(Note: In the multicenter study providing the primary support for the superiority of clozapine tablets in treatment resistant patients, the mean and median clozapine tablet doses were both approximately 600 mg/day.)
+(Note: In the multicenter study providing the primary support for the superiority of clozapine tablets in treatment-resistant patients, the mean and median clozapine tablet doses were both approximately 600 mg/day.)
 
 Because of the possibility of increased adverse reactions at higher doses, particularly seizures, patients should ordinarily be given adequate time to respond to a given dose level before escalation to a higher dose is contemplated.
 Clozapine tablets can cause EEG changes, including the occurrence of spike and wave complexes.
@@ -37,7 +43,7 @@ Because of the significant risk associated with the use of clozapine tablets, pa
 ### Discontinuation of Treatment
 
 In the event of planned termination of clozapine tablet therapy, gradual reduction in dose is recommended over a 1 to 2 week period.
-However, should a patient’s medical condition require abrupt discontinuation (e.g., leukopenia), the patient should be carefully observed for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as headache, nausea, vomiting, and diarrhea.
+However, should a patient’s medical condition require abrupt discontinuation (e.g., leukopenia), the patient should be carefully observed for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as headache, nausea, vomiting, and diarrhea (see PRECAUTIONS).
 
 ### Reinitiation of Treatment in Patients Previously Discontinued
 
