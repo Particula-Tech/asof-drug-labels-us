@@ -5,9 +5,11 @@
   "inn": "amiodarone",
   "labeler": "Mylan Institutional LLC",
   "package_ndcs": [
+    "67457-153-00",
     "67457-153-03",
     "67457-153-09",
-    "67457-153-18"
+    "67457-153-18",
+    "67457-153-99"
   ],
   "products": [
     {
