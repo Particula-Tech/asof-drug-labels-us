@@ -4,7 +4,7 @@ See FDA-approved patient labeling (Medication Guide)
 
 Patient Counseling
 
-Patients and parents or guardians of minors with SJIA should be advised of the potential benefits and risks of ACTEMRA.
+Patients and parents or guardians of minors with PJIA or SJIA should be advised of the potential benefits and risks of ACTEMRA.
 Physicians should instruct their patients to read the Medication Guide before starting ACTEMRA therapy.
 
 - Infections: Inform patients that ACTEMRA may lower their resistance to infections.

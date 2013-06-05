@@ -23,7 +23,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of ACTEMRA in pediatric patients with conditions other than SJIA have not been established.
+Safety and effectiveness of ACTEMRA in pediatric patients with conditions other than PJIA or SJIA have not been established.
 Children under the age of two have not been studied.
 Testing of a murine analogue of tocilizumab did not exert toxicity in juvenile mice.
 In particular, there was no impairment of skeletal growth, immune function and sexual maturation.

@@ -4,6 +4,10 @@
 
 ACTEMRA® (tocilizumab) is indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs).
 
-## 1.2 Systemic Juvenile Idiopathic Arthritis (SJIA)
+## 1.2 Polyarticular Juvenile Idiopathic Arthritis (PJIA)
+
+ACTEMRA® (tocilizumab) is indicated for the treatment of active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older.
+
+## 1.3 Systemic Juvenile Idiopathic Arthritis (SJIA)
 
 ACTEMRA® (tocilizumab) is indicated for the treatment of active systemic juvenile idiopathic arthritis in patients 2 years of age and older.

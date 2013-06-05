@@ -17,7 +17,7 @@ The risks and benefits of treatment should be considered prior to initiating ACT
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
 
-Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.3), Adverse Reactions (6.1), and Patient Counseling Information (17)].
+Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.4), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
 ACTEMRA should be interrupted if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with ACTEMRA should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
@@ -58,7 +58,7 @@ Infections have been uncommonly reported in association with treatment-related n
 - –It is not recommended to initiate ACTEMRA treatment in patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
   In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
 - – Neutrophils should be monitored every 4 to 8 weeks [see Clinical Pharmacology (12.2)].
-  For recommended modifications based on ANC results see Dosage and Administration (2.4).
+  For recommended modifications based on ANC results see [Dosage and Administration (2.5)].
 
 Platelets
 
@@ -68,7 +68,7 @@ Treatment-related reduction in platelets was not associated with serious bleedin
 - –It is not recommended to initiate ACTEMRA treatment in patients with a platelet count below 100,000 per mm3.
   In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
 - –Platelets should be monitored every 4 to 8 weeks.
-  For recommended modifications based on platelet counts see Dosage and Administration (2.4).
+  For recommended modifications based on platelet counts see [Dosage and Administration (2.5)].
 
 Liver Function Tests
 
@@ -84,7 +84,7 @@ Elevations resolved when MTX and ACTEMRA were discontinued.
   In patients who develop elevated ALT or AST greater than 5x ULN treatment is not recommended.
 - –ALT and AST levels should be monitored every 4 to 8 weeks.
   When clinically indicated, other liver function tests such as bilirubin should be considered.
-  For recommended modifications based on transaminases see Dosage and Administration (2.4).
+  For recommended modifications based on transaminases see [Dosage and Administration (2.5)].
 
 Lipids
 
@@ -93,11 +93,11 @@ Treatment with ACTEMRA was associated with increases in lipid parameters such as
 - –Assessment of lipid parameters should be performed approximately 4 to 8 weeks following initiation of ACTEMRA therapy, then at approximately 24 week intervals.
 - –Patients should be managed according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
-Systemic Juvenile Idiopathic Arthritis
+Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
-A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with ACTEMRA treatment in the SJIA population.
-Neutrophils, Platelets, ALT and AST should be monitored at the time of the second infusion and thereafter every 2 to 4 weeks.
-Lipids should be monitored as above for RA [see Dosage and Administration (2.3)].
+A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with ACTEMRA treatment in the PJIA and SJIA populations.
+Neutrophils, Platelets, ALT and AST should be monitored at the time of the second infusion and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
+Lipids should be monitored as above for RA [see Dosage and Administration (2.4)].
 
 ## 5.4 Immunosuppression
 
@@ -106,7 +106,7 @@ ACTEMRA is an immunosuppressant, and treatment with immunosuppressants may resul
 
 ## 5.5 Hypersensitivity Reactions, Including Anaphylaxis
 
-Hypersensitivity reactions, including anaphylaxis and death, have been reported in association with infusion of ACTEMRA [see Adverse Reactions (6.1)].
+Hypersensitivity reactions, including anaphylaxis and death, have been reported in association with infusion of ACTEMRA [see Adverse Reactions (6.1, 6.2)].
 Anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials, and in 0.2% (8 out of 4009) of patients in the all-exposure rheumatoid arthritis population; and in the SJIA controlled trial, 1 out of 112 patients (0.9%).
 In the postmarketing setting, events of clinically significant hypersensitivity and anaphylaxis, including events with a fatal outcome, have occurred in patients treated with a range of doses of ACTEMRA, with or without concomitant arthritis therapies.
 Events have occurred in patients who received premedication.
@@ -130,5 +130,5 @@ Treatment with ACTEMRA is not recommended in patients with active hepatic diseas
 Live vaccines should not be given concurrently with ACTEMRA as clinical safety has not been established.
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving ACTEMRA.
 No data are available on the effectiveness of vaccination in patients receiving ACTEMRA.
-Because IL-6 inhibition may interfere with the normal immune response to new antigens, it is recommended that all patients, particularly systemic juvenile idiopathic arthritis patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating ACTEMRA therapy.
+Because IL-6 inhibition may interfere with the normal immune response to new antigens, it is recommended that all patients, particularly PJIA and SJIA patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating ACTEMRA therapy.
 The interval between live vaccinations and initiation of ACTEMRA therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.

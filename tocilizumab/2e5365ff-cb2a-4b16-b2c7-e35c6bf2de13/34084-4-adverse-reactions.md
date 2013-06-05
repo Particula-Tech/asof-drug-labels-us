@@ -1,8 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
-
 ## 6.1 Clinical Trials Experience
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
 
 Rheumatoid Arthritis
 
@@ -79,7 +79,7 @@ In the all-exposure population, the pattern and incidence of decreases in platel
 Liver Function Tests
 
 Liver enzyme abnormalities are summarized in Table 1.
-In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA, or reduction in ACTEMRA dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.4)].
+In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA, or reduction in ACTEMRA dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.5)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3)].
 
 Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
@@ -174,6 +174,53 @@ Eye disorders: conjunctivitis
 Renal disorders: nephrolithiasis
 
 Endocrine disorders: hypothyroidism
+
+Polyarticular Juvenile Idiopathic Arthritis
+
+The safety of ACTEMRA was studied in 188 pediatric patients 2 to 17 years of age with PJIA who had an inadequate clinical response or were intolerant to methotrexate.
+The total patient exposure in the ACTEMRA all exposure population (defined as patients who received at least one dose of ACTEMRA) was 184.4 patient years.
+At baseline, approximately half of the patients were taking oral corticosteroids and almost 80% were taking methotrexate.
+In general, the types of adverse drug reactions in patients with PJIA were consistent with those seen in RA and SJIA patients [see Adverse Reactions (6.1)].
+
+Infections
+
+The rate of infections in the ACTEMRA all exposure population was 163.7 per 100 patient years.
+The most common events observed were nasopharyngitis and upper respiratory tract infections.
+The rate of serious infections was numerically higher in patients weighing less than 30 kg treated with 10 mg/kg tocilizumab (12.2 per 100 patient years) compared to patients weighing at or above 30 kg, treated with 8 mg/kg tocilizumab (4.0 per 100 patient years).
+The incidence of infections leading to dose interruptions was also numerically higher in patients weighing less than 30 kg treated with 10 mg/kg tocilizumab (21%) compared to patients weighing at or above 30 kg, treated with 8 mg/kg tocilizumab (8%).
+
+Infusion Reactions
+
+In PJIA patients, infusion-related reactions are defined as all events occurring during or within 24 hours of an infusion.
+In the ACTEMRA all exposure population, 11 patients (6%) experienced an event during the infusion, and 38 patients (20.2%) experienced an event within 24 hours of an infusion.
+The most common events occurring during infusion were headache, nausea and hypotension, and occurring within 24 hours of infusion were dizziness and hypotension.
+In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and SJIA patients [see Adverse Reactions (6.1)].
+
+No clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported.
+
+Immunogenicity
+
+One patient, in the 10 mg/kg less than 30 kg group, developed positive anti-tocilizumab antibodies without developing a hypersensitivity reaction and subsequently withdrew from the study.
+
+Laboratory Tests
+
+Neutrophils
+
+During routine laboratory monitoring in the ACTEMRA all exposure population, a decrease in neutrophil counts below 1 × 109 per L occurred in 3.7% of patients.
+
+There was no clear relationship between decreases in neutrophils below 1 × 109 per L and the occurrence of serious infections.
+
+Platelets
+
+During routine laboratory monitoring in the ACTEMRA all exposure population, 1% of patients had a decrease in platelet count at or less than 50 × 103 per mcL without associated bleeding events.
+
+Liver Function Tests
+
+During routine laboratory monitoring in the ACTEMRA all exposure population, elevation in ALT or AST at or greater than 3 x ULN occurred in 4% and less than 1% of patients, respectively
+
+Lipids
+
+During routine laboratory monitoring in the tocilizumab all exposure population, elevation in total cholesterol greater than 1.5-2 x ULN occurred in one patient (0.5%) and elevation in LDL greater than 1.5-2 x ULN occurred in one patient (0.5%).
 
 Systemic Juvenile Idiopathic Arthritis
 

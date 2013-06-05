@@ -34,7 +34,8 @@ Before starting ACTEMRA, tell your healthcare provider if you:
   - warm, red, or painful skin or sores on your body
   - diarrhea or stomach pain
   - burning when you urinate or urinating more often than normal
-- feel very tired are being treated for an infection
+  - feel very tired
+- are being treated for an infection
 - get a lot of infections or have infections that keep coming back
 - have diabetes, HIV, or a weak immune system.
   People with these conditions have a higher chance for infections.
@@ -57,7 +58,7 @@ ACTEMRA can make you more likely to get infections or make worse any infection t
 
 - 3.Changes in certain laboratory test results.
 
-Your healthcare provider should do blood tests before you start receiving ACTEMRA and every 4 to 8 weeks for rheumatoid arthritis and every 2 to 4 weeks for SJIA during treatment to check for the following side effects of ACTEMRA:
+Your healthcare provider should do blood tests before you start receiving ACTEMRA and every 4 to 8 weeks for rheumatoid arthritis (RA) and Polyarticular Juvenile Idiopathic Arthritis (PJIA) and every 2 to 4 weeks for Systemic Juvenile Idiopathic Arthritis (SJIA) during treatment to check for the following side effects of ACTEMRA:
 
 - 
   - low neutrophil count.
@@ -80,14 +81,14 @@ See "What are the possible side effects with ACTEMRA?" for more information abou
 
 What is ACTEMRA?
 
-ACTEMRA is a prescription medicine called an Interleukin-6 (IL-6) receptor inhibitor.
+ACTEMRA is a prescription medicine called an Interleukin-6 (IL-6) receptor antagonist.
 ACTEMRA is used to treat:
 
 - 
   - Adults with moderately to severely active rheumatoid arthritis (RA) after at least one other medicine called a Disease Modifying Anti-Rheumatic Drug (DMARD) has been used and did not work well.
-  - People with active systemic juvenile idiopathic arthritis (SJIA) ages 2 and above.
+  - People with active polyarticular juvenile idiopathic arthritis (PJIA) and systemic juvenile idiopathic arthritis (SJIA) ages 2 and above.
 
-It is not known if ACTEMRA is safe and effective in children with SJIA under 2 years of age or in children with conditions other than SJIA.
+It is not known if ACTEMRA is safe and effective in children with PJIA or SJIA under 2 years of age or in children with conditions other than PJIA or SJIA.
 
 Who should not take ACTEMRA?
 
@@ -139,9 +140,10 @@ How will I receive ACTEMRA?
 - You will receive ACTEMRA from a healthcare provider through a needle placed in a vein in your arm (IV or intravenous infusion).
   The infusion will take about 1 hour to give you the full dose of medicine.
 - For rheumatoid arthritis you will receive a dose of ACTEMRA about every 4 weeks.
+- For PJIA you will receive a dose of ACTEMRA about every 4 weeks.
 - For SJIA you will receive a dose of ACTEMRA about every 2 weeks.
 - If you miss a scheduled dose of ACTEMRA, ask your healthcare provider when to schedule your next infusion.
-- While taking ACTEMRA, you may continue to use other medicines that help treat your rheumatoid arthritis or SJIA such as methotrexate, non-steroidal anti-inflammatory drugs (NSAIDs) and prescription steroids, as instructed by your healthcare provider.
+- While taking ACTEMRA, you may continue to use other medicines that help treat your rheumatoid arthritis, PJIA or SJIA such as methotrexate, non-steroidal anti-inflammatory drugs (NSAIDs) and prescription steroids, as instructed by your healthcare provider.
 - Keep all of your follow-up appointments and get your blood tests as ordered by your healthcare provider.
 
 What are the possible side effects with ACTEMRA?
@@ -212,12 +214,12 @@ Inactive ingredients: sucrose, polysorbate 80, disodium phosphate dodecahydrate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-MG Revised: October 2012
+MG Revised: April 2013
 
 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 US License No. 1048
 
-© 2012 Genentech, Inc. All rights reserved.
+© 2013Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
