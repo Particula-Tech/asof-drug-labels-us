@@ -1,19 +1,32 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+Click here to enter Clinical Pharmacology
 
-Pramipexole is a nonergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D2 subfamily of dopamine receptors, binding with higher affinity to D3 than to D2 or D4 receptor subtypes.
+## 12.1 Mechanism of Action
 
-### Parkinson’s disease:
+Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D2 subfamily of dopamine receptors, binding with higher affinity to D3 than to D2 or D4 receptor subtypes.
 
-The precise mechanism of action of pramipexole as a treatment for Parkinson’s disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum.
+### Parkinson’s Disease
+
+The precise mechanism of action of pramipexole as a treatment for Parkinson's disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum.
 This conclusion is supported by electrophysiologic studies in animals that have demonstrated that pramipexole influences striatal neuronal firing rates via activation of dopamine receptors in the striatum and the substantia nigra, the site of neurons that send projections to the striatum.
 The relevance of D3 receptor binding in Parkinson’s disease is unknown.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
+
+The effect of pramipexole on the QT interval of the ECG was investigated in a clinical study in 60 healthy male and female volunteers.
+All subjects initiated treatment with 0.375 mg extended release pramipexole tablets administered once daily, and were up-titrated every 3 days to 2.25 mg and 4.5 mg daily.
+No dose- or exposure-related effect on mean QT intervals was observed; however the study did not have a valid assessment of assay sensitivity.
+The effect of pramipexole on QTc intervals at higher exposures achieved either due to drug interactions (e.g., with cimetidine), renal impairment, or at higher doses has not been systematically evaluated.
+
+Although mean values remained within normal reference ranges throughout the study, supine systolic blood pressure (SBP), diastolic blood pressure (DBP), and pulse rate for subjects treated with pramipexole generally increased during the rapid up-titration phase, by 10 mmHg, 7 mmHg, and 10 bpm higher than placebo, respectively.
+Higher SBP, DBP, and pulse rates compared to placebo were maintained until the pramipexole doses were tapered; values on the last day of tapering were generally similar to baseline values.
+Such effects have not been observed in clinical studies with Parkinson’s disease patients, who were titrated according to labeled recommendations.
+
+## 12.3 Pharmacokinetics
 
 Pramipexole displays linear pharmacokinetics over the clinical dosage range.
-Its terminal half-life is about 8 hours in young healthy volunteers and about 12 hours in elderly volunteers (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations).
+Its terminal half-life is about 8 hours in young healthy volunteers and about 12 hours in elderly volunteers.
 Steady-state concentrations are achieved within 2 days of dosing.
 
 ### Absorption
@@ -24,54 +37,73 @@ Food does not affect the extent of pramipexole absorption, although the time of 
 
 ### Distribution
 
-Pramipexole is extensively distributed, having a volume of distribution of about 500 L (coefficient of variation [CV] = 20%).
+Pramipexole is extensively distributed, having a volume of distribution of about 500 L (coefficient of variation [CV]=20%).
 It is about 15% bound to plasma proteins.
 Pramipexole distributes into red blood cells as indicated by an erythrocyte-to-plasma ratio of approximately 2.
 
-### Metabolism and Elimination
+### Metabolism
 
-The terminal half-life of pramipexole is about 8 hours in healthy volunteers and 12 hours in elderly volunteers.
+Pramipexole is metabolized only to a negligible extent (<10%).
+No specific active metabolite has been identified in human plasma or urine.
+
+### Elimination
 
 Urinary excretion is the major route of pramipexole elimination, with 90% of a pramipexole dose recovered in urine, almost all as unchanged drug.
-Nonrenal routes may contribute to a small extent to pramipexole elimination, although no metabolites have been identified in plasma or urine.
 The renal clearance of pramipexole is approximately 400 mL/min (CV=25%), approximately three times higher than the glomerular filtration rate.
 Thus, pramipexole is secreted by the renal tubules, probably by the organic cation transport system.
 
-## Pharmacokinetics in Special Populations
+### Pharmacokinetics in Specific Populations
 
-Because therapy with pramipexole dihydrochloride tablets is initiated at a low dose and gradually titrated upward according to clinical tolerability to obtain the optimum therapeutic effect, adjustment of the initial dose based on gender, weight, or age is not necessary.
-However, renal insufficiency, which can cause a large decrease in the ability to eliminate pramipexole, may necessitate dosage adjustment (see CLINICAL PHARMACOLOGY, Renal Insufficiency).
+Because therapy with pramipexole dihydrochloride tablets is initiated at a low dose and gradually titrated upward according to clinical tolerability to obtain the optimum therapeutic effect, adjustment of the initial dose based on gender, weight, race, or age is not necessary.
+However, renal insufficiency, which can cause a large decrease in the ability to eliminate pramipexole, may necessitate dosage adjustment [see Dosage and Administration (2.2)].
 
-### Gender
+#### Gender
 
-Pramipexole clearance is about 30% lower in women than in men, but most of this difference can be accounted for by differences in body weight.
+Pramipexole clearance is about 30% lower in women than in men, but this difference can be accounted for by differences in body weight.
 There is no difference in half-life between males and females.
 
-### Age
+#### Age
 
 Pramipexole clearance decreases with age as the half-life and clearance are about 40% longer and 30% lower, respectively, in elderly (aged 65 years or older) compared with young healthy volunteers (aged less than 40 years).
-This difference is most likely due to the well-known reduction in renal function with age, since pramipexole clearance is correlated with renal function, as measured by creatinine clearance (see CLINICAL PHARMACOLOGY, Renal Insufficiency)
+This difference is most likely due to the reduction in renal function with age, since pramipexole clearance is correlated with renal function, as measured by creatinine clearance.
 
-### Parkinson’s Disease Patients
+#### Race
 
-A cross-study comparison of data suggests that the clearance of pramipexole may be reduced by about 30% in Parkinson’s disease patients compared with healthy elderly volunteers.
-The reason for this difference appears to be reduced renal function in Parkinson’s disease patients, which may be related to their poorer general health.
-The pharmacokinetics of pramipexole were comparable between early and advanced Parkinson’s disease patients.
+No racial differences in metabolism and elimination have been identified.
 
-### Pediatric
+#### Parkinson's Disease Patients
 
-The pharmacokinetics of pramipexole in the pediatric population have not been evaluated.
+A cross-study comparison of data suggests that the clearance of pramipexole may be reduced by about 30% in Parkinson's disease patients compared with healthy elderly volunteers.
+The reason for this difference appears to be reduced renal function in Parkinson's disease patients, which may be related to their poorer general health.
+The pharmacokinetics of pramipexole were comparable between early and advanced Parkinson's disease patients.
 
-### Hepatic Insufficiency
+#### Hepatic Impairment
 
 The influence of hepatic insufficiency on pramipexole pharmacokinetics has not been evaluated.
 Because approximately 90% of the recovered dose is excreted in the urine as unchanged drug, hepatic impairment would not be expected to have a significant effect on pramipexole elimination.
 
-### Renal Insufficiency
+#### Renal Impairment
 
-The clearance of pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers.
-Also, it took longer to achieve steady state.
-A lower starting and/or maintenance dose may be appropriate in these patients (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).In patients with varying degrees of renal impairment, pramipexole clearance correlates well with creatinine clearance.
+Clearance of pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers [see Warnings and Precautions (5.6) and Dosage and Administration (2.2)].
+In patients with varying degrees of renal impairment, pramipexole clearance correlates well with creatinine clearance.
 Therefore, creatinine clearance can be used as a predictor of the extent of decrease in pramipexole clearance.
-Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis.
-Caution should be exercised when administering pramipexole to patients with renal disease.
+
+### Drug Interactions
+
+Carbidopa/levodopa: Carbidopa/levodopa did not influence the pharmacokinetics of pramipexole in healthy volunteers (N=10).
+Pramipexole did not alter the extent of absorption (AUC) or the elimination of carbidopa/levodopa, although it caused an increase in levodopa Cmax by about 40% and a decrease in Tmax from 2.5 to 0.5 hours.
+
+Selegiline: In healthy volunteers (N=11), selegiline did not influence the pharmacokinetics of pramipexole.
+
+Amantadine: Population pharmacokinetic analyses suggest that amantadine may slightly decrease the oral clearance of pramipexole.
+
+Cimetidine: Cimetidine, a known inhibitor of renal tubular secretion of organic bases via the cationic transport system, caused a 50% increase in pramipexole AUC and a 40% increase in half-life (N=12).
+
+Probenecid: Probenecid, a known inhibitor of renal tubular secretion of organic acids via the anionic transporter, did not noticeably influence pramipexole pharmacokinetics (N=12).
+
+Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole.
+Other known organic cation transport substrates and/or inhibitors (e.g., cisplatin and procainamide) may also decrease the clearance of pramipexole.
+
+CYP interactions: Inhibitors of cytochrome P450 enzymes would not be expected to affect pramipexole elimination because pramipexole is not appreciably metabolized by these enzymes in vivo or in vitro.
+Pramipexole does not inhibit CYP enzymes CYP1A2, CYP2C9, CYP2C19, CYP2E1, and CYP3A4.
+Inhibition of CYP2D6 was observed with an apparent Ki of 30 µM, indicating that pramipexole will not inhibit CYP enzymes at plasma concentrations observed following the clinical dose of 4.5 mg/day (1.5 mg TID).

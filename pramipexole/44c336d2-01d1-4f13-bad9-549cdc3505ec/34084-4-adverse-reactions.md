@@ -1,24 +1,38 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Parkinson’s Disease
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-During the premarketing development of pramipexole, patients with either early or advanced Parkinson’s disease were enrolled in clinical trials.
+- •Falling Asleep During Activities of Daily Living [see Warnings and Precautions (5.1)].
+- • Symptomatic Orthostatic Hypotension [see Warnings and Precautions (5.2)].
+- •Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.3)].
+- •Hallucinations [see Warnings and Precautions (5.4)].
+- •Dyskinesia [see Warnings and Precautions (5.5)].
+- •Renal Impairment [see Warnings and Precautions (5.6)].
+- •Rhabdomyolysis [see Warnings and Precautions (5.7)].
+- •Retinal Pathology [see Warnings and Precautions (5.8)].
+- •Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)].
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse event rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+### Parkinson's Disease
+
+During the premarketing development of pramipexole, patients with either early or advanced Parkinson's disease were enrolled in clinical trials.
 Apart from the severity and duration of their disease, the two populations differed in their use of concomitant levodopa therapy.
-Patients with early disease did not receive concomitant levodopa therapy during treatment with pramipexole; those with advanced Parkinson’s disease all received concomitant levodopa treatment.
+Patients with early disease did not receive concomitant levodopa therapy during treatment with pramipexole; those with advanced Parkinson's disease all received concomitant levodopa treatment.
 Because these two populations may have differential risks for various adverse events, this section will, in general, present adverse-event data for these two populations separately.
 
 Because the controlled trials performed during premarketing development all used a titration design, with a resultant confounding of time and dose, it was impossible to adequately evaluate the effects of dose on the incidence of adverse events.
 
-### Early Parkinson’s Disease
+#### Early Parkinson's Disease
 
-In the three double-blind, placebo-controlled trials of patients with early Parkinson’s disease, the most commonly observed adverse events (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets were nausea, dizziness, somnolence, insomnia, constipation, asthenia, and hallucinations.
+In the three double-blind, placebo-controlled trials of patients with early Parkinson's disease, the most commonly observed adverse events (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets were nausea, dizziness, somnolence, insomnia, constipation, asthenia, and hallucinations.
 
-Approximately 12% of 388 patients with early Parkinson’s disease and treated with pramipexole dihydrochloride tablets who participated in the double-blind, placebo-controlled trials discontinued treatment due to adverse events compared with 11% of 235 patients who received placebo.
-The adverse events most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [3.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dizziness [2.1% on pramipexole dihydrochloride tablets vs 1% on placebo]; somnolence [1.6% on pramipexole dihydrochloride tablets vs 0% on placebo]; extrapyramidal syndrome [1.6% on pramipexole dihydrochloride tablets vs 6.4% on placebo]; headache and confusion [1.3% and 1.0%, respectively, on pramipexole dihydrochloride tablets vs 0% on placebo]); and gastrointestinal system (nausea [2.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]).
+Approximately 12% of 388 patients with early Parkinson's disease and treated with pramipexole dihydrochloride tablets who participated in the double-blind, placebo-controlled trials discontinued treatment due to adverse events compared with 11% of 235 patients who received placebo.
+The adverse events most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [3.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dizziness [2.1% on pramipexole dihydrochloride tablets vs 1% on placebo]; somnolence [1.6% on pramipexole dihydrochloride tablets vs 0% on placebo]; extrapyramidal syndrome [1.6% on pramipexole dihydrochloride tablets vs 6.4% on placebo]; headache and confusion [1.3% and 1%, respectively, on pramipexole dihydrochloride tablets vs 0% on placebo]); and gastrointestinal system (nausea [2.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]).
 
-#### Adverse-event Incidence in Controlled Clinical Studies in Early Parkinson’s Disease
-
-Table 1 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in early Parkinson’s disease that were reported by ≥ 1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
+Adverse-event Incidence in Controlled Clinical Studies in Early Parkinson's Disease: Table 4 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in early Parkinson's disease that were reported by ≥1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, patients did not receive concomitant levodopa.
 Adverse events were usually mild or moderate in intensity.
 
@@ -26,9 +40,9 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 However, the cited figures do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse-event incidence rate in the population studied.
 
-Table 1:Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo- Controlled Trials in Early Parkinson’s Disease (Events ≥1% of Patients Treated with pramipexole dihydrochloride tablets and Numerically More Frequent Than in the Placebo Group)
+Table 4 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Early Parkinson's Disease (Events ≥1% of Patients Treated with PramipexoleDihydrochloride Tablets and Numerically More Frequent than in the Placebo Group)
 
-| Body System/Adverse Event | Pramipexole dihydrochloride N=388 | Placebo N=235 |
+| Body System/ Adverse Event | PramipexoleDihydrochloride (N=388)% | Placebo(N=235)% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 14 | 12 |
@@ -61,24 +75,23 @@ Table 1:Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo- Co
 | Vision abnormalities | 3 | 0 |
 | Urogenital System |  |  |
 | Impotence | 2 | 1 |
-| *Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category |  |  |
 
-Other events reported by 1% or more of patients with early Parkinson’s disease and treated with pramipexole dihydrochloride tablets but reported equally or more frequently in the placebo group were infection, accidental injury, headache, pain, tremor, back pain, syncope, postural hypotension, hypertonia, depression, abdominal pain, anxiety, dyspepsia, flatulence, diarrhea, rash, ataxia, dry mouth, extrapyramidal syndrome, leg cramps, twitching, pharyngitis, sinusitis, sweating, rhinitis, urinary tract infection, vasodilation, flu syndrome, increased saliva, tooth disease, dyspnea, increased cough, gait abnormalities, urinary frequency, vomiting, allergic reaction, hypertension, pruritis, hypokinesia, increased creatine PK, nervousness, dream abnormalities, chest pain, neck pain, paresthesia, tachycardia, vertigo, voice alteration, conjunctivitis, paralysis, accommodation abnormalities, tinnitus, diplopia, and taste perversions.
+*Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category.
 
-In a fixed-dose study in early Parkinson’s disease, occurrence of the following events increased in frequency as the dose increased over the range from 1.5 mg/day to 6 mg/day: postural hypotension, nausea, constipation, somnolence, and amnesia.
+Other events reported by 1% or more of patients with early Parkinson's disease and treated with pramipexole dihydrochloride tablets but reported equally or more frequently in the placebo group were infection, accidental injury, headache, pain, tremor, back pain, syncope, postural hypotension, hypertonia, depression, abdominal pain, anxiety, dyspepsia, flatulence, diarrhea, rash, ataxia, dry mouth, extrapyramidal syndrome, leg cramps, twitching, pharyngitis, sinusitis, sweating, rhinitis, urinary tract infection, vasodilation, flu syndrome, increased saliva, tooth disease, dyspnea, increased cough, gait abnormalities, urinary frequency, vomiting, allergic reaction, hypertension, pruritus, hypokinesia, increased creatine PK, nervousness, dream abnormalities, chest pain, neck pain, paresthesia, tachycardia, vertigo, voice alteration, conjunctivitis, paralysis, accommodation abnormalities, tinnitus, diplopia, and taste perversions.
+
+In a fixed-dose study in early Parkinson's disease, occurrence of the following events increased in frequency as the dose increased over the range from 1.5 mg/day to 6 mg/day: postural hypotension, nausea, constipation, somnolence, and amnesia.
 The frequency of these events was generally 2-fold greater than placebo for pramipexole doses greater than 3 mg/day.
 The incidence of somnolence with pramipexole at a dose of 1.5 mg/day was comparable to that reported for placebo.
 
-### Advanced Parkinson’s Disease
+#### Advanced Parkinson's Disease
 
-In the four double-blind, placebo-controlled trials of patients with advanced Parkinson’s disease, the most commonly observed adverse events (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
+In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most commonly observed adverse events (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
 
-Approximately 12% of 260 patients with advanced Parkinson’s disease who received pramipexole dihydrochloride tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse events compared with 16% of 264 patients who received placebo and concomitant levodopa.
+Approximately 12% of 260 patients with advanced Parkinson's disease who received pramipexole dihydrochloride tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse events compared with 16% of 264 patients who received placebo and concomitant levodopa.
 The events most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dyskinesia [1.9% on pramipexole dihydrochloride tablets vs 0.8% on placebo]; extrapyramidal syndrome [1.5% on pramipexole dihydrochloride tablets vs 4.9% on placebo]; dizziness [1.2% on pramipexole dihydrochloride tablets vs 1.5% on placebo]; confusion [1.2% on pramipexole dihydrochloride tablets vs 2.3% on placebo]); and cardiovascular system (postural [orthostatic] hypotension [2.3% on pramipexole dihydrochloride tablets vs 1.1% on placebo]).
 
-#### Adverse-event Incidence in Controlled Clinical Studies in Advanced Parkinson’s Disease
-
-Table 2 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in advanced Parkinson’s disease that were reported by ≥1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
+Adverse-event Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease: Table 5 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by ≥1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, pramipexole dihydrochloride tablets or placebo was administered to patients who were also receiving concomitant levodopa.
 Adverse events were usually mild or moderate in intensity.
 
@@ -86,9 +99,9 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 However, the cited figures do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse-events incidence rate in the population studied.
 
-Table 2:Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Advanced Parkinson’s Disease (Events ≥1% of Patients Treated with pramipexole dihydrochloride tablets and Numerically More Frequent than in the Placebo Group)
+Table 5 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Advanced Parkinson's Disease (Events ≥1% of Patients Treated with PramipexoleDihydrochloride Tablets and Numerically More Frequent than in the Placebo Group)
 
-| Body System/Adverse Event | Pramipexole dihydrochloridePatients received concomitant levodopaN=260 | Placebo N=264 |
+| Body System/ Adverse Event | PramipexoleDihydrochloride†(N=260) % | Placebo† (N=264) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Accidental injury | 17 | 15 |
@@ -141,19 +154,27 @@ Table 2:Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Con
 | Urinary frequency | 6 | 3 |
 | Urinary tract infection | 4 | 3 |
 | Urinary incontinence | 2 | 1 |
-| * Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category |  |  |
 
-Other events reported by 1% or more of patients with advanced Parkinson’s disease and treated with pramipexole dihydrochloride tablets but reported equally or more frequently in the placebo group were nausea, pain, infection, headache, depression, tremor, hypokinesia, anorexia, back pain, dyspepsia, flatulence, ataxia, flu syndrome, sinusitis, diarrhea, myalgia, abdominal pain, anxiety, rash, paresthesia, hypertension, increased saliva, tooth disorder, apathy, hypotension, sweating, vasodilation, vomiting, increased cough, nervousness, pruritus, hypesthesia, neck pain, syncope, arthralgia, dysphagia, palpitations, pharyngitis, vertigo, leg cramps, conjunctivitis, and lacrimation disorders.
+*Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category.
 
-## General
+†Patients received concomitant levodopa.
 
-### Adverse Events; Relationship to Age, Gender, and Race
+Other events reported by 1% or more of patients with advanced Parkinson's disease and treated with pramipexole dihydrochloride tablets but reported equally or more frequently in the placebo group were nausea, pain, infection, headache, depression, tremor, hypokinesia, anorexia, back pain, dyspepsia, flatulence, ataxia, flu syndrome, sinusitis, diarrhea, myalgia, abdominal pain, anxiety, rash, paresthesia, hypertension, increased saliva, tooth disorder, apathy, hypotension, sweating, vasodilation, vomiting, increased cough, nervousness, pruritus, hypesthesia, neck pain, syncope, arthralgia, dysphagia, palpitations, pharyngitis, vertigo, leg cramps, conjunctivitis, and lacrimation disorders.
+
+### General
+
+#### Adverse Events: Relationship to Age, Gender, and Race
 
 Among the treatment-emergent adverse events in patients treated with pramipexole dihydrochloride tablets, hallucination appeared to exhibit a positive relationship to age in patients with Parkinson’s disease.
 No gender-related differences were observed in Parkinson’s disease patients.
-Less than 4% of patients enrolled were non-Caucasian, therefore, an evaluation of adverse events related to race is not possible.
+Less than 4% of patients enrolled were non-Caucasian: therefore, an evaluation of adverse events related to race is not possible.
 
-### Other Adverse Events Observed During Phase 2 and 3 Clinical Trials
+### Laboratory Tests
+
+During the development of pramipexole dihydrochloride tablets, no systematic abnormalities on routine laboratory testing were noted.
+Therefore, no specific guidance is offered regarding routine monitoring; the practitioner retains responsibility for determining how best to monitor the patient in his or her care.
+
+#### Other Adverse Events Observed During Phase 2 and 3 Clinical Trials
 
 Pramipexole dihydrochloride tablets have been administered to 1620 Parkinson’s disease patients in Phase 2 and 3 clinical trials.
 During these trials, all adverse events were recorded by the clinical investigators using terminology of their own choosing; similar types of events were grouped into a smaller number of standardized categories using MedDRA dictionary terminology.
@@ -161,101 +182,53 @@ These categories are used in the listing below.
 Adverse events which are not listed above but occurred on at least two occasions (one occasion if the event was serious) in the individuals exposed to pramipexole dihydrochloride tablets are listed below.
 The reported events below are included without regard to determination of a causal relationship to pramipexole dihydrochloride tablets.
 
-#### Blood and lymphatic system disorders:
+Blood and lymphatic system disorders: anemia, iron deficiency anemia, leukocytosis, leukopenia, lymphadenitis, lymphadenopathy, thrombocythaemia, thrombocytopenia
 
-Anemia, iron deficiency anemia, leukocytosis, leukopenia, lymphadenitis, lymphadenopathy, thrombocythaemia, thrombocytopenia
+Cardiac disorders: angina pectoris, arrhythmia supraventricular, atrial fibrillation, atrioventricular block first degree, atrioventricular block second degree, bradycardia, bundle branch block, cardiac arrest, cardiac failure, cardiac failure congestive, cardiomegaly, coronary artery occlusion, cyanosis, extrasystoles, left ventricular failure, myocardial infarction, nodal arrhythmia, sinus arrhythmia, sinus bradycardia, sinus tachycardia, supraventricular extrasystoles, supraventricular tachycardia, tachycardia, ventricular fibrillation, ventricular extrasystoles, ventricular hypertrophy
 
-#### Cardiac disorders:
+Congenital, familial and genetic disorders: atrial septal defect, congenital foot malformation, spine malformation
 
-Angina pectoris, arrhythmia supraventricular, atrial fibrillation, atrioventricular block first degree, atrioventricular block second degree, bradycardia, bundle branch block, cardiac arrest, cardiac failure, cardiac failure congestive, cardiomegaly, coronary artery occlusion, cyanosis, extrasystoles, left ventricular failure, myocardial infarction, nodal arrhythmia, sinus arrhythmia, sinus bradycardia, sinus tachycardia, supraventricular extrasystoles, supraventricular tachycardia, tachycardia, ventricular fibrillation, ventricular extrasystoles, ventricular hypertrophy
+Ear and labyrinth disorders: deafness, ear pain, hearing impaired, hypoacusis, motion sickness, vestibular ataxia
 
-#### Congenital, familial and genetic disorders:
+Endocrine disorders: goiter, hyperthyroidism, hypothyroidism
 
-atrial septal defect, congenital foot malformation, spine malformation
+Eye disorders: amaurosis fugax, blepharitis, blepharospasm, cataract, dacryostenosis acquired, dry eye, eye hemorrhage, eye irritation, eye pain, eyelid edema, eyelid ptosis, glaucoma, keratitis, macular degeneration, myopia, photophobia, retinal detachment, retinal vascular disorder, scotoma, vision blurred, visual acuity reduced, vitreous floaters
 
-#### Ear and labyrinth disorders:
+Gastrointestinal disorders: abdominal discomfort, abdominal distension, aphthous stomatitis, ascites, cheilitis, colitis, colitis ulcerative, duodenal ulcer, duodenal ulcer hemorrhage, enteritis, eructation, fecal incontinence, gastric ulcer, gastric ulcer hemorrhage, gastritis, gastrointestinal hemorrhage, gastroesophageal reflux disease, gingivitis, haematemesis, haematochezia, hemorrhoids, hiatus hernia, hyperchlorhydria, ileus, inguinal hernia, intestinal obstruction, irritable bowel syndrome, esophageal spasm, esophageal stenosis, esophagitis, pancreatitis, periodontitis, rectal hemorrhage, reflux esophagitis, tongue edema, tongue ulceration, toothache, umbilical hernia
 
-Deafness, ear pain, hearing impaired, hypoacusis, motion sickness, vestibular ataxia
+General disorders: chest discomfort, chills, death, drug withdrawal syndrome, face edema, feeling cold, feeling hot, feeling jittery, gait disturbance, impaired healing, influenza-like illness, irritability, localized edema, edema, pitting edema, thirst
 
-#### Endocrine disorders:
+Hepatobiliary disorders: biliary colic, cholecystitis, cholecystitis chronic, cholelithiasis
 
-Goiter, hyperthyroidism, hypothyroidism
+Immune system disorders: drug hypersensitivity
 
-#### Eye disorders:
+Infections and infestations: abscess, acute tonsillitis, appendicitis, bronchiolitis, bronchitis, bronchopneumonia, cellulitis, cystitis, dental caries, diverticulitis, ear infection, eye infection, folliculitis, fungal infection, furuncle, gangrene, gastroenteritis, gingival infection, herpes simplex, herpes zoster, hordeolum, intervertebral discitis, laryngitis, lobar pneumonia, nail infection, onychomycosis, oral candidiasis, orchitis, osteomyelitis, otitis externa, otitis media, paronychia, pyelonephritis, pyoderma, sepsis, skin infection, tonsillitis, tooth abscess, tooth infection, upper respiratory tract infection, urethritis, vaginal candidiasis, vaginal infection, viral infection, wound infection
 
-Amaurosis fugax, blepharitis, blepharospasm, cataract, dacryostenosis acquired, dry eye, eye hemorrhage, eye irritation, eye pain, eyelid edema, eyelid ptosis, glaucoma, keratitis, macular degeneration, myopia, photophobia, retinal detachment, retinal vascular disorder, scotoma, vision blurred, visual acuity reduced, vitreous floaters
+Injury, poisoning and procedural complications: accidental falls, drug toxicity epicondylitis, road traffic accident, sunburn, tendon rupture
 
-#### Gastrointestinal disorders:
+Metabolism and nutrition disorders: cachexia, decreased appetite, dehydration, diabetes mellitus, fluid retention, gout, hypercholesterolemia, hyperglycemia, hyperlipidemia, hyperuricemia, hypocalcemia, hypoglycemia, hypokalemia, hyponatremia, hypovitaminosis, increased appetite, metabolic alkalosis
 
-Abdominal discomfort, abdominal distension, aphthous stomatitis, ascites, cheilitis, colitis, colitis ulcerative, duodenal ulcer, duodenal ulcer hemorrhage, enteritis, eructation, fecal incontinence, gastric ulcer, gastric ulcer hemorrhage, gastritis, gastrointestinal hemorrhage, gastroesophageal reflux disease, gingivitis, haematemesis, haematochezia, hemorrhoids, hiatus hernia, hyperchlorhydria, ileus, inguinal hernia, intestinal obstruction, irritable bowel syndrome, esophageal spasm, esophageal stenosis, esophagitis, pancreatitis, periodontitis, rectal hemorrhage, reflux esophagitis, tongue edema, tongue ulceration, toothache, umbilical hernia
+Musculoskeletal and connective tissue disorders: bone pain, fasciitis, flank pain, intervertebral disc disorder, intervertebral disc protrusion, joint effusion, joint stiffness, joint swelling, monarthritis, muscle rigidity, muscle spasms, musculoskeletal stiffness, myopathy, myositis, nuchal rigidity, osteoarthritis, osteonecrosis, osteoporosis, polymyalgia, rheumatoid arthritis, shoulder pain, spinal osteoarthritis, tendonitis, tenosynovitis
 
-#### General disorders:
+Neoplasms benign, malignant and unspecified: abdominal neoplasm, adenocarcinoma, adenoma benign, basal cell carcinoma, bladder cancer, breast cancer, breast neoplasm, chronic lymphocytic leukemia, colon cancer, colorectal cancer, endometrial cancer, gallbladder cancer, gastric cancer, gastrointestinal neoplasm, hemangioma, hepatic neoplasm, hepatic neoplasm malignant, lip and/or oral cavity cancer, lung neoplasm malignant, lung cancer metastatic, lymphoma, malignant melanoma, melanocytic naevus, metastases to lung, multiple myeloma, oral neoplasm benign, neoplasm, neoplasm malignant, neoplasm prostate, neoplasm skin, neuroma, ovarian cancer, prostate cancer, prostatic adenoma, pseudo lymphoma, renal neoplasm, skin cancer, skin papilloma, squamous cell carcinoma, thyroid neoplasm, uterine leiomyoma
 
-Chest discomfort, chills, death, drug withdrawal syndrome, face edema, feeling cold, feeling hot, feeling jittery, gait disturbance, impaired healing, influenza-like illness, irritability, localized edema, edema, pitting edema, thirst
+Nervous system disorders: ageusia, akinesia, anticholinergic syndrome, aphasia, balance disorder, brain edema, carotid artery occlusion, carpal tunnel syndrome, cerebral artery embolism, cerebral hemorrhage, cerebral infarction, cerebral ischemia, chorea, cognitive disorder, coma, convulsion, coordination abnormal, dementia, depressed level of consciousness, disturbance in attention, dizziness postural, dysarthria, dysgraphia, facial palsy, grand mal convulsion, hemiplegia, hyperaesthesia, hyperkinesia, hyperreflexia, hyporeflexia, hypotonia, lethargy, loss of consciousness, memory impairment, migraine, muscle contractions involuntary, narcolepsy, neuralgia, neuropathy, nystagmus, parosmia, psychomotor hyperactivity, sciatica, sedation, sensory disturbance, sleep phase rhythm disturbance, sleep talking, stupor, syncope vasovagal, tension headache
 
-#### Hepatobiliary disorders:
+Psychiatric disorders: affect lability, aggression, agitation, bradyphrenia, bruxism, suicide, delirium, delusional disorder persecutory type, disorientation, dissociation, emotional distress, euphoric mood, hallucination auditory, hallucination visual, initial insomnia, libido increased, mania, middle insomnia, mood altered, nightmare, obsessive thoughts, obsessive-compulsive disorder, panic reaction, parasomnia, personality disorder, psychotic disorder, restlessness, sleep walking, suicidal ideation
 
-Biliary colic, cholecystitis, cholecystitis chronic, cholelithiasis
+Renal and urinary disorders: chromaturia, dysuria, glycosuria, hematuria, urgency, nephrolithiasis, neurogenic bladder, nocturia, oliguria, pollakiuria, proteinuria, renal artery stenosis, renal colic, renal cyst, renal failure, renal impairment, urinary retention
 
-#### Immune system disorders:
+Reproductive system and breast disorders: amenorrhea, breast pain, dysmenorrhea, epididymitis, gynaecomastia, menopausal symptoms, menorrhagia, metrorrhagia, ovarian cyst, priapism, prostatitis, sexual dysfunction, uterine hemorrhage, vaginal discharge, vaginal hemorrhage
 
-Drug hypersensitivity
+Respiratory, thoracic and mediastinal disorders: apnea, aspiration, asthma, choking, chronic obstructive pulmonary disease, dry throat, dysphonia, dyspnea exertional, epistaxis, haemoptysis, hiccups, hyperventilation, increased bronchial secretion, laryngospasm, nasal dryness, nasal polyps, obstructive airways disorder, pharyngolaryngeal pain, pleurisy, pneumonia aspiration, pneumothorax, postnasal drip, productive cough, pulmonary embolism, pulmonary edema, respiratory alkalosis, respiratory distress, respiratory failure, respiratory tract congestion, rhinitis allergic, rhinorrhea, sinus congestion, sleep apnoea syndrome, sneezing, snoring, tachypnea, wheezing
 
-#### Infections and infestations:
+Skin and subcutaneous tissue disorders: acne, alopecia, cold sweat, dermal cyst, dermatitis, dermatitis bullous, dermatitis contact, dry skin, ecchymosis, eczema, erythema, hyperkeratosis, livedo reticularis, night sweats, periorbital edema, petechiae, photosensitivity allergic reaction, psoriasis, purpura, rash erythematous, rash maculo-papular, rash papular, rosacea, seborrhea, seborrheic dermatitis, skin burning sensation, skin discoloration, skin exfoliation, skin hyperpigmentation, skin hypertrophy, skin irritation, skin nodule, skin odor abnormal, skin ulcer, urticaria
 
-Abscess, acute tonsillitis, appendicitis, bronchiolitis, bronchitis, bronchopneumonia, cellulitis, cystitis, dental caries, diverticulitis, ear infection, eye infection, folliculitis, fungal infection, furuncle, gangrene, gastroenteritis, gingival infection, herpes simplex, herpes zoster, hordeolum, intervertebral discitis, laryngitis, lobar pneumonia, nail infection, onychomycosis, oral candidiasis, orchitis, osteomyelitis, otitis externa, otitis media, paronychia, pyelonephritis, pyoderma, sepsis, skin infection, tonsillitis, tooth abscess, tooth infection, upper respiratory tract infection, urethritis, vaginal candidiasis, vaginal infection, viral infection, wound infection
+Vascular disorders: aneurysm, angiopathy, arteriosclerosis, circulatory collapse, deep vein thrombosis, embolism, hematoma, hot flush, hypertensive crisis, lymphoedema, pallor, phlebitis, Raynaud’s phenomenon, shock, thrombophlebitis, thrombosis, varicose vein
 
-#### Injury, poisoning and procedural complications:
-
-Accidental falls, drug toxicity epicondylitis, road traffic accident, sunburn, tendon rupture
-
-#### Metabolism and nutrition disorders:
-
-Cachexia, decreased appetite, dehydration, diabetes mellitus, fluid retention, gout, hypercholesterolemia, hyperglycemia, hyperlipidemia, hyperuricemia, hypocalcemia, hypoglycemia, hypokalemia, hyponatremia, hypovitaminosis, increased appetite, metabolic alkalosis
-
-#### Musculoskeletal and connective tissue disorders:
-
-Bone pain, fasciitis, flank pain, intervertebral disc disorder, intervertebral disc protrusion, joint effusion, joint stiffness, joint swelling, monarthritis, muscle rigidity, muscle spasms, musculoskeletal stiffness, myopathy, myositis, nuchal rigidity, osteoarthritis, osteonecrosis, osteoporosis, polymyalgia, rheumatoid arthritis, shoulder pain, spinal osteoarthritis, tendonitis, tenosynovitis
-
-#### Neoplasms benign, malignant and unspecified:
-
-Abdominal neoplasm, adenocarcinoma, adenoma benign, basal cell carcinoma, bladder cancer, breast cancer, breast neoplasm, chronic lymphocytic leukemia, colon cancer, colorectal cancer, endometrial cancer, gallbladder cancer, gastric cancer, gastrointestinal neoplasm, hemangioma, hepatic neoplasm, hepatic neoplasm malignant, lip and/or oral cavity cancer, lung neoplasm malignant, lung cancer metastatic, lymphoma, malignant melanoma, melanocytic naevus, metastases to lung, multiple myeloma, oral neoplasm benign, neoplasm, neoplasm malignant, neoplasm prostate, neoplasm skin, neuroma, ovarian cancer, prostate cancer, prostatic adenoma, pseudo lymphoma, renal neoplasm, skin cancer, skin papilloma, squamous cell carcinoma, thyroid neoplasm, uterine leiomyoma.
-
-#### Nervous system disorders:
-
-Ageusia, akinesia, anticholinergic syndrome, aphasia, balance disorder, brain edema, carotid artery occlusion, carpal tunnel syndrome, cerebral artery embolism, cerebral hemorrhage, cerebral infarction, cerebral ischemia, chorea, cognitive disorder, coma, convulsion, coordination abnormal, dementia, depressed level of consciousness, disturbance in attention, dizziness postural, dysarthria, dysgraphia, facial palsy, grand mal convulsion, hemiplegia, hyperaesthesia, hyperkinesia, hyperreflexia, hyporeflexia, hypotonia, lethargy, loss of consciousness, memory impairment, migraine, muscle contractions involuntary, narcolepsy, neuralgia, neuropathy, nystagmus, parosmia, psychomotor hyperactivity, sciatica, sedation, sensory disturbance, sleep phase rhythm disturbance, sleep talking, stupor, syncope vasovagal, tension headache
-
-#### Psychiatric disorders:
-
-Affect lability, aggression, agitation, bradyphrenia, bruxism, suicide, delirium, delusional disorder persecutory type, disorientation, dissociation, emotional distress, euphoric mood, hallucination auditory, hallucination visual, initial insomnia, libido increased, mania, middle insomnia, mood altered, nightmare, obsessive thoughts, obsessive-compulsive disorder, panic reaction, parasomnia, personality disorder, psychotic disorder, restlessness, sleep walking, suicidal ideation
-
-#### Renal and urinary disorders:
-
-Chromaturia, dysuria, glycosuria, hematuria, urgency, nephrolithiasis, neurogenic bladder, nocturia, oliguria, pollakiuria, proteinuria, renal artery stenosis, renal colic, renal cyst, renal failure, renal impairment, urinary retention
-
-#### Reproductive system and breast disorders:
-
-Amenorrhea, breast pain, dysmenorrhea, epididymitis, gynaecomastia, menopausal symptoms, menorrhagia, metrorrhagia, ovarian cyst, priapism, prostatitis, sexual dysfunction, uterine hemorrhage, vaginal discharge, vaginal hemorrhage
-
-#### Respiratory, thoracic and mediastinal disorders:
-
-Apnea, aspiration, asthma, choking, chronic obstructive pulmonary disease, dry throat, dysphonia, dyspnea exertional, epistaxis, haemoptysis, hiccups, hyperventilation, increased bronchial secretion, laryngospasm, nasal dryness, nasal polyps, obstructive airways disorder, pharyngolaryngeal pain, pleurisy, pneumonia aspiration, pneumothorax, postnasal drip, productive cough, pulmonary embolism, pulmonary edema, respiratory alkalosis, respiratory distress, respiratory failure, respiratory tract congestion, rhinitis allergic, rhinorrhea, sinus congestion, sleep apnea syndrome, sneezing, snoring, tachypnea, wheezing
-
-#### Skin and subcutaneous tissue disorders:
-
-Acne, alopecia, cold sweat, dermal cyst, dermatitis, dermatitis bullous, dermatitis contact, dry skin, ecchymosis, eczema, erythema, hyperkeratosis, livedo reticularis, night sweats, periorbital edema, petechiae, photosensitivity allergic reaction, psoriasis, purpura, rash erythematous, rash maculo-papular, rash papular, rosacea, seborrhea, seborrheic dermatitis, skin burning sensation, skin discoloration, skin exfoliation, skin hyperpigmentation, skin hypertrophy, skin irritation, skin nodule, skin odor abnormal, skin ulcer, urticaria
-
-#### Vascular disorders:
-
-Aneurysm, angiopathy, arteriosclerosis, circulatory collapse, deep vein thrombosis, embolism, hematoma, hot flush, hypertensive crisis, lymphoedema, pallor, phlebitis, Raynaud’s phenomenon, shock, thrombophlebitis, thrombosis, varicose vein.
-
-### Falling Asleep During Activities of Daily Living
-
-Patients treated with pramipexole dihydrochloride tablets have reported falling asleep while engaged in activities of daily living, including operation of a motor vehicle which sometimes resulted in accidents (see bolded WARNING).
-
-### Post-Marketing Experience
+## 6.2 Post Marketing Experience
 
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson’s disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of events were grouped into a smaller number of standardized categories using the MedDRA dictionary: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, syncope, and weight increase.
+Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), inappropriate antidiuretic hormone secretion (SIADH), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.

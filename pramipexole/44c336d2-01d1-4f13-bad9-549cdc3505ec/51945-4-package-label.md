@@ -1,11 +1,9 @@
-# Container Label: 0.125 mg - 90s
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-# Container Label: 0.125 mg - Carton
+# Package/Label Display Panel
 
-# Container Label: 0.25 mg - 90s
+# Package/Label Display Panel
 
-# Container Label: 0.5 mg (90s)
+# Package/Label Display Panel
 
-# Container Label: 1 mg (90s)
-
-# Container Label: 1.5 mg (90s)
+# Package/Label Display Panel
