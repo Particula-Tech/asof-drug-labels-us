@@ -1,9 +1,8 @@
 # DESCRIPTION
 
-The active ingredient in PEPCID* Registered trademark of Merck Sharp and Dohme Corp, a subsidiary of Merck & Co. Inc. and is used under license.
-(famotidine) is a histamine H 2 ‑receptor antagonist.
-Famotidine is N -(aminosulfonyl)-3-[[[2-[(diaminomethylene)amino]-4-thiazolyl]methyl]thio]propanimidamide.
-The empirical formula of famotidine is C 8 H 15 N 7 O 2 S 3 and its molecular weight is 337.43.
+The active ingredient in PEPCID*Registered trademark of Merck Sharp and Dohme Corp, a subsidiary of Merck & Co. Inc. and is used under license.(famotidine) is a histamine H2‑receptor antagonist.
+Famotidine is N-(aminosulfonyl)-3-[[[2-[(diaminomethylene)amino]-4-thiazolyl]methyl]thio]propanimidamide.
+The empirical formula of famotidine is C8H15N7O2S3 and its molecular weight is 337.43.
 Its structural formula is:
 
 Famotidine is a white to pale yellow crystalline compound that is freely soluble in glacial acetic acid, slightly soluble in methanol, very slightly soluble in water, and practically insoluble in ethanol.
