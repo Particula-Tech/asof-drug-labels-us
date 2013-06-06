@@ -281,4 +281,4 @@ Depakene Oral solution
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-03-A303 May 2013
+03-A837 May 2013

@@ -25,3 +25,15 @@ Rx only
 Tamper-Evident: Do not accept if opened or seal has been broken.
 
 THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
+
+NDC 0074–3826–13
+
+DEPAKOTE® ER
+
+100 Tablets
+
+DIVALPROEX SODIUM
+
+EXTENDED RELEASE TABLETS 250 mg Valproic Acid Activity
+
+Rx only Abbott
