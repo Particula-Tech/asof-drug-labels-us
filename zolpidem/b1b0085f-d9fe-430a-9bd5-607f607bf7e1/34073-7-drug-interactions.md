@@ -2,45 +2,43 @@
 
 ## 7.1 CNS-Active Drugs
 
-Since the systematic evaluations of zolpidem in combination with other CNS-active drugs have been limited, careful consideration should be given to the pharmacology of any CNS-active drug to be used with zolpidem.
-Any drug with CNS-depressant effects could potentially enhance the CNS-depressant effects of zolpidem.
+Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see WARNINGS AND PRECAUTIONS (5.1)].
+Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 
-An immediate-release formulation of zolpidem tartrate was evaluated in healthy subjects in single-dose interaction studies for several CNS drugs.
+Imipramine, Chlorpromazine
+
 Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
-Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance.
+Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance [see CLINICAL PHARMACOLOGY (12.3)].
+
+Haloperidol
+
 A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
-The lack of a drug interaction following single-dose administration does not predict a lack following chronic administration.
+The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration [see CLINICAL PHARMACOLOGY (12.3)].
 
-An additive effect on psychomotor performance between alcohol and zolpidem was demonstrated [see WARNINGS AND PRECAUTIONS (5.5)].
+Alcohol
 
-A single-dose interaction study with zolpidem 10 mg and fluoxetine 20 mg at steady-state levels in male volunteers did not demonstrate any clinically significant pharmacokinetic or pharmacodynamic interactions.
-When multiple doses of zolpidem and fluoxetine at steady-state concentrations were evaluated in healthy females, the only significant change was a 17% increase in the zolpidem half-life.
-There was no evidence of an additive effect in psychomotor performance.
+An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see WARNINGS AND PRECAUTIONS (5.1)].
 
-Following five consecutive nightly doses of zolpidem 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem Cmax was significantly higher (43%) and Tmax was significantly decreased (53%).
-Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.
+Sertraline
 
-## 7.2 Drugs That Affect Drug Metabolism Via Cytochrome P450
+Concomitant administration of zolpidem and sertraline increases exposure to zolpidem [see CLINICAL PHARMACOLOGY (12.3)].
+
+Fluoxetine
+
+After multiple doses of zolpidem tartrate and fluoxetine an increase in the zolpidem half-life (17%) was observed.
+There was no evidence of an additive effect in psychomotor performance [see CLINICAL PHARMACOLOGY (12.3)].
+
+## 7.2 Drugs that Affect Drug Metabolism via Cytochrome P450
 
 Some compounds known to inhibit CYP3A may increase exposure to zolpidem.
-The effect of inhibitors of other P450 enzymes has not been carefully evaluated.
+The effect of drugs on other P450 enzymes on the exposure to zolpidem is not known.
 
-A randomized, double-blind, crossover interaction study in ten healthy volunteers between itraconazole (200 mg once daily for 4 days) and a single dose of zolpidem (10 mg) given 5 hours after the last dose of itraconazole resulted in a 34% increase in AUC0-∞ of zolpidem.
-There were no significant pharmacodynamic effects of zolpidem on subjective drowsiness, postural sway, or psychomotor performance.
+Rifampin
 
-A randomized, placebo-controlled, crossover interaction study in eight healthy female subjects between five consecutive daily doses of rifampin (600 mg) and a single dose of an immediate-release formulation of zolpidem tartrate (20 mg) given 17 hours after the last dose of rifampin showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36%) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem.
+Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
+Use of Rifampin in combination with zolpidem may decrease the efficacy of zolpidem.
 
-A randomized double-blind crossover interaction study in twelve healthy subjects showed that co-administration of a single 5 mg dose of immediate-release zolpidem tartrate with ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmaxof zolpidem by a factor of 1.3 and increased the total AUC of zolpidem by a factor of 1.7 compared to zolpidem alone and prolonged the elimination half-life by approximately 30% along with an increase in the pharmacodynamic effects of zolpidem.
-Caution should be used when ketoconazole is given with zolpidem and consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
-Patients should be advised that use of zolpidem tartrate extended-release tablets with ketoconazole may enhance the sedative effects.
+Ketoconazole
 
-## 7.3 Other Drugs With No Interaction With Zolpidem
-
-A study involving cimetidine/zolpidem and ranitidine/zolpidem combinations revealed no effect of either drug on the pharmacokinetics or pharmacodynamics of zolpidem.
-
-Zolpidem had no effect on digoxin pharmacokinetics and did not affect prothrombin time when given with warfarin in normal subjects.
-
-## 7.4 Drug-Laboratory Tests Interactions
-
-Zolpidem is not known to interfere with commonly employed clinical laboratory tests.
-In addition, clinical data indicate that zolpidem does not cross-react with benzodiazepines, opiates, barbiturates, cocaine, cannabinoids, or amphetamines in two standard urine drug screens.
+Ketoconazole, a potent CYP3A4 inhibitor, increased the pharmacodynamic effects of zolpidem.
+Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
