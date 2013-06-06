@@ -4,7 +4,7 @@ Systemic and local corticosteroid use may result in the following:
 
 - Somnolence [see Warnings and Precautions (5.1)]
 - Local nasal effects, including epistaxis, nasal ulceration, nasal septal perforation, impaired wound healing, and Candida albicans infection [see Warnings and Precautions (5.2)]
-- Cataracts and glaucoma [see Warnings and Precautions (5.3)]
+- Glaucoma and cataracts [see Warnings and Precautions (5.3)]
 - Immunosuppression [see Warnings and Precautions (5.4)]
 - Hypothalamic-pituitary-adrenal (HPA) axis effects, including growth reduction [see Warnings and Precautions (5.5 and 5.7), Use in Specific Populations (8.4)]
 

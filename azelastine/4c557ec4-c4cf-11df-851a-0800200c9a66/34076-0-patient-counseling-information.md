@@ -19,10 +19,10 @@ Concurrent use of Dymista Nasal Spray with alcohol or other central nervous syst
 Nasal corticosteroids are associated with nasal septal perforation and impaired wound healing.
 Patients who have experienced recent nasal ulcers, nasal surgery, or nasal trauma should not use Dymista Nasal Spray until healing has occurred [see Warnings and Precautions (5.2)].
 
-## 17.4 Cataracts and Glaucoma
+## 17.4 Glaucoma and Cataracts
 
 Patients should be informed that glaucoma and cataracts are associated with nasal and inhaled corticosteroid use.
-Patients should inform his/her health care provider if a change in vision is noted while using Dymista Nasal Spray [see Warnings and Precautions (5.5)].
+Patients should inform his/her health care provider if a change in vision is noted while using Dymista Nasal Spray [see Warnings and Precautions (5.3)].
 
 ## 17.5 Immunosuppression
 

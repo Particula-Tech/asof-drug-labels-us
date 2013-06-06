@@ -8,9 +8,9 @@ Clinical trials in adults with single doses of the oral formulation of azelastin
 General supportive measures should be employed if overdosage occurs.
 There is no known antidote to Dymista Nasal Spray.
 Oral ingestion of antihistamines has the potential to cause serious adverse effects in children.
-Accordingly, Dymista Nasal Spray should be kept out of the reach of children
+Accordingly, Dymista Nasal Spray should be kept out of the reach of children.
 
-Fluticasone propionate: Chronic fluticasone propionate overdosage may result in signs/symptoms of hypercorticism [see Warnings and Precautions (5.2)].
+Fluticasone propionate: Chronic fluticasone propionate overdosage may result in signs/symptoms of hypercorticism [see Warnings and Precautions (5.5)].
 Intranasal administration of 2 mg (10 times the recommended dose) of fluticasone propionate twice daily for 7 days to healthy human volunteers was well tolerated.
 Single oral fluticasone propionate doses up to 16 mg have been studied in human volunteers with no acute toxic effects reported.
 Repeat oral doses up to 80 mg daily for 10 days in volunteers and repeat oral doses up to 10 mg daily for 14 days in patients were well tolerated.

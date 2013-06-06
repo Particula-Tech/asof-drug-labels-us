@@ -288,5 +288,5 @@ MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
 ©2012 Meda Pharmaceuticals Inc.
 
-Dymista is a trademark of Meda Pharmaceuticals Inc. U.S. Patents 8,163,723; 8,168,620 IN-023A6-02 Rev.
-8/2012
+Dymista is a trademark of Meda Pharmaceuticals Inc. U.S. Patents 8,163,723; 8,168,620 IN-023A6-03 Rev.
+9/2012
