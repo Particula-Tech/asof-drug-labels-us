@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA021438"
+  ],
+  "inn": "propranolol",
+  "labeler": "Akrimax Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "24090-450-77",
+    "24090-450-85",
+    "24090-450-88",
+    "24090-451-77",
+    "24090-451-85",
+    "24090-451-88"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "propranolol hydrochloride",
+      "name": "InnoPran XL"
+    }
+  ],
+  "setid": "4d15bb34-f5d0-4cd0-8b08-27a0c265d9a5",
+  "source": "dailymed"
+}
