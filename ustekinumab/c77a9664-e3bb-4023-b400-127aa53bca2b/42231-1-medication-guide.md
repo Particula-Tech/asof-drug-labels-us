@@ -2,16 +2,12 @@ MEDICATION GUIDE
 
 STELARA® (stel ar' a) (ustekinumab) Injection
 
-Read this Medication Guide before you start taking STELARA® and each time before you get an injection.
-There may be new information.
-This Medication Guide does not take the place of talking with your doctor about your medical condition or treatment with STELARA®.
-
 What is the most important information I should know about STELARA®?
 
 STELARA® is a medicine that affects your immune system.
-STELARA® can increase your chances of having serious side effects, including:
+STELARA® can increase your risk of having serious side effects, including:
 
-Serious Infections: STELARA® may lower the ability of your immune system to fight infections and may increase your risk of infections.
+Serious infections: STELARA® may lower the ability of your immune system to fight infections and may increase your risk of infections.
 Some people have serious infections while taking STELARA®, including tuberculosis (TB), and infections caused by bacteria, fungi, or viruses.
 Some people have to be hospitalized for treatment of their infection.
 
@@ -73,11 +69,20 @@ This may also increase your risk for certain types of cancer.
 
 It is not known if STELARA® is safe and effective in children.
 
+Who should not take STELARA®?
+
+Do not take STELARA® if you are allergic to ustekinumab or any of the ingredients in STELARA®.
+See the end of this Medication Guide for a complete list of ingredients in STELARA®.
+
 What should I tell my doctor before receiving STELARA®?
 
 Before you receive STELARA®, tell your doctor if you:
 
 - have any of the conditions or symptoms listed in the section "What is the most important information I should know about STELARA®?"
+- ever had an allergic reaction to STELARA®.
+  Ask your doctor if you are not sure.
+- are allergic to latex.
+  The needle cover on the prefilled syringe contains latex.
 - have recently received or are scheduled to receive an immunization (vaccine).
   People who take STELARA® should not receive live vaccines.
   Tell your doctor if anyone in your house needs a vaccine.
@@ -95,38 +100,35 @@ Before you receive STELARA®, tell your doctor if you:
 - are breast-feeding or plan to breast-feed.
   It is thought that STELARA® passes into your breast milk.
   You should not breast-feed while taking STELARA® without first talking with your doctor.
-- ever had an allergic reaction to STELARA®.
-  Ask your doctor if you are not sure.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Especially tell your doctor if you:
-
-- take or have taken other medicines that affect your immune system.
-- take certain medicines that can affect how your liver breaks down other medicines.
-
-Ask your doctor or pharmacist if you are not sure if your medicine is one that is listed above.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Know the medicines you take.
 Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
-How will I receive STELARA®?
+How should I use STELARA®?
 
-- STELARA® is given by injection under the skin (subcutaneous injection).
-- STELARA® should only be given by a healthcare provider as directed by your doctor.
-- Your doctor will decide the right dose of STELARA® for you and how often you should receive it.
+- Use STELARA® exactly as prescribed by your doctor.
+- If your doctor decides that you or a caregiver may give your injections of STELARA® at home, you should receive training on the right way to prepare and inject STELARA®.
+  Do not try to inject STELARA® yourself until you or your caregiver have been shown how to inject STELARA® by your doctor or nurse.
+- STELARA® is given by injection under the skin (subcutaneous injection), in your upper arms, buttocks, upper legs (thighs) or stomach area (abdomen).
+- Do not give an injection in an area of the skin that is tender, bruised, red or hard.
+- Use a different injection site each time you use STELARA®.
+- If you inject more STELARA® than prescribed, call your doctor right away.
 - Be sure to keep all of your scheduled follow-up appointments.
+- Read the detailed Instructions for Use at the end of this Medication Guide for instructions about how to prepare and inject a dose of STELARA®, and how to properly throw away (dispose of) used needles and syringes.
 
-What should I avoid while receiving STELARA®?
+What should I avoid while using STELARA®?
 
 You should not receive a live vaccine while taking STELARA®.
-See "What should I tell my doctor before taking STELARA®?"
+See "What should I tell my doctor before receiving STELARA®?"
 
 What are the possible side effects of STELARA®?
 
-STELARA® can increase your chances of having serious side effects.
+STELARA® may cause serious side effects, including:
 
 - See "What is the most important information I should know about STELARA®?"
-- Serious Allergic reactions.
+- Serious allergic reactions.
   Serious allergic reactions can occur with STELARA®.
   Get medical help right away if you have any of the following symptoms of a serious allergic reaction:
   - feeling faint
@@ -150,13 +152,26 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 You may also report side effects to Janssen Biotech, Inc. at 1-800-JANSSEN (1-800-526-7736).
 
+How do I store STELARA®?
+
+- Store STELARA® in a refrigerator, between 36ºF to 46ºF (2ºC to 8ºC) in the original carton until it is used.
+- Store STELARA® vials upright.
+- Protect from light.
+- Do not freeze STELARA®.
+- Do not shake STELARA®.
+- Throw away (dispose of) any unused STELARA®.
+
+Keep STELARA® and all medicines out of the reach of children.
+
 General information about STELARA®
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use STELARA® for a condition for which it was not prescribed.
+Do not give STELARA® to other people, even if they have the same symptoms that you have.
+It may harm them.
 
-This Medication Guide summarizes the most important information about STELARA®.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about STELARA® that was written for healthcare professionals.
+You can ask your doctor or pharmacist for information about STELARA® that was written for health professionals.
 
 What are the ingredients in STELARA®?
 
@@ -166,12 +181,10 @@ Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, po
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, License No. 1864 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403 and at Cilag AG, Schaffhausen, Switzerland
+Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US License No. 1864 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403 and at Cilag AG, Schaffhausen, Switzerland
 
-Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, License No. 1864 at Cilag AG, Schaffhausen, Switzerland
+Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
-Revised 04/2013
-
-U.S. License No. 1864
+Revised 05/2013
 
 © Janssen Biotech, Inc. 2012

@@ -11,7 +11,12 @@ STELARA® is administered by subcutaneous injection.
 
 ## 2.2 General Considerations for Administration
 
-STELARA® is for subcutaneous administration under the supervision of a physician.
+STELARA® is for subcutaneous administration.
+STELARA® is intended for use under the guidance and supervision of a physician.
+STELARA® should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician.
+
+After proper training in subcutaneous injection technique, a patient may self inject with STELARA® if a physician determines that it is appropriate.
+Patients should be instructed to follow the directions provided in the Medication Guide (see Medication Guide).
 
 Prior to administration, STELARA® should be visually inspected for particulate matter and discoloration.
 STELARA® is colorless to light yellow and may contain a few small translucent or white particles.
@@ -23,9 +28,6 @@ The needle cover should not be handled by persons sensitive to latex.
 
 It is recommended that each injection be administered at a different anatomic location (such as upper arms, gluteal regions, thighs, or any quadrant of abdomen) than the previous injection, and not into areas where the skin is tender, bruised, erythematous, or indurated.
 When using the single-use vial, a 27 gauge, ½ inch needle is recommended.
-
-STELARA® should only be administered by a healthcare provider.
-STELARA® should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician.
 
 ## 2.3 Instructions for Administration of STELARA® Prefilled Syringes Equipped with Needle Safety Guard
 
