@@ -1,5 +1,3 @@
-# Principal display panel - carton label
-
 NDC 24208-443-35
 
 Bausch & Lomb

@@ -26,3 +26,7 @@ Tampa, Florida 33637 USA
 ©Bausch & Lomb Incorporated
 
 Lotemax is a registered trademark of Bausch & Lomb Incorporated
+
+9234801 (flat)
+
+9234901 (folded)
