@@ -49,7 +49,7 @@ Evidence suggests that folic acid supplementation prior to conception and during
 
 Valproate can cause decreased IQ scores following in utero exposure.
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another antiepileptic drug or to no antiepileptic drugs.
-The largest of these studies is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
+The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
 94-101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
 105–110]), carbamazepine (105 [95% C.I.
 102–108]), and phenytoin (108 [95% C.I.
@@ -61,8 +61,7 @@ Although all of the available studies have methodological limitations, the weigh
 
 In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
 
-Valproate use is contraindicated during pregnancy in women being treated for prophylaxis of migraine headaches.
-Women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant should not be treated with valproate unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
+Women with epilepsy who are pregnant or who plan to become pregnant should not be treated with valproate unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
 In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
 
 ## 5.4 Use in Women of Childbearing Potential
@@ -74,9 +73,9 @@ Women who are planning a pregnancy should be counseled regarding the relative ri
 
 To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 
-- Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
-  It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
-  Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
+Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
+It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
+Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
 
 ## 5.5 Pancreatitis
 

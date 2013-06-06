@@ -26,8 +26,7 @@ Fetal Risk
 Valproate can cause major congenital malformations, particularly neural tube defects (e.g., spina bifida).
 In addition, valproate can cause decreased IQ scores following in utero exposure.
 
-Valproate is therefore contraindicated in pregnant women treated for prophylaxis of migraine [see Contraindications (4)].
-Valproate should only be used to treat pregnant women with epilepsy or bipolar disorder if other medications have failed to control their symptoms or are otherwise unacceptable.
+Valproate should only be used to treat pregnant women with epilepsy if other medications have failed to control their symptoms or are otherwise unacceptable.
 
 Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
 This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).

@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D for epilepsy and for manic episodes associated with bipolar disorder [see Warnings and Precautions (5.2, 5.3)].
-
-Pregnancy Category X for prophylaxis of migraine headaches [see Contraindications (4)].
+Pregnancy Category D for epilepsy [see Warnings and Precautions (5.2, 5.3)].
 
 Pregnancy Registry
 
@@ -33,8 +31,7 @@ Clinical Considerations
 - Because of the risks of decreased IQ, neural tube defects, and other fetal adverse events, which may occur very early in pregnancy:
   - Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
     This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
-  - Valproate is contraindicated during pregnancy in women being treated for prophylaxis of migraine headaches.
-  - Valproate should not be used to treat women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
+  - Valproate should not be used to treat women with epilepsy who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
     In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
     When treating a pregnant woman or a woman of childbearing potential, carefully consider both the potential risks and benefits of treatment and provide appropriate counseling.
 - To prevent major seizures, women with epilepsy should not discontinue valproate abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
