@@ -82,7 +82,7 @@ MUSE should not be used for sexual intercourse with a pregnant woman unless the 
 
 Sexually Transmitted Diseases
 
-MUSE will not protect you or your partner from sexually transmitted diseases like chlamydia, gonorrhea, herpes simplex virus, viral hepatitis, human immunodeficiency virus(HIV the virus that causes AIDS), human papilloma virus (genital warts), and syphilis.
+MUSE will not protect you or your partner from sexually transmitted diseases like chlamydia, gonorrhea, herpes simplex virus, viral hepatitis, human immunodeficiency virus (HIV the virus that causes AIDS), human papilloma virus (genital warts), and syphilis.
 Latex condoms can protect against these sexually transmitted diseases.
 
 HOW SHOULD I STORE MUSE?
@@ -241,12 +241,12 @@ How often can I safely use MUSE?
 
 MUSE should not be used more than twice per day.
 
-If you have any additional questions about MUSE, please call the toll free patient information line at Meda Pharmaceuticals Inc. 1-888-367-MUSE (1-888-367-6873), or visit the MUSE product web site, http:// www.muserx.net
+If you have any additional questions about MUSE, please call the toll free patient information line at Meda Pharmaceuticals Inc. 1-888-367-MUSE (1-888-367-6873), or visit the MUSE product web site, http://www.muserx.net
 
 MUSE® IS A REGISTERED TRADEMARK OF MEDA AB, USED UNDER LICENSE BY MEDA PHARMACEUTICALS INC.
 
 MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-http:// www.muserx.net
+http://www.muserx.net
 
-Catalog Number: 05-10-00000C IS-1001-01 Revised February 2011 ©2011 Meda Pharmaceuticals Inc.
+Catalog Number: 05-10-00000D IS-1001-02 Revised August 2012 U.S. Patent No. 5,886,039 ©2012 Meda Pharmaceuticals Inc.
