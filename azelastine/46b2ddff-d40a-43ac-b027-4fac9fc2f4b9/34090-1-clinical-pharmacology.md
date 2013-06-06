@@ -89,7 +89,7 @@ Table 2: Summary of Primary Efficacy* Analyses for Pivotal Studies Supporting On
 | Study 419: 12 Hour AM and PM Reflective TNSS |  |  |  |  |
 | Sample Size | N=138 | N=141 |  |  |
 | Baseline | 16.34 (4.222) | 17.21 (4.316) |  |  |
-| Change from Baseline | -2.69 (4.789) | -1.31 (4.285) | 1.38 | 0.0017 |
+| Change from Baseline | -2.69 (4.789) | -1.31 (4.285) | 1.38 | 0.0117 |
 | Study 420: 12 Hour AM and PM Reflective TNSS |  |  |  |  |
 | Sample Size | N=137 | N=136 |  |  |
 | Baseline | 16.62 (4.197) | 16.84 (4.768) |  |  |

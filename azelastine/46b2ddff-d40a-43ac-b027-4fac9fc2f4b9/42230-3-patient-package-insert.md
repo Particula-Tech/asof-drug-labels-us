@@ -68,7 +68,7 @@ Somerset, New Jersey 08873-4120
 
 To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-800-526-3840 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-©2011 Meda Pharmaceuticals Inc.
+©2011 Meda Pharmaceuticals Inc. U.S. Patent D447,419 ASTELIN is a registered trademark of Meda Pharmaceuticals Inc.
 
-IN-023S6-09 Rev.
-7/11
+IN-023S6-10 Rev.
+1/12
