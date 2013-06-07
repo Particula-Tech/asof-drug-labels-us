@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020800"
+  ],
+  "inn": "epinephrine",
+  "labeler": "Amedra Phramaceuticals LLC",
+  "package_ndcs": [
+    "52054-803-02",
+    "52054-804-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Adrenaclick"
+    }
+  ],
+  "setid": "ddee42e1-7e9e-4d2e-83ed-2e501b0dac25",
+  "source": "dailymed"
+}
