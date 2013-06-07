@@ -1,4 +1,4 @@
-# BOX WARNINGS: MALIGNANCIES AND SERIOUS INFECTIONS
+# BOXED WARNINGS: MALIGNANCIES AND SERIOUS INFECTIONS
 
 - •Increased risk of development of lymphoma and other malignancies, particularly of the skin, due to immunosuppression [see WARNINGS AND PRECAUTIONS (5.2)].
 - •Increased susceptibility to bacterial, viral, fungal, and protozoal infections, including opportunistic infections [see WARNINGS AND PRECAUTIONS (5.3, 5.4, 5.5)].

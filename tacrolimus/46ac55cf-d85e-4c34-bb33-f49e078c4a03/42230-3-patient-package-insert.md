@@ -28,15 +28,13 @@ Call your doctor right away if you have symptoms of an infection such as:
 
 What are Tacrolimus Capsules?
 
-Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney or liver transplant and
+Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant and tacrolimus capsules are not for use with medicines called cyclosporines (Gengraf®, Neoral®, and Sandimune®).
 
-Tacrolimus capsules are not for use with medicines called cyclosporines (Gengraf®, Neoral®, and Sandimune®).
-
-Tacrolimus capsules are not for use with a medicine called sirolimus (Rapamune®) in people who have had a liver transplant.
+Tacrolimus capsules are not for use with a medicine called sirolimus (Rapamune®) in people who have had a liver or heart transplant.
 
 It is not known if tacrolimus capsules are safe and effective when used with sirolimus in people who have had kidney transplants.
 
-It is not known if tacrolimus capsules are safe and effective in children who have had a kidney transplant.
+It is not known if tacrolimus capsules are safe and effective in children who have had a kidney or heart transplant.
 
 Who should not take Tacrolimus Capsules?
 
@@ -181,6 +179,11 @@ The most common side effects of Tacrolimus Capsules in people receiving liver tr
 - •weakness
 - •high levels of potassium in the blood
 - •low levels of magnesium in the blood
+- 
+- The most common side effects of tacrolimus capsules for heart transplant patients are:
+
+- •kidney problems
+- •high blood pressure
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -208,7 +211,7 @@ How do Tacrolimus Capsules protect my new organ?
 
 The body’s immune system protects the body against anything that it does not recognize as part of the body.
 For example, when the immune system detects a virus or bacteria it tries to get rid of it to prevent infection.
-When a person has a liver or kidney transplant, the immune system does not recognize the new organ as a part of the body and tries to get rid of it, too.
+When a person has a liver, kidney, or heart transplant, the immune system does not recognize the new organ as a part of the body and tries to get rid of it, too.
 This is called “rejection”.
 Tacrolimus capsules protect your new organ by slowing down the body’s immune system.
 
@@ -239,4 +242,4 @@ Manufactured in India by Sandoz Private Limited for
 
 Sandoz Inc; Princeton NJ 08540
 
-Revised: November 2012
+Revised: March 2013

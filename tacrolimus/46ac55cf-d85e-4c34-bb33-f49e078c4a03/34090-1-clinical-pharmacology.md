@@ -15,21 +15,25 @@ In animals, tacrolimus has been demonstrated to suppress some humoral immunity a
 ## 12.3 Pharmacokinetics
 
 Tacrolimus activity is primarily due to the parent drug.
-The pharmacokinetic parameters (mean±S.D.) of tacrolimus have been determined following intravenous (IV) and/or oral (PO) administration in healthy volunteers, and in kidney transplant and liver transplant patients (Table 12).
+The pharmacokinetic parameters (mean±S.D.) of tacrolimus have been determined following intravenous (IV) and/or oral (PO) administration in healthy volunteers, and in kidney transplant, liver transplant, and heart transplant patients (Table 14).
 
-Table 12.
+Table 14.
 Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and Patients
 
 | Population | N | Route(Dose) | Parameters |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cmax(ng/mL) | Tmax(hr) | AUC(ng•hr/mL) | t1/2(hr) | CI(L/hr/kg) | V(L/kg) |  |  |  |
-| HealthyVolunteers | 8 | IV(0.025 mg/kg/4hr) | not applicable |  | 598AUC0-120± 125 | 34.2± 7.7 | 0.040± 0.009 | 1.91± 0.31 |
-| 16 | PO(5 mg) | 29.7± 7.2 | 1.6± 0.7 | 243AUC0-72± 73 | 34.8± 11.4 | 0.041Corrected for individual bioavailability± 0.008 | 1.94± 0.53 |  |
-| KidneyTransplantPatients | 26 | IV(0.02 mg/kg/12 hr) |  |  | 294AUC 0-inf± 262 | 18.8± 16.7 | 0.083± 0.050 | 1.41± 0.66 |
-| PO(0.2 mg/kg/day) | 19.2± 10.3 | 3 | 203± 42 | not available |  |  |  |  |
-| PO(0.3 mg/kg/day) | 24.2± 15.8 | 1.5 | 288± 93 |  |  |  |  |  |
-| LiverTransplantPatients | 17 | IV(0.05 mg/kg/12 hr) |  |  | 3300± 2130 | 11.7± 3.9 | 0.053± 0.017 | 0.85± 0.30 |
-| PO(0.3 mg/kg/day) | 68.5± 30 | 2.3± 1.5 | 519± 179 |  |  |  |  |  |
+| HealthyVolunteers | 8 | IV(0.025 mg/kg/4hr) | a | a | 598b± 125 | 34.2± 7.7 | 0.040± 0.009 | 1.91± 0.31 |
+| 16 | PO(5 mg) | 29.7± 7.2 | 1.6± 0.7 | 243c± 73 | 34.8± 11.4 | 0.041d± 0.008 | 1.94d± 0.53 |  |
+| KidneyTransplantPatients | 26 | IV(0.02 mg/kg/12 hr) | a | a | 294e± 262 | 18.8± 16.7 | 0.083± 0.050 | 1.41± 0.66 |
+| PO(0.2 mg/kg/day) | 19.2± 10.3 | 3 | 203e± 42 | f | f | f |  |  |
+| PO(0.3 mg/kg/day) | 24.2± 15.8 | 1.5 | 288e± 93 | f | f | f |  |  |
+| LiverTransplantPatients | 17 | IV(0.05 mg/kg/12 hr) | a | a | 3300e± 2130 | 11.7± 3.9 | 0.053± 0.017 | 0.85± 0.30 |
+| PO(0.3 mg/kg/day) | 68.5± 30 | 2.3± 1.5 | 519e± 179 | f | f | f |  |  |
+| HeartTransplantPatients | 11 | IV (0.01 mg/kg/day as a continuous infusion) | a | a | 954g± 334 | 23.6± 9.22 | 0.051± 0.015 | f |
+| 11 | PO(0.075 mg/kg/day)h | 14.7± 7.79 | 2.1[0.5-6]i | 82.7j± 63.2 | a | f | f |  |
+| 14 | PO(0.15 mg/kg/day)h | 24.5± 13.7 | 1.5[0.4-4]i | 142j± 116 | a | f | f |  |
+| anot applicable bAUC0-120 cAUC0-72 dCorrected for individual bioavailability eAUC0-inf fnot available gAUC0-t hDetermined after the first dose iMedian [range] jAUC0-12 |  |  |  |  |  |  |  |  |
 
 Due to intersubject variability in tacrolimus pharmacokinetics, individualization of dosing regimen is necessary for optimal therapy [see DOSAGE AND ADMINISTRATION (2.6)].
 Pharmacokinetic data indicate that whole blood concentrations rather than plasma concentrations serve as the more appropriate sampling compartment to describe tacrolimus pharmacokinetics.
@@ -37,7 +41,7 @@ Pharmacokinetic data indicate that whole blood concentrations rather than plasma
 Absorption
 
 Absorption of tacrolimus from the gastrointestinal tract after oral administration is incomplete and variable.
-The absolute bioavailability of tacrolimus was 17±10% in adult kidney transplant patients (N=26), 22±6% in adult liver transplant patients (N=17) and 18±5% in healthy volunteers (N=16).
+The absolute bioavailability of tacrolimus was 17±10% in adult kidney transplant patients (N=26), 22±6% in adult liver transplant patients (N=17), 23±9% in adult heart transplant patients (N=11) and 18±5% in healthy volunteers (N=16).
 
 A single dose trial conducted in 32 healthy volunteers established the bioequivalence of the 1 mg and 5 mg capsules.
 Another single dose trial in 32 healthy volunteers established the bioequivalence of the 0.5 mg and 1 mg capsules.
@@ -45,6 +49,7 @@ Tacrolimus maximum blood concentrations (Cmax) and area under the curve (AUC) ap
 
 In 18 kidney transplant patients, tacrolimus trough concentrations from 3 to 30 ng/mL measured at 10 to 12 hours post-dose (Cmin) correlated well with the AUC (correlation coefficient 0.93).
 In 24 liver transplant patients over a concentration range of 10 to 60 ng/mL, the correlation coefficient was 0.94.
+In 25 heart transplant patients over a concentration range of 2 to 24 ng/mL, the correlation coefficient was 0.89 after an oral dose of 0.075 or 0.15 mg/kg/day at steady-state.
 
 Food Effects
 
@@ -101,19 +106,18 @@ Pharmacokinetics of tacrolimus have also been studied in kidney transplantation 
 Following oral administration, mean AUC and Cmax were 181±65 (range 81 to 300) ng·hr/mL and 30±11 (range 14 to 49) ng/mL, respectively.
 The absolute bioavailability was 19±14 (range 5.2 to 56) %.
 
-Renal and Hepatic Impairment The mean pharmacokinetic parameters for tacrolimus following single administrations to patients with renal and hepatic impairment are given in Table 13.
+Renal and Hepatic Impairment The mean pharmacokinetic parameters for tacrolimus following single administrations to patients with renal and hepatic impairment are given in Table 15.
 
-Table 13.
+Table 15.
 Pharmacokinetic In Renal and Hepatic Impaired Patients
 
 | Population(No. of Patients) | Dose | AUC0-t(ng·hr/mL) | t1/2(hr) | V(L/kg) | CIL/hr/kg) |
 | --- | --- | --- | --- | --- | --- |
 | RenalImpairment(n=12) | 0.02 mg/kg/4hrIV | 393±123(t=60 hr) | 26.3±9.2 | 1.07±0.20 | 0.038±0.014 |
 | Mild Hepatic Impairment(n=6) | 0.02 mg/kg/4hr IV | 367±107 (t=72 hr) | 60.6±43.8 Range: 27.8 to 141 | 3.1±1.6 | 0.042 ±0.02 |
-| 7.7 mgPO | 488±320(t=72 hr) | 66.1±44.8Range: 29.5 to 138 | 3.7±4.7a | 0.034±0.019a |  |
+| 7.7 mgPO | 488±320(t=72 hr) | 66.1±44.8Range: 29.5 to 138 | 3.7±4.71 patient did not receive the PO dose. | 0.034±0.019Corrected for bioavailability. |  |
 | SevereHepaticImpairment(n=6, IV) | 0.02 mg/kg/4hrIV (n=2)0.01 mg/kg/8hrIV (n=4) | 762±204(t=120 hr)289±117(t=144 hr) | 198±158Range: 81 to 436 | 3.9±1 | 0.017±0.013 |
-| (n=5, PO)b | 8 mg PO(n=1)5 mg PO(n=4)4 mg PO(n=1) | 658(t=120 hr)533±156 (t=144 hr) | 119±35Range: 85 to 178 | 3.1±3.4a | 0.016±0.011a |
-| a corrected for bioavailability b 1 patient did not receive the PO dose |  |  |  |  |  |
+| (n=5, PO) | 8 mg PO(n=1)5 mg PO(n=4)4 mg PO(n=1) | 658(t=120 hr)533±156 (t=144 hr) | 119±35Range: 85 to 178 | 3.1±3.4 | 0.016±0.011 |
 
 Renal Impairment: Tacrolimus pharmacokinetics following a single IV administration were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9±1.6 and 12±2.4 mg/dL, respectively) prior to their kidney transplant.
 The pharmacokinetic parameters obtained were similar for both groups.
@@ -135,7 +139,7 @@ A retrospective comparison of African-American and Caucasian kidney transplant p
 Gender
 
 A formal trial to evaluate the effect of gender on tacrolimus pharmacokinetics has not been conducted, however, there was no difference in dosing by gender in the kidney transplant trial.
-A retrospective comparison of pharmacokinetics in healthy volunteers, and in kidney and liver transplant patients indicated no gender-based differences.
+A retrospective comparison of pharmacokinetics in healthy volunteers, and in kidney, liver and heart transplant patients indicated no gender-based differences.
 
 Drug Interactions
 
