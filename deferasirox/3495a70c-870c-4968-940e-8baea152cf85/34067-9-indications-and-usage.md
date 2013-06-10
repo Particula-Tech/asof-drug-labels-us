@@ -4,7 +4,7 @@
 
 Exjade is indicated for the treatment of chronic iron overload due to blood transfusions (transfusional hemosiderosis) in patients 2 years of age and older.
 This indication is based on a reduction of liver iron concentrations and serum ferritin levels [see Clinical Studies (14)].
-An improvement in survival or disease related symptoms has not been established.
+An improvement in survival or disease-related symptoms has not been established [see Indications and Usage (1.3)].
 
 ## 1.2 Treatment of Chronic Iron Overload in Non-Transfusion Dependent Thalassemia Syndromes
 
@@ -13,5 +13,7 @@ This indication is based on achievement of an LIC less than 5 mg Fe/g dw [see Cl
 An improvement in survival or disease-related symptoms has not been established.
 
 ## 1.3 Limitation of Use
+
+Controlled clinical trials of Exjade with myelodysplastic syndromes (MDS) and chronic iron overload due to blood transfusions have not been performed [see Clinical Studies (14)].
 
 The safety and efficacy of Exjade when administered with other iron chelation therapy have not been established.

@@ -8,7 +8,7 @@ There are no adequate and well-controlled studies with Exjade in pregnant women.
 Administration of deferasirox to animals during pregnancy and lactation resulted in decreased offspring viability and an increase in renal anomalies in male offspring at exposures that were less than the recommended human exposure.
 Exjade should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-In embryofetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to (100 mg per kg/day in rats and 50 mg per kg/day in rabbits) 0.8 times the MRHD (Maximum Recommended Human Dose) on a mg/m2 basis.
+In embryofetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to (100 mg per kg/day in rats and 50 mg per kg/day in rabbits) 0.8 times the Maximum Recommended Human Dose (MRHD) on a mg/m2 basis.
 These doses resulted in maternal toxicity but no fetal harm was observed.
 
 In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses (10, 30, and 90 mg per kg/day) 0.08, 0.2, and 0.7 times the MRHD on a mg/m2 basis.
@@ -38,7 +38,7 @@ Safety and effectiveness have not been established in pediatric patients with ch
 
 ## 8.5 Geriatric Use
 
-Four hundred and thirty-one (431) patients ≥65 years of age were studied in clinical trials of Exjade in the transfusional iron overload setting.
+Four hundred thirty-one (431) patients ≥65 years of age were studied in clinical trials of Exjade in the transfusional iron overload setting.
 The majority of these patients had myelodysplastic syndrome (MDS) (n=393).
 In these trials, elderly patients experienced a higher frequency of adverse reactions than younger patients.
 Monitor elderly patients for early signs or symptoms of adverse reactions that may require a dose adjustment.
@@ -47,20 +47,19 @@ Dose selection for an elderly patient should be cautious, usually starting at th
 
 ## 8.6 Renal Impairment
 
-The safety, efficacy and pharmacokinetics of Exjade have not been studied in patients with renal impairment.
+For patients with renal impairment (ClCr 40-60 mL/min), reduce the starting dose by 50% [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Exjade is contraindicated in patients with a creatinine clearance <40 mL/min or serum creatinine >2 times the age-appropriate upper limit of normal [see Contraindications (4)].
 
 Exjade can cause renal failure.
 Monitor serum creatinine and calculate creatinine clearance (using Cockcroft-Gault method) during treatment in all patients.
 Reduce, interrupt or discontinue Exjade dosing based on increases in serum creatinine [see Dosage and Administration (2.4, 2.5) and Warnings and Precautions (5.1)].
 
-Exjade is contraindicated in patients with a creatinine clearance <40 mL/min or serum creatinine >2 times the age-appropriate upper limit of normal [see Contraindications (4)].
-
 ## 8.7 Hepatic Impairment
 
 In a single dose (20 mg/kg) study in patients with varying degrees of hepatic impairment, deferasirox exposure was increased compared to patients with normal hepatic function.
-The average total (free and bound) AUC of deferasirox increased 16% in 6 subjects with mild (Child-Pugh A) hepatic impairment, and 76% in 6 subjects with moderate (Child-Pugh B) hepatic impairment compared to 6 subjects with normal hepatic function.
-The impact of severe (Child-Pugh C) hepatic impairment was assessed in only one subject.
+The average total (free and bound) AUC of deferasirox increased 16% in 6 patients with mild (Child-Pugh A) hepatic impairment, and 76% in 6 patients with moderate (Child-Pugh B) hepatic impairment compared to 6 patients with normal hepatic function.
+The impact of severe (Child-Pugh C) hepatic impairment was assessed in only 1 patient.
 
 Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
 For patients with moderate (Child-Pugh B) hepatic impairment, the starting dose should be reduced by 50%.
-Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [See Dosage and Administration (2.4), and Warnings and Precautions (5.2].
+Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [see Dosage and Administration (2.4), and Warnings and Precautions (5.2].

@@ -14,14 +14,14 @@ Closely monitor patients for signs of reduced effectiveness when deferasirox is 
 
 Deferasirox inhibits CYP2C8 resulting in an increase in CYP2C8 substrate (e.g., repaglinide and paclitaxel) concentration when these drugs are coadministered.
 If Exjade and repaglinide are used concomitantly, consider decreasing the dose of repaglinide and perform careful monitoring of blood glucose levels.
-Closely monitor patients for signs of exposure related toxicity when Exjade is co-administered with other CYP2C8 substrates [see Clinical Pharmacology (12.3)].
+Closely monitor patients for signs of exposure related toxicity when Exjade is coadministered with other CYP2C8 substrates [see Clinical Pharmacology (12.3)].
 
 ## 7.4 Agents Metabolized by CYP1A2
 
 Deferasirox inhibits CYP1A2 resulting in an increase in CYP1A2 substrate (e.g., alosetron, caffeine, duloxetine, melatonin, ramelteon, tacrine, theophylline, tizanidine) concentration when these drugs are coadministered.
 An increase in theophylline plasma concentrations could lead to clinically significant theophylline induced CNS or other adverse reactions.
 Avoid the concomitant use of theophylline or other CYP1A2 substrates with a narrow therapeutic index (e.g., tizanidine) with Exjade.
-Monitor theophylline concentrations and consider theophylline dose modification if you must co-administer theophylline with Exjade.
+Monitor theophylline concentrations and consider theophylline dose modification if you must coadminister theophylline with Exjade.
 Closely monitor patients for signs of exposure related toxicity when Exjade is coadministered with other drugs metabolized by CYP1A2 [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Agents Inducing UDP-glucuronosyltransferase (UGT) Metabolism
@@ -29,9 +29,9 @@ Closely monitor patients for signs of exposure related toxicity when Exjade is c
 Deferasirox is a substrate of UGT1A1 and to a lesser extent UGT1A3.
 The concomitant use of Exjade with potent UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) may result in a decrease in Exjade efficacy due to a possible decrease in deferasirox concentration.
 Avoid the concomitant use of potent UGT inducers with Exjade.
-Consider increasing the initial dose of Exjade if you must co-administer these agents together [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Consider increasing the initial dose of Exjade if you must coadminister these agents together [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 7.6 Bile Acid Sequestrants
 
 Avoid the concomitant use of bile acid sequestrants (e.g., cholestyramine, colesevelam, colestipol) with Exjade due to a possible decrease in deferasirox concentration.
-If you must co-administer these agents together, consider increasing the initial dose of Exjade [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+If you must coadminister these agents together, consider increasing the initial dose of Exjade [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].

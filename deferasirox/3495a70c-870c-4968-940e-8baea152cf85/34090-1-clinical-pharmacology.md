@@ -9,7 +9,7 @@ The clinical significance of these decreases is uncertain.
 
 ## 12.2 Pharmacodynamics
 
-Pharmacodynamic effects tested in an iron balance metabolic study showed that deferasirox (10, 20 and 40 mg per kg per day) was able to induce a mean net iron excretion (0.119, 0.329 and 0.445 mg Fe/kg body weight per day, respectively) within the clinically relevant range (0.1-0.5 mg per kg per day).
+Pharmacodynamic effects tested in an iron balance metabolic study showed that deferasirox (10, 20, and 40 mg per kg per day) was able to induce a mean net iron excretion (0.119, 0.329, and 0.445 mg Fe/kg body weight per day, respectively) within the clinically relevant range (0.1-0.5 mg per kg per day).
 Iron excretion was predominantly fecal.
 
 ## 12.3 Pharmacokinetics
@@ -63,7 +63,7 @@ In vitro studies:
 - Cytochrome P450 Enzymes: Deferasirox inhibits human CYP3A4, CYP2C8, CYP1A2, CYP2A6, CYP2D6, and CYP2C19 in vitro.
 - Transporter Systems: The addition of cyclosporin A (PgP/MRP1/MRP2 inhibitor) or verapamil (PgP/MRP1 inhibitor) did not influence ICL670 permeability in vitro.
 
-Pharmacokinetics in Special Populations
+Pharmacokinetics in Specific Populations
 
 Pediatric: Following oral administration of single or multiple doses, systemic exposure of adolescents and children to deferasirox was less than in adult patients.
 In children <6 years of age, systemic exposure was about 50% lower than in adults.
@@ -71,6 +71,8 @@ In children <6 years of age, systemic exposure was about 50% lower than in adult
 Geriatric: The pharmacokinetics of deferasirox have not been studied in elderly patients (65 years of age or older).
 
 Gender: Females have a moderately lower apparent clearance (by 17.5%) for deferasirox compared to males.
+
+Renal Impairment: Compared to patients with MDS and ClCr >60 mL/min, patients with MDS and ClCr 40 to 60 mL/min (n=34) had approximately 50% higher mean deferasirox trough plasma concentrations.
 
 ## 12.6 QT Prolongation
 

@@ -1,16 +1,16 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Renal Toxicity, Renal Failure and Proteinuria
+## 5.1 Renal Toxicity, Renal Failure, and Proteinuria
 
 Exjade can cause acute renal failure, fatal in some patients and requiring dialysis in others.
-Post-marketing experience showed that most fatalities occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
+Postmarketing experience showed that most fatalities occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
 In the clinical trials, Exjade-treated patients experienced dose-dependent increases in serum creatinine.
-In patients with transfusional iron overload, these increases in creatinine occurred at a greater frequency compared to deferoxamine-treated patients (38% vs. 14%, respectively, in Study 1 and 36% vs 22%, respectively, in Study 3) [see Adverse Reactions (6.1) and (6.2)].
+In patients with transfusional iron overload, these increases in creatinine occurred at a greater frequency compared to deferoxamine-treated patients (38% versus 14%, respectively, in Study 1 and 36% versus 22%, respectively, in Study 3) [see Adverse Reactions (6.1) and (6.2)].
 
 Measure serum creatinine in duplicate (due to variations in measurements) and determine the creatinine clearance (estimated by the Cockcroft-Gault method) before initiating therapy in all patients in order to establish a reliable pretreatment baseline.
 Monitor serum creatinine weekly during the first month after initiation or modification of therapy and at least monthly thereafter.
 Monitor serum creatinine and/or creatinine clearance more frequently if creatinine levels are increasing.
-Dose reduction, interruption, or discontinuation based on increases in serum creatinine may be necessary [see Dose and Administration (2.5)].
+Dose reduction, interruption, or discontinuation based on increases in serum creatinine may be necessary [see Dosage and Administration (2.5)].
 
 Exjade is contraindicated in patients with creatinine clearance less than 40 mL/minute or serum creatinine greater than 2 times the age appropriate upper limit of normal.
 
@@ -24,7 +24,7 @@ The mechanism and clinical significance of the proteinuria are uncertain [see Ad
 ## 5.2 Hepatic Toxicity and Failure
 
 Exjade can cause hepatic injury, fatal in some patients.
-In Study 1, 4 patients [1.3%] discontinued Exjade because of hepatic toxicity (drug-induced hepatitis in 2 patients and increased serum transaminases in 2 additional patients).
+In Study 1, 4 patients (1.3%) discontinued Exjade because of hepatic toxicity (drug-induced hepatitis in 2 patients and increased serum transaminases in 2 additional patients).
 Hepatic toxicity appears to be more common in patients greater than 55 years of age.
 Hepatic failure was more common in patients with significant comorbidities, including liver cirrhosis and multiorgan failure [see Adverse Reactions (6.1)].
 
@@ -38,9 +38,9 @@ Patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment 
 ## 5.3 Gastrointestinal (GI) Hemorrhage
 
 GI hemorrhage, including deaths, has been reported, especially in elderly patients who had advanced hematologic malignancies and/or low platelet counts.
-Non-fatal upper GI irritation, ulceration and hemorrhage have been reported in patients, including children and adolescents, receiving Exjade [see Adverse Reactions (6.1)].
+Nonfatal upper GI irritation, ulceration and hemorrhage have been reported in patients, including children and adolescents, receiving Exjade [see Adverse Reactions (6.1)].
 Monitor for signs and symptoms of GI ulceration and hemorrhage during Exjade therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
-The risk of gastrointestinal hemorrhage may be increased when administering Exjade in combination with drugs that have ulcerogenic or hemorrhagic potential, such as non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids, oral bisphosphonates, or anticoagulants.
+The risk of gastrointestinal hemorrhage may be increased when administering Exjade in combination with drugs that have ulcerogenic or hemorrhagic potential, such as nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, oral bisphosphonates, or anticoagulants.
 
 ## 5.4 Bone Marrow Suppression
 
@@ -68,7 +68,7 @@ For rashes of mild to moderate severity, Exjade may be continued without dose ad
 In severe cases, interrupt treatment with Exjade.
 Reintroduction at a lower dose with escalation may be considered in combination with a short period of oral steroid administration.
 
-## 5.8 Erythema multiforme
+## 5.8 Erythema Multiforme
 
 Erythema multiforme has been reported during Exjade therapy.
 If erythema multiforme is suspected, discontinue Exjade and evaluate.

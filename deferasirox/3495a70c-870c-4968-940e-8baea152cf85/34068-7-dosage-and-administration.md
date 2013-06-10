@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Transfusional iron overload
+## 2.1 Transfusional Iron Overload
 
 Exjade therapy should only be considered when a patient has evidence of chronic transfusional iron overload.
 The evidence should include the transfusion of at least 100 mL/kg of packed red blood cells (e.g., at least 20 units of packed red blood cells for a 40-kg person or more in individuals weighing more than 40 kg), and a serum ferritin consistently greater than 1000 mcg/L.
@@ -22,14 +22,14 @@ Doses above 40 mg per kg are not recommended.
 
 If the serum ferritin falls consistently below 500 mcg/L, consider temporarily interrupting therapy with Exjade [see Warnings and Precautions (5.10)].
 
-## 2.2 Iron overload in Non-transfusion dependent thalassemia syndromes
+## 2.2 Iron Overload in Non-Transfusion Dependent Thalassemia Syndromes
 
 Exjade therapy should only be considered when a patient with a non-transfusion dependent thalassemia syndrome has an LIC of at least 5 mg Fe/g dw and a serum ferritin greater than 300 mcg/L.
 
 Prior to starting therapy, obtain:
 
 - LIC by liver biopsy or by an FDA-cleared or approved method for identifying patients for treatment with deferasirox therapy
-- Serum ferritin level on at least 2 measurements one month apart [see Clinical Studies (14)]
+- Serum ferritin level on at least 2 measurements 1 month apart [see Clinical Studies (14)]
 - Baseline serum creatinine in duplicate (due to variations in measurements) and determine the creatinine clearance (Cockcroft-Gault method) [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)]
 - Serum transaminases and bilirubin [see Dosage and Administration (2.4) and Warnings and Precautions (5.2)]
 - Baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.9)]
@@ -60,7 +60,7 @@ Do not chew tablets or swallow them whole.
 Take Exjade once daily on an empty stomach at least 30 minutes before food, preferably at the same time each day.
 Completely disperse tablets by stirring in water, orange juice, or apple juice until a fine suspension is obtained.
 Disperse doses of less than 1 g in 3.5 ounces of liquid and doses of 1 g or greater in 7 ounces of liquid.
-After swallowing the suspension, re-suspend any residue in a small volume of liquid and swallow.
+After swallowing the suspension, resuspend any residue in a small volume of liquid and swallow.
 Do not take Exjade with aluminum-containing antacid products [see Drug Interactions (7.1)].
 
 ## 2.4 Use in Patients with Baseline Hepatic or Renal Impairment
@@ -75,18 +75,18 @@ Severe (Child-Pugh C) hepatic impairment: Avoid Exjade [see Warnings and Precaut
 
 Patients with Baseline Renal Impairment
 
-For patients with a baseline serum creatinine less than 2 times the age appropriate upper limit of normal, initial dosing is the same as described for patients with a normal creatinine.
-Do not use Exjade in patients with serum creatinine greater than 2 times the upper limit of normal [see Contraindications (4)].
+For patients with renal impairment (ClCr 40-60 mL/min), reduce the starting dose by 50% [see Use in Specific Populations (8.6)].
+Do not use Exjade in patients with serum creatinine greater than 2 times the upper limit of normal or creatinine clearance less than 40 mL/min [see Contraindications (4)].
 
 ## 2.5 Dose Modifications for Increases in Serum Creatinine on Exjade
 
 For serum creatinine increases while receiving Exjade [see Warnings and Precautions (5.1)] modify the dose as follows:
 
-Transfusional iron overload
+Transfusional Iron Overload
 
-Adults and adolescents (ages 16 and older):
+Adults and Adolescents (ages 16 and older):
 
-- If the serum creatinine increases by 33% or more above the average baseline measurement, repeat the serum creatinine within one week, and if still elevated by 33% or more, reduce the dose by 10 mg per kg.
+- If the serum creatinine increases by 33% or more above the average baseline measurement, repeat the serum creatinine within 1 week, and if still elevated by 33% or more, reduce the dose by 10 mg per kg.
 
 Pediatric Patients (ages 2-15 years):
 
@@ -97,11 +97,11 @@ All Patients (regardless of age):
 - Discontinue therapy for serum creatinine greater than 2 times the age-appropriate upper limit of normal or for creatinine clearance <40 mL/min.
   [see Contraindications (4)]
 
-Non-transfusion dependent thalassemia syndromes
+Non-Transfusion Dependent Thalassemia Syndromes
 
-Adults and adolescents (ages 16 and older):
+Adults and Adolescents (ages 16 and older):
 
-- If the serum creatinine increases by 33% or more above the average baseline measurement, repeat the serum creatinine within one week, and if still elevated by 33% or more, interrupt therapy if the dose is 5 mg per kg, or reduce by 50% if the dose is 10 or 20 mg per kg.
+- If the serum creatinine increases by 33% or more above the average baseline measurement, repeat the serum creatinine within 1 week, and if still elevated by 33% or more, interrupt therapy if the dose is 5 mg per kg, or reduce by 50% if the dose is 10 or 20 mg per kg.
 
 Pediatric Patients (ages 10-15 years):
 
@@ -113,11 +113,11 @@ All Patients (regardless of age):
 
 ## 2.6 Dose Modifications Based on Concomitant Medications
 
-UDP-glucuronosyltransferases (UGT) inducers
+UDP-glucuronosyltransferases (UGT) Inducers
 
 Concomitant use of UGT inducers decreases Exjade systemic exposure.
 Avoid the concomitant use of potent UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) with Exjade.
-If you must administer Exjade with one of these agents, consider increasing the initial dose of Exjade by 50%, and monitor serum ferritin levels and clinical responses for further dose modification [see Dosage and Administration (2.1, 2.2) and Drug Interactions (7.5)].
+If you must administer Exjade with 1 of these agents, consider increasing the initial dose of Exjade by 50%, and monitor serum ferritin levels and clinical responses for further dose modification [see Dosage and Administration (2.1, 2.2) and Drug Interactions (7.5)].
 
 Bile Acid Sequestrants
 
