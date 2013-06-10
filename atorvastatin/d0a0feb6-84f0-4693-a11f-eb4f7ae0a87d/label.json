@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA091226"
+  ],
+  "inn": "atorvastatin",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-3950-05",
+    "0378-3950-77",
+    "0378-3951-05",
+    "0378-3951-77",
+    "0378-3952-05",
+    "0378-3952-77",
+    "0378-3953-05",
+    "0378-3953-77"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "atorvastatin calcium",
+      "name": "Atorvastatin Calcium"
+    }
+  ],
+  "setid": "d0a0feb6-84f0-4693-a11f-eb4f7ae0a87d",
+  "source": "dailymed"
+}
