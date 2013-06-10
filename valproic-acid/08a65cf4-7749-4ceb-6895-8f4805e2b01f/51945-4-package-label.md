@@ -1,3 +1,15 @@
+NDC 0074–6212–13
+
+100 Tablets
+
+DEPAKOTE®
+
+DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
+
+125 mg Valproic Acid Activity
+
+Rx only Abbott
+
 NDC 0074–6214–53
 
 500 Tablets
@@ -7,5 +19,17 @@ DEPAKOTE®
 DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
 
 250 mg Valproic Acid Activity
+
+Rx only Abbott
+
+NDC 0074–6215–13
+
+100 Tablets
+
+DEPAKOTE®
+
+DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
+
+500 mg Valproic Acid Activity
 
 Rx only Abbott
