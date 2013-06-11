@@ -15,9 +15,9 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## 8.4 Pediatric Use
 
 Little information is available about the use of ondansetron in pediatric surgical patients younger than 1 month of age.
-[See Clinical Studies(14.2)].
+[See Clinical Studies (14.2)].
 Little information is available about the use of ondansetron in pediatric cancer patients younger than 6 months of age.
-[See Clinical Studies(14.1) and Dosage and Administration (2)].
+[See Clinical Studies (14.1) and Dosage and Administration (2)].
 
 The clearance of ondansetron in pediatric patients 1 month to 4 months of age is slower and the half-life is ~2.5 fold longer than patients who are > 4 to 24 months of age.
 As a precaution, it is recommended that patients less than 4 months of age receiving this drug be closely monitored.

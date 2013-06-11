@@ -17,10 +17,14 @@ Therapeutic response was as shown in Table 6.
 Table 6.
 Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-Day Cisplatin Therapya in Adults
 
-|  | ZOFRAN Injection (0.15 mg/kg x 3) | Placebo | P Valueb |
+|  | Zofran Injection (0.15 mg/kg x 3) | Placebo | P Valueb |
 | --- | --- | --- | --- |
 | Number of patients | 14 | 14 |  |
-| Treatment response 0 Emetic episodes 1-2 Emetic episodes 3-5 Emetic episodes More than 5 emetic episodes/rescued | 2 (14%)8 (57%)2 (14%)2 (14%) | 0 (0%)0 (0%)1 (7%)13 (93%) | 0.001 |
+| Treatment response |  |  |  |
+| 0 Emetic episodes | 2 (14%) | 0 (0%) |  |
+| 1-2 Emetic episodes | 8 (57%) | 0 (0%) |  |
+| 3-5 Emetic episodes | 2 (14%) | 1 (7%) |  |
+| More than 5 emetic episodes/rescued | 2 (14%) | 13 (93%) | 0.001 |
 | Median number of emetic episodes | 1.5 | Undefinedc |  |
 | Median time to first emetic episode (h) | 11.6 | 2.8 | 0.001 |
 | Median nausea scores (0-100)d | 3 | 59 | 0.034 |
@@ -48,12 +52,18 @@ The results of this study are summarized in Table 7.
 Table 7.
 Therapeutic Response in Prevention of Vomiting Induced by Cisplatin (≥ 100 mg/m2) Single-Day Therapya in Adults
 
-|  | ZOFRAN Injection | Metoclopramide | P Value |
+|  | Zofran Injection | Metoclopramide | P Value |
 | --- | --- | --- | --- |
 | Dose | 0.15 mg/kg x 3 | 2 mg/kg x 6 |  |
 | Number of patients in efficacy population | 136 | 138 |  |
-| Treatment response 0 Emetic episodes 1-2 Emetic episodes 3-5 Emetic episodes More than 5 emetic episodes/rescued | 54 (40%)34 (25%)19 (14%)29 (21%) | 41 (30%)30 (22%)18 (13%)49 (36%) |  |
-| Comparison of treatments with respect to 0 Emetic episodes More than 5 emetic episodes/rescued | 54/13629/136 | 41/13849/138 | 0.0830.009 |
+| Treatment response |  |  |  |
+| 0 Emetic episodes | 54 (40%) | 41 (30%) |  |
+| 1-2 Emetic episodes | 34 (25%) | 30 (22%) |  |
+| 3-5 Emetic episodes | 19 (14%) | 18 (13%) |  |
+| More than 5 emetic episodes/rescued | 29 (21%) | 49 (36%) |  |
+| Comparison of treatments with respect to |  |  |  |
+| 0 Emetic episodes | 54/136 | 41/138 | 0.083 |
+| More than 5 emetic episodes/rescued | 29/136 | 49/138 | 0.009 |
 | Median number of emetic episodes | 1 | 2 | 0.005 |
 | Median time to first emetic episode (h) | 20.5 | 4.3 | < 0.001 |
 | Global satisfaction with control of nausea and vomiting (0-100)b | 85 | 63 | 0.001 |
@@ -73,10 +83,14 @@ The results are summarized in Table 8.
 Table 8.
 Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-Day Cyclophosphamide Therapya in Adults
 
-|  | ZOFRAN Injection (0.15 mg/kg x 3) | Placebo | P Valueb |
+|  | Zofran Injection (0.15 mg/kg x 3) | Placebo | P Valueb |
 | --- | --- | --- | --- |
 | Number of patients | 10 | 10 |  |
-| Treatment response 0 Emetic episodes 1-2 Emetic episodes 3-5 Emetic episodes More than 5 emetic episodes/rescued | 7 (70%)0 (0%)2 (20%)1 (10%) | 0 (0%)2 (20%)4 (40%)4 (40%) | 0.0010.131 |
+| Treatment response |  |  |  |
+| 0 Emetic episodes | 7 (70%) | 0 (0%) | 0.001 |
+| 1-2 Emetic episodes | 0 (0%) | 2 (20%) |  |
+| 3-5 Emetic episodes | 2 (20%) | 4 (40%) |  |
+| More than 5 emetic episodes/rescued | 1 (10%) | 4 (40%) | 0.131 |
 | Median number of emetic episodes | 0 | 4 | 0.008 |
 | Median time to first emetic episode (h) | Undefinedc | 8.79 |  |
 | Median nausea scores (0-100)d | 0 | 60 | 0.001 |
@@ -129,11 +143,25 @@ Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Adult
 |  | Ondansetron 4 mg Intravenous | Placebo | P Value |
 | --- | --- | --- | --- |
 | Study 1 |  |  |  |
-| Emetic episodes:Number of patientsTreatment response over 24-h postoperative period 0 Emetic episodes 1 Emetic episode More than 1 emetic episode/rescued | 136103 (76%)13 (10%)20 (15%) | 13964 (46%)17 (12%)58 (42%) | < 0.001 |
-| Nausea assessments:Number of patientsNo nausea over 24-h postoperative period | 13456 (42%) | 13639 (29%) |  |
+| Emetic episodes: |  |  |  |
+| Number of patients | 136 | 139 |  |
+| Treatment response over 24-h postoperative period |  |  |  |
+| 0 Emetic episodes | 103 (76%) | 64 (46%) | < 0.001 |
+| 1 Emetic episode | 13 (10%) | 17 (12%) |  |
+| More than 1 emetic episode/rescued | 20 (15%) | 58 (42%) |  |
+| Nausea assessments: |  |  |  |
+| Number of patients | 134 | 136 |  |
+| No nausea over 24-h postoperative period | 56 (42%) | 39 (29%) |  |
 | Study 2 |  |  |  |
-| Emetic episodes:Number of patientsTreatment response over 24-h postoperative period 0 Emetic episodes 1 Emetic episode More than 1 emetic episode/rescued | 13685 (63%)16 (12%)35 (26%) | 14363 (44%)29 (20%)51 (36%) | 0.002 |
-| Nausea assessments:Number of patientsNo nausea over 24-h postoperative period | 12548 (38%) | 13342 (32%) |  |
+| Emetic episodes: |  |  |  |
+| Number of patients | 136 | 143 |  |
+| Treatment response over 24-h postoperative period |  |  |  |
+| 0 Emetic episodes | 85 (63%) | 63 (44%) | 0.002 |
+| 1 Emetic episode | 16 (12%) | 29 (20%) |  |
+| More than 1 emetic episode/rescued | 35 (26%) | 51 (36%) |  |
+| Nausea assessments: |  |  |  |
+| Number of patients | 125 | 133 |  |
+| No nausea over 24-h postoperative period | 48 (38%) | 42 (32%) |  |
 
 The study populations in Table 9 consisted mainly of females undergoing laparoscopic procedures.
 
@@ -158,12 +186,20 @@ Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Pedia
 | Treatment Response Over 24 Hours | Ondansetronn (%) | Placebon (%) | P Value |
 | --- | --- | --- | --- |
 | Study 1 |  |  |  |
-| Number of patients0 Emetic episodesFailurea | 205140 (68%)65 (32%) | 21082 (39%)128 (61%) | ≤ 0.001 |
+| Number of patients | 205 | 210 |  |
+| 0 Emetic episodes | 140 (68%) | 82 (39%) | 0.001 |
+| Failurea | 65 (32%) | 128 (61%) |  |
 | Study 2 |  |  |  |
-| Number of patients0 Emetic episodesFailurea | 11268 (61%)44 (39%) | 11038 (35%)72 (65%) | ≤ 0.001 |
+| Number of patients | 112 | 110 |  |
+| 0 Emetic episodes | 68 (61%) | 38 (35%) | 0.001 |
+| Failurea | 44 (39%) | 72 (65%) |  |
 | Study 3 |  |  |  |
-| Number of patients0 Emetic episodesFailurea | 206123 (60%)83 (40%) | 20696 (47%)110 (53%) | ≤ 0.01 |
-| Nausea assessmentsb:Number of patientsNone | 185119 (64%) | 19199 (52%) | ≤ 0.01 |
+| Number of patients | 206 | 206 |  |
+| 0 Emetic episodes | 123 (60%) | 96 (47%) | 0.01 |
+| Failurea | 83 (40%) | 110 (53%) |  |
+| Nausea assessmentsb: |  |  |  |
+| Number of patients | 185 | 191 |  |
+| None | 119 (64%) | 99 (52%) | 0.01 |
 
 a Failure was one or more emetic episodes, rescued, or withdrawn.
 
@@ -189,11 +225,27 @@ Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting 
 |  | Ondansetron 4 mg Intravenous | Placebo | P Value |
 | --- | --- | --- | --- |
 | Study 1 |  |  |  |
-| Emetic episodes:Number of patientsTreatment response 24 h after study drug 0 Emetic episodes 1 Emetic episode More than 1 emetic episode/rescuedMedian time to first emetic episode (min)a | 10449 (47%)12 (12%)43 (41%)55.0 | 11719 (16%)9 (8%)89 (76%)43.0 | < 0.001 |
-| Nausea assessments:Number of patientsMean nausea score over 24-h postoperative periodb | 981.7 | 1023.1 |  |
+| Emetic episodes: |  |  |  |
+| Number of patients | 104 | 117 |  |
+| Treatment response 24 h after study drug |  |  |  |
+| 0 Emetic episodes | 49 (47%) | 19 (16%) | < 0.001 |
+| 1 Emetic episode | 12 (12%) | 9 (8%) |  |
+| More than 1 emetic episode/rescued | 43 (41%) | 89 (76%) |  |
+| Median time to first emetic episode (min)a | 55.0 | 43.0 |  |
+| Nausea assessments: |  |  |  |
+| Number of patients | 98 | 102 |  |
+| Mean nausea score over 24-h postoperative periodb | 1.7 | 3.1 |  |
 | Study 2 |  |  |  |
-| Emetic episodes:Number of patientsTreatment response 24 h after study drug 0 Emetic episodes 1 Emetic episode More than 1 emetic episode/rescuedMedian time to first emetic episode (min)a | 11249 (44%)14 (13%)49 (44%)60.5 | 10828 (26%)3 (3%)77 (71%)34.0 | 0.006 |
-| Nausea assessments:Number of patientsMean nausea score over 24-h postoperative periodb | 1051.9 | 852.9 |  |
+| Emetic episodes: |  |  |  |
+| Number of patients | 112 | 108 |  |
+| Treatment response 24 h after study drug |  |  |  |
+| 0 Emetic episodes | 49 (44%) | 28 (26%) | 0.006 |
+| 1 Emetic episode | 14 (13%) | 3 (3%) |  |
+| More than 1 emetic episode/rescued | 49 (44%) | 77 (71%) |  |
+| Median time to first emetic episode (min)a | 60.5 | 34.0 |  |
+| Nausea assessments: |  |  |  |
+| Number of patients | 105 | 85 |  |
+| Mean nausea score over 24-h postoperative periodb | 1.9 | 2.9 |  |
 
 a After administration of study drug.
 
@@ -218,6 +270,8 @@ Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting 
 
 | Treatment Response Over 24 Hours | Ondansetronn (%) | Placebon (%) | P Value |
 | --- | --- | --- | --- |
-| Number of patients0 Emetic episodesFailurea | 18096 (53%)84 (47%) | 17129 (17%)142 (83%) | ≤ 0.001 |
+| Number of patients | 180 | 171 |  |
+| 0 Emetic episodes | 96 (53%) | 29 (17%) | 0.001 |
+| Failurea | 84 (47%) | 142 (83%) |  |
 
 a Failure was one or more emetic episodes, rescued, or withdrawn.

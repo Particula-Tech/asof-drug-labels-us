@@ -109,7 +109,7 @@ Transient dizziness during or shortly after intravenous infusion.
 
 ### Skin
 
-Urticaria
+Urticaria, toxic skin eruption, including toxic epidermal necrolysis.
 
 ### Eye Disorders
 
