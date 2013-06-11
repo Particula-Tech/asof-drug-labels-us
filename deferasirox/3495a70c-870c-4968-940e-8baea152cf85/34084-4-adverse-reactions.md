@@ -72,7 +72,7 @@ Number (%) of Patients with Increases in Serum Creatinine or SGPT/ALT in Study 1
 | Laboratory Parameter | EXJADE N=296 n (%) | Deferoxamine N=290 n (%) | EXJADE N=132 n (%) | Deferoxamine N=63 n (%) | EXJADE N=627 n (%) |
 | Serum Creatinine |  |  |  |  |  |
 | Creatinine increase >33% at 2 consecutive postbaseline visits | 113 (38) | 41 (14) | 48 (36) | 14 (22) | 229 (37) |
-| Creatinine increase >33% and <ULN at 2 consecutive postbaseline visits | 7 (2) | 1 (0) | 3 (2) | 2 (3) | 126 (20) |
+| Creatinine increase >33% and >ULN at 2 consecutive postbaseline visits | 7 (2) | 1 (0) | 3 (2) | 2 (3) | 126 (20) |
 | SGPT/ALT |  |  |  |  |  |
 | SGPT/ALT >5 x ULN at 2 postbaseline visits | 25 (8) | 7 (2) | 2 (2) | 0 | 9 (1) |
 | SGPT/ALT >5 x ULN at 2 consecutive postbaseline visits | 17 (6) | 5 (2) | 5 (4) | 0 | 5 (1) |
