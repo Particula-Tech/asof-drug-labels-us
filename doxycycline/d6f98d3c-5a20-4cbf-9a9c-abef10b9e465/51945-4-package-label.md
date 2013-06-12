@@ -38,15 +38,15 @@ Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
-NDC 0069-0950-50
+Pfizer
 
-50 Capsules
+NDC 0069-0950-50 Rx only
 
 Vibramycin® (doxycycline hyclate)
 
 100 mg*
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+50 Capsules
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
