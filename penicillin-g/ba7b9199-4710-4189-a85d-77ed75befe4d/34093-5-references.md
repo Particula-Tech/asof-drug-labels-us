@@ -39,6 +39,6 @@
 
 Manufactured and Distributed by: King Pharmaceuticals, Inc., Bristol, TN 37620
 
-LAB-0590-3.0
+LAB-0590-4.0
 
-December 2012
+May 2013
