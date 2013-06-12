@@ -4,7 +4,7 @@ BICILLIN L-A IS INTENDED FOR INTRAMUSCULAR INJECTION ONLY.
 DO NOT INJECT INTO OR NEAR AN ARTERY OR NERVE, OR INTRAVENOUSLY OR ADMIX WITH OTHER INTRAVENOUS SOLUTIONS.
 (SEE WARNINGS SECTION.)
 
-Administer by DEEP INTRAMUSCULAR INJECTION in the upper, outer quadrant of the buttock.
+Administer by DEEP INTRAMUSCULAR INJECTION in the buttock.
 In neonates, infants and small children, the midlateral aspect of the thigh may be preferable.
 When doses are repeated, vary the injection site.
 
