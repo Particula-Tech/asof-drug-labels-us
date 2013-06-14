@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA125104"
+  ],
+  "inn": "natalizumab",
+  "labeler": "Biogen Idec Inc.",
+  "package_ndcs": [
+    "64406-008-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "natalizumab",
+      "name": "TYSABRI"
+    }
+  ],
+  "setid": "c5fdde91-1989-4dd2-9129-4f3323ea2962",
+  "source": "dailymed"
+}
