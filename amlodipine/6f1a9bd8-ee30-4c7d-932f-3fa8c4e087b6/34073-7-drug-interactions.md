@@ -56,7 +56,11 @@ Monitor for symptoms of hypotension and edema when amlodipine is co-administered
 No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
 Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A4 inducers.
 
-## 7.12 Drug/Laboratory Test Interactions
+## 7.12 Cyclosporine
+
+A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine.
+
+## 7.13 Drug/Laboratory Test Interactions
 
 None known.
 
@@ -64,7 +68,7 @@ Atorvastatin
 
 The risk of myopathy during treatment with statins is increased with concurrent administration of fibric acid derivatives, lipid-modifying doses of niacin, cyclosporine, or strong CYP3A4 inhibitors (e.g., clarithromycin, HIV protease inhibitors, and itraconazole) [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-## 7.13 Strong Inhibitors of CYP3A4
+## 7.14 Strong Inhibitors of CYP3A4
 
 Atorvastatin is metabolized by CYP3A4.
 Concomitant administration of atorvastatin with strong inhibitors of CYP3A4 can lead to increases in plasma concentrations of atorvastatin.
@@ -82,49 +86,49 @@ In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C prot
 Itraconazole: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 40 mg and itraconazole 200 mg [see Clinical Pharmacology (12.3)].
 Therefore, in patients taking itraconazole, avoid atorvastatin doses >20 mg [see Warnings and Precautions (5.1) and Dosage and Administration (2)].
 
-## 7.14 Grapefruit Juice
+## 7.15 Grapefruit Juice
 
 Contains one or more components that inhibit CYP3A4 and can increase plasma concentrations of atorvastatin, especially with excessive grapefruit juice consumption (>1.2 liters per day).
 
-## 7.15 Cyclosporine
+## 7.16 Cyclosporine
 
 Atorvastatin and atorvastatin-metabolites are substrates of the OATP1B1 transporter.
 Inhibitors of the OATP1B1 (e.g., cyclosporine) can increase the bioavailability of atorvastatin.
 Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 10 mg and cyclosporine 5.2 mg/kg/day compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
 The co-administration of atorvastatin with cyclosporine should be avoided [see Warnings and Precautions (5.1)].
 
-## 7.16 Gemfibrozil
+## 7.17 Gemfibrozil
 
 Because of an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are co-administered with gemfibrozil, avoid concomitant administration of atorvastatin with gemfibrozil [see Warnings and Precautions (5.1)].
 
-## 7.17 Other Fibrates
+## 7.18 Other Fibrates
 
 The risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates.
 [see Warnings and Precautions (5.1)].
 
-## 7.18 Niacin
+## 7.19 Niacin
 
 The risk of skeletal muscle effects may be enhanced when atorvastatin is used in combination with niacin; consider a reduction in atorvastatin dosage in this setting [see Warnings and Precautions (5.1)].
 
-## 7.19 Rifampin or other Inducers of CYP3A4
+## 7.20 Rifampin or other Inducers of CYP3A4
 
 Concomitant administration of atorvastatin with inducers of CYP3A4 (e.g., efavirenz, rifampin) can lead to variable reductions in plasma concentrations of atorvastatin.
 Because of the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
 
-## 7.20 Digoxin
+## 7.21 Digoxin
 
 When multiple doses of atorvastatin and digoxin were co-administered, steady-state plasma digoxin concentrations increased by approximately 20%.
 Monitor digoxin levels.
 
-## 7.21 Oral Contraceptives
+## 7.22 Oral Contraceptives
 
 Co-administration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol) [see Clinical Pharmacology (12.3)].
 Consider these increases when selecting an oral contraceptive for a woman taking CADUET.
 
-## 7.22 Warfarin
+## 7.23 Warfarin
 
 Atorvastatin had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.
 
-## 7.23 Colchicine
+## 7.24 Colchicine
 
 Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine.

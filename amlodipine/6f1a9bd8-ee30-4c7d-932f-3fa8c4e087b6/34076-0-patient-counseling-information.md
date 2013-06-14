@@ -21,5 +21,5 @@ Pregnancy: Women of childbearing age should be advised to use an effective metho
 Discuss future pregnancy plans with your patients, and discuss when to stop CADUET if they are trying to conceive.
 Patients should be advised that if they become pregnant, they should stop taking CADUET and call their healthcare professional.
 
-Breastfeeding: Women who are breastfeeding should be advised to not use CADUET.
-Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
+Breast-feeding: Women who are breast-feeding should be advised to not use CADUET.
+Patients who have a lipid disorder and are breast-feeding should be advised to discuss the options with their healthcare professional.
