@@ -1,4 +1,6 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
+
+## 9.3 Dependence
 
 Pharmacologic similarities among the tricyclic drugs require that certain withdrawal symptoms be considered when AMRIX is administered, even though they have not been reported to occur with this drug.
 Abrupt cessation of treatment after prolonged administration rarely may produce nausea, headache, and malaise.

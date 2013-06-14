@@ -1,22 +1,21 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Although rare, deaths may occur from overdosage with AMRIX.
 Multiple drug ingestion (including alcohol) is common in deliberate cyclobenzaprine overdose.
 As management of overdose is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
 Signs and symptoms of toxicity may develop rapidly after cyclobenzaprine overdose; therefore, hospital monitoring is required as soon as possible.
-The acute oral LD50 of cyclobenzaprine is approximately 338 and 425 mg/kg in mice and rats, respectively.
 
-## Manifestations
+## 10.1 Manifestations
 
 The most common effects associated with cyclobenzaprine overdose are drowsiness and tachycardia.
 Less frequent manifestations include tremor, agitation, coma, ataxia, hypertension, slurred speech, confusion, dizziness, nausea, vomiting, and hallucinations.
 Rare but potentially critical manifestations of overdose are cardiac arrest, chest pain, cardiac dysrhythmias, severe hypotension, seizures, and neuroleptic malignant syndrome.
 Changes in the electrocardiogram, particularly in QRS axis or width, are clinically significant indicators of cyclobenzaprine toxicity.
-Other potential effects of overdosage include any of the symptoms listed under ADVERSE REACTIONS.
+Other potential effects of overdosage include any of the symptoms listed under Adverse Reactions (6).
 
-## Management
+## 10.2 Management
 
-### General
+General
 
 As management of overdose is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
 
@@ -27,13 +26,13 @@ If signs of toxicity occur at any time during this period, extended monitoring i
 Monitoring of plasma drug levels should not guide management of the patient.
 Dialysis is probably of no value because of low plasma concentrations of the drug.
 
-### Gastrointestinal Decontamination
+Gastrointestinal Decontamination
 
 All patients suspected of an overdose with AMRIX should receive gastrointestinal decontamination.
 This should include large volume gastric lavage followed by activated charcoal.
 If consciousness is impaired, the airway should be secured prior to lavage and emesis is contraindicated.
 
-### Cardiovascular
+Cardiovascular
 
 A maximal limb-lead QRS duration of 0.10 seconds may be the best indication of the severity of the overdose.
 Serum alkalinization, to a pH of 7.45 to 7.55, using intravenous sodium bicarbonate and hyperventilation (as needed), should be instituted for patients with dysrhythmias and/or QRS widening.
@@ -41,18 +40,18 @@ A pH >7.60 or a pCO2 <20 mmHg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium, or phenytoin.
 Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
 
-### CNS
+CNS
 
 In patients with CNS depression, early intubation is advised because of the potential for abrupt deterioration.
 Seizures should be controlled with benzodiazepines or, if these are ineffective, other anticonvulsants (e.g., phenobarbital, phenytoin).
 Physostigmine is not recommended except to treat life-threatening symptoms that have been unresponsive to other therapies, and then only in close consultation with a poison control center.
 
-### Psychiatric Follow-up
+Psychiatric Follow-Up
 
 Since overdosage is often deliberate, patients may attempt suicide by other means during the recovery phase.
 Psychiatric referral may be appropriate.
 
-### Pediatric Management
+Pediatric Management
 
 The principles of management of child and adult overdosage are similar.
 It is strongly recommended that the physician contact the local poison control center for specific pediatric treatment.

@@ -1,8 +1,8 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-AMRIX® (Cyclobenzaprine Hydrochloride Extended-Release Capsules) is a skeletal muscle relaxant which relieves muscle spasm of local origin without interfering with muscle function.
+AMRIX is a skeletal muscle relaxant which relieves muscle spasm of local origin without interfering with muscle function.
 The active ingredient in AMRIX extended-release capsules is cyclobenzaprine hydrochloride, USP.
-Cyclobenzaprine hydrochloride (HCl) is a white, crystalline tricyclic amine salt with the empirical formula C20H21N•HCl and a molecular weight of 311.9.
+Cyclobenzaprine hydrochloride (HCl) is a white, crystalline tricyclic amine salt with the empirical formula C20H21N·HCl and a molecular weight of 311.9.
 It has a melting point of 217°C, and a pKa of 8.47 at 25°C.
 It is freely soluble in water and alcohol, sparingly soluble in isopropanol, and insoluble in hydrocarbon solvents.
 If aqueous solutions are made alkaline, the free base separates.
