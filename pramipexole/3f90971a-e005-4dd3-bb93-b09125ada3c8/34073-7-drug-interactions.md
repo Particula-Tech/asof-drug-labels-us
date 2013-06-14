@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-See also Dosage and Administration (2.2) and Clinical Pharmacology (12.3) .
+See also Dosage and Administration (2.2) and Clinical Pharmacology (12.3).
 
 ## 7.1 Dopamine Antagonists
 

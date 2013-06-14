@@ -4,13 +4,13 @@
 
 Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 Pramipexole dihydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-When pramipexole was given to female rats throughout pregnancy, implantation was inhibited at a dose of 2.5 mg/kg/day (5 times the maximum recommended human dose (MRHD) for Parkinson’s disease of 4.5 mg/day on a body surface area (mg/m 2 ) basis).
+When pramipexole was given to female rats throughout pregnancy, implantation was inhibited at a dose of 2.5 mg/kg/day (5 times the maximum recommended human dose (MRHD) for Parkinson’s disease of 4.5 mg/day on a body surface area (mg/m2) basis).
 Administration of 1.5 mg/kg/day of pramipexole to pregnant rats during the period of organogenesis (gestation days 7 through 16) resulted in a high incidence of total resorption of embryos.
 The plasma AUC in rats at this dose was 4 times the AUC in humans at the MRHD.
 These findings are thought to be due to the prolactin-lowering effect of pramipexole, since prolactin is necessary for implantation and maintenance of early pregnancy in rats (but not rabbits or humans).
 Because of pregnancy disruption and early embryonic loss in these studies, the teratogenic potential of pramipexole could not be adequately evaluated.
 There was no evidence of adverse effects on embryo-fetal development following administration of up to 10 mg/kg/day to pregnant rabbits during organogenesis (plasma AUC was 70 times that in humans at the MRHD).
-Postnatal growth was inhibited in the offspring of rats treated with 0.5 mg/kg/day (approximately equivalent to the MRHD on a mg/m 2 basis) or greater during the latter part of pregnancy and throughout lactation.
+Postnatal growth was inhibited in the offspring of rats treated with 0.5 mg/kg/day (approximately equivalent to the MRHD on a mg/m2 basis) or greater during the latter part of pregnancy and throughout lactation.
 
 ## 8.3 Nursing Mothers
 
@@ -34,4 +34,4 @@ There were no apparent differences in efficacy or safety between older and young
 
 The elimination of pramipexole is dependent on renal function.
 Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis.
-Caution should be exercised when administering pramipexole dihydrochloride tablets to patients with renal disease [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3) ].
+Caution should be exercised when administering pramipexole dihydrochloride tablets to patients with renal disease [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].

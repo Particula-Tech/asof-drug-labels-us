@@ -3,6 +3,7 @@
 Pramipexole Dihydrochloride Tablets Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
+
 What are pramipexole dihydrochloride tablets?
 Pramipexole dihydrochloride tablets are a prescription medicine used to treat:
 
@@ -28,7 +29,7 @@ What should I tell my doctor before taking pramipexole dihydrochloride tablets?
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 The combination of pramipexole dihydrochloride tablets and other medicines may affect each other and may cause side effects.
-Pramipexole dihydrochloride tablets may affect the way other medicines work, and other medicines may affect how pramipexole dihydrochloride tablets work.
+Pramipexole dihydrochloride tablets may affect the way other medicines work, and other medicines may affect how pramipexole dihydrochloride tablet works.
 Especially tell your doctor if you take:
 
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
@@ -48,7 +49,7 @@ How should I take pramipexole dihydrochloride tablets?
   Do not take more or less pramipexole dihydrochloride tablets than your doctor tells you to.
 - Your doctor may change your dose if needed.
 - Pramipexole dihydrochloride tablets can be taken with or without food.
-  Taking pramipexole dihydrochloridetablets with food may lower your chances of getting nausea.
+  Taking pramipexole dihydrochloride tablets with food may lower your chances of getting nausea.
 - If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away.
 - If you miss a dose, do not double your next dose.
   Skip the dose you missed and take your next regular dose.
@@ -93,9 +94,8 @@ Sit and stand up slowly after you have been sitting or lying down.
 If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 
 - seeing visions, hearing sounds or feeling sensations that are not real (hallucinations).
-  Your chance of having hallucinations is higher
+  Your chance of having hallucinations is higher if you are elderly (age 65 or older).
 
-if you are elderly (age 65 or older).
 If you have hallucinations, talk with your doctor right away.
 
 - uncontrolled sudden movements (dyskinesia).
@@ -116,7 +116,7 @@ The most common side effects in people taking pramipexole dihydrochloride tablet
 - muscle weakness
 - abnormal dreams
 - confusion
-- memory problems(amnesia)
+- memory problems (amnesia)
 - urinating more often than normal
 
 These are not all the possible side effects of pramipexole dihydrochloride tablets.
@@ -141,4 +141,4 @@ For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in pramipexole dihydrochloride tablets?
 Active Ingredient: pramipexole dihydrochloride Inactive Ingredients: colloidal silicon dioxide, corn starch, magnesium stearate, mannitol, and povidone This Patient Information has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Issued: September 2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 04/2013

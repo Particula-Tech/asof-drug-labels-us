@@ -9,7 +9,7 @@ Somnolence is a common occurrence in patients receiving pramipexole at doses abo
 Many clinical experts believe that falling asleep while engaged in activities of daily living always occurs in a setting of pre-existing somnolence, although patients may not give such a history.
 For this reason, prescribers should continually reassess patients for drowsiness or sleepiness, especially since some of the events occur well after the start of treatment.
 Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
-Before initiating treatment with pramipexole dihydrochloride tablets, advise patients of the potential to develop drowsiness and specifically asked about factors that may increase the risk with pramipexole dihydrochloride tablets such as the use of concomitant sedating medications or alcohol, the presence of sleep disorders, and concomitant medications that increase pramipexole plasma levels (e.g., cimetidine) [ see Clinical Pharmacology (12.3) ].
+Before initiating treatment with pramipexole dihydrochloride tablets, advise patients of the potential to develop drowsiness and specifically asked about factors that may increase the risk with pramipexole dihydrochloride tablets such as the use of concomitant sedating medications or alcohol, the presence of sleep disorders, and concomitant medications that increase pramipexole plasma levels (e.g., cimetidine) [see Clinical Pharmacology (12.3)].
 If a patient develops significant daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.), pramipexole dihydrochloride tablets should ordinarily be discontinued.
 If a decision is made to continue pramipexole dihydrochloride tablets, advise patients not to drive and to avoid other potentially dangerous activities.
 While dose reduction reduces the degree of somnolence, there is insufficient information to establish that dose reduction will eliminate episodes of falling asleep while engaged in activities of daily living.
@@ -18,7 +18,7 @@ While dose reduction reduces the degree of somnolence, there is insufficient inf
 
 Dopamine agonists, in clinical studies and clinical experience, appear to impair the systemic regulation of blood pressure, with resulting orthostatic hypotension, especially during dose escalation.
 Parkinson's disease patients, in addition, appear to have an impaired capacity to respond to an orthostatic challenge.
-For these reasons, Parkinson's disease patients being treated with dopaminergic agonists ordinarily require careful monitoring for signs and symptoms of orthostatic hypotension, especially during dose escalation, and should be informed of this risk [ see Patient Counseling Information (17.5) ].
+For these reasons, Parkinson's disease patients being treated with dopaminergic agonists ordinarily require careful monitoring for signs and symptoms of orthostatic hypotension, especially during dose escalation, and should be informed of this risk [see Patient Counseling Information (17.5)].
 In clinical trials of pramipexole, however, and despite clear orthostatic effects in normal volunteers, the reported incidence of clinically significant orthostatic hypotension was not greater among those assigned to pramipexole tablets than among those assigned to placebo.
 This result, especially with the higher doses used in Parkinson’s disease, is clearly unexpected in light of the previous experience with the risks of dopamine agonist therapy.
 While this finding could reflect a unique property of pramipexole, it might also be explained by the conditions of the study and the nature of the population enrolled in the clinical trials.
@@ -29,7 +29,7 @@ Patients were very carefully titrated, and patients with active cardiovascular d
 Case reports and the results of a cross-sectional study suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, binge eating, and/or other intense urges and the inability to control these urges while taking one or more of the medications, including pramipexole dihydrochloride, that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease.
 In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
 Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with pramipexole dihydrochloride.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking pramipexole dihydrochloride [ see Patient Counseling Information (17.3) ].
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking pramipexole dihydrochloride [see Patient Counseling Information (17.3)].
 
 ## 5.4 Hallucinations
 
@@ -46,7 +46,7 @@ Pramipexole dihydrochloride tablets may potentiate the dopaminergic side effects
 
 ## 5.6 Renal Impairment
 
-Since pramipexole is eliminated through the kidneys, caution should be exercised when prescribing pramipexole dihydrochloride tablets to patients with renal impairment [ see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3) ].
+Since pramipexole is eliminated through the kidneys, caution should be exercised when prescribing pramipexole dihydrochloride tablets to patients with renal impairment [see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.7 Rhabdomyolysis
 
@@ -67,7 +67,7 @@ In addition, because the study did not include an untreated comparison group (pl
 Animal Data Pathologic changes (degeneration and loss of photoreceptor cells) were observed in the retina of albino rats in the 2-year carcinogenicity study.
 While retinal degeneration was not diagnosed in pigmented rats treated for 2 years, a thinning in the outer nuclear layer of the retina was slightly greater in rats given drug compared with controls.
 Evaluation of the retinas of albino mice, monkeys, and minipigs did not reveal similar changes.
-The potential significance of this effect in humans has not been established, but cannot be disregarded because disruption of a mechanism that is universally present in vertebrates (i.e., disk shedding) may be involved [ see Nonclinical Toxicology (13.2) ].
+The potential significance of this effect in humans has not been established, but cannot be disregarded because disruption of a mechanism that is universally present in vertebrates (i.e., disk shedding) may be involved [see Nonclinical Toxicology (13.2)].
 
 ## 5.9 Events Reported with Dopaminergic Therapy
 
