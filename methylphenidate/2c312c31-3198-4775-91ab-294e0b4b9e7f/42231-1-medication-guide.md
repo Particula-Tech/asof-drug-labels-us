@@ -1,4 +1,4 @@
-# MEDICATION GUIDE Daytrana® (day-TRON-ah) (methylphenidate transdermal system) CII
+MEDICATION GUIDE Daytrana® (day-TRON-ah) (methylphenidate transdermal system) CII
 
 | Only Use Daytrana on Your Skin |
 | --- |
@@ -40,6 +40,12 @@ Mental (psychiatric) problems, including:
 
 Tell your doctor right away if you have any new or worsening mental problems while using Daytrana.
 
+3.
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red
+
+- Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
+- Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Daytrana
+
 What Is Daytrana?
 
 Daytrana is a prescription medicine used to treat Attention Deficit Hyperactivity Disorder (ADHD) in people 6 to 17 years old.
@@ -73,6 +79,7 @@ Before you start using Daytrana, tell your doctor if you have:
 - heart problems, heart defects, high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
 - seizures or have had an abnormal brain wave test (EEG)
+- circulation problems in fingers or toes
 - skin problems such as eczema or psoriasis, or have skin reactions to soaps, lotions, make-up, or adhesives (glues)
 - are pregnant or plan to become pregnant.
   It is not known if Daytrana will harm your unborn baby.
@@ -357,13 +364,9 @@ To safely throw away the patches:
 
 Manufactured for: Noven Therapeutics, LLC, Miami, FL 33186.
 
-By: Noven Pharmaceuticals, Inc., Miami, FL 33186.
-
-© 2009, 2010 Noven Pharmaceuticals, Inc.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+By: Noven Pharmaceuticals, Inc., Miami, FL 33186. © 2009, 2013 Noven Pharmaceuticals, Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-11/2010
+05/2013
 
-102086-12
+102086-13

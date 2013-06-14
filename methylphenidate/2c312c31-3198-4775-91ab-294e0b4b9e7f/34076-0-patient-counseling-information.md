@@ -4,6 +4,13 @@ See Medication Guide
 
 ## 17.1 Information for Patients
 
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+
+- Instruct patients beginning treatment with Daytrana about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red
+- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Daytrana
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
 Parents and patients should be informed to apply Daytrana to a clean, dry site on the hip, which is not oily, damaged, or irritated.
 The site of application must be alternated daily.
 The patch should not be applied to the waistline, or where tight clothing may rub it.
@@ -55,16 +62,16 @@ Manufactured for: Noven Therapeutics, LLC, Miami, FL 33186.
 
 By: Noven Pharmaceuticals, Inc., Miami, FL 33186.
 
-For more information call 1-877-567-7857 or visit WWW.DAYTRANA.COM.
+For more information call 1-877-567-7857 or visit www.daytrana.com..
 
 Dot Matrix™ is a trademark of Noven Pharmaceuticals, Inc.
 
 Daytrana® is a registered trademark of Noven Therapeutics, LLC.
 
-© 2009, 2010 Noven Pharmaceuticals, Inc.
+© 2009, 2013 Noven Pharmaceuticals, Inc.
 
 This product is covered by US patents including for use with 6,905,016.
 
-Last Modified: 11/2010
+Last Modified: 05/2013
 
-102086-12
+102086-13
