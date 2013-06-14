@@ -1,3 +1,17 @@
+# PRINCIPAL DISPLAY PANEL - 1 mg Starting Pack
+
+NDC 0069-0471-01 Rx only
+
+STARTING PACK
+
+CHANTIX® (varenicline) TABLETS
+
+Use the Starting Week (green) blister card first when beginning to take Chantix.
+
+Contains: 1 Starting Week (0.5* x 11 tablets) 1 Continuing Week (1 mg† x 14 tablets)
+
+ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
+
 PRINCIPAL DISPLAY PANEL - 1 mg Starting Pack Carton
 
 CHANTIX™ (varenicline) TABLETS
@@ -22,33 +36,33 @@ CHANTIX® (varenicline) TABLETS
 
 Use the Starting Week (green) blister card first when beginning to take Chantix.
 
-Contains: 1 Starting Pack (0.5 mg* × 11 tablets) and (1 mg† × 14 tablets) 1 Continuing Pack (1 mg† × 28 tablets)
+Contains: 1 Starting Pack (0.5 mg* x 11 tablets) and (1 mg† x 14 tablets) 1 Continuing Pack (1 mg† x 28 tablets)
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
 PRINCIPAL DISPLAY PANEL - 0.5 mg Label
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0468-56
 
-56 TABLETS NDC 0069-0468-56
+Pfizer
 
 Chantix® (varenicline) tablets
 
 0.5 mg*
 
-Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+56 Tablets Rx only
 
 PRINCIPAL DISPLAY PANEL - 1 mg Label
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0469-56
 
-56 TABLETS NDC 0069-0469-56
+Pfizer
 
 Chantix® (varenicline) tablets
 
 1 mg*
 
-Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+56 Tablets Rx only
 
 PRINCIPAL DISPLAY PANEL - 4 cards (1 mg x 14 tablets)
 
@@ -62,6 +76,18 @@ Rx only
 
 Continuing Month PAK Contains: 4 cards (1 mg x 14 tablets)
 
+# PRINCIPAL DISPLAY PANEL - 1 mg 2 Week Continuing Pack
+
+NDC 0069-0469-11 Rx only
+
+CONTINUING PACK
+
+CHANTIX® (varenicline) TABLETS
+
+Contains: 2 Continuing Weeks (1 mg† x 28 tablets)
+
+ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
+
 PRINCIPAL DISPLAY PANEL - 1 mg Continuing Month Box
 
 Continuing Month Box (Your next 4 weeks)
@@ -72,6 +98,6 @@ Rx only
 
 CHANTIX® (varenicline) TABLETS
 
-Contains: 2 Continuing Packs (1 mg† × 56 tablets)
+Contains: 2 Continuing Packs (1 mg† x 56 tablets)
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
