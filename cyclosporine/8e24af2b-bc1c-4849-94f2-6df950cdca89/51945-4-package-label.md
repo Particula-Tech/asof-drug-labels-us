@@ -1,6 +1,4 @@
-NDC 0023-9163-60
-
-No. 93587
+NDC 0023-9163-60 No. 94529
 
 Restasis® (Cyclosporine Ophthalmic Emulsion) 0.05%
 
@@ -10,11 +8,11 @@ Each mL contains: Active: cyclosporine 0.05% Inactives: glycerin; castor oil; po
 Usual Dosage: Twice daily approximately 12 hours apart.
 Invert the vial before using.
 Use immediately after opening and then discard.
-Note: Store at 15-25°C (59-77°F).
+Storage: Store at 15°-25°C (59°-77°F).
 Store vials in the thermoformed tray until use.
 The entire contents of each package (60 vials) must be dispensed intact.
 
-© 2012 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
+© 2013 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
 See: www.allergan.com/products/patent_notices Made in the U.S.A.
 
 ALLERGAN
@@ -25,4 +23,4 @@ Exp.:
 
 Rx only
 
-54894US10
+55091US10
