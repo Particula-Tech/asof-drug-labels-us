@@ -1,5 +1,10 @@
 # 6. ADVERSE REACTIONS
 
+The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Risk of Infection [see Warnings and Precautions (5.2)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -10,19 +15,19 @@ In these two Phase 3 studies, patients had a median duration of exposure to Jaka
 One hundred and eleven (111) patients started treatment at 15 mg twice daily and 190 patients started at 20 mg twice daily.
 
 In a double-blind, randomized, placebo-controlled study of Jakafi, 155 patients were treated with Jakafi.
-The most frequent adverse drug reactions were thrombocytopenia and anemia [see Table 5].
+The most frequent adverse drug reactions were thrombocytopenia and anemia [see Table 6].
 Thrombocytopenia, anemia and neutropenia are dose related effects.
-The three most frequent non-hematologic adverse reactions were bruising, dizziness, and headache [see Table 4].
+The three most frequent non-hematologic adverse reactions were bruising, dizziness, and headache [see Table 5].
 
 Discontinuation for adverse events, regardless of causality, was observed in 11.0% of patients treated with Jakafi and 10.6% of patients treated with placebo.
 
 Following interruption or discontinuation of Jakafi, symptoms of myelofibrosis generally return to pretreatment levels over a period of approximately 1 week.
 There have been isolated cases of patients discontinuing Jakafi during acute intercurrent illnesses after which the patient's clinical course continued to worsen; however, it has not been established whether discontinuation of therapy contributed to the clinical course in these patients.
-When discontinuing therapy for reasons other than thrombocytopenia, gradual tapering of the dose of Jakafi may be considered [see Dosage and Administration (2.6)].
+When discontinuing therapy for reasons other than thrombocytopenia, gradual tapering of the dose of Jakafi may be considered [see Dosage and Administration (2.9)].
 
-Table 4 presents the most common adverse reactions occurring in patients who received Jakafi in the double-blind, placebo-controlled study during randomized treatment.
+Table 5 presents the most common adverse reactions occurring in patients who received Jakafi in the double-blind, placebo-controlled study during randomized treatment.
 
-Table 4: Adverse Reactions Occurring in Patients on Jakafi in the Double-blind, Placebo-controlled Study During Randomized Treatment
+Table 5: Adverse Reactions Occurring in Patients on Jakafi in the Double-blind, Placebo-controlled Study During Randomized Treatment
 
 |  | Jakafi (N=155) |  |  | Placebo (N=151) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -66,9 +71,9 @@ Neutropenia
 
 In the two Phase 3 clinical studies, 1.0% of patients reduced or stopped Jakafi because of neutropenia.
 
-Table 5 provides the frequency and severity of clinical hematology abnormalities reported for patients receiving treatment with Jakafi or placebo in the placebo-controlled study.
+Table 6 provides the frequency and severity of clinical hematology abnormalities reported for patients receiving treatment with Jakafi or placebo in the placebo-controlled study.
 
-Table 5: Worst Hematology Laboratory Abnormalities in the Placebo-controlled Studya
+Table 6: Worst Hematology Laboratory Abnormalities in the Placebo-controlled Studya
 
 |  | Jakafi (N=155) |  |  | Placebo (N=151) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

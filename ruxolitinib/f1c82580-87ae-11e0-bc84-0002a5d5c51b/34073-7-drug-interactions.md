@@ -8,7 +8,7 @@ Strong CYP3A4 inhibitors: The Cmax and AUC of ruxolitinib increased 33% and 91%,
 The half-life was also prolonged from 3.7 to 6.0 hours with concurrent use of ketoconazole.
 The change in the pharmacodynamic marker, pSTAT3 inhibition, was consistent with the corresponding ruxolitinib AUC following concurrent administration with ketoconazole.
 
-When administering Jakafi with strong CYP3A4 inhibitors a dose reduction is recommended [see Dosage and Administration (2.4)].
+When administering Jakafi with strong CYP3A4 inhibitors a dose reduction is recommended [see Dosage and Administration (2.7)].
 Patients should be closely monitored and the dose titrated based on safety and efficacy.
 
 Mild or moderate CYP3A4 inhibitors: There was an 8% and 27% increase in the Cmax and AUC of ruxolitinib, respectively, with Jakafi administration (10 mg single dose) following erythromycin, a moderate CYP3A4 inhibitor, at 500 mg twice daily for 4 days, compared to receiving Jakafi alone in healthy subjects.

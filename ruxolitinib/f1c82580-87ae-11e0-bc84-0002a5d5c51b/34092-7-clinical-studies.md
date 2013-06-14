@@ -42,11 +42,11 @@ A secondary endpoint in Study 2 was the proportion of patients achieving a 35% o
 
 Study 1 and 2 Efficacy Results
 
-Efficacy analyses of the primary endpoint in Studies 1 and 2 are presented in Table 6 below.
+Efficacy analyses of the primary endpoint in Studies 1 and 2 are presented in Table 7 below.
 A significantly larger proportion of patients in the Jakafi group achieved a 35% or greater reduction in spleen volume from baseline in both studies compared to placebo in Study 1 and best available therapy in Study 2.
 A similar proportion of patients in the Jakafi group achieved a 50% or greater reduction in palpable spleen length.
 
-Table 6: Percent of Patients with 35% or Greater Reduction from Baseline in Spleen Volume at Week 24 in Study 1 and at Week 48 in Study 2 (Intent to Treat)
+Table 7: Percent of Patients with 35% or Greater Reduction from Baseline in Spleen Volume at Week 24 in Study 1 and at Week 48 in Study 2 (Intent to Treat)
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
@@ -63,11 +63,11 @@ The modified MFSAF is a daily diary capturing the core symptoms of myelofibrosis
 Symptom scores ranged from 0 to 10 with 0 representing symptoms "absent" and 10 representing "worst imaginable" symptoms.
 These scores were added to create the daily total score, which has a maximum of 60.
 
-Table 7 presents assessments of Total Symptom Score from baseline to Week 24 in Study 1 including the proportion of patients with at least a 50% reduction (ie, improvement in symptoms).
+Table 8 presents assessments of Total Symptom Score from baseline to Week 24 in Study 1 including the proportion of patients with at least a 50% reduction (ie, improvement in symptoms).
 At baseline, the mean Total Symptom Score was 18.0 in the Jakafi group and 16.5 in the placebo group.
 A higher proportion of patients in the Jakafi group had a 50% or greater reduction in Total Symptom Score than in the placebo group, with a median time to response of less than 4 weeks.
 
-Table 7: Improvement in Total Symptom Score
+Table 8: Improvement in Total Symptom Score
 
 |  | Jakafi (N=148) | Placebo (N=152) |
 | --- | --- | --- |

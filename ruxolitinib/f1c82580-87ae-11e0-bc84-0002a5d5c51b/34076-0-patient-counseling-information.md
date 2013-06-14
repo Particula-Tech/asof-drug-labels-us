@@ -2,17 +2,18 @@
 
 See FDA-approved patient labeling (Patient Information).
 
-Physicians and health care professionals are advised to discuss the following with patients prior to treatment with Jakafi:
+Discuss discuss the following with patients prior to treatment with Jakafi:
 
 ## 17.1 Thrombocytopenia, Anemia and Neutropenia
 
-Inform patients that Jakafi is associated with thrombocytopenia, anemia and neutropenia and of the need to monitor complete blood counts before and during treatment.
+Inform patients that Jakafi is associated with thrombocytopenia, anemia and neutropenia, and of the need to monitor complete blood counts before and during treatment.
+Advise patients to observe for and report bleeding.
 
 ## 17.2 Infections
 
-Patients should be informed of the signs and symptoms of infection and should report any such signs and symptoms promptly.
+Inform patients of the signs and symptoms of infection and to report any such signs and symptoms promptly.
 
-Patients should be informed of the early signs and symptoms of herpes zoster, advising that treatment should be sought as early as possible.
+Inform patients regarding the early signs and symptoms of herpes zoster and of progressive multifocal leukoencephalopathy, and advise patients to seek advice of a clinician if such symptoms are observed.
 
 ## 17.3 Drug-drug Interactions
 
@@ -34,8 +35,5 @@ Manufactured for: Incyte Corporation Wilmington, DE 19880
 
 Jakafi is a registered trademark of Incyte Corporation.
 All rights reserved.
-
-U.S. Patent No. 7,598,257
-
-© 2011-2012 Incyte Corporation.
+U.S. Patent No. 7,598,257; 8,415,362 © 2011-2013 Incyte Corporation.
 All rights reserved.
