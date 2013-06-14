@@ -1,8 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Carton
+# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Carton
 
 Ucyclyd Pharma®
 
-NDC 62592-496-03
+62592-496-03
 
 BUPHENYL® (sodium phenylbutyrate)
 

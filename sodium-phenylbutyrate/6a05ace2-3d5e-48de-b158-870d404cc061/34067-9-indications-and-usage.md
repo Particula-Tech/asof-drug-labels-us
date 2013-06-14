@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-BUPHENYL® is indicated as adjunctive therapy in the chronic management of patients with urea cycle disorders involving deficiencies of carbamylphosphate synthetase (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase (AS).
+BUPHENYL is indicated as adjunctive therapy in the chronic management of patients with urea cycle disorders involving deficiencies of carbamylphosphate synthetase (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase (AS).
 It is indicated in all patients with neonatal-onset deficiency (complete enzymatic deficiency, presenting within the first 28 days of life).
 It is also indicated in patients with late-onset disease (partial enzymatic deficiency, presenting after the first month of life) who have a history of hyperammonemic encephalopathy.
 It is important that the diagnosis be made early and treatment initiated immediately to improve survival.

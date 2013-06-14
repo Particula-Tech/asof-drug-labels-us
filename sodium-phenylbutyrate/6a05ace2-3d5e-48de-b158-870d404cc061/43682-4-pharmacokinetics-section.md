@@ -28,7 +28,7 @@ For each gram of sodium phenylbutyrate administered, it is estimated that betwee
 
 ## Pharmacodynamics
 
-In patients with urea cycle disorders, BUPHENYL® decreased elevated plasma ammonia glutamine levels.
+In patients with urea cycle disorders, BUPHENYL decreased elevated plasma ammonia glutamine levels.
 It increases waste nitrogen excretion in the form of phenylacetylglutamine.
 
 ## Special Populations

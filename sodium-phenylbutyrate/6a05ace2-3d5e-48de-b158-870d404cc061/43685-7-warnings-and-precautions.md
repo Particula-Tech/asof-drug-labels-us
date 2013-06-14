@@ -1,6 +1,6 @@
 # WARNINGS
 
-Each BUPHENYL® Tablet contains 62 mg of sodium (9.2% w/w) (corresponding to 124 mg of sodium per gram of sodium phenylbutyrate [12.4% w/w]) and BUPHENYL Powder contains 11.7 grams of sodium per 100 grams of powder, corresponding to 125 mg of sodium per gram of sodium phenylbutyrate (12.4% w/w).
+Each BUPHENYL Tablet contains 62 mg of sodium (9.2% w/w) (corresponding to 124 mg of sodium per gram of sodium phenylbutyrate [12.4% w/w]) and BUPHENYL Powder contains 11.7 grams of sodium per 100 grams of powder, corresponding to 125 mg of sodium per gram of sodium phenylbutyrate (12.4% w/w).
 BUPHENYL should be used with great care, if at all, in patients with congestive heart failure or severe renal insufficiency, and in clinical states in which there is sodium retention with edema.
 
 Because BUPHENYL is metabolized in the liver and kidney, and phenylacetylglutamine is primarily excreted by the kidney, use caution when administering the drug to patients with hepatic or renal insufficiency or inborn errors of beta oxidation.
@@ -12,7 +12,7 @@ Use of corticosteroids may cause the breakdown of body protein and increase plas
 
 ## General
 
-BUPHENYL® should not be administered to patients with known hypersensitivity to sodium phenylbutyrate or any component of this preparation.
+BUPHENYL should not be administered to patients with known hypersensitivity to sodium phenylbutyrate or any component of this preparation.
 
 There have been published reports of hyperammonemia being induced by haloperidol and by valproic acid.
 
@@ -39,7 +39,7 @@ Carcinogenicity, mutagenicity, and fertility studies of sodium phenylbutyrate ha
 
 Pregnancy Category C.
 
-Animal reproduction studies have not been conducted with BUPHENYL®.
+Animal reproduction studies have not been conducted with BUPHENYL.
 It is also not known whether BUPHENYL can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 
 BUPHENYL should be given to a pregnant woman only if clearly needed.
@@ -47,7 +47,7 @@ BUPHENYL should be given to a pregnant woman only if clearly needed.
 ## Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when BUPHENYL® is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when BUPHENYL is administered to a nursing woman.
 
 ## Pediatric Use
 
