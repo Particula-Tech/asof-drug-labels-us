@@ -1,18 +1,18 @@
 # WARNINGS
 
-Focal areas of retinal degeneration have developed in cats, dogs and rats following oral or intravenous tranexamic acid at doses between 250 to 1600 mg/kg/day (6 to 40 times the recommended usual human dose) from 6 days to one year.
+Focal areas of retinal degeneration have developed in cats, dogs, and rats following oral or intravenous tranexamic acid at doses between 250 to 1600 mg/kg/day (6 to 40 times the recommended usual human dose) from 6 days to one year.
 The incidence of such lesions has varied from 25% to 100% of animals treated and was dose related.
-At lower doses some lesions have appeared to be reversible.
+At lower doses, some lesions have appeared to be reversible.
 
 Limited data in cats and rabbits showed retinal changes in some animals with doses as low as 126 mg/kg/day (only about 3 times the recommended human dose) administered for several days to 2 weeks.
 
 No retinal changes have been reported or noted in eye examinations in patients treated with tranexamic acid for weeks to months in clinical trials.
 
 However, visual abnormalities, often poorly characterized, represent the most frequently reported post-marketing adverse reaction in Sweden.
-For patients who are to be treated continually for longer than several days, an ophthalmological examination, including visual acuity, color vision, eye-ground and visual fields, is advised, before commencing and at regular intervals during the course of treatment.
+For patients who are to be treated continually for longer than several days, an ophthalmological examination, including visual acuity, color vision, eye-ground, and visual fields, is advised, before commencing and at regular intervals during the course of treatment.
 Tranexamic acid should be discontinued if changes in examination results are found.
 
-Convulsions have been reported in association with tranexamic acid treatment.
+Convulsions have been reported in association with tranexamic acid treatment, particularly in patients receiving tranexamic acid during cardiovascular surgery and in patients inadvertently given tranexamic acid into the neuraxial system.
 
 # PRECAUTIONS
 
@@ -48,7 +48,7 @@ Hyperplastic, but not neoplastic, lesions were reported at lower doses.
 Subsequent long-term dietary administration studies in a different strain of rat, each with an exposure level equal to the maximum level employed in the earlier experiment, have failed to show such hyperplastic/neoplastic changes in the liver.
 No mutagenic activity has been demonstrated in several in vitro and in vivo test systems.
 
-There are no clinical or nonclinical data to assess the effects of tranexamic acid on fertility.
+There are no clinical data to assess the effects of tranexamic acid on fertility.
 
 ## Pregnancy (Category B)
 

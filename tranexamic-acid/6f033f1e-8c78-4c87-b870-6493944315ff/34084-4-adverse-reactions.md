@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 Gastrointestinal disturbances (nausea, vomiting, diarrhea) may occur but disappear when the dosage is reduced.
-Allergic dermatitis, giddiness and hypotension have been reported occasionally.
+Allergic dermatitis, giddiness, and hypotension have been reported occasionally.
 Hypotension has been observed when intravenous injection is too rapid.
 To avoid this response, the solution should not be injected more rapidly than 1 mL per minute.
 

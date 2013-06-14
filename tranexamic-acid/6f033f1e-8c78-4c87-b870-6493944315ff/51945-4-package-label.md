@@ -38,9 +38,11 @@ Tranexamic Acid Injection
 
 For Intravenous Use Only 10 x 10 mL Single-Dose Vials
 
-1000 mg per10 mL (100 mg per mL)
+1000 mg per 10 mL (100 mg per mL)
 
-Novation and NOVAPLUS are registered trademarks of Novation, LLC.
+N+ and NOVAPLUS are registered trademarks of Novation, LLC.
+
+NOVAPLUS®
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -55,4 +57,4 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Made in Ireland
 
-MI:293:10C:R1
+MI:293:10C:R2
