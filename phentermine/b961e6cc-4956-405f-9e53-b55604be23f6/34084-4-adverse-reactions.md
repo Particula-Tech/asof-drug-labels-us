@@ -1,4 +1,4 @@
-# 6 Adverse Reactions
+# 6 ADVERSE REACTIONS
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 

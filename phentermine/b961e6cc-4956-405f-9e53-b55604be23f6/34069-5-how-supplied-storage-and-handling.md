@@ -13,9 +13,9 @@ Suprenza Orally Disintegrating Tablet Presentations
 
 | Tablet Strength | Tablet Color/Shape | Tablet Markings | NDC Code |
 | --- | --- | --- | --- |
-| 15 mg | Round, embossed tablets Yellow with blue spots | AX4 on one side | NDC: 24090 720 85 |
-| 30 mg | Round, embossed tablets Yellow | AX7 on one side | NDC: 24090 721 85 |
-| 37.5 mg | Round, embossed tablets White with blue spots | AX8 on one side | NDC: 24090 722 85 |
+| 15 mg | Round, embossed tablets Yellow with blue spots | AX4 on one side | NDC: 24090 720 |
+| 30 mg | Round, embossed tablets Yellow | AX7 on one side | NDC: 24090 721 |
+| 37.5 mg | Round, embossed tablets White with blue spots | AX8 on one side | NDC: 24090 722 |
 
 Suprenza 15 mg, 30 mg, and 37.5 mg ODT are packaged in bottles of 30.
 
