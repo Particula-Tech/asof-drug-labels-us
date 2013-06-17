@@ -22,4 +22,4 @@ NDC 0781-5318-05, bottle of 500 tablets
 
 NDC 0781-5318-10, bottle of 1000 tablets
 
-Store at controlled room temperature 20° -25°C (68° -77°F).
+Store at controlled room temperature 20° to 25°C (68° to 77°F).

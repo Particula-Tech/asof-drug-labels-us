@@ -2,7 +2,7 @@
 
 ## 10.1 Signs and Symptoms
 
-In postmarketing experience of overdose with zolpidem alone, or in combination with CNS-depressant agents, impairment of consciousness ranging from somnolence to coma, cardiovascular and/or respiratory compromise, and fatal outcomes have been reported.
+In postmarketing experience of overdose with zolpidem tartrate alone, or in combination with CNS-depressant agents, impairment of consciousness ranging from somnolence to coma, cardiovascular and/or respiratory compromise, and fatal outcomes have been reported.
 
 ## 10.2 Recommended Treatment
 

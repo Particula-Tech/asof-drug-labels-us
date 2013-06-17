@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Zolpidem tartrate is a non-benzodiazepine hypnotic of the imidazopyridine class and is available in 5 mg and 10 mg strength tablets for oral administration.
+Zolpidem tartrate is a gamma-aminobutyric acid (GABA) A agonist of the imidazopyridine class and is available in 5 mg and 10 mg strength tablets for oral administration.
 
 Chemically, zolpidem is N,N,6-trimethyl-2-p-tolylimidazo[1,2-a] pyridine-3-acetamide L-(+)-tartrate (2:1).
 It has the following structure:

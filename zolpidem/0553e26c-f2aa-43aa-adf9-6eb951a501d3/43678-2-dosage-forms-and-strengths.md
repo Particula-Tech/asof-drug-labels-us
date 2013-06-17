@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Zolpidem tartrate tablets are available in 5 mg and 10 mg strength for oral administration.
+Zolpidem tartrate tablets are available in 5 mg and 10 mg strengths for oral administration.
 Tablets are not scored.
 
 Zolpidem tartrate tablets 5 mg are white, round-shaped, biconvex, film coated tablets, with ZLP debossed on one side and 5 on the other side.

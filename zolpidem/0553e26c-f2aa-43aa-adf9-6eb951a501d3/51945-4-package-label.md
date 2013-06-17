@@ -1,31 +1,27 @@
-# Package/Label Principal Display Panel
+# Principal Display Panel
 
-NDC 0781-5317-01
+NDC 0781-5317-31
 
-Zolpidem Tartrate Tablets CIV
+Zolpidem Tartrate Tablets
 
-5 mg*
-
-Rx only
-
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE
-
-100 Tablets
-
-SANDOZ
-
-# Package/Label Principal Display Panel
-
-NDC 0781-5318-01
-
-Zolpidem Tartrate Tablets CIV
-
-10 mg*
+5 mg
 
 Rx only
 
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE
+Pharmacist: Please dispense with medication guide
 
-100 Tablets
+30 Tablets
 
-SANDOZ
+# Principal Display Panel
+
+0781-5318-31
+
+Zolpidem Tartrate Tablets
+
+10 mg
+
+Rx only
+
+Pharmacist: Please dispense with Medication Guide
+
+30 Tablets
