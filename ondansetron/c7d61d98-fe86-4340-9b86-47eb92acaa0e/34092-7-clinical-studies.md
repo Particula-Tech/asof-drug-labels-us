@@ -25,12 +25,15 @@ The results of this study are summarized in Table 3:
 Table 3.
 Emetic Episodes: Treatment Response
 
-|  | Ondansetron 8-mg b.i.d.ZOFRAN Tabletsa | Placebo | P Value |
+|  | Ondansetron 8‑mg b.i.d. ZOFRAN Tabletsa | Placebo | P Value |
 | --- | --- | --- | --- |
 | Number of patients | 33 | 34 |  |
-| Treatment response0 Emetic episodes1-2 Emetic episodesMore than 2 emetic episodes/withdrawn | 20 (61%)6 (18%)7 (21%) | 2 (6%)8 (24%)24 (71%) | < 0.001< 0.001 |
-| Median number ofemetic episodes | 0.0 | Undefinedb |  |
-| Median time to firstemetic episode (h) | Undefinedc | 6.5 |  |
+| Treatment response |  |  |  |
+| 0 Emetic episodes | 20 (61%) | 2 (6%) | < 0.001 |
+| 1-2 Emetic episodes | 6 (18%) | 8 (24%) |  |
+| More than 2 emetic episodes/withdrawn | 7 (21%) | 24 (71%) | < 0.001 |
+| Median number of emetic episodes | 0.0 | Undefinedb |  |
+| Median time to first emetic episode (h) | Undefinedc | 6.5 |  |
 
 a The first dose was administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose.
 An 8-mg ZOFRAN Tablet was administered twice a day for 2 days after completion of chemotherapy.
@@ -48,9 +51,12 @@ Emetic Episodes: Treatment Response
 
 |  | Ondansetron |  |
 | --- | --- | --- |
-|  | 8-mg b.i.d.ZOFRAN Tabletsa | 8-mg t.i.d.ZOFRAN Tabletsb |
+|  | 8‑mg b.i.d.ZOFRAN Tabletsa | 8‑mg t.i.d.ZOFRAN Tabletsb |
 | Number of patients | 165 | 171 |
-| Treatment response0 Emetic episodes1-2 Emetic episodesMore than 2 emetic episodes/withdrawn | 101 (61%)16 (10%)48 (29%) | 99 (58%)17 (10%)55 (32%) |
+| Treatment response |  |  |
+| 0 Emetic episodes | 101 (61%) | 99 (58%) |
+| 1-2 Emetic episodes | 16 (10%) | 17 (10%) |
+| More than 2 emetic episodes/withdrawn | 48 (29%) | 55 (32%) |
 | Median number of emetic episodes | 0.0 | 0.0 |
 | Median time to first emetic episode (h) | Undefinedc | Undefinedc |
 | Median nausea scores (0-100)d | 6 | 6 |
