@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA201291"
+  ],
+  "inn": "trospium",
+  "labeler": "Paddock Laboratories, LLC",
+  "package_ndcs": [
+    "0574-0118-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "trospium chloride",
+      "name": "Trospium Chloride"
+    }
+  ],
+  "setid": "4574f905-a8c5-4732-b934-d1c7f9e708c9",
+  "source": "dailymed"
+}
