@@ -47,7 +47,7 @@ Prescriptions for Effexor XR should be written for the smallest quantity of caps
 
 ## Bone Fractures
 
-Epidemiological studies show an increased risk of bone fractures in patients receiving selective serotonin reuptake inhibitors (SSRIs) including venlafaxine.
+Epidemiological studies show an increased risk of bone fractures in patients receiving serotonin reuptake inhibitors (SRIs) including venlafaxine.
 The mechanism leading to this risk is not fully understood.
 
 ## Screening Patients for Bipolar Disorder
@@ -316,6 +316,10 @@ As increases in heart rate were observed, caution should be exercised in patient
 
 Evaluation of the electrocardiograms for 769 patients who received Effexor (immediate release) in 4- to 6-week double-blind, placebo-controlled trials showed that the incidence of trial-emergent conduction abnormalities did not differ from that with placebo.
 
+During the postmarketing use of venlafaxine, cases of QTc prolongation, Torsade de Pointes (TdP), ventricular tachycardia and sudden death have been reported.
+The majority of reports occurred in association with overdose or in patients with other risk factors for QTc prolongation/TdP.
+Therefore Effexor XR should be used with caution in patients with risk factors for QTc prolongation.
+
 In patients with renal impairment (GFR = 10 to 70 mL/min) or cirrhosis of the liver, the clearances of venlafaxine and its active metabolites were decreased, thus prolonging the elimination half-lives of these substances.
 A lower dose may be necessary (see DOSAGE AND ADMINISTRATION).
 Effexor XR, like all drugs effective in the treatment of major depressive disorder, should be used with caution in such patients.
@@ -518,6 +522,10 @@ See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of Effexor XR with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
+
+### Drugs that Prolong the QT Interval
+
+The risk of QTc prolongation and/or ventricular arrhythmias (e.g., TdP) is increased with concomitant use of other drugs which prolong the QTc interval (e.g., some antipsychotics and antibiotics) (see PRECAUTIONS, Use in Patients With Concomitant Illness).
 
 ### Drug-Laboratory Test Interactions
 
