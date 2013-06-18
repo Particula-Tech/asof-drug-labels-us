@@ -1,5 +1,3 @@
 # 7 DRUG INTERACTIONS
 
-No specific drug interaction studies have been conducted.
-Information is available on the pharmacodynamics and pharmacokinetics of gemcitabine for injection in combination with cisplatin, paclitaxel, or carboplatin.
-[see Clinical Pharmacology (12.2 and 12.3)]
+No drug interaction studies have been conducted.

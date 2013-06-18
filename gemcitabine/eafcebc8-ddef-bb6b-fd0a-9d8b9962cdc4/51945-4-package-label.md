@@ -6,4 +6,4 @@
 
 1 g Vial
 
-1 g Vial
+1 g Vial carton

@@ -2,16 +2,20 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D See ‘Warnings and Precautions’ section
+Pregnancy Category D. [see Warnings and Precautions (5.6)].
+
+Risk Summary
 
 Gemcitabine for injection can cause fetal harm when administered to a pregnant woman.
 Based on its mechanism of action, gemcitabine for injection is expected to result in adverse reproductive effects.
-There are no adequate and well-controlled studies of gemcitabine for injection in pregnant women.
+Gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits.
+If gemcitabine for injection is used during pregnancy, or if the patient becomes pregnant while taking gemcitabine for injection, the patient should be apprised of the potential hazard to a fetus.
 
-Gemcitabine is embryotoxic causing fetal malformations (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day in mice (about 1/200 the recommended human dose on a mg/m2 basis).
-Gemcitabine is fetotoxic causing fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day in rabbits (about 1/600 the recommended human dose on amg/m2 basis).
+Animal Data
+
+Gemcitabine is embryotoxic causing fetal malformations (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day in mice (approximately 0.005 times the recommended human dose on a mg/m2 basis).
+Gemcitabine is fetotoxic causing fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day in rabbits (about 0.002 times the recommended human dose on a mg/m2 basis).
 Embryotoxicity was characterized by decreased fetal viability, reduced live litter sizes, and developmental delays.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 [see Warnings and Precautions (5.6)]
 
 ## 8.3 Nursing Mothers
@@ -21,42 +25,32 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of gemcitabine for injection in pediatric patients has not been established.
-Gemcitabine for injection was evaluated in a Phase 1 trial in pediatric patients with refractory leukemia and determined that the maximum tolerated dose was 10 mg/m2/min for 360 minutes three times weekly followed by a one-week rest period.
-Gemcitabine for injection was also evaluated in a Phase 2 trial in patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) using 10 mg/m2/min for 360 minutes three times weekly followed by a one-week rest period.
-Toxicities observed included bone marrow suppression, febrile neutropenia, elevation of serum transaminases, nausea, and rash/desquamation, which were similar to those reported in adults.
-No meaningful clinical activity was observed in this Phase 2 trial.
+The safety and effectiveness of gemcitabine for injection have not been established in pediatric patients.
+The safety and pharmacokinetics of gemcitabine were evaluated in a trial in pediatric patients with refractory leukemia.
+The maximum tolerated dose was 10 mg/m2/min for 360 minutes three times weekly followed by a one-week rest period.
+The safety and activity of gemcitabine for injection were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m2/min administered over 360 minutes three times weekly followed by a one-week rest period.
+Toxicities observed included bone marrow suppression, febrile neutropenia, elevation of serum transaminases, nausea, and rash/desquamation.
+No meaningful clinical activity was observed in this trial.
 
 ## 8.5 Geriatric Use
 
-Gemcitabine for injection clearance is affected by age [see Clinical Pharmacology (12.3)].
-There is no evidence, however, that unusual dose adjustments [see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)] are necessary in patients over 65, and in general, adverse reaction rates in the single-agent safety database of 979 patients were similar in patients above and below 65.
-Grade 3/4 thrombocytopenia was more common in the elderly.
-In the randomized clinical trial of gemcitabine for injection in combination with carboplatin for recurrent ovarian cancer [see Clinical Studies (14.1)], 125 women treated with gemcitabine for injection plus carboplatin were <65 years and 50 were ≥65 years.
+In clinical studies of gemcitabine for injection, enrolling 979 patients with various cancers who received gemcitabine for injection as a single agent, no overall differences in safety were observed between patients aged 65 and older and younger patients, with the exception of a higher rate of Grade 3-4 thrombocytopenia in older patients as compared to younger patients.
+In a randomized trial in women with ovarian cancer, 175 women received gemcitabine for injection plus carboplatin, of which 29% were age 65 years or older.
 Similar effectiveness was observed between older and younger women.
 There was significantly higher Grade 3/4 neutropenia in women 65 years of age or older.
-Overall, there were no other substantial differences in toxicity profile of gemcitabine for injection plus carboplatin based on age.
 
-## 8.6 Renal
+Gemcitabine for injection clearance is affected by age, however there are no recommended dose adjustments based on patients’ age [see Clinical Pharmacology (12.3)].
 
-Hemolytic Uremic Syndrome (HUS) and/or renal failure have been reported following one or more doses of Gemcitabine for injection.
-Renal failure leading to death or requiring dialysis, despite discontinuation of therapy, has been reported.
-The majority of the cases of renal failure leading to death were due to HUS [see Adverse Reactions (6.1 and 6.2)].
+## 8.6 Renal Impairment
 
-Gemcitabine for injection should be used with caution in patients with preexisting renal impairment as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations.
-[see Warnings and Precautions (5.4)].
+No clinical studies have been conducted with gemcitabine in patients with decreased renal function.
 
-## 8.7 Hepatic
+## 8.7 Hepatic Impairment
 
-Serious hepatotoxicity, including liver failure and death, has been reported in patients receiving gemcitabine for injection alone or in combination with other potentially hepatotoxic drugs [see Adverse Reactions (6.1 and 6.2)].
-
-Gemcitabine for injection should be used with caution in patients with preexisting hepatic insufficiency as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations.
-Administration of gemcitabine for injection in patients with concurrent liver metastases or a preexisting medical history of hepatitis, alcoholism, or liver cirrhosis may lead to exacerbation of the underlying hepatic insufficiency.
-[see Warnings and Precautions (5.5)]
+No clinical studies have been conducted with gemcitabine in patients with decreased hepatic function.
 
 ## 8.8 Gender
 
 Gemcitabine for injection clearance is affected by gender.
-[see Clinical Pharmacology (12.3)] In the single-agent safety database (N=979 patients), however, there is no evidence that unusual dose adjustments [see Dosage and Administration (2)] are necessary in women.
-In general, in single-agent studies of gemcitabine for injection, adverse reaction rates were similar in men and women, but women, especially older women, were more likely not to proceed to a subsequent cycle and to experience Grade 3/4 neutropenia and thrombocytopenia.
-There was a greater tendency in women, especially older women, not to proceed to the next cycle.
+[see Clinical Pharmacology (12.3)].
+In single-agent studies of gemcitabine for injection women, especially older women, were more likely not to proceed to a subsequent cycle and to experience Grade 3/4 neutropenia and thrombocytopenia.
