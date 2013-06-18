@@ -12,7 +12,8 @@ Acetylcysteine crossed the placenta and was measurable following delivery in ser
 No adverse sequelae developed in the three viable infants.
 All mothers recovered and none of the infants had evidence of acetaminophen poisoning.
 
-Reproductive and developmental toxicity studies performed in rats at oral doses up to 6.7 times the recommended human intravenous dose and in rabbits at doses up to 3.3 times the recommended human intravenous dose revealed no evidence of impaired fertility or embryofetal toxicity [see Reproductive and Developmental Toxicology (13.3)].
+Reproduction studies were performed in rats at oral doses up to 2000 mg/kg/day (1.1 times the recommended total human intravenous dose of 300 mg/kg based on body surface area comparison) and in rabbits at oral doses up to 1000 mg/kg/day (1.1 times the recommended total human intravenous dose of 300 mg/kg based on body surface area comparison).
+No effects on fertility or harm to the fetus due to acetylcysteine were observed.
 
 ## 8.3 Nursing mothers
 
@@ -23,7 +24,7 @@ Nursing women may consider resuming nursing 30 hours after administration.
 
 ## 8.4 Pediatric use
 
-No adverse effects were noted during I.V. infusion with acetylcysteine at a mean rate of 4.2 mg/kg/h for 24 hours to 10 preterm newborns ranging in gestational age from 25 to 31 weeks and in weight from 500 to 1380 grams in one study or in 6 newborns ranging in gestational age from 26 to 30 weeks and in weight from 520 to 1335 grams infused with acetylcysteine at 0.1 to 1.3 mg/kg/h for 6 days.
+No adverse effects were noted during intravenous infusion with acetylcysteine at a mean rate of 4.2 mg/kg/h for 24 hours to 10 preterm newborns ranging in gestational age from 25 to 31 weeks and in weight from 500 to 1380 grams in one study or in 6 newborns ranging in gestational age from 26 to 30 weeks and in weight from 520 to 1335 grams infused with acetylcysteine at 0.1 to 1.3 mg/kg/h for 6 days.
 Elimination of acetylcysteine was slower in these infants than in adults; mean elimination half-life was 11 hours.
 There are no adequate and well-controlled studies in pediatric patients.
 

@@ -1,8 +1,10 @@
 # 1 INDICATIONS AND USAGE
 
-Acetadote, administered intravenously within 8 to 10 hours after ingestion of a potentially hepatotoxic quantity of acetaminophen, is indicated to prevent or lessen hepatic injury [see Dosage and Administration (2) and Acetaminophen Assays – Interpretation and Methodology (1.1, 1.2)].
+Acetadote is an antidote for acetaminophen overdose indicated to prevent or lessen hepatic injury after ingestion of a potentially hepatotoxic quantity of acetaminophen.
+Overdose incidences are divided into two types; Acute Ingestion or Repeated Supratherapeutic Ingestion (RSI).
+[see Dosage and Administration (2) and Acetaminophen Assays – Interpretation and Methodology-(Acute or Repeated Supratherapeutic Ingestion) (1.1, 1.2)].
 
-On admission for suspected acetaminophen overdose, a serum blood sample should be drawn at least 4 hours after ingestion to determine the acetaminophen level and will serve as a basis for determining the need for treatment with acetylcysteine.
+On admission for suspected acute acetaminophen overdose, a serum blood sample should be drawn at least 4 hours after ingestion to determine the acetaminophen level and will serve as a basis for determining the need for treatment with acetylcysteine.
 If the patient presents after 4 hours post-ingestion, the serum acetaminophen sample should be determined immediately.
 
 Acetadote should be administered within 8 hours from acetaminophen ingestion for maximal protection against hepatic injury for patients whose serum acetaminophen levels fall above the “possible” toxicity line on the Rumack-Matthew nomogram (line connecting 150 mcg/mL at 4 hours with 37.5 mcg/mL at 12 hours); [see Acetaminophen Assays – Interpretation and Methodology (1.1, 1.2)].
@@ -31,14 +33,19 @@ Interpretation of Acetaminophen Assays
 
 Estimating Potential for Hepatotoxicity: The following depiction of the Rumack-Matthew nomogram has been developed to estimate the probability that plasma levels in relation to intervals post-ingestion will result in hepatotoxicity.
 
+The Rumack-Matthew nomogram may underestimate the risk for hepatotoxicity in some patients with risk factors such as chronic alcoholism, malnutrition, or CYP2E1 enzyme inducing drugs (e.g., isoniazid).
+
 Figure 1.
-Rumack-Matthew Nomogram: Plasma or Serum Acetaminophen Concentration vs. Time Post Acetaminophen Ingestion (Rumack BH, Matthew H. Acetaminophen poisoning and toxicity.
-Pediatrics.
-1975;55:871-876 and Rumack BH, Peterson RC, Kock GG, Amara IA.
-Acetaminophen overdose.
-662 cases with evaluation of oral acetylcysteine treatment.
-Arch Intern Med.
-1981;141:380-385).
+Rumack-Matthew Nomogram
+
+Figure 1.
+Michael J Hodgman, Alexander R Garrard, A Review of Acetaminophen Poisoning.
+Crit Care Clin.
+28 (2012) 499-516.
+
+Stephen J. Wolf, Kennon Heard, et.al, Clinical Policy: Critical Issues in the Management of Patients Presenting to the Emergency Department with Acetaminophen Overdose.
+Ann Emerg Med.
+2007:50:292-313.
 
 ## 1.2 Acetaminophen Assays Interpretation and Methodology – Repeated Supratherapeutic Ingestion
 
@@ -50,11 +57,11 @@ For specific treatment information regarding the clinical management of repeated
 Figure 2.
 Acetadote Treatment Flow Chart
 
-*Acetaminophen levels drawn less than 4 hours post-ingestion may be misleading.
+1Acetaminophen levels drawn less than 4 hours post-ingestion may be misleading.
 
-# With an extended-release preparation, an acetaminophen level drawn less than 8 hours post-ingestion may be misleading.
+2With an extended-release preparation, an acetaminophen level drawn less than 8 hours post-ingestion may be misleading.
 Draw a second level at 4 to 6 hours after the initial level.
 If either falls above the toxicity line, acetylcysteine treatment should be initiated.
 
-***Acetylcysteine may be withheld until acetaminophen assay results are available as long as initiation of treatment is not delayed beyond 8 hours post-ingestion.
+3Acetylcysteine may be withheld until acetaminophen assay results are available as long as initiation of treatment is not delayed beyond 8 hours post-ingestion.
 If more than 8 hours post-ingestion, start acetylcysteine treatment immediately.

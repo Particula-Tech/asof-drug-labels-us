@@ -11,3 +11,6 @@ For specific treatment information regarding the clinical management of acetamin
 Manufactured for: Cumberland Pharmaceuticals Inc. Nashville, TN 37203
 
 *Sections or subsections omitted from the Full Prescribing Information are not listed.
+
+US Patent Nos. 8,148,356 and 8,399,445.
+Patents pending.
