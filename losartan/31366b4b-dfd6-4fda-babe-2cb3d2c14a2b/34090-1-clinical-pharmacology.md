@@ -4,11 +4,11 @@
 
 Angiotensin II [formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II)], is a potent vasoconstrictor, the primary vasoactive hormone of the renin-angiotensin system and an important component in the pathophysiology of hypertension.
 It also stimulates aldosterone secretion by the adrenal cortex.
-Losartan and its principal active metabolite block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor found in many tissues, (e.g., vascular smooth muscle, adrenal gland).
-There is also an AT 2 receptor found in many tissues but it is not known to be associated with cardiovascular homeostasis.
-Both losartan and its principal active metabolite do not exhibit any partial agonist activity at the AT 1 receptor and have much greater affinity (about 1000 fold) for the AT 1 receptor than for the AT 2 receptor.
-In vitro binding studies indicate that losartan is a reversible, competitive inhibitor of the AT 1 receptor.
-The active metabolite is 10 to 40 times more potent by weight than losartan and appears to be a reversible, non-competitive inhibitor of the AT 1 receptor.
+Losartan and its principal active metabolite block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor found in many tissues, (e.g., vascular smooth muscle, adrenal gland).
+There is also an AT2 receptor found in many tissues but it is not known to be associated with cardiovascular homeostasis.
+Both losartan and its principal active metabolite do not exhibit any partial agonist activity at the AT1 receptor and have much greater affinity (about 1000 fold) for the AT1 receptor than for the AT2 receptor.
+In vitro binding studies indicate that losartan is a reversible, competitive inhibitor of the AT1 receptor.
+The active metabolite is 10 to 40 times more potent by weight than losartan and appears to be a reversible, non-competitive inhibitor of the AT1 receptor.
 Neither losartan nor its active metabolite inhibits ACE (kininase II, the enzyme that converts angiotensin I to angiotensin II and degrades bradykinin); nor do they bind to or block other hormone receptors or ion channels known to be important in cardiovascular regulation.
 
 ## Pharmacokinetics
@@ -17,7 +17,7 @@ General Losartan is an orally active agent that undergoes substantial first-pass
 It is converted, in part, to an active carboxylic acid metabolite that is responsible for most of the angiotensin II receptor antagonism that follows losartan treatment.
 Losartan metabolites have been identified in human plasma and urine.
 In addition to the active carboxylic acid metabolite, several inactive metabolites are formed.
-Following oral and intravenous administration of 14 C-labeled losartan potassium, circulating plasma radioactivity is primarily attributed to losartan and its active metabolite.
+Following oral and intravenous administration of 14C-labeled losartan potassium, circulating plasma radioactivity is primarily attributed to losartan and its active metabolite.
 In vitro studies indicate that cytochrome P450 2C9 and 3A4 are involved in the biotransformation of losartan to its metabolites.
 Minimal conversion of losartan to the active metabolite (less than 1% of the dose compared to 14% of the dose in normal subjects) was seen in about one percent of individuals studied.
 The terminal half-life of losartan is about 2 hours and of the metabolite is about 6 to 9 hours.
@@ -27,14 +27,14 @@ Following oral administration, losartan is well absorbed (based on absorption of
 About 14% of an orally-administered dose of losartan is converted to the active metabolite.
 Mean peak concentrations of losartan and its active metabolite are reached in 1 hour and in 3 to 4 hours, respectively.
 While maximum plasma concentrations of losartan and its active metabolite are approximately equal, the AUC of the metabolite is about 4 times as great as that of losartan.
-A meal slows absorption of losartan and decreases its C max but has only minor effects on losartan AUC or on the AUC of the metabolite (about 10% decreased).
+A meal slows absorption of losartan and decreases its Cmax but has only minor effects on losartan AUC or on the AUC of the metabolite (about 10% decreased).
 The pharmacokinetics of losartan and its active metabolite were also determined after IV doses of each component separately in healthy volunteers.
 The volume of distribution of losartan and the active metabolite is about 34 liters and 12 liters, respectively.
 Total plasma clearance of losartan and the active metabolite is about 600 mL/min and 50 mL/min, respectively, with renal clearance of about 75 mL/min and 25 mL/min, respectively.
 After single doses of losartan administered orally, about 4% of the dose is excreted unchanged in the urine and about 6% is excreted in urine as active metabolite.
 Biliary excretion contributes to the elimination of losartan and its metabolites.
-Following oral 14 C-labeled losartan, about 35% of radioactivity is recovered in the urine and about 60% in the feces.
-Following an intravenous dose of 14 C-labeled losartan, about 45% of radioactivity is recovered in the urine and 50% in the feces.
+Following oral 14C-labeled losartan, about 35% of radioactivity is recovered in the urine and about 60% in the feces.
+Following an intravenous dose of 14C-labeled losartan, about 45% of radioactivity is recovered in the urine and 50% in the feces.
 Both losartan and its active metabolite are highly bound to plasma proteins, primarily albumin, with plasma free fractions of 1.3% and 0.2%, respectively.
 Plasma protein binding is constant over the concentration range achieved with recommended doses.
 Studies in rats indicate that losartan crosses the blood-brain barrier poorly, if at all.
@@ -47,7 +47,7 @@ Pharmacokinetic parameters after multiple doses of losartan (average dose 0.7 mg
 Pharmacokinetics of losartan and its active metabolite were generally similar across the studied age groups and similar to historical pharmacokinetic data in adults.
 The principal pharmacokinetic parameters in adults and children are shown in the table below.
 
-Table 1 Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to 16 Following Multiple Dosing
+Table 1: Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to 16 Following Multiple Dosing
 
 |  | Adults given 50 mg once daily for 7 days N=12 |  | Age 6 to 16 given 0.7 mg/kg once daily for 7 days N=25 |  |
 | --- | --- | --- | --- | --- |
@@ -60,31 +60,31 @@ Table 1 Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to 
 | * Mean ± standard deviation † Harmonic mean and standard deviation ‡ Median |  |  |  |  |
 
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
-The suspension and tablet are similar in their bioavailability with respect to both losartan and the active metabolite (see DOSAGE AND ADMINISTRATION, Preparation of Suspension ).
+The suspension and tablet are similar in their bioavailability with respect to both losartan and the active metabolite (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
 
 #### Geriatric and Gender
 
 Losartan pharmacokinetics have been investigated in the elderly (65 to 75 years) and in both genders.
 Plasma concentrations of losartan and its active metabolite are similar in elderly and young hypertensives.
 Plasma concentrations of losartan were about twice as high in female hypertensives as male hypertensives, but concentrations of the active metabolite were similar in males and females.
-No dosage adjustment is necessary (see DOSAGE AND ADMINISTRATION ).
+No dosage adjustment is necessary (see DOSAGE AND ADMINISTRATION).
 
 #### Race
 
-Pharmacokinetic differences due to race have not been studied (see also PRECAUTIONS, Race and CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke, Race ).
+Pharmacokinetic differences due to race have not been studied (see also PRECAUTIONS, Race and CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke, Race).
 
 #### Renal Insufficiency
 
 Following oral administration, plasma concentrations and AUCs of losartan and its active metabolite are increased by 50 to 90% in patients with mild (creatinine clearance of 50 to 74 mL/min) or moderate (creatinine clearance 30 to 49 mL/min) renal insufficiency.
 In this study, renal clearance was reduced by 55 to 85% for both losartan and its active metabolite in patients with mild or moderate renal insufficiency.
 Neither losartan nor its active metabolite can be removed by hemodialysis.
-No dosage adjustment is necessary for patients with renal impairment unless they are volume-depleted (see WARNINGS, Hypotension ― Volume-Depleted Patients and DOSAGE AND ADMINISTRATION ).
+No dosage adjustment is necessary for patients with renal impairment unless they are volume-depleted (see WARNINGS, Hypotension ― Volume-Depleted Patients and DOSAGE AND ADMINISTRATION).
 
 #### Hepatic Insufficiency
 
 Following oral administration in patients with mild to moderate alcoholic cirrhosis of the liver, plasma concentrations of losartan and its active metabolite were, respectively, 5 times and about 1.7 times those in young male volunteers.
 Compared to normal subjects the total plasma clearance of losartan in patients with hepatic insufficiency was about 50% lower and the oral bioavailability was about 2 times higher.
-A lower starting dose is recommended for patients with a history of hepatic impairment (see DOSAGE AND ADMINISTRATION ).
+A lower starting dose is recommended for patients with a history of hepatic impairment (see DOSAGE AND ADMINISTRATION).
 
 ### Drug Interactions
 
@@ -131,9 +131,9 @@ There was essentially no change in average heart rate in losartan-treated patien
 
 The antihypertensive effect of losartan was studied in one trial enrolling 177 hypertensive pediatric patients aged 6 to 16 years old.
 Children who weighed <50 kg received 2.5, 25 or 50 mg of losartan daily and patients who weighed ≥50 kg received 5, 50 or 100 mg of losartan daily.
-Children in the lowest dose group were given losartan in a suspension formulation (see DOSAGE AND ADMINISTRATION, Preparation of Suspension ).
+Children in the lowest dose group were given losartan in a suspension formulation (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
 The majority of the children had hypertension associated with renal and urogenital disease.
-The sitting diastolic blood pressure (SiDBP) on entry into the study was higher than the 95 th percentile level for the patient’s age, gender, and height.
+The sitting diastolic blood pressure (SiDBP) on entry into the study was higher than the 95th percentile level for the patient’s age, gender, and height.
 At the end of three weeks, losartan reduced systolic and diastolic blood pressure, measured at trough, in a dose-dependent manner.
 Overall, the two higher doses (25 to 50 mg in patients <50 kg; 50 to 100 mg in patients ≥50 kg) reduced diastolic blood pressure by 5 to 6 mmHg more than the lowest dose used (2.5 mg in patients <50 kg; 5 mg in patients ≥50 kg).
 The lowest dose, corresponding to an average daily dose of 0.07 mg/kg, did not appear to offer consistent antihypertensive efficacy.
@@ -160,18 +160,19 @@ Blood pressure reduction measured at trough was similar for both treatment group
 At the end of study or at the last visit before a primary endpoint, the mean blood pressures were 144.1/81.3 mmHg for the group treated with losartan potassium and 145.4/80.9 mmHg for the group treated with atenolol [the difference in systolic blood pressure (SBP) of 1.3 mmHg was significant (p<0.001), while the difference of 0.4 mmHg in diastolic blood pressure (DBP) was not significant (p=0.098)].
 The primary endpoint was the first occurrence of cardiovascular death, nonfatal stroke, or nonfatal myocardial infarction.
 Patients with nonfatal events remained in the trial, so that there was also an examination of the first event of each type even if it was not the first event (e.g., a stroke following an initial myocardial infarction would be counted in the analysis of stroke).
-Treatment with losartan potassium resulted in a 13% reduction (p=0.021) in risk of the primary endpoint compared to the atenolol group (see Figure 1 and Table 2 ); this difference was primarily the result of an effect on fatal and nonfatal stroke.
-Treatment with losartan potassium reduced the risk of stroke by 25% relative to atenolol (p=0.001) (see Figure 2 and Table 2 ).
+Treatment with losartan potassium resulted in a 13% reduction (p=0.021) in risk of the primary endpoint compared to the atenolol group (see Figure 1 and Table 2); this difference was primarily the result of an effect on fatal and nonfatal stroke.
+Treatment with losartan potassium reduced the risk of stroke by 25% relative to atenolol (p=0.001) (see Figure 2 and Table 2).
+
 Table 2 shows the results for the primary composite endpoint and the individual endpoints.
 The primary endpoint was the first occurrence of stroke, myocardial infarction or cardiovascular death, analyzed using an intention-to-treat (ITT) approach.
 The table shows the number of events for each component in two different ways.
 The Components of Primary Endpoint (as a first event) counts only the events that define the primary endpoint, while the Secondary Endpoints count all first events of a particular type, whether or not they were preceded by a different type of event.
 
-Table 2 Incidence of Primary Endpoint Events
+Table 2: Incidence of Primary Endpoint Events
 
-|  | Losartan Potassium |  | Atenolol |  | Risk Reduction† | 95% CI | p-Value |
+|  | Losartan Potassium |  | Atenolol |  | Risk Reduction* | 95% CI | p-Value |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| N (%) | Rate* | N (%) | Rate* |  |  |  |  |
+| N (%) | Rate† | N (%) | Rate† |  |  |  |  |
 | Primary Composite Endpoint | 508 (11) | 23.8 | 588 (13) | 27.9 | 13% | 2% to 23% | 0.021 |
 | Components of Primary Composite Endpoint (as a first event) |  |  |  |  |  |  |  |
 | Stroke (nonfatal‡) | 209 (5) |  | 286 (6) |  |  |  |  |
@@ -184,7 +185,7 @@ Table 2 Incidence of Primary Endpoint Events
 | Due to CHD | 125 (3) | 5.6 | 124 (3) | 5.6 | -3% | -32% to 20% | 0.839 |
 | Due to Stroke | 40 (1) | 1.8 | 62 (1) | 2.8 | 35% | 4% to 67% | 0.032 |
 | Other§ | 39 (1) | 1.8 | 48 (1) | 2.2 | 16% | -28% to 45% | 0.411 |
-| * Rate per 1000 patient-years of follow-up † Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy ‡ First report of an event, in some cases the patient died subsequently to the event reported § Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease |  |  |  |  |  |  |  |
+| * Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy † Rate per 1000 patient-years of follow-up ‡ First report of an event, in some cases the patient died subsequently to the event reported § Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease |  |  |  |  |  |  |  |
 
 Although the LIFE study favored losartan potassium over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between losartan potassium and placebo.
 Although not measured directly, the difference between losartan potassium and placebo is compelling because there is evidence that atenolol is itself effective (vs. placebo) in reducing cardiovascular events, including stroke, in hypertensive patients.
@@ -204,7 +205,7 @@ However, the LIFE study provides no evidence that the benefits of losartan potas
 
 #### Nephropathy in Type 2 Diabetic Patients
 
-The Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study was a randomized, placebo-controlled, double-blind, multicenter study conducted worldwide in 1513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3 mg/dL in females or males < 60 kg and 1.5 to 3 mg/dL in males >60 kg and proteinuria [urinary albumin to creatinine ratio > 300 mg/g]).
+The Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study was a randomized, placebo-controlled, double-blind, multicenter study conducted worldwide in 1513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3 mg/dL in females or males <60 kg and 1.5 to 3 mg/dL in males >60 kg and proteinuria [urinary albumin to creatinine ratio >300 mg/g]).
 Patients were randomized to receive losartan potassium 50 mg once daily or placebo on a background of conventional antihypertensive therapy excluding ACE inhibitors and angiotensin II antagonists.
 After one month, investigators were instructed to titrate study drug to 100 mg once daily if the trough blood pressure goal (140/90 mmHg) was not achieved.
 Overall, 72% of patients received the 100 mg daily dose more than 50% of the time they were on study drug.
@@ -212,14 +213,14 @@ Because the study was designed to achieve equal blood pressure control in both g
 Patients were followed for a mean duration of 3.4 years.
 The study population was diverse with regard to race (Asian 16.7%, Black 15.2%, Hispanic 18.3%, White 48.6%).
 Overall, 63.2% of the patients were men, and 66.4% were under the age of 65 years.
-Almost all of the patients (96.6%) had a history of hypertension, and the patients entered the trial with a mean serum creatinine of 1.9 mg/dl and mean proteinuria (urinary albumin/creatinine) of 1808 mg/g at baseline.
+Almost all of the patients (96.6%) had a history of hypertension, and the patients entered the trial with a mean serum creatinine of 1.9 mg/dL and mean proteinuria (urinary albumin/creatinine) of 1808 mg/g at baseline.
 The primary endpoint of the study was the time to first occurrence of any one of the following events: doubling of serum creatinine, end-stage renal disease (ESRD) (need for dialysis or transplantation), or death.
-Treatment with losartan potassium resulted in a 16% risk reduction in this endpoint (see Figure 4 and Table 3 ).
-Treatment with losartan potassium also reduced the occurrence of sustained doubling of serum creatinine by 25% and ESRD by 29% as separate endpoints, but had no effect on overall mortality (see Table 3 ).
+Treatment with losartan potassium resulted in a 16% risk reduction in this endpoint (see Figure 4 and Table 3).
+Treatment with losartan potassium also reduced the occurrence of sustained doubling of serum creatinine by 25% and ESRD by 29% as separate endpoints, but had no effect on overall mortality (see Table 3).
 The mean baseline blood pressures were 152/82 mmHg for losartan potassium plus conventional antihypertensive therapy and 153/82 mmHg for placebo plus conventional antihypertensive therapy.
 At the end of the study, the mean blood pressures were 143/76 mmHg for the group treated with losartan potassium and 146/77 mmHg for the group treated with placebo.
 
-Table 3 Incidence of Primary Endpoint Events
+Table 3: Incidence of Primary Endpoint Events
 
 |  | Incidence |  | Risk Reduction | 95% C.I. | p-Value |
 | --- | --- | --- | --- | --- | --- |
@@ -241,7 +242,7 @@ The favorable effects of losartan potassium were seen in patients also taking ot
 For the primary endpoint and ESRD, the effects of losartan potassium in patient subgroups defined by age, gender and race are shown in Table 4 below.
 Subgroup analyses can be difficult to interpret and it is not known whether these represent true differences or chance effects.
 
-Table 4 Efficacy Outcomes within Demographic Subgroups
+Table 4: Efficacy Outcomes within Demographic Subgroups
 
 |  |  | Primary Composite Endpoint |  |  | ESRD |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |

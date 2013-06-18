@@ -4,10 +4,12 @@ LOSARTAN POTASSIUM TABLETS USP Rx only Read the Patient Information that comes w
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 What is the most important information I should know about losartan potassium tablets USP?
+
 Do not take losartan potassium tablets USP if you are pregnant or plan to become pregnant.
 Losartan potassium tablets USP can harm your unborn baby causing injury and even death.
-Stop taking losartan potassiu m tablets USP if you become pregnant and call your doctor right away.
+Stop taking losartan potassium tablets USP if you become pregnant and call your doctor right away.
 If you plan to become pregnant, talk to your doctor about other treatment options before taking losartan potassium tablets USP.
+
 What are losartan potassium tablets USP?
 Losartan potassium tablets USP are a prescription medicine called an angiotensin receptor blocker (ARB).
 They are used:
@@ -18,32 +20,31 @@ They are used:
 - to slow the worsening of diabetic kidney disease (nephropathy) in patients with type 2 diabetes who have or had high blood pressure.
 
 Losartan potassium tablets USP have not been studied in children less than 6 years old or in children with certain kidney problems.
+
 High Blood Pressure (hypertension).
 Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 Losartan potassium tablets USP can help your blood vessels relax so your blood pressure is lower.
-
 Left Ventricular Hypertrophy (LVH) is an enlargement of the walls of the left chamber of the heart (the heart’s main pumping chamber).
 LVH can happen from several things.
 High blood pressure is the most common cause of LVH.
-
 Type 2 Diabetes with Nephropathy.
 Type 2 diabetes is a type of diabetes that happens mainly in adults.
 If you have diabetic nephropathy it means that your kidneys do not work properly because of damage from the diabetes.
-
 Who should not take losartan potassium tablets USP?
 
 - Do not take losartan potassium tablets USP if you are allergic to any of the ingredients in losartan potassium tablets USP.
   See the end of this leaflet for a complete list of ingredients in losartan potassium tablets USP.
+- Do not take losartan potassium tablets USP if you have diabetes and are taking a medicine called aliskiren to reduce blood pressure.
 
 What should I tell my doctor before taking losartan potassium tablets USP?
 Tell your doctor about all of your medical conditions including if you:
 
 - are pregnant or planning to become pregnant.
   See “What is the most important information I should know about losartan potassium tablets USP?”
-- are breastfeeding.
+- are breast-feeding.
   It is not known if losartan potassium passes into your breast milk.
-  You should choose either to take losartan potassium tablets USP or breastfeed, but not both.
+  You should choose either to take losartan potassium tablets USP or breast-feed, but not both.
 - are vomiting a lot or having a lot of diarrhea
 - have liver problems
 - have kidney problems
@@ -119,5 +120,5 @@ This leaflet summarizes the most important information about losartan potassium 
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about losartan potassium tablets USP that is written for health professionals.
 What are the ingredients in losartan potassium tablets USP?
-Active ingredient: losartan potassium USP Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch, low substituted hydroxypropyl cellulose, magnesium stearate, hydroxypropyl cellulose, hypromellose 6 cP, titanium dioxide, FD&C blue #2/indigo carmine aluminum lake, D&C yellow #10 aluminum lake, and purified water.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 10/2012
+Active ingredient: losartan potassium USP Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch (maize), low substituted hydroxypropyl cellulose, magnesium stearate, hydroxypropyl cellulose, hypromellose 6 cP, titanium dioxide, FD&C blue #2/indigo carmine aluminum lake, D&C yellow #10 aluminum lake, and purified water.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 04/2013

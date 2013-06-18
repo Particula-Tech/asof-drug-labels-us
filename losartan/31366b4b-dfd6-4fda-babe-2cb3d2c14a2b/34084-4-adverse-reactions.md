@@ -43,7 +43,7 @@ The incidence of cough is shown below.
 | * Demographics = (89% caucasian, 64% female) † Demographics = (90% caucasian, 51% female) |  |  |  |
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.
-Cases of cough, including positive re-challenges, have been reported with the use of losartan in postmarketing experience.
+Cases of cough, including positive re-challenges, have been reported with the use of losartan in post-marketing experience.
 Pediatric Patients No relevant differences between the adverse experience profile for pediatric patients and that previously reported for adult patients were identified.
 Hypertensive Patients with Left Ventricular Hypertrophy In the LIFE study, adverse events with losartan potassium were similar to those reported previously for patients with hypertension.
 Nephropathy in Type 2 Diabetic Patients In the RENAAL study involving 1513 patients treated with losartan potassium or placebo, the overall incidences of reported adverse experiences were similar for the two groups.
@@ -93,11 +93,11 @@ The adverse experiences, regardless of drug relationship, reported with an incid
 | Urogenital |  |  |
 | Urinary tract infection | 16 | 13 |
 
-## Postmarketing Experience
+## Post-marketing Experience
 
-The following additional adverse reactions have been reported in postmarketing experience: Digestive: Hepatitis (reported rarely).
+The following additional adverse reactions have been reported in post-marketing experience: Digestive: Hepatitis (reported rarely).
 General Disorders and Administration Site Conditions: Malaise.
-Hemic : Thrombocytopenia (reported rarely).
+Hemic: Thrombocytopenia (reported rarely).
 Hypersensitivity: Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, and/or tongue has been reported rarely in patients treated with losartan; some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
 Vasculitis, including Henoch-Schönlein purpura, has been reported.
 Anaphylactic reactions have been reported.
@@ -107,7 +107,7 @@ Nervous system disorders: Dysgeusia.
 Respiratory: Dry cough (see above).
 Skin: Erythroderma.
 Laboratory Test Findings In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of losartan potassium.
-Creatinine, Blood Urea Nitrogen Minor increases in blood urea nitrogen (BUN) or serum creatinine were observed in less than 0.1 percent of patients with essential hypertension treated with losartan potassium alone (see PRECAUTIONS, Impaired Renal Function ).
+Creatinine, Blood Urea Nitrogen Minor increases in blood urea nitrogen (BUN) or serum creatinine were observed in less than 0.1 percent of patients with essential hypertension treated with losartan potassium alone (see PRECAUTIONS, Impaired Renal Function).
 Hemoglobin and Hematocrit Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.11 grams percent and 0.09 volume percent, respectively) occurred frequently in patients treated with losartan potassium alone, but were rarely of clinical importance.
 No patients were discontinued due to anemia.
 Liver Function Tests Occasional elevations of liver enzymes and/or serum bilirubin have occurred.
