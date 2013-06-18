@@ -46,8 +46,7 @@ Adverse Reactions Occurring in 1% or More of All Treated Patients (Three studies
 | Influenza | 1.2 % | 1.0 % |
 | Pyrexia | 1.2 % | 0.7 % |
 | Cough | 1.4 % | 0.3 % |
-| N = number of patients within specified treatment group |  |  |
-| % = percentage of patients in category and treatment group |  |  |
+| N = number of patients within specified treatment group % = percentage of patients in category and treatment group |  |  |
 
 ## 6.2 Adverse Reaction Information from Other Sources
 
