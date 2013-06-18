@@ -143,12 +143,12 @@ Concomitant administration of CYP2D6 and/or CYP3A4 inhibitors (see CLINICAL PHAR
 
 There have been postmarketing reports of serotonin syndrome with use of tramadol and SSRIs/SNRIs or MAOIs and α2-adrenergic blockers.
 Caution is advised when ULTRAM® is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John's Wort.
-If concomitant treatment of ULTRAM® with a drug affecting the serotonergic neurotransmitter system is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome Risk).
+If concomitant treatment of ULTRAM® with a drug affecting the serotonergic neurotransmitter system is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 
 ### Triptans
 
 Based on the mechanism of action of tramadol and the potential for serotonin syndrome, caution is advised when ULTRAM® is coadministered with a triptan.
-If concomitant treatment of ULTRAM® with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome Risk).
+If concomitant treatment of ULTRAM® with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 
 ### Use With Carbamazepine
 
