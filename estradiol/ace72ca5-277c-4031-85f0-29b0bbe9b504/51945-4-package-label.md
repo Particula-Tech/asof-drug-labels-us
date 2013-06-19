@@ -1,6 +1,6 @@
 # Bottle Label - Femtrace 0.45 mg
 
-Femtrace
+Femtrace®
 
 (estradiol acetate tablets)
 
@@ -14,11 +14,11 @@ Rx ONLY
 
 Dosage: One tablet daily
 
-Store at 25o C (77o F); excursions permitted to 15o - 30o C (59o - 86o F) [see USP Controlled Room Temperature.]
+Store at 25o C (77o F); excursions permitted to 15o - 30o C (59o - 86o F) [see USP Controlled Room Temperature]
 
 # Bottle Label - Femtrace 0.9 mg
 
-Femtrace
+Femtrace®
 
 (estradiol acetate tablets)
 
@@ -32,11 +32,11 @@ Rx ONLY
 
 Dosage: One tablet daily
 
-Store at 25o C (77o F); excursions permitted to 15o - 30o C (59o - 86o F) [see USP Controlled Room Temperature.]
+Store at 25o C (77o F); excursions permitted to 15o - 30o C (59o - 86o F) [see USP Controlled Room Temperature]
 
 # Bottle Label - Femtrace 1.8 mg
 
-Femtrace
+Femtrace®
 
 (estradiol acetate tablets)
 
@@ -50,4 +50,4 @@ Rx ONLY
 
 Dosage: One tablet daily
 
-Store at 25o C (77o F); excursions permitted to 15o - 30o C (59o - 86o F) [see USP Controlled Room Temperature.]
+Store at 25o C (77o F); excursions permitted to 15o - 30o C (59o - 86o F) [see USP Controlled Room Temperature]

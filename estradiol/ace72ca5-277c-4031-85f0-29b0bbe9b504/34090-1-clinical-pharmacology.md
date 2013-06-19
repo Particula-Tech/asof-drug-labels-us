@@ -24,7 +24,8 @@ Estradiol was rapidly absorbed following oral administration of estradiol acetat
 Mean serum estradiol concentrations following multiple dosing are shown in Figure 1.
 Estradiol and estrone serum concentrations increased proportionally with increasing dose; the corresponding estradiol Cavg values were 23.5, 44.4 and 92.1 pg/mL for the 0.45, 0.9 and 1.8 mg doses, respectively (see Table 1).
 
-Table 1 Summary of Mean (%CV)Coefficient of Variation Pharmacokinetic Parameters Following Multiple- Dose Administration of Femtrace to Healthy Postmenopausal Women (n = 18)
+Table 1.
+Summary of Mean (%CV)Coefficient of Variation Pharmacokinetic Parameters Following Multiple-Dose Administration of Femtrace to Healthy Postmenopausal Women (n = 18)
 
 | Estradiol Acetate Dose | Analyte | Cmax(pg/mL) | tmaxMedian value reported for Tmax(hour) | AUC(0-τ)(pg·h/mL) | t½Harmonic mean value reported for t½(hour) |
 | --- | --- | --- | --- | --- | --- |
@@ -85,7 +86,8 @@ In the second study, 221 postmenopausal women (mean age 52.2 years [range 36 to 
 The results in Tables 2a and 3a indicate that compared with placebo, Femtrace 0.9 mg/day and Femtrace 1.8 mg/day produced a reduction in both the frequency and severity of moderate to severe vasomotor symptoms at weeks 4 and 12.
 The results in Tables 2b and 3b indicate that compared with placebo, Femtrace 0.45 mg/day produced a reduction in the frequency of moderate to severe vasomotor symptoms at weeks 4 and 12, and a reduction in the severity of moderate to severe vasomotor symptoms at weeks 7 and 12.
 
-Table 2a Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms per Week – ITT Population, LOCF
+Table 2a.
+Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms per Week – ITT Population, LOCF
 
 | Visit | Placebo(n = 94) | Femtrace0.9 mg/day(n = 100) | Femtrace1.8 mg/day(n = 95) |
 | --- | --- | --- | --- |
@@ -101,7 +103,8 @@ Table 2a Mean Change from Baseline in the Number of Moderate to Severe Vasomotor
 | p value vs. Placebo | - | <0.001 | <0.001 |
 | ITT = intent to treat; LOCF = last observation carried forward; SD = standard deviation; SE = standard error |  |  |  |
 
-Table 2b Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms per Week – ITT (modified)ITT (modified): intent to treat modified by excluding 24 unblinded subjects Population, LOCF
+Table 2b.
+Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms per Week – ITT (modified)ITT (modified): intent to treat modified by excluding 24 unblinded subjects Population, LOCF
 
 | Visit | Placebo(n = 108) | Femtrace0.45 mg/day(n = 113) |
 | --- | --- | --- |
@@ -117,7 +120,8 @@ Table 2b Mean Change from Baseline in the Number of Moderate to Severe Vasomotor
 | p value vs. Placebo | - | 0.005 |
 | ITT = intent to treat; LOCF = last observation carried forward; SD = standard deviation; SE = standard error |  |  |
 
-Table 3a Mean Change from Baseline in the Severity of Moderate to Severe Vasomotor Symptoms per Week – ITT Population, LOCF
+Table 3a.
+Mean Change from Baseline in the Severity of Moderate to Severe Vasomotor Symptoms per Week – ITT Population, LOCF
 
 | Visit | Placebo(n = 94) | Femtrace0.9 mg/day(n = 100) | Femtrace1.8 mg/day(n = 95) |
 | --- | --- | --- | --- |
@@ -133,7 +137,8 @@ Table 3a Mean Change from Baseline in the Severity of Moderate to Severe Vasomot
 | p value vs. Placebo | - | <0.001 | <0.001 |
 | Note: Hot flush severity was scored using the following scale: 1 = Mild, 2 = Moderate, 3 = SevereITT = intent to treat; LOCF = last observation carried forward; SD = standard deviation; SE = standard error |  |  |  |
 
-Table 3b Mean Change from Baseline in the Severity of Moderate to Severe Vasomotor Symptoms per Week – ITT (modified)ITT (modified): intent to treat modified by excluding 24 unblinded subjects Population, LOCF
+Table 3b.
+Mean Change from Baseline in the Severity of Moderate to Severe Vasomotor Symptoms per Week – ITT (modified)ITT (modified): intent to treat modified by excluding 24 unblinded subjects Population, LOCF
 
 | Visit | Placebo(n = 108) | Femtrace0.45 mg/day(n = 113) |
 | --- | --- | --- |
@@ -159,7 +164,8 @@ The study did not evaluate the effects of CE or CE/MPA on menopausal symptoms.
 The CE/MPA substudy was stopped early because, according to the predefined stopping rule, the increased risk of breast cancer and cardiovascular events exceeded the specified benefits included in the “global index”.
 Results of the CE/MPA substudy, which included 16,608 women (average age of 63 years, range 50 to 79; 83.9% White, 6.5% Black, 5.5% Hispanic), after an average follow-up of 5.2 years are presented in Table 4 below.
 
-Table 4 Relative and Absolute Risk Seen in the CE/MPA Substudy of WHIadapted from JAMA, 2002; 288:321-333
+Table 4.
+Relative and Absolute Risk Seen in the CE/MPA Substudy of WHIadapted from JAMA, 2002; 288:321-333
 
 | Eventa subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes | Relative RiskCE/MPA vsPlacebo at 5.2 Years(95% CInominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebon = 8102 | CE/MPAn = 8506 |
 | --- | --- | --- | --- |

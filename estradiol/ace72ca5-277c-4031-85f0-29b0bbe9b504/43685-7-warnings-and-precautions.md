@@ -9,7 +9,7 @@ Should any of these occur or be suspected, estrogens should be discontinued imme
 
 Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitus, tobacco use, hypercholesterolemia and obesity) and/or venous thromboembolism (e.g., personal history or family history of VTE, obesity and systemic lupus erythematosus) should be managed appropriately.
 
-a. Coronary heart disease and stroke
+### a. Coronary heart disease and stroke
 
 In the Women’s Health Initiative (WHI) study, an increase in the number of myocardial infarctions and strokes has been observed in women receiving CE compared to placebo.
 These observations are preliminary.
@@ -30,7 +30,7 @@ Rates of CHD events were comparable among women in the CE/MPA group and the plac
 
 Large doses of estrogen (5 mg conjugated estrogens per day), comparable to those used to treat cancer of the prostate and breast, have been shown in a large prospective clinical trial in men to increase the risks of nonfatal myocardial infarction, pulmonary embolism and thrombophlebitis.
 
-b. Venous thromboembolism (VTE)
+### b. Venous thromboembolism (VTE)
 
 In the Women’s Health Initiative (WHI) study, an increase in VTE has been observed in women receiving CE compared to placebo.
 These observations are preliminary.
@@ -44,7 +44,7 @@ If feasible, estrogens should be discontinued at least 4 to 6 weeks before surge
 
 ## 2. Malignant neoplasms
 
-a. Endometrial cancer
+### a. Endometrial cancer
 
 The use of unopposed estrogens in women with intact uteri has been associated with an increased risk of endometrial cancer.
 The reported endometrial cancer risk among unopposed estrogen users is about 2- to 12-fold greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.
@@ -56,7 +56,7 @@ Adequate diagnostic measures, including endometrial sampling when indicated, sho
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia which may be a precursor to endometrial cancer.
 
-b. Breast cancer
+### b. Breast cancer
 
 The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
 The most important randomized clinical trial providing information about this issue is the Women’s Health Initiative (WHI) substudy of CE/MPA (See CLINICAL PHARMACOLOGY, Clinical Studies).
