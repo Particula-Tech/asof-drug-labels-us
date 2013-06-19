@@ -31,7 +31,7 @@ CAFCIT should be administered with caution in infants with impaired renal or hep
 Serum concentrations of caffeine should be monitored and dose administration of CAFCIT should be adjusted to avoid toxicity in this population.
 (See CLINICAL PHARMACOLOGY, Elimination, Special Populations.)
 
-## Information for patients
+## Information for Patients
 
 Parents/caregivers of patients receiving CAFCIT (caffeine citrate) Oral Solution should receive the following instructions:
 
@@ -52,7 +52,7 @@ Consult your physician if the baby begins to demonstrate signs of gastrointestin
 CAFCIT should be inspected visually for particulate matter and discoloration prior to its administration.
 Vials containing discolored solution or visible particulate matter should be discarded.
 
-## Laboratory tests
+## Laboratory Tests
 
 Prior to initiation of CAFCIT (caffeine citrate), baseline serum levels of caffeine should be measured in infants previously treated with theophylline, since preterm infants metabolize theophylline to caffeine.
 Likewise, baseline serum levels of caffeine should be measured in infants born to mothers who consumed caffeine prior to delivery, since caffeine readily crosses the placenta.
@@ -65,9 +65,7 @@ Serum concentrations of caffeine may need to be monitored periodically throughou
 In clinical studies reported in the literature, cases of hypoglycemia and hyperglycemia have been observed.
 Therefore, serum glucose may need to be periodically monitored in infants receiving CAFCIT.
 
-## Interactions
-
-### Drug interactions
+### Drug Interactions
 
 Cytochrome P450 1A2 (CYP1A2) is known to be the major enzyme involved in the metabolism of caffeine.
 Therefore, caffeine has the potential to interact with drugs that are substrates for CYP1A2, inhibit CYP1A2, or induce CYP1A2.
@@ -81,7 +79,7 @@ The clinical significance of this interaction in preterm neonates is not known.
 Interconversion between caffeine and theophylline has been reported in preterm neonates.
 The concurrent use of these drugs is not recommended.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 2-year study in Sprague-Dawley rats, caffeine (as caffeine base) administered in drinking water was not carcinogenic in male rats at doses up to 102 mg/kg or in female rats at doses up to 170 mg/kg (approximately 2 and 4 times, respectively, the maximum recommended intravenous loading dose for infants on a mg/m2 basis).
 In an 18-month study in C57BL/6 mice, no evidence of tumorigenicity was seen at dietary doses up to 55 mg/kg (less than the maximum recommended intravenous loading dose for infants on a mg/m2 basis).

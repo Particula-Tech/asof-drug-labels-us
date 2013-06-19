@@ -28,7 +28,7 @@ In adults, the mean plasma protein binding in vitro is reported to be approximat
 
 ### Metabolism
 
-Hepatic cytochrome P4501A2 (CYP1A2) is involved in caffeine biotransformation.
+Hepatic cytochrome P450 1A2 (CYP1A2) is involved in caffeine biotransformation.
 Caffeine metabolism in preterm neonates is limited due to their immature hepatic enzyme systems.
 
 Interconversion between caffeine and theophylline has been reported in preterm neonates; caffeine levels are approximately 25% of theophylline levels after theophylline administration and approximately 3-8% of caffeine administered would be expected to convert to theophylline.

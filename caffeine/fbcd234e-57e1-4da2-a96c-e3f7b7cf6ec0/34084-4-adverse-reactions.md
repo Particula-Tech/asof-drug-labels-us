@@ -45,7 +45,7 @@ Two were randomized to caffeine, and one placebo patient was “rescued” with 
 Adverse events described in the published literature include: central nervous system stimulation (ie, irritability, restlessness, jitteriness), cardiovascular effects (ie, tachycardia, increased left ventricular output, and increased stroke volume), gastrointestinal effects (ie, increased gastric aspirate, gastrointestinal intolerance), alterations in serum glucose (ie, hypoglycemia and hyperglycemia), and renal effects (ie, increased urine flow rate, increased creatinine clearance, and increased sodium and calcium excretion).
 Published long-term follow-up studies have not shown caffeine to adversely affect neurological development or growth parameters.
 
-## Overdosage
+## OVERDOSAGE
 
 Following overdose, serum caffeine levels have ranged from approximately 24 mg/L (a postmarketing spontaneous case report in which an infant exhibited irritability, poor feeding, and insomnia) to 350 mg/L.
 Serious toxicity has been associated with serum levels greater than 50 mg/L (see PRECAUTIONS – Laboratory testsand DOSAGE AND ADMINISTRATION).

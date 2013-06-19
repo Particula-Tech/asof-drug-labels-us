@@ -16,8 +16,7 @@ NDC 55390-358-03: 3 mL vial (NOT CHILD-RESISTANT),
 
 10 vials per white polypropylene child-resistant container.
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Preservative free.
 For single use only.
@@ -29,6 +28,6 @@ Manufactured by: Ben Venue Laboratories, Inc., Bedford, OH 44146
 
 Manufactured for: Bedford Laboratories™, Bedford, OH 44146
 
-November 2009
+March 2013
 
-CFCO-P01
+CFCO-P02

@@ -13,7 +13,7 @@ Continue to discuss any questions you have about this medicine at your baby’s 
 
 After you remove your baby’s dose, throw away the open bottle (vial) and all medicine leftin it.
 Use each vial of CAFCIT for only one dose.
-There will be extra medicine left in the vial afte one dose is removed.
+There will be extra medicine left in the vial after one dose is removed.
 Leftover medicine should not be used because CAFCIT does not contain preservatives.
 Once the vial is open, any medicine that is not used right away must be discarded.
 
@@ -49,7 +49,7 @@ Use each vial only once.
 After you remove your baby’s dose, throw away the vial and all medicine left in the opened vial.
 
 Ten (10) vials of CAFCIT are packaged in a child-resistant container.
-CAFClT vials are NOT CHILD RESISTANT.
+CAFClT vials are NOT CHILD-RESISTANT.
 Always store vials of CAFCIT in the child-resistant container.
 Follow the instructions below to open the child-resistant container, to open a vial of CAFCIT, and to remove a dose of medicine from the vial.
 
@@ -135,8 +135,12 @@ This is not a complete list of side effects reported with CAFCIT.
 If you have a concern about your baby, speak with your baby’s doctor.
 If you want more information about CAFCIT, speak with your baby’s doctor or pharmacist.
 
-Manufactured for: Bedford Laboratories™, Bedford, OH 44146
+Manufactured for:
 
-CFCO-P01
+Bedford Laboratories™
 
-November 2009
+Bedford, OH 44146
+
+CFCO-P02
+
+March 2013
