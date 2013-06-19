@@ -1,7 +1,6 @@
 {
   "application_numbers": [
     "NDA007409",
-    "NDA007961",
     "NDA008370"
   ],
   "inn": "dicyclomine",
@@ -9,7 +8,6 @@
   "package_ndcs": [
     "58914-012-10",
     "58914-013-10",
-    "58914-015-16",
     "58914-080-52"
   ],
   "products": [
@@ -20,11 +18,6 @@
     },
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "dicyclomine hydrochloride",
-      "name": "Bentyl"
-    },
-    {
-      "form": "SYRUP",
       "generic": "dicyclomine hydrochloride",
       "name": "Bentyl"
     },
