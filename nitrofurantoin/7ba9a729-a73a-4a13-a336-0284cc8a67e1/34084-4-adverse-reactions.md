@@ -1,8 +1,5 @@
 # ADVERSE REACTIONS
 
-In clinical trials of nitrofurantoin monohydrate/macrocrystals, the most frequent clinical adverse events that were reported as possibly or probably drug-related were nausea (8%), headache (6%), and flatulence (1.5%).
-Additional clinical adverse events reported as possibly or probably drug-related occurred in less than 1% of patients studied and are listed below within each body system in order of decreasing frequency:
-
 Gastrointestinal: Diarrhea, dyspepsia, abdominal pain, constipation, emesis
 
 Neurologic: Dizziness, drowsiness, amblyopia
@@ -65,7 +62,7 @@ Hematologic: Cyanosis secondary to methemoglobinemia has been reported rarely.
 
 Miscellaneous: As with other antimicrobial agents, superinfections caused by resistant organisms, e.g., Pseudomonas species or Candida species, can occur.
 
-In clinical trials of nitrofurantoin monohydrate/macrocrystals, the most frequent laboratory adverse events (1% to 5%), without regard to drug relationship, were as follows: eosinophilia, increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus.
+In clinical trials of nitrofurantoin (monohydrate/macrocrystals), the most frequent laboratory adverse events (1% to 5%), without regard to drug relationship, were as follows: eosinophilia, increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus.
 The following laboratory adverse events also have been reported with the use of nitrofurantoin: glucose-6-phosphate dehydrogenase deficiency anemia (see WARNINGS), agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia.
 In most cases, these hematologic abnormalities resolved following cessation of therapy.
 Aplastic anemia has been reported rarely.

@@ -2,11 +2,9 @@
 
 NDC 0185-0122-01
 
-Nitrofurantoin
+Nitrofurantoin Capsules USP
 
 (Monohydrate/Macrocrystals)
-
-Capsules
 
 100 mg*
 

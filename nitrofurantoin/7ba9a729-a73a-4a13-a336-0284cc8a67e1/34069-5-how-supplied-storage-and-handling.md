@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Nitrofurantoin monohydrate/macrocrystals capsules, for oral administration, are available as:
+Nitrofurantoin Capsules USP (monohydrate/macrocrystals), for oral administration, are available as:
 
 100 mg: Black and ivory opaque capsules imprinted “E 122” on the cap and body and supplied as:
 
