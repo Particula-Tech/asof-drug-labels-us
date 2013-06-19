@@ -8,6 +8,7 @@ This Medication Guide does not take the place of talking to your doctor about yo
 
 | What is the most important information I should know about Metadate CD? The following have been reported with use of methylphenidate HCl, USP and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting METADATE CD. Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with METADATE CD. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking METADATE CD. 2. Mental (Psychiatric) problems: All Patients new or worse behavior and thought problemsnew or worse bipolar illnessnew or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking METADATE CD, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
 | --- |
+| 3. Circulation Problems in fingers and toes (Peripheral vasculopathy, including Raynaud's phenomenon): fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking METADATE CD. |
 
 What Is METADATE CD?
 
@@ -41,6 +42,7 @@ Before starting METADATE CD tell your or your child's doctor about all health co
 - mental problems including psychosis, mania, bipolar illness, or depression
 - tics or Tourette's syndrome
 - seizures or have had an abnormal brain wave test (EEG)
+- circulation problem in fingers and toes
 
 Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
 
@@ -140,4 +142,4 @@ The individual capsules contain the following coloring agents: 10 mg capsules: F
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Marketed by UCB, Inc. Smyrna, GA 30080 Manufactured by UCB Manufacturing, Inc. Rochester, NY 14623 METADATE CD is a registered trademark of the UCB Group of companies ©2013, UCB, Inc., Smyrna, GA 30080 All rights reserved.
-Printed in U.S.A. 05/2013
+Printed in U.S.A. 06/2013

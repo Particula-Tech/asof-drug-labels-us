@@ -59,6 +59,15 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
+## Peripheral Vasculopathy, including Raynaud's phenomenon
+
+Stimulants, including METADATE CD, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
 ## Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
@@ -85,6 +94,13 @@ The capsules and the capsule contents must not be crushed or chewed.
 
 Patients should be advised to avoid alcohol while taking METADATE CD.
 Consumption of alcohol while taking METADATE CD may result in a more rapid release of the dose of methylphenidate.
+
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]
+
+- Instruct patients beginning treatment with METADATE CD about the risk of peripheral vasculopathy, including Raynaud's Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red
+- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking METADATE CD
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with methylphenidate and should counsel them in its appropriate use.
 A patient Medication Guide is available for METADATE CD.
