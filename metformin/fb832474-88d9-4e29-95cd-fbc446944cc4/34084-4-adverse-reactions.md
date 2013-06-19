@@ -15,7 +15,7 @@ Only 2 serious adverse reactions (unstable angina [n=2] and pancreatitis [n=2]) 
 
 Adverse reactions reported in greater than 5% of patients treated with GLUMETZA that were more common in the combined GLUMETZA and glyburide group than in the placebo and glyburide group are shown in Table 1.
 
-In 0.7% of patients treated with GLUMETZA and glyburide, diarrhea was responsible for discontinuation of study medication compared to no patients in the placebo and glyburide group Table 1: Adverse Reactions Occurring in 1% or More of Patients on Omeprazole Therapy from U.S. Studies
+In 0.7% of patients treated with GLUMETZA and glyburide, diarrhea was responsible for discontinuation of study medication compared to no patients in the placebo and glyburide group.
 
 Table 1: Treatment-Emergent Adverse Reactions Reported By >5%* of Patients for the Combined GLUMETZA Groups Versus Placebo Group
 
