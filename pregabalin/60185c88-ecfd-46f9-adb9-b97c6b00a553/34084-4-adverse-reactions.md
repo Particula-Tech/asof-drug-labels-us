@@ -241,7 +241,7 @@ Treatment-emergent adverse reaction incidence in controlled trials in fibromyalg
 | Balance disorder | 2 | 3 | 6 | 9 | 5 | 0 |
 | Memory impairment | 1 | 3 | 4 | 4 | 3 | 0 |
 | Coordination abnormal | 2 | 1 | 2 | 2 | 2 | 1 |
-| Hypoaesthesia | 2 | 2 | 3 | 2 | 2 | 1 |
+| Hypoesthesia | 2 | 2 | 3 | 2 | 2 | 1 |
 | Lethargy | 2 | 2 | 1 | 2 | 2 | 0 |
 | Tremor | 0 | 1 | 3 | 2 | 2 | 0 |
 | Psychiatric Disorders |  |  |  |  |  |  |
@@ -336,7 +336,7 @@ Metabolic and Nutritional Disorders – Rare: Glucose Tolerance Decreased, Urate
 
 Musculoskeletal System – Frequent: Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent: Arthrosis; Rare: Chondrodystrophy, Generalized Spasm
 
-Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypesthesia, Libido decreased, Nystagmus, Paresthesia, Sedation, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
+Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypoesthesia, Libido decreased, Nystagmus, Paresthesia, Sedation, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
 
 Respiratory System – Rare: Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
 
