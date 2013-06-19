@@ -44,9 +44,9 @@ Tasigna is a prescription medicine used to treat a type of leukemia called Phila
 
 - are newly diagnosed, or
 - are no longer benefiting from previous other treatments, including treatment with imatinib (Gleevec®), or
-- have taken other treatments, including imatinib (Gleevec®), and cannot tolerate them
+- have taken other treatments, including imatinib (Gleevec), and cannot tolerate them
 
-It is not known if Tasigna is safe or effective in children.
+It is not known if Tasigna is safe and effective in children.
 
 Who should not take Tasigna?
 
@@ -67,7 +67,7 @@ Before taking Tasigna, tell your doctor about all of your medical conditions, in
 - had pancreatitis
 - low blood levels of potassium or magnesium in your blood
 - a severe problem with lactose (milk sugar) or other sugars.
-  The Tasigna capsules contain lactose.
+  Tasigna capsules contain lactose.
   Most patients who have mild or moderate lactose intolerance can take Tasigna.
 - had a surgical procedure involving the removal of the entire stomach (total gastrectomy)
 - are pregnant or plan to become pregnant.
@@ -79,7 +79,13 @@ Before taking Tasigna, tell your doctor about all of your medical conditions, in
   You and your doctor should decide if you will take Tasigna or breastfeed.
   You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and non prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+
+If you need to take antacids(medicines to treat heartburn) do not take them at the same time that you take Tasigna.
+If you take:
+
+- a medicine to block the amount of acid produced in the stomach (H2 blocker): Take these medicines about 10 hours before you take Tasigna, or about 2 hours after you take Tasigna.
+- an antacid that contains aluminum hydroxide, magnesium hydroxide and simethicone to reduce the amount of acid in the stomach: Take these medicines about 2 hours before or about 2 hours after you take Tasigna.
 
 Tasigna can interact with many medicines and supplements and increase your chance for serious and life-threatening side effects.
 See “What is the most important information I should know about Tasigna?”
@@ -96,14 +102,13 @@ How should I take Tasigna?
 - Do not take Tasigna with food.
   Take Tasigna at least 2 hours after you eat and at least 1 hour before you eat.
 - Swallow Tasigna capsules whole with water.
-  If you cannot swallow Tasigna capsules whole, tell your doctor
+  If you cannot swallow Tasigna capsules whole, tell your doctor.
 - If you cannot swallow Tasigna capsules whole:
   - Open the Tasigna capsules and sprinkle the contents in 1 teaspoon of applesauce (puréed apple).
     - Do not use more than 1 teaspoon of applesauce.
     - Only use applesauce.
       Do not sprinkle Tasigna onto other foods.
   - Swallow the mixture right away (within 15 minutes).
-
 - Do not drink grapefruit juice, eat grapefruit, or take supplements containing grapefruit extract at any time during treatment.
   See “What is the most important information I should know about Tasigna?”
 - If you miss a dose, just take your next dose as scheduled.
@@ -111,8 +116,13 @@ How should I take Tasigna?
 - If you take too much Tasigna, call your doctor or poison control center right away.
   Symptoms may include vomiting and drowsiness.
   During treatment with Tasigna your doctor will do tests to check for side effects and to see how well Tasigna is working for you.
-  The tests will check your: ○ heart ○ blood cells (white blood cells, red blood cells, and platelets).
-  Your blood cells should be checked every two weeks for the first two months and then monthly. ○ electrolytes (potassium, magnesium) ○ pancreas and liver function ○ bone marrow samples
+  The tests will check your:
+  - heart
+  - blood cells (white blood cells, red blood cells, and platelets).
+    Your blood cells should be checked every two weeks for the first two months and then monthly.
+  - electrolytes (potassium, magnesium)
+  - pancreas and liver function
+  - bone marrow samples
 - Your doctor may change your dose.
   Your doctor may have you stop Tasigna for some time or lower your dose if you have side effects with it.
 
@@ -124,8 +134,11 @@ Tasigna may cause serious side effects including:
 - Low blood counts.
   Low blood counts are common with Tasigna.
   Your doctor will check your blood counts regularly during treatment with Tasigna.
-  Symptoms of low blood counts include: ○ unexplained bleeding or bruising ○ blood in urine or stool ○ unexplained weakness
-- Liver damage.
+  Symptoms of low blood counts include:
+  - unexplained bleeding or bruising
+  - blood in urine or stool
+  - unexplained weakness
+- Liver problems.
   Symptoms include yellow skin and eyes.
 - Pancreas inflammation (pancreatitis).
   Symptoms include sudden stomach area pain with nausea and vomiting.
@@ -154,7 +167,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Tasigna?
 
-- Store Tasigna at room temperature, 59° to 86°F (15° to 30°C).
+- Store Tasigna at room temperature between 68°F to 77°F (20°C to 25°C).
 - Safely throw away medicine that is out of date or no longer needed.
 - Keep Tasigna and all medicines out of the reach of children.
 
@@ -167,7 +180,7 @@ It may harm them.
 
 This Medication Guide summarizes the most important information about Tasigna.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Tasigna that is written for healthcare professionals.
+You can ask your doctor or pharmacist for information about Tasigna that is written for health professionals.
 
 For more information, go to www.us.tasigna.com or call 1-866-411-8274.
 
@@ -175,9 +188,9 @@ What are the ingredients in Tasigna?
 
 Active ingredient: nilotinib
 
-Inactive ingredients: colloidal silicon dioxide, crospovidone, lactose monohydrate, magnesium stearate and poloxamer 188.
+Inactive ingredients: colloidal silicon dioxide, crospovidone, lactose monohydrate, magnesium stearate and polyoxamer 188.
 
-The capsule shell contains gelatin, titanium dioxide (E171), iron oxide yellow (E172) and iron oxide black or iron oxide red for stamping of the imprint (E172).
+The capsule shell contains gelatin, iron oxide (red), iron oxide (yellow), iron oxide (black) and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -185,6 +198,8 @@ Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
+Revised: June 2013
+
 © Novartis
 
-T2011-125 October 2011
+T2013-47 June 2013

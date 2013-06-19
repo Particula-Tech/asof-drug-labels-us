@@ -31,9 +31,13 @@ Drugs such as proton pump inhibitors that inhibit gastric acid secretion to elev
 In healthy subjects, co-administration of a single 400 mg dose of Tasigna with multiple doses of esomeprazole (a proton pump inhibitor) at 40 mg daily decreased the nilotinib AUC by 34%.
 Increasing the dose of Tasigna when co-administered with such agents is not likely to compensate for the loss of exposure.
 Since proton pump inhibitors affect pH of the upper GI tract for an extended period, separation of doses may not eliminate the interaction.
-The concomitant use of proton pump inhibitors with Tasigna should be used with caution.
-If an H2 blocker or an antacid is necessary, the doses between the H2 blocker and Tasigna or the doses between the antacid and Tasigna should be separated by at least several hours.
-However, no clinical study has been conducted to evaluate the effect of H2 blockers or antacids on nilotinib pharmacokinetics.
+The concomitant use of proton pump inhibitors with Tasigna is not recommended.
+
+In healthy subjects, no significant change in nilotinib pharmacokinetics was observed when a single 400 mg dose of Tasigna was administered ten hours after and two hours before famotidine (an H2 blocker).
+Therefore, when the concurrent use of a H2 blocker is necessary, it may be administered approximately ten hours before and approximately two hours after the dose of Tasigna.
+
+Administration of an antacid (aluminum hydroxide/magnesium hydroxide/simethicone) to healthy subjects, two hours before or two hours after a single 400 mg dose of Tasigna did not alter nilotinib pharmacokinetics.
+Therefore, if necessary, an antacid may be administered approximately two hours before or approximately two hours after the dose of Tasigna.
 
 ## 7.4 Drugs that Inhibit Drug Transport Systems
 

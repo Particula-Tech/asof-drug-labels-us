@@ -126,8 +126,8 @@ Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients 
 |  | Pyrexia | 22 | <1 | 28 | 2 |
 |  | Asthenia | 16 | 0 | 14 | 1 |
 |  | Peripheral edema | 15 | <1 | 12 | 0 |
-|  | Myalgia | 19 | 2 | 16 | <1 |
-| Musculoskeletal and connective tissue disorders | Arthralgia | 26 | 2 | 16 | 0 |
+| Musculoskeletal and connective tissue disorders | Myalgia | 19 | 2 | 16 | <1 |
+|  | Arthralgia | 26 | 2 | 16 | 0 |
 |  | Muscle spasms | 13 | <1 | 15 | 0 |
 |  | Bone pain | 14 | <1 | 15 | 2 |
 |  | Pain in extremity | 20 | 2 | 18 | 1 |
@@ -138,7 +138,7 @@ Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients 
 |  | Oropharyngeal pain | 11 | 0 | 7 | 0 |
 | Infections and infestations | Nasopharyngitis | 24 | <1 | 15 | 0 |
 |  | Upper respiratory tract infection | 12 | 0 | 10 | 0 |
-| Metabolism and nutrition disorders | Decreased appetite* | 15 | <1 | 17 | <1 |
+| Metabolism and nutrition disorders | Decreased appetitec | 15 | <1 | 17 | <1 |
 | Psychiatric disorders | Insomnia | 12 | 1 | 7 | 0 |
 | Vascular disorders | Hypertension | 10 | 2 | 11 | <1 |
 
@@ -241,7 +241,7 @@ Gastrointestinal Disorders: Common: pancreatitis, abdominal discomfort, abdomina
 Uncommon: gastrointestinal hemorrhage, melena, mouth ulceration, gastroesophageal reflux, stomatitis, esophageal pain, dry mouth, sensitivity of teeth.
 Unknown frequency: gastrointestinal ulcer perforation, retroperitoneal hemorrhage, hematemesis, gastric ulcer, esophagitis ulcerative, subileus, gastritis, enterocolitis, hemorrhoids, hiatus hernia, rectal hemorrhage, gingivitis.
 
-Hepatobiliary Disorders: Very Common: hyperbilirubnemia.
+Hepatobiliary Disorders: Very Common: hyperbilirubinemia.
 Common: hepatic function abnormal.
 Uncommon: hepatotoxicity, toxic hepatitis, jaundice.
 Unknown frequency: cholestasis, hepatomegaly.
