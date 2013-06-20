@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-The adhesive side of Vivelle-Dot® (estradiol transdermal system) should be placed on a clean, dry area of the abdomen.
+The adhesive side of Vivelle-Dot should be placed on a clean, dry area of the trunk of the body (including the abdomen or buttocks).
 Vivelle-Dot should not be applied to the breasts.
 Vivelle-Dot should be replaced twice weekly.
 The sites of application must be rotated, with an interval of at least 1 week allowed between applications to a particular site.
@@ -17,18 +17,18 @@ The interruption of treatment in women taking Vivelle-Dot might increase the lik
 
 ## Initiation of Therapy
 
-When estrogen is prescribed for a postmenopausal woman with a uterus, progestin should also be initiated to reduce the risk of endometrial cancer.
+When estrogen is prescribed for a postmenopausal woman with a uterus, a progestin should also be initiated to reduce the risk of endometrial cancer.
 A woman without a uterus does not need progestin.
-Use of estrogen alone or in combination with a progestin, should be with the lowest effective dose and the shortest duration consistent with treatment goals and risks for the individual woman.
-Patients should be reevaluated periodically as clinically appropriate (e.g., 3-month to 6-month intervals) to determine whether treatment is still necessary (see BOXED WARNINGS and WARNINGS).
-For women who have a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
+Use of estrogen-alone or in combination with a progestin, should be with the lowest effective dose and the shortest duration consistent with treatment goals and risks for the individual woman.
+Patients should be reevaluated periodically as clinically appropriate (for example at 3-month to 6-month intervals) to determine whether treatment is still necessary.
+For a woman with a uterus, adequate diagnostic measures, such as directed or random endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal genital bleeding.
 
 Patients should be started at the lowest dose.
 The lowest effective dose of Vivelle-Dot has not been determined for any indication.
-For treatment of moderate to severe vasomotor symptoms and vulvar and vaginal atrophy associated with the menopause, start therapy with Vivelle-Dot 0.0375 mg/day applied to the skin twice weekly.
-For the prevention of postmenopausal osteoporosis, start therapy with Vivelle-Dot 0.025 mg/day applied to the skin twice weekly.
+For treatment of moderate to severe vasomotor symptoms and vulvar and vaginal atrophy associated with the menopause, start therapy with Vivelle-Dot 0.0375 mg per day applied to the skin twice weekly.
+For the prevention of postmenopausal osteoporosis, start therapy with Vivelle-Dot 0.025 mg per day applied to the skin twice weekly.
 The dosage may be adjusted as necessary.
-Reproductive system-associated adverse events were encountered more frequently in the highest dose group (0.1 mg/day) than in other active treatment groups or in placebo-treated patients.
+Reproductive system-associated adverse events were encountered more frequently in the highest dose group (0.1 mg per day) than in other active treatment groups or in placebo-treated patients.
 
 In women not currently taking oral estrogens or in women switching from another estradiol transdermal therapy, treatment with Vivelle-Dot may be initiated at once.
 In women who are currently taking oral estrogens, treatment with Vivelle-Dot should be initiated 1 week after withdrawal of oral hormone therapy, or sooner if menopausal symptoms reappear in less than 1 week.
@@ -36,4 +36,4 @@ In women who are currently taking oral estrogens, treatment with Vivelle-Dot sho
 ## Therapeutic Regimen
 
 Vivelle-Dot may be given continuously in patients who do not have an intact uterus.
-In those patients with an intact uterus, Vivelle-Dot may be given on a cyclic schedule (e.g., three weeks on drug followed by one week off drug).
+In those patients with an intact uterus, Vivelle-Dot may be given on a cyclic schedule (for example, 3 weeks on drug followed by 1 week off drug).

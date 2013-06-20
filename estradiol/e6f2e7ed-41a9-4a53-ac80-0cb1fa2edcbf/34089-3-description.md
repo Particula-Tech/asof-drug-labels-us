@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Vivelle-Dot® (estradiol transdermal system) contains estradiol in a multipolymeric adhesive.
+Vivelle-Dot (estradiol transdermal system) contains estradiol in a multipolymeric adhesive.
 The system is designed to release estradiol continuously upon application to intact skin.
 
 Five dosage strengths of Vivelle-Dot are available to provide nominal in vivo delivery rates of 0.025, 0.0375, 0.05, 0.075, or 0.1 mg of estradiol per day via the skin.

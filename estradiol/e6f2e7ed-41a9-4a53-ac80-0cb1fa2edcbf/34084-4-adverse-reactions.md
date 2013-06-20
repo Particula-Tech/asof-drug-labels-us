@@ -3,11 +3,9 @@
 See BOXED WARNINGS, WARNINGS and PRECAUTIONS.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
+The following adverse events have been reported with Vivelle-Dot therapy:
 
-The following adverse events have been reported with Vivelle-Dot® (estradiol transdermal system) therapy:
-
-Table 3 Summary of Most Frequently Reported Adverse Experiences/Medical Events Regardless of Relationship Reported at a Frequency ≥5%
+Table 4 Summary of Most Frequently Reported Adverse Experiences/Medical Events Regardless of Relationship Reported at a Frequency ≥5 Percent
 
 |  | Vivelle 0.025 mg/day† (N=47) N (%) | Vivelle 0.0375 mg/day† (N=130) N (%) | Vivelle 0.05 mg/day† (N=103) N (%) | Vivelle 0.075 mg/day† (N=46) N (%) | Vivelle 0.1 mg/day† (N=132) N (%) | Placebo (N=157) N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -55,36 +53,41 @@ Table 3 Summary of Most Frequently Reported Adverse Experiences/Medical Events R
 
 *** Application site erythema and application site irritation were observed in a small number of patients (3.2% or less of patients across treatment groups.)
 
-The following additional adverse reactions have been reported with estrogen and/or progestin therapy:
+Postmarketing Experience
 
-1.
-Genitourinary system.
-Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow; breakthrough bleeding; spotting; dysmenorrhea, increase in size of uterine leiomyomata; vaginitis, including vaginal candidiasis; change in amount of cervical secretion; changes in cervical ectropion; ovarian cancer; endometrial hyperplasia; endometrial cancer.
+The following additional adverse reaction has been identified during post-approval use of Vivelle-Dot.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-2.
-Breasts.
-Tenderness, enlargement, pain, nipple discharge, galactorrhea; fibrocystic breast changes; breast cancer.
+Genitourinary System
 
-3.
-Cardiovascular.
-Deep and superficial venous thrombosis; pulmonary embolism; thrombophlebitis; myocardial infarction; stroke; increase in blood pressure.
+Vaginal hemorrhage and abnormal withdrawal beeding or flow, breakthrough bleeding, spotting, uterine leiomyomata, vaginitis, vaginal discharge, ovarian cancer, endometrial hyperplasia.
 
-4.
-Gastrointestinal.
-Nausea, vomiting; abdominal cramps, bloating; cholestatic jaundice; increased incidence of gallbladder disease; pancreatitis, enlargement of hepatic hemangiomas.
+Breast
 
-5.
-Skin.
-Chloasma or melasma, which may persist when drug is discontinued; erythema multiforme; erythema nodosum; hemorrhagic eruption; loss of scalp hair; hirsutism; pruritus, rash.
+Enlargement, pain, nipple discharge, fibrocystic breast changes, breast cancer.
 
-6.
-Eyes.
-Retinal vascular thrombosis; intolerance to contact lenses.
+Cardiovascular
 
-7.
-Central nervous system.
-Headache; migraine; dizziness; mental depression; chorea; nervousness; mood disturbances; irritability; exacerbation of epilepsy, dementia.
+Deep venous thrombosis, pulmonary embolism, thrombophlebitis.
 
-8.
-Miscellaneous.
-Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthralgias; leg cramps; changes in libido; anaphylactoid/anaphylactic reactions including urticaria and angioedema; hypocalcemia; exacerbation of asthma; increased triglycerides.
+Gastrointestinal
+
+Nausea, vomiting, abdominal cramps, bloating, cholelithiasis, liver function tests abnormal, diarrhea.
+
+Skin
+
+Erythema multiforme, erythema nodosum, loss of scalp hair, hirsutism, prutitis, rash.
+
+Eyes
+
+Intolerance to contact lenses.
+
+Central Nervous System
+
+Migraine, dizziness, chorea, nervousness, affect liability, irritability.
+
+Miscellaneous
+
+Decrease in weight, reduced carbohydrate tolerance, edema, arthralgias, leg cramps, changes in libido, purpura, hypersensitivity.
+
+Additional postmarketing adverse reactions have been reported in patients receiving other forms of hormone therapy.
