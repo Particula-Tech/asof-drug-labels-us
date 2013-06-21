@@ -2,10 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Aflibercept produced embryo-fetal toxicity when administered during organogenesis in pregnant rabbits at intravenous doses of 3 to 60 mg/kg.
-A series of external, visceral, and skeletal malformations were observed in the fetuses.
-The maternal No Observed Adverse Effect Level (NOAEL) was 3 mg/kg, whereas the fetal NOAEL was below 3 mg/kg.
-At this dose, the systemic exposures based on Cmax and AUC for free aflibercept were approximately 2900 times and 600 times higher, respectively, when compared to corresponding values observed in humans after an intravitreal dose of 2 mg.
+Pregnancy Category C. Aflibercept produced embryo-fetal toxicity when administered every three days during organogenesis to pregnant rabbits at intravenous doses ≥3 mg per kg, or every six days at subcutaneous doses ≥0.1 mg per kg.
+Adverse embryo-fetal effects included increased incidences of postimplantation loss and fetal malformations, including anasarca, umbilical hernia, diaphragmatic hernia, gastroschisis, cleft palate, ectrodactyly, intestinal atresia, spina bifida, encephalomeningocele, heart and major vessel defects, and skeletal malformations (fused vertebrae, sternebrae, and ribs; supernumerary vertebral arches and ribs; and incomplete ossification).
+The maternal No Observed Adverse Effect Level (NOAEL) in these studies was 3 mg per kg.
+Aflibercept produced fetal malformations at all doses assessed in rabbits and the fetal NOAEL was less than 0.1 mg per kg.
+Administration of the lowest dose assessed in rabbits (0.1 mg per kg) resulted in systemic exposure (AUC) that was approximately 10 times the systemic exposure observed in humans after an intravitreal dose of 2 mg.
 
 There are no adequate and well-controlled studies in pregnant women.
 EYLEA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

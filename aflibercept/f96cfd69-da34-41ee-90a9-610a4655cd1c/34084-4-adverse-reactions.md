@@ -40,6 +40,7 @@ Table 1: Most Common Adverse Reactions (≥1%) in Wet AMD Studies
 | Foreign body sensation in eyes | 3% | 4% |
 | Lacrimation increased | 3% | 1% |
 | Vision blurred | 2% | 2% |
+| Intraocular inflammation | 2% | 3% |
 | Retinal pigment epithelium tear | 2% | 1% |
 | Injection site hemorrhage | 1% | 2% |
 | Eyelid edema | 1% | 2% |
@@ -67,6 +68,7 @@ Table 2: Most Common Adverse Reactions (≥1%) in CRVO Studies
 | Lacrimation increased | 3% | 4% |
 | Injection site pain | 3% | 1% |
 | Vision blurred | 1% | <1% |
+| Intraocular inflammation | 1% | 1% |
 
 Less common adverse reactions reported in <1% of the patients treated with EYLEA were cataract, eyelid edema, corneal edema, retinal tear, hypersensitivity, and endophthalmitis.
 
@@ -81,8 +83,3 @@ For these reasons, comparison of the incidence of antibodies to EYLEA with the i
 In the wet AMD and CRVO studies, the pre-treatment incidence of immunoreactivity to EYLEA was 1% to 3% across treatment groups.
 After dosing with EYLEA for 52 weeks (wet AMD), or 24 weeks (CRVO), antibodies to EYLEA were detected in a similar percentage range of patients.
 Both in the wet AMD and in the CRVO studies, there were no differences in efficacy or safety between patients with or without immunoreactivity.
-
-## 6.4 Postmarketing Experience
-
-The following adverse reaction has been identified during postapproval use of EYLEA: intraocular inflammation.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

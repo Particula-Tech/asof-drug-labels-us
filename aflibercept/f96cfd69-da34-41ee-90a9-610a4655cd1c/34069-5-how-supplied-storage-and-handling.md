@@ -5,7 +5,7 @@ EYLEA is supplied in the following presentation [see Dosage and Administration (
 
 | NDC NUMBER | CARTON TYPE | CARTON CONTENTS |
 | --- | --- | --- |
-| 61755-005-02 | Vial | one single-use, sterile, 3-mL, glass vial to deliver 0.05 mL of 40 mg/mL EYLEA one 19-gauge × 1½-inch, 5-micron, filter needle for withdrawal of the vial contents one 30-gauge × ½-inch injection needle for intravitreal injection one 1-mL syringe for administration one package insert |
+| 61755-005-02 | Vial | one single-use, sterile, 3-mL, glass vial designed to deliver 0.05 mL of 40 mg/mL EYLEA one 19-gauge × 1½-inch, 5-micron, filter needle for withdrawal of the vial contents one 30-gauge × ½-inch injection needle for intravitreal injection one 1-mL syringe for administration one package insert |
 
 Storage
 
