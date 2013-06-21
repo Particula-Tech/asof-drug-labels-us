@@ -4,7 +4,7 @@
 
 A randomized, double-blind, 16 week placebo-controlled study was conducted in 405 patients with pulmonary arterial hypertension, defined as a resting mean pulmonary artery pressure (mPAP) ≥25 mm Hg, pulmonary capillary wedge pressure (PCWP) ≤15 mm Hg, and pulmonary vascular resistance (PVR) ≥3 Wood units via right heart catheterization.
 Allowed background therapy included bosentan (maintenance dosing up to 125 mg twice daily) and chronic anticoagulation.
-The use of prostacyclin or analogue, L-arginine, phosphodiesterase inhibitor, or other chronic PAH medications were not permitted.
+The use of prostacyclin or analogue, L–arginine, phosphodiesterase inhibitor, or other chronic PAH medications were not permitted.
 
 Subjects were randomly assigned to 1 of 5 treatment groups (tadalafil 2.5, 10, 20, 40 mg, or placebo) in a 1:1:1:1:1 ratio.
 Subjects had to be at least 12 years of age and had a diagnosis of PAH that was idiopathic, heritable, related to connective tissue disease, anorexigen use, human immunodeficiency virus (HIV) infection, associated with an atrial-septal defect, or associated with surgical repair of a congenital systemic-to-pulmonary shunt of least 1 year in duration (for example, ventricular septal defect, patent ductus arteriosus).

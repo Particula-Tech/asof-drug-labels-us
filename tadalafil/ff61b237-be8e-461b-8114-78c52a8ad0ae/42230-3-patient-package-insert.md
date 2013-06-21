@@ -73,7 +73,7 @@ ADCIRCA and other medicines may affect each other.
 
 Especially tell your healthcare provider if you take any of these medicines:
 
-- nitrates (See “What is the most important information I should know about ADCIRCA?”)
+- nitrates (see “What is the most important information I should know about ADCIRCA?”)
 - anti-hypertensives, used to treat high blood pressure.
   Your blood pressure could suddenly drop.
   You could get dizzy or faint.
@@ -81,14 +81,14 @@ Especially tell your healthcare provider if you take any of these medicines:
   Your blood pressure could suddenly drop.
   You could get dizzy or faint.
 - protease inhibitors, used to treat HIV infection, such as ritonavir (Norvir®, Kaletra®)
-- ketoconazole (Extina®, Xolegal®, Ketozole®, Nizoral A-D®, Nizoral®) itraconazole (Sporanox®)
+- ketoconazole (Extina®, Xolegel®, Ketozole®, Nizoral A-D®, Nizoral®) itraconazole (Sporanox®)
 - erythromycin (several brand names exist.
   Please consult your healthcare provider to determine if you are taking this medicine)
 - rifampin (Rifadin®, Rifamate®, Rifater®, Rimactane®)
 - bosentan (Tracleer®)
 - phenobarbital, phenytoin (Dilantin®), carbamazepine (Tegretol®)
 - CIALIS or other medicines or treatments for erectile dysfunction (impotence).
-  ADCIRCA is also marketed as CIALIS for the treatment of male erectile dysfunction (impotence).
+- ADCIRCA is also marketed as CIALIS for the treatment of male erectile dysfunction (ED, impotence) and for the signs and symptoms of benign prostatic hyperplasia (BPH, enlarged prostate).
   Do not take both ADCIRCA and CIALIS.
   Do not take ADCIRCA and other medicines or treatments for erectile dysfunction.
 
@@ -177,13 +177,13 @@ ADCIRCA® (tadalafil) is a trademark of Eli Lilly and Company.
 *The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Literature revised March 13, 2012
+Literature revised June 10, 2013
 
 Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA
 
 Marketed by: Lung LLC, a wholly-owned subsidiary of United Therapeutics Corporation
 
-Copyright © 2009, 2012, Eli Lilly and Company.
+Copyright © 2009, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 6483 AMP
+PV 6484 AMP

@@ -3,7 +3,7 @@
 See FDA-Approved Patient Labeling
 
 - Inform patients of contraindication of ADCIRCA with any use of organic nitrates.
-- Inform patients that tadalafil is also marketed as CIALIS for erectile dysfunction.
+- Inform patients that tadalafil is also marketed as CIALIS for erectile dysfunction (ED) and for the signs and symptoms of benign prostatic hyperplasia (BPH).
   Advise patients taking ADCIRCA not to take CIALIS or other PDE5 inhibitors.
 - Advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes while taking ADCIRCA.
   Such an event may be a sign of NAION.
