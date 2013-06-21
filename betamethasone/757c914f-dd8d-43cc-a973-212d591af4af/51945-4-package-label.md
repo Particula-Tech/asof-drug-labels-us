@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - Carton Label 60g
+# PRINCIPAL DISPLAY PANEL - Carton Label 120g
 
-NDC 50222-501-06
+NDC 50222-501-66
 
 Taclonex®
 
@@ -13,4 +13,4 @@ Shake before use
 For Topical Use Only
 
 Net Wt.
-60g
+120g

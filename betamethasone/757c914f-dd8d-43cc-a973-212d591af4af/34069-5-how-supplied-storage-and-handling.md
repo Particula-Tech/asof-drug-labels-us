@@ -3,9 +3,11 @@
 ## 16.1 How Supplied
 
 Taclonex® Topical Suspension is a viscous, nearly odorless, almost clear, colorless to slightly off-white suspension.
-It is available in bottles of:
+It is available as:
 
-60 g (NDC 50222-501-06)
+60 g bottle (NDC 50222-501-06)
+
+120 g (2 x 60 g bottles) (NDC 50222-501-66)
 
 ## 16.2 Storage
 
