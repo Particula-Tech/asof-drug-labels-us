@@ -30,6 +30,7 @@ Table 3: Frequencya of Important Treatment Emergent Adverse Events in the Random
 | < 8 g/dL | 1 | <1 |
 | Infections | 24 | 20 |
 | Febrile Neutropenia | 2 | 1 |
+| Neutropenic Sepsis | <1 | <1 |
 | Bleeding | 2 | 2 |
 | Hypersensitivity Reactionc |  |  |
 | All | 4 | 12 |
