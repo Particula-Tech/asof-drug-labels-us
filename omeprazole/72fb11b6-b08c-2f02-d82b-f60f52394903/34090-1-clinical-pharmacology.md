@@ -131,6 +131,16 @@ Clarithromycin Tissue Concentrations 2 hours after Dose1
 
 1mean ± SD (mcg/g)
 
+Concomitant Use with Clopidogrel
+
+In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as clopidogrel) for 5 days.
+The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when clopidogrel and omeprazole were administered together.
+
+Results from another crossover study in healthy subjects showed a similar pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and omeprazole 80 mg daily when co-administered for 30 days.
+Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
+
+In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
+
 Special Populations
 
 Geriatric Population
@@ -234,35 +244,7 @@ Eleven of the patients who failed triple therapy also had post-treatment H. pylo
 
 Susceptibility Test for Helicobacter pylori
 
-The reference methodology for susceptibility testing of H. pylori is agar dilution MICs1.
-One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 to 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
-The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for campylobacters.
-After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
-The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria:
-
-Table 5
-
-| Clarithromycin MIC (mcg/mL)a | Interpretation |
-| --- | --- |
-| ≤ 0.25 | Susceptible (S) |
-| 0.5 | Intermediate (I) |
-| > 1.0 | Resistant (R) |
-| Amoxicillin MIC (mcg/mL)a,b | Interpretation |
-| ≤ 0.25 | Susceptible (S) |
-
-aThese are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.
-
-bThere were not enough organisms with MICs > 0.25 mcg/mL to determine a resistance breakpoint.
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard clarithromycin and amoxicillin powders should provide the following MIC values:
-
-| Microorganism | Antimicrobial Agent | MIC (mcg/mL)a |
-| --- | --- | --- |
-| H. pylori ATCC 43504 | Clarithromycin | 0.016 to 0.12 (mcg/mL) |
-| H. pylori ATCC 43504 | Amoxicillin | 0.016 to 0.12 (mcg/mL) |
-
-a These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods.
+For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
 
 Effects on Gastrointestinal Microbial Ecology
 

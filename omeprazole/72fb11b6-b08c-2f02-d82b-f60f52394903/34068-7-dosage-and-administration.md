@@ -68,8 +68,3 @@ The pellets should be mixed with the applesauce and then swallowed immediately w
 The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
 The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
-
-## 2.9 Use with clopidogrel
-
-Avoid concomitant use of clopidogrel and omeprazole.
-Coadministration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [see Warnings and Precautions (5.4) and Drug Interactions (7.3)].

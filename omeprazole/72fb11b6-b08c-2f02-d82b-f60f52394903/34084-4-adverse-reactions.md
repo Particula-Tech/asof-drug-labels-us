@@ -54,6 +54,8 @@ This finding is believed to be a manifestation of the underlying condition, whic
 
 Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
 
+Infections and Infestations: Clostridium difficile associated diarrhea
+
 Metabolism and Nutritional disorders: Hypoglycemia, hypomagnesemia, hyponatremia, weight gain
 
 Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture

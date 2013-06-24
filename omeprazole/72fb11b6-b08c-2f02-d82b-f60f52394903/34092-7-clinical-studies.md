@@ -60,7 +60,7 @@ For a given patient, H. pylori was considered eradicated if at least two of thes
 
 The combination of omeprazole plus clarithromycin plus amoxicillin was effective in eradicating H. pylori.
 
-Table 6
+Table 5
 
 Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval]
 
@@ -91,7 +91,7 @@ Studies 4 and 5 were conducted in the U.S. and Canada and enrolled 242 and 256 p
 H. pylori infection and duodenal ulcer were confirmed in 219 patients in Study 4 and 228 patients in Study 5.
 These studies compared the combination regimen to omeprazole and clarithromycin monotherapies.
 Studies 6 and 7 were conducted in Europe and enrolled 154 and 215 patients, respectively.
-H. pylori infection and duodenal ulcer were confirmed in 148 patients in study 6 and 208 patients in Study 7.
+H. pylori infection and duodenal ulcer were confirmed in 148 patients in Study 6 and 208 patients in Study 7.
 These studies compared the combination regimen with omeprazole monotherapy.
 The results for the efficacy analyses for these studies are described below.
 H. pylori eradication was defined as no positive test (culture or histology) at 4 weeks following the end of treatment, and two negative tests were required to be considered eradicated of H. pylori.
@@ -99,7 +99,7 @@ In the per-protocol analysis, the following patients were excluded: dropouts, pa
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori.
 
-Table 7
+Table 6
 
 H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks)
 
@@ -125,7 +125,7 @@ Ulcer healing was not significantly different when clarithromycin was added to o
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori and reduced duodenal ulcer recurrence.
 
-Table 8
+Table 7
 
 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence
 
@@ -268,7 +268,8 @@ In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance
 In open studies of 136 patients with pathological hypersecretory conditions, such as Zollinger-Ellison (ZE) syndrome with or without multiple endocrine adenomas, omeprazole delayed-release capsules significantly inhibited gastric acid secretion and controlled associated symptoms of diarrhea, anorexia, and pain.
 Doses ranging from 20 mg every other day to 360 mg per day maintained basal acid secretion below 10 mEq/hr in patients without prior gastric surgery, and below 5 mEq/hr in patients with prior gastric surgery.
 
-Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [See Dosage and Administration (2)] omeprazole was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
+Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [See Dosage and Administration (2)].
+Omeprazole was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
 In most ZE patients, serum gastrin levels were not modified by omeprazole.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.
 At least 11 patients with ZE syndrome on long-term treatment with omeprazole developed gastric carcinoids.
