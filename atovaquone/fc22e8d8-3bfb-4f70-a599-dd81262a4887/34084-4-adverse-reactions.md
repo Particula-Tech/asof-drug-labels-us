@@ -52,7 +52,7 @@ Adverse Experiences in Active-Controlled Clinical Trials of MALARONE for Prophyl
 | Any neuropsychiatric event | 20 | (14) | 37 | (29) | 16 | (10) | 20 | (10) |
 | Any GI event | 49 | (16) | 50 | (19) | 43 | (12) | 54 | (20) |
 
-- aAdverse experiences that started while receiving active study drug.
+- a Adverse experiences that started while receiving active study drug.
 - b Mean duration of dosing based on recommended dosing regimens.
 
 In a third active‑controlled study, MALARONE (n = 110) was compared with chloroquine/proguanil (n = 111) for the prophylaxis of malaria in 221 non-immune pediatric patients (2 to 17 years of age).
@@ -64,17 +64,17 @@ Two patients discontinued prophylaxis with chloroquine/proguanil due to adverse 
 Treatment of Acute, Uncomplicated P. falciparum Malaria: In 7 controlled trials, 436 adolescents and adults received MALARONE for treatment of acute, uncomplicated P. falciparum malaria.
 The range of mean ages of subjects was 26 to 29 years; 79% of subjects were male.
 In these studies, 48% of subjects were classified as other racial/ethnic groups, primarily Asian; 42% of subjects were black and the remaining subjects were white.
-Attributable adverse experiences that occurred in 5% of patients were abdominal pain (17%), nausea (12%), vomiting (12%), headache (10%), diarrhea (8%), asthenia (8%), anorexia (5%), and dizziness (5%).
+Attributable adverse experiences that occurred in ≥5% of patients were abdominal pain (17%), nausea (12%), vomiting (12%), headache (10%), diarrhea (8%), asthenia (8%), anorexia (5%), and dizziness (5%).
 Treatment was discontinued prematurely due to an adverse experience in 4 of 436 (0.9%) adolescents and adults treated with MALARONE.
 
 In 2 controlled trials, 116 pediatric patients (weighing 11 to 40 kg) (mean age 7 years) received MALARONE for the treatment of malaria.
 The majority of subjects were black (72%); 28% were of other racial/ethnic groups, primarily Asian.
-Attributable adverse experiences that occurred in 5% of patients were vomiting (10%) and pruritus (6%).
+Attributable adverse experiences that occurred in ≥5% of patients were vomiting (10%) and pruritus (6%).
 Vomiting occurred in 43 of 319 (13%) pediatric patients who did not have symptomatic malaria but were given treatment doses of MALARONE for 3 days in a clinical trial.
 The design of this clinical trial required that any patient who vomited be withdrawn from the trial.
 Among pediatric patients with symptomatic malaria treated with MALARONE, treatment was discontinued prematurely due to an adverse experience in 1 of 116 (0.9%).
 
-In a study of 100 pediatric patients (5 to <11 kg body weight) who received MALARONE for the treatment of uncomplicated P. falciparum malaria, only diarrhea (6%) occurred in 5% of patients as an adverse experience attributable to MALARONE.
+In a study of 100 pediatric patients (5 to <11 kg body weight) who received MALARONE for the treatment of uncomplicated P. falciparum malaria, only diarrhea (6%) occurred in ≥5% of patients as an adverse experience attributable to MALARONE.
 In 3 patients (3%), treatment was discontinued prematurely due to an adverse experience.
 
 Abnormalities in laboratory tests reported in clinical trials were limited to elevations of transaminases in malaria patients being treated with MALARONE.

@@ -47,13 +47,13 @@ Prevention of Parasitemiaa in Active-Controlled Clinical Trials of MALARONE for 
 
 - a Free of parasitemia during the period of prophylactic therapy.
 
-A third randomized, open‑label study was conducted which included 221 otherwise healthy pediatric patients (weighing 11 kg and 2 to 17 years of age) who were at risk of contracting malaria by traveling to an endemic area.
+A third randomized, open‑label study was conducted which included 221 otherwise healthy pediatric patients (weighing ≥11 kg and 2 to 17 years of age) who were at risk of contracting malaria by traveling to an endemic area.
 The mean duration of travel was 15 days (range 1 to 30 days).
 Prophylaxis with MALARONE (n = 110, dosage based on body weight) began 1 or 2 days before entering the endemic area and lasted until 7 days after leaving the area.
 A control group (n = 111) received prophylaxis with chloroquine/proguanil dosed according to WHO guidelines.
 No cases of malaria occurred in either group of children.
 However, the study was not large enough to allow for statements of comparative efficacy.
-In addition, the true exposure rate to P.falciparum malaria in this study is unknown.
+In addition, the true exposure rate to P. falciparum malaria in this study is unknown.
 
 Causal Prophylaxis: In separate trials with small numbers of volunteers, atovaquone and proguanil hydrochloride were independently shown to have causal prophylactic activity directed against liver‑stage parasites of P. falciparum.
 Six patients given a single dose of atovaquone 250 mg 24 hours prior to malaria challenge were protected from developing malaria, whereas all 4 placebo‑treated patients developed malaria.
@@ -70,8 +70,8 @@ Hence, returning travelers developing febrile illnesses should be investigated f
 In 3 phase II clinical trials, atovaquone alone, proguanil hydrochloride alone, and the combination of atovaquone and proguanil hydrochloride were evaluated for the treatment of acute, uncomplicated malaria caused by P. falciparum.
 Among 156 evaluable patients, the parasitological cure rate (elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days) was 59/89 (66%) with atovaquone alone, 1/17 (6%) with proguanil hydrochloride alone, and 50/50 (100%) with the combination of atovaquone and proguanil hydrochloride.
 
-MALARONE was evaluated for treatment of acute, uncomplicated malaria caused by P. falciparum in 8 phase III randomized, open-label, controlled clinical trials (N = 1,030 enrolled in both treatment goups).
-The mean age of subjects was 27 years and 16% were children 12 years of age; 74% of subjects were male.
+MALARONE was evaluated for treatment of acute, uncomplicated malaria caused by P. falciparum in 8 phase III randomized, open-label, controlled clinical trials (N = 1,030 enrolled in both treatment groups).
+The mean age of subjects was 27 years and 16% were children ≤12 years of age; 74% of subjects were male.
 Evaluable patients included those whose outcome at 28 days was known.
 Among 471 evaluable patients treated with the equivalent of 4 MALARONE Tablets once daily for 3 days, 464 had a sensitive response (elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days) (Table 8).
 Seven patients had a response of RI resistance (elimination of parasitemia but with recurrent parasitemia between 7 and 28 days after starting treatment).
@@ -92,20 +92,20 @@ Parasitological Response in 8 Clinical Trials of MALARONE for Treatment of P. fa
 | Philippines | 54 | 100.0% | Chloroquine (Cq)Cq and P/S | 2332 | 30.4%87.5% |
 | Peru | 19 | 100.0% | ChloroquineP/S | 137 | 7.7%100.0% |
 
-- a MALARONE = 1,000 mg atovaquone and 400 mg proguanil hydrochloride (or equivalent based on body weight for patients weighing 40 kg) once daily for 3 days.
-- bElimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days.
-- cPatients hospitalized only for acute care.
+- a MALARONE = 1,000 mg atovaquone and 400 mg proguanil hydrochloride (or equivalent based on body weight for patients weighing ≤ 40 kg) once daily for 3 days.
+- b Elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days.
+- c Patients hospitalized only for acute care.
   Follow‑up conducted in outpatients.
 - d Study in pediatric patients 3 to 12 years of age.
 
-When these 8 trials were pooled and 2 additional trials evaulating MALARONE alone (without a comparator arm) were added to the analysis, the overall efficacy (elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days) in 521 evaluable patients was 98.7%.
+When these 8 trials were pooled and 2 additional trials evaluating MALARONE alone (without a comparator arm) were added to the analysis, the overall efficacy (elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days) in 521 evaluable patients was 98.7%.
 
 The efficacy of MALARONE in the treatment of the erythrocytic phase of nonfalciparum malaria was assessed in a small number of patients.
 Of the 23 patients in Thailand infected with P. vivax and treated with atovaquone/proguanil hydrochloride 1,000 mg/400 mg daily for 3 days, parasitemia cleared in 21 (91.3%) at 7 days.
 Parasite relapse occurred commonly when P. vivax malaria was treated with MALARONE alone.
 Relapsing malarias including P. vivax and P. ovale require additional treatment to prevent relapse.
 
-The efficacy of MALARONE in treating acute uncomplicated P. falciparum malaria in children weighing 5 and <11 kg was examined in an open‑label, randomized trial conducted in Gabon.
+The efficacy of MALARONE in treating acute uncomplicated P. falciparum malaria in children weighing ≥5 and <11 kg was examined in an open‑label, randomized trial conducted in Gabon.
 Patients received either MALARONE (2 or 3 MALARONE Pediatric Tablets once daily depending upon body weight) for 3 days (n = 100) or amodiaquine (10 mg/kg/day) for 3 days (n = 100).
 In this study, the MALARONE Tablets were crushed and mixed with condensed milk just prior to administration.
 An adequate clinical response (elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days) was obtained in 95% (87/92) of the evaluable pediatric patients who received MALARONE and in 53% (41/78) of those evaluable who received amodiaquine.

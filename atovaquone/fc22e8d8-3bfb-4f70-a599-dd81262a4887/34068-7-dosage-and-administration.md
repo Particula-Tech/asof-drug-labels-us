@@ -43,7 +43,7 @@ Dosage for Treatment of Acute Malaria in Pediatric Patients
 
 ## 2.3 Renal Impairment
 
-Do not use MALARONE for malaria prophylaxis in patients with severe renal impairment (creatinine clearance <30 mL/min) [See Contraindications (4.2)].
+Do not use MALARONE for malaria prophylaxis in patients with severe renal impairment (creatinine clearance <30 mL/min) [see Contraindications (4.2)].
 Use with caution for the treatment of malaria in patients with severe renal impairment, only if the benefits of the 3-day treatment regimen outweigh the potential risks associated with increased drug exposure.
 No dosage adjustments are needed in patients with mild (creatinine clearance 50 to 80 mL/min) or moderate (creatinine clearance 30 to 50 mL/min) renal impairment.
 [See Clinical Pharmacology (12.3).]

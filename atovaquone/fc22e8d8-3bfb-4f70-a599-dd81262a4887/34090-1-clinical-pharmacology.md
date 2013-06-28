@@ -24,7 +24,7 @@ Distribution: Atovaquone is highly protein bound (>99%) over the concentration r
 A population pharmacokinetic analysis demonstrated that the apparent volume of distribution of atovaquone (V/F) in adult and pediatric patients after oral administration is approximately 8.8 L/kg.
 
 Proguanil is 75% protein bound.
-A population pharmacokinetic analysis demonstrated that the apparent V/F of proguanil in adult and pediatric patients >15 years of age with body weights from 31 to 110 kg ranged from 1,617 to 2,502 L. In pediatric patients 15 years of age with body weights from 11 to 56 kg, the V/F of proguanil ranged from 462 to 966 L.
+A population pharmacokinetic analysis demonstrated that the apparent V/F of proguanil in adult and pediatric patients >15 years of age with body weights from 31 to 110 kg ranged from 1,617 to 2,502 L. In pediatric patients ≤15 years of age with body weights from 11 to 56 kg, the V/F of proguanil ranged from 462 to 966 L.
 
 In human plasma, the binding of atovaquone and proguanil was unaffected by the presence of the other.
 
@@ -40,7 +40,7 @@ Elimination: The elimination half‑life of atovaquone is about 2 to 3 days in a
 The elimination half‑life of proguanil is 12 to 21 hours in both adult patients and pediatric patients, but may be longer in individuals who are slow metabolizers.
 
 A population pharmacokinetic analysis in adult and pediatric patients showed that the apparent clearance (CL/F) of both atovaquone and proguanil are related to the body weight.
-The values CL/F for both atovaquone and proguanil in subjects with body weight 11 kg are shown in Table 4.
+The values CL/F for both atovaquone and proguanil in subjects with body weight ≥11 kg are shown in Table 4.
 
 Table 4.
 Apparent Clearance for Atovaquone and Proguanil in Patients as a Function of Body Weight
@@ -72,7 +72,7 @@ In patients with severe renal impairment (creatinine clearance <30 mL/min), atov
 
 Hepatic Impairment: In a single‑dose study, the pharmacokinetics of atovaquone, proguanil, and cycloguanil were compared in 13 subjects with hepatic impairment (9 mild, 4 moderate, as indicated by the Child‑Pugh method) to 13 subjects with normal hepatic function.
 In subjects with mild or moderate hepatic impairment as compared to healthy subjects, there were no marked differences (<50%) in the rate or extent of systemic exposure of atovaquone.
-However, in subjects with moderatehepatic impairment, the elimination half‑life of atovaquone was increased (point estimate = 1.28, 90% CI = 1.00 to 1.63).
+However, in subjects with moderate hepatic impairment, the elimination half‑life of atovaquone was increased (point estimate = 1.28, 90% CI = 1.00 to 1.63).
 Proguanil AUC, Cmax, and its elimination half-life increased in subjects with mild hepatic impairment when compared to healthy subjects (Table 5).
 Also, the proguanil AUC and its elimination half-life increased in subjects with moderate hepatic impairment when compared to healthy subjects.
 Consistent with the increase in proguanil AUC, there were marked decreases in the systemic exposure of cycloguanil (Cmax and AUC) and an increase in its elimination half‑life in subjects with mild hepatic impairment when compared to healthy volunteers (Table 5).
@@ -94,7 +94,7 @@ Point Estimates (90% CI) for Proguanil and Cycloguanil Parameters in Subjects Wi
 ND = not determined due to lack of quantifiable data.
 
 - a Ratio of geometric means.
-- bMean difference.
+- b Mean difference.
 
 Drug Interactions: There are no pharmacokinetic interactions between atovaquone and proguanil at the recommended dose.
 
@@ -103,19 +103,19 @@ Atovaquone is highly protein bound (>99%) but does not displace other highly pro
 Proguanil is metabolized primarily by CYP2C19.
 Potential pharmacokinetic interactions between proguanil or cycloguanil and other drugs that are CYP2C19 substrates or inhibitors are unknown.
 
-Rifampin/Rifabutin: Concomitant administration of rifampin orrifabutin is known to reduce atovaquone concentrations by approximately 50% and 34%, respectively.
+Rifampin/Rifabutin: Concomitant administration of rifampin or rifabutin is known to reduce atovaquone concentrations by approximately 50% and 34%, respectively.
 The mechanisms of these interactions are unknown.
 
-Tetracyline: Concomitant treatment with tetracycline has been associated with approximately a 40% reduction in plasma concentrations of atovaquone.
+Tetracycline: Concomitant treatment with tetracycline has been associated with approximately a 40% reduction in plasma concentrations of atovaquone.
 
 Metoclopramide: Concomitant treatment with metoclopramide has been associated with decreased bioavailability of atovaquone.
 
-Indinavir: Concomitant administration of atovaquone (750 mg BID with food for 14 days) and indinavir (800 mg TID without food for 14 days) did not result in any change in the steady‑state AUC and Cmax of indinavir but resulted in a decrease in the Ctrough of indinavir (23% decrease [90% CI = 8%, 35%]).
+Indinavir: Concomitant administration of atovaquone (750 mg twice daily with food for 14 days) and indinavir (800 mg three times daily without food for 14 days) did not result in any change in the steady‑state AUC and Cmax of indinavir but resulted in a decrease in the Ctrough of indinavir (23% decrease [90% CI = 8%, 35%]).
 
 ## 12.4 Microbiology
 
 Activity In Vitro and In Vivo: Atovaquone and cycloguanil (an active metabolite of proguanil) are active against the erythrocytic and exoerythrocytic stages of Plasmodium spp.
-Enhanced efficacy of the combination compared to either atovaquone or proguanil hydrochloride alone was demonstrated in clinical trials in both immune and non-immune patients [See Clinical Studies (14.1, 14.2)].
+Enhanced efficacy of the combination compared to either atovaquone or proguanil hydrochloride alone was demonstrated in clinical trials in both immune and non-immune patients [see Clinical Studies (14.1, 14.2)].
 
 Drug Resistance: Strains of P. falciparum with decreased susceptibility to atovaquone or proguanil/cycloguanil alone can be selected in vitro or in vivo.
 The combination of atovaquone and proguanil hydrochloride may not be effective for treatment of recrudescent malaria that develops after prior therapy with the combination.

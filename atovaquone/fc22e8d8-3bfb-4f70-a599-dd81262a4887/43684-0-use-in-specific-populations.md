@@ -40,10 +40,10 @@ Caution should be exercised when MALARONE is administered to a nursing woman.
 ## 8.4 Pediatric Use
 
 Prophylaxis of Malaria: Safety and effectiveness have not been established in pediatric patients who weigh less than 11 kg.
-The efficacy and safety of MALARONE have been established for the prophylaxis of malaria in controlled trials involving pediatric patients weighing 11 kg or more [see Clinical Studies (14.2)].
+The efficacy and safety of MALARONE have been established for the prophylaxis of malaria in controlled trials involving pediatric patients weighing 11 kg or more [see Clinical Studies (14.1)].
 
 Treatment of Malaria: Safety and effectiveness have not been established in pediatric patients who weigh less than 5 kg.
-The efficacy and safety of MALARONE for the treatment of malaria have been established in controlled trials involving pediatric patients weighing 5 kg or more [see Clinical Studies (14.1)].
+The efficacy and safety of MALARONE for the treatment of malaria have been established in controlled trials involving pediatric patients weighing 5 kg or more [see Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 
