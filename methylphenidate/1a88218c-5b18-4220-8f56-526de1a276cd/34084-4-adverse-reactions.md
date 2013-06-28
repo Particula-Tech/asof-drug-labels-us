@@ -11,10 +11,10 @@ The following are discussed in more detail in other sections of the labeling:
 - Serious Cardiovascular Events [see Warnings and Precautions (5.1)]
 - Psychiatric Adverse Events [see Warnings and Precautions (5.2)]
 - Seizures [see Warnings and Precautions (5.3)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.4)]
-- Visual Disturbance [see Warnings and Precautions (5.5)]
-- Potential for Gastrointestinal Obstruction [see Warnings and Precautions (5.6)]
-- Hematologic Monitoring [see Warnings and Precautions (5.7)]
+- Long-Term Suppression of Growth [see Warnings and Precautions (5.5)]
+- Visual Disturbance [see Warnings and Precautions (5.6)]
+- Potential for Gastrointestinal Obstruction [see Warnings and Precautions (5.7)]
+- Hematologic Monitoring [see Warnings and Precautions (5.8)]
 
 The most common adverse reaction in double-blind clinical trials (>5%) in pediatric patients (children and adolescents) was abdominal pain upper.
 The most common adverse reactions in double-blind clinical trials (>5%) in adult patients were decreased appetite, headache, dry mouth, nausea, insomnia, anxiety, dizziness, weight decreased, irritability, and hyperhidrosis [see Adverse Reactions (6.1)].
@@ -220,7 +220,7 @@ Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Musc
 
 Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia
 
-Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Mania
+Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Mania, Logorrhea
 
 Skin and Subcutaneous Tissue Disorders: Alopecia, Erythema
 

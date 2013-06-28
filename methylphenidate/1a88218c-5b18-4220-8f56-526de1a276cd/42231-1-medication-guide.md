@@ -2,7 +2,17 @@ MEDICATION GUIDE CONCERTA® (kon SER-ta) (methylphenidate HCl) Extended-release 
 
 Read the Medication Guide that comes with CONCERTA® before you or your child starts taking it and each time you get a refill.
 There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your or yours child's treatment with CONCERTA®.
+This Medication Guide does not take the place of talking to your doctor about your or your child's treatment with CONCERTA®.
+
+3.
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]:
+
+- fingers or toes may feel numb, cool, painful
+- fingers or toes may change color from pale, to blue, to red
+
+Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
+
+Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking CONCERTA®.
 
 What Is CONCERTA®?
 
@@ -33,6 +43,7 @@ Before starting CONCERTA®, tell your or your child's doctor about all health co
 - mental problems including psychosis, mania, bipolar illness, or depression
 - tics or Tourette's syndrome
 - seizures or have had an abnormal brain wave test (EEG)
+- circulation problems in fingers and toes
 - esophagus, stomach, or small or large intestine problems
 
 Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
@@ -87,6 +98,9 @@ Other serious side effects include:
 
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
+- Circulation problems in fingers and toes: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red
+  - ➣Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
+  - ➣Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking CONCERTA®.
 - eyesight changes or blurred vision
 - blockage of the esophagus, stomach, small or large intestine in patients who already have a narrowing in any of these organs
 
@@ -145,4 +159,4 @@ Vacaville, CA 95688
 
 Manufactured for: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
 
-Revised: May 2013
+Revised: June 2013
