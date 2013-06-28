@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202182"
+  ],
+  "inn": "zoledronic-acid",
+  "labeler": "West-Ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9642-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "zoledronic acid",
+      "name": "Zoledronic Acid"
+    }
+  ],
+  "setid": "784d33fa-0046-42eb-894b-3fc47dcfd4dc",
+  "source": "dailymed"
+}
