@@ -10,8 +10,12 @@ Patients should be advised:
 - to inform their physician of all medications, including prescription and nonprescription drugs, supplements, and herbal preparations they are taking and any change to their medical condition.
   Patients should also be advised to inform their physicians prescribing a new medication that they are taking Zemplar Capsules.
 
-© Abbott
+© AbbVie Inc.
 
-Abbott Laboratories
+Manufactured for
+
+AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
+
+03-A689 January, 2013
