@@ -23,10 +23,10 @@ Amoxicillin may affect the gut flora, leading to lower estrogen reabsorption and
 ## 7.5 Other Antibacterials
 
 Chloramphenicol, macrolides, sulfonamides, and tetracyclines may interfere with the bactericidal effects of penicillin.
-This has been demonstrated in vitro ; however, the clinical significance of this interaction is not well documented.
+This has been demonstrated in vitro; however, the clinical significance of this interaction is not well documented.
 
-## 7.6 Effects on Laboratory Tests
+## 7.6 Drugs/Laboratory Interactions
 
-High urine concentrations of ampicillin may result in false-positive reactions when testing for the presence of glucose in urine using CLINITEST ® , Benedict’s Solution, or Fehling’s Solution.
-Since this effect may also occur with amoxicillin, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as CLINISTIX ® ) be used.
+High urine concentrations of ampicillin may result in false-positive reactions when testing for the presence of glucose in urine using CLINITEST®, Benedict’s Solution, or Fehling’s Solution.
+Since this effect may also occur with amoxicillin, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as CLINISTIX®) be used.
 Following administration of ampicillin or amoxicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone, and estradiol has been noted.

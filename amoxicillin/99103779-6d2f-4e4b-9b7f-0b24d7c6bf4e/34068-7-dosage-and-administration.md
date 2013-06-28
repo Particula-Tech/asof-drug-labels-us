@@ -15,7 +15,7 @@ Dosing Recommendations for Adult and Pediatric Patients > 3 Months of Age
 | Ear/Nose/Throat Skin/Skin Structure Genitourinary Tract | Mild/Moderate | 500 mg every 12 hours or 250 mg every 8 hours | 25 mg/kg/day in divided doses every 12 hours or 20 mg/kg/day in divided doses every 8 hours |
 | Severe | 875 mg every 12 hours or 500 mg every 8 hours | 45 mg/kg/day in divided doses every 12 hours or 40 mg/kg/day in divided doses every 8 hours |  |
 | Lower Respiratory Tract | Mild/Moderate or Severe | 875 mg every 12 hours or 500 mg every 8 hours | 45 mg/kg/day in divided doses every 12 hours or 40 mg/kg/day in divided doses every 8 hours |
-| Gonorrhea Acute, uncomplicated ano-genital and urethral infections in males and females |  | 3 grams as single oral dose | Prepubertal children: 50 mg/kg amoxicillin tablets, combined with 25 mg/kg probenecid as a single dose. Note: Since probenecid is contraindicated in children under 2 years, do not use this regimen in children under 2 years of age. |
+| Gonorrhea Acute, uncomplicated ano-genital and urethral infections in males and females |  | 3 grams as single oral dose | Prepubertal children: 50 mg/kg amoxicillin, combined with 25 mg/kg probenecid as a single dose. Note: Since probenecid is contraindicated in children under 2 years, do not use this regimen in children under 2 years of age. |
 | a Dosing for infections caused by bacteria that are intermediate in their susceptibility to amoxicillin should follow the recommendations for severe infections. b The children’s dosage is intended for individuals whose weight is less than 40 kg. Children weighing 40 kg or more should be dosed according to the adult recommendations. |  |  |  |
 
 ## 2.2 Dosing in Neonates and Infants Aged ≤ 12 Weeks (≤ 3 Months)

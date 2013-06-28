@@ -2,14 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-Amoxicillin is an antibacterial drug [see Clinical Pharmacology (12.4)].
+Amoxicillin is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
 Absorption: Amoxicillin is stable in the presence of gastric acid and is rapidly absorbed after oral administration.
 The effect of food on the absorption of amoxicillin from the tablets and suspension of amoxicillin has been partially investigated; 400 mg and 875 mg formulations have been studied only when administered at the start of a light meal.
 Orally administered doses of 250 mg and 500 mg amoxicillin capsules result in average peak blood levels 1 to 2 hours after administration in the range of 3.5 mcg/mL to 5 mcg/mL and 5.5 mcg/mL to 7.5 mcg/mL, respectively.
-Mean amoxicillin pharmacokinetic parameters from an open, two-part, single-dose crossover bioequivalence study in 27 adults comparing 875 mg of amoxicillin with 875 mg of amoxicillin and clavulanate potassium showed that the 875 mg tablet of amoxicillin produces an AUC 0-∞ of 35.4 ± 8.1 mcg●hr/mL and a C max of 13.8 ± 4.1 mcg/mL.
+Mean amoxicillin pharmacokinetic parameters from an open, two-part, single-dose crossover bioequivalence study in 27 adults comparing 875 mg of amoxicillin with 875 mg of amoxicillin and clavulanate potassium showed that the 875 mg tablet of amoxicillin produces an AUC0-∞ of 35.4 ± 8.1 mcg●hr/mL and a Cmax of 13.8 ± 4.1 mcg/mL.
 Dosing was at the start of a light meal following an overnight fast.
 Orally administered doses of amoxicillin suspension, 125 mg/5 mL and 250 mg/5 mL, result in average peak blood levels 1 to 2 hours after administration in the range of 1.5 mcg/mL to 3 mcg/mL and 3.5 mcg/mL to 5 mcg/mL, respectively.
 Oral administration of single doses of 400 mg chewable tablets and 400 mg/5 mL suspension of amoxicillin to 24 adult volunteers yielded comparable pharmacokinetic data:
@@ -30,7 +30,7 @@ Following a 1 gram dose and utilizing a special skin window technique to determi
 Metabolism and Excretion: The half-life of amoxicillin is 61.3 minutes.
 Approximately 60% of an orally administered dose of amoxicillin is excreted in the urine within 6 to 8 hours.
 Detectable serum levels are observed up to 8 hours after an orally administered dose of amoxicillin.
-Since most of the amoxicillin is excreted unchanged in the urine, its excretion can be delayed by concurrent administration of probenecid [see Drug Interactions (7.1)] .
+Since most of the amoxicillin is excreted unchanged in the urine, its excretion can be delayed by concurrent administration of probenecid [see Drug Interactions (7.1)].
 
 ## 12.4 Microbiology
 
@@ -48,10 +48,10 @@ These reports should aid the physician in selecting an antimicrobial drug produc
 Dilution Techniques: Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on dilution methods (broth or agar) 2,3 or equivalent with standardized inoculum concentrations and standardized concentrations of ampicillin powder.
+Standardized procedures are based on dilution methods (broth or agar)2,3 or equivalent with standardized inoculum concentrations and standardized concentrations of ampicillin powder.
 The MIC values should be interpreted according to the criteria in Table 4.
 Diffusion Techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure 3 requires the use of standardized inoculum concentrations.
+One such standardized procedure3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 10 mcg ampicillin to test the susceptibility of bacteria to ampicillin.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for amoxicillin.
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10 mcg ampicillin disk should be interpreted according to the criteria listed in Table 4.
@@ -77,8 +77,7 @@ A report of “Intermediate” indicates that result should be considered equivo
 The intermediate category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 The intermediate category also provides a buffer zone, which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of “Resistant” indicates the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches concentrations that are usually achievable and other therapy(ies) are likely to be preferred.
-Quality Control Susceptibility techniques require use of laboratory control microorganisms to control the technical aspects of the laboratory standardized procedures.
-2,3,4 Standard ampicillin powder should provide the MIC values described below.
+Quality Control Susceptibility techniques require use of laboratory control microorganisms to control the technical aspects of the laboratory standardized procedures.2,3,4 Standard ampicillin powder should provide the MIC values described below.
 For the diffusion technique using the 10 mcg ampicillin disk, the criteria are provided in Table 5.
 
 Table 5.

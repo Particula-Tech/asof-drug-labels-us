@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects : Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area).
+Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area).
 There was no evidence of harm to the fetus due to amoxicillin.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, amoxicillin should be used during pregnancy only if clearly needed.
@@ -34,4 +34,4 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Dosing in Renal Impairment
 
 Amoxicillin is primarily eliminated by the kidney and dosage adjustment is usually required in patients with severe renal impairment (GFR <30 mL/min).
-See Dosage and Administration (2.4) for specific recommendations in patients with renal impairment.
+See Dosing in Renal Impariment(2.4) for specific recommendations in patients with renal impairment.
