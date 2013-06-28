@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020985"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-5200-30"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil",
+      "name": "Carac"
+    }
+  ],
+  "setid": "6795f2b1-1381-4a4f-ad34-2c28ebd1cfaf",
+  "source": "dailymed"
+}
