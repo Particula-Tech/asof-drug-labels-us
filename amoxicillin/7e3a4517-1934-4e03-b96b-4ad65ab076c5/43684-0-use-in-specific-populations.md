@@ -34,4 +34,4 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Dosing in Renal Impairment
 
 Amoxicillin is primarily eliminated by the kidney and dosage adjustment is usually required in patients with severe renal impairment (GFR <30 mL/min).
-See Dosage and Administration (2.4) for specific recommendations in patients with renal impairment.
+See Dosing in Renal Impairment (2.4) for specific recommendations in patients with renal impairment.

@@ -1,6 +1,8 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 250 mg (20 Capsule Bottle)
 
-NDC 65862-016-20 Amoxicillin Capsules, USP 250 mg Rx only 20 Capsules AUROBINDO
+NDC 65862-016-20 Amoxicillin Capsules, USP 250 mg Rx only 20 Capsules
+
+AUROBINDO
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 500 mg (20 Capsule Bottle)
 

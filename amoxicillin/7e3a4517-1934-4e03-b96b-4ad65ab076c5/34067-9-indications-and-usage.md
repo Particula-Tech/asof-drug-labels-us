@@ -7,35 +7,35 @@ Amoxicillin capsules, USP are indicated in the treatment of infections due to su
 
 ## 1.1 Infections of the Ear, Nose, and Throat
 
-Due to Streptococcus species (α- and β-hemolytic isolates only), Streptococcus pneumoniae , Staphylococcus spp., or Haemophilus influenzae .
+Due to Streptococcus species (α- and β-hemolytic isolates only), Streptococcus pneumoniae, Staphylococcus spp., or Haemophilus influenzae.
 
 ## 1.2 Infections of the Genitourinary Tract
 
-Due to Escherichia coli, Proteus mirabilis , or Enterococcus faecalis .
+Due to Escherichia coli, Proteus mirabilis, or Enterococcus faecalis.
 
 ## 1.3 Infections of the Skin and Skin Structure
 
 Due to Streptococcus spp.
-(α- and β-hemolytic isolates only), Staphylococcus spp., or E. coli .
+(α- and β-hemolytic isolates only), Staphylococcus spp., or E. coli.
 
 ## 1.4 Infections of the Lower Respiratory Tract
 
 Due to Streptococcus spp.
-(α- and β-hemolytic isolates only), S. pneumoniae, Staphylococcus spp., or H. influenzae .
+(α- and β-hemolytic isolates only), S. pneumoniae, Staphylococcus spp., or H. influenzae.
 
-## 1.5 Gonorrhea, Acute Uncomplicated (ano-genital and urethral infections in males and females)
+## 1.5 Gonorrhea, Acute Uncomplicated (ano-genital and urethral infections)
 
-Due to Neisseria gonorrhoeae .
+Due to Neisseria gonorrhoeae.
 Because of high rates of amoxicillin resistance, amoxicillin capsules, USP are not recommended for empiric treatment of gonorrhea.
 Amoxicillin capsules, USP use should be limited to situations where N. gonorrhoeae isolates are known to be susceptible to amoxicillin.
 
 ## 1.6 Triple Therapy for Helicobacter pylori with Clarithromycin and Lansoprazole
 
-Amoxicillin capsules, USP, in combination with clarithromycin plus lansoprazole as triple therapy, are indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) to eradicate H. pylori .
+Amoxicillin capsules, USP, in combination with clarithromycin plus lansoprazole as triple therapy, are indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) to eradicate H. pylori.
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
 
 ## 1.7 Dual Therapy for H. pylori with Lansoprazole
 
-Amoxicillin capsules, USP, in combination with lansoprazole delayed-release capsules as dual therapy, are indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected .
+Amoxicillin capsules, USP, in combination with lansoprazole delayed-release capsules as dual therapy, are indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected.
 (See the clarithromycin package insert, MICROBIOLOGY.)
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
