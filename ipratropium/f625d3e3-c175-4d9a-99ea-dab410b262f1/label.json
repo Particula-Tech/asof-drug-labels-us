@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA075693"
+  ],
+  "inn": "ipratropium",
+  "labeler": "Mylan Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0378-7970-31",
+    "0378-7970-52",
+    "0378-7970-55",
+    "0378-7970-62",
+    "0378-7970-64",
+    "0378-7970-91",
+    "0378-7970-93"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ipratropium bromide",
+      "name": "Ipratropium Bromide"
+    }
+  ],
+  "setid": "f625d3e3-c175-4d9a-99ea-dab410b262f1",
+  "source": "dailymed"
+}
