@@ -1,4 +1,4 @@
-# 11 Description
+# 11 DESCRIPTION
 
 URSO 250 (ursodiol, 250 mg) is available as a film-coated tablet for oral administration.
 URSO Forte (ursodiol, 500 mg) is available as a scored film-coated tablet for oral administration.

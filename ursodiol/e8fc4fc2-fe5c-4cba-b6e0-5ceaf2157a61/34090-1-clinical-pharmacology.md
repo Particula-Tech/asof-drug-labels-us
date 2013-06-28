@@ -1,4 +1,4 @@
-# 12 Clinical Pharmacology
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 

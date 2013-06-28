@@ -1,4 +1,4 @@
-# 10 Overdosage
+# 10 OVERDOSAGE
 
 There have been no reports of accidental or intentional overdosage with ursodiol.
 Single oral doses of ursodiol at 10 g/kg in mice and dogs, and 5 g/kg in rats were not lethal.

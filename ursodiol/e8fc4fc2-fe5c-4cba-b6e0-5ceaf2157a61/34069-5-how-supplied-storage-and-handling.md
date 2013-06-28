@@ -1,4 +1,4 @@
-# 16 How Supplied/Storage and Handling
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 URSO 250
 

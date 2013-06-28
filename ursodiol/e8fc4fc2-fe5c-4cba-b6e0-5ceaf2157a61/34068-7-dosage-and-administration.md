@@ -1,11 +1,15 @@
-# 2 Dosage and Administration
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 General Dosing Information
 
 The recommended adult dosage for URSO 250® and URSO Forte® in the treatment of PBC is 13-15 mg/kg/day administered in two to four divided doses with food.
 Dosing regimen should be adjusted according to each patient’s need at the discretion of the physician.
 
-## 2.2 Scoring the URSO Forte Tablet
+## 2.2 Liver Function Tests
+
+Liver function tests (γ-GT, alkaline phosphatase, AST, ALT) and bilirubin levels should be monitored every month for three months after start of therapy, and every six months thereafter [see Warnings and Precautions (5.1)].
+
+## 2.3 Scoring the URSO Forte Tablet
 
 The URSO Forte scored tablet can be broken in halves to provide recommended dosage.
 
