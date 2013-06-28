@@ -46,7 +46,7 @@ Inform patients not to take an extra dose of Victoza to make up for a missed dos
 If a dose is missed, the once-daily regimen should be resumed as prescribed with the next scheduled dose.
 
 If more than 3 days have elapsed since the last dose, the patient should be advised to reinitiate Victoza at 0.6 mg to mitigate any gastrointestinal symptoms associated with reinitiation of treatment.
-Victoza should be titrated at the discretion of the prescribing physician [see Dosage and Administration (2)]
+Victoza should be titrated at the discretion of the prescribing physician [see Dosage and Administration (2)].
 
 ## 17.8 Laboratory Tests
 

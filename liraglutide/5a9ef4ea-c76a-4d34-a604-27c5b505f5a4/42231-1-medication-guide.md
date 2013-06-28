@@ -358,7 +358,11 @@ Step B. Attach the Needle
 
 Step C. Dial to the Flow Check Symbol
 
-- •Turn dose selector until flow check symbol (--) lines up with pointer.
+This step is done only ONCE for each new pen and is ONLY required the first time you use a new pen.
+
+- •Turn dose selector until flow check symbol (- --) lines up with pointer.
+  The flow check symbol does not administer the dose as prescribed by your healthcare provider.
+- •To select the dose prescribed by your healthcare provider, continue to Step G under “Routine Use”.
 
 Step D. Prepare the Pen
 
@@ -416,11 +420,15 @@ Step H. Injecting the Dose
 - •Insert needle into your skin in the stomach, thigh or upper arm.
   Use the injection technique shown to you by your healthcare provider.
   Do not inject Victoza into a vein or muscle.
+
 - •Press down on the center of the dose button to inject until 0 mg lines up with the pointer.
 - •Be careful not to touch the dose display with your other fingers.
   This may block the injection.
 - •Keep the dose button pressed down and make sure that you keep the needle under the skin for a full count of 6 seconds to make sure the full dose is injected.
   Keep your thumb on the injection button until you remove the needle from your skin.
+
+- •Change (rotate) your injection sites within the area you choose for each dose.
+  Do not use the same injection site for each injection.
 
 Step I. Withdraw Needle
 
