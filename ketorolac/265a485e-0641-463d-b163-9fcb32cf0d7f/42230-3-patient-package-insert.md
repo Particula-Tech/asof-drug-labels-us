@@ -1,4 +1,4 @@
-Patient Instructions
+# Patient Instructions
 
 Guide to Proper Use of SPRIX® (ketorolac tromethamine) Nasal Spray
 
@@ -99,5 +99,7 @@ Distributed by:
 
 American Regent, Inc. Shirley, NY 11967
 
+MG 8880
+
 Rev.
-1/11
+10/11

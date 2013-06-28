@@ -1,4 +1,4 @@
-Principal Display Panel – Bottle Label
+# Principal Display Panel – Bottle Label
 
 SPRIX®
 
@@ -10,7 +10,7 @@ Nasal Spray
 
 Rx Only
 
-Principal Display Panel – 5 Day Carton Label
+# Principal Display Panel – 5 Day Carton Label
 
 NDC 0517-8880-05
 
