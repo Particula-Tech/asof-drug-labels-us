@@ -17,8 +17,6 @@ Patients should also be informed:
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Multiple-dose vials are also manufactured by DSM Pharmaceuticals, Inc. Greenville, NC 27835
-
 Novation, the supply company of VHA and UHC, and NOVAPLUS are trademarks of Novation, LLC.
 
 © 2013 sanofi-aventis U.S. LLC

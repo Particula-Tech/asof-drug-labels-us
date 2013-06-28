@@ -4,7 +4,7 @@ NDC 0075-0624-31
 
 Lovenox® (enoxaparin sodium injection)
 
-30mg/0.3mL [100mg/mL]
+30mg/0.3mL
 
 Rx ONLY
 
@@ -22,7 +22,7 @@ NDC 0075-0620-41
 
 Lovenox® (enoxaparin sodium injection)
 
-40mg/0.4mL [100mg/mL]
+40mg/0.4mL
 
 Rx ONLY
 
@@ -40,7 +40,7 @@ NDC 0075-0621-61
 
 Lovenox® (enoxaparin sodium injection)
 
-60mg/0.6mL [100mg/mL]
+60mg/0.6mL
 
 Rx ONLY
 
@@ -58,7 +58,7 @@ NDC 0075-0622-81
 
 Lovenox® (enoxaparin sodium injection)
 
-80mg/0.8mL [100mg/mL]
+80mg/0.8mL
 
 Rx ONLY
 
@@ -94,11 +94,11 @@ NDC 0075-0626-04
 
 Lovenox® (enoxaparin sodium injection)
 
-300mg/3mL [100mg/mL]
+300mg/3mL (100mg/1mL)
 
 Rx ONLY
 
-For Subcutabeous or Intravenous Injection
+For Subcutaneous or Intravenous Injection
 
 Multiple Dose Vial
 
@@ -112,7 +112,7 @@ NDC 0075-2912-02
 
 Lovenox® (enoxaparin sodium injection)
 
-120mg/0.8mL [150mg/mL]
+120mg/0.8mL
 
 Rx ONLY
 
