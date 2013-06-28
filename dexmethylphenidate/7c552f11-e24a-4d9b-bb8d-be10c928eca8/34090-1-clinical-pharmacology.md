@@ -8,8 +8,8 @@ The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD
 
 Effects on QT Interval
 
-The effect of Focalin® XR on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of Focalin® XR 40mg in 75 healthy volunteers.
-ECGs were collected up to 12 h post-dose.
+The effect of Focalin® XR on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of Focalin XR 40mg in 75 healthy volunteers.
+ECGs were collected up to 12 hours postdose.
 Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
 The maximum mean prolongation of QTcF intervals was <5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
 This was below the threshold of clinical concern and there was no evident-exposure response relationship.
@@ -19,7 +19,7 @@ This was below the threshold of clinical concern and there was no evident-exposu
 ### Absorption
 
 Dexmethylphenidate hydrochloride is readily absorbed following oral administration of Focalin.
-In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1½ hours post-dose.
+In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1.5 hours postdose.
 No differences in the pharmacokinetics of Focalin were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
 
 When given to children as capsules in single doses of 2.5 mg, 5 mg, and 10 mg, Cmax and AUC0-inf of dexmethylphenidate were proportional to dose.
@@ -27,8 +27,8 @@ In the same study, plasma dexmethylphenidate levels were comparable to those ach
 
 ### Food Effects
 
-In a single dose study conducted in adults, coadministration of 2 x 10 mg Focalin with a high fat breakfast resulted in a dexmethylphenidate tmax of 2.9 hours post-dose as compared to 1.5 hours post-dose when given in a fasting state.
-Cmax and AUC0-inf were comparable in both the fasted and non-fasted states.
+In a single dose study conducted in adults, coadministration of 2 x 10 mg Focalin with a high fat breakfast resulted in a dexmethylphenidate tmax of 2.9 hours postdose as compared to 1.5 hours postdose when given in a fasting state.
+Cmax and AUC0-inf were comparable in both the fasted and nonfasted states.
 
 ### Distribution
 
@@ -72,20 +72,19 @@ Since very little unchanged drug is excreted in the urine, renal insufficiency i
 
 ### Hepatic Insufficiency
 
-There is no experience with the use of Focalin in patients with hepatic insufficiency.
-(For Drug Interactions, see PRECAUTIONS.)
+There is no experience with the use of Focalin in patients with hepatic insufficiency (see PRECAUTIONS, Drug Interactions).
 
 ## Clinical Studies
 
-Focalin was evaluated in two double-blind, parallel-group, placebo-controlled trials in untreated or previously treated patients aged 6 to 17 years old with a DSM-IV diagnosis of Attention Deficit Hyperactivity Disorder (ADHD).
-Both studies included all three subtypes of ADHD, i.e., Combined Type, Predominantly Inattentive Type, or Predominantly Hyperactive-Impulsive Type.
+Focalin was evaluated in 2 double-blind, parallel-group, placebo-controlled trials in untreated or previously treated patients aged 6 to 17 years old with a DSM-IV diagnosis of Attention Deficit Hyperactivity Disorder (ADHD).
+Both studies included all 3 subtypes of ADHD, i.e., Combined Type, Predominantly Inattentive Type, or Predominantly Hyperactive-Impulsive Type.
 While both children and adolescents were included, the sample was predominantly children, thus, the findings are most pertinent to this age group.
 In both studies, the primary comparison of interest was Focalin versus placebo.
 
 Focalin (5, 10, or 20 mg/day total dose), dl-threo-methylphenidate HCl (10, 20, or 40 mg/day total dose), and placebo were compared in a multicenter, 4-week, parallel group study in n=132 patients.
 Patients took the study medication twice daily, 3.5 to 5.5 hours between doses.
 Treatment was initiated with the lowest dose, and doses could be doubled at weekly intervals, depending on clinical response and tolerability, up to the maximum dose.
-The change from baseline to week 4 of the averaged score (an average of two ratings during the week) of the teacher’s version of the SNAP-ADHD Rating Scale, a scale for assessing ADHD symptoms, was the primary outcome.
+The change from baseline to week 4 of the averaged score (an average of 2 ratings during the week) of the teacher’s version of the SNAP-ADHD Rating Scale, a scale for assessing ADHD symptoms, was the primary outcome.
 Patients treated with Focalin showed a statistically significant improvement in symptom scores from baseline over patients who received placebo.
 
 *Figure 1: Error bars represent the standard error of the mean.

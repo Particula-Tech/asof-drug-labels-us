@@ -7,7 +7,7 @@ Focalin is contraindicated in patients with marked anxiety, tension, and agitati
 ## Hypersensitivity to Methylphenidate
 
 Focalin is contraindicated in patients known to be hypersensitive to methylphenidate or other components of the product.
-Hypersensitivity reactions, including angioedema and anaphylactic reactions, have been observed in patients treated with methylphenidate [see Adverse Reactions].
+Hypersensitivity reactions, including angioedema and anaphylactic reactions, have been observed in patients treated with methylphenidate (see ADVERSE REACTIONS).
 
 ## Glaucoma
 
