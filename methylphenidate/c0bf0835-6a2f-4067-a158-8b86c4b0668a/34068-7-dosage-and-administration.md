@@ -19,7 +19,7 @@ Ritalin-SR tablets must be swallowed whole and never crushed or chewed.
 Ritalin should be initiated in small doses, with gradual weekly increments.
 Daily dosage above 60 mg is not recommended.
 
-If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.
+If improvement is not observed after appropriate dosage adjustment over a 1-month period, the drug should be discontinued.
 
 Tablets: Start with 5 mg twice daily (before breakfast and lunch) with gradual increments of 5 to 10 mg weekly.
 

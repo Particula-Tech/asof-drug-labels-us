@@ -1,4 +1,4 @@
-| Ritalin® hydrochloride methylphenidate hydrochloride tablets USP |  |
+| Ritalin® hydrochloride methylphenidate hydrochloride USP tablets |  |
 | --- | --- |
 | Ritalin-SR® methylphenidate hydrochloride USP sustained-release tablets |  |
 

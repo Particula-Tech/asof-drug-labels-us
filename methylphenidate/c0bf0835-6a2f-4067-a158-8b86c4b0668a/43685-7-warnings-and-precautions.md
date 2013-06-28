@@ -2,7 +2,7 @@
 
 ## Serious Cardiovascular Events
 
-### Sudden Death and Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
+### Sudden Death and Preexisting Structural Cardiac Abnormalities or Other Serious Heart Problems
 
 #### Children and Adolescents
 
@@ -19,7 +19,7 @@ Adults with such abnormalities should also generally not be treated with stimula
 
 Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
+Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with preexisting hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
 
 ### Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
 
@@ -28,9 +28,9 @@ Patients who develop symptoms such as exertional chest pain, unexplained syncope
 
 ## Psychiatric Adverse Events
 
-### Pre-Existing Psychosis
+### Preexisting Psychosis
 
-Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.
 
 ### Bipolar Illness
 
@@ -59,6 +59,15 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
+## Peripheral Vasculopathy, Including Raynaud’s Phenomenon
+
+Stimulants, including Ritalin and Ritalin-SR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
 ## Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
@@ -75,7 +84,7 @@ Periodic CBC, differential, and platelet counts are advised during prolonged the
 
 Drug treatment is not indicated in all cases of this behavioral syndrome and should be considered only in light of the complete history and evaluation of the child.
 The decision to prescribe Ritalin should depend on the physician’s assessment of the chronicity and severity of the child’s symptoms and their appropriateness for his/her age.
-Prescription should not depend solely on the presence of one or more of the behavioral characteristics.
+Prescription should not depend solely on the presence of 1 or more of the behavioral characteristics.
 
 When these symptoms are associated with acute stress reactions, treatment with Ritalin is usually not indicated.
 
@@ -86,6 +95,13 @@ A patient Medication Guide is available for Ritalin and Ritalin-SR.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
+
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+
+- Instruct patients beginning treatment with Ritalin or Ritalin-SR about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Ritalin or Ritalin-SR.
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## Drug Interactions
 
@@ -116,5 +132,5 @@ Methylphenidate was not mutagenic in the in vitro Ames reverse mutation assay or
 Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitro assay in cultured Chinese Hamster Ovary (CHO) cells.
 Methylphenidate was negative in vivo in males and females in the mouse bone marrow micronucleus assay.
 
-Methlyphenidate did not impair fertility in male or female mice that were fed diets containing the drug in an 18-week Continuous Breeding study.
+Methylphenidate did not impair fertility in male or female mice that were fed diets containing the drug in an 18-week Continuous Breeding study.
 The study was conducted at doses up to 160 mg/kg/day, approximately 80-fold and 8-fold the highest recommended dose on a mg/kg and mg/m2 basis, respectively.

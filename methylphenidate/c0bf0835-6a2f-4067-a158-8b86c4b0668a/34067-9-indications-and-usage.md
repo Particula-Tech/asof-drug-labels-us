@@ -16,7 +16,7 @@ Adequate diagnosis requires the use not only of medical but of special psycholog
 
 Characteristics commonly reported include: chronic history of short attention span, distractibility, emotional lability, impulsivity, and moderate-to-severe hyperactivity; minor neurological signs and abnormal EEG.
 Learning may or may not be impaired.
-The diagnosis must be based upon a complete history and evaluation of the child and not solely on the presence of one or more of these characteristics.
+The diagnosis must be based upon a complete history and evaluation of the child and not solely on the presence of 1 or more of these characteristics.
 
 Drug treatment is not indicated for all children with this syndrome.
 Stimulants are not intended for use in the child who exhibits symptoms secondary to environmental factors and/or primary psychiatric disorders, including psychosis.
