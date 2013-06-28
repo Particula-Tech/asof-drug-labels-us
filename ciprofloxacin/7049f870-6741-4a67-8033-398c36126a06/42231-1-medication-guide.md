@@ -74,7 +74,7 @@ Who should not take CIPROFLOXACIN?
 
 Do not take CIPROFLOXACIN if you:
 
-- Have ever had a severe allergic reaction to an antibiotic known as a Fluoroquinolone, or are allergic to any of the ingredients in CIPROFLOXACIN.
+- Have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or are allergic to any of the ingredients in CIPROFLOXACIN.
   Ask your healthcare provider if you are not sure.
   See the list of ingredients in CIPROFLOXACIN at the end of this Medication Guide.
 - Also take a medicine called tizanidine (Zanaflex®).
@@ -284,10 +284,10 @@ What are the ingredients in CIPROFLOXACIN?
   - Active ingredient: ciprofloxacin
   - Inactive ingredients: dextrose monohydrate as a tonicity agent, lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised: December 2011
+Revised: February 2013
 
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2011 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2013 Sagent Pharmaceuticals, Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

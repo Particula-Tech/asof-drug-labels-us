@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-In the event of acute overdosage, the patient should be carefully observed and given supportive treatment, including monitoring of renal function.
+In the event of acute overdosage, the patient should be carefully observed and given supportive treatment, including monitoring of renal function, urinary pH and acidify, if required, to prevent crystalluria.
 Adequate hydration must be maintained.
 Only a small amount of ciprofloxacin (< 10%) is removed from the body after hemodialysis or peritoneal dialysis.
 

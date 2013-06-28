@@ -20,13 +20,13 @@ BODY AS A WHOLE: abdominal pain/discomfort, foot pain, pain, pain in extremities
 
 CARDIOVASCULAR: cardiovascular collapse, cardiopulmonary arrest, myocardial infarction, arrhythmia, tachycardia, palpitation, cerebral thrombosis, syncope, cardiac murmur, hypertension, hypotension, angina pectoris, atrial flutter, ventricular ectopy, (thrombo)-phlebitis, vasodilation, migraine
 
-CENTRAL NERVOUS SYSTEM: convulsive seizures, paranoia, toxic psychosis, depression, dysphasia, phobia, depersonalization, manic reaction, unresponsiveness, ataxia, confusion, hallucinations, dizziness, lightheadedness, paresthesia, anxiety, tremor, insomnia, nightmares, weakness, drowsiness, irritability, malaise, lethargy, abnormal gait, grand mal convulsion, anorexia
+CENTRAL NERVOUS SYSTEM: convulsive seizures (including status epilepticus), grand mal convulsion, paranoia, toxic psychosis, depression (potentially culminating in self-injurious behavior, such as suicidal ideations/thoughts and attempted or completed suicide), dysphasia, phobia, depersonalization, manic reaction, unresponsiveness, ataxia, confusion, hallucinations, dizziness, lightheadedness, paresthesia, anxiety, tremor, insomnia, nightmares, weakness, drowsiness, irritability, malaise, lethargy, abnormal gait
 
 GASTROINTESTINAL: ileus, jaundice, gastrointestinal bleeding, C. difficile associated diarrhea, pseudomembranous colitis, pancreatitis, hepatic necrosis, intestinal perforation, dyspepsia, epigastric pain, constipation, oral ulceration, oral candidiasis, mouth dryness, anorexia, dysphagia, flatulence, hepatitis, painful oral mucosa
 
 HEMIC/LYMPHATIC: agranulocytosis, prolongation of prothrombin time, lymphadenopathy, petechia
 
-METABOLIC/NUTRITIONAL: amylase increase, lipase increase
+METABOLIC/NUTRITIONAL: amylase increase, lipase increase, hyperglycemia, hypoglycemia
 
 MUSCULOSKELETAL: arthralgia, jaw, arm or back pain, joint stiffness, neck and chest pain, achiness, flare up of gout, myasthenia gravis, muscle weakness
 
@@ -35,7 +35,7 @@ Crystalluria, cylindruria, hematuria and albuminuria have also been reported.
 
 RESPIRATORY: respiratory arrest, pulmonary embolism, dyspnea, laryngeal or pulmonary edema, respiratory distress, pleural effusion, hemoptysis, epistaxis, hiccough, bronchospasm
 
-SKIN/HYPERSENSITIVITY: allergic reactions, anaphylactic reactions including life threatening anaphylactic shock, erythema multiforme/Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, vasculitis, angioedema, edema of the lips, face, neck, conjunctivae, hands or lower extremities, purpura, fever, chills, flushing, pruritus, urticaria, cutaneous candidiasis, vesicles, increased perspiration, hyperpigmentation, erythema nodosum, thrombophlebitis, burning, paresthesia, erythema, swelling, photosensitivity/phototoxicity reaction (See WARNINGS.)
+SKIN/HYPERSENSITIVITY: allergic reactions, anaphylactic reactions including life-threatening anaphylactic shock, erythema multiforme/Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, vasculitis, angioedema, edema of the lips, face, neck, conjunctivae, hands or lower extremities, purpura, fever, chills, flushing, pruritus, urticaria, cutaneous candidiasis, vesicles, increased perspiration, hyperpigmentation, erythema nodosum, thrombophlebitis, burning, paresthesia, erythema, swelling, photosensitivity/phototoxicity reaction (See WARNINGS.)
 
 SPECIAL SENSES: decreased visual acuity, blurred vision, disturbed vision (flashing lights, change in color perception, overbrightness of lights, diplopia), eye pain, anosmia, hearing loss, tinnitus, nystagmus, chromatopsia, a bad taste
 
@@ -90,7 +90,7 @@ Serious adverse events were seen in 7.5% (25/335) of ciprofloxacin-treated patie
 Discontinuation of drug due to an adverse event was observed in 3% (10/335) of ciprofloxacin-treated patients versus 1.4% (5/349) of comparator patients.
 Other adverse events that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, accidental injury 3.0%, rhinitis 3.0%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
 
-In addition to the events reported in pediatric patients in clinical trials, it should be expected that events reported in adults during clinical trials or post-marketing experience may also occur in pediatric patients.
+In addition to the events reported in pediatric patients in clinical trials, it should be expected that events reported in adults during clinical trials or postmarketing experience may also occur in pediatric patients.
 
 ## Postmarketing Adverse Event Reports
 
@@ -98,10 +98,10 @@ The following adverse events have been reported from worldwide marketing experie
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) frequency of the reporting, or (3) strength of causal connection to the drug.
 
-Agitation, agranulocytosis, albuminuria, anosmia, candiduria, cholesterol elevation (serum), confusion, constipation, delirium, dyspepsia, dysphagia, erythema multiforme, exfoliative dermatitis, fixed eruption, flatulence, glucose elevation (blood), hemolytic anemia, hepatic failure (including fatal cases), hepatic necrosis, hyperesthesia, hypertonia, hypesthesia, hypotension (postural), jaundice, marrow depression (life threatening), methemoglobinemia, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, exacerbation of myasthenia gravis, myoclonus, nystagmus, pancreatitis, pancytopenia (life threatening or fatal outcome), peripheral neuropathy, phenytoin alteration (serum), photosensitivity/phototoxicity reaction, polyneuropathy, potassium elevation (serum), prothrombin time prolongation or decrease, pseudomembranous colitis (The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment), psychosis (toxic), QT prolongation, renal calculi, serum sickness like reaction, Stevens-Johnson syndrome, taste loss, tendinitis, tendon rupture, torsade de pointes, toxic epidermal necrolysis (Lyell's Syndrome), triglyceride elevation (serum), twitching, vaginal candidiasis, vasculitis and ventricular arrhythmia.
+Acute generalized exanthematous pustulosis (AGEP), Agitation, agranulocytosis, albuminuria, anosmia, candiduria, cholesterol elevation (serum), confusion, constipation, delirium, dyspepsia, dysphagia, erythema multiforme, exfoliative dermatitis, fixed eruption, flatulence, glucose elevation (blood), hemolytic anemia, hepatic failure (including fatal cases), hepatic necrosis, hyperesthesia, hypertonia, hypesthesia, hypotension (postural) International Normalized Ratio (INR) increased (in patients treated with Vitamin K antagonists), jaundice, marrow depression (life threatening), methemoglobinemia, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, exacerbation of myasthenia gravis, myoclonus, nystagmus, pancreatitis, pancytopenia (life threatening or fatal outcome), peripheral neuropathy, phenytoin alteration (serum), photosensitivity/phototoxicity reaction, polyneuropathy, potassium elevation (serum), prothrombin time prolongation or decrease, pseudomembranous colitis (The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment), psychosis (toxic), QT prolongation, renal calculi, serum sickness like reaction, Stevens-Johnson syndrome, taste loss, tendinitis, tendon rupture, torsade de pointes, toxic epidermal necrolysis (Lyell's Syndrome), triglyceride elevation (serum), twitching, vaginal candidiasis, vasculitis and ventricular arrhythmia.
 (See PRECAUTIONS.)
 
-Adverse events were also reported by persons who received ciprofloxacin for anthrax post-exposure prophylaxis following the anthrax bioterror attacks of October 2001 (See also INHALATIONAL ANTHRAX - ADDITIONAL INFORMATION).
+Adverse events were also reported by persons who received ciprofloxacin for anthrax post-exposure prophylaxis following the anthrax bioterror attacks of October 2001 (See also Inhalational Anthrax, Additional Information).
 
 ## Adverse Laboratory Changes
 
@@ -115,5 +115,7 @@ Renal—elevations of serum creatinine, BUN, and uric acid
 
 Other—elevations of serum creatine phosphokinase, serum theophylline (in patients receiving theophylline concomitantly), blood glucose, and triglycerides
 
-Other changes occurring infrequently were: decreased leukocyte count, elevated atypical lymphocyte count, immature WBCs, elevated serum calcium, elevation of serum gamma-glutamyl transpeptidase (g GT), decreased BUN, decreased uric acid, decreased total serum protein, decreased serum albumin, decreased serum potassium, elevated serum potassium, elevated serum cholesterol.
+Other changes occurring infrequently were: decreased leukocyte count, elevated atypical lymphocyte count, immature WBCs, elevated serum calcium, elevation of serum gamma-glutamyl transpeptidase (gGT), decreased BUN, decreased uric acid, decreased total serum protein, decreased serum albumin, decreased serum potassium, elevated serum potassium, elevated serum cholesterol.
 Other changes occurring rarely during administration of ciprofloxacin were: elevation of serum amylase, decrease of blood glucose, pancytopenia, leukocytosis, elevated sedimentation rate, change in serum phenytoin, decreased prothrombin time, hemolytic anemia, and bleeding diathesis.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 orwww.fda.gov/medwatch.
