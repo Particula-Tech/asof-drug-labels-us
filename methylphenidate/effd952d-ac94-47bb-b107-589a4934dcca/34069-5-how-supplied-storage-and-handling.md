@@ -21,7 +21,7 @@ Store at 25°C (77°F), excursions permitted 15°C-30°C (59°F-86°F).
 
 Dispense in tight container (USP).
 
-Ritalin LA® is a trademark of Novartis AG.
+Ritalin LA is a trademark of Novartis AG.
 
 SODAS® is a registered trademark of Alkermes Pharma Ireland Limited.
 

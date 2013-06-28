@@ -12,7 +12,7 @@ Consult with a Certified Poison Control Center regarding treatment for up-to-dat
 
 As with the management of all overdosage, the possibility of multiple drug ingestion should be considered.
 
-When treating overdose, practitioners should bear in mind that there is a prolonged release of methylphenidate from Ritalin LA® (methylphenidate hydrochloride) extended-release capsules.
+When treating overdose, practitioners should bear in mind that there is a prolonged release of methylphenidate from Ritalin LA (methylphenidate hydrochloride) extended-release capsules.
 
 Treatment consists of appropriate supportive measures.
 The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.

@@ -2,7 +2,7 @@
 
 ## Serious Cardiovascular Events
 
-### Sudden Death and Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
+### Sudden Death and Preexisting Structural Cardiac Abnormalities or Other Serious Heart Problems
 
 #### Children and Adolescents
 
@@ -19,7 +19,7 @@ Adults with such abnormalities should also generally not be treated with stimula
 
 Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
+Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with preexisting hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
 
 ### Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
 
@@ -28,9 +28,9 @@ Patients who develop symptoms such as exertional chest pain, unexplained syncope
 
 ## Psychiatric Adverse Events
 
-### Pre-Existing Psychosis
+### Preexisting Psychosis
 
-Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.
 
 ### Bipolar Illness
 
@@ -52,7 +52,7 @@ Although there is no systematic evidence that stimulants cause aggressive behavi
 ## Long-Term Suppression of Growth
 
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-In the double-blind placebo-controlled study of Ritalin LA® (methylphenidate hydrochloride) extended-release capsules, the mean weight gain was greater for patients receiving placebo (+1.0 kg) than for patients receiving Ritalin LA (+0.1 kg).
+In the double-blind placebo-controlled study of Ritalin LA (methylphenidate hydrochloride) extended-release capsules, the mean weight gain was greater for patients receiving placebo (+1.0 kg) than for patients receiving Ritalin LA (+0.1 kg).
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
@@ -61,13 +61,22 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
+## Peripheral Vasculopathy, Including Raynaud’s Phenomenon
+
+Stimulants, including Ritalin LA, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
 ## Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
 ## Use in Children Under Six Years of Age
 
-Ritalin LA should not be used in children under six years of age, since safety and efficacy in this age group have not been established.
+Ritalin LA should not be used in children under 6 years of age, since safety and efficacy in this age group have not been established.
 
 # PRECAUTIONS
 
@@ -82,6 +91,16 @@ A patient Medication Guide is available for Ritalin LA.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
+
+Patients should be advised to avoid alcohol while taking Ritalin LA.
+Consumption of alcohol while taking Ritalin LA may result in a more rapid release of the dose of methylphenidate.
+
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+
+- Instruct patients beginning treatment with Ritalin LA about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Ritalin LA.
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## Drug Interactions
 
@@ -101,7 +120,7 @@ It may be necessary to adjust the dosage and monitor plasma drug concentrations 
 
 Methylphenidate is not metabolized by cytochrome P450 to a clinically relevant extent.
 Inducers or inhibitors of cytochrome P450 are not expected to have any relevant impact on methylphenidate pharmacokinetics.
-Conversely, the d- and l- enantiomers of methylphenidate did not relevantly inhibit cytochrome P450 1A2, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A.
+Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit cytochrome P450 1A2, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A.
 
 Methylphenidate coadministration did not increase plasma concentrations of the CYP2D6 substrate desipramine.
 
@@ -152,7 +171,7 @@ Because many drugs are excreted in human milk, caution should be exercised if Ri
 ## Pediatric Use
 
 Long-term effects of methylphenidate in children have not been well established.
-Ritalin LA should not be used in children under six years of age (see WARNINGS).
+Ritalin LA should not be used in children under 6 years of age (see WARNINGS).
 
 In a study conducted in young rats, methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (Postnatal Day 7) and continuing through sexual maturity (Postnatal Week 10).
 When these animals were tested as adults (Postnatal Weeks 13-14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (12 times the MRHD on a mg/m2 basis).

@@ -2,7 +2,7 @@
 
 ## Pharmacodynamics
 
-Methylphenidate hydrochloride, the active ingredient in Ritalin LA® (methylphenidate hydrochloride) extended-release capsules, is a central nervous system (CNS) stimulant.
+Methylphenidate hydrochloride, the active ingredient in Ritalin LA (methylphenidate hydrochloride) extended-release capsules, is a central nervous system (CNS) stimulant.
 The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known.
 Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 Methylphenidate is a racemic mixture comprised of the d- and l-threo enantiomers.
@@ -10,8 +10,8 @@ The d-threo enantiomer is more pharmacologically active than the l-threo enantio
 
 Effects on QT Interval
 
-The effect of Focalin® XR (dexmethylphenidate, the pharmacologically active d-enantiomer of Ritalin) on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of Focalin® XR 40mg in 75 healthy volunteers.
-ECGs were collected up to 12 h post-dose.
+The effect of Focalin XR (dexmethylphenidate, the pharmacologically active d-enantiomer of Ritalin) on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of Focalin XR 40mg in 75 healthy volunteers.
+ECGs were collected up to 12 hours postdose.
 Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
 The maximum mean prolongation of QTcF intervals was <5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
 This was below the threshold of clinical concern and there was no evident-exposure response relationship.
@@ -20,21 +20,21 @@ This was below the threshold of clinical concern and there was no evident-exposu
 
 ### Absorption
 
-Ritalin LA produces a bi-modal plasma concentration-time profile (i.e., two distinct peaks approximately four hours apart) when orally administered to children diagnosed with ADHD and to healthy adults.
-The initial rate of absorption for Ritalin LA is similar to that of Ritalin tablets as shown by the similar rate parameters between the two formulations, i.e., initial lag time (Tlag), first peak concentration (Cmax1), and time to the first peak (Tmax1), which is reached in 1-3 hours.
-The mean time to the interpeak minimum (Tminip), and time to the second peak (Tmax2) are also similar for Ritalin LA given once daily and Ritalin tablets given in two doses 4 hours apart (see Figure 1 and Table 1), although the ranges observed are greater for Ritalin LA.
+Ritalin LA produces a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when orally administered to children diagnosed with ADHD and to healthy adults.
+The initial rate of absorption for Ritalin LA is similar to that of Ritalin tablets as shown by the similar rate parameters between the 2 formulations, i.e., initial lag time (Tlag), first peak concentration (Cmax1), and time to the first peak (Tmax1), which is reached in 1-3 hours.
+The mean time to the interpeak minimum (Tminip), and time to the second peak (Tmax2) are also similar for Ritalin LA given once daily and Ritalin tablets given in 2 doses 4 hours apart (see Figure 1 and Table 1), although the ranges observed are greater for Ritalin LA.
 
-Ritalin LA given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and less peak and trough fluctuations than Ritalin tablets given in two doses given 4 hours apart.
+Ritalin LA given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and less peak and trough fluctuations than Ritalin tablets given in 2 doses given 4 hours apart.
 This is due to an earlier onset and more prolonged absorption from the delayed-release beads (see Figure 1 and Table 1).
 
-The relative bioavailability of Ritalin LA given once daily is comparable to the same total dose of Ritalin tablets given in two doses 4 hours apart in both children and in adults.
+The relative bioavailability of Ritalin LA given once daily is comparable to the same total dose of Ritalin tablets given in 2 doses 4 hours apart in both children and in adults.
 
 Table 1.
-Mean ± SD and range of pharmacokinetic parameters of methylphenidate after a single dose of Ritalin LA® and Ritalin® given in two doses 4 hours apart
+Mean ± SD and Range of Pharmacokinetic Parameters of Methylphenidate After a Single Dose of Ritalin LA and Ritalin Given in Two Doses 4 Hours Apart
 
 | Population | Children |  | Adult Males |  |
 | --- | --- | --- | --- | --- |
-| Formulation Dose | Ritalin® 10 mg & 10 mg | Ritalin LA® 20 mg | Ritalin® 10 mg & 10 mg | Ritalin LA® 20 mg |
+| Formulation Dose | Ritalin 10 mg & 10 mg | Ritalin LA 20 mg | Ritalin 10 mg & 10 mg | Ritalin LA 20 mg |
 | N | 21 | 18 | 9 | 8 |
 | Tlag (h) | 0.24 ± 0.44 | 0.28 ± 0.46 | 1.0 ± 0.5 | 0.7 ± 0.2 |
 |  | 0 - 1 | 0 - 1 | 0.7 - 1.3 | 0.3 - 1.0 |
@@ -55,7 +55,7 @@ Mean ± SD and range of pharmacokinetic parameters of methylphenidate after a si
 | t1/2 (h) | 2.5 ± 0.8 | 2.4 ± 0.7a | 3.5 ± 1.9 | 3.3 ± 0.4 |
 |  | 1.8 - 5.3 | 1.5 - 4.0 | 1.3 - 7.7 | 3.0 - 4.2 |
 
-a N = 15
+a N=15
 
 ### Dose Proportionality
 
@@ -75,7 +75,7 @@ Therapeutic activity is principally due to the parent compound.
 
 ### Elimination
 
-In studies with Ritalin LA and Ritalin tablets in adults, methylphenidate from Ritalin tablets is eliminated from plasma with an average half-life of about 3.5 hours, (range 1.3 - 7.7 hours).
+In studies with Ritalin LA and Ritalin tablets in adults, methylphenidate from Ritalin tablets is eliminated from plasma with an average half-life of about 3.5 hours, (range 1.3-7.7 hours).
 In children the average half-life is about 2.5 hours, with a range of about 1.5 - 5.0 hours.
 The rapid half-life in both children and adults may result in unmeasurable concentrations between the morning and mid-day doses with Ritalin tablets.
 No accumulation of methylphenidate is expected following multiple once a day oral dosing with Ritalin LA.
@@ -98,6 +98,14 @@ There were no differences in the pharmacokinetics of Ritalin LA when administere
 There is no evidence of dose dumping in the presence or absence of food.
 
 For patients unable to swallow the capsule, the contents may be sprinkled on applesauce and administered (see DOSAGE AND ADMINISTRATION).
+
+### Alcohol Effect
+
+Alcohol may exacerbate the adverse CNS effects of psychoactive drugs, including Ritalin.
+It is therefore advisable for patients to abstain from alcohol during treatment.
+An in vitro study was conducted to explore the effect of alcohol on the release characteristics of methylphenidate from the Ritalin LA 40 mg capsule dosage form.
+At an alcohol concentration of 40% there was a 98% release of methylphenidate in the first hour.
+The results with the 40 mg capsule are considered to be representative of the other available capsule strengths.
 
 ### Special Populations
 

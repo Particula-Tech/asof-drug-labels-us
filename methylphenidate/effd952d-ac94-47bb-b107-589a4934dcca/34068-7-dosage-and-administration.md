@@ -2,7 +2,7 @@
 
 ## Administration of Dose
 
-Ritalin LA® (methylphenidate hydrochloride) extended-release capsules is for oral administration once daily in the morning.
+Ritalin LA (methylphenidate hydrochloride) extended-release capsules are for oral administration once daily in the morning.
 Ritalin LA may be swallowed as whole capsules or alternatively may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
 Ritalin LA and/or their contents should not be crushed, chewed, or divided.
 
@@ -10,6 +10,7 @@ The capsules may be carefully opened and the beads sprinkled over a spoonful of 
 The applesauce should not be warm because it could affect the modified release properties of this formulation.
 The mixture of drug and applesauce should be consumed immediately in its entirety.
 The drug and applesauce mixture should not be stored for future use.
+Patients should be advised to avoid alcohol while taking Ritalin LA.
 
 ## Dosing Recommendations
 
@@ -26,7 +27,7 @@ When in the judgement of the clinician a lower initial dose is appropriate, pati
 
 The recommended dose of Ritalin LA for patients currently taking methylphenidate b.i.d. or sustained release (SR) is provided below.
 
-| Previous Methylphenidate Dose | Recommended Ritalin LA® Dose |
+| Previous Methylphenidate Dose | Recommended Ritalin LA Dose |
 | --- | --- |
 | 5 mg methylphenidate-b.i.d. | 10 mg q.d. |
 | 10 mg methylphenidate b.i.d. or 20 mg methylphenidate-SR | 20 mg q.d. |
@@ -49,4 +50,4 @@ Improvement may be sustained when the drug is either temporarily or permanently 
 ## Dose Reduction and Discontinuation
 
 If paradoxical aggravation of symptoms or other adverse events occur, the dosage should be reduced, or, if necessary, the drug should be discontinued.
-If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.
+If improvement is not observed after appropriate dosage adjustment over a 1-month period, the drug should be discontinued.
