@@ -1,5 +1,7 @@
 # MEDICATION GUIDE
 
+MEDICATION GUIDE
+
 Gabapentin Capsules USP
 
 Read the Medication Guide before you start taking gabapentin and each time you get a refill.
@@ -14,7 +16,8 @@ Stopping gabapentin suddenly can cause serious problems.
 
 GABAPENTIN can cause serious side effects including:
 
-1. Like other antiepileptic drugs, gabapentin may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+1.
+Like other antiepileptic drugs, gabapentin may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -45,8 +48,28 @@ Do not stop taking gabapentin without first talking to a healthcare provider.
 
 Suicidal thoughts or actions can be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-2.
-Changes in behavior and thinking - Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
+
+2.Changes in behavior and thinking - Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
+
+3.
+Gabapentin may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
+You may or may not have rash when you get this type of reaction.
+It may cause you to be hospitalized or to stop gabapentin.
+Call a healthcare provider right away if you have any of the following symptoms:
+
+- skin rash
+- hives
+- fever
+- swollen glands that do not go away
+- swelling of your lip and tongue
+- yellowing of your skin or of the whites of the eyes
+- unusual bruising or bleeding
+- severe fatigue or weakness
+- unexpected muscle pain
+- frequent infections
+
+These symptoms may be the first signs of a serious reaction.
+A healthcare provider should examine you to decide if you should continue taking gabapentin.
 
 What is gabapentin?
 
@@ -89,8 +112,8 @@ How should I take gabapentin?
 
 - Take gabapentin exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin to take.
-  - Do not change your dose of gabapentin without talking to your healthcare provider.
-    If taking capsules, always swallow them whole with plenty of water.
+- Do not change your dose of gabapentin without talking to your healthcare provider.
+  If taking capsules, always swallow them whole with plenty of water.
 - Gabapentin can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin.
 - If you take too much gabapentin, call your healthcare provider or your local Poison Control Center right away.
@@ -99,26 +122,22 @@ What should I avoid while taking gabapentin?
 
 - Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking gabapentin without first talking with your healthcare provider.
   Taking gabapentin with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how gabapentin affects you.
-  Gabapentin can slow your thinking and motor skills.
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how gabapentin affects you. gabapentin can slow your thinking and motor skills.
 
 What are the possible side effects of gabapentin?
 
 - See “What is the most important information I should know about gabapentin?”
 - The most common side effects of gabapentin include:
-  - dizziness
-  - lack of coordination
-  - viral infection
-  - feeling drowsy
-  - feeling tired
-  - fever
-  - jerky movements
-  - difficulty with speaking
-  - temporary loss of memory (amnesia)
-  - tremor
-  - difficulty with coordination
-  - double vision
-  - unusual eye movement
+
+| dizziness | difficulty with speaking |
+| --- | --- |
+| lack of coordination | temporary loss of |
+| viral infection | memory(amnesia) |
+| feeling drowsy | tremor |
+| feeling tired | difficulty with |
+| fever | coordination |
+| jerky movements | double vision |
+|  | unusual eye movement |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -130,7 +149,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store gabapentin?
 
-- Store Gabapentin Capsules between 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
+- Store gabapentin Capsules between 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
 
 Keep gabapentin and all medicines out of the reach of children.
 
@@ -149,11 +168,13 @@ What are the ingredients in gabapentin?
 
 Active ingredient: gabapentin
 
-Inactive ingredients in the capsules: anhydrous lactose, cornstarch, and talc.
+Inactive ingredients in the capsules:anhydrous lactose, cornstarch, and talc.
 The 100-mg capsule shell also contains: gelatin, sodium lauryl sulfate, and titanium dioxide.
 The 300-mg capsule shell also contains: gelatin, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
 The 400-mg capsule shell also contains: gelatin, sodium lauryl sulfate, red iron oxide, titanium dioxide, and yellow iron oxide.
 The imprinting ink contains shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propyl glycol, strong ammonia solution, and titanium dioxide.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
@@ -165,8 +186,8 @@ Mumbai – 400 013, INDIA
 
 Distributed by:
 
-Ascend Laboratories, LLC
+Ascend Laboratories, LCC
 
 Montvale, NJ 07645
 
-July, 2011
+Revised June 2013
