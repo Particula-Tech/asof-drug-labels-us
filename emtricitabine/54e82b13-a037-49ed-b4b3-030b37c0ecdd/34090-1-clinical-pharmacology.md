@@ -4,13 +4,13 @@ For additional information on Mechanism of Action, Antiviral Activity, Resistanc
 
 ## 12.1 Mechanism of Action
 
-TRUVADA is a fixed-dose combination of antiviral drugs emtricitabine and tenofovir disoproxil fumarate [See Microbiology (12.4)].
+TRUVADA is a fixed-dose combination of antiviral drugs emtricitabine and tenofovir disoproxil fumarate [See Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
 TRUVADA: One TRUVADA tablet was bioequivalent to one EMTRIVA capsule (200 mg) plus one VIREAD tablet (300 mg) following single-dose administration to fasting healthy subjects (N=39).
 
-Emtricitabine: The pharmacokinetic properties of emtricitabine are summarized in Table 4.
+Emtricitabine: The pharmacokinetic properties of emtricitabine are summarized in Table 6.
 Following oral administration of EMTRIVA, emtricitabine is rapidly absorbed with peak plasma concentrations occurring at 1–2 hours post-dose.
 Less than 4% of emtricitabine binds to human plasma proteins in vitro and the binding is independent of concentration over the range of 0.02–200 μg/mL.
 Following administration of radiolabelled emtricitabine, approximately 86% is recovered in the urine and 13% is recovered as metabolites.
@@ -96,7 +96,7 @@ The steady state pharmacokinetics of emtricitabine and tenofovir were unaffected
 In vitro studies and clinical pharmacokinetic drug-drug interaction trials have shown that the potential for CYP mediated interactions involving emtricitabine and tenofovir with other medicinal products is low.
 
 No clinically significant drug interactions have been observed between emtricitabine and famciclovir, indinavir, stavudine, tenofovir disoproxil fumarate, and zidovudine (see Tables 7 and 8).
-Similarly, no clinically significant drug interactions have been observed between tenofovir disoproxil fumarate and abacavir, efavirenz, emtricitabine, entecavir, indinavir, lamivudine, lopinavir/ritonavir, methadone, nelfinavir, oral contraceptives, ribavirin, saquinavir/ritonavir, and tacrolimus in trials conducted in healthy volunteers (see Tables 9 and 10).
+Similarly, no clinically significant drug interactions have been observed between tenofovir disoproxil fumarate and efavirenz, methadone, nelfinavir, oral contraceptives, or ribavirin in trials conducted in healthy volunteers (see Tables 9 and 10).
 
 Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered DrugAll interaction trials conducted in healthy volunteers
 
@@ -127,15 +127,12 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSu
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ⇔; NC = Not Calculated (90% CI) |  |  |
 | Abacavir | 300 once | 8 | ⇔ | ⇔ | NC |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
-| Didanosine (enteric-coated) | 400 once | 25 | ⇔ | ⇔ | ⇔ |
-| Didanosine (buffered) | 250 or 400 once daily × 7 days | 14 | ⇔ | ⇔ | ⇔ |
-| Efavirenz | 600 once daily × 14 days | 29 | ⇔ | ⇔ | ⇔ |
+| DidanosineSubjects received didanosine buffered tablets. | 250 or 400 once daily × 7 days | 14 | ⇔ | ⇔ | ⇔ |
 | Emtricitabine | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ⇔ |
 | Entecavir | 1 mg once daily × 10 days | 28 |  |  |  |
 | Indinavir | 800 three times daily × 7 days | 13 | ↑ 14 (↓ 3 to ↑ 33) | ⇔ | ⇔ |
 | Lamivudine | 150 twice daily × 7 days | 15 | ⇔ | ⇔ | ⇔ |
 | Lopinavir/ Ritonavir | 400/100 twice daily × 14 days | 24 | ⇔ | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
-| Nelfinavir | 1250 twice daily × 14 days | 29 | ⇔ | ⇔ | ⇔ |
 | Saquinavir/ Ritonavir | 1000/100 twice daily × 14 days | 35 | ⇔ | ⇔ | ↑ 23 (↑ 16 to ↑ 30) |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) | ⇔ | ⇔ |
 
@@ -147,42 +144,21 @@ Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) | ⇔ | NA |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
 | Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3 and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
-| Efavirenz | 600 once daily × 14 days | 30 | ⇔ | ⇔ | ⇔ |
+| DidanosineVidex EC Prescribing Information. Subjects received didanosine enteric-coated capsules. | 250 once, simultaneously with tenofovir DF and a light meal373 kcal, 8.2 g fat | 33 | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. (↓ 32 to ↓ 7) | ⇔ | NA |
 | Emtricitabine | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ↑ 20 (↑ 12 to ↑ 29) |
 | Indinavir | 800 three times daily × 7 days | 12 | ↓ 11 (↓ 30 to ↑ 12) | ⇔ | ⇔ |
 | Entecavir | 1 mg once daily × 10 days | 28 | ⇔ | ↑ 13 (↑ 11 to ↑ 15) | ⇔ |
 | Lamivudine | 150 twice daily × 7 days | 15 | ↓ 24 (↓ 34 to ↓ 12) | ⇔ | ⇔ |
 | Lopinavir Ritonavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | 24 | ⇔ ⇔ | ⇔ ⇔ | ⇔ ⇔ |
-| MethadoneR-(active), S- and total methadone exposures were equivalent when dosed alone or with VIREAD. | 40–110 once daily × 14 daysIndividual subjects were maintained on their stable methadone dose. No pharmacodynamic alterations (opiate toxicity or withdrawal signs or symptoms) were reported. | 13 | ⇔ | ⇔ | ⇔ |
-| Nelfinavir M8 metabolite | 1250 twice daily × 14 days | 29 | ⇔ ⇔ | ⇔ ⇔ | ⇔ ⇔ |
-| Oral ContraceptivesEthinyl estradiol and 17-deacetyl norgestimate (pharmacologically active metabolite) exposures were equivalent when dosed alone or with VIREAD. | Ethinyl Estradiol/ Norgestimate (Ortho-Tricyclen) Once daily × 7 days | 20 | ⇔ | ⇔ | ⇔ |
-| Ribavirin | 600 once | 22 | ⇔ | ⇔ | NA |
 | Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | 32 | ↑ 22 (↑ 6 to ↑41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered. (↑ 12 to ↑ 48) | ↑ 47 (↑ 23 to ↑ 76) |
 | Ritonavir | ⇔ | ⇔ | ↑ 23 (↑ 3 to ↑ 46) |  |  |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ⇔ | ⇔ | ⇔ |
 
-Following multiple dosing to HIV-negative subjects receiving either chronic methadone maintenance therapy or oral contraceptives, or single doses of ribavirin, steady state tenofovir pharmacokinetics were similar to those observed in previous trials, indicating lack of clinically significant drug interactions between these agents and VIREAD.
-
 Coadministration of tenofovir disoproxil fumarate with didanosine results in changes in the pharmacokinetics of didanosine that may be of clinical significance.
-Table 11 summarizes the effects of tenofovir disoproxil fumarate on the pharmacokinetics of didanosine.
-Concomitant dosing of tenofovir disoproxil fumarate with didanosine buffered tablets or enteric-coated capsules significantly increases the Cmax and AUC of didanosine.
+Concomitant dosing of tenofovir disoproxil fumarate with didanosine enteric-coated capsules significantly increases the Cmax and AUC of didanosine.
 When didanosine 250 mg enteric-coated capsules were administered with tenofovir disoproxil fumarate, systemic exposures of didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions.
 The mechanism of this interaction is unknown.
 See Drug Interactions (7.1) regarding use of didanosine with VIREAD.
-
-Table 11 Drug Interactions: Pharmacokinetic Parameters for Didanosine in the Presence of VIREAD
-
-| Cmax | AUC |  |  |  |
-| --- | --- | --- | --- | --- |
-| DidanosineAdministration with food was with a light meal (~373 kcal, 20% fat). Dose (mg)/Method of Administration | VIREAD Method of Administration | N | % Difference (90% CI) vs. Didanosine 400 mg Alone, FastedIncrease = ↑; Decrease = ↓; No Effect = ⇔ |  |
-| Buffered tablets |  |  |  |  |
-| 400 once dailyIncludes 4 subjects weighing <60 kg receiving ddI 250 mg. × 7 days | Fasted 1 hour after didanosine | 14 | ↑ 28 (↑ 11 to ↑ 48) | ↑ 44 (↑ 31 to ↑ 59) |
-| Enteric coated capsules |  |  |  |  |
-| 400 once, fasted | With food, 2 hours after didanosine | 26 | ↑ 48 (↑ 25 to ↑ 76) | ↑ 48 (↑ 31 to ↑ 67) |
-| 400 once, with food | Simultaneously with didanosine | 26 | ↑ 64 (↑ 41 to ↑ 89) | ↑ 60 (↑ 44 to ↑ 79) |
-| 250 once, fasted | With food, 2 hours after didanosine | 28 | ↓ 10 (↓ 22 to ↑ 3) | ⇔ |
-| 250 once, fasted | Simultaneously with didanosine | 28 | ⇔ | ↑ 14 (0 to ↑ 31) |
-| 250 once, with food | Simultaneously with didanosine | 28 | ↓ 29 (↓ 39 to ↓ 18) | ↓ 11 (↓ 23 to ↑ 2) |
 
 ## 12.4 Microbiology
 

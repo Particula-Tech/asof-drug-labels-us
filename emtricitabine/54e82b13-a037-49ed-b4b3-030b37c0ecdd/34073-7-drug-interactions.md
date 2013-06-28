@@ -9,7 +9,7 @@ This section describes clinically relevant drug interactions observed with emtri
 Coadministration of TRUVADA and didanosine should be undertaken with caution and patients receiving this combination should be monitored closely for didanosine-associated adverse reactions.
 Didanosine should be discontinued in patients who develop didanosine-associated adverse reactions.
 
-When tenofovir disoproxil fumarate was administered with didanosine the Cmax and AUC of didanosine administered as either the buffered or enteric-coated formulation increased significantly [See Clinical Pharmacology (12.3)].
+When tenofovir disoproxil fumarate was administered with didanosine the Cmax and AUC of didanosine increased significantly [See Clinical Pharmacology (12.3)].
 The mechanism of this interaction is unknown.
 Higher didanosine concentrations could potentiate didanosine-associated adverse reactions, including pancreatitis, and neuropathy.
 Suppression of CD4+ cell counts has been observed in patients receiving tenofovir DF with didanosine 400 mg daily.
@@ -17,7 +17,6 @@ Suppression of CD4+ cell counts has been observed in patients receiving tenofovi
 In patients weighing greater than 60 kg, the didanosine dose should be reduced to 250 mg when it is coadministered with TRUVADA.
 Data are not available to recommend a dose adjustment of didanosine for adult or pediatric patients weighing less than 60 kg.
 When coadministered, TRUVADA and Videx EC may be taken under fasted conditions or with a light meal (less than 400 kcal, 20% fat).
-Coadministration of didanosine buffered tablet formulation with TRUVADA should be under fasted conditions.
 
 ## 7.2 Atazanavir
 

@@ -10,9 +10,9 @@ The dose of TRUVADA in HIV-1 uninfected adults is one tablet (containing 200 mg 
 
 ## 2.3 Dose Adjustment for Renal Impairment
 
-Treatment of HIV-1 infection
+Treatment of HIV-1 Infection
 
-Significantly increased drug exposures occurred when EMTRIVA or VIREAD were administered to subjects with moderate to severe renal impairment [see EMTRIVA or VIREAD Package Insert].
+Significantly increased drug exposures occurred when EMTRIVA or VIREAD were administered to subjects with moderate to severe renal impairment [See EMTRIVA or VIREAD Package Insert].
 Therefore, adjust the dosing interval of TRUVADA in HIV-1 infected adult patients with baseline creatinine clearance 30–49 mL/min using the recommendations in Table 1.
 These dosing interval recommendations are based on modeling of single-dose pharmacokinetic data in non-HIV infected subjects.
 The safety and effectiveness of these dosing interval adjustment recommendations have not been clinically evaluated in patients with moderate renal impairment, therefore clinical response to treatment and renal function should be closely monitored in these patients [See Warnings and Precautions (5.3)].

@@ -4,7 +4,7 @@ The blue, capsule-shaped, film-coated, tablets contain 200 mg of emtricitabine a
 
 - 30 tablets (NDC 61958-0701-1)
 
-Store at 25 °C (77 °F), excursions permitted to 15–30 °C (59–86 °F) (see USP Controlled Room Temperature).
+Store at 25 °C (77 °F), excursions permitted to 15 °C –30 °C (59 °F –86 °F) (see USP Controlled Room Temperature).
 
 - Keep container tightly closed
 - Dispense only in original container

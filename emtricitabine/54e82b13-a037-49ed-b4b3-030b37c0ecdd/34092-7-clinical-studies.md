@@ -12,9 +12,9 @@ From Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in p
 Subjects had a mean age of 38 years (range 18–80), 86% were male, 59% were Caucasian and 23% were Black.
 The mean baseline CD4+ cell count was 245 cells/mm3 (range 2–1191) and median baseline plasma HIV-1 RNA was 5.01 log10 copies/mL (range 3.56–6.54).
 Subjects were stratified by baseline CD4+ cell count (< or ≥200 cells/mm3); 41% had CD4+ cell counts <200 cells/mm3 and 51% of subjects had baseline viral loads >100,000 copies/mL.
-Treatment outcomes through 48 and 144 weeks for those subjects who did not have efavirenz resistance at baseline are presented in Table 12.
+Treatment outcomes through 48 and 144 weeks for those subjects who did not have efavirenz resistance at baseline are presented in Table 11.
 
-Table 12 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
+Table 11 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
 
 | FTC + TDF + EFV (N=244) | AZT/3TC + EFV (N=243) | FTC + TDF + EFV (N=227)Subjects who were responders at Week 48 or Week 96 (HIV-1 RNA <400 copies/mL) but did not consent to continue trial after Week 48 or Week 96 were excluded from analysis. | AZT/3TC + EFV (N=229) |  |
 | --- | --- | --- | --- | --- |

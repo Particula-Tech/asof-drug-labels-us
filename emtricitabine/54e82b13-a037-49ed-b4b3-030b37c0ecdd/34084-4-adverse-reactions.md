@@ -15,7 +15,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Clinical Trials in Adult Subjects
 
 The most common adverse reactions (incidence greater than or equal to 10%, any severity) occurring in Study 934, an active-controlled clinical trial of efavirenz, emtricitabine, and tenofovir disoproxil fumarate, include diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
-See also Table 2 for the frequency of treatment-emergent adverse reactions (Grade 2–4) occurring in greater than or equal to 5% of subjects treated in any treatment group in this trial.
+See also Table 2 for the frequency of treatment-emergent adverse reactions (Grades 2–4) occurring in greater than or equal to 5% of subjects treated in any treatment group in this trial.
 
 Skin discoloration, manifested by hyperpigmentation on the palms and/or soles, was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
@@ -73,7 +73,7 @@ Table 3 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 
 In addition to the events described above for Study 934, other adverse reactions that occurred in at least 5% of subjects receiving EMTRIVA or VIREAD with other antiretroviral agents in clinical trials include anxiety, arthralgia, increased cough, dyspepsia, fever, myalgia, pain, abdominal pain, back pain, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), pneumonia, and rhinitis.
 
-In addition to the laboratory abnormalities described above for Study 934, Grade 3/4 laboratory abnormalities of increased bilirubin (>2.5 × ULN), increased pancreatic amylase (>2.0 × ULN), increased or decreased serum glucose (<40 or >250 mg/dL), and increased serum lipase (>2.0 × ULN) occurred in up to 3% of subjects treated with EMTRIVA or VIREAD with other antiretroviral agents in clinical trials.
+In addition to the laboratory abnormalities described above for Study 934, Grades 3–4 laboratory abnormalities of increased bilirubin (>2.5 × ULN), increased pancreatic amylase (>2.0 × ULN), increased or decreased serum glucose (<40 or >250 mg/dL), and increased serum lipase (>2.0 × ULN) occurred in up to 3% of subjects treated with EMTRIVA or VIREAD with other antiretroviral agents in clinical trials.
 
 Clinical Trials in Pediatric Subjects 12 Years of Age and Older
 
@@ -96,16 +96,16 @@ Six subjects in the TDF-containing arms of the Partners PrEP trial discontinued 
 One subject in the TRUVADA arm of the iPrEx trial discontinued from the study due to an increase in blood creatinine and another due to low phosphorous.
 
 In addition to the laboratory abnormalities described above, Grade 1 proteinuria (1+) occurred in 6% of subjects receiving TRUVADA in the iPrEx trial.
-Grade 2–3 proteinuria (2–4+) and glycosuria (3+) occurred in less than 1% of subjects treated with TRUVADA in the iPrEx trial and Partners PrEP trial.
+Grades 2–3 proteinuria (2–4+) and glycosuria (3+) occurred in less than 1% of subjects treated with TRUVADA in the iPrEx trial and Partners PrEP trial.
 
 Table 4 Selected Adverse Events (All Grades) Reported in ≥2% in Any Treatment Group in the iPrEx Trial and Partners PrEP Trial
 
-|  | FTC/TDF (N=1251) | Placebo (N=1248) | FTC/TDF (N-1579) | Placebo (N= 1584) |
+|  | FTC/TDF (N=1251) | Placebo (N=1248) | FTC/TDF (N=1579) | Placebo (N= 1584) |
 | --- | --- | --- | --- | --- |
 |  | iPrEx Trial |  | Partners PrEP Trial |  |
 | Gastrointestinal Disorders |  |  |  |  |
 | Diarrhea | 7% | 8% | 2% | 3% |
-| Abdominal pain | 4% | 2% | -not reported or reported below 2%. | - |
+| Abdominal pain | 4% | 2% | -Not reported or reported below 2%. | - |
 | Infections and Infestations |  |  |  |  |
 | Pharyngitis | 13% | 16% | - | - |
 | Urethritis | 5% | 7% | - | - |
@@ -136,7 +136,7 @@ Table 5 Laboratory Abnormalities (Highest Toxicity Grade) Reported for Each Subj
 | 2–4 | (<2.0 mg/dL) | 123 (10%) | 101 (8%) | 140 (9%) | 136 (9%) |  |
 | AST | 1 | (1.25–<2.5 × ULN) | 175 (14%) | 175 (14%) | 20 (1%) | 25 (2%) |
 | 2–4 | (> 2.6 × ULN) | 57 (5%) | 61 (5%) | 10 (<1%) | 4 (<1%) |  |
-| ALT | 1 | (1.25–<2.–5 × ULN) | 178 (14%) | 194 (16%) | 21 (1%) | 13 (<1%) |
+| ALT | 1 | (1.25–<2.5 × ULN) | 178 (14%) | 194 (16%) | 21 (1%) | 13 (<1%) |
 | 2–4 | (> 2.6 × ULN) | 84 (7%) | 82 (7%) | 4 (<1%) | 6 (<1%) |  |
 | Hemoglobin | 1 | (8.5 – 10 mg/dL) | 49 (4%) | 62 (5%) | 56 (4%) | 39 (2%) |
 | 2–4 | (<9.4 mg/dL) | 13 (1%) | 19 (2%) | 28 (2%) | 39 (2%) |  |

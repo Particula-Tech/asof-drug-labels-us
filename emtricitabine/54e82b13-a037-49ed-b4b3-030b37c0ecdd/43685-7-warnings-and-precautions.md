@@ -25,7 +25,7 @@ Renal impairment, including cases of acute renal failure and Fanconi syndrome (r
 
 It is recommended that creatinine clearance be calculated in all individuals prior to initiating therapy and as clinically appropriate during therapy with TRUVADA.
 
-Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in all individuals at risk for renal impairment, including individuals who have previously experienced renal events while receiving HEPSERA.
+Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in all individuals at risk for renal impairment, including individuals who have previously experienced renal events while receiving HEPSERA®.
 
 TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent.
 
@@ -43,10 +43,10 @@ If a decrease in creatinine clearance is observed in uninfected individuals whil
 ## 5.4 Coadministration with Other Products
 
 TRUVADA is a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate.
-Do not coadminister TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, or VIREAD.
+Do not coadminister TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, STRIBILD, or VIREAD.
 Due to similarities between emtricitabine and lamivudine, do not coadminister TRUVADA with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
 
-Do not coadminister TRUVADA with HEPSERA® (adefovir dipivoxil).
+Do not coadminister TRUVADA with HEPSERA (adefovir dipivoxil).
 
 ## 5.5 Decreases in Bone Mineral Density
 

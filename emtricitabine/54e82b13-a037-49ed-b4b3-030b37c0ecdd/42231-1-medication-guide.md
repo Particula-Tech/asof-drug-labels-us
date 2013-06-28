@@ -47,7 +47,7 @@ TRUVADA can cause serious side effects, including:
   - If you stop taking TRUVADA, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your HBV infection.
     Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking TRUVADA.
 
-For more information about side effects, see the section "What are the possible side effects of TRUVADA?"
+For more information about side effects, see the section "What are the possible side effects of TRUVADA?".
 
 Before taking TRUVADA to help prevent you from getting HIV:
 
@@ -125,7 +125,7 @@ Do not take TRUVADA to prevent HIV infection if you are HIV positive or if your 
 
 What should I tell my healthcare provider before taking TRUVADA?
 
-See "What is the most important information I should know about TRUVADA?"
+See "What is the most important information I should know about TRUVADA?".
 
 Before taking TRUVADA, tell your healthcare provider if you:
 
@@ -150,9 +150,9 @@ TRUVADA may affect the way other medicines work, and other medicines may affect 
 
 Do not take TRUVADA if you also take:
 
-- other medicines that contain tenofovir or emtricitabine (ATRIPLA, COMPLERA, EMTRIVA, VIREAD)
+- other medicines that contain tenofovir or emtricitabine (ATRIPLA®, COMPLERA®, EMTRIVA, STRIBILD®, VIREAD)
 - medicines that contain lamivudine (Combivir, Epivir, Epivir-HBV, Epzicom, Trizivir)
-- adefovir (HEPSERA)
+- adefovir (HEPSERA®)
 
 Especially tell your healthcare provider if you take:
 
@@ -172,7 +172,7 @@ How should I take TRUVADA?
   If you have kidney problems, your healthcare provider may tell you to take TRUVADA less often.
 - When used to treat HIV-1 infection, TRUVADA is always used with other HIV-1 medicines.
 - If you take TRUVADA to reduce the risk of getting HIV-1, you must also use other methods to reduce your risk of getting HIV.
-  See "What is the most important information I should know about TRUVADA?"
+  See "What is the most important information I should know about TRUVADA?".
 - Take TRUVADA by mouth, with or without food.
 - Take TRUVADA at the same time each day.
 - If you miss a dose of TRUVADA, take it as soon as you remember that day.
@@ -189,7 +189,7 @@ What are the possible side effects of TRUVADA?
 
 TRUVADA may cause the following serious side effects, including:
 
-- See "What is the most important information I should know about TRUVADA?"
+- See "What is the most important information I should know about TRUVADA?".
 - New or worse kidney problems, including kidney failure.
   If you have had kidney problems in the past or need to take another medicine that can cause kidney problems, your healthcare provider may need to do blood tests to check your kidneys before you start and while you are taking TRUVADA.
   Your healthcare provider may tell you to take TRUVADA less often, or to stop taking TRUVADA if you have kidney problems.
@@ -206,7 +206,7 @@ TRUVADA may cause the following serious side effects, including:
 
 The most common side effects of TRUVADA in people with HIV-1 infection include:
 
-| Diarrheanauseatirednessheadache | dizzinessdepressionproblems sleepingabnormal dreamsrash |
+| diarrheanauseatirednessheadache | dizzinessdepressionproblems sleepingabnormal dreamsrash |
 | --- | --- |
 
 Common side effects in people who take TRUVADA to prevent HIV-1 infection include:
@@ -245,7 +245,7 @@ For more information, call 1-800-445-3235 or go to www.TRUVADA.com.
 
 What are the ingredients in TRUVADA?
 
-Active ingredients: emtricitabine and tenofovir disoproxil fumarate
+Active ingredients: emtricitabine and tenofovir disoproxil fumarate.
 
 Inactive ingredients: Croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch (gluten free).
 The tablets are coated with Opadry II Blue Y-30-10701 which contains FD&C Blue #2 aluminum lake, hydroxypropyl methylcellulose 2910, lactose monohydrate, titanium dioxide, and triacetin.

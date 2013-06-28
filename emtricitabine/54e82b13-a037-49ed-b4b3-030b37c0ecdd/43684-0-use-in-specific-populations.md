@@ -52,7 +52,9 @@ Tenofovir-associated risks, including the risk of viral resistance to tenofovir,
 
 ## 8.4 Pediatric Use
 
-TRUVADA should only be administered to HIV-1 infected pediatric patients 12 years of age and older with body weight greater than or equal to 35 kg (greater than or equal to 77 lb) because it is a fixed-dose combination tablet containing a component, VIREAD, for which safety and efficacy have not been established in pediatric patients less than 12 years of age or weighing less than 35 kg (less than 77 lb) [See Warnings and Precautions (5.5), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+TRUVADA should only be administered to HIV-1 infected pediatric patients 12 years of age and older with body weight greater than or equal to 35 kg.
+Because it is a fixed-dose combination tablet, TRUVADA cannot be adjusted for patients of lower age and weight.
+Safety and efficacy have not been established in pediatric patients less than 12 years of age or weighing less than 35 kg [See Warnings and Precautions (5.5), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -61,7 +63,7 @@ In general, dose selection for the elderly patients should be cautious, keeping 
 
 ## 8.6 Patients with Impaired Renal Function
 
-Treatment of HIV-1 infection
+Treatment of HIV-1 Infection
 
 The dosing interval for TRUVADA should be modified in HIV-infected adult patients with creatinine clearance of 30–49 mL/min.
 TRUVADA should not be used in patients with creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis.
