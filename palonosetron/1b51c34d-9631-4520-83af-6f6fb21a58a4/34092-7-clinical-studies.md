@@ -98,9 +98,9 @@ Results for Complete Response in Study 1 for 0.075 mg ALOXI versus placebo are d
 
 Table 6: Prevention of Postoperative Nausea and Vomiting: Complete Response (CR), Study 1, ALOXI 0.075 mg Vs Placebo
 
-| Δ | p-value* |  |  |
-| --- | --- | --- | --- |
 | Treatment | n/N (%) | ALOXI Vs Placebo |  |
+| --- | --- | --- | --- |
+| Δ | p-value* |  |  |
 | Co-primary Endpoints |  |  |  |
 | Complete Response 0-24 hours |  |  |  |
 | ALOXI | 59/138 (42.8%) | 16.8% | 0.004 |
