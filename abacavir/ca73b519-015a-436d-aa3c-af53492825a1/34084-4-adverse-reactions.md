@@ -2,12 +2,12 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious and sometimes fatal hypersensitivity reaction.
+- •Serious and sometimes fatal hypersensitivity reaction.
   In one trial, once-daily dosing of abacavir was associated with more severe hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.1)].
-- Lactic acidosis and severe hepatomegaly [see Boxed Warning, Warnings and Precautions (5.2)].
-- Immune reconstitution syndrome [see Warnings and Precautions (5.3)].
-- Fat redistribution [see Warnings and Precautions (5.4)].
-- Myocardial infarction [see Warnings and Precautions (5.5)].
+- •Lactic acidosis and severe hepatomegaly [see Boxed Warning, Warnings and Precautions (5.2)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.3)].
+- •Fat redistribution [see Warnings and Precautions (5.4)].
+- •Myocardial infarction [see Warnings and Precautions (5.5)].
 
 ## 6.1 Clinical Trials Experience
 

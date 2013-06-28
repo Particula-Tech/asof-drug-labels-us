@@ -36,10 +36,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in Ireland
+Made in UK
 
-10000000082792 Rev.
-9/10
+10000000095110 Rev.
+5/11
 
 PRINCIPAL DISPLAY PANEL
 

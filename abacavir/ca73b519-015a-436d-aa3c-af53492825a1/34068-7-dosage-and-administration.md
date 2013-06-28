@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-- A Medication Guide and Warning Card that provide information about recognition of hypersensitivity reactions should be dispensed with each new prescription and refill.
-- ZIAGEN may be taken with or without food.
+- •A Medication Guide and Warning Card that provide information about recognition of hypersensitivity reactions should be dispensed with each new prescription and refill.
+- •ZIAGEN may be taken with or without food.
 
 ## 2.1 Adult Patients
 
