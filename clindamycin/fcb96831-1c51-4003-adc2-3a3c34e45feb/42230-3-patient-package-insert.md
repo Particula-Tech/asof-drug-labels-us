@@ -21,9 +21,9 @@ Who should not use EVOCLIN Foam?
 
 Do not use EVOCLIN Foam if you:
 
-- have Crohn’s disease
-- have ulcerative colitis
-- have had inflammation of the colon (colitis) or severe diarrhea with past antibiotic use
+- •have Crohn’s disease
+- •have ulcerative colitis
+- •have had inflammation of the colon (colitis) or severe diarrhea with past antibiotic use
 
 Tell your doctor if you are not sure if you have any of the conditions listed above.
 
@@ -31,13 +31,13 @@ What should I tell my doctor before using EVOCLIN Foam?
 
 Before you use EVOCLIN Foam, tell your doctor if you:
 
-- have a history of eczema
-- are planning to have surgery.
+- •have a history of eczema
+- •are planning to have surgery.
   EVOCLIN Foam may affect how certain medicines work that may be given during surgery.
-- have any other medical conditions
-- are pregnant or planning to become pregnant.
+- •have any other medical conditions
+- •are pregnant or planning to become pregnant.
   It is not known if EVOCLIN Foam may harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if EVOCLIN Foam passes through your breast milk.
   You and your doctor should decide if you will use EVOCLIN Foam or breastfeed.
   If you use EVOCLIN Foam while breastfeeding and EVOCLIN Foam is applied on the chest, take care to avoid getting EVOCLIN Foam into your baby’s mouth.
@@ -52,25 +52,25 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
 
 How should I use EVOCLIN Foam?
 
-- EVOCLIN Foam is for use on the skin only.
+- •EVOCLIN Foam is for use on the skin only.
   Do not get EVOCLIN Foam in your eyes, mouth or vagina.
-- Use EVOCLIN Foam exactly as your doctor tells you to use it.
+- •Use EVOCLIN Foam exactly as your doctor tells you to use it.
   See the “Instructions for Applying EVOCLIN Foam” below.
-- Apply EVOCLIN Foam 1 time a day.
-- Wash your skin with mild soap and water and dry before applying EVOCLIN Foam.
-- Do not dispense EVOCLIN Foam directly onto your hands or face, because the foam will begin to melt on contact with warm skin.
+- •Apply EVOCLIN Foam 1 time a day.
+- •Wash your skin with mild soap and water and dry before applying EVOCLIN Foam.
+- •Do not dispense EVOCLIN Foam directly onto your hands or face, because the foam will begin to melt on contact with warm skin.
 
 Instructions for Applying EVOCLIN Foam.
 
-- Remove the clear cap from the EVOCLIN Foam can (See Figure A).
+- •Remove the clear cap from the EVOCLIN Foam can (See Figure A).
 
 Figure A: Remove clear cap.
 
-- Line up the black circle with the nozzle (See Figure B).
+- •Line up the black circle with the nozzle (See Figure B).
 
 Figure B: Line up the black circle with the nozzle.
 
-- Hold the can upright and firmly press the nozzle to dispense EVOCLIN Foam (See Figure C).
+- •Hold the can upright and firmly press the nozzle to dispense EVOCLIN Foam (See Figure C).
 
 Figure C: Hold can upright and press nozzle firmly to dispense.
 
@@ -78,43 +78,43 @@ Dispense EVOCLIN Foam into the clear cap or onto a cool surface (see Figure D).
 
 Figure D: Dispense EVOCLIN Foam into clear cap.
 
-- Dispense enough EVOCLIN Foam to cover the affected area (see Figure E).
+- •Dispense enough EVOCLIN Foam to cover the affected area (see Figure E).
 
 Figure E: Dispense enough EVOCLIN Foam to cover affected area.
 
-- If the can seems warm or the foam seems runny, run the can under cold water (See Figure F).
+- •If the can seems warm or the foam seems runny, run the can under cold water (See Figure F).
 
 Figure F: If the can seems warm or the foam is runny, run the can under cold water.
 
-- Pick up small amounts of EVOCLIN Foam with your fingertips and gently rub the foam into the affected area until the foam disappears (See Figure G).
+- •Pick up small amounts of EVOCLIN Foam with your fingertips and gently rub the foam into the affected area until the foam disappears (See Figure G).
 
 Figure G: Pick up a small amount of EVOCLIN Foam on your fingertips and gently rub into the affected area until the foam disappears.
 
-- Wash your hands after applying EVOCLIN.
+- •Wash your hands after applying EVOCLIN.
 
 Throw away any of the unused medicine that you dispensed out of the can.
 
 What should I avoid while using EVOCLIN Foam?
 
-- EVOCLIN Foam is flammable.
+- •EVOCLIN Foam is flammable.
   Avoid fire, flames, or smoking during and right after you apply EVOCLIN Foam to your skin.
-- Avoid getting EVOCLIN Foam in or near your eyes, mouth, lips, or broken skin.
+- •Avoid getting EVOCLIN Foam in or near your eyes, mouth, lips, or broken skin.
   If you get EVOCLIN Foam in your eyes, mouth, on lips or broken skin, rinse well with water.
 
 What are possible side effects with EVOCLIN Foam?
 
 EVOCLIN Foam can cause serious side effects including:
 
-- Inflammation of the colon (colitis).
+- •Inflammation of the colon (colitis).
   Clindamycin can cause severe colitis that may lead to death.
   Stop using EVOCLIN Foam and call your doctor right away if you have severe watery diarrhea, or bloody diarrhea.
 
 The most common side effects of EVOCLIN Foam include:
 
-- Skin irritation.
+- •Skin irritation.
   EVOCLIN Foam may cause skin irritation such as burning, itching, or dryness.
   Stop using EVOCLIN Foam and talk with your doctor if you develop any excessive skin irritation.
-- Headache.
+- •Headache.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -127,11 +127,11 @@ You may report side effects to Stiefel at 1-888-784-3335 (1-888- STIEFEL).
 
 How should I store EVOCLIN Foam?
 
-- Store EVOCLIN Foam at room temperature between 68°F to 77°F (20°C to 25°C).
-- Keep EVOCLIN Foam away from heat.
+- •Store EVOCLIN Foam at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Keep EVOCLIN Foam away from heat.
   Never throw the can into a fire, even if the can is empty.
-- Do not store EVOCLIN Foam at temperatures above 120°F (49°C).
-- Do not break through (puncture) the EVOCLIN Foam can.
+- •Do not store EVOCLIN Foam at temperatures above 120°F (49°C).
+- •Do not break through (puncture) the EVOCLIN Foam can.
 
 Keep EVOCLIN Foam and all medicines out of the reach of children.
 
