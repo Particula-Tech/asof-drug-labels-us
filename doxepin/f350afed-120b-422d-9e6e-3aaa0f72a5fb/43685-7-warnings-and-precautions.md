@@ -35,19 +35,19 @@ Consideration should be given to changing the therapeutic regimen, including pos
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for Doxepin Hydrochloride Oral Solution should be written for the smallest quantity of liquid consistent with good patient management, in order to reduce the risk of overdose.
-Screening Patients for Bipolar Disorder : A major depressive episode may be the initial presentation of bipolar disorder.
+Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Doxepin Hydrochloride Oral Solution is not approved for use in treating bipolar depression.
 The once-a-day dosage regimen of doxepin in patients with intercurrent illness or patients taking other medications should be carefully adjusted.
 This is especially important in patients receiving other medications with anticholinergic effects.
-Usage in Geriatrics : The use of doxepin on a once-a-day dosage regimen in geriatric patients should be adjusted carefully based on the patient's condition - (see PRECAUTIONS – Geriatric Use).
-Usage in Pregnancy : Reproduction studies have been performed in rats, rabbits, monkeys and dogs and there was no evidence of harm to the animal fetus.
+Usage in Geriatrics: The use of doxepin on a once-a-day dosage regimen in geriatric patients should be adjusted carefully based on the patient's condition - (see PRECAUTIONS – Geriatric Use).
+Usage in Pregnancy: Reproduction studies have been performed in rats, rabbits, monkeys and dogs and there was no evidence of harm to the animal fetus.
 The relevance to humans is not known.
 Since there is no experience in pregnant women who have received this drug, safety in pregnancy has not been established.
 There has been a report of apnea and drowsiness occurring in a nursing infant whose mother was taking doxepin.
-Usage in Children : The use of doxepin hydrochloride oral solution in children under 12 years of age is not recommended because safe conditions for its use have not been established.
+Usage in Children: The use of doxepin hydrochloride oral solution in children under 12 years of age is not recommended because safe conditions for its use have not been established.
 
 # PRECAUTIONS
 
@@ -112,7 +112,7 @@ Sedating drugs may cause confusion and over sedation in the elderly; elderly pat
 Suicide: Since suicide is an inherent risk in any depressed patient and may remain so until significant improvement has occurred, patients should be closely supervised during the early course of therapy.
 Prescriptions should be written for the smallest feasible amount.
 
-Psychosis : Should increased symptoms of psychosis or shift to manic symptomatology occur, it may be necessary to reduce dosage or add a major tranquilizer to the dosage regimen.
+Psychosis: Should increased symptoms of psychosis or shift to manic symptomatology occur, it may be necessary to reduce dosage or add a major tranquilizer to the dosage regimen.
 
 Geriatric Use: A determination has not been made whether controlled clinical studies of doxepin included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
