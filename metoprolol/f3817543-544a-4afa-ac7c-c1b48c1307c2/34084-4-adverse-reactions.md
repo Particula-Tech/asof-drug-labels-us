@@ -66,12 +66,11 @@ Central Nervous System: Reversible mental depression progressing to catatonia; a
 
 Cardiovascular: Intensification of AV block (see CONTRAINDICATIONS).
 
-Hematologic: Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
+Hematologic: Agranulocytosis, nonthrombocytopenic purpura and thrombocytopenic purpura.
 
-Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm, and respiratory distress.
+Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm and respiratory distress.
 
 ## Postmarketing Experience
 
 The following adverse reactions have been reported during postapproval use of metoprolol tartrate: confusional state, an increase in blood triglycerides and decrease in High Density Lipoprotein (HDL).
-
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.
