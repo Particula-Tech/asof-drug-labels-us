@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 Adverse events occurring in approximately 10-30% of the subjects, in descending order of incidence, included oral dryness, ocular hyperemia, burning and stinging, headache, blurring, foreign body sensation, fatigue/drowsiness, conjunctival follicles, ocular allergic reactions, and ocular pruritus.
 
