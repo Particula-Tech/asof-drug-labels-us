@@ -68,4 +68,4 @@ Bausch & Lomb Incorporated Tampa, FL 33637
 
 ©Bausch & Lomb Incorporated
 
-9118301 (FOLDED) 9118201 (FLAT)
+9118302 (FOLDED) 9118202 (FLAT)

@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 The recommended dosage regimen for the treatment of bacterial conjunctivitis is:
 
@@ -16,4 +16,4 @@ Days 3 through 7 to 9 Instill one to two drops hourly, while awake.
 
 Days 7 to 9 through Instill one to two drops, four times daily. treatment completion
 
-DO NOT USE IF IMPRINTED “Protective Seal” WITH YELLOW (mortar and pestle symbol) IS NOT INTACT.
+DO NOT USE IF IMPRINTED “Protective Seal” WITH YELLOW IS NOT INTACT.

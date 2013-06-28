@@ -1,6 +1,6 @@
 # WARNINGS
 
-NOT FOR INJECTION.
+NOT FOR INJECTION
 
 Ofloxacin ophthalmic solution should not be injected subconjunctivally, nor should it be introduced directly into the anterior chamber of the eye.
 

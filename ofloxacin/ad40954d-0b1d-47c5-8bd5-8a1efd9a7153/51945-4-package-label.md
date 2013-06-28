@@ -6,6 +6,8 @@ Bausch & Lomb
 
 Ofloxacin Ophthalmic Solution 0.3% (Sterile)
 
-Rx only
+[icon-eye] [icon-0.3%] [icon-10 mL] [icon-solution]
 
-[icon- eye] [icon- 0.3%] [icon- solution] [icon- 10 mL]
+10 mL
+
+Rx only

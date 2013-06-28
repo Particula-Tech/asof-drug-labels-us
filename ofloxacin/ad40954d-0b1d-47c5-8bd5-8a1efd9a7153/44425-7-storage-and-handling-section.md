@@ -4,4 +4,4 @@ KEEP OUT OF REACH OF CHILDREN.
 
 FOR OPHTHALMIC USE ONLY.
 
-Revised August 2007
+Revised: November 2012

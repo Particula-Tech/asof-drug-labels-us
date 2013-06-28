@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 ## Pharmacokinetics:
 
@@ -7,10 +7,10 @@ The mean serum ofloxacin concentration ranged from 0.4 ng/mL to 1.9 ng/mL.
 Maximum ofloxacin concentration increased from 1.1 ng/mL on day one to 1.9 ng/mL on day 11 after QID dosing for 10 1/2 days.
 Maximum serum ofloxacin concentrations after ten days of topical ophthalmic dosing were more than 1000 times lower than those reported after standard oral doses of ofloxacin.
 
-Tear ofloxacin concentrations ranged from 5.7 to 31 μg/g during the 40 minute period following the last dose on day 11.
-Mean tear concentration measured four hours after topical ophthalmic dosing was 9.2 μg/g.
+Tear ofloxacin concentrations ranged from 5.7 to 31 mcg/g during the 40 minute period following the last dose on day 11.
+Mean tear concentration measured four hours after topical ophthalmic dosing was 9.2 mcg/g.
 
-Corneal tissue concentrations of 4.4 μg/mL were observed four hours after beginning topical ocular application of two drops of ofloxacin ophthalmic solution every 30 minutes.
+Corneal tissue concentrations of 4.4 mcg/mL were observed four hours after beginning topical ocular application of two drops of ofloxacin ophthalmic solution every 30 minutes.
 Ofloxacin was excreted in the urine primarily unmodified.
 
 ## Microbiology:

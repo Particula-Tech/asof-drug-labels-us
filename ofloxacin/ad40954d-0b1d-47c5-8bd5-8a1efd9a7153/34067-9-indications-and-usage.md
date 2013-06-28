@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
 Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:
 
