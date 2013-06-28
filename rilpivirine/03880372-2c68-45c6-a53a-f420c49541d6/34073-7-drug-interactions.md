@@ -36,8 +36,8 @@ Table 4: Established and Other Potentially Significant Drug Interactions: Altera
 | Narcotic Analgesics: methadone | ↓ R(-) methadone ↓ S(+) methadone | No dose adjustments are required when initiating co-administration of methadone with EDURANT. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
 | ↑ = increase, ↓ = decrease, ↔ = no change |  |  |
 
-In addition to the drugs included in Table 4, the interaction between EDURANT and the following drugs was evaluated in clinical studies and no dose adjustment is needed for either drug [see Clinical Pharmacology (12.3)]: acetaminophen, atorvastatin, chlorzoxazone, ethinylestradiol, norethindrone, sildenafil and tenofovir disoproxil fumarate.
-No clinically relevant drug-drug interaction is expected when EDURANT is co-administered with maraviroc, raltegravir, ribavirin or the NRTIs abacavir, emtricitabine, lamivudine, stavudine and zidovudine.
+In addition to the drugs included in Table 4, the interaction between EDURANT and the following drugs was evaluated in clinical studies and no dose adjustment is needed for either drug [see Clinical Pharmacology (12.3)]: acetaminophen, atorvastatin, chlorzoxazone, digoxin, ethinylestradiol, norethindrone, raltegravir, sildenafil, telaprevir and tenofovir disoproxil fumarate.
+No clinically relevant drug-drug interaction is expected when EDURANT is co-administered with maraviroc, ribavirin or the NRTIs abacavir, emtricitabine, lamivudine, stavudine and zidovudine.
 
 QT Prolonging Drugs
 

@@ -204,4 +204,4 @@ EDURANT® is a registered trademark of Johnson & Johnson
 
 © Janssen Products, LP 2011
 
-Issued December 2012
+Issued June 2013
