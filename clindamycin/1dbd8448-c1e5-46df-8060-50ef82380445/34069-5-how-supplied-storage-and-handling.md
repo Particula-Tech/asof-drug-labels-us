@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Clindamycin hydrochloride capsules are available in the following strengths, colors and sizes:
+Clindamycin hydrochloride capsules, USP are available in the following strengths, colors and sizes:
 
 Clindamycin hydrochloride capsules, USP, 150 mg are size ‘1’ capsules with turquoise blue opaque cap and light green body imprinted with “RX692” on cap and body in black ink containing white to off white powder.
 They are supplied as follows:
@@ -20,6 +20,6 @@ NDC 63304-693-01 Bottles of 100
 
 NDC 63304-693-77 Blister of 100
 
-Store at 20 - 25° C (68 - 77° F) [See USP Controlled Room Temperature].
+Store at 20° - 25° C (68° - 77° F) [See USP Controlled Room Temperature].
 
-You may report side effects to FDA at 1-800-FDA-1088.
+TO report SUSPECTED ADVERSE REACTIONS, contact the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

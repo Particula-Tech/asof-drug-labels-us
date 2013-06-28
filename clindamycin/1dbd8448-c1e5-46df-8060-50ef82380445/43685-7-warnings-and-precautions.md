@@ -72,7 +72,7 @@ Both tests were negative.
 
 Fertility studies in rats treated orally with up to 300 mg/kg/day (approximately 1.6 times the highest recommended adult human dose based on mg/m2) revealed no effects on fertility or mating ability.
 
-## Pregnancy: Teratogenic effects
+Pregnancy: Teratogenic effects
 
 Pregnancy Category B
 

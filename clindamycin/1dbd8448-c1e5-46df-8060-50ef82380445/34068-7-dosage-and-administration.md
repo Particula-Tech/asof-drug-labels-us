@@ -9,7 +9,7 @@ More severe infections - 16 to 20 mg/kg/day (8 to 10 mg/lb/day) divided into thr
 
 To avoid the possibility of esophageal irritation, clindamycin hydrochloride capsules should be taken with a full glass of water.
 
-Serious infections due to anaerobic bacteria are usually treated with clindamycin phosphate sterile solution.
+Serious infections due to anaerobic bacteria are usually treated with clindamycin injection.
 However, in clinically appropriate circumstances, the physician may elect to initiate treatment or continue treatment with clindamycin hydrochloride capsules.
 
 In cases of β-hemolytic streptococcal infections, treatment should continue for at least 10 days.

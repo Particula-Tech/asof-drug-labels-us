@@ -125,7 +125,8 @@ Susceptibility Interpretive Criteria for Clindamycin
 | Pathogen | Susceptibility Interpretive Criteria |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |  |
-| Staphylococcus spp. | S ≤ 0.5 | I 1 to 2 | R ≥ 4 | S ≥ 21 | I 15 to 20 | R ≤ 14 |
+|  | S | I | R | S | I | R |
+| Staphylococcus spp. | ≤ 0.5 | 1 to 2 | ≥ 4 | ≥ 21 | 15 to 20 | ≤ 14 |
 | Streptococcus pneumoniae and other Streptococcus spp. | ≤ 0.25 | 0.5 | ≥ 1 | ≥ 19 | 16 to 18 | ≤ 15 |
 | Anaerobic Bacteria | ≤ 2 | 4 | ≥ 8 | NA | NA | NA |
 

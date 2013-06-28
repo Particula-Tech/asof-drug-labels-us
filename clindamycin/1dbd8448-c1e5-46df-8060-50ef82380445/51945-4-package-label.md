@@ -16,10 +16,10 @@ For 300 mg Strength
 
 RANBAXY
 
-NDC 63304-693-16
+NDC 63304-693-01
 
 CLINDAMYCIN HYDROCHLORIDE CAPSULES, USP
 
 300 mg*
 
-Rx only 16 Capsules
+Rx only 100 Capsules

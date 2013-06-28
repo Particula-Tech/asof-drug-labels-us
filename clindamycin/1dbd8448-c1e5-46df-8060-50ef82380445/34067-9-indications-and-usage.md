@@ -1,10 +1,10 @@
 # INDICATIONS AND USAGE
 
-Clindamycin is indicated in the treatment of serious infections caused by susceptible anaerobic bacteria.
+Clindamycin hydrochloride capsules, USP are indicated in the treatment of serious infections caused by susceptible anaerobic bacteria.
 
-Clindamycin is also indicated in the treatment of serious infections due to susceptible strains of streptococci, pneumococci, and staphylococci.
+Clindamycin hydrochloride capsules, USP are also indicated in the treatment of serious infections due to susceptible strains of streptococci, pneumococci, and staphylococci.
 Its use should be reserved for penicillin-allergic patients or other patients for whom, in the judgment of the physician, a penicillin is inappropriate.
-Because of the risk of colitis, as described in the WARNING box, before selecting clindamycin, the physician should consider the nature of the infection and the suitability of less toxic alternatives (e.g., erythromycin).
+Because of the risk of colitis, as described in the WARNING box, before selecting clindamycin hydrochloride capsules, USP are the physician should consider the nature of the infection and the suitability of less toxic alternatives (e.g., erythromycin).
 
 Anaerobes: Serious respiratory tract infections such as empyema, anaerobic pneumonitis, and lung abscess; serious skin and soft tissue infections; septicemia; intra-abdominal infections such as peritonitis and intra-abdominal abscess (typically resulting from anaerobic organisms resident in the normal gastrointestinal tract); infections of the female pelvis and genital tract such as endometritis, nongonococcal tubo-ovarian abscess, pelvic cellulitis, and postsurgical vaginal cuff infection.
 
