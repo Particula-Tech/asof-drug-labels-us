@@ -8,7 +8,7 @@ The following serious adverse reactions are also discussed in other sections of 
 - Increased Risk of Hemorrhage [see Warnings and Precautions (5.1)]
 - Thrombocytopenia [see Warnings and Precautions (5.5)]
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 During clinical development for the approved indications, 15,918 patients were exposed to enoxaparin sodium.
 These included 1,228 for prophylaxis of deep vein thrombosis following abdominal surgery in patients at risk for thromboembolic complications, 1,368 for prophylaxis of deep vein thrombosis following hip or knee replacement surgery, 711 for prophylaxis of deep vein thrombosis in medical patients with severely restricted mobility during acute illness, 1,578 for prophylaxis of ischemic complications in unstable angina and non-Q-wave myocardial infarction, 10,176 for treatment of acute ST-elevation myocardial infarction, and 857 for treatment of deep vein thrombosis with or without pulmonary embolism.
@@ -164,6 +164,9 @@ In a clinical trial in patients with acute ST-segment elevation myocardial infar
 
 ## 6.2 Postmarketing Experience
 
+The following adverse reactions have been identified during postapproval use of enoxaparin sodium.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 There have been reports of epidural or spinal hematoma formation with concurrent use of enoxaparin sodium and spinal/epidural anesthesia or spinal puncture.
 The majority of patients had a post-operative indwelling epidural catheter placed for analgesia or received additional drugs affecting hemostasis such as NSAIDs.
 Many of the epidural or spinal hematomas caused neurologic injury, including long-term or permanent paralysis.
@@ -175,7 +178,4 @@ Most of these reports occurred in patients who also had conditions that tend tow
 Very rare cases of hyperlipidemia have also been reported, with one case of hyperlipidemia, with marked hypertriglyceridemia, reported in a diabetic pregnant woman; causality has not been determined.
 
 Cases of headache, hemorrhagic anemia, eosinophilia, alopecia, hepatocellular and cholestatic liver injury have been reported.
-
-Osteoporosis has also been reported following long-term therapy (greater than 3 months).
-
-Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
+Osteoporosis has also been reported following long-term therapy (greater than three months).
