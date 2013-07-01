@@ -102,9 +102,9 @@ Table 4: Summary of Primary Efficacy Results from 1-7 Week Studies of Vyvanse in
 | 3 (6 -12 years) | Average SKAMP-DS | Mean Pre-dose Score | 0.7 | - | - | - | 0.9 |
 |  |  | LS Mean difference from Placebo (95% CI)a | - | - | - | - | -0.7 (-0.9, -0.6) |
 | 4 (13 -17 years) | ADHD-RS-IV | Mean Baseline Score | 38.5 | 38.3 | 37.3 | 37.0 | - |
-|  |  | LS Mean difference from Placebo (95% CI)a |  | -5.5 (-9.7, -1.3) | -8.3 (-12.5, -4.1) | -7.9 (-12.1, -3.8) | - |
-| 5 (6-17 years) | ADHD-RS-IV | Mean Baseline Score | 41.0 |  |  |  | 40.7 |
-|  |  | LS Mean difference from Placebo (95% CI)a |  |  |  |  | -18.6 (-21.5, -15.7) |
+|  |  | LS Mean difference from Placebo (95% CI)a | - | -5.5 (-9.7, -1.3) | -8.3 (-12.5, -4.1) | -7.9 (-12.1, -3.8) | - |
+| 5 (6-17 years) | ADHD-RS-IV | Mean Baseline Score | 41.0 | - | - | - | 40.7 |
+|  |  | LS Mean difference from Placebo(95% CI)a | - | - | - | - | -18.6 (-21.5, -15.7) |
 | 7 (18 -55 years) | ADHD-RS-IV | Mean Baseline Score | 39.4 | 40.5 | 40.8 | 41.0 | - |
 |  |  | LS Mean difference from Placebo (95% CI)a | - | -8.0 (-12.1, -3.9) | -9.2 (-13.2, -5.1) | -10.4 (-14.5, -6.3) | - |
 | 8 (18 -55 years) | Average PERMP | Mean Pre-dose Score | 261.4 | - | - | - | 260.1 |

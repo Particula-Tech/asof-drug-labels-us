@@ -56,6 +56,16 @@ Call your doctor right away if you or your child has any new or worsening mental
 - believing things that are not real
 - being suspicious
 
+3.
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:
+
+- Fingers or toes may feel numb, cool, painful
+- Fingers or toes may change color from pale, to blue, to red
+
+Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
+
+Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Vyvanse.
+
 What Is Vyvanse?
 
 Vyvanse is a central nervous system stimulant prescription medicine.
@@ -77,6 +87,7 @@ Before you or your child takes Vyvanse, tell your doctor if you or your child ha
 
 - heart problems, heart defects, high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
+- circulation problems in fingers and toes
 
 Tell your doctor if:
 
@@ -185,4 +196,4 @@ Manufactured for: Shire US Inc., Wayne, PA 19087.
 
 © 2013 Shire US Inc.
 
-Revised April 2013
+Revised June 2013

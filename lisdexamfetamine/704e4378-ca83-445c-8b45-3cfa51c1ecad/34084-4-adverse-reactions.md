@@ -6,6 +6,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Suppression of Growth [see Warnings and Precautions (5.5)]
+- Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -91,7 +92,7 @@ In a 4-week controlled trial of Vyvanse in adolescents ages 13 to 17 years, mean
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e. treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 In a controlled trial of amphetamine (d- to l-enantiomer ratio of 3:1) in adolescents, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 pounds and –2.8 pounds, respectively, for patients receiving 10 mg and 20 mg of amphetamine.
 Higher doses were associated with greater weight loss within the initial 4 weeks of treatment.
-[see Warnings and Precautions, 5.5]
+[see Warnings and Precautions (5.5)]
 
 Weight Loss in Adults
 

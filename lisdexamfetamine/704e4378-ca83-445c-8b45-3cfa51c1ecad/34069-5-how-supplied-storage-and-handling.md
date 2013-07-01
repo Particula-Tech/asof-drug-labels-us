@@ -18,7 +18,7 @@ Vyvanse capsules 70 mg: blue body/orange cap (imprinted with S489 and 70 mg), bo
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
-Store at 25º C (77º F). Excursions permitted to 15-30º C (59-86º F) [see USP Controlled Room Temperature]
+Store at 25º C (77º F). Excursions permitted to 15-30º C (59-86º F) [see USP Controlled Room Temperature].
 
 Disposal
 

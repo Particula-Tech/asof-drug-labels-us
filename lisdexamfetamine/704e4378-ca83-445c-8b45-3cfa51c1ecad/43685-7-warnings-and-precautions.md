@@ -34,3 +34,12 @@ CNS stimulants have been associated with weight loss and slowing of growth rate 
 Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including Vyvanse.
 In a 4-week, placebo-controlled trial of Vyvanse in patients ages 6 to 12 years old, there was a dose-related decrease in weight in the Vyvanse groups compared to weight gain in the placebo group.
 Additionally, in studies of another stimulant, there was slowing of the increase in height [see Adverse Reactions (6.1)].
+
+## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
+
+Stimulants, including Vyvanse, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
