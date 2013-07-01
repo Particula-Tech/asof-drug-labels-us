@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202351"
+  ],
+  "inn": "topotecan",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-151-31"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "topotecan hydrochloride",
+      "name": "topotecan hydrochloride"
+    }
+  ],
+  "setid": "729b2b22-1344-44f3-b614-14f6ec3c263e",
+  "source": "dailymed"
+}
