@@ -7,9 +7,9 @@ Chemically, cyclosporine is designated as [R-[R*,R*-(E)]]-cyclic(L-alanyl-D-alan
 
 Cyclosporine capsules, USP are available in 25 mg and 100 mg strengths.
 
-Each 25 mg capsule contains: cyclosporine, USP……………………………………………………………………...25 mg
+Each 25 mg capsule contains: Cyclosporine, USP……………………………………………………………………...25 mg
 
-Each 100 mg capsule contains: cyclosporine, USP……………………………………………………..……………...100 mg
+Each 100 mg capsule contains: Cyclosporine, USP……………………………………………………..……………...100 mg
 
 Each capsule contains the following inactive ingredients: methanol, purified water, sodium lauryl sulfate and talc.
 The 25 mg and the 100 mg capsule shell contains gelatin, red iron oxide and titanium dioxide.

@@ -103,7 +103,7 @@ Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepati
 
 Increased Risk of Infections
 
-Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS/Polyoma Virus Infection).
+Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS/ Polyoma Virus Infection).
 
 Headache, including Migraine
 
