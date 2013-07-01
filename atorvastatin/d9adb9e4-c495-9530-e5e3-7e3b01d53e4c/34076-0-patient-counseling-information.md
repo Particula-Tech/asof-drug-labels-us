@@ -36,10 +36,10 @@ Toronto, ON Weston, Florida
 
 Canada, M9L 1T9 33326
 
-Revised: December 2012
+Revised: June 2013
 
 Rev.
-5
+6
 
 PATIENT INFORMATION
 
@@ -138,7 +138,7 @@ How Should I Take Atorvastatin Calcium Tablets?
 What Should I Avoid While Taking Atorvastatin Calcium Tablets?
 
 - Talk to your doctor before you start any new medicines.
-  This includes prescription and non-prescription medicines, vitamins, and herbal supplements.
+  This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
   Atorvastatin calcium tablets and certain other medicines can interact causing serious side effects.
 - Do not get pregnant.
   If you get pregnant, stop taking atorvastatin calcium tablets right away and call your doctor.
@@ -165,7 +165,8 @@ These serious side effects include:
 
 Call your doctor right away if you have:
 
-- muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.This may be an early sign of a rare muscle problem.
+- muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.
+  This may be an early sign of a rare muscle problem.
 - muscle problems that do not go away even after your doctor has advised you to stop taking atorvastatin calcium tablets.
   Your doctor may do further tests to diagnose the cause of your muscle problems.
 - allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away.
@@ -217,7 +218,7 @@ Toronto, ON Weston, Florida
 
 Canada, M9L 1T9 33326
 
-Revised: December 2012
+Revised: June 2013
 
 Rev.
-5
+6

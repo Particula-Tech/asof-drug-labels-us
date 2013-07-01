@@ -10,9 +10,9 @@ Bottles of 90 (NDC 60505-2578-9)
 
 Bottles of 500 (NDC 60505-2578-5)
 
-Bottles of 1000 (NDC 60505-2578-8)
+Bottles of 1,000 (NDC 60505-2578-8)
 
-Bottles of 5000 (NDC60505-2578-7)
+Bottles of 5,000 (NDC60505-2578-7)
 
 Blister of 100 (NDC 60505-2578-0)
 
@@ -24,9 +24,9 @@ Bottles of 90 (NDC 60505-2579-9)
 
 Bottles of 500 (NDC 60505-2579-5)
 
-Bottles of 1000 (NDC 60505-2579-8)
+Bottles of 1,000 (NDC 60505-2579-8)
 
-Bottles of 5000 (NDC 60505-2579-7)
+Bottles of 5,000 (NDC 60505-2579-7)
 
 Blister of 100 (NDC 60505-2579-0)
 
@@ -38,9 +38,9 @@ Bottles of 90 (NDC 60505-2580-9)
 
 Bottles of 500 (NDC 60505-2580-5)
 
-Bottles of 1000 (NDC 60505-2580-8)
+Bottles of 1,000 (NDC 60505-2580-8)
 
-Bottles of 4000 (NDC 60505-2580-7)
+Bottles of 4,000 (NDC 60505-2580-7)
 
 Blister of 100 (NDC 60505-2580-0)
 
@@ -52,9 +52,9 @@ Bottles of 90 (NDC 60505-2671-9)
 
 Bottles of 500 (NDC60505-2671-5)
 
-Bottles of 1000 (NDC 60505-2671-8)
+Bottles of 1,000 (NDC 60505-2671-8)
 
-Bottles of 2500 (NDC 60505-2671-7)
+Bottles of 2,500 (NDC 60505-2671-7)
 
 Blister of 100 (NDC 60505-2672-0)
 

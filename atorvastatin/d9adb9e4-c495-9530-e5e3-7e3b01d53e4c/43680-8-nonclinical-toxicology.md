@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 2-year carcinogenicity study in rats at dose levels of 10, 30, and 100 mg/kg/day, 2 rare tumors were found in muscle in high-dose females: in one, there was a rhabdomyosarcoma and, in another, there was a fibrosarcoma.
 This dose represents a plasma AUC (0 to 24) value of approximately 16 times the mean human plasma drug exposure after an 80 mg oral dose.
