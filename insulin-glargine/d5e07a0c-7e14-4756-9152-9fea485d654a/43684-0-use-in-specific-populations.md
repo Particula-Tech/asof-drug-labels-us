@@ -33,12 +33,7 @@ As in adults, the dosage of LANTUS must be individualized in pediatric patients 
 ## 8.5 Geriatric Use
 
 In controlled clinical studies comparing LANTUS to NPH insulin, 593 of 3890 patients (15%) with type 1 and type 2 diabetes were ≥65 years of age and 80 (2%) patients were ≥75 years of age.
-In these trials, the only difference in safety or effectiveness in the subpopulation of patients ≥65 years of age compared to the entire study population was a higher incidence of cardiovascular events typically seen in an older population in both LANTUS and NPH insulin-treated patients.
-
-In the ORIGIN trial participants were required to be at least 50 years and older.
-At entry, 5286 (42.2%) participants were ≥65 years of age and 1034 (8.2%) participants were ≥75 years of age.
-There was no difference between treatment groups in the time to the first occurrence of primary outcome events for the subgroup of participants aged ≥65yrs or the subgroup with age <65 years old.
-[See Clinical Studies (14)].
+The only difference in safety or effectiveness in the subpopulation of patients ≥65 years of age compared to the entire study population was a higher incidence of cardiovascular events typically seen in an older population in both LANTUS and NPH insulin-treated patients.
 
 Nevertheless, caution should be exercised when LANTUS is administered to geriatric patients.
 In elderly patients with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to avoid hypoglycemic reactions.

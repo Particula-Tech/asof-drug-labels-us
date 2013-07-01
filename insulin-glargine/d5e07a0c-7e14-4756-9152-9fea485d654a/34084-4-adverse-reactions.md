@@ -60,8 +60,8 @@ Table 4: Treatment –emergent adverse events in a 28-week clinical trial of chi
 - Severe Hypoglycemia
 
 Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including LANTUS [See Warnings and Precautions (5.3)].
-Tables 5, 6 and 7 summarize the incidence of severe hypoglycemia in the LANTUS individual clinical trials.
-Severe symptomatic hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose below 50 mg/dL (≤56 mg/dL in the 5-year trial and ≤36 mg/dL in the ORIGIN Trial) or prompt recovery after oral carbohydrate, intravenous glucose or glucagon administration.
+Tables 5 and 6 summarize the incidence of severe hypoglycemia in the LANTUS individual clinical trials.
+Severe symptomatic hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose below 50 mg/dL (≤56 mg/dL in the 5-year trial) or prompt recovery after oral carbohydrate, intravenous glucose or glucagon administration.
 
 The rates of severe symptomatic hypoglycemia in the LANTUS clinical trials (see Section 14 for a description of the study designs) were comparable for all treatment regimens (see Tables 5 and 6).
 In the pediatric phase 3 clinical trial, children and adolescents with type 1 diabetes had a higher incidence of severe symptomatic hypoglycemia in the two treatment groups compared to the adult trials with type 1 diabetes.
@@ -81,20 +81,6 @@ Table 6: Severe Symptomatic Hypoglycemia in Patients with Type 2 Diabetes
 |  | Study E Type 2 Diabetes Adults 52 weeks In combination with oral agents |  | Study F Type 2 Diabetes Adults 28 weeks In combination with regular insulin |  | Study G Type 2 Diabetes Adults 5 years In combination with regular insulin |  |
 | Percent of patients (n/total N) | 1.7 (5/289) | 1.1 (3/281) | 0.4 (1/259) | 2.3 (6/259) | 7.8 (40/513) | 11.9 (60/504) |
 
-The ORIGIN trial was conducted in 12,537 participants at high cardiovascular risk, with impaired fasting glucose (IFG), impaired glucose tolerance (IGT) or early (antidiabetic drug treatment limited to none or at most one OAD) type 2 diabetes mellitus.
-It compared once-daily LANTUS to standard management of hyperglycemia ("Standard Care").
-Overall, severe hypoglycemia was reported for 3.7% of these participants over the course of this 6 year study (approximately 0.6% per participants year) while participants had a median HbA1c below 6.5% throughout follow-up [See Clinical Studies (14)].
-
-Table 7 displays the incidence and rate (affected participants per 100 participants-years of exposure) of severe symptomatic hypoglycemia in the Lantus and Standard Care groups in the ORIGIN Trial.
-
-Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN trial
-
-|  | LANTUS | Standard Care |
-| --- | --- | --- |
-|  | ORIGIN Trial Early Type 2 Diabetes, IFG/IGT at high CV risk Adults 6.2 years |  |
-| Number of participants with at least one episode (N=total number of participants) | 352 (6231) | 113 (6273) |
-| Number per 100 participant-years | 1.05 | 0.30 |
-
 - Retinopathy
 
 Retinopathy was evaluated in the LANTUS clinical studies by analysis of reported retinal adverse events and fundus photography.
@@ -108,7 +94,7 @@ Patients with pre-specified post-baseline eye procedures (pan-retinal photocoagu
 Retinopathy graders were blinded to treatment group assignment.
 The results for the primary endpoint are shown in Table 7 for both the per-protocol and Intent-to-Treat populations, and indicate similarity of Lantus to NPH in the progression of diabetic retinopathy as assessed by this outcome.
 
-Table 8.
+Table 7.
 Number (%) of patients with 3 or more step progression on ETDRS scale at endpoint
 
 |  | Lantus (%) | NPH (%) | DifferenceDifference = Lantus – NPH,using a generalized linear model (SAS GENMOD) with treatment and baseline HbA1c strata (cutoff 9.0%) as the classified independent variables, and with binomial distribution and identity link function (SE) | 95% CI for difference |
