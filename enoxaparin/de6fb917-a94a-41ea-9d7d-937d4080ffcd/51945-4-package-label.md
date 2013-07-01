@@ -1,0 +1,143 @@
+PRINCIPAL DISPLAY PANEL - 30mg/0.3mL Syringe Carton
+
+NDC 0075-8013-10
+
+Lovenox® (enoxaparin sodium injection)
+
+30mg/0.3mL
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.3mL Syringes
+
+PREMIERPro™Rx
+
+PRINCIPAL DISPLAY PANEL - 40mg/0.4mL Syringe Carton
+
+NDC 0075-8014-10
+
+Lovenox® (enoxaparin sodium injection)
+
+40mg/0.4mL
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.4mL Syringes
+
+PREMIERPro™Rx
+
+PRINCIPAL DISPLAY PANEL - 60mg/0.6mL Syringe Carton
+
+NDC 0075-8016-10
+
+Lovenox® (enoxaparin sodium injection)
+
+60mg/0.6mL
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.6mL Syringes
+
+PREMIERPro™Rx
+
+PRINCIPAL DISPLAY PANEL - 80mg/0.8mL Syringe Carton
+
+NDC 0075-8018-10
+
+Lovenox® (enoxaparin sodium injection)
+
+80mg/0.8mL
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.8mL Syringes
+
+PREMIERPro™Rx
+
+PRINCIPAL DISPLAY PANEL - 100mg/1mL Syringe Carton
+
+NDC 0075-8020-10
+
+Lovenox® (enoxaparin sodium injection)
+
+100mg/1mL
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 1mL Syringes
+
+PREMIERPro™Rx
+
+PRINCIPAL DISPLAY PANEL - 120mg/0.8mL Syringe Carton
+
+NDC 0075-8022-10
+
+Lovenox® (enoxaparin sodium injection)
+
+120mg/0.8mL
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.8mL Syringes
+
+PREMIERPro™Rx
+
+PRINCIPAL DISPLAY PANEL - 150mg/1mL Syringe Carton
+
+NDC 0075-8025-10
+
+Lovenox® (enoxaparin sodium injection)
+
+150mg/1mL
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 1mL Syringes
+
+PREMIERPro™Rx
+
+PRINCIPAL DISPLAY PANEL - 300mg/3mL Vial Carton
+
+NDC 0075-8030-01
+
+Lovenox® (enoxaparin sodium injection)
+
+300mg/3mL (100mg/1mL)
+
+Rx ONLY
+
+For Subcutaneous or Intravenous Injection
+
+Multiple Dose Vial
+
+One 3mL Vial
+
+PREMIERPro™Rx
