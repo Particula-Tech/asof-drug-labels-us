@@ -12,7 +12,7 @@ Pharmacokinetic studies of ADDERALL XR have been conducted in healthy adult and 
 Both ADDERALL (immediate-release) tablets and ADDERALL XR capsules contain d-amphetamine and l-amphetamine salts in the ratio of 3:1.
 Following administration of ADDERALL (immediate-release), the peak plasma concentrations occurred in about 3 hours for both d-amphetamine and l-amphetamine.
 
-The time to reach maximum plasma concentration (Tmax) for ADDERALL XR is about 7 hours, which is about 4 hours longer compared to ADDERALL(immediate-release).
+The time to reach maximum plasma concentration (Tmax) for ADDERALL XR is about 7 hours, which is about 4 hours longer compared to ADDERALL (immediate-release).
 This is consistent with the extended-release nature of the product.
 
 Figure 1 Mean d-amphetamine and l-amphetamine Plasma Concentrations Following Administration of ADDERALL XR 20 mg (8 am) and ADDERALL (immediate-release) 10 mg Twice Daily (8 am and 12 noon) in the Fed State.
@@ -42,7 +42,7 @@ Amphetamine is known to inhibit monoamine oxidase, whereas the ability of amphet
 In vitro experiments with human microsomes indicate minor inhibition of CYP2D6 by amphetamine and minor inhibition of CYP1A2, 2D6, and 3A4 by one or more metabolites.
 However, due to the probability of auto-inhibition and the lack of information on the concentration of these metabolites relative to in vivo concentrations, no predications regarding the potential for amphetamine or its metabolites to inhibit the metabolism of other drugs by CYP isozymes in vivo can be made.
 
-With normal urine pHs, approximately half of an administered dose of amphetamine is recoverable in urine as derivatives of alpha-hydroxy-amphetamine and approximately another 30%-40% of the dose is recoverable in urine as amphetamine itself.
+With normal urine pHs, approximately half of an administered dose of amphetamine is recoverable in urine as derivatives of alpha-hydroxy-amphetamine and approximately another 30-40% of the dose is recoverable in urine as amphetamine itself.
 Since amphetamine has a pKa of 9.9, urinary recovery of amphetamine is highly dependent on pH and urine flow rates.
 Alkaline urine pHs result in less ionization and reduced renal elimination, and acidic pHs and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion.
 Urinary recovery of amphetamine has been reported to range from 1% to 75%, depending on urinary pH, with the remaining fraction of the dose hepatically metabolized.

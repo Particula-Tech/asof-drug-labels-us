@@ -1,22 +1,42 @@
-MEDICATION GUIDEADDERALL XR® (ADD-ur-all X-R) CII
+MEDICATION GUIDE ADDERALL XR® (ADD-ur-all X-R) CII
 
 Read the Medication Guide that comes with ADDERALL XR before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about you or your child's treatment with ADDERALL XR.
 
-| What is the most important information I should know about ADDERALL XR? ADDERALL XR is a stimulant medicine. The following have been reported with use of stimulant medicines. 1. Heart-related problems: • sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults • increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting ADDERALL XR. Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with ADDERALL XR. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking ADDERALL XR. 2. Mental (Psychiatric) problems: All Patients • new or worse behavior and thought problems • new or worse bipolar illness • new or worse aggressive behavior or hostility Children and Teenagers • new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking ADDERALL XR, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
-| --- |
+What is the most important information I should know about ADDERALL XR?
+ADDERALL XR is a stimulant medicine.
+The following have been reported with use of stimulant medicines.
+1.
+Heart-related problems: • sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults • increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
+Your doctor should check you or your child carefully for heart problems before starting ADDERALL XR.
+Your doctor should check you or your child"s blood pressure and heart rate regularly during treatment with ADDERALL XR.
+Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking ADDERALL XR.
+2.
+Mental (Psychiatric) problems: All Patients • new or worse behavior and thought problems • new or worse bipolar illness • new or worse aggressive behavior or hostility Children and Teenagers • new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
+Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking ADDERALL XR, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
+
+3.
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:
+
+• Fingers or toes may feel numb, cool, painful • Fingers or toes may change from pale, to blue, to red
+
+Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
+
+Call your doctor right away if you have or your child has any unexplained wounds appearing on fingers or toes while taking ADDERALL XR.
 
 What Is ADDERALL XR?
 
-ADDERALL XR is a once daily central nervous system stimulant prescription medicine.
-It is used for the treatment of Attention Deficit Hyperactivity Disorder(ADHD).
+ADDERALL XR is a once daily central nervous system stimulantprescription medicine.
+It is used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
 ADDERALL XR may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
 
 ADDERALL XR should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
 
-| ADDERALL XR is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep ADDERALL XR in a safe place to prevent misuse and abuse.Selling or giving away ADDERALL XR may harm others, and is against the law. Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
-| --- |
+ADDERALL XR is a federally controlled substance (CII) because it can be abused or lead to dependence.
+Keep ADDERALL XR in a safe place to prevent misuse and abuse.
+Selling or giving away ADDERALL XR may harm others, and is against the law.
+Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs.
 
 Who should not take ADDERALL XR?
 
@@ -34,7 +54,7 @@ ADDERALL XR should not be taken if you or your child:
 ADDERALL XR has not been studied in children less than 6 years old.
 
 ADDERALL XR may not be right for you or your child.
-Before starting ADDERALL XR tell your or your child's doctor about all health conditions (or a family history of) including:
+Before starting ADDERALL XR tell you or your child's doctor about all health conditions (or a family history of) including:
 
 - heart problems, heart defects, or high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
@@ -42,6 +62,7 @@ Before starting ADDERALL XR tell your or your child's doctor about all health co
 - liver or kidney problems
 - thyroid problems
 - seizures or have had an abnormal brain wave test (EEG)
+- circulation problems in fingers and toes
 
 Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
 
@@ -116,7 +137,7 @@ ADDERALL XR may affect you or your child's ability to drive or do other dangerou
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
 This is not a complete list of possible side effects.
-Ask your doctor or pharmacist for more information
+Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -148,5 +169,5 @@ The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
 The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide
 
 Manufactured for Shire US Inc., Wayne, PA 19087.
-ADDERALL XR is registered in the US Patent and Trademark Office © 2011 Shire US Inc Rev.
-01/2013 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+ADDERALL XR is registered in the US Patent and Trademark Office © 2013 Shire US Inc Rev.
+06/2013 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -38,7 +38,7 @@ Table 1 Adverse Reactions Reported by 2% or More of Children (6-12 Years Old) Re
 | --- | --- | --- | --- |
 | General | Abdominal Pain (stomachache) Fever Infection Accidental Injury Asthenia (fatigue) | 14% 5% 4% 3% 2% | 10% 2% 2% 2% 0% |
 | Digestive System | Loss of Appetite Vomiting Nausea Dyspepsia | 22% 7% 5% 2% | 2% 4% 3% 1% |
-| Nervous System | Loss of Appetite Vomiting Nausea Dyspepsia | 17% 9% 6% 2% | 2% 2% 2% 0%a |
+| Nervous System | Insomnia Emotional Lability Nervousness Dizziness | 17% 9% 6% 2% | 2% 2% 2% 0%a |
 | Metabolic/Nutritional | Weight Loss | 4% | 0% |
 
 Table 2 Adverse Reactions Reported by 5% or More of Adolescents (13-17 Years Old) Weighing ≤ 75 kg/165 lbs Receiving ADDERALL XR with Higher Incidence Than Placebo in a 287 Patient Clinical Forced Weekly-Dose Titration Study*
@@ -57,13 +57,13 @@ Table 3 Adverse Reactions Reported by 5% or More of Adults Receiving ADDERALL XR
 | --- | --- | --- | --- |
 | General | Headache Asthenia | 26% 6% | 13% 5% |
 | Digestive System | Dry Mouth Loss of Appetite Nausea Diarrhea | 35% 33% 8% 6% | 5% 3% 3% 0% |
-| Nervous System | Insomnia Agitation Anxiety Dizziness | 27% 8% 8% 7% | 13% 5% 5% 0% |
+| Nervous System | Insomnia Agitation Anxiety Dizziness Nervousness | 27% 8% 8% 7% 13% | 13% 5% 5% 0% 13%a |
 | Cardiovascular System | Tachycardia | 6% | 3% |
 | Metabolic/Nutritional | Weight Loss | 10% | 0% |
 | Urogenital System | Urinary Tract Infection | 5% | 0% |
-| *Included doses up to 60 mg. Note: The following reactions did not meet the criterion for inclusion in Table 3 but were reported by 2% to 4% of adult patients receiving ADDERALL XR with a higher incidence than patients receiving placebo in this study: infection, photosensitivity reaction, constipation, tooth disorder (e.g., teeth clenching, tooth infection), emotional lability, libido decreased, somnolence, speech disorder (e.g., stuttering, excessive speech), palpitation, twitching, dyspnea, sweating, dysmenorrhea, and impotence. |  |  |  |
+| *Included doses up to 60 mg. a Appears the same due to rounding Note: The following reactions did not meet the criterion for inclusion in Table 3 but were reported by 2% to 4% of adult patients receiving ADDERALL XR with a higher incidence than patients receiving placebo in this study: infection, photosensitivity reaction, constipation, tooth disorder (e.g., teeth clenching, tooth infection), emotional lability, libido decreased, somnolence, speech disorder (e.g., stuttering, excessive speech), palpitation, twitching, dyspnea, sweating, dysmenorrhea, and impotence. |  |  |  |
 
-Hypertension[see WARNINGS AND PRECAUTIONS (5.1)]
+Hypertension [see WARNINGS AND PRECAUTIONS (5.1)]
 
 In a controlled 4-week outpatient clinical study of adolescents with ADHD, isolated systolic blood pressure elevations ≥15 mmHg were observed in 7/64 (11%) placebo-treated patients and 7/100 (7%) patients receiving ADDERALL XR 10 or 20 mg.
 Isolated elevations in diastolic blood pressure ≥ 8 mmHg were observed in 16/64 (25%) placebo-treated patients and 22/100 (22%) ADDERALL XR-treated patients.
@@ -106,3 +106,7 @@ Impotence, changes in libido.
 Skin
 
 Alopecia.
+
+Vascular Disorders
+
+Raynaud’s phenomenon.

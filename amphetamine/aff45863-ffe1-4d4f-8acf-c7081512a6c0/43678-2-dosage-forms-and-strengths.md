@@ -1,4 +1,4 @@
-# 3 DOSAGE FORM AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 ADDERALL XR 5 mg capsules: Clear/blue (imprinted ADDERALL XR 5 mg)
 

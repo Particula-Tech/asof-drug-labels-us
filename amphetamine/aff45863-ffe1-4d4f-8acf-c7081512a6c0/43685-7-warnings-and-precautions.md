@@ -1,4 +1,4 @@
-# 5 WARNINGS and PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Serious Cardiovascular Events
 
@@ -64,16 +64,25 @@ Chronic use of amphetamines can be expected to cause a similar suppression of gr
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in the absence of seizures, and very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, ADDERALL XR should be discontinued.
 
-## 5.5 Visual Disturbance
+## 5.5 Peripheral Vasculopathy, including Raynaud’s phenomenon
+
+Stimulants, including ADDERALL XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
+## 5.6 Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
-## 5.6 Tics
+## 5.7 Tics
 
 Amphetamines have been reported to exacerbate motor and phonic tics and Tourette's syndrome.
 Therefore, clinical evaluation for tics and Tourette's syndrome in patients and their families should precede use of stimulant medications.
 
-## 5.7 Prescribing and Dispensing
+## 5.8 Prescribing and Dispensing
 
 The least amount of amphetamine feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
 ADDERALL XR should be used with caution in patients who use other sympathomimetic drugs.
