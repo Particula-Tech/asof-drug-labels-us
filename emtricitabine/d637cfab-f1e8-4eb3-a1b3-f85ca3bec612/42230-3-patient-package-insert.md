@@ -124,7 +124,7 @@ Before you take COMPLERA, tell your healthcare provider if you:
 - are pregnant or plan to become pregnant.
   It is not known if COMPLERA can harm your unborn child.
   - Pregnancy Registry.
-    There is a pregnancy registry for women who take antiviral medicines during pregnancy.
+    There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
     The purpose of this registry is to collect information about the health of you and your baby.
     Talk to your healthcare provider about how you can take part in this registry.
 - are breast-feeding or plan to breast-feed.
@@ -145,7 +145,7 @@ Do not take other HIV medicines with COMPLERA.
 
 If you take COMPLERA, you should not take:
 
-- other medicines that contain tenofovir (VIREAD, TRUVADA®, STRIBILD™, ATRIPLA®)
+- other medicines that contain tenofovir (VIREAD, TRUVADA®, STRIBILD®, ATRIPLA®)
 - other medicines that contain emtricitabine or lamivudine (EMTRIVA, Combivir®, Epivir® or Epivir-HBV®, Epzicom®, Trizivir®, ATRIPLA, TRUVADA, STRIBILD)
 - rilpivirine (Edurant)
 - adefovir (HEPSERA®)
@@ -180,12 +180,13 @@ How should I take COMPLERA?
 
 - Stay under the care of your healthcare provider during treatment with COMPLERA.
 - Take COMPLERA exactly as your healthcare provider tells you to take it.
-- Always take COMPLERA with a meal.
-  Taking COMPLERA with a meal is important to help get the right amount of medicine in your body.
-  A protein drink does not replace a meal.
+- Always take COMPLERA with food.
+  Taking COMPLERA with food is important to help get the right amount of medicine in your body.
+  A protein drink does not replace food.
+  If your healthcare provider decides to stop COMPLERA and you are switched to new medicines to treat HIV that includes rilpivirine tablets, the rilpivirine tablets should be taken only with a meal.
 - Do not change your dose or stop taking COMPLERA without first talking with your healthcare provider.
   See your healthcare provider regularly while taking COMPLERA.
-- If you miss a dose of COMPLERA within 12 hours of the time you usually take it, take your dose of COMPLERA with a meal as soon as possible.
+- If you miss a dose of COMPLERA within 12 hours of the time you usually take it, take your dose of COMPLERA with food as soon as possible.
   Then, take your next dose of COMPLERA at the regularly scheduled time.
   If you miss a dose of COMPLERA by more than 12 hours of the time you usually take it, wait and then take the next dose of COMPLERA at the regularly scheduled time.
 - Do not take more than your prescribed dose to make up for a missed dose.
@@ -271,7 +272,7 @@ For more information, call 1-800-445-3235 or go to www.COMPLERA.com.
 
 What are the ingredients of COMPLERA?
 
-Active ingredients: emtricitabine, rilpivirine hydrochloride, and tenofovir disoproxil fumarate
+Active ingredients: emtricitabine, rilpivirine hydrochloride, and tenofovir disoproxil fumarate.
 
 Inactive ingredients: pregelatinized starch, lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, magnesium stearate, povidone, polysorbate 20.
 The tablet film coating contains polyethylene glycol, hypromellose, lactose monohydrate, triacetin, titanium dioxide, iron oxide red, FD&C Blue #2 aluminum lake, FD&C Yellow #6 aluminum lake.
@@ -284,10 +285,10 @@ Gilead Sciences, Inc.
 
 Foster City, CA 94404
 
-Revised: January 2013
+Revised: June 2013
 
 COMPLERA, EMTRIVA, HEPSERA, TRUVADA, VIREAD, and VISTIDE are trademarks of Gilead Sciences, Inc., or its related companies.
 Edurant is a trademark of Janssen Pharmaceuticals, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-202123-GS-002
+202123-GS-003

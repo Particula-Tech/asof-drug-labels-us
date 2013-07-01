@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-COMPLERA is a fixed-dose combination of antiviral drugs emtricitabine, rilpivirine and tenofovir disoproxil fumarate [See Microbiology (12.4)].
+COMPLERA is a fixed-dose combination of the antiretroviral drugs emtricitabine, rilpivirine and tenofovir disoproxil fumarate [See Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -63,10 +63,16 @@ Following a single oral dose, the terminal elimination half-life of tenofovir is
 
 Effects of Food on Oral Absorption
 
-Take COMPLERA with a meal.
-A food effect trial was not conducted for COMPLERA.
-Therefore, the specific effect of food with COMPLERA tablets on rilpivirine, emtricitabine and tenofovir exposure has not been established.
-The recommendation to administer COMPLERA with a meal is based on the increased exposure that was observed when rilpivirine tablets were administered under fed conditions.
+The food effect trial for COMPLERA evaluated two types of meals.
+The trial defined a meal with 390 kcal containing 12 g fat as a light meal, and a meal with 540 kcal containing 21 g fat as a standard meal.
+Relative to fasting conditions, the administration of COMPLERA to healthy adult subjects with both types of meals resulted in increased exposures of rilpivirine and tenofovir.
+The Cmax and AUC of rilpivirine increased 34% and 9% with a light meal, while increasing 26% and 16% with a standard meal, respectively.
+The Cmax and AUC of tenofovir increased 12% and 28% with a light meal, while increasing 32% and 38% with a standard meal, respectively.
+Emtricitabine exposures were not affected by food.
+
+The effects on rilpivirine, emtricitabine and tenofovir exposure when COMPLERA is administered with a high fat meal were not evaluated.
+
+COMPLERA should be taken with food.
 
 Special Populations
 
@@ -117,7 +123,7 @@ Population pharmacokinetic analysis indicated that hepatitis B and/or C virus co
 
 Assessment of Drug Interactions
 
-COMPLERA is a complete regimen for the treatment of HIV-1 infection; therefore, COMPLERA should not be administered with other antiretroviral medications.
+COMPLERA is a complete regimen for the treatment of HIV-1 infection; therefore, COMPLERA should not be administered with other HIV antiretroviral medications.
 Information regarding potential drug-drug interactions with other antiretroviral medications is not provided.
 Please refer to the EDURANT, VIREAD and EMTRIVA prescribing information as needed.
 
@@ -159,10 +165,10 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Rilpivirine
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Dose of Rilpivirine | N | Mean % Change of Rilpivirine Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ↔ (90% CI) |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Dose of Rilpivirine | NN=maximum number of subjects for Cmax, AUC, or Cmin | Mean % Change of Rilpivirine Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ↔ (90% CI) |  |  |
 | Acetaminophen | 500 mg single dose | 150 mg once dailyThe Interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. | 16 | ↑ 9 (↑ 1 to ↑ 18) | ↑ 16 (↑ 10 to ↑ 22) | ↑ 26 (↑ 16 to ↑ 38) |
 | Atorvastatin | 40 mg once daily | 150 mg once daily | 16 | ↓ 9 (↓ 21 to↑ 6) | ↓ 10 (↓ 19 to ↓ 1) | ↓ 10 (↓ 16 to ↓ 4) |
-| Chlorzoxazone | 500 mg single dose | 150 mg once daily | 16 | ↑ 17 (↑ 8 to ↑ 27) | ↑ 25 (↑ 16 to ↑ 35) | ↑ 18 (↑ 9 to ↑ 28) |
+| Chlorzoxazone | 500 mg single dose taken 2 hours after rilpivirine | 150 mg once daily | 16 | ↑ 17 (↑ 8 to ↑ 27) | ↑ 25 (↑ 16 to ↑ 35) | ↑ 18 (↑ 9 to ↑ 28) |
 | Ethinyl estradiol/ Norethindrone | 0.035 mg once daily/1 mg once daily | 25 mg once daily | 16 | ↔ | ↔ | ↔ |
 | Famotidine | 40 mg single dose taken 12 hours before rilpivirine | 150 mg single dose | 24 | ↓ 1 (↓ 16 to↑ 16) | ↓ 9 (↓ 22 to↑ 7) | NA |
 | 40 mg single dose taken 2 hours before rilpivirine | 150 mg single dose | 23 | ↓ 85 (↓ 88 to ↓ 81) | ↓ 76 (↓ 80 to ↓ 72) | NA |  |
@@ -173,18 +179,20 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Rilpivirine
 | Rifabutin | 300 mg once daily | 150 mg once daily | 16 | ↓ 35 (↓ 42 to ↓ 26) | ↓ 46 (↓ 50 to ↓ 42) | ↓ 49 (↓ 52 to ↓ 46) |
 | Rifampin | 600 mg once daily | 150 mg once daily | 16 | ↓ 69 (↓ 73 to ↓ 64) | ↓ 80 (↓ 82 to ↓ 77) | ↓ 89 (↓ 90 to ↓ 87) |
 | Sildenafil | 50 mg single dose | 75 mg once daily | 16 | ↓ 8 (↓ 15 to ↓ 1) | ↓ 2 (↓ 8 to ↑ 5) | ↑ 4 (↓ 2 to ↑ 9) |
+| Telaprevir | 750 mg every 8 hours | 25 mg once daily | 16 | ↑ 49 (↑ 20 to ↑ 84) | ↑ 78 (↑ 44 to ↑ 120) | ↑ 93 (↑ 55 to ↑ 141) |
 | NA = not available |  |  |  |  |  |  |
 
 Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Rilpivirine
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Dose of Rilpivirine | N | Mean % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ↔ (90% CI) |  |  |
-| Acetaminophen | 500 mg single dose | 150 mg once dailyThe Interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily). | 16 | ↓ 3 (↓ 14 to ↑ 10) | ↓ 8 (↓ 15 to ↓ 1) | NA |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Dose of Rilpivirine | NN=maximum number of subjects for Cmax, AUC, or Cmin | Mean % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ↔ (90% CI) |  |  |
+| Acetaminophen | 500 mg single dose | 150 mg once dailyThe Interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily). | 16 | ↓ 3 (↓ 14 to ↑ 10) | ↓ 9 (↓ 14 to ↓ 3) | NA |
 | Atorvastatin | 40 mg once daily | 150 mg once daily | 16 | ↑ 35 (↑ 8 to ↑ 68) | ↑ 4 (↓ 3 to ↑ 12) | ↓ 15 (↓ 31 to ↑ 3) |
 | 2-hydroxy-atorvastatin | 16 | ↑ 58 (↑ 33 to ↑ 87) | ↑ 39 (↑ 29 to ↑ 50) | ↑ 32 (↑ 10 to ↑ 58) |  |  |
 | 4-hydroxy-atorvastatin | 16 | ↑ 28 (↑ 15 to ↑ 43) | ↑ 23 (↑ 13 to ↑ 33) | NA |  |  |
-| Chlorzoxazone | 500 mg single dose | 150 mg once daily | 16 | ↓ 2 (↓ 15 to ↑ 13) | ↑ 3 (↓ 5 to ↑ 13) | NA |
+| Chlorzoxazone | 500 mg single dose taken 2 hours after rilpivirine | 150 mg once daily | 16 | ↓ 2 (↓ 15 to ↑ 13) | ↑ 3 (↓ 5 to ↑ 13) | NA |
+| Digoxin | 0.5 mg single dose | 25 mg once daily | 22 | ↑ 6 (↓ 3 to ↑ 17) | ↓ 2 (↓ 7 to ↑ 4)AUC(0-last) | NA |
 | Ethinyl estradiol | 0.035 mg once daily | 25 mg once daily | 17 | ↑ 17 (↑ 6 to ↑ 30) | ↑ 14 (↑ 10 to ↑ 19) | ↑ 9 (↑ 3 to ↑ 16) |
 | Norethindrone | 1 mg once daily | 17 | ↓ 6 (↓ 17 to ↑ 6) | ↓ 11 (↓ 16 to ↓ 6) | ↓ 1 (↓ 10 to ↑ 8) |  |
 | Ketoconazole | 400 mg once daily | 150 mg once daily | 14 | ↓ 15 (↓ 20 to ↓ 10) | ↓ 24 (↓ 30 to ↓ 18) | ↓ 66 (↓ 75 to ↓ 54) |
@@ -195,6 +203,7 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | 25-desacetylrifampin | 16 | ↔ (↓ 13 to ↑ 15) | ↓ 9 (↓ 23 to ↑ 7) | NA |  |  |
 | Sildenafil | 50 mg single dose | 75 mg once daily | 16 | ↓ 7 (↓ 20 to ↑ 8) | ↓ 3 (↓ 13 to ↑ 8) | NA |
 | N-desmethyl-sildenafil | 16 | ↓ 10 (↓ 20 to ↑ 2) | ↓ 8 (↓ 15 to↓ 1) | NA |  |  |
+| Telaprevir | 750 mg every 8 hours | 25 mg once daily | 13 | ↓ 3 (↓ 21 to ↑ 21) | ↓ 5 (↓ 24 to ↑ 18) | ↓ 11 (↓ 33 to ↑ 18) |
 | NA = not available |  |  |  |  |  |  |
 
 ## 12.4 Microbiology

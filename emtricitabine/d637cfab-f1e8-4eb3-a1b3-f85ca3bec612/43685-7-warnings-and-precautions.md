@@ -41,7 +41,7 @@ COMPLERA should be used with caution when coadministered with a drug with a know
 The adverse reaction depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) has been reported with rilpivirine.
 During the Phase 3 trials (N=1368) through 96 weeks, the incidence of depressive disorders (regardless of causality, severity) reported among rilpivirine (N=686) or efavirenz (N=682) was 9% and 8%, respectively.
 Most events were mild or moderate in severity.
-The incidence of Grade 3 and 4 depressive disorders (regardless of causality) was 1% for both rilpivirine and efavirenz.
+The incidence of Grades 3 and 4 depressive disorders (regardless of causality) was 1% for both rilpivirine and efavirenz.
 The incidence of discontinuation due to depressive disorders among rilpivirine or efavirenz was 1% in each arm.
 Suicidal ideation was reported in 4 subjects in each arm while suicide attempt was reported in 2 subjects in the rilpivirine arm.
 Patients with severe depressive symptoms should seek immediate medical evaluation to assess the possibility that the symptoms are related to COMPLERA, and if so, to determine whether the risks of continued therapy outweigh the benefits.
@@ -76,7 +76,7 @@ Cases of osteomalacia (associated with proximal renal tubulopathy and which may 
 
 ## 5.8 Coadministration with Other Products
 
-COMPLERA should not be administered concurrently with other medicinal products containing any of the same active components, emtricitabine, rilpivirine, or tenofovir DF (ATRIPLA®, Edurant®, EMTRIVA, STRIBILD™, TRUVADA®, VIREAD), with medicinal products containing lamivudine (Epivir®, Epivir-HBV®, Epzicom®, Combivir®, Trizivir®), or with adefovir dipivoxil (HEPSERA).
+COMPLERA should not be administered concurrently with other medicinal products containing any of the same active components, emtricitabine, rilpivirine, or tenofovir DF (ATRIPLA®, Edurant®, EMTRIVA, STRIBILD®, TRUVADA®, VIREAD), with medicinal products containing lamivudine (Epivir®, Epivir-HBV®, Epzicom®, Combivir®, Trizivir®), or with adefovir dipivoxil (HEPSERA).
 
 ## 5.9 Fat Redistribution
 

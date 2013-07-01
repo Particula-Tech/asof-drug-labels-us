@@ -18,9 +18,10 @@ Patients should be advised that:
 - Patients should be advised not to breastfeed because at least two of the drugs contained in COMPLERA can be passed to the baby in breast milk.
   It is not known whether this could harm the baby.
   Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in breast milk.
-- It is important to take COMPLERA on a regular dosing schedule with a meal and to avoid missing doses.
-  A protein drink does not constitute a meal.
-  If the patient misses a dose of COMPLERA within 12 hours of the time it is usually taken, the patient should take COMPLERA with a meal as soon as possible and then take the next dose of COMPLERA at the regularly scheduled time.
+- It is important to take COMPLERA on a regular dosing schedule with food and to avoid missing doses.
+  A protein drink is not a substitute for food.
+  If the healthcare provider decides to stop COMPLERA and the patient is switched to new medicines to treat HIV that includes rilpivirine tablets, the rilpivirine tablets should be taken only with a meal.
+- If the patient misses a dose of COMPLERA within 12 hours of the time it is usually taken, the patient should take COMPLERA with food as soon as possible and then take the next dose of COMPLERA at the regularly scheduled time.
   If a patient misses a dose of COMPLERA by more than 12 hours, the patient should not take the missed dose, but resume the usual dosing schedule.
   Inform the patient that he or she should not take more or less than the prescribed dose of COMPLERA at any one time.
 - Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.

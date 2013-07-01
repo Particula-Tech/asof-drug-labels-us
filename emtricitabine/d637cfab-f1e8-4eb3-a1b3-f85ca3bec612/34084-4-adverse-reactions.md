@@ -59,7 +59,7 @@ In addition, adverse drug reactions that occurred in at least 5% of treatment-ex
 Skin discoloration has been reported with higher frequency among emtricitabine-treated subjects; it was manifested by hyperpigmentation on the palms and/or soles and was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
 
-Laboratory Abnormalities: The percentage of subjects treated with rilpivirine + emtricitabine/tenofovir DF or efavirenz + emtricitabine/tenofovir DF in studies C209 and C215 with selected treatment-emergent laboratory abnormalities (Grade 1 to 4), representing worst grade toxicity are presented in Table 2.
+Laboratory Abnormalities: The percentage of subjects treated with rilpivirine + emtricitabine/tenofovir DF or efavirenz + emtricitabine/tenofovir DF in studies C209 and C215 with selected treatment-emergent laboratory abnormalities (Grades 1 to 4), representing worst grade toxicity are presented in Table 2.
 
 Table 2 Selected Laboratory Abnormalities (Grades 1–4) Reported in Subjects Who Received Rilpivirine or Efavirenz in Combination with Emtricitabine/Tenofovir DF in Studies C209 and C215 (Week 96 Analysis)
 

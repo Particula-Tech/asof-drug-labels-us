@@ -53,5 +53,5 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 No clinically significant drug interactions have been observed between emtricitabine and the following medications: famciclovir or tenofovir DF.
 Similarly, no clinically significant drug interactions have been observed between tenofovir DF and the following medications: entecavir, methadone, oral contraceptives, ribavirin, or tacrolimus in studies conducted in healthy subjects.
 
-No clinically significant drug interactions have been observed between rilpivirine and the following medications: acetaminophen, atorvastatin, chlorzoxazone, ethinyl estradiol, norethindrone, sildenafil, or tenofovir DF.
+No clinically significant drug interactions have been observed between rilpivirine and the following medications: acetaminophen, atorvastatin, chlorzoxazone, digoxin, ethinyl estradiol, norethindrone, sildenafil, telaprevir, or tenofovir DF.
 No clinically relevant drug-drug interaction is expected when rilpivirine is coadministered with ribavirin.
