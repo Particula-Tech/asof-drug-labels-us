@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204200"
+  ],
+  "inn": "epinephrine",
+  "labeler": "JHP Pharmaceuticals LLC",
+  "package_ndcs": [
+    "42023-159-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Adrenalin"
+    }
+  ],
+  "setid": "3b7a4364-668d-4eb2-a20c-04adc35aabe4",
+  "source": "dailymed"
+}
