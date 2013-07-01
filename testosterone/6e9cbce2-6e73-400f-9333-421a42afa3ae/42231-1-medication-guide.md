@@ -219,4 +219,4 @@ Literature issued November 2010
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-PV 8160 AMP
+PV 8161 AMP
