@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA090162"
+  ],
+  "inn": "topiramate",
+  "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+  "package_ndcs": [
+    "29300-115-01",
+    "29300-115-10",
+    "29300-115-16",
+    "29300-116-01",
+    "29300-116-10",
+    "29300-116-16",
+    "29300-117-01",
+    "29300-117-10",
+    "29300-117-16",
+    "29300-118-01",
+    "29300-118-10",
+    "29300-118-16"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "topiramate",
+      "name": "topiramate"
+    }
+  ],
+  "setid": "6ee00e82-799d-445e-b658-a9712c49a28e",
+  "source": "dailymed"
+}
