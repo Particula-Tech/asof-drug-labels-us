@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020273"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-878-61",
+    "66993-878-78"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcipotriene",
+      "name": "calcipotriene"
+    }
+  ],
+  "setid": "fe7cd92a-f066-4c4a-80c8-e3f929ad4181",
+  "source": "dailymed"
+}
