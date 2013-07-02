@@ -40,7 +40,7 @@ Fluticasone propionate is not significantly bound to human transcortin.
 Metabolism: No metabolites of fluticasone propionate were detected in an in vitro study of radiolabeled fluticasone propionate incubated in a human skin homogenate.
 The total blood clearance of systemically absorbed fluticasone propionate averages 1,093 mL/min (range, 618 to 1,702 mL/min) after a 1-mg intravenous dose, with renal clearance accounting for less than 0.02% of the total.
 Fluticasone propionate is metabolized in the liver by cytochrome P450 3A4-mediated hydrolysis of the 5-fluoromethyl carbothioate grouping.
-This transformation occurs in 1 metabolic step to produce the inactive17-Β-carboxylic acid metabolite, the only known metabolite detected in man.
+This transformation occurs in 1 metabolic step to produce the inactive17-ß-carboxylic acid metabolite, the only known metabolite detected in man.
 This metabolite has approximately 2,000 times less affinity than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 

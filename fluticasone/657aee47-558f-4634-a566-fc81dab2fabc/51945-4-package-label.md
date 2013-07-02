@@ -8,7 +8,7 @@ CUTIVATE® CREAM, 0.05%
 
 (fluticasone propionate cream)
 
-For dermatologic use only - Not for opthalmic use
+For dermatologic use only - Not for ophthalmic use.
 
 Rx only
 
@@ -24,7 +24,7 @@ CUTIVATE® CREAM, 0.05%
 
 (fluticasone propionate cream)
 
-For dermatologic use only - Not for opthalmic use
+For dermatologic use only - Not for ophthalmic use.
 
 Rx only
 

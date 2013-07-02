@@ -29,7 +29,7 @@ Clinical Signs: Mean Improvements Over Baseline
 | Thickening | 1.22 | 1.17 | 0.81 | 0.97 |
 | Scaling | 1.53 | 1.39 | 0.95 | 1.21 |
 
-Atopic Dermatitis Studies: In 2 controlled 28-day studies, CUTIVATE® Cream once daily was equivalent to CUTIVATE Cream twice daily in the treatment of moderate to severe eczema.
+Atopic Dermatitis Studies: In 2 controlled 28-day studies, CUTIVATE® Cream once daily was equivalent to CUTIVATE® Cream twice daily in the treatment of moderate to severe eczema.
 The investigator's global evaluation after 28 days of treatment is shown in Table 5.
 
 Table 5.

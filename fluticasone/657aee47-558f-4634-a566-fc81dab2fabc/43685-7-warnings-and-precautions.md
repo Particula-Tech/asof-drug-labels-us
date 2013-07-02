@@ -84,13 +84,12 @@ It is not known whether topical administration of corticosteroids could result i
 Because many drugs are excreted in human milk, caution should be exercised when CUTIVATE® Cream is administered to a nursing woman.
 
 Pediatric Use: CUTIVATE® Cream may be used with caution in pediatric patients as young as 3 months of age.
-
 The safety and efficacy of drug use for longer than 4 weeks in this population have not been established.
-
 The safety and efficacy of CUTIVATE® Cream in pediatric patients below 3 months of age have not been established.
 
 Fluticasone propionate cream, 0.05%, caused HPA axis suppression in 2 of 43 pediatric patients, ages 2 and 5 years old, who were treated for 4 weeks covering at least 35% of the body surface area.
-Follow-up testing 12 days after treatment discontinuation, available for 1 of the 2 subjects, demonstrated a normally responsive HPA axis (see ADVERSE REACTIONS) Adverse effects including striae have been reported with use of topical corticosteroids in pediatric patients.
+Follow-up testing 12 days after treatment discontinuation, available for 1 of the 2 subjects, demonstrated a normally responsive HPA axis (see ADVERSE REACTIONS).
+Adverse effects including striae have been reported with use of topical corticosteroids in pediatric patients.
 
 HPA axis suppression, Cushing syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in pediatric patients receiving topical corticosteroids.
 Manifestations of adrenal suppression in pediatric patients include low plasma cortisol levels to an absence of response to ACTH stimulation.
