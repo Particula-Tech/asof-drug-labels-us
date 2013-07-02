@@ -12,7 +12,7 @@ Lower Respiratory Tract Infections, including pneumonia and bronchitis caused by
 
 Septicemia caused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Proteus mirabilis*, Serratia marcescens*, and Enterobacter species.
 
-Skin and Skin-Structure Infections, including those associated with postoperative wounds, ulcers, and burns caused by Escherichia coli, Proteus mirabilis, Serratia marcescens, Enterobacter species, Pseudomonas aeruginosa, Klebsiella pneumoniae, and Citrobacter species*.
+Skin and Skin-Structure Infections, including those associated with postoperative wounds, ulcers, and burns, caused by Escherichia coli, Proteus mirabilis, Serratia marcescens, Enterobacter species, Pseudomonas aeruginosa, Klebsiella pneumoniae, and Citrobacter species*.
 
 Intra-abdominal Infections, including peritonitis caused by Escherichia coli, Klebsiella species including K. pneumoniae, Enterobacter species including E. cloacae*, Pseudomonas aeruginosa, Citrobacter species* including C. freundii*, and Serratia species* including S. marcescens*.
 

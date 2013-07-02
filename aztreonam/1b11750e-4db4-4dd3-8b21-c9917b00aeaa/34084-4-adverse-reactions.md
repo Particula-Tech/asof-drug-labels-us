@@ -9,7 +9,7 @@ Hypersensitivity—anaphylaxis, angioedema, bronchospasm
 
 Hematologic—pancytopenia, neutropenia, thrombocytopenia, anemia, eosinophilia, leukocytosis, thrombocytosis
 
-Gastrointestinal—abdominal cramps; rare cases of C. difficile-associated diarrhea, including pseudomembranous colitis, or gastrointestinal bleeding have been reported.
+Gastrointestinal—abdominal cramps; rare cases of C. difficile–associated diarrhea, including pseudomembranous colitis, or gastrointestinal bleeding have been reported.
 Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment.
 (See WARNINGS.)
 

@@ -8,4 +8,4 @@ AZACTAM® (aztreonam injection) in GALAXY plastic container (PL 2040) is supplie
 | 2 g aztreonam/50 mL container: |  |
 | Packages of 24 | NDC 0003-2240-11 |
 
-Store at or below –20°C (–4°F) [See Directions for Use of AZACTAM® (aztreonam injection) in GALAXY Plastic Container (PL 2040)].
+Store at or below –20°C (–4°F) [see Directions for Use of AZACTAM (aztreonam injection) in GALAXY Plastic Container (PL 2040)].
