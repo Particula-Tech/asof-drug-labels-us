@@ -3,7 +3,7 @@
 Erythromycin is produced by a strain of Streptomyces erythraeus and belongs to the macrolide group of antibiotics.
 It is basic and readily forms salts with acids.
 
-Erythrocin Lactobionate (Sterile Erythromycin Lactobionate, USP), is a soluble salt of erythromycin suitable for intravenous administration.
+Erythrocin Lactobionate (erythromycin lactobionate for injection, USP), is a soluble salt of erythromycin suitable for intravenous administration.
 It is available as a sterile, lyophilized powder in vials containing the equivalent of 500 mg of erythromycin activity.
 It is prepared as a solution and lyophilized in its final container.
 

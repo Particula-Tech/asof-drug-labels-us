@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Erythrocin Lactobionate-IV (Sterile Erythromycin Lactobionate, USP) is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the diseases listed below when oral administration is not possible or when the severity of the infection requires immediate high serum levels of erythromycin.
+Erythrocin Lactobionate-IV (erythromycin lactobionate for injection, USP) is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the diseases listed below when oral administration is not possible or when the severity of the infection requires immediate high serum levels of erythromycin.
 Intravenous therapy should be replaced by oral administration at the appropriate time.
 
 Upper respiratory tract infections of mild to moderate degree caused by Streptococcus pyogenes (Group A beta-hemolytic streptococci); Streptococcus pneumoniae (Diplococcus pneumoniae); Haemophilus influenzae (when used concomitantly with adequate doses of sulfonamides, since many strains of H. influenzae are not susceptible to the erythromycin concentrations ordinarily achieved).
@@ -16,7 +16,7 @@ Diphtheria: As an adjunct to antitoxin infections due to Corynebacterium diphthe
 
 Erythrasma: In the treatment of infections due to Corynebacterium minutissimum.
 
-Acute pelvic inflammatory disease caused by Neisseria gonorrhoeae: Erythrocin Lactobionate-IV (Sterile Erythromycin Lactobionate, USP) followed by erythromycin stearate of base orally, as an alternative drug in treatment of acute pelvic inflammatory disease caused by N. gonorrhoeae in female patients with a history of sensitivity to penicillin.
+Acute pelvic inflammatory disease caused by Neisseria gonorrhoeae: Erythrocin Lactobionate-IV (erythromycin lactobionate for injection, USP) followed by erythromycin stearate or erythromycin base orally, as an alternative drug in treatment of acute pelvic inflammatory disease caused by N. gonorrhoeae in female patients with a history of sensitivity to penicillin.
 
 Before treatment of gonorrhea, patients who are suspected of also having syphilis should have a microscopic examination for T. pallidum (by immunofluorescence or darkfield) before receiving erythromycin and monthly serologic tests for a minimum of 4 months thereafter.
 

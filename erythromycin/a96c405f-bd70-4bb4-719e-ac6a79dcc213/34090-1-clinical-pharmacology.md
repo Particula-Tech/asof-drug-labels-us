@@ -31,7 +31,7 @@ Resistance to erythromycin in S. aureus may emerge during therapy.
 
 Erythromycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections (see INDICATIONS AND USAGE):
 
-Aerobic and facultative Gram-positive microorganisms
+Gram-positive bacteria Aerobic
 
 Corynebacterium diphtheriae
 
@@ -43,7 +43,7 @@ Streptococcus pneumoniae
 
 Streptococcus pyogenes
 
-Aerobic and facultative Gram-negative microorganisms
+Gram-negative bacteria
 
 Legionella pneumophila
 
@@ -56,7 +56,7 @@ Mycoplasma pneumoniae
 At least 90 percent of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for erythromycin.
 However, the efficacy of erythromycin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled trials.
 
-Aerobic and facultative Gram-negative microorganisms
+Gram-negative bacteria
 
 Moraxella catarrhalis
 
@@ -83,16 +83,16 @@ The disk diffusion interpretive criteria are provided in Table 1.
 Table 1.
 Susceptibility Interpretive Criteria for Erythromycin
 
-| Pathogen | Susceptibility Interpretive Criteria |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |  |  |
-| S | I | R | S | I | R |  |  |
-| Staphylococcus spp. | ≤0.5 | 1 - 4 | ≥8 | ≥23 | 14 - 22 | ≤13 |  |
-| Enterococcus spp. | ≤0.5 | 1 - 4 | ≥8 | ≥23 | 14 - 22 | ≤13 |  |
-| Streptococcus pneumoniaea,b | ≤0.25 | 0.5 | ≥1 | ≥21 | 16 - 20 | ≤15 |  |
-| Streptococcus spp. (β-hemolytic group)a,b | ≤0.25 | 0.5 | ≥1 | ≥21 | 16 - 20 | ≤15 |  |
-| Streptococcus spp. (Viridans group)a,b | ≤0.25 | 0.5 | ≥1 | ≥21 | 16 - 20 | ≤15 |  |
-| a The MIC interpretive criteria for Streptococcus pneumoniae, Streptococcus spp. (β-hemolytic group), and Streptococcus spp. (Viridans group) are applicable only to tests performed by broth microdilution using cation-adjusted Mueller-Hinton broth supplemented with 2-5% lysed horse blood inoculated with a direct colony suspension and incubated in ambient air at 35 ± 2°C for 20 to 24 hours.b The zone diameter interpretive criteria for Streptococcus pneumoniae, Streptococcus spp. (β‑hemolytic group), and Streptococcus spp. (Viridans group) are applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood inoculated with a direct colony suspension and incubated in 5% CO2 at 35 ± 2°C for 20 to 24 hours. |  |  |  |  |  |  |  |
+|  | Susceptibility Interpretive Criteria |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Minimum Inhibitory Concentration (mcg/mL) |  |  |  |  |  | Disk Diffusion (zone diameter in mm) |  |  |  |  |  |
+| Pathogen | S |  | I |  | R |  | S |  | I |  | R |  |
+| Staphylococcus spp. | ≤0.5 |  | 1 to 4 |  | ≥8 |  | ≥23 |  | 14 to 22 |  | ≤13 |  |
+| Enterococcus spp. | ≤0.5 |  | 1 to 4 |  | ≥8 |  | ≥23 |  | 14 to 22 |  | ≤13 |  |
+| Streptococcus pneumoniaea,b | ≤0.25 |  | 0.5 |  | ≥1 |  | ≥21 |  | 16 to 20 |  | ≤15 |  |
+| Streptococcus spp. (β-hemolytic group)a,b | ≤0.25 |  | 0.5 |  | ≥1 |  | ≥21 |  | 16 to 20 |  | ≤15 |  |
+| Streptococcus spp. (Viridans group)a,b | ≤0.25 |  | 0.5 |  | ≥1 |  | ≥21 |  | 16 to 20 |  | ≤15 |  |
+| a The MIC interpretive criteria for Streptococcus pneumoniae, Streptococcus spp. (β-hemolytic group), and Streptococcus spp. (Viridans group) are applicable only to tests performed by broth microdilution using cation-adjusted Mueller-Hinton broth supplemented with 2 to 5% lysed horse blood inoculated with a direct colony suspension and incubated in ambient air at 35 ± 2°C for 20 to 24 hours.b The zone diameter interpretive criteria for Streptococcus pneumoniae, Streptococcus spp. (β‑hemolytic group), and Streptococcus spp. (Viridans group) are applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood inoculated with a direct colony suspension and incubated in 5% CO2 at 35 ± 2°C for 20 to 24 hours. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -111,8 +111,8 @@ Acceptable Quality Control Ranges for Erythromycin
 | QC Strain | Acceptable Quality Control Ranges |  |
 | --- | --- | --- |
 | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (zone diameter in mm) |  |
-| Enterococcus faecalis ATCC 29212 | 1 - 4 | NAa |
-| Staphylococcus aureus ATCC 29213 | 0.25 - 1 | NA |
-| Staphylococcus aureus ATCC 25923 | NA | 22 - 30 |
-| Streptococcus pneumoniae ATCC 49619b | 0.03 - 0.12c | 25 - 30d |
-| a not applicableb This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae.c This quality control range for S. pneumoniae is applicable only to tests performed by broth microdilution using cation-adjusted Mueller-Hinton broth supplemented with 2-5% lysed horse blood inoculated with a direct colony suspension and incubated in ambient air at 35 ± 2°C for 20 to 24 hours.d This quality control zone diameter range is applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood inoculated with a direct colony suspension and incubated in 5% CO2 at 35 ± 2°C for 20 to 24 hours. |  |  |
+| Enterococcus faecalis ATCC 29212 | 1 to 4 | NAa |
+| Staphylococcus aureus ATCC 29213 | 0.25 to 1 | NA |
+| Staphylococcus aureus ATCC 25923 | NA | 22 to 30 |
+| Streptococcus pneumoniae ATCC 49619b | 0.03 to 0.12c | 25 to 30d |
+| a not applicableb This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae.c This quality control range for S. pneumoniae is applicable only to tests performed by broth microdilution using cation-adjusted Mueller-Hinton broth supplemented with 2 to 5% lysed horse blood inoculated with a direct colony suspension and incubated in ambient air at 35 ± 2°C for 20 to 24 hours.d This quality control zone diameter range is applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood inoculated with a direct colony suspension and incubated in 5% CO2 at 35 ± 2°C for 20 to 24 hours. |  |  |

@@ -1,4 +1,4 @@
-Sterile Erythromycin Lactobionate, USP
+Erythromycin Lactobionate for Injection, USP
 
 INTRAVENOUS USE ONLY
 
