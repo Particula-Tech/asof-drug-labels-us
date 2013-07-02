@@ -9,11 +9,11 @@ In the tables and listings that follow, MedDRA terminology has been used to clas
 The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
 An event was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-## 6.1 Adverse Events Associated with Discontinuation of Treatment in Acute Clinical Studies with Focalin XR - Children
+## 6.1 Adverse Events Associated with Discontinuation of Treatment in Acute Clinical Studies with Focalin XR-Children
 
 Overall, 50 of 684 children treated with Focalin immediate-release formulation (7.3%) experienced an adverse event that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
-None of the 53 Focalin XR-treated pediatric patients discontinued treatment due to adverse events in the 7-week placebo-controlled study.
+None of the 53 Focalin XR-treated pediatric patients discontinued treatment due to adverse events in the 7-week, placebo-controlled study.
 
 ## 6.2 Adverse Events Occurring at an Incidence of 5% or More Among Focalin XR-Treated Patients-Children
 
@@ -21,7 +21,7 @@ Table 1 enumerates treatment-emergent adverse events for the placebo-controlled,
 The table includes only those events that occurred in 5% or more of patients treated with Focalin XR and for which the incidence in patients treated with Focalin XR was at least twice the incidence in placebo-treated patients.
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
+The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse event incidence rate in the population studied.
 
 Table 1.Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment–Pediatric Patients
 
@@ -42,26 +42,27 @@ Table 1.Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatme
 1Events, regardless of causality, for which the incidence for patients treated with Focalin XR was at least 5% and twice the incidence among placebo-treated patients.
 Incidence has been rounded to the nearest whole number.
 
-Table 2 below enumerates the incidence of dose-related adverse events that occurred during a fixed-dose, double-blind, placebo controlled trial of Focalin XR up to 30mg/day versus placebo in children and adolescents with ADHD.
+Table 2 below enumerates the incidence of dose-related adverse events that occurred during a fixed-dose, double-blind, placebo-controlled trial of Focalin XR up to 30mg/day versus placebo in children and adolescents with ADHD.
 
-Table 2: Dose-related Adverse Events from a Fixed-dose Study of Double-Blind Treatment in Pediatric Patients By Organ-System and Preferred Term
+Table 2.
+Dose-related Adverse Events from a Fixed-dose Study of Double-Blind Treatment in Pediatric Patients by Organ-System and Preferred Term
 
 | ADVERSE EVENT | Focalin XR 10 mg/d N=64 | Focalin XR 20 mg/d N=60 | Focalin XR 30 mg/d N=58 | Placebo N=63 |
 | --- | --- | --- | --- | --- |
-| Gastrointestinal disorders | 22% | 23% | 29% | 24% |
+| Gastrointestinal Disorders | 22% | 23% | 29% | 24% |
 | Vomiting | 2% | 8% | 9% | 0 |
-| Metabolism and nutritional disorders | 16% | 17% | 22% | 5% |
+| Metabolism and Nutritional Disorders | 16% | 17% | 22% | 5% |
 | Anorexia | 5% | 5% | 7% | 0 |
 | Psychiatric Disorders | 19% | 20% | 38% | 8% |
 | Insomnia | 5% | 8% | 17% | 3% |
 | Depression | 0 | 0 | 3% | 0 |
-| Mood swings | 0 | 0 | 3% | 2% |
-| Other Adverse events |  |  |  |  |
+| Mood Swings | 0 | 0 | 3% | 2% |
+| Other Adverse Events |  |  |  |  |
 | Irritability | 0 | 2% | 5% | 0 |
 | Nasal Congestion | 0 | 0 | 5% | 0 |
 | Pruritus | 0 | 0 | 3% | 0 |
 
-## 6.3 Adverse Events Associated with Discontinuation of Treatment in Clinical Studies with Focalin XR - Adults
+## 6.3 Adverse Events Associated with Discontinuation of Treatment in Clinical Studies with Focalin XR-Adults
 
 In the adult placebo-controlled study, 10.7% of the Focalin XR-treated patients and 7.5% of the placebo-treated patients discontinued for adverse events.
 Among Focalin XR-treated patients, insomnia (1.8%, n=3), feeling jittery (1.8%, n=3), anorexia (1.2%, n=2), and anxiety (1.2%, n=2) were the reasons for discontinuation reported by more than 1 patient.
@@ -95,12 +96,12 @@ Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment–Adu
 1Events, regardless of causality, for which the incidence was at least 5% in a Focalin XR group and which appeared to increase with randomized dose.
 Incidence has been rounded to the nearest whole number.
 
-Two other adverse reactions occurring in clinical trials with Focalin XR at a frequency greater than placebo, but which were not dose related were: Feeling jittery (12% and 2%, respectively) and Dizziness (6% and 2%, respectively).
+Two other adverse reactions occurring in clinical trials with Focalin XR at a frequency greater than placebo, but which were not dose related were: feeling jittery (12% and 2%, respectively) and dizziness (6% and 2%, respectively).
 
 Table 4 summarizes changes in vital signs and weight that were recorded in the adult study (N=218) of Focalin XR in the treatment of ADHD.
 
 Table 4.
-Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose during Double-Blind Treatment – Adults
+Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose During Double-Blind Treatment-Adults
 
 |  | Focalin XR 20 mg (N=57) | Focalin XR 30 mg (N=54) | Focalin XR 40 mg (N=54) | Placebo (N=53) |
 | --- | --- | --- | --- | --- |
@@ -108,7 +109,7 @@ Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose during Double-
 | Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8.0 | 0.3 ± 7.8 |
 | Weight (kg) | -1.4 ± 2.0 | -1.2 ± 1.9 | -1.7 ± 2.3 | -0.1 ± 3.9 |
 
-## 6.5 Post-Marketing Experience
+## 6.5 Postmarketing Experience
 
 The following additional adverse reactions have been identified during postapproval use of Focalin XR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency:
@@ -145,5 +146,5 @@ Psychiatric: transient depressed mood, aggressive behavior
 Skin/Subcutaneous: scalp hair loss
 
 Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
-In a single report, a ten-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
+In a single report, a 10-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
 It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.

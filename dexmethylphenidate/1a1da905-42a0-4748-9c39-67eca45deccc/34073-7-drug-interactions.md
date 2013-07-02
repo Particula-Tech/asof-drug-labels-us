@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Focalin XR should not be used in patients being treated (currently or within the preceding two weeks) with MAO Inhibitors [see Contraindications (4.5)].
+Focalin XR should not be used in patients being treated (currently or within the preceding 2 weeks) with MAO Inhibitors [see Contraindications (4.5)].
 
 Because of possible effects on blood pressure, Focalin XR should be used cautiously with pressor agents.
 

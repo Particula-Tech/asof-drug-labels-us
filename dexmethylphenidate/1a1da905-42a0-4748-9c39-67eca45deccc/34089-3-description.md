@@ -10,9 +10,9 @@ Dexmethylphenidate hydrochloride, the d-threo enantiomer of racemic methylphenid
 
 Dexmethylphenidate hydrochloride is methyl α-phenyl-2-piperidineacetate hydrochloride, (R,R’)-(+)-.
 Its empirical formula is C14H19NO2•HCl.
-Its molecular weight is 269.77 and its structural formula is
+Its molecular weight is 269.77 and its structural formula is:
 
-Note* = asymmetric carbon center
+Note*=asymmetric carbon center
 
 Dexmethylphenidate hydrochloride is a white to off white powder.
 Its solutions are acid to litmus.

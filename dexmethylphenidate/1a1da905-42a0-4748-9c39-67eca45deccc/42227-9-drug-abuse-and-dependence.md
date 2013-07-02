@@ -6,4 +6,4 @@ Focalin XR, like other methylphenidate products, is classified as a Schedule II 
 
 ## 9.2 Abuse, Dependence, Tolerance
 
-See complete boxed warning for drug abuse and dependence information at the beginning of Full Prescribing Information.
+See the complete boxed warning for drug abuse and dependence information at the beginning of Full Prescribing Information.

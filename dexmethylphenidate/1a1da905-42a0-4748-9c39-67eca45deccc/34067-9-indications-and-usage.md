@@ -2,13 +2,13 @@
 
 Focalin XR is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients aged 6 years and older.
 
-The effectiveness of Focalin XR in the treatment of ADHD in patients aged 6 years and older was established in two placebo-controlled studies in patients meeting DSM-IV criteria for ADHD [see Clinical Studies (14)].
+The effectiveness of Focalin XR in the treatment of ADHD in patients aged 6 years and older was established in 2 placebo-controlled studies in patients meeting DSM-IV criteria for ADHD [see Clinical Studies (14)].
 
 A diagnosis of Attention Deficit Hyperactivity Disorder (ADHD; DSM-IV) implies the presence of hyperactive-impulsive or inattentive symptoms that caused impairment and were present before age 7 years.
-The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning, and be present in two or more settings, e.g., school (or work) and at home.
+The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning, and be present in 2 or more settings, e.g., school (or work) and at home.
 The symptoms must not be better accounted for by another mental disorder.
-For the Inattentive Type, at least six of the following symptoms must have persisted for at least 6 months: lack of attention to details/careless mistakes; lack of sustained attention; poor listener; failure to follow through on tasks; poor organization; avoids tasks requiring sustained mental effort; loses things; easily distracted; forgetful.
-For the Hyperactive-Impulsive Type, at least six of the following symptoms must have persisted for at least 6 months: fidgeting/squirming; leaving seat; inappropriate running/climbing; difficulty with quiet activities; “on the go”; excessive talking; blurting answers; can’t wait turn; intrusive.
+For the Inattentive Type, at least 6 of the following symptoms must have persisted for at least 6 months: lack of attention to details/careless mistakes; lack of sustained attention; poor listener; failure to follow through on tasks; poor organization; avoids tasks requiring sustained mental effort; loses things; easily distracted; forgetful.
+For the Hyperactive-Impulsive Type, at least 6 of the following symptoms must have persisted for at least 6 months: fidgeting/squirming; leaving seat; inappropriate running/climbing; difficulty with quiet activities; “on the go”; excessive talking; blurting answers; can’t wait turn; intrusive.
 The Combined Types requires both inattentive and hyperactive-impulsive criteria to be met.
 
 Special Diagnostic Considerations

@@ -10,7 +10,7 @@ This Medication Guide does not take the place of talking to your doctor about yo
 
 | What is the most important information I should know about FOCALIN XR? |
 | --- |
-| The following have been reported with use of dexmethylphenidate hydrochloride and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defects stroke and heart attack in adults increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting FOCALIN XR. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with FOCALIN XR. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking FOCALIN XR. 2. Mental (Psychiatric) problems: All Patients new or worse behavior and thought problems new or worse bipolar illness new or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking FOCALIN XR, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
+| The following have been reported with use of dexmethylphenidate hydrochloride and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defects stroke and heart attack in adults increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting FOCALIN XR. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with FOCALIN XR. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking FOCALIN XR. 2. Mental (Psychiatric) problems: All Patients new or worse behavior and thought problems new or worse bipolar illness new or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking FOCALIN XR, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. 3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red. Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes.Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking FOCALIN XR. |
 
 What Is FOCALIN XR?
 
@@ -20,17 +20,17 @@ FOCALIN XR may help increase attention and decrease impulsiveness and hyperactiv
 
 FOCALIN XR should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
 
-| FOCALIN XR is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep FOCALIN XR in a safe place to prevent misuse and abuse. Selling or giving away FOCALIN XR may harm others, and is against the law. Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs |
+| FOCALIN XR is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep FOCALIN XR in a safe place to prevent misuse and abuse. Selling or giving away FOCALIN XR may harm others, and is against the law. Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
 | --- |
 
 Who should not take FOCALIN XR?
 
 FOCALIN XR should not be taken if you or your child:
 
-- are very anxious, tense, or agitated
-- have an eye problem called glaucoma
+- are very anxious, tense, or agitated.
+- have an eye problem called glaucoma.
 - have tics or Tourette’s syndrome, or a family history of Tourette’s syndrome.
-  Tics are hard to control repeated movements or sounds.
+  Tics are hard-to-control repeated movements or sounds.
 - are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
 - are allergic to anything in FOCALIN XR.
   See the end of this Medication Guide for a complete list of ingredients.
@@ -44,12 +44,13 @@ Before starting FOCALIN XR tell your or your child’s doctor about all health c
 - mental problems including psychosis, mania, bipolar illness, or depression
 - tics or Tourette’s syndrome
 - seizures or have had an abnormal brain wave test (EEG)
+- circulation problems in fingers or toes
 
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breast-feeding.
+Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
 
 Can FOCALIN XR be taken with other medicines?
 
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all of the medicines that you or your child takes including prescription and nonprescription medicines, vitamins, and herbal supplements.
 FOCALIN XR and some medicines may interact with each other and cause serious side effects.
 Sometimes the doses of other medicines will need to be adjusted while taking FOCALIN XR.
 
@@ -110,10 +111,10 @@ Ask your doctor or pharmacist for more information.
 
 How should I store FOCALIN XR?
 
-- Store FOCALIN XR in a safe place at room temperature, 59 to 86° F (15 to 30° C).
+- Store FOCALIN XR in a safe place at room temperature, 59°F to 86°F (15°C to 30°C).
 - Keep FOCALIN XR and all medicines out of the reach of children.
 
-General information about FOCALIN XR
+General information about FOCALIN XR.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use FOCALIN XR for a condition for which it was not prescribed.
@@ -139,16 +140,10 @@ SODAS® is a registered trademark of Alkermes Pharma Ireland Limited
 
 This product is covered by US patents including 5,837,284, 5,908,850, 6,228,398, 6,355,656, and 6,635,284.
 
-Manufactured for
+Manufactured for Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
-
-By Alkermes Gainesville LLC
-
-Gainesville, GA 30504
+By Alkermes Gainesville LLC Gainesville, GA 30504
 
 © Novartis
 
-T2012-119/T2012-120 June 2012/June 2012
+T2013-56 June 2013

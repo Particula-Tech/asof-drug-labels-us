@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Sudden Death and Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
+## 5.1 Sudden Death and Preexisting Structural Cardiac Abnormalities or Other Serious Heart Problems
 
 Children and Adolescents
 
@@ -13,20 +13,20 @@ Sudden death, stroke, and myocardial infarction have been reported in adults tak
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
 Adults with such abnormalities should also generally not be treated with stimulant drugs.
 
-## 5.2 Hypertension and other Cardiovascular Conditions
+## 5.2 Hypertension and Other Cardiovascular Conditions
 
 Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
+Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with preexisting hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
 
 ## 5.3 Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
 
 Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
 Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
 
-## 5.4 Pre-Existing Psychosis
+## 5.4 Preexisting Psychosis
 
-Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.
 
 ## 5.5 Bipolar Illness
 
@@ -46,8 +46,8 @@ Although there is no systematic evidence that stimulants cause aggressive behavi
 
 ## 5.8 Long-Term Suppression of Growth
 
-Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-In the 7-week double-blind placebo-controlled study of Focalin XR, the mean weight gain was greater for patients receiving placebo (+0.4 kg) than for patients receiving Focalin XR (-0.5 kg).
+Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
+In the 7-week, double-blind, placebo-controlled study of Focalin XR, the mean weight gain was greater for patients receiving placebo (+0.4 kg) than for patients receiving Focalin XR (-0.5 kg).
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
@@ -56,14 +56,23 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
-## 5.10 Visual Disturbance
+## 5.10 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
+
+Stimulants, including Focalin XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treating with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
+## 5.11 Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
-## 5.11 Use in Children Under Six Years of Age
+## 5.12 Use in Children Under Six Years of Age
 
 Focalin XR should not be used in children under 6 years of age, since safety and efficacy in this age group have not been established.
 
-## 5.12 Hematologic Monitoring
+## 5.13 Hematologic Monitoring
 
 Periodic CBC, differential, and platelet counts are advised during prolonged therapy.

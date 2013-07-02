@@ -3,7 +3,7 @@
 Focalin XR is for oral administration once daily in the morning.
 
 Focalin XR may be swallowed as whole capsules or alternatively may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
-Focalin XR and/or their contents should not be crushed, chewed, or divided.
+Focalin XR capsules and/or their contents should not be crushed, chewed, or divided.
 
 The capsules may be carefully opened and the beads sprinkled over a spoonful of applesauce.
 The mixture of drug and applesauce should be consumed immediately in its entirety.

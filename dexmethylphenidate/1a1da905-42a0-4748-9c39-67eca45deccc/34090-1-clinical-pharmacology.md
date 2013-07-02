@@ -10,8 +10,8 @@ The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD
 
 Effects on QT Interval
 
-The effect of Focalin® XR on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of Focalin® XR 40mg in 75 healthy volunteers.
-ECGs were collected up to 12 h post-dose.
+The effect of Focalin XR on the QT interval was evaluated in a double-blind, placebo- and open-label active (moxifloxacin)-controlled study following single doses of Focalin XR 40mg in 75 healthy volunteers.
+ECGs were collected up to 12 hours postdose.
 Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
 The maximum mean prolongation of QTcF intervals was <5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
 This was below the threshold of clinical concern and there was no evident-exposure response relationship.
@@ -20,22 +20,22 @@ This was below the threshold of clinical concern and there was no evident-exposu
 
 Absorption
 
-Focalin XR produces a bi-modal plasma concentration-time profile (i.e., two distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
-The initial rate of absorption for Focalin XR is similar to that of Focalin tablets as shown by the similar rate parameters between the two formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1 ½ hours (typical range 1-4 hours).
-The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for Focalin XR given once daily (about 6.5 hours, range 4.5-7 hours) compared to Focalin tablets given in two doses 4 hours apart (see Figure 1), although the ranges observed are greater for Focalin XR.
+Focalin XR produces a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
+The initial rate of absorption for Focalin XR is similar to that of Focalin tablets as shown by the similar rate parameters between the 2 formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1.5 hours (typical range 1-4 hours).
+The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for Focalin XR given once daily (about 6.5 hours, range 4.5-7 hours) compared to Focalin tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for Focalin XR.
 
-Focalin XR given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and less peak and trough fluctuations than Focalin tablets given in two doses given 4 hours apart.
+Focalin XR given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and fewer peak and trough fluctuations than Focalin tablets given in 2 doses given 4 hours apart.
 This is due to an earlier onset and more prolonged absorption from the delayed-release beads (see Figure 1).
 
-The AUC (exposure) after administration of Focalin XR given once daily is equivalent to the same total dose of Focalin tablets given in two doses 4 hours apart.
-The variability in Cmax, Cmin, and AUC is similar between Focalin XR and Focalin IR with approximately a three-fold range in each.
+The AUC (exposure) after administration of Focalin XR given once daily is equivalent to the same total dose of Focalin tablets given in 2 doses 4 hours apart.
+The variability in Cmax, Cmin, and AUC is similar between Focalin XR and Focalin IR with approximately a 3-fold range in each.
 
 Radiolabeled racemic methylphenidate is well absorbed after oral administration with approximately 90% of the radioactivity recovered in urine.
-However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22-25%.
+However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22%-25%.
 
 Dose Proportionality
 
-Dose proportionality of Focalin XR was evaluated in a randomized, single-dose, five-period, cross-over study with administration of single doses of 5, 10, 20, 30 and 40 mg to healthy adults.
+Dose proportionality of Focalin XR was evaluated in a randomized, single-dose, 5-period, cross-over study with administration of single doses of 5, 10, 20, 30, and 40 mg to healthy adults.
 Results confirmed dose proportionality within this dose range.
 
 Food Effects
@@ -56,7 +56,7 @@ For patients unable to swallow the capsule, the contents may be sprinkled on app
 
 Distribution
 
-The plasma protein binding of dexmethylphenidate is not known; racemic methylphenidate is bound to plasma proteins by 12-15%, independent of concentration.
+The plasma protein binding of dexmethylphenidate is not known; racemic methylphenidate is bound to plasma proteins by 12%-15%, independent of concentration.
 Dexmethylphenidate shows a volume of distribution of 2.65±1.11 L/kg.
 Plasma dexmethylphenidate concentrations decline monophasically following oral administration of Focalin XR.
 
@@ -102,4 +102,4 @@ Very little unchanged drug is excreted in the urine, thus renal insufficiency is
 
 Hepatic Insufficiency
 
-There is no experience with the use of Focalin XR in patients with hepatic insufficiency (see Drug Interactions (7).
+There is no experience with the use of Focalin XR in patients with hepatic insufficiency [see Drug Interactions (7)].

@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
+Pregnancy Category C
 
 There are no adequate and well controlled studies of Focalin in pregnant women.
 Dexmethylphenidate did not cause major malformations in rats or rabbits; however, it did cause delayed skeletal ossification and decreased postweaning weight gain in rats.
@@ -24,7 +24,7 @@ Focalin XR has not been studied in labor and delivery.
 It is not known whether dexmethylphenidate is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised if Focalin XR is administered to a nursing woman.
 Information from 4 published case reports on the use of racemic methylphenidate during breastfeeding suggest that at maternal doses of 35-80 mg/day, milk concentrations of methylphenidate range from undetectable to 15.4 ng/mL.
-Based on these limited data, the calculated infant daily dose for an exclusively breastfed infant would be about 0.4 – 2.9 µg/kg/day or about 0.2-0.7% of the maternal weight adjusted dose.
+Based on these limited data, the calculated infant daily dose for an exclusively breastfed infant would be about 0.4-2.9 µg/kg/day or about 0.2-0.7% of the maternal weight adjusted dose.
 
 ## 8.4 Pediatric Use
 
