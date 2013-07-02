@@ -5,7 +5,7 @@ Disposition of metronidazole in the body is similar for both oral and intravenou
 
 The major route of elimination of metronidazole and its metabolites is via the urine (60-80% of the dose), with fecal excretion accounting for 6-15% of the dose.
 The metabolites that appear in the urine result primarily from side-chain oxidation [1-(ß-hydroxyethyl)-2-hydroxymethyl-5-nitroimidazole and 2-methyl-5-nitroimidazole-1-yl-acetic acid] and glucuronide conjugation, with unchanged metronidazole accounting for approximately 20% of the total.
-Renal clearance of metronidazole is approximately 10 mL/min/1.73 m2.
+Renal clearance of metronidazole is approximately 10 mL/min/1.73 m.2
 
 Metronidazole is the major component appearing in the plasma, with lesser quantities of the 2-hydroxymethyl metabolite also being present.
 Less than 20% of the circulating metronidazole is bound to plasma proteins.
@@ -48,15 +48,14 @@ Peptococcus species
 
 Peptostreptococcus species
 
-Many nonspore-forming, gram-positive anaerobic rods are resistant to metronidazole1
+Many nonspore-forming, gram-positive anaerobic rods are resistant to metronidazole.1
 
 ## Susceptibility Tests:
 
 Bacteriologic studies should be performed to determine the causative organisms and their susceptibility to metronidazole; however, the rapid, routine susceptibility testing of individual isolates of anaerobic bacteria is not always practical, and therapy may be started while awaiting these results.
 
 Quantitative methods give the most accurate estimates of susceptibility to antibacterial drugs.
-A standardized agar dilution method and a broth microdilution method are recommended1.
-Interpretive criteria for determining the susceptibility of an organism to metronidazole are:
+A standardized agar dilution method and a broth microdilution method are recommended.1 Interpretive criteria for determining the susceptibility of an organism to metronidazole are:
 
 | DilutionMIC values for agar or broth microdilution are considered equivalent. |  |
 | --- | --- |
@@ -82,7 +81,7 @@ A clinical laboratory test is considered under acceptable control if the results
 
 For reference agar dilution testing, metronidazole MIC ranges associated with control strains are:
 
-| Control Strain | ATCC® number ATTC is a registered trademark of the American Type Culture Collection | MIC range (mcg/mL) |
+| Control Strain | ATCC® number ATCC is a registered trademark of the American Type Culture Collection | MIC range (mcg/mL) |
 | --- | --- | --- |
 | Bacteroides fragilis | 25285 | 0.25 - 1 |
 | Bacteroides thetaiotaomicron | 2974 | 0.5 - 2 |
@@ -90,7 +89,7 @@ For reference agar dilution testing, metronidazole MIC ranges associated with co
 
 For broth microdilution testing, metronidazole MIC ranges associated with control strains are:
 
-| Control Strain | ATCC® number ATTC is a registered trademark of the American Type Culture Collection | MIC range (mcg/mL) |
+| Control Strain | ATCC® number ATCC is a registered trademark of the American Type Culture Collection | MIC range (mcg/mL) |
 | --- | --- | --- |
 | Bacteroides fragilis | 25285 | 0.25 - 2 |
 | Bacteroides thetaiotaomicron | 2974 | 0.5 - 4 |
