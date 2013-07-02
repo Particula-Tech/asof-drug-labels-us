@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Results from human in vitro metabolism studies and nonclinical studies show that REVLIMID is neither metabolized by nor inhibits or induces the cytochrome P450 pathway suggesting that lenalidomide is not likely to cause or be subject to P450-based metabolic drug interactions in man.
+Results from human in vitro studies show that REVLIMID is neither metabolized by nor inhibits or induces the cytochrome P450 pathway suggesting that lenalidomide is not likely to cause or be subject to P450-based metabolic drug interactions.
 
-In vitro studies demonstrate that lenalidomide is not a substrate of multidrug resistance proteins MRP1, MRP2, or MRP3 nor a substrate of organic anion and cation uptake transporters OAT1, OAT3, OATP1B1 or OCT1.
+In vitro studies demonstrated that REVLIMID is not a substrate of human breast cancer resistance protein (BCRP), multidrug resistance protein (MRP) transporters MRP1, MRP2, or MRP3, organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptide 1B1 (OATP1B1 or OATP2), organic cation transporters (OCT) OCT1 and OCT2, multidrug and toxin extrusion protein (MATE) MATE1, and organic cation transporters novel (OCTN) OCTN1 and OCTN2.
 
 In vitro, lenalidomide is a substrate, but is not an inhibitor of P-glycoprotein (P-gp).
 
@@ -20,5 +20,4 @@ Close monitoring of PT and INR is recommended in multiple myeloma patients takin
 
 ## 7.3 Concomitant Therapies That May Increase the Risk of Thrombosis
 
-Erythropoietic agents, or other agents that may increase the risk of thrombosis, such as estrogen containing therapies, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone.
-[see Warnings and Precautions (5.4)]
+Erythropoietic agents, or other agents that may increase the risk of thrombosis, such as estrogen containing therapies, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone [see Warnings and Precautions (5.4)].

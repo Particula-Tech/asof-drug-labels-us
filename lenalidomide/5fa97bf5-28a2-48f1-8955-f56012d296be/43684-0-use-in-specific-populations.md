@@ -11,9 +11,8 @@ REVLIMID is a thalidomide analogue.
 
 Thalidomide is a human teratogen, inducing a high frequency of severe and life-threatening birth defects such as amelia (absence of limbs), phocomelia (short limbs), hypoplasticity of the bones, absence of bones, external ear abnormalities (including anotia, micropinna, small or absent external auditory canals), facial palsy, eye abnormalities (anophthalmos, microphthalmos), and congenital heart defects.
 Alimentary tract, urinary tract, and genital malformations have also been documented and mortality at or shortly after birth has been reported in about 40% of infants.
-
 Lenalidomide caused thalidomide-type limb defects in monkey offspring.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
 
 If pregnancy does occur during treatment, immediately discontinue the drug.
 Under these conditions, refer patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
@@ -21,7 +20,8 @@ Any suspected fetal exposure to REVLIMID must be reported to the FDA via the Med
 
 Animal data
 
-In an embryo-fetal developmental toxicity study in monkeys, teratogenicity, including thalidomide-like limb defects, occurred in offspring when pregnant monkeys received oral lenalidomide during organogenesis at doses approximately 0.17 times the maximum recommended human dose (MRHD) of 25 mg, based on body surface area.
+In an embryo-fetal developmental toxicity study in monkeys, teratogenicity, including thalidomide-like limb defects, occurred in offspring when pregnant monkeys received oral lenalidomide during organogenesis.
+Exposure (AUC) in monkeys at the lowest dose was 0.17 times the human exposure at the maximum recommended human dose (MRHD) of 25 mg.
 Similar studies in pregnant rabbits and rats at 20 times and 200 times the MRHD respectively, produced embryo lethality in rabbits and no adverse reproductive effects in rats.
 
 In a pre- and post-natal development study in rats, animals received lenalidomide from organogenesis through lactation.
@@ -55,6 +55,13 @@ Although the overall frequency of adverse events (100%) was the same in patients
 A greater proportion of patients over 65 years of age discontinued from the clinical studies because of adverse events than the proportion of younger patients (27% vs.16%).
 No differences in efficacy were observed between patients over 65 years of age and younger patients.
 
+REVLIMID has been used in a mantle cell lymphoma (MCL) clinical trial in patients up to 83 years of age.
+Of the 134 patients with MCL enrolled in the MCL trial, 63% were age 65 and over, while 22% of patients were age 75 and over.
+The overall frequency of adverse events was similar in patients over 65 years of age and in younger patients (98% vs. 100%).
+The overall incidence of grade 3 and 4 adverse events was also similar in these 2 patient groups (79% vs. 78%, respectively).
+The frequency of serious adverse events was higher in patients over 65 years of age than in younger patients (55% vs. 41%).
+No differences in efficacy were observed between patients over 65 years of age and younger patients.
+
 Since elderly patients are more likely to have decreased renal function, care should be taken in dose selection.
 Monitor renal function.
 
@@ -63,7 +70,9 @@ Monitor renal function.
 REVLIMID can cause fetal harm when administered during pregnancy [see Use in Specific Populations (8.1)].
 Females of reproductive potential must avoid pregnancy 4 weeks before therapy, while taking REVLIMID, during dose interruptions and for at least 4 weeks after completing therapy.
 
-Females Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use two methods of reliable birth control simultaneously (one highly effective form of contraception – tubal ligation, IUD, hormonal (birth control pills, injections, hormonal patches, vaginal rings or implants) or partner’s vasectomy and one additional effective contraceptive method – male latex or synthetic condom, diaphragm or cervical cap.
+Females
+
+Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use two methods of reliable birth control simultaneously (one highly effective form of contraception – tubal ligation, IUD, hormonal (birth control pills, injections, hormonal patches, vaginal rings or implants) or partner’s vasectomy and one additional effective contraceptive method – male latex or synthetic condom, diaphragm or cervical cap.
 Contraception must begin 4 weeks prior to initiating treatment with REVLIMID, during therapy, during dose interruptions and continuing for 4 weeks following discontinuation of REVLIMID therapy.
 Reliable contraception is indicated even where there has been a history of infertility, unless due to hysterectomy.
 Females of reproductive potential should be referred to a qualified provider of contraceptive methods, if needed.
@@ -81,9 +90,9 @@ Male patients taking REVLIMID must not donate sperm
 
 ## 8.7 Renal Impairment
 
-Since lenalidomide is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID are recommended to provide appropriate drug exposure in patients with moderate (CLcr 30-60 mL/min) or severe renal impairment (CLcr < 30 mL/min) and in patients on dialysis [see Dosage and Administration (2.1, 2.2)].
+Since lenalidomide is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID are recommended to provide appropriate drug exposure in patients with moderate (CLcr 30-60 mL/min) or severe renal impairment (CLcr < 30 mL/min) and in patients on dialysis [see Dosage and Administration (2.4)].
 
 ## 8.8 Hepatic Impairment
 
-No study has been conducted in patients with hepatic impairment.
+No dedicated study has been conducted in patients with hepatic impairment.
 The elimination of unchanged lenalidomide is predominantly by the renal route.

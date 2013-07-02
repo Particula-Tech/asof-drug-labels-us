@@ -2,13 +2,14 @@
 
 The following adverse reactions are described in detail in other labeling sections:
 
-- Neutropenia and thrombocytopenia [see Boxed Warnings, Warnings and Precautions (5.3)]
-- Deep vein thrombosis and pulmonary embolism [see Boxed Warnings, Warnings and Precautions (5.4)]
-- Allergic Reactions [see Warnings and Precautions (5.5)]
-- Tumor lysis syndrome [see Warnings and Precautions (5.6)]
-- Tumor flare reactions [see Warnings and Precautions (5.7)]
-- Hepatotoxicity [see Warnings and Precautions (5.8)]
-- Second Primary Malignancies [see Warnings and Precautions (5.9)]
+- 
+  - Neutropenia and thrombocytopenia [see Boxed Warnings, Warnings and Precautions (5.3)]
+  - Deep vein thrombosis and pulmonary embolism [see Boxed Warnings, Warnings and Precautions (5.4)]
+  - Allergic Reactions [see Warnings and Precautions (5.5)]
+  - Tumor lysis syndrome [see Warnings and Precautions (5.6)]
+  - Tumor flare reactions [see Warnings and Precautions (5.7)]
+  - Hepatotoxicity [see Warnings and Precautions (5.8)]
+  - Second Primary Malignancies [see Warnings and Precautions (5.9)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -20,9 +21,9 @@ In the REVLIMID/dexamethasone treatment group, 269 patients (76%) underwent at l
 Of these patients who had one dose interruption with or without a dose reduction, 50% in the REVLIMID/dexamethasone treatment group underwent at least one additional dose interruption with or without a dose reduction compared to 21% in the placebo/dexamethasone treatment group.
 Most adverse events and Grade 3/4 adverse events were more frequent in patients who received the combination of REVLIMID/dexamethasone compared to placebo/dexamethasone.
 
-Tables 3, 4, and 5 summarize the adverse reactions reported for REVLIMID/dexamethasone and placebo/dexamethasone groups.
+Tables 2, 3, and 4 summarize the adverse reactions reported for REVLIMID/dexamethasone and placebo/dexamethasone groups.
 
-Table 3: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
+Table 2: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
 
 | System Organ Class/ Preferred Term | REVLIMID/Dex* (n=353) n (%) | Placebo/Dex * (n=350) n (%) |
 | --- | --- | --- |
@@ -87,7 +88,7 @@ Table 3: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Differ
 | Hypertension | 28 (7.9) | 20 (5.7) |
 | Hypotension | 25 (7.1) | 15 (4.3) |
 
-Table 4: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone groups
+Table 3: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone groups
 
 | System Organ Class/ Preferred Term | REVLIMID/Dex# (n=353) n (%) | Placebo/Dex# (n=350) n (%) |
 | --- | --- | --- |
@@ -131,7 +132,7 @@ Table 4: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and With a ≥1%
 | Psychiatric Disorder |  |  |
 | Depression | 10 (2.8) | 6 (1.7) |
 
-Table 5: Serious Adverse Reactions Reported in ≥1% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
+Table 4: Serious Adverse Reactions Reported in ≥1% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
 
 | System Organ Class/ Preferred Term | REVLIMID/Dex& (n=353) n (%) | Placebo/Dex& (n=350) n (%) |
 | --- | --- | --- |
@@ -200,144 +201,144 @@ The most frequently reported adverse events were related to blood and lymphatic 
 
 Thrombocytopenia (61.5%; 91/148) and neutropenia (58.8%; 87/148) were the most frequently reported adverse events.
 The next most common adverse events observed were diarrhea (48.6%; 72/148), pruritus (41.9%; 62/148), rash (35.8%; 53/148) and fatigue (31.1%; 46/148).
-Table 6 summarizes the adverse events that were reported in ≥ 5% of the REVLIMID treated patients in the del 5q MDS clinical study.
-Table 7 summarizes the most frequently observed Grade 3 and Grade 4 adverse reactions regardless of relationship to treatment with REVLIMID.
-In the single-arm studies conducted, it is often not possible to distinguish adverse events that are drug-related and those that reflect the patient’s underlying disease.
+Table 5 summarizes the adverse events that were reported in ≥ 5% of the REVLIMID treated patients in the del 5q MDS clinical study.
+Table 6 summarizes the most frequently observed Grade 3 and Grade 4 adverse reactions regardless of relationship to treatment with REVLIMID.
+In the single-arm studies conducted, it is often not possible to distinguish adverse events that are drug-related and those that reflect the patient's underlying disease.
 
-Table 6: Summary of Adverse Events Reported in ≥5% of the REVLIMID Treated Patients in del 5q MDS Clinical Study
+Table 5: Summary of Adverse Events Reported in ≥5% of the REVLIMID Treated Patients in del 5q MDS Clinical Study
 
-| System organ class/Preferred term [a] | 10 mg Overall (N=148) |  |
-| --- | --- | --- |
-| Patients with at least one adverse event | 148 | (100.0) |
-| Blood and Lymphatic System Disorders |  |  |
-| Thrombocytopenia | 91 | (61.5) |
-| Neutropenia | 87 | (58.8) |
-| Anemia | 17 | (11.5) |
-| Leukopenia | 12 | (8.1) |
-| Febrile Neutropenia | 8 | (5.4) |
-| Skin and Subcutaneous Tissue Disorders |  |  |
-| Pruritus | 62 | (41.9) |
-| Rash | 53 | (35.8) |
-| Dry Skin | 21 | (14.2) |
-| Contusion | 12 | (8.1) |
-| Night Sweats | 12 | (8.1) |
-| Sweating Increased | 10 | (6.8) |
-| Ecchymosis | 8 | (5.4) |
-| Erythema | 8 | (5.4) |
-| Gastrointestinal Disorders |  |  |
-| Diarrhea | 72 | (48.6) |
-| Constipation | 35 | (23.6) |
-| Nausea | 35 | (23.6) |
-| Abdominal Pain | 18 | (12.2) |
-| Vomiting | 15 | (10.1) |
-| Abdominal Pain Upper | 12 | (8.1) |
-| Dry Mouth | 10 | (6.8) |
-| Loose Stools | 9 | (6.1) |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Nasopharyngitis | 34 | (23.0) |
-| Cough | 29 | (19.6) |
-| Dyspnea | 25 | (16.9) |
-| Pharyngitis | 23 | (15.5) |
-| Epistaxis | 22 | (14.9) |
-| Dyspnea Exertional | 10 | (6.8) |
-| Rhinitis | 10 | (6.8) |
-| Bronchitis | 9 | (6.1) |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 46 | (31.1) |
-| Pyrexia | 31 | (20.9) |
-| Edema Peripheral | 30 | (20.3) |
-| Asthenia | 22 | (14.9) |
-| Edema | 15 | (10.1) |
-| Pain | 10 | (6.8) |
-| Rigors | 9 | (6.1) |
-| Chest Pain | 8 | (5.4) |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Arthralgia | 32 | (21.6) |
-| Back Pain | 31 | (20.9) |
-| Muscle Cramp | 27 | (18.2) |
-| Pain in Limb | 16 | (10.8) |
-| Myalgia | 13 | (8.8) |
-| Peripheral Swelling | 12 | (8.1) |
-| Nervous System Disorders |  |  |
-| Dizziness | 29 | (19.6) |
-| Headache | 29 | (19.6) |
-| Hypoesthesia | 10 | (6.8) |
-| Dysgeusia | 9 | (6.1) |
-| Peripheral Neuropathy | 8 | (5.4) |
-| Infections and Infestations |  |  |
-| Upper Respiratory Tract Infection | 22 | (14.9) |
-| Pneumonia | 17 | (11.5) |
-| Urinary Tract Infection | 16 | (10.8) |
-| Sinusitis | 12 | (8.1) |
-| Cellulitis | 8 | (5.4) |
-| Metabolism and Nutrition Disorders |  |  |
-| Hypokalemia | 16 | (10.8) |
-| Anorexia | 15 | (10.1) |
-| Hypomagnesemia | 9 | (6.1) |
-| Investigations |  |  |
-| Alanine Aminotransferase Increased | 12 | (8.1) |
-| Psychiatric Disorders |  |  |
-| Insomnia | 15 | (10.1) |
-| Depression | 8 | (5.4) |
-| Renal and Urinary Disorders |  |  |
-| Dysuria | 10 | (6.8) |
-| Vascular Disorders |  |  |
-| Hypertension | 9 | (6.1) |
-| Endocrine Disorders |  |  |
-| Acquired Hypothyroidism | 10 | (6.8) |
-| Cardiac Disorders |  |  |
-| Palpitations | 8 | (5.4) |
-| [a] System organ classes and preferred terms are coded using the MedDRA dictionary. System organ classes and preferred terms are listed in descending order of frequency for the Overall column. A patient with multiple occurrences of an AE is counted only once in the AE category. |  |  |
+| System organ class/Preferred term [a] | 10 mg Overall (N=148) |  |  |
+| --- | --- | --- | --- |
+| Patients with at least one adverse event | 148 | (100.0) |  |
+| Blood and Lymphatic System Disorders |  |  |  |
+| Thrombocytopenia | 91 | (61.5) |  |
+| Neutropenia | 87 | (58.8) |  |
+| Anemia | 17 | (11.5) |  |
+| Leukopenia | 12 | (8.1) |  |
+| Febrile Neutropenia | 8 | (5.4) |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |
+| Pruritus | 62 | (41.9) |  |
+| Rash | 53 | (35.8) |  |
+| Dry Skin | 21 | (14.2) |  |
+| Contusion | 12 | (8.1) |  |
+| Night Sweats | 12 | (8.1) |  |
+| Sweating Increased | 10 | (6.8) |  |
+| Ecchymosis | 8 | (5.4) |  |
+| Erythema | 8 | (5.4) |  |
+| Gastrointestinal Disorders |  |  |  |
+| Diarrhea | 72 | (48.6) |  |
+| Constipation | 35 | (23.6) |  |
+| Nausea | 35 | (23.6) |  |
+| Abdominal Pain | 18 | (12.2) |  |
+| Vomiting | 15 | (10.1) |  |
+| Abdominal Pain Upper | 12 | (8.1) |  |
+| Dry Mouth | 10 | (6.8) |  |
+| Loose Stools | 9 | (6.1) |  |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |
+| Nasopharyngitis | 34 | (23.0) |  |
+| Cough | 29 | (19.6) |  |
+| Dyspnea | 25 | (16.9) |  |
+| Pharyngitis | 23 | (15.5) |  |
+| Epistaxis | 22 | (14.9) |  |
+| Dyspnea Exertional | 10 | (6.8) |  |
+| Rhinitis | 10 | (6.8) |  |
+| Bronchitis | 9 | (6.1) |  |
+| General Disorders and Administration Site Conditions |  |  |  |
+| Fatigue | 46 | (31.1) |  |
+| Pyrexia | 31 | (20.9) |  |
+| Edema Peripheral | 30 | (20.3) |  |
+| Asthenia | 22 | (14.9) |  |
+| Edema | 15 | (10.1) |  |
+| Pain | 10 | (6.8) |  |
+| Rigors | 9 | (6.1) |  |
+| Chest Pain | 8 | (5.4) |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |
+| Arthralgia | 32 | (21.6) |  |
+| Back Pain | 31 | (20.9) |  |
+| Muscle Cramp | 27 | (18.2) |  |
+| Pain in Limb | 16 | (10.8) |  |
+| Myalgia | 13 | (8.8) |  |
+| Peripheral Swelling | 12 | (8.1) |  |
+| Nervous System Disorders |  |  |  |
+| Dizziness | 29 | (19.6) |  |
+| Headache | 29 | (19.6) |  |
+| Hypoesthesia | 10 | (6.8) |  |
+| Dysgeusia | 9 | (6.1) |  |
+| Peripheral Neuropathy | 8 | (5.4) |  |
+| Infections and Infestations |  |  |  |
+| Upper Respiratory Tract Infection | 22 | (14.9) |  |
+| Pneumonia | 17 | (11.5) |  |
+| Urinary Tract Infection | 16 | (10.8) |  |
+| Sinusitis | 12 | (8.1) |  |
+| Cellulitis | 8 | (5.4) |  |
+| Metabolism and Nutrition Disorders |  |  |  |
+| Hypokalemia | 16 | (10.8) |  |
+| Anorexia | 15 | (10.1) |  |
+| Hypomagnesemia | 9 | (6.1) |  |
+| Investigations |  |  |  |
+| Alanine Aminotransferase Increased | 12 | (8.1) |  |
+| Psychiatric Disorders |  |  |  |
+| Insomnia | 15 | (10.1) |  |
+| Depression | 8 | (5.4) |  |
+| Renal and Urinary Disorders |  |  |  |
+| Dysuria | 10 | (6.8) |  |
+| Vascular Disorders |  |  |  |
+| Hypertension | 9 | (6.1) |  |
+| Endocrine Disorders |  |  |  |
+| Acquired Hypothyroidism | 10 | (6.8) |  |
+| Cardiac Disorders |  |  |  |
+| Palpitations | 8 | (5.4) |  |
+| [a] System organ classes and preferred terms are coded using the MedDRA dictionary. System organ classes and preferred terms are listed in descending order of frequency for the Overall column. A patient with multiple occurrences of an AE is counted only once in the AE category. |  |  |  |
 
-Table 7: Most Frequently Observed Grade 3 and 4 Adverse Events [1] Regardless of Relationship to Study Drug Treatment
+Table 6: Most Frequently Observed Grade 3 and 4 Adverse Events [1] Regardless of Relationship to Study Drug Treatment
 
-| Preferred term [2] | 10 mg (N=148) |  |
-| --- | --- | --- |
-| Patients with at least one Grade 3/4 AE | 131 | (88.5) |
-| Neutropenia | 79 | (53.4) |
-| Thrombocytopenia | 74 | (50.0) |
-| Pneumonia | 11 | (7.4) |
-| Rash | 10 | (6.8) |
-| Anemia | 9 | (6.1) |
-| Leukopenia | 8 | (5.4) |
-| Fatigue | 7 | (4.7) |
-| Dyspnea | 7 | (4.7) |
-| Back Pain | 7 | (4.7) |
-| Febrile Neutropenia | 6 | (4.1) |
-| Nausea | 6 | (4.1) |
-| Diarrhea | 5 | (3.4) |
-| Pyrexia | 5 | (3.4) |
-| Sepsis | 4 | (2.7) |
-| Dizziness | 4 | (2.7) |
-| Granulocytopenia | 3 | (2.0) |
-| Chest Pain | 3 | (2.0) |
-| Pulmonary Embolism | 3 | (2.0) |
-| Respiratory Distress | 3 | (2.0) |
-| Pruritus | 3 | (2.0) |
-| Pancytopenia | 3 | (2.0) |
-| Muscle Cramp | 3 | (2.0) |
-| Respiratory Tract Infection | 2 | (1.4) |
-| Upper Respiratory Tract Infection | 2 | (1.4) |
-| Asthenia | 2 | (1.4) |
-| Multi-organ Failure | 2 | (1.4) |
-| Epistaxis | 2 | (1.4) |
-| Hypoxia | 2 | (1.4) |
-| Pleural Effusion | 2 | (1.4) |
-| Pneumonitis | 2 | (1.4) |
-| Pulmonary Hypertension | 2 | (1.4) |
-| Vomiting | 2 | (1.4) |
-| Sweating Increased | 2 | (1.4) |
-| Arthralgia | 2 | (1.4) |
-| Pain in Limb | 2 | (1.4) |
-| Headache | 2 | (1.4) |
-| Syncope | 2 | (1.4) |
-| [1] Adverse events with frequency ≥1% in the 10 mg Overall group. Grade 3 and 4 are based on National Cancer Institute Common Toxicity Criteria version 2. [2] Preferred Terms are coded using the MedDRA dictionary. A patient with multiple occurrences of an AE is counted only once in the Preferred Term category. |  |  |
+| Preferred term [2] | 10 mg (N=148) |  |  |
+| --- | --- | --- | --- |
+| Patients with at least one Grade 3/4 AE | 131 | (88.5) |  |
+| Neutropenia | 79 | (53.4) |  |
+| Thrombocytopenia | 74 | (50.0) |  |
+| Pneumonia | 11 | (7.4) |  |
+| Rash | 10 | (6.8) |  |
+| Anemia | 9 | (6.1) |  |
+| Leukopenia | 8 | (5.4) |  |
+| Fatigue | 7 | (4.7) |  |
+| Dyspnea | 7 | (4.7) |  |
+| Back Pain | 7 | (4.7) |  |
+| Febrile Neutropenia | 6 | (4.1) |  |
+| Nausea | 6 | (4.1) |  |
+| Diarrhea | 5 | (3.4) |  |
+| Pyrexia | 5 | (3.4) |  |
+| Sepsis | 4 | (2.7) |  |
+| Dizziness | 4 | (2.7) |  |
+| Granulocytopenia | 3 | (2.0) |  |
+| Chest Pain | 3 | (2.0) |  |
+| Pulmonary Embolism | 3 | (2.0) |  |
+| Respiratory Distress | 3 | (2.0) |  |
+| Pruritus | 3 | (2.0) |  |
+| Pancytopenia | 3 | (2.0) |  |
+| Muscle Cramp | 3 | (2.0) |  |
+| Respiratory Tract Infection | 2 | (1.4) |  |
+| Upper Respiratory Tract Infection | 2 | (1.4) |  |
+| Asthenia | 2 | (1.4) |  |
+| Multi-organ Failure | 2 | (1.4) |  |
+| Epistaxis | 2 | (1.4) |  |
+| Hypoxia | 2 | (1.4) |  |
+| Pleural Effusion | 2 | (1.4) |  |
+| Pneumonitis | 2 | (1.4) |  |
+| Pulmonary Hypertension | 2 | (1.4) |  |
+| Vomiting | 2 | (1.4) |  |
+| Sweating Increased | 2 | (1.4) |  |
+| Arthralgia | 2 | (1.4) |  |
+| Pain in Limb | 2 | (1.4) |  |
+| Headache | 2 | (1.4) |  |
+| Syncope | 2 | (1.4) |  |
+| [1] Adverse events with frequency ≥1% in the 10 mg Overall group. Grade 3 and 4 are based on National Cancer Institute Common Toxicity Criteria version 2. [2] Preferred Terms are coded using the MedDRA dictionary. A patient with multiple occurrences of an AE is counted only once in the Preferred Term category. |  |  |  |
 
-In other clinical studies of REVLIMID in MDS patients, the following serious adverse events (regardless of relationship to study drug treatment) not described in Table 6 or 7 were reported:
+In other clinical studies of REVLIMID in MDS patients, the following serious adverse events (regardless of relationship to study drug treatment) not described in Table 5 or 6 were reported:
 
-Blood and lymphatic system disorders: warm type hemolytic anemia, splenic infarction, bone marrow depression, coagulopathy, hemolysis, hemolytic anemia refractory anemia
+Blood and lymphatic system disorders: warm type hemolytic anemia, splenic infarction, bone marrow depression, coagulopathy, hemolysis, hemolytic anemia, refractory anemia
 
-Cardiac disorders: cardiac failure congestive, atrial fibrillation, angina pectoris, cardiac arrest, cardiac failure, cardio-respiratory arrest, cardiomyopathy, myocardial infarction, myocardial ischemia, atrial fibrillation aggravated, bradycardia, cardiogenic shock, pulmonary edema supraventricular arrhythmia, tachyarrhythmia, ventricular dysfunction
+Cardiac disorders: cardiac failure congestive, atrial fibrillation, angina pectoris, cardiac arrest, cardiac failure, cardio-respiratory arrest, cardiomyopathy, myocardial infarction, myocardial ischemia, atrial fibrillation aggravated, bradycardia, cardiogenic shock, pulmonary edema, supraventricular arrhythmia, tachyarrhythmia, ventricular dysfunction
 
 Ear and labyrinth disorders: vertigo
 
@@ -351,7 +352,7 @@ Hepatobiliary disorders: hyperbilirubinemia, cholecystitis, acute cholecystitis,
 
 Immune system disorders: hypersensitivity
 
-Infections and infestations infection bacteremia, central line infection, clostridial infection, ear infection Enterobacter sepsis, fungal infection herpes viral infection NOS, influenza, kidney infection Klebsiella sepsis, lobar pneumonia, localized infection, oral infection, Pseudomonas infection, septic shock, sinusitis acute sinusitis, Staphylococcal infection, urosepsis
+Infections and infestations infection bacteremia, central line infection, clostridial infection, ear infection, Enterobacter sepsis, fungal infection, herpes viral infection NOS, influenza, kidney infection, Klebsiella sepsis, lobar pneumonia, localized infection, oral infection, Pseudomonas infection, septic shock, sinusitis acute, sinusitis, Staphylococcal infection, urosepsis
 
 Injury, poisoning and procedural complications: femur fracture, transfusion reaction, cervical vertebral fracture, femoral neck fracture, fractured pelvis, hip fracture, overdose, post procedural hemorrhage, rib fracture, road traffic accident, spinal compression fracture
 
@@ -377,8 +378,94 @@ Skin and subcutaneous tissue disorders: acute febrile neutrophilic dermatosis
 
 Vascular system disorders: deep vein thrombosis, hypotension, aortic disorder, ischemia, thrombophlebitis superficial, thrombosis
 
-## 6.3 Postmarketing Experience
+## 6.3 Clinical Trials Experience in Mantle Cell Lymphoma
 
-The following adverse drug reactions have been identified from the worldwide post-marketing experience with REVLIMID.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Allergic conditions (angioedema, SJS, TEN), tumor lysis syndrome (TLS) and tumor flare reaction (TFR), pneumonitis, and transient abnormal liver laboratory tests.
-[see Warnings and Precautions Section (5.5 to 5.8)].
+In the MCL trial, a total of 134 patients received at least 1 dose of REVLIMID.
+Their median age was 67 (range 43-83) years, 128/134 (96%) were Caucasian, 108/134 (81%) were males and 82/134 (61%) had duration of MCL for at least 3 years.
+
+Table 7 summarizes the most frequently observed adverse reactions regardless of relationship to treatment with REVLIMID.
+Across the 134 patients treated in this study, median duration of treatment was 95 days (1-1002 days).
+Seventy-eight patients (58%) received 3 or more cycles of therapy, 53 patients (40%) received 6 or more cycles, and 26 patients (19%) received 12 or more cycles.
+Seventy-six patients (57%) underwent at least one dose interruption due to adverse events, and 51 patients (38%) underwent at least one dose reduction due to adverse events.
+Twenty-six patients (19%) discontinued treatment due to adverse events.
+
+Table 7 Incidence of Adverse Events (≥10%) or Grade 3 / 4 AE (in at least 2 patients) in Mantle Cell Lymphoma
+
+| System Organ Class/Preferred Term | All AEs1 (N=134) n (%) | Grade 3/4 AEs2 (N=134) n (%) |
+| --- | --- | --- |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 45 (34) | 9 (7) |
+| Pyrexia$ | 31 (23) | 3 (2) |
+| Edema peripheral | 21 (16) | 0 |
+| Asthenia$ | 19 (14) | 4 (3) |
+| General physical health deterioration | 3 (2) | 2 (1) |
+| Gastrointestinal disorders |  |  |
+| Diarrhea$ | 42 (31) | 8 (6) |
+| Nausea$ | 40 (30) | 1 (<1) |
+| Constipation | 21 (16) | 1 (<1) |
+| Vomiting$ | 16 (12) | 1 (<1) |
+| Abdominal pain$ | 13 (10) | 5 (4) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Back pain | 18 (13) | 2 (1) |
+| Muscle spasms | 17 (13) | 1 (<1) |
+| Arthralgia | 11 (8) | 2 (1) |
+| Muscular weakness$ | 8 (6) | 2 (1) |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Cough | 38 (28) | 1 (<1) |
+| Dyspnea$ | 24 (18) | 8 (6) |
+| Pleural Effusion | 10 (7) | 2 (1) |
+| Hypoxia | 3 (2) | 2 (1) |
+| Pulmonary embolism | 3 (2) | 2 (1) |
+| Respiratory distress$ | 2 (1) | 2 (1) |
+| Oropharyngeal pain | 13 (10) | 0 |
+| Infections and infestations |  |  |
+| Pneumonia@ $ | 19 (14) | 12 (9) |
+| Upper respiratory tract infection | 17 (13) | 0 |
+| Cellulitis$ | 3 (2) | 2 (1) |
+| Bacteremia$ | 2 (1) | 2 (1) |
+| Staphylococcal sepsis$ | 2 (1) | 2 (1) |
+| Urinary tract infection$ | 5 (4) | 2 (1) |
+| Skin and subcutaneous tissue disorders |  |  |
+| Rash + | 30 (22) | 2 (1) |
+| Pruritus | 23 (17) | 1 (<1) |
+| Blood and lymphatic system disorders |  |  |
+| Neutropenia | 65 (49) | 58 (43) |
+| Thrombocytopenia% $ | 48 (36) | 37 (28) |
+| Anemia$ | 41 (31) | 15 (11) |
+| Leukopenia$ | 20 (15) | 9 (7) |
+| Lymphopenia | 10 (7) | 5 (4) |
+| Febrile neutropenia$ | 8 (6) | 8 (6) |
+| Metabolism and nutrition disorders |  |  |
+| Decreased appetite | 19 (14) | 1 (<1) |
+| Hypokalemia | 17 (13) | 3 (2) |
+| Dehydration$ | 10 (7) | 4 (3) |
+| Hypocalcemia | 4 (3) | 2 (1) |
+| Hyponatraemia | 3 (2) | 3 (2) |
+| Renal and urinary disorders |  |  |
+| Renal failure$ | 5 (4) | 2 (1) |
+| Vascular disorders |  |  |
+| Hypotension@ $ | 9 (7) | 4 (3) |
+| Deep vein thrombosis$ | 5 (4) | 5 (4) |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  |  |
+| Tumor flare | 13 (10) | 0 |
+| Squamous cell carcinoma of skin$ | 4 (3) | 4 (3) |
+| Investigations |  |  |
+| Weight decreased | 17 (13) | 0 |
+| 1-MCL trial AEs – All treatment emergent AEs with ≥10% of subjects 2-MCL trial Grade 3/4 AEs – All treatment-emergent Grade 3/4 AEs in 2 or more subjects $-MCL trial Serious AEs – All treatment-emergent SAEs in 2 or more subjects @ - AEs where at least one resulted in a fatal outcome % - AEs where at least one was considered to be Life Threatening (if the outcome of the event was death, it is included with death cases) # - All PTs under SOC of Infections except for rare infections of Public Health interest will be considered listed + - All PTs under HLT of Rash will be considered listed |  |  |
+
+The following adverse events which have occurred in other indications and not described above have been reported (5-10%) in patients treated with REVLIMID monotherapy for mantle cell lymphoma.
+
+General disorders and administration site conditions: Chills Musculoskeletal and connective tissue disorders: Pain in extremity Nervous system disorders: Dysguesia, headache, neuropathy peripheral Infections and infestations: Respiratory tract infection, sinusitis, nasopharyngitis Skin and subcutaneous tissue disorders: Dry skin, night sweats
+
+The following serious adverse events not described above and reported in 2 or more patients treated with REVLIMID monotherapy for mantle cell lymphoma.
+
+Respiratory, Thoracic and Mediastinal Disorders: Chronic obstructive pulmonary disease Infections and Infestations: Clostridium difficile colitis, sepsis Neoplasms benign, malignant and unspecified (incl cysts and polyps): Basal cell carcinoma Cardiac Disorder: Supraventricular tachycardia
+
+## 6.4 Postmarketing Experience
+
+The following adverse drug reactions have been identified from the worldwide post-marketing experience with REVLIMID: Allergic conditions (angioedema, SJS, TEN), tumor lysis syndrome (TLS) and tumor flare reaction (TFR), pneumonitis, hepatic failure, including fatality, toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, and mixed cytolytic/cholestatic hepatitis and transient abnormal liver laboratory tests.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure [see Warnings and Precautions Section (5.5 to 5.8)].
+
+Cases of hypothyroidism and hyperthyroidism have also been reported.
+Optimal control of thyroid function is recommended before start of treatment.
+Baseline and ongoing monitoring of thyroid function is recommended.

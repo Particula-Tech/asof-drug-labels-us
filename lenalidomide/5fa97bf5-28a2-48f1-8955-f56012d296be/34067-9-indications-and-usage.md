@@ -7,3 +7,7 @@ REVLIMID in combination with dexamethasone is indicated for the treatment of pat
 ## 1.2 Myelodysplastic Syndromes
 
 REVLIMID is indicated for the treatment of patients with transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
+
+## 1.3 Mantle Cell Lymphoma
+
+REVLIMID is indicated for the treatment of patients with mantle cell lymphoma (MCL) whose disease has relapsed or progressed after two prior therapies, one of which included bortezomib.

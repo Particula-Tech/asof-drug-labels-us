@@ -4,7 +4,7 @@
 
 REVLIMID is a thalidomide analogue and is contraindicated for use during pregnancy.
 Thalidomide is a known human teratogen that causes life-threatening human birth defects or embryo-fetal death [see Use in Specific Populations (8.1)].
-An embryo-fetal development study in non-human primates indicates that lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy, similar to birth defects observed in humans following exposure to thalidomide during pregnancy.
+An embryo-fetal development study in monkeys indicates that lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy, similar to birth defects observed in humans following exposure to thalidomide during pregnancy.
 
 REVLIMID is only available through the REVLIMID REMS™ program (formerly known as the “RevAssist® program”) [see Warnings and Precautions (5.2)].
 
@@ -39,17 +39,21 @@ Further information about the REVLIMID REMS™ program is available at www.celge
 REVLIMID can cause significant neutropenia and thrombocytopenia.
 Patients taking REVLIMID for MDS should have their complete blood counts monitored weekly for the first 8 weeks and at least monthly thereafter.
 Patients taking REVLIMID for MM should have their complete blood counts monitored every 2 weeks for the first 12 weeks and then monthly thereafter.
-Patients may require dose interruption and/or dose reduction [see Dosage and Administration (2.1)].
+Patients taking REVLIMID for MCL should have their complete blood counts monitored weekly for the first cycle (28 days), every 2 weeks during cycles 2-4, and then monthly thereafter.
+Patients may require dose interruption and/or dose reduction [see Dosage and Administration (2.1, 2.2, 2.3)].
 
 Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the MDS study.
 In the 48% of patients who developed Grade 3 or 4 neutropenia, the median time to onset was 42 days (range, 14-411 days), and the median time to documented recovery was 17 days (range, 2-170 days).
 In the 54% of patients who developed Grade 3 or 4 thrombocytopenia, the median time to onset was 28 days (range, 8-290 days), and the median time to documented recovery was 22 days (range, 5-224 days [see Boxed Warning and Dosage and Administration (2.2)].
 
-In the pooled multiple myeloma studies Grade 3 and 4 hematologic toxicities were more frequent in patients treated with the combination of REVLIMID and dexamethasone than in patients treated with dexamethasone alone [see Adverse Reactions (6.1)].
+In the pooled MM trials Grade 3 and 4 hematologic toxicities were more frequent in patients treated with the combination of REVLIMID and dexamethasone than in patients treated with dexamethasone alone [see Adverse Reactions (6.1)].
+
+In the MCL trial, Grade 3 or 4 neutropenia was reported in 43% of the patients.
+Grade 3 or 4 thrombocytopenia was reported in 28% of the patients.
 
 ## 5.4 Venous Thromboembolism
 
-Venous thromboembolic events (predominantly deep venous thrombosis and pulmonary embolism) have occurred in patients with multiple myeloma treated with lenalidomide combination therapy [see Boxed Warning] and patients with MDS treated with lenalidomide monotherapy.
+Venous thromboembolic events (predominantly deep venous thrombosis and pulmonary embolism) have occurred in patients with multiple myeloma treated with lenalidomide combination therapy [see Boxed Warning] and patients with MDS or MCL treated with lenalidomide monotherapy.
 A significantly increased risk of DVT and PE was observed in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy in a clinical trial [see Boxed Warning].
 It is not known whether prophylactic anticoagulation or antiplatelet therapy prescribed in conjunction with REVLIMID may lessen the potential for venous thromboembolism.
 The decision to take prophylactic measures should be done carefully after an assessment of an individual patient’s underlying risk factors.
@@ -76,11 +80,24 @@ These patients should be monitored closely and appropriate precautions taken.
 Tumor flare reaction has occurred during investigational use of lenalidomide for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
 Treatment of CLL or lymphoma with lenalidomide outside of a well-monitored clinical trial is discouraged.
 
+Monitoring and evaluation for tumor flare reaction (TFR) is recommended in patients with MCL.
+Tumor flare reaction may mimic progression of disease (PD).
+In the MCL trial, 13/134 (10%) of subjects experienced TFR; all reports were Grade 1 or 2 in severity.
+All of the events occurred in cycle 1 and one patient developed TFR again in cycle 11.
+Lenalidomide may be continued in patients with Grade 1 and 2 TFR without interruption or modification, at the physician’s discretion.
+Patients with Grade 1 and 2 TFR may also be treated with corticosteroids, non-steroidal anti-inflammatory drugs (NSAIDs) and/or narcotic analgesics for management of TFR symptoms.
+In patients with Grade 3 or 4 TFR, it is recommended to withhold treatment with lenalidomide until TFR resolves to ≤ Grade 1.
+Patients with Grade 3 or 4 TFR may be treated for management of symptoms per the guidance for treatment of Grade 1 and 2 TFR.
+
 ## 5.8 Hepatotoxicity
 
-Cases of transient liver laboratory abnormalities (predominantly transaminases) were reported in patients treated with lenalidomide.
-Treatment with lenalidomide should be interrupted until the levels return to baseline.
-Successful re-challenge without recurrence of liver laboratory elevation was reported in some patients.
+Hepatic failure, including fatal cases, has occurred in patients treated with lenalidomide in combination with dexamethasone.
+In clinical trials, 15% of patients experienced hepatotoxicity (with hepatocellular, cholestatic and mixed characteristics); 2% of patients with multiple myeloma and 1% of patients with myelodysplasia had serious hepatotoxicity events.
+The mechanism of drug-induced hepatotoxicity is unknown.
+Pre-existing viral liver disease, elevated baseline liver enzymes, and concomitant medications may be risk factors.
+Monitor liver enzymes periodically.
+Stop Revlimid upon elevation of liver enzymes.
+After return to baseline values, treatment at a lower dose may be considered.
 
 ## 5.9 Second Primary Malignancies
 

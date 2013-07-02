@@ -1,10 +1,4 @@
-MEDICATION GUIDE
-
-REVLIMID® (rev-li-mid)
-
-(lenalidomide)
-
-capsules
+MEDICATION GUIDE REVLIMID® (rev-li-mid) (lenalidomide) capsules
 
 What is the most important information I should know about REVLIMID?
 
@@ -15,50 +9,43 @@ What is the most important information I should know about REVLIMID?
   We know thalidomide can cause severe life-threatening birth defects.
   REVLIMID has not been tested in pregnant females.
   REVLIMID has harmed unborn animals in animal testing.
-  Females must not get pregnant:
+  Females must not get pregnant: If you become pregnant while taking REVLIMID, stop taking it right away and call your healthcare provider.
+  If your healthcare provider is not available, you can call 1-888-668-2528 for medical information.
+  Healthcare providers and patients should report all cases of pregnancy to: REVLIMID can pass into human semen: Men, if your female partner becomes pregnant, you should call your healthcare provider right away.
   - for 4 weeks before starting REVLIMID
   - while taking REVLIMID
   - during any breaks (interruptions) in your treatment with REVLIMID
   - for 4 weeks after stopping REVLIMID
-
-If you become pregnant while taking REVLIMID, stop taking it right away and call your healthcare provider.
-If your healthcare provider is not available, you can call 1-888-668-2528 for medical information.
-Healthcare providers and patients should report all cases of pregnancy to:
-
-- FDA MedWatch at 1-800-332-1088, and
-- Celgene Corporation at 1-888-423-5436
-
-REVLIMID can pass into human semen:
-
-- Males, including those who have had a vasectomy, must use a latex or synthetic condom during any sexual contact with a pregnant female or a female who can become pregnant while taking REVLIMID, during any breaks (interruptions) in your treatment with REVLIMID, and for 4 weeks after stopping REVLIMID.
-- Do not have unprotected sexual contact with a female who is or could become pregnant.
-  Tell your healthcare provider if you do have unprotected sexual contact with a female who is or could become pregnant.
-- Do not donate sperm while taking REVLIMID, during any breaks (interruptions) in your treatment, and for 4 weeks after stopping REVLIMID.
-  If a female becomes pregnant with your sperm, the baby may be exposed to REVLIMID and may be born with birth defects.
-
-Men, if your female partner becomes pregnant, you should call your healthcare provider right away.
-
-- Low white blood cells (neutropenia) and low platelets (thrombocytopenia).
-  REVLIMID causes low white blood cells and low platelets in most people.
-  You may need a blood transfusion or certain medicines if your blood counts drop too low.
-  If you are being treated for deletion 5q myelodysplastic syndromes (MDS) your blood counts should be checked weekly during the first 8 weeks of treatment with REVLIMID, and at least monthly thereafter.
-  If you are being treated for multiple myeloma, your blood counts should be checked every 2 weeks for the first 12 weeks and then at least monthly thereafter.
-- Blood clots.
-  If you take REVLIMID and dexamethasone, you may have an increased risk for blood clots in your veins and lungs.
-  Call your healthcare provider or get medical help right away if you get any of these signs or symptoms while taking REVLIMID:
-  - shortness of breath
-  - chest pain
-  - arm or leg swelling
+  - FDA MedWatch at 1-800-332-1088, and
+  - Celgene Corporation at 1-888-423-5436
+  - Males, including those who have had a vasectomy, must use a latex or synthetic condom during any sexual contact with a pregnant female or a female who can become pregnant while taking REVLIMID, during any breaks (interruptions) in your treatment with REVLIMID, and for 4 weeks after stopping REVLIMID.
+  - Do not have unprotected sexual contact with a female who is or could become pregnant.
+    Tell your healthcare provider if you do have unprotected sexual contact with a female who is or could become pregnant.
+  - Do not donate sperm while taking REVLIMID, during any breaks (interruptions) in your treatment, and for 4 weeks after stopping REVLIMID.
+    If a female becomes pregnant with your sperm, the baby may be exposed to REVLIMID and may be born with birth defects.
+  - Low white blood cells (neutropenia) and low platelets (thrombocytopenia).
+    REVLIMID causes low white blood cells and low platelets in most people.
+    You may need a blood transfusion or certain medicines if your blood counts drop too low.
+    If you are being treated for deletion 5q myelodysplastic syndromes (MDS) your blood counts should be checked weekly during the first 8 weeks of treatment with REVLIMID, and at least monthly thereafter.
+    If you are being treated for multiple myeloma, your blood counts should be checked every 2 weeks for the first 12 weeks and then at least monthly thereafter.
+  - Blood clots.
+    If you take REVLIMID and dexamethasone, you may have an increased risk for blood clots in your veins and lungs.
+    Call your healthcare provider or get medical help right away if you get any of these signs or symptoms while taking REVLIMID:
+    - shortness of breath
+    - chest pain
+    - arm or leg swelling
 
 What is REVLIMID?
 
-REVLIMID is a prescription medicine used:
+REVLIMID is a prescription medicine used to treat people:
 
-- to treat people with multiple myeloma (MM) who have received at least one prior medicine, taken along with the medicine dexamethasone.
-- to treat people who have a condition called myelodysplastic syndromes (MDS).
+- with multiple myeloma (MM) who have received at least one prior medicine, taken along with the medicine dexamethasone.
+- who have a condition called myelodysplastic syndromes (MDS).
   REVLIMID is for the type of MDS with a chromosome problem where part of chromosome 5 is missing.
   This type of MDS is known as deletion 5q MDS.
   People with this type of MDS may have low red blood cell counts that require treatment with blood transfusions.
+- with mantle cell lymphoma (MCL) when the disease does not respond to or comes back after treatment with two prior medicines, one of which included bortezomib.
+  Mantle cell lymphoma is a cancer of a type of white blood cell called lymphocytes that are in the lymph nodes.
 
 It is not known if REVLIMID is safe and effective in people under 18 years of age.
 
@@ -70,8 +57,10 @@ Who should not take REVLIMID?
   See the end of this Medication Guide for a complete list of ingredients in REVLIMID.
 
 What should I tell my healthcare provider before taking REVLIMID?
+
 Before you take REVLIMID, tell your healthcare provider if you:
 
+- have liver problems
 - are lactose intolerant.
   REVLIMID contains lactose.
 - have any other medical condition
@@ -115,7 +104,7 @@ Males who take REVLIMID, even those who have had a vasectomy, must agree to use 
 
 What should I avoid while taking REVLIMID?
 
-- See "What is the most important information I should know about REVLIMID?"
+- See “What is the most important information I should know about REVLIMID?”
 - Females: Do not get pregnant and do not breastfeed while taking REVLIMID.
 - Males: Do not donate sperm.
 - Do not share REVLIMID with other people.
@@ -135,12 +124,19 @@ REVLIMID may cause serious side effects, including:
   TLS is caused by the fast breakdown of cancer cells.
   TLS can cause kidney failure and the need for dialysis treatment, abnormal heart rhythm, seizure and sometimes death.
   Your healthcare provider may do blood tests to check you for TLS.
+- Severe liver problems, including liver failure and death.
+  Tell your healthcare provider right away if you develop any of the following symptoms of liver problems: Your healthcare provider will do blood tests to check your liver function during your treatment with REVLIMID.
+  - yellowing of your skin or the white part of your eyes (jaundice)
+  - dark or brown (tea colored) urine
+  - pain on the upper right side of your stomach area (abdomen)
+  - bleeding or bruising more easily than normal
+  - feeling very tired
 - Risk of new cancers (malignancies).
   People with multiple myeloma who receive melphalan (a type of chemotherapy) and a blood stem cell transplant with the addition of REVLIMID have a higher risk of developing new cancers, including certain blood cancers (acute myelogenous leukemia or AML) and a type of lymphoma called Hodgkin lymphoma.
   Talk with your healthcare provider about your risk of developing new cancers if you take REVLIMID.
   Your healthcare provider will check you for new cancers during your treatment with REVLIMID.
 
-Common side effects of REVLIMID are:
+Common side effects of REVLIMID include:
 
 - diarrhea
 - itching
@@ -154,7 +150,7 @@ You may report side effects to FDA at 1-800-332-1088.
 
 How should I store REVLIMID?
 
-- Store REVLIMID at room temperature 68°F to 77°F (20°C to 25°C) with excursions permitted to 59°F to 86°F (15°C to 30°C).
+- Store REVLIMID at room temperature between 68°F to 77°F (20°C to 25°C).
 - Return any unused REVLIMID to Celgene or your healthcare provider.
 
 Keep REVLIMID and all medicines out of the reach of children.
@@ -166,30 +162,31 @@ Do not take REVLIMID for conditions for which it was not prescribed.
 Do not give REVLIMID to other people, even if they have the same symptoms you have.
 It may harm them and may cause birth defects.
 
-This Medication Guide provides a summary of the most important information about REVLIMID.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about REVLIMID that is written for health professionals.
 
-For more information, call 1-888-423-5436 or visit www.celgeneriskmanagement.com.
+For more information, call 1-888-423-5436 or go to www.celgeneriskmanagement.com.
 
 What are the ingredients in REVLIMID?
+
 Active ingredient: lenalidomide Inactive ingredients: lactose anhydrous, microcrystalline cellulose, croscarmellose sodium, and magnesium stearate.
 
 The 5 mg and 25 mg capsule shells contain gelatin, titanium dioxide and black ink.
 The 2.5 and 10 mg capsule shell contains gelatin, FD&C blue #2, yellow iron oxide, titanium dioxide and black ink.
 The 15 mg capsule shell contains gelatin, FD&C blue #2, titanium dioxide and black ink.
+The 20 mg capsule shell contains gelatin, FD&C blue #2, yellow iron oxide, titanium dioxide and black ink.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-February/2013
-
-Manufactured for: Celgene Corporation Summit, NJ 07901
+Revised June/2013 Manufactured for: Celgene Corporation Summit, NJ 07901
 
 REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
 
+REVLIMID REMS™ is a trademark of Celgene Corporation.
+
 U.S. Pat.
-Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,855,217; 7,968,569
+Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,468,363; 7,855,217; 7,968,569
 
 ©2005-2013 Celgene Corporation, All Rights Reserved.
 
-RevPlyMG.015L 02/13
+RevPlyMG.016 06/13

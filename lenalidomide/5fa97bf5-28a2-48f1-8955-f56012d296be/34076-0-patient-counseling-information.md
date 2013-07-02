@@ -4,7 +4,7 @@ See FDA-approved Patient labeling (Medication Guide)
 
 Embryo-Fetal Toxicity Advise patients that REVLIMID is contraindicated in pregnancy [see Contraindicatons (4.1)].
 REVLIMID is a thalidomide analog and can cause serious birth defects or death to a developing baby.
-[see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+[see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)]
 
 - Advise females of reproductive potential that they must avoid pregnancy while taking REVLIMID and for at least 4 weeks after completing therapy.
 - Initiate REVLIMID treatment in females of reproductive potential only following a negative pregnancy test.
@@ -17,21 +17,21 @@ REVLIMID is a thalidomide analog and can cause serious birth defects or death to
 - Advise male patients taking REVLIMID that they must not donate sperm [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 - All patients must be instructed to not donate blood while taking REVLIMID, during dose interruptions and for 1 month following discontinuation of REVLIMID [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
-REVLIMID REMS™ program Because of the risk of embryo-fetal toxicity, REVLIMID is only available through a restricted program called the REVLIMID REMS™ program (formerly known as the “RevAssist®” program)[see Warnings and Precautions (5.2)].
+REVLIMID REMS™ program Because of the risk of embryo-fetal toxicity, REVLIMID is only available through a restricted program called the REVLIMID REMS™ program (formerly known as the “RevAssist®” program) [see Warnings and Precautions (5.2)].
 
 - Patients must sign a Patient-Prescriber agreement form and comply with the requirements to receive REVLIMID.
   In particular, females of reproductive potential must comply with the pregnancy testing, contraception requirements and participate in monthly telephone surveys.
   Males must comply with the contraception requirements [see Use in Specific Populations (8.6)].
 - REVLIMID is available only from pharmacies that are certified in REVLIMID REMS™ program.
-  Provide patients with the telephone number and website for information on how to obtain the product
+  Provide patients with the telephone number and website for information on how to obtain the product.
 
 Hematologic Toxicity
 
-REVLIMID is associated with significant neutropenia and thrombocytopenia [See Boxed Warnings and Warnings and Precautions (5.3)]
+Inform patients that REVLIMID is associated with significant neutropenia and thrombocytopenia [see Boxed Warnings and Warnings and Precautions (5.3)].
 
 Venous Thromboembolism
 
-REVLIMID/dexamethasone has demonstrated significant increased risk of DVT and PE in patients with multiple myeloma [See Boxed Warnings and Warnings and Precautions (5.4)]
+Inform patients that REVLIMID/dexamethasone has demonstrated significant increased risk of DVT and PE in patients with multiple myeloma [see Boxed Warnings and Warning and Precautions (5.4)].
 
 Allergic Reactions
 
@@ -39,15 +39,15 @@ Inform patients of the potential for allergic reactions including hypersensitivi
 
 Tumor Lysis Syndrome
 
-Inform patients of the potential risk of tumor lysis syndrome and report any signs and symptoms associated with this event to their healthcare provider for evaluation.
+Inform patients of the potential risk of tumor lysis syndrome and to report any signs and symptoms associated with this event to their healthcare provider for evaluation.
 
 Tumor Flare Reaction
 
-Inform patients of the potential risk of tumor flare reaction and report any signs and symptoms associated with this event to their healthcare provider for evaluation.
+Inform patients of the potential risk of tumor flare reaction and to report any signs and symptoms associated with this event to their healthcare provider for evaluation.
 
 Hepatotoxicity
 
-Inform patients of the risk of hepatotoxicity and report any signs and symptoms associated with this event to their healthcare provider for evaluation.
+Inform patients of the risk of hepatotoxicity, including hepatic failure and death, and to report any signs and symptoms associated with this event to their healthcare provider for evaluation.
 
 Secondary Primary Malignancies
 
@@ -68,9 +68,11 @@ Manufactured for: Celgene Corporation Summit, NJ 07901
 
 REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
 
+REVLIMID REMS™ is a trademark of Celgene Corporation.
+
 U.S. Pat.
-Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,855,217; 7,968,569
+Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,468,363; 7,465,800; 7,855,217; 7,968,569
 
 ©2005-2013 Celgene Corporation, All Rights Reserved.
 
-RevPlyPI.015L/MG.015L 02/13
+RevPlyPI.016/MG.016 06/13

@@ -2,12 +2,11 @@
 
 ## 12.1 Mechanism of action
 
-The mechanism of action of lenalidomide remains to be fully characterized.
-Lenalidomide possesses immunomodulatory, antiangiogenic, and antineoplastic properties.
-Experiments have demonstrated that lenalidomide inhibits the growth of cells derived from patients with multiple myeloma and del (5q) myelodysplastic syndromes in vitro.
-Lenalidomide causes a delay in tumor growth in some in vivo nonclinical hematopoietic tumor models, including multiple myeloma.
-Lenalidomide inhibits the secretion of pro-inflammatory cytokines such as tumor necrosis factor alpha (TNF-α), from peripheral blood mononuclear cells.
-Lenalidomide also inhibited the expression of cyclooxygenase-2 (COX-2) but not COX-1 in vitro.
+Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties.
+Lenalidomide inhibits proliferation and induces apoptosis of certain hematopoietic tumor cells including multiple myeloma, mantle cell lymphoma, and del (5q) myelodysplastic syndromes in vitro.
+Lenalidomide causes a delay in tumor growth in some in vivo nonclinical hematopoietic tumor models including multiple myeloma.
+Immunomodulatory properties of lenalidomide include activation of T cells and natural killer (NK) cells, increased numbers of NKT cells, and inhibition of pro-inflammatory cytokines (e.g., TNF-α and IL-6) by monocytes.
+In multiple myeloma cells, the combination of lenalidomide and dexamethasone synergizes the inhibition of cell proliferation and the induction of apoptosis.
 
 ## 12.2 Pharmacodynamics
 
@@ -20,7 +19,7 @@ The largest upper bound of the 2-sided 90% CI for the mean differences between l
 Absorption
 
 Lenalidomide is rapidly absorbed following oral administration.
-Following single and multiple doses of REVLIMID in patients with MM or MDS the maximum plasma concentrations occurred between 0.5 and 6.0 hours post-dose.
+Following single and multiple doses of REVLIMID in patients with MM or MDS the maximum plasma concentrations occurred between 0.5 and 6 hours post-dose.
 The single and multiple dose pharmacokinetic disposition of lenalidomide is linear with AUC and Cmax values increasing proportionally with dose.
 Multiple dosing at the recommended dose-regimen does not result in drug accumulation.
 
@@ -29,6 +28,8 @@ Systemic exposure (AUC) of lenalidomide in MM and MDS patients with normal or mi
 Administration of a single 25 mg dose of REVLIMID with a high-fat meal in healthy subjects reduces the extent of absorption, with an approximate 20% decrease in AUC and 50% decrease in Cmax.
 In the trials where the efficacy and safety were established for REVLIMID, the drug was administered without regard to food intake.
 REVLIMID can be administered with or without food.
+
+Population pharmacokinetic analyses show that the oral absorption rate of lenalidomide in patients with MCL is similar to that observed in patients with MM or MDS.
 
 Distribution
 
@@ -48,9 +49,13 @@ Approximately 82% of the radioactive dose is excreted as lenalidomide in the uri
 Hydroxy-lenalidomide and N-acetyl-lenalidomide represent 4.59% and 1.83% of the excreted dose, respectively.
 The renal clearance of lenalidomide exceeds the glomerular filtration rate.
 
-The mean half-life of lenalidomide is 3 hours in healthy subjects and 3 to 5 hours in patients with multiple myeloma or MDS.
+The mean half-life of lenalidomide is 3 hours in healthy subjects and 3 to 5 hours in patients with MM, MDS or MCL.
 
-Special Populations
+Effect of Dexamethasone
+
+Co-administration of single or multiple doses of dexamethasone (40 mg) has no clinically relevant effect on the multiple dose pharmacokinetics of REVLIMID (25 mg).
+
+Specific Populations
 
 Patients with Renal Impairment: The pharmacokinetics of lenalidomide were studied in patients with renal impairment due to nonmalignant conditions.
 In this study, 5 patients with mild renal impairment (creatinine clearance 57-74 mL/min), 6 patients with moderate renal impairment (creatinine clearance 33-46 mL/min), 6 patients with severe renal impairment (creatinine clearance 17-29 mL/min), and 6 patients with end stage renal disease requiring dialysis were administered a single oral 25-mg dose of REVLIMID.
@@ -60,17 +65,16 @@ Patients with moderate and severe renal impairment had a 3-fold increase in half
 Patients on hemodialysis (n=6) given a single, 25-mg dose of lenalidomide has an approximate 4.5-fold increase in half-life and an 80% decrease in drug clearance compared to healthy subjects.
 Approximately 40% of the administered dose was removed from the body during a single dialysis session.
 
-In multiple myeloma patients, those patients with mild renal impairment had an AUC 56% greater than those with normal renal function.
+In MM patients, those patients with mild renal impairment had an AUC 56% greater than those with normal renal function.
 
-Adjustment of the starting dose of REVLIMID is recommended in patients with moderate or severe (CLcr < 60 mL/min) renal impairment and in patients on dialysis.
-[see Dosage and Administration (2.1, 2.2)].
+Adjustment of the starting dose of REVLIMID is recommended in patients with moderate or severe (CLcr < 60 mL/min) renal impairment and in patients on dialysis [see Dosage and Administration (2.4)].
 
-Patients with Hepatic Disease: The pharmacokinetics of lenalidomide in patients with hepatic impairment have not been studied.
+Elderly Patients: No dedicated clinical studies have been conducted to evaluate pharmacokinetics of lenalidomide in the elderly.
+Population pharmacokinetic analyses included patients with ages ranging from 39 to 85 years old and show that age does not influence the disposition of lenalidomide.
 
-Age: The effects of age on the pharmacokinetics of lenalidomide have not been studied.
+Patients with Hepatic Disease: Population pharmacokinetic analyses included patients with mild hepatic impairment (N = 16, total bilirubin >1 to ≤ 1.5 x ULN or AST > ULN) and show that mild hepatic impairment does not influence the disposition of lenalidomide.
+There are no data available for patients with moderate to severe hepatic impairment.
 
 Pediatric: No pharmacokinetic data are available in patients below the age of 18 years.
 
-Gender: The effects of gender on the pharmacokinetics of lenalidomide have not been studied.
-
-Race: Pharmacokinetic differences due to race have not been studied
+Other Intrinsic Factors: Population pharmacokinetic analyses show that body weight (33-135 kg), gender, race, and type of hematological malignancies (MM, MDS or MCL) do not have a clinically relevant effect on lenalidomide clearance in adult patients.

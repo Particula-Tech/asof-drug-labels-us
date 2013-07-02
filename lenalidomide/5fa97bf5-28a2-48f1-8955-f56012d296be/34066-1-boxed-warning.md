@@ -6,9 +6,9 @@ Thalidomide is a known human teratogen that causes severe life-threatening human
 If lenalidomide is used during pregnancy, it may cause birth defects or embryo-fetal death.
 In females of reproductive potential, obtain 2 negative pregnancy tests before starting REVLIMID® treatment.
 Females of reproductive potential must use 2 forms of contraception or continuously abstain from heterosexual sex during and for 4 weeks after REVLIMID treatment [see Warnings and Precautions (5.1), and Medication Guide (17)].
-To avoid embryo-fetal exposure to lenalidomide, REVLIMID is only available through a restricted distribution program, the REVLIMID REMS™program (formerly known as the “RevAssist®” program) (5.2).
+To avoid embryo-fetal exposure to lenalidomide, REVLIMID is only available through a restricted distribution program, the REVLIMID REMS™ program (formerly known as the “RevAssist®” program) (5.2).
 
-Information about the REVLIMID REMS™ program is available at www.celgeneriskmanagement.com or by calling the manufacturer’s toll-free number 1-888-423-5436.
+Information about the REVLIMID REMS™ program is available at www.celgeneriskmanagement.com or by calling the manufacturer's toll-free number 1-888-423-5436.
 
 Hematologic Toxicity (Neutropenia and Thrombocytopenia) REVLIMID can cause significant neutropenia and thrombocytopenia.
 Eighty percent of patients with del 5q myelodysplastic syndromes had to have a dose delay/reduction during the major study.
@@ -22,4 +22,4 @@ Venous Thromboembolism REVLIMID has demonstrated a significantly increased risk 
 Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, or arm or leg swelling.
 It is not known whether prophylactic anticoagulation or antiplatelet therapy prescribed in conjunction with REVLIMID may lessen the potential for venous thromboembolism.
-The decision to take prophylactic measures should be done carefully after an assessment of an individual patient’s underlying risk factors
+The decision to take prophylactic measures should be done carefully after an assessment of an individual patient’s underlying risk factors [see Warnings and Precautions (5.4)].
