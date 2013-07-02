@@ -4,8 +4,6 @@ The dose of verapamil must be individualized by titration.
 The usefulness and safety of dosages exceeding 480 mg/day have not been established; therefore, this daily dosage should not be exceeded.
 Since the half-life of verapamil increases during chronic dosing, maximum response may be delayed.
 
-Calan 80 mg tablets are scored and can be divided into halves to provide a 40 mg dose.
-
 ## Angina
 
 Clinical trials show that the usual dose is 80 mg to 120 mg three times a day.
