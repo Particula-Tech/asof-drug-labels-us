@@ -10,6 +10,8 @@ Exelon Patch is for transdermal administration.
 The patch is a four-layer laminate containing the backing layer, drug matrix, adhesive matrix and overlapping release liner (see Figure 1).
 The release liner is removed and discarded prior to use.
 
+Figure 1: Cross Section of the Exelon Patch
+
 | Layer 1: | Backing Film |
 | --- | --- |
 | Layer 2: | Drug Product (Acrylic) Matrix |

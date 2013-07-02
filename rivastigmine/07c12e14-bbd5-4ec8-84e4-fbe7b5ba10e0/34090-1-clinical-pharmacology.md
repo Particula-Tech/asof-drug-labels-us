@@ -4,7 +4,7 @@
 
 Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function.
 This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase.
-If this mechanism is correct, the effect of rivastigmine may lessen as the disease process advances and fewer cholinergic neurons remain functionally intact.
+The effect of rivastigmine may lessen as the disease process advances and fewer cholinergic neurons remain functionally intact.
 There is no evidence that rivastigmine alters the course of the underlying dementing process.
 
 ## 12.2 Pharmacodynamics
@@ -17,13 +17,13 @@ In vitro and in vivo studies demonstrate that the inhibition of cholinesterase b
 
 Absorption
 
-After the initial application of Exelon Patch, there is a lag time of 0.5-1 hour in the absorption of rivastigmine.
-Concentrations then rise slowly typically reaching a maximum after 8 hours, although maximum values (Cmax) can also occur later (at 10-16 hours).
+After the initial application of Exelon Patch, there is a lag time of 0.5 to 1 hour in the absorption of rivastigmine.
+Concentrations then rise slowly typically reaching a maximum after 8 hours, although maximum values (Cmax) can also occur later (at 10 to 16 hours).
 After the peak, plasma concentrations slowly decrease over the remainder of the 24-hour period of application.
-At steady state, trough levels are approximately 60-80% of peak levels.
+At steady state, trough levels are approximately 60 to 80% of peak levels.
 
 Exelon Patch 9.5 mg/24 hours gave exposure approximately the same as that provided by an oral dose of 6 mg twice daily (i.e., 12 mg/day).
-Inter-subject variability in exposure was lower (43-49%) for the Exelon Patch formulation as compared with the oral formulations (73-103%).
+Inter-subject variability in exposure was lower (43 to 49%) for the Exelon Patch formulation as compared with the oral formulations (73 to 103%).
 Fluctuation (between Cmax and Cmin) is less for Exelon Patch than for the oral formulation of rivastigmine.
 
 Figure 2 displays rivastigmine plasma concentrations over 24 hours for the three available patch strengths.
@@ -31,15 +31,17 @@ Figure 2 displays rivastigmine plasma concentrations over 24 hours for the three
 Over a 24-hour dermal application, approximately 50% of the drug content of the patch is released from the system.
 
 Exposure (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the patch was applied to the upper back, chest, or upper arm.
-Two other sites (abdomen and thigh) could be used if none of the three other sites is available, but the practitioner should be aware that the rivastigmine plasma exposure associated with these sites was approximately 20-30% lower.
+Two other sites (abdomen and thigh) could be used if none of the three other sites is available, but the practitioner should be aware that the rivastigmine plasma exposure associated with these sites was approximately 20 to 30% lower.
 
 There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease with daily dosing.
+
+The pharmacokinetic profile of rivastigmine transdermal patches was comparable in patients with Alzheimer’s disease and in patients with dementia associated with Parkinson’s disease.
 
 Distribution
 
 Rivastigmine is weakly bound to plasma proteins (approximately 40%) over the therapeutic range.
-It readily crosses the blood-brain barrier, reaching CSF peak concentrations in 1.4-2.6 hours.
-It has an apparent volume of distribution in the range of 1.8-2.7 L/kg.
+It readily crosses the blood-brain barrier, reaching CSF peak concentrations in 1.4 to 2.6 hours.
+It has an apparent volume of distribution in the range of 1.8 to 2.7 L/kg.
 
 Metabolism
 
@@ -58,26 +60,24 @@ Unchanged rivastigmine is found in trace amounts in the urine.
 Following administration of 14C-rivastigmine, renal elimination was rapid and essentially complete (>90%) within 24 hours.
 Less than 1% of the administered dose is excreted in the feces.
 The apparent elimination half-life in plasma is approximately 3 hours after patch removal.
-Renal clearance was approximately 2.1-2.8 L/hr.
+Renal clearance was approximately 2.1 to 2.8 L/hr.
 
 Renal Impairment
 
 No study was conducted with Exelon Patch in subjects with renal impairment.
-Following a single 3-mg dose, mean oral clearance of rivastigmine is 64% lower in moderately impaired renal patients (n=8, GFR=10-50 mL/min) than in healthy subjects (n=10, GFR≥60 mL/min); Cl/F=1.7 L/min and 4.8 L/min, respectively.
-In patients with severe renal impairment (n=8, GFR<10 mL/min), mean oral clearance of rivastigmine is 43% higher than in healthy subjects (n=10, GFR≥60 mL/min); Cl/F=6.9 L/min and 4.8 L/min, respectively.
-For unexplained reasons, the severely impaired renal patients had a higher clearance of rivastigmine than moderately impaired patients.
-Despite this finding, consider a reduced dose in patients with moderate to severe renal impairment [see Dosage and Administration (2.3)].
+Based on population analysis creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
+No dosage adjustment is necessary in patients with renal impairment.
 
 Hepatic Impairment
 
 No pharmacokinetic study was conducted with Exelon Patch in subjects with hepatic impairment.
-After multiple 6-mg twice daily oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5-6) and moderate (n=3, Child-Pugh score 7-9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10).
+After multiple 6-mg twice daily oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5 to 6) and moderate (n=3, Child-Pugh score 7 to 9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10) [see Dosage and Administration (2.2), Specific Population (8.7)].
 
 Body Weight
 
 A relationship between drug exposure at steady state (rivastigmine and metabolite NAP226-90) and body weight was observed in Alzheimer’s dementia patients.
 Rivastigmine exposure is higher in subjects with low body weight.
-Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg would be approximately doubled, while for a patient with a body weight of 100 kg the concentrations would be approximately halved [see Dosage and Administration (2.3)].
+Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg would be approximately doubled, while for a patient with a body weight of 100 kg the concentrations would be approximately halved [see Dosage and Administration (2.2)].
 
 Age
 
@@ -111,4 +111,4 @@ Effect of Other Drugs on the Metabolism of Rivastigmine
 
 Drugs that induce or inhibit CYP450 metabolism are not expected to alter the metabolism of rivastigmine.
 
-Population pharmacokinetic analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine taken orally were not influenced by commonly prescribed medications such as antacids (n=77), antihypertensives (n=72), ß-blockers (n=42), calcium channel blockers (n=75), antidiabetics (n=21), nonsteroidal anti-inflammatory drugs (n=79), estrogens (n=70), salicylate analgesics (n=177), antianginals (n=35) and antihistamines (n=15).
+Population pharmacokinetic analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine taken orally were not influenced by commonly prescribed medications such as antacids (n=77), antihypertensives (n=72), ß-blockers (n=42), calcium channel blockers (n=75), antidiabetics (n=21), nonsteroidal anti-inflammatory drugs (n=79), estrogens (n=70), salicylate analgesics (n=177), antianginals (n=35), and antihistamines (n=15).

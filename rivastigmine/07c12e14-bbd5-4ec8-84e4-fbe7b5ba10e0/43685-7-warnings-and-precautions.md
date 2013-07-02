@@ -20,11 +20,27 @@ A postmarketing report described a case of severe vomiting with esophageal ruptu
 Inform caregivers to monitor for gastrointestinal adverse reactions and to inform the physician if they occur.
 It is critical to inform caregivers that if therapy has been interrupted for more than three days because of intolerance, the next dose should not be administered without contacting the physician regarding proper retitration.
 
-## 5.3 Other Adverse Reactions from Increased Cholinergic Activity
+## 5.3 Skin Reactions
+
+Skin application site reactions may occur with Exelon Patch and are usually mild or moderate in intensity.
+These reactions are not in themselves an indication of sensitization.
+However, use of rivastigmine patch may lead to allergic contact dermatitis.
+
+Allergic contact dermatitis should be suspected if application site reactions spread beyond the patch size, if there is evidence of a more intense local reaction (e.g. increasing erythema, edema, papules, vesicles) and if symptoms do not significantly improve within 48 hours after patch removal.
+In these cases, treatment should be discontinued [see Contraindications (4)].
+
+In patients who develop application site reactions to Exelon Patch suggestive of allergic contact dermatitis and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
+It is possible that some patients sensitized to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
+
+There have been isolated postmarketing reports of patients experiencing disseminated hypersensitivity reactions of the skin when administered rivastigmine irrespective of the route of administration (oral or transdermal).
+In these cases, treatment should be discontinued [see Contraindications (4)].
+Patients and caregivers should be instructed accordingly.
+
+## 5.4 Other Adverse Reactions from Increased Cholinergic Activity
 
 Neurologic Effects
 
-Extrapyramidal Symptoms: Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal symptoms.
+Extrapyramidal Symptoms: Cholinomimetics, including rivastigmine may exacerbate or induce extrapyramidal symptoms.
 Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with Exelon capsules.
 
 Seizures: Drugs that increase cholinergic activity are believed to have some potential for causing seizures.
@@ -52,9 +68,9 @@ Although not observed in clinical trials of rivastigmine, drugs that increase ch
 
 Pulmonary Effects
 
-Like other drugs that increase cholinergic activity, Exelon Patch should be used with care in patients with a history of asthma or obstructive pulmonary disease.
+Drugs that increase cholinergic activity, including Exelon Patch should be used with care in patients with a history of asthma or obstructive pulmonary disease.
 
-## 5.4 Impairment in Driving or Use of Machinery
+## 5.5 Impairment in Driving or Use of Machinery
 
 Dementia may cause gradual impairment of driving performance or compromise the ability to use machinery.
 The administration of rivastigmine may also result in adverse reactions that are detrimental to these functions.

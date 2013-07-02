@@ -1,64 +1,75 @@
-PATIENT INFORMATION
+Patient Information
 
-Exelon Patch [ECS-‘el-on]
+Exelon Patch (ECS-‘el-on)
 
-(rivastigmine
-
-transdermal system)
+(rivastigmine transdermal system)
 
 Exelon Patch is for skin use only.
-
-Read this Patient Information leaflet before you start using Exelon Patch and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
-If you do not understand the information, or have any questions about Exelon Patch, talk with your healthcare provider or pharmacist.
-
-Exelon patch is available in 3 dosage strengths
-
-- 4.6 mg per day (4.6 mg/24 hours)
-- 9.5 mg per day (9.5 mg/24 hours)
-- 13.3 mg per day (13.3 mg/24 hours)
 
 What is Exelon Patch?
 
 Exelon Patch is a prescription medicine used to treat:
 
-- mild to moderate memory problems (dementia) associated with Alzheimer’s disease.
-- mild to moderate memory problems (dementia) associated with Parkinson’s disease.
+- Mild, moderate and severe memory problems (dementia) associated with Alzheimer’s disease.
+- Mild to moderate memory problems (dementia) associated with Parkinson’s disease.
 
-It is not known if Exelon Patch is safe or effective in children.
+Based on clinical trials conducted over 6 to 12 months Exelon Patch was shown to help with cognition which includes (memory, understanding communication, reasoning) and with doing daily tasks.
+Exelon Patch does not work the same in all people.
+Some people treated with Exelon Patch may:
+
+- Seem much better
+- Get better in small ways or stay the same
+- Get worse but slower than expected
+- Not change and then get worse as expected
+
+Some patients will not benefit from treatment with Exelon Patch.
+Exelon Patch does not cure Alzheimer’s disease.
+All patients with Alzheimer’s disease get worse over time.
+
+Exelon Patch comes as a transdermal system that delivers rivastigmine (the medicine in Exelon Patch) through the skin.
+
+It is not known if Exelon Patch is safe or effective in children under 18 years of age.
 
 Who should not use Exelon Patch?
 
-Do not use Exelon Patch if you are allergic to rivastigmine, carbamate derivatives, or any of the ingredients in Exelon Patch.
-See the end of this leaflet for a complete list of ingredients in Exelon Patch.
+Do not use Exelon Patch if you:
 
-Ask your healthcare provider if you are not sure.
+- are allergic to rivastigmine, carbamate derivatives, or any of the ingredients in Exelon Patch.
+  See the end of this leaflet for a complete list of ingredients in Exelon Patch.
+- have had a skin reaction that:
+  - spread beyond the Exelon Patch size
+  - had blisters, increased skin redness, or swelling
+  - did not get better within 48 hours after you removed the Exelon Patch
+
+Ask your healthcare provider if you are not sure if you should use Exelon Patch.
 
 What should I tell my healthcare provider before using Exelon Patch?
 
 Before you use Exelon Patch, tell your healthcare provider if you:
 
-- have or ever had a stomach ulcer
+- have or have had a stomach ulcer
 - are planning to have surgery
-- have or ever had problems with your heart
+- have or have had problems with your heart
 - have problems passing urine
-- have or ever had seizures
+- have or have had seizures
 - have problems with movement (tremors)
 - have asthma or breathing problems
 - have a loss of appetite or are losing weight
+- have had a skin reaction to rivastigmine (the medicine in Exelon Patch) in the past.
+- have any other medical conditions
 - are pregnant or plan to become pregnant.
-  It is not known if Exelon Patch will harm your unborn baby.
+  It is not known if the medicine in Exelon Patch will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breastfeed.
-  It is not known if Exelon Patch passes into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby if you use Exelon Patch.
+  It is not known if the medicine in Exelon Patch passes into your breast milk.
+  You and your healthcare provider should decide if you will use Exelon Patch or breastfeed.
+  You should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements.
 
 Especially tell your healthcare provider if you take:
 
-- a medicine used to treat inflammation (nonsteroidal anti-inflammatory drugs)
+- a medicine used to treat inflammation [nonsteroidal anti-inflammatory drugs (NSAIDs)]
 - other medicines used to treat Alzheimer’s or Parkinson’s disease
 - an anticholinergic medicine, such as an allergy or cold medicine, a medicine to treat bladder or bowel spasms, or certain asthma medicines, or certain medicines to prevent motion or travel sickness
 
@@ -70,101 +81,61 @@ Keep a list of them to show to your healthcare provider and pharmacist when you 
 How should I use Exelon Patch?
 
 - Use Exelon Patch exactly as your healthcare provider tells you to use it.
+- Exelon Patches come in 3 different dosage strengths.
 - Your healthcare provider may change your dose as needed.
 - Wear only 1 Exelon Patch at a time.
 - Exelon Patch is for skin use only.
-- Apply Exelon Patch to clean, dry, hairless, intact skin.
+- Only apply Exelon Patch to healthy skin that is clean, dry, hairless, and free of redness, irritation, burns or cuts.
 - Avoid applying Exelon Patch to areas on your body that will be rubbed against tight clothing.
-- Do not apply Exelon Patch to skin that is red, irritated, or has cuts.
 - Do not apply Exelon Patch to skin that has cream, lotion, or powder on it.
 - Change your Exelon Patch every 24 hours at the same time of day.
   You may write the date and time you put on the Exelon Patch with a ballpoint pen before applying the patch to help you remember when to remove it.
 - Change your application site every day to avoid skin irritation.
-  You can use the same area, but do not use the same spot for at least 14 days after your last application.
-- Check to see if the patch is loosened when engaging in activities such as bathing, swimming, or showering.
-- If your Exelon Patch falls off, put on another patch right away and then replace the new patch the next day at the same time as usual.
-  Do not use overlays, bandages, or tape to secure patches that have loosened or reapply patches that have fallen off.
+  You can use the same area, but do not use the exact same spot for at least 14 days after your last application.
+- Check to see if the Exelon Patch has become loose when you are bathing, swimming, or showering.
+- Exelon Patch is designed to deliver medication during the time it is worn.
+  If your Exelon Patch falls off before its usual replacement time, put on a new Exelon Patch right away.
+  Replace the new patch the next day at the same time as usual.
+  Do not use overlays, bandages, or tape to secure an Exelon Patch that has become loose or try to reapply an Exelon Patch that has fallen off.
 - If you miss a dose or forget to change your Exelon Patch apply your next Exelon Patch as soon as you remember.
   Do not apply 2 Exelon Patches to make up for the missed dose.
-- If you miss more than three days of applying Exelon Patch, call your healthcare provider before putting on another patch.
-- You must remove Exelon Patch from the previous day before applying a new one.
-- Having more than one patch on your body at the same time can cause you to get too much Exelon.
-  If you accidentally use more than one Exelon Patch at a time call your healthcare provider.
-  If you are unable to reach your healthcare provider, contact your local Poison Control Center or go to the nearest hospital emergency room right away.
-
-Where should I Apply Exelon Patch?
-
-- Apply 1 Exelon Patch to ONLY ONE of the outlined areas shown in the figures below (See figure A):
-  - upper back, left or right side
-  - lower back, left or right side
-  - upper arm, left or right
-  - chest, left or right side
-
-Figure A
-
-Apply one patch to ONLY ONE of the following possible sites each day
-
-The diagram represents areas on the body where Exelon Patch may be applied.
-Only one patch should be worn at a time.
-Do not apply multiple patches to the body.
-
-Apply ONLY ONE patch per day to ONLY ONE of the following locations (as illustrated above): the upper or lower back if it is likely that the patient will remove it.
-If this is not a concern, the patch can be applied instead to the upper arm or chest.
-Avoid places where the patch can be rubbed off by tight clothing.
-
-Apply Exelon Patch as follows:
-
-The patch is a thin, beige, plastic patch that sticks to the skin.
-Each patch is sealed in a pouch that protects it until you are ready to put it on.
-Do not open the pouch or remove a patch until just before you apply it.
-
-1.
-Cut the pouch along the dotted line to open and remove the patch (See Figure B). Save the pouch for later use.
-The patch should not be cut or folded sharply.
-
-Figure B
-
-2.
-A protective liner covers the sticky (adhesive) side of the patch.
-Peel off one side of the protective cover.
-Do not touch the sticky part of the patch with your finger (See Figure C).
-
-Figure C
-
-3.
-Apply the sticky side of the patch onto your chosen skin site.
-
-4.
-Peel off the other side of the protective cover (See Figure D).
-
-Figure D
-
-5.
-Press down on the patch firmly to make sure that the edges stick well (See Figure E).
-
-Figure E
-
-Wash your hands with soap and water after applying the patch.
-
-Removing the Exelon Patch:
-
-- Gently pull on 1 edge of the Exelon Patch to remove it off your skin.
-- Fold the Exelon Patch in half and put it back into the pouch that you saved.
-- Throw the used Exelon Patch in the trash out of the reach of children and pets.
-- Wash your hands with soap and water right away.
+- If you miss more than 3 doses of applying Exelon Patch, call your healthcare provider before putting on a new Exelon Patch.
+  You may need to re-start Exelon Patch at a lower dose.
+- Always remove the old Exelon Patch from the previous day before you apply a new one.
+- Having more than 1 Exelon Patch on your body at the same time can cause you to get too much medicine.
+  If you accidentally use more than 1 Exelon Patch at a time, call your healthcare provider right away.
+  If you are unable to reach your healthcare provider, call your local Poison Control Center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 
 What should I avoid while using Exelon Patch?
 
 - Do not touch your eyes after you touch the Exelon Patch.
+  In case of accidental contact with your eyes or if your eyes become red after handling the patch, rinse immediately with plenty of water and seek medical advice if symptoms do not resolve.
 - Exelon Patch can cause drowsiness, dizziness, weakness, or fainting.
   Do not drive, operate heavy machinery, or do other dangerous activities until you know how Exelon Patch affects you.
-- Avoid exposure to external heat sources such as excessive sunlight, saunas, or solariums for long periods of time.
+- Avoid exposure to heat sources such as excessive sunlight, saunas, or sun-rooms for long periods of time.
 
 What are the possible side effects of Exelon Patch?
 
-Exelon Patch may cause serious side effects including:
+Exelon Patch may cause serious side effects, including:
 
-- Stomach or bowel (intestinal) problems, including: ▪ nausea ▪ vomiting ▪ diarrhea ▪ dehydration ▪ loss of appetite ▪ weight loss ▪ bleeding in your stomach (ulcers)
+- Medication overdose.
+  Hospitalization and rarely death may happen when people accidently wear more than 1 patch at the same time.
+  It is important that the old Exelon Patch be removed before you apply a new one.
+  Do not wear more than 1 Exelon Patch at a time.
+- Stomach or bowel (intestinal) problems, including:
+  - nausea
+  - vomiting
+  - diarrhea
+  - dehydration
+  - loss of appetite
+  - weight loss
+  - bleeding in your stomach (ulcers)
+- Skin reactions.
+  Some people have had a serious skin reaction called allergic contact dermatitis (ACD) when using Exelon Patch.
+  Stop using Exelon Patch and call your healthcare provider right away if you experience reactions that spread beyond the patch size, are intense in nature and do not improve within 48 hours after the patch is removed.
+  Symptoms of ACD may be intense and include:
+  - itching, redness, swelling, warmth or tenderness of the skin
+  - peeling or blistering of the skin that may ooze, drain or crust over
 - heart problems
 - seizures
 - problems with movement (tremors)
@@ -191,7 +162,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 
 How should I store Exelon Patch?
 
-- Store Exelon Patch at 59oF to 86oF (15oC to 30oC).
+- Store Exelon Patch between 68oF to 77oF (20oC to 25oC).
 - Keep Exelon Patch in the sealed pouch until ready to use.
 
 Keep Exelon Patch and all medicines out of the reach of children.
@@ -207,12 +178,10 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about Exelon Patch that is written for health professionals.
 
+For more information, go to www.EXELONPATCH.com or call 1-888-669-6682
+
 What are the ingredients of Exelon Patch?
 
-Active ingredient: rivastigmine
+Active ingredient: rivastigmine Excipients include: acrylic copolymer, poly (butylmethacrylate, methylmethacrylate), silicone adhesive applied to a flexible polymer backing film, silicone oil, and vitamin E
 
-Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
-
-©Novartis
-
-T2012-155/T2012-156 August 2012/August 2012
+T2013-60 June 2013

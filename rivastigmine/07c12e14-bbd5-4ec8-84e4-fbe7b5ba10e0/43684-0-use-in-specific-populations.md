@@ -23,17 +23,16 @@ Use of Exelon Patch in children and adolescents (below 18 years of age) is not r
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in clinical studies of Exelon Patch, 88% were 65 and over, while 53% were 75 and over.
+Of the total number of subjects in clinical studies of Exelon Patch, 88% were 65 and over, while 55% were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
-In patients with moderate to severe renal impairment (glomerular filtration rate [GFR] <50 mL/min), clearance of oral rivastigmine was reduced [see Clinical Pharmacology (12.3)].
-In these patients, consider using the lowest dose Exelon Patch (4.6 mg/24 hours) for both initial and maintenance therapy.
+No dose adjustment is necessary for patients with renal impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-In patients with mild or moderate hepatic impairment (Child-Pugh score 5-9), clearance of oral rivastigmine was reduced [see Clinical Pharmacology (12.3)].
+In patients with mild or moderate hepatic impairment (Child-Pugh score 5 to 9), clearance of oral rivastigmine was reduced [see Clinical Pharmacology (12.3)].
 In these patients, consider using the lowest dose Exelon Patch (4.6 mg/24 hours) for both initial and maintenance therapy.
 No data are available on the use of rivastigmine in patients with severe hepatic impairment.
 
