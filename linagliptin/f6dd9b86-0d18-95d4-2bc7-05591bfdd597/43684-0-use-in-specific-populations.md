@@ -42,12 +42,12 @@ Because the potential for hypoglycemia in nursing infants may exist, a decision 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of JENTADUETO in pediatric patients have not been established.
+Safety and effectiveness of JENTADUETO in pediatric patients under 18 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
 Linagliptin is minimally excreted by the kidney; however, metformin is substantially excreted by the kidney.
-Considering that aging can be associated with reduced renal function, JENTADUETO should be used with caution as age increases [see Warnings and Precautions (5.1, 5.2) and Clinical Pharmacology (12.3)].
+Considering that aging can be associated with reduced renal function, JENTADUETO should be used with caution as age increases [see Warnings and Precautions (5.1, 5.3) and Clinical Pharmacology (12.3)].
 
 Linagliptin
 
@@ -60,4 +60,4 @@ Metformin
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 The initial and maintenance dosing of metformin should be conservative in patients with advanced age, due to the potential for decreased renal function in this population.
-Any dose adjustment should be based on a careful assessment of renal function [see Contraindications (4), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
+Any dose adjustment should be based on a careful assessment of renal function [see Contraindications (4), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].

@@ -20,7 +20,7 @@ Metformin
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 Its pharmacologic mechanisms of action are different from other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.8)] and does not cause hyperinsulinemia.
+Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.9)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -109,7 +109,7 @@ Specific Populations
 Renal Impairment
 
 JENTADUETO: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO in renally impaired patients have not been performed.
-Since metformin is contraindicated in patients with renal impairment, use of JENTADUETO is also contraindicated in patients with renal impairment (e.g., serum creatinine ≥1.5 mg/dL [males] or ≥1.4 mg/dL [females], or abnormal creatinine clearance) [see Contraindications (4) and Warnings and Precautions (5.2)].
+Since metformin is contraindicated in patients with renal impairment, use of JENTADUETO is also contraindicated in patients with renal impairment (e.g., serum creatinine ≥1.5 mg/dL [males] or ≥1.4 mg/dL [females], or abnormal creatinine clearance) [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 Linagliptin: Under steady-state conditions, linagliptin exposure in patients with mild renal impairment was comparable to healthy subjects.
 In patients with moderate renal impairment under steady-state conditions, mean exposure of linagliptin increased (AUCτ,ss by 71% and Cmax by 46%) compared with healthy subjects.
@@ -119,15 +119,15 @@ Renal excretion of linagliptin was below 5% of the administered dose and was not
 Patients with type 2 diabetes mellitus and severe renal impairment showed steady-state exposure approximately 40% higher than that of patients with type 2 diabetes mellitus and normal renal function (increase in AUC by 42% and Cmax by 35%).
 For both type 2 diabetes mellitus groups, renal excretion was below 7% of the administered dose.
 
-Metformin: In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.2)].
+Metformin: In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 Hepatic Impairment
 
 JENTADUETO: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO in hepatically impaired patients have not been performed.
 However, use of metformin alone in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-Therefore, use of JENTADUETO is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.3)].
+Therefore, use of JENTADUETO is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.4)].
 
-Linagliptin: In patients with mild hepatic impairment (Child-Pugh class A) steady-state exposure (AUC,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
+Linagliptin: In patients with mild hepatic impairment (Child-Pugh class A) steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
 In patients with moderate hepatic impairment (Child-Pugh class B), AUCss, of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
 Patients with severe hepatic impairment (Child-Pugh class C) had comparable exposure of linagliptin in terms of AUC0-24 and approximately 23% lower Cmax compared with healthy subjects.
 Reductions in the pharmacokinetic parameters seen in patients with hepatic impairment did not result in reductions in DPP-4 inhibition.
@@ -148,7 +148,7 @@ Similarly, in controlled clinical studies in patients with type 2 diabetes melli
 Geriatric
 
 JENTADUETO: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO in geriatric patients have not been performed.
-Based on the metformin component, JENTADUETO treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced [see Warnings and Precautions (5.1, 5.2) and Use in Specific Populations (8.5)].
+Based on the metformin component, JENTADUETO treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced [see Warnings and Precautions (5.1, 5.3) and Use in Specific Populations (8.5)].
 
 Linagliptin: Age did not have a clinically meaningful impact on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
 

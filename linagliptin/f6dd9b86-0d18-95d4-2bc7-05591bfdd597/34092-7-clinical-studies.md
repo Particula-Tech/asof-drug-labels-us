@@ -4,7 +4,7 @@ The coadministration of linagliptin and metformin has been studied in patients w
 
 There have been no clinical efficacy studies conducted with JENTADUETO; however, bioequivalence of JENTADUETO to linagliptin and metformin coadministered as individual tablets was demonstrated in healthy subjects.
 
-## 14.1 Initial Combination Therapy With Metformin
+## 14.1 Initial Combination Therapy with Metformin
 
 A total of 791 patients with type 2 diabetes mellitus and inadequate glycemic control on diet and exercise participated in the 24-week, randomized, double-blind, portion of this placebo-controlled factorial study designed to assess the efficacy of linagliptin as initial therapy with metformin.
 Patients on an antihyperglycemic agent (52%) underwent a drug washout period of 4 weeks’ duration.
@@ -41,7 +41,7 @@ Table 6 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and M
 
 Figure 1 Adjusted Mean Change from Baseline for A1C (%) over 24 Weeks with Linagliptin and Metformin, Alone and in Combination in Patients with Type 2 Diabetes Mellitus Inadequately Controlled with Diet and Exercise - FAS completers (LOCF).
 
-## 14.2 Add-On Combination Therapy With Metformin
+## 14.2 Add-On Combination Therapy with Metformin
 
 A total of 701 patients with type 2 diabetes mellitus participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of linagliptin in combination with metformin.
 Patients already on metformin (n=491) at a dose of at least 1500 mg per day were randomized after completing a 2-week open-label placebo run-in period.
@@ -75,7 +75,7 @@ Table 7 Glycemic Parameters (in Placebo-Controlled Study) for Linagliptin in Com
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -67 (-95, -40) | -- |
 | * Full analysis population using last observation on study |  |  |
 
-## 14.3 Active-Controlled Study vs Glimepiride in Combination With Metformin
+## 14.3 Active-Controlled Study vs Glimepiride in Combination with Metformin
 
 The efficacy of linagliptin is being evaluated in a 104-week double-blind, glimepiride-controlled non-inferiority study in type 2 diabetic patients with insufficient glycemic control despite metformin therapy.
 Patients being treated with metformin only entered a run-in period of 2 weeks’ duration, whereas patients pretreated with metformin and one additional antihyperglycemic agent entered a run-in treatment period of 6 weeks’ duration with metformin monotherapy (dose of ≥1500 mg per day) and washout of the other agent.

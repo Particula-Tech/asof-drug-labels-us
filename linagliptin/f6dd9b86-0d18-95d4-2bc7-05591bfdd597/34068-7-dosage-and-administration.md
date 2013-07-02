@@ -18,4 +18,4 @@ Any change in therapy of type 2 diabetes mellitus should be undertaken with care
 
 ## 2.2 Concomitant Use With Sulfonylurea
 
-When JENTADUETO is used in combination with an insulin secretagogue (e.g., sulfonylurea), a lower dose of the insulin secretagogue may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4)].
+When JENTADUETO is used in combination with an insulin secretagogue (e.g., sulfonylurea), a lower dose of the insulin secretagogue may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5)].

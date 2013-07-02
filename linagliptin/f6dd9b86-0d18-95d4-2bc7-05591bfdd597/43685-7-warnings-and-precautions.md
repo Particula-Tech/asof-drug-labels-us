@@ -16,7 +16,7 @@ Patients with congestive heart failure requiring pharmacologic management, parti
 The risk of lactic acidosis increases with the degree of renal impairment and the patient's age.
 The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking metformin.
 In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
-Metformin treatment should not be initiated in any patients unless measurement of creatinine clearance demonstrates that renal function is not reduced.
+Metformin treatment should not be initiated in any patient unless measurement of creatinine clearance demonstrates that renal function is not reduced.
 In addition, metformin should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
 Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should be avoided in patients with clinical or laboratory evidence of hepatic impairment.
 Patients should be cautioned against excessive alcohol intake when taking metformin, since alcohol potentiates the effects of metformin on lactate metabolism.
@@ -39,7 +39,14 @@ In a patient with lactic acidosis who is taking metformin, the drug should be di
 Metformin is dialyzable (clearance of up to 170 mL/min under good hemodynamic conditions) and prompt hemodialysis is recommended to remove the accumulated metformin and correct the metabolic acidosis.
 Such management often results in prompt reversal of symptoms and recovery [see Boxed Warning].
 
-## 5.2 Monitoring of Renal Function
+## 5.2 Pancreatitis
+
+There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients taking linagliptin.
+Take careful notice of potential signs and symptoms of pancreatitis.
+If pancreatitis is suspected, promptly discontinue JENTADUETO and initiate appropriate management.
+It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JENTADUETO.
+
+## 5.3 Monitoring of Renal Function
 
 Although linagliptin undergoes minimal renal excretion, metformin is known to be substantially excreted by the kidney.
 The risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
@@ -62,11 +69,11 @@ Therefore, in patients in whom any such study is planned, JENTADUETO should be t
 
 JENTADUETO should be temporarily discontinued for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient's oral intake has resumed and renal function has been evaluated as normal.
 
-## 5.3 Impaired Hepatic Function
+## 5.4 Impaired Hepatic Function
 
 Because impaired hepatic function has been associated with some cases of lactic acidosis with metformin therapy, JENTADUETO should generally be avoided in patients with clinical or laboratory evidence of hepatic disease [see Warnings and Precautions (5.1)].
 
-## 5.4 Hypoglycemia
+## 5.5 Hypoglycemia
 
 Linagliptin
 
@@ -80,7 +87,7 @@ Hypoglycemia does not occur in patients receiving metformin alone under usual ci
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 
-## 5.5 Vitamin B12 Levels
+## 5.6 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
@@ -90,16 +97,16 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
-## 5.6 Alcohol Intake
+## 5.7 Alcohol Intake
 
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Patients, therefore, should be warned against excessive alcohol intake while receiving JENTADUETO [see Warnings and Precautions (5.1)].
 
-## 5.7 Hypoxic States
+## 5.8 Hypoxic States
 
 Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction, and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur in patients on JENTADUETO therapy, the drug should be promptly discontinued [see Warnings and Precautions (5.1)].
 
-## 5.8 Macrovascular Outcomes
+## 5.9 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with linagliptin or metformin or any other antidiabetic drug.

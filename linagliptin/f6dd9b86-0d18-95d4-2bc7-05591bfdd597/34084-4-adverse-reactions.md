@@ -21,7 +21,7 @@ Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Linagliptin
 | Nasopharyngitis | 1 (1.4) | 8 (5.6) | 8 (2.7) | 18 (6.3) |
 | Diarrhea | 2 (2.8) | 5 (3.5) | 11 (3.8) | 18 (6.3) |
 
-Other adverse reactions reported in clinical studies with treatment of linagliptin + metformin were hypersensitivity (e.g., urticaria, angioedema, or bronchial hyperactivity), cough, decreased appetite, nausea, vomiting, pruritus, and pancreatitis.
+Other adverse reactions reported in clinical studies with treatment of linagliptin + metformin were hypersensitivity (e.g., urticaria, angioedema, or bronchial hyperreactivity), cough, decreased appetite, nausea, vomiting, pruritus, and pancreatitis.
 
 Linagliptin Monotherapy
 
@@ -35,7 +35,7 @@ Metformin Monotherapy
 
 The most common adverse reactions due to initiation of metformin are diarrhea, nausea/vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
 
-Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.4)].
+Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.5)].
 
 Hypoglycemia
 
@@ -48,3 +48,11 @@ Changes in laboratory findings were similar in patients treated with linagliptin
 Changes in laboratory values that occurred more frequently in the linagliptin + metformin group and ≥1% more than in the placebo group were not detected.
 
 No clinically meaningful changes in vital signs were observed in patients treated with linagliptin.
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during postapproval use of linagliptin.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.2)]
+- Rash

@@ -1,11 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drug Interactions With Metformin
+## 7.1 Drug Interactions with Metformin
 
 Cationic Drugs
 
 Cationic drugs (e.g., amiloride, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with metformin by competing for common renal tubular transport systems.
-Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of JENTADUETO and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of JENTADUETO and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 Carbonic Anhydrase Inhibitors
 

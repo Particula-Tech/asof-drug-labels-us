@@ -1,12 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-JENTADUETO (linagliptin and metformin hydrochloride) tablets 2.5 mg/500 mg are supplied as follows: Bottles of 60 (NDC 0597-0146-60) Bottles of 180 (NDC 0597-0146-18) Bottles of 2000 (NDC 0597-0146-72)
+JENTADUETO (linagliptin and metformin hydrochloride) tablets 2.5 mg/500 mg are supplied as follows: Bottles of 60 (NDC 0597-0146-60) Bottles of 180 (NDC 0597-0146-18)
 
-JENTADUETO (linagliptin and metformin hydrochloride) tablets 2.5 mg/850 mg are supplied as follows: Bottles of 60 (NDC 0597-0147-60) Bottles of 180 (NDC 0597-0147-18) Bottles of 2000 (NDC 0597-0147-72)
+JENTADUETO (linagliptin and metformin hydrochloride) tablets 2.5 mg/850 mg are supplied as follows: Bottles of 60 (NDC 0597-0147-60) Bottles of 180 (NDC 0597-0147-18)
 
-JENTADUETO (linagliptin and metformin hydrochloride) tablets 2.5 mg/1000 mg are supplied as follows: Bottles of 60 (NDC 0597-0148-60) Bottles of 180 (NDC 0597-0148-18) Bottles of 2000 (NDC 0597-0148-72)
-
-For bottles of 2000, do not discard desiccant after opening; dispense in USP tight container.
+JENTADUETO (linagliptin and metformin hydrochloride) tablets 2.5 mg/1000 mg are supplied as follows: Bottles of 60 (NDC 0597-0148-60) Bottles of 180 (NDC 0597-0148-18)
 
 Storage
 
