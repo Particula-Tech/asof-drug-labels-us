@@ -9,7 +9,7 @@ There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 Linagliptin administered during the period of organogenesis was not teratogenic at doses up to 30 mg/kg in the rat and 150 mg/kg in the rabbit, or approximately 49 and 1943 times the clinical dose based on AUC exposure.
-Doses of linagliptin causing maternal toxicity in the rat and the rabbit also caused developmental delays in skeletal ossification and slightly increased embryofetal loss in rat (1000 times the clinical dose) and increased fetal resorptions and visceral and skeletal variations in the rabbit (1943 times the clinical dose).
+Doses of linagliptin causing maternal toxicity in the rat and the rabbit also caused developmental delays in skeletal ossification and slightly increased embryofetal loss in the rat (1000 times the clinical dose) and increased fetal resorptions and visceral and skeletal variations in the rabbit (1943 times the clinical dose).
 
 Linagliptin administered to female rats from gestation day 6 to lactation day 21 resulted in decreased body weight and delays in physical and behavioral development in male and female offspring at maternally toxic doses (exposures >1000 times the clinical dose).
 No functional, behavioral, or reproductive toxicity was observed in offspring of rats exposed to 49 times the clinical dose.
@@ -24,7 +24,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of TRADJENTA in pediatric patients have not been established.
+Safety and effectiveness of TRADJENTA in pediatric patients under 18 years of age have not been established.
 
 ## 8.5 Geriatric Use
 

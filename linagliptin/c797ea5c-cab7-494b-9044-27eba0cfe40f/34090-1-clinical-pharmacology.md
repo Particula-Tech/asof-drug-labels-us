@@ -12,7 +12,7 @@ Furthermore, GLP-1 also reduces glucagon secretion from pancreatic alpha-cells, 
 ## 12.2 Pharmacodynamics
 
 Linagliptin binds to DPP-4 in a reversible manner and thus increases the concentrations of incretin hormones.
-Linagliptin glucose-dependently increases insulin secretion and lowers glucagon secretion, thus resulting in better regulation of glucose homeostasis.
+Linagliptin glucose dependently increases insulin secretion and lowers glucagon secretion, thus resulting in better regulation of glucose homeostasis.
 Linagliptin binds selectively to DPP-4, and selectively inhibits DPP-4 but not DPP-8 or DPP-9 activity in vitro at concentrations approximating therapeutic exposures.
 
 ### Cardiac Electrophysiology

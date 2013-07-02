@@ -1,3 +1,5 @@
+Tradjenta Label 1000 Tablets NDC: 0597-0140-10
+
 Tradjenta Label 90 Tablets NDC: 0597-0140-90
 
 Tradjenta Label 30 Tablets NDC: 0597-0140-30

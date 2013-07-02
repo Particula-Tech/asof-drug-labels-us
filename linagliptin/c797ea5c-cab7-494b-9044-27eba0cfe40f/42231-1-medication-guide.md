@@ -1,34 +1,63 @@
-PATIENT INFORMATION
+MEDICATION GUIDE
 
 TRADJENTA® (TRAD gen ta) (linagliptin) Tablets
 
-Read this Patient Information before you start taking TRADJENTA and each time you get a refill.
+Read this Medication Guide carefully before you start taking TRADJENTA and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your doctor about your medical condition or your treatment.
+If you have any questions about TRADJENTA, ask your doctor or pharmacist.
+
+What is the most important information I should know about TRADJENTA?
+
+Serious side effects can happen to people taking TRADJENTA, including inflammation of the pancreas (pancreatitis) which may be severe and lead to death.
+
+Certain medical problems make you more likely to get pancreatitis.
+
+Before you start taking TRADJENTA:
+
+Tell your doctor if you have ever had:
+
+- Stop taking TRADJENTA and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
+  The pain may be felt going from your abdomen through to your back.
+  The pain may happen with or without vomiting.
+  These may be symptoms of pancreatitis.
+  - inflammation of your pancreas (pancreatitis)
+  - stones in your gallbladder (gallstones)
+  - a history of alcoholism
+  - high blood triglyceride levels
 
 What is TRADJENTA?
 
-- TRADJENTA is a prescription medicine used along with diet and exercise to lower blood sugar in adults with type 2 diabetes.
-- TRADJENTA is not for people with type 1 diabetes.
-- TRADJENTA is not for people with diabetic ketoacidosis (increased ketones in the blood or urine).
-- It is not known if TRADJENTA is safe and effective in children.
+- 
+  - TRADJENTA is a prescription medicine used along with diet and exercise to lower blood sugar in adults with type 2 diabetes.
+  - TRADJENTA is not for people with type 1 diabetes.
+  - TRADJENTA is not for people with diabetic ketoacidosis (increased ketones in the blood or urine).
+  - If you have had pancreatitis in the past, it is not known if you have a higher chance of getting pancreatitis while you take TRADJENTA.
+
+It is not known if TRADJENTA is safe and effective in children under 18 years of age.
 
 Who should not take TRADJENTA?
 
 - Do not take TRADJENTA if you:
   - are allergic to linagliptin or any of the ingredients in TRADJENTA.
-    See the end of this leaflet for a complete list of ingredients in TRADJENTA.
-- Symptoms of a serious allergic reaction to TRADJENTA are:
-  - 
-    - rash
-    - raised red patches on your skin (hives)
-    - swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
+    See the end of this Medication Guide for a complete list of ingredients in TRADJENTA.
+
+Symptoms of a serious allergic reaction to TRADJENTA may include:
+
+- 
+  - skin rash, itching, flaking or peeling
+  - raised red patches on your skin (hives)
+  - swelling of your face, lips, tongue and throat that may cause difficulty in breathing or swallowing
+  - difficulty with swallowing or breathing
+
+If you have any of these symptoms, stop taking TRADJENTA and contact your doctor or go to the nearest hospital emergency room right away.
 
 What should I tell my doctor before using TRADJENTA?
 
 - Before you take TRADJENTA, tell your doctor if you:
+  - have or have had inflammation of your pancreas (pancreatitis).
   - have any other medical conditions
-  - are pregnant or planning to become pregnant.
+  - are pregnant or plan to become pregnant.
     It is not known if TRADJENTA will harm your unborn baby.
     If you are pregnant, talk with your doctor about the best way to control your blood sugar while you are pregnant.
   - are breastfeeding or plan to breastfeed.
@@ -44,10 +73,9 @@ What should I tell my doctor before using TRADJENTA?
 
 How should I take TRADJENTA?
 
-- Take TRADJENTA 1 time each day exactly as your doctor tells you to take it.
-- Talk with your doctor if you do not understand how to take TRADJENTA.
+- Take 1 tablet 1 time each day with or without food.
 - Your doctor will tell you when to take TRADJENTA.
-- Take TRADJENTA with or without food.
+- Talk with your doctor if you do not understand how to take TRADJENTA.
 - If you miss a dose, take it as soon as you remember.
   If you do not remember until it is time for your next dose, skip the missed dose and go back to your regular schedule.
   Do not take two doses of TRADJENTA at the same time.
@@ -59,13 +87,13 @@ How should I take TRADJENTA?
   Tell your doctor right away if you have any of these conditions and follow your doctor's instructions.
 - Check your blood sugar as your doctor tells you to.
 - Stay on your prescribed diet and exercise program while taking TRADJENTA.
-- Talk to your doctor about how to prevent, recognize and manage low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and complications of diabetes.
 - Your doctor will check your diabetes with regular blood tests, including your blood sugar levels and your hemoglobin A1C.
 
 What are the possible side effects of TRADJENTA?
 
 TRADJENTA may cause serious side effects, including:
 
+- See “What is the most important information I should know about TRADJENTA?”.
 - low blood sugar (hypoglycemia).
   If you take TRADJENTA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take TRADJENTA.
@@ -84,29 +112,31 @@ TRADJENTA may cause serious side effects, including:
 The most common side effects of TRADJENTA include:
 
 - stuffy or runny nose and sore throat
-
-Tell your doctor if you have any side effect that bothers you or that does not go away.
+- cough
+- diarrhea
 
 These are not all the possible side effects of TRADJENTA.
 For more information, ask your doctor or pharmacist.
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store TRADJENTA?
 
-- Store TRADJENTA at 59°F to 86°F (15°C to 30°C).
+- Store TRADJENTA between 68°F and 77°F (20°C and 25°C).
 
 Keep TRADJENTA and all medicines out of the reach of children.
 
 General information about the safe and effective use of TRADJENTA.
 
-Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
+Medicines are sometimes prescribed for purposes other than those listed in Medication Guides.
 Do not use TRADJENTA for a condition for which it was not prescribed.
 Do not give TRADJENTA to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This Patient Information summarizes the most important information about TRADJENTA.
+This Medication Guide summarizes the most important information about TRADJENTA.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about TRADJENTA that is written for health professionals.
 
@@ -129,7 +159,9 @@ This can lead to serious medical problems.
 The main goal of treating diabetes is to lower your blood sugar to a normal level.
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration.
+Talk to your doctor about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and other problems you have because of your diabetes.
+
+This Medication Guide has been approved by the U. S. Food and Drug Administration.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
@@ -139,10 +171,10 @@ Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
 *The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253MJ032012 10007261/06
+IT5253NF192013 10007261/07
 
-IT5437H 10007237/06
+IT5437K 10007237/07
 
-Revised: September 2012
+Revised: June 2013

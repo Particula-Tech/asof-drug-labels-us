@@ -24,7 +24,7 @@ Table 1 Adverse Reactions Reported in ≥2% of Patients Treated with TRADJENTA a
 | Diarrhea | 119 (3.3) | 65 (3.0) |
 | Cough | 76 (2.1) | 30 (1.4) |
 
-Rates for other adverse reactions for TRADJENTA 5 mg versus placebo when TRADJENTA was used in combination with specific anti-diabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when TRADJENTA was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when TRADJENTA was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when TRADJENTA was used add-on to basal insulin therapy.
+Rates for other adverse reactions for TRADJENTA 5 mg versus placebo when TRADJENTA was used in combination with specific anti-diabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when TRADJENTA was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when TRADJENTA was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when TRADJENTA was used as add-on to basal insulin therapy.
 
 Following 104 weeks’ treatment in a controlled study comparing TRADJENTA with glimepiride in which all patients were also receiving metformin, adverse reactions reported in ≥5% of patients treated with TRADJENTA (n = 776) and more frequently than in patients treated with a sulfonylurea (n = 775) were back pain (9.1% vs 8.4%), arthralgia (8.1% vs 6.1%), upper respiratory tract infection (8.0% vs 7.6%), headache (6.4% vs 5.2%), cough (6.1% vs 4.9%), and pain in extremity (5.3% vs 3.9%).
 
@@ -32,9 +32,7 @@ Other adverse reactions reported in clinical studies with treatment of TRADJENTA
 In the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient year exposure while being treated with TRADJENTA compared with 3.7 cases per 10,000 patient year exposure while being treated with comparator (placebo and active comparator, sulfonylurea).
 Three additional cases of pancreatitis were reported following the last administered dose of linagliptin.
 
-### Hypoglycemia
-
-In the placebo-controlled studies, 199 (6.6%) of the total 2994 patients treated with TRADJENTA 5 mg reported hypoglycemia compared to 56 patients (3.6%) of 1546 placebo-treated patients.
+Hypoglycemia In the placebo-controlled studies, 199 (6.6%) of the total 2994 patients treated with TRADJENTA 5 mg reported hypoglycemia compared to 56 patients (3.6%) of 1546 placebo-treated patients.
 The incidence of hypoglycemia was similar to placebo when TRADJENTA was administered as monotherapy or in combination with metformin, or with pioglitazone.
 When TRADJENTA was administered in combination with metformin and a sulfonylurea, 181 of 792 (22.9%) patients reported hypoglycemia compared with 39 of 263 (14.8%) patients administered placebo in combination with metformin and a sulfonylurea.
 Adverse reactions of hypoglycemia were based on all reports of hypoglycemia.
@@ -52,7 +50,7 @@ For the remainder of the trial, dose adjustments in antidiabetic background ther
 In general, the incidence of adverse events including severe hypoglycemia was similar to those reported in other TRADJENTA trials.
 The observed incidence of hypoglycemia was higher (TRADJENTA, 63% compared to placebo, 49%) due to an increase in asymptomatic hypoglycemic events especially during the first 12 weeks when background glycemic therapies were kept stable.
 Ten TRADJENTA-treated patients (15%) and 11 placebo-treated patients (17%) reported at least one episode of confirmed symptomatic hypoglycemia (accompanying finger stick glucose ≤54 mg/dL).
-During the same time period, severe hypoglycemic events, defined as an event requiring the assistance of another person to actively administer carbohydrate, glucagon or other resuscitative actions, were reported in 3 (4.4%) TRADJENTA treated patients and 3 (4.6%) placebo treated patient.
+During the same time period, severe hypoglycemic events, defined as an event requiring the assistance of another person to actively administer carbohydrate, glucagon or other resuscitative actions, were reported in 3 (4.4%) TRADJENTA-treated patients and 3 (4.6%) placebo-treated patients.
 Events that were considered life-threatening or required hospitalization were reported in 2 (2.9%) patients on TRADJENTA and 1 (1.5%) on placebo.
 
 Renal function as measured by mean eGFR and creatinine clearance did not change over 52 weeks treatment compared to placebo.
@@ -63,3 +61,11 @@ Changes in laboratory findings were similar in patients treated with TRADJENTA 5
 Changes in laboratory values that occurred more frequently in the TRADJENTA group and >1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the TRADJENTA group).
 
 No clinically meaningful changes in vital signs were observed in patients treated with TRADJENTA.
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during postapproval use of TRADJENTA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.1)]
+- Rash
