@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA201914"
+  ],
+  "inn": "rizatriptan",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-467-06",
+    "68462-467-74",
+    "68462-468-06",
+    "68462-468-74"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "rizatriptan benzoate",
+      "name": "rizatriptan benzoate"
+    }
+  ],
+  "setid": "4de33a24-db69-444a-b04d-c69ccba57ab2",
+  "source": "dailymed"
+}
