@@ -1,4 +1,4 @@
-REPRESENTATIVE PACKAGING
+--------------------------------------------- REPRESENTATIVE PACKAGING
 
 See How Supplied section for a complete list of available packages of SPRYCEL.
 

@@ -4,7 +4,7 @@
 
 Treatment with SPRYCEL is associated with severe (NCI CTC Grade 3 or 4) thrombocytopenia, neutropenia, and anemia.
 Their occurrence is more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML.
-In a dose-optimization study in patients with resistance or intolerance to prior imatinib therapy and chronic phase CML, Grade 3 or 4 myelosuppression was reported less frequently in patients treated with 100 mg once daily than in patients treated with other dosing regimens.
+In a dose-optimization trial in patients with resistance or intolerance to prior imatinib therapy and chronic phase CML, Grade 3 or 4 myelosuppression was reported less frequently in patients treated with 100 mg once daily than in patients treated with other dosing regimens.
 
 Perform complete blood counts weekly for the first 2 months and then monthly thereafter, or as clinically indicated.
 Myelosuppression was generally reversible and usually managed by withholding SPRYCEL temporarily or dose reduction [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
@@ -25,8 +25,7 @@ Exercise caution if patients are required to take medications that inhibit plate
 
 SPRYCEL is associated with fluid retention.
 In clinical trials, severe fluid retention was reported in up to 10% of patients.
-Ascites and generalized edema were each reported in <1% of patients.
-Severe pulmonary edema was reported in 1% of patients.
+Severe ascites, pulmonary edema, and generalized edema were each reported in ≤1% of patients.
 Patients who develop symptoms suggestive of pleural effusion, such as dyspnea or dry cough, should be evaluated by chest X-ray.
 Severe pleural effusion may require thoracentesis and oxygen therapy.
 Fluid retention events were typically managed by supportive care measures that include diuretics or short courses of steroids.
@@ -35,7 +34,7 @@ In dose-optimization studies, fluid retention events were reported less frequent
 ## 5.4 QT Prolongation
 
 In vitro data suggest that dasatinib has the potential to prolong cardiac ventricular repolarization (QT interval).
-Of the 2440 patients with CML treated with SPRYCEL in clinical studies, 15 patients (<1%) had QTc prolongation reported as an adverse reaction.
+Of the 2440 patients treated with SPRYCEL in clinical studies, 16 patients (1%) had QTc prolongation reported as an adverse reaction.
 Twenty-two patients (1%) experienced a QTcF >500 ms. In 865 patients with leukemia treated with SPRYCEL in five Phase 2 single-arm studies, the maximum mean changes in QTcF (90% upper bound CI) from baseline ranged from 7.0 ms to 13.4 ms.
 
 Administer SPRYCEL with caution to patients who have or may develop prolongation of QTc.
@@ -44,12 +43,12 @@ Correct hypokalemia or hypomagnesemia prior to SPRYCEL administration.
 
 ## 5.5 Congestive Heart Failure, Left Ventricular Dysfunction, and Myocardial Infarction
 
-Cardiac adverse reactions were reported in 5.8% of 258 patients taking SPRYCEL, including 1.6% of patients with cardiomyopathy, heart failure congestive, diastolic dysfunction, fatal myocardial infarction, and left ventricular dysfunction.
+Cardiac adverse reactions were reported in 7% of 258 patients taking SPRYCEL, including, 1.6% of patients with cardiomyopathy, heart failure congestive, diastolic dysfunction, fatal myocardial infarction, and left ventricular dysfunction.
 Monitor patients for signs or symptoms consistent with cardiac dysfunction and treat appropriately.
 
 ## 5.6 Pulmonary Arterial Hypertension
 
-SPRYCEL may increase the risk of developing pulmonary arterial hypertension (PAH) which may occur anytime after initiation, including after more than one year of treatment.
+SPRYCEL may increase the risk of developing pulmonary arterial hypertension (PAH) which may occur any time after initiation, including after more than one year of treatment.
 Manifestations include dyspnea, fatigue, hypoxia, and fluid retention.
 PAH may be reversible on discontinuation of SPRYCEL.
 Evaluate patients for signs and symptoms of underlying cardiopulmonary disease prior to initiating SPRYCEL and during treatment.

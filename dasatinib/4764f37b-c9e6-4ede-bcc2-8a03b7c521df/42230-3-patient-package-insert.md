@@ -1,12 +1,6 @@
 # FDA-Approved Patient Labeling
 
-PATIENT INFORMATION
-
-SPRYCEL® (Spry-sell)
-
-(dasatinib)
-
-Tablets
+PATIENT INFORMATION SPRYCEL® (Spry-sell) (dasatinib) Tablets
 
 Read the Patient Information that comes with SPRYCEL before you start taking it and each time you get a refill.
 There may be new information.
@@ -125,7 +119,7 @@ SPRYCEL may cause serious side effects, including:
   Your healthcare provider will monitor the potassium and magnesium levels in your blood, and your heart function.
 - Pulmonary Arterial Hypertension (PAH).
   SPRYCEL may cause high blood pressure in the vessels of your lungs.
-  PAH may happen at anytime during your treatment with SPRYCEL.
+  PAH may happen at any time during your treatment with SPRYCEL.
   Your healthcare provider should check your heart and lungs before and during your treatment with SPRYCEL.
   Call your healthcare provider right away if you have shortness of breath, tiredness, or swelling all over your body (fluid retention).
 
@@ -178,8 +172,8 @@ This Patient Package Insert has been approved by the U.S. Food and Drug Administ
 
 Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Revised: November 2012
+Revised: June 2013
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1284903A1 Rev November 2012
+1284903A2 Rev June 2013

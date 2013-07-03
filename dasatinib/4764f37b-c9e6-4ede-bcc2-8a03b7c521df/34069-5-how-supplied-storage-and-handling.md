@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-SPRYCEL® (dasatinib) tablets are available as described in Table 9.
+SPRYCEL® (dasatinib) tablets are available as described in Table 10.
 
-Table 9: SPRYCEL Trade Presentations
+Table 10: SPRYCEL Trade Presentations
 
 | NDC Number | Strength | Description | Tablets per Bottle |
 | --- | --- | --- | --- |

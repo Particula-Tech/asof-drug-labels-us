@@ -17,7 +17,7 @@ Maximum plasma concentrations (Cmax) of dasatinib are observed between 0.5 and 6
 Dasatinib exhibits dose proportional increases in AUC and linear elimination characteristics over the dose range of 15 mg to 240 mg/day.
 The overall mean terminal half-life of dasatinib is 3–5 hours.
 
-Data from a study of 54 healthy subjects administered a single, 100-mg dose of dasatinib 30 minutes following consumption of a high-fat meal resulted in a 14% increase in the mean AUC of dasatinib.
+Data from a trial of 54 healthy subjects administered a single, 100-mg dose of dasatinib 30 minutes following consumption of a high-fat meal resulted in a 14% increase in the mean AUC of dasatinib.
 The observed food effects were not clinically relevant.
 
 ### Distribution
