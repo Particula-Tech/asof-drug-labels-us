@@ -2,11 +2,11 @@
 
 Pharmacodynamics The mechanism of action of mirtazapine orally disintegrating tablets, as with other drugs effective in the treatment of major depressive disorder, is unknown.
 Evidence gathered in preclinical studies suggests that mirtazapine enhances central noradrenergic and serotonergic activity.
-These studies have shown that mirtazapine acts as an antagonist at central presynaptic α 2 -adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
-Mirtazapine is a potent antagonist of 5-HT 2 and 5-HT 3 receptors.
-Mirtazapine has no significant affinity for the 5-HT 1A and 5-HT 1B receptors.
-Mirtazapine is a potent antagonist of histamine (H 1 ) receptors, a property that may explain its prominent sedative effects.
-Mirtazapine is a moderate peripheral α 1 -adrenergic antagonist, a property that may explain the occasional orthostatic hypotension reported in association with its use.
+These studies have shown that mirtazapine acts as an antagonist at central presynaptic α2-adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
+Mirtazapine is a potent antagonist of 5-HT2 and 5-HT3 receptors.
+Mirtazapine has no significant affinity for the 5-HT1A and 5-HT1B receptors.
+Mirtazapine is a potent antagonist of histamine (H1) receptors, a property that may explain its prominent sedative effects.
+Mirtazapine is a moderate peripheral α1-adrenergic antagonist, a property that may explain the occasional orthostatic hypotension reported in association with its use.
 Mirtazapine is a moderate antagonist at muscarinic receptors, a property that may explain the relatively low incidence of anticholinergic side effects associated with its use.
 
 ## Pharmacokinetics
@@ -28,16 +28,16 @@ Steady state plasma levels of mirtazapine are attained within 5 days, with about
 Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL.
 Special Populations Geriatric Following oral administration of mirtazapine tablets 20 mg/day for 7 days to subjects of varying ages (range, 25 to 74), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
 The differences were most striking in males, with a 40% lower clearance in elderly males compared to younger males, while the clearance in elderly females was only 10% lower compared to younger females.
-Caution is indicated in administering mirtazapine orally disintegrating tablets to elderly patients (see PRECAUTIONS and DOSAGE AND ADMINISTRATION ).
-Pediatrics Safety and effectiveness of mirtazapine in the pediatric population have not been established (see PRECAUTIONS ).
-Gender The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males) (see Pharmacokinetics ).
+Caution is indicated in administering mirtazapine orally disintegrating tablets to elderly patients (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Pediatrics Safety and effectiveness of mirtazapine in the pediatric population have not been established (see PRECAUTIONS).
+Gender The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males) (see Pharmacokinetics).
 Race There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of mirtazapine orally disintegrating tablets.
 Renal Insufficiency The disposition of mirtazapine was studied in patients with varying degrees of renal function.
 Elimination of mirtazapine is correlated with creatinine clearance.
-Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr=11 to 39 mL/min/1.73 m 2 ) and approximately 50% in patients with severe (Clcr=<10 mL/min/1.73 m 2 ) renal impairment when compared to normal subjects.
-Caution is indicated in administering mirtazapine orally disintegrating tablets to patients with compromised renal function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION ).
+Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr=11 to 39 mL/min/1.73 m2) and approximately 50% in patients with severe (Clcr=<10 mL/min/1.73 m2) renal impairment when compared to normal subjects.
+Caution is indicated in administering mirtazapine orally disintegrating tablets to patients with compromised renal function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 Hepatic Insufficiency Following a single 15 mg oral dose of mirtazapine, the oral clearance of mirtazapine was decreased by approximately 30% in hepatically impaired patients compared to subjects with normal hepatic function.
-Caution is indicated in administering mirtazapine orally disintegrating tablets to patients with compromised hepatic function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION ).
+Caution is indicated in administering mirtazapine orally disintegrating tablets to patients with compromised hepatic function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 Clinical Trials Showing Effectiveness The efficacy of mirtazapine tablets as a treatment for major depressive disorder was established in 4 placebo-controlled, 6-week trials in adult outpatients meeting DSM-III criteria for major depressive disorder.
 Patients were titrated with mirtazapine from a dose range of 5 mg up to 35 mg/day.
 Overall, these studies demonstrated mirtazapine to be superior to placebo on at least 3 of the following 4 measures: 21-Item Hamilton Depression Rating Scale (HDRS) total score; HDRS Depressed Mood Item; CGI Severity score; and Montgomery and Asberg Depression Rating Scale (MADRS).

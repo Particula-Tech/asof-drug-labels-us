@@ -150,7 +150,7 @@ Before starting mirtazapine orally disintegrating tablets, tell your healthcare 
   Some mirtazapine may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking mirtazapine orally disintegrating tablets
 
-Tell your healthcare provider about all the medicines that you take , including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Mirtazapine orally disintegrating tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 Your healthcare provider or pharmacist can tell you if it is safe to take mirtazapine orally disintegrating tablets with your other medicines.
 Do not start or stop any medicine while taking mirtazapine orally disintegrating tablets without talking to your healthcare provider first.
@@ -184,7 +184,7 @@ What should I avoid while taking mirtazapine orally disintegrating tablets?
   If you are uncertain about whether certain medication can be taken with mirtazapine orally disintegrating tablets, please discuss with your doctor.
 
 What are the possible side effects of mirtazapine orally disintegrating tablets?
-Mirtazapine orally disintegrating tablets may cause serious side effects, including all of those described in the section entitled “ What is the most important information I should know about mirtazapine orally disintegrating tablets?"
+Mirtazapine orally disintegrating tablets may cause serious side effects, including all of those described in the section entitled “What is the most important information I should know about mirtazapine orally disintegrating tablets?"
 Common possible side effects in people who take mirtazapine orally disintegrating tablets include:
 
 - sleepiness

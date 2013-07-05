@@ -19,4 +19,4 @@ There is no experience with the use of forced diuresis, dialysis, hemoperfusion 
 No specific antidotes for mirtazapine are known.
 In managing overdosage, consider the possibility of multiple-drug involvement.
 The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference ( PDR).
+Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
