@@ -28,6 +28,8 @@ Instruct them to read the Medication Guide before taking EQUETRO.
   Concomitant use of the drugs and EQUETRO are contraindicated [see Warnings and Precautions (5.9)].
 - Concomitant Use with other Carbamazepine Products Inform patients that Equetro contains carbamazepine and should not be used in combination with any other medications containing carbamazepine.
 
-Manufactured for Validus Pharmaceuticals LLC, 119 Cherry Hill Road, Suite 310, Parsippany, NJ 07054,
+Manufactured for Validus Pharmaceuticals LLC, 119 Cherry Hill Road, Suite 310, Parsippany, NJ 07054
 
-© 2012 Validus Pharmaceuticals LLC
+1-866-9VALIDUS (1-866-982-5438) info@validuspharma.com http://www.equetro.com
+
+Made in U.S.A. © 2013 Validus Pharmaceuticals LLC 110704 (Rev 11/2012)

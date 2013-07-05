@@ -155,7 +155,7 @@ See "What is the most important information I should know about EQUETRO?"
 EQUETRO may cause other serious side effects, including:
 
 - Seizure risk.
-  Stopping EQUTERO suddenly may cause you to have a seizure.
+  Stopping EQUETRO suddenly may cause you to have a seizure.
   The risk of seizures may be higher in people who already have seizures.
   Do not stop taking EQUETRO without first talking with your healthcare provider.
 - Low level of sodium in your blood (hyponatremia).
@@ -235,6 +235,6 @@ Inactive ingredients: citric acid, colloidal silicon dioxide, lactose monohydrat
 
 This Medication Guide has been approved by the U. S. Food and Drug Administration.
 
-Validus Pharmaceuticals LLC, 119 Cherry Hill Road, Suite 310, Parsippany, NJ 07054 1-866-9VALIDUS (1-866-982-5438)
+Validus Pharmaceuticals LLC, 119 Cherry Hill Road, Suite 310, Parsippany, NJ 07054
 
-Revised: 11/2012
+1-866-9VALIDUS (1-866-982-5438) 110705 (Rev 11/2012)

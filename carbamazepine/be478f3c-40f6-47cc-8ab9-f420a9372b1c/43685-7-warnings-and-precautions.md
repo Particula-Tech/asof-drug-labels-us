@@ -152,7 +152,7 @@ Consider discontinuing EQUETRO in patients with symptomatic hyponatremia.
 
 EQUETRO has the potential to cause impairment in judgment, cognition, and motor function.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain the EQUETRO does not affect them adversely.
-Adverse reactions in the clinical trials in bipolar disorder included (EQUETRO, N= 251 and Placebo, N= 248): somnolence (32% vs. 13%), ataxia (15% vs. 0.4%), dizziness (44% vs. 12%), vertigo (2% vs. 1%), thinking abnormal (2% vs. 0.4%), tremor 3% vs. 1%), and blurred vision (6% vs. 2%) [see Adverse Reactions (6.1)].
+Adverse reactions in the clinical trials in bipolar disorder included (EQUETRO, N= 251 and Placebo, N= 248): somnolence (32% vs. 13%), ataxia (15% vs. 0.4%), dizziness (44% vs. 12%), vertigo (2% vs. 1%), thinking abnormal (2% vs. 0.4%), tremor (3% vs. 1%), and blurred vision (6% vs. 2%) [see Adverse Reactions (6.1)].
 
 ## 5.9 Decreased Antiviral Effect of Non-nucleoside Reverse Transcriptase Inhibitors with Concomitant use of EQUETRO
 

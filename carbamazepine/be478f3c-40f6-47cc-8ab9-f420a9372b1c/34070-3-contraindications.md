@@ -2,7 +2,7 @@
 
 - Bone marrow depression [see Warnings and Precautions (5.2)].
 - Known hypersensitivity to carbamazepine, such as anaphylaxis or serious hypersensitivity reaction [see Warnings and Precautions (5.3)].
-- Known hypersensitivity to any of the tricyclic compounds (e.g., amitriptyline, desipramine, imipramine, protriptyline, and nortriptyline.
+- Known hypersensitivity to any of the tricyclic compounds (e.g., amitriptyline, desipramine, imipramine, protriptyline, and nortriptyline.)
   Hypersensitivity reactions include anaphylaxis and serious rash.
 - Concomitant use of delavirdine or other non-nucleoside reverse transcriptase inhibitors.
   EQUETRO can substantially reduce the concentrations of these drugs through induction of CYP3A4.

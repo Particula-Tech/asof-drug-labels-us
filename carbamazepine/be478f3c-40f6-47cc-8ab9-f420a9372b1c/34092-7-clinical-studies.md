@@ -35,10 +35,10 @@ Efficacy Results in the 2 Trials in Patients with Bipolar I Disorder - Change in
 | Week 3 YMRS | 17.9 | 22.1 | 13.4 | 20.8 |
 | LS mean change | -7.8 | -4.8 | -14.8 | -7.0 |
 | LS mean difference from placebo* | -3.5 | - | -8.0 | - |
-| p-value | P= 0.033 |  | (< 0.0001 |  |
+| p-value | P= 0.033 |  | < 0.0001 |  |
 | Clinical Global Impression-Severity Scale (CGI-S) |  |  |  |  |
 | Baseline CGI-S | 4.4 | 4.4 | 4.5 | 4.5 |
 | Week 3 CGI-S | 3.7 | 4.1 | 3 | 3.9 |
 | Change from Baseline at Week 3 | -0.7 | -0.3 | -1.5 | -0.6 |
-| Difference (p-value) | -0.4 (0.025)_ | - | -0.9 (< 0.0001_ | - |
+| Difference (p-value) | -0.4 (0.025) | - | -0.9 (< 0.0001) | - |
 | * Least squares mean for the difference defined as the change from baseline at Week 3 in the EQUETRO group minus that in the placebo group. |  |  |  |  |

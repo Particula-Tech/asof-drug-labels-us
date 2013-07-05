@@ -42,7 +42,6 @@ In rat teratology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg, a
 ## 8.2 Labor and Delivery
 
 The effect of carbamazepine on human labor and delivery is unknown.
-
 Carbamazepine and its epoxide metabolite are transferred to breast milk during lactation.
 There is a potential for serious adverse reactions in nursing infants exposed to carbamazepine.
 Nursing mothers should consider the potential benefits and risks of treatment when deciding on whether to discontinue nursing or to discontinue treatment with EQUETRO, taking into account the importance of the drug to the mother.
