@@ -1,6 +1,8 @@
 # 10 OVERDOSAGE
 
-Single bolus doses of Angiomax up to 7.5 mg/kg have been reported without associated bleeding or other adverse reactions.
-In cases of overdosage, treatment with Angiomax should be immediately discontinued and the patient monitored closely for signs of bleeding.
+Cases of overdose of up to 10 times the recommended bolus or continuous infusion dose of Angiomax have been reported in clinical trials and in postmarketing reports.
+A number of the reported overdoses were due to failure to adjust the infusion dose of bivalirudin in persons with renal dysfunction including persons on hemodialysis [see Dosage and Administration (2.2)].
+Bleeding, as well as deaths due to hemorrhage, have been observed in some reports of overdose.
+In cases of suspected overdosage, discontinue Angiomax immediately and monitor the patient closely for signs of bleeding.
+There is no antidote to Angiomax.
 Angiomax is hemodialyzable [see Clinical Pharmacology (12.3)].
-There is no known antidote to Angiomax.

@@ -48,9 +48,9 @@ The infusion rate to be administered should be selected from the right-hand colu
 Table 1.
 Dosing Table
 
-| Weight (kg) | Bolus 0.75 mg/k (mL) | Infusion 1.75 mg/kg/h (mL/h) | Subsequent Low-rate Infusion 0.2 mg/kg/h (mL/h) |
-| --- | --- | --- | --- |
 |  | Using 5 mg/mL Concentration |  | Using 0.5 mg/mL Concentration |
+| --- | --- | --- | --- |
+| Weight (kg) | Bolus 0.75 mg/k (mL) | Infusion 1.75 mg/kg/h (mL/h) | Subsequent Low-rate Infusion 0.2 mg/kg/h (mL/h) |
 | 43-47 | 7 | 16 | 18 |
 | 48-52 | 7.5 | 17.5 | 20 |
 | 53-57 | 8 | 19 | 22 |

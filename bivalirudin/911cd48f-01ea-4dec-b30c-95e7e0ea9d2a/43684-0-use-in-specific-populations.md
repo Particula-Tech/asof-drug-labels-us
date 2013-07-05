@@ -32,5 +32,4 @@ Patients treated with Angiomax experienced fewer bleeding events in each age str
 The disposition of Angiomax was studied in PTCA patients with mild, moderate and severe renal impairment.
 The clearance of Angiomax was reduced approximately 20% in patients with moderate and severe renal impairment and was reduced approximately 80% in dialysis-dependent patients.
 [see Clinical Pharmacology (12.3)].
-
 The infusion dose of Angiomax may need to be reduced, and anticoagulant status monitored in patients with renal impairment [see Dosage and Administration (2.2)].

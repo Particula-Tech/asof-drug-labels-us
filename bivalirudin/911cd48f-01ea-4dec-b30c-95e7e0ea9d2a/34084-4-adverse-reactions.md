@@ -79,7 +79,7 @@ Adverse Events Other Than Bleeding Occurring In ≥5% Of Patients In Either Trea
 
 |  | Treatment Group |  |
 | --- | --- | --- |
-| EVENT | Angiomax N=2161 | Heparin N=2151 |
+| EVENT | ANGIOMAX N=2161 | HEPARIN N=2151 |
 |  | Number of Patients (%) |  |
 | CARDIOVASCULAR |  |  |
 | Hypotension | 262 (12) | 371 (17) |
