@@ -221,9 +221,11 @@ The ink used for printing contains black iron oxide.
 
 The brands listed are the registered trademarks of their respective owners and are not trademarks of Sandoz Inc.
 
+This medication guide has been approved by the U.S. Food and Drug Administration
+
 Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-November 2012
+June 2013

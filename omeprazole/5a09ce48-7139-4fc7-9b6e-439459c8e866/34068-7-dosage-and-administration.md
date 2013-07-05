@@ -51,7 +51,6 @@ For the treatment of GERD and maintenance of healing of erosive esophagitis, the
 
 | Patient Weight | Omeprazole Daily Dose |
 | --- | --- |
-| 5 < 10 kg | 5 mg |
 | 10 < 20 kg | 10 mg |
 | ≥ 20 kg | 20 mg |
 

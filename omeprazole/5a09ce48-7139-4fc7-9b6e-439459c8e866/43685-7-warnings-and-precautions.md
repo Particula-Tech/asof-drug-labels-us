@@ -8,14 +8,14 @@ Symptomatic response to therapy with omeprazole does not preclude the presence o
 
 Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole.
 
-## 5.3 Clostridium difficile Associated Diarrhea
+## 5.3 Clostridium difficileAssociated Diarrhea
 
-Published observational studies suggest that PPI therapy like omeprazole may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like omeprazole may be associated with an increased risk of Clostridium difficileassociated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see ADVERSE REACTIONS (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
+Clostridium difficileassociated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
 For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with omeprazole, refer to WARNINGS and PRECAUTIONSsections of those package inserts.
 
 ## 5.4 Interaction with Clopidogrel
@@ -44,14 +44,14 @@ In most patients, treatment of hypomagnesemia required magnesium replacement and
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
 [See ADVERSE REACTIONS (6.3)].
 
-## 5.7Concomitant Use of Omeprazole with St John’s Wort or Rifampin
+## 5.7 Concomitant Use of Omeprazole with St John’s Wort or Rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations.
 [SeeDRUG INTERACTIONS(7.3)] Avoid concomitant use of Omeprazole with St John’s Wort or rifampin.
 
 ## 5.8 Interactions with Diagnostic Investigations for Neuroendocrine Tumors
 
-Serum Chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
+Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Providers should temporarily stop omeprazole treatment before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
