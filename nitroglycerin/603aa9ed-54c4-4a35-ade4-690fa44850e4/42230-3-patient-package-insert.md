@@ -1,6 +1,6 @@
 # Patient Information
 
-RECTIV™ [REC-tiv] (Nitroglycerin) Ointment 0.4%
+RECTIV® [REC-tiv] (Nitroglycerin) Ointment 0.4%
 
 | IMPORTANT: For intra-anal use only |
 | --- |
@@ -151,6 +151,10 @@ PHARBIL Waltrop GmbH Im Wirrigen 25 45731 Waltrop Germany
 
 Manufactured for:
 
-Aptalis Pharma US, Inc. 22 Inverness Center Parkway, Suite 310 Birmingham, AL 35242
+Aptalis Pharma US, Inc. 100 Somerset Coporate Boulevard Bridgewater, NJ 08807
 
-Revised: January 2012
+RECTIV® is a registered trademark of Aptalis Pharma US, Inc.
+
+U.S. Patent No. 7,189,761
+
+Revised: July 2013
