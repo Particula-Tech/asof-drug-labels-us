@@ -26,3 +26,7 @@ Caution should be taken in prescribing CANASA to patients with hypersensitivity 
 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered other products containing mesalamine.
 Caution should be exercised when administering CANASA to patients with liver disease.
+
+## 5.5 Drug-Laboratories Test Interactions
+
+Several reports of possible interference with measurements, by liquid chromatography, of urinary normetanephrine have been observed in patients exposed to sulfasalazine or its metabolite, mesalamine/mesalazine.
