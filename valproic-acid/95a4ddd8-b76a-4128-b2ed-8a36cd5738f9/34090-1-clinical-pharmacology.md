@@ -16,7 +16,7 @@ These studies demonstrated that the 2 products had similar plasma concentration-
 Although the rate of valproate ion absorption may vary with the conditions of use (eg. fasting or postprandial), these differences should be of minor clinical importance under the steady-state conditions achieved in chronic use in the treatment of epilepsy.
 However, it is possible that differences among the various valproate products in Tmax and Cmax could be important upon initiation of treatment.
 For example, in single dose studies, the effect of feeding had an influence on the rate of absorption of the capsule (increase in Tmax from 2.3 to 6.1 hours).
-While the absorption rate from the G.I. tract and fluctuation in valproate plasma concentrations vary with dosing regimen, the efficacy of valproate as an anticonvulsant in chronic use is unlikely to be affected.
+While the absorption rate from the GI tract and fluctuation in valproate plasma concentrations vary with dosing regimen, the efficacy of valproate as an anticonvulsant in chronic use is unlikely to be affected.
 Experience employing dosing regimens from once-a-day to 4-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicates that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations are inconsequential from a practical clinical standpoint.
 Whether or not rate of absorption influences the efficacy of valproate as an antimanic or antimigraine agent is unknown.
 Co-administration of oral valproate products with food should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.2)].

@@ -6,7 +6,7 @@ Valproic acid (pKa 4.8) has a molecular weight of 144 and occurs as a colorless 
 It is slightly soluble in water (1.3 mg/ml) and very soluble in organic solvents.
 Valproic acid has the following structure
 
-Stavzor (valproic acid) delayed release capsules are for oral administration and are provided as orange-colored, oval shaped capsules in 3 dosage strengths: 125 mg, 250 mg, 500 mg of valproic acid.
+Stavzor (valproic acid) delayed release capsules are for oral administration and are provided as orange-colored, oval-shaped capsules in 3 dosage strengths: 125 mg, 250 mg, 500 mg of valproic acid.
 
 Inactive Ingredients
 

@@ -28,6 +28,7 @@ Call your healthcare provider right away if you get any of the following symptom
 - loss of appetite
 - pain on the right side of your stomach (abdomen)
 - dark urine
+- swelling of your face
 - yellowing of your skin or the whites of your eyes
 
 In some cases, liver damage may continue despite stopping the drug.
@@ -37,18 +38,19 @@ STAVZOR may harm your unborn baby.
 
 - If you take STAVZOR during pregnancy for any medical condition, your baby is at risk for serious birth defects.
   The most common birth defects with STAVZOR affect the brain and spinal cord and are called spina bifida or neural tube defects.
-  These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
   They may occur in up to 5 out of every 100 babies born to mothers who use this medicine at high doses during pregnancy.
   These defects can begin in the first month, even before you know you are pregnant.
   Other birth defects can happen.
-- There may be other medicines to treat your condition that have a lower chance of birth defects.
 - Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
-- All women of child-bearing age should talk to their healthcare provider about using other possible treatments instead of STAVZOR.
-  If the decision is made to use Stavzor, you should use effective birth control (contraception) unless you are planning to become pregnant.
 - Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
+- If you take Stavzor during pregnancy for any medical condition, your child is at risk for having a lower IQ.
+- There may be other medicines to treat your condition that have a lower chance of birth defects and decreased IQ in your child.
+- Women who are pregnant must not take Stavzor to prevent migraine headaches.
+- All women of child-bearing age should talk to their healthcare provider about using other possible treatments instead of STAVZOR.
+  If the decision is made to use Stavzor, you should use effective birth control (contraception).
 - Tell your healthcare provider right away if you become pregnant while taking STAVZOR.
   You and your healthcare provider should decide if you will continue to take STAVZOR while you are pregnant.
-- If you become pregnant while taking STAVZOR, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+- Pregnancy Registry: If you become pregnant while taking STAVZOR, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 
@@ -86,8 +88,7 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
 Do not stop Stavzor without first talking to a healthcare provider.
-
-Stopping Stavzor suddenly can cause serious problems.Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+Stopping Stavzor suddenly can cause serious problems.Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that do not stop (status epilepticus).
 
 Suicidal thoughts or actions can be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
@@ -110,6 +111,7 @@ Do not take STAVZOR if you:
 - are allergic to valproic acid, divalproex sodium, sodium valproate, or any of the ingredients in STAVZOR.
   See the end of this leaflet for a complete list of ingredients in STAVZOR.
 - have a genetic problem called a urea cycle disorder
+- are pregnant for the prevention of migraine headaches
 
 What should I tell my healthcare provider before taking STAVZOR?
 
@@ -128,18 +130,18 @@ Taking STAVZOR with certain other medicines can cause side effects or affect how
 Do not start or stop other medicines without talking to your healthcare provider.
 
 Know the medicines you take.
-Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
+Keep a list of them and show it to your healthcare provider and pharmacist each time you get a new medicine.
 
 How should I take STAVZOR?
 
 - Take STAVZOR exactly as your healthcare provider tells you.
-  Your healthcare provider will tell you how much STAVZOR to take.
+  Your healthcare provider will tell you how much STAVZOR to take and when to take it.
 - Your healthcare provider may change your dose.
-  Do not change your dose of STAVZOR without talking to your healthcare provider.
+- Do not change your dose of STAVZOR without talking to your healthcare provider.
 - Do not stop taking STAVZOR without first talking to your healthcare provider.Stopping STAVZOR suddenly can cause serious problems.
 - Swallow STAVZOR whole.
   Do not crush, chew, or break STAVZOR.
-  Tell your healthcare provider if you can not swallow STAVZOR whole.
+  Tell your healthcare provider if you can not swallow STAVZOR whole.You may need a different medicine.
 - If you take too much STAVZOR, call your healthcare provider or local Poison Control Center right away.
 
 What should I avoid while taking STAVZOR?
@@ -158,9 +160,8 @@ STAVZOR may cause other serious side effects including:
 
 - Low blood count: red or purple spots on your skin, bruising, bleeding from your mouth, teeth or nose.
 - High ammonia levels in your blood: feeling tired, vomiting, changes in mental status.
-- Low body temperature (hypothermia): drop in body temperature to less then 95°F, feeling tired, confusion, coma
-- Allergic (hypersensitivity) reactions: fever, skin rash, hives, sores in your mouth, skin blistering and and peeling of your skin, swelling of your lymph nodes, swelling of your face, eyes, lips, tongue, or throat, trouble swallowing or breathing.
-- Seizures that can happen more often or become worse.
+- Low body temperature (hypothermia): drop in body temperature to less than 95°F, feeling tired, confusion, coma
+- Allergic (hypersensitivity) reactions: fever, skin rash, hives, sores in your mouth, blistering and and peeling of your skin, swelling of your lymph nodes, swelling of your face, eyes, lips, tongue, or throat, trouble swallowing or breathing.
 - Drowsiness or sleepiness in the elderly.
   This extreme drowsiness may cause you to eat or drink less than you normally would.
   Tell your doctor if you are not able to eat or drink as you normally do.
@@ -185,7 +186,7 @@ The most common side effects of STAVZOR include:
 - weight gain
 - hair loss
 - loss of appetite
-- problems with walking
+- problems with walking coordination
 
 These are not all of the possible side effects of STAVZOR.
 For more information, ask your healthcare provider or pharmacist.
@@ -223,8 +224,10 @@ Inactive ingredient: ammonium hydroxide, gelatin, glycerin, methacrylic acid cop
 
 Manufactured for:
 
-Noven Therapeutics, LLC 11960 SW 144th Street Miami, FL 33186
+Noven Therapeutics, LLC Miami, FL 33186
 
-Issued March 2010
+Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
+
+06/2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -41,6 +41,7 @@ The dosage should be increased by 5 to 10 mg/kg/week to achieve optimal clinical
 Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day.
 If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 - 100 mcg/mL).
 No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
+
 Concomitant antiepilepsy drug (AED) dosage can ordinarily be reduced by approximately 25% every 2 weeks.
 This reduction may be started at initiation of Stavzor therapy, or delayed by 1 to 2 weeks if there is a concern that seizures are likely to occur with a reduction.
 The speed and duration of withdrawal of the concomitant AED can be highly variable, and patients should be monitored closely during this period for increased seizure frequency.
@@ -88,12 +89,12 @@ Dosing in Elderly Patients
 Due to a decrease in unbound clearance of valproate and possibly a greater sensitivity to somnolence in the elderly, the starting dose should be reduced in these patients.
 Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence.
-The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.12)].
+The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.13)].
 
 Dose-Related Adverse Reactions
 
 The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose- related.
-The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.6)].
+The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.7)].
 The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
 
 G.I.

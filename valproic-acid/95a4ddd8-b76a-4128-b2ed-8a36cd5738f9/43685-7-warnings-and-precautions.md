@@ -21,22 +21,51 @@ The drug should be discontinued immediately in the presence of significant hepat
 In some cases, hepatic dysfunction has progressed in spite of discontinuation of drug.
 [see Boxed Warning and Contraindications (4)].
 
-## 5.2 Teratogenicity/Usage in Pregnancy
+## 5.2 Birth Defects
 
-Use of Stavzor during pregnancy can cause congenital malformations including neural tube defects.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-Stavzor should be considered for women of childbearing potential only after the risks have been thoroughly discussed with the patient and weighed against the potential benefits of treatment.
+Valproate can cause fetal harm when administered to a pregnant woman.
+Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations and malformations involving various body systems).
+The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
+Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 
-Data suggest that there is an increased incidence of congenital malformations associated with the use of valproate by women with seizure disorders during pregnancy when compared to the incidence in women with seizure disorders who do not use antiepileptic drugs during pregnancy, the incidence in women with seizure disorders who use other antiepileptic drugs, and the background incidence for the general population.
+## 5.3 Decreased IQ following in utero exposure
 
-There are multiple reports in the clinical literature that indicate the use of antiepileptic drugs during pregnancy results in an increased incidence of congenital malformations in offspring.
-Antiepileptic drugs, including valproate, should be administered to women of childbearing potential only if they are clearly shown to be essential in the management of their medical condition.
+Valproate can cause decreased IQ scores following in utero exposure.
+Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another antiepileptic drug or to no antiepileptic drugs.
+The largest of these studies is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (N=62) had lower IQ scores at age 6 (97 [95% C.I.
+94-101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
+105–110]), carbamazepine (105 [95% C.I.
+102–108]), and phenytoin (108 [95% C.I.
+104–112]).
+Because the women in this study were exposed to antiepileptic drugs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed.
 
-Antiepileptic drugs should not be discontinued abruptly in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
-In individual cases where the severity and frequency of the seizure disorder are such that the removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy, although it cannot be said with any confidence that even minor seizures do not pose some hazard to the developing embryo or fetus.
-[see Boxed Warning and Contraindications (8.1)].
+Although all of the available studies have methodological limitations, the weight of the evidence supports the conclusion that valproate exposure in utero causes decreased IQ in children.
 
-## 5.3 Pancreatitis
+In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits.
+[see Use in Specific Populations (8.1)]
+
+Valproate use is contraindicated during pregnancy in women being treated for prophylaxis of migraine headaches.
+Women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant should not be treated with valproate unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
+In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
+
+## 5.4 Use in Women of Childbearing Potential
+
+Because of the risk to the fetus of decreased IQ and major congenital malformations (including neural tube defects), which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
+This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
+Women should use effective contraception while using valproate.
+Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of valproate use during pregnancy, and alternative therapeutic options should be considered for these patients.
+[see Boxed Warning and Use in Specific Populations (8.1)].
+
+To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
+
+Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
+It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
+Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients receiving valproate.
+
+_________________________________________________________________________________________________________________________________________________________ 1Meador KJ, Baker GA, Browning N, et al. Fetal antiepileptic drug exposure and cognitive outcomes at age 6 years (NEAD study): a prospective observational study.
+Lancet Neurology 2013; 12 (3):244-252.
+
+## 5.5 Pancreatitis
 
 Cases of life-threatening pancreatitis have been reported in both children and adults receiving valproate.
 Some of the cases have been described as hemorrhagic with rapid progression from initial symptoms to death.
@@ -48,18 +77,18 @@ If pancreatitis is diagnosed, Stavzor should ordinarily be discontinued.
 Alternative treatment for the underlying medical condition should be initiated as clinically indicated.
 [see Boxed Warning].
 
-## 5.4 Urea cycle Disorders
+## 5.6 Urea cycle Disorders
 
 Stavzor is contraindicated in patients with known urea cycle disorders (UCD).
 Hyperammonemic encephalopathy, sometimes fatal, has been reported following initiation of valproate therapy in patients with UCD, a group of uncommon genetic abnormalities, particularly ornithine transcarbamylase deficiency.
 Prior to the initiation of Stavzor therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low blood urea nitrogen (BUN), or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
 Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying UCD.
-[see Contraindications (4) and Warnings and Precautions (5.8)].
+[see Contraindications (4)and Warnings and Precautions (5.8,5.9)].
 
-## 5.5 Suicidal Behavior and Ideation
+## 5.7 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including Stavzor, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
-Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
@@ -91,7 +120,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.6 Thrombocytopenia
+## 5.8 Thrombocytopenia
 
 The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose- related.
 In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤75 x 109%L.
@@ -100,7 +129,7 @@ In the remaining patients, platelet counts normalized with continued treatment.
 In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg%mL (males).
 The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects.
 
-Because of reports of thrombocytopenia [see Warnings and Precautions (5.6)], inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters, (eg, low fibrinogen), platelet counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
+Because of reports of thrombocytopenia, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters, (eg, low fibrinogen), platelet counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
 It is recommended that patients receiving Stavzor be monitored for platelet count and coagulation parameters prior to planned surgery.
 In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
@@ -108,39 +137,39 @@ In the remaining patients, platelet counts normalized with continued treatment.
 In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥110 mcg/mL (females) or ≥135 mcg/mL (males).
 Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
 
-## 5.7 Hyperammonemia
+## 5.9 Hyperammonemia
 
 Hyperammonemia has been reported in association with valproate therapy and may be present despite normal liver function tests.
 In patients who develop unexplained lethargy and vomiting or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
-Hyperammonemia should also be considered in patients who present with hypothermia [see Warnings and Precautions (5.9)]
+Hyperammonemia should also be considered in patients who present with hypothermia [see Warnings and Precautions (5.10)]
 
 If ammonia is increased, valproate therapy should be discontinued.
-Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.4, 5.7)].
+Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders andsee Contraindications and Warnings and Precautions (4,5.5)]
 
 Asymptomatic elevations of ammonia are more common and when present, require close monitoring of plasma ammonia levels.
 If the elevation persists, discontinuation of valproate therapy should be considered.
 
-## 5.8 Hyperammonemia and Encephalopathy Associated With Concomitant Topiramate Use
+## 5.10 Hyperammonemia and Encephalopathy Associated With Concomitant Topiramate Use
 
 Concomitant administration of topiramate and valproic acid has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
-Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.9)].
+Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.10)].
 
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse event is not due to a pharmacokinetic interaction.
 It is not known if topiramate monotherapy is associated with hyperammonemia.
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
 Although not studied, an interaction of topiramate and valproic acid may exacerbate existing defects or unmask deficiencies in susceptible persons.
-In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.7)].
+In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.8)].
 
-## 5.9 Hypothermia
+## 5.11 Hypothermia
 
 Hypothermia, defined as an unintentional drop in body core temperature to <35° C (95° F), has been reported in association with valproate therapy both in conjunction with and in the absence of hyperammonemia.
 This adverse reaction can also occur in patients using concomitant topiramate with valproate after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.3)].
 Consideration should be given to stopping valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalities including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems.
 Clinical management and assessment should include examination of blood ammonia levels.
 
-## 5.10 Multi-Organ Hypersensitivity Reactions
+## 5.12 Multi-Organ Hypersensitivity Reactions
 
 Multi-organ hypersensitivity reactions have been rarely reported in close temporal association to the initiation of valproate therapy in adult and pediatric patients (median time to detection 21 days: range 1 to 40 days).
 Although there have been a limited number of reports, many of these cases resulted in hospitalization and at least one death has been reported.
@@ -150,13 +179,13 @@ Because the disorder is variable in its expression, other organ system symptoms 
 If this reaction is suspected, valproate should be discontinued and an alternative treatment started.
 Although the existence of cross sensitivity with other drugs that produce this syndrome is unclear, the experience amongst drugs associated with multi-organ hypersensitivity would indicate this to be a possibility.
 
-## 5.11 Interaction with Carbapenem Antibiotics
+## 5.13 Interaction with Carbapenem Antibiotics
 
 Carbapenem antibiotics (ertapenem, imipenem, meropenem) may reduce serum valproic acid concentrations to subtherapeutic levels, resulting in loss of seizure control.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
 Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Drug Interactions (7.1)].
 
-## 5.12 Somnolence in the Elderly
+## 5.14 Somnolence in the Elderly
 
 In a double-blind, multicenter trial of valproate in elderly patients with dementia (mean age = 83 years), doses were increased by 125 mg/day to a target dose of 20 mg/kg/day.
 A significantly higher proportion of valproate patients had somnolence compared to placebo, and although not statistically significant, there was a higher proportion of patients with dehydration.
@@ -166,18 +195,18 @@ There was a trend for the patients who experienced these events to have a lower 
 In elderly patients, dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence [see Dosage and Administration (2.4)].
 
-## 5.13 Monitoring: Drug Plasma Concentration
+## 5.15 Monitoring: Drug Plasma Concentration
 
 Since valproic acid may interact with concurrently administered drugs which are capable of enzyme induction, periodic plasma concentration determinations of valproate and concomitant drugs are recommended during the early course of therapy [see Drug Interactions (7)].
 
-## 5.14 Effect on Ketone and Thyroid Function Tests
+## 5.16 Effect on Ketone and Thyroid Function Tests
 
 Valproate is partially eliminated in the urine as a keto-metabolite which may lead to a false interpretation of the urine ketone test.
 
 There have been reports of altered thyroid function tests associated with valproate.
 The clinical significance of these is unknown.
 
-## 5.15 Effect on HIV and CMV Viruses Replication
+## 5.17 Effect on HIV and CMV Viruses Replication
 
 There are in vitro studies that suggest valproate stimulates the replication of the HIV and CMV viruses under certain experimental conditions.
 The clinical consequence, if any, is not known.

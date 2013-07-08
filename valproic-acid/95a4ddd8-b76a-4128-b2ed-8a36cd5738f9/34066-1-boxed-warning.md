@@ -14,14 +14,18 @@ In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
 Liver function tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first 6 months [see Warnings and Precautions (5.1)].
 
-Teratogenicity
+Fetal Risk
 
-Valproate can produce teratogenic effects such as neural tube defects (eg. spina bifida).
-Accordingly, the use of Stavzor in women of childbearing potential requires that the benefits of its use be weighed against the risk of injury to the fetus.
-This is especially important when the treatment of a spontaneously reversible condition not ordinarily associated with permanent injury or risk of death (eg. migraine) is contemplated.
-[see Warnings and Precautions (5.2)].
+Valproate can cause major congenital malformations, particularly neural tube defects (e.g., spina bifida).
+In addition, valproate can cause decreased IQ scores following in utero exposure.
+Valproate is therefore contraindicated in pregnant women treated for prophylaxis of migraine [see Contraindications (4)].
+Valproate should only be used to treat pregnant women with epilepsy or bipolar disorder if other medications have failed to control their symptoms or are otherwise unacceptable.
 
-An information sheet describing the teratogenic potential of valproate is available for patients.
+Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
+This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
+Women should use effective contraception while using valproate [see Warnings and Precautions (5.2)(5.3)].
+
+A Medication Guide describing the risks of valproate is available for patients.
 [see Patient Counseling Information (17)].
 
 Pancreatitis

@@ -2,14 +2,14 @@
 
 ## 1.1 Mania
 
-Stavzor™ (valproic acid) delayed release capsules are indicated for the treatment of the manic episodes associated with bipolar disorder.
+Stavzor® is indicated for the treatment of the manic episodes associated with bipolar disorder.
 A manic episode is a distinct period of abnormally and persistently elevated, expansive, or irritable mood.
 Typical symptoms of mania include pressure of speech, motor hyperactivity, reduced need for sleep, flight of ideas, grandiosity, poor judgment, aggressiveness, and possible hostility.
 
 The efficacy of valproate was established in 3-week trials with patients meeting DSM-III-R criteria for bipolar disorder who were hospitalized for acute mania [see Clinical Studies (14.1)].
 
 The safety and effectiveness of valproate for long-term use in mania, i.e., more than 3 weeks, has not been systematically evaluated in controlled clinical trials.
-Therefore, physicians who elect to use Stavzor (valproic acid) delayed release capsules for extended periods should continually reevaluate the long-term usefulness of the drug for the individual patient.
+Therefore, physicians who elect to use Stavzor for extended periods should continually reevaluate the long-term usefulness of the drug for the individual patient.
 
 ## 1.2 Epilepsy
 
@@ -23,4 +23,9 @@ Complex absence is the term used when other signs are also present.
 
 Stavzor is indicated for prophylaxis of migraine headaches.
 There is no evidence that Stavzor is useful in the acute treatment of migraine headaches.
-Because it may be a hazard to the fetus, Stavzor should be considered for women of childbearing potential only after this risk has been thoroughly discussed with the patient and weighed against the potential benefits of treatment [see Warnings and Precautions (5.2), Patient Counseling Information (17.3)].
+
+## 1.4 Important Limitations
+
+Because of the risk to the fetus of decreased IQ, neural tube defects, and other major congenital malformations, which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition [see Warnings and Precautions (5.2, 5.3, 5.4), Use in Specific Populations (8.1), and Patient Counseling Information (17.3)].
+
+Stavzor is contraindicated for prophylaxis of migraine headaches in women who are pregnant.

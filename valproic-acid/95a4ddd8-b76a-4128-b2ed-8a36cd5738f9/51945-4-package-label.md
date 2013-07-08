@@ -1,3 +1,5 @@
+# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
+
 PACKAGE LABEL.
 PRINCIPAL DISPLAY PANEL-125 mg-100 count
 
@@ -11,8 +13,32 @@ Stavzor
 
 125 mg
 
-Mfg for: Noven Therapeutics, LLC 11960 SW 144th Street Miami, FL 33186
+# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
 
-Rx Only
+PACKAGE LABEL.
+PRINCIPAL DISPLAY PANEL-250 mg-100 count
 
-Mfd by: Banner Pharmacaps, Inc. 4125 Premier Drive High Point, NC 27265
+NDC 68968-3250-1
+
+100 Capsules
+
+Stavzor
+
+(valproic acid delayed release capsule)
+
+250 mg
+
+# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
+
+PACKAGE LABEL.
+PRINCIPAL DISPLAY PANEL-500 mg-100 count
+
+NDC 68968-3500-1
+
+100 Capsules
+
+Stavzor
+
+(valproic acid delayed release capsule)
+
+500 mg

@@ -192,9 +192,7 @@ Adverse Reactions Reported by > 5% of Valproate -Treated Patients During Migrain
 | Weight gain | 8% | 2% |
 | Back pain | 8% | 6% |
 | Alopecia | 7% | 1% |
-| a. The following adverse events occurred in at least 5% of valproate -treated patients and at an equal or greater incidence for placebo than for valproate: flu syndrome and pharyngitis. |  |  |
-
-The following additional adverse events were reported by greater than 1% but not more than 5% of the 202 valproate-treated patients in the controlled clinical trials:
+| The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 202 valproate-treated patients in the controlled clinical trials: |  |  |
 
 Body as a Whole: Chest pain, chills, face edema, fever and malaise.
 
@@ -237,7 +235,7 @@ Sedation usually abates upon reduction of other antiepileptic medication.
 Tremor (may be dose- related), hallucinations, ataxia, headache, nystagmus, diplopia, asterixis, “spots before eyes”, dysarthria, dizziness, confusion, hypesthesia, vertigo, incoordination, and parkinsonism have been reported with the use of valproate.
 Rare cases of coma have occurred in patients receiving valproate alone or in conjunction with phenobarbital.
 In rare instances, encephalopathy with or without fever has developed shortly after the introduction of valproate monotherapy without evidence of hepatic dysfunction or inappropriately high plasma valproate levels.
-Although recovery has been described following drug withdrawal, there have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders [see Warnings and Precautions (5.4)].
+Although recovery has been described following drug withdrawal, there have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders [see Warnings and Precautions (5.5)].
 
 Several reports have noted reversible cerebral atrophy and dementia in association with valproate therapy.
 
@@ -258,7 +256,7 @@ Weakness.
 
 Hematologic
 
-Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.7) and Drug Interactions (7)].
 Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Hepatic
@@ -270,14 +268,14 @@ These results may reflect potentially serious hepatotoxicity [see Warnings and P
 Endocrine
 
 Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, and parotid gland swelling.
-Abnormal thyroid function tests [see Warnings and Precautions (5.14)].
+Abnormal thyroid function tests [see Warnings and Precautions (5.15)].
 
 There have been rare spontaneous reports of polycystic ovary disease.
 A cause and effect relationship has not been established.
 
-Pancreatic: Acute pancreatitis including fatalities [see Warnings and Precautions (5.3)].
+Pancreatic: Acute pancreatitis including fatalities [see Warnings and Precautions (5.4)].
 
-Metabolic: Hyperammonemia [see Warnings and Precautions (5.7)], hyponatremia, and inappropriate ADH secretion.
+Metabolic: Hyperammonemia [see Warnings and Precautions (5.8)], hyponatremia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi’s syndrome occurring chiefly in children.
 
@@ -291,3 +289,5 @@ Special Senses: Hearing loss, either reversible or irreversible, has been report
 Ear pain has also been reported.
 
 Other: Allergic reaction, anaphylaxis, edema of the extremities, lupus erythematosus, bone pain, cough increased, pneumonia, otitis media, bradycardia, cutaneous vasculitis, fever, and hypothermia.
+
+There have been reports of developmental delay, autism and/or autism spectrum disorder in the offspring of women exposed to valproate during pregnancy.

@@ -57,7 +57,7 @@ Study 2
 | Valproate | 15.7 | -3.2 | 1.8 |
 | 1.Mean score at baseline 2.Change from baseline to Day 21 (LOCF) 3.Difference in change from baseline to Day 21 endpoint (LOCF) between valproate and placebo and lithium and placebo |  |  |  |
 
-Valproate was statistically significantly superior to placebo on all 2 measures of outcome.
+Valproate was statistically significantly superior to placebo on all three measures of outcome.
 An exploratory analysis for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or gender.
 
 A comparison of the percentage of patients showing ≥ 30% reduction in the symptom score from baseline in each treatment group, separated by study, is shown in Figure 1.
@@ -86,7 +86,7 @@ For example, 45% of patients treated with valproate had a ≥ 50% reduction in c
 
 The second study assessed the capacity of valproate to reduce the incidence of CPS when administered as the sole AED.
 The study compared the incidence of CPS among patients randomized to either a high- or low-dose treatment arm.
-Patients qualified for entry into the randomized comparison phase of this study only if 1) they continued to experience 2 or more CPS per 4 weeks during an 8- to 12- week-long period of monotherapy with adequate doses of an AED (i.e., phenytoin, carbamazepine, phenobarbital, or primidone) and 2) they made a successful transition over a 2 week interval to valproate.
+Patients qualified for entry into the randomized comparison phase of this study only if 1) they continued to experience 2 or more CPS per 4 weeks during an 8- to 12- week-long period of monotherapy with adequate doses of an AED (i.e., phenytoin, carbamazepine, phenobarbital, or primidone) and 2) they made a successful transition over a 2-week interval to valproate.
 Patients entering the randomized phase were then brought to their assigned target dose, gradually tapered off their concomitant AED and followed for an interval as long as 22 weeks.
 Less than 50% of the patients randomized, however, completed the study.
 In patients converted to valproate monotherapy, the mean total valproate concentrations during monotherapy were 71 and 123 mcg/mL in the low-dose and high-dose groups, respectively.
@@ -104,7 +104,7 @@ Monotherapy Study Median Incidence of CPS per 8 Weeks
 Figure 3 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the monotherapy study.
 A positive percent reduction indicates an improvement (i.e., a decrease in seizure frequency), while a negative percent reduction indicates worsening.
 Thus, in a display of this type, the curve for a more effective treatment is shifted to the left of the curve for a less effective treatment.
-This Figure shows that the proportion of patients achieving any particular level of reduction was consistently higher for high-dose valproate than for low-dose valproate.
+This Figure shows that the proportion of patients achieving any particular level of reduction was consistently higher for high-dose valproate than for low dose valproate.
 For example, when switching from carbamazepine, phenytoin, phenobarbital or primidone monotherapy to high-dose valproate monotherapy, 63% of patients experienced no change or a reduction in complex partial seizure rates compared to 54% of patients receiving low-dose valproate.
 
 ## 14.3 Migraine
