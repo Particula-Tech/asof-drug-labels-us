@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050795"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Midlothian Laboratories",
+  "package_ndcs": [
+    "68308-710-10",
+    "68308-775-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "doxycycline hyclate",
+      "name": "Doxycycline Hyclate"
+    }
+  ],
+  "setid": "cd2ab9b8-9619-4199-8a5d-83377b3274d1",
+  "source": "dailymed"
+}
