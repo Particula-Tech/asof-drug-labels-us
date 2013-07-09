@@ -1,5 +1,7 @@
 # PATIENT INFORMATION AND INSTRUCTIONS FOR USE LEAFLET
 
+PATIENT INFORMATION
+
 QNASL (kyoo nay' zel) (beclomethasone dipropionate) Nasal Aerosol
 
 For Intranasal Use Only
@@ -33,17 +35,17 @@ Before you use QNASL Nasal Aerosol, tell your healthcare provider if you:
 - Have not had or been vaccinated for chickenpox or measles
 - Are pregnant or plan to become pregnant.
   It is not known if QNASL Nasal Aerosol will harm your unborn baby.
-  Talk to your healthcare provider if you are pregnant or plan to become pregnant.
+  Talk to your healthcare provider if you are pregnant or plan to become pregnant
 - Are breastfeeding or plan to breastfeed.
   It is not known if QNASL Nasal Aerosol passes into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby if you are using QNASL Nasal Aerosol.
+  Talk to your healthcare provider about the best way to feed your baby if you are using QNASL Nasal Aerosol
 
 Tell your healthcare provider about all of the medications you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 QNASL Nasal Aerosol and other medications may affect each other and cause side effects.
 QNASL Nasal Aerosol may affect the way other medications work, and other medications may affect the way QNASL Nasal Aerosol works.
 
-Especially tell you healthcare provider if you take other corticosteroid medicines.
+Especially tell your healthcare provider if you take other corticosteroid medicines.
 
 Ask your healthcare provider for a list of these medicines if you are not sure.
 
@@ -151,7 +153,7 @@ What should I know about allergic rhinitis?
 
 "Rhinitis" means inflammation of the lining of the nose.
 Allergic rhinitis is sometimes called "hay fever."
-Allergic rhinitis can be caused by allergies to pollen, animal dander, house dust mite, mold spores, and other things.
+Allergic rhinitis can be caused by allergies to pollen, animal dander, house dust mites, mold spores, and other things.
 If you have allergic rhinitis, your nose becomes stuffy, runny, and itchy.
 You may also sneeze a lot.
 You may also have red, itchy, watery eyes or an itchy throat; or blocked, itchy ears.
@@ -176,7 +178,7 @@ Note: For Use in the Nose Only.
 
 The parts of your QNASL Nasal Aerosol
 
-The QNASL Nasal Aerosol device comes as a canister that fits into a nasal actuator with a built in spray counter and protective dust cap.
+The QNASL Nasal Aerosol device comes as a canister that fits into a nasal actuator with a built-in spray counter and protective dust cap.
 (See Figure A)
 
 - Do not use the QNASL Nasal Aerosol actuator with a canister of medicine from any other inhaler
@@ -229,6 +231,7 @@ See "Cleaning Your QNASL Nasal Aerosol device."
 Cleaning Your QNASL Nasal Aerosol device
 
 - Wipe the nasal actuator tip with a clean, dry tissue or cloth (See Figure H)
+- Do not wash or put any part of the QNASL Nasal Aerosol canister or actuator in water
 - Replace the protective dust cap
 - Keep your device clean and dry at all times
 
@@ -251,11 +254,11 @@ By: 3M Drug Delivery Systems
 
 Northridge, CA 91324
 
-©2012 Teva Respiratory, LLC
+©2013 Teva Respiratory, LLC
 
 All rights reserved.
 
 QNASL is a registered trademark of Teva Respiratory, LLC
 
 Rev.
-08/12 PE 2593
+05/13 PE 2670

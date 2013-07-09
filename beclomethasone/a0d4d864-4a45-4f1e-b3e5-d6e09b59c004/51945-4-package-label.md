@@ -27,3 +27,13 @@ Rx only
 TEVA
 
 # Sample Display Label - 50 Metered Spray
+
+Qnasl™ (beclomethasone dipropionate) Nasal Aerosol 80 mcg per spray
+
+For Intranasal Use with Qnasl Actuator Only
+
+Rx only
+
+50 Metered Sprays 4.2g Net Contents
+
+TEVA
