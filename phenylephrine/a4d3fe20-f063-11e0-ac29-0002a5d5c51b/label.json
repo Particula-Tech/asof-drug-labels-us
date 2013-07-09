@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA203510"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Paragon BioTeck, Inc.",
+  "package_ndcs": [
+    "42702-102-15",
+    "42702-103-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Phenylephrine Hydrochloride"
+    }
+  ],
+  "setid": "a4d3fe20-f063-11e0-ac29-0002a5d5c51b",
+  "source": "dailymed"
+}
