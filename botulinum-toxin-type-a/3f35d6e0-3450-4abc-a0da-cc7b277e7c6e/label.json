@@ -6,13 +6,12 @@
   "labeler": "Merz Aesthetics. Inc",
   "package_ndcs": [
     "46783-160-01",
-    "46783-161-01",
-    "46783-165-01"
+    "46783-161-01"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
-      "generic": "botulinum toxin type a",
+      "generic": "incobotulinumtoxina",
       "name": "Xeomin"
     }
   ],
