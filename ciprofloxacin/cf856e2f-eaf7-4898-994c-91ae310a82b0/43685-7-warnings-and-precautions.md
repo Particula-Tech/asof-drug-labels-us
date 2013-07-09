@@ -68,12 +68,12 @@ Other serious and sometimes fatal events, some due to hypersensitivity, and some
 These events may be severe and generally occur following the administration of multiple doses.
 Clinical manifestations may include one or more of the following:
 
-- fever, rash, or severe dermatologic reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome);
-- vasculitis; arthralgia; myalgia; serum sickness;
-- allergic pneumonitis;
-- interstitial nephritis; acute renal insufficiency or failure;
-- hepatitis; jaundice; acute hepatic necrosis or failure;
-- anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
+- •fever, rash, or severe dermatologic reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome);
+- •vasculitis; arthralgia; myalgia; serum sickness;
+- •allergic pneumonitis;
+- •interstitial nephritis; acute renal insufficiency or failure;
+- •hepatitis; jaundice; acute hepatic necrosis or failure;
+- •anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
 The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (see PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
 
@@ -134,36 +134,36 @@ Prescribing CIPRO Tablets and CIPRO Oral Suspension in the absence of a proven o
 
 Patients should be advised:
 
-- to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO treatment.
+- •to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
-- that fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+- •that fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
   Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
-- that antibacterial drugs including CIPRO Tablets and CIPRO Oral Suspension should only be used to treat bacterial infections.
+- •that antibacterial drugs including CIPRO Tablets and CIPRO Oral Suspension should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When CIPRO Tablets and CIPRO Oral Suspension is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
   Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by CIPRO Tablets and CIPRO Oral Suspension or other antibacterial drugs in the future.
-- that ciprofloxacin may be taken with or without meals and to drink fluids liberally.
+- •that ciprofloxacin may be taken with or without meals and to drink fluids liberally.
   As with other quinolones, concurrent administration of ciprofloxacin with magnesium/aluminum antacids, or sucralfate, Videx® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, or with other products containing calcium, iron or zinc should be avoided.
   Ciprofloxacin may be taken two hours before or six hours after taking these products.
   Ciprofloxacin should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, ciprofloxacin may be taken with a meal that contains these products.
-- that ciprofloxacin may be associated with hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other allergic reaction.
-- that photosensitivity/phototoxicity has been reported in patients receiving quinolones.
+- •that ciprofloxacin may be associated with hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other allergic reaction.
+- •that photosensitivity/phototoxicity has been reported in patients receiving quinolones.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
-- that peripheral neuropathies have been associated with ciprofloxacin use.
+- •that peripheral neuropathies have been associated with ciprofloxacin use.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
-- that ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
-- that ciprofloxacin increases the effects of tizanidine (Zanaflex®).
+- •that ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
+- •that ciprofloxacin increases the effects of tizanidine (Zanaflex®).
   Patients should not use ciprofloxacin if they are already taking tizanidine.
-- that ciprofloxacin may increase the effects of theophylline and caffeine.
+- •that ciprofloxacin may increase the effects of theophylline and caffeine.
   There is a possibility of caffeine accumulation when products containing caffeine are consumed while taking quinolones.
-- that convulsions have been reported in patients receiving quinolones, including ciprofloxacin, and to notify their physician before taking this drug if there is a history of this condition.
-- that ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
+- •that convulsions have been reported in patients receiving quinolones, including ciprofloxacin, and to notify their physician before taking this drug if there is a history of this condition.
+- •that ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
   Parents should inform their child's physician if the child has a history of joint-related problems before taking this drug.
   Parents of pediatric patients should also notify their child's physician of any joint-related problems that occur during or following ciprofloxacin therapy.
   (See WARNINGS, PRECAUTIONS, Pediatric Use and ADVERSE REACTIONS.)
-- that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+- •that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
 

@@ -66,22 +66,22 @@ For testing Enterobacteriaceae, Enterococcus faecalis, methicillin-susceptible S
 
 For testing Haemophilus influenzae and Haemophilus parainfluenzaeb:
 
-| MIC (μg/mL) | Interpretation |  |
-| --- | --- | --- |
-| ≤1 | Susceptible (S) |  |
-| b This interpretive standard is applicable only to broth microdilution susceptibility tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium1. |  |  |
+| MIC (μg/mL) | Interpretation |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| ≤1 | Susceptible (S) |  |  |  |  |
+| b This interpretive standard is applicable only to broth microdilution susceptibility tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium1. |  |  |  |  |  |
 
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
 Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
 
 For testing Neisseria gonorrhoeaec:
 
-| MIC (μg/mL) | Interpretation |  |
-| --- | --- | --- |
-| ≤ 0.06 | Susceptible (S) |  |
-| 0.12 – 0.5 | Intermediate (I) |  |
-| ≥1 | Resistant (R) |  |
-| c This interpretive standard is applicable only to agar dilution test with GC agar base and 1% defined growth supplement. |  |  |
+| MIC (μg/mL) | Interpretation |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ≤ 0.06 | Susceptible (S) |  |  |  |  |  |  |  |
+| 0.12 – 0.5 | Intermediate (I) |  |  |  |  |  |  |  |
+| ≥1 | Resistant (R) |  |  |  |  |  |  |  |
+| c This interpretive standard is applicable only to agar dilution test with GC agar base and 1% defined growth supplement. |  |  |  |  |  |  |  |  |
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -121,22 +121,22 @@ For testing Enterobacteriaceae, Enterococcus faecalis, methicillin-susceptible S
 
 For testing Haemophilus influenzae and Haemophilus parainfluenzaeb:
 
-| Zone Diameter (mm) | Interpretation |  |
-| --- | --- | --- |
-| ≥ 21 | Susceptible (S) |  |
-| bThis zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM)3. |  |  |
+| Zone Diameter (mm) | Interpretation |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| ≥ 21 | Susceptible (S) |  |  |  |  |
+| bThis zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM)3. |  |  |  |  |  |
 
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
 Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
 
 For testing Neisseria gonorrhoeaec:
 
-| Zone Diameter (mm) | Interpretation |  |
-| --- | --- | --- |
-| ≥ 41 | Susceptible (S) |  |
-| 28 – 40 | Intermediate (I) |  |
-| ≤ 27 | Resistant (R) |  |
-| cThis zone diameter standard is applicable only to disk diffusion tests with GC agar base and 1% defined growth supplement. |  |  |
+| Zone Diameter (mm) | Interpretation |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ≥ 41 | Susceptible (S) |  |  |  |  |  |  |  |
+| 28 – 40 | Intermediate (I) |  |  |  |  |  |  |  |
+| ≤ 27 | Resistant (R) |  |  |  |  |  |  |  |
+| cThis zone diameter standard is applicable only to disk diffusion tests with GC agar base and 1% defined growth supplement. |  |  |  |  |  |  |  |  |
 
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for ciprofloxacin.
@@ -144,15 +144,15 @@ Interpretation involves correlation of the diameter obtained in the disk test wi
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
 For the diffusion technique, the 5-μg ciprofloxacin disk should provide the following zone diameters in these laboratory test quality control strains:
 
-| Organism |  | Zone Diameter (mm) |
-| --- | --- | --- |
-| E. coli | ATCC 25922 | 30 – 40 |
-| H. influenzaea | ATCC 49247 | 34 – 42 |
-| N. gonorrhoeaeb | ATCC 49226 | 48 – 58 |
-| P. aeruginosa | ATCC 27853 | 25 – 33 |
-| S. aureus | ATCC 25923 | 22 – 30 |
-| a These quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM)3. |  |  |
-| b These quality control limits are applicable only to tests conducted with N. gonorrhoeae ATCC 49226 performed by disk diffusion using GC agar base and 1% defined growth supplement. |  |  |
+| Organism |  | Zone Diameter (mm) |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| E. coli | ATCC 25922 | 30 – 40 |  |  |  |  |  |  |  |  |  |
+| H. influenzaea | ATCC 49247 | 34 – 42 |  |  |  |  |  |  |  |  |  |
+| N. gonorrhoeaeb | ATCC 49226 | 48 – 58 |  |  |  |  |  |  |  |  |  |
+| P. aeruginosa | ATCC 27853 | 25 – 33 |  |  |  |  |  |  |  |  |  |
+| S. aureus | ATCC 25923 | 22 – 30 |  |  |  |  |  |  |  |  |  |
+| a These quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM)3. |  |  |  |  |  |  |  |  |  |  |  |
+| b These quality control limits are applicable only to tests conducted with N. gonorrhoeae ATCC 49226 performed by disk diffusion using GC agar base and 1% defined growth supplement. |  |  |  |  |  |  |  |  |  |  |  |
 
 # INHALATIONAL ANTHRAX IN ADULTS AND PEDIATRICS – ADDITIONAL INFORMATION
 
