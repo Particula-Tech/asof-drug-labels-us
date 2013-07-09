@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-– LEVOXYL®(levothyroxine sodium tablets, USP) are supplied as oval, color-coded, potency marked tablets in 11 strengths:
+– LEVOXYL(levothyroxine sodium tablets, USP) are supplied as oval, color-coded, potency marked tablets in 11 strengths:
 
 | Strength (mcg) | Color | NDC # for bottles of 100 | NDC # for bottles of 1000 |
 | --- | --- | --- | --- |
@@ -21,5 +21,3 @@
 20°—25°C (68°—77°F) with excursions permitted between 15°—30°C (59°—86°F).
 
 Meets USP Dissolution Tests 1 and 2.
-
-Rx ONLY

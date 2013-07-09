@@ -30,4 +30,4 @@ Hypersensitivity reactions to inactive ingredients have occurred in patients tre
 These include urticaria, pruritus, skin rash, flushing, angioedema, various GI symptoms (abdominal pain, nausea, vomiting and diarrhea), fever, arthralgia, serum sickness and wheezing.
 Hypersensitivity to levothyroxine itself is not known to occur.
 
-In addition to the above events, the following have been reported, predominately when Levoxyl® tablets were not taken with water: choking, gagging, tablet stuck in throat and dysphagia (see Information for Patients).
+In addition to the above events, the following have been reported, predominately when Levoxyl tablets were not taken with water: choking, gagging, tablet stuck in throat and dysphagia (see Information for Patients).
