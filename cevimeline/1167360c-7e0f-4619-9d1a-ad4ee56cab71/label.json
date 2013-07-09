@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091591"
+  ],
+  "inn": "cevimeline",
+  "labeler": "Roxane Laboratories, Inc.",
+  "package_ndcs": [
+    "0054-0334-25"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline hydrochloride",
+      "name": "Cevimeline Hydrochloride"
+    }
+  ],
+  "setid": "1167360c-7e0f-4619-9d1a-ad4ee56cab71",
+  "source": "dailymed"
+}
