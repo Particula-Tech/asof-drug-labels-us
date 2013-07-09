@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021721"
+  ],
+  "inn": "levofloxacin",
+  "labeler": "Patriot Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "10147-0941-6"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levofloxacin",
+      "name": "LEVAQUIN"
+    }
+  ],
+  "setid": "4aa2bfa2-0b24-49ba-806e-07afdbb984ec",
+  "source": "dailymed"
+}
