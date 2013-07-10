@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA090060"
+  ],
+  "inn": "finasteride",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-526-10",
+    "31722-526-30",
+    "31722-526-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "finasteride",
+      "name": "Finasteride"
+    }
+  ],
+  "setid": "00e934bb-c15b-490a-a852-839689a1231a",
+  "source": "dailymed"
+}
