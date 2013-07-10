@@ -166,6 +166,7 @@ Additive to synergistic antiretroviral activity was observed when human T-lympho
 Resistance
 
 The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Y143 (changed to C, H, or R) or Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, Q95K/R, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R, and D232N).
+E92Q and F121C are occasionally seen in the absence of substitutions at Y143, Q148, or N155 in raltegravir-treatment failure subjects.
 
 Treatment-Naïve Adult Subjects: By Week 96 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 4 (2 with Y143H/R and 2 with Q148H/R) of the 10 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
 

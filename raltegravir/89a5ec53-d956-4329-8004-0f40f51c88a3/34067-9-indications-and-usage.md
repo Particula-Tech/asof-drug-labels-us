@@ -5,7 +5,7 @@
 ISENTRESS® is indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus (HIV-1) infection.
 
 This indication is based on analyses of plasma HIV-1 RNA levels in three double-blind controlled studies of ISENTRESS.
-Two of these studies were conducted in clinically advanced, 3-class antiretroviral (NNRTI, NRTI, PI) treatment-experienced adults through 96 weeks and one was conducted in treatment-naïve adults through 156 weeks.
+Two of these studies were conducted in clinically advanced, 3-class antiretroviral (NNRTI, NRTI, PI) treatment-experienced adults through 96 weeks and one was conducted in treatment-naïve adults through 240 weeks.
 
 The use of other active agents with ISENTRESS is associated with a greater likelihood of treatment response [see Clinical Studies (14)].
 

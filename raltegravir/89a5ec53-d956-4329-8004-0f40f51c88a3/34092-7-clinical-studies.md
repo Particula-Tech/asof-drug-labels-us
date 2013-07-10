@@ -2,7 +2,7 @@
 
 Description of Clinical Studies
 
-The evidence of durable efficacy of ISENTRESS is based on the analyses of 156-week data from an ongoing, randomized, double-blind, active-control trial, STARTMRK (Protocol 021) in antiretroviral treatment-naïve HIV-1 infected adult subjects and 96-week data from 2 ongoing, randomized, double-blind, placebo-controlled studies, BENCHMRK 1 and BENCHMRK 2 (Protocols 018 and 019), in antiretroviral treatment-experienced HIV-1 infected adult subjects.
+The evidence of durable efficacy of ISENTRESS is based on the analyses of 240-week data from a randomized, double-blind, active-control trial, STARTMRK (Protocol 021) in antiretroviral treatment-naïve HIV-1 infected adult subjects and 96-week data from 2 randomized, double-blind, placebo-controlled studies, BENCHMRK 1 and BENCHMRK 2 (Protocols 018 and 019), in antiretroviral treatment-experienced HIV-1 infected adult subjects.
 
 ## 14.1 Treatment-Naïve Adult Subjects
 
@@ -62,20 +62,20 @@ Table 10: Baseline Characteristics
 | ISENTRESS and Efavirenz were administered with emtricitabine (+) tenofovir |  |  |
 | N = Number of subjects in each group. |  |  |
 
-Week 156 outcomes from Protocol 021 are shown in Table 11.
+Week 240 outcomes from Protocol 021 are shown in Table 11.
 
-Table 11: Virologic Outcomes of Randomized Treatment of Protocol 021 at 156 Weeks
+Table 11: Virologic Outcomes of Randomized Treatment of Protocol 021 at 240 Weeks
 
 |  | ISENTRESS 400 mg Twice Daily (N = 281) | Efavirenz 600 mg At Bedtime (N = 282) | Difference (ISENTRESS – Efavirenz) (CI) |
 | --- | --- | --- | --- |
-| Subjects with HIV-1 RNA less than 50 copies/mL | 76% | 68% | 7.4% (-0.1%, 14.7%) |
-| Virologic FailureIncludes subjects who discontinued prior to Week 156 for lack of efficacy or subjects who are ≥50 copies in the 156-week window. | 9% | 13% |  |
-| No virologic data at Week 156 Window Reasons |  |  |  |
-| Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or Death at any time point from Day 1 through the Week 156 window if this resulted in no virologic data on treatment during Week 156 visit window. | 4% | 7% |  |
-| Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, moved etc., if the viral load at the time of discontinuation was <50 copies/mL. | 10% | 10% |  |
-| Missing data during window but on study | 1% | 1% |  |
+| Subjects with HIV-1 RNA less than 50 copies/mL | 66% | 60% | 6.64% (-1.4%, 14.5%) |
+| Virologic FailureIncludes subjects who discontinued prior to Week 240 for lack of efficacy or subjects who are ≥50 copies/mL in the 240-week window (+/- 6-weeks). | 8% | 15% |  |
+| No virologic data at Week 240 Window Reasons |  |  |  |
+| Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or Death at any time point from Day 1 through the Week 240 window if this resulted in no virologic data on treatment during Week 240 visit window. | 5% | 10% |  |
+| Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, moved etc., if the viral load at the time of discontinuation was <50 copies/mL. | 15% | 14% |  |
+| Missing data during window but on study | 6% | 2% |  |
 
-The mean changes in CD4 count from baseline were 281 cells/mm3 in the group receiving ISENTRESS 400 mg twice daily and 241 cells/mm3 in the group receiving Efavirenz 600 mg at bedtime.
+The mean changes in CD4 count from baseline were 295 cells/mm3 in the group receiving ISENTRESS 400 mg twice daily and 236 cells/mm3 in the group receiving Efavirenz 600 mg at bedtime.
 
 ## 14.2 Treatment-Experienced Adult Subjects
 

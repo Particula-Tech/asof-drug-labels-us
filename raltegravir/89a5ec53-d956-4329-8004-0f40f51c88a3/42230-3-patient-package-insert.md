@@ -8,7 +8,7 @@ This information does not take the place of talking with your doctor about your 
 
 What is ISENTRESS?
 
-ISENTRESS is a prescription HIV medicine used with other HIV medicines to treat adults and children 2 years of age and older with human immunodeficiency virus (HIV-1) infection.
+ISENTRESS is a prescription HIV medicine used with other HIV medicines to treat adults and children 2 years of age and older weighing at least 10 kg with human immunodeficiency virus (HIV-1) infection.
 HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
 
 When used with other HIV medicines, ISENTRESS may reduce the amount of HIV in your blood (called "viral load").
@@ -117,20 +117,27 @@ Contact your doctor right away if you have any of the following signs or symptom
   ISENTRESS Chewable Tablets contain phenylalanine as part of the artificial sweetener, aspartame.
   The artificial sweetener may be harmful to people with PKU.
 
-The most common side effects of ISENTRESS include:
+In clinical trials, the most common (≥2%) side effects of ISENTRESS include:
 
+- dizziness
 - headache
-- trouble sleeping
 - nausea
 - tiredness
+- trouble sleeping
 
-Less common side effects include:
+In clinical trials, less common (<2%) side effects include:
 
-- weakness
-- stomach pain
-- dizziness
+- allergic reaction
 - depression
+- hepatitis
+- genital herpes
+- herpes zoster including shingles
+- kidney failure
+- kidney stones
+- stomach pain
 - suicidal thoughts and actions
+- vomiting
+- weakness
 
 Tell your doctor right away if you get unexplained muscle pain, tenderness, or weakness while taking ISENTRESS.
 This may be a sign of a rare but serious muscle problem that can lead to kidney problems.

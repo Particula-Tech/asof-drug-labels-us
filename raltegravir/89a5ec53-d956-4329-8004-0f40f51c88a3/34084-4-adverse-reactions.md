@@ -5,33 +5,34 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Clinical Trials Experience: Treatment-Naïve Adults
 
 The following safety assessment of ISENTRESS in treatment-naïve subjects is based on the randomized double-blind active controlled study of treatment-naïve subjects, STARTMRK (Protocol 021) with ISENTRESS 400 mg twice daily in combination with a fixed dose of emtricitabine 200 mg (+) tenofovir 300 mg, (N=281) versus efavirenz (EFV) 600 mg at bedtime in combination with emtricitabine (+) tenofovir, (N=282).
-During double-blind treatment, the total follow-up for subjects receiving ISENTRESS 400 mg twice daily + emtricitabine (+) tenofovir was 748 patient-years and 715 patient-years for subjects receiving efavirenz 600 mg at bedtime + emtricitabine (+) tenofovir.
+During double-blind treatment, the total follow-up for subjects receiving ISENTRESS 400 mg twice daily + emtricitabine (+) tenofovir was 1104 patient-years and 1036 patient-years for subjects receiving efavirenz 600 mg at bedtime + emtricitabine (+) tenofovir.
 
-In Protocol 021, the rate of discontinuation of therapy due to adverse events was 5% in subjects receiving ISENTRESS + emtricitabine (+) tenofovir and 9% in subjects receiving efavirenz + emtricitabine (+) tenofovir.
+In Protocol 021, the rate of discontinuation of therapy due to adverse events was 5% in subjects receiving ISENTRESS + emtricitabine (+) tenofovir and 10% in subjects receiving efavirenz + emtricitabine (+) tenofovir.
 
 The clinical adverse drug reactions (ADRs) listed below were considered by investigators to be causally related to ISENTRESS + emtricitabine (+) tenofovir or efavirenz + emtricitabine (+) tenofovir.
 Clinical ADRs of moderate to severe intensity occurring in ≥2% of treatment-naïve subjects treated with ISENTRESS are presented in Table 2.
 
 Table 2: Adverse Drug ReactionsIncludes adverse experiences considered by investigators to be at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
-Occurring in ≥2% of Treatment-Naïve Adult Subjects Receiving ISENTRESS (156 Week Analysis)
+Occurring in ≥2% of Treatment-Naïve Adult Subjects Receiving ISENTRESS (240 Week Analysis)
 
 | ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir (n = 281)n = total number of subjects per treatment group | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir (n = 282) |  |
 | --- | --- | --- |
 | System Organ Class, Preferred Term | Randomized Study Protocol 021 |  |
-| Psychiatric Disorders |  |  |
-| Insomnia | 4% | 4% |
-| Nervous System Disorders |  |  |
-| Headache | 4% | 5% |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 3% | 4% |
 | General Disorders and Administration |  |  |
 | Fatigue | 2% | 3% |
+| Nervous System Disorders |  |  |
+| Headache | 4% | 5% |
+| Dizziness | 2% | 6% |
+| Psychiatric Disorders |  |  |
+| Insomnia | 4% | 4% |
 
 Laboratory Abnormalities
 
 The percentages of adult subjects treated with ISENTRESS 400 mg twice daily or efavirenz in Protocol 021 with selected Grades 2 to 4 laboratory abnormalities that represent a worsening Grade from baseline are presented in Table 3.
 
-Table 3: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Naïve Subjects (156 Week Analysis)
+Table 3: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Naïve Subjects (240 Week Analysis)
 
 | Laboratory Parameter Preferred Term (Unit) | Limit | ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir (N = 281) | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir (N = 282) |
 | --- | --- | --- | --- |
@@ -39,37 +40,37 @@ Table 3: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Na
 | Hematology |  |  |  |
 | Absolute neutrophil count (103/µL) |  |  |  |
 | Grade 2 | 0.75 - 0.999 | 3% | 5% |
-| Grade 3 | 0.50 - 0.749 | 2% | 1% |
-| Grade 4 | <0.50 | <1% | <1% |
+| Grade 3 | 0.50 - 0.749 | 3% | 1% |
+| Grade 4 | <0.50 | 1% | 1% |
 | Hemoglobin (gm/dL) |  |  |  |
 | Grade 2 | 7.5 - 8.4 | 1% | 1% |
-| Grade 3 | 6.5 - 7.4 | <1% | 1% |
+| Grade 3 | 6.5 - 7.4 | 1% | 1% |
 | Grade 4 | <6.5 | <1% | 0% |
 | Platelet count (103/µL) |  |  |  |
-| Grade 2 | 50 - 99.999 | 2% | 0% |
+| Grade 2 | 50 - 99.999 | 1% | 0% |
 | Grade 3 | 25 - 49.999 | <1% | <1% |
 | Grade 4 | <25 | 0% | 0% |
 | Blood chemistry |  |  |  |
 | Fasting (non-random) serum glucose test (mg/dL) |  |  |  |
-| Grade 2 | 126 - 250 | 4% | 5% |
-| Grade 3 | 251 - 500 | 1% | 1% |
+| Grade 2 | 126 - 250 | 7% | 6% |
+| Grade 3 | 251 - 500 | 2% | 1% |
 | Grade 4 | >500 | 0% | 0% |
 | Total serum bilirubin |  |  |  |
 | Grade 2 | 1.6 - 2.5 × ULN | 5% | 0% |
-| Grade 3 | 2.6 - 5.0 × ULN | 1% | 0% |
+| Grade 3 | 2.6 - 5.0 × ULN | 1% | <1% |
 | Grade 4 | >5.0 × ULN | <1% | 0% |
 | Serum aspartate aminotransferase |  |  |  |
-| Grade 2 | 2.6 - 5.0 × ULN | 5% | 7% |
-| Grade 3 | 5.1 - 10.0 × ULN | 3% | 3% |
+| Grade 2 | 2.6 - 5.0 × ULN | 8% | 10% |
+| Grade 3 | 5.1 - 10.0 × ULN | 5% | 3% |
 | Grade 4 | >10.0 × ULN | 1% | <1% |
 | Serum alanine aminotransferase |  |  |  |
-| Grade 2 | 2.6 - 5.0 × ULN | 10% | 9% |
-| Grade 3 | 5.1 - 10.0 × ULN | 1% | 2% |
-| Grade 4 | >10.0 × ULN | 1% | 1% |
+| Grade 2 | 2.6 - 5.0 × ULN | 11% | 12% |
+| Grade 3 | 5.1 - 10.0 × ULN | 2% | 2% |
+| Grade 4 | >10.0 × ULN | 2% | 1% |
 | Serum alkaline phosphatase |  |  |  |
 | Grade 2 | 2.6 - 5.0 × ULN | 1% | 3% |
-| Grade 3 | 5.1 - 10.0 × ULN | 0% | <1% |
-| Grade 4 | >10.0 × ULN | 0% | <1% |
+| Grade 3 | 5.1 - 10.0 × ULN | 0% | 1% |
+| Grade 4 | >10.0 × ULN | <1% | <1% |
 | ULN = Upper limit of normal range |  |  |  |
 
 Lipids, Change from Baseline
@@ -78,17 +79,17 @@ Changes from baseline in fasting lipids are shown in Table 4.
 
 Table 4: Lipid Values, Mean Change from Baseline, Protocol 021
 
-| Baseline Mean (mg/dL) | Week 144 Mean (mg/dL) | Mean Change (mg/dL) | Baseline Mean (mg/dL) | Week 144 Mean (mg/dL) | Mean Change (mg/dL) |  |
+| Baseline Mean (mg/dL) | Week 240 Mean (mg/dL) | Mean Change (mg/dL) | Baseline Mean (mg/dL) | Week 240 Mean (mg/dL) | Mean Change (mg/dL) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter Preferred Term | ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir N = 281 |  |  | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir N = 282 |  |  |
-|  |  |  | Change from Baseline at Week 144 |  |  | Change from Baseline at Week 144 |
-| LDL-CholesterolFasting (non-random) laboratory tests at Week 144. | 97 | 105 | 7 | 92 | 115 | 22 |
-| HDL-Cholesterol | 38 | 43 | 4 | 38 | 48 | 11 |
-| Total Cholesterol | 160 | 172 | 13 | 156 | 195 | 39 |
-| Triglyceride | 126 | 127 | 1 | 139 | 173 | 35 |
+| Laboratory Parameter Preferred Term | ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir N = 207 |  |  | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir N = 187 |  |  |
+|  |  |  | Change from Baseline at Week 240 |  |  | Change from Baseline at Week 240 |
+| LDL-CholesterolFasting (non-random) laboratory tests at Week 240. | 96 | 106 | 10 | 93 | 118 | 25 |
+| HDL-Cholesterol | 38 | 44 | 6 | 38 | 51 | 13 |
+| Total Cholesterol | 159 | 175 | 16 | 157 | 201 | 44 |
+| Triglyceride | 128 | 130 | 2 | 141 | 178 | 37 |
 | Notes: |  |  |  |  |  |  |
-| N = Number of subjects in the treatment group. The analysis is based on all available data. |  |  |  |  |  |  |
-| If subjects initiated or increased serum lipid-reducing agents, the last available lipid values prior to the change in therapy were used in the analysis. If the missing data was due to other reasons, subjects were censored thereafter for the analysis. At baseline, serum lipid-reducing agents were used in 5% of subjects in the group receiving ISENTRESS and 3% in the efavirenz group. Through Week 144, serum lipid-reducing agents were used in 9% of subjects in the group receiving ISENTRESS and 10% in the efavirenz group. |  |  |  |  |  |  |
+| N = total number of subjects per treatment group with at least one lipid test result available. The analysis is based on all available data. |  |  |  |  |  |  |
+| If subjects initiated or increased serum lipid-reducing agents, the last available lipid values prior to the change in therapy were used in the analysis. If the missing data was due to other reasons, subjects were censored thereafter for the analysis. At baseline, serum lipid-reducing agents were used in 5% of subjects in the group receiving ISENTRESS and 3% in the efavirenz group. Through Week 240, serum lipid-reducing agents were used in 9% of subjects in the group receiving ISENTRESS and 15% in the efavirenz group. |  |  |  |  |  |  |
 
 ## 6.2 Clinical Trials Experience: Treatment-Experienced Adults
 
@@ -182,8 +183,6 @@ Immune System Disorders: hypersensitivity
 
 Infections and Infestations: genital herpes, herpes zoster
 
-Nervous System Disorders: dizziness
-
 Psychiatric Disorders: depression (particularly in subjects with a pre-existing history of psychiatric illness), including suicidal ideation and behaviors
 
 Renal and Urinary Disorders: nephrolithiasis, renal failure
@@ -208,8 +207,8 @@ Patients Co-infected with Hepatitis B and/or Hepatitis C Virus
 
 In the randomized, double-blind, placebo-controlled trials, treatment-experienced subjects (N = 114/699 or 16%) and treatment-naïve subjects (N = 34/563 or 6%) with chronic (but not acute) active hepatitis B and/or hepatitis C virus co-infection were permitted to enroll provided that baseline liver function tests did not exceed 5 times the upper limit of normal (ULN).
 In general the safety profile of ISENTRESS in subjects with hepatitis B and/or hepatitis C virus co-infection was similar to that in subjects without hepatitis B and/or hepatitis C virus co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis B and/or hepatitis C virus co-infection for all treatment groups.
-In treatment-experienced subjects, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 29%, 34% and 13%, respectively, of co-infected subjects treated with ISENTRESS as compared to 11%, 10% and 9% of all other subjects treated with ISENTRESS.
-In treatment-naïve subjects, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 17%, 33% and 17%, respectively, of co-infected subjects treated with ISENTRESS as compared to 8%, 10% and 5% of all other subjects treated with ISENTRESS.
+At 96 weeks, in treatment-experienced subjects, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 29%, 34% and 13%, respectively, of co-infected subjects treated with ISENTRESS as compared to 11%, 10% and 9% of all other subjects treated with ISENTRESS.
+At 240 weeks, in treatment-naïve subjects, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 22%, 44% and 17%, respectively, of co-infected subjects treated with ISENTRESS as compared to 13%, 13% and 5% of all other subjects treated with ISENTRESS.
 
 ## 6.5 Clinical Trials Experience: Pediatrics
 
