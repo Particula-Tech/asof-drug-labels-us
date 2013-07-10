@@ -266,9 +266,8 @@ The film coating contains: hypromellose, titanium dioxide, polyethylene glycol 4
 NORVIR Oral Solution: ethanol, water, polyoxyl 35 castor oil, propylene glycol, anhydrous citric acid to adjust pH, saccharin sodium, peppermint oil, creamy caramel flavoring, and FD&C Yellow No. 6.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-NORVIR tablets and oral solution are manufactured by: Abbott Laboratories North Chicago, IL 60064 USA
+NORVIR tablets and oral solution are manufactured by: AbbVie Inc. North Chicago, IL 60064 USA
 
-* The brands listed are trademarks of their respective owners and are not trademarks of Abbott Laboratories.
-The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
+* The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
-03-A680 November 2012
+03-A728 January 2013

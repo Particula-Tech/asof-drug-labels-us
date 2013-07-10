@@ -80,6 +80,6 @@ Concomitant use of Revatio® (sildenafil) with NORVIR is contraindicated in pati
 
 NORVIR tablets and oral solution are manufactured by:
 
-Abbott Laboratories
+AbbVie Inc.
 
 North Chicago, IL 60064 USA

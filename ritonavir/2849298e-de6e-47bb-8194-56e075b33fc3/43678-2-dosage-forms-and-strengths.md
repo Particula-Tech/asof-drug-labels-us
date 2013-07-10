@@ -2,7 +2,7 @@
 
 - NORVIR Tablets
 
-White film-coated ovaloid tablets debossed with the corporate Abbott "A" logo and the Abbo-Code NK providing 100 mg ritonavir.
+White film-coated ovaloid tablets debossed with the "a" logo and the code NK providing 100 mg ritonavir.
 
 - NORVIR Oral Solution
 

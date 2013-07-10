@@ -4,7 +4,7 @@ NORVIR (ritonavir) tablets and NORVIR (ritonavir) oral solution are available in
 
 ## 16.1 NORVIR Tablets, 100 mg Ritonavir
 
-NORVIR (ritonavir) tablets are white film-coated ovaloid tablets debossed with the corporate Abbott "A" logo and the Abbo-Code NK.
+NORVIR (ritonavir) tablets are white film-coated ovaloid tablets debossed with the "a" logo and the code NK.
 
 Bottles of 30 tablets each (NDC 0074-3333-30).
 

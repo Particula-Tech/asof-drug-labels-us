@@ -13,7 +13,7 @@ ALERT: Find out about medicines that should NOT be taken with NORVIR.
 Note to Pharmacists: Do not cover ALERT box with pharmacy label.
 Package insert is provided with tear-off patient information.
 
-Rx only Abbott
+Rx only abbvie
 
 NDC 0074–1940–63
 
@@ -31,4 +31,4 @@ Do not cover expiration date on bottle.
 
 Package insert is provided with tear-off patient information.
 
-Rx only Abbott
+Rx only abbvie

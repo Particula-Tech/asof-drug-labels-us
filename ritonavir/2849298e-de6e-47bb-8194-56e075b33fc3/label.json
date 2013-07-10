@@ -4,7 +4,7 @@
     "NDA022417"
   ],
   "inn": "ritonavir",
-  "labeler": "Abbott Laboratories",
+  "labeler": "AbbVie Inc.",
   "package_ndcs": [
     "0074-1940-63",
     "0074-3333-30"
@@ -16,7 +16,7 @@
       "name": "Norvir"
     },
     {
-      "form": "TABLET",
+      "form": "TABLET, FILM COATED",
       "generic": "ritonavir",
       "name": "Norvir"
     }
