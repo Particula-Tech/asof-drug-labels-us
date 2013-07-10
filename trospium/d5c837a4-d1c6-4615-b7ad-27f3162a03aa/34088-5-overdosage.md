@@ -1,10 +1,8 @@
-# OVERDOSAGE
+# 10 Overdosage
 
-## Management of Overdosage
-
-Overdosage with antimuscarinic agents, including trospium chloride, can result in severe anticholinergic effects.
+Overdosage with antimuscarinic agents, including trospium chloride, can result in severe antimuscarinic effects.
 Supportive treatment should be provided according to symptoms.
-In the event of overdosage, ECG monitoring is recommended.
+In the event of overdosage, electrocardiographic monitoring is recommended.
 
 A 7-month-old baby experienced tachycardia and mydriasis after administration of a single dose of trospium 10 mg given by a sibling.
 The baby’s weight was reported as 5 kg.

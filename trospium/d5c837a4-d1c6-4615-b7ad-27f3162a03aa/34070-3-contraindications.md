@@ -1,3 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Trospium chloride is contraindicated in patients with urinary retention, gastric retention, or uncontrolled narrow-angle glaucoma and in patients who are at risk for these conditions.Trospium chloride is also contraindicated in patients who have demonstrated hypersensitivity to the drug or its ingredients.
+Trospium chlorideis contraindicated in patients with:
+
+- •urinary retention
+- •gastric retention
+- •uncontrolled narrow-angle glaucoma.
+- •known hypersensitivity to the drug or its ingredients.
+  Angioedema, rash and anaphylactic reaction have been reported.

@@ -1,38 +1,50 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The safety of trospium chloride was evaluated in Phase 2 and 3 controlled clinical trials in a total of 2975 patients, who were treated with trospium chloride (N=1673), placebo (N=1056) or active control medications (N=246).
-Of this total, 1181 patients participated in two, 12-week, Phase 3, U.S., efficacy and safety studies and a 9-month open-label extension.
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+The safety of trospium chloride was evaluated in controlled clinical trials in a total of 2975 patients, who were treated with trospium chloride (N=1673), placebo (N=1056) or active control medications (N=246).
+Of this total, 1181 patients participated in two, 12-week, U.S., efficacy and safety studies and a 9-month open-label extension.
 Of this total, 591 patients received trospium chloride tablets 20 mg twice daily.
 In all controlled trials combined, 232 and 208 patients received treatment with trospium chloride for at least 24 and 52 weeks, respectively.
 
 In all placebo-controlled trials combined, the incidence of serious adverse events was 2.9% among patients receiving trospium chloride tablets 20 mg twice daily and 1.5% among patients receiving placebo.
-Of these, 0.2% and 0.3% were judged to be at least possibly related to treatment with trospium chloride or placebo, respectively, by the investigator.
+Table 1 lists adverse reactions from the combined 12-week U.S. safety and efficacy trials were reported by at least 1% of patients, and were reported more frequently in the trospium chloride group than in the placebo group.
 
-Table 4 lists treatment emergent adverse events from the combined 12-week U.S. safety and efficacy trials that were judged to be at least possibly related to treatment with trospium chloride by the investigator, were reported by at least 1% of patients, and were reported more frequently in the trospium chloride group than in the placebo group.
-
-The two most common adverse events reported by patients receiving trospium chloride tablets 20 mg twice daily were dry mouth and constipation.
-
-The single most frequently reported adverse event for trospium chloride, dry mouth, occurred in 20.1% of trospium chloride treated patients and 5.8% of patients receiving placebo.
-In the two Phase 3 U.S. studies, dry mouth led to discontinuation in 1.9% of patients treated with trospium chloride tablets 20 mg twice daily.
+The two most common adverse reactions reported by patients receiving trospium chloride tablets 20 mg twice daily were dry mouth and constipation.
+The single most frequently reported adverse reaction for trospium chloride, dry mouth, occurred in 20.1% of trospium chloride treated patients and 5.8% of patients receiving placebo.
+In the two U.S. studies, dry mouth led to discontinuation in 1.9% of patients treated with trospium chloride tablets 20 mg twice daily.
 For the patients who reported dry mouth, most had their first occurrence of the event within the first month of treatment.
 
-Table 4.
-Incidence (%) of adverse events judged at least possibly related to treatment with trospium chloride, reported in ≥ 1% of all patients treated with trospium chloride and more frequent with trospium chloride tablets (20 mg twice daily) than placebo in Studies 1 and 2 combined
+Table 1.
+Incidence (%) of adverse reactions with trospium chloride, reported in greater than or equal to 1% of all patients treated with trospium chloride and more frequent with trospium chloride tablets (20 mg twice daily) than placebo in Studies 1 and 2 combined
 
-| Adverse Event | Placebo (N=590) | Trospium Chloride Tablets 20 mg twice daily (N= 591) |
+| Adverse Reaction | Placebo(N=590) | Trospium Chloride Tablets20 mgtwice daily(N=591) |
 | --- | --- | --- |
-| Gastrointestinal Disorders Dry mouth Constipation Abdominal pain upper Constipation aggravated Dyspepsia Flatulence | 34 (5.8) 27 (4.6) 7 (1.2) 5 (0.8) 2 (0.3) 5 (0.8) | 119 (20.1) 57 (9.6) 9 (1.5) 8 (1.4) 7 (1.2) 7 (1.2) |
-| Nervous System Disorders Headache | 12 (2.0) | 25 (4.2) |
-| General Disorders Fatigue | 8 (1.4) | 11 (1.9) |
-| Renal and Urinary Disorders Urinary retention | 2 (0.3) | 7 (1.2) |
-| Eye Disorders Dry eyes NOS | 2 (0.3) | 7 (1.2) |
+| Gastrointestinal Disorders |  |  |
+| Dry mouth | 34 (5.8) | 119 (20.1) |
+| Constipation | 27 (4.6) | 57 (9.6) |
+| Abdominal pain upper | 7 (1.2) | 9 (1.5) |
+| Constipation aggravated | 5 (0.8) | 8 (1.4) |
+| Dyspepsia | 2 (0.3) | 7 (1.2) |
+| Flatulence | 5 (0.8) | 7 (1.2) |
+| Nervous System Disorders |  |  |
+| Headache | 12 (2.0) | 25 (4.2) |
+| General Disorders |  |  |
+| Fatigue | 8 (1.4) | 11 (1.9) |
+| Renal and Urinary Disorders |  |  |
+| Urinary retention | 2 (0.3) | 7 (1.2) |
+| Eye Disorders |  |  |
+| Dry eyes | 2 (0.3) | 7 (1.2) |
 
-Abbreviations: NOS = not otherwise specified.
+Other adverse reactions from the U.S., placebo-controlled trials, occurring in greater than or equal to 0.5% and less than 1.0% of trospium chloride treated patients, and more common with trospium chloride than placebo are: tachycardia, vision blurred, abdominal distension, vomiting, dysgeusia, dry throat, and dry skin.
 
-Other adverse events from the Phase 3, U.S., placebo-controlled trials judged possibly related to treatment with trospium chloride by the investigator, occurring in ≥ 0.5% of trospium chloride-treated patients, and more common with trospium chloride than placebo are: tachycardia NOS, vision blurred, abdominal distension, vomiting NOS, dysgeusia, dry throat, and dry skin.
+During controlled clinical studies, one adverse reaction of angioneurotic edema was reported.
 
-During controlled clinical studies, one event of angioneurotic edema was reported.
+## 6.2 Post-marketing Experience
 
-## Postmarketing Surveillance
+The following adverse reactions have been identified during post-approval use of trospium chloride.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Additional spontaneous adverse events, regardless of relationship to drug, reported from marketing experience with trospium chloride include: Gastrointestinal – gastritis; Cardiovascular − palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological − Stevens-Johnson syndrome, anaphylactic reaction, angioedema; Nervous System – vision abnormal, hallucinations and delirium; Musculoskeletal – rhabdomyolysis; General − rash.
+Gastrointestinal – gastritis; Cardiovascular – palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological – Stevens-Johnson syndrome, anaphylactic reaction, angioedema; Nervous System – dizziness, confusion, vision abnormal, hallucinations, somnolence and delirium; Musculoskeletal – rhabdomyolysis; General – rash.
