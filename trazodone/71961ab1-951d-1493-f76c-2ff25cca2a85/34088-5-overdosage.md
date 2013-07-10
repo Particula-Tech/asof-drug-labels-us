@@ -1,20 +1,27 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Animal Oral LD50
+## 10.1 Human Experience
 
-The oral LD50 of the drug is 610 mg/kg in mice, 486 mg/kg in rats, and 560 mg/kg in rabbits.
+Death from overdose has occurred in patients ingesting trazodone and other CNS depressant drugs concurrently (alcohol; alcohol and chloral hydrate and diazepam; amobarbital; chlordiazepoxide; or meprobamate).
 
-## Signs and Symptoms
-
-Death from overdose has occurred in patients ingesting trazodone hydrochloride and other drugs concurrently (namely, alcohol; alcohol + chloral hydrate + diazepam; amobarbital; chlordiazepoxide; or meprobamate).
-
-The most severe reactions reported to have occurred with overdose of trazodone hydrochloride alone have been priapism, respiratory arrest, seizures, and EKG changes.
+The most severe reactions reported to have occurred with overdose of trazodone alone have been priapism, respiratory arrest, seizures, and ECG changes, including QT prolongation.
 The reactions reported most frequently have been drowsiness and vomiting.
-Overdosage may cause an increase in incidence or severity of any of the reported adverse reactions (see ADVERSE REACTIONS).
+Overdosage may cause an increase in incidence or severity of any of the reported adverse reactions.
 
-## Treatment
+## 10.2 Management of Overdose
 
-There is no specific antidote for trazodone hydrochloride.
-Treatment should be symptomatic and supportive in the case of hypotension or excessive sedation.
-Any patient suspected of having taken an overdose should have the stomach emptied by gastric lavage.
+There is no specific antidote for trazodone hydrochloride overdose.
+
+Treatment should consist of those general measures employed in the management of overdosage with any drug effective in the treatment of major depressive disorder.
+
+Ensure an adequate airway, oxygenation and ventilation.
+Monitor cardiac rhythm and vital signs.
+
+General supportive and symptomatic measures are also recommended.
+Induction of emesis is not recommended.
+Gastric lavage with a large bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
+Activated charcoal should be administered.
 Forced diuresis may be useful in facilitating elimination of the drug.
+
+In managing overdosage, consider the possibility of multiple drug involvement.
+The physician should consider contacting a poison control center for additional information on the treatment of any overdose.

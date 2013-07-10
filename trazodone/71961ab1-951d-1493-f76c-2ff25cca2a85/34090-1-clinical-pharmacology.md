@@ -1,38 +1,35 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-The mechanism of trazodone hydrochloride’s antidepressant action in man is not fully understood.
-In animals, trazodone selectively inhibits its serotonin uptake by brain synaptosomes and potentiates the behavioral changes induced by the serotonin precursor, 5-hydroxytryptophan.
-Cardiac conduction effects of trazodone in the anesthetized dog are qualitatively dissimilar and quantitatively less pronounced than those seen with tricyclic antidepressants.
+## 12.1 Mechanism of Action
+
+The mechanism of trazodone’s antidepressant action is not fully understood, but is thought to be related to its potentiation of serotonergic activity in the CNS.
+
+## 12.2 Pharmacodynamics
+
+Preclinical studies have shown that trazodone selectively inhibits neuronal reuptake of serotonin and acts as an antagonist at 5-HT-2A/2C serotonin receptors.
+
 Trazodone is not a monoamine oxidase inhibitor and, unlike amphetamine-type drugs, does not stimulate the central nervous system.
 
-## Pharmacokinetics
+Trazodone antagonizes alpha 1-adrenergic receptors, a property which may be associated with postural hypotension.
+
+## 12.3 Pharmacokinetics
 
 Absorption
 
 In humans, trazodone hydrochloride is well absorbed after oral administration without selective localization in any tissue.
 When trazodone hydrochloride is taken shortly after ingestion of food, there may be an increase in the amount of drug absorbed, a decrease in maximum concentration and a lengthening in the time to maximum concentration.
-Peak plasma levels occur approximately one hour after dosing when trazodone hydrochloride is taken on an empty stomach or two hours after dosing when taken with food.
+Peak plasma levels occur approximately one hour after dosing when trazodone hydrochloride is taken on an empty stomach or 2 hours after dosing when taken with food.
 
 Metabolism
 
-In vitro studies in human liver microsomes show that trazodone is metabolized to an active metabolite, m-chlorophenylpiperazine (mCPP) by cytochrome P450 3A4 (CYP3A4).
-Other metabolic pathways that may be involved in metabolism of trazodone have not been well characterized.
+In vitro studies in human liver microsomes show that trazodone is metabolized, via oxidative cleavage, to an active metabolite, m-chlorophenylpiperazine (mCPP) by CYP3A4.
+Other metabolic pathways that may be involved in the metabolism of trazodone have not been well characterized.
+Trazodone is extensively metabolized; less than 1% of an oral dose is excreted unchanged in the urine.
 
 Elimination
 
-In some patients trazodone may accumulate in the plasma.
+In some patients trazodone may accumulate in the plasma
 
-## Drug-Drug Interactions
+Protein Binding
 
-See also PRECAUTIONS: Drug Interactions.
-In vitro drug metabolism studies reveal that trazodone is a substrate of the cytochrome P450 3A4 (CYP3A4) enzyme and trazodone metabolism can be inhibited by the CYP3A4 inhibitors ketoconazole, ritonavir, and indinavir.
-The effect of short-term administration of ritonavir (200 mg twice daily, 4 doses) on the pharmacokinetics of a single dose of trazodone (50 mg) has been studied in 10 healthy subjects.
-The Cmax of trazodone increased by 34%, the AUC increased 2.4-fold, the half-life increased by 2.2-fold, and the clearance decreased by 52%.
-Adverse effects including nausea, hypotension, and syncope were observed when ritonavir and trazodone were co-administered.
-
-Carbamazepine induces CYP3A4.
-Following co-administration of carbamazepine 400 mg/day with trazodone 100 mg to 300 mg daily, carbamazepine reduced plasma concentrations of trazodone (as well as mCPP) by 76 and 60%, respectively, compared to pre-carbamazepine values.
-
-For those patients who responded to trazodone, one-third of the inpatients and one-half of the outpatients had a significant therapeutic response by the end of the first week of treatment.
-Three-fourths of all responders demonstrated a significant therapeutic effect by the end of the second week.
-One-fourth of responders required 2-4 weeks for a significant therapeutic response.
+Trazodone is 89 to 95% protein bound in vitro at concentrations attained with therapeutic doses in humans.

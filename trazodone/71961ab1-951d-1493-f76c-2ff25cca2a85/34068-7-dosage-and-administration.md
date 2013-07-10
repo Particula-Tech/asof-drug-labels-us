@@ -1,21 +1,28 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The dosage should be initiated at a low level and increased gradually, noting the clinical response and any evidence of intolerance.
+The dosage should be initiated at a low-dose and increased gradually, noting the clinical response and any evidence of intolerance.
 Occurrence of drowsiness may require the administration of a major portion of the daily dose at bedtime or a reduction of dosage.
-Trazodone Hydrochloride Tablets should be taken shortly after a meal or light snack.
-Symptomatic relief may be seen during the first week, with optimal antidepressant effects typically evident within two weeks.
-Twenty-five percent of those who respond to trazodone hydrochloride require more than two weeks (up to four weeks) of drug administration.
+Trazodone hydrochloride tablets should be taken shortly after a meal or light snack.
 
-## Usual Adult Dosage
+Dose Selection
 
 An initial dose of 150 mg/day in divided doses is suggested.
-The dose may be increased by 50 mg/day every three to four days.
+The dose may be increased by 50 mg/day every 3 to 4 days.
 The maximum dose for outpatients usually should not exceed 400 mg/day in divided doses.
-Inpatients (i.e., more severely depressed patients) may be given up to but not in excess of 600 mg/day in divided doses.
+Inpatients (i.e., more severely depressed patients) may be given up to but not in excess of 600 mg/day in divided doses
 
-## Maintenance
+- Once an adequate response has been achieved, dosage may be gradually reduced, with subsequent adjustment depending on therapeutic response.
+- Patients should be monitored for withdrawal symptoms when discontinuing treatment with trazodone hydrochloride tablets.
+  The dose should be gradually reduced whenever possible [see Warnings and Precautions (5.12)].
 
-Dosage during prolonged maintenance therapy should be kept at the lowest effective level.
-Once an adequate response has been achieved, dosage may be gradually reduced, with subsequent adjustment depending on therapeutic response.
+Maintenance Treatment
 
-Although there has been no systematic evaluation of the efficacy of trazodone hydrochloride beyond six weeks, it is generally recommended that a course of antidepressant drug treatment should be continued for several months.
+The efficacy of trazodone hydrochloride tablets for the maintenance treatment of MDD has not been evaluated.
+While there is no body of evidence available to answer the question of how long a patient treated with trazodone hydrochloride tablets should continue the drug, it is generally recommended that treatment be continued for several months after an initial response.
+Patients should be maintained on the lowest effective dose and be periodically reassessed to determine the continued need for maintenance treatment.
+
+Important Administration Instructions
+
+Trazodone hydrochloride tablets are scored to provide flexibility in dosing.
+
+Trazodone hydrochloride tablets can be swallowed whole or administered as a half tablet by breaking the tablet along the score line.
