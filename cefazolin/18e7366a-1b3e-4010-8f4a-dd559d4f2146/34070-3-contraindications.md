@@ -1,3 +1,5 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-CEFAZOLIN FOR INJECTION IS CONTRAINDICATED IN PATIENTS WITH KNOWN ALLERGY TO THE CEPHALOSPORIN GROUP OF ANTIBIOTICS.
+## 4.1 Hypersensitivity to Cefazolin or the Cephalosporin Class of Antibacterial Drugs, Penicillins, or Other Beta-lactams
+
+Cefazolin for Injection USP is contraindicated in patients who have a history of immediate hypersensitivity reactions (e.g., anaphylaxis, serious skin reactions) to cefazolin or the cephalosporin class of antibacterial drugs, penicillins, or other beta-lactams [see Warnings and Precautions (5.1)].

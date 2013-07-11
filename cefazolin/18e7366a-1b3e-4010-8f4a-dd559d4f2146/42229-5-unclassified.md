@@ -1,70 +1,14 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefazolin for Injection and other antibacterial drugs, Cefazolin for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+ATCC is a registered trademark of American Type Culture Collection.
 
-# RECONSTITUTION
+Clinitest is a registered trademark of Siemens Medical Solutions Diagnostics.
 
-## Preparation of Parenteral Solution
+Clinistix is a registered trademark of Bayer Healthcare LLC.
 
-Parenteral drug products should be SHAKEN WELL when reconstituted, and inspected visually for particulate matter prior to administration.
-If particulate matter is evident in reconstituted fluids, the drug solutions should be discarded.
+02-2013M
 
-When reconstituted or diluted according to the instructions below, cefazolin is stable for 24 hours at room temperature or for 10 days if stored under refrigeration (5°C or 41°F).
-Reconstituted solutions may range in color from pale yellow to yellow without a change in potency.
+46105473
 
-## Single-Dose Vials
-
-For IM injection, IV direct (bolus) injection or IV infusion, reconstitute with Sterile Water for Injection according to the following table.
-SHAKE WELL.
-
-| Vial Size | Amount of Diluent | Approximate Concentration | Approximate Available Volume |
-| --- | --- | --- | --- |
-| 500 mg | 2 mL | 225 mg/mL | 2.2 mL |
-| 1 gram | 2.5 mL | 330 mg/mL | 3 mL |
-
-# ADMINISTRATION
-
-## Intramuscular Administration
-
-Reconstitute vials with Sterile Water for Injection according to the dilution table above.
-Shake well until dissolved.
-Cefazolin for Injection should be injected into a large muscle mass.
-Pain on injection is infrequent with Cefazolin for Injection.
-
-## Intravenous Administration
-
-Direct (bolus) injection: Following reconstitution according to the above table, further dilute vials with approximately 5 mL Sterile Water for Injection.
-Inject the solution slowly over 3 to 5 minutes, directly or through tubing for patients receiving parenteral fluids (see list below).
-
-Intermittent or continuous infusion: Dilute reconstituted Cefazolin for Injection in 50 to 100 mL of 1 of the following solutions:
-
-Sodium Chloride Injection, USP
-
-5% or 10% Dextrose Injection, USP
-
-5% Dextrose in Lactated Ringer’s Injection, USP
-
-5% Dextrose and 0.9% Sodium Chloride Injection, USP
-
-5% Dextrose and 0.45% Sodium Chloride Injection, USP
-
-5% Dextrose and 0.2% Sodium Chloride Injection, USP
-
-Lactated Ringer’s Injection, USP
-
-Invert Sugar 5% or 10% in Sterile Water for Injection
-
-Ringer’s Injection, USP
-
-5% Sodium Bicarbonate Injection, USP
-
-Prior to administration parenteral drug products should be inspected visually for particulate matter and discoloration whenever solution and container permit.
-
-Clinitest® is a registered trademark of Miles, Inc.
-
-Clinistix® is a registered trademark of Bayer Corporation.
-
-11-2011M
-
-46069536
+46105474
 
 Manufactured in Austria by
 
