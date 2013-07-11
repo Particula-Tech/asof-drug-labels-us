@@ -24,7 +24,7 @@ These findings suggest that the interaction of levetiracetam with the SV2A prote
 
 Effects on QTc Interval
 
-The effect of KEPPRA on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg)- and placebo-controlled crossover study of KEPPRA (1000 mg or 5000 mg) in 52 healthy subjects.
+The effect of KEPPRA on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of KEPPRA (1000 mg or 5000 mg) in 52 healthy subjects.
 The upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 milliseconds.
 Therefore, there was no evidence of significant QTc prolongation in this study.
 

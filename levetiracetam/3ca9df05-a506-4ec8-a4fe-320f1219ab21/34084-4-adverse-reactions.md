@@ -140,7 +140,7 @@ In the well controlled pooled pediatric clinical studies in patients 4-16 years 
 Pediatric Patients 1 Month To < 4 Years
 
 In the 7-day, controlled pediatric clinical study in children 1 month to less than 4 years of age with partial onset seizures, the adverse reactions most frequently reported with the use of KEPPRA in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, were somnolence and irritability.
-Because of the shorter exposure period, incidences of adverse reactions are expected to be lower then in other pediatric studies in older patients.
+Because of the shorter exposure period, incidences of adverse reactions are expected to be lower than in other pediatric studies in older patients.
 Therefore, other controlled pediatric data, presented above, should also be considered to apply to this age group.
 
 Table 6 lists adverse reactions that occurred in at least 5% of pediatric epilepsy patients (ages 1 month to < 4 years) treated with KEPPRA participating in the placebo-controlled study and were numerically more common than in patients treated with placebo.
@@ -246,5 +246,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 In addition to the adverse reactions listed above, [see Adverse Reactions (6.1)], the following adverse events have been reported in patients receiving marketed KEPPRA worldwide.
-The listing is alphabetized: abnormal liver function test, choreoathetosis, dyskinesia, erythema multiforme, hepatic failure, hepatitis, leukopenia, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), thrombocytopenia, and weight loss.
+The listing is alphabetized: abnormal liver function test, choreoathetosis, dyskinesia, erythema multiforme, hepatic failure, hepatitis, leukopenia, muscular weakness, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
 Alopecia has been reported with KEPPRA use; recovery was observed in majority of cases where KEPPRA was discontinued.

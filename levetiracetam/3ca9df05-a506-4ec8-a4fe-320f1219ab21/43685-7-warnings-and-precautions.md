@@ -23,7 +23,7 @@ Two (0.3%) adult KEPPRA-treated patients were hospitalized and their treatment w
 Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
 There was no difference between drug and placebo-treated patients in the incidence of the pediatric patients who discontinued treatment due to psychotic and non-psychotic adverse reactions.
 
-The above psychiatric signs symptoms should be monitored.
+The above psychiatric signs and symptoms should be monitored.
 
 ## 5.2 Suicidal Behavior and Ideation
 
@@ -42,9 +42,10 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-| Table 2 | Risk by indication for antiepileptic drugs in the pooled analysis |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 2: Risk By Indication For Antiepileptic Drugs In The Pooled Analysis
+
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
 | Other | 1.0 | 1.8 | 1.9 | 0.9 |
