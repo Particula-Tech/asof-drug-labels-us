@@ -1,15 +1,13 @@
-# PRINCIPAL DISPLAY PANEL - 1 gram Tablets
+# PRINCIPAL DISPLAY PANEL - 120 Tablet Bottle Label
 
-NDC 0009-0450-03
+Pfizer
 
-120 Tablets
+NDC 0009-0450-03 Rx only
 
-Rx only
+Colestid®
 
-Colestid® micronized colestipol hydrochloride tablets
+micronized colestipol hydrochloride tablets
 
 1 g
 
-Distributed by
-
-Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+120 Tablets Rx only
