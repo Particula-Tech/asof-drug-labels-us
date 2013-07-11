@@ -10,12 +10,14 @@ Recommended doses and adjustment for dose for adults are shown in Table 1.
 To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in mL/min is needed.
 CLcr in mL/min may be estimated from serum creatinine (mg/dL) determination using the following formula:
 
-[140-age (years)] x weight (kg) CLcr = ---------------------------------------------- x 1 0.85 72 x serum creatinine (mg/dL) 1.
+[140-age (years)] × weight (kg) CLcr = ---------------------------------------------- × 1 0.85 72 × serum creatinine (mg/dL)
+
+1.
 For female patients
 
 Then CLcr is adjusted for body surface area (BSA) as follows:
 
-CLcr (mL/min) CLcr (mL/min/1.73m2) = ----------------------------- x 1.73 BSA subject (m2)
+CLcr (mL/min) CLcr (mL/min/1.73m2) = ----------------------------- × 1.73 BSA subject (m2)
 
 Table 1: Dosing Adjustment Regimen For Adult Patients With Impaired Renal Function
 

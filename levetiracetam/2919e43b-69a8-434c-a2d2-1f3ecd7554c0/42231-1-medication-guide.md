@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-KEPPRA XR™ (KEPP-ruh XR) (levetiracetam) extended-release tablets
+KEPPRA XR® (KEPP-ruh XR) (levetiracetam) extended-release tablets
 
 Read this Medication Guide before you start taking KEPPRA XR and each time you get a refill.
 There may be new information.
@@ -160,8 +160,8 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Distributed by UCB, Inc. Smyrna, GA 30080
 
-KEPPRA XR™ is a trademark of the UCB Group of companies © 2009, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+KEPPRA XR is a registered trademark of the UCB Group of companies © 2010, UCB, Inc., Smyrna, GA 30080 All rights reserved.
 Printed in the U.S.A.
 
 Rev.
-1E 04/2009
+2E 02/2010

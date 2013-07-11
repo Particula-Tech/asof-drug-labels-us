@@ -90,5 +90,5 @@ In addition, the following adverse reactions were seen in other well-controlled 
 
 In addition to the adverse reactions listed above for immediate-release KEPPRA tablets [see Adverse Reactions (6.1)], the following adverse events have been identified during postapproval use of immediate-release KEPPRA tablets.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The listing is alphabetized: abnormal liver function test, hepatic failure, hepatitis, leukopenia, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), thrombocytopenia and weight loss.
+The listing is alphabetized: abnormal liver function test, choreoathetosis, dyskinesia, erythema multiforme, hepatic failure, hepatitis, leukopenia, muscular weakness, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, Stevens-Johnson syndrome, thrombocytopenia, toxic epidermal necrolysis, and weight loss.
 Alopecia has been reported with immediate-release KEPPRA use; recovery was observed in majority of cases where immediate-release KEPPRA was discontinued.

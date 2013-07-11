@@ -2,7 +2,7 @@
 
 ## 5.1 Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including KEPPRA XR, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs (AEDs), including Keppra XR, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -19,7 +19,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
 
-| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference Additional Drug Patients with Events Per 1000 Patients |
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -28,7 +28,7 @@ Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
-Anyone considering prescribing KEPPRA XR or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Anyone considering prescribing Keppra XR or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
