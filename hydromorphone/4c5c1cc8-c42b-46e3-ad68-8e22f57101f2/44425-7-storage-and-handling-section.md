@@ -4,8 +4,8 @@ Protect from light.
 A Schedule CII Narcotic.
 DEA Order Form is required.
 
-Mallinckrodt Inc., Hazelwood, MO 63042 USA.
+Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
 COVIDIEN™ Mallinckrodt
 
-Printed in U.S.A. Rev 020209
+Printed in U.S.A. Rev 03/2013

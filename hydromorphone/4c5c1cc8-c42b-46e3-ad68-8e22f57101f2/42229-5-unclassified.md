@@ -1,7 +1,3 @@
-HYDROMORPHONE HYDROCHLORIDE TABLETS USP 2mg, 4mg, and 8 mg
-
-Rx only
-
 # Central Nervous System
 
 The precise mode of analgesic action of opioid analgesics is unknown.
@@ -211,7 +207,7 @@ OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCY*
 | Levorphanol tartrate (Levo-Dromoran™) | 2 to 2.3 mg |  | 4 mg |
 | Meperidine, pethidine HCl (Demerol®) | 75 to 100 mg |  | 300 to 400 mg |
 | Methadone HCl (Dolophine®) | 10 mg |  | 10 to 20 mg |
-| DILAUDID is a registered trademark of Abbott Laboratories. Numorphan is a registered trademark of Endo Pharmaceuticals Inc. Levo-Dromoran is a trademark of Valeant Pharmaceuticals International. Demerol is a registered trademark of Sanofi Pharmaceuticals Inc. Dolophine is a registered trademark of Roxane Laboratories Inc. * Dosages, and ranges of dosages represented, are a compilation of estimated equipotent dosages from published references comparing opioid analgesics in cancer and severe pain. |  |  |  |
+| DILAUDID is a registered trademark of Abbott Laboratories. Numorphan is a registered trademark of Endo Pharmaceuticals Inc. Levo-Dromoran is a trademark of Valeant Pharmaceuticals International. Demerol is a registered trademark of Sanofi Pharmaceuticals Inc. Dolophine is a registered trademark of Roxane Laboratories Inc. *Dosages, and ranges of dosages represented, are a compilation of estimated equipotent dosages from published references comparing opioid analgesics in cancer and severe pain. |  |  |  |
 
 # Safety and Handling Instructions
 
