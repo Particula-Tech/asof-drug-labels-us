@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019116"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Onset Dermatologics LLC",
+  "package_ndcs": [
+    "16781-391-60"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "hydrocortisone butyrate",
+      "name": "Locoid"
+    }
+  ],
+  "setid": "c3360b20-8409-4a8a-b77a-4f6fb1ac6b25",
+  "source": "dailymed"
+}
