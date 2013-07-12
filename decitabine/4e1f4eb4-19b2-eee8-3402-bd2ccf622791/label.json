@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203131"
+  ],
+  "inn": "decitabine",
+  "labeler": "Dr.Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-556-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "decitabine",
+      "name": "Decitabine"
+    }
+  ],
+  "setid": "4e1f4eb4-19b2-eee8-3402-bd2ccf622791",
+  "source": "dailymed"
+}
