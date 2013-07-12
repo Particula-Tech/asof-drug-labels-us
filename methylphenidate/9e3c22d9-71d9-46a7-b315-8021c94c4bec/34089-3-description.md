@@ -7,8 +7,8 @@ Methylphenidate hydrochloride USP is a white, odorless, fine crystalline powder.
 Its solutions are acid to litmus.
 It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone.
 
-Each mL of Methylin® Oral Solution 5 mg/5 mL contains 1 mg of methylphenidate hydrochloride USP.
+Each mL of Methylin Oral Solution 5 mg/5 mL contains 1 mg of methylphenidate hydrochloride USP.
 
-Each mL of Methylin® Oral Solution 10 mg/5 mL contains 2 mg of methylphenidate hydrochloride USP.
+Each mL of Methylin Oral Solution 10 mg/5 mL contains 2 mg of methylphenidate hydrochloride USP.
 
-In addition, Methylin® Oral Solution also contains the following inactive ingredients: citric acid anhydrous, glycerin, N&A grape flavor, PEG 1450, and purified water.
+In addition, Methylin Oral Solution also contains the following inactive ingredients: citric acid anhydrous, glycerin, N&A grape flavor, PEG 1450, and purified water.
