@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Catetory C
+### Pregnancy Category C
 
 There are no adequate and well-controlled studies of BARACLUDE in pregnant women.
 When pregnant rats and rabbits received entecavir at 28 and 212 times the human exposure at the highest human dose, there were no signs of embryofetal toxicity.
