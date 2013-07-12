@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204516"
+  ],
+  "inn": "paroxetine",
+  "labeler": "Noven Therapeutics, LLC",
+  "package_ndcs": [
+    "68968-9075-3"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "paroxetine",
+      "name": "BRISDELLE"
+    }
+  ],
+  "setid": "bf208751-e6d8-11e1-aff1-0800200c9a66",
+  "source": "dailymed"
+}
