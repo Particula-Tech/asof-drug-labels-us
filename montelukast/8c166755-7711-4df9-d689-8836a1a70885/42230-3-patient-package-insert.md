@@ -128,7 +128,7 @@ SINGULAIR may cause serious side effects.
 
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
   Rarely, this can happen in people with asthma who take SINGULAIR.
-  This usually, but not always, happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
+  This sometimes happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
   Tell your healthcare provider right away if you get one or more of these symptoms:
   - a feeling of pins and needles or numbness of arms or legs
   - a flu-like illness
@@ -155,7 +155,7 @@ Other side effects with SINGULAIR include:
 - allergic reactions [including swelling of the face, lips, tongue, and/or throat (which may cause trouble breathing or swallowing), hives and itching]
 - dizziness, drowsiness, pins and needles/numbness, seizures (convulsions or fits)
 - palpitations
-- nose bleed, stuffy nose
+- nose bleed, stuffy nose, swelling (inflammation) of the lungs
 - heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 - hepatitis
 - bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
