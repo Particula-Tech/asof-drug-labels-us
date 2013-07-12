@@ -23,7 +23,7 @@ The mean Cmax following a 20 mg dose is approximately 10 ng/mL.
 
 In a study in adult volunteers investigating the effects of a high-fat meal on the bioavailability of Methylin Chewable Tablets at a dose of 20 mg, the presence of food delayed the peak concentrations by approximately 1 hour (1.5 hours, fasted and 2.4 hours, fed).
 Overall, a high-fat meal increased the AUC of Methylin Chewable Tablets by about 20%, on average.
-Through a cross-study comparison, the magnitude of food effect is found to be comparable between the Methylin Chewable Tablets and Ritalin®, the immediate release tablet.
+Through a cross-study comparison, the magnitude of food effect is found to be comparable between the Methylin Chewable Tablets and Ritalin, the immediate release tablet.
 
 ### Metabolism and Excretion
 
@@ -34,7 +34,7 @@ After oral dosing of radiolabeled methylphenidate in humans, about 90% of the ra
 The main urinary metabolite was PPA, accounting for approximately 80% of the dose.
 
 The pharmacokinetics of the Methylin Chewable Tablets have been studied in healthy adult volunteers.
-The mean terminal half-life (t½) of methylphenidate following administration of 20 mg Methylin Chewable Tablets (t½ = 3 hours) is comparable to the mean terminal t½ following administration of Ritalin® (methylphenidate hydrochloride immediate-release tablets) (t½ = 2.8 hours) in healthy adult volunteers.
+The mean terminal half-life (t½) of methylphenidate following administration of 20 mg Methylin Chewable Tablets (t½ = 3 hours) is comparable to the mean terminal t½ following administration of Ritalin (methylphenidate hydrochloride immediate-release tablets) (t½ = 2.8 hours) in healthy adult volunteers.
 
 ### Special Populations
 

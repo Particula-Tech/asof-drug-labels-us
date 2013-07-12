@@ -11,7 +11,7 @@ Adults – Sudden deaths, stroke, and myocardial infarction have been reported i
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
 Adults with such abnormalities should also generally not be treated with stimulant drugs.
 
-### Hypertension and other Cardiovascular Conditions
+### Hypertension and Other Cardiovascular Conditions
 
 Stimulant medications cause a modest increase in average blood pressure (about 2 to 4 mmHg) and average heart rate (about 3 to 6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
@@ -36,17 +36,26 @@ In a pooled analysis of multiple short-term, placebo-controlled studies, such sy
 Aggression – Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
 Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of or worsening of aggressive behavior or hostility.
 
+## Seizures
+
+There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
+In the presence of seizures, the drug should be discontinued.
+
+## Peripheral Vasculopathy, Including Raynaud’s Phenomenon
+
+Stimulants, including Methylin, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
 ## Long-Term Suppression of Growth
 
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
-
-## Seizures
-
-There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
-In the presence of seizures, the drug should be discontinued.
 
 ## Visual Disturbance
 
@@ -89,6 +98,13 @@ If you experience chest pain, vomiting, or difficulty in swallowing or breathing
 Directions – Take this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid.
 Taking this product without enough liquid may cause choking.
 See choking warning.
+
+Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon]
+
+- Instruct patients beginning treatment with Methylin about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Methylin.
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 Phenylketonurics – Phenylalanine is a component of aspartame.
 Each 2.5 mg Methylin Chewable Tablet contains 0.42 mg of phenylalanine; each 5.0 mg Methylin Chewable Tablet contains 0.84 mg of phenylalanine and each 10.0 mg Methylin Chewable Tablet contains 1.68 mg of phenylalanine.
