@@ -6,18 +6,18 @@ The risks of using SEROQUEL in combination with other drugs have not been extens
 Given the primary CNS effects of SEROQUEL, caution should be used when it is taken in combination with other centrally acting drugs.
 SEROQUEL potentiated the cognitive and motor effects of alcohol in a clinical trial in subjects with selected psychotic disorders, and alcoholic beverages should be limited while taking quetiapine.
 
-Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). and decreased by the prototype CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort etc.). Dose adjustment of quetiapine will be necessary if it is co-administered with potent CYP3A4 inducers or inhibitors.
+Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.) and decreased by the prototype CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort etc.). Dose adjustment of quetiapine will be necessary if it is co-administered with potent CYP3A4 inducers or inhibitors.
 
 CYP3A4 inhibitors:
 
 Coadministration of ketoconazole, a potent inhibitor of cytochrome CYP3A4, resulted in significant increase in quetiapine exposure.
-The dose of SEROQUEL should be reduced to one sixth of the original dose if coadministered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+The dose of SEROQUEL should be reduced to one sixth of the original dose if coadministered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 CYP3A4 inducers:
 
 Coadministration of quetiapine and phenytoin, a CYP3A4 inducer increased the mean oral clearance of quetiapine by 5-fold.
-Increased doses of SEROQUEL up to 5 fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
-When the CYP3A4 inducer is discontinued, the dose of SEROQUEL should be reduced to the original level within 7-14 days [see Dosage and Administration (2.5)].
+Increased doses of SEROQUEL up to 5 fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+When the CYP3A4 inducer is discontinued, the dose of SEROQUEL should be reduced to the original level within 7-14 days [see Dosage and Administration (2.6)].
 
 The potential effects of several concomitant medications on quetiapine pharmacokinetics were studied [see Clinical Pharmacology (12.3)].
 

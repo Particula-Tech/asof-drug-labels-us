@@ -97,7 +97,7 @@ Before you take SEROQUEL, tell your healthcare provider if you have or have had:
 - •any other medical condition
 - •pregnancy or plans to become pregnant.
   It is not known if SEROQUEL will harm your unborn baby.
-- •breastfeeding or plans to breastfeed.
+- •Breast-feeding or plans to breast-feed.
   SEROQUEL can pass into your breast milk.
   You and your healthcare provider should decide if you will take SEROQUEL or breast-feed.
   You should not do both.
@@ -177,7 +177,7 @@ SEROQUEL can cause serious side effects, including:
   These may be signs of a serious condition.
   Tardive dyskinesia may not go away, even if you stop taking SEROQUEL.
   Tardive dyskinesia may also start after you stop taking SEROQUEL.
-- •decreased blood pressure (hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
+- •decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
 - •increases in blood pressure in children and teenagers.
   Your healthcare provider should check blood pressure in children and adolescents before starting SEROQUEL and during therapy.
 - •low white blood cell count
@@ -190,7 +190,7 @@ SEROQUEL can cause serious side effects, including:
 - •sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 - •increased body temperature
 - •difficulty swallowing
-- •trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting if you suddenly stop taking SEROQUEL.
+- •trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking SEROQUEL.
   These symptoms usually get better 1 week after you start having them.
 - The most common side effects of SEROQUEL include:
 - In Adults:
@@ -244,4 +244,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised: April 2013
+Revised: July 2013

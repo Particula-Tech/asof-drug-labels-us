@@ -42,7 +42,7 @@ Weight Gain
 Patients should be advised that they may experience weight gain.
 Patients should have their weight monitored regularly [see Warnings and Precautions (5.5)].
 
-Hypotension
+Orthostatic Hypotension
 
 Patients should be advised of the risk of orthostatic hypotension (symptoms include feeling dizzy or lightheaded upon standing, which may lead to falls), especially during the period of initial dose titration, and also at times of re-initiating treatment or increases in dose [see Warnings and Precautions (5.7)].
 
