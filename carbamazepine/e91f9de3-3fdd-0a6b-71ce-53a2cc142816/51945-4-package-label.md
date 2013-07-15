@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 100 MG LABEL
+PRINCIPAL DISPLAY PANEL - 100 mg
 
 Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
@@ -10,9 +10,9 @@ Carbamazepine Extended-Release Capsules
 
 Rx only
 
-Bottles of 120s
+120 bottle count
 
-PRINCIPAL DISPLAY PANEL - 200 MG LABEL
+PRINCIPAL DISPLAY PANEL - 200 mg
 
 Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
@@ -24,9 +24,9 @@ Carbamazepine Extended-Release Capsules
 
 Rx only
 
-Bottles of 120s
+120 bottle count
 
-PRINCIPAL DISPLAY PANEL - 300 MG LABEL
+PRINCIPAL DISPLAY PANEL - 300 mg
 
 Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
@@ -38,4 +38,4 @@ Carbamazepine Extended-Release Capsules
 
 Rx only
 
-Bottles of 120s
+120 bottle count

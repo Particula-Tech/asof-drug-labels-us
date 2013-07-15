@@ -4,12 +4,15 @@ Monitoring of blood levels has increased the efficacy and safety of anticonvulsa
 Dosage should be adjusted to the needs of the individual patients.
 A low initial daily dosage with gradual increase is advised.
 As soon as adequate control is achieved, the dosage may be reduced very gradually to the minimum effective level.
-The carbamazepine extended-release capsules may be opened and the granules sprinkled over food, such as a teaspoon of applesauce or other similar food products if this method of administration is preferred.
-Carbamazepine extended-release capsules or their contents should not be crushed or chewed.
-Carbamazepine extended-release capsules can be taken with or without meals.
+Carbamazepine extended-release capsules may be taken with or without food.
+Carbamazepine extended-release capsules may be swallowed whole or may be opened and all the granules sprinkled on a teaspoon of soft food such as applesauce.
+Make sure all of the food and medicine mixture is swallowed.
+Do not crush or chew carbamazepine extended-release capsules or the sprinkled beads.
 
 Carbamazepine extended-release capsule is an extended-release formulation for twice a day administration.
 When converting patients from immediate release carbamazepine to carbamazepine extended-release capsules, the same total daily mg dose of carbamazepine should be administered.
+Following conversion to carbamazepine, patients should be closely monitored for seizure control.
+Depending on the therapeutic response after conversion, the total daily dose may need to be adjusted within the recommended dosing instructions.
 
 Epilepsy (see INDICATIONS AND USAGE)
 

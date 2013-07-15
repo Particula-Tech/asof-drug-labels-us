@@ -24,14 +24,22 @@ Symptoms may include:
 - blistering or peeling of the skin
 
 2.
-Carbamazepine extended-release capsules may cause rare but serious blood problems.
-Symptoms may include:
+Carbamazepine extended-release capsules can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body such as your liver or blood cells.
+You may or may not have a rash when you get these types of reactions.
+Call your healthcare provider right away if you have any of these symptoms:
 
-- fever, sore throat or other infections that come and go or do not go away
-- easy bruising
+- frequent fevers or fevers that do not go away
+- frequent infections or an infection that does not go away
+- unusual bruising or bleeding
 - red or purple spots on your body
-- bleeding gums or nose bleeds
 - severe fatigue or weakness
+- unexpected muscle pain that does not go away
+- swelling of your face, eyes, lips, or tongue
+- swollen glands that do not go away
+- yellowing of your skin or the whites of your eyes
+- loss of appetite (anorexia) that does not go away
+- nausea or vomiting that does not go awayThese symptoms may be the first signs of a serious reaction.
+  A healthcare provider should examine you to decide if you should continue taking carbamazepine extended-release capsules.
 
 3.
 Like other antiepileptic drugs, carbamazepine extended-release capsules may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
@@ -81,6 +89,7 @@ Do not take carbamazepine extended-release capsules if you:
 - are allergic to carbamazepine or any of the ingredients in carbamazepine extended-release capsules.
   See the end of this Medication Guide for a complete list of ingredients in carbamazepine extended-release capsules.
 - take nefazodone
+- take delavirdine
 - are allergic to antidepressant medications called tricyclic (TCAs).
 - have taken a medicine called Monoamine Oxidase Inhibitor (MAOI) in the last 14 days.
 
@@ -110,7 +119,7 @@ Before you take carbamazepine extended-release capsules, tell your healthcare pr
     You can enroll in this registry by calling 1-888-233-2334.
 
 - are breastfeeding or plan to breastfeed.
-  Carbamazepine extended-release capsules pass into your breast milk.
+  Carbamazepine passes into breast milk.
   You and your healthcare provider should discuss whether you should take carbamazepine extended-release capsules or breastfeed.
   You should not do both.
 
@@ -150,21 +159,19 @@ See "What is the most important information I should know about carbamazepine ex
 
 Carbamazepine extended-release capsules may cause other serious side effects including:
 
-Irregular heartbeat - symptoms include:
+- Irregular heartbeat - symptoms include:
+  - Fast, slow, or pounding heartbeat
+  - Shortness of breath
+  - Feeling lightheaded
+  - Fainting
 
-- Fast, slow, or pounding heartbeat
-- Shortness of breath
-- Feeling lightheaded
-- Fainting
-
-Liver problems - symptoms include:
-
-- yellowing of your skin or the whites of your eyes
-- dark urine
-- pain on the right side of your stomach area (abdominal pain)
-- easy bruising
-- loss of appetite
-- nausea or vomiting
+- Liver problems - symptoms include:
+  - yellowing of your skin or the whites of your eyes
+  - dark urine
+  - pain on the right side of your stomach area (abdominal pain)
+  - easy bruising
+  - loss of appetite
+  - nausea or vomiting
 
 Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about carbamazepine extended-release capsules".
 
@@ -179,7 +186,7 @@ The most common side effects of carbamazepine extended-release capsules include:
 These are not all the side effects of carbamazepine extended-release capsules.
 For more information, ask your healthcare provider or pharmacist.
 
-Tell your healthcare provider if you have any side effect that bothers you. or that does not go away.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -187,7 +194,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store carbamazepine extended-release capsules?
 
 Store at 20˚ to 25°C (68˚ to 77°F); excursions permitted to 15˚ to 30°C (59˚ to 86°F) [see USP Controlled Room Temperature].
-Dispense in a tight, light-resistant container [see USP]
+Dispense in a tight, light-resistant container [see USP].
 
 Keep carbamazepine extended-release capsules and all medicines out of the reach of children.
 
@@ -221,5 +228,7 @@ APOTEX INC. CARBAMAZEPINE EXTENDED-RELEASE CAPSULES 100 mg, 200 mg and 300 mg
 | Manufactured by: Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for: Apotex Corp. Weston, Florida USA 33326 |
 | --- | --- |
 
+Revised: June 2013
+
 Rev.
-5 Revised: November 2011
+6
