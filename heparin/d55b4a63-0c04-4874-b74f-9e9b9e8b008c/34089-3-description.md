@@ -16,30 +16,30 @@ Heparin Sodium Injection, USP (porcine), preservative free, is available as foll
 
 Each mL of the 1,000 units per mL preparation contains: 1,000 USP Heparin units (porcine); 9 mg sodium chloride; Water for Injection q.s.
 Made isotonic with sodium chloride.
-Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0 to 7.5).
 
 Each 0.5 mL of the 5,000 units per 0.5 mL preparation contains: 5,000 USP Heparin units (porcine); Water for Injection q.s.
-Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0 to 7.5).
 
 Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, is available as follows:
 
 Each mL of the 5,000 units per mL preparation contains: 5,000 USP Heparin units (porcine); 6 mg sodium chloride; 15 mg benzyl alcohol (as a preservative); Water for Injection q.s.
-Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0 to 7.5).
 
 Each mL of the 10,000 units per mL preparation contains: 10,000 USP Heparin units (porcine); 5 mg sodium chloride; 10.42 mg benzyl alcohol (as a preservative); Water for Injection q.s.
-Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0 to 7.5).
 
 Heparin Sodium Injection, USP (porcine), preserved with parabens, is available as follows:
 
 Each mL of the 1,000 units per mL preparation contains: 1,000 USP Heparin units (porcine); 9 mg sodium chloride; 1.5 mg methylparaben; 0.15 mg propylparaben; Water for Injection q.s.
 Made isotonic with sodium chloride.
-Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0 to 7.5).
 
 Each mL of the 5,000 units per mL preparation contains: 5,000 USP Heparin units (porcine); 5 mg sodium chloride; 1.5 mg methylparaben; 0.15 mg propylparaben; Water for Injection q.s.
-Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0 to 7.5).
 
 Each mL of the 10,000 units per mL preparation contains: 10,000 USP Heparin units (porcine); 1.5 mg methylparaben; 0.15 mg propylparaben; Water for Injection q.s.
-Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0 to 7.5).
 
 Each mL of the 20,000 units per mL preparation contains: 20,000 USP Heparin units (porcine); 1.5 mg methylparaben; 0.15 mg propylparaben; Water for Injection q.s.
-Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0 to 7.5).
