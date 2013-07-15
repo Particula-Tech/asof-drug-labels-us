@@ -25,7 +25,7 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 2.
 
-Table Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated
+Table 2: Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
@@ -71,7 +71,7 @@ Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis) and acute renal failure.
 
 The diagnostic evaluation of patients with this syndrome is complicated.
-In arriving at a diagnosis, it is important to exclude cases where the clinical presentation includes both serious medical illness (eg, pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
+In arriving at a diagnosis, it is important to exclude cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
 Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology.
 
 The management of NMS should include: 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; 2) intensive symptomatic treatment and medical monitoring; and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
@@ -96,14 +96,14 @@ However, epidemiological studies suggest an increased risk of treatment-emergent
 Precise risk estimates for hyperglycemia-related adverse reactions in patients treated with atypical antipsychotics are not available.
 
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
-Patients with risk factors for diabetes mellitus (eg, obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
+Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
 Adults:
 
-Table 3 Fasting Glucose-Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
+Table 3: Fasting Glucose-Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
 
 | Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -145,7 +145,7 @@ Table 5 shows the percentage of patients with changes in cholesterol and triglyc
 
 Table 5: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
-| Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
+| LaboratoryAnalyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
 | Total Cholesterol ≥240 mg/dL | Schizophrenia6 weeks duration | SEROQUEL XR | 718 | 67 (9%) |
 | Placebo | 232 | 21 (9%) |  |  |
@@ -189,7 +189,7 @@ Table 6 shows the percentage of patients in MDD adjunctive therapy trials with c
 
 Table 6: Percentage of Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels in MDD Adjunctive Therapy Trials by Dose
 
-| Laboratory Analyte | Treatment Arm6 weeks duration | N | Patients n (%) |
+| Laboratory Analyte | Treatment Arm6 weeks duration | N | Patientsn (%) |
 | --- | --- | --- | --- |
 | Cholesterol ≥ 240 mg/dL | SEROQUEL XR 150 mg | 223 | 41 (18%) |
 | SEROQUEL XR 300 mg | 197 | 26 (13%) |  |
@@ -356,7 +356,7 @@ Therefore, examination of the lens by methods adequate to detect cataract format
 
 In clinical trials quetiapine was not associated with a persistent increase in QT intervals.
 However, the QT effect was not systematically evaluated in a thorough QT study.
-In post marketing experience there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval [see Drug Interactions (7.1)].
+In post marketing experience there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval..
 
 The use of quetiapine should be avoided in combination with other drugs that are known to prolong QTc including Class 1A antiarrythmics (e.g., quinidine, procainamide) or Class III antiarrythmics (e.g., amiodarone, sotalol), antipsychotic medications (e.g., ziprasidone, chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
 
@@ -396,7 +396,7 @@ Table 11 shows the incidence of these shifts in short term placebo-controlled cl
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
-| 3.4% (37/1097) | 0.6% (4/651) | 0.7% (52/7218) | 0.1% (4/3668) | 0.5% (2/369) | 0.0% (0/113) | 0.2% (11/5673) | 0.0% (1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
+| 3.4%(37/1097) | 0.6%(4/651) | 0.7%(52/7218) | 0.1%(4/3668) | 0.5% (2/369) | 0.0% (0/113) | 0.2%(11/5673) | 0.0%(1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
 
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal shifts in T3 and TSH was 0.0 % for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0 % (1/3007) for placebo.
 

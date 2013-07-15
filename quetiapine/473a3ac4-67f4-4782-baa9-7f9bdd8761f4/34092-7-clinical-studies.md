@@ -84,7 +84,7 @@ The majority of patients in this trial taking SEROQUEL were dosed in a range bet
 
 Children and Adolescents (ages 10-17)
 
-The efficacy of SEROQUEL in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was extrapolated from a 3-week, double-blind, placebo-controlled, multicenter trial.
+The efficacy of SEROQUEL XR in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was extrapolated from a 3-week, double-blind, placebo-controlled, multicenter trial.
 Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n = 95), SEROQUEL 600 mg/day (n = 98), or placebo (n = 91).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
@@ -95,7 +95,7 @@ Table 28: Mania Trials
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
+| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
 | Study 1 | SEROQUEL XR (400-800 mg/day)Doses that are statistically significantly superior to placebo. | 28.8 (5.4) | -14.3 (0.9) | -3.8 (-5.7, -2.0) |
 | Placebo | 28.4 (5.1) | -10.5 (0.9) | -- |  |
 | Study 2 | SEROQUEL (200-800 mg/day) | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
@@ -138,7 +138,7 @@ Table 29: Depressive Episodes Associated with Bipolar Disorder
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
-| Study 6 | SEROQUEL (XR 300 mg/day)Doses that are statistically significantly superior to placebo. | 29.8 (5.2) | -17.4 (1.2) | -5.5 (-7.9, -3.2) |
+| Study 6 | SEROQUEL XR (300 mg/day)Doses that are statistically significantly superior to placebo. | 29.8 (5.2) | -17.4 (1.2) | -5.5 (-7.9, -3.2) |
 |  | Placebo | 30.1 (5.5) | -11.9 (1.2) | -- |
 | Study 7 | SEROQUEL (300 mg/day) | 30.3 (5.0) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |
 |  | SEROQUEL (600 mg/day) | 30.3 (5.3) | -16.7 (0.9) | -6.5 (-8.7, -4.3) |
@@ -182,7 +182,7 @@ Table 30: Major Depressive Disorder, Adjunctive Therapy to Antidepressants
 
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |  |  |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
 | Study 1 | SEROQUEL XR (150 mg/day) + AD | 27.2 (5.2) | -13.6 (0.8) | -1.9 (-3.9, 0.1) |
 |  | SEROQUEL XR (300 mg/day)Doses that are statistically significantly superior to placebo. + AD | 27.6 (5.0) | -14.7 (0.8) | -3.0 (-5.0, -1.0) |
 |  | Placebo + AD | 27.6 (5.5) | -11.7 (0.8) | -- |

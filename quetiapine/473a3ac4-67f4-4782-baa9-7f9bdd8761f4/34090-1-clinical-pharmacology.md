@@ -82,7 +82,7 @@ In vitro studies using human liver microsomes revealed that the cytochrome P450 
 
 Age
 
-Oral clearance of quetiapine was reduced by 40% in elderly patients (> 65 years, n = 9) compared to young patients (n = 12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
+Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n = 9) compared to young patients (n = 12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
 
 Gender
 

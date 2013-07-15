@@ -70,7 +70,7 @@ Table 12: Adverse Reactions in 6-Week Placebo-Controlled Clinical Trials for the
 | Tachycardia | 3% | 1% |
 | Fatigue | 3% | 2% |
 | Hypotension | 3% | 1% |
-| Vision blurred | 2% |  |
+| Vision blurred | 2% | 1% |
 | Toothache | 2% | 0% |
 | Increased Appetite | 2% | 0% |
 | Muscle Spasms | 2% | 1% |
@@ -181,7 +181,7 @@ Table 15: Adverse Reactions in Placebo-Controlled Adjunctive Therapy Clinical Tr
 | Increased Appetite | 3% | 5% | 3% |
 | Back pain | 3% | 3% | 1% |
 | Vertigo | 2% | 2% | 1% |
-| Vision Blurred | 2% |  |  |
+| Vision Blurred | 2% | 1% | 1% |
 | Dyspepsia | 2% | 3% | 2% |
 | Influenza | 2% | 1% | 0% |
 | Fall | 2% | 0% | 1% |
@@ -318,7 +318,7 @@ Table 20: Adverse Reactions in a 6-Week Placebo-Controlled Clinical Trial for th
 | Anorexia | 3% | 1% | 0% |
 | Tooth Abscess | 3% | 1% | 0% |
 | Dyskinesia | 3% | 0% | 0% |
-| Espistaxis | 3% | 0% | 1% |
+| Epistaxis | 3% | 0% | 1% |
 | Muscle Rigidity | 3% | 0% | 0% |
 
 Bipolar I Mania (Children and Adolescents 10 to 17 years old)
@@ -448,4 +448,4 @@ Mean increases in heart rate were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 
 The following adverse reactions were identified during post approval use of SEROQUEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).

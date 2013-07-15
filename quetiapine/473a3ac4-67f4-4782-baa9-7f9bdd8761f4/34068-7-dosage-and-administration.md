@@ -13,7 +13,7 @@ SEROQUEL XR should be administered once daily, preferably in the evening.
 The recommended initial dose, titration, dose range and maximum SEROQUEL XR dose for each approved indication is displayed in Table 1 below.
 After initial dosing, adjustments can be made upwards or downwards, if necessary, depending upon the clinical response and tolerability of the patient [see Clinical Studies (14.1, 14.2 and 14.3)].
 
-Table 1 Recommended Dosing for SEROQUEL XR
+Table 1: Recommended Dosing for SEROQUEL XR
 
 | Indication | Initial Dose and Titration | Recommended Dose | Maximum Dose |
 | --- | --- | --- | --- |

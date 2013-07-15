@@ -1,8 +1,10 @@
 # MEDICATION GUIDE
 
-- SEROQUEL XR (SER-oh-kwell)
-  - (quetiapine fumarate)
-- Extended-Release Tablets
+SEROQUEL XR (SER-oh-kwell)
+
+(quetiapine fumarate)
+
+Extended-Release Tablets
 
 Read this Medication Guide before you start taking SEROQUEL XR and each time you get a refill.
 There may be new information.
@@ -86,7 +88,7 @@ What is SEROQUEL XR?
 
 SEROQUEL XR is a prescription medicine used to treat:
 
-• schizophrenia in adults
+• schizophrenia in people 13 years of age or older
 
 • bipolar disorder in adults, including:
 
@@ -94,9 +96,11 @@ SEROQUEL XR is a prescription medicine used to treat:
 - o manic episodes associated with bipolar I disorder alone or with lithium or divalproex
 - o long-term treatment of bipolar I disorder with lithium or divalproex
 
+• manic episodes associated with bipolar I disorder in children ages 10 to 17 years old.
+
 • major depressive disorder as add-on treatment with antidepressant medicines when your healthcare provider determines that 1 antidepressant alone is not enough to treat your depression.
 
-It is not known if SEROQUEL XR is safe and effective in children under 10 years of age with bipolar mania.
+It is not known if SEROQUEL XR is safe and effective in children under 10 years of age.
 
 Who should not take SEROQUEL XR?
 
@@ -236,11 +240,11 @@ These may be signs of a serious condition.
 Tardive dyskinesia may not go away, even if you stop taking SEROQUEL XR.
 Tardive dyskinesia may also start after you stop taking SEROQUEL XR.
 
-• decreased blood pressure orthostatic hypotension, including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
+• decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
 
 • increases in blood pressure in children and teenagers.
 Your healthcare provider should check blood pressure in children and adolescents before starting SEROQUEL XR and during therapy.
-SEROQUEL XR is not approved for patients under 18 years of age.
+SEROQUEL XR is not approved for patients under 10 years of age.
 
 • low white blood cell count
 
@@ -251,6 +255,10 @@ SEROQUEL XR is not approved for patients under 18 years of age.
 • abnormal thyroid tests: Your healthcare provider may do blood tests to check your thyroid hormone level.
 
 • increases in prolactin levels: Your healthcare provider may do blood tests to check your prolactin levels.
+
+• sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
+
+• increased body temperature
 
 • difficulty swallowing
 
@@ -320,4 +328,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised: April 2013
+Revised: July 2013
