@@ -2,12 +2,12 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.2)]
-- Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)]
-- Withdrawal effects [see Warnings and Precautions (5.4)]
-- CNS-depressant effects [see Warnings and Precautions (5.5)]
+- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
+- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
+- Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
+- Withdrawal effects [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical trials experience
+## 6.1 Clinical Trials Experience
 
 Associated with discontinuation of treatment: Approximately 4% of 1,701 patients who received zolpidem at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
 Reactions most commonly associated with discontinuation from U.S. trials were daytime drowsiness (0.5%), dizziness (0.4%), headache (0.5%), nausea (0.6%), and vomiting (0.5%).
@@ -21,6 +21,7 @@ Events reported by investigators were classified utilizing a modified World Heal
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
 However, the cited figures provide the physician with a basis for estimating the relative contribution of drug and nondrug factors to the incidence of side effects in the population studied.
+
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
@@ -76,6 +77,7 @@ Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinic
 | * Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo. |  |  |
 
 Dose relationship for adverse reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
+
 Adverse event incidence across the entire preapproval database: Zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals experiencing treatment-emergent adverse events, similar types of untoward events were grouped into a smaller number of standardized event categories and classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms.
@@ -96,9 +98,12 @@ Rare: abnormal gait, abnormal thinking, aggressive reaction, apathy, appetite in
 Gastrointestinal system: Frequent: dyspepsia, hiccup, nausea.
 Infrequent: anorexia, constipation, dysphagia, flatulence, gastroenteritis, vomiting.
 Rare: enteritis, eructation, esophagospasm, gastritis, hemorrhoids, intestinal obstruction, rectal hemorrhage, tooth caries.
+
 Hematologic and lymphatic system: Rare: anemia, hyperhemoglobinemia, leukopenia, lymphadenopathy, macrocytic anemia, purpura, thrombosis.
+
 Immunologic system: Infrequent: infection.
 Rare: abscess herpes simplex herpes zoster, otitis externa, otitis media.
+
 Liver and biliary system: Infrequent: abnormal hepatic function, increased SGPT.
 Rare: bilirubinemia, increased SGOT.
 Metabolic and nutritional: Infrequent: hyperglycemia, thirst.
@@ -108,9 +113,9 @@ Infrequent: arthritis.
 Rare: arthrosis, muscle weakness, sciatica, tendinitis.
 Reproductive system: Infrequent: menstrual disorder, vaginitis.
 Rare: breast fibroadenosis, breast neoplasm, breast pain.
-Respiratory system: Frequent: upper respiratory infection.
+Respiratory system: Frequent: upper respiratory infection, lower respiratory infection.
 Infrequent: bronchitis, coughing, dyspnea, rhinitis.
-Rare: bronchospasm, epistaxis, hypoxia, laryngitis, pneumonia.
+Rare: bronchospasm, respiratory depression, epistaxis, hypoxia, laryngitis, pneumonia.
 Skin and appendages: Infrequent: pruritus.
 Rare: acne, bullous eruption, dermatitis, furunculosis, injection-site inflammation, photosensitivity reaction, urticaria.
 Special senses: Frequent: diplopia, vision abnormal.
