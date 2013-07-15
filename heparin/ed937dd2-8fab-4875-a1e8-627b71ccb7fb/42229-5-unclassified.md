@@ -6,12 +6,12 @@ PRESERVED WITH PARABENS.
 
 Manufactured by:
 
-APP Pharmaceuticals, LLC
+Fresenius Kabi USA, LLC
 
 Schaumburg, IL 60173
 
 For Product Inquiry: 1-800-551-7176
 
-451186B
+451186C
 
-Revised: February 2011
+Revised: March 2013

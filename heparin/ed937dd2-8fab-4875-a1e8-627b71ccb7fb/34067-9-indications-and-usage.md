@@ -10,7 +10,7 @@ Prophylaxis and treatment of pulmonary embolism;
 
 Atrial fibrillation with embolization;
 
-Diagnosis and treatment of acute and chronic consumptive coagulopathies disseminated intravascular coagulation);
+Diagnosis and treatment of acute and chronic consumptive coagulopathies (disseminated intravascular coagulation);
 
 Prevention of clotting in arterial and cardiac surgery;
 

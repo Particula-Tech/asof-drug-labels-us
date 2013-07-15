@@ -17,4 +17,4 @@
    Blood.
    2003;102(11):127b.
 
-Novation and Novaplus are trademarks of Novation, LLC.
+N+ and NOVAPLUS are registered trademarks of Novation, LLC.
