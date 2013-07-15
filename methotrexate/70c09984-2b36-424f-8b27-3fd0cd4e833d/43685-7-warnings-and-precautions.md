@@ -2,12 +2,14 @@
 
 SEE BOXED WARNINGS.
 
+Methotrexate formulations and diluents containing preservatives must not be used for intrathecal or high dose methotrexate therapy.
+
 # PRECAUTIONS
 
 ## General
 
 Methotrexate has the potential for serious toxicity.
-(See Boxed WARNINGS.)
+(See BOXED WARNINGS.)
 Toxic effects may be related in frequency and severity to dose or frequency of administration but have been seen at all doses.
 Because they can occur at any time during therapy, it is necessary to follow patients on methotrexate closely.
 Most adverse reactions are reversible if detected early.
@@ -24,6 +26,7 @@ Due to diminished hepatic and renal function as well as decreased folate stores 
 Patients should be informed of the early signs and symptoms of toxicity, of the need to see their physician promptly if they occur, and the need for close follow-up, including periodic laboratory tests to monitor toxicity.
 
 Both the physician and pharmacist should emphasize to the patient that the recommended dose is taken weekly in rheumatoid arthritis and psoriasis, and that mistaken daily use of the recommended dose has led to fatal toxicity.
+Patients should be encouraged to read the accompanying Patient Information Leaflet.
 Prescriptions should not be written or refilled on a PRN basis.
 
 Patients should be informed of the potential benefit and risk in the use of methotrexate.
@@ -111,7 +114,7 @@ Serum methotrexate levels may also be helpful.
 Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity.
 In chronic use situations, certain toxicities may be reduced by folate supplementation.
 Post-marketing experience suggests that the occurrence of bone marrow suppression, thrombocytopenia, and pneumonitis may increase with age.
-See Boxed WARNINGS and ADVERSE REACTIONS.
+See BOXED WARNINGS and ADVERSE REACTIONS.
 
 ## Organ System Toxicity
 
@@ -185,7 +188,7 @@ Close attention to renal function including adequate hydration, urine alkaliniza
 
 ### Skin
 
-Severe, occasionally fatal, dermatologic reactions, including toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, have been reported in children and adults, within days of oral methotrexate administration.
+Severe, occasionally fatal, dermatologic reactions, including toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, have been reported in children and adults, within days of oral, intramuscular, intravenous or intrathecal methotrexate administration.
 Reactions were noted after single or multiple, low, intermediate or high doses of methotrexate in patients with neoplastic and non-neoplastic diseases.
 
 ### Other Precautions
