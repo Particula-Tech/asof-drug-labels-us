@@ -13,6 +13,6 @@ Patients should be advised:
   Patients should also be advised to inform their physicians prescribing a new medication that they are taking TRICOR.
 - to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
 
-Manufactured for Abbott Laboratories, North Chicago, IL 60064, U.S.A. by Fournier Laboratories Ireland Limited, Anngrove, Carrigtwohill Co. Cork, Ireland.
+Manufactured for AbbVie Inc., North Chicago, IL 60064, U.S.A. by Fournier Laboratories Ireland Limited, Anngrove, Carrigtwohill Co. Cork, Ireland.
 
 03-A774 February, 2013
