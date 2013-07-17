@@ -1,8 +1,11 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Sterile Ophthalmic Solution ISTALOL is a clear, colorless to light yellow solution.
-ISTALOL Ophthalmic Solution, 0.5% supplied in a white LDPE bottle with 15 mm LDPE yellow cap and 15 mm LDPE white dropper tip as follows:
+Istalol (timolol maleate ophthalmic solution) 0.5% is supplied in white LDPE bottles with 15 mm LDPE yellow cap and 15 mm LDPE white dropper tips as follows:
 
-NDC 24208-004-03 5 mL in 10 mL container
+5 mL in 10mL container (NDC 24208-004-03)
 
-NDC 24208-004-01 2.5 mL in 7.5 mL container
+2.5 mL in 7.5mL container (NDC 24208-004-01)
+
+STORAGE
+
+Store at 15º – 25ºC (59º – 77ºF).
