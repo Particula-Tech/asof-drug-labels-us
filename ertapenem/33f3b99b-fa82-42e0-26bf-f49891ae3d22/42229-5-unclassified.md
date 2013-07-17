@@ -6,6 +6,6 @@ Copyright © 2001, 2007, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck &
 
 US Patent Nos.: 5,478,820; 5,952,323; 5,652,233
 
-Revised 02/2012
+Revised 06/2013
 
-6045317 516503Z/290212-1/3843/3845
+uspi-mk0826-i-1306r018
