@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019452"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Royal Pharmaceuticals",
+  "package_ndcs": [
+    "68791-101-04"
+  ],
+  "products": [
+    {
+      "form": "OIL",
+      "generic": "fluocinolone acetonide",
+      "name": "Derma-Smoothe/FS"
+    }
+  ],
+  "setid": "bc61c619-a71c-46f5-80f1-9e9ee71134aa",
+  "source": "dailymed"
+}
