@@ -325,20 +325,19 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 2013, ALL RIGHTS RESERVED
 
-* The brands listed are trademarks of their respective owners and are not trademarks of Abbott Laboratories.
-The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
+* The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
 Rev.
 01/2013
 
 KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir
 
-Manufactured by Abbott Pharmaceuticals PR Ltd., Barceloneta, PR 00617
+Manufactured by AbbVie LTD, Barceloneta, PR 00617
 
-for Abbott Laboratories, North Chicago, IL 60064 USA
+for AbbVie Inc., North Chicago, IL 60064 USA
 
 KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
 
-Abbott Laboratories, North Chicago, IL 60064 USA
+AbbVie Inc., North Chicago, IL 60064 USA
 
-03-A726 January 2013
+03-A625 January 2013

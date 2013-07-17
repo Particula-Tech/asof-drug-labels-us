@@ -84,10 +84,10 @@ Patients should consult their physician if they experience symptoms such as dizz
 
 KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir
 
-Manufactured by Abbott Pharmaceuticals PR Ltd., Barceloneta, PR 00617
+Manufactured by AbbVie LTD, Barceloneta, PR 00617
 
-for Abbott Laboratories, North Chicago, IL 60064 USA
+for AbbVie Inc., North Chicago, IL 60064 USA
 
 KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
 
-Abbott Laboratories, North Chicago, IL 60064 USA
+AbbVie Inc., North Chicago, IL 60064 USA

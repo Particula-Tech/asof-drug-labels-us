@@ -8,8 +8,9 @@ ALERT: Find out about medicines that should NOT be taken with Kaletra®
 
 Attention Pharmacist: Do not cover ALERT box with pharmacy label.
 
-Dispense the accompanying Medication Guide to each patient.
-Rx only Abbott
+Dispense the accompanying Medication Guide to each patient
+
+Rx only abbvie
 
 NDC 0074–6799–22
 
@@ -22,13 +23,32 @@ ALERT: Find out about medicines that should NOT be taken with Kaletra®
 Attention Pharmacist: Do not cover ALERT box with pharmacy label.
 
 Dispense the accompanying Medication Guide to each patient.
-Rx only Abbott
+
+Rx only abbvie
+
+NDC 0074–6799–30
+
+Kaletra®(Lopinavir/Ritonavir) Tablets
+
+200 mg / 50 mg 120 Tablets
+
+Professional Sample — Not for Sale
+
+ALERT: Find out about medicines that should NOT be taken with Kaletra®
+
+Attention Pharmacist: Do not cover ALERT box with pharmacy label.
+
+Dispense the accompanying Medication Guide to each patient.
+
+Rx only abbvie
 
 NDC 0074–3956–46
 
 Kaletra®Lopinavir/Ritonavir Oral Solution
 
-80 mg /20 mg per mL 160 mL
+80 mg /20 mg per mL
+
+160 mL
 
 ALERT: Find out about medicines that should NOT be taken with KALETRA
 
@@ -37,4 +57,4 @@ Store and dispense in original container.
 
 Dispense the enclosed Medication Guide to each patient.
 
-Rx only Abbott
+Rx only abbvie

@@ -4,7 +4,7 @@ KALETRA® (lopinavir/ritonavir) Film-Coated tablets and Oral Solution are availa
 
 ## 16.1 KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir
 
-Yellow film-coated ovaloid tablets debossed with the corporate Abbott “A” logo and the Abbo-Code KA:
+Yellow film-coated ovaloid tablets debossed with the “a” logo and the code KA:
 
 Bottles of 120 tablets ….…………… (NDC 0074-6799-22)
 
@@ -16,7 +16,7 @@ For patient use: exposure of this product to high humidity outside the original 
 
 ## 16.2 KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir
 
-Pale yellow film-coated ovaloid tablets debossed with the corporate Abbott “A” logo and the Abbo-Code KC:
+Pale yellow film-coated ovaloid tablets debossed with the “a” logo and the code KC:
 
 Bottles of 60 tablets ….…………… (NDC 0074-0522-60)
 
