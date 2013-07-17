@@ -63,12 +63,12 @@ Elimination half-life is only slightly (~20%) prolonged in the elderly.
 These differences are not considered clinically significant.
 (See PRECAUTIONS, Geriatric Use.)
 
-### Renal Impairment
+### Patients with Renal Impairment
 
 In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged and dosage adjustments may be required.
 (See DOSAGE AND ADMINISTRATION.)
 
-### Hepatic Impairment
+### Patients with Hepatic Impairment
 
 In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
 However, the kinetics of ciprofloxacin in patients with acute hepatic insufficiency have not been fully elucidated.

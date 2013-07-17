@@ -8,7 +8,8 @@ Tendinitis and tendon rupture in the rotator cuff (the shoulder), the hand, the 
 The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 Factors, in addition to age and corticosteroid use, that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
 Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
-Tendon rupture can occur during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
+Inflammation and tendon rupture can occur, sometimes bilaterally, even within the first 48 hours, during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
+CIPRO IV should be used with caution in patients with a history of tendon disorders.
 CIPRO IV should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
 
@@ -37,13 +38,23 @@ Other serious and sometimes fatal events, some due to hypersensitivity, and some
 These events may be severe and generally occur following the administration of multiple doses.
 Clinical manifestations may include one or more of the following:
 
-- Fever, rash, or severe dermatologic reactions (for example, toxic epidermal necrolysis, Stevens-Johnson syndrome);
-- Vasculitis; arthralgia; myalgia; serum sickness;
-- Allergic pneumonitis; Interstitial nephritis; acute renal insufficiency or failure;
-- Hepatitis; jaundice; acute hepatic necrosis or failure;
-- Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
+- •Fever, rash, or severe dermatologic reactions (for example, toxic epidermal necrolysis, Stevens-Johnson syndrome);
+- •Vasculitis; arthralgia; myalgia; serum sickness;
+- •Allergic pneumonitis; Interstitial nephritis; acute renal insufficiency or failure;
+- •Hepatitis; jaundice; acute hepatic necrosis or failure;
+- •Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
 The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (see PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
+
+## Hepatobiliary System
+
+Cases of severe hepatotoxicity, includinghepatic necrosis, life-threatening hepatic failure, and fatal events,have been reported with ciprofloxacin.
+Acute liver injury is rapid in onset (range 1-39 days), and is often associated with hypersensitivity.
+The pattern of injury can be hepatocellular, cholestatic or mixed.
+Most patients with fatal outcomes were older than 55 years old.
+In the event of any signs and symptoms of hepatitis (such as anorexia, jaundice, dark urine, pruritus, or tender abdomen), treatment should be discontinued immediately (see ADVERSE REACTIONS).
+
+There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with ciprofloxacin (see ADVERSE REACTIONS)
 
 ## Theophylline
 
@@ -55,10 +66,13 @@ If concomitant use cannot be avoided, serum levels of theophylline should be mon
 ## Central Nervous System Effects
 
 Convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis have been reported in patients receiving fluoroquinolones, including ciprofloxacin.
-Ciprofloxacin may also cause central nervous system (CNS) events including: dizziness, confusion, tremors, hallucinations, depression, and, rarely, suicidal thoughts or acts.
+Ciprofloxacin may also cause central nervous system (CNS) events including: dizziness, confusion, tremors, hallucinations, depression, and, rarely, psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
 These reactions may occur following the first dose.
-If these reactions occur in patients receiving ciprofloxacin, the drug should be discontinued and appropriate measures instituted.
-As with all fluoroquinolones, ciprofloxacin should be used with caution in patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, epilepsy), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
+If these reactions occur in patients receiving ciprofloxacin, the drug should be discontinued, patients should be advised to inform their healthcare provider immediately and appropriate measures instituted.
+As with all fluoroquinolones, ciprofloxacin should be used with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
+CIPRO IV should only be used where the benefits of treatment exceed the risks, since these patients are endangered because of possible undesirable CNS side effects.
+Cases of status epilepticus have been reported.
+If seizures occur, ciprofloxacin should be discontinued.
 (See PRECAUTIONS: General, Information for Patients, Drug Interactions and ADVERSE REACTIONS.)
 
 ## Clostridium Difficile-Associated Diarrhea
@@ -67,7 +81,7 @@ Clostridium difficile associated diarrhea (CDAD) has been reported with use of n
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+Hypertoxin producing isolates of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
@@ -78,6 +92,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ciprofloxacin.
 Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness, or is found to have deficits in light touch, pain, temperature, position sense, vibratory sensation, and/or motor strength in order to prevent the development of an irreversible condition.
+Patients treated with CIPRO IV should be advised to inform their healthcare provider prior to continuing treatment if symptoms of neuropathy develop.
 
 ## Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
@@ -94,13 +109,14 @@ Related quinolone-class drugs also produce erosions of cartilage of weight-beari
 
 Some fluoroquinolones, including CIPRO IV, have been associated with prolongation of the QT interval on the electrocardiogram and infrequent cases of arrhythmia.
 Rare cases of torsade de pointes have been spontaneously reported during postmarketing surveillance in patients receiving fluoroquinolones, including ciprofloxacin.
-CIPRO IV should be avoided in patients with known prolongation of the QT interval, patients with uncorrected hypokalemia, and patients receiving Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
-Elderly patients may be more susceptible to drug-associated effects on the QT interval (See PRECAUTIONS, Drug Interactions and Geriatric Use).
+CIPRO IV should be avoided in patients with known prolongation of the QT interval, risk factors for QT prolongation or torsade de pointes (for example, congenital long QT syndrome, uncorrected electrolyte imbalance, such as hypokalemia or hypomagnesemia and cardiac disease, such as heart failure, myocardial infarction, or bradycardia), and patients receiving Class IA antiarrhythmic agents (quinidine, procainamide), or Class III antiarrhythmic agents (amiodarone, sotalol), tricyclic antidepressants, macrolides, and antipsychotics)..
+Elderly patients may also be more susceptible to drug-associated effects on the QT interval.
+(See PRECAUTIONS, Drug Interactions and Geriatric Use).
 
 ## Cytochrome P450 (CYP450)
 
 Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway.
-Coadministration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, tizanidine) results in increased plasma concentrations of the coadministered drug and could lead to clinically significant pharmacodynamic side effects of the coadministered drug.
+Coadministration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine) results in increased plasma concentrations of the coadministered drug and could lead to clinically significant pharmacodynamic side effects of the coadministered drug.
 (See PRECAUTIONS, Drug Interactions.)
 
 # PRECAUTIONS
@@ -142,32 +158,32 @@ Prescribing CIPRO IV in the absence of a proven or strongly suspected bacterial 
 
 Patients should be advised:
 
-- To contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO IV treatment.
+- •To contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO IV treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
-- That fluoroquinolones like CIPRO IV may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+- •That fluoroquinolones like CIPRO IV may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
   Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
-- That antibacterial drugs including CIPRO IV should only be used to treat bacterial infections.
+- •That antibacterial drugs including CIPRO IV should only be used to treat bacterial infections.
   They do not treat viral infections (for example, the common cold).
   When CIPRO IV is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
   Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by CIPRO IV or other antibacterial drugs in the future.
-- That ciprofloxacin may be associated with hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other allergic reaction.
-- That photosensitivity/phototoxicity has been reported in patients receiving quinolones.
+- •That ciprofloxacin may be associated with hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other allergic reaction.
+- •That photosensitivity/phototoxicity has been reported in patients receiving quinolones.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
-- That ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
-- That ciprofloxacin increases the effects of tizanidine (Zanaflex®).
+- •That ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
+- •That ciprofloxacin increases the effects of tizanidine (Zanaflex®).
   Patients should not use ciprofloxacin if they are already taking tizanidine.
-- That ciprofloxacin may increase the effects of theophylline and caffeine.
+- •That ciprofloxacin may increase the effects of theophylline and caffeine.
   There is a possibility of caffeine accumulation when products containing caffeine are consumed while taking ciprofloxacin.
-- That peripheral neuropathies have been associated with ciprofloxacin use.
+- •That peripheral neuropathies have been associated with ciprofloxacin use.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
-- That convulsions have been reported in patients taking quinolones, including ciprofloxacin, and to notify their physician before taking this drug if there is a history of this condition.
-- That ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
+- •That convulsions have been reported in patients taking quinolones, including ciprofloxacin, and to notify their physician before taking this drug if there is a history of this condition.
+- •That ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
   Parents should inform their child’s physician if the child has a history of joint-related problems before taking this drug.
   Parents of pediatric patients should also notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy.
   (See WARNINGS, PRECAUTIONS, Pediatric Use and ADVERSE REACTIONS.)
-- That diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+- •That diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
 
@@ -198,9 +214,12 @@ Some quinolones, including ciprofloxacin, have been associated with transient el
 
 ### Phenytoin
 
-Altered serum levels of phenytoin (increased and decreased) have been reported in patients receiving concomitant ciprofloxacin.
+Altered serum levels of phenytoin (increased and decreased) have been reported in patients receiving concomitant ciprofloxacin..
+To avoid the loss of seizure control associated with decreased phenytoin levels, and to prevent phenytoin overdose-related undesirable effects when ciprofloxacin is discontinued in patients receiving both agents, monitoring of phenytoin therapy, including phenytoin serum concentration measurements, is recommended during and shortly after co-administration of CIPRO IV with phenytoin.
 
-### Glyburide
+Hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents, mainly sulfonylureas (for example, glyburide, glimepiride), were co-administered, presumably by intensifying the action of the oral antidiabetic agent (see ADVERSE REACTIONS).
+The concomitant administration of ciprofloxacin with glyburide has, on rare occasions, resulted in severe hypoglycemia.
+Fatalities have been reported.
 
 The concomitant administration of ciprofloxacin with the sulfonylurea glyburide has, in some patients, resulted in severe hypoglycemia.
 Fatalities have been reported.
@@ -257,9 +276,9 @@ Careful monitoring of clozapine associated adverse effects and and appropriate a
 Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
 Therefore, sildenafil should be used with caution when co-administered with ciprofloxacin.
 
-### Class IA or III Antiarrhythmics
+### Drugs known to prolong QT interval
 
-Precaution should be taken when using ciprofloxacin together with class IA or III antiarrhythmics as ciprofloxacin may have an additive effect on the QT interval (see PRECAUTIONS, Geriatric Use).
+Precaution should be taken when using ciprofloxacin concomitantly with drugs known to prolong the QT interval (for example, class IA or III antiarrhythmics, tricyclic antidepressants, macrolides, antipsychotics) as ciprofloxacin may have an additive effect on the QT interval (see PRECAUTIONS, Geriatric Use).
 
 ### Piperacillin Sodium
 
@@ -299,7 +318,7 @@ Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic o
 Results from photo co-carcinogenicity testing indicate that ciprofloxacin does not reduce the time to appearance of UV-induced skin tumors as compared to vehicle control.
 Hairless (Skh-1) mice were exposed to UVA light for 3.5 hours five times every two weeks for up to 78 weeks while concurrently being administered ciprofloxacin.
 The time to development of the first skin tumors was 50 weeks in mice treated concomitantly with UVA and ciprofloxacin (mouse dose approximately equal to maximum recommended human dose based upon mg/m2), as opposed to 34 weeks when animals were treated with both UVA and vehicle.
-The times to development of skin tumors ranged from 16–32 weeks in mice treated concomitantly with UVA and other quinolones.3
+The times to development of skin tumors ranged from 16–32 weeks in mice treated concomitantly with UVA and other quinolones.5
 
 In this model, mice treated with ciprofloxacin alone did not develop skin or systemic tumors.
 There are no data from similar models using pigmented mice and/or fully haired mice.
@@ -308,30 +327,6 @@ The clinical significance of these findings to humans is unknown.
 Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/kg (approximately 0.7-times the highest recommended therapeutic dose based upon mg/m2) revealed no evidence of impairment.
 
 ## Pregnancy:
-
-### Teratogenic Effects
-
-#### Pregnancy Category C
-
-There are no adequate and well-controlled studies in pregnant women.
-An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS – the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data=fair), but the data are insufficient to state that there is no risk.7
-
-A controlled prospective observational study followed 200 women exposed to fluoroquinolones (52.5% exposed to ciprofloxacin and 68% first trimester exposures) during gestation.8 In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations.
-The reported rates of major congenital malformations were 2.2% for the fluoroquinolone group and 2.6% for the control group (background incidence of major malformations is 1-5%).
-Rates of spontaneous abortions, prematurity and low birth weight did not differ between the groups and there were no clinically significant musculoskeletal dysfunctions up to one year of age in the ciprofloxacin exposed children.
-
-Another prospective follow-up study reported on 549 pregnancies with fluoroquinolone exposure (93% first trimester exposures).9 There were 70 ciprofloxacin exposures, all within the first trimester.
-The malformation rates among live-born babies exposed to ciprofloxacin and to fluoroquinolones overall were both within background incidence ranges.
-No specific patterns of congenital abnormalities were found.
-The study did not reveal any clear adverse reactions due to in utero exposure to ciprofloxacin.
-
-No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.7,8 However, these small postmarketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
-Ciprofloxacin should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother (see WARNINGS).
-
-Reproduction studies have been performed in rats and mice using oral doses up to 100 mg/kg (0.6 and 0.3 times the maximum daily human dose based upon body surface area, respectively) and have revealed no evidence of harm to the fetus due to ciprofloxacin.
-In rabbits, oral ciprofloxacin dose levels of 30 and 100 mg/kg (approximately 0.4- and 1.3-times the highest recommended therapeutic dose based upon mg/m2) produced gastrointestinal toxicity resulting in maternal weight loss and an increased incidence of abortion, but no teratogenicity was observed at either dose level.
-After intravenous administration of doses up to 20 mg/kg (approximately 0.3-times the highest recommended therapeutic dose based upon mg/m2) no maternal toxicity was produced and no embryotoxicity or teratogenicity was observed.
-(See WARNINGS.)
 
 ## Nursing Mothers
 
