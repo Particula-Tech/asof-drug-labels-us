@@ -4,13 +4,7 @@ Folic Acid Tablets, USP, 1 mg, are supplied as round, yellow tablets imprinted â
 
 They are available as follows:
 
-Bottles of 10: NDC 65162-361-01
-
-Bottles of 100: NDC 65162-361-10
-
-Bottles of 500: NDC 65162-361-50
-
-Bottles of 1000: NDC 65162-361-11
+Bottles of 10: NDC 65162-361-01 Bottles of 100: NDC 65162-361-10 Bottles of 500: NDC 65162-361-50 Bottles of 1000: NDC 65162-361-11
 
 Dispense in well-closed container with child-resistant closure.
 
