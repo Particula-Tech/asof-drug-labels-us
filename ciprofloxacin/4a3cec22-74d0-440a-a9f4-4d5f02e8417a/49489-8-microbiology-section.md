@@ -19,7 +19,7 @@ Ciprofloxacin has been shown to be active against most isolates of the following
 
 ## Gram-positive bacteria
 
-Enterococcus faecalis
+Enterococcus faecalis (vancomycin-susceptible isolates only)
 
 Staphylococcus saprophyticus
 
@@ -39,7 +39,7 @@ However, the efficacy of ciprofloxacin in treating clinical infections due to th
 
 ## Gram-negative bacteria
 
-- Citrobacter koseri Morganella morganii
+- Citrobacter koseri (diversus) Morganella morganii
 - Citrobacter freundii Proteus vulgaris
 - Edwardsiella tarda Providencia rettgeri
 - Enterobacter aerogenes Providencia stuartii
@@ -61,7 +61,7 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 | Table 1: Susceptibility Test Interpretive Criteria for Ciprofloxacin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Species | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
+| Bacteria | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
 | S | I | R | S | I | R |  |
 | Enterobacteriaceae | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
 | Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
@@ -69,18 +69,18 @@ These reports should aid the physician in selecting an antibacterial drug produc
 | Staphylococcus saprophyticus | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
 | S=Susceptible, I=Intermediate, and R=Resistant. |  |  |  |  |  |  |
 
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
+A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone, which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-- •Quality Control: Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.1,2 For dilution technique, standard ciprofloxacin powder should provide the MIC values according to criteria outlined in Table 2.
-  For diffusion technique, the 5 mcg ciprofloxacin disk should provide the zone diameters outlined in Table 2.
+- •Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 2.
+  For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 2 should be achieved.
 
-| Table 2: Quality Control for Susceptibility Testing of Ciprofloxacin |  |  |
+| Table 2: Acceptable Quality Control Ranges for Susceptibility Testing of Ciprofloxacin |  |  |
 | --- | --- | --- |
-| Strains | MIC range (mcg/mL) | Zone Diameter (mm) |
+| Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
 | Enterococcus faecalisATCC 29212 | 0.25–2 | - |
 | Escherichia coli ATCC 25922 | 0.004–0.015 | 30–40 |
 | Pseudomonas aeruginosaATCC 27853 | 0.25–1.0 | 25–33 |

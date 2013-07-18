@@ -60,14 +60,14 @@ Elimination half-life is only slightly (~20%) prolonged in the elderly.
 These differences are not considered clinically significant.
 (See PRECAUTIONS, Geriatric Use.)
 
-### Renal Impairment
+### Patients with Renal Impairment
 
 In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
 No dose adjustment is required for patients with uncomplicated urinary tract infections receiving 500 mg CIPRO XR.
 For complicated urinary tract infection and acute uncomplicated pyelonephritis, where 1000 mg is the appropriate dose, the dosage of CIPRO XR should be reduced to CIPRO XR 500 mg q24h in patients with creatinine clearance equal to or below 30 mL/min.
 (See DOSAGE AND ADMINISTRATION.)
 
-### Hepatic Impairment
+### Patients withHepatic Impairment
 
 In studies in patients with stable chronic cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
 The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, however, have not been fully elucidated.

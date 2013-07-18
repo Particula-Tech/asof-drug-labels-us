@@ -1,12 +1,12 @@
 # INDICATIONS AND USAGE
 
-CIPRO XR is indicated only for the treatment of urinary tract infections, including acute uncomplicated pyelonephritis, caused by susceptible strains of the designated microorganisms as listed below.
+CIPRO XR is indicated only for the treatment of urinary tract infections, including acute uncomplicated pyelonephritis, caused by susceptible isolates of the designated microorganisms as listed below.
 CIPRO XR and ciprofloxacin immediate-release tablets are not interchangeable.
 Please see DOSAGE AND ADMINISTRATION for specific recommendations.
 
-Uncomplicated Urinary Tract Infections (Acute Cystitis) caused by Escherichia coli, Proteus mirabilis, Enterococcus faecalis, or Staphylococcus saprophyticus a.
+Uncomplicated Urinary Tract Infections (Acute Cystitis) caused by Escherichia coli, Proteus mirabilis, vancomycin-susceptible Enterococcus faecalis, or Staphylococcus saprophyticus a.
 
-Complicated Urinary Tract Infections caused by Escherichia coli, Klebsiellapneumoniae, Enterococcus faecalis, Proteus mirabilis, or Pseudomonas aeruginosa*.
+Complicated Urinary Tract Infections caused by Escherichia coli, Klebsiellapneumoniae, vancomycin-susceptible Enterococcus faecalis, Proteus mirabilis, or Pseudomonas aeruginosa*.
 
 Acute Uncomplicated Pyelonephritis caused by Escherichia coli.
 
