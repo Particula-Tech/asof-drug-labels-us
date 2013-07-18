@@ -33,7 +33,7 @@ ADULT DOSAGE GUIDELINES
 | Gonococcal Infections |  |  |  |  |
 | Inhalational anthrax |  | 500 mg | q 12 h | 60 days |
 | (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure.** |  |  |  |  |
-| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax, Additional Information. |  |  |  |  |
+| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.6 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax, Additional Information. |  |  |  |  |
 
 ## Conversion of IV to Oral Dosing in Adults:
 
@@ -89,7 +89,7 @@ PEDIATRIC DOSAGE GUIDELINES
 | --- | --- | --- | --- | --- |
 | Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | Intravenous | 6 to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 8 hours | 10-21 daysThe total duration of therapy for complicated urinary tract infection and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |
 | Oral | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 12 hours |  |  |
-| Inhalational Anthrax (Post- Exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.5 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax In Adults and Pediatrics, Additional Information. | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
+| Inhalational Anthrax (Post- Exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.6 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax In Adults and Pediatrics, Additional Information. | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
 | Oral | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours |  |  |
 
 Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of complicated urinary tract infection and pyelonephritis.

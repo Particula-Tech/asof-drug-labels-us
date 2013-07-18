@@ -44,7 +44,7 @@ Made in Italy
 
 Cipro® 5% Oral Suspension Microcapsules Label
 
-83399199 NDC 50419-778-01
+83399199 NDC50419-778-01
 
 Ciprofloxacin microcapsules for Cipro® 5% Oral Suspension
 

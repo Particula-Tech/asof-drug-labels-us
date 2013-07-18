@@ -168,9 +168,9 @@ How should I take CIPRO?
 - •CIPRO should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone, but may be taken with a meal that contains these products.
 - •Drink plenty of fluids while taking CIPRO.
 - •Do not skip any doses, or stop taking CIPRO even if you begin to feel better, until you finish your prescribed treatment, unless:
-  - ∘You have tendon effects (see “What is the most important information I should know about CIPRO?”),
-  - ∘You have a serious allergic reaction (see “What are the possible side effects of CIPRO?”), or
-  - ∘Your healthcare provider tells you to stop.
+  - •You have tendon effects (see “What is the most important information I should know about CIPRO?”),
+  - •You have a serious allergic reaction (see “What are the possible side effects of CIPRO?”), or
+  - •Your healthcare provider tells you to stop.
 
 This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to CIPRO.
 If this happens, CIPRO and other antibiotic medicines may not work in the future.
@@ -327,8 +327,7 @@ How should I store CIPRO?
 - •Do not freeze
 - •After treatment has been completed, any unused oral suspension should be safely thrown away
 - •CIPRO XR
-- •Store CIPRO XR at 59°F to 86°F (15°C to 30°C)
-- Keep CIPRO and all medicines out of the reach of children.
+- •Store CIPRO XR at 59°F to 86°F (15°C to 30°C) Keep CIPRO and all medicines out of the reach of children.
 
 General Information about CIPRO
 
@@ -358,7 +357,7 @@ What are the ingredients in CIPRO?
 - •Active ingredient: ciprofloxacin
 - •Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised November 2011
+Revised July 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -372,10 +371,10 @@ CIPRO is a registered trademark of Bayer Aktiengesellschaft.
 
 Rx Only
 
-11/11 ©2011 Bayer HealthCare Pharmaceuticals Inc.
+- ©2013 Bayer HealthCare Pharmaceuticals Inc.
 
-81532304, R5 Printed in U.S.A.
+CIPRO (ciprofloxacin*) 5% and 10% Oral Suspension Manufactured in Italy
 
-CIPRO (ciprofloxacin*) 5% and 10% Oral Suspension Made in Italy
+CIPRO (ciprofloxacin HCl) Tablets Manufactured in Germany
 
-CIPRO (ciprofloxacin HCl) Tablets Made in Germany
+6708900
