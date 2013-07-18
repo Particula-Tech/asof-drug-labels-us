@@ -1,14 +1,16 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-DIFFERIN (adapalene) Lotion, 0.1%, is packaged in a 2 oz (59 mL) bottle which is equipped with a Lotion dispensing pump.
+DIFFERIN (adapalene) Lotion, 0.1%, is a white to off-white liquid packaged in a 2 oz (59 mL) bottle which is equipped with a lotion dispensing pump.
 
-The DIFFERIN Lotion is supplied as follows:
+DIFFERIN Lotion is supplied as follows:
 
-2 oz bottle pump 0299-5912-02
+2 oz bottle pump NDC 0299-5912-02
 
 Storage and handling
 
-- Store at controlled room temperature, 20 - 25°C (68 - 77°F); excursions permitted to 15 – 30°C (59 – 86°F).
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (between 59°F and 86°F).
+[see USP Controlled Room Temperature]
+
 - Do not freeze.
 - Do not refrigerate.
 - Protect from light.

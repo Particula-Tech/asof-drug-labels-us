@@ -15,6 +15,6 @@
 - Wax depilation should not be performed on treated skin due to the potential for skin erosions.
 - This product is for external use only.
 
-Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA Manufactured by: Galderma Production Canada Inc., Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
+Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA Manufactured by: G Production Inc., Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
 GALDERMA is a registered trademark.
-P51503-0
+P51503-2
