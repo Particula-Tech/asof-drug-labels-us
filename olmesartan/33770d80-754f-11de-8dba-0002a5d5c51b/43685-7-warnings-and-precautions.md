@@ -27,3 +27,10 @@ Similar results may be anticipated in patients treated with Benicar [see Dosage 
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
 There has been no long-term use of Benicar in patients with unilateral or bilateral renal artery stenosis, but similar results may be expected.
+
+## 5.5 Sprue-like Enteropathy
+
+Severe, chronic diarrhea with substantial weight loss has been reported in patients taking olmesartan months to years after drug initiation.
+Intestinal biopsies of patients often demonstrated villous atrophy.
+If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies.
+Consider discontinuation of Benicar in cases where no other etiology is identified.

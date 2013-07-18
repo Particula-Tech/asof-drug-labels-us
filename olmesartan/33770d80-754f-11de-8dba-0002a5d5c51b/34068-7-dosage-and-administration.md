@@ -27,7 +27,9 @@ Children <1 year of age must not receive Benicar for hypertension.
 For children who cannot swallow tablets, the same dose can be given using an extemporaneous suspension as described below [see Clinical Pharmacology (12.3)].
 Follow the suspension preparation instructions below to administer Benicar as a suspension.
 
-Preparation of Suspension (for 200 mL of a 2 mg/mL suspension) Add 50 mL of Purified Water to an amber polyethylene terephthalate (PET) bottle containing twenty Benicar 20 mg tablets and allow to stand for a minimum of 5 minutes.
+Preparation of Suspension (for 200 mL of a 2 mg/mL suspension)
+
+Add 50 mL of Purified Water to an amber polyethylene terephthalate (PET) bottle containing twenty Benicar 20 mg tablets and allow to stand for a minimum of 5 minutes.
 Shake the container for at least 1 minute and allow the suspension to stand for at least 1 minute.
 Repeat 1-minute shaking and 1-minute standing for four additional times.
 Add 100 mL of Ora-Sweet®* and 50 mL of Ora-Plus®* to the suspension and shake well for at least 1 minute.
