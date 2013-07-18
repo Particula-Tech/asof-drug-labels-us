@@ -102,8 +102,7 @@ Tribenzor may cause serious side effects, including:
   Get medical help right away if you have chest pain that gets worse, or that does not go away, during treatment with Tribenzor.
 - Allergic reactions.
   Hydrochlorothiazide, one of the medicines in Tribenzor can cause allergic reactions.
-- Changes in body salts (such as sodium and potassium), and body fluids.
-  Tell your doctor if you have any of these signs or symptoms during treatment with Tribenzor:
+- Changes in body salts (such as sodium and potassium), and body fluids.Tell your doctor if you have any of these signs or symptoms during treatment with Tribenzor:
   - Dry mouth
   - thirst
   - weakness
@@ -117,12 +116,14 @@ Tribenzor may cause serious side effects, including:
   - low or no urine output
   - fast heartbeat
   - nausea and vomiting
-- Eye problems.
-  One of the medicines in Tribenzor can cause eye problems that may lead to vision loss.
+- Eye problems.One of the medicines in Tribenzor can cause eye problems that may lead to vision loss.
   Symptoms of eye problems can happen within hours to weeks of starting Tribenzor.
   Tell your doctor right away if you have:
   - decrease in vision
   - eye pain
+- Severe diarrhea and weight loss.
+  Severe, chronic diarrhea with considerable weight loss may develop months to years after starting Tribenzor.
+  Tell your doctor if you are experiencing these symptoms.
 
 The most common side effects of Tribenzor used to treat people with high blood pressure include:
 

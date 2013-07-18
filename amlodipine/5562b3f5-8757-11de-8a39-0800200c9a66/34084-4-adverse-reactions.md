@@ -52,7 +52,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Olmesartan medoxomil.
-The following adverse reactions have been reported in post marketing experience: Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: vomiting, diarrhea Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria
+The following adverse reactions have been reported in post marketing experience: Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: vomiting, diarrhea, sprue-like enteropathy [see Warnings and Precautions (5.10)] Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria
 
 Amlodipine.
 The following post-marketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.

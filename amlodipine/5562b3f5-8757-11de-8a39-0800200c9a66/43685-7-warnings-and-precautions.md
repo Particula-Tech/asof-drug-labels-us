@@ -107,13 +107,20 @@ The primary treatment is to discontinue hydrochlorothiazide as rapidly as possib
 Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
-## 5.10 Vasodilation
+## 5.10 Sprue-like Enteropathy
+
+Severe, chronic diarrhea with substantial weight loss has been reported in patients taking olmesartan months to years after drug initiation.
+Intestinal biopsies of patients often demonstrated villous atrophy.
+If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies.
+Consider discontinuation of Tribenzor in cases where no other etiology is identified.
+
+## 5.11 Vasodilation
 
 Amlodipine.
 Although vasodilation attributable to amlodipine is generally gradual in onset, acute hypotension has rarely been reported after oral administration.
 Patients with severe aortic stenosis may be at particular risk.
 
-## 5.11 Heart Failure
+## 5.12 Heart Failure
 
 Tribenzor.
 Tribenzor has not been studied in patients with heart failure.
@@ -125,12 +132,12 @@ There was no overall adverse effect on survival or cardiac morbidity (as defined
 Amlodipine has been compared to placebo in four 8-12 week studies of patients with NYHA Class II/III heart failure, involving a total of 697 patients.
 In these studies, there was no evidence of worsening of heart failure based on measures of exercise tolerance, NYHA classification, symptoms, or left ventricular ejection fraction.
 
-## 5.12 Lithium Interaction
+## 5.13 Lithium Interaction
 
 Hydrochlorothiazide.
 Lithium generally should not be given with thiazides [see Drug Interactions (7.4)].
 
-## 5.13 Laboratory Tests
+## 5.14 Laboratory Tests
 
 Olmesartan medoxomil.
 In post-marketing experience, increased blood creatinine levels and hyperkalemia have been reported.
