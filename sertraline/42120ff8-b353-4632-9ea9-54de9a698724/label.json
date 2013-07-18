@@ -3,7 +3,7 @@
     "ANDA077670"
   ],
   "inn": "sertraline",
-  "labeler": "LUPIN PHARMACEUTICALS INC",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
   "package_ndcs": [
     "68180-351-01",
     "68180-351-03",
@@ -28,8 +28,8 @@
   "products": [
     {
       "form": "TABLET, FILM COATED",
-      "generic": "sertraline hydrochloride",
-      "name": "Sertraline Hydrochloride"
+      "generic": "sertraline",
+      "name": "Sertraline"
     }
   ],
   "setid": "42120ff8-b353-4632-9ea9-54de9a698724",

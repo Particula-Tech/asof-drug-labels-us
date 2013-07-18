@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-## Human Experience:
+## Human Experience
 
 Of 1,027 cases of overdose involving sertraline hydrochloride worldwide, alone or with other drugs, there were 72 deaths (circa 1999).
 
@@ -13,7 +13,7 @@ However, another patient who took 2.5 grams of sertraline hydrochloride alone ex
 
 Other important adverse events reported with sertraline hydrochloride overdose (single or multiple drugs) include bradycardia, bundle branch block, coma, convulsions, delirium, hallucinations, hypertension, hypotension, manic reaction, pancreatitis, QT-interval prolongation, serotonin syndrome, stupor and syncope.
 
-## Overdose Management:
+## Overdose Management
 
 Treatment should consist of those general measures employed in the management of overdosage with any antidepressant.
 
@@ -29,4 +29,4 @@ No specific antidotes for sertraline are known.
 
 In managing overdosage, consider the possibility of multiple drug involvement.
 The physician should consider contacting a poison control center on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference® (PDR®).
+Telephone numbers for certified poison control centers are listed in the Physicians' Desk Reference® (PDR®).
