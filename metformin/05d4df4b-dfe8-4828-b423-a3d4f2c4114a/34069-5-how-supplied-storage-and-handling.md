@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Riomet (metformin hydrochloride oral solution) 500 mg/5 mL is a clear colorless liquid with characteristic flavor filled in 118 mL/473 mL HDPE bottles with induction sealed CRC cap.
+Riomet (metformin hydrochloride oral solution) 500 mg/5 mL is a clear colorless liquid with characteristic, cherry flavor filled in 118 mL/473 mL HDPE bottles with induction sealed CRC cap.
 
 NDC 10631-206-01 Bottles of 4 fl. oz (118 mL)
 
@@ -19,8 +19,4 @@ Ranbaxy Laboratories Inc.
 
 Jacksonville, FL 32257 USA
 
-by: Ohm Laboratories Inc.
-
-Gloversville, NY 12078 USA
-
-June 2010
+November 2011

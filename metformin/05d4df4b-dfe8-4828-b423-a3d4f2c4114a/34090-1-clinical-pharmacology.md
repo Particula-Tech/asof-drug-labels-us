@@ -12,37 +12,37 @@ With metformin therapy, insulin secretion remains unchanged while fasting insuli
 
 ### Absorption and Bioavailability
 
-Two pharmacokinetic studies have been performed in healthy volunteers to evaluate the bioavailability of RIOMET in comparison with the commercially available metformin tablets under fasting and fed conditions (study 1 and study 2).
-A third pharmacokinetic study (study 3) assessed effects of food on absorption of RIOMET.
+Two pharmacokinetic studies have been performed in healthy volunteers to evaluate the bioavailability of Riomet in comparison with the commercially available metformin tablets under fasting and fed conditions (study 1 and study 2).
+A third pharmacokinetic study (study 3) assessed effects of food on absorption of Riomet.
 
-The rate and extent of absorption of RIOMET was found to be comparable to that of Metformin tablets under fasting or fed conditions (see Table 1).
+The rate and extent of absorption of Riomet was found to be comparable to that of Metformin tablets under fasting or fed conditions (see Table 1).
 
 Table 1.
 Select Mean (± S.D.)
-Pharmacokinetic Parameters Following Single Oral Doses of 1000 mg RIOMET and Metformin tablets in healthy, nondiabetic adults (n = 36) under fed and fasting conditions
+Pharmacokinetic Parameters Following Single Oral Doses of 1000 mg Riomet and Metformin tablets in healthy, nondiabetic adults (n = 36) under fed and fasting conditions
 
 | Formulation | Cmax(ng/mL) | AUC0-∞(ng.h/mL) | tmax (h) |
 | --- | --- | --- | --- |
 | Study 1- Fasting state |  |  |  |
-| RIOMET | 1540.1 ± 451.1 | 9069.6 ± 2593.6 | 2.2 ± 0.5 |
+| Riomet | 1540.1 ± 451.1 | 9069.6 ± 2593.6 | 2.2 ± 0.5 |
 | Metformin Tablets | 1885.1 ± 498.5 | 11100.1 ± 2733.1 | 2.5 ± 0.6 |
 | T/R Ratio X 100 (90% confidence interval) | 81.2 (76.3 - 86.4) | 81.2 (76.9 - 85.6) | - |
 | Study 2- Fed State |  |  |  |
-| RIOMET | 1235.3 ± 177.7 | 8950.1 ± 1381.2 | 4.1 ± 0.8 |
+| Riomet | 1235.3 ± 177.7 | 8950.1 ± 1381.2 | 4.1 ± 0.8 |
 | Metformin Tablets | 1361 ± 298.8 | 9307.7 ± 1839.8 | 3.7 ± 0.8 |
 | T/R Ratio X 100 (90% confidence interval) | 91.8 (87.4 - 96.5) | 97.0 (92.9 - 101.2) | - |
-| T-test product (RIOMET)R-reference product (metformin tablets) |  |  |  |
+| T-test product (Riomet)R-reference product (metformin tablets) |  |  |  |
 
-The food-effect study (study 3) assessed the effects of a high fat/high calorie meal and a low fat/low calorie meal on the bioavailability of RIOMET in comparison with administration in the fasted state, in healthy volunteers.
+The food-effect study (study 3) assessed the effects of a high fat/high calorie meal and a low fat/low calorie meal on the bioavailability of Riomet in comparison with administration in the fasted state, in healthy volunteers.
 The extent of absorption was increased by 21% and 17% with the low fat/low calorie meal and the high fat/high calorie meal, respectively, compared with the administration in the fasted state.
 The rate and extent of absorption with high fat/high calorie and low fat/low calorie meal were similar.
-The mean t max was 2.5 hours under fasting conditions as compared to 3.9 hours with both low fat/ low calorie meal and high fat/high calorie meals (see Table 2).
+The mean tmax was 2.5 hours under fasting conditions as compared to 3.9 hours with both low fat/low calorie meal and high fat/high calorie meals (see Table 2).
 
 Table 2.
 Select Mean (± S.D.)
-Metformin Pharmacokinetic Parameters Following Single Oral Doses of 1000 mg RIOMET in healthy, nondiabetic adults (n = 33) under fed (high fat/high calorie meal and low fat/low calorie meal) and fasting conditions (study 3)
+Metformin Pharmacokinetic Parameters Following Single Oral Doses of 1000 mg Riomet in healthy, nondiabetic adults (n = 33) under fed (high fat/high calorie meal and low fat/low calorie meal) and fasting conditions (study 3)
 
-| Meal type | Cmax(ng/mL) | AUC0-∞ (ng.h/mL) | tmax (h) |
+| Meal type | Cmax(ng/mL) | AUC0-∞ (ng.h/mL) | tmax(h) |
 | --- | --- | --- | --- |
 | Fasting (F) | 1641.5 ± 551.8 | 9982.9 ± 2544.5 | 2.5 ± 0.9 |
 | Low fat/ low calorie meal (L) | 1525.8 ± 396.7 | 11542.0 ± 2947.5 | 3.9 ± 0.6 |
@@ -85,14 +85,14 @@ No pharmacokinetic studies of metformin have been conducted in patients with hep
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 3).
-RIOMET (metformin hydrochloride oral solution) treatment should not be initiated in patients ≥ 80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced.
+Riomet (metformin hydrochloride oral solution) treatment should not be initiated in patients ≥ 80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced.
 (See WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Table 3.
 Select Mean (± S.D.)
 Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of Metformin
 
-| Subject Groups: Metformin dosea (number of subjects) | Cmaxb (µg/mL) | Tmaxc (hrs) | Renal Clearance (mL/min) |
+| Subject Groups: Metformin dosea (number of subjects) | Cmaxb(µg/mL) | Tmaxc(hrs) | Renal Clearance (mL/min) |
 | --- | --- | --- | --- |
 | Healthy, nondiabetic adults: |  |  |  |
 | 500 mg single dose (24) | 1.03 (± 0.33) | 2.75 (± 0.81) | 600 (± 132) |
@@ -105,9 +105,9 @@ Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of 
 | 850 mg single dose (12) | 2.45 (± 0.70) | 2.71 (± 1.05) | 412 (± 98) |
 | Renally-impaired adults: |  |  |  |
 | 850 mg single dose |  |  |  |
-| Mild (CLcrg 61 - 90mL/min) (5) | 1.86 (± 0.52) | 3.20 (± 0.45) | 384 (± 122) |
-| Moderate (CLcr31 - 60mL/min) (4) | 4.12 (± 1.83) | 3.75 (± 0.50) | 108 (± 57) |
-| Severe (CLcr10 - 30mL/min) (6) | 3.93 (± 0.92) | 4.01 (± 1.10) | 130 (± 90) |
+| Mild (CLcrg 61 - 90 mL/min) (5) | 1.86 (± 0.52) | 3.20 (± 0.45) | 384 (± 122) |
+| Moderate (CLcr31 - 60 mL/min) (4) | 4.12 (± 1.83) | 3.75 (± 0.50) | 108 (± 57) |
+| Severe (CLcr10 - 30 mL/min) (6) | 3.93 (± 0.92) | 4.01 (± 1.10) | 130 (± 90) |
 | a All doses given fasting except the first 18 doses of the multiple dose studiesb Peak plasma concentrationc Time to peak plasma concentrationd Combined results (average means) of five studies: mean age 32 years (range 23 - 59 years)e Kinetic study done following dose 19, given fastingf Elderly subjects, mean age 71 years (range 65 - 81 years)g CLcr = creatinine clearance normalized to body surface area of 1.73 m2 |  |  |  |
 
 #### Pediatrics
