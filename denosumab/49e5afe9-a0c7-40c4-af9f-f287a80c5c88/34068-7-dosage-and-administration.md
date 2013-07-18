@@ -6,7 +6,7 @@ Prolia should be administered by a healthcare professional.
 
 The recommended dose of Prolia is 60 mg administered as a single subcutaneous injection once every 6 months.
 Administer Prolia via subcutaneous injection in the upper arm, the upper thigh, or the abdomen.
-All patients should receive calcium 1000 mg daily and at least 400 IU vitamin D daily [see Warnings and Precautions (5.2)].
+All patients should receive calcium 1000 mg daily and at least 400 IU vitamin D daily [see Warnings and Precautions (5.3)].
 
 If a dose of Prolia is missed, administer the injection as soon as the patient is available.
 Thereafter, schedule injections every 6 months from the date of the last injection.

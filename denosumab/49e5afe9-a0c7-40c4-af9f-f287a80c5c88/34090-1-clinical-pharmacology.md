@@ -31,7 +31,9 @@ Prolia pharmacokinetics were not affected by the formation of binding antibodies
 A population pharmacokinetic analysis was performed to evaluate the effects of demographic characteristics.
 This analysis showed no notable differences in pharmacokinetics with age (in postmenopausal women), race, or body weight (36 to 140 kg).
 
-Drug Interactions No drug-drug interaction studies have been conducted with Prolia.
+Drug Interactions In a study of 17 postmenopausal women with osteoporosis, midazolam (2 mg oral) was administered two weeks after a single dose of denosumab (60 mg subcutaneous injection), which approximates the Tmax of denosumab.
+Denosumab did not affect the pharmacokinetics of midazolam, which is metabolized by cytochrome P450 3A4 (CYP3A4).
+This indicates that denosumab should not alter the pharmacokinetics of drugs metabolized by CYP3A4 in postmenopausal women with osteoporosis.
 
 Specific Populations Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
 

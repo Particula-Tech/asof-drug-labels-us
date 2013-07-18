@@ -2,7 +2,7 @@
 
 ## 4.1 Hypocalcemia
 
-Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia [see Warnings and Precautions (5.2)].
+Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia [see Warnings and Precautions (5.3)].
 
 ## 4.2 Pregnancy
 
@@ -14,4 +14,4 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 ## 4.3 Hypersensitivity
 
 Prolia is contraindicated in patients with a history of systemic hypersensitivity to any component of the product.
-Reactions have included facial swelling and urticaria [see Adverse Reactions (6.2)].
+Reactions have included anaphylaxis, facial swelling and urticaria [see Warnings and Precautions (5.2), Adverse Reactions (6.2)].

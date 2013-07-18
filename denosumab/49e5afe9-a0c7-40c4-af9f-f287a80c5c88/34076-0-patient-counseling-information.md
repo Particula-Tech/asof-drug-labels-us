@@ -8,29 +8,30 @@ Advise patients that denosumab is also marketed as Xgeva, and if taking Prolia, 
 
 ## 17.2 Hypocalcemia
 
-Adequately supplement patients with calcium and vitamin D and instruct them on the importance of maintaining serum calcium levels while receiving Prolia [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+Adequately supplement patients with calcium and vitamin D and instruct them on the importance of maintaining serum calcium levels while receiving Prolia [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 Advise patients to seek prompt medical attention if they develop signs or symptoms of hypocalcemia.
 
 ## 17.3 Serious Infections
 
-Advise patients to seek prompt medical attention if they develop signs or symptoms of infections, including cellulitis [see Warnings and Precautions (5.3)].
+Advise patients to seek prompt medical attention if they develop signs or symptoms of infections, including cellulitis [see Warnings and Precautions (5.4)].
 
 ## 17.4 Dermatologic Reactions
 
-Advise patients to seek prompt medical attention if they develop signs or symptoms of dermatological reactions (dermatitis, rashes, and eczema) [see Warnings and Precautions (5.4)].
+Advise patients to seek prompt medical attention if they develop signs or symptoms of dermatological reactions (dermatitis, rashes, and eczema) [see Warnings and Precautions (5.5)].
 
 ## 17.5 Osteonecrosis of the Jaw
 
 Advise patients to maintain good oral hygiene during treatment with Prolia and to inform their dentist prior to dental procedures that they are receiving Prolia.
-Patients should inform their physician or dentist if they experience persistent pain and/or slow healing of the mouth or jaw after dental surgery [see Warnings and Precautions (5.5)].
+Patients should inform their physician or dentist if they experience persistent pain and/or slow healing of the mouth or jaw after dental surgery [see Warnings and Precautions (5.6)].
 
 ## 17.6 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
-Advise patients to report new or unusual thigh, hip, or groin pain [see Warnings and Precautions (5.6)].
+Advise patients to report new or unusual thigh, hip, or groin pain [see Warnings and Precautions (5.7)].
 
 ## 17.7 Hypersensitivity
 
-Advise patients to seek prompt medical attention if signs or symptoms of hypersensitivity reactions occur [see Contraindications (4.3)].
+Advise patients to seek prompt medical attention if signs or symptoms of hypersensitivity reactions occur.
+Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab (Prolia or Xgeva) [see Warnings & Precautions (5.2), Contraindications (4.3)].
 
 ## 17.8 Embryo-Fetal Toxicity
 

@@ -1,10 +1,6 @@
 # MEDICATION GUIDE
 
-Prolia® (PRÓ-lee-a)
-
-(denosumab)
-
-Injection, for subcutaneous use
+Prolia® (PRÓ-lee-a) (denosumab) Injection, for subcutaneous use
 
 Read the Medication Guide that comes with Prolia before you start taking it and each time you get a refill.
 There may be new information.
@@ -17,43 +13,57 @@ Prolia contains the same medicine as Xgeva (denosumab).
 
 Prolia can cause serious side effects including:
 
-1. Low calcium levels in your blood (hypocalcemia).
-   Prolia may lower the calcium levels in your blood.
-   If you have low blood calcium before you start receiving Prolia, it may get worse during treatment.
-   Your low blood calcium must be treated before you receive Prolia.
-   Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
-   Call your doctor right away if you have symptoms of low blood calcium such as: Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood while you take Prolia.
-   Take calcium and vitamin D as your doctor tells you to.
-   - Spasms, twitches, or cramps in your muscles
-   - Numbness or tingling in your fingers, toes, or around your mouth
-2. Serious infections.
-   Serious infections in your skin, lower stomach area (abdomen), bladder, or ear may happen if you take Prolia.
-   Inflammation of the inner lining of the heart (endocarditis) due to an infection also may happen more often in people who take Prolia.
-   You may need to go to the hospital for treatment if you develop an infection.
-   Prolia is a medicine that may affect your immune system.
-   People who have weakened immune system or take medicines that affect the immune system may have an increased risk for developing serious infections.
-   Call your doctor right away if you have any of the following symptoms of infection:
-   - Fever or chills
-   - Skin that looks red or swollen and is hot or tender to touch
-   - Severe abdominal pain
-   - Frequent or urgent need to urinate or burning feeling when you urinate
-3. Skin problems.
-   Skin problems such as inflammation of your skin (dermatitis), rash, and eczema may happen if you take Prolia.
-   Call your doctor if you have any of the following symptoms of skin problems that do not go away or get worse:
-   - Redness
-   - Itching
-   - Small bumps or patches (rash)
-   - Your skin is dry or feels like leather
-   - Blisters that ooze or become crusty
-   - Skin peeling
-4. Severe jaw bone problems (osteonecrosis).
-   Severe jaw bone problems may happen when you take Prolia.
-   Your doctor should examine your mouth before you start Prolia.
-   Your doctor may tell you to see your dentist before you start Prolia.
-   It is important for you to practice good mouth care during treatment with Prolia.
-5. Unusual thigh bone fractures.
-   Some people have developed unusual fractures in their thigh bone.
-   Symptoms of a fracture include new or unusual pain in your hip, groin, or thigh.
+- Low calcium levels in your blood (hypocalcemia).
+  Prolia may lower the calcium levels in your blood.
+  If you have low blood calcium before you start receiving Prolia, it may get worse during treatment.
+  Your low blood calcium must be treated before you receive Prolia.
+  Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
+  Call your doctor right away if you have symptoms of low blood calcium such as:
+  - Spasms, twitches, or cramps in your muscles
+  - Numbness or tingling in your fingers, toes, or around your mouth
+
+Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood while you take Prolia.
+Take calcium and vitamin D as your doctor tells you to.
+
+- Serious allergic reactions.
+  Serious allergic reactions have happened in people who take Prolia.
+  Call your doctor or go to your nearest emergency room right away if you have any symptoms of a serious allergic reactions.
+  Symptoms of a serious allergic reaction may include:
+  - low blood pressure (hypotension)
+  - trouble breathing
+  - throat tightness
+  - swelling of your face, lips, or tongue
+  - rash
+  - itching
+  - hives
+- Serious infections.
+  Serious infections in your skin, lower stomach area (abdomen), bladder, or ear may happen if you take Prolia.
+  Inflammation of the inner lining of the heart (endocarditis) due to an infection also may happen more often in people who take Prolia.
+  You may need to go to the hospital for treatment if you develop an infection.
+  Prolia is a medicine that may affect your immune system.
+  People who have weakened immune system or take medicines that affect the immune system may have an increased risk for developing serious infections.
+  Call your doctor right away if you have any of the following symptoms of infection:
+  - Fever or chills
+  - Skin that looks red or swollen and is hot or tender to touch
+  - Severe abdominal pain
+  - Frequent or urgent need to urinate or burning feeling when you urinate
+- Skin problems.
+  Skin problems such as inflammation of your skin (dermatitis), rash, and eczema may happen if you take Prolia.
+  Call your doctor if you have any of the following symptoms of skin problems that do not go away or get worse:
+  - Redness
+  - Itching
+  - Small bumps or patches (rash)
+  - Your skin is dry or feels like leather
+  - Blisters that ooze or become crusty
+  - Skin peeling
+- Severe jaw bone problems (osteonecrosis).
+  Severe jaw bone problems may happen when you take Prolia.
+  Your doctor should examine your mouth before you start Prolia.
+  Your doctor may tell you to see your dentist before you start Prolia.
+  It is important for you to practice good mouth care during treatment with Prolia.
+- Unusual thigh bone fractures.
+  Some people have developed unusual fractures in their thigh bone.
+  Symptoms of a fracture include new or unusual pain in your hip, groin, or thigh.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -181,10 +191,10 @@ You can ask your doctor or pharmacist for information about Prolia that is writt
 For more information, go to www.Prolia.com or call Amgen at 1-800-772-6436.
 
 What are the ingredients in Prolia?
-Active ingredient: denosumab Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide
+Active ingredient: denosumab Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide [Amgen Logo]
 
 Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-1xxxxxx - v5 Revised: 09/2012 PMV5
+1xxxxxx - v6 Revised: 07/2013 PMV6

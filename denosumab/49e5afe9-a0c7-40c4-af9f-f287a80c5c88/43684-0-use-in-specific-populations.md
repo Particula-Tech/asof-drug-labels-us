@@ -64,7 +64,7 @@ No dose adjustment is necessary in patients with renal impairment.
 In clinical studies, patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcemia.
 Consider the benefit-risk profile when administering Prolia to patients with severe renal impairment or receiving dialysis.
 Clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended.
-Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis [see Warnings and Precautions (5.2), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
+Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis [see Warnings and Precautions (5.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
