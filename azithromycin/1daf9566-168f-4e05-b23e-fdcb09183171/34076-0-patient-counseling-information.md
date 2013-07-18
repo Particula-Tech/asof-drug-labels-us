@@ -24,4 +24,4 @@ Patients should be counseled that antibacterial drugs including Zmax should only
 They do not treat viral infections (e.g., the common cold).
 Not taking the complete prescribed dose may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Zmax or other antibacterial drugs in the future.
 
-LAB-0384-5.0
+LAB-0384-6.0

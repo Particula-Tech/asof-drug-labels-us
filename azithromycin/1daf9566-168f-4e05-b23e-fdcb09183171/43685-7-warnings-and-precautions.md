@@ -33,12 +33,16 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5.5 Prolongation of the QT interval
+## 5.5 QT Prolongation
 
 Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with macrolides, including azithromycin.
 Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
-Although the absolute risk is unknown, it appears to be low with azithromycin likely due to the lack of appreciable drug interactions, and the observation that it is rarely reported as a postmarketing adverse event.
-However, it would be prudent to avoid use in patients with known prolongation of the QT interval, patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
+Providers should consider the risk of QT prolongation which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including:
+
+- patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure
+- patients on drugs known to prolong the QT interval
+- patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
+
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 
 ## 5.6 Gastrointestinal Disturbances

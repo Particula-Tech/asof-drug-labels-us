@@ -6,8 +6,11 @@ Azithromycin is an antimicrobial agent [See Clinical Pharmacology (12.4)]
 
 ## 12.2 Pharmacodynamics
 
-Based on animal models of infection, the antimicrobial activity of azithromycin appears to correlate with the ratio of area under the concentration-time curve to minimum inhibitory concentration (AUC/MIC) for certain pathogens (S. pneumoniae and S. aureus).
-The principal pharmacokinetic/pharmacodynamic parameter best associated with clinical and microbiological cure has not been elucidated in clinical trials with Zmax.
+Cardiac Electrophysiology
+
+QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
+Co-administration of azithromycin increased the QTc interval in a dose- and concentration-dependent manner.
+In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
 
 ## 12.3 Pharmacokinetics
 
