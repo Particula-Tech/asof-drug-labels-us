@@ -37,7 +37,7 @@ Metoprolol is not a significant P-glycoprotein substrate.
 Metabolism Metoprolol is primarily metabolized by CYP2D6.
 Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereoselective metabolism that is dependent on oxidation phenotype.
 CYP2D6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations.
-Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of metoprolol than extensive metabolizers with normal CYP2D6 activity thereby decreasing metoprolol’s cardio selectivity.
+Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of metoprolol than extensive metabolizers with normal CYP2D6 activity thereby decreasing metoprolol’s cardioselectivity.
 Elimination Elimination of metoprolol is mainly by biotransformation in the liver.
 The mean elimination half-life of metoprolol is 3 to 4 hours; in poor CYP2D6 metabolizers the half-life may be 7 to 9 hours.
 Approximately 95% of the dose can be recovered in urine.
@@ -50,7 +50,7 @@ Renal Impairment The systemic availability and half-life of metoprolol in patien
 Hepatic Impairment Since the drug is primarily eliminated by hepatic metabolism, hepatic impairment may impact the pharmacokinetics of metoprolol.
 The elimination half-life of metoprolol is considerably prolonged, depending on severity (up to 7.2 h). Clinical Studies Hypertension In controlled clinical studies, metoprolol has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100 to 450 mg daily.
 In controlled, comparative, clinical studies, metoprolol has been shown to be as effective an antihypertensive agent as propranolol, methyldopa, and thiazide-type diuretics, to be equally effective in supine and standing positions.
-Angina Pectoris In controlled clinical trials, metoprolol, administered two or four times daily, has been shown to be an effective anti anginal agent, reducing the number of angina attacks and increasing exercise tolerance.
+Angina Pectoris In controlled clinical trials, metoprolol, administered two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
 The dosage used in these studies ranged from 100 to 400 mg daily.
 A controlled, comparative, clinical trial showed that metoprolol was indistinguishable from propranolol in the treatment of angina pectoris.
 Myocardial Infarction In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, metoprolol was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.

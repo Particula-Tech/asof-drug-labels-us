@@ -47,7 +47,7 @@ Although the efficacy of metoprolol beyond 3 months has not been conclusively es
 Pediatric Patients: No pediatric studies have been performed.
 The safety and efficacy of metoprolol tartrate tablets in pediatric patients have not been established.
 Renal Impairment: No dose adjustment of metoprolol tartrate tablets is required in patients with renal impairment.
-Hepatic Impairment: metoprolol blood levels are likely to increase substantially in patients with hepatic impairment.
+Hepatic Impairment: Metoprolol blood levels are likely to increase substantially in patients with hepatic impairment.
 Therefore, metoprolol tartrate tablets should be initiated at low doses with cautious gradual dose titration according to clinical response.
 Geriatric Patients (>65 years): In general, use a low initial starting dose in elderly patients given their greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Method of Administration For oral treatment, the tablets should be swallowed un-chewed with a glass of water.
