@@ -30,13 +30,13 @@ When restarting the infusion, a slower administration rate should be used.
 
 ## Allergic Reactions
 
-Anaphylactic-like reactions characterized by chills, fever, tachycardia, bronchospasm, dyspnea, and/or hypotension have been reported to occur in 0.7% to 2% of patients receiving intravenous etoposide and in less than 1% of the patients treated with the oral capsules.
-These reactions have usually responded promptly to the cessation of the infusion and administration of pressor agents, corticosteroids, antihistamines, or volume expanders as appropriate; however, the reactions can be fatal.
+Anaphylactic-like reactions characterized by chills, fever, tachycardia, bronchospasm, dyspnea and/or hypotension have been reported to occur in 0.7% to 2% of patients receiving intravenous etoposide and in less than 1% of the patients treated with the oral capsules.
+These reactions have usually responded promptly to the cessation of the infusion and administration of pressor agents, corticosteroids, antihistamines or volume expanders as appropriate; however, the reactions can be fatal.
 Hypertension and/or flushing have also been reported.
 Blood pressure usually normalizes within a few hours after cessation of the infusion.
 Anaphylactic-like reactions have occurred during the initial infusion of etoposide.
 
-Facial/tongue swelling, coughing, diaphoresis, cyanosis, tightness in throat, laryngospasm, back pain, and/or loss of consciousness have sometimes occurred in association with the above reactions.
+Facial/tongue swelling, coughing, diaphoresis, cyanosis, tightness in throat, laryngospasm, back pain and/or loss of consciousness have sometimes occurred in association with the above reactions.
 In addition, an apparent hypersensitivity-associated apnea has been reported rarely.
 
 Rash, urticaria, and/or pruritus have infrequently been reported at recommended doses.
@@ -48,31 +48,15 @@ Reversible alopecia, sometimes progressing to total baldness, was observed in up
 
 ## Other Toxicities
 
-The following adverse reactions have been infrequently reported: abdominal pain, aftertaste, constipation, dysphagia, asthenia, fatigue, malaise, somnolence, transient cortical blindness, optic neuritis, interstitial pneumonitis/pulmonary fibrosis, fever, seizure (occasionally associated with allergic reactions), Stevens-Johnson syndrome, and toxic epidermal necrolysis, pigmentation, and a single report of radiation recall dermatitis.
+The following adverse reactions have been infrequently reported: abdominal pain, aftertaste, constipation, dysphagia, asthenia, fatigue, malaise, somnolence, transient cortical blindness, optic neuritis, interstitial pneumonitis/pulmonary fibrosis, fever, seizure (occasionally associated with allergic reactions), Stevens-Johnson Syndrome, and toxic epidermal necrolysis, pigmentation, and a single report of radiation recall dermatitis.
 
 Hepatic toxicity, generally in patients receiving higher doses of the drug than those recommended, has been reported with etoposide.
 Metabolic acidosis has also been reported in patients receiving higher doses.
 
 The incidences of adverse reactions in the table that follows are derived from multiple data bases from studies in 2,081 patients when etoposide was used either orally or by injection as a single agent.
 
-Incidences of Adverse Reactions
-
 | ADVERSE DRUG EFFECT | PERCENT RANGE OF REPORTED INCIDENCE |
 | --- | --- |
-| Hematologic toxicity |  |
-| Leukopenia (less than 1,000 WBC/mm3) | 3-17 |
-| Leukopenia (less than 4,000 WBC/mm3) | 60-91 |
-| Thrombocytopenia (less than 50,000 platelets/mm3) | 1-20 |
-| Thrombocytopenia (less than 100,000 platelets/mm3) | 22-41 |
-| Anemia | 0-33 |
-| Gastrointestinal toxicity |  |
-| Nausea and vomiting | 31-43 |
-| Abdominal pain | 0-2 |
-| Anorexia | 10-13 |
-| Diarrhea | 1-13 |
-| Stomatitis | 1-6 |
-| Hepatic | 0-3 |
-| Alopecia | 8-66 |
-| Peripheral neurotoxicity | 1-2 |
-| Hypotension | 1-2 |
-| Allergic reaction | 1-2 |
+| Hematologic toxicityLeukopenia (less than 1,000 WBC/mm3)Leukopenia (less than 4,000 WBC/mm3)Thrombocytopenia (less than 50,000 platelets/mm3)Thrombocytopenia (less than 100,000 platelets/mm3)Anemia | 3 to 1760 to 911 to 2022 to 410 to 33 |
+| Gastrointestinal toxicityNausea and vomitingAbdominal painAnorexiaDiarrheaStomatitisHepatic | 31 to 430 to 210 to 131 to 131 to 60 to 3 |
+| AlopeciaPeripheral neurotoxicityHypotensionAllergic reaction | 8 to 661 to 21 to 21 to 2 |

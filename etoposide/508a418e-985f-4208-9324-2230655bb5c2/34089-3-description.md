@@ -7,8 +7,8 @@ It is made more miscible with water by means of organic solvents.
 It has a molecular weight of 588.56 and a molecular formula of C29H32O13.
 
 Etoposide may be administered either intravenously or orally.
-Etoposide is available as 50 mg dark pink oblong capsules.
-Each liquid filled, soft gelatin capsule contains 50 mg of etoposide in a vehicle consisting of citric acid anhydrous, glycerin, polyethylene glycol and purified water.
-The soft gelatin capsules contain anidrisorb, gelatin and glycerin with the following dye system: iron oxide and titanium dioxide; the capsules are printed with edible black ink containing hypromellose, propylene glycol and synthetic black iron oxide.
+Etoposide capsules are available as 50 mg opaque dark pink oblong capsules.
+Each liquid filled, soft gelatin capsule contains 50 mg of etoposide, USP in a vehicle consisting of citric acid anhydrous, glycerol and polyethylene glycol.
+The soft gelatin capsules contain anidrisorb, gelatin and glycerol with the following dye system: red iron oxide and titanium dioxide; the capsules are printed with edible black ink containing FD&C Blue No. 1 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, hypromellose and propylene glycol.
 
 The structural formula is:

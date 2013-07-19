@@ -3,7 +3,7 @@
 Patients being treated with etoposide must be frequently observed for myelosuppression both during and after therapy.
 Myelosuppression resulting in death has been reported.
 Dose-limiting bone marrow suppression is the most significant toxicity associated with etoposide therapy.
-Therefore, the following studies should be obtained at the start of therapy and prior to each subsequent cycle of etoposide: platelet count, hemoglobin, white blood cell count, and differential.
+Therefore, the following studies should be obtained at the start of therapy and prior to each subsequent cycle of etoposide: platelet count, hemoglobin, white blood cell count and differential.
 The occurrence of a platelet count below 50,000/mm3 or an absolute neutrophil count below 500/mm3 is an indication to withhold further therapy until the blood counts have sufficiently recovered.
 
 ## Pregnancy
@@ -11,8 +11,8 @@ The occurrence of a platelet count below 50,000/mm3 or an absolute neutrophil co
 Etoposide can cause fetal harm when administered to a pregnant woman.
 Etoposide has been shown to be teratogenic in mice and rats.
 
-In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 1/20th of the human dose on a mg/m2 basis) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele, and anophthalmia); higher doses of 1.2 and 3.6 mg/kg/day (about 1/7th and 1/2 of human dose on a mg/m2 basis) resulted in 90 and 100% embryonic resorptions.
-In mice, a single 1.0 mg/kg (1/16th of human dose on a mg/m2 basis) dose of etoposide administered intraperitoneally on days 6, 7, or 8 of gestation caused embryotoxicity, cranial abnormalities, and major skeletal malformations.
+In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 1/20th of the human dose on a mg/m2 basis) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele and anophthalmia); higher doses of 1.2 and 3.6 mg/kg/day (about 1/7th and 1/2 of human dose on a mg/m2 basis) resulted in 90% and 100% embryonic resorptions.
+In mice, a single 1.0 mg/kg (1/16th of human dose on a mg/m2 basis) dose of etoposide administered intraperitoneally on days 6, 7 or 8 of gestation caused embryotoxicity, cranial abnormalities, and major skeletal malformations.
 An I.P. dose of 1.5 mg/kg (about 1/10th of human dose on a mg/m2 basis) on day 7 of gestation caused an increase in the incidence of intrauterine death and fetal malformations and a significant decrease in the average fetal body weight.
 
 Women of childbearing potential should be advised to avoid becoming pregnant.
@@ -29,10 +29,14 @@ Carcinogenicity tests with etoposide have not been conducted in laboratory anima
 
 In all instances where the use of etoposide is considered for chemotherapy, the physician must evaluate the need and usefulness of the drug against the risk of adverse reactions.
 Most such adverse reactions are reversible if detected early.
-If severe reactions occur, the drug should be reduced in dosage or discontinued and appropriate corrective measures should be taken according to the clinical judgement of the physician.
+If severe reactions occur, the drug should be reduced in dosage or discontinued and appropriate corrective measures should be taken according to the clinical judgment of the physician.
 Reinstitution of etoposide therapy should be carried out with caution, and with adequate consideration of the further need for the drug and alertness as to possible recurrence of toxicity.
 
 Patients with low serum albumin may be at an increased risk for etoposide associated toxicities.
+
+## Drug Interactions
+
+High-dose cyclosporin A resulting in concentrations above 2000 ng/mL administered with oral etoposide has led to an 80% increase in etoposide exposure with a 38% decrease in total body clearance of etoposide compared to etoposide alone.
 
 ## Laboratory Tests
 
@@ -44,23 +48,15 @@ At least one determination should be done prior to each dose of etoposide.
 
 In patients with impaired renal function, the following initial dose modification should be considered based on measured creatinine clearance:
 
-Initial Dose Modification in Patients with Impaired Renal Function
-
-| Measured Creatinine Clearance | >50 mL/min | 15-50 mL/min |
+| Measured Creatinine Clearance | > 50 mL/min | 15 to 50 mL/min |
 | --- | --- | --- |
 | etoposide | 100% of dose | 75% of dose |
 
 Subsequent etoposide dosing should be based on patient tolerance and clinical effect.
 
-Data are not available in patients with creatinine clearances <15 mL/min and further dose reduction should be considered in these patients.
+Data are not available in patients with creatinine clearances < 15 mL/min and further dose reduction should be considered in these patients.
 
-## Interactions
-
-### Drug interactions
-
-High-dose cyclosporin A resulting in concentrations above 2000 ng/mL administered with oral etoposide has led to an 80% increase in etoposide exposure with a 38% decrease in total body clearance of etoposide compared to etoposide alone.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis (see WARNINGS), Mutagenesis, Impairment of Fertility
 
 Etoposide has been shown to be mutagenic in Ames assay.
 
@@ -71,7 +67,9 @@ Irreversible testicular atrophy was present in rats treated with etoposide intra
 
 ## Pregnancy
 
-Pregnancy “Category D” (see WARNINGS).
+### Pregnancy Category D
+
+(see WARNINGS).
 
 ## Nursing Mothers
 
@@ -84,16 +82,16 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Of more than 600 patients in four clinical studies in the NDA databases who received etoposide or etoposide phosphate in combination with other chemotherapeutic agents for the treatment of small cell lung cancer (SCLC), about one third were older than 65 years.
+Of more than 600 patients in four clinical studies in the NDA databases who received etoposide or etoposide phosphate in combination with other chemotherapeutic agents for the treatment of small cell lung cancer (SCLC), about one-third were older than 65 years.
 When advanced age was determined to be a prognostic factor for response or survival in these studies, comparisons between treatment groups were performed for the elderly subset.
-In the one study (etoposide in combination with cyclophosphamide and vincristine compared with cyclophosphamide and vincristine or cyclophosphamide, vincristine, and doxorubicin) where age was a significant prognostic factor for survival, a survival benefit for elderly patients was observed for the etoposide regimen compared with the control regimens.
+In the one study (etoposide in combination with cyclophosphamide and vincristine compared with cyclophosphamide and vincristine or cyclophosphamide, vincristine and doxorubicin) where age was a significant prognostic factor for survival, a survival benefit for elderly patients was observed for the etoposide regimen compared with the control regimens.
 No differences in myelosuppression were seen between elderly and younger patients in these studies except for an increased frequency of WHO Grade III or IV leukopenia among elderly patients in a study of etoposide phosphate or etoposide in combination with cisplatin.
-Elderly patients in this study also had more anorexia, mucositis, dehydration, somnolence, and elevated BUN levels than younger patients.
+Elderly patients in this study also had more anorexia, mucositis, dehydration, somnolence and elevated BUN levels than younger patients.
 
 In five single-agent studies of etoposide phosphate in patients with a variety of tumor types, 34% of patients were age 65 years or more.
-WHO Grade III or IV leukopenia, granulocytopenia, and asthenia were more frequent among elderly patients.
+WHO Grade III or IV leukopenia, granulocytopenia and asthenia were more frequent among elderly patients.
 
-Postmarketing experience also suggests that elderly patients may be more sensitive to some of the known adverse effects of etoposide, including myelosuppression, gastrointestinal effects, infectious complications, and alopecia.
+Post-marketing experience also suggests that elderly patients may be more sensitive to some of the known adverse effects of etoposide, including myelosuppression, gastrointestinal effects, infectious complications and alopecia.
 
 Although some minor differences in pharmacokinetic parameters between elderly and nonelderly patients have been observed, these differences were not considered clinically significant.
 

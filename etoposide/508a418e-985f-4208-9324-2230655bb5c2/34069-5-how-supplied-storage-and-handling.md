@@ -1,11 +1,14 @@
 # HOW SUPPLIED
 
-Etoposide Capsules 50 mg are available as follows:
+Etoposide Capsules, USP are available containing 50 mg of etoposide, USP.
 
-Dark pink oblong capsule with “E50” printed in black ink packaged in blisters of 10 in cartons of 20 (NDC 0378-3266-94).
+The 50 mg capsule is an opaque dark pink soft gelatin capsule printed with E50 in black ink.
+They are available as follows:
+
+NDC 0378-3266-94 20 Capsules - Unit Dose
 
 Capsules are to be stored under refrigeration, between 2° to 8°C (36° to 46°F).
 
-DO NOT FREEZE.
+Protect from freezing.
 
-Dispense in child-resistant containers.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.

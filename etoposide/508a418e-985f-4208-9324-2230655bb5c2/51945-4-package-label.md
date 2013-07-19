@@ -2,24 +2,23 @@ PRINCIPAL DISPLAY PANEL - 50 mg
 
 NDC 0378-3266-94
 
-ETOPOSIDE CAPSULES USP 50 mg
+Etoposide Capsules, USP 50 mg
 
-20 CAPSULES Unit Dose (Rx only)
+20 Capsules Unit Dose
 
-2 Blister Strips of 10 Capsules
+Rx only 2 Blister Strips of 10 Capsules
 
-Manufactured by: R.P.
-Scherer GmbH & Co. KG D-69412 Eberbach/Baden Germany
+Each capsule contains: Etoposide, USP...........
+50 mg
 
-Packaged by: Cardinal Health 3001 Red Lion Road Philadelphia, PA 19114-1123
+Usual Dosage: See accompanying prescribing information.
 
-Distributed by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+This unit dose package is not child-resistant.
+Dispense in child-resistant containers.
 
-Each Capsule contains: Etoposide 50 mg.
+Store under refrigeration, 2° to 8°C (36° to 46°F).
+Protect from freezing.
 
-USUAL DOSAGE: See package insert for complete product information.
+Manufactured by: R. P. Scherer GmbH & Co. KG D-69412 Eberbach/Baden Germany
 
-This unit dose package is not child resistant.
-Dispense in Child-Resistant Containers.
-
-Store under refrigeration, 2°C to 8°C (36° to 46°F), Protect from freezing.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505
