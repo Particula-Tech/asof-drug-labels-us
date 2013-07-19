@@ -45,6 +45,9 @@ If you have or have had cancer, talk with your healthcare provider about whether
 - Currently have or have had liver problems
 - Are allergic to any of the ingredients in Evamist
 
+Evamist contains octisalate, an ingredient commonly found in sunscreens, with chemical similarities to aspirin.
+Talk to your doctor before using Evamist if you are allergic to aspirin.
+
 See the list of ingredients in Evamist at the end of this leaflet
 
 - Think you may be pregnant
@@ -102,7 +105,7 @@ It is important that you read and follow these directions on how to use Evamist 
    Young children who are accidentally exposed to estrogen through contact with women using Evamist may show signs of puberty that are not expected (for example, breast budding).
 8. If another person accidentally touches the area of your skin where you sprayed Evamist, tell that person to wash the area of their skin with soap and water right away.
    The longer the Evamist stays on the skin before it is washed off, the greater the chance the estrogen hormone may be absorbed.
-9. If a child under your care unexpectedly starts to develop breasts or has other sexual changes:Talk to you healthcare provider to discuss other treatments for your menopause symptoms if accidental exposure to Evamist cannot be avoided.
+9. If a child under your care unexpectedly starts to develop breasts or has other sexual changes:Talk to your healthcare provider to discuss other treatments for your menopause symptoms if accidental exposure to Evamist cannot be avoided.
    - Have the child checked right away by their healthcare provider.
    - Talk to your healthcare provider about the correct use of Evamist when around children.
    - Stop using Evamist and call your healthcare provider right away if you see any signs and symptoms (breast development or other sexual changes) in a child that may have occurred through accidental exposure to Evamist.
@@ -116,15 +119,15 @@ Start at the lowest dose (1 spray) and talk to your healthcare provider about ho
 Treatment with estrogen should be started at the lowest dose possible, and used only for as long as needed to provide relief of moderate to severe hot flashes associated with menopause.
 You and your healthcare provider should talk regularly (every 3-6 months) about the dose you are taking and whether you still need treatment with Evamist.
 
-The Evamist applicator contains enough product to allow for initial priming of the pump with three sprays plus application for 75 sprays.
-The product will last approximately 75 days if you use 1 spray each day, 37 days if you use 2 sprays each day and 25 days if you use 3 sprays each day.
+The Evamist applicator contains enough product to allow for initial priming of the pump with three sprays plus application for 56 sprays.
+The product will last approximately 56 days if you use 1 spray each day, 28 days if you use 2 sprays each day and 18 days if you use 3 sprays each day.
 
-Do not use this applicator for more than 75 sprays even though the bottle may not be completely empty.
+Do not use this applicator for more than 56 sprays even though the bottle may not be completely empty.
 
 Evamist can be stored in a clean, dry place at room temperature (15° to 30°C or 59° to 86°F) and does not need refrigeration.
 Do not freeze.
 Evamist should not be used after the expiration date.
-When the applicator has been used for 75 sprays you can discard it in normal household waste.
+When the applicator has been used for 56 sprays you can discard it in normal household waste.
 
 What should I do if I miss a dose?
 
@@ -220,3 +223,5 @@ What are the ingredients in Evamist?
 Active ingredient: estradiol (an estrogen hormone)
 
 Inactive ingredients: octisalate (a common active ingredient in some sunscreens used to enhance skin penetration), alcohol (to dissolve the drug)
+
+© 2013 Ther-Rx Corporation 07/2013

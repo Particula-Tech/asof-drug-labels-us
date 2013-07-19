@@ -65,3 +65,10 @@ Headache, migraine, dizziness, mental depression, exacerbation of chorea, nervou
 Miscellaneous
 
 Increase or decrease in weight, glucose intolerance, aggravation of porphyria, edema, arthralgias, leg cramps, changes in libido, urticaria, angioedema, anaphylactoid/anaphylactic reactions, hypocalcemia (preexisting condition), exacerbation of asthma, increased triglycerides.
+
+## 6.3 Postmarketing Experience
+
+The following additional adverse reactions have been identified during postapproval use of Evamist.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin: Nipple and areola discoloration, usually on the same side of the body as the inner forearm on which Evamist is applied.

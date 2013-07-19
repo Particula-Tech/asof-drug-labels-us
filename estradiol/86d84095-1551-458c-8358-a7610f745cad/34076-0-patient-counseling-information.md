@@ -24,8 +24,8 @@ Provide the following information about secondary exposure to Evamist:
 
 Inform women of the possible side effects of estrogen therapy such as headache, breast pain and tenderness, nausea and vomiting.
 
-P00000 Revised 10/2011
+P6003-1 Revised 07/2013
 
 Manufactured by DPT San Antonio, TX 78215
 
-for Ther-Rx Corporation St. Louis, MO 63146
+for Ther-Rx Corporation Chesterfield, MO 63005
