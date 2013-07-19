@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204242"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Orexo US, Inc.",
+  "package_ndcs": [
+    "54123-914-30",
+    "54123-957-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "buprenorphine hydrochloride and naloxone hydrochloride",
+      "name": "Zubsolv"
+    }
+  ],
+  "setid": "5f5cfcfe-d52b-49e6-8fe4-550477332dd2",
+  "source": "dailymed"
+}
