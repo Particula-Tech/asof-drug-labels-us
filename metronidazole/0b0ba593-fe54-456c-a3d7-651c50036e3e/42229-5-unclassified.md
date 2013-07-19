@@ -2,8 +2,6 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-Manufactured by: Patheon Puerto Rico, Inc. Manati, PR 00674
+LAB-0166-8.0
 
-LAB-0166-6.0
-
-July 2010
+September 2010

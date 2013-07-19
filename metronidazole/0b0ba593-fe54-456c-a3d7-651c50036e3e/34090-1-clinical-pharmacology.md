@@ -20,7 +20,7 @@ Steady State Pharmacokinetic Parameters of Metronidazole after 750 mg of Flagyl 
 | Cmax (µg/mL) | 19.4±4.7 | 12.5±4.8 |
 | Cmin (µg/mL) | 3.4±2.0 | 4.2±2.2 |
 | Tmax (hrs) | 4.6±2.4 | 6.8±2.8 |
-| T¤ (hrs) | 7.4±1.6 | 8.7±2.2 |
+| T1/2 (hrs) | 7.4±1.6 | 8.7±2.2 |
 
 Relative to the fasting state, the rate of metronidazole absorption from the extended release tablet is increased in the fed state resulting in alteration of the extended release characteristics.
 
