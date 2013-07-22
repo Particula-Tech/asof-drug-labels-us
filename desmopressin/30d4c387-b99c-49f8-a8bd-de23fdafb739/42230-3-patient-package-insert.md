@@ -18,7 +18,7 @@ Using your Stimate® Nasal Spray Pump
 - 6.If Stimate® Nasal Spray has not been used for one week, you will need to prime the pump again by pressing one time, or until you see a fine mist.
 
 Use this check-off chart to help you keep track of the number of sprays used.
-This will help make sure that you receive 25 doses with each bottle of Stimate® Nasal Spray.
+This will help make sure that you receive 25 sprays with each bottle of Stimate® Nasal Spray.
 There is extra medicine in the bottle to allow for priming.
 When using the chart to check off sprays, do not count the priming sprays.
 
@@ -29,4 +29,6 @@ When using the chart to check off sprays, do not count the priming sprays.
 - 2.Check off number 1 on the chart with your first dose of Stimate® Nasal Spray.
   Check off the numbers after each use of Stimate® Nasal Spray.
   If your healthcare provider prescribed a 2-spray dose (300-micrograms), then two numbers should be checked off.
-- 3.Throw away the Stimate® Nasal Spray after 25 doses.
+- 3.Throw away the Stimate® Nasal Spray after 25 sprays.
+
+IN-8155-09

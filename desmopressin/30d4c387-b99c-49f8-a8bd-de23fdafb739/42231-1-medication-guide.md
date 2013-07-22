@@ -1,3 +1,5 @@
+# PATIENT INSTRUCTION GUIDE
+
 Stimate® Nasal Spray (Pronounced Stim-ate) (desmopressin acetate)
 
 Read this patient information leaflet before you start taking Stimate® Nasal Spray and each time you get a refill.
@@ -77,7 +79,7 @@ How should I use Stimate® Nasal Spray?
   Do not use more Stimate® Nasal Spray or take it more often than your healthcare provider told you.
 - The Stimate® Nasal Spray pump provides the correct dose of your medicine.
   For detailed instructions on how to use the nasal spray pump, see the Patient Instructions for Use at the end of this leaflet.
-- The nasal spray pump delivers 25 doses of Stimate® Nasal Spray and each spray contains a measured amount of medicine.
+- The nasal spray pump delivers 25 sprays of Stimate® Nasal Spray and each spray contains a measured amount of medicine.
   Any medicine left in the spray pump after 25 sprays should be thrown away because, at that time, the amount of medicine in each spray may be a lot less than the correct amount.
   Do not put any leftover medicine into another bottle.
 - If your symptoms do not improve, or if they become worse, contact your healthcare provider.
@@ -86,7 +88,7 @@ How should I use Stimate® Nasal Spray?
 
 What are the possible side effects of Stimate® Nasal Spray?
 
-Stimate® Nasal Spray may cause serious side effects, that come from having too much water in the body.
+Stimate® Nasal Spray may cause serious side effects that come from having too much water in the body.
 See "What is the most important information I should know about Stimate® Nasal Spray?".
 
 Common side effects of Stimate Nasal Spray include:

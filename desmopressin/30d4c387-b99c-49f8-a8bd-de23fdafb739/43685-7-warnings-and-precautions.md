@@ -26,10 +26,11 @@ The drug should be used with caution in patients with coronary artery insufficie
 
 Stimate® Nasal Spray should be used with caution in patients with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure and renal disorders because these patients are prone to hyponatremia.
 
-There have been rare reports of thrombotic events (thrombosis7, acute cerebrovascular thrombosis, acute myocardial infarction) following desmopressin acetate injection in patients predisposed to thrombus formation.
+There have been rare reports of thrombotic events (thrombosis, acute cerebrovascular thrombosis, acute myocardial infarction) following desmopressin acetate injection in patients predisposed to thrombus formation.
 No causality has been determined; however, the drug should be used with caution in these patients.
 
-Severe allergic reactions have been reported rarely.2,8-10 Fatal anaphylaxis has been reported in one patient who received intravenous DDAVP® (desmopressin acetate).
+Severe allergic reactions have been reported rarely.
+Fatal anaphylaxis has been reported in one patient who received intravenous DDAVP® (desmopressin acetate).
 It is not known whether antibodies to desmopressin acetate are produced after repeated administration.
 
 Since Stimate® Nasal Spray is used intranasally, changes in the nasal mucosa such as scarring, edema, or other disease may cause erratic, unreliable absorption in which case Stimate® Nasal Spray should be discontinued until the nasal problems resolve.
@@ -37,12 +38,12 @@ For such situations, DDAVP® Injection should be considered.
 
 ## Information for Patients
 
-Patients should be informed that the bottle accurately delivers 25 doses of 150 mcg each.
-Any solution remaining after 25 doses should be discarded since the amount delivered thereafter may be substantially less than 150 mcg of drug.
+Patients should be informed that the bottle accurately delivers 25 sprays of 150 mcg each.
+Any solution remaining after 25 sprays should be discarded since the amount delivered thereafter may be substantially less than 150 mcg of drug.
 No attempt should be made to transfer remaining solution to another bottle.
 Patients should be instructed to read accompanying directions on use of the spray pump carefully before use.
 
-Patients should also be advised that if bleeding is not controlled, the physician should be contacted.2,3
+Patients should also be advised that if bleeding is not controlled, the physician should be contacted.
 
 ## Hemophilia A
 
@@ -86,7 +87,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 Use in infants and children will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
-Stimate® Nasal Spray should not be used in infants younger than 11 months in the treatment of hemophilia A or von Willebrand's disease; safety and effectiveness in children between 11 months and 12 years of age has been demonstrated.2-4
+Stimate® Nasal Spray should not be used in infants younger than 11 months in the treatment of hemophilia A or von Willebrand's disease; safety and effectiveness in children between 11 months and 12 years of age has been demonstrated.
 
 ## Geriatric Use
 
