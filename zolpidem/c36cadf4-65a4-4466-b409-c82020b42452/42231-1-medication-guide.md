@@ -36,6 +36,9 @@ AMBIEN is used in adults for the short-term treatment of a sleep problem called 
 
 It is not known if AMBIEN is safe and effective in children under the age of 18 years.
 
+| AMBIEN is a federally controlled substance (C-IV) because it can be abused or lead to dependence. Keep AMBIEN in a safe place to prevent misuse and abuse. Selling or giving away AMBIEN may harm others, and is against the law. Tell your healthcare provider if you have ever abused or have been dependent on alcohol, prescription medicines or street drugs. |
+| --- |
+
 Who should not take AMBIEN?
 
 - Do not take AMBIEN if you are allergic to zolpidem or any other ingredients in AMBIEN.
