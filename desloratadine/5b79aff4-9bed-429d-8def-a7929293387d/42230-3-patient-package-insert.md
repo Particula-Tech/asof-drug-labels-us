@@ -1,8 +1,8 @@
 PATIENT INFORMATION
 
-CLARINEX (CLA-RI-NEX) Tablets, RediTabs, and Oral Solution (desloratadine)
+CLARINEX® (CLA-RI-NEX) (desloratadine) Tablets and Oral Solution
 
-Read the Patient Information that comes with CLARINEX before you start taking it and each time you get a refill.
+Read the Patient Information that comes with CLARINEX® before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet is a summary of the information for patients.
 Your doctor or pharmacist can give you additional information.
@@ -24,7 +24,7 @@ Who should not take CLARINEX?
 
 Do not take CLARINEX if you:
 
-- are allergic to desloratadine or any of the ingredients in CLARINEX Tablets, CLARINEX RediTabs or CLARINEX Oral Solution.
+- are allergic to desloratadine or any of the ingredients in CLARINEX Tablets or CLARINEX Oral Solution.
   See the end of this leaflet for a complete list of ingredients.
 - are allergic to loratadine (Alavert, Claritin).
 
@@ -62,9 +62,6 @@ How should I take CLARINEX?
 - Take CLARINEX exactly as your doctor tells you to take it.
 - Do not change your dose of CLARINEX or take more often than prescribed.
 - CLARINEX can be taken with or without food.
-- Place CLARINEX RediTabs Tablet on your tongue and allow it to dissolve before swallowing.
-  CLARINEX RediTabs can be taken with or without water.
-  Take your CLARINEX RediTabs Tablet right away after opening the blister.
 - Take CLARINEX Oral Solution with a measuring dropper or oral syringe that can measure 2 mL or 2.5 mL.
   Ask your pharmacist for a dropper or syringe if you do not have one.
 - If you take too much CLARINEX, call your doctor or get medical attention right away.
@@ -106,12 +103,10 @@ How should I store CLARINEX?
 - CLARINEX Tablets are sensitive to heat.
   Do not store above 86°F (30°C).
 - Protect CLARINEX Tablets from moisture.
-- Store CLARINEX RediTabs Tablets between 59°F to 86°F (15°C to 30°C).
-  Store in original package.
 - Store CLARINEX Oral Solution between 59°F to 86°F (15°C to 30°C).
   Protect CLARINEX Oral Solution from light.
 
-Keep CLARINEX Tablets, RediTabs Tablets, and Oral Solution and all medicines out of the reach of children.
+Keep CLARINEX Tablets and Oral Solution and all medicines out of the reach of children.
 
 General information about CLARINEX
 
@@ -130,26 +125,7 @@ What are the ingredients in CLARINEX?
 
 Active ingredient: desloratadine
 
-Patients with Phenylketonuria: CLARINEX RediTabs 5 mg Tablets contain 2.9 mg phenylalanine, and CLARINEX RediTabs 2.5 mg Tablets contain 1.4 mg phenylalanine.
-
 Inactive ingredients in CLARINEX Tablets: dibasic calcium phosphate dihydrate USP, microcrystalline cellulose NF, corn starch NF, talc USP, carnauba wax NF, white wax NF, coating material consisting of lactose monohydrate, hypromellose, titanium dioxide, polyethylene glycol, and FD&C Blue #2 Aluminum Lake.
 
 Inactive ingredients in CLARINEX Oral Solution: propylene glycol USP, sorbitol solution USP, citric acid (anhydrous) USP, sodium citrate dihydrate USP, sodium benzoate NF, disodium edetate USP, purified water USP.
 It also contains granulated sugar, natural and artificial flavor for bubble gum and FDC Yellow #6 dye.
-
-Inactive ingredients in CLARINEX RediTabs: mannitol USP, microcrystalline cellulose NF, pregelatinized starch NF, sodium starch glycolate USP, magnesium stearate NF, butylated methacrylate copolymer, crospovidone NF, aspartame NF, citric acid USP, sodium bicarbonate USP, colloidal silicon dioxide NF, ferric oxide red NF and tutti frutti flavoring.
-
-CLARINEX RediTabs brand of desloratadine orally-disintegrating tablets are manufactured by CIMA LABS INC.®, Eden Prairie, MN 55344.
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ, 08889 USA
-
-CLARINEX Tablets are manufactured by Schering Corporation, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889 USA
-
-CLARINEX Oral Solution is manufactured by Schering-Plough Canada, Inc., Pointe Claire, Quebec, Canada.
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-U.S. Patent Nos: Tablets: 6,100,274; 7,214,683 RediTabs: 5,607,697; 6,100,274; 7,214,683; 7,618,649 Oral Solution: 6,514,520; 7,214,683
-
-Copyright © 2010 Schering Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
-
-34964807T Rev.
-04/11

@@ -25,10 +25,6 @@ The effectiveness of CLARINEX Oral Solution in these age groups is supported by 
 The safety and effectiveness of CLARINEX Tablets or CLARINEX Oral Solution have not been demonstrated in pediatric patients less than 6 months of age.
 [See Clinical Pharmacology (12.3).]
 
-The CLARINEX RediTabs 2.5 mg tablet has not been evaluated in pediatric patients.
-Bioequivalence of the CLARINEX RediTabs Tablet and the previously marketed RediTabs Tablet was established in adults.
-In conjunction with the dose finding studies in pediatrics described, the pharmacokinetic data for CLARINEX RediTabs supports the use of the 2.5-mg dose strength in pediatric patients 6 to 11 years of age.
-
 ## 8.5 Geriatric Use
 
 Clinical studies of desloratadine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.

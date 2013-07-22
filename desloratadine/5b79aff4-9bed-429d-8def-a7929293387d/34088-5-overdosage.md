@@ -7,7 +7,7 @@ Desloratadine and 3-hydroxydesloratadine are not eliminated by hemodialysis.
 Information regarding acute overdosage is limited to experience from post-marketing adverse event reports and from clinical trials conducted during the development of the CLARINEX product.
 In a dose-ranging trial, at doses of 10 mg and 20 mg/day somnolence was reported.
 
-In another study, no clinically relevant adverse events were reported in normal male and female volunteers who were given single daily doses of CLARINEX 45 mg for 10 days [See Clinical Pharmacology (12.2)].
+In another study, no clinically relevant adverse events were reported in normal male and female volunteers who were given single daily doses of CLARINEX 45 mg for 10 days [see Clinical Pharmacology (12.2)].
 
 Lethality occurred in rats at oral doses of 250 mg/kg or greater (estimated desloratadine and desloratadine metabolite exposures were approximately 120 times the AUC in humans at the recommended daily oral dose).
 The oral median lethal dose in mice was 353 mg/kg (estimated desloratadine exposures were approximately 290 times the human daily oral dose on a mg/m2 basis).

@@ -1,20 +1,16 @@
-PRINCIPAL DISPLAY PANEL - 5 mg Tablet Carton
+PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
 
-NDC 0085-1264-03
+NDC 0085-1264-01 100 Tablets
 
 CLARINEX® (desloratadine) 5 mg TABLETS
 
-Rx only 100 Tablets (Unit-Dose Box)
-
-™
+Rx only
 
 actual size
 
-PRINCIPAL DISPLAY PANEL - 0.5 mg Solution Carton
+PRINCIPAL DISPLAY PANEL - 16 fl oz Bottle Carton
 
-NDC 0085-1334-01
-
-16 fl oz
+NDC 0085-1334-01 16 fl oz
 
 CLARINEX® ORAL SOLUTION (desloratadine) 0.5 mg per 1 mL
 
@@ -25,33 +21,3 @@ Each teaspoonful (5 mL) contains: 2.5 mg desloratadine.
 Read accompanying directions carefully.
 
 Rx only
-
-®
-
-PRINCIPAL DISPLAY PANEL - 5 mg Orally-Disintegrating Tablet Carton
-
-30 Tablets NDC 0085-1384-01
-
-5 mg
-
-CLARINEX® RediTabs® (desloratadine 5 mg) orally-disintegrating tablets
-
-Rx only
-
-™
-
-actual size
-
-PRINCIPAL DISPLAY PANEL - 2.5 mg Orally-Disintegrating Tablet Carton
-
-30 Tablets NDC 0085-1408-01
-
-2.5 mg
-
-CLARINEX® RediTabs® (desloratadine 2.5 mg) orally-disintegrating tablets
-
-Rx only
-
-™
-
-actual size

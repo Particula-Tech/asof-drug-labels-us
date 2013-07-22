@@ -26,16 +26,12 @@ No clinically relevant adverse events were reported.
 
 Absorption
 
-Following oral administration of a desloratadine 5 mg tablet once daily for 10 days to normal healthy volunteers, the mean time to maximum plasma concentrations (Tmax) occurred at approximately 3 hours post dose and mean steady state peak plasma concentrations (Cmax) and AUC of 4 ng/mL and 56.9 ng∙hr/mL were observed, respectively.
+Following oral administration of a desloratadine 5-mg tablet once daily for 10 days to normal healthy volunteers, the mean time to maximum plasma concentrations (Tmax) occurred at approximately 3 hours post dose and mean steady state peak plasma concentrations (Cmax) and AUC of 4 ng/mL and 56.9 ng∙hr/mL were observed, respectively.
 Neither food nor grapefruit juice had an effect on the bioavailability (Cmax and AUC) of desloratadine.
 
 The pharmacokinetic profile of CLARINEX Oral Solution was evaluated in a three-way crossover study in 30 adult volunteers.
-A single dose of 10 mL of CLARINEX Oral Solution containing 5 mg of desloratadine was bioequivalent to a single dose of 5 mg CLARINEX Tablet.
+A single dose of 10 mL of CLARINEX Oral Solution containing 5 mg of desloratadine was bioequivalent to a single dose of 5-mg CLARINEX Tablet.
 Food had no effect on the bioavailability (AUC and Cmax) of CLARINEX Oral Solution.
-
-The pharmacokinetic profile of CLARINEX RediTabs Tablets was evaluated in a three way crossover study in 24 adult volunteers.
-A single CLARINEX RediTabs Tablet containing 5 mg of desloratadine was bioequivalent to a single 5 mg CLARINEX RediTabs Tablet (original formulation) for both desloratadine and 3-hydroxydesloratadine.
-Food and water had no effect on the bioavailability (AUC and Cmax) of CLARINEX RediTabs Tablets.
 
 Distribution
 
@@ -47,8 +43,8 @@ Metabolism
 Desloratadine (a major metabolite of loratadine) is extensively metabolized to 3-hydroxydesloratadine, an active metabolite, which is subsequently glucuronidated.
 The enzyme(s) responsible for the formation of 3-hydroxydesloratadine have not been identified.
 Data from clinical trials indicate that a subset of the general population has a decreased ability to form 3-hydroxydesloratadine, and are poor metabolizers of desloratadine.
-In pharmacokinetic studies (n=3,748), approximately 6% of subjects were poor metabolizers of desloratadine (defined as a subject with an AUC ratio of 3-hydroxydesloratadine to desloratadine less than 0.1, or a subject with a desloratadine half-life exceeding 50 hours).
-These pharmacokinetic studies included subjects between the ages of 2 and 70 years, including 977 subjects aged 2 to 5 years, 1,575 subjects aged 6 to 11 years, and 1196 subjects aged 12 to 70 years.
+In pharmacokinetic studies (n=3748), approximately 6% of subjects were poor metabolizers of desloratadine (defined as a subject with an AUC ratio of 3-hydroxydesloratadine to desloratadine less than 0.1, or a subject with a desloratadine half-life exceeding 50 hours).
+These pharmacokinetic studies included subjects between the ages of 2 and 70 years, including 977 subjects aged 2 to 5 years, 1575 subjects aged 6 to 11 years, and 1196 subjects aged 12 to 70 years.
 There was no difference in the prevalence of poor metabolizers across age groups.
 The frequency of poor metabolizers was higher in Blacks (17%, n=988) as compared to Caucasians (2%, n=1,462) and Hispanics (2%, n=1,063).
 The median exposure (AUC) to desloratadine in the poor metabolizers was approximately 6-fold greater than in the subjects who are not poor metabolizers.
@@ -73,16 +69,12 @@ The mean plasma elimination half-life of desloratadine was 33.7 hr in subjects �
 The pharmacokinetics for 3-hydroxydesloratadine appeared unchanged in older versus younger subjects.
 These age-related differences are unlikely to be clinically relevant and no dosage adjustment is recommended in elderly subjects.
 
-Pediatric Subjects: In subjects 6 to 11 years old, a single dose of 5 mL of CLARINEX Oral Solution containing 2.5 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5 mg CLARINEX Tablet.
+Pediatric Subjects: In subjects 6 to 11 years old, a single dose of 5 mL of CLARINEX Oral Solution containing 2.5 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5-mg CLARINEX Tablet.
 In subjects 2 to 5 years old, a single dose of 2.5 mL of CLARINEX Oral Solution containing 1.25 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5-mg CLARINEX Tablet.
-However, the Cmax and AUC of the metabolite (3-hydroxydesloratadine) were 1.27 and 1.61 times higher for the 5 mg dose of Oral Solution administered in adults compared to the Cmax and AUC obtained in children 2 to 11 years of age receiving 1.25–2.5 mg of CLARINEX Oral Solution.
+However, the Cmax and AUC of the metabolite (3-hydroxydesloratadine) were 1.27 and 1.61 times higher for the 5-mg dose of Oral Solution administered in adults compared to the Cmax and AUC obtained in children 2 to 11 years of age receiving 1.25–2.5 mg of CLARINEX Oral Solution.
 
 A single dose of either 2.5 mL or 1.25 mL of CLARINEX Oral Solution containing 1.25 mg or 0.625 mg, respectively, of desloratadine was administered to subjects 6 to 11 months of age and 12 to 23 months of age.
-The results of a population pharmacokinetic analysis indicated that a dose of 1 mg for subjects aged 6 to 11 months and 1.25 mg for subjects 12 to 23 months of age is required to obtain desloratadine plasma concentrations similar to those achieved in adults administered a single 5 mg dose of CLARINEX Oral Solution.
-
-The CLARINEX RediTabs 2.5 mg tablet has not been evaluated in pediatric patients.
-Bioequivalence of the CLARINEX RediTabs Tablet and the original CLARINEX RediTabs Tablets was established in adults.
-In conjunction with the dose-finding studies in pediatrics described, the pharmacokinetic data for CLARINEX RediTabs Tablets supports the use of the 2.5-mg dose strength in pediatric patients 6 to 11 years of age.
+The results of a population pharmacokinetic analysis indicated that a dose of 1 mg for subjects aged 6 to 11 months and 1.25 mg for subjects 12 to 23 months of age is required to obtain desloratadine plasma concentrations similar to those achieved in adults administered a single 5-mg dose of CLARINEX Oral Solution.
 
 Renally Impaired: Desloratadine pharmacokinetics following a single dose of 7.5 mg were characterized in patients with mild (n=7; creatinine clearance 51–69 mL/min/1.73 m2), moderate (n=6; creatinine clearance 34–43 mL/min/1.73 m2), and severe (n=6; creatinine clearance 5–29 mL/min/1.73 m2) renal impairment or hemodialysis dependent (n=6) patients.
 In patients with mild and moderate renal impairment, median Cmax and AUC values increased by approximately 1.2- and 1.9-fold, respectively, relative to subjects with normal renal function.
@@ -109,11 +101,11 @@ These differences are not likely to be clinically relevant and therefore no dose
 
 Drug Interactions: In two controlled crossover clinical pharmacology studies in healthy male (n=12 in each study) and female (n=12 in each study) volunteers, desloratadine 7.5 mg (1.5 times the daily dose) once daily was coadministered with erythromycin 500 mg every 8 hours or ketoconazole 200 mg every 12 hours for 10 days.
 In three separate controlled, parallel group clinical pharmacology studies, desloratadine at the clinical dose of 5 mg has been coadministered with azithromycin 500 mg followed by 250 mg once daily for 4 days (n=18) or with fluoxetine 20 mg once daily for 7 days after a 23-day pretreatment period with fluoxetine (n=18) or with cimetidine 600 mg every 12 hours for 14 days (n=18) under steady-state conditions to normal healthy male and female volunteers.
-Although increased plasma concentrations (Cmax and AUC 0–24 hrs) of desloratadine and 3-hydroxydesloratadine were observed (see Table 2), there were no clinically relevant changes in the safety profile of desloratadine, as assessed by electrocardiographic parameters (including the corrected QT interval), clinical laboratory tests, vital signs, and adverse events.
+Although increased plasma concentrations (Cmax and AUC0-24 hrs) of desloratadine and 3-hydroxydesloratadine were observed (see Table 2), there were no clinically relevant changes in the safety profile of desloratadine, as assessed by electrocardiographic parameters (including the corrected QT interval), clinical laboratory tests, vital signs, and adverse events.
 
-Table 2 Changes in Desloratadine and 3-Hydroxydesloratadine Pharmacokinetics in Healthy Male and Female Volunteers
+Table 2: Changes in Desloratadine and 3-Hydroxydesloratadine Pharmacokinetics in Healthy Male and Female Volunteers
 
-|  | Cmax | AUC 0–24 hrs | Cmax | AUC 0–24 hrs |
+|  | Cmax | AUC0-24 hrs | Cmax | AUC0-24 hrs |
 | --- | --- | --- | --- | --- |
 |  | Desloratadine |  | 3-Hydroxydesloratadine |  |
 | Erythromycin (500 mg Q8h) | + 24% | + 14% | + 43% | + 40% |
