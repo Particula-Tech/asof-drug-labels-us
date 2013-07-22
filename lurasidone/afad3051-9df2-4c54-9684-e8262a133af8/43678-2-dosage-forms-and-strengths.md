@@ -8,5 +8,6 @@ Table 1: LATUDA Tablet Presentations
 | --- | --- | --- |
 | 20 mg | white to off-white round | L20 |
 | 40 mg | white to off-white round | L40 |
+| 60 mg | white to off white oblong | L60 |
 | 80 mg | pale green oval | L80 |
 | 120 mg | white to off-white oval | L120 |

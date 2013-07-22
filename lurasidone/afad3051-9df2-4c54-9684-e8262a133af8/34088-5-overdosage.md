@@ -2,7 +2,7 @@
 
 ## 10.1 Human Experience
 
-In premarketing clinical studies involving 2905 patients, accidental or intentional overdosage of LATUDA was identified in one patient who ingested an estimated 560 mg of LATUDA.
+In premarketing clinical studies, accidental or intentional overdosage of LATUDA was identified in one patient who ingested an estimated 560 mg of LATUDA.
 This patient recovered without sequelae.
 This patient resumed LATUDA treatment for an additional two months.
 
@@ -10,6 +10,7 @@ This patient resumed LATUDA treatment for an additional two months.
 
 Consult a Certified Poison Control Center for up-to-date guidance and advice.
 There is no specific antidote to LATUDA, therefore, appropriate supportive measures should be instituted and close medical supervision and monitoring should continue until the patient recovers.
+Consider the possibility of multiple-drug overdose.
 
 Cardiovascular monitoring should commence immediately, including continuous electrocardiographic monitoring for possible arrhythmias.
 If antiarrhythmic therapy is administered, disopyramide, procainamide, and quinidine carry a theoretical hazard of additive QT-prolonging effects when administered in patients with an acute overdose of LATUDA.

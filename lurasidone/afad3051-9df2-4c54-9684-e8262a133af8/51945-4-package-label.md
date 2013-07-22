@@ -1,6 +1,6 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 mg LABEL
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 60 mg, 30-ct LABEL
 
-NDC 63402-304-30
+NDC 63402-306-30
 
 30 Tablets
 
@@ -8,53 +8,55 @@ Latuda®
 
 (lurasidone HCl) tablets
 
-40 mg
+60 mg
+
+LOT EXP.
+
+ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
 
 Rx Only
 
 Sunovion
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 mg Hospital Unit Dose Blister
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 60 mg, 90-ct LABEL
 
-NDC 63402-304-01
+NDC 63402-306-90
 
-Latuda®
-
-(lurasidone HCl)
-
-Tablet
-
-40 mg
-
-901405R00
-
-(01)122 63402 304014
-
-EXP: LOT:
-
-Sunovion Pharmaceuticals Inc.
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 mg Hospital Unit Dose Carton
-
-NDC 63402-304-10
-
-100 Tablets
-
-(10 Cards, 10 Tablets Each)
+90 Tablets
 
 Latuda®
 
 (lurasidone HCl) tablets
 
-40 mg
+60 mg
 
-Rx only
+ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
+
+Rx Only
 
 Sunovion
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 mg Blister
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 60 mg, 500-ct LABEL
 
-NDC 63402-304-07
+NDC 63402-306-50
+
+500 Tablets
+
+Latuda®
+
+(lurasidone HCl) tablets
+
+60 mg
+
+ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
+
+Rx Only
+
+Sunovion
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 60 mg Blister
+
+NDC 63402-306-07
 
 7 Tablets
 
@@ -62,38 +64,70 @@ PROFESSIONAL SAMPLE
 
 NOT FOR SALE OR REIMBURSEMENT
 
-Package not child resistant.
-
 Latuda®
 
 (lurasidone HCl) tablets
 
-40 mg
+60 mg per tablet
 
 Rx only
 
-Please see full prescribing information,
-
-including Boxed Warning.
+ATTENTION DISPENSER: Dispense the enclosed Medication Guide to each patient.
 
 Sunovion
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 mg Carton
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL – 60 mg Carton
 
-NDC 63402-304-04
+NDC 63402-306-70
 
 28 Tablets (4 Cards, 7 Tablets Each)
 
-PROFESSIONAL SAMPLES - NOT FOR SALE OR REIMBURSEMENT
+PROFESSIONAL SAMPLE
 
-Package not child resistant.
+NOT FOR SALE OR REIMBURSEMENT
 
 Latuda®
 
 (lurasidone HCl) tablets
 
-40 mg
+60 mg per tablet
 
 Rx only
 
-SUNOVION
+ATTENTION DISPENSER: Dispense the enclosed Medication Guide to each patient.
+
+Sunovion
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL – 60 mg Blister
+
+NDC 63402-306-01
+
+10 Tablets
+
+Latuda®
+
+(lurasidone HCl) tablets
+
+60 mg
+
+EXP: LOT:
+
+Sunovion Pharmaceuticals Inc.
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 60 mg, HUD Carton
+
+NDC 63402-306-10
+
+100 Tablets (10 Cards, 10 Tablets Each)
+
+Latuda®
+
+(lurasidone HCl) tablets
+
+60 mg per tablet
+
+ATTENTION DISPENSER: Each time Latuda is dispensed give the patient the accompanying Medication Guide, also provided at www.latuda.com or 1-888-394-7377.
+
+Rx Only
+
+Sunovion
