@@ -10,25 +10,25 @@ Share the important information in this Medication Guide with members of your ho
 What is the most important information I should know about buprenorphine HCl sublingual tablets?
 
 - 
-  - ∘You feel faint, dizzy or confused
-  - ∘Your breathing gets much slower than is normal for you
+  - •You feel faint, dizzy or confused
+  - •Your breathing gets much slower than is normal for you
 
 These can be signs of an overdose or other serious problems.
 
 - 
-  - ∘Do not stop taking buprenorphine HCl sublingual tablets without talking to your doctor.
+  - •Do not stop taking buprenorphine HCl sublingual tablets without talking to your doctor.
     You could become sick with uncomfortable withdrawal signs and symptoms because your body has become used to this medicine
-  - ∘Physical dependence is not the same as drug addiction
-  - ∘Buprenorphine HCl sublingual tablets are not for occasional or “as needed” use
+  - •Physical dependence is not the same as drug addiction
+  - •Buprenorphine HCl sublingual tablets are not for occasional or “as needed” use
 - •An overdose, and even death, can happen if you take benzodiazepines, sedatives, tranquilizers, or alcohol while using buprenorphine HCl sublingual tablets.
   Ask your doctor what you should do if you are taking one of these.
-  - ∘Feel sleepy and uncoordinated
-  - ∘Have blurred vision
-  - ∘Have slurred speech
-  - ∘Cannot think well or clearly
-  - ∘Have slowed reflexes and breathing
-  - ∘Injecting this medicine may cause life-threatening infections and other serious health problems.
-  - ∘Injecting buprenorphine HCl sublingual tablets may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems and cravings.
+  - •Feel sleepy and uncoordinated
+  - •Have blurred vision
+  - •Have slurred speech
+  - •Cannot think well or clearly
+  - •Have slowed reflexes and breathing
+  - •Injecting this medicine may cause life-threatening infections and other serious health problems.
+  - •Injecting buprenorphine HCl sublingual tablets may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems and cravings.
 - •In an emergency, have family members tell the emergency department staff that you are physically dependent on an opioid and are being treated with buprenorphine HCl sublingual tablets.
 
 What are buprenorphine HCl sublingual tablets?
@@ -60,12 +60,10 @@ Before taking buprenorphine HCl sublingual tablets, tell your doctor if you:
 - •Have low thyroid (hypothyroidism)
 - •Have a history of alcoholism
 - •Have mental problems such as hallucinations (seeing or hearing things that are not there)
-- •Have any other medical condition
-- Are pregnant or plan to become pregnant.
+- •Have any other medical condition Are pregnant or plan to become pregnant.
   It is not known if buprenorphine HCl sublingual tablets will harm your unborn baby.
   If you take buprenorphine HCl sublingual tablets while pregnant, your baby may have symptoms of withdrawal at birth.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-
 - •Are breast feeding or plan to breast feed.
   Buprenorphine HCl sublingual tablets can pass into your milk and may harm the baby.
   Talk to your doctor about the best way to feed your baby if you take buprenorphine HCl sublingual tablets.
@@ -90,11 +88,10 @@ How should I take buprenorphine HCl sublingual tablets?
   Your doctor may change your dose after seeing how it affects you.
   Do not change your dose unless your doctor tells you to change it.
 - •Do not take buprenorphine HCl sublingual tablets more often than prescribed by your doctor.
-  - ∘Ask your doctor for instructions on the right way to take buprenorphine HCl sublingual tablets
-  - ∘Follow the same instructions every time you take a dose of buprenorphine HCl sublingual tablets
+  - •Ask your doctor for instructions on the right way to take buprenorphine HCl sublingual tablets
+  - •Follow the same instructions every time you take a dose of buprenorphine HCl sublingual tablets
 - •Put the tablets under your tongue.
   Let them dissolve completely.
-- 
 
 - •While buprenorphine HCl sublingual tablets are dissolving, do not chew or swallow the tablet because the medicine will not work as well.
 - •Talking while the tablet is dissolving can affect how well the medicine in buprenorphine HCl sublingual tablets is absorbed.
