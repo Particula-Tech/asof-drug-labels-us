@@ -22,15 +22,15 @@ Edema is a known, dose-dependent adverse effect of amlodipine but not of olmesar
 The placebo-subtracted incidence of edema during the 8-week, randomized, double-blind treatment period was highest with amlodipine 10 mg monotherapy.
 The incidence was significantly reduced when 20 mg or 40 mg of olmesartan medoxomil was added to the 10 mg amlodipine dose.
 
-Placebo-Subtracted Incidence of Edema during the Double-Blind Treatment Period
+Placebo Subtracted Incidence of Edema during the Double-Blind Treatment Period
 
-|  |  | Olmesartan Medoxomil |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Placebo | 20 mg | 40 mg |  |
-| Amlodipine | Placebo | –%* | -2.4% | 6.2% |  |
-| 5mg | 0.7% | 5.7% | 6.2% |  |  |
-| 10 mg | 24.5% | 13.3% | 11.2% |  |  |
-| *12.3%=actual placebo incidence |  |  |  |  |  |
+|  |  | Olmesartan | Medoximil |  |
+| --- | --- | --- | --- | --- |
+|  |  | Placebo | 20 mg | 40 mg |
+|  | Placebo | * | -2.4% | 6.2% |
+| Almodopine | 5 mg | 0.7% | 5.7% | 6.2% |
+|  | 10 mg | 24.5% | 13.3% | 11.2% |
+| *12.3%=actual placebo incidence |  |  |  |  |
 
 Across all treatment groups, the frequency of edema was generally higher in women than men, as has been observed in previous studies of amlodipine.
 
@@ -104,4 +104,4 @@ In post-marketing experience, jaundice and hepatic enzyme elevations (mostly con
 Olmesartan medoxomil.
 The following adverse reactions have been reported in post-marketing experience:
 
-Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: vomiting, diarrhea Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria
+Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: vomiting, diarrhea, sprue-like enteropathy [see Warnings and Precautions (5.8)] Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria

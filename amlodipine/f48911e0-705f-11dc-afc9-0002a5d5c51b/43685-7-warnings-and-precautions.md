@@ -60,7 +60,14 @@ Patients with hepatic impairment have decreased clearance of amlodipine.
 Starting amlodipine or adding amlodipine at 2.5 mg in hepatically impaired patients is recommended.
 The lowest dose of Azor is 5/20 mg; therefore, initial therapy with Azor is not recommended in hepatically impaired patients [See Use in Specific Populations (8.6)].
 
-## 5.8 Laboratory Tests
+## 5.8 Sprue-like Enteropathy
+
+Severe, chronic diarrhea with substantial weight loss has been reported in patients taking olmesartan months to years after drug initiation.
+Intestinal biopsies of patients often demonstrated villous atrophy.
+If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies.
+Consider discontinuation of Azor in cases where no other etiology is identified.
+
+## 5.9 Laboratory Tests
 
 Azor.
 There was a greater decrease in hemoglobin and hematocrit in the combination product compared to either component.
