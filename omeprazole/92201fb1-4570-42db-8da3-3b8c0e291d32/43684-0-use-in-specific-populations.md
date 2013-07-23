@@ -4,41 +4,46 @@
 
 Pregnancy Category C
 
-Reproductive studies in rats and rabbits with omeprazole and multiple cohort studies in pregnant women with omeprazole use during the first trimester do not show an increased risk of congenital anomalies or adverse pregnancy outcomes.
-There are no adequate and well-controlled studies on the use of omeprazole in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-The vast majority of reported experience with omeprazole during human pregnancy is first trimester exposure and the duration of use is rarely specified, e.g., intermittent vs. chronic.
-An expert review of published data on experiences with omeprazole use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as fair).
+Risk Summary
 
-Three epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2–receptor antagonists or other controls.
-A population-based prospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
-In utero exposure to omeprazole was not associated with increased risk of any malformation (odds ratio 0.82, 95% CI 0.50–1.34), low birth weight or low Apgar score.
-The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in the normal population.
-The author concluded that both effects may be random.
+There are no adequate and well-controlled studies with Omeprazole Delayed-Release Capsules in pregnant women.
+Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
+Reproduction studies in rats and rabbits resulted in dose-dependent embryolethality at omeprazole doses that were approximately 5.5 – 56 times higher than the human dose.
+Omeprazole Delayed-Release Capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-A retrospective cohort study reported on 689 pregnant women exposed to either H2–blockers or omeprazole in the first trimester (134 exposed to omeprazole).
-The overall malformation rate was 4.4% (95% CI 3.6–5.3) and the malformation rate for first trimester exposure to omeprazole was 3.6% (95% CI 1.5–8.1).
-The relative risk of malformations associated with first trimester exposure to omeprazole compared with non-exposed women was 0.9 (95% CI 0.3–2.2).
-The study could effectively rule out a relative risk greater than 2.5 for all malformations.
-Rates of preterm delivery or growth retardation did not differ between the groups.
+Human Data
 
-A controlled prospective observational study followed 113 women exposed to omeprazole during pregnancy (89% first trimester exposures).
-The reported rates of major congenital malformations was 4% for the omeprazole group, 2% for controls exposed to non-teratogens, and 2.8% in disease-paired controls (background incidence of major malformations 1–5%).
-Rates of spontaneous and elective abortions, preterm deliveries, gestational age at delivery, and mean birth weight did not differ between the groups.
-The sample size in this study has 80% power to detect a 5–fold increase in the rate of major malformation.
+Four epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2-receptor antagonists or other controls.
+
+A population-based retrospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, from 1995-99, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
+The number of infants exposed in utero to omeprazole that had any malformation, low birth weight, low Apgar score, or hospitalization was similar to the number observed in this population.
+The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in this population.
+
+A population-based retrospective cohort study covering all live births in Denmark from 1996-2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837, 317 live births whose mothers did not use any proton pump inhibitor.
+The overall rate of birth defects in infants born to mothers with first trimester exposure to omeprazole was 2.9% and 2.6% in infants born to mothers not exposed to any proton pump inhibitor during the first trimester.
+
+A retrospective cohort study reported on 689 pregnant women exposed to either H2-blockers or omeprazole in the first trimester (134 exposed to omeprazole) and 1,572 pregnant women unexposed to either during the first trimester.
+The overall malformation rate in offspring born to mothers with first trimester exposure to omeprazole, an H2-blocker, or were unexposed was 3.6%, 5.5%, and 4.1% respectively.
+
+A small prospective observational cohort study followed 113 women exposed to omeprazole during pregnancy (89% first trimester exposures).
+The reported rate of major congenital malformations was 4% in the omeprazole group, 2% in controls exposed to nonteratogens, and 2.8% in disease-paired controls.
+Rates of spontaneous and elective abortions, preterm deliveries, gestational age at delivery, and mean birth weight were similar among the groups.
 
 Several studies have reported no apparent adverse short-term effects on the infant when single dose oral or intravenous omeprazole was administered to over 200 pregnant women as premedication for cesarean section under general anesthesia.
 
-Reproductive studies conducted with omeprazole on rats at oral doses up to 56 times the human dose and in rabbits at doses up to 56 times the human dose did not show any evidence of teratogenicity.
-In pregnant rabbits, omeprazole at doses about 5.5 to 56 times the human dose produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy loss.
-In rats treated with omeprazole at doses about 5.6 to 56 times the human dose, dose-related embryo/fetal toxicity and postnatal developmental toxicity occurred in offspring [see Animal Toxicology and/or Pharmacology (13.2)].
+Animal Data
+
+Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 56 times the human dose on a body surface area basis) and in rabbits at doses up to 69 mg/kg/day (about 56 times the human dose on a body surface area basis) did not disclose any evidence for a teratogenic potential of omeprazole.
+In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 5.5 to 56 times the human dose on a body surface area basis) produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
+In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 5.6 to 56 times the human doses on a body surface area basis).
 
 ## 8.3 Nursing Mothers
 
-Omeprazole concentrations have been measured in breast milk of a woman following oral administration of 20 mg.
+Omeprazole is present in human milk.
+Omeprazole concentrations were measured in breast milk of a woman following oral administration of 20 mg.
 The peak concentration of omeprazole in breast milk was less than 7% of the peak serum concentration.
 This concentration would correspond to 0.004 mg of omeprazole in 200 mL of milk.
-Because omeprazole is excreted in human milk, because of the potential for serious adverse reactions in nursing infants from omeprazole, and because of the potential for tumorigenicity shown for omeprazole in rat carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Caution should be exercised when Omeprazole Delayed-Release Capsules is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 

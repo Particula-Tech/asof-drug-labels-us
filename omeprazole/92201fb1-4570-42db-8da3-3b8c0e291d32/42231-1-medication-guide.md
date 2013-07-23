@@ -1,9 +1,9 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 Omeprazole Delayed-Release Capsules, USP
 
-CIA77775A Rev.
-1E 12/2012
+CIA77775C Rev.
+3E 06/2013
 
 Read this Medication Guide before you start taking Omeprazole Delayed-Release Capsules and each time you get a refill.
 There may be new information.
@@ -28,12 +28,12 @@ Omeprazole Delayed-Release Capsules can cause serious side effects, including:
 Omeprazole Delayed-Release Capsules can have other serious side effects.
 See "What are the possible side effects of Omeprazole Delayed-Release Capsules?"
 
-What are Omeprazole Delayed-Release Capsules?
+What is Omeprazole Delayed-Release Capsules?
 
-Omeprazole Delayed-Release Capsules are a prescription medicine called a proton pump inhibitor (PPI).
-Omeprazole Delayed-Release Capsules reduce the amount of acid in your stomach.
+Omeprazole Delayed-Release Capsules is a prescription medicine called a proton pump inhibitor (PPI).
+Omeprazole Delayed-Release Capsules reduces the amount of acid in your stomach.
 
-Omeprazole Delayed-Release Capsules are used in adults:
+Omeprazole Delayed-Release Capsules is used in adults:
 
 - for up to 8 weeks for the healing of duodenal ulcers.
   The duodenal area is the area where food passes when it leaves the stomach.
@@ -51,14 +51,14 @@ Omeprazole Delayed-Release Capsules are used in adults:
 - for the long-term treatment of conditions where your stomach makes too much acid.
   This includes a rare condition called Zollinger-Ellison Syndrome.
 
-For children 2 to 16 years of age, Omeprazole Delayed-Release Capsules are used:
+For children 2 to 16 years of age, Omeprazole Delayed-Release Capsules is used:
 
 - for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
 - for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
 - to maintain healing of the esophagus.
   It is not known if Omeprazole Delayed-Release Capsules is safe and effective when used longer than 12 months (1 year) for this purpose.
 
-It is not known if Omeprazole Delayed-Release Capsules are safe and effective for the treatment of gastroesophageal reflux disease (GERD) in children under 2 years of age.
+It is not known if Omeprazole Delayed-Release Capsules is safe and effective for the treatment of gastroesophageal reflux disease (GERD) in children under 2 years of age.
 
 Who should not take Omeprazole Delayed-Release Capsules?
 
@@ -132,7 +132,7 @@ Take Omeprazole Delayed-Release Capsules exactly as prescribed by your doctor.
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose on time.
   Do not take a double dose to make up for a missed dose.
-- If you take too many Omeprazole Delayed-Release Capsules, tell your doctor right away.
+- If you take too much Omeprazole Delayed-Release Capsules, tell your doctor right away.
 
 What are the possible side effects of Omeprazole Delayed-Release Capsules?
 

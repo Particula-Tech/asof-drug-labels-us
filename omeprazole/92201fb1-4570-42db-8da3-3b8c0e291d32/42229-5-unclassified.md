@@ -1,10 +1,10 @@
 Distributed by: Kremers Urban Pharmaceuticals Inc. Princeton, NJ 08540, USA
 
-CIA74312D
+CIA74312F
 
 Rev.
-13E 12/2012
+15E 06/2013
 
 Distributed by: Kremers Urban Pharmaceuticals Inc. Princeton, NJ 08540, USA
 
-CIA77775A Revised: 1E 12/2012
+CIA77775C Revised: 3E 06/2013

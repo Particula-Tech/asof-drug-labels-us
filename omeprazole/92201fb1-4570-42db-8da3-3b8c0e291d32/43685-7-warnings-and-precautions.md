@@ -10,7 +10,7 @@ Atrophic gastritis has been noted occasionally in gastric corpus biopsies from p
 
 ## 5.3 Clostridium difficile associated diarrhea
 
-Published observation studies suggest that PPI therapy like Omeprazole Delayed-Release Capsules may be associated with an increase risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+Published observation studies suggest that PPI therapy like Omeprazole Delayed-Release Capsules may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.

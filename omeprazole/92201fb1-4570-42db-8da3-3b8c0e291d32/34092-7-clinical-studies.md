@@ -154,7 +154,7 @@ Treatment of Gastric Ulcer % Successful Symptomatic Outcome
 | 8 | 74 | 75 | 14 |
 
 In this study, the 40 mg dose was not superior to the 20 mg dose of Omeprazole Delayed-Release Capsules in the percentage healing rate.
-Other controlled clinical trials have also shown that Omeprazole Delayed-Release Capsules are effective in severe GERD.
+Other controlled clinical trials have also shown that Omeprazole Delayed-Release Capsules is effective in severe GERD.
 In comparisons with histamine H2-receptor antagonists in patients with erosive esophagitis, grade 2 or above, Omeprazole Delayed-Release Capsules in a dose of 20 mg was significantly more effective than the active controls.
 Complete daytime and nighttime heartburn relief occurred significantly faster (p < 0.01) in patients treated with Omeprazole Delayed-Release Capsules than in those taking placebo or histamine H2- receptor antagonists.
 
@@ -188,7 +188,7 @@ In open studies of 136 patients with pathological hypersecretory conditions, suc
 Doses ranging from 20 mg every other day to 360 mg per day maintained basal acid secretion below 10 mEq/hr in patients without prior gastric surgery, and below 5 mEq/hr in patients with prior gastric surgery.
 
 Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [see Dosage and Administration (2)].
-Omeprazole Delayed-Release Capsules were well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
+Omeprazole Delayed-Release Capsules was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
 In most ZE patients, serum gastrin levels were not modified by Omeprazole Delayed-Release Capsules.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.
 At least 11 patients with ZE syndrome on long-term treatment with Omeprazole Delayed-Release Capsules developed gastric carcinoids.
