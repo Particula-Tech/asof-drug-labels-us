@@ -52,6 +52,8 @@ No patients were discontinued from clinical trials of olmesartan medoxomil-hydro
 Hemoglobin and Hematocrit: A greater than 20% decrease in hemoglobin and hematocrit was observed in 0.0% and 0.4% (one patient), respectively, of olmesartan medoxomil-hydrochlorothiazide patients, compared with 0.0% and 0.0%, respectively, in placebo-treated patients.
 No patients were discontinued due to anemia.
 
-Post-Marketing Experience: The following adverse reactions have been reported in post-marketing experience:
+## Post-Marketing Experience
 
-Body as a Whole: Asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: Vomiting, diarrhea Metabolic and Nutritional Disorders: Hyperkalemia Musculoskeletal: Rhabdomyolysis Urogenital System: Acute renal failure, increased blood creatinine levels Skin and Appendages: Alopecia, pruritus, urticaria
+The following adverse reactions have been reported in post-marketing experience:
+
+Body as a Whole: Asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: Vomiting, diarrhea, sprue-like enteropathy (see WARNINGS, Sprue-like Enteropathy) Metabolic and Nutritional Disorders: Hyperkalemia Musculoskeletal: Rhabdomyolysis Urogenital System: Acute renal failure, increased blood creatinine levels Skin and Appendages: Alopecia, pruritus, urticaria

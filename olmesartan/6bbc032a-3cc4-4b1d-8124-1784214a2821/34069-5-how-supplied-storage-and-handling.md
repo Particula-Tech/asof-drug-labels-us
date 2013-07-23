@@ -28,4 +28,4 @@ Rx Only
 Copyright © Daiichi Sankyo, Inc. 2006.
 All rights reserved.
 
-Revised 09/2012
+Revised 07/2013

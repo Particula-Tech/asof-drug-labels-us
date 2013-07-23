@@ -35,6 +35,13 @@ If hypotension does occur, the patient should be placed in the supine position a
 When electrolyte and fluid imbalances have been corrected, therapy usually can be continued without difficulty.
 A transient hypotensive response is not a contraindication to further treatment.
 
+## Sprue-like Enteropathy
+
+Severe, chronic diarrhea with substantial weight loss has been reported in patients taking olmesartan months to years after drug initiation.
+Intestinal biopsies of patients often demonstrated villous atrophy.
+If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies.
+Consider discontinuation of BENICAR HCT® in cases where no other etiology is identified.
+
 ## Hydrochlorothiazide
 
 Hepatic Impairment
