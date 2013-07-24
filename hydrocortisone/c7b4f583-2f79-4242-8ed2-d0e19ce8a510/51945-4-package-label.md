@@ -1,5 +1,7 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Locoid Cream 45 fluid oz carton
+Locoid Cream 45g carton
 
-Locoid Cream 15 fluid oz carton
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Locoid Cream 15g carton
