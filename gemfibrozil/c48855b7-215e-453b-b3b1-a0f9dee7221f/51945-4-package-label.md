@@ -1,11 +1,9 @@
-# PRINCIPAL DISPLAY PANEL - 600 mg tablet bottle
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
 
-NDC 0071-0737-30
-
-500 Tablets Rx only
+Pfizer NDC 0071-0737-30
 
 Lopid® (Gemfibrozil Tablets, USP)
 
 600 mg
 
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+500 Tablets Rx only
