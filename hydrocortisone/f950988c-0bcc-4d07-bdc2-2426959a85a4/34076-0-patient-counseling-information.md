@@ -15,16 +15,16 @@ Patients using Locoid Lipocream should receive the following information and ins
 - If no improvement is seen within 2 weeks, contact your physician.
 - Do not use other corticosteroid-containing products while using Locoid Lipocream without first consulting your physician.
 
-PIN 2639 Rev.
+P/N 2639 Rev.
 1
 
 Manufactured for Onset Dermatologies, LLC
 
-Cumberland, RI 02B64
+Cumberland, RI 02864
 
 By Ferndale Laboratories, Inc.
 
-Ferndale, Ml 48220
+Ferndale, MI 48220
 
 www.Locoid.com
 

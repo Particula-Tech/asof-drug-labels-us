@@ -17,14 +17,16 @@ These reactions are listed in an approximate decreasing order of occurrence: bur
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 The safety data derived from Locoid Lipocream clinical trials reflect exposure to Locoid Lipocream twice daily for up to four weeks in separate clinical trials involving pediatric subjects 3 months to 18 years of age with mild to moderate atopic dermatitis.
 
-| Table 1. Frequency of adverse reactions in pediatric subjects with mild to moderate atopic dermatitis |  |  |  |
-| --- | --- | --- | --- |
+Adverse reactions shown in the tables below include those for which there is some basis to believe there is a causal relationship to Locoid Lipocream.
+
+Table 1.
+Frequency of adverse reactions in pediatric subjects with mild to moderate atopic dermatitis
+
 |  |  | Locoid Lipocream (N=131) | Vehicle (N=133) |
+| --- | --- | --- | --- |
 | Application site reactions, including application site folliculitis, irritation, dermatitis, or erythema |  | 1.5% | 1.5% |
 | Acne |  | 0.8% | 0.0% |
 | Telangiectasia |  | 0.0% | 0.8% |
-
-Adverse reactions shown in the tables below include those for which there is some basis to believe there is a causal relationship to Locoid Lipocream.
 
 ## 6.3 Postmarketing Experience
 
