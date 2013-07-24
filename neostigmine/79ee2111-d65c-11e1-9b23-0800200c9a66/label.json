@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204078"
+  ],
+  "inn": "neostigmine",
+  "labeler": "Éclat Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "76014-002-33",
+    "76014-003-33"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "neostigmine methylsulfate",
+      "name": "Bloxiverz"
+    }
+  ],
+  "setid": "79ee2111-d65c-11e1-9b23-0800200c9a66",
+  "source": "dailymed"
+}
