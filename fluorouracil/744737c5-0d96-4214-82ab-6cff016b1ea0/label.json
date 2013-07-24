@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA016831"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-4791-06"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil",
+      "name": "Fluorouracil"
+    }
+  ],
+  "setid": "744737c5-0d96-4214-82ab-6cff016b1ea0",
+  "source": "dailymed"
+}
