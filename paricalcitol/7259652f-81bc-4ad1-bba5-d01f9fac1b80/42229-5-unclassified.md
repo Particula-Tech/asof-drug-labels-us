@@ -1,6 +1,5 @@
-© Abbott
+© AbbVie Inc.
 
-Manufactured by Hospira, Inc. Lake Forest, IL 60045 USA For Abbott Laboratories North Chicago, IL 60064, U.S.A.
+Manufactured for AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-Rev.
-04/2011
+EN-2945 January, 2013

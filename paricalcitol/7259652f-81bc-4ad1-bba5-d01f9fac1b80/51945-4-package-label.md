@@ -1,25 +1,28 @@
-NDC 0074–1658–01
+NDC 0074–4637–01
 
-1mL Single-Dose Vial
+1 mL Single-Dose Vial
 
 Discard unused portion
 
-Zemplar® (paricalcitol) Injection 5 mcg/mL
+Zemplar®(paricalcitol) Injection 2 mcg/mL
 
 For Intravenous Use
 
-Mfd for: Abbott Labs, N. Chgo, IL 60064 USA
+Mfd for: AbbVie Inc, N. Chgo, IL 60064 USA
 
 Rx only
 
-NDC 0074–1658–02
+NDC 0074–1658–01
 
-2mL Single-Dose Fliptop Vial
+1 mL Single-Dose Vial
 
-Zemplar® (paricalcitol) Injection 10 mcg Total (5 mcg/mL) For I.V.
-Use.
+Discard unused portion
 
-Mfg for: Abbott Labs, N. Chgo IL 60064 USA
+Zemplar®(paricalcitol) Injection 5 mcg/mL
+
+For Intravenous Use
+
+Mfd for: AbbVie Inc., N. Chgo, IL 60064 USA
 
 Rx only
 
@@ -27,8 +30,10 @@ NDC 0074–1658–05
 
 2 mL Multi-Dose Vial
 
-Zemplar® (paricalcitol) Injection 10 mcg/2 mL (5 mcg/mL) For Intravenous Use
+Zemplar®(paricalcitol) Injection 10 mcg/2 mL (5 mcg/mL)
 
-Mfd for: Abbott Labs, N. Chgo, IL 60064 USA
+For Intravenous Use
+
+Mfd for: AbbVie Inc., N. Chgo, IL 60064 USA
 
 Rx only
