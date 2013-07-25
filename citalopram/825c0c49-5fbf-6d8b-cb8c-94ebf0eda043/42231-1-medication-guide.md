@@ -9,66 +9,85 @@ What is the most important information I should know about citalopram tablets?
 
 Citalopram tablets and other antidepressant medicines may cause serious side effects, including:
 
-1. 1.Suicidal thoughts or actions:
+1.
+Suicidal thoughts or actions:
 
 - •Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - •Watch for these changes and call your healthcare provider right away if you notice:
-  - •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - •Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
+  - oNew or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+  - oPay particular attention to such changes when citalopram tablets are started or when the dose is changed.
 - Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 - Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
-- 
-  - •attempts to commit suicide
-  - •acting on dangerous impulses
-  - •acting aggressive or violent
-  - •thoughts about suicide or dying
-  - •new or worse depression
-  - •new or worse anxiety or panic attacks
-  - •feeling agitated, restless, angry or irritable
-  - •trouble sleeping
-  - •an increase in activity or talking more than what is normal for you
-  - •other unusual changes in behavior or mood
+  - oattempts to commit suicide
+  - oacting on dangerous impulses
+  - oacting aggressive or violent
+  - othoughts about suicide or dying
+  - onew or worse depression
+  - onew or worse anxiety or panic attacks
+  - ofeeling agitated, restless, angry or irritable
+  - otrouble sleeping
+  - oan increase in activity or talking more than what is normal for you
+  - oother unusual changes in behavior or mood
 - Call your healthcare provider rightaway if you have any of the following symptoms, or call 911 if an emergency.
   Citalopram tablets may be associated with these serious side effects:
-- 2.Changes in the electrical activity of your heart (QT prolongation andTorsade de Pointes).
+
+2.
+Changes in the electrical activity of your heart (QT prolongation andTorsade de Pointes).
+
 - This condition can be life threatening.
-  The symptoms may include:
-- 
-  - •chest pain
-  - •fast or slow heartbeat
-  - •shortness of breath
-  - •dizziness or fainting
-- 3.Serotonin Syndrome.
-  This condition can be life threatening and may include:
-  - •agitation, hallucinations, coma or other changes in mental status
-  - •coordination problems or muscle twitching (overactive reflexes)
-  - •racing heartbeat, high or low blood pressure
-  - •sweating or fever
-  - •nausea, vomiting, or diarrhea
-  - •muscle rigidity
-- 4.Severe allergic reactions:
-  - •trouble breathing
-  - •swelling of the face, tongue, eyes or mouth
-  - •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
-- 5.Abnormal bleeding: Citalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®*, Jantoven®*), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
-- 6.Seizures or convulsions
-- 7.Manic episodes:
-  - •greatly increased energy
-  - •severe trouble sleeping
-  - •racing thoughts
-  - •reckless behavior
-  - •unusually grand ideas
-  - •excessive happiness or irritability
-  - •talking more or faster than usual
-- 8.Changes in appetite or weight.
-  Children and adolescents should have height and weight monitored during treatment.
-- 9.Low salt (sodium) levels in the blood.
-  Elderly people may be at greater risk for this.
-  Symptoms may include:
-  - •headache
-  - •weakness or feeling unsteady
-  - •confusion, problems concentrating or thinking or memory problems
+  The symptoms may include: chest pain
+  - ofast or slow heartbeat
+  - oshortness of breath
+  - odizziness or fainting
+
+3.
+Serotonin Syndrome.
+This condition can be life threatening and may include:
+
+- •agitation, hallucinations, coma or other changes in mental status
+- •coordination problems or muscle twitching (overactive reflexes)
+- •racing heartbeat, high or low blood pressure
+- •sweating or fever
+- •nausea, vomiting, or diarrhea
+- •muscle rigidity
+
+4.
+Severe allergic reactions:
+
+- •trouble breathing
+- •swelling of the face, tongue, eyes or mouth
+- •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
+
+5.
+Abnormal bleeding: Citalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®*, Jantoven®*), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+
+6.
+Seizures or convulsions
+
+7.
+Manic episodes:
+
+- •greatly increased energy
+- •severe trouble sleeping
+- •racing thoughts
+- •reckless behavior
+- •unusually grand ideas
+- •excessive happiness or irritability
+- •talking more or faster than usual
+
+8.
+Changes in appetite or weight.
+Children and adolescents should have height and weight monitored during treatment.
+
+9.
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
+
+- •headache
+- •weakness or feeling unsteady
+- •confusion, problems concentrating or thinking or memory problems
 
 Do not stop citalopram tablets without first talking to your healthcare provider.
 Stopping citalopram tablets too quickly may cause serious symptoms including:
@@ -99,7 +118,7 @@ Do not take citalopram tablets if you:
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - •Do not take an MAOI within 2 weeks of stopping citalopram tablets unless directed to do so by your physician.
 - •Do not start citalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
-- People who take citalopram tablets close in time to an MAOI may have serious or even life threatening side effects.
+  People who take citalopram tablets close in time to an MAOI may have serious or even life threatening side effects.
   Get medical help right away if you have any of these symptoms:
 - 
   - •high fever
