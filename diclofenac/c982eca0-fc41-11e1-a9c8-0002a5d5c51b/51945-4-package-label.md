@@ -12,7 +12,7 @@ Rx Only
 
 Zipsor®
 
-(diclophenac potassium)
+(diclofenac potassium)
 
 Liquid Filled Capsules
 
@@ -32,7 +32,7 @@ Rx Only
 
 Zipsor®
 
-(diclophenac potassium)
+(diclofenac potassium)
 
 Liquid Filled Capsules
 

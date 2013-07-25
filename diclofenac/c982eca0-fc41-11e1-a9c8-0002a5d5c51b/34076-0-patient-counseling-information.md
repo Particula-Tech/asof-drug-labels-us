@@ -38,4 +38,6 @@ Instruct patients to seek immediate emergency help if these occur [see Warnings 
 
 Starting at 30 weeks gestation, Zipsor and other NSAIDs, should be avoided by pregnant women as premature closure of the ductus arteriosus in the fetus may occur [see Use in Specific Populations (8.1)].
 
-Marketed by: Depomed, Inc. Menlo Park, CA 94025, USA
+US Patents: 6,365,180; 7,662,858; 7,884,095; 7,939,518; 8,110,606
+
+Marketed by: Depomed, Inc. Newark, CA 94560, USA
