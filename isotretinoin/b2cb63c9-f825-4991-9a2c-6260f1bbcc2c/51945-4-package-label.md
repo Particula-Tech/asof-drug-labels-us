@@ -17,23 +17,23 @@ Protect from light.
 
 Special Instructions to Pharmacists:
 
-- Only fill Amnesteem after authorization for the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- Dispense no more than a 30-day supply.
-- An Amnesteem Medication Guide is included in each Prescription Pak.
-- Dispense Prescription Paks intact.
-- Do not remove Prescription Paks from carton until dispensed.
+- •Only fill Amnesteem after authorization for the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Dispense no more than a 30-day supply.
+- •An Amnesteem Medication Guide is included in each Prescription Pak.
+- •Dispense Prescription Paks intact.
+- •Do not remove Prescription Paks from carton until dispensed.
 
 © 2002-2007 Mylan Pharmaceuticals Inc. Printed in USA M6611-93-30C:R3 November 2007
 
 Reminders for Pharmacists:
 
-- Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- Write Risk Management Authorization number on the prescription.
-- Dispense no more than a 30-day supply.
+- •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Write Risk Management Authorization number on the prescription.
+- •Dispense no more than a 30-day supply.
   No refills.
-- Dispense Prescription Paks intact.
-- Do not dispense after the "Do not dispense to Patient After" date.
-- A Medication Guide is included in each Prescription Pak.
+- •Dispense Prescription Paks intact.
+- •Do not dispense after the "Do not dispense to Patient After" date.
+- •A Medication Guide is included in each Prescription Pak.
 
 Contraindicated in Pregnancy.
 
@@ -70,23 +70,23 @@ Protect from light.
 
 Special Instructions to Pharmacists:
 
-- Only fill Amnesteem after authorization for the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- Dispense no more than a 30-day supply.
-- An Amnesteem Medication Guide is included in each Prescription Pak.
-- Dispense Prescription Paks intact.
-- Do not remove Prescription Paks from carton until dispensed.
+- •Only fill Amnesteem after authorization for the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Dispense no more than a 30-day supply.
+- •An Amnesteem Medication Guide is included in each Prescription Pak.
+- •Dispense Prescription Paks intact.
+- •Do not remove Prescription Paks from carton until dispensed.
 
 © 2002-2007 Mylan Pharmaceuticals Inc. Printed in USA M6612-93-30C:R3 November 2007
 
 Reminders for Pharmacists:
 
-- Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- Write Risk Management Authorization number on the prescription.
-- Dispense no more than a 30-day supply.
+- •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Write Risk Management Authorization number on the prescription.
+- •Dispense no more than a 30-day supply.
   No refills.
-- Dispense Prescription Paks intact.
-- Do not dispense after the "Do not dispense to Patient After" date.
-- A Medication Guide is included in each Prescription Pak.
+- •Dispense Prescription Paks intact.
+- •Do not dispense after the "Do not dispense to Patient After" date.
+- •A Medication Guide is included in each Prescription Pak.
 
 Contraindicated in Pregnancy.
 
@@ -123,23 +123,23 @@ Protect from light.
 
 Special Instructions to Pharmacists:
 
-- Only fill Amnesteem after authorization for the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- Dispense no more than a 30-day supply.
-- An Amnesteem Medication Guide is included in each Prescription Pak.
-- Dispense Prescription Paks intact.
-- Do not remove Prescription Paks from carton until dispensed.
+- •Only fill Amnesteem after authorization for the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Dispense no more than a 30-day supply.
+- •An Amnesteem Medication Guide is included in each Prescription Pak.
+- •Dispense Prescription Paks intact.
+- •Do not remove Prescription Paks from carton until dispensed.
 
 © 2002-2007 Mylan Pharmaceuticals Inc. Printed in USA M6614-93-30C:R3 November 2007
 
 Reminders for Pharmacists:
 
-- Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- Write Risk Management Authorization number on the prescription.
-- Dispense no more than a 30-day supply.
+- •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
+- •Write Risk Management Authorization number on the prescription.
+- •Dispense no more than a 30-day supply.
   No refills.
-- Dispense Prescription Paks intact.
-- Do not dispense after the "Do not dispense to Patient After" date.
-- A Medication Guide is included in each Prescription Pak.
+- •Dispense Prescription Paks intact.
+- •Do not dispense after the "Do not dispense to Patient After" date.
+- •A Medication Guide is included in each Prescription Pak.
 
 Contraindicated in Pregnancy.
 
