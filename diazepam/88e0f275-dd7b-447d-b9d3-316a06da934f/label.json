@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020648"
+  ],
+  "inn": "diazepam",
+  "labeler": "Valeant Pharmaceuticals North America",
+  "package_ndcs": [
+    "66490-650-20"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "diazepam",
+      "name": "Diastat"
+    }
+  ],
+  "setid": "88e0f275-dd7b-447d-b9d3-316a06da934f",
+  "source": "dailymed"
+}
