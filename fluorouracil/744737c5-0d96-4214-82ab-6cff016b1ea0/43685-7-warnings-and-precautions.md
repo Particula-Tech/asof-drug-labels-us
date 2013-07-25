@@ -12,7 +12,7 @@ Exposure to ultraviolet rays should be minimized during and immediately followin
 Patients should discontinue therapy with Fluorouracil 5% Topical Cream if symptoms of DPD enzyme deficiency develop (see CONTRAINDICATIONS section).
 
 Rarely, life-threatening toxicities such as stomatitis, diarrhea, neutropenia, and neurotoxicity have been reported with intravenous administration of fluorouracil in patients with DPD enzyme deficiency.
-One case of lifethreatening systemic toxicity has been reported with the topical use of Fluorouracil 5% Topical Cream in a patient with DPD enzyme deficiency.
+One case of life-threatening systemic toxicity has been reported with the topical use of Fluorouracil 5% Topical Cream in a patient with DPD enzyme deficiency.
 Symptoms included severe abdominal pain, bloody diarrhea, vomiting, fever, and chills.
 Physical examination revealed stomatitis, erythematous skin rash, neutropenia, thrombocytopenia, inflammation of the esophagus, stomach, and small bowel.
 Although this case was observed with 5% fluorouracil cream, it is unknown whether patients with profound DPD enzyme deficiency would develop systemic toxicity with lower concentrations of topically applied fluorouracil.
