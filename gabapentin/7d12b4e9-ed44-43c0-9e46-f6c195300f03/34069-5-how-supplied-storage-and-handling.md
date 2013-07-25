@@ -3,7 +3,7 @@
 GRALISE (gabapentin) Tablets are supplied as follows:
 
 300 mg tablets: GRALISE 300 mg tablets are white, oval shaped tablets debossed with "SLV" on one side and "300" on the other side.
-NDC 13913-004-13 (Bottle of 30)
+NDC 13913-004-13 (Bottle of 30) NDC 13913-004-19 (Bottle of 90)
 
 600 mg tablets: GRALISE 600 mg tablets are beige, oval shaped tablets debossed with "SLV" on one side and "600" on the other side.
 NDC 13913-005-19 (Bottle of 90)

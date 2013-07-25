@@ -155,10 +155,10 @@ Opadry® II white contains polyvinyl alcohol, titanium dioxide, talc, polyethyle
 600 mg tablet: copovidone, hypromellose, magnesium stearate, polyethylene oxide, and Opadry® II beige.
 Opadry® II beige contains polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, iron oxide yellow, and iron oxide red.
 
-Marketed by: Depomed, Inc. Menlo Park, CA 94025
+Marketed by: Depomed, Inc. Newark, CA 94560
 
 Opadry® is a registered trademark of BPSI Holdings, LLC.
 
-© 2012 Depomed, Inc. GRA-004-C.3 AUG 2012 Issued AUG 2012
+© 2012 Depomed, Inc. GRA-004-C.6 DEC 2012 Issued DEC 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

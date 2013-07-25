@@ -26,10 +26,10 @@ Advise patients that GRALISE should be taken orally once-daily with the evening 
 GRALISE tablets should be swallowed whole.
 Do not split, crush, or chew the tablets [see Dosage and Administration (2.1)].
 
-Marketed by: Depomed, Inc. Menlo Park, CA 94025
+Marketed by: Depomed, Inc. Newark, CA 94560
 
 Opadry® is a registered trademark of BPSI Holdings, LLC.
 
-© 2012 Depomed, Inc. GRA-004-C.3 AUG 2012 Issued AUG 2012
+© 2012 Depomed, Inc. GRA-004-C.6 DEC 2012 Issued DEC 2012
 
-U.S. Patents: 7,438,927; 6,340,475; 6,488,962; 6,635,280; 6,723,340; 7,731,989; 8,192,756
+U.S. Patents: 7,438,927; 6,340,475; 6,488,962; 6,635,280; 6,723,340; 7,731,989; 8,192,756; 8,252,332; 8,333,992
