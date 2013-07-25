@@ -12,7 +12,7 @@ If an allergic reaction to aztreonam occurs, discontinue the drug and institute 
 Serious hypersensitivity reactions may require epinephrine and other emergency measures.
 (See ADVERSE REACTIONS.)
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AZACTAM, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile–associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AZACTAM, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -51,23 +51,28 @@ If this occurs, patients should contact their physician as soon as possible.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies in animals have not been performed.
+Carcinogenicity studies with aztreonam have not been conducted using an intravenous route of administration.
+A 104-week rat inhalation toxicology study to assess the carcinogenic potential of aztreonam demonstrated no drug-related increase in the incidence of tumors.
+Rats were exposed to aerosolized aztreonam for up to 4 hours per day.
+Peak plasma levels of aztreonam averaging approximately 6.8 mcg/mL were measured in rats at the highest dose level.
 
-Genetic toxicology studies performed in vivo and in vitro with aztreonam in several standard laboratory models revealed no evidence of mutagenic potential at the chromosomal or gene level.
+Genetic toxicology studies performed with aztreonam in vitro (Ames test, mouse lymphoma forward mutation assay, gene conversion assay, chromosome aberration assay in human lymphocytes) and in vivo (mouse bone marrow cytogenetic assay) did not reveal evidence of mutagenic or clastogenic potential.
 
-Two-generation reproduction studies in rats at daily doses up to 20 times the maximum recommended human dose (MRHD), prior to and during gestation and lactation, revealed no evidence of impaired fertility.
-There was a slightly reduced survival rate during the lactation period in the offspring of rats that received the highest dosage, but not in offspring of rats that received 5 times the MRHD.
+A two-generation reproduction study in rats at daily doses of 150, 600, or 2400 mg/kg given prior to and during gestation and lactation, revealed no evidence of impaired fertility.
+Based on body surface area, the high dose is 2.9-fold greater than the maximum recommended human dose (MRHD) for adults of 8 g per day.
+There was a slightly reduced survival rate during the lactation period in the offspring of rats that received the highest dose, but not in offspring of rats that received lower doses of aztreonam.
 
 ## Pregnancy
 
 ### Pregnancy Category B
 
-Aztreonam crosses the placenta and enters the fetal circulation.
+In pregnant women, aztreonam crosses the placenta and enters the fetal circulation.
+Developmental toxicity studies in pregnant rats and rabbits with daily doses of aztreonam up to 1800 and 1200 mg/kg, respectively, revealed no evidence of embryotoxicity or fetotoxicity or teratogenicity.
+These doses, based on body surface area, are 2.2- and 2.9-fold greater than the MRHD for adults of 8 g per day.
+A peri/postnatal study in rats revealed no drug-induced changes in any maternal, fetal, or neonatal parameters.
+The highest dose used in this study, 1800 mg/kg/day, is 2.2 times the MRHD based on body surface area.
 
-Studies in pregnant rats and rabbits, with daily doses up to 15 and 5 times, respectively, the MRHD, revealed no evidence of embryo- or fetotoxicity or teratogenicity.
-No drug-induced changes were seen in any of the maternal, fetal, or neonatal parameters that were monitored in rats receiving 15 times the MRHD of aztreonam during late gestation and lactation.
-
-There are no adequate and well-controlled studies in pregnant women.
+There are no adequate and well-controlled studies of aztreonam on human pregnancy outcomes.
 Because animal reproduction studies are not always predictive of human response, aztreonam should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers
@@ -77,14 +82,14 @@ Aztreonam is excreted in human milk in concentrations that are less than 1% of c
 ## Pediatric Use
 
 The safety and effectiveness of intravenous AZACTAM have been established in the age groups 9 months to 16 years.
-Use of AZACTAM in these age groups is supported by evidence from adequate and well-controlled studies of AZACTAM in adults with additional efficacy, safety, and pharmacokinetic data from non-comparative clinical studies in pediatric patients.
+Use of AZACTAM in these age groups is supported by evidence from adequate and well-controlled studies of AZACTAM in adults with additional efficacy, safety, and pharmacokinetic data from noncomparative clinical studies in pediatric patients.
 Sufficient data are not available for pediatric patients under 9 months of age or for the following treatment indications/pathogens: septicemia and skin and skin-structure infections (where the skin infection is believed or known to be due to H. influenzae type b). In pediatric patients with cystic fibrosis, higher doses of AZACTAM may be warranted.
 (See CLINICAL PHARMACOLOGY, DOSAGE AND ADMINISTRATION, and CLINICAL STUDIES.)
 
 ## Geriatric Use
 
 Clinical studies of AZACTAM did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.7-10 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.9-12 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.1-4 Since aztreonam is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments made accordingly (see DOSAGE AND ADMINISTRATION: Renal Impairment in Adult Patients and Dosage in the Elderly).

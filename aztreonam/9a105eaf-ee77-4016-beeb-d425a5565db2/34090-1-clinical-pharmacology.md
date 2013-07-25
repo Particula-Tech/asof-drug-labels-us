@@ -40,7 +40,7 @@ No abnormal results were obtained.
 
 Aztreonam achieves measurable concentrations in the following body fluids and tissues:
 
-EXTRAVASCULAR CONCENTRATIONS OF AZTREONAM AFTER A SINGLE PARENTERAL DOSE1
+Table 1: Extravascular Concentrations of Aztreonam After a Single Parenteral Dosea
 
 | Fluid or Tissue | Dose (g) | Route | Hours Post-injection | Number of Patients | Mean Concentration (mcg/mL or mcg/g) |
 | --- | --- | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ EXTRAVASCULAR CONCENTRATIONS OF AZTREONAM AFTER A SINGLE PARENTERAL DOSE1
 | skeletal muscle | 2 | IV | 0.3-0.7 | 6 | 16 |
 | skin | 2 | IV | 0.0-1.0 | 8 | 25 |
 | sternum | 2 | IV | 1 | 6 | 6 |
-| 1 Tissue penetration is regarded as essential to therapeutic efficacy, but specific tissue levels have not been correlated with specific therapeutic effects. |  |  |  |  |  |
+| a Tissue penetration is regarded as essential to therapeutic efficacy, but specific tissue levels have not been correlated with specific therapeutic effects. |  |  |  |  |  |
 
 The concentration of aztreonam in saliva at 30 minutes after a single 1 g intravenous dose (9 patients) was 0.2 mcg/mL; in human milk at 2 hours after a single 1 g intravenous dose (6 patients), 0.2 mcg/mL, and at 6 hours after a single 1 g intramuscular dose (6 patients), 0.3 mcg/mL; in amniotic fluid at 6 to 8 hours after a single 1 g intravenous dose (5 patients), 2 mcg/mL.
 The concentration of aztreonam in peritoneal fluid obtained 1 to 6 hours after multiple 2 g intravenous doses ranged between 12 mcg/mL and 90 mcg/mL in 7 of 8 patients studied.
@@ -82,29 +82,36 @@ No reports of disulfiram-like reactions with alcohol ingestion have been noted; 
 
 ## Microbiology
 
-Aztreonam exhibits potent and specific activity in vitro against a wide spectrum of Gram-negative aerobic pathogens including Pseudomonas aeruginosa.
-The bactericidal action of aztreonam results from the inhibition of bacterial cell wall synthesis due to a high affinity of aztreonam for penicillin binding protein 3 (PBP3).
-Aztreonam, unlike the majority of beta-lactam antibiotics, does not induce beta-lactamase activity and its molecular structure confers a high degree of resistance to hydrolysis by beta-lactamases (ie, penicillinases and cephalosporinases) produced by most Gram-negative and Gram-positive pathogens; it is, therefore, usually active against Gram-negative aerobic microorganisms that are resistant to antibiotics hydrolyzed by beta-lactamases.
-It is active against many strains that are multiply-resistant to other antibiotics, such as certain cephalosporins, penicillin, and aminoglycosides.
-Aztreonam maintains its antimicrobial activity over a pH range of 6 to 8 in vitro, as well as in the presence of human serum and under anaerobic conditions.
+Mechanism of Action
 
-Aztreonam has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Aztreonam is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
+Aztreonam has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria.
+
+Mechanism of Resistance
+
+Resistance to aztreonam is primarily through hydrolysis by beta-lactamase, alteration of penicillin-binding proteins (PBPs), and decreased permeability.
+
+Interaction with Other Antimicrobials
+
+Aztreonam and aminoglycosides have been shown to be synergistic in vitro against most strains of P. aeruginosa, many strains of Enterobacteriaceae, and other Gram-negative aerobic bacilli.
+
+Aztreonam has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE5 section.
 
 Aerobic Gram-negative microorganisms:
 
-- Citrobacter species, including C. freundii
-- Enterobacter species, including E. cloacae
+- Citrobacter species
+- Enterobacter species
 - Escherichia coli
 - Haemophilus influenzae (including ampicillin-resistant and other penicillinase-producing strains)
 - Klebsiella oxytoca
 - Klebsiella pneumoniae
 - Proteus mirabilis
 - Pseudomonas aeruginosa
-- Serratia species, including S. marcescens
+- Serratia species
 
 The following in vitro data are available, but their clinical significance is unknown.
-
-Aztreonam exhibits in vitro minimal inhibitory concentrations (MICs) of 8 mcg/mL or less against most (≥90%) strains of the following microorganisms; however, the safety and effectiveness of aztreonam in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for aztreonam.
+However, the efficacy of aztreonam in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials.
 
 Aerobic Gram-negative microorganisms:
 
@@ -119,78 +126,49 @@ Aerobic Gram-negative microorganisms:
 
 Aztreonam and aminoglycosides have been shown to be synergistic in vitro against most strains of P. aeruginosa, many strains of Enterobacteriaceae, and other Gram-negative aerobic bacilli.
 
-Alterations of the anaerobic intestinal flora by broad spectrum antibiotics may decrease colonization resistance, thus permitting overgrowth of potential pathogens, eg, Candida and Clostridium species.
+Alterations of the anaerobic intestinal flora by broad-spectrum antibiotics may decrease colonization resistance, thus permitting overgrowth of potential pathogens, eg, Candida and Clostridium species.
 Aztreonam has little effect on the anaerobic intestinal microflora in in vitro studies.
 Clostridium difficile and its cytotoxin were not found in animal models following administration of aztreonam.
 (See ADVERSE REACTIONS: Gastrointestinal.)
 
-### Susceptibility Tests
+### Susceptibility Test Methods
+
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
 #### Dilution Techniques
 
-Quantitative methods are used to determine antimicrobial MICs.
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+Quantitative methods are used to determine antimicrobial MICs.1-3 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method5 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of aztreonam powder.
-The MIC values should be interpreted according to the following criteria:
-
-| For testing aerobic microorganisms other than Haemophilus influenzae: |  |
-| --- | --- |
-| MIC (mcg/mL) | Interpretation |
-| ≤8 | Susceptible (S) |
-| 16 | Intermediate (I) |
-| ≥32 | Resistant (R) |
-| When testing Haemophilus influenzaea: |  |
-| MIC (mcg/mL) | Interpretationb |
-| ≤2 | Susceptible (S) |
-| a Interpretative criteria applicable only to tests performed by broth microdilution method using Haemophilus Test Medium (HTM).5 |  |
-| b The current absence of data on resistant strains precludes defining any categories other than “Susceptible.” Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. |  |
-
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard aztreonam powder should provide the following MIC values:
-
-| Microorganism | MIC (mcg/mL) |
-| --- | --- |
-| Escherichia coli ATCC 25922 | 0.06-0.25 |
-| Haemophilus influenzaea ATCC 49247 | 0.12-0.5 |
-| Pseudomonas aeruginosa ATCC 27853 | 2.0-8.0 |
-| a Range applicable only to tests performed by broth microdilution method using Haemophilus Test Medium (HTM).5 |  |
+Standardized procedures are based on a dilution method6 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of aztreonam powder.
+The MIC values should be interpreted according to the criteria in Table 2.
 
 #### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure6 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 30 mcg aztreonam to test the susceptibility of microorganisms to aztreonam.
+The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be determined using a standardized test method.6,7 This procedure uses paper disks impregnated with 30 mcg aztreonam to test the susceptibility of microorganisms to aztreonam.
+The disk diffusion interpretive criteria are provided in Table 2.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg aztreonam disk should be interpreted according to the following criteria:
+Table 2: Susceptibility Test Interpretive Criteria for Aztreonam
 
-| For testing aerobic microorganisms other than Haemophilus influenzae: |  |
-| --- | --- |
-| Zone diameter (mm) | Interpretation |
-| ≥22 | Susceptible (S) |
-| 16-21 | Intermediate (I) |
-| ≤15 | Resistant (R) |
-| When testing Haemophilus influenzaea: |  |
-| Zone diameter (mm) | Interpretationb |
-| ≥26 | Susceptible (S) |
-| a Interpretative criteria applicable only to tests performed by disk diffusion method using Haemophilus Test Medium (HTM).6 |  |
-| b The current absence of data on resistant strains precludes defining any categories other than “Susceptible.” Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. |  |
+| (S) Susceptible | (I) Intermediate | (R) Resistant | (S) Susceptible | (I) Intermediate | (R) Resistant |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameters (mm) |  |  |
+| Enterobacteriaceae | ≤4 | 8 | ≥16 | ≥21 | 18-20 | ≤17 |
+| Haemophilus influenzaea | ≤2 | - | - | ≥26 | - | - |
+| Pseudomonas aeruginosa | ≤8 | 16 | ≥32 | ≥22 | 16-21 | ≤15 |
+| a The current absence of data on resistant isolates precludes defining any category other than “Susceptible.” If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. |  |  |  |  |  |  |
 
-Interpretation should be as stated above for results using dilution techniques.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC for aztreonam.
+#### Quality Control
 
-As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 30-mcg aztreonam disk should provide the following zone diameters in these laboratory test quality control strains.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.6-8 Standard aztreonam powder should provide the following range of MIC values noted in Table 3.
+For the diffusion technique using the 30 mcg disk, the criteria in Table 3 should be achieved.
 
-| Microorganism | Zone diameter (mm) |
-| --- | --- |
-| Escherichia coli ATCC 25922 | 28-36 mm |
-| Haemophilus influenzaea ATCC 49247 | 30-38 mm |
-| Pseudomonas aeruginosa ATCC 27853 | 23-29 mm |
-| a Range applicable only to tests performed by disk diffusion method using Haemophilus Test Medium (HTM).6 |  |
+Table 3: Acceptable Quality Control Ranges for Aztreonam
+
+| QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
+| --- | --- | --- |
+| Escherichia coli ATCC 25922 | 0.06-0.25 | 28-36 |
+| Haemophilus influenzae ATCC 49247 | 0.12-5 | 30-38 |
+| Pseudomonas aeruginosa ATCC 27853 | 2-8 | 23-29 |
