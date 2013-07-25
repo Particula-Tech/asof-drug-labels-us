@@ -34,17 +34,17 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 4.
 
 Table 4.
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
-| Increases Compared to Placebo |  |
+|  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-| Decreases Compared to Placebo |  |
+|  | Decreases Compared to Placebo |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -83,22 +83,22 @@ Because the use of bupropion is associated with a dose-dependent risk of seizure
 The risk of seizures is also related to patient factors, clinical situation, and concomitant medications, which must be considered in selection of patients for therapy with ZYBAN.
 ZYBAN should be discontinued and not restarted in patients who experience a seizure while on treatment.
 
-- Dose: For smoking cessation, doses above 300 mg/day should not be used.
+- •Dose: For smoking cessation, doses above 300 mg/day should not be used.
   The seizure rate associated with doses of sustained-release bupropion up to 300 mg/day is approximately 0.1% (1/1,000).
   This incidence was prospectively determined during an 8-week treatment exposure in approximately 3,100 depressed patients.
 
 Data for the immediate-release formulation of bupropion revealed a seizure incidence of approximately 0.4% (4/1,000) in depressed patients treated at doses in a range of 300 to 450 mg/day.
 In addition, the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day.
 
-- Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
-- Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
-- Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
+- •Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
+- •Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
+- •Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
 
 Recommendations for Reducing the Risk of Seizure: Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
 
-- the total daily dose of ZYBAN does not exceed 300 mg (the maximum recommended dose for smoking cessation), and
-- the recommended daily dose for most patients (300 mg/day) is administered in divided doses (150 mg twice daily).
-- No single dose should exceed 150 mg to avoid high peak concentrations of bupropion and/or its metabolites.
+- •the total daily dose of ZYBAN does not exceed 300 mg (the maximum recommended dose for smoking cessation), and
+- •the recommended daily dose for most patients (300 mg/day) is administered in divided doses (150 mg twice daily).
+- •No single dose should exceed 150 mg to avoid high peak concentrations of bupropion and/or its metabolites.
 
 ZYBAN should be administered with extreme caution to patients with a history of seizure, cranial trauma, or other predisposition(s) toward seizure, or patients treated with other agents (e.g., antipsychotics, antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold.
 
@@ -205,7 +205,7 @@ The threohydrobupropion metabolite of bupropion does not appear to be produced b
 In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir 400 mg (KALETRA) twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
 Similarly, efavirenz 600 mg once daily for 2 weeks reduced the exposure of bupropion by approximately 55%.
 This effect of ritonavir, KALETRA, and efavirenz is thought to be due to the induction of bupropion metabolism.
-Patients receiving of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
+Patients receiving any of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
 
 Multiple oral doses of bupropion had no statistically significant effects on the single dose pharmacokinetics of lamotrigine in 12 healthy volunteers.
 
@@ -246,6 +246,11 @@ Blood concentrations of concomitant medications that are extensively metabolized
 Alcohol: In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with ZYBAN.
 The consumption of alcohol during treatment with ZYBAN should be minimized or avoided (also see CONTRAINDICATIONS).
 
+Drug-Laboratory Test Interactions: False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
+This is due to lack of specificity of some screening tests.
+False-positive test results may result even following discontinuation of bupropion therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Lifetime carcinogenicity studies were performed in rats and mice at doses up to 300 and 150 mg/kg/day, respectively.
@@ -260,7 +265,7 @@ A fertility study in rats at doses up to 300 mg/kg revealed no evidence of impai
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category C, In studies conducted in rats and rabbits, bupropion was administered orally at doses up to 450 and 150 mg/kg/day, respectively (approximately 14 and 10 times the MRHD, respectively, on a mg/m2 basis), during the period of organogenesis.
+Teratogenic Effects: Pregnancy Category C. In studies conducted in rats and rabbits, bupropion was administered orally at doses up to 450 and 150 mg/kg/day, respectively (approximately 14 and 10 times the MRHD, respectively, on a mg/m2 basis), during the period of organogenesis.
 No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately 2 times the MRHD on a mg/m2 basis) and greater.
 Decreased fetal weights were seen at 50 mg/kg and greater.
 

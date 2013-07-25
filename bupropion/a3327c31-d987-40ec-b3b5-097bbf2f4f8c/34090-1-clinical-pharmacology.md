@@ -46,8 +46,8 @@ The exposure of the hydroxybupropion metabolite was decreased by 78%, the threoh
 In another healthy volunteer study, KALETRA® (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
 The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively (see PRECAUTIONS: Drug Interactions).
 
-In a study in healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduced the AUC and Cmaxof bupropion by approximately 55% and 34%, respectively.
-The AUC of hydroxybupropion was unchanged, whereas Cmaxof hydroxybupropion was increased by 50%.
+In a study in healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduced the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.
+The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was increased by 50%.
 
 Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
 
@@ -77,7 +77,7 @@ In a study comparing the treatment combination of ZYBAN and nicotine transdermal
 Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
 The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.
 
-Hepatic:The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose studies, one in patients with alcoholic liver disease and one in patients with mild-to-severe cirrhosis.
+Hepatic: The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose studies, one in patients with alcoholic liver disease and one in patients with mild-to-severe cirrhosis.
 The first study showed that the half-life of hydroxybupropion was significantly longer in 8 patients with alcoholic liver disease than in 8 healthy volunteers (32 ± 14 hours versus 21 ± 5 hours, respectively).
 Although not statistically significant, the AUCs for bupropion and hydroxybupropion were more variable and tended to be greater (by 53% to 57%) in patients with alcoholic liver disease.
 The differences in half-life for bupropion and the other metabolites in the 2 patient groups were minimal.

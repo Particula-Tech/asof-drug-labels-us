@@ -1,4 +1,6 @@
-# ADVERSE REACTIONS (See also WARNINGS and PRECAUTIONS.)
+# ADVERSE REACTIONS
+
+(See also WARNINGS and PRECAUTIONS.)
 
 The information included under ADVERSE REACTIONS is based primarily on data from the dose-response trial and the comparative trial that evaluated ZYBAN for smoking cessation (see CLINICAL TRIALS).
 Information on additional adverse events associated with the sustained-release formulation of bupropion in depression trials, as well as the immediate-release formulation of bupropion, is included in a separate section (see Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion).
@@ -115,7 +117,7 @@ aSelected adverse events with an incidence of at least 1% of patients treated wi
 
 bPatients randomized to ZYBAN or placebo received placebo patches.
 
-ZYBAN was well tolerated in the long-term maintenance trial that evaluated chronic administration of ZYBAN for up to 1 year and in the COPD trial that evaluated patients with mild-to-moderate COPD for a 12-week period.
+ZYBAN was well-tolerated in the long-term maintenance trial that evaluated chronic administration of ZYBAN for up to 1 year and in the COPD trial that evaluated patients with mild-to-moderate COPD for a 12-week period.
 Adverse events in both studies were quantitatively and qualitatively similar to those observed in the dose-response and comparative trials.
 
 ## Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion

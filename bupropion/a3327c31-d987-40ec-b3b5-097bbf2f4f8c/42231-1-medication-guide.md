@@ -21,7 +21,7 @@ These symptoms can develop during treatment with ZYBAN or after stopping treatme
 
 If you, your family member, or your caregiver notice agitation, hostility, depression, or changes in thinking or behavior that are not typical for you, or you have any of the following symptoms, stop taking ZYBAN and call your healthcare provider right away:
 
-| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietypanic attacksfeeling very agitated or restlessacting aggressive, being angry, or violentacting on dangerous impulses | an extreme increase in activity and talking (mania)abnormal thoughts or sensationsseeing or hearing things that are not there (hallucinations)feeling people are against you (paranoia)feeling confusedother unusual changes in behavior or mood |
+| •thoughts about suicide or dying•attempts to commit suicide•new or worse depression•new or worse anxiety•panic attacks•feeling very agitated or restless•acting aggressive, being angry, or violent•acting on dangerous impulses | •an extreme increase in activity and talking (mania)•abnormal thoughts or sensations•seeing or hearing things that are not there (hallucinations)•feeling people are against you (paranoia)•feeling confused•other unusual changes in behavior or mood |
 | --- | --- |
 
 When you try to quit smoking, with or without ZYBAN, you may have symptoms that may be due to nicotine withdrawal, including urge to smoke, depressed mood, trouble sleeping, irritability, frustration, anger, feeling anxious, difficulty concentrating, restlessness, decreased heart rate, and increased appetite or weight gain.
@@ -38,50 +38,50 @@ Although ZYBAN is not a treatment for depression, it contains bupropion, the sam
 This section of the Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
 Talk to your doctor, or your family member’s healthcare provider about:
 
-- all risks and benefits of treatment with antidepressant medicines
-- all treatment choices for depression or other serious mental illness
+- •all risks and benefits of treatment with antidepressant medicines
+- •all treatment choices for depression or other serious mental illness
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+2. 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   - ∘Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
      This is very important when an antidepressant medicine is started or when the dose is changed.
-   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-   - Keep all follow-up visits with the healthcare provider as scheduled.
+   - ∘Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   - ∘Keep all follow-up visits with the healthcare provider as scheduled.
      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietyfeeling very agitated or restlesspanic attacks | trouble sleeping (insomnia)new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking (mania)other unusual changes in behavior or mood |
+| •thoughts about suicide or dying•attempts to commit suicide•new or worse depression•new or worse anxiety•feeling very agitated or restless•panic attacks | •trouble sleeping (insomnia)•new or worse irritability•acting aggressive, being angry, or violent•acting on dangerous impulses•an extreme increase in activity and talking (mania)•other unusual changes in behavior or mood |
 | --- | --- |
 
 What else do I need to know about antidepressant medicines?
 
-- Never stop an antidepressant medicine without first talking to a healthcare provider.
+- •Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressants are medicines used to treat depression and other illnesses.
+- •Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- Antidepressant medicines have other side effects.
+- •Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- Antidepressant medicines can interact with other medicines.
+- •Antidepressant medicines can interact with other medicines.
   Know all of the medicines that you or your family member takes.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
-- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
+- •Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
 ZYBAN has not been studied in children under the age of 18 and is not approved for use in children and teenagers.
 
 What Other Important Information Should I Know About ZYBAN?
 
-- Seizures: There is a chance of having a seizure (convulsion, fit) with ZYBAN, especially in people:
-  - with certain medical problems.
-  - who take certain medicines.
+- •Seizures: There is a chance of having a seizure (convulsion, fit) with ZYBAN, especially in people:
+  - ∘with certain medical problems.
+  - ∘who take certain medicines.
 
 The chance of having seizures increases with higher doses of ZYBAN.
 For more information, see the sections “Who should not take ZYBAN?” and “What should I tell my doctor before using ZYBAN?”
@@ -91,9 +91,9 @@ Do not take any other medicines while you are using ZYBAN unless your doctor has
 If you have a seizure while taking ZYBAN, stop taking the tablets and call your doctor right away.
 Do not take ZYBAN again if you have a seizure.
 
-- High blood pressure (hypertension): Some people get high blood pressure that can be severe, while taking ZYBAN.
+- •High blood pressure (hypertension): Some people get high blood pressure that can be severe, while taking ZYBAN.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking (see “Can ZYBAN be used at the same time as nicotine patches?”).
-- Severe allergic reactions: Some people have severe allergic reactions to ZYBAN.
+- •Severe allergic reactions: Some people have severe allergic reactions to ZYBAN.
   Stop taking ZYBAN and call your doctor right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in your mouth or around your eyes, swelling of your lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
 
@@ -109,13 +109,13 @@ Who should not take ZYBAN?
 
 Do not take ZYBAN if you:
 
-- have or had a seizure disorder or epilepsy.
-- are taking WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, or any other medicines that contain bupropion hydrochloride.
+- •have or had a seizure disorder or epilepsy.
+- •are taking WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, or any other medicines that contain bupropion hydrochloride.
   Bupropion is the same active ingredient that is in ZYBAN.
-- drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE®(tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
-- have or had an eating disorder such as anorexia nervosa or bulimia.
-- are allergic to the active ingredient in ZYBAN, bupropion, or to any of the inactive ingredients.
+- •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
+- •have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE®(tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
+- •have or had an eating disorder such as anorexia nervosa or bulimia.
+- •are allergic to the active ingredient in ZYBAN, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in ZYBAN.
 
 What should I tell my doctor before using ZYBAN?
@@ -124,42 +124,42 @@ Tell your doctor if you have ever had depression, suicidal thoughts or actions, 
 You should also tell your doctor about any symptoms you had during other times you tried to quit smoking, with or without ZYBAN.
 See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
 
-- Tell your doctor about your other medical conditions,includingif you:
-- are pregnant or plan to become pregnant.
+- •Tell your doctor about your other medical conditions,including if you:
+- •are pregnant or plan to become pregnant.
   It is not known if ZYBAN can harm your unborn baby.
-- are breastfeeding.
+- •are breastfeeding.
   ZYBAN passes through your milk.
   It is not known if ZYBAN can harm your baby.
-- have liver problems, especially cirrhosis of the liver.
-- have kidney problems.
-- have an eating disorder such as anorexia nervosa or bulimia.
-- have had a head injury.
-- have had a seizure (convulsion, fit).
-- have a tumor in your nervous system (brain or spine).
-- have had a heart attack, heart problems, or high blood pressure.
-- are a diabetic taking insulin or other medicines to control your blood sugar.
-- drink a lot of alcohol.
-- abuse prescription medicines or street drugs.
-- Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+- •have liver problems, especially cirrhosis of the liver.
+- •have kidney problems.
+- •have an eating disorder such as anorexia nervosa or bulimia.
+- •have had a head injury.
+- •have had a seizure (convulsion, fit).
+- •have a tumor in your nervous system (brain or spine).
+- •have had a heart attack, heart problems, or high blood pressure.
+- •are a diabetic taking insulin or other medicines to control your blood sugar.
+- •drink a lot of alcohol.
+- •abuse prescription medicines or street drugs.
+- •Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
   Many medicines increase your chances of getting seizures or other serious side effects if you take them while you are using ZYBAN.
 
 How should I take ZYBAN?
 
-- Take ZYBAN exactly as prescribed by your doctor.
-- Do not chew, cut, or crush ZYBAN tablets.
+- •Take ZYBAN exactly as prescribed by your doctor.
+- •Do not chew, cut, or crush ZYBAN tablets.
   If you do, the medicine will be released into your body too quickly.
   If this happens you may be more likely to get side effects including seizures.
   You must swallow the tablets whole.
   Tell your doctor if you cannot swallow medicine tablets.
-- Take ZYBAN at the same time each day.
-- Take your doses of ZYBAN at least 8 hours apart.
-- If you miss a dose, do not take an extra tablet to make up for the dose you forgot.
+- •Take ZYBAN at the same time each day.
+- •Take your doses of ZYBAN at least 8 hours apart.
+- •If you miss a dose, do not take an extra tablet to make up for the dose you forgot.
   Wait and take your next tablet at the regular time.
   This is very important.
   Too much ZYBAN can increase your chance of having a seizure.
-- If you take too much ZYBAN, or overdose, call your local emergency room or poison control center right away.
-- Do not take any other medicines while using ZYBAN unless your doctor has told you it is okay.
-- Do not change your dose or stop taking ZYBAN without talking with your doctor first.
+- •If you take too much ZYBAN, or overdose, call your local emergency room or poison control center right away.
+- •Do not take any other medicines while using ZYBAN unless your doctor has told you it is okay.
+- •Do not change your dose or stop taking ZYBAN without talking with your doctor first.
 
 How long should I take ZYBAN?
 
@@ -189,10 +189,10 @@ It is possible to get too much nicotine and have serious side effects.
 
 What should I avoid while taking ZYBAN?
 
-- Do not drink a lot of alcohol while taking ZYBAN.
+- •Do not drink a lot of alcohol while taking ZYBAN.
   If you usually drink a lot of alcohol, talk with your doctor before suddenly stopping.
   If you suddenly stop drinking alcohol, you may increase your chance of having seizures.
-- Do not drive a car or use heavy machinery until you know how ZYBAN affects you.
+- •Do not drive a car or use heavy machinery until you know how ZYBAN affects you.
   ZYBAN can affect your ability to do these things safely.
 
 What are possible side effects of ZYBAN?
@@ -212,10 +212,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ZYBAN?
 
-- Store ZYBAN at room temperature.
-- Store out of direct sunlight.
-- Keep ZYBAN in its tightly closed bottle.
-- ZYBAN may have an odor.
+- •Store ZYBAN at room temperature.
+- •Store out of direct sunlight.
+- •Keep ZYBAN in its tightly closed bottle.
+- •ZYBAN may have an odor.
 
 General Information about ZYBAN.
 
@@ -224,6 +224,9 @@ Do not use ZYBAN for a condition for which it was not prescribed.
 Do not give ZYBAN to other people, even if they have the same symptoms you have.
 It may harm them.
 Keep ZYBAN out of the reach of children.
+
+If you take a urine drug screening test, ZYBAN may make the test result positive for amphetamines.
+If you tell the person giving you the drug screening test that you are taking ZYBAN, they can do a more specific drug screening test that should not have this problem.
 
 This Medication Guide summarizes important information about ZYBAN.
 For more information, talk with your doctor.
@@ -236,8 +239,6 @@ Active ingredient: bupropion hydrochloride.
 Inactive ingredients: carnauba wax, cysteine hydrochloride, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80 and titanium dioxide.
 The tablets are printed with edible black ink.
 In addition, the 150-mg tablet contains FD&C Blue No. 2 Lake and FD&C Red No. 40 Lake.
-
-Rx only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
