@@ -50,7 +50,7 @@ Acute Abdominal Conditions
 
 The administration of opioids may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
 
-Gastrointestinal (GI) Effects - Risk of GI Ulceration, Bleeding and Perforation
+## Gastrointestinal (GI) Effects - Risk of GI Ulceration, Bleeding and Perforation
 
 NSAIDs, including hydrocodone bitartrate and ibuprofen tablets, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
@@ -69,7 +69,7 @@ Patients and physicians should remain alert for signs and symptoms of GI ulcerat
 This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
 For high-risk patients, alternate therapies that do not involve NSAIDs should be considered.
 
-Renal Effects
+## Renal Effects
 
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
@@ -81,9 +81,9 @@ Advanced Renal Disease
 
 No information is available from controlled clinical studies regarding the use of hydrocodone bitartrate and ibuprofen in patients with advanced renal disease.
 Therefore, treatment with hydrocodone bitartrate and ibuprofen is not recommended in patients with advanced renal disease.
-If hydrocodone bitartrate and ibuprofen therapy must be initiated, close monitoring of the patient's renal function is advisable.
+If hydrocodone bitartrate and ibuprofen therapy must be initiated, close monitoring of the patient&apos;s renal function is advisable.
 
-Anaphylactoid Reactions
+## Anaphylactoid Reactions
 
 As with other NSAID-containing products, anaphylactoid reactions may occur in patients without known prior exposure to hydrocodone bitartrate and ibuprofen.
 Hydrocodone bitartrate and ibuprofen should not be given to patients with the aspirin triad.
@@ -140,7 +140,7 @@ NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time
 Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
 Patients receiving hydrocodone bitartrate and ibuprofen who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
 
-Pre-existing Asthma
+## Pre-existing Asthma
 
 Patients with asthma may have aspirin-sensitive asthma.
 The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which may be fatal.
@@ -172,7 +172,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
    Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
    Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
 7. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
-8. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+8. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and &apos;flu-like&apos; symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
 9. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
    If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
