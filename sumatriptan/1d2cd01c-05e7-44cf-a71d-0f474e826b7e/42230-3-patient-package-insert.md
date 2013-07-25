@@ -73,14 +73,14 @@ Do not take sumatriptan tablets if you have:
 - •hemiplegic migraines or basilar migraines.
   If you are not sure if you have these types of migraines, ask your healthcare provider.
 - •had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
-  - ∘almotriptan (AXERT®†)
-  - ∘eletriptan (RELPAX®†)
-  - ∘frovatriptan (FROVA®†)
-  - ∘naratriptan (AMERGE®†)
-  - ∘rizatriptan (MAXALT®†, MAXALT-MLT®†)
-  - ∘sumatriptan and naproxen (TREXIMET®†)
-  - ∘ergotamines (CAFERGOT®†, ERGOMAR®†, MIGERGOT®†)
-  - ∘dihydroergotamine (D.H.E.
+  - •almotriptan (AXERT®†)
+  - •eletriptan (RELPAX®†)
+  - •frovatriptan (FROVA®†)
+  - •naratriptan (AMERGE®†)
+  - •rizatriptan (MAXALT®†, MAXALT-MLT®†)
+  - •sumatriptan and naproxen (TREXIMET®†)
+  - •ergotamines (CAFERGOT®†, ERGOMAR®†, MIGERGOT®†)
+  - •dihydroergotamine (D.H.E.
     45®†, MIGRANAL®†)
 
 Ask your doctor if you are not sure if your medicine is listed above.
@@ -156,20 +156,20 @@ See “What is the most important information I should know about sumatriptan ta
 These serious side effects include:
 
 - •changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
-  - ∘sudden or severe stomach pain
-  - ∘stomach pain after meals
-  - ∘weight loss
-  - ∘nausea or vomiting
-  - ∘constipation or diarrhea
-  - ∘bloody diarrhea
-  - ∘fever
-- •problems with blood circulation to your legs and feet (peripheral vascular ischemia).Symptoms of peripheral vascular ischemia include:
-- 
-  - ∘cramping and pain in your legs or hips
-  - ∘feeling of heaviness or tightness in your leg muscles
-  - ∘burning or aching pain in your feet or toes while resting
-  - ∘numbness, tingling or weakness in your legs
-  - ∘cold feeling or color changes in 1 or both legs or feet
+  - •sudden or severe stomach pain
+  - •stomach pain after meals
+  - •weight loss
+  - •nausea or vomiting
+  - •constipation or diarrhea
+  - •bloody diarrhea
+  - •fever
+- •problems with blood circulation to your legs and feet (peripheral vascular ischemia).
+- Symptoms of peripheral vascular ischemia include:
+  - •cramping and pain in your legs or hips
+  - •feeling of heaviness or tightness in your leg muscles
+  - •burning or aching pain in your feet or toes while resting
+  - •numbness, tingling or weakness in your legs
+  - •cold feeling or color changes in 1 or both legs or feet
 - •shortness of breath or wheezing
 - •hives (itchy bumps); swelling of your tongue, mouth or throat
 
