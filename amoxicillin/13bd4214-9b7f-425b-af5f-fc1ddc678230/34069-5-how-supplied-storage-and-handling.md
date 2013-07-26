@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Amoxicillin Capsules, USP, for oral administration, contain 250 mg or 500 mg amoxicillin as the trihydrate and are supplied as:
 
@@ -71,7 +71,7 @@ NDC 0781-6041-46....................................................
 NDC 0781-6041-55....................................................
 150 mL bottle
 
-400mg/5 mL
+400 mg/5 mL
 
 NDC 0781-6157-52......................................................
 50 mL bottle

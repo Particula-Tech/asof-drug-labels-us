@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-A history of allergic reaction to any of the penicillins is a contraindication.
+Amoxicillin is contraindicated in patients who have experienced a serious hypersensitivity reaction (e.g., anaphylaxis or Stevens-Johnson syndrome) to amoxicillin or to other β-lactam antibiotics (e.g., penicillins and cephalosporins).
