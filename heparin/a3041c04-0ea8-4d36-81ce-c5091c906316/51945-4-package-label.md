@@ -6,7 +6,7 @@ NDC 0264-9872-10
 
 500 mL EXCEL® CONTAINER
 
-1,000 USP units per 500 mL (2 USP units per mL) HEPARIN LD-312-2 Y94-003-167
+1,000 USP units per 500 mL (2 USP units per mL) HEPARIN LD-312-3 Y94-003-188
 
 Each 100 mL contains: Heparin Sodium USP (porcine intestinal mucosa) 200 USP Heparin units Sodium Chloride USP 0.9 g Dibasic Sodium Phosphate•7H2O USP 0.43 g Citric Acid Anhydrous USP 0.037g Water for Injection USP qs
 
