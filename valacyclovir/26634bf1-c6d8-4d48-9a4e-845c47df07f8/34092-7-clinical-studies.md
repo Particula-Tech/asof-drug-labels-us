@@ -14,7 +14,7 @@ No significant difference was observed between subjects receiving valacyclovir h
 
 ## 14.2 Genital Herpes Infections
 
-Initial Episode: Six hundred and forty-three immunocompetent adults with first-episode genital herpes who presented within 72 hours of symptom onset were randomized in a double-blind trial to receive 10 days of valacyclovir hydrochloride 1 gram twice daily (n = 323) or oral acyclovir 200 mg 5 times a day (n = 320).
+Initial Episode: Six hundred forty-three immunocompetent adults with first-episode genital herpes who presented within 72 hours of symptom onset were randomized in a double-blind trial to receive 10 days of valacyclovir hydrochloride 1 gram twice daily (n = 323) or oral acyclovir 200 mg 5 times a day (n = 320).
 For both treatment groups: the median time to lesion healing was 9 days, the median time to cessation of pain was 5 days, the median time to cessation of viral shedding was 3 days.
 
 Recurrent Episodes: Three double-blind trials (2 of them placebo-controlled) in immunocompetent adults with recurrent genital herpes were conducted.
@@ -92,5 +92,15 @@ In patients greater than 50 years of age, the median time to cessation of new le
 In patients less than 50 years of age, no difference was found with respect to the duration of pain after healing (post-herpetic neuralgia) between the recipients of valacyclovir hydrochloride and placebo.
 In patients greater than 50 years of age, among the 83% who reported pain after healing (post-herpetic neuralgia), the median duration of pain after healing [95% confidence interval] in days was: 40 [31, 51], 43 [36, 55], and 59 [41, 77] for 7-day valacyclovir hydrochloride, 14-day valacyclovir hydrochloride, and 7-day oral acyclovir, respectively.
 
-Labeling describing clinical studies of valacyclovir HCL in pediatric patients with chickenpox (ages 2 to ≤ 18 years) for the treatment of chickenpox is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those clinical studies is not approved for this valacyclovir HCL tablet product.
+## 14.4 Chickenpox
+
+The use of valacyclovir hydrochloride for treatment of chickenpox in pediatric patients 2 to < 18 years of age is based on single-dose pharmacokinetic and multiple-dose safety data from an open-label trial with valacyclovir and supported by safety and extrapolated efficacy data from 3 randomized, double-blind, placebo-controlled trials evaluating oral acyclovir in pediatric patients.
+
+The single-dose pharmacokinetic and multiple-dose safety study enrolled 27 pediatric patients 1 to < 12 years of age with clinically suspected VZV infection.
+Each subject was dosed with valacyclovir oral suspension, 20 mg/kg 3 times daily for 5 days.
+Acyclovir systemic exposures in pediatric patients following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of herpes zoster.
+The mean projected daily acyclovir exposures in pediatric patients across all age-groups (1 to < 12 years of age) were lower (Cmax: ↓13%, AUC: ↓30%) than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
+The projected daily exposures in pediatric patients were greater (daily AUC approximately 100% greater) than the exposures seen in immunocompetent pediatric patients receiving acyclovir 20 mg/kg 4 times daily for the treatment of chickenpox.
+Based on the pharmacokinetic and safety data from this study and the safety and extrapolated efficacy data from the acyclovir studies, oral valacyclovir 20 mg/kg 3 times a day for 5 days (not to exceed 1 gram 3 times daily) is recommended for the treatment of chickenpox in pediatric patients 2 to < 18 years of age.
+Because the efficacy and safety of acyclovir for the treatment of chickenpox in children < 2 years of age have not been established, efficacy data cannot be extrapolated to support valacyclovir treatment in children < 2 years of age with chickenpox.
+Valacyclovir is also not recommended for the treatment of herpes zoster in children because safety data up to 7 days’ duration are not available [see Use in Specific Populations (8.4)].

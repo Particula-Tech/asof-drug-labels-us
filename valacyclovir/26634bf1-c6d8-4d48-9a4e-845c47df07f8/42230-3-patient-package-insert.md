@@ -19,7 +19,7 @@ Valacyclovir tablets, USP are used in adults:
 - to treat cold sores (also called fever blisters or herpes labialis)
 - to treat shingles (also called herpes zoster)
 - to treat or control genital herpes outbreaks in adults with normal immune systems
-- to control genital herpes outbreaks in adults infected with the human immunodeficiency virus (HIV) with CD4+ cell count greater than 100 cells/mm3
+- to control genital herpes outbreaks in adults infected with the human immunodeficiency virus (HIV) with CD4 + cell count greater than 100 cells/mm3
 - with safer sex practices to lower the chances of spreading genital herpes to others.
   Even with safer sex practices, it is still possible to spread genital herpes.
 
@@ -30,20 +30,22 @@ Valacyclovir tablets, USP used daily with the following safer sex practices can 
 
 Valacyclovir tablets, USP are used in children:
 
-- to treat cold sores (for children ≥ 12 years of age).
+- to treat cold sores (for children ≥ 12 years of age)
+- to treat chickenpox (for children 2 to < 18 years of age).
 
-Valacyclovir tablets, USP do not cure herpes infections (cold sores, shingles, or genital herpes).
+Valacyclovir tablets, USP do not cure herpes infections (cold sores, chickenpox, shingles, or genital herpes).
 
 The efficacy of valacyclovir tablets, USP have not been studied in children who have not reached puberty.
 
-Labeling describing use of valacyclovir HCL in pediatric patients with chickenpox (ages of 2 to ≤ 18 years) is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that pediatric use is not approved for this valacyclovir HCL tablet product.
-
-What are cold sores, shingles, and genital herpes?
+What are cold sores, chickenpox, shingles, and genital herpes?
 
 Cold sores are caused by a herpes virus that may be spread by kissing or other physical contact with the infected area of the skin.
 They are small, painful ulcers that you get in or around your mouth.
 It is not known if valacyclovir tablets, USP can stop the spread of cold sores to others.
+
+Chickenpox is caused by a herpes virus.
+It causes an itchy rash of multiple small, red bumps that look like pimples or insect bites usually appearing first on the abdomen or back and face.
+It can spread to almost everywhere else on the body and may be accompanied by flu-like symptoms.
 
 Shingles is caused by the same herpes virus that causes chickenpox.
 It causes small, painful blisters that happen on your skin.
@@ -61,9 +63,6 @@ Valacyclovir tablets, USP, taken every day as prescribed and used with the follo
 - Use a condom made of latex or polyurethane whenever you have sexual contact.
 
 Ask your healthcare provider for more information about safer sex practices.
-
-Labeling describing use of valacyclovir HCL in children with chickenpox (ages of 2 to ≤ 18 years) is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that pediatric use is not approved for this valacyclovir HCL tablet product.
 
 Who should not take valacyclovir tablets, USP?
 
@@ -102,16 +101,13 @@ Your dose of valacyclovir tablets, USP and length of treatment will depend on th
 
 - Do not stop valacyclovir tablets, USP or change your treatment without talking to your healthcare provider.
 - Valacyclovir tablets, USP can be taken with or without food.
-- If you are taking valacyclovir tablets, USP to treat cold sores, shingles, or genital herpes, you should start treatment as soon as possible after your symptoms start.
+- If you are taking valacyclovir tablets, USP to treat cold sores, chickenpox, shingles, or genital herpes, you should start treatment as soon as possible after your symptoms start.
   Valacyclovir tablets, USP may not help you if you start treatment too late.
 - If you miss a dose of valacyclovir tablets, USP, take it as soon as you remember and then take your next dose at its regular time.
   However, if it is almost time for your next dose, do not take the missed dose.
   Wait and take the next dose at the regular time.
 - Do not take more than the prescribed number of valacyclovir tablets, USP each day.
   Call your healthcare provider right away if you take too much valacyclovir tablets, USP.
-
-Labeling describing use of valacyclovir HCL in pediatric patients with chickenpox (ages of 2 to ≤ 18 years) is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that pediatric use is not approved for this valacyclovir HCL tablet product.
 
 What are the possible side effects of valacyclovir tablets, USP?
 
@@ -139,13 +135,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store valacyclovir tablets, USP?
 
-- Store valacyclovir tablets, USP at room temperature, 68 - 77° F (20 - 25° C).
+- Store valacyclovir tablets, USP at room temperature, 68° to 77° F (20° to 25° C).
+- Store valacyclovir oral suspension between 2° to 8° C (36° to 46° F) in a refrigerator.
+  Discard after 28 days.
 - Keep valacyclovir tablets, USP in a tightly closed container.
 - Do not keep medicine that is out of date or that you no longer need.
 - Keep valacyclovir tablets, USP and all medicines out of the reach of children.
-
-Labeling describing storage of oral suspension of valacyclovir HCL is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that storage information is not approved for this valacyclovir HCL tablet product.
 
 General information about valacyclovir tablets, USP
 
@@ -164,10 +159,27 @@ Active Ingredient: valacyclovir hydrochloride, USP (hydrous)
 
 Inactive Ingredients: crospovidone, FD&C blue #2/indigo carmine aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polyethylene glycol 6000, polysorbate 80, povidone, and titanium dioxide.
 
-Manufactured for
+Manufactured for:
 
 Ranbaxy Pharmaceuticals Inc.
 
 Jacksonville, FL 32257 USA
 
-August 2011
+by: Ohm Laboratories Inc.
+
+North Brunswick, NJ 08902 USA
+
+and
+
+Alembic Pharmaceuticals Limited,
+
+Village Panelav, P.O.
+Tajpura,
+
+Near Baska, Taluka-Halol,
+
+District-Panchmahal,
+
+Gujarat-389350, India.
+
+July 2013

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.6).
+See FDA-Approved Patient Labeling.
 
 ## 17.1 Importance of Adequate Hydration
 
@@ -36,12 +36,9 @@ There are no data on the safety or effectiveness of chronic suppressive therapy 
 There are no data on treatment initiated more than 72 hours after onset of the zoster rash.
 Patients should be advised to initiate treatment as soon as possible after a diagnosis of herpes zoster.
 
-Labeling describing use of valacyclovir HCL in pediatric patients with chickenpox (ages of 2 to ≤ 18 years) for the treatment of chickenpox is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that use is not approved for this valacyclovir HCL tablet product.
+## 17.5 Chickenpox
 
-## 17.6 FDA-Approved Patient Labeling
-
-Patient labeling is provided as a tear-off leaflet at the end of this full prescribing information.
+Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.
 
 Manufactured for:
 
@@ -49,6 +46,6 @@ Ranbaxy Pharmaceuticals Inc.
 
 Jacksonville, FL 32257 USA
 
-August 2011
+June 2012
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT

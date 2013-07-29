@@ -23,7 +23,7 @@ For the incidence of laboratory abnormalities see Table 2.
 Recurrent Episodes: In 3 clinical studies for the episodic treatment of recurrent genital herpes, the adverse reactions reported by ≥ 5% of patients receiving valacyclovir hydrochloride 500 mg twice daily for 3 days (n = 402), valacyclovir hydrochloride 500 mg twice daily for 5 days (n = 1,136) or placebo (n = 259), respectively, included headache (16%, 11%, 14%) and nausea (5%, 4%, 5%).
 For the incidence of laboratory abnormalities see Table 2.
 
-Suppressive Therapy: Suppression of Recurrent Genital Herpes in Immunocompetent Adults: In a clinical study for the suppression of recurrent genital herpes infections, the adverse reactions reported by patients receiving valacyclovir hydrochloride 1 gram once daily (n = 269), valacyclovir hydrochloride 500 mg once daily (n = 266), or placebo (n = 134), respectively, included headache (35%, 38%; 34%), nausea (11%, 11%, 8%), abdominal pain (11%, 9%, 6%), dysmenorrhea (8%, 5%, 4%), depression (7%, 5%, 5%), arthralgia (6%, 5%, 4%), vomiting (3%, 3%, 2%), and dizziness (4%, 2%, 1%).
+Suppressive Therapy: Suppression of Recurrent Genital Herpes in Immunocompetent Adults: In a clinical study for the suppression of recurrent genital herpes infections, the adverse reactions reported by patients receiving valacyclovir hydrochloride 1 gram once daily (n = 269), valacyclovir hydrochloride 500 mg once daily (n = 266), or placebo (n = 134), respectively, included headache (35%, 38%, 34%), nausea (11%, 11%, 8%), abdominal pain (11%, 9%, 6%), dysmenorrhea (8%, 5%, 4%), depression (7%, 5%, 5%), arthralgia (6%, 5%, 4%), vomiting (3%, 3%, 2%), and dizziness (4%, 2%, 1%).
 For the incidence of laboratory abnormalities see Table 2.
 
 Suppression of Recurrent Genital Herpes in HIV-Infected Patients: In HIV-infected patients, frequently reported adverse reactions for valacyclovir hydrochloride (500 mg twice daily; n = 194, median days on therapy = 172) and placebo (n = 99, median days on therapy = 59), respectively, included headache (13%, 8%), fatigue (8%, 5%), and rash (8%, 1%).
@@ -49,13 +49,16 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes St
 
 ## 6.2 Clinical Trials Experience in Pediatric Patients
 
-Sixty-five pediatric patients, 12 to < 18 years of age, received oral tablets for 1 to 2 days for treatment of cold sores.
+The safety profile of valacyclovir hydrochloride has been studied in 177 pediatric patients 1 month to < 18 years of age.
+Sixty-five of these pediatric patients, 12 to < 18 years of age, received oral tablets for 1 to 2 days for treatment of cold sores.
+The remaining 112 pediatric patients, 1 month to < 12 years of age, participated in 3 pharmacokinetic and safety studies and received valacyclovir oral suspension.
+Fifty-one of these 112 pediatric patients received oral suspension for 3 to 6 days.
 The frequency, intensity, and nature of clinical adverse reactions and laboratory abnormalities were similar to those seen in adults.
 
 Pediatric Patients 12 to < 18 Years of Age (Cold Sores): In clinical studies for the treatment of cold sores, the adverse reactions reported by adolescent patients receiving valacyclovir hydrochloride 2 grams twice daily for 1 day, or valacyclovir hydrochloride 2 grams twice daily for 1 day followed by 1 gram twice daily for 1 day (n = 65, across both dosing groups), or placebo (n = 30), respectively, included headache (17%, 3%) and nausea (8%, 0%).
 
-Labeling describing additional clinical trial adverse reactions in pediatric patients (ages of 1 month to ≤ 12 years) is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those adverse reactions is not approved for this valacyclovir HCL tablet product.
+Pediatric Patients 1 Month to < 12 Years of Age: Adverse events reported in more than 1 subject across the 3 pharmacokinetic and safety studies in children 1 month to < 12 years of age were diarrhea (5%), pyrexia (4%), dehydration (2%), herpes simplex (2%), and rhinorrhea (2%).
+No clinically meaningful changes in laboratory values were observed.
 
 ## 6.3 Postmarketing Experience
 

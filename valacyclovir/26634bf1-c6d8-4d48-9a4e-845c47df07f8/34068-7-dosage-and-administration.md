@@ -1,9 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 - Valacyclovir tablets may be given without regard to meals.
-
-Labeling describing use of valacyclovir HCL in pediatric patients for whom a solid dosage form is not appropriate is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that information is not approved for this valacyclovir HCL tablet product.
+- Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from 500 mg valacyclovir tablets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration (2.3)].
 
 ## 2.1 Adult Dosing Recommendations
 
@@ -19,7 +17,7 @@ Initiate treatment at the first sign or symptom of an episode.
 Suppressive Therapy: The recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 1 gram once daily in patients with normal immune function.
 In patients with a history of 9 or fewer recurrences per year, an alternative dose is 500 mg once daily.
 
-In HIV-infected patients with a CD4+ cell count ≥ 100 cells/mm 3, the recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
+In HIV-infected patients with a CD4 + cell count ≥ 100 cells/mm 3, the recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
 
 Reduction of Transmission: The recommended dosage of valacyclovir tablets for reduction of transmission of genital herpes in patients with a history of 9 or fewer recurrences per year is 500 mg once daily for the source partner.
 
@@ -31,8 +29,33 @@ Therapy should be initiated at the earliest sign or symptom of herpes zoster and
 Cold Sores (Herpes Labialis): The recommended dosage of valacyclovir tablets for the treatment of cold sores in pediatric patients ≥ 12 years of age is 2 grams twice daily for 1 day taken 12 hours apart.
 Therapy should be initiated at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
 
-Labeling describing additional dosing of valacyclovir HCL for pediatric patients with chickenpox is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that additional dosing information is not approved for this valacyclovir HCL tablet product.
+Chickenpox: The recommended dosage of valacyclovir tablets for treatment of chickenpox in immunocompetent pediatric patients 2 to < 18 years of age is 20 mg/kg administered 3 times daily for 5 days.
+The total dose should not exceed 1 gram 3 times daily.
+Therapy should be initiated at the earliest sign or symptom [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+
+## 2.3 Extemporaneous Preparation of Oral Suspension
+
+Ingredients and Preparation per USP-NF: Valacyclovir tablets 500 mg, cherry flavor, and Suspension Structured Vehicle USP-NF (SSV).
+Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) should be prepared in lots of 100 mL.
+
+Prepare Suspension at Time of Dispensing as Follows:
+
+- Prepare SSV according to the USP-NF.
+- Using a pestle and mortar, grind the required number of valacyclovir tablets 500 mg until a fine powder is produced (5 valacyclovir tablets for 25 mg/mL suspension; 10 valacyclovir tablets for 50 mg/mL suspension).
+- Gradually add approximately 5 mL aliquots of SSV to the mortar and triturate the powder until a paste has been produced.
+  Ensure that the powder has been adequately wetted.
+- Continue to add approximately 5 mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25 mg/mL and 50 mg/mL suspensions.
+- Transfer the mixture to a suitable 100 mL measuring flask.
+- Transfer the cherry flavor* to the mortar and dissolve in approximately 5 mL of SSV.
+  Once dissolved, add to the measuring flask.
+- Rinse the mortar at least 3 times with approximately 5 mL aliquots of SSV, transferring the rinsing to the measuring flask between additions.
+- Make the suspension to volume (100 mL) with SSV and shake thoroughly to mix.
+- Transfer the suspension to an amber glass medicine bottle with a child-resistant closure.
+- The prepared suspension should be labeled with the following information “Shake well before using.
+  Store suspension between 2° to 8° C (36° to 46° F) in a refrigerator.
+  Discard after 28 days.”
+
+*The amount of cherry flavor added is as instructed by the suppliers of the cherry flavor.
 
 ## 2.4 Patients With Renal Impairment
 
