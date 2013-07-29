@@ -34,10 +34,11 @@ VIMPAT (lacosamide) injection 200 mg/20 mL is a clear, colorless sterile solutio
 | --- | --- |
 
 VIMPAT (lacosamide) oral solution 10 mg/mL is a clear, colorless to yellow or yellow-brown, strawberry-flavored liquid.
-It is supplied in PET bottles.
+It is supplied in PET bottles as follows:
 
-| 465 mL bottles | NDC 0131-5410-70 |
+| 200 mL bottles | NDC 0131-5410-71 |
 | --- | --- |
+| 465 mL bottles | NDC 0131-5410-70 |
 
 ## 16.1 Storage
 

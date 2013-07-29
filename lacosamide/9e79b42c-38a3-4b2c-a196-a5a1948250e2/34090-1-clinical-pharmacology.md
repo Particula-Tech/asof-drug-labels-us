@@ -43,7 +43,7 @@ Food does not affect the rate and extent of absorption.
 After intravenous administration, Cmax is reached at the end of infusion.
 The 30- and 60-minute intravenous infusions are bioequivalent to the oral tablet.
 
-In a trial comparing the oral tablet with and an oral solution containing 10 mg/mL lacosamide, bioequivalence between both formulations was shown.
+In a trial comparing the oral tablet with an oral solution containing 10 mg/mL lacosamide, bioequivalence between both formulations was shown.
 
 ### Distribution
 

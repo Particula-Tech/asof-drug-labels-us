@@ -82,7 +82,7 @@ Before you take VIMPAT, tell your healthcare provider, if you:
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
-Taking VIMPAT with certain other medicines may cause side effects or affect how they work.
+Taking VIMPAT with certain other medicines may cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
 Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist each time you get a new medicine.
@@ -141,7 +141,7 @@ General Information about VIMPAT
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use VIMPAT for a condition for which it was not prescribed.
-Do not give VIMPAT to other people, even if they have the same symptoms you have.
+Do not give VIMPAT to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about VIMPAT.

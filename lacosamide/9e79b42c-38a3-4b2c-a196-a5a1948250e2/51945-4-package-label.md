@@ -56,21 +56,17 @@ ATTENTION PHYSICIAN: Each patient is required to receive the accompanying Medica
 
 Not for Sale Professional Samples
 
-PRINCIPAL DISPLAY PANEL - 200 mg/20 mL Vial Label
+PRINCIPAL DISPLAY PANEL - 200 mg/20 mL Vial Carton
 
-NDC 0131-1810-67
+NDC 0131-1810-67 Rx Only
 
-Single Use Vial
+Intravenous Use Only 10 vials
 
 VIMPAT® (lacosamide) injection CV
 
-200 mg /20 mL (1 0 mg /mL)
+200 mg /20 mL (10 mg/mL)
 
-For Intravenous Use Only
-
-Rx only
-
-20 mL
+Manufactured for: UCB, Inc. Smyrna, GA 30080
 
 PRINCIPAL DISPLAY PANEL - 465 mL Bottle Label
 
