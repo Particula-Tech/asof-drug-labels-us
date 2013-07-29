@@ -11,10 +11,10 @@ Acute Otitis Media: For the treatment of acute otitis media in pediatric patient
 To date, there are limited data on the safety of repeated use of BACTRIM in pediatric patients under two years of age.
 BACTRIM is not indicated for prophylactic or prolonged administration in otitis media at any age.
 
-Acute Exacerbations of Chronic Bronchitis in Adults: For the treatment of acute exacerbations of chronic bronchitis due to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when in the judgment of the physician BACTRIM offers some advantage over the use of a single antimicrobial agent.
+Acute Exacerbations of Chronic Bronchitis in Adults: For the treatment of acute exacerbations of chronic bronchitis due to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when a physician deems that BACTRIM could offer some advantage over the use of a single antimicrobial agent.
 
 Shigellosis: For the treatment of enteritis caused by susceptible strains of Shigella flexneri and Shigella sonnei when antibacterial therapy is indicated.
 
-Pneumocystis Jiroveci Pneumonia: For the treatment of documented Pneumocystis jiroveci pneumonia and for prophylaxis against Pneumocystis jiroveci pneumonia in individuals who are immunosuppressed and considered to be at an increased risk of developing Pneumocystis jiroveci pneumonia.
+Pneumocystis jiroveci Pneumonia: For the treatment of documented Pneumocystis jiroveci pneumonia and for prophylaxis against P. jiroveci pneumonia in individuals who are immunosuppressed and considered to be at an increased risk of developing P. jiroveci pneumonia.
 
 Traveler's Diarrhea in Adults: For the treatment of traveler's diarrhea due to susceptible strains of enterotoxigenic E. coli.

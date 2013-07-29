@@ -12,13 +12,13 @@
 4. Rudoy RC, Nelson JD, Haltalin KC.
    Antimicrobial Agents Chemother.
    May 1974;5:439–443.
-5. National Committee for Clinical Laboratory Standards.
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – Fourth Edition.
-   NCCLS Document M7–A4, Vol.17, No. 2, NCCLS, Wayne, PA, January, 1997.
+5. Clinical and Laboratory Standards Institute.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – 9th ed.
+   CLSI document M07–A9, CLSI, Wayne, PA, 2012.
 6. Safrin S, Lee BL, Sande MA.
    Adjunctive folinic acid with trimethoprim-sulfamethoxazole for Pneumocystis carinii pneumonia in AIDS patients is associated with an increased risk of therapeutic failure and death.
    J Infect Dis.
-   1994 Oct;170(4):912-7.
+   1994 Oct;170(4):912–7.
 7. Hardy DW, et al. A controlled trial of trimethoprim-sulfamethoxazole or aerosolized pentamidine for secondary prophylaxis of Pneumocystis carinii pneumonia in patients with the acquired immunodeficiency syndrome.
    N Engl J Med.
    1992; 327: 1842–1848.
@@ -39,7 +39,15 @@
     1992; 327: 1853–1880.
 12. Recommendations for prophylaxis against Pneumocystis carinii pneumonia for adults and adolescents infected with human immunodeficiency virus.
     MMWR.
-    1992; 41(RR-4):1–11.
+    1992; 41(RR–4):1–11.
 13. CDC Guidelines for prophylaxis against Pneumocystis carinii pneumonia for children infected with human immunodeficiency virus.
     MMWR.
-    1991; 40(RR-2):1–13.
+    1991; 40(RR–2):1–13.
+14. Clinical and Laboratory Standards Institute.
+    Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – 11th ed.
+    CLSI document M02–A11, CLSI, Wayne, PA, 2012.
+15. Clinical and Laboratory Standards Institute (CLSI).
+    Performance Standards for Antimicrobial Susceptibility Testing; Twenty-third Informational Supplement, CLSI document M100–S23.
+    CLSI document M100–S23, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2013.
+
+BACTRIM™ and BACTRIM™ DS are trademarks of Hoffmann-La Roche Inc.
