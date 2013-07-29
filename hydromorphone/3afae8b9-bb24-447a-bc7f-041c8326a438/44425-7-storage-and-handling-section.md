@@ -7,12 +7,10 @@ A schedule CS-II Narcotic.
 DEA Order Form is Required.
 
 Manufactured for Purdue Pharma L.P.
-Stamford CT 06901-3431
+Stamford, CT 06901-3431
 
-By Halo Pharmaceuticals, Inc.
+By Halo Pharmaceutical, Inc.
 
 Whippany, NJ 07981
 
-Revised: October 21, 2009
-
-302064-0C
+Revised: 6/2013
