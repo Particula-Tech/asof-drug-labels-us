@@ -177,29 +177,24 @@ Endometriosis may be exacerbated with administration of estrogens.
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen alone therapy.
 For women known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-## 5.16 Aspirin Hypersensitivity
-
-Evamist contains octisalate, an ingredient commonly found in sunscreens with chemical similarities to aspirin.
-Due to this similarity, a hypersensitive reaction cannot be ruled out for patients with aspirin sensitivity.
-
-## 5.17 Exacerbation of Other Conditions
+## 5.16 Exacerbation of Other Conditions
 
 Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus and hepatic hemangiomas and should be used with caution in women with these conditions.
 
-## 5.18 Alcohol-Based Products are Flammable
+## 5.17 Alcohol-Based Products are Flammable
 
 Avoid fire, flame or smoking until the spray has dried.
 
-## 5.19 Application of Sunscreen
+## 5.18 Application of Sunscreen
 
 When sunscreen is applied approximately one hour after application of Evamist, estradiol absorption was decreased by 11 percent.
 When sunscreen is applied approximately one hour before the application of Evamist, no significant change in estradiol absorption was observed.
 
-## 5.20 Laboratory Tests
+## 5.19 Laboratory Tests
 
 Serum follicle stimulating hormone and estradiol levels have not been shown to be useful in the management of moderate to severe vasomotor symptoms.
 
-## 5.21 Drug and Laboratory Test Interactions
+## 5.20 Drug and Laboratory Test Interactions
 
 Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta- thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
