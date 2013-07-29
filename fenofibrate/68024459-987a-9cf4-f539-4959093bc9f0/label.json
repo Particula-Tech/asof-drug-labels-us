@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA202252"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-3120-1",
+    "60505-3120-3",
+    "60505-3121-1",
+    "60505-3121-3",
+    "60505-3121-5",
+    "60505-3121-9"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fenofibrate",
+      "name": "Fenofibrate"
+    }
+  ],
+  "setid": "68024459-987a-9cf4-f539-4959093bc9f0",
+  "source": "dailymed"
+}
