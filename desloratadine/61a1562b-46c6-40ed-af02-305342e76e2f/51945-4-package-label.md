@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 100 Tablet Carton
+PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
 
 NDC 0085-1322-01 100 Tablets
 
@@ -8,4 +8,4 @@ CLARINEX-D® 12 HOUR
 
 Rx only
 
-D12 actual size
+actual size

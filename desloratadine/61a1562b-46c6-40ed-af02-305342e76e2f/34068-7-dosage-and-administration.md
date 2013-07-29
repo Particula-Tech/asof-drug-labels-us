@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Administer CLARINEX-D 12 HOUR Extended Release Tablet by the oral route only.
-Do not break, chew or crush the tablet.
+Do not break, chew, or crush the tablet.
 Swallow the tablet whole.
 
 ## 2.1 Adults and Adolescents 12 years of Age and Over

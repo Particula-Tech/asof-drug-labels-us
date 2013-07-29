@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-CLARINEX-D (CLA-RI-NEX) 12 Hour Extended Release Tablets (desloratadine and pseudoephedrine sulfate)
+CLARINEX-D® (CLA-RI-NEX) 12 Hour Extended Release Tablets (desloratadine and pseudoephedrine sulfate)
 
 Read the Patient Information that comes with CLARINEX-D 12 Hour Extended Release Tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -22,7 +22,7 @@ Do not take CLARINEX-D 12 Hour Extended Release Tablets if you:
 - are allergic to desloratadine or pseudoephedrine sulfate or any of the ingredients in CLARINEX-D 12 Hour Extended Release Tablets.
   See the end of this leaflet for a complete list of ingredients in CLARINEX-D 12 Hour Extended Release Tablets.
 - are allergic to loratadine (Alavert, Claritin)
-- have narrow angle glaucoma
+- have narrow-angle glaucoma
 - have problems with urination (urinary retention)
 - take a Monoamine Oxidase Inhibitor (MAOI) medicine to treat depression, or if you stopped taking an MAOI medicine within the last 2 weeks.
   Ask your doctor or pharmacist if you are not sure if you take an MAOI medicine.
@@ -44,16 +44,23 @@ Before you take CLARINEX-D 12 Hour Extended Release Tablets, tell your doctor if
 - are pregnant or plan to become pregnant.
   It is not known if CLARINEX-D 12 Hour Extended Release Tablets will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   CLARINEX-D 12 Hour Extended Release Tablets can pass into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take CLARINEX-D 12 Hour Extended Release Tablets.
 
-Tell your doctor about all the medicines your take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-CLARINEX-D 12 Hour Extended Release Tablets may affect the way other medicines work, and other medicines may affect how CLARINEX-D 12 Hour Extended Release Tablets works.
+Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+CLARINEX-D® 12 Hour Extended Release Tablets may affect the way other medicines work, and other medicines may affect how CLARINEX-D 12 Hour Extended Release Tablets works.
 Especially tell your doctor if you take:
 
-| Monoamine Oxidase Inhibitors (MAOI). You should not use CLARINEX-D 12 Hour Extended Release Tablets if you take a MAOI or within 2 weeks of stopping an MAOI.methyldopareserpine (Serpalan) | digitalis (Digoxin, Lanoxicaps, Lanoxin) ketoconazole (Nizoral)erythromycin (Ery-tab, Eryc, PCE)azithromycin (Zithromax, Zmax)antihistaminesother decongestant medicines |
-| --- | --- |
+- Monoamine Oxidase Inhibitors (MAOIs).
+  You should not use CLARINEX-D 12 Hour Extended Release Tablets if you take an MAOI or within 2 weeks of stopping an MAOI.
+- methyldopa
+- reserpine (Serpalan)
+- digitalis (Digoxin, Lanoxicaps, Lanoxin) ketoconazole (Nizoral)
+- erythromycin (Ery-tab, Eryc, PCE)
+- azithromycin (Zithromax, Zmax)
+- antihistamines
+- other decongestant medicines
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
@@ -117,7 +124,7 @@ How should I store CLARINEX-D® 12 Hour Extended Release Tablets?
 
 Keep CLARINEX-D 12 Hour Extended Release Tablets and all medicines out of the reach of children.
 
-General information CLARINEX-D® 12 Hour Extended Release Tablets
+General information about CLARINEX-D® 12 Hour Extended Release Tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use CLARINEX-D 12 Hour Extended Release Tablets for a condition for which it was not prescribed.
@@ -128,20 +135,10 @@ This patient information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about CLARINEX-D 12 Hour Extended Release Tablets that is written for health professionals.
 
-For more information, go to www.
-CLARINEX.com
+For more information, go to www.CLARINEX.com
 
 What are the ingredients in CLARINEX-D® 12 Hour Extended Release Tablets?
 
 Active ingredients: desloratadine and pseudoephedrine sulfate
 
-Inactive ingredients: hypromellose USP, microcrystalline cellulose NF, povidone USP, silicon dioxide NF, magnesium stearate NF, corn starch NF, edetate disodium USP, citric acid anhydrous USP, stearic acid NF and FD&C Blue No. 2 aluminum lake dye.
-
-Manufactured by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA.
-
-Rev: Month/Year
-
-© 2006, 2009, Schering Corporation.
-All rights reserved.
-
-U.S. Patent Nos. 4,659,716; 4,863,931; 5,595,997; and 6,100,274
+Inactive ingredients: hypromellose USP, microcrystalline cellulose NF, povidone USP, silicon dioxide NF, magnesium stearate NF, corn starch NF, edetate disodium USP, citric acid anhydrous USP, stearic acid NF, and FD&C Blue No. 2 aluminum lake dye.

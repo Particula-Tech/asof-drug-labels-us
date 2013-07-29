@@ -1,10 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA Approved Patient Labeling]
+[see FDA-approved patient labeling]
 
 ## 17.1 Cardiovascular and Central Nervous System Effects
 
-Patients should be informed that pseudoephedrine, on of the active ingredients in CLARINEX-D 12 HOUR Extended Release Tablets may cause cardiovascular or central nervous system effects such as insomnia, dizziness, tremor, or arrhythmia.
+Patients should be informed that pseudoephedrine, one of the active ingredients in CLARINEX-D 12 HOUR Extended Release Tablets may cause cardiovascular or central nervous system effects such as insomnia, dizziness, tremor, or arrhythmia.
 
 ## 17.2 Dosing
 
@@ -24,4 +24,4 @@ Patients with severe hypertension or severe coronary artery disease, narrow-angl
 
 ## 17.6 Instructions for Use
 
-Patients should be instructed not to break, crush or chew the tablet; the tablet should be swallowed whole, and can be taken without regard to meals.
+Patients should be instructed not to break, crush, or chew the tablet; the tablet should be swallowed whole, and can be taken without regard to meals.

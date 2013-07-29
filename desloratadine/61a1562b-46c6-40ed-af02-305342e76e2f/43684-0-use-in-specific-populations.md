@@ -7,10 +7,10 @@ Neither are there animal reproduction studies conducted with the combination of 
 Desloratadine was not teratogenic in rats or rabbits but affected implantation in rats.
 Because animal reproduction studies are not always predictive of human response, CLARINEX-D 12 HOUR Extended Release Tablets should be used during pregnancy only if clearly needed.
 
-Desloratadine was not teratogenic in rats or rabbits at approximately 210 and 230 times, respectively, the AUC in humans at the recommended daily oral dose).
-An increase in pre-implantation loss and a decreased number of implantations and fetuses were noted, however, in a separate study in female rats at approximately 120 times the AUC in humans at the recommended daily oral dose).
+Desloratadine was not teratogenic in rats or rabbits at approximately 210 and 230 times, respectively, the AUC in humans at the recommended daily oral dose.
+An increase in pre-implantation loss and a decreased number of implantations and fetuses were noted, however, in a separate study in female rats at approximately 120 times the AUC in humans at the recommended daily oral dose.
 Reduced body weight and slow righting reflex were reported in pups at approximately 50 times or greater than the AUC in humans at the recommended daily oral dose.
-Desloratadine had no effect on pup development at approximately 7 times the AUC in humans at the recommended daily oral dose).
+Desloratadine had no effect on pup development at approximately 7 times the AUC in humans at the recommended daily oral dose.
 The AUCs in comparison referred to the desloratadine exposure in rabbits and the sum of desloratadine and its metabolites exposures in rats, respectively [see Nonclinical Toxicology (13.2)].
 
 ## 8.3 Nursing Mothers

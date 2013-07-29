@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-CLARINEX-D 12 HOUR Extended Release Tablets are oval-shaped blue and white bilayer tablets containing 2.5 mg desloratadine in the blue immediate-release layer and 120 mg of pseudoephedrine sulfate, USP in the white extended-release layer which is released slowly, allowing for twice-daily administration.
+CLARINEX-D 12 HOUR Extended Release Tablets are oval-shaped blue and white bilayer tablets containing 2.5 mg desloratadine in the blue immediate-release layer and 120 mg of pseudoephedrine sulfate USP in the white extended-release layer which is released slowly, allowing for twice-daily administration.
 
-The inactive ingredients contained in CLARINEX-D 12 HOUR Extended Release Tablets are hypromellose USP, microcrystalline cellulose NF, povidone USP, silicon dioxide NF, magnesium stearate NF, corn starch NF, edetate disodium USP, citric acid anhydrous USP, stearic acid NF and FD&C Blue No. 2 aluminum lake dye.
+The inactive ingredients contained in CLARINEX-D 12 HOUR Extended Release Tablets are hypromellose USP, microcrystalline cellulose NF, povidone USP, silicon dioxide NF, magnesium stearate NF, corn starch NF, edetate disodium USP, citric acid anhydrous USP, stearic acid NF, and FD&C Blue No. 2 aluminum lake dye.
 
 Desloratadine, 1 of the 2 active ingredients of CLARINEX-D 12 HOUR Extended Release Tablets, is a white to off-white powder that is slightly soluble in water, but very soluble in ethanol and propylene glycol.
 It has an empirical formula: C19H19ClN2 and a molecular weight of 310.8.
