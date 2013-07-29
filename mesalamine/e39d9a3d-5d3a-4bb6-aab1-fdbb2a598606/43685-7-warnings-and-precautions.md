@@ -21,6 +21,11 @@ In cynomolgus monkeys, oral daily doses of 250 mg/kg or higher produced nephrosi
 Patients with preexisting renal disease, increased BUN or serum creatinine, or proteinuria should be carefully monitored, especially during the initial phase of treatment.
 Mesalamine-induced nephrotoxicity should be suspected in patients developing renal dysfunction during treatment.
 
+## Interference with Laboratory Tests
+
+Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection, because of the similarity in the chromatograms of normetanephrine and mesalamine's main metabolite, N-acetylaminosalicylic acid (N-Ac-5-ASA).
+An alternative, selective assay for normetanephrine should be considered.
+
 ## Drug Interactions
 
 There are no data on interactions between PENTASA and other drugs.
