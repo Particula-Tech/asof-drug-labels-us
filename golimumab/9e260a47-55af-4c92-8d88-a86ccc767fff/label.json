@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA125433"
+  ],
+  "inn": "golimumab",
+  "labeler": "Janssen Biotech, Inc.",
+  "package_ndcs": [
+    "57894-350-01",
+    "57894-350-89"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "golimumab",
+      "name": "SIMPONI ARIA"
+    }
+  ],
+  "setid": "9e260a47-55af-4c92-8d88-a86ccc767fff",
+  "source": "dailymed"
+}
