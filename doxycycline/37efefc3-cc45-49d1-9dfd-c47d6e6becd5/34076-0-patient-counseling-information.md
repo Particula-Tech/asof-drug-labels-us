@@ -13,15 +13,15 @@ Patients taking doxycycline for malaria prophylaxis should be advised:
 All patients taking doxycycline should be advised:
 
 - to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (for example, skin eruptions, etc.) occurs.
-  Sunscreen or sunblock should be considered [see WARNINGS AND PRECAUTIONS (5.3)].
-- to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration [see ADVERSE REACTIONS (6.1)].
+  Sunscreen or sunblock should be considered [see Warnings and Precautions (5.3)].
+- to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration [see Adverse Reactions (6.1)].
 - that the absorption of tetracyclines is reduced when taken with foods, especially those that contain calcium.
-  However, the absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk [see DRUG INTERACTIONS (7.3)].
-- that the absorption of tetracyclines is reduced when taken with antacids containing aluminum, calcium or magnesium, bismuth subsalicylate, and iron-containing preparations [see DRUG INTERACTIONS (7.3)].
+  However, the absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk [see Drug Interactions (7.3)].
+- that the absorption of tetracyclines is reduced when taken with antacids containing aluminum, calcium or magnesium, bismuth subsalicylate, and iron-containing preparations [see Drug Interactions (7.3)].
 - that the use of doxycycline might increase the incidence of vaginal candidiasis.
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of antibiotic.
+Diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is discontinued.
+Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of antibacterial.
 If this occurs, patients should contact their physician as soon as possible.
 
 Patients should be counseled that antibacterial drugs including DORYX should only be used to treat bacterial infections.

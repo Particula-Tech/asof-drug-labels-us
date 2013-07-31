@@ -12,15 +12,17 @@ Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, ricket
 
 ## 1.2 Sexually transmitted infections
 
-Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydia trachomatis.
+Uncomplicated urethral, endocervical or rectal infections caused by Chlamydia trachomatis.
 Nongonococcal urethritis caused by Ureaplasma urealyticum.
 Lymphogranuloma venereum caused by Chlamydia trachomatis.
 Granuloma inguinale caused by Calymmatobacterium granulomatis.
+Uncomplicated gonorrhea caused by Neisseria gonorrhoeae.
+Chancroid caused by Haemophilus ducreyi.
 
 ## 1.3 Respiratory tract infections
 
 Respiratory tract infections caused by Mycoplasma pneumoniae.
-Psittacosis (ornithosis) caused by Chlamydia psittaci.
+Psittacosis (ornithosis) caused by Chlamydophila psittaci.
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 
@@ -66,4 +68,4 @@ In severe acne, doxycycline may be useful adjunctive therapy.
 
 ## 1.9 Prophylaxis of malaria
 
-Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see DOSAGE AND ADMINISTRATION (2.2) and PATIENT COUNSELING INFORMATION (17)].
+Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (less than 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see Dosage and Administration (2.2) and Patient Counseling Information (17)].

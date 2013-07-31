@@ -4,7 +4,7 @@
 
 Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted.
 However, there has been evidence of oncogenic activity in rats in studies with the related antibiotics, oxytetracycline (adrenal and pituitary tumors) and minocycline (thyroid tumors).
-Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibiotics (tetracycline, oxytetracycline).
+Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibacterials (tetracycline, oxytetracycline).
 
 Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats.
 Effect on male fertility has not been studied.

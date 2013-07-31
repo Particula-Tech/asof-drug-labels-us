@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-DORYX (Doxycycline Hyclate Delayed-Release Tablets, USP), for oral administration, contain specially coated pellets of doxycycline hyclate, a broad-spectrum antibiotic synthetically derived from oxytetracycline, in a delayed-release formulation for oral administration.
+DORYX (doxycycline hyclate delayed-release tablets), for oral administration, contain specially coated pellets of doxycycline hyclate, a broad-spectrum antibacterial synthetically derived from oxytetracycline, in a delayed-release formulation for oral administration.
 
 The structural formula for doxycycline hyclate is:
 
@@ -10,4 +10,4 @@ Doxycycline hyclate is a yellow crystalline powder soluble in water and in solut
 Doxycycline has a high degree of lipid solubility and a low affinity for calcium binding.
 It is highly stable in normal human serum.
 Doxycycline will not degrade into an epianhydro form.
-Inert ingredients in the tablet formulation are: lactose monohydrate; microcrystalline cellulose; sodium lauryl sulfate; sodium chloride; talc; anhydrous lactose; corn starch; crospovidone; magnesium stearate; cellulosic polymer coating.
+Inactive ingredients in the tablet formulation are: lactose monohydrate; microcrystalline cellulose; sodium lauryl sulfate; sodium chloride; talc; anhydrous lactose; corn starch; crospovidone; magnesium stearate; cellulosic polymer coating.
