@@ -39,9 +39,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue benazepril, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to benazepril for hypotension, oliguria, and hyperkalemia (see
-
-PRECAUTIONS, Pediatric Use).
+Closely observe infants with histories of in utero exposure to benazepril for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
 No teratogenic effects of benazepril were seen in studies of pregnant rats, mice, and rabbits.
 On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50 kg woman).
 On a mg/kg basis these multiples are 300 times (in rats), 90 times (in mice), and more than 3 times (in rabbits) the maximum recommended human dose.
@@ -146,6 +144,4 @@ Benazepril was generally well tolerated and adverse effects were similar to thos
 The long-term effects of benazepril on growth and development have not been studied.
 Infants below the age of 1 year should not be given benazepril because of the risk of effects on kidney development.
 Treatment with benazepril is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS), and in children with glomerular filtration rate <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups.
-(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism, In Pediatric Patients
-
-and DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism, In Pediatric Patients and DOSAGE AND ADMINISTRATION.)

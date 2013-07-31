@@ -9,10 +9,13 @@ If a once-daily regimen does not give adequate trough response, an increase in d
 If blood pressure is not controlled with benazepril hydrochloride tablets alone, a diuretic can be added.
 Total daily doses above 80 mg have not been evaluated.
 Concomitant administration of benazepril hydrochloride tablets with potassium supplements, potassium salt substitutes, or potassium-sparing diuretics can lead to increases of serum potassium (see PRECAUTIONS).
+
 In patients who are currently being treated with a diuretic, symptomatic hypotension occasionally can occur following the initial dose of benazepril hydrochloride tablets.
 To reduce the likelihood of hypotension, the diuretic should, if possible, be discontinued two to three days prior to beginning therapy with benazepril hydrochloride tablets (see WARNINGS).
 Then, if blood pressure is not controlled with benazepril hydrochloride tablets alone, diuretic therapy should be resumed.
+
 If the diuretic cannot be discontinued, an initial dose of 5 mg benazepril hydrochloride tablets should be used to avoid excessive hypotension.
+
 Pediatrics In children, doses of benazepril hydrochloride tablets between 0.1 and 0.6 mg/kg once daily have been studied, and doses greater than 0.1 mg/kg were shown to reduce blood pressure (see Pharmacodynamics).
 Based on this, the recommended starting dose of benazepril hydrochloride tablets is 0.2 mg/kg once per day as monotherapy.
 Doses above 0.6 mg/kg (or in excess of 40 mg daily) have not been studied in pediatric patients.
