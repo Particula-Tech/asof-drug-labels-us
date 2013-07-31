@@ -16,7 +16,9 @@ Omeprazole can cause serious side effects, including:
 - Diarrhea.
   Omeprazole may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
-  Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
+
+Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
+
 - Bone fractures.
   People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take omeprazole exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
@@ -25,7 +27,7 @@ Omeprazole can cause serious side effects, including:
 Omeprazole can have other serious side effects.
 See “What are the possible side effects of omeprazole?”
 
-WHAT IS OMEPRAZOLE DELAYED-RELEASE CAPSULES?
+What are omeprazole delayed-release capsules?
 
 Omeprazole delayed-release capsules is a prescription medicine called a proton pump inhibitor (PPI).
 Omeprazole delayed-release capsules reduces the amount of acid in your stomach.
@@ -40,18 +42,24 @@ Omeprazole delayed-release capsules are used in adults:
 - for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
   GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
   This may cause a burning feeling in your chest or throat, sour taste, or burping.
+
+GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
+This may cause a burning feeling in your chest or throat, sour taste, or burping.
+
 - for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
   If needed, your doctor may decide to prescribe another 4 weeks of omeprazole.
 - to maintain healing of the esophagus.
   It is not known if omeprazole is safe and effective when used for longer than 12 months (1 year) for this purpose.
-- for the long-term treatment of for lowering the amount of stomach acid in people with certainconditions where your stomach makes too much acid.
+- for the long-term treatment of conditions where your stomach makes too much acid.
   This includes a rare condition called Zollinger-Ellison Syndrome.
-  For children and adolescents 2 to 17 years of age, omeprazole delayed-release capsules are used:
+
+For children and adolescents 2 to 17 years of age, omeprazole delayed-release capsules are used:
+
 - for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
 - for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
-- to maintain healing of the esophagus It is not known if omeprazole is safe and effective when used longerthan 12 months (1 year) for this purpose.It is not known if omeprazole is safe and effective for the treatment of gastroesophageal reflux disease (GERD) in children under 1 year of age.
+- to maintain healing of the esophagus It is not known if omeprazole is safe and effective when used longer than 12 months (1 year) for this purpose.
 
-WHO SHOULD NOT TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
+Who should not take omeprazole delayed-release capsules?
 
 Do not take omeprazole delayed-release capsules if you:
 
@@ -59,9 +67,9 @@ Do not take omeprazole delayed-release capsules if you:
   See the end of this Medication Guide for a complete list of ingredients in omeprazole delayed-release capsules.
 - are allergic to any other Proton Pump Inhibitor (PPI) medicine.
 
-WHAT SHOULD I TELL MY DOCTOR BEFORE TAKING OMEPRAZOLE DELAYED-RELEASE CAPSULES?
+What should I tell my doctor before taking omeprazole delayed-release capsules?
 
-Before you take omeprazole, Tell your doctor if you:
+Before you take omeprazole, tell your doctor if you:
 
 - have been told that you have low magnesium levels in your blood
 - have liver problems
@@ -101,7 +109,7 @@ Especially tell your doctor if you take:
   Know the medicines that you take.
   Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
-HOW SHOULD I TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
+How should I take omeprazole delayed-release capsules?
 
 - Take omeprazole delayed-release capsules exactly as prescribed by your doctor.
 - Do not change your dose or stop omeprazole delayed-release capsules without talking to your doctor.
@@ -121,7 +129,7 @@ HOW SHOULD I TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
   Do not take a double dose to make up for a missed dose.
 - If you take too much omeprazole release capsules, tell your doctor right away.
 
-WHAT ARE THE POSSIBLE SIDE EFFECTS OF OMEPRAZOLE DELAYED-RELEASE CAPSULES?
+What are the possible side effects of omeprazole delayed-release capsules?
 
 Omeprazole can cause serious side effects, including:
 
@@ -138,23 +146,15 @@ Omeprazole can cause serious side effects, including:
 
 Tell your doctor right away if you develop any of these symptoms:
 
-ο seizures
-
-ο dizziness
-
-ο abnormal or fast heart beat
-
-ο jitteriness
-
-ο jerking movements or shaking (tremors)
-
-ο muscle weakness
-
-ο spasms of the hands and feet
-
-ο cramps or muscle aches
-
-ο spasm of the voice box
+- seizures
+- dizziness
+- abnormal or fast heart beat
+- jitteriness
+- jerking movements or shaking (tremors)
+- muscle weakness
+- spasms of the hands and feet
+- cramps or muscle aches
+- spasm of the voice box
 
 Your doctor may check the level of magnesium in your body before you start taking omeprazole delayed-release capsules or during treatment if you will be taking omeprazole delayed-release capsules for a long period of time.
 
@@ -172,19 +172,24 @@ The most common side effects with omeprazole delayed-release capsules in adults 
 - rash
 - face swelling
 - throat tightness
-- difficulty breathingYour doctor may stop omeprazole if these symptoms happen.Tell your doctor if you have any side effect that bothers you or that do not go away.
-  These are not all the possible side effects with omeprazole.Call your doctor for medical advice about side effects.
-  You may report side effects to FDA at 1-800-FDA-­1088.
+- difficulty breathing
 
-HOW SHOULD I STORE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
+Your doctor may stop omeprazole if these symptoms happen.
 
-Store omeprazole delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
+Tell your doctor if you have any side effect that bothers you or that do not go away.
+These are not all the possible side effects with omeprazole.
 
-Keep the container of omeprazole delayed-release capsules closed tightly.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-­1088.
+
+How should I store omeprazole delayed-release capsules?
+
+- Store omeprazole delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
+- Keep the container of omeprazole delayed-release capsules closed tightly.
 
 Keep omeprazole delayed-release capsules and all medicines out of the reach of children.
 
-GENERAL information about omeprazole
+General information about omeprazole
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use omeprazole delayed-release capsules for a condition for which it was not prescribed.
@@ -198,19 +203,15 @@ You can ask your doctor or pharmacist for information that is written for health
 
 For more information contact Apotex Corp., Drug Safety at 1-800-667-4708.
 
-INSTRUCTIONS FOR USE
+Instructions for Use
 
-For instructions on taking omeprazole delayed-release capsules, please see
+For instructions on taking omeprazole delayed-release capsules, please see “How should I take omeprazole delayed-release capsules?”
 
-“HOW SHOULD I TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?”
+What are the ingredients in omeprazole delayed-release capsules?
 
-WHAT ARE THE INGREDIENTS IN OMEPRAZOLE DELAYED-RELEASE CAPSULES?
+Active ingredient in omeprazole delayed-release capsules: omeprazole
 
-Active ingredient in OMEPRAZOLE DELAYED-RELEASE CAPSULES: omeprazole
-
-Inactive ingredients in OMEPRAZOLE DELAYED-RELEASE CAPSULES
-
-magnesium hydroxide, mannitol, methacrylic acid copolymer dispersion, povidone and triethyl citrate.
+Inactive ingredients in omeprazole delayed-release capsules: magnesium hydroxide, mannitol, methacrylic acid copolymer dispersion, povidone and triethyl citrate.
 The capsule shells have the following inactive ingredients: gelatin, red iron oxide and titanium dioxide.
 The capsule imprinting ink contains ammonium hydroxide, black iron oxide, ethyl alcohol, isopropyl alcohol, n-butyl alcohol, potassium hydroxide, propylene glycol and shellac.
 
@@ -224,4 +225,4 @@ Toronto, Ontario Weston, Florida
 
 Canada M9L 1T9 USA 33326
 
-December 2012
+June 2013

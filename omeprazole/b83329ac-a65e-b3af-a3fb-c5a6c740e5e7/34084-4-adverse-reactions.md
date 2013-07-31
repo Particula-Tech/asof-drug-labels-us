@@ -66,4 +66,4 @@ Ocular: Optic atrophy, anterior ischemic optic neuropathy, optic neuritis, dry e
 
 Urogenital: Interstitial nephritis, hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain
 
-Hematologic: Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leucocytosis.
+Hematologic: Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leucocytosis

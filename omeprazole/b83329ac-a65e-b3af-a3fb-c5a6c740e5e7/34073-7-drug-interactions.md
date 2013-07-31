@@ -51,7 +51,7 @@ When voriconazole (400 mg Q12h x 1 day, then 200 mg x 6 days) was given with ome
 
 Omeprazole acts as an inhibitor of CYP 2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-­over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
-Cmax and AUC of one of its active metabolites, 3,4­dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
+Cmax and AUC of one of its active metabolites, 3,4-­dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
 Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
 Therefore a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
 
@@ -71,7 +71,7 @@ There are no adequate combination studies of a lower dose of omeprazole or a hig
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
 
-## 7.5 Interactions With Investigations of Neuroendocrine Tumors
+## 7.5 Interactions with Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.8) and Clinical Pharmacology (12)].
 

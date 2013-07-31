@@ -60,7 +60,7 @@ The combination of omeprazole plus clarithromycin plus amoxicillin was effective
 
 | Table 5 |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Per-Protocol and Intent-to-Treat H. pyloriEradication Rates % of Patients Cured [95% Confidence Interval] |  |  |  |  |
+| Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval] |  |  |  |  |
 |  | Omeprazole + Clarithromycin + Amoxicillin |  | Clarithromycin + Amoxicillin |  |
 |  | Per-Protocol † | Intent-to-Treat ‡ | Per-Protocol † | Intent-to-Treat ‡ |
 | Study 1 | *77 [64, 86] (n = 64) | *69 [57, 79] (n = 80) | 43 [31, 56] (n = 67) | 37 [27, 48] (n = 84) |
@@ -84,7 +84,7 @@ Studies 4 and 5 were conducted in the U.S. and Canada and enrolled 242 and 256 p
 H. pylori infection and duodenal ulcer were confirmed in 219 patients in Study 4 and 228 patients in Study 5.
 These studies compared the combination regimen to omeprazole and clarithromycin monotherapies.
 Studies 6 and 7 were conducted in Europe and enrolled 154 and 215 patients, respectively.
-H. pylori infection and duodenal ulcer were confirmed in 148 patients in study 6 and 208 patients in Study 7.
+H. pylori infection and duodenal ulcer were confirmed in 148 patients in Study 6 and 208 patients in Study 7.
 These studies compared the combination regimen with omeprazole monotherapy.
 The results for the efficacy analyses for these studies are described below.
 H. pylori eradication was defined as no positive test (culture or histology) at 4 weeks following the end of treatment, and two negative tests were required to be considered eradicated of H. pylori.
@@ -92,9 +92,8 @@ In the per-protocol analysis, the following patients were excluded: dropouts, pa
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori.
 
-| Table 6 |  |  |  |  |
+| Table 6 H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval] |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval] |  |  |  |  |
 |  |  | Omeprazole + Clarithromycin | Omeprazole | Clarithromycin |
 | U.S. Studies |  |  |  |  |
 |  | Study 4 | 74 [60, 85] †‡(n = 53) | 0 [0, 7](n = 54) | 31 [18, 47](n = 42) |
@@ -106,14 +105,13 @@ The combination of omeprazole and clarithromycin was effective in eradicating H.
 
 Ulcer healing was not significantly different when clarithromycin was added to omeprazoletherapy compared with omeprazole therapy alone.
 
-The combination of omeprazole and clarithromycin was effective in eradicating H. pylori andreduced duodenal ulcer recurrence.
+The combination of omeprazole and clarithromycin was effective in eradicating H. pylori and reduced duodenal ulcer recurrence.
 
 Table 7
 
-Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence
-
-|  | H. pylori eradicated # | H. pylori not eradicated # |
+| Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence |  |  |
 | --- | --- | --- |
+|  | H. pylori eradicated # | H. pylori not eradicated # |
 | U.S. Studies6 months post-treatment † |  |  |
 | Study 4 | *35(n=49) | 60 (n=88) |
 | Study 5 | *8 (n=53) | 60 (n=106) |
@@ -170,7 +168,7 @@ Symptomatic GERD
 A placebo-controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without erosive esophagitis.
 Results are shown below.
 
-% Successful Symptomatic Outcome
+% Successful Symptomatic Outcomea
 
 |  | Omeprazole 20 mg a.m. | Omeprazole 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
@@ -206,10 +204,9 @@ Long Term Maintenance Of Healing of Erosive Esophagitis
 In a U.S. double-blind, randomized, multicenter, placebo controlled study, two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis.
 Results to determine maintenance of healing of erosive esophagitis are shown below.
 
-Life Table Analysis
-
-|  | Omeprazole20 mg once daily(n=138) | Omeprazole20 mg 3 days per week(n=137) | Placebo(n=131) |
+| Life Table Analysis |  |  |  |
 | --- | --- | --- | --- |
+|  | Omeprazole20 mg once daily(n=138) | Omeprazole20 mg 3 days per week(n=137) | Placebo(n=131) |
 | Percent in endoscopic remission at 6 months | *70 | 34 | 11 |
 
 * (p < 0.01) Omeprazole 20 mg once daily versus Omeprazole 20 mg 3 consecutive days per week or placebo.
@@ -217,15 +214,13 @@ Life Table Analysis
 In an international multicenter double-blind study, omeprazole 20 mg daily and 10 mg daily were compared with ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis.
 The table below provides the results of this study for maintenance of healing of erosive esophagitis.
 
-Life Table Analysis
-
-|  | Omeprazole20 mg once daily(n=131) | Omeprazole10 mg once daily(n=133) | Ranitidine 150 mg twice daily(n=128) |
+| Life Table Analysis |  |  |  |
 | --- | --- | --- | --- |
+|  | Omeprazole20 mg once daily(n=131) | Omeprazole10 mg once daily(n=133) | Ranitidine 150 mg twice daily(n=128) |
 | Percent in endoscopic remission at 12 months | *77 | ‡58 | 46 |
 
-* (p = 0.01) omeprazole 20 mg once daily. versus omeprazole 10 mg once daily or Ranitidine
-
-‡ (p = 0.03) omeprazole 10 mg once daily. versus ranitidine
+| *(p = 0.01) omeprazole 20 mg once daily versus omeprazole 10 mg once daily or Ranitidine. ‡ (p = 0.03) omeprazole 10 mg once daily versus Ranitidine. |
+| --- |
 
 In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing 20 mg daily of omeprazole was effective, while 10 mg did not demonstrate effectiveness.
 
@@ -234,7 +229,8 @@ In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance
 In open studies of 136 patients with pathological hypersecretory conditions, such as Zollinger-Ellison (ZE) syndrome with or without multiple endocrine adenomas, omeprazole delayed-release capsules significantly inhibited gastric acid secretion and controlled associated symptoms of diarrhea, anorexia, and pain.
 Doses ranging from 20 mg every other day to 360 mg per day maintained basal acid secretion below 10 mEq/hr in patients without prior gastric surgery, and below 5 mEq/hr in patients with prior gastric surgery.
 
-Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [See Dosage and Administration (2)] omeprazole was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
+Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [See Dosage and Administration (2)].
+Omeprazole was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
 In most ZE patients, serum gastrin levels were not modified by omeprazole.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.
 At least 11 patients with ZE syndrome on long-term treatment with omeprazole developed gastric carcinoids.
@@ -245,8 +241,8 @@ These findings are believed to be a manifestation of the underlying condition, w
 
 Symptomatic GERD
 
-The effectiveness of omeprazole for the treatment of nonerosive GERD in pediatric patients 2 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled Phase III study.
-[See Use in Specific Populations (8.4).]
+The effectiveness of omeprazole for the treatment of nonerosive GERD in pediatric patients 2 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled Phase III studies.
+[See Use in Specific Populations (8.4)]
 
 The study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of nonerosive GERD.
 Patients were administered a single dose of omeprazole (10 mg or 20 mg, based on body weight) for 4 weeks either as an intact capsule or as an open capsule in applesauce.

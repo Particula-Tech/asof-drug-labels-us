@@ -22,10 +22,9 @@ The “max” value represents determinations at a time of maximum effect (2 to 
 
 Table 1
 
-Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of Omeprazole After Multiple Daily Dosing
-
 | Parameter | Max | Min | Max | Min |
 | --- | --- | --- | --- | --- |
+| Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of Omeprazole After Multiple Daily Dosing |  |  |  |  |
 |  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
 | % Decrease in Basal Acid Output | 78* | 58 to 80 | 94* | 80 to 93 |
 | % Decrease in Peak Acid Output | 79* | 50 to 59 | 88* | 62 to 68 |
@@ -121,10 +120,9 @@ Clarithromycin concentrations in the gastric tissue and mucus were also increase
 
 Table 2
 
-Clarithromycin Tissue Concentrations 2 hours after Dose1
-
 | Tissue | Clarithromycin | Clarithromycin + Omeprazole |
 | --- | --- | --- |
+| Clarithromycin Tissue Concentrations 2 hours after Dose1 |  |  |
 | Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n=5) |
 | Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n= 5) |
 | Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n=4) |
@@ -136,7 +134,7 @@ Concomitant Use with Clopidogrel
 In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as clopidogrel) for 5 days.
 The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when clopidogrel and omeprazole were administered together.
 
-Results from another crossover study in healthy subjects showed a similar pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and omeprazole 80 mg daily when coadministered for 30 days.
+Results from another crossover study in healthy subjects showed a similar pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and omeprazole 80 mg daily when co-administered for 30 days.
 Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
 
 In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
@@ -152,14 +150,13 @@ The plasma clearance of omeprazole was 250 mL/min (about half that of young volu
 
 Pediatric Use
 
-The pharmacokinetics of omeprazole has been investigated in pediatric patients 2 to 16 years of age:
+The pharmacokinetics of omeprazole have been investigated in pediatric patients 2 to 16 years of age:
 
 Table 3
 
-Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
-
 | Single or Repeated Oral Dosing/ Parameter | Children† ≤ 20 kg 2 to 5 years 10 mg | Children† > 20 kg 6 to 16 years 20 mg | Adults‡ (mean 76 kg) 23 to 29 years (n=12) |
 | --- | --- | --- | --- |
+| Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults |  |  |  |
 | Single Dosing |  |  |  |
 | Cmax *(ng/mL)AUC(ng h/mL) | 288 (n=10) 511 (n=7) | 495(n=49) 1140 (n=32) | 668 |
 | 1220 |  |  |  |
@@ -211,10 +208,9 @@ One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory conce
 
 Table 4
 
-Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
-
 | Clarithromycin Pretreatment Results |  |  | Clarithromycin Post-treatment Results |  |  |
 | --- | --- | --- | --- | --- | --- |
+| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes |  |  |  |  |  |
 | Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes a |  |  |  |  |  |
 |  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
 |  | S b | I b | R b | No MIC |  |

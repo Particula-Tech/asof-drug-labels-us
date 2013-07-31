@@ -15,7 +15,7 @@ This diagnosis should be considered for diarrhea that does not improve [see Adve
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
-Clostridium diffficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
 For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with omeprazole, refer to WARNINGS and PRECAUTIONS sections of those package inserts.
 
 ## 5.4 Interaction with Clopidogrel
@@ -47,7 +47,8 @@ For patients expected to be on prolonged treatment or who take PPIs with medicat
 ## 5.7 Concomitant Use of Omeprazole with St John’s Wort or Rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations.
-[See Drug Interactions (7.3)] Avoid concomitant use of omeprazole with St John’s Wort or rifampin.
+[See Drug Interactions (7.3)].
+Avoid concomitant use of omeprazole with St John’s Wort or rifampin.
 
 ## 5.8 Interactions with Diagnostic Investigations for Neuroendocrine Tumors
 

@@ -33,13 +33,13 @@ The efficacy of omeprazole delayed-release capsules, USP used for longer than 8 
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
 If there is recurrence of erosive esophagitis or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of omeprazole may be considered.
 
-## 1.4 Maintenance of Healing of Erosive Esophagitis (adults and pediatric patients)
+## 1.4 Maintenance of Healing of Erosive Esophagitis (adults)
 
 Omeprazole delayed-release capsules, USP are indicated to maintain healing of erosive esophagitis in pediatric patients and adults.
 
 Controlled studies do not extend beyond 12 months.
 [See Clinical Studies (14.4)]
 
-## 1.5 Pathological Hypersecretory Conditions (adults)
+## 1.5 Pathological Hypersecretory Conditions
 
 Omeprazole delayed-release capsules, USP are indicated for the long-term treatment of pathological hypersecretory conditions (e.g., Zollinger-Ellison syndrome, multiple endocrine adenomas and systemic mastocytosis) in adults.
