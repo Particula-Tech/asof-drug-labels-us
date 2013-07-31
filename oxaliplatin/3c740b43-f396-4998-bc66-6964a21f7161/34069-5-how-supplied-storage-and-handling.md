@@ -13,9 +13,7 @@ NDC 0024-0592-40: 200 mg single-use vial with orange flip-off seal individually 
 
 ## 16.2 Storage
 
-Powder for solution for infusion: Store under normal lighting conditions at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP controlled room temperature].
-
-Concentrate for solution for infusion: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 Do not freeze and protect from light (keep in original outer carton).
 
 ## 16.3 Handling and Disposal

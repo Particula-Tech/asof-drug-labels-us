@@ -437,9 +437,11 @@ Body as a whole: angioedema, anaphylactic shock
 
 Central and peripheral nervous system disorders: loss of deep tendon reflexes, dysarthria, Lhermitte's sign, cranial nerve palsies, fasciculations, convulsion, Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES).
 
-Liver and Gastrointestinal system disorders: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis; ileus; intestinal obstruction, pancreatitis; veno-occlusive disease of liver also known as sinusoidal obstruction syndrome, and perisinusoidal fibrosis which rarely may progress.
-
 Hearing and vestibular system disorders: deafness
+
+Infusion reactions/hypersensitivity: laryngospasm
+
+Liver and Gastrointestinal system disorders: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis; ileus; intestinal obstruction, pancreatitis; veno-occlusive disease of liver also known as sinusoidal obstruction syndrome, and perisinusoidal fibrosis which rarely may progress.
 
 Platelet, bleeding, and clotting disorders: immuno-allergic thrombocytopenia prolongation of prothrombin time and of INR in patients receiving anticoagulants
 
