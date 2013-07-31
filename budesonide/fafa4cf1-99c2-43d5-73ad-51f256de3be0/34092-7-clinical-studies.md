@@ -27,12 +27,12 @@ Table 3 The numberof percentage of patients withdrawing due to or meeting predef
 |  | SYMBICORT 160/4.5 mcgn=124 | Budesonide160 mcg plus Formoterol4.5 mcgn=115 | Budesonide160 mcgn=109 | Formoterol4.5 mcgn=123 | Placebon=125 |
 | --- | --- | --- | --- | --- | --- |
 | Patients withdrawn due to predefined asthma eventThese criteria were assessed on a daily basis irrespective of the timing of the clinic visit, with the exception of FEV1, which was assessed at each clinic visit. | 13 (10.5) | 13 (11.3) | 22 (20.2) | 44 (35.8) | 62 (49.6) |
-| Patients with a predefined asthma eventIndividual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status. | 37 (29.8) | 24 (20.9) | 48 (44.0) | 68 (55.3) | 84 (67.2) |
+| Patients with a predefined asthma event,Individual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status. | 37 (29.8) | 24 (20.9) | 48 (44.0) | 68 (55.3) | 84 (67.2) |
 | Decrease in FEV1 | 4 (3.2) | 8 (7.0) | 7 (6.4) | 15 (12.2) | 14 (11.2) |
 | Rescue medication use | 2 (1.6) | 0 | 3 (2.8) | 3 (2.4) | 7 (5.6) |
 | Decrease in AM PEF | 2 (1.6) | 5 (4.3) | 5 (4.6) | 17 (13.8) | 15 (12.0) |
 | Nighttime awakeningsFor the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other criteria were met. | 24 (19.4) | 11 (9.6) | 29 (26.6) | 32 (26.0) | 49 (39.2) |
-| Clinical exacerbation | 7 (5.6) | 6 (5.2) | 5 (4.6) | 17 (3.8) | 16 (12.8) |
+| Clinical exacerbation | 7 (5.6) | 6 (5.2) | 5 (4.6) | 17 (13.8) | 16 (12.8) |
 
 Mean percent change from baseline in FEV1 measured immediately prior to dosing (predose) over 12 weeks is displayed in Figure 1.
 Because this study used predefined withdrawal criteria for worsening asthma, which caused a differential withdrawal rate in the treatment groups, predose FEV1 results at the last available study visit (end of treatment, EOT) are also provided.
@@ -75,7 +75,7 @@ Table 5 The number and percentage of patients withdrawing due to or meeting pred
 |  | SYMBICORT80/4.5 mcg(n=123) | Budesonide80 mcg(n=121) | Formoterol4.5 mcg(n=114) | Placebo(n=122) |
 | --- | --- | --- | --- | --- |
 | Patients withdrawn due to predefined asthma eventThese criteria were assessed on a daily basis irrespective of the timing of the clinic visit, with the exception of FEV1, which was assessed at each clinic visit. | 9 (7.3) | 8 (6.6) | 21 (18.4) | 40 (32.8) |
-| Patients with a predefined asthma eventIndividual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status. | 23 (18.7) | 26 (21.5) | 48 (42.1) | 69 (56.6) |
+| Patients with a predefined asthma event,Individual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status. | 23 (18.7) | 26 (21.5) | 48 (42.1) | 69 (56.6) |
 | Decrease in FEV1 | 3 (2.4) | 3 (2.5) | 11 (9.6) | 9 (7.4) |
 | Rescue medication use | 1 (0.8) | 3 (2.5) | 1 (0.9) | 3 (2.5) |
 | Decrease in AM PEF | 3 (2.4) | 1 (0.8) | 8 (7.0) | 14 (11.5) |

@@ -270,7 +270,7 @@ Preparing your inhaler for use
 3. 3.Use the SYMBICORT canister only with the red SYMBICORT inhaler supplied with the product.
    Parts of the SYMBICORT inhaler should not be used with parts from any other inhalation product.
 4. 4.Shake your SYMBICORT inhaler well for 5 seconds right before each use.
-   Remove the mouthpiece cover.
+   Remove the mouthpiece cover by squeezing gently at both sides, then pulling out (see Figure 2).
    Check the mouthpiece for foreign objects before use.
 5. 5.Priming Before you use SYMBICORT for the first time, you will need to prime it.
    To prime SYMBICORT, hold it in the upright position.
@@ -295,10 +295,10 @@ Using your SYMBICORT inhaler
 2. 7.Breathe out fully (exhale).
    Hold the SYMBICORT inhaler up to your mouth.
    Place the white mouthpiece fully into your mouth and close your lips around it.
-   Make sure that the SYMBICORT inhaler is upright and that the opening of the mouthpiece is pointing towards the back of your throat (see Figure 4).
+   Make sure that the SYMBICORT inhaler is upright and that the opening of the mouthpiece is pointing towards the back of your throat (see Figure 5).
 
 1. 8.Breathe in (inhale) deeply and slowly through your mouth.
-   Press down firmly and fully on the top of the counter on the SYMBICORT inhaler to release the medicine (see Figures 2 and 3).
+   Press down firmly and fully on the top of the counter on the SYMBICORT inhaler to release the medicine (see Figures 3 and 4).
 2. 9.Continue to breathe in (inhale) and hold your breath for about 10 seconds, or for as long as is comfortable.
    Before you breathe out (exhale), release your finger from the top of the counter.
    Keep the SYMBICORT inhaler upright and remove from your mouth.
@@ -306,7 +306,7 @@ Using your SYMBICORT inhaler
 
 After using your SYMBICORT inhaler
 
-1. 11.Replace the mouthpiece cover after use.
+1. 11.After use, close the mouthpiece cover by pushing until it clicks in place.
 2. 12.After you finish taking SYMBICORT (two puffs), rinse your mouth with water.
    Spit out the water.
    Do not swallow it.
@@ -338,10 +338,8 @@ To clean the mouthpiece:
 - •Do not put the SYMBICORT inhaler into water
 - •Do not try to take apart your SYMBICORT inhaler
 
-31154–05
-
 Rev.
-06/10
+05/12
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
 
@@ -355,4 +353,4 @@ SYMBICORT and PULMICORT FLEXHALER are trademarks of the AstraZeneca group of com
 ADVAIR DISKUS, ADVAIR HFA, SEREVENT and DISKUS are trademarks of GlaxoSmithKline.
 FORADIL AEROLIZER is a trademark of Novartis Pharmaceuticals Corporation.
 
-©AstraZeneca 2006, 2007, 2009, 2010
+©AstraZeneca 2006, 2007, 2009, 2010, 2012
