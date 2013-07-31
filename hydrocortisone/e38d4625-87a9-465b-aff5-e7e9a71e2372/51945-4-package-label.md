@@ -1,5 +1,7 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Locoid Ointment-15 g Carton
+Locoid Ointment-45g Carton
 
-Locoid Ointment-45 g Carton
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Locoid Ointment-15g Carton
