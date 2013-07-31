@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA204096"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Astellas Pharma US, Inc.",
+  "package_ndcs": [
+    "0469-0647-11",
+    "0469-0647-73",
+    "0469-0677-11",
+    "0469-0677-73",
+    "0469-0687-11",
+    "0469-0687-73"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED, EXTENDED RELEASE",
+      "generic": "tacrolimus extended-release capsules",
+      "name": "ASTAGRAF XL"
+    }
+  ],
+  "setid": "550a5cd4-fbf2-4c09-b577-6bde8fcbdf6e",
+  "source": "dailymed"
+}
