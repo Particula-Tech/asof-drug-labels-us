@@ -6,8 +6,4 @@ Each TESSALON Perle contains:
 
 Benzonatate, USP 100 mg
 
-Each TESSALON Capsule contains:
-
-Benzonatate, USP 200 mg
-
-TESSALON Capsules also contain: D&C Yellow 10, gelatin, glycerin, methylparaben and propylparaben.
+TESSALON Perles (capsules) also contain: D&C Yellow 10, gelatin, glycerin, methylparaben and propylparaben.

@@ -22,8 +22,8 @@ Benzonatate is chemically related to anesthetic agents of the para-amino-benzoic
 
 ## Information for Patients
 
-Swallow TESSALON Capsules and Perles whole.
-Do not break, chew, dissolve, cut, or crush TESSALON Capsules and Perles.
+Swallow TESSALON Perles whole.
+Do not break, chew, dissolve, cut, or crush TESSALON Perles.
 Release of TESSALON from the capsule in the mouth can produce a temporary local anesthesia of the oral mucosa and choking could occur.
 If numbness or tingling of the tongue, mouth, throat, or face occurs, refrain from oral ingestion of food or liquids until the numbness has resolved.
 If the symptoms worsen or persist, seek medical attention.

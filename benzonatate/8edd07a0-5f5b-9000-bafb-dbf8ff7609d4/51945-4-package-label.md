@@ -1,11 +1,17 @@
-# PRODUCT PACKAGING
+# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
 
-TESSALON 100 mg/200 mg (benzonatate, USP) perles/capsules
+NDC 0069-0122-01
 
-See package insert for dosage information
+Pfizer
 
-Dispensing package for professional use only.
+Tessalon® (benzonatate, USP) perles
 
-Dispense in a tight, light-resistant container as defined in the USP.
+100 mg
 
-KEEP TIGHTLY CLOSED
+100 Perles Rx only
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
+
+Image not
+
+available

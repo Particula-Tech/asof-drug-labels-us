@@ -1,14 +1,13 @@
-Rev.
-12/15
-
 Mfd by
 
 Catalent Pharma Solutions
 
 St. Petersburg, Florida 33716
 
-Pfizer Inc.
+Dist. by
+
+Pfizer
 
 Madison, New Jersey 07940
 
-©2010 Pfizer Inc.
+©2013 Pfizer Inc.
