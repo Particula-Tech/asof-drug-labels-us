@@ -41,12 +41,12 @@ A1C is especially useful for evaluating long-term glycemic control.
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
 While megaloblastic anemia has rarely been seen with metformin therapy, if this is suspected, Vitamin B12 deficiency should be excluded.
 
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA OR Patheon Inc., Whitby, Ontario, Canada L1N 5Z5
 
 US Patent Nos.: 6,699,871 and 7,326,708
 
 Copyright © 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 02/2013
-
-USPI-XRT-0431A1302R002
+USPI-XRT-0431A1307R003
