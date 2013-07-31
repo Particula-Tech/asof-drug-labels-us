@@ -82,7 +82,7 @@ One patient (2%) had persistence.
 
 ## References:
 
-1. NCCLS, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically-Sixth Edition.
+1. 1.NCCLS, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically-Sixth Edition.
    Approved Standard NCCLS Document M7-A6, Vol. 23, No. 2, NCCLS, Wayne, PA, January, 2003.
-2. NCCLS, Performance Standards for Antimicrobial Disk Susceptibility Tests-Eighth Edition.
+2. 2.NCCLS, Performance Standards for Antimicrobial Disk Susceptibility Tests-Eighth Edition.
    Approved Standard NCCLS Document M2-A8, Vol. 23, No. 1, NCCLS, Wayne, PA, January, 2003.
