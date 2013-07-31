@@ -39,6 +39,9 @@ The following were recorded in ≥5% of patients at final visit: Decreased album
 
 ## Postmarketing
 
+The following adverse reactions have been identified during postapproval use of LUPRON DEPOT.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 During postmarketing surveillance, which includes other dosage forms and other patient populations, the following adverse events were reported.
 
 Like other drugs in this class, mood swings, including depression, have been reported.
@@ -63,15 +66,17 @@ Localized reactions including induration and abscess have been reported at the s
 
 Symptoms consistent with fibromyalgia (eg, joint and muscle pain, headaches, sleep disorders, gastrointestinal distress, and shortness of breath) have been reported individually and collectively.
 
-Endocrine System – Diabetes;
-
-Central/Peripheral Nervous System – Convulsion, Peripheral neuropathy, Spinal fracture/paralysis;
-
 Cardiovascular System – Hypotension, Myocardial infarction, Pulmonary embolism;
 
 Respiratory, thoracic and mediastinal disorder – Interstitial lung disease;
 
+Hepato-biliary disorder: Serious drug-induced liver injury
+
 Hemic and Lymphatic System – Decreased WBC;
+
+Central/Peripheral Nervous System – Convulsion, Peripheral neuropathy, Spinal fracture/paralysis;
+
+Endocrine System – Diabetes;
 
 Musculoskeletal System – Tenosynovitis-like symptoms;
 

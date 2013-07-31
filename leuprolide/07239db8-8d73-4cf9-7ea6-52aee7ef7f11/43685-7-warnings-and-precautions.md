@@ -39,6 +39,13 @@ Patients receiving a GnRH agonist should be monitored for symptoms and signs sug
 Long-term androgen deprivation therapy prolongs the QT interval.
 Physicians should consider whether the benefits of androgen deprivation therapy outweigh the potential risks in patients with congenital long QT syndrome, electrolyte abnormalities, or congestive heart failure and in patients taking class IA (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications.
 
+## Convulsions
+
+Postmarketing reports of convulsions have been observed in patients on leuprolide acetate therapy.
+These included patients with a history of seizures, epilepsy, cerebrovascular disorders, central nervous system anomalies or tumors, and in patients on concomitant medications that have been associated with convulsions such as bupropion and SSRIs.
+Convulsions have also been reported in patients in the absence of any of the conditions mentioned above.
+Patients receiving a GnRH agonist who experience convulsions should be managed according to current clinical practice.
+
 ## Laboratory Tests
 
 Response to LUPRON DEPOT 7.5 mg for 1-month administration should be monitored by measuring serum levels of testosterone.

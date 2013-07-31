@@ -4,14 +4,14 @@
     "part333A"
   ],
   "inn": "leuprolide",
-  "labeler": "Abbott Laboratories",
+  "labeler": "AbbVie Inc.",
   "package_ndcs": [
     "0074-3642-03"
   ],
   "products": [
     {
       "form": "KIT",
-      "generic": "leuprorelin acetate",
+      "generic": "leuprolide acetate",
       "name": "Lupron Depot"
     }
   ],
