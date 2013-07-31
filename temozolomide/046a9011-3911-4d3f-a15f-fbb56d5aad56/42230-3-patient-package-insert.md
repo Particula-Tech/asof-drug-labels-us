@@ -229,19 +229,3 @@ TEMODAR for Injection:
 Active ingredient: temozolomide.
 
 Inactive ingredients: mannitol, L-threonine, polysorbate 80, sodium citrate dihydrate, and hydrochloric acid.
-
-TEMODAR Capsules Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-TEMODAR for Injection Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Baxter Oncology GmbH, Halle 33790, Germany
-
-TEMODAR Capsules: U.S. Patent No. 5,260,291 TEMODAR for Injection: U.S. Patent Nos. 5,260,291; 6,987,108; 7,786,118
-
-The trademarks depicted herein are owned by their respective companies.
-
-Copyright © 1999, 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
-
-Revised: 01/2013
-
-052365-TMD-MTL-PPI.6

@@ -4,13 +4,29 @@ TEMODAR for Injection Manufactured by: Merck Sharp & Dohme Corp., a subsidiary o
 
 Manufactured by: Baxter Oncology GmbH, Halle 33790, Germany
 
-TEMODAR Capsules: U.S. Patent No. 5,260,291 TEMODAR for Injection: U.S. Patent Nos. 5,260,291; 6,987,108; 7,786,118
+For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 1999, 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 01/2013
+Revised: 06/2013
 
-052365-TMD-MTL-USPI.14
+uspi-mk7365-mtl-1306r015
+
+TEMODAR Capsules Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+TEMODAR for Injection Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: Baxter Oncology GmbH, Halle 33790, Germany
+
+For patent information: www.merck.com/product/patent/home.html
+
+The trademarks depicted herein are owned by their respective companies.
+
+Copyright © 1999, 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+Revised: 06/2013
+
+ppi-mk7365-mtl-1306r007
 
 TEMODAR® (temozolomide) for Injection
 
@@ -149,13 +165,13 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 
 Manufactured by: Baxter Oncology GmbH, Halle 33790, Germany
 
-U.S. Patent Nos. 5,260,291; 6,987,108; and 7,786,118
+For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 01/2013
+Revised: 06/2013
 
-052365-TMD-PWi-PhI.12
+phi-mk7365-pwi-1306r013
 
 TEMODAR® (temozolomide) Capsules
 
@@ -340,10 +356,10 @@ TEMODAR Capsules
 
 Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-U.S. Patent No. 5,260,291
+For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 01/2013
+Revised: 06/2013
 
-052365-TMD-CP-PhI.8
+phi-mk7365-cp-1306r009
