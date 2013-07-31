@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021166"
+  ],
+  "inn": "estradiol",
+  "labeler": "ASCEND Therapeutics, Inc.",
+  "package_ndcs": [
+    "17139-613-50"
+  ],
+  "products": [
+    {
+      "form": "GEL, METERED",
+      "generic": "estradiol",
+      "name": "EstroGel"
+    }
+  ],
+  "setid": "87bb0e2f-9fa6-438b-9d5f-d0a90af770ed",
+  "source": "dailymed"
+}
