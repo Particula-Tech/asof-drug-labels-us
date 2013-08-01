@@ -20,7 +20,7 @@ The yellowing is caused by the direct deposition of tetracycline during the mine
 The discoloration is more common during long-term use of the drug but has also been observed following repeated short-term courses.
 All tetracyclines form a stable calcium complex in any bone forming tissue.
 A decrease in fibula growth rate was observed in premature infants given oral tetracycline in doses of 25 mg/kg every six hours.
-The effect resolved when the drug was discontinuted.
+This effect resolved when the drug was discontinued.
 One long-term follow-up study in children exposed to tetracycline in-utero showed no adverse effects on bone growth and development.
 
 Tetracycline administered during pregnancy at high doses (> 2 g IV) was associated with rare but serious cases of maternal hepatotoxicity.

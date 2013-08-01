@@ -13,7 +13,7 @@ Psychotic reactions have been reported in alcoholic patients who are using metro
 ## 4.3 Alcohol
 
 Alcoholic beverages or other products containing propylene glycol should not be consumed during and for at least 3 days after therapy with PYLERA.
-A disulfiram-like reaction (abdomincal cramps, nausea, vomiting, headaches, and flushing) may occur due to the interaction between alcohol or propylene glycol and metronidazole, a component of PYLERA [See Drug Interactions (7.3].
+A disulfiram-like reaction (abdominal cramps, nausea, vomiting, headaches, and flushing) may occur due to the interaction between alcohol or propylene glycol and metronidazole, a component of PYLERA [See Drug Interactions (7.3].
 
 ## 4.4 Renal Impairment
 

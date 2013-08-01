@@ -29,7 +29,7 @@ Table 2: Adverse reactions with an incidence of ≥ 1% from North American trial
 | Constipation | 2 (1.4%) | 5 (3.3%) |
 | Dry Mouth | 2 (1.4%) | 1 (0.7%) |
 | Flatulence | 0 | 4 (2.6%) |
-| Glossitis | 0 | 2 (1.3%) |
+| Glositis | 0 | 2 (1.3%) |
 | General disorders and administration site conditions |  |  |
 | Asthenia | 5 (3.4%) | 2 (1.3%) |
 | Infections and infestations |  |  |
@@ -91,4 +91,6 @@ Tinnitus and myasthenic syndrome have been reported rarely.
 
 Renal and urinary disorders: Rise in BUN has been reported and is possibly dose related [See Contraindications (4.4)].
 
-Skin and subcutaneous tissue disorders: Exfoliative dermatitis and photosensitivity have been rarely reported [See Warnings and Precautions (5.5)].
+Skin and subcutaneous tissue disorders: ﻿Maculopapular and erythematous rashes have been reported.
+Steven-Johnson syndrome, toxic epidermal necrolysis, and erythema multiforme have been reported.
+Exfoliative dermatitis and photosensitivity have been rarely reported [See Warnings and Precautions (5.5)].

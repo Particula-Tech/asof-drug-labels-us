@@ -16,7 +16,7 @@ This syndrome may result in stillborn or premature birth due to maternal patholo
 ## 5.3 Tooth Enamel Discoloration and Hypoplasia
 
 The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy, and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray brown).
-This adverse reaction is more commom during long-term use of the drug, but has been observed following repeated short-courses.
+This adverse reaction is more common during long-term use of the drug, but has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
 PYLERA, therefore, should not be used in this age group unless other drugs are not likely to be effective or are contraindicated [See Use in Specific Populations (8.4)].
 
@@ -30,7 +30,7 @@ CNS lesions seen on MRI have also been described as reversible; Peripheral neuro
 Convulsive seizures have been reported in patients treated with metronidazole.
 
 Aseptic meningitis: Cases of aseptic meningitis have been reported with metronidazole.
-Symptoms can occur within hours of dose adiminstration and generally resolve after metronidazole therapy is discontinued.
+Symptoms can occur within hours of dose administration and generally resolve after metronidazole therapy is discontinued.
 
 Tetracycline: Cases of pseudotumor cerebri in adults have been associated with the use of tetracycline.
 The usual clinical manifestations are headache and blurred vision.
@@ -62,7 +62,7 @@ Stool darkening should not be confused with melena.
 
 ## 5.8 Use in Patients with Blood Dyscrasias
 
-Metronidazole is a nitroimidazole, and should be used with care in patients with evidence or history of blood dyscrasia.
+Metronidazole is a nitroimidazole, and should be used with care in patients with evidence of or history of blood dyscrasia.
 A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
 Total and differential leukocyte counts are recommended before and after therapy [See Adverse Reactions (6.3)].
 

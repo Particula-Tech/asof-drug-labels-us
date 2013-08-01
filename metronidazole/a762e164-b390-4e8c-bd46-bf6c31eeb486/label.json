@@ -3,10 +3,11 @@
     "NDA050786"
   ],
   "inn": "metronidazole",
-  "labeler": "Axcan Pharma US, Inc.",
+  "labeler": "Aptalis Pharma US, Inc.",
   "package_ndcs": [
     "58914-600-21",
-    "58914-600-24"
+    "58914-601-20",
+    "58914-601-21"
   ],
   "products": [
     {

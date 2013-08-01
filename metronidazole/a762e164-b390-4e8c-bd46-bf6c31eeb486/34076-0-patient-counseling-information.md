@@ -3,7 +3,7 @@
 ## 17.1 Pregnant Women
 
 Advise pregnant women that PYLERA capsules can cause fetal harm due to the tetracycline it contains.
-Tetracycline use during the second and third trimesters of pregnancy can cause permanent discoloraton of the teeth (yellow-gray brown) and may inhibit bone development [See Warnings and Precautions (5.1)] and [See Use in Specific Populations (8.3)].
+Tetracycline use during the second and third trimesters of pregnancy can cause permanent discoloration of the teeth (yellow-gray brown) and may inhibit bone development [See Warnings and Precautions (5.1)] and [Use in Specific Populations (8.3)].
 
 ## 17.2 Human Milk Feeding
 
@@ -61,3 +61,19 @@ Patients should be counseled that antibacterial drugs including PYLERA should on
 They do not treat viral infections (e.g., the common cold).
 When PYLERA is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by PYLERA or other antibacterial drugs in the future.
+
+Manufactured for:
+
+Aptalis Pharma US, Inc.
+
+200 Somerset Corporate Boulevard
+
+Bridgewater, NJ 08807 USA
+
+www.aptalispharma.com
+
+PYLERA is a registered trademark of Aptalis Pharma Canada Inc.
+
+U.S. Patent No. 6,350,468
+
+©2013 Aptalis Pharma US, Inc.
