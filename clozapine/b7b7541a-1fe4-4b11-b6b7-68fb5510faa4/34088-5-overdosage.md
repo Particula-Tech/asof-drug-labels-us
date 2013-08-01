@@ -1,25 +1,19 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Human Experience
+## 10.1 Overdosage Experience
 
-The most commonly reported signs and symptoms associated with clozapine overdose are: altered states of consciousness, including drowsiness, delirium, and coma; tachycardia; hypotension; respiratory depression or failure; and hypersalivation.
-Aspiration pneumonia and cardiac arrhythmias have also been reported.
-Seizures have occurred in a minority of reported cases.
+The most commonly reported signs and symptoms associated with FAZACLO overdose are: sedation, delirium, coma, tachycardia, hypotension, respiratory depression or failure; and hypersalivation.
+There are reports of aspiration pneumonia, cardiac arrhythmias, and seizure.
 Fatal overdoses have been reported with clozapine, generally at doses above 2500 mg.
 There have also been reports of patients recovering from overdoses well in excess of 4 g.
 
-## Management of Overdose
+## 10.2 Management of Overdosage
 
-Establish and maintain an airway; ensure adequate oxygenation and ventilation.
-Activated charcoal, which may be used with sorbitol, may be as or more effective than emesis or lavage and should be considered in treating overdosage.
-Cardiac and vital signs monitoring are recommended along with general symptomatic and supportive measures.
-Additional surveillance should be continued for several days because of the risk of delayed effects.
-Avoid epinephrine and derivatives when treating hypotension and quinidine and procainamide when treating cardiac arrhythmia.
-
-There are no specific antidotes for FazaClo® (clozapine, USP).
-Forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
-
-In managing overdosage, the physician should consider the possibility of multiple-drug involvement.
-
-Up-to-date information about the treatment of overdose can often be obtained from a certified Regional Poison Control Center.
+For the most up-to-date information on the management of FAZACLO overdosage, contact a certified Regional Poison Control Center (1-800-222-1222).
 Telephone numbers of certified Regional Poison Control Centers are listed in the Physicians’ Desk Reference®, a registered trademark of Thomson PDR.
+Establish and maintain an airway; ensure adequate oxygenation and ventilation.
+Monitor cardiac status and vital signs.
+Use general symptomatic and supportive measures.
+There are no specific antidotes for FAZACLO.
+
+In managing overdosage, consider the possibility of multiple-drug involvement.

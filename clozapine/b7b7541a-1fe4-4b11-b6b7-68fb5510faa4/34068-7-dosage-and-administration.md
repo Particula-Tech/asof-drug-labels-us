@@ -1,85 +1,63 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Treatment-Resistant Schizophrenia
+## 2.1 Required Laboratory Testing Prior to Initiation and During Therapy
 
-### Administration
+Prior to initiating treatment with FAZACLO, obtain a complete blood count (CBC) with differential.
+The absolute neutrophil count (ANC) must be greater than or equal to 2000/mm3 and the WBC must be greater than or equal to 3500/mm3 in order to initiate treatment.
+To continue treatment, the ANC and WBC must be monitored regularly [see Warnings and Precautions (5.1)].
 
-FazaClo® (clozapine, USP) rapidly disintegrates after placement in the mouth.
-The tablets may be chewed if desired.
-The FazaClo® (clozapine, USP) Orally Disintegrating Tablet dispensed in a blister should be left in the unopened blister until time of use.
-The orally disintegrating tablet should not be pushed through the blister foil.
+## 2.2 Important Administration Instructions
+
+FAZACLO orally disintegrating tablets should be immediately placed in the mouth after removing the tablet from the blister pack or bottle.
+The tablet disintegrates rapidly after placement in the mouth.
+The tablets can be allowed to disintegrate, or they may be chewed.
+They may be swallowed with saliva.
+No water is necessary for administration.
+
+The orally disintegrating tablets in a blister pack should be left in the unopened blister until the time of use.
 Just prior to use, peel the foil from the blister and gently remove the orally disintegrating tablet.
-After removing the tablet from either the blister or the bottle, immediately place the tablet in the mouth and allow to disintegrate and swallow with saliva, or chew as desired.
-No water is needed to take FazaClo® (clozapine, USP).
+Do not push the tablets through the foil, because this could damage the tablet.
 
-Upon initiation of FazaClo® (clozapine, USP) therapy, up to a 1-week supply of additional FazaClo® (clozapine, USP) orally disintegrating tablets may be provided to the patient to be held for emergencies (e.g., weather, holidays).
+## 2.3 Dosing Information
 
-### Initial Treatment
+The starting dose is 12.5 mg once daily or twice daily.
+The total daily dose can be increased in increments of 25 mg to 50 mg per day, if well-tolerated, to achieve a target dose of 300 mg to 450 mg per day (administered in divided doses) by the end of 2 weeks.
+Subsequently, the dose can be increased once weekly or twice weekly, in increments of up to 100 mg.
+The maximum dose is 900 mg per day.
+To minimize the risk of orthostatic hypotension, bradycardia, and syncope, it is necessary to use this low starting dose, gradual titration schedule, and divided dosages [see Warnings and Precautions (5.3)].
 
-It is recommended that treatment with FazaClo® (clozapine, USP) begin with a 12.5 mg dose once or twice daily.
-The dosing should be continued with daily dosage increments of 25-50 mg/day, if well-tolerated, to achieve a target dose of 300-450 mg/day by the end of 2 weeks.
-Subsequent dosage increments should be made no more than once or twice weekly, in increments not to exceed 100 mg.
-Cautious titration and a divided dosage schedule are necessary to minimize the risks of hypotension, seizure, and sedation.
+FAZACLO can be taken with or without food [see Pharmacokinetics (12.3)].
 
-In the multicenter study that provides primary support for the effectiveness of clozapine in patients resistant to standard drug treatment for schizophrenia, patients’ doses were titrated during the first 2 weeks up to a maximum dose of 500 mg/day on a t.i.d. basis.
-Subsequent dosage increments were then dosed in a total daily dose range of 100-900 mg/day on a t.i.d. basis, with clinical response and adverse effects as guides to correct dosing.
+## 2.4 Maintenance Treatment
 
-### Therapeutic Dose Adjustment
+Generally, it is recommended that patients responding to FAZACLO continue maintenance treatment on their effective dose beyond the acute episode.
 
-Daily dosing should continue on a divided basis as an effective and tolerable dose level is sought.
-While many patients may respond adequately at doses between 300-600 mg/day, it may be necessary to raise the dose to the 600-900 mg/day range to obtain an acceptable response.
-(Note: In the multicenter study providing the primary support for the superiority of clozapine in treatment-resistant patients, the mean and median clozapine doses were both approximately 600 mg/day.)
+## 2.5 Discontinuation of Treatment
 
-Because of the possibility of increased adverse reactions at higher doses, particularly seizures, patients should ordinarily be given adequate time to respond to a given dose level before escalation to a higher dose is contemplated.
-Clozapine can cause EEG changes, including the occurrence of spike and wave complexes.
-It lowers the seizures threshold in a dose-dependent manner and may induce myoclonic jerks or generalized seizures.
-These symptoms may be likely to occur with rapid-dose increase and in patients with preexisting epilepsy.
-In this case, the dose should be reduced and, if necessary, anticonvulsant treatment initiated.
+In the event of planned termination of FAZACLO therapy, reduce the dose gradually over a period of 1 to 2 weeks.
+If abrupt discontinuation is necessary (because of agranulocytosis or another medical condition, for example), monitor carefully for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as profuse sweating, headache, nausea, vomiting, and diarrhea.
 
-Dosing should not exceed 900 mg/day.
+## 2.6 Re-Initiation of Treatment
 
-Because of the significant risk of agranulocytosis and seizure, events which both present a continuing risk over time, the extended treatment of patients failing to show an acceptable level of clinical response should ordinarily be avoided.
+When restarting FAZACLO in patients who have discontinued FAZACLO (i.e., 2 days or more since the last dose), re-initiate with 12.5 mg once daily or twice daily.
+This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
+If that dose is well tolerated, the dose may be increased to the previously therapeutic dose more quickly than recommended for initial treatment.
 
-### Maintenance Treatment
+## 2.7 Dosage Adjustments with Concomitant Use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
 
-While the maintenance effectiveness of clozapine in schizophrenia is still under study, the effectiveness of maintenance treatment is well established for many other drugs used to treat schizophrenia.
-It is recommended that responding patients be continued on FazaClo® (clozapine, USP), but at the lowest level needed to maintain remission.
-Because of the significant risk associated with the use of FazaClo® (clozapine, USP), patients should be periodically reassessed to determine the need for maintenance treatment.
+Dose adjustments may be necessary in patients with concomitant use of: strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin); moderate or weak CYP1A2 inhibitors (e.g., oral contraceptives, or caffeine); CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline); CYP3A4 inducers (e.g., phenytoin, carbamazepine, St. John’s wort, and rifampin); or CYP1A2 inducers (e.g., tobacco smoking) (Table 1) [see Drug Interactions (7)].
 
-### Discontinuation of Treatment
+Table 1: Dosage Adjustments in Patients Taking Concomitant Medications
 
-In the event of planned termination of FazaClo® (clozapine, USP) therapy, gradual reduction in dose is recommended over a 1-2 week period.
-However, should a patient’s medical condition require abrupt discontinuation (e.g., leukopenia), the patient should be carefully observed for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as headache, nausea, vomiting, and diarrhea.
+| Co-Medications | Scenarios |  |  |
+| --- | --- | --- | --- |
+|  | Initiating FAZACLO while taking aco-medication | Adding aco-medicationwhile taking FAZACLO | Discontinuing aco-medicationwhile continuing FAZACLO |
+| Strong CYP1A2 Inhibitors | Use one third of the FAZACLO dose. |  | Increase FAZACLO dose based on clinical response. |
+| Moderate or Weak CYP1A2 Inhibitors | Monitor for adverse reactions. Consider reducing the FAZACLO dose if necessary. |  | Monitor for lack of effectiveness. Consider increasing FAZACLO dose if necessary. |
+| CYP2D6 or CYP3A4 Inhibitors |  |  |  |
+| Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if the inducer is necessary, it may be necessary to increase the FAZACLO dose. Monitor for decreased effectiveness. |  | Reduce FAZACLO dose based on clinical response. |
+| Moderate or Weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the FAZACLO dose if necessary. |  | Monitor for adverse reactions. Consider reducing the FAZACLO dose if necessary. |
 
-### Reinitiation of Treatment in Patients Previously Discontinued
+## 2.8 Renal or Hepatic Impairment or CYP2D6 Poor Metabolizers
 
-When restarting patients who have had even a brief interval off FazaClo® (clozapine, USP) (i.e., 2 days or more since the last dose), it is recommended that treatment be reinitiated with a 12.5 mg dose once or twice daily.
-(See WARNINGS.)
-If that dose is well tolerated, it may be feasible to titrate patients back to a therapeutic dose more quickly than is recommended for initial treatment.
-However, any patient who has previously experienced respiratory or cardiac arrest with initial dosing but was then able to be successfully titrated to a therapeutic dose should be retitrated with extreme caution after even 24 hours of discontinuation.
-
-Certain additional precautions seem prudent when reinitiating treatment.
-The mechanisms underlying clozapine-induced adverse reactions are unknown.
-It is conceivable, however, that reexposure of a patient might enhance the risk of an untoward event’s occurrence and increase its severity.
-Such phenomena, for example, occur when immune-mediated mechanisms are responsible.
-Consequently, during the reinitiation of treatment, additional caution is advised.
-Patients discontinued for WBC counts below 2000/mm3 or an ANC below 1000/mm3 must not be restarted on FazaClo® (clozapine, USP).
-(See WARNINGS.)
-
-Reducing The Risk Of Recurrent Suicidal Behavior In Patients With Schizophrenia Or Schizoaffective Disorder
-
-The dosage and administration recommendations outlined above regarding the use of FazaClo® (clozapine, USP) in patients with treatment-resistant schizophrenia should also be followed when treating patients with schizophrenia or schizoaffective disorder at risk for recurrent suicidal behavior.
-
-The InterSePT™ study demonstrated the efficacy of clozapine in the treatment of patients with schizophrenia or schizoaffective disorder at risk for recurrent suicidal behavior where the mean daily dose was about 300 mg (range 12.5 to 900 mg).
-
-Patients previously treated with other antipsychotics were cross-titrated to clozapine over a one-month interval; the dose of the previous antipsychotic was gradually decreased simultaneously with a gradual increase in clozapine dose over the first month of the study.
-Patients on depot antipsychotic medication began clozapine after one full dosing interval since the last injection.
-
-### Recommendations to Reduce the Risk of Recurrent Suicidal Behavior in Patients Who Otherwise Previously Responded to Treatment of Schizophrenia or Schizoaffective Disorder with Another Antipsychotic Medication
-
-The results of the InterSePT™ study demonstrated that, for a two-year treatment period, the probability of a suicide attempt or a hospitalization due to imminent suicide risk is stable at approximately 24% after one year of treatment with clozapine (Figure 1, Clinical Trial Data Section).
-A course of treatment with FazaClo® (clozapine, USP) of at least two years is recommended in order to maintain the reduction of risk for suicidal behavior.
-After two years, it is recommended that the patient’s risk of suicidal behavior be assessed.
-If the physician’s assessment indicates that a significant risk for suicidal behavior is still present, treatment with FazaClo® (clozapine, USP) should be continued.
-Thereafter, the decision to continue treatment with FazaClo® (clozapine, USP) should be revisited at regular intervals, based on thorough assessments of the patient’s risk for suicidal behavior during treatment.
-If the physician determines that the patient is no longer at risk for suicidal behavior, treatment with FazaClo® (clozapine, USP) may be discontinued (see recommendations above regarding discontinuation of treatment), and treatment of the underlying disorder with an antipsychotic medication to which the patient has previously responded may be resumed.
+It may be necessary to reduce the FAZACLO dose in patients with significant renal or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].

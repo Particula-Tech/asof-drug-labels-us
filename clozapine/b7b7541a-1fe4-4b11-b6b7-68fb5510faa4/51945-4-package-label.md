@@ -1,4 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 12.5 mg (Bottle)
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 12.5 mg (Bottle)
+
+12.5 mg (Bottle)
 
 NDC No. 18860-101-10
 
@@ -24,15 +26,17 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Azur Pharma, Inc., AZUR PHARMA
+Distributed by Jazz Pharmaceuticals Commercial Corp.
 
 1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
 U.S. Patent Nos. 6,024,981; 6,221,392.
-FazaClo® is a registered trademark of Azur Pharma International III Limited.
+FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
 All rights reserved.
-Sep 2010, FZCLtb-10-12a 00017196
+Aug 2012, FZCLtb-12-12a
 
-# PRINCIPAL DISPLAY PANEL - 25 mg (Bottle)
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 25 mg (Bottle)
+
+25 mg (Bottle)
 
 NDC No. 18860-102-10
 
@@ -58,15 +62,17 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Azur Pharma, Inc., AZUR PHARMA
+Distributed by Jazz Pharmaceuticals Commercial Corp.
 
 1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
 U.S. Patent Nos. 6,024,981; 6,221,392.
-FazaClo® is a registered trademark of Azur Pharma International III Limited.
+FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
 All rights reserved.
-Sep 2010, FZCLtb-10-22a 00017199
+Aug 2012, FZCLtb-12-22a
 
-# PRINCIPAL DISPLAY PANEL - 100 mg (Bottle)
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 100 mg (Bottle)
+
+100 mg (Bottle)
 
 NDC No. 18860-104-10
 
@@ -92,15 +98,17 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Azur Pharma, Inc., AZUR PHARMA
+Distributed by Jazz Pharmaceuticals Commercial Corp.
 
 1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
 U.S. Patent Nos. 6,024,981; 6,221,392.
-FazaClo® is a registered trademark of Azur Pharma International III Limited.
+FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
 All rights reserved.
-Sep 2010, FZCLtb-10-32a 00017195
+Aug 2012, FZCLtb-12-32a
 
-# PRINCIPAL DISPLAY PANEL - 150 mg (Bottle)
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 150 mg (Bottle)
+
+150 mg (Bottle)
 
 NDC No. 18860-105-10
 
@@ -126,15 +134,17 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Azur Pharma, Inc., AZUR PHARMA
+Distributed by Jazz Pharmaceuticals Commercial Corp.
 
 1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
 U.S. Patent Nos. 6,024,981; 6,221,392.
-FazaClo® is a registered trademark of Azur Pharma International III Limited.
+FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
 All rights reserved.
-Sep 2010, FZCLtb-10-42a 00017197
+Aug 2012, FZCLtb-12-42a
 
-# PRINCIPAL DISPLAY PANEL - 200 mg (Bottle)
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 200 mg (Bottle)
+
+200 mg (Bottle)
 
 NDC No. 18860-106-10
 
@@ -160,9 +170,9 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Azur Pharma, Inc., AZUR PHARMA
+Distributed by Jazz Pharamceuticals Commercial Corp.
 
 1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA U.S. Patent Nos. 6,024,981; 6,221,392.
-FazaClo® is a registered trademark of Azur Pharma International III Limited.
+FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
 All rights reserved.
-Sep 2010, FZCLtb-10-52a 00017198
+Aug 2012, FZCLtb-12-52a
