@@ -1,50 +1,42 @@
-# BOXED WARNING
+# WARNING: AGRANULOCYTOSIS; ORTHOSTATIC HYPOTENSION, BRADYCARDIA, AND SYNCOPE; SEIZURE; MYOCARDITIS AND CARDIOMYOPATHY; INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
 
-1.
-AGRANULOCYTOSIS
+Agranulocytosis
 
-BECAUSE OF A SIGNIFICANT RISK OF AGRANULOCYTOSIS, A POTENTIALLY LIFE-THREATENING ADVERSE EVENT, CLOZARIL (CLOZAPINE) SHOULD BE RESERVED FOR USE IN (1) THE TREATMENT OF SEVERELY ILL PATIENTS WITH SCHIZOPHRENIA WHO FAIL TO SHOW AN ACCEPTABLE RESPONSE TO ADEQUATE COURSES OF STANDARD ANTIPSYCHOTIC DRUG TREATMENT, OR (2) FOR REDUCING THE RISK OF RECURRENT SUICIDAL BEHAVIOR IN PATIENTS WITH SCHIZOPHRENIA OR SCHIZOAFFECTIVE DISORDER WHO ARE JUDGED TO BE AT RISK OF REEXPERIENCING SUICIDAL BEHAVIOR.
+CLOZARIL treatment has caused agranulocytosis, defined as an absolute neutrophil count (ANC) less than 500/mm3.
+Agranulocytosis can lead to serious infection and death.
+Prior to initiating treatment with CLOZARIL, obtain a baseline white blood cell (WBC) count and ANC.
+The ANC must be greater than or equal to 2000/mm3 and the WBC must be greater than or equal to 3500/mm3 for a patient to begin treatment with CLOZARIL.
+During treatment, patients must have regular monitoring of ANC and WBC.
+Discontinue CLOZARIL and do not rechallenge if the ANC is less than 1000/mm3 or the WBC is less than 2000/mm3.
+Advise patients to immediately report symptoms consistent with agranulocytosis or infection (e.g., fever, weakness, lethargy, or sore throat) [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
 
-PATIENTS BEING TREATED WITH CLOZAPINE MUST HAVE A BASELINE WHITE BLOOD CELL (WBC) COUNT AND ABSOLUTE NEUTROPHIL COUNT (ANC) BEFORE INITIATION OF TREATMENT AS WELL AS REGULAR WBC COUNTS AND ANCs DURING TREATMENT AND FOR AT LEAST 4 WEEKS AFTER DISCONTINUATION OF TREATMENT (SEE WARNINGS).
+Because of the risk of agranulocytosis, CLOZARIL is available only through a restricted program called the CLOZARIL National Registry.
+Under the CLOZARIL National Registry, prescribers, patients, and pharmacies must enroll in the program [see Warnings and Precautions (5.2)].
 
-CLOZAPINE IS AVAILABLE ONLY THROUGH A DISTRIBUTION SYSTEM THAT ENSURES MONITORING OF WBC COUNT AND ANC ACCORDING TO THE SCHEDULE DESCRIBED BELOW PRIOR TO DELIVERY OF THE NEXT SUPPLY OF MEDICATION (SEE WARNINGS).
+Orthostatic Hypotension, Bradycardia, Syncope
 
-2.
-SEIZURES
+Orthostatic hypotension, bradycardia, syncope, and cardiac arrest have occurred with CLOZARIL treatment.
+The risk is highest during the initial titration period, particularly with rapid dose escalation.
+These reactions can occur with the first dose, with doses as low as 12.5 mg per day.
+Initiate treatment at 12.5 mg once or twice daily; titrate slowly; and use divided dosages.
+Use CLOZARIL cautiously in patients with cardiovascular or cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration (2.2, and 2.5) and Warnings and Precautions (5.3)].
 
-SEIZURES HAVE BEEN ASSOCIATED WITH THE USE OF CLOZAPINE.
-DOSE APPEARS TO BE AN IMPORTANT PREDICTOR OF SEIZURE, WITH A GREATER LIKELIHOOD AT HIGHER CLOZAPINE DOSES.
-CAUTION SHOULD BE USED WHEN ADMINISTERING CLOZAPINE TO PATIENTS HAVING A HISTORY OF SEIZURES OR OTHER PREDISPOSING FACTORS.
-PATIENTS SHOULD BE ADVISED NOT TO ENGAGE IN ANY ACTIVITY WHERE SUDDEN LOSS OF CONSCIOUSNESS COULD CAUSE SERIOUS RISK TO THEMSELVES OR OTHERS.
-(SEE WARNINGS)
+Seizures
 
-3.
-MYOCARDITIS
+Seizures have occurred with CLOZARIL treatment.
+The risk is dose-related.
+Initiate treatment at 12.5 mg, titrate gradually, and use divided dosing.
+Use caution when administering CLOZARIL to patients with a history of seizures or other predisposing risk factors for seizure (CNS pathology, medications that lower the seizure threshold, alcohol abuse).
+Caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others [see Dosage and Administration (2.2), Warnings and Precautions (5.4)].
 
-ANALYSES OF POSTMARKETING SAFETY DATABASES SUGGEST THAT CLOZAPINE IS ASSOCIATED WITH AN INCREASED RISK OF FATAL MYOCARDITIS, ESPECIALLY DURING, BUT NOT LIMITED TO, THE FIRST MONTH OF THERAPY.
-IN PATIENTS IN WHOM MYOCARDITIS IS SUSPECTED, CLOZAPINE TREATMENT SHOULD BE PROMPTLY DISCONTINUED.
-(SEE WARNINGS)
+Myocarditis and Cardiomyopathy
 
-4.
-OTHER ADVERSE CARDIOVASCULAR AND RESPIRATORY EFFECTS
+Fatal myocarditis and cardiomyopathy have occurred with CLOZARIL treatment.
+Discontinue CLOZARIL and obtain a cardiac evaluation upon suspicion of these reactions.
+Generally, patients with CLOZARIL-related myocarditis or cardiomyopathy should not be rechallenged with CLOZARIL.
+Consider the possibility of myocarditis or cardiomyopathy if chest pain, tachycardia, palpitations, dyspnea, fever, flu-like symptoms, hypotension, or ECG changes occur [see Warnings and Precautions (5.5)].
 
-ORTHOSTATIC HYPOTENSION, WITH OR WITHOUT SYNCOPE, CAN OCCUR WITH CLOZAPINE TREATMENT.
-RARELY, COLLAPSE CAN BE PROFOUND AND BE ACCOMPANIED BY RESPIRATORY AND/OR CARDIAC ARREST.
-ORTHOSTATIC HYPOTENSION IS MORE LIKELY TO OCCUR DURING INITIAL TITRATION IN ASSOCIATION WITH RAPID DOSE ESCALATION.
-IN PATIENTS WHO HAVE HAD EVEN A BRIEF INTERVAL OFF CLOZAPINE, i.e., 2 OR MORE DAYS SINCE THE LAST DOSE, TREATMENT SHOULD BE STARTED WITH 12.5 mg ONCE OR TWICE DAILY.
-(SEE WARNINGS and DOSAGE AND ADMINISTRATION)
+Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
-SINCE COLLAPSE, RESPIRATORY ARREST AND CARDIAC ARREST DURING INITIAL TREATMENT HAS OCCURRED IN PATIENTS WHO WERE BEING ADMINISTERED BENZODIAZEPINES OR OTHER PSYCHOTROPIC DRUGS, CAUTION IS ADVISED WHEN CLOZAPINE IS INITIATED IN PATIENTS TAKING A BENZODIAZEPINE OR ANY OTHER PSYCHOTROPIC DRUG.
-(SEE WARNINGS)
-
-5.
-INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
-
-ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS TREATED WITH ANTIPSYCHOTIC DRUGS ARE AT AN INCREASED RISK OF DEATH.
-ANALYSES OF SEVENTEEN PLACEBO-CONTROLLED TRIALS (MODAL DURATION OF 10 WEEKS), LARGELY IN PATIENTS TAKING ATYPICAL ANTIPSYCHOTIC DRUGS, REVEALED A RISK OF DEATH IN THE DRUG-TREATED PATIENTS OF BETWEEN 1.6 TO 1.7 TIMES THE RISK OF DEATH IN PLACEBO-TREATED PATIENTS.
-OVER THE COURSE OF A TYPICAL 10-WEEK CONTROLLED TRIAL, THE RATE OF DEATH IN DRUG-TREATED PATIENTS WAS ABOUT 4.5%, COMPARED TO A RATE OF ABOUT 2.6% IN THE PLACEBO GROUP.
-ALTHOUGH THE CAUSES OF DEATH WERE VARIED, MOST OF THE DEATHS APPEARED TO BE EITHER CARDIOVASCULAR (e.g., HEART FAILURE, SUDDEN DEATH) OR INFECTIOUS (e.g., PNEUMONIA) IN NATURE.
-OBSERVATIONAL STUDIES SUGGEST THAT, SIMILAR TO ATYPICAL ANTIPSYCHOTIC DRUGS, TREATMENT WITH CONVENTIONAL ANTIPSYCHOTIC DRUGS MAY INCREASE MORTALITY.
-THE EXTENT TO WHICH THE FINDINGS OF INCREASED MORTALITY IN OBSERVATIONAL STUDIES MAY BE ATTRIBUTED TO THE ANTIPSYCHOTIC DRUG AS OPPOSED TO SOME CHARACTERISTIC(S) OF THE PATIENTS IS NOT CLEAR.
-CLOZARIL (CLOZAPINE) IS NOT APPROVED FOR THE TREATMENT OF PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS.
-(SEE WARNINGS)
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+CLOZARIL is not approved for use in patients with dementia-related psychosis [see Warnings and Precautions (5.6)].

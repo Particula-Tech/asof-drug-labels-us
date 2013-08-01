@@ -1,35 +1,55 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Associated with Discontinuation of Treatment
+The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-Sixteen percent of 1,080 patients who received CLOZARIL (clozapine) in premarketing clinical trials discontinued treatment due to an adverse event, including both those that could be reasonably attributed to CLOZARIL treatment and those that might more appropriately be considered intercurrent illness.
-The more common events considered to be causes of discontinuation included: CNS, primarily drowsiness/sedation, seizures, dizziness/syncope; cardiovascular, primarily tachycardia, hypotension and ECG changes; gastrointestinal, primarily nausea/vomiting; hematologic, primarily leukopenia/ granulocytopenia/ agranulocytosis; and fever.
-None of the events enumerated accounts for more than 1.7% of all discontinuations attributed to adverse clinical events.
+- Agranulocytosis [see Warnings and Precautions (5.1)].
+- Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
+- Seizures [see Warnings and Precautions (5.4)].
+- Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.5)].
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.6)].
+- Eosinophilia [see Warnings and Precautions (5.7)].
+- QT Interval Prolongation [see Warnings and Precautions (5.8)].
+- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.9)].
+- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.10)].
+- Fever [see Warnings and Precautions (5.11)].
+- Pulmonary Embolism [see Warnings and Precautions (5.12)].
+- Anticholinergic Toxicity [see Warnings and Precautions (5.13)].
+- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.14)].
+- Tardive Dyskinesia [see Warnings and Precautions (5.15)].
+- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.16)].
+- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.17)].
 
-## Extrapyramidal Symptoms
+## 6.1 Clinical Trials Experience
 
-Dystonia
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
-Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
-While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
-An elevated risk of acute dystonia is observed in males and younger age groups.
-Clozapine, an atypical antipsychotic, is associated with a low incidence of dystonia (see WARNINGS, Tardive Dyskinesia).
+The most commonly reported adverse reactions (>5%) across CLOZARIL clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
+Table 8 summarizes the most commonly reported adverse reactions (>5%) in CLOZARIL-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
-## Commonly Observed
+Table 8.
+Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
 
-Adverse events observed in association with the use of CLOZARIL in clinical trials at an incidence of greater than 5% were: central nervous system complaints, including drowsiness/sedation, dizziness/vertigo, headache, and tremor; autonomic nervous system complaints, including salivation, sweating, dry mouth, and visual disturbances; cardiovascular findings, including tachycardia, hypotension, and syncope; and gastrointestinal complaints, including constipation and nausea; and fever.
-Complaints of drowsiness/sedation tend to subside with continued therapy or dose reduction.
-Salivation may be profuse, especially during sleep, but may be diminished with dose reduction.
+| Adverse Reaction | CLOZARIL (N=126) (%) | Chlorpromazine (N=142) (%) |
+| --- | --- | --- |
+| Sedation | 21 | 13 |
+| Tachycardia | 17 | 11 |
+| Constipation | 16 | 12 |
+| Dizziness | 14 | 16 |
+| Hypotension | 13 | 38 |
+| Fever (hyperthermia) | 13 | 4 |
+| Hypersalivation | 13 | 1 |
+| Hypertension | 12 | 5 |
+| Headache | 10 | 10 |
+| Nausea/vomiting | 10 | 12 |
+| Dry mouth | 5 | 20 |
 
-## Incidence in Clinical Trials
-
-The following table enumerates adverse events that occurred at a frequency of 1% or greater among CLOZARIL patients who participated in clinical trials.
+Table 9 summarizes the adverse reactions reported in CLOZARIL-treated patients at a frequency of 2% or greater across all CLOZARIL studies (excluding the 2-year InterSePT™ Study).
 These rates are not adjusted for duration of exposure.
 
-Treatment-Emergent Adverse Experience Incidence Among Patients Taking CLOZARIL (clozapine) in Clinical Trials (excluding the InterSePT Study) (N = 842) (Percentage of Patients Reporting)
+Table 9.
+Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across all CLOZARIL Studies (excluding the 2-year InterSePTTM Study)
 
-| Body System Adverse Eventa | Percent |
+| Body System Adverse Reaction* | CLOZARIL N=842 Percentage of Patients |
 | --- | --- |
 | Central Nervous System |  |
 | Drowsiness/Sedation | 39 |
@@ -41,26 +61,16 @@ Treatment-Emergent Adverse Experience Incidence Among Patients Taking CLOZARIL (
 | Restlessness | 4 |
 | Hypokinesia/Akinesia | 4 |
 | Agitation | 4 |
-| Seizures (convulsions) | 3b |
+| Seizures (convulsions) | 3† |
 | Rigidity | 3 |
 | Akathisia | 3 |
 | Confusion | 3 |
 | Fatigue | 2 |
 | Insomnia | 2 |
-| Hyperkinesia | 1 |
-| Weakness | 1 |
-| Lethargy | 1 |
-| Ataxia | 1 |
-| Slurred Speech | 1 |
-| Depression | 1 |
-| Epileptiform Movements/Myoclonic Jerks | 1 |
-| Anxiety | 1 |
 | Cardiovascular |  |
-| Tachycardia | 25b |
+| Tachycardia | 25† |
 | Hypotension | 9 |
 | Hypertension | 4 |
-| Chest Pain/Angina | 1 |
-| ECG Change/Cardiac Abnormality | 1 |
 | Gastrointestinal |  |
 | Constipation | 14 |
 | Nausea | 5 |
@@ -68,114 +78,93 @@ Treatment-Emergent Adverse Experience Incidence Among Patients Taking CLOZARIL (
 | Nausea/Vomiting | 3 |
 | Vomiting | 3 |
 | Diarrhea | 2 |
-| Liver test Abnormality | 1 |
-| Anorexia | 1 |
 | Urogenital |  |
 | Urinary Abnormalities | 2 |
-| Incontinence | 1 |
-| Abnormal Ejaculation | 1 |
-| Urinary Urgency/Frequency | 1 |
-| Urinary Retention | 1 |
 | Autonomic Nervous System |  |
 | Salivation | 31 |
 | Sweating | 6 |
 | Dry Mouth | 6 |
 | Visual Disturbances | 5 |
-| Integumentary (Skin) |  |
+| Skin |  |
 | Rash | 2 |
-| Musculoskeletal |  |
-| Muscle Weakness | 1 |
-| Pain (Back, Neck, Legs) | 1 |
-| Muscle Spasm | 1 |
-| Muscle Pain, Ache | 1 |
-| Respiratory |  |
-| Throat Discomfort | 1 |
-| Dyspnea, Shortness of Breath | 1 |
-| Nasal Congestion | 1 |
 | Hemic/Lymphatic |  |
 | Leukopenia/Decreased WBC/Neutropenia | 3 |
-| Agranulocytosis | 1b |
-| Eosinophilia | 1 |
 | Miscellaneous |  |
 | Fever | 5 |
 | Weight Gain | 4 |
-| Tongue Numb/Sore | 1 |
-| a Events reported by at least 1% of CLOZARIL patients are included. |  |
-| b Rate based on population of approximately 1,700 exposed during premarket clinical evaluation of CLOZARIL. |  |
+| † Rate based on population of approximately 1700 exposed during premarket clinical evaluation of CLOZARIL. |  |
 
-The following table enumerates adverse events that occurred at a frequency of 10% for either treatment group in patients who took at least 1 dose of study medication during their participation in InterSePT, which was an adequate and well-controlled 2-year study evaluating the efficacy of CLOZARIL relative to Zyprexa in reducing the risk of emergent suicidal behavior in patients with schizophrenia or schizoaffective disorder.
-These rates are not adjusted for duration of exposure.
+Table 10 summarizes the most commonly reported adverse reactions (>10% of the CLOZARIL or olanzapine group) in the InterSePTTM Study.
+This was an adequate and well-controlled, 2-year study evaluating the efficacy of CLOZARIL relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
+The rates are not adjusted for duration of exposure.
 
-Treatment-Emergent Adverse Experience Incidence1 Among Patients Taking CLOZARIL (clozapine) or Zyprexa (olanzapine) in the InterSePT Study (Percentage of Patients Reporting)
+Table 10.
+Incidence of Adverse Reactions in Patients Treated with CLOZARIL or Olanzapine in the InterSePTTM Study (>10% in the CLOZARIL or olanzapine group)
 
-|  | Clozaril N=479 % Reporting | Zyprexa N=477 % Reporting |
+| Adverse Reactions | CLOZARIL N=479 % Reporting | Olanzapine N=477 % Reporting |
 | --- | --- | --- |
-| Adverse Events |  |  |
-| Salivary hypersecretion | 48% | 6% |
-| Somnolence | 46% | 25% |
-| Weight increased | 31% | 56% |
-| Dizziness (excluding vertigo) | 27% | 12% |
-| Constipation | 25% | 10% |
-| Insomnia NEC | 20% | 33% |
-| Nausea | 17% | 10% |
-| Vomiting NOS | 17% | 9% |
-| Dyspepsia | 14% | 8% |
-| 1AEs are listed by frequency in CLOZARIL group, and included in the table are those for which the risk ratio of CLOZARIL over Zyprexa or of Zyprexa over CLOZARIL was greater than 1.5. |  |  |
-| NEC - not elsewhere classified |  |  |
-| NOS - not otherwise specified |  |  |
+| Salivary hypersecretion | 48 | 6 |
+| Somnolence | 46 | 25 |
+| Weight increased | 31 | 56 |
+| Dizziness (excluding vertigo) | 27 | 12 |
+| Constipation | 25 | 10 |
+| Insomnia | 20 | 33 |
+| Nausea | 17 | 10 |
+| Vomiting | 17 | 9 |
+| Dyspepsia | 14 | 8 |
 
-## Other Events Observed During the Premarketing Evaluation of CLOZARIL (clozapine)
+Dystonia
 
-This section reports additional, less frequent adverse events which occurred among the patients taking CLOZARIL in clinical trials.
-Various adverse events were reported as part of the total experience in these clinical studies; a causal relationship to CLOZARIL treatment cannot be determined in the absence of appropriate controls in some of the studies.
-The table above enumerates adverse events that occurred at a frequency of at least 1% of patients treated with CLOZARIL.
-The list below includes all additional adverse experiences reported as being temporally associated with the use of the drug which occurred at a frequency less than 1%, enumerated by organ system.
+Class effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
+While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
+An elevated risk of acute dystonia is observed in males and younger age groups.
 
-Central Nervous System: loss of speech, amentia, tics, poor coordination, delusions/hallucinations, involuntary movement, stuttering, dysarthria, amnesia/memory loss, histrionic movements, libido increase or decrease, paranoia, shakiness, Parkinsonism, and irritability.
+## 6.2 Postmarketing Experience
 
-Cardiovascular System: edema, palpitations, phlebitis/thrombophlebitis, cyanosis, premature ventricular contraction, bradycardia, and nosebleed.
-
-Gastrointestinal System: abdominal distention, gastroenteritis, rectal bleeding, nervous stomach, abnormal stools, hematemesis, gastric ulcer, bitter taste, and eructation.
-
-Urogenital System: dysmenorrhea, impotence, breast pain/discomfort, and vaginal itch/infection.
-
-Autonomic Nervous System: numbness, polydipsia, hot flashes, dry throat, and mydriasis.
-
-Integumentary (Skin): pruritus, pallor, eczema, erythema, bruise, dermatitis, petechiae, and urticaria.
-
-Musculoskeletal System: twitching and joint pain.
-
-Respiratory System: coughing, pneumonia/pneumonia-like symptoms, rhinorrhea, hyperventilation, wheezing, bronchitis, laryngitis, and sneezing.
-
-Hemic and Lymphatic System: anemia and leukocytosis.
-
-Miscellaneous: chills/chills with fever, malaise, appetite increase, ear disorder, hypothermia, eyelid disorder, bloodshot eyes, and nystagmus.
-
-## Postmarketing Clinical Experience
-
-The following adverse reactions have been identified during post-approval use of CLOZARIL.
+The following adverse reactions have been identified during post-approval use of clozapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central Nervous System: delirium, cholinergic syndrome, EEG abnormal; exacerbation of psychosis, myoclonus, overdose, paresthesia, possible mild cataplexy, status epilepticus, and obsessive compulsive symptoms.
+Central Nervous System
 
-Cardiovascular System: atrial or ventricular fibrillation, myocardial infarction, ventricular tachycardia, cardiac arrest, QT interval prolongation, Torsades de Pointes, and periorbital edema.
+Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, and post-discontinuation cholinergic rebound adverse reactions.
 
-Gastrointestinal System: acute pancreatitis, dysphagia, fecal impaction, intestinal obstruction/paralytic ileus, and salivary gland swelling.
+Cardiovascular System
 
-Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
+Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
 
-Urogenital System: acute interstitial nephritis, priapism, and renal failure.
+Gastrointestinal System
 
-Integumentary (Skin): hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
+Acute pancreatitis, dysphagia, salivary gland swelling.
 
-Metabolic and Nutritional Disorders: hypercholesterolemia, hypertriglyceridemia and new onset diabetes.
+Hepatobiliary System
 
-Musculoskeletal System: myasthenic syndrome and rhabdomyolysis.
+Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 
-Respiratory System: aspiration, pleural effusion, pneumonia, and lower respiratory tract infection which may be fatal.
+Urogenital System
 
-Hemic and Lymphatic System: deep vein thrombosis; elevated hemoglobin/hematocrit; ESR increased; pulmonary embolism; sepsis; thrombocytosis; and thrombocytopenia.
+Acute interstitial nephritis, nocturnal enuresis, priapism, and renal failure.
 
-Vision Disorders: narrow angle glaucoma.
+Skin
 
-Miscellaneous: CPK elevation; hyperglycemia; hyperuricemia; hyponatremia; and weight loss.
+Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
+
+Musculoskeletal System
+
+Myasthenic syndrome and rhabdomyolysis.
+
+Respiratory System
+
+Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
+
+Hemic and Lymphatic System
+
+Deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+
+Vision Disorders
+
+Narrow-angle glaucoma.
+
+Miscellaneous
+
+Creatine phosphokinase elevation, hyperuricemia, hyponatremia, and weight loss.
