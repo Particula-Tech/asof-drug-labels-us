@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA202540"
+  ],
+  "inn": "ursodiol",
+  "labeler": "Par Pharmaceutical Companies, Inc.",
+  "package_ndcs": [
+    "49884-412-01",
+    "49884-412-05",
+    "49884-413-01",
+    "49884-413-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ursodiol",
+      "name": "Ursodiol"
+    }
+  ],
+  "setid": "1a3a8942-94d4-4292-bf74-0a67d92acb90",
+  "source": "dailymed"
+}
