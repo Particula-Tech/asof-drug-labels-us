@@ -1,9 +1,9 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Oxycodone is a mu receptor opioid agonist whose principal therapeutic action is analgesia.
+Oxycodone is primarily a mu receptor opioid agonist whose principal therapeutic action is analgesia.
 Other members of the class known as opioid agonists include substances such as morphine, hydromorphone, fentanyl, codeine, hydrocodone and oxymorphone.
 Pharmacological effects of opioid agonists include anxiolysis, euphoria, feelings of relaxation, respiratory depression, constipation, miosis, and cough suppression, as well as analgesia.
-Increasing doses of pure mu receptor agonists are associated with increasing analgesia.
+In general, increasing doses of mu receptor agonists are associated with increasing analgesia.
 There is no defined maximum dose; the ceiling to analgesic effectiveness is imposed only by adverse reactions, the more serious of which may include somnolence and respiratory depression.
 
 ## 12.1 Mechanism of Action

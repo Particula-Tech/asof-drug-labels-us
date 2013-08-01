@@ -20,7 +20,7 @@ Contact local state professional licensing board or state controlled substances 
 ## 5.2 Life-Threatening Respiratory Depression
 
 Respiratory depression is the chief hazard of opioid agonists, including OxyContin.
-Respiratory depression if not immediately recognized and treated, may lead to respiratory arrest and death.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a “sighing” pattern of breathing (deep breaths separated by abnormally long pauses).
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
@@ -59,14 +59,14 @@ Consider the use of alternative non-opioid analgesics in these patients if possi
 
 ## 5.6 Interactions with Alcohol, CNS Depressants, and Illicit Drugs
 
-Hypotension, and profound sedation, coma or respiratory depression may result if OxyContin is used concomitantly with other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, muscle relaxants, other opioids).
+Hypotension and profound sedation, coma, or respiratory depression may result if OxyContin is used concomitantly with other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, muscle relaxants, other opioids).
 When considering the use of OxyContin in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
 Additionally, consider the patient’s use, if any, of alcohol and/or illicit drugs that can cause CNS depression.
 If OxyContin therapy is to be initiated in a patient taking a CNS depressant, start with a lower OxyContin dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.1)].
 
 ## 5.7 Hypotensive Effects
 
-OxyContin may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+OxyContin may cause severe hypotension, including orthostatic hypotension and syncope in ambulatory patients.
 There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7.1)].
 Monitor these patients for signs of hypotension after initiating or titrating the dose of OxyContin.
 In patients with circulatory shock, OxyContin may cause vasodilation that can further reduce cardiac output and blood pressure.

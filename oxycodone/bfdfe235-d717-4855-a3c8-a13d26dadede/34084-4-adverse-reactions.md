@@ -87,7 +87,7 @@ Skin and subcutaneous tissue disorders: dry skin, exfoliative dermatitis
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of controlled-release oxycodone: abuse, addiction, amenorrhea, cholestasis, death, dental caries, increased hepatic enzymes, hyperalgesia, hyponatremia, ileus, muscular hypertonia, overdose, palpitations (in the context of withdrawal), seizures, syndrome of inappropriate antidiuretic hormone secretion, and urticaria.
+The following adverse reactions have been identified during post-approval use of controlled-release oxycodone: abuse, addiction, amenorrhea, cholestasis, death, dental caries, increased hepatic enzymes, hyperalgesia, hypogonadism, hyponatremia, ileus, muscular hypertonia, overdose, palpitations (in the context of withdrawal), seizures, syndrome of inappropriate antidiuretic hormone secretion, and urticaria.
 
 Anaphylaxis has been reported with ingredients contained in OxyContin.
 Advise patients how to recognize such a reaction and when to seek medical attention.

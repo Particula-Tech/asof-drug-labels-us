@@ -42,7 +42,7 @@ Follow the patient closely during conversion from transdermal fentanyl to OxyCon
 
 Individually titrate OxyContin to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving OxyContin to assess the maintenance of pain control and the relative incidence of adverse reactions.
-During chronic therapy, especially for non-cancer-related pain (or pain associated with other terminal illnesses), periodically reassess the continued need for the use of opioid analgesics.
+During chronic therapy, especially for non-cancer-related pain (or other pain associated with terminal illnesses), periodically reassess the continued need for the use of opioid analgesics.
 
 If the level of pain increases, attempt to identify the source of increased pain, while adjusting the OxyContin dose to decrease the level of pain.
 Because steady-state plasma concentrations are approximated in 1 day, OxyContin dosage adjustments may be done every 1 to 2 days.
@@ -60,7 +60,7 @@ For patients with hepatic impairment, start dosing patients at 1/3 to 1/2 the us
 
 ## 2.4 Discontinuation of OxyContin
 
-When the patient no longer requires therapy with OxyContin tablets, use a gradual downward titration of the dose to prevent signs and symptoms of withdrawal in the physically-dependent patient.
+When the patient no longer requires therapy with OxyContin tablets, use a gradual downward titration of the dose to prevent signs and symptoms of withdrawal in the physically dependent patient.
 Do not abruptly discontinue OxyContin.
 
 ## 2.5 Administration of OxyContin
