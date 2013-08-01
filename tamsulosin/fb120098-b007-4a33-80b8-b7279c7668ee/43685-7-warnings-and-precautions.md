@@ -4,23 +4,23 @@
 
 The signs and symptoms of orthostasis (postural hypotension, dizziness, and vertigo) were detected more frequently in tamsulosin hydrochloride capsule-treated patients than in placebo recipients.
 As with other alpha adrenergic blocking agents there is a potential risk of syncope [see Adverse Reactions (6.1)].
-Patients beginning treatment with tamsulosin hydrochloride capsules should be cautioned to avoid situations in which injury could result should syncope occur [see Patient Counseling Information(17.1)].
+Patients beginning treatment with tamsulosin hydrochloride capsules should be cautioned to avoid situations in which injury could result should syncope occur [see Patient Counseling Information (17.1)].
 
 ## 5.2 Drug Interactions
 
 Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6.
 Tamsulosin hydrochloride capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Drug Interactions(7.1) and Clinical Pharmacology (12.3)].
-Tamsulosin hydrochloride capsules should be used with caution in combination with moderate inhibitors of CYP3A4 (e.g., erythromycin), in combination with strong (e.g., paroxetine) or moderate (e.g., terbinafine) inhibitors of CYP2D6, in patients known to be CYP2D6 poor metabolizers particularly at a dose higher than 0.4 mg (e.g., 0.8 mg) [see Drug Interactions (7.1) and Clinical Pharmacology(12.3)].
+Tamsulosin hydrochloride capsules should be used with caution in combination with moderate inhibitors of CYP3A4 (e.g., erythromycin), in combination with strong (e.g., paroxetine) or moderate (e.g., terbinafine) inhibitors of CYP2D6, in patients known to be CYP2D6 poor metabolizers particularly at a dose higher than 0.4 mg (e.g., 0.8 mg) [see Drug Interactions (7.1) andClinical Pharmacology (12.3)].
 
-Tamsulosin hydrochloride capsules should be used with caution in combination with cimetidine, particularly at a dose higher than 0.4 mg (e.g., 0.8 mg) [see Drug Interactions(7.1) and Clinical Pharmacology (12.3)].
+Tamsulosin hydrochloride capsules should be used with caution in combination with cimetidine, particularly at a dose higher than 0.4 mg (e.g., 0.8 mg) [see Drug Interactions(7.1) andClinical Pharmacology (12.3)].
 
-Tamsulosin hydrochloride capsules should not be used in combination with other alpha adrenergic blocking agents [see Drug Interactions(7.2) and Clinical Pharmacology(12.3)].
+Tamsulosin hydrochloride capsules should not be used in combination with other alpha adrenergic blocking agents [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 Caution is advised when alpha adrenergic blocking agents including tamsulosin hydrochloride capsules are coadministered with PDE5 inhibitors.
 Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
-Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see Drug Interactions(7.3) and Clinical Pharmacology(12.3)].
+Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see Drug Interactions(7.3) and Clinical Pharmacology (12.3)].
 
-Caution should be exercised with concomitant administration of warfarin and tamsulosin hydrochloride capsules [see Drug Interactions(7.4) and Clinical Pharmacology(12.3)].
+Caution should be exercised with concomitant administration of warfarin and tamsulosin hydrochloride capsules [see Drug Interactions(7.4) andClinical Pharmacology (12.3)].
 
 ## 5.3 Priapism
 

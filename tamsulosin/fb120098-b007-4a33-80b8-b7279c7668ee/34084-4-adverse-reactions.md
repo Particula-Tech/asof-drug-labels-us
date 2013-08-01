@@ -54,7 +54,7 @@ At 8 hours post-dose, a positive orthostatic test result was observed for 6% of 
 
 In Studies 1 and 2, at least one positive orthostatic test result was observed during the course of these studies for 81 of the 502 patients (16%) in the tamsulosin hydrochloride capsules 0.4 mg once-daily group, 92 of the 491 patients (19%) in the tamsulosin hydrochloride capsules 0.8 mg once-daily group, and 54 of the 493 patients (11%) in the placebo group.
 
-Because orthostasis was detected more frequently in tamsulosin hydrochloride capsule-treated patients than in placebo recipients, there is a potential risk of syncope [see Warnings and Precautions(5.1)].
+Because orthostasis was detected more frequently in tamsulosin hydrochloride capsule-treated patients than in placebo recipients, there is a potential risk of syncope [see Warnings and Precautions (5.1)].
 
 Abnormal Ejaculation
 
@@ -77,4 +77,4 @@ Allergic-type reactions such as skin rash, urticaria, pruritus, angioedema and r
 Priapism has been reported rarely.
 Infrequent reports of dyspnea, palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia, skin desquamation including reports of Stevens-Johnson syndrome, constipation, and vomiting have been received during the postmarketing period.
 
-During cataract surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see Warnings and Precautions(5.5)].
+During cataract surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see Warnings and Precautions (5.5)].
