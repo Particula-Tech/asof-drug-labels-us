@@ -44,13 +44,15 @@ Such use could result in air embolism due to residual air being drawn from the p
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
-Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Printed in USA
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 ATCC is a trademark of the American Type Culture Collection.
 
-07-19-65-181
+07-19-71-063
 
 Rev.
-December 2010
+June 2013

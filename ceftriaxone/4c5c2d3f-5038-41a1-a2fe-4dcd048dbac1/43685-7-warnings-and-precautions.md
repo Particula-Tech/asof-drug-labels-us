@@ -7,9 +7,9 @@ THIS PRODUCT SHOULD BE GIVEN CAUTIOUSLY TO PENICILLIN-SENSITIVE PATIENTS.
 ANTIBIOTICS SHOULD BE ADMINISTERED WITH CAUTION TO ANY PATIENT WHO HAS DEMONSTRATED SOME FORM OF ALLERGY, PARTICULARLY TO DRUGS.
 SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE THE USE OF SUBCUTANEOUS EPINEPHRINE AND OTHER EMERGENCY MEASURES.
 
-## Interaction with Calcium-Containing Products
+As with other cephalosporins, anaphylactic reactions with fatal outcome have been reported, even if a patient is not known to be allergic or previously exposed.
 
-No data are available on potential interaction between ceftriaxone and oral calcium-containing products or interaction between intramuscular ceftriaxone and calcium-containing products (IV or oral).
+## Interaction with Calcium-Containing Products
 
 Do not further dilute ceftriaxone injection with products containing calcium, such as Ringer’s solution or Hartmann’s solution, because a precipitate can form.
 Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
@@ -68,8 +68,6 @@ Therefore, Ceftriaxone Injection, USP should be discontinued in patients who dev
 Cases of pancreatitis, possibly secondary to biliary obstruction, have been reported rarely in patients treated with ceftriaxone.
 Most patients presented with risk factors for biliary stasis and biliary sludge (preceding major therapy, severe illness, total parenteral nutrition).
 A cofactor role of ceftriaxone related biliary precipitation cannot be ruled out.
-
-As with other cephalosporins, anaphylactic shock cannot be ruled out even if a thorough patient history is taken.
 
 ## Information for Patients
 

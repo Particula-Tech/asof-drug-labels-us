@@ -9,7 +9,7 @@ Phlebitis was reported in <1% after IV administration.
 HYPERSENSITIVITY — rash (1.7%).
 Less frequently reported (<1%) were pruritus, fever or chills.
 
-HEMATOLOGIC — eosinophilia (6%), thrombocytosis (5.1%) and leukopenia (2.1%).
+HEMATOLOGIC —eosinophilia (6%), thrombocytosis (5.1%) and leukopenia (2.1%).
 Less frequently reported (<1%) were anemia, hemolytic anemia, neutropenia, lymphopenia, thrombocytopenia and prolongation of the prothrombin time.
 
 GASTROINTESTINAL — diarrhea (2.7%).
