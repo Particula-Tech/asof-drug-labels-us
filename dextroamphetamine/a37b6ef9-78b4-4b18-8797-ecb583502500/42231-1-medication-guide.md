@@ -1,6 +1,6 @@
-# Medication Guide
+# MEDICATION GUIDE
 
-DEXEDRINE® (dextroamphetamine sulfate) SPANSULE® sustained-release capsules
+DEXEDRINE® (dextroamphetamine sulfate) SPANSULE® sustained release capsules
 
 Read the Medication Guide that comes with DEXEDRINE before you or your child starts taking it and each time you get a refill.
 There may be new information.
@@ -25,7 +25,7 @@ DEXEDRINE should not be taken if you or your child:
 - Are very anxious, tense, or agitated
 - Have a history of drug abuse
 - Are taking or have taken within the past 14 days an antidepression medicine called a monoamine oxidase inhibitor or MAOI.
-- Is sensitive to, allergic to, or had a reaction to other stimulant medicines.
+- Is sensitive to, allergic to, or had a reaction to other stimulant medicines
 
 DEXEDRINE is not recommended for use in children younger than 6 years old.
 
@@ -37,12 +37,14 @@ Before starting DEXEDRINE tell your or your child’s doctor about all health co
 - Tics or Tourette’s syndrome
 - Thyroid problems
 - Seizures or have had an abnormal brain wave test (EEG)
+- Circulation problems in fingers and toes
 
 Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
 
 Can DEXEDRINE be taken with other medicines?
 
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.DEXEDRINE and some medicines may interact with each other and cause serious side effects.
+Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+DEXEDRINE and some medicines may interact with each other and cause serious side effects.
 Sometimes the doses of other medicines will need to be adjusted while taking DEXEDRINE.
 
 Your doctor will decide whether DEXEDRINE can be taken with other medicines.
@@ -64,14 +66,14 @@ How should DEXEDRINE be taken?
 - Take DEXEDRINE exactly as prescribed.
   Your doctor may adjust the dose until it is right for you or your child.
 - DEXEDRINE comes as a capsule.
-  - DEXEDRINE SPANSULE capsules are usually taken once a day in the morning.
-    DEXEDRINE SPANSULE is an extended release capsule.
-    It releases medicine into your body throughout the day.
+- DEXEDRINE SPANSULE capsules are usually taken once a day in the morning.
+  DEXEDRINE SPANSULE is an extended release capsule.
+  It releases medicine into your body throughout the day.
 - From time to time, your doctor may stop treatment with DEXEDRINE for a while to check ADHD symptoms.
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking DEXEDRINE.
   Children should have their height and weight checked often while taking DEXEDRINE.
   Treatment with DEXEDRINE may be stopped if a problem is found during these check-ups.
-- If you or your child takes too much DEXEDRINE or overdoses, call your doctor or poison control center right away, or get emergency treatment.
+- If you or your child takes too much DEXEDRINE or overdoses, call your doctor or poison control center right away, or get emergency treatment
 
 What are possible side effects of DEXEDRINE?
 
@@ -101,7 +103,7 @@ Talk to your doctor if you or your child has side effects that are bothersome or
 
 This is not a complete list of possible side effects.
 Ask your doctor or pharmacist for more information.
-Call you doctor for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store DEXEDRINE?
@@ -120,7 +122,7 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about DEXEDRINE.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about DEXEDRINE that was written for healthcare professionals.
-For more information about DEXEDRINE, please contact Amedra Pharmaceuticals at 1-800-850-2719 or visit www.amedrapharma.com.
+For more information about DEXEDRINE, please contact Amedra Pharmaceuticals at 1-888-894-6528 or visit www.amedrapharma.com.
 
 What are the ingredients in DEXEDRINE?
 
@@ -128,11 +130,14 @@ Active Ingredient: Dextroamphetamine sulfate
 
 Inactive Ingredients:
 
-SPANSULE Capsules: Cetyl alcohol, D&C Yellow No. 10, dibutyl sebacate, ethylcellulose, FD&C Blue No. 1, FD&C Blue No. 1 aluminum lake, FD&C Red No. 40, FD&C Yellow No. 6, gelatin, hypromellose, propylene glycol, povidone, silicon dioxide, sodium laurate sulfate, and sugar spheres and trace amounts of other inactive ingredients.
+SPANSULE Capsules: Cetyl alcohol, D&C Yellow No. 10, dibutyl sebacate, ethylcellulose, FD&C Blue No. 1, FD&C Blue No. 1 aluminum lake, FD&C Red No. 40, FD&C Yellow No. 6, gelatin, hypromellose, polyethylene glycol, povidone, sodium lauryl sulfate, sugar spheres and trace amounts of other inactive ingredients.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration July 2008 DXD:3MG.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+July 2008 DXD:3MG.
 
 Manufactured by Catalent Pharma Solutions Winchester, KY 40391
 
-For Amedra Pharmaceuticals, LLC Middlesex, NJ 08846 LB# 797-02 Rev.
-December 2010
+For Amedra Pharmaceuticals LLC Horsham, PA 19044 LB# 797-06 Rev.
+May, 2013
+
+For additional copies of the printed patient information/medication guide, please visit www.amedrapharma.com or contact us at 1-888-894-6528.

@@ -14,8 +14,8 @@ SPANSULE capsules may be used for once-a-day dosage wherever appropriate.
 
 ## Attention Deficit Disorder with Hyperactivity
 
-The SPANSULE Capsule formulation is not recommended for pediatric patients younger than 6 years of age.
+The SPANSULE capsule formulation is not recommended for pediatric patients younger than 6 years of age.
 In pediatric patients 6 years of age and older, start with 5 mg once or twice daily; daily dosage may be raised in increments of 5 mg at weekly intervals until optimal response is obtained.
 Only in rare cases will it be necessary to exceed a total of 40 mg per day.
-SPANSULE Capsules may be used for once-a-day dosage wherever appropriate.
+SPANSULE capsules may be used for once-a-day dosage wherever appropriate.
 Where possible, drug administration should be interrupted occasionally to determine if there is a recurrence of behavioral symptoms sufficient to require continued therapy.

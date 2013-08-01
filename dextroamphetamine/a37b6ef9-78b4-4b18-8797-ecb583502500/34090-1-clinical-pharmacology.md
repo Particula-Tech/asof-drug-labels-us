@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Amphetamines are noncatecholamine, sympathomimetic amines with CNS stimulant activity.
 Peripheral actions include elevations of systolic and diastolic blood pressures and weak bronchodilator and respiratory stimulant action.

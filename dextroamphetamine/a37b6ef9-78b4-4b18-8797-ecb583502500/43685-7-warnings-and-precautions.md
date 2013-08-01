@@ -1,23 +1,23 @@
-# WARNING
+# WARNING:
 
 | AMPHETAMINES HAVE A HIGH POTENTIAL FOR ABUSE. ADMINISTRATION OF AMPHETAMINES FOR PROLONGED PERIODS OF TIME MAY LEAD TO DRUG DEPENDENCE AND MUST BE AVOIDED. PARTICULAR ATTENTION SHOULD BE PAID TO THE POSSIBILITY OF SUBJECTS OBTAINING AMPHETAMINES FOR NON-THERAPEUTIC USE OR DISTRIBUTION TO OTHERS, AND THE DRUGS SHOULD BE PRESCRIBED OR DISPENSED SPARINGLY. MISUSE OF AMPHETAMINES MAY CAUSE SUDDEN DEATH AND SERIOUS CARDIOVASCULAR ADVERSE EVENTS. |
 | --- |
 
-DESCRIPTION
+DESCRIPTION:
 
-Dexedrine (dextroamphetamine sulfate) is the dextro isomer of the compound d,l-amphetamine sulfate, a sympathomimetic amine of the amphetamine group.
+DEXEDRINE (dextroamphetamine sulfate) is the dextro isomer of the compound d,1-amphetamine sulfate, a sympathomimetic amine of the amphetamine group.
 Chemically, dextroamphetamine is d-alpha-methylphenethylamine, and is present in all forms of DEXEDRINE as the neutral sulfate.
 
-Structural formula
+Structural formula:
 
-SPANSULE capsules: Each spansule sustained-release capsule is so prepared that an initial dose is released promptly and the remaining medication is released gradually over a prolonged period.
+SPANSULE capsules: Each SPANSULE sustained-release capsule is so prepared that an initial dose is released promptly and the remaining medication is released gradually over a prolonged period.
 Each capsule, with brown cap and clear body, contains dextroamphetamine sulfate.
-The 5-mg capsule is imprinted 5 mg and 3512 on the brown cap and is imprinted 5 mg and SB on the clear body.
-The 10-mg capsule is imprinted 10 mg—3513—on the brown cap and is imprinted 10 mg—SB—on the clear body.
-The 15-mg capsule is imprinted 15 mg and 3514 on the brown cap and is imprinted 15 mg and SB on the clear body.
-A narrow bar appears above and below 15 mg and 3514.
+The 5-mg capsule is imprinted 5 mg and 512 on the brown cap and is imprinted 5 mg and ap on the clear body.
+The 10-mg capsule is imprinted 10 mg—513—on the brown cap and is imprinted 10 mg—ap—on the clear body.
+The 15-mg capsule is imprinted 15 mg and 514 on the brown cap and is imprinted 15 mg and ap on the clear body.
+A narrow bar appears above and below 15 mg and 514.
 Product reformulation in 1996 has caused a minor change in the color of the time-released pellets within each capsule.
-Inactive ingredients now consist of cetyl alcohol, D&C Yellow No. 10, dibutyl sebacate, ethylcellulose, FD&C Blue No. 1, FD&C Blue No. 1 aluminum lake, FD&C Red No. 40, FD&C Yellow No. 6, gelatin, hypromellose, propylene glycol, povidone, silicon dioxide, sodium lauryl sulfate, sugar spheres, and trace amounts of other inactive ingredients.
+Inactive ingredients now consist of cetyl alcohol, D&C Yellow No. 10, dibutyl sebacate, ethylcellulose, FD&C Blue No. 1, FD&C Blue No. 1 aluminum lake, FD&C Red No. 40, FD&C Yellow No. 6, gelatin, hypromellose, polyethylene glycol, povidone, sodium lauryl sulfate, sugar spheres, and trace amounts of other inactive ingredients.
 
 # WARNINGS
 
@@ -38,11 +38,11 @@ Adults with such abnormalities should also generally not be treated with stimula
 
 ## Hypertension and Other Cardiovascular Conditions
 
-Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average rate (about 3-6 bpm), and individuals may have larger increases.
+Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
 Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia (see CONTRAINDICATIONS).
 
-## Assessing Cardiovascular Status in Patients Being Treated With Stimulant Medications
+## Assessing Cardiovascular Status in Patients Being Treated with Stimulant Medications
 
 Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
 Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
@@ -80,6 +80,15 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
+## Peripheral Vasculopathy, including Raynaud’s phenomenon
+
+Stimulants, including DEXEDRINE, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
 ## Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
@@ -98,6 +107,13 @@ A patient Medication Guide is available for DEXEDRINE.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
+
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+
+- Instruct patients beginning treatment with DEXEDRINE about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking DEXEDRINE.
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## Drug Interactions
 
