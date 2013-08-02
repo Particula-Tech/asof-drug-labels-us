@@ -27,7 +27,7 @@ Staphylococci resistant to erythromycin may emerge during a course of erythromyc
 
 Erythromycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Gram-positive organisms:
+Gram-positive Organisms:
 
 - Corynebacterium diphtheriae
 - Corynebacterium minutissimum
@@ -36,13 +36,13 @@ Gram-positive organisms:
 - Streptococcus pneumoniae
 - Streptococcus pyogenes
 
-Gram-negative organisms:
+Gram-negative Organisms:
 
 - Bordetella pertussis
 - Legionella pneumophila
 - Neisseria gonorrhoeae
 
-Other microorganisms:
+Other Microorganisms:
 
 - Chlamydia trachomatis
 - Entamoeba histolytica
@@ -52,7 +52,7 @@ Other microorganisms:
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-Erythromycin exhibits in vitro minimal inhibitory concentrations (MIC 's) of 0.5 µg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of erythromycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Erythromycin exhibits in vitro minimal inhibitory concentrations (MIC's) of 0.5 μg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of erythromycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 Gram-positive organisms:
 
@@ -66,17 +66,17 @@ Gram-negative organisms:
 
 #### Dilution Techniques
 
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MIC 's).
-These MIC 's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MIC 's should be determined using a standardized procedure.
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MIC's).
+These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MIC's should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of erythromycin powder.
 The MIC values should be interpreted according to the following criteria:
 
 | MIC (µg/mL) | Interpretation |
 | --- | --- |
-| ≤0.5 | Susceptible (S) |
+| ≤ 0.5 | Susceptible (S) |
 | 1-4 | Intermediate (I) |
-| ≥8 | Resistant (R) |
+| ≥ 8 | Resistant (R) |
 
 A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -96,9 +96,9 @@ Standard erythromycin powder should provide the following MIC values:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 15-µg erythromycin to test the susceptibility of microorganisms to erythromycin.
+This procedure uses paper disks impregnated with 15-μg erythromycin to test the susceptibility of microorganisms to erythromycin.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 15-µg erythromycin disk should be interpreted according to the following criteria:
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 15-μg erythromycin disk should be interpreted according to the following criteria:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -110,7 +110,7 @@ Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for erythromycin.
 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 15-µg erythromycin disk should provide the following zone diameters in these laboratory test quality control strains:
+For the diffusion technique, the 15-μg erythromycin disk should provide the following zone diameters in these laboratory test quality control strains:
 
 | Microorganism | Zone Diameter (mm) |
 | --- | --- |

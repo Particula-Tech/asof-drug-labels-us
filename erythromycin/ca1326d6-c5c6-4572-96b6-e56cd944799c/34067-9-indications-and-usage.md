@@ -9,11 +9,11 @@ Erythromycin Base Film-coated tablets are indicated in the treatment of infectio
 Upper respiratory tract infections of mild to moderate degree caused by Streptococcus pyogenes; Streptococcus pneumoniae; Haemophilus influenzae (when used concomitantly with adequate doses of sulfonamides, since many strains of H. influenzae are not susceptible to the erythromycin concentrations ordinarily achieved).
 (See appropriate sulfonamide labeling for prescribing information.)
 
-Lower respiratory tract infections of mild to moderate severity caused by Streptococcus pyogenes or Streptococcus pneumoniae
+Lower respiratory tract infections of mild to moderate severity caused by Streptococcus pyogenes or Streptococcus pneumoniae.
 
 Listeriosis caused by Listeria monocytogenes.
 
-Respiratory tract infections due to Mycoplasma pneumoniae
+Respiratory tract infections due to Mycoplasma pneumoniae.
 
 Skin and skin structure infections of mild to moderate severity caused by Streptococcus pyogenes or Staphylococcus aureus (resistant staphylococci may emerge during treatment).
 
@@ -28,8 +28,8 @@ Erythrasma: In the treatment of infections due to Corynebacterium minutissimum.
 Intestinal amebiasis caused by Entamoeba histolytica (oral erythromycins only).
 Extraenteric amebiasis requires treatment with other agents.
 
-Acute pelvic inflammatory disease caused by Neisseria gonorrhoeae: Erythrocin® Lactobionate-I.
-V. (erythromycin lactobionate for injection, USP) followed by erythromycin base orally, as an alternative drug in treatment of acute pelvic inflammatory disease caused by N. gonorrhoeae in female patients with a history of sensitivity to penicillin.
+Acute pelvic inflammatory disease caused by Neisseria gonorrhoeae: Erythrocin® Lactobionate-I.V.
+(erythromycin lactobionate for injection, USP) followed by erythromycin base orally, as an alternative drug in treatment of acute pelvic inflammatory disease caused by N. gonorrhoeae in female patients with a history of sensitivity to penicillin.
 Patients should have a serologic test for syphilis before receiving erythromycin as treatment of gonorrhea and a follow-up serologic test for syphilis after 3 months.
 
 Erythromycins are indicated for treatment of the following infections caused by Chlamydia trachomatis: conjunctivitis of the newborn, pneumonia of infancy, and urogenital infections during pregnancy.
