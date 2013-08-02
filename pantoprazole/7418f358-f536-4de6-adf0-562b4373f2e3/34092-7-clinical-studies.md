@@ -10,9 +10,9 @@ The percentages of patients healed (per protocol, n = 541) in this study are sho
 
 Table 7: Erosive Esophagitis Healing Rates (Per Protocol)
 
-| 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) |  |  |
-| --- | --- | --- | --- | --- |
 | Week | Pantoprazole Sodium Delayed-Release Tablets |  |  | Placebo (n = 68) |
+| --- | --- | --- | --- | --- |
+| 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) |  |  |
 | 4 | 45.6%+ | 58.4%+# | 75%+* | 14.3% |
 | 8 | 66%+ | 83.5%+# | 92.6%+* | 39.7% |
 | + (p < 0.001) pantoprazole sodium delayed-release tablets versus placebo * (p < 0.05) versus 10 mg or 20 mg pantoprazole sodium delayed-release tablets # (p < 0.05) versus 10 mg pantoprazole sodium delayed-release tablets |  |  |  |  |
@@ -27,9 +27,9 @@ The percentages of patients healed (per protocol, n = 212) are shown in Table 8.
 
 Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 
-| 20 mg daily (n = 72) | 40 mg daily (n = 70) |  |  |
-| --- | --- | --- | --- |
 | Week | Pantoprazole Sodium Delayed-Release Tablets |  | Nizatidine 150 mg twice daily (n = 70) |
+| --- | --- | --- | --- |
+| 20 mg daily (n = 72) | 40 mg daily (n = 70) |  |  |
 | 4 | 61.4%+ | 64%+ | 22.2% |
 | 8 | 79.2%+ | 82.9%+ | 41.4% |
 | + (p < 0.001) pantoprazole sodium delayed-release tablets versus nizatidine |  |  |  |
@@ -38,8 +38,12 @@ Once-daily treatment with pantoprazole sodium delayed-release tablets 40 mg or 2
 For the 40 mg treatment group, significantly greater healing rates compared to nizatidine were achieved regardless of the H. pylori status.
 A significantly greater proportion of the patients in the pantoprazole sodium delayed-release tablets treatment groups experienced complete relief of nighttime heartburn and regurgitation, starting on the first day and of daytime heartburn on the second day, compared with those taking nizatidine 150 mg twice daily.
 Patients taking pantoprazole sodium delayed-release tablets consumed significantly fewer antacid tablets per day than those taking nizatidine.
-Clinical study information in pediatric patients ages five years through 16 years with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.’s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients Ages 5 Years through 16 Years
+
+The efficacy of pantoprazole sodium delayed-release tablets in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well-conducted trials in adults, as the pathophysiology is thought to be the same.
+Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
+Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole sodium delayed-release tablets (20 mg or 40 mg).
+All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
 
@@ -50,7 +54,7 @@ In addition, pantoprazole sodium delayed-release tablets 40 mg was superior to a
 
 Table 9: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
 
-|  | Pantoprazole Sodium Delayed-Release Tablets 20 mg daily | Pantoprazole Sodium Delayed-Release Tablets 40 mg daily | Ranitidine 150 mg twice daily |
+|  | Pantoprazole Sodium Delayed- Release Tablets 20 mg daily | Pantoprazole Sodium Delayed- Release Tablets 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
 | Study 1 | n = 75 | n = 74 | n = 75 |
 | Month 1 | 91* | 99* | 68 |
@@ -70,17 +74,17 @@ Pantoprazole sodium delayed-release tablets 20 mg, administered once daily, were
 
 Table 10: Number of Episodes of Heartburn (mean ± SD)
 
-|  |  | Pantoprazole Sodium Delayed-Release Tablets 40 mg daily | Ranitidine 150 mg twice daily |
+|  |  | Pantoprazole Sodium Delayed- Release Tablets 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
 | Month 1 | Daytime | 5.1 ± 1.6* | 18.3 ± 1.6 |
 | Nighttime | 3.9 ± 1.1* | 11.9 ± 1.1 |  |
 | Month 12 | Daytime | 2.9 ± 1.5* | 17.5 ± 1.5 |
 | Nighttime | 2.5 ± 1.2* | 13.8 ± 1.3 |  |
-| * (p < 0.001 vs. ranitidine, combined data from the two U.S. studies) |  |  |  |
+| *(p < 0.001 vs. ranitidine, combined data from the two U.S. studies) |  |  |  |
 
 ## 14.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
 In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole sodium delayed-release tablets successfully controlled gastric acid secretion.
 Doses ranging from 80 mg daily to 240 mg daily maintained gastric acid output below 10 mEq/h in patients without prior acid-reducing surgery and below 5 mEq/h in patients with prior acid-reducing surgery.
-Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [see Dosage and Administration (2)] .
+Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [see Dosage and Administration (2)].
 Pantoprazole sodium delayed-release tablets were well tolerated at these dose levels for prolonged periods (greater than 2 years in some patients).

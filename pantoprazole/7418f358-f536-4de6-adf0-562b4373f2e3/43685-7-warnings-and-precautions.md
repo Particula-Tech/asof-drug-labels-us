@@ -2,7 +2,7 @@
 
 ## 5.1 Concurrent Gastric Malignancy
 
-Symptomatic response to therapy with pantoprazole sodium delayed-release tablets do not preclude the presence of gastric malignancy.
+Symptomatic response to therapy with pantoprazole sodium delayed-release tablets does not preclude the presence of gastric malignancy.
 
 ## 5.2 Atrophic Gastritis
 
@@ -14,32 +14,38 @@ Generally, daily treatment with any acid-suppressing medications over a long per
 Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature.
 This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed.
 
-## 5.4 Bone Fracture
+## 5.4 Clostridium difficile Associated Diarrhea
+
+Published observational studies suggest that PPI therapy like pantoprazole sodium delayed-release tablets may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
+Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
+
+## 5.5 Bone Fracture
 
 Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.2)] .
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.2)].
 
-## 5.5 Hypomagnesemia
+## 5.6 Hypomagnesemia
 
 Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)] .
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.6 Tumorigenicity
+## 5.7 Tumorigenicity
 
 Due to the chronic nature of GERD, there may be a potential for prolonged administration of pantoprazole sodium delayed-release tablets.
 In long-term rodent studies, pantoprazole was carcinogenic and caused rare types of gastrointestinal tumors.
-The relevance of these findings to tumor development in humans is unknown [see Nonclinical Toxicology (13.1)] .
+The relevance of these findings to tumor development in humans is unknown [see Nonclinical Toxicology (13.1)].
 
-## 5.7 Interference with Urine Screen for THC
+## 5.8 Interference with Urine Screen for THC
 
-See Drug Interactions (7.5) .
+See Drug Interactions (7.5).
 
-## 5.8 Concomitant use of Pantoprazole Sodium Delayed-Released Tablets with Methotrexate
+## 5.9 Concomitant use of Pantoprazole Sodium Delayed-Release Tablets with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients.
-[ see Drug Interactions (7.6) ]
+[see Drug Interactions (7.6)]
