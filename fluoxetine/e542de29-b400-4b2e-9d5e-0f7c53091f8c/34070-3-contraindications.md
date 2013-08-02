@@ -1,12 +1,15 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-SARAFEM is contraindicated in patients known to be hypersensitive to it.
+## 4.1 Monoamine Oxidase Inhibitors
 
-Monoamine oxidase inhibitors — There have been reports of serious, sometimes fatal, reactions (including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma) in patients receiving fluoxetine in combination with a monoamine oxidase inhibitor (MAOI), and in patients who have recently discontinued fluoxetine and are then started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Therefore, fluoxetine should not be used in combination with an MAOI, or within a minimum of 14 days of discontinuing therapy with an MAOI.
-Since fluoxetine and its major metabolite have very long elimination half-lives, at least 5 weeks [perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses (see Accumulation and slow elimination underCLINICAL PHARMACOLOGY)] should be allowed after stopping fluoxetine before starting an MAOI.
+The use of MAOIs intended to treat psychiatric disorders with SARAFEM or within 5 weeks of stopping treatment with SARAFEM is contraindicated because of an increased risk of serotonin syndrome.
+The use of SARAFEM within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [see Dosage and Administration (2.4) and Warnings and Precautions (5.2)].
 
-Pimozide — Concomitant use in patients taking pimozide is contraindicated (see Antipsychotics underPRECAUTIONS, Drug Interactions).
+Starting SARAFEM in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [see Dosage and Administration (2.5) and Warnings and Precautions (5.2)].
 
-Thioridazine — Thioridazine should not be administered with SARAFEM or within a minimum of 5 weeks after SARAFEM has been discontinued (see WARNINGS).
+## 4.2 Other Contraindications
+
+The use of SARAFEM is contraindicated with the following:
+
+- Pimozide [see Drug Interactions (7.9)]
+- Thioridazine [see Drug Interactions (7.9)]

@@ -1,45 +1,46 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
-The mechanism of action of fluoxetine in premenstrual dysphoric disorder (PMDD) is unknown, but is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin.
+Although the exact mechanism of SARAFEM is unknown, it is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin.
+
+## 12.2 Pharmacodynamics
+
 Studies at clinically relevant doses in humans have demonstrated that fluoxetine blocks the uptake of serotonin into human platelets.
 Studies in animals also suggest that fluoxetine is a much more potent uptake inhibitor of serotonin than of norepinephrine.
 
-Antagonism of muscarinic, histaminergic, and α1-adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects of certain psychoactive drugs.
-Fluoxetine has little affinity for these receptors.
+Antagonism of muscarinic, histaminergic, and α1-adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects of classical tricyclic antidepressant (TCA) drugs.
+Fluoxetine binds to these and other membrane receptors from brain tissue much less potently in vitro than do the tricyclic drugs.
 
 Enantiomers — Fluoxetine is a racemic mixture (50/50) of R-fluoxetine and S-fluoxetine enantiomers.
 In animal models, both enantiomers are specific and potent serotonin uptake inhibitors with essentially equivalent pharmacologic activity.
 The S-fluoxetine enantiomer is eliminated more slowly and is the predominant enantiomer present in plasma at steady state.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-Absorption —Mean plasma fluoxetine concentrations following single-dose administration of SARAFEM 20 mg tablets are shown in Figure 1; fluoxetine and norfluoxetine pharmacokinetic parameters are shown in Table 1.
+Systemic Bioavailability/Absorption —Mean plasma fluoxetine concentrations following single-dose administration of SARAFEM 20 mg tablets are shown in Figure 1; fluoxetine and norfluoxetine pharmacokinetic parameters are shown in Table 7.
 
-Table 1.
+Table 7.
+Summary of Mean Pharmacokinetic Parameters Following Single-Dose Administration of SARAFEM 20 mg Tablets to Healthy Female Volunteers (n = 23) (Cmax and AUC(0-t): shown as Mean (% Coefficient of Variation); Tmax and T1/2: shown as median (range))
 
-| Summary of Mean Pharmacokinetic Parameters Following Single-Dose Administration of SARAFEM 20 mg Tablets to Healthy Female Volunteers (n = 23) (Cmax and AUC(0-t): shown as Mean (% Coefficient of Variation); Tmax and T1/2: shown as median (range)) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Dose | Analyte | Cmax(ng/mL) | Tmax(hour) | AUC(0-t)(ng·h/mL) | T1/2 3 subjects had longer fluoxetine elimination half-life values ranging from 100-300 hours; see Clinical issues relating to metabolism/elimination for more information on “poor metabolizers”(hour) |
+| --- | --- | --- | --- | --- | --- |
 | SARAFEM 20 mg | Fluoxetine | 13.2 (22) | 8.0 (2.0-10.0) | 722.4 (138) | 26.5 (15.7-310.0) |
 | Norfluoxetine | 9.7 (37) | 48.0 (11.0-144.0) | 2114.3 (41) | 110.4 (66.8-308.0) |  |
 
-Food does not appear to affect the systemic bioavailability of fluoxetine, although it may delay its absorption inconsequentially.
+Food does not appear to affect the systemic bioavailability of fluoxetine, although it may delay its absorption by 1 to 2 hours, which is probably not clinically significant.
 Thus, fluoxetine may be administered with or without food.
 
-Distribution — Over the concentration range from 200 to 1000 ng/mL, approximately 94.5% of fluoxetine is bound in vitro to human serum proteins, including albumin and α1-glycoprotein.
-The interaction between fluoxetine and other highly protein-bound drugs has not been fully evaluated, but may be important (see PRECAUTIONS).
+Protein Binding — Over the concentration range from 200 to 1000 ng/mL, approximately 94.5% of fluoxetine is bound in vitro to human serum proteins, including albumin and α1-glycoprotein.
+The interaction between fluoxetine and other highly protein-bound drugs has not been fully evaluated, but may be important [see Drug Interactions (7.8 and 7.9)].
 
 Metabolism — Fluoxetine is extensively metabolized in the liver to norfluoxetine and a number of other unidentified metabolites.
 The only identified active metabolite, norfluoxetine, is formed by demethylation of fluoxetine.
 In animal models, S-norfluoxetine is a potent and selective inhibitor of serotonin uptake and has activity essentially equivalent to R- or S-fluoxetine.
 R-norfluoxetine is significantly less potent than the parent drug in the inhibition of serotonin uptake.
 
-Clinical issues related to metabolism/elimination — The complexity of the metabolism of fluoxetine has several consequences that may potentially affect fluoxetine’s clinical use.
-
-Variability in metabolism — A subset (about 7%) of the population has reduced activity of the drug metabolizing enzyme cytochrome P450 2D6 (CYP2D6).
-Such individuals are referred to as “poor metabolizers” of drugs such as debrisoquin, dextromethorphan, and the tricyclic antidepressants (TCAs).
+Variability in Metabolism — A subset (about 7%) of the population has reduced activity of the drug metabolizing enzyme cytochrome P450 2D6 (CYP2D6).
+Such individuals are referred to as “poor metabolizers” of drugs such as debrisoquin, dextromethorphan, and the TCAs.
 In a study involving labeled and unlabeled enantiomers administered as a racemate, these individuals metabolized S-fluoxetine at a slower rate and thus achieved higher concentrations of S-fluoxetine.
 Consequently, concentrations of S-norfluoxetine at steady state were lower.
 The metabolism of R-fluoxetine in these poor metabolizers appears normal.
@@ -48,11 +49,11 @@ Thus, the net pharmacodynamic activities were essentially the same.
 Alternative, nonsaturable pathways (non-2D6) also contribute to the metabolism of fluoxetine.
 This explains how fluoxetine achieves a steady-state concentration rather than increasing without limit.
 
-Because fluoxetine’s metabolism, like that of a number of other compounds including TCAs and other SSRIs, involves the CYP2D6 system, concomitant therapy with drugs also metabolized by this enzyme system (such as the TCAs) may lead to drug interactions (see Drug InteractionsunderPRECAUTIONS).
+Because fluoxetine’s metabolism, like that of a number of other compounds including TCAs and other selective serotonin reuptake inhibitors (SSRIs), involves the CYP2D6 system, concomitant therapy with drugs also metabolized by this enzyme system (such as the TCAs) may lead to drug interactions [see Drug Interactions (7.9)].
 
-Excretion — The primary route of elimination of fluoxetine appears to be hepatic metabolism to inactive metabolites that are then excreted by the kidney.
+Excretion — The primary route of elimination appears to be hepatic metabolism to inactive metabolites excreted by the kidney.
 
-Accumulation and slow elimination — The relatively slow elimination of fluoxetine (elimination half-life of 1 to 3 days after acute administration and 4 to 6 days after chronic administration) and its active metabolite, norfluoxetine (elimination half-life of 4 to 16 days after acute and chronic administration), leads to significant accumulation of these active species in chronic use and delayed attainment of steady-state, even when a fixed dose is used.
+Accumulation and Slow Elimination — The relatively slow elimination of fluoxetine (elimination half-life of 1 to 3 days after acute administration and 4 to 6 days after chronic administration) and its active metabolite, norfluoxetine (elimination half-life of 4 to 16 days after acute and chronic administration), leads to significant accumulation of these active species in chronic use and delayed attainment of steady state, even when a fixed dose is used [see Warnings and Precautions (5.12)].
 After 30 days of dosing at 40 mg/day, plasma concentrations of fluoxetine in the range of 91 to 302 ng/mL and norfluoxetine in the range of 72 to 258 ng/mL have been observed.
 Plasma concentrations of fluoxetine were higher than those predicted by single-dose studies, because fluoxetine’s metabolism is not proportional to dose.
 Norfluoxetine, however, appears to have linear pharmacokinetics.
@@ -62,16 +63,10 @@ Steady-state levels after prolonged dosing are similar to levels seen at 4 to 5 
 The long elimination half-lives of fluoxetine and norfluoxetine assure that, even when dosing is stopped, active drug substance will persist in the body for weeks (primarily depending on individual patient characteristics, previous dosing regimen, and length of previous therapy at discontinuation).
 This is of potential consequence when drug discontinuation is required or when drugs are prescribed that might interact with fluoxetine and norfluoxetine following the discontinuation of SARAFEM.
 
-## Special Populations
-
-Liver disease — As might be predicted from its primary site of metabolism, liver impairment can affect the elimination of fluoxetine.
+Hepatic Impairment — As might be predicted from its primary site of metabolism, liver impairment can affect the elimination of fluoxetine.
 The elimination half-life of fluoxetine was prolonged in a study of cirrhotic patients, with a mean of 7.6 days compared with the range of 2 to 3 days seen in subjects without liver disease; norfluoxetine elimination was also delayed, with a mean duration of 12 days for cirrhotic patients compared with the range of 7 to 9 days in normal subjects.
 This suggests that the use of fluoxetine in patients with liver disease must be approached with caution.
-If fluoxetine is administered to patients with liver disease, a lower or less frequent dose should be used (see Use in Patients with Concomitant Illness underPRECAUTIONS, GeneralandDOSAGE AND ADMINISTRATION).
+If fluoxetine is administered to patients with liver disease, a lower or less frequent dose should be used [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
-Renal disease — In depressed patients on dialysis (N = 12), fluoxetine administered as 20 mg once daily for 2 months produced steady-state fluoxetine and norfluoxetine plasma concentrations comparable with those seen in patients with normal renal function.
-While the possibility exists that renally excreted metabolites of fluoxetine may accumulate to higher levels in patients with severe renal dysfunction, use of a lower or less frequent dose is not routinely necessary in renally impaired patients (see Use in Patients with Concomitant Illness underPRECAUTIONS, GeneralandDOSAGE AND ADMINISTRATION).
-
-Pediatric: Safety and effectiveness in the pediatric population have not been established (seeBOXED WARNING and WARNINGS, Clinical Worsening and Suicide Risk, Pediatric use).
-
-Geriatric: The diagnosis of PMDD is not applicable to postmenopausal women.
+Renal Impairment — In depressed patients on dialysis (N = 12), fluoxetine administered as 20 mg once daily for 2 months produced steady-state fluoxetine and norfluoxetine plasma concentrations comparable with those seen in patients with normal renal function.
+While the possibility exists that renally excreted metabolites of fluoxetine may accumulate to higher levels in patients with severe renal dysfunction, use of a lower or less frequent dose is not routinely necessary in renally impaired patients.

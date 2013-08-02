@@ -1,0 +1,72 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+See the FDA-approved Medication Guide.
+
+## 17.1 General Information
+
+Healthcare providers should instruct their patients to read the Medication Guide before starting therapy with SARAFEM and to reread it each time the prescription is renewed.
+
+Healthcare providers should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with SARAFEM and should counsel them in its appropriate use.
+Healthcare providers should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
+
+Patients should be advised of the following issues and asked to alert their healthcare provider if these occur while taking SARAFEM.
+
+## 17.2 Clinical Worsening and Suicide Risk
+
+Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Boxed Warning and Warnings and Precautions (5.1)].
+
+## 17.3 Serotonin Syndrome
+
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of SARAFEM and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+
+Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (for example, agitation, hallucinations, delirium, and coma), autonomic instability (for example, tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (for example, tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (for example, nausea, vomiting, diarrhea).
+Patients should be cautioned to seek medical care immediately if they experience these symptoms.
+
+## 17.4 Allergic Reactions and Rash
+
+Patients should be advised to notify their physician if they develop a rash or hives [see Warnings and Precautions (5.3)].
+Patients should also be advised of the signs and symptoms associated with a severe allergic reaction, including swelling of the face, eyes, or mouth, or trouble breathing.
+Patients should be cautioned to seek medical care immediately if they experience these symptoms.
+
+## 17.5 Abnormal Bleeding
+
+Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.6)].
+Patients should be advised to call their doctor if they experience any increased or unusual bruising or bleeding while taking SARAFEM.
+
+## 17.6 Hyponatremia
+
+Patients should be advised that hyponatremia has been reported as a result of treatment with SNRIs and SSRIs, including SARAFEM.
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death [see Warnings and Precautions (5.8)].
+
+## 17.7 Potential for Cognitive and Motor Impairment
+
+SARAFEM may impair judgment, thinking, or motor skills.
+Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.11)].
+
+## 17.8 Use of Concomitant Medications
+
+Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Prozac, Prozac Weekly, or over-the-counter drugs, including herbal supplements or alcohol.
+Patients should also be advised to inform their physicians if they plan to discontinue any medications they are taking while on SARAFEM.
+
+## 17.9 Discontinuation of Treatment
+
+Patients should be advised to take SARAFEM exactly as prescribed, and to continue taking SARAFEM as prescribed even after their symptoms improve.
+Patients should be advised that they should not alter their dosing regimen, or stop taking SARAFEM without consulting their physician [see Warnings and Precautions (5.13)].
+Patients should be advised to consult with their healthcare provider if their symptoms do not improve with SARAFEM.
+
+## 17.10 Use in Specific Populations
+
+Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
+Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
+
+Nursing Mothers — Patients should be advised to notify their physician if they intend to breastfeed an infant during therapy.
+Because fluoxetine is excreted in human milk, nursing while taking SARAFEM is not recommended [see Use in Specific Populations (8.3)].
+
+Manufactured by: Pharmaceutics International, Inc. Hunt Valley, MD 21031 Manufactured for: Warner Chilcott Company, LLC Fajardo, PR 00738 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866
+
+0210G085

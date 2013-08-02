@@ -1,6 +1,6 @@
-# CLINICAL TRIALS
+# 14 CLINICAL STUDIES
 
-## Premenstrual Dysphoric Disorder (PMDD)
+## 14.1 Premenstrual Dysphoric Disorder (PMDD)
 
 The effectiveness of SARAFEM for the treatment of PMDD was established in 3 placebo-controlled trials (1 intermittent and 2 continuous dosing).
 In an intermittent dosing trial described below, patients met Diagnostic and Statistical Manual-4th edition (DSM-IV) criteria for PMDD.
@@ -19,9 +19,10 @@ The average total VAS score decreased 7% on placebo treatment, 36% on 20 mg, and
 The difference between the 20 and 60 mg doses was not statistically significant.
 The following table shows the percentage of patients meeting criteria for either moderate or marked improvement on the VAS total score:
 
-| Percentage of Patients Moderately and Markedly Improved (>50% and 75% reduction, respectively, from baseline Luteal Phase VAS total score) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 8: Percentage of Patients Moderately and Markedly Improved (greater than 50% and 75% reduction, respectively, from baseline Luteal Phase VAS total score)
+
 | Improvement | N | Placebo | N | Fluoxetine 20 mg | N | Fluoxetine 60 mg |
+| --- | --- | --- | --- | --- | --- | --- |
 | Moderate | 94 | 11% | 95 | 37% | 85 | 38% |
 | Marked | 94 | 4% | 95 | 6% | 85 | 18% |
 
@@ -30,18 +31,4 @@ Fluoxetine was significantly more effective than placebo as measured by within c
 The average VAS total score (follicular to luteal phase increase) was 3.8 times higher during placebo treatment than what was observed during fluoxetine treatment.
 
 In another continuous dosing double-blind, parallel group study, patients with LLPDD (N = 42) were treated daily with fluoxetine 20 mg/day, bupropion 300 mg/day, or placebo for 2 months.
-Neither fluoxetine nor bupropion was shown to be superior to placebo on the primary endpoint, i.e., response rate [defined as a rating of 1 (very much improved) or 2 (much improved) on the CGI], possibly due to sample size.
-
-Rx Only
-
-Manufactured by: Pharmaceutics International, Inc. Hunt Valley, MD 21031
-
-Manufactured for: Warner Chilcott Company, LLC Fajardo, PR 00738
-
-Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866
-
-1-800-521-8813
-
-To report SUSPECTED ADVERSE REACTIONS, contact Warner Chilcott at 1-800-521-8813 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
-0210G080 Revised June 2009
+Neither fluoxetine nor bupropion was shown to be superior to placebo on the primary endpoint, that is, response rate [defined as a rating of 1 (very much improved) or 2 (much improved) on the CGI], possibly due to sample size.
