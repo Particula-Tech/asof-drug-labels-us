@@ -1,0 +1,57 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+## 2.1 Hypercalcemia of Malignancy
+
+The maximum recommended dose of Zoledronic Acid Injection in hypercalcemia of malignancy (albumin-corrected serum calcium greater than or equal to 12 mg/dL [3 mmol/L]) is 4 mg.
+The 4 mg dose must be given as a single-dose intravenous infusion over no less than 15 minutes.
+Patients who receive Zoledronic Acid Injection should have serum creatinine assessed prior to each treatment.
+
+Dose adjustments of Zoledronic Acid Injection are not necessary in treating patients for hypercalcemia of malignancy presenting with mild-to-moderate renal impairment prior to initiation of therapy (serum creatinine less than 400 μmol/L or less than 4.5 mg/dL).
+
+Patients should be adequately rehydrated prior to administration of Zoledronic Acid Injection [see Warnings And Precautions (5.2)].
+
+Consideration should be given to the severity of, as well as the symptoms of, tumor-induced hypercalcemia when considering use of Zoledronic Acid Injection.
+Vigorous saline hydration, an integral part of hypercalcemia therapy, should be initiated promptly and an attempt should be made to restore the urine output to about 2 L/day throughout treatment.
+Mild or asymptomatic hypercalcemia may be treated with conservative measures (i.e., saline hydration, with or without loop diuretics).
+Patients should be hydrated adequately throughout the treatment, but overhydration, especially in those patients who have cardiac failure, must be avoided.
+Diuretic therapy should not be employed prior to correction of hypovolemia.
+
+Retreatment with Zoledronic Acid Injection 4 mg may be considered if serum calcium does not return to normal or remain normal after initial treatment.
+It is recommended that a minimum of 7 days elapse before retreatment, to allow for full response to the initial dose.
+Renal function must be carefully monitored in all patients receiving Zoledronic Acid Injection and serum creatinine must be assessed prior to retreatment with Zoledronic Acid Injection [see Warnings And Precautions (5.2)].
+
+## 2.2 Multiple Myeloma and Metastatic Bone Lesions of Solid Tumors
+
+The recommended dose of Zoledronic Acid Injection in patients with multiple myeloma and metastatic bone lesions from solid tumors for patients with creatinine clearance (CrCl) greater than 60 mL/min is 4 mg infused over no less than 15 minutes every 3 to 4 weeks.
+The optimal duration of therapy is not known.
+
+This product is not intended for use with patients with reduced renal function (CrCl 60 mL/min or less).
+
+During treatment, serum creatinine should be measured before each Zoledronic Acid Injection dose and treatment should be withheld for renal deterioration.
+In the clinical studies, renal deterioration was defined as follows:
+
+- For patients with normal baseline creatinine, increase of 0.5 mg/dL
+- For patients with abnormal baseline creatinine, increase of 1 mg/dL
+
+In the clinical studies, Zoledronic Acid Injection treatment was resumed only when the creatinine returned to within 10% of the baseline value.
+Zoledronic Acid Injection should be reinitiated at the same dose as that prior to treatment interruption.
+
+Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 International Units of Vitamin D daily.
+
+## 2.3 Preparation of Solution
+
+Zoledronic Acid Injection must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer's solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
+
+4 mg/100 mL Single-Use Ready-to-Use Bag
+
+Bags of Zoledronic Acid Injection ready-to-use solution for infusion contain overfill allowing for the administration of 100 mL of solution (equivalent to 4 mg zoledronic acid).
+This solution is ready to use and may be administered directly to the patient without further preparation.
+For single use only.
+
+## 2.4 Method of Administration
+
+Due to the risk of clinically significant deterioration in renal function, which may progress to renal failure, single doses of Zoledronic Acid Injection should not exceed 4 mg and the duration of infusion should be no less than 15 minutes [see Warnings And Precautions (5.2)].
+In the trials and in postmarketing experience, renal deterioration, progression to renal failure and dialysis, have occurred in patients, including those treated with the approved dose of 4 mg infused over 15 minutes.
+There have been instances of this occurring after the initial Zoledronic Acid Injection dose.

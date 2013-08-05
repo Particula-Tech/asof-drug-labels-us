@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203231"
+  ],
+  "inn": "zoledronic-acid",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-826-82"
+  ],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "zoledronic acid",
+      "name": "zoledronic acid"
+    }
+  ],
+  "setid": "567578e6-cd2d-4339-b0f6-7a15444c0639",
+  "source": "dailymed"
+}
