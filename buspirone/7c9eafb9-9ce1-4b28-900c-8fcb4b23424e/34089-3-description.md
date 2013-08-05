@@ -6,7 +6,7 @@ Buspirone hydrochloride is a white crystalline, water soluble compound with a mo
 Chemically, buspirone hydrochloride is 8-[4-[4-(2-pyrimidinyl)-1-piperazinyl]butyl]-8-azaspiro[4.5]decane-7,9-dione monohydrochloride.
 The molecular formula C21H31N5O2•HCl is represented by the following structural formula:
 
-Each tablet, for oral administration, contains 5 mg, 10 mg, 15 mg or 30 mg of buspirone hydrochloride, USP (equivalent to 4.6 mg, 9.1 mg, 13.7 mg and 27.4 mg of buspirone free base, respectively).
+Each tablet, for oral administration, contains 5 mg, 7.5 mg, 10 mg, 15 mg or 30 mg of buspirone hydrochloride, USP (equivalent to 4.6 mg, 6.9 mg, 9.1 mg, 13.7 mg and 27.4 mg of buspirone free base, respectively).
 The 5 mg and 10 mg tablets are scored so they can be bisected.
 Thus, the 5 mg tablet can also provide a 2.5 mg dose, and the 10 mg tablet can provide a 5 mg dose.
 The 15 mg and 30 mg tablets are provided in a multi-scored tablet design.

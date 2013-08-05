@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Buspirone Hydrochloride Tablets, USP are available containing 5 mg, 10 mg, 15 mg or 30 mg of buspirone hydrochloride, USP.
+Buspirone Hydrochloride Tablets, USP are available containing 5 mg, 7.5 mg, 10 mg, 15 mg or 30 mg of buspirone hydrochloride, USP.
 
 The 5 mg tablet is a white, oval tablet debossed with M to the left of the score and B1 to the right of the score on one side of the tablet and blank on the other side.
 They are available as follows:
@@ -8,6 +8,13 @@ They are available as follows:
 NDC 0378-1140-01 bottles of 100 tablets
 
 NDC 0378-1140-05 bottles of 500 tablets
+
+The 7.5 mg tablet is a white to off-white, oval tablet debossed with M to the left of the score and B7 to the right of the score on one side of the tablet and blank on the other side.
+They are available as follows:
+
+NDC 0378-1145-01 bottles of 100 tablets
+
+NDC 0378-1145-05 bottles of 500 tablets
 
 The 10 mg tablet is a white, oval tablet debossed with M to the left of the score and B2 to the right of the score on one side of the tablet and blank on the other side.
 They are available as follows:

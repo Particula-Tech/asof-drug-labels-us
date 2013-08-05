@@ -38,12 +38,12 @@ See ADVERSE REACTIONS: Post-Marketing Experience.
 
 To assure safe and effective use of buspirone hydrochloride tablets, the following information and instructions should be given to patients:
 
-1. Inform your physician about any medications, prescription or nonprescription, alcohol, or drugs that you are now taking or plan to take during your treatment with buspirone.
-2. Inform your physician if you are pregnant, or if you are planning to become pregnant, or if you become pregnant while you are taking buspirone.
-3. Inform your physician if you are breast-feeding an infant.
-4. Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery.
-5. You should take buspirone consistently, either always with or always without food.
-6. During your treatment with buspirone, avoid drinking large amounts of grapefruit juice.
+1. 1.Inform your physician about any medications, prescription or nonprescription, alcohol, or drugs that you are now taking or plan to take during your treatment with buspirone.
+2. 2.Inform your physician if you are pregnant, or if you are planning to become pregnant, or if you become pregnant while you are taking buspirone.
+3. 3.Inform your physician if you are breast-feeding an infant.
+4. 4.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery.
+5. 5.You should take buspirone consistently, either always with or always without food.
+6. 6.During your treatment with buspirone, avoid drinking large amounts of grapefruit juice.
 
 ## Laboratory Tests
 

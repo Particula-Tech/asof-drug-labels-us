@@ -19,11 +19,38 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
 www.mylan.com
 
 RM1140A6
+
+PRINCIPAL DISPLAY PANEL - 7.5 mg
+
+NDC 0378-1145-01
+
+busPIRone HCl Tablets, USP 7.5 mg
+
+Rx only 100 TABLETS
+
+Each tablet contains: Buspirone hydrochloride, USP 5 mg
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Keep this and all medication out of the reach of children.
+
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+
+Usual Dosage: See accompanying prescribing information.
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+
+www.mylan.com
+
+RM1145A1
 
 PRINCIPAL DISPLAY PANEL - 10 mg
 
@@ -46,7 +73,7 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
 www.mylan.com
 
@@ -75,7 +102,7 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
 www.mylan.com
 
@@ -104,8 +131,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
 www.mylan.com
 
-RM1175D5
+RM1175D6
