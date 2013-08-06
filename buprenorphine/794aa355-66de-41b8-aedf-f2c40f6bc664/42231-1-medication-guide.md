@@ -5,7 +5,7 @@
 | Do not use BUTRANS if you have: severe asthma, trouble breathing, or other lung problems.a bowel blockage or have narrowing of the stomach or intestines. |
 | Before applying BUTRANS, tell your healthcare provider if you have a history of: head injury, seizuresliver, kidney, thyroid problemsproblems urinatingheart rhythm problems (Long QT syndrome)pancreas or gallbladder problemsabuse of street or prescription drugs, alcohol addiction, or mental health problems. Tell your healthcare provider if you: have a fever.are pregnant or planning to become pregnant. BUTRANS may harm your unborn baby.are breastfeeding. BUTRANS passes into breast milk and may harm your baby.are taking prescription or over-the-counter medicines, vitamins, or herbal supplements. |
 | While using BUTRANS: Do not change your dose. Apply BUTRANS exactly as prescribed by your healthcare provider.See the detailed Instructions for Use for information about how to apply and dispose of the BUTRANS patch.Do not apply a BUTRANS patch if the pouch seal is broken, or the patch is cut, damaged, or changed in any way.Do not apply more than 1 patch at the same time unless your healthcare provider tells you to.You should wear 1 BUTRANS patch continuously for 7 days.Call your healthcare provider if the dose you are taking does not control your pain.Do not stop using BUTRANS without talking to your healthcare provider. |
-| While using BUTRANS Do Not: Take hot baths or sunbathe, use hot tubs, saunas, heating pads, electric blankets, heated waterbeds, or tanning lamps. These can cause an overdose that can lead to death.Drive or operate heavy machinery,until you know how BUTRANS affects you. BUTRANS can make you sleepy, dizzy, or lightheaded.Drink alcohol or use prescription or over-the-counter medicines that contain alcohol. |
+| While using BUTRANS Do Not: Take hot baths or sunbathe, use hot tubs, saunas, heating pads, electric blankets, heated waterbeds, or tanning lamps. These can cause an overdose that can lead to death.Drive or operate heavy machinery, until you know how BUTRANS affects you. BUTRANS can make you sleepy, dizzy, or lightheaded.Drink alcohol or use prescription or over-the-counter medicines that contain alcohol. |
 | The possible side effects of BUTRANS are: constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, itching, redness or rash where the patch is applied. Call your healthcare provider if you have any of these symptoms and they are severe. |
 | Get emergency medical help if you have: trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, or you are feeling faint. These are not all the possible side effects of BUTRANS. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. For more information go to dailymed.nlm.nih.gov Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431, www.purduepharma.com or call 1-888-726-7535 |
 
@@ -25,7 +25,7 @@ Before Applying Butrans:
 - Each patch is sealed in its own protective pouch.
   Do not remove a patch from the pouch until you are ready to use it.
 - Do not use a patch if the seal on the protective pouch is broken or if the patch is cut, damaged or changed in any way.
-- Butrans patches are available in 3 different strengths and patch sizes.
+- Butrans patches are available in different strengths and patch sizes.
   Make sure you have the right strength patch that has been prescribed for you.
 
 Where to apply Butrans:

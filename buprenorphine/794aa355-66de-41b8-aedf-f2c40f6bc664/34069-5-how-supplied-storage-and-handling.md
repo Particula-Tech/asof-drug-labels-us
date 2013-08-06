@@ -6,6 +6,8 @@ BUTRANS 5 mcg/hour Transdermal System, 4-count carton NDC 59011-750-04
 
 BUTRANS 10 mcg/hour Transdermal System, 4-count carton NDC 59011-751-04
 
+BUTRANS 15 mcg/hour Transdermal System, 4-count carton NDC 59011-758-04
+
 BUTRANS 20 mcg/hour Transdermal System, 4-count carton NDC 59011-752-04
 
 Store at 25°C (77°F); excursions permitted between 15°C - 30°C (59°F - 86°F).

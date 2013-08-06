@@ -8,8 +8,8 @@ The molecular weight of buprenorphine is 467.6; the empirical formula is C29H41N
 Buprenorphine occurs as a white or almost white powder and is very slightly soluble in water, freely soluble in acetone, soluble in methanol and ether, and slightly soluble in cyclohexane.
 The pKa is 8.5 and the melting point is about 217°C.
 
-System Components and Structure Three different strengths of BUTRANS are available: 5, 10, and 20 mcg/hour (Table 5).
-The proportion of buprenorphine mixed in the adhesive matrix is the same in each of the 3 strengths.
+System Components and Structure Four different strengths of BUTRANS are available: 5, 10, 15, and 20 mcg/hour (Table 5).
+The proportion of buprenorphine mixed in the adhesive matrix is the same in each of the four strengths.
 The amount of buprenorphine released from each system per hour is proportional to the active surface area of the system.
 The skin is the limiting barrier to diffusion from the system into the bloodstream.
 
@@ -19,6 +19,7 @@ Table 5: BUTRANS Product Specifications
 | --- | --- | --- |
 | BUTRANS 5 | 6.25 | 5 |
 | BUTRANS 10 | 12.5 | 10 |
+| BUTRANS 15 | 18.75 | 15 |
 | BUTRANS 20 | 25 | 20 |
 
 BUTRANS is a rectangular or square, beige-colored system consisting of a protective liner and functional layers.

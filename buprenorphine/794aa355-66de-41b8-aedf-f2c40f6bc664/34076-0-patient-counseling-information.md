@@ -9,7 +9,7 @@ Life-Threatening Respiratory Depression Discuss the risk of respiratory depressi
 Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
 
 Accidental Exposure Instruct patients to take steps to store BUTRANS securely.
-Accidental exposure, especially in children, may results in serious harm or death.
+Accidental exposure, especially in children, may result in serious harm or death.
 Advise patients to dispose of unused BUTRANS folding in half and flushing down the toilet.
 
 Risks from Concomitant Use of Alcohol and other CNS Depressants Inform patients that the concomitant use of alcohol with BUTRANS can increase the risk of life-threatening respiratory depression.
@@ -48,4 +48,4 @@ Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: LTS
 
 U.S. Patent Numbers 5681413; 5804215; 6264980; 6315854; 6344211; RE41408; RE41489; RE41571.
 
-© 2012, Purdue Pharma L.P.
+© 2013, Purdue Pharma L.P.
