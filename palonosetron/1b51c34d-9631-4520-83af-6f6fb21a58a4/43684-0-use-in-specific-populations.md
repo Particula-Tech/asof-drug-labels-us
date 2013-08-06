@@ -28,7 +28,7 @@ Of the 1374 adult cancer patients in clinical studies of palonosetron, 316 (23%)
 No overall differences in safety or effectiveness were observed between these subjects and the younger subjects, but greater sensitivity in some older individuals cannot be ruled out.
 No dose adjustment or special monitoring are required for geriatric patients.
 
-Of the 1520 adult patients in Aloxi PONV clinical studies, 73 (5%) were ≥ 65 years old.
+Of the 1520 adult patients in Aloxi PONV clinical studies, 73 (5%) were ≥65 years old.
 No overall differences in safety were observed between older and younger subjects in these studies, though the possibility of heightened sensitivity in some older individuals cannot be excluded.
 No differences in efficacy were observed in geriatric patients for the CINV indication and none are expected for geriatric PONV patients.
 However, Aloxi efficacy in geriatric patients has not been adequately evaluated.

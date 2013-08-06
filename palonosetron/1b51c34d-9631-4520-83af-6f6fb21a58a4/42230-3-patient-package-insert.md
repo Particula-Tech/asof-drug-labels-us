@@ -1,6 +1,6 @@
 Patient Information
 
-Aloxi (Ah-lock-see)
+Aloxi® (Ah-lock-see) Palonosetron HCl injection
 
 Read the Patient Information that comes with ALOXI before your treatment with ALOXI and each time you get ALOXI.
 There may be new information.
@@ -83,6 +83,6 @@ HELSINN, Mfd for Helsinn Healthcare SA, Switzerland
 
 Eisai, Inc. Distributed and marketed by Eisai Inc., Woodcliff Lake, NJ 07677 under license of Helsinn Healthcare SA, Switzerland
 
-ALOXI is a registered trademark of Helsinn Healthcare, SA, Lugano, Switzerland
+ALOXI® is a registered trademark of Helsinn Healthcare, SA, Lugano, Switzerland
 
-©2008 Eisai Inc., Woodcliff Lake, NJ 07677 U.S.A. 201227 9/08
+©2013 Eisai Inc., Woodcliff Lake, NJ 07677 U.S.A. 201227 07/2013

@@ -96,22 +96,22 @@ The primary hypothesis in Study 1 was that at least one of the three palonosetro
 
 Results for Complete Response in Study 1 for 0.075 mg ALOXI versus placebo are described in the following table.
 
-Table 6: Prevention of Postoperative Nausea and Vomiting: Complete Response (CR), Study 1, ALOXI 0.075 mg Vs Placebo
+Table 6: Prevention of Postoperative Nausea and Vomiting: Complete Response (CR), Study 1, Palonosetron 0.075 mg Vs Placebo
 
-| Treatment | n/N (%) | ALOXI Vs Placebo |  |
+| Treatment | n/N (%) | Palonosetron Vs Placebo |  |
 | --- | --- | --- | --- |
 | Δ | p-value* |  |  |
 | Co-primary Endpoints |  |  |  |
-| Complete Response 0-24 hours |  |  |  |
-| ALOXI | 59/138 (42.8%) | 16.8% | 0.004 |
+| CR 0-24 hours |  |  |  |
+| Palonosetron | 59/138 (42.8%) | 16.8% | 0.004 |
 | Placebo | 35/135 (25.9%) |  |  |
-| Complete Response 24-72 hours |  |  |  |
-| ALOXI | 67/138 (48.6%) | 7.8% | 0.188 |
+| CR 24-72 hours |  |  |  |
+| Palonosetron | 67/138 (48.6%) | 7.8% | 0.188 |
 | Placebo | 55/135 (40.7%) |  |  |
-| * To reach statistical significance for each co-primary endpoint, the required significance limit for the lowest p-value was p<0.017. Δ Difference (%): ALOXI 0.075 mg minus placebo |  |  |  |
+| * To reach statistical significance for each co-primary endpoint, the required significance limit for the lowest p-value was p<0.017. Δ Difference (%): palonosetron 0.075 mg minus placebo |  |  |  |
 
-ALOXI 0.075 mg reduced the severity of nausea compared to placebo.
-Analyses of other secondary endpoints indicate that ALOXI 0.075 mg was numerically better than placebo, however, statistical significance was not formally demonstrated.
+Palonosetron 0.075 mg reduced the severity of nausea compared to placebo.
+Analyses of other secondary endpoints indicate that palonosetron 0.075 mg was numerically better than placebo, however, statistical significance was not formally demonstrated.
 
 A phase 2 randomized, double-blind, multicenter, placebo-controlled, dose ranging study was performed to evaluate I.V. palonosetron for the prevention of post-operative nausea and vomiting following abdominal or vaginal hysterectomy.
 Five I.V. palonosetron doses (0.1, 0.3, 1.0, 3.0 and 30 μg/kg) were evaluated in a total of 381 intent-to-treat patients.

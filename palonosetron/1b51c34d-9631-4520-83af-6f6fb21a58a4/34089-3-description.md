@@ -14,4 +14,5 @@ ALOXI injection is available as 5 mL single use vial or 1.5 mL single use vial.
 Each 5 mL vial contains 0.25 mg palonosetron base as 0.28 mg palonosetron hydrochloride, 207.5 mg mannitol, disodium edetate and citrate buffer in water for intravenous administration.
 
 Each 1.5 mL vial contains 0.075 mg palonosetron base as 0.084 mg palonosetron hydrochloride, 83 mg mannitol, disodium edetate and citrate buffer in water for intravenous administration.
+
 The pH of the solution in the 5 mL and 1.5 mL vials is 4.5 to 5.5.

@@ -66,7 +66,7 @@ Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥ 2%
 | Electrocardiogram QT prolongation | 16 (5%) | 11 (3%) |
 | Bradycardia | 13 (4%) | 16 (4%) |
 | Headache | 11 (3%) | 14 (4%) |
-| Contipation | 8 (2%) | 11 (3%) |
+| Constipation | 8 (2%) | 11 (3%) |
 
 In these clinical trials, the following infrequently reported adverse reactions, assessed by investigators as treatment-related or causality unknown, occurred following administration of ALOXI to adult patients receiving concomitant perioperative and intraoperative medications including those associated with anesthesia:
 
@@ -94,4 +94,4 @@ Urinary System: 1%: urinary retention.
 The following adverse reactions have been identified during postapproval use of ALOXI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Very rare cases (<1/10,000) of hypersensitivity reactions and injection site reactions (burning, induration, discomfort and pain) were reported from postmarketing experience of ALOXI 0.25 mg in the prevention of Chemotherapy Induced Nausea and Vomiting.
+Very rare cases (<1/10,000) of hypersensitivity reactions including anaphylaxis and anaphylactic shock and injection site reactions (burning, induration, discomfort and pain) were reported from postmarketing experience of ALOXI 0.25 mg in the prevention of chemotherapy-induced nausea and vomiting.

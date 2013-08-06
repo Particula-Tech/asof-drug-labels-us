@@ -23,11 +23,11 @@ The study demonstrated no significant effect on any ECG interval including QTc d
 
 ## 12.3 Pharmacokinetics
 
-After intravenous dosing of palonosetron in healthy subjects and cancer patients, an initial decline in concentrations is followed by a slow elimination from the body.
+After intravenous dosing of palonosetron in healthy subjects and cancer patients, an initial decline in plasma concentrations is followed by a slow elimination from the body.
 Mean maximum plasma concentration (Cmax) and area under the concentration-time curve (AUC0-∞) are generally dose-proportional over the dose range of 0.3-90 mcg/kg in healthy subjects and in cancer patients.
 Following single I.V. dose of palonosetron at 3 mcg/kg (or 0.21 mg/70 kg) to six cancer patients, mean (±SD) maximum plasma concentration was estimated to be 5.6 ± 5.5 ng/mL and mean AUC was 35.8 ± 20.9 ng•hr/mL.
 
-Following I.V. administration of palonosetron 0.25 mg once every other day for 3 doses in 11 cancer the mean increase in plasma palonosetron concentration from Day 1 to Day 5 was 42 ± 34%.
+Following I.V. administration of palonosetron 0.25 mg once every other day for 3 doses in 11 cancer patients the mean increase in plasma palonosetron concentration from Day 1 to Day 5 was 42 ± 34%.
 Following I.V. administration of palonosetron 0.25 mg once daily for 3 days in 12 healthy subjects, the mean ±SD) increase in plasma palonosetron concentration from Day 1 to Day 3 was 110 ± 45%.
 
 After intravenous dosing of palonosetron in patients undergoing surgery (abdominal surgery or vaginal hysterectomy), the pharmacokinetic characteristics of palonosetron were similar to those observed in cancer patients.
