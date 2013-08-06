@@ -7,6 +7,22 @@ The daily dose of Cyclosporine Oral Solution USP MODIFIED should always be given
 It is recommended that Cyclosporine Oral Solution USP MODIFIED be administered on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
 
+## Specific Populations
+
+### Renal Impairment in Kidney, Liver and Heart Transplantation
+
+Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (see CLINICAL PHARMACOLOGY).
+However, due to its nephrotoxic potential (see WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated (see WARNINGS and PRECAUTIONS).
+
+## Renal Impairment in Rheumatoid Arthritis and Psoriasis
+
+Patients with impaired renal function should not receive cyclosporine (see CONTRAINDICATIONS, WARNINGS and PRECAUTIONS).
+
+## Hepatic Impairment
+
+The clearance of cyclosporine may be significantly reduced in severe liver disease patients (see CLINICAL PHARMACOLOGY).
+Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range (see WARNINGS and PRECAUTIONS).
+
 ## Newly Transplanted Patients
 
 The initial oral dose of Cyclosporine Oral Solution USP MODIFIED can be given 4 to 12 hours prior to transplantation or be given postoperatively.
@@ -32,7 +48,7 @@ Conversion from Sandimmune® (Cyclosporine Oral Solution USP) to Cyclosporine Or
 In transplanted patients who are considered for conversion to Cyclosporine Oral Solution USP MODIFIED from Sandimmune® (Cyclosporine Oral Solution USP), Cyclosporine Oral Solution USP MODIFIED should be started with the same daily dose as was previously used with Sandimmune® (Cyclosporine Oral Solution USP) (1:1 dose conversion).
 The Cyclosporine Oral Solution USP MODIFIED dose should subsequently be adjusted to attain the pre-conversion cyclosporine blood trough concentration.
 Using the same trough concentration target range for Cyclosporine Oral Solution USP MODIFIED as for Sandimmune® (Cyclosporine Oral Solution USP) results in greater cyclosporine exposure when Cyclosporine Oral Solution USP MODIFIED is administered (see Pharmacokinetics, Absorption).
-Patients with suspected poor absorption of Sandimmune® (Cyclosporine Oral Solution USP) require different dosing strategies (see Transplant Patients with Poor Absorption of Sandimmune® (Cyclosporine Oral Solution USP) below).
+Patients with suspected poor absorption of Sandimmune® (Cyclosporine Oral Solution USP) require different dosing strategies (see Transplant Patients with Poor Absorption of Sandimmune® (Cyclosporine Oral Solution USP), below).
 In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
 
 Until the blood trough concentration attains the pre-conversion value, it is strongly recommended that the cyclosporine blood trough concentration be monitored every 4 to 7 days after conversion to Cyclosporine Oral Solution USP MODIFIED.
@@ -51,7 +67,7 @@ In this population the cyclosporine blood trough concentration should be measure
 ## Rheumatoid Arthritis
 
 The initial dose of Cyclosporine Oral Solution USP MODIFIED is 2.5 mg/kg/day, taken twice daily as a divided (BID) oral dose.
-Salicylates, nonsteroidal anti-inflammatory agents, and oral corticosteroids may be continued (see WARNINGS and PRECAUTIONS, Drug Interactions).
+Salicylates, non-steroidal anti-inflammatory agents, and oral corticosteroids may be continued (see WARNINGS and PRECAUTIONS, Drug Interactions).
 Onset of action generally occurs between 4 and 8 weeks.
 If insufficient clinical benefit is seen and tolerability is good (including serum creatinine less than 30% above baseline), the dose may be increased by 0.5 to 0.75 mg/kg/day after 8 weeks and again after 12 weeks to a maximum of 4 mg/kg/day.
 If no benefit is seen by 16 weeks of therapy, Cyclosporine Oral Solution USP MODIFIED therapy should be discontinued.
@@ -74,7 +90,7 @@ If significant clinical improvement has not occurred in patients by that time, t
 Based on patient response, dose increases of approximately 0.5 mg/kg/day should be made to a maximum of 4 mg/kg/day.
 
 Dose decreases by 25% to 50% should be made at any time to control adverse events, e.g., hypertension, elevations in serum creatinine (≥ 25% above the patient’s pretreatment level), or clinically significant laboratory abnormalities.
-If dose reduction is not effective in controlling abnormalities, or if the adverse event or abnormality is severe, Cyclosporine Oral Solution USP MODIFIED should be discontinued (see Special Monitoring of Psoriasis Patients).
+If dose reduction is not effective in controlling abnormalities, or if the adverse event or abnormality is severe, Cyclosporine Oral Solution USP MODIFIED should be discontinued (see Special Monitoring for Psoriasis Patients).
 
 Patients generally show some improvement in the clinical manifestations of psoriasis in 2 weeks.
 Satisfactory control and stabilization of the disease may take 12 to 16 weeks to achieve.

@@ -1,9 +1,9 @@
 # DESCRIPTION
 
-Cyclosporine Oral Solution USP MODIFIED is an oral formulation of cyclosporine that immediately forms an emulsion in an aqueous environment.
+Cyclosporine Oral Solution USP MODIFIED is an oral formulation of cyclosporine, USP that immediately forms an emulsion in an aqueous environment.
 
 Cyclosporine, USP the active principle in Cyclosporine Oral Solution USP MODIFIED, is a cyclic polypeptide immunosuppressant agent consisting of 11 amino acids.
-It is produced as a metabolite by the fungus species Mycelium sterilae.
+It is produced as a metabolite by the fungus species Tolypocladium inflatum.
 
 Chemically, cyclosporine, USP is designated as [R-[R*,R*-(E)]]-cyclic-(L-alanyl-D-alanyl-N-methyl-L-leucyl-N-methyl-L-leucyl-N-methyl-L-valyl-3-hydroxy-N,4-dimethyl-L-2-amino-6-octenoyl-L-α-amino-butyryl-N-methylglycyl-N-methyl-L-leucyl-L-valyl-N-methyl-L-leucyl) and has the following structural formula:
 

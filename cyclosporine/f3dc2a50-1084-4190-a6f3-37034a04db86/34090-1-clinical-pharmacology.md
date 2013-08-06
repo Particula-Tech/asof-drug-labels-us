@@ -36,7 +36,6 @@ In the same studies, intrasubject variability of trough concentrations (%CV) was
 Cyclosporine Oral Solution USP MODIFIED has increased bioavailability compared to Sandimmune® (Cyclosporine Oral Solution USP).
 The absolute bioavailability of cyclosporine administered as Sandimmune® (Cyclosporine Oral Solution USP) is dependent on the patient population, estimated to be less than 10% in liver transplant patients and as great as 89% in some renal transplant patients.
 The absolute bioavailability of cyclosporine administered as Cyclosporine Oral Solution USP MODIFIED has not been determined in adults.
-
 In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration (Cmax) was approximately 40% to 106% greater following administration of Cyclosporine Oral Solution USP MODIFIED compared to following administration of Sandimmune® (Cyclosporine Oral Solution USP).
 The dose normalized AUC in de novo liver transplant patients administered Cyclosporine Oral Solution USP MODIFIED 28 days after transplantation was 50% greater and Cmax was 90% greater than in those patients administered Sandimmune® (Cyclosporine Oral Solution USP).
 AUC and Cmax are also increased (Cyclosporine Oral Solution USP MODIFIED relative to Sandimmune® (Cyclosporine Oral Solution USP)) in heart transplant patients, but data are very limited.
@@ -93,7 +92,19 @@ Neither dialysis nor renal failure alter cyclosporine clearance significantly.
 When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased (see PRECAUTIONS, Drug Interactions).
 No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
 
-## Special Populations
+## Specific Populations
+
+### Renal Impairment
+
+In a study performed in 4 subjects with end-stage renal disease (creatinine clearance < 5 mL/min), an intravenous infusion of 3.5 mg/kg of cyclosporine over 4 hours administered at the end of a hemodialysis session resulted in a mean volume of distribution (Vdss) of 3.49 L/kg and systemic clearance (CL) of 0.369 L/hr/kg.
+This systemic CL (0.369 L/hr/kg) was approximately two thirds of the mean systemic CL (0.56 L/hr/kg) of cyclosporine in historical control subjects with normal renal function.
+In 5 liver transplant patients, the mean clearance of cyclosporine on and off hemodialysis was 463 mL/min and 398 mL/min, respectively.
+Less than 1% of the dose of cyclosporine was recovered in the dialysate.
+
+### Hepatic Impairment
+
+Cyclosporine is extensively metabolized by the liver.
+Since severe hepatic impairment may result in significantly increased cyclosporine exposures, the dosage of cyclosporine may need to be reduced in these patients.
 
 ### Pediatric Population
 

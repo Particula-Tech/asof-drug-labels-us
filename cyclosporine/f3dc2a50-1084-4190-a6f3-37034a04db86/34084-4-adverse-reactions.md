@@ -21,7 +21,7 @@ Although magnesium-depletion studies in normal subjects suggest that hypomagnese
 
 ### Clinical Studies
 
-In controlled studies, the nature, severity and incidence of the adverse events that were observed in 493 transplanted patients treated with Cyclosporine Oral Solution USP MODIFIED were comparable with those observed in 208 transplanted patients who received Sandimmune® (Cyclosporine Oral Solution USP) in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
+In controlled studies, the nature, severity, and incidence of the adverse events that were observed in 493 transplanted patients treated with Cyclosporine Oral Solution USP MODIFIED were comparable with those observed in 208 transplanted patients who received Sandimmune® (Cyclosporine Oral Solution USP) in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
 
 Based on the historical experience with Sandimmune® (Cyclosporine Oral Solution USP), the following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants.
 
@@ -73,7 +73,7 @@ Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepati
 
 ### Increased Risk of Infections
 
-Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS, Polyomavirus Infections).
+Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS, Polyoma Virus Infections).
 
 ### Headache, Including Migraine
 
@@ -133,15 +133,15 @@ Cyclosporine Oral Solution USP MODIFIED / Sandimmune® (Cyclosporine Oral Soluti
 |  | Ear disorder NOS* | 0% | 5% | 0% | 0% | 1% | 0% |
 | Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |
 |  | Hypomagnesemia | 0% | 4% | 0% | 0% | 6% | 0% |
-| Musculoskeltal System Disorders |  |  |  |  |  |  |  |
+| Musculoskeletal System Disorders |  |  |  |  |  |  |  |
 |  | Arthropathy | 0% | 5% | 0% | 1% | 4% | 0% |
 |  | Leg cramps/ involuntary muscle contractions | 2% | 11% | 11% | 3% | 12% | 1% |
 | Psychiatric Disorders |  |  |  |  |  |  |  |
 |  | Depression | 3% | 6% | 3% | 1% | 1% | 2% |
 |  | Insomnia | 4% | 1% | 1% | 0% | 3% | 2% |
 | Renal |  |  |  |  |  |  |  |
-|  | Creatinine elevations ≥30% | 43% | 39% | 55% | 19% | 48% | 13% |
-|  | Creatinine elevations ≥50% | 24% | 18% | 26% | 8% | 18% | 3% |
+|  | Creatinine elevations ≥ 30% | 43% | 39% | 55% | 19% | 48% | 13% |
+|  | Creatinine elevations ≥ 50% | 24% | 18% | 26% | 8% | 18% | 3% |
 | Reproduction Disorders, Female |  |  |  |  |  |  |  |
 |  | Leukorrhea | 1% | 0% | 4% | 0% | 1% | 0% |
 |  | Menstrual disorder | 3% | 2% | 1% | 0% | 1% | 1% |
@@ -267,7 +267,7 @@ Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clini
 |  | Influenza-like symptoms | 9.9% | 8.1% |
 |  | Upper respiratory tract infections | 7.7% | 11.3% |
 | Cardiovascular System |  | 28% | 25.4% |
-|  | Hypertension****Newly occurring hypertension = SBP ≥ 160 mm Hg and/or DBP ≥ 90mm Hg | 27.5% | 25.4% |
+|  | Hypertension****Newly occurring hypertension = SBP ≥ 160 mm Hg and/or DBP ≥ 90 mm Hg | 27.5% | 25.4% |
 | Urinary System |  | 24.2% | 16.2% |
 |  | Increased creatinine | 19.8% | 15.7% |
 | Central and Peripheral Nervous System |  | 26.4% | 20.5% |
@@ -340,3 +340,7 @@ A minor and dose related hyperbilirubinemia has been observed in the absence of 
 Cyclosporine therapy may be associated with a modest increase of serum triglycerides or cholesterol.
 Elevations of triglycerides (> 750 mg/dL) occur in about 15% of psoriasis patients; elevations of cholesterol (> 300 mg/dL) are observed in less than 3% of psoriasis patients.
 Generally these laboratory abnormalities are reversible upon dose reduction or discontinuation of cyclosporine.
+
+### Postmarketing Experience, Psoriasis
+
+Cases of transformation to erythrodermic psoriasis or generalized pustular psoriasis upon either withdrawal or reduction of cyclosporine in patients with chronic plaque psoriasis have been reported.
