@@ -1,3 +1,19 @@
+# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+
+TARO
+
+NDC 51672-4055-6
+
+30 Tablets
+
+Amiodarone HCl Tablets
+
+100 mg
+
+Dispense the accompanying medication guide to each patient.
+
+Rx only
+
 # PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
 
 TARO

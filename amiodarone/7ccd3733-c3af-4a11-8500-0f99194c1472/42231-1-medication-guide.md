@@ -181,19 +181,17 @@ What are the ingredients in amiodarone HCl tablets?
 
 Active Ingredient: amiodarone HCl
 
-Inactive Ingredients: colloidal silicon dioxide, corn starch, D&C yellow No. 10 lake, FD&C yellow No. 6 lake (200 mg only), lactose anhydrous, magnesium stearate and povidone.
+Inactive Ingredients: colloidal silicon dioxide, corn starch, D&C yellow No. 10 lake (200 mg and 400 mg only), FD&C yellow No. 6 lake (200 mg only), lactose anhydrous, magnesium stearate and povidone.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Rx only
+Rx only Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
-
-Last Revised: June 2011
+Revised: June 2013
 
 Tagamet® is a registered trademark of SmithKline Beecham Pharmaceuticals Co.
 
 Claritin® is a registered trademark of Schering Corporation.
 
 Alavert® is a registered trademark of Wyeth.
-71008-1211-8
+71008-0613-9

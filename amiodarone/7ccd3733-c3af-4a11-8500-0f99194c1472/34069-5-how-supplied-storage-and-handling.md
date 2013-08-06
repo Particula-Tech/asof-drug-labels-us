@@ -1,5 +1,10 @@
 # HOW SUPPLIED
 
+Amiodarone HCl Tablets, 100 mg are round, flat, beveled edge, white tablets; one side plain, the other side engraved with "TARO" on the top and "55" below and are available as follows:
+
+| Bottles of 30 Tablets | NDC 51672-4055-6 |
+| --- | --- |
+
 Amiodarone HCl Tablets, 200 mg are round, flat, beveled edge, light orange tablets; one side plain, the second side scored and engraved with "TARO" above the score and "56" below the score line and are available as follows:
 
 | Bottles of 60 Tablets | NDC 51672-4025-4 |
@@ -14,8 +19,7 @@ Amiodarone HCl Tablets, 400 mg are round, flat, beveled edge, light yellow table
 
 Keep tightly closed.
 
-Store at 20°-25°C (68°-77°F).
-[see USP Controlled Room Temperature].
+Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 
 Protect from light.
 
