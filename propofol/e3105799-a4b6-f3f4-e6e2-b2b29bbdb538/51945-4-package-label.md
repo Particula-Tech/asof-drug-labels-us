@@ -1,115 +1,34 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 20 mL Vial Label
 
-NDC 63323-269-27
+NDC 63323-269-37
 
-NP260927
+NP260929
 
-DIPRIVAN® 1%
+DIPRIVAN® 1% INJECTABLE EMULSION, USP
 
-propofol INJECTABLE EMULSION, USP
+propofol
 
-For I.V.
-Administration
-
-10 mg/mL
-
-20 mL Vial; Sterile, Nonpyrogenic
-
-SHAKE WELL BEFORE USING
-
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 20 mL Vial Carton Panel
-
-NDC 63323-269-27
-
-NP260927
-
-DIPRIVAN® 1%
-
-propofol INJECTABLE EMULSION, USP
+10 mg/mL propofol
 
 For I.V.
 Administration
 
-10 mg/mL
+20 mL single-patient infusion vial
 
-SHAKE WELL BEFORE USING
-
-For Single Patient Use Only
-
-25 Vials, 20 mL
-
-Sterile, Nonpyrogenic
-
-Single-Patient Use Vials
-
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 50 mL Vial Label
-
-NDC 63323-269-57
-
-NP260957
-
-DIPRIVAN® 1%
-
-propofol INJECTABLE EMULSION, USP
-
-For I.V.
-Administration
-
-10 mg/mL
-
-50 mL Single-Patient Infusion Vial
-
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 50 mL Vial Carton Panel
-
-NDC 63323-269-57
-
-NP260957
-
-DIPRIVAN® 1%
-
-propofol INJECTABLE EMULSION, USP
-
-For I.V.
-Administration
-
-10 mg/mL
-
-SHAKE WELL BEFORE USING
-
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 100 mL Vial Label
-
-NDC 63323-269-67
-
-NP260967
-
-DIPRIVAN® 1%
-
-propofol INJECTABLE EMULSION, USP
-
-For I.V.
-Administration
-
-10 mg/mL
-
-100 mL Single-Patient Infusion Vial
+Sterile, nonpyrogenic
 
 Rx only
 
-Sterile, Nonpyrogenic
+Shake Well Before Using
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 100 mL Vial Carton Panel
+PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan ® 20 mL Vial Carton Panel
 
-NDC 63323-269-67
+NDC 63323-269-37
 
-NP260967
+NP260929
 
-DIPRIVAN® 1%
+DIPRIVAN® 1% INJECTABLE EMULSION, USP
 
-propofol INJECTABLE EMULSION, USP
+propofol
 
-For I.V.
-Administration
-
-10 mg/mL
-
-SHAKE WELL BEFORE USING
+10 mg/mL propofol

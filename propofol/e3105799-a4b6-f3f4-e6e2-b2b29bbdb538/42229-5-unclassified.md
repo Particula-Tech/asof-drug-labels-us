@@ -12,8 +12,8 @@ There have been reports in which failure to use aseptic technique when handling 
 
 Manufactured for:
 
-Made in Italy
+Fresenius Kabi USA, LLC
 
-451098A
+Lake Zurich, IL 60047
 
-Revised: July 2009
+Issued: May 2013

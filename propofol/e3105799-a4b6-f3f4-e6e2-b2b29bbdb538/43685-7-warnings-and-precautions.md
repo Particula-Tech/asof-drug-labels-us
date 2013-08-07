@@ -97,7 +97,7 @@ Throughout the weaning process, this level of sedation may be maintained in the 
 Because of the rapid clearance of DIPRIVAN Injectable Emulsion, abrupt discontinuation of a patient's infusion may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation, making weaning from mechanical ventilation difficult.
 It is therefore recommended that administration of DIPRIVAN Injectable Emulsion be continued in order to maintain a light level of sedation throughout the weaning process until 10 to 15 minutes prior to extubation, at which time the infusion can be discontinued.
 
-Since DIPRIVAN Injectable Emulsion is formulated in an oil‑in-water emulsion, elevations in serum triglycerides may occur when DIPRIVAN Injectable Emulsion is administered for extended periods of time.
+Since DIPRIVAN Injectable Emulsion is formulated in an oil-in-water emulsion, elevations in serum triglycerides may occur when DIPRIVAN Injectable Emulsion is administered for extended periods of time.
 Patients at risk of hyperlipidemia should be monitored for increases in serum triglycerides or serum turbidity.
 Administration of DIPRIVAN Injectable Emulsion should be adjusted if fat is being inadequately cleared from the body.
 A reduction in the quantity of concurrently administered lipids is indicated to compensate for the amount of lipid infused as part of the DIPRIVAN Injectable Emulsion formulation; 1 mL of DIPRIVAN Injectable Emulsion contains approximately 0.1 g of fat (1.1 kcal).
@@ -168,7 +168,7 @@ Teratogenic Effects
 
 Pregnancy Category B
 
-Reproduction studies have been performed in rats and rabbits at intravenous doses of 15 mg/kg/day (approximately equivalent to the recommended human induction dose on a mg/m2basis) and have revealed no evidence of impaired fertility or harm to the fetus due to propofol.
+Reproduction studies have been performed in rats and rabbits at intravenous doses of 15 mg/kg/day (approximately equivalent to the recommended human induction dose on a mg/m2 basis) and have revealed no evidence of impaired fertility or harm to the fetus due to propofol.
 Propofol, however, has been shown to cause maternal deaths in rats and rabbits and decreased pup survival during the lactating period in dams treated with 15 mg/kg/day (approximately equivalent to the recommended human induction dose on a mg/m2 basis).
 The pharmacological activity (anesthesia) of the drug on the mother is probably responsible for the adverse effects seen in the offspring.
 There are, however, no adequate and well‑controlled studies in pregnant women.
