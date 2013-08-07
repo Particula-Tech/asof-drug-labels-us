@@ -1,6 +1,6 @@
 Medication Guide
 
-DULERA® [dew-LAIR-ah] 100 mcg/5 mcg (mometasone furoate 100 mcg and formoterol fumarate dihydrate 5 mcg inhalation aerosol) DULERA® 200 mcg/5 mcg (mometasone furoate 200 mcg and formoterol fumarate dihydrate 5 mcg inhalation aerosol)
+DULERA® [dew-LAIR-ah] 100 mcg/5 mcg (mometasone furoate 100 mcg and formoterol fumarate dihydrate 5 mcg) Inhalation Aerosol DULERA® 200 mcg/5 mcg (mometasone furoate 200 mcg and formoterol fumarate dihydrate 5 mcg) Inhalation Aerosol
 
 Read the Medication Guide that comes with DULERA® before you start using it and each time you get a refill.
 There may be new information.
@@ -72,6 +72,9 @@ Tell your healthcare provider about all of your health conditions, including if 
 - have eye problems such as increased pressure in the eye, glaucoma, or cataracts
 - are allergic to any medicines
 - are exposed to chickenpox or measles
+- have an aneurysm (swelling of an artery)
+- have a pheochromocytoma (a tumor of the adrenal gland that can affect your blood pressure)
+- are scheduled to have surgery
 - have any other medical problems
 - are pregnant or planning to become pregnant.
   It is not known if DULERA may harm your unborn baby.

@@ -4,15 +4,15 @@ Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-U.S. Patent Nos. 6,068,832; 7,067,502; and 7,566,705.
+For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-418131-MFF-AO-USPI.17
+418131-MFF-AO-USPI.18
 
 Patient Instructions for Use
 
-DULERA® DULERA® 100 mcg/5 mcg (mometasone furoate 100 mcg and formoterol fumarate dihydrate 5 mcg inhalation aerosol) DULERA® 200 mcg/5 mcg (mometasone furoate 200 mcg and formoterol fumarate dihydrate 5 mcg inhalation aerosol)
+DULERA® DULERA® 100 mcg/5 mcg (mometasone furoate 100 mcg and formoterol fumarate dihydrate 5 mcg) Inhalation Aerosol DULERA® 200 mcg/5 mcg (mometasone furoate 200 mcg and formoterol fumarate dihydrate 5 mcg) Inhalation Aerosol
 
 How to use your DULERA
 
@@ -127,7 +127,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-U.S. Patent Nos. 6,068,832; 7,067,502; and 7,566,705.
+For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
@@ -137,6 +137,6 @@ AEROLIZER is a registered trademark of Novartis AG.
 
 NORVIR and KALETRA are registered trademarks of Abbott Laboratories.
 
-Revised: 01/2013
+Revised: 07/2013
 
-418131-MFF-AO-MG.13
+418131-MFF-AO-MG.14

@@ -49,7 +49,7 @@ No clinically significant changes in blood chemistry, hematology, or ECG were ob
 The following adverse reactions have been reported during post-approval use of DULERA or post-approval use with inhaled mometasone furoate or inhaled formoterol fumarate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiac disorders: atrial fibrillation, angina pectoris, ventricular extrasystoles, tachyarrhythmia
+Cardiac disorders: angina pectoris, cardiac arrhythmias, e.g., atrial fibrillation, ventricular extrasystoles, tachyarrhythmia
 
 Immune system disorders: immediate and delayed hypersensitivity reactions including anaphylactic reaction, angioedema, severe hypotension, rash, pruritus
 

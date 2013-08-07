@@ -33,7 +33,7 @@ Cardiovascular Effects:
 
 DULERA:
 
-In a single-dose, double-blind placebo controlled crossover trial in 25 patients with asthma, single dose treatment of 10 mcg formoterol fumarate in combination with 400 mcg of mometasone furoate delivered via DULERA 200 mcg/5 mcg were compared to formoterol fumarate 10 mcg MDI, formoterol fumarate 12 mcg dry powder inhaler (DPI; nominal dose of formoterol fumarate delivered 10 mcg), or placebo.
+In a single-dose, double-blind placebo-controlled crossover trial in 25 patients with asthma, single-dose treatment of 10 mcg formoterol fumarate in combination with 400 mcg of mometasone furoate delivered via DULERA 200 mcg/5 mcg were compared to formoterol fumarate 10 mcg MDI, formoterol fumarate 12 mcg dry powder inhaler (DPI; nominal dose of formoterol fumarate delivered 10 mcg), or placebo.
 The degree of bronchodilation at 12 hours after dosing with DULERA was similar to formoterol fumarate delivered alone via MDI or DPI.
 
 ECGs and blood samples for glucose and potassium were obtained prior to dosing and post dose.

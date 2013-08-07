@@ -139,7 +139,7 @@ Therefore, close monitoring is warranted in patients with a change in vision or 
 
 ## 5.15 Coexisting Conditions
 
-DULERA, like other medications containing sympathomimetic amines, should be used with caution in patients with convulsive disorders or thyrotoxicosis; and in patients who are unusually responsive to sympathomimetic amines.
+DULERA, like other medications containing sympathomimetic amines, should be used with caution in patients with aneurysm, pheochromocytoma, convulsive disorders, or thyrotoxicosis; and in patients who are unusually responsive to sympathomimetic amines.
 Doses of the related beta2-agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
 
 ## 5.16 Hypokalemia and Hyperglycemia
