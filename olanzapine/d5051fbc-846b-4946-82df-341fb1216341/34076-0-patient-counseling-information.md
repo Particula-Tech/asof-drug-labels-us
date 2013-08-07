@@ -80,7 +80,8 @@ Pediatric Use — ZYPREXA is indicated for treatment of schizophrenia and manic 
 Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic aminotransferase levels.
 Patients should be counseled about the potential long-term risks associated with ZYPREXA and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
 Safety and effectiveness of ZYPREXA in patients under 13 years of age have not been established.
-Safety and effectiveness of ZYPREXA and fluoxetine in combination in patients <18 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
+Safety and efficacy of ZYPREXA and fluoxetine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with bipolar I disorder.
+Safety and effectiveness of ZYPREXA and fluoxetine in combination in patients <10 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
 
 ## 17.14 Need for Comprehensive Treatment Program in Pediatric Patients
 

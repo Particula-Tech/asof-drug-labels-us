@@ -23,8 +23,8 @@ ZYPREXA may cause serious side effects, including:
 
 1. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
 2. High blood sugar (hyperglycemia).
-3. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17.
-4. Weight gain, especially in teenagers age 13 to 17.
+3. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
+4. Weight gain, especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
 
 These serious side effects are described below.
 
@@ -47,11 +47,12 @@ These serious side effects are described below.
    - feel sick to your stomach
    - feel confused or your breath smells fruity
 3. High fat levels in your blood (cholesterol and triglycerides).
-   High fat levels may happen in people treated with ZYPREXA, especially in teenagers (13 to 17 years old).
+   High fat levels may happen in people treated with ZYPREXA, especially in teenagers (13 to 17 years old), or when used in combination with fluoxetine in children (10 to 17 years old).
    You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking ZYPREXA and during treatment.
 4. Weight gain.
    Weight gain is very common in people who take ZYPREXA.
    Teenagers (13 to 17 years old) are more likely to gain weight and to gain more weight than adults.
+   Children (10 to 17 years old) are also more likely to gain weight and to gain more weight than adults when ZYPREXA is used in combination with fluoxetine.
    Some people may gain a lot of weight while taking ZYPREXA, so you and your doctor should check your weight regularly.
    Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 
@@ -64,10 +65,11 @@ ZYPREXA is a prescription medicine used to treat:
   - manic or mixed episodes that happen with bipolar I disorder in people age 13 or older.
   - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
   - long-term treatment of bipolar I disorder in adults.
-- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®), in adults.
+- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®) in people age 10 or older.
 - episodes of depression that do not get better after 2 other medicines, also called treatment resistant depression, when used with the medicine fluoxetine (Prozac), in adults.
 
 ZYPREXA has not been approved for use in children under 13 years of age.
+ZYPREXA in combination with fluoxetine has not been approved for use in children under 10 years of age.
 
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
 
@@ -205,7 +207,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about ZYPREXA.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ZYPREXA that was written for healthcare professionals.
-For more information about ZYPREXA call 1-800-Lilly-Rx (1-800-545-5979) or visit www.zyprexa.com.
+For more information about ZYPREXA call 1-800-Lilly-Rx (1-800-545-5979).
 
 What are the ingredients in ZYPREXA?
 
@@ -220,13 +222,11 @@ ZYDIS — gelatin, mannitol, aspartame, sodium methyl paraben, and sodium propyl
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised June 21, 2011
+Medication Guide revised July 26, 2013
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-www.zyprexa.com
-
-Copyright © 2009, 2011, Eli Lilly and Company.
+Copyright © 2009, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 6924 AMP
+PV 6925 AMP

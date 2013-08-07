@@ -115,9 +115,18 @@ ZYPREXA IntraMuscular should not be combined in a syringe with haloperidol injec
 
 When using ZYPREXA and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
+Adults
+
 Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 to 12.5 mg and fluoxetine 20 to 50 mg.
 Antidepressant efficacy was demonstrated with ZYPREXA and fluoxetine in combination in adult patients with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
+Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
+
+Children and Adolescents (10-17 years of age)
+
+Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 2.5 mg of oral olanzapine and 20 mg of fluoxetine.
+Dosage adjustments, if indicated, can be made according to efficacy and tolerability.
+Safety of co-administration of doses above 12 mg olanzapine with 50 mg fluoxetine has not been evaluated in pediatric clinical studies.
 
 Safety and efficacy of ZYPREXA and fluoxetine in combination was determined in clinical trials supporting approval of Symbyax (fixed dose combination of ZYPREXA and fluoxetine).
 Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
@@ -139,8 +148,6 @@ Table 1: Approximate Dose Correspondence Between Symbyaxa and the Combination of
 
 While there is no body of evidence to answer the question of how long a patient treated with ZYPREXA and fluoxetine in combination should remain on it, it is generally accepted that bipolar I disorder, including the depressive episodes associated with bipolar I disorder, is a chronic illness requiring chronic treatment.
 The physician should periodically reexamine the need for continued pharmacotherapy.
-
-Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 
 ZYPREXA monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder.
 
@@ -169,4 +176,4 @@ ZYPREXA monotherapy is not indicated for treatment of treatment resistant depres
 The starting dose of oral olanzapine 2.5-5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, nonsmoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-ZYPREXA and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients <18 years of age [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+ZYPREXA and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients under 10 years of age [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].

@@ -43,7 +43,9 @@ Clinicians should consider the potential long-term risks when prescribing to ado
 
 Safety and effectiveness of olanzapine in children <13 years of age have not been established [see Patient Counseling Information (17.13)].
 
-Safety and effectiveness of ZYPREXA and fluoxetine in combination in children and adolescents <18 years of age have not been established.
+Safety and efficacy of ZYPREXA and fluoxetine in combination in children and adolescents (10 to 17 years of age) have been established for the acute treatment of depressive episodes associated with bipolar I disorder.
+
+Safety and effectiveness of ZYPREXA and fluoxetine in combination in children <10 years of age have not been established.
 
 ## 8.5 Geriatric Use
 

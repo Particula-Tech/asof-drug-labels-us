@@ -13,11 +13,12 @@ The tablets are available as follows:
 | Tablet No. | 4112 | 4115 | 4116 | 4117 | 4415 | 4420 |
 | Identification | LILLY | LILLY | LILLY | LILLY | LILLY | LILLY |
 |  | 4112 | 4115 | 4116 | 4117 | 4415 | 4420 |
-| NDC Codes: |  |  |  |  |  |  |
+| NDC Codesa: |  |  |  |  |  |  |
 | Bottles 30 | NDC 0002-4112-30 | NDC 0002-4115-30 | NDC 0002-4116-30 | NDC 0002-4117-30 | NDC 0002-4415-30 | NDC 0002-4420-30 |
-| Blisters – IDa 100 | NDC 0002-4112-33 | NDC 0002-4115-33 | NDC 0002-4116-33 | NDC 0002-4117-33 | NDC 0002-4415-33 | NDC 0002-4420-33 |
-| Bottles 1000 | NDC 0002-4112-04 | NDC 0002-4115-04 | NDC 0002-4116-04 | NDC 0002-4117-04 | NDC 0002-4415-04 | NDC 0002-4420-04 |
-| a Identi-Dose® (unit dose medication, Lilly). |  |  |  |  |  |  |
+| Blisters – IDb 100 | NA | NA | NDC 0002-4116-33 | NDC 0002-4117-33 | NDC 0002-4415-33 | NDC 0002-4420-33 |
+| Bottles 1000 | NA | NA | NDC 0002-4116-04 | NDC 0002-4117-04 | NDC 0002-4415-04 | NDC 0002-4420-04 |
+| a NA=Not Available. |  |  |  |  |  |  |
+| b Identi-Dose® (unit dose medication, Lilly). |  |  |  |  |  |  |
 
 ZYPREXA ZYDIS (olanzapine orally disintegrating tablets) are yellow, round, and debossed with the tablet strength.
 The tablets are available as follows:

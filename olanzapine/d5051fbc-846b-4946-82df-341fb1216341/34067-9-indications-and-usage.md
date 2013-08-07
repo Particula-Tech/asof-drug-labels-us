@@ -40,7 +40,7 @@ Patients experiencing agitation often manifest behaviors that interfere with the
 
 ## 1.5 ZYPREXA and Fluoxetine in Combination: Depressive Episodes Associated with Bipolar I Disorder
 
-Oral ZYPREXA and fluoxetine in combination is indicated for the treatment of depressive episodes associated with bipolar I disorder, based on clinical studies in adult patients.
+Oral ZYPREXA and fluoxetine in combination is indicated for the treatment of depressive episodes associated with bipolar I disorder, based on clinical studies.
 When using ZYPREXA and fluoxetine in combination, refer to the Clinical Studies section of the package insert for Symbyax.
 
 ZYPREXA monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder.
