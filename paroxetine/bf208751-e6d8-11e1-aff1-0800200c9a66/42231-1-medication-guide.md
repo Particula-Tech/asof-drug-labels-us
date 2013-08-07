@@ -263,4 +263,4 @@ Distributed by: Noven Therapeutics, LLC, Miami, FL 33186.
 BRISDELLE™ is a trademark of Noven Therapeutics, LLC. © 2013 Noven Therapeutics, LLC.
 All rights reserved.
 
-Revised 06/2013
+Revised 07/2013

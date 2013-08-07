@@ -57,6 +57,6 @@ There have been postmarketing reports of serotonin syndrome with the use of an S
 BRISDELLE contains paroxetine, which is also the active ingredient in other drugs.
 The concomitant use of BRISDELLE with other paroxetine products is not recommended [see Indications and Usage (1)].
 
-Drugs that Interfere with Homeostasis (e.g., NSAIDs, Aspirin, and Warfarin) Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs are co-administered with NSAIDs, aspirin, and warfarin or other drugs that affect coagulation.
+Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin) Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs are co-administered with NSAIDs, aspirin, and warfarin or other drugs that affect coagulation.
 There may be a pharmacodynamic interaction between paroxetine and warfarin that causes an increased bleeding diathesis despite unaltered prothrombin time.
 Carefully monitor patients receiving warfarin therapy when BRISDELLE is initiated or discontinued [see Warnings and Precautions (5.4)].
