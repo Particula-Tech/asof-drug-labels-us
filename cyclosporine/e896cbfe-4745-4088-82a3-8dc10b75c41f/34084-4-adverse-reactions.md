@@ -368,3 +368,7 @@ A minor and dose related hyperbilirubinemia has been observed in the absence of 
 Cyclosporine therapy may be associated with a modest increase of serum triglycerides or cholesterol.
 Elevations of triglycerides (> 750 mg/dL) occur in about 15% of psoriasis patients; elevations of cholesterol (> 300 mg/dL) are observed in less than 3% of psoriasis patients.
 Generally these laboratory abnormalities are reversible upon dose reduction or discontinuation of cyclosporine.
+
+### Postmarketing Experience, Psoriasis
+
+Cases of transformation to erythrodermic psoriasis or generalized pustular psoriasis upon either withdrawal or reduction of cyclosporine in patients with chronic plaque psoriasis have been reported.

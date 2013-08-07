@@ -60,7 +60,7 @@ From 5% to 15% of transplant recipients who have received cyclosporine will fail
 Renal biopsies from these patients will demonstrate one or several of the following alterations: tubular vacuolization, tubular microcalcifications, peritubular capillary congestion, arteriolopathy, and a striped form of interstitial fibrosis with tubular atrophy.
 Though none of these morphologic changes is entirely specific, a diagnosis of cyclosporine-associated structural nephrotoxicity requires evidence of these findings.
 
-When considering the development of cyclosporine-associated nephropathy, it is noteworthy that several authors have reported an association between the appearance of interstitial fibrosis and higher cumulative doses or persistently high circulating trough levels of cyclosporine.
+When considering the development of cyclosporine-associated nephropathy, it is noteworthy that several authors have reported an association between the appearance of interstitial fibrosis and higher cumulative doses or persistently high circulating trough concentrations of cyclosporine.
 This is particularly true during the first 6 post-transplant months when the dosage tends to be highest and when, in kidney recipients, the organ appears to be most vulnerable to the toxic effects of cyclosporine.
 Among other contributing factors to the development of interstitial fibrosis in these patients are prolonged perfusion time, warm ischemia time, as well as episodes of acute toxicity, and acute and chronic rejection.
 The reversibility of interstitial fibrosis and its correlation to renal function have not yet been determined.
@@ -68,7 +68,9 @@ Reversibility of arteriolopathy has been reported after stopping cyclosporine or
 
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 
-In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the Gengraf® dose to excessive levels.
+In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the Gengraf® dose to excessive blood concentrations.
+
+Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering Gengraf® with other drugs that may impair renal function (see PRECAUTIONS - Drug Interactions).
 
 Thrombotic Microangiopathy
 
@@ -125,7 +127,7 @@ Neurotoxicity
 
 There have been reports of convulsions in adult and pediatric patients receiving cyclosporine, particularly in combination with high dose methylprednisolone.
 
-Encephalopathy has been described both in postmarketing reports and in the literature.
+Encephalopathy, including Posterior Reversible Encephalopathy Syndrome (PRES), has been described both in postmarketing reports and in the literature.
 Manifestations include impaired consciousness, convulsions, visual disturbances (including blindness), loss of motor function, movement disorders and psychiatric disturbances.
 In many cases, changes in the white matter have been detected using imaging techniques and pathologic specimens.
 Predisposing factors such as hypertension, hypomagnesemia, hypocholesterolemia, high-dose corticosteroids, high cyclosporine blood concentrations, and graft-versus-host disease have been noted in many but not all of the reported cases.
@@ -193,6 +195,13 @@ Patients should also be warned to protect themselves appropriately when in the s
 Patients should be thoroughly evaluated before and during treatment for the presence of malignancies remembering that malignant lesions may be hidden by psoriatic plaques.
 Skin lesions not typical of psoriasis should be biopsied before starting treatment.
 Patients should be treated with Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) only after complete resolution of suspicious lesions, and only if there are no other treatment options (see Special Monitoring for Psoriasis Patients).
+
+## Special Excipients
+
+Alcohol (ethanol)
+
+The alcohol content (see DESCRIPTION) of Gengraf® should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g., pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
+For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
 
 # PRECAUTIONS
 
@@ -279,7 +288,8 @@ Cyclosporine blood concentrations should be routinely monitored in transplant pa
 ### A. Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety
 
 All of the individual drugs cited below are well substantiated to interact with cyclosporine.
-In addition, concomitant non-steroidal anti-inflammatory drugs, particularly in the setting of dehydration, may potentiate renal dysfunction.
+In addition, concomitant use of non-steroidal anti-inflammatory drugs with cyclosporine, particularly in the setting of dehydration, may potentiate renal dysfunction.
+Caution should be exercised when using other drugs which are known to impair renal function (see WARNINGS - Nephrotoxicity).
 
 ### Drugs That May Potentiate Renal Dysfunction
 
@@ -294,10 +304,13 @@ In addition, concomitant non-steroidal anti-inflammatory drugs, particularly in 
 |  |  |  | fibric acid derivatives |
 |  |  |  | (e.g.,bezafibrate, fenofibrate) methotrexate |
 
+During the concomitant use of a drug that may exhibit additive or synergistic renal impairment with cyclosporine, close monitoring of renal function (in particular serum creatinine) should be performed.
+If a significant impairment of renal function occurs, the dosage of the coadministered drug should be reduced or an alternative treatment considered.
+
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
-Various agents are known to either increase or decrease plasma or whole blood of cyclosporine levels usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
+Various agents are known to either increase or decrease plasma or whole blood concentrations of cyclosporine usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Monitoring of circulating cyclosporine concentrations and appropriate Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) dosage adjustment are essential when these drugs are used concomitantly (see DOSAGE AND ADMINISTRATION - Blood Concentration Monitoring).
+Appropriate Gengraf® dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see DOSAGE AND ADMINISTRATION - Blood Concentration Monitoring).
 
 ### 1. Drugs That Increase Cyclosporine Concentrations
 
@@ -333,6 +346,18 @@ Grapefruit and grapefruit juice affect metabolism, increasing blood concentratio
 |  |  | St. John's Wort |
 |  |  | terbinafine |
 |  |  | ticlopidine |
+
+Bosentan
+
+Coadministration of bosentan (250-1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200-250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30%, and 60%, respectively, compared to when cyclosporine was given alone (see also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
+
+Boceprevir
+
+Coadministration of boceprevir (800 mg three times daily for 7 days) and cyclosporine (100 mg single dose) in healthy subjects resulted in increases in the mean AUC and Cmax of cyclosporine approximately 2.7-fold and 2-fold, respectively, compared to when cyclosporine was given alone.
+
+Telaprevir
+
+Coadministration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
 
 St. John’s Wort
 
@@ -376,6 +401,14 @@ Cyclosporine may increase the plasma concentrations of repaglinide and thereby i
 In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 to 3.7 fold) and 2.4 fold (range 1.2 to 5.3 fold), respectively.
 Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
 
+Ambrisentan
+
+Coadministration of ambrisentan (5 mg daily) and cyclosporine (100-150 mg twice daily initially, then dosing to achieve Cmin 150-200 ng/mL) for 8 days in healthy subjects resulted in mean increases in ambrisentan AUC and Cmax of approximately 2-fold and 1.5-fold, respectively, compared to ambrisentan alone.
+
+Anthracycline antibiotics
+
+High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin) in cancer patients.
+
 Aliskiren
 
 Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycoprotein and CYP3A4.
@@ -384,6 +417,10 @@ The concomitant administration of aliskiren with cyclosporine prolonged the medi
 The mean AUC and Cmax of cyclosporine were comparable to reported literature values.
 Co-administration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
 The co-administration of cyclosporine with aliskiren is not recommended.
+
+Bosentan
+
+In healthy subjects, coadministration of bosentan and cyclosporine resulted in mean increases in dose-normalized bosentan trough concentrations on day 1 and day 8 of approximately 21-fold and 2-fold, respectively, compared to when bosentan was given alone as a single dose on day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
 
 Potassium-Sparing Diuretics
 
@@ -415,6 +452,7 @@ To minimize increases in sirolimus blood concentrations, it is recommended that 
 Nifedipine
 
 Frequent gingival hyperplasia when nifedipine is given concurrently with cyclosporine have been reported.
+The concomitant use of nifedipine should be avoided in patients in whom gingival hyperplasia develops as a side effect of cyclosporine.
 
 Methyprednisolone
 
@@ -490,10 +528,14 @@ Renal function and blood pressure in these children were normal.
 
 Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using Gengraf® in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of Gengraf®.
 
+The alcohol content of the Gengraf® formulations should also be taken into account in pregnant women (see WARNINGS - Special Excipients).
+
 ## Nursing Mothers
 
-Cyclosporine passes into breast milk.
-Mothers receiving treatment with Gengraf® should not breast feed.
+Cyclosporine is present in breast milk.
+Because of the potential for serious adverse drug reactions in nursing infants from Gengraf®, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Gengraf® contains ethanol.
+Ethanol will be present in human milk at levels similar to that found in maternal serum and if present in breast milk will be orally absorbed by a nursing infant (see WARNINGS).
 
 ## Pediatric Use
 
