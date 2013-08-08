@@ -69,6 +69,7 @@ You can also ask your doctor or pharmacist for information that is written for h
 What are the ingredients in ORACEA?
 Active ingredient: doxycycline Inactive ingredients: hypromellose, iron oxide red, iron oxide yellow, methacrylic acid copolymer, polyethylene glycol, Polysorbate 80, sugar spheres, talc, titanium dioxide, and triethyl citrate.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Marketed by: GALDERMA LABORATORIES, L.P.
+
+Revised: 07/2013 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA Manufactured by: Catalent Pharma Solutions, LLC Winchester, Kentucky 40391 USA All trademarks are the property of their respective owners.
-PXXXXX-0
+P51382-0
