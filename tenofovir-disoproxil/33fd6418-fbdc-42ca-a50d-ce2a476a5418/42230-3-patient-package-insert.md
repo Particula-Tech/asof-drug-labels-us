@@ -1,4 +1,6 @@
-PATIENT INFORMATION VIREAD® (VEER-ee-ad) (tenofovir disoproxil fumarate) tablets and oral powder
+# PATIENT INFORMATION
+
+VIREAD® (VEER-ee-ad) (tenofovir disoproxil fumarate) tablets and oral powder
 
 Read this Patient Information before you start taking VIREAD and each time you get a refill.
 There may be new information.
@@ -89,11 +91,12 @@ Before you take VIREAD, tell your healthcare provider if you:
   Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+
 VIREAD may affect the way other medicines work, and other medicines may affect how VIREAD works.
 
 Do not take VIREAD if you also take:
 
-- other medicines that contain tenofovir (ATRIPLA®, COMPLERA®, STRIBILD™, TRUVADA®)
+- other medicines that contain tenofovir (ATRIPLA®, COMPLERA®, STRIBILD®, TRUVADA®)
 - adefovir (HEPSERA®)
 
 Especially tell your healthcare provider if you take the following medications.

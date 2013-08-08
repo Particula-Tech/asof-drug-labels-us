@@ -10,7 +10,7 @@ Because animal reproduction studies are not always predictive of human response,
 Antiretroviral Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to VIREAD, an Antiretroviral Pregnancy Registry has been established.
 Healthcare providers are encouraged to register patients by calling 1-800-258-4263.
 
-### Animal Data
+Animal Data
 
 Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
 

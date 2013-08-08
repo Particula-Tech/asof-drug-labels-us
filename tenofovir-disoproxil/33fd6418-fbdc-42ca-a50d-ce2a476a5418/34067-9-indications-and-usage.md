@@ -6,7 +6,7 @@ VIREAD® is indicated in combination with other antiretroviral agents for the tr
 
 The following points should be considered when initiating therapy with VIREAD for the treatment of HIV-1 infection:
 
-- VIREAD should not be used in combination with ATRIPLA®, COMPLERA®, STRIBILD™, or TRUVADA® [See Warnings and Precautions (5.4)].
+- VIREAD should not be used in combination with ATRIPLA®, COMPLERA®, STRIBILD®, or TRUVADA® [See Warnings and Precautions (5.4)].
 
 ## 1.2 Chronic Hepatitis B
 
@@ -14,7 +14,7 @@ VIREAD is indicated for the treatment of chronic hepatitis B in adults and pedia
 
 The following points should be considered when initiating therapy with VIREAD for the treatment of HBV infection:
 
-- The indication in adults is based primarily on data from treatment of subjects who were nucleoside-treatment-naïve and a smaller number of subjects who had previously received lamivudine or adefovir dipivoxil.
+- The indication in adults is based on safety and efficacy data from treatment of subjects who were nucleoside-treatment-naïve and subjects who were treatment-experienced with documented resistance to lamivudine.
   Subjects were adults with HBeAg-positive and HBeAg-negative chronic hepatitis B with compensated liver disease [See Clinical Studies (14.2)].
 - VIREAD was evaluated in a limited number of subjects with chronic hepatitis B and decompensated liver disease [See Adverse Reactions (6.1), Clinical Studies (14.2)].
-- The numbers of subjects in clinical trials who had lamivudine- or adefovir-associated substitutions at baseline were too small to reach conclusions of efficacy [See Microbiology (12.4), Clinical Studies (14.2)].
+- The numbers of subjects in clinical trials who had adefovir resistance-associated substitutions at baseline were too small to reach conclusions of efficacy [See Microbiology (12.4), Clinical Studies (14.2)].

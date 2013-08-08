@@ -224,6 +224,8 @@ ALT flares generally occurred within the first 4–8 weeks of treatment and were
 No subject had evidence of decompensation.
 ALT flares typically resolved within 4 to 8 weeks without changes in study medication.
 
+The adverse reactions observed in subjects with chronic hepatitis B and lamivudine resistance who received treatment with VIREAD were consistent with those observed in other hepatitis B clinical trials in adults.
+
 Clinical Trials in Adult Subjects with Chronic Hepatitis B and Decompensated Liver Disease
 
 In a small randomized, double-blind, active-controlled trial (0108), subjects with CHB and decompensated liver disease received treatment with VIREAD or other antiviral drugs for up to 48 weeks [See Clinical Studies (14.2)].

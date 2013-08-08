@@ -2,18 +2,18 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenesis
+Carcinogenesis
 
 Long-term oral carcinogenicity studies of tenofovir disoproxil fumarate in mice and rats were carried out at exposures up to approximately 16 times (mice) and 5 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection.
 At the high dose in female mice, liver adenomas were increased at exposures 16 times that in humans.
 In rats, the study was negative for carcinogenic findings at exposures up to 5 times that observed in humans at the therapeutic dose.
 
-### Mutagenesis
+Mutagenesis
 
 Tenofovir disoproxil fumarate was mutagenic in the in vitro mouse lymphoma assay and negative in an in vitro bacterial mutagenicity test (Ames test).
 In an in vivo mouse micronucleus assay, tenofovir disoproxil fumarate was negative when administered to male mice.
 
-### Impairment of Fertility
+Impairment of Fertility
 
 There were no effects on fertility, mating performance or early embryonic development when tenofovir disoproxil fumarate was administered to male rats at a dose equivalent to 10 times the human dose based on body surface area comparisons for 28 days prior to mating and to female rats for 15 days prior to mating through day seven of gestation.
 There was, however, an alteration of the estrous cycle in female rats.

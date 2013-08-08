@@ -13,9 +13,10 @@ The mechanism of this interaction is unknown.
 Higher didanosine concentrations could potentiate didanosine-associated adverse reactions, including pancreatitis and neuropathy.
 Suppression of CD4+ cell counts has been observed in patients receiving VIREAD with didanosine 400 mg daily.
 
-In patients weighing greater than 60 kg, the didanosine dose should be reduced to 250 mg when it is coadministered with VIREAD.
-Data are not available to recommend a dose adjustment of didanosine for adult or pediatric patients weighing less than 60 kg.
+In patients weighing greater than 60 kg, the didanosine dose should be reduced to 250 mg once daily when it is coadministered with VIREAD.
+In patients weighing less than 60 kg, the didanosine dose should be reduced to 200 mg once daily when it is coadministered with VIREAD.
 When coadministered, VIREAD and didanosine EC may be taken under fasted conditions or with a light meal (less than 400 kcal, 20% fat).
+For additional information on coadministration of VIREAD and didanosine, please refer to the full prescribing information for didanosine.
 
 ## 7.2 Atazanavir
 

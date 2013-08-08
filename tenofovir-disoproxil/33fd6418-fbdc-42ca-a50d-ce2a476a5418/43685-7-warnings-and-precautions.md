@@ -46,6 +46,8 @@ Assessment of bone mineral density (BMD) should be considered for adults and ped
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial for all patients.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
+Adult Patients
+
 In HIV-1 infected adult subjects treated with VIREAD in Study 903 through 144 weeks, decreases from baseline in BMD were seen at the lumbar spine and hip in both arms of the trial.
 At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving VIREAD + lamivudine + efavirenz (-2.2% ± 3.9) compared with subjects receiving stavudine + lamivudine + efavirenz (-1.0% ± 4.6).
 Changes in BMD at the hip were similar between the two treatment groups (-2.8% ± 3.5 in the VIREAD group vs. -2.4% ± 4.5 in the stavudine group).
@@ -55,6 +57,8 @@ Clinically relevant fractures (excluding fingers and toes) were reported in 4 su
 In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C-telopeptide, and urinary N-telopeptide) in the VIREAD group relative to the stavudine group, suggesting increased bone turnover.
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in the VIREAD group.
 Except for bone specific alkaline phosphatase, these changes resulted in values that remained within the normal range.
+
+Pediatric Patients
 
 In clinical trials evaluating VIREAD in HIV-1 infected pediatric subjects 2 to less than 18 years of age, bone effects were similar to those observed in adult subjects.
 Under normal circumstances BMD increases rapidly in pediatric patients.

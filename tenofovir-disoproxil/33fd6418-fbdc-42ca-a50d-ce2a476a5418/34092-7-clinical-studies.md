@@ -138,22 +138,33 @@ At Week 240, HBsAg loss was 9% in both treatment groups, and seroconversion to a
 Of the originally randomized and treated 641 subjects in the two studies, liver biopsy data from 328 subjects who received continuing open-label treatment with VIREAD monotherapy were available for analysis at baseline, Week 48 and Week 240.
 There were no apparent differences between the subset of subjects who had liver biopsy data at Week 240 and those subjects remaining on open-label VIREAD without biopsy data that would be expected to affect histological outcomes at Week 240.
 Among the 328 subjects evaluated, the observed histological response rates were 80% and 88% at Week 48 and Week 240, respectively.
-In the subjects without cirrhosis at baseline (Ishak fibrosis score 0-4), 92% (216/235) and 95% (223/235) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
-In subjects with cirrhosis at baseline (Ishak fibrosis score 5-6), 97% (90/93) and 99% (92/93) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
+In the subjects without cirrhosis at baseline (Ishak fibrosis score 0–4), 92% (216/235) and 95% (223/235) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
+In subjects with cirrhosis at baseline (Ishak fibrosis score 5–6), 97% (90/93) and 99% (92/93) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
 Twenty-nine percent (27/93) and 72% (67/93) of subjects with cirrhosis at baseline experienced regression of cirrhosis by Week 48 and Week 240, respectively, with a reduction in Ishak fibrosis score of at least 2 points.
 No definitive conclusions can be established about the remaining study population who were not part of this subset analysis.
 
-Across the combined HBV treatment trials, the number of subjects with lamivudine- or adefovir-resistance associated substitutions at baseline was too small to establish efficacy in this subgroup.
+Patients with Lamivudine-Resistant Chronic Hepatitis B
+
+Study 121 was a randomized, double-blind, active-controlled trial evaluating the safety and efficacy of VIREAD compared to an unapproved antiviral regimen in subjects with chronic hepatitis B, persistent viremia (HBV DNA ≥ 1,000 IU/mL), and genotypic evidence of lamivudine resistance (rtM204I/V +/- rtL180M).
+One hundred forty-one adult subjects were randomized to the VIREAD treatment arm.
+The mean age of subjects randomized to VIREAD was 47 years (range 18–73), 74% were male, 59% were Caucasian, and 37% were Asian.
+At baseline, 54% of subjects were HBeAg-negative, 46% were HBeAg-positive, and 56% had abnormal ALT.
+Subjects had a mean HBV DNA of 6.4 log10 copies/mL and mean serum ALT of 71 U/L at baseline.
+
+After 96 weeks of treatment, 126 of 141 subjects (89%) randomized to VIREAD had HBV DNA < 400 copies/mL, and 49 of 79 subjects (62%) with abnormal ALT at baseline had ALT normalization.
+Among the HBeAg-positive subjects randomized to VIREAD, 10 of 65 subjects (15%) experienced HBeAg loss, and 7 of 65 subjects (11%) experienced anti-HBe seroconversion through Week 96.
+The proportion of subjects with HBV DNA concentrations below 400 copies/mL at Week 96 was similar between the VIREAD monotherapy and the comparator arms.
+
+Across the combined chronic hepatitis B treatment trials, the number of subjects with adefovir-resistance associated substitutions at baseline was too small to establish efficacy in this subgroup.
 
 Patients with Chronic Hepatitis B and Decompensated Liver Disease
 
-VIREAD was studied in a small randomized, double-blind, active-controlled trial evaluating the safety of VIREAD compared to other antiviral drugs in subjects with CHB and decompensated liver disease through 48 weeks (Study 0108).
+VIREAD was studied in a small randomized, double-blind, active-controlled trial evaluating the safety of VIREAD compared to other antiviral drugs in subjects with chronic hepatitis B and decompensated liver disease through 48 weeks (Study 0108).
 
 Forty-five adult subjects (37 males and 8 females) were randomized to the VIREAD treatment arm.
 At baseline, 69% subjects were HBeAg-negative, and 31% were HBeAg-positive.
 Subjects had a mean Child-Pugh score of 7, a mean MELD score of 12, mean HBV DNA of 5.8 log10 copies/mL and mean serum ALT of 61 U/L at baseline.
-Trial endpoints were discontinuation due to an adverse event and confirmed increase in serum creatinine ≥ 0.5 mg/dL or confirmed serum phosphorus of < 2 mg/dL.
-[See Adverse Reactions (6.1)].
+Trial endpoints were discontinuation due to an adverse event and confirmed increase in serum creatinine ≥ 0.5 mg/dL or confirmed serum phosphorus of < 2 mg/dL [See Adverse Reactions (6.1)].
 
 At 48 weeks, 31/44 (70%) and 12/26 (46%) Viread-treated subjects achieved an HBV DNA < 400 copies/mL, and normalized ALT, respectively.
 The trial was not designed to evaluate treatment impact on clinical endpoints such as progression of liver disease, need for liver transplantation, or death.
