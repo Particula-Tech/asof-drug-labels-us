@@ -1,0 +1,13 @@
+# PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
+
+100 Tablets NDC 50458-220-10
+
+NIZORAL® (KETOCONAZOLE TABLETS)
+
+200 mg
+
+Each tablet contains: Ketoconazole 200 mg
+
+JANSSEN
+
+PHARMACEUTICA PRODUCTS, LP

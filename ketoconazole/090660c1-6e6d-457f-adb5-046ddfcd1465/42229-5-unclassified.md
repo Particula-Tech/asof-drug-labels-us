@@ -1,10 +1,4 @@
 Rev.
-February 2002 U.S. Patent 4,335,125 ©Janssen 2002
+July 2013 Janssen Pharmaceuticals, Inc, Titusville, New Jersey 08560
 
-7501311
-
-JANSSEN PHARMACEUTICA
-
-Products, L.P
-
-Titusville, NJ 08560.
+©Janssen Pharmaceuticals, Inc, 2013
