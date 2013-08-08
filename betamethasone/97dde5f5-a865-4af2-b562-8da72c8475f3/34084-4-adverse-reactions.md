@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 The following local adverse reactions are reported infrequently when Betamethasone Dipropionate products are used as recommended in the DOSAGE AND ADMINISTRATION section.
 These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infections, skin atrophy, striae and miliaria.

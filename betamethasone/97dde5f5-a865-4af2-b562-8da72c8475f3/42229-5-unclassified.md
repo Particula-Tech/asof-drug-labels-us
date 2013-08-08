@@ -2,4 +2,5 @@
 
 Rx only
 
-For Dermatologic Use Only Not for Ophthalmic Use
+FOR DERMATOLOGIC USE ONLY.
+NOT FOR OPHTHALMIC USE.

@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 | Betamethasone Dipropionate | Betamethasone Dipropionate | Betamethasone Dipropionate |
 | --- | --- | --- |
@@ -12,4 +12,4 @@ Protect from light and freezing.
 
 E. FOUGERA & CO. A division of fougera PHARMACETICALS INC. Melville, New York 11747
 
-I255I R10/11 #74
+I255J R07/12 #74
