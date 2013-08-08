@@ -8,4 +8,4 @@ HYCAMTIN is indicated for the treatment of:
 
 HYCAMTIN in combination with cisplatin is indicated for the treatment of:
 
-- •stage IV-B, recurrent, or persistent carcinoma of the cervix which is not amenable to curative treatment with surgery and/or radiation therapy.
+- •Stage IV-B, recurrent, or persistent carcinoma of the cervix which is not amenable to curative treatment with surgery and/or radiation therapy.

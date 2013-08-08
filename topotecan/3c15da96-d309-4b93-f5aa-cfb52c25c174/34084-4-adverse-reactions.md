@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 ### Ovarian Cancer and Small Cell Lung Cancer:
 
@@ -30,7 +30,7 @@ Hematologic Adverse Reactions Experienced in ≥15% Ovarian Cancer and Small Cel
 Table 2.
 Non-hematologic Adverse Reactions Experienced by ≥15% of Ovarian Cancer and Small Cell Lung Cancer Patients Receiving HYCAMTIN
 
-| Non-hematologicAdverse Reaction | Percentage of Patients with Adverse Reaction (879 Patients) |  |  |
+| Non-hematologicAdverse Reaction | Percentage of Patients With Adverse Reaction (879 Patients) |  |  |
 | --- | --- | --- | --- |
 | All Grades | Grade 3 | Grade 4 |  |
 | Infections and infestations |  |  |  |
@@ -58,9 +58,9 @@ Non-hematologic Adverse Reactions Experienced by ≥15% of Ovarian Cancer and Sm
 | Painc | 23 | 2 | 1 |
 | Asthenia | 25 | 4 | 2 |
 
-NA = Not applicable
+NA = Not applicable.
 
-NR = Not reported separately
+NR = Not reported separately.
 
 a Does not include Grade 1 sepsis or pyrexia.
 
@@ -70,15 +70,15 @@ c Pain includes body pain, back pain, and skeletal pain.
 
 ### Nervous System Disorders:
 
-Paresthesia occurred in 7% of patients but was generally grade 1.
+Paresthesia occurred in 7% of patients but was generally Grade 1.
 
 ### Hepatobiliary Disorders:
 
 Grade 1 transient elevations in hepatic enzymes occurred in 8% of patients.
-Greater elevations, grade 3/4, occurred in 4%.
+Greater elevations, Grade 3/4, occurred in 4%.
 Grade 3/4 elevated bilirubin occurred in <2% of patients.
 
-Table 3 shows the grade 3/4 hematologic and major non-hematologic adverse reactions in the topotecan/paclitaxel comparator trial in ovarian cancer.
+Table 3 shows the Grade 3/4 hematologic and major non-hematologic adverse reactions in the topotecan/paclitaxel comparator trial in ovarian cancer.
 
 Table 3.
 Adverse Reactions Experienced by ≥5% of Ovarian Cancer Patients Randomized to Receive HYCAMTIN or Paclitaxel
@@ -107,11 +107,11 @@ Adverse Reactions Experienced by ≥5% of Ovarian Cancer Patients Randomized to 
 | Asthenia | 5 | 3 |
 | Painb | 5 | 7 |
 
-a Death related to sepsis occurred in 2% of patients receiving HYCAMTIN, and 0% of patients receiving paclitaxel.
+a Death related to sepsis occurred in 2% of patients receiving HYCAMTIN and 0% of patients receiving paclitaxel.
 
 b Pain includes body pain, skeletal pain, and back pain.
 
-Table 4 shows the grade 3/4 hematologic and major non-hematologic adverse reactions in the topotecan/CAV comparator trial in small cell lung cancer.
+Table 4 shows the Grade 3/4 hematologic and major non-hematologic adverse reactions in the topotecan/CAV (cyclophosphamide‑doxorubicin‑vincristine) comparator trial in small cell lung cancer.
 
 Table 4.
 Adverse Reactions Experienced by ≥5% of Small Cell Lung Cancer Patients Randomized to Receive HYCAMTIN or CAV
@@ -153,19 +153,19 @@ Hematologic Adverse Reactions in Patients with Cervical Cancer Treated with HYCA
 | Hematologic Adverse Reaction | HYCAMTIN Plus Cisplatin (n = 140) | Cisplatin(n = 144) |
 | --- | --- | --- |
 | Anemia |  |  |
-| All grades (Hgb <12 g/dL) | 131 (94%) | 130 (90%) |
+| All Grades (Hgb <12 g/dL) | 131 (94%) | 130 (90%) |
 | Grade 3 (Hgb <8-6.5 g/dL) | 47 (34%) | 28 (19%) |
 | Grade 4 (Hgb <6.5 g/dL) | 9 (6%) | 5 (3%) |
 | Leukopenia |  |  |
-| All grades (<3,800 cells/mm3) | 128 (91%) | 43 (30%) |
+| All Grades (<3,800 cells/mm3) | 128 (91%) | 43 (30%) |
 | Grade 3 (<2,000-1,000 cells/mm3) | 58 (41%) | 1 (1%) |
 | Grade 4 (<1,000 cells/mm3) | 35 (25%) | 0 (0%) |
 | Neutropenia |  |  |
-| All grades (<2,000 cells/mm3) | 125 (89%) | 28 (19%) |
+| All Grades (<2,000 cells/mm3) | 125 (89%) | 28 (19%) |
 | Grade 3 (<1,000-500 cells/mm3) | 36 (26%) | 1 (1%) |
 | Grade 4 (<500 cells/mm3) | 67 (48%) | 1 (1%) |
 | Thrombocytopenia |  |  |
-| All grades (<130,000 cells/mm3) | 104 (74%) | 21 (15%) |
+| All Grades (<130,000 cells/mm3) | 104 (74%) | 21 (15%) |
 | Grade 3 (<50,000-10,000 cells/mm3) | 36 (26%) | 5 (3%) |
 | Grade 4 (<10,000 cells/mm3) | 10 (7%) | 0 (0%) |
 
@@ -174,10 +174,10 @@ a Includes patients who were eligible and treated.
 Table 6.
 Non-hematologic Adverse Reactions Experienced by ≥5% of Patients with Cervical Cancer Treated with HYCAMTIN Plus Cisplatin or Cisplatin Monotherapya
 
-|  | HYCAMTIN Plus Cisplatin |  |  | Cisplatin |  |  |
+| Adverse Reaction | HYCAMTIN Plus Cisplatin |  |  | Cisplatin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | (n = 140) |  |  | (n = 144) |  |  |
-| Adverse Reaction | All Gradesb | Grade 3 | Grade 4 | All Gradesb | Grade 3 | Grade 4 |
+| (n = 140) |  |  | (n = 144) |  |  |  |
+| All Gradesb | Grade 3 | Grade 4 | All Gradesb | Grade 3 | Grade 4 |  |
 | General disorders and administrative site conditions |  |  |  |  |  |  |
 | Constitutionalc | 96 (69%) | 11 (8%) | 0 | 89 (62%) | 17 (12%) | 0 |
 | Paind | 82 (59%) | 28 (20%) | 3 (2%) | 72 (50%) | 18 (13%) | 5 (3%) |
@@ -210,10 +210,10 @@ Data were collected using NCI Common Toxicity Criteria, v. 2.0.
 a Includes patients who were eligible and treated.
 
 b Grades 1 through 4 only.
-There were 3 patients who experienced grade 5 deaths with investigator-designated attribution.
-One was a grade 5 hemorrhage in which the drug-related thrombocytopenia aggravated the event.
+There were 3 patients who experienced Grade 5 deaths with investigator-designated attribution.
+One was a Grade 5 hemorrhage in which the drug-related thrombocytopenia aggravated the event.
 A second patient experienced bowel obstruction, cardiac arrest, pleural effusion and respiratory failure which were not treatment related but probably aggravated by treatment.
-A third patient experienced a pulmonary embolism and adult respiratory distress syndrome, the latter was indirectly treatment-related.
+A third patient experienced a pulmonary embolism and adult respiratory distress syndrome; the latter was indirectly treatment-related.
 
 c Constitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss.
 
@@ -221,7 +221,7 @@ d Pain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (n
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials or listed in other sections of the prescribing information, the following reactions have been identified during post-marketing use of HYCAMTIN.
+In addition to adverse reactions reported from clinical trials or listed in other sections of the prescribing information, the following reactions have been identified during postmarketing use of HYCAMTIN.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to HYCAMTIN.
 
@@ -231,7 +231,7 @@ Severe bleeding (in association with thrombocytopenia) [see Warnings and Precaut
 
 ### Immune System Disorders:
 
-Allergic manifestations; Anaphylactoid reactions.
+Allergic manifestations, anaphylactoid reactions.
 
 ### Gastrointestinal Disorders:
 
@@ -245,6 +245,6 @@ Interstitial lung disease [see Warnings and Precautions (5.3)].
 
 Angioedema, severe dermatitis, severe pruritus.
 
-### General Disorders and Administrative Site Conditions:
+### General Disorders and Administration Site Conditions:
 
-Inadvertant extravastation [see Warnings and Precautions (5.5)].
+Inadvertent extravasation [see Warnings and Precautions (5.5)].

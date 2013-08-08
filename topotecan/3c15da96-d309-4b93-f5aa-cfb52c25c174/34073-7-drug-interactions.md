@@ -1,9 +1,9 @@
 # 7 DRUG INTERACTIONS
 
-G-CSF: Concomitant administration of G-CSF can prolong the duration of neutropenia, so if G-CSF is to be used, do not initiat it until day 6 of the course of therapy, 24 hours after completion of treatment with HYCAMTIN.
+G-CSF:Concomitant administration of G‑CSF can prolong the duration of neutropenia, so if G‑CSF is to be used, do not initiate it until day 6 of the course of therapy, 24 hours after completion of treatment with HYCAMTIN.
 
-Platinum and Other Cytotoxic Agents: Myelosuppression was more severe when HYCAMTIN, at a dose of 1.25 mg/m2/day for 5 days, was given in combination with cisplatin at a dose of 50 mg/m2 in Phase 1 studies.
-In one study, 1 of 3 patients had severe neutropenia for 12 days and a second patient died with neutropenic sepsis.
+Platinum and Other Cytotoxic Agents:Myelosuppression was more severe when HYCAMTIN, at a dose of 1.25 mg/m2/day for 5 days, was given in combination with cisplatin at a dose of 50 mg/m2 in Phase 1 trials.
+In one trial, 1 of 3 patients had severe neutropenia for 12 days and a second patient died with neutropenic sepsis.
 
 Greater myelosuppression is also likely to be seen when HYCAMTIN is used in combination with other cytotoxic agents, thereby necessitating a dose reduction.
 However, when combining HYCAMTIN with platinum agents (e.g., cisplatin or carboplatin), a distinct sequence-dependent interaction on myelosuppression has been reported.

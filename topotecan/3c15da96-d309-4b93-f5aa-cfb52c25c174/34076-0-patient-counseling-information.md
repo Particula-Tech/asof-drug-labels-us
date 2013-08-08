@@ -3,10 +3,10 @@
 ## 17.1 Bone Marrow Suppression
 
 Inform patients that HYCAMTIN decreases blood cell counts such as white blood cells, platelets, and red blood cells.
-Patients who develop fever or other signs of infection such as chills, cough, or burning pain on urination while on therapy should notify their physician promptly.
+Patients who develop fever, other signs of infection (e.g., chills, cough, or burning pain on urination), or bleeding while on therapy should notify their physician promptly.
 Inform patients that frequent blood tests will be performed while taking HYCAMTIN to monitor for the occurrence of bone marrow suppression.
 
-## 17.2 Pregnancy
+## 17.2 Pregnancy and Breastfeeding
 
 Advise patients to use effective contraceptive measures to prevent pregnancy and to avoid breastfeeding during treatment with HYCAMTIN.
 
@@ -21,9 +21,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
-
-April 2010
-
-HYJ:20PI
+HYJ:21PI
