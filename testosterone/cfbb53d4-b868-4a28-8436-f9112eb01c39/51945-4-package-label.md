@@ -1,27 +1,79 @@
+# PRINCIPAL DISPLAY PANEL - 100 mg/mL Vial Label
+
+NDC 0009-0347-02
+
+10 mL Vial Multiple-Dose
+
+Depo®- Testosterone
+
+testosterone cypionate injection, USP
+
+100 mg/mL
+
+CIII
+
+For intramuscular use only
+
+Pfizer Injectables
+
+Rx only
+
 # PRINCIPAL DISPLAY PANEL - 100 mg/mL Vial Carton
 
 NDC 0009-0347-02
 
-One 10 mL Vial Multiple-Dose Rx only
+One 10 mL Vial Multiple-Dose
 
-Depo®- Testosterone testosterone cypionate injection, USP CIII
+Depo®- Testosterone
 
-For intramuscular use only
+testosterone cypionate injection, USP
 
 100 mg/mL
 
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
-
-# PRINCIPAL DISPLAY PANEL - 200 mg/mL Vial Carton
-
-NDC 0009-0417-02
-
-One 10 mL Vial Multiple-Dose Rx only
-
-Depo®- Testosterone testosterone cypionate injection, USP CIII
+CIII
 
 For intramuscular use only
 
+Rx only
+
+Pfizer Injectables
+
+# PRINCIPAL DISPLAY PANEL - 200 mg/mL Vial Label
+
+1 mL Vial
+
+NDC 0009-0417-01
+
+Depo®- Testosterone
+
+testosterone cypionate injection, USP
+
 200 mg/mL
 
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+CIII
+
+For IM use only
+
+Pfizer Injectables
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 200 mg/mL Vial Carton
+
+NDC 0009-0417-01
+
+One 1 mL Vial
+
+Depo®- Testosterone
+
+testosterone cypionate injection, USP
+
+200 mg/mL
+
+CIII
+
+For intramuscular use only
+
+Rx only
+
+Pfizer Injectables
