@@ -24,13 +24,7 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-*Bar Code Position Only 071966240
-
-©Copyright 1985, 1989, 1994, 1995, Baxter Healthcare Corporation.
-
-All rights reserved.
-
-Baxter and VIAFLEX are trademarks of Baxter International Inc.
+Baxter and Viaflex are trademarks of Baxter International Inc.
 
 07-19-66-240
 

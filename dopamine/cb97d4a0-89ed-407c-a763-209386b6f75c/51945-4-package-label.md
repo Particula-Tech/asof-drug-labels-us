@@ -1,85 +1,121 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
 
-LOT
-
-EXP
-
-2B0832
+LOT EXP
 
 NDC 0338-1005-02
 
-200 mg Total DOPamine Hydrochloride and 5% Dextrose Injection USP (800 mcg/mL)
+DOPamine HCl
 
-250 mL
+Dopamine Hydrochloride and 5% Dextrose Injection USP
 
-EACH 100 mL CONTAINS 80 mg DOPAMINE HYDROCHLORIDE USP 5 g DEXTROSE HYDROUS USP 5 mEq/L SODIUM BISULFITE ADDED AS A STABILIZER pH ADJUSTED WITH HYDROCHLORIC ACID pH 3.5 (2.5 TO 4.5) OSMOLARITY 261 mOsmol/L (CALC) STERILE NONPYROGENIC SINGLE DOSE CONTAINER DRUG ADDITIVES SHOULD NOT BE MADE TO THIS SOLUTION DOSAGE INTRAVENOUSLY AS DIRECTED BY A PHYSICIAN SEE DIRECTIONS CAUTIONS MUST NOT BE USED IN SERIES CONNECTIONS DO NOT ADMINISTER SIMULTANEOUSLY WITH BLOOD DO NOT USE UNLESS SOLUTION IS CLEAR AND IS NOT DARKER THAN SLIGHTLY YELLOW RX ONLY
+200 mg per 250 mL (800 mcg / mL)
 
-VIAFLEX PLUS CONTAINER
+250 mL STERILE SINGLE DOSE CONTAINEREACH 100 mL CONTAINS 80 mg DOPAMINE HCl USP AND 5 g DEXTROSE HYDROUS USP 5 mEq/L SODIUM BISULFITE ADDED AS A STABILIZER pH 3.5 (2.5 TO 4.5) OSMOLARITY 261 mOsmol/L (CALC) USUAL DOSAGE SEE INSERTDO NOT ADD SUPPLEMENTARY MEDICATION STORE IN MOISTURE AND OXYGEN BARRIER OVERWRAP AT ROOM TEMPERATURE (77°F OR 25°C) UNTIL READY TO USE RX ONLY
 
-PL 2207 PLASTIC
+BAXTER Logo USA 2B0832
 
-BAXTER HEALTHCARE CORPORATION DEERFIELD IL 60015 USA
+07-25-58-666
 
-MADE IN USA
+50
 
-BAXTER AND VIAFLEX ARE TRADEMARKS OF BAXTER INTERNATIONAL INC
+100
 
-FOR PRODUCT INFORMATION 1-800-933-0303
+150
 
-Do not remove unit from overwrap until ready to use.
-Do not use if overwrap has been previously opened or damaged.
-The overwrap is a moisture and oxygen barrier.
-The inner bag maintains the sterility of the product.
+200
 
-2B0832 NDC 0338-1005-02
-
-200 mg Total
-
-DOPamine Hydrochloride and 5% Dextrose Injection USP (800 mcg/mL)
-
-*UPC-A BAR CODE POSITION ONLY
-
-303381005023
-
-250 mL Each 100 mL contains 80 mg Dopamine Hydrochloride, USP, 5 g Dextrose Hydrous, USP.
-5 mEq/L sodium bisulfite added as a stabilizer. pH adjusted with hydrochloric acid. pH 3.5 (2.5 to 4.5) Osmolarity 261 mOsmol/L (calc).
-Sterile, nonpyrogenic, single dose container.
-Drug additives should not be made to this solution.
-Dosage: Intravenously as directed by a physician.
-See directions.
-Cautions: Check for minute leaks by squeezing the inner bag firmly.
-If leaks are found, discard solution as sterility may be impaired.
-Must not be used in series connections.
-Do not administer simultaneously with blood.
-Do not use unless solution is clear and is not darker than slightly yellow.
-Rx only.
-Recommended storage: Room temperature (25°C).
-Avoid excessive heat.
-Protect from freezing.
-See insert.
-
-Baxter Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA
-
-Viaflex Plus container
-
-For product information 1-800-933-0303
-
-Baxter and Viaflex and trademarks of Baxter International Inc., and are registered in the USPTO
-
-7-7-24-750 2001/08
-
-Lot: xxxxx
-
-Exp: xxx xx
-
-QTY: 18-250 mL
-
-Code: 2B0832
+Lot: PXXXXXX Exp: JAN XXXX QTY: 18-250 mL Code: 2B0832
 
 NDC: 0338-1005-02
 
-DOPamine 200mg 250mL Dextrose 5% INJ
+DOPamine Hydrochloride and 5% Dextrose INJ, USP
 
-(17)xx00(10)xxxxx
+200 mg per 250mL
 
-(01)50303301005028
+(17) XX0100(10)PXXXXXX
+
+(01) 50303381005028
+
+06/07/13 14:12:37 Packing#4
+
+LOT EXP
+
+NDC 0338-1007-02
+
+DOPamine HCl
+
+Dopamine Hydrochloride and 5% Dextrose Injection USP
+
+400 mg per 250 mL (1,600 mcg / mL)
+
+250 mL STERILE SINGLE DOSE CONTAINER EACH 100 mL CONTAINS 160 mg DOPAMINE HCl USP AND 5 g DEXTROSE HYDROUS USP 5 mEq/L SODIUM BISFULITE ADDED AS A STABILIZER pH 3.5 (2.5 TO 4.5) OSMOLARITY 269 mOsmol/L (CALC) USUAL DOSAGE SEE INSERTDO NOT ADD SUPPLEMENTARY MEDICATION STORE IN MOISTURE AND OXYGEN BARRIER OVERWRAP AT ROOM TEMPERATURE (77°F or 25°C) UNTIL READY TO USE Rx ONLY
+
+Baxter Logo
+
+USA 2B0842
+
+07-25-58-661
+
+50
+
+100
+
+150
+
+200
+
+Lot: X Exp: xxx xxxx
+
+QTY: 18-250 mL Code: 2B0842
+
+NDC: 0338-1007-02
+
+DOPamine Hydrochloride and 5% Dextrose INJ, USP
+
+400mg per 250mL
+
+(17)XXXXX00(10)x
+
+(01) 50303381007022
+
+07/17/13 17:04:32 Packing#4
+
+LOT EXP
+
+NDC 0338-1009-02
+
+DOPamine HCl
+
+Dopamine Hydrochloride and 5% Dextrose Injection USP
+
+800 mg per 250 mL (3,200 mcg / mL)
+
+250 mL STERILE SINGLE DOSE CONTAINER EACH 100 mL CONTAINS 320 mg DOPAMINE HCl USP AND 5 g DEXTROSE HYDROUS USP 5 mEq/L SODIUM BISFULITE ADDED AS A STABILIZER pH 3.5 (2.5 TO 4.5) OSMOLARITY 269 mOsmol/L (CALC) USUAL DOSAGE SEE INSERTDO NOT ADD SUPPLEMENTARY MEDICATION STORE IN MOISTURE AND OXYGEN BARRIER OVERWRAP AT ROOM TEMPERATURE (77°F or 25°C) UNTIL READY TO USE Rx ONLY
+
+Baxter Logo
+
+USA 2B0846
+
+07-25-58-670
+
+50
+
+100
+
+150
+
+200
+
+Lot: x Exp: xxx xxxx QTY: 18-250 mL Code: 2B0846
+
+NDC: 0338-1009-02
+
+DOPamine Hydrchloride and 5% Dextrose INJ, USP
+
+80mg per 250mL
+
+(17) XXXXX00(10)x
+
+(01) 50303381009026
+
+07/17/13 17:05_54 Packing#4
