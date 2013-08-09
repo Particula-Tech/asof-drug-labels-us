@@ -2,7 +2,7 @@ Representative sample of labeling (see HOW SUPPLIED section for complete listing
 
 PRINCIPAL DISPLAY PANEL - 150 MG BOTTLE LABEL
 
-APOTEX CORP. NDC 60505-3251-0
+APOTEX CORP. NDC 60505-3251-6
 
 Lamivudine Tablets
 

@@ -6,39 +6,51 @@ Lamivudine is an antiviral agent [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetics in Adults: The pharmacokinetic properties of lamivudine have been studied in asymptomatic, HIV-1-infected adult patients after administration of single intravenous (IV) doses ranging from 0.25 to 8 mg/kg, as well as single and multiple (twice-daily regimen) oral doses ranging from 0.25 to 10 mg/kg.
+Pharmacokinetics in Adults
+
+The pharmacokinetic properties of lamivudine have been studied in asymptomatic, HIV-1-infected adult patients after administration of single intravenous (IV) doses ranging from 0.25 to 8 mg/kg, as well as single and multiple (twice-daily regimen) oral doses ranging from 0.25 to 10 mg/kg.
 
 The pharmacokinetic properties of lamivudine have also been studied as single and multiple oral doses ranging from 5 mg to 600 mg/day administered to HBV-infected patients.
 
 The steady-state pharmacokinetic properties of the lamivudine 300-mg tablet once daily for 7 days compared with the lamivudine 150-mg tablet twice daily for 7 days were assessed in a crossover study in 60 healthy volunteers.
-Lamivudine Tablets 300 mg once daily resulted in lamivudine exposures that were similar to Lamivudine Tablets 150 mg twice daily with respect to plasma AUC24,ss; however, Cmax,ss was 66% higher and the trough value was 53% lower compared with the 150-mg twice-daily regimen.
+Lamivudine tablets 300 mg once daily resulted in lamivudine exposures that were similar to lamivudine tablets 150 mg twice daily with respect to plasma AUC24,ss; however, Cmax,ss was 66% higher and the trough value was 53% lower compared with the 150-mg twice-daily regimen.
 Intracellular lamivudine triphosphate exposures in peripheral blood mononuclear cells were also similar with respect to AUC24,ss and Cmax24,ss; however, trough values were lower compared with the 150-mg twice-daily regimen.
 Inter-subject variability was greater for intracellular lamivudine triphosphate concentrations versus lamivudine plasma trough concentrations.
 The clinical significance of observed differences for both plasma lamivudine concentrations and intracellular lamivudine triphosphate concentrations is not known.
 
-Absorption and Bioavailability: Lamivudine was rapidly absorbed after oral administration in HIV-1-infected patients.
+Absorption and Bioavailability
+
+Lamivudine was rapidly absorbed after oral administration in HIV-1-infected patients.
 Absolute bioavailability in 12 adult patients was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the oral solution.
 After oral administration of 2 mg/kg twice a day to 9 adults with HIV-1, the peak serum lamivudine concentration (Cmax) was 1.5 ± 0.5 mcg/mL (mean ± SD).
 The area under the plasma concentration versus time curve (AUC) and Cmax increased in proportion to oral dose over the range from 0.25 to 10 mg/kg.
 
 The accumulation ratio of lamivudine in HIV-1-positive asymptomatic adults with normal renal function was 1.50 following 15 days of oral administration of 2 mg/kg twice daily.
 
-Effects of Food on Oral Absorption: An investigational 25-mg dosage form of lamivudine was administered orally to 12 asymptomatic, HIV-1-infected patients on 2 occasions, once in the fasted state and once with food (1,099 kcal; 75 grams fat, 34 grams protein, 72 grams carbohydrate).
-Absorption of lamivudine was slower in the fed state (Tmax: 3.2 ± 1.3 hours) compared with the fasted state (Tmax: 0.9 ± 0.3 hours); Cmax in the fed state was 40% ± 23% (mean ± SD) lower than in the fasted state.
-There was no significant difference in systemic exposure (AUC∞) in the fed and fasted states; therefore, Lamivudine Tablets may be administered with or without food.
+Effects of Food on Oral Absorption
 
-Distribution: The apparent volume of distribution after IV administration of lamivudine to 20 patients was 1.3 ± 0.4 L/kg, suggesting that lamivudine distributes into extravascular spaces.
+An investigational 25-mg dosage form of lamivudine was administered orally to 12 asymptomatic, HIV-1-infected patients on 2 occasions, once in the fasted state and once with food (1,099 kcal; 75 grams fat, 34 grams protein, 72 grams carbohydrate).
+Absorption of lamivudine was slower in the fed state (Tmax: 3.2 ± 1.3 hours) compared with the fasted state (Tmax: 0.9 ± 0.3 hours); Cmax in the fed state was 40% ± 23% (mean ± SD) lower than in the fasted state.
+There was no significant difference in systemic exposure (AUC∞) in the fed and fasted states; therefore, Lamivudine tablets may be administered with or without food.
+
+Distribution
+
+The apparent volume of distribution after IV administration of lamivudine to 20 patients was 1.3 ± 0.4 L/kg, suggesting that lamivudine distributes into extravascular spaces.
 Volume of distribution was independent of dose and did not correlate with body weight.
 
 Binding of lamivudine to human plasma proteins is low (<36%).
 In vitro studies showed that over the concentration range of 0.1 to 100 mcg/mL, the amount of lamivudine associated with erythrocytes ranged from 53% to 57% and was independent of concentration.
 
-Metabolism: Metabolism of lamivudine is a minor route of elimination.
+Metabolism
+
+Metabolism of lamivudine is a minor route of elimination.
 In man, the only known metabolite of lamivudine is the trans-sulfoxide metabolite.
 Within 12 hours after a single oral dose of lamivudine in 6 HIV-1-infected adults, 5.2% ± 1.4% (mean ± SD) of the dose was excreted as the trans-sulfoxide metabolite in the urine.
 Serum concentrations of this metabolite have not been determined.
 
-Elimination: The majority of lamivudine is eliminated unchanged in urine by active organic cationic secretion.
+Elimination
+
+The majority of lamivudine is eliminated unchanged in urine by active organic cationic secretion.
 In 9 healthy subjects given a single 300-mg oral dose of lamivudine, renal clearance was 199.7 ± 56.9 mL/min (mean ± SD).
 In 20 HIV-1-infected patients given a single IV dose, renal clearance was 280.4 ± 75.2 mL/min (mean ± SD), representing 71% ± 16% (mean ± SD) of total clearance of lamivudine.
 
@@ -46,7 +58,7 @@ In most single-dose studies in HIV-1-infected patients, HBV-infected patients, o
 In HIV-1-infected patients, total clearance was 398.5 ± 69.1 mL/min (mean ± SD).
 Oral clearance and elimination half-life were independent of dose and body weight over an oral dosing range of 0.25 to 10 mg/kg.
 
-Special Populations: Renal Impairment: The pharmacokinetic properties of lamivudine have been determined in a small group of HIV-1-infected adults with impaired renal function (Table 7).
+Special Populations Renal Impairment The pharmacokinetic properties of lamivudine have been determined in a small group of HIV-1-infected adults with impaired renal function (Table 7).
 
 Table 7.
 Pharmacokinetic Parameters (Mean ± SD) After a Single 300-mg Oral Dose of Lamivudine in 3 Groups of Adults With Varying Degrees of Renal Function
@@ -72,11 +84,15 @@ It is not known whether lamivudine can be removed by continuous (24-hour) hemodi
 
 The effects of renal impairment on lamivudine pharmacokinetics in pediatric patients are not known.
 
-Hepatic Impairment: The pharmacokinetic properties of lamivudine have been determined in adults with impaired hepatic function.
+Hepatic Impairment
+
+The pharmacokinetic properties of lamivudine have been determined in adults with impaired hepatic function.
 Pharmacokinetic parameters were not altered by diminishing hepatic function; therefore, no dose adjustment for lamivudine is required for patients with impaired hepatic function.
 Safety and efficacy of lamivudine have not been established in the presence of decompensated liver disease.
 
-Pediatric Patients: In Study NUCA2002, pharmacokinetic properties of lamivudine were assessed in a subset of 57 HIV-1-infected pediatric patients (age range: 4.8 months to 16 years, weight range: 5 to 66 kg) after oral and IV administration of 1, 2, 4, 8, 12, and 20 mg/kg/day.
+Pediatric Patients
+
+In Study NUCA2002, pharmacokinetic properties of lamivudine were assessed in a subset of 57 HIV-1-infected pediatric patients (age range: 4.8 months to 16 years, weight range: 5 to 66 kg) after oral and IV administration of 1, 2, 4, 8, 12, and 20 mg/kg/day.
 In the 9 infants and children (range: 5 months to 12 years of age) receiving oral solution 4 mg/kg twice daily (the usual recommended pediatric dose), absolute bioavailability was 66% ± 26% (mean ± SD), which was less than the 86% ± 16% (mean ± SD) observed in adults.
 The mechanism for the diminished absolute bioavailability of lamivudine in infants and children is unknown.
 
@@ -97,39 +113,61 @@ Limited, uncontrolled pharmacokinetic and safety data are available from adminis
 In these studies, lamivudine clearance was substantially reduced in 1-week-old neonates relative to pediatric patients (>3 months of age) studied previously.
 There is insufficient information to establish the time course of changes in clearance between the immediate neonatal period and the age-ranges >3 months old [see Adverse Reactions (6.1)].
 
-Geriatric Patients: The pharmacokinetics of lamivudine after administration of Lamivudine Tablets to patients over 65 years of age have not been studied [see Use in Specific Populations (8.5)].
+Geriatric Patients
 
-Gender: There are no significant gender differences in lamivudine pharmacokinetics.
+The pharmacokinetics of lamivudine after administration of lamivudine tablets to patients over 65 years of age have not been studied [see Use in Specific Populations (8.5)].
 
-Race: There are no significant racial differences in lamivudine pharmacokinetics.
+Gender
 
-Drug Interactions:Interferon Alfa: There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a study of 19 healthy male subjects [see Warnings and Precautions (5.4)].
+There are no significant gender differences in lamivudine pharmacokinetics.
 
-Ribavirin:In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
+Race
+
+There are no significant racial differences in lamivudine pharmacokinetics.
+
+Drug Interactions
+
+Interferon Alfa
+
+There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a study of 19 healthy male subjects [see Warnings and Precautions (5.4)].
+
+Ribavirin
+
+In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
 However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected patients [see Warnings and Precautions (5.4)].
 
-Trimethoprim/Sulfamethoxazole: Lamivudine and TMP/SMX were coadministered to 14 HIV-1-positive patients in a single-center, open-label, randomized, crossover study.
+Trimethoprim/Sulfamethoxazole
+
+Lamivudine and TMP/SMX were coadministered to 14 HIV-1-positive patients in a single-center, open-label, randomized, crossover study.
 Each patient received treatment with a single 300-mg dose of lamivudine and TMP 160 mg/SMX 800 mg once a day for 5 days with concomitant administration of lamivudine 300 mg with the fifth dose in a crossover design.
 Coadministration of TMP/SMX with lamivudine resulted in an increase of 43% ± 23% (mean ± SD) in lamivudine AUC∞, a decrease of 29% ± 13% in lamivudine oral clearance, and a decrease of 30% ± 36% in lamivudine renal clearance.
 The pharmacokinetic properties of TMP and SMX were not altered by coadministration with lamivudine [see Drug Interactions (7.3)].
 
-Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1-infected adult patients given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg q 12 hr) [see Drug Interactions (7.4)].
+Zidovudine
+
+No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1-infected adult patients given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg q 12 hr) [see Drug Interactions (7.4)].
 
 ## 12.4 Microbiology
 
-Mechanism of Action: Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP).
+Mechanism of Action
+
+Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP).
 The principal mode of action of 3TC-TP is the inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue into viral DNA.
 3TC-TP is a weak inhibitor of mammalian DNA polymerases α, β, and γ.
 
-Antiviral Activity: The antiviral activity of lamivudine against HIV-1 was assessed in a number of cell lines (including monocytes and fresh human peripheral blood lymphocytes) using standard susceptibility assays.
-EC50 values (50% effective concentrations) were in the range of 0.003 to 15 µM (1 μM = 0.23 mcg/mL).
-HIV-1 from therapy-naive subjects with no amino acid substitutions associated with resistance gave median EC50 values of 0.429 µM (range: 0.200 to 2.007 µM) from Virco (n = 92 baseline samples from COLA40263) and 2.35 µM (1.37 to 3.68 µM) from Monogram Biosciences (n = 135 baseline samples from ESS30009).
-The EC50 values of lamivudine against different HIV-1 clades (A-G) ranged from 0.001 to 0.120 µM, and against HIV-2 isolates from 0.003 to 0.120 μM in peripheral blood mononuclear cells.
-Ribavirin (50 μM) decreased the anti-HIV-1 activity of lamivudine by 3.5 fold in MT-4 cells.
-In HIV-1-infected MT-4 cells, lamivudine in combination with zidovudine at various ratios exhibited synergistic antiretroviral activity.
-Please see the full prescribing information for EPIVIR-HBV for information regarding the inhibitory activity of lamivudine against HBV.
+Antiviral Activity
 
-Resistance: Lamivudine-resistant variants of HIV-1 have been selected in cell culture.
+The antiviral activity of lamivudine against HIV-1 was assessed in a number of cell lines (including monocytes and fresh human peripheral blood lymphocytes) using standard susceptibility assays.
+EC50 values (50% effective concentrations) were in the range of 0.003 to 15 mcM (1 mcM = 0.23 mcg/mL).
+HIV-1 from therapy-naive subjects with no amino acid substitutions associated with resistance gave median EC50 values of 0.429 mcM (range: 0.200 to 2.007 mcM) from Virco (n = 92 baseline samples from COLA40263) and 2.35 mcM (1.37 to 3.68 mcM) from Monogram Biosciences (n = 135 baseline samples from ESS30009).
+The EC50 values of lamivudine against different HIV-1 clades (A-G) ranged from 0.001 to 0.120 mcM, and against HIV-2 isolates from 0.003 to 0.120 mcM in peripheral blood mononuclear cells.
+Ribavirin (50 mcM) decreased the anti-HIV-1 activity of lamivudine by 3.5 fold in MT-4 cells.
+In HIV-1-infected MT-4 cells, lamivudine in combination with zidovudine at various ratios exhibited synergistic antiretroviral activity.
+Please see the full prescribing information for EPIVIR-HBV® for information regarding the inhibitory activity of lamivudine against HBV.
+
+Resistance
+
+Lamivudine-resistant variants of HIV-1 have been selected in cell culture.
 Genotypic analysis showed that the resistance was due to a specific amino acid substitution in the HIV-1 reverse transcriptase at codon 184 changing the methionine to either isoleucine or valine (M184V/I).
 
 HIV-1 strains resistant to both lamivudine and zidovudine have been isolated from patients.
@@ -142,10 +180,16 @@ Lamivudine-resistant HBV isolates develop substitutions (rtM204V/I) in the YMDD 
 Other substitutions detected in lamivudine-resistant HBV isolates include: rtL80I and rtA181T.
 Similar HBV mutants have been reported in HIV-1-infected patients who received lamivudine-containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus [see Warnings and Precautions (5.2)].
 
-Cross-Resistance: Lamivudine-resistant HIV-1 mutants were cross-resistant to didanosine (ddI) and zalcitabine (ddC).
+Cross-Resistance
+
+Lamivudine-resistant HIV-1 mutants were cross-resistant to didanosine (ddI) and zalcitabine (ddC).
 In some patients treated with zidovudine plus didanosine or zalcitabine, isolates resistant to multiple reverse transcriptase inhibitors, including lamivudine, have emerged.
 
-Genotypic and Phenotypic Analysis of On-Therapy HIV-1 Isolates From Patients With Virologic Failure: Study EPV20001: Fifty-three of 554 (10%) patients enrolled in EPV20001 were identified as virological failures (plasma HIV-1 RNA level ≥400 copies/mL) by Week 48.
+Genotypic and Phenotypic Analysis of On-Therapy HIV-1 Isolates From Patients With Virologic Failure
+
+Study EPV20001
+
+Fifty-three of 554 (10%) patients enrolled in EPV20001 were identified as virological failures (plasma HIV-1 RNA level ≥400 copies/mL) by Week 48.
 Twenty-eight patients were randomized to the lamivudine once-daily treatment group and 25 to the lamivudine twice-daily treatment group.
 The median baseline plasma HIV-1 RNA levels of patients in the lamivudine once-daily group and lamivudine twice-daily group were 4.9 log10 copies/mL and 4.6 log10 copies/mL, respectively.
 
@@ -157,7 +201,9 @@ Phenotypic analysis of baseline-matched on-therapy HIV-1 isolates from patients 
 
 Phenotypic analysis of baseline-matched on-therapy HIV-1 isolates from patients (n = 13) receiving lamivudine twice daily showed that isolates from all 13 patients were susceptible to zidovudine; isolates from 3/13 patients exhibited a 21- to 342-fold decrease in susceptibility to efavirenz, and isolates from 4/13 patients exhibited a 29- to 159-fold decrease in susceptibility to lamivudine.
 
-Study EPV40001: Fifty patients received zidovudine 300 mg twice daily plus abacavir 300 mg twice daily plus lamivudine 300 mg once daily and 50 patients received zidovudine 300 mg plus abacavir 300 mg plus lamivudine 150 mg all twice daily.
+Study EPV40001
+
+Fifty patients received zidovudine 300 mg twice daily plus abacavir 300 mg twice daily plus lamivudine 300 mg once daily and 50 patients received zidovudine 300 mg plus abacavir 300 mg plus lamivudine 150 mg all twice daily.
 The median baseline plasma HIV-1 RNA levels for patients in the 2 groups were 4.79 log10 copies/mL and 4.83 log10 copies/mL, respectively.
 Fourteen of 50 patients in the lamivudine once-daily treatment group and 9 of 50 patients in the lamivudine twice-daily group were identified as virologic failures.
 

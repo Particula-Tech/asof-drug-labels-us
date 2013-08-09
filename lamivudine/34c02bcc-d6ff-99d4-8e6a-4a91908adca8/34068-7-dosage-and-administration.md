@@ -2,15 +2,15 @@
 
 ## 2.1 Adults and Adolescents >16 years of age
 
-The recommended oral dose of Lamivudine Tablets in HIV-1-infected adults and adolescents >16 years of age is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
+The recommended oral dose of lamivudine tablets in HIV-1-infected adults and adolescents >16 years of age is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
 If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
 
 ## 2.2 Pediatric Patients
 
 Lamivudine is also available as a scored tablet for HIV-1-infected pediatric patients who weigh ≥14 kg and for whom a solid dosage form is appropriate.
-Before prescribing Lamivudine Tablets, children should be assessed for the ability to swallow tablets.
-If a child is unable to reliably swallow Lamivudine Tablets, the oral solution formulation should be prescribed.
-The recommended oral dosage of Lamivudine Tablets for HIV-1-infected pediatric patients is presented in Table 1.
+Before prescribing lamivudine tablets, children should be assessed for the ability to swallow tablets.
+If a child is unable to reliably swallow lamivudine tablets, the oral solution formulation should be prescribed.
+The recommended oral dosage of lamivudine tablets for HIV-1-infected pediatric patients is presented in Table 1.
 
 Table 1.
 Dosing Recommendations for Lamivudine Tablets in Pediatric Patients
@@ -24,7 +24,7 @@ Dosing Recommendations for Lamivudine Tablets in Pediatric Patients
 
 ## 2.3 Patients With Renal Impairment
 
-Dosing of lamivudine tablets is adjusted in accordance with renal function.
+Dosing of lamivudine tablets are adjusted in accordance with renal function.
 Dosage adjustments are listed in Table 2 [see Clinical Pharmacology (12.3)].
 
 Table 2.

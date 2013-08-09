@@ -5,12 +5,14 @@
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including lamivudine and other antiretrovirals.
 A majority of these cases have been in women.
 Obesity and prolonged nucleoside exposure may be risk factors.
-Particular caution should be exercised when administering Lamivudine Tablets to any patient with known risk factors for liver disease; however, cases also have been reported in patients with no known risk factors.
-Treatment with Lamivudine Tablets should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+Particular caution should be exercised when administering lamivudine tablets to any patient with known risk factors for liver disease; however, cases also have been reported in patients with no known risk factors.
+Treatment with lamivudine tablets should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
 
 ## 5.2 Patients With HIV-1 and Hepatitis B Virus Co-infection
 
-Posttreatment Exacerbations of Hepatitis: In clinical trials in non-HIV-1-infected patients treated with lamivudine for chronic hepatitis B, clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
+Posttreatment Exacerbations of Hepatitis
+
+In clinical trials in non-HIV-1-infected patients treated with lamivudine for chronic hepatitis B, clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
 These exacerbations have been detected primarily by serum ALT elevations in addition to re-emergence of HBV DNA.
 Although most events appear to have been self-limited, fatalities have been reported in some cases.
 Similar events have been reported from postmarketing experience after changes from lamivudine-containing HIV-1 treatment regimens to non-lamivudine-containing regimens in patients infected with both HIV-1 and HBV.
@@ -18,18 +20,22 @@ The causal relationship to discontinuation of lamivudine treatment is unknown.
 Patients should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
 There is insufficient evidence to determine whether re-initiation of lamivudine alters the course of posttreatment exacerbations of hepatitis.
 
-Important Differences Among Lamivudine-Containing Products: Lamivudine Tablets contain a higher dose of the same active ingredient (lamivudine) than EPIVIR-HBV® Tabletn.
-EPIVIR-HBV® was developed for patients with chronic hepatitis B. The formulation and dosage of lamivudine in EPIVIR-HBV® are not appropriate for patients co-infected with HIV-1 and HBV.
-Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in patients co-infected with HIV-1 and HBV.
-If treatment with EPIVIR-HBV® is prescribed for chronic hepatitis B for a patient with unrecognized or untreated HIV-1 infection, rapid emergence of HIV-1 resistance is likely to result because of the subtherapeutic dose and the inappropriateness of monotherapy HIV-1 treatment.
-If a decision is made to administer lamivudine to patients co-infected with HIV-1 and HBV, Lamivudine Tablets, EPIVIR® Oral Solution, COMBIVIR® (lamivudine/zidovudine) Tablets, EPZICOM® (abacavir sulfate and lamivudine) Tablets, or TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine) Tablets should be used as part of an appropriate combination regimen.
+Important Differences Among Lamivudine-Containing Products
 
-Emergence of Lamivudine-Resistant HBV: In non–HIV-1-infected patients treated with lamivudine for chronic hepatitis B, emergence of lamivudine-resistant HBV has been detected and has been associated with diminished treatment response (see full prescribing information for EPIVIR-HBV® for additional information).
+Lamivudine tablets contain a higher dose of the same active ingredient (lamivudine) than EPIVIR-HBV tablets.
+EPIVIR-HBV was developed for patients with chronic hepatitis B. The formulation and dosage of lamivudine in EPIVIR-HBV are not appropriate for patients co-infected with HIV-1 and HBV.
+Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in patients co-infected with HIV-1 and HBV.
+If treatment with EPIVIR-HBV is prescribed for chronic hepatitis B for a patient with unrecognized or untreated HIV-1 infection, rapid emergence of HIV-1 resistance is likely to result because of the subtherapeutic dose and the inappropriateness of monotherapy HIV-1 treatment.
+If a decision is made to administer lamivudine to patients co-infected with HIV-1 and HBV, Lamivudine Tablets, EPIVIR Oral Solution, COMBIVIR® (lamivudine/zidovudine) Tablets, EPZICOM® (abacavir sulfate and lamivudine) Tablets, or TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine) Tablets should be used as part of an appropriate combination regimen.
+
+Emergence of Lamivudine-Resistant HBV
+
+In non–HIV-1-infected patients treated with lamivudine for chronic hepatitis B, emergence of lamivudine-resistant HBV has been detected and has been associated with diminished treatment response (see full prescribing information for EPIVIR-HBV for additional information).
 Emergence of hepatitis B virus variants associated with resistance to lamivudine has also been reported in HIV-1-infected patients who have received lamivudine-containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
 
 ## 5.3 Use With Other Lamivudine- and Emtricitabine-Containing Products
 
-Lamivudine Tablets should not be administered concomitantly with other lamivudine-containing products including EPIVIR-HBV® Tablets, EPIVIR® Oral Solution, COMBIVIR® (lamivudine/zidovudine) Tablets, EPZICOM® (abacavir sulfate and lamivudine) Tablets, or TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine) or emtricitabine-containing products, including ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), or TRUVADA® (emtricitabine and tenofovir).
+Lamivudine tablets should not be administered concomitantly with other lamivudine-containing products including EPIVIR-HBV Tablets, EPIVIR Oral Solution, COMBIVIR® (lamivudine/zidovudine) Tablets, EPZICOM® (abacavir sulfate and lamivudine) Tablets, or TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine) or emtricitabine-containing products, including ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), TRUVADA® (emtricitabine and tenofovir), or COMPLERA™ (rilpivirine/emtricitabine/tenofovir).
 
 ## 5.4 Use With Interferon- and Ribavirin-Based Regimens
 
@@ -47,8 +53,10 @@ Treatment with lamivudine should be stopped immediately if clinical signs, sympt
 
 ## 5.6 Immune Reconstitution Syndrome
 
-Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including Lamivudine Tablets.
+Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including lamivudine tablets.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.7 Fat Redistribution
 

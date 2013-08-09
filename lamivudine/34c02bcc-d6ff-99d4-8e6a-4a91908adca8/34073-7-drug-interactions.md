@@ -20,4 +20,4 @@ There is no information regarding the effect on lamivudine pharmacokinetics of h
 
 ## 7.4 Drugs with No Observed Interactions With Lamivudine
 
-A drug interaction study showed no clinically significant interaction between Lamivudine and zidovudine.
+A drug interaction study showed no clinically significant interaction between lamivudine and zidovudine.
