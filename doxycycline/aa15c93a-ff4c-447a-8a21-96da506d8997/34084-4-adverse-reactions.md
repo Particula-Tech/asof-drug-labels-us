@@ -5,7 +5,7 @@
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Adverse Reactions in Clinical Trials of ORACEA: In controlled clinical trials of adult subjects with mild to moderate rosacea, 537 subjects received ORACEA or placebo over a 16-week period.
-The following table summarizes selected adverse reactions that occurred in the clinical trials at a rate of less than or equal to 1% for the active arm:
+The following table summarizes selected adverse reactions that occurred in the clinical trials at a rate of >1% for the active arm:
 
 Table 1.
 Incidence (%) of Selected Adverse Reactions in Clinical Trials of ORACEA (n=269) vs. Placebo (n=268)
