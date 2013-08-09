@@ -1,6 +1,6 @@
 Medication Guide
 
-Lexapro® (leks-a-pro) (escitalopram oxalate) Tablets/Oral Solution
+Lexapro (leks-a-pro) (escitalopram oxalate) Tablets/Oral Solution
 
 Read the Medication Guide that comes with Lexapro before you start taking it and each time you get a refill.
 There may be new information.
