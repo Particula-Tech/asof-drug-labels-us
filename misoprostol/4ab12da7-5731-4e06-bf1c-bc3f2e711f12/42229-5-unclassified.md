@@ -1,3 +1,8 @@
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+LAB-0170-4.0 November 2012
+
 # PATIENT INFORMATION
 
 Read this leaflet before taking Cytotec® (misoprostol) and each time your prescription is renewed, because the leaflet may be changed.
@@ -33,6 +38,7 @@ See your doctor if you have questions.
 
 Keep out of reach of children.
 
-Rx only
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0170-3.0 September 2009
+LAB-0172–1.0 September 2012
