@@ -53,4 +53,4 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 ©2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-10003128/12 OT1338SC082013 10003129/11 IT1322R
+10003128/13 OT1338TH062013 10003129/12 IT1322S
