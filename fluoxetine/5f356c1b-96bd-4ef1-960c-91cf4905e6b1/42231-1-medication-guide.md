@@ -94,6 +94,15 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
+9.
+Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsades de Pointes).
+This condition can be life threatening.
+The symptoms may include:
+
+- fast, slow, or irregular heartbeat
+- shortness of breath
+- dizziness or fainting
+
 Do not stop PROZAC without first talking to your healthcare provider.
 Stopping PROZAC too quickly may cause serious symptoms including:
 
@@ -113,7 +122,7 @@ PROZAC is used to treat:
 - Obsessive Compulsive Disorder (OCD)
 - Bulimia Nervosa*
 - Panic Disorder*
-- Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa)*
+- Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa)
 - Treatment Resistant Depression (depression that has not gotten better with at least 2 other treatments), taken with olanzapine (Zyprexa)*
 
 *Not approved for use in children
@@ -261,7 +270,7 @@ This Medication Guide summarizes the most important information about PROZAC.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about PROZAC that is written for healthcare professionals.
 
-For more information about PROZAC call 1-800-Lilly-Rx (1-800-545-5979) or go to www.prozac.com.
+For more information about PROZAC call 1-800-Lilly-Rx (1-800-545-5979).
 
 What are the ingredients in PROZAC?
 
@@ -275,15 +284,13 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised January 3, 2013
+Medication Guide revised July 26, 2013
 
 Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-www.prozac.com
-
 Copyright © 2009, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 7104 AMP
+PV 7105 AMP

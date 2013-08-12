@@ -52,7 +52,7 @@ The infant's plasma drug levels were 340 ng/mL of fluoxetine and 208 ng/mL of no
 
 ## 8.4 Pediatric Use
 
-The efficacy of PROZAC for the treatment of Major Depressive Disorder was demonstrated in two 8- to 9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
+Use of PROZAC in children - The efficacy of PROZAC for the treatment of Major Depressive Disorder was demonstrated in two 8- to 9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
 
 The efficacy of PROZAC for the treatment of OCD was demonstrated in one 13-week placebo-controlled clinical trial with 103 pediatric outpatients ages 7 to <18 [see Clinical Studies (14.2)].
 
@@ -78,27 +78,22 @@ Therefore, height and weight should be monitored periodically in pediatric patie
 PROZAC is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Anyone considering the use of PROZAC in a child or adolescent must balance the potential risks with the clinical need.
 
-Significant toxicity, including myotoxicity, long-term neurobehavioral and reproductive toxicity, and impaired bone development, has been observed following exposure of juvenile animals to fluoxetine.
-Some of these effects occurred at clinically relevant exposures.
-
-In a study in which fluoxetine (3, 10, or 30 mg/kg) was orally administered to young rats from weaning (Postnatal Day 21) through adulthood (Day 90), male and female sexual development was delayed at all doses, and growth (body weight gain, femur length) was decreased during the dosing period in animals receiving the highest dose.
-At the end of the treatment period, serum levels of creatine kinase (marker of muscle damage) were increased at the intermediate and high doses, and abnormal muscle and reproductive organ histopathology (skeletal muscle degeneration and necrosis, testicular degeneration and necrosis, epididymal vacuolation and hypospermia) was observed at the high dose.
-When animals were evaluated after a recovery period (up to 11 weeks after cessation of dosing), neurobehavioral abnormalities (decreased reactivity at all doses and learning deficit at the high dose) and reproductive functional impairment (decreased mating at all doses and impaired fertility at the high dose) were seen; in addition, testicular and epididymal microscopic lesions and decreased sperm concentrations were found in the high dose group, indicating that the reproductive organ effects seen at the end of treatment were irreversible.
+Animal Data - Significant toxicity on muscle tissue, neurobehavior, reproductive organs, and bone development has been observed following exposure of juvenile rats to fluoxetine from weaning through maturity.
+Oral administration of fluoxetine to rats from weaning postnatal day 21 through adulthood day 90 at 3, 10, or 30 mg/kg/day was associated with testicular degeneration and necrosis, epididymal vacuolation and hypospermia (at 30 mg/kg/day corresponding to plasma exposures [AUC] approximately 5-10 times the average AUC in pediatric patients at the MRHD of 20 mg/day), increased serum levels of creatine kinase (at AUC as low as 1-2 times the average AUC in pediatric patients at the MRHD of 20 mg/day), skeletal muscle degeneration and necrosis, decreased femur length/growth and body weight gain (at AUC 5-10 times the average AUC in pediatric patients at the MRHD of 20 mg/day).
+The high dose of 30 mg/kg/day exceeded a maximum tolerated dose.
+When animals were evaluated after a drug-free period (up to 11 weeks after cessation of dosing), fluoxetine was associated with neurobehavioral abnormalities (decreased reactivity at AUC as low as approximately 0.1-0.2 times the average AUC in pediatric patients at the MRHD and learning deficit at the high dose), and reproductive functional impairment (decreased mating at all doses and impaired fertility at the high dose).
+In addition, the testicular and epididymal microscopic lesions and decreased sperm concentrations found in high dose group were also observed, indicating that the drug effects on reproductive organs are irreversible.
 The reversibility of fluoxetine-induced muscle damage was not assessed.
-Adverse effects similar to those observed in rats treated with fluoxetine during the juvenile period have not been reported after administration of fluoxetine to adult animals.
-Plasma exposures (AUC) to fluoxetine in juvenile rats receiving the low, intermediate, and high dose in this study were approximately 0.1-0.2, 1-2, and 5-10 times, respectively, the average exposure in pediatric patients receiving the maximum recommended dose (MRD) of 20 mg/day.
-Rat exposures to the major metabolite, norfluoxetine, were approximately 0.3-0.8, 1-8, and 3-20 times, respectively, pediatric exposure at the MRD.
 
-A specific effect of fluoxetine on bone development has been reported in mice treated with fluoxetine during the juvenile period.
-When mice were treated with fluoxetine (5 or 20 mg/kg, intraperitoneal) for 4 weeks starting at 4 weeks of age, bone formation was reduced resulting in decreased bone mineral content and density.
-These doses did not affect overall growth (body weight gain or femoral length).
-The doses administered to juvenile mice in this study are approximately 0.5 and 2 times the MRD for pediatric patients on a body surface area (mg/m2) basis.
+These fluoxetine toxicities in juvenile rats have not been observed in adult animals.
+Plasma exposures (AUC) to fluoxetine in juvenile rats receiving 3, 10, or 30 mg/kg/day doses in this study are approximately 0.1-0.2, 1-2, and 5-10 times, respectively, the average exposure in pediatric patients receiving the MRHD of 20 mg/day.
+Rat exposures to the major metabolite, norfluoxetine, are approximately 0.3-0.8, 1-8, and 3-20 times, respectively, the pediatric exposure at the MRHD.
 
-In another mouse study, administration of fluoxetine (10 mg/kg intraperitoneal) during early postnatal development (Postnatal Days 4 to 21) produced abnormal emotional behaviors (decreased exploratory behavior in elevated plus-maze, increase shock avoidance latency) in adulthood (12 weeks of age).
-The dose used in this study is approximately equal to the pediatric MRD on a mg/m2 basis.
-Because of the early dosing period in this study, the significance of these findings to the approved pediatric use in humans is uncertain.
+A specific effect on bone development was reported in juvenile mice administered fluoxetine by the intraperitoneal route to 4 week old mice for 4 weeks at doses 0.5 and 2 times the oral MRHD of 20 mg/day on mg/m2 basis.
+There was a decrease in bone mineralization and density at both doses, but the overall growth (body weight gain or femur length) was not affected.
 
-Safety and effectiveness of PROZAC and olanzapine in combination in patients less than 18 years of age have not been established.
+Use of PROZAC in combination with olanzapine in children and adolescents: Safety and efficacy of PROZAC and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder.
+Safety and effectiveness of PROZAC and olanzapine in combination in patients less than 10 years of age have not been established.
 
 ## 8.5 Geriatric Use
 

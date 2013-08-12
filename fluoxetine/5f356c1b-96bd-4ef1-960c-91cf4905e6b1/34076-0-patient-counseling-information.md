@@ -26,7 +26,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 ## 17.3 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of PROZAC and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort [see Contraindications (4.1), Warnings and Precautions 5.2, and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of PROZAC and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
 
 Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
@@ -48,23 +48,28 @@ Patients should be advised that hyponatremia has been reported as a result of tr
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death [see Warnings and Precautions (5.8)].
 
-## 17.7 Potential for Cognitive and Motor Impairment
+## 17.7 QT Prolongation
+
+Patients should be advised that QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with PROZAC.
+Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.10)].
+
+## 17.8 Potential for Cognitive and Motor Impairment
 
 PROZAC may impair judgment, thinking, or motor skills.
 Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.11)].
 
-## 17.8 Use of Concomitant Medications
+## 17.9 Use of Concomitant Medications
 
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Sarafem, or over-the-counter drugs, including herbal supplements or alcohol.
 Patients should also be advised to inform their physicians if they plan to discontinue any medications they are taking while on PROZAC.
 
-## 17.9 Discontinuation of Treatment
+## 17.10 Discontinuation of Treatment
 
 Patients should be advised to take PROZAC exactly as prescribed, and to continue taking PROZAC as prescribed even after their symptoms improve.
 Patients should be advised that they should not alter their dosing regimen, or stop taking PROZAC without consulting their physician [see Warnings and Precautions (5.13)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with PROZAC.
 
-## 17.10 Use in Specific Populations
+## 17.11 Use in Specific Populations
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Prozac should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
@@ -72,7 +77,9 @@ Prozac should be used during pregnancy only if the potential benefit justifies t
 Nursing Mothers — Patients should be advised to notify their physician if they intend to breast-feed an infant during therapy.
 Because PROZAC is excreted in human milk, nursing while taking PROZAC is not recommended [see Use in Specific Populations (8.3)].
 
-Pediatric Use — PROZAC is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
+Pediatric Use of PROZAC — PROZAC is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine.
-Safety and effectiveness of PROZAC and olanzapine in combination in patients less than 18 years of age have not been established [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
+[see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
+
+Pediatric Use of PROZAC and olanzapine in combination - Safety and efficacy of PROZAC and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions (5.14) and Use in Specific Populations (8.4)].

@@ -92,9 +92,14 @@ Nevertheless, patients should be periodically reassessed to determine the need f
 
 When using PROZAC and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
-Fluoxetine should be administered in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
+Adult — Fluoxetine should be administered in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 12.5 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
+Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
+
+Children and adolescents (10 -17 years of age) — Olanzapine and fluoxetine combination should be administered once daily in the evening, generally beginning with 2.5 mg of olanzapine and 20 mg of fluoxetine.
+Dosage adjustments, if indicated, can be made according to efficacy and tolerability.
+Safety of co-administration of doses above 12 mg of olanzapine with 50 mg of fluoxetine has not been evaluated in pediatric clinical studies.
 
 Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax (fixed-dose combination of olanzapine and fluoxetine).
 Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
@@ -115,8 +120,6 @@ Table 1: Approximate Dose Correspondence Between Symbyax1 and the Combination of
 
 While there is no body of evidence to answer the question of how long a patient treated with PROZAC and olanzapine in combination should remain on it, it is generally accepted that Bipolar I Disorder, including the depressive episodes associated with Bipolar I Disorder, is a chronic illness requiring chronic treatment.
 The physician should periodically re-examine the need for continued pharmacotherapy.
-
-Safety of coadministration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 
 PROZAC monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
@@ -145,7 +148,7 @@ PROZAC monotherapy is not indicated for the treatment of treatment resistant dep
 Treatment of Pregnant Women — When treating pregnant women with PROZAC, the physician should carefully consider the potential risks and potential benefits of treatment.
 Neonates exposed to SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
 
-Geriatric — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)]
+Geriatric — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)].
 
 Hepatic Impairment — As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
 
@@ -154,7 +157,7 @@ Concomitant Illness — Patients with concurrent disease or on multiple concomit
 PROZAC and Olanzapine in Combination — The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, non-smoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modifications may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-PROZAC and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 18 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.7)].
+PROZAC and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 10 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.7)].
 
 ## 2.8 Discontinuation of Treatment
 
