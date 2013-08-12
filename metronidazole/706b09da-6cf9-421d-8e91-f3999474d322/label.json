@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020743"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-5202-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "metronidazole",
+      "name": "Noritate"
+    }
+  ],
+  "setid": "706b09da-6cf9-421d-8e91-f3999474d322",
+  "source": "dailymed"
+}
