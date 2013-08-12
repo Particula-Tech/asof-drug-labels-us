@@ -23,9 +23,9 @@ Table 2: Suicidality per 1000 Patients Treated
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| 18–24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 25–64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -47,8 +47,7 @@ Families and caregivers of patients being treated with antidepressants for Major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for PROZAC should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-It should be noted that PROZAC is approved in the pediatric population only for Major Depressive Disorder and Obsessive Compulsive Disorder.
-Safety and effectiveness of PROZAC and olanzapine in combination in patients less than 18 years of age have not been established.
+It should be noted that PROZAC is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder; and PROZAC in combination with olanzapine for the acute treatment of depressive episodes associated with Bipolar I Disorder.
 
 ## 5.2 Serotonin Syndrome
 
@@ -59,7 +58,7 @@ Patients should be monitored for the emergence of serotonin syndrome.
 
 The concomitant use of PROZAC with MAOIs intended to treat psychiatric disorders is contraindicated.
 PROZAC should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1mg/kg to 8 mg/kg.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking PROZAC.
 PROZAC should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.9, 2.10)].
@@ -163,7 +162,21 @@ Anxiety and nervousness were reported, respectively, in 15% and 11% of patients 
 
 Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for PROZAC in clinical trials collecting only a primary reaction associated with discontinuation) in US placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [see Table 5].
 
-## 5.10 Use in Patients with Concomitant Illness
+## 5.10 QT Prolongation
+
+Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with PROZAC.
+PROZAC should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
+Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabolizer status, or use of other highly protein-bound drugs).
+PROZAC is primarily metabolized by CYP2D6 [see Contraindications (4.2), Drug Interactions (7.7, 7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
+
+Pimozide and thioridazine are contraindicated for use with PROZAC.
+Avoid the concomitant use of drugs known to prolong the QT interval.
+These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol,); specific antibiotics (e.g.,erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Drug Interactions (7.7, 7.8) and Clinical Pharmacology (12.3)].
+
+Consider ECG assessment and periodic ECG monitoring if initiating treatment with PROZAC in patients with risk factors for QT prolongation and ventricular arrhythmia.
+Consider discontinuing PROZAC and obtaining a cardiac evaluation if patients develop signs or symptoms consistent with ventricular arrhythmia.
+
+## 5.11 Use in Patients with Concomitant Illness
 
 Clinical experience with PROZAC in patients with concomitant systemic illness is limited.
 Caution is advisable in using PROZAC in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
@@ -179,17 +192,17 @@ As is true with many other types of medication when taken concurrently by patien
 
 Acute Narrow-Angle Glaucoma — Mydriasis has been reported in association with PROZAC; therefore, caution should be used when prescribing PROZAC in patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma.
 
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 As with any CNS-active drug, PROZAC has the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that the drug treatment does not affect them adversely.
 
-## 5.12 Long Elimination Half-Life
+## 5.13 Long Elimination Half-Life
 
 Because of the long elimination half-lives of the parent drug and its major active metabolite, changes in dose will not be fully reflected in plasma for several weeks, affecting both strategies for titration to final dose and withdrawal from treatment.
 This is of potential consequence when drug discontinuation is required or when drugs are prescribed that might interact with fluoxetine and norfluoxetine following the discontinuation of fluoxetine [see Clinical Pharmacology (12.3)].
 
-## 5.13 Discontinuation of Treatment
+## 5.14 Discontinuation Adverse Reactions
 
 During marketing of PROZAC, SNRIs, and SSRIs, there have been spontaneous reports of adverse reactions occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these reactions are generally self-limiting, there have been reports of serious discontinuation symptoms.
@@ -199,6 +212,6 @@ If intolerable symptoms occur following a decrease in the dose or upon discontin
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy which may minimize the risk of discontinuation symptoms with this drug.
 
-## 5.14 PROZAC and Olanzapine in Combination
+## 5.15 PROZAC and Olanzapine in Combination
 
 When using PROZAC and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
