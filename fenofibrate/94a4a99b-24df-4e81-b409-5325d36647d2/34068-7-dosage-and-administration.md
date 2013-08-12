@@ -1,18 +1,37 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Patients should be placed on an appropriate lipid-lowering diet before receiving TRIGLIDE and should continue on this diet during treatment with TRIGLIDE.
+## 2.1 General Considerations
 
-TRIGLIDE may be administered with or without food.
+Patients should be placed on an appropriate lipid-lowering diet before receiving Triglide, and should continue this diet during treatment with Triglide.
+Triglide tablets can be given without regard to meals.
+Patients should be advised to swallow Triglide tablets whole.
+Do not crush, dissolve or chew tablets.
 
-For the treatment of adult patients with primary hypercholesterolemia or mixed hyperlipidemia, the initial dose of TRIGLIDE is 160 mg per day.
+The initial treatment for dyslipidemia is dietary therapy specific for the type of lipoprotein abnormality.
+Excess body weight and excess alcoholic intake may be important factors in hypertriglyceridemia and should be addressed prior to any drug therapy.
+Physical exercise can be an important ancillary measure.
+Diseases contributory to hypercholesterolemia, such as hypothyroidism or diabetes mellitus should be looked for and adequately treated.
+Estrogen therapy, thiazide diuretics and beta-blockers, are sometimes associated with massive rises in plasma triglycerides, especially in subjects with familial hypertriglyceridemia.
+In such cases, discontinuation of the specific etiologic agent may obviate the need for specific drug therapy of hypertriglyceridemia.
 
-For adult patients with hypertriglyceridemia, the initial dose is 50 mg to 160 mg once daily.
+Lipid levels should be monitored periodically and consideration should be given to reducing the dosage of Triglide if lipid levels fall significantly below the targeted range.
+Therapy should be withdrawn in patients who do not have an adequate response after two months of treatment with the maximum recommended dose of 160 mg once daily.
 
+## 2.2 Primary Hypercholesterolemia or Mixed Dyslipidemia
+
+The dose of Triglide is 160 mg once daily.
+
+## 2.3 Severe Hypertriglyceridemia
+
+The initial dose is 50 to 160 mg per day.
 Dosage should be individualized according to patient response, and should be adjusted if necessary following repeat lipid determinations at 4 to 8 week intervals.
+The maximum dose is 160 mg once daily.
 
-The maximum dose is 160 mg per day.
+## 2.4 Impaired Renal Function
 
-Treatment with TRIGLIDE should be initiated at a dose of 50 mg/day in patients with impaired renal function, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
+Treatment with Triglide should be initiated at a dose of 50 mg per day in patients with mild to moderately impaired renal function, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
+The use of Triglide should be avoided in patients with severe renal impairment [see Use in Special Populations (8.6) and Clinical Pharmacology (12.3)].
 
-In the elderly, the initial dose should likewise be limited to 50 mg/day.
-Lipid levels should be monitored periodically and consideration should be given to reducing the dosage of TRIGLIDE if lipid levels fall significantly below the targeted range.
+## 2.5 Geriatric Patients
+
+Dose selection for the elderly should be made on the basis of renal function [See Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
