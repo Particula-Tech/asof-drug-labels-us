@@ -1,7 +1,6 @@
 # HOW SUPPLIED
 
-- 
-  - Propranolol hydrochloride extended-release capsules, USP are available as follows:
+Propranolol hydrochloride extended-release capsules, USP are available as follows:
 
 60 mg – Each #3 capsule with white opaque cap and yellow opaque body printed with and 2778 on the cap and body in black ink contains 60 mg of propranolol hydrochloride, USP.
 Capsules are supplied in bottles of 100 (NDC 0228-2778-11) with a child-resistant closure and 500 (NDC 0228-2778-50) without a child-resistant closure.
@@ -29,6 +28,6 @@ Actavis Elizabeth LLC
 
 Elizabeth, NJ 07207 USA
 
-40-9084
+40-9180
 
-Revised - June 2011
+Revised - June 2012
