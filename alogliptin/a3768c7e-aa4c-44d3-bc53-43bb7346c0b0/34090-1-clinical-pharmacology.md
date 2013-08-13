@@ -11,32 +11,32 @@ Alogliptin selectively binds to and inhibits DPP-4 but not DPP-8 or DPP-9 activi
 
 ## 12.2 Pharmacodynamics
 
-Single-dose administration of NESINA to healthy subjects resulted in a peak inhibition of DPP-4 within 2 to 3 hours after dosing.
+Single-dose administration of NESINA to healthy subjects resulted in a peak inhibition of DPP-4 within two to three hours after dosing.
 The peak inhibition of DPP-4 exceeded 93% across doses of 12.5 mg to 800 mg.
 Inhibition of DPP-4 remained above 80% at 24 hours for doses greater than or equal to 25 mg.
-Peak and total exposure over 24 hours to active GLP-1 were 3- to 4-fold greater with NESINA (at doses of 25 to 200 mg) than placebo.
-In a 16-week, double-blind, placebo-controlled study, NESINA 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an 8-hour period following a standardized meal.
+Peak and total exposure over 24 hours to active GLP-1 were three- to four-fold greater with NESINA (at doses of 25 to 200 mg) than placebo.
+In a 16-week, double-blind, placebo-controlled study, NESINA 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
-In this study, NESINA 25 mg demonstrated decreases in 2-hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
+In this study, NESINA 25 mg demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
 
-Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within 1 to 2 hours and exceeded 93% across all doses (25 mg, 100 mg, and 400 mg) after a single dose and after 14 days of once-daily dosing.
+Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once-daily dosing.
 At these doses of NESINA, inhibition of DPP-4 remained above 81% at 24 hours after 14 days of dosing.
 
 Cardiac Electrophysiology
 
-In a randomized, placebo-controlled, 4-arm, parallel-group study, 257 subjects were administered either alogliptin 50 mg, alogliptin 400 mg, moxifloxacin 400 mg, or placebo once-daily for a total of 7 days.
+In a randomized, placebo-controlled, four-arm, parallel-group study, 257 subjects were administered either alogliptin 50 mg, alogliptin 400 mg, moxifloxacin 400 mg or placebo once daily for a total of seven days.
 No increase in QTc was observed with either dose of alogliptin.
 At the 400 mg dose, peak alogliptin plasma concentrations were 19-fold higher than the peak concentrations following the maximum recommended clinical dose of 25 mg.
 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of NESINA has been studied in healthy subjects and in patients with type 2 diabetes.
-After administration of single, oral doses up to 800 mg in healthy subjects, the peak plasma alogliptin concentration (median Tmax) occurred 1 to 2 hours after dosing.
+After administration of single, oral doses up to 800 mg in healthy subjects, the peak plasma alogliptin concentration (median Tmax) occurred one to two hours after dosing.
 At the maximum recommended clinical dose of 25 mg, NESINA was eliminated with a mean terminal half-life (T1/2) of approximately 21 hours.
 
 After multiple-dose administration up to 400 mg for 14 days in patients with type 2 diabetes, accumulation of alogliptin was minimal with an increase in total (i.e., AUC) and peak (i.e., Cmax) alogliptin exposures of 34% and 9%, respectively.
 Total and peak exposure to alogliptin increased proportionally across single doses and multiple doses of alogliptin ranging from 25 mg to 400 mg.
-The inter-subject coefficient of variation for alogliptin AUC was 17%.
+The intersubject coefficient of variation for alogliptin AUC was 17%.
 The pharmacokinetics of NESINA was also shown to be similar in healthy subjects and in patients with type 2 diabetes.
 
 Absorption
@@ -56,7 +56,7 @@ Metabolism
 Alogliptin does not undergo extensive metabolism and 60% to 71% of the dose is excreted as unchanged drug in the urine.
 
 Two minor metabolites were detected following administration of an oral dose of [14C] alogliptin, N-demethylated, M-I (<1% of the parent compound), and N-acetylated alogliptin, M-II (<6% of the parent compound).
-M-I is an active metabolite and is an inhibitor of DPP-4 similar to the parent molecule; M-II does not display any inhibitory activity towards DPP-4 or other DPP-related enzymes.
+M-I is an active metabolite and is an inhibitor of DPP-4 similar to the parent molecule; M-II does not display any inhibitory activity toward DPP-4 or other DPP-related enzymes.
 In vitro data indicate that CYP2D6 and CYP3A4 contribute to the limited metabolism of alogliptin.
 
 Alogliptin exists predominantly as the (R)-enantiomer (>99%) and undergoes little or no chiral conversion in vivo to the (S)-enantiomer.
@@ -73,16 +73,16 @@ Renal Impairment
 
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of alogliptin 50 mg in patients with chronic renal impairment compared with healthy subjects.
 
-In patients with mild renal impairment (creatinine clearance (CrCl) ≥60 to <90 mL/min), an approximate 1.2-fold increase in plasma AUC of alogliptin was observed.
+In patients with mild renal impairment (creatinine clearance [CrCl] ≥60 to <90 mL/min), an approximate 1.2-fold increase in plasma AUC of alogliptin was observed.
 Because increases of this magnitude are not considered clinically relevant, dose adjustment for patients with mild renal impairment is not recommended.
 
-In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate 2-fold increase in plasma AUC of alogliptin was observed.
+In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate two-fold increase in plasma AUC of alogliptin was observed.
 To maintain similar systemic exposures of NESINA to those with normal renal function, the recommended dose is 12.5 mg once daily in patients with moderate renal impairment.
 
-In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and end-stage renal disease (CrCl <15 mL/min or requiring dialysis), an approximate 3- and 4-fold increase in plasma AUC of alogliptin were observed, respectively.
-Dialysis removed approximately 7% of the drug during a 3-hour dialysis session.
+In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and ESRD (CrCl <15 mL/min or requiring dialysis), an approximate three- and four-fold increase in plasma AUC of alogliptin were observed, respectively.
+Dialysis removed approximately 7% of the drug during a three-hour dialysis session.
 NESINA may be administered without regard to the timing of the dialysis.
-To maintain similar systemic exposures of NESINA to those with normal renal function, the recommended dose is 6.25 mg once daily in patients with severe renal impairment, as well as in patients with end-stage renal disease requiring dialysis.
+To maintain similar systemic exposures of NESINA to those with normal renal function, the recommended dose is 6.25 mg once daily in patients with severe renal impairment, as well as in patients with ESRD requiring dialysis.
 
 Hepatic Impairment
 
@@ -114,7 +114,7 @@ Drug Interactions
 
 In Vitro Assessment of Drug Interactions
 
-In vitro studies indicate that alogliptin is neither an inducer of CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A4, nor an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP3A4 and CYP2D6 at clinically relevant concentrations.
+In vitro studies indicate that alogliptin is neither an inducer of CYP1A2, CYP2B6, CYP2C9, CYP2C19 and CYP3A4, nor an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP3A4 and CYP2D6 at clinically relevant concentrations.
 
 In Vivo Assessment of Drug Interactions
 
@@ -126,10 +126,10 @@ No dose adjustment of NESINA is recommended based on results of the described ph
 Figure 1.
 Effect of Alogliptin on the Pharmacokinetic Exposure to Other Drugs
 
-*warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg.
+*Warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg.
 Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR).
 
-**caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate), and fexofenadine (P-gp substrate) were administered as a cocktail.
+**Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail.
 
 Effects of Other Drugs on the Pharmacokinetics of Alogliptin
 

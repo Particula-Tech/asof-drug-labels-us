@@ -6,13 +6,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Approximately 8500 patients with type 2 diabetes have been treated with NESINA in 14 randomized, double-blind, controlled clinical trials with approximately 2900 subjects randomized to placebo and approximately 2200 to an active comparator.
 The mean exposure to NESINA was 40 weeks with more than 2400 subjects treated for more than one year.
-Among these patients, 63% had a history of hypertension, 51% had a history of dyslipidemia, 25% had a history of myocardial infarction, 8% had a history of unstable angina, and 7% had a history of congestive heart failure.
-The mean duration of diabetes was 7 years, the mean body mass index (BMI) was 31 kg/m2 (51% of patients had a BMI ≥30 kg/m2), and the mean age was 57 years (24% of patients ≥65 years of age).
+Among these patients, 63% had a history of hypertension, 51% had a history of dyslipidemia, 25% had a history of myocardial infarction, 8% had a history of unstable angina and 7% had a history of congestive heart failure.
+The mean duration of diabetes was seven years, the mean body mass index (BMI) was 31 kg/m2 (51% of patients had a BMI ≥30 kg/m2), and the mean age was 57 years (24% of patients ≥65 years of age).
 
 Two placebo-controlled monotherapy trials of 12 and 26 weeks of duration were conducted in patients treated with NESINA 12.5 mg daily, NESINA 25 mg daily and placebo.
-Four placebo-controlled add-on combination therapy trials of 26 weeks duration were also conducted: with metformin, with a sulfonylurea, with a thiazolidinedione, and with insulin.
+Four placebo-controlled add-on combination therapy trials of 26 weeks duration were also conducted: with metformin, with a sulfonylurea, with a thiazolidinedione and with insulin.
 
-Five placebo-controlled trials of 16 weeks up through two years in duration were conducted in combination with metformin, in combination with pioglitazone and with pioglitazone added to a background of metformin therapy.
+Four placebo-controlled and one active-controlled trials of 16 weeks up through two years in duration were conducted in combination with metformin, in combination with pioglitazone and with pioglitazone added to a background of metformin therapy.
 
 Three active-controlled trials of 52 weeks in duration were conducted in patients treated with pioglitazone and metformin, in combination with metformin and as monotherapy compared to glipizide.
 
@@ -28,11 +28,11 @@ Adverse reactions reported in ≥4% of patients treated with NESINA 25 mg and mo
 |  | N=5902 | N=2926 | N=2257 |
 | Nasopharyngitis | 257 (4.4) | 89 (3.0) | 113 (5.0) |
 | Headache | 247 (4.2) | 72 (2.5) | 121 (5.4) |
-| Upper respiratory tract infection | 247 (4.2) | 61 (2.1) | 113 (5.0) |
+| Upper Respiratory Tract Infection | 247 (4.2) | 61 (2.1) | 113 (5.0) |
 
 Pancreatitis
 
-In the clinical trial program, pancreatitis was reported in 11 of 5902 (0.2%) patients receiving NESINA 25 mg daily compared to 5 of 5183 (<0.1%) patients receiving all comparators.
+In the clinical trial program, pancreatitis was reported in 11 of 5902 (0.2%) patients receiving NESINA 25 mg daily compared to five of 5183 (<0.1%) patients receiving all comparators.
 
 Hypersensitivity Reactions
 
@@ -47,21 +47,21 @@ In the monotherapy study, the incidence of hypoglycemia was 1.5% in patients tre
 The use of NESINA as add-on therapy to glyburide or insulin did not increase the incidence of hypoglycemia compared to placebo.
 In a monotherapy study comparing NESINA to a sulfonylurea in elderly patients, the incidence of hypoglycemia was 5.4% with NESINA compared to 26% with glipizide (Table 2).
 
-| Table 2. Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic and asymptomatic hypoglycemia; a concurrent glucose measurement was not required; intent-to-treat population. in Placebo and Active-Controlled Studies when NESINA was Used as Add-on Therapy to Glyburide, Insulin, Metformin, Pioglitazone, or Compared to Glipizide |  |  |
+| Table 2. Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic and asymptomatic hypoglycemia; a concurrent glucose measurement was not required; intent-to-treat population. in Placebo and Active-Controlled Studies when NESINA Was Used as Add-On Therapy to Glyburide, Insulin, Metformin, Pioglitazone or Compared to Glipizide |  |  |
 | --- | --- | --- |
-| Add-on to Glyburide (26 Weeks) | NESINA 25 mg + Glyburide | Placebo + Glyburide |
+| Add-On to Glyburide (26 Weeks) | NESINA 25 mg + Glyburide | Placebo + Glyburide |
 |  | N=198 | N=99 |
 | Overall (%) | 19 (9.6) | 11 (11.1) |
 | Severe (%)Severe events of hypoglycemia were defined as those events requiring medical assistance or exhibiting depressed level or loss of consciousness or seizure. | 0 | 1 (1) |
-| Add-on to Insulin (+/- Metformin) (26 Weeks) | NESINA 25 mg + Insulin (+/- Metformin) | Placebo + Insulin (+/- Metformin) |
+| Add-On to Insulin (± Metformin) (26 Weeks) | NESINA 25 mg + Insulin (± Metformin) | Placebo + Insulin (± Metformin) |
 |  | N=129 | N=129 |
 | Overall (%) | 35 (27) | 31 (24) |
 | Severe (%) | 1 (0.8) | 2 (1.6) |
-| Add-on to Metformin (26 Weeks) | NESINA 25 mg + Metformin | Placebo + Metformin |
+| Add-On to Metformin (26 Weeks) | NESINA 25 mg + Metformin | Placebo + Metformin |
 |  | N=207 | N=104 |
 | Overall (%) | 0 | 3 (2.9) |
 | Severe (%) | 0 | 0 |
-| Add-on to Pioglitazone (± Metformin or Sulfonylurea) (26 Weeks) | NESINA 25 mg + Pioglitazone | Placebo + Pioglitazone |
+| Add-On to Pioglitazone (± Metformin or Sulfonylurea) (26 Weeks) | NESINA 25 mg + Pioglitazone | Placebo + Pioglitazone |
 |  | N=199 | N=97 |
 | Overall (%) | 14 (7.0) | 5 (5.2) |
 | Severe (%) | 0 | 1 (1) |
@@ -69,11 +69,11 @@ In a monotherapy study comparing NESINA to a sulfonylurea in elderly patients, t
 |  | N=222 | N=219 |
 | Overall (%) | 12 (5.4) | 57 (26) |
 | Severe (%) | 0 | 3 (1.4) |
-| Add-on to Metformin (26 Weeks) | NESINA 25 mg | Metformin 500 mg twice daily |
+| Add-On to Metformin (26 Weeks) | NESINA 25 mg | Metformin 500 mg twice daily |
 |  | N=112 | N=109 |
 | Overall (%) | 2 (1.8) | 2 (1.8) |
 | Severe (%) | 0 | 0 |
-| Add-on to Metformin Compared to Glipizide (52 Weeks) | NESINA 25 mg + Metformin | Glipizide+ Metformin |
+| Add-On to Metformin Compared to Glipizide (52 Weeks) | NESINA 25 mg + Metformin | Glipizide+ Metformin |
 |  | N=877 | N=869 |
 | Overall (%) | 12 (1.4) | 207 (23.8) |
 | Severe (%) | 0 | 4 (0.5) |
@@ -84,11 +84,11 @@ No clinically meaningful changes in vital signs or in electrocardiograms were ob
 
 Laboratory Tests
 
-No clinically meaningful changes in hematology, serum chemistry, or urinalysis were observed in patients treated with NESINA.
+No clinically meaningful changes in hematology, serum chemistry or urinalysis were observed in patients treated with NESINA.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during the postmarketing use of NESINA outside the United States.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, and severe cutaneous adverse reactions including Stevens-Johnson syndrome; hepatic enzyme elevations; fulminant hepatic failure; and acute pancreatitis.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure and acute pancreatitis.

@@ -8,9 +8,9 @@ No adequate or well-controlled studies in pregnant women have been conducted wit
 Based on animal data, NESINA is not predicted to increase the risk of developmental abnormalities.
 Because animal reproduction studies are not always predictive of human risk and exposure, NESINA, like other antidiabetic medications, should be used during pregnancy only if clearly needed.
 
-Alogliptin administered to pregnant rabbits and rats during the period of organogenesis was not teratogenic at doses of up to 200 and 500 mg/kg, or 149-times and 180-times, respectively, the clinical dose based on plasma drug exposure (AUC).
+Alogliptin administered to pregnant rabbits and rats during the period of organogenesis was not teratogenic at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times, respectively, the clinical dose based on plasma drug exposure (AUC).
 
-Doses of alogliptin up to 250 mg/kg (approximately 95-times clinical exposure based on AUC) given to pregnant rats from gestation day 6 to lactation day 20 did not harm the developing embryo or adversely affect growth and development of offspring.
+Doses of alogliptin up to 250 mg/kg (approximately 95 times clinical exposure based on AUC) given to pregnant rats from gestation Day 6 to lactation Day 20 did not harm the developing embryo or adversely affect growth and development of offspring.
 
 Placental transfer of alogliptin into the fetus was observed following oral dosing to pregnant rats.
 

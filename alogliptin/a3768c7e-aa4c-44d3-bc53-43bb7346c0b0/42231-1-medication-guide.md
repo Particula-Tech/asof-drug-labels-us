@@ -11,7 +11,7 @@ If you have any questions about NESINA, ask your doctor or pharmacist.
 
 What is the most important information I should know about NESINA?
 
-Serious side effects can happen to people taking NESINA, including inflammation of the pancreas (pancreatitis) which may be severe.
+Serious side effects can happen to people taking NESINA, including inflammation of the pancreas (pancreatitis), which may be severe.
 
 Certain medical conditions make you more likely to get pancreatitis.
 
@@ -45,10 +45,10 @@ Do not take NESINA if you:
 - •Are allergic to any ingredients in NESINA or have had a serious allergic (hypersensitivity) reaction to NESINA.
   See the end of this Medication Guide for a complete list of the ingredients in NESINA.
 - •Symptoms of a serious allergic reaction to NESINA may include:
-  - oswelling of your face, lips, throat, and other areas on your skin
+  - oswelling of your face, lips, throat and other areas on your skin
   - odifficulty with swallowing or breathing
   - oraised, red areas on your skin (hives)
-  - oskin rash, itching, flaking, or peeling
+  - oskin rash, itching, flaking or peeling
 
 If you have any of these symptoms, stop taking NESINA and contact your doctor or go to the nearest hospital emergency room right away.
 
@@ -60,12 +60,12 @@ What should I tell my doctor before and during treatment with NESINA?
 - •have other medical conditions
 - •are pregnant or plan to become pregnant.
   It is not known if NESINA can harm your unborn baby.
-  Talk with your doctor about the best way to control your blood sugar while you are pregnant or if you plan to become pregnant.
-- •are breast-feeding or plan to breast-feed.
+  Talk with your doctor about the best way to control your blood sugar while you are pregnant or if you plan to become pregnant
+- •are breastfeeding or plan to breastfeed.
   It is not known whether NESINA passes into your breast milk.
-  Talk with your doctor about the best way to feed your baby if you are taking NESINA.
+  Talk with your doctor about the best way to feed your baby if you are taking NESINA
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist before you start any new medicine.
@@ -79,14 +79,14 @@ How should I take NESINA?
 - •Take NESINA 1 time each day with or without food.
 - •If you miss a dose, take it as soon as you remember.
   If you do not remember until it is time for your next dose, skip the missed dose, and take the next dose at your regular time.
-  Do not take 2 doses of NESINA at the same time.
-- •If you take too much NESINA, call your doctor or go to the nearest hospital emergency room right away.
-- •If your body is under stress, such as from fever, infection, accident, or surgery, the dose of your diabetes medicines may need to be changed.
-  Call your doctor right away.
-- •Stay on your diet and exercise programs and check your blood sugar as your doctor tells you to.
+  Do not take 2 doses of NESINA at the same time
+- •If you take too much NESINA, call your doctor or go to the nearest hospital emergency room right away
+- •If your body is under stress, such as from fever, infection, accident or surgery, the dose of your diabetes medicines may need to be changed.
+  Call your doctor right away
+- •Stay on your diet and exercise programs and check your blood sugar as your doctor tells you to
 - •Your doctor may do certain blood tests before you start NESINA and during treatment as needed.
-  Your doctor may change your dose of NESINA based on the results of your blood tests due to how well your kidneys are working.
-- •Your doctor will check your diabetes with regular blood tests, including your blood sugar levels and your hemoglobin A1C.
+  Your doctor may change your dose of NESINA based on the results of your blood tests due to how well your kidneys are working
+- •Your doctor will check your diabetes with regular blood tests, including your blood sugar levels and your hemoglobin A1C
 
 What are the possible side effects of NESINA?
 
@@ -94,11 +94,11 @@ NESINA can cause serious side effects, including:
 
 See “What is the most important information I should know about NESINA?”
 
-- •Allergic (hypersensitivity) reactions, such as:
-  - oswelling of your face, lips, throat, and other areas on your skin
+- •Allergic (hypersensitivity) reactions such as:
+  - oswelling of your face, lips, throat and other areas on your skin
   - odifficulty with swallowing or breathing
   - oraised, red areas on your skin (hives)
-  - oskin rash, itching, flaking, or peeling
+  - oskin rash, itching, flaking or peeling
 
 If you have these symptoms, stop taking NESINA and contact your doctor right away.
 
@@ -113,7 +113,7 @@ If you have these symptoms, stop taking NESINA and contact your doctor right awa
 - •Low blood sugar (hypoglycemia).
   If you take NESINA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take NESINA.
-  If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, and then call your doctor.
+  If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, then call your doctor.
   Signs and symptoms of low blood sugar include:
 
 | •shaking or feeling jittery•sweating•hunger•headache•change in mood | •fast heartbeat•change in vision•confusion•dizziness |
@@ -156,17 +156,17 @@ What are the ingredients in NESINA?
 
 Active ingredient: alogliptin
 
-Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium, and magnesium stearate.
-In addition, the film-coating contains the following inactive ingredients: hypromellose, titanium dioxide, ferric oxide (red or yellow), and polyethylene glycol, and is marked with gray F1 printing ink.
+Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium and magnesium stearate.
+In addition, the film-coating contains the following inactive ingredients: hypromellose, titanium dioxide, ferric oxide (red or yellow) and polyethylene glycol and is marked with gray F1 printing ink
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-Revised: April 2013
+Revised: June 2013
 
 NESINA is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and is used under license by Takeda Pharmaceuticals America, Inc.
 
 © 2013 Takeda Pharmaceuticals America, Inc.
 
-NES011 R2
+NES011 R3

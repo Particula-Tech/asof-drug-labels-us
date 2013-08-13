@@ -2,4 +2,4 @@
 
 NESINA is primarily renally excreted.
 Cytochrome (CYP) P450-related metabolism is negligible.
-No significant drug-drug interactions were observed with the CYP-substrates or inhibitors tested, or with renally excreted drugs [see Clinical Pharmacology (12.3)].
+No significant drug-drug interactions were observed with the CYP-substrates or inhibitors tested or with renally excreted drugs [see Clinical Pharmacology (12.3)].
