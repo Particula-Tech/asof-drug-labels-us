@@ -70,11 +70,7 @@ The clinical and bacterial success rates are shown in Table 13.
 | Tetracycline-resistant | 12/12 | 100 | 12/12 | 100 |
 
 a One patient had a respiratory isolate that was resistant to tetracycline, cefuroxime, macrolides and TMP/SMX and intermediate to penicillin and a blood isolate that was intermediate to penicillin and cefuroxime and resistant to the other classes.
-The patient is included in the database based on respiratory isolate.
-
-b n = the number of microbiologically evaluable patients who were clinical successes; N = number of microbiologically evaluable patients in the designated resistance group.
-
-c n = the number of MDRSP isolates eradicated or presumed eradicated in microbiologically evaluable patients; N = number of MDRSP isolates in a designated resistance group.
+The patient is included in the database based on respiratory isolate. b n = the number of microbiologically evaluable patients who were clinical successes; N = number of microbiologically evaluable patients in the designated resistance group. c n = the number of MDRSP isolates eradicated or presumed eradicated in microbiologically evaluable patients; N = number of MDRSP isolates in a designated resistance group.
 
 Not all isolates were resistant to all antimicrobial classes tested.
 Success and eradication rates are summarized in Table 14.
@@ -169,23 +165,21 @@ The post-therapy (test-of-cure) visit occurred 10 to 14 days after the last acti
 
 The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC) visit for the group of all patients with a documented pathogen at baseline (modified intent to treat or mITT) and the group of patients in the mITT population who closely followed the protocol (Microbiologically Evaluable) are summarized in Table 18.
 
-| Table 18: Bacteriologic Eradication at Test-of-Cure |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Levofloxacin 750 mg orally or IV once daily for 5 days |  |  | Ciprofloxacin 400 mg IV/500 mg orally twice daily for 10 days |  |  | Overall Difference [95% CI] |
-|  | n/N | % |  | n/N | % |  | Levofloxacin - Ciprofloxacin |
-| mITT Populationa |  |  |  |  |  |  |  |
-| Overall (cUTI or AP) | 252/333 | 75.7 |  | 239/318 | 75.2 |  | 0.5 [-6.1, 7.1] |
-| cUTI | 168/230 | 73.0 |  | 157/213 | 73.7 |  |  |
-| AP | 84/103 | 81.6 |  | 82/105 | 78.1 |  |  |
-| Microbiologically Evaluable Populationb |  |  |  |  |  |  |  |
-| Overall (cUTI or AP) | 228/265 |  | 86.0 | 215/241 |  | 89.2 | -3.2 [-8.9, 2.5] |
-| cUTI | 154/185 |  | 83.2 | 144/165 |  | 87.3 |  |
-| AP | 74/80 |  | 92.5 | 71/76 |  | 93.4 |  |
+| Table 18: Bacteriologic Eradication at Test-of-Cure |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Levofloxacin 750 mg orally or IV once daily for 5 days |  | Ciprofloxacin 400 mg IV/500 mg orally twice daily for 10 days |  | Overall Difference [95% CI] |
+|  | n/N | % | n/N | % | Levofloxacin - Ciprofloxacin |
+| mITT Populationa |  |  |  |  |  |
+| Overall (cUTI or AP) | 252/333 | 75.7 | 239/318 | 75.2 | 0.5 [-6.1, 7.1] |
+| cUTI | 168/230 | 73.0 | 157/213 | 73.7 |  |
+| AP | 84/103 | 81.6 | 82/105 | 78.1 |  |
+| Microbiologically Evaluable Populationb |  |  |  |  |  |
+| Overall (cUTI or AP) | 228/265 | 86.0 | 215/241 | 89.2 | -3.2 [-8.9, 2.5] |
+| cUTI | 154/185 | 83.2 | 144/165 | 87.3 |  |
+| AP | 74/80 | 92.5 | 71/76 | 93.4 |  |
 
 a The mITT population included patients who received study medication and who had a positive (≥ 105 CFU/mL) urine culture with no more than 2 uropathogens at baseline.
-Patients with missing response were counted as failures in this analysis.
-
-b The Microbiologically Evaluable population included patients with a confirmed diagnosis of cUTI or AP, a causative organism(s) at baseline present at ≥ 105 CFU/mL, a valid test-of-cure urine culture, no pathogen isolated from blood resistant to study drug, no premature discontinuation or loss to follow-up, and compliance with treatment (among other criteria).
+Patients with missing response were counted as failures in this analysis. b The Microbiologically Evaluable population included patients with a confirmed diagnosis of cUTI or AP, a causative organism(s) at baseline present at ≥ 105 CFU/mL, a valid test-of-cure urine culture, no pathogen isolated from blood resistant to study drug, no premature discontinuation or loss to follow-up, and compliance with treatment (among other criteria).
 
 Microbiologic eradication rates in the Microbiologically Evaluable population at TOC for individual pathogens recovered from patients randomized to levofloxacin treatment are presented in Table 19.
 
@@ -206,19 +200,15 @@ Microbiological efficacy was measured by bacteriologic eradication of the baseli
 
 The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC) visit for the group of all patients with a documented pathogen at baseline (modified intent to treat or mITT) and the group of patients in the mITT population who closely followed the protocol (Microbiologically Evaluable) are summarized in Table 20.
 
-| Table 20: Bacteriologic Eradication Overall (cUTI or AP) at Test-Of-Curea |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Levofloxacin250 mg once daily for 10 days |  | Ciprofloxacin 500 mg twice daily for 10 days |  |  |
-|  | n/N | % | n/N | % |  |
-| mITT Population b | 174/209 | 83.3 | 184/219 | 84.0 |  |
-| Microbiologically Evaluable Populationc | 164/177 | 92.7 | 159/171 | 93.0 |  |
+| Table 20: Bacteriologic Eradication Overall (cUTI or AP) at Test-Of-Curea |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Levofloxacin250 mg once daily for 10 days |  | Ciprofloxacin 500 mg twice daily for 10 days |  |
+|  | n/N | % | n/N | % |
+| mITT Population b | 174/209 | 83.3 | 184/219 | 84.0 |
+| Microbiologically Evaluable Populationc | 164/177 | 92.7 | 159/171 | 93.0 |
 
-a 1–9 days posttherapy for 30% of subjects enrolled prior to a protocol amendment; 5–12 days posttherapy for 70% of subjects.
-
-b The mITT population included patients who had a pathogen isolated at baseline.
-Patients with missing response were counted as failures in this analysis.
-
-c The Microbiologically Evaluable population included mITT patients who met protocol-specified evaluability criteria.
+a 1–9 days posttherapy for 30% of subjects enrolled prior to a protocol amendment; 5–12 days posttherapy for 70% of subjects. b The mITT population included patients who had a pathogen isolated at baseline.
+Patients with missing response were counted as failures in this analysis. c The Microbiologically Evaluable population included mITT patients who met protocol-specified evaluability criteria.
 
 ## 14.9 Inhalational Anthrax (Post-Exposure)
 

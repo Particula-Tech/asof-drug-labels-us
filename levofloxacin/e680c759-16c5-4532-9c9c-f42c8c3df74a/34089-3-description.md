@@ -4,8 +4,6 @@ Levofloxacin is a synthetic broad-spectrum antibacterial agent for oral and intr
 Chemically, levofloxacin, a chiral fluorinated carboxyquinolone, is the pure (-)-(S)-enantiomer of the racemic drug substance ofloxacin.
 The chemical name is (-)-(S)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido [1,2,3-de]-1,4-benzoxazine-6-carboxylic acid hemihydrate.
 
-Figure 1: The Chemical Structure of Levofloxacin
-
 The empirical formula is C18H20FN3O4 • ½ H2O and the molecular weight is 370.38.
 Levofloxacin is a light yellowish‑white to yellow-white crystal or crystalline powder.
 The molecule exists as a zwitterion at the pH conditions in the small intestine.
@@ -20,13 +18,11 @@ This in vitro chelation potential has the following formation order: Al+3>Cu+2>Z
 
 Excipients and Description of Dosage Forms
 
-Levofloxacin Injection
-
-The appearance of levofloxacin injection may range from a clear yellow to a clear greenish-yellow solution.
+Levofloxacin Injection The appearance of levofloxacin injection may range from a clear yellow to a clear greenish-yellow solution.
 This does not adversely affect product potency.
 
 Levofloxacin Injection Premix in Single Dose Flexible Containers is a sterile, preservative-free aqueous solution of levofloxacin with pH ranging from 3.8 to 5.8.
-This is a dilute, non-pyrogenic, nearly isotonic premixed solution that contains levofloxacin in 5% dextrose (D5W).
+This is a dilute, non-pyrogenic, nearly isotonic premixed solution that contains levofloxacin in 5% Dextrose (D5W).
 Solutions of hydrochloric acid and sodium hydroxide may have been added to adjust the pH.
 
 The flexible container is fabricated from a specially formulated non-plasticized, thermoplastic copolyester (CR3).

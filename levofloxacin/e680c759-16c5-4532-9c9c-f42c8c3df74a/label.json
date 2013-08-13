@@ -3,11 +3,14 @@
     "ANDA091375"
   ],
   "inn": "levofloxacin",
-  "labeler": "West-ward Pharmaceutical Corp",
+  "labeler": "West-Ward Pharmaceutical Corp",
   "package_ndcs": [
     "0143-9720-01",
+    "0143-9720-24",
     "0143-9721-01",
-    "0143-9722-01"
+    "0143-9721-24",
+    "0143-9722-01",
+    "0143-9722-24"
   ],
   "products": [
     {

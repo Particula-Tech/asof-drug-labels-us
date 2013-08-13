@@ -32,17 +32,12 @@ Other serious and sometimes fatal events, some due to hypersensitivity, and some
 These events may be severe and generally occur following the administration of multiple doses.
 Clinical manifestations may include one or more of the following:
 
-• fever, rash, or severe dermatologic reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson Syndrome);
-
-• vasculitis; arthralgia; myalgia; serum sickness;
-
-• allergic pneumonitis;
-
-• interstitial nephritis; acute renal insufficiency or failure;
-
-• hepatitis; jaundice; acute hepatic necrosis or failure;
-
-• anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
+- fever, rash, or severe dermatologic reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson Syndrome);
+- vasculitis; arthralgia; myalgia; serum sickness;
+- allergic pneumonitis;
+- interstitial nephritis; acute renal insufficiency or failure;
+- hepatitis; jaundice; acute hepatic necrosis or failure;
+- anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
 The drug should be discontinued immediately at the first appearance of skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see ADVERSE REACTIONS (6); PATIENT COUNSELING INFORMATION (17.3)].
 

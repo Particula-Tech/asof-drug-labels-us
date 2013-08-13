@@ -25,21 +25,14 @@ For patients with creatinine clearance < 50 mL/min, adjustments to the dosing re
 | Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg and ≥ 6 months of age 7,8Pediatric patients < 50 kg and ≥ 6 months of age 7,8 | 500 mgsee Table 2 below (2.2) | 608608 |
 
 1 Due to the designated pathogens [see INDICATIONS AND USAGE (1)].
-
 2 Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
-
 3 Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug‑resistant strains [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see INDICATIONS AND USAGE (1.2)].
-
 4 Due to Streptococcus pneumoniae (excluding multi-drug-resistant strains [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see INDICATIONS AND USAGE (1.3)].
-
 5 This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia.
-
 6 This regimen is indicated for cUTI due to Enterococcus faecalis, Enterococcus cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa; and for AP due to E. coli.
-
 7 Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis.
 This indication is based on a surrogate endpoint.
 Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see CLINICAL STUDIES (14.9)].
-
 8 The safety of levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied.
 An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.10); USE IN SPECIFIC POPULATIONS (8.4); CLINICAL STUDIES (14.9)] Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
 
@@ -54,15 +47,10 @@ The dosage in pediatric patients ≥ 6 months of age is described below in Table
 | Pediatric patients > 50 kg and ≥ 6 months of age | 500 mg | 24 hr | 60 days4 |
 | Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 60 days4 |
 
-1 Due to Bacillus anthracis [see INDICATIONS AND USAGE (1.13)]
-
-2 Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
-
+1 Due to Bacillus anthracis [see INDICATIONS AND USAGE (1.13)] 2 Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
 3 Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis.
 This indication is based on a surrogate endpoint.
-Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see CLINICAL STUDIES (14.9)]
-
-4 The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 has not been studied.
+Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see CLINICAL STUDIES (14.9)] 4 The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 has not been studied.
 An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.10); USE IN SPECIFIC POPULATIONS (8.4); CLINICAL STUDIES (14.9).]
 Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
 
@@ -90,16 +78,12 @@ Levofloxacin injection should not be co-administered with any solution containin
 
 ## 2.5 Administration Instructions
 
-Levofloxacin Injection
-
-Caution: Rapid or bolus intravenous infusion of levofloxacin has been associated with hypotension and must be avoided.
+Levofloxacin Injection Caution: Rapid or bolus intravenous infusion of levofloxacin has been associated with hypotension and must be avoided.
 Levofloxacin injection should be infused intravenously slowly over a period of not less than 60 or 90 minutes, depending on the dosage.
 Levofloxacin injection should be administered only by intravenous infusion.
 It is not for intramuscular, intrathecal, intraperitoneal, or subcutaneous administration.
 
-Hydration for Patients Receiving Levofloxacin Injection
-
-Adequate hydration of patients receiving intravenous levofloxacin should be maintained to prevent the formation of highly concentrated urine.
+Hydration for Patients Receiving Levofloxacin Injection Adequate hydration of patients receiving intravenous levofloxacin should be maintained to prevent the formation of highly concentrated urine.
 Crystalluria and cylindruria have been reported with quinolones [see ADVERSE REACTIONS (6.1);PATIENT COUNSELING INFORMATION (17.2)].
 
 ## 2.6 Preparation of Intravenous Product
@@ -120,44 +104,22 @@ Because the premix flexible containers are for single dose only, any unused port
 
 Instructions for the Use of Levofloxacin Injection Premix in Flexible Containers:
 
-1.
-Tear outer wrap at the notch and remove solution container.
-
-2.
-Check the container for minute leaks by squeezing the inner bag firmly.
-If leaks are found, or if the seal is not intact, discard the solution, as the sterility may be compromised.
-
-3.
-Do not use if the solution is cloudy or a precipitate is present.
-
-4.
-Use sterile equipment.
-
-5.
-WARNING: Do not use flexible containers in series connections.
-Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
+1. Tear outer wrap at the notch and remove solution container.
+2. Check the container for minute leaks by squeezing the inner bag firmly.
+   If leaks are found, or if the seal is not intact, discard the solution, as the sterility may be compromised.
+3. Do not use if the solution is cloudy or a precipitate is present.
+4. Use sterile equipment.
+5. WARNING: Do not use flexible containers in series connections.
+   Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
 
 Preparation for Administration:
 
-1.
-Close flow control clamp of administration set.
-
-2.
-Remove cover from port at bottom of container.
-
-3.
-Insert piercing pin of administration set into port with a twisting motion until the pin is firmly seated.
-NOTE: See full directions on administration set carton.
-
-4.
-Suspend container from hanger.
-
-5.
-Squeeze and release drip chamber to establish proper fluid level in chamber during infusion of Levofloxacin Injection Premix in Flexible Containers.
-
-6.
-Open flow control clamp to expel air from set.
-Close clamp.
-
-7.
-Regulate rate of administration with flow control clamp.
+1. Close flow control clamp of administration set.
+2. Remove cover from port at bottom of container.
+3. Insert piercing pin of administration set into port with a twisting motion until the pin is firmly seated.
+   NOTE: See full directions on administration set carton.
+4. Suspend container from hanger.
+5. Squeeze and release drip chamber to establish proper fluid level in chamber during infusion of Levofloxacin Injection Premix in Flexible Containers.
+6. Open flow control clamp to expel air from set.
+   Close clamp.
+7. Regulate rate of administration with flow control clamp.

@@ -4,31 +4,19 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-• Tendon Effects [see WARNINGS AND PRECAUTIONS (5.1)]
-
-• Exacerbation of Myasthenia Gravis [see WARNINGS AND PRECAUTIONS (5.2)]
-
-• Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS (5.3)]
-
-• Other Serious and Sometimes Fatal Reactions [see WARNINGS AND PRECAUTIONS (5.4)]
-
-• Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.5)]
-
-• Central Nervous System Effects [see WARNINGS AND PRECAUTIONS (5.6)]
-
-• Clostridium difficile-Associated Diarrhea [see WARNINGS AND PRECAUTIONS (5.7)]
-
-• Peripheral Neuropathy [see WARNINGS AND PRECAUTIONS (5.8)]
-
-• Prolongation of the QT Interval [see WARNINGS AND PRECAUTIONS (5.9)]
-
-• Musculoskeletal Disorders in Pediatric Patients [see WARNINGS AND PRECAUTIONS (5.10)]
-
-• Blood Glucose Disturbances [see WARNINGS AND PRECAUTIONS (5.11)]
-
-• Photosensitivity/Phototoxicity [see WARNINGS AND PRECAUTIONS (5.12)]
-
-• Development of Drug Resistant Bacteria [see WARNINGS AND PRECAUTIONS (5.13)]
+- Tendon Effects [see WARNINGS AND PRECAUTIONS (5.1)]
+- Exacerbation of Myasthenia Gravis [see WARNINGS AND PRECAUTIONS (5.2)]
+- Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS (5.3)]
+- Other Serious and Sometimes Fatal Reactions [see WARNINGS AND PRECAUTIONS (5.4)]
+- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.5)]
+- Central Nervous System Effects [see WARNINGS AND PRECAUTIONS (5.6)]
+- Clostridium difficile-Associated Diarrhea [see WARNINGS AND PRECAUTIONS (5.7)]
+- Peripheral Neuropathy [see WARNINGS AND PRECAUTIONS (5.8)]
+- Prolongation of the QT Interval [see WARNINGS AND PRECAUTIONS (5.9)]
+- Musculoskeletal Disorders in Pediatric Patients [see WARNINGS AND PRECAUTIONS (5.10)]
+- Blood Glucose Disturbances [see WARNINGS AND PRECAUTIONS (5.11)]
+- Photosensitivity/Phototoxicity [see WARNINGS AND PRECAUTIONS (5.12)]
+- Development of Drug Resistant Bacteria [see WARNINGS AND PRECAUTIONS (5.13)]
 
 Hypotension has been associated with rapid or bolus intravenous infusion of levofloxacin.
 Levofloxacin should be infused slowly over 60 to 90 minutes, depending on dosage [see DOSAGE AND ADMINISTRATION (2.5)].

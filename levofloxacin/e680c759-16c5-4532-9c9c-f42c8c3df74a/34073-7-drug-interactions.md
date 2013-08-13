@@ -2,9 +2,7 @@
 
 ## 7.1 Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
 
-Levofloxacin Injection
-
-There are no data concerning an interaction of intravenous fluoroquinolones with oral antacids, sucralfate, multivitamins, didanosine, or metal cations.
+Levofloxacin Injection There are no data concerning an interaction of intravenous fluoroquinolones with oral antacids, sucralfate, multivitamins, didanosine, or metal cations.
 However, no fluoroquinolone should be co-administered with any solution containing multivalent cations, e.g., magnesium, through the same intravenous line [see DOSAGE AND ADMINISTRATION (2.5)].
 
 ## 7.2 Warfarin

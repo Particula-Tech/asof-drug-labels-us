@@ -37,37 +37,9 @@ The mean ± SD pharmacokinetic parameters of levofloxacin determined under singl
 | Hemodialysis | 5.7 ± 1.0 | 2.8 ± 2.2 | ND | ND | ND | 76 ± 42 | ND |
 | CAPD | 6.9 ± 2.3 | 1.4 ± 1.1 | ND | ND | ND | 51 ± 24 | ND |
 
-1 clearance/bioavailability
+1 clearance/bioavailability 2 volume of distribution/bioavailability 3 healthy males 18–53 years of age 4 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose 5 healthy male and female subjects 18–54 years of age 6 500 mg every 48h for patients with moderate renal impairment (CLCR 20–50 mL/min) and infections of the respiratory tract or skin 7 dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling 8 healthy males 22–75 years of age 9 healthy females 18–80 years of age 10 young healthy male and female subjects 18–36 years of age 11 healthy elderly male and female subjects 66–80 years of age 12 healthy males and females 19–55 years of age * Absolute bioavailability; F = 0.99 ± 0.08 from a 500 mg tablet and F = 0.99 ± 0.06 from a 750 mg tablet; ND = not determined.
 
-2 volume of distribution/bioavailability
-
-3 healthy males 18–53 years of age
-
-4 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose
-
-5 healthy male and female subjects 18–54 years of age
-
-6 500 mg every 48h for patients with moderate renal impairment (CLCR 20–50 mL/min) and infections of the respiratory tract or skin
-
-7 dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling
-
-8 healthy males 22–75 years of age
-
-9 healthy females 18–80 years of age
-
-10 young healthy male and female subjects 18–36 years of age
-
-11 healthy elderly male and female subjects 66–80 years of age
-
-12 healthy males and females 19–55 years of age
-
-* Absolute bioavailability; F = 0.99 ± 0.08 from a 500 mg tablet and F = 0.99 ± 0.06 from a 750 mg tablet;
-
-ND = not determined.
-
-Absorption
-
-Following a single intravenous dose of levofloxacin to healthy volunteers, the mean ± SD peak plasma concentration attained was 6.2 ±1.0 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ± 4.0 mcg/mL after a 750 mg dose infused over 90 minutes.
+Absorption Following a single intravenous dose of levofloxacin to healthy volunteers, the mean ± SD peak plasma concentration attained was 6.2 ±1.0 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ± 4.0 mcg/mL after a 750 mg dose infused over 90 minutes.
 
 Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or IV dosing regimens.
 Steady‑state conditions are reached within 48 hours following a 500 mg or 750 mg once-daily dosage regimen.
@@ -77,13 +49,7 @@ The mean ± SD peak and trough plasma concentrations attained following multiple
 The plasma concentration profile of levofloxacin after IV administration is similar and comparable in extent of exposure (AUC) to that observed for levofloxacin tablets when equal doses (mg/mg) are administered.
 Therefore, the oral and IV routes of administration can be considered interchangeable (see Figure 2 and Figure 3).
 
-Figure 2: Mean Levofloxacin Plasma Concentration vs. Time Profile: 750 mg
-
-Figure 3: Mean Levofloxacin Plasma Concentration vs. Time Profile: 500 mg
-
-Distribution
-
-The mean volume of distribution of levofloxacin generally ranges from 74 to 112 L after single and multiple 500 mg or 750 mg doses, indicating widespread distribution into body tissues.
+Distribution The mean volume of distribution of levofloxacin generally ranges from 74 to 112 L after single and multiple 500 mg or 750 mg doses, indicating widespread distribution into body tissues.
 Levofloxacin reaches its peak levels in skin tissues and in blister fluid of healthy subjects at approximately 3 hours after dosing.
 The skin tissue biopsy to plasma AUC ratio is approximately 2 and the blister fluid to plasma AUC ratio is approximately 1 following multiple once-daily oral administration of 750 mg and 500 mg doses of levofloxacin, respectively, to healthy subjects.
 Levofloxacin also penetrates well into lung tissues.
@@ -93,79 +59,55 @@ In vitro, over a clinically relevant range (1 to 10 mcg/mL) of serum/plasma levo
 Levofloxacin is mainly bound to serum albumin in humans.
 Levofloxacin binding to serum proteins is independent of the drug concentration.
 
-Metabolism
-
-Levofloxacin is stereochemically stable in plasma and urine and does not invert metabolically to its enantiomer, D-ofloxacin.
+Metabolism Levofloxacin is stereochemically stable in plasma and urine and does not invert metabolically to its enantiomer, D-ofloxacin.
 Levofloxacin undergoes limited metabolism in humans and is primarily excreted as unchanged drug in the urine.
 Following oral administration, approximately 87% of an administered dose was recovered as unchanged drug in urine within 48 hours, whereas less than 4% of the dose was recovered in feces in 72 hours.
 Less than 5% of an administered dose was recovered in the urine as the desmethyl and N-oxide metabolites, the only metabolites identified in humans.
 These metabolites have little relevant pharmacological activity.
 
-Excretion
-
-Levofloxacin is excreted largely as unchanged drug in the urine.
+Excretion Levofloxacin is excreted largely as unchanged drug in the urine.
 The mean terminal plasma elimination half-life of levofloxacin ranges from approximately 6 to 8 hours following single or multiple doses of levofloxacin given orally or intravenously.
 The mean apparent total body clearance and renal clearance range from approximately 144 to 226 mL/‌min and 96 to 142 mL/min, respectively.
 Renal clearance in excess of the glomerular filtration rate suggests that tubular secretion of levofloxacin occurs in addition to its glomerular filtration.
 Concomitant administration of either cimetidine or probenecid results in approximately 24% and 35% reduction in the levofloxacin renal clearance, respectively, indicating that secretion of levofloxacin occurs in the renal proximal tubule.
 No levofloxacin crystals were found in any of the urine samples freshly collected from subjects receiving levofloxacin.
 
-Geriatric
-
-There are no significant differences in levofloxacin pharmacokinetics between young and elderly subjects when the subjects’ differences in creatinine clearance are taken into consideration.
+Geriatric There are no significant differences in levofloxacin pharmacokinetics between young and elderly subjects when the subjects’ differences in creatinine clearance are taken into consideration.
 Following a 500 mg oral dose of levofloxacin to healthy elderly subjects (66 – 80 years of age), the mean terminal plasma elimination half-life of levofloxacin was about 7.6 hours, as compared to approximately 6 hours in younger adults.
 The difference was attributable to the variation in renal function status of the subjects and was not believed to be clinically significant.
 Drug absorption appears to be unaffected by age.
 Levofloxacin dose adjustment based on age alone is not necessary [see USE IN SPECIFIC POPULATIONS (8.5)].
 
-Pediatrics
-
-The pharmacokinetics of levofloxacin following a single 7 mg/kg intravenous dose were investigated in pediatric patients ranging in age from 6 months to 16 years.
+Pediatrics The pharmacokinetics of levofloxacin following a single 7 mg/kg intravenous dose were investigated in pediatric patients ranging in age from 6 months to 16 years.
 Pediatric patients cleared levofloxacin faster than adult patients, resulting in lower plasma exposures than adults for a given mg/kg dose.
 Subsequent pharmacokinetic analyses predicted that a dosage regimen of 8 mg/kg every 12 hours (not to exceed 250 mg per dose) for pediatric patients 6 months to 17 years of age would achieve comparable steady state plasma exposures (AUC0-24 and Cmax) to those observed in adult patients administered 500 mg of levofloxacin once every 24 hours.
 
-Gender
-
-There are no significant differences in levofloxacin pharmacokinetics between male and female subjects when subjects’ differences in creatinine clearance are taken into consideration.
+Gender There are no significant differences in levofloxacin pharmacokinetics between male and female subjects when subjects’ differences in creatinine clearance are taken into consideration.
 Following a 500 mg oral dose of levofloxacin to healthy male subjects, the mean terminal plasma elimination half-life of levofloxacin was about 7.5 hours, as compared to approximately 6.1 hours in female subjects.
 This difference was attributable to the variation in renal function status of the male and female subjects and was not believed to be clinically significant.
 Drug absorption appears to be unaffected by the gender of the subjects.
 Dose adjustment based on gender alone is not necessary.
 
-Race
-
-The effect of race on levofloxacin pharmacokinetics was examined through a covariate analysis performed on data from 72 subjects: 48 white and 24 non-white.
+Race The effect of race on levofloxacin pharmacokinetics was examined through a covariate analysis performed on data from 72 subjects: 48 white and 24 non-white.
 The apparent total body clearance and apparent volume of distribution were not affected by the race of the subjects.
 
-Renal Impairment
-
-Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in adult patients with impaired renal function (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
+Renal Impairment Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in adult patients with impaired renal function (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
 Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [see DOSAGE AND ADMINISTRATION (2.3); USE IN SPECIFIC POPULATIONS (8.6)].
 
-Hepatic Impairment
-
-Pharmacokinetic studies in hepatically impaired patients have not been conducted.
+Hepatic Impairment Pharmacokinetic studies in hepatically impaired patients have not been conducted.
 Due to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are not expected to be affected by hepatic impairment [see USE IN SPECIFIC POPULATIONS (8.7)].
 
-Bacterial Infection
+Bacterial Infection The pharmacokinetics of levofloxacin in patients with serious community-acquired bacterial infections are comparable to those observed in healthy subjects.
 
-The pharmacokinetics of levofloxacin in patients with serious community-acquired bacterial infections are comparable to those observed in healthy subjects.
-
-Drug-Drug Interactions
-
-The potential for pharmacokinetic drug interactions between levofloxacin and antacids, warfarin, theophylline, cyclosporine, digoxin, probenecid, and cimetidine has been evaluated [see DRUG INTERACTIONS (7)].
+Drug-Drug Interactions The potential for pharmacokinetic drug interactions between levofloxacin and antacids, warfarin, theophylline, cyclosporine, digoxin, probenecid, and cimetidine has been evaluated [see DRUG INTERACTIONS (7)].
 
 ## 12.4 Microbiology
 
-Mechanism of Action
-
-Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent.
+Mechanism of Action Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent.
 The antibacterial activity of ofloxacin resides primarily in the L-isomer.
 The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination.
 
-Drug Resistance
-
-Fluoroquinolone resistance can arise through mutations in defined regions of DNA gyrase or topoisomerase IV, termed the Quinolone-Resistance Determining Regions (QRDRs), or through altered efflux.
+Drug Resistance Fluoroquinolone resistance can arise through mutations in defined regions of DNA gyrase or topoisomerase IV, termed the Quinolone-Resistance Determining Regions (QRDRs), or through altered efflux.
 
 Fluoroquinolones, including levofloxacin, differ in chemical structure and mode of action from aminoglycosides, macrolides and b-lactam antibiotics, including penicillins.
 Fluoroquinolones may, therefore, be active against bacteria resistant to these antimicrobials.
@@ -173,12 +115,8 @@ Fluoroquinolones may, therefore, be active against bacteria resistant to these a
 Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-10).
 Although cross‑resistance has been observed between levofloxacin and some other fluoroquinolones, some microorganisms resistant to other fluoroquinolones may be susceptible to levofloxacin.
 
-Activity in vitro and in vivo
-
-Levofloxacin has in vitro activity against a wide range of Gram-negative and Gram-positive microorganisms.
-
+Activity in vitro and in vivo Levofloxacin has in vitro activity against a wide range of Gram-negative and Gram-positive microorganisms.
 Levofloxacin is often bactericidal at concentrations equal to or slightly greater than inhibitory concentrations.
-
 Levofloxacin has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in INDICATIONS AND USAGE (1):
 
 Aerobic Gram-Positive Microorganisms
@@ -235,9 +173,9 @@ Aerobic Gram-Positive Microorganisms
 
 Staphylococcus haemolyticus
 
-b-hemolytic Streptococcus (Group C/F)
+β-hemolytic Streptococcus (Group C/F)
 
-b-hemolytic Streptococcus (Group G)
+β-hemolytic Streptococcus (Group G)
 
 Streptococcus agalactiae
 
@@ -283,7 +221,7 @@ Susceptibility Tests
 
 Susceptibility testing for levofloxacin should be performed, as it is the optimal predictor of activity.
 
-• Dilution techniques:
+- Dilution techniques:
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC values).
 These MIC values provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -291,7 +229,7 @@ The MIC values should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of levofloxacin powder.
 The MIC values should be interpreted according to the criteria outlined in Table 9.
 
-• Diffusion techniques:
+- Diffusion techniques:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
@@ -315,16 +253,8 @@ Interpretation involves correlation of the diameter obtained in the disk test wi
 
 S = Susceptible, I = Intermediate, R = Resistant
 
-a These interpretive standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.1
-
-b The current absence of data on resistant strains precludes defining any categories other than “Susceptible”.
-Strains yielding MIC /zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
-
-c These interpretive standards are applicable only to disk diffusion susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.2
-
-d These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood.
-
-e These zone diameter standards for Streptococcus spp. including S. pneumoniae apply only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
+a These interpretive standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.1 b The current absence of data on resistant strains precludes defining any categories other than “Susceptible”.
+Strains yielding MIC /zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. c These interpretive standards are applicable only to disk diffusion susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.2 d These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood. e These zone diameter standards for Streptococcus spp. including S. pneumoniae apply only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
 
 A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -332,7 +262,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
-• Quality Control:
+- Quality Control:
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 For dilution technique, standard levofloxacin powder should give the MIC values provided in Table 10.
@@ -350,12 +280,4 @@ For diffusion technique, the 5 mcg levofloxacin disk should provide zone diamete
 | Staphylococcus aureus | ATCC 25923 | -- | 25 – 30 |
 | Streptococcus pneumoniae | ATCC 49619 | 0.5 – 2c | 20 – 25d |
 
-a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).1
-
-b This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).2
-
-c This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood.
-
-d This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
-
-* Careful maintenance of this organism is required as the strain may lose its plasmid.
+a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).1 b This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).2 c This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood. d This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2. * Careful maintenance of this organism is required as the strain may lose its plasmid.
