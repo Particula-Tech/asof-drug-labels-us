@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-OSENI combines 2 antihyperglycemic agents with complementary and distinct mechanisms of action to improve glycemic control in patients with type 2 diabetes: alogliptin, a selective inhibitor of DPP-4 and pioglitazone, a member of the TZD class.
+OSENI combines two antihyperglycemic agents with complementary and distinct mechanisms of action to improve glycemic control in patients with type 2 diabetes: alogliptin, a selective inhibitor of DPP-4, and pioglitazone, a member of the TZD class.
 
 Alogliptin
 
@@ -18,10 +18,10 @@ Pioglitazone
 Pharmacologic studies indicate that pioglitazone improves insulin sensitivity in muscle and adipose tissue while inhibiting hepatic gluconeogenesis.
 Unlike sulfonylureas, pioglitazone is not an insulin secretagogue.
 Pioglitazone is an agonist for peroxisome proliferator-activated receptor-gamma (PPARγ).
-PPAR receptors are found in tissues important for insulin action such as adipose tissue, skeletal muscle, and liver.
-Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin responsive genes involved in the control of glucose and lipid metabolism.
+PPAR receptors are found in tissues important for insulin action such as adipose tissue, skeletal muscle and liver.
+Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin-responsive genes involved in the control of glucose and lipid metabolism.
 
-In animal models of diabetes, pioglitazone reduces the hyperglycemia, hyperinsulinemia, and hypertriglyceridemia characteristic of insulin-resistant states such as type 2 diabetes.
+In animal models of diabetes, pioglitazone reduces the hyperglycemia, hyperinsulinemia and hypertriglyceridemia characteristic of insulin-resistant states such as type 2 diabetes.
 The metabolic changes produced by pioglitazone result in increased responsiveness of insulin-dependent tissues and are observed in numerous animal models of insulin resistance.
 
 Because pioglitazone enhances the effects of circulating insulin (by decreasing insulin resistance), it does not lower blood glucose in animal models that lack endogenous insulin.
@@ -38,37 +38,37 @@ A similar pattern of lipid effects was observed in a 26-week, placebo-controlled
 
 Alogliptin
 
-Single-dose administration of alogliptin to healthy subjects resulted in a peak inhibition of DPP-4 within 2 to 3 hours after dosing.
+Single-dose administration of alogliptin to healthy subjects resulted in a peak inhibition of DPP-4 within two to three hours after dosing.
 The peak inhibition of DPP-4 exceeded 93% across doses of 12.5 mg to 800 mg.
 Inhibition of DPP-4 remained above 80% at 24 hours for doses greater than or equal to 25 mg.
-Peak and total exposure over 24 hours to active GLP-1 were 3- to 4-fold greater with alogliptin (at doses of 25-200 mg) than placebo.
-In a 16-week, double-blind, placebo-controlled study alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an 8 hour period following a standardized meal.
+Peak and total exposure over 24 hours to active GLP-1 were three- to four-fold greater with alogliptin (at doses of 25 to 200 mg) than placebo.
+In a 16-week, double-blind, placebo-controlled study alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
-In this study, alogliptin 25 mg alone demonstrated decreases in 2-hour postprandial glucose compared to placebo (-30 mg/dL versus 17.3 mg/dL respectively).
+In this study, alogliptin 25 mg alone demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17.3 mg/dL respectively).
 
-Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within 1 to 2 hours and exceeded 93% across all doses (25 mg, 100 mg, and 400 mg) after a single dose and after 14 days of once-daily dosing).
+Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once-daily dosing).
 At these doses of alogliptin, inhibition of DPP-4 remained above 81% at 24 hours after 14 days of dosing.
 
 Pioglitazone
 
 Clinical studies demonstrate that pioglitazone improves insulin sensitivity in insulin-resistant patients.
 Pioglitazone enhances cellular responsiveness to insulin, increases insulin-dependent glucose disposal, and improves hepatic sensitivity to insulin.
-In patients with type 2 diabetes, the decreased insulin resistance produced by pioglitazone results in lower plasma glucose concentrations, lower plasma insulin concentrations, and lower A1C values.
-In controlled clinical trials, pioglitazone had an additive effect on glycemic control when used in combination with a sulfonylurea, metformin, or insulin [see Clinical Studies (14)].
+In patients with type 2 diabetes, the decreased insulin resistance produced by pioglitazone results in lower plasma glucose concentrations, lower plasma insulin concentrations and lower A1C values.
+In controlled clinical trials, pioglitazone had an additive effect on glycemic control when used in combination with a sulfonylurea, metformin or insulin [see Clinical Studies (14)].
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
-Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
+Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol and no consistent mean changes in LDL and total cholesterol.
 There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
 
-In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the pioglitazone 15 mg, 30 mg, and 45 mg dose groups compared to a mean increase in the placebo group.
+In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the pioglitazone 15 mg, 30 mg and 45 mg dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
 There were no consistent differences for LDL and total cholesterol in patients treated with pioglitazone compared to placebo (Table 7).
 
-| Table 7. Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study |  |  |  |  |
+| Table 7. Lipids in a 26-Week, Placebo-Controlled, Monotherapy, Dose-Ranging Study |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo | Pioglitazone 15 mg Once Daily | Pioglitazone 30 mg Once Daily | Pioglitazone 45 mg Once Daily |
 | Triglycerides (mg/dL) | N=79 | N=79 | N=84 | N=77 |
 | Baseline (mean) | 263 | 284 | 261 | 260 |
-| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9%p<0.05 versus placebo | -9.6% | -9.3% |
+| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center and pooled center by treatment interaction) | 4.8% | -9%p<0.05 versus placebo | -9.6% | -9.3% |
 | HDL Cholesterol (mg/dL) | N=79 | N=79 | N=83 | N=77 |
 | Baseline (mean) | 42 | 40 | 41 | 41 |
 | Percent change from baseline (adjusted mean) | 8.1% | 14.1% | 12.2% | 19.1% |
@@ -100,8 +100,8 @@ Alogliptin may therefore be administered with or without food.
 
 Pioglitazone
 
-Following oral administration of pioglitazone hydrochloride, peak concentrations of pioglitazone were observed within 2 hours.
-Food slightly delays the time to peak serum concentration (Tmax) to 3 to 4 hours, but does not alter the extent of absorption (AUC).
+Following oral administration of pioglitazone hydrochloride, peak concentrations of pioglitazone were observed within two hours.
+Food slightly delays the time to peak serum concentration (Tmax) to three to four hours but does not alter the extent of absorption (AUC).
 
 Distribution
 
@@ -122,10 +122,10 @@ Metabolism
 
 Alogliptin
 
-Alogliptin does not undergo extensive metabolism and 60%-71% of the dose is excreted as unchanged drug in the urine.
+Alogliptin does not undergo extensive metabolism, and 60% to 71% of the dose is excreted as unchanged drug in the urine.
 
 Two minor metabolites were detected following administration of an oral dose of [14C] alogliptin, N-demethylated, M-I (<1% of the parent compound), and N-acetylated alogliptin, M-II (<6% of the parent compound).
-M-I is an active metabolite, and is an inhibitor of DPP-4 similar to the parent molecule; M-II does not display any inhibitory activity towards DPP-4 or other DPP-related enzymes.
+M-I is an active metabolite and is an inhibitor of DPP-4 similar to the parent molecule; M-II does not display any inhibitory activity toward DPP-4 or other DPP-related enzymes.
 In vitro data indicate that, CYP2D6 and CYP3A4 contribute to the limited metabolism of alogliptin.
 
 Alogliptin exists predominantly as the (R)-enantiomer (>99%) and undergoes little or no chiral conversion in vivo to the (S)-enantiomer.
@@ -135,22 +135,22 @@ Pioglitazone
 
 Pioglitazone is extensively metabolized by hydroxylation and oxidation; the metabolites also partly convert to glucuronide or sulfate conjugates.
 Metabolites M-III and M-IV are the major circulating active metabolites in humans.
-Following once daily administration of pioglitazone, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within 7 days.
+Following once-daily administration of pioglitazone, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within seven days.
 At steady-state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone.
 At steady-state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20% to 25% of the total AUC.
 
-Maximum serum concentration (Cmax), AUC, and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
+Maximum serum concentration (Cmax), AUC and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
 
 In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone.
-The cytochrome P450 isoforms involved are CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1.
-In vivo studies of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3) and Drug Interactions (7)].
+The cytochrome P450 isoforms involved are CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms, including the mainly extrahepatic CYP1A1.
+In vivo studies of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor, showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3) and Drug Interactions (7)].
 Urinary 6β-hydroxycortisol/cortisol ratios measured in patients treated with pioglitazone showed that pioglitazone is not a strong CYP3A4 enzyme inducer.
 
 Excretion and Elimination
 
 Alogliptin
 
-The primary route of elimination of [14C] alogliptin derived radioactivity occurred via renal excretion (76%) with 13% recovered in the feces achieving a total recovery of 89% of the administered radioactive dose.
+The primary route of elimination of [14C] alogliptin derived radioactivity occurred via renal excretion (76%), with 13% recovered in the feces, achieving a total recovery of 89% of the administered radioactive dose.
 The renal clearance of alogliptin (9.6 L/hr) indicates some active renal tubular secretion and systematic clearance was 14.0 L/hr.
 
 Pioglitazone
@@ -159,7 +159,7 @@ Following oral administration, approximately 15% to 30% of the pioglitazone dose
 Renal elimination of pioglitazone is negligible, and the drug is excreted primarily as metabolites and their conjugates.
 It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces.
 
-The mean serum half-life of pioglitazone and its metabolites (M-III and M-IV) range from 3 to 7 hours and 16 to 24 hours, respectively.
+The mean serum half-life of pioglitazone and its metabolites (M-III and M-IV) range from three to seven hours and 16 to 24 hours, respectively.
 Pioglitazone has an apparent clearance, CL/F, calculated to be 5 to 7 L/hr.
 
 Special Populations
@@ -169,14 +169,14 @@ Renal Impairment
 Alogliptin
 
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of alogliptin 50 mg in patients with chronic renal impairment compared with healthy subjects.
-In patients with mild renal impairment (creatinine clearance (CrCl) ≥60 to <90 mL/min), an approximate 1.2-fold increase in plasma AUC of alogliptin was observed.
+In patients with mild renal impairment (creatinine clearance [CrCl] ≥60 to <90 mL/min), an approximate 1.2-fold increase in plasma AUC of alogliptin was observed.
 Because increases of this magnitude are not considered clinically relevant, dose adjustment for patients with mild renal impairment is not recommended.
 
-In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate 2-fold increase in plasma AUC of alogliptin was observed.
-To maintain similar systemic exposures of OSENI to those with normal renal function, the recommended dose of OSENI is 12.5 mg/15 mg, 12.5 mg/30 mg, or 12.5 mg/45 mg once daily in patients with moderate renal impairment.
+In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate two-fold increase in plasma AUC of alogliptin was observed.
+To maintain similar systemic exposures of OSENI to those with normal renal function, the recommended dose of OSENI is 12.5 mg/15 mg, 12.5 mg/30 mg or 12.5 mg/45 mg once daily in patients with moderate renal impairment.
 
-In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and end-stage renal disease (CrCl <15 mL/min or requiring dialysis), and approximate 3- and 4-fold increase in plasma AUC of alogliptin were observed, respectively.
-Dialysis removed approximately 7% of the drug during a 3-hour dialysis session.
+In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and ESRD (CrCl <15 mL/min or requiring dialysis), approximate three- and four-fold increases in plasma AUC of alogliptin were observed, respectively.
+Dialysis removed approximately 7% of the drug during a three-hour dialysis session.
 OSENI is not recommended for patients with severe renal impairment or ESRD.
 Coadministration of pioglitazone and alogliptin 6.25 mg once daily based on individual requirements may be considered in these patients.
 
@@ -196,7 +196,7 @@ Use caution when administering OSENI to patients with liver disease [see Use in 
 
 Pioglitazone
 
-Compared with healthy controls, subjects with impaired hepatic function (Child-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III and M-IV) mean peak concentrations but no change in the mean AUC values.
+Compared with healthy controls, subjects with impaired hepatic function (Child-Pugh Grade B and C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III and M-IV) mean peak concentrations but no change in the mean AUC values.
 Therefore, no dose adjustment in patients with hepatic impairment is required.
 
 There are postmarketing reports of liver failure with pioglitazone and clinical trials have generally excluded patients with serum ALT >2.5 times the upper limit of the reference range.
@@ -225,7 +225,7 @@ Age did not have any clinically meaningful effect on the pharmacokinetics of alo
 Pioglitazone
 
 In healthy elderly subjects, peak serum concentrations of pioglitazone and total pioglitazone are not significantly different, but AUC values are approximately 21% higher than those achieved in younger subjects.
-The mean terminal half-life values of pioglitazone were also longer in elderly subjects (about 10 hours) as compared to younger subjects (about 7 hours).
+The mean terminal half-life values of pioglitazone were also longer in elderly subjects (about 10 hours) as compared to younger subjects (about seven hours).
 These changes were not of a magnitude that would be considered clinically relevant.
 
 Pediatrics
@@ -260,7 +260,7 @@ Alogliptin
 
 In Vitro Assessment of Drug Interactions
 
-In vitro studies indicate that alogliptin is neither an inducer of CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A4, nor an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP3A4 and CYP2D6 at clinically relevant concentrations.
+In vitro studies indicate that alogliptin is neither an inducer of CYP1A2, CYP2B6, CYP2C9, CYP2C19 and CYP3A4, nor an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP3A4 and CYP2D6 at clinically relevant concentrations.
 
 In Vivo Assessment of Drug Interactions
 
@@ -272,10 +272,10 @@ No dose adjustment of alogliptin is recommended based on results of the describe
 Figure 1.
 Effect of Alogliptin on the Pharmacokinetic Exposure to Other Drugs
 
-*warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg.
+*Warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg.
 Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR).
 
-**caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate), and fexofenadine (P-gp substrate) were administered as a cocktail.
+**Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail.
 
 Effects of Other Drugs on the Pharmacokinetics of Alogliptin
 
@@ -289,8 +289,8 @@ Pioglitazone
 | Table 8. Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Coadministered Drug |  |  |  |  |
-| Pioglitazone Dosage Regimen (mg)Daily for 7 days unless otherwise noted. | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change=0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. |  | Change in Cmax |  |
-| 45 mg (N=12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time. |  |  |  |  |
+| Pioglitazone Dosage Regimen (mg)Daily for seven days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change=0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively |  | Change in Cmax |  |
+| 45 mg (N=12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |
 | Daily loading then maintenance doses based PT and INR values Quick's Value=35 ± 5% | R-Warfarin | ↓3% | R-Warfarin | ↓2% |  |
 | S-Warfarin | ↓1% | S-Warfarin | ↑1% |  |  |
 | 45 mg (N=12) | Digoxin |  |  |  |  |
@@ -318,8 +318,8 @@ Pioglitazone
 | Table 9. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure |  |  |  |
 | --- | --- | --- | --- |
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
-| Dose Regimen (mg)Daily for 7 days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change=1-fold) % change (with/without coadministered drug and no change=0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. | Change in Cmax |  |
-| Gemfibrozil 600 mg twice daily for 2 days (N=12) | 30 mg single dose | ↑3.4-foldThe half-life of pioglitazone increased from 6.5 h to 15.1 h in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)]. | ↑6% |
+| Dose Regimen (mg)Daily for seven days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change=one-fold) % change (with/without coadministered drug and no change=0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively | Change in Cmax |  |
+| Gemfibrozil 600 mg twice daily for 2 days (N=12) | 30 mg single dose | ↑3.4-foldThe half-life of pioglitazone increased from 6.5 hours to 15.1 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑6% |
 | Ketoconazole 200 mg twice daily for 7 days (N=28) | 45 mg | ↑34% | ↑14% |
 | Rifampin 600 mg daily for 5 days (N=10) | 30 mg single dose | ↓54% | ↓5% |
 | Fexofenadine 60 mg twice daily for 7 days (N=23) | 45 mg | ↑1% | 0% |

@@ -6,10 +6,10 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Alogliptin and Pioglitazone
 
-Over 1500 patients with type 2 diabetes have received alogliptin coadministered with pioglitazone in four large randomized, double-blind controlled clinical trials.
+Over 1500 patients with type 2 diabetes have received alogliptin coadministered with pioglitazone in four large, randomized, double-blind, controlled clinical trials.
 The mean exposure to OSENI was 29 weeks with more than 100 subjects treated for more than one year.
-The studies consisted of two placebo-controlled studies of 16 to 26 weeks duration and two active-controlled studies of 26 weeks and 52 weeks in duration.
-In the OSENI arm, the mean duration of diabetes was approximately 6 years, the mean body mass index (BMI) was 31 kg/m2 (54% of patients had a BMI ≥30 kg/m2), and the mean age was 54 years (16% of patients ≥65 years of age).
+The studies consisted of two placebo-controlled studies of 16 to 26 weeks in duration and two active-controlled studies of 26 weeks and 52 weeks in duration.
+In the OSENI arm, the mean duration of diabetes was approximately six years, the mean body mass index (BMI) was 31 kg/m2 (54% of patients had a BMI ≥30 kg/m2), and the mean age was 54 years (16% of patients ≥65 years of age).
 
 In a pooled analysis of these four controlled clinical studies, the overall incidence of adverse events was 65% in patients treated with OSENI compared to 57% treated with placebo.
 Overall discontinuation of therapy due to adverse events was 2.5% with OSENI compared to 2.0% with placebo, 3.7% with pioglitazone or 1.3% with alogliptin.
@@ -19,21 +19,21 @@ Adverse reactions reported in ≥4% of patients treated with OSENI and more freq
 | Table 1. Adverse Reactions Reported in ≥4% of Patients Treated with OSENI and More Frequently than in Patients Receiving Either Alogliptin, Pioglitazone or Placebo |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Number of Patients (%) |  |  |  |  |
-|  | OSENIOSENI – includes data pooled for patients receiving alogliptin 25 mg and 12.5 mg combined with pioglitazone 15 mg, 30 mg, and 45 mg | AlogliptinAlogliptin – includes data pooled for patients receiving alogliptin 25 mg and 12.5 mg | PioglitazonePioglitazone – includes data pooled for patients receiving pioglitazone 15 mg, 30 mg, and 45 mg | Placebo |
+|  | OSENIOSENI – includes data pooled for patients receiving alogliptin 25 mg and 12.5 mg combined with pioglitazone 15 mg, 30 mg and 45 mg | AlogliptinAlogliptin – includes data pooled for patients receiving alogliptin 25 mg and 12.5 mg | PioglitazonePioglitazone – includes data pooled for patients receiving pioglitazone 15 mg, 30 mg and 45 mg | Placebo |
 |  | N=1533 | N=446 | N=949 | N=153 |
 | Nasopharyngitis | 75 (4.9) | 21 (4.7) | 37 (3.9) | 6 (3.9) |
 | Back Pain | 64 (4.2) | 9 (2.0) | 32 (3.4) | 5 (3.3) |
 | Upper Respiratory Tract Infection | 63 (4.1) | 19 (4.3) | 26 (2.7) | 5 (3.3) |
 
-Alogliptin Add-on Therapy to a Thiazolidinedione
+Alogliptin Add-On Therapy to a Thiazolidinedione
 
 In addition, in a 26-week, placebo-controlled, double-blind study, patients inadequately controlled on a thiazolidinedione alone or in combination with metformin or a sulfonylurea were treated with add-on alogliptin therapy or placebo; the adverse reactions reported in ≥5% of patients and more frequently than in patients who received placebo was influenza (alogliptin, 5.5%; placebo, 4.1%).
 
 Hypoglycemia
 
-In a 26-week placebo-controlled factorial study with alogliptin in combination with pioglitazone on background therapy with metformin, the incidence of subjects reporting hypoglycemia was 0.8%, 0%, 3.8% for alogliptin 25 mg with pioglitazone 15 mg, 30 mg, or 45 mg, respectively; 2.3% for alogliptin 25 mg; 4.7%, 0.8%, 0.8% for pioglitazone 15 mg, 30 mg, or 45 mg, respectively; and 0.8% for placebo.
+In a 26-week, placebo-controlled factorial study with alogliptin in combination with pioglitazone on background therapy with metformin, the incidence of subjects reporting hypoglycemia was 0.8%, 0% and 3.8% for alogliptin 25 mg with pioglitazone 15 mg, 30 mg or 45 mg, respectively; 2.3% for alogliptin 25 mg; 4.7%, 0.8% and 0.8% for pioglitazone 15 mg, 30 mg or 45 mg, respectively; and 0.8% for placebo.
 
-In a 26-week, active-controlled, double-blind study with alogliptin alone, pioglitazone alone or alogliptin coadministered with pioglitazone in patients inadequately controlled on diet and exercise, the incidence of hypoglycemia was 3% on alogliptin 25 mg with pioglitazone 30 mg, 0.6% on alogliptin 25 mg, and 1.8% on pioglitazone 30 mg.
+In a 26-week, active-controlled, double-blind study with alogliptin alone, pioglitazone alone or alogliptin coadministered with pioglitazone in patients inadequately controlled on diet and exercise, the incidence of hypoglycemia was 3% on alogliptin 25 mg with pioglitazone 30 mg, 0.6% on alogliptin 25 mg and 1.8% on pioglitazone 30 mg.
 
 In a 52-week, active-controlled, double-blind study of alogliptin as add-on therapy to the combination of pioglitazone 30 mg and metformin compared to the titration of pioglitazone 30 mg to 45 mg and metformin, the incidence of subjects reporting hypoglycemia was 4.5% in the alogliptin 25 mg with pioglitazone 30 mg and metformin group versus 1.5% in the pioglitazone 45 mg and metformin group.
 
@@ -41,13 +41,13 @@ Alogliptin
 
 Approximately 8500 patients with type 2 diabetes have been treated with alogliptin in 14 randomized, double-blind, controlled clinical trials with approximately 2900 subjects randomized to placebo and approximately 2200 to an active comparator.
 The mean exposure to alogliptin was 40 weeks with more than 2400 subjects treated for more than one year.
-Among these patients, 63% had a history of hypertension, 51% had a history of dyslipidemia, 25% had a history of myocardial infarction, 8% had a history of unstable angina, and 7% had a history of congestive heart failure.
-The mean duration of diabetes was 7 years, the mean body mass index (BMI) was 31 kg/m2 (51% of patients had a BMI ≥30 kg/m2), and the mean age was 57 years (24% of patients ≥65 years of age).
+Among these patients, 63% had a history of hypertension, 51% had a history of dyslipidemia, 25% had a history of myocardial infarction, 8% had a history of unstable angina and 7% had a history of congestive heart failure.
+The mean duration of diabetes was seven years, the mean BMI was 31 kg/m2 (51% of patients had a BMI ≥30 kg/m2) and the mean age was 57 years (24% of patients ≥65 years of age).
 
-Two placebo-controlled monotherapy trials of 12 and 26 weeks of duration were conducted in patients treated with alogliptin 12.5 mg daily, alogliptin 25 mg daily and placebo.
-Four placebo-controlled add-on combination therapy trials of 26 weeks duration were also conducted: with metformin, with a sulfonylurea, with a thiazolidinedione, and with insulin.
+Two placebo-controlled monotherapy trials of 12 and 26 weeks in duration were conducted in patients treated with alogliptin 12.5 mg daily, alogliptin 25 mg daily and placebo.
+Four placebo-controlled add-on combination therapy trials of 26 weeks in duration were also conducted: with metformin, with a sulfonylurea, with a thiazolidinedione and with insulin.
 
-Five placebo-controlled trials of 16 weeks up through two years in duration were conducted in combination with metformin, in combination with pioglitazone and with pioglitazone added to a background of metformin therapy.
+Four placebo-controlled and one active-controlled trials of 16 weeks up through two years in duration were conducted in combination with metformin, in combination with pioglitazone and with pioglitazone added to a background of metformin therapy.
 
 Three active-controlled trials of 52 weeks in duration were conducted in patients treated with pioglitazone and metformin, in combination with metformin and as monotherapy compared to glipizide.
 
@@ -56,18 +56,18 @@ Overall discontinuation of therapy due to adverse events was 4.7% with aloglipti
 
 Adverse reactions reported in ≥4% of patients treated with alogliptin 25 mg and more frequently than in patients who received placebo are summarized in Table 2.
 
-| Table 2. Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies |  |  |  |
+| Table 2. Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently than in Patients Given Placebo in Pooled Studies |  |  |  |
 | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |
 |  | Alogliptin 25 mg | Placebo | Active Comparator |
 |  | N=5902 | N=2926 | N=2257 |
 | Nasopharyngitis | 257 (4.4) | 89 (3.0) | 113 (5.0) |
 | Headache | 247 (4.2) | 72 (2.5) | 121 (5.4) |
-| Upper respiratory tract infection | 247 (4.2) | 61 (2.1) | 113 (5.0) |
+| Upper Respiratory Tract Infection | 247 (4.2) | 61 (2.1) | 113 (5.0) |
 
 Pancreatitis
 
-In the clinical trial program, pancreatitis was reported in 11 of 5902 (0.2%) patients receiving alogliptin 25 mg daily compared to 5 of 5183 (<0.1%) patients receiving all comparators.
+In the clinical trial program, pancreatitis was reported in 11 of 5902 (0.2%) patients receiving alogliptin 25 mg daily compared to five of 5183 (<0.1%) patients receiving all comparators.
 
 Hypersensitivity Reactions
 
@@ -85,7 +85,7 @@ In a monotherapy study comparing alogliptin to a sulfonylurea in elderly patient
 Pioglitazone
 
 Over 8500 patients with type 2 diabetes have been treated with pioglitazone in randomized, double-blind, controlled clinical trials, including 2605 patients with type 2 diabetes and macrovascular disease treated with pioglitazone in the PROactive clinical trial.
-In these trials, over 6000 patients have been treated with pioglitazone for 6 months or longer, over 4500 patients have been treated with pioglitazone for one year or longer, and over 3000 patients have been treated with pioglitazone for at least 2 years.
+In these trials, over 6000 patients have been treated with pioglitazone for six months or longer, over 4500 patients have been treated with pioglitazone for one year or longer, and over 3000 patients have been treated with pioglitazone for at least two years.
 
 Common Adverse Events: 16- to 26-Week Monotherapy Trials
 
@@ -111,7 +111,7 @@ None of the events were fatal.
 Patients with type 2 diabetes and NYHA class II or early class III congestive heart failure were randomized to receive 24 weeks of double-blind treatment with either pioglitazone at daily doses of 30 mg to 45 mg (N=262) or glyburide at daily doses of 10 mg to 15 mg (N=256).
 A summary of the incidence of adverse events related to congestive heart failure reported in this study is provided in Table 4.
 
-| Table 4. Treatment–Emergent Adverse Events of Congestive Heart Failure (CHF) in Patients with NYHA Class II or III Congestive Heart Failure Treated with Pioglitazone or Glyburide |  |  |
+| Table 4. Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) in Patients with NYHA Class II or III Congestive Heart Failure Treated with Pioglitazone or Glyburide |  |  |
 | --- | --- | --- |
 |  | Number (%) of Subjects |  |
 | Pioglitazone N=262 | Glyburide N=256 |  |
@@ -122,40 +122,40 @@ A summary of the incidence of adverse events related to congestive heart failure
 
 Congestive heart failure events leading to hospitalization that occurred during the PROactive trial are summarized in Table 5.
 
-| Table 5. Treatment Emergent Adverse Events of Congestive Heart Failure (CHF) in PROactive Trial |  |  |
+| Table 5. Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) in PROactive Trial |  |  |
 | --- | --- | --- |
 |  | Number (%) of Patients |  |
 | Placebo N=2633 | Pioglitazone N=2605 |  |
 | At least one hospitalized congestive heart failure event | 108 (4.1%) | 149 (5.7%) |
 | Fatal | 22 (0.8%) | 25 (1%) |
-| Hospitalized, non-fatal | 86 (3.3%) | 124 (4.7%) |
+| Hospitalized, nonfatal | 86 (3.3%) | 124 (4.7%) |
 
 Cardiovascular Safety
 
 In the PROactive trial, 5238 patients with type 2 diabetes and a history of macrovascular disease were randomized to pioglitazone (N=2605), force-titrated up to 45 mg daily or placebo (N=2633) in addition to standard of care.
 Almost all patients (95%) were receiving cardiovascular medications (beta blockers, ACE inhibitors, angiotensin II receptor blockers, calcium channel blockers, nitrates, diuretics, aspirin, statins and fibrates).
-At baseline, patients had a mean age of 62 years, mean duration of diabetes of 9.5 years, and mean A1C of 8.1%.
+At baseline, patients had a mean age of 62 years, mean duration of diabetes of 9.5 years and mean A1C of 8.1%.
 Mean duration of follow-up was 34.5 months.
 
 The primary objective of this trial was to examine the effect of pioglitazone on mortality and macrovascular morbidity in patients with type 2 diabetes mellitus who were at high risk for macrovascular events.
-The primary efficacy variable was the time to the first occurrence of any event in a cardiovascular composite endpoint that included all-cause mortality, non-fatal myocardial infarction (MI) including silent MI, stroke, acute coronary syndrome, cardiac intervention including coronary artery bypass grafting or percutaneous intervention, major leg amputation above the ankle, and bypass surgery or revascularization in the leg.
+The primary efficacy variable was the time to the first occurrence of any event in a cardiovascular composite endpoint that included all-cause mortality, nonfatal myocardial infarction (MI) including silent MI, stroke, acute coronary syndrome, cardiac intervention including coronary artery bypass grafting or percutaneous intervention, major leg amputation above the ankle and bypass surgery or revascularization in the leg.
 A total of 514 (19.7%) patients treated with pioglitazone and 572 (21.7%) placebo-treated patients experienced at least one event from the primary composite endpoint (hazard ratio 0.90; 95% Confidence Interval: 0.80, 1.02; p=0.10).
 
-Although there was no statistically significant difference between pioglitazone and placebo for the 3-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with pioglitazone.
+Although there was no statistically significant difference between pioglitazone and placebo for the three-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with pioglitazone.
 The number of first occurrences and total individual events contributing to the primary composite endpoint is shown in Table 6.
 
-| Table 6. PROactive: Number of First and Total Events for Each Component within the Cardiovascular Composite Endpoint |  |  |  |  |
+| Table 6. PROactive: Number of First and Total Events for Each Component Within the Cardiovascular Composite Endpoint |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Cardiovascular Events | Placebo N=2633 |  | Pioglitazone N=2605 |  |
 | First Events n (%) | Total Events n | First Events n (%) | Total Events n |  |
-| Any event | 572 (21.7) | 900 | 514 (19.7) | 803 |
-| All-cause mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |
-| Non-fatal myocardial infarction (MI) | 118 (4.5) | 157 | 105 (4) | 131 |
+| Any Event | 572 (21.7) | 900 | 514 (19.7) | 803 |
+| All-Cause Mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |
+| Nonfatal Myocardial Infarction (MI) | 118 (4.5) | 157 | 105 (4) | 131 |
 | Stroke | 96 (3.6) | 119 | 76 (2.9) | 92 |
-| Acute coronary syndrome | 63 (2.4) | 78 | 42 (1.6) | 65 |
-| Cardiac intervention (CABG/PCI) | 101 (3.8) | 240 | 101 (3.9) | 195 |
-| Major leg amputation | 15 (0.6) | 28 | 9 (0.3) | 28 |
-| Leg revascularization | 57 (2.2) | 92 | 71 (2.7) | 115 |
+| Acute Coronary Syndrome | 63 (2.4) | 78 | 42 (1.6) | 65 |
+| Cardiac Intervention (CABG/PCI) | 101 (3.8) | 240 | 101 (3.9) | 195 |
+| Major Leg Amputation | 15 (0.6) | 28 | 9 (0.3) | 28 |
+| Leg Revascularization | 57 (2.2) | 92 | 71 (2.7) | 115 |
 | CABG=coronary artery bypass grafting; PCI=percutaneous intervention |  |  |  |  |
 
 Weight Gain
@@ -171,16 +171,16 @@ The edema usually does not require hospitalization unless there is coexisting co
 Hepatic Effects
 
 There has been no evidence of pioglitazone-induced hepatotoxicity in the pioglitazone controlled clinical trial database to date.
-One randomized, double-blind, 3-year trial comparing pioglitazone to glyburide as add-on to metformin and insulin therapy was specifically designed to evaluate the incidence of serum ALT elevation to greater than 3 times the upper limit of the reference range, measured every 8 weeks for the first 48 weeks of the trial then every 12 weeks thereafter.
-A total of 3/1051 (0.3%) patients treated with pioglitazone and 9/1046 (0.9%) patients treated with glyburide developed ALT values >3 times the upper limit of the reference range.
-None of the patients treated with pioglitazone in the pioglitazone controlled clinical trial database to date have had a serum ALT >3 times the upper limit of the reference range and a corresponding total bilirubin >2 times the upper limit of the reference range, a combination predictive of the potential for severe drug-induced liver injury.
+One randomized, double-blind, three-year trial comparing pioglitazone to glyburide as add-on to metformin and insulin therapy was specifically designed to evaluate the incidence of serum ALT elevation to greater than three times the upper limit of the reference range, measured every eight weeks for the first 48 weeks of the trial then every 12 weeks thereafter.
+A total of 3/1051 (0.3%) patients treated with pioglitazone and 9/1046 (0.9%) patients treated with glyburide developed ALT values greater than three times the upper limit of the reference range.
+None of the patients treated with pioglitazone in the pioglitazone controlled clinical trial database to date have had a serum ALT greater than three times the upper limit of the reference range and a corresponding total bilirubin greater than two times the upper limit of the reference range, a combination predictive of the potential for severe drug-induced liver injury.
 
 Hypoglycemia
 
 In the pioglitazone clinical trials, adverse events of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with fingerstick glucose testing.
 In the 16-week add-on to sulfonylurea trial, the incidence of reported hypoglycemia was 3.7% with pioglitazone 30 mg and 0.5% with placebo.
-In the 16-week add-on to insulin trial, the incidence of reported hypoglycemia was 7.9% with pioglitazone 15 mg, 15.4% with pioglitazone 30 mg, and 4.8% with placebo.
-The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compared to pioglitazone 30 mg in both the 24-week add-on to sulfonylurea trial (15.7% vs. 13.4%) and in the 24-week add-on to insulin trial (47.8% vs. 43.5%).
+In the 16-week add-on to insulin trial, the incidence of reported hypoglycemia was 7.9% with pioglitazone 15 mg, 15.4% with pioglitazone 30 mg and 4.8% with placebo.
+The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compared to pioglitazone 30 mg in both the 24-week add-on to sulfonylurea trial (15.7% versus 13.4%) and in the 24-week add-on to insulin trial (47.8% versus 43.5%).
 Three patients in these four trials were hospitalized due to hypoglycemia.
 All three patients were receiving pioglitazone 30 mg (0.9%) in the 24-week add-on to insulin trial.
 An additional 14 patients reported severe hypoglycemia (defined as causing considerable interference with patient's usual activities) that did not require hospitalization.
@@ -197,20 +197,20 @@ There are too few events of bladder cancer to establish causality.
 
 Alogliptin
 
-No clinically meaningful changes in hematology, serum chemistry, or urinalysis were observed in patients treated with alogliptin.
+No clinically meaningful changes in hematology, serum chemistry or urinalysis were observed in patients treated with alogliptin.
 
 Pioglitazone
 
 Hematologic Effects
 
 Pioglitazone may cause decreases in hemoglobin and hematocrit.
-In placebo controlled monotherapy trials, mean hemoglobin values declined by 2% to 4% in patients treated with pioglitazone compared with a mean change in hemoglobin of -1% to +1% in placebo-treated patients.
-These changes primarily occurred within the first 4 to 12 weeks of therapy and remained relatively constant thereafter.
+In placebo-controlled monotherapy trials, mean hemoglobin values declined by 2% to 4% in patients treated with pioglitazone compared with a mean change in hemoglobin of -1% to +1% in placebo-treated patients.
+These changes primarily occurred within the first four to 12 weeks of therapy and remained relatively constant thereafter.
 These changes may be related to increased plasma volume associated with pioglitazone therapy and are not likely to be associated with any clinically significant hematologic effects.
 
 Creatine Phosphokinase
 
-During protocol-specified measurement of serum creatine phosphokinase (CPK) in pioglitazone clinical trials, an isolated elevation in CPK to greater than 10 times the upper limit of the reference range was noted in 9 (0.2%) patients treated with pioglitazone (values of 2150 to 11400 IU/L) and in no comparator-treated patient.
+During protocol-specified measurement of serum creatine phosphokinase (CPK) in pioglitazone clinical trials, an isolated elevation in CPK to greater than 10 times the upper limit of the reference range was noted in nine (0.2%) patients treated with pioglitazone (values of 2150 to 11400 IU/L) and in no comparator-treated patients.
 Six of these nine patients continued to receive pioglitazone, two patients were noted to have the CPK elevation on the last day of dosing and one patient discontinued pioglitazone due to the elevation.
 These elevations resolved without any apparent clinical sequelae.
 The relationship of these events to pioglitazone therapy is unknown.
@@ -222,7 +222,7 @@ Alogliptin
 The following adverse reactions have been identified during the postmarketing use of alogliptin outside the United States.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, and severe cutaneous adverse reactions including Stevens-Johnson syndrome; hepatic enzyme elevations; fulminant hepatic failure; and acute pancreatitis.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure and acute pancreatitis.
 
 Pioglitazone
 
@@ -231,7 +231,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.9)].
 
-Fatal and non-fatal hepatic failure [see Warnings and Precautions (5.4)].
+Fatal and nonfatal hepatic failure [see Warnings and Precautions (5.4)].
 
 Postmarketing reports of congestive heart failure have been reported in patients treated with pioglitazone, both with and without previously known heart disease and both with and without concomitant insulin administration.
 

@@ -23,7 +23,7 @@ OSENI can cause serious side effects, including:
 - •an unusually fast increase in weight
 - •unusual tiredness
 
-1. 2.Inflammation of the pancreas (pancreatitis): Alogliptin, one of the medicines in OSENI, may cause pancreatitis which may be severe.
+1. 2.Inflammation of the pancreas (pancreatitis): Alogliptin, one of the medicines in OSENI, may cause pancreatitis, which may be severe.
 2. Certain medical conditions make you more likely to get pancreatitis.
 3. Before you start taking OSENI:
 4. Tell your doctor if you have ever had:
@@ -56,7 +56,7 @@ Do not take OSENI if you:
 - •are allergic to alogliptin (NESINA), pioglitazone (ACTOS) or any ingredient in OSENI or have had a serious allergic (hypersensitivity) reaction to alogliptin or pioglitazone.
   See the end of this Medication Guide for a complete list of the ingredients in OSENI.
 - Symptoms of a serious allergic reaction to OSENI may include:
-- •swelling of your face, lips, throat, and other areas on your skin
+- •swelling of your face, lips, throat and other areas on your skin
 - •difficulty with swallowing or breathing
 - •raised, red areas on your skin (hives)
 - •skin rash, itching, flaking or peeling
@@ -76,7 +76,7 @@ Before you start taking OSENI, tell your doctor if you:
 - •are pregnant or plan to become pregnant.
   It is not known if OSENI can harm your unborn baby.
   Talk to your doctor about the best way to control your blood sugar while you are pregnant or if you plan to become pregnant.
-- •are a premenopausal woman, who does not have periods regularly or at all.
+- •are a premenopausal woman who does not have periods regularly or at all.
   OSENI may increase your chance of becoming pregnant.
   Talk to your doctor about birth control choices while taking OSENI.
   Tell your doctor right away if you become pregnant while taking OSENI.
@@ -85,7 +85,7 @@ Before you start taking OSENI, tell your doctor if you:
   You should not take OSENI if you breastfeed your baby.
   Talk with your doctor about the best way to feed your baby if you are taking OSENI.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist before you start a new medicine.
@@ -101,10 +101,10 @@ How should I take OSENI?
 - •Your doctor may need to change your dose of OSENI to control your blood glucose.
   Do not change your dose unless told to do so by your doctor.
 - •If you miss a dose, take it as soon as you remember.
-  If you do not remember until it is time for your next dose, skip the missed dose, and take the next dose at your regular time.
+  If you do not remember until it is time for your next dose, skip the missed dose and take the next dose at your regular time.
   Do not take 2 doses of OSENI at the same time.
 - •If you take too much OSENI, call your doctor or go to the nearest hospital emergency room right away.
-- •If your body is under stress, such as from fever, infection, accident, or surgery, the dose of your diabetes medicines may need to be changed.
+- •If your body is under stress, such as from fever, infection, accident or surgery, the dose of your diabetes medicines may need to be changed.
   Call your doctor right away.
 - •Stay on your diet and exercise programs and check your blood sugar as your doctor tells you to.
 - •Your doctor may do certain blood tests before you start OSENI and during treatment as needed.
@@ -114,14 +114,14 @@ How should I take OSENI?
 
 What are the possible side effects of OSENI?
 
-OSENI can cause serious side effects including:
+OSENI can cause serious side effects, including:
 
 - •See “What is the most important information I should know about OSENI?”
 - •Allergic (hypersensitivity) reactions, such as:
-  - oswelling of your face, lips, throat, and other areas on your skin
+  - oswelling of your face, lips, throat and other areas on your skin
   - odifficulty with swallowing or breathing
   - oraised, red areas on your skin (hives)
-  - oskin rash, itching, flaking, or peeling
+  - oskin rash, itching, flaking or peeling
 
 If you have these symptoms, stop taking OSENI and contact your doctor right away.
 
@@ -134,7 +134,7 @@ If you have these symptoms, stop taking OSENI and contact your doctor right away
   - odark urine
   - oyellowing of your skin or the whites of your eyes
 - •Broken bones (fractures).
-  Usually in the hand, upper arm, or foot in women.
+  Usually in the hand, upper arm or foot in women.
   Talk to your doctor for advice on how to keep your bones healthy.
 - •Bladder cancer.
   There may be an increased chance of having bladder cancer when you take OSENI.
@@ -146,7 +146,7 @@ If you have these symptoms, stop taking OSENI and contact your doctor right away
 - •Low blood sugar (hypoglycemia).
   If you take OSENI with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take OSENI.
-  If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, and then call your doctor.
+  If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, then call your doctor.
   Signs and symptoms of low blood sugar may include:
 
 | shaking or feeling jitterysweatingfast heartbeatchange in visionhunger | headachechange in moodconfusiondizziness |
@@ -195,9 +195,9 @@ For more information, go to www.oseni.com or call 1-877-TAKEDA-7 (1-877-825-3327
 
 What are the ingredients in OSENI?
 
-Active ingredients: alogliptin and pioglitazone
+Active ingredients: alogliptin and pioglitazone.
 
-Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium, magnesium stearate, and lactose monohydrate; the tablets are film-coated with hypromellose, polyethylene glycol, titanium dioxide, talc, ferric oxide (yellow and/or red), and are marked with red A1 or gray F1 printing ink.
+Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium, magnesium stearate, and lactose monohydrate; the tablets are film-coated with hypromellose, polyethylene glycol, titanium dioxide, talc and ferric oxide (yellow and/or red) and are marked with red A1 or gray F1 printing ink.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -207,10 +207,10 @@ Takeda Pharmaceuticals America, Inc.
 
 Deerfield, IL 60015
 
-Revised: April 2013
+Revised: June 2013
 
 OSENI, NESINA and ACTOS are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2013 Takeda Pharmaceuticals America, Inc.
+©2013 Takeda Pharmaceuticals America, Inc.
 
-ALP008 R2
+ALP008 R3

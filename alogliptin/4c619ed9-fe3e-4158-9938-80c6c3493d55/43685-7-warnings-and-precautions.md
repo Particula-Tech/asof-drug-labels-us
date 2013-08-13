@@ -7,7 +7,7 @@ Pioglitazone
 Pioglitazone, like other thiazolidinediones, can cause dose-related fluid retention when used alone or in combination with other antidiabetic medications and is most common when pioglitazone is used in combination with insulin.
 Fluid retention may lead to or exacerbate congestive heart failure.
 Patients should be observed for signs and symptoms of congestive heart failure.
-If congestive heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of pioglitazone must be considered [see Boxed Warning, Contraindications (4), and Adverse Reactions (6.1)].
+If congestive heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of pioglitazone must be considered [see Boxed Warning, Contraindications (4) and Adverse Reactions (6.1)].
 
 ## 5.2 Pancreatitis
 
@@ -19,29 +19,29 @@ It is unknown whether patients with a history of pancreatitis are at increased r
 ## 5.3 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with alogliptin.
-These reactions include anaphylaxis, angioedema, and severe cutaneous adverse reactions including Stevens-Johnson syndrome.
-If a serious hypersensitivity reaction is suspected, discontinue OSENI, assess for other potential causes for the event, and institute alternative treatment for diabetes [see Adverse Reactions (6.3)].
+These reactions include anaphylaxis, angioedema and severe cutaneous adverse reactions, including Stevens-Johnson syndrome.
+If a serious hypersensitivity reaction is suspected, discontinue OSENI, assess for other potential causes for the event and institute alternative treatment for diabetes [see Adverse Reactions (6.3)].
 Use caution in patients with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with OSENI.
 
 ## 5.4 Hepatic Effects
 
-There have been postmarketing reports of fatal and non-fatal hepatic events in patients taking pioglitazone or alogliptin, although the reports contain insufficient information necessary to establish the probable cause [see Adverse Reactions (6.3)].
+There have been postmarketing reports of fatal and nonfatal hepatic events in patients taking pioglitazone or alogliptin, although the reports contain insufficient information necessary to establish the probable cause [see Adverse Reactions (6.3)].
 There has been no evidence of drug-induced hepatotoxicity in the pioglitazone controlled clinical trial database to date [see Adverse Reactions (6.1)].
 In randomized controlled studies of alogliptin, serum alanine aminotransferase (ALT) elevations greater than three times the upper limit of normal (ULN) were observed: 1.3% in alogliptin-treated patients and 1.5% in all comparator-treated patients.
 
 Patients with type 2 diabetes may have fatty liver disease or cardiac disease with episodic congestive heart failure, both of which may cause liver test abnormalities, and they may also have other forms of liver disease, many of which can be treated or managed.
-Therefore, obtaining a liver test panel (ALT, aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) and assessing the patient is recommended before initiating OSENI therapy.
+Therefore, obtaining a liver test panel (ALT, aspartate aminotransferase [AST], alkaline phosphatase and total bilirubin) and assessing the patient is recommended before initiating OSENI therapy.
 In patients with abnormal liver tests, OSENI should be initiated with caution.
 
 Measure liver tests promptly in patients who report symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
-In this clinical context, if the patient is found to have abnormal liver tests (ALT greater than 3 times the upper limit of the reference range), OSENI treatment should be interrupted and an investigation done to establish the probable cause.
+In this clinical context, if the patient is found to have abnormal liver tests (ALT greater than three times the upper limit of the reference range), OSENI treatment should be interrupted and an investigation done to establish the probable cause.
 OSENI should not be restarted in these patients without another explanation for the liver test abnormalities.
 
 ## 5.5 Edema
 
 Pioglitazone
 
-In controlled clinical trials, edema was reported more frequently in patients treated with pioglitazone than in placebo-treated patients and is dose related [see Adverse Reactions (6.1)].
+In controlled clinical trials, edema was reported more frequently in patients treated with pioglitazone than in placebo-treated patients and is dose-related [see Adverse Reactions (6.1)].
 In postmarketing experience, reports of new onset or worsening of edema have been received.
 
 OSENI should be used with caution in patients with edema.
@@ -69,7 +69,7 @@ After excluding patients in whom exposure to study drug was less than one year a
 
 A five-year interim report of an ongoing 10-year observational cohort study found a nonsignificant increase in the risk for bladder cancer in subjects ever exposed to pioglitazone, compared to subjects never exposed to pioglitazone (HR 1.2 [95% CI 0.9–1.5]).
 Compared to never exposure, a duration of pioglitazone therapy longer than 12 months was associated with an increase in risk (HR 1.4 [95% CI 0.9–2.1]), which reached statistical significance after more than 24 months of pioglitazone use (HR 1.4 [95% CI 1.03–2.0]).
-Interim results from this study suggested that taking pioglitazone longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40% which equates to an absolute increase of 3 cases in 10,000 (from approximately 7 in 10,000 [without pioglitazone] to approximately 10 in 10,000 [with pioglitazone]).
+Interim results from this study suggested that taking pioglitazone longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40%, which equates to an absolute increase of three cases in 10,000 (from approximately seven in 10,000 [without pioglitazone] to approximately 10 in 10,000 [with pioglitazone]).
 
 There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
 Consequently, pioglitazone should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with pioglitazone should be considered in patients with a prior history of bladder cancer.
