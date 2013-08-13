@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091596"
+  ],
+  "inn": "tranexamic-acid",
+  "labeler": "X-GEN Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "39822-1000-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tranexamic acid",
+      "name": "Tranexamic Acid"
+    }
+  ],
+  "setid": "1553f7eb-d5a8-4274-9762-5bcc5ffcf809",
+  "source": "dailymed"
+}
