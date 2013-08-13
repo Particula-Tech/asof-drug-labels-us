@@ -9,6 +9,11 @@ When administered with PERJETA, the recommended initial dose of trastuzumab is 8
 When administered with PERJETA, the recommended initial dose of docetaxel is 75 mg/m2 administered as an intravenous infusion.
 The dose may be escalated to 100 mg/m2 administered every 3 weeks if the initial dose is well tolerated.
 
+PERJETA, trastuzumab, and docetaxel should be administered sequentially.
+PERJETA and trastuzumab can be given in any order.
+Docetaxel should be administered after PERJETA and trastuzumab.
+An observation period of 30 to 60 minutes is recommended after each PERJETA infusion and before commencement of any subsequent infusion of trastuzumab or docetaxel [see Warnings and Precautions (5.3)].
+
 ## 2.2 Dose Modification
 
 For delayed or missed doses, if the time between two sequential infusions is less than 6 weeks, the 420 mg dose of PERJETA should be administered.
@@ -16,7 +21,7 @@ Do not wait until the next planned dose.
 If the time between two sequential infusions is 6 weeks or more, the initial dose of 840 mg PERJETA should be re-administered as a 60-minute intravenous infusion followed every 3 weeks thereafter by a dose of 420 mg administered as an intravenous infusion over 30 to 60 minutes.
 
 The infusion rate of PERJETA may be slowed or interrupted if the patient develops an infusion-associated reaction.
-The infusion should be discontinued immediately if the patient experiences a serious hypersensitivity reaction [see Warnings and Precautions (5.2)].
+The infusion should be discontinued immediately if the patient experiences a serious hypersensitivity reaction [see Warnings and Precautions (5.3)].
 
 Left Ventricular Ejection Fraction (LVEF):
 

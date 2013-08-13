@@ -54,7 +54,7 @@ Consider permanent discontinuation in patients with severe infusion reactions [s
 
 Detection of HER2 protein overexpression is necessary for selection of patients appropriate for PERJETA therapy because these are the only patients studied and for whom benefit has been shown [see Indications and Usage (1) and Clinical Studies (14)].
 In the randomized trial, patients with breast cancer were required to have evidence of HER2 overexpression defined as 3+ IHC by Dako Herceptest™ or FISH amplification ratio ≥ 2.0 by Dako HER2 FISH PharmDx™ test kit.
-Only limited data were available for patients whose breast cancer was positive by FISH but did not demonstrate protein overexpression by IHC.
+Only limited data were available for patients whose breast cancer was positive by FISH, but did not demonstrate protein overexpression by IHC.
 
 Assessment of HER2 status should be performed by laboratories with demonstrated proficiency in the specific technology being utilized.
 Improper assay performance, including use of sub-optimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.

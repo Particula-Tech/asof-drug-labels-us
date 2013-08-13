@@ -35,10 +35,10 @@ Consistent results were observed across several patient subgroups including age 
 In the subgroup of patients with hormone receptor-positive disease (n=388), the hazard ratio was 0.72 (95% CI: 0.55, 0.95).
 In the subgroup of patients with disease limited to non-visceral metastasis (n=178), the hazard ratio was 0.96 (95% CI: 0.61, 1.52).
 
-At the time of the PFS analysis, 165 patients had died.
-More deaths occurred in the placebo-treated group (23.6%) compared with the PERJETA-treated group (17.2%).
-At the interim OS analysis, the results were not mature and did not meet the pre-specified stopping boundary for statistical significance.
+At the time of the final PFS analysis, 165 patients had died, and more deaths had occurred in the placebo-treated group (23.6%) compared with the PERJETA-treated group (17.2%); OS was not mature and interim OS analysis results did not meet the pre-specified stopping boundary for statistical significance.
+A second interim analysis of OS, conducted after an additional year of follow-up, demonstrated a statistically significant improvement in OS [HR=0.66 (95% CI: 0.52, 0.84), p=0.0008].
 See Table 2 and Figure 2.
+OS results in patient subgroups were consistent with those observed for IRF-assessed PFS with the exception of the subgroup of patients with disease limited to non-visceral metastasis [HR = 1.42 (95% CI: 0.71, 2.84)].
 
 Table 2 Summary of Efficacy from the Randomized Trial
 
@@ -47,24 +47,21 @@ Table 2 Summary of Efficacy from the Randomized Trial
 |  | PERJETA + trastuzumab + docetaxel | Placebo + trastuzumab + docetaxel | HR |  |
 | Progression-Free Survival |  |  |  |  |
 | (independent review) |  |  |  |  |
-|  |  |  | 0.62 |  |
-|  |  |  |  | < 0.0001 |
-|  |  |  | (0.51, 0.75) |  |
-| No. of patients with an event | 191 (47.5%) | 242 (59.6%) |  |  |
-| Median months | 18.5 | 12.4 |  |  |
+| No. of patients with an event | 191 (47.5%) | 242 (59.6%) | 0.62 |  |
+| Median months | 18.5 | 12.4 | (0.51, 0.75) | < 0.0001 |
 | Overall Survival |  |  |  |  |
-| (interim analysis) |  |  | 0.64 |  |
-|  |  |  |  | 0.0053The HR and p-value for the interim analysis of Overall Survival did not meet the pre-defined stopping boundary (HR ≤ 0.603, p ≤ 0.0012). |
-|  |  |  | (0.47, 0.88) |  |
-| No. of patients with an event | 69 (17.2%) | 96 (23.6%) |  |  |
-| Objective Response Rate (ORR) |  |  |  |  |
-| No. of patients analyzed |  |  |  |  |
-| Objective response (CR + PR) | 343 | 336 |  |  |
-| Complete response (CR) | 275 (80.2%) | 233 (69.3%) |  |  |
-| Partial Response (PR) | 19 (5.5%) | 14 (4.2%) |  |  |
-|  | 256 (74.6%) | 219 (65.2%) |  |  |
-| Median Duration of Response (months) |  |  |  |  |
-|  | 20.2 | 12.5 |  |  |
+| (second interim analysis) |  |  |  |  |
+| No. of patients who died | 113 (28.1%) | 154 (37.9%) | 0.66 |  |
+| Median months | NR | 37.6 | (0.52, 0.84) | 0.0008The HR and p-value for the second interim analysis of Overall Survival crossed the pre-defined efficacy stopping boundary (HR ≤ 0.739, p ≤ 0.0138). |
+| Objective Response Rate (ORR, independent review) |  |  |  |  |
+| No. of patients analyzed | 343 | 336 |  |  |
+| Objective response (CR + PR) | 275 (80.2%) | 233 (69.3%) |  |  |
+| Complete response (CR) | 19 (5.5%) | 14 (4.2%) |  |  |
+| Partial Response (PR) | 256 (74.6%) | 219 (65.2%) |  |  |
+| Median Duration of Response (months) | 20.2 | 12.5 |  |  |
+| Difference in ORR | 10.8% |  |  |  |
+| 95% CI | (4.2%, 17.5%) |  |  | 0.0011 |
+| NR=Not reached CI=Confidence Interval |  |  |  |  |
 
 | Figure 1 Kaplan-Meier Curve of IRF-Assessed Progression-Free Survival for the Randomized Trial |
 | --- |
