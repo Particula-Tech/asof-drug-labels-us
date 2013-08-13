@@ -8,11 +8,11 @@ No dose-limiting adverse events were observed at these doses.
 In the event of an overdose, it is reasonable to institute the necessary clinical monitoring and supportive therapy as dictated by the patient's clinical status.
 Per clinical judgment, it may be reasonable to initiate removal of unabsorbed material from the gastrointestinal tract.
 
-Alogliptin is minimally dialyzable; over a 3-hour hemodialysis session, approximately 7% of the drug was removed.
+Alogliptin is minimally dialyzable; over a three-hour hemodialysis session, approximately 7% of the drug was removed.
 Therefore, hemodialysis is unlikely to be beneficial in an overdose situation.
 It is not known if alogliptin is dialyzable by peritoneal dialysis.
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 Overdose of metformin has occurred, including ingestion of amounts greater than 50 grams.
 Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin has been established.
