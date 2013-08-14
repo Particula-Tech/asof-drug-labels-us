@@ -5,7 +5,7 @@ Hydromorphone Hydrochloride Oral Solution, USP
 The usual adult oral dosage for Hydromorphone Hydrochloride Oral Solution is one-half (2.5 mL) to two teaspoonfuls (10 mL) (2.5 mg to 10 mg) every 3 to 6 hours as directed by the clinical situation.
 Oral dosages higher than the usual dosages may be required in some patients.
 
-Hydromorphone Hydrochloride Tablets, USP
+Hydromorphone Hydrochloride Tablets
 
 The usual starting dose for Hydromorphone Hydrochloride Tablets is 2 mg to 4 mg, orally, every 4 to 6 hours.
 Appropriate use of Hydromorphone Hydrochloride Tablets must be decided by careful evaluation of each clinical situation.

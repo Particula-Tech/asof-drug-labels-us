@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Hydromorphone Hydrochloride is a pure opioid agonist with the principal therapeutic activity of analgesia.
+Hydromorphone hydrochloride is a pure opioid agonist with the principal therapeutic activity of analgesia.
 A significant feature of the analgesia is that it can occur without loss of consciousness.
 Opioid analgesics also suppress the cough reflex and may cause respiratory depression, mood changes, mental clouding, euphoria, dysphoria, nausea, vomiting and electroencephalographic changes.
 Many of the effects described below are common to this class of mu-opioid agonist analgesics which includes morphine, oxycodone, hydrocodone, codeine and fentanyl.
@@ -52,7 +52,7 @@ After oral administration of 8 mg Hydromorphone Hydrochloride Oral Solution or t
 | --- | --- | --- | --- | --- |
 | Mean (%cv) |  |  |  |  |
 | 8 mg Tablet | 5.5 (33%) | 0.74 (34%) | 23.7 (28%) | 2.6 (18%) |
-| 8 mg Oral Liquid | 5.7 (31%) | 0.73 (71%) | 24.6 (29%) | 2.8 (20%) |
+| 8 mg Oral Solution | 5.7 (31%) | 0.73 (71%) | 24.6 (29%) | 2.8 (20%) |
 
 Food Effects
 

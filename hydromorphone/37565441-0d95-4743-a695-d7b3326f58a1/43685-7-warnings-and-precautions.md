@@ -89,8 +89,8 @@ Tolerance is the need for increasing doses of opioids to maintain a defined effe
 Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist.
 Physical dependence and tolerance are not unusual during chronic opioid therapy.
 
-The opioid abstinence or withdrawal syndrome is characterized by some or all of the following: Restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, mydriasis.
-Other symptoms also may develop, including: Irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+The opioid abstinence or withdrawal syndrome is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, mydriasis.
+Other symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
 In general, opioids used regularly should not be abruptly discontinued.
 
