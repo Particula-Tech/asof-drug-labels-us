@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -16,6 +16,6 @@ Levetiracetam was not mutagenic in the Ames test or in mammalian cells in vitro 
 It was not clastogenic in an in vitro analysis of metaphase chromosomes obtained from Chinese hamster ovary cells or in an in vivo mouse micronucleus assay.
 The hydrolysis product and major human metabolite of levetiracetam (ucb L057) was not mutagenic in the Ames test or the in vitro mouse lymphoma assay.
 
-Impairment Of Fertility
+Impairment of Fertility
 
 No adverse effects on male or female fertility or reproductive performance were observed in rats at oral doses up to 1800 mg/kg/day (6 times the maximum recommended human dose on a mg/m2 or systemic exposure [AUC] basis).

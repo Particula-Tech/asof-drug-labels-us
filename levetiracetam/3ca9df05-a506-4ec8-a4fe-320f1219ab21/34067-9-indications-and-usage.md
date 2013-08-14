@@ -4,7 +4,7 @@
 
 KEPPRA is indicated as adjunctive therapy in the treatment of partial onset seizures in adults and children 1 month of age and older with epilepsy.
 
-## 1.2 Myoclonic Seizures In Patients With Juvenile Myoclonic Epilepsy
+## 1.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
 KEPPRA is indicated as adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents 12 years of age and older with juvenile myoclonic epilepsy.
 

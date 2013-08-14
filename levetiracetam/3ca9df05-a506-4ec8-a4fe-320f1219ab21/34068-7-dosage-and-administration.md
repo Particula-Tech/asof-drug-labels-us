@@ -15,7 +15,7 @@ KEPPRA tablets should not be chewed or crushed.
 
 ## 2.2 Partial Onset Seizures
 
-Adults 16 Years And Older
+Adults 16 Years and Older
 
 In clinical trials, daily doses of 1000 mg, 2000 mg, and 3000 mg, given as twice-daily dosing were shown to be effective.
 Although in some studies there was a tendency toward greater response with higher dose [see Clinical Studies (14.1)], a consistent increase in response with increased dose has not been shown.
@@ -27,21 +27,21 @@ There is no evidence that doses greater than 3000 mg/day confer additional benef
 
 Pediatric Patients
 
-1 Month To < 6 Months
+1 Month to < 6 Months
 
 Treatment should be initiated with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily).
 The daily dose should be increased every 2 weeks by increments of 14 mg/kg to the recommended daily dose of 42 mg/kg (21 mg/kg twice daily).
 In the clinical trial, the mean daily dose was 35 mg/kg in this age group.
 The effectiveness of lower doses has not been studied.
 
-6 Months To <4 Years:
+6 Months to <4 Years:
 
 Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
 The daily dose should be increased in 2 weeks by an increment of 20 mg/kg to the recommended daily dose of 50 mg/kg (25 mg/kg twice daily).
 If a patient cannot tolerate a daily dose of 50 mg/kg, the daily dose may be reduced.
 In the clinical trial, the mean daily dose was 47 mg/kg in this age group.
 
-4 Years To < 16 Years
+4 Years to < 16 Years
 
 Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
 The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
@@ -64,7 +64,7 @@ The following calculation should be used to determine the appropriate daily dose
 | ----------------------------------------- |  |
 | 100 mg/mL |  |
 
-## 2.3 Myoclonic Seizures In Patients 12 Years of Age and Older With Juvenile Myoclonic Epilepsy
+## 2.3 Myoclonic Seizures in Patients 12 Years of Age and Older with Juvenile Myoclonic Epilepsy
 
 Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
@@ -72,13 +72,13 @@ The effectiveness of doses lower than 3000 mg/day has not been studied.
 
 ## 2.4 Primary Generalized Tonic-Clonic Seizures
 
-Adults 16 Years And Older
+Adults 16 Years and Older
 
 Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
 The effectiveness of doses lower than 3000 mg/day has not been adequately studied.
 
-Pediatric Patients Ages 6 To <16 Years
+Pediatric Patients Ages 6 to <16 Years
 
 Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
 The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
@@ -87,7 +87,7 @@ Patients with body weight ≤20 kg should be dosed with oral solution.
 Patients with body weight above 20 kg can be dosed with either tablets or oral solution [see Dosage and Administration (2.1)].
 Only whole tablets should be administered.
 
-## 2.5 Adult Patients With Impaired Renal Function
+## 2.5 Adult Patients with Impaired Renal Function
 
 KEPPRA dosing must be individualized according to the patient's renal function status.
 Recommended doses and adjustment for dose for adults are shown in Table 1.

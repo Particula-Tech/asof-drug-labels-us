@@ -33,7 +33,7 @@ Information on the registry can also be found at the website http://www.aedpregn
 UCB, Inc. has established the UCB AED Pregnancy Registry to advance scientific knowledge about safety and outcomes associated with pregnant women being treated with all UCB antiepileptic drugs, including KEPPRA.
 To ensure broad program access and reach, either a healthcare provider or the patient can initiate enrollment in the UCB AED Pregnancy Registry by calling 1-888-537-7734 (toll free).
 
-## 8.2 Labor And Delivery
+## 8.2 Labor and Delivery
 
 The effect of KEPPRA on labor and delivery in humans is unknown.
 
@@ -68,7 +68,7 @@ There were insufficient numbers of elderly subjects in controlled trials of epil
 Levetiracetam is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
 
-## 8.6 Use In Patients With Impaired Renal Function
+## 8.6 Use in Patients with Impaired Renal Function
 
 Clearance of levetiracetam is decreased in patients with renal impairment and is correlated with creatinine clearance [see Clinical Pharmacology (12.3)].
 Dose adjustment is recommended for patients with impaired renal function and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.5)].

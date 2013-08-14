@@ -42,7 +42,7 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2: Risk By Indication For Antiepileptic Drugs In The Pooled Analysis
+Table 2: Risk by indication for antiepileptic drugs in the pooled analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -115,7 +115,7 @@ A total of 3.2% of treated and 1.8% of placebo patients had at least one possibl
 Of the treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
-Pediatric Patients 4 Years To < 16 Years
+Pediatric Patients 4 Years to < 16 Years
 
 Statistically significant decreases in WBC and neutrophil counts were seen in KEPPRA-treated patients as compared to placebo.
 The mean decreases from baseline in the KEPPRA-treated group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.

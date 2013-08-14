@@ -4,7 +4,7 @@ In the following studies, statistical significance versus placebo indicates a p 
 
 ## 14.1 Partial Onset Seizures
 
-Effectiveness In Partial Onset Seizures In Adults With Epilepsy
+Effectiveness in Partial Onset Seizures in Adults with Epilepsy
 
 The effectiveness of KEPPRA as adjunctive therapy (added to other antiepileptic drugs) in adults was established in three multicenter, randomized, double-blind, placebo-controlled clinical studies in patients who had refractory partial onset seizures with or without secondary generalization.
 The tablet formulation was used in all these studies.
@@ -83,7 +83,7 @@ Figure 3: Responder Rate (≥50% Reduction From Baseline) In Study 3
 
 *statistically significant versus placebo
 
-Effectiveness In Partial Onset Seizures In Pediatric Patients 4 Years To 16 Years With Epilepsy
+Effectiveness in Partial Onset Seizures in Pediatric Patients 4 Years to 16 Years with Epilepsy
 
 The effectiveness of KEPPRA as adjunctive therapy (added to other antiepileptic drugs) in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study, conducted at 60 sites in North America, in children 4 to 16 years of age with partial seizures uncontrolled by standard antiepileptic drugs (AEDs).
 Eligible patients on a stable dose of 1-2 AEDs, who still experienced at least 4 partial onset seizures during the 4 weeks prior to screening, as well as at least 4 partial onset seizures in each of the two 4-week baseline periods, were randomized to receive either KEPPRA or placebo.
@@ -107,7 +107,7 @@ Figure 4: Responder Rate (≥ 50% Reduction From Baseline)
 
 *statistically significant versus placebo
 
-Effectiveness In Partial Onset Seizures In Pediatric Patients 1 Month To <4 Years With Epilepsy
+Effectiveness in Partial Onset Seizures in Pediatric Patients 1 Month to <4 Years with Epilepsy
 
 The effectiveness of KEPPRA as adjunctive therapy in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study, conducted at 62 sites in North America, South America, and Europe in children 1 month to less than 4 years of age with partial seizures, uncontrolled by standard epileptic drugs (AEDs).
 Eligible patients on a stable dose of 1-2 AEDs, who experienced at least 2 partial onset seizures during the 48-hour baseline video EEG were randomized to receive either KEPPRA or placebo.
@@ -126,7 +126,7 @@ Figure 5: Responder Rate For All Subjects Ages 1 Month to < 4 Years (≥ 50% Red
 
 ## 14.2 Myoclonic Seizures In Patients With Juvenile Myoclonic Epilepsy
 
-Effectiveness Of Myoclonic Seizures In Patients ≥12 Years Of Age With Juvenile Myoclonic Epilepsy (JME)
+Effectiveness of Myoclonic Seizures in Patients ≥12 Years of Age with Juvenile Myoclonic Epilepsy (JME)
 
 The effectiveness of KEPPRA as adjunctive therapy (added to other antiepileptic drugs) in patients 12 years of age and older with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 37 sites in 14 countries.
 Of the 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME.
@@ -145,7 +145,7 @@ Table 14: Responder Rate (≥50% Reduction From Baseline) In Myoclonic Seizure D
 
 ## 14.3 Primary Generalized Tonic-Clonic Seizures
 
-Effectiveness In Primary Generalized Tonic-Clonic Seizures In Patients ≥6 Years Of Age
+Effectiveness in Primary Generalized Tonic-Clonic Seizures in Patients ≥6 Years of Age
 
 The effectiveness of KEPPRA as adjunctive therapy (added to other antiepileptic drugs) in patients 6 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 50 sites in 8 countries.
 Eligible patients on a stable dose of 1 or 2 antiepileptic drugs (AEDs) experiencing at least 3 PGTC seizures during the 8-week combined baseline period (at least one PGTC seizure during the 4 weeks prior to the prospective baseline period and at least one PGTC seizure during the 4-week prospective baseline period) were randomized to either KEPPRA or placebo.
