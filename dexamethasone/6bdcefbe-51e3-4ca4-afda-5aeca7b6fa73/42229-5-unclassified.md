@@ -2,7 +2,7 @@ Rx only
 
 FOR USE IN THE EYES OR EARS
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
 ## General
 

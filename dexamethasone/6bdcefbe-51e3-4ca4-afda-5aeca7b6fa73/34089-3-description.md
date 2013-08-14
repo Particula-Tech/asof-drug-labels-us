@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 Dexamethasone Sodium Phosphate Ophthalmic Solution USP, is a sterile, topical steroid solution.
 The active ingredient is represented by the following structural formula:

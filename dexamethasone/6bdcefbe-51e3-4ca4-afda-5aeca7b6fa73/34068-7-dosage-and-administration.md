@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 The duration of treatment will vary with the type of lesion and may extend from a few days to several weeks, according to therapeutic response.
 Relapses, more common in chronic active lesions than in self-limited conditions, usually respond to retreatment.

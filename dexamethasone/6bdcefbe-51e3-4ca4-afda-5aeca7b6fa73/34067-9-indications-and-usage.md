@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
 For the treatment of the following conditions:
 
