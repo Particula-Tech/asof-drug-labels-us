@@ -1,15 +1,27 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised to notify their physician if they are pregnant prior to therapy.
+Suicidal Behavior and Ideation
 
-Patients should be advised that KEPPRA may cause dizziness and somnolence.
-Accordingly, patients should be advised not to drive or operate heavy machinery or engage in other hazardous activities until they have gained sufficient experience on KEPPRA to gauge whether it adversely affects their performance of these activities.
+Counsel patients, their caregivers, and/or families that antiepileptic drugs (AEDs), including KEPPRA, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior, or thoughts about self-harm.
+Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider.
 
-Patients should be advised that KEPPRA may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and in rare cases patients may experience psychotic symptoms.
+Psychiatric Reactions and Changes in Behavior
 
-Patients should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician as suicide, suicide attempt and suicidal ideation have been reported in patients treated with levetiracetam.
+Advise patients that KEPPRA may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and in rare cases, psychotic symptoms have occurred.
 
-KEPPRA injection manufactured for UCB, Inc. Smyrna, GA 30080
+Effects on Driving or Operating Machinery
 
-KEPPRA is a registered trademark of UCB S.A. ©2012, UCB, Inc., Smyrna, GA 30080 All rights reserved.
-Printed in the U.S.A.
+Inform patients that KEPPRA may cause dizziness and somnolence.
+Inform patients not to drive or operate machinery until they have gained sufficient experience on KEPPRA to gauge whether it adversely affects their ability to drive or operate machinery.
+
+Dermatological Adverse Reactions
+
+Advise patients that serious dermatological adverse reactions have occurred in patients treated with KEPPRA and instruct them to call their physician immediately if a rash develops.
+
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during KEPPRA therapy.
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334.
+Additionally, inform patients they can enroll in the UCB AED Pregnancy Registry and they or their healthcare provider can call 1-888-537-7734 (toll free) [see Use In Specific Populations (8.1)].

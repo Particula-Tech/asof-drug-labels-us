@@ -49,7 +49,7 @@ KEPPRA injection is for intravenous use only and must be diluted prior to admini
 One vial of KEPPRA injection contains 500 mg levetiracetam (500 mg/5 mL).
 See Table 1 for the recommended preparation and administration of KEPPRA injection to achieve a dose of 500 mg, 1000 mg, or 1500 mg.
 
-Table 1: Preparation and Administration of KEPPRA Injection
+Table 1: Preparation And Administration Of KEPPRA Injection
 
 | Dose | Withdraw Volume | Volume of Diluent | Infusion Time |
 | --- | --- | --- | --- |
@@ -63,31 +63,34 @@ For example, to prepare a 1000 mg dose, dilute 10 mL of KEPPRA injection in 100 
 
 KEPPRA dosing must be individualized according to the patient's renal function status.
 Recommended doses and adjustment for dose for adults are shown in Table 2.
-To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in mL/min is needed.
-CLcr in mL/min may be estimated from serum creatinine (mg/dL) determination using the following formula:
+In order to calculate the dose recommended for patients with renal impairment, creatinine clearance adjusted for body surface area must be calculated.
+To do this an estimate of the patient's creatinine clearance (CLcr) in mL/min must first be calculated using the following formula:
 
-| CLcr= | [140-age (years)] x weight (kg) | x 1 0.85 |
+| CLcr= | [140-age (years)] × weight (kg) | (× 0.85 for female patients) |
 | --- | --- | --- |
-| - - - - - - - - - - - - - - - - - - - - - - |  |  |
-| 72 x serum creatinine (mg/dL) |  |  |
-| 1. For female patients |  |  |
+| 72 × serum creatinine (mg/dL) |  |  |
 
-Table 2: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Function
+Then CLcr is adjusted for body surface area (BSA) as follows:
 
-| Group | Creatinine Clearance (mL/min) | Dosage (mg) | Frequency |
+| CLcr (mL/min/1.73m2)= | CLcr (mL/min) | × 1.73 |
+| --- | --- | --- |
+| BSA subject (m2) |  |  |
+
+Table 2: Dosing Adjustment Regimen For Adult Patients With Impaired Renal Function
+
+| Group | Creatinine Clearance (mL/min/1.73m2) | Dosage (mg) | Frequency |
 | --- | --- | --- | --- |
-| Normal | > 80 | 500 to 1,500 | Every 12 h |
-| Mild | 50 – 80 | 500 to 1,000 | Every 12 h |
-| Moderate | 30 – 50 | 250 to 750 | Every 12 h |
-| Severe | < 30 | 250 to 500 | Every 12 h |
-| ESRD patients using dialysis | ---- | 500 to 1,000 | 1Every 24 h |
-| 1 Following dialysis, a 250 to 500 mg supplemental dose is recommended. |  |  |  |
+| Normal | > 80 | 500 to 1,500 | Every 12 hours |
+| Mild | 50 – 80 | 500 to 1,000 | Every 12 hours |
+| Moderate | 30 – 50 | 250 to 750 | Every 12 hours |
+| Severe | < 30 | 250 to 500 | Every 12 hours |
+| ESRD patients using dialysis | ------- | 500 to 1,000Following dialysis, a 250 to 500 mg supplemental dose is recommended. | Every 24 hours |
 
 ## 2.7 Compatibility and Stability
 
-KEPPRA injection was found to be physically compatible and chemically stable when mixed with the following diluents and antiepileptic drugs for at least 24 hours and stored in polyvinyl chloride (PVC) bags at controlled room temperature 15-30°C (59-86°F).
+KEPPRA injection was found to be physically compatible and chemically stable when mixed with the following diluents and antiepileptic drugs for at least 24 hours and stored in polyvinyl chloride (PVC) bags at controlled room temperature 15-30˚C (59-86˚F).
 
-Diluents Sodium chloride (0.9%) injection, USP Lactated Ringer’s injection Dextrose 5% injection, USP
+Diluents Sodium chloride (0.9%) injection, USP Lactated Ringer's injection Dextrose 5% injection, USP
 
 Other Antiepileptic Drugs Lorazepam Diazepam Valproate sodium
 

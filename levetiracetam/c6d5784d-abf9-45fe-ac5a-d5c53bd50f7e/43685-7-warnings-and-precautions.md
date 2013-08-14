@@ -1,10 +1,27 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Neuropsychiatric Adverse Reactions
+## 5.1 Psychiatric Reactions
 
-Partial Onset Seizures
+In some patients KEPPRA causes behavioral abnormalities.
+The incidences of behavioral abnormalities in the myoclonic and primary generalized tonic-clonic seizure studies were comparable to those of the adult partial onset seizure studies.
 
-In some adults experiencing partial onset seizures, KEPPRA causes the occurrence of central nervous system adverse reactions that can be classified into the following categories: 1) somnolence and fatigue, 2) coordination difficulties, and 3) behavioral abnormalities.
+A total of 13.3% of adult KEPPRA-treated patients compared to 6.2% of placebo patients experienced non-psychotic behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, irritability, and nervousness).
+
+A total of 1.7% of adult KEPPRA-treated patients discontinued treatment due to behavioral adverse events, compared to 0.2% of placebo patients.
+The treatment dose was reduced in 0.8% of adult KEPPRA-treated patients and in 0.5% of placebo patients.
+
+One percent of adult KEPPRA-treated patients experienced psychotic symptoms compared to 0.2% of placebo patients.
+
+Two (0.3%) adult KEPPRA-treated patients were hospitalized and their treatment was discontinued due to psychosis.
+Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
+
+The above psychiatric signs and symptoms should be monitored.
+
+## 5.2 Somnolence and Fatigue
+
+In some patients, KEPPRA causes somnolence and fatigue.
+The incidences of somnolence and fatigue provided below are from controlled adult partial onset seizure studies.
+In general, the incidences of somnolence and fatigue in the myoclonic and primary generalized tonic-clonic studies were comparable to those of the adult partial onset seizure studies.
 
 In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 14.8% of KEPPRA-treated patients reported somnolence, compared to 8.4% of placebo patients.
 There was no clear dose response up to 3000 mg/day.
@@ -13,80 +30,43 @@ The somnolence was considered serious in 0.3% of the treated patients, compared 
 About 3% of KEPPRA-treated patients discontinued treatment due to somnolence, compared to 0.7% of placebo patients.
 In 1.4% of treated patients and in 0.9% of placebo patients the dose was reduced, while 0.3% of the treated patients were hospitalized due to somnolence.
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 14.7% of treated patients reported asthenia, compared to 9.1% of placebo patients.
-Treatment was discontinued in 0.8% of treated patients as compared to 0.5% of placebo patients.
-In 0.5% of treated patients and in 0.2% of placebo patients the dose was reduced.
+In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 14.7% of KEPPRA-treated patients reported asthenia, compared to 9.1% of placebo patients.
+Treatment was discontinued due to asthenia in 0.8% of treated patients as compared to 0.5% of placebo patients.
+In 0.5% of treated patients and in 0.2% of placebo patients the dose was reduced due to asthenia.
 
-A total of 3.4% of KEPPRA-treated patients experienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo patients.
+Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
+
+Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on KEPPRA to gauge whether it adversely affects their ability to drive or operate machinery.
+
+## 5.3 Serious Dermatological Reactions
+
+Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients treated with levetiracetam.
+The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment.
+Recurrence of the serious skin reactions following rechallenge with levetiracetam has also been reported.
+Keppra should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
+If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
+
+## 5.4 Coordination Difficulties
+
+Coordination difficulties were only observed in the adult partial onset seizure studies.
+A total of 3.4% of adult KEPPRA-treated patients experienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo patients.
 A total of 0.4% of patients in controlled trials discontinued KEPPRA treatment due to ataxia, compared to 0% of placebo patients.
 In 0.7% of treated patients and in 0.2% of placebo patients the dose was reduced due to coordination difficulties, while one of the treated patients was hospitalized due to worsening of pre-existing ataxia.
+These events occurred most frequently within the first 4 weeks of treatment.
 
-Somnolence, asthenia and coordination difficulties occurred most frequently within the first 4 weeks of treatment.
+Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on KEPPRA to gauge whether it could adversely affect their ability to drive or operate machinery.
 
-In controlled trials of patients with epilepsy experiencing partial onset seizures, 5 (0.7%) of KEPPRA-treated patients experienced psychotic symptoms compared to 1 (0.2%) placebo patient.
-Two (0.3%) KEPPRA-treated patients were hospitalized and their treatment was discontinued.
-Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
-Two other events, reported as hallucinations, occurred after 1-5 months and resolved within 2-7 days while the patients remained on treatment.
-In one patient experiencing psychotic depression occurring within a month, symptoms resolved within 45 days while the patient continued treatment.
-A total of 13.3% of KEPPRA patients experienced other behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, irritability, etc.) compared to 6.2% of placebo patients.
-Approximately half of these patients reported these events within the first 4 weeks.
-A total of 1.7% of treated patients discontinued treatment due to these events, compared to 0.2% of placebo patients.
-The treatment dose was reduced in 0.8% of treated patients and in 0.5% of placebo patients.
-A total of 0.8% of treated patients had a serious behavioral event (compared to 0.2% of placebo patients) and were hospitalized.
-
-In addition, 4 (0.5%) of treated patients attempted suicide compared to 0% of placebo patients.
-One of these patients completed suicide.
-In the other 3 patients, the events did not lead to discontinuation or dose reduction.
-The events occurred after patients had been treated for between 4 weeks and 6 months [see Patient Counseling Information (17)].
-
-Myoclonic Seizures
-
-During clinical development, the number of patients with myoclonic seizures exposed to KEPPRA was considerably smaller than the number with partial seizures.
-Therefore, under-reporting of certain adverse reactions was more likely to occur in the myoclonic seizure population.
-In some patients experiencing myoclonic seizures, KEPPRA causes somnolence and behavioral abnormalities.
-It is expected that the events seen in partial seizure patients would occur in patients with JME.
-
-In the double-blind, controlled trial in patients with juvenile myoclonic epilepsy experiencing myoclonic seizures, 11.7% of KEPPRA-treated patients experienced somnolence compared to 1.7% of placebo patients.
-No patient discontinued treatment as a result of somnolence.
-In 1.7% of KEPPRA-treated patients and in 0% of placebo patients the dose was reduced as a result of somnolence.
-
-Non-psychotic behavioral disorders (reported as aggression and irritability) occurred in 5% of the KEPPRA-treated patients compared to 0% of placebo patients.
-Non-psychotic mood disorders (reported as depressed mood, depression, and mood swings) occurred in 6.7% of KEPPRA-treated patients compared to 3.3% of placebo patients.
-A total of 5.0% of KEPPRA-treated patients had a reduction in dose or discontinued treatment due to behavioral or psychiatric events (reported as anxiety, depressed mood, depression, irritability, and nervousness), compared to 1.7% of placebo patients.
-
-Primary Generalized Tonic-Clonic Seizures
-
-During clinical development, the number of patients with primary generalized tonic-clonic epilepsy exposed to KEPPRA was considerably smaller than the number with partial epilepsy, described above.
-As in the partial seizure patients, behavioral symptoms appeared to be associated with KEPPRA treatment.
-Gait disorders and somnolence were also described in the study in primary generalized seizures, but with no difference between placebo and KEPPRA treatment groups and no appreciable discontinuations.
-Although it may be expected that drug related events seen in partial seizure patients would be seen in primary generalized epilepsy patients (e.g. somnolence and gait disturbance), these events may not have been observed because of the smaller sample size.
-
-In some patients experiencing primary generalized tonic-clonic seizures, KEPPRA causes behavioral abnormalities.
-
-In the double-blind, controlled trial in patients with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures, irritability was the most frequently reported psychiatric adverse event occurring in 6.3% of KEPPRA-treated patients compared to 2.4% of placebo patients.
-Additionally, non-psychotic behavioral disorders (reported as abnormal behavior, aggression, conduct disorder, and irritability) occurred in 11.4% of the KEPPRA-treated patients compared to 3.6% of placebo patients.
-Of the KEPPRA-treated patients experiencing non-psychotic behavioral disorders, one patient discontinued treatment due to aggression.
-
-Non-psychotic mood disorders (reported as anger, apathy, depression, mood altered, mood swings, negativism, suicidal ideation, and tearfulness) occurred in 12.7% of KEPPRA-treated patients compared to 8.3% of placebo patients.
-No KEPPRA-treated patients discontinued or had a dose reduction as a result of these events.
-One KEPPRA-treated patient experienced suicidal ideation.
-One patient experienced delusional behavior that required the lowering of the dose of KEPPRA.
-
-In a long-term open label study that examined patients with various forms of primary generalized epilepsy, along with the non-psychotic behavioral disorders, 2 of 192 patients studied exhibited psychotic-like behavior.
-Behavior in one case was characterized by auditory hallucinations and suicidal thoughts and led to KEPPRA discontinuation.
-The other case was described as worsening of pre-existent schizophrenia and did not lead to drug discontinuation.
-
-## 5.2 Withdrawal Seizures
+## 5.5 Withdrawal Seizures
 
 Antiepileptic drugs, including KEPPRA, should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
-## 5.3 Hematologic Abnormalities
+## 5.6 Hematologic Abnormalities
 
 Partial Onset Seizures
 
-Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients in controlled trials.
+Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients in controlled trials.
 
-A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (≤2.8 x 109/L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (≤1.0 x 109/L) decreased neutrophil count.
+A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
 Of the treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
@@ -95,11 +75,9 @@ Juvenile Myoclonic Epilepsy
 Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
 The data from the partial seizure patients should be considered to be relevant for JME patients.
 
-## 5.4 Hepatic Abnormalities
+## 5.7 Seizure Control During Pregnancy
 
-There were no meaningful changes in mean liver function tests (LFT) in controlled trials in adult patients; lesser LFT abnormalities were similar in drug and placebo treated patients in controlled trials (1.4%).
-No patients were discontinued from controlled trials for LFT abnormalities except for 1 (0.07%) adult epilepsy patient receiving open treatment.
-
-## 5.5 Laboratory Tests
-
-Although most laboratory tests are not systematically altered with KEPPRA treatment, there have been relatively infrequent abnormalities seen in hematologic parameters and liver function tests.
+Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
+This decrease is more pronounced during the third trimester.
+It is recommended that patients be monitored carefully during pregnancy.
+Close monitoring should continue through the postpartum period especially if the dose was changed during pregnancy.

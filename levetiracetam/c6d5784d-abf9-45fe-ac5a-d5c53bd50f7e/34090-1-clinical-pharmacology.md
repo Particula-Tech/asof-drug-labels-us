@@ -11,7 +11,7 @@ The predictive value of these animal models for specific types of human epilepsy
 
 In vitro and in vivo recordings of epileptiform activity from the hippocampus have shown that levetiracetam inhibits burst firing without affecting normal neuronal excitability, suggesting that levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity.
 
-Levetiracetam at concentrations of up to 10 μM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
+Levetiracetam at concentrations of up to 10 µM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
 Furthermore, in vitro studies have failed to find an effect of levetiracetam on neuronal voltage-gated sodium or T-type calcium currents and levetiracetam does not appear to directly facilitate GABAergic neurotransmission.
 However, in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA- and glycine-gated currents and partially inhibits N-type calcium currents in neuronal cells.
 
@@ -19,6 +19,14 @@ A saturable and stereoselective neuronal binding site in rat brain tissue has be
 Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis.
 Although the molecular significance of levetiracetam binding to synaptic vesicle protein SV2A is not understood, levetiracetam and related analogs showed a rank order of affinity for SV2A which correlated with the potency of their antiseizure activity in audiogenic seizure-prone mice.
 These findings suggest that the interaction of levetiracetam with the SV2A protein may contribute to the antiepileptic mechanism of action of the drug.
+
+## 12.2 Pharmacodynamics
+
+Effects on QTc Interval
+
+The effect of KEPPRA on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of KEPPRA (1000 mg or 5000 mg) in 52 healthy subjects.
+The upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 milliseconds.
+Therefore, there was no evidence of significant QTc prolongation in this study.
 
 ## 12.3 Pharmacokinetics
 
@@ -44,7 +52,7 @@ Distribution
 The equivalence of levetiracetam injection and the oral formulation was demonstrated in a bioavailability study of 17 healthy volunteers.
 In this study, levetiracetam 1500 mg was diluted in 100 mL 0.9% sterile saline solution and was infused over 15 minutes.
 The selected infusion rate provided plasma concentrations of levetiracetam at the end of the infusion period similar to those achieved at Tmax after an equivalent oral dose.
-It is demonstrated that levetiracetam 1500 mg intravenous infusion is equivalent to levetiracetam 3 x 500 mg oral tablets.
+It is demonstrated that levetiracetam 1500 mg intravenous infusion is equivalent to levetiracetam 3 × 500 mg oral tablets.
 The time independent pharmacokinetic profile of levetiracetam was demonstrated following 1500 mg intravenous infusion for 4 days with BID dosing.
 The AUC(0-12) at steady-state was equivalent to AUCinf following an equivalent single dose.
 
@@ -68,14 +76,6 @@ The metabolite ucb L057 is excreted by glomerular filtration and active tubular 
 Levetiracetam elimination is correlated to creatinine clearance.
 Levetiracetam clearance is reduced in patients with impaired renal function [see Use in Specific Populations (8.6) and Dosage and Administration (2.6)].
 
-Pharmacokinetic Interactions
-
-In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
-In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
-
-Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients [see Drug Interactions (7)].
-
 Special Populations
 
 Elderly
@@ -87,6 +87,10 @@ This is most likely due to the decrease in renal function in these subjects.
 Pediatric Patients
 
 Safety and effectiveness of KEPPRA injection in patients below the age of 16 years have not been established.
+
+Pregnancy
+
+Keppra levels may decrease during pregnancy.
 
 Gender
 
@@ -115,3 +119,50 @@ Hepatic Impairment
 In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairment, the pharmacokinetics of levetiracetam were unchanged.
 In patients with severe hepatic impairment (Child-Pugh C), total body clearance was 50% that of normal subjects, but decreased renal clearance accounted for most of the decrease.
 No dose adjustment is needed for patients with hepatic impairment.
+
+Drug Interactions
+
+In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
+In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
+
+Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients.
+
+Phenytoin
+
+KEPPRA (3000 mg daily) had no effect on the pharmacokinetic disposition of phenytoin in patients with refractory epilepsy.
+Pharmacokinetics of levetiracetam were also not affected by phenytoin.
+
+Valproate
+
+KEPPRA (1500 mg twice daily) did not alter the pharmacokinetics of valproate in healthy volunteers.
+Valproate 500 mg twice daily did not modify the rate or extent of levetiracetam absorption or its plasma clearance or urinary excretion.
+There also was no effect on exposure to and the excretion of the primary metabolite, ucb L057.
+
+Other Antiepileptic Drugs
+
+Potential drug interactions between KEPPRA and other AEDs (carbamazepine, gabapentin, lamotrigine, phenobarbital, phenytoin, primidone and valproate) were also assessed by evaluating the serum concentrations of levetiracetam and these AEDs during placebo-controlled clinical studies.
+These data indicate that levetiracetam does not influence the plasma concentration of other AEDs and that these AEDs do not influence the pharmacokinetics of levetiracetam.
+
+Oral Contraceptives
+
+KEPPRA (500 mg twice daily) did not influence the pharmacokinetics of an oral contraceptive containing 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel, or of the luteinizing hormone and progesterone levels, indicating that impairment of contraceptive efficacy is unlikely.
+Coadministration of this oral contraceptive did not influence the pharmacokinetics of levetiracetam.
+
+Digoxin
+
+KEPPRA (1000 mg twice daily) did not influence the pharmacokinetics and pharmacodynamics (ECG) of digoxin given as a 0.25 mg dose every day.
+Coadministration of digoxin did not influence the pharmacokinetics of levetiracetam.
+
+Warfarin
+
+KEPPRA (1000 mg twice daily) did not influence the pharmacokinetics of R and S warfarin.
+Prothrombin time was not affected by levetiracetam.
+Coadministration of warfarin did not affect the pharmacokinetics of levetiracetam.
+
+Probenecid
+
+Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
+Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
+The effect of KEPPRA on probenecid was not studied.
