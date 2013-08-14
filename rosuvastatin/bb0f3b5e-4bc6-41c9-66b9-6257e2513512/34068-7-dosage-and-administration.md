@@ -3,38 +3,38 @@
 ## 2.1 General Dosing Information
 
 The dose range for CRESTOR is 5 to 40 mg orally once daily.
-The usual starting dose is 10-20 mg.
+The usual starting dose is 10‑20 mg.
 
 CRESTOR can be administered as a single dose at any time of day, with or without food.
 
-When initiating CRESTOR therapy or switching from another HMG-CoA reductase inhibitor therapy, the appropriate CRESTOR starting dose should first be utilized, and only then titrated according to the patient’s response and individualized goal of therapy.
+When initiating CRESTOR therapy or switching from another HMG‑CoA reductase inhibitor therapy, the appropriate CRESTOR starting dose should first be utilized, and only then titrated according to the patient’s response and individualized goal of therapy.
 
 After initiation or upon titration of CRESTOR, lipid levels should be analyzed within 2 to 4 weeks and the dosage adjusted accordingly.
 
-The 40 mg dose of CRESTOR should be used only for those patients who have not achieved their LDL-C goal utilizing the 20 mg dose [see Warnings and Precautions (5.1)].
+The 40 mg dose of CRESTOR should be used only for those patients who have not achieved their LDL‑C goal utilizing the 20 mg dose [see Warnings and Precautions (5.1)].
 
 ## 2.2 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 to 17 years of age)
 
-The usual dose range of CRESTOR is 5-20 mg/day; the maximum recommended dose is 20 mg/day (doses greater than 20 mg have not been studied in this patient population).
+The usual dose range of CRESTOR is 5‑20 mg/day; the maximum recommended dose is 20 mg/day (doses greater than 20 mg have not been studied in this patient population).
 Doses should be individualized according to the recommended goal of therapy [see Clinical Pharmacology (12) and Indications and Usage (1.2)].
 Adjustments should be made at intervals of 4 weeks or more.
 
 ## 2.3 Homozygous Familial Hypercholesterolemia
 
 The recommended starting dose of CRESTOR is 20 mg once daily.
-Response to therapy should be estimated from preapheresis LDL-C levels.
+Response to therapy should be estimated from preapheresis LDL‑C levels.
 
 ## 2.4 Dosing in Asian Patients
 
 In Asian patients, consider initiation of CRESTOR therapy with 5 mg once daily due to increased rosuvastatin plasma concentrations.
 The increased systemic exposure should be taken into consideration when treating Asian patients not adequately controlled at doses up to 20 mg/day.
-[see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
+[see Use in Specific Populations (8.8) andClinical Pharmacology (12.3)].
 
 ## 2.5 Use with Concomitant Therapy
 
 Patients taking cyclosporine
 
-The dose of CRESTOR should not exceed 5 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
+The dose of CRESTOR should not exceed 5 mg once daily [seeWarnings and Precautions (5.1), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
 
 Patients taking gemfibrozil
 
@@ -44,7 +44,7 @@ The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precaut
 Patients taking lopinavir and ritonavir or atazanavir and ritonavir
 
 Initiate CRESTOR therapy with 5 mg once daily.
-The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
+The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
 
 ## 2.6 Dosing in Patients with Severe Renal Impairment
 

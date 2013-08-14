@@ -8,6 +8,7 @@ These risks can occur at any dose level, but are increased at the highest dose (
 CRESTOR should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
 
 The risk of myopathy during treatment with CRESTOR may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, lopinavir/ritonavir, or atazanavir/ritonavir [see Dosage and Administration (2) and Drug Interactions (7)].
+Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing CRESTOR with colchicine [see Drug Interactions (7.7)].
 
 CRESTOR therapy should be discontinued if markedly elevated creatine kinase levels occur or myopathy is diagnosed or suspected.
 CRESTOR therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
@@ -15,13 +16,13 @@ CRESTOR therapy should also be temporarily withheld in any patient with an acute
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
 
-All patients should be advised promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing CRESTOR.
+All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing CRESTOR.
 
 ## 5.2 Liver Enzyme Abnormalities
 
 It is recommended that liver enzyme tests be performed before the initiation of CRESTOR, and if signs or symptoms of liver injury occur.
 
-Increases in serum transaminases [AST (SGOT) or ALT (SGPT)] have been reported with HMG-CoA reductase inhibitors, including CRESTOR.
+Increases in serum transaminases [AST (SGOT) or ALT (SGPT)] have been reported with HMG‑CoA reductase inhibitors, including CRESTOR.
 In most cases, the elevations were transient and resolved or improved on continued therapy or after a brief interruption in therapy.
 There were two cases of jaundice, for which a relationship to CRESTOR therapy could not be determined, which resolved after discontinuation of therapy.
 There were no cases of liver failure or irreversible liver disease in these trials.
@@ -43,11 +44,12 @@ In patients taking coumarin anticoagulants and CRESTOR concomitantly, INR should
 ## 5.4 Proteinuria and Hematuria
 
 In the CRESTOR clinical trial program, dipstick-positive proteinuria and microscopic hematuria were observed among CRESTOR treated patients.
-These findings were more frequent in patients taking CRESTOR 40 mg, when compared to lower doses of CRESTOR or comparator HMG-CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
+These findings were more frequent in patients taking CRESTOR 40 mg, when compared to lower doses of CRESTOR or comparator HMG‑CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
 Although the clinical significance of this finding is unknown, a dose reduction should be considered for patients on CRESTOR therapy with unexplained persistent proteinuria and/or hematuria during routine urinalysis testing.
 
 ## 5.5 Endocrine Effects
 
-Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including CRESTOR [see Adverse Reactions (6.1)].
+Increases in HbA1c and fasting serum glucose levels have been reported with HMG‑CoA reductase inhibitors, including CRESTOR.
+Based on clinical trial data with CRESTOR, in some instances these increases may exceed the threshold for the diagnosis of diabetes mellitus [see Adverse Reactions (6.1)].
 
 Although clinical studies have shown that CRESTOR alone does not reduce basal plasma cortisol concentration or impair adrenal reserve, caution should be exercised if CRESTOR is administered concomitantly with drugs that may decrease the levels or activity of endogenous steroid hormones such as ketoconazole, spironolactone, and cimetidine.

@@ -14,7 +14,7 @@ Rosuvastatin was negative in the in vivo mouse micronucleus test.
 In rat fertility studies with oral gavage doses of 5, 15, 50 mg/kg/day, males were treated for 9 weeks prior to and throughout mating and females were treated 2 weeks prior to mating and throughout mating until gestation day 7.
 No adverse effect on fertility was observed at 50 mg/kg/day (systemic exposures up to 10 times the human exposure at 40 mg/day based on AUC).
 In testicles of dogs treated with rosuvastatin at 30 mg/kg/day for one month, spermatidic giant cells were seen.
-Spermatidic giant cells were observed in monkeys after 6-month treatment at 30 mg/kg/day in addition to vacuolation of seminiferous tubular epithelium.
+Spermatidic giant cells were observed in monkeys after 6‑month treatment at 30 mg/kg/day in addition to vacuolation of seminiferous tubular epithelium.
 Exposures in the dog were 20 times and in the monkey 10 times the human exposure at 40 mg/day based on body surface area.
 Similar findings have been seen with other drugs in this class.
 

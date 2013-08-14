@@ -9,14 +9,14 @@ Serum cholesterol and triglycerides increase during normal pregnancy, and choles
 Atherosclerosis is a chronic process and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hyperlipidemia therapy [see Contraindications (4)].
 
 There are no adequate and well-controlled studies of CRESTOR in pregnant women.
-There have been rare reports of congenital anomalies following intrauterine exposure to HMG-CoA reductase inhibitors.
-In a review of about 100 prospectively followed pregnancies in women exposed to other HMG-CoA reductase inhibitors, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed the rate expected in the general population.
+There have been rare reports of congenital anomalies following intrauterine exposure to HMG‑CoA reductase inhibitors.
+In a review of about 100 prospectively followed pregnancies in women exposed to other HMG‑CoA reductase inhibitors, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed the rate expected in the general population.
 However, this study was only able to exclude a three-to-fourfold increased risk of congenital anomalies over background incidence.
 In 89% of these cases, drug treatment started before pregnancy and stopped during the first trimester when pregnancy was identified.
 
 Rosuvastatin crosses the placenta in rats and rabbits.
 In rats, CRESTOR was not teratogenic at systemic exposures equivalent to a human therapeutic dose of 40 mg/day.
-At 10-12 times the human dose of 40 mg/day, there was decreased pup survival, decreased fetal body weight among female pups, and delayed ossification.
+At 10‑12 times the human dose of 40 mg/day, there was decreased pup survival, decreased fetal body weight among female pups, and delayed ossification.
 In rabbits, pup viability decreased and maternal mortality increased at doses equivalent to the human dose of 40 mg/day [see Nonclinical Toxicology (13.2)].
 
 CRESTOR may cause fetal harm when administered to a pregnant woman.
@@ -26,7 +26,7 @@ If the patient becomes pregnant while taking CRESTOR, the patient should be appr
 
 It is not known whether rosuvastatin is excreted in human milk, but a small amount of another drug in this class does pass into breast milk.
 In rats, breast milk concentrations of rosuvastatin are three times higher than plasma levels; however, animal breast milk drug levels may not accurately reflect human breast milk levels.
-Because another drug in this class passes into human milk and because HMG-CoA reductase inhibitors have a potential to cause serious adverse reactions in nursing infants, women who require CRESTOR treatment should be advised not to nurse their infants [see Contraindications (4)].
+Because another drug in this class passes into human milk and because HMG‑CoA reductase inhibitors have a potential to cause serious adverse reactions in nursing infants, women who require CRESTOR treatment should be advised not to nurse their infants [see Contraindications (4)].
 
 ## 8.4 Pediatric Use
 
@@ -58,9 +58,9 @@ CRESTOR dosing should be adjusted in patients with severe renal impairment (CLcr
 ## 8.7 Hepatic Impairment
 
 CRESTOR is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
-Chronic alcohol liver disease is known to increase rosuvastatin exposure; CRESTOR should be used with caution in these patients [see Contraindications (4), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
+Chronic alcohol liver disease is known to increase rosuvastatin exposure; CRESTOR should be used with caution in these patients [see Contraindications (4), Warning and Precautions (5.2), andClinical Pharmacology (12.3)].
 
 ## 8.8 Asian Patients
 
-Pharmacokinetic studies have demonstrated an approximate 2-fold increase in median exposure to rosuvastatin in Asian subjects when compared with Caucasian controls.
+Pharmacokinetic studies have demonstrated an approximate 2‑fold increase in median exposure to rosuvastatin in Asian subjects when compared with Caucasian controls.
 CRESTOR dosage should be adjusted in Asian patients [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

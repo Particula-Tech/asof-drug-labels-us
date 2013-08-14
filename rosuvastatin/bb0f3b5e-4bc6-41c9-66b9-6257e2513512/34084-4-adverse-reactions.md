@@ -2,13 +2,13 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- •Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see Warnings and Precautions (5.1)]
-- •Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
+- •Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see Warnings and Precautions(5.1)]
+- •Liver enzyme abnormalities [see Warnings and Precautions(5.2)]
 
 In the CRESTOR controlled clinical trials database (placebo or active-controlled) of 5394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were:
 
-- •Myalgia
+- •myalgia
 - •abdominal pain
 - •nausea
 
@@ -19,7 +19,6 @@ The most commonly reported adverse reactions (incidence ≥ 2%) in the CRESTOR c
 - •abdominal pain
 - •asthenia
 - •nausea
-- 
 
 ## 6.1 Clinical Studies Experience
 
@@ -28,11 +27,10 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 Adverse reactions reported in ≥ 2% of patients in placebo-controlled clinical studies and at a rate greater than placebo are shown in Table 1.
 These studies had a treatment duration of up to 12 weeks.
 
-Table 1.
-Adverse ReactionsAdverse reactions by COSTART preferred term.
-Reported by ≥ 2% of Patients Treated with CRESTOR and > Placebo in Placebo-Controlled Trials (% of Patients)
+- Table 1.
+  Adverse Reactions1 Reported in ≥ 2% of Patients Treated with CRESTOR and > Placebo in Placebo‑Controlled Trials (% of Patients)
 
-| Adverse Reactions | CRESTOR 5 mgN=291 | CRESTOR 10 mgN=283 | CRESTOR 20 mgN=64 | CRESTOR 40 mgN=106 | Total CRESTOR 5 mg – 40 mgN=744 | PlaceboN=382 |
+| Adverse Reactions | CRESTOR5 mgN=291 | CRESTOR10 mgN=283 | CRESTOR20 mgN=64 | CRESTOR40 mgN=106 | Total CRESTOR5 mg‑40 mgN=744 | PlaceboN=382 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Headache | 5.5 | 4.9 | 3.1 | 8.5 | 5.5 | 5.0 |
 | Nausea | 3.8 | 3.5 | 6.3 | 0 | 3.4 | 3.1 |
@@ -48,9 +46,8 @@ The most common adverse reactions that led to treatment discontinuation were: my
 
 Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 2.
 
-Table 2.
-Adverse ReactionsAdverse reactions by MedDRA preferred term.
-Reported by ≥ 2% of Patients Treated with CRESTOR and > Placebo in the METEOR Trial (% of Patients)
+- Table 2.
+  Adverse Reactions1 Reported in 2% of Patients Treated with CRESTOR and > Placebo in the METEOR Trial (% of Patients)
 
 | Adverse Reactions | CRESTOR 40 mg N=700 | Placebo N=281 |
 | --- | --- | --- |
@@ -72,15 +69,15 @@ The number of patients with a HbA1c > 6.5% at the end of the trial was significa
 
 Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 3.
 
-Table 3.
-Adverse ReactionsTreatment-emergent adverse reactions by MedDRA preferred term.
-Reported by ≥ 2% of Patients Treated with CRESTOR and > Placebo in the JUPITER Trial (% of Patients)
+- Table 3.
+  Adverse Reactions1 Reported in ≥ 2% of Patients Treated with CRESTOR and > Placebo in the JUPITER Trial (% of Patients)
 
 | Adverse Reactions | CRESTOR 20 mg N=8901 | Placebo N=8901 |
 | --- | --- | --- |
 | Myalgia | 7.6 | 6.6 |
 | Arthralgia | 3.8 | 3.2 |
 | Constipation | 3.3 | 3.0 |
+| Diabetes mellitus | 2.8 | 2.3 |
 | Nausea | 2.4 | 2.3 |
 
 ## 6.2 Pediatric patients 10 to 17 years of age
@@ -92,10 +89,10 @@ Four of 130 (3%) children treated with rosuvastatin (2 treated with 10 mg and 2 
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of CRESTOR: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, depression, sleep disorders (including insomnia and nightmares) and gynecomastia.
+The following adverse reactions have been identified during postapproval use of CRESTOR: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, thrombocytopenia, depression, sleep disorders (including insomnia and nightmares) and gynecomastia.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [seeWarnings and Precautions (5.1)].
 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 These cognitive issues have been reported for all statins.

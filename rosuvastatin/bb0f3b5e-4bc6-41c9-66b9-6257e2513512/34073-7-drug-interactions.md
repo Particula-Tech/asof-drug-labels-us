@@ -2,7 +2,7 @@
 
 ## 7.1 Cyclosporine
 
-Cyclosporine increased rosuvastatin exposure (AUC) 7-fold.
+Cyclosporine increased rosuvastatin exposure (AUC) 7‑fold.
 Therefore, in patients taking cyclosporine, the dose of CRESTOR should not exceed 5 mg once daily [see Dosage and Administration (2.5), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 7.2 Gemfibrozil
@@ -17,7 +17,7 @@ Coadministration of rosuvastatin with certain protease inhibitors given in combi
 The protease inhibitor combinations lopinavir/ritonavir and atazanavir/ritonavir increase rosuvastatin exposure (AUC) up to threefold [see Table 4 – Clinical Pharmacology (12.3)].
 For these combinations the dose of CRESTOR should not exceed 10 mg once daily.
 The combinations of tipranavir/ritonavir or fosamprenavir/ritonavir produce little or no change in rosuvastatin exposure.
-Caution should be exercised when rosuvastatin is coadministered with protease inhibitors given in combination with ritonavir [see Dosage and Administration (2.5), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Caution should be exercised when rosuvastatin is coadministered with protease inhibitors given in combination with ritonavir [see Dosage and Administration (2.5),Warnings and Precautions (5.1) andClinical Pharmacology (12.3)].
 
 ## 7.4 Coumarin Anticoagulants
 
@@ -32,4 +32,8 @@ The risk of skeletal muscle effects may be enhanced when CRESTOR is used in comb
 ## 7.6 Fenofibrate
 
 When CRESTOR was coadministered with fenofibrate, no clinically significant increase in the AUC of rosuvastatin or fenofibrate was observed.
-Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concomitant use of fenofibrates, caution should be used when prescribing fenofibrates with CRESTOR [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concomitant use of fenofibrates, caution should be used when prescribing fenofibrates with CRESTOR [see Warnings and Precautions (5.1) andClinical Pharmacology (12.3)].
+
+## 7.7 Colchicine
+
+Cases of myopathy, including rhabdomyolysis, have been reported with HMG‑CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing CRESTOR with colchicine [see Warnings and Precautions (5.1)].

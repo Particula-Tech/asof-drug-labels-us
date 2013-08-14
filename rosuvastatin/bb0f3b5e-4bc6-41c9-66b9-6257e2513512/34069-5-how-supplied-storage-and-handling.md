@@ -23,5 +23,5 @@ CRESTOR® (rosuvastatin calcium) Tablets are supplied as:
 
 Storage
 
-Store at controlled room temperature, 20-25ºC (68-77ºF) [see USP Controlled Room Temperature].
+Store at controlled room temperature, 20‑25ºC (68-77ºF) [see USP Controlled Room Temperature].
 Protect from moisture.
