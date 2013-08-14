@@ -48,26 +48,12 @@ JALYN and AVODART are trademarks of GlaxoSmithKline.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
-Jointly Manufactured by
-
-Catalent Pharma Solutions
-
-F-67930 Beinheim, France
-
-D-73614 Schorndorf, Germany
-
-and
-
-Rottendorf Pharma GmbH
-
-D-59320 Ennigerloh, Germany
-
-Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
+Manufactured for: GlaxoSmithKline Research Triangle Park, NC 27709
 
 ©2013, GlaxoSmithKline.
 All rights reserved.
 
-JLN:7PI
+JLN:8PI
 
 PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
