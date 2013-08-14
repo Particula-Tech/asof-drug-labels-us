@@ -9,9 +9,3 @@ Tessalon® (benzonatate, USP) perles
 100 mg
 
 100 Perles Rx only
-
-# PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
-
-Image not
-
-available
