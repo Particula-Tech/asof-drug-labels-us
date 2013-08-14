@@ -67,7 +67,7 @@ Before taking KEPPRA XR, tell your healthcare provider about all of your medical
   The purpose of these registries is to collect information about the safety of KEPPRA XR and other antiepileptic medicine during pregnancy.
 - are breast feeding.
   KEPPRA XR can pass into your milk and may harm your baby.
-  You and your healthcare provider should discuss whether you should take KEPPRA XR or breast feed; you should not do both.
+  You and your healthcare provider should discuss whether you should take KEPPRA XR or breast-feed; you should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Do not start a new medicine without first talking with your healthcare provider.
@@ -110,15 +110,18 @@ Call your healthcare provider right away if you have any of these symptoms:
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - extreme sleepiness, tiredness, and weakness
 - problems with muscle coordination (problems walking and moving)
+- a skin rash.
+  Serious skin rashes can happen after you start taking KEPPRA XR.
+  There is no way to tell if a mild rash will become a serious reaction.
 
 Common side effects seen in people who take KEPPRA XR and other formulations of KEPPRA include:
 
 - sleepiness
 - weakness
-- dizziness
 - infection
+- dizziness
 
-These side effects can happen at any time but happen more often within the first 4 weeks of treatment.
+These side effects can happen at any time but happen more often within the first 4 weeks of treatment except for infection.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -160,8 +163,8 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Distributed by UCB, Inc. Smyrna, GA 30080
 
-KEPPRA XR is a registered trademark of the UCB Group of companies © 2010, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+KEPPRA XR is a registered trademark of the UCB Group of companies © 2013, UCB, Inc., Smyrna, GA 30080 All rights reserved.
 Printed in the U.S.A.
 
 Rev.
-2E 02/2010
+07/2013

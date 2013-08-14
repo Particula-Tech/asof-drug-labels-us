@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown.
 The antiepileptic activity of levetiracetam was assessed in a number of animal models of epileptic seizures.
@@ -19,6 +19,15 @@ A saturable and stereoselective neuronal binding site in rat brain tissue has be
 Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis.
 Although the molecular significance of levetiracetam binding to synaptic vesicle protein SV2A is not understood, levetiracetam and related analogs showed a rank order of affinity for SV2A which correlated with the potency of their antiseizure activity in audiogenic seizure-prone mice.
 These findings suggest that the interaction of levetiracetam with the SV2A protein may contribute to the antiepileptic mechanism of action of the drug.
+
+## 12.2 Pharmacodynamics
+
+Effects on QTc Interval
+
+The effects of KEPPRA XR on QTc prolongation is expected to be the same as that of immediate-release KEPPRA.
+The effect of immediate-release KEPPRA on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of KEPPRA (1000 mg or 5000 mg) in 52 healthy subjects.
+The upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 milliseconds.
+Therefore, there was no evidence of significant QTc prolongation in this study.
 
 ## 12.3 Pharmacokinetics
 
@@ -69,20 +78,9 @@ The metabolite ucb L057 is excreted by glomerular filtration and active tubular 
 Levetiracetam elimination is correlated to creatinine clearance.
 Levetiracetam clearance is reduced in patients with impaired renal function [see Use in Specific Populations (8.6) and Dosage and Administration (2.1)].
 
-### Pharmacokinetic Interactions
+Special Populations
 
-In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
-In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
-The pharmacokinetics of immediate-release levetiracetam are linear over the dose range of 500-5000 mg.
-Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
-
-Potential pharmacokinetic interactions of or with immediate-release levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients [see Drug Interactions (7)].
-The potential for drug interactions for extended-release levetiracetam is expected to be similar to that with immediate-release levetiracetam.
-
-### Special Populations
-
-#### Elderly
+Elderly
 
 There are insufficient pharmacokinetic data to specifically address the use of extended-release levetiracetam in the elderly population.
 
@@ -90,24 +88,29 @@ Pharmacokinetics of immediate-release levetiracetam were evaluated in 16 elderly
 Following oral administration of twice-daily dosing for 10 days, total body clearance decreased by 38% and the half-life was 2.5 hours longer in the elderly compared to healthy adults.
 This is most likely due to the decrease in renal function in these subjects.
 
-#### Pediatric Patients
+Pediatric Patients
 
 Safety and effectiveness of KEPPRA XR in patients below the age of 16 years have not been established.
 
-#### Gender
+Pregnancy
+
+KEPPRA XR levels may decrease during pregnancy.
+
+Gender
 
 Extended-release levetiracetam Cmax was 21-30% higher and AUC was 8-18% higher in women (N=12) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 
-#### Race
+Race
 
 Formal pharmacokinetic studies of the effects of race have not been conducted with extended-release or immediate-release levetiracetam.
 Cross study comparisons involving Caucasians (N=12) and Asians (N=12), however, show that pharmacokinetics of immediate-release levetiracetam were comparable between the two races.
+Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
 
-#### Renal Impairment
+Renal Impairment
 
-The effect of KEPPRA XR on renally impaired patients was not assessed in the well-controlled study.
-However, it is expected that the effect on KEPPRA XR-treated patients would be similar to that seen in well-controlled studies of immediate-release KEPPRA tablets.
+The effect of KEPPRA XR on renally impaired patients was not assessed in the controlled study.
+However, it is expected that the effect on KEPPRA XR-treated patients would be similar to that seen in controlled studies of immediate-release KEPPRA tablets.
 In patients with end stage renal disease on dialysis, it is recommended that immediate-release KEPPRA be used instead of KEPPRA XR.
 
 The disposition of immediate-release levetiracetam was studied in adult subjects with varying degrees of renal function.
@@ -115,12 +118,60 @@ Total body clearance of levetiracetam is reduced in patients with impaired renal
 Clearance of levetiracetam is correlated with creatinine clearance.
 
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80mL/min).
-Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4 hour hemodialysis procedure.
+Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4- hour hemodialysis procedure.
 
 Dosage should be reduced in patients with impaired renal function receiving levetiracetam; immediate-release levetiracetam should be given to patients on dialysis [see Dosage and Administration (2.1)].
 
-#### Hepatic Impairment
+Hepatic Impairment
 
 In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairment, the pharmacokinetics of levetiracetam were unchanged.
 In patients with severe hepatic impairment (Child-Pugh C), total body clearance was 50% that of normal subjects, but decreased renal clearance accounted for most of the decrease.
 No dose adjustment is needed for patients with hepatic impairment.
+
+Drug Interactions:
+
+In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
+In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
+
+Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening with immediate-release KEPPRA tablets in the placebo-controlled clinical studies in epilepsy patients.
+The potential for drug interactions for KEPPRA XR is expected to be essentially the same as that with immediate-release KEPPRA tablets.
+
+Phenytoin
+
+Immediate-release KEPPRA tablets (3000 mg daily) had no effect on the pharmacokinetic disposition of phenytoin in patients with refractory epilepsy.
+Pharmacokinetics of levetiracetam were also not affected by phenytoin.
+
+Valproate
+
+Immediate-release KEPPRA tablets (1500 mg twice daily) did not alter the pharmacokinetics of valproate in healthy volunteers.
+Valproate 500 mg twice daily did not modify the rate or extent of levetiracetam absorption or its plasma clearance or urinary excretion.
+There also was no effect on exposure to and the excretion of the primary metabolite, ucb L057.
+
+Other Antiepileptic Drugs
+
+Potential drug interactions between immediate-release KEPPRA tablets and other AEDs (carbamazepine, gabapentin, lamotrigine, phenobarbital, phenytoin, primidone and valproate) were also assessed by evaluating the serum concentrations of levetiracetam and these AEDs during placebo-controlled clinical studies.
+These data indicate that levetiracetam does not influence the plasma concentration of other AEDs and that these AEDs do not influence the pharmacokinetics of levetiracetam.
+
+Oral Contraceptives
+
+Immediate-release KEPPRA tablets (500 mg twice daily) did not influence the pharmacokinetics of an oral contraceptive containing 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel, or of the luteinizing hormone and progesterone levels, indicating that impairment of contraceptive efficacy is unlikely.
+Coadministration of this oral contraceptive did not influence the pharmacokinetics of levetiracetam.
+
+Digoxin
+
+Immediate-release KEPPRA tablets (1000 mg twice daily) did not influence the pharmacokinetics and pharmacodynamics (ECG) of digoxin given as a 0.25 mg dose every day.
+Coadministration of digoxin did not influence the pharmacokinetics of levetiracetam.
+
+Warfarin
+
+Immediate-release KEPPRA tablets (1000 mg twice daily) did not influence the pharmacokinetics of R and S warfarin.
+Prothrombin time was not affected by levetiracetam.
+Coadministration of warfarin did not affect the pharmacokinetics of levetiracetam.
+
+Probenecid
+
+Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
+Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
+The effect of immediate-release KEPPRA tablets on probenecid was not studied.
