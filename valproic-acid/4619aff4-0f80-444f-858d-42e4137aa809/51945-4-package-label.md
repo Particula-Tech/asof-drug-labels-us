@@ -8,7 +8,9 @@ DIVALPROEX SODIUM COATED PARTICLES IN CAPSULES
 
 125 mg Valproic Acid Activity
 
-Rx only Abbott
+Dispense the accompanying Medication Guide to each patient.
+
+Rx only abbvie
 
 NDC 0074–6114–11
 
