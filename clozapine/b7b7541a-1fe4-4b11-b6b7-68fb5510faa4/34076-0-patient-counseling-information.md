@@ -27,12 +27,9 @@ Discuss the following issues with patients and caregivers:
 - •Missed Doses and Re-initiating Treatment: Inform patients and caregivers that if the patient misses taking FAZACLO for more than 2 days, they should not restart their medication at the same dosage but should contact their physician for dosing instructions [see Dosage and Administration (2.6) and Warnings and Precautions (5.3)].
 - •QT Interval Prolongation: Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of arrhythmia.
   Instruct patients to not take FAZACLO with other drugs that cause QT interval prolongation.Instruct patients to inform their clinicians that they are taking FAZACLO before any new drug [see Warnings and Precautions (5.8)and Drug Interactions (7.1)].
-- •Concomitant Medication: Advise patients and caregivers to notify the physician if they are taking or plan to take any prescription or over-the-counter drugs or alcohol.
-  [seeDrug Interactions (7)].
-- •Pregnancy: Patients and caregivers should notify the physician if the patient becomes pregnant or intends to become pregnant during therapy.
-  [seeUse in Specific Populations (8.1)].
-- •Nursing: Advise patients and caregivers that the patient should not breast feed an infant if they are taking FAZACLO.
-  [seeUse in Specific Populations (8.3)].
+- •Concomitant Medication: Advise patients and caregivers to notify the physician if they are taking or plan to take any prescription or over-the-counter drugs or alcohol [see Drug Interactions (7)].
+- •Pregnancy: Patients and caregivers should notify the physician if the patient becomes pregnant or intends to become pregnant during therapy [see Use in Specific Populations (8.1)].
+- •Nursing: Advise patients and caregivers that the patient should not breast feed an infant if they are taking FAZACLO [see Use in Specific Populations (8.3)].
 - •Administration: Patients should be advised that FAZACLO tablets should remain in the original package until immediately before use [see Dosage and Administration (2.2)].
 
 Distributed by:

@@ -9,7 +9,7 @@ FAZACLO tablets may be chewed.
 Each orally disintegrating tablet contains clozapine equivalent to 12.5 mg, 25 mg, 100 mg, 150 mg, and 200 mg.
 
 The active component of FAZACLO is clozapine.
-The remaining components are aminoalkyl methacrylate copolymer E, mannitol, aspartame, microcrystalline cellulose*, silicified microcrystalline cellulose**, crospovidone, natural and artificial mint flavor, sodium bicarbonate, citric acid, ferric oxide (yellow), and magnesium stearate
+The remaining components are aminoalkyl methacrylate copolymer E, mannitol, aspartame, microcrystalline cellulose*, silicified microcrystalline cellulose**, crospovidone, natural and artificial mint flavor, sodium bicarbonate, citric acid, ferric oxide (yellow), and magnesium stearate.
 
 *12.5, 25, and 100 mg tablets
 

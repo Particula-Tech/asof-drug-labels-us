@@ -29,7 +29,7 @@ Strong CYP3A4 inducers include carbamazepine, phenytoin, St. John’s wort, and 
 It may be necessary to increase the FAZACLO dose if used concomitantly with inducers of these enzymes.
 However, concomitant use of FAZACLO and strong CYP3A4 inducers is not recommended [see Dosage and Administration (2.7)].
 
-Consider reducing the FAZACLO dosage when discontinuing coadministered enzyme inducers; because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.7)].
+Consider reducing the FAZACLO dosage when discontinuing coadministered enzyme inducers, because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.7)].
 
 Drugs that Cause QT Interval Prolongation
 

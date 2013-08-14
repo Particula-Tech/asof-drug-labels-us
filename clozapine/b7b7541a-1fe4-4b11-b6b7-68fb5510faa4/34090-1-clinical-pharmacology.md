@@ -24,7 +24,7 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 Absorption
 
 In man, clozapine tablets (25 and 100 mg) are equally bioavailable relative to a clozapine solution.
-FAZACLO Oral Suspension is bioequivalent to clozapine marketed tablets.
+FAZACLO oraly disintegrating tablets are bioequivalent to clozapine marketed tablets.
 
 Following oral administration of 100 mg to 800 mg FAZACLO, once daily, the average steady-state peak plasma concentration was 275 ng/mL (range: 105 to 723 ng/mL), occurring at the average of 2.2 hours (range: 1 to 3.5 hours) after dosing.
 The average minimum concentration at steady state was 75 ng/mL (range: 11 to 198 ng/mL).

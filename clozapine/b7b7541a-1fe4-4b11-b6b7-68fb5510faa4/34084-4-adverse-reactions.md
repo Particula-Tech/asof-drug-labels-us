@@ -61,10 +61,10 @@ The rates are not adjusted for duration of exposure.
 Table 10.
 Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine in the InterSePT™ Study (≥ 10% in the clozapine or olanzapine group)
 
-| Adverse Reactions | % Reporting | % Reporting |
-| --- | --- | --- |
 |  | Clozapine | Olanzapine |
-|  | N = 479 | N = 477 |
+| --- | --- | --- |
+| Adverse Reactions | N = 479 | N = 477 |
+|  | % Reporting | % Reporting |
 | Salivary hypersecretion | 48% | 6% |
 | Somnolence | 46% | 25% |
 | Weight increased | 31% | 56% |
