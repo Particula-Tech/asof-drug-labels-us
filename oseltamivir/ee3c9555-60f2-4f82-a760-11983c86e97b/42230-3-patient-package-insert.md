@@ -62,6 +62,7 @@ How should I take TAMIFLU?
   Do not take 2 doses at the same time.
 - If TAMIFLU for oral suspension is not available or you cannot swallow TAMIFLU capsules, your healthcare provider may instruct you to open TAMIFLU capsules and mix the capsules contents with sweetened liquids such as chocolate syrup (regular or sugar-free), corn syrup, caramel topping, or light brown sugar (dissolved in water).
 - If your healthcare provider has instructed you to take TAMIFLU oral suspension or open your TAMIFLU capsules, read the detailed Instructions for Use at the end of this leaflet.
+  Ask your pharmacist if you have any questions.
 
 What are the possible side effects of TAMIFLU?
 
@@ -133,10 +134,7 @@ Instructions For Use TAMIFLU® (TAM-ih-flew) (oseltamivir phosphate) capsules, f
 
 TAMIFLU® (TAM-ih-flew) (oseltamivir phosphate) for oral suspension
 
-How do I prepare a dose of TAMIFLU for oral suspension using the oral dispenser?
-
-| Figure A. Oral Suspension | Figure B. Oral Dispenser |
-| --- | --- |
+How do I prepare a dose of TAMIFLU for oral suspension?
 
 Step 1.
 Shake the TAMIFLU for oral suspension bottle well before each use.
@@ -145,31 +143,17 @@ Step 2.
 Open the bottle by pushing downward on the child resistant bottle cap and twisting it in the direction of the arrow.
 
 Step 3.
-Fully push down the plunger of the oral dispenser toward the tip before inserting into the bottle.
-Insert the tip of the oral dispenser into the opening of the bottle adapter.
+Measure the oral suspension with an appropriate oral dosing dispenser to be sure you get the correct dose.
+Contact your pharmacist if you do not have an appropriate oral dosing dispenser.
 
 Step 4.
-Turn the entire unit (bottle and oral dispenser) upside down.
+Dispense full contents of oral dosing dispenser directly into the mouth.
 
 Step 5.
-Gently pull back on the plunger of the oral dispenser until the bottom of the plunger is even with the line for the dose prescribed by your healthcare provider.
-(See Figure C).
-
-Figure C. Removing Oral Suspension
-
-Step 6.
-Turn the entire unit right-side up and remove the oral dispenser slowly from the bottle by pulling straight up on the oral dispenser.
-Do not pull on plunger.
-
-Step 7.
-Place the tip of the oral dispenser in the mouth.
-Press on the plunger to give the full contents of the oral dispenser into the mouth.
-
-Step 8.
 Close the bottle with the child-resistant bottle cap after each use.
 
-Step 9.
-Remove the plunger from the barrel, rinse both under running tap water and allow to air dry after each use.
+Step 6.
+Rinse oral dosing dispenser under running tap water and allow to air dry after each use.
 
 How do I mix the contents of TAMIFLU capsules with sweetened liquids, if directed by my healthcare provider?
 

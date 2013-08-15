@@ -23,7 +23,7 @@ TAMIFLU for Oral Suspension
 Supplied as a white powder blend in a glass bottle.
 After constitution, the powder blend produces a white tutti-frutti–flavored oral suspension.
 After constitution with 55 mL of water, each bottle delivers a usable volume of 60 mL of oral suspension equivalent to 360 mg oseltamivir base (6 mg/mL).
-Each bottle is supplied with a bottle adapter and a 10 mL oral dispenser (NDC 0004-0820-09).
+(NDC 0004-0822-05).
 
 Storage
 

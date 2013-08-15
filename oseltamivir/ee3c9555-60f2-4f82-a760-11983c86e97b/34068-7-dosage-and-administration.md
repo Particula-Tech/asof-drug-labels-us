@@ -45,15 +45,15 @@ The safety and efficacy of TAMIFLU for prophylaxis of influenza have not been es
 
 Table 1 Treatment (twice daily dosing for 5 days) and Prophylaxis (once daily dosing for 10 days) Dosing of Oral TAMIFLU for Influenza in Pediatric Patients
 
-| Weight (kg) |  | Treatment Dosing for 5 days | Prophylaxis Dosing for 10 days | Volume of Oral Suspension (6 mg/mL) for each DoseA 10 mL oral dosing dispenser is provided with the oral suspension. In the event that the dispenser provided is lost or damaged, another dosing dispenser may be used to deliver the volumes. | Number of Bottles of Oral Suspension to Dispense | Number of Capsules and Strength to DispenseOral Suspension is the preferred formulation for patients who cannot swallow capsules. |
+| Weight (kg) |  | Treatment Dosing for 5 days | Prophylaxis Dosing for 10 days | Volume of Oral Suspension (6 mg/mL) for each DoseAn oral dosing dispensing device that measures the appropriate volume in mL should be utilized with the oral suspension. | Number of Bottles of Oral Suspension to Dispense | Number of Capsules and Strength to DispenseOral Suspension is the preferred formulation for patients who cannot swallow capsules. |
 | --- | --- | --- | --- | --- | --- | --- |
 | Patients from 2 Weeks to less than 1 Year of Age |  |  |  |  |  |  |
-| Any weight |  | 3 mg/kg twice daily | Not applicableTAMIFLU is not approved for prophylaxis of patients less than 1 year of age | 0.5 mL/kgFor patients less than 1 year of age, remove the provided 10 mL oral dosing dispenser from the packaging, and provide an appropriate dosing device that can accurately measure and administer small volumes. | 1 bottle | Not applicable |
+| Any weight |  | 3 mg/kg twice daily | Not applicableTAMIFLU is not approved for prophylaxis of patients less than 1 year of age | 0.5 mL/kgFor patients less than 1 year of age, provide an appropriate dosing device that can accurately measure and administer small volumes. | 1 bottle | Not applicable |
 | Patients 1 to 12 Years of Age Based on Body Weight |  |  |  |  |  |  |
 | 15 kg or less |  | 30 mg twice daily | 30 mg once daily | 5 mL | 1 bottle | 10 Capsules 30 mg |
 | 15.1 kg thru 23 kg |  | 45 mg twice daily | 45 mg once daily | 7.5 mL | 2 bottles | 10 Capsules 45 mg |
 | 23.1 kg thru 40 kg |  | 60 mg twice daily | 60 mg once daily | 10 mL | 2 bottles | 20 Capsules 30 mg |
-| 40.1 kg or more |  | 75 mg twice daily | 75 mg once daily | 12.5 mLDelivery of this TAMIFLU for Oral Suspension dose requires administering 10 mL followed by another 2.5 mL. | 3 bottles | 10 Capsules 75 mg |
+| 40.1 kg or more |  | 75 mg twice daily | 75 mg once daily | 12.5 mL | 3 bottles | 10 Capsules 75 mg |
 
 ## 2.4 Renal Impairment
 
@@ -85,15 +85,15 @@ It is recommended that TAMIFLU for oral suspension be constituted by the pharmac
 
 - a)Tap the closed bottle several times to loosen the powder.
 - b)Measure 55 mL of water in a graduated cylinder.
-- c)Add the total amount of water for constitution to the bottle and shake the closed bottle well for 15 seconds.
-- d)Remove the child-resistant cap and push bottle adapter into the neck of the bottle.
-- e)Close bottle with child-resistant cap tightly.
-  This will assure the proper seating of the bottle adapter in the bottle and child-resistant status of the cap.
+- c)Add the total amount of water for constitution to the bottle.
+- d)Close bottle with child-resistant cap tightly and shake the closed bottle well for 15 seconds.
 
 Label the bottle with instructions to Shake Well before each use.
 
 The constituted TAMIFLU for oral suspension (6 mg/mL) should be used within 17 days of preparation when stored under refrigeration or within 10 days if stored at controlled room temperature; the pharmacist should write the date of expiration of the constituted suspension on a pharmacy label.
-The patient package insert and oral dispenser should be dispensed to the patient.
+The patient package insert should be dispensed to the patient.
+Pharmacists should ensure patients have an oral dosing dispenser that measures the appropriate volume in milliliters.
+Pharmacists should counsel patients on how to utilize an oral dosing dispenser and correctly measure the oral suspension as prescribed (see Table 1).
 
 ## 2.8 Emergency Compounding of an Oral Suspension from 75 mg TAMIFLU Capsules (Final Concentration 6 mg/mL)
 

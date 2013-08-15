@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton
+PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - NDC 0004-0820-09
 
 NDC 0004-0820-09
 
@@ -63,3 +63,21 @@ Rx only
 10 Capsules
 
 Genentech
+
+PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - NDC 0004-0822-05
+
+NDC 0004-0822-05
+
+Tamiflu® (oseltamivir phosphate) for Oral Suspension
+
+6 mg/mL
+
+Each mL contains 6 mg oseltamivir base after constitution.
+
+60 mL (usable volume after constitution)
+
+Rx only
+
+Genentech
+
+10138470
