@@ -29,22 +29,12 @@ This contrasts with the effect of nonselective (beta1 plus beta2) beta-blockers,
 Metoprolol has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at doses much greater than required for beta-blockade.
 Animal and human experiments indicate that metoprolol slows the sinus rate and decreases AV nodal conduction.
 
-Significant beta-blocking effect (as measured by reduction of exercise heart rate) occurs within 1 hour after oral administration, and its duration is dose related.
-For example, a 50% reduction of the maximum effect after single oral doses of 20, 50, and 100 mg occurred at 3.3, 5.0, and 6.4 hours, respectively, in normal subjects.
-After repeated oral dosages of 100 mg twice daily, a significant reduction in exercise systolic blood pressure was evident at 12 hours.
 When the drug was infused over a 10-minute period, in normal volunteers, maximum beta-blockade was achieved at approximately 20 minutes.
 Equivalent maximal beta-blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2.5:1.
-
 There is a linear relationship between the log of plasma levels and reduction of exercise heart rate.
-However, antihypertensive activity does not appear to be related to plasma levels.
-Because of variable plasma levels attained with a given dose and lack of a consistent relationship of antihypertensive activity to dose, selection of proper dosage requires individual titration.
 
 In several studies of patients with acute myocardial infarction, intravenous followed by oral administration of metoprolol caused a reduction in heart rate, systolic blood pressure, and cardiac output.
 Stroke volume, diastolic blood pressure, and pulmonary artery end diastolic pressure remained unchanged.
-
-In patients with angina pectoris, plasma concentration measured at 1 hour is linearly related to the oral dose within the range of 50 to 400 mg.
-Exercise heart rate and systolic blood pressure are reduced in relation to the logarithm of the oral dose of metoprolol.
-The increase in exercise capacity and the reduction in left ventricular ischemia are also significantly related to the logarithm of the oral dose.
 
 ## Pharmacokinetics
 
@@ -57,15 +47,15 @@ Metoprolol is also known to cross the blood brain barrier following oral adminis
 Metoprolol is not a significant P-glycoprotein substrate.
 
 Metabolism: Metoprolol is primarily metabolized by CYP2D6.
-Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereoselective metabolism that is dependent on oxidation phenotype.
+Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereo selective metabolism that is dependent on oxidation phenotype.
 CYP2D6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations.
 Poor CYP2D6 metabolizers exhibit severalfold higher plasma concentrations of metoprolol than extensive metabolizers with normal CYP2D6 activity thereby decreasing metoprolol's cardioselectivity.
 
 Elimination: Elimination of metoprolol is mainly by biotransformation in the liver.
 The mean elimination half-life of metoprolol is 3 to 4 hours; in poor CYP2D6 metabolizers the half-life may be 7 to 9 hours.
 Approximately 95% of the dose can be recovered in urine.
-In most subjects (extensive metabolizers), less than 5% of an oral dose and less than 10% of an intravenous dose are excreted as unchanged drug in the urine.
-In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta blocking activity.
+In most subjects (extensive metabolizers), less than 10% of an intravenous dose are excreted as unchanged drug in the urine.
+In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta-blocking activity.
 The renal clearance of the stereo-isomers does not exhibit stereo-selectivity in renal excretion.
 
 ### Special populations
@@ -74,6 +64,7 @@ Geriatric patients: The geriatric population may show slightly higher plasma con
 However, this increase is not clinically significant or therapeutically relevant.
 
 Renal impairment: The systemic availability and half-life of metoprolol in patients with renal failure do not differ to a clinically significant degree from those in normal subjects.
+Consequently, no reduction in dosage is usually needed in patients with chronic renal failure.
 
 Hepatic Impairment: Since the drug is primarily eliminated by hepatic metabolism, hepatic impairment may impact the pharmacokinetics of metoprolol.
 The elimination half-life of metoprolol is considerably prolonged, depending on severity (up to 7.2 h).
@@ -82,13 +73,13 @@ The elimination half-life of metoprolol is considerably prolonged, depending on 
 
 ### Hypertension
 
-In controlled clinical studies, metoprolol has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100 to 450 mg daily.
+In controlled clinical studies, metoprolol has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at oral dosages of 100 to 450 mg daily.
 In controlled, comparative, clinical studies, metoprolol has been shown to be as effective an antihypertensive agent as propranolol, methyldopa, and thiazide-type diuretics, to be equally effective in supine and standing positions.
 
 ### Angina Pectoris
 
-In controlled clinical trials, metoprolol, administered two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
-The dosage used in these studies ranged from 100 to 400 mg daily.
+In controlled clinical trials, metoprolol, administered orally two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
+The oral dosage used in these studies ranged from 100 to 400 mg daily.
 A controlled, comparative, clinical trial showed that metoprolol was indistinguishable from propranolol in the treatment of angina pectoris.
 
 ### Myocardial Infarction

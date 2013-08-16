@@ -4,7 +4,7 @@ Metoprolol Tartrate Injection, USP is supplied as follows:
 
 |  | Metoprolol Tartrate Injection, USP |  |
 | --- | --- | --- |
-| NDC | (1 mg per 1 mL) | Package Factor |
+| NDC | (1 mg per mL) | Package Factor |
 | 25021-303-05 | 5 mg per 5 mL Single-Dose Vial | 10 vials per carton |
 
 ## Storage Conditions
@@ -17,14 +17,13 @@ Retain in carton until time of use.
 
 Do not freeze.
 
-LATEX-FREE
-
 Sterile, Nonpyrogenic, Preservative-free.
+The container closure is not made with natural rubber latex.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 SAGENT™
 
 Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2013 Sagent Pharmaceuticals, Inc.
 
-Revised: January 2013
+Revised: April 2013

@@ -2,6 +2,7 @@
 
 ## Hypertension and Angina
 
+These adverse reactions were reported for treatment with oral metoprolol.
 Most adverse effects have been mild and transient.
 
 Central Nervous System: Tiredness and dizziness have occurred in about 10 of 100 patients.
@@ -36,6 +37,8 @@ There have been very rare reports of weight gain, arthritis, and retroperitoneal
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with metoprolol.
 
 ## Myocardial Infarction
+
+These adverse reactions were reported from treatment regimens where intravenous metoprolol was administered, when tolerated.
 
 Central Nervous System: Tiredness has been reported in about 1 of 100 patients.
 Vertigo, sleep disturbances, hallucinations, headache, dizziness, visual disturbances, confusion, and reduced libido have also been reported, but a drug relationship is not clear.
@@ -72,5 +75,5 @@ Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospa
 
 ## Postmarketing Experience
 
-The following adverse reactions have been reported during postapproval use of metoprolol tartrate: confusional state, an increase in blood triglycerides and decrease in High Density Lipoprotein (HDL).
+The following adverse reactions have been reported during postapproval use of metoprolol tartrate: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.

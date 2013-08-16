@@ -1,76 +1,74 @@
 # WARNINGS
 
-## Hypertension and Angina
+## Heart Failure
 
-Cardiac Failure: Sympathetic stimulation is a vital component supporting circulatory function in congestive heart failure, and beta-blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
+Beta-blockers, like metoprolol, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
+If signs or symptoms of heart failure develop, treat the patient according to recommended guidelines.
+It may be necessary to lower the dose of metoprolol or to discontinue it.
 
-In Patients Without a History of Cardiac Failure: Continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
-At the first sign or symptom of impending cardiac failure, fully digitalize patients and/or give a diuretic.
-The response should be observed closely.
-If cardiac failure continues, despite adequate digitalization and diuretic therapy, withdraw metoprolol.
+## Ischemic Heart Disease
 
-Bronchospastic Diseases: PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS, including metoprolol.
-Because of its relative beta1 selectivity, however, metoprolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
-Since beta1 selectivity is not absolute, a beta2-stimulating agent should be administered concomitantly, and the lowest possible dose of metoprolol should be used.
-In these circumstances it would be prudent initially to administer metoprolol in smaller doses three times daily, instead of larger doses two times daily, to avoid the higher plasma levels associated with the longer dosing interval (see DOSAGE AND ADMINISTRATION).
+Do not abruptly discontinue metoprolol therapy in patients with coronary artery disease.
+Severe exacerbation of angina, myocardial infarction and ventricular arrhythmias have been reported in patients with coronary artery disease following the abrupt discontinuation of therapy with beta-blockers.
+When discontinuing chronically administered metoprolol, particularly in patients with coronary artery disease, the dosage should be gradually reduced over a period of 1 to 2 weeks and the patient should be carefully monitored.
+If angina markedly worsens or acute coronary insufficiency develops, metoprolol administration should be reinstated promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken.
+Patients should be warned against interruption or discontinuation of therapy without the physician's advice.
+Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue metoprolol therapy abruptly even in patients treated only for hypertension.
 
-Major Surgery: Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+## Use During Major Surgery
 
-Diabetes and Hypoglycemia: Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-Pheochromocytoma: If metoprolol is used in the setting of pheochromocytoma, it should be given in combination with an alpha-blocker, and only after the alpha-blocker has been initiated.
+## Bradycardia
+
+Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of metoprolol.
+Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders may be at increased risk.
+Monitor heart rate and rhythm in patients receiving metoprolol.
+If severe bradycardia develops, reduce or stop metoprolol.
+
+## Exacerbation of Bronchospastic Disease
+
+Patients with bronchospastic disease, should, in general, not receive beta-blockers, including metoprolol.
+Because of its relative beta1 selectivity, however, metoprolol may be used in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
+Because beta1 selectivity is not absolute use the lowest possible dose of metoprolol and consider administering metoprolol in smaller doses three times daily, instead of larger doses two times daily, to avoid the higher plasma levels associated with the longer dosing interval (see DOSAGE AND ADMINISTRATION).
+Bronchodilators, including beta2 agonists, should be readily available or administered concomitantly.
+
+## Diabetes and Hypoglycemia
+
+Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+
+## Pheochromocytoma
+
+If metoprolol is used in the setting of pheochromocytoma, it should be given in combination with an alpha-blocker, and only after the alpha-blocker has been initiated.
 Administration of beta-blockers alone in the setting of pheochromocytoma have been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
 
-Thyrotoxicosis: Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
+## Thyrotoxicosis
+
+Metoprolol may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Avoid abrupt withdrawal of beta-blockade, which might precipitate a thyroid storm.
-
-Myocardial Infarction
-
-Cardiac Failure: Sympathetic stimulation is a vital component supporting circulatory function, and beta-blockade carries the potential hazard of depressing myocardial contractility and precipitating or exacerbating minimal cardiac failure.
-
-During treatment with metoprolol, monitor the hemodynamic status of the patient.
-If heart failure occurs or persists despite appropriate treatment, discontinue metoprolol.
-
-Bradycardia: Metoprolol produces a decrease in sinus heart rate in most patients; this decrease is greatest among patients with high initial heart rates and least among patients with low initial heart rates.
-Acute myocardial infarction (particularly inferior infarction) may in itself produce significant lowering of the sinus rate.
-If the sinus rate decreases to < 40 beats/min, particularly if associated with evidence of lowered cardiac output, atropine (0.25 to 0.5 mg) should be administered intravenously.
-If treatment with atropine is not successful, discontinue metoprolol and consider cautious administration of isoproterenol or installation of a cardiac pacemaker.
-
-AV Block: Metoprolol slows AV conduction and may produce significant first- (P-R interval ≥ 0.26 sec), second-, or third-degree heart block.
-Acute myocardial infarction also produces heart block.
-
-If heart block occurs, discontinue metoprolol and administer atropine (0.25 to 0.5 mg) intravenously.
-If treatment with atropine is not successful, consider administration of isoproterenol or installation of a cardiac pacemaker.
-
-Hypotension: If hypotension (systolic blood pressure ≤ 90 mmHg) occurs, discontinue metoprolol, and assess the hemodynamic status of the patient and the extent of myocardial damage.
-Invasive monitoring of central venous, pulmonary capillary wedge, and arterial pressures may be required.
-Institute appropriate therapy with fluids, positive inotropic agents, balloon counterpulsation, or other treatment modalities.
-If hypotension is associated with sinus bradycardia or AV block, direct treatment at reversing these (see above).
 
 # PRECAUTIONS
 
-## General
+## Risk of Anaphylactic Reactions
 
-Start at a low dose and uptitrate slowly in patients with impaired hepatic function.
+While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
-## Information for Patients
+### Information for Patients
 
 Advise patients (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient's response to therapy with metoprolol has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking metoprolol.
 
-## Drug Interactions
+### Drug Interactions
 
 Catecholamine-depleting drugs: Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents or monoamine oxidase (MAO) inhibitors.
 Observe patients treated with metoprolol plus a catecholamine depletor for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.
 In addition, possibly significant hypertension may theoretically occur up to 14 days following discontinuation of the concomitant administration with an irreversible MAO inhibitor.
 
-Digitalis glycosides and beta blockers: Both digitalis glycosides and beta blockers slow atrioventricular conduction and decrease heart rate.
+Digitalis glycosides and beta-blockers: Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
 Concomitant use can increase the risk of bradycardia.
 Monitor heart rate and PR interval.
 
 Calcium channel blockers: Concomitant administration of a beta-adrenergic antagonist with a calcium channel blocker may produce an additive reduction in myocardial contractility because of negative chronotropic and inotropic effects.
-
-Risk of Anaphylactic Reaction: While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
-Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
 General Anesthetics: Some inhalation anesthetics may enhance the cardiodepressant effect of beta-blockers (see WARNINGS, Major Surgery).
 
@@ -90,7 +88,7 @@ Ergot alkaloid: Concomitant administration with beta-blockers may enhance the va
 
 Dipyridamole: In general, administration of a beta-blocker should be withheld before dipyridamole testing, with careful monitoring of heart rate following the dipyridamole injection.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+### Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals have been conducted to evaluate carcinogenic potential.
 In a 2-year study in rats at three oral dosage levels of up to 800 mg/kg per day, there was no increase in the development of spontaneously occurring benign or malignant neoplasms of any type.
@@ -108,7 +106,7 @@ The oral NOAELs for embryo-fetal development in mice, rats, and rabbits were con
 This corresponds to dose levels that are approximately 0.3, 4, and 0.5 times, respectively, when based on surface area, the maximum human oral dose (8 mg/kg/day) of metoprolol tartrate.
 Metoprolol tartrate has been associated with reversible adverse effects on spermatogenesis starting at oral dose levels of 3.5 mg/kg in rats (a dose that is only 0.1-times the human dose, when based on surface area), although other studies have shown no effect of metoprolol tartrate on reproductive performance in male rats.
 
-## Pregnancy Category C
+### Pregnancy Category C
 
 Upon confirming the diagnosis of pregnancy, women should immediately inform the doctor.
 
@@ -121,7 +119,7 @@ The amount of data on the use of metoprolol in pregnant women is limited.
 The risk to the fetus/mother is unknown.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## Nursing Mothers
+### Nursing Mothers
 
 Metoprolol is excreted in breast milk in a very small quantity.
 An infant consuming 1 liter of breast milk daily would receive a dose of less than 1 mg of the drug.
@@ -132,14 +130,11 @@ The effects of metoprolol on the fertility of human have not been studied.
 
 Metoprolol showed effects on spermatogenesis in male rats at a therapeutic dose level, but had no effect on rates of conception at higher doses in animal fertility studies (see Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
-## Pediatric Use
+### Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## Geriatric Use
-
-Clinical trials of metoprolol tartrate in hypertension did not include sufficient numbers of elderly patients to determine whether patients over 65 years of age differ from younger subjects in their response to metoprolol tartrate.
-Other reported clinical experience in elderly hypertensive patients has not identified any difference in response from younger patients.
+### Geriatric Use
 
 In worldwide clinical trials of metoprolol tartrate in myocardial infarction, where approximately 478 patients were over 65 years of age (0 over 75 years of age), no age-related differences in safety and effectiveness were found.
 Other reported clinical experience in myocardial infarction has not identified differences in response between the elderly and younger patients.

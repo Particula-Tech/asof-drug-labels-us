@@ -9,14 +9,10 @@ Begin treatment in this early phase with the intravenous administration of three
 During the intravenous administration of metoprolol, monitor blood pressure, heart rate, and electrocardiogram.
 
 In patients who tolerate the full intravenous dose (15 mg), initiate metoprolol tablets, 50 mg every 6 hours, 15 minutes after the last intravenous dose and continue for 48 hours.
-Thereafter, the maintenance dosage is 100 mg twice daily (see Late Treatment below).
+Thereafter, the maintenance dosage is 100 mg orally twice daily.
 
 Start patients who appear not to tolerate the full intravenous dose on metoprolol tablets either 25 mg or 50 mg every 6 hours (depending on the degree of intolerance) 15 minutes after the last intravenous dose or as soon as their clinical condition allows.
 In patients with severe intolerance, discontinue metoprolol (see WARNINGS).
-
-Late Treatment: Start patients with contraindications to treatment during the early phase of suspected or definite myocardial infarction, patients who appear not to tolerate the full early treatment, and patients in whom the physician wishes to delay therapy for any other reason on metoprolol tablets, 100 mg twice daily, as soon as their clinical condition allows.
-Continue therapy for at least 3 months.
-Although the efficacy of metoprolol beyond 3 months has not been conclusively established, data from studies with other beta-blockers suggest that treatment should be continued for 1 to 3 years.
 
 ## Special populations
 
