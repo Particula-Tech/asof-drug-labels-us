@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg 100 Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 5 mg 100 Tablet Bottle Label
 
 NDC 50458-805-01 100 tablets
 
@@ -8,7 +8,7 @@ DITROPAN XL® (oxybutynin chloride) Extended-release tablets
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 10 mg 100 Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 10 mg 100 Tablet Bottle Label
 
 NDC 50458-810-01 100 tablets
 
@@ -18,7 +18,7 @@ DITROPAN XL® (oxybutynin chloride) Extended-release tablets
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 15 mg 100 Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 15 mg 100 Tablet Bottle Label
 
 NDC 50458-815-01 100 tablets
 

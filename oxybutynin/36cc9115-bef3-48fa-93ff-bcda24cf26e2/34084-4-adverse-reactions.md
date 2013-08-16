@@ -1,49 +1,64 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Clinical Trials
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The safety and efficacy of DITROPAN XL® (oxybutynin chloride) were evaluated in a total of 580 participants who received DITROPAN XL® in 4 clinical trials (429 patients) and four pharmacokinetic studies (151 healthy volunteers).
-The 429 patients were treated with 5–30 mg/day for up to 4.5 months.
-Three of the 4 clinical trials allowed dose adjustments based on efficacy and adverse events and one was a fixed-dose escalation design.
-Safety information is provided for 429 patients from these three controlled clinical studies and one open-label study in the first column of Table 3 below.
+The safety and efficacy of DITROPAN XL (5 to 30 mg/day) was evaluated in 774 adult subjects who participated in five double-blind, controlled clinical trials.
+In four of the five studies, Ditropan IR (5 to 20 mg/day in 199 subjects) was an active comparator.
+Adverse reactions reported by ≥ 1% of subjects are shown in Table 1.
 
-Adverse reactions from two additional fixed-dose, active-controlled, 12-week treatment duration, postmarketing studies, in which 576 patients were treated with DITROPAN XL® 10 mg/day, are also listed in Table 3 (second column).
+Table 1: Adverse Drug Reactions Reported by ≥ 1% of DITROPAN XL-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of DITROPAN XL
 
-Table 3 Incidence (%) of Adverse Reactions Reported by ≥ 5% of Patients Using DITROPAN XL® (5–30 mg/day) and % of Corresponding Adverse Reactions in Two Fixed-Dose (10 mg/day) Studies
+| System/Organ Class Preferred Term | DITROPAN XL 5 to 30 mg/day n = 774 % | Ditropan IRIR = immediate release 5 to 20 mg/day n = 199 % |
+| --- | --- | --- |
+| Psychiatric Disorders |  |  |
+| Insomnia | 3.0 | 5.5 |
+| Nervous System Disorders |  |  |
+| Headache | 7.5 | 8.0 |
+| Somnolence | 5.6 | 14.1 |
+| Dizziness | 5.0 | 16.6 |
+| Dysgeusia | 1.6 | 1.5 |
+| Eye Disorders |  |  |
+| Vision blurred | 4.3 | 9.6 |
+| Dry eye | 3.1 | 2.5 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Cough | 1.9 | 3.0 |
+| Oropharyngeal pain | 1.9 | 1.5 |
+| Dry throat | 1.7 | 2.5 |
+| Nasal dryness | 1.7 | 4.5 |
+| Gastrointestinal Disorders |  |  |
+| Dry mouth | 34.9 | 72.4 |
+| Constipation | 8.7 | 15.1 |
+| Diarrhea | 7.9 | 6.5 |
+| Dyspepsia | 4.5 | 6.0 |
+| Nausea | 4.5 | 11.6 |
+| Abdominal pain | 1.6 | 2.0 |
+| Vomiting | 1.3 | 1.5 |
+| Flatulence | 1.2 | 2.5 |
+| Gastro-esophageal reflux disease | 1.0 | 0.5 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Dry skin | 1.8 | 2.5 |
+| Pruritus | 1.3 | 1.5 |
+| Renal and Urinary Disorders |  |  |
+| Dysuria | 1.9 | 2.0 |
+| Urinary hesitation | 1.9 | 8.5 |
+| Urinary retention | 1.2 | 3.0 |
+| General Disorders and Administration Site Conditions |  |  |
+| Fatigue | 2.6 | 3.0 |
+| Investigations |  |  |
+| Residual urine volumeThe bundled term residual urine volume consists of the preferred terms residual urine volume and residual urine volume increased. | 2.3 | 3.5 |
 
-| Body System | Adverse Reactions | 5–30 mg/day (n=429) | 10 mg/day (n=576) |
-| --- | --- | --- | --- |
-|  |  | DITROPAN XL® | DITROPAN XL® |
-| General | headache | 10 | 6 |
-| Digestive | dry mouth | 61 | 29 |
-|  | constipation | 13 | 7 |
-|  | diarrhea | 9 | 7 |
-|  | nausea | 9 | 2 |
-|  | dyspepsia | 7 | 5 |
-| Nervous | somnolence | 12 | 2 |
-|  | dizziness | 6 | 4 |
-| Special senses | blurred vision | 8 | 1 |
-|  | dry eyes | 6 | 3 |
-| Urogenital | urinary tract infection | 5 | 5 |
-
-The most common adverse reactions reported by the 429 patients receiving 5–30 mg/day DITROPAN XL® were the expected side effects of anticholinergic agents.
-The incidence of dry mouth was dose-related.
-
-The discontinuation rate for all adverse reactions was 6.8% in the 429 patients from the 4 studies of efficacy and safety who received 5–30 mg/day.
-The most frequent adverse reactions causing early discontinuation of study medication was nausea (1.9%), while discontinuation due to dry mouth was 1.2%.
-
-In addition, the following adverse reactions were reported by ≥ 1 to < 5% of all patients who received DITROPAN XL® in the 6 adjustable and fixed-dose efficacy and safety studies.
-Psychiatric disorders: depression, nervousness, insomnia, confusional state; Nervous System Disorders: dysgeusia; Cardiac disorders: palpitations; Vascular disorders: hypertension; Respiratory, thoracic and mediastinal disorders: nasal dryness, cough, oropharyngeal pain, dry throat; Gastrointestinal Disorders: gastroesophageal reflux disease, abdominal pain, flatulence, vomiting; Skin and subcutaneous tissue disorders: dry skin, pruritus; Renal and urinary disorders: urinary retention, urinary hesitation, dysuria; General disorders and administration site conditions: fatigue, edema peripheral, chest pain.
+The discontinuation rate due to adverse reactions was 4.4% with DITROPAN XL compared to 0% with Ditropan IR.
+The most frequent adverse reaction causing discontinuation of study medication was dry mouth (0.7%).
 
 The following adverse reactions were reported by <1% of DITROPAN XL®-treated patients and at a higher incidence than placebo in clinical trials: Metabolism and Nutrition Disorders: anorexia, fluid retention; Vascular disorders: hot flush; Respiratory, thoracic and mediastinal disorders: dysphonia; Gastrointestinal Disorders: dysphagia, frequent bowel movements; General disorders and administration site conditions: chest discomfort, thirst.
 
-## Postmarketing Experience
+## 6.2 Postmarketing Experience
 
-The following additional adverse drug reactions have been reported from worldwide postmarketing experience with DITROPAN XL®.
+The following additional adverse reactions have been reported from worldwide postmarketing experience with DITROPAN XL®.
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Psychiatric Disorders: psychotic disorder, agitation, hallucinations, memory impairment; Nervous System Disorders: convulsions; Eye Disorders: glaucoma; Cardiac Disorders: arrhythmia, tachycardia, QT interval prolongation; Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; rare anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall.
+Psychiatric Disorders: psychotic disorder, agitation, hallucinations, memory impairment; Nervous System Disorders: convulsions; Eye Disorders: glaucoma; Cardiac Disorders: arrhythmia, tachycardia, QT interval prolongation; Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall.
 
 Additional adverse events reported with some other oxybutynin chloride formulations include: cycloplegia, mydriasis, and suppression of lactation.

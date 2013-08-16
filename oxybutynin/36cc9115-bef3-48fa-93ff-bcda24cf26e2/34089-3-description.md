@@ -1,7 +1,7 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-DITROPAN XL® (oxybutynin chloride) is an antispasmodic, anticholinergic agent.
-Each DITROPAN XL® Extended Release Tablet contains 5 mg, 10 mg, or 15 mg of oxybutynin chloride USP, formulated as a once-a-day controlled-release tablet for oral administration.
+DITROPAN XL® (oxybutynin chloride) is an antispasmodic, muscarinic antagonist.
+Each DITROPAN XL® extended-release tablet contains 5 mg, 10 mg, or 15 mg of oxybutynin chloride USP, formulated as a once-a-day controlled-release tablet for oral administration.
 Oxybutynin chloride is administered as a racemate of R- and S-enantiomers.
 
 Chemically, oxybutynin chloride is d,l (racemic) 4-diethylamino-2-butynyl phenylcyclohexylglycolate hydrochloride.
@@ -12,9 +12,9 @@ Its structural formula is:
 Oxybutynin chloride is a white crystalline solid with a molecular weight of 393.9.
 It is readily soluble in water and acids, but relatively insoluble in alkalis.
 
-DITROPAN XL® also contains the following inert ingredients: cellulose acetate, hypromellose, lactose, magnesium stearate, polyethylene glycol, polyethylene oxide, synthetic iron oxides, titanium dioxide, polysorbate 80, sodium chloride, and butylated hydroxytoluene.
+DITROPAN XL® also contains the following inert ingredients: butylated hydroxytoluene, cellulose acetate, hypromellose, lactose, magnesium stearate, polyethylene glycol, polyethylene oxide, polysorbate 80, propylene glycol, sodium chloride, synthetic iron oxides and titanium dioxide.
 
-## System Components and Performance
+System Components and Performance
 
 DITROPAN XL® uses osmotic pressure to deliver oxybutynin chloride at a controlled rate over approximately 24 hours.
 The system, which resembles a conventional tablet in appearance, comprises an osmotically active bilayer core surrounded by a semipermeable membrane.
