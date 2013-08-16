@@ -1,6 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
-In most patients, ERY-TAB (erythromycin delayed-release tablets) are well absorbed and may be given without regard to meals.
+In most patients, ERY-TAB (erythromycin delayed-release tablets) are well absorbed and may be dosed orally without regard to meals.
+However, optimal blood levels are obtained when ERY-TAB 250 mg, ERY-TAB 333 mg or ERY-TAB 500 mg tablets are given in the fasting state (at least 1/2 hour and preferably 2 hours before meals).
 
 ## Adults
 
@@ -33,11 +34,11 @@ Although the optimal duration of therapy has not been established, the recommend
 Although the optimal dose and duration of therapy have not been established, the suggested treatment is 500 mg of erythromycin by mouth four times a day or two erythromycin 333 mg tablets orally every 8 hours on an empty stomach for at least 7 days.
 For women who cannot tolerate this regimen, a decreased dose of one erythromycin 500 mg tablet orally every 12 hours, one 333 mg tablet orally every 8 hours or 250 mg by mouth four times a day should be used for at least 14 days.5
 
-## For Adults With Uncomplicated Urethral, Endocervical, or Rectal Infections Caused by Chlamydia trachomatis, When Tetracycline is Contraindicated or Not Tolerated
+## For adults with uncomplicated urethral, endocervical, or rectal infections caused by Chlamydia trachomatis, when tetracycline is contraindicated or not tolerated
 
 500 mg of erythromycin by mouth four times a day or two 333 mg tablets orally every 8 hours for at least 7 days.5
 
-## For Patients With Nongonococcal Urethritis Caused by Ureaplasma Urealyticum When Tetracycline is Contraindicated or Not Tolerated
+## For patients with nongonococcal urethritis caused by Ureaplasma urealyticum when tetracycline is contraindicated or not tolerated
 
 500 mg of erythromycin by mouth four times a day or two 333 mg tablets orally every 8 hours for at least seven days.5
 
@@ -45,15 +46,20 @@ For women who cannot tolerate this regimen, a decreased dose of one erythromycin
 
 30 to 40 g given in divided doses over a period of 10 to 15 days.
 
-## Acute Pelvic Inflammatory Disease Caused by N. Gonorrhoeae
+## Acute pelvic inflammatory disease caused by N. gonorrhoeae
 
 500 mg Erythrocin Lactobionate-I.V.
 (erythromycin lactobionate for injection, USP) every 6 hours for 3 days, followed by 500 mg of erythromycin base orally every 12 hours, or 333 mg of erythromycin base orally every 8 hours for 7 days.
 
 ## Intestinal Amebiasis
 
-Adults: 500 mg every 12 hours, 333 mg every 8 hours or 250 mg every 6 hours for 10 to 14 days.
-Children: 30 to 50 mg/kg/day in divided doses for 10 to 14 days.
+### Adults
+
+500 mg every 12 hours, 333 mg every 8 hours or 250 mg every 6 hours for 10 to 14 days.
+
+### Children
+
+30 to 50 mg/kg/day in divided doses for 10 to 14 days.
 
 ## Pertussis
 
@@ -61,11 +67,12 @@ Although optimal dosage and duration have not been established, doses of erythro
 
 ## Legionnaires' Disease
 
-Although optimal dosage has not been established, doses utilized in reported clinical data were 1 to 4 grams daily in divided doses.
+Although optimal dosage has not been established, doses utilized in reported clinical data were 1 to 4 g daily in divided doses.
 
 ## Preoperative Prophylaxis for Elective Colorectal Surgery
 
 Listed below is an example of a recommended bowel preparation regimen.
+
 A proposed surgery time of 8:00 a.m. has been used.
 
 ### Pre-op Day 3
