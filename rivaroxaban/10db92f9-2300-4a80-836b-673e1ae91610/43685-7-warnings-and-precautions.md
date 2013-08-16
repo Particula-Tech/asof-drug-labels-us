@@ -1,10 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Increased Risk of Stroke after Discontinuation in Nonvalvular Atrial Fibrillation
+## 5.1 Increased Risk of Thrombotic Events after Premature Discontinuation
 
-Discontinuing XARELTO in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
+Premature discontinuation of any oral anticoagulant, including XARELTO, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from XARELTO to warfarin in clinical trials in atrial fibrillation patients.
-If XARELTO must be discontinued for a reason other than pathological bleeding, consider administering another anticoagulant [see Dosage and Administration (2.2) and Clinical Studies (14.1)].
+If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.2, 2.6) and Clinical Studies (14.1)].
 
 ## 5.2 Risk of Bleeding
 
@@ -71,3 +71,8 @@ In pregnant women, XARELTO should be used only if the potential benefit justifie
 XARELTO dosing in pregnancy has not been studied.
 The anticoagulant effect of XARELTO cannot be monitored with standard laboratory testing nor readily reversed.
 Promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in hemoglobin and/or hematocrit, hypotension, or fetal distress).
+
+## 5.8 Patients with Prosthetic Heart Valves
+
+The safety and efficacy of XARELTO have not been studied in patients with prosthetic heart valves.
+Therefore, use of XARELTO is not recommended in these patients.

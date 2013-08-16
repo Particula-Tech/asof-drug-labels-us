@@ -42,6 +42,8 @@ What is the most important information I should know about XARELTO?
 If you take XARELTO and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots.
 Tell your doctor right away if you have tingling, numbness, or muscle weakness, especially in your legs and feet.
 
+- XARELTO is not for patients with artificial heart valves.
+
 See "What are the possible side effects of XARELTO?" for more information about side effects.
 
 What is XARELTO?
@@ -187,7 +189,7 @@ Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
 
-Revised: March 2013
+Revised: August 2013
 
 © Janssen Pharmaceuticals, Inc. 2011
 
