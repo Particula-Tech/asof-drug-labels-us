@@ -2,4 +2,4 @@ Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 © 2013 sanofi-aventis U.S. LLC
 
-Revised: July 2013
+Revised: August 2013

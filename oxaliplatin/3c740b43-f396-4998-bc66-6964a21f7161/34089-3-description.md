@@ -6,5 +6,5 @@ Oxaliplatin is an organoplatinum complex in which the platinum atom is complexed
 The molecular weight is 397.3.
 Oxaliplatin is slightly soluble in water at 6 mg/mL, very slightly soluble in methanol, and practically insoluble in ethanol and acetone.
 
-ELOXATIN is supplied in vials containing 50 mg, 100 mg or 200 mg of oxaliplatin as a sterile, preservative-free, aqueous solution at a concentration of 5 mg/ml.
+ELOXATIN is supplied in vials containing 50 mg or 100 mg of oxaliplatin as a sterile, preservative-free, aqueous solution at a concentration of 5 mg/mL.
 Water for Injection, USP is present as an inactive ingredient.
