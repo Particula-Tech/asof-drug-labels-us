@@ -15,7 +15,7 @@ Clinical ADRs of moderate to severe intensity occurring in ≥2% of treatment-na
 Table 2: Adverse Drug ReactionsIncludes adverse experiences considered by investigators to be at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
 Occurring in ≥2% of Treatment-Naïve Adult Subjects Receiving ISENTRESS (240 Week Analysis)
 
-| ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir (n = 281)n = total number of subjects per treatment group | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir (n = 282) |  |
+| ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir (n = 281) | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir (n = 282) |  |
 | --- | --- | --- |
 | System Organ Class, Preferred Term | Randomized Study Protocol 021 |  |
 | Gastrointestinal Disorders |  |  |
@@ -27,6 +27,7 @@ Occurring in ≥2% of Treatment-Naïve Adult Subjects Receiving ISENTRESS (240 W
 | Dizziness | 2% | 6% |
 | Psychiatric Disorders |  |  |
 | Insomnia | 4% | 4% |
+| n = total number of subjects per treatment group |  |  |
 
 Laboratory Abnormalities
 
@@ -105,11 +106,12 @@ Clinical ADRs of moderate to severe intensity occurring in ≥2% of subjects tre
 Table 5: Adverse Drug ReactionsIncludes adverse reactions at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
 Occurring in ≥2% of Treatment-Experienced Adult Subjects Receiving ISENTRESS and at a Higher Rate Compared to Placebo (96 Week Analysis)
 
-| ISENTRESS 400 mg Twice Daily + OBT (n = 462)n=total number of subjects per treatment group. | Placebo + OBT (n = 237) |  |
+| ISENTRESS 400 mg Twice Daily + OBT (n = 462) | Placebo + OBT (n = 237) |  |
 | --- | --- | --- |
 | System Organ Class, Adverse Reactions | Randomized Studies Protocol 018 and 019 |  |
 | Nervous System Disorders |  |  |
 | Headache | 2% | <1% |
+| n=total number of subjects per treatment group. |  |  |
 
 Laboratory Abnormalities
 
@@ -195,7 +197,7 @@ The risk of developing cancer in these studies was similar in the group receivin
 
 Grade 2-4 creatine kinase laboratory abnormalities were observed in subjects treated with ISENTRESS (see Table 6).
 Myopathy and rhabdomyolysis have been reported.
-Use with caution in patients at increased risk of myopathy or rhabdomyolysis, such as patients receiving concomitant medications known to cause these conditions.
+Use with caution in patients at increased risk of myopathy or rhabdomyolysis, such as patients receiving concomitant medications known to cause these conditions and patients with a history of rhabdomyolysis, myopathy or increased serum creatine kinase.
 
 Rash occurred more commonly in treatment-experienced subjects receiving regimens containing ISENTRESS + darunavir/ritonavir compared to subjects receiving ISENTRESS without darunavir/ritonavir or darunavir/ritonavir without ISENTRESS.
 However, rash that was considered drug related occurred at similar rates for all three groups.

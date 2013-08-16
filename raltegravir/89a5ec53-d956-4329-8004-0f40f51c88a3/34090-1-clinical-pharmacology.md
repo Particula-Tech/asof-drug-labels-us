@@ -137,6 +137,7 @@ Table 9: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adults
 | Coadministered Drug | Coadministered Drug Dose/Schedule | Raltegravir Dose/Schedule | Ratio (90% Confidence Interval) of Raltegravir Pharmacokinetic Parameters with/without Coadministered Drug; No Effect = 1.00 |  |  |  |
 | atazanavir | 400 mg daily | 100 mg single dose | 10 | 1.53 (1.11, 2.12) | 1.72 (1.47, 2.02) | 1.95 (1.30, 2.92) |
 | atazanavir/ritonavir | 300 mg/100 mg daily | 400 mg twice daily | 10 | 1.24 (0.87, 1.77) | 1.41 (1.12, 1.78) | 1.77 (1.39, 2.25) |
+| boceprevir | 800 mg three times daily | 400 mg single dose | 22 | 1.11 (0.91-1.36) | 1.04 (0.88-1.22) | 0.75 (0.45-1.23) |
 | efavirenz | 600 mg daily | 400 mg single dose | 9 | 0.64 (0.41, 0.98) | 0.64 (0.52, 0.80) | 0.79 (0.49, 1.28) |
 | etravirine | 200 mg twice daily | 400 mg twice daily | 19 | 0.89 (0.68, 1.15) | 0.90 (0.68, 1.18) | 0.66 (0.34, 1.26) |
 | omeprazole | 20 mg daily | 400 mg single dose | 14 (10 for AUC) | 4.15 (2.82, 6.10) | 3.12 (2.13, 4.56) | 1.46 (1.10, 1.93) |

@@ -8,6 +8,10 @@ Instruct patients to immediately stop taking ISENTRESS and other suspect agents,
 Patients should understand that if severe rash occurs, they will be closely monitored, laboratory tests will be ordered and appropriate therapy will be initiated.
 Patients should also be told that it is very important that they remain under a physician's care during treatment with ISENTRESS.
 
+Before beginning ISENTRESS, patients should be asked by their healthcare provider if they have a history of rhabdomyolysis, myopathy or increased creatine kinase or if they are taking medications known to cause these conditions such as statins, fenofibrate, gemfibrozil or zidovudine.
+
+Patients should be instructed to immediately report to their healthcare provider any unexplained muscle pain, tenderness, or weakness while taking ISENTRESS.
+
 Patients should be informed that ISENTRESS is not a cure for HIV infection or AIDS.
 Patients should be told that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
 Patients should remain on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.

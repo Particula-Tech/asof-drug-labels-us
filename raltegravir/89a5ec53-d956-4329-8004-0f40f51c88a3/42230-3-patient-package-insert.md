@@ -139,6 +139,8 @@ In clinical trials, less common (<2%) side effects include:
 - vomiting
 - weakness
 
+Tell your doctor before beginning ISENTRESS if you have a history of muscle disorders (rhabdomyolysis or myopathy) or increased creatine kinase or if you are taking medications known to cause these conditions such as statins, fenofibrate, gemfibrozil or zidovudine.
+
 Tell your doctor right away if you get unexplained muscle pain, tenderness, or weakness while taking ISENTRESS.
 This may be a sign of a rare but serious muscle problem that can lead to kidney problems.
 

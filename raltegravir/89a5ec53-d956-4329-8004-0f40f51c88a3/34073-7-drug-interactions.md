@@ -37,5 +37,6 @@ Table 7: Selected Drug Interactions in Adults
 | etravirine | ↓ | Etravirine reduces plasma concentrations of raltegravir. The clinical significance of this interaction has not been directly assessed. |
 | tipranavir/ritonavir | ↓ | Tipranavir/ritonavir reduces plasma concentrations of raltegravir. However, since comparable efficacy was observed for this combination relative to other ISENTRESS-containing regimens in Phase 3 studies 018 and 019, no dose adjustment is recommended. |
 | Other Agents |  |  |
+| boceprevir | ↔ | No dose adjustment required for ISENTRESS or boceprevir. |
 | omeprazole | ↑ | Coadministration of medicinal products that increase gastric pH (e.g., omeprazole) may increase raltegravir levels based on increased raltegravir solubility at higher pH. However, since concomitant use of ISENTRESS with proton pump inhibitors and H2 blockers did not result in a unique safety signal in Phase 3 studies, no dose adjustment is recommended. |
 | rifampin | ↓ | Rifampin, a strong inducer of UGT1A1, reduces plasma concentrations of raltegravir. The recommended dosage of ISENTRESS is 800 mg twice daily during coadministration with rifampin. |

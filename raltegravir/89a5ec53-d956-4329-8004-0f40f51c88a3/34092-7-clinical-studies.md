@@ -68,7 +68,7 @@ Table 11: Virologic Outcomes of Randomized Treatment of Protocol 021 at 240 Week
 
 |  | ISENTRESS 400 mg Twice Daily (N = 281) | Efavirenz 600 mg At Bedtime (N = 282) | Difference (ISENTRESS – Efavirenz) (CI) |
 | --- | --- | --- | --- |
-| Subjects with HIV-1 RNA less than 50 copies/mL | 66% | 60% | 6.64% (-1.4%, 14.5%) |
+| Subjects with HIV-1 RNA less than 50 copies/mL | 66% | 60% | 6.6% (-1.4%, 14.5%) |
 | Virologic FailureIncludes subjects who discontinued prior to Week 240 for lack of efficacy or subjects who are ≥50 copies/mL in the 240-week window (+/- 6-weeks). | 8% | 15% |  |
 | No virologic data at Week 240 Window Reasons |  |  |  |
 | Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or Death at any time point from Day 1 through the Week 240 window if this resulted in no virologic data on treatment during Week 240 visit window. | 5% | 10% |  |
