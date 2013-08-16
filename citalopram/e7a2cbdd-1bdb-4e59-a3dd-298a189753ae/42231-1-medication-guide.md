@@ -40,7 +40,7 @@ The symptoms may include:
 - dizziness or fainting
 
 3.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -58,7 +58,7 @@ Severe allergic reactions:
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 5.
-Abnormal bleeding: Citalopram oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ® , Jantoven ® ), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Citalopram oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 6.
 Seizures or convulsions 7.
 Manic episodes:
@@ -83,7 +83,7 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-Do not stop citalopram oral solution without first talking to your healthcare provider .
+Do not stop citalopram oral solution without first talking to your healthcare provider.
 Stopping citalopram oral solution too quickly may cause serious symptoms including:
 
 - anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
@@ -104,10 +104,10 @@ Do not take citalopram oral solution if you:
 
 - are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in citalopram oral solution.
   See the end of this Medication Guide for a complete list of ingredients in citalopram oral solution.
-- take a Monoamine Oxidase Inhibitor (MAOI).
+- If you take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - Do not take an MAOI within 14 days of stopping citalopram oral solution.
-  - Do not start citalopram oral solution if you stopped taking an MAOI in the last 14 days.
+- Do not take an MAOI within 2 weeks of stopping citalopram oral solution unless directed to do so by your physician.
+- Do not start citalopram oral solution if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take citalopram oral solution close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -165,13 +165,13 @@ Do not start or stop any medicine while taking citalopram oral solution without 
   Do not take two doses of citalopram oral solution at the same time.
 - If you take too much citalopram oral solution, call your healthcare provider or poison control center right away, or get emergency treatment.
 
-What should I avoid while taking citalopram oral solution ?
+What should I avoid while taking citalopram oral solution?
 Citalopram oral solution can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
 You should not drive, operate heavy machinery, or do other dangerous activities until you know how citalopram oral solution affects you.
 Do not drink alcohol while using citalopram oral solution.
 What are the possible side effects of citalopram oral solution?
 Citalopram oral solution may cause serious side effects, including: See “What is the most important information I should know about citalopram oral solution?”
-Common possible side effects in people who take citalopram oral solution include :
+Common possible side effects in people who take citalopram oral solution include:
 
 - Nausea
 - Sleepiness
@@ -200,7 +200,7 @@ Other side effects in children and adolescents include:
   Your child’s height and weight should be monitored during treatment with citalopram oral solution.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
-These are not all the possible side effects of citalopram hydrobromide oral solution.
+These are not all the possible side effects of citalopram oral solution.
 For more information, ask your healthcare provider or pharmacist.
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
 YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
@@ -220,7 +220,7 @@ You may ask your healthcare provider or pharmacist for information about citalop
 For more information about citalopram oral solution call 1-866-850-2876.
 What are the ingredients in citalopram oral solution?
 Active ingredient: citalopram hydrobromide Inactive ingredients: non crystallizing sorbitol solution, purified water, propylene glycol, methylparaben, natural peppermint flavor, and propylparaben.
-Orap ® is a registered trademark of Teva Pharmaceuticals USA.
-Coumadin ® is a registered trademark of Bristol Myers Squibb.
-Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 06/2012
+Orap® is a registered trademark of Teva Pharmaceuticals USA.
+Coumadin® is a registered trademark of Bristol Myers Squibb.
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 01/2013
