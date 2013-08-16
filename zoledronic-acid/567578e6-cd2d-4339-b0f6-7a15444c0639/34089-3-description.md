@@ -10,4 +10,4 @@ The pH of a 0.7% solution of zoledronic acid in water is approximately 2.0.
 
 Zoledronic Acid Injection is available in bags as a sterile liquid solution for intravenous infusion.
 Each bag contains 4.264 mg of zoledronic acid monohydrate (equivalent to 4 mg zoledronic acid on an anhydrous basis), 900 mg of sodium chloride, USP, 220 mg of mannitol, USP, 100 mL water for injection and sodium citrate to adjust pH.
-The pH of the solution is approximately 6.0 to 7.0.
+The pH of the solution is approximately 5.5 to 6.5.
