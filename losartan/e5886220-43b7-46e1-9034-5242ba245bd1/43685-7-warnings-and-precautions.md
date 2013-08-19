@@ -34,7 +34,7 @@ Significant levels of losartan and its active metabolite were shown to be presen
 ## Hypotension — Volume-Depleted Patients
 
 In patients who are intravascularly volume-depleted (e.g., those treated with diuretics), symptomatic hypotension may occur after initiation of therapy with losartan potassium tablets.
-These conditions should be corrected prior to administration of losartan potassium tablets, or a lower starting dose should be used (see DOSAGE AND ADMINISTRATION).
+These conditions should be corrected prior to administration of losartan potassium tablets, or a lower starting dose should be used (see DOSAGE AND ADMINISTRATION)
 
 # PRECAUTIONS
 
@@ -62,6 +62,7 @@ Similar effects have been reported with losartan potassium tablets; in some pati
 ### Electrolyte Imbalance
 
 Electrolyte imbalances are common in patients with renal impairment, with or without diabetes, and should be addressed.
+In a clinical study conducted in type 2 diabetic patients with proteinuria, the incidence of hyperkalemia was higher in the group treated with losartan potassium tablets as compared to the placebo group; however, few patients discontinued therapy due to hyperkalemia (see ADVERSE REACTIONS).
 
 ## Information for Patients
 
@@ -99,7 +100,17 @@ In patients who are elderly, volume-depleted (including those on diuretic therap
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving losartan and NSAID therapy.
 
-The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
+The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be
+
+attenuated by NSAIDs, including selective COX-2 inhibitors.
+
+Dual blockade of the Rennin-Angiotensin System (RAS):
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on losartan potassium tablets and other agents that affect the RAS.
+
+Do not co-administer aliskiren with losartan potassium tablets in patients with diabetes.
+Avoid use of aliskiren with losartan potassium tablets in patients with renal impairment (GFR <60 ml/min).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -129,17 +140,18 @@ Because of the potential for adverse effects on the nursing infant, a decision s
 ## Pediatric Use
 
 Antihypertensive effects of losartan potassium tablets have been established in hypertensive pediatric patients aged 6 to 16 years.
-There are no data on the effect of losartan potassium tablets on blood pressure in pediatric patients under the age of 6 or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations).
+There are no data on the effect of losartan potassium tablets on blood pressure in pediatric patients under the age of 6 or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations and Pharmacodynamics and Clinical Effects, and DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use
 
 Of the total number of patients receiving losartan potassium tablets in controlled clinical studies for hypertension, 391 patients (19%) were 65 years and over, while 37 patients (2%) were 75 years and over.
+In a controlled clinical study for renal protection in type 2 diabetic patients with proteinuria, 248 patients (33%) were 65 years and over.
 In a controlled clinical study for the reduction in the combined risk of cardiovascular death, stroke and myocardial infarction in hypertensive patients with left ventricular hypertrophy, 2857 patients (62%) were 65 years and over, while 808 patients (18%) were 75 years and over.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## Race
 
-In the LIFE study, Black patients with hypertension and left ventricular hypertrophy had a lower risk of stroke on atenolol than on losartan.
+In the LIFE study, Black patients with hypertension and left ventricular hypertrophy had a lower risk of stroke on atenolol than on losartan potassium tablets.
 Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.
 However, the LIFE study does not provide evidence that the benefits of losartan potassium tablets on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients.
 (See CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects; Reduction in the Risk of Stroke).

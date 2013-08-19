@@ -63,8 +63,8 @@ Table 1: Pharmacokinetic Parameters in Hypertensive Adult and Children Age 6-16 
 | AUC 0-24 Mean ± standard deviation (ng.h/mL) | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
 | CMAX (ng/mL) | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
 | T½ (h) Harmonic mean and standard deviation | 2.1 ± 0.70 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
-| T PEAK (h) Median | 0.9 | 3.5 | 2.0 | 4.1 |
-| CL REN (mL/min) | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
+| TPEAK (h) Median | 0.9 | 3.5 | 2.0 | 4.1 |
+| CLREN (mL/min) | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
 
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
 The suspension and tablet are similar in their bioavailability with respect to both losartan and the active metabolite (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
@@ -78,7 +78,7 @@ No dosage adjustment is necessary (see DOSAGE AND ADMINISTRATION).
 
 ### Race
 
-Pharmacokinetic differences due to race have not been studied (see also PRECAUTIONS, Race and CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke, Race).
+Pharmacokinetic differences due to race have not been studied (see also PRECAUTIONS, Raceand CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke, Race).
 
 ### Renal Insufficiency
 
@@ -111,7 +111,7 @@ The AUC of active metabolite following oral losartan was not affected by erythro
 
 Losartan inhibits the pressor effect of angiotensin II (as well as angiotensin I) infusions.
 A dose of 100 mg inhibits the pressor effect by about 85% at peak with 25-40% inhibition persisting for 24 hours.
-Removal of the negative feedback of angiotensin II causes a 2-to 3-fold rise in plasma renin activity and consequent rise in angiotensin II plasma concentration in hypertensive patients.
+Removal of the negative feedback of angiotensin II causes a 2- to 3-fold rise in plasma renin activity and consequent rise in angiotensin II plasma concentration in hypertensive patients.
 Losartan does not affect the response to bradykinin, whereas ACE inhibitors increase the response to bradykinin.
 Aldosterone plasma concentrations fall following losartan administration.
 In spite of the effect of losartan on aldosterone secretion, very little effect on serum potassium was observed.
@@ -172,8 +172,9 @@ At the end of study or at the last visit before a primary endpoint, 77% of the g
 Of the patients still taking study medication, the mean doses of losartan and atenolol were both about 80 mg/day, and 15% were taking atenolol or losartan as monotherapy, while 77% were also receiving hydrochlorothiazide (at a mean dose of 20 mg/day in each group).
 Blood pressure reduction measured at trough was similar for both treatment groups but blood pressure was not measured at any other time of the day.
 At the end of study or at the last visit before a primary endpoint, the mean blood pressures were 144.1/81.3 mmHg for the group treated with losartan and 145.4/80.9 mmHg for the group treated with atenolol [the difference in systolic blood pressure (SBP) of 1.3 mmHg was significant (p< 0.001), while the difference of 0.4 mmHg in diastolic blood pressure (DBP) was not significant (p=0.098)].
+
 The primary endpoint was the first occurrence of cardiovascular death, nonfatal stroke, or nonfatal myocardial infarction.
-Patients with non-fatal events remained in the trial, so that there was also an examination of the first event of each type even if it was not the first event (e.g., a stroke following an initial myocardial infarction would be counted in the analysis of stroke).
+Patients with nonfatal events remained in the trial, so that there was also an examination of the first event of each type even if it was not the first event (e.g., a stroke following an initial myocardial infarction would be counted in the analysis of stroke).
 Treatment with losartan resulted in a 13% reduction (p=0.021) in risk of the primary endpoint compared to the atenolol group (see Figure 1 and Table 2); this difference was primarily the result of an effect on fatal and nonfatal stroke.
 Treatment with losartan reduced the risk of stroke by 25% relative to atenolol (p=0.001) (see Figure 2 and Table 2).
 
@@ -202,11 +203,11 @@ Table 2 Incidence of Primary Endpoint Events
 | Cardiovascular mortality | 125 (3) |  | 134 (3) |  |  |  |  |
 | Secondary Endpoints (any time in study) |  |  |  |  |  |  |  |
 | Stroke (fatal/nonfatal) | 232 (5) | 10.8 | 309 (7) | 14.5 | 25% | 11% to 37% | 0.001 |
-| Myocardial infarction (fatal/nonfatal) | 198 (4) | 9.2 | 188 (4) | 8.7 | -7% | 13% to 12% | 0.491 |
+| Myocardial infarction (fatal/nonfatal) | 198 (4) | 9.2 | 188 (4) | 8.7 | -7% | -13% to 12% | 0.491 |
 | Cardiovascular mortality | 204 (4) | 9.2 | 234 (5) | 10.6 | 11% | -7% to 27% | 0.206 |
-| Due to CHD | 125 (3) | 5.6 | 124 (3) | 5.6 | -3% | 32% to 20% | 0.839 |
+| Due to CHD | 125 (3) | 5.6 | 124 (3) | 5.6 | -3% | -32% to 20% | 0.839 |
 | Due to Stroke | 40 (1) | 1.8 | 62 (1) | 2.8 | 35% | 4% to 67% | 0.032 |
-| OtherDeath due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease | 39 (1) | 1.8 | 48 (1) | 2.2 | 16% | 28% to 45% | 0.411 |
+| OtherDeath due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease | 39 (1) | 1.8 | 48 (1) | 2.2 | 16% | -28% to 45% | 0.411 |
 
 Although the LIFE study favored losartan over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between losartan and placebo.
 Although not measured directly, the difference between losartan and placebo is compelling because there is evidence that atenolol is itself effective (vs. placebo) in reducing cardiovascular events, including stroke, in hypertensive patients.
@@ -225,3 +226,69 @@ This finding could not be explained on the basis of differences in the populatio
 In addition, blood pressure reductions in both treatment groups were consistent between Black and non- Black patients.
 Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.
 However, the LIFE study provides no evidence that the benefits of losartan on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients.
+
+### Nephropathy in Type 2 Diabetic Patients
+
+The Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study was a randomized, placebo controlled, double-blind, multicenter study conducted worldwide in 1513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3.0 mg/dl in females or males ≤60 kg and 1.5 to 3.0 mg/dl in males >60 kg and proteinuria [urinary albumin to creatinine ratio ≥300 mg/g]).
+
+Patients were randomized to receive losartan 50 mg once daily or placebo on a background of conventional antihypertensive therapy excluding ACE inhibitors and angiotensin II antagonists.
+After one month, investigators were instructed to titrate study drug to 100 mg once daily if the trough blood pressure goal (140/90 mmHg) was not achieved.
+Overall, 72% of patients received the 100-mg daily dose more than 50% of the time they were on study drug.
+Because the study was designed to achieve equal blood pressure control in both groups, other antihypertensive agents (diuretics, calcium-channel blockers, alpha- or beta-blockers, and centrally acting agents) could be added as needed in both groups.
+Patients were followed for a mean duration of 3.4 years.
+
+The study population was diverse with regard to race (Asian 16.7%, Black 15.2%, Hispanic 18.3%, White 48.6%).
+Overall, 63.2% of the patients were men, and 66.4% were under the age of 65 years.
+Almost all of the patients (96.6%) had a history of hypertension, and the patients entered the trial with a mean serum creatinine of 1.9 mg/dl and mean proteinuria (urinary albumin/creatinine) of 1808 mg/g at baseline.
+
+The primary endpoint of the study was the time to first occurrence of any one of the following events: doubling of serum creatinine, end-stage renal disease (ESRD) (need for dialysis or transplantation), or death.
+Treatment with losartan resulted in a 16% risk reduction in this endpoint (see Figure 4 and Table 3).
+Treatment with losartan also reduced the occurrence of sustained doubling of serum creatinine by 25% and ESRD by 29% as separate endpoints, but had no effect on overall mortality (see Table 3).
+
+The mean baseline blood pressures were 152/82 mmHg for losartan plus conventional antihypertensive therapy and 153/82 mmHg for placebo plus conventional antihypertensive therapy.
+At the end of the study, the mean blood pressures were 143/76 mmHg for the group treated with losartan and 146/77 mmHg for the group treated with placebo.
+
+Figure 4.
+Kaplan-Meier curve for the primary composite endpoint of doubling of serum creatinine, end stage renal disease (need for dialysis or transplantation) or death.
+
+Table 3 Incidence of Primary Endpoint Events
+
+|  | Incidence |  | Risk Reduction | 95% C.I. | p-Value |
+| --- | --- | --- | --- | --- | --- |
+|  | Losartan | Placebo |  |  |  |
+| Primary Composite Endpoint | 43.5% | 47.1% | 16.1% | 2.3% to 27.9% | 0.022 |
+| Doubling of Serum Creatinine, ESRD and Death Occurring as a First Event |  |  |  |  |  |
+| Doubling of Serum Creatinine | 21.6% | 26.0% |  |  |  |
+| ESRD | 8.5% | 8.5% |  |  |  |
+| Death | 13.4% | 12.6% |  |  |  |
+| Overall Incidence of Doubling of Serum Creatinine, ESRD and Death |  |  |  |  |  |
+| Doubling of Serum Creatinine | 21.6% | 26.0% | 25.3% | 7.8% to 39.4% | 0.006 |
+| ESRD | 19.6% | 25.5% | 28.6% | 11.5% to 42.4% | 0.002 |
+| Death | 21.0% | 20.3% | -1.7% | -26.9% to 18.6% | 0.884 |
+
+The secondary endpoints of the study were change in proteinuria, change in the rate of progression of renal disease, and the composite of morbidity and mortality from cardiovascular causes (hospitalization for heart failure, myocardial infarction, revascularization, stroke, hospitalization for unstable angina, or cardiovascular death).
+Compared with placebo, losartan significantly reduced proteinuria by an average of 34%, an effect that was evident within 3 months of starting therapy, and significantly reduced the rate of decline in glomerular filtration rate during the study by 13%, as measured by the reciprocal of the serum creatinine concentration.
+There was no significant difference in the incidence of the composite endpoint of cardiovascular morbidity and mortality.
+
+The favorable effects of losartan were seen in patients also taking other anti-hypertensive medications (angiotensin II receptor antagonists and angiotensin converting enzyme inhibitors were not allowed), oral hypoglycemic agents and lipid-lowering agents.
+
+For the primary endpoint and ESRD, the effects of losartan in patient subgroups defined by age, gender and race are shown in Table 4 below.
+Subgroup analyses can be difficult to interpret and it is not known whether these represent true differences or chance effects.
+
+Table 4 Efficacy Outcomes within Demographic Subgroups
+
+|  | No. of Patients | Primary Composite Endpoint |  |  | ESRD |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Losartan Event Rate % | Placebo Event Rate % | Hazard Ratio (95% CI) | Losartan Event Rate % | Placebo Event Rate % | Hazard Ratio (95% CI) |
+| Overall Results | 1513 | 43.5 | 47.1 | 0.839 (0.721, 0.977) | 19.6 | 25.5 | 0.714 (0.576, 0.885) |
+| Age |  |  |  |  |  |  |  |
+| <65 years | 1005 | 44.1 | 49.0 | 0.784 (0.653, 0.941) | 21.1 | 28.5 | 0.670 (0.521, 0.863) |
+| ≥65 years | 508 | 42.3 | 43.5 | 0.978 (0.749, 1.277) | 16.5 | 19.6 | 0.847 (0.560, 1.281) |
+| Gender |  |  |  |  |  |  |  |
+| Female | 557 | 47.8 | 54.1 | 0.762 (0.603, 0.962) | 22.8 | 32.8 | 0.601 (0.436, 0.828) |
+| Male | 956 | 40.9 | 43.3 | 0.892 (0.733, 1.085) | 17.5 | 21.5 | 0.809 (0.605, 1.081) |
+| Race |  |  |  |  |  |  |  |
+| Asian | 252 | 41.9 | 54.8 | 0.655 (0.453, 0.947) | 18.8 | 27.4 | 0.625 (0.367, 1.066) |
+| Black | 230 | 40.0 | 39.0 | 0.983 (0.647, 1.495) | 17.6 | 21.0 | 0.831 (0.456, 1.516) |
+| Hispanic | 277 | 55.0 | 54.0 | 1.003 (0.728, 1.380) | 30.0 | 28.5 | 1.024 (0.661, 1.586) |
+| White | 735 | 40.5 | 43.2 | 0.809 (0.645, 1.013) | 16.2 | 23.9 | 0.596 (0.427, 0.831) |

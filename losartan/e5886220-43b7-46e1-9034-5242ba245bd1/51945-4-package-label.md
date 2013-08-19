@@ -1,38 +1,31 @@
-# Principal Display Panel - Losartan Potassium 25mg-30Tabs
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Each film-coated tablet contains losartan potassium 25 mg.
+LOSARTAN POTASSIUM TABLETS USP
 
-Rx only
+Rx Only
 
-USUAL ADULT DOSAGE: See accompanying prescribing information.
+25 mg
 
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
+NDC 68180-210-06
 
-Keep container tightly closed.
-Protect from light.
+30 TABLETS
 
-# Principal Display Panel - Losartan Potassium 50mg-30Tabs
+LOSARTAN POTASSIUM TABLETS USP
 
-Each film-coated tablet contains losartan potassium 50 mg.
+Rx Only
 
-Rx only
+50 mg
 
-USUAL ADULT DOSAGE: See accompanying prescribing information.
+NDC 68180-211-06
 
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
+30 TABLETS
 
-Keep container tightly closed.
-Protect from light.
+LOSARTAN POTASSIUM TABLETS USP
 
-# Principal Display Panel - Losartan Potassium 100mg-30Tabs
+Rx Only
 
-Each film-coated tablet contains losartan potassium 100 mg.
+100 mg
 
-Rx only
+NDC 68180-212-06
 
-USUAL ADULT DOSAGE: See accompanying prescribing information.
-
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
-
-Keep container tightly closed.
-Protect from light.
+30 TABLETS
