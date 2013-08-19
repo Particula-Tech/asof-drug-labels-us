@@ -1,6 +1,6 @@
 Patient Information
 
-TIVICAY®(TIV-eh-kay)
+TIVICAY® (TIV-eh-kay)
 
 (dolutegravir)
 
@@ -56,6 +56,7 @@ Before you take TIVICAY, tell your healthcare provider if you:
   There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   The purpose of the registry is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.
+
 - •are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take TIVICAY.
   - ∘You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.

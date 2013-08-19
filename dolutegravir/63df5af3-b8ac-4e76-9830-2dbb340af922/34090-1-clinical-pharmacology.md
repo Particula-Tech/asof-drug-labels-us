@@ -222,7 +222,7 @@ At failure, the median dolutegravir fold-change from reference was 23-fold (rang
 
 Resistance to one or more background drugs in the dolutegravir twice-daily regimen also emerged in 30% (12/40) of the subjects in the Week 24 resistance analysis set.
 
-Cross-Resistance:Site-Directed Integrase Strand Transfer Inhibitor-Resistant Mutant HIV-1 and HIV-2 Strains:The susceptibility of dolutegravir was tested against 60 INSTI-resistant site-directed mutant HIV-1 viruses (28 with single substitutions and 32 with 2 or more substitutions) and 6 INSTI-resistant site-directed mutant HIV-2 viruses.
+Cross-Resistance:Site-Directed Integrase Strand Transfer Inhibitor-Resistant Mutant HIV-1 and HIV-2 Strains: The susceptibility of dolutegravir was tested against 60 INSTI-resistant site-directed mutant HIV-1 viruses (28 with single substitutions and 32 with 2 or more substitutions) and 6 INSTI-resistant site-directed mutant HIV-2 viruses.
 The single INSTI-resistance substitutions T66K, I151L, and S153Y conferred a >2-fold decrease in dolutegravir susceptibility (range: 2.3-fold to 3.6-fold from reference).
 Combinations of multiple substitutions T66K/L74M, E92Q/N155H, G140C/Q148R, G140S/Q148H, R or K, Q148R/N155H, T97A/G140S/Q148, and substitutions at E138/G140/Q148 showed a >2-fold decrease in dolutegravir susceptibility (range: 2.5-fold to 21-fold from reference).
 In HIV-2 mutants, combinations of substitutions A153G/N155H/S163G and E92Q/T97A/N155H/S163D conferred 4-fold decreases in dolutegravir susceptibility, and E92Q/N155H and G140S/Q148R showed 8.5-fold and 17-fold decreases in dolutegravir susceptibility, respectively.

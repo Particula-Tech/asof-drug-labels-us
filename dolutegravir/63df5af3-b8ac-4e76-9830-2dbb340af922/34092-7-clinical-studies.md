@@ -75,7 +75,7 @@ Virologic Outcomes of Randomized Treatment in SAILING at 24 Weeks (Snapshot Algo
 | No virologic data at Week 24 window | 6% | 6% |
 | Reasons |  |  |
 | Discontinued study/study drug due to adverse event or death | 2% | 2% |
-| Discontinued study/study drug for otherreasonsc | 3% | 3% |
+| Discontinued study/study drug for other reasonsc | 3% | 3% |
 | Missing data during window but on study | <1% | <1% |
 | Proportion (%) With HIV-1 RNA <50 copies/mL at Week 24 by Baseline Category |  |  |
 | Plasma viral load (copies/mL) |  |  |
