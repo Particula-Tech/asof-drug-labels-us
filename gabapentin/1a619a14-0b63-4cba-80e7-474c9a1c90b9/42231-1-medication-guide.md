@@ -57,16 +57,16 @@ Call a healthcare provider right away if you have any of the following symptoms:
 
 These symptoms may be the first signs of a serious reaction.
 A healthcare provider should examine you to decide if you should continue taking gabapentin capsules.
-What are gabapentin capsules ?
+What are gabapentin capsules?
 Gabapentin capsules are a prescription medicine used to treat:
 
 - Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
 - Partial seizures when taken together with other medicines in adults and children 3 years of age and older.
 
-Who should not take gabapentin capsules ?
+Who should not take gabapentin capsules?
 Do not take gabapentin capsules if you are allergic to gabapentin or any of the other ingredients in gabapentin capsules.
 See the end of this Medication Guide for a complete list of ingredients in gabapentin capsules.
-What should I tell my healthcare provider before taking gabapentin capsules ?
+What should I tell my healthcare provider before taking gabapentin capsules?
 Before taking gabapentin capsules, tell your healthcare provider if you:
 
 - have or have had kidney problems or are on hemodialysis
@@ -82,7 +82,7 @@ Before taking gabapentin capsules, tell your healthcare provider if you:
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin capsules.
 
-Tell your healthcare provider about all the medicines you take , including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Taking gabapentin capsules with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
 Know the medicines you take.
@@ -140,10 +140,10 @@ This Medication Guide summarizes the most important information about gabapentin
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about gabapentin capsules that was written for healthcare professionals.
 For more information about gabapentin capsules and for medical inquiries or to report side effects regarding gabapentin capsules, please call 1-866-850-2876.
-What are the ingredients in gabapentin capsules ?
+What are the ingredients in gabapentin capsules?
 Active ingredient: gabapentin Inactive ingredients: corn starch and talc.
 The empty hard gelatin capsule shell consists of gelatin, titanium dioxide, and sodium lauryl sulfate.
 In addition 300 mg also contains yellow iron oxide and 400 mg also contains yellow iron oxide and red iron oxide.
 The capsules are printed with edible ink containing black iron oxide and shellac.
 This Medication Guide has been approved by the U.S. Food and Drug Administration. * All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 09/2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 05/2013

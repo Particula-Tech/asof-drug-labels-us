@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Gabapentin capsules are given orally with or without food.
-If gabapentin dose is reduced, discontinued or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
+If gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
 
 ## Postherpetic Neuralgia
 
@@ -15,7 +15,7 @@ Additional benefit of using doses greater than 1800 mg/day was not demonstrated.
 Gabapentin capsules are recommended for add-on therapy in patients 3 years of age and older.
 Effectiveness in pediatric patients below the age of 3 years has not been established.
 
-### Patients >12 years of age
+### Patients > 12 years of age
 
 The effective dose of gabapentin is 900 to 1800 mg/day and given in divided doses (three times a day) using 300 or 400 mg capsules.
 The starting dose is 300 mg three times a day.
@@ -28,7 +28,7 @@ The maximum time between doses in the TID schedule should not exceed 12 hours.
 
 The starting dose should range from 10 to 15 mg/kg/day in 3 divided doses, and the effective dose reached by upward titration over a period of approximately 3 days.
 The effective dose of gabapentin in patients 5 years of age and older is 25 to 35 mg/kg/day and given in divided doses (three times a day).
-The effective dose in pediatric patients ages 3 and 4 years is 40 mg/kg/day and given in divided doses (three times a day) (see CLINICAL PHARMACOLOGY, Pediatrics .)
+The effective dose in pediatric patients ages 3 and 4 years is 40 mg/kg/day and given in divided doses (three times a day) (see CLINICAL PHARMACOLOGY,Pediatric.)
 Dosages up to 50 mg/kg/day have been well-tolerated in a long-term clinical study.
 The maximum time interval between doses should not exceed 12 hours.
 It is not necessary to monitor gabapentin plasma concentrations to optimize gabapentin therapy.
@@ -38,7 +38,7 @@ If gabapentin is discontinued and/or an alternate anticonvulsant medication is a
 ## Dosage in Renal Impairment
 
 Creatinine clearance is difficult to measure in outpatients.
-In patients with stable renal function, creatinine clearance (C Cr ) can be reasonably well estimated using the equation of Cockcroft and Gault: for females C Cr =(0.85)(140-age)(weight)/[(72)(S Cr )] for males C Cr =(140-age)(weight)/[(72)(S Cr )] where age is in years, weight is in kilograms and S Cr is serum creatinine in mg/dL.
+In patients with stable renal function, creatinine clearance (CCr) can be reasonably well estimated using the equation of Cockcroft and Gault: for females CCr=(0.85)(140-age)(weight)/[(72)(SCr)] for males CCr=(140-age)(weight)/[(72)(SCr)] in which age is in years, weight is in kilograms, and SCr is serum creatinine in mg/dL.
 Dosage adjustment in patients ≥12 years of age with compromised renal function or undergoing hemodialysis is recommended as follows (see dosing recommendations above for effective doses in each indication).
 
 TABLE 6.
