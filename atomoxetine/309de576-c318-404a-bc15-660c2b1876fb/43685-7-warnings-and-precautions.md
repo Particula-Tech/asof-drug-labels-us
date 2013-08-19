@@ -57,7 +57,7 @@ Patients who develop symptoms such as exertional chest pain, unexplained syncope
 ## 5.4 Effects on Blood Pressure and Heart Rate
 
 STRATTERA should be used with caution in patients whose underlying medical conditions could be worsened by increases in blood pressure or heart rate such as certain patients with hypertension, tachycardia, or cardiovascular or cerebrovascular disease.
-It should not be used in patients with severe cardiovascular disorders whose condition would be expected to deteriorate if they experienced clinically important increases in blood pressure or heart rate [see Contraindications (4.5)].
+It should not be used in patients with severe cardiac or vascular disorders whose condition would be expected to deteriorate if they experienced clinically important increases in blood pressure or heart rate [see Contraindications (4.5)].
 Pulse and blood pressure should be measured at baseline, following STRATTERA dose increases, and periodically while on therapy to detect possible clinically important increases.
 
 The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥15 mm Hg; systolic blood pressure ≥20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (see Table 1).
@@ -107,9 +107,11 @@ However, prior to initiating treatment with STRATTERA, patients with comorbid de
 
 Patients beginning treatment for ADHD should be monitored for the appearance or worsening of aggressive behavior or hostility.
 Aggressive behavior or hostility is often observed in children and adolescents with ADHD.
-In short-term controlled clinical trials, 21/1308 (1.6%) of atomoxetine patients versus 9/806 (1.1%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events.
-Although this is not conclusive evidence that STRATTERA causes aggressive behavior or hostility, these behaviors were more frequently observed in clinical trials among children and adolescents treated with STRATTERA compared to placebo (overall risk ratio of 1.33 [95% C.I.
-0.67-2.64 - not statistically significant]).
+In pediatric short-term controlled clinical trials, 21/1308 (1.6%) of atomoxetine patients versus 9/806 (1.1%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.33 [95% C.I.
+0.67-2.64 – not statistically significant]).
+In adult placebo-controlled clinical trials, 6/1697 (0.35%) of atomoxetine patients versus 4/1560 (0.26%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.38 [95% C.I.
+0.39-4.88 – not statistically significant]).
+Although this is not conclusive evidence that STRATTERA causes aggressive behavior or hostility, these behaviors were more frequently observed in clinical trials among children, adolescents, and adults treated with STRATTERA compared to placebo.
 
 ## 5.8 Allergic Events
 

@@ -47,7 +47,7 @@ Table 2: Common Treatment–Emergent Adverse Reactions Associated with the Use o
 | Dizziness | 5 | 2 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 2 | 1 |
-| a Reactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: blood pressure increased, early morning awakening, flushing, mydriasis, sinus tachycardia, asthenia, palpitations, mood swings, constipation, and dyspepsia. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: pharyngolaryngeal pain, insomnia (insomnia includes the terms, insomnia, initial insomnia, middle insomnia). The following reaction did not meet this criterion but shows a statistically significant dose relationship: pruritus. |  |  |
+| a Reactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: blood pressure increased, early morning awakening (terminal insomnia), flushing, mydriasis, sinus tachycardia, asthenia, palpitations, mood swings, constipation, and dyspepsia. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: pharyngolaryngeal pain, insomnia (insomnia includes the terms, insomnia, initial insomnia, middle insomnia). The following reaction did not meet this criterion but shows a statistically significant dose relationship: pruritus. |  |  |
 | b Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort. |  |  |
 | c Somnolence includes the terms: sedation, somnolence. |  |  |
 
@@ -83,7 +83,7 @@ In the clinical development program, seizures were reported on 0.1% (1/748) of a
 In these clinical trials, no poor metabolizers (0/43) reported seizures compared to 0.1% (1/705) for extensive metabolizers.
 
 Commonly observed adverse reactions in acute adult placebo-controlled trials — Commonly observed adverse reactions associated with the use of STRATTERA (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (STRATTERA incidence greater than placebo) are listed in Table 4.
-The most commonly observed adverse reactions in patients treated with STRATTERA (incidence of 5% or greater and at least twice the incidence in placebo patients) were: constipation, dry mouth, nausea, fatigue, decreased appetite, insomnia, erectile dysfunction, urinary hesitation and/or urinary retention and/or dysuria, dysmenorrhea, and hot flush (see Table 4).
+The most commonly observed adverse reactions in patients treated with STRATTERA (incidence of 5% or greater and at least twice the incidence in placebo patients) were: constipation, dry mouth, nausea, decreased appetite, dizziness, erectile dysfunction, and urinary hesitation (see Table 4).
 
 Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of adult patients experienced potentially clinically important changes in heart rate (≥20 beats per min) or blood pressure (≥15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
 
@@ -91,54 +91,53 @@ Table 4: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 
 | Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| System Organ Class/Adverse Reaction | STRATTERA (N=540) | Placebo (N=402) |
+| System Organ Class/Adverse Reaction | STRATTERA (N=1697) | Placebo (N=1560) |
 | Cardiac Disorders |  |  |
 | Palpitations | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
-| Dry mouth | 21 | 7 |
-| Nausea | 21 | 5 |
-| Constipation | 9 | 3 |
-| Abdominal painb | 7 | 5 |
+| Dry mouth | 20 | 5 |
+| Nausea | 26 | 6 |
+| Constipation | 8 | 3 |
+| Abdominal painb | 7 | 4 |
 | Dyspepsia | 4 | 2 |
-| Vomiting | 3 | 2 |
+| Vomiting | 4 | 2 |
 | General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 9 | 4 |
-| Chills | 3 | 1 |
-| Therapeutic response unexpected | 3 | 1 |
-| Feeling jittery | 2 | 0 |
+| Fatigue | 10 | 6 |
+| Chills | 3 | 0 |
+| Feeling jittery | 2 | 1 |
+| Irritability | 5 | 3 |
+| Thirst | 2 | 1 |
 | Investigations |  |  |
 | Weight decreased | 2 | 1 |
 | Metabolism and Nutritional Disorders |  |  |
-| Decreased appetite | 11 | 2 |
+| Decreased appetite | 16 | 3 |
 | Nervous System Disorders |  |  |
-| Dizziness | 6 | 4 |
-| Somnolencec | 4 | 3 |
-| Paraesthesia | 3 | 1 |
-| Sinus headache | 3 | 1 |
-| Tremor | 2 | 0 |
+| Dizziness | 8 | 3 |
+| Somnolencec | 8 | 5 |
+| Paraesthesia | 3 | 0 |
 | Psychiatric Disorders |  |  |
-| Insomniad | 15 | 7 |
-| Libido decreased | 4 | 2 |
+| Abnormal dreams | 4 | 3 |
+| Insomniad | 15 | 8 |
+| Libido decreased | 3 | 1 |
 | Sleep disorder | 3 | 1 |
 | Renal and Urinary Disorders |  |  |
-| Urinary hesitation and/or urinary retention | 7 | 1 |
-| Dysuria | 3 | 0 |
+| Urinary hesitatione | 6 | 1 |
+| Dysuria | 2 | 0 |
 | Reproductive System and Breast Disorders |  |  |
-| Erectile dysfunctione | 9 | 1 |
-| Dysmenorrheaf | 6 | 2 |
-| Ejaculation delayede and/or ejaculation disordere | 3 | 1 |
-| Menstruation irregularf | 2 | 0 |
+| Erectile dysfunctionf | 8 | 1 |
+| Dysmenorrheag | 3 | 2 |
+| Ejaculation delayedf and/or ejaculation disorderf | 4 | 1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 4 | 1 |
-| Rash | 2 | 1 |
 | Vascular Disorders |  |  |
-| Hot flush | 8 | 1 |
-| a Reactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: early morning awakening, peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, and flatulence. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: headache, pharyngolaryngeal pain, irritability. |  |  |
+| Hot flush | 3 | 0 |
+| a Reactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, flatulence, asthenia, feeling cold, muscle spasm, dysgeusia, agitation, restlessness, micturition urgency, pollakiuria, pruritus, urticaria, flushing, tremor, menstruation irregular, rash, and urinary retention. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: anxiety, diarrhea, back pain, headache, and oropharyngeal pain. |  |  |
 | b Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort. |  |  |
 | c Somnolence includes the terms: sedation, somnolence. |  |  |
-| d Insomnia includes the terms: insomnia, initial insomnia, middle insomnia. |  |  |
-| e Based on total number of males (STRATTERA, N=326; placebo, N=260). |  |  |
-| f Based on total number of females (STRATTERA, N=214; placebo, N=142). |  |  |
+| d Insomnia includes the terms: insomnia, initial insomnia, middle insomnia, and terminal insomnia. |  |  |
+| e Urinary hesitation includes the terms: urinary hesitation, urine flow decreased. |  |  |
+| f Based on total number of males (STRATTERA, N=943; placebo, N=869). |  |  |
+| g Based on total number of females (STRATTERA, N=754; placebo, N=691). |  |  |
 
 Male and female sexual dysfunction — Atomoxetine appears to impair sexual function in some patients.
 Changes in sexual desire, sexual performance, and sexual satisfaction are not well assessed in most clinical trials because they need special attention and because patients and physicians may be reluctant to discuss them.

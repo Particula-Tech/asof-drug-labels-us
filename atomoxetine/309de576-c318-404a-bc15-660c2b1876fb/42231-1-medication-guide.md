@@ -181,9 +181,7 @@ Common side effects in adults include:
 - nausea
 - decreased appetite
 - dizziness
-- trouble sleeping
 - sexual side effects
-- menstrual cramps
 - problems passing urine
 
 Other information for children, teenagers, and adults:
@@ -230,13 +228,13 @@ Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Patient Information revised July 9, 2012
+Patient Information revised August 5, 2013
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.strattera.com
 
-Copyright © 2003, 2012, Eli Lilly and Company.
+Copyright © 2003, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 5857 AMP
+PV 5858 AMP
