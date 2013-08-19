@@ -4,15 +4,13 @@ NDC 10122-820-56
 
 Bethkis®
 
-Tobramycin Inhalation Solution
+(Tobramycin Inhalation Solution)
 
-300 mg/ 4 mL Ampule
+300 mg/ 4 mL
 
 For Oral Inhalation Only by Nebulizer
 
 Single Use Only, Discard Each Ampule After One Use
-
-Does not comply with USP with regard to pH, absorbance and osmolarity.
 
 Contents: Each single-use ampule delivers 4 mL of solution containing 300 mg of Tobramycin and 18 mg of Sodium Chloride in Water for Injection.
 Usual Dose: See package insert for details.
@@ -21,9 +19,9 @@ Rx only
 
 Storage: Store in a Refrigeratorat 2°C to 8°C (36°F to 46°F).
 
-Bethkis® is a light sensitive; unopened ampules should be returned to the foil pouch.
+Bethkis® is light sensitive; unopened ampules should be returned to the foil pouch.
 
-Each carton contains 56 Single-Use Ampules
+Each carton contains 56 Single-Use Ampules (28-Day Supply)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - pouch label
 
@@ -42,10 +40,10 @@ Discard Each Ampule After One Use.
 
 Each foil pouch contains 4 ampules.
 
-Storage: Store in a Refrigeratorat 2°C to 8°C (36°F to 46°F).
+Storage: Store in a Refrigerator at 2°C to 8°C (36°F to 46°F).
 Protect from Intense Light.
 
-Bethkis® is a light sensitive; unopened ampules should be returned to the foil pouch.
+Bethkis® is light sensitive; unopened ampules should be returned to the foil pouch.
 
 Contents: Each single-use ampule delivers 4 mL of solution containing 300 mg of Tobramycin and 18 mg of sodium chloride in Water for Injection.
 

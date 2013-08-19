@@ -7,8 +7,7 @@ Tobramycin is O‑3-amino-3-deoxy-α-D-glucopyranosyl-(1→4)-O-[2,6-diamino- 2,
 
 The structural formula for tobramycin is:
 
-Each single-use 4 mL ampule of BETHKIS contains one 300 mg dose of tobramycin, with sodium chloride and sulfuric acid in water for injection.
+Each single-use 4 mL ampule of BETHKIScontains one 300 mg dose of tobramycin, with sodium chloride and sulfuric acid in water for injection.
 Sulfuric acid and sodium hydroxide are used to adjust the pH, as needed, to 5.0.
 Nitrogen is used for sparging, filling and pouching.
 The formulation contains no preservatives.
-BETHKIS does not comply with the USP with regard to pH, absorbance and osmolality.
