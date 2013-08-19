@@ -15,7 +15,7 @@ In aHUS, impairment in the regulation of complement activity leads to uncontroll
 In the PNH placebo-controlled clinical study, Soliris when administered as recommended reduced hemolysis as shown by the reduction of serum LDH levels from 2200 ± 1034 U/L (mean ± SD) at baseline to 700 ± 388 U/L by week one and maintained the effect through the end of the study at week 26 (327 ± 433 U/L).
 In the single arm clinical study, Soliris maintained this effect through 52 weeks [see Clinical Studies (14)].
 
-## 12.3. Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 A population PK analysis with a standard 1-compartmental model was conducted on the multiple dose PK data from 40 PNH patients receiving the recommended Soliris regimen [see Dosage and Administration (2.1)].
 In this model, the clearance of Soliris for a typical PNH patient weighing 70 kg was 22 mL/hr and the volume of distribution was 7.7 L. The half-life was 272 ± 82 hrs (mean ± SD).

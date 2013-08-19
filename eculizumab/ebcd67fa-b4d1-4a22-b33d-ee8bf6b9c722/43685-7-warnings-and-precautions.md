@@ -8,7 +8,7 @@ Life-threatening and fatal meningococcal infections have occurred in patients tr
 Administer a polyvalent meningococcal vaccine according to the most current Advisory Committee on Immunization Practices (ACIP) recommendations for patients with complement deficiencies.
 Revaccinate patients in accordance with ACIP recommendations, considering the duration of Soliris therapy.
 
-Vaccinate patients without a history of meningococcal vaccination at least 2 weeks prior to receiving the first dose of Soliris.
+Immunize patients without a history of meningococcal vaccination at least 2 weeks prior to receiving the first dose of Soliris.
 If urgent Soliris therapy is indicated in an unvaccinated patient, administer the meningococcal vaccine as soon as possible.
 In clinical studies, 33/67 patients with aHUS were treated with Soliris less than 2 weeks after meningococcal vaccination and 31 of these 33 patients received antibiotics for prophylaxis of meningococcal infection until at least 2 weeks after meningococcal vaccination.
 The benefits and risks of antibiotic prophylaxis for prevention of meningococcal infections in patients receiving Soliris have not been established.

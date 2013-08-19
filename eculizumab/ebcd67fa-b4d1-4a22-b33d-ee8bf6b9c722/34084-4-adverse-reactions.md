@@ -28,7 +28,7 @@ All patients received the recommended Soliris dose regimen.
 
 Table 4 summarizes the adverse reactions that occurred at a numerically higher rate in the Soliris group than the placebo group and at a rate of 5% or more among patients treated with Soliris.
 
-Table 4: Adverse Reactions Reported In 5% Or More Of Soliris Treated Patients And Greater Than Placebo In The Controlled Clinical Study
+Table 4: Adverse Reactions Reported in 5% or More of Soliris Treated Patients and Greater than Placebo in the Controlled Clinical Study
 
 | Reaction | Soliris N = 43 N (%) | Placebo N = 44 N (%) |
 | --- | --- | --- |
@@ -70,9 +70,9 @@ Table 5: Per Patient Incidence of Adverse Events in Adult and Adolescent Patient
 | --- | --- | --- | --- |
 | Study 1 (n=17) | Study 2 (n=20) | Total (n=37) |  |
 | Vascular Disorders |  |  |  |
-| Hypertensiona | 8(47) | 5 (25) | 13 (35) |
+| Hypertensiona | 8 (47) | 5 (25) | 13 (35) |
 | Infections and Infestations |  |  |  |
-| Upper respiratory tract infectionb | 5 (29) | 8 (40) | 13(35) |
+| Upper respiratory tract infectionb | 5 (29) | 8 (40) | 13 (35) |
 | Urinary tract infection | 4 (24) | 2 (10) | 6 (16) |
 | Gastrointestinal Disorders |  |  |  |
 | Diarrhea | 6 (35) | 6 (30) | 12 (32) |
@@ -131,7 +131,7 @@ Table 6: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Ye
 As with all proteins, there is a potential for immunogenicity with eculizumab.
 The immunogenicity of Soliris has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecule as target was used for the aHUS indication, as well as for additional patients with PNH.
 In the PNH population, antibodies to Soliris were detected in 3/196 (2%) patients with PNH treated with Soliris using the ELISA assay and in 5/161 (3%) patients treated with Soliris using the ECL assay.
-In patients with aHUS treated with Soliris, antibodies to Soliris were detected in 1/37 (2.7%) by the ECL assay.
+In patients with aHUS treated with Soliris, antibodies to Soliris were detected in 1/37 (2.7%) using the ECL assay.
 An ECL based neutralizing HAHA assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 37 patients with aHUS and also for the 5 patients with PNH with positive samples using the ECL assay.
 No neutralizing activity to Soliris was detected in patients with aHUS treated with Soliris.
 In the PNH group, 2/161 (1.2%) patients had low positive values for neutralizing antibodies.

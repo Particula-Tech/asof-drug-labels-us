@@ -64,7 +64,7 @@ However, the majority of patients received concomitant anticoagulants; the effec
 
 ## 14.2 aHUS
 
-Three single-arm studies [(two prospective (aHUS Studies 1 and 2) and one retrospective (aHUS Study 3)] evaluated the safety and efficacy of Soliris for the treatment of aHUS.
+Three single-arm studies [two prospective (aHUS Studies 1 and 2) and one retrospective (aHUS Study 3)] evaluated the safety and efficacy of Soliris for the treatment of aHUS.
 Patients with aHUS received meningococcal vaccination prior to receipt of Soliris or received prophylactic treatment with antibiotics until 2 weeks after vaccination.
 In all studies, the dose of Soliris in adult and adolescent patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1200 mg 7 ± 2 days later, then 1200 mg every 14 ± 2 days thereafter.
 The dosage regimen for pediatric patients weighing less than 40 kg enrolled in aHUS Study 3 was based on body weight [see Recommended Dosage Regimen (2.2)].
@@ -131,7 +131,7 @@ In aHUS Study 1, responses to Soliris were similar in patients with and without 
 
 aHUS Sensitive to PE/PI (aHUS Study 2)
 
-aHUS Study 2 enrolled patients undergoing chronic PE/PI who generally did not display hematologic signs of ongoing thrombotic microangiopathy (TMA).
+aHUS Study 2 enrolled patients undergoing chronic PE/PI generally did not display hematologic signs of ongoing thrombotic microangiopathy (TMA).
 All patients had received PT at least once every two weeks, but no more than three times per week, for a minimum of eight weeks prior to the first Soliris dose.
 Patients on chronic dialysis were permitted to enroll in aHUS Study 2.
 The median patient age was 28 years (range: 13 to 63 years).
@@ -185,7 +185,7 @@ Soliris reduced signs of complement-mediated TMA activity, as shown by an increa
 Mean platelet count increased from 171 ± 83 x109/L at baseline to 233 ±109 x109/L after one week of therapy; this effect was maintained through 26 weeks (mean platelet count at week 26: 254 ± 79 x109/L).
 
 A total of 19 pediatric patients (ages 2 months to 17 years) received Soliris in aHUS Study 3.
-The median duration of Soliris therapy was 16 weeks (range 4 to 70 weeks) for children < 2 years of age (n=5), 31 weeks (range 19 to 63 weeks) for children 2 to <12 years of age (n=10), and 38 weeks (range 1 to 69 weeks) for patients 12 to 17 years of age (n=4).
+The median duration of Soliris therapy was 16 weeks (range 4 to 70 weeks) for children < 2 years of age (n=5), 31 weeks (range 19 to 63 weeks) for children 2 to <12 years of age (n=10), and 38 weeks (range 1 to 69 weeks) for patients 12 to < 18 years of age (n=4).
 Fifty three percent of pediatric patients had an identified complement regulatory factor mutation or auto-antibody.
 
 Overall, the efficacy results for these pediatric patients appeared consistent with what was observed in patients enrolled in aHUS Studies 1 and 2 (Table 13).
@@ -202,4 +202,4 @@ Table 13: Efficacy Results in Pediatric Patients Enrolled in aHUS Study 3
 | Before eculizumab | 1 (0, 2) | <1 (0.07, 1.46) | <1 (0, 1) | 0.31 (0.00, 2.38) |
 | On eculizumab treatment | <1 (0, <1) | 0 (0, <1) | 0 (0, <1) | 0.00 (0.00, 0.08) |
 | Patients with eGFR improvement ≥ 15 mL/min/1.73 m2, n (%)2 | 2 (40) | 6 (60) | 1 (25) | 9 (47) |
-| 1. Platelet count normalization was defined as a platelet count of at least 150,000 X 109/L on at least two consecutive measurements spanning a period of at least 4 weeks. 2. Of the 9 patients who experienced an eGFR improvement of at least 15 mL/min/1.73 m2, one received dialysis throughout the study period and another received eculizumab as prophylaxis following renal allograft transplantation. |  |  |  |  |
+| 1. Platelet count normalization was defined as a platelet count of at least 150,000 X 109/L on at least two consecutive measurements spanning a period of at least 4 weeks. 2. Of the 9 patients who experienced an eGFR improvement of at least 15 mL/min/1.73 m2, one received dialysis throughout the study period and another received Soliris as prophylaxis following renal allograft transplantation. |  |  |  |  |

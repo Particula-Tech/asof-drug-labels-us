@@ -4,7 +4,7 @@ Soliris (eculizumab) is supplied as 300 mg single-use vials containing 30 mL of 
 
 Soliris vials must be stored in the original carton until time of use under refrigerated conditions at 2-8° C (36-46° F) and protected from light.
 Do not use beyond the expiration date stamped on the carton.
-Refer to Dosage and Administration (2) for information on the stability and storage of diluted solutions of Soliris.
+Refer to [Dosage and Administration (2)] for information on the stability and storage of diluted solutions of Soliris.
 
 DO NOT FREEZE.
 DO NOT SHAKE.

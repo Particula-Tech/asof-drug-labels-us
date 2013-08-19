@@ -72,7 +72,7 @@ Table 3: Preparation and Reconstitution of Soliris
 Gently invert the infusion bag containing the diluted Soliris solution to ensure thorough mixing of the product and diluent.
 Discard any unused portion left in a vial, as the product contains no preservatives.
 
-Prior to administration, the admixture should be allowed to adjust to room temperature [18°-25° C, 64-77° F]. The admixture must not be heated in a microwave or with any heat source other than ambient air temperature.
+Prior to administration, the admixture should be allowed to adjust to room temperature [18-25° C, 64-77° F]. The admixture must not be heated in a microwave or with any heat source other than ambient air temperature.
 The Soliris admixture should be inspected visually for particulate matter and discoloration prior to administration.
 
 ## 2.4 Administration
