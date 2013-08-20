@@ -1,16 +1,10 @@
-# WARNING: Suicidality and Antidepressant Drugs
+# WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
-WARNING: Suicidality and Antidepressant Drugs
-
-See full prescribing information for complete boxed warning.
-
-Increased risk of suicidal thinking and behavior in children, adolescents and young adults taking antidepressants for major depressive disorder (MDD) and other psychiatric disorders.
-Escitalopram oxalate is not approved for use in pediatric patients less than 12 years of age (5.1).
-
-Information describing use of Escitalopram Oxalate in adolescent patients is approved for Forest Laboratories, Inc.’s Escitalopram Oxalate Oral Solution.
-However, due to Forest Laboratories, Inc.’s marketing exclusivity rights, this drug product is not labeled with that adolescents usage information.
-
-FULL PRESCRIBING INFORMATION
-
-| WARNINGS: SUICIDALITY AND ANTIDEPRESSANT DRUGSAntidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders. Anyone considering the use of escitalopram oxalate or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need. Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older. Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide. Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior. Families and caregivers should be advised of the need for close observation and communication with the prescriber. Escitalopram oxalate is not approved for use in pediatric patients less than 12 years of age. [See Warnings and Precautions: Clinical Worsening and Suicide Risk (5.1), Patient Counseling Information: Information for Patients (17.1), and Use in Specific Populations: Pediatric Use (8.4)]. |
-| --- |
+Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
+Anyone considering the use of escitalopram oxalate or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
+Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older.
+Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
+Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
+Families and caregivers should be advised of the need for close observation and communication with the prescriber.
+Escitalopram oxalate is not approved for use in pediatric patients less than 12 years of age.
+[See Warnings and Precautions: Clinical Worsening and Suicide Risk (5.1), Patient Counseling Information: Information for Patients (17.1), and Use in Specific Populations: Pediatric Use (8.4)].

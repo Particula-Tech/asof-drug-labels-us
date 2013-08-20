@@ -6,7 +6,7 @@ In clinical trials of escitalopram, there were reports of escitalopram overdose,
 During the postmarketing evaluation of escitalopram, escitalopram oxalate overdoses involving overdoses of over 1000 mg have been reported.
 As with other SSRIs, a fatal outcome in a patient who has taken an overdose of escitalopram has been rarely reported.
 
-Symptoms most often accompanying escitalopram overdose, alone or in combination with other drugs and/or alcohol, included convulsions, coma, dizziness, hypotension, insomnia, nausea, vomiting, sinus tachycardia, somnolence, and ECG changes (including QT prolongation and very rare cases of torsade de pointes).
+Symptoms most often accompanying escitalopram overdose, alone or in combination with other drugs and/or alcohol, included convulsions, coma, dizziness, hypotension, insomnia, nausea, vomiting, sinus tachycardia, somnolence and ECG changes (including QT prolongation and very rare cases of torsade de pointes).
 Acute renal failure has been very rarely reported accompanying overdose.
 
 ## 10.2 Management of Overdose

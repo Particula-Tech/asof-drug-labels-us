@@ -15,9 +15,10 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-| TABLE 1 |  |
-| --- | --- |
+TABLE 1
+
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
@@ -38,10 +39,10 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [seeDosage and Administration (2.4)].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4)].
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers [see alsoPatient Counseling Information (17.1)].
+Such monitoring should include daily observation by families and caregivers [see also Patient Counseling Information (17.1)].
 
 Screening Patients for Bipolar Disorder
 
@@ -51,18 +52,23 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that escitalopram oxalate is not approved for use in treating bipolar depression.
 
-## 5.2 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including escitalopram oxalate treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including escitalopram oxalate, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-The concomitant use of escitalopram oxalate with MAOIs intended to treat depression is contraindicated.
-If concomitant treatment of escitalopram oxalate with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination) seizures and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-The concomitant use of escitalopram oxalate with serotonin precursors (such as tryptophan) is not recommended.
-Treatment with escitalopram oxalate and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+The concomitant use of escitalopram oxalate with MAOIs intended to treat psychiatric disorders is contraindicated.
+Escitalopram oxalate should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking escitalopram oxalate.
+Escitalopram oxalate should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.5 and 2.6)].
+
+If concomitant use of escitalopram oxalate with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+
+Treatment with escitalopram oxalate and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Discontinuation of Treatment with Escitalopram Oxalate
 
@@ -72,7 +78,7 @@ While these events are generally self-limiting, there have been reports of serio
 Patients should be monitored for these symptoms when discontinuing treatment with escitalopram oxalate.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate [seeDosage and Administration (2.4)].
+Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.4)].
 
 ## 5.4 Seizures
 
@@ -94,10 +100,10 @@ Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including 
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH), and was reversible when escitalopram oxalate was discontinued.
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
-Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk [seeGeriatric Use (8.5)].
+Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk [see Geriatric Use (8.5)].
 Discontinuation of escitalopram oxalate should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
-Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
 ## 5.7 Abnormal Bleeding
@@ -123,18 +129,7 @@ Escitalopram oxalate has not been systematically evaluated in patients with a re
 Patients with these diagnoses were generally excluded from clinical studies during the product's premarketing testing.
 
 In subjects with hepatic impairment, clearance of racemic citalopram was decreased and plasma concentrations were increased.
-The recommended dose of escitalopram oxalate in hepatically impaired patients is 10 mg/day [seeDosage and Administration (2.3)].
+The recommended dose of escitalopram oxalate in hepatically impaired patients is 10 mg/day [see Dosage and Administration (2.3)].
 
 Because escitalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
-Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with escitalopram oxalate, however, it should be used with caution in such patients [seeDosage and Administration (2.3)].
-
-## 5.10 Potential for Interaction with Monoamine Oxidase Inhibitors
-
-In patients receiving serotonin reuptake inhibitor drugs in combination with a monoamine oxidase inhibitor (MAOI), there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
-These reactions have also been reported in patients who have recently discontinued SSRI treatment and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Furthermore, limited animal data on the effects of combined use of SSRIs and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that escitalopram oxalate should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
-Similarly, at least 14 days should be allowed after stopping escitalopram oxalate before starting an MAOI.
-
-Serotonin syndrome has been reported in two patients who were concomitantly receiving linezolid, an antibiotic which is a reversible non-selective MAOI.
+Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with escitalopram oxalate, however, it should be used with caution in such patients [see Dosage and Administration (2.3)].

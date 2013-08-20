@@ -1,26 +1,25 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Serotonergic Drugs
+## 7.1 Monoamine Oxidase Inhibitors (MAOIs)
 
-Based on the mechanism of action of SNRIs and SSRIs including escitalopram oxalate, and the potential for serotonin syndrome, caution is advised when escitalopram oxalate is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort [seeWarnings and Precautions (5.2)].
-The concomitant use of escitalopram oxalate with other SSRIs, SNRIs or tryptophan is not recommended.
+[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
 
-## 7.2 Triptans
+## 7.2 Serotonergic Drugs
+
+[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
+
+## 7.3 Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of escitalopram oxalate with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [seeWarnings and Precautions (5.2)].
+If concomitant treatment of escitalopram oxalate with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.2)].
 
-## 7.3 CNS Drugs
+## 7.4 CNS Drugs
 
 Given the primary CNS effects of escitalopram, caution should be used when it is taken in combination with other centrally acting drugs.
 
-## 7.4 Alcohol
+## 7.5 Alcohol
 
 Although escitalopram oxalate did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking escitalopram oxalate is not recommended.
-
-## 7.5 Monoamine Oxidase Inhibitors (MAOIs)
-
-[seeContraindications (4.1)andWarnings and Precautions (5.10)].
 
 ## 7.6 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
@@ -91,7 +90,7 @@ Because escitalopram is metabolized by multiple enzyme systems, inhibition of a 
 ## 7.19 Drugs Metabolized by Cytochrome P4502D6
 
 In vitro studies did not reveal an inhibitory effect of escitalopram on CYP2D6.
-In addition, steady state levels of racemic citalopram were not significantly different in poor metabolizers and extensive CYP2D6 metabolizers after multiple-dose administration of citalopram, suggesting that coadministration, with escitalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on escitalopram metabolism.
+In addition, steady-state levels of racemic citalopram were not significantly different in poor metabolizers and extensive CYP2D6 metabolizers after multiple-dose administration of citalopram, suggesting that coadministration, with escitalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on escitalopram metabolism.
 However, there are limited in vivo data suggesting a modest CYP2D6 inhibitory effect for escitalopram, i.e., coadministration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in Cmax and a 100% increase in AUC of desipramine.
 The clinical significance of this finding is unknown.
 Nevertheless, caution is indicated in the coadministration of escitalopram and drugs metabolized by CYP2D6.

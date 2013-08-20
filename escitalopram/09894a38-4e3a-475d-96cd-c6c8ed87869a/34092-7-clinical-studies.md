@@ -2,8 +2,18 @@
 
 ## 14.1 Major Depressive Disorder
 
-Information related to clinical studies of Escitalopram Oxalate in adolescents is approved for Forest Laboratories, Inc.’s Escitalopram Oxalate Oral Solution.
-However, due to Forest Laboratories, Inc.’s marketing exclusivity rights, this drug product is not labeled with that adolescent clinical studies information.
+Adolescents
+
+The efficacy of escitalopram oxalate as an acute treatment for major depressive disorder in adolescent patients was established in an 8-week, flexible-dose, placebo-controlled study that compared escitalopram oxalate 10 to 20 mg/day to placebo in outpatients 12 to 17 years of age inclusive who met DSM-IV criteria for major depressive disorder.
+The primary outcome was change from baseline to endpoint in the Children's Depression Rating Scale - Revised (CDRS-R).
+In this study, escitalopram oxalate showed statistically significant greater mean improvement compared to placebo on the CDRS-R.
+
+The efficacy of escitalopram oxalate in the acute treatment of major depressive disorder in adolescents was established, in part, on the basis of extrapolation from the 8-week, flexible-dose, placebo-controlled study with racemic citalopram 20 to 40 mg/day.
+In this outpatient study in children and adolescents 7 to 17 years of age who met DSM-IV criteria for major depressive disorder, citalopram treatment showed statistically significant greater mean improvement from baseline, compared to placebo, on the CDRS-R; the positive results for this trial largely came from the adolescent subgroup.
+
+Two additional flexible-dose, placebo-controlled MDD studies (one escitalopram oxalate study in patients ages 7 to 17 and one citalopram study in adolescents) did not demonstrate efficacy.
+
+Although maintenance efficacy in adolescent patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of escitalopram pharmacokinetic parameters in adults and adolescent patients.
 
 Adults
 
@@ -11,12 +21,12 @@ The efficacy of escitalopram oxalate as a treatment for major depressive disorde
 The primary outcome in all three studies was change from baseline to endpoint in the Montgomery Asberg Depression Rating Scale (MADRS).
 
 A fixed-dose study compared 10 mg/day escitalopram oxalate and 20 mg/day escitalopram oxalate to placebo and 40 mg/day citalopram.
-The 10 mg/day and 20 mg/dayescitalopram oxalate treatment groups showed statistically significant greater mean improvement compared to placebo on the MADRS.
+The 10 mg/day and 20 mg/day escitalopram oxalate treatment groups showed statistically significant greater mean improvement compared to placebo on the MADRS.
 The 10 mg and 20 mg escitalopram oxalate groups were similar on this outcome measure.
 
 In a second fixed-dose study of 10 mg/day escitalopram oxalate and placebo, the 10 mg/day escitalopram oxalate treatment group showed statistically significant greater mean improvement compared to placebo on the MADRS.
 
-In a flexible-dose study, comparing escitalopram oxalate, titrated between 10 and 20 mg/day, to placebo and citalopram, titrated between 20 and 40 mg/day, theescitalopram oxalate treatment group showed statistically significant greater mean improvement compared to placebo on the MADRS.
+In a flexible-dose study, comparing escitalopram oxalate, titrated between 10 and 20 mg/day, to placebo and citalopram, titrated between 20 and 40 mg/day, the escitalopram oxalate treatment group showed statistically significant greater mean improvement compared to placebo on the MADRS.
 
 Analyses of the relationship between treatment outcome and age, gender, and race did not suggest any differential responsiveness on the basis of these patient characteristics.
 

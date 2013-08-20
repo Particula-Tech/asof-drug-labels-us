@@ -31,20 +31,22 @@ There are no adequate and well-controlled studies in pregnant women; therefore, 
 
 Pregnancy-Nonteratogenic Effects
 
-Neonates exposed to escitalopram oxalate and other SSRIs or SNRIs, late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Neonates exposed to escitalopram oxalate and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support and tube feeding.
 Such complications can arise immediately upon delivery.
-Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
+Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [seeWarnings and Precautions (5.2)].
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
 
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1—2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective, case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including escitalopram oxalate) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
 
-When treating a pregnant woman with escitalopram oxalate during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment [seeDosage and Administration (2.1)].
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+
+When treating a pregnant woman with escitalopram oxalate, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
+This decision can only be made on a case by case basis [see Dosage and Administration (2.1)].
 
 ## 8.2 Labor and Delivery
 
@@ -60,9 +62,8 @@ Caution should be exercised and breastfeeding infants should be observed for adv
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of escitalopram oxalate has not been established in pediatric patients (less than 12 years of age) with Major Depressive Disorder.
-
-Information related to usage of Escitalopram Oxalate in adolescents is approved for Forest Laboratories, Inc.’s Escitalopram Oxalate Oral Solution.
-However, due to Forest Laboratories, Inc.’s marketing exclusivity rights, this drug product is not labeled with that adolescent usage information.
+Safety and effectiveness of escitalopram oxalate has been established in adolescents (12 to 17 years of age) for the treatment of major depressive disorder [see Clinical Studies (14.1)].
+Although maintenance efficacy in adolescent patients with Major Depressive Disorder has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of escitalopram pharmacokinetic parameters in adults and adolescent patients.
 
 Safety and effectiveness of escitalopram oxalate has not been established in pediatric patients less than 18 years of age with Generalized Anxiety Disorder.
 
@@ -75,10 +76,10 @@ Approximately 6% of the 1144 patients receiving escitalopram in controlled trial
 The number of elderly patients in these trials was insufficient to adequately assess for possible differential efficacy and safety measures on the basis of age.
 Nevertheless, greater sensitivity of some elderly individuals to effects of escitalopram oxalate cannot be ruled out.
 
-SSRIs and SNRIs, including escitalopram oxalate, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [seeHyponatremia (5.6)].
+SSRIs and SNRIs, including escitalopram oxalate, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Hyponatremia (5.6)].
 
-In two pharmacokinetic studies, escitalopram half-life was increased by approximately 50% in elderly subjects as compared to young subjects and Cmax was unchanged [seeClinical Pharmacology (12.3)].
-10 mg/day is the recommended dose for elderly patients [seeDosage and Administration (2.3)].
+In two pharmacokinetic studies, escitalopram half-life was increased by approximately 50% in elderly subjects as compared to young subjects and Cmax was unchanged [see Clinical Pharmacology (12.3)].
+10 mg/day is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
 
 Of 4422 patients in clinical studies of racemic citalopram, 1357 were 60 and over, 1034 were 65 and over, and 457 were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but again, greater sensitivity of some elderly individuals cannot be ruled out.

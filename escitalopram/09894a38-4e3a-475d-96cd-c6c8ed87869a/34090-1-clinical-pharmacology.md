@@ -17,8 +17,8 @@ Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypot
 
 The single- and multiple-dose pharmacokinetics of escitalopram are linear and dose-proportional in a dose range of 10 to 30 mg/day.
 Biotransformation of escitalopram is mainly hepatic, with a mean terminal half-life of about 27 to 32 hours.
-With once-daily dosing, steady state plasma concentrations are achieved within approximately one week.
-At steady state, the extent of accumulation of escitalopram in plasma in young healthy subjects was 2.2 to 2.5 times the plasma concentrations observed after a single dose.
+With once-daily dosing, steady-state plasma concentrations are achieved within approximately one week.
+At steady-state, the extent of accumulation of escitalopram in plasma in young healthy subjects was 2.2 to 2.5 times the plasma concentrations observed after a single dose.
 The tablet and the oral solution dosage forms of escitalopram oxalate are bioequivalent.
 
 Absorption and Distribution
@@ -38,7 +38,7 @@ The oral clearance of escitalopram is 600 mL/min, with approximately 7% of that 
 
 Escitalopram is metabolized to S-DCT and S-didemethylcitalopram (S-DDCT).
 In humans, unchanged escitalopram is the predominant compound in plasma.
-At steady state, the concentration of the escitalopram metabolite S-DCT in plasma is approximately one-third that of escitalopram.
+At steady-state, the concentration of the escitalopram metabolite S-DCT in plasma is approximately one-third that of escitalopram.
 The level of S-DDCT was not detectable in most subjects.
 In vitro studies show that escitalopram is at least 7 and 27 times more potent than S-DCT and S-DDCT, respectively, in the inhibition of serotonin reuptake, suggesting that the metabolites of escitalopram do not contribute significantly to the antidepressant actions of escitalopram.
 S-DCT and S-DDCT also have no or very low affinity for serotonergic (5-HT1-7) or other receptors including alpha- and beta-adrenergic, dopamine (D1-5), histamine (H1-3), muscarinic (M1-5), and benzodiazepine receptors.
@@ -50,17 +50,18 @@ Population Subgroups
 
 Age
 
-Information related to pharmacokinetics of Escitalopram Oxalate in adolescents is approved for Forest Laboratories, Inc.’s Escitalopram Oxalate Oral Solution.
-However, due to Forest Laboratories, Inc.’s marketing exclusivity rights, this drug product is not labeled with that adolescent pharmacokinetics information.
+Adolescents - In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and Cmax increased by 26% in healthy adolescent subjects (12 to 17 years of age) compared to adults.
+Following multiple dosing of 40 mg/day citalopram, escitalopram elimination half-life, steady-state Cmax and AUC were similar in patients with MDD (12 to 17 years of age) compared to adult patients.
+No adjustment of dosage is needed in adolescent patients.
 
 Elderly - Escitalopram pharmacokinetics in subjects ≥ 65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
 Escitalopram AUC and half-life were increased by approximately 50% in elderly subjects, and Cmax was unchanged.
-10 mg is the recommended dose for elderly patients [seeDosage and Administration (2.3)].
+10 mg is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
 
-Gender - Based on data from single- and multiple-dose studies measuring escitalopram in elderly and young adults, no dosage adjustment on the basis of gender is needed.
+Gender - Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults and adolescents, no dosage adjustment on the basis of gender is needed.
 
 Reduced hepatic function - Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects.
-10 mg is the recommended dose of escitalopram for most hepatically impaired patients [seeDosage and Administration (2.3)].
+10 mg is the recommended dose of escitalopram for most hepatically impaired patients [see Dosage and Administration (2.3)].
 
 Reduced renal function - In patients with mild to moderate renal function impairment, oral clearance of citalopram was reduced by 17% compared to normal subjects.
 No adjustment of dosage for such patients is recommended.
