@@ -32,7 +32,6 @@ Spironolactone tablets 100 mg, white, oval shape, film coated, scored, debossed 
 | Bottles of 1000 | NDC 53489-329-10 |
 
 Store at 20° to 25°C (68° to 77°F).
-
 [See USP Controlled Room Temperature]
 
 DISPENSE IN TIGHT, LIGHT-RESISTANT CONTAINER.

@@ -1,24 +1,35 @@
 # WARNINGS
 
-## Potassium supplementation
-
+Potassium supplementation.
 Potassium supplementation, either in the form of medication or as a diet rich in potassium, should not ordinarily be given in association with spironolactone therapy.
-
 Excessive potassium intake may cause hyperkalemia in patients receiving spironolactone (see Precautions: General).
+
+Concomitant administration of spironolactone with the following drugs or potassium sources may lead to severe hyperkalemia:
+
+- other potassium-sparing diuretics
+- ACE inhibitors
+- angiotensin II antagonists
+- aldosterone blockers
+- non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin
+- heparin and low molecular weight heparin
+- other drugs known to cause hyperkalemia
+- potassium supplements
+- diet rich in potassium
+- salt substitutes containing potassium
+
 Spironolactone should not be administered concurrently with other potassium-sparing diuretics.
 Spironolactone, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia.
 Extreme caution should be exercised when spironolactone is given concomitantly with these drugs.
 
-## Hyperkalemia in patients with severe heart failure
-
+Hyperkalemia in patients with severe heart failure.
 Hyperkalemia may be fatal.
 It is critical to monitor and manage serum potassium in patients with severe heart failure receiving spironolactone.
 Avoid using other potassium-sparing diuretics.
-Avoid using oral potassium supplements in patients with serum potassium > 3.5 mEq/L.
-Randomized Spironolactone Evaluation Study excluded patients with a serum creatinine > 2.5 mg/dL or a recent increase in serum creatinine > 25%.
+Avoid using oral potassium supplements in patients with serum potassium >3.5 mEq/L.
+Randomized Spironolactone Evaluation Study excluded patients with a serum creatinine >2.5 mg/dL or a recent increase in serum creatinine >25%.
 The recommended monitoring for potassium and creatinine is one week after initiation or increase in dose of spironolactone, monthly for the first 3 months, then quarterly for a year, and then every 6 months.
-Discontinue or interrupt treatment for serum potassium > 5 mEq/L or for serum creatinine > 4 mg/dL.
-(See CLINICAL STUDIES, Severe heart failure, and DOSAGE AND ADMINISTRATION, Severe heart failure.)
+Discontinue or interrupt treatment for serum potassium >5 mEq/L or for serum creatinine >4 mg/dL.
+(See Clinical Studies: Severe heart failure, and Dosage and Administration: Severe heart failure.)
 
 Spironolactone should be used with caution in patients with impaired hepatic function because minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
 
@@ -26,16 +37,12 @@ Lithium generally should not be given with diuretics (see Precautions: Drug inte
 
 # PRECAUTIONS
 
-## General
-
-All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance, e.g., hypomagnesemia, hyponatremia, hypochloremic alkalosis, and hyperkalemia.
+General: All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance, e.g., hypomagnesemia, hyponatremia, hypochloremic alkalosis, and hyperkalemia.
 
 Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids.
 Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of the mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
 Hyperkalemia may occur in patients with impaired renal function or excessive potassium intake and can cause cardiac irregularities, which may be fatal.
 Consequently, no potassium supplement should ordinarily be given with spironolactone.
-
-Concomitant administration of potassium-sparing diuretics and ACE inhibitors or nonsteroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin, has been associated with severe hyperkalemia.
 
 If hyperkalemia is suspected (warning signs include paresthesia, muscle weakness, fatigue, flaccid paralysis of the extremities, bradycardia, and shock), an electrocardiogram (ECG) should be obtained.
 However, it is important to monitor serum potassium levels because mild hyperkalemia may not be associated with ECG changes.
@@ -58,62 +65,45 @@ Gynecomastia may develop in association with the use of spironolactone; physicia
 The development of gynecomastia appears to be related to both dosage level and duration of therapy and is normally reversible when spironolactone is discontinued.
 In rare instances, some breast enlargement may persist when spironolactone is discontinued.
 
-## Information for patients
+Somnolence and dizziness have been reported to occur in some patients.
+Caution is advised when driving or operating machinery until the response to initial treatment has been determined.
 
-Patients who receive spironolactone should be advised to avoid potassium supplements and foods containing high levels of potassium, including salt substitutes.
+Information for patients: Patients who receive spironolactone should be advised to avoid potassium supplements and foods containing high levels of potassium, including salt substitutes.
 
-## Laboratory tests
+Laboratory tests: Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be done at appropriate intervals, particularly in the elderly and those with significant renal or hepatic impairments.
 
-Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be done at appropriate intervals, particularly in the elderly and those with significant renal or hepatic impairments.
+Drug interactions:
 
-## Drug interactions
+ACE inhibitors: Concomitant administration of ACE inhibitors with potassium-sparing diuretics has been associated with severe hyperkalemia.
 
-### ACE inhibitors
+Angiotensin II antagonists, aldosterone blockers, heparin, low molecular weight heparin, and other drugs known to cause hyperkalemia: Concomitant administration may lead to severe hyperkalemia.
 
-Concomitant administration of ACE inhibitors with potassium-sparing diuretics has been associated with severe hyperkalemia.
+Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
 
-### Alcohol, barbiturates, or narcotics
+Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia, may occur.
 
-Potentiation of orthostatic hypotension may occur.
-
-### Corticosteroids, ACTH
-
-Intensified electrolyte depletion, particularly hypokalemia, may occur.
-
-### Pressor amines (e.g., norepinephrine)
-
-Spironolactone reduces the vascular responsiveness to norepinephrine.
+Pressor amines (e.g., norepinephrine): Spironolactone reduces the vascular responsiveness to norepinephrine.
 Therefore, caution should be exercised in the management of patients subjected to regional or general anesthesia while they are being treated with spironolactone.
 
-### Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine)
+Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): Possible increased responsiveness to the muscle relaxant may result.
 
-Possible increased responsiveness to the muscle relaxant may result.
-
-### Lithium
-
-Lithium generally should not be given with diuretics.
+Lithium: Lithium generally should not be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 
-### Nonsteroidal anti-inflammatory drugs (NSAIDs)
-
-In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics.
+Nonsteroidal anti-inflammatory drugs (NSAIDs): In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics.
 Combination of NSAIDs, e.g., indomethacin, with potassium-sparing diuretics has been associated with severe hyperkalemia.
 Therefore, when spironolactone and NSAIDs are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
-### Digoxin
-
-Spironolactone has been shown to increase the half-life of digoxin.
+Digoxin: Spironolactone has been shown to increase the half-life of digoxin.
 This may result in increased serum digoxin levels and subsequent digitalis toxicity.
 It may be necessary to reduce the maintenance and digitalization doses when spironolactone is administered, and the patient should be carefully monitored to avoid over- or under-digitalization.
 
-## Drug/Laboratory test interactions
+Cholestyramine: Hyperkalemic metabolic acidosis has been reported in patients given spironolactone concurrently with cholestyramine.
 
-Several reports of possible interference with digoxin radioimmunoassay by spironolactone, or its metabolites, have appeared in the literature.
+Drug/Laboratory test interactions: Several reports of possible interference with digoxin radioimmunoassay by spironolactone, or its metabolites, have appeared in the literature.
 Neither the extent nor the potential clinical significance of its interference (which may be assay-specific) has been fully established.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
-
-Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in rats, with its proliferative effects manifested on endocrine organs and the liver.
+Carcinogenesis, mutagenesis, impairment of fertility: Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in rats, with its proliferative effects manifested on endocrine organs and the liver.
 In an 18-month study using doses of about 50, 150, and 500 mg/kg/day, there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose-related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules).
 In a 24-month study in which the same strain of rat was administered doses of about 10, 30, 100, and 150 mg spironolactone/kg/day, the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumors in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes.
 There was also a statistically significant, but not dose-related, increase in benign uterine endometrial stromal polyps in females.
@@ -131,15 +121,9 @@ When injected into female rats (100 mg/kg/day for 7 days, i.p.), spironolactone 
 These effects were associated with retarded ovarian follicle development and a reduction in circulating estrogen levels, which would be expected to impair mating, fertility, and fecundity.
 Spironolactone (100 mg/kg/day), administered i.p. to female mice during a two-week cohabitation period with untreated males, decreased the number of mated mice that conceived (effect shown to be caused by an inhibition of ovulation) and decreased the number of implanted embryos in those that became pregnant (effect shown to be caused by an inhibition of implantation), and at 200 mg/kg, also increased the latency period to mating.
 
-## Pregnancy
-
-### Teratogenic effects
-
-#### Pregnancy Category C
-
-Teratology studies with spironolactone have been carried out in mice and rabbits at doses of up to 20 mg/kg/day.
+Pregnancy: Teratogenic effects.
+Pregnancy Category C. Teratology studies with spironolactone have been carried out in mice and rabbits at doses of up to 20 mg/kg/day.
 On a body surface area basis, this dose in the mouse is substantially below the maximum recommended human dose and, in the rabbit, approximates the maximum recommended human dose.
-
 No teratogenic or other embryotoxic effects were observed in mice, but the 20 mg/kg dose caused an increased rate of resorption and a lower number of live fetuses in rabbits.
 Because of its antiandrogenic activity and the requirement of testosterone for male morphogenesis, spironolactone may have the potential for adversely affecting sex differentiation of the male during embryogenesis.
 When administered to rats at 200 mg/kg/day between gestation days 13 and 21 (late embryogenesis and fetal development), feminization of male fetuses was observed.
@@ -149,12 +133,8 @@ Spironolactone has known endocrine effects in animals including progestational a
 The antiandrogenic effects can result in apparent estrogenic side effects in humans, such as gynecomastia.
 Therefore, the use of spironolactone in pregnant women requires that the anticipated benefit be weighed against the possible hazards to the fetus.
 
-## Nursing mothers
-
-Canrenone, a major (and active) metabolite of spironolactone, appears in human breast milk.
+Nursing mothers: Canrenone, a major (and active) metabolite of spironolactone, appears in human breast milk.
 Because spironolactone has been found to be tumorigenic in rats, a decision should be made whether to discontinue the drug, taking into account the importance of the drug to the mother.
 If use of the drug is deemed essential, an alternative method of infant feeding should be instituted.
 
-## Pediatric use
-
-Safety and effectiveness in pediatric patients have not been established.
+Pediatric use: Safety and effectiveness in pediatric patients have not been established.

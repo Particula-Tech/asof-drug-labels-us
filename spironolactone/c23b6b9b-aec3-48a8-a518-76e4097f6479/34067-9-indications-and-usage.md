@@ -22,7 +22,7 @@ Spironolactone is indicated for maintenance therapy together with bed rest and t
 
 Nephrotic syndrome: For nephrotic patients when treatment of the underlying disease, restriction of fluid and sodium intake, and the use of other diuretics do not provide an adequate response.
 
-## Essential hypertension
+Essential hypertension
 
 Spironolactone is indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
@@ -48,12 +48,11 @@ Usually in combination with other drugs, spironolactone is indicated for patient
 For the treatment of patients with hypokalemia when other measures are considered inappropriate or inadequate.
 Spironolactone is also indicated for the prophylaxis of hypokalemia in patients taking digitalis when other measures are considered inadequate or inappropriate.
 
-## Severe heart failure (NYHA class III – IV)
+Severe heart failure (NYHA class III – IV)
 
 To increase survival, and to reduce the need for hospitalization for heart failure when used in addition to standard therapy.
 
-## Usage in Pregnancy
-
+Usage in Pregnancy.
 The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard.
 Diuretics do not prevent development of toxemia of pregnancy, and there is no satisfactory evidence that they are useful in the treatment of developing toxemia.
 

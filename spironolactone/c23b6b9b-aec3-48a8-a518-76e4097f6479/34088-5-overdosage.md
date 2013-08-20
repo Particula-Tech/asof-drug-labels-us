@@ -6,9 +6,7 @@ Acute overdosage of spironolactone may be manifested by drowsiness, mental confu
 Rarely, instances of hyponatremia, hyperkalemia, or hepatic coma may occur in patients with severe liver disease, but these are unlikely due to acute overdosage.
 Hyperkalemia may occur, especially in patients with impaired renal function.
 
-## Treatment
-
-Induce vomiting or evacuate the stomach by lavage.
+Treatment: Induce vomiting or evacuate the stomach by lavage.
 There is no specific antidote.
 Treatment is supportive to maintain hydration, electrolyte balance, and vital functions.
 
