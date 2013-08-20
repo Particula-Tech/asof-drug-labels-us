@@ -278,8 +278,8 @@ Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc.
 
 Zyprexa® is a registered trademark of Eli Lilly and Company.
 
-Manufactured In Poland By: PLIVA Krakow Pharmaceutical Company S.A.
-Krakow, Poland
+Manufactured In Czech Republic By: TEVA Czech Industries, s.r.o.
+Opava-Komarov, Czech Republic
 
 Manufactured For: TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
