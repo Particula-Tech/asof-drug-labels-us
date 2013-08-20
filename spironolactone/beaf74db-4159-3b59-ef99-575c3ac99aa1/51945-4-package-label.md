@@ -4,7 +4,7 @@ NDC 0378-2146-01
 
 Spironolactone Tablets, USP 25 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each film-coated tablet contains: Spironolactone, USP 25 mg
 
@@ -23,9 +23,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM2146A11
+RM2146A12
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -33,7 +33,7 @@ NDC 0378-0243-93
 
 Spironolactone Tablets, USP 50 mg
 
-Rx only 30 TABLETS
+Rx only 30 Tablets
 
 Each film-coated tablet contains: Spironolactone, USP 50 mg
 
@@ -52,9 +52,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0243H1
+RM0243H2
 
 PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -62,7 +62,7 @@ NDC 0378-0437-01
 
 Spironolactone Tablets, USP 100 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each film-coated tablet contains: Spironolactone, USP 100 mg
 
@@ -81,6 +81,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0437A2
+RM0437A3

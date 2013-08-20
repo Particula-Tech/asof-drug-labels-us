@@ -3,7 +3,6 @@
 ## Potassium Supplementation
 
 Potassium supplementation, either in the form of medication or as a diet rich in potassium, should not ordinarily be given in association with spironolactone therapy.
-
 Excessive potassium intake may cause hyperkalemia in patients receiving spironolactone (see PRECAUTIONS: General).
 Spironolactone should not be administered concurrently with other potassium-sparing diuretics.
 Spironolactone, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia.
@@ -16,7 +15,7 @@ It is critical to monitor and manage serum potassium in patients with severe hea
 Avoid using other potassium-sparing diuretics.
 Avoid using oral potassium supplements in patients with serum potassium > 3.5 mEq/L.
 The Randomized Spironolactone Evaluation Study excluded patients with a serum creatinine > 2.5 mg/dL or a recent increase in serum creatinine > 25%.
-The recommended monitoring for potassium and creatinine is one week after initiation or increase in dose of spironolactone, monthly for the first 3 months, then quarterly for a year, and then every 6 months.
+The recommended monitoring for potassium and creatinine is one week after initiation or increase in dose of spironolactone, monthly for the first 3 months, then quarterly for a year and then every 6 months.
 Discontinue or interrupt treatment for serum potassium > 5 mEq/L or for serum creatinine > 4 mg/dL.
 (See CLINICAL STUDIES: Severe Heart Failure and DOSAGE AND ADMINISTRATION: Severe Heart Failure.)
 
@@ -28,35 +27,35 @@ Lithium generally should not be given with diuretics (see PRECAUTIONS: Drug Inte
 
 ## General
 
-All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance, e.g., hypomagnesemia, hyponatremia, hypochloremic alkalosis, and hyperkalemia.
+All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance, e.g., hypomagnesemia, hyponatremia, hypochloremic alkalosis and hyperkalemia.
 
 Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids.
-Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of the mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of the mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia and gastrointestinal disturbances such as nausea and vomiting.
 Hyperkalemia may occur in patients with impaired renal function or excessive potassium intake and can cause cardiac irregularities, which may be fatal.
 Consequently, no potassium supplement should ordinarily be given with spironolactone.
 
-Concomitant administration of potassium-sparing diuretics and ACE inhibitors or nonsteroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin, has been associated with severe hyperkalemia.
+Concomitant administration of potassium-sparing diuretics and ACE inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin, has been associated with severe hyperkalemia.
 
-If hyperkalemia is suspected (warning signs include paresthesia, muscle weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock) an electrocardiogram (ECG) should be obtained.
+If hyperkalemia is suspected (warning signs include paresthesia, muscle weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock), an electrocardiogram (ECG) should be obtained.
 However, it is important to monitor serum potassium levels because mild hyperkalemia may not be associated with ECG changes.
 
 If hyperkalemia is present, spironolactone should be discontinued immediately.
 With severe hyperkalemia, the clinical situation dictates the procedures to be employed.
-These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
+These may include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
 These are temporary measures to be repeated as required.
 Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered.
 Persistent hyperkalemia may require dialysis.
 
 Reversible hyperchloremic metabolic acidosis, usually in association with hyperkalemia, has been reported to occur in some patients with decompensated hepatic cirrhosis, even in the presence of normal renal function.
 
-Dilutional hyponatremia, manifested by dryness of the mouth, thirst, lethargy, and drowsiness, and confirmed by a low serum sodium level, may be caused or aggravated, especially when spironolactone is administered in combination with other diuretics, and dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction rather than administration of sodium, except in rare instances when the hyponatremia is life threatening.
+Dilutional hyponatremia, manifested by dryness of the mouth, thirst, lethargy and drowsiness, and confirmed by a low serum sodium level, may be caused or aggravated, especially when spironolactone is administered in combination with other diuretics, and dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction rather than administration of sodium, except in rare instances when the hyponatremia is life threatening.
 
 Spironolactone therapy may cause a transient elevation of BUN, especially in patients with preexisting renal impairment.
 Spironolactone may cause mild acidosis.
 
 Gynecomastia may develop in association with the use of spironolactone; physicians should be alert to its possible onset.
 The development of gynecomastia appears to be related to both dosage level and duration of therapy and is normally reversible when spironolactone is discontinued.
-In rare instances some breast enlargement may persist when spironolactone is discontinued.
+In rare instances, some breast enlargement may persist when spironolactone is discontinued.
 
 ## Information for Patients
 
@@ -72,7 +71,7 @@ Periodic determination of serum electrolytes to detect possible electrolyte imba
 
 Concomitant administration of ACE inhibitors with potassium-sparing diuretics has been associated with severe hyperkalemia.
 
-### Alcohol, Barbiturates, or Narcotics
+### Alcohol, Barbiturates or Narcotics
 
 Potentiation of orthostatic hypotension may occur.
 
@@ -94,9 +93,9 @@ Possible increased responsiveness to the muscle relaxant may result.
 Lithium generally should not be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 
-### Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+### Non-steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing and thiazide diuretics.
+In some patients, the administration of an NSAID can reduce the diuretic, natriuretic and antihypertensive effect of loop, potassium-sparing and thiazide diuretics.
 Combination of NSAIDs, e.g., indomethacin, with potassium-sparing diuretics has been associated with severe hyperkalemia.
 Therefore, when spironolactone and NSAIDs are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
@@ -104,18 +103,18 @@ Therefore, when spironolactone and NSAIDs are used concomitantly, the patient sh
 
 Spironolactone has been shown to increase the half-life of digoxin.
 This may result in increased serum digoxin levels and subsequent digitalis toxicity.
-It may be necessary to reduce the maintenance and digitalization doses when spironolactone is administered, and the patient should be carefully monitored to avoid over- or underdigitalization.
+It may be necessary to reduce the maintenance and digitalization doses when spironolactone is administered, and the patient should be carefully monitored to avoid over- or under digitalization.
 
 ## Drug/Laboratory Test Interactions
 
-Several reports of possible interference with digoxin radioimmunoassays by spironolactone or its metabolites have appeared in the literature.
+Several reports of possible interference with digoxin radioimmunoassays by spironolactone, or its metabolites, have appeared in the literature.
 Neither the extent nor the potential clinical significance of its interference (which may be assay-specific) has been fully established.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in rats, with its proliferative effects manifested on endocrine organs and the liver.
 In an 18-month study using doses of about 50, 150 and 500 mg/kg/day, there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules).
-In a 24-month study in which the same strain of rat was administered doses of about 10, 30, 100 and 150 mg spironolactone/kg/day, the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumors in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes.
+In a 24-month study in which the same strain of rat was administered doses of about 10 mg, 30 mg, 100 mg and 150 mg spironolactone/kg/day, the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumors in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes.
 There was also a statistically significant, but not dose related, increase in benign uterine endometrial stromal polyps in females.
 
 A dose related (above 20 mg/kg/day) incidence of myelocytic leukemia was observed in rats fed daily doses of potassium canrenoate (a compound chemically similar to spironolactone and whose primary metabolite, canrenone, is also a major product of spironolactone in man) for a period of one year.
@@ -126,8 +125,8 @@ In the absence of metabolic activation, neither spironolactone nor potassium can
 In the presence of metabolic activation, spironolactone has been reported to be negative in some mammalian mutagenicity tests in vitro and inconclusive (but slightly positive) for mutagenicity in other mammalian tests in vitro.
 In the presence of metabolic activation, potassium canrenoate has been reported to test positive for mutagenicity in some mammalian tests in vitro, inconclusive in others, and negative in still others.
 
-In a three-litter reproduction study in which female rats received dietary doses of 15 and 50 mg spironolactone/kg/day, there were no effects on mating and fertility, but there was a small increase in incidence of stillborn pups at 50 mg/kg/day.
-When injected into female rats (100 mg/kg/day for 7 days, i.p.), spironolactone was found to increase the length of the estrous cycle by prolonging diestrus during treatment and inducing constant diestrus during a 2-week posttreatment observation period.
+In a three-litter reproduction study in which female rats received dietary doses of 15 mg and 50 mg spironolactone/kg/day, there were no effects on mating and fertility, but there was a small increase in incidence of stillborn pups at 50 mg/kg/day.
+When injected into female rats (100 mg/kg/day for 7 days, i.p.), spironolactone was found to increase the length of the estrous cycle by prolonging diestrus during treatment and inducing constant diestrus during a 2-week post-treatment observation period.
 These effects were associated with retarded ovarian follicle development and a reduction in circulating estrogen levels, which would be expected to impair mating, fertility and fecundity.
 Spironolactone (100 mg/kg/day), administered i.p. to female mice during a 2-week cohabitation period with untreated males, decreased the number of mated mice that conceived (effect shown to be caused by an inhibition of ovulation) and decreased the number of implanted embryos in those that became pregnant (effect shown to be caused by an inhibition of implantation), and at 200 mg/kg, also increased the latency period to mating.
 

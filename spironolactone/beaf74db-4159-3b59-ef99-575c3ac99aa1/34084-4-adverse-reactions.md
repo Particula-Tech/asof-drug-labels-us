@@ -18,3 +18,5 @@ Nervous System/Psychiatric: Mental confusion, ataxia, headache, drowsiness, leth
 Liver/Biliary: A very few cases of mixed cholestatic/hepatocellular toxicity, with one reported fatality, have been reported with spironolactone administration.
 
 Renal: Renal dysfunction (including renal failure).
+
+Skin: Stevens-Johnson Syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS).
