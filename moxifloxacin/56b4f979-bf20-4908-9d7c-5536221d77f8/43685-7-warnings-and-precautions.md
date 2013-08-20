@@ -91,8 +91,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.8 Peripheral Neuropathy
 
-Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones including AVELOX.
-AVELOX should be discontinued if the patient experiences symptoms of neuropathy in order to prevent the development of an irreversible condition [see Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17.3)].
+Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones including AVELOX.
+Symptoms may occur soon after initiation of AVELOX and may be irreversible.
+AVELOX should be discontinued immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation [see Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17.3)].
 
 ## 5.9 Arthropathic Effects in Animals
 

@@ -23,18 +23,18 @@ Tendon rupture or swelling of the tendon (tendinitis).
 - •Tendon problems can happen in people of all ages who take AVELOX.
   Tendons are tough cords of tissue that connect muscles to bones.
   Symptoms of tendon problems may include:
-  - ∘Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+  - •Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 - •The risk of getting tendon problems while you take AVELOX is higher if you:
-  - ∘Are over 60 years of age
-  - ∘Are taking steroids (corticosteroids)
-  - ∘Have had a kidney, heart or lung transplant
+  - •Are over 60 years of age
+  - •Are taking steroids (corticosteroids)
+  - •Have had a kidney, heart or lung transplant
 
 Tendon problems can happen in people who do not have the above risk factors when they take AVELOX.
 
 - •Other reasons that can increase your risk of tendon problems can include:
-  - ∘Physical activity or exercise
-  - ∘Kidney failure
-  - ∘Tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+  - •Physical activity or exercise
+  - •Kidney failure
+  - •Tendon problems in the past, such as in people with rheumatoid arthritis (RA)
 - •Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
   Stop taking AVELOX until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
@@ -45,9 +45,9 @@ Tendon problems can happen in people who do not have the above risk factors when
 - •Tendon rupture can happen while you are taking or after you have finished taking AVELOX.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
 - •Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-  - ∘Hear or feel a snap or pop in a tendon area
-  - ∘Bruising right after an injury in a tendon area
-  - ∘Unable to move the affected area or bear weight
+  - •Hear or feel a snap or pop in a tendon area
+  - •Bruising right after an injury in a tendon area
+  - •Unable to move the affected area or bear weight
 
 2.
 Worsening of myasthenia gravis (a disease which causes muscle weakness).
@@ -133,8 +133,8 @@ How should I take AVELOX?
 - •Drink plenty of fluids while taking AVELOX.
 - •AVELOX IV is given to you by intravenous (IV) infusion into your vein slowly, over 60 minutes, as prescribed by your healthcare provider.
 - •Do not skip any doses, or stop taking AVELOX even if you begin to feel better, until you finish your prescribed treatment, unless:
-  - ∘You have tendon effects (see “What is the most important information I should know about AVELOX?”).
-  - ∘You have a serious allergic reaction (see “What are the possible side effects of AVELOX?”), or your healthcare provider tells you to stop.
+  - •You have tendon effects (see “What is the most important information I should know about AVELOX?”).
+  - •You have a serious allergic reaction (see “What are the possible side effects of AVELOX?”), or your healthcare provider tells you to stop.
 - •This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to AVELOX.
   If this happens, AVELOX and other antibiotic medicines may not work in the future.
 - •If you miss a dose of AVELOX, take it as soon as you remember.
@@ -218,10 +218,10 @@ Call your healthcare provider right away if you get watery diarrhea, diarrhea th
 You may have stomach cramps and a fever.
 Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
-- • Changes in sensation and possible nerve damage (Peripheral Neuropathy)
+- • Changes in sensation and nerve damage (Peripheral Neuropathy)
 
 Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including AVELOX.
-Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+Stop AVELOX and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
 
 - •Pain
 - •Burning
@@ -229,7 +229,7 @@ Talk with your healthcare provider right away if you get any of the following sy
 - •Numbness
 - •Weakness
 
-AVELOX may need to be stopped to prevent permanent nerve damage.
+The nerve damage may be permanent.
 
 - •Sensitivity to sunlight (photosensitivity)
 
@@ -267,13 +267,13 @@ For more information go to www.AVELOX.com or call 1-800-526-4099.
 What are the ingredients in AVELOX?
 
 - • AVELOX Tablets:
-  - ∘Active ingredient: moxifloxacin hydrochloride
-  - ∘Inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and ferric oxide
+  - •Active ingredient: moxifloxacin hydrochloride
+  - •Inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and ferric oxide
 - • AVELOX IV:
-  - ∘Active ingredient: moxifloxacin hydrochloride
-  - ∘Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
+  - •Active ingredient: moxifloxacin hydrochloride
+  - •Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
 
-Revised August 2012
+Revised August 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -289,4 +289,4 @@ Rx Only
 
 ©2012 Bayer HealthCare Pharmaceuticals Inc.
 
-83680831, R.3
+83680831, R.4

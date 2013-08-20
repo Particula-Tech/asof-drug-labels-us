@@ -24,7 +24,6 @@ To assure safe and effective use of AVELOX, patients should be informed of the f
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - •Exacerbation of Myasthenia Gravis: fluoroquinolones like AVELOX may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
   Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
-
 - •Prolongation of the QT interval: AVELOX may produce changes in the electrocardiogram (QTc interval prolongation).
   AVELOX should be avoided in patients receiving Class IA (for example quinidine, procainamide) or Class III (for example amiodarone, sotalol) antiarrhythmic agents.
   AVELOX may add to the QTc prolonging effects of other drugs such as cisapride, erythromycin, antipsychotics, and tricyclic antidepressants.
@@ -37,7 +36,9 @@ To assure safe and effective use of AVELOX, patients should be informed of the f
 - •Neurologic Adverse Effects (for example, dizziness, lightheadedness): AVELOX may cause dizziness, lightheadedness and vision disorders; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
 - •Psychotic Reaction:Psychotic reactions sometimes resulting in self-injurious behavior have been reported in patients receiving quinolones.
   Patients should notify their physician if they have a history of psychiatric illness before taking AVELOX.
-- •Peripheral Neuropathies: If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should discontinue AVELOX and contact their physician.
+- •Peripheral Neuropathies: Patients should be informed that peripheral neuropathy has been associated with AVELOX use.
+  Symptoms may occur soon after initiation of therapy and may be irreversible.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should immediately discontinue AVELOX and contact their physician.
 - •Photosensitivity/Phototoxicity: Patients should be informed that photosensitivity/phototoxicity has been reported in patients receiving quinolones.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
