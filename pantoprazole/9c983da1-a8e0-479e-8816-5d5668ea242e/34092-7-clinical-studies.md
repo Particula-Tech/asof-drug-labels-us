@@ -44,8 +44,12 @@ For the 40 mg treatment group, significantly greater healing rates compared to n
 A significantly greater proportion of the patients in the pantoprazole treatment groups experienced complete relief of nighttime heartburn and regurgitation, starting on the first day and of daytime heartburn on the second day, compared with those taking nizatidine 150 mg twice daily.
 Patients taking pantoprazole consumed significantly fewer antacid tablets per day than those taking nizatidine.
 
-Clinical study information in pediatric patients ages five years through 16 years with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.’s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients Ages 5 Years through 16 Years
+
+The efficacy of pantoprazole in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well-conducted trials in adults, as the pathophysiology is thought to be the same.
+Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
+Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (20 mg or 40 mg).
+All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
 

@@ -1,6 +1,4 @@
-PATIENT INFORMATION
-
-(MEDICATION GUIDE)
+MEDICATION GUIDE
 
 Pantoprazole sodium delayed-release tablets, USP
 
@@ -15,13 +13,16 @@ Talk with your doctor.
 
 Pantoprazole sodium delayed-release tablets can cause serious side effects, including:
 
-- Diarrhea.
-  Pantoprazole sodium delayed-release tablets may increase your risk of getting severe diarrhea.
-  This diarrhea may be caused by an infection (Clostridiumdifficile) in your intestines.Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
-- Bone fractures.
-  People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
-  You should take pantoprazole sodium delayed-release tablets exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
-  Talk to your doctor about your risk of bone fracture if you take pantoprazole sodium delayed-release tablets.
+• Diarrhea.
+Pantoprazole sodium delayed-release tablets may increase your risk of getting severe diarrhea.
+This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
+
+Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
+
+• Bone fractures.
+People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
+You should take pantoprazole sodium delayed-release tablets exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
+Talk to your doctor about your risk of bone fracture if you take pantoprazole sodium delayed-release tablets.
 
 Pantoprazole sodium delayed-release tablets can have other serious side effects.
 See "What are the possible side effects of pantoprazole sodium delayed-release tablets?"
@@ -46,8 +47,7 @@ This may cause a burning feeling in your chest or throat, sour taste, or burping
 • for the long-term treatment of conditions where your stomach makes too much acid.
 This includes a rare condition called Zollinger-Ellison syndrome.
 
-Information describing use in pediatric patients ages five years through 16 years old with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.'s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pantoprazole sodium delayed-release tablets are used in children 5 years of age and older for up to 8 weeks to heal acid-related damage to the lining of the esophagus (erosive esophagitis or EE) caused by GERD.
 
 It is not known if pantoprazole sodium delayed-release tablets are safe if used longer than 8 weeks in children.
 Pantoprazole sodium delayed-release tablets are not for use in children under 5 years of age.
@@ -237,4 +237,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8038427 Revised November 2012
+8042296 Revised July 2013

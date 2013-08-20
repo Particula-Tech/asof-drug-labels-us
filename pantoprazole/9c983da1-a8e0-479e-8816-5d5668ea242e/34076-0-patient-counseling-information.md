@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Medication Guide).
+See FDA-Approved Medication Guide.
 
 - Caution patients that pantoprazole sodium delayed-release tablets should not be split, crushed, or chewed.
 - Tell patients that pantoprazole sodium delayed-release tablets should be swallowed whole, with or without food in the stomach.
@@ -11,3 +11,14 @@ See FDA-Approved Patient Labeling (Medication Guide).
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.torrentpharma.com
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
+Mehsana, INDIA.
+
+For:
+
+TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+
+8042295 Revised July 2013

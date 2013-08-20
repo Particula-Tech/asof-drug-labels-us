@@ -97,8 +97,34 @@ No dosage adjustment is recommended based on age.
 
 Pediatric
 
-Pharmacokinetic information in pediatric patients is approved for Wyeth Pharmaceuticals Inc.'s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open-label clinical trials in pediatric patients with presumed/proven GERD.
+Pantoprazole delayed-release tablets were studied in children older than 5 years.
+
+In a population PK analysis, total clearance increased with increasing bodyweight in a non-linear fashion.
+The total clearance also increased with increasing age only in children under 3 years of age.
+
+Neonate through 5 years of age
+
+See Use in Specific Populations (8.4).
+
+Children and Adolescents 6 through 16 Years of Age
+
+The pharmacokinetics of pantoprazole sodium delayed-release tablets were evaluated in children ages 6 through 16 years with a clinical diagnosis of GERD.
+The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
+The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 6).
+
+Table 6: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg pantoprazole sodium delayed-release tablets
+
+|  | 6-11 years (n=12) | 12-16 years (n=11) |
+| --- | --- | --- |
+| Cmax (μg/mL)ª | 1.8 | 1.8 |
+| tmax (h) b | 2.0 | 2.0 |
+| AUC (μg•h/mL)ª | 6.9 | 5.5 |
+| CL/F (L/h) b | 6.6 | 6.8 |
+
+aGeometric mean values
+
+bMedian values
 
 Gender
 
