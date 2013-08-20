@@ -18,7 +18,7 @@ Discontinuation of NSAID therapy is usually followed by recovery to the pretreat
 
 ## Advanced Renal Disease
 
-No information is available from from controlled clinical studies regarding the use of NAPRELAN® in patients with advanced renal disease.
+No information is available from controlled clinical studies regarding the use of NAPRELAN® in patients with advanced renal disease.
 Therefore, treatment with NAPRELAN® is not recommended in those patients with advanced renal disease.
 If NAPRELAN® therapy must be initiated, close monitoring of the patient’s renal function is advisable.
 

@@ -23,10 +23,10 @@ _____________________________________________________
 
 **Registered Trademark of Alkermes Pharma Ireland Ltd.
 
-***Naprosyn® is a registered trademark of Syntex Puerto Rico, Inc.
+***Naprosyn® is a registered trademark of Syntex Pharmaceuticals International Limited
 
 Manufactured for: Shionogi Inc., Florham Park, NJ 07932
 
-Manufactured by: Alkermes Pharma Ltd., Athlone, Ireland
+Manufactured by: Alkermes Pharma Ireland Limited, Athlone, Ireland
 
-NAP-PI-MG-1 Rev 11/2011
+NAP-PI -2 Rev 03/2013

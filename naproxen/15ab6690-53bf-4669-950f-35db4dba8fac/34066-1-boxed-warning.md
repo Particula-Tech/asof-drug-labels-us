@@ -10,5 +10,5 @@ GASTROINTESTINAL RISK
 
 - NSAIDs cause an increased risk of serious gastrointestinal adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.
   These events can occur at any time during use and without warning symptoms.
-  Elderly people are at greater risk for serous gastrointestinal events.
+  Elderly people are at greater risk for serious gastrointestinal events.
   (see WARNINGS).

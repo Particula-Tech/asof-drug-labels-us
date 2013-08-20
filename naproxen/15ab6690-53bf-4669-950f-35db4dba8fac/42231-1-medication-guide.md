@@ -97,7 +97,7 @@ Get emergency help right away if you have any of the following symptoms:
 - shortness of breath or trouble breathing
 - chest pain
 - weakness in one part or side of your body
-- slurred speach
+- slurred speech
 - swelling of the face or throat
 
 Stop your NSAID medicine and call your healthcare provider right away if you have any of the following symptoms:
@@ -154,3 +154,9 @@ NSAID medicines that need a prescription
 The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured for: Shionogi Inc., Florham Park, NJ 07932
+
+Manufactured by: Alkermes Pharma Ireland Limited, Athlone, Ireland
+
+NAP-MG-2 Rev 03/2013
