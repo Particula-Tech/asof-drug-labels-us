@@ -57,3 +57,8 @@ Toxicity associated with this multimodality therapy is dependent on many differe
 In a single trial, where gemcitabine at a dose of 1000 mg/m2 was administered concurrently for up to 6 consecutive weeks with therapeutic thoracic radiation to patients with non-small cell lung cancer, significant toxicity in the form of severe, and potentially life-threatening mucositis, especially esophagitis and pneumonitis was observed, particularly in patients receiving large volumes of radiotherapy [median treatment volumes 4795 cm3].
 Subsequent studies have been reported and suggest that gemcitabine administered at lower doses with concurrent radiotherapy has predictable and less severe toxicity.
 However, the optimum regimen for safe administration of gemcitabine with therapeutic doses of radiation has not yet been determined in all tumor types.
+
+## 5.9 Capillary Leak Syndrome
+
+Capillary leak syndrome (CLS) with severe consequences has been reported in patients receiving gemcitabine as a single agent or in combination with other chemotherapeutic agents.
+Discontinue gemcitabine if CLS develops during therapy.

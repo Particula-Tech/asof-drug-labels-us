@@ -62,9 +62,9 @@ Table 12: Gemcitabine Plus Paclitaxel Versus Paclitaxel in Breast Cancer
 | Overall Survivalb |  |  |  |
 | Median (95%, CI) | 18.6 (16.5, 20.7) | 15.8 (14.1, 17.3) |  |
 | Hazard Ratio (95%, CI) | 0.86 (0.71, 1.04) |  |  |
-| Time to Documented Disease Progressionc Median (95%, C.I.), months | 5.2 (4.2, 5.6) | 2.9 (2.6, 3.7) | p<0.0001 |
-| Hazard Ratio (95%, C.I.) | 0.650 (0.524, 0.805) |  | p<0.0001 |
-| Overall Response Ratec (95%, C.I.) | 40.8% (34.9, 46.7) | 22.1% (17.1, 27.2) | p<0.0001 |
+| Time to Documented Disease Progressionc Median (95%, C.I.), months Hazard Ratio (95%, C.I.) Overall Response Ratec (95%, C.I.) | 5.2 (4.2, 5.6) | 2.9 (2.6, 3.7) | p<0.0001 |
+| 0.650 (0.524, 0.805) |  | p<0.0001 |  |
+| 40.8% (34.9, 46.7) | 22.1% (17.1, 27.2) | p<0.0001 |  |
 | a Karnofsky Performance Status.b Based on the ITT populationc These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. |  |  |  |
 
 Figure 2: Kaplan-Meier Curve of Time to Documented Disease Progression in Gemcitabine Plus Paclitaxel Versus Paclitaxel Breast Cancer Study (N=529)
@@ -99,23 +99,13 @@ Table 13: Randomized Trials of Combination Therapy With Gemcitabine Plus Cisplat
 
 | Trial | 28-day Schedulea |  |  | 21-day Scheduleb |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Treatment Arm | Gemcitabine/Cisplatin | Cisplatin |  | Gemcitabine/Cisplatin | Cisplatin |  |
-| Number of patients | 260 | 262 |  | 69 | 66 |  |
-| Male | 182 | 186 |  | 64 | 61 |  |
-| Female | 78 | 76 |  | 5 | 5 |  |
-| Median age, years | 62 | 63 |  | 58 | 60 |  |
-| Range | 36 to 88 | 35 to 79 |  | 33 to 76 | 35 to 75 |  |
-| Stage IIIA | 7% | 7% |  | N/Ac | N/Ac |  |
-| Stage IIIB | 26% | 23% |  | 48% | 52% |  |
-| Stage IV | 67% | 70% |  | 52% | 49% |  |
-| Baseline KPSd 70 to 80 | 41% | 44% |  | 45% | 52% |  |
-| Baseline KPSd 90 to 100 | 57% | 55% |  | 55% | 49% |  |
-| Survival |  |  | p=0.008 |  |  | p=0.18 |
-| Median, months | 9.0 | 7.6 |  | 8.7 | 7.0 |  |
-| (95%, C.I.) months | 8.2, 11.0 | 6.6, 8.8 |  | 7.8, 10.1 | 6.0, 9.7 |  |
-| Time to Disease Progression |  |  | p=0.009 |  |  | p=0.015 |
-| Median, months | 5.2 | 3.7 |  | 5.0 | 4.1 |  |
-| (95%, C.I.) months | 4.2, 5.7 | 3.0, 4.3 |  | 4.2, 6.4 | 2.4, 4.5 |  |
+| Treatment Arm | Gemcitabine/ Cisplatin | Cisplatin |  | Gemcitabine/ Cisplatin | Cisplatin |  |
+| Number of patients Male Female | 26018278 | 26218676 |  | 69645 | 66615 |  |
+| Median age, years Range | 6236 to 88 | 6335 to 79 |  | 5833 to 76 | 6035 to 75 |  |
+| Stage IIIAStage IIIBStage IV | 7%26%67% | 7%23%70% |  | N/Ac48%52% | N/Ac52%49% |  |
+| Baseline KPSd 70 to 80Baseline KPSd 90 to 100 | 41%57% | 44%55% |  | 45%55% | 52%49% |  |
+| Survival Median, months (95%, C.I.) months | 9.08.2, 11.0 | 7.66.6, 8.8 | p=0.008 | 8.77.8, 10.1 | 7.06.0, 9.7 | p=0.18 |
+| Time to Disease Progression Median, months (95%, C.I.) months | 5.24.2, 5.7 | 3.73.0, 4.3 | p=0.009 | 5.04.2, 6.4 | 4.12.4, 4.5 | p=0.015 |
 | Tumor Response | 26% | 10% | p<0.0001e | 33% | 14% | p=0.01e |
 | a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days.b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days.c N/A Not applicable.d Karnofsky Performance Status.e p-value for tumor response was calculated using the two-sided Fisher’s Exact test for difference in binomial proportions. All other p-values were calculated using the Log rank test for difference in overall time to an event. |  |  |  |  |  |  |
 

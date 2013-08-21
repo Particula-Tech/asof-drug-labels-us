@@ -16,20 +16,8 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from gemcitabine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.3)].
 
-Manufactured by:
+EN-3302
 
-Hospira Australia Pty Ltd
+Manufactured by: Zydus Hospira Oncology Private Ltd. Ahmedabad 382-213, Gujarat, India. for Hospira, Inc. Lake Forest, IL 60045 USA
 
-Mulgrave VIC 3170
-
-Australia
-
-Manufactured for:
-
-Hospira, Inc.
-
-Lake Forest, IL 60045 USA
-
-Product of Australia
-
-432830
+Product of India

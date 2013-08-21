@@ -26,9 +26,9 @@ Table 4: Selected WHO-Graded Adverse Reactions in Patients Receiving Single-Agen
 
 |  | All Patientsb |  |  | Pancreatic Cancer Patientsc |  |  | Discontinuations (%)d |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 | All Patients |
+| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 | All Patients |  |
 | LaboratoryeHematologic Anemia Leukopenia Neutropenia Thrombocytopenia | 68626324 | 79194 | 1<161 | 73646136 | 88177 | 217<1 | <1<1-<1 |
-| Hepatic ALT AST Alkaline Phosphatase Bilirubin | 686755 13 | 867 2 | 222 <1 | 727877 26 | 101216 6 | 154 2 | <1 |
+| Hepatic ALT AST Alkaline Phosphatase Bilirubin | 68675513 | 867 2 | 222 <1 | 72787726 | 101216 6 | 154 2 | <1 |
 | Renal Proteinuria Hematuria BUN Creatinine | 4535168 | <1<10<1 | 0000 | 3223156 | <1000 | 0000 | <1 |
 | Non-laboratoryf Nausea and Vomiting Fever Rash Dyspnea Diarrhea Hemorrhage Infection Alopecia Stomatitis Somnolence Paresthesias | 6941302319171615111110 | 132<131<11<1<1<1<1 | 100<10<1<100<10 | 713828103041016101110 | 102<103220<12<1 | 200<10<1<100<10 | <1<1<1<10<1<10<1<10 |
 | a Grade based on criteria from the World Health Organization (WHO).b N=699-974; all patients with laboratory or non-laboratory data.c N=161-241; all pancreatic cancer patients with laboratory or non-laboratory data.d N=979.e Regardless of causality.f Table includes non-laboratory data with incidence for all patients ≥10%. For approximately 60% of the patients, non-laboratory adverse reactions were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |  |
@@ -152,7 +152,7 @@ Table 5: Selected CTC-Graded Adverse Reactions From Comparative Trial of Gemcita
 
 |  | Gemcitabine plus Cisplatinb |  |  | Cisplatinc |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
+| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
 | LaboratorydHematologic Anemia RBC Transfusione Leukopenia Neutropenia Thrombocytopenia Platelet Transfusionse Lymphocytes | 89398279852175 | 22 352225 25 | 3 113525 18 | 6713252013<151 | 6 233 12 | 1 111 5 |
 | Hepatic Transaminase Alkaline Phosphatase | 2219 | 21 | 10 | 1013 | 10 | 00 |
 | Renal Proteinuria Hematuria Creatinine | 231538 | 004 | 00<1 | 181331 | 002 | 00<1 |
@@ -164,7 +164,7 @@ Table 6: Selected WHO-Graded Adverse Reactions From Comparative Trial of Gemcita
 
 |  | Gemcitabine plus Cisplatinb |  |  | Etoposide plus Cisplatinc |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
+| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
 | LaboratorydHematologic Anemia RBC Transfusionse Leukopenia Neutropenia Thrombocytopenia Platelet Transfusionse | 88298688813 | 22 263639 | 0 32816 | 77218787458 | 13 36208 | 2 7565 |
 | Hepatic ALT AST Alkaline Phosphatase Bilirubin | 63160 | 0000 | 0000 | 1211110 | 0000 | 0000 |
 | Renal Proteinuria Hematuria BUN Creatinine | 122262 | 0000 | 0000 | 51042 | 0000 | 0000 |
@@ -177,14 +177,13 @@ In the gemcitabine plus paclitaxel versus paclitaxel study, dose reductions occu
 On the combination arm, 7% of gemcitabine doses were omitted and <1% of paclitaxel doses were omitted, compared to <1% of paclitaxel doses on the paclitaxel arm.
 A total of 18 patients (7%) on the gemcitabine plus paclitaxel arm and 12 (5%) on the paclitaxel arm discontinued the study because of adverse reactions.
 There were two deaths on study or within 30 days after study drug discontinuation that were possibly drug-related, one on each arm.
-
 Table 7 presents the safety data occurrences of ≥10% (all grades) from the gemcitabine plus paclitaxel versus paclitaxel study in breast cancer.
 
 Table 7: Adverse Reactions From Comparative Trial of Gemcitabine Plus Paclitaxel Versus Single-Agent Paclitaxel in Breast Cancera CTC Grades (% incidence)
 
 |  | Gemcitabine plus Paclitaxel(N=262) |  |  | Paclitaxel(N=259) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
+| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
 | Laboratoryb Hematologic Anemia Neutropenia Thrombocytopenia Leukopenia | 69692621 | 631510 | 117<11 | 5131712 | 34<12 | <17<10 |
 | Hepatobiliary ALT AST | 1816 | 52 | <10 | 65 | <1<1 | 00 |
 | Non-laboratoryc Alopecia Neuropathy-sensory Nausea Fatigue Myalgia Vomiting Arthralgia Diarrhea Anorexia Neuropathy-motor Stomatitis/pharyngitis Fever Rash/desquamation | 90645040332924201715131311 | 145164233021<1<1 | 4<10<100000<1<10<1 | 92583128331522131210835 | 193213222<1<1<100 | 300<1<10<1000000 |
@@ -207,7 +206,7 @@ Table 8: Adverse Reactions From Comparative Trial of Gemcitabine Plus Carboplati
 
 |  | Gemcitabine plus Carboplatin(N=175) |  |  | Carboplatin(N=174) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
+| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
 | Laboratoryb Hematologic Neutropenia Anemia Leukopenia Thrombocytopenia RBC Transfusionsc Platelet Transfusionsc | 90868678389 | 42224830 | 29655 | 58757057153 | 119610 | 12<11 |
 | Non-laboratoryb Nausea Alopecia Vomiting Constipation Fatigue Neuropathy-sensory Diarrhea Stomatitis/pharyngitis Anorexia | 694946424029252216 | 6066313<11 | 0001<10000 | 611736373227141313 | 302352<100 | 00<1000000 |
 | a Grade based on Common Toxicity Criteria (CTC) Version 2.0 (all grades ≥10%). b Regardless of causality. c Percent of patients receiving transfusions. Transfusions are not CTC-graded events. Blood transfusions included both packed red blood cells and whole blood. |  |  |  |  |  |  |
