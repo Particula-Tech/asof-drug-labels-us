@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Desonate is a translucent to opaque gel supplied in 60g tubes in cartons containing 1x 60g tube (NDC 10922-828-06), or a 2 x 60g tube Twin Pack (NDC 50419-828-12).
+Desonate is a translucent to opaque gel supplied in 60g tubes in cartons containing 1x 60g tube (NDC 50419-828-06), or a 2 x 60g tube TwinPack (NDC 50419-828-12)..
 
 Storage:
 
