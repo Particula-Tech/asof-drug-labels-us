@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA204683"
+  ],
+  "inn": "desvenlafaxine",
+  "labeler": "Par Pharmaceutical Inc.",
+  "package_ndcs": [
+    "49884-374-09",
+    "49884-374-11",
+    "49884-375-09",
+    "49884-375-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "desvenlafaxine",
+      "name": "KHEDEZLA"
+    }
+  ],
+  "setid": "0224e77b-7f6f-4191-ad3b-06847d5930e2",
+  "source": "dailymed"
+}
