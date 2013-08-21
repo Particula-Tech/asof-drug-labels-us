@@ -7,7 +7,7 @@ At the cellular level, alendronate shows preferential localization to sites of b
 The osteoclasts adhere normally to the bone surface but lack the ruffled border that is indicative of active resorption.
 Alendronate does not interfere with osteoclast recruitment or attachment, but it does inhibit osteoclast activity.
 Studies in mice on the localization of radioactive [3H]alendronate in bone showed about 10-fold higher uptake on osteoclast surfaces than on osteoblast surfaces.
-Bones examined 6 and 49 days after [ 3 H]alendronate administration in rats and mice, respectively, showed that normal bone was formed on top of the alendronate, which was incorporated inside the matrix.
+Bones examined 6 and 49 days after [3H]alendronate administration in rats and mice, respectively, showed that normal bone was formed on top of the alendronate, which was incorporated inside the matrix.
 While incorporated in bone matrix, alendronate is not pharmacologically active.
 Thus, alendronate must be continuously administered to suppress osteoclasts on newly formed resorption surfaces.
 Histomorphometry in baboons and rats showed that alendronate treatment reduces bone turnover (i.e., the number of sites at which bone is remodeled).
@@ -66,19 +66,19 @@ Bioavailability was decreased (by approximately 40%) when 10 mg alendronate was 
 In studies of treatment and prevention of osteoporosis, alendronate was effective when administered at least 30 minutes before breakfast.
 Bioavailability was negligible whether alendronate was administered with or up to two hours after a standardized breakfast.
 Concomitant administration of alendronate with coffee or orange juice reduced bioavailability by approximately 60%.
-Distribution Preclinical studies (in male rats) show that alendronate transiently distributes to soft tissues following 1 mg/kg intravenous administration but is then rapidly redistributed to bone or excreted in the urine .
-The mean steady-state volume of distribution, exclusive of bone, is at least 28 L in humans .
+Distribution Preclinical studies (in male rats) show that alendronate transiently distributes to soft tissues following 1 mg/kg intravenous administration but is then rapidly redistributed to bone or excreted in the urine.
+The mean steady-state volume of distribution, exclusive of bone, is at least 28 L in humans.
 Concentrations of drug in plasma following therapeutic oral doses are too low (less than 5 ng/mL) for analytical detection.
 Protein binding in human plasma is approximately 78%.
 Metabolism There is no evidence that alendronate is metabolized in animals or humans.
-Excretion Following a single intravenous dose of [ 14 C]alendronate, approximately 50% of the radioactivity was excreted in the urine within 72 hours and little or no radioactivity was recovered in the feces.
+Excretion Following a single intravenous dose of [14C]alendronate, approximately 50% of the radioactivity was excreted in the urine within 72 hours and little or no radioactivity was recovered in the feces.
 Following a single 10 mg intravenous dose, the renal clearance of alendronate was 71 mL/min (64, 78; 90% confidence interval [CI]), and systemic clearance did not exceed 200 mL/min.
 Plasma concentrations fell by more than 95% within 6 hours following intravenous administration.
 The terminal half-life in humans is estimated to exceed 10 years, probably reflecting release of alendronate from the skeleton.
 Based on the above, it is estimated that after 10 years of oral treatment with alendronate (10 mg daily) the amount of alendronate released daily from the skeleton is approximately 25% of that absorbed from the gastrointestinal tract.
 Specific Populations Gender: Bioavailability and the fraction of an intravenous dose excreted in urine were similar in men and women.
 Geriatric: Bioavailability and disposition (urinary excretion) were similar in elderly and younger patients.
-No dosage adjustment is necessary in elderly patients .
+No dosage adjustment is necessary in elderly patients.
 Race: Pharmacokinetic differences due to race have not been studied.
 Renal Impairment: Preclinical studies show that, in rats with kidney failure, increasing amounts of drug are present in plasma, kidney, spleen, and tibia.
 In healthy controls, drug that is not deposited in bone is rapidly excreted in the urine.
@@ -86,10 +86,10 @@ No evidence of saturation of bone uptake was found after 3 weeks dosing with cum
 Although no formal renal impairment pharmacokinetic study has been conducted in patients, it is likely that, as in animals, elimination of alendronate via the kidney will be reduced in patients with impaired renal function.
 Therefore, somewhat greater accumulation of alendronate in bone might be expected in patients with impaired renal function.
 No dosage adjustment is necessary for patients with creatinine clearance 35 to 60 mL/min.
-Alendronate sodium is not recommended for patients with creatinine clearance <35 mL/min due to lack of experience with alendronate in renal failure.
+Alendronate sodium is not recommended for patients with creatinine clearance less than 35 mL/min due to lack of experience with alendronate in renal failure.
 Hepatic Impairment: As there is evidence that alendronate is not metabolized or excreted in the bile, no studies were conducted in patients with hepatic impairment.
 No dosage adjustment is necessary.
 Drug Interactions Intravenous ranitidine was shown to double the bioavailability of oral alendronate.
-The clinical significance of this increased bioavailability and whether similar increases will occur in patients given oral H 2 -antagonists is unknown.
+The clinical significance of this increased bioavailability and whether similar increases will occur in patients given oral H2-antagonists is unknown.
 In healthy subjects, oral prednisone (20 mg three times daily for five days) did not produce a clinically meaningful change in the oral bioavailability of alendronate (a mean increase ranging from 20 to 44%).
 Products containing calcium and other multivalent cations are likely to interfere with absorption of alendronate.

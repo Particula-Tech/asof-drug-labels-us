@@ -138,7 +138,8 @@ The most common side effects of alendronate sodium tablets are:
 - Pain in your bones, joints, or muscles
 - Nausea
 
-You may get allergic reactions, such as hives or, in rare cases, swelling of your face, lips, tongue, or throat.
+You may get allergic reactions, such as hives or swelling of your face, lips, tongue, or throat.
+Worsening of asthma has been reported.
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of alendronate sodium tablets.
 For more information, ask your doctor or pharmacist.
@@ -162,4 +163,4 @@ For more information, call 1-800-206-7821.
 What are the ingredients in alendronate sodium tablets?
 Active ingredient: alendronate monosodium salt trihydrate Inactive ingredients: corn starch, magnesium stearate, microcrystalline cellulose, povidone, and sodium starch glycolate.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India M.L.No.: 19/HD/AP/95/F/R Revised: 08/2012
+Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India M.L.No.: 19/HD/AP/95/F/R Revised: 05/2013

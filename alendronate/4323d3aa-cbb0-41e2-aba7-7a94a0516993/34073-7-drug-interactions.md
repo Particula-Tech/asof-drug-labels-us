@@ -3,7 +3,7 @@
 ## 7.1 Calcium Supplements/Antacids
 
 Coadministration of alendronate sodium and calcium, antacids, or oral medications containing multivalent cations will interfere with absorption of alendronate sodium.
-Therefore, patients must wait at least one-half hour after taking alendronate sodium before taking any other oral medications.
+Therefore, instruct patients to wait at least one-half hour after taking alendronate sodium before taking any other oral medications.
 
 ## 7.2 Aspirin
 

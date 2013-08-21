@@ -31,7 +31,9 @@ Table 6: Effect of Alendronate Sodium on Fracture Incidence in the Three-Year St
 Furthermore, in this population of patients with baseline vertebral fracture, treatment with alendronate sodium significantly reduced the incidence of hospitalizations (25% vs. 30.7%).
 In the Three-Year Study of FIT, fractures of the hip occurred in 22 (2.2%) of 1005 patients on placebo and 11 (1.1%) of 1022 patients on alendronate sodium, p=0.047.
 Figure 1 displays the cumulative incidence of hip fractures in this study.
-Figure 1: Fracture Intervention Trial: Four-Year Study (patients with low bone mass but without a baseline radiographic vertebral fracture) This randomized, double-blind, placebo-controlled, 4432-patient study (alendronate sodium, n=2214; placebo, n=2218) further investigated the reduction in fracture incidence due to alendronate sodium.
+Figure 1:
+
+Fracture Intervention Trial: Four-Year Study (patients with low bone mass but without a baseline radiographic vertebral fracture) This randomized, double-blind, placebo-controlled, 4432-patient study (alendronate sodium, n=2214; placebo, n=2218) further investigated the reduction in fracture incidence due to alendronate sodium.
 The intent of the study was to recruit women with osteoporosis, defined as a baseline femoral neck BMD at least two standard deviations below the mean for young adult women.
 However, due to subsequent revisions to the normative values for femoral neck BMD, 31% of patients were found not to meet this entry criterion and thus this study included both osteoporotic and non-osteoporotic women.
 The results are shown in Table 7 for the patients with osteoporosis.
@@ -57,14 +59,18 @@ In the Four-Year Study of FIT, alendronate sodium reduced the percentage of oste
 Thus, alendronate sodium reduced the incidence of radiographic vertebral fractures in osteoporotic women whether or not they had a previous radiographic vertebral fracture.
 Effect on Bone Mineral Density The bone mineral density efficacy of alendronate 10 mg once daily in postmenopausal women, 44 to 84 years of age, with osteoporosis (lumbar spine bone mineral density [BMD] of at least 2 standard deviations below the premenopausal mean) was demonstrated in four double-blind, placebo-controlled clinical studies of two or three years’ duration.
 Figure 2 shows the mean increases in BMD of the lumbar spine, femoral neck, and trochanter in patients receiving alendronate 10 mg/day relative to placebo-treated patients at three years for each of these studies.
-Figure 2: At three years significant increases in BMD, relative both to baseline and placebo, were seen at each measurement site in each study in patients who received alendronate 10 mg/day.
+Figure 2:
+
+At three years significant increases in BMD, relative both to baseline and placebo, were seen at each measurement site in each study in patients who received alendronate 10 mg/day.
 Total body BMD also increased significantly in each study, suggesting that the increases in bone mass of the spine and hip did not occur at the expense of other skeletal sites.
 Increases in BMD were evident as early as three months and continued throughout the three years of treatment.
 (See Figure 3 for lumbar spine results.)
 In the two-year extension of these studies, treatment of 147 patients with alendronate 10 mg/day resulted in continued increases in BMD at the lumbar spine and trochanter (absolute additional increases between years 3 and 5: lumbar spine, 0.94%; trochanter, 0.88%).
 BMD at the femoral neck, forearm and total body were maintained.
 Alendronate sodium was similarly effective regardless of age, race, baseline rate of bone turnover, and baseline BMD in the range studied (at least 2 standard deviations below the premenopausal mean).
-Figure 3: In patients with postmenopausal osteoporosis treated with alendronate 10 mg/day for one or two years, the effects of treatment withdrawal were assessed.
+Figure 3:
+
+In patients with postmenopausal osteoporosis treated with alendronate 10 mg/day for one or two years, the effects of treatment withdrawal were assessed.
 Following discontinuation, there were no further increases in bone mass and the rates of bone loss were similar to those of the placebo groups.
 Bone Histology Bone histology in 270 postmenopausal patients with osteoporosis treated with alendronate at doses ranging from 1 to 20 mg/day for one, two, or three years revealed normal mineralization and structure, as well as the expected decrease in bone turnover relative to placebo.
 These data, together with the normal bone histology and increased bone strength observed in rats and baboons exposed to long-term alendronate treatment, support the conclusion that bone formed during therapy with alendronate sodium is of normal quality.
@@ -102,28 +108,33 @@ The results of the intention-to-treat analysis were consistent with the primary 
 ## 14.3 Treatment to Increase Bone Mass in Men with Osteoporosis
 
 The efficacy of alendronate sodium in men with hypogonadal or idiopathic osteoporosis was demonstrated in two clinical studies.
-Daily Dosing A two-year, double-blind, placebo-controlled, multicenter study of alendronate 10 mg once daily enrolled a total of 241 men between the ages of 31 and 87 (mean, 63).
-All patients in the trial had either a BMD T-score ≤-2 at the femoral neck and ≤-1 at the lumbar spine, or a baseline osteoporotic fracture and a BMD T-score ≤-1 at the femoral neck.
+
+Daily Dosing
+
+A two-year, double-blind, placebo-controlled, multicenter study of alendronate 10 mg once daily enrolled a total of 241 men between the ages of 31 and 87 (mean, 63).
+All patients in the trial had either a BMD T-score less than or equal to -2 at the femoral neck and less than or equal to -1 at the lumbar spine, or a baseline osteoporotic fracture and a BMD T-score less than or equal to -1 at the femoral neck.
 At two years, the mean increases relative to placebo in BMD in men receiving alendronate 10 mg/day were significant at the following sites: lumbar spine, 5.3%; femoral neck, 2.6%; trochanter, 3.1%; and total body, 1.6%.
 Treatment with alendronate sodium also reduced height loss (alendronate sodium, -0.6 mm vs. placebo, -2.4 mm).
 Weekly Dosing A one-year, double-blind, placebo-controlled, multicenter study of once weekly alendronate 70 mg enrolled a total of 167 men between the ages of 38 and 91 (mean, 66).
-Patients in the study had either a BMD T-score ≤-2 at the femoral neck and ≤-1 at the lumbar spine, or a BMD T-score ≤-2 at the lumbar spine and ≤-1 at the femoral neck, or a baseline osteoporotic fracture and a BMD T-score ≤-1 at the femoral neck.
+Patients in the study had either a BMD T-score less than or equal to -2 at the femoral neck and less than or equal to -1 at the lumbar spine, or a BMD T-score less than or equal to -2 at the lumbar spine and less than or equal to -1 at the femoral neck, or a baseline osteoporotic fracture and a BMD T-score less than or equal to -1 at the femoral neck.
 At one year, the mean increases relative to placebo in BMD in men receiving alendronate 70 mg once weekly were significant at the following sites: lumbar spine, 2.8%; femoral neck, 1.9%; trochanter, 2%; and total body, 1.2%.
 These increases in BMD were similar to those seen at one year in the 10 mg once-daily study.
-In both studies, BMD responses were similar regardless of age (≥65 years vs. <65 years), gonadal function (baseline testosterone <9 ng/dL vs. ≥9 ng/dL), or baseline BMD (femoral neck and lumbar spine T-score ≤-2.5 vs. >-2.5).
+In both studies, BMD responses were similar regardless of age (greater than or equal to 65 years vs. less than 65 years), gonadal function (baseline testosterone less than 9 ng/dL vs. greater than or equal to 9 ng/dL), or baseline BMD (femoral neck and lumbar spine T-score less than or equal to -2.5 vs. greater than -2.5).
 
 ## 14.4 Treatment of Glucocorticoid-Induced Osteoporosis
 
 The efficacy of alendronate 5 and 10 mg once daily in men and women receiving glucocorticoids (at least 7.5 mg/day of prednisone or equivalent) was demonstrated in two, one-year, double-blind, randomized, placebo-controlled, multicenter studies of virtually identical design, one performed in the United States and the other in 15 different countries (Multinational [which also included alendronate 2.5 mg/day]).
 These studies enrolled 232 and 328 patients, respectively, between the ages of 17 and 83 with a variety of glucocorticoid-requiring diseases.
 Patients received supplemental calcium and vitamin D. Figure 5 shows the mean increases relative to placebo in BMD of the lumbar spine, femoral neck, and trochanter in patients receiving alendronate 5 mg/day for each study.
-Figure 5: After one year, significant increases relative to placebo in BMD were seen in the combined studies at each of these sites in patients who received alendronate 5 mg/day.
+Figure 5:
+
+After one year, significant increases relative to placebo in BMD were seen in the combined studies at each of these sites in patients who received alendronate 5 mg/day.
 In the placebo-treated patients, a significant decrease in BMD occurred at the femoral neck (-1.2%), and smaller decreases were seen at the lumbar spine and trochanter.
-Total body BMD was maintained with alendronate sodium 5 mg/day.
+Total body BMD was maintained with alendronate 5 mg/day.
 The increases in BMD with alendronate 10 mg/day were similar to those with alendronate 5 mg/day in all patients except for postmenopausal women not receiving estrogen therapy.
 In these women, the increases (relative to placebo) with alendronate 10 mg/day were greater than those with alendronate 5 mg/day at the lumbar spine (4.1% vs. 1.6%) and trochanter (2.8% vs. 1.7%), but not at other sites.
 Alendronate sodium was effective regardless of dose or duration of glucocorticoid use.
-In addition, alendronate sodium was similarly effective regardless of age (<65 vs. ≥65 years), race (Caucasian vs. other races), gender, underlying disease, baseline BMD, baseline bone turnover, and use with a variety of common medications.
+In addition, alendronate sodium was similarly effective regardless of age (less than 65 vs. greater than or equal to 65 years), race (Caucasian vs. other races), gender, underlying disease, baseline BMD, baseline bone turnover, and use with a variety of common medications.
 Bone histology was normal in the 49 patients biopsied at the end of one year who received alendronate at doses of up to 10 mg/day.
 Of the original 560 patients in these studies, 208 patients who remained on at least 7.5 mg/day of prednisone or equivalent continued into a one-year double-blind extension.
 After two years of treatment, spine BMD increased by 3.7% and 5% relative to placebo with alendronate 5 and 10 mg/day, respectively.
@@ -135,9 +146,12 @@ However, in the population studied for two years, treatment with alendronate (po
 
 The efficacy of alendronate 40 mg once daily for six months was demonstrated in two double-blind clinical studies of male and female patients with moderate to severe Paget’s disease (alkaline phosphatase at least twice the upper limit of normal): a placebo-controlled, multinational study and a U.S. comparative study with etidronate disodium 400 mg/day.
 Figure 6 shows the mean percent changes from baseline in serum alkaline phosphatase for up to six months of randomized treatment.
-Figure 6: At six months the suppression in alkaline phosphatase in patients treated with alendronate sodium was significantly greater than that achieved with etidronate and contrasted with the complete lack of response in placebo-treated patients.
-Response (defined as either normalization of serum alkaline phosphatase or decrease from baseline ≥60%) occurred in approximately 85% of patients treated with alendronate sodium in the combined studies vs. 30% in the etidronate group and 0% in the placebo group.
+Figure 6:
+
+At six months the suppression in alkaline phosphatase in patients treated with alendronate sodium was significantly greater than that achieved with etidronate and contrasted with the complete lack of response in placebo-treated patients.
+Response (defined as either normalization of serum alkaline phosphatase or decrease from baseline greater than or equal to 60%) occurred in approximately 85% of patients treated with alendronate sodium in the combined studies vs. 30% in the etidronate group and 0% in the placebo group.
 Alendronate sodium was similarly effective regardless of age, gender, race, prior use of other bisphosphonates, or baseline alkaline phosphatase within the range studied (at least twice the upper limit of normal).
+
 Bone histology was evaluated in 33 patients with Paget’s disease treated with alendronate 40 mg/day for 6 months.
 As in patients treated for osteoporosis [see Clinical Studies (14.1)], alendronate sodium did not impair mineralization, and the expected decrease in the rate of bone turnover was observed.
 Normal lamellar bone was produced during treatment with alendronate sodium, even where preexisting bone was woven and disorganized.
