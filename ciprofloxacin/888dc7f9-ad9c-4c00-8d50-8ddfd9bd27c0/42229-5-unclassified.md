@@ -105,7 +105,7 @@ Table 1: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 | Bacillus anthracisa | ≤0.25 |  |  |  |  |  |
 | S=Susceptible, I=Intermediate, and R=Resistant. |  |  |  |  |  |  |
 
-1. 2.A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
+1. 1.A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
    A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
    This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
    This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
