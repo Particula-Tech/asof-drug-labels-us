@@ -1,4 +1,4 @@
-Atralin™ (A-truh-lin) (tretinoin) Gel, 0.05%
+Atralin® (A-truh-lin) (tretinoin) Gel, 0.05%
 
 For Skin Use Only Important: Not for mouth, eye, or vaginal use.
 
@@ -105,10 +105,10 @@ For more information about Atralin Gel, talk with your doctor.
 You can ask your doctor or pharmacist for the information about Atralin Gel that is written for health professionals.
 You can also contact Coria Laboratories, Ltd. by calling their toll-free number: 1-800-321-4576.
 
-Distributed by: CORIA LABORATORIES a division of Valeant Pharmaceuticals North America Forth Worth, TX 76107 1-800-321-4576 www.corialabs.com
+Distributed by: CORIA LABORATORIES a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 1-800-321-4576 www.corialabs.com
 
 Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215
 
 Patent No.: 5,670,547
 
-129178-0710
+129178-0911
