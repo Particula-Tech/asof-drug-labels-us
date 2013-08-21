@@ -102,9 +102,10 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - •Are breast-feeding or planning to breast-feed.
   CIPRO passes into breast milk.
   You and your healthcare provider should decide whether you will take CIPRO or breast-feed.
-  Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal and dietary supplements.
+- Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal and dietary supplements.
   CIPRO and other medicines can affect each other causing side effects.
   Especially tell your healthcare provider if you take:
+
 - •An NSAID (Non-Steroidal Anti-Inflammatory Drug).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take CIPRO or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
@@ -168,7 +169,7 @@ How should I take CIPRO?
   - •You have tendon effects (see “What is the most important information I should know about CIPRO?”),
   - •You have a serious allergic reaction (see “What are the possible side effects of CIPRO?”), or
   - •Your healthcare provider tells you to stop.
-    This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to CIPRO.
+  - This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to CIPRO.
     If this happens, CIPRO and other antibiotic medicines may not work in the future.
 - •If you miss a dose of CIPRO Tablets or Oral Suspension, take it as soon as you remember.
   Do not take two doses at the same time, and do not take more than two doses in one day.
@@ -206,14 +207,18 @@ What are the possible side effects of CIPRO?
 
 Other serious side effects of CIPRO include:
 
-- •TheophyllineYou may have serious seizure and breathing problems when you take theophylline with CIPRO.
+- •Theophylline
+- You may have serious seizure and breathing problems when you take theophylline with CIPRO.
   These problems may lead to death.
   Get emergency help right away if you have seizures or trouble breathing.
-- •Central Nervous System effects Seizures have been reported in people who take fluoroquinolone antibiotics including CIPRO.
+
+- •Central Nervous System effects
+- Seizures have been reported in people who take fluoroquinolone antibiotics including CIPRO.
   Tell your healthcare provider if you have a history of seizures.
   Ask your healthcare provider whether taking CIPRO will change your risk of having a seizure.
-  Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of CIPRO.
+- Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of CIPRO.
   Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
+
 - •Feel dizzy
 - •Seizures
 - •Hear voices, see things, or sense things that are not there (hallucinations)
@@ -226,8 +231,10 @@ Other serious side effects of CIPRO include:
 - •Nightmares
 - •Feel more suspicious (paranoia)
 - •Suicidal thoughts or acts
-- •Serious allergic reactionsAllergic reactions, including death, can happen in people taking fluoroquinolones, including CIPRO, even after only one dose.
+- •Serious allergic reactions
+- Allergic reactions, including death, can happen in people taking fluoroquinolones, including CIPRO, even after only one dose.
   Stop taking CIPRO and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
+
 - •Hives.
 - •Trouble breathing or swallowing.
 - •Swelling of the lips, tongue, face.
@@ -237,36 +244,50 @@ Other serious side effects of CIPRO include:
 - •Yellowing of the skin or eyes.
   Stop taking CIPRO and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
   These can be signs of a serious reaction to CIPRO (a liver problem).
-- •Skin rashSkin rash may happen in people taking CIPRO even after only one dose.
+- •Skin rash
+- Skin rash may happen in people taking CIPRO even after only one dose.
   Stop taking CIPRO at the first sign of a skin rash and call your healthcare provider.
   Skin rash may be a sign of a more serious reaction to CIPRO.
-- •Serious heart rhythm changes (QT prolongation and torsade de pointes) Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
+
+- •Serious heart rhythm changes (QT prolongation and torsade de pointes)
+- Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   CIPRO may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this event are higher in people:
+
 - •Who are elderly
 - •With a family history of prolonged QT interval
 - •With low blood potassium (hypokalemia)
 - •Who take certain medicines to control heart rhythm (antiarrhythmics)
-- •Intestine infection (Pseudomembranous colitis)Pseudomembranous colitis can happen with most antibiotics, including CIPRO.
+- •Intestine infection (Pseudomembranous colitis)
+- Pseudomembranous colitis can happen with most antibiotics, including CIPRO.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
-- •Changes in sensation and possible nerve damage (Peripheral Neuropathy)Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including CIPRO.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+
+- •Changes in sensation and nerve damage (Peripheral Neuropathy)
+- Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including CIPRO.
+  Stop CIPRO and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+
 - •Pain
 - •Burning
 - •Tingling
 - •Numbness
-- •WeaknessCIPRO may need to be stopped to prevent permanent nerve damage.
-- •Low blood sugar (hypoglycemia)People who take CIPRO and other fluoroquinolone medicines with the oral anti-diabetes medicine glyburide (Micronase, Glynase, Diabeta, Glucovance) can get low blood sugar (hypoglycemia) which can sometimes be severe.
+- •Weakness
+- The nerve damage may be permanent.
+
+- •Low blood sugar (hypoglycemia)
+- People who take CIPRO and other fluoroquinolone medicines with the oral anti-diabetes medicine glyburide (Micronase, Glynase, Diabeta, Glucovance) can get low blood sugar (hypoglycemia) which can sometimes be severe.
   Tell your healthcare provider if you get low blood sugar with CIPRO.
   Your antibiotic medicine may need to be changed.
+
 - •Sensitivity to sunlight (photosensitivity).
   See “What should I avoid while taking CIPRO?”.
-- •Joint ProblemsIncreased chance of problems with joints and tissues around joints in children under 18 years old.
+- •Joint Problems
+- Increased chance of problems with joints and tissues around joints in children under 18 years old.
   Tell your child’s healthcare provider if your child has any joint problems during or after treatment with CIPRO.
-  The most common side effects of CIPRO include:
+- The most common side effects of CIPRO include:
+
 - •Nausea
 - •Diarrhea
 - •Changes in liver function tests
@@ -323,8 +344,6 @@ What are the ingredients in CIPRO?
 - •Active ingredient: ciprofloxacin
 - •Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised November 2011
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
@@ -334,8 +353,6 @@ Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
 Manufactured in Germany
 
 Rx Only
-
-1/13
 
 ©2013 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
 
