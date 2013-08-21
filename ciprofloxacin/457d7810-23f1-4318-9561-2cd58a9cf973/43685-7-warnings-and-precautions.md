@@ -90,9 +90,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## Peripheral Neuropathy
 
-Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ciprofloxacin.
-Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness, or is found to have deficits in light touch, pain, temperature, position sense, vibratory sensation, and/or motor strength in order to prevent the development of an irreversible condition.
-Patients treated with CIPRO IV should be advised to inform their healthcare provider prior to continuing treatment if symptoms of neuropathy develop.
+Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including ciprofloxacin.
+Symptoms may occur soon after initiation of CIPRO and may be irreversible.
+Ciprofloxacin should be discontinued immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness, or other alterations in sensations including light touch, pain, temperature, position sense and vibratory sensation.
 
 ## Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
@@ -176,8 +176,7 @@ Patients should be advised:
   Patients should not use ciprofloxacin if they are already taking tizanidine.
 - •That ciprofloxacin may increase the effects of theophylline and caffeine.
   There is a possibility of caffeine accumulation when products containing caffeine are consumed while taking ciprofloxacin.
-- •That peripheral neuropathies have been associated with ciprofloxacin use.
-  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
+- •That peripheral neuropathies have been associated with ciprofloxacin use, that symptoms may occur soon after initiation of therapy and may be irreversible If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, patients should immediately discontinue Cipro and contact their physician.
 - •That convulsions have been reported in patients taking quinolones, including ciprofloxacin, and to notify their physician before taking this drug if there is a history of this condition.
 - •That ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
   Parents should inform their child’s physician if the child has a history of joint-related problems before taking this drug.

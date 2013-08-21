@@ -273,10 +273,10 @@ Call your healthcare provider right away if you get watery diarrhea, diarrhea th
 You may have stomach cramps and a fever.
 Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
-- •Changes in sensation and possible nerve damage (Peripheral Neuropathy)
+- •Changes in sensation and nerve damage (Peripheral Neuropathy)
 
 Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including CIPRO.
-Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+Stop CIPRO and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
 
 - •Pain
 - •Burning
@@ -284,7 +284,7 @@ Talk with your healthcare provider right away if you get any of the following sy
 - •Numbness
 - •Weakness
 
-CIPRO may need to be stopped to prevent permanent nerve damage.
+The nerve damage may be permanent.
 
 - •Low blood sugar (hypoglycemia)
 
@@ -366,8 +366,6 @@ CIPRO IV
 - •Active ingredient: ciprofloxacin
 - •Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised January 2013
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for:
@@ -382,4 +380,4 @@ Rx Only
 
 ©2013 Bayer HealthCare Pharmaceuticals Inc.
 
-81532266 R4
+81532266 R5
