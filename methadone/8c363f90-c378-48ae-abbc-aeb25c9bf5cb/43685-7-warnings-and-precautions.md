@@ -38,11 +38,11 @@ Respiratory depression has also been reported with use of methadone when used as
 
 To further reduce the risk of respiratory depression, consider the following:
 
-- Patients tolerant to other opioids may be incompletely tolerant to methadone.
+- •Patients tolerant to other opioids may be incompletely tolerant to methadone.
   Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists who are being converted to treatment with methadone, thus making determination of dosing during opioid treatment conversion complex.
   Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
-- Proper dosing and titration are essential and methadone should be prescribed only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone, especially when converting patients from other opioids, and in the use of potent opioids for the management of chronic pain.
-- Methadone is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
+- •Proper dosing and titration are essential and methadone should be prescribed only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone, especially when converting patients from other opioids, and in the use of potent opioids for the management of chronic pain.
+- •Methadone is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
 
 ## 5.3 Life-Threatening QT Prolongation
 
@@ -70,11 +70,11 @@ Methadone should be kept out of reach of children to prevent accidental ingestio
 ## 5.5 Elderly, Cachectic, and Debilitated Patients
 
 Respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics due to poor fat stores, muscle wasting, or altered clearance compared to younger, healthier patients.
-Therefore, monitor such patients closely, particularly when initiating and titrating methadone and when methadone is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Therefore, monitor such patients closely, particularly when initiating and titrating methadone and when methadone is given concomitantly with other drugs that depress respiration [see Warnings and Precautions _Refi4i_section_id_01f86c56-fd1e-493b-92(5.2)].
 
 ## 5.6 Use in Patients with Chronic Pulmonary Disease
 
-Monitor patients with significant chronic obstructive pulmonary disease or cor pulmonale, and patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression for respiratory depression, particularly when initiating therapy and titrating with methadone, as in these patients, even usual therapeutic doses of methadone may decrease respiratory drive to the point of apnea [see Warnings and Precautions (5.2)].
+Monitor patients with significant chronic obstructive pulmonary disease or cor pulmonale, and patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression for respiratory depression, particularly when initiating therapy and titrating with methadone, as in these patients, even usual therapeutic doses of methadone may decrease respiratory drive to the point of apnea [see Warnings and Precautions _Refi4i_section_id_01f86c56-fd1e-493b-92(5.2)].
 Consider the use of alternative non-opioid analgesics in these patients if possible.
 
 ## 5.7 Interactions with CNS Depressants and Illicit Drugs
@@ -82,7 +82,7 @@ Consider the use of alternative non-opioid analgesics in these patients if possi
 Hypotension, profound sedation, coma, or respiratory depression may result if methadone is used concomitantly with other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
 When considering the use of methadone in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
 Additionally, consider the patient’s use, if any, of alcohol or illicit drugs that cause CNS depression.
-If methadone therapy is to be initiated in a patient taking a CNS depressant, start with a lower methadone dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.2)].
+If methadone therapy is to be initiated in a patient taking a CNS depressant, start with a lower methadone dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions _Refi4i_section_id_520f5232-59e9-4ba7-84(7.2)].
 
 Deaths associated with illicit use of methadone have frequently involved concomitant benzodiazepine abuse.
 
@@ -117,7 +117,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 ## 5.12 Avoidance of Withdrawal
 
 Avoid the use of partial agonists or mixed agonist/antagonist analgesics (i.e., buprenorphine, pentazocine, nalbuphine, and butorphanol) in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including methadone.
-In these patients, partial agonists or mixed agonists/antagonists analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7.4)].
+In these patients, partial agonists or mixed agonists/antagonists analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions _Refi4i_section_id_c244c88e-ecbe-4d30-92(7.4)].
 
 When discontinuing methadone, gradually taper the dose [see Dosage and Administration (2.3)].
 Do not abruptly discontinue methadone.

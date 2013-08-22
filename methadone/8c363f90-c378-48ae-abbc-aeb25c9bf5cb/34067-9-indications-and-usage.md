@@ -2,18 +2,18 @@
 
 Methadone Hydrochloride Oral Solution USP is indicated for the:
 
-- Management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
-- Detoxification treatment of opioid addiction (heroin or other morphine-like drugs).
-- Maintenance treatment of opioid addiction (heroin or other morphine-like drugs), in conjunction with appropriate social and medical services.
+- •Management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
+- •Detoxification treatment of opioid addiction (heroin or other morphine-like drugs).
+- •Maintenance treatment of opioid addiction (heroin or other morphine-like drugs), in conjunction with appropriate social and medical services.
 
 Limitations of Use
 
 Methadone Hydrochloride Oral Solution USP is not for use:
 
-- As an as-needed (prn) analgesic
-- For pain that is mild or not expected to persist for an extended period of time
-- For acute pain
-- For postoperative pain
+- •As an as-needed (prn) analgesic
+- •For pain that is mild or not expected to persist for an extended period of time
+- •For acute pain
+- •For postoperative pain
 
 Conditions For Distribution And Use Of Methadone Products For The Treatment Of Opioid Addiction
 

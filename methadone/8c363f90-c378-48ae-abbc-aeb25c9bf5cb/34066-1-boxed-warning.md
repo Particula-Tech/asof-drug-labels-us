@@ -32,64 +32,64 @@ For detoxification and maintenance of opioid dependence methadone should be admi
 
 Methadone is:
 
-- A strong prescription pain medicine, an opioid (narcotic) that is used to treat moderate to severe around-the-clock pain.
-- Used to manage drug addiction.
+- •A strong prescription pain medicine, an opioid (narcotic) that is used to treat moderate to severe around-the-clock pain.
+- •Used to manage drug addiction.
 
 Important information about Methadone:
 
-- Get emergency help right away if you take too much Methadone (overdose).
+- •Get emergency help right away if you take too much Methadone (overdose).
   Methadone overdose can cause life threatening breathing problems that can lead to death.
-- Never give anyone else your Methadone.
+- •Never give anyone else your Methadone.
   They could die from taking it.
   Store Methadone away from children and in a safe place to prevent stealing or abuse.
   Selling or giving away Methadone is against the law.
 
 Do not take Methadone if you have:
 
-- Severe asthma, trouble breathing, or other lung problems.
-- A bowel blockage or have narrowing of the stomach or intestines.
+- •Severe asthma, trouble breathing, or other lung problems.
+- •A bowel blockage or have narrowing of the stomach or intestines.
 
 Before taking Methadone, tell your healthcare provider if you have a history of:
 
-- head injury, seizures
-- heart, liver, kidney, thyroid problems
-- problems urinating
-- pancreas or gallbladder problems
-- abuse of street or prescription drugs, alcohol addiction, or mental health problems.
+- •head injury, seizures
+- •heart, liver, kidney, thyroid problems
+- •problems urinating
+- •pancreas or gallbladder problems
+- •abuse of street or prescription drugs, alcohol addiction, or mental health problems.
 
 Tell your healthcare provider if you are:
 
-- pregnant or planning to become pregnant.
+- •pregnant or planning to become pregnant.
   Methadone may harm your unborn baby.
-- breastfeeding.
+- •breastfeeding.
   Methadone passes into breast milk and may harm your baby.
-- taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
+- •taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
 
 When taking Methadone:
 
-- Do not change your dose.
+- •Do not change your dose.
   Take Methadone exactly as prescribed by your healthcare provider.
-- Do not take more than your prescribed dose in 24 hours.
+- •Do not take more than your prescribed dose in 24 hours.
   If you take Methadone for pain and miss a dose, take Methadone as soon as possible and then take your next dose 8 or 12 hours later as directed by your healthcare provider.
   If it is almost time for your next dose, skip the missed dose and go back to your regular dosing schedule.
-- If you take Methadone for opioid addiction, take your next dose the following day as scheduled.
+- •If you take Methadone for opioid addiction and miss a dose, take your next dose the following day as scheduled.
   Do not take extra doses.
   Taking more than the prescribed dose may cause you to overdose because Methadone builds up in your body over time.
-- Call your healthcare provider if the dose you are taking does not control your pain.
-- Do not stop taking Methadone without talking to your healthcare provider.
-- After you stop taking Methadone, flush any unused Methadone down the toilet.
+- •Call your healthcare provider if the dose you are taking does not control your pain.
+- •Do not stop taking Methadone without talking to your healthcare provider.
+- •After you stop taking Methadone, flush any unused Methadone down the toilet.
 
 While taking Methadone Do Not:
 
-- Drive or operate heavy machinery, until you know how Methadone affects you.
+- •Drive or operate heavy machinery, until you know how Methadone affects you.
   Methadone can make you sleepy, dizzy, or lightheaded.
-- Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
+- •Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
 
 The possible side effects of Methadone are:
 
-- constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness.
+- •constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness.
   Call your healthcare provider if you have any of these symptoms and they are severe.
 
 Get emergency medical help if you have:
 
-- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, or you are feeling faint.
+- •trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, or you are feeling faint.

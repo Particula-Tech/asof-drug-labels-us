@@ -4,23 +4,23 @@
 
 Consider the following factors when selecting an initial dose of methadone:
 
-- Total daily dose, potency, and prior opioid the patient has been taking previously;
-- Patient’s degree of opioid experience and opioid tolerance;
-- General condition and medical status of the patient;
-- Concurrent medication;
-- Type and severity of the patient’s pain
+- •Total daily dose, potency, and prior opioid the patient has been taking previously;
+- •Patient’s degree of opioid experience and opioid tolerance;
+- •General condition and medical status of the patient;
+- •Concurrent medication;
+- •Type and severity of the patient’s pain
 
 In addition, consider the following important factors that differentiate methadone from other opioid analgesics:
 
-- The peak respiratory depressant effect of methadone occurs later and persists longer than its peak analgesic effect.
-- A high degree of opioid tolerance does not eliminate the possibility of methadone overdose, iatrogenic or otherwise.
+- •The peak respiratory depressant effect of methadone occurs later and persists longer than its peak analgesic effect.
+- •A high degree of opioid tolerance does not eliminate the possibility of methadone overdose, iatrogenic or otherwise.
   Deaths have been reported during conversion to methadone from chronic, high-dose treatment with other opioid agonists and during initiation of methadone treatment of addiction in subjects previously abusing high doses of other opioid agonists.
-- There is high interpatient variability in absorption, metabolism, and relative analgesic potency.
+- •There is high interpatient variability in absorption, metabolism, and relative analgesic potency.
   Population-based equianalgesic conversion ratios between methadone and other opioids are not accurate when applied to individuals.
-- The duration of analgesic action of methadone is 4 to 8 hours (based on single-dose studies) but the plasma elimination half-life is 8 to 59 hours.
-- With repeated dosing, methadone is retained in the liver and then slowly released, prolonging the duration of potential toxicity.
-- Steady-state plasma concentrations, and full analgesic effects, are not attained until 3 to 5 days after initiation of dosing.
-- Methadone has a narrow therapeutic index, especially when combined with other drugs.
+- •The duration of analgesic action of methadone is 4 to 8 hours (based on single-dose studies) but the plasma elimination half-life is 8 to 59 hours.
+- •With repeated dosing, methadone is retained in the liver and then slowly released, prolonging the duration of potential toxicity.
+- •Steady-state plasma concentrations, and full analgesic effects, are not attained until 3 to 5 days after initiation of dosing.
+- •Methadone has a narrow therapeutic index, especially when combined with other drugs.
 
 Methadone hydrochloride oral solution is administered at a frequency of every 8 to 12 hours.
 
@@ -59,10 +59,10 @@ Table 1 has been included in order to illustrate this concept and to provide a r
 
 In addition to these recommendations, take into consideration the patient’s:
 
-- prior opioid exposure
-- general medical condition
-- concomitant medication
-- anticipated breakthrough medication use
+- •prior opioid exposure
+- •general medical condition
+- •concomitant medication
+- •anticipated breakthrough medication use
 
 ## 2.2 Titration and Maintenance of Therapy for Pain
 
