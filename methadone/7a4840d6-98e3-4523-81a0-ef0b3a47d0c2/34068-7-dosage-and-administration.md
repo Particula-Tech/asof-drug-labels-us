@@ -18,7 +18,7 @@ In addition, consider the following important factors that differentiate methado
 - •There is high interpatient variability in absorption, metabolism, and relative analgesic potency.
   Population-based equianalgesic conversion ratios between methadone and other opioids are not accurate when applied to individuals.
 - •The duration of analgesic action of methadone is 4 to 8 hours (based on single-dose studies) but the plasma elimination half-life is 8 to 59 hours.
-- •With repeated dosing, methadone is retained in thhe lver and then slowly released, prolonging the duration of potential toxicity.
+- •With repeated dosing, methadone is retained in the liver and then slowly released, prolonging the duration of potential toxicity.
 - •Steady-state plasma concentrations, and full analgesic effects, are not attained until 3 to 5 days after initiation of dosing.
 - •Methadone has a narrow therapeutic index, especially when combined with other drugs.
 

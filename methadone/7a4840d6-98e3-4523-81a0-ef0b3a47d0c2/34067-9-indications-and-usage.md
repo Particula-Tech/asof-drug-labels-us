@@ -10,11 +10,10 @@ Limitations of Use
 
 DOLOPHINE is not for use:
 
-- 
-  - ∘As an as-needed (prn) analgesic
-  - ∘For pain that is mild or not expected to persist for an extended period of time
-  - ∘For acute pain
-  - ∘For postoperative pain
+- •As an as-needed (prn) analgesic
+- •For pain that is mild or not expected to persist for an extended period of time
+- •For acute pain
+- •For postoperative pain
 
 Conditions For Distribution And Use Of Methadone Products For The Treatment Of Opioid Addiction
 
