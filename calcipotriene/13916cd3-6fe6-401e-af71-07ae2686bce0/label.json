@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020273"
+  ],
   "inn": "calcipotriene",
-  "labeler": "Bristol-Myers Squibb Company",
+  "labeler": "Bristol-Myers Squibb Pharma Company",
   "package_ndcs": [
     "0072-2540-06",
     "0072-2540-12"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcipotriene",
+      "name": "Dovonex"
+    }
+  ],
   "setid": "13916cd3-6fe6-401e-af71-07ae2686bce0",
   "source": "dailymed"
 }
