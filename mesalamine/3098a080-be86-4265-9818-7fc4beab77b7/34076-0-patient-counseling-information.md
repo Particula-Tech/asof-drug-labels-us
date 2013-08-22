@@ -11,7 +11,6 @@
   - have a history of stomach blockage;
   - are pregnant, intend to become pregnant or are breast-feeding.
 - Patients should be instructed to swallow LIALDA delayed-release tablets whole, taking care not to break the outer coating.
-  The outer coating needs to remain intact so that LIALDA is absorbed properly.
 
 Manufactured for Shire US Inc., 725 Chesterbrook Blvd., Wayne, PA 19087, USA by Cosmo S.p.A., Milan, Italy.
 By license of Giuliani S.p.A., Milan Italy.

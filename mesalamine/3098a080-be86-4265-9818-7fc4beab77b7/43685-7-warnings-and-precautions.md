@@ -33,3 +33,8 @@ Caution should be exercised when administering LIALDA to patients with liver dis
 ## 5.5 Upper GI Tract Obstruction
 
 Pyloric stenosis or other organic or functional obstruction in the upper gastrointestinal tract may cause prolonged gastric retention of LIALDA which would delay mesalamine release in the colon.
+
+## 5.6 Interference with Laboratory Tests
+
+Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine's main metabolite, N-acetylaminosalicylic acid (N-Ac-5-ASA).
+An alternative, selective assay for normetanephrine should be considered.
