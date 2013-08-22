@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Sildenafil tablets, 20 mg, are supplied as white to off-white, round shaped film-coated tablets with debossing ‘AN 351’ on one side and plain on the other side, containing sildenafil citrate equivalent to the nominally indicated amount of sildenafil.
+Sildenafil tablets, 20 mg, are supplied as white to off-white, round shaped film-coated tablets with debossing ‘AN 351’ on one side and plain on the other side, containing sildenafil citrate, USP equivalent to the nominally indicated amount of sildenafil.
 
 They are available as follows:
 

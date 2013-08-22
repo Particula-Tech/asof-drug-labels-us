@@ -23,9 +23,8 @@ Adverse reactions were generally transient and mild to moderate in nature.
 Table 1.
 Most Common Adverse Reactions in Patients with PAH in Study 1 (More Frequent in Sildenafil Citrate-Treated Patients than Placebo-Treated Patients and Incidence ≥3% in Sildenafil Citrate-Treated Patients)
 
-|  | Placebo, % (n = 70) | Sildenafil Citrate 20 mg TID, % (n = 69) |  |
+|  | Placebo, % (n = 70) | Sildenafil Citrate 20 mg TID, % (n = 69) | Placebo- Subtracted, % |
 | --- | --- | --- | --- |
-| [TH Placebo- Subtracted, %] [/TH] |  |  |  |
 | Epistaxis | 1 | 9 | 8 |
 | Headache | 39 | 46 | 7 |
 | Dyspepsia | 7 | 13 | 6 |

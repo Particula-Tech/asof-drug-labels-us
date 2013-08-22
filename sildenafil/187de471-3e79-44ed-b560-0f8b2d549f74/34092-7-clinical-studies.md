@@ -75,9 +75,8 @@ Kaplan-Meier plot of time to clinical worsening is presented in Figure 11.
 Table 4.
 Clinical Worsening Events in Study 2
 
-|  | Placebo (N = 131) |  |  |  |
+|  | Placebo (N = 131) |  | Sildenafil Citrate (N = 134) |  |
 | --- | --- | --- | --- | --- |
-| [TH Sildenafil Citrate (N = 134)] [/TH] |  |  |  |  |
 | Number of subjects with clinical worsening first event | 23 |  | 8 |  |
 |  | First Event | All Events | First Event | All Events |
 | Death, n | 3 | 4 | 0 | 0 |
