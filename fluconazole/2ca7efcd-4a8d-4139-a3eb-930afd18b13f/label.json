@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA077731"
+  ],
+  "inn": "fluconazole",
+  "labeler": "Citron Pharma LLC",
+  "package_ndcs": [
+    "57237-003-30",
+    "57237-004-30",
+    "57237-005-11",
+    "57237-006-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "fluconazole",
+      "name": "Fluconazole"
+    }
+  ],
+  "setid": "2ca7efcd-4a8d-4139-a3eb-930afd18b13f",
+  "source": "dailymed"
+}
