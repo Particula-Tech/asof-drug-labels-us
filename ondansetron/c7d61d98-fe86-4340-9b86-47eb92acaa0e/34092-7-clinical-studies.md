@@ -51,7 +51,7 @@ Emetic Episodes: Treatment Response
 
 |  | Ondansetron |  |
 | --- | --- | --- |
-|  | 8‑mg b.i.d.ZOFRAN Tabletsa | 8‑mg t.i.d.ZOFRAN Tabletsb |
+| 8‑mg b.i.d.ZOFRAN Tabletsa | 8‑mg t.i.d.ZOFRAN Tabletsb |  |
 | Number of patients | 165 | 171 |
 | Treatment response |  |  |
 | 0 Emetic episodes | 101 (61%) | 99 (58%) |
