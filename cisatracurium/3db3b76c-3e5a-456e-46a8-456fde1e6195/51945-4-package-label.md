@@ -1,20 +1,35 @@
+NDC 0074–4378–05
+
+Nimbex®
+
+Cisatracurium Besylate Injection
+
+10 mg/5 mL (2 mg/mL)
+
+Single-dose vial
+
+Rx only abbvie
+
 NDC 0074–4380–10
 
-10 mL Multiple-dose Vial
+Nimbex® Cisatracurium Besylate Injection
 
-Nimbex® Injection (cisatracurium besylate)
+20 mg/10 mL (2 mg/mL)
 
-Equivalent to 2 mg/mL (20 mg/10 mL) cisatracurium.
+Multiple-dose vial
 
 0.9% benzyl alcohol (added as a preservative) Rx only
 
+abbvie
+
 NDC 0074–4382–20
 
-20 mL Single-dose Vial
+Nimbex® Cisatracurium Besylate Injection
 
-Nimbex® Injection (cisatracurium besylate)
+200 mg/20 mL (10 mg/mL)
 
-Equivalent to 10 mg/mL (200 mg/20 mL) cisatracurium.
+Single-dose Vial
 
 For ICU use only.
-Rx only
+
+Rx only abbvie
