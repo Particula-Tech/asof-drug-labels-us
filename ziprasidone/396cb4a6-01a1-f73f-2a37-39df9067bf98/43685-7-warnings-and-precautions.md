@@ -87,9 +87,15 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on ziprasidone, drug discontinuation should be considered.
 However, some patients may require treatment with ziprasidone despite the presence of the syndrome.
 
-## 5.5 Hyperglycemia and Diabetes Mellitus
+## 5.5 Metabolic Changes
 
-Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics.
+Atypical antipsychotic drugs have been associated with metabolic changes that may increase cardiovascular/cerebrovascular risk.
+These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
+While all of the drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
+
+Hyperglycemia and Diabetes Mellitus
+
+Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with atypical antipsychotics.
 There have been few reports of hyperglycemia or diabetes in patients treated with ziprasidone.
 Although fewer patients have been treated with ziprasidone, it is not known if this more limited experience is the sole reason for the paucity of such reports.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
@@ -103,6 +109,98 @@ Patients with risk factors for diabetes mellitus (e.g., obesity, family history 
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
+
+Pooled data from short-term, placebo-controlled studies in schizophrenia are presented in Tables 1 and 2.
+Note that for the flexible dose studies in schizophrenia, each subject is categorized as having received either low (20 to 40 mg BID) or high (60 to 80 mg BID) dose based on the subject’s modal daily dose.
+In the tables showing categorical changes, the percentages (% column) are calculated as 100x(n/N).
+
+Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
+
+| Mean Random Glucose Change from Baseline mg/dL (N) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ziprasidone |  |  |  |  |  | Placebo |
+| 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
+| -1.1 (N=45) | +2.4 (N=179) | -0.2 (N=146) | -0.5 (N=119) | -1.7 (N=104) | +4.1 (N=85) | +1.4 (N=260) |
+
+*”Random” glucose measurements—fasting/non-fasting status unknown
+
+Table 2: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
+
+| Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
+| --- | --- | --- | --- | --- |
+| Random Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Ziprasidone | 438 | 77 (17.6%) |
+|  |  | Placebo | 169 | 26 (15.4%) |
+|  | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Ziprasidone | 159 | 54 (34%) |
+|  |  | Placebo | 66 | 22 (33.3%) |
+
+*”Random” glucose measurements – fasting/non-fasting status unknown
+
+In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random glucose for ziprasidone 20 to 40 mg BID was -3.4 mg/dL (N=122); for ziprasidone 60 to 80 mg BID was +1.3 mg/dL (N=10); and for placebo was +0.3 mg/dL (N=71).
+
+Dyslipidemia
+
+Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
+Pooled data from short-term, placebo-controlled studies in schizophrenia are presented in Tables 3 and 4.
+
+Table 3: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Schizophrenia
+
+| Mean Lipid Change from Baseline mg/dL (N) |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Laboratory Analyte |  |  | Ziprasidone |  |  |  | Placebo |
+|  | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
+| Triglycerides | -12.9 (N=45) | -9.6 (N=181) | -17.3 (N=146) | -0.05 (N=120) | -16 (N=104) | +0.8 (N=85) | -18.6 (N=260) |
+| Total Cholesterol | -3.6 (N=45) | -4.4 (N=181) | -8.2 (N=147) | -3.6 (N=120) | -10 (N=104) | -3.6 (N=85) | -4.7 (N=261) |
+
+*”Random” lipid measurements, fasting/non-fasting status unknown
+
+Table 4: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Schizophrenia
+
+| Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
+| --- | --- | --- | --- | --- |
+| Triglycerides | Increase by ≥50 mg/dL | Ziprasidone | 681 | 232 (34.1%) |
+|  |  | Placebo | 260 | 53 (20.4%) |
+|  | Normal to High (<150 mg/dL to ≥200 mg/dL) | Ziprasidone | 429 | 63 (14.7%) |
+|  |  | Placebo | 152 | 12 (7.9%) |
+|  | Borderline to High (≥150 mg/dL and <200 mg/dL to ≥200 mg/dL) | Ziprasidone | 92 | 43 (46.7%) |
+|  |  | Placebo | 41 | 12 (29.3%) |
+| Total Cholesterol | Increase by ≥40 mg/dL | Ziprasidone | 682 | 76 (11.1%) |
+|  |  | Placebo | 261 | 26 (10%) |
+|  | Normal to High (<200 mg/dL to ≥240 mg/dL) | Ziprasidone | 380 | 15 (3.9%) |
+|  |  | Placebo | 145 | 0 (0%) |
+|  | Borderline to High (≥200 mg/dL and <240 mg/dL to ≥240 mg/dL) | Ziprasidone | 207 | 56 (27.1%) |
+|  |  | Placebo | 82 | 22 (26.8%) |
+
+*”Random” lipid measurements, fasting/non-fasting status unknown
+
+In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20 to 40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60 to 80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
+In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20 to 40 mg BID was +2.5 mg/dL (N=14); for ziprasidone 60 to 80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28 mg/dL (N=9).
+
+Weight Gain
+
+Weight gain has been observed with atypical antipsychotic use.
+Monitoring of weight is recommended.
+Pooled data from short-term, placebo-controlled studies in schizophrenia are presented in Table 5.
+
+Table 5: Weight Mean Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Schizophrenia
+
+|  |  |  | Ziprasidone |  |  | Placebo |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
+| Mean Weight (kg) Changes from Baseline (N) |  |  |  |  |  |  |
+| +0.3 (N=40) | +1 (N=167) | +1(N=135) | +0.7 (N=109) | +1.1 (N=97) | +0.9 (N=74) | -0.4 (227) |
+| Preparation of Patients with ≥7% Increase in Weight from Baseline (N) |  |  |  |  |  |  |
+| 0% (N=40) | 9% (N=167) | 10.4% (N=135) | 7.3% (N=109) | 15.5% (N=97) | 10.8% (N=74) | 4% (N=227) |
+
+In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline weight for ziprasidone 20 to 40 mg BID was -2.3 kg (N=124); for ziprasidone 60 to 80 mg BID was +2.5 kg (N=10); and for placebo was -2.9 kg (N=72).
+In the same long-term studies, the proportion of subjects with ≥ 7% increase in weight from baseline for ziprasidone 20 to 40 mg BID was 5.6% (N=124); for ziprasidone 60-80 mg BID was 20% (N=10), and for placebo was 5.6% (N=72).
+In a long-term (at least 1 year), placebo-controlled, fixed-dose study in schizophrenia, the mean change from baseline weight for ziprasidone 20 mg BID was -2.6 kg (N=72); for ziprasidone 40 mg BID was -3.3 kg (N=69); for ziprasidone 80 mg BID was -2.8 kg (N=70) and for placebo was -3.8 kg (N=70).
+In the same long-term fixed-dose schizophrenia study, the proportion of subjects with ≥ 7% increase in weight from baseline for ziprasidone 20 mg BID was 5.6% (N=72); for ziprasidone 40 mg BID was 2.9% (N=69); for ziprasidone 80 mg BID was 5.7% (N=70) and for placebo was 2.9% (N=70).
+
+Schizophrenia -The proportions of patients meeting a weight gain criterion of ³ 7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
+A median weight gain of 0.5 kg was observed in ziprasidone patients compared to no median weight change in placebo patients.
+In this set of clinical trials, weight gain was reported as an adverse reaction in 0.4% and 0.4% of ziprasidone and placebo patients, respectively.
+During long-term therapy with ziprasidone, a categorization of patients at baseline on the basis of body mass index (BMI) revealed the greatest mean weight gain and highest incidence of clinically significant weight gain (> 7% of body weight) in patients with low BMI (<23) compared to normal (23 to 27) or overweight patients (>27).
+There was a mean weight gain of 1.4 kg for those patients with a “low” baseline BMI, no mean change for patients with a “normal” BMI, and a 1.3 kg mean weight loss for patients who entered the program with a “high” BMI.
 
 ## 5.6 Rash
 

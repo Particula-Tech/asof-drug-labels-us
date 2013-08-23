@@ -16,7 +16,9 @@ A reaction was considered treatment emergent if it occurred for the first time o
 
 Adverse Findings Observed in Short-Term, Placebo-Controlled Trials with Oral Ziprasidone The following findings are based on the short-term placebo-controlled premarketing trials for schizophrenia (a pool of two 6-week, and two 4-week fixed-dose trials) in which ziprasidone was administered in doses ranging from 10 to 200 mg/day.
 
-Commonly Observed Adverse Reactions in Short Term-Placebo-Controlled Trials The following adverse reactions were the most commonly observed adverse reactions associated with the use of ziprasidone (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (ziprasidone incidence at least twice that for placebo): Schizophrenia trials (see Table 1)
+Commonly Observed Adverse Reactions in Short Term-Placebo-Controlled Trials The following adverse reactions were the most commonly observed adverse reactions associated with the use of ziprasidone (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (ziprasidone incidence at least twice that for placebo):
+
+Schizophrenia trials (see Table 6)
 
 • Somnolence
 
@@ -27,9 +29,11 @@ SCHIZOPHRENIA
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials of Oral Ziprasidone Approximately 4.1% (29/702) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 2.2% (6/273) on placebo.
 The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [See Warnings and Precautions (5.6)].
 
-Adverse Reactions Occurring at an Incidence of 2% or More among Ziprasidone-Treated Patients in Short-Term, Oral, Placebo-Controlled Trials Table 1 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy (up to 6 weeks) in predominantly patients with schizophrenia, including only those reactions that occurred in 2% or more of patients treated with ziprasidone and for which the incidence in patients treated with ziprasidone was greater than the incidence in placebo-treated patients.
+Adverse Reactions Occurring at an Incidence of 2% or More among Ziprasidone-Treated Patients in Short-Term, Oral, Placebo-Controlled Trials
 
-Table 1: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Placebo-Controlled Trials – Schizophrenia
+Table 6 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy (up to 6 weeks) in predominantly patients with schizophrenia, including only those reactions that occurred in 2% or more of patients treated with ziprasidone and for which the incidence in patients treated with ziprasidone was greater than the incidence in placebo-treated patients.
+
+Table 6: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Placebo-Controlled Trials – Schizophrenia
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -79,17 +83,13 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 
 Vital Sign Changes -Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.7)]
 
-Weight Gain -The proportions of patients meeting a weight gain criterion of ≥7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
-A median weight gain of 0.5 kg was observed in ziprasidone patients compared to no median weight change in placebo patients.
-In this set of clinical trials, weight gain was reported as an adverse reaction in 0.4% and 0.4% of ziprasidone and placebo patients, respectively.
-During long-term therapy with ziprasidone, a categorization of patients at baseline on the basis of body mass index (BMI) revealed the greatest mean weight gain and highest incidence of clinically significant weight gain (>7% of body weight) in patients with low BMI (<23) compared to normal (23-27) or overweight patients (>27).
-There was a mean weight gain of 1.4 kg for those patients with a “low” baseline BMI, no mean change for patients with a “normal” BMI, and a 1.3 kg mean weight loss for patients who entered the program with a “high” BMI.
-
 ECG Changes -Ziprasidone is associated with an increase in the QTc interval [see Warnings and Precautions (5.2)].
 In the schizophrenia trials, ziprasidone was associated with a mean increase in heart rate of 1.4 beats per minute compared to a 0.2 beats per minute decrease among placebo patients.
 
-Other Adverse Reactions Observed During the Premarketing Evaluation of Oral Ziprasidone Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONS section reported by patients treated with ziprasidone in schizophrenia trials at multiple doses >4 mg/day within the database of 3834 patients.
-All reported reactions are included except those already listed in Table 1 or elsewhere in labeling, those reaction terms that were so general as to be uninformative, reactions reported only once and that did not have a substantial probability of being acutely life-threatening, reactions that are part of the illness being treated or are otherwise common as background reactions, and reactions considered unlikely to be drug-related.
+Other Adverse Reactions Observed During the Premarketing Evaluation of Oral Ziprasidone
+
+Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONS section reported by patients treated with ziprasidone in schizophrenia trials at multiple doses >4 mg/day within the database of 3834 patients.
+All reported reactions are included except those already listed in Table 6 or elsewhere in labeling, those reaction terms that were so general as to be uninformative, reactions reported only once and that did not have a substantial probability of being acutely life-threatening, reactions that are part of the illness being treated or are otherwise common as background reactions, and reactions considered unlikely to be drug-related.
 It is important to emphasize that, although the reactions reported occurred during treatment with ziprasidone, they were not necessarily caused by it.
 
 Adverse reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions:
