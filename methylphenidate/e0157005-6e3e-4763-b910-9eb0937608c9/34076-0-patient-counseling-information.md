@@ -2,6 +2,8 @@
 
 See FDA-approved patient labeling (Medication Guide)
 
+## 17.1 Information for Patients
+
 Information on the Medication Guide
 
 Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with QUILLIVANT XR, and counsel them on its appropriate use.
@@ -48,6 +50,13 @@ Advise patients that QUILLIVANT XR, at recommended doses, can cause psychotic or
 Suppression of Growth
 
 Advise patients, families, and caregivers that QUILLIVANT XR can cause slowing of growth and weight loss [see Warnings and Precautions (5.5)].
+
+Circulation Problems in Fingers and Toes [Peripheral vasculopathy, including Raynaud's phenomenon]
+
+- Instruct patients beginning treatment with QUILLIVANT XR about the risk of peripheral vasculopathy, including Raynaud's phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking QUILLIVANT XR.
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 Pregnancy
 

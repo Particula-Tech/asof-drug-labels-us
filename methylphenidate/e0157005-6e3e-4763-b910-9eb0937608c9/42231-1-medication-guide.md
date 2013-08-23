@@ -19,6 +19,10 @@ This Medication Guide does not take the place of talking to your doctor about yo
 | Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms |
 | Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. |
 | Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking QUILLIVANT XR, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
+| 3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]: |
+| Fingers or toes may feel numb, cool, painfulFingers or toes may change color from pale, to blue, to red |
+| Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes. |
+| Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking QUILLIVANT XR. |
 
 What is QUILLIVANT XR?
 
@@ -48,6 +52,7 @@ Before starting QUILLIVANT XR tell your or your child's doctor about all health 
 
 - heart problems, heart defects, high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
+- circulation problems in fingers and toes
 - are pregnant or plan to become pregnant.
   It is not known if QUILLIVANT XR will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
@@ -148,10 +153,10 @@ What are the ingredients in QUILLIVANT XR?
 
 Active Ingredient: methylphenidate hydrochloride
 
-Inactive Ingredients: sodium polystyrene sulfonate, povidone, triacetin, polyvinol, sucrose, anhydrous trisodium citrate, anhydrous citric acid, sodium benzoate, sucralose, poloxamer 188, corn starch, xanthan gum, talc, banana flavor, and silicon dioxide.
+Inactive Ingredients: sodium polystyrene sulfonate, povidone, triacetin, polyvinyl acetate, sucrose, anhydrous trisodium citrate, anhydrous citric acid, sodium benzoate, sucralose, poloxamer 188, corn starch, xanthan gum, talc, banana flavor, and silicon dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0657-1.0
+LAB-0657-3.0
 
-January 2013
+August 2013

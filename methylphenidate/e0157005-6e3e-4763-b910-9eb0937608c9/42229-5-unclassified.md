@@ -1,4 +1,4 @@
-Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 LAB-0656-1.0
+Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 LAB-0656-3.0
 
 Instructions for Use
 
@@ -6,7 +6,7 @@ QUILLIVANT™ XR (\kwil-ə-vant\) (methylphenidate hydrochloride) for extended-r
 
 Read the Instructions for Use before using QUILLIVANT XR and each time you get a refill.
 There may be new information.
-This leaflet does not take the place of talking with the doctor about you or your child's medical condition or treatment.
+This leaflet does not take the place of talking with the doctor about your or your child's medical condition or treatment.
 
 Step 1.
 Remove the QUILLIVANT XR bottle and oral dosing dispenser from the box (See Figure A). If the oral dosing dispenser is missing or not provided, please contact your pharmacist for a replacement.
@@ -80,6 +80,6 @@ Figure M
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-LAB-0658-1.0
+LAB-0658-2.
 
-January 2013
+August 2013

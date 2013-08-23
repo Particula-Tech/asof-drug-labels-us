@@ -14,4 +14,4 @@ Methylphenidate HCl is a white, odorless crystalline powder.
 Its solutions are acid to litmus.
 It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone.
 
-QUILLIVANT XR also contains the following inactive ingredients: sodium polystyrene sulfonate, povidone, triacetin, polyvinol, sucrose, anhydrous trisodium citrate, anhydrous citric acid, sodium benzoate, sucralose, poloxamer 188, corn starch, xanthan gum, talc, banana flavor, and silicon dioxide.
+QUILLIVANT XR also contains the following inactive ingredients: sodium polystyrene sulfonate, povidone, triacetin, polyvinyl acetate, sucrose, anhydrous trisodium citrate, anhydrous citric acid, sodium benzoate, sucralose, poloxamer 188, corn starch, xanthan gum, talc, banana flavor, and silicon dioxide.

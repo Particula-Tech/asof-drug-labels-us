@@ -22,7 +22,7 @@ Mean d-Methylphenidate Plasma Concentration-Time Profiles
 
 The single dose pharmacokinetics of d-MPH under fed conditions are summarized (Table 3) from studies in children and adolescents with ADHD, and healthy adults following an oral dose of 60 mg QUILLIVANT XR.
 
-Table 3. d-MPH PK Parameters (mean ±SD) after 60 mg oral dosing of QUILLIVANT XRBreakfast was given 30 min after drug administration
+Table 3. d-MPH PK Parameters (mean ±SD) after 60 mg oral dosing of QUILLIVANT XRBreakfast was given 30 min prior to drug administration
 
 | PK Parameter | Childrentotal MPH measured in children (9–12 years old) and adolescents (13–15 years old), l-MPH <2% of d-MPH in circulation (n=3) | Adolescent (n=4) | Adult (n=27) |
 | --- | --- | --- | --- |
