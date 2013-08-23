@@ -1,105 +1,120 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Cefazolin is an antibacterial drug [see Microbiology (12.4)].
+
+## 12.2 Pharmacodynamics
+
+The pharmacokinetic/pharmacodynamic relationship for cefazolin has not been evaluated in patients.
+
+## 12.3 Pharmacokinetics
 
 Studies have shown that following intravenous administration of cefazolin to normal volunteers, mean serum concentrations peaked at approximately 185 mcg/mL and were approximately 4 mcg/mL at 8 hours for a 1 gram dose.
 
-The serum half-life for cefazolin is approximately 1.8 hours following IV administration.
+The serum half-life for cefazolin is approximately 1.8 hours following intravenous administration.
 
-In a study (using normal volunteers) of constant intravenous infusion with dosages of 3.5 mg/kg for 1 hour (approximately 250 mg) and 1.5 mg/kg the next 2 hours (approximately 100 mg), cefazolin produced a steady serum concentration at the third hour of approximately 28 mcg/mL.
+In a study, using normal volunteers, of constant intravenous infusion with dosages of 3.5 mg/kg for 1 hour (approximately 250 mg) and 1.5 mg/kg the next 2 hours (approximately 100 mg), cefazolin produced a steady serum concentration at the third hour of approximately 28 mcg/mL.
+
+Plasma pharmacokinetic parameters of cefazolin in normal volunteers (N=12) following a single 15-minute intravenous infusion of 2 grams of Cefazolin for Injection, USP are summarized in Table 3.
+
+Table 3: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Normal Volunteers
+
+|  | N | Cmax (mcg/mL) | Tmax* (h) | AUC0-inf (mcg*h/mL) | t½ (h) | CL (L/h) | Vz (L) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Single 2 g Dose as a 15-Minute I.V. Infusion | 12 | 280.9 (45.9) | 0.25 (0.25-0.33) | 509.9 (89.3) | 2.01 (0.28) | 4.03 (0.68) | 11.5 (1.53) |
+| *Tmax reported as median(range) |  |  |  |  |  |  |  |
+| N = number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t½ = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution |  |  |  |  |  |  |  |
 
 Studies in patients hospitalized with infections indicate that cefazolin produces mean peak serum concentrations approximately equivalent to those seen in normal volunteers.
 
-Bile levels in patients without obstructive biliary disease can reach or exceed serum levels by up to five times; however, in patients with obstructive biliary disease, bile levels of cefazolin are considerably lower than serum levels (< 1 mcg/mL).
+Bile concentrations in patients without obstructive biliary disease can reach or exceed serum concentrations by up to five times; however, in patients with obstructive biliary disease, bile concentrations of cefazolin are considerably lower than serum concentrations (< 1 mcg/mL).
 
-In synovial fluid, the cefazolin level becomes comparable to that reached in serum at about 4 hours after drug administration.
+In synovial fluid, the cefazolin concentration becomes comparable to that reached in serum at about 4 hours after drug administration.
 
 Studies of cord blood show prompt transfer of cefazolin across the placenta.
-Cefazolin is present in very low levels in the milk of nursing mothers.
+Cefazolin is present in very low concentrations in the milk of nursing mothers.
 
 Cefazolin is excreted unchanged in the urine.
 In the first 6 hours approximately 60% of the drug is excreted in the urine and this increases to 70% to 80% within 24 hours.
 
-In patients undergoing peritoneal dialysis (2 L/hr.), cefazolin produced mean serum levels of approximately 10 and 30 mcg/mL after 24 hours' instillation of a dialyzing solution containing 50 mg/L and 150 mg/L, respectively.
-Mean peak levels were 29 mcg/mL (range 13 to 44 mcg/mL) with 50 mg/L (3 patients), and 72 mcg/mL (range 26 to 142 mcg/mL) with 150 mg/L (6 patients).
-Intraperitoneal administration of cefazolin is usually well tolerated.
+## 12.4 Microbiology
 
-Controlled studies on adult normal volunteers, receiving 1 gram 4 times a day for 10 days, monitoring CBC, SGOT, SGPT, bilirubin, alkaline phosphatase, BUN, creatinine, and urinalysis, indicated no clinically significant changes attributed to cefazolin.
+Mechanism of Action
 
-## Microbiology
+Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
 
-In vitro tests demonstrate that the bactericidal action of cephalosporins results from inhibition of cell wall synthesis.
-Cefazolin has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in INDICATIONS AND USAGE:
+Mechanism of Resistance
 
-Gram-Positive Aerobes:
+Predominant mechanisms of bacterial resistance to cephalosporins include the presence of extended-spectrum beta-lactamases and enzymatic hydrolysis.
 
-Staphylococcus aureus (including beta-lactamase-producing strains)
+Lists of Microorganisms
 
-Staphylococcus epidermidis
+Cefazolin has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE (1) section.
 
-Streptococcus pyogenes, Streptococcus agalactiae and other strains of streptococci
+- Gram-Positive Bacteria
+  - Staphylococcus aureus
+  - Staphylococcus epidermidis
+  - Streptococcus pyogenes and Streptococcus agalactiae
+  - Streptococcus pneumoniae
 
-Streptococcus pneumoniae
+Methicillin-resistant staphylococci are uniformly resistant to cefazolin,
 
-Methicillin-resistant staphylococci are uniformly resistant to cefazolin, and many Enterococcus strains are resistant.
+- Gram-Negative Bacteria
+  - Escherichia coli
+  - Proteus mirabilis
 
-Gram-Negative Aerobes:
+Most isolates of indole positive Proteus (Proteus vulgaris), Enterobacter spp., Morganella morganii, Providencia rettgeri, Serratia spp. and Pseudomonas spp. are resistant to cefazolin.
 
-Escherichia coli
+Susceptibility Test Methods
 
-Proteus mirabilis
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Most strains of indole positive Proteus (Proteus vulgaris), Enterobacter spp., Morganella morganii, Providencia rettgeri and Pseudomonas spp. are resistant to cefazolin.
+Dilution Techniques
 
-### Susceptibility Tests:
+Quantitative methods are used to determine minimum inhibitory concentrations (MICs).
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MICs should be determined using a standard test1,2 (broth and/or agar).
+The MIC values obtained should be interpreted according to criteria as provided in Table 4.
 
-#### Diffusion Techniques:
+Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure1 that has been recommended for use with disks to test the susceptibility of microorganisms to cefazolin uses the 30-mcg cefazolin disk.
-Results of the standardized single-disk susceptibility test1 with a 30-mcg cefazolin disk should be interpreted according to the following criteria:
+The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be interpreted using a standard test method 2,3.
+This procedure uses paper disks impregnated with 30 mcg cefazolin to test the susceptibility of microorganisms to cefazolin.
+The disk diffusion interpretive criteria are provided in Table 4.
 
-RECOMMENDED RANGES FOR CEFAZOLIN SUSCEPTIBILITY TESTING
+Table 4: Susceptibility Test Interpretive Criteria for Cefazolin*
 
-| Zone diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 18 | Susceptible (S) |
-| 15 to 17 | Intermediate (I) |
-| ≤ 14 | Resistant (R) |
+| Pathogen | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm)† |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Susceptible | Intermediate | Resistant | Susceptible | Intermediate | Resistant |  |
+| Escherichia coli Proteus mirabilis | ≤1 | 2 | ≥4 | - | - | - |
+| Staphylococcus aureus | ≤8 | 16 | ≥32 | ≥18 | 15-17 | ≤14 |
+| *Interpretive criteria are based on 1 gram every 8 hours |  |  |  |  |  |  |
+| †The cefazolin disk should not be used for determining susceptibility to other cephalosporins |  |  |  |  |  |  |
 
-Standardized single-disk susceptibility test should be performed ONLY with a 30-mcg cefazolin disk.
+NOTE: S. pyogenes and S. agalactiae that have a penicillin MIC of ≤0.12 mcg/mL or disk diffusion zone diameters of ≥24 mm with a 10 mcg penicillin disk may be interpreted as susceptible to cefazolin.
+Non-meningitis isolates of S. pneumoniae that have a penicillin MIC of ≤0.06 mcg/mL may be interpreted as susceptible to cefazolin.
 
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited by usually achievable concentrations of the antimicrobial compound in the blood.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of the drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors form causing major discrepancies in interpretation.
-A report of “Resistant” indicates that usually achievable concentrations of the antimicrobial compound in the blood are unlikely to be inhibitory and that other therapy should be selected.
+A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
+A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug product is physiologically concentrated or in situations where a high dosage of the drug product can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of Resistant indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-Standardized susceptibility test procedures require the use of laboratory control microorganisms.
-The 30-mcg cefazolin disk should provide the following zone diameters in these laboratory test quality control strains:
+Quality Control
 
-| Microorganism | Zone diameter (mm) |
-| --- | --- |
-| E. coli ATCC 25922 | 21 to 27 |
-| S. aureus ATCC 25923 | 29 to 35 |
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individual performing the test1,2,3.
+Standard cefazolin powder should provide the following MIC values noted in Table 5.
+For the diffusion technique using the 30 mcg disk, the criteria in Table 5 should be achieved.
 
-The cefazolin disk should not be used for testing susceptibility to other cephalosporins.
+Table 5: Acceptable Quality Control Ranges for Cefazolin
 
-#### Dilution Techniques:
-
-Quantitative methods that are used to determine minimum inhibitory concentrations provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure uses a standardized dilution method2 (broth, agar or microdilution) or equivalent with cefazolin powder.
-The MIC values obtained should be interpreted according to the following criteria:
-
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤ 16 | Susceptible (S) |
-| ≥ 64 | Resistant (R) |
-
-Interpretation should be as stated above for results using diffusion techniques.
-
-As with standard diffusion techniques, dilution methods require the use of laboratory control microorganisms.
-Standard cefazolin powder should provide the following MIC values:
-
-| Microorganism | MIC (mcg/mL) |
-| --- | --- |
-| S. aureus ATCC 25923 | 0.25 to 1 |
-| E. coli ATCC 25922 | 1 to 4 |
+| QC Isolate | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
+| --- | --- | --- |
+| E. coli ATCC® 25922 | 1 to 4 | 21 to 27 |
+| S. aureus ATCC® 29213 | 0.25 to 1 | - |
+| S. aureus ATCC® 25923 | - | 29 to 35 |
