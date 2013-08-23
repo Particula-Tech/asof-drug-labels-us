@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In patients taking diclofenac sodium delayed-release tablets, or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1%-10% of patients are:
+In patients taking diclofenac sodium delayed-release tablets, USP or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1%-10% of patients are:
 
 Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
 

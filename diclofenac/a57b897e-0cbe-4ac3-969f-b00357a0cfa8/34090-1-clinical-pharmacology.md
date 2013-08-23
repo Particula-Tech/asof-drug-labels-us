@@ -2,7 +2,7 @@
 
 ## Pharmacodynamics
 
-Diclofenac sodium delayed-release tablets are a nonsteroidal anti-inflammatory drug (NSAID) that exhibits anti-inflammatory, analgesic, and antipyretic activities in animal models.
+Diclofenac sodium delayed-release tablets, USP are a non-steroidal anti-inflammatory drug (NSAID) that exhibits anti-inflammatory, analgesic, and antipyretic activities in animal models.
 The mechanism of action of diclofenac sodium delayed-release, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition.
 
 ## Pharmacokinetics

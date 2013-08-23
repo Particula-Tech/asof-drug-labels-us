@@ -20,7 +20,7 @@ Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatm
 
 NSAIDs can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
-NSAIDs, including diclofenac sodium delayed-release tablets, should be used with caution in patients with hypertension.
+NSAIDs, including diclofenac sodium delayed-release tablets, USP should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
 
 ## Congestive Heart Failure and Edema
@@ -118,7 +118,7 @@ In late pregnancy, as with other NSAIDs, diclofenac sodium delayed-release shoul
 
 ## General
 
-Diclofenac sodium delayed-release tablets cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
+Diclofenac sodium delayed-release tablets, USP cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
 Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
 Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids.
 

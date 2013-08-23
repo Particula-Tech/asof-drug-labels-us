@@ -2,14 +2,13 @@
 
 Diclofenac Sodium Delayed-Release Tablets, USP are available as follows:
 
-- 50 mg — Each white, round, enteric-coated tablet printed with on one side and 550 on the other side with black ink contains 50 mg of Diclofenac Sodium, USP.
-  Tablets are supplied in bottles of 60 (NDC 0228-2550-06), 100 (NDC 0228-2550-11) and 1000 (NDC 0228-2550-96).
+50 mg — Each white, round, enteric-coated tablet printed with on one side and 550 on the other side with black ink contains 50 mg of Diclofenac Sodium, USP.
+Tablets are supplied in bottles of 60 (NDC 0228-2550-06), 100 (NDC 0228-2550-11) and 1000 (NDC 0228-2550-96).
 
-- 
-  - 75 mg — Each white, round, enteric-coated tablet printed with on one side and 551 on the other side with black ink contains 75 mg of Diclofenac Sodium, USP.
-    Tablets are supplied in bottles of 60 (NDC 0228-2551-06), 100 (NDC 0228-2551-11), and 1000 (NDC 0228-2551-96).
+75 mg — Each white, round, enteric-coated tablet printed with on one side and 551 on the other side with black ink contains 75 mg of Diclofenac Sodium, USP.
+Tablets are supplied in bottles of 60 (NDC 0228-2551-06), 100 (NDC 0228-2551-11), and 1000 (NDC 0228-2551-96).
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Store at 25(C (77(F); excursions permitted to 15(to 30(C (59(to 86(F).
 
 Protect from moisture.
 
@@ -19,9 +18,9 @@ Manufactured by: Actavis Elizabeth LLC
 
 200 Elmora Avenue, Elizabeth, NJ 07207 USA
 
-40-8780
+40-9184
 
-Revised — March 2011
+Revised — June 2012
 
 Medication Guide for
 
@@ -29,57 +28,37 @@ Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
+Rx only
+
 What is the most important information I should know about medicines called Non- Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-- NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
+NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
 
-- 
-  - This chance increases:
+This chance increases:
 
 - with longer use of NSAID medicines
 - in people who have heart disease
 
-NSAID medicines should never be used right before or after a heart surgery called a
-
-- “coronary artery bypass graft (CABG).”
+NSAID medicines should never be used right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
 
 NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
 Ulcers and bleeding:
 
 - can happen without warning symptoms
-- may cause death
-
-The chance of a person getting an ulcer or bleeding increases with:
-
+- may cause deathThe chance of a person getting an ulcer or bleeding increases with:
 - taking medicines called “corticosteroids” and “anticoagulants”
 - longer use
 - smoking
 - drinking alcohol
 - older age
-- having poor health
-
-NSAID medicines should only be used:
-
+- having poor healthNSAID medicines should only be used:
 - exactly as prescribed
 - at the lowest dose possible for your treatment
-- for the shortest time needed
-
-What are Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
-
-NSAID medicines are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as:
-
+- for the shortest time neededWhat are Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?NSAID medicines are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as:
 - different types of arthritis
-- menstrual cramps and other types of short-term pain
-
-Who should not take a Non-Steroidal Anti-Inflammatory Drug (NSAID)?
-
-Do not take an NSAID medicine:
-
+- menstrual cramps and other types of short-term painWho should not take a Non-Steroidal Anti-Inflammatory Drug (NSAID)?Do not take an NSAID medicine:
 - if you had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAID medicine
-- for pain right before or after heart bypass surgery
-
-Tell your healthcare provider:
-
+- for pain right before or after heart bypass surgeryTell your healthcare provider:
 - about all your medical conditions.
 - about all of the medicines you take.
   NSAIDs and some other medicines can interact with each other and cause serious side effects.
@@ -100,30 +79,27 @@ What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSA
 | • kidney problems including kidney failure | • heartburn |
 | • bleeding and ulcers in the stomach and intestine | • nausea |
 | • low red blood cells (anemia) | • vomiting |
-| • life-threatening skin reactions |  |
+| • life-threatening skin reactions | • dizziness |
 | • life-threatening allergic reactions |  |
-|  | Continued on reverse side |
-| Continued |  |
-| Serious side effects include: | Other side effects include: |
-| • liver problems including liver failure | • dizziness |
+| • liver problems including liver failure |  |
 | • asthma attacks in people who have asthma |  |
 
 Get emergency help right away if you have any of the following symptoms:
 
 | • shortness of breath or trouble breathing | • slurred speech |
 | --- | --- |
-| • chest pain | • swelling of the face |
-| • weakness in one part or side of your body | • or throat |
+| • chest pain | • swelling of the face or throat |
+| • weakness in one part or side of your body |  |
 
 Stop your NSAID medicine and call your healthcare provider right away if you have any of the following symptoms:
 
-| • nausea | •there is blood in your bowel movement or it is black and sticky like tar |
+| • nausea | • there is blood in your bowel movement or |
 | --- | --- |
-| • more tired or weaker than usual |  |
-| • itching | •unusual weight gain |
+| • more tired or weaker than usual | it is black and sticky like tar |
+| • itching | • unusual weight gain |
 | • your skin or eyes look yellow | • skin rash or blisters with fever |
-| • stomach pain | • swelling of the arms and legs, hands and feet |
-| • flu-like symptoms |  |
+| • stomach pain | • swelling of the arms and legs, hands and |
+| • flu-like symptoms | feet |
 | • vomit blood |  |
 
 These are not all the side effects with NSAID medicines.
