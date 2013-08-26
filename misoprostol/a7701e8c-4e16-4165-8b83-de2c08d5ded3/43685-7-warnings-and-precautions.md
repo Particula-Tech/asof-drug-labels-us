@@ -230,7 +230,7 @@ Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhi
 This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, may result in deterioration of renal function, including possible acute renal failure.
-Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+These effects are usually reversible.
 
 ### Aspirin
 
@@ -287,10 +287,22 @@ This response has been attributed to inhibition of renal prostaglandin synthesis
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 Concomitant therapy with potassium-sparing diuretics may be associated with increased serum potassium levels.
 
+### CYP2C9 inhibitors
+
+Use caution when dosing diclofenac with CYP2C9 inhibitors (e.g., voriconazole).
+Concomitant use of CYP2C9 inhibitors may enhance toxicity of diclofenac due to an increase in systemic exposure to diclofenac.
+When concomitant use of CYP2C9 inhibitors is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of Diclofenac sodium/misoprostol 50 twice daily (see DOSAGE AND ADMINISTRATION).
+
 ### Voriconazole
 
 In a published study, single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2).
 The mean Cmax and AUC of diclofenac were increased by 2.1-fold and 1.8-fold respectively when coadministered with voriconazole compared to diclofenac alone.
+
+### CYP2C9 inducers
+
+Use caution when dosing diclofenac with CYP2C9 inducers (e.g., rifampin).
+Concomitant use of CYP2C9 inducers may lead to compromised efficacy due to a decrease in systemic exposure to diclofenac.
+The separate products of misoprostol and diclofenac should be used if a higher dose of diclofenac is deemed necessary (see DOSAGE AND ADMINISTRATION).
 
 ### Other drugs
 
@@ -387,4 +399,4 @@ No overall differences in safety or effectiveness were observed between these su
 Diclofenac is known to be substantially excreted by the kidney, and the risk of toxic reactions to diclofenac sodium/misoprostol tablets may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see WARNINGS—Renal Effects).
 
-Based on studies in the elderly, no adjustment of the dose of diclofenac sodium/misoprostol tablet is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of diclofenac sodium/misoprostol —Special populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
+Based on studies in the elderly, no adjustment of the dose of diclofenac sodium/misoprostol tablet is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of diclofenac sodium/misoprostol Specific populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.

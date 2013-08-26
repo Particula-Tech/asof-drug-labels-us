@@ -67,6 +67,6 @@ Skin and appendages: Acne, alopecia, bruising, eczema, erythema multiforme, exfo
 
 Special senses: Hearing impairment, taste loss, taste perversion, tinnitus.
 
-Urinary system: Cystitis, dysuria, hematuria, interstitial nephritis, micturition frequency, nocturia, nephrotic syndrome, oliguria/polyuria, papillary necrosis, proteinuria, renal failure, urinary tract infection.
+Urinary system: Cystitis, dysuria, hematuria, interstitial nephritis, micturition frequency, nocturia, nephrotic syndrome, oliguria/polyuria, papillary necrosis, proteinuria, renal failure, urinary tract infection, glomerulonephritis membranous, glomerulonephritis minimal lesion.
 
 Vision: Amblyopia, blurred vision, conjunctivitis, diplopia, glaucoma, iritis, lacrimation abnormal, night blindness, vision abnormal.
