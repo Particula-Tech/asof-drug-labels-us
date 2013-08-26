@@ -2,27 +2,27 @@
 
 ## 6.1. Clinical Studies Experience
 
+Donepezil hydrochloride 5 mg/day and 10 mg/day
+
 Mild to Moderate Alzheimer's Disease
 
 Adverse Events Leading to Discontinuation
 
 The rates of discontinuation from controlled clinical trials of donepezil hydrochloride due to adverse events for the donepezil hydrochloride 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
-The rate of discontinuation of patients who received 7-day escalations from
+The rate of discontinuation of patients who received 7-day escalations from 5 mg/day to 10 mg/day was higher at 13%.
 
-5 mg/day to 10 mg/day was higher at 13%.
-
-The most common adverse events leading to discontinuation, defined as those occurring in at least 2% of patients and at twice or more the incidence seen in placebo patients are shown in Table 1.
+The most common adverse events leading to discontinuation, defined as those occurring in at least 2% of patients and at twice or more the incidence seen in placebo patients, are shown in Table 1.
 
 Table 1.
 Most Frequent Adverse Events Leading to Discontinuation from Controlled Clinical Trials by Dose Group
 
-| Dose Group |  | Placebo |  | 5 mg/day Donepezil Hydrochloride |  | 10 mg/day Donepezil Hydrochloride |
-| --- | --- | --- | --- | --- | --- | --- |
-| Patients Randomized |  | 355 |  | 350 |  | 315 |
-| Event/%Discontinuing |  |  |  |  |  |  |
-| Nausea | 1% |  | 1% |  | 3% |  |
-| Diarrhea | 0% |  | <1% |  | 3% |  |
-| Vomiting | <1% |  | <1% |  | 2% |  |
+| Dose Group | Placebo | 5 mg/day Donepezil Hydrochloride | 10 mg/day Donepezil Hydrochloride |
+| --- | --- | --- | --- |
+| Patients Randomized | 355 | 350 | 315 |
+| Event/%Discontinuing |  |  |  |
+| Nausea | 1% | 1% | 3% |
+| Diarrhea | 0% | <1% | 3% |
+| Vomiting | <1% | <1% | 2% |
 
 Most Frequent Adverse Events Seen in Association with the Use of Donepezil Hydrochloride
 
@@ -226,6 +226,6 @@ Special Senses: Infrequent: conjunctivitis, glaucoma, abnormal vision, ear pain,
 
 Urogenital System: Frequent: urinary tract infection, cystitis, hematuria, glycosuria; Infrequent: vaginitis, dysuria, urinary frequency, albuminuria.
 
-## 6.2 Postmarketing Experience
+## 6.2. Postmarketing Experience
 
 Voluntary reports of adverse events temporally associated with donepezil hydrochloride that have been received since market introduction that are not listed above, and for which there are inadequate data to determine the causal relationship with the drug include the following: abdominal pain, agitation, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, and rash.

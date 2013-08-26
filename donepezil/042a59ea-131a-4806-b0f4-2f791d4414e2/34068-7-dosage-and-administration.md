@@ -4,7 +4,7 @@ Donepezil hydrochloride should be taken in the evening, just prior to retiring.
 
 Donepezil hydrochloride can be taken with or without food.
 
-## 2.1 Mild to Moderate Alzheimer's Disease
+## 2.1. Mild to Moderate Alzheimer's Disease
 
 The dosages of donepezil hydrochloride shown to be effective in controlled clinical trials are 5 mg and 10 mg administered once per day.
 
@@ -12,11 +12,11 @@ The higher dose of 10 mg did not provide a statistically significantly greater c
 There is a suggestion, however, based upon order of group mean scores and dose trend analyses of data from these clinical trials, that a daily dose of 10 mg of donepezil hydrochloride might provide additional benefit for some patients.
 Accordingly, whether or not to employ a dose of 10 mg is a matter of prescriber and patient preference.
 
-## 2.2 Severe Alzheimer's Disease
+## 2.2. Moderate to Severe Alzheimer’s Disease
 
-Donepezil hydrochloride has been shown to be effective in controlled clinical trials at a dose of 10 mg administered once daily.
+Donepezil hydrochloride has been shown to be effective in controlled clinical trials at doses of 10 mg administered once daily.
 
-## 2.3 Titration
+## 2.3. Titration
 
 The recommended starting dose of donepezil hydrochloride is 5 mg once daily.
 Evidence from the controlled trials in mild to moderate Alzheimer's disease indicates that the 10 mg dose, with a one week titration, is likely to be associated with a higher incidence of cholinergic adverse events compared to the 5 mg dose.

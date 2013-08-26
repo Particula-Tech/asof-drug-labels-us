@@ -1,8 +1,8 @@
 # 14. CLINICAL STUDIES
 
-The effectiveness of donepezil hydrochloride as a treatment for Alzheimer's disease is demonstrated by the results of randomized, double-blind, placebo-controlled clinical investigations
+The effectiveness of donepezil hydrochloride as a treatment for Alzheimer's disease is demonstrated by the results of randomized, double-blind, placebo-controlled clinical investigations.
 
-## 14.1 Mild to Moderate Alzheimer's disease
+## 14.1. Mild to Moderate Alzheimer's Disease
 
 The effectiveness of donepezil hydrochloride as a treatment for mild to moderate Alzheimer's disease is demonstrated by the results of two randomized, double-blind, placebo-controlled clinical investigations in patients with Alzheimer's disease (diagnosed by NINCDS and DSM III-R criteria, Mini-Mental State Examination ≥ 10 and ≤ 26 and Clinical Dementia Rating of 1 or 2).
 The mean age of patients participating in donepezil hydrochloride trials was 73 years with a range of 50 to 94.
@@ -47,13 +47,20 @@ Following 6 weeks of placebo washout, scores on the ADAS-cog for both the donepe
 This suggests that the beneficial effects of donepezil hydrochloride abate over 6 weeks following discontinuation of treatment and do not represent a change in the underlying disease.
 There was no evidence of a rebound effect 6 weeks after abrupt discontinuation of therapy.
 
+Figure 1.
+Time-course of the Change from Baseline in ADAS-cog Score for Patients Completing 24 Weeks of Treatment
+
 Figure 2 illustrates the cumulative percentages of patients from each of the three treatment groups who had attained the measure of improvement in ADAS-cog score shown on the X axis.
 Three change scores, (7-point and 4-point reductions from baseline or no change in score) have been identified for illustrative purposes, and the percent of patients in each group achieving that result is shown in the inset table.
 
 The curves demonstrate that both patients assigned to placebo and donepezil hydrochloride have a wide range of responses, but that the active treatment groups are more likely to show greater improvements.
 A curve for an effective treatment would be shifted to the left of the curve for placebo, while an ineffective or deleterious treatment would be superimposed upon or shifted to the right of the curve for placebo.
 
-Effects on the CIBIC-plus: Figure 3 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients assigned to each of the three treatment groups who completed 24 weeks of treatment.
+Figure 2.
+Cumulative Percentage of Patients Completing 24 Weeks of Double-blind Treatment with Specified Changes from Baseline ADAS-cog Scores.
+The Percentages of Randomized Patients who Completed the Study were: Placebo 80%, 5 mg/day 85% and 10 mg/day 68%
+
+Effects on the CIBIC-plus:Figure 3 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients assigned to each of the three treatment groups who completed 24 weeks of treatment.
 The mean drug-placebo differences for these groups of patients were 0.35 points and 0.39 points for 5 mg/day and 10 mg/day of donepezil hydrochloride, respectively.
 These differences were statistically significant.
 There was no statistically significant difference between the two active treatments.
@@ -69,6 +76,9 @@ These differences were statistically significant.
 The effect size for the 10 mg/day group may appear to be slightly larger than that for 5 mg/day.
 However, the differences between active treatments were not statistically significant.
 
+Figure 4.
+Time-course of the Change from Baseline in ADAS-cog Score for Patients Completing the 15-week Study.
+
 Following 3 weeks of placebo washout, scores on the ADAS-cog for both the donepezil hydrochloride treatment groups increased, indicating that discontinuation of donepezil hydrochloride resulted in a loss of its treatment effect.
 The duration of this placebo washout period was not sufficient to characterize the rate of loss of the treatment effect, but, the 30-week study (see above) demonstrated that treatment effects associated with the use of donepezil hydrochloride abate within 6 weeks of treatment discontinuation.
 
@@ -78,17 +88,24 @@ The percentages of patients achieving those results are shown in the inset table
 
 As observed in the 30-week study, the curves demonstrate that patients assigned to either placebo or to donepezil hydrochloride have a wide range of responses, but that the donepezil hydrochloride treated patients are more likely to show greater improvements in cognitive performance.
 
+Figure 5.
+Cumulative Percentage of Patients with Specified Changes from Baseline ADAS-cog Scores.
+The Percentages of Randomized Patients Within Each Treatsment Group Who Completed the Study Were: Placebo 93%, 5 mg/day 90% and 10 mg/day 82%.
+
 Effects on the CIBIC-plus: Figure 6 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients assigned to each of the three treatment groups who completed 12 weeks of treatment.
 The differences in mean scores for donepezil hydrochloride treated patients compared to the patients on placebo at Week 12 were 0.36 and 0.38 points for the 5 mg/day and 10 mg/day treatment groups, respectively.
 These differences were statistically significant.
 
+Figure 6.
+Frequency Distribution of CIBIC plus Scores at Week 12.
+
 In both studies, patient age, sex and race were not found to predict the clinical outcome of donepezil hydrochloride treatment.
 
-## 14.2 Severe Alzheimer's disease
+## 14.2. Moderate to Severe Alzheimer’s Disease
+
+The effectiveness of donepezil hydrochloride in the treatment of patients with moderate to severe Alzheimer’s Disease was established in studies employing doses of 10 mg/day.
 
 Studies of 10 mg/day
-
-Swedish 6 Month Study
 
 The effectiveness of donepezil hydrochloride as a treatment for severe Alzheimer's disease is demonstrated by the results of a randomized, double-blind, placebo-controlled clinical study conducted in Sweden (6 month study) in patients with probable or possible Alzheimer's disease diagnosed by NINCDS-ADRDA and DSM-IV criteria, MMSE: range of 1-10.
 Two hundred and forty eight (248) patients with severe Alzheimer's disease were randomized to donepezil hydrochloride or placebo.
@@ -117,16 +134,30 @@ The investigator performs the inventory by interviewing a caregiver, in this stu
 Effects on the SIB:
 
 Figure 7 shows the time course for the change from baseline in SIB score for the two treatment groups over the 6 months of the study.
-At 6 months of treatment, the mean difference in the SIB change scores for donepezil hydrochloride treated patients compared to patients on placebo was 5.9 points. donepezil hydrochloride treatment was statistically significantly superior to placebo.
+At 6 months of treatment, the mean difference in the SIB change scores for donepezil hydrochloride treated patients compared to patients on placebo was 5.9 points.
+Donepezil hydrochloride treatment was statistically significantly superior to placebo.
+
+Figure 7.
+Time Course of the Change from Baseline in SIB Score for Patients Completing 6 months of Treatment.
 
 Figure 8 illustrates the cumulative percentages of patients from each of the two treatment groups who attained the measure of improvement in SIB score shown on the X-axis.
 While patients assigned both to donepezil hydrochloride and to placebo have a wide range of responses, the curves show that the donepezil hydrochloride group is more likely to show a greater improvement in cognitive performance.
 
+Figure 8.
+Cumulative Percentage of Patients Completing 6 Months of Double-blind Treatment with Particular Changes from Baseline in SIB Scores.
+
+Figure 9.
+Time Course of the Change from Baseline in ADCS-ADL-Severe Score for Patients Completing 6 Months of Treatment.
+
 Effects on the ADCS-ADL-severe: Figure 9 illustrates the time course for the change from baseline in ADCS-ADL-severe scores for patients in the two treatment groups over the 6 months of the study.
-After 6 months of treatment, the mean difference in the ADCS-ADL-severe change scores for donepezil hydrochloride treated patients compared to patients on placebo was 1.8 points. donepezil hydrochloride treatment was statistically significantly superior to placebo.
+After 6 months of treatment, the mean difference in the ADCS-ADL-severe change scores for donepezil hydrochloride treated patients compared to patients on placebo was 1.8 points.
+Donepezil hydrochloride treatment was statistically significantly superior to placebo.
 
 Figure 10 shows the cumulative percentages of patients from each treatment group with specified changes from baseline ADCS-ADL-severe scores.
 While both patients assigned to donepezil hydrochloride and placebo have a wide range of responses, the curves demonstrate that the donepezil hydrochloride group is more likely to show a smaller decline or an improvement.
+
+Figure 10.
+Cumulative Percentage of Patients Completing 6 Months of Double-blind Treatment with Particular Changes from Baseline in ADCS-ADL-Severe Scores.
 
 Japanese 24-Week Study
 

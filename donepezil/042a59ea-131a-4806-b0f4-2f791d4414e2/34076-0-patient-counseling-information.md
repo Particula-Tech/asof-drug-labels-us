@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Information Sheet attached to this label.
+See FDA-approved Patient Package Insert attached to this label.
 
 To assure safe and effective use of donepezil hydrochloride, the information and instructions provided in the attached Patient Package Insert should be discussed with patients and caregivers.
 
@@ -10,9 +10,9 @@ Patients and caregivers should be instructed that donepezil hydrochloride can be
 
 Patients and caregivers should be advised that the product may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue and decreased appetite.
 
-DONEPEZIL HYDROCHLORIDE PATIENT INFORMATION SHEET
+DONEPEZIL HYDROCHLORIDE PATIENT PACKAGE INSERT
 
-Donepezil hydrochloride tablets
+Donepezil Hydrochloride Tablets, USP
 
 - Tablets: 5 mg and 10 mg
 
@@ -21,11 +21,11 @@ There may be new information.
 This leaflet does not take the place of talking with the doctor about Alzheimer's disease or treatment for it.
 If you have questions, ask the doctor or pharmacist.
 
-What is Donepezil Hydrochloride?
+What is donepezil hydrochloride?
 
 Donepezil hydrochloride comes as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg and 10 mg.
 
-Donepezil hydrochloride is a prescription medicine to treat mild, moderate, and severe Alzheimer's disease (up to 10 mg).
+Donepezil hydrochloride is a prescription medicine to treat mild, moderate and severe Alzheimer’s disease.
 Donepezil hydrochloride can help with mental function and with doing daily tasks.
 Donepezil hydrochloride does not work the same in all people.
 Some people may:
@@ -77,7 +77,7 @@ Tell the responsible doctor or dentist that the patient takes donepezil hydrochl
 
 - surgery
 - medical procedures
-- dental surgery or procedures.
+- dental surgery or procedures
 
 Know the medicines that the patient takes.
 Keep a list of all the patient's medicines.
@@ -135,7 +135,7 @@ This is not a complete list of side effects with donepezil hydrochloride.
 For more information, ask the doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to Solco Healthcare U. S., LLC at 1-866-257-2597 or FDA at 1-800-FDA-1088.
 
 How should donepezil hydrochloride be stored?
 
@@ -153,7 +153,7 @@ This leaflet summarizes the most important information about donepezil hydrochlo
 If you would like more information talk with the patient's doctor.
 You can ask your pharmacist or doctor for information about donepezil hydrochloride that is written for health professionals.
 
-What are the ingredients in donepezil hydrochloride?
+What are the ingredients in Donepezil Hydrochloride Tablets, USP?
 
 Active ingredient: donepezil hydrochloride
 
@@ -161,14 +161,12 @@ Inactive ingredients:
 
 Donepezil Hydrochloride 5 mg and 10 mg film-coated tablets: lactose monohydrate, hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, corn starch, croscarmellose sodium.
 The film of 5 mg tablets coating contains hydroxypropyl methyl cellulose, titanium dioxide, polyethylene glycol, and FD&C blue.
-The 10 mg tablet contains hydroxypropyl methyl cellulose, titanium dioxide, polyethylene glycol, iron oxide yellow and iron oxide red.
-
-Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Linhai, Zhejiang, China
-
-Distributed by: Solco Healthcare U.S. LLC HC-01 Box 16625 Bo.
-Mariana Road 909 km 1.1 Humacao, PR 00791
-
-Rev.
-Date: 10/2011
+The film of 10 mg tablets coating contains hydroxypropyl methyl cellulose, titanium dioxide, polyethylene glycol, iron oxide yellow and iron oxide red.
 
 Rx Only
+
+Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Linhai, Zhejiang, China 317024
+
+Distributed by: Solco Healthcare U.S., LLC Cranbury, NJ 08512
+
+Issued: 06/2013

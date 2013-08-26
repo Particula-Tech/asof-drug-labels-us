@@ -1,6 +1,6 @@
 # 12. CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1. Mechanism of Action
 
 Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer's disease attribute some of them to a deficiency of cholinergic neurotransmission.
 
@@ -8,7 +8,7 @@ Donepezil hydrochloride is postulated to exert its therapeutic effect by enhanci
 This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by acetylcholinesterase.
 There is no evidence that donepezil alters the course of the underlying dementing process.
 
-## 12.2 Pharmacokinetics
+## 12.2. Pharmacokinetics
 
 Pharmacokinetics of donepezil are linear over a dose range of 1-10 mg given once daily.
 The rate and extent of absorption of donepezil hydrochloride tablets are not influenced by food.
@@ -41,5 +41,30 @@ However, retrospective pharmacokinetic analysis and population pharmacokinetic a
 Body weight: There was a relationship noted between body weight and clearance.
 Over the range of body weight from 50 kg to 110 kg, clearance increased from 7.77 L/h to 14.04 L/h, with a value of 10 L/hr for 70 kg individuals.
 
-Drugs Highly Bound to Plasma Proteins: Drug displacement studies have been performed in vitro between this highly bound drug (96%) and other drugs such as furosemide, digoxin, and warfarin. donepezil hydrochloride at concentrations of 0.3-10 micrograms/mL did not affect the binding of furosemide (5 micrograms/mL), digoxin (2 ng/mL), and warfarin (3 micrograms/mL) to human albumin.
+Drug Interactions:
+
+Effect of Donepezil Hydrochloride on the Metabolism of Other Drugs
+
+No in vivo clinical trials have investigated the effect of donepezil hydrochloride on the clearance of drugs metabolized by CYP 3A4 (e.g. cisapride, terfenadine) or by CYP 2D6 (e.g. imipramine).
+However, in vitro studies show a low rate of binding to these enzymes (mean Ki about 50-130 μM), that, given the therapeutic plasma concentrations of donepezil (164 nM), indicates little likelihood of interference.
+Based on in vitro studies, donepezil shows little or no evidence of direct inhibition of CYP2B6, CYP2C8 and CYP2C19 at clinically relevant concentrations.
+
+Whether donepezil hydrochloride has any potential for enzyme induction is not known.
+Formal pharmacokinetic studies evaluated the potential of donepezil hydrochloride for interaction with theophylline, cimetidine, warfarin, digoxin and ketoconazole.
+No effects of donepezil hydrochloride on the pharmacokinetics of these drugs were observed.
+
+Effect of Other Drugs on the Metabolism of Donepezil Hydrochloride
+
+A small effect of CYP2D6 inhibitors was identified in a population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer’s disease.
+Donepezil clearance was reduced by approximately 17% in patients taking 10 mg with a known CYP2D6 inhibitor.
+This result is consistent with the conclusion that CYP2D6 is a minor metabolic pathway of donepezil.
+
+Formal pharmacokinetic studies demonstrated that the metabolism of donepezil hydrochloride is not significantly affected by concurrent administration of digoxin or cimetidine.
+
+An in vitro study showed that donepezil was not a substrate of P-glycoprotein.
+
+Drugs Highly Bound to Plasma Proteins
+
+Drug displacement studies have been performed in vitro between this highly bound drug (96%) and other drugs such as furosemide, digoxin, and warfarin.
+Donepezil hydrochloride at concentrations of 0.3-10 micrograms/mL did not affect the binding of furosemide (5 micrograms/mL), digoxin (2 ng/mL), and warfarin (3 micrograms/mL) to human albumin.
 Similarly, the binding of donepezil hydrochloride to human albumin was not affected by furosemide, digoxin and warfarin.

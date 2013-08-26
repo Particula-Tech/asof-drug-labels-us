@@ -7,7 +7,7 @@ Overdosage with cholinesterase inhibitors can result in cholinergic crisis chara
 Increasing muscle weakness is a possibility and may result in death if respiratory muscles are involved.
 Tertiary anticholinergics such as atropine may be used as an antidote for donepezil hydrochloride overdosage.
 Intravenous atropine sulfate titrated to effect is recommended: an initial dose of 1.0 to 2.0 mg IV with subsequent doses based upon clinical response.
-Atypical responses in blood pressure and heart rate have been reported with other cholinomimetics when co-administered with quaternary anticholinergics such as glycopyrrolate.
+A typical responses in blood pressure and heart rate have been reported with other cholinomimetics when co-administered with quaternary anticholinergics such as glycopyrrolate.
 It is not known whether donepezil hydrochloride and/or its metabolites can be removed by dialysis (hemodialysis, peritoneal dialysis, or hemofiltration).
 
 Dose-related signs of toxicity in animals included reduced spontaneous movement, prone position, staggering gait, lacrimation, clonic convulsions, depressed respiration, salivation, miosis, tremors, fasciculation and lower body surface temperature.
