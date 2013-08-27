@@ -5,7 +5,7 @@ The use of levocetirizine dihydrochloride tablets is contraindicated in:
 ## 4.1 Patients With Known Hypersensitivity
 
 Patients with known hypersensitivity to levocetirizine or any of the ingredients of levocetirizine dihydrochloride tablets, or to cetirizine.
-Observed reactions range from urticaria to anaphylaxis [seeAdverse Reactions (6.2)].
+Observed reactions range from urticaria to anaphylaxis [see Adverse Reactions (6.2)].
 
 ## 4.2 Patients With End-Stage Renal Disease
 

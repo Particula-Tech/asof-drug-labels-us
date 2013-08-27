@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Use of levocetirizine has been associated with somnolence, fatigue, asthenia, and urinary retention [see Warnings and Precautions (5)].
+Use of levocetirizine has been associated with somnolence, fatigue, asthenia, and urinary retention [see Warnings and Precautions(5)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -8,9 +8,10 @@ The safety data described below reflect exposure to levocetirizine in 12 control
 
 The short-term (exposure up to 6 weeks) safety data for adults and adolescents are based upon eight clinical trials in which 1896 patients (825 males and 1071 females aged 12 years and older) were treated with levocetirizine 2.5, 5, or 10 mg once daily in the evening.
 
-The short-term safety data from pediatric patients are based upon two clinical trials in which 243 children (162 males and 81 females 6 to 12 years of age) were treated with levocetirizine 5 mg once daily for 4 to 6 weeks.
+The short-term safety data from pediatric patients are based upon two clinical trials in which 243 children (162 males and 81 females 6 to 12 years of age) were treated with levocetirizine 5 mg once daily for 4 to 6 weeks, one clinical trial in which 114 children (65 males and 49 females 1 to 5 years of age) were treated with levocetirizine 1.25 mg twice daily for 2 weeks, and one clinical trial in which 45 children (28 males and 17 females 6 to 11 months of age) were treated with levocetirizine 1.25 mg once daily for 2 weeks.
 
 The long-term (exposure of 4 or 6 months) safety data in adults and adolescents are based upon two clinical trials in which 428 patients (190 males and 238 females) were exposed to treatment with levocetirizine 5 mg once daily.
+Long term safety data are also available from an 18 month trial in 255 levocetirizine-treated subjects 12 to 24 months of age.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
@@ -27,7 +28,7 @@ Table 1 lists adverse reactions that were reported in greater than or equal to 2
 
 Table 1: Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 12 Years and Older Exposed to Levocetirizine 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1 to 6 Weeks in Duration
 
-| Adverse Reactions | Levocetirizine Dihydrochloride2.5 mg(n = 421) | Levocetirizine Dihydrochloride5 mg(n = 1070) | Placebo(n = 912) |
+| Adverse Reactions | Levocetirizine2.5 mg(n = 421) | Levocetirizine5 mg(n = 1070) | Placebo(n = 912) |
 | --- | --- | --- | --- |
 | Somnolence | 22 (5%) | 61 (6%) | 16 (2%) |
 | Nasopharyngitis | 25 (6%) | 40 (4%) | 28 (3%) |
@@ -45,15 +46,33 @@ Table 2 lists adverse reactions that were reported in greater than or equal to 2
 
 Table 2: Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 6 to 12 Years Exposed to Levocetirizine 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
 
-| Adverse Reactions | Levocetirizine Dihydrochloride5 mg(n = 243) | Placebo(n = 240) |
+| Adverse Reactions | Levocetirizine5 mg(n = 243) | Placebo(n = 240) |
 | --- | --- | --- |
 | Pyrexia | 10 (4%) | 5 (2%) |
 | Cough | 8 (3%) | 2 (< 1%) |
 | Somnolence | 7 (3%) | 1 (< 1%) |
 | Epistaxis | 6 (2%) | 1 (< 1%) |
 
-Clinical trial information in pediatric patients (age 6 months to 5 years) is approved for UCB Inc.'s levocetirizine dihydrochloride drug product labeling.
-However, due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
+Pediatric Patients 1 to 5 Years of Age
+
+A total of 114 pediatric patients 1 to 5 years of age received levocetirizine 1.25 mg twice daily in a two week placebo-controlled double-blind safety trial.
+The mean age of the patients was 3.8 years, 32% were 1 to 2 years of age, 71% were Caucasian and 18% were Black.
+Table 3 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 1 to 5 years exposed to levocetirizine 1.25 mg twice daily in the placebo-controlled safety trial and that were more common with levocetirizine than placebo.
+
+Table 3 Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 1 to 5 Years Exposed to Levocetirizine 1.25 mg Twice Daily in a 2 Week Placebo-Controlled Clinical Trial
+
+| Adverse Reactions | Levocetirizine 1.25 mg Twice Daily (n = 114) | Placebo (n = 59) |
+| --- | --- | --- |
+| Pyrexia | 5 (4%) | 1 (2%) |
+| Diarrhea | 4 (4%) | 2 (3%) |
+| Vomiting | 4 (4%) | 2 (3%) |
+| Otitis Media | 3 (3%) | 0 (0%) |
+
+Pediatric Patients 6 to 11 Months of Age
+
+A total of 45 pediatric patients 6 to 11 months of age received levocetirizine 1.25 mg once daily in a two week placebo-controlled double-blind safety trial.
+The mean age of the patients was 9 months, 51% were Caucasian and 31% were Black.
+Adverse reactions that were reported in more than 1 subject (i.e. greater than or equal to 3% of subjects) aged 6 to 11 months exposed to levoceterizine 1.25 mg once daily in the placebo-controlled safety trial and that were more common with levoceterizine than placebo included diarrhea and constipation which were reported in 6 (13%) and 1 (4%) and 3 (7%) and 1 (4%) children in the levocetirizine and placebo-treated groups, respectively.
 
 Long-Term Clinical Trials Experience
 

@@ -52,7 +52,7 @@ The major route of excretion of levocetirizine and its metabolites is via urine,
 Excretion via feces accounts for only 12.9% of the dose.
 Levocetirizine is excreted both by glomerular filtration and active tubular secretion.
 Renal clearance of levocetirizine correlates with that of creatinine clearance.
-In patients with renal impairment the clearance of levocetirizine is reduced [seeDosage and Administration (2.4)].
+In patients with renal impairment the clearance of levocetirizine is reduced [see Dosage and Administration (2.4)].
 
 - Drug Interaction Studies
 
@@ -60,7 +60,7 @@ In vitro data on metabolite interaction indicate that levocetirizine is unlikely
 Levocetirizine at concentrations well above Cmax level achieved within the therapeutic dose ranges is not an inhibitor of CYP isoenzymes 1A2, 2C9, 2C19, 2A1, 2D6, 2E1, and 3A4, and is not an inducer of UGT1A or CYP isoenzymes 1A2, 2C9 and 3A4.
 
 No formal in vivo drug interaction studies have been performed with levocetirizine.
-Studies have been performed with the racemic cetirizine [seeDrug Interactions (7)].
+Studies have been performed with the racemic cetirizine [see Drug Interactions (7)].
 
 - Pediatric Patients
 
@@ -68,9 +68,8 @@ Data from a pediatric pharmacokinetic study with oral administration of a single
 The mean Cmax was 450 ng/mL, occurring at a mean time of 1.2 hours, weight-normalized, total body clearance was 30% greater, and the elimination half-life 24% shorter in this pediatric population than in adults.
 
 Dedicated pharmacokinetic studies have not been conducted in pediatric patients younger than 6 years of age.
-
-Pharmacokinetic information in pediatric patients (age 1 to 5 years) is approved for UCB Inc.'s levocetirizine dihydrochloride drug product labeling.
-However, due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
+A retrospective population pharmacokinetic analysis was conducted in 324 subjects (181 children 1 to 5 years of age, 18 children 6 to 11 years of age, and 124 adults 18 to 55 years of age) who received single or multiple doses of levocetirizine ranging from 1.25 mg to 30 mg.
+Data generated from this analysis indicated that administration of 1.25 mg once daily to children 6 months to 5 years of age results in plasma concentrations similar to those of adults receiving 5 mg once daily.
 
 - Geriatric Patients
 
@@ -78,7 +77,7 @@ Limited pharmacokinetic data are available in elderly subjects.
 Following once daily repeat oral administration of 30 mg levocetirizine for 6 days in 9 elderly subjects (65 to 74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
 The disposition of racemic cetirizine has been shown to be dependent on renal function rather than on age.
 This finding would also be applicable for levocetirizine, as levocetirizine and cetirizine are both predominantly excreted in urine.
-Therefore, the levocetirizine dose should be adjusted in accordance with renal function in elderly patients [seeDosage and Administration (2)].
+Therefore, the levocetirizine dose should be adjusted in accordance with renal function in elderly patients [see Dosage and Administration (2)].
 
 - Gender
 
@@ -94,7 +93,7 @@ No race-related differences in the kinetics of racemic cetirizine have been obse
 
 - Renal Impairment
 
-Levocetirizine exposure (AUC) exhibited 1.8, 3.2, 4.3, and 5.7 fold increases in mild, moderate, severe, renal impaired, and end-stage renal disease patients, respectively, compared to healthy subjects.
+Levocetirizine exposure (AUC) exhibited 1.8, 3.2, 4.3, and 5.7 fold increase in mild, moderate, severe, renal impaired, and end-stage renal disease patients, respectively, compared to healthy subjects.
 The corresponding increases of half-life estimates were 1.4, 2, 2.9, and 4 fold, respectively.
 
 The total body clearance of levocetirizine after oral dosing was correlated to the creatinine clearance and was progressively reduced based on severity of renal impairment.
@@ -103,11 +102,11 @@ In end-stage renal disease patients (CLCR < 10 mL/min) levocetirizine is contrai
 The amount of levocetirizine removed during a standard 4 hour hemodialysis procedure was < 10%.
 
 The dosage of levocetirizine should be reduced in patients with mild renal impairment.
-Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [seeDosage and Administration (2.4)].
+Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].
 
 - Hepatic Impairment
 
 Levocetirizine has not been studied in patients with hepatic impairment.
 The non-renal clearance (indicative of hepatic contribution) was found to constitute about 28% of the total body clearance in healthy adult subjects after oral administration.
 
-As levocetirizine is mainly excreted unchanged by the kidney, it is unlikely that the clearance of levocetirizine is significantly decreased in patients with solely hepatic impairment [seeDosage and Administration (2)].
+As levocetirizine is mainly excreted unchanged by the kidney, it is unlikely that the clearance of levocetirizine is significantly decreased in patients with solely hepatic impairment [see Dosage and Administration (2)].

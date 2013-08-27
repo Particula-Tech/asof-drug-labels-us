@@ -9,5 +9,5 @@ Concurrent use of levocetirizine with alcohol or other central nervous system de
 ## 5.2 Urinary Retention
 
 Urinary retention has been reported postmarketing with levocetirizine.
-Levocetirizine should be used with caution in patients with predisposing factors of urinary retention (e.g., spinal cord lesion, prostatic hyperplasia) as levocetirizine may increase the risk of urinary retention.
+Levocetirizine should be used with caution in patients with predisposing factors of urinary retention (e.g. spinal cord lesion, prostatic hyperplasia) as levocetirizine may increase the risk of urinary retention.
 Discontinue levocetirizine if urinary retention occurs.

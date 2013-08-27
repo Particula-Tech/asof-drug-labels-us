@@ -12,10 +12,8 @@ Instruct patients to avoid concurrent use of levocetirizine with alcohol or othe
 
 Do not exceed the recommended daily dose in adults and adolescents 12 years of age and older of 5 mg once daily in the evening.
 In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in the evening.
+In children 6 months to 5 years of age, the recommended dose is 1.25 mg once daily in the evening.
 Advise patients to not ingest more than the recommended dose of levocetirizine because of the increased risk of somnolence at higher doses.
-
-Pediatric use information in pediatric patients (age 6 months to 5 years) is approved for UCB Inc.'s levocetirizine dihydrochloride drug product labeling.
-However, due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
 
 Manufactured In Israel By:
 
@@ -31,4 +29,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-F 9/2012
+G 7/2013

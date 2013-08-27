@@ -7,6 +7,8 @@ One side of the tablet is scored in half and debossed with the number "9" on one
 The other side of the tablet debossed with the number "7701".
 They are available in bottles of 90.
 
+Storage:
+
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
