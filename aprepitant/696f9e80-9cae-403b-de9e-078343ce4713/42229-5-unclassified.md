@@ -4,7 +4,7 @@ U.S. Patent Nos.: 5,719,147; 6,096,742
 
 Copyright © 2003, 2005, 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-USPI-C-08691212R005
+uspi-mk0869-c-1308r006
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 

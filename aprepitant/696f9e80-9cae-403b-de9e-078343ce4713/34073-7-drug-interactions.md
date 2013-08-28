@@ -28,11 +28,14 @@ The IV methylprednisolone dose should be reduced by approximately 25%, and the o
 Although the concomitant administration of methylprednisolone with the single 40-mg dose of aprepitant has not been studied, a single 40-mg dose of EMEND produces a weak inhibition of CYP3A4 (based on midazolam interaction study) and it is not expected to alter the plasma concentrations of methylprednisolone to a clinically significant degree.
 Therefore, no dose adjustment is recommended.
 
-Chemotherapeutic agents: [see Warnings and Precautions (5.1)]
+Chemotherapeutic agents:
 
 Docetaxel: In a pharmacokinetic study, EMEND (125-mg/80-mg regimen) did not influence the pharmacokinetics of docetaxel.
 
 Vinorelbine: In a pharmacokinetic study, EMEND (125-mg/80-mg regimen) did not influence the pharmacokinetics of vinorelbine to a clinically significant degree.
+
+Other Chemotherapeutic Agents: EMEND should be used with caution in patients receiving other chemotherapeutic agents that are primarily metabolized through CYP3A4 [see Warnings and Precautions (5.1)].
+Post-marketing events of neurotoxicity, a potential adverse reaction of ifosfamide, have been reported after aprepitant and ifosfamide coadministration.
 
 CYP2C9 substrates (Warfarin, Tolbutamide):
 
