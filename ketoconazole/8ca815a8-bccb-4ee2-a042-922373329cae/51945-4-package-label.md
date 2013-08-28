@@ -1,13 +1,13 @@
-# PRINCIPAL DISPLAY PANEL - 30 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
+
+TARO
 
 NDC 51672-4026-6
 
-Ketoconazole Tablets USP
+30 Tablets
 
-200mg
+Ketoconazole Tablets, USP 200 mg
 
-Each tablet contains: Ketoconazole 200 mg
+DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
 
 Rx only
-
-30 Tablets

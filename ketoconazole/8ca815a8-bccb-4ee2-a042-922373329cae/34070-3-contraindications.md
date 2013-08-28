@@ -1,12 +1,16 @@
 # CONTRAINDICATIONS
 
-Coadministration of terfenadine or astemizole with ketoconazole tablets is contraindicated.
-(See BOX WARNING, WARNINGS, and PRECAUTIONS sections.)
+## Drug Interactions
 
-Concomitant administration of ketoconazole tablets with cisapride is contraindicated.
-(See BOX WARNING, WARNINGS, and PRECAUTIONS sections.)
+Coadministration of a number of CYP3A4 substrates is contraindicated with ketoconazole tablets.
+Coadministration with ketoconazole can cause elevated plasma concentrations of these drugs and may increase or prolong both therapeutic and adverse effects.
+For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsades de pointes, a potentially fatal arrhythmia.
+See WARNINGS section, and PRECAUTIONS: Drug Interactions section for specific examples.
 
-Concomitant administration of ketoconazole tablets with oral triazolam is contraindicated.
-(See PRECAUTIONS section.)
+## Liver Disease
 
-Ketoconazole is contraindicated in patients who have shown hypersensitivity to the drug.
+The use of ketoconazole tablets is contraindicated in patients with acute or chronic liver disease.
+
+## Hypersensitivity
+
+Ketoconazole tablets USP, 200 mg is contraindicated in patients who have shown hypersensitivity to the drug.

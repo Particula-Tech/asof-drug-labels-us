@@ -1,20 +1,58 @@
 # ADVERSE REACTIONS
 
-In rare cases, anaphylaxis has been reported after the first dose.
-Several cases of hypersensitivity reactions including urticaria have also been reported.
-However, the most frequent adverse reactions were nausea and/or vomiting in approximately 3%, abdominal pain in 1.2%, pruritus in 1.5%, and the following in less than 1% of the patients: headache, dizziness, somnolence, fever and chills, photophobia, diarrhea, gynecomastia, impotence, thrombocytopenia, leukopenia, hemolytic anemia, and bulging fontanelles.
-Oligospermia has been reported in investigational studies with the drug at dosages above those currently approved.
-Oligospermia has not been reported at dosages up to 400 mg daily, however sperm counts have been obtained infrequently in patients treated with these dosages.
-Most of these reactions were mild and transient and rarely required discontinuation of ketoconazole tablets.
-In contrast, the rare occurrences of hepatic dysfunction require special attention (see WARNINGS section).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In worldwide postmarketing experience with ketoconazole tablets there have been rare reports of alopecia, paresthesia, and signs of increased intracranial pressure including bulging fontanelles and papilledema.
-Hypertriglyceridemia has also been reported but a causal association with ketoconazole is uncertain.
+The following adverse reactions were reported in clinical trials:
 
-Neuropsychiatric disturbances, including suicidal tendencies and severe depression, have occurred rarely in patients using ketoconazole tablets.
+Immune System Disorders: anaphylactoid reaction
 
-Ventricular dysrhythmias (prolonged QT intervals) have occurred with the concomitant use of terfenadine with ketoconazole tablets.
-(See BOX WARNING, CONTRAINDICATIONS, and WARNINGS sections.)
+Endocrine Disorders: gynecomastia
 
-Data suggest that coadministration of ketoconazole tablets and cisapride can result in prolongation of the QT interval and has rarely been associated with ventricular arrhythmias.
-(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS sections.)
+Metabolism and Nutrition Disorders: alcohol intolerance, anorexia, hyperlipidemia, increased appetite
+
+Psychiatric Disorders: insomnia, nervousness
+
+Nervous System Disorders: headache, dizziness, paresthesia, somnolence
+
+Eye Disorders: photophobia
+
+Vascular Disorders: orthostatic hypotension
+
+Respiratory, Thoracic and Mediastinal Disorders: epistaxis
+
+Gastrointestinal Disorders: vomiting, diarrhea, nausea, constipation, abdominal pain, abdominal pain upper, dry mouth, dysgeusia, dyspepsia, flatulence, tongue discoloration
+
+Hepatobiliary Disorders: hepatitis, jaundice, hepatic function abnormal
+
+Skin and Subcutaneous Tissues Disorders: erythema multiforme, rash, dermatitis, erythema, urticaria, pruritus, alopecia, xeroderma
+
+Musculoskeletal and Connective Tissue Disorders: myalgia
+
+Reproductive System and Breast Disorders: menstrual disorder
+
+General Disorders and Administration Site Conditions: asthenia, fatigue, hot flush, malaise, edema peripheral, pyrexia, chills
+
+Investigations: platelet count decreased.
+
+## Post-Marketing Experience
+
+The following adverse reactions have been identified during postapproval use of ketoconazole tablets.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+The following adverse reactions were reported during post-marketing experience:
+
+Blood and Lymphatic System Disorders: thrombocytopenia
+
+Immune System Disorders: allergic conditions including anaphylactic shock, anaphylactic reaction, angioneurotic edema
+
+Endocrine Disorders: adrenocortical insufficiency
+
+Nervous System Disorders: reversible intracranial pressure increased (e.g. papilloedema, fontanelle bulging in infants)
+
+Hepatobiliary Disorders: serious hepatotoxicity including hepatitis cholestatic, biopsyconfirmed hepatic necrosis, cirrhosis, hepatic failure including cases resulting in transplantation or death
+
+Skin and Subcutaneous Tissue Disorders: acute generalized exanthematous pustulosis, photosensitivity
+
+Musculoskeletal and Connective Tissue Disorders: arthralgia
+
+Reproductive System and Breast Disorders: erectile dysfunction; with doses higher than the recommended therapeutic dose of 200 or 400mg daily, azoospermia.

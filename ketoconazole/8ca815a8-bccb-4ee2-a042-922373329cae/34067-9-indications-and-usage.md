@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Ketoconazole tablets are indicated for the treatment of the following systemic fungal infections: candidiasis, chronic mucocutaneous candidiasis, oral thrush, candiduria, blastomycosis, coccidioidomycosis, histoplasmosis, chromomycosis, and paracoccidioidomycosis.
-Ketoconazole tablets should not be used for fungal meningitis because it penetrates poorly into the cerebral-spinal fluid.
+Ketoconazole tablets USP, 200 mg should be used only when other effective antifungal therapy is not available or tolerated and the potential benefits are considered to outweigh the potential risks.
 
-Ketoconazole tablets are also indicated for the treatment of patients with severe recalcitrant cutaneous dermatophyte infections who have not responded to topical therapy or oral griseofulvin, or who are unable to take griseofulvin.
+Ketoconazole tablets USP, 200 mg are indicated for the treatment of the following systemic fungal infections in patients who have failed or who are intolerant to other therapies: blastomycosis, coccidioidomycosis, histoplasmosis, chromomycosis, and paracoccidioidomycosis.
+Ketoconazole tablets USP, 200 mg should not be used for fungal meningitis because it penetrates poorly into the cerebrospinal fluid.
