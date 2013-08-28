@@ -1,12 +1,13 @@
-Rx only
+Made in Israel
 
-For Dermatologic Use Only.
-Not for Ophthalmic Use.
+Manufactured By Perrigo
 
-MADE IN ISRAEL
+Yeruham 80500, Israel
 
-MANUFACTURED BY PERRIGO® YERUHAM, ISRAEL 80500
+Distributed By
 
-DISTRIBUTED BY PERRIGO® ALLEGAN, MI 49010
+Allegan, MI 49010 • www.perrigo.com
 
-: 1M600 RC J3 REV 12/07
+Rev 08-13
+
+:1M600 RC J4
