@@ -13,7 +13,7 @@ The first section is about the risk of suicidal thoughts and actions with antide
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 This section of the Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your doctor, or your family member’s, healthcare provider about:
+Talk to your doctor or your family member’s healthcare provider about:
 
 - all risks and benefits of treatment with antidepressant medicines
 - all treatment choices for depression or other serious mental illness
@@ -112,15 +112,12 @@ Do not take any other medicines while you are using bupropion hydrochloride exte
 If you have a seizure while taking bupropion hydrochloride extended-release tablets (XL), stop taking the tablets and call your doctor right away.
 Do not take bupropion hydrochloride extended-release tablets (XL) again if you have a seizure.
 
-- High blood pressure (hypertension).
-  Some people get high blood pressure, that can be severe, while taking bupropion hydrochloride extended-release tablets (XL).
+- High blood pressure (hypertension): Some people get high blood pressure, that can be severe, while taking bupropion hydrochloride extended-release tablets (XL).
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
-- Severe allergic reactions.
-  Some people have severe allergic reactions to bupropion hydrochloride extended-release tablets (XL).
+- Severe allergic reactions: Some people have severe allergic reactions to bupropion hydrochloride extended-release tablets (XL).
   Stop taking bupropion hydrochloride extended-release tablets (XL) and call your doctor right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
-- Unusual thoughts or behaviors.
-  Some patients have unusual thoughts or behaviors while taking bupropion hydrochloride extended-release tablets (XL), including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
+- Unusual thoughts or behaviors: Some patients have unusual thoughts or behaviors while taking bupropion hydrochloride extended-release tablets (XL), including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your doctor.
 
 What are bupropion hydrochloride extended-release tablets (XL)?
@@ -132,19 +129,19 @@ Who should not take bupropion hydrochloride extended-release tablets (XL)?
 Do not take bupropion hydrochloride extended-release tablets (XL) if you:
 
 - have or had a seizure disorder or epilepsy.
-- are taking ZYBAN®* (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN®* (bupropion hydrochloride tablets) or WELLBUTRIN SR®* (bupropion hydrochloride extended-release tablets (SR).
+- are taking ZYBAN®* (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN®* Tablets or WELLBUTRIN SR, Sustained-Release Tablets.
   Bupropion is the same active ingredient that is in bupropion hydrochloride extended-release tablets (XL).
 - drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
 - have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL®* (phenelzine sulfate), PARNATE®* (tranylcypromine sulfate), or MARPLAN®* (isocarboxazid).
 - have or had an eating disorder such as anorexia nervosa or bulimia.
-- are allergic to the active ingredient, bupropion, or to any of the inactive ingredients.
+- are allergic to the active ingredient in bupropion hydrochloride extended-release tablets (XL), bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in bupropion hydrochloride extended-release tablets (XL).
 
 What should I tell my doctor before using bupropion hydrochloride extended-release tablets (XL)?
 
 - Tell your doctor if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
   See "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions."
-- Tell your doctor about your medical conditions including if you:
+- Tell your doctor about your medical conditions, including if you:
   - are pregnant or plan to become pregnant.
     It is not known if bupropion can harm your unborn baby.
   - are breastfeeding.
@@ -202,13 +199,12 @@ Common side effects reported in studies of major depressive disorder include wei
 
 If you have nausea, take your medicine with food.
 If you have trouble sleeping, do not take your medicine too close to bedtime.
-Tell your doctor right away about any side effects that bother you.
 
 These are not all the side effects of bupropion hydrochloride extended-release tablets (XL).
 For a complete list, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088 or Watson Laboratories Inc. at 1-800-272-5525.
 
 How should I store bupropion hydrochloride extended-release tablets (XL)?
 
@@ -224,10 +220,12 @@ General Information about bupropion hydrochloride extended-release tablets (XL)
   Do not give bupropion hydrochloride extended-release tablets (XL) to other people, even if they have the same symptoms you have.
   It may harm them.
   Keep bupropion hydrochloride extended-release tablets (XL) out of the reach of children.
+- If you take a urine drug screening test, bupropion hydrochloride extended-release tablets (XL) may make the test result positive for amphetamines.
+  If you tell the person giving you the drug screening test that you are taking bupropion hydrochloride extended-release tablets (XL), they can do a more specific drug screening test that should not have this problem.
 
 This Medication Guide summarizes important information about bupropion hydrochloride extended-release tablets (XL).
 For more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about bupropion hydrochloride extended-release tablets (XL) that is written for health professionals.
+You can ask your doctor or pharmacist for information about bupropion hydrochloride extended-release tablets (XL) that is written for health professionals or call 1-800-272-5525.
 
 What are the ingredients in bupropion hydrochloride extended-release tablets (XL)?
 
@@ -235,12 +233,14 @@ Active ingredient: bupropion hydrochloride.
 Inactive ingredients: colloidal silicon dioxide, ethylcellulose, hydroxypropyl cellulose, methacrylic acid copolymer, microcrystalline cellulose, stearic acid, talc, titanium dioxide, hydrochloric acid and triethyl citrate.
 The tablets are printed with edible black ink.
 
-*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; PARNATE®/GlaxoSmithKline; MARPLAN®/Oxford Pharmaceutical Services, Inc.; ZYBAN®/GlaxoSmithKline; WELLBUTRIN®/GlaxoSmithKline; WELLBUTRIN SR®/GlaxoSmithKline.
+*The following are registered trademarks of their respective manufacturers: WELLBUTRIN® /GlaxoSmithKline; ZYBAN® /GlaxoSmithKline; PARNATE® / GlaxoSmithKline; NARDIL®/Warner Lambert Company; MARPLAN®/ Validus Pharmaceuticals LLC; KALETRA® /Abbott Laboratories.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
 
-Distributed by: Watson Pharma, Inc. Corona, CA 92880 USA
+Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: August 2010 174662-3
+Revised: May 2013
+
+174662-4

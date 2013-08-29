@@ -3,7 +3,7 @@
 (See also WARNINGS and PRECAUTIONS).
 
 Major Depressive Disorder: Bupropion hydrochloride extended-release tablets (XL) have been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion (see CLINICAL PHARMACOLOGY).
-The information included under this subsection is based primarily on data from controlled clinical trials with the sustained-release formulation of bupropion.
+The information included under this subsection is based primarily on data from controlled clinical trials with WELLBUTRIN SR, the sustained-release formulation of bupropion.
 
 Adverse Events Leading to Discontinuation of Treatment With the Immediate-Release or Sustained-Release Formulation of Bupropion: In placebo-controlled clinical trials, 9% and 11% of patients treated with 300 and 400 mg/day, respectively, of the sustained-release formulation of bupropion and 4% of patients treated with placebo discontinued treatment due to adverse events.
 The specific adverse events in these trials that led to discontinuation in at least 1% of patients treated with either 300 mg/day or 400 mg/day of the sustained-release formulation of bupropion, and at a rate at least twice the placebo rate are listed in Table 6.
@@ -107,10 +107,10 @@ Incidence of Commonly Observed Adverse Events in Controlled Clinical Trials: Adv
 
 400 mg/day of the Sustained-Release Formulation: Abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
-Seasonal Affective Disorder: Adverse Events Leading to Discontinuation of Treatment With Bupropion Hydrochloride Extended-Release Tablets (XL): In placebo-controlled clinical trials, 9% of patients treated with the extended-release formulation of bupropion and 5% of patients treated with placebo discontinued treatment due to adverse events.
-The adverse events in these trials that led to discontinuation in at least 1% of patients treated with the extended-release formulation of bupropion and at a rate numerically greater than the placebo rate are insomnia (2% vs <1%) and headache (1% vs <1%).
+Seasonal Affective Disorder: Adverse Events Leading to Discontinuation of Treatment With Bupropion Hydrochloride Extended-Release Tablets (XL): In placebo-controlled clinical trials, 9% of patients treated with bupropion hydrochloride extended-release tablets (XL) and 5% of patients treated with placebo discontinued treatment due to adverse events.
+The adverse events in these trials that led to discontinuation in at least 1% of patients treated with bupropion hydrochloride extended-release tablets (XL) and at a rate numerically greater than the placebo rate are insomnia (2% vs <1%) and headache (1% vs <1%).
 
-Adverse Events Occurring at an Incidence of 2% or More Among Patients Treated With Bupropion Hydrochloride Extended-Release Tablets (XL): Table 8 enumerates treatment-emergent adverse events that occurred among patients treated with the extended-release formulation of bupropion for up to approximately 6 months in 3 placebo-controlled trials.
+Adverse Events Occurring at an Incidence of 2% or More Among Patients Treated With Bupropion Hydrochloride Extended-Release Tablets (XL): Table 8 enumerates treatment-emergent adverse events that occurred among patients treated with bupropion hydrochloride extended-release tablets (XL) for up to approximately 6 months in 3 placebo-controlled trials.
 Events that occurred at an incidence of 2% or more and were more frequent than in the placebo group are included.
 Reported adverse events were classified using a MedDRA-based Dictionary.
 
@@ -124,7 +124,7 @@ A better perspective on the serious adverse events associated with the use of bu
 Table 8.
 Treatment-Emergent Adverse Events* in Placebo-Controlled Trials of Seasonal Affective Disorder
 
-| System Organ Class/ Preferred Term | Bupropion Hydrochloride Extended-Release Formulation (n=537) | Placebo (n=511) |  |
+| System Organ Class/ Preferred Term | Bupropion Hydrochloride Extended-Release Tablets (XL) (n=537) | Placebo (n=511) |  |
 | --- | --- | --- | --- |
 | Gastrointestinal Disorder |  |  |  |
 | Dry Mouth | 26% | 15% |  |
@@ -146,8 +146,8 @@ Treatment-Emergent Adverse Events* in Placebo-Controlled Trials of Seasonal Affe
 | Abnormal dreams | 3% | 2% |  |
 | Agitation | 2% | <1% |  |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |
-| Myalgia | 3% | 3% |  |
-| Pain in extremity | 2% | 2% |  |
+| Myalgia | 3% | 2% |  |
+| Pain in extremity | 3% | 2% |  |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |
 | Cough | 4% | 3% |  |
 | General Disorders and Administration Site Conditions |  |  |  |
@@ -164,11 +164,11 @@ Treatment-Emergent Adverse Events* in Placebo-Controlled Trials of Seasonal Affe
 | Hypertension | 2% | 0% |  |
 | *Adverse events that occurred in at least 2% of patients treated with the extended-release formulation of bupropion, but equally or more frequently in the placebo group, were: abdominal pain upper, arthralgia, back pain, diarrhea, dyspepsia, fatigue, gastroenteritis viral, hyperhidrosis, influenza, irritability, migraine, nasal congestion, neck pain, palpitations, pharyngolaryngeal pain, sinus congestion. |  |  |  |
 
-Incidence of Commonly Observed Adverse Events in Controlled Clinical Trials: Adverse events from Table 8 that occurred in at least 5% of patients treated with the extended-release formulation of bupropion and at a rate at least twice the placebo rate were constipation and flatulence.
+Incidence of Commonly Observed Adverse Events in Controlled Clinical Trials: Adverse events from Table 8 that occurred in at least 5% of patients treated with bupropion hydrochloride extended-release tablets (XL) and at a rate at least twice the placebo rate were constipation and flatulence.
 
-Adverse Events During Taper or Following Discontinuation of the Extended-Release Formulation of Bupropion: Adverse events with onset during the 2 weeks following down-titration of the extended-release formulation of bupropion from 300 mg/day to 150 mg/day were reported by 14% of patients compared to 18% of patients who continued on placebo.
+Adverse Events During Taper or Following Discontinuation of Bupropion Hydrochloride Extended-Release Tablets (XL): Adverse events with onset during the 2 weeks following down-titration of bupropion hydrochloride extended-release tablets (XL) from 300 mg/day to 150 mg/day were reported by 14% of patients compared to 18% of patients who continued on placebo.
 
-Adverse events with onset during the 2 weeks following discontinuation of the extended-release formulation of bupropion were reported by 9% of patients compared with 12% of patients following discontinuation of placebo.
+Adverse events with onset during the 2 weeks following discontinuation of bupropion hydrochloride extended-release tablets (XL) were reported by 9% of patients compared with 12% of patients following discontinuation of placebo.
 
 ## Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion
 

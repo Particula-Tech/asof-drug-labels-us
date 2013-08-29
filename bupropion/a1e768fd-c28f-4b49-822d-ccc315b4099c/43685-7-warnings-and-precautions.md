@@ -42,7 +42,7 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for bupropion hydrochloride extended-release tablets (XL) should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment:WELLBUTRIN®*, WELLBUTRIN SR®*, and bupropion hydrochloride extended-release tablets (XL) are not approved for smoking cessation treatment, but bupropion under the name ZYBAN®* is approved for this use.
+Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment: WELLBUTRIN, WELLBUTRIN SR, and bupropion hydrochloride extended-release tablets (XL) are not approved for smoking cessation treatment, but bupropion under the name ZYBAN is approved for this use.
 Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation (See BOXED WARNING, ADVERSE REACTIONS).
 These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide.
 Some reported cases may have been complicated by the symptoms of nicotine withdrawal in patients who stopped smoking.
@@ -54,13 +54,13 @@ When symptoms were reported, most were during bupropion treatment, but some were
 These events have occurred in patients with and without pre-existing psychiatric disease; some have experienced worsening of their psychiatric illnesses.
 All patients being treated with bupropion as part of smoking cessation treatment should be observed for neuropsychiatric symptoms or worsening of pre-existing psychiatric illness.
 
-Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the pre-marketing studies of ZYBAN®*.
+Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the pre-marketing studies of ZYBAN.
 
 Advise patients and caregivers that the patient using bupropion for smoking cessation should contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
-In many post-marketing cases, resolution of symptoms after discontinuation of ZYBAN®* was reported, although in some cases the symptoms persisted, therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
+In many post-marketing cases, resolution of symptoms after discontinuation of ZYBAN was reported, although in some cases the symptoms persisted, therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
 
 The risks of using bupropion for smoking cessation should be weighed against the benefits of its use.
-ZYBAN®* has been demonstrated to increase the likelihood of abstinence from smoking for as long as six months compared to treatment with placebo.
+ZYBAN has been demonstrated to increase the likelihood of abstinence from smoking for as long as six months compared to treatment with placebo.
 The health benefits of quitting smoking are immediate and substantial.
 
 ## Screening Patients for Bipolar Disorder:
@@ -73,7 +73,7 @@ It should be noted that bupropion hydrochloride extended-release tablets (XL) ar
 
 ## Bupropion-Containing Products:
 
-Patients should be made aware that bupropion hydrochloride extended-release tablets (XL) contain the same active ingredient found in ZYBAN®*, used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN®*, or any other medications that contain bupropion, such as WELLBUTRIN SR®* (bupropion hydrochloride extended-release tablets (SR)), the sustained-release formulation, or WELLBUTRIN®* (bupropion hydrochloride tablets), the immediate-release formulation.
+Patients should be made aware that bupropion hydrochloride extended-release tablets (XL) contain the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN, or any other medications that contain bupropion, such as WELLBUTRIN SR (bupropion hydrochloride), the sustained-release formulation, or WELLBUTRIN (bupropion hydrochloride), the immediate-release formulation.
 
 ## Seizures:
 
@@ -83,7 +83,7 @@ Bupropion hydrochloride extended-release tablets (XL) should be discontinued and
 
 As bupropion hydrochloride extended-release tablets (XL) are bioequivalent to both the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion, the seizure incidence with bupropion hydrochloride extended-release tablets (XL), while not formally evaluated in clinical trials, may be similar to that presented below for the immediate-release and sustained-release formulations of bupropion.
 
-- Dose: At doses up to 300 mg/day of the sustained-release formulation of bupropion, the incidence of seizure is approximately 0.1% (1/1,000).
+- Dose: At doses up to 300 mg/day of the sustained-release formulation of bupropion (WELLBUTRIN SR), the incidence of seizure is approximately 0.1% (1/1,000).
   Data for the immediate-release formulation of bupropion revealed a seizure incidence of approximately 0.4% (i.e., 13 of 3,200 patients followed prospectively) in patients treated at doses in a range of 300 to 450 mg/day.
   This seizure incidence (0.4%) may exceed that of some other marketed antidepressants.
   Additional data accumulated for the immediate-release formulation of bupropion suggested that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day.
@@ -103,7 +103,7 @@ Bupropion hydrochloride extended-release tablets (XL) should be administered wit
 ## Hepatic Impairment:
 
 Bupropion hydrochloride extended-release tablets (XL) should be used with extreme caution in patients with severe hepatic cirrhosis.
-In these patients a reduced frequency and/or dose is required as peak bupropion as well as AUC, levels are substantially increased and accumulation is likely to occur in such patients to a greater extent than usual.
+In these patients a reduced frequency and/or dose is required as peak bupropion as well as AUC levels are substantially increased and accumulation is likely to occur in such patients to a greater extent than usual.
 The dose should not exceed 150 mg every other day in these patients (see CLINICAL PHARMACOLOGY, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
 ## Potential for Hepatotoxicity:
@@ -118,14 +118,14 @@ In dogs receiving large doses of bupropion chronically, various histologic chang
 ### Agitation and Insomnia
 
 Increased restlessness, agitation, anxiety, and insomnia, especially shortly after initiation of treatment, have been associated with treatment with bupropion.
-In 3 placebo-controlled clinical trials of seasonal affective disorder with the extended-release formulation of bupropion, experienced agitation, anxiety, and insomnia as shown in Table 2.
+In 3 placebo-controlled clinical trials of seasonal affective disorder with bupropion hydrochloride extended-release tablets (XL), the incidence of agitation, anxiety, and insomnia are shown in Table 2.
 
 Table 2.
-Incidence of Agitation, Anxiety, and Insomnia in Placebo-Controlled Trials of extended-release formulation of bupropion for Seasonal Affective Disorder
+Incidence of Agitation, Anxiety, and Insomnia in Placebo-Controlled Trials of Bupropion Hydrochloride Extended-release Tablets (XL) for Seasonal Affective Disorder
 
 |  | (n = 537) | (n = 511) |
 | --- | --- | --- |
-| Adverse Event Term | Bupropion Hydrochloride Extended-Release Formulation | Placebo |
+| Adverse Event Term | Bupropion Hydrochloride Extended-Release Tablets (XL) | Placebo |
 |  | 150 to 300 mg/day |  |
 | Agitation | 2% | <1% |
 | Anxiety | 7% | 5% |
@@ -160,19 +160,19 @@ Bupropion hydrochloride extended-release tablets (XL) are expected to pose simil
 
 ### Altered Appetite and Weight
 
-In 3 placebo-controlled clinical trials of seasonal affective disorder with the extended-release formulation of bupropion the percentage of patients with weight gain or weight loss are shown in Table 4.
+In 3 placebo-controlled clinical trials of seasonal affective disorder with bupropion extended-release tablets (XL) the percentage of patients with weight gain or weight loss are shown in Table 4.
 
 Table 4.
-Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials of the extended-release formulation of bupropion for Seasonal Affective Disorder
+Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials of the Bupropion Hydrochloride Extended-release Tablets (XL) for Seasonal Affective Disorder
 
 |  | (n = 537) | (n = 511) |
 | --- | --- | --- |
-| Adverse Event Term | Bupropion Hydrochloride Extended-Release Formulation | Placebo |
+| Adverse Event Term | Bupropion Hydrochloride Extended-Release Tablets (XL) | Placebo |
 |  | 150 to 300 mg/day |  |
 | Gained >5 lbs | 11% | 21% |
 | Lost >5 lbs | 23% | 11% |
 
-In placebo-controlled studies of major depressive disorder using the sustained-release formulation of bupropion, patients experienced weight gain or weight loss as shown in Table 5.
+In placebo-controlled studies of major depressive disorder using WELLBUTRIN SR, the sustained-release formulation of bupropion, patients experienced weight gain or weight loss as shown in Table 5.
 
 Table 5.
 Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials of the sustained-release formulation of bupropion for Major Depressive Disorder
@@ -201,10 +201,10 @@ These symptoms may resemble serum sickness.
 In clinical practice, hypertension, in some cases severe, requiring acute treatment, has been reported in patients receiving bupropion alone and in combination with nicotine replacement therapy.
 These events have been observed in both patients with and without evidence of pre-existing hypertension.
 
-Data from a comparative study of the sustained-release formulation of bupropion (ZYBAN®* Sustained-Release Tablets), nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
+Data from a comparative study of the sustained-release formulation of bupropion (ZYBAN® Sustained-Release Tablets), nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
 In this study, 6.1% of patients treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared to 2.5%, 1.6%, and 3.1% of patients treated with sustained-release bupropion, NTS, and placebo, respectively.
 The majority of these patients had evidence of preexisting hypertension.
-Three patients (1.2%) treated with the combination of ZYBAN®* and NTS and 1 patient (0.4%) treated with NTS had study medication discontinued due to hypertension compared to none of the patients treated with ZYBAN®* or placebo.
+Three patients (1.2%) treated with the combination of ZYBAN and NTS and 1 patient (0.4%) treated with NTS had study medication discontinued due to hypertension compared to none of the patients treated with ZYBAN or placebo.
 Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.
 
 There is no clinical experience establishing the safety of bupropion hydrochloride extended-release tablets (XL) in patients with a recent history of myocardial infarction or unstable heart disease.
@@ -244,12 +244,12 @@ Families and caregivers of patients should be advised to look for the emergence 
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment: Although bupropion hydrochloride extended-release tablets (XL) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN®* which is approved for this use.
-Patients should be informed that quitting smoking, with or without ZYBAN®*, may be associated with nicotine withdrawal symptoms (including depression or agitation), or exacerbation of pre-existing psychiatric illness.
-Furthermore, some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt and completed suicide when attempting to quit smoking while taking ZYBAN®*.
+Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment: Although bupropion hydrochloride extended-release tablets (XL) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
+Patients should be informed that quitting smoking, with or without ZYBAN, may be associated with nicotine withdrawal symptoms (including depression or agitation), or exacerbation of pre-existing psychiatric illness.
+Furthermore, some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt and completed suicide when attempting to quit smoking while taking ZYBAN.
 If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
 
-Bupropion-Containing Products: Patients should be made aware that bupropion hydrochloride extended-release tablets (XL) contain the same active ingredient found in ZYBAN®*, used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN®*, or any other medications that contain bupropion (such as WELLBUTRIN SR®* (bupropion hydrochloride extended-release tablets (SR), the sustained-release formulation, or WELLBUTRIN®* (bupropion hydrochloride tablets), the immediate-release formulation.
+Bupropion-Containing Products: Patients should be made aware that bupropion hydrochloride extended-release tablets (XL) contain the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN, or any other medications that contain bupropion (such as WELLBUTRIN SR, the sustained-release formulation, and WELLBUTRIN, the immediate-release formulation).
 
 Patients should be told that bupropion hydrochloride extended-release tablets (XL) should be discontinued and not restarted if they experience a seizure while on treatment.
 
@@ -267,6 +267,11 @@ Patients should be advised to notify their physicians if they become pregnant or
 
 Patients should be advised to swallow bupropion hydrochloride extended-release tablets (XL) whole so that the release rate is not altered.
 Do not chew, divide, or crush tablets, as this may lead to an increased risk of adverse effects, including seizures.
+
+Patients should be advised that they may notice in their stool something that looks like a tablet.
+This is normal.
+The medication in WELLBUTRIN XL is contained in a nonabsorbable shell that has been specially designed to slowly release drug in the body.
+When this process is completed, the empty shell is eliminated from the body.
 
 ## Laboratory Tests
 
@@ -287,8 +292,9 @@ Following oral administration of two 150 mg tablets of the sustained-release for
 However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
 
 In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir (KALETRA) 400 mg twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
-This effect is thought to be due to the induction of bupropion metabolism.
-Patients receiving ritonavir may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
+Similarly, efavirenz 600mg once daily for 2 weeks reduced the exposure of bupropion by approximately 55%.
+This effect of ritonavir, KALETRA, and efavirenz is thought to be due to the induction of bupropion metabolism.
+Patients receiving any of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
 
 While not systematically studied, certain drugs may induce the metabolism of bupropion (e.g., carbamazepine, phenobarbital, phenytoin).
 
@@ -306,6 +312,9 @@ Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been
 
 Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
+
+Drugs which require metabolic activation by CYP2D6 in order to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
+
 Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
 Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
 
@@ -321,6 +330,11 @@ Nicotine Transdermal System: (see PRECAUTIONS: Cardiovascular Effects).
 
 Alcohol: In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with bupropion.
 The consumption of alcohol during treatment with bupropion hydrochloride extended-release tablets (XL) should be minimized or avoided (also see CONTRAINDICATIONS).
+
+Drug-Laboratory Test Interactions: False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
+This is due to lack of specificity of some screening tests.
+False-positive test results may result even following discontinuation of bupropion therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

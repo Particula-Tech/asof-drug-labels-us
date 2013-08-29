@@ -8,7 +8,7 @@ If necessary, these effects may be managed by temporary reduction of dose or the
 A sedative hypnotic usually is not required beyond the first week of treatment.
 Insomnia may also be minimized by avoiding bedtime doses.
 If distressing, untoward effects supervene, dose escalation should be stopped.
-Bupropion hydrochloride extended-release tablets (XL) should be swallowed whole and not crushed, divided, or chewed, as this may lead to increased risk of adverse effects including seizures.
+Bupropion hydrochloride extended-release tablets (XL) should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increased risk of adverse effects including seizures.
 
 Bupropion hydrochloride extended-release tablets (XL) may be taken without regard to meals.
 
@@ -48,11 +48,11 @@ For patients taking 300 mg/day during the autumn-winter season, the dose should 
 
 Doses of bupropion hydrochloride extended-release tablets (XL) above 300 mg/day have not been studied for the prevention of seasonal major depressive episodes.
 
-## Switching Patients from WELLBUTRIN®* (bupropion hydrochloride tablets) or from WELLBUTRIN SR®* (bupropion hydrochloride extended-release tablets (SR))
+## Switching Patients from WELLBUTRIN Tablets or from WELLBUTRIN SR Sustained-Release Tablets:
 
-When switching patients from WELLBUTRIN®* (bupropion hydrochloride tablets) to bupropion hydrochloride extended-release tablets (XL) or from WELLBUTRIN SR®* (bupropion hydrochloride extended-release tablets (SR)) to bupropion hydrochloride extended-release tablets (XL), give the same total daily dose when possible.
-Patients who are currently being treated with WELLBUTRIN®* (bupropion hydrochloride tablets) at 300 mg/day (for example, 100 mg 3 times a day) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
-Patients who are currently being treated with WELLBUTRIN SR®* (bupropion hydrochloride extended-release tablets (SR)) at 300 mg/day (for example, 150 mg twice daily) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
+When switching patients from WELLBUTRIN Tablets to bupropion hydrochloride extended-release tablets (XL) or from WELLBUTRIN SR Sustained-ReleaseTablets to bupropion hydrochloride extended-release tablets (XL), give the same total daily dose when possible.
+Patients who are currently being treated with WELLBUTRIN Tablets) at 300 mg/day (for example, 100 mg 3 times a day) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
+Patients who are currently being treated with WELLBUTRIN SR Sustained-ReleaseTablets at 300 mg/day (for example, 150 mg twice daily) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
 
 ## Dosage Adjustment for Patients With Impaired Hepatic Function
 
