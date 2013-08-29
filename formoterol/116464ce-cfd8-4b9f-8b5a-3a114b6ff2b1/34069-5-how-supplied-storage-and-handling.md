@@ -13,7 +13,7 @@ Table 7
 | DULERA 200 mcg/5 mcg 120 inhalations | 0085-4610-01 |
 | DULERA 200 mcg/5 mcg 60 inhalations (institutional pack) | 0085-4610-05 |
 
-Each strength is supplied as a pressurized aluminum canister that has a blue plastic actuator integrated with a dose counter and a blue dust cap.
+Each strength is supplied as a pressurized aluminum canister that has a blue plastic actuator integrated with a dose counter and a green dust cap.
 Each 120-inhalation canister has a net fill weight of 13 grams and each 60-inhalation canister has a net fill weight of 8.8 grams.
 Each canister is placed into a carton.
 Each carton contains 1 canister and a Medication Guide.

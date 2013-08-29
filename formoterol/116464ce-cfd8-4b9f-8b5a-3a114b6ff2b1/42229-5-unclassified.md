@@ -2,13 +2,13 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 
 Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
 
-Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
-
 For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-418131-MFF-AO-USPI.18
+Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+uspi-ao-mk0887a-1308r020
 
 Patient Instructions for Use
 
@@ -21,7 +21,7 @@ Before using your DULERA, read the complete instructions and use only as directe
 The parts of your DULERA:
 
 There are 2 main parts to your DULERA inhaler – the metal canister that holds the medicine and the blue plastic actuator that sprays the medicine from the canister.
-The inhaler also has a cap that covers the mouthpiece of the actuator (see Figure 1).
+The inhaler also has a green cap that covers the mouthpiece of the actuator (see Figure 1).
 The cap from the mouthpiece must be removed before use.
 The inhaler contains 60 or 120 actuations (puffs).
 
@@ -125,8 +125,6 @@ Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
-
 For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
@@ -137,6 +135,8 @@ AEROLIZER is a registered trademark of Novartis AG.
 
 NORVIR and KALETRA are registered trademarks of Abbott Laboratories.
 
-Revised: 07/2013
+Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-418131-MFF-AO-MG.14
+Revised: 08/2013
+
+usmg-ao-mk0887a-1308r016
