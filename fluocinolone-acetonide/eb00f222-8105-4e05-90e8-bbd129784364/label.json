@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019452"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Royal Pharmaceuticals",
+  "package_ndcs": [
+    "68791-103-20"
+  ],
+  "products": [
+    {
+      "form": "OIL",
+      "generic": "fluocinolone acetonide",
+      "name": "DermOtic"
+    }
+  ],
+  "setid": "eb00f222-8105-4e05-90e8-bbd129784364",
+  "source": "dailymed"
+}
