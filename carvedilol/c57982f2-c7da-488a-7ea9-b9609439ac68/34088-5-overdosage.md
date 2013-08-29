@@ -7,9 +7,9 @@ The patient should be placed in a supine position and, where necessary, kept und
 Gastric lavage or pharmacologically induced emesis may be used shortly after ingestion.
 The following agents may be administered:
 
-for excessive bradycardia: Atropine, 2 mg IV.
+For excessive bradycardia: Atropine, 2 mg IV.
 
-to support cardiovascular function: Glucagon, 5 to 10 mg IV rapidly over 30 seconds, followed by a continuous infusion of 5 mg/hour; sympathomimetics (dobutamine, isoprenaline, adrenaline) at doses according to body weight and effect.
+To support cardiovascular function: Glucagon, 5 to 10 mg IV rapidly over 30 seconds, followed by a continuous infusion of 5 mg/hour; sympathomimetics (dobutamine, isoprenaline, adrenaline) at doses according to body weight and effect.
 
 If peripheral vasodilation dominates, it may be necessary to administer adrenaline or noradrenaline with continuous monitoring of circulatory conditions.
 For therapy-resistant bradycardia, pacemaker therapy should be performed.

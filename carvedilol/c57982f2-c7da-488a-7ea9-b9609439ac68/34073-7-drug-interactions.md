@@ -15,9 +15,9 @@ Clonidine therapy can then be discontinued several days later by gradually decre
 
 ## 7.3 Cyclosporine
 
-Modest increases in mean trough cyclosporine concentrations were observed following initiation of carvedilol treatment in 21 renal transplant patients suffering from chronic vascular rejection.
-In about 30% of patients, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range, while in the remainder no adjustment was needed.
-On the average for the group, the dose of cyclosporine was reduced about 20% in these patients.
+Modest increases in mean trough cyclosporine concentrations were observed following initiation of carvedilol treatment in 21 renal transplant subjects suffering from chronic vascular rejection.
+In about 30% of subjects, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range, while in the remainder no adjustment was needed.
+On the average for the group, the dose of cyclosporine was reduced about 20% in these subjects.
 Due to wide interindividual variability in the dose adjustment required, it is recommended that cyclosporine concentrations be monitored closely after initiation of carvedilol therapy and that the dose of cyclosporine be adjusted as appropriate.
 
 ## 7.4 Digitalis Glycosides

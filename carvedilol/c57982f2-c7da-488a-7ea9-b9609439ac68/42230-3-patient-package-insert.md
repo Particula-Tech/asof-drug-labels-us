@@ -14,9 +14,9 @@ What is COREG?
 COREG is a prescription medicine that belongs to a group of medicines called “beta-blockers”.
 COREG is used, often with other medicines, for the following conditions:
 
-- •To treat patients with certain types of heart failure
-- •To treat patients who had a heart attack that worsened how well the heart pumps
-- •To treat patients with high blood pressure (hypertension)
+- •to treat patients with certain types of heart failure
+- •to treat patients who had a heart attack that worsened how well the heart pumps
+- •to treat patients with high blood pressure (hypertension)
 
 COREG is not approved for use in children under 18 years of age.
 
@@ -24,11 +24,11 @@ Who should not take COREG?
 
 Do not take COREG if you:
 
-- •Have severe heart failure and are hospitalized in the intensive care unit or require certain intravenous medications that help support circulation (inotropic medications)
-- •Are prone to asthma or other breathing problems
-- •Have a slow heartbeat or a heart that skips a beat (irregular heartbeat)
-- •Have liver problems
-- •Are allergic to any of the ingredients in COREG.
+- •have severe heart failure and are hospitalized in the intensive care unit or require certain intravenous medications that help support circulation (inotropic medications).
+- •are prone to asthma or other breathing problems.
+- •have a slow heartbeat or a heart that skips a beat (irregular heartbeat).
+- •have liver problems.
+- •are allergic to any of the ingredients in COREG.
   The active ingredient is carvedilol.
   See the end of this leaflet for a list of all the ingredients in COREG.
 
@@ -36,21 +36,22 @@ What should I tell my doctor before taking COREG?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- •Have asthma or other lung problems (such as bronchitis or emphysema)
-- •Have problems with blood flow in your feet and legs (peripheral vascular disease) COREG can make some of your symptoms worse.
-- •Have diabetes
-- •Have thyroid problems
-- •Have a condition called pheochromocytoma
-- •Have had severe allergic reactions
-- •Are pregnant or trying to become pregnant.
+- •have asthma or other lung problems (such as bronchitis or emphysema).
+- •have problems with blood flow in your feet and legs (peripheral vascular disease).
+  COREG can make some of your symptoms worse.
+- •have diabetes.
+- •have thyroid problems.
+- •have a condition called pheochromocytoma.
+- •have had severe allergic reactions.
+- •are pregnant or trying to become pregnant.
   It is not known if COREG is safe for your unborn baby.
   You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
-- •Are breastfeeding.
+- •are breastfeeding.
   It is not known if COREG passes into your breast milk.
   You should not breastfeed while using COREG.
-- •Are scheduled for surgery and will be given anesthetic agents
-- •Are scheduled for cataract surgery and have taken or are currently taking COREG.
-- •Are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
+- •are scheduled for surgery and will be given anesthetic agents.
+- •are scheduled for cataract surgery and have taken or are currently taking COREG.
+- •are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
   COREG and certain other medicines can affect each other and cause serious side effects.
   COREG may affect the way other medicines work.
   Also, other medicines may affect how well COREG works.
@@ -98,6 +99,8 @@ What are possible side effects of COREG?
 Other side effects of COREG include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
 
 Call your doctor if you have any side effects that bother you or don’t go away.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store COREG?
 
@@ -121,9 +124,9 @@ This call is free.
 
 What are the ingredients in COREG?
 
-Active Ingredient: Carvedilol.
+Active Ingredient: carvedilol.
 
-Inactive Ingredients: Colloidal silicon dioxide, crospovidone, hypromellose, lactose, magnesium stearate, polyethylene glycol, polysorbate 80, povidone, sucrose, and titanium dioxide.
+Inactive Ingredients: colloidal silicon dioxide, crospovidone, hypromellose, lactose, magnesium stearate, polyethylene glycol, polysorbate 80, povidone, sucrose, and titanium dioxide.
 
 Carvedilol tablets come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
 
@@ -143,15 +146,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Manufactured by
-
-Patheon Puerto Rico, Inc.
-
-Manati, PR 00674 USA
-
-©2011, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-January 2011
+August 2013
 
-CRG:4PIL
+CRG:5PIL

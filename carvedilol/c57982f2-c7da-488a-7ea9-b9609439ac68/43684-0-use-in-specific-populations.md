@@ -18,24 +18,24 @@ The effects of other α- and β-blocking agents have included perinatal and neon
 
 ## 8.4 Pediatric Use
 
-Effectiveness of COREG in patients younger than 18 years of age has not been established.
+Effectiveness of COREG in patients younger than 18 years has not been established.
 
-In a double-blind trial, 161 children (mean age 6 years, range 2 months to 17 years; 45% less than 2 years old) with chronic heart failure [NYHA class II-IV, left ventricular ejection fraction <40% for children with a systemic left ventricle (LV), and moderate-severe ventricular dysfunction qualitatively by echo for those with a systemic ventricle that was not an LV] who were receiving standard background treatment were randomized to placebo or to 2 dose levels of carvedilol.
-These dose levels produced placebo-corrected heart rate reduction of 4-6 heart beats per minute, indicative of β-blockade activity.
+In a double-blind trial, 161 children (mean age: 6 years, range: 2 months to 17 years; 45% younger than 2 years) with chronic heart failure [NYHA class II-IV, left ventricular ejection fraction <40% for children with a systemic left ventricle (LV), and moderate-severe ventricular dysfunction qualitatively by echo for those with a systemic ventricle that was not an LV] who were receiving standard background treatment were randomized to placebo or to 2 dose levels of carvedilol.
+These dose levels produced placebo-corrected heart rate reduction of 4 to 6 heart beats per minute, indicative of β -blockade activity.
 Exposure appeared to be lower in pediatric subjects than adults.
 After 8 months of follow-up, there was no significant effect of treatment on clinical outcomes.
-Adverse reactions in this trial that occurred in greater than 10% of patients treated with COREG and at twice the rate of placebo-treated patients included chest pain (17% versus 6%), dizziness (13% versus 2%), and dyspnea (11% versus 0%).
+Adverse reactions in this trial that occurred in greater than 10% of subjects treated with COREG and at twice the rate of placebo-treated subjects included chest pain (17% versus 6%), dizziness (13% versus 2%), and dyspnea (11% versus 0%).
 
 ## 8.5 Geriatric Use
 
-Of the 765 patients with heart failure randomized to COREG in US clinical trials, 31% (235) were 65 years of age or older, and 7.3% (56) were 75 years of age or older.
-Of the 1,156 patients randomized to COREG in a long-term, placebo-controlled trial in severe heart failure, 47% (547) were 65 years of age or older, and 15% (174) were 75 years of age or older.
-Of 3,025 patients receiving COREG in heart failure trials worldwide, 42% were 65 years of age or older.
+Of the 765 subjects with heart failure randomized to COREG in US clinical trials, 31% (235) were 65 years of age or older, and 7.3% (56) were 75 years of age or older.
+Of the 1,156 subjects randomized to COREG in a long‑term, placebo‑controlled trial in severe heart failure, 47% (547) were 65 years of age or older, and 15% (174) were 75 years of age or older.
+Of 3,025 subjects receiving COREG in heart failure trials worldwide, 42% were 65 years of age or older.
 
-Of the 975 myocardial infarction patients randomized to COREG in the CAPRICORN trial, 48% (468) were 65 years of age or older, and 11% (111) were 75 years of age or older.
+Of the 975 myocardial infarction subjects randomized to COREG in the CAPRICORN trial, 48% (468) were 65 years of age or older, and 11% (111) were 75 years of age or older.
 
-Of the 2,065 hypertensive patients in US clinical trials of efficacy or safety who were treated with COREG, 21% (436) were 65 years of age or older.
-Of 3,722 patients receiving COREG in hypertension clinical trials conducted worldwide, 24% were 65 years of age or older.
+Of the 2,065 hypertensive subjects in US clinical trials of efficacy or safety who were treated with COREG, 21% (436) were 65 years of age or older.
+Of 3,722 subjects receiving COREG in hypertension clinical trials conducted worldwide, 24% were 65 years of age or older.
 
-With the exception of dizziness in hypertensive patients (incidence 8.8% in the elderly versus 6% in younger patients), no overall differences in the safety or effectiveness (see Figures 2 and 4) were observed between the older subjects and younger subjects in each of these populations.
+With the exception of dizziness in hypertensive subjects (incidence 8.8% in the elderly versus 6% in younger subjects), no overall differences in the safety or effectiveness (see Figures 2 and 4) were observed between the older subjects and younger subjects in each of these populations.
 Similarly, other reported clinical experience has not identified differences in responses between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
