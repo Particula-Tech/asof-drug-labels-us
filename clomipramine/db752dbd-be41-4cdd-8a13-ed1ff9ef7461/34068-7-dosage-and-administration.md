@@ -5,7 +5,7 @@ During initial titration, clomipramine should be given in divided doses with mea
 The goal of this initial titration phase is to minimize side effects by permitting tolerance to side effects to develop or allowing the patient time to adapt if tolerance does not develop.
 
 Because both CMI and its active metabolite, DMI, have long elimination half-lives, the prescriber should take into consideration the fact that steady-state plasma levels may not be achieved until 2 to 3 weeks after dosage change (see CLINICAL PHARMACOLOGY).
-Therefore, after initial titration, it may be appropriate to wait 2-3 weeks between further dosage adjustments.
+Therefore, after initial titration, it may be appropriate to wait 2 to 3 weeks between further dosage adjustments.
 
 ## Initial Treatment/Dose Adjustment (Adults)
 
@@ -26,3 +26,21 @@ While there are no systematic studies that answer the question of how long to co
 Although the efficacy of clomipramine after 10 weeks has not been documented in controlled trials, patients have been continued in therapy under double-blind conditions for up to 1 year without loss of benefit.
 However, dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for treatment.
 During maintenance, the total daily dose may be given once daily at bedtime.
+
+## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with clomipramine.
+Conversely, at least 14 days should be allowed after stopping clomipramine before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+
+## Use of Clomipramine With Other MAOIs, Such as Linezolid or Methylene Blue
+
+Do not start clomipramine in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving clomipramine therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, clomipramine should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for two weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with clomipramine may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with clomipramine is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).

@@ -17,13 +17,14 @@ There was no apparent relationship between the adverse events and elevated plasm
 
 The following table enumerates adverse events that occurred at an incidence of 1% or greater among patients with OCD who received clomipramine in adult or pediatric placebo-controlled clinical trials.
 The frequencies were obtained from pooled data of clinical trials involving either adults receiving clomipramine (N=322) or placebo (N=319) or children treated with clomipramine (N=46) or placebo (N=44).
-The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those which prevailed in the clinical trials.
+The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, provide the physician with a basis for estimating the relative contribution of drug and nondrug factors to the incidence of side effects in the populations studied.
 
+Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinical Trials (Percentage of Patients Reporting Event)
+
 | Body System/ Adverse EventEvents reported by at least 1% of clomipramine patients are included. | Clomipramine (N=322) | Placebo (N=319) | Clomipramine (N=46) | Placebo (N=44) |
 | --- | --- | --- | --- | --- |
-|  | Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinical Trials (Percentage of Patients Reporting Event) |  |  |  |
 |  | Adults |  | Children and Adolescents |  |
 | Nervous System |  |  |  |  |
 | Somnolence | 54 | 16 | 46 | 11 |
@@ -72,7 +73,7 @@ The cited figures, however, provide the physician with a basis for estimating th
 | Dyspepsia | 22 | 10 | 13 | 2 |
 | Diarrhea | 13 | 9 | 7 | 5 |
 | Anorexia | 12 | - | 22 | 2 |
-| Abdominal pain | 11 | 9 | 13 | 16 |
+| Abdominal Pain | 11 | 9 | 13 | 16 |
 | Vomiting | 7 | 2 | 7 | - |
 | Flatulence | 6 | 3 | - | 2 |
 | Tooth disorder | 5 | - | - | - |
@@ -110,8 +111,7 @@ The cited figures, however, provide the physician with a basis for estimating th
 | Epistaxis | 2 | - | - | 2 |
 | Dyspnea | - | - | 2 | - |
 | Laryngitis | - | 1 | 2 | - |
-| Urogenital System |  |  |  |  |
-| Male and Female Patients Combined |  |  |  |  |
+| Urogenital System Male and Female Patients Combined |  |  |  |  |
 | Micturition disorder | 14 | 2 | 4 | 2 |
 | Urinary tract infection | 6 | 1 | - | - |
 | Micturition frequency | 5 | 3 | - | - |
@@ -165,39 +165,39 @@ It is important to emphasize that although the events reported occurred during t
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in less than 1/1000 patients.
 
-Body as a Whole: Infrequent - general edema, increased susceptibility to infection, malaise.
+Body as a Whole- Infrequent - general edema, increased susceptibility to infection, malaise.
 Rare - dependent edema, withdrawal syndrome.
 
-Cardiovascular System: Infrequent - abnormal ECG, arrhythmia, bradycardia, cardiac arrest, extrasystoles, pallor.
+Cardiovascular System- Infrequent - abnormal ECG, arrhythmia, bradycardia, cardiac arrest, extrasystoles, pallor.
 Rare - aneurysm, atrial flutter, bundle branch block, cardiac failure, cerebral hemorrhage, heart block, myocardial infarction, myocardial ischemia, peripheral ischemia, thrombophlebitis, vasospasm, ventricular tachycardia.
 
-Digestive System: Infrequent - abnormal hepatic function, blood in stool, colitis, duodenitis, gastric ulcer, gastritis, gastroesophageal reflux, gingivitis, glossitis, hemorrhoids, hepatitis, increased saliva, irritable bowel syndrome, peptic ulcer, rectal hemorrhage, tongue ulceration, tooth caries.
+Digestive System- Infrequent - abnormal hepatic function, blood in stool, colitis, duodenitis, gastric ulcer, gastritis, gastroesophageal reflux, gingivitis, glossitis, hemorrhoids, hepatitis, increased saliva, irritable bowel syndrome, peptic ulcer, rectal hemorrhage, tongue ulceration, tooth caries.
 Rare - cheilitis, chronic enteritis, discolored feces, gastric dilatation, gingival bleeding, hiccup, intestinal obstruction, oral/pharyngeal edema, paralytic ileus, salivary gland enlargement.
 
-Endocrine System: Infrequent - hypothyroidism.
+Endocrine System- Infrequent - hypothyroidism.
 Rare - goiter, gynecomastia, hyperthyroidism.
 
-Hemic and Lymphatic System: Infrequent - lymphadenopathy.
+Hemic and Lymphatic System- Infrequent - lymphadenopathy.
 Rare - leukemoid reaction, lymphoma-like disorder, marrow depression.
 
-Metabolic and Nutritional Disorder: Infrequent - dehydration, diabetes mellitus, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypokalemia.
+Metabolic and Nutritional Disorder- Infrequent - dehydration, diabetes mellitus, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypokalemia.
 Rare - fat intolerance, glycosuria.
 
-Musculoskeletal System: Infrequent - arthrosis.
+Musculoskeletal System- Infrequent - arthrosis.
 Rare - dystonia, exostosis, lupus erythematosus rash, bruising, myopathy, myositis, polyarteritis nodosa, torticollis.
 
-Nervous System: Frequent - abnormal thinking, vertigo.
+Nervous System- Frequent - abnormal thinking, vertigo.
 Infrequent - abnormal coordination, abnormal EEG, abnormal gait, apathy, ataxia, coma, convulsions, delirium, delusion, dyskinesia, dysphonia, encephalopathy, euphoria, extrapyramidal disorder, hallucinations, hostility, hyperkinesia, hypnagogic hallucinations, hypokinesia, leg cramps, manic reaction, neuralgia, paranoia, phobic disorder, psychosis, sensory disturbance, somnambulism, stimulation, suicidal ideation, suicide attempt, teeth-grinding.
 Rare - anticholinergic syndrome, aphasia, apraxia, catalepsy, cholinergic syndrome, choreoathetosis, generalized spasm, hemiparesis, hyperesthesia, hyperreflexia, hypoesthesia, illusion, impaired impulse control, indecisiveness, mutism, neuropathy, nystagmus, oculogyric crisis, oculomotor nerve paralysis, schizophrenic reaction, stupor, suicide.
 
-Respiratory System: Infrequent - bronchitis, hyperventilation, increased sputum, pneumonia.
+Respiratory System- Infrequent - bronchitis, hyperventilation, increased sputum, pneumonia.
 Rare - cyanosis, hemoptysis, hypoventilation, laryngismus.
 
-Skin and Appendages: Infrequent - alopecia, cellulitis, cyst, eczema, erythematous rash, genital pruritus, maculopapular rash, photosensitivity reaction, psoriasis, pustular rash, skin discoloration.
+Skin and Appendages- Infrequent - alopecia, cellulitis, cyst, eczema, erythematous rash, genital pruritus, maculopapular rash, photosensitivity reaction, psoriasis, pustular rash, skin discoloration.
 Rare - chloasma, folliculitis, hypertrichosis, piloerection, seborrhea, skin hypertrophy, skin ulceration.
 
-Special Senses: Infrequent - abnormal accommodation, deafness, diplopia, earache, eye pain, foreign body sensation, hyperacusis, parosmia, photophobia, scleritis, taste loss.
+Special Senses- Infrequent - abnormal accommodation, deafness, diplopia, earache, eye pain, foreign body sensation, hyperacusis, parosmia, photophobia, scleritis, taste loss.
 Rare - blepharitis, chromatopsia, conjunctival hemorrhage, exophthalmos, glaucoma, keratitis, labyrinth disorder, night blindness, retinal disorder, strabismus, visual field defect.
 
-Urogenital System: Infrequent - endometriosis, epididymitis, hematuria, nocturia, oliguria, ovarian cyst, perineal pain, polyuria, prostatic disorder, renal calculus, renal pain, urethral disorder, urinary incontinence, uterine hemorrhage, vaginal hemorrhage.
+Urogenital System- Infrequent - endometriosis, epididymitis, hematuria, nocturia, oliguria, ovarian cyst, perineal pain, polyuria, prostatic disorder, renal calculus, renal pain, urethral disorder, urinary incontinence, uterine hemorrhage, vaginal hemorrhage.
 Rare - albuminuria, anorgasmy, breast engorgement, breast fibroadenosis, cervical dysplasia, endometrial hyperplasia, premature ejaculation, pyelonephritis, pyuria, renal cyst, uterine inflammation, vulvar disorder.

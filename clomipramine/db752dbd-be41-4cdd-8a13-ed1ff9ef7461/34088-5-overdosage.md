@@ -21,7 +21,7 @@ Based upon postmarketing reports in the United Kingdom, CMI's lethality in overd
 Signs and symptoms vary in severity depending upon factors such as the amount of drug absorbed, the age of the patient, and the time elapsed since drug ingestion.
 Critical manifestations of overdose include cardiac dysrhythmias, severe hypotension, convulsions, and CNS depression including coma.
 Changes in the electrocardiogram, particularly in QRS axis or width, are clinically significant indicators of tricyclic toxicity.
-Other CNS manifestations may include drowsiness, stupor, ataxia, restlessness, agitation, delirium, severe perspiration, hyperactive reflexes, muscle rigidity and athetoid and choreiform movements.
+Other CNS manifestations may include drowsiness, stupor, ataxia, restlessness, agitation, delirium, severe perspiration, hyperactive reflexes, muscle rigidity, and athetoid and choreiform movements.
 Cardiac abnormalities may include tachycardia, signs of congestive heart failure, and in very rare cases, cardiac arrest.
 Respiratory depression, cyanosis, shock, vomiting, hyperpyrexia, mydriasis and oliguria or anuria, may also be present.
 
@@ -48,7 +48,7 @@ A maximal limb-lead QRS duration of ≥ 0.10 seconds may be the best indication 
 Intravenous sodium bicarbonate should be used to maintain the serum pH in the range of 7.45 to 7.55.
 If the pH response is inadequate, hyperventilation may also be used.
 Concomitant use of hyperventilation and sodium bicarbonate should be done with extreme caution, with frequent pH monitoring.
-A pH >7.60 or a Pco2 < 20 mmHg is undesirable.
+A pH >7.60 or a pCO2 < 20 mmHg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium, or phenytoin.
 Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
 

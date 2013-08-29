@@ -5,7 +5,7 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -17,12 +17,12 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 
 Table 1
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Increases Compared to Placebo |  |
 | --- | --- |
-|  | Increases Compared to Placebo |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-|  | Decreases Compared to Placebo |
+| Decreases Compared to Placebo |  |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -46,10 +46,27 @@ Prescriptions for clomipramine hydrochloride should be written for the smallest 
 ## Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
-It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/ manic episode in patients at risk for bipolar disorder.
+It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that clomipramine hydrochloride is not approved for use in treating bipolar depression.
+
+## Serotonin Syndrome
+
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including clomipramine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
+
+The concomitant use of clomipramine with MAOIs intended to treat psychiatric disorders is contraindicated.
+Clomipramine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking clomipramine.
+Clomipramine should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+If concomitant use of clomipramine with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+
+Treatment with clomipramine and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Seizures
 
@@ -112,7 +129,7 @@ As is the case with tricyclic antidepressants to which clomipramine is closely r
 
 ### Central Nervous System
 
-More than 30 cases of hyperthermia have been recorded by nondomestic postmarketing surveillance systems.
+More than 30 cases of hyperthermia have been recorded by nondomestic post-marketing surveillance systems.
 Most cases occurred when clomipramine was used in combination with other drugs.
 When clomipramine and a neuroleptic were used concomitantly, the cases were sometimes considered to be examples of a neuroleptic malignant syndrome.
 
@@ -140,10 +157,10 @@ Prior to elective surgery with general anesthetics, therapy with clomipramine sh
 
 As with closely related tricyclic antidepressants, clomipramine should be used with caution in the following:
 
-- (1)Hyperthyroid patients or patients receiving thyroid medication, because of the possibility of cardiac toxicity;
-- (2)Patients with increased intraocular pressure, a history of narrow-angle glaucoma, or urinary retention, because of the anticholinergic properties of the drug;
-- (3)Patients with tumors of the adrenal medulla (e.g., pheochromocytoma, neuroblastoma) in whom the drug may provoke hypertensive crises;
-- (4)Patients with significantly impaired renal function.
+1. Hyperthyroid patients or patients receiving thyroid medication, because of the possibility of cardiac toxicity;
+2. Patients with increased intraocular pressure, a history of narrow-angle glaucoma, or urinary retention, because of the anticholinergic properties of the drug;
+3. Patients with tumors of the adrenal medulla (e.g., pheochromocytoma, neuroblastoma) in whom the drug may provoke hypertensive crises;
+4. Patients with significantly impaired renal function.
 
 ### Withdrawal Symptoms
 
@@ -161,28 +178,26 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking clomipramine hydrochloride.
 
-## Clinical Worsening and Suicide Risk
+### Clinical Worsening and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
-
 Physicians are advised to discuss the following issues with patients for whom they prescribe clomipramine hydrochloride capsules:
 
-- (1)The risk of seizure (see WARNINGS);
-- (2)The relatively high incidence of sexual dysfunction among males (see Sexual Dysfunction);
-- (3)Since clomipramine may impair the mental and/or physical abilities required for the performance of complex tasks, and since clomipramine is associated with a risk of seizures, patients should be cautioned about the performance of complex and hazardous tasks (see WARNINGS);
-- (4)Patients should be cautioned about using alcohol, barbiturates, or other CNS depressants concurrently, since clomipramine may exaggerate their response to these drugs;
-- (5)Patients should notify their physician if they become pregnant or intend to become pregnant during therapy;
-- (6)Patients should notify their physician if they are breast-feeding.
+1. The risk of seizure (see WARNINGS);
+2. The relatively high incidence of sexual dysfunction among males (see Sexual Dysfunction);
+3. Since clomipramine may impair the mental and/or physical abilities required for the performance of complex tasks, and since clomipramine is associated with a risk of seizures, patients should be cautioned about the performance of complex and hazardous tasks (see WARNINGS);
+4. Patients should be cautioned about using alcohol, barbiturates, or other CNS depressants concurrently, since clomipramine may exaggerate their response to these drugs;
+5. Patients should notify their physician if they become pregnant or intend to become pregnant during therapy;
+6. Patients should notify their physician if they are breast-feeding.
 
 ## Drug Interactions
 
 The risks of using clomipramine in combination with other drugs have not been systematically evaluated.
 Given the primary CNS effects of clomipramine, caution is advised in using it concomitantly with other CNS-active drugs (see Information for Patients).
 Clomipramine should not be used with MAO inhibitors (see CONTRAINDICATIONS).
-
 Close supervision and careful adjustment of dosage are required when clomipramine is administered with anticholinergic or sympathomimetic drugs.
 
 Several tricyclic antidepressants have been reported to block the pharmacologic effects of guanethidine, clonidine, or similar agents, and such an effect may be anticipated with CMI because of its structural similarity to other tricyclic antidepressants.
@@ -210,6 +225,14 @@ It is desirable to monitor TCA plasma levels whenever an agent of the tricyclic 
 Because clomipramine is highly bound to serum protein, the administration of clomipramine to patients taking other drugs that are highly bound to protein (e.g., warfarin, digoxin) may cause an increase in plasma concentrations of these drugs, potentially resulting in adverse effects.
 Conversely, adverse effects may result from displacement of protein-bound clomipramine by other highly bound drugs (see CLINICAL PHARMACOLOGY, Distribution).
 
+### Monoamine Oxidase Inhibitors (MAOIs)
+
+(see CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
+
+### Serotonergic Drugs
+
+(see CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenicity was found in two 2-year bioassays in rats at doses up to 100 mg/kg, which is 24 and 4 times the maximum recommended human daily dose (MRHD) on a mg/kg and mg/m2 basis, respectively, or in a 2-year bioassay in mice at doses up to 80 mg/kg, which is 20 and 1.5 times the MRHD on a mg/kg and mg/m2 basis respectively.
@@ -227,12 +250,12 @@ Clomipramine should be used during pregnancy only if the potential benefit justi
 
 ## Nursing Mothers
 
-Clomipramine hydrochloride capsules USP has been found in human milk.
+Clomipramine hydrochloride has been found in human milk.
 Because of the potential for adverse reactions, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS-Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
 Anyone considering the use of clomipramine in a child or adolescent must balance the potential risks with the clinical need.
 
 In a controlled clinical trial in children and adolescents (10 to 17 years of age), 46 outpatients received clomipramine for up to 8 weeks.
