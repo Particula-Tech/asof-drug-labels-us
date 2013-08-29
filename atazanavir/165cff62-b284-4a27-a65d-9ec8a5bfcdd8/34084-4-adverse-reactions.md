@@ -285,4 +285,4 @@ Musculoskeletal System: arthralgia
 
 Renal System: nephrolithiasis [see Warnings and Precautions (5.6)], interstitial nephritis
 
-Skin and Appendages: alopecia, maculopapular rash [see Contraindications (4) and Warnings and Precautions (5.3)], pruritus
+Skin and Appendages: alopecia, maculopapular rash [see Contraindications (4) and Warnings and Precautions (5.3)], pruritus, angioedema

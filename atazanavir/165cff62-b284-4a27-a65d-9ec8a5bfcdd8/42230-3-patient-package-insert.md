@@ -258,6 +258,6 @@ Other brands listed are the trademarks of their respective owners and are not tr
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226B4
+1246226B5
 
-Rev April 2013
+Rev August 2013

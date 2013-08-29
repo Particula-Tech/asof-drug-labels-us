@@ -100,7 +100,7 @@ Table 25: Outcomes of Treatment Through Week 48 in Study AI424-045 (Patients wit
 | HIV RNA Change from Baseline (log10 copies/mL)b | −1.58 | −1.70 | +0.12c (−0.17, 0.41) |
 | CD4+ Change from Baseline (cells/mm3)d | 116 | 123 | −7 (−67, 52) |
 | Percent of Patients Respondinge |  |  |  |
-| HIV RNA <400 copies/mLb | 55% | 57% | -2.2% (−14.8%, 10.5%) |
+| HIV RNA <400 copies/mLb | 55% | 57% | −2.2% (−14.8%, 10.5%) |
 | HIV RNA <50 copies/mLb | 38% | 45% | −7.1% (−19.6%, 5.4%) |
 | a Time-averaged difference through Week 48 for HIV RNA; Week 48 difference in HIV RNA percentages and CD4+ mean changes, REYATAZ/ritonavir vs lopinavir/ritonavir; CI = 97.5% confidence interval for change in HIV RNA; 95% confidence interval otherwise. |  |  |  |
 | b Roche Amplicor® HIV-1 Monitor™ Assay, test version 1.5. |  |  |  |

@@ -23,15 +23,15 @@ Table 1: REYATAZ Dosing Regimens
 | --- | --- |
 | If unable to tolerate ritonavir | REYATAZ 400 mg once daily |
 | When combined with any of the following: Tenofovir H2-receptor antagonist Proton-pump inhibitor | REYATAZ 300 mg with ritonavir 100 mg once daily |
-| The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 40 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist.If unable to tolerate ritonavir, administer REYATAZ 400 mg once daily at least 2 hours before and at least 10 hours after the H2-receptor antagonist. No single dose of the H2-receptor antagonist should exceed a dose comparable to famotidine 20 mg and the total daily dose should not exceed a dose comparable to famotidine 40 mg.The proton-pump inhibitor dose should not exceed a dose comparable to omeprazole 20 mg daily and must be taken approximately 12 hours prior to REYATAZ and ritonavir. |  |
+| • The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 40 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. • If unable to tolerate ritonavir, administer REYATAZ 400 mg once daily at least 2 hours before and at least 10 hours after the H2-receptor antagonist. No single dose of the H2-receptor antagonist should exceed a dose comparable to famotidine 20 mg and the total daily dose should not exceed a dose comparable to famotidine 40 mg. • The proton-pump inhibitor dose should not exceed a dose comparable to omeprazole 20 mg daily and must be taken approximately 12 hours prior to REYATAZ and ritonavir. |  |
 | When combined with efavirenz | REYATAZ 400 mg with ritonavir 100 mg once daily |
-| Efavirenz should be administered on an empty stomach, preferably at bedtime. |  |
+| • Efavirenz should be administered on an empty stomach, preferably at bedtime. |  |
 | Treatment-Experienced Patients | REYATAZ 300 mg with ritonavir 100 mg once daily |
 | Do not coadminister with proton-pump inhibitors or efavirenz in treatment-experienced patients. |  |
 | When given with an H2-receptor antagonist | REYATAZ 300 mg with ritonavir 100 mg once daily |
-| The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
+| • The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
 | When given with both tenofovir and an H2-receptor antagonist | REYATAZ 400 mg with ritonavir 100 mg once daily |
-| The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
+| • The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
 
 [For these drugs and other antiretroviral agents for which dosing modification may be appropriate, see Drug Interactions (7).]
 
