@@ -12,7 +12,7 @@ Zemplar® (paricalcitol) Capsules
 
 2 mcg 30 Capsules
 
-Rx only Abbott
+Rx only abbvie
 
 NDC 0074–4315–30
 
@@ -20,7 +20,7 @@ Zemplar® (paricalcitol) Capsules
 
 4 mcg 30 Capsules
 
-Rx only Abbott
+Rx only abbvie
 
 NDC 0074–4317–73
 
@@ -38,4 +38,4 @@ Rx only
 
 www.zemplar.com
 
-Abbott
+abbvie
