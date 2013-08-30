@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Vibramycin is a broad-spectrum antibiotic synthetically derived from oxytetracycline, and is available as Vibramycin Monohydrate (doxycycline monohydrate); Vibramycin Hyclate and Vibra-Tabs (doxycycline hydrochloride hemiethanolate hemihydrate); and Vibramycin Calcium (doxycycline calcium) for oral administration.
+Vibramycin is an antibacterial drug synthetically derived from oxytetracycline, and is available as Vibramycin Monohydrate (doxycycline monohydrate); Vibramycin Hyclate and Vibra-Tabs (doxycycline hydrochloride hemiethanolate hemihydrate); and Vibramycin Calcium (doxycycline calcium) for oral administration.
 
 The structural formula of doxycycline monohydrate is
 
