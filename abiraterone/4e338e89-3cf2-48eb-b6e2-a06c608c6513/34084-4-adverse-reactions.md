@@ -145,3 +145,10 @@ In Study 1 and 2, the majority of arrhythmias were grade 1 or 2.
 There was one death associated with arrhythmia and one patient with sudden death in the ZYTIGA arms and no deaths in the placebo arms.
 There were 7 (0.5 %) deaths due to cardiorespiratory arrest in the ZYTIGA arms and 3 (0.3 %) deaths in the placebo arms.
 Myocardial ischemia or myocardial infarction led to death in 3 patients in the placebo arms and 2 deaths in the ZYTIGA arms.
+
+## 6.2 Post Marketing Experience
+
+The following additional adverse reactions have been identified during post approval use of ZYTIGA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Allergic alveolitis

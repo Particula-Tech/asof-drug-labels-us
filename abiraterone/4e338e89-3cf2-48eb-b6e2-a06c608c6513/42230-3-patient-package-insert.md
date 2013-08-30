@@ -81,6 +81,8 @@ The most common side effects of ZYTIGA include:
 | weaknessjoint swelling or painswelling in your legs or feethot flushesdiarrheavomitingcoughhigh blood pressureshortness of breath | urinary tract infectionbruisinglow red blood cells (anemia) and low blood potassium levelshigh blood sugar levels, high blood cholesterol and triglyceridescertain other abnormal blood tests |
 | --- | --- |
 
+Other side effect seen in patients treated with ZYTIGA is lung irritation (called allergic alveolitis).
+
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of ZYTIGA.
@@ -120,4 +122,4 @@ Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biot
 
 ©Janssen Biotech, Inc. 2012
 
-Revised: March 2013
+Revised: August 2013

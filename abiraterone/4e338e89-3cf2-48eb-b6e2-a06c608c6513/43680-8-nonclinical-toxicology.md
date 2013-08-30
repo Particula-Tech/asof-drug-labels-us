@@ -2,7 +2,10 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-Long-term animal studies have not been conducted to evaluate the carcinogenic potential of abiraterone acetate.
+Abiraterone acetate was not carcinogenic in a 6-month study in the transgenic (Tg.rasH2) mouse at exposure levels up to 6.7 times the human clinical exposure based on AUC.
+In a 24-month carcinogenicity study in the rat, abiraterone acetate increased the incidence of interstitial cell neoplasms in the testes at exposure levels of 0.09 times the human clinical exposure based on AUC.
+This finding is considered related to the pharmacological activity of abiraterone and rat specific.
+Abiraterone acetate was not carcinogenic in female rats at exposure levels up to 0.84 times the human clinical exposure based on AUC.
 
 Abiraterone acetate and abiraterone did not induce mutations in the microbial mutagenesis (Ames) assay and was not clastogenic in both the in vitro cytogenetic assay using primary human lymphocytes and in the in vivo rat micronucleus assay.
 

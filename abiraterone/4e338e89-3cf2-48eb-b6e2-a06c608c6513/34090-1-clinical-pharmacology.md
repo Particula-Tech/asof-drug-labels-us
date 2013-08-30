@@ -80,7 +80,7 @@ In a clinical study to determine the effects of abiraterone acetate 1,000 mg dai
 
 In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55% [see Drug Interactions (7.2)].
 
-In a separate clinical pharmacokinetic interaction study of healthy subjects, coadministration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.2)].
+In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.2)].
 
 ## 12.6 QT Prolongation
 

@@ -13,8 +13,8 @@ However, patients should be monitored closely for signs of toxicity related to t
 
 ## 7.2 Drugs that Inhibit or Induce CYP3A4 Enzymes
 
-In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55% [see Clinical Pharmacology (12.3)].
+In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55%[see Clinical Pharmacology (12.3)].
 
 Strong inducers of CYP3A4 (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital) during treatment with ZYTIGA are to be avoided, or used with careful evaluation of clinical efficacy [see Clinical Pharmacology (12.3)].
 
-In a separate clinical pharmacokinetic interaction study of healthy subjects, coadministration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Clinical Pharmacology (12.3)].
+In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Clinical Pharmacology (12.3)].

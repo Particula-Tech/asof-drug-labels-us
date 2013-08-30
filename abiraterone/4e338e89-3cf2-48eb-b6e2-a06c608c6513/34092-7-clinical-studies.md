@@ -57,7 +57,7 @@ Radiographic progression-free survival was assessed with the use of sequential i
 Analysis of rPFS utilized centrally-reviewed radiographic assessment of progression.
 
 At the protocol pre-specified third interim analysis for overall survival, 37% (200 of 546) of patients treated with ZYTIGA, compared with 43% (234 of 542) of patients treated with placebo, had died.
-Overall survival was longer for ZYTIGA than placebo with a hazard ratio of 0.792 (95% CI: 0.655 – 0.956).
+Overall survival was longer for ZYTIGA than placebo with a hazard ratio of 0.792 (95% CI: 0.655–0.956).
 The p value was 0.0151 which did not meet the pre-specified value for statistical significance (Table 6 and Figure 2).
 
 Table 6: Overall Survival of Patients Treated with Either ZYTIGA or Placebo in Combination with Prednisone in Study 2 (Intent-to-Treat Analysis)
