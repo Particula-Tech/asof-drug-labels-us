@@ -119,10 +119,6 @@ Table 6: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and 
 | Change from baseline (adjusted mean) | 0 | -52 | -53 | -78 | -93 | -117 |
 | Difference from placebo (adjusted mean) (95% CI) |  | -52 (-67, -37) | -54 (-69, -39) | -78 (-93, -63) | -93 (-107, -78) | -117 (-131, -102) |
 
-In addition, this study included patients (N=117) with more severe hyperglycemia (A1C >11% or blood glucose >280 mg/dL) who were treated with twice daily open-label JANUVIA 50 mg and metformin 1000 mg.
-In this group of patients, the mean baseline A1C value was 11.2%, mean FPG was 314 mg/dL, and mean 2-hour PPG was 441 mg/dL.
-After 24 weeks, mean decreases from baseline of -2.9% for A1C, -127 mg/dL for FPG, and -208 mg/dL for 2-hour PPG were observed.
-
 Initial combination therapy or maintenance of combination therapy may not be appropriate for all patients.
 These management options are left to the discretion of the health care provider.
 
