@@ -14,9 +14,7 @@ Rx only abbvie
 
 NDC 0074–6114–11
 
-100 Sprinkle Capsules Abbo-Pac®
-
-AbboPac Unit Dose
+100 Sprinkle Capsules
 
 DEPAKOTE® SPRINKLE CAPSULES
 
