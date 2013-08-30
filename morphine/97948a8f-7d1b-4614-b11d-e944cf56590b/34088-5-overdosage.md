@@ -7,17 +7,17 @@ Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdos
 
 Treatment of Overdose
 
-In cases of overdose, priorities are the re-establishment of a patent airway and institution of assisted or controlled ventilation if needed.
+In cases of overdose, priorities are the reestablishment of a patent airway and institution of assisted or controlled ventilation if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of cardiac and/or pulmonary failure as needed.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 
 The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
 Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to morphine overdose.
-Such agents should be administered cautiously to patients who are known, or suspected to be, physically dependent on Morphine Sulfate Extended-Release Capsules.
+Such agents should be administered cautiously to patients who are known, or suspected to be, physically dependent on Morphine Sulfate Extended-release Capsules.
 In such cases, an abrupt or complete reversal of opioid effects may precipitate an acute withdrawal syndrome.
 
-Because the duration of reversal would be expected to be less than the duration of action of morphine in Morphine Sulfate Extended-Release Capsules, carefully monitor the patient until spontaneous respiration is reliably re-established.
-Morphine Sulfate Extended-Release Capsules will continue to release morphine adding to the morphine load for up to 24 hours after administration, necessitating prolonged monitoring.
+Because the duration of reversal would be expected to be less than the duration of action of morphine in Morphine Sulfate Extended-release Capsules, carefully monitor the patient until spontaneous respiration is reliably reestablished.
+Morphine Sulfate Extended-release Capsules will continue to release morphine adding to the morphine load for up to 24 hours after administration, necessitating prolonged monitoring.
 If the response to opioid antagonists is suboptimal or not sustained, additional antagonist should be given as directed in the product's prescribing information.
 
 In an individual physically dependent on opioids, administration of the usual dose of the antagonist will precipitate an acute withdrawal.

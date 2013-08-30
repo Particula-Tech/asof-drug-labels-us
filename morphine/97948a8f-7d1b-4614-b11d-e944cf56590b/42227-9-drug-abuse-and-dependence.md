@@ -2,8 +2,8 @@
 
 ## 9.1 Controlled Substance
 
-Morphine Sulfate Extended-Release Capsules contain morphine, a Schedule II controlled substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, oxycodone, and oxymorphone.
-Morphine Sulfate Extended-Release Capsules can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+Morphine Sulfate Extended-release Capsules contain morphine, a Schedule II controlled substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, oxycodone, and oxymorphone.
+Morphine Sulfate Extended-release Capsules can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
@@ -25,19 +25,19 @@ Abuse and addiction are separate and distinct from physical dependence and toler
 Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
-Morphine Sulfate Extended-Release Capsules, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
-Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests as required by state law, is strongly advised.
+Morphine Sulfate Extended-release Capsules, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Careful recordkeeping of prescribing information, including quantity, frequency, and renewal requests as required by state law, is strongly advised.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to reduce abuse of opioid drugs.
+Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to reduce abuse of opioid drugs.
 
-Risks Specific to Abuse of Morphine Sulfate Extended-Release Capsules
+Risks Specific to Abuse of Morphine Sulfate Extended-release Capsules
 
-Morphine Sulfate Extended-Release Capsules are for oral use only.
-Abuse of Morphine Sulfate Extended-Release Capsules poses a risk of overdose and death.
-This risk is increased with concurrent abuse of Morphine Sulfate Extended-Release Capsules with alcohol and other substances.
-Taking cut, broken, chewed, crushed, or dissolved Morphine Sulfate Extended-Release Capsules enhances drug release and increases the risk of over dose and death.
+Morphine Sulfate Extended-release Capsules are for oral use only.
+Abuse of Morphine Sulfate Extended-release Capsules poses a risk of overdose and death.
+This risk is increased with concurrent abuse of Morphine Sulfate Extended-release Capsules with alcohol and other substances.
+Taking cut, broken, chewed, crushed, or dissolved Morphine Sulfate Extended-release Capsules enhances drug release and increases the risk of overdose and death.
 
-Due to the presence of talc as one of the excipients in Morphine Sulfate Extended-Release Capsules, parenteral abuse can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
+Due to the presence of talc as one of the excipients in Morphine Sulfate Extended-release Capsules, parenteral abuse can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
 ## 9.3 Dependence
@@ -50,8 +50,8 @@ Physical dependence results in withdrawal symptoms after abrupt discontinuation 
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, or mixed agonist/antagonist analgesics (pentazocine, butorphanol, buprenorphine, nalbuphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-Morphine Sulfate Extended-Release Capsules should not be abruptly discontinued [see Dosage and Administration (2.3)].
-If Morphine Sulfate Extended-Release Capsules are abruptly discontinued in a physically-dependent patient, an abstinence syndrome may occur.
+Morphine Sulfate Extended-release Capsules should not be abruptly discontinued [see Dosage and Administration (2.3)].
+If Morphine Sulfate Extended-release Capsules are abruptly discontinued in a physically-dependent patient, an abstinence syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 

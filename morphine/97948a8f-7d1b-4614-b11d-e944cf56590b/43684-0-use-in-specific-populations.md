@@ -33,7 +33,7 @@ Behavioral abnormalities resulting from chronic morphine exposure of fetal anima
 
 ## 8.2 Labor and Delivery
 
-Morphine Sulfate Extended-Release Capsules are not recommended for use in women during and immediately prior to labor, where shorter acting analgesics or other analgesic techniques are more appropriate.
+Morphine Sulfate Extended-release Capsules are not recommended for use in women during and immediately prior to labor, where shorter acting analgesics or other analgesic techniques are more appropriate.
 Occasionally, opioid analgesics may prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilatation which tends to shorten labor.
 
@@ -48,19 +48,19 @@ The amount of morphine received by the infant varies depending on the maternal p
 
 Withdrawal symptoms can occur in breast-feeding infants when maternal administration of morphine is stopped.
 
-Because of the potential for adverse reactions in nursing infants from Morphine Sulfate Extended-Release Capsules, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for adverse reactions in nursing infants from Morphine Sulfate Extended-release Capsules, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of Morphine Sulfate Extended-Release Capsules in patients less than 18 years have not been established.
+The safety and efficacy of Morphine Sulfate Extended-release Capsules in patients less than 18 years have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Morphine Sulfate Extended-Release Capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Morphine Sulfate Extended-release Capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 ## 8.6 Neonatal Opioid Withdrawal Syndrome
 
 Chronic maternal use of morphine during pregnancy can affect the fetus with subsequent withdrawal signs.
 Neonatal withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
-The onset, duration and severity of neonatal withdrawal syndrome vary based on the drug used, duration of use, the dose of last maternal use, and rate of elimination drug by the newborn.
+The onset, duration and severity of neonatal withdrawal syndrome vary based on the drug used, duration of use, the dose of last maternal use, and rate of elimination of the drug by the newborn.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening and should be treated according to protocols developed by neonatology experts.

@@ -10,7 +10,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - Gastrointestinal Effects [see Warnings and Precautions (5.9)
 - Seizures [see Warnings and Precautions (5.10)
 
-In the randomized study, the most common adverse reactions with Morphine Sulfate Extended-Release Capsules therapy were drowsiness, constipation, nausea, dizziness, and anxiety.
+In the randomized study, the most common adverse reactions with Morphine Sulfate Extended-release Capsules therapy were drowsiness, constipation, nausea, dizziness, and anxiety.
 The most common adverse reactions leading to study discontinuation were nausea, constipation (may be severe), vomiting, fatigue, dizziness, pruritus, and somnolence.
 
 ## 6.1 Clinical Studies Experience
@@ -52,7 +52,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 | Leukopenia | 2 |
 
 In clinical trials in patients with chronic cancer pain, the most common adverse events reported by patients at least once during therapy were drowsiness (9%), constipation (9%), nausea (7%), dizziness (6%), and anxiety (6%).
-Other less common side effects expected from Morphine Sulfate Extended-Release Capsules or seen in less than 2% of patients in the clinical trials were:
+Other less common side effects expected from Morphine Sulfate Extended-release Capsules or seen in less than 2% of patients in the clinical trials were:
 
 - Body as a Whole: Headache, chills, flu syndrome, back pain, malaise, withdrawal syndrome
 - Cardiovascular: Tachycardia, atrial fibrillation, hypotension, hypertension, pallor, facial flushing, palpitations, bradycardia, syncope
@@ -75,5 +75,5 @@ Other less common side effects occurring in less than 3% of patients were vomiti
 
 ## 6.2 Post-marketing Experience
 
-Anaphylaxis has been reported with ingredients contained in Morphine Sulfate Extended-Release Capsules.
+Anaphylaxis has been reported with ingredients contained in Morphine Sulfate Extended-release Capsules.
 Advise patients how to recognize such a reaction and when to seek medical attention.

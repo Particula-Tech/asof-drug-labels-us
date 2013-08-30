@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Morphine Sulfate Extended-Release Capsules are contraindicated in patients with
+Morphine Sulfate Extended-release Capsules are contraindicated in patients with
 
 - Significant respiratory depression
 - Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment
