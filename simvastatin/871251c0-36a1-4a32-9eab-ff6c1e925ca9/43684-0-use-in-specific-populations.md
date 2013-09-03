@@ -1,24 +1,26 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8. USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [See Contraindications (4).]
+Pregnancy Category X
 
-Simvastatin tablet is contraindicated in women who are or may become pregnant.
+[See Contraindications (4).]
+
+Simvastatin tablets are contraindicated in women who are or may become pregnant.
 Lipid lowering drugs offer no benefit during pregnancy, because cholesterol and cholesterol derivatives are needed for normal fetal development.
 Atherosclerosis is a chronic process, and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hypercholesterolemia therapy.
 There are no adequate and well-controlled studies of use with simvastatin tablets during pregnancy; however, there are rare reports of congenital anomalies in infants exposed to statins in utero.
 Animal reproduction studies of simvastatin in rats and rabbits showed no evidence of teratogenicity.
 Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol or cholesterol derivatives are essential for fetal development.
 Because statins decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, simvastatin tablets may cause fetal harm when administered to a pregnant woman.
-If simvastatin tablet is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+If simvastatin tablets are used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 There are rare reports of congenital anomalies following intrauterine exposure to statins.
 In a review Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996. of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
 However, the study was only able to exclude a 3- to 4-fold increased risk of congenital anomalies over the background rate.
 In 89% of these cases, drug treatment was initiated prior to pregnancy and was discontinued during the first trimester when pregnancy was identified.
 
-Simvastatin was not teratogenic in rats or rabbits at doses (25, 10 mg/kg/day, respectively) that resulted in 3 times the human exposure based on mg/m 2 surface area.
+Simvastatin was not teratogenic in rats or rabbits at doses (25, 10 mg/kg/day, respectively) that resulted in 3 times the human exposure based on mg/m2 surface area.
 However, in studies with another structurally-related statin, skeletal malformations were observed in rats and mice.
 
 Women of childbearing potential, who require treatment with simvastatin tablets for a lipid disorder, should be advised to use effective contraception.
@@ -43,8 +45,8 @@ Simvastatin has not been studied in patients younger than 10 years of age, nor i
 
 ## 8.5 Geriatric Use
 
-Of the 2,423 patients who received simvastatin tablets in Phase III clinical studies and the 10,269 patients in the Heart Protection Study who received simvastatin tablets, 363 (15%) and 5,366 (52%), respectively were ≥ 65 years old.
-In HPS, 615 (6%) were ≥ 75 years old.
+Of the 2,423 patients who received simvastatin tablets in Phase III clinical studies and the 10,269 patients in the Heart Protection Study who received simvastatin tablets, 363 (15%) and 5,366 (52%), respectively were ≥65 years old.
+In HPS, 615 (6%) were ≥75 years old.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Since advanced age (≥65 years) is a predisposing factor for myopathy, simvastatin tablets should be prescribed with caution in the elderly.
 [See Clinical Pharmacology (12.3).]
@@ -60,13 +62,13 @@ There were no overall differences in safety between older and younger patients i
 
 Because advanced age (≥65 years) is a predisposing factor for myopathy, including rhabdomyolysis, simvastatin tablets should be prescribed with caution in the elderly.
 In a clinical trial of patients treated with simvastatin 80 mg/day, patients ≥65 years of age had an increased risk of myopathy, including rhabdomyolysis, compared to patients <65 years of age.
-[See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+[see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-Caution should be exercised when simvastatin tablet is administered to patients with severe renal impairment.
+Caution should be exercised when simvastatin tablets are administered to patients with severe renal impairment.
 [See Dosage and Administration (2.6).]
 
 ## 8.7 Hepatic Impairment
 
-Simvastatin tablet is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)].
+Simvastatin tablets are contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)].

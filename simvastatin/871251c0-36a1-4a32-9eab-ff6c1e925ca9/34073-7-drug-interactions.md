@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7. DRUG INTERACTIONS
 
 ## 7.1 Strong CYP3A4 Inhibitors, cyclosporine, or danazol
 
@@ -7,6 +7,7 @@ Simvastatin is metabolized by CYP3A4 but has no CYP3A4 inhibitory activity; ther
 
 Elevated plasma levels of HMG-CoA reductase inhibitory activity increases the risk of myopathy and rhabdomyolysis, particularly with higher doses of simvastatin.
 [See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+
 Concomitant use of drugs labeled as having a strong inhibitory effect on CYP3A4 is contraindicated [see Contraindications (4)].
 If treatment with itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
 
@@ -22,14 +23,14 @@ Other fibrates: Caution should be used when prescribing with simvastatin [see Wa
 
 ## 7.3 Amiodarone, Dronedarone, Ranolazine, or Calcium Channel Blockers
 
-The risk of myopathy, including rhabdomyolysis, is increased by concomitant administration of amiodarone, dronedarone, ranolazine, or calcium channel blockers such as verapamil, diltiazem, or amlodipine [see Dosage and Administration (2.3) and Warnings and Precautions (5.1), and Table 3 in Clinical Pharmacology (12.3)].
+The risk of myopathy, including rhabdomyolysis, is increased by concomitant administration of amiodarone, dronedarone, ranolazine, or calcium channel blockers such as verapamil, diltiazem, or amlodipine [see Dosage and Administration (2.3) and Warnings and Precautions (5.1) and Table 3 in Clinical Pharmacology (12.3)].
 
 ## 7.4 Niacin
 
-Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥ 1 g/day niacin) of niacin-containing products.
 In particular, caution should be used when treating Chinese patients with simvastatin doses exceeding 20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
 Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
-[See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+[see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.5 Digoxin
 

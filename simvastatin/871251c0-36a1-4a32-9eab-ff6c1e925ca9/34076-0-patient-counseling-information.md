@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17. PATIENT COUNSELING INFORMATION
 
 Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
 
@@ -10,7 +10,7 @@ Patients should also be advised to inform other healthcare professionals prescri
 All patients starting therapy with simvastatin tablets should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing simvastatin.
 
 Patients using the 80-mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80-mg dose.
-The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin tablet is increased when taking certain types of medication or consuming larger quantities of grapefruit juice.
+The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin tablets are increased when taking certain types of medication or consuming larger quantities of grapefruit juice.
 Patients should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
 ## 17.2 Liver Enzymes
@@ -29,11 +29,9 @@ Patients should be advised that if they become pregnant they should stop taking 
 Women who are breastfeeding should not use simvastatin tablets.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
+Manufactured By: Intas Pharmaceuticals Limited, Plot No: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
 India.
 
-10 1331 7 642748
-
-Issued November 2012
+10 1331 8 644882 Issued February 2013

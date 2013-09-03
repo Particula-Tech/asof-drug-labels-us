@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE
 
 Therapy with lipid-altering agents should be only one component of multiple risk factor intervention in individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
 Drug therapy is indicated as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures alone has been inadequate.
@@ -6,7 +6,7 @@ In patients with coronary heart disease (CHD) or at high risk of CHD, simvastati
 
 ## 1.1 Reductions in Risk of CHD Mortality and Cardiovascular Events
 
-In patients at high risk of coronary events because of existing coronary heart disease, diabetes, peripheral vessel disease, history of stroke or other cerebrovascular disease, simvastatin tablet is indicated to:
+In patients at high risk of coronary events because of existing coronary heart disease, diabetes, peripheral vessel disease, history of stroke or other cerebrovascular disease, simvastatin tablets are indicated to:
 
 - Reduce the risk of total mortality by reducing CHD deaths.
 - Reduce the risk of non-fatal myocardial infarction and stroke.
@@ -14,7 +14,7 @@ In patients at high risk of coronary events because of existing coronary heart d
 
 ## 1.2 Hyperlipidemia
 
-Simvastatin tablet is indicated to:
+Simvastatin tablets are indicated to:
 
 - Reduce elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), and triglycerides (TG), and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary hyperlipidemia (Fredrickson type IIa, heterozygous familial and nonfamilial) or mixed dyslipidemia (Fredrickson type IIb).
 - Reduce elevated TG in patients with hypertriglyceridemia (Fredrickson type lV hyperlipidemia).
@@ -23,7 +23,7 @@ Simvastatin tablet is indicated to:
 
 ## 1.3 Adolescent Patients with Heterozygous Familial Hypercholesterolemia (HeFH)
 
-Simvastatin tablet is indicated as an adjunct to diet to reduce total-C, LDL-C, and Apo B levels in adolescent boys and girls who are at least one year post-menarche, 10 to 17 years of age, with HeFH, if after an adequate trial of diet therapy the following findings are present:
+Simvastatin tablets are indicated as an adjunct to diet to reduce total-C, LDL-C, and Apo B levels in adolescent boys and girls who are at least one year post-menarche, 10 to 17 years of age, with HeFH, if after an adequate trial of diet therapy the following findings are present:
 
 1. LDL cholesterol remains ≥190 mg/dL; or
 2. LDL cholesterol remains ≥160 mg/dL and

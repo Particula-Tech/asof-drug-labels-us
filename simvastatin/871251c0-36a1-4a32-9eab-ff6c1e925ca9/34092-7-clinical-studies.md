@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
 ## 14.1 Clinical Studies in Adults
 
@@ -22,7 +22,7 @@ Because there were only 57 deaths among the patients with angina alone at baseli
 However, trends in reduced coronary mortality, major coronary events and revascularization procedures were consistent between this group and the total study cohort.
 Additionally, simvastatin tablets resulted in similar decreases in relative risk for total mortality, CHD mortality, and major coronary events in elderly patients (≥65 years), compared with younger patients.
 
-The Heart Protection Study (HPS) was a large, multi-center, placebo-controlled, double-blind study with a mean duration of 5 years conducted in 20,536 patients (10,269 on simvastatin tablets 40 mg and 10,267 on placebo).
+The Heart Protection Study (HPS) was a large, multi-center, placebo-controlled, double-blind study with a mean duration of 5 years conducted in 20,536 patients (10,269 on simvastatin tablets 40 mg and 10,267 on placebos).
 Patients were allocated to treatment using a covariate adaptive method D.R.
 Taves, Minimization: a new method of assigning patients to treatment and control groups.
 Clin.
@@ -35,7 +35,7 @@ At baseline, 3,421 patients (17%) had LDL-C levels below 100 mg/dL, of whom 953 
 
 The HPS results showed that simvastatin tablets 40 mg/day significantly reduced: total and CHD mortality; non-fatal MI, stroke, and revascularization procedures (coronary and non-coronary) (see Table 4).
 
-TABLE 4 Summary of Heart Protection Study Results
+TABLE 4: Summary of Heart Protection Study Results
 
 | Endpoint | Simvastatin Tablets (N=10,269) n (%)n = number of patients with indicated event | Placebo (N=10,267) n (%) | Risk Reduction (%) (95% CI) | p-Value |
 | --- | --- | --- | --- | --- |
@@ -68,17 +68,17 @@ In addition, simvastatin significantly decreased the proportion of patients with
 
 Modifications of Lipid Profiles
 
-Primary Hyperlipidemia (Fredrickson type IIa and IIb)
+Primary Hyperlipidemia (Fredrickson type lla and llb)
 
 Simvastatin tablet has been shown to be effective in reducing total-C and LDL-C in heterozygous familial and non-familial forms of hyperlipidemia and in mixed hyperlipidemia.
 Maximal to near maximal response is generally achieved within 4 to 6 weeks and maintained during chronic therapy.
 Simvastatin tablets consistently and significantly decreased total-C, LDL-C, total-C/HDL-C ratio, and LDL-C/HDL-C ratio; simvastatin tablets also decreased TG and increased HDL-C (see Table 5).
 
-TABLE 5 Mean Response in Patients with Primary Hyperlipidemia and Combined (mixed) Hyperlipidemia (Mean Percent Change from Baseline After 6 to 24 Weeks)
+TABLE 5: Mean Response in Patients with Primary Hyperlipidemia and Combined (mixed) Hyperlipidemia (Mean Percent Change from Baseline After 6 to 24 Weeks)
 
 | TREATMENT | N | TOTAL-C | LDL-C | HDL-C | TGmedian percent change |
 | --- | --- | --- | --- | --- | --- |
-| Lower Dose Comparative Study mean baseline LDL-C 244 mg/dL and median baseline TG 168 mg/dL (Mean % Change at Week 6) |  |  |  |  |  |
+| Lower Dose Comparative Studymean baseline LDL-C 244 mg/dL and median baseline TG 168 mg/dL (Mean % Change at Week 6) |  |  |  |  |  |
 | Simvastatin Tablets 5 mg q.p.m. | 109 | -19 | -26 | 10 | -12 |
 | Simvastatin Tablets 10 mg q.p.m. | 110 | -23 | -30 | 12 | -15 |
 | Scandinavian Simvastatin Survival Studymean baseline LDL-C 188 mg/dL and median baseline TG 128 mg/dL (Mean % Change at Week 6) |  |  |  |  |  |
@@ -96,7 +96,7 @@ Hypertriglyceridemia (Frederickson type IV)
 
 The results of a subgroup analysis in 74 patients with type lV hyperlipidemia from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 6.
 
-TABLE 6 Six-week, Lipid-lowering Effects of Simvastatin in Type lV Hyperlipidemia Median Percent Change (25th and 75th percentile) from BaselineThe median baseline values (mg/dL) for the patients in this study were: total-C = 254, LDL-C = 135, HDL-C = 36, TG = 404, VLDL-C = 83, and non-HDL-C = 215
+TABLE 6: Six-week, Lipid-lowering Effects of Simvastatin in Type lV Hyperlipidemia Median Percent Change (25th and 75th percentile) from BaselineThe median baseline values (mg/dL) for the patients in this study were: total-C = 254, LDL-C = 135, HDL-C = 36, TG = 404, VLDL-C = 83, and non-HDL-C = 215
 
 | TREATMENT | N | Total-C | LDL-C | HDL-C | TG | VLDL-C | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ Dysbetalipoproteinemia (Fredrickson type lll)
 
 The results of a subgroup analysis in 7 patients with type lll hyperlipidemia (dysbetalipoproteinemia) (apo E2/2) (VLDL-C/TG>0.25) from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 7.
 
-TABLE 7 Six-week, Lipid-lowering Effects of Simvastatin in Type lll Hyperlipidemia Median Percent Change (min, max) from BaselineThe median baseline values (mg/dL) were: total-C = 324, LDL-C = 121, HDL-C = 31, TG = 411, VLD-C = 170, and non-HDL-C = 291.
+TABLE 7: Six-week, Lipid-lowering Effects of Simvastatin in Type lll Hyperlipidemia Median Percent Change (min, max) from BaselineThe median baseline values (mg/dL) were: total-C = 324, LDL-C = 121, HDL-C = 31, TG = 411, VLD-C = 170, and non-HDL-C = 291.
 
 | TREATMENT | N | Total-C | LDL-C + IDL | HDL-C | TG | VLDL-C+IDL | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -144,7 +144,7 @@ In a 24-week extension, 144 patients elected to continue therapy with simvastati
 Simvastatin tablets significantly decreased plasma levels of total-C, LDL-C, and Apo B (see Table 8).
 Results from the extension at 48 weeks were comparable to those observed in the base study.
 
-TABLE 8 Lipid-Lowering Effects of Simvastatin in Adolescent Patients with Heterozygous Familial Hypercholesterolemia (Mean Percent Change from Baseline)
+TABLE 8: Lipid-Lowering Effects of Simvastatin in Adolescent Patients with Heterozygous Familial Hypercholesterolemia (Mean Percent Change from Baseline)
 
 | Dosage | Duration | N |  | Total-C | LDL-C | HDL-C | TGmedian percent change | Apo B |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
