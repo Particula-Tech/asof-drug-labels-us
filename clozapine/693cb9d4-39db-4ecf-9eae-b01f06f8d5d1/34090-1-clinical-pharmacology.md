@@ -27,9 +27,9 @@ In man, clozapine tablets (25 and 100 mg) are equally bioavailable relative to a
 VERSACLOZ Oral Suspension is bioequivalent to clozapine marketed tablets.
 
 Following oral administration of 100 mg to 800 mg VERSACLOZ, once daily, the average steady-state peak plasma concentration was 275 ng/mL (range: 105 - 723 ng/mL), occurring at the average of 2.2 hours (range: 1 to 3.5 hours) after dosing.
-The average minimum concentration at steady state was 75 ng/mL (range: 11 to 198 ng/mL).
+The average minimum concentration at steady state was 75ng/mL (range: 11 to 198 ng/mL).
 
-When VERSACLOZ was administered after a high fat meal there was no effect on the AUCss or Cminss, however Cmaxwas reduced about 20%, and there was a slight delay in Tmax of 0.5 hour from a median Tmaxof 2.0 hours under fasted conditions to 2.5 hours under fed conditions.
+When VERSACLOZ was administered after a high fat meal there was no effect on the AUCss or Cminss, however Cmaxwas reduced about 20%, and there was a slight delay in Tmax of 0.5 hour from a median Tmax of 2.0 hours under fasted conditions to 2.5 hours under fed conditions.
 The decrease in Cmax is not considered clinically relevant.
 Therefore VERSACLOZ may be taken without regard to meals.
 

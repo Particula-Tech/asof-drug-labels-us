@@ -1,6 +1,6 @@
 # Patient Information
 
-VERSACLOZ™ (VER sa kloz)
+VERSACLOZ™ (VER sakloz)
 
 (clozapine)
 
@@ -160,29 +160,29 @@ VERSACLOZ may cause serious side effects, including:
 - •problems with your heartbeat.
   These heart problems can cause death.
   Call your healthcare provider right away if you have any of these symptoms:
-  - ∘passing out or feeling like you will pass out
-  - ∘dizziness
-  - ∘feeling as if your heart is pounding or missing beats
+  - •passing out or feeling like you will pass out
+  - •dizziness
+  - •feeling as if your heart is pounding or missing beats
 - •high blood sugar (diabetes) and changes in the fat levels in your blood (dyslipidemia)
 - •Neuroleptic Malignant Syndrome (NMS).
   NMS is a rare but very serious problem that can happen in people who take VERSACLOZ.
   NMS can cause death and must be treated in a hospital.
   Call your healthcare provider right away if you become severely ill and have any of these symptoms:
-  - ∘high fever
-  - ∘excessive sweating
-  - ∘stiff muscles
-  - ∘confusion
-  - ∘changes in your breathing, heartbeat and blood pressure
+  - •high fever
+  - •excessive sweating
+  - •stiff muscles
+  - •confusion
+  - •changes in your breathing, heartbeat and blood pressure
 - •fever.
   Some people may have a fever that comes and goes while they take VERSACLOZ.
   This happens more often in the first 3 weeks you take VERSACLOZ.
   Talk to your healthcare provider if you have a fever.
 - •blood clot in your lung (pulmonary embolism) or in the veins of your legs (deep vein thrombosis).
   Get emergency help right away if you have symptoms of a blood clot including:
-  - ∘chest pain and shortness of breath
-  - ∘swelling or pain in your leg, ankle or foot
-  - ∘warm feeling in the skin of your affected leg
-  - ∘changes in your skin color such as turning pale or blue
+  - •chest pain and shortness of breath
+  - •swelling or pain in your leg, ankle or foot
+  - •warm feeling in the skin of your affected leg
+  - •changes in your skin color such as turning pale or blue
 - •a problem that includes dry mouth, increased sweating, increased pulse rate and constipation (anticholinergic toxicity)
 - •problems thinking clearly and moving your body
 - •uncontrolled movements of your tongue, face, mouth, or jaw (tardive dyskinesia)
@@ -237,7 +237,7 @@ Inactive ingredients: glycerin, sorbitol (non-crystallizing), sodium dihydrogen 
 
 Instructions for Use
 
-VERSACLOZTM (VER sa kloz)
+VERSACLOZTM (VER sakloz)
 
 (clozapine)
 
@@ -248,8 +248,8 @@ Supplies you will need to take your VERSACLOZ dose:
 - •VERSACLOZTM Oral Suspension bottle
 - •a bottle neck adaptor
 - •the correct oral syringe to measure your dose
-  - ∘If your dose is 1 mL (50 mg) or less, use the smaller 1 mL oral syringe.
-  - ∘If your dose is more than 1 mL (50 mg), use the larger 9 mL oral syringe.
+  - •If your dose is 1 mL (50 mg) or less, use the smaller 1 mL oral syringe.
+  - •If your dose is more than 1 mL (50 mg), use the larger 9 mL oral syringe.
 
 Disposal of your oral syringe, empty VERSACLOZ bottle and bottle neck adaptor:
 

@@ -47,11 +47,11 @@ Frequency of Monitoring Based on Stage of Therapy or Results from WBC Count and 
 | 12 months of therapy | WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3 | Every 4 weeks ad infinitum |
 | Immature forms present | N/A | Repeat WBC and ANC |
 | Discontinuation of therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3 |
-| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of:WBC ≥ 3000/mm3 or ANC ≥ 1500/mm3 | 1.Repeat WBC and ANC2. If repeat values are: WBC 3000/mm3 to 3500 and ANC > 2000/mm3, then monitor twice weekly |
+| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of:WBC ≥ 3000/mm3 or ANC ≥ 1500/mm3 | 1.Repeat WBC and ANC2. If repeat values are: WBC 3000/mm3 to 3500/mm3 and ANC > 2000/mm3, then monitor twice weekly |
 | Mild leukopenia and/or Mild granulocytopenia | If WBC 3000/mm3 to < 3500/mm3 and/or ANC 1500/mm3 to < 2000/mm3 | Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 then return to previous monitoring frequency |
 | Moderate leukopenia and/or Moderate granulocytopenia | WBC 2000/mm3 to < 3000/mm3 and/or ANC 1000/mm3 to < 1500/mm3 | 1.Interrupt therapy2.Daily until WBC > 3000/mm3 and ANC > 1500/mm33.Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm34.May rechallenge when WBC > 3500/mm3 and ANC > 2000/mm35.If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
-| Severe leukopenia and/or Severe granulocytopenia | WBC count < 2000/mm3 and/or ANC < 1000/mm3 | 1.Discontinue treatment and do not rechallenge patient2.Monitor until normal and for at least four weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3- Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3- Weekly after WBC > 3500/mm3 |
-| Agranulocytosis | ANC < 500/mm3 | 1.Discontinue treatment and do not rechallenge patient2.Monitor until normal and for at least four weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3- Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3- Weekly after WBC > 3500/mm3 |
+| Severe leukopenia and/or Severe granulocytopenia | WBC count < 2000/mm3 and/or ANC < 1000/mm3 | 1.Discontinue treatment and do not rechallenge patient2.Monitor until normal and for at least four weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3 - Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 - Weekly after WBC > 3500/mm3 |
+| Agranulocytosis | ANC < 500/mm3 | 1.Discontinue treatment and do not rechallenge patient2.Monitor until normal and for at least four weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3 - Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 - Weekly after WBC > 3500/mm3 |
 | WBC = White blood cell ANC = Absolute neutrophil count |  |  |
 
 Decrements in WBC Count and/or ANC
@@ -151,7 +151,7 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality in this population.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-VERSACLOZ is not approved for the treatment of patients with dementia-related psychosis [See Boxed Warning].
+VERSACLOZ is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 ## 5.7 Eosinophilia
 
@@ -225,7 +225,7 @@ Categorical Changes in Fasting Glucose Level in Studies in Adult Subjects with S
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
 | Fasting Glucose | Normal (< 100 mg/dL)toHigh (≥ 126 mg/dL) | Clozapine | 198 | 53 (27) |
-| Chlorpromazine | 135 | 14 (10) |  |  |
+|  | Chlorpromazine | 135 | 14 (10) |  |
 | Borderline (100 to 125 mg/dL)toHigh (≥ 126 mg/dL) | Clozapine | 57 | 24 (42) |  |
 | Chlorpromazine | 43 | 12 (28) |  |  |
 
@@ -250,7 +250,7 @@ Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in A
 | Treatment Arm | Baseline total cholesterol concentration (mg/dL) | Change from baseline mg/dL (%) |
 | --- | --- | --- |
 | Clozapine (N=334) | 184 | +13 (7) |
-| Chlorpromazine (185) | 182 | +15 (8) |
+| Chlorpromazine (N=185) | 182 | +15 (8) |
 |  | Baseline triglyceride concentration (mg/dL) | Change from baseline mg/dL (%) |
 | Clozapine (N=6) | 130 | +71 (54) |
 | Chlorpromazine (N=7) | 110 | +39 (35) |
@@ -260,14 +260,14 @@ Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Sc
 
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol (random or fasting) | Increase by ≥ 40 mg/dL | Clozapine | 334 | 111 (33) |
-| Chlorpromazine | 185 | 46 (25) |  |  |
+| Total Cholesterol(random or fasting) | Increase by ≥ 40 | Clozapine | 334 | 111 (33) |
+| mg/dL | Chlorpromazine | 185 | 46 (25) |  |
 | Normal (< 200 mg/dL) toHigh (≥ 240 mg/dL) | Clozapine | 222 | 18 (8) |  |
 | Chlorpromazine | 132 | 3 (2) |  |  |
 | Borderline (200 - 239 mg/dL) toHigh (≥ 240 mg/dL) | Clozapine | 79 | 30 (38) |  |
 | Chlorpromazine | 34 | 14 (41) |  |  |
-| Triglycerides(fasting) | Increase by ≥ 50 mg/dL | Clozapine | 6 | 3 (50) |
-| Chlorpromazine | 7 | 3(43) |  |  |
+| Triglycerides(fasting) | Increase by ≥ 50 | Clozapine | 6 | 3 (50) |
+| mg/dL | Chlorpromazine | 7 | 3 (43) |  |
 | Normal (< 150 mg/dL) toHigh (≥ 200 mg/dL) | Clozapine | 4 | 0 (0) |  |
 | Chlorpromazine | 6 | 2 (33) |  |  |
 | Borderline (≥ 150 mg/dL and < 200 mg/dL) toHigh (≥ 200 mg/dL) | Clozapine | 1 | 1 (100) |  |
@@ -283,15 +283,15 @@ The median duration of exposure was 609, 728, and 42 days, in the clozapine, ola
 Table 6.
 Mean Change in Body Weight (kg) by duration of exposure from studies in adult subjects with schizophrenia
 
-| Metabolic parameter | Exposure duration | Clozapine (N = 669) |  | Olanzapine (N = 442) |  | Chlorpromazine (N = 155) |  |
+| Metabolic parameter | Exposure duration | Clozapine(N = 669) |  | Olanzapine(N = 442) |  | Chlorpromazine(N = 155) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | Mean | n | Mean | n | Mean |  |  |
-| Weight change from baseline | 2 weeks (Day 11 – 17) | 6 | 0.9 | 3 | 0.7 | 2 | -0.5 |
-| 4 weeks (Day 21 – 35) | 23 | 0.7 | 8 | 0.8 | 17 | 0.6 |  |
-| 8 weeks (Day 49 – 63) | 12 | 1.9 | 13 | 1.8 | 16 | 0.9 |  |
-| 12 weeks (Day 70 – 98) | 17 | 2.8 | 5 | 3.1 | 0 | 0 |  |
-| 24 weeks (154 – 182) | 42 | - 0.6 | 12 | 5.7 | 0 | 0 |  |
-| 48 weeks (Day 322 – 350) | 3 | 3.7 | 3 | 13.7 | 0 | 0 |  |
+| Weight change from baseline | 2 weeks (Day 11 – 17) | 6 | +0.9 | 3 | +0.7 | 2 | -0.5 |
+| 4 weeks (Day 21 – 35) | 23 | +0.7 | 8 | +0.8 | 17 | +0.6 |  |
+| 8 weeks (Day 49 – 63) | 12 | +1.9 | 13 | +1.8 | 16 | +0.9 |  |
+| 12 weeks (Day 70 – 98) | 17 | +2.8 | 5 | +3.1 | 0 | 0 |  |
+| 24 weeks (154 – 182) | 42 | -0.6 | 12 | +5.7 | 0 | 0 |  |
+| 48 weeks (Day 322 – 350) | 3 | +3.7 | 3 | +13.7 | 0 | 0 |  |
 
 Table 7 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥ 7% of body weight relative to baseline.
 The median duration of exposure was 609, 728, and 42 days, in the clozapine, olanzapine, and chlorpromazine group, respectively.
@@ -334,7 +334,7 @@ Consider the possibility of NMS [see Warnings and Precautions (5.10)].
 ## 5.12 Pulmonary Embolism
 
 Pulmonary embolism and deep vein thrombosis have occurred in patients treated with clozapine.
-Consider the possibility of pulmonary embolism in patients who present with deep-vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
+Consider the possibility of pulmonary embolism in patients who present with deep vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
 Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
 ## 5.13 Anticholinergic Toxicity

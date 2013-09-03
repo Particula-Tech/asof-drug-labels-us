@@ -89,9 +89,7 @@ Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epile
 
 Cardiovascular System
 
-Atrial or ventricular fibrillation, periorbital edema, and myocardial infarction.
-
-Ventricular tachycardia, cardiac arrest, QT prolongation, and Torsades de Pointes.
+Atrial or ventricular fibrillation, periorbital edema, and myocardial infarction, Ventricular tachycardia, cardiac arrest, QT prolongation, and Torsades de Pointes.
 
 Gastrointestinal System
 
@@ -103,7 +101,7 @@ Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic nec
 
 Urogenital System
 
-Acute interstitial nephritis, priapism, and renal failure.
+Acute interstitial nephritis, nocturnal enuresis, priapism, and renal failure.
 
 Skin
 
@@ -119,7 +117,7 @@ Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
 
 Hemic and Lymphatic System
 
-Deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+Deep vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 
 Vision Disorders
 

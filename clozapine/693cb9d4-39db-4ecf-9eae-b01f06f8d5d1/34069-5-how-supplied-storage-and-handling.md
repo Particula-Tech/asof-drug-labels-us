@@ -5,7 +5,7 @@
 Oral Suspension
 
 Free-flowing, yellow suspension (50 mg/mL) in amber bottle containing 100 mL.
-Each box contains 1x 1 mL oral syringe, 1x 9 mL oral syringe and 1 bottle adaptor.
+Each box contains 1 x 1 mL oral syringe, 1 x 9 mL oral syringe and 1 bottle adaptor.
 
 NDC No. 18860-121-01
 

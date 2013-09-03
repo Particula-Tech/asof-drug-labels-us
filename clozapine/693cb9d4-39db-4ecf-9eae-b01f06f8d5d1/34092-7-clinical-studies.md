@@ -22,7 +22,7 @@ Approximately 88% of patients from the clozapine and chlorpromazine groups compl
 At the end of six weeks, 30% of the clozapine group responded to treatment, and 4% of the chlorpromazine group responded to treatment.
 The difference was statistically significant (p < 0.001).
 The mean change in total BPRS score was -16 and -5 in the clozapine and chlorpromazine group, respectively; the mean change in the 4 key BPRS item scores was -5 and -2 in the clozapine and chlorpromazine group, respectively; and the mean change in CGI-S score was -1.2 and -0.4, in the clozapine and chlorpromazine group, respectively.
-These changes in the clozapine group were statistically significantly greater than in the chlorpromazine group (p< 0.001 in each analysis).
+These changes in the clozapine group were statistically significantly greater than in the chlorpromazine group (p < 0.001 in each analysis).
 
 ## 14.2 Recurrent Suicidal Behavior in Schizophrenia or Schizoaffective Disorder
 

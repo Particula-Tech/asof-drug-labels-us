@@ -8,7 +8,7 @@ Prior to initiating treatment with VERSACLOZ, obtain a baseline white blood cell
 The ANC must be greater than or equal to 2000/mm3 and the WBC must be greater than or equal to 3500/mm3 for a patient to begin treatment with VERSACLOZ.
 During treatment, patients must have regular monitoring of ANC and WBC.
 Discontinue VERSACLOZ and do not rechallenge if the ANC is less than 1000/mm3 or the WBC is less than 2000/mm3.
-Advise patients to immediately report symptoms consistent with agranulocytosis or infection (e.g., fever, weakness, lethargy, or sore throat) [see Dosage and Administration (2.2), and Warnings and Precautions (5.1)].
+Advise patients to immediately report symptoms consistent with agranulocytosis or infection (e.g., fever, weakness, lethargy, or sore throat) [see Dosage and Administration (2.1), and Warnings and Precautions (5.1)].
 
 Because of the risk of agranulocytosis, VERSACLOZ is available only through a restricted program called the VERSACLOZ Patient Registry.
 Under the VERSACLOZ Patient Registry, prescribers, patients, and pharmacies must enroll in the program [see Warnings and Precautions (5.2)].

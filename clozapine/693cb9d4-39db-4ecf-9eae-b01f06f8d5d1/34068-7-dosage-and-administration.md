@@ -44,7 +44,7 @@ When restarting VERSACLOZ in patients who have discontinued VERSACLOZ (i.e., 2 d
 This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
 If that dose is well tolerated, the dose may be increased to the previously therapeutic dose more quickly than recommended for initial treatment.
 
-## 2.7 Dosage Adjustment with concomitant use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
+## 2.7 Dosage Adjustments with Concomitant Use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
 
 Dose adjustments may be necessary in patients with concomitant use of: strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin); moderate or weak CYP1A2 inhibitors (e.g., oral contraceptives, or caffeine); CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline); CYP3A4 inducers (e.g., phenytoin, carbamazepine, St. John’s wort, and rifampin); or CYP1A2 inducers (e.g., tobacco smoking) (Table 1) [See Drug Interactions (7)].
 
