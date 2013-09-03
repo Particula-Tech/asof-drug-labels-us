@@ -39,8 +39,6 @@
     Performance Standards for Antimicrobial Disk Susceptibility Tests, Approved Standard – 11th ed.
     CLSI document M02-A11, 2012
 
-Manufactured and Distributed by: King Pharmaceuticals, Inc., Bristol, TN 37620
-
 LAB-0588-4.0
 
-May 2013
+August 2013
