@@ -1,6 +1,8 @@
 # ADVERSE REACTIONS
 
-(See also WARNINGS and PRECAUTIONS.)The information included under the Incidence in Controlled Trials subsection of ADVERSE REACTIONS is based primarily on data from controlled clinical trials with bupropion hydrochloride extended-release tablets (SR).
+(See also WARNINGS and PRECAUTIONS.)
+
+The information included under the Incidence in Controlled Trials subsection of ADVERSE REACTIONS is based primarily on data from controlled clinical trials with bupropion hydrochloride extended-release tablets (SR).
 Information on additional adverse events associated with the sustained-release formulation of bupropion in smoking cessation trials, as well as the immediate-release formulation of bupropion, is included in a separate section (see Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion).
 
 ## Incidence in Controlled Trials With Bupropion Hydrochloride Extended-Release Tablets (SR)
@@ -75,7 +77,7 @@ Treatment-Emergent Adverse Events In Placebo-Controlled TrialsAdverse events tha
 | Irritability | 3% | 2% | 2% |
 | Memory decreased | -- | 3% | 1% |
 | Paresthesia | 1% | 2% | 1% |
-| CNS stimulation | 2% | 1% | 1% |
+| Central nervous system stimulation | 2% | 1% | 1% |
 | Respiratory |  |  |  |
 | Pharyngitis | 3% | 11% | 2% |
 | Sinusitis | 3% | 1% | 2% |
@@ -108,7 +110,7 @@ Bupropion Hydrochloride Extended-Release Tablets (SR) 400 mg/day: Abdominal pain
 
 In addition to the adverse events noted above, the following events have been reported in clinical trials and postmarketing experience with the sustained-release formulation of bupropion in depressed patients and in nondepressed smokers, as well as in clinical trials and postmarketing clinical experience with the immediate-release formulation of bupropion.
 
-Adverse events for which frequencies are provided below occurred in clinical trials with the extended-release formulation of bupropion.
+Adverse events for which frequencies are provided below occurred in clinical trials with the sustained-release formulation of bupropion.
 The frequencies represent the proportion of patients who experienced a treatment-emergent adverse event on at least one occasion in placebo-controlled studies for depression (n=987) or smoking cessation (n=1,013), or patients who experienced an adverse event requiring discontinuation of treatment in an open-label surveillance study with bupropion hydrochloride extended-release tablets (SR) (n=3,100).
 All treatment-emergent adverse events are included except those listed in Tables 2 through 5, those events listed in other safety-related sections, those adverse events subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, those events not reasonably associated with the use of the drug, and those events that were not serious and occurred in fewer than 2 patients.
 Events of major clinical importance are described in the WARNINGS and PRECAUTIONS sections of the labeling.

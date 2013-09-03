@@ -5,7 +5,7 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 – 24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
@@ -19,11 +19,11 @@ Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
-|  | Increases Compared to Placebo |
+| Increases Compared to Placebo |  |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
-|  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 18 to 24 | 5 additional cases |
+| Decreases Compared to Placebo |  |
+| 25 to 64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -45,7 +45,7 @@ Prescriptions for bupropion hydrochloride extended-release tablets (SR) should b
 
 ## Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
 
-Bupropion hydrochloride, bupropion hydrochloride, the sustained-release formulation, and bupropion hydrochloride, the extended-release formulation are not approved for smoking cessation treatment, but bupropion under the name ZYBAN® is approved for this use.
+WELLBUTRIN®, bupropion hydrochloride extended-release tablets (SR), and WELLBUTRIN XL® are not approved for smoking cessation treatment, but bupropion under the name ZYBAN® is approved for this use.
 Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation (see BOXED WARNING, ADVERSE REACTIONS).
 These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide.
 Some reported cases may have been complicated by the symptoms of nicotine withdrawal in patients who stopped smoking.
@@ -76,7 +76,7 @@ It should be noted that bupropion hydrochloride extended-release tablets (SR) ar
 
 ## Bupropion-Containing Products
 
-Patients should be made aware that bupropion hydrochloride extended-release tablets (SR) contain the same active ingredient found in ZYBAN®, used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (SR) should not be used in combination with ZYBAN®, or any other medications that contain bupropion, such as WELLBUTRIN® (bupropion hydrochloride tablets), the immediate-release formulation or WELLBUTRIN XL® [bupropion hydrochloride extended-release tablets (XL)], the extended-release formulation.
+Patients should be made aware that bupropion hydrochloride extended-release tablets (SR) contain the same active ingredient found in ZYBAN®, used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (SR) should not be used in combination with ZYBAN®, or any other medications that contain bupropion, such as WELLBUTRIN® (bupropion hydrochloride), the immediate-release formulation or WELLBUTRIN XL® (bupropion hydrochloride), the extended-release formulation.
 
 ## Seizures
 
@@ -96,7 +96,7 @@ Bupropion hydrochloride extended-release tablets (SR) should be discontinued and
   It is not possible to know if the lower seizure incidence observed in this study involving the sustained-release formulation of bupropion resulted from the different formulation or the lower dose used.
   However, as noted above, the immediate-release and sustained-release formulations are bioequivalent with regard to both rate and extent of absorption during steady state (the most pertinent condition to estimating seizure incidence), since most observed seizures occur under steady-state conditions.
 - Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
-- Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-thecounter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
+- Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
 - Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
 
 ### Recommendations for Reducing the Risk of Seizure
@@ -236,7 +236,7 @@ If patients develop agitation, hostility, depressed mood, or changes in thinking
 
 ### Bupropion-Containing Products
 
-Patients should be made aware that bupropion hydrochloride extended-release tablets (SR) contain the same active ingredient found in ZYBAN®, used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (SR) should not be used in combination with ZYBAN® or any other medications that contain bupropion hydrochloride, such as WELLBUTRIN® (bupropion hydrochloride), the immediate release formulation and WELLBUTRIN XL® [bupropion hydrochloride extended-release tablets (XL)], the extended-release formulation.
+Patients should be made aware that bupropion hydrochloride extended-release tablets (SR) contain the same active ingredient found in ZYBAN®, used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (SR) should not be used in combination with ZYBAN® or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN®, the immediate release formulation and WELLBUTRIN XL®, the extended-release formulation).
 
 As dose is increased during initial titration to doses above 150 mg/day, patients should be instructed to take bupropion hydrochloride extended-release tablets (SR) in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
 
@@ -263,12 +263,10 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
-Few systemic data have been collected on the metabolism of bupropion following concomitant administration with other drugs or, alternatively, the effect of concomitant administration of bupropion on the metabolism of other drugs.
-
 Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
 Therefore, the potential exists for a drug interaction between bupropion hydrochloride extended-release tablets (SR) and drugs that are substrates of or inhibitors/inducers of CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).
-In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir and efavirenz inhibit the hydroxylation of bupropion.
+In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir inhibit the hydroxylation of bupropion.
 No clinical studies have been performed to evaluate this finding.
 The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
@@ -305,7 +303,11 @@ Citalopram did not affect the pharmacokinetics of bupropion and its 3 metabolite
 
 ### MAO Inhibitors
 
-Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
+Concomitant use of MAOIs and bupropion is contraindicated.
+Bupropion inhibits the reuptake of dopamine and norepinephrine and can increase risk of hypertensive reactions when used concomitantly with drugs that also inhibit the reuptake of dopamine or norepinephrine, including MAOIs.
+In addition, MAOIs decrease the metabolism of dopamine and norepinephrine.
+These effects can increase dopaminergic and noradrenergic activity.
+Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ### Levodopa and Amantadine
 
@@ -326,12 +328,12 @@ Low initial dosing and gradual dose increases should be employed.
 In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with bupropion hydrochloride extended-release tablets (SR).
 The consumption of alcohol during treatment with bupropion hydrochloride extended-release tablets (SR) should be minimized or avoided (also see CONTRAINDICATIONS).
 
-## Drug-Laboratory Test Interactions
+### Drug-Laboratory Test Interactions
 
 False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
 This is due to lack of specificity of some screening tests.
 False-positive test results may result even following discontinuation of bupropion therapy.
-Confirmatory tests, such as gas chromatography/mass spectroscopy, will distinguish bupropion from amphetamines.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -361,7 +363,6 @@ One study has been conducted in pregnant women.
 This retrospective, managed-care database study assessed the risk of congenital malformations overall and cardiovascular malformations specifically, following exposure to bupropion in the first trimester compared to the risk of these malformations following exposure to other antidepressants in the first trimester and bupropion outside of the first trimester.
 This study included 7,005 infants with antidepressant exposure during pregnancy, 1,213 of whom were exposed to bupropion in the first trimester.
 The study showed no greater risk for congenital malformations overall or cardiovascular malformations specifically, following first trimester bupropion exposure compared to exposure to all other antidepressants in the first trimester, or bupropion outside of the first trimester.
-
 The results of this study have not been corroborated.
 Bupropion hydrochloride extended-release tablets (SR) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -377,7 +378,6 @@ Because of the potential for serious adverse reactions in nursing infants from b
 ## Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders).
-
 Anyone considering the use of bupropion hydrochloride extended-release tablets (SR) in a child or adolescent must balance the potential risks with the clinical need.
 
 ## Geriatric Use

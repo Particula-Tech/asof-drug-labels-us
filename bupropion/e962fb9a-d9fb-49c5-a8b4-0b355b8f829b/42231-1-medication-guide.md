@@ -52,7 +52,7 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child's healthcare provider for more information.
 
-Bupropion hydrochloride extended-release tablets (SR) have not been studied in children under the age of 18 and is not approved for use in children and teenagers.
+Bupropion hydrochloride extended-release tablets (SR) have not been studied in children under the age of 18 and are not approved for use in children and teenagers.
 
 Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions
 
@@ -65,7 +65,7 @@ These symptoms can develop during treatment with bupropion or after stopping tre
 
 If you, your family member, or your caregiver notice agitation, hostility, depression, or changes in thinking or behavior that are not typical for you, or you have any of the following symptoms, stop taking bupropion and call your healthcare provider right away:
 
-| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietypanic attacksfeeling very agitated or restlessacting aggressive, being angry, or violentacting on dangerous impulses | an extreme increase in activity and talking (mania) abnormal thoughts or sensationsseeing or hearing things that are not there (hallucinations)feeling people are against you (paranoia)feeling confusedother unusual changes in behavior or mood |
+| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietypanic attacksfeeling very agitated or restlessacting aggressive, being angry, or violentacting on dangerous impulses | an extreme increase in activity and talking (mania)abnormal thoughts or sensationsseeing or hearing things that are not there (hallucinations)feeling people are against you (paranoia)feeling confusedother unusual changes in behavior or mood |
 | --- | --- |
 
 When you try to quit smoking, with or without bupropion, you may have symptoms that may be due to nicotine withdrawal, including urge to smoke, depressed mood, trouble sleeping, irritability, frustration, anger, feeling anxious, difficulty concentrating, restlessness, decreased heart rate, and increased appetite or weight gain.
@@ -106,13 +106,16 @@ Bupropion hydrochloride extended-release tablets (SR) are a prescription medicin
 
 Who should not take bupropion hydrochloride extended-release tablets (SR)?
 
-Do not take bupropion hydrochloride extended-release tablets (SR) if you
+Do not take bupropion hydrochloride extended-release tablets (SR) if you:
 
 - have or had a seizure disorder or epilepsy.
-- are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN® Tablets or WELLBUTRIN XL® [bupropion hydrochloride extended-release tablets (XL)].
+- are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN® Tablets or WELLBUTRIN XL® Extended-Release Tablets.
   Bupropion is the same active ingredient that is in bupropion hydrochloride extended-release tablets (SR).
 - drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
+- take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  - do not take an MAOI within 2 weeks of stopping bupropion hydrochloride extended-release tablets (SR) unless directed to do so by your physician.
+  - do not start bupropion hydrochloride extended-release tablets (SR) if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - have or had an eating disorder such as anorexia nervosa or bulimia.
 - are allergic to the active ingredient in bupropion hydrochloride extended-release tablets (SR), bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in bupropion hydrochloride extended-release tablets (SR).
@@ -126,7 +129,7 @@ See "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, an
   - are pregnant or plan to become pregnant.
     It is not known if bupropion hydrochloride extended-release tablets (SR) can harm your unborn baby.
   - are breastfeeding.
-    Bupropion hydrochloride extended-release tablets (SR) passes through your milk.
+    Bupropion hydrochloride extended-release tablets (SR) pass through your milk.
     It is not known if bupropion hydrochloride extended-release tablets (SR) can harm your baby.
   - have liver problems, especially cirrhosis of the liver.
   - have kidney problems.
@@ -148,7 +151,7 @@ How should I take bupropion hydrochloride extended-release tablets (SR)?
   If you do, the medicine will be released into your body too quickly.
   If this happens you may be more likely to get side effects including seizures.
   You must swallow the tablets whole.
-  Tell your doctor if you cannot swallowmedicine tablets.
+  Tell your doctor if you cannot swallow medicine tablets.
 - Take bupropion hydrochloride extended-release tablets (SR) at the same time each day.
 - Take your doses of bupropion hydrochloride extended-release tablets (SR) at least 8 hours apart.
 - You may take bupropion hydrochloride extended-release tablets (SR) with or without food.
@@ -194,7 +197,7 @@ How should I store bupropion hydrochloride extended-release tablets (SR)?
   Keep bupropion hydrochloride extended-release tablets (SR) in its tightly closed bottle.
 - Bupropion hydrochloride extended-release tablets (SR) may have an odor.
 
-General Information about Bupropion Hydrochloride Extended-Release Tablets (SR).
+General Information about bupropion hydrochloride extended-release tablets (SR).
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use bupropion hydrochloride extended-release tablets (SR) for a condition for which it was not prescribed.
@@ -202,7 +205,7 @@ Do not give bupropion hydrochloride extended-release tablets (SR) to other peopl
 It may harm them.
 Keep bupropion hydrochloride extended-release tablets (SR) out of the reach of children.
 
-If you take a urine drug screening test, bupropion hydrochloride extended-release tablets (SR) may make the test result positive for amphetmaines.
+If you take a urine drug screening test, bupropion hydrochloride extended-release tablets (SR) may make the test result positive for amphetamines.
 If you tell the person giving you the drug screening test that you are taking bupropion hydrochloride extended-release tablets (SR), they can do a more specific drug screening test that should not have this problem.
 
 This Medication Guide summarizes important information about bupropion hydrochloride extended-release tablets (SR).
@@ -217,15 +220,6 @@ Inactive ingredients: colloidal silicon dioxide, hydroxypropyl cellulose, magnes
 
 Rx only
 
-ZYBAN®, WELLBUTRIN®, WELLBUTRIN XL®, and PARNATE® are registered trademarks of GlaxoSmithKline.
-NARDIL® is a registered trademark of Warner Lambert Company.
-MARPLAN® is a registered trademark of Oxford Pharmaceutical Services, Inc.
+ZYBAN®, WELLBUTRIN® and WELLBUTRIN XL® are registered trademarks of GlaxoSmithKline.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Mfg. by: IMPAX Laboratories, Inc. Hayward, California 94544 USA
-
-Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
-
-Rev.
-08/2011 444-11
