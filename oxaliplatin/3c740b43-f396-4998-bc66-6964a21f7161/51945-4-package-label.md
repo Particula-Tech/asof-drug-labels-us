@@ -33,21 +33,3 @@ DO NOT MIX OR ADD TO SODIUM CHLORIDE/ CHLORIDE-CONTAINING SOLUTIONS
 Rx only
 
 SANOFI
-
-PRINCIPAL DISPLAY PANEL - 200 mg Carton
-
-NDC 0024-0592-40 200 mg
-
-Eloxatin® (OXALIplatin injection) 5 mg/mL INJECTION 200 mg
-
-FOR INTRAVENOUS USE ONLY SINGLE USE VIAL ONLY
-
-Sterile Aqueous Solution - Preservative Free
-
-See package insert for further required dilution
-
-DO NOT MIX OR ADD TO SODIUM CHLORIDE/ CHLORIDE-CONTAINING SOLUTIONS
-
-Rx only
-
-sanofi aventis
