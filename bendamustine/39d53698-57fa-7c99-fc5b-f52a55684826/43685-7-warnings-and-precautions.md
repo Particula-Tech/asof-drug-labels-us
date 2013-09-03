@@ -2,48 +2,46 @@
 
 ## 5.1 Myelosuppression
 
-Patients treated with TREANDA are likely to experience myelosuppression.
-In the two NHL studies, 98% of patients had Grade 3-4 myelosuppression (see Table 4).
+TREANDA caused severe myelosuppression (Grade 3-4) in 98% of patients in the two NHL studies (see Table 4).
 Three patients (2%) died from myelosuppression-related adverse reactions; one each from neutropenic sepsis, diffuse alveolar hemorrhage with Grade 3 thrombocytopenia, and pneumonia from an opportunistic infection (CMV).
 
-In the event of treatment-related myelosuppression, monitor leukocytes, platelets, hemoglobin (Hgb), and neutrophils closely.
+In the event of treatment-related myelosuppression, monitor leukocytes, platelets, hemoglobin (Hgb), and neutrophils frequently.
 In the clinical trials, blood counts were monitored every week initially.
 Hematologic nadirs were observed predominantly in the third week of therapy.
-Hematologic nadirs may require dose delays if recovery to the recommended values have not occurred by the first day of the next scheduled cycle.
+Myelosuppression may require dose delays and/or subsequent dose reductions if recovery to the recommended values has not occurred by the first day of the next scheduled cycle.
 Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 109/L and the platelet count should be ≥ 75 x 109/L.
 [See Dosage and Administration (2.1) and (2.2)]
 
 ## 5.2 Infections
 
-Infection, including pneumonia and sepsis, has been reported in adult and pediatric patients in clinical trials and in postmarketing reports.
-Infection has been associated with hospitalization, septic shock and death.
+Infection, including pneumonia, sepsis, septic shock, and death have occurred in adult and pediatric patients in clinical trials and in postmarketing reports.
 Patients with myelosuppression following treatment with TREANDA are more susceptible to infections.
-Patients with myelosuppression following TREANDA treatment should be advised to contact a physician if they have symptoms or signs of infection.
+Advise patients with myelosuppression following TREANDA treatment to contact a physician if they have symptoms or signs of infection.
 
-## 5.3 Infusion Reactions and Anaphylaxis
+## 5.3 Anaphylaxis and Infusion Reactions
 
 Infusion reactions to TREANDA have occurred commonly in clinical trials.
 Symptoms include fever, chills, pruritus and rash.
 In rare instances severe anaphylactic and anaphylactoid reactions have occurred, particularly in the second and subsequent cycles of therapy.
 Monitor clinically and discontinue drug for severe reactions.
-Patients should be asked about symptoms suggestive of infusion reactions after their first cycle of therapy.
-Patients who experienced Grade 3 or worse allergic-type reactions were not typically rechallenged.
-Measures to prevent severe reactions, including antihistamines, antipyretics and corticosteroids should be considered in subsequent cycles in patients who have previously experienced Grade 1 or 2 infusion reactions.
-Discontinuation should be considered in patients with Grade 3 or 4 infusion reactions.
+Ask patients about symptoms suggestive of infusion reactions after their first cycle of therapy.
+Patients who experience Grade 3 or worse allergic-type reactions should not be rechallenged.
+Consider measures to prevent severe reactions, including antihistamines, antipyretics and corticosteroids in subsequent cycles in patients who have experienced Grade 1 or 2 infusion reactions.
+Discontinue TREANDA for patients with Grade 4 infusion reactions.
+Consider discontinuation for Grade 3 infusions reactions as clinically appropriate considering individual benefits, risks, and supportive care.
 
 ## 5.4 Tumor Lysis Syndrome
 
-Tumor lysis syndrome associated with TREANDA treatment has been reported in patients in clinical trials and in postmarketing reports.
+Tumor lysis syndrome associated with TREANDA treatment has occurred in patients in clinical trials and in postmarketing reports.
 The onset tends to be within the first treatment cycle of TREANDA and, without intervention, may lead to acute renal failure and death.
-Preventive measures include maintaining adequate volume status, and close monitoring of blood chemistry, particularly potassium and uric acid levels.
+Preventive measures include vigorous hydration and close monitoring of blood chemistry, particularly potassium and uric acid levels.
 Allopurinol has also been used during the beginning of TREANDA therapy.
 However, there may be an increased risk of severe skin toxicity when TREANDA and allopurinol are administered concomitantly [see Warnings and Precautions (5.5)].
 
 ## 5.5 Skin Reactions
 
-A number of skin reactions have been reported in clinical trials and postmarketing safety reports.
-These events have included rash, toxic skin reactions and bullous exanthema.
-Some events occurred when TREANDA was given in combination with other anticancer agents, so the precise relationship to TREANDA is uncertain.
+Skin reactions have been reported with TREANDA treatment in clinical trials and postmarketing safety reports, including rash, toxic skin reactions and bullous exanthema.
+Some events occurred when TREANDA was given in combination with other anticancer agents.
 
 In a study of TREANDA (90 mg/m2) in combination with rituximab, one case of toxic epidermal necrolysis (TEN) occurred.
 TEN has been reported for rituximab (see rituximab package insert).
@@ -51,20 +49,20 @@ Cases of Stevens-Johnson syndrome (SJS) and TEN, some fatal, have been reported 
 The relationship to TREANDA cannot be determined.
 
 Where skin reactions occur, they may be progressive and increase in severity with further treatment.
-Therefore, patients with skin reactions should be monitored closely.
-If skin reactions are severe or progressive, TREANDA should be withheld or discontinued.
+Monitor patients with skin reactions closely.
+If skin reactions are severe or progressive, withhold or discontinue TREANDA.
 
 ## 5.6 Other Malignancies
 
 There are reports of pre-malignant and malignant diseases that have developed in patients who have been treated with TREANDA, including myelodysplastic syndrome, myeloproliferative disorders, acute myeloid leukemia and bronchial carcinoma.
 The association with TREANDA therapy has not been determined.
 
-## 5.7 Extravasation
+## 5.7 Extravasation Injury
 
-There are postmarketing reports of bendamustine extravasations resulting in hospitalizations from erythema, marked swelling, and pain.
-Precautions should be taken to avoid extravasation, including monitoring of the intravenous infusion site for redness, swelling, pain, infection, and necrosis during and after administration of TREANDA.
+TREANDA extravasations have been reported in post marketing resulting in hospitalizations from erythema, marked swelling, and pain.
+Assure good venous access prior to starting TREANDA infusion and monitor the intravenous infusion site for redness, swelling, pain, infection, and necrosis during and after administration of TREANDA.
 
-## 5.8 Use in Pregnancy
+## 5.8 Embryo-fetal Toxicity
 
 TREANDA can cause fetal harm when administered to a pregnant woman.
 Single intraperitoneal doses of bendamustine in mice and rats administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations, and decreased fetal body weights.

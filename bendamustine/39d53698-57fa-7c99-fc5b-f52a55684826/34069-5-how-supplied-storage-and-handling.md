@@ -7,9 +7,8 @@ The use of gloves and safety glasses is recommended to avoid exposure in case of
 If a solution of TREANDA contacts the skin, wash the skin immediately and thoroughly with soap and water.
 If TREANDA contacts the mucous membranes, flush thoroughly with water.
 
-Procedures for the proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on the subject have been published3-6.
-There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+TREANDA is an antineoplastic product.
+Follow special handling and disposal procedures1.
 
 ## 16.2 How Supplied
 

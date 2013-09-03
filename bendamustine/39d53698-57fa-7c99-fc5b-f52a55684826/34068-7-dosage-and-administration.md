@@ -38,17 +38,21 @@ Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity
 
 ## 2.3 Reconstitution/Preparation for Intravenous Administration
 
-- Aseptically reconstitute each TREANDA vial as follows:Shake well to yield a clear, colorless to a pale yellow solution with a bendamustine HCl concentration of 5 mg/mL.
-  The lyophilized powder should completely dissolve in 5 minutes.
-  If particulate matter is observed, the reconstituted product should not be used.
-  - 25 mg TREANDA vial: Add 5 mL of only Sterile Water for Injection, USP.
-  - 100 mg TREANDA vial: Add 20 mL of only Sterile Water for Injection, USP.
-- Aseptically withdraw the volume needed for the required dose (based on 5 mg/mL concentration) and immediately transfer to a 500 mL infusion bag of 0.9% Sodium Chloride Injection, USP (normal saline).
-  As an alternative to 0.9% Sodium Chloride Injection, USP (normal saline), a 500 mL infusion bag of 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, may be considered.
-  The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.2 – 0.6 mg/mL.
-  The reconstituted solution must be transferred to the infusion bag within 30 minutes of reconstitution.
-  After transferring, thoroughly mix the contents of the infusion bag.
-  The admixture should be a clear and colorless to slightly yellow solution.
+Aseptically reconstitute each TREANDA vial as follows:
+
+- 25 mg TREANDA vial: Add 5 mL of only Sterile Water for Injection, USP.
+- 100 mg TREANDA vial: Add 20 mL of only Sterile Water for Injection, USP.
+
+Shake well to yield a clear, colorless to a pale yellow solution with a bendamustine HCl concentration of 5 mg/mL.
+The lyophilized powder should completely dissolve in 5 minutes.
+If particulate matter is observed, the reconstituted product should not be used.
+
+Aseptically withdraw the volume needed for the required dose (based on 5 mg/mL concentration) and immediately transfer to a 500 mL infusion bag of 0.9% Sodium Chloride Injection, USP (normal saline).
+As an alternative to 0.9% Sodium Chloride Injection, USP (normal saline), a 500 mL infusion bag of 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, may be considered.
+The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.2 – 0.6 mg/mL.
+The reconstituted solution must be transferred to the infusion bag within 30 minutes of reconstitution.
+After transferring, thoroughly mix the contents of the infusion bag.
+The admixture should be a clear and colorless to slightly yellow solution.
 
 Use Sterile Water for Injection, USP, for reconstitution and then either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, for dilution, as outlined above.
 No other diluents have been shown to be compatible.

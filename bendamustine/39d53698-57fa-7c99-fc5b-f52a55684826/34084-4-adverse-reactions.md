@@ -1,30 +1,30 @@
 # 6 ADVERSE REACTIONS
 
-The data described below reflect exposure to TREANDA in 349 patients who participated in an actively-controlled trial (N=153) for the treatment of CLL and two single-arm studies (N=176) for the treatment of indolent B-cell NHL.
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 The following serious adverse reactions have been associated with TREANDA in clinical trials and are discussed in greater detail in other sections of the label.
 
 - Myelosuppression [See Warnings and Precautions (5.1)]
 - Infections [See Warnings and Precautions (5.2)]
-- Infusion Reactions and Anaphylaxis [See Warnings and Precautions (5.3)]
+- Anaphylaxis and Infusion Reactions and Anaphylaxis [See Warnings and Precautions (5.3)]
 - Tumor Lysis Syndrome [See Warnings and Precautions (5.4)]
 - Skin Reactions [See Warnings and Precautions (5.5)]
 - Other Malignancies [See Warnings and Precautions (5.6)]
+- Extravasation injury [SeeWarnings and Precautions (5.7)]
+
+The data described below reflect exposure to TREANDA in 329 patients who participated in an actively-controlled trial (N=153) for the treatment of CLL and two single-arm trials (N=176) for the treatment of indolent B-cell NHL.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 ## 6.1 Clinical Trials Experience in CLL
 
-The data described below reflect exposure to TREANDA in 153 patients.
-TREANDA was studied in an active-controlled trial.
-The population was 45-77 years of age, 63% male, 100% white, and had treatment naïve CLL.
+The data described below reflect exposure to TREANDA in 153 patients with CLL studied in an active-controlled, randomized trial.
+The population was 45-77 years of age, 63% male, 100% white, and were treatment naïve.
 All patients started the study at a dose of 100 mg/m2 intravenously over 30 minutes on Days 1 and 2 every 28 days.
 
 Adverse reactions were reported according to NCI CTC v.2.0.
-In the randomized CLL clinical study, non-hematologic adverse reactions (any grade) in the TREANDA group that occurred with a frequency greater than 15% were pyrexia (24%), nausea (20%), and vomiting (16%).
+Non-hematologic adverse reactions (any grade) in the TREANDA group that occurred with a frequency greater than 15% were pyrexia (24%), nausea (20%), and vomiting (16%).
 
 Other adverse reactions seen frequently in one or more studies included asthenia, fatigue, malaise, and weakness; dry mouth; somnolence; cough; constipation; headache; mucosal inflammation and stomatitis.
 
-Worsening hypertension was reported in 4 patients treated with TREANDA in the randomized CLL clinical study and none treated with chlorambucil.
+Worsening hypertension was reported in 4 patients treated with TREANDA in the CLL trial and in none treated with chlorambucil.
 Three of these 4 adverse reactions were described as a hypertensive crisis and were managed with oral medications and resolved.
 
 The most frequent adverse reactions leading to study withdrawal for patients receiving TREANDA were hypersensitivity (2%) and pyrexia (1%).
@@ -78,18 +78,18 @@ Table 2: Incidence of Hematology Laboratory Abnormalities in Patients Who Receiv
 | Lymphocytes Decreased | 102 (68) | 70 (47) | 27 (19) | 6 (4) |
 | Neutrophils Decreased | 113 (75) | 65 (43) | 86 (61) | 30 (21) |
 
-In the randomized CLL clinical study, 34% of patients had bilirubin elevations, some without associated significant elevations in AST and ALT.
+In the CLL trial, 34% of patients had bilirubin elevations, some without associated significant elevations in AST and ALT.
 Grade 3 or 4 increased bilirubin occurred in 3% of patients.
 Increases in AST and ALT of Grade 3 or 4 were limited to 1% and 3% of patients, respectively.
 Patients treated with TREANDA may also have changes in their creatinine levels.
-If abnormalities are detected, monitoring of these parameters should be continued to ensure that significant deterioration does not occur.
+If abnormalities are detected, monitoring of these parameters should be continued to ensure that further deterioration does not occur.
 
 ## 6.2 Clinical Trials Experience in NHL
 
 The data described below reflect exposure to TREANDA in 176 patients with indolent B-cell NHL treated in two single-arm studies.
 The population was 31-84 years of age, 60% male, and 40% female.
 The race distribution was 89% White, 7% Black, 3% Hispanic, 1% other, and <1% Asian.
-These patients received TREANDA at a dose of 120 mg/m2 intravenously on Days 1 and 2 for up to 8 21-day cycles.
+These patients received TREANDA at a dose of 120 mg/m2 intravenously on Days 1 and 2 for up to eight 21-day cycles.
 
 The adverse reactions occurring in at least 5% of the NHL patients, regardless of severity, are shown in Table 3.
 The most common non-hematologic adverse reactions (≥30%) were nausea (75%), fatigue (57%), vomiting (40%), diarrhea (37%) and pyrexia (34%).
@@ -194,7 +194,7 @@ Adverse reactions occurring less frequently but possibly related to TREANDA trea
 ## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of TREANDA.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including phlebitis, pruritus, irritation, pain, and swelling.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including phlebitis, pruritus, irritation, pain, and swelling; pneumocystis jiroveci pneumonia and pneumonitis.
 
 Skin reactions including SJS and TEN have occurred when TREANDA was administered concomitantly with allopurinol and other medications known to cause these syndromes.
 [See Warnings and Precautions (5.5)]

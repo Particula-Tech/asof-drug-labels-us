@@ -4,7 +4,16 @@
 
 Pregnancy Category D [See Warnings and Precautions (5.8)]
 
+Risk Summary
+
 TREANDA can cause fetal harm when administered to a pregnant woman.
+Bendamustine caused malformations in animals, when a single dose was administered to pregnant animals.
+Advise women to avoid becoming pregnant while receiving TREANDA and for 3 months after therapy has stopped.
+If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to a fetus.
+Advise men receiving TREANDA to use reliable contraception for the same time period.
+
+Animal data
+
 Single intraperitoneal doses of bendamustine from 210 mg/m2 (70 mg/kg) in mice administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities) and decreased fetal body weights.
 This dose did not appear to be maternally toxic and lower doses were not evaluated.
 Repeat intraperitoneal dosing in mice on gestation days 7-11 resulted in an increase in resorptions from 75 mg/m2 (25 mg/kg) and an increase in abnormalities from 112.5 mg/m2 (37.5 mg/kg) similar to those seen after a single intraperitoneal administration.
