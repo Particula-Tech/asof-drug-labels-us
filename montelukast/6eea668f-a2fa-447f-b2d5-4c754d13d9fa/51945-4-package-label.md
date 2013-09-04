@@ -1,15 +1,5 @@
-NDC 16729-PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - Sodium tablets - 10 mg
+PRINCIPAL DISPLAY PANEL
 
-NDC 16729-119-10
+Montelukast sodium tablets
 
-Montelukast Sodium Tablets
-
-10-mg*
-
-Rx only
-
-Pharmacist: Dispense with attached Patient Information Leaflet.
-
-30 Tablets
-
-accord
+10 mg: 30 tablets

@@ -33,10 +33,10 @@ The mean oral bioavailability is 64%.
 The oral bioavailability and Cmax are not influenced by a standard meal in the morning.
 
 The safety and efficacy of montelukast sodium in patients with asthma were demonstrated in clinical trials in which the 10-mg film-coated tablet and 5-mg chewable tablet formulations were administered in the evening without regard to the time of food ingestion.
-The safety of montelukast sodium in patients with asthma was also demonstrated in clinical trials in which the 4-mg chewable tablet and 4-mg oral granule formulations were administered in the evening without regard to the time of food ingestion.
+The safety of montelukast sodium in patients with asthma was also demonstrated in clinical trials in which the 4 mg chewable tablet and 4 mg oral granule formulations were administered in the evening without regard to the time of food ingestion.
 The safety and efficacy of montelukast sodium in patients with seasonal allergic rhinitis were demonstrated in clinical trials in which the 10-mg film-coated tablet was administered in the morning or evening without regard to the time of food ingestion.
 
-The comparative pharmacokinetics of montelukast when administered as two 5-mg chewable tablets versus one 10-mg film-coated tablet have not been evaluated.
+The comparative pharmacokinetics of montelukast when administered as two 5 mg chewable tablets versus one 10 mg film-coated tablet have not been evaluated.
 
 Distribution
 
@@ -67,7 +67,7 @@ Special Populations
 
 Hepatic Insufficiency: Patients with mild-to-moderate hepatic insufficiency and clinical evidence of cirrhosis had evidence of decreased metabolism of montelukast resulting in 41% (90% CI=7%, 85%) higher mean montelukast AUC following a single 10-mg dose.
 The elimination of montelukast was slightly prolonged compared with that in healthy subjects (mean half-life, 7.4 hours).
-No dosage adjustment is required in patients with mild-to- moderate hepatic insufficiency.
+No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency.
 The pharmacokinetics of montelukast sodium in patients with more severe hepatic impairment or with hepatitis have not been evaluated.
 
 Renal Insufficiency: Since montelukast and its metabolites are not excreted in the urine, the pharmacokinetics of montelukast were not evaluated in patients with renal insufficiency.
@@ -77,7 +77,7 @@ Gender: The pharmacokinetics of montelukast are similar in males and females.
 
 Race: Pharmacokinetic differences due to race have not been studied.
 
-Adolescents and Pediatric Patients: Pharmacokinetic studies evaluated the systemic exposure of the 4-mg oral granule formulation in pediatric patients 6 to 23 months of age, the 4-mg chewable tablets in pediatric patients 2 to 5 years of age, the 5-mg chewable tablets in pediatric patients 6 to 14 years of age, and the 10-mg film-coated tablets in young adults and adolescents ≥15 years of age.
+Adolescents and Pediatric Patients: Pharmacokinetic studies evaluated the systemic exposure of the 4-mg oral granule formulation in pediatric patients 6 to 23 months of age, the 4 mg chewable tablets in pediatric patients 2 to 5 years of age, the 5 mg chewable tablets in pediatric patients 6 to 14 years of age, and the 10-mg film-coated tablets in young adults and adolescents ≥15 years of age.
 
 The plasma concentration profile of montelukast following administration of the 10-mg film-coated tablet is similar in adolescents ≥15 years of age and young adults.
 The 10-mg film-coated tablet is recommended for use in patients ≥15 years of age.
@@ -99,7 +99,7 @@ These medications included thyroid hormones, sedative hypnotics, non-steroidal a
 
 Cytochrome P450 (CYP) Enzyme Inducers: Phenobarbital, which induces hepatic metabolism, decreased the area under the plasma concentration curve (AUC) of montelukast approximately 40% following a single 10-mg dose of montelukast.
 No dosage adjustment for montelukast sodium is recommended.
-It is reasonable to employ appropriate clinical monitoring when potent CYP enzyme inducers, such as phenobarbital or rifampin, are coadministered with montelukast sodium.
+It is reasonable to employ appropriate clinical monitoring when potent CYP enzyme inducers, such as phenobarbital or rifampin, are co-administered with montelukast sodium.
 
 Effect of Montelukast on Cytochrome P450 (CYP) Enzymes: Montelukast is a potent inhibitor of CYP2C8 in vitro.
 However, data from a clinical drug-drug interaction study involving montelukast and rosiglitazone (a probe substrate representative of drugs primarily metabolized by CYP2C8) in 12 healthy individuals demonstrated that the pharmacokinetics of rosiglitazone are not altered when the drugs are coadministered, indicating that montelukast does not inhibit CYP2C8 in vivo.

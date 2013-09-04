@@ -19,6 +19,7 @@ For prevention of EIB, a single 10 mg dose of montelukast should be taken at lea
 An additional dose of montelukast should not be taken within 24 hours of a previous dose.
 Patients already taking montelukast sodium tablets daily for another indication (including chronic asthma) should not take an additional dose to prevent EIB.
 All patients should have available for rescue a short-acting β-agonist.
+
 Safety and efficacy in patients younger than 15 years of age have not been established.
 Daily administration of montelukast sodium tablets for the chronic treatment of asthma has not been established to prevent acute episodes of EIB.
 

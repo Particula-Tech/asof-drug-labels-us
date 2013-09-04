@@ -10,7 +10,6 @@ Teratogenic Effect: No teratogenicity was observed in rats and rabbits at doses 
 During worldwide marketing experience, congenital limb defects have been rarely reported in the offspring of women being treated with montelukast sodium during pregnancy.
 Most of these women were also taking other asthma medications during their pregnancy.
 A causal relationship between these events and montelukast sodium has not been established.
-Patients and healthcare providers are encouraged to report any prenatal exposure to montelukast sodium by calling the Pregnancy Registry at 1-877-311-8972.
 
 ## 8.3 Nursing Mothers
 

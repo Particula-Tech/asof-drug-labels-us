@@ -34,8 +34,7 @@ Before taking montelukast sodium tablets, tell your healthcare provider if you:
 - are allergic to aspirin
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  If you are pregnant or plan to become pregnant, montelukast sodium tablets may not be right for you.
-  If you become pregnant while taking montelukast sodium tablets, talk to your healthcare provider about reporting your pregnancy to the Pregnancy Registry for montelukast sodium tablets, or you can enroll in this registry by calling 1-877-311-8972.
+  Talk to your doctor if you are pregnant or plan to become pregnant, as montelukast sodium tablets may not be right for you.
 - are breast-feeding or plan to breast-feed.
   It is not known if montelukast sodium passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking montelukast sodium tablets.
@@ -94,7 +93,7 @@ Montelukast sodium tablets may cause serious side effects.
 - Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking montelukast sodium tablets:
 
-| agitation including aggressive behavior or hostilitybad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilityrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
+| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory problemsrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
 | --- | --- |
 
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
@@ -171,12 +170,32 @@ Inactive ingredients:
 Pediatric use information for patients ages 6 to 14 years of age for prevention of exercise-induced asthma is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
 However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For:
+
+Accord Healthcare, Inc.,
+
+1009 Slater Road,
+
+Suite 210-B,
+
+Durham, NC 27703,
+
+USA.
 
 Manufactured By:
 
-Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210, INDIA.
+Intas Pharmaceuticals Limited,
+
+Plot No.: 457, 458,
+
+Village - Matoda,
+
+Bavla Road, Ta.- Sanand,
+
+Dist.- Ahmedabad: 382 210.
+
+INDIA.
 
 10 9988 2 643613
 
-Issued January 2013
+Issued April 2013

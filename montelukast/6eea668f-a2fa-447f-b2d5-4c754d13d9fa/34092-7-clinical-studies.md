@@ -11,7 +11,7 @@ The median age was 33 years (range 15 to 85); 56.8% were females and 43.2% were 
 The ethnic/racial distribution in these studies was 71.6% Caucasian, 17.7% Hispanic, 7.2% other origins and 3.5% Black.
 Patients had mild or moderate asthma and were non-smokers who required approximately 5 puffs of inhaled β-agonist per day on an “as-needed” basis.
 The patients had a mean baseline percent of predicted forced expiratory volume in 1 second (FEV1) of 66% (approximate range, 40 to 90%).
-The coprimary endpoints in these trials were FEV1 and daytime asthma symptoms.
+The co-primary endpoints in these trials were FEV1 and daytime asthma symptoms.
 In both studies after 12 weeks, a random subset of patients receiving montelukast sodium was switched to placebo for an additional 3 weeks of double-blind treatment to evaluate for possible rebound effects.
 
 The results of the U.S. trial on the primary endpoint, morning FEV1, expressed as mean percent change from baseline averaged over the 12-week treatment period, are shown in FIGURE 1.
@@ -40,8 +40,8 @@ In the US study, 6.9% of patients on montelukast sodium and 9.9% of patients on 
 
 Onset of Action and Maintenance of Effects
 
-In each placebo-controlled trial in adults, the treatment effect of montelukast sodium measured by daily diary card parameters, including symptom scores, “as-needed” β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours).
-No significant change in treatment effect was observed during continuous once-daily evening administration in non-placebo controlled extension trials for up to one year.
+In each placebo-controlled trial in adults, the treatment effect of montelukast sodium, measured by daily diary card parameters, including symptom scores, “as-needed” β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours).
+No significant change in treatment effect was observed during continuous once-daily evening administration in non-placebo-controlled extension trials for up to one year.
 Withdrawal of montelukast sodium in asthmatic patients after 12 weeks of continuous use did not cause rebound worsening of asthma.
 
 Effects in Patients on Concomitant Inhaled Corticosteroids
@@ -51,7 +51,7 @@ Separate trials in adults evaluated the ability of montelukast sodium to add to 
 One randomized, placebo-controlled, parallel-group trial (n=226) enrolled adults with stable asthma with a mean FEV1 of approximately 84% of predicted who were previously maintained on various inhaled corticosteroids (delivered by metered-dose aerosol or dry powder inhalers).
 The median age was 41.5 years (range 16 to 70); 52.2% were females and 47.8% were males.
 The ethnic/racial distribution in this study was 92.0% Caucasian, 3.5% Black, 2.2% Hispanic, and 2.2% Asian.
-The types, of inhaled corticosteroids and their mean baseline requirements included beclomethasone dipropionate (mean dose, 1203 mcg/day), triamcinolone acetonide (mean dose, 2004 mcg/day), flunisolide (mean dose, 1971 mcg/day), fluticasone propionate (mean dose, 1083 mcg/day), or budesonide (mean dose, 1192 mcg/day).
+The types of inhaled corticosteroids and their mean baseline requirements included beclomethasone dipropionate (mean dose, 1203 mcg/day), triamcinolone acetonide (mean dose, 2004 mcg/day), flunisolide (mean dose, 1971 mcg/day), fluticasone propionate (mean dose, 1083 mcg/day), or budesonide (mean dose, 1192 mcg/day).
 Some of these inhaled corticosteroids were non-U.S.-approved formulations, and doses expressed may not be ex-actuator.
 The pre-study inhaled corticosteroid requirements were reduced by approximately 37% during a 5- to 7-week placebo run-in period designed to titrate patients toward their lowest effective inhaled corticosteroid dose.
 Treatment with montelukast sodium resulted in a further 47% reduction in mean inhaled corticosteroid dose compared with a mean reduction of 30% in the placebo group over the 12-week active treatment period (p≤0.05).
@@ -96,7 +96,7 @@ This effect was maintained throughout the 12-week treatment period indicating th
 Montelukast sodium did not, however, prevent clinically significant deterioration in maximal percent fall in FEV1 after exercise (i.e., ≥20% decrease from pre-exercise baseline) in 52% of patients studied.
 In a separate crossover study in adults, a similar effect was observed after two once-daily 10-mg doses of montelukast sodium.
 
-In pediatric patients 6 to 14 years of age, using the 5-mg chewable tablet, a 2-day crossover study demonstrated effects similar to those observed in adults when exercise challenge was conducted at the end of the dosing interval (i.e., 20 to 24 hours after the preceding dose).
+In pediatric patients 6 to 14 years of age, using the 5 mg chewable tablet, a 2 day crossover study demonstrated effects similar to those observed in adults when exercise challenge was conducted at the end of the dosing interval (i.e., 20 to 24 hours after the preceding dose).
 
 ## 14.3 Allergic Rhinitis (Seasonal and Perennial)
 
@@ -116,7 +116,7 @@ The ethnic/racial distribution in this study was 83.1% Caucasian, 6.4% other ori
 The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received montelukast sodium tablets, loratadine, and placebo are shown in TABLE 4.
 The remaining three trials that demonstrated efficacy showed similar results.
 
-Table 4: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score Average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0-3 categorical scale. in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis (ANCOVA Model)
+TABLE 4: Effects of Montelukast Sodium on Daytime Nasal Symptoms ScoreAverage of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0 to 3 categorical scale. in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis (ANCOVA Model)
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
@@ -138,7 +138,7 @@ Table 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score Average o
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
-| Montelukast 10 mg (1000) | 2.09 | -0.42 | -0.08Statistically different from placebo (p≤ 0.001). (-0.12, -0.04) |
+| Montelukast 10 mg (1000) | 2.09 | -0.42 | -0.08Statistically different from placebo (p≤0.001). (-0.12, -0.04) |
 | Placebo (980) | 2.10 | -0.35 | N.A. |
 
 The other 6-week study evaluated montelukast 10 mg (n=626), placebo (n=609), and an active-control (cetirizine 10 mg; n=120).

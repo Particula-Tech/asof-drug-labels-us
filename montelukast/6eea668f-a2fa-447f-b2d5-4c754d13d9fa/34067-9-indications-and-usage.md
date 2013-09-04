@@ -6,7 +6,7 @@ Montelukast sodium tablet is indicated for the prophylaxis and chronic treatment
 
 ## 1.2 Exercise-Induced Bronchoconstriction (EIB)
 
-Montelukast sodium tablets is indicated for prevention of exercise-induced bronchoconstriction (EIB) in patients 15 years of age and older.
+Montelukast sodium tablet is indicated for prevention of exercise-induced bronchoconstriction (EIB) in patients 15 years of age and older.
 
 Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
 However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

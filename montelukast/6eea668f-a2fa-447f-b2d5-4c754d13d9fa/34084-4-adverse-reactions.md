@@ -12,9 +12,9 @@ Adults and Adolescents 15 Years of Age and Older with Asthma
 Montelukast sodium has been evaluated for safety in approximately 2950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with montelukast sodium occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
 
-Table 1: Adverse Experiences Occurring in ≥ 1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
+Table 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
 
-|  | Montelukast 10-mg/day % (n=1955) | Placebo (%) (n=1180) |
+|  | Montelukast 10 mg/day (%) (n=1955) | Placebo (%) (n=1180) |
 | --- | --- | --- |
 | Body As A Whole Pain, abdominal Asthenia/fatigue Fever Trauma | 2.9 1.8 1.5 1.0 | 2.5 1.2 0.9 0.8 |
 | Digestive System Disorders Dyspepsia Pain, dental Gastroenteritis, infectious | 2.1 1.7 1.5 | 1.1 1.0 0.5 |
@@ -38,16 +38,23 @@ In placebo-controlled clinical trials, the following event was reported with mon
 In a 4-week, placebo-controlled clinical study, the safety profile was consistent with that observed in 2-week studies.
 The incidence of somnolence was similar to that of placebo in all studies.
 
+Adults and Adolescents 15 Years of Age and Older with Perennial Allergic Rhinitis
+
+Montelukast sodium has been evaluated for safety in 3357 adult and adolescent patients 15 years of age and older with perennial allergic rhinitis of whom 1632 received montelukast sodium in two, 6-week, clinical studies.
+Montelukast sodium administered once daily had a safety profile consistent with that observed in patients with seasonal allergic rhinitis and similar to that of placebo.
+In these two studies, the following events were reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: sinusitis, upper respiratory infection, sinus headache, cough, epistaxis, and increased ALT.
+The incidence of somnolence was similar to that of placebo.
+
 ## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of montelukast sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: increased bleeding tendency, thrombocytopenia.
+Blood and lymphatic system disorders: increased bleeding tendency thrombocytopenia.
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
 
-Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, dream abnormalities, hallucinations, insomnia, irritability, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tremor [see Warnings and Precautions (5.4)].
+Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor [see Warnings and Precautions (5.4)].
 
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 
