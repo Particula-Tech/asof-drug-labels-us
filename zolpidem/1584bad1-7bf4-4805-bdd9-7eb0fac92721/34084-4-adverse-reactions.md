@@ -2,12 +2,12 @@
 
 The following serious reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.2)]
-- Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)]
-- Withdrawal effects [see Warnings and Precautions (5.4)]
-- CNS-depressant effects [see Warnings and Precautions (5.5)]
+- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
+- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
+- Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
+- Withdrawal effects [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical trials experience
+## 6.1 Clinical Trials Experience
 
 Associated with discontinuation of treatment: Approximately 4% of 1,701 patients who received zolpidem at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
 Reactions most commonly associated with discontinuation from U.S. trials were daytime drowsiness (0.5%), dizziness (0.4%), headache (0.5%), nausea (0.6%), and vomiting (0.5%).
@@ -29,31 +29,30 @@ However, the cited figures provide the physician with a basis for estimating the
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights(Percentage of patients reporting)
+Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of patients reporting)
 
-| Adverse Event* | (N=685) | (N=473) |
-| --- | --- | --- |
 |  | Zolpidem |  |
+| --- | --- | --- |
 | Body System/ | (≤10 mg) | Placebo |
+| Adverse EventReactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. | (N=685) | (N=473) |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
 | Drowsiness | 2 | - |
 | Dizziness | 1 | - |
 | Gastrointestinal System |  |  |
 | Diarrhea | 1 | - |
-| *Reactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. |  |  |
 
 The following table was derived from results of three placebo-controlled long-term efficacy trials involving zolpidem tartrate tablets.
 These trials involved patients with chronic insomnia who were treated for 28 to 35 nights with zolpidem at doses of 5, 10, or 15 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
 
-Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights(Percentage of patients reporting)
+Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
 
-| Adverse Event* | (N=152) | (N=161) |
-| --- | --- | --- |
 |  | Zolpidem |  |
+| --- | --- | --- |
 | Body System/ | (≤10 mg) | Placebo |
+| Adverse EventReactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. | (N=152) | (N=161) |
 | Autonomic Nervous System |  |  |
 | Dry mouth | 3 | 1 |
 | Body as a Whole |  |  |
@@ -82,7 +81,6 @@ Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinic
 | Pharyngitis | 3 | 1 |
 | Skin and Appendages |  |  |
 | Rash | 2 | 1 |
-| *Reactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. |  |  |
 
 Dose relationship for adverse reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
 
@@ -106,8 +104,7 @@ Rare: allergic reaction, allergy aggravated, anaphylactic shock, face edema, hot
 Cardiovascular system: Infrequent: cerebrovascular disorder, hypertension, tachycardia.
 Rare: angina pectoris, arrhythmia, arteritis, circulatory failure, extrasystoles, hypertension aggravated, myocardial infarction, phlebitis, pulmonary embolism, pulmonary edema, varicose veins, ventricular tachycardia.
 
-Central and peripheral nervous system: Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo.
-Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
+Central and peripheral nervous system: Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
 Rare: abnormal gait, abnormal thinking, aggressive reaction, apathy, appetite increased, decreased libido, delusion, dementia, depersonalization, dysphasia, feeling strange, hypokinesia, hypotonia, hysteria, intoxicated feeling, manic reaction, neuralgia, neuritis, neuropathy, neurosis, panic attacks, paresis, personality disorder, somnambulism, suicide attempts, tetany, yawning.
 
 Gastrointestinal system: Frequent: dyspepsia, hiccup, nausea.
@@ -132,9 +129,9 @@ Rare: arthrosis, muscle weakness, sciatica, tendinitis.
 Reproductive system: Infrequent: menstrual disorder, vaginitis.
 Rare: breast fibroadenosis, breast neoplasm, breast pain.
 
-Respiratory system: Frequent: upper respiratory infection.
+Respiratory system: Frequent: upper respiratory infection, lower respiratory infection.
 Infrequent: bronchitis, coughing, dyspnea, rhinitis.
-Rare: bronchospasm, epistaxis, hypoxia, laryngitis, pneumonia.
+Rare: bronchospasm, respiratory depression, epistaxis, hypoxia, laryngitis, pneumonia.
 
 Skin and appendages: Infrequent: pruritus.
 Rare: acne, bullous eruption, dermatitis, furunculosis, injection-site inflammation, photosensitivity reaction, urticaria.

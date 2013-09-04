@@ -1,6 +1,6 @@
 # 14. CLINICAL STUDIES
 
-## 14.1 Transient insomnia
+## 14.1 Transient Insomnia
 
 Normal adults experiencing transient insomnia (n = 462) during the first night in a sleep laboratory were evaluated in a double-blind, parallel group, single-night trial comparing two doses of zolpidem (7.5 and 10 mg) and placebo.
 Both zolpidem doses were superior to placebo on objective (polysomnographic) measures of sleep latency, sleep duration, and number of awakenings.
@@ -8,7 +8,7 @@ Both zolpidem doses were superior to placebo on objective (polysomnographic) mea
 Normal elderly adults (mean age 68) experiencing transient insomnia (n = 35) during the first two nights in a sleep laboratory were evaluated in a double-blind, crossover, 2-night trial comparing four doses of zolpidem (5, 10, 15 and 20 mg) and placebo.
 All zolpidem doses were superior to placebo on the two primary PSG parameters (sleep latency and efficiency) and all four subjective outcome measures (sleep duration, sleep latency, number of awakenings, and sleep quality).
 
-## 14.2 Chronic insomnia
+## 14.2 Chronic Insomnia
 
 Zolpidem was evaluated in two controlled studies for the treatment of patients with chronic insomnia (most closely resembling primary insomnia, as defined in the APA Diagnostic and Statistical Manual of Mental Disorders, DSM-IV™).
 Adult outpatients with chronic insomnia (n = 75) were evaluated in a double-blind, parallel group, 5-week trial comparing two doses of zolpidem tartrate and placebo.
@@ -20,7 +20,7 @@ Zolpidem 10 mg was superior to placebo on a subjective measure of sleep latency 
 
 Increased wakefulness during the last third of the night as measured by polysomnography has not been observed in clinical trials with zolpidem tartrate tablets.
 
-## 14.3 Studies pertinent to safety concerns for sedative/hypnotic drugs
+## 14.3 Studies Pertinent to Safety Concerns for Sedative/Hypnotic Drugs
 
 Next-day residual effects: Next-day residual effects of zolpidem tartrate tablets were evaluated in seven studies involving normal subjects.
 In three studies in adults (including one study in a phase advance model of transient insomnia) and in one study in elderly subjects, a small but statistically significant decrease in performance was observed in the Digit Symbol Substitution Test (DSST) when compared to placebo.
