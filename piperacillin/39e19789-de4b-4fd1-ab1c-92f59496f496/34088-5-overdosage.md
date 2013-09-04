@@ -6,4 +6,4 @@ Patients may experience neuromuscular excitability or convulsions if higher than
 Treatment should be supportive and symptomatic according to the patient's clinical presentation.
 Excessive serum concentrations of either piperacillin or tazobactam may be reduced by hemodialysis.
 Following a single 3.375 g dose of piperacillin/tazobactam, the percentage of the piperacillin and tazobactam dose removed by hemodialysis was approximately 31% and 39%, respectively.
-(See CLINICAL PHARMACOLOGY .)
+(See CLINICAL PHARMACOLOGY.)

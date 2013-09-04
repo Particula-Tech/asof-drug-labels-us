@@ -7,7 +7,7 @@ Piperacillin plasma concentrations, following a 30-minute infusion of piperacill
 The corresponding mean peak plasma concentrations of tazobactam were 15, 24, and 34 mcg/mL, respectively.
 Following a 30-minute I.V. infusion of 3.375 g piperacillin and tazobactam every 6 hours, steady-state plasma concentrations of piperacillin and tazobactam were similar to those attained after the first dose.
 In like manner, steady-state plasma concentrations were not different from those attained after the first dose when 2.25 g or 4.5 g doses of piperacillin and tazobactam were administered via 30-minute infusions every 6 hours.
-Steady-state plasma concentrations after 30-minute infusions every 6 hours are provided in Table 1 .
+Steady-state plasma concentrations after 30-minute infusions every 6 hours are provided in Table 1.
 Following single or multiple piperacillin and tazobactam doses to healthy subjects, the plasma half-life of piperacillin and of tazobactam ranged from 0.7 to 1.2 hours and was unaffected by dose or duration of infusion.
 Piperacillin is metabolized to a minor microbiologically active desethyl metabolite.
 Tazobactam is metabolized to a single metabolite that lacks pharmacological and antibacterial activities.
@@ -56,16 +56,16 @@ The population mean (SE) for piperacillin distribution volume is 0.243 (0.011) L
 ## Microbiology
 
 Piperacillin sodium exerts bactericidal activity by inhibiting septum formation and cell wall synthesis of susceptible bacteria.
-In vitro , piperacillin is active against a variety of gram-positive and gram-negative aerobic and anaerobic bacteria.
+In vitro, piperacillin is active against a variety of gram-positive and gram-negative aerobic and anaerobic bacteria.
 Tazobactam sodium has little clinically relevant in vitro activity against bacteria due to its reduced affinity to penicillin-binding proteins.
 It is, however, a β-lactamase inhibitor of the Richmond-Sykes class III (Bush class 2b & 2b') penicillinases and cephalosporinases.
 It varies in its ability to inhibit class II and IV (2a & 4) penicillinases.
 Tazobactam does not induce chromosomally-mediated β-lactamases at tazobactam concentrations achieved with the recommended dosage regimen.
 Piperacillin/tazobactam has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
-Aerobic and facultative gram-positive microorganisms: Staphylococcus aureus (excluding methicillin and oxacillin-resistant isolates) Aerobic and facultative gram-negative microorganisms: Acinetobacter baumanii Escherichia coli Haemophilus influenzae (excluding β-lactamase negative, ampicillin-resistant isolates) Klebsiella pneumoniae Pseudomonas aeruginosa (given in combination with an aminoglycoside to which the isolate is susceptible) Gram-negative anaerobes: Bacteroides fragilis group ( B. fragilis, B. ovatus, B. thetaiotaomicron, and B. vulgatus ) The following in vitro data are available, but their clinical significance is unknown.
+Aerobic and facultative gram-positive microorganisms: Staphylococcus aureus (excluding methicillin and oxacillin-resistant isolates) Aerobic and facultative gram-negative microorganisms: Acinetobacter baumanii Escherichia coli Haemophilus influenzae (excluding β-lactamase negative, ampicillin-resistant isolates) Klebsiella pneumoniae Pseudomonas aeruginosa (given in combination with an aminoglycoside to which the isolate is susceptible) Gram-negative anaerobes: Bacteroides fragilis group (B. fragilis, B. ovatus, B. thetaiotaomicron, and B. vulgatus) The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for piperacillin/tazobactam.
 However, the safety and effectiveness of piperacillin/tazobactam in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
-Aerobic and facultative gram-positive microorganisms: Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only) Staphylococcus epidermidis (excluding methicillin and oxacillin-resistant isolates) Streptococcus agalactiae † Streptococcus pneumoniae † (penicillin-susceptible isolates only) Streptococcus pyogenes † Viridans group streptococci † Aerobic and facultative gram-negative microorganisms: Citrobacter koseri Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Serratia marcescens Providencia stuartii Providencia rettgeri Salmonella enterica Gram-positive anaerobes: Clostridium perfringens Gram-negative anaerobes: Bacteroides distasonis Prevotella melaninogenica † These are not β-lactamase producing bacteria and, therefore, are susceptible to piperacillin alone.
+Aerobic and facultative gram-positive microorganisms: Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only) Staphylococcus epidermidis (excluding methicillin and oxacillin-resistant isolates) Streptococcus agalactiae† Streptococcus pneumoniae† (penicillin-susceptible isolates only) Streptococcus pyogenes† Viridans group streptococci† Aerobic and facultative gram-negative microorganisms: Citrobacter koseri Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Serratia marcescens Providencia stuartii Providencia rettgeri Salmonella enterica Gram-positive anaerobes: Clostridium perfringens Gram-negative anaerobes: Bacteroides distasonis Prevotella melaninogenica †These are not β-lactamase producing bacteria and, therefore, are susceptible to piperacillin alone.
 Susceptibility Testing Methods As is recommended with all antimicrobials, the results of in vitro susceptibility tests, when available, should be provided to the physician as periodic reports, which describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting the most effective antimicrobial.
 Dilution Techniques Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
@@ -73,38 +73,47 @@ These MICs provide estimates of the susceptibility of bacteria to antimicrobial 
 The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of piperacillin and tazobactam powders.
 1,2 MIC values should be determined using serial dilutions of piperacillin combined with a fixed concentration of 4 mcg/mL tazobactam.
-The MIC values obtained should be interpreted according to criteria provided in Table 2 .
+The MIC values obtained should be interpreted according to criteria provided in Table 2.
 Diffusion Technique Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure 1,3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 100 mcg of piperacillin and 10 mcg of tazobactam to test the susceptibility of microorganisms to piperacillin/tazobactam.
-The disk diffusion interpreted criteria are provided in Table 2 .
+The disk diffusion interpreted criteria are provided in Table 2.
 Anaerobic Techniques For anaerobic bacteria, the susceptibility to piperacillin/tazobactam can be determined by the reference agar dilution method.
 4
 
 TABLE 2 SUSCEPTIBILITY INTERPRETIVE CRITERIA FOR PIPERACILLIN/TAZOBACTAM
 
-|  | Susceptibility Test Result Interpretive Criteria |  |  |  |  |  |
+| Susceptibility Test Result Interpretive Criteria |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Susceptibility Test Result Interpretive CriteriaSusceptibility Test Result Interpretive Criteria |  |  |  |  |  |
-| Pathogen | Minimal Inhibitory Concentration (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
-| S | I | R | S | I | R |  |
-| Enterobacteriaceae and Acinetobacter baumanii Haemophilus influenzaea Pseudomonas aeruginosa Staphylococcus aureus Bacteroides fragilis group | ≤ 16 ≤ 1 ≤ 64 ≤ 8 ≤ 32 | 32 - 64 - - - 64 | ≥ 128 ≥ 2 ≥ 128 ≥16 ≥ 128 | ≥ 21 - ≥ 18 ≥ 18 - | 18 - 20 - - - - | ≤ 17 - ≤ 17 ≤ 17 - |
-| a These interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |  |  |  |  |
+|  | Minimal Inhibitory Concentration (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
+| Pathogen | S | I | R | S | I | R |
+| Enterobacteriaceae and Acinetobacter baumanii | ≤ 16 | 32 - 64 | ≥ 128 | ≥ 21 | 18 - 20 | ≤ 17 |
+| Haemophilus influenzaea | ≤ 1 | - | ≥ 2 | - | - | - |
+| Pseudomonas aeruginosa | ≤ 64 | - | ≥ 128 | ≥ 18 | - | ≤ 17 |
+| Staphylococcus aureus | ≤ 8 | - | ≥ 16 | ≥ 18 | - | ≤ 17 |
+| Bacteroides fragilis group | ≤ 32 | 64 | ≥ 128 | - | - | - |
 
+a These interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours.
 A report of S (“Susceptible”) indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable.
 A report of I (“Intermediate”) indicates that the results should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone, which prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of R (“Resistant”) indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable; other therapy should be considered.
-Quality Control Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures.
-1,2,3,4 Standard piperacillin/tazobactam powder should provide the following ranges of values noted in Table 3 .
+Quality Control Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures.1,2,3,4 Standard piperacillin/tazobactam powder should provide the following ranges of values noted in Table 3.
 Quality control microorganisms are specific strains of microorganisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within the microorganism; the specific strains used for microbiological quality control are not clinically significant.
 
 TABLE 3 ACCEPTABLE QUALITY CONTROL RANGES FOR PIPERACILLIN/TAZOBACTAM TO BE USED IN VALIDATION OF SUSCEPTIBILITY TEST RESULTS
 
 | Acceptable Quality Control Ranges |  |  |
 | --- | --- | --- |
-| Acceptable Quality Control RangesAcceptable Quality Control Ranges |  |  |
-| QC Strain | Minimal Inhibitory Concentration Range (MIC in mcg/mL) | Disk Diffusion Zone Diameter Range in mm |
-| Escherichia coli ATCC 25922 Escherichia coli ATCC 35218 Pseudomonas aeruginosa ATCC 27853 Haemophilus influenzaea ATCC 49247 Staphylococcus aureus ATCC 29213 Staphylococcus aureus ATCC 25923 Bacteroides fragilis ATCC 25285 Bacteroides thetaiotaomicron ATCC 29741 | 1 - 4 0.5 - 2 1 - 8 0.06 - 0.5 0.25 - 2 - 0.12 - 0.5 4 - 16 | 24 - 30 24 - 30 25 - 33 33 - 38 - 27 – 36 - - |
-| a This quality control range for Haemophilus influenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |
+| QC Strain | Minimal Inhibitory Concentration Range (MIC in mcg/mL) | Disk Diffusion Zone DiameterRange in mm |
+| Escherichia coli ATCC 25922 | 1 - 4 | 24 - 30 |
+| Escherichia coli ATCC 35218 | 0.5 - 2 | 24 - 30 |
+| Pseudomonas aeruginosa ATCC 27853 | 1 - 8 | 25 - 33 |
+| Haemophilus influenzaea ATCC 49247 | 0.06 - 0.5 | 33 - 38 |
+| Staphylococcus aureus ATCC 29213 | 0.25 - 2 | - |
+| Staphylococcus aureus ATCC 25923 | - | 27 - 36 |
+| Bacteroides fragilis ATCC 25285 | 0.12 - 0.5 | - |
+| Bacteroides thetaiotaomicron ATCC 29741 | 4 - 16 | - |
+
+a This quality control range for Haemophilus influenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours.

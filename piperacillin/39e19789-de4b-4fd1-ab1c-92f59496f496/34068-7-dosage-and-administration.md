@@ -7,7 +7,7 @@ Treatment with the aminoglycoside should be continued in patients from whom Pseu
 If Pseudomonas aeruginosa is not isolated, the aminoglycoside may be discontinued at the discretion of the treating physician.
 Due to the in vitro inactivation of the aminoglycoside by beta-lactam antibiotics, piperacillin and tazobactam and the aminoglycoside are recommended for separate administration.
 Piperacillin and tazobactam and the aminoglycoside should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated.
-(See PRECAUTIONS, Drug Interactions .)
+(See PRECAUTIONS, Drug Interactions.)
 In circumstances where coadministration via Y-site is necessary, piperacillin and tazobactam is compatible for simultaneous coadministration via Y-site infusion only with the following aminoglycosides under the following conditions:
 
 Table 4
@@ -44,7 +44,7 @@ Duration of Therapy The usual duration of piperacillin and tazobactam for inject
 However, the recommended duration of piperacillin and tazobactam for injection treatment of nosocomial pneumonia is 7 to 14 days.
 In all conditions, the duration of therapy should be guided by the severity of the infection and the patient's clinical and bacteriological progress.
 Pediatric Patients For children with appendicitis and/or peritonitis 9 months of age or older, weighing up to 40 kg, and with normal renal function, the recommended piperacillin and tazobactam for injection dosage is 100 mg piperacillin/12.5 mg tazobactam per kilogram of body weight, every 8 hours.
-For pediatric patients between 2 months and 9 months of age, the recommended piperacillin and tazobactam for injection dosage based on pharmacokinetic modeling, is 80 mg piperacillin/10 mg tazobactam per kilogram of body weight, every 8 hours (see PRECAUTIONS, General, Pediatric Use and CLINICAL PHARMACOLOGY ).
+For pediatric patients between 2 months and 9 months of age, the recommended piperacillin and tazobactam for injection dosage based on pharmacokinetic modeling, is 80 mg piperacillin/10 mg tazobactam per kilogram of body weight, every 8 hours (see PRECAUTIONS, General, Pediatric Use and CLINICAL PHARMACOLOGY).
 Pediatric patients weighing over 40 kg and with normal renal function should receive the adult dose.
 There are no dosage recommendations for piperacillin and tazobactam for injection in pediatric patients with impaired renal function.
 Directions for Reconstitution and Dilution for Use Intravenous Administration For conventional vials, reconstitute piperacillin and tazobactam for injection per gram of piperacillin with 5 mL of a compatible reconstitution diluent from the list provided below.
@@ -52,10 +52,10 @@ Directions for Reconstitution and Dilution for Use Intravenous Administration Fo
 Swirl until dissolved.
 Pharmacy vials should be used immediately after reconstitution.
 Discard any unused portion after 24 hours if stored at room temperature (20°C to 25°C [68°F to 77°F]), or after 48 hours if stored at refrigerated temperature (2°C to 8°C [36°F to 46°F]).
-Compatible Reconstitution Diluents 0.9% Sodium Chloride for Injection Sterile Water for Injection ‡ Dextrose 5% Bacteriostatic Saline/Parabens Bacteriostatic Water/Parabens Bacteriostatic Saline/Benzyl Alcohol Bacteriostatic Water/Benzyl Alcohol Reconstituted piperacillin and tazobactam for injection solution should be further diluted (recommended volume per dose of 50 mL to 150 mL) in a compatible intravenous solution listed below.
+Compatible Reconstitution Diluents 0.9% Sodium Chloride for Injection Sterile Water for Injection‡ Dextrose 5% Bacteriostatic Saline/Parabens Bacteriostatic Water/Parabens Bacteriostatic Saline/Benzyl Alcohol Bacteriostatic Water/Benzyl Alcohol Reconstituted piperacillin and tazobactam for injection solution should be further diluted (recommended volume per dose of 50 mL to 150 mL) in a compatible intravenous solution listed below.
 Administer by infusion over a period of at least 30 minutes.
 During the infusion it is desirable to discontinue the primary infusion solution.
-Compatible Intravenous Solutions 0.9% Sodium Chloride for Injection Sterile Water for Injection ‡ Dextrose 5% Dextran 6% in Saline LACTATED RINGER'S SOLUTION IS NOT COMPATIBLE WITH PIPERACILLIN AND TAZOBACTAM FOR INJECTION. ‡ Maximum recommended volume per dose of Sterile Water for Injection is 50 mL.
+Compatible Intravenous Solutions 0.9% Sodium Chloride for Injection Sterile Water for Injection‡ Dextrose 5% Dextran 6% in Saline LACTATED RINGER'S SOLUTION IS NOT COMPATIBLE WITH PIPERACILLIN AND TAZOBACTAM FOR INJECTION. ‡ Maximum recommended volume per dose of Sterile Water for Injection is 50 mL.
 Piperacillin and tazobactam should not be mixed with other drugs in a syringe or infusion bottle since compatibility has not been established.
 Piperacillin and tazobactam is not chemically stable in solutions that contain only sodium bicarbonate and solutions that significantly alter the pH.
 Piperacillin and tazobactam should not be added to blood products or albumin hydrolysates.
