@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA202428"
+  ],
+  "inn": "tazarotene",
+  "labeler": "Stiefel Laboratories, Inc.",
+  "package_ndcs": [
+    "0145-0020-02",
+    "0145-0020-03",
+    "0145-0020-61"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "tazarotene",
+      "name": "Fabior"
+    }
+  ],
+  "setid": "596fd7d0-6ae2-4736-990d-4d4f01f96965",
+  "source": "dailymed"
+}

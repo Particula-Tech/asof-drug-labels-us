@@ -1,0 +1,30 @@
+# 6 ADVERSE REACTIONS
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+The safety data reflect exposure to FABIOR Foam in 744 patients with acne vulgaris.
+Patients were 12 years to 45 years of age and were treated once daily in the evening for 12 weeks.
+Adverse reactions reported in ≥ 1% of patients treated with FABIOR Foam are presented in Table 1.
+Most adverse reactions were mild to moderate in severity.
+Severe adverse reactions represented 3.0% of the patients treated.
+Overall, 2.6% (20/744) of patients discontinued FABIOR Foam because of local skin reactions.
+
+Table 1: Incidence of Adverse Reactions in ≥1 % of Patients Treated with FABIOR Foam
+
+|  | FABIOR Foam N=744 | Vehicle FoamN=741 |
+| --- | --- | --- |
+| Patients with any treatment-related adverse reaction, n (%) | 163 (22) | 19 (3) |
+| Application site irritation | 107 (14) | 9 (1) |
+| Application site dryness | 50 (7) | 8 (1) |
+| Application site erythema | 48 (6) | 3 (<1) |
+| Application site exfoliation | 44 (6) | 3 (<1) |
+| Application site pain | 9 (1) | 0 |
+| Application site pruritus | 7 (1) | 3 (<1) |
+| Application site dermatitis | 6 (1) | 1 (<1) |
+
+Additional adverse reactions that were reported in <1% of patients treated with FABIOR Foam included application site reactions (including discoloration, discomfort, edema, rash and swelling), dermatitis, impetigo and pruritus.
+
+Local skin reactions, dryness, erythema, and peeling actively assessed by the investigator and burning/stinging and itching reported by the patient were evaluated at baseline, during treatment, and end of treatment.
+During the 12 weeks of treatment, each local skin reaction peaked at week 2 and gradually reduced thereafter with the continued use of FABIOR Foam.
