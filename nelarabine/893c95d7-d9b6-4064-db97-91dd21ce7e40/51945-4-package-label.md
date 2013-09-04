@@ -1,6 +1,6 @@
 Principal Display Panel
 
-NDC 00707-4401-01
+NDC 00707-4401-06
 
 ARRANON®
 
@@ -13,22 +13,11 @@ Infusion Only
 
 (5 mg / mL)
 
+6 x 50 mL Vials
+
 Rx only
-
-Each mL contains 5 mg nelarabine.
-
-Do not dilute.
-Contains no preservative.
-
-Store at 25oC (77oF); excursions permitted to 15o – 30oC (59o – 86oF).
-
-Usual dose: See package insert.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
 
 Made in England
 
-10000000024335 Rev.
-1/06
+10000000039434 Rev.
+3/07
