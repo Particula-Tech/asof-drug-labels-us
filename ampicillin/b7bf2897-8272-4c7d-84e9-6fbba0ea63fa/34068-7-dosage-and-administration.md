@@ -2,16 +2,16 @@
 
 Infections of the respiratory tract and soft tissues.
 Patients weighing 40 kg (88 lbs) or more: 250 to 500 mg every 6 hours.
-Patients weighing less than 40 kg (88 lbs): 25 to 50 mg/kg/day in equally divided doses at 6- to 8-hour intervals.
+Patients weighing less than 40 kg (88 lbs): 25 to 50 mg/kg/day in equally divided doses at 6- to 8- hour intervals.
 Infections of the gastrointestinal and genitourinary tracts (including those caused by Neisseria gonorrhoeae in females).
 Patients weighing 40 kg (88 lbs) or more: 500 mg every 6 hours.
-Patients weighing less than 40 kg (88 lbs): 50 mg/kg/day in equally divided doses at 6- to 8-hour intervals.
+Patients weighing less than 40 kg (88 lbs): 50 mg/kg/day in equally divided doses at 6- to 8- hour intervals.
 In the treatment of chronic urinary tract and intestinal infections, frequent bacteriological and clinical appraisal is necessary.
 Smaller doses than those recommended above should not be used.
 Higher doses should be used for stubborn or severe infections.
 In stubborn infections, therapy may be required for several weeks.
 It may be necessary to continue clinical and/or bacteriological follow-up for several months after cessation of therapy.
-Urethritis in males due to N. gonorrhoeae .
+Urethritis in males due to N. gonorrhoeae.
 Adults – Two doses of 500 mg each at an interval of 8 to 12 hours.
 Treatment may be repeated if necessary or extended if required.
 In the treatment of complications of gonorrheal urethritis, such as prostatitis and epididymitis, prolonged and intensive therapy is recommended.
@@ -31,23 +31,23 @@ A minimum of 10-days treatment is recommended for any infection caused by Group 
 
 Use only freshly prepared solutions.
 Intramuscular and intravenous injections should be administered within one hour after preparation since the potency may decrease significantly after this period.
-For Intramuscular Use – Dissolve contents of a vial with the amount of Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP, listed in the table below:
+For Intramuscular Use - Dissolve contents of a vial with the amount of Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP, listed in the table below:
 
-| NDC 55150 | Label Claim | Recommended Amount of Diluent | Withdrawable Volume | Concentration (in mg/mL) |
+| NDC 65862 | Label Claim | Recommended Amount of Diluent | Withdrawable Volume | Concentration (in mg/mL) |
 | --- | --- | --- | --- | --- |
 | 55150-111-10 | 250 mg | 1 mL | 1 mL | 250 mg |
 | 55150-112-10 | 500 mg | 1.8 mL | 2 mL | 250 mg |
 | 55150-113-10 | 1 gram | 3.5 mL | 4 mL | 250 mg |
-| 55150-114-20 | 2 gram | 6.8 mL | 8 mL | 250 mg |
+| 55150-113-20 | 2 gram | 6.8 mL | 8 mL | 250 mg |
 
 While ampicillin for injection, USP, 1 g and 2 g, are primarily for intravenous use, they may be administered intramusculary when the 250 mg or 500 mg vials are unavailable.
 In such instances, dissolve in 3.5 or 6.8 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP, respectively.
 The resulting solution will provide a concentration of 250 mg per mL.
-For Direct Intravenous Use – Add 5 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP to the 250 and 500 mg vials and administer slowly over a 3- to 5-minute period.
+For Direct Intravenous Use - Add 5 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP to the 1250 and 500 mg vials and administer slowly over a 3- to 5-minute period.
 Ampicillin for injection, USP, 1 g or 2 g, may also be given by direct Intravenous administration.
 Dissolve in 7.4 or 14.8 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP, respectively, and administer slowly over at least 10 to 15 minutes.
 CAUTION: More rapid administration may result in convulsive seizures.
-For Administration by Intravenous Drip – Reconstitute as directed above (For Direct Intravenous Use ) prior to diluting with Intravenous Solution.
+For Administration by Intravenous Drip – Reconstitute as directed above (For Direct Intravenous Use) prior to diluting with Intravenous Solution.
 Stability studies on ampicillin sodium at several concentrations in various intravenous solutions indicate the drug will lose less than 10% activitiy at the temperatures noted for the time periods stated.
 
 | Diluent | Concentrations | Stability Periods |

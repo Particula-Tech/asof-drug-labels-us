@@ -79,4 +79,4 @@ Therefore, caution should be exercised when ampicillin-class antibiotics are adm
 
 ## Pediatric Use
 
-Guidelines for the administration of these drugs to children are presented in DOSAGE AND ADMINISTRATION .
+Guidelines for the administration of these drugs to children are presented in DOSAGE AND ADMINISTRATION.
