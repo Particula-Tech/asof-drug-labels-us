@@ -18,7 +18,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 · Retinal Pathology [see Warnings and Precautions (5.8)].
 
-· Events Reported with Dopaminergic Therapy [ see Warnings and Precautions (5.9) ] .
+· Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -50,7 +50,7 @@ Similarly, the cited frequencies cannot be compared with figures obtained from o
 However, the cited figures do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse-event incidence rate in the population studied.
 
 Table 3 Treatment-Emergent Adverse-Event*Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category.
-Incidence in Double-Blind, Placebo-Controlled Trials in Early Parkinson's Disease (Events ≥ 1% of Patients Treated with Pramipexole Dihydrochloride tablets and Numerically More Frequent than in the Placebo Group)
+Incidence in Double-Blind, Placebo-Controlled Trials in Early Parkinson's Disease (Events ≥ 1% of Patients Treated with Pramipexole Dihydrochloridetablets and Numerically More Frequent than in the Placebo Group)
 
 | Body System/ Adverse Event | Pramipexole Dihydrochloride (N=388) % | Placebo (N=235) % |
 | --- | --- | --- |
@@ -99,13 +99,13 @@ Advanced Parkinson's Disease In the four double-blind, placebo-controlled trials
 Approximately 12% of 260 patients with advanced Parkinson's disease who received pramipexole dihydrochloride tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse events compared with 16% of 264 patients who received placebo and concomitant levodopa.
 The events most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dyskinesia [1.9% on pramipexole dihydrochloride tablets vs 0.8% on placebo]; extrapyramidal syndrome [1.5% on pramipexole dihydrochloride tablets vs 4.9% on placebo]; dizziness [1.2% on pramipexole dihydrochloride tablets vs 1.5% on placebo]; confusion [1.2% on pramipexole dihydrochloride tablets vs 2.3% on placebo]); and cardiovascular system (postural [orthostatic] hypotension [2.3% on pramipexole dihydrochloride tablets vs 1.1% on placebo]).
 
-Adverse-event Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease : Table 4 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by ≥ 1% of patients treated with pramipexole dihydrochloridetablets and were numerically more frequent than in the placebo group.
+Adverse-event Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease: Table 4 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by ≥ 1% of patients treated with pramipexole dihydrochloridetablets and were numerically more frequent than in the placebo group.
 In these studies, pramipexole dihydrochloridetablets or placebo was administered to patients who were also receiving concomitant levodopa.
 Adverse events were usually mild or moderate in intensity.
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical studies.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 However, the cited figures do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse-events incidence rate in the population studied.
-Table 4 Treatment-Emergent Adverse-Event *Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category.
+Table 4 Treatment-Emergent Adverse-Event*Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category.
 Incidence in Double-Blind, Placebo-Controlled Trials in Advanced Parkinson's Disease (Events ≥1% of Patients Treated with pramipexole dihydrochloride tablets and Numerically More Frequent than in the Placebo Group)
 
 | Body System/ Adverse Event | Pramipexole Dihydrochloride †Patients received concomitant levodopa. (N=260) % | Placebo (N=264) % |
@@ -206,7 +206,7 @@ Hepatobiliary disorders: biliary colic, cholecystitis, cholecystitis chronic, ch
 
 Immune system disorders: drug hypersensitivity
 
-Infections and infestations : abscess, acute tonsillitis, appendicitis, bronchiolitis, bronchitis, bronchopneumonia, cellulitis, cystitis, dental caries, diverticulitis, ear infection, eye infection, folliculitis, fungal infection, furuncle, gangrene, gastroenteritis, gingival infection, herpes simplex, herpes zoster, hordeolum, intervertebral discitis, laryngitis, lobar pneumonia, nail infection,
+Infections and infestations: abscess, acute tonsillitis, appendicitis, bronchiolitis, bronchitis, bronchopneumonia, cellulitis, cystitis, dental caries, diverticulitis, ear infection, eye infection, folliculitis, fungal infection, furuncle, gangrene, gastroenteritis, gingival infection, herpes simplex, herpes zoster, hordeolum, intervertebral discitis, laryngitis, lobar pneumonia, nail infection,
 
 onychomycosis, oral candidiasis, orchitis, osteomyelitis, otitis externa, otitis media, paronychia, pyelonephritis, pyoderma, sepsis, skin infection, tonsillitis, tooth abscess, tooth infection, upper respiratory tract infection, urethritis, vaginal candidiasis, vaginal infection, viral infection, wound infection
 
@@ -224,7 +224,7 @@ Psychiatric disorders: affect lability, aggression, agitation, bradyphrenia, bru
 
 Renal and urinary disorders: chromaturia, dysuria, glycosuria, hematuria, urgency, nephrolithiasis, neurogenic bladder, nocturia, oliguria, pollakiuria, proteinuria, renal artery stenosis, renal colic, renal cyst, renal failure, renal impairment, urinary retention
 
-Reproductive system and breast disorders : amenorrhea, breast pain, dysmenorrhea, epididymitis, gynaecomastia, menopausal symptoms, menorrhagia, metrorrhagia, ovarian cyst, priapism, prostatitis, sexual dysfunction, uterine hemorrhage, vaginal discharge, vaginal hemorrhage
+Reproductive system and breast disorders: amenorrhea, breast pain, dysmenorrhea, epididymitis, gynaecomastia, menopausal symptoms, menorrhagia, metrorrhagia, ovarian cyst, priapism, prostatitis, sexual dysfunction, uterine hemorrhage, vaginal discharge, vaginal hemorrhage
 
 Respiratory, thoracic and mediastinal disorders: apnea, aspiration, asthma, choking, chronic obstructive pulmonary disease, dry throat, dysphonia, dyspnea exertional, epistaxis, haemoptysis, hiccups, hyperventilation, increased bronchial secretion, laryngospasm, nasal dryness, nasal polyps, obstructive airways disorder, pharyngolaryngeal pain, pleurisy, pneumonia aspiration, pneumothorax, postnasal drip, productive cough, pulmonary embolism, pulmonary edema, respiratory alkalosis, respiratory distress, respiratory failure, respiratory tract congestion, rhinitis allergic, rhinorrhea, sinus congestion, sleep apnoea syndrome, sneezing, snoring, tachypnea, wheezing
 
@@ -236,4 +236,4 @@ Vascular disorders: aneurysm, angiopathy, arteriosclerosis, circulatory collapse
 
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson’s disease patients.Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), inappropriate antidiuretic hormone secretion (SIADH), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.

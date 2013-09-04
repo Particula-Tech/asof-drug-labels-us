@@ -40,10 +40,10 @@ Because the teratogenic potential of pramipexole has not been completely establi
 
 ## 17.7 Nursing Mothers
 
-Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)] .
+Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
 Manufactured for: Macleods Pharma USA, INC,.
 Plainsboro, NJ 08536 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
-Revised OCTOBER 2012
+Revised AUGUST 2013
 
 ## PATIENT INFORMATION
 
@@ -83,7 +83,7 @@ If you are taking MIRAPEX ER, you should not take Pramipexole Dihydrochloride Ta
 Ask your doctor for a list of these medicines if you are not sure.
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
-How should I take Pramipexole dihydrochloride tablet? •Take pramipexole dihydrochloride tablet exactly as your doctor tells you to take it. •Your doctor will tell you how much pramipexole dihydrochloride tablet to take and when to take it.
+How should I take pramipexole dihydrochloride tablet? •Take pramipexole dihydrochloride tablet exactly as your doctor tells you to take it. •Your doctor will tell you how much pramipexole dihydrochloride tablet to take and when to take it.
 Do not take more or less pramipexole dihydrochloride tablet than your doctor tells you to. •Your doctor may change your dose if needed. •Pramipexole dihydrochloride tablet can be taken with or without food.
 Taking pramipexole dihydrochloride tablet tablets with food may lower your chances of getting nausea. •If you take more pramipexole dihydrochloride tablet than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away. •If you miss a dose, do not double your next dose.
 Skip the dose you missed and take your next regular dose. •If you have Parkinson's disease and your doctor tells you to stop taking pramipexole dihydrochloride tablet, you should stop pramipexole dihydrochloride tablet slowly as directed by your doctor.
@@ -128,6 +128,6 @@ Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
-Revised OCTOBER 2012
+Revised AUGUST 2013
 
 The brands listed are trademarks of their respective owners and are not trademarks of Macleods Pharmaceutical Ltd. The makers of these brands are not affiliated with and do not endorse Macleods Pharmaceutical Ltd. or its products.

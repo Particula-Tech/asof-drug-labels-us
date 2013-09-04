@@ -31,7 +31,7 @@ The frequency of these events was generally 2-fold greater than placebo for pram
 The incidence of somnolence reported with pramipexole at a dose of 1.5 mg/day was comparable to placebo.
 When pramipexole dihydrochloride tablets are used in combination with levodopa, a reduction of the levodopa dosage should be considered.
 In a controlled study in advanced Parkinson's disease, the dosage of levodopa was reduced by an average of 27% from baseline.
-Dosing in Patients with Renal Impairment Table 2 Dosing of Pramipexole Dihydrochloride tablets in Parkinson's Disease Patients with Renal Impairment Renal Status Starting Dose (mg) Maximum Dose (mg) Normal to mild impairment (creatinine Cl >50 mL/min) 0.125 TID 1.5 TID Moderate impairment (creatinine Cl =30 to 50 mL/min) 0.125 BID 0.75 TID Severe impairment (creatinine Cl =15 to <30 mL/min) 0.125 QD 1.5 QD Very severe impairment (creatinine Cl <15 mL/min and hemodialysis patients) The use of pramipexole dihydrochloride tablets has not been adequately studied in this group of patients.
+Dosing in Patients with Renal Impairment Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson's Disease Patients with Renal Impairment Renal Status Starting Dose (mg) Maximum Dose (mg) Normal to mild impairment (creatinine Cl >50 mL/min) 0.125 TID 1.5 TID Moderate impairment (creatinine Cl =30 to 50 mL/min) 0.125 BID 0.75 TID Severe impairment (creatinine Cl =15 to <30 mL/min) 0.125 QD 1.5 QD Very severe impairment (creatinine Cl <15 mL/min and hemodialysis patients) The use of pramipexole dihydrochloride tablets has not been adequately studied in this group of patients.
 
 | Renal Status | Starting Dose (mg) | Maximum Dose (mg) |
 | --- | --- | --- |
