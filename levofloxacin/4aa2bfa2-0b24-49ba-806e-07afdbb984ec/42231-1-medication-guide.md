@@ -107,7 +107,7 @@ Especially tell your healthcare provider if you take:
   Take Levofloxacin Oral Solution either 2 hours before or 2 hours after taking these medicines or supplements:
   - an antacid, multivitamin, or other medicines or supplements that have magnesium, aluminum, iron, or zinc
   - sucralfate (Carafate®)
-  - didanosine (Videx®,Videx® EC)
+  - didanosine (Videx®, Videx® EC)
 - a blood thinner (warfarin, Coumadin, Jantoven)
 - an oral anti-diabetes medicine or insulin
 - an NSAID (Non-Steroidal Anti-Inflammatory Drug).
@@ -181,8 +181,8 @@ Levofloxacin can cause serious side effects, including:
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
-- Changes in sensation and possible nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including Levofloxacin.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:Levofloxacin may need to be stopped to prevent permanent nerve damage.
+- Changes in sensation and nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including Levofloxacin.
+  Stop Levofloxacin and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:The nerve damage may be permanent.
   - pain
   - burning
   - tingling
@@ -247,7 +247,7 @@ What are the ingredients in Levofloxacin?
 
 Levofloxacin Oral Solution: Active ingredient: levofloxacin
 
-Levofloxacin Oral Solution: Inactive ingredients: sucrose, glycerin, sucralose, hydrochloric acid, purified water, propylene glycol, artificial and natural flavors, benzyl alcohol, ascorbic acid, and caramel color.
+Levofloxacin Oral Solution: Inactive ingredients: artificial and natural flavors, ascorbic acid, benzyl alcohol, caramel color, glycerin, hydrochloric acid, propylene glycol, purified water, sucralose and sucrose.
 It may also contain a solution of sodium hydroxide for pH adjustment.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -264,4 +264,4 @@ Patriot Pharmaceuticals, LLC, Horsham, PA 19044.
 
 © Patriot Pharmaceuticals, LLC
 
-Revised March 2013
+Revised August 2013

@@ -10,7 +10,7 @@ The average duration of adjunctive therapy was 7 days in the Levofloxacin arm an
 In clinically and microbiologically evaluable patients with documented Pseudomonas aeruginosa infection, 15 of 17 (88.2%) received ceftazidime (N=11) or piperacillin/tazobactam (N=4) in the Levofloxacin arm and 16 of 17 (94.1%) received an aminoglycoside in the comparator arm.
 Overall, in clinically and microbiologically evaluable patients, vancomycin was added to the treatment regimen of 37 of 93 (39.8%) patients in the Levofloxacin arm and 28 of 94 (29.8%) patients in the comparator arm for suspected methicillin-resistant S. aureus infection.
 
-Clinical success rates in clinically and microbiologically evaluable patients at the posttherapy visit (primary study endpoint assessed on day 3–15 after completing therapy) were 58.1% for Levofloxacin and 60.6% for comparator.
+Clinical success rates in clinically and microbiologically evaluable patients at the post-therapy visit (primary study endpoint assessed on day 3–15 after completing therapy) were 58.1% for Levofloxacin and 60.6% for comparator.
 The 95% CI for the difference of response rates (Levofloxacin minus comparator) was [-17.2, 12.0].
 The microbiological eradication rates at the posttherapy visit were 66.7% for Levofloxacin and 60.6% for comparator.
 The 95% CI for the difference of eradication rates (Levofloxacin minus comparator) was [-8.3, 20.3].

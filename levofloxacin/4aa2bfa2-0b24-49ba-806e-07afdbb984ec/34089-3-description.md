@@ -26,5 +26,5 @@ Levofloxacin Oral Solution, 25 mg/mL, is a multi-use self-preserving aqueous sol
 The appearance of Levofloxacin Oral Solution may range from clear yellow to clear greenish-yellow.
 This does not adversely affect product potency.
 
-Levofloxacin Oral Solution contains the following inactive ingredients: sucrose, glycerin, sucralose, hydrochloric acid, purified water, propylene glycol, artificial and natural flavors, benzyl alcohol, ascorbic acid, and caramel color.
+Levofloxacin Oral Solution contains the following inactive ingredients: artificial and natural flavors, ascorbic acid, benzyl alcohol, caramel color, glycerin, hydrochloric acid, propylene glycol, purified water, sucralose and sucrose.
 It may also contain a solution of sodium hydroxide for pH adjustment.
