@@ -3,7 +3,7 @@
     "NDA021903"
   ],
   "inn": "ibuprofen",
-  "labeler": "Recordati Rare Diseases Inc.",
+  "labeler": "RECORDATI RARE DISEASES, INC.",
   "package_ndcs": [
     "55292-122-52"
   ],
@@ -11,7 +11,7 @@
     {
       "form": "SOLUTION",
       "generic": "ibuprofen lysine",
-      "name": "Neoprofen"
+      "name": "NeoProfen"
     }
   ],
   "setid": "6f5ede6f-b0b7-4fc8-969e-652f60ead047",

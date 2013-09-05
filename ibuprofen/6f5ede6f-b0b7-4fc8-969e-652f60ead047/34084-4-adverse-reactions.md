@@ -7,9 +7,9 @@ The most frequently reported adverse events with NeoProfen were as shown in Tabl
 Table 1.
 Adverse Events within 30 Days of Therapy in the Multicenter StudyWithin 30 days of therapy, with an event rate greater on NeoProfen than on placebo, and greater than 2 events on NeoProfen.
 
-| Adverse Event | NeoProfen | Placebo |
-| --- | --- | --- |
 |  | % Incidence |  |
+| --- | --- | --- |
+| Adverse Event | NeoProfen | Placebo |
 | Sepsis | 43 | 37 |
 | Anemia | 32 | 25 |
 | Total BleedingA given subject may have experienced more than one specific event within these adverse event categories. Only the most severe grade of IVH counted for a given subject. | 32 | 29 |
@@ -18,7 +18,8 @@ Adverse Events within 30 Days of Therapy in the Multicenter StudyWithin 30 days 
 | Other Bleeding | 6 | 13 |
 | Intraventricular Hemorrhage, All Grades | 29 | 24 |
 | Apnea | 28 | 26 |
-| Gastrointestinal Disorders non-Necrotizing Enterocolitis | 22 | 18 |
+| Gastrointestinal Disorders |  |  |
+| non-Necrotizing Enterocolitis | 22 | 18 |
 | Total Renal Events | 21 | 15 |
 | Renal Failure | 1 | 3 |
 | Renal Insufficiency, Impairment | 6 | 4 |

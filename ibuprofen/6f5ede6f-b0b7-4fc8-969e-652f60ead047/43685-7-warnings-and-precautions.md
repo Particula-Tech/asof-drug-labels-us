@@ -3,7 +3,7 @@
 ## 5.1 General
 
 There are no long-term evaluations of the infants treated with ibuprofen at durations greater than the 36 weeks post-conceptual age observation period.
-Ibuprofen's effects on neurodevelopmental outcome and growth as well as disease processes associated with prematurity (such as retinopathy of prematurity and chronic lung disease) have not been assessed.
+Ibuprofen’s effects on neurodevelopmental outcome and growth as well as disease processes associated with prematurity (such as retinopathy of prematurity and chronic lung disease) have not been assessed.
 
 ## 5.2 Infection
 
@@ -19,9 +19,8 @@ This effect may be exaggerated in patients with underlying hemostatic defects (s
 
 ## 5.4 Bilirubin Displacement
 
-Ibuprofen has been shown to displace bilirubin from albumin binding-sites; therefore, it should be used with caution in patients with elevated total bilirubin.
+Ibuprofen has been shown to displace bilirubin from albumin bindingsites; therefore, it should be used with caution in patients with elevated total bilirubin.
 
 ## 5.5 Administration
 
 NeoProfen should be administered carefully to avoid extravascular injection or leakage, as solution may be irritating to tissue.
-NeoProfen should not be administered if particulate matter is observed in the solution.
