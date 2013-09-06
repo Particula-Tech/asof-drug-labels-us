@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg, 50 Tablet Bottle
+# PRINCIPAL DISPLAY PANEL - 5 mg Bottle Label
 
 NDC 0009-0012-01
 
@@ -10,7 +10,7 @@ Cortef® hydrocortisone tablets, USP
 
 Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 10 mg,100 Tablet Bottle
+# PRINCIPAL DISPLAY PANEL - 10 mg Bottle Label
 
 NDC 0009-0031-01
 
@@ -22,7 +22,7 @@ Cortef® hydrocortisone tablets, USP
 
 Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 20 mg, 100 Tablet Bottle
+# PRINCIPAL DISPLAY PANEL - 20 mg Bottle Label
 
 NDC 0009-0044-01
 
