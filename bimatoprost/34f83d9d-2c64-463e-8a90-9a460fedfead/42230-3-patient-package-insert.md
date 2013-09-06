@@ -116,7 +116,7 @@ Inactive ingredients: benzalkonium chloride; sodium chloride; sodium phosphate, 
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 - 7.8.
 
-© 2012 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. Patented.
+© 2013 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. Patented.
 See: www.allergan.com/products/patent_notices
 
-72303US14
+72303US15
