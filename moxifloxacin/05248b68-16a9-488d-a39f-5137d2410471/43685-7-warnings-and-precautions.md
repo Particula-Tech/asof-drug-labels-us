@@ -3,7 +3,7 @@
 ## 5.1 Topical Ophthalmic Use Only
 
 NOT FOR INJECTION.
-MOXEZA™ solution is for topical ophthalmic use only and should not be injected subconjunctivally or introduced directly into the anterior chamber of the eye.
+MOXEZA® solution is for topical ophthalmic use only and should not be injected subconjunctivally or introduced directly into the anterior chamber of the eye.
 
 ## 5.2 Hypersensitivity Reactions
 

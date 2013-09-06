@@ -2,14 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Moxifloxacin is a member of the fluoroquinolone class of anti-infective drugs.
-(See 12.4 Microbiology.)
+Moxifloxacin is a member of the fluoroquinolone class of anti-infective drugs [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
 Moxifloxacin steady-state plasma pharmacokinetics were evaluated in healthy adult male and female subjects who were administered multiple, bilateral, topical ocular doses of MOXEZA™ solution two times daily for four days with a final dose on day 5.
 The average steady-state AUC0-12 was 8.17 ± 5.31 ng*h/mL.
-Moxifloxacin Cmax following twice-daily bilateral ophthalmic administration of moxifloxacin 0.5% for 5 days is approximately 0.02% of that achieved with the oral formulation of moxifloxacin hydrochloride (Cmax following oral dosing of 400 mg AVELOX*, 4.5 ± 0.5 mcg/mL).
+Moxifloxacin Cmax following twice-daily bilateral ophthalmic administration of moxifloxacin AF 0.5% for 5 days is approximately 0.02% of that achieved with the oral formulation of moxifloxacin hydrochloride (Cmax following oral dosing of 400 mg AVELOX*, 4.5 ± 0.5 mcg/mL).
 
 ## 12.4 Microbiology
 
@@ -27,45 +26,7 @@ Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8
 
 Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
-Aerococcus viridans*
-
-Corynebacterium macginleyi*
-
-Enterococcus faecalis*
-
-Micrococcus luteus*
-
-Staphylococcus arlettae*
-
-Staphylococcus aureus
-
-Staphylococcus capitis
-
-Staphylococcus epidermidis
-
-Staphylococcus haemolyticus
-
-Staphylococcus hominis
-
-Staphylococcus saprophyticus*
-
-Staphylococcus warneri*
-
-Streptococcus mitis*
-
-Streptococcus pneumoniae
-
-Streptococcus parasanguinis*
-
-Escherichia coli*
-
-Haemophilus influenzae
-
-Klebsiella pneumoniae*
-
-Propionibacterium acnes
-
-Chlamydia trachomatis*
+Aerococcus viridans* Corynebacterium macginleyi* Enterococcus faecalis* Micrococcus luteus* Staphylococcus arlettae* Staphylococcus aureus Staphylococcus capitis Staphylococcus epidermidis Staphylococcus haemolyticus Staphylococcus hominis Staphylococcus saprophyticus* Staphylococcus warneri* Streptococcus mitis* Streptococcus pneumoniae Streptococcus parasanguinis* Escherichia coli* Haemophilus influenzae Klebsiella pneumoniae* Propionibacterium acnes Chlamydia trachomatis*
 
 *Efficacy for this organism was studied in fewer than 10 infections.
 
@@ -77,84 +38,10 @@ These organisms are considered susceptible when evaluated using systemic breakpo
 The list of organisms is provided as guidance only in assessing the potential treatment of conjunctival infections.
 Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 mcg/mL or less (systemic susceptible breakpoint) against most (≥ 90%) strains of the following ocular pathogens.
 
-Aerobic Gram-positive microorganisms:
+Aerobic Gram-positive microorganisms: Staphylococcus caprae Staphylococcus cohnii Staphylococcus lugdunensis Staphylococcus pasteuri Streptococcus agalactiae Streptococcus milleri group Streptococcus oralis Streptococcus pyogenes Streptococcus salivarius Streptococcus sanguis
 
-Staphylococcus caprae
+Aerobic Gram-negative microorganisms: Acinetobacter baumannii Acinetobacter calcoaceticus Acinetobacter junii Enterobacter aerogenes Enterobacter cloacae Haemophilus parainfluenzae Klebsiella oxytoca Moraxella catarrhalis Moraxella osloensis Morganella morganii Neisseria gonorrhoeae Neisseria meningitidis Pantoea agglomerans Proteus vulgaris Pseudomonas stutzeri Serratia liquefaciens Serratia marcescens Stenotrophomonas maltophilia
 
-Staphylococcus cohnii
+Anaerobic microorganisms: Clostridium perfringens Peptostreptococcus anaerobius Peptostreptococcus magnus Peptostreptococcus micros Peptostreptococcus prevotii
 
-Staphylococcus lugdunensis
-
-Staphylococcus pasteuri
-
-Streptococcus agalactiae
-
-Streptococcus milleri group
-
-Streptococcus oralis
-
-Streptococcus pyogenes
-
-Streptococcus salivarius
-
-Streptococcussanguis
-
-Aerobic Gram-negative microorganisms:
-
-Acinetobacter baumannii
-
-Acinetobacter calcoaceticus
-
-Acinetobacter junii
-
-Enterobacter aerogenes
-
-Enterobacter cloacae
-
-Haemophilus parainfluenzae
-
-Klebsiella oxytoca
-
-Moraxella catarrhalis
-
-Moraxella osloensis
-
-Morganella morganii
-
-Neisseria gonorrhoeae
-
-Neisseria meningitidis
-
-Pantoea agglomerans
-
-Proteus vulgaris
-
-Pseudomonas stutzeri
-
-Serratia liquefaciens
-
-Serratia marcescens
-
-Stenotrophomonas maltophilia
-
-Anaerobic microorganisms:
-
-Clostridium perfringens
-
-Peptostreptococcus anaerobius
-
-Peptostreptococcus magnus
-
-Peptostreptococcus micros
-
-Peptostreptococcus prevotii
-
-Other microorganisms:
-
-Mycobacterium tuberculosis
-
-Mycobacterium avium
-
-Mycobacterium kansasii
-
-Mycobacterium marinum
+Other microorganisms: Mycobacterium tuberculosis Mycobacterium avium Mycobacterium kansasii Mycobacterium marinum
