@@ -40,7 +40,7 @@ Table 19: Schizophrenia Short-Term Trials
 | Mean BaselineScore (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
 | Study 1 | SEROQUEL (75 mg/day) | 45.7 (10.9) | -2.2 (2.0) | -4.0 (-11.2, 3.3) |
 | SEROQUEL (150 mg/day)Doses that are statistically significant superior to placebo. | 47.2 (10.1) | -8.7 (2.1) | -10.4 (-17.8, -3.0) |  |
-| SEROQUEL (300 mg/day)Doses that are statistically significant superior to placebo. | 45.3 (10.9) | -8.6 (2.1) | -10.3 (-17.6, -3.0) |  |
+| SEROQUEL (300 mg/day) | 45.3 (10.9) | -8.6 (2.1) | -10.3 (-17.6, -3.0) |  |
 | SEROQUEL (600 mg/day) | 43.5 (11.3) | -7.7 (2.1) | -9.4 (-16.7, -2.1) |  |
 | SEROQUEL (750 mg/day) | 45.7 (11.0) | -6.3 (2.0) | -8.0 (-15.2, -0.8) |  |
 | Placebo | 45.3 (9.2) | 1.7 (2.1) | -- |  |
@@ -50,9 +50,7 @@ Table 19: Schizophrenia Short-Term Trials
 | Study 3 | SEROQUEL (450 mg/day BID) | 42.1 (10.7) | -10.0 (1.3) | -4.6 (-7.8, -1.4) |
 | SEROQUEL (450 mg/day TID)Doses that are statistically significant superior to SEROQUEL 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |  |
 | SEROQUEL (50 mg BID) | 41.7 (10.0) | -5.4 (1.3) | -- |  |
-|  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
-|  |  | Mean BaselineScore (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference (95% CI) |
-| Study 4 | SEROQUEL (400 mg/day)Doses that are statistically significant superior to placebo. | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
+| Study 4 | SEROQUEL (400 mg/day) | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
 | SEROQUEL (800 mg/day) | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
 | Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
@@ -107,7 +105,7 @@ Table 20: Mania Trials
 | --- | --- | --- | --- | --- |
 | Mean BaselineScore (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
 | Study 1 | SEROQUEL (200-800 mg/day)Doses that are statistically significantly superior to placebo.Included in the trial as an active comparator. | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
-| HaloperidolDoses that are statistically significantly superior to placebo. | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
+| Haloperidol | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
 | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |
 | Study 2 | SEROQUEL (200-800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5.0) |
 | Lithium | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |  |
@@ -158,8 +156,7 @@ On average, patients were stabilized for 15 weeks.
 In the randomization phase, patients continued treatment with lithium or divalproex and were randomized to receive either SEROQUEL (administered twice daily totaling 400 mg/day to 800 mg/day) or placebo.
 Approximately 50% of the patients had discontinued from the SEROQUEL group by day 280 and 50% of the placebo group had discontinued by day 117 of double-blind treatment.
 The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed or depressed episode).
-A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥ 20 or MADRS score ≥ 20 at 2 consecutive assessments; or study discontinuation due to a mood event.
-(Figure 1 and Figure 2)
+A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥ 20 or MADRS score ≥ 20 at 2 consecutive assessments; or study discontinuation due to a mood event (Figure 1 and Figure 2).
 
 In both studies, SEROQUEL was superior to placebo in increasing the time to recurrence of any mood event.
 The treatment effect was present for increasing time to recurrence of both manic and depressed episodes.

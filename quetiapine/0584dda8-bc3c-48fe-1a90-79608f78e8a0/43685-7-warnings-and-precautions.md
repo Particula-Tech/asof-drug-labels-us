@@ -103,7 +103,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Adults:
 
-Table 3: Fasting Glucose – Proportion of Patients Shifting to ≥126 mg/dL in Short-Term (≤12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
+Table 3: Fasting Glucose - Proportion of Patients Shifting to ≥126 mg/dL in Short-Term (≤12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
 
 | Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
@@ -142,7 +142,7 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | Placebo | 92 | 6 (7%) |  |  |
 | BipolarDepression8 weeks duration | SEROQUEL | 463 | 41 (9%) |  |
 | Placebo | 250 | 15 (6%) |  |  |
-| Triglycerides ≥200 mg/dL | Schizophrenia6 weeks duration | SEROQUEL | 120 | 26 (22%) |
+| Triglycerides ≥200 mg/dL | Schizophrenia | SEROQUEL | 120 | 26 (22%) |
 | Placebo | 70 | 11 (16%) |  |  |
 | BipolarDepression | SEROQUEL | 436 | 59 (14%) |  |
 | Placebo | 232 | 20 (9%) |  |  |
@@ -167,7 +167,7 @@ Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 | Placebo | 56 | 1 (2%) |  |  |
 | Bipolar Mania10-17 years, 3 weeks duration | SEROQUEL | 159 | 16 (10%) |  |
 | Placebo | 66 | 2 (3%) |  |  |
-| Triglycerides≥150 mg/dL | Schizophrenia13-17 years, 6 weeks duration | SEROQUEL | 103 | 17 (17%) |
+| Triglycerides≥150 mg/dL | Schizophrenia | SEROQUEL | 103 | 17 (17%) |
 | Placebo | 51 | 4 (8%) |  |  |
 | Bipolar Mania | SEROQUEL | 149 | 32 (22%) |  |
 | Placebo | 60 | 8 (13%) |  |  |
@@ -212,7 +212,7 @@ Table 7: Proportion of Patients with Weight Gain ≥7% of Body Weight (Children 
 
 | Vital Sign | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥7% of Body | Schizophrenia6 weeks duration | SEROQUEL | 111 | 23 (21%) |
+| Weight Gain ≥7% of Body Weight | Schizophrenia6 weeks duration | SEROQUEL | 111 | 23 (21%) |
 | Placebo | 44 | 3 (7%) |  |  |
 | Bipolar Mania3 weeks duration | SEROQUEL | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
@@ -320,13 +320,13 @@ About 0.7% (26/3489) of SEROQUEL patients did experience TSH increases in monoth
 Some patients with TSH increases needed replacement thyroid treatment.
 
 In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as M0.8 x LLN (pmol/L) and shift in TSH is > 5 mlU/L at any time.: decrease in free T4 (free T4 <0.8 LLN), 2.0% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2.0% (26/1312), and increase in TSH, 4.9% (956/19412).
+Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mlU/L at any time.: decrease in free T4 (free T4 <0.8 LLN), 2.0% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2.0% (26/1312), and increase in TSH, 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short term placebo-controlled clinical trials.
 
 Table 8: Incidence of shifts in thyroid hormone levels and TSH in short-term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.Includes SEROQUEL and SEROQUEL XR data.
+Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time., Includes SEROQUEL and SEROQUEL XR data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

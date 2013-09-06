@@ -193,18 +193,31 @@ SEROQUEL can cause serious side effects, including:
 - •trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking SEROQUEL.
   These symptoms usually get better 1 week after you start having them.
 - The most common side effects of SEROQUEL include:
-- In Adults:
 
-| •dry mouth | •constipation |
-| --- | --- |
-| •dizziness | •sore throat |
-| •weakness | •difficulty moving |
-| •abdominal pain |  |
+In Adults:
 
-| •nausea | •increased appetite |
-| --- | --- |
-| •dry mouth | •vomiting |
-| •weight gain | •rapid heart beat |
+- •dry mouth
+- •dizziness
+- •weakness
+- •abdominal pain
+- •constipation
+- •sore throat
+- •difficulty moving
+
+In Children and Adolescents:
+
+- •nausea
+- •dry mouth
+- •weight gain
+- •increased appetite
+- •vomiting
+- •rapid heart beat
+
+These are not all the possible side effects of SEROQUEL.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store SEROQUEL?
 

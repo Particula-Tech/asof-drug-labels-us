@@ -57,8 +57,7 @@ Patients with a pre-existing low WBC or a history of drug induced leukopenia/neu
 Interference with Cognitive and Motor Performance
 
 Patients should be advised of the risk of somnolence or sedation (which may lead to falls), especially during the period of initial dose titration.
-Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely.
-[see Warnings and Precautions (5.15)].
+Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely [see Warnings and Precautions (5.15)].
 
 Heat Exposure and Dehydration
 
@@ -66,13 +65,11 @@ Patients should be advised regarding appropriate care in avoiding overheating an
 
 Concomitant Medication
 
-As with other medications, patients should be advised to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs.
-[see Drug Interactions (7.1)].
+As with other medications, patients should be advised to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs [see Drug Interactions (7.1)].
 
 Pregnancy and Nursing
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with SEROQUEL.
-[see Use in Specific Populations (8.1) and (8.3)].
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with SEROQUEL [see Use in Specific Populations (8.1) and (8.3)].
 
 Need for Comprehensive Treatment Program
 

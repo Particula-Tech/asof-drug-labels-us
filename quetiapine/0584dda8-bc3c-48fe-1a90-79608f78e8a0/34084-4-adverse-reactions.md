@@ -184,7 +184,7 @@ Logistic regression analyses revealed a positive dose response (p<0.05) for the 
 
 Adverse Reactions in clinical trials with quetiapine and not listed elsewhere in the label:
 
-The following adverse reactions have also been reported with quetiapine: nightmares, hypersensitivity and elevations in serum creatine phosphokinase (not associated with NMS), galactorrhea, bradycardia (which may occur at or near initiation of treatment and be associated with hypotension and/ or syncope) decreased platelets, somnambulism (and other related events), elevations in gamma-GT levels, hypothermia, and priapism.
+The following adverse reactions have also been reported with quetiapine: nightmares, hypersensitivity and elevations in serum creatine phosphokinase (not associated with NMS), galactorrhea, bradycardia (which may occur at or near initiation of treatment and be associated with hypotension and/ or syncope), decreased platelets, somnambulism (and other related events), elevations in gamma-GT levels, hypothermia, and priapism.
 
 Extrapyramidal Symptoms (EPS):
 
@@ -243,7 +243,7 @@ In therapy for schizophrenia (up to 6 weeks), the most commonly observed adverse
 
 In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (53%), dizziness (18%), fatigue (11%), increased appetite (9%), nausea (8%), vomiting (8%), tachycardia (7%), dry mouth (7%), and weight increased (6%).
 
-In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were dizziness 7%, diarrhea 5%, fatigue 5% and nausea 5%.
+In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were dizziness (7%), diarrhea (5%), fatigue (5%) and nausea (5%).
 
 Adverse Reactions Occurring at an Incidence of ≥ 2% Among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials
 
@@ -267,7 +267,7 @@ Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Tri
 | Arthralgia | 1% | 3% | 0% |
 | Asthenia | 1% | 3% | 1% |
 | Back Pain | 1% | 3% | 0% |
-| Dyspnoea | 0% | 3% | 0% |
+| Dyspnea | 0% | 3% | 0% |
 | Abdominal Pain | 3% | 1% | 0% |
 | Anorexia | 3% | 1% | 0% |
 | Tooth Abscess | 3% | 1% | 0% |
@@ -291,7 +291,7 @@ Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for th
 
 | Preferred Term | SEROQUEL400 mg(n=95) | SEROQUEL600 mg(n=98) | Placebo(n=90) |
 | --- | --- | --- | --- |
-| SomnolenceSomolence combines adverse reactions terms somnolence and sedation. | 50% | 57% | 14% |
+| SomnolenceSomnolence combines adverse reactions terms somnolence and sedation. | 50% | 57% | 14% |
 | Dizziness | 19% | 17% | 2% |
 | Nausea | 6% | 10% | 4% |
 | Fatigue | 14% | 9% | 4% |
@@ -328,7 +328,7 @@ Table 15 presents a listing of patients with adverse reactions potentially assoc
 
 In Tables 15 – 16 dystonic event included nuchal rigidity, hypertonia and, muscle rigidity; parkinsonism included cogwheel rigidity and, tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia and, choreoathetosis; and other extrapyramidal event included restlessness and, extrapyramidal disorder.
 
-Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
+Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
 
 | Preferred Term | SEROQUEL400 mg/day(N=73) |  | SEROQUEL800 mg/day(N=74) |  | AllSEROQUEL(N=147) |  | Placebo(N=75) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -388,8 +388,7 @@ Laboratory Changes:
 
 Neutrophil Counts
 
-Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo.
-[see Warnings and Precautions (5.9)].
+Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.9)].
 
 Transaminase Elevations
 
