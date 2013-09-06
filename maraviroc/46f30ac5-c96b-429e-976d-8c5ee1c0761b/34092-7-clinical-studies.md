@@ -9,7 +9,7 @@ Trials A4001027 and A4001028 were double-blind, randomized, placebo-controlled, 
 Subjects were required to have an HIV-1 RNA of greater than 5,000 copies/mL despite at least 6 months of prior therapy with at least 1 agent from 3 of the 4 antiretroviral drug classes (≥1 NRTI, ≥1 NNRTI, ≥2 PIs, and/or enfuvirtide) or documented resistance to at least 1 member of each class.
 All subjects received an optimized background regimen consisting of 3 to 6 antiretroviral agents (excluding low-dose ritonavir) selected on the basis of the subject’s prior treatment history and baseline genotypic and phenotypic viral resistance measurements.
 In addition to the optimized background regimen, subjects were then randomized in a 2:2:1 ratio to SELZENTRY 300 mg once daily, SELZENTRY 300 mg twice daily, or placebo.
-Doses were adjusted based on background therapy as described in Dosing and Administration, Table 1.
+Doses were adjusted based on background therapy as described in Dosing and Administration (2), Table 1.
 
 In the pooled analysis for A4001027 and A4001028, the demographics and baseline characteristics of the treatment groups were comparable (Table 12).
 Of the 1,043 subjects with a CCR5 tropism result at screening, 7.6% had a dual/mixed-tropism result at the baseline visit 4 to 6 weeks later.
@@ -122,16 +122,16 @@ Table 15: Trial Outcome (Snapshot) at Week 96 Using Enhanced Sensitivity Assaya
 | --- | --- | --- |
 | Virologic Responders: (HIV-1 RNA <400 copies/mL) | 199 (64) | 195 (64) |
 | Virologic Failure: |  |  |
-| Non-sustained HIV-1 RNA suppression | 39 (13) | 22 (7) |
-| HIV-1 RNA never suppressed | 9 (3) | 1 (<1) |
+| •Non-sustained HIV-1 RNA suppression | 39 (13) | 22 (7) |
+| •HIV-1 RNA never suppressed | 9 (3) | 1 (<1) |
 | Virologic Responders:(HIV-1 RNA <50 copies/mL) | 183 (59) | 190 (63) |
 | Virologic Failure: |  |  |
-| Non-sustained HIV-1 RNA suppression | 43 (14) | 25 (8) |
-| HIV-1 RNA never suppressed | 21 (7) | 3 (1) |
+| •Non-sustained HIV-1 RNA suppression | 43 (14) | 25 (8) |
+| •HIV-1 RNA never suppressed | 21 (7) | 3 (1) |
 | Discontinuations due to: |  |  |
-| Adverse events | 19 (6) | 47 (16) |
-| Death | 2 (1) | 2 (1) |
-| Otherc | 43 (14) | 36 (12) |
+| •Adverse events | 19 (6) | 47 (16) |
+| •Death | 2 (1) | 2 (1) |
+| •Otherc | 43 (14) | 36 (12) |
 
 aThe total number of subjects (Ns) in Table 15 represents the subjects who had a CCR5-tropic virus in the reanalysis of screening samples using the more sensitive tropism assay.
 This reanalysis reclassified approximately 15% of subjects shown in Table 14 as having dual/mixed- or CXCR4-tropic virus.

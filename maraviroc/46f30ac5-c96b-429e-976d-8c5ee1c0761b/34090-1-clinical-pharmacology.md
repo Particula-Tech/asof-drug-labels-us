@@ -6,7 +6,7 @@ Maraviroc is an antiviral drug [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-Exposure-Response Relationship in Treatment-Experienced Subjects: The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 9 samples per patient taken on up to 7 visits), and virologic response was evaluated in 973 treatment-experienced HIV-1-infected subjects with varied optimized background antiretroviral regimens in Trials A4001027 and A4001028.
+Exposure-Response Relationship in Treatment-Experienced Subjects: The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 9 samples per subject taken on up to 7 visits), and virologic response was evaluated in 973 treatment-experienced HIV-1-infected subjects with varied optimized background antiretroviral regimens in Trials A4001027 and A4001028.
 The Cmin, baseline viral load, baseline CD4+ cell count, and overall sensitivity score (OSS) were found to be important predictors of virologic success (defined as viral load <400 copies/mL at 24 weeks).
 Table 7 illustrates the proportions of subjects with virologic success (%) within each Cmin quartile for 150-mg twice-daily and 300-mg twice-daily groups.
 
@@ -15,14 +15,14 @@ Treatment-Experienced Subjects With Virologic Success by Cmin Quartile (Q1-Q4)
 
 |  | 150 mg Twice Daily (With CYP3A Inhibitors) |  |  | 300 mg Twice Daily (Without CYP3A Inhibitors) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | n | Median Cmin | % Subjects With Virologic Success | n | Median Cmin | % Subjects With Virologic Success |
+|  | N | Median Cmin | % Subjects With Virologic Success | N | Median Cmin | % Subjects With Virologic Success |
 | Placebo | 160 | - | 30.6 | 35 | - | 28.6 |
 | Q1 | 78 | 33 | 52.6 | 22 | 13 | 50.0 |
 | Q2 | 77 | 87 | 63.6 | 22 | 29 | 68.2 |
 | Q3 | 78 | 166 | 78.2 | 22 | 46 | 63.6 |
 | Q4 | 78 | 279 | 74.4 | 22 | 97 | 68.2 |
 
-Exposure-Response Relationship in Treatment-Naive Subjects: The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 12 samples per patient taken on up to 8 visits), and virologic response was evaluated in 294 treatment-naive HIV-1-infected subjects receiving maraviroc 300 mg twice daily in combination with zidovudine/lamivudine in Trial A4001026.
+Exposure-Response Relationship in Treatment-Naive Subjects: The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 12 samples per subject taken on up to 8 visits), and virologic response was evaluated in 294 treatment-naive HIV-1-infected subjects receiving maraviroc 300 mg twice daily in combination with zidovudine/lamivudine in Trial A4001026.
 Table 8 illustrates the proportion (%) of subjects with virologic success <50 copies/mL at 48 weeks within each Cmin quartile for the 300-mg twice-daily dose.
 
 Table 8.
@@ -30,7 +30,7 @@ Treatment-Naive Subjects With Virologic Success by Cmin Quartile (Q1-Q4)
 
 |  | 300 mg Twice Daily |  |  |
 | --- | --- | --- | --- |
-|  | n | Median Cmin | % Subjects With Virologic Success |
+|  | N | Median Cmin | % Subjects With Virologic Success |
 | Q1 | 75 | 23 | 57.3 |
 | Q2 | 72 | 39 | 72.2 |
 | Q3 | 73 | 56 | 74.0 |
@@ -87,7 +87,7 @@ Maraviroc was the major component present in urine (mean of 8% dose) and feces (
 The remainder was excreted as metabolites.
 
 Hepatic Impairment: Maraviroc is primarily metabolized and eliminated by the liver.
-A trial compared the pharmacokinetics of a single 300‑mg dose of SELZENTRY in subjects with mild (Child‑Pugh Class A, n = 8), and moderate (Child‑Pugh Class B, n = 8) hepatic impairment to pharmacokinetics in healthy subjects (n = 8).
+A trial compared the pharmacokinetics of a single 300‑mg dose of SELZENTRY in subjects with mild (Child‑Pugh Class A, n = 8), and moderate (Child‑Pugh Class B, n = 8) hepatic impairment with pharmacokinetics in healthy subjects (n = 8).
 The mean Cmax and AUC were 11% and 25% higher, respectively, for subjects with mild hepatic impairment, and 32% and 46% higher, respectively, for subjects with moderate hepatic impairment compared with subjects with normal hepatic function.
 These changes do not warrant a dose adjustment.
 Maraviroc concentrations are higher when SELZENTRY 150 mg is administered with a potent CYP3A inhibitor compared with following administration of 300 mg without a CYP3A inhibitor, so patients with moderate hepatic impairment who receive SELZENTRY 150 mg with a potent CYP3A inhibitor should be monitored closely for maraviroc‑associated adverse events.
@@ -99,9 +99,9 @@ Hemodialysis had a minimal effect on maraviroc clearance and exposure in subject
 Exposures observed in subjects with severe renal impairment and ESRD were within the range observed in previous 300‑mg single‑dose trials of SELZENTRY in healthy volunteers with normal renal function.
 However, maraviroc exposures in the subjects with normal renal function in this trial were 50% lower than that observed in previous trials.
 Based on the results of this trial, no dose adjustment is recommended for patients with renal impairment receiving SELZENTRY without a potent CYP3A inhibitor or inducer.
-However, if patients with severe renal impairment or ESRD experience any symptoms of postural hypotension while taking SELZENTRY 300 mg twice daily, their dose should be reduced to 150 mg twice daily [see Dosage and Administration (2.2); Warnings and Precautions (5.2)].
+However, if patients with severe renal impairment or ESRD experience any symptoms of postural hypotension while taking SELZENTRY 300 mg twice daily, their dose should be reduced to 150 mg twice daily [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
-In addition, the trial compared the pharmacokinetics of multiple‑dose SELZENTRY in combination with saquinavir/ritonavir 1,000/100 mg twice daily (a potent CYP3A inhibitor combination) for 7 days in subjects with mild renal impairment (CLcr >50 and 80 mL/min, n = 6) and moderate renal impairment (CLcr 30 and 50 mL/min, n = 6) to healthy volunteers with normal renal function (n = 6).
+In addition, the trial compared the pharmacokinetics of multiple‑dose SELZENTRY in combination with saquinavir/ritonavir 1,000/100 mg twice daily (a potent CYP3A inhibitor combination) for 7 days in subjects with mild renal impairment (CLcr >50 and ≤80 mL/min, n = 6) and moderate renal impairment (CLcr ≥30 and ≤50 mL/min, n = 6) with healthy volunteers with normal renal function (n = 6).
 Subjects received 150 mg of SELZENTRY at different dose frequencies (healthy volunteers – every 12 hours; mild renal impairment – every 24 hours; moderate renal impairment – every 48 hours).
 Compared with healthy volunteers (dosed every 12 hours), geometric mean ratios for maraviroc AUCtau, Cmax, and Cmin were 50% higher, 20% higher, and 43% lower, respectively, for subjects with mild renal impairment (dosed every 24 hours).
 Geometric mean ratios for maraviroc AUCtau, Cmax, and Cmin were 16% higher, 29% lower, and 85% lower, respectively, for subjects with moderate renal impairment (dosed every 48 hours) compared with healthy volunteers (dosed every 12 hours).
@@ -209,10 +209,10 @@ Development of Resistance to Maraviroc or Efavirenz and Background Drugs in Anti
 | Total N in dataset (as-treated) | 273 | 241 |
 | Total virologic failures (as-treated) | 85 (31%) | 56 (23%) |
 | Evaluable virologic failures with post baseline genotypic and phenotypic data | 73 | 43 |
-| Lamivudine resistance | 39 (53%) | 13 (30%) |
-| Zidovudine resistance | 2 (3%) | 0 |
-| Efavirenz resistance | -- | 23 (53%) |
-| Phenotypic resistance to maraviroca | 19 (26 %) |  |
+| •Lamivudine resistance | 39 (53%) | 13 (30%) |
+| •Zidovudine resistance | 2 (3%) | 0 |
+| •Efavirenz resistance | -- | 23 (53%) |
+| •Phenotypic resistance to maraviroca | 19 (26 %) |  |
 
 aIncludes subjects failing with CXCR4- or dual/mixed-tropism because these viruses are not intrinsically susceptible to maraviroc.
 
@@ -222,7 +222,7 @@ A clonal analysis of the V3 loop amino acid envelope sequences was performed fro
 Changes in V3 loop amino acid sequence differed between each of these different subjects, even for those infected with the same virus clade suggesting that that there are multiple diverse pathways to maraviroc resistance.
 The subjects who failed with CCR5-tropic virus and without a detectable maraviroc shift in susceptibility were not evaluated for genotypic resistance.
 
-Of the 32 maraviroc virologic failures failing with CCR5-tropic virus, 20(63%) also had genotypic and/or phenotypic resistance to background drugs in the regimen (lamivudine, zidovudine).
+Of the 32 maraviroc virologic failures failing with CCR5-tropic virus, 20 (63%) also had genotypic and/or phenotypic resistance to background drugs in the regimen (lamivudine, zidovudine).
 
 Tropism: In both treatment-experienced and treatment-naive subjects, detection of CXCR4-using virus prior to initiation of therapy has been associated with a reduced virologic response to maraviroc.
 

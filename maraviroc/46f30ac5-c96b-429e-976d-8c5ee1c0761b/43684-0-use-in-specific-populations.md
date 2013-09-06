@@ -52,6 +52,6 @@ Dosage adjustment based on gender is not necessary.
 
 ## 8.9 Race
 
-Population pharmacokinetic analysis of pooled Phase 1/2a data indicated exposure was 26.5% higher in Asians (N = 95) as compared with non-Asians (n = 318).
+Population pharmacokinetic analysis of pooled Phase 1/2a data indicated exposure was 26.5% higher in Asians (n = 95) as compared with non-Asians (n = 318).
 However, a trial designed to evaluate pharmacokinetic differences between Caucasians (n = 12) and Singaporeans (n = 12) showed no difference between these 2 populations.
 No dose adjustment based on race is needed.

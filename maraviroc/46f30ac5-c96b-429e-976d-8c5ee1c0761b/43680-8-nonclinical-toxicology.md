@@ -8,4 +8,4 @@ The highest exposures in rats were approximately 11 times those observed in huma
 
 Mutagenesis: Maraviroc was not genotoxic in the reverse mutation bacterial test (Ames test in Salmonella and E. coli), a chromosome aberration test in human lymphocytes and rat bone marrow micronucleus test.
 
-Impairment of Fertility: Maraviroc did not impair mating or fertility of male or female rats and did not affect sperm of treated male rats at approximately 20-fold higher exposures (AUC) than in humans given the recommended 300-mg twice daily dose.
+Impairment of Fertility: Maraviroc did not impair mating or fertility of male or female rats and did not affect sperm of treated male rats at approximately 20-fold higher exposures (AUC) than in humans given the recommended 300-mg twice-daily dose.

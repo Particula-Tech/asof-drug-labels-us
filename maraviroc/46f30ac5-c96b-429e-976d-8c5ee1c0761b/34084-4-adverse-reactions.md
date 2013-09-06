@@ -2,9 +2,9 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Hepatotoxicity [see Boxed Warning, Warnings and Precautions (5.1)]
-- Severe Skin and Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
-- Cardiovascular events [see Warnings and Precautions (5.3)]
+- •Hepatotoxicity [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Severe Skin and Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- •Cardiovascular events [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -33,7 +33,7 @@ Treatment-emergent adverse events, regardless of causality, from A4001027 and A4
 Selected events occurring at ≥2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on placebo are not displayed.
 
 Table 3.
-Percentage of Subjects With Selected Treatment-Emergent Adverse Events (All Causality)(≥2% on SELZENTRY and at a higher rate compared with placebo) Trials A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
+Percentage of Subjects With Selected Treatment-Emergent Adverse Events (All Causality) ≥2% on SELZENTRY (and at a higher rate compared with placebo) Trials A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
 
 |  | SELZENTRYTwice Dailya |  | Placebo |  |
 | --- | --- | --- | --- | --- |
@@ -115,7 +115,7 @@ aPercentages based on total subjects evaluated for each laboratory parameter.
 
 ULN=upper limit of normal.
 
-Trial in Treatment‑Naive Subjects: Treatment‑Emergent Adverse Events:Treatment‑emergent adverse events, regardless of causality, from Trial A4001026, a double‑blind, comparative, controlled trial in which 721 treatment‑naive subjects received SELZENTRY 300 mg twice daily (N = 360) or efavirenz (N = 361) in combination with zidovudine/lamivudine for 96 weeks, are summarized in Table 5.
+Trial in Treatment‑Naive Subjects: Treatment‑Emergent Adverse Events: Treatment‑emergent adverse events, regardless of causality, from Trial A4001026, a double‑blind, comparative, controlled trial in which 721 treatment‑naive subjects received SELZENTRY 300 mg twice daily (N = 360) or efavirenz (N = 361) in combination with zidovudine/lamivudine for 96 weeks, are summarized in Table 5.
 Selected events occurring in ≥2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on efavirenz are not displayed.
 
 Table 5.
