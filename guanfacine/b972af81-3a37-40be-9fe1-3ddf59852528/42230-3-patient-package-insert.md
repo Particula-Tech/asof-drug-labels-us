@@ -122,4 +122,4 @@ In addition, the 3mg and 4mg tablets also contain green pigment blend PB-1763.
 
 Manufactured for Shire US Inc., Wayne, PA 19087.
 INTUNIV® is a registered trademark of Shire LLC. ©2013 Shire US Inc. This product is covered by US patents including 6,287,599; 6,811,794.
-Version: 02 2013
+Version: 08 2013

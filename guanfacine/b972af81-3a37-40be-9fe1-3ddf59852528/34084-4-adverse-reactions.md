@@ -98,7 +98,7 @@ Table 4 includes additional adverse reactions observed in short-term, placebo-co
 
 | Table 4: Other adverse reactions observed in clinical studies |  |
 | --- | --- |
-| Body System | Adverse Reactions |
+| Body System | Adverse Reaction |
 | Cardiac | Atrioventricular block, sinus arrhythmia |
 | Gastrointestinal | Dyspepsia, stomach discomfort, vomiting |
 | General | Asthenia, chest pain |
@@ -132,7 +132,7 @@ Eye Disorders: blurred vision
 
 Musculo-Skeletal System: arthralgia, leg cramps, leg pain, myalgia
 
-Psychiatric: confusion
+Psychiatric: confusion, hallucinations
 
 Reproductive System, Male: impotence
 
