@@ -27,10 +27,8 @@ Patients who have a lipid disorder and are breastfeeding should be advised to di
 
 Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
+For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2001-2012 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 02/2013
-
-USPI-T-06531302R025
+uspi-mk0653-t-1308r026

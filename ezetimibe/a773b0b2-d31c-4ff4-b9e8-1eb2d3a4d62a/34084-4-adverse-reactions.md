@@ -14,7 +14,7 @@ The most common adverse reactions in the group of patients treated with ZETIA th
 
 The most commonly reported adverse reactions (incidence ≥2% and greater than placebo) in the ZETIA monotherapy controlled clinical trial database of 2396 patients were: upper respiratory tract infection (4.3%), diarrhea (4.1%), arthralgia (3.0%), sinusitis (2.8%), and pain in extremity (2.7%).
 
-Statin Co-Administration Studies: In the ZETIA + statin controlled clinical trials database of 11,308 patients with a median treatment duration of 8 weeks (range 0 to 112 weeks), 4.0% of patients on ZETIA + statin and 3.3% of patients on statin alone discontinued due to adverse reactions.
+Statin Coadministration Studies: In the ZETIA + statin controlled clinical trials database of 11,308 patients with a median treatment duration of 8 weeks (range 0 to 112 weeks), 4.0% of patients on ZETIA + statin and 3.3% of patients on statin alone discontinued due to adverse reactions.
 The most common adverse reactions in the group of patients treated with ZETIA + statin that led to treatment discontinuation and occurred at a rate greater than statin alone were:
 
 - Alanine aminotransferase increased (0.6%)
@@ -60,7 +60,7 @@ The incidence of consecutive increased transaminases (≥3 × ULN) was higher in
 
 Clinical adverse reactions reported in ≥2% of patients treated with ZETIA + statin and at an incidence greater than statin, regardless of causality assessment, are shown in Table 2.
 
-TABLE 2: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with ZETIA Co-Administered with a Statin and at an Incidence Greater than Statin, Regardless of Causality
+TABLE 2: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with ZETIA Coadministered with a Statin and at an Incidence Greater than Statin, Regardless of Causality
 
 | Body System/Organ Class Adverse Reaction | All StatinsAll Statins = all doses of all statins (%) n = 9361 | ZETIA + All Statins (%) n = 11,308 |
 | --- | --- | --- |
@@ -80,11 +80,11 @@ TABLE 2: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with 
 
 Combination with Fenofibrate
 
-This clinical study involving 625 patients with mixed dyslipidemia (age range 20–76 years, 44% women, 79% Caucasians, 0.1% Blacks, 11% Hispanics, 5% Asians) treated for up to 12 weeks and 576 patients treated for up to an additional 48 weeks evaluated co-administration of ZETIA and fenofibrate.
+This clinical study involving 625 patients with mixed dyslipidemia (age range 20–76 years, 44% women, 79% Caucasians, 0.1% Blacks, 11% Hispanics, 5% Asians) treated for up to 12 weeks and 576 patients treated for up to an additional 48 weeks evaluated coadministration of ZETIA and fenofibrate.
 This study was not designed to compare treatment groups for infrequent events.
-Incidence rates (95% CI) for clinically important elevations (≥3 × ULN, consecutive) in hepatic transaminase levels were 4.5% (1.9, 8.8) and 2.7% (1.2, 5.4) for fenofibrate monotherapy (n=188) and ZETIA co-administered with fenofibrate (n=183), respectively, adjusted for treatment exposure.
-Corresponding incidence rates for cholecystectomy were 0.6% (95% CI: 0.0%, 3.1%) and 1.7% (95% CI: 0.6%, 4.0%) for fenofibrate monotherapy and ZETIA co-administered with fenofibrate, respectively [see Drug Interactions (7.3)].
-The numbers of patients exposed to co-administration therapy as well as fenofibrate and ezetimibe monotherapy were inadequate to assess gallbladder disease risk.
+Incidence rates (95% CI) for clinically important elevations (≥3 × ULN, consecutive) in hepatic transaminase levels were 4.5% (1.9, 8.8) and 2.7% (1.2, 5.4) for fenofibrate monotherapy (n=188) and ZETIA coadministered with fenofibrate (n=183), respectively, adjusted for treatment exposure.
+Corresponding incidence rates for cholecystectomy were 0.6% (95% CI: 0.0%, 3.1%) and 1.7% (95% CI: 0.6%, 4.0%) for fenofibrate monotherapy and ZETIA coadministered with fenofibrate, respectively [see Drug Interactions (7.3)].
+The numbers of patients exposed to coadministration therapy as well as fenofibrate and ezetimibe monotherapy were inadequate to assess gallbladder disease risk.
 There were no CPK elevations >10 × ULN in any of the treatment groups.
 
 ## 6.2 Post-Marketing Experience

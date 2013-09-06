@@ -11,7 +11,7 @@ ZETIA can be administered with or without food.
 ZETIA may be administered with a statin (in patients with primary hyperlipidemia) or with fenofibrate (in patients with mixed hyperlipidemia) for incremental effect.
 For convenience, the daily dose of ZETIA may be taken at the same time as the statin or fenofibrate, according to the dosing recommendations for the respective medications.
 
-## 2.3 Co-Administration with Bile Acid Sequestrants
+## 2.3 Coadministration with Bile Acid Sequestrants
 
 Dosing of ZETIA should occur either ≥2 hours before or ≥4 hours after administration of a bile acid sequestrant [see Drug Interactions (7.4)].
 

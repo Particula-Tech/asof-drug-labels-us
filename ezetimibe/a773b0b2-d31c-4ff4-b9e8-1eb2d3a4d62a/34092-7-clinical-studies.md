@@ -113,10 +113,10 @@ Combination with Fenofibrate
 
 In a multicenter, double-blind, placebo-controlled, clinical study in patients with mixed hyperlipidemia, 625 patients were treated for up to 12 weeks and 576 for up to an additional 48 weeks.
 Patients were randomized to receive placebo, ZETIA alone, 160-mg fenofibrate alone, or ZETIA and 160-mg fenofibrate in the 12-week study.
-After completing the 12-week study, eligible patients were assigned to ZETIA co-administered with fenofibrate or fenofibrate monotherapy for an additional 48 weeks.
+After completing the 12-week study, eligible patients were assigned to ZETIA coadministered with fenofibrate or fenofibrate monotherapy for an additional 48 weeks.
 
-ZETIA co-administered with fenofibrate significantly lowered total-C, LDL-C, Apo B, and non-HDL-C compared to fenofibrate administered alone.
-The percent decrease in TG and percent increase in HDL-C for ZETIA co-administered with fenofibrate were comparable to those for fenofibrate administered alone (see Table 12).
+ZETIA coadministered with fenofibrate significantly lowered total-C, LDL-C, Apo B, and non-HDL-C compared to fenofibrate administered alone.
+The percent decrease in TG and percent increase in HDL-C for ZETIA coadministered with fenofibrate were comparable to those for fenofibrate administered alone (see Table 12).
 
 TABLE 12: Response to ZETIA and Fenofibrate Initiated Concurrently in Patients with Mixed Hyperlipidemia (MeanFor triglycerides, median % change from baseline. % Change from Untreated BaselineBaseline - on no lipid-lowering drug. at 12 weeks)
 
@@ -127,7 +127,7 @@ TABLE 12: Response to ZETIA and Fenofibrate Initiated Concurrently in Patients w
 | Fenofibrate 160 mg | 188 | -11 | -6 | -15 | -43 | +19 | -16 |
 | ZETIA + Fenofibrate 160 mg | 183 | -22 | -20 | -26 | -44 | +19 | -30 |
 
-The changes in lipid endpoints after an additional 48 weeks of treatment with ZETIA co-administered with fenofibrate or with fenofibrate alone were consistent with the 12-week data displayed above.
+The changes in lipid endpoints after an additional 48 weeks of treatment with ZETIA coadministered with fenofibrate or with fenofibrate alone were consistent with the 12-week data displayed above.
 
 ## 14.2 Homozygous Familial Hypercholesterolemia (HoFH)
 

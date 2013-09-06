@@ -12,11 +12,11 @@ In patients treated with cyclosporine, the potential effects of the increased ex
 
 ## 7.2 Fibrates
 
-The efficacy and safety of co-administration of ezetimibe with fibrates other than fenofibrate have not been studied.
+The efficacy and safety of coadministration of ezetimibe with fibrates other than fenofibrate have not been studied.
 
 Fibrates may increase cholesterol excretion into the bile, leading to cholelithiasis.
 In a preclinical study in dogs, ezetimibe increased cholesterol in the gallbladder bile [see Nonclinical Toxicology (13.2)].
-Co-administration of ZETIA with fibrates other than fenofibrate is not recommended until use in patients is adequately studied.
+Coadministration of ZETIA with fibrates other than fenofibrate is not recommended until use in patients is adequately studied.
 
 ## 7.3 Fenofibrate
 
