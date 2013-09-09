@@ -4,9 +4,9 @@
 
 Hypersensitivity reactions, including anaphylaxis and bronchospasm, have been reported in patients who have exhibited hypersensitivity to other selective 5-HT3 receptor antagonists.
 
-## 5.2 Electrocardiographic Changes
+## 5.2 QT Prolongation
 
-ECG changes including QT interval prolongation have been seen in patients receiving ondansetron.
+Ondansetron prolongs the QT interval in a dose-dependent manner [see Clinical Pharmacology 12.2].
 In addition, post-marketing cases of Torsade de Pointes have been reported in patients using ondansetron.
 Avoid Ondansetron in patients with congenital long QT syndrome.
 ECG monitoring is recommended in patients with electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia), congestive heart failure, bradyarrhythmias, or patients taking other medicinal products that lead to QT prolongation.
