@@ -31,18 +31,18 @@ Important Administration Instructions:
 - In order to maintain its controlled-release properties, it should not be chewed or crushed.
 - Oleptro should be taken at the same time every day, in the late evening preferably at bedtime, on an empty stomach.
 
-Angelini Labopharm LLC
+Angelini Pharma Inc.
 
-Princeton, NJ
+Gaithersburg, MD
 
-© 2012, Angelini Labopharm.
+© 2013, Angelini Pharma Inc.
 
 All rights reserved.
 
 U.S. Patent Nos. 6,607,748, 7,829,120 and 8,133,893
 
-Oleptro™ is a trademark of Angelini Labopharm LLC.
+Oleptro™ is a trademark of Angelini Pharma Inc.
 
-Contramid® is a registered trademark of Labopharm Inc.
+Contramid® is a registered trademark of Paladin Labs Inc.
 
-[September 2012]
+[August 2013]

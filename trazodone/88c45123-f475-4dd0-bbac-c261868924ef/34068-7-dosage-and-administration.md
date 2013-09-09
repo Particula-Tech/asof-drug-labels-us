@@ -19,7 +19,8 @@ Patients should be maintained on the lowest effective dose and be periodically r
 
 ## 2.3 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Oleptro Conversely, at least 14 days should be allowed after stopping Oleptro before starting an MAOI intended to treat psychiatric disorders [see CONTRAINDICATIONS (4.1)].
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Oleptro.
+Conversely, at least 14 days should be allowed after stopping Oleptro before starting an MAOI intended to treat psychiatric disorders [see CONTRAINDICATIONS (4.1)].
 
 ## 2.4 Use of Oleptro with Other MAOIs such as Linezolid or Methylene Blue
 

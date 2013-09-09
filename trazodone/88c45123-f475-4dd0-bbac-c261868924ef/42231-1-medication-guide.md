@@ -181,18 +181,18 @@ Inactive ingredients: hydroxypropyl distarch phosphate (Contramid®), hypromello
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Angelini Labopharm LLC
+Angelini Pharma Inc.
 
-Princeton, NJ 08540
+Gaithersburg, MD 20877
 
-© 2012, Angelini Labopharm LLC.
+© 2013, Angelini Pharma Inc.
 
 All rights reserved.
 
 U.S. Patent Nos. 6,607,748, 7,829,120 and 8,133,893
 
-Oleptro™ is a trademark of Angelini Labopharm LLC.
+Oleptro™ is a trademark of Angelini Pharma Inc.
 
-Contramid® is a registered trademark of Labopharm Inc.
+Contramid® is a registered trademark of Paladin Labs Inc.
 
-[September 2012]
+[August 2013]

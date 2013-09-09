@@ -2,11 +2,11 @@
 
 ## 7.1 Monoamine Oxidase Inhibitors (MAOIs)
 
-[see Dosage and Administration ( 2.3 and 2.4 ), Contraindications ( 4.1 ), Warnings and Precautions ( 5.2 and 5.8 )]
+[see Dosage and Administration (2.3 and 2.4), Contraindications (4.1), Warnings and Precautions (5.2 and 5.8)]
 
 ## 7.2 Serotonergic Drugs
 
-[see Dosage and Administration ( 2.3 and 2.4 ), Contraindications ( 4.1 ), Warnings and Precautions ( 5.2 )]
+[see Dosage and Administration (2.3 and 2.4), Contraindications (4.1), Warnings and Precautions (5.2)]
 
 ## 7.3 Central Nervous System (CNS) Depressants
 
