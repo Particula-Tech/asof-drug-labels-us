@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-HALAVEN® (HAL-ih-ven)
+HALAVEN™® (HAL-ih-ven)
 
 (eribulin mesylate) Injection
 
@@ -94,9 +94,7 @@ For more information, go to www.HALAVEN.com or call Eisai Inc. at 1-877-873-4724
 
 What are the ingredients in HALAVEN?
 
-Active Ingredients: eribulin mesylate
-
-Inactive Ingredients: ethanol, water
+Active Ingredients: eribulin mesylate Inactive Ingredients: ethanol, water
 
 HALAVEN® is a registered trademark used by Eisai Inc. under license from Eisai R&D Management Co., Ltd.
 
