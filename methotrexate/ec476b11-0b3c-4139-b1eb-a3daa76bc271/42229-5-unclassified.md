@@ -16,19 +16,29 @@ Administration of methotrexate should be delayed until recovery if:
 2.
 Adequate renal function must be documented.
 
-a. Serum creatinine must be normal, and creatinine clearance must be greater than 60 mL/min, before initiation of therapy.
+a. Serum creatinine must be normal, and creatinine clearance must be greater
+
+than 60 mL/min, before initiation of therapy.
 
 b. Serum creatinine must be measured prior to each subsequent course of therapy.
-If serum creatinine has increased by 50% or more compared to a prior value, the creatinine clearance must be measured and documented to be greater than 60 mL/min (even if the serum creatinine is still within the normal range).
+
+If serum creatinine has increased by 50% or more compared to a prior value, the creatinine clearance
+
+must be measured and documented to be greater than 60 mL/min (even if the serum creatinine is still within the normal range).
 
 3.
 Patients must be well hydrated, and must be treated with sodium bicarbonate for urinary alkalinization.
 
 a. Administer 1,000 mL/m2 of intravenous fluid over 6 hours prior to initiation of the methotrexate infusion.
-Continue hydration at 125 mL/m2/hr (3 liters/m2/day) during the methotrexate infusion, and for 2 days after the infusion has been completed.
+
+Continue hydration at 125 mL/m2/hr (3 liters/m2/day) during the methotrexate infusion, and for 2 days after the
+
+infusion has been completed.
 
 b. Alkalinize urine to maintain pH above 7.0 during methotrexate infusion and leucovorin calcium therapy.
-This can be accomplished by the administration of sodium bicarbonate orally or by incorporation into a separate intravenous solution.
+This can be
+
+accomplished by the administration of sodium bicarbonate orally or by incorporation into a separate intravenous solution.
 
 4.
 Repeat serum creatinine and serum methotrexate 24 hours after starting methotrexate and at least once daily until the methotrexate level is below 5x10-8 mol/L (0.05 micromolar).
@@ -124,8 +134,8 @@ For intrathecal injection, reconstitute to a concentration of 1 mg/mL with an ap
 | --- | --- | --- |
 | Normal Methotrexate Elimination | Serum methotrexate level approximately 10 micromolar at 24 hours after administration, 1 micromolar at 48 hours, and less than 0.2 micromolar at 72 hours | 15 mg PO, IM, or IV q 6 hours for 60 hours (10 doses starting at 24 hours after start of methotrexate infusion). |
 | Delayed Late Methotrexate Elimination | Serum methotrexate level remaining above 0.2 micromolar at 72 hours, and more than 0.05 micromolar at 96 hours after administration. | Continue 15 mg PO, IM, or IV q 6 hours, until methotrexate level is less than 0.05 micromolar. |
-| Delayed Early Methotrexate Elimination and/or Evidence of Acute Renal Injury | Serum methotrexate level of 50 micromolar or more at 24 hours, or 5 micromolar or more at 48 hours after administration, OR; a 100% or greater increase in serum creatinine level at 24 hours after methotrexate administration (eg, an increase from 0.5 mg/dL to a level of 1 mg/dL or more). | 150 mg IV q 3 hours, until methotrexate level is less than 1 micromolar; then 15 mg IV q 3 hours, until methotrexate level is less than 0.05 micromolar. |
+| Delayed Early Methotrexate Elimination and/or Evidence of Acute Renal Injury | Serum methotrexate level of 50 micromolar or more at 24 hours, or 5 micromolar or more at 48 hours after administration, OR; a 100% or greater increase in serum creatinine level at 24 hours after methotrexate administration (e.g., an increase from 0.5 mg/dL to a level of 1 mg/dL or more). | 150 mg IV q 3 hours, until methotrexate level is less than 1 micromolar; then 15 mg IV q 3 hours, until methotrexate level is less than 0.05 micromolar. |
 
-451042A
+451042B
 
-Revised: February 2012
+Revised: August 2013
