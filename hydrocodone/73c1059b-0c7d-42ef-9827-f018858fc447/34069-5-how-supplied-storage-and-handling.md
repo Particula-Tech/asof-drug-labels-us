@@ -13,7 +13,7 @@ Hydrocodone Bitartrate and Acetaminophen Tablets USP are supplied as follows:
 | 7.5 mg/750 mg | Bottles of 90 ….……NDC 0406-0360-09 Bottles of 100 ……… NDC 0406-0360-01 Bottles of 500 ……… NDC 0406-0360-05 | 7.5 mg | 750 mg | It is available as a capsule-shaped white tablet debossed with M360 on one side and bisected on the other side. |
 | 10 mg/325 mg | Bottles of 100 …….… NDC 0406-0367-01 Bottles of 500 ….…… NDC 0406-0367-05 Unit Dose (10 x 10) ….. NDC 0406-0367-62 | 10 mg | 325 mg | It is available as a capsule-shaped white tablet debossed with M367 on one side and bisected on the other side. |
 | 10 mg/500 mg | Bottles of 100 …….… NDC 0406-0363-01 Bottles of 500 ……… NDC 0406-0363-05 Unit Dose (10 x 10) …. NDC 0406-0363-62 | 10 mg | 500 mg | It is available as a capsule-shaped white tablet debossed with M363 on one side and bisected on the other side. |
-| 10 mg/650 mg | Bottles of 100 ……..…NDC 0406-0361-01 Bottles of 500 …….… NDC 0406-0361-05 Unit Dose (10 x 10). ….NDC 0406-0361-62 | 10 mg | 650 mg | It is available as a capsule-shaped blue tablet debossed with M361 on one side and bisected on the other side. |
+| 10 mg/650 mg | Bottles of 100 ……..…NDC 0406-0361-01 Bottles of 500 …….… NDC 0406-0361-05 | 10 mg | 650 mg | It is available as a capsule-shaped blue tablet debossed with M361 on one side and bisected on the other side. |
 | 10 mg/660 mg | Bottles of 100 ………. NDC 0406-0362-01 | 10 mg | 660 mg | It is available as a capsule-shaped white tablet debossed with M362 on one side and bisected on the other side. |
 | 10 mg/750 mg | Bottles of 100 ………. NDC 0406-0364-01 | 10 mg | 750 mg | It is available as a capsule-shaped white tablet debossed with M364 on one side and bisected on the other side. |
 
@@ -24,10 +24,14 @@ Protect from light.
 
 A Schedule III controlled drug substance.
 
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
+Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-Mallinckrodt COVIDIEN™
+© 2013 Mallinckrodt.
+
+Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
 Printed in U.S.A.
 
-Rev 01/2013
+Rev 08/2013
+
+Mallinckrodt™ Pharmaceuticals
