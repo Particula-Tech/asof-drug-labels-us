@@ -29,7 +29,7 @@ Open-label, Long-term Study
 An open-label study of MIRVASO topical gel when applied once daily for up to one year was conducted in subjects with persistent (nontransient) facial erythema of rosacea.
 Subjects were allowed to use other rosacea therapies.
 A total of 276 subjects applied MIRVASO topical gel for at least one year.
-The most common adverse events (>4% of subjects) for the entire study were flushing (10%), erythema (8%), rosacea (5%), nasopharyngitis (5%), skin burning sensation (4%), increased intraocular pressure (4%), and headache (4%).
+The most common adverse events (> 4% of subjects) for the entire study were flushing (10%), erythema (8%), rosacea (5%), nasopharyngitis (5%), skin burning sensation (4%), increased intraocular pressure (4%), and headache (4%).
 
 Allergic contact dermatitis
 

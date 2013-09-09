@@ -5,7 +5,7 @@ MIRVASO (Mer-VAY-soe)
 (brimonidine) Topical Gel
 
 Important: MIRVASO® topical gel is for use on the face only.
-Do not use MIRVASO topical gel in your eyes, mouth or vagina.
+Do not use MIRVASO topical gel in your eyes, mouth, or vagina.
 
 Keep MIRVASO topical gel out of the reach of children.
 
@@ -56,8 +56,8 @@ How should I store MIRVASO topical gel?
 Keep MIRVASO topical gel out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, TX 76177 USA
+
+Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, TX 76177 USA
 
 Made in Canada.
 

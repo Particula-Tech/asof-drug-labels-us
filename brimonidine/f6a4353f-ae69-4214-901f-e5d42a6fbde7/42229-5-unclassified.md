@@ -5,7 +5,7 @@ MIRVASO (Mer-VAY-soe)
 (brimonidine) Topical Gel
 
 Important: MIRVASO® topical gel is for use on the face only.
-Do not use MIRVASO topical gel in your eyes, mouth or vagina.
+Do not use MIRVASO topical gel in your eyes, mouth, or vagina.
 Keep MIRVASO topical gel out of the reach of children.
 If anyone, especially a child, accidentally swallows MIRVASO topical gel, they may have serious side effects and need to be treated in a hospital.
 Get medical help right away if you, a child, or anyone else swallows MIRVASO topical gel and has any of these symptoms: • lack of energy, trouble breathing or stops breathing, a slow heart beat, confusion, sweating, restlessness, muscle spasms, or twitching.
@@ -53,7 +53,9 @@ What are the ingredients in MIRVASO topical gel?
 
 Active Ingredient: brimonidine tartrate Inactive Ingredients: carbomer homopolymer type B, glycerin, methylparaben, phenoxyethanol, propylene glycol, purified water, sodium hydroxide, titanium dioxide.
 
-Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, TX 76177 USA Made in Canada.
+Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, TX 76177 USA
+
+Made in Canada.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Issued: August 2013

@@ -12,7 +12,7 @@ Absorption
 The absorption of brimonidine from MIRVASO topical gel was evaluated in a clinical trial in 24 adult subjects with facial erythema associated with rosacea.
 All enrolled subjects received once daily topical application of MIRVASO topical gel 1 gram to the entire face for 29 days.
 Pharmacokinetic assessments were performed on Day 1, Day 15, and Day 29.
-The mean plasma maximum concentration (Cmax) and area under the concentration-time curve (AUC) were highest on Day 15, with Cmax and AUC values (± standard deviation) of 46 ± 62 pg/mL and 417 ± 264 pg.hr/mL respectively.
+The mean plasma maximum concentration (Cmax) and area under the concentration-time curve (AUC) were highest on Day 15, with Cmax and AUC values (± standard deviation) of 46 ± 62 pg/mL and 417 ± 264 pg.hr/mL, respectively.
 The systemic drug exposure was slightly lower on Day 29 indicating no further drug accumulation.
 
 Metabolism
