@@ -13,8 +13,8 @@ Rx only
 
 Keep out of reach of children.
 
-For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
+For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
 
-Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actvis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Content Updated: May 2013 184181-3
+Content Updated: August 2013 184181-3

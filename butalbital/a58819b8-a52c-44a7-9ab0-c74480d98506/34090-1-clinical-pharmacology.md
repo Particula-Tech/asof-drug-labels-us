@@ -15,25 +15,21 @@ Butalbital is well absorbed from the gastrointestinal tract and is expected to d
 Barbiturates in general may appear in breast milk and readily cross the placental barrier.
 They are bound to plasma and tissue proteins to a varying degree and binding increases directly as a function of lipid solubility.
 
-Elimination of butalbital is primarily via the kidney (59%-88% of the dose) as unchanged drug or metabolites.
+Elimination of butalbital is primarily via the kidney (59 to 88% of the dose) as unchanged drug or metabolites.
 The plasma half-life is about 35 hours.
 Urinary excretion products include parent drug (about 3.6% of the dose), 5-isobutyl-5-(2,3-dihydroxypropyl) barbituric acid (about 24% of the dose), 5-allyl-5(3-hydroxy-2-methyl-1-propyl) barbituric acid (about 4.8% of the dose), products with the barbituric acid ring hydrolyzed with excretion of urea (about 14% of the dose), as well as unidentified materials.
 Of the material excreted in the urine, 32% is conjugated.
 
 The in vitro plasma protein binding of butalbital is 45% over the concentration range of 0.5-20 mcg/mL.
-This falls within the range of plasma protein binding (20%-45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium.
-The plasma-to-blood concentration ratio was almost unity indicating that there is no preferential distribution of butalbital into either plasma or blood cells.
-
-See OVERDOSAGE for toxicity information.
+This falls within the range of plasma protein binding (20 to 45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium.
+The plasma-to-blood concentration ratio was almost unity indicating that there is no preferential distribution of butalbital into either plasma or blood cells [see OVERDOSAGE for toxicity information].
 
 Acetaminophen
 
 Acetaminophen is rapidly absorbed from the gastrointestinal tract and is distributed throughout most body tissues.
-The plasma half-life is 1.25-3 hours, but may be increased by liver damage and following overdosage.
+The plasma half-life is 1.25 to 3 hours, but may be increased by liver damage and following overdosage.
 Elimination of acetaminophen is principally by liver metabolism (conjugation) and subsequent renal excretion of metabolites.
-Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug.
-
-See OVERDOSAGE for toxicity information.
+Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug [see OVERDOSAGE for toxicity information].
 
 Caffeine
 
@@ -42,9 +38,7 @@ Like most xanthines, caffeine is rapidly absorbed and distributed in all body ti
 Caffeine is cleared through metabolism and excretion in the urine.
 The plasma half-life is about 3 hours.
 Hepatic biotransformation prior to excretion results in about equal amounts of 1-methylxanthine and 1-methyluric acid.
-Of the 70% of the dose that is recovered in the urine, only 3% is unchanged drug.
-
-See OVERDOSAGE for toxicity information.
+Of the 70% of the dose that is recovered in the urine, only 3% is unchanged drug [see OVERDOSAGE for toxicity information].
 
 Codeine
 
@@ -58,6 +52,4 @@ The elimination of codeine is primarily via the kidneys, and about 90% of an ora
 The urinary secretion products consist of free and glucuronide conjugated codeine (about 70%), free and conjugated norcodeine (about 10%), free and conjugated morphine (about 10%), normorphine (about 4%), and hydrocodone (1%).
 The remainder of the dose is excreted in the feces.
 
-At therapeutic doses, the analgesic effect reaches a peak within 2 hours and persists between 4 and 6 hours.
-
-See OVERDOSAGE for toxicity information.
+At therapeutic doses, the analgesic effect reaches a peak within 2 hours and persists between 4 and 6 hours [see OVERDOSAGE for toxicity information].

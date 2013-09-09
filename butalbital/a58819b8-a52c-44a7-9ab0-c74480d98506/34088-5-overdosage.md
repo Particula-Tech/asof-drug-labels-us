@@ -12,7 +12,7 @@ Convulsions may occur.
 In acetaminophen overdosage: dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
 Renal tubular necrosis, hypoglycemic coma, and coagulation defects may also occur.
 Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis, and general malaise.
-Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48-72 hours post-ingestion.
+Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to72 hours post-ingestion.
 
 Acute caffeine poisoning may cause insomnia, restlessness, tremor, and delirium, tachycardia, and extrasystoles.
 

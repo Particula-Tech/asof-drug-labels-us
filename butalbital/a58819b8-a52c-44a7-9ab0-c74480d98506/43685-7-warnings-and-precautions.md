@@ -11,6 +11,11 @@ The risk of acute liver failure is higher in individuals with underlying liver d
 Instruct patients to look for acetaminophen or APAP on package labels and not to use more than one product that contains acetaminophen.
 Instruct patients to seek medical attention immediately upon ingestion of more than 4000 milligrams of acetaminophen per day, even if they feel well.
 
+Serious Skin Reactions
+
+Rarely, acetaminophen can cause serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+Patients should be informed about the signs of serious skin reactions, and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+
 Death Related to Ultra-Rapid Metabolism of Codeine to Morphine
 
 Respiratory depression and death have occurred in children who received codeine in the post-operative period following tonsillectomy and/or adenoidectomy and had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
@@ -130,8 +135,7 @@ Caution should be exercised when codeine is administered to a nursing woman.
 If a codeine-containing product is selected, the lowest dose should be prescribed for the shortest period of time to achieve the desired clinical effect.
 Mothers using codeine should be informed about when to seek immediate medical care and how to identify the signs and symptoms of neonatal toxicity, such as drowsiness or sedation, difficulty breastfeeding, breathing difficulties, and decreased tone, in their baby.
 Nursing mothers who are ultra-rapid metabolizers may also experience overdose symptoms such as extreme sleepiness, confusion or shallow breathing.
-Prescribers should closely monitor mother-infant pairs and notify treating pediatricians about the use of codeine during breastfeeding.
-(See Warnings – Death Related to Ultra-rapid Metabolism of Codeine to Morphine.)
+Prescribers should closely monitor mother-infant pairs and notify treating pediatricians about the use of codeine during breastfeeding [see WARNINGS – Death Related to Ultra-rapid Metabolism of Codeine to Morphine].
 
 Barbiturates, acetaminophen, and caffeine are also excreted in breast milk in small amounts.
 Because of potential for serious adverse reactions in nursing infants from Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
