@@ -18,7 +18,7 @@ Absorption
 
 The absolute bioavailability of roflumilast following a 500 mcg oral dose is approximately 80%.
 Maximum plasma concentrations (Cmax) of roflumilast typically occur approximately one hour after dosing (ranging from 0.5 to 2 hours) in the fasted state while plateau-like maximum concentrations of the N-oxide metabolite are reached in approximately eight hours (ranging from 4 to 13 hours).
-Food has no affect on total drug absorption, but delays time to maximum concentration (Tmax) of roflumilast by one hour and reduces Cmax by approximately 40%, however, Cmax and Tmax of roflumilast N-oxide are unaffected.
+Food has no effect on total drug absorption, but delays time to maximum concentration (Tmax) of roflumilast by one hour and reduces Cmax by approximately 40%, however, Cmax and Tmax of roflumilast N-oxide are unaffected.
 An in vitro study showed that roflumilast and roflumilast N-oxide did not inhibit P-gp transporter.
 
 Distribution
@@ -89,7 +89,7 @@ No dosage adjustment is necessary for race.
 
 Drug Interactions
 
-Drug interaction studies were performed with roflumilast and other drugs likely to be coadministered or drugs commonly used as probes for pharmacokinetic interaction [see Drug Interactions].
+Drug interaction studies were performed with roflumilast and other drugs likely to be coadministered or drugs commonly used as probes for pharmacokinetic interaction [see Drug Interactions (7)].
 No significant drug interactions were observed when 500 mcg oral roflumilast was administered with inhaled salbutamol, formoterol, budesonide and oral montelukast, digoxin, theophylline, warfarin, sildenafil, midazolam, or antacids.
 
 The effect of concomitant drugs on the exposure of roflumilast and roflumilast N-oxide is shown in the Figure 1 below.
@@ -116,7 +116,7 @@ Cimetidine: In an open-label crossover study in 16 healthy volunteers, the coadm
 
 Oral Contraceptives containing Gestodene and Ethinyl Estradiol:
 
-In an open-label crossover study in 20 healthy adult volunteers, coadministration of a single oral dose of 500 mcg DALIRESP with repeated doses of a fixed combination oral contraceptive containing 0.075 mg gestodene and 0.03 mg ethinyl estradiol to steady state caused a 38% increase and 12 % decrease in Cmax of roflumilast and roflumilast N-oxide, respectively.
+In an open-label crossover study in 20 healthy adult volunteers, coadministration of a single oral dose of 500 mcg DALIRESP with repeated doses of a fixed combination oral contraceptive containing 0.075 mg gestodene and 0.03 mg ethinyl estradiol to steady state caused a 38% increase and 12% decrease in Cmax of roflumilast and roflumilast N-oxide, respectively.
 Roflumilast and roflumilast N-oxide AUCs were increased by 51% and 14%, respectively.
 
 Inducers of CYP enzymes:

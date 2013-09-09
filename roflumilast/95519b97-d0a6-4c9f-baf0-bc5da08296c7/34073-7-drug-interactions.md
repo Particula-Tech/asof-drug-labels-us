@@ -10,8 +10,7 @@ Therefore the use of strong cytochrome P450 inducers (e.g., rifampicin, phenobar
 ## 7.2 Drugs That Inhibit Cytochrome P450 (CYP) Enzymes
 
 The co-administration of DALIRESP (500 mcg) with CYP3A4 inhibitors or dual inhibitors that inhibit both CYP3A4 and CYP1A2 simultaneously (e.g., erythromycin, ketoconazole, fluvoxamine, enoxacin, cimetidine) may increase roflumilast systemic exposure and may result in increased adverse reactions.
-The risk of such concurrent use should be weighed carefully against benefit.
-[see Clinical Pharmacology (12.3)].
+The risk of such concurrent use should be weighed carefully against benefit [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Oral Contraceptives Containing Gestodene and Ethinyl Estradiol
 

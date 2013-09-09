@@ -123,7 +123,7 @@ Active ingredient: roflumilast Inactive ingredients: lactose monohydrate, corn s
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-02/2013
+08/2013
 
 Manufactured by: Takeda GmbH Production Site Oranienburg Lehnitzstrasse 70 – 98 16515 Oranienburg Germany
 

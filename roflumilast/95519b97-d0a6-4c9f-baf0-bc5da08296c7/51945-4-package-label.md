@@ -2,7 +2,7 @@ Principal Display Panel – 30 Tablets Bottle Label
 
 Rx Only NDC 0456-0095-30
 
-Daliresp™
+Daliresp®
 
 (roflumilast) tablets
 

@@ -50,3 +50,9 @@ Musculoskeletal and connective tissue disorders - muscle spasms
 Nervous system disorders - tremor
 
 Psychiatric disorders - anxiety, depression
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified from spontaneous reports of DALIRESP received worldwide and have not been listed elsewhere.
+These adverse reactions have been chosen for inclusion due to a combination of seriousness, frequency of reporting or potential causal connection to DALIRESP.
+Because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to DALIRESP exposure: hypersensitivity reactions including angioedema, urticaria, and rash.
