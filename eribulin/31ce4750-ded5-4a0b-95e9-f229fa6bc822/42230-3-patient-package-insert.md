@@ -101,3 +101,4 @@ HALAVEN® is a registered trademark used by Eisai Inc. under license from Eisai 
 Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677
 
 If you would like a leaflet with larger printing, please contact Eisai Inc. at 1-877-873-4724.
+Revised: August 2013

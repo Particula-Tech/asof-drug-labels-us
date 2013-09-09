@@ -8,3 +8,5 @@ See FDA-Approved Patient Labeling
   [see Warnings and Precautions (5.3) and Use in Specific Populations (8.1)]
 
 Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677
+
+© 2013 Eisai Inc. Revised XX2013
