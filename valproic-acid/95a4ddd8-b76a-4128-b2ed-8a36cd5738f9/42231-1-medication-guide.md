@@ -228,6 +228,6 @@ Noven Therapeutics, LLC Miami, FL 33186
 
 Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
 
-06/2013
+07/2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

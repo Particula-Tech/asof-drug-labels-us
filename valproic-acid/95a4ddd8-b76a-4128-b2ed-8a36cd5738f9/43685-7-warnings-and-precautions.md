@@ -2,24 +2,39 @@
 
 ## 5.1 Hepatotoxicity
 
-Hepatic failure resulting in fatalities has occurred in patients receiving valproic acid.
-These incidents usually have occurred during the first 6 months of treatment.
-Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
+General Information on Hepatotoxicity
+
+Hepatic failure resulting in fatalities has occurred in patients receiving valproate.
+These incidents usually have occurred during the first six months of treatment.
+Serious or fatal hepatotoxicity may be preceded by non specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
-Liver function tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six 6 months.
-However, physicians should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
+Serum liver function tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first sixmonths.
+However, healthcare providers should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
 
-Caution should be observed when administering valproic acid products to patients with a prior history of hepatic disease.
+Caution should be observed when administering valproate products to patients with a prior history of hepatic disease.
 Patients on multiple anticonvulsants, children, those with congenital metabolic disorders, those with severe seizure disorders accompanied by mental retardation, and those with organic brain disease may be at particular risk.
-Experience has indicated that children under the age of two 2 years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions.
+See below, “Patients with known or suspected mitochondrial disease.”
+
+Experience has indicated that children under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions.
 When Stavzor is used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
-Above this age group, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
+In progressively older patient groups experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably.
+
+Patients with Known or Suspected Mitochondrial Disease
+
+Valproate-induced acute liver failure and liver-related deaths have been reported in patients with hereditary neurometabolic syndromes caused by mutations in the gene for mitochondrial DNA polymerase γ (POLG) (e.g., Alpers-Huttenlocher Syndrome) at a higher rate then those without these syndromes.
+Most of the reported cases of liver failure in patients with these syndromes have been identified in children and adolescents.
+
+POLG-related disorders should be suspected in patients with a family history or suggestive symptoms of a POLG-related disorder, including but not limited to unexplained encephalopathy, refractory epilepsy (focal, myoclonic), status epilepticus at presentation, developmental delays, psychomotor regression, axonal sensorimotor neuropathy, myopathy cerebellar ataxia, opthalmoplegia, or complicated migraine with occipital aura.
+POLG mutation testingshould be performed in accordance with current clinical practice for the diagnostic evaluation of such disorders.
+The A467T and W748S mutations, are present in approximately 2/3 of patients with autosomal recessive POLG-related disorders.
+Stavzor is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [see Contraindications].
+In patients over two years of age who are clinically suspected of having a hereditary mitochondrial disease, Stavzor should only be used after other anticonvulsants have failed.
+This older group of patients should be closely monitored during treatment with Stavzor for the development of acute liver injury with regular clinical assessments and serum liver test monitoring
 
 The drug should be discontinued immediately in the presence of significant hepatic dysfunction, suspected or apparent.
-In some cases, hepatic dysfunction has progressed in spite of discontinuation of drug.
-[see Boxed Warning and Contraindications (4)].
+In some cases, hepatic dysfunction has progressed in spite of discontinuation of drug [see Boxed Warning and Contraindications (4)].
 
 ## 5.2 Birth Defects
 
