@@ -20,6 +20,6 @@ Citric Acid, Anhydrous 2.5 mg
 
 Water for Injection 1.0 mL
 
-The pH is adjusted between 2.5 and 4.5 with hydrochloric acid or sodium hydroxide.
+The pH is adjusted between 3.5 and 4.5 with hydrochloric acid or sodium hydroxide.
 
 The sterile solution is nonpyrogenic and can be administered by the intravenous, intramuscular, subcutaneous or intracardiac routes.

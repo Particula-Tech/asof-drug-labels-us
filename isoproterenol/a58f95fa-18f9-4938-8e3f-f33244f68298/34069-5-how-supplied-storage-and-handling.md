@@ -13,8 +13,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 Do not use if the injection is pinkish or darker than slightly yellow or contains a precipitate.
 
-Revised: 03/2013
+Revised: 07/2013
 
-EN-3245
+EN-3306
 
 Hospira, Inc., Lake Forest, IL 60045 USA

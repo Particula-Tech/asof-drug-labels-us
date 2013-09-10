@@ -8,9 +8,7 @@ In a few patients, presumably with organic disease of the AV node and its branch
 
 # PRECAUTIONS
 
-General
-
-Isoproterenol hydrochloride injection should generally be started at the lowest recommended dose.
+General Isoproterenol hydrochloride injection should generally be started at the lowest recommended dose.
 This may be gradually increased if necessary while carefully monitoring the patient.
 Doses sufficient to increase the heart rate to more than 130 beats per minute may increase the likelihood of inducing ventricular arrhythmias.
 Such increases in heart rate will also tend to increase cardiac work and oxygen requirements which may adversely affect the failing heart or the heart with a significant degree of arteriosclerosis.
@@ -26,40 +24,28 @@ Determinations of cardiac output and circulation time may also be helpful.
 Take appropriate measures to ensure adequate ventilation.
 Pay attention to acid-base balance and to the correction of electrolyte disturbances.
 
-Drug Interactions
-
-Isoproterenol hydrochloride injection and epinephrine should not be administered simultaneously because both drugs are direct cardiac stimulants and their combined effects may induce serious arrhythmias.
+Drug Interactions Isoproterenol hydrochloride injection and epinephrine should not be administered simultaneously because both drugs are direct cardiac stimulants and their combined effects may induce serious arrhythmias.
 The drugs may, however, be administered alternately provided a proper interval has elapsed between doses.
 
 Avoid ISUPREL when potent inhalational anesthetics such as halothane are employed because of potential to sensitize the myocardium to effects of sympathomimetic amines.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Long-term studies in animals to evaluate the carcinogenic potential of isoproterenol hydrochloride have not been done.
+Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate the carcinogenic potential of isoproterenol hydrochloride have not been done.
 Mutagenic potential and effect on fertility have not been determined.
 There is no evidence from human experience that isoproterenol hydrochloride injection may be carcinogenic or mutagenic or that it impairs fertility.
 
-Pregnancy Category C
-
-Animal reproduction studies have not been conducted with isoproterenol hydrochloride.
+Pregnancy Category C Animal reproduction studies have not been conducted with isoproterenol hydrochloride.
 It is also not known whether isoproterenol hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Isoproterenol hydrochloride should be given to a pregnant woman only if clearly needed.
 
-Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
+Nursing Mothers It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when isoproterenol hydrochloride injection is administered to a nursing woman.
 
-Pediatric Use
-
-Safety and efficacy of isoproterenol in pediatric patients have not been established.
+Pediatric Use Safety and efficacy of isoproterenol in pediatric patients have not been established.
 
 Intravenous infusions of isoproterenol in refractory asthmatic children at rates of 0.05‑2.7 mcg/kg/min have caused clinical deterioration, myocardial necrosis, congestive heart failure and death.
 The risks of cardiac toxicity appear to be increased by some factors [acidosis, hypoxemia, coadministration of corticosteroids, coadministration of methylxanthines (theophylline, theobromine) or aminophylline] that are especially likely to be present in these patients.
 If I.V. isoproterenol is used in children with refractory asthma, patient monitoring must include continuous assessment of vital signs, frequent electrocardiography, and daily measurements of cardiac enzymes, including CPK-MB.
 
-Geriatric Use
-
-Clinical studies of Isuprel did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects in clinical circumstances.
+Geriatric Use Clinical studies of Isuprel did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects in clinical circumstances.
 There are, however, some data that suggest that elderly healthy or hypertensive patients are less responsive to beta-adrenergic stimulation than are younger subjects.
 In general, dose selection for elderly patients should usually start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant diseases or other drug therapy.
