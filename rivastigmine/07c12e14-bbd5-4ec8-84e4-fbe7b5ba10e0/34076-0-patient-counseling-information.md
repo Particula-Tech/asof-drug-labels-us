@@ -10,13 +10,13 @@ The same site should not be used within 14 days.
 The previous day’s patch must be removed before applying a new patch to a different skin location.
 Exelon Patch should be replaced every 24 hours and the time of day should be consistent.
 It may be helpful for this to be part of a daily routine, such as the daily bath or shower.
-Only one patch should be worn at a time.
+Only 1 patch should be worn at a time.
 
 Instruct patients or caregivers to avoid exposure of the patch to external heat sources (excessive sunlight, saunas, solariums) for long periods of time.
 
 Instruct patients who have missed a dose to apply a new patch immediately.
 They may apply the next patch at the usual time the next day.
-Instruct patients to not apply two patches to make up for one missed.
+Instruct patients to not apply 2 patches to make up for 1 missed.
 
 Inform the patient or caregiver to contact the physician for retitration instructions if treatment has been interrupted.
 
@@ -41,6 +41,6 @@ Patients or caregivers should be instructed to inform a physician if application
 
 Concomitant Use of Drugs with Cholinergic Action
 
-Inform patients or caregivers that while wearing Exelon Patch, patients should not be taking Exelon capsules or Exelon oral solution or other drugs with cholinergic effects.
+Inform patients or caregivers that while wearing Exelon Patch, patients should not be taking Exelon Capsules or Exelon Oral Solution or other drugs with cholinergic effects.
 
-T2013-59 June 2013
+T2013-66 July 2013

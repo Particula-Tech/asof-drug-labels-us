@@ -1,6 +1,6 @@
 Patient Information
 
-Exelon Patch (ECS-‘el-on)
+Exelon (ECS-‘el-on) Patch
 
 (rivastigmine transdermal system)
 
@@ -10,7 +10,7 @@ What is Exelon Patch?
 
 Exelon Patch is a prescription medicine used to treat:
 
-- Mild, moderate and severe memory problems (dementia) associated with Alzheimer’s disease.
+- Mild, moderate, and severe memory problems (dementia) associated with Alzheimer’s disease.
 - Mild to moderate memory problems (dementia) associated with Parkinson’s disease.
 
 Based on clinical trials conducted over 6 to 12 months Exelon Patch was shown to help with cognition which includes (memory, understanding communication, reasoning) and with doing daily tasks.
@@ -100,7 +100,7 @@ How should I use Exelon Patch?
 - If you miss a dose or forget to change your Exelon Patch apply your next Exelon Patch as soon as you remember.
   Do not apply 2 Exelon Patches to make up for the missed dose.
 - If you miss more than 3 doses of applying Exelon Patch, call your healthcare provider before putting on a new Exelon Patch.
-  You may need to re-start Exelon Patch at a lower dose.
+  You may need to restart Exelon Patch at a lower dose.
 - Always remove the old Exelon Patch from the previous day before you apply a new one.
 - Having more than 1 Exelon Patch on your body at the same time can cause you to get too much medicine.
   If you accidentally use more than 1 Exelon Patch at a time, call your healthcare provider right away.
@@ -178,10 +178,10 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about Exelon Patch that is written for health professionals.
 
-For more information, go to www.EXELONPATCH.com or call 1-888-669-6682
+For more information, go to www.EXELONPATCH.com or call 1-888-669-6682.
 
 What are the ingredients of Exelon Patch?
 
 Active ingredient: rivastigmine Excipients include: acrylic copolymer, poly (butylmethacrylate, methylmethacrylate), silicone adhesive applied to a flexible polymer backing film, silicone oil, and vitamin E
 
-T2013-60 June 2013
+T2013-67 July 2013

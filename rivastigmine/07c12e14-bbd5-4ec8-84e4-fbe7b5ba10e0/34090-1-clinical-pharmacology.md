@@ -23,15 +23,15 @@ After the peak, plasma concentrations slowly decrease over the remainder of the 
 At steady state, trough levels are approximately 60 to 80% of peak levels.
 
 Exelon Patch 9.5 mg/24 hours gave exposure approximately the same as that provided by an oral dose of 6 mg twice daily (i.e., 12 mg/day).
-Inter-subject variability in exposure was lower (43 to 49%) for the Exelon Patch formulation as compared with the oral formulations (73 to 103%).
+Inter-subject variability in exposure was lower (43% to 49%) for the Exelon Patch formulation as compared with the oral formulations (73% to 103%).
 Fluctuation (between Cmax and Cmin) is less for Exelon Patch than for the oral formulation of rivastigmine.
 
-Figure 2 displays rivastigmine plasma concentrations over 24 hours for the three available patch strengths.
+Figure 2 displays rivastigmine plasma concentrations over 24 hours for the 3 available patch strengths.
 
 Over a 24-hour dermal application, approximately 50% of the drug content of the patch is released from the system.
 
 Exposure (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the patch was applied to the upper back, chest, or upper arm.
-Two other sites (abdomen and thigh) could be used if none of the three other sites is available, but the practitioner should be aware that the rivastigmine plasma exposure associated with these sites was approximately 20 to 30% lower.
+Two other sites (abdomen and thigh) could be used if none of the 3 other sites is available, but the practitioner should be aware that the rivastigmine plasma exposure associated with these sites was approximately 20% to 30% lower.
 
 There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease with daily dosing.
 
@@ -86,7 +86,7 @@ Age had no impact on the exposure to rivastigmine in Alzheimer’s disease patie
 Gender or Race
 
 No specific pharmacokinetic study was conducted to investigate the effect of gender and race on the disposition of Exelon Patch.
-A population pharmacokinetic analysis of oral rivastigmine indicated that neither gender (n=277 males and 348 females) nor race (n=575 White, 34 Black, 4 Asian, and 12 Other) affected clearance of the drug.
+A population pharmacokinetic analysis of oral rivastigmine indicated that neither gender (n=277 males and 348 females) nor race (n=575 Caucasian, 34 Black, 4 Asian, and 12 Other) affected clearance of the drug.
 Similar results were seen with analyses of pharmacokinetic data obtained after the administration of Exelon Patch.
 
 Smoking

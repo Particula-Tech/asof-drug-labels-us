@@ -20,5 +20,5 @@ Carton of 30………………………NDC 0078-0503-15
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Keep Exelon Patch in the individual sealed pouch until use.
-Each pouch contains one patch.
+Each pouch contains 1 patch.
 Used systems should be folded, with the adhesive surfaces pressed together, and discarded safely.

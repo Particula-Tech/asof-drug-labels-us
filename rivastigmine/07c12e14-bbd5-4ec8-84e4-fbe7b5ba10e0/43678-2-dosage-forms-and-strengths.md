@@ -1,6 +1,6 @@
 # 3DOSAGE FORMS AND STRENGTHS
 
-Exelon Patch is available in three strengths.
+Exelon Patch is available in 3 strengths.
 Each patch has a beige backing layer labeled as either:
 
 - EXELON® PATCH 4.6 mg/24 hours, AMCX

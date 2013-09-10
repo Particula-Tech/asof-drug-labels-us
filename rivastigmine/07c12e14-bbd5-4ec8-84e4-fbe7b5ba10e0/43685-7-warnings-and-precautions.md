@@ -14,11 +14,11 @@ Dehydration may result from prolonged vomiting or diarrhea and can be associated
 The incidence and severity of these reactions are dose-related [see Adverse Reactions (6.1)].
 For this reason, initiate treatment with Exelon Patch at a dose of 4.6 mg/24 hours and titrate to a dose of 9.5 mg/24 hours and then to a dose of 13.3 mg/24 hours, if appropriate [see Dosage and Administration (2.1)].
 
-If treatment is interrupted for more than three days because of intolerance, reinitiate Exelon Patch with the 4.6 mg/24 hours dose to reduce the possibility of severe vomiting and its potentially serious sequelae.
+If treatment is interrupted for more than 3 days because of intolerance, reinitiate Exelon Patch with the 4.6 mg/24 hours dose to reduce the possibility of severe vomiting and its potentially serious sequelae.
 A postmarketing report described a case of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment of an oral formulation of rivastigmine without retitration after 8 weeks of treatment interruption.
 
 Inform caregivers to monitor for gastrointestinal adverse reactions and to inform the physician if they occur.
-It is critical to inform caregivers that if therapy has been interrupted for more than three days because of intolerance, the next dose should not be administered without contacting the physician regarding proper retitration.
+It is critical to inform caregivers that if therapy has been interrupted for more than 3 days because of intolerance, the next dose should not be administered without contacting the physician regarding proper retitration.
 
 ## 5.3 Skin Reactions
 
@@ -41,7 +41,7 @@ Patients and caregivers should be instructed accordingly.
 Neurologic Effects
 
 Extrapyramidal Symptoms: Cholinomimetics, including rivastigmine may exacerbate or induce extrapyramidal symptoms.
-Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with Exelon capsules.
+Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with Exelon Capsules.
 
 Seizures: Drugs that increase cholinergic activity are believed to have some potential for causing seizures.
 However, seizure activity also may be a manifestation of Alzheimer's disease.

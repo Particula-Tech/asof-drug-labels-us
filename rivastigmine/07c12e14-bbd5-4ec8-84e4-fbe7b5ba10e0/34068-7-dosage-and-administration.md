@@ -11,7 +11,7 @@ Dose Titration
 Increase the dose only after a minimum of 4 weeks at the previous dose, and only if the previous dose has been well tolerated.
 For mild to moderate AD and PDD patients continue the recommended effective dose of 9.5 mg/24 hours for as long as therapeutic benefit persists.
 Patients can then be increased to the maximum effective dose of 13.3 mg/24 hours dose.
-For patients with severe AD, 13.3 mg/24hours is the recommended effective dose.
+For patients with severe AD, 13.3 mg/24 hours is the recommended effective dose.
 Doses higher than 13.3 mg/24 hours confer no appreciable additional benefit, and are associated with an increase in the incidence of adverse reactions [see Warnings and Precautions (5.2), Adverse Reactions (6.1)].
 
 Mild to Moderate Alzheimer’s Disease and Mild to Moderate Parkinson’s Disease Dementia
@@ -24,8 +24,8 @@ The effective dosage of Exelon Patch in patients with severe Alzheimer’s disea
 
 Interruption of Treatment
 
-If dosing is interrupted for three days or fewer, restart treatment with the same or lower strength Exelon Patch.
-If dosing is interrupted for more than three days, restart treatment with the 4.6 mg/24 hours Exelon Patch and titrate as described above.
+If dosing is interrupted for 3 days or fewer, restart treatment with the same or lower strength Exelon Patch.
+If dosing is interrupted for more than 3 days, restart treatment with the 4.6 mg/24 hours Exelon Patch and titrate as described above.
 
 ## 2.2 Dosing in Specific Populations
 
@@ -39,7 +39,7 @@ Because rivastigmine blood levels vary with weight [see Use in Specific Populati
 
 ## 2.3 Switching to Exelon Patch from Exelon Capsules or Exelon Oral Solution
 
-Patients treated with Exelon capsules or oral solution may be switched to Exelon Patch as follows:
+Patients treated with Exelon Capsules or Oral Solution may be switched to Exelon Patch as follows:
 
 - A patient who is on a total daily dose of <6 mg of oral rivastigmine can be switched to the 4.6 mg/24 hours Exelon Patch.
 - A patient who is on a total daily dose of 6 mg to 12 mg of oral rivastigmine can be switched to the 9.5 mg/24 hours Exelon Patch.
@@ -62,7 +62,7 @@ Exelon Patch is for transdermal use on intact skin.
 (c) Do not apply to skin that is red, irritated, or cut.
 
 (d) Replace the Exelon Patch with a new patch every 24 hours.
-Instruct patients to only wear one patch at a time (remove the previous day’s patch before applying a new patch) [see Warnings and Precautions (5.1) and Overdosage (10)].
+Instruct patients to only wear 1 patch at a time (remove the previous day’s patch before applying a new patch) [see Warnings and Precautions (5.1) and Overdosage (10)].
 If a patch falls off or if a dose is missed, apply a new patch immediately and then replace this patch the following day at the usual application time.
 
 (e) Change the site of patch application daily to minimize potential irritation, although a new patch can be applied to the same general anatomic site (e.g., another spot on the upper back) on consecutive days.

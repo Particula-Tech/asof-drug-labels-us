@@ -1,6 +1,6 @@
 Instructions for Use
 
-Exelon Patch (ECS-‘el-on)
+Exelon (ECS-‘el-on) Patch
 
 (rivastigmine transdermal system)
 
@@ -29,7 +29,7 @@ Choose an area to apply the Exelon Patch (See Figure B).
 Figure B
 
 The diagram represents areas on the body where Exelon Patch may be applied.
-Only one patch should be worn at a time.
+Only 1 patch should be worn at a time.
 Do not apply multiple patches to the body.
 
 Step 2.
@@ -93,15 +93,13 @@ Figure H
 
 Step 8: Wash your hands with soap and water right away.
 
-- After you remove the Exelon patch, if any adhesive remains on your skin, you can use soap and water or an oil-based substance (such as baby oil) to remove the adhesive.
+- After you remove the Exelon Patch, if any adhesive remains on your skin, you can use soap and water or an oil-based substance (such as baby oil) to remove the adhesive.
   Alcohol or other dissolving liquids (such as nail polish) should not be used.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
-
-Manufactured by: LTS Lohmann Therapy Systems Corporation West Caldwell, New Jersey 07006
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 ©Novartis
 
-T2013-61 June 2013
+T2013-68 July 2013
