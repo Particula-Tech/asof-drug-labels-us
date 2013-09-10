@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Treatment Resistant Schizophrenia
+## 1.1 Treatment-Resistant Schizophrenia
 
 FAZACLO is indicated for the treatment of severely ill patients with schizophrenia who fail to respond adequately to standard antipsychotic treatment.
 Because of the significant risk of agranulocytosis and seizure associated with its use, FAZACLO should be used only in patients who have failed to respond adequately to standard antipsychotic treatment [see Warnings and Precautions (5.1, 5.4)].

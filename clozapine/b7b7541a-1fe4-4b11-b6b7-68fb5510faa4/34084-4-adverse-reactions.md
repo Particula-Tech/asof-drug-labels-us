@@ -61,9 +61,9 @@ The rates are not adjusted for duration of exposure.
 Table 10.
 Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine in the InterSePT™ Study (≥ 10% in the clozapine or olanzapine group)
 
-|  | Clozapine | Olanzapine |
+| Adverse Reactions | Clozapine | Olanzapine |
 | --- | --- | --- |
-| Adverse Reactions | N = 479 | N = 477 |
+|  | N = 479 | N = 477 |
 |  | % Reporting | % Reporting |
 | Salivary hypersecretion | 48% | 6% |
 | Somnolence | 46% | 25% |
@@ -121,7 +121,7 @@ Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
 
 Hemic and Lymphatic System
 
-Deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+Deep vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 
 Vision Disorders
 

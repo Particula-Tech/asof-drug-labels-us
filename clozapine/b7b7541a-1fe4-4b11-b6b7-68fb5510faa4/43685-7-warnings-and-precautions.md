@@ -334,7 +334,7 @@ Consider the possibility of NMS [see Warnings and Precautions (5.10)].
 ## 5.12 Pulmonary Embolism
 
 Pulmonary embolism and deep vein thrombosis have occurred in patients treated with clozapine.
-Consider the possibility of pulmonary embolism in patients who present with deep-vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
+Consider the possibility of pulmonary embolism in patients who present with deep vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
 Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
 ## 5.13 Anticholinergic Toxicity
