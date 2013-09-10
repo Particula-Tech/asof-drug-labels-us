@@ -1,9 +1,7 @@
 {
   "application_numbers": [
     "NDA021165",
-    "NDA021300",
-    "NDA021312",
-    "NDA021563"
+    "NDA021300"
   ],
   "inn": "desloratadine",
   "labeler": "Merck Sharp & Dohme Corp.",
@@ -11,9 +9,7 @@
     "0085-1264-01",
     "0085-1264-02",
     "0085-1334-01",
-    "0085-1334-02",
-    "0085-1384-01",
-    "0085-1408-01"
+    "0085-1334-02"
   ],
   "products": [
     {
@@ -25,11 +21,6 @@
       "form": "TABLET, FILM COATED",
       "generic": "desloratadine",
       "name": "Clarinex"
-    },
-    {
-      "form": "TABLET, ORALLY DISINTEGRATING",
-      "generic": "desloratadine",
-      "name": "Clarinex REDITABS"
     }
   ],
   "setid": "5b79aff4-9bed-429d-8def-a7929293387d",
