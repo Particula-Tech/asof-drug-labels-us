@@ -2,9 +2,15 @@
 
 Oxycodone Hydrochloride Oral Solution
 
-Oxycodone Hydrochloride Oral Solution 20 mg/mL is a yellow solution available in one strength as follows:
+Oxycodone Hydrochloride Oral Solution is available in the following strengths:
 
-100 mg/5 mL (20 mg/mL) oral solution
+5 mg per 5 mL oral solution is red in color
+
+NDC# 64950-354-10 Bottle of 100 mL supplied with a calibrated measuring cup
+
+NDC# 64950-354-50 Bottle of 500 mL supplied with a calibrated measuring cup
+
+100 mg per 5 mL (20 mg per mL) oral solution is yellow in color
 
 NDC# 64950-353-03: Bottle of 30 mL supplied with a calibrated oral syringe
 

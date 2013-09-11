@@ -16,19 +16,25 @@ In these patients, mixed agonist/antagonist analgesics may reduce the analgesic 
 
 ## 7.4 Agents Affecting Cytochrome P450 Enzymes
 
-CYP3A4 Inhibitors A published study showed that the co-administration with voriconazole, a CYP3A4 inhibitor, significantly increased the plasma concentrations of oxycodone.
+CYP3A4 Inhibitors
+
+A published study showed that the co-administration with voriconazole, a CYP3A4 inhibitor, significantly increased the plasma concentrations of oxycodone.
 Inhibition of CYP3A4 activity by its inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may prolong opioid effects.
 If co-administration is necessary, caution is advised when initiating therapy with, currently taking, or discontinuing CYP3A4 inhibitors.
 Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved.
 [see Clinical Pharmacology (12.3)]
 
-CYP3A4 Inducers A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, significantly decreased plasma oxycodone concentrations.
+CYP3A4 Inducers
+
+A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, significantly decreased plasma oxycodone concentrations.
 Induction of CYP3A4 activity by its inducers, such as rifampin, carbamazepine, and phenytoin, may lead to a lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
 If co-administration is necessary, caution is advised when initiating therapy with, currently taking, or discontinuing CYP3A4 inducers.
 Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved.
 [see Clinical Pharmacology (12.3)]
 
-CYP2D6 Inhibitors Oxycodone is metabolized in part to oxymorphone via the cytochrome p450 isoenzyme CYP2D6.
+CYP2D6 Inhibitors
+
+Oxycodone is metabolized in part to oxymorphone via the cytochrome p450 isoenzyme CYP2D6.
 While this pathway may be blocked by a variety of drugs (e.g., certain cardiovascular drugs and antidepressants), such blockade has not yet been shown to be of clinical significance with this agent.
 However, clinicians should be aware of this possible interaction.
 

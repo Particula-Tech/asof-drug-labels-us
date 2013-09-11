@@ -5,13 +5,15 @@
   "inn": "oxycodone",
   "labeler": "Lehigh Valley Technologies, Inc.",
   "package_ndcs": [
-    "64950-353-03"
+    "64950-353-03",
+    "64950-354-10",
+    "64950-354-50"
   ],
   "products": [
     {
       "form": "SOLUTION",
       "generic": "oxycodone hydrochloride",
-      "name": "OXYCODONE HYDROCHLORIDE"
+      "name": "Oxycodone Hydrochloride"
     }
   ],
   "setid": "6869fec9-1837-4221-afd8-5cc6fadd025d",

@@ -6,9 +6,13 @@ Pregnancy Category B: There are no adequate and well-controlled studies of oxyco
 Based on limited human data in the literature, oxycodone does not appear to increase the risk of congenital malformations.
 Because animal reproduction studies are not always predictive of human response, oxycodone should be used during pregnancy only if clearly needed.
 
-Teratogenic effects Reproduction studies in Sprague-Dawley rats and New Zealand rabbits revealed that when oxycodone was administered orally at doses up to 16 mg/kg (approximately 2 times the daily oral dose of 90 mg for adults on a mg/m2 basis) and 25 mg/kg (approximately 5 times the daily oral dose of 90 mg on a mg/m2 basis), respectively, was not teratogenic or embryo-fetal toxic.
+Teratogenic effects
 
-Nonteratogenic effects Neonates whose mothers have taken oxycodone chronically may exhibit respiratory depression and/or withdrawal symptoms, either at birth and/or in the nursery.
+Reproduction studies in Sprague-Dawley rats and New Zealand rabbits revealed that when oxycodone was administered orally at doses up to 16 mg/kg (approximately 2 times the daily oral dose of 90 mg for adults on a mg/m2 basis) and 25 mg/kg (approximately 5 times the daily oral dose of 90 mg on a mg/m2 basis), respectively, was not teratogenic or embryo-fetal toxic.
+
+Nonteratogenic effects
+
+Neonates whose mothers have taken oxycodone chronically may exhibit respiratory depression and / or withdrawal symptoms, either at birth and/or in the nursery.
 
 ## 8.2 Labor and Delivery
 
@@ -41,5 +45,5 @@ Follow a conservative approach to dose initiation in patients with hepatic impai
 
 ## 8.7 Renal Impairment
 
-Information from oxycodone tablets indicate that patients with renal impairment (defined as a creatinine clearance < 60 mL/min) had higher plasma concentrations of oxycodone than subjects with normal renal function.
+Information from oxycodone tablets indicate that patients with renal impairment (defined as a creatinine clearance <60 mL/min) had higher plasma concentrations of oxycodone than subjects with normal renal function.
 Use a conservative approach to dose initiation in patients with renal impairment, monitor patients closely and adjust the dose based on clinical response.

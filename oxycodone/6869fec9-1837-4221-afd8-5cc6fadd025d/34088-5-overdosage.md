@@ -16,13 +16,12 @@ Employ supportive measures (including oxygen and vasopressors) in the management
 Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
 
 The pure opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
-Since the duration of reversal is expected to be less than the duration of action of oxycodone hydrochloride, carefully monitor the patient until spontaneous respiration is reliably reestablished.
+Since the duration of reversal is expected to be less than the duration of action of oxycodone hydrochloride, carefully monitor the patient until spontaneous respiration is reliably re-established.
 If the response to opioid antagonists is suboptimal or only brief in nature, administer additional antagonist as directed by the manufacturer of the product.
 
 Do not administer opioid antagonists in the absence of clinically significant respiratory or circulatory depression secondary to oxycodone overdose.
 Administer such agents cautiously to persons who are known, or suspected to be physically dependent on oxycodone.
 In such cases, an abrupt or complete reversal of opioid effects may precipitate an acute abstinence syndrome.
-
 In an individual physically dependent on opioids, administration of the usual dose of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
 Reserve use of an opioid antagonist for cases where such treatment is clearly needed.

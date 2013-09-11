@@ -1,6 +1,8 @@
-# MEDICATION GUIDE
+# Medication Guide
 
-Oxycodone Hydrochloride (ox-ee-CO-dohn) (CII) Oral Solution
+Oxycodone Hydrochloride (ox-ee-CO-dohn) CII
+
+Oral Solution
 
 | IMPORTANT: Keep Oxycodone Hydrochloride Oral Solution in a safe place away from children. Accidental use by a child is a medical emergency and can cause death. If a child accidentally takes Oxycodone Hydrochloride Oral Solution, get emergency help right away. |
 | --- |
@@ -17,20 +19,23 @@ Oxycodone Hydrochloride Oral solution can cause serious side effects, including,
    If you take the wrong dose or strength of Oxycodone Hydrochloride Oral Solution, you could overdose and die.
 2. It is especially important when you take Oxycodone Hydrochloride Oral Solution that you know exactly what dose and strength to take, and the right way to measure your medicine.
    Your healthcare provider or pharmacist should show you the right way to measure your medicine.
-3. Oral Syringe.
+3. Measuring Cup.
+   Always use the measuring cup provided with Oxycodone Hydrochloride Oral Solution, 5 mg per 5 mL to help make sure you measure the right amount.
+4. Oral Syringe.
    Always use the oral syringe provided with Oxycodone Hydrochloride Oral Solution, 100 mg per 5 mL (20 mg per mL) to help make sure you measure the right amount.
-4. Do not drink alcohol.
+5. Do not drink alcohol.
    Using alcohol with Oxycodone Hydrochloride Oral Solution may increase your risk of dangerous side effects, including death.
-5. Opioid Tolerance.
-   Do not take oxycodone Hydrochloride Oral Solution, 100 mg per 5 mL (20 mg per mL), unless you are “opioid tolerant.”
+6. Opioid Tolerance.
+   Do not take Oxycodone Hydrochloride Oral Solution, 100 mg per 5 mL (20 mg per mL), unless you are “opioid tolerant.”
    Opioid tolerant means that you take another opioid medicine for your constant (around the clock) pain and your body is used to it.
 
 What is Oxycodone Hydrochloride Oral Solution?
 
 Oxycodone Hydrochloride Oral Solution is in a group of drugs called narcotic pain relievers.
+
 Oxycodone Hydrochloride Oral Solution is only for adults who have moderate to severe pain.
 
-- A prescription medicine that is used to manage moderate to severe pain that is expected to last a short period of time (acute), and pain that continues around-the-clock and is expected to last for a long period of time (chronic).
+- Oxycodone Hydrochloride Oral Solution is a prescription medicine that is used to manage moderate to severe pain that is expected to last a short period of time (acute), and pain that continues around-the clock and is expected to last for a long period of time (chronic).
 - Oxycodone Hydrochloride Oral Solution is a federally controlled substance (CII) because it is a strong opioid pain medicine that can be abused by people who abuse prescription medicines or street drugs.
 - Prevent theft, misuse or abuse.
   Keep Oxycodone Hydrochloride Oral Solution in a safe place to keep it from being stolen.
@@ -58,14 +63,14 @@ Before taking Oxycodone Hydrochloride Oral Solution, tell your healthcare provid
 - have trouble breathing or lung problems
 - have had a head injury
 - have liver or kidney problems
-- have adrenal gland problems, such as Addison’s disease
+- have adrenal gland problems, such as Addison's disease
 - have severe scoliosis that affects your breathing
 - have thyroid problems
 - have problems urinating or enlargement of your prostate
 - have or had convulsions or seizures
 - have a past or present drinking problems or alcoholism
 - have hallucinations (seeing or hearing things that are not really there) or other severe mental problems
-- have constipation of other bowel problems
+- have constipation or other bowel problems
 - have problems with your pancreas or gallbladder
 - have past or present substance abuse or drug addiction
 - have any other medical conditions
@@ -76,14 +81,8 @@ Before taking Oxycodone Hydrochloride Oral Solution, tell your healthcare provid
 If you take Oxycodone Hydrochloride Oral Solution regularly before your baby is born, your newborn baby may have signs of withdrawal because their body has become used to the medicine.
 Signs of withdrawal in a newborn baby can include:
 
-- irritability
-- being very active
-- problems sleeping
-- high pitched cry
-- shaking (tremors)
-- vomiting
-- diarrhea or more stools than normal
-- weight loss
+| irritabilitybeing very activeproblems sleepinghigh pitched cryshaking (tremors) | vomitingdiarrhea or more stools than normalweight loss |
+| --- | --- |
 
 If you are taking Oxycodone Hydrochloride Oral Solution right before your baby is born, your baby could have breathing problems.
 
@@ -97,21 +96,13 @@ Tell your healthcare provider about all the medicines you take, including prescr
 Sometimes the doses of medicines that you take with Oxycodone Hydrochloride Oral Solution may need to be changed if used together.
 Be especially careful about taking other medicines that make you sleepy such as:
 
-- sleeping pills
-- other pain medicines
-- anti-nausea medicines
-- tranquilizers
-- muscle relaxants
-- antihistamines
-- anti-anxiety medicines
-- anti-depressants
-- monoamine oxidase inhibitors (MAOIs)
-- anticholinergic medicines
+| sleeping pillsother pain medicinesanti-nausea medicinestranquilizersmuscle relaxantsantihistamines | anti-anxiety medicinesanti-depressantsmonoamine oxidase inhibitors (MAOIs)anticholinergic medicines |
+| --- | --- |
 
 Ask your healthcare provider if you are not sure if your medicine is one listed above.
 
-Do not take other medicines while using Oxycodone Hydrochloride Oral Solution until you have talked with your healthcare provider or pharmacist.
-They will tell you if it is safe to take other medicines with Oxycodone Hydrochloride Oral Solution.
+- Do not take other medicines while using Oxycodone Hydrochloride Oral Solution until you have talked with your healthcare provider or pharmacist.
+  They will tell you if it is safe to take other medicines with Oxycodone Hydrochloride Oral Solution.
 
 Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -124,6 +115,7 @@ How should I take Oxycodone Hydrochloride Oral Solution?
   Your healthcare provider may change your dose after seeing how the medicine affects you.
   Call your healthcare provider if your pain is not well controlled with your prescribed dose of Oxycodone Hydrochloride Oral Solution.
 - Make sure you understand exactly how to measure your dose.
+  Always use the measuring cup provided with Oxycodone Hydrochloride Oral Solution, 5 mg/5 mL to help make sure you measure the right amount.
   Always use the oral syringe provided with your Oxycodone Hydrochloride Oral Solution, 100 mg per 5 mL (20 mg per mL), to help make sure you measure the right amount.
   See the Patient Instructions for Use at the end of this Medication Guide for information about how to measure your dose the right way.
   Ask your healthcare provider or pharmacist if you are not sure what dose of Oxycodone Hydrochloride Oral Solution you should take or if you are not sure how to use the oral syringe.
@@ -155,29 +147,22 @@ Oxycodone Hydrochloride Oral Solution can cause serious side effects, including:
   - you have any other unusual symptoms
 
 These can be symptoms that you have taken too much Oxycodone Hydrochloride Oral Solution (overdose) or the dose is too high for you.
+
 These symptoms may lead to serious problems or death if not treated right away.
 
 - Oxycodone Hydrochloride Oral Solution can cause your blood pressure to drop.
   This can make you feel dizzy if you get up too fast from sitting or lying down.
-  Low blood pressure is also more likely to happen of you take other medicines that can also lower your blood pressure.
+  Low blood pressure is also more likely to happen if you take other medicines that can also lower your blood pressure.
   Severe low blood pressure can happen if you lose blood or take certain other medicines.
 - Oxycodone can cause physical dependence.
   Do not stop taking Oxycodone or any other opioid without talking to your healthcare provider about how to slowly stop your medicine.
   You could become sick with uncomfortable withdrawal symptoms because your body has become used to these medicines.
   Physical dependence is not the same as drug addiction.
   Tell your healthcare provider if you have any of these symptoms of withdrawal while slowly stopping Oxycodone:
-  - feel restless
-  - tearing eyes
-  - sweating
-  - chills or hair on your arms “stand up”
-  - muscle aches, backache
-  - dilated pupils of your eyes
-  - feel irritable or anxious
-  - trouble sleeping
-  - runny nose
-  - yawning
-  - nausea, loss of appetite, vomiting, diarrhea, stomach-area (abdominal) cramps
-  - increase in your blood pressure, breathing faster, or your heart beats faster
+
+| feel restlesstearing eyessweatingchills or hair on your arms "stand up"muscle aches, backachedilated pupils of your eyesfeel irritable or anxioustrouble sleeping | runny noseyawningnausea, loss of appetite, vomiting, diarrhea, stomach-area (abdominal) crampsincrease in your blood pressure, breathing faster, or your heart beats faster |
+| --- | --- |
+
 - There is a chance of abuse or addiction with Oxycodone Hydrochloride Oral Solution.
   The chance is higher if you are or have been addicted to or abused other medicines, street drugs, or alcohol, or if you have a history of mental problems.
 - Seizures.
@@ -187,17 +172,8 @@ Call your healthcare provider if you have any of the symptoms listed above.
 
 Common side effects of Oxycodone Hydrochloride Oral Solution include:
 
-- nausea
-- constipation
-- vomiting
-- headache
-- itchiness
-- trouble sleeping
-- dizziness
-- weakness
-- drowsiness
-- sweating
-- lightheadedness
+| nauseaconstipationvomitingheadacheitchinesstrouble sleeping | dizzinessweaknessdrowsinesssweatinglightheadedness |
+| --- | --- |
 
 Constipation (not often enough or hard bowel movements) is a very common side effect of pain medicines (opioids) including Oxycodone Hydrochloride Oral Solution.
 Talk to your healthcare provider about dietary changes, and the use of laxatives (medicines to treat constipation) and stool softeners to prevent or treat constipation while taking Oxycodone Hydrochloride Oral Solution.
@@ -212,7 +188,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store Oxycodone Hydrochloride Oral Solution?
 
 - Store Oxycodone Hydrochloride Oral Solution in a dry area at room temperature 59°F to 86°F (15°C to 30°C)
-- Protect Oxycodone Hydrochloride Oral Solution from moisture and light.
+- Protect Oxycodone Hydrochlorde Oral Solution from moisture and light.
 - After you stop taking Oxycodone, flush the unused oral solution down the toilet.
 
 Keep Oxycodone Hydrochloride Oral Solution out of the reach of children.
@@ -230,35 +206,18 @@ This Medication Guide summarizes the most important information about Oxycodone 
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about Oxycodone Hydrochloride Oral Solution that is written for healthcare professionals.
 
-For more information about Oxycodone Hydrochloride Oral Solution, go to www.lvtechinc.com or call Pharm-Olam at 1-866-511-6754.
+For more information about Oxycodone Hydrochloride Oral Solution, go to
+
+www.lvtechinc.com or call Pharm-Olam at 1-866-511-6754.
 
 What are the ingredients in Oxycodone Hydrochloride Oral Solution?
 
 Active ingredient: oxycodone hydrochloride
 
-Inactive ingredients: citric acid anhydrous, D&C Yellow #10, natural/artificial berry flavor, purified water, sodium citrate dihydrate, sodium benzoate, saccharin sodium, and sorbitol.
+Inactive ingredients: 5 mg per 5 mL contains citric acid anhydrous, FD&C Red #40, natural/artificial berry flavor, purified water, sodium citrate dihydrate, sodium benzoate, saccharin sodium, and sorbitol.
 
-Lehigh Valley Technologies, Inc. Allentown, PA Revision: 10/2010 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Inactive ingredients: 100 mg per 5 mL contains citric acid anhydrous, D&C Yellow #10, natural/artificial berry flavor, purified water, sodium citrate dihydrate, sodium benzoate, saccharin sodium, and sorbitol.
 
-Patient Instructions for Use Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg per mL) Oral Syringe
+Lehigh Valley Technologies, Inc. Allentown, PA Revision 8/2013
 
-Important information about measuring Oxycodone Hydrochloride Oral Solution
-
-- Always use the oral syringe provided with your Oxycodone Hydrochloride Oral Solution to make sure you measure the right amount.
-- Measure the dose of medicine from the widest part of the plunger.
-  Do not measure from the narrow tip.
-  See Figure 1.
-
-Step 1.
-Insert the tip of the oral syringe into the medicine bottle.
-
-Step 2.
-Pull back the plunger to the line that matches the dose prescribed by your healthcare provider.
-
-Step 3.
-Remove the oral syringe from the medicine bottle.
-
-Step 4.
-Take your medicine by slowly pushing the plunger until the oral syringe is empty.
-
-FIGURE 1
+This Medication Guide has been approved by the U.S. Food and Drug Administration.

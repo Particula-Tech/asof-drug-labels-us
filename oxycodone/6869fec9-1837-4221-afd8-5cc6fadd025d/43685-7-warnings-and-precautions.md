@@ -2,10 +2,10 @@
 
 ## 5.1 Risk of Medication Errors
 
-Oxycodone Hydrochloride Oral Solution is available in 100 mg/5 mL (20 mg/mL) concentration.
-Use caution when prescribing, dispensing, and administering Oxycodone Hydrochloride Oral Solution to avoid dosing errors due to confusion between mg and mL, and other oxycodone solutions with different concentrations, which could result in accidental overdose and death.
-Use caution to ensure the dose is communicated clearly and dispensed accurately.
-Always use the enclosed calibrated oral syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg/5 mL (20 mg/mL) to ensure the dose is measured and administered accurately.
+Oxycodone Hydrochloride Oral Solution is available in 5 mg per 5 mL and 100 mg per 5 mL (20 mg per mL) concentrations.
+Pay careful attention when prescribing, dispensing, and administering Oxycodone Hydrochloride Oral Solution to avoid dosing errors due to confusion between mg and mL, and other oxycodone solutions with different concentrations, which could result in accidental overdose and death.
+Ensure that the dose is communicated clearly and dispensed accurately.
+Always use the enclosed calibrated oral syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg per mL) to ensure the dose is measured and administered accurately.
 
 ## 5.2 Respiratory Depression
 
@@ -16,7 +16,7 @@ Use oxycodone hydrochloride with extreme caution in patients with chronic obstru
 In such patients, even usual therapeutic doses of oxycodone hydrochloride may increase airway resistance and decrease respiratory drive to the point of apnea.
 Consider alternative non-opioid analgesics, and use oxycodone hydrochloride only under careful medical supervision at the lowest effective dose in such patients.
 
-Oxycodone hydrochloride 100 mg/5 mL (20 mg/mL) oral solution is for use in opioid-tolerant patients only.
+Oxycodone hydrochloride 100 mg per 5 mL (20 mg per mL) oral solution is for use in opioid-tolerant patients only.
 Administration of this formulation may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory depressant effects of opioids.
 
 ## 5.3 Misuse, Abuse and Diversion of Opioids
@@ -30,6 +30,7 @@ This should be considered when prescribing or dispensing oxycodone hydrochloride
 
 Oxycodone hydrochloride may be abused by crushing, chewing, snorting or injecting the product.
 These practices pose a significant risk to the abuser that could result in overdose and death.
+
 [See DRUG ABUSE AND DEPENDENCE (9)]
 
 Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
@@ -63,10 +64,8 @@ Use oxycodone hydrochloride with caution in patients with biliary tract disease,
 
 ## 5.9 Special Risk Groups
 
-Use oxycodone hydrochloride with caution and in reduced dosages in patients with severe renal or hepatic impairment, Addison’s disease, hypothyroidism, prostatic hypertrophy, or urethral stricture, and in elderly or debilitated patients.
-[See USE IN SPECIFIC POPULATIONS (8.5)]
-
-Exercise caution in the administration of oxycodone hydrochloride to patients with CNS depression, toxic psychosis, acute alcoholism and delirium tremens.
+Use oxycodone hydrochloride with caution and in reduced dosages in patients with severe renal or hepatic impairment, Addison's disease, hypothyroidism, prostatic hypertrophy, or urethral stricture, and in elderly or debilitated patients.
+[See USE IN SPECIFIC POPULATIONS (8.5)] Exercise caution in the administration of oxycodone hydrochloride to patients with CNS depression, toxic psychosis, acute alcoholism and delirium tremens.
 All opioids may aggravate convulsions in patients with convulsive disorders, and all opioids may induce or aggravate seizures in some clinical settings.
 
 Keep Oxycodone Hydrochloride Oral Solution out of the reach of children.
@@ -75,8 +74,8 @@ In case of accidental ingestion, seek emergency medical help immediately.
 ## 5.10 Driving and Operating Machinery
 
 Caution patients that oxycodone hydrochloride could impair the mental and/or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
-
 Caution patients about the potential combined effects of oxycodone hydrochloride with other CNS depressants, including other opioids, phenothiazines, sedative/hypnotics and alcohol.
+
 [See DRUG INTERACTIONS (7)]
 
 ## 5.11 Cytochrome P450 3A4 Inhibitors and Inducers
@@ -87,4 +86,4 @@ The expected clinical results with CYP3A4 inducers would be a decrease in oxycod
 
 If co-administration is necessary, caution is advised when initiating oxycodone treatment in patients currently taking, or discontinuing, CYP3A4 inhibitors or inducers.
 Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved.
-[see Drug Interactions (7.4) and Clinical Pharmacology (12.3)]
+[Drug Interactions (7.4) and Clinical Pharmacology (12.3)]

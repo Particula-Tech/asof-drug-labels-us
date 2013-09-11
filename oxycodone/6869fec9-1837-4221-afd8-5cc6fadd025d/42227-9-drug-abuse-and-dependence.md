@@ -11,7 +11,7 @@ Drug addiction is characterized by compulsive use, use for non-medical purposes,
 Drug addiction is a treatable disease, utilizing a multi-disciplinary approach, but relapse is common.
 
 "Drug-seeking" behavior is very common in addicts and drug abusers.
-Drug seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated "loss" of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
+Drug seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
 "Doctor shopping" to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
@@ -20,7 +20,7 @@ The converse is also true.
 In addition, abuse of opioids can occur in the absence of true addiction and is characterized by misuse for nonmedical purposes, often in combination with other psychoactive substances.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
 
-Oxycodone hydrochloride is intended for oral use only.
+Oxycodone Hydrochloride is intended for oral use only.
 Abuse of oxycodone hydrochloride poses a risk of overdose and death.
 The risk is increased with concurrent abuse of alcohol and other substances.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
