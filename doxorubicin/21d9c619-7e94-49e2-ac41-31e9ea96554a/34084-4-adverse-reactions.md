@@ -239,4 +239,4 @@ Hematologic disorders: Secondary acute myelogenous leukemia with and without fat
 
 Skin and subcutaneous tissue disorders: rare cases of erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported.
 
-Secondary oral neoplasms: very rare cases of secondary oral cancer have been reported in patients with long-term (more than one year) exposure to DOXIL, or those receiving a cumulative DOXIL dose greater than 720 mg/m2 [see Warnings and Precautions (5.9)].
+Secondary oral neoplasms: [see Warnings and Precautions (5.9)].

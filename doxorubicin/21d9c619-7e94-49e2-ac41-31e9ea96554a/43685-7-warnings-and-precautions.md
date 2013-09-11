@@ -117,6 +117,8 @@ Complete blood counts, including platelet counts, should be obtained frequently 
 
 ## 5.9 Secondary Oral Neoplasms
 
-Very rare cases of secondary oral cancer have been reported in patients with long-term (more than one year) exposure to DOXIL, or those receiving a cumulative DOXIL dose greater than 720 mg/m2.
-Cases of secondary oral cancer were diagnosed both during treatment with DOXIL and up to 6 years after the last dose.
-Patients should be examined at regular intervals for the presence of oral ulceration or any oral discomfort that may be indicative of secondary oral cancer.
+Secondary oral cancers, primarily squamous cell carcinoma, have been reported from post-marketing experience in patients with long-term (more than one year) exposure to DOXIL.
+These malignancies were diagnosed both during treatment with DOXIL and up to 6 years after the last dose.
+Examine patients at regular intervals for the presence of oral ulceration or with any oral discomfort that may be indicative of secondary oral cancer.
+
+The altered pharmacokinetics and preferential tissue distribution of liposomal doxorubicin that contributes to enhanced skin toxicity and mucositis compared to free doxorubicin may play a role in the development of oral secondary malignancies with long-term use.
