@@ -8,7 +8,5 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 
 AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
-IN0901
-
-Rev.
-1/09
+IN0901 Rev.
+2/13 MG # 11928

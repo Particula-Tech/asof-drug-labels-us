@@ -68,8 +68,7 @@ Although clinical experience does not include any positive evidence of adverse e
 
 ## Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when hydralazine injection is administered to a nursing woman.
+Hydralazine has been shown to be excreted in breast milk.
 
 ## Pediatric Use
 

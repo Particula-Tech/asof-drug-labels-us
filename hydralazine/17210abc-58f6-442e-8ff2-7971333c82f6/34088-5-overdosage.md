@@ -3,9 +3,7 @@
 ## Acute Toxicity:
 
 No deaths due to acute poisoning have been reported.
-
 Highest known dose survived: adults, 10 g orally.
-
 Oral LD50 in rats: 173 and 187 mg/kg.
 
 ## Signs and Symptoms:
