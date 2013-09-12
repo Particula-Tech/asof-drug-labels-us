@@ -1,4 +1,4 @@
-# PRECAUTIONS:
+# PRECAUTIONS
 
 ## General
 
@@ -8,7 +8,7 @@ The use of antimicrobial agents may be associated with the overgrowth of non-sus
 
 Avoid contaminating the tip of container with material from the eye, fingers or other source.
 
-## Carcinogenesis, mutagenesis, impairment of fertility:
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Two year oral studies conducted in rats with erythromycin did not provide evidence of tumorigenicity.
 Mutagenicity studies have not been conducted.
