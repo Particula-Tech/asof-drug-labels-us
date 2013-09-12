@@ -2,24 +2,27 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [See 'Warnings and Precautions' section]
+Pregnancy Category D
 
-Based on its mechanism of action and findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
-If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection.
+[See Warnings and Precautions (5.10).]
 
-Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
+Based on its mechanism of action and findings in animals, Docetaxel Injection, USP can cause fetal harm when administered to a pregnant woman.
+If Docetaxel Injection, USP is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
+Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection, USP.
+
+Docetaxel Injection, USP can cause fetal harm when administered to a pregnant woman.
 Studies in both rats and rabbits at doses ≥0.3 and 0.03 mg/kg/day, respectively (about 1/50 and 1/300 the daily maximum recommended human dose on a mg/m2 basis), administered during the period of organogenesis, have shown that docetaxel is embryotoxic and fetotoxic (characterized by intrauterine mortality, increased resorption, reduced fetal weight, and fetal ossification delay).
 The doses indicated above also caused maternal toxicity.
 
 ## 8.3 Nursing Mothers
 
 It is not known whether docetaxel is excreted in human milk.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from Docetaxel Injection, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from Docetaxel Injection, USP a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of docetaxel in pediatric patients have not been established.
+Labeling describing use of Docetaxel Injection in pediatric patients receiving monotherapy or TCF is approved for Sanofi Aventis U.S.’s docetaxel injection product.
+However, due to Sanofi Aventis U.S.’s data exclusivity, a description of that pediatric use is not approved for this Docetaxel Injection labeling.
 
 ## 8.5 Geriatric Use
 
@@ -45,7 +48,22 @@ Breast Cancer
 In the adjuvant breast cancer trial (TAX316), docetaxel in combination with doxorubicin and cyclophosphamide was administered to 744 patients of whom 48 (6%) were 65 years of age or greater.
 The number of elderly patients who received this regimen was not sufficient to determine whether there were differences in safety and efficacy between elderly and younger patients.
 
+Gastric Cancer
+
+Among the 221 patients treated with Docetaxel Injection in combination with cisplatin and fluorouracil in the gastric cancer study, 54 were 65 years of age or older and 2 patients were older than 75 years.
+In this study, the number of patients who were 65 years of age or older was insufficient to determine whether they respond differently from younger patients.
+However, the incidence of serious adverse reactions was higher in the elderly patients compared to younger patients.
+The incidence of the following adverse reactions (all grades, regardless of relationship): lethargy, stomatitis, diarrhea, dizziness, edema, febrile neutropenia/neutropenic infection occurred at rates ≥10% higher in patients who were 65 years of age or older compared to younger patients.
+Elderly patients treated with TCF should be closely monitored.
+
+Head and Neck Cancer
+
+Among the 174 and 251 patients who received the induction treatment with Docetaxel Injection in combination with cisplatin and fluorouracil (TPF) for SCCHN in the TAX323 and TAX324 studies, 18 (10%) and 32 (13%) of the patients were 65 years of age or older, respectively.
+
+These clinical studies of Docetaxel Injection in combination with cisplatin and fluorouracil in patients with SCCHN did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+Other reported clinical experience with this treatment regimen has not identified differences in responses between elderly and younger patients.
+
 ## 8.6 Hepatic Impairment
 
-Patients with bilirubin >ULN should not receive Docetaxel Injection.
-Also, patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN should not receive Docetaxel Injection [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Patients with bilirubin >ULN should not receive Docetaxel Injection, USP.
+Also, patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN should not receive Docetaxel Injection, USP [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
