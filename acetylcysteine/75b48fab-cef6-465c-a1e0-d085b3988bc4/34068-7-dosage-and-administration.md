@@ -3,7 +3,7 @@
 General
 
 Acetylcysteine is available in rubber stoppered glass vials containing 30 mL.
-The 20% solution may be diluted to a lesserconcentration with either Sodium Chloride Injection, Sodium Chloride Inhalation Solution, Sterile Water for Injection, or SterileWater for Inhalation.
+The 20% solution may be diluted to a lesserconcentration with either Sodium Chloride Injection, Sodium Chloride Inhalation Solution, Sterile Water for Injection, or Sterile Water for Inhalation.
 
 Acetylcysteine does not contain an antimicrobial agent, and care must be taken to minimize contamination of the sterile solution.
 If only a portion of the solution in a vial is used for inhalation, store the remainder in a refrigerator and use within 96 hours.
@@ -126,7 +126,7 @@ Do not store unused mixtures.
 | Cephalothin Sodium | Compatible | 10% | 110 mg/mL |
 | Colistimethate Sodium2(mix and use at once) | Compatible | 10% | 37.5 mg/mL |
 | Vancomycin HCl2 | Compatible | 10% | 25 mg/mL |
-| Amphotercin B | Incompatible | 4%-15% | 1-4 mg/mL |
+| Amphotercin B | Incompatible | 4% to 15% | 1 to 4 mg/mL |
 | Chlortetracycline HCl2 | Incompatible | 10% | 12.5 mg/mL |
 | Erythromycin Lactobionate | Incompatible | 10% | 15 mg/mL |
 | Oxytetracycline HCl | Incompatible | 10% | 12.5 mL |
@@ -136,20 +136,20 @@ Do not store unused mixtures.
 | Isoproterenol HCl2 | Compatible | 3% | 0.5% |
 | Isoproterenol HCl2 | Compatible | 10% | 0.05% |
 | Isoproterenol HCl2 | Compatible | 20% | 0.05% |
-| Isoproterenol HCl | Compatible | 13.3% (2 parts) | .33% (1 part) |
+| Isoproterenol HCl | Compatible | 13.3% (2 parts) | 0.33% (1 part) |
 | Isoetharine HCl | Compatible | 13.3% (2 parts) | (1 part) |
-| Epinephrine HCl | Compatible | 13.3% (2 parts) | .33% (1 part) |
+| Epinephrine HCl | Compatible | 13.3% (2 parts) | 0.33% (1 part) |
 | CONTRAST MEDIA |  |  |  |
 | Iodized Oil | Incompatible | 20%/20 mL | 40%/10 mL |
 | DECONGESTANTS |  |  |  |
-| Phenylephrine HCl2 | Compatible | 3% | .25% |
-| Phenylephrine HCl | Compatible | 13.3% (2 parts) | .17% (1 part) |
+| Phenylephrine HCl2 | Compatible | 3.0% | .25% |
+| Phenylephrine HCl | Compatible | 13.3% (2 parts) | 0.17% (1 part) |
 | ENZYMES |  |  |  |
 | Chymotrypsin | Incompatible | 5% | 400 γ/mL |
 | Trypsin | Incompatible | 5% | 400 γ/mL |
 | SOLVENTS |  |  |  |
 | Alcohol | Compatible | 12% | 10%-20% |
-| Propylene Glycol | Compatible | 3% | 10% |
+| Propylene Glycol | Compatible | 3.0% | 10% |
 | STEROIDS |  |  |  |
 | Dexamethasone Sodium Phosphate | Compatible | 16% | 0.8 mg/mL |
 | Prednisolone Sodium Phosphate5 | Compatible | 16.7% | 3.3 mg/mL |
@@ -193,6 +193,7 @@ Oral administration requires dilution of the 20% solution with diet cola or othe
 If administered via gastric tube or Miller-Abbott tube, water may be used as the diluent.
 The dilutions should be freshly prepared and utilized within one hour.
 Remaining undiluted solutions in opened vials can be stored in the refrigerator up to 96 hours.
+
 ACETYLCYSTEINE IS NOT APPROVED FOR PARENTERAL INJECTION.
 
 ACETAMINOPHEN ASSAYS - INTERPRETATION AND METHODOLOGY
@@ -205,7 +206,7 @@ IF AN ASSAY FOR ACETAMINOPHEN CANNOT BE OBTAINED, IT IS NECESSARY TO ASSUME THAT
 INTERPRETATION OF ACETAMINOPHEN ASSAYS:
 
 1. When results of the plasma acetaminophen assay are available refer to the nomogram below to determine if plasma concentration is in the potentially toxic range.
-   Values above the solid line connecting 200 µg/mL at least 4 hours with 50 µg/mL at 12 hours are associated with a possibility of hepatic toxicity if an antidote is not administered.
+   Values above the solid line connecting 200 mcg/mL at least 4 hours with 50 mcg/mL at 12 hours are associated with a possibility of hepatic toxicity if an antidote is not administered.
    (Do not wait for assay results to begin acetylcysteine treatment.)
 2. If the predetoxification plasma level is above the broken line continue with maintenance doses of acetylcysteine.
    It is better to err on the safe side and thus the broken line is placed 25% below the solid line which defines possible toxicity.
@@ -245,30 +246,30 @@ Doses in relation to body weight are:
 | --- | --- | --- | --- | --- | --- |
 | Body Weight |  | Grams Acetylcysteine | mL of 20% Acetylcysteine | mL of Diluent | Total mL of 5% Solution |
 | (kg) | (lb) |  |  |  |  |
-| 100−109 | 220 −240 | 15 | 75 | 225 | 300 |
-| 90 − 99 | 198 −218 | 14 | 70 | 210 | 280 |
-| 80 − 89 | 176 −196 | 13 | 65 | 195 | 260 |
-| 70 − 79 | 154 −174 | 11 | 55 | 165 | 220 |
-| 60 − 69 | 132 −152 | 10 | 50 | 150 | 200 |
-| 50 − 59 | 110 −130 | 8 | 40 | 120 | 160 |
-| 40 − 49 | 88 −108 | 7 | 35 | 105 | 140 |
-| 30 − 39 | 66 − 86 | 6 | 30 | 90 | 120 |
-| 20 − 29 | 44 − 64 | 4 | 20 | 60 | 80 |
+| 100 to 109 | 220 to 240 | 15 | 75 | 225 | 300 |
+| 90 to 99 | 198 to 218 | 14 | 70 | 210 | 280 |
+| 80 to 89 | 176 to 196 | 13 | 65 | 195 | 260 |
+| 70 to 79 | 154 to 174 | 11 | 55 | 165 | 220 |
+| 60 to 69 | 132 to 152 | 10 | 50 | 150 | 200 |
+| 50 to 59 | 110 to 130 | 8 | 40 | 120 | 160 |
+| 40 to 49 | 88 to 108 | 7 | 35 | 105 | 140 |
+| 30 to 39 | 66 to 86 | 6 | 30 | 90 | 120 |
+| 20 to 29 | 44 to 64 | 4 | 20 | 60 | 80 |
 | Maintenance Dose** |  |  |  |  |  |
 | (kg) | (lb) |  |  |  |  |
-| 100−109 | 220 −240 | 7.5 | 37 | 113 | 150 |
-| 90 − 99 | 198 −218 | 7 | 35 | 105 | 140 |
-| 80 − 89 | 176 −196 | 6.5 | 33 | 97 | 130 |
-| 70 − 79 | 154 −174 | 5.5 | 28 | 82 | 110 |
-| 60 − 69 | 132 −152 | 5 | 25 | 75 | 100 |
-| 50 − 59 | 110 −130 | 4 | 20 | 60 | 80 |
-| 40 − 49 | 88 −108 | 3.5 | 18 | 52 | 70 |
-| 30 − 39 | 66 − 86 | 3 | 15 | 45 | 60 |
-| 20 − 29 | 44 − 64 | 2 | 10 | 30 | 40 |
+| 100 to 109 | 220 to 240 | 7.5 | 37 | 113 | 150 |
+| 90 to 99 | 198 to 218 | 7 | 35 | 105 | 140 |
+| 80 to 89 | 176 to 196 | 6.5 | 33 | 97 | 130 |
+| 70 to 79 | 154 to 174 | 5.5 | 28 | 82 | 110 |
+| 60 to 69 | 132 to 152 | 5 | 25 | 75 | 100 |
+| 50 to 59 | 110 to 130 | 4 | 20 | 60 | 80 |
+| 40 to 49 | 88 to 108 | 3.5 | 18 | 52 | 70 |
+| 30 to 39 | 66 to 86 | 3 | 15 | 45 | 60 |
+| 20 to 29 | 44 to 64 | 2 | 10 | 30 | 40 |
 | **If patient weighs less than 20 kg (usually patients younger than 6 years), calculate the doses of Acetylcysteine Solution. Each mL of 20% Acetylcysteine Solution, contains 200 mg of acetylcysteine. The loading dose is 140 mg per kilogram of body weight. The maintenance dose is 70 mg/kg. Three (3) mL of diluent are added to each mL of 20% Acetylcysteine Solution. Do not decrease the proportion of diluent. |  |  |  |  |  |
 
-Estimating Potential for Hepatoxicity
+Estimating Potential for Hepatotoxicity
 
-The following nomogram has been developed to estimate the probability that plasma levels in relation to intervals post ingestion will result in hepatoxicity.
+The following nomogram has been developed to estimate the probability that plasma levels in relation to intervals post ingestion will result in hepatotoxicity.
 
 Adapted from Rumack and Matthews, Pediatrics 1975; 55:871−876.

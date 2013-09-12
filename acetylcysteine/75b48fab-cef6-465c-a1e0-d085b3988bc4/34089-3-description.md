@@ -7,6 +7,6 @@ Acetylcysteine is the N-acetyl derivative of the naturally-occurring amino acid,
 The compound is a white crystalline powder with the molecular formula C5H9NO3S, a molecular weight of 163.2, and chemical name of N-acetyl-L-cysteine.
 Acetylcysteine has the following structural formula:
 
-This product contains the following inactive ingredients: disodium edetate, sodium hydroxide,purified water, and hydrochloric acid, if necessary.
+This product contains the following inactive ingredients: disodium edetate, sodium hydroxide, purified water, and hydrochloric acid, if necessary.
 
 ACETYLCYSTEINE AS A MUCOLYTIC AGENT
