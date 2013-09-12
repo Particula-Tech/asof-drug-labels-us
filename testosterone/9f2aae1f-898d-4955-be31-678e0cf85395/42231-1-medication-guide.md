@@ -1,23 +1,24 @@
 Medication Guide
 
-TESTIM® (těs TIM) 1%, CIII (testosterone gel)
+Testim® (TĔS tim) CIII
+
+(testosterone gel)
 
 Read the Medication Guide that comes with TESTIM before you start taking it and each time you get a refill.
 There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your medical condition or your treatment.
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-What is the most important information I should know about TESTIM?
+What is the most important information I should know about Testim?
 
-1. Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using TESTIM.
-   Signs and symptoms of early puberty in a child may include:
+1. Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using Testim.
+   Signs and symptoms of early puberty in a child may include: Testim can transfer from your body to others.
    - enlarged penis or clitoris
    - early development of pubic hair
    - increased erections or sex drive
    - aggressive behavior
-2. TESTIM can transfer from your body to others.
-   Women and children should avoid contact with the unwashed or unclothed area where TESTIM has been applied to your skin.
-   Stop using TESTIM and call your doctor right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to TESTIM.
-   Signs and symptoms of exposure to Testim in children may include: Signs and symptoms of exposure to TESTIM in women may include:
+2. Women and children should avoid contact with the unwashed or unclothed area where Testim has been applied to your skin.
+   Stop using Testim and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to Testim.
+   Signs and symptoms of exposure to Testim in children may include: Signs and symptoms of exposure to Testim in women may include:
    - enlarged penis or clitoris
    - early development of pubic hair
    - increased erections or sex drive
@@ -25,100 +26,104 @@ What is the most important information I should know about TESTIM?
    - changes in body hair
    - a large increase in acne
 
-To lower the risk of transfer of TESTIM from your body to others, you should follow these important instructions:
+To lower the risk of transfer of Testim from your body to others, you should follow these important instructions:
 
-- Apply TESTIM only to the areas of your shoulders and upper arms that will be covered by a short sleeve T-shirt.
-- Wash your hands right away with soap and water after applying TESTIM.
+- Apply Testim only to the areas of your shoulders and upper arms that will be covered by a short sleeve T-shirt.
+- Wash your hands right away with soap and water after applying Testim.
 - After the gel has dried, cover the application area with clothing.
   Keep the area covered until you have washed the application area well or have showered.
 - If you expect to have skin-to-skin contact with another person, first wash the application area well with soap and water.
-- If a woman or child makes contact with the TESTIM application area, that area on the woman or child should be washed well with soap and water right away.
+- If a woman or child makes contact with the Testim application area, that area on the woman or child should be washed well with soap and water right away.
 
-What is TESTIM?
+What is Testim?
 
-TESTIM is a prescription medicine that contains testosterone.
-TESTIM is used to treat adult males who have low or no testosterone.
+Testim is a prescription medicine that contains testosterone.
+Testim is used to treat adult males who have low or no testosterone.
 
-It is not known if TESTIM is safe or effective in children younger than 18 years old.
-Exposure of children to testosterone may affect bone growth.
+Your healthcare provider will test your blood before you start and while you use Testim.
 
-TESTIM is a controlled substance (CIII) because it contains testosterone that can be a target for people who abuse prescription medicines.
-Keep your TESTIM in a safe place to protect it.
-Never give your TESTIM to anyone else, even if they have the same symptoms you have.
+It is not known if Testim is safe or effective in children younger than 18 years old.
+Improper use of testosterone in children may affect bone growth.
+
+Testim is a controlled substance (CIII) because it contains testosterone that can be a target for people who abuse prescription medicines.
+Keep your Testim in a safe place to protect it.
+Never give your Testim to anyone else, even if they have the same symptoms you have.
 Selling or giving away this medicine may harm others and it is against the law.
 
-Who should not use TESTIM?
+Testim is not meant for use in women.
 
-TESTIM is not meant for use in women.
+Who should not use Testim?
 
-Do not use TESTIM if you:
+Do not use Testim if you:
 
 - have breast cancer
 - have or might have prostate cancer
 - are pregnant or may become pregnant or are breast-feeding.
-  TESTIM may harm your unborn or breast-feeding baby.
-  Women who are pregnant or who may become pregnant should avoid contact with the area of skin where TESTIM has been applied.
-- are allergic to testosterone or any of the ingredients in TESTIM including soy.
-  See the end of this Medication Guide for a complete list of ingredients in TESTIM.
+  Testim may harm your unborn or breast-feeding baby.
+  Women who are pregnant or who may become pregnant should avoid contact with the area of skin where Testim has been applied.
 
-Talk to your doctor before taking this medicine if you have any of the above conditions.
+Talk to your healthcare provider before taking this medicine if you have any of the above conditions.
 
-What should I tell my doctor before using TESTIM?
-Before you use TESTIM, tell your doctor if you:
+What should I tell my healthcare provider before using Testim?
+Before you use Testim, tell your healthcare provider if you:
 
-- have breast cancer or prostate cancer
+- have breast cancer
+- have or might have prostate cancer
 - have urinary problems due to an enlarged prostate
 - have heart problems
 - have liver or kidney problems
 - have problems breathing while you sleep (sleep apnea)
 - have any other medical conditions
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-TESTIM and certain other medicines you take can affect each other.
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
-Especially, tell your doctor if you take:
+Using Testim with certain other medicines can affect each other.
+
+Especially, tell your healthcare provider if you take:
 
 - insulin
-- propranolol
+- medicines that decrease blood clotting
 - corticosteroids
 
-Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
 Know the medicines you take.
-Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
+Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
+Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-How should I use TESTIM?
+How should I use Testim?
 
-- It is important that you apply TESTIM exactly as prescribed by your doctor.
-  Your doctor will tell you how much TESTIM to apply and when to apply it.
-- Your doctor may change your TESTIM dose.
-  Do not change your TESTIM dose without talking to your doctor.
-- Your doctor will test your blood before you start and while you take TESTIM.
-- TESTIM is for skin use only.
-- Apply TESTIM only to the areas of your shoulders and upper arms that will be covered by a short sleeve t-shirt.
-  Apply TESTIM at the same time each day.
-- Do not apply TESTIM to your penis, scrotum or abdomen.
+- It is important that you apply Testim exactly as your healthcare provider tells you to.
+- Your healthcare provider will tell you how much Testim to apply and when to apply it.
+- Your healthcare provider may change your Testim dose.
+  Do not change your Testim dose without talking to your healthcare provider.
+- Testim is to be applied to the areas of your shoulders and upper arms that will be covered by a short sleeve T-shirt.
+  Do not apply Testim to any other parts of your body such as your stomach area (abdomen), penis, or scrotum.
+- Apply Testim at the same time each morning.
+  Testim should be applied after showering or bathing.
+- Wash your hands with soap and water right away after applying Testim.
+- Avoid showering, swimming, or bathing for at least 2 hours after you apply Testim.
+- Testim is flammable until dry.
+  Let the Testim dry before smoking or going near an open flame.
+- Let the application areas dry for a few minutes before putting on a T-shirt.
 
-To apply TESTIM:
+Applying Testim:
 
-- Remove the cap from the tube and use the top of the cap to pierce the metal seal on the top of the tube.
-- Squeeze all of the TESTIM out of the tube into the palm of your hand.
+- Before applying Testim, make sure that your shoulders and upper arms are clean, dry, and there is no broken skin.
+- The application sites for Testim are the shoulders and upper arms that will be covered by a short sleeve T-shirt (see Figure A).
+
+- Remove the cap from the tube and use the top of the cap to pierce the metal seal on the top of the tube by pushing or screwing the cap in.
+- Squeeze all of the Testim out of the tube into the palm of your hand.
   Squeeze from the bottom of the tube to the top.
-- Apply all of the TESTIM gel to your shoulders and upper arms.
-  Rub the gel onto your skin for several seconds until the gel is dry.
-- Replace the cap and throw away the tube in the trash out of the reach of children to avoid accidental exposure.
-- Wash you hands with soap and water right away after you apply TESTIM.
-- Let the application areas dry for a few minutes before putting on a shirt.
-- To reduce transfer of TESTIM to others, clothes (such as a t-shirt) should always be worn to cover the TESTIM application areas until you have washed the application areas well with soap and water.
-- Wait at least 2 hours after applying TESTIM before showering or swimming to make sure TESTIM is absorbed into your body.
-- TESTIM is flammable until dry.
-  Let the gel dry before smoking or going near an open flame.
+- Apply all of the Testim to the application sites.
+  Rub the gel onto your skin for several seconds.
+  Let the application site dry for a few minutes before putting on a T-shirt.
+- Wash your hands with soap and water right away after applying Testim.
 
-What are the possible side effects of TESTIM?
+What are the possible side effects of Testim?
 
-TESTIM can cause serious side effects including:
+Testim can cause serious side effects including:
 
-- See “What is the most important information I should know about TESTIM?”.
-- If you already have enlargement of your prostate gland your signs and symptoms can get worse while using TESTIM.
+- See “What is the most important information I should know about Testim?”.
+- If you already have enlargement of your prostate gland your signs and symptoms can get worse while using Testim.
   This can include:
   - increased urination at night
   - trouble starting your urine stream
@@ -127,57 +132,76 @@ TESTIM can cause serious side effects including:
   - having a urine accident
   - being unable to pass urine or weak urine flow
 - Possible increased risk of prostate cancer.
-  Your doctor should check you for prostate cancer or any other prostate problems before you start and while you use TESTIM.
-- In large doses TESTIM may lower your sperm count.
+  Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use Testim.
+- Blood clots in the legs.
+  This can include pain, swelling or redness of your legs.
+- In large doses Testim may lower your sperm count.
 - Swelling of your ankles, feet, or body, with or without heart failure.
   This may cause serious problems for people who have heart, kidney or liver disease.
 - Enlarged or painful breasts.
-- Having problems breathing while you sleep (sleep apnea).
-- Blood clots in the legs.
-  This can include pain, swelling or redness of your legs.
+- Having problems breathing while you sleep (sleep apnea)
 
-Call your doctor right away if you have any of the serious side effects listed above.
+Call your healthcare provider right away if you have any of the serious side effects listed above.
 
-The most common side effects of TESTIM include:
+The most common side effects of Testim include:
 
-- skin irritation where TESTIM is applied
+- skin irritation where Testim is applied
 - increased red blood cell count
 - headache
 - increased blood pressure
 
 Other side effects include more erections than are normal for you or erections that last a long time.
 
-Tell your doctor if you have any side effect that bothers you or that does not go away.
-These are not all the possible side effects of TESTIM.
-For more information, ask your doctor or pharmacist.
-Call your doctor for medical advice about side effects.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
+These are not all the possible side effects of Testim.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store TESTIM?
+How should I store Testim?
 
-- Store TESTIM between 59°F to 86°F (15°C to 30°C).
-- Safely throw away used TESTIM tubes in household trash.
+- Store Testim between 59°F to 86°F (15°C to 30°C).
+- Safely throw away used Testim in household trash.
   Be careful to prevent accidental exposure of children or pets.
-- Keep TESTIM away from fire.
+- Keep Testim away from fire.
 
-Keep TESTIM and all medicines out of the reach of children.
+Keep Testim and all medicines out of the reach of children.
 
-General information about TESTIM
+General information about the safe and effective use of Testim.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use TESTIM for a condition for which it was not prescribed.
-Do not give TESTIM to other people, even if they have the same symptoms that you have.
+Do not use Testim for a condition for which it was not prescribed.
+Do not give Testim to other people, even if they have the same symptoms that you have.
 It may harm them.
-This Medication Guide summarizes the most important information about TESTIM.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about TESTIM that is written for health professionals.
+
+This Medication Guide summarizes the most important information about Testim.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about Testim that is written for health professionals.
+
 For more information, go to www.TESTIM.com or call 1-877-663-0412.
 
-What are the ingredients in TESTIM?
+What are the ingredients in Testim?
 
-Active ingredient: testosterone (that may be made from soy)
+Active ingredient: testosterone
 
 Inactive ingredients: purified water, pentadecalactone, carbopol, acrylates, propylene glycol, glycerin, polyethylene glycol, ethanol (74%), and tromethamine.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
-Manufactured for: Auxilium Pharmaceuticals, Inc. Malvern, PA 19355 USA By: DPT Laboratories, Ltd. San Antonio, TX 78215 Medication Guide issued: 11/2011 PL-0705-002.c 129794
+
+Manufactured for:
+
+Auxilium Pharmaceuticals, Inc.
+
+Chesterbrook, PA 19087 USA
+
+By: DPT Laboratories, Ltd.
+
+San Antonio, TX 78215
+
+PL-0705-002.d
+
+######
+
+Revised: 08/2013

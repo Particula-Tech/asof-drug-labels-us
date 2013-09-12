@@ -1,11 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Androgens are contraindicated in men with carcinoma of the breast or known or suspected carcinoma of the prostate.
-Testim® is not indicated for use in women, has not been evaluated for use in women, and must not be used in women.
-
-Pregnant and nursing women should avoid skin contact with Testim® application sites on men.
-Testosterone may cause fetal harm.
-Testosterone exposure during pregnancy has been reported to be associated with fetal abnormalities.
-In the event that unwashed or unclothed skin to which Testim® has been applied comes in direct contact with the skin of a pregnant or nursing woman, the general area of contact on the woman should be immediately washed with soap and water.
-
-Testim® should not be used in patients with known hypersensitivity to any of its ingredients, including testosterone USP that is chemically synthesized from soy.
+- Testim is contraindicated in men with carcinoma of the breast or known or suspected carcinoma of the prostate [see Warnings and Precautions (5.1)].
+- Testim is contraindicated in women who are or may become pregnant, or who are breastfeeding.
+  Testim may cause fetal harm when administered to a pregnant woman.
+  Testim may cause serious adverse reactions in nursing infants.
+  Exposure of a fetus or nursing infant to androgens may result in varying degrees of virilization.
+  Pregnant women or those who may become pregnant need to be aware of the potential for transfer of testosterone from men treated with Testim.
+  If a pregnant woman is exposed to Testim, she should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.2), and Use in Specific Populations (8.1, 8.3)].

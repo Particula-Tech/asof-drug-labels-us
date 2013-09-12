@@ -1,112 +1,78 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-1. Men with benign prostatic hyperplasia (BPH) are at an increased risk for worsening of BPH.
-   In addition, men treated with androgens may be at an increased risk for prostate cancer.
-   Geriatric patients and other patients with clinical or demographic characteristics that are recognized to be associated with an increased risk of prostate cancer should be evaluated for the presence of prostate cancer prior to initiation of testosterone replacement therapy.
-   In men receiving testosterone replacement therapy, surveillance for prostate cancer should be consistent with current practices for eugonadal men (see PRECAUTIONS, Carcinogenesis, Mutagenesis, Impairment of Fertility and Laboratory Tests).
-2. Potential for Secondary Exposure to Testosterone
-   - Secondary exposure to testosterone in children and women can occur with testosterone gel use in men.
-     Cases of secondary exposure resulting in virilization of children have been reported in postmarketing surveillance of testosterone-containing gel products.
-     Signs and symptoms have included enlargement of the penis or clitoris, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age.
-     In most cases, these signs and symptoms regressed with removal of the exposure to testosterone.
-     In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age.
-     The risk of transfer was increased in some of these cases by not adhering to precautions for the appropriate use of the testosterone gel product.
-   - Inappropriate changes in genital size or development of pubic hair or libido in children, or changes in body hair distribution, significant increase in acne, or other signs of virilization in adult women should be brought to the attention of a physician, and the possibility of secondary exposure to testosterone gel should also be brought to the attention of a physician.
-     Testosterone gel should be promptly discontinued until the cause of virilization has been identified.
-3. Strict adherence to the following precautions is advised in order to minimize the potential for secondary exposure to testosterone from Testim®-treated skin:
-   - Children and women should avoid contact with Testim® application sites on the skin of men using Testim.
-   - Testim® should only be applied to the shoulders or upper arms (area of application should be limited to the area that will be covered by the patient’s short sleeve t-shirt).
-   - Patients should wash their hands thoroughly and immediately with soap and water after application of Testim®.
-   - Patients should cover the application site(s) with clothing (e.g., a shirt) after the gel has dried.
-   - Prior to any situation in which skin-to-skin contact is anticipated, patients should wash the application site(s) thoroughly with soap and water to remove any testosterone residue.
-   - In the event that unwashed or unclothed skin to which Testim® has been applied comes in direct contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible.
-     Studies show that residual testosterone is removed from the skin surface by washing with soap and water.
-4. Testim® should not be applied to the abdomen.
-5. Prolonged use of high doses of orally active 17-alpha-alkyl androgens (e.g., methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
-   Peliosis hepatis can be a life-threatening or fatal complication.
-   Long-term therapy with testosterone enanthate, which elevates blood levels for prolonged periods has produced multiple hepatic adenomas.
-   Transdermal testosterone is not known to produce these adverse effects.
-6. Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal, or hepatic disease.
-   In addition to discontinuation of the drug, diuretic therapy may be required.
-7. Gynecomastia occasionally develops and occasionally persists in patients being treated for hypogonadism.
-8. The treatment of hypogonadal men with testosterone may potentiate sleep apnea in some patients, especially those with risk factors such as obesity or chronic lung diseases.
+## 5.1 Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer
 
-# PRECAUTIONS
+- Patients with BPH treated with androgens are at an increased risk for worsening of signs and symptoms of BPH.
+  Monitor patients with BPH for worsening signs and symptoms.
+- Patients treated with androgens may be at increased risk for prostate cancer.
+  Evaluate patients for prostate cancer prior to initiating and during treatment with androgens [see Contraindications (4)].
 
-General
+## 5.2 Potential for Secondary Exposure to Testosterone
 
-The physician should instruct patients to report any of the following:
+Cases of secondary exposure resulting in virilization of children have been reported in postmarketing surveillance.
+Signs and symptoms have included enlargement of the penis or clitoris, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age.
+In most cases, these signs and symptoms regressed with removal of the exposure to testosterone gel.
+In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age.
+The risk of transfer was increased in some of these cases by not adhering to precautions for the appropriate use of the topical testosterone product.
+Children and women should avoid contact with unwashed or unclothed application sites in men using Testim [see Dosage and Administration (2.2), Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
 
-- Too frequent or persistent erections of the penis.
-- Any changes in skin color, ankle swelling or unexplained nausea and vomiting.
-- Breathing disturbances, including those associated with sleep.
+Inappropriate changes in genital size or development of pubic hair or libido in children, or changes in body hair distribution, significant increase in acne, or other signs of virilization in adult women should be brought to the attention of a physician and the possibility of secondary exposure to testosterone gel should also be brought to the attention of a physician.
+Testosterone gel should be promptly discontinued until the cause of virilization has been identified.
 
-Information for Patients
+## 5.3 Polycythemia
 
-Advise patients to carefully read the Medication Guide that accompanies each carton of Testim® single-use tubes.
+Increases in hematocrit, reflective of increases in red blood cell mass, may require lowering or discontinuation of testosterone.
+Check hematocrit prior to initiating treatment.
+It would also be appropriate to re-evaluate the hematocrit 3 to 6 months after starting treatment, and then annually.
+If hematocrit becomes elevated, stop therapy until hematocrit decreases to an acceptable concentration.
+An increase in red blood cell mass may increase the risk of thromboembolic events.
 
-Advise patients of the following:
+## 5.4 Use in Women
 
-1. Men with known or suspected prostate or breast cancer should not use Testim®.
-2. Secondary exposure to testosterone in children and women can occur with the use of testosterone gel products in men.
-   Cases of secondary exposure to testosterone have been reported in children with signs and symptoms including enlargement of the penis or clitoris, premature development of pubic hair, increased erections, and aggressive behavior.
-   Unexpected sexual development including inappropriate enlargement of the penis or clitoris, premature development of pubic hair, increased erections, and aggressive behavior in children, or changes in hair distribution, increase in acne, or other signs of testosterone effects in adult women should be brought to the attention of a physician and the possibility of secondary exposure to testosterone gel also should be brought to the attention of a physician.
-   Testosterone gel should be promptly discontinued until the cause of virilization is identified.
-3. Strict adherence to the following precautions is advised in order to minimize the potential for secondary exposure to testosterone from Testim®-treated skin:
-   - Children and women should avoid contact with Testim® application sites on the skin of men using Testim®.
-   - Testim® should only be applied to the shoulders or upper arms (area of application should be limited to the area that will be covered by the patient’s short sleeve t-shirt).
-   - Patients should wash their hands thoroughly and immediately with soap and water after application of Testim®.
-   - Patients should cover the application site(s) with clothing (e.g., a shirt) after the gel has dried.
-   - Prior to any situation in which skin-to-skin contact is anticipated, patients should wash the application site(s) thoroughly with soap and water to remove any testosterone residue.
-   - In the event that unwashed or unclothed skin to which testosterone gel has been applied comes in direct contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible.
-     Studies show that residual testosterone is removed from the skin surface by washing with soap and water.
+Due to lack of controlled evaluations in women and potential virilizing effects, Testim is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
-Also advise patients of the following:
+## 5.5 Potential for Adverse Effects on Spermatogenesis
 
-- Testim® should not be applied to the scrotum, penis, or abdomen.
-- Testim® should be applied once daily at approximately the same time each day to clean dry skin of the shoulders and/or upper arms.
-- Washing or swimming may lessen testosterone levels; however, when washing occurs two or more hours post drug application, serum testosterone levels remain within the normal range.
+With large doses of exogenous androgens, including Testim, spermatogenesis may be suppressed through feedback inhibition of pituitary follicle-stimulating hormone (FSH) which could possibly lead to adverse effects on semen parameters including sperm count.
 
-Laboratory Tests
+## 5.6 Hepatic Adverse Effects
 
-1. Hemoglobin and hematocrit levels should be checked periodically (to detect polycythemia) in patients on long-term androgen therapy.
-2. Liver function, prostate specific antigen (PSA), cholesterol, and high-density lipoprotein (HDL) should be checked periodically.
-3. To ensure proper dosing, serum testosterone concentrations should be measured (see DOSAGE AND ADMINISTRATION).
+Prolonged use of high doses of orally active 17-alpha-alkyl androgens (e.g., methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
+Peliosis hepatis can be a life-threatening or fatal complication.
+Long-term therapy with intramuscular testosterone enanthate, which elevates blood levels for prolonged periods, has produced multiple hepatic adenomas.
+Testim is not known to cause these adverse effects.
+Nonetheless, patients should be instructed to report any signs or symptoms of hepatic dysfunction (e.g., jaundice).
+If these occur, promptly discontinue Testim while the cause is evaluated.
 
-Drug Interactions
+## 5.7 Edema
 
-Oxyphenbutazone: Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone.
+Androgens, including Testim, may promote retention of sodium and water.
+Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal, or hepatic disease.
+In addition to discontinuation of the drug, diuretic therapy may be required.
 
-Insulin: In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements.
+## 5.8 Gynecomastia
 
-Propranolol: In a published pharmacokinetic study of an injectable testosterone product, administration of testosterone cypionate led to an increased clearance of propranolol in the majority of men tested.
-It is unknown if this would apply to Testim®.
+Gynecomastia occasionally develops and occasionally persists in patients being treated for hypogonadism [see Adverse Reactions (6.1)].
 
-Corticosteroids: The concurrent administration of testosterone with ACTH or corticosteroids may enhance edema formation; thus these drugs should be administered cautiously, particularly in patients with cardiac or hepatic disease.
+## 5.9 Sleep Apnea
 
-Drug/Laboratory Test Interactions
+The treatment of hypogonadal men with testosterone may potentiate sleep apnea in some patients, especially those with risk factors such as obesity or chronic lung diseases.
 
-Androgens may decrease levels of thyroxin-binding globulin, resulting in decreased total T4 serum levels and increased resin uptake of T3 and T4.
-Free thyroid hormone levels remain unchanged, however, and there is no clinical evidence of thyroid dysfunction.
+## 5.10 Lipids
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+Changes in the serum lipid profile may occur.
+Monitor the lipid profile periodically, particularly after starting testosterone therapy and after dose increases.
 
-Animal Data: Testosterone has been tested by subcutaneous injection and implantation in mice and rats.
-In mice, the implant induced cervical-uterine tumors, which metastasized in some cases.
-There is suggestive evidence that injection of testosterone into some strains of female mice increases their susceptibility to hepatoma.
-Testosterone is also known to increase the number of tumors and decrease the degree of differentiation of chemically induced carcinomas of the liver in rats.
+## 5.11 Hypercalcemia
 
-Human Data: There are rare reports of hepatocellular carcinoma in patients receiving long-term oral therapy with androgens in high doses.
-Withdrawal of the drugs did not lead to regression of the tumors in all cases.
+Androgens, including Testim, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
+Regular monitoring of serum calcium concentrations is recommended in these patients.
 
-Geriatric patients treated with androgens may be at an increased risk for the development of prostatic hyperplasia and prostatic carcinoma.
-Geriatric patients and other patients with clinical or demographic characteristics that are recognized to be associated with an increased risk of prostate cancer should be evaluated for the presence of prostate cancer prior to initiation of testosterone replacement therapy.
+## 5.12 Decreased Thyroxine-binding Globulin
 
-In men receiving testosterone replacement therapy, surveillance for prostate cancer should be consistent with current practices for eugonadal men.
+Androgens, including Testim, may decrease concentrations of thyroxine-binding globulins, resulting in decreased total T4 serum concentrations and increased resin uptake of T3 and T4.
+Free thyroid hormone concentrations remain unchanged, however, and there is no clinical evidence of thyroid dysfunction.
 
-Pregnancy Category X (see Contraindications) – Teratogenic Effects: Testim® is not indicated for women and must not be used in women.
-Testosterone may cause fetal harm.
+## 5.13 Flammability
 
-Nursing Mothers: Testim® is not indicated for women and must not be used in nursing mothers.
-
-Pediatric Use: Safety and efficacy of Testim® in patients <18 years old has not been established.
+Alcohol-based products, including Testim, are flammable; therefore, patients should be advised to avoid fire, flame or smoking until the Testim has dried.
