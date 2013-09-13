@@ -1,11 +1,9 @@
 # REFERENCES
 
-- 1.National Committee for Clinical Laboratory Standards, Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria – Third Edition.
-  Approved Standard NCCLS Document M11-A3, Vol. 13, No. 26, NCCLS, Villanova, PA, December, 1993.
-- 2.Ralph ED, Kirby WMM.
-  Bioassay of metronidazole with either anaerobic or aerobic incubation, J. Infect.
-  Dis.
-  1975; 132 (Nov): 587–591 or Gulaid et al. Determination of metronidazole and its major metabolites in biological fluids by high pressure liquid chromatography, Br.
-  J. Clin.
-  Pharmacol.
-  1978; 6:430–432.
+1. Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard - Eighth Edition.
+   CLSI document M11-A8.
+   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, PA 19087 USA, 2012.
+2. Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-third Informational Supplement, CLSI document M100-S23.
+   CLSI document M100-S23, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2013.

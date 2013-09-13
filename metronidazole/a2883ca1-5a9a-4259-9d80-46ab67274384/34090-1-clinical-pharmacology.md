@@ -1,65 +1,106 @@
 # CLINICAL PHARMACOLOGY
 
-Disposition of metronidazole in the body is similar for both oral and intravenous dosage forms, with an average elimination half-life in healthy humans of 8 hours.
+## Absorption
 
-The major route of elimination of metronidazole and its metabolites is via the urine (60% to 80% of the dose), with fecal excretion accounting for 6% to 15% of the dose.
-The metabolites that appear in the urine result primarily from side-chain oxidation [1-(β-hydroxyethyl)-2-hydroxymethyl-5-nitroimidazole and 2-methyl-5-nitroimidazole-1-yl-acetic acid] and glucuronide conjugation, with unchanged metronidazole accounting for approximately 20% of the total.
-Renal clearance of metronidazole is approximately 10 mL/min/1.73 m2.
-
-Metronidazole is the major component appearing in the plasma, with lesser quantities of the 2-hydroxymethyl metabolite also being present.
-Less than 20% of the circulating metronidazole is bound to plasma proteins.
-Both the parent compound and the metabolite possess in vitro bactericidal activity against most strains of anaerobic bacteria and in vitro trichomonacidal activity.
-
-Metronidazole appears in cerebrospinal fluid, saliva, and human milk in concentrations similar to those found in plasma.
-Bactericidal concentrations of metronidazole have also been detected in pus from hepatic abscesses.
+Disposition of metronidazole in the body is similar for both oral and intravenous dosage forms.
 
 FLAGYL 375 capsules have been shown to have a rate and extent of absorption similar to metronidazole tablets (FLAGYL) and were bioequivalent at an equal single dose of 750 mg.
-In a study conducted with 23 adult healthy female volunteers, oral administration of two 375-mg FLAGYL capsules under fasted conditions produced a mean (±1 SD) peak plasma concentration (Cmax) of 21.4 (±2.8) mcg/mL with a mean Tmax of 1.6 (± 0.7) hours and a mean area under the plasma concentration-time curve (AUC) of 223 (±44) mcg∙hr/mL.
-In the same study, three 250-mg FLAGYL tablets produced a mean Cmax of 20.4 (± 3.8) mcg/mL with a mean Tmax of 1.4 (± 0.4) hours and a mean AUC of 218 (± 50) mcg∙hr/mL.
+In a study conducted with 23 adult, healthy, female volunteers, oral administration of two 375 mg FLAGYL capsules under fasted conditions produced a mean (±1 SD) peak plasma concentration (Cmax) of 21.4 (±2.8) mcg/mL with a mean Tmax of 1.6 (± 0.7) hours and a mean area under the plasma concentration-time curve (AUC) of 223 (±44) mcg∙hr/mL.
+In the same study, three 250 mg FLAGYL tablets produced a mean Cmax of 20.4 (± 3.8) mcg/mL with a mean Tmax of 1.4 (± 0.4) hours and a mean AUC of 218 (± 50) mcg∙hr/mL.
 
 Administration of FLAGYL 375 capsules with food does not affect the extent of absorption of metronidazole; however, the presence of food results in a lower Cmax and a delayed Tmax compared to fasted conditions.
-In a study of 14 healthy adult female volunteers, administration of FLAGYL 375 capsules under fasting conditions produced a mean Cmax of 10.9 (± 1.5) mcg/mL, a mean Tmax of 1.5 (± 1.4) hours, and a mean AUC of 110 (± 34) mcg∙hr/mL compared to a mean Cmax of 8.6 (± 1.6) mcg/mL, a mean Tmax of 4.2 (± 1.7) hours, and a mean AUC of 99 (± 14) mcg∙hr/mL under fed conditions.
+In a study of 14 healthy, adult, female volunteers, administration of FLAGYL 375 capsules under fasting conditions produced a mean Cmax of 10.9 (± 1.5) mcg/mL, a mean Tmax of 1.5 (± 1.4) hours, and a mean AUC of 110 (± 34) mcg∙hr/mL compared to a mean Cmax of 8.6 (± 1.6) mcg/mL, a mean Tmax of 4.2 (± 1.7) hours, and a mean AUC of 99 (± 14) mcg∙hr/mL under fed conditions.
+
+## Distribution
+
+Metronidazole is the major component appearing in the plasma, with lesser quantities of metabolites also being present.
+Less than 20% of the circulating metronidazole is bound to plasma proteins.
+Metronidazole appears in cerebrospinal fluid, saliva, and breast milk in concentrations similar to those found in plasma.
+Bactericidal concentrations of metronidazole have also been detected in pus from hepatic abscesses.
+
+## Metabolism/Excretion
+
+The major route of elimination of metronidazole and its metabolites is via the urine (60% to 80% of the dose), with fecal excretion accounting for 6% to 15% of the dose.
+The metabolites that appear in the urine result primarily from side-chain oxidation [1-(ß-hydroxyethyl)-2-hydroxymethyl-5-nitroimidazole and 2-methyl-5-nitroimidazole-1-yl-acetic acid] and glucuronide conjugation, with unchanged metronidazole accounting for approximately 20% of the total.
+Both the parent compound and the hydroxyl metabolite possess in vitro antimicrobial activity against most strains of anaerobic bacteria and in vitro trichomonacidal activity.
+
+Renal clearance of metronidazole is approximately 10 mL/min/1.73 m2.
+The average elimination half-life of metronidazole in healthy subjects is eight hours.
+
+## Renal Impairment
 
 Decreased renal function does not alter the single-dose pharmacokinetics of metronidazole.
-However, plasma clearance of metronidazole is decreased in patients with decreased liver function.
+
+Subjects with end-stage renal disease (ESRD; CLCR=8.1±9.1mL/min) and who received a single intravenous infusion of metronidazole 500 mg had no significant change in metronidazole pharmacokinetics but had 2-fold higher Cmax of hydroxy-metronidazole and 5-fold higher Cmax of metronidazole acetate, compared to healthy subjects with normal renal function (CLCR=126±16 mL/min).
+Thus, on account of the potential accumulation of metronidazole metabolites in ESRD patients, monitoring for metronidazole associated adverse events is recommended (see PRECAUTIONS).
+
+Effect of Dialysis
+
+Following a single intravenous infusion or oral dose of metronidazole 500 mg, the clearance of metronidazole was investigated in ESRD subjects undergoing hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
+A hemodialysis session lasting for 4 to 8 hours removed 40% to 65% of the administered metronidazole dose, depending on the type of dialyzer membrane used and the duration of the dialysis session.
+If the administration of metronidazole cannot be separated from the dialysis session, supplementation of metronidazole dose following hemodialysis should be considered (see DOSAGE AND ADMINISTRATION).
+A peritoneal dialysis session lasting for 7.5 hours removed approximately 10% of the administered metronidazole dose.
+No adjustment in metronidazole dose is needed in ESRD patients undergoing CAPD.
+
+## Hepatic Impairment
+
+Following a single intravenous infusion of 500 mg metronidazole, the mean AUC24 of metronidazole was higher by 114% in patients with severe (Child-Pugh C) hepatic impairment, and by 54% and 53% in patients with mild (Child-Pugh A) and moderate (Child-Pugh B) hepatic impairment, respectively, compared to healthy control subjects.
+There were no significant changes in the AUC24 of hydroxy-metronidazole in these hepatically impaired patients.
+Pharmacokinetic modeling and simulation indicates the metronidazole dosage in amebiasis should be reduced by 50% and the dosage interval for trichomoniasis should be increased from every 12 hours to every 24 hours in patients with severe (Child-Pugh C) hepatic impairment.
+No dosage adjustment is needed for patients with mild to moderate hepatic impairment.
+Patients with hepatic impairment should be monitored for metronidazole associated adverse events (See PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+
+## Geriatric Patients
+
+Following a single 500 mg oral or IV dose of metronidazole, subjects >70 years old with no apparent renal or hepatic dysfunction had a 40% to 80% higher mean AUC of hydroxy-metronidazole (active metabolite), with no apparent increase in the mean AUC of metronidazole (parent compound), compared to young healthy controls <40 years old.
+In geriatric patients, monitoring for metronidazole associated adverse events is recommended (see PRECAUTIONS).
+
+## Pediatric Patients
+
+In one study, newborn infants appeared to demonstrate diminished capacity to eliminate metronidazole.
+The elimination half-life, measured during the first 3 days of life, was inversely related to gestational age.
+In infants whose gestational ages were between 28 and 40 weeks, the corresponding elimination half-lives ranged from 109 to 22.5 hours.
 
 ## Microbiology
 
-Metronidazole exerts antimicrobial effects in an anaerobic environment by the following possible mechanism: Once metronidazole enters the organism, the drug is reduced by intracellular electron transport proteins.
-Because of this alteration to the metronidazole molecule, a concentration gradient is maintained, which promotes the drug's intracellular transport.
-Presumably, free radicals are formed which, in turn, react with cellular components resulting in death of the microorganism.
+### Mechanism of Action
 
-Metronidazole has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Metronidazole exerts antibacterial effects in an anaerobic environment by the following possible mechanism: Once metronidazole enters the organism, the drug is reduced by intracellular electron transport proteins.
+Because of this alteration to the metronidazole molecule, a concentration gradient is maintained which promotes the drug's intracellular transport.
+Presumably, free radicals are formed which, in turn, react with cellular components resulting in death of the bacteria.
 
-Gram-positive anaerobes:
+Metronidazole is active against most obligate anaerobes, but does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
 
-Clostridium species Eubacterium species Peptococcus niger Peptostreptococcus species
+### Activity In Vitro and In Vivo
 
-Gram-negative anaerobes:
+Metronidazole has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B.vulgatus) Fusobacterium species
+Gram-positive anaerobes: Clostridium species Eubacterium species Peptococcus species Peptostreptococcus species
 
-Protozoal parasites:
+Gram-negative anaerobes: Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B.vulgatus) Fusobacterium species
 
-Entamoeba histolytica Trichomonas vaginalis
+Protozoal parasites: Entamoeba histolytica Trichomonas vaginalis
 
 The following in vitro data are available, but their clinical significance is unknown:
 
-Metronidazole exhibits in vitro minimum inhibitory concentrations (MICs) of 8 µg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of metronidazole in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Metronidazole exhibits in vitro minimum inhibitory concentrations (MICs) of 8 mcg/mL or less against most (≥ 90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
-Gram-negative anaerobes:
+Gram-negative anaerobes: Bacteroides fragilis group (B. caccae, B. uniformis) Prevotella species (P. bivia, P. buccae, P. disiens)
 
-Bacteroides fragilis group (B. caccae, B. uniformis) Prevotella species (P. bivia, P. buccae, P. disiens); Metronidazole is active against most obligate anaerobes, but does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
+### Susceptibility Test Methods
 
-## Susceptibility Tests
+When available, the clinical microbiology laboratory should provide results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-### Dilution techniques
+### Anaerobic techniques
 
-Quantitative methods that are used to determine minimum inhibitory concentrations provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-For anaerobic bacteria, the susceptibility to metronidazole can be determined by the reference agar dilution method or by alternate standardized test methods1.
+Quantitative methods are used to determine antimicrobial inhibitory concentrations (MICs) provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+For anaerobic bacteria, the susceptibility to metronidazole can be determined by the reference broth or agar dilution method1,2.
 The MIC values obtained should be interpreted according to the following criteria:
 
-| MIC (µg/mL) | Interpretation |
+Susceptibility Test Interpretive Criteria for Metronidazole
+
+| MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤ 8 | Susceptible (S) |
 | 16 | Intermediate (I) |
@@ -67,18 +108,20 @@ The MIC values obtained should be interpreted according to the following criteri
 
 For protozoal parasites: Standardized tests do not exist for use in clinical microbiology laboratories.
 
-A report of "Susceptible" indicates that the pathogen is likely to be inhibited by usually achievable concentrations of the antimicrobial compound in the blood.
-A report of "Intermediate" indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that usually achievable concentrations of the antimicrobial compound in the blood are unlikely to be inhibitory and other therapy should be selected.
+A report of "Susceptible" indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
+A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug product can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of "Resistant" indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-Standardized susceptibility test procedures require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-Standard metronidazole powder should provide the following MIC values:
+### Quality Control
 
-| Microorganism | MIC (µg/mL) |
-| --- | --- |
-| Bacteroides fragilis | 0.25–1.0 |
-| ATCC 25285 |  |
-| Bacteroides thetaiotaomicron | 0.5–2.0 |
-| ATCC 29741 |  |
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2 Standard metronidazole powder should provide a value within the MIC ranges noted in the following table:
+
+Acceptable Quality Control Ranges for Metronidazole
+
+| Agar | Broth |  |
+| --- | --- | --- |
+| QC Strain | Minimum Inhibitory Concentration (mcg/mL) |  |
+| Bacteroides fragilis ATCC 25285 | 0.25–1.0 | 0.25–2.0 |
+| Bacteroides thetaiotaomicron ATCC 29741 | 0.5–2.0 | 0.5–4.0 |
