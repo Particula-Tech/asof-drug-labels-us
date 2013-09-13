@@ -1,7 +1,5 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Flagyl ER and other antibacterial drugs, Flagyl ER should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of FLAGYL ER®, and other antibacterial drugs, FLAGYL ER should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 Rx only
 
-LAB-0166-8.0
-
-September 2010
+LAB-0166-9.0 September 2013

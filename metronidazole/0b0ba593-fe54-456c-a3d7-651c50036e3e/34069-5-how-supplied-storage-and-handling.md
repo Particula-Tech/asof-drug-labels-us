@@ -1,10 +1,10 @@
 # HOW SUPPLIED
 
-Flagyl ER 750 mg tablets are oval, blue, film coated, with SEARLE and 1961 embossed on one side and FLAGYL and ER on the other side, supplied as:
+FLAGYL ER 750 mg tablets are oval, blue, film coated, with SEARLE and 1961 embossed on one side and FLAGYL and ER on the other side, supplied as:
 
-NDC Number Size
-
-0025–1961–30 Bottle of 30
+| NDC Number | Size |
+| --- | --- |
+| 0025–1961–30 | Bottle of 30 |
 
 ## Storage and Stability
 

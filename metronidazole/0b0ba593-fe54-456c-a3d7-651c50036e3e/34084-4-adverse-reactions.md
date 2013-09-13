@@ -1,17 +1,16 @@
 # ADVERSE REACTIONS
 
-In two multicenter clinical trials, a total of 270 patients received 750 mg Flagyl ER tablets orally once daily for 7 days, and 287 were treated with a comparator agent administered intravaginally once daily for 7 days.
-(See CLINICAL STUDIES.)4,5
+In two multicenter clinical trials, a total of 270 patients received 750 mg FLAGYL ER tablets orally once daily for 7 days, and 287 were treated with a comparator agent administered intravaginally once daily for 7 days (See CLINICAL STUDIES).5,6
 
 Most adverse events were described as being of mild or moderate severity.
-Among patients taking Flagyl ER who reported headaches, 10% considered them severe, and less than 2% of reported episodes of nausea were considered severe.
-Metallic taste was reported by 9% of patients taking Flagyl ER.
+Among patients taking FLAGYL ER who reported headaches, 10% considered them severe, and less than 2% of reported episodes of nausea were considered severe.
+Metallic taste was reported by 9% of patients taking FLAGYL ER.
 
 Adverse events reported at ≥2% incidence for either treatment group, irrespective of treatment causality, are summarized in the table below.
 
 Adverse Events (≥2% Incidence Rate)—Irrespective of Treatment Causality
 
-|  | Flagyl ER 7 days (N=267) | Vaginal Preparation (N=285) |
+|  | FLAGYL ER 7 days (N=267) | Vaginal Preparation (N=285) |
 | --- | --- | --- |
 | Headache | 48 (18%) | 44 (15%) |
 | Vaginitis | 39 (15%) | 32 (12%) |
@@ -34,20 +33,20 @@ Adverse Events (≥2% Incidence Rate)—Irrespective of Treatment Causality
 | Urinary Tract Infection | 6 (2%) | 16 (6%) |
 
 Vulvovaginal candidiasis is a recognized consequence of treatment with many anti-infective agents.
-In these multicenter clinical trials, there were no statistically significant differences in the incidence rates of yeast vaginitis for groups of patients treated with Flagyl ER or the vaginal comparator.
+In these multicenter clinical trials, there were no statistically significant differences in the incidence rates of yeast vaginitis for groups of patients treated with FLAGYL ER or the vaginal comparator.
 
-The following reactions have also been reported during treatment with metronidazole:
+The following reactions have been reported during treatment with metronidazole:
 
 Central Nervous System: The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
 Since persistent peripheral neuropathy has been reported in some patients receiving prolonged administration of metronidazole, patients should be specifically warned about these reactions and should be told to stop the drug and report immediately to their physicians if any neurologic symptoms occur.
-In addition, patients have reported dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia.
-(See WARNINGS.)
+In addition, patients have reported headache, syncope, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia (See WARNINGS).
 
-Gastrointestinal: The most common adverse reactions reported have been referable to the gastrointestinal tract, particularly nausea reported by about 12% of patients, sometimes accompanied by headache, anorexia, and occasionally vomiting, diarrhea, epigastric distress, and abdominal cramping.
-Constipation has also been reported.
+Gastrointestinal: The most common adverse reactions reported have been referable to the gastrointestinal tract, particularly nausea, sometimes accompanied by headache, anorexia, and occasionally vomiting, diarrhea, epigastric distress; abdominal cramping; and constipation.
 
+Mouth: A sharp, unpleasant metallic taste is not unusual.
 Furry tongue, glossitis, and stomatitis have occurred; these may be associated with a sudden overgrowth of Candida which may occur during therapy.
-Rare cases of pancreatitis, which generally abated on withdrawal of the drug, have been reported.
+
+Dermatologic: Erythematous rash and pruritus.
 
 Hematopoietic: Reversible neutropenia (leukopenia); rarely, reversible thrombocytopenia.
 
@@ -60,10 +59,9 @@ Instances of darkened urine have been reported by approximately one patient in 1
 Although the pigment which is probably responsible for this phenomenon has not been positively identified, it is almost certainly a metabolite of metronidazole and seems to have no clinical significance.
 
 Other: Proliferation of Candida in the vagina, dyspareunia, decrease of libido, proctitis, and fleeting joint pains sometimes resembling "serum sickness."
-If patients receiving metronidazole drink alcoholic beverages, they may experience abdominal distress, nausea, vomiting, flushing, or headache.
-A modification of the taste of alcoholic beverages has also been reported.
+Rare cases of pancreatitis, which generally abated on withdrawal of the drug, have been reported.
 
 Patients with Crohn's disease are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers.
 There have been some reports in the medical literature of breast and colon cancer in Crohn's disease patients who have been treated with metronidazole at high doses for extended periods of time.
 A cause and effect relationship has not been established.
-Crohn's disease is not an approved indication for Flagyl ER 750 mg tablets.
+Crohn's disease is not an approved indication for FLAGYL ER 750 mg tablets.
