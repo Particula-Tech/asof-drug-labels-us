@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA201635"
+  ],
+  "inn": "topiramate",
+  "labeler": "Supernus Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "17772-101-01",
+    "17772-101-15",
+    "17772-102-01",
+    "17772-102-15",
+    "17772-103-01",
+    "17772-103-15",
+    "17772-104-01",
+    "17772-104-15"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "topiramate",
+      "name": "Trokendi XR"
+    }
+  ],
+  "setid": "2dc7957e-a3e5-46bb-aa66-f3250f872f5e",
+  "source": "dailymed"
+}
