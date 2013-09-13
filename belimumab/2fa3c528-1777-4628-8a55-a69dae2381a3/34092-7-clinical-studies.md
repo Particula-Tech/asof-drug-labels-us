@@ -35,9 +35,9 @@ The patients were administered study medication intravenously over a 1-hour peri
 
 The primary efficacy endpoint was a composite endpoint (SLE Responder Index or SRI) that defined response as meeting each of the following criteria at Week 52 compared with baseline:
 
-- ≥ 4-point reduction in the SELENA-SLEDAI score, and
-- no new British Isles Lupus Assessment Group (BILAG) A organ domain score or 2 new BILAG B organ domain scores, and
-- no worsening (< 0.30-point increase) in Physician’s Global Assessment (PGA) score.
+- •≥ 4-point reduction in the SELENA-SLEDAI score, and
+- •no new British Isles Lupus Assessment Group (BILAG) A organ domain score or 2 new BILAG B organ domain scores, and
+- •no worsening (< 0.30-point increase) in Physician’s Global Assessment (PGA) score.
 
 The SRI uses the SELENA-SLEDAI score as an objective measure of reduction in global disease activity; the BILAG index to ensure no significant worsening in any specific organ system; and the PGA to ensure that improvements in disease activity are not accompanied by worsening of the patient’s condition overall.
 
@@ -52,7 +52,7 @@ Clinical Response Rate in Patients with SLE After 52 Weeks of Treatment
 
 |  | Trial 2 |  |  | Trial 3 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| ResponsePatients dropping out of the study early or experiencing certain increases in background medication were considered as failures in these analyses. In both studies, a higher proportion of placebo patients were considered as failures for this reason as compared to the BENLYSTA groups. | Placebo + Standard of Care (n = 275) | BENLYSTA 1 mg/kg + Standard of Care (n = 271) | BENLYSTA 10 mg/kg + Standard of Care (n = 273) | Placebo + Standard of Care (n = 287) | BENLYSTA 1 mg/kg + Standard of CareThe 1 mg/kg dose is not recommended. (n = 288) | BENLYSTA 10 mg/kg + Standard of Care (n = 290) |
+| ResponsePatients dropping out of the study early or experiencing certain increases in background medication were considered as failures in these analyses. In both studies, a higher proportion of placebo patients were considered as failures for this reason as compared to the BENLYSTA groups. | Placebo + Standard of Care (n = 275) | BENLYSTA 1 mg/kg + Standard of CareThe 1 mg/kg dose is not recommended. (n = 271) | BENLYSTA 10 mg/kg + Standard of Care (n = 273) | Placebo + Standard of Care (n = 287) | BENLYSTA 1 mg/kg + Standard of Care (n = 288) | BENLYSTA 10 mg/kg + Standard of Care (n = 290) |
 | SLE Responder Index | 34% | 41% (p = 0.104) | 43% (p = 0.021) | 44% | 51% (p = 0.013) | 58% (p < 0.001) |
 | Odds Ratio (95% CI) vs. placebo |  | 1.3 (0.9, 1.9) | 1.5 (1.1, 2.2) |  | 1.6 (1.1, 2.2) | 1.8 (1.3, 2.6) |
 | Components of SLE Responder Index |  |  |  |  |  |  |

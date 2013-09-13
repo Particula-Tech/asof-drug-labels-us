@@ -4,12 +4,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following have been observed with BENLYSTA and are discussed in detail in the Warnings and Precautions section:
 
-- Mortality[see Warnings and Precautions (5.1)]
-- SeriousInfections[see Warnings and Precautions (5.2)]
-- Malignancy[see Warnings and Precautions (5.3)]
-- Hypersensitivity Reactions, Including Anaphylaxis[see Warnings and Precautions (5.4)]
-- Infusion reactions[see Warnings and Precautions (5.5)]
-- Depression[see Warnings and Precautions (5.6)]
+- •Mortality[see Warnings and Precautions (5.1)]
+- •Serious Infections[see Warnings and Precautions (5.2)]
+- •Malignancy[see Warnings and Precautions (5.3)]
+- •Hypersensitivity Reactions, Including Anaphylaxis [see Warnings and Precautions (5.4)]
+- •Infusion reactions [see Warnings and Precautions (5.5)]
+- •Depression [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -66,4 +66,4 @@ For these reasons, comparison of the incidence of antibodies to belimumab with t
 The following adverse reactions have been identified during postapproval use of BENLYSTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Fatal anaphylaxis [see Warnings and Precautions (5.4)].
+- •Fatal anaphylaxis [see Warnings and Precautions (5.4)].

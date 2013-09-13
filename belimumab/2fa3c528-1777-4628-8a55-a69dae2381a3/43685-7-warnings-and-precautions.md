@@ -50,7 +50,7 @@ In the controlled clinical trials, adverse events associated with the infusion (
 Serious infusion reactions (excluding hypersensitivity reactions) were reported in 0.5% of patients receiving BENLYSTA and 0.4% of patients receiving placebo and included bradycardia, myalgia, headache, rash, urticaria, and hypotension.
 The most common infusion reactions (≥ 3% of patients receiving BENLYSTA) were headache, nausea, and skin reactions.
 Due to overlap in signs and symptoms, it was not possible to distinguish between hypersensitivity reactions and infusion reactions in all cases [see Warnings and Precautions (5.4)].
-Some patients (13%) received premedication, which may have mitigated or masked an infusion reaction; however there is insufficient evidence to determine whether premedication diminishes the frequency or severity of infusion reactions [seeAdverse Reactions (6.1)].
+Some patients (13%) received premedication, which may have mitigated or masked an infusion reaction; however there is insufficient evidence to determine whether premedication diminishes the frequency or severity of infusion reactions [see Adverse Reactions (6.1)].
 
 BENLYSTA should be administered by healthcare providers prepared to manage infusion reactions.
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction.
