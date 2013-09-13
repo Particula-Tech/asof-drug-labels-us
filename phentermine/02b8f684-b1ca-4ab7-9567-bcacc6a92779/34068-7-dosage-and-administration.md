@@ -1,0 +1,13 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Exogenous Obesity
+
+Dosage should be individualized to obtain an adequate response with the lowest effective dose.
+
+The usual adult dose is one tablet (37.5 mg) daily, as prescribed by the physician, administered before breakfast or 1 to 2 hours after breakfast.
+The dosage may be adjusted to the patient's need.
+For some patients, half tablet (18.75 mg) daily may be adequate, while in some cases it may be desirable to give half tablets (18.75 mg) two times a day.
+
+Phentermine hydrochloride is not recommended for use in pediatric patients ≤ 16 years of age.
+
+Late evening medication should be avoided because of the possibility of resulting insomnia.

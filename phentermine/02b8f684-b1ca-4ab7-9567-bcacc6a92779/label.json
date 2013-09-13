@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA040526"
+  ],
+  "inn": "phentermine",
+  "labeler": "Mutual Pharmaceutical Company, Inc.",
+  "package_ndcs": [
+    "53489-676-01",
+    "53489-676-03",
+    "53489-676-05",
+    "53489-676-06",
+    "53489-676-07",
+    "53489-676-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phentermine hydrochloride",
+      "name": "Phentermine Hydrochloride"
+    }
+  ],
+  "setid": "02b8f684-b1ca-4ab7-9567-bcacc6a92779",
+  "source": "dailymed"
+}
