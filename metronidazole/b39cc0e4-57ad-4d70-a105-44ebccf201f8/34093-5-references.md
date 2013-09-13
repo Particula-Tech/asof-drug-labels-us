@@ -1,16 +1,9 @@
 # REFERENCES
 
-1. Proposed standard: PSM-11—Proposed Reference Dilution Procedure for Antimicrobic Susceptibility Testing of Anaerobic Bacteria, National Committee for Clinical Laboratory Standards; and Sutter, et al.: Collaborative Evaluation of a Proposed Reference Dilution Method of Susceptibility Testing of Anaerobic Bacteria, Antimicrob.
-   Agents Chemother.
-   16:495–502 (Oct.)
-   1979; and Tally, et al.: In Vitro Activity of Thienamycin, Antimicrob.
-   Agents Chemother.
-   14:436–438 (Sept.)
-   1978.
-2. Ralph, E.D., and Kirby, W.M.M.: Bioassay of Metronidazole With Either Anaerobic or Aerobic Incubation, J. Infect.
-   Dis.
-   132:587–591 (Nov.)
-   1975; or Gulaid, et al.: Determination of Metronidazole and Its Major Metabolites in Biological Fluids by High Pressure Liquid Chromatography, Br.
-   J. Clin.
-   Pharmacol.
-   6:430–432, 1978.
+1. Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard - Eighth Edition.
+   CLSI document M11-A8.
+   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, PA 19087 USA, 2012.
+2. Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-third Informational Supplement, CLSI document M100-S23.
+   CLSI document M100-S23, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2013.
