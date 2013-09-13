@@ -23,7 +23,7 @@ The following adverse reactions are discussed in more detail in other sections o
 
 ## 6.1 Clinical Studies Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Adults
 
@@ -216,9 +216,9 @@ At the end of treatment, the mean change from baseline in SAS total score and BA
 The use of concomitant anticholinergic medications was infrequent and similar across the treatment groups.
 The incidence of extrapyramidal symptoms was consistent with that seen with the profile of SEROQUEL in schizophrenia patients.
 
-In Tables 16 – 19, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
+In Tables 16-19, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
 
-Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in Placebo-controlled Clinical Trials for Schizophrenia
+Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in Placebo-Controlled Clinical Trials for Schizophrenia
 
 | Preferred term | SEROQUEL XR 300 mg/day(N=91) |  | SEROQUEL XR 400 mg/day(N=227) |  | SEROQUEL XR 600 mg/day(N=310) |  | SEROQUEL XR 800 mg/day(N=323) |  | All Doses(N=951) |  | Placebo(N=319) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -232,7 +232,7 @@ Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in Placebo-c
 In a placebo-controlled clinical trial for the treatment of bipolar mania, utilizing the dose range of 400-800 mg/day of SEROQUEL XR, the incidence of any adverse reactions related to EPS was 6.6% for SEROQUEL XR and 3.8% in the placebo group.
 In this study, the incidence of the individual adverse reactions (akathisia, extrapyramidal disorder, tremor, dystonia, restlessness, and cogwheel rigidity) did not exceed 2.0% for any adverse reaction.
 
-Table 17: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-controlled Clinical Trial for Bipolar Mania
+Table 17: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Clinical Trial for Bipolar Mania
 
 | Preferred termThere were no adverse experiences with the preferred term of dyskinetic event. | SEROQUEL XR(N=151) |  | Placebo(N=160) |  |
 | --- | --- | --- | --- | --- |
@@ -245,7 +245,7 @@ Table 17: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo
 In a placebo-controlled clinical trial for the treatment of bipolar depression utilizing 300 mg of SEROQUEL XR, the incidence of any adverse reactions related to EPS was 4.4% for SEROQUEL XR and 0.7% in the placebo group.
 In this study, the incidence of the individual adverse reactions (akathisia, extrapyramidal disorder, tremor, dystonia, hypertonia) did not exceed 1.5% for any individual adverse reaction.
 
-Table 18: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-controlled Clinical Trial for Bipolar Depression
+Table 18: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Clinical Trial for Bipolar Depression
 
 | Preferred termThere were no adverse experiences with the preferred term of dyskinetic event. | SEROQUEL XR(N=137) |  | Placebo(N=140) |  |
 | --- | --- | --- | --- | --- |
@@ -285,7 +285,7 @@ The adverse reactions leading to discontinuation in 2% or more of patients on SE
 
 Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials:
 
-In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were: dizziness 7%, diarrhea 5%, fatigue 5% and nausea 5%.
+In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were: dizziness (7%), diarrhea (5%), fatigue (5%) and nausea (5%).
 
 In therapy for schizophrenia (up to 6 weeks), the most commonly observed adverse reactions associated with the use of quetiapine in adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (34%), dizziness (12%), dry mouth (7%), tachycardia (7%).
 
@@ -367,14 +367,14 @@ Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in c
 
 In a short-term placebo-controlled SEROQUEL XR monotherapy trial in children and adolescent patients (10-17 years of age) with bipolar depression (8-week duration), in which efficacy was not established, the aggregated incidence of extrapyramidal symptoms was 1.1% (1/92) for SEROQUEL XR and 0% (0/100) for placebo.
 
-In a short-term placebo-controlled SEROQUEL monotherapy trial in adolescent patients (13-17 years of age) with schizophrenia (6-week duration), the aggregated incidence of extrapyramidal symptoms was 12.9% (19/147) for SEROQUEL and 5.3% (4/75) for placebo, though the incidence of the individual adverse reactions (eg, akathisia, tremor, extrapyramidal disorder, hypokinesia, restlessness, psychomotor hyperactivity, muscle rigidity, dyskinesia) did not exceed 4.1% in any treatment group.
+In a short-term placebo-controlled SEROQUEL monotherapy trial in adolescent patients (13-17 years of age) with schizophrenia (6-week duration), the aggregated incidence of extrapyramidal symptoms was 12.9% (19/147) for SEROQUEL and 5.3% (4/75) for placebo, though the incidence of the individual adverse reactions (e.g., akathisia, tremor, extrapyramidal disorder, hypokinesia, restlessness, psychomotor hyperactivity, muscle rigidity, dyskinesia) did not exceed 4.1% in any treatment group.
 In a short-term placebo-controlled SEROQUEL monotherapy trial in children and adolescent patients (10-17 years of age) with bipolar mania (3-week duration), the aggregated incidence of extrapyramidal symptoms was 3.6% (7/193) for SEROQUEL and 1.1% (1/90) for placebo.
 
 In Tables 22 and 23, dystonic events included nuchal rigidity, hypertonia, dystonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
 Table 22 below presents a listing of patients with adverse reactions associated with EPS in the short-term placebo-controlled SEROQUEL monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
-Table 22: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-controlled Trial in Adolescent Patients with Schizophrenia (6-week duration).
+Table 22: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration).
 
 | Preferred term | SEROQUEL400 mg/day(N=73) |  | SEROQUEL800 mg/day(N=74) |  | All SEROQUEL(N=147) |  | Placebo(N=75) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -387,7 +387,7 @@ Table 22: Adverse Reactions Associated with Extrapyramidal Symptoms in the Place
 
 Table 23 below presents a listing of patients with adverse reactions associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
 
-Table 23: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
+Table 23: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
 
 | Preferred termThere were no adverse reactions with the preferred term of dystonic or dyskinetic events. | SEROQUEL400 mg/day(N=95) |  | SEROQUEL600 mg/day(N=98) |  | All SEROQUEL(N=193) |  | Placebo(N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -432,7 +432,7 @@ The incidence of adverse reactions of tachycardia was 1.9% for SEROQUEL XR compa
 SEROQUEL use was associated with a mean increase in heart rate, assessed by ECG, of 7 beats per minute compared to a mean increase of 1 beat per minute among placebo patients.
 The slight tendency for tachycardia may be related to quetiapine’s potential for inducing orthostatic changes [see Warnings and Precautions (5.7)].
 
-Children and Adolescents: Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10 to 17 years of age [(see Clinical Studies (14.1 and 14.2)].
+Children and Adolescents: Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10 to 17 years of age [see Clinical Studies (14.1 and 14.2)].
 
 In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10-12 years and 13-17 years) occurred in 0% of patients receiving SEROQUEL XR and 1.2% of patients receiving placebo.
 Mean increases in heart rate were 3.4 bpm for SEROQUEL XR, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].

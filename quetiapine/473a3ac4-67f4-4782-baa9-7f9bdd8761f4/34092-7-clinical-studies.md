@@ -40,7 +40,7 @@ Stabilization during the open-label phase was defined as receiving a stable dose
 Relapse during the double-blind phase was defined in terms of a ≥30% increase in the PANSS Total score, or CGI-Improvement score of ≥6, or hospitalization due to worsening of schizophrenia, or need for any other antipsychotic medication.
 Patients on SEROQUEL XR experienced a statistically significant longer time to relapse than did patients on placebo (Figure 1).
 
-Figure 1 Kaplan-Meier Curves of Time to Schizophrenic Relapse (study 3)
+Figure 1: Kaplan-Meier Curves of Time to Schizophrenic Relapse (study 3)
 
 PLA Placebo.
 QTP Quetiapine.
@@ -163,7 +163,7 @@ In both studies, SEROQUEL was superior to placebo in increasing the time to recu
 The treatment effect was present for increasing time to recurrence of both manic and depressed episodes.
 The effect of SEROQUEL was independent of any specific subgroup (assigned mood stabilizer, sex, age, race, most recent bipolar episode, or rapid cycling course).
 
-Figure 2 Kaplan-Meier Curves of Time to Recurrence of A Mood Event (Study 9)
+Figure 2: Kaplan-Meier Curves of Time to Recurrence of A Mood Event (Study 9)
 
 ## 14.3 Major Depressive Disorder, Adjunctive Therapy to Antidepressants
 

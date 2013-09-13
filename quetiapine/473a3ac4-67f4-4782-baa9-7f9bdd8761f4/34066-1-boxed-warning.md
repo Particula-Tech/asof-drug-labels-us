@@ -11,6 +11,6 @@ Antidepressants increased the risk of suicidal thoughts and behavior in children
 These studies did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in patients over age 24; there was a reduction in risk with antidepressant use in patients aged 65 and older [see Warnings and Precautions (5.2)].
 
 In patients of all ages who are started on antidepressant therapy, monitor closely for worsening, and for emergence of suicidal thoughts and behaviors.
-Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.2)]
+Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.2)].
 
 SEROQUEL XR is not approved for use in pediatric patients under ten years of age [see Use in Specific Populations (8.4)].

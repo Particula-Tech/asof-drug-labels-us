@@ -103,7 +103,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Adults:
 
-Table 3: Fasting Glucose-Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
+Table 3: Fasting Glucose-Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
 
 | Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -244,7 +244,7 @@ Table 8: Percentage of Patients with Weight Gain ≥7% of Body Weight (Adults) b
 
 | Vital sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of body weight | Schizophrenia6 weeks duration | SEROQUEL XR | 907 | 90 (10%) |
+| Weight Gain ≥7% of Body Weight | Schizophrenia6 weeks duration | SEROQUEL XR | 907 | 90 (10%) |
 | Placebo | 299 | 16 (5%) |  |  |
 | Bipolar Mania3 weeks duration | SEROQUEL XR | 138 | 7 (5%) |  |
 | Placebo | 150 | 0 (0%) |  |  |
@@ -279,7 +279,7 @@ Table 10: Percentage of Patients with Weight Gain ≥7% of Body Weight (Children
 
 | Vital sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of Body Weight | Schizophrenia6 weeks duration | SEROQUEL | 111 | 23 (21%) |
+| Weight Gain ≥7% of Body Weight | Schizophrenia6 weeks duration | SEROQUEL | 111 | 23 (21%) |
 | Placebo | 44 | 3 (7%) |  |  |
 | Bipolar Mania3 weeks duration | SEROQUEL | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
@@ -356,7 +356,7 @@ Therefore, examination of the lens by methods adequate to detect cataract format
 
 In clinical trials quetiapine was not associated with a persistent increase in QT intervals.
 However, the QT effect was not systematically evaluated in a thorough QT study.
-In post marketing experience there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval..
+In post marketing experience there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval.
 
 The use of quetiapine should be avoided in combination with other drugs that are known to prolong QTc including Class 1A antiarrythmics (e.g., quinidine, procainamide) or Class III antiarrythmics (e.g., amiodarone, sotalol), antipsychotic medications (e.g., ziprasidone, chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
 
@@ -391,7 +391,7 @@ In eight patients, where TBG was measured, levels of TBG were unchanged.
 Table 11 shows the incidence of these shifts in short term placebo-controlled clinical trials.
 
 - Table 11: Incidence of shifts in thyroid hormone levels and TSH in short term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-  Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mIU/L at any time., Includes SEROQUEL and SEROQUEL XR data.
+  Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time., Includes SEROQUEL and SEROQUEL XR data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
