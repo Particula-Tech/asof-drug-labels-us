@@ -30,7 +30,7 @@ The formulas of the inactive ingredients are:
 | Dibasic Sodium Phosphate Heptahydrate USP | Na2HPO4•7H2O | 268.07 |
 | Citric Acid Anhydrous USP | CH2(COOH)C(OH)(COOH)CH2COOH | 192.12 |
 
-The EXCEL® Container is Latex-free; PVC-free; and DEHP-free.
+Not made with natural rubber latex, PVC or DEHP.
 
 The plastic container is made from a multilayered film specifically developed for parenteral drugs.
 It contains no plasticizers and exhibits virtually no leachables.
