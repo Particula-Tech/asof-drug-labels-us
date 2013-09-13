@@ -7,7 +7,7 @@ Heparin is not intended for intramuscular use.
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
 (See ADVERSE REACTIONS, Hypersensitivity.)
 
-Because Heparin Sodium in 0.9% Sodium Chloride Injection is derived from animal tissue, it should be used with caution in patients with a history of allergy.
+Because Heparin Sodium in 0.9% Sodium Chloride Injection is derived from animal tissue, monitor for signs and symptoms of hypersensitivity when it is used in patients with a history of allergy.
 
 ## Hemorrhage
 

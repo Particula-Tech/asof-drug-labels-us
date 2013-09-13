@@ -26,7 +26,7 @@ pH: 7.0 (6.8–7.2); Calculated Osmolarity: 360 mOsmol/liter
 
 Concentration of Electrolytes (mEq/liter): Sodium 186; Chloride 154; Phosphate (HPO) 32; Citrate 6
 
-The EXCEL® Container is Latex-free; PVC-free; and DEHP-free.
+Not made with natural rubber latex, PVC or DEHP.
 
 The plastic container is made from a multilayered film specifically developed for parenteral drugs.
 It contains no plasticizers and exhibits virtually no leachables.
