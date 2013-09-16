@@ -1,9 +1,10 @@
 STERILE OPHTHALMIC SOLUTION
 
-Manuf. for: ATON PHARMA Lawrenceville NJ 08648 USA
+Manufactured by: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
+Manufactured for: Valeant Ophthalmics, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
 
-Issued May 2009
+Rev.
+05/13
 
-50100236
+70009232

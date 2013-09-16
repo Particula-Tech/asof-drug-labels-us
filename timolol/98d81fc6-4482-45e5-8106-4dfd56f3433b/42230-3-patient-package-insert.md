@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-Please follow these instructions carefully when using TIMOPTICRegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2009 ATON PHARMA, INC. All rights reserved.
+Please follow these instructions carefully when using TIMOPTICRegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2013 ATON PHARMA, INC. All rights reserved.
 Use TIMOPTIC as prescribed by your doctor.
 
 1. If you use other topically applied ophthalmic medications, they should be administered at least 10 minutes before or after TIMOPTIC.
@@ -34,10 +34,11 @@ WARNING: Keep out of reach of children.
 
 If you have any questions about the use of TIMOPTIC, please consult your doctor.
 
-Manuf. for: ATON PHARMA Lawrenceville NJ 08648 USA
+Manufactured by: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
+Manufactured for: Valeant Ophthalmics, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
 
-Issued May 2009
+Rev.
+05/13
 
-50100236
+70009232
