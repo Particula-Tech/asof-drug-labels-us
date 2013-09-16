@@ -2,21 +2,15 @@
 
 PRINICPAL DISPLAY PANEL – 1 mL CONTAINER
 
-NDC 0517-4601-25
+NDC 0517-4601-25 GLYCOPYRROLATE INJECTION, USP
 
-GLYCOPYRROLATE INJECTION, USP
-
-0.2 mg/mL
-
-1 mL SINGLE DOSE VIAL
+0.2 mg/mL 1 mL SINGLE DOSE VIAL
 
 FOR IM OR IV USE
 
 Rx Only
 
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 PRINICPAL DISPLAY PANEL – 2 mL CONTAINER
 
@@ -24,9 +18,7 @@ NDC 0517-4602-25
 
 GLYCOPYRROLATE INJECTION, USP
 
-0.4 mg/2 mL
-
-(0.2 mg/mL)
+0.4 mg/2 mL (0.2 mg/mL)
 
 2 mL SINGLE DOSE VIAL
 
@@ -34,9 +26,7 @@ FOR IM OR IV USE
 
 Rx Only
 
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 PRINICPAL DISPLAY PANEL – 5 mL CONTAINER
 
@@ -52,26 +42,47 @@ FOR IM OR IV USE
 
 Rx Only
 
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 PRINICPAL DISPLAY PANEL – 20 mL CONTAINER
 
 GLYCOPYRROLATE INJECTION, USP
 
-4 mg/20 mL
+4 mg/20 mL (0.2 mg/mL)
 
-(0.2 mg/mL)
-
-20 mL
-
-MULTIPLE DOSE VIAL
+20 mL MULTIPLE DOSE VIAL
 
 FOR IM OR IV USE
 
 Rx Only
 
-AMERICAN REGENT, INC.
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
-SHIRLEY, NY 11967
+PRINCIPAL DISPLAY PANEL - 1 mL CARTON GLYCOPYRROLATE INJECTION, USP 0.2 mg/mL NDC 0517-4601-25 25 x 1 mL SINGLE DOSE VIALS Rx Only FOR INTRAMUSCULAR OR INTRAVENOUS USE
+
+Each mL contains: Glycopyrrolate 0.2 mg, Benzyl Alcohol 0.9%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
+WARNING: DISCARD UNUSED PORTION.
+Store at 20° to 25°C (68° to 77°F) (See USP Controlled Room Temperature).
+Directions for Use: See Package Insert.
+
+AMERICAN REGENT, INC. SHIRLEY, NY 11967 Rev.
+11/05
+
+PRINCIPAL DISPLAY PANEL - 2 mL CARTON GLYCOPYRROLATE INJECTION, USP 0.4 mg/2 mL (0.2 mg/mL) NDC 0517-4602-25 25 x 2 mL SINGLE DOSE VIALS Rx Only FOR INTRAMUSCULAR OR INTRAVENOUS USE
+
+Each mL contains: Glycopyrrolate 0.2 mg, Benzyl Alcohol 0.9%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
+WARNING: DISCARD UNUSED PORTION.
+Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) (See USP Controlled Room Temperature).
+Directions for Use: See Package Insert.
+
+AMERICAN REGENT, INC. SHIRLEY, NY 11967 Rev.
+11/05
+
+PRINCIPAL DISPLAY PANEL - 5 mL CARTON GLYCOPYRROLATE INJECTION, USP 1 mg/5 mL (0.2 mg/mL) NDC 0517-4605-25 25 x 5 mL MULTIPLE DOSE VIALS Rx Only FOR INTRAMUSCULAR OR INTRAVENOUS USE
+
+Each mL contains: Glycopyrrolate 0.2 mg, Benzyl Alcohol 0.9%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP Controlled Room Temperature).
+Directions for Use: See Package Insert.
+
+AMERICAN REGENT, INC. SHIRLEY, NY 11967 Rev.
+8/09

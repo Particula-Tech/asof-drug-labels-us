@@ -3,13 +3,7 @@
 Glycopyrrolate Injection, USP is a clear, colorless, sterile solution of Glycopyrrolate, USP with Benzyl Alcohol, NF in Water for Injection, USP.
 The formulation is used for intramuscular or intravenous administration.
 
-Each mL contains:
-
-Glycopyrrolate, USP…………………………..0.2 mg
-
-Benzyl Alcohol, NF (preservative)………….….0.9%
-
-Water for Injection, USP.................................... q.s.
+Each mL contains: Glycopyrrolate, USP…………………………..0.2 mg Benzyl Alcohol, NF (preservative)………….….0.9% Water for Injection, USP.................................... q.s.
 
 When necessary, pH (2.0 to 3.0) adjusted with hydrochloric acid and/or sodium hydroxide.
 

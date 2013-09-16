@@ -12,7 +12,7 @@ With intravenous injection, the onset of action is generally evident within one 
 Following intramuscular administration, the onset of action is noted in 15 to 30 minutes, with peak effects occurring within approximately 30 to 45 minutes.
 The vagal blocking effects persist for 2 to 3 hours and the antisialagogue effects persist up to 7 hours, periods longer than for atropine.
 
-## Pharmacokinetics
+## PHARMACOKINETICS
 
 The following pharmacokinetic information and conclusions were obtained from published studies that used nonspecific assay methods.
 
@@ -34,11 +34,11 @@ After IM administration of glycopyrrolate to adults, the mean T1/2 value is repo
 
 Gender: Gender differences in pharmacokinetics of glycopyrrolate have not been investigated.
 
-Renal Impairment: In one study glycopyrrolate was administered IV in uremic patients undergoing renal transplantation.
+Renal Impairment:In one study glycopyrrolate was administered IV in uremic patients undergoing renal transplantation.
 The mean elimination half-life was significantly longer (46.8 minutes) than in healthy patients (18.6 minutes).
 The mean area-under-the-concentration-time curve (10.6 hr-μg/L), mean plasma clearance (0.43 L/hr/kg), and mean 3-hour urine excretion (0.7%) for glycopyrrolate were also significantly different than those of controls (3.73 hr-μg/L, 1.14 L/hr/kg, and 50%, respectively).
 These results suggest that elimination of glycopyrrolate is severely impaired in patients with renal failure.
 
-Hepatic Impairment: Pharmocokinetic information in patients with hepatic impairment is unavailable.
+Hepatic Impairment:Pharmocokinetic information in patients with hepatic impairment is unavailable.
 
 Pediatrics: Following IV administration (5 μg/kg glycopyrrolate) to infants and children, the mean T1/2 values were reported to be between 21.6 and 130.0 minutes and between 19.2 and 99.2 minutes, respectively.

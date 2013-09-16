@@ -26,7 +26,7 @@ Investigate any tachycardia before giving glycopyrrolate injection since an incr
 Use with caution in patients with: coronary artery disease; congestive heart failure; cardiac arrhythmias; hypertension; hyperthyroidism.
 
 Use with caution in patients with renal disease since the renal elimination of glycopyrrolate may be severely impaired in patients with renal failure.
-Dosage adjustments may be necessary (see Pharmacokinetics-Renally Impaired).
+Dosage adjustments may be necessary (see Pharmacokinetics - Renally Impaired).
 
 Use glycopyrrolate with caution in the elderly and in all patients with autonomic neuropathy, hepatic or renal disease, ulcerative colitis, prostatic hypertrophy, or hiatal hernia, since anticholinergic drugs may aggravate these conditions.
 
