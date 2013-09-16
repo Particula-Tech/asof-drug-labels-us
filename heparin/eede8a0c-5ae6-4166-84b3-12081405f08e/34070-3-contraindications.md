@@ -8,6 +8,4 @@ In whom suitable blood coagulation tests – e.g., the whole blood clotting time
 
 With an uncontrollable active bleeding state (see WARNINGS), except when this is due to disseminated intravascular coagulation.
 
-Dextrose injection without electrolytes should not be administered simultaneously with blood through the same infusion set because of the possibility that pseudo-agglutination of red cells may occur.
-Intravenous solutions with Heparin Sodium Injection are contraindicated in patients who are hypersensitive to heparin.
-This product is contraindicated in patients known to be hypersensitive to bisulfites.
+Solutions containing dextrose may be contraindicated in patients with hypersensitivity to corn products.
