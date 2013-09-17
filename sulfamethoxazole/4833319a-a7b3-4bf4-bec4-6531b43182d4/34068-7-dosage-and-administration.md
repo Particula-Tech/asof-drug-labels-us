@@ -13,9 +13,9 @@ The following table is a guideline for the attainment of this dosage:
 
 Children 2 months of age or older:
 
-| Weight |  | Dose–every 12 hours |
-| --- | --- | --- |
 | lb | kg | Tablets |
+| --- | --- | --- |
+| Weight |  | Dose–every 12 hours |
 | 22 | 10 | – |
 | 44 | 20 | 1 |
 | 66 | 30 | 1½ |

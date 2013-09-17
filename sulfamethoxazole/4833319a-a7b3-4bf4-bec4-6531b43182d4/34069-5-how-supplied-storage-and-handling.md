@@ -14,7 +14,7 @@ Sulfamethoxazole 800 mg and trimethoprim 160 mg tablets, double strength, white,
 | --- | --- |
 | Bottles of 500 | NDC 53489-146-05 |
 
-Store at 20º to 25ºC (68º to 77ºF).
+Store at 20° to 25°C (68° to 77°F).
 
 [See USP Controlled Room Temperature]
 

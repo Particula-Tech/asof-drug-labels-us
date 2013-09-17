@@ -1,10 +1,15 @@
 # WARNINGS
 
+Embryofetal Toxicity
+
+Some epidemiologic studies suggest that exposure to sulfamethoxazole/trimethoprim during pregnancy may be associated with an increased risk of congenital malformations, particularly neural tube defects, cardiovascular malformations, urinary tract defects, oral clefts, and club foot.
+If sulfamethoxazole/trimethoprim is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be advised of the potential hazards to the fetus.
+
 Hypersensitivity and Other Fatal Reactions
 
-FATALITIES ASSOCIATED WITH THE ADMINISTRATION OF SULFONAMIDES, ALTHOUGH RARE, HAVE OCCURRED DUE TO SEVERE REACTIONS, INCLUDING STEVENS-JOHNSON SYNDROME, TOXIC EPIDERMAL NECROLYSIS, FULMINANT HEPATIC NECROSIS, AGRANULOCYTOSIS, APLASTIC ANEMIA AND OTHER BLOOD DYSCRASIAS.
+Fatalities associated with the administration of sulfonamides, although rare, have occurred due to severe reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia and other blood dyscrasias.
 
-SULFONAMIDES, INCLUDING SULFONAMIDE-CONTAINING PRODUCTS SUCH AS SULFAMETHOXAZOLE/TRIMETHOPRIM, SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR ANY SIGN OF ADVERSE REACTION.
+Sulfonamides, including sulfonamide-containing products such as sulfamethoxazole/trimethoprim, should be discontinued at the first appearance of skin rash or any sign of adverse reaction.
 In rare instances, a skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, hepatic necrosis, and serious blood disorders (see PRECAUTIONS).
 Clinical signs, such as rash, sore throat, fever, arthralgia, pallor, purpura or jaundice may be early indications of serious reactions.
 
@@ -69,24 +74,28 @@ Porphyria and Hypothyroidism
 
 As with all drugs containing sulfonamides, caution is advisable in patients with porphyria or thyroid dysfunction.
 
-Use in the Treatment of and Prophylaxis for Pneumocystis Jiroveci Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS): AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim in the same manner as non-AIDS patients.
-The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim therapy in AIDS patients who are being treated for Pneumocystis jiroveci pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim in non-AIDS patients.
-The incidence of hyperkalemia appears to be increased in AIDS patients receiving sulfamethoxazole and trimethoprim.
+Use in the Treatment of and Prophylaxis for Pneumocystis jiroveci Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS): AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim in the same manner as non-AIDS patients.
+The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim therapy in AIDS patients who are being treated for P. jiroveci pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim in non-AIDS patients.
 Adverse effects are generally less severe in patients receiving sulfamethoxazole and trimethoprim for prophylaxis.
 A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.7 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim should be reevaluated (see WARNINGS).
 
-Co-administration of sulfamethoxazole/trimethoprim and leucovorin should be avoided with Pneumocystis jiroveci pneumonia (see WARNINGS).
+Co-administration of sulfamethoxazole/trimethoprim and leucovorin should be avoided with P. jiroveci pneumonia (see WARNINGS).
 
-High dosage of trimethoprim, as used in patients with Pneumocystis jiroveci pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
+Electrolyte Abnormalities
+
+High dosage of trimethoprim, as used in patients with P. jiroveci pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
 Even treatment with recommended doses may cause hyperkalemia when trimethoprim is administered to patients with underlying disorders of potassium metabolism, with renal insufficiency, or if drugs known to induce hyperkalemia are given concomitantly.
 Close monitoring of serum potassium is warranted in these patients.
+
+Severe and symptomatic hyponatremia can occur in patients receiving sulfamethoxazole and trimethoprim, particularly for the treatment of P. jiroveci pneumonia.
+Evaluation for hyponatremia and appropriate correction is necessary in symptomatic patients to prevent life-threatening complications.
 
 During treatment, adequate fluid intake and urinary output should be ensured to prevent crystalluria.
 Patients who are "slow acetylators" may be more prone to idiosyncratic reactions to sulfonamides.
 
 Information for Patients: Patients should be counseled that antibacterial drugs including sulfamethoxazole and trimethoprim tablets should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When sulfamethoxazole and trimethoprim tablets are prescribed to a treat bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+When sulfamethoxazole and trimethoprim tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by sulfamethoxazole and trimethoprim tablets or other antibacterial drugs in the future.
 
 Patients should be instructed to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
@@ -98,12 +107,20 @@ If this occurs, patients should contact their physician as soon as possible.
 Laboratory Tests: Complete blood counts should be done frequently in patients receiving sulfamethoxazole and trimethoprim; if a significant reduction in the count of any formed blood element is noted, sulfamethoxazole and trimethoprim should be discontinued.
 Urinalyses with careful microscopic examination and renal function tests should be performed during therapy, particularly for those patients with impaired renal function.
 
-Drug Interactions: In elderly patients concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombocytopenia with purpura has been reported.
+Drug Interactions:
 
-It has been reported that sulfamethoxazole and trimethoprim may prolong the prothrombin time in patients who are receiving the anticoagulant warfarin.
+Potential for Sulfamethoxazole and Trimethoprim to Affect Other Drugs
+
+Trimethoprim is an inhibitor of CYP2C8 as well as OCT2 transporter.
+Sulfamethoxazole is an inhibitor of CYP2C9.
+Caution is recommended when sulfamethoxazole and trimethoprim is co-administered with drugs that are substrates of CYP2C8 and 2C9 or OCT2.
+
+In elderly patients concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombocytopenia with purpura has been reported.
+
+It has been reported that sulfamethoxazole and trimethoprim may prolong the prothrombin time in patients who are receiving the anticoagulant warfarin (a CYP2C9 substrate).
 This interaction should be kept in mind when sulfamethoxazole and trimethoprim is given to patients already on anticoagulant therapy, and the coagulation time should be reassessed.
 
-Sulfamethoxazole and trimethoprim may inhibit the hepatic metabolism of phenytoin.
+Sulfamethoxazole and trimethoprim may inhibit the hepatic metabolism of phenytoin (a CYP2C9 substrate).
 Sulfamethoxazole and trimethoprim, given at a common clinical dosage, increased the phenytoin half-life by 39% and decreased the phenytoin metabolic clearance rate by 27%.
 When administering these drugs concurrently, one should be alert for possible excessive phenytoin effect.
 
@@ -120,9 +137,11 @@ Occasional reports suggest that patients receiving pyrimethamine as malaria prop
 
 The efficacy of tricyclic antidepressants can decrease when coadministered with sulfamethoxazole and trimethoprim.
 
-Like other sulfonamide-containing drugs, sulfamethoxazole and trimethoprim potentiates the effect of oral hypoglycemics.
+Sulfamethoxazole and trimethoprim potentiates the effect of oral hypoglycemics that are metabolized by CYP2C8 (e.g., pioglitazone, repaglinide, and rosiglitazone) or CYP2C9 (e.g., glipizide and glyburide) or eliminated renally via OCT2 (e.g., metformin).
+Additional monitoring of blood glucose may be warranted.
 
-In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole/trimethoprim and amantadine.
+In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole/trimethoprim and amantadine (an OCT2 substrate).
+Cases of interactions with other OCT2 substrates, memantine and metformin, have also been reported.
 
 In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and an angiotensin converting enzyme inhibitor.8,9
 
@@ -133,22 +152,23 @@ The presence of sulfamethoxazole and trimethoprim may also interfere with the Ja
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
-Carcinogenesis: Long-term studies in animals to evaluate carcinogenic potential have not been conducted with sulfamethoxazole and trimethoprim.
+Carcinogenesis: Sulfamethoxazole was not carcinogenic when assessed in a 26-week tumorigenic mouse (Tg-rasH2) study at doses up to 400 mg/kg/day sulfamethoxazole; equivalent to 2.4-fold the human systemic exposure (at a daily dose of 800 mg sulfamethoxazole b.i.d.).
 
-Mutagenesis: Bacterial mutagenic studies have not been performed with sulfamethoxazole and trimethoprim in combination.
-Trimethoprim was demonstrated to be nonmutagenic in the Ames assay.
-No chromosomal damage was observed in human leukocytes cultured in vitro with sulfamethoxazole and trimethoprim alone or in combination; the concentrations used exceeded blood levels of these compounds following therapy with sulfamethoxazole and trimethoprim.
+Mutagenesis: In vitro reverse mutation bacterial tests according to the standard protocol have not been performed with sulfamethoxazole and trimethoprim in combination.
+An in vitro chromosomal aberration test in human lymphocytes with sulfamethoxazole/trimethoprim was negative.
+In in vitro and in vivo tests in animal species, sulfamethoxazole/trimethoprim did not damage chromosomes.
+In vivo micronucleus assays were positive following oral administration of sulfamethoxazole/trimethoprim.
 Observations of leukocytes obtained from patients treated with sulfamethoxazole and trimethoprim revealed no chromosomal abnormalities.
 
-Impairment of Fertility: No adverse effects on fertility or general reproductive performance were observed in rats given oral dosages as high as 350 mg/kg/day sulfamethoxazole plus 70 mg/kg/day trimethoprim.
+Sulfamethoxazole alone was positive in an in vitro reverse mutation bacterial assay and in in vitro micronucleus assays using cultured human lymphocytes.
 
-Pregnancy: Teratogenic Effects: Pregnancy Category C. In rats, oral doses of 533 mg/kg or 200 mg/kg produced teratologic effects manifested mainly as cleft palates.
+Trimethoprim alone was negative in in vitro reverse mutation bacterial assays and in in vitro chromosomal aberration assays with Chinese Hamster ovary or lung cells with or without S9 activation.
+In in vitro Comet, micronucleus and chromosomal damage assays using cultured human lymphocytes, trimethoprim was positive.
+In mice following oral administration of trimethoprim, no DNA damage in Comet assays of liver, kidney, lung, spleen, or bone marrow was recorded.
 
-The highest dose which did not cause cleft palates in rats was 512 mg/kg sulfamethoxazole or 192 mg/kg trimethoprim when administered separately.
-In two studies in rats, no teratology was observed when 512 mg/kg of sulfamethoxazole was used in combination with 128 mg/kg of trimethoprim.
-In one study, however, cleft palates were observed in one litter out of 9 when 355 mg/kg of sulfamethoxazole was used in combination with 88 mg/kg of trimethoprim.
+Impairment of Fertility: No adverse effects on fertility or general reproductive performance were observed in rats given oral dosages as high as 350 mg/kg/day sulfamethoxazole plus 70 mg/kg/day trimethoprim, doses roughly two times the recommended human daily dose on a body surface area basis.
 
-In some rabbit studies, an overall increase in fetal loss (dead and resorbed and malformed conceptuses) was associated with doses of trimethoprim 6 times the human therapeutic dose.
+Pregnancy:
 
 While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,10 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
 The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving sulfamethoxazole and trimethoprim.
@@ -157,9 +177,27 @@ In a separate survey, Brumfitt and Pursell also found no congenital abnormalitie
 
 Because sulfamethoxazole and trimethoprim may interfere with folic acid metabolism, sulfamethoxazole and trimethoprim should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
+Teratogenic Effects: Pregnancy Category D.
+
+Human Data:
+
+While there are no large prospective, well controlled studies in pregnant women and their babies, some retrospective epidemiologic studies suggest an association between first trimester exposure to sulfamethoxazole/trimethoprim with an increased risk of congenital malformations, particularly neural tube defects, cardiovascular abnormalities, urinary tract defects, oral clefts, and club foot.
+These studies, however, were limited by the small number of exposed cases and the lack of adjustment for multiple statistical comparisons and confounders.
+These studies are further limited by recall, selection, and information biases, and by limited generalizability of their findings.
+Lastly, outcome measures varied between studies, limiting cross-study comparisons.
+Alternatively, other epidemiologic studies did not detect statistically significant associations between sulfamethoxazole/trimethoprim exposure and specific malformations.
+
+Animal Data:
+
+In rats, oral doses of either 533 mg/kg sulfamethoxazole or 200 mg/kg trimethoprim produced teratologic effects manifested mainly as cleft palates.
+These doses are approximately 5 and 6 times the recommended human total daily dose on a body surface area basis.
+In two studies in rats, no teratology was observed when 512 mg/kg of sulfamethoxazole was used in combination with 128 mg/kg of trimethoprim.
+In some rabbit studies, an overall increase in fetal loss (dead and resorbed conceptuses) was associated with doses of trimethoprim 6 times the human therapeutic dose based on body surface area.
+
 Nonteratogenic Effects: See CONTRAINDICATIONS section.
 
-Nursing Mothers: See CONTRAINDICATIONS section.
+Nursing Mothers: Levels of trimethoprim/sulfamethoxazole in breast milk are approximately 2–5% of the recommended daily dose for infants over 2 months of age.
+Caution should be exercised when sulfamethoxazole and trimethoprim is administered to a nursing woman, especially when breastfeeding, jaundiced, ill, stressed, or premature infants because of the potential risk of bilirubin displacement and kernicterus.
 
 Pediatric Use: Sulfamethoxazole and trimethoprim is contraindicated for infants younger than 2 months of age (see INDICATIONS and CONTRAINDICATIONS sections).
 

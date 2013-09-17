@@ -12,7 +12,7 @@ Gastrointestinal: Hepatitis (including cholestatic jaundice and hepatic necrosis
 
 Genitourinary: Renal failure, interstitial nephritis, BUN and serum creatinine elevation, toxic nephrosis with oliguria and anuria, crystalluria and nephrotoxicity in association with cyclosporine.
 
-Metabolic and Nutritional: Hyperkalemia (see PRECAUTIONS: Use in the Treatment of and Prophylaxis for Pneumocystis Jiroveci Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS).
+Metabolic and Nutritional: Hyperkalemia, hyponatremia (see PRECAUTIONS: Electrolyte Abnormalities).
 
 Neurologic: Aseptic meningitis, convulsions, peripheral neuritis, ataxia, vertigo, tinnitus, headache.
 
@@ -36,3 +36,4 @@ Because these reactions were reported voluntarily from a population of uncertain
 
 - Thrombotic thrombocytopenia purpura
 - Idiopathic thrombocytopenic purpura
+- QT prolongation resulting in ventricular tachycardia and torsade de pointes
