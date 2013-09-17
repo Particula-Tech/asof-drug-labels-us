@@ -8,7 +8,9 @@ VALPROIC ACID ORAL SOLUTION, USP
 
 250 mg per 5 mL
 
-Rx only Abbott
+Dispense the accompanying Medication Guide to each patient.
+
+Rx only abbvie
 
 NDC 0074–5681–13
 
@@ -20,4 +22,6 @@ VALPROIC ACID CAPSULES, USP
 
 250 mg
 
-Rx only Abbott
+Dispense the accompanying Medication Guide to each patient.
+
+Rx only abbvie
