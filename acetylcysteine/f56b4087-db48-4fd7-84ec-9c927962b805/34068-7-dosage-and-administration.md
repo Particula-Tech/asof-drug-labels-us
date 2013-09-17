@@ -187,16 +187,12 @@ The following procedures are recommended:
    (Prepare acetylcysteine for oral administration as described in the Dosage Guide and Preparation table).
 5. Determine subsequent action based on predetoxification plasma acetaminophen information.
    Choose ONE of the following four courses of therapy.
-   1. Predetoxification plasma acetaminophen level is clearly in the toxic range (See Acetaminophen Assays - Interpretation and Methodology below):
-      - Administer a first maintenance dose (70 mg/kg acetylcysteine) 4 hours after the loading dose.
-        The maintenance dose is then repeated at 4-hour intervals for a total of 17 doses.
-        Monitor hepatic and renal function and electrolytes throughout the detoxification process.
-   2. Predetoxification acetaminophen level could not be obtained:
-      - Proceed as in A.
-   3. Predetoxification acetaminophen level is clearly in the non-toxic range (beneath the dashed line on the nomogram) and you know that acetaminophen overdose occurred at least 4 hours before the predetoxification acetaminophen plasma assays:
-      - Discontinue administration of acetylcysteine.
-   4. Predetoxification acetaminophen level was in the non-toxic range, but time of ingestion was unknown or less than 4 hours.
-      - Because the level of acetaminophen at the time of predetoxification assay may not be a peak value (peak may not be achieved before 4 hours post-ingestion), obtain a second plasma level in order to decide whether or not the full 17-dose detoxification treatment is necessary.
+   1. Predetoxification plasma acetaminophen level is clearly in the toxic range (See Acetaminophen Assays - Interpretation and Methodology below): Administer a first maintenance dose (70 mg/kg acetylcysteine) 4 hours after the loading dose.
+      The maintenance dose is then repeated at 4-hour intervals for a total of 17 doses.
+      Monitor hepatic and renal function and electrolytes throughout the detoxification process.
+   2. Predetoxification acetaminophen level could not be obtained Proceed as in A.
+   3. Predetoxification acetaminophen level is clearly in the non-toxic range (beneath the dashed line on the nomogram) and you know that acetaminophen overdose occurred at least 4 hours before the predetoxification acetaminophen plasma assays Discontinue administration of acetylcysteine.
+   4. Predetoxification acetaminophen level was in the non-toxic range, but time of ingestion was unknown or less than 4 hours Because the level of acetaminophen at the time of predetoxification assay may not be a peak value (peak may not be achieved before 4 hours post-ingestion), obtain a second plasma level in order to decide whether or not the full 17-dose detoxification treatment is necessary.
 6. If the patient vomits an oral dose within 1 hour of administration, repeat that dose.
 7. In the occasional instances where the patient is persistently unable to retain the orally administered acetylcysteine, the antidote may be administered by duodenal intubation.
 8. Repeat SGOT, SGPT, bilirubin, prothrombin time, creatinine, BUN, blood sugar and electrolytes daily if the acetaminophen plasma level is in the potentially toxic range as discussed below.

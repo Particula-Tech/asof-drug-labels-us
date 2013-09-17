@@ -1,181 +1,183 @@
-PRINCIPAL DISPLAY PANEL – 4 mL (10%) Carton
+# PRINCIPAL DISPLAY PANEL - 4 mL (10%) Container & Carton
+
+NDC 0517-7504-25
+
+ACETYLCYSTEINE SOLUTION, USP
+
+10% (100 mg/mL) 4 mL VIAL Rx Only For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote) NOT FOR INJECTION PRESERVATIVE FREE AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 ACETYLCYSTEINE SOLUTION, USP
 
 10% (100 mg/mL)
 
-NDC 0517-7504-25
-
-25 x 4 mL VIALS
-
-For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
-
-NOT FOR INJECTION.
-PRESERVATIVE FREE.
+NDC 0517-7504-25 25 x 4 mL VIALS
 
 Rx Only
 
+For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote) NOT FOR INJECTION PRESERVATIVE FREE.
+
 Each mL contains: Acetylcysteine 100 mg (10%), Edetate Disodium 0.025%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and, if necessary, Hydrochloric Acid is added. pH (range 6.0 to 7.5).
-
 WARNING: DISCARD OPENED CONTAINER AFTER 96 HOURS.
-
 Store at 20° to 25°C (68° to 77°F) (See USP Controlled Room Temperature).
-
 STORE IN REFRIGERATOR 2° to 8°C (36° to 46°F) AFTER OPENING.
 A change in color may occur after opening.
 This does not change the efficacy of the drug.
 Acetylcysteine may be diluted to a lesser concentration with an appropriate solution.
 Directions for Use: See Package Insert.
 
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 Rev.
-11/05
+11/11
 
-PRINCIPAL DISPLAY PANEL – 4 mL (20%) Carton
+# PRINCIPAL DISPLAY PANEL - 4 mL (20%) Container & Carton
+
+NDC 0517-7604-25
+
+ACETYLCYSTEINE SOLUTION, USP
+
+20% (200 mg/mL) 4 mL VIAL Rx Only For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote) NOT FOR INJECTION PRESERVATIVE FREE AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 ACETYLCYSTEINE SOLUTION, USP
 
 20% (200 mg/mL)
 
-NDC 0517-7604-25
+NDC 0517-7604-25 25 x 4 mL VIALS
 
-25 x 4 mL VIALS
-
-For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
-
-NOT FOR INJECTION.
-PRESERVATIVE FREE.
+For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote) NOT FOR INJECTION PRESERVATIVE FREE
 
 Rx Only
 
 Each mL contains: Acetylcysteine 200 mg (20%), Edetate Disodium 0.025%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and, if necessary, Hydrochloric Acid is added. pH (range 6.0 to 7.5).
-
 WARNING: DISCARD OPENED CONTAINER AFTER 96 HOURS.
-
 Store at 20° to 25°C (68° to 77°F) (See USP Controlled Room Temperature).
-
 STORE IN REFRIGERATOR 2° to 8°C (36° to 46°F) AFTER OPENING.
 A change in color may occur after opening.
 This does not change the efficacy of the drug.
 Acetylcysteine may be diluted to a lesser concentration with an appropriate solution.
 Directions for Use: See Package Insert.
 
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 Rev.
-11/05
+11/11
 
-PRINCIPAL DISPLAY PANEL – 10 mL (10%) Carton
+# PRINCIPAL DISPLAY PANEL - 10 mL (10%) Container & Carton
+
+NDC 0517-7510-03
+
+ACETYLCYSTEINE SOLUTION, USP
+
+10% (100 mg/mL) For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
+
+NOT FOR INJECTION 10 mL VIAL PRESERVATIVE FREE
+
+Rx Only
+
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 ACETYLCYSTEINE SOLUTION, USP
 
 10% (100 mg/mL)
 
-NDC 0517-7510-03
-
-3 x 10 mL VIALS
-
-For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
-
-NOT FOR INJECTION.
-PRESERVATIVE FREE.
+NDC 0517-7510-03 3 x 10 mL VIALS
 
 Rx Only
 
+For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
+
+NOT FOR INJECTION PRESERVATIVE FREE
+
 Each mL contains: Acetylcysteine 100 mg (10%), Edetate Disodium 0.025%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and, if necessary, Hydrochloric Acid is added. pH (range 6.0 to 7.5).
-
 CONTAINS ONE PLASTIC DROPPER FOR DISPENSING.
-
 WARNING: DISCARD OPENED CONTAINER AFTER 96 HOURS.
-
 Store at 20°-25°C (68°-77°F), excursions permitted to 15°-30° (59°-86°F) (See USP Controlled Room Temperature).
-
 STORE IN REFRIGERATOR 2° to 8°C (36° to 46°F) AFTER OPENING.
 A change in color may occur after opening, this does not change the efficacy of the drug.
 Acetylcysteine may be diluted to a lesser concentration with an appropriate solution.
 Directions for Use: See Package Insert.
 
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 Rev.
-11/05
+11/11
 
-PRINCIPAL DISPLAY PANEL – 10 mL (20%) Carton
+# PRINICPAL DISPLAY PANEL - 10 mL (20%) Container & Carton
+
+NDC 0517-7610-03
 
 ACETYLCYSTEINE SOLUTION, USP
 
 20% (200 mg/mL)
 
-NDC 0517-7610-03
-
-3 x 10 mL VIALS
-
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
-NOT FOR INJECTION.
-PRESERVATIVE FREE.
+NOT FOR INJECTION
+
+10 mL VIAL PRESERVATIVE FREE
 
 Rx Only
 
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
+
+ACETYLCYSTEINE SOLUTION, USP
+
+20% (200 mg/mL)
+
+NDC 0517-7610-03 3 x 10 mL VIALS Rx Only
+
+For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
+
+NOT FOR INJECTION PRESERVATIVE FREE
+
 Each mL contains: Acetylcysteine 200 mg (20%), Edetate Disodium 0.025%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and, if necessary, Hydrochloric Acid is added. pH (range 6.0 to 7.5).
-
 CONTAINS ONE PLASTIC DROPPER FOR DISPENSING.
-
 WARNING: DISCARD OPENED CONTAINER AFTER 96 HOURS.
-
 Store at 20° -25°C (68° -77°F); excursions permitted to 15°-30° (59°-86°F) (See USP Controlled Room Temperature).
-
 STORE IN REFRIGERATOR 2°-8°C (36°-46°F) AFTER OPENING.
 A change in color may occur after opening, this does not change the efficacy of the drug.
 Acetylcysteine may be diluted to a lesser concentration with an appropriate solution.
 Directions for Use: See Package Insert.
 
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 Rev.
-11/05
+11/11
 
-PRINCIPAL DISPLAY PANEL – 30 mL Carton
+# PRINCIPAL DISPLAY PANEL - 30 mL (20%) Container & Carton
+
+NDC 0517-7630-03
 
 ACETYLCYSTEINE SOLUTION, USP
 
 20% (200 mg/mL)
 
-NDC 0517-7630-03
+For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
-3 x 30 mL VIALS
+NOT FOR INJECTION 30 mL VIAL PRESERVATIVE FREE Rx Only
+
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
+
+ACETYLCYSTEINE SOLUTION, USP
+
+20% (200 mg/mL)
+
+NDC 0517-7630-03 3 x 30 mL VIALS Rx Only
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
-NOT FOR INJECTION.
-PRESERVATIVE FREE.
+NOT FOR INJECTION PRESERVATIVE FREE
 
-Rx Only
-
-Each mL contains: Acetylcysteine 100 mg (10%), Edetate Disodium 0.025%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and, if necessary, Hydrochloric Acid is added. pH (range 6.0 to 7.5).
-
+Each mL contains: Acetylcysteine 200 mg (20%), Edetate Disodium 0.025%, Water for Injection q.s. pH adjusted with Sodium Hydroxide and, if necessary, Hydrochloric Acid is added. pH (range 6.0 to 7.5).
 WARNING: DISCARD OPENED CONTAINER AFTER 96 HOURS.
-
 Store at 20° to 25°C (68° to 77°F) (See USP Controlled Room Temperature).
-
 STORE IN REFRIGERATOR 2° to 8°C (36° to 46°F) AFTER OPENING.
 A change in color may occur after opening.
 This does not change the efficacy of the drug.
 Acetylcysteine may be diluted to a lesser concentration with an appropriate solution.
 Directions for Use: See Package Insert.
 
-AMERICAN REGENT, INC.
-
-SHIRLEY, NY 11967
+AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 Rev.
-11/05
+11/11

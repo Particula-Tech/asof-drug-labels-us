@@ -10,15 +10,9 @@ It is available as:
 Acetylcysteine 20% solution (200 mg acetylcysteine per mL).
 Sterile, not for injection.
 
-NDC 0517-7604-25 Cartons of twenty-five 4 mL vials
-
-NDC 0517-7610-03 Cartons of three 10 mL vials, plastic dropper
-
-NDC 0517-7630-03 Cartons of three 30 mL vials
+NDC 0517-7604-25 Cartons of twenty-five 4 mL vials NDC 0517-7610-03 Cartons of three 10 mL vials, plastic dropper NDC 0517-7630-03 Cartons of three 30 mL vials
 
 Acetylcysteine 10% solution (100 mg acetylcysteine per mL).
 Sterile, not for injection.
 
-NDC 0517-7504-25 Cartons of twenty-five 4 mL vials
-
-NDC 0517-7510-03 Cartons of three 10 mL vials, plastic dropper
+NDC 0517-7504-25 Cartons of twenty-five 4 mL vials NDC 0517-7510-03 Cartons of three 10 mL vials, plastic dropper
