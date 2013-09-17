@@ -4,57 +4,56 @@ novo nordisk®
 
 NDC 0169-7065-15
 
-GlucaGen®HypoKit
+GlucaGen® HypoKit
+
+(glucagon [rDNA origin] for injection)
 
 Emergency Use for Low Blood Sugar
 
-(glucagon [rDNA origin]
+1 mg per vial
 
-for injection) 1 mg (1 unit)
+Single use only.
+Discard unused portion.
+
+Protect from light
 
 Rx only
 
-This kit contains: 1 vial GlucaGen®for
+This kit contains:
 
-injection 1 mg, 1 prefilled syringe of
+1 vial GlucaGen® for injection 1mg,
 
-Sterile Water for Reconstitution - for
+1 prefilled syringe ofSterile Water for
 
-use as diluent
+Reconstitution – foruse as diluent
 
-Once GlucaGen® is reconstituted with
+After reconstitution, the resulting GlucaGen®
 
-the prefilled syringe of Sterile Water for
-
-Reconstitution, the resulting solution
-
-contains 1 mg/mL of glucagon
+solution contains 1mg/mL of Glucagon.
 
 IMPORTANT - Read the enclosed insert
 
 carefully for directions before using.
 
-Usual Dose - 1 mg (1 unit) sc, im, or iv adults and
+Usual Dose - 1 mg per vial for subcutaneous,
 
-pediatric patients (55 lbs or greater).
+intramuscular or intravenous injection in
+
+adults and pediatric patients (55 lbs or greater).
 
 Smaller pediatric patients see enclosed insert.
 
-Mix immediately before use by adding the entire
+Mix immediately before use.
 
-contents of the accompanying syringe containing
+Add the entire content of the accompanying
 
-Sterile Water for Reconstitution into the vial
+syringe of Sterile Water for Reconstitution
 
-containing GlucaGen® powder.
-Mix well and
+into the GlucaGen® vial.
 
-gently withdraw the entire contents of the vial
+Mix well and gently withdraw the entire
 
-back into the syringe.
-Solution should be clear
-
-and of a water-like consistency at time of use.
+contents of the vial back into the syringe.
 
 NON-RETURNABLE
 
@@ -62,17 +61,9 @@ Before Mixing: Store at controlled room
 
 temperature 20° to 25° C (68° to 77° F)
 
-After Mixing: Should be used immediately.
-
-DISCARD ANY UNUSED PORTION.
-
-PHARMACISTS - Please detach 'INFORMATION
-
-FOR PATIENTS' and give to the patient
-
 Novo Nordisk Inc.
 
-Princeton, NJ 08540
+Plainsboro, NJ 08536
 
 www.novonordisk-us.com
 
@@ -84,13 +75,15 @@ Novo Nordisk A/S
 
 2880 Bagsvaerd, Denmark
 
-8-9402-31-201-3
+8-9402-31-201-4
 
 Exp/Lot:
 
 # Principal Display Panel
 
-GlucaGen®HypoKit®
+novo nordisk®
+
+GlucaGen® HypoKit®
 
 NDC 0169-7065-21
 
@@ -98,32 +91,27 @@ NDC 0169-7065-21
 
 LIST 706521
 
+(glucagon [rDNA origin] for injection)
+
 Emergency Use for Low Blood Sugar
 
-(glucagon [rDNA origin] for injection) 1 mg (1 unit)
+1 mg per vial
+
+Single use only.
+Discard unused portion
+
+Protect from light
 
 Rx only
 
 This carton contains 2 packs of GlucaGen® HypoKit®.
 
-Each kit contains: 1 vial GlucaGen® for
+Each kit contains: 1 vial GlucaGen® for injection 1 mg,
 
-injection 1 mg, 1 prefilled syringe of
+1 prefilled syringe of Sterile Water for Reconstitution – for use as diluent
 
-Sterile Water for Reconstitution – for
+After reconstitution, the resulting GlucaGen®solution contains 1 mg/mL of Glucagon.
 
-use as diluent
-
-Once GlucaGen® is reconstituted with
-
-the prefilled syringe of Sterile Water for
-
-Reconstitution, the resulting solution
-
-contains 1 mg/mL of glucagon
-
-IMPORTANT – Read the enclosed insert
-
-carefully for directions before using.
+IMPORTANT – Read the enclosed insert carefully for directions before using.
 
 Carton contains 2 packs of GlucaGen® HypoKit®
