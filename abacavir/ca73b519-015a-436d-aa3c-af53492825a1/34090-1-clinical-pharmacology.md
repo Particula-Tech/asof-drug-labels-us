@@ -84,7 +84,7 @@ CBV-TP is a weak inhibitor of cellular DNA polymerases α, β, and γ.
 Antiviral Activity: The antiviral activity of abacavir against HIV-1 was evaluated against a T-cell tropic laboratory strain HIV-1IIIB in lymphoblastic cell lines, a monocyte/macrophage tropic laboratory strain HIV-1BaL in primary monocytes/macrophages, and clinical isolates in peripheral blood mononuclear cells.
 The concentration of drug necessary to effect viral replication by 50 percent (EC50) ranged from 3.7 to 5.8 μM (1 μM = 0.28 mcg/mL) and 0.07 to 1.0 μM against HIV-1IIIB and HIV-1BaL, respectively, and was 0.26 ± 0.18 μM against 8 clinical isolates.
 The EC50 values of abacavir against different HIV-1 clades (A-G) ranged from 0.0015 to 1.05 μM, and against HIV-2 isolates, from 0.024 to 0.49 μM.
-Abacavir had synergistic activity in cell culture in combination with the nucleoside reverse transcriptase inhibitor (NRTI) zidovudine, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, and the protease inhibitor (PI) amprenavir; and additive activity in combination with the NRTIs didanosine, emtricitabine, lamivudine, stavudine, tenofovir, and zalcitabine.
+The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs) didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine or zidovudine, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, or the protease inhibitor (PI) amprenavir.
 Ribavirin (50 μM) had no effect on the anti–HIV-1 activity of abacavir in cell culture.
 
 Resistance: HIV-1 isolates with reduced susceptibility to abacavir have been selected in cell culture and were also obtained from subjects treated with abacavir.

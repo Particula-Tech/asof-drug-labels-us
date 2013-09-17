@@ -107,7 +107,7 @@ Treatment-Emergent Laboratory Abnormalities (Grades 3-4) in CNA3005
 
 The frequencies of treatment-emergent laboratory abnormalities were comparable between treatment groups in CNA30021.
 
-Pediatric Trials:Therapy-Experienced Pediatric Subjects: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 8 mg/kg twice daily, lamivudine 4 mg/kg twice daily, and zidovudine 180 mg/m2 twice daily compared with lamivudine 4 mg/kg twice daily and zidovudine 180 mg/m2 twice daily from CNA3006 are listed in Table 6.
+Pediatric Trials: Therapy-Experienced Pediatric Subjects: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 8 mg/kg twice daily, lamivudine 4 mg/kg twice daily, and zidovudine 180 mg/m2 twice daily compared with lamivudine 4 mg/kg twice daily and zidovudine 180 mg/m2 twice daily from CNA3006 are listed in Table 6.
 
 Table 6.
 Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, ≥5% Frequency) in Therapy-Experienced Pediatric Subjects (CNA3006) Through 16 Weeks of Treatment

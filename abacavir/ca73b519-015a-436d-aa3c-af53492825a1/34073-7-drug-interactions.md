@@ -1,11 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-7.1 Ethanol
+## 7.1 Ethanol
 
 Abacavir has no effect on the pharmacokinetic properties of ethanol.
 Ethanol decreases the elimination of abacavir causing an increase in overall exposure [see Clinical Pharmacology (12.3)].
 
-7.2 Methadone
+## 7.2 Methadone
 
 The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir.
 In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy with 600 mg of ZIAGEN twice daily (twice the currently recommended dose), oral methadone clearance increased [see Clinical Pharmacology (12.3)].

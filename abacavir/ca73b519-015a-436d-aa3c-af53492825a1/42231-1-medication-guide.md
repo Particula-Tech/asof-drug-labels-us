@@ -142,9 +142,7 @@ What are the possible side effects of ZIAGEN?
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Tell your healthcare provider if you start having new or worse symptoms of infection after you start taking ZIAGEN.
 - •Changes in body fat (fat redistribution).
-  Changes in body fat (lipoatrophy or lipodystrophy) can happen in some people taking antiretroviral medicines including ZIAGEN.
-- These changes may include:
-
+  Changes in body fat (lipoatrophy or lipodystrophy) can happen in some people taking antiretroviral medicines including ZIAGEN.These changes may include:
 - •more fat in or around your trunk, upper back and neck (buffalo hump), breast, or chest
 - •loss of fat in your legs, arms, or face
 - •Heart attack (myocardial infarction).
