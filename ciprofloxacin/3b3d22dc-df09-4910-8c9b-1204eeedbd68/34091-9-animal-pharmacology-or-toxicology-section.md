@@ -1,7 +1,7 @@
 # ANIMAL PHARMACOLOGY
 
 Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested.
-(See WARNINGS .)
+(See WARNINGS.)
 Damage of weight bearing joints was observed in juvenile dogs and rats.
 In young beagles, 100 mg/kg ciprofloxacin, given daily for 4 weeks, caused degenerative articular changes of the knee joint.
 At 30 mg/kg, the effect on the joint was minimal.

@@ -3,15 +3,18 @@
     "ANDA076558"
   ],
   "inn": "ciprofloxacin",
-  "labeler": "West-ward Pharmaceutical Corp",
+  "labeler": "West-Ward Pharmaceutical Corp",
   "package_ndcs": [
     "0143-9927-01",
     "0143-9927-05",
+    "0143-9927-25",
     "0143-9927-30",
     "0143-9928-01",
     "0143-9928-05",
+    "0143-9928-25",
     "0143-9928-30",
     "0143-9929-01",
+    "0143-9929-25",
     "0143-9929-50"
   ],
   "products": [

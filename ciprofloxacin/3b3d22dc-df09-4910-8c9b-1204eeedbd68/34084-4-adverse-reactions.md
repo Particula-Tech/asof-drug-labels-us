@@ -14,19 +14,19 @@ BODY AS A WHOLE: headache, abdominal pain/discomfort, foot pain, pain, pain in e
 
 CARDIOVASCULAR: palpitation, atrial flutter, ventricular ectopy, syncope, hypertension, angina pectoris, myocardial infarction, cardiopulmonary arrest, cerebral thrombosis, phlebitis, tachycardia, migraine, hypotension
 
-CENTRAL NERVOUS SYSTEM: restlessness, dizziness, lightheadedness, insomnia, nightmares, hallucinations, manic reaction, irritability, tremor, ataxia, convulsive seizures, lethargy, drowsiness, weakness, malaise, anorexia, phobia, depersonalization, depression, paresthesia, abnormal gait, grand mal convulsion
+CENTRAL NERVOUS SYSTEM: restlessness, dizziness, lightheadedness, insomnia, nightmares, hallucinations, manic reaction, irritability, tremor, ataxia, convulsive seizures (including status epilepticus), grand mal convulsion, lethargy, drowsiness, weakness, malaise, anorexia, phobia, depersonalization, depression (potentially culminating in self-injurious behavior such as suicidal ideations/thoughts and attempted or completed suicide), paresthesia, abnormal gait
 
 GASTROINTESTINAL: painful oral mucosa, oral candidiasis, dysphagia, intestinal perforation, gastrointestinal bleeding, cholestatic jaundice, hepatitis
 
 HEMIC/LYMPHATIC: lymphadenopathy, petechia
 
-METABOLIC/NUTRITIONAL: amylase increase, lipase increase
+METABOLIC/NUTRITIONAL: amylase increase, lipase increase, hyperglycemia, hypoglycemia
 
 MUSCULOSKELETAL: arthralgia or back pain, joint stiffness, achiness, neck or chest pain, flare up of gout, muscle weakness
 
 RENAL/UROGENITAL: interstitial nephritis, nephritis, renal failure, polyuria, urinary retention, urethral bleeding, vaginitis, acidosis, breast pain
 
-RESPIRATORY: dyspnea, epistaxis, laryngeal or pulmonary edema, hiccough, hemoptysis, bronchospasm, pulmonary embolism
+RESPIRATORY: dyspnea, epistaxis, laryngeal or pulmonary edema, hiccough, hemoptysis, bron-chospasm, pulmonary embolism
 
 SKIN/HYPERSENSITIVITY: allergic reaction, pruritus, urticaria, photosensitivity/phototoxicity reaction, flushing, fever, chills, angioedema, edema of the face, neck, lips, conjunctivae or hands, cutaneous candidiasis, hyperpigmentation, erythema nodosum, sweating
 
@@ -71,7 +71,7 @@ Findings Involving Joint or Peri-articular Tissues as Assessed by the IPSC
 | ≥ 2 years < 6 years | 5/124 (4%) | 3/118 (2.5%) |
 | ≥ 6 years < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |
 | ≥ 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |
-| All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |
+| All Patients (within 1 year) | 46/335 (13.7%) | 33/349(9.5%) |
 | 95% Confidence Interval* | (-0.6%, + 9.1%) |  |
 | *The study was designed to demonstrate that the arthropathy rate for the ciprofloxacin group did not exceed that of the control group by more than + 6%. At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that ciprofloxacin group had findings comparable to the control group. |  |  |
 
@@ -85,22 +85,28 @@ Other adverse events that occurred in at least 1% of ciprofloxacin patients were
 
 In addition to the events reported in pediatric patients in clinical trials, it should be expected that events reported in adults during clinical trials or post-marketing experience may also occur in pediatric patients.
 
-## Post-Marketing Adverse Event Reports
+## Post-marketing Adverse Event Reports
 
 The following adverse events have been reported from worldwide marketing experience with fluoroquinolones, including ciprofloxacin.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) frequency of the reporting, or (3) strength of causal connection to the drug.
 
-Agitation, agranulocytosis, albuminuria, anaphylactic reactions (including life-threatening anaphylactic shock), anosmia, candiduria, cholesterol elevation (serum), confusion, constipation, delirium, dyspepsia, dysphagia, erythema multiforme, exfoliative dermatitis, fixed eruption, flatulence, glucose elevation (blood), hemolytic anemia, hepatic failure (including fatal cases), hepatic necrosis, hyperesthesia, hypertonia, hypesthesia, hypotension (postural), jaundice, marrow depression (life threatening), methemoglobinemia, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, exacerbation of myasthenia gravis, myoclonus, nystagmus, pancreatitis, pancytopenia (life threatening or fatal outcome), peripheral neuropathy, phenytoin alteration (serum), photosensitivity/phototoxicity reaction, polyneuropathy, potassium elevation (serum), prothrombin time prolongation or decrease, pseudomembranous colitis (The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.), psychosis (toxic), QT prolongation, renal calculi, serum sickness like reaction, Stevens-Johnson syndrome, taste loss, tendinitis, tendon rupture, torsade de pointes, toxic epidermal necrolysis (Lyell’s Syndrome), triglyceride elevation (serum), twitching, vaginal candidiasis, vasculitis and ventricular arrhythmia.
-(See PRECAUTIONS .)
+Acute generalized exanthematous pustulosis (AGEP), agitation, agranulocytosis, albuminuria, anaphylactic reactions (including life-threatening anaphylactic shock), anosmia, candiduria, cholesterol elevation (serum), confusion, constipation, delirium, dyspepsia, dysphagia, erythema multiforme, exfoliative dermatitis, fixed eruption, flatulence, glucose elevation (blood), hemolytic anemia, hepatic failure (including fatal cases), hepatic necrosis, hyperesthesia, hypertonia, hypesthesia, hypotension (postural), International Normalized Ratio (INR) increased (in patients treated with Vitamin K antagonists), jaundice, marrow depression (life threatening), methemoglobinemia, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, exacerbation of myasthenia gravis, myoclonus, nystagmus, pancreatitis, pancytopenia (life threatening or fatal outcome), peripheral neuropathy that may be irreversible, phenytoin alteration (serum), photosensitivity/phototoxicity reaction, polyneuropathy, potassium elevation (serum), prothrombin time prolongation or decrease, pseudomembranous colitis (The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.), psychosis (toxic), QT prolongation, renal calculi, serum sickness like reaction, Stevens-Johnson syndrome, taste loss, tendinitis, tendon rupture, torsade de pointes, toxic epidermal necrolysis (Lyell’s Syndrome), triglyceride elevation (serum), twitching, vaginal candidiasis, vasculitis and ventricular arrhythmia.
+(See PRECAUTIONS.)
+
 Adverse events were also reported by persons who received ciprofloxacin for anthrax post-exposure prophylaxis following the anthrax bioterror attacks of October 2001.
-(See also INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION . )
+(See also INHALATIONAL ANTHRAX-ADDITIONAL INFORMATION.)
 
-## Adverse Laboratory Changes
+## Adverse Laboratory Changes:
 
-Changes in laboratory parameters listed as adverse events without regard to drug relationship are listed below: Hepatic– Elevations of ALT (SGPT) (1.9%), AST (SGOT) (1.7%), alkaline phosphatase (0.8%), LDH (0.4%), serum bilirubin (0.3%).
-Hematologic– Eosinophilia (0.6%), leukopenia (0.4%), decreased blood platelets (0.1%), elevated blood platelets (0.1%), pancytopenia (0.1%).
-Renal – Elevations of serum creatinine (1.1%), BUN (0.9%), CRYSTALLURIA, CYLINDRURIA, AND HEMATURIA HAVE BEEN REPORTED.
-Other changes occurring in less than 0.1% of courses were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, leukocytosis.
+Changes in laboratory parameters listed as adverse events without regard to drug relationship are listed below:
 
-To report SUSPECTED ADVERSE EVENTS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Hepatic –Elevations of ALT (SGPT) (1.9%), AST (SGOT) (1.7%), alkaline phosphatase (0.8%), LDH (0.4%), serum bilirubin (0.3%).
+
+Hematologic–Eosinophilia (0.6%), leukopenia (0.4%), decreased blood platelets (0.1%), elevated blood platelets (0.1%), pancytopenia (0.1%).
+
+Renal–Elevations of serum creatinine (1.1%), BUN (0.9%), crystalluria, cylindruria, and hematuria have been reported.
+
+Other changes occurring in less than 0.1% of courses were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.
+
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch

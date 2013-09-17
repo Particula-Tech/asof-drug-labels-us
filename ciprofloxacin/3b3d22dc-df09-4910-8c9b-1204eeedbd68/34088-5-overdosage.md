@@ -2,7 +2,7 @@
 
 In the event of acute overdosage, reversible renal toxicity has been reported in some cases.
 The stomach should be emptied by inducing vomiting or by gastric lavage.
-The patient should be carefully observed and given supportive treatment, including monitoring of renal function and administration of magnesium, aluminum, or calcium containing antacids which can reduce the absorption of ciprofloxacin.
+The patient should be carefully observed and given supportive treatment, including monitoring of renal function, urinary pH and acidify, if required, to prevent crystalluria and administration of magnesium, aluminum, or calcium containing antacids which can reduce the absorption of ciprofloxacin.
 Adequate hydration must be maintained.
 Only a small amount of ciprofloxacin (< 10%) is removed from the body after hemodialysis or peritoneal dialysis.
 
