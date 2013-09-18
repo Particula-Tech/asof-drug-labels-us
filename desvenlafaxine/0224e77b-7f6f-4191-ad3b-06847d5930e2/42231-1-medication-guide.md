@@ -19,7 +19,7 @@ Talk to your healthcare provider about:
 2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+3. How can I watch for and try to prevent suicidal thoughts and actions?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -27,7 +27,7 @@ Talk to your healthcare provider about:
 - Keep all follow-up visits with the healthcare provider as scheduled.
   Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
 
 | • thoughts about suicide or dying | • trouble sleeping (insomnia) |
 | --- | --- |
@@ -63,7 +63,7 @@ Call a healthcare provider right away if you or your family member has any of th
 ### Do not take KHEDEZLA if you:
 
 - are allergic to desvenlafaxine, venlafaxine or any of the ingredients in KHEDEZLA.
-  See the end of this Medication Guide for a complete list of ingredients in KHEDEZLA
+  See the end of this Medication Guide for a complete list of ingredients in KHEDEZLA.
 - take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid and the intravenous medicine methylene blue.
 - have taken an MAOI within 7 days of stopping KHEDEZLA unless directed by your healthcare provider.
@@ -198,9 +198,9 @@ Common side effects with KHEDEZLA include:
 
 | • nausea | • sleepiness |
 | --- | --- |
-| • dizziness | • loss of apetite |
+| • dizziness | • loss of appetite |
 | • insomnia | • anxiety |
-| • sweating | • decrease of sex drive |
+| • sweating | • decreased sex drive |
 | • constipation | • delayed orgasm and ejaculation |
 
 These are not all the possible side effects of KHEDEZLA.
@@ -235,8 +235,8 @@ Active ingredient: desvenlafaxine
 
 Inactive ingredients:
 
-- 50 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate, colloidal silicon dioxide and film coating, which consists of titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, and iron oxides
-- 100 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, colloidal silicon dioxide, talc, magnesium stearate, and film coating, which consists of hypromellose, titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, iron oxides and FD&C yellow #6
+- 50 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate, colloidal silicon dioxide and film coating, which consist of titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, and iron oxides
+- 100 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, colloidal silicon dioxide, talc, magnesium stearate, and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, iron oxides and FD&C yellow #6
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -246,6 +246,6 @@ By AAIPharma 1726 North 23rd Street, Wilmington, NC 28405
 
 Distributed by: Par Pharmaceutical Cos., Inc. Spring Valley, NY 10977
 
-Revised 07/2013
+Revised 09/2013
 
-MG 374-01-84-02 PC 4623CM
+MG 374-01-84-03 PC 4623DM

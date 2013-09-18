@@ -1,4 +1,4 @@
-# WARNING: SUICIDALITY THOUGHTS AND BEHAVIORS
+# WARNING: SUICIDAL THOUGHTS AND BEHAVIORS
 
 Antidepressants increased the risk of suicidal thoughts and behavior in children, adolescents, and young adults in short-term studies.
 These studies did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in patients over age 24; there was a reduction in risk with antidepressant use in patients aged 65 and older [see Warnings and Precautions (5.1)].

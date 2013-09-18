@@ -14,6 +14,6 @@ KHEDEZLA is formulated as an extended-release tablet for once-a-day oral adminis
 
 Each 50 mg or 100 mg extended-release tablet contains 50 or 100 mg of desvenlafaxine, respectively.
 
-Inactive ingredients for the 50 mg tablet consist of citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate and colloidal silicon dioxide, and film coating, which consists of titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol and iron oxides.
+Inactive ingredients for the 50 mg tablet consist of citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate and colloidal silicon dioxide, and film coating, which consist of titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol and iron oxides.
 
-Inactive ingredients for the 100 mg tablet consist of citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate and colloidal silicon dioxide, and film coating, which consists of hypromellose, titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, iron oxides, and FD&C yellow #6.
+Inactive ingredients for the 100 mg tablet consist of citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate and colloidal silicon dioxide, and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, iron oxides, and FD&C yellow #6.

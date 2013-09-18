@@ -41,7 +41,7 @@ Discontinuation
 Advise patients not to stop taking KHEDEZLA without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping desvenlafaxine [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
-Switching Patients From Other Antidepressants to KHEDEZLA
+Switching Patients from Other Antidepressants to KHEDEZLA
 
 Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to desvenlafaxine.
 Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms.
@@ -77,6 +77,6 @@ By: AAIPharma 1726 North 23rd Street, Wilmington, NC 28405
 
 Distributed by: Par Pharmaceutical Companies, Inc. Spring Valley, NY 10977
 
-Revised 07/2013
+Revised 09/2013
 
-OS374-01-84-02 PC 4623CP
+OS374-01-84-03 PC 4623DP

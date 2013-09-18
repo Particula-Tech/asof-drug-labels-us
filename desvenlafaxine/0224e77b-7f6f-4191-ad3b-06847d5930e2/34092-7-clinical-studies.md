@@ -15,7 +15,7 @@ Table 8: Primary Efficacy (HAM-D17) Results for Short-term Studies
 | Study No. | Primary Endpoint: HAM-D17 | Placebo | 50 mg/day | 100 mg/day | 200 mg/day | 400 mg/day |
 | 1 | Baseline Score (SDa) | 23.1 (2.5) |  | 23.2 (2.5) | 22.9 (2.4) | 23.0 (2.2) |
 |  | Difference from Placebo (95% CIc) |  |  | -2.9b | -2.0 | -3.1b |
-|  |  |  |  | (-5.1, -0.8) |  |  |
+|  |  |  |  | (-5.1, -0.8) |  | (-5.2, -0.9) |
 | 2 | Baseline Score (SDa) | 25.3 (2.3) |  |  | 24.8 (2.9) | 25.2 (3.2) |
 |  | Difference from Placebo (95% CIc) |  |  |  | -3.3b | -2.8b |
 |  |  |  |  |  | (-5.3, -1.2) | (-4.8, -0.7) |

@@ -106,7 +106,7 @@ Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desven
 | Women only |  |  |  |  |  |
 | Anorgasmia | 0 | 1 | 1 | 0 | 3 |
 
-### Other adverse reactions observed in pre-marketing clinical studies
+### Other adverse reactions observed in clinical studies
 
 Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of < 2% in MDD patients treated with desvenlafaxine were:
 
@@ -184,7 +184,7 @@ Treatment with desvenlafaxine at all doses from 50 mg/day to 400 mg/day in contr
 Analyses of patients in desvenlafaxine short-term controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
 This was seen at all doses with a suggestion of a higher rate at 400 mg/day.
 
-Table 7: Proportion of Patients with Sustained Elevation of Suspine Diastolic Blood Pressure
+Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blood Pressure
 
 | Treatment Group | Proportion of Patients with Sustained Hypertension |
 | --- | --- |
