@@ -2,6 +2,8 @@
 
 BRILINTA (ticagrelor) 90 mg is supplied as a round, biconvex, yellow, film-coated tablet marked with a “90” above “T” on one side.
 
+Bottles of 14 – NDC 0186-0777-28
+
 Bottles of 60 – NDC 0186-0777-60
 
 Bottles of 180 – NDC 0186-0777-18

@@ -20,9 +20,7 @@ The insert in Figure 3 shows that after 24 hours, IPA in the ticagrelor group (5
 After 5 days, IPA in the ticagrelor group was similar to IPA in the placebo group.
 It is not known how either bleeding risk or thrombotic risk track with IPA, for either ticagrelor or clopidogrel.
 
-Figure - Mean inhibition of platelet aggregation (±SE) following single oral doses of placebo, 180 mg ticagrelor or 600 mg clopidogrel
-
-Figure - Mean inhibition of platelet aggregation (IPA) following 6 weeks on placebo, ticagrelor 90 mg twice daily, or clopidogrel 75 mg daily
+Figure 2 - Mean inhibition of platelet aggregation (±SE) following single oral doses of placebo, 180 mg ticagrelor or 600 mg clopidogrel
 
 • Ticagrelor ▲Clopidogrel ■ Placebo
 
@@ -66,7 +64,7 @@ Special Populations
 The effects of age, gender, ethnicity, renal impairment and mild hepatic impairment on the pharmacokinetics of ticagrelor are presented in Figure 4.
 Effects are modest and do not require dose adjustment.
 
-Figure - Impact of intrinsic factors on the pharmacokinetics of ticagrelor
+Figure 4 - Impact of intrinsic factors on the pharmacokinetics of ticagrelor
 
 * BRILINTA has not been studied in patients with moderate or severe hepatic impairment.
 
@@ -91,7 +89,7 @@ Strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, and clarithromycin) s
 Moderate CYP3A inhibitors have lesser effects (e.g., diltiazem).
 CYP3A inducers (e.g., rifampin) substantially reduce ticagrelor blood levels.
 
-Figure - Effect of co-administered drugs on the pharmacokinetics of ticagrelor
+Figure 5 - Effect of co-administered drugs on the pharmacokinetics of ticagrelor
 
 * See Dosage and Administration (2).
 
@@ -101,7 +99,7 @@ In vitro metabolism studies demonstrate that ticagrelor and its major active met
 Ticagrelor and AR-C124910XX were shown to have no inhibitory effect on human CYP1A2, CYP2C19, and CYP2E1 activity.
 For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastatin, ethinyl estradiol, levonorgesterol, tolbutamide, and digoxin, see Figure 6.
 
-Figure - Impact of BRILINTA on the pharmacokinetics of co-administered drugs
+Figure 6 - Impact of BRILINTA on the pharmacokinetics of co-administered drugs
 
 * Similar increases in AUC and Cmax were observed for all metabolites
 
