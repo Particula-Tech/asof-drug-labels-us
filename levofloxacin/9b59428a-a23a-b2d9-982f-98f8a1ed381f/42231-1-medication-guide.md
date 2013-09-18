@@ -3,6 +3,7 @@ MEDICATION GUIDE
 Levofloxacin Tablets, 250 mg, 500 mg and 750 mg Tablets
 
 Read this Medication Guide before you start taking levofloxacin tablets and each time you get a refill.
+There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 What is the most important information I should know about levofloxacin tablets?
@@ -143,12 +144,14 @@ How should I take levofloxacin tablets?
 - If you miss a dose of levofloxacin tablets, take it as soon as you remember.
 - Do not take more than 1 dose in 1 day.
   Do not skip any doses of levofloxacin tablets, or stop taking it even if you begin to feel better, until you finish your prescribed treatment unless:
-  - you have tendon effects (see “What is the most important information I should know about levofloxacin tablets?”),
-  - you have a serious allergic reaction (see “What are the possible side effects oflevofloxacin tablets?”)
+  - you have tendon problems.
+    See “What is the most important information I should know about levofloxacin tablets?”.
+  - you have a serious allergic reaction.
+    See “What are the possible side effects oflevofloxacin tablets?”.
   - your healthcare provider tells you to stop taking levofloxacin tablets.
 
 Taking all of your levofloxacin tablets doses will help make sure that all of the bacteria are killed.
-Taking all of your levofloxacin tablets will help you lower the chance that the bacteria will become resistant to levofloxacin tablets.
+Taking all of your levofloxacin tablets doses will help you lower the chance that the bacteria will become resistant to levofloxacin tablets.
 If your infection does not get better while you take levofloxacin tablets, it may mean that the bacteria causing your infection may be resistant to levofloxacin tablets.
 If your infection does not get better, call your healthcare provider.
 If your infection does not get better, levofloxacin tablets and other similar antibiotic medicines may not work for you in the future.
@@ -228,15 +231,15 @@ Call your healthcare provider right away if you get watery diarrhea, diarrhea th
 You may have stomach cramps and a fever.
 Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
-- Changes in sensation and possible nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including levofloxacin tablets.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+- Changes in sensation and nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including levofloxacin tablets.
+  Stop levofloxacin tablets and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
   - pain
   - burning
   - tingling
   - numbness
   - weakness
 
-Levofloxacin tablets may need to be stopped to prevent permanent nerve damage.
+The nerve damage may be permanent.
 
 - Serious heart rhythm changes (QT prolongation and torsades de pointes) Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   Levofloxacin tablets may cause a rare heart problem known as prolongation of the QT interval.
@@ -261,9 +264,9 @@ Your antibiotic medicine may need to be changed.
 
 - Sensitivity to sunlight (photosensitivity)
 
-See “What should I avoid while taking levofloxacin tablets?”
+See “What should I avoid while taking levofloxacin tablets?"
 
-The most common side effects of levefloxacin tablets include:
+The most common side effects of levofloxacin tablets include:
 
 - nausea
 - headache
@@ -327,4 +330,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0612
+Revised: 0913

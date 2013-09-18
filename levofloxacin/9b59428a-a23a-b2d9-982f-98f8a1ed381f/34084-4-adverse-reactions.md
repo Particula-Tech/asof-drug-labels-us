@@ -10,7 +10,7 @@
 - Hepatotoxicity [seeWarnings and Precautions (5.5)]
 - Central Nervous System Effects [seeWarnings and Precautions (5.6)]
 - Clostridium difficile-Associated Diarrhea [seeWarnings and Precautions (5.7)]
-- Peripheral Neuropathy [seeWarnings and Precautions (5.8)]
+- Peripheral Neuropathy that mat be irreversible [seeWarnings and Precautions (5.8)]
 - Prolongation of the QT Interval [seeWarnings and Precautions (5.9)]
 - Musculoskeletal Disorders in Pediatric Patients [seeWarnings and Precautions (5.10)]
 - Blood Glucose Disturbances [seeWarnings and Precautions (5.11)]
@@ -88,10 +88,10 @@ Table 8: Postmarketing Reports Of Adverse Drug Reactions
 | Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see Warnings and Precautions (5.4)] eosinophilia |
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.6)] |
-| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
+| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreverisble) [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
 | Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
-| Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged[see Warnings and Precautions (5.9)]tachycardia |
+| Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.9)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic andMediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings andPrecautions (5.4)] |
 | Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice[see Warnings and Precautions (5.4), (5.5)] |

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide(17.5)
+See FDA-Approved Medication Guide (17.6)
 
 ## 17.1 Antibacterial Resistance
 
@@ -24,7 +24,7 @@ Patients should be informed of the following serious adverse reactions that have
 
 - Tendon Disorders: Patients should contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue levofloxacin treatment.
   The risk of severe tendon disorders with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
-- Exacerbation of Myasthenia Gravis: patients should inform their physician of any history of myasthenia gravis.
+- Exacerbation of Myasthenia Gravis: Patients should inform their physician of any history of myasthenia gravis.
   Patients should notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
 - Hypersensitivity Reactions: Patients should be informed that levofloxacin can cause hypersensitivity reactions, even following the first dose.
   Patients should discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (e.g., swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
@@ -37,7 +37,9 @@ Patients should be informed of the following serious adverse reactions that have
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
-- Peripheral Neuropathies: If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should discontinue treatment and contact their physician.
+- Peripheral Neuropathies: Patients should be informed that peripheral neuropathy has been associated with levofloxacin use.
+  Symptoms may occur soon after initiation of therapy and may be irreversible.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should immediately discontinue treatment and contact their physician.
 - Prolongation of the QT Interval: Patients should inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Patients should notify their physicians if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
 - Musculoskeletal Disorders in Pediatric Patients: Parents should inform their child's physician if their child has a history of joint-related problems before taking this drug.

@@ -297,7 +297,7 @@ This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the 
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 11.
 
-Table 11: Susceptibility Interpretive Criteria for Levofloxacin
+Table 11: Susceptibility Test Interpretive Criteria for Levofloxacin
 
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
