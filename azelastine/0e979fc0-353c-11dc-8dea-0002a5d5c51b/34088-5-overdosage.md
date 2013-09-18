@@ -7,6 +7,3 @@ General supportive measures should be employed if overdosage occurs.
 There is no known antidote to ASTEPRO Nasal Spray.
 Oral ingestion of antihistamines has the potential to cause serious adverse effects in children.
 Accordingly, ASTEPRO Nasal Spray should be kept out of the reach of children.
-Oral doses of 120 mg/kg and greater (approximately 300 times the maximum recommended human daily intranasal dose [MRHDID] in adults and children on a mg/m2 basis) were lethal in mice.
-Responses seen prior to death were tremor, convulsions, decreased muscle tone, and salivation.
-In dogs, single oral doses as high as 10 mg/kg (approximately 160 times the MRHDID in adults and children on a mg/m2 basis) were well tolerated, but single oral doses of 20 mg/kg were lethal.

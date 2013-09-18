@@ -1,9 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling]
-
-Patients should be instructed to use ASTEPRO Nasal Spray only as prescribed.
-For the proper use of the nasal spray and to attain maximum improvement, the patient should read and follow carefully the accompanying FDA-Approved Patient Labeling.
+See FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 ## 17.1 Activities Requiring Mental Alertness
 
@@ -16,7 +13,8 @@ Concurrent use of ASTEPRO Nasal Spray with alcohol or other central nervous syst
 
 ## 17.3 Common Adverse Reactions
 
-Patients should be informed that the treatment with ASTEPRO Nasal Spray may lead to adverse reactions, which include bitter taste, nasal discomfort, epistaxis, headache, fatigue, somnolence, and sneezing [see Adverse Reactions (6.1)].
+Patients should be informed that the treatment with ASTEPRO Nasal Spray may lead to adverse reactions, most common of which include bitter taste, nasal discomfort, epistaxis, headache, sneezing, fatigue, somnolence, and respiratory infection.
+[see Adverse Reactions (6.1)].
 
 ## 17.4 Priming
 
