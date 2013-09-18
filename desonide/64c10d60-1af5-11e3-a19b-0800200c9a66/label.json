@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021978"
+  ],
+  "inn": "desonide",
+  "labeler": "Aqua Pharmaceuticals",
+  "package_ndcs": [
+    "16110-111-00"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "desonide",
+      "name": "Verdeso"
+    }
+  ],
+  "setid": "64c10d60-1af5-11e3-a19b-0800200c9a66",
+  "source": "dailymed"
+}
