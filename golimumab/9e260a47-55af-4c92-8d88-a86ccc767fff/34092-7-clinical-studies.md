@@ -2,7 +2,7 @@
 
 The efficacy and safety of SIMPONI ARIA were evaluated in one multicenter, randomized, double-blind, controlled trial (Trial 1) in 592 patients ≥ 18 years of age with moderately to severely active RA despite concurrent MTX therapy and had not previously been treated with a biologic TNF-blocker.
 Patients were diagnosed according to the American College of Rheumatology (ACR) criteria, at least 3 months prior to administration of study agent and were required to have at least 6 swollen and 6 tender joints.
-Patients were randomized to receive either SIMPONI ARIA 2 mg/kg (n=395) or placebo (n=197) over a 30 minute intravenous infusion at Weeks 0, 4 and every 8 weeks thereafter in addition to their weekly maintenance MTX dose (15–25 mg/kg).
+Patients were randomized to receive either SIMPONI ARIA 2 mg/kg (n=395) or placebo (n=197) over a 30 minute intravenous infusion at Weeks 0, 4 and every 8 weeks thereafter in addition to their weekly maintenance MTX dose (15–25 mg).
 All patients receiving placebo + MTX received SIMPONI ARIA + MTX after Week 24, but the trial remained blinded until all patients had completed 52 weeks of treatment.
 Efficacy data were collected and analyzed through Week 52.
 Patients were allowed to continue stable doses of concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs and patients may have received oral MTX during the trials.

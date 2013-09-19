@@ -2,7 +2,7 @@
 
 ## 7.1 Methotrexate
 
-SIMPONI ARIA should be used with methotrexate (MTX) [see Clinical Studies (14.1)].
+SIMPONI ARIA should be used with methotrexate (MTX) [see Clinical Studies (14)].
 Following IV administration, concomitant administration of methotrexate decreases the clearance of SIMPONI ARIA by approximately 9% based on population PK analysis.
 In addition, concomitant administration of methotrexate decreases the SIMPONI ARIA clearance by reducing the development of anti-golimumab antibodies.
 

@@ -110,6 +110,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Neoplasm Benign and Malignant: Melanoma [see Warnings and Precautions (5.2)]
 
-Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.11)], sarcoidosis
+Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.10)], sarcoidosis
 
 Skin and subcutaneous tissue disorders: Skin exfoliation
