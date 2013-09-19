@@ -4,9 +4,9 @@
 
 Advise patients to:
 
-- Take Prograf at the same 12-hour intervals everyday to achieve consistent blood concentrations.
-- Take Prograf consistently either with or without food because the presence and composition of food decreases the bioavailability of Prograf.
-- Not to eat grapefruit or drink grapefruit juice in combination with Prograf [see Drug Interactions (7.2)].
+- •Take Prograf at the same 12-hour intervals everyday to achieve consistent blood concentrations.
+- •Take Prograf consistently either with or without food because the presence and composition of food decreases the bioavailability of Prograf.
+- •Not to eat grapefruit or drink grapefruit juice in combination with Prograf [see Drug Interactions (7.2)].
 
 ## 17.2 Development of Lymphoma and Other Malignancies
 
@@ -50,30 +50,16 @@ Instruct patients to tell their healthcare provider if they plan to become pregn
 
 ## 17.11 Immunizations
 
-Inform patients that Prograf can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.15)].
+Inform patients that Prograf can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.16)].
 
 Rx only
 
 Product of Japan
 
-Ampules manufactured by:
+Manufactured by: Astellas Ireland Co., Ltd. Killorglin, County Kerry, Ireland
 
-Astellas Ireland Co.,
+Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-Limited, Killorglin, County Kerry, Ireland
+Revised: September 2013
 
-Capsules manufactured by:
-
-Astellas Pharma Tech, Co., Ltd.
-
-Toyama City, Toyama Japan
-
-Marketed by:
-
-Astellas Pharma US, Inc.
-
-Northbrook, IL 60062
-
-Revised: August 2012
-
-12C020-PRG-SPL
+13H057-PRG

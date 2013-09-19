@@ -4,11 +4,11 @@
 
 Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use Prograf.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
-The physicians responsible for maintenance therapy should have complete information requisite for the follow up of the patient [see Box Warning].
+The physicians responsible for maintenance therapy should have complete information requisite for the follow up of the patient [see Boxed Warning].
 
 ## 5.2 Lymphoma and Other Malignancies
 
-Patients receiving immunosuppressants, including Prograf, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Box Warning].
+Patients receiving immunosuppressants, including Prograf, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
@@ -19,7 +19,7 @@ The risk of PTLD appears greatest in those individuals who are EBV seronegative,
 
 ## 5.3 Serious Infections
 
-Patients receiving immunosuppressants, including Prograf, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections [see Box Warning and Warnings and Precautions (5.4, 5.5)].
+Patients receiving immunosuppressants, including Prograf, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections [see Boxed Warning and Warnings and Precautions (5.4, 5.5)].
 These infections may lead to serious, including fatal, outcomes.
 Because of the danger of oversuppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution.
 
@@ -67,7 +67,7 @@ Based on reported adverse reactions terms related to decreased renal function, n
 
 Due to the potential for additive or synergistic impairment of renal function, care should be taken when administering Prograf with drugs that may be associated with renal dysfunction.
 These include, but are not limited to, aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors (e.g., tenofovir) and protease inhibitors (e.g., ritonavir, indinavir).
-Similarly, care should be exercised when administering with CYP3A4 inhibitors such as antifungal drugs (e.g., ketoconazole), calcium channel blockers (e.g., diltiazem, verapamil), and macrolide antibiotics (e.g., clarithromycin, erythromycin, troleandomycin) which will result in increased tacrolimus whole blood concentrations due to inhibition of tacrolimus metabolism [seeDrug Interactions (7.3, 7.4, 7.5, 7.6)].
+Similarly, care should be exercised when administering with CYP3A4 inhibitors such as antifungal drugs (e.g., ketoconazole), calcium channel blockers (e.g., diltiazem, verapamil), and macrolide antibiotics (e.g., clarithromycin, erythromycin, troleandomycin) which will result in increased tacrolimus whole blood concentrations due to inhibition of tacrolimus metabolism [see Drug Interactions (7.3, 7.4, 7.5, 7.6)].
 
 ## 5.8 Neurotoxicity
 
@@ -82,7 +82,7 @@ This syndrome is characterized by reversal of symptoms upon reduction or discont
 Coma and delirium, in the absence of PRES, have also been associated with high plasma concentrations of tacrolimus.
 Seizures have occurred in adult and pediatric patients receiving Prograf [see Adverse Reactions (6.1)].
 
-Less severe neurotoxicities, include tremors, parathesias, headache, and other changes in motor function, mental status, and sensory function [see Adverse Reactions (6.1)].
+Less severe neurotoxicities, include tremors, paresthesias, headache, and other changes in motor function, mental status, and sensory function [see Adverse Reactions (6.1)].
 Tremor and headache have been associated with high whole-blood concentrations of tacrolimus and may respond to dosage adjustment.
 
 ## 5.9 Hyperkalemia
@@ -115,27 +115,38 @@ Use of sirolimus with Prograf in studies of de novo liver transplant patients wa
 
 Use of sirolimus (2 mg per day) with Prograf in heart transplant patients in a U.S. trial was associated with increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Clinical Studies (14.3)].
 
-## 5.13 Use with CYP3A4 Inhibitors and Inducers Including Those That Prolong QT
+## 5.13 Use with CYP3A4 Inhibitors and Inducers
 
-Coadministration with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without adjustments in the dosing regimen of tacrolimus and subsequent close monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions [see Drug Interactions (7)].
+When coadministering Prograf with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) adjustments in the dosing regimen of Prograf and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
 
-When coadministering tacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, close monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
-Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation.
+## 5.14 QT Prolongation
 
-## 5.14 Myocardial Hypertrophy
+Prograf may prolong the QT/QTc interval and may cause Torsade de Pointes.
+Avoid Prograf in patients with congenital long QT syndrome.
+In patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other medicinal products that lead to QT prolongation, and those with electrolyte disturbances such as hypokalemia, hypocalcemia, or hypomagnesemia, consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment.
+
+When coadministering Prograf with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in Prograf dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
+Use of Prograf with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation [see Drug Interactions (7)].
+
+## 5.15 Myocardial Hypertrophy
 
 Myocardial hypertrophy has been reported in infants, children, and adults, particularly those with high tacrolimus trough concentrations, and is generally manifested by echocardiographically demonstrated concentric increases in left ventricular posterior wall and interventricular septum thickness.
 This condition appears reversible in most cases following dose reduction or discontinuance of therapy.
 In patients who develop renal failure or clinical manifestations of ventricular dysfunction while receiving Prograf therapy, echocardiographic evaluation should be considered.
 If myocardial hypertrophy is diagnosed, dosage reduction or discontinuation of Prograf should be considered [see Adverse Reactions (6.2)].
 
-## 5.15 Immunizations
+## 5.16 Immunizations
 
 The use of live vaccines should be avoided during treatment with tacrolimus; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
 
-## 5.16 Pure Red Cell Aplasia
+## 5.17 Pure Red Cell Aplasia
 
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with tacrolimus.
 A mechanism for tacrolimus-induced PRCA has not been elucidated.
 All patients reported risk factors for PRCA such as parvovirus B19 infection, underlying disease, or concomitant medications associated with PRCA.
 If PRCA is diagnosed, discontinuation of Prograf should be considered [see Adverse Reactions (6.2)].
+
+## 5.18 Gastrointestinal Perforation
+
+Gastrointestinal perforation has been reported in patients treated with Prograf; all reported cases were considered to be a complication of transplant surgery or accompanied by infection, diverticulum, or malignant neoplasm.
+As gastrointestinal perforation may be serious or life-threatening, appropriate medical/surgical management should be instituted promptly [see Adverse Reactions (6.1)].

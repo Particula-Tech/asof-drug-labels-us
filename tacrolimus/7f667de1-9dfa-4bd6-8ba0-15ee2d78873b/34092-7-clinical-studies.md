@@ -36,16 +36,16 @@ Estimated Creatinine Clearance at 12 Months (Study 1)
 Table 17.
 Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months (Study 1)
 
-|  | Group AN=390 | Group BN=399 | Group CN=401 | Group DN=399 |
-| --- | --- | --- | --- | --- |
-| Overall Failure | 141 (36.2%) | 126 (31.6%) | 82 (20.4%) | 185 (46.4%) |
-| Components of efficacy failure |  |  |  |  |
-| BPAR | 113 (29.0%) | 106 (26.6%) | 60 (15.0%) | 152 (38.1%) |
-| Graft loss excluding death | 28 (7.2%) | 20 (5.0%) | 12 (3.0%) | 30 (7.5%) |
-| MMortality | 13 (3.3%) | 7 (1.8%) | 11 (2.7%) | 12 (3.0%) |
-| Lost to follow-up | 5 (1.3%) | 7 (1.8%) | 5 (1.3%) | 6 (1.5%) |
-| Treatment Difference of efficacy failure compared to Group C (99.2% CIAdjusted for multiple (6) pairwise comparisons using Bonferroni corrections.) | 15.8% (7.1%, 24.3%) | 11.2% (2.7%, 19.5%) | - | 26.0% (17.2%, 34.7%) |
-| Key: Group A=CsA/MMF/CS, B=CsA/MMF/CS/Daclizumab, C=Tac/MMF/CS/Daclizumab, and D=Siro/MMF/CS/Daclizumab |  |  |  |  |
+|  | Group AN=390 | Group BN=399 | Group CN=401 | Group DN=399 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Overall Failure | 141 (36.2%) | 126 (31.6%) | 82 (20.4%) | 185 (46.4%) |  |  |  |  |  |  |
+| Components of efficacy failure |  |  |  |  |  |  |  |  |  |  |
+| BPAR | 113 (29.0%) | 106 (26.6%) | 60 (15.0%) | 152 (38.1%) |  |  |  |  |  |  |
+| Graft loss excluding death | 28 (7.2%) | 20 (5.0%) | 12 (3.0%) | 30 (7.5%) |  |  |  |  |  |  |
+| Mortality | 13 (3.3%) | 7 (1.8%) | 11 (2.7%) | 12 (3.0%) |  |  |  |  |  |  |
+| Lost to follow-up | 5 (1.3%) | 7 (1.8%) | 5 (1.3%) | 6 (1.5%) |  |  |  |  |  |  |
+| Treatment Difference of efficacy failure compared to Group C (99.2% CIAdjusted for multiple (6) pairwise comparisons using Bonferroni corrections.) | 15.8% (7.1%, 24.3%) | 11.2% (2.7%, 19.5%) | - | 26.0% (17.2%, 34.7%) |  |  |  |  |  |  |
+| Key: Group A=CsA/MMF/CS, B=CsA/MMF/CS/Daclizumab, C=Tac/MMF/CS/Daclizumab, and D=Siro/MMF/CS/Daclizumab |  |  |  |  |  |  |  |  |  |  |
 
 The protocol-specified target tacrolimus trough concentrations (Ctrough,Tac) were 3-7 ng/mL; however, the observed median Ctroughs,Tac approximated 7 ng/mL throughout the 12 month trial (Table 18).
 Approximately 80% of patients maintained tacrolimus whole blood concentrations between 4-11 ng/mL through 1 year post-transplant.
@@ -53,7 +53,7 @@ Approximately 80% of patients maintained tacrolimus whole blood concentrations b
 Table 18.
 Tacrolimus Whole Blood Trough Concentrations (Study 1)
 
-| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough, Tac) tacrolimus whole blood trough concentrations(ng/mL) |
+| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough,Tac) tacrolimus whole blood trough concentrations(ng/mL) |
 | --- | --- |
 | Day 30 (N=366) | 6.9 (4.4 – 11.3) |
 | Day 90 (N=351) | 6.8 (4.1 – 10.7) |
@@ -69,14 +69,14 @@ By comparison, the MMF dose was reduced to less than 2 g per day in 49% and 45% 
 Table 19.
 MMF Dose Over Time in Prograf/MMF (Group C) (Study 1)
 
-| Time period (Days) | Time-averaged MMF dose (grams per day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Administration of 2 g per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
-| --- | --- | --- | --- |
-| Less than 2.0 | 2.0 | Greater than 2.0 |  |
-| 0-30 (N=364) | 37% | 60% | 2% |
-| 0-90 (N=373) | 47% | 51% | 2% |
-| 0-180 (N=377) | 56% | 42% | 2% |
-| 0-365 (N=380) | 63% | 36% | 1% |
-| Key: Time-averaged MMF dose = (total MMF dose)/(duration of treatment) |  |  |  |
+| Time period (Days) | Time-averaged MMF dose (grams per day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Administration of 2 g per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Less than 2.0 | 2.0 | Greater than 2.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-30 (N=364) | 37% | 60% | 2% |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-90 (N=373) | 47% | 51% | 2% |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-180 (N=377) | 56% | 42% | 2% |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-365 (N=380) | 63% | 36% | 1% |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Key: Time-averaged MMF dose = (total MMF dose)/(duration of treatment) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 In a second randomized, open-label, multi-center trial (Study 2), 424 kidney transplant patients received Prograf (N=212) or cyclosporine (N=212) in combination with MMF 1 gram twice daily, basiliximab induction, and corticosteroids.
 In this trial, the rate for the combined endpoint of BPAR, graft failure, death, and/or lost to follow-up at 12 months in the Prograf/MMF group was similar to the rate in the cyclosporine/MMF group.
@@ -103,7 +103,7 @@ Approximately 80% of patients maintained tacrolimus whole trough blood concentra
 Table 21.
 Tacrolimus Whole Blood Trough Concentrations (Study 2)
 
-| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough, Tac) tacrolimus whole blood trough concentrations(ng/mL) |
+| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough, Tac) tacrolimus whole blood trough concentrations(ng/mL) |
 | --- | --- |
 | Day 30 (N=174) | 10.5 (6.3 – 16.8) |
 | Day 60 (N=179) | 9.2 (5.9 – 15.3) |
@@ -121,14 +121,14 @@ Approximately 63% and 55% of these MMF dose reductions were because of adverse r
 Table 22.
 MMF Dose Over Time in the Prograf/MMF Group (Study 2)
 
-| Time period (Days) | Time-averaged MMF dose (g/day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
-| --- | --- | --- | --- |
-| Less than 2.0 | 2.0 | Greater than 2.0 |  |
-| 0-30 (N=212) | 25% | 69% | 6% |
-| 0-90 (N=212) | 41% | 53% | 6% |
-| 0-180 (N=212) | 52% | 41% | 7% |
-| 0-365 (N=212) | 62% | 34% | 4% |
-| Key: Time-averaged MMF dose=(total MMF dose)/(duration of treatment) |  |  |  |
+| Time period (Days) | Time-averaged MMF dose (g/day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Less than 2.0 | 2.0 | Greater than 2.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-30 (N=212) | 25% | 69% | 6% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-90 (N=212) | 41% | 53% | 6% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-180 (N=212) | 52% | 41% | 7% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-365 (N=212) | 62% | 34% | 4% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Key: Time-averaged MMF dose=(total MMF dose)/(duration of treatment) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 14.2 Liver Transplantation
 

@@ -1,7 +1,9 @@
 # 7 DRUG INTERACTIONS
 
 Since tacrolimus is metabolized mainly by CYP3A enzymes, drugs or substances known to inhibit these enzymes may increase tacrolimus whole blood concentrations.
-Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [seeWarning and Precautions (5.13) and Clinical Pharmacology (12.3)].
+Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.13) and Clinical Pharmacology (12.3)].
+Dose adjustments may be needed along with frequent monitoring of tacrolimus whole blood trough concentrations when Prograf is administered with CYP3A inhibitors or inducers.
+In addition, patients should be monitored for adverse reactions including changes in renal function and QT prolongation [see Warnings and Precautions (5.7) and (5.14)].
 
 ## 7.1 Mycophenolic Acid Products
 

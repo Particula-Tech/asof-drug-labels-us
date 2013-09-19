@@ -9,7 +9,7 @@ Tacrolimus given orally to pregnant rabbits at 0.5 to 4.3 times the clinical dos
 Prograf should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
 In pregnant rabbits, tacrolimus at oral doses of 0.32 and 1.0 mg/kg, 0.5 to 4.3 times the clinical dose range (0.075 – 0.2 mg/kg) based on body surface area, was associated with maternal toxicity as well as an increased incidence of abortions.
-At the 1 mg/kg dose, fetal rabbits showed an increased incidence of malformations (ventricular hypoplasia, interventricular septal defect, bulbous aortic arch, stenosis of ductus arteriosis, interrupted ossification of vertebral arch, vertebral and rib malformations, omphalocele, and gallbladder agenesis) and developmental variations.
+At the 1 mg/kg dose, fetal rabbits showed an increased incidence of malformations (ventricular hypoplasia, interventricular septal defect, bulbous aortic arch, stenosis of ductus arteriosus, interrupted ossification of vertebral arch, vertebral and rib malformations, omphalocele, and gallbladder agenesis) and developmental variations.
 In pregnant rats, tacrolimus at oral doses of 3.2 mg/kg, 2.6 to 6.9 times the clinical dose range was associated with maternal toxicity, an increase in late resorptions, decreased numbers of live births, and decreased pup weight and viability.
 Tacrolimus, given orally to pregnant rats after organogenesis and during lactation at 1.0 and 3.2 mg/kg, 0.8 to 6.9 times the recommended clinical dose range was associated with reduced pup weights and pup viability (3.2 mg/kg only); among the high dose pups that died early, an increased incidence of kidney hydronephrosis was observed.
 
@@ -37,7 +37,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 The pharmacokinetics of Prograf in patients with renal impairment was similar to that in healthy volunteers with normal renal function.
 However, consideration should be given to dosing Prograf at the lower end of the therapeutic dosing range in patients who have received a liver or heart transplant and have pre-existing renal impairment.
-Further reductions in dose below the targeted range may be required [seeDosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Further reductions in dose below the targeted range may be required [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Use in Hepatic Impairment
 

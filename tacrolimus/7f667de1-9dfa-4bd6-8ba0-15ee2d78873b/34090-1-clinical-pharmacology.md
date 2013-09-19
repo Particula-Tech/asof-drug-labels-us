@@ -36,7 +36,6 @@ Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and
 
 Due to intersubject variability in tacrolimus pharmacokinetics, individualization of dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.6)].
 Pharmacokinetic data indicate that whole blood concentrations rather than plasma concentrations serve as the more appropriate sampling compartment to describe tacrolimus pharmacokinetics.
-
 Absorption
 
 Absorption of tacrolimus from the gastrointestinal tract after oral administration is incomplete and variable.
@@ -49,7 +48,6 @@ Tacrolimus maximum blood concentrations (Cmax) and area under the curve (AUC) ap
 In 18 kidney transplant patients, tacrolimus trough concentrations from 3 to 30 ng/mL measured at 10-12 hours post-dose (Cmin) correlated well with the AUC (correlation coefficient 0.93).
 In 24 liver transplant patients over a concentration range of 10 to 60 ng/mL, the correlation coefficient was 0.94.
 In 25 heart transplant patients over a concentration range of 2 to 24 ng/mL, the correlation coefficient was 0.89 after an oral dose of 0.075 or 0.15 mg/kg/day at steady-state.
-
 Food Effects
 
 The rate and extent of tacrolimus absorption were greatest under fasted conditions.
@@ -65,14 +63,12 @@ When administered 1.5 hours following the meal, mean Cmax was reduced 63%, and m
 In 11 liver transplant patients, Prograf administered 15 minutes after a high fat (400 kcal, 34% fat) breakfast, resulted in decreased AUC (27±18%) and Cmax (50±19%), as compared to a fasted state.
 
 Prograf capsules should be taken consistently every day either with or without food because the presence and composition of food decreases the bioavailability of Prograf [see Dosage and Administration (2.5)].
-
 Distribution
 
 The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5-50 ng/mL.
 Tacrolimus is bound mainly to albumin and alpha-1-acid glycoprotein, and has a high level of association with erythrocytes.
 The distribution of tacrolimus between whole blood and plasma depends on several factors, such as hematocrit, temperature at the time of plasma separation, drug concentration, and plasma protein concentration.
 In a U.S. trial, the ratio of whole blood concentration to plasma concentration averaged 35 (range 12 to 67).
-
 Metabolism
 
 Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A).
@@ -80,7 +76,6 @@ A metabolic pathway leading to the formation of 8 possible metabolites has been 
 Demethylation and hydroxylation were identified as the primary mechanisms of biotransformation in vitro.
 The major metabolite identified in incubations with human liver microsomes is 13-demethyl tacrolimus.
 In in vitro studies, a 31-demethyl metabolite has been reported to have the same activity as tacrolimus.
-
 Excretion The mean clearance following IV administration of tacrolimus is 0.040, 0.083, and 0.053, and 0.051 L/hr/kg in healthy volunteers, adult kidney transplant patients, adult liver transplant patients, and adult heart transplant patients, respectively.
 In man, less than 1% of the dose administered is excreted unchanged in urine.
 
@@ -90,7 +85,6 @@ The mean clearance of radiolabel was 0.029±0.015 L/hr/kg and clearance of tacro
 When administered PO, the mean recovery of the radiolabel was 94.9±30.7%.
 Fecal elimination accounted for 92.6±30.7%, urinary elimination accounted for 2.3±1.1% and the elimination half-life based on radioactivity was 31.9±10.5 hours whereas it was 48.4±12.3 hours based on tacrolimus concentrations.
 The mean clearance of radiolabel was 0.226±0.116 L/hr/kg and clearance of tacrolimus 0.172±0.088 L/hr/kg.
-
 Specific Populations
 
 Pediatric
@@ -139,12 +133,12 @@ A retrospective comparison of African-American and Caucasian kidney transplant p
 
 Gender A formal trial to evaluate the effect of gender on tacrolimus pharmacokinetics has not been conducted, however, there was no difference in dosing by gender in the kidney transplant trial.
 A retrospective comparison of pharmacokinetics in healthy volunteers, and in kidney, liver and heart transplant patients indicated no gender-based differences.
-
 Drug Interactions
 
 Frequent monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when concomitant use of the following drugs with tacrolimus is initiated or discontinued [see Drug Interactions (7)].
 
 Telaprevir: In a single dose study in 9 healthy volunteers, coadministration of tacrolimus (0.5 mg single dose) with telaprevir (750 mg three times daily for 13 days) increased the tacrolimus dose-normalized Cmax by 9.3-fold and AUC by 70-fold compared to tacrolimus alone [see Drug Interactions (7.3)].
+
 Boceprevir: In a single dose study in 12 subjects, coadministration of tacrolimus (0.5 mg single dose) with boceprevir (800 mg three times daily for 11 days) increased tacrolimus Cmax by 9.9-fold and AUC by 17-fold compared to tacrolimus alone [see Drug Interactions (7.3)].
 
 Nelfinavir: Based on a clinical study of 5 liver transplant recipients, co-administration of tacrolimus with nelfinavir increased blood concentrations of tacrolimus significantly and, as a result, a reduction in the tacrolimus dose by an average of 16-fold was needed to maintain mean trough tacrolimus blood concentrations of 9.7 ng/mL.

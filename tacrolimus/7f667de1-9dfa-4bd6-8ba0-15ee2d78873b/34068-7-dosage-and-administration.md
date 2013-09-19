@@ -86,11 +86,11 @@ Some evidence suggests that lower doses should be used in these patients [see Do
 
 It is recommended that patients initiate oral therapy with Prograf capsules if possible.
 
-Initial dosage and observed tacrolimus whole blood trough concentrations for adults are shown in Table 1 and for pediatrics in Table 3[see Dosage and Administration (2.1, 2.2)]; for blood concentration monitoring details in kidney transplant patients see Dosage and Administration (2.1).
+Initial dosage and observed tacrolimus whole blood trough concentrations for adults are shown in Table 1 and for pediatrics in Table 3 [see Dosage and Administration (2.1, 2.2)]; for blood concentration monitoring details in kidney transplant patients [see Dosage and Administration (2.1)].
 
 It is important to take Prograf capsules consistently every day either with or without food because the presence and composition of food decreases the bioavailability of Prograf [see Clinical Pharmacology (12.3)].
 
-Patients should not eat grapefruit or drink grapefruit juice in combination with Prograf [seeDrug Interactions (7.2)].
+Patients should not eat grapefruit or drink grapefruit juice in combination with Prograf [see Drug Interactions (7.2)].
 
 Prograf should not be used simultaneously with cyclosporine.
 Prograf or cyclosporine should be discontinued at least 24 hours before initiating the other.

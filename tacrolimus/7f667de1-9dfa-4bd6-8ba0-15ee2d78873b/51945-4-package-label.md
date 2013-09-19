@@ -1,4 +1,4 @@
-# Principal Display Panel
+# PRINCIPAL DISPLAY PANEL
 
 # PRINCIPAL DISPLAY PANEL
 
