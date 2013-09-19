@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
 
 In a 24-month study in rats (10, 45, and 200 mg/kg; 0.3, 1, and 6 times the maximum recommended human dose on the basis of mg/meter2 of surface area), the incidence of liver carcinoma was significantly increased at 6 times the maximum recommended human dose in males and females.
 A statistically significant increase in pancreatic carcinomas occurred in males at 1 and 6 times the maximum recommended human dose; there were also increases in pancreatic adenomas and benign testicular interstitial cell tumors at 6 times the maximum recommended human dose in males.

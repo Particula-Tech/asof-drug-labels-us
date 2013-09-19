@@ -11,7 +11,7 @@ Increases in liver tests were the most frequent events, causing discontinuation 
 Table 1.
 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
 
-| BODY SYSTEM Adverse Reaction | FenofibrateDosage equivalent to 130 mg fenofibrate (N=439) | Placebo (N=365) |
+| BODY SYSTEM Adverse Reaction | Fenofibrate* (N=439) | Placebo (N=365) |
 | --- | --- | --- |
 | BODY AS A WHOLE |  |  |
 | Abdominal Pain | 4.6% | 4.4% |
@@ -28,6 +28,7 @@ Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate an
 | RESPIRATORY |  |  |
 | Respiratory Disorder | 6.2% | 5.5% |
 | Rhinitis | 2.3% | 1.1% |
+| *Dosage equivalent to 130 mg fenofibrate |  |  |
 
 ## 6.2 Postmarketing Experience
 

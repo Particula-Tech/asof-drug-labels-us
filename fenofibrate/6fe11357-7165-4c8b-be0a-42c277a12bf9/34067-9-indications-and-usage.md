@@ -13,7 +13,7 @@ Improving glycemic control in diabetic patients showing fasting chylomicronemia 
 ## 1.3 General Guidelines
 
 Fenofibrate was not shown to reduce coronary heart disease morbidity and mortality in a large, randomized controlled trial of patients with type 2 diabetes mellitus.
-[see Warnings and Precautions(5.6).]
+[see Warnings and Precautions (5.6).]
 
 Markedly elevated levels of serum triglycerides (e.g. >2,000 mg/dL) may increase the risk of developing pancreatitis.
 The effect of Fenoglide therapy on reducing this risk has not been adequately studied.
