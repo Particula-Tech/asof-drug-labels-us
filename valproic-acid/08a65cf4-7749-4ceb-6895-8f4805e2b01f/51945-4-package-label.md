@@ -8,7 +8,9 @@ DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
 
 125 mg Valproic Acid Activity
 
-Rx only Abbott
+Dispense the accompanying Medication Guide to each patient
+
+Rx only abbvie
 
 NDC 0074–6214–53
 
@@ -20,7 +22,9 @@ DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
 
 250 mg Valproic Acid Activity
 
-Rx only Abbott
+Dispense the accompanying Medication Guide to each patient
+
+Rx only abbvie
 
 NDC 0074–6215–13
 
@@ -32,4 +36,6 @@ DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
 
 500 mg Valproic Acid Activity
 
-Rx only Abbott
+Dispense the accompanying Medication Guide to each patient.
+
+Rx only abbvie
