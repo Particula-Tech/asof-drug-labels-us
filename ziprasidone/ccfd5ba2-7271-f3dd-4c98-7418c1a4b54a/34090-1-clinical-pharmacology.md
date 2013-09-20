@@ -12,14 +12,14 @@ Ziprasidone functioned as an antagonist at the D2, 5HT2A, and 5HT1D receptors, a
 Ziprasidone inhibited synaptic reuptake of serotonin and norepinephrine.
 No appreciable affinity was exhibited for other receptor/binding sites tested, including the cholinergic muscarinic receptor (IC50 >1 mcM).
 Antagonism at receptors other than dopamine and 5HT2 with similar receptor affinities may explain some of the other therapeutic and side effects of ziprasidone.
-Ziprasidone’s antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
-Ziprasidone’s antagonism of α1-adrenergic receptors may explain the orthostatic hypotension observed with this drug.
+Ziprasidone’ s antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
+Ziprasidone’ s antagonism of α1-adrenergic receptors may explain the orthostatic hypotension observed with this drug.
 
 ## 12.3 Pharmacokinetics
 
 Oral Pharmacokinetics
 
-Ziprasidone’s activity is primarily due to the parent drug.
+Ziprasidone’ s activity is primarily due to the parent drug.
 The multiple-dose pharmacokinetics of ziprasidone are dose-proportional within the proposed clinical dose range, and ziprasidone accumulation is predictable with multiple dosing.
 Elimination of ziprasidone is mainly via hepatic metabolism with a mean terminal half-life of about 7 hours within the proposed clinical dose range.
 Steady-state concentrations are achieved within one to three days of dosing.
@@ -46,8 +46,8 @@ Ziprasidone is primarily cleared via three metabolic routes to yield four major 
 Approximately 20% of the dose is excreted in the urine, with approximately 66% being eliminated in the feces.
 Unchanged ziprasidone represents about 44% of total drug-related material in serum.
 In vitro studies using human liver subcellular fractions indicate that S-­methyl-dihydroziprasidone is generated in two steps.
-The data indicate that the reduction reaction is mediated by aldehyde oxidase and the subsequent methylation is mediated by thiol methyltransferase.
+These studies indicate that the reduction reaction is mediated primarily by chemical reduction by glutathione as well as by enzymatic reduction by aldehyde oxidase and the subsequent methylation is mediated by thiol methyltransferase.
 In vitro studies using human liver microsomes and recombinant enzymes indicate that CYP3A4 is the major CYP contributing to the oxidative metabolism of ziprasidone.
 CYP1A2 may contribute to a much lesser extent.
-Based on in vivo abundance of excretory metabolites, less than one-third of ziprasidone metabolic clearance is mediated by cytochrome P450 catalyzed oxidation and approximately two-thirds via reduction by aldehyde oxidase.
+Based on in vivo abundance of excretory metabolites, less than one-third of ziprasidone metabolic clearance is mediated by cytochrome P450 catalyzed oxidation and approximately two-thirds via reduction.
 There are no known clinically relevant inhibitors or inducers of aldehyde oxidase.

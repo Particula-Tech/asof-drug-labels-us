@@ -54,7 +54,7 @@ Ziprasidone is not removed by hemodialysis.
 
 ## 8.7 Hepatic Impairment
 
-As ziprasidone is cleared substantially by the liver, the presence of hepatic impairment would be expected to increase the AUC of ziprasidone; a multiple-dose study at 20 mg twice daily for 5 days in subjects (n=13) with clinically significant (Childs-Pugh Class A and B) cirrhosis revealed an increase in AUC 0-12 of 13% and 34% in Childs-Pugh Class A and B, respectively, compared to a matched control group (n=14).
+As ziprasidone is cleared substantially by the liver, the presence of hepatic impairment would be expected to increase the AUC of ziprasidone; a multiple-dose study at 20 mg twice daily for 5 days in subjects (n=13) with clinically significant (Childs-Pugh Class A and B) cirrhosis revealed an increase in AUC 0 to 12 of 13% and 34% in Childs-Pugh Class A and B, respectively, compared to a matched control group (n=14).
 A half-life of 7.1 hours was observed in subjects with cirrhosis compared to 4.8 hours in the control group.
 
 ## 8.8 Age and Gender Effects

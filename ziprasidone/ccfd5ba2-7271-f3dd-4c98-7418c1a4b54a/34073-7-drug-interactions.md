@@ -7,7 +7,7 @@ Based upon the pharmacodynamic and pharmacokinetic profile of ziprasidone, possi
 
 ## 7.1 Metabolic Pathway
 
-Approximately two-thirds of ziprasidone is metabolized via reduction by aldehyde oxidase.
+Approximately two-thirds of ziprasidone is metabolized via a combination of chemical reduction by glutathione and enzymatic reduction by aldehyde oxidase.
 There are no known clinically relevant inhibitors or inducers of aldehyde oxidase.
 Less than one-third of ziprasidone metabolic clearance is mediated by cytochrome P450 catalyzed oxidation.
 
@@ -36,7 +36,7 @@ Other inhibitors of CYP3A4 would be expected to have similar effects.
 
 Cimetidine Cimetidine at a dose of 800 mg QD for 2 days did not affect ziprasidone pharmacokinetics.
 
-Antacid The co-administration of 30 mL of Maalox® (magnesium hydroxide, aluminum hydroxide and simethicone) with ziprasidone did not affect the pharmacokinetics of ziprasidone.
+Antacid The co-administration of 30 mL of Maalox® with ziprasidone did not affect the pharmacokinetics of ziprasidone.
 
 ## 7.5 Lithium
 

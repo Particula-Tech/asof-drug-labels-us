@@ -2,7 +2,7 @@
 
 ## 4.1 QT Prolongation
 
-Because of ziprasidone’s dose-related prolongation of the QT interval and the known association of fatal arrhythmias with QT prolongation by some other drugs, ziprasidone is contraindicated:
+Because of ziprasidone’ s dose-related prolongation of the QT interval and the known association of fatal arrhythmias with QT prolongation by some other drugs, ziprasidone is contraindicated:
 
 - in patients with a known history of QT prolongation (including congenital long QT syndrome)
 - in patients with recent acute myocardial infarction
