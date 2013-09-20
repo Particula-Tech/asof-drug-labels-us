@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA201537"
+  ],
+  "inn": "azacitidine",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-305-62"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azacitidine",
+      "name": "Azacitidine"
+    }
+  ],
+  "setid": "71d8d758-86c9-b571-aed1-719654fd4b82",
+  "source": "dailymed"
+}
