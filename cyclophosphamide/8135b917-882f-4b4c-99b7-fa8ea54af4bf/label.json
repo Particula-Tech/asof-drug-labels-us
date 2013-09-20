@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA203856"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Roxane Laboratories, Inc.",
+  "package_ndcs": [
+    "0054-0382-25",
+    "0054-0383-25"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cyclophosphamide",
+      "name": "Cyclophosphamide"
+    }
+  ],
+  "setid": "8135b917-882f-4b4c-99b7-fa8ea54af4bf",
+  "source": "dailymed"
+}
