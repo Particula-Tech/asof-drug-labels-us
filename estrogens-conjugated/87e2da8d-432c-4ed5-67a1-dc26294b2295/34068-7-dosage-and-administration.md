@@ -14,5 +14,7 @@ Infusion of Premarin Intravenous for injection with other agents is not generall
 In emergencies, however, when an infusion has already been started it may be expedient to make the injection into the tubing just distal to the infusion needle.
 If so used, compatibility of solutions must be considered.
 
-COMPATIBILITY OF SOLUTIONS: Premarin Intravenous is compatible with normal saline, dextrose, and invert sugar solutions.
+## COMPATIBILITY OF SOLUTIONS
+
+Premarin Intravenous is compatible with normal saline, dextrose, and invert sugar solutions.
 It is not compatible with protein hydrolysate, ascorbic acid, or any solution with an acid pH.
