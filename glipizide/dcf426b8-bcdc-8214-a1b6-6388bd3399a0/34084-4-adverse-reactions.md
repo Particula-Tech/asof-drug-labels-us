@@ -48,7 +48,7 @@ The relationship of these abnormalities to glipizide is uncertain, and they have
 
 ## Post-Marketing Experience
 
-The following adverse events have been reported in post-marketing surveillance
+The following adverse events have been reported in post-marketing surveillance:
 
 ### Hepatobiliary
 
