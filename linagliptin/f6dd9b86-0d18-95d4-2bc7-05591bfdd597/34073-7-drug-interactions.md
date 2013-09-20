@@ -13,7 +13,7 @@ Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolami
 Concomitant use of these drugs may induce metabolic acidosis.
 Use these drugs with caution in patients treated with JENTADUETO, as the risk of lactic acidosis may increase [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-## 7.2 Drug Interactions With Linagliptin
+## 7.2 Drug Interactions with Linagliptin
 
 Inducers of P-glycoprotein and CYP3A4 Enzymes
 

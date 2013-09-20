@@ -1,6 +1,7 @@
 # 10 OVERDOSAGE
 
-In the event of an overdose with JENTADUETO, employ the usual supportive measures (e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring, and institute supportive treatment) as dictated by the patient’s clinical status.
+In the event of an overdose with JENTADUETO, contact the Poison Control Center.
+Employ the usual supportive measures (e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring, and institute supportive treatment) as dictated by the patient’s clinical status.
 Removal of linagliptin by hemodialysis or peritoneal dialysis is unlikely.
 However, metformin is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions.
 Therefore, hemodialysis may be useful partly for removal of accumulated metformin from patients in whom JENTADUETO overdosage is suspected.

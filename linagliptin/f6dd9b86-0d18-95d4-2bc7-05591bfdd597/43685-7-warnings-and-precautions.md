@@ -73,13 +73,14 @@ JENTADUETO should be temporarily discontinued for any surgical procedure (except
 
 Because impaired hepatic function has been associated with some cases of lactic acidosis with metformin therapy, JENTADUETO should generally be avoided in patients with clinical or laboratory evidence of hepatic disease [see Warnings and Precautions (5.1)].
 
-## 5.5 Hypoglycemia
+## 5.5 Use with Medications Known to Cause Hypoglycemia
 
 Linagliptin
 
-Insulin secretagogues are known to cause hypoglycemia.
+Insulin secretagogues and insulin are known to cause hypoglycemia.
 The use of linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial [see Adverse Reactions (6.1)].
-Therefore, a lower dose of the insulin secretagogue may be required to reduce the risk of hypoglycemia when used in combination with JENTADUETO [see Dosage and Administration (2.2)].
+The use of linagliptin in combination with insulin in subjects with severe renal impairment was associated with a higher rate of hypoglycemia [see Adverse Reactions (6.1)].
+Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JENTADUETO [see Dosage and Administration (2.2)].
 
 Metformin
 

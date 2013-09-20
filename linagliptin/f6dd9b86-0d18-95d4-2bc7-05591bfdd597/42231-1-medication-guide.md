@@ -56,9 +56,8 @@ What is JENTADUETO?
 
 - JENTADUETO is a prescription medicine that contains 2 diabetes medicines, linagliptin and metformin.
   JENTADUETO can be used along with diet and exercise to lower blood sugar in adults with type 2 diabetes when treatment with both linagliptin and metformin is appropriate.
-- JENTADUETO is not for people with type I diabetes.
+- JENTADUETO is not for people with type 1 diabetes.
 - JENTADUETO is not for people with diabetic ketoacidosis (increased ketones in the blood or urine).
-- It is not known if JENTADUETO is safe and effective when used with insulin.
 - If you have had pancreatitis in the past, it is not known if you have a higher chance of getting pancreatitis while you take JENTADUETO.
 - It is not known if JENTADUETO is safe and effective in children under 18 years of age.
 
@@ -137,20 +136,20 @@ What are the possible side effects of JENTADUETO tablets?
 JENTADUETO may cause serious side effects, including:
 
 - See "What is the most important information I should know about JENTADUETO?"
-- low blood sugar (hypoglycemia).
-  If you take JENTADUETO with another medication that can cause low blood sugar, such as sulfonylurea or insulin, your risk of getting low blood sugar is higher.
-  The dose of your sulfonylurea medicine or insulin may need to be lowered while you take JENTADUETO.
-  Signs and symptoms of low blood sugar may include:
-  - headache
-  - hunger
-  - fast heart beat
-  - sweating
-  - feeling jittery
-  - irritability
-  - drowsiness
-  - weakness
-  - dizziness
-  - confusion
+  - low blood sugar (hypoglycemia).
+    If you take JENTADUETO with another medication that can cause low blood sugar, such as sulfonylurea or insulin, your risk of getting low blood sugar is higher.
+    The dose of your sulfonylurea medicine or insulin may need to be lowered while you take JENTADUETO.
+    Signs and symptoms of low blood sugar may include:
+    - headache
+    - hunger
+    - fast heart beat
+    - sweating
+    - feeling jittery
+    - irritability
+    - drowsiness
+    - weakness
+    - dizziness
+    - confusion
 
 The most common side effects of JENTADUETO include:
 
@@ -215,12 +214,12 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
-Revised: June 2013
+Revised: September 2013
 
 *The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
 Copyright 2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5571DF192013 300661-02
+IT5571EI102013 300661-03
 
-IT5645B 302118-01
+IT5645D 302118-02

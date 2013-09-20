@@ -191,7 +191,7 @@ Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |
 | --- | --- | --- | --- | --- |
 | AUC† | Cmax |  |  |  |
-| No dosing adjustments required for linagliptin when given with following coadministered drugs: |  |  |  |  |
+| No dosing adjustments required for linagliptin when given with the following coadministered drugs: |  |  |  |  |
 | Metformin | 850 mg TID | 10 mg QD | 1.20 | 1.03 |
 | Glyburide | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
@@ -213,7 +213,7 @@ Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.34 1.33 | 1.10 1.21 |
 | Warfarin | 10 mg# | 5 mg QD | R-warfarin S-warfarin INR PT | 0.99 1.03 0.93** 1.03** | 1.00 1.01 1.04** 1.15** |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol levonorgestrel | 1.01 1.09 | 1.08 1.13 |
-| * Multiple dose (steady state) unless otherwise noted # Single dose †AUC = AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points INR = International Normalized Ratio PT = Prothrombin Time QD = once daily BID = twice daily TID = three times daily |  |  |  |  |  |
+| * Multiple dose (steady state) unless otherwise noted # Single dose †AUC = AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points INR = International Normalized Ratio PT = Prothrombin Time QD = once daily TID = three times daily |  |  |  |  |  |
 
 Metformin hydrochloride
 
@@ -227,7 +227,7 @@ Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Nifedipine | 10 mg | 850 mg | metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | metformin | 1.05‡ | 1.07‡ |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5.9) and Drug Interactions (7.1)]. |  |  |  |  |  |
+| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5.3) and Drug Interactions (7.1)]. |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | metformin | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
