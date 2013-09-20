@@ -13,7 +13,7 @@ Table 1: Sitagliptin and Metformin Co-administered to Patients with Type 2 Diabe
 |  | N = 176 | N = 179 | N = 364 | N = 372 |
 | --- | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |  |
-|  | Placebo | Sitagliptin100 mg QD | Metformin 500 mg/Metformin 1000 mg bidData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg bid +Metformin 500 mg/Metformin 1000 mg bid |
+|  | Placebo | Sitagliptin100 mg once daily | Metformin 500 mg/Metformin 1000 mg twice dailyData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg twice daily +Metformin 500 mg/Metformin 1000 mg twice daily |
 | Diarrhea | 7 (4.0) | 5 (2.8) | 28 (7.7) | 28 (7.5) |
 | Upper Respiratory Tract Infection | 9 (5.1) | 8 (4.5) | 19 (5.2) | 23 (6.2) |
 | Headache | 5 (2.8) | 2 (1.1) | 14 (3.8) | 22 (5.9) |
@@ -34,7 +34,7 @@ Table 2: Pre-selected Gastrointestinal Adverse Reactions (Regardless of Investig
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |  |  |  |
 |  | Study of Sitagliptin and Metformin in Patients Inadequately Controlled on Diet and Exercise |  |  |  | Study of Sitagliptin Add-on in Patients Inadequately Controlled on Metformin Alone |  |
-|  | Placebo | Sitagliptin100 mg QD | Metformin 500 mg/Metformin 1000 mg bidData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg bid +Metformin 500 mg/Metformin 1000 mg bid | Placebo and Metformin≥1500 mg daily | Sitagliptin 100 mg QD and Metformin≥1500 mg daily |
+|  | Placebo | Sitagliptin100 mg once daily | Metformin 500 mg/Metformin 1000 mg twice dailyData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg twice daily +Metformin 500 mg/Metformin 1000 mg twice daily | Placebo and Metformin≥1500 mg daily | Sitagliptin 100 mg once daily and Metformin≥1500 mg daily |
 | Diarrhea | 7 (4.0) | 5 (2.8) | 28 (7.7) | 28 (7.5) | 6 (2.5) | 11 (2.4) |
 | Nausea | 2 (1.1) | 2 (1.1) | 20 (5.5) | 18 (4.8) | 2 (0.8) | 6 (1.3) |
 | Vomiting | 1 (0.6) | 0 (0.0) | 2 (0.5) | 8 (2.2) | 2 (0.8) | 5 (1.1) |
@@ -79,11 +79,19 @@ In patients with type 2 diabetes inadequately controlled on metformin alone, the
 In the study of sitagliptin and add-on combination therapy with metformin and rosiglitazone, the overall incidence of hypoglycemia was 2.2% in patients given add-on sitagliptin and 0.0% in patients given add-on placebo through Week 18.
 Through Week 54, the overall incidence of hypoglycemia was 3.9% in patients given add-on sitagliptin and 1.0% in patients given add-on placebo.
 
+Vital Signs and Electrocardiograms
+
 With the combination of sitagliptin and metformin, no clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed.
+
+Pancreatitis
 
 In a pooled analysis of 19 double-blind clinical trials that included data from 10,246 patients randomized to receive sitagliptin 100 mg/day (N=5429) or corresponding (active or placebo) control (N=4817), the incidence of acute pancreatitis was 0.1 per 100 patient-years in each group (4 patients with an event in 4708 patient-years for sitagliptin and 4 patients with an event in 3942 patient-years for control) [See Warnings and Precautions (5.2).]
 
+Sitagliptin
+
 The most common adverse experience in sitagliptin monotherapy reported regardless of investigator assessment of causality in ≥5% of patients and more commonly than in patients given placebo was nasopharyngitis.
+
+Metformin hydrochloride
 
 The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 

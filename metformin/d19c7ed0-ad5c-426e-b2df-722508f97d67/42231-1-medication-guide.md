@@ -1,4 +1,4 @@
-Medication Guide JANUMET® (JAN-you-met) (sitagliptin/metformin hydrochloride) Tablets
+Medication Guide JANUMET® (JAN-you-met) (sitagliptin and metformin hydrochloride) Tablets
 
 Read this Medication Guide carefully before you start taking JANUMET and each time you get a refill.
 There may be new information.
@@ -40,7 +40,6 @@ You have a higher chance of getting lactic acidosis if you:
 - have certain x-ray tests with dyes or contrast agents that are injected into your body.
 - have surgery.
 - have a heart attack, severe infection, or stroke.
-- are 80 years of age or older and have not had your kidneys tested.
 
 2.
 Pancreatitis (inflammation of the pancreas) which may be severe and lead to death.
@@ -74,16 +73,15 @@ Who should not take JANUMET?
 
 Do not take JANUMET if:
 
+- your kidneys are not working properly.
 - you are allergic to any of the ingredients in JANUMET.
   See the end of this Medication Guide for a complete list of ingredients in JANUMET.
   Symptoms of a serious allergic reaction to JANUMET may include:
   - rash
   - raised red patches on your skin (hives)
   - swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing
-- you have kidneys which are not working properly.
-- you are going to get an injection of dye or contrast agents for an x-ray procedure, JANUMET will need to be stopped for a short time.
-  Talk to your doctor about when you should stop JANUMET and when you should start JANUMET again.
-  See "What is the most important information I should know about JANUMET?".
+- you have diabetic ketoacidosis.
+  See "What is JANUMET?"
 
 What should I tell my doctor before taking JANUMET?
 
@@ -93,9 +91,10 @@ Before you take JANUMET, tell your doctor if you:
 - have kidney problems.
 - have liver problems.
 - have heart problems, including congestive heart failure.
-- are older than 80 years.
-  If you are over 80 years old you should not take JANUMET unless your kidneys have been checked and they are normal.
 - drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking.
+- are going to get an injection of dye or contrast agents for an x-ray procedure; JANUMET will need to be stopped for a short time.
+  Talk to your doctor about when you should stop JANUMET and when you should start JANUMET again.
+  See "What is the most important information I should know about JANUMET?".
 - have any other medical conditions.
 - are pregnant or plan to become pregnant.
   It is not known if JANUMET will harm your unborn baby.
@@ -134,7 +133,7 @@ How should I take JANUMET?
     Dehydration can occur if you are sick with severe vomiting, diarrhea or fever, or if you drink a lot less fluid than normal.
   - plan to have surgery.
   - are going to get an injection of dye or contrast agent for an x-ray procedure.
-    See "What is the most important information I should know about JANUMET?" and "Who should not take JANUMET?".
+    See "What is the most important information I should know about JANUMET?" and "What should I tell my doctor before taking JANUMET?".
 - When your body is under some types of stress, such as fever, trauma (such as a car accident), infection or surgery, the amount of diabetes medicine that you need may change.
   Tell your doctor right away if you have any of these problems and follow your doctor's instructions.
 - Check your blood sugar as your doctor tells you to.
@@ -171,6 +170,7 @@ The most common side effects of JANUMET include:
 - gas, upset stomach, indigestion
 - weakness
 - headache
+- low blood sugar (hypoglycemia) when used in combination with certain medications, such as a sulfonylurea or insulin.
 
 Taking JANUMET with meals can help lessen the common stomach side effects of metformin that usually happen at the beginning of treatment.
 If you have unusual or sudden stomach problems, talk with your doctor.

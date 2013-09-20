@@ -4,7 +4,7 @@
 
 JANUMET
 
-JANUMET combines two antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes: sitagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin hydrochloride, a member of the biguanide class.
+JANUMET combines two antidiabetic medications with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes: sitagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin hydrochloride, a member of the biguanide class.
 
 Sitagliptin
 
@@ -59,7 +59,7 @@ In patients with type 2 diabetes administered sitagliptin 100 mg (N=81) or sitag
 
 JANUMET
 
-The results of a bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin/metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to co-administration of corresponding doses of sitagliptin (JANUVIA®) and metformin hydrochloride as individual tablets.
+The results of a bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin and metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to co-administration of corresponding doses of sitagliptin (JANUVIA®) and metformin hydrochloride as individual tablets.
 
 Absorption
 
@@ -122,34 +122,34 @@ Renal clearance is approximately 3.5 times greater than creatinine clearance, wh
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
-Special Populations
+Specific Populations
 
-Renal Insufficiency
+Renal Impairment
 
 JANUMET
 
-JANUMET should not be used in patients with renal insufficiency [see Contraindications (4); Warnings and Precautions (5.4)].
+JANUMET should not be used in patients with renal impairment [see Contraindications (4); Warnings and Precautions (5.4)].
 
 Sitagliptin
 
-An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal insufficiency, and an approximately 4-fold increase was observed in patients with severe renal insufficiency including patients with ESRD on hemodialysis, as compared to normal healthy control subjects.
+An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment, and an approximately 4-fold increase was observed in patients with severe renal impairment including patients with ESRD on hemodialysis, as compared to normal healthy control subjects.
 
 Metformin hydrochloride
 
 In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance.
 
-Hepatic Insufficiency
+Hepatic Impairment
 
 Sitagliptin
 
-In patients with moderate hepatic insufficiency (Child-Pugh score 7 to 9), mean AUC and Cmax of sitagliptin increased approximately 21% and 13%, respectively, compared to healthy matched controls following administration of a single 100-mg dose of sitagliptin.
+In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), mean AUC and Cmax of sitagliptin increased approximately 21% and 13%, respectively, compared to healthy matched controls following administration of a single 100-mg dose of sitagliptin.
 These differences are not considered to be clinically meaningful.
 
-There is no clinical experience in patients with severe hepatic insufficiency (Child-Pugh score >9).
+There is no clinical experience in patients with severe hepatic impairment (Child-Pugh score >9).
 
 Metformin hydrochloride
 
-No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency.
+No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
 
 Gender
 
@@ -172,9 +172,9 @@ Elderly subjects (65 to 80 years) had approximately 19% higher plasma concentrat
 Metformin hydrochloride
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half life is prolonged, and Cmax is increased, compared to healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see GLUCOPHAGE prescribing information: CLINICAL PHARMACOLOGY, Special Populations, Geriatrics).
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
-JANUMET treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced [see Warnings and Precautions (5.1, 5.4)].
+As is true for all patients, JANUMET treatment should not be initiated in geriatric patients unless measurement of creatinine clearance demonstrates that renal function is normal [see Warnings and Precautions (5.1, 5.4)].
 
 Pediatric
 
@@ -218,36 +218,57 @@ Therefore, the propensity of sitagliptin to be involved in clinically meaningful
 
 In Vivo Assessment of Drug Interactions
 
-Effect of Sitagliptin on Other Drugs
+Table 4: Effect of Sitagliptin on Systemic Exposure of Coadministered Drugs
 
-In clinical studies, as described below, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, warfarin, or oral contraceptives, providing in vivo evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C8, CYP2C9, and organic cationic transporter (OCT).
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without sitagliptin) No Effect = 1.00 |  |  |
+| No dosing adjustments required for the following: |  |  |  |  |  |
+| Digoxin | 0.25 mgMultiple dose once daily for 10 days | 100 mg once daily for 10 days | Digoxin | 1.11AUC0-24hr | 1.18 |
+| Glyburide | 1.25 mg | 200 mg once daily for 6 days | Glyburide | 1.09 | 1.01 |
+| Simvastatin | 20 mg | 200 mg once daily for 5 days | Simvastatin | 0.85AUC0-last | 0.80 |
+|  |  | Simvastatin Acid | 1.12 | 1.06 |  |
+| Rosiglitazone | 4 mg | 200 mg once daily for 5 days | Rosiglitazone | 0.98 | 0.99 |
+| Warfarin | 30 mg single dose on day 5 | 200 mg once daily for 11 days | S(-) Warfarin | 0.95 | 0.89 |
+|  | R(+) Warfarin | 0.99 | 0.89 |  |  |
+| Ethinyl estradiol and norethindrone | 21 days once daily of 35 µg ethinyl estradiol with norethindrone 0.5 mg × 7 days, 0.75 mg × 7 days, 1.0 mg × 7 days | 200 mg once daily for 21 days | Ethinyl estradiol | 0.99 | 0.97 |
+| Norethindrone | 1.03 | 0.98 |  |  |  |
+| Metformin | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr | 0.97 |
 
-Digoxin: Sitagliptin had a minimal effect on the pharmacokinetics of digoxin.
-Following administration of 0.25 mg digoxin concomitantly with 100 mg of sitagliptin daily for 10 days, the plasma AUC of digoxin was increased by 11%, and the plasma Cmax by 18%.
+Table 5: Effect of Coadministered Drugs on Systemic Exposure of Sitagliptin
 
-Sulfonylureas: Single-dose pharmacokinetics of glyburide, a CYP2C9 substrate, was not meaningfully altered in subjects receiving multiple doses of sitagliptin.
-Clinically meaningful interactions would not be expected with other sulfonylureas (e.g., glipizide, tolbutamide, and glimepiride) which, like glyburide, are primarily eliminated by CYP2C9 [see Warnings and Precautions (5.9)].
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
+| No dosing adjustments required for the following: |  |  |  |  |  |
+| Cyclosporine | 600 mg once daily | 100 mg once daily | Sitagliptin | 1.29 | 1.68 |
+| Metformin | 1000 mgMultiple dose twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr | 1.05 |
 
-Simvastatin: Single-dose pharmacokinetics of simvastatin, a CYP3A4 substrate, was not meaningfully altered in subjects receiving multiple daily doses of sitagliptin.
-Therefore, sitagliptin is not an inhibitor of CYP3A4-mediated metabolism.
+Table 6: Effect of Metformin on Systemic Exposure of Coadministered Drugs
 
-Thiazolidinediones: Single-dose pharmacokinetics of rosiglitazone was not meaningfully altered in subjects receiving multiple daily doses of sitagliptin, indicating that sitagliptin is not an inhibitor of CYP2C8-mediated metabolism.
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Metformin | Geometric Mean Ratio (ratio with/without metformin) No Effect = 1.00 |  |  |
+| No dosing adjustments required for the following: |  |  |  |  |  |
+| Cimetidine | 400 mg | 850 mg | Cimetidine | 0.95AUC0-24hr | 1.01 |
+| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride extended-release tablets) 500 mg | Glyburide | 0.78Ratio of arithmetic means, p value of difference <0.05 | 0.63 |
+| Furosemide | 40 mg | 850 mg | Furosemide | 0.87 | 0.69 |
+| Nifedipine | 10 mg | 850 mg | Nifedipine | 1.10 | 1.08 |
+| Propranolol | 40 mg | 850 mg | Propranolol | 1.01 | 0.94 |
+| Ibuprofen | 400 mg | 850 mg | Ibuprofen | 0.97Ratio of arithmetic means | 1.01 |
 
-Warfarin: Multiple daily doses of sitagliptin did not meaningfully alter the pharmacokinetics, as assessed by measurement of S(-) or R(+) warfarin enantiomers, or pharmacodynamics (as assessed by measurement of prothrombin INR) of a single dose of warfarin.
-Because S(-) warfarin is primarily metabolized by CYP2C9, these data also support the conclusion that sitagliptin is not a CYP2C9 inhibitor.
+Table 7: Effect of Coadministered Drugs on Systemic Exposure of Metformin
 
-Oral Contraceptives: Co-administration with sitagliptin did not meaningfully alter the steady-state pharmacokinetics of norethindrone or ethinyl estradiol.
-
-Effect of Other Drugs on Sitagliptin
-
-Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by co-administered medications.
-
-Cyclosporine: A study was conducted to assess the effect of cyclosporine, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin.
-Co-administration of a single 100-mg oral dose of sitagliptin and a single 600-mg oral dose of cyclosporine increased the AUC and Cmax of sitagliptin by approximately 29% and 68%, respectively.
-These modest changes in sitagliptin pharmacokinetics were not considered to be clinically meaningful.
-The renal clearance of sitagliptin was also not meaningfully altered.
-Therefore, meaningful interactions would not be expected with other p-glycoprotein inhibitors.
-
-Metformin hydrochloride
-
-[See Drug Interactions (7.1, 7.3, 7.4, 7.5, 7.6).]
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
+| No dosing adjustments required for the following: |  |  |  |  |  |
+| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride extended-release tablets) 500 mg | Metformin | 0.98Ratio of arithmetic means | 0.99 |
+| Furosemide | 40 mg | 850 mg | Metformin | 1.09 | 1.22 |
+| Nifedipine | 10 mg | 850 mg | Metformin | 1.16 | 1.21 |
+| Propranolol | 40 mg | 850 mg | Metformin | 0.90 | 0.94 |
+| Ibuprofen | 400 mg | 850 mg | Metformin | 1.05 | 1.07 |
+| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution. [See Warnings and Precautions (5.10) and Drug Interactions (7.2).] |  |  |  |  |  |
+| Cimetidine | 400 mg | 850 mg | Metformin | 1.40 | 1.61 |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution. [See Warnings and Precautions (5.1) and Drug Interactions (7.1).] |  |  |  |  |  |
+| Topiramate | 100 mgSteady state 100 mg Topiramate every 12 hr + metformin 500 mg every 12 hr AUC = AUC0-12hr | 500 mg | Metformin | 1.25 | 1.17 |

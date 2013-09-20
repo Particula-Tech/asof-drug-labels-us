@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JANUMET (sitagliptin/metformin HCl) tablets contain two oral antihyperglycemic drugs used in the management of type 2 diabetes: sitagliptin and metformin hydrochloride.
+JANUMET (sitagliptin and metformin HCl) tablets contain two oral antihyperglycemic drugs used in the management of type 2 diabetes: sitagliptin and metformin hydrochloride.
 
 Sitagliptin
 

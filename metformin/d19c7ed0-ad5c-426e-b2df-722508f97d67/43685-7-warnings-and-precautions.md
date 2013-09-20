@@ -11,12 +11,11 @@ When metformin is implicated as the cause of lactic acidosis, metformin plasma l
 
 The reported incidence of lactic acidosis in patients receiving metformin hydrochloride is very low (approximately 0.03 cases/1000 patient-years, with approximately 0.015 fatal cases/1000 patient-years).
 In more than 20,000 patient-years exposure to metformin in clinical trials, there were no reports of lactic acidosis.
-Reported cases have occurred primarily in diabetic patients with significant renal insufficiency, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
+Reported cases have occurred primarily in diabetic patients with significant renal impairment, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
 Patients with congestive heart failure requiring pharmacologic management, in particular those with unstable or acute congestive heart failure who are at risk of hypoperfusion and hypoxemia, are at increased risk of lactic acidosis.
 The risk of lactic acidosis increases with the degree of renal dysfunction and the patient's age.
 The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking metformin and by use of the minimum effective dose of metformin.
 In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
-Metformin treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced, as these patients are more susceptible to developing lactic acidosis.
 In addition, metformin should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
 Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
 Patients should be cautioned against excessive alcohol intake, either acute or chronic, when taking metformin, since alcohol potentiates the effects of metformin hydrochloride on lactate metabolism.
@@ -53,10 +52,16 @@ Since impaired hepatic function has been associated with some cases of lactic ac
 ## 5.4 Assessment of Renal Function
 
 Metformin and sitagliptin are known to be substantially excreted by the kidney.
+
+Metformin hydrochloride
+
 The risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
-Thus, patients with serum creatinine levels above the upper limit of normal for their age should not receive JANUMET.
-In the elderly, JANUMET should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging can be associated with reduced renal function.
-[See Warnings and Precautions (5.1); Use in Specific Populations (8.5).]
+Therefore, JANUMET is contraindicated in patients with renal impairment.
+
+Before initiation of JANUMET and at least annually thereafter, renal function should be assessed and verified as normal.
+In patients in whom development of renal dysfunction is anticipated (e.g., elderly), renal function should be assessed more frequently and JANUMET discontinued if evidence of renal impairment is present.
+
+Sitagliptin
 
 There have been postmarketing reports of worsening renal function, including acute renal failure, sometimes requiring dialysis.
 Before initiation of therapy with JANUMET and at least annually thereafter, renal function should be assessed and verified as normal.
@@ -102,7 +107,7 @@ Hypoglycemia may be difficult to recognize in the elderly, and in people who are
 
 ## 5.10 Concomitant Medications Affecting Renal Function or Metformin Disposition
 
-Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion [see Drug Interactions (7.1)], should be used with caution.
+Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion [see Drug Interactions (7.2)], should be used with caution.
 
 ## 5.11 Radiologic Studies with Intravascular Iodinated Contrast Materials
 
