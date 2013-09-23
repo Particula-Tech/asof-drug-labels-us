@@ -45,11 +45,11 @@ ABRAXANE doses were assigned based on the degree of hepatic impairment as descri
 The 260 mg/m2 dose for mild hepatic impairment and the 200 mg/m2 dose for moderate hepatic impairment resulted in paclitaxel exposures within the range seen in patients with normal hepatic function (mean AUC0-∞ = 14,789 ± 6,703 hr*ng/mL).
 The 130 mg/m2 dose in patients with severe hepatic impairment resulted in lower paclitaxel exposures than those seen in normal subjects.
 In addition, patients with severe hepatic impairment had higher mean cycle 1 absolute neutrophil count (ANC) nadir values than those with mild and moderate hepatic impairment.
-Table 6 summarizes the AUC values observed in the study.
+Table 11 summarizes the AUC values observed in the study.
 The 200 mg/m2 dose has not been evaluated in patients with severe hepatic impairment, but it is predicted to adjust the paclitaxel AUC to the range observed in patients with normal hepatic function.
-There are no data for patients with AST > 10 x ULN or bilirubin >5 x ULN [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+There are no data for patients with AST > 10 x ULN or bilirubin >5 x ULN [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
 
-Table 6: Exposure (AUC0-∞) of ABRAXANE Administered Intravenously over 30 Minutes in Patients with Hepatic Impairment
+Table 11: Exposure (AUC0-∞) of ABRAXANE Administered Intravenously over 30 Minutes in Patients with Hepatic Impairment
 
 |  | Mild (n=5) | Moderate (n=5) | Severea (n=5) |
 | --- | --- | --- | --- |
@@ -57,9 +57,11 @@ Table 6: Exposure (AUC0-∞) of ABRAXANE Administered Intravenously over 30 Minu
 | AUCinf (hr*ng/mL) |  |  |  |
 | Mean ± SD | 17434 ± 11454 | 14159 ± 13346 | 9187 ± 6475 |
 | Median (range) | 13755 (7618, 35262) | 7866 (5919, 37613) | 6134 (5627, 20684) |
-| abilirubin 2.01 to 5 x ULN and AST > ULN and < 10 x ULN |  |  |  |
+| a bilirubin 2.01 to 5 x ULN and AST > ULN and < 10 x ULN |  |  |  |
 
 Effect of Renal Impairment The effect of renal impairment on the disposition of ABRAXANE has not been studied [see Use in Specific Populations (8.7)].
 
-Pharmacokinetic Interactions between Carboplatin and ABRAXANE Administration of carboplatin immediately after the completion of ABRAXANE infusion to patients with non-small cell lung cancer did not cause clinically important changes in paclitaxel exposure.
-The observed mean AUCinf of free carboplatin was approximately 23% higher than the targeted value (6 min*mg/mL) but its mean half life and clearance were consistent with those reported in the absence of paclitaxel.
+Pharmacokinetic Interactions between and ABRAXANE and Carboplatin Administration of carboplatin immediately after the completion of the ABRAXANE infusion to patients with NSCLC did not cause clinically meaningful changes in paclitaxel exposure.
+The observed mean AUCinf of free carboplatin was approximately 23% higher than the targeted value (6 min*mg/mL), but its mean half-life and clearance were consistent with those reported in the absence of paclitaxel.
+
+Pharmacokinetic Interactions between and ABRAXANE and Gemcitabine Pharmacokinetic interactions between ABRAXANE and gemcitabine have not been studied in humans.

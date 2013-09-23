@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.6)].
+Pregnancy Category D [see Warnings and Precautions (5.9)].
 
 There are no adequate and well-controlled studies in pregnant women using ABRAXANE.
 Based on its mechanism of action and findings in animals, ABRAXANE can cause fetal harm when administered to a pregnant woman.
@@ -32,9 +32,15 @@ Of the 514 patients in the randomized study who received ABRAXANE and carboplati
 Myelosuppression, peripheral neuropathy, and arthralgia were more frequent in patients 65 years or older compared to patients younger than 65 years old.
 No overall difference in effectiveness, as measured by response rates, was observed between patients 65 years or older compared to patients younger than 65 years old.
 
+Of the 431 patients in the randomized study who received ABRAXANE and gemcitabine for the first-line treatment of pancreatic adenocarcinoma, 41% were 65 years or older and 10% were 75 years or older.
+No overall differences in effectiveness were observed between patients who were 65 years of age or older and younger patients.
+Diarrhea, decreased appetite, dehydration and epistaxis were more frequent in patients 65 years or older compared with patients younger than 65 years old.
+Clinical studies of ABRAXANE did not include sufficient number of patients with pancreatic cancer who were 75 years and older to determine whether they respond differently from younger patients.
+
 ## 8.6 Patients with Hepatic Impairment
 
-Because the exposure and toxicity of paclitaxel can be increased in patients with hepatic impairment, the administration of ABRAXANE should be performed with caution in patients with hepatic impairment [see Dosage and Administration (2.3), Warnings and Precautions (5.4), and Clinical Pharmacology (12.3)].
+Because the exposure and toxicity of paclitaxel can be increased in patients with hepatic impairment, the administration of ABRAXANE should be performed with caution in patients with hepatic impairment [see Dosage and Administration (2.4), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
+Abraxane has not been studied in combination with gemcitabine for the treatment of pancreatic cancer in patients with a bilirubin greater than the upper limit of normal.
 
 ## 8.7 Patients with Renal Impairment
 

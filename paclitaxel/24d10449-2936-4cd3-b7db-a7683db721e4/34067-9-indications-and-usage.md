@@ -8,3 +8,7 @@ Prior therapy should have included an anthracycline unless clinically contraindi
 ## 1.2 Non-Small Cell Lung Cancer
 
 ABRAXANE is indicated for the first-line treatment of locally advanced or metastatic non-small cell lung cancer, in combination with carboplatin, in patients who are not candidates for curative surgery or radiation therapy.
+
+## 1.3 Adenocarcinoma of the Pancreas
+
+ABRAXANE is indicated for the first-line treatment of patients with metastatic adenocarcinoma of the pancreas, in combination with gemcitabine.

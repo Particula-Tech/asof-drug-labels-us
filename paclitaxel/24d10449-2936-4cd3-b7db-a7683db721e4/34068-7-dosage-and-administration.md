@@ -7,9 +7,14 @@ After failure of combination chemotherapy for metastatic breast cancer or relaps
 ## 2.2 Non-Small Cell Lung Cancer
 
 The recommended dose of ABRAXANE is 100 mg/m2 administered as an intravenous infusion over 30 minutes on Days 1, 8, and 15 of each 21-day cycle.
-The recommended dose of carboplatin is AUC = 6 mg•min/mL on Day 1 only of each 21-day cycle, beginning immediately after the completion of ABRAXANE administration.
+Administer carboplatin on Day 1 of each 21 day cycle immediately after ABRAXANE [see Clinical Studies (14.2)].
 
-## 2.3 Dosage in Patients with Hepatic Impairment
+## 2.3 Adenocarcinoma of the Pancreas
+
+The recommended dose of ABRAXANE is 125 mg/m2 administered as an intravenous infusion over 30-40 minutes on Days 1, 8 and 15 of each 28-day cycle.
+Administer gemcitabine immediately after ABRAXANE on Days 1, 8 and 15 of each 28-day cycle [see Clinical Studies (14.3)].
+
+## 2.4 Dosage in Patients with Hepatic Impairment
 
 No dose adjustment is necessary for patients with mild hepatic impairment.
 Patients with moderate and severe hepatic impairment treated with ABRAXANE may be at increased risk of toxicities known to paclitaxel.
@@ -21,23 +26,23 @@ For metastatic breast cancer, the dose of ABRAXANE can be increased from 130 mg/
 For non-small cell lung cancer, reduce the dose of ABRAXANE to 50 mg/m2 in patients with severe hepatic impairment.
 In subsequent cycles, the dose of ABRAXANE may be increased to 75 mg/m2 as tolerated.
 
-Monitor patients closely [see Warnings and Precautions (5.4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Monitor patients closely [see Warnings and Precautions (5.6), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Table 1: Recommendations for Starting Dose in Patients with Hepatic Impairment
 
-|  | SGOT (AST) Levels |  | Bilirubin Levels | ABRAXANE Dosea |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  | MBC | NSCLC |  |  |
-| Mild | < 10 x ULN | AND | > ULN to ≤ 1.25 x ULN | 260 mg/m2 | 100 mg/m2 |
-| Moderate | < 10 x ULN | 1.26 to 2 x ULN | 200 mg/m2 | 75 mg/m2 |  |
-| Severe | < 10 x ULN | 2.01 to 5 x ULN | 130 mg/m2 b | 50 mg/m2 c |  |
-|  | > 10 x ULN | OR | > 5 x ULN | not eligible | not eligible |
-| MBC = Metastatic Breast Cancer; NSCLC = Non-Small Cell Lung Cancer. |  |  |  |  |  |
-| a Dosage recommendations are for the first course of therapy. The need for further dose adjustments in subsequent courses should be based on individual tolerance. |  |  |  |  |  |
-| b A dose increase to 200 mg/m2 in subsequent courses should be considered based on individual tolerance. |  |  |  |  |  |
-| c Increase dose to 75 mg/m2 in subsequent courses, as tolerated. |  |  |  |  |  |
+|  | SGOT (AST) Levels |  | Bilirubin Levels | ABRAXANE Dosea |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | MBC | NSCLC c | Pancreatic c Adenocarcinoma |  |  |
+| Mild | < 10 x ULN | AND | > ULN to ≤ 1.25 x ULN | 260 mg/m2 | 100 mg/m2 | 125 mg/m2 |
+| Moderate | < 10 x ULN | AND | 1.26 to 2 x ULN | 200 mg/m2 | 75 mg/m2 | not recommended |
+| Severe | < 10 x ULN | AND | 2.01 to 5 x ULN | 130 mg/m2 b | 50 mg/m2 | not recommended |
+|  | > 10 x ULN | OR | > 5 x ULN | not recommended | not recommended | not recommended |
+| MBC = Metastatic Breast Cancer; NSCLC = Non-Small Cell Lung Cancer. |  |  |  |  |  |  |
+| a Dosage recommendations are for the first course of therapy. The need for further dose adjustments in subsequent courses should be based on individual tolerance. |  |  |  |  |  |  |
+| b A dose increase to 200 mg/m2 in subsequent courses should be considered based on individual tolerance. |  |  |  |  |  |  |
+| c Patients with bilirubin levels above the upper limit of normal were excluded from clinical trials for pancreatic or lung cancer. |  |  |  |  |  |  |
 
-## 2.4 Dose Reduction/Discontinuation Recommendations
+## 2.5 Dose Reduction/Discontinuation Recommendations
 
 Metastatic Breast Cancer Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for a week or longer) or severe sensory neuropathy during ABRAXANE therapy should have dosage reduced to 220 mg/m2 for subsequent courses of ABRAXANE.
 For recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
@@ -45,7 +50,7 @@ For Grade 3 sensory neuropathy hold treatment until resolution to Grade 1 or 2, 
 
 Non-Small Cell Lung Cancer
 
-- Do not administer ABRAXANE on Day 1 of a cycle until absolute neutrophil count (ANC) is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3[see Contraindications (4),Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
+- Do not administer ABRAXANE on Day 1 of a cycle until absolute neutrophil count (ANC) is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3 [see Contraindications (4),Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
 - In patients who develop severe neutropenia or thrombocytopenia withhold treatment until counts recover to an absolute neutrophil count of at least 1500 cells/mm3 and platelet count of at least 100,000 cells/mm3 on Day 1 or to an absolute neutrophil count of at least 500 cells/mm3 and platelet count of at least 50,000 cells/mm3 on Days 8 or 15 of the cycle.
   Upon resumption of dosing, permanently reduce ABRAXANE and carboplatin doses as outlined in Table 2.
 - Withhold ABRAXANE for Grade 3-4 peripheral neuropathy.
@@ -64,7 +69,47 @@ Table 2: Permanent Dose Reductions for Hematologic and Neurologic Adverse Drug R
 | Second | 50 | 3 |  |
 | Third | Discontinue Treatment |  |  |
 
-## 2.5 Preparation and Administration Precautions
+Adenocarcinoma of the Pancreas Dose level reductions for patients with adenocarcinoma of the pancreas, as referenced in Tables 4 and 5, are provided in Table 3.
+
+Table 3: Dose Level Reductions for Patients with Adenocarcinoma of the Pancreas
+
+| Dose Level | ABRAXANE (mg/m2) | Gemcitabine (mg/m2) |
+| --- | --- | --- |
+| Full dose | 125 | 1000 |
+| 1st dose reduction | 100 | 800 |
+| 2nd dose reduction | 75 | 600 |
+| If additional dose reduction required | Discontinue | Discontinue |
+
+Recommended dose modifications for neutropenia and thrombocytopenia for patients with adenocarcinoma of the pancreas are provided in Table 4.
+
+Table 4: Dose Recommendation and Modifications for Neutropenia and/or Thrombocytopenia at the Start of a Cycle or within a Cycle for Patients with Adenocarcinoma of the Pancreas
+
+| Cycle Day | ANC (cells/mm3) |  | Platelet count (cells/mm3) | ABRAXANE / Gemcitabine |
+| --- | --- | --- | --- | --- |
+| Day 1 | < 1500 | OR | < 100,000 | Delay doses until recovery |
+| Day 8 | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level |
+|  | < 500 | OR | < 50,000 | Withhold doses |
+| Day 15: IF Day 8 doses were reduced or given without modification: |  |  |  |  |
+|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level from Day 8 |
+|  | < 500 | OR | < 50,000 | Withhold doses |
+| Day 15: IF Day 8 doses were withheld: |  |  |  |  |
+|  | ≥ 1000 | OR | ≥ 75,000 | Reduce 1 dose level from Day 1 |
+|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 2 dose levels from Day 1 |
+|  | < 500 | OR | < 50,000 | Withhold doses |
+| Abbreviations: ANC = Absolute Neutrophil Count |  |  |  |  |
+
+Recommended dose modifications for other adverse drug reactions in patients with adenocarcinoma of the pancreas are provided in Table 5.
+
+Table 5: Dose Modifications for Other Adverse Drug Reactions in Patients with Adenocarcinoma of the Pancreas
+
+| Adverse Drug Reaction | ABRAXANE | Gemcitabine |  |
+| --- | --- | --- | --- |
+| Febrile Neutropenia: Grade 3 or 4 | Withhold until fever resolves and ANC ≥ 1500; resume at next lower dose level |  |  |
+| Peripheral Neuropathy: Grade 3 or 4 | Withhold until improves to ≤ Grade 1; resume at next lower dose level | No dose reduction |  |
+| Cutaneous Toxicity: Grade 2 or 3 | Reduce to next lower dose level; discontinue treatment if toxicity persists |  |  |
+| Gastrointestinal Toxicity: Grade 3 mucositis or diarrhea | Withhold until improves to ≤ Grade 1; resume at next lower dose level |  |  |
+
+## 2.6 Preparation and Administration Precautions
 
 ABRAXANE is a cytotoxic drug and, as with other potentially toxic paclitaxel compounds, caution should be exercised in handling ABRAXANE.
 The use of gloves is recommended.
@@ -73,13 +118,13 @@ Following topical exposure to paclitaxel, events may include tingling, burning a
 If ABRAXANE contacts mucous membranes, the membranes should be flushed thoroughly with water.
 
 Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
-Limiting the infusion of ABRAXANE to 30 minutes, as directed, reduces the likelihood of infusion-related reactions [see Adverse Reactions (6.3)].
+Limiting the infusion of ABRAXANE to 30 minutes, as directed, reduces the likelihood of infusion-related reactions [see Adverse Reactions (6.4)].
 
 Premedication to prevent hypersensitivity reactions is generally not needed prior to the administration of ABRAXANE.
 Premedication may be needed in patients who have had prior hypersensitivity reactions to ABRAXANE.
-Patients who experience a severe hypersensitivity reaction to ABRAXANE should not be re-challenged with this drug [see Warnings and Precautions (5.3)].
+Patients who experience a severe hypersensitivity reaction to ABRAXANE should not be re-challenged with this drug [see Warnings and Precautions (5.5)].
 
-## 2.6 Preparation for Intravenous Administration
+## 2.7 Preparation for Intravenous Administration
 
 ABRAXANE is supplied as a sterile lyophilized powder for reconstitution before use.
 AVOID ERRORS, READ ENTIRE PREPARATION INSTRUCTIONS PRIOR TO RECONSTITUTION.
@@ -102,7 +147,7 @@ The use of an in-line filter is not recommended.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
-## 2.7 Stability
+## 2.8 Stability
 
 Unopened vials of ABRAXANE are stable until the date indicated on the package when stored between 20°C to 25°C (68°F to 77°F) in the original package.
 Neither freezing nor refrigeration adversely affects the stability of the product.

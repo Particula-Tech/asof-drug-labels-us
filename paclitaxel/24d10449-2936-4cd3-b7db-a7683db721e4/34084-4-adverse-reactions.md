@@ -5,15 +5,21 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The most common adverse reactions (≥ 20%) with single-agent use of ABRAXANE in metastatic breast cancer are alopecia, neutropenia, sensory neuropathy, abnormal ECG, fatigue/asthenia, myalgia/arthralgia, AST elevation, alkaline phosphatase elevation, anemia, nausea, infections, and diarrhea [see Adverse Reactions (6.1)].
 
 The most common adverse reactions (≥ 20%) of ABRAXANE in combination with carboplatin for non-small cell lung cancer are anemia, neutropenia, thrombocytopenia, alopecia, peripheral neuropathy, nausea, and fatigue [see Adverse Reactions (6.2)] The most common serious adverse reactions of ABRAXANE in combination with carboplatin for non-small cell lung cancer are anemia (4%) and pneumonia (3%).
-The most common adverse reactions resulting in permanent discontinuation of ABRAXANE were neutropenia (3%), thrombocytopenia (3%), and peripheral neuropathy (1%).
-The most common adverse reactions resulting in dose reduction of ABRAXANE were neutropenia (24%), thrombocytopenia (13%), and anemia (6%).
-The most common adverse reactions leading to withholding or delay in ABRAXANE dosing were neutropenia (41%), thrombocytopenia (30%), and anemia (16%).
+The most common adverse reactions resulting in permanent discontinuation of ABRAXANE are neutropenia (3%), thrombocytopenia (3%), and peripheral neuropathy (1%).
+The most common adverse reactions resulting in dose reduction of ABRAXANE are neutropenia (24%), thrombocytopenia (13%), and anemia (6%).
+The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia (41%), thrombocytopenia (30%), and anemia (16%).
+
+In a randomized open-label trial of ABRAXANE in combination with gemcitabine for pancreatic adenocarcinoma [see Clinical Studies (14.3)], the most common (≥ 20%) selected (with a ≥ 5% higher incidence) adverse reactions of ABRAXANE are neutropenia, fatigue, peripheral neuropathy, nausea, alopecia, peripheral edema, diarrhea, pyrexia, vomiting, decreased appetite, rash, and dehydration.
+The most common serious adverse reactions of ABRAXANE (with a ≥ 1% higher incidence) are pyrexia (6%), dehydration (5%), pneumonia (4%) and vomiting (4%).
+The most common adverse reactions resulting in permanent discontinuation of ABRAXANE are peripheral neuropathy (8%), fatigue (4%) and thrombocytopenia (2%).
+The most common adverse reactions resulting in dose reduction of ABRAXANE are neutropenia (10%) and peripheral neuropathy (6%).
+The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia (16%), thrombocytopenia (12%), fatigue (8%), peripheral neuropathy (15%), anemia (5%) and diarrhea (5%).
 
 ## 6.1 Clinical Trials Experience in Metastatic Breast Cancer
 
-Table 3 shows the frequency of important adverse events in the randomized comparative trial for the patients who received either single-agent ABRAXANE or paclitaxel injection for the treatment of metastatic breast cancer.
+Table 6 shows the frequency of important adverse events in the randomized comparative trial for the patients who received either single-agent ABRAXANE or paclitaxel injection for the treatment of metastatic breast cancer.
 
-Table 3: Frequencya of Important Treatment Emergent Adverse Events in the Randomized Metastatic Breast Cancer Study on an Every-3-Weeks Schedule
+Table 6: Frequencya of Important Treatment Emergent Adverse Events in the Randomized Metastatic Breast Cancer Study on an Every-3-Weeks Schedule
 
 |  | Percent of Patients |  |
 | --- | --- | --- |
@@ -145,23 +151,23 @@ Patients in both treatment arms received a median of 6 cycles of treatment.
 
 The following common (≥ 10% incidence) adverse reactions were observed at a similar incidence in ABRAXANE plus carboplatin-treated and paclitaxel injection plus carboplatin-treated patients: alopecia 56%, nausea 27%, fatigue 25%, decreased appetite 17%, asthenia 16%, constipation 16%, diarrhea 15%, vomiting 12%, dyspnea 12%, and rash 10% (incidence rates are for the ABRAXANE plus carboplatin treatment group).
 
-Table 4 provides the frequency and severity laboratory-detected abnormalities which occurred with a difference of ≥ 5% for all grades (1-4) or ≥ 2% for Grade 3-4 toxicity between ABRAXANE plus carboplatin-treated patients or paclitaxel injection plus carboplatin-treated patients.
+Table 7 provides the frequency and severity laboratory-detected abnormalities which occurred with a difference of ≥ 5% for all grades (1-4) or ≥ 2% for Grade 3-4 toxicity between ABRAXANE plus carboplatin-treated patients or paclitaxel injection plus carboplatin-treated patients.
 
-Table 4: Selected Hematologic Laboratory-Detected Abnormalities With a Difference of ≥ 5% for grades (1-4) or ≥ 2% for Grade 3-4 Toxicity Between Treatment Groups
+Table 7: Selected Hematologic Laboratory-Detected Abnormalities With a Difference of ≥ 5% for grades (1-4) or ≥ 2% for Grade 3-4 Toxicity Between Treatment Groups
 
 |  | ABRAXANE (100 mg/m2 weekly) plus carboplatin |  | Paclitaxel Injection (200 mg/m2 every 3 weeks) plus carboplatin |  |
 | --- | --- | --- | --- | --- |
 | Grades 1-4 (%) | Grade 3-4 (%) | Grades 1-4 (%) | Grade 3-4 (%) |  |
 | Anemia1,2 | 98 | 28 | 91 | 7 |
-| Neutropenia 1,3 | 85 | 47 | 83 | 58 |
+| Neutropenia1,3 | 85 | 47 | 83 | 58 |
 | Thrombocytopenia1,3 | 68 | 18 | 55 | 9 |
 | 1 508 patients assessed in ABRAXANE/carboplatin-treated group |  |  |  |  |
 | 2 514 patients assessed in paclitaxel injection/carboplatin-treated group |  |  |  |  |
 | 3 513 patients assessed in paclitaxel injection/carboplatin-treated group |  |  |  |  |
 
-Table 5 provides the frequency and severity of adverse reactions, which occurred with a difference of ≥ 5% for all grades (1-4) or ≥ 2% for Grade 3-4 between either treatment group for the 514 ABRAXANE plus carboplatin-treated patients compared with the 524 patients who received paclitaxel injection plus carboplatin.
+Table 8 provides the frequency and severity of adverse reactions, which occurred with a difference of ≥ 5% for all grades (1-4) or ≥ 2% for Grade 3-4 between either treatment group for the 514 ABRAXANE plus carboplatin-treated patients compared with the 524 patients who received paclitaxel injection plus carboplatin.
 
-Table 5: Selected Adverse Reactions with a Difference of ≥5% for All Grade Toxicity or ≥2% for Grade 3-4 Toxicity Between Treatment Groups
+Table 8: Selected Adverse Reactions with a Difference of ≥5% for All Grade Toxicity or ≥2% for Grade 3-4 Toxicity Between Treatment Groups
 
 | System Organ Class | MedDRA v 12.1 Preferred Term | ABRAXANE (100 mg/m2 weekly) + carboplatin (N=514) |  | Paclitaxel Injection (200 mg/m2 every 3 weeks) + carboplatin (N=524) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -176,7 +182,77 @@ Table 5: Selected Adverse Reactions with a Difference of ≥5% for All Grade Tox
 For the ABRAXANE plus carboplatin treated group, 17/514 (3%) patients developed Grade 3 peripheral neuropathy and no patients developed Grade 4 peripheral neuropathy.
 Grade 3 neuropathy improved to Grade 1 or resolved in 10/17 patients (59%) following interruption or discontinuation of ABRAXANE.
 
-## 6.3 Post-Marketing Experience with ABRAXANE and other Paclitaxel Formulations
+## 6.3 Clinical Trials Experience in Adenocarcinoma of the Pancreas
+
+Adverse reactions were assessed in 421 patients who received ABRAXANE plus gemcitabine and 402 patients who received gemcitabine for the first-line systemic treatment of metastatic adenocarcinoma of the pancreas in a multicenter, multinational, randomized, controlled, open-label trial.
+Patients received a median treatment duration of 3.9 months in the ABRAXANE/gemcitabine group and 2.8 months in the gemcitabine group.
+For the treated population, the median relative dose intensity for gemcitabine was 75% in the ABRAXANE/gemcitabine group and 85% in the gemcitabine group.
+The median relative dose intensity of ABRAXANE was 81%.
+
+Table 9 provides the frequency and severity of laboratory-detected abnormalities which occurred at a higher incidence for Grades 1-4 (≥ 5%) or for Grade 3-4 (≥ 2%) toxicity in ABRAXANE plus gemcitabine-treated patients.
+
+Table 9: Selected Hematologic Laboratory-Detected Abnormalities with a Higher Incidence (≥ 5% for Grades 1-4 or ≥ 2% for Grades 3-4 Events) in the ABRAXANE/Gemcitabine Arm
+
+|  | ABRAXANE(125 mg/m2)/ Gemcitabined |  | Gemcitabine |  |
+| --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grade 3-4 (%) | Grades 1-4 (%) | Grade 3-4 (%) |  |
+| Neutropeniaa,b | 73 | 38 | 58 | 27 |
+| Thrombocytopeniab,c | 74 | 13 | 70 | 9 |
+| a 405 patients assessed in ABRAXANE/gemcitabine-treated group |  |  |  |  |
+| b 388 patients assessed in gemcitabine-treated group |  |  |  |  |
+| c 404 patients assessed in ABRAXANE/gemcitabine-treated group |  |  |  |  |
+| d Neutrophil growth factors were administered to 26% of patients in the ABRAXANE/gemcitabine group. |  |  |  |  |
+
+Table 10 provides the frequency and severity of adverse reactions which occurred with a difference of ≥ 5% for all grades or ≥ 2% for Grade 3 or higher in the ABRAXANE plus gemcitabine-treated group compared to the gemcitabine group.
+
+Table 10: Selected Adverse Reactions with a Higher Incidence (≥5% for All Grade Toxicity or ≥2% for Grade 3 or Higher Toxicity) in the ABRAXANE/Gemcitabine Arm
+
+| System Organ Class | Adverse Reaction | ABRAXANE (125 mg/m2) and gemcitabine (N=421) |  | Gemcitabine (N=402) |  |
+| --- | --- | --- | --- | --- | --- |
+| All Grades | Grade 3 or Higher | All Grades | Grade 3 or Higher |  |  |
+| General disorders and administration site conditions | Fatigue | 248 (59%) | 77 (18%) | 183 (46%) | 37 (9%) |
+|  | Peripheral edema | 194 (46%) | 13 (3%) | 122 (30%) | 12 (3%) |
+|  | Pyrexia | 171 (41%) | 12 (3%) | 114 (28%) | 4 (1%) |
+|  | Asthenia | 79 (19%) | 29 (7%) | 54 (13%) | 17 (4%) |
+|  | Mucositis | 42 (10%) | 6 (1%) | 16 (4%) | 1 (<1%) |
+| Gastrointestinal disorders | Nausea | 228 (54%) | 27 (6%) | 192 (48%) | 14 (3%) |
+|  | Diarrhea | 184 (44%) | 26 (6%) | 95 (24%) | 6 (1%) |
+|  | Vomiting | 151 (36%) | 25 (6%) | 113 (28%) | 15 (4%) |
+| Skin and subcutaneous tissue disorders | Alopecia | 212 (50%) | 6 (1%) | 21 (5%) | 0 |
+|  | Rash | 128 (30%) | 8 (2%) | 45 (11%) | 2 (<1%) |
+| Nervous system disorders | Peripheral neuropathya | 227 (54%) | 70 (17%) | 51 (13%) | 3 (1%) |
+|  | Dysgeusia | 68 (16%) | 0 | 33 (8%) | 0 |
+|  | Headache | 60 (14%) | 1 (<1%) | 38 (9%) | 1 (<1%) |
+| Metabolism and nutrition disorders | Decreased appetite | 152 (36%) | 23 (5%) | 104 (26%) | 8 (2%) |
+|  | Dehydration | 87 (21%) | 31 (7%) | 45 (11%) | 10 (2%) |
+|  | Hypokalemia | 52 (12%) | 18 (4%) | 28 (7%) | 6 (1%) |
+| Respiratory, thoracic and mediastinal disorders | Cough | 72 (17%) | 0 | 30 (7%) | 0 |
+|  | Epistaxis | 64 (15%) | 1 (<1%) | 14 (3%) | 1 (<1%) |
+| Infections and infestations | Urinary tract infections b | 47 (11%) | 10 (2%) | 20 (5%) | 1 (<1%) |
+| Musculoskeletal and connective tissue disorders | Pain in extremity | 48 (11%) | 3 (1%) | 24 (6%) | 3 (1%) |
+|  | Arthralgia | 47 (11%) | 3 (1%) | 13 (3%) | 1 (<1%) |
+|  | Myalgia | 44 (10%) | 4 (1%) | 15 (4%) | 0 |
+| Psychiatric disorders | Depression | 51 (12%) | 1 (<1%) | 24 (6%) | 0 |
+| a Peripheral neuropathy is defined by the MedDRA Version 15.0 Standard MedDRA Query neuropathy (broad scope). |  |  |  |  |  |
+| b Urinary tract infections includes the preferred terms of: urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, and urinary tract infection enterococccal. |  |  |  |  |  |
+
+Additional clinically relevant adverse reactions that were reported in < 10% of the patients with adenocarcinoma of the pancreas who received ABRAXANE/gemcitabine included:
+
+Infections & infestations: oral candidiasis, pneumonia Vascular disorders: hypertension Cardiac disorders: tachycardia, congestive cardiac failure Eye disorders: cystoid macular edema
+
+Peripheral Neuropathy Grade 3 peripheral neuropathy occurred in 17% of patients who received ABRAXANE/gemcitibine compared to 1% of patients who received gemcitabine only; no patients developed grade 4 peripheral neuropathy.
+The median time to first occurrence of Grade 3 peripheral neuropathy in the ABRAXANE arm was 140 days.
+Upon suspension of ABRAXANE dosing, the median time to improvement from Grade 3 peripheral neuropathy to ≤ Grade 1 was 29 days.
+Of ABRAXANE-treated patients with Grade 3 peripheral neuropathy, 44% resumed ABRAXANE at a reduced dose.
+
+Sepsis Sepsis occurred in 5% of patients who received ABRAXANE/gemcitabine compared to 2% of patients who received gemcitabine alone.
+Sepsis occurred both in patients with and without neutropenia.
+Risk factors for sepsis included biliary obstruction or presence of biliary stent.
+
+Pneumonitis Pneumonitis occurred in 4% of patients who received ABRAXANE/gemcitabine compared to 1% of patients who received gemcitabine alone.
+Two of 17 patients in the ABRAXANE arm with pneumonitis died.
+
+## 6.4 Post-Marketing Experience with ABRAXANE and other Paclitaxel Formulations
 
 Unless otherwise noted, the following discussion refers to the adverse reactions that have been identified during post-approval use of ABRAXANE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -217,7 +293,7 @@ Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported.
 
 There have been reports of conjunctivitis, cellulitis, and increased lacrimation with paclitaxel injection.
 
-## 6.4 Accidental Exposure
+## 6.5 Accidental Exposure
 
 No reports of accidental exposure to ABRAXANE have been received.
 However, upon inhalation of paclitaxel, dyspnea, chest pain, burning eyes, sore throat, and nausea have been reported.

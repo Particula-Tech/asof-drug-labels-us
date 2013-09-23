@@ -6,7 +6,7 @@ Product No.: 103450 NDC No.: 68817-134-50 100 mg of paclitaxel in a single-use v
 
 ## 16.2 Storage
 
-Store the vials in original cartons at 20° C to 25° C (68° F to 77°F).
+Store the vials in original cartons at 20°C to 25°C (68°F to 77°F).
 Retain in the original package to protect from bright light.
 
 ## 16.3 Handling and Disposal
