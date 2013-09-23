@@ -1,6 +1,6 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## 6.1. Clinical Studies Experience
+## 6.1 Clinical Studies Experience
 
 ARICEPT 5 mg/day and 10 mg/day
 
@@ -13,9 +13,11 @@ The rate of discontinuation of patients who received 7-day escalations from 5 mg
 
 The most common adverse events leading to discontinuation, defined as those occurring in at least 2% of patients and at twice or more the incidence seen in placebo patients, are shown in Table 1.
 
+Table 1.
+Most Frequent Adverse Events Leading to Discontinuation from Controlled Clinical Trials by Dose Group
+
 | Dose Group | Placebo | 5 mg/day ARICEPT | 10 mg/day ARICEPT |
 | --- | --- | --- | --- |
-| Table 1. Most Frequent Adverse Events Leading to Discontinuation from Controlled Clinical Trials by Dose Group |  |  |  |
 | Patients Randomized | 355 | 350 | 315 |
 | Event/%Discontinuing |  |  |  |
 | Nausea | 1% | 1% | 3% |
@@ -35,10 +37,12 @@ The rates of common adverse events were lower than those seen in patients titrat
 
 See Table 2 for a comparison of the most common adverse events following one and six week titration regimens.
 
-| Adverse Event | Placebo (n=315) | 5 mg/day (n=311) | 10 mg/day (n=315) | 10 mg/day (n=269) |
-| --- | --- | --- | --- | --- |
-| Table 2. Comparison of Rates of Adverse Events in Mild to Moderate Patients Titrated to 10 mg/day over 1 and 6 Weeks |  |  |  |  |
+Table 2.
+Comparison of Rates of Adverse Events in Mild to Moderate Patients Titrated to 10 mg/day over 1 and 6 Weeks
+
 |  | No titration |  | One week titration | Six week titration |
+| --- | --- | --- | --- | --- |
+| Adverse Event | Placebo (n=315) | 5 mg/day (n=311) | 10 mg/day (n=315) | 10 mg/day (n=269) |
 | Nausea | 6% | 5% | 19% | 6% |
 | Diarrhea | 5% | 8% | 15% | 9% |
 | Insomnia | 6% | 6% | 14% | 6% |
@@ -54,9 +58,11 @@ In actual clinical practice or in other clinical trials, these frequency estimat
 Table 3 lists treatment emergent signs and symptoms that were reported in at least 2% of patients in placebo-controlled trials who received ARICEPT and for which the rate of occurrence was greater for patients treated with ARICEPT than with placebo.
 In general, adverse events occurred more frequently in female patients and with advancing age.
 
+Table 3.
+Adverse Events Reported in Controlled Clinical Trials in Mild to Moderate Alzheimer's Disease in at Least 2% of Patients Receiving ARICEPT and at a Higher Frequency than Placebo Treated Patients
+
 | Body System/Adverse Event | Placebo (n=355) | ARICEPT (n=747) |
 | --- | --- | --- |
-| Table 3. Adverse Events Reported in Controlled Clinical Trials in Mild to Moderate Alzheimer's Disease in at Least 2% of Patients Receiving ARICEPT and at a Higher Frequency than Placebo Treated Patients |  |  |
 | Percent of Patients with any Adverse Event | 72 | 74 |
 | Body as a Whole |  |  |
 | Headache | 9 | 10 |
@@ -144,9 +150,11 @@ Adverse Events Reported in Controlled Trials
 
 Table 4 lists adverse events that were reported in at least 2% of patients in placebo-controlled trials who received ARICEPT and for which the rate of occurrence was greater for patients treated with ARICEPT than with placebo.
 
+Table 4.
+Adverse Events Reported in Controlled Clinical Trials in Severe Alzheimer's Disease in at Least 2% of Patients Receiving ARICEPT and at a Higher Frequency than Placebo Treated Patients
+
 | Body System/Adverse Event | Placebo (n=392) | ARICEPT (n=501) |
 | --- | --- | --- |
-| Table 4. Adverse Events Reported in Controlled Clinical Trials in Severe Alzheimer's Disease in at Least 2% of Patients Receiving ARICEPT and at a Higher Frequency than Placebo Treated Patients |  |  |
 | Percent of Patients with any Adverse Event | 73 | 81 |
 | Body as a Whole |  |  |
 | Accident | 12 | 13 |
@@ -231,9 +239,11 @@ Adverse Events Leading to Discontinuation
 The rate of discontinuation from a controlled clinical trial of ARICEPT 23 mg/day due to adverse events was higher (18.6%) than for the 10 mg/day treatment group (7.9%).
 The most common adverse events leading to discontinuation, defined as those occurring in at least 1% of patients and greater than those occurring with 10 mg/day are shown in Table 5.
 
+Table 5.
+Most Frequent Adverse Events Leading to Discontinuation from a Controlled Clinical Trial by Treatment Group
+
 | Dose Group | 23 mg/day ARICEPT | 10 mg/day ARICEPT |
 | --- | --- | --- |
-| Table 5. Most Frequent Adverse Events Leading to Discontinuation from a Controlled Clinical Trial by Treatment Group |  |  |
 | Safety Population | 963 | 471 |
 | Event/%Discontinuing |  |  |
 | Vomiting | 3 | 0 |
@@ -255,9 +265,11 @@ In actual clinical practice or in other clinical trials, these frequency estimat
 Table 6 lists adverse events that were reported in at least 2% of patients who received 23 mg/day of ARICEPT and at a higher frequency than those receiving 10 mg/day of ARICEPT in a controlled clinical trial that compared the two doses.
 In this study, there were no important differences in the type of adverse events in patients taking ARICEPT with or without memantine.
 
+Table 6.
+Adverse Events Reported in a Controlled Clinical Trial in Moderate to Severe Alzheimer's Disease in at Least 2% of Patients and Higher in the 23 mg/day Group
+
 | Body System/Adverse Event | 23 mg/day ARICEPT | 10 mg/day ARICEPT |
 | --- | --- | --- |
-| Table 6. Adverse Events Reported in a Controlled Clinical Trial in Moderate to Severe Alzheimer's Disease in at Least 2% of Patients and Higher in the 23 mg/day Group |  |  |
 | Safety Population | 963 | 471 |
 | Percent of Patients with any Adverse Event | 74 | 64 |
 | Gastrointestinal disorders |  |  |
@@ -282,6 +294,6 @@ In this study, there were no important differences in the type of adverse events
 | Renal and urinary disorders |  |  |
 | Urinary incontinence | 3 | 1 |
 
-## 6.2. Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 Voluntary reports of adverse events temporally associated with ARICEPT that have been received since market introduction that are not listed above, and for which there are inadequate data to determine the causal relationship with the drug include the following: abdominal pain, agitation, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, and rash.

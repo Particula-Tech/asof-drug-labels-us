@@ -1,34 +1,34 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 The effectiveness of ARICEPT as a treatment for Alzheimer's disease is demonstrated by the results of randomized, double-blind, placebo-controlled clinical investigations.
 
-## 14.1. Mild to Moderate Alzheimer's Disease
+## 14.1 Mild to Moderate Alzheimer's Disease
 
-The effectiveness of ARICEPT as a treatment for mild to moderate Alzheimer's disease is demonstrated by the results of two randomized, double-blind, placebo-controlled clinical investigations in patients with Alzheimer's disease (diagnosed by NINCDS and DSM III-R criteria, Mini-Mental State Examination ≥ 10 and ≤ 26 and Clinical Dementia Rating of 1 or 2).
+The effectiveness of ARICEPT as a treatment for mild to moderate Alzheimer’s disease is demonstrated by the results of two randomized, double-blind, placebo-controlled clinical investigations in patients with Alzheimer’s disease (diagnosed by NINCDS and DSM III-R criteria, Mini-Mental State Examination ³ 10 and £ 26 and Clinical Dementia Rating of 1 or 2).
 The mean age of patients participating in ARICEPT trials was 73 years with a range of 50 to 94.
 Approximately 62% of patients were women and 38% were men.
 The racial distribution was white 95%, black 3% and other races 2%.
 
 Study Outcome Measures: In each study, the effectiveness of treatment with ARICEPT was evaluated using a dual outcome assessment strategy.
 
-The ability of ARICEPT to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer's Disease Assessment Scale (ADAS-cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer's disease patients.
+The ability of ARICEPT to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer’s disease patients.
 The ADAS-cog examines selected aspects of cognitive performance including elements of memory, orientation, attention, reasoning, language and praxis.
 The ADAS-cog scoring range is from 0 to 70, with higher scores indicating greater cognitive impairment.
 Elderly normal adults may score as low as 0 or 1, but it is not unusual for non-demented adults to score slightly higher.
 
 The patients recruited as participants in each study had mean scores on the ADAS-cog of approximately 26 points, with a range from 4 to 61.
-Experience based on longitudinal studies of ambulatory patients with mild to moderate Alzheimer's disease suggest that scores on the ADAS-cog increase (worsen) by 6 - 12 points per year.
+Experience based on longitudinal studies of ambulatory patients with mild to moderate Alzheimer’s disease suggest that scores on the ADAS-cog increase (worsen) by 6 – 12 points per year.
 However, smaller changes may be seen in patients with very mild or very advanced disease since the ADAS-cog is not uniformly sensitive to change over the course of the disease.
 The annualized rate of decline in the placebo patients participating in ARICEPT trials was approximately 2 to 4 points per year.
 
-The ability of ARICEPT to produce an overall clinical effect was assessed using a Clinician's Interview-Based Impression of Change that required the use of caregiver information, the CIBIC-plus.
+The ability of ARICEPT to produce an overall clinical effect was assessed using a Clinician’s Interview-Based Impression of Change that required the use of caregiver information, the CIBIC-plus.
 The CIBIC-plus is not a single instrument and is not a standardized instrument like the ADAS-cog.
 Clinical trials for investigational drugs have used a variety of CIBIC formats, each different in terms of depth and structure.
 
 As such, results from a CIBIC-plus reflect clinical experience from the trial or trials in which it was used and cannot be compared directly with the results of CIBIC-plus evaluations from other clinical trials.
 The CIBIC-plus used in ARICEPT trials was a semi-structured instrument that was intended to examine four major areas of patient function: General, Cognitive, Behavioral and Activities of Daily Living.
 It represents the assessment of a skilled clinician based upon his/her observations at an interview with the patient, in combination with information supplied by a caregiver familiar with the behavior of the patient over the interval rated.
-The CIBIC-plus is scored as a seven point categorical rating, ranging from a score of 1, indicating "markedly improved," to a score of 4, indicating "no change" to a score of 7, indicating "markedly worse."
+The CIBIC-plus is scored as a seven point categorical rating, ranging from a score of 1, indicating “markedly improved,” to a score of 4, indicating “no change” to a score of 7, indicating “markedly worse.”
 The CIBIC-plus has not been systematically compared directly to assessments not using information from caregivers (CIBIC) or other global methods.
 
 Thirty-Week Study
@@ -39,7 +39,9 @@ The study was designed to compare 5 mg/day or 10 mg/day fixed doses of ARICEPT t
 However, to reduce the likelihood of cholinergic effects, the 10 mg/day treatment was started following an initial 7-day treatment with 5 mg/day doses.
 
 Effects on the ADAS-cog: Figure 1 illustrates the time course for the change from baseline in ADAS-cog scores for all three dose groups over the 30 weeks of the study.
-After 24 weeks of treatment, the mean differences in the ADAS-cog change scores for ARICEPT treated patients compared to the patients on placebo were 2.8 and 3.1 points for the 5 mg/day and 10 mg/day treatments, respectively.
+After 24 weeks of treatment, the mean differences in the ADAS-cog change scores for ARICEPT treated patients compared to the patients on placebo were 2.8 and 3.1 points for the 5 mg/day and
+
+10 mg/day treatments, respectively.
 These differences were statistically significant.
 While the treatment effect size may appear to be slightly greater for the 10 mg/day treatment, there was no statistically significant difference between the two active treatments.
 
@@ -104,7 +106,7 @@ Frequency Distribution of CIBIC plus Scores at Week 12.
 
 In both studies, patient age, sex and race were not found to predict the clinical outcome of ARICEPT treatment.
 
-## 14.2. Moderate to Severe Alzheimer's Disease
+## 14.2 Moderate to Severe Alzheimer's Disease
 
 The effectiveness of ARICEPT in the treatment of patients with moderate to severe Alzheimer's Disease was established in studies employing doses of 10 mg/day and 23 mg/day.
 

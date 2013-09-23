@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 ARICEPT (donepezil hydrochloride) is a reversible inhibitor of the enzyme acetylcholinesterase, known chemically as (±)-2, 3-dihydro-5, 6-dimethoxy-2-[[1-(phenylmethyl)-4-piperidinyl]methyl]-1H-inden-1-one hydrochloride.
 Donepezil hydrochloride is commonly referred to in the pharmacological literature as E2020.
