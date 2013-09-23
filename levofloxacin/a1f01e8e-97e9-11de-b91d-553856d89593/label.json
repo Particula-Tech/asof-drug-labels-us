@@ -15,33 +15,32 @@
     "50458-170-01",
     "50458-920-10",
     "50458-920-50",
-    "50458-925-06",
     "50458-925-10",
     "50458-925-50",
-    "50458-930-06",
     "50458-930-10",
-    "50458-930-20"
+    "50458-930-20",
+    "50458-930-50"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "levofloxacin",
-      "name": "LEVAQUIN"
+      "name": "Levaquin"
     },
     {
       "form": "INJECTION, SOLUTION, CONCENTRATE",
       "generic": "levofloxacin",
-      "name": "LEVAQUIN"
+      "name": "Levaquin"
     },
     {
       "form": "SOLUTION",
       "generic": "levofloxacin",
-      "name": "LEVAQUIN"
+      "name": "Levaquin"
     },
     {
       "form": "TABLET, FILM COATED",
       "generic": "levofloxacin",
-      "name": "LEVAQUIN"
+      "name": "Levaquin"
     }
   ],
   "setid": "a1f01e8e-97e9-11de-b91d-553856d89593",

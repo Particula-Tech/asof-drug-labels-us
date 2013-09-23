@@ -185,8 +185,8 @@ LEVAQUIN can cause serious side effects, including:
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
-- Changes in sensation and possible nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including LEVAQUIN.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet: LEVAQUIN may need to be stopped to prevent permanent nerve damage.
+- Changes in sensation and nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including LEVAQUIN.
+  Stop LEVAQUIN and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet: The nerve damage may be permanent.
   - pain
   - burning
   - tingling
@@ -260,14 +260,15 @@ Active ingredient: levofloxacin
 
 All LEVAQUIN Tablets:
 
-Inactive ingredients: hypromellose, crospovidone, microcrystalline cellulose, magnesium stearate, polyethylene glycol, titanium dioxide, polysorbate 80.
+Inactive ingredients: crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, titanium dioxide.
+
 LEVAQUIN 250 mg Tablets also contain synthetic red iron oxide.
 
 LEVAQUIN 500 mg Tablets also contain synthetic red iron oxide and synthetic yellow iron oxide.
 
 LEVAQUIN Oral Solution:
 
-Inactive ingredients: sucrose, glycerin, sucralose, hydrochloric acid, purified water, propylene glycol, artificial and natural flavors, benzyl alcohol, ascorbic acid, and caramel color.
+Inactive ingredients: artificial and natural flavors, ascorbic acid, benzyl alcohol, caramel color, glycerin, hydrochloric acid, propylene glycol, purified water, sucralose, and sucrose.
 It may also contain a solution of sodium hydroxide for pH adjustment.
 
 LEVAQUIN Injection in Single-Use Vials:
@@ -298,4 +299,4 @@ Janssen Pharmaceuticals, Inc., Titusville, NJ 08560.
 
 © Janssen Pharmaceuticals, Inc.
 
-Revised April 2012
+Revised September 2013

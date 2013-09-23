@@ -11,7 +11,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Hepatotoxicity [see Warnings and Precautions (5.5)]
 - Central Nervous System Effects [see Warnings and Precautions (5.6)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.7)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.8)]
+- Peripheral Neuropathy that may be irreversible [see Warnings and Precautions (5.8)]
 - Prolongation of the QT Interval [see Warnings and Precautions (5.9)]
 - Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.10)]
 - Blood Glucose Disturbances [see Warnings and Precautions (5.11)]
@@ -94,15 +94,15 @@ Table 8: Postmarketing Reports Of Adverse Drug Reactions
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
 | Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see Warnings and Precautions (5.4)] eosinophilia |
-| Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.3,5.4)] |
+| Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.6)] |
-| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
+| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
 | Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.9)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.4)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.4),(5.5)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.4), (5.5)] |
 | Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.4)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.12)] leukocytoclastic vasculitis |
 | Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.1)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.4)] |

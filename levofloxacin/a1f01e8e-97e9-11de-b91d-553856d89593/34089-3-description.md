@@ -24,9 +24,9 @@ LEVAQUIN® Tablets
 
 LEVAQUIN® Tablets are available as film-coated tablets and contain the following inactive ingredients:
 
-- 250 mg (as expressed in the anhydrous form): hypromellose, crospovidone, microcrystalline cellulose, magnesium stearate, polyethylene glycol, titanium dioxide, polysorbate 80 and synthetic red iron oxide.
-- 500 mg (as expressed in the anhydrous form): hypromellose, crospovidone, microcrystalline cellulose, magnesium stearate, polyethylene glycol, titanium dioxide, polysorbate 80 and synthetic red and yellow iron oxides.
-- 750 mg (as expressed in the anhydrous form): hypromellose, crospovidone, microcrystalline cellulose, magnesium stearate, polyethylene glycol, titanium dioxide, polysorbate 80.
+- 250 mg (as expressed in the anhydrous form): crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, synthetic red iron oxide and titanium dioxide.
+- 500 mg (as expressed in the anhydrous form): crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, synthetic red and yellow iron oxides and titanium dioxide.
+- 750 mg (as expressed in the anhydrous form): crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, titanium dioxide.
 
 LEVAQUIN® Oral Solution
 
@@ -34,7 +34,7 @@ LEVAQUIN® Oral Solution, 25 mg/mL, is a multi-use self-preserving aqueous solut
 The appearance of LEVAQUIN® Oral Solution may range from clear yellow to clear greenish-yellow.
 This does not adversely affect product potency.
 
-LEVAQUIN® Oral Solution contains the following inactive ingredients: sucrose, glycerin, sucralose, hydrochloric acid, purified water, propylene glycol, artificial and natural flavors, benzyl alcohol, ascorbic acid, and caramel color.
+LEVAQUIN® Oral Solution contains the following inactive ingredients: artificial and natural flavors, ascorbic acid, benzyl alcohol, caramel color, glycerin, hydrochloric acid, propylene glycol, purified water, sucralose and sucrose.
 It may also contain a solution of sodium hydroxide for pH adjustment.
 
 LEVAQUIN® Injection
