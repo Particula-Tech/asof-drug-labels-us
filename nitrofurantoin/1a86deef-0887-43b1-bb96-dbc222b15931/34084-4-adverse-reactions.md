@@ -59,7 +59,7 @@ Hepatic: Hepatic reactions, including hepatitis, cholestatic jaundice, chronic a
 (See WARNINGS.)
 
 Allergic: Lupus-like syndrome associated with pulmonary reaction to nitrofurantoin has been reported.
-Also, angioedema; maculopapular, erythematous, or eczematous eruptions; anaphylaxis; arthralgia; myalgia; drug fever; and chills have been reported.
+Also, angioedema; maculopapular, erythematous, or eczematous eruptions; anaphylaxis; arthralgia; myalgia; drug fever; chills; and vasculitis (sometimes associated with pulmonary reactions) have been reported.
 Hypersensitivity reactions represent the most frequent spontaneously-reported adverse events in worldwide postmarketing experience with nitrofurantoin formulations.
 
 Dermatologic: Exfoliative dermatitis and erythema multiforme (including Stevens-Johnson syndrome) have been reported rarely.

@@ -4,8 +4,6 @@ Nitrofurantoin monohydrate/macrocrystals capsules are available as 100 mg opaque
 
 NDC 47781-303-01 bottle of 100
 
-## Storage and Handling
-
 Store at controlled room temperature (59° to 86°F or 15° to 30°C).
 
 Meets USP Dissolution Test 2
