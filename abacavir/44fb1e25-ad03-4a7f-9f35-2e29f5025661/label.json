@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091560"
+  ],
+  "inn": "abacavir",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-557-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "abacavir",
+      "name": "Abacavir"
+    }
+  ],
+  "setid": "44fb1e25-ad03-4a7f-9f35-2e29f5025661",
+  "source": "dailymed"
+}
