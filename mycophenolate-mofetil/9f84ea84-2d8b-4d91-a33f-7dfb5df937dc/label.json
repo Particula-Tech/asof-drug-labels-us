@@ -1,18 +1,26 @@
 {
   "application_numbers": [
-    "ANDA091249"
+    "ANDA091249",
+    "ANDA200197"
   ],
   "inn": "mycophenolate-mofetil",
   "labeler": "Ascend Laboratories, LLC",
   "package_ndcs": [
     "67877-225-01",
-    "67877-225-05"
+    "67877-225-05",
+    "67877-266-01",
+    "67877-266-05"
   ],
   "products": [
     {
       "form": "TABLET, FILM COATED",
       "generic": "mycophenolate mofetil",
       "name": "Mycophenolate Mofetil"
+    },
+    {
+      "form": "CAPSULE",
+      "generic": "mycophenolate mofetil",
+      "name": "mycophenolate mofetil"
     }
   ],
   "setid": "9f84ea84-2d8b-4d91-a33f-7dfb5df937dc",
