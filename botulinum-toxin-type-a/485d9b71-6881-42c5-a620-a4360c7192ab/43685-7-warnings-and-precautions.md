@@ -15,7 +15,7 @@ The risk of symptoms is probably greatest in children treated for spasticity but
 In unapproved uses, including spasticity in children, and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia.
 Patients or caregivers should be advised to seek immediate medical care if swallowing, speech or respiratory difficulties occur.
 
-No definitive serious adverse event reports of distant spread of toxin effect associated with dermatologic use of BOTOX/BOTOX Cosmetic at the labeled dose of 20 Units (for glabellar lines) or 100 Units (for severe primary axillary hyperhidrosis) have been reported.
+No definitive serious adverse event reports of distant spread of toxin effect associated with dermatologic use of BOTOX/BOTOX Cosmetic at the labeled dose of 20 Units (for glabellar lines), 24 Units (for lateral canthal lines), 44 Units (for simultaneous treatment of lateral canthal lines and glabellar lines), or 100 Units (for severe primary axillary hyperhidrosis) have been reported.
 
 No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX for blepharospasm at the recommended dose (30 Units and below), strabismus, or chronic migraine at the labeled doses have been reported.
 
@@ -70,9 +70,7 @@ These reactions can occur within hours to weeks after injection with botulinum t
 
 ## 5.8 Pre-existing Conditions at the Injection Site
 
-Caution should be used when BOTOX Cosmetic treatment is used in the presence of inflammation at the proposed injection site(s) or when excessive weakness or atrophy is present in the target muscle(s).
-
-Caution should be used when BOTOX Cosmetic treatment is used in patients who have marked facial asymmetry, ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin or the inability to substantially lessen glabellar lines by physically spreading them apart as these patients were excluded from the Phase 3 safety and efficacy trials.
+Caution should be used when BOTOX Cosmetic treatment is used in the presence of inflammation at the proposed injection site(s), ptosis, or when excessive weakness or atrophy is present in the targeted muscle(s).
 
 ## 5.9 Corneal Exposure and Ulceration in Patients Treated with BOTOX for Blepharospasm
 

@@ -5,14 +5,7 @@
 The potency Units of BOTOX Cosmetic (onabotulinumtoxinA) for injection are specific to the preparation and assay method utilized.
 They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX Cosmetic cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
-Using a 30-33 gauge needle, inject a dose of 0.1 mL (4 Units) intramuscularly into each of 5 sites, 2 in each corrugator muscle and 1 in the procerus muscle for a total dose of 20 Units (see Figure 1).
-Typically the initial doses of reconstituted BOTOX Cosmetic induce chemical denervation of the injected muscles one to two days after injection, increasing in intensity during the first week.
-
-The duration of effect of BOTOX Cosmetic for glabellar lines is approximately 3-4 months.
-The safety and effectiveness of more frequent dosing with BOTOX Cosmetic has not been clinically evaluated and is not recommended.
-
-Figure 1:
-
+Indication specific dosage and administration recommendations should be followed.
 In treating adult patients for one or more indications with BOTOX and BOTOX Cosmetic, the maximum cumulative dose should generally not exceed 360 Units, in a 3 month interval.
 
 The safe and effective use of BOTOX Cosmetic depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
@@ -22,7 +15,7 @@ Physicians administering BOTOX Cosmetic must understand the relevant neuromuscul
 
 BOTOX Cosmetic is supplied in single-use 50 Units and 100 Units per vial.
 Prior to intramuscular injection, reconstitute each vacuum-dried vial of BOTOX Cosmetic with sterile, preservative-free 0.9% Sodium Chloride Injection USP.
-Draw up the proper amount of diluent in the appropriate size needle and syringe to obtain a reconstituted solution at a concentration of 4 Units/0.1 mL and a total treatment dose of 20 Units in 0.5 mL (see Table 1).
+Draw up the proper amount of diluent in the appropriate size needle and syringe to obtain a reconstituted solution at a concentration of 4 Units/0.1 mL and a total treatment dose of 20 Units in 0.5 mL for glabellar lines and 24 Units in 0.6 ml for lateral canthal lines (see Table 1).
 Then slowly inject the diluent into the vial.
 Discard the vial if a vacuum does not pull the diluent into the vial.
 Gently mix BOTOX Cosmetic with the saline by rotating the vial.
@@ -45,6 +38,12 @@ Do not freeze reconstituted BOTOX Cosmetic.
 
 ## 2.3 Administration
 
+Draw at least 0.5 mL (for glabellar lines) or 0.6 mL (for lateral canthal lines) of the properly reconstituted toxin into the sterile syringe, preferably a tuberculin syringe and expel any air bubbles in the syringe barrel.
+Remove the needle used to reconstitute the product and attach a 30-33 gauge needle.
+Confirm the patency of the needle.
+
+Glabellar Lines
+
 Glabellar facial lines arise from the activity of the corrugator and orbicularis oculi muscles.
 These muscles move the brow medially, and the procerus and depressor supercilii pull the brow inferiorly.
 This creates a frown or “furrowed brow”.
@@ -59,7 +58,28 @@ In order to reduce the complication of ptosis the following steps should be take
 - Ensure the injected volume/dose is accurate and where feasible kept to a minimum.
 - Do not inject toxin closer than 1 cm above the central eyebrow.
 
-Draw at least 0.5 mL of the properly reconstituted toxin into the sterile syringe, preferably a tuberculin syringe and expel any air bubbles in the syringe barrel.
-Remove the needle used to reconstitute the product and attach a 30-33 gauge needle.
-Confirm the patency of the needle.
-Inject a dose of 0.1 mL (4 Units) intramuscularly into each of 5 sites, 2 in each corrugator muscle and 1 in the procerus muscle for a total dose of 20 Units (see Figure 1).
+Inject 4 Units/0.1 mL of reconstituted BOTOX Cosmetic intramuscularly into each of 5 sites, 2 in each corrugator muscle and 1 in the procerus muscle for a total dose of 20 Units (see Figure 1).
+Typically the initial doses of reconstituted BOTOX Cosmetic induce chemical denervation of the injected muscles one to two days after injection, increasing in intensity during the first week.
+
+The duration of effect of BOTOX Cosmetic for glabellar lines is approximately 3-4 months.
+The safety and effectiveness of dosing with BOTOX Cosmetic more frequently than every 3 months have not been clinically evaluated.
+
+Figure 1:
+
+Lateral Canthal Lines
+
+Lateral canthal lines arise largely from the activity of the orbicularis oculi muscles around the eye responsible for blinking and eyelid closure.
+Forceful contraction of the orbicularis oculi results in lateral and radially oriented folds (crow's feet lines) which originate from the lateral canthus.
+The distribution of these radial lines differs among patients.
+
+Injections should be given with the needle bevel tip up and oriented away from the eye.
+Inject 4 Units/0.1 mL of reconstituted BOTOX Cosmetic into 3 sites per side (6 total injection points) in the lateral orbicularis oculi muscle for a total of 24 Units/0.6 mL (12 Units per side).
+The first injection (A) should be approximately 1.5-2.0 cm temporal to the lateral canthus and just temporal to the orbital rim.
+If the lines in the lateral canthal region are above and below the lateral canthus, inject per Figure 2.
+Alternatively, if the lines in the lateral canthal region are primarily below the lateral canthus, inject per Figure 3.
+
+Figure 2: Figure 3:
+
+For simultaneous treatment with glabellar lines, the dose is 24 Units for lateral canthal lines and 20 Units for glabellar lines (see Glabellar Lines Administration and Figure 1), with a total dose of 44 Units.
+
+The safety and effectiveness of dosing with BOTOX Cosmetic more frequently than every 3 months have not been clinically evaluated.

@@ -1,14 +1,4 @@
-MEDICATION GUIDE
-
-BOTOX®
-
-BOTOX® Cosmetic
-
-(Boe-tox)
-
-(onabotulinumtoxinA)
-
-for Injection
+MEDICATION GUIDE BOTOX® BOTOX® Cosmetic (Boe-tox) (onabotulinumtoxinA) for Injection
 
 Read the Medication Guide that comes with BOTOX or BOTOX Cosmetic before you start using it and each time it is given to you.
 There may be new information.
@@ -25,33 +15,38 @@ BOTOX and BOTOX Cosmetic may cause serious side effects that can be life threate
 These problems can happen hours, days, to weeks after an injection of BOTOX or BOTOX Cosmetic.
 Call your doctor or get medical help right away if you have any of these problems after treatment with BOTOX or BOTOX Cosmetic:
 
-1. Problems swallowing, speaking, or breathing.
-   These problems can happen hours, days, to weeks after an injection of BOTOX or BOTOX Cosmetic usually because the muscles that you use to breathe and swallow can become weak after the injection.
-   Death can happen as a complication if you have severe problems with swallowing or breathing after treatment with BOTOX or BOTOX Cosmetic.
-   - People with certain breathing problems may need to use muscles in their neck to help them breathe.
-     These people may be at greater risk for serious breathing problems with BOTOX or BOTOX Cosmetic.
-   - Swallowing problems may last for several months.
-     People who cannot swallow well may need a feeding tube to receive food and water.
-     If swallowing problems are severe, food or liquids may go into your lungs.
-     People who already have swallowing or breathing problems before receiving BOTOX or BOTOX Cosmetic have the highest risk of getting these problems.
-2. Spread of toxin effects.
-   In some cases, the effect of botulinum toxin may affect areas of the body away from the injection site and cause symptoms of a serious condition called botulism.
-   The symptoms of botulism include:
-   - loss of strength and muscle weakness all over the body
-   - double vision
-   - blurred vision and drooping eyelids
-   - hoarseness or change or loss of voice (dysphonia)
-   - trouble saying words clearly (dysarthria)
-   - loss of bladder control
-   - trouble breathing
-   - trouble swallowing
+1.
+Problems swallowing, speaking, or breathing.
+These problems can happen hours, days, to weeks after an injection of BOTOX or BOTOX Cosmetic usually because the muscles that you use to breathe and swallow can become weak after the injection.
+Death can happen as a complication if you have severe problems with swallowing or breathing after treatment with BOTOX or BOTOX Cosmetic.
+
+- People with certain breathing problems may need to use muscles in their neck to help them breathe.
+  These people may be at greater risk for serious breathing problems with BOTOX or BOTOX Cosmetic.
+- Swallowing problems may last for several months.
+  People who cannot swallow well may need a feeding tube to receive food and water.
+  If swallowing problems are severe, food or liquids may go into your lungs.
+  People who already have swallowing or breathing problems before receiving BOTOX or BOTOX Cosmetic have the highest risk of getting these problems.
+
+2.
+Spread of toxin effects.
+In some cases, the effect of botulinum toxin may affect areas of the body away from the injection site and cause symptoms of a serious condition called botulism.
+The symptoms of botulism include:
+
+- loss of strength and muscle weakness all over the body
+- double vision
+- blurred vision and drooping eyelids
+- hoarseness or change or loss of voice (dysphonia)
+- trouble saying words clearly (dysarthria)
+- loss of bladder control
+- trouble breathing
+- trouble swallowing
 
 These symptoms can happen hours, days, to weeks after you receive an injection of BOTOX or BOTOX Cosmetic.
 
 These problems could make it unsafe for you to drive a car or do other dangerous activities.
 See "What should I avoid while receiving BOTOX or BOTOX Cosmetic?"
 
-There has not been a confirmed serious case of spread of toxin effect away from the injection site when BOTOX has been used at the recommended dose to treat chronic migraine, severe underarm sweating, blepharospasm, or strabismus, or when BOTOX Cosmetic has been used at the recommended dose to treat frown lines.
+There has not been a confirmed serious case of spread of toxin effect away from the injection site when BOTOX has been used at the recommended dose to treat chronic migraine, severe underarm sweating, blepharospasm, or strabismus, or when BOTOX Cosmetic has been used at the recommended dose to treat frown lines and/or crow's feet lines.
 
 What are BOTOX and BOTOX Cosmetic?
 
@@ -66,7 +61,11 @@ BOTOX is a prescription medicine that is injected into muscles and used:
 
 BOTOX is also injected into the skin to treat the symptoms of severe underarm sweating (severe primary axillary hyperhidrosis) when medicines used on the skin (topical) do not work well enough.
 
-BOTOX Cosmetic is a prescription medicine that is injected into muscles and used to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults younger than 65 years of age for a short period of time (temporary).
+BOTOX Cosmetic is a prescription medicine that is injected into muscles and used to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults for a short period of time (temporary).
+
+BOTOX Cosmetic is a prescription medicine that is injected into the area around the side of the eyes to improve the look of crow's feet lines in adults for a short period of time (temporary).
+
+You may receive treatment for frown lines and crow's feet lines at the same time.
 
 It is not known whether BOTOX is safe or effective in people younger than:
 
@@ -110,13 +109,13 @@ Tell your doctor about all your medical conditions, including if you:
 - have weakness of your forehead muscles, such as trouble raising your eyebrows
 - have drooping eyelids
 - have any other change in the way your face normally looks
-  - have symptoms of a urinary tract infection (UTI) and are being treated for urinary incontinence.
-    Symptoms of a urinary tract infection may include pain or burning with urination, frequent urination, or fever.
-  - have problems emptying your bladder on your own and are being treated for urinary incontinence
-  - are pregnant or plan to become pregnant.
-    It is not known if BOTOX or BOTOX Cosmetic can harm your unborn baby.
-  - are breast-feeding or plan to breastfeed.
-    It is not known if BOTOX or BOTOX Cosmetic passes into breast milk.
+- have symptoms of a urinary tract infection (UTI) and are being treated for urinary incontinence.
+  Symptoms of a urinary tract infection may include pain or burning with urination, frequent urination, or fever.
+- have problems emptying your bladder on your own and are being treated for urinary incontinence
+- are pregnant or plan to become pregnant.
+  It is not known if BOTOX or BOTOX Cosmetic can harm your unborn baby.
+- are breast-feeding or plan to breastfeed.
+  It is not known if BOTOX or BOTOX Cosmetic passes into breast milk.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal products.
 Using BOTOX or BOTOX Cosmetic with certain other medicines may cause serious side effects.
@@ -168,7 +167,7 @@ Other side effects of BOTOX and BOTOX Cosmetic include:
 - urinary tract infection in people being treated for urinary incontinence
 - painful urination in people being treated for urinary incontinence
 - inability to empty your bladder on your own and are being treated for urinary incontinence.
-  If you have difficulty fully emptying your bladder after getting BOTOX, you may need to use disposable self-catheters to empty your bladder up to a few times each day until your bladder is able to start empyting again.
+  If you have difficulty fully emptying your bladder after getting BOTOX, you may need to use disposable self-catheters to empty your bladder up to a few times each day until your bladder is able to start emptying again.
 - allergic reactions.
   Symptoms of an allergic reaction to BOTOX or BOTOX Cosmetic may include: itching, rash, red itchy welts, wheezing, asthma symptoms, or dizziness or feeling faint.
   Tell your doctor or get medical help right away if you are wheezing or have asthma symptoms, or if you become dizzy or faint.
@@ -188,7 +187,6 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 This Medication Guide summarizes the most important information about BOTOX and BOTOX Cosmetic.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about BOTOX and BOTOX Cosmetic that is written for healthcare professionals.
-For more information about BOTOX and BOTOX Cosmetic call Allergan at 1-800-433-8871 or go to www.BOTOX.com.
 
 What are the ingredients in BOTOX and BOTOX Cosmetic?
 
@@ -196,13 +194,14 @@ Active ingredient: botulinum toxin type A
 
 Inactive ingredients: human albumin and sodium chloride
 
+Revised: 09/2013
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 Revised: 01/2013 © 2013 Allergan, Inc. ® marks owned by Allergan, Inc.
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2013 Allergan, Inc. ® marks owned by Allergan, Inc. Patented.
+See: www.allergan.com/products/patent_notices
 
 Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
-Patented.
-See: www.allergan.com/products/patent_notices
 
-72284US15
+72284US16

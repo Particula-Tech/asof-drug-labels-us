@@ -22,48 +22,48 @@ However, weakness of nearby muscles may also occur due to spread of toxin [see W
 
 Glabellar Lines
 
-In clinical trials of BOTOX Cosmetic the most frequently reported adverse events following injection of BOTOX Cosmetic were headache*, respiratory infection*, flu syndrome*, blepharoptosis and nausea.
+Table 2 lists selected adverse reactions reported by ≥1% of BOTOX Cosmetic treated subjects (N=405) aged 18 to 75 who were evaluated in the randomized, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of glabellar lines.
 
-Less frequently occurring (<3%) adverse reactions included pain in the face, erythema at the injection site*, paresthesia* and muscle weakness.
-While local weakness of the injected muscle(s) is representative of the expected pharmacological action of botulinum toxin, weakness of adjacent muscles may occur as a result of the spread of toxin.
-These events are thought to be associated with the injection and occurred within the first week.
-The events were generally transient but may last several months or longer.
+Table 2: Adverse Reactions Reported by ≥1% of the BOTOX Cosmetic treated Patients and More Frequent than in Placebo-treated Patients in Double-blind, Placebo-controlled Clinical Studies of Treatment of Glabellar Lines
 
-(* incidence not different from Placebo)
-
-The data described in Table 2 reflect exposure to BOTOX Cosmetic in 405 subjects aged 18 to 75 who were evaluated in the randomized, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of glabellar lines [see Clinical Studies (14)].
-Adverse events of any cause were reported for 44% of the BOTOX Cosmetic treated subjects and 42% of the placebo treated subjects.
-The incidence of blepharoptosis was higher in the BOTOX Cosmetic treated arm than in placebo (3% vs. 0).
-
-In the open-label, repeat injection study, blepharoptosis was reported for 2% (8/373) of subjects in the first treatment cycle and 1% (4/343) of subjects in the second treatment cycle.
-Adverse events of any type were reported for 49% (183/373) of subjects overall.
-The most frequently reported of these adverse events in the open-label study included respiratory infection, headache, flu syndrome, blepharoptosis, pain and nausea.
-
-Table 2: Adverse Events Reported at Higher Frequency (>1%) in the BOTOX Cosmetic Group Compared to the Placebo Group
-
-|  | Percent of Patients Reporting Adverse Events |  |
+| Adverse Reactions by System Organ Class | BOTOX Cosmetic (N=405) | Placebo (N=130) |
 | --- | --- | --- |
-| Adverse Events by Body System | BOTOX Cosmetic (N=405) % | Placebo (N=130) % |
-| Overall | 44 | 42 |
-| Body as a Whole Pain in Face | 2 | 1 |
-| Skin and Appendages Skin Tightness | 1 | 0 |
-| Digestive System Nausea Dyspepsia Tooth Disorder | 3 1 1 | 2 0 0 |
-| Special Senses Blepharoptosis | 3 | 0 |
-| Musculoskeletal System Muscle Weakness | 2 | 0 |
-| Cardiovascular Hypertension | 1 | 0 |
+| General Disorders and Administration Site Conditions |  |  |
+| Facial pain | 6 (1%) | 0 (0%) |
+| Nervous System Disorders |  |  |
+| Facial paresis | 5 (1%) | 0 (0%) |
+| Eye Disorders |  |  |
+| Eyelid ptosis | 13 (3%) | 0 (0%) |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Muscular Weakness | 6 (1%) | 0 (0%) |
+
+Lateral Canthal Lines
+
+Table 3 lists selected adverse reactions reported within 90 days following injection by ≥1% of BOTOX Cosmetic treated subjects (N=526) aged 18 to 75 who were evaluated in two randomized, double-blind, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of lateral canthal lines alone.
+
+Table 3: Adverse Reaction Reported by ≥1% of BOTOX Cosmetic treated Patients and More Frequent than in Placebo-treated Patients Within 90 Days, in Double-blind, Placebo-controlled Clinical Studies of Treatment of Lateral Canthal Lines
+
+| Adverse Reactions by System Organ Class | BOTOX Cosmetic 24 Units (N=526) | Placebo (N=530) |
+| --- | --- | --- |
+| Eye disorders |  |  |
+| Eyelid edema | 5 (1%) | 0 (0%) |
 
 ## 6.2 Immunogenicity
 
+As with all therapeutic proteins, there is a potential for immunogenicity.
 Treatment with botulinum toxins may result in the formation of neutralizing antibodies that may reduce the effectiveness of subsequent treatments by inactivating biological activity of the toxin.
 
-The rate of formation of neutralizing antibodies in patients receiving BOTOX Cosmetic has not been well studied.
-The results from some studies suggest that botulinum toxin injections at more frequent intervals or at higher doses may lead to greater incidence of antibody formation.
-The potential for antibody formation may be minimized by injecting with the lowest effective dose given at the longest feasible intervals between injections.
-The critical factors for neutralizing antibody formation have not been well characterized.
+In three Lateral Canthal Line trials, 916 subjects (517 subjects at 24 Units and 399 subjects at 44 Units) treated with BOTOX Cosmetic had specimens analyzed for antibody formation.
+Among the 916 BOTOX Cosmetic treated subjects, 14 subjects (1.5%) developed binding antibodies and no subjects (0%) developed the presence of neutralizing antibodies.
 
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+The data reflect the subjects whose test results were considered positive or negative for neutralizing activity to BOTOX Cosmetic in a mouse protection assay.
+The results of these tests are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to BOTOX Cosmetic with the incidence of antibodies to other products may be misleading.
+
+The critical factors for neutralizing antibody formation have not been well characterized.
+The results from some studies suggest that botulinum toxin injections at more frequent intervals or at higher doses may lead to greater incidence of antibody formation.
+The potential for antibody formation may be minimized by injecting with the lowest effective dose given at the longest feasible intervals between injections.
 
 ## 6.3 Post-marketing Experience
 
