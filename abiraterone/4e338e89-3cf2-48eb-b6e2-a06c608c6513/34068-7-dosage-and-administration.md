@@ -8,7 +8,7 @@ No food should be consumed for at least two hours before the dose of ZYTIGA is t
 The tablets should be swallowed whole with water.
 Do not crush or chew tablets.
 
-## 2.2 Dose Modification Guidelines
+## 2.2 Dose Modification Guidelines in Hepatic Impairment and Hepatotoxicity
 
 Hepatic Impairment
 
@@ -30,3 +30,9 @@ If hepatotoxicity recurs at the dose of 750 mg once daily, re-treatment may be r
 
 If hepatotoxicity recurs at the reduced dose of 500 mg once daily, discontinue treatment with ZYTIGA.
 The safety of ZYTIGA re-treatment of patients who develop AST or ALT greater than or equal to 20X ULN and/or bilirubin greater than or equal to 10X ULN is unknown.
+
+## 2.3 Dose Modification Guidelines for Strong CYP3A4 Inducers
+
+Avoid concomitant strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital) during ZYTIGA treatment.
+Although there are no clinical data with this dose adjustment in patients receiving strong CYP3A4 inducers, because of the potential for an interaction, if a strong CYP3A4 inducer must be co-administered, increase the ZYTIGA dosing frequency to twice a day only during the co-administration period (e.g., from 1,000 mg once daily to 1,000 mg twice a day).
+Reduce the dose back to the previous dose and frequency, if the concomitant strong CYP3A4 inducer is discontinued [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

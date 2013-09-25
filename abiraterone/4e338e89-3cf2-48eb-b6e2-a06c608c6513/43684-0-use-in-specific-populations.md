@@ -34,7 +34,7 @@ Other reported clinical experience has not identified differences in responses b
 
 ## 8.6 Patients with Hepatic Impairment
 
-The pharmacokinetics of abiraterone were examined in subjects with baseline mild (n = 8) or moderate (n = 8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.
+The pharmacokinetics of abiraterone were examined in subjects with baseline mild (n=8) or moderate (n=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.
 The systemic exposure (AUC) of abiraterone after a single oral 1,000 mg dose of ZYTIGA increased by approximately 1.1-fold and 3.6-fold in subjects with mild and moderate baseline hepatic impairment, respectively compared to subjects with normal hepatic function.
 
 No dosage adjustment is necessary for patients with baseline mild hepatic impairment.

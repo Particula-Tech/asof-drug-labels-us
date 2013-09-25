@@ -9,7 +9,7 @@ In the two randomized clinical trials, grade 3 to 4 hypertension occurred in 2% 
 Co-administration of a corticosteroid suppresses adrenocorticotropic hormone (ACTH) drive, resulting in a reduction in the incidence and severity of these adverse reactions.
 Use caution when treating patients whose underlying medical conditions might be compromised by increases in blood pressure, hypokalemia or fluid retention, e.g., those with heart failure, recent myocardial infarction or ventricular arrhythmia.
 Use ZYTIGA with caution in patients with a history of cardiovascular disease.
-The safety of ZYTIGA in patients with left ventricular ejection fraction < 50% or New York Heart Association (NYHA) Class III or IV heart failure (in Study 1) or NYHA Class II to IV heart failure (in Study 2) was not established because these patients were excluded from these randomized clinical trials [see Clinical Studies (14)].
+The safety of ZYTIGA in patients with left ventricular ejection fraction <50% or New York Heart Association (NYHA) Class III or IV heart failure (in Study 1) or NYHA Class II to IV heart failure (in Study 2) was not established because these patients were excluded from these randomized clinical trials [see Clinical Studies (14)].
 Monitor patients for hypertension, hypokalemia, and fluid retention at least once a month.
 Control hypertension and correct hypokalemia before and during treatment with ZYTIGA.
 

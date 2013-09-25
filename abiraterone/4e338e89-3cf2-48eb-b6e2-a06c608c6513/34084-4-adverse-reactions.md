@@ -22,8 +22,8 @@ The most common laboratory abnormalities (>20%) reported in the two randomized c
 Study 1: Metastatic CRPC Following Chemotherapy
 
 Study 1 enrolled 1195 patients with metastatic CRPC who had received prior docetaxel chemotherapy.
-Patients were not eligible if AST and/or ALT ≥ 2.5 XULN in the absence of liver metastases.
-Patients with liver metastases were excluded if AST and/or ALT > 5X ULN.
+Patients were not eligible if AST and/or ALT ≥2.5 XULN in the absence of liver metastases.
+Patients with liver metastases were excluded if AST and/or ALT >5X ULN.
 
 Table 1 shows adverse reactions on the ZYTIGA arm in Study 1 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.
 The median duration of treatment with ZYTIGA was 8 months.
@@ -34,7 +34,7 @@ Table 1: Adverse Reactions due to ZYTIGA in Study 1
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=791) |  | Placebo with Prednisone (N=394) |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Joint swelling/ discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness | 29.5 | 4.2 | 23.4 | 4.1 |
+| Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness | 29.5 | 4.2 | 23.4 | 4.1 |
 | Muscle discomfortIncludes terms Muscle spasms, Musculoskeletal pain, Myalgia, Musculoskeletal discomfort, and Musculoskeletal stiffness | 26.2 | 3.0 | 23.1 | 2.3 |
 | General disorders |  |  |  |  |
 | EdemaIncludes terms Edema, Edema peripheral, Pitting edema, and Generalized edema | 26.7 | 1.9 | 18.3 | 0.8 |
@@ -77,9 +77,9 @@ Table 2: Laboratory Abnormalities of Interest in Study 1
 Study 2: Metastatic CRPC Prior to Chemotherapy
 
 Study 2 enrolled 1088 patients with metastatic CRPC who had not received prior cytotoxic chemotherapy.
-Patients were ineligible if AST and/or ALT ≥ 2.5X ULN and patients were excluded if they had liver metastases.
+Patients were ineligible if AST and/or ALT ≥2.5X ULN and patients were excluded if they had liver metastases.
 
-Table 3 shows adverse reactions on the ZYTIGA arm in Study 2 that occurred with a ≥ 2% absolute increase in frequency compared to placebo.
+Table 3 shows adverse reactions on the ZYTIGA arm in Study 2 that occurred with a ≥2% absolute increase in frequency compared to placebo.
 The median duration of treatment with ZYTIGA was 13.8 months.
 
 Table 3: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in Study 2
@@ -92,7 +92,7 @@ Table 3: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in Study 2
 | EdemaIncludes terms Edema peripheral, Pitting edema, and Generalized edema | 25.1 | 0.4 | 20.7 | 1.1 |
 | Pyrexia | 8.7 | 0.6 | 5.9 | 0.2 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Joint swelling/ discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness | 30.3 | 2.0 | 25.2 | 2.0 |
+| Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness | 30.3 | 2.0 | 25.2 | 2.0 |
 | Groin pain | 6.6 | 0.4 | 4.1 | 0.7 |
 | Gastrointestinal disorders |  |  |  |  |
 | Constipation | 23.1 | 0.4 | 19.1 | 0.6 |
@@ -120,11 +120,11 @@ Table 3: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in Study 2
 Table 4 shows laboratory abnormalities that occurred in greater than 15% of patients, and more frequently (>5%) in the ZYTIGA arm compared to placebo in Study 2.
 Grade 3–4 lymphopenia (9%), hyperglycemia (7%) and high alanine aminotransferase (6%) occurred at a greater than 5% rate in the ZYTIGA arm.
 
-Table 4: Laboratory Abnormalities in > 15% of Patients in the ZYTIGA Arm of Study 2
+Table 4: Laboratory Abnormalities in >15% of Patients in the ZYTIGA Arm of Study 2
 
 | Laboratory Abnormality | Grade 1–4 % | Grade 3–4 % | Grade 1–4 % | Grade 3–4 % |
 | --- | --- | --- | --- | --- |
-|  | Abiraterone (N = 542) |  | Placebo (N = 540) |  |
+|  | Abiraterone (N=542) |  | Placebo (N=540) |  |
 | Hematology |  |  |  |  |
 | Lymphopenia | 38.2 | 8.7 | 31.7 | 7.4 |
 | Chemistry |  |  |  |  |
@@ -143,12 +143,5 @@ There were no treatment discontinuations and one death due to cardiac failure in
 
 In Study 1 and 2, the majority of arrhythmias were grade 1 or 2.
 There was one death associated with arrhythmia and one patient with sudden death in the ZYTIGA arms and no deaths in the placebo arms.
-There were 7 (0.5 %) deaths due to cardiorespiratory arrest in the ZYTIGA arms and 3 (0.3 %) deaths in the placebo arms.
+There were 7 (0.5%) deaths due to cardiorespiratory arrest in the ZYTIGA arms and 3 (0.3%) deaths in the placebo arms.
 Myocardial ischemia or myocardial infarction led to death in 3 patients in the placebo arms and 2 deaths in the ZYTIGA arms.
-
-## 6.2 Post Marketing Experience
-
-The following additional adverse reactions have been identified during post approval use of ZYTIGA.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Allergic alveolitis

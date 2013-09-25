@@ -21,7 +21,7 @@ Changes in serum prostate specific antigen (PSA) levels may be observed but have
 
 Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects and in patients with metastatic castration-resistant prostate cancer (CRPC).
 In vivo, abiraterone acetate is converted to abiraterone.
-In clinical studies, abiraterone acetate plasma concentrations were below detectable levels (< 0.2 ng/mL) in > 99% of the analyzed samples.
+In clinical studies, abiraterone acetate plasma concentrations were below detectable levels (<0.2 ng/mL) in >99% of the analyzed samples.
 
 Absorption
 
@@ -30,6 +30,7 @@ Abiraterone accumulation is observed at steady-state, with a 2-fold higher expos
 
 At the dose of 1,000 mg daily in patients with metastatic CRPC, steady-state values (mean ± SD) of Cmax were 226 ± 178 ng/mL and of AUC were 1173 ± 690 ng.hr/mL.
 No major deviation from dose proportionality was observed in the dose range of 250 mg to 1,000 mg.
+However, the exposure was not significantly increased when the dose was doubled from 1,000 to 2,000 mg (8% increase in the mean AUC).
 
 Systemic exposure of abiraterone is increased when abiraterone acetate is administered with food.
 Abiraterone Cmax and AUC0–∞ were approximately 7- and 5-fold higher, respectively, when abiraterone acetate was administered with a low-fat meal (7% fat, 300 calories) and approximately 17- and 10-fold higher, respectively, when abiraterone acetate was administered with a high-fat (57% fat, 825 calories) meal.
@@ -58,7 +59,7 @@ The major compounds present in feces are unchanged abiraterone acetate and abira
 
 Patients with Hepatic Impairment
 
-The pharmacokinetics of abiraterone was examined in subjects with baseline mild (n = 8) or moderate (n = 8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.
+The pharmacokinetics of abiraterone was examined in subjects with baseline mild (n=8) or moderate (n=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.
 Systemic exposure to abiraterone after a single oral 1,000 mg dose given under fasting conditions increased approximately 1.1-fold and 3.6-fold in subjects with mild and moderate baseline hepatic impairment, respectively.
 The mean half-life of abiraterone is prolonged to approximately 18 hours in subjects with mild hepatic impairment and to approximately 19 hours in subjects with moderate hepatic impairment.
 ZYTIGA has not been studied in patients with baseline severe hepatic impairment (Child-Pugh Class C) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
@@ -71,16 +72,17 @@ Systemic exposure to abiraterone after a single oral 1,000 mg dose did not incre
 
 Drug Interactions
 
-In vitro studies with human hepatic microsomes showed that abiraterone is a strong inhibitor of CYP1A2, CYP2D6 and CYP2C8, a moderate inhibitor of CYP2C9, CYP2C19 and CYP3A4/5.
+In vitro studies with human hepatic microsomes showed that abiraterone is a strong inhibitor of CYP1A2, CYP2D6 and CYP2C8 and a moderate inhibitor of CYP2C9, CYP2C19 and CYP3A4/5.
 
 In an in vivo drug-drug interaction trial, the Cmax and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily).
-The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3 fold [see Drug Interactions (7.1)].
+The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3 fold [see Drug Interactions (7.2)].
 
 In a clinical study to determine the effects of abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily) on a single 100 mg dose of the CYP1A2 substrate theophylline, no increase in systemic exposure of theophylline was observed.
 
-In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55% [see Drug Interactions (7.2)].
+Abiraterone is a substrate of CYP3A4, in vitro.
+In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55% [see Drug Interactions (7.1)].
 
-In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.2)].
+In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.1)].
 
 ## 12.6 QT Prolongation
 
