@@ -6,14 +6,12 @@ SSD™ (1% Silver Sulfadiazine) Cream: white to off-white cream.
 | --- | --- |
 | 400 gram jar |  |
 | 25 gram tube |  |
-| 50 gram tube |  |
 | 85 gram tube |  |
 
 SSD AF™ (1% Silver Sulfadiazine) Cream: white to off-white cream.
 
-| 50 gram jar |  |
-| --- | --- |
 | 400 gram jar |  |
+| --- | --- |
 
 Store at controlled room temperature 15° - 30°C (59° - 86°F)
 
