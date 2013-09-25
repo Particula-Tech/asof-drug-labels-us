@@ -96,7 +96,7 @@ Evidence gathered from other sources suggests that self-induction by Lamotrigine
 Elimination: The elimination half-life and apparent clearance of Lamotrigine following administration of Lamotrigine to adult patients with epilepsy and healthy volunteers is summarized in Table 14.
 Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
-Drug Interactions: The apparent clearance of Lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.13), Drug Interactions (7)].
+Drug Interactions: The apparent clearance of Lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
 
 The net effects of drug interactions with Lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
@@ -149,7 +149,7 @@ Other Hormonal Contraceptives or Hormone Replacement Therapy: The effect of othe
 It has been reported that ethinylestradiol, not progestogens, increased the clearance of Lamotrigine up to 2-fold, and the progestin-only pills had no effect on Lamotrigine plasma levels.
 Therefore, adjustments to the dosage of Lamotrigine in the presence of progestogens alone will likely not be needed.
 
-Bupropion: The pharmacokinetics of a 100-mg single dose of Lamotrigine in healthy volunteers (n = 12) were not changed by coadministration of bupropion sustained-release formulation (150 mg twice a day) starting 11 days before Lamotrigine.
+Bupropion: The pharmacokinetics of a 100-mg single dose of Lamotrigine in healthy volunteers (n = 12) were not changed by coadministration of bupropion sustained-release formulation (150 mg twice daily) starting 11 days before Lamotrigine.
 
 Carbamazepine: Lamotrigine has no appreciable effect on steady-state carbamazepine plasma concentration.
 Limited clinical data suggest there is a higher incidence of dizziness, diplopia, ataxia, and blurred vision in patients receiving carbamazepine with Lamotrigine than in patients receiving other AEDs with Lamotrigine [see Adverse Reactions (6.1)].

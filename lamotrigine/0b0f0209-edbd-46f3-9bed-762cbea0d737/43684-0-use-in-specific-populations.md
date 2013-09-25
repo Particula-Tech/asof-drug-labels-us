@@ -57,7 +57,7 @@ Caution should be exercised when Lamotrigine Tablets are administered to a nursi
 
 Lamotrigine is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, the generalized seizures of Lennox-Gastaut syndrome, and primary generalized tonic-clonic seizures.
 
-Safety and efficacy of Lamotrigine, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
+Safety and efficacy of Lamotrigine, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months of age).
 Lamotrigine was associated with an increased risk for infectious adverse reactions (Lamotrigine 37%, Placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, Placebo 5%).
 Infectious adverse reactions included: bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
@@ -82,6 +82,6 @@ Escalation and maintenance doses may be adjusted according to clinical response 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
 In a small study comparing a single dose of lamotrigine in patients with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was significantly longer in the patients with renal impairment [see Clinical Pharmacology (12.3)].
 
-Initial doses of Lamotrigine should be based on patients' AED regimen; reduced maintenance doses may be effective for patients with significant renal impairment.
+Initial doses of Lamotrigine should be based on patients' AED regimens; reduced maintenance doses may be effective for patients with significant renal impairment.
 Few patients with severe renal impairment have been evaluated during chronic treatment with Lamotrigine.
 Because there is inadequate experience in this population, Lamotrigine should be used with caution in these patients [see Dosage and Administration (2.1)].

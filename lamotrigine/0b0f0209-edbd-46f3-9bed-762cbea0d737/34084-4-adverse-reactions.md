@@ -52,7 +52,7 @@ Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive T
 Patients may have reported multiple adverse reactions during the study or at discontinuation; thus, patients may be included in more than one category.
 (Adverse reactions in at least 2% of patients treated with Lamotrigine and numerically more frequent than in the placebo group.)
 
-| Body System/Adverse Experience | Percent of Patients Receiving Adjunctive Lamotrigine (n = 711) | Percent of Patients Receiving Adjunctive Placebo (n = 419) |
+| Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive Lamotrigine (n = 711) | Percent of Patients Receiving Adjunctive Placebo (n = 419) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Headache | 29 | 19 |
@@ -232,7 +232,7 @@ During the monotherapy phase of the double-blind, placebo-controlled trials of 1
 The adverse reactions which most commonly led to discontinuation of Lamotrigine were rash (3%) and mania/hypomania/mixed mood adverse reactions (2%).
 Approximately 16% of 2,401 patients who received Lamotrigine (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse reaction; most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
 
-The overall adverse event profile for Lamotrigine was similar between females and males, between elderly and nonelderly patients, and among racial groups.
+The overall adverse reaction profile for Lamotrigine was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
 Table 12.
 Treatment-Emergent Adverse Reaction Incidence in 2 Placebo-Controlled Trials in Adults With Bipolar I DisorderPatients in these studies were converted to Lamotrigine (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications.
@@ -306,7 +306,7 @@ Dermatological: Infrequent: Acne, alopecia, hirsutism, maculopapular rash, skin 
 Rare: Angioedema, erythema, exfoliative dermatitis, fungal dermatitis, herpes zoster, leukoderma, multiforme erythema, petechial rash, pustular rash, Stevens-Johnson syndrome, and vesiculobullous rash.
 
 Digestive System: Infrequent: Dysphagia, eructation, gastritis, gingivitis, increased appetite, increased salivation, liver function tests abnormal, and mouth ulceration.
-Rare: Gatrointestinal hemorrhage, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hemorrhagic colitis, hepatitis, melena, stomach ulcer, stomatitis, and tongue edema.
+Rare: Gastrointestinal hemorrhage, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hemorrhagic colitis, hepatitis, melena, stomach ulcer, stomatitis, and tongue edema.
 
 Endocrine System: Rare: Goiter and hypothyroidism.
 
@@ -316,11 +316,11 @@ Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficienc
 Metabolic and Nutritional Disorders: Infrequent: Aspartate transaminase increased.
 Rare: Alcohol intolerance, alkaline phosphatase increase, alanine transaminase increase, bilirubinemia, general edema, gamma glutamyl transpeptidase increase, and hyperglycemia.
 
-Musculoskeletal System: Infrequent: Arthritis, leg cramps, myasthenia, and twitching.
+Musculoskeletal System:Infrequent: Arthritis, leg cramps, myasthenia, and twitching.
 Rare: Bursitis, muscle atrophy, pathological fracture, and tendinous contracture.
 
 Nervous System: Frequent: Confusion and paresthesia.
-Infrequent: Akathisia, apathy, aphasia, CNS depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
+Infrequent: Akathisia, apathy, aphasia, central nervous system (CNS) depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
 Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, faintness, grand mal convulsions, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, muscle spasm, neuralgia, neurosis, paralysis, and peripheral neuritis.
 
 Respiratory System: Infrequent: Yawn.

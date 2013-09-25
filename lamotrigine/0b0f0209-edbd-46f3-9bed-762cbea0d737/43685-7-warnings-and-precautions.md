@@ -44,7 +44,7 @@ Prior to initiation of treatment with Lamotrigine, the patient should be instruc
 
 ## 5.3 Blood Dyscrasias
 
-There have been reports of blood dyscrasias that may or may not be associated with the hypersensitivity (also known as DRESS) [see Warnings and Precautions (5.2)].
+There have been reports of blood dyscrasias that may or may not be associated with multiorgan hypersensitivity (also known as DRESS) [see Warnings and Precautions (5.2)].
 These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytopenia, and, rarely, aplastic anemia and pure red cell aplasia.
 
 ## 5.4 Suicidal Behavior and Ideation
@@ -145,7 +145,7 @@ Unless safety concerns require a more rapid withdrawal, the dose of Lamotrigine 
 
 Valid estimates of the incidence of treatment-emergent status epilepticus among patients treated with Lamotrigine are difficult to obtain because reporters participating in clinical trials did not all employ identical rules for identifying cases.
 At a minimum, 7 of 2,343 adult patients had episodes that could unequivocally be described as status epilepticus.
-In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries, etc.) were made.
+In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries) were made.
 
 ## 5.11 Sudden Unexplained Death in Epilepsy (SUDEP)
 
