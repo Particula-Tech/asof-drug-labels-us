@@ -10,16 +10,12 @@ PRED FORTE® (prednisolone acetate ophthalmic suspension, USP) 1% is supplied st
 
 15 mL in 15 mL bottle - NDC 11980-180-15
 
-Note: Store at temperatures up to 25°C (77°F).
+Storage: Store at temperatures up to 25°C (77°F).
 Protect from freezing.
 Store in an upright position.
 
-Rx Only
+Revised: 08/2013
 
-Revised March 2004
+© 2013 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
 
-© 2004 Allergan, Inc. Irvine, CA 92612, U.S.A. ® Marks owned by Allergan, Inc.
-
-6294X
-
-71592US10M
+71592US11
