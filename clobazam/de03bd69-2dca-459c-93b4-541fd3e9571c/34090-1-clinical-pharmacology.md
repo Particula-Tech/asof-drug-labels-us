@@ -64,7 +64,7 @@ Population pharmacokinetic analyses including Caucasian (75%), African American 
 
 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of clobazam was evaluated in patients with mild (creatinine clearance [CLCR] > 50 to 80 mL/min; N=6) and moderate (CLCR=30 to 50 mL/min; N=6) renal dysfunction, with matching healthy controls (N=6), following administration of multiple doses of ONFI 20 mg/day.
+The effect of renal impairment on the pharmacokinetics of clobazam was evaluated in patients with mild (creatinine clearance [CLCR] >50 to 80 mL/min; N=6) and moderate (CLCR=30 to 50 mL/min; N=6) renal dysfunction, with matching healthy controls (N=6), following administration of multiple doses of ONFI 20 mg/day.
 There were insignificant changes in Cmax (3-24%) and AUC (≤13%) for clobazam or N-desmethylclobazam in patients with mild or moderate renal impairment compared to patients with normal renal function.
 Patients with severe renal impairment or ESRD were not included in this study.
 
@@ -111,7 +111,7 @@ Co-administration of ketoconazole (a strong CYP3A4 inhibitor) 400 mg once-daily 
 There was no significant change in AUC and Cmax of N-desmethylclobazam (N=18).
 
 Strong (e.g., fluconazole, fluvoxamine, ticlopidine) and moderate (e.g., omeprazole) inhibitors of CYP2C19 may result in up to a 5-fold increase in exposure to N-desmethylclobazam, the active metabolite of clobazam, based on extrapolation from pharmacogenomic data [see Clinical Pharmacology (12.5)].
-Dosage adjustment of ONFI may be necessary when coadministered with strong or moderate CYP2C19 inhibitors [see Drug Interactions (7.2)].
+Dosage adjustment of ONFI may be necessary when co-administered with strong or moderate CYP2C19 inhibitors [see Drug Interactions (7.2)].
 
 The effects of concomitant antiepileptic drugs that are CYP3A4 inducers (phenobarbital, phenytoin, and carbamazepine), CYP2C9 inducers (valproic acid, phenobarbital, phenytoin, and carbamazepine), and CYP2C9 inhibitors (felbamate and oxcarbazepine) were evaluated using data from clinical trials.
 Results of population pharmacokinetic analysis show that these concomitant antiepileptic drugs did not significantly alter the pharmacokinetics of clobazam or N-desmethylclobazam at steady-state.

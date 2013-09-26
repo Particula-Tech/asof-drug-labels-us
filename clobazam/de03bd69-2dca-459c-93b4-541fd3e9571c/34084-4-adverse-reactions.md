@@ -6,7 +6,8 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants [see Warnings and Precautions (5.2)]
 - Withdrawal Symptoms [see Warnings and Precautions (5.3)]
 - Physical and Psychological Dependence [see Warnings and Precautions (5.4)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
+- Serious Dermatological Reactions [see Warnings and Precautions (5.5)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 

@@ -43,6 +43,14 @@ Selling or giving away ONFI may harm others, and is against the law.
 Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines or street drugs.
 
 4.
+Serious skin reactions have been seen when ONFI is taken with other medicines and may require stopping its use.
+Do not stop taking ONFI without first talking to your healthcare provider.
+
+- A serious skin reaction can happen at any time during your treatment with ONFI, but is more likely to happen within the first 8 weeks of treatment.
+  These skin reactions may need to be treated right away.
+- Call your healthcare provider immediately if you have skin blisters, peeling rash, sores in the mouth, hives or any other allergic reaction.
+
+5.
 Like other antiepileptic drugs, ONFI may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -111,7 +119,7 @@ How should I take ONFI?
 
 - Take ONFI exactly as your healthcare provider tells you to take it.
 - Your healthcare provider will tell you how much ONFI to take and when to take it.
-- ONFI tablets can be taken whole, or crushed and mixed in applesauce.
+- ONFI tablets can be taken whole, broken in half along the score, or crushed and mixed in applesauce.
 - ONFI tablets and oral suspension can be taken with or without food.
 - Shake the bottle of ONFI oral suspension well right before you take each dose.
 - Measure your dose of ONFI oral suspension using the bottle adapter and dosing syringes that come with your ONFI oral suspension.
@@ -206,4 +214,104 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 ONFI is a registered trademark of Lundbeck
 
-December 2012
+5/2013
+
+Instructions for Use
+
+ONFI® (ON-fee)
+
+(clobazam)
+
+Oral Suspension
+
+Read this Instructions for Use before using ONFI oral suspension and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking with your healthcare provider about your medical condition or treatment.
+
+Prepare ONFI Oral Suspension Dose
+
+You will need the following supplies: See Figure A
+
+- ONFI oral suspension bottle
+- Bottle adapter
+- Oral dosing syringe (2 dosing syringes are included in the ONFI oral suspension box).
+- Use only 1 syringe to take your dose of ONFI oral suspension.
+  If you lose or damage the syringe, or cannot read the markings, use the other syringe.
+
+Figure A
+
+Step 1.
+Remove the ONFI oral suspension bottle, bottle adapter, and 1 syringe from the box.
+
+Step 2.
+Shake the bottle well before each use.
+See Figure B
+
+Figure B
+
+Step 3.
+Uncap the bottle and firmly insert the bottle adapter into the bottle until the adapter top is even with the bottle top.
+See Figure C
+
+Figure C
+
+Once the bottle adapter is in place, it should not be removed.
+
+Step 4.
+Check your dose in milliliters (mL) as prescribed by your healthcare provider.
+Find this number on the syringe.
+Do not take more than the prescribed total dose in 1 day.
+See Figure D
+
+Figure D
+
+Step 5.
+Push the plunger all the way down and then insert the syringe into the upright bottle through the opening in the bottle adapter.
+See Figure E
+
+Figure E
+
+Step 6.
+With the syringe in place, turn the bottle upside down.
+Pull the plunger to the number of mLs needed (the amount of liquid medicine in Step 4).
+See Figure F
+
+Figure F
+
+Measure the mLs of medicine using the black ring on the white plunger.
+See Figure G
+
+Figure G
+
+Step 7.
+Remove the syringe from the bottle adapter.
+Slowly squirt ONFI oral suspension directly into the corner of your mouth or your child's mouth until all of the liquid medicine in the syringe is given.
+See Figure H
+
+Figure H
+
+Step 8.
+Cap the bottle tightly with the adapter in place.
+If the cap does not fit securely, check to see if the adapter is fully inserted.
+See Figure I
+
+Store the bottle upright at 68°F to 77°F (20°C to 25°C).
+
+- Use ONFI oral suspension within 90 days of first opening bottle.
+- After 90 days safely throw away any ONFI oral suspension that has not been used.
+
+Figure I
+
+Step 9.
+Wash the oral syringe after each use.
+
+- To clean the oral syringe, take apart by removing the plunger completely.
+  Pull plunger straight out of the barrel.
+- The barrel and plunger can be washed with soap and water, rinsed, and allowed to dry.
+- Do not wash the oral syringe in the dishwasher.
+
+Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
+
+ONFI is a registered trademark of Lundbeck
+
+5/2013

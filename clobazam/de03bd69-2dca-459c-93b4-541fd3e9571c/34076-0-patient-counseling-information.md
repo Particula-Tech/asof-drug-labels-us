@@ -21,10 +21,15 @@ Interactions with Hormonal Contraceptives
 
 Counsel women to also use non-hormonal methods of contraception when ONFI is used with hormonal contraceptives and to continue these alternative methods for 28 days after discontinuing ONFI to ensure contraceptive reliability [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
+Serious Dermatological Reactions
+
+Patients or caregivers should be advised that serious skin reactions have been reported in patients taking ONFI.
+In the event a skin reaction should occur while taking ONFI, patients or caregivers should consult with healthcare providers immediately [see Warnings and Precautions (5.5)].
+
 Suicidal Thinking and Behavior
 
 Counsel patients, their caregivers, and their families that AEDs, including ONFI, may increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
-Patients should report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.5)].
+Patients should report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.6)].
 
 Use in Pregnancy
 
@@ -32,7 +37,7 @@ Instruct patients to notify their healthcare provider if they become pregnant or
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334.
+To enroll, patients can call the toll-free number 1-888-233-2334.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org [see Use in Specific Populations (8.1)].
 
 Use in Nursing
@@ -41,7 +46,7 @@ Instruct patients to notify their physician if they are breast feeding or intend
 
 Tablets manufactured by: Catalent Pharma Solutions, LLC Winchester, KY 40391, U.S.A.
 
-Oral suspension manufactured by: Rosemont Pharmaceuticals, Ltd. Leeds, West Yorkshire LS118 EX, U.K.
+Oral suspension manufactured by: Rosemont Pharmaceuticals, Ltd. Leeds, West Yorkshire LS11 9XE, U.K.
 
 For: Lundbeck Deerfield, IL 60015, U.S.A.
 

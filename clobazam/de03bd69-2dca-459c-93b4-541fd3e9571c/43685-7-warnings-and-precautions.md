@@ -3,7 +3,7 @@
 ## 5.1 Somnolence or Sedation
 
 ONFI causes somnolence and sedation.
-In clinical trials, somnolence or sedation were reported at all effective doses and were dose-related.
+In clinical trials, somnolence or sedation was reported at all effective doses and was dose-related.
 
 In general, somnolence and sedation begin within the first month of treatment and may diminish with continued treatment.
 Prescribers should monitor patients for somnolence and sedation, particularly with concomitant use of other central nervous system depressants.
@@ -30,7 +30,14 @@ Generally milder withdrawal symptoms (e.g., dysphoria, anxiety, and insomnia) ha
 
 Patients with a history of substance abuse should be under careful surveillance when receiving ONFI or other psychotropic agents because of the predisposition of such patients to habituation and dependence [see Drug Abuse and Dependence (9)].
 
-## 5.5 Suicidal Behavior and Ideation
+## 5.5 Serious Dermatological Reactions
+
+Serious skin reactions, including Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported from post-marketing experience with ONFI in both children and adults.
+Reports involved co-administration of other medicines (antiepileptic drugs) and required hospitalization.
+Patients should be closely monitored for signs or symptoms of SJS/TEN, especially during the first 8 weeks of treatment initiation or when re-introducing therapy.
+Discontinue ONFI immediately if signs, symptoms or unexplained rash suggestive of SJS/TEN occur.
+
+## 5.6 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including ONFI, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.

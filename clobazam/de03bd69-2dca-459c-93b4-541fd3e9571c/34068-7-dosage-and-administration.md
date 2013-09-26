@@ -6,7 +6,7 @@ A daily dose of ONFI greater than 5 mg should be administered in divided doses t
 Dose patients according to body weight.
 Individualize dosing within each body weight group, based on clinical efficacy and tolerability.
 Each dose in Table 1 (e.g.
-5 to 20 mg in ≤ 30 kg weight group) has been shown to be effective, although effectiveness increases with increasing dose [see Clinical Studies (14)].
+5 to 20 mg in ≤30 kg weight group) has been shown to be effective, although effectiveness increases with increasing dose [see Clinical Studies (14)].
 Do not proceed with dose escalation more rapidly than weekly, because serum concentrations of clobazam and its active metabolite require 5 and 9 days, respectively, to reach steady-state.
 
 Table 1.
@@ -31,7 +31,7 @@ ONFI Tablet Oral Administration
 
 ONFI tablets can be taken with or without food.
 
-ONFI tablets can be administered either whole or crushed and mixed in applesauce.
+ONFI tablets can be administered whole, broken in half along the score, or crushed and mixed in applesauce.
 
 ONFI Oral Suspension Oral Administration
 
