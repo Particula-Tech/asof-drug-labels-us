@@ -4,20 +4,16 @@
 
 Pregnancy Category B
 
-There are no studies of STELARA® in pregnant women.
+There are no adequate and well controlled studies of STELARA® in pregnant women.
+Developmental toxicity studies conducted with monkeys found no evidence of harm to the fetus due to ustekinumab.
 STELARA® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-No teratogenic effects were observed in the developmental and reproductive toxicology studies performed in cynomolgus monkeys at doses up to 45 mg/kg ustekinumab, which is 45 times (based on mg/kg) the highest intended clinical dose in psoriasis patients (approximately 1 mg/kg based on administration of a 90 mg dose to a 90 kg psoriasis patient).
 
-Ustekinumab was tested in two embryo-fetal development toxicity studies.
-Pregnant cynomolgus monkeys were administered ustekinumab at doses up to 45 mg/kg during the period of organogenesis either twice weekly via subcutaneous injections or weekly by intravenous injections.
-No significant adverse developmental effects were noted in either study.
+Ustekinumab was tested in two embryo-fetal development toxicity studies with cynomologus monkeys.
+No teratogenic effects or other adverse developmental effects were observed in fetuses from pregnant monkeys that were administered ustekinumab during the period of organogenesis either twice weekly via subcutaneous injections or weekly by intravenous injections at doses up to 45 times the maximum recommended human dose (MRHD) (on a mg/kg basis at a maternal dose of 45 mg/kg).
 
-In an embryo-fetal development and pre- and post-natal development toxicity study, three groups of 20 pregnant cynomolgus monkeys were administered subcutaneous doses of 0, 22.5, or 45 mg/kg ustekinumab twice weekly from the beginning of organogenesis in cynomolgus monkeys to Day 33 after delivery.
-There were no treatment-related effects on mortality, clinical signs, body weight, food consumption, hematology, or serum biochemistry in dams.
-Fetal losses occurred in six control monkeys, six 22.5 mg/kg-treated monkeys, and five 45 mg/kg-treated monkeys.
-Neonatal deaths occurred in one 22.5 mg/kg-treated monkey and in one 45 mg/kg-treated monkey.
-No ustekinumab-related abnormalities were observed in the neonates from birth through six months of age in clinical signs, body weight, hematology, or serum biochemistry.
-There were no treatment-related effects on functional development until weaning, functional development after weaning, morphological development, immunological development, and gross and histopathological examinations of offsprings by the age of 6 months.
+In a combined embryo-fetal development and pre- and post-natal development toxicity study, pregnant cynomolgus monkeys were administered subcutaneous doses of ustekinumab twice weekly up to 45 times the MRHD (on a mg/kg basis at a maternal dose of 45 mg/kg) from the beginning of organogenesis to Day 33 after delivery.
+Neonatal deaths occurred in the offspring of one monkey administered ustekinumab at 22.5 mg/kg and one monkey dosed at 45 mg/kg.
+No ustekinumab-related effects on functional, morphological, or immunological development were observed in the neonates from birth through six months of age.
 
 ## 8.3 Nursing Mothers
 
@@ -33,5 +29,5 @@ Safety and effectiveness of STELARA® in pediatric patients have not been evalua
 
 ## 8.5 Geriatric Use
 
-Of the 3117 psoriasis subjects exposed to STELARA®, a total of 183 were 65 years or older, and 21 subjects were 75 years or older.
+Of the 4031 subjects exposed to STELARA®, a total of 248 were 65 years or older (183 patients with psoriasis and 65 patients with psoriatic arthritis), and 29 subjects were 75 years or older.
 Although no differences in safety or efficacy were observed between older and younger subjects, the number of subjects aged 65 and over is not sufficient to determine whether they respond differently from younger subjects.

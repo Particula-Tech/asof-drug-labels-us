@@ -10,8 +10,9 @@ STELARA® should not be administered until the infection resolves or is adequate
 Instruct patients to seek medical advice if signs or symptoms suggestive of an infection occur.
 Exercise caution when considering the use of STELARA® in patients with a chronic infection or a history of recurrent infection.
 
-Serious infections requiring hospitalization occurred in the psoriasis development program.
-These serious infections included cellulitis, diverticulitis, osteomyelitis, viral infections, gastroenteritis, pneumonia, and urinary tract infections.
+Serious infections requiring hospitalization occurred in the psoriasis and psoriatic arthritis development programs.
+In the psoriasis program, serious infections included diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis and sepsis.
+In the psoriatic arthritis program, serious infections included cholecystitis.
 
 ## 5.2 Theoretical Risk for Vulnerability to Particular Infections
 
@@ -45,20 +46,21 @@ Patients greater than 60 years of age, those with a medical history of prolonged
 ## 5.5 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including anaphylaxis and angioedema, have been reported post-marketing.
-If an anaphylactic or other clinically significant hypersensitivity reaction occurs, discontinue STELARA® and institute appropriate therapy [see Adverse Reactions (6.3)].
+If an anaphylactic or other clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue STELARA® [see Adverse Reactions (6.3)].
 
 ## 5.6 Reversible Posterior Leukoencephalopathy Syndrome
 
-One case of reversible posterior leukoencephalopathy syndrome (RPLS) was observed during the clinical development program which included 3523 STELARA®-treated subjects.
+One case of reversible posterior leukoencephalopathy syndrome (RPLS) was observed during the psoriasis clinical development program which included 3758 STELARA®-treated subjects.
 The subject, who had received 12 doses of STELARA® over approximately two years, presented with headache, seizures and confusion.
 No additional STELARA® injections were administered and the subject fully recovered with appropriate treatment.
+No additional cases of RPLS were observed in the psoriatic arthritis clinical development program which included 914 STELARA®-treated subjects.
 
 RPLS is a neurological disorder, which is not caused by demyelination or a known infectious agent.
 RPLS can present with headache, seizures, confusion and visual disturbances.
 Conditions with which it has been associated include preeclampsia, eclampsia, acute hypertension, cytotoxic agents and immunosuppressive therapy.
 Fatal outcomes have been reported.
 
-If RPLS is suspected, STELARA® should be discontinued and appropriate treatment administered.
+If RPLS is suspected, administer appropriate treatment and discontinue STELARA®.
 
 ## 5.7 Immunizations
 
@@ -71,5 +73,6 @@ Non-live vaccinations received during a course of STELARA® may not elicit an im
 
 ## 5.8 Concomitant Therapies
 
-The safety of STELARA® in combination with other immunosuppressive agents or phototherapy has not been evaluated.
+In psoriasis studies the safety of STELARA® in combination with immunosuppressive agents or phototherapy has not been evaluated.
+In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA® [see Drug Interactions (7.2)].
 Ultraviolet-induced skin cancers developed earlier and more frequently in mice genetically manipulated to be deficient in both IL-12 and IL-23 or IL-12 alone [see Nonclinical Toxicology (13)].

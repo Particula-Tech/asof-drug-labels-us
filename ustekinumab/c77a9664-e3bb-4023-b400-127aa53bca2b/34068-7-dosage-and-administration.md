@@ -4,10 +4,18 @@
 
 STELARA® is administered by subcutaneous injection.
 
+Psoriasis
+
 - For patients weighing ≤100 kg (220 lbs), the recommended dose is 45 mg initially and 4 weeks later, followed by 45 mg every 12 weeks.
 - For patients weighing >100 kg (220 lbs), the recommended dose is 90 mg initially and 4 weeks later, followed by 90 mg every 12 weeks.
-- In subjects weighing >100 kg, 45 mg was also shown to be efficacious.
-  However, 90 mg resulted in greater efficacy in these subjects [see Clinical Studies (14)].
+
+In subjects weighing >100 kg, 45 mg was also shown to be efficacious.
+However, 90 mg resulted in greater efficacy in these subjects [see Clinical Studies (14)].
+
+Psoriatic Arthritis
+
+- The recommended dose is 45 mg initially and 4 weeks later, followed by 45 mg every 12 weeks.
+- For patients with co-existent moderate-to-severe plaque psoriasis weighing >100 kg (220 lbs), the recommended dose is 90 mg initially and 4 weeks later, followed by 90 mg every 12 weeks.
 
 ## 2.2 General Considerations for Administration
 

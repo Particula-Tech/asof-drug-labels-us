@@ -1,21 +1,17 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed elsewhere in the label:
-
-- Infections [see Warnings and Precautions (5.1)]
-- Malignancies [see Warnings and Precautions (5.4)]
-- Reversible Posterior Leukoencephalopathy Syndrome [see Warnings and Precautions (5.6)]
-
 ## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety data reflect exposure to STELARA® in 3117 psoriasis subjects, including 2414 exposed for at least 6 months, 1855 exposed for at least one year,1653 exposed for at least two years, 1569 exposed for at least three years, 1482 exposed for at least four years and 838 exposed for at least five years.
+Psoriasis Clinical Studies
 
-Table 1 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the STELARA® groups than the placebo group during the placebo-controlled period of STUDY 1 and STUDY 2 [see Clinical Studies (14)].
+The safety data reflect exposure to STELARA® in 3117 psoriasis subjects, including 2414 exposed for at least 6 months, 1855 exposed for at least one year, 1653 exposed for at least two years, 1569 exposed for at least three years, 1482 exposed for at least four years and 838 exposed for at least five years.
+
+Table 1 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the STELARA® groups than the placebo group during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14)].
 
 Table 1.
-Adverse reactions reported by ≥1% of subjects through Week 12 in STUDY 1 and STUDY 2
+Adverse reactions reported by ≥1% of subjects through Week 12 in Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- |
@@ -34,7 +30,7 @@ Adverse reactions reported by ≥1% of subjects through Week 12 in STUDY 1 and S
 | Myalgia | 4 (1%) | 7 (1%) | 8 (1%) |
 | Depression | 3 (<1%) | 8 (1%) | 4 (1%) |
 
-Adverse reactions that occurred at rates less than 1% in the controlled period of STUDIES 1 and 2 through week 12 included: cellulitis, herpes zoster, diverticulitis and certain injection site reactions (pain, swelling, pruritus, induration, hemorrhage, bruising, and irritation).
+Adverse reactions that occurred at rates less than 1% in the controlled period of Ps STUDIES 1 and 2 through week 12 included: cellulitis, herpes zoster, diverticulitis and certain injection site reactions (pain, swelling, pruritus, induration, hemorrhage, bruising, and irritation).
 
 One case of RPLS occurred during clinical trials [see Warnings and Precautions (5.6)].
 
@@ -53,24 +49,20 @@ Non-melanoma skin cancer was reported in 1.5% of STELARA®-treated subjects (0.5
 The most frequently observed malignancies other than non-melanoma skin cancer during the clinical trials were: prostate, melanoma, colorectal and breast.
 Malignancies other than non-melanoma skin cancer in STELARA®-treated patients during the controlled and uncontrolled portions of studies were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender and race).1
 
+Psoriatic Arthritis Clinical Studies
+
+The safety of STELARA® was assessed in 927 patients in two randomized, double-blind, placebo-controlled studies in adult patients with active psoriatic arthritis (PsA).
+The overall safety profile of STELARA® in patients with PsA was consistent with the safety profile seen in psoriasis clinical studies.
+A higher incidence of arthralgia, nausea, and dental infections was observed in STELARA®-treated patients when compared with placebo-treated patients (3% vs. 1% for arthralgia and 3% vs. 1% for nausea; 1% vs. 0.6% for dental infections) in the placebo-controlled portions of the PsA clinical trials.
+
 ## 6.2 Immunogenicity
 
-The presence of ustekinumab in the serum can interfere with the detection of anti-ustekinumab antibodies resulting in inconclusive results due to assay interference.
-In STUDIES 1 and 2, antibody testing was done at time points when ustekinumab may have been present in the serum.
-Table 2 summarizes the antibody results from STUDIES 1 and 2 through Year 5.
+Approximately 6% of patients treated with STELARA® in psoriasis and psoriatic arthritis clinical studies developed antibodies to ustekinumab, which were generally low-titer.
+No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.
+No ustekinumab-related serious hypersensitivity reactions were observed in psoriasis and psoriatic arthritis clinical trials.
+In psoriasis studies, the majority of patients who were positive for antibodies to ustekinumab had neutralizing antibodies.
 
-Table 2.
-Presence of anti-ustekinumab antibodies in STUDIES 1 and 2 through Year 5.
-
-| Antibody Results | STUDY 1 (N=746) | STUDY 2 (N=1202) |
-| --- | --- | --- |
-| Positive | 39 (5%) | 65 (5%) |
-| Negative | 365 (49%) | 431 (36%) |
-| Inconclusive | 342 (46%) | 706 (59%) |
-
-The majority of patients who were positive for antibodies to ustekinumab had neutralizing antibodies.
-
-The data above reflect the percentage of subjects whose test results were positive for antibodies to ustekinumab in a bridging immunoassay, and are highly dependent on the sensitivity and specificity of the assay.
+The data above reflect the percentage of subjects whose test results were positive for antibodies to ustekinumab and are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications and underlying disease.
 For these reasons, comparison of the incidence of antibodies to ustekinumab with the incidence of antibodies to other products may be misleading.
 

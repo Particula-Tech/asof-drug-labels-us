@@ -8,7 +8,8 @@ Live vaccines should not be given concurrently with STELARA® [see Warnings and 
 
 ## 7.2 Concomitant Therapies
 
-The safety of STELARA® in combination with immunosuppressive agents or phototherapy has not been evaluated [see Warnings and Precautions (5.8)].
+In psoriasis studies the safety of STELARA® in combination with immunosuppressive agents or phototherapy has not been evaluated.
+In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA® [see Warnings and Precautions (5.8)].
 
 ## 7.3 CYP450 Substrates
 

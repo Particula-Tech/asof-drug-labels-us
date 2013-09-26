@@ -62,9 +62,13 @@ Tell your doctor right away if you have any new or worsening medical problems in
 
 What is STELARA®?
 
-STELARA® is a prescription medicine used to treat adults 18 years and older with moderate or severe psoriasis that involves large areas or many areas of their body, who may benefit from taking injections or pills (systemic therapy) or phototherapy (treatment using ultraviolet light alone or with pills).
+STELARA® is a prescription medicine used to treat adults 18 years and older with:
 
-STELARA® may improve your psoriasis but may also lower the ability of your immune system to fight infections.
+- moderate or severe psoriasis that involves large areas or many areas of their body, who may benefit from taking injections or pills (systemic therapy) or phototherapy (treatment using ultraviolet light alone or with pills).
+- active psoriatic arthritis.
+  STELARA® can be used alone or with methotrexate.
+
+STELARA® may improve your psoriasis and psoriatic arthritis but may also lower the ability of your immune system to fight infections.
 This may also increase your risk for certain types of cancer.
 
 It is not known if STELARA® is safe and effective in children.
@@ -185,6 +189,6 @@ Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US 
 
 Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
-Revised 05/2013
+Revised 09/2013
 
 © Janssen Biotech, Inc. 2012

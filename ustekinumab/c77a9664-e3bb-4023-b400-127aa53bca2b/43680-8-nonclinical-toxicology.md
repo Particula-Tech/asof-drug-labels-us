@@ -7,11 +7,10 @@ Published literature showed that administration of murine IL-12 caused an anti-t
 Mice genetically manipulated to be deficient in both IL-12 and IL-23 or IL-12 alone developed UV-induced skin cancers earlier and more frequently compared to wild-type mice.
 The relevance of these experimental findings in mouse models for malignancy risk in humans is unknown.
 
-A male fertility study was conducted with only 6 male monkeys per group administered subcutaneous doses of 0, 22.5, or 45 mg/kg ustekinumab twice weekly prior to mating and during the mating period for 13 weeks, followed by a 13-week treatment-free period.
-Although fertility and pregnancy outcomes were not evaluated in mated females, there were no treatment-related effects on parental toxicity or male fertility parameters.
+No effects on fertility were observed in male cynomologus monkeys that were administered ustekinumab at subcutaneous doses up to 45 mg/kg twice weekly (45 times the MRHD on a mg/kg basis) prior to and during the mating period.
+However, fertility and pregnancy outcomes were not evaluated in mated females.
 
-A female fertility study was conducted in mice using an analogous IL-12/IL-23p40 antibody by subcutaneous administration at doses up to 50 mg/kg, twice weekly, beginning 15 days before cohabitation and continuing through GD 7.
-There were no treatment-related effects on maternal toxicity or female fertility parameters.
+No effects on fertility were observed in female mice that were administered an analogous IL-12/IL-23p40 antibody by subcutaneous administration at doses up to 50 mg/kg, twice weekly, prior to and during early pregnancy.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
