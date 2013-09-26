@@ -70,7 +70,7 @@ The following have been reported in general use with PROPECIA:
   Tell your healthcare provider about any changes in your breasts such as lumps, pain or nipple discharge.
 - depression;
 - decrease in sex drive that continued after stopping the medication;
-- allergic reactions including rash, itching, hives and swelling of the lips and face;
+- allergic reactions including rash, itching, hives and swelling of the lips, tongue, throat, and face;
 - problems with ejaculation that continued after stopping medication;
 - testicular pain;
 - difficulty in achieving an erection that continued after stopping the medication;
@@ -111,15 +111,3 @@ Active ingredient: finasteride.
 Inactive ingredients: lactose monohydrate, microcrystalline cellulose, pregelatinized starch, sodium starch glycolate, hydroxypropyl methylcellulose, hydroxypropyl cellulose, titanium dioxide, magnesium stearate, talc, docusate sodium, yellow ferric oxide, and red ferric oxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-US Patent Nos.: 5,547,957; 5,571,817
-
-Copyright © 1997 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
-
-All rights reserved.
-
-Revised: 04/2012
-
-USPPI-1T-09061204R010

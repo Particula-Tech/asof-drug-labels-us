@@ -10,7 +10,7 @@ In three controlled clinical trials for PROPECIA of 12-month duration, 1.4% of p
 
 Clinical adverse experiences that were reported as possibly, probably or definitely drug-related in ≥1% of patients treated with PROPECIA or placebo are presented in Table 1.
 
-TABLE 1 Drug-Related Adverse Experiences for PROPECIA (finasteride 1 mg) in Year 1 (%) MALE PATTERN HAIR LOSS
+TABLE 1: Drug-Related Adverse Experiences for PROPECIA (finasteride 1 mg) in Year 1 (%) MALE PATTERN HAIR LOSS
 
 |  | PROPECIA N=945 | Placebo N=934 |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ In the PROSCAR Long-Term Efficacy and Safety Study (PLESS), a 4-year controlled 
 Table 2 presents the only clinical adverse reactions considered possibly, probably or definitely drug related by the investigator, for which the incidence on PROSCAR was ≥1% and greater than placebo over the 4 years of the study.
 In years 2-4 of the study, there was no significant difference between treatment groups in the incidences of impotence, decreased libido and ejaculation disorder.
 
-TABLE 2 Drug-Related Adverse Experiences for PROSCAR (finasteride 5 mg) BENIGN PROSTATIC HYPERPLASIA
+TABLE 2: Drug-Related Adverse Experiences for PROSCAR (finasteride 5 mg) BENIGN PROSTATIC HYPERPLASIA
 
 |  | Finasteride, 5 mg | Placebo | Finasteride, 5 mg | Placebo |
 | --- | --- | --- | --- | --- |
@@ -77,7 +77,7 @@ PROSCAR is not approved to reduce the risk of developing prostate cancer.
 The following adverse reactions have been identified during post approval use of PROPECIA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Hypersensitivity Reaction: hypersensitivity reactions including rash, pruritus, urticaria, and swelling of the lips and face;
+Hypersensitivity Reaction: hypersensitivity reactions such as rash, pruritus, urticaria, and angioedema (including swelling of the lips, tongue, throat, and face);
 
 Reproductive System: sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, libido disorders, ejaculation disorders, and orgasm disorders; male infertility and/or poor seminal quality (normalization or improvement of seminal quality has been reported after discontinuation of finasteride); testicular pain.
 [See Adverse Reactions (6.1).]

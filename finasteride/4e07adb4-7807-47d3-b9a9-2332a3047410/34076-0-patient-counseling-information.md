@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-"See FDA-approved patient labeling (Patient Information)"
+See FDA-approved patient labeling (Patient Information).
 
 ## 17.1 Exposure of Women — Risk to Male Fetus
 

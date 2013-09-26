@@ -65,7 +65,7 @@ Following an oral dose of 14C-finasteride in man (n=6), a mean of 39% (range, 32
 
 Mean terminal half-life is approximately 5-6 hours in men 18-60 years of age and 8 hours in men more than 70 years of age.
 
-TABLE 3 Mean (SD) Pharmacokinetic Parameters in Healthy Men (ages 18-26)
+TABLE 3: Mean (SD) Pharmacokinetic Parameters in Healthy Men (ages 18-26)
 
 |  | Mean (± SD) n=15 |
 | --- | --- |
@@ -73,7 +73,7 @@ TABLE 3 Mean (SD) Pharmacokinetic Parameters in Healthy Men (ages 18-26)
 | Clearance (mL/min) | 165 (55) |
 | Volume of Distribution (L) | 76 (14) |
 
-TABLE 4 Mean (SD) Noncompartmental Pharmacokinetic Parameters After Multiple Doses of 1 mg/day in Healthy Men (ages 19-42)
+TABLE 4: Mean (SD) Noncompartmental Pharmacokinetic Parameters After Multiple Doses of 1 mg/day in Healthy Men (ages 19-42)
 
 |  | Mean (± SD) (n=12) |
 | --- | --- |

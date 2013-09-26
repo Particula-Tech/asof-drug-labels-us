@@ -3,7 +3,7 @@
 ## 14.1 Studies in Men
 
 The efficacy of PROPECIA was demonstrated in men (88% Caucasian) with mild to moderate androgenetic alopecia (male pattern hair loss) between 18 and 41 years of age.
-In order to prevent seborrheic dermatitis which might confound the assessment of hair growth in these studies, all men, whether treated with finasteride or placebo, were instructed to use a specified, medicated, tar-based shampoo (Neutrogena T/Gel®Registered trademark of Johnson & Johnson Shampoo) during the first 2 years of the studies.
+In order to prevent seborrheic dermatitis which might confound the assessment of hair growth in these studies, all men, whether treated with finasteride or placebo, were instructed to use a specified, medicated, tar-based shampoo (Neutrogena T/Gel® Shampoo) during the first 2 years of the studies.
 
 There were three double-blind, randomized, placebo-controlled studies of 12-month duration.
 The two primary endpoints were hair count and patient self-assessment; the two secondary endpoints were investigator assessment and ratings of photographs.
@@ -95,4 +95,4 @@ Patient self-assessment showed improvement across racial groups with PROPECIA tr
 ## 14.2 Study in Women
 
 In a study involving 137 postmenopausal women with androgenetic alopecia who were treated with PROPECIA (n=67) or placebo (n=70) for 12 months, effectiveness could not be demonstrated.
-There was no improvement in hair counts, patient self-assessment, investigator assessment, or ratings of standardized photographs in the women treated with PROPECIA when compared with the placebo group [see Indications and Usage (1.1)].
+There was no improvement in hair counts, patient self-assessment, investigator assessment, or ratings of standardized photographs in the women treated with PROPECIA when compared with the placebo group [see Indications and Usage (1)].
