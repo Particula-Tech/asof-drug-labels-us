@@ -20,7 +20,7 @@ With regard to potential finasteride exposure through semen, two studies have be
 In an embryo-fetal development study, pregnant rats received finasteride during the period of major organogenesis (gestation days 6 to 17).
 At maternal doses of oral finasteride approximately 0.1 to 86 times the maximum recommended human dose (MRHD) of 5 mg/day (based on AUC at animal doses of 0.1 to 100 mg/kg/day) there was a dose-dependent increase in hypospadias that occurred in 3.6 to 100% of male offspring.
 Exposure multiples were estimated using data from nonpregnant rats.
-Days 16 to 17 days of gestation is a critical period in male fetal rats for differentiation of the external genitalia.
+Days 16 to 17 of gestation is a critical period in male fetal rats for differentiation of the external genitalia.
 At oral maternal doses approximately 0.03 times the MRHD (based on AUC at animal dose of 0.03 mg/kg/day), male offspring had decreased prostatic and seminal vesicular weights, delayed preputial separation and transient nipple development.
 Decreased anogenital distance occurred in male offspring of pregnant rats that received approximately 0.003 times the MRHD (based on AUC at animal dose of 0.003 mg/kg/day).
 No abnormalities were observed in female offspring at any maternal dose of finasteride.
@@ -29,7 +29,7 @@ No developmental abnormalities were observed in the offspring of untreated femal
 Slightly decreased fertility was observed in male offspring after administration of about 3 times the MRHD (based on AUC at animal dose of 3 mg/kg/day) to female rats during late gestation and lactation.
 No effects on fertility were seen in female offspring under these conditions.
 
-No evidence of male external genital malformations or other abnormalities were observed in rabbit fetuses exposed to finasteride during the period of major organogenesis (gestation days 6-18) at maternal oral doses up to 100 mg/kg /day, (finasteride exposure levels were not measured in rabbits).
+No evidence of male external genital malformations or other abnormalities were observed in rabbit fetuses exposed to finasteride during the period of major organogenesis (gestation days 6-18) at maternal oral doses up to 100 mg/kg/day, (finasteride exposure levels were not measured in rabbits).
 However, this study may not have included the critical period for finasteride effects on development of male external genitalia in the rabbit.
 
 The fetal effects of maternal finasteride exposure during the period of embryonic and fetal development were evaluated in the rhesus monkey (gestation days 20-100), in a species and development period more predictive of specific effects in humans than the studies in rats and rabbits.

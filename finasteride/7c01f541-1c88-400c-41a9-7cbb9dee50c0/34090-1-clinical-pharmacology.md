@@ -74,7 +74,7 @@ As a result, mean AUC(0-24 hr) after 17 days of dosing was 15% higher in subject
 
 Table 3: Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15)
 
-|  | Mean (±SD) |
+|  | Mean (± SD) |
 | --- | --- |
 | Bioavailability | 63% (34-108%)Range |
 | Clearance (mL/min) | 165 (55) |

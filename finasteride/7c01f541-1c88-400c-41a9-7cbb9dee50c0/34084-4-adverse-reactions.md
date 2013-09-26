@@ -45,12 +45,12 @@ Combination therapy with finasteride and doxazosin was associated with no new cl
 
 Four patients in MTOPS reported the adverse experience breast cancer.
 Three of these patients were on finasteride only and one was on combination therapy.
-[See Long Term Data.]
+[See Long-Term Data.]
 
 The MTOPS Study was not specifically designed to make statistical comparisons between groups for reported adverse experiences.
 In addition, direct comparisons of safety data between the MTOPS study and previous studies of the single agents may not be appropriate based upon differences in patient population, dosage or dose regimen, and other procedural and study design elements.
 
-Table 2: Incidence ≥2% in One or More Treatment Groups: Drug-Related Clinical Adverse Experiences in MTOPS
+Table 2: Incidence ≥2% in One or More Treatment Groups Drug-Related Clinical Adverse Experiences in MTOPS
 
 | Adverse Experience |  | Placebo (N=737) (%) | Doxazosin 4 mg or 8 mgDoxazosin dose was achieved by weekly titration (1 to 2 to 4 to 8 mg). The final tolerated dose (4 mg or 8 mg) was administered at end-Week 4. Only those patients tolerating at least 4 mg were kept on doxazosin. The majority of patients received the 8-mg dose over the duration of the study. (N=756) (%) | Finasteride (N=768) (%) | Combination (N=786) (%) |
 | --- | --- | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ New reports of drug-related sexual adverse experiences decreased with duration o
 The following additional adverse events have been reported in postmarketing experience with PROSCAR.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- -hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face
+- -hypersensitivity reactions, such as pruritus, urticaria, and angioedema (including swelling of the lips, tongue, throat, and face)
 - -testicular pain
 - -sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, decreased libido and ejaculation disorders (e.g. reduced ejaculate volume).
   These events were reported rarely in men taking PROSCAR for the treatment of BPH.

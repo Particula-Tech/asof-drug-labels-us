@@ -61,7 +61,7 @@ The most common side effects of PROSCAR include:
 
 The following have been reported in general use with PROSCAR and/or finasteride at lower doses:
 
-- allergic reactions, including rash, itching, hives, and swelling of the lips and face
+- allergic reactions, including rash, itching, hives, and swelling of the lips, tongue, throat, and face
 - rarely, some men may have testicular pain
 - trouble getting or keeping an erection that continued after stopping the medication
 - problems with ejaculation that continued after stopping the medication

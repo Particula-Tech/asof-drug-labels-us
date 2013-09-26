@@ -6,7 +6,7 @@ See FDA-Approved Patient Labeling (Patient Information).
 
 Patients should be informed that there was an increase in high-grade prostate cancer in men treated with 5α-reductase inhibitors indicated for BPH treatment, including PROSCAR, compared to those treated with placebo in studies looking at the use of these drugs to prevent prostate cancer [see Indications and Usage (1.3), Warnings and Precautions (5.2), and Adverse Reactions (6.1)].
 
-## 17.2 Exposure of Women – Risk to Male Fetus
+## 17.2 Exposure of Women — Risk to Male Fetus
 
 Physicians should inform patients that women who are pregnant or may potentially be pregnant should not handle crushed or broken PROSCAR tablets because of the possibility of absorption of finasteride and the subsequent potential risk to the male fetus.
 PROSCAR tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets have not been broken or crushed.
