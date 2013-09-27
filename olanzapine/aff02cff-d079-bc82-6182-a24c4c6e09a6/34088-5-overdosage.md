@@ -17,6 +17,7 @@ In 1 case of death, the amount of acutely ingested olanzapine was reported to be
 
 ## 10.2 Management of Overdose
 
+For current information on the management of olanzapine overdose, contact a certified poison control center.
 The possibility of multiple drug involvement should be considered.
 In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation, which may include intubation.
 Gastric lavage (after intubation, if patient is unconscious) and administration of activated charcoal together with a laxative should be considered.

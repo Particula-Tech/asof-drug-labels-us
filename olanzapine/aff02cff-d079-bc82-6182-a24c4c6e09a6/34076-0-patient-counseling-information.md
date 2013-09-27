@@ -77,17 +77,17 @@ Pregnancy — Patients should be advised to notify their physician if they becom
 
 Nursing Mothers — Patients should be advised not to breast-feed an infant if they are taking olanzapine [see Use in Specific Populations (8.3)].
 
-Pediatric Use — Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic transaminase levels.
-Safety and effectiveness of olanzapine in patients under 13 years of age have not been established.
-Safety and effectiveness of olanzapine and fluoxetine in combination in patients <18 years of age have not been established.
-[see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
-
-Pediatric use information in pediatric patients with schizophrenia and bipolar I disorder is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Use — Olanzapine is indicated for treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder in adolescents 13 to 17 years of age.
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic aminotransferase levels.
+Patients should be counseled about the potential long-term risks associated with olanzapine and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
+Safety and effectiveness of olanzapine in patients under 13 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
 
 ## 17.14 Need for Comprehensive Treatment Program in Pediatric Patients
 
-Pediatric use information in pediatric patients with schizophrenia and bipolar I disorder is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Olanzapine is indicated as an integral part of a total treatment program for pediatric patients with schizophrenia and bipolar disorder that may include other measures (psychological, educational, social) for patients with the disorder.
+Effectiveness and safety of olanzapine have not been established in pediatric patients less than 13 years of age.
+Atypical antipsychotics are not intended for use in the pediatric patient who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
+Appropriate educational placement is essential and psychosocial intervention is often helpful.
+The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
 Symbyax® (olanzapine and fluoxetine hydrochloride) is a trademark of Eli Lilly company.

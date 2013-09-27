@@ -1,8 +1,8 @@
-# Medication Guide
+Medication Guide
 
 Olanzapine Orally Disintegrating Tablets
 
-Read the Medication Guide that comes with olanzapine orally disintegrating tablets before you start taking it and each time you get a refill.
+Read the Medication Guide that comes with olanzapine orally disintegrating tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your medical condition or treatment.
 Talk with your doctor or pharmacist if there is something you do not understand or you want to learn more about olanzapine orally disintegrating tablets.
@@ -72,14 +72,14 @@ Teenagers (13 to 17 years old) are more likely to gain weight and to gain more w
 Some people may gain a lot of weight while taking olanzapine orally disintegrating tablets, so you and your doctor should check your weight regularly.
 Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 
-## What are Olanzapine Orally Disintegrating tablets?
+## What are olanzapine orally disintegrating tablets?
 
-Olanzapine orally disintegrating tablets is a prescription medicine used to treat:
+Olanzapine orally disintegrating tabletsare prescription medicine used to treat:
 
-- schizophrenia.
+- schizophrenia in people age 13 or older.
 - bipolar disorder, including:
 
-- manic or mixed episodes that happen with bipolar I disorder.
+- manic or mixed episodes that happen with bipolar I disorder in people age 13 or older.
 - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
 - long-term treatment of bipolar I disorder in adults.
 
@@ -93,9 +93,6 @@ The symptoms of Bipolar I Disorder include alternating periods of depression and
 
 Some of your symptoms may improve with treatment.
 If you do not think you are getting better, call your doctor.
-
-Pediatric use information is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However,due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## What should I tell my doctor before taking olanzapineorally disintegratingtablets?
 
@@ -176,12 +173,12 @@ Serious side effects may happen when you take olanzapine orally disintegrating t
   - rigid muscles
   - confusion
   - changes in your breathing, heartbeat, and blood pressure
-- Tardive Dyskinesia: This condition causes body movements that keep happening and that you cannot control.
+- Tardive Dyskinesia: This condition causes body movements that keep happening and that you can not control.
   These movements usually affect the face and tongue.
   Tardive dyskinesia may not go away, even if you stop taking olanzapine orally disintegrating tablets.
   It may also start after you stop taking olanzapine orally disintegrating tablets.
-  Tell your doctor if you get any body movements that you cannot control.
-- Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heart beat, or fainting
+  Tell your doctor if you get any body movements that you can not control.
+- Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heartbeat, or fainting
 - Difficulty swallowing, that can cause food or liquid to get into your lungs.
 - Seizures: Tell your doctor if you have a seizure during treatment with olanzapine orally disintegrating tablets.
 - Problems with control of body temperature: You could become very hot, for instance when you exercise a lot or stay in an area that is very hot.
@@ -195,7 +192,7 @@ Serious side effects may happen when you take olanzapine orally disintegrating t
 
 Common side effects of olanzapine orally disintegrating tablets include: lack of energy, dry mouth, increased appetite, sleepiness, tremor (shakes), having hard or infrequent stools, dizziness, changes in behavior, or restlessness.
 
-Other common side effects in teenagers (13-17 years old) include: headache, stomach-area (abdominal) pain, pain in your arms or legs, or tiredness.
+Other common side effects in teenagers (13 to 17 years old) include: headache, stomach-area (abdominal) pain, pain in your arms or legs, or tiredness.
 Teenagers experienced greater increases in prolactin, liver enzymes, and sleepiness, as compared with adults.
 
 Tell your doctor about any side effect that bothers you or that does not go away.These are not all the possible side effects with olanzapine orally disintegrating tablets.
@@ -240,8 +237,6 @@ Manufactured by:
 
 Dr. Reddy’s Laboratories Limited
 
-Bachepalli – 502 325
+Bachupally - 500 090 INDIA
 
-INDIA
-
-Revised: 1011
+Revised:0913
