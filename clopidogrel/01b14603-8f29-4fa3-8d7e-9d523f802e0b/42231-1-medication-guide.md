@@ -68,7 +68,8 @@ Before you take Plavix, tell your doctor if you:
 - are breastfeeding or plan to breastfeed.
   It is not known if Plavix passes into your breast milk.
   You and your doctor should decide if you will take Plavix or breastfeed.
-  You should not do both without talking to your doctor.
+  You should not do both without talking to your doctor
+- have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking Plavix.
 They should talk to the doctor who prescribed Plavix for you before you have any surgery or invasive procedure.
@@ -133,6 +134,7 @@ Plavix can cause serious side effects including:
   - vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
+Tell your doctor if you develop an allergic reaction while taking Plavix.
 
 These are not all the possible side effects of Plavix.
 For more information, ask your doctor or pharmacist.
