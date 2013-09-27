@@ -1,9 +1,5 @@
-Bupivacaine HCl 0.75% in Dextrose
+Bupivacaine HCl 0.75% in Dextrose 8.25% Injection
 
-8.25% Injection
-
-Sterile Hyperbaric Solution for
-
-Spinal Anesthesia
+Sterile Hyperbaric Solution for Spinal Anesthesia
 
 Rx only
