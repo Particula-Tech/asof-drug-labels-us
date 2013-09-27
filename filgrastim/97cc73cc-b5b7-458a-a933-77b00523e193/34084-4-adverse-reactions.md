@@ -42,7 +42,6 @@ Spontaneously reversible elevations in uric acid‚ lactate dehydrogenase‚ and
 Transient decreases in blood pressure (< 90/60 mmHg)‚ which did not require clinical treatment‚ were reported in 7 of 176 patients in phase 3 clinical studies following administration of NEUPOGEN®.
 Cardiac events (myocardial infarctions‚ arrhythmias) have been reported in 11 of 375 cancer patients receiving NEUPOGEN® in clinical studies; the relationship to NEUPOGEN® therapy is unknown.
 No evidence of interaction of NEUPOGEN® with other drugs was observed in the course of clinical trials (see PRECAUTIONS).
-
 There has been no evidence for the development of antibodies or of a blunted or diminished response to NEUPOGEN® in treated patients‚ including those receiving NEUPOGEN® daily for almost 2 years.
 
 ### Patients With Acute Myeloid Leukemia
@@ -120,10 +119,10 @@ Additionally, annual bone marrow and cytogenetic evaluations are recommended in 
 The following adverse reactions have been identified during postapproval of NEUPOGEN®.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- splenomegaly (enlarged spleen) and splenic rupture (see WARNINGS: Splenic Rupture)
+- splenic rupture and splenomegaly (enlarged spleen) (see WARNINGS: Splenic Rupture)
 - acute respiratory distress syndrome (ARDS) (see WARNINGS: Acute Respiratory Distress Syndrome)
 - alveolar hemorrhage and hemoptysis (see WARNINGS: Alveolar Hemorrhage and Hemoptysis)
 - sickle cell crisis (see WARNINGS: Sickle Cell Disorders)
 - cutaneous vasculitis (see PRECAUTIONS: Cutaneous Vasculitis)
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis)
-- decreased bone density and osteoporosis in pediatric SCN patients receiving chronic treatment with NEUPOGEN®.
+- decreased bone density and osteoporosis in pediatric SCN patients receiving chronic treatment with NEUPOGEN®

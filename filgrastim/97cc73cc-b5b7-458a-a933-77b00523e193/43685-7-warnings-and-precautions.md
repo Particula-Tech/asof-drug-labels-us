@@ -32,11 +32,6 @@ The use of NEUPOGEN® for PBPC mobilization in healthy donors is not an approved
 Severe sickle cell crises, in some cases resulting in death, have been associated with the use of NEUPOGEN® in patients with sickle cell disorders.
 Only physicians qualified by specialized training or experience in the treatment of patients with sickle cell disorders should prescribe NEUPOGEN® for such patients, and only after careful consideration of the potential risks and benefits.
 
-## Thrombocytopenia
-
-Thrombocytopenia has been reported commonly in patients receiving NEUPOGEN®.
-Platelet counts should be monitored closely.
-
 ## Patients With Severe Chronic Neutropenia
 
 The safety and efficacy of NEUPOGEN® in the treatment of neutropenia due to other hematopoietic disorders (eg‚ myelodysplastic syndrome [MDS]) have not been established.
@@ -111,6 +106,11 @@ Most of the reports involved patients with SCN receiving long-term NEUPOGEN® th
 Symptoms of vasculitis generally developed simultaneously with an increase in the ANC and abated when the ANC decreased.
 Many patients were able to continue NEUPOGEN® at a reduced dose.
 
+## Thrombocytopenia
+
+Thrombocytopenia has been reported in patients receiving NEUPOGEN®.
+Platelet counts should be monitored closely.
+
 ## Information for Patients and Caregivers
 
 Patients should be referred to the “Information for Patients and Caregivers” labeling included with the package insert in each dispensing pack of NEUPOGEN® vials or NEUPOGEN® prefilled syringes.
@@ -175,7 +175,7 @@ Reproductive studies in pregnant rats have shown that NEUPOGEN® was not associa
 In Segment III studies in rats‚ offspring of dams treated at > 20 mcg/kg/day exhibited a delay in external differentiation (detachment of auricles and descent of testes) and slight growth retardation‚ possibly due to lower body weight of females during rearing and nursing.
 Offspring of dams treated at 100 mcg/kg/day exhibited decreased body weights at birth‚ and a slightly reduced 4-day survival rate.
 
-Women who become pregnant during Neupogen treatment are encouraged to enroll in Amgen’s Pregnancy Surveillance Program.
+Encourage women who become pregnant during NEUPOGEN® treatment to enroll in Amgen’s Pregnancy Surveillance Program.
 Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
 
 ## Nursing Mothers
@@ -183,7 +183,7 @@ Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enro
 It is not known whether NEUPOGEN® is excreted in human milk.
 Because many drugs are excreted in human milk‚ caution should be exercised if NEUPOGEN® is administered to a nursing woman.
 
-Women who are nursing during NEUPOGEN® treatment are encouraged to enroll in Amgen’s Lactation Surveillance Program.
+Encourage women who are nursing during NEUPOGEN® treatment to enroll in Amgen’s Lactation Surveillance Program.
 Patients or their physicians should call 1‑800‑77‑AMGEN (1-800-772-6436) to enroll.
 
 ## Pediatric Use

@@ -64,8 +64,7 @@ What are possible serious side effects of NEUPOGEN®?
   A ruptured spleen can cause death.
   The spleen is located in the upper left section of your stomach area.
   Call your doctor right away if you/your child has pain in the left upper stomach area or left shoulder tip area.
-  This pain could mean your or your child’s spleen is enlarged or ruptured.
-
+  This pain could mean your/your child’s spleen is enlarged or ruptured.
 - Serious Allergic Reactions.
   NEUPOGEN® can cause serious allergic reactions.
   These reactions can cause a rash over the whole body, shortness of breath, wheezing, dizziness, swelling around the mouth or eyes, fast pulse, and sweating.
@@ -273,12 +272,12 @@ The needle cover on the single-use prefilled syringe contains dry natural rubber
 
 Manufactured by: Amgen Manufacturing, Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S.A.
 
-Revised: 03/2013
+Revised: 09/2013
 
 1xxxxxx
 
 © 1991-2013 Amgen Inc. All rights reserved.
 
-v10
+v11
 
-PMV10
+PMV11
