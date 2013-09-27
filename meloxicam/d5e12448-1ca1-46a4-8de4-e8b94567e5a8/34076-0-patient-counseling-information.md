@@ -46,4 +46,4 @@ Starting at 30 weeks gestation, meloxicam should be avoided as premature closure
 
 Advise females of reproductive potential who desire pregnancy that NSAIDs, including meloxicam, may be associated with a reversible delay in ovulation.
 For women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended [see Use in Specific Populations (8.8)].
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 07/2013

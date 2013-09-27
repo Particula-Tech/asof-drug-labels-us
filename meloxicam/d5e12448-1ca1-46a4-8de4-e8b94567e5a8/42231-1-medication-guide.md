@@ -115,7 +115,7 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 NSAID medicines that need a prescription
 
-| Generic Name | Trade Name |
+| Generic Name | Tradename |
 | --- | --- |
 | Celecoxib | Celebrex |
 | Diclofenac | Cataflam, Voltaren, Arthrotec (combined with misoprostol) |
@@ -138,4 +138,4 @@ NSAID medicines that need a prescription
 | * Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC label warns that long-term continuous use may increase the risk of heart attack or stroke. |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 07/2013

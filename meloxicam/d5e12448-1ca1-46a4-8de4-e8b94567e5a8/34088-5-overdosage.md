@@ -10,7 +10,7 @@ Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs,
 Patients should be managed with symptomatic and supportive care following an NSAID overdose.
 Administration of activated charcoal is recommended for patients who present 1 to 2 hours after overdose.
 For substantial overdose or severely symptomatic patients, activated charcoal may be administered repeatedly.
-Accelerated removal of meloxicam by 4 gm oral doses of cholestyramine given three times a day was demonstrated in a clinical trial.
+Accelerated removal of meloxicam by 4 g oral doses of cholestyramine given three times a day was demonstrated in a clinical trial.
 Administration of cholestyramine may be useful following an overdose.
 Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
 For additional information about overdose treatment, call a poison control center (1-800-222-1222).

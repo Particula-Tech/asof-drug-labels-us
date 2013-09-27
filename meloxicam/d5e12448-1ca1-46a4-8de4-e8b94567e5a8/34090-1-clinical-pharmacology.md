@@ -17,6 +17,7 @@ After multiple oral doses the pharmacokinetics of meloxicam capsules were dose-p
 Mean Cmax was achieved within four to five hours after a 7.5 mg meloxicam tablet was taken under fasted conditions, indicating a prolonged drug absorption.
 With multiple dosing, steady-state concentrations were reached by Day 5.
 A second meloxicam concentration peak occurs around 12 to 14 hours post-dose suggesting biliary recycling.
+Meloxicam capsules have been shown to be bioequivalent to meloxicam tablets.
 
 Table 3 Single Dose and Steady-State Pharmacokinetic Parameters for Oral 7.5 mg and 15 mg Meloxicam (Mean and % CV)1
 
