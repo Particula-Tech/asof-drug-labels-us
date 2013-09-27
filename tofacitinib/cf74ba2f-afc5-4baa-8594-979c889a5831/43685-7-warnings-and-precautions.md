@@ -38,6 +38,7 @@ Viral Reactivation
 Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), were observed in clinical studies with XELJANZ.
 The impact of XELJANZ on chronic viral hepatitis reactivation is unknown.
 Patients who screened positive for hepatitis B or C were excluded from clinical trials.
+Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with XELJANZ.
 
 ## 5.2 Malignancy and Lymphoproliferative Disorder
 
@@ -48,6 +49,11 @@ In the seven controlled rheumatoid arthritis clinical studies, 11 solid cancers 
 Lymphomas and solid cancers have also been observed in the long-term extension studies in rheumatoid arthritis patients treated with XELJANZ.
 
 In Phase 2B, controlled dose-ranging trials in de-novo renal transplant patients, all of whom received induction therapy with basiliximab, high dose corticosteroids, and mycophenolic acid products, Epstein Barr Virus-associated post-transplant lymphoproliferative disorder was observed in 5 out of 218 patients treated with XELJANZ (2.3%) compared to 0 out of 111 patients treated with cyclosporine.
+
+Non-Melanoma Skin Cancer
+
+Non-melanoma skin cancers (NMSCs) have been reported in patients treated with XELJANZ.
+Periodic skin examination is recommended for patients who are at increased risk for skin cancer.
 
 ## 5.3 Gastrointestinal Perforations
 

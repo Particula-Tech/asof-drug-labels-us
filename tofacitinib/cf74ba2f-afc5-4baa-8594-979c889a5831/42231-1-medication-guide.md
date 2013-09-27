@@ -44,7 +44,7 @@ Cancer and immune system problems.
 
 XELJANZ may increase your risk of certain cancers by changing the way your immune system works.
 
-- Lymphoma and other cancers can happen in patients taking XELJANZ.
+- Lymphoma and other cancers including skin cancers can happen in patients taking XELJANZ.
   Tell your healthcare provider if you have ever had any type of cancer.
 - Some people who have taken XELJANZ with certain other medicines to prevent kidney transplant rejection have had a problem with certain white blood cells growing out of control (Epstein Barr Virus-associated post transplant lymphoproliferative disorder).
 
@@ -187,4 +187,4 @@ Inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarme
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0535-1.0 November 2012
+LAB-0535-2.0 September 2013
