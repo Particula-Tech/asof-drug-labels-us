@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Nasal Spray 5 mg
+Nasal Spray 2.5 mg and 5 mg.

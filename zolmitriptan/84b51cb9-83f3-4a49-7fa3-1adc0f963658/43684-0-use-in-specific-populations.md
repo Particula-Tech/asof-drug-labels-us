@@ -15,30 +15,33 @@ The no-effect dose was associated with a plasma AUC ≈280 times that in humans 
 ## 8.3 Nursing Mothers
 
 It is not known whether zolmitriptan is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when zolmitriptan is administered to a nursing woman.
-Lactating rats dosed with zolmitriptan had levels in milk equivalent to maternal plasma levels at 1 hour and 4 times higher than plasma levels at 4 hours.
+Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from ZOMIG, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+In rats, oral dosing with zolmitriptan resulted in levels in milk up to 4 times higher than in plasma.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of ZOMIG in pediatric patients have not been established; therefore, ZOMIG is not recommended for use in patients under 18 years of age.
+Safety and effectiveness in pediatric patients have not been established.
 
-A single, multicenter, double-blind, randomized placebo-controlled, study was conducted to evaluate the efficacy of zolmitriptan 5 mg nasal spray in the acute treatment of migraine headache in 171 evaluable adolescent subjects 12 to 17 years of age.
+A single, multicenter, double-blind, randomized placebo-controlled, study was conducted to evaluate the efficacy of ZOMIG 5 mg nasal spray in the acute treatment of migraine headache in 171 evaluable adolescent subjects 12 to 17 years of age.
 Efficacy was not established in that study.
 
-Adverse reactions observed in this study were similar in nature and frequency to those reported in ZOMIG Nasal Spray adult clinical trials.
+Adverse reactions observed in this study were similar in nature and frequency to those reported in clinical trials of ZOMIG Nasal Spray in adults.
 The most commonly reported adverse reactions (≥ 2% and > placebo) were dysgeusia (7%), nasal discomfort (3%), dizziness (2%), nasal congestion (2%), nausea (2%), and throat irritation (2%).
 
-ZOMIG Nasal Spray has not been studied in pediatric patients under 12 years of age.
+ZOMIG Nasal Spray has not been studied in pediatric patients age 11 years and under.
 
 In the postmarketing experience with triptans, including ZOMIG, there is a limited number of reports that describe pediatric patients who have experienced clinically serious adverse events; those that were reported are similar in nature to those reported rarely in adults.
 
 ## 8.5 Geriatric Use
 
-Although the pharmacokinetic disposition of the drug in the elderly is similar to that seen in younger adults, there is no information about the safety and effectiveness of zolmitriptan in this population because patients over age 65 were excluded from the controlled clinical trials [see Clinical Pharmacology (12.3)].
+Clinical studies of ZOMIG did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of coronary artery disease) should have a cardiovascular evaluation prior to receiving ZOMIG [see Warnings and Precautions (5.1)].
+The pharmacokinetics of zolmitriptan were similar in geriatric patients (aged > 65 years) compared to younger patients [see Clinical Pharmacology (12.3)].
 
-## 8.6 Hepatic Impairment
+## 8.6 Patients With Hepatic Impairment
 
 The effect of hepatic disease on the pharmacokinetics of zolmitriptan nasal spray has not been evaluated.
-After oral administration, zolmitriptan exposure was increased in patients with severe hepatic impairment, and significant elevation in blood pressure was observed in some patients.
-Because of the similarity in exposure, zolmitriptan tablets and nasal spray should have similar dosage adjustments and should be administered with caution in subjects with liver disease, generally using doses less than 2.5 mg.
-Doses lower than 5 mg can only be achieved through the use of an oral formulation [see Dosage and Administration (2.2)andClinical Pharmacology (12.3)].
+After oral administration, zolmitriptan blood levels were increased in patients with moderate to severe hepatic impairment, and significant elevation in blood pressure was observed in some of these patients [seeWarnings and Precautions (5.8)].
+ZOMIG nasal spray is not recommended in patients with moderate to severe hepatic impairment [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

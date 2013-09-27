@@ -1,53 +1,62 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+- The following adverse reactions are discussed in more detail in other sections of labeling:
+- •Myocardial Ischemia, Myocardial Infarction, and Prinzmetal’s Angina [see Warnings and Precautions (5.1)]
+- •Arrhythmias [see Warnings and Precautions (5.2)]
+- •Chest and or Throat, Neck and Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)]
+- •Cerebrovascular Events [see Warnings and Precautions (5.4)]
+- •Other Vasospasm Reactions [see Warnings and Precautions (5.5)]
+- •Medication Overuse Headache [see Warnings and Precautions (5.6)].
+- •Serotonin Syndrome [see Warnings and Precautions (5.7)]
+- •Increase in Blood Pressure [see Warnings and Precautions (5.8)]
+
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Serious cardiac reactions, including myocardial infarction, have occurred following the use of ZOMIG Tablets.
-These reactions are extremely rare and most have been reported in patients with risk factors predictive of CAD.
-Reactions reported, in association with triptans, have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation [see Contraindications (4.1)andWarnings and Precautions (5.1)].
+Among 460 patients treating 1180 single attacks with zolmitriptan nasal spray in a blinded placebo controlled trial (Study 1), there was a low withdrawal rate related to adverse reactions: 5 mg (1.3%), 2.5 mg (0%) and placebo (0.4%).
+None of the withdrawals were due to a serious event.
+One patient was withdrawn due to abnormal ECG changes from baseline that were incidentally found 23 days after the last dose of ZOMIG Nasal Spray.
 
-Incidence in Controlled Clinical Trials:
+The most common adverse reactions (≥5% and > placebo) in any dosage strength in clinical trials for ZOMIG Nasal Spray were: unusual taste, paresthesia, hyperesthesia, and dizziness.
+The incidence of adverse reactions was generally dose‑related.
 
-Among 464 adult patients treating single attacks with zolmitriptan nasal spray in a blinded placebo controlled trial, there was a low withdrawal rate related to adverse reactions: 5 mg (1.3%), and placebo (0.4%).
-None of the withdrawals were due to a serious reaction.
-One patient was withdrawn due to abnormal ECG changes from baseline that was incidentally found 23 days after the last dose of ZOMIG Nasal Spray.
-The most common adverse reactions in clinical trials for ZOMIG Nasal Spray were: unusual taste, paresthesia, hyperesthesia, and dizziness.
+Table 1 lists the adverse reactions from the controlled clinical trial (Study 1) that occurred in ≥2% of patients in either the 2.5 or 5 mg zolmitriptan nasal spray dose groups and with an incidence greater than placebo.
 
-Table 1 lists the adverse reactions that occurred in ≥ 2% of the 236 patients in the 5 mg dose group of the controlled clinical trial.
+Table 1: Adverse reactions with an incidence of ≥2% and greater than placebo of patients in each of the ZOMIG 2.5 and 5 mg nasal spray treatment groups by body system
 
-Table 1: Adverse reactions with an incidence of ≥ 2% of patients in the zolmitriptan 5 mg nasal spray treatment group by body system and greater than placebo.
+|  | Placebo (N=228) | Zomig 2.5 mg (N=224) | Zomig 5mg (N=236) |
+| --- | --- | --- | --- |
+| Body system and adverse reaction |  |  |  |
+| Atypical Sensations |  |  |  |
+| Hyperesthesia | 0% | 1% | 5% |
+| Paraesthesia | 6% | 5% | 10% |
+| Sensation warm | 2% | 4% | 0% |
+| Ear/Nose/Throat |  |  |  |
+| Disorder/Discomfort of nasal cavity | 2% | 1% | 3% |
+| Pain and Pressure Sensations |  |  |  |
+| Pain Location Specified | 1% | 2% | 4% |
+| Pain Throat | 1% | 4% | 4% |
+| Tightness Throat | 1% | <1% | 2% |
+| Digestive |  |  |  |
+| Dry Mouth | <1% | 3% | 2% |
+| Nausea | 1% | 1% | 4% |
+| Neurological |  |  |  |
+| Dizziness | 4% | 6% | 3% |
+| Somnolence | 2% | 1% | 4% |
+| Other |  |  |  |
+| Unusual Taste | 3% | 17% | 21% |
+| Asthenia | 1% | 3% | 3% |
 
-| Body system and adverse reaction | Placebo (N=228) | 5.0 mg (N=236) |
-| --- | --- | --- |
-| Atypical Sensations |  |  |
-| Hyperesthesia | 0% | 5% |
-| Paraesthesia | 6% | 10% |
-| Ear/Nose/Throat |  |  |
-| Disorder/Discomfort of nasal cavity | 2% | 3% |
-| Pain and Pressure Sensations |  |  |
-| Pain Location Specified | 1% | 4% |
-| Pain Throat | 1% | 4% |
-| Tightness Throat | 1% | 2% |
-| Digestive |  |  |
-| Dry Mouth | 0% | 2% |
-| Nausea | 1% | 4% |
-| Neurological |  |  |
-| Somnolence | 2% | 4% |
-| Unusual Taste | 3% | 21% |
-| Other |  |  |
-| Asthenia | 1% | 3% |
+In Study 1, adverse clinical reactions occurring in ≥1% and < 2% of patients in all attacks in either zolmitriptan nasal spray dose group and with incidence greater than that of placebo were pain abdominal, chills, pressure throat, edema face, pressure chest, palpitation, dysphagia, arthralgia, myalgia, and depersonalization.
 
-Adverse clinical reactions occurring in ≥ 1% and < 2% of patients in all attacks of the controlled clinical trial were pain abdominal, pressure throat, vomiting, headache, tightness chest, dysphagia, insomnia, palpitation and reaction aggravation.
-
-The incidence of adverse reactions in controlled clinical trials was not affected by gender, weight, or age of the patients (18-39 vs. 40-65 years of age), or presence of aura.
+The incidence of adverse reactions in controlled clinical trials was not affected by gender, weight, or age of the patients (18 39 vs. 40 65 years of age), or presence of aura.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
 
 Local Adverse Reactions:
 
-Among 922 patients using the zolmitriptan nasal spray to treat 2311 attacks in the controlled clinical study who were exposed, across all doses (0.5 to 5 mg), approximately 3% noted local irritation or soreness at the site of administration.
-Adverse reactions of any kind, perceived in the nasopharynx (which may include systemic effects of triptans) were severe in about 1% of patients and approximately 60% resolved in 1 hour.
+Among 460 patients using ZOMIG 2.5 mg or 5 mg in the controlled clinical trial, approximately 3% noted local irritation or soreness at the site of administration.
+Adverse reactions of any kind, perceived in the nasopharynx (which may include systemic effects of triptans) were severe in about 1% of patients and approximately 57% resolved in 1 hour.
 Nasopharyngeal examinations, in a subset of patients participating in two long term trials of up to one year duration, failed to demonstrate any clinically significant changes with repeated use of ZOMIG Nasal Spray.
 
 All nasopharyngeal adverse reactions with an incidence of ≥ 2% of patients in any zolmitriptan nasal spray dose groups are included in ADVERSE REACTIONS Table 1.
@@ -61,101 +70,36 @@ Reaction frequencies are calculated as the number of patients who used ZOMIG Nas
 All reported reactions are included except those already listed in the previous table, those too general to be informative, and those not reasonably associated with the use of the drug.
 Reactions are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients and rare adverse reactions are those occurring in fewer than 1/1,000 patients.
 
-Body:
+General: Infrequent: allergic reactions.
 
-Infrequent: allergic reaction, back pain, chills, cyst, flu syndrome, infection, jaw pain, pressure other, jaw tightening, edema of the face, abnormal laboratory test, neck pain, neoplasm, and neck tightness, chest heaviness, chest pain, and chest pressure
+Cardiovascular: Infrequent: arrhythmias, hypertension, syncope and tachycardia.
+Rare: angina pectoris and myocardial infarct.
 
-Rare: cellulitis, fever, jaw pressure, and neck heaviness
+Digestive: Rare: stomatitis.
 
-Cardiovascular:
+Neurological: Infrequent: agitation, amnesia, anxiety, depression, insomnia, and nervousness.
+Rare: convulsions.
 
-Infrequent: arrhythmias, hypertension, syncope, thrombophlebitis, and tachycardia
+Respiratory: Infrequent: bronchitis, increased cough, dyspnea, epistaxis, laryngeal edema, pharyngitis, rhinitis, and sinusitis.
 
-Rare: angina pectoris, bradycardia, atrial fibrillation, myocardial infarct, vasodilation, and vascular disorder
+Skin: Infrequent: pruritus, rash, and urticaria.
 
-Digestive:
+Urogenital: Infrequent: polyuria and urinary urgency.
+Rare: urinary frequency.
 
-Infrequent: diarrhea, dyspepsia, tongue edema, gastrointestinal disorder, increased saliva, and thirst
+Special senses: Infrequent: tinnitus.
+Rare: conjunctivitis, dry eye, and visual field defect.
 
-Rare: increased appetite, colitis, constipation, eructation, gastritis, gastrointestinal carcinoma, gingivitis, hepatic neoplasia, intestinal obstruction, jaundice, sialadenitis, and stomatitis
+The adverse experience profile seen with ZOMIG Nasal Spray is similar to that seen with ZOMIG tablets and ZOMIG/ZMT tablets except for the occurrence of local adverse reactions from the nasal spray (see ZOMIG tablet/ZOMIG‑ZMT oral disintegrating tablet Prescribing Information).
 
-Endocrine System:
-
-Rare: hyperthyroidism and thyroid edema
-
-Hemic:
-
-Infrequent: cyanosis
-
-Rare: ecchymosis, lymphadenopathy and leukopenia
-
-Metabolic Nutritional:
-
-Rare: increased weight, dehydration, and peripheral edema
-
-Musculoskeletal:
-
-Infrequent: arthralgia, joint disorder, and myalgia
-
-Rare: bone pain, osteoporosis, tenosynovitis and twitching
-
-Nervous System:
-
-Infrequent: agitation, amnesia, anxiety, ataxia, abnormal coordination, confusion, depersonalization, depression, hypertonia, insomnia, nervousness, speech disorder, abnormal thinking, tremor, vertigo, and circumoral paresthesia
-
-Rare: apathy, convulsions, abnormal dreams, euphoria, hypertonia, irritability, tardive dyskinesia, manic reaction, neuropathy, and psychosis
-
-Respiratory:
-
-Infrequent: bronchitis, increased cough, dyspnea, epistaxis, laryngeal edema, pharyngitis, rhinitis, sinusitis, throat discomfort, and voice alteration
-
-Rare: hiccup, hyperventilation, laryngitis, pneumonia, increased sputum, and yawning
-
-Skin:
-
-Infrequent: pruritus, rash, skin disorder, and sweating
-
-Rare: eczema, erythema, erythema multiform, hair disorder, and neoplasm
-
-Special Senses:
-
-Infrequent: amblyopia, disorder of lacrimation, ear pain, eye pain, parosmia and tinnitus
-
-Rare: conjunctivitis, dry eye, photophobia, and visual field defect
-
-Urogenital:
-
-Infrequent: polyuria and menorrhagia
-
-Rare: breast carcinoma, dysmenorrhea, metrorrhagia, breast neoplasm, unintended pregnancy, suspicious PAP smear, uterine disorder, enlarged uterine fibroids, fibrocytic breast, vaginitis, urogenital neoplasm, cystitis, urinary tract infection, kidney pain, pyelonephritis, urinary frequency, urine impaired, and urinary tract disorder
-
-The adverse experience profile seen with ZOMIG Nasal Spray is similar to that seen with ZOMIG tablets and ZOMIG-ZMT tablets except for the occurrence of local adverse reactions from the nasal spray (see ZOMIG Tablet Prescribing Information).
-
-## 6.2 Postmarketing Experience with ZOMIG Tablets
+## 6.2 Postmarketing Experience
 
 The following adverse reactions were identified during post approval use of ZOMIG.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following section enumerates potentially important adverse reactions that have occurred in clinical practice and which have been reported spontaneously to various surveillance systems.
-The reactions enumerated represent reports arising from both domestic and non-domestic use of oral zolmitriptan.
-The reactions enumerated include all except those already listed in the ADVERSE REACTIONS section above or those too general to be informative.
-Because the reports cite reactions reported spontaneously from worldwide postmarketing experience, frequency of reactions and the role of zolmitriptan in their causation cannot be reliably determined.
+The reactions enumerated include all except those already listed in the Clinical Trials Experience section above or the Warnings and Precautions section.
 
-Cardiovascular:
+Hypersensitivity Reactions:
 
-Coronary artery vasospasm, transient myocardial ischemia, angina pectoris, and myocardial infarction.
-
-Digestive:
-
-Very rare gastrointestinal ischemic reactions including splenic infarction, ischemic colitis and gastrointestinal infarction or necrosis have been reported; these may present as bloody diarrhea or abdominal pain [see Warnings and Precautions (5.4)].
-
-General:
-
-As with other 5-HT1B/1D agonists, there have been very rare reports of anaphylaxis or anaphylactoid reactions in patients receiving ZOMIG.
-There have been rare reports of hypersensitivity reactions, including angioedema.
-
-Serotonin syndrome has also been reported during the postmarketing period [see Warnings and Precautions (5.5)].
-
-Neurological:
-
-As with other acute migraine treatments including other 5HT1 agonists, there have been rare reports of headache.
+As with other 5 HT1B/1D agonists, there have been reports of anaphylaxis, anaphylactoid, and hypersensitivity reactions including angioedema in patients receiving ZOMIG.
+ZOMIG is contraindicated in patients with a history of hypersensitivity reaction to ZOMIG.

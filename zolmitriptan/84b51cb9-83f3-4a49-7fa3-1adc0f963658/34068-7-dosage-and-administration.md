@@ -1,22 +1,25 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Acute Treatment of Migraine Attacks
+## 2.1 Dosing Information
 
-Administer one dose of ZOMIG Nasal Spray 5 mg for the treatment of acute migraine.
-If the headache returns, the dose may be repeated after 2 hours.
-The effectiveness of a second dose has not been established in placebo-controlled trials.
-The maximum daily dose should not exceed 10 mg in any 24-hour period.
+The recommended starting dose for ZOMIG nasal spray is 2.5 mg.
+As the individual response to ZOMIG Nasal spray may vary, the dose should be adjusted on an individual basis.
+The maximum recommended single dose of ZOMIG is 5 mg.
 
-In controlled clinical trials, single doses of 5 mg of zolmitriptan nasal spray were administered into one nostril and were effective for the treatment of acute migraines in adults.
+In controlled clinical trials, a greater proportion of patients had headache response following a 2.5 mg or 5 mg dose than following a 1 mg dose.
+There was little added benefit from the 5 mg dose compared to the 2.5 mg dose, but adverse reactions were more frequent with the 5 mg dose.
 
-Individuals may vary in response to ZOMIG Nasal Spray.
-The pharmacokinetics of a 5 mg nasal spray dose is similar to the 5 mg oral formulations.
-Doses lower than 5 mg can only be achieved through the use of an oral formulation.
-The choice of dose, and route of administration should therefore be made on an individual basis.
+If the migraine has not resolved by 2 hours after taking ZOMIG, or returns after a transient improvement, another dose may be administered at least 2 hours after the previous dose.
 
-The safety of treating an average of more than four headaches in a 30-day period has not been established.
+The maximum daily dose should not exceed 10 mg in any 24‑hour period.
 
-## 2.2 Hepatic Impairment
+The safety of ZOMIG in the treatment of an average of more than four headaches in a 30‑day period has not been established.
 
-Patients with moderate to severe hepatic impairment have decreased clearance of zolmitriptan and significant elevation in blood pressure was observed in some patients.
-Use of doses less than 2.5 mg of an alternate formulation with blood pressure monitoring is recommended [see Clinical Pharmacology (12.3)andWarnings and Precautions (5.6)].
+## 2.2 Dosing in Patients with Hepatic Impairment
+
+ZOMIG nasal spray is not recommended in patients with moderate to severe hepatic impairment because of increased zolmitriptan blood levels in these patients and elevation of blood pressure in some of these patients.
+The recommended dosage of ZOMIG nasal spray in patients with mild hepatic impairment is the same as for patients with normal hepatic function [see Dosage and Administration 2.1), Warnings and Precautions (5.8), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+## 2.3 Dosing in Patients taking Cimetidine
+
+If ZOMIG is co‑administered with cimetidine, limit the maximum single dose of ZOMIG to 2.5 mg, not to exceed 5 mg in any 24‑hour period [see Drug Interactions (7.4) and Clinical Pharmacology (12.3)].

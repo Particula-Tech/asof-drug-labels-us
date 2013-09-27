@@ -1,4 +1,10 @@
-# 17.5 Approved Patient Labeling
+# PATIENT INFORMATION
+
+ZOMIG® (Zo-mig)
+
+(zolmitriptan)
+
+Nasal Spray
 
 Please read this information before you start taking ZOMIG Nasal Spray and each time you renew your prescription just in case anything has changed.
 Remember, this summary does not take the place of discussions with your doctor.
@@ -6,143 +12,172 @@ You and your doctor should discuss ZOMIG Nasal Spray when you start taking your 
 
 What is ZOMIG Nasal Spray?
 
-ZOMIG Nasal Spray is a prescription medication used to treat migraine headaches in adults.
+ZOMIG Nasal Spray is a prescription medicine used to treat migraine headaches with or without aura in adults.
+
 ZOMIG Nasal Spray is not for other types of headaches.
-The safety and efficacy of ZOMIG in patients under 18 have not been established.
 
-What is a Migraine Headache?
+ZOMIG Nasal Spray is not for the prevention of migraine headaches.
 
-Migraine is an intense, throbbing headache.
-You may have pain on one or both sides of your head.
-You may have nausea and vomiting, and be sensitive to light and noise.
-The pain and symptoms of a migraine headache can be worse than a common headache.
-Some women get migraines around the time of their menstrual period.
-Some people have visual symptoms before the headache, such as flashing lights or wavy lines, called an aura.
+It is not known if ZOMIG Nasal Spray is safe and effective to treat cluster headaches.
 
-How does ZOMIG Nasal Spray work?
+ZOMIG Nasal Spray is not for people with moderate or severe liver problems (hepatic impairment).
 
-Treatment with ZOMIG Nasal Spray reduces swelling of blood vessels surrounding the brain.
-This swelling is associated with the headache pain of a migraine attack.
-ZOMIG Nasal Spray blocks the release of substances from nerve endings that cause more pain and other symptoms like nausea, and sensitivity to light and sound.
-It is thought that these actions contribute to relief of your symptoms by ZOMIG Nasal Spray.
+It is not known if ZOMIG Nasal Spray is safe and effective in children.
 
-Who should not take ZOMIG Nasal Spray?
+Who should not use ZOMIG Nasal Spray?
 
-Do not take ZOMIG Nasal Spray if you:
+Do not use ZOMIG Nasal Spray if you have:
 
-- •Have heart disease or a history of heart disease
-- •Have uncontrolled high blood pressure
-- •Have hemiplegic or basilar migraine (if you are not sure about this, ask your doctor)
-- •Have or had a stroke or problems with your blood circulation
-- •Have serious liver problems
-- •Have taken any of the following medicines in the last 24 hours: other “triptans” like almotriptan (AXERT®), eletriptan (RELPAX®), frovatriptan (FROVA®), naratriptan (AMERGE®), rizatriptan (MAXALT®), sumatriptan (IMITREX®), sumatriptan/naproxen (TREXIMET); ergotamines like BELLERGAL-S®, CAFERGOT®, ERGOMAR®, WIGRAINE®; dihydroergotamine like D.H.E.
-  45® or MIGRANAL®; or methysergide (SANSERT®).
-  These medications have side effects similar to ZOMIG Nasal Spray.
-- •Have taken monoamine oxidase (MAO) inhibitors such as phenelzine sulfate (NARDIL®) or tranylcypromine sulfate (PARNATE®) for depression or other conditions, or if it has been less than 2 weeks since you stopped taking a MAO inhibitor.
-- •Are allergic to ZOMIG Nasal Spray or any of its ingredients.
-  The active ingredient is zolmitriptan.
-  The inactive ingredients are listed at the end of this leaflet.
+- •heart problems, a history of heart problems, or problems with the electrical system of your heart.
+- •had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
+- •hemiplegic migraines or basilar migraines.
+  If you are not sure if you have these types of migraines ask your healthcare provider.
+- •narrowing of blood vessels to your legs, arms, or stomach (peripheral vascular disease)
+- •uncontrolled high blood pressure
+- •used certain medicines called 5-HT1 agonists (“triptans”) such as almotriptan (AXERT®), eletriptan (RELPAX®), frovatriptan (FROVA®), naratriptan (AMERGE®), rizatriptan (MAXALT®), sumatriptan (IMITREX®), sumatriptan/naproxen (TREXIMET®); medicines that contain ergotamine, or ergot medicines such as BELLERGAL-S®, CAFERGOT®, ERGOMAR®, WIGRAINE®; dihydroergotamine like D.H.E.
+  45® or MIGRANAL®; or methysergide (SANSERT®) in the last 24 hours.
+  Ask your doctor or pharmacist for a list of these medicines if you are not sure.
+- •are taking a monoamine oxidase A inhibitor (MAO-A inhibitor) or you stopped taking a MAO-A inhibitor in the last 14 days.
+  Ask your doctor if you are not sure if you take an MAO-A inhibitor such as phenelzine sulfate (NARDIL®) or tranylcypromine sulfate (PARNATE®).
+- •are allergic to zolmitriptan or any of the ingredients in ZOMIG Nasal Spray.
+- •See the end of this leaflet for a complete list of ingredients in ZOMIG Nasal Spray.
 
-Tell your doctor about all the medicines you take or plan to take, including prescription and nonprescription medicines, supplements, and herbal remedies.
+What should I tell my doctor before using ZOMIG Nasal Spray?
 
-Tell your doctor if you are taking selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), two types of drugs for depression or other disorders.
-Common SSRIs are CELEXA® (citalopram HBr), LEXAPRO® (escitalopram oxalate), PAXIL® (paroxetine), PROZAC® (fluoxetine), SYMBYAX® (olanzapine/fluoxetine), ZOLOFT® (sertraline), SARAFEM® (fluoxetine) and LUVOX® (fluvoxamine).
-Common SNRIs are CYMBALTA® (duloxetine) and EFFEXOR® (venlafaxine).
-Your doctor will decide if you can take ZOMIG Nasal Spray with your other medicines.
+Before using ZOMIG Nasal Spray, tell your doctor about all your medical conditions, including if you:
 
-Tell your doctor if you know that you have any of the following: risk factors for heart disease like high cholesterol, diabetes, smoking, obesity (overweight), menopause, or a family history of heart disease or stroke.
+- •have high blood pressure
+- •have high cholesterol
+- •have diabetes
+- •smoke
+- •are overweight
+- •are a female who has gone through menopause
+- •have heart disease or a family history of heart disease or stroke
+- •have liver problems
+- •are pregnant or plan to become pregnant.
+  It is not known if ZOMIG Nasal Spray will harm your unborn baby.
+- •are breastfeeding or plan to breastfeed.
+  It is not known if ZOMIG Nasal Spray passes into your breast milk.
+  You and your doctor should decide if you will use ZOMIG Nasal Spray or breastfeed.
+- •Tell your doctor about all the medicines you take, including prescription and over the counter medicines, vitamins and herbal supplements.
+- •Especially tell your doctor if you take:
+- •medicines used to treat mood disorders, including selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs) or monoamine oxidase inhibitors (MAOIs).
+- •cimetidine
 
-Tell your doctor if you are pregnant, planning to become pregnant, breast feeding, planning to breast feed, or not using effective birth control.
+How should I use ZOMIG NASAL Spray?
 
-How should I take ZOMIG NASAL Spray?
+For detailed instructions, see the step-by-step instructions for using ZOMIG Nasal Spray at the end of this Patient Information.
 
-The ZOMIG Nasal Spray device is a blue colored plastic sprayer device with a gray protection cap, labeled to indicate the dose.
-For adults, the usual dose is a single nasal spray taken into one nostril.
-If your headache comes back after your first dose, you may take a second dose anytime after 2 hours of taking the first dose.
-For any attack where the first dose didn’t work, do not take a second dose without talking with your doctor.
-Do not take more than a total of 10 mg of ZOMIG (tablets or spray combined) in any 24-hour period.
-If you take too much medicine, contact your doctor, hospital emergency department, or poison control center right away.
+- •Certain people should take their first dose of ZOMIG Nasal Spray in their doctor’s office or in another medical setting.
+  Ask your doctor if you should take your first dose in a medical setting.
+- •Use ZOMIG Nasal Spray exactly as your doctor tells you to use it.
+- •Your doctor may change your dose.
+  Do not change your dose without first talking with your doctor.
+- •If your headache comes back after using one nasal spray or you only get some relief from your headache, you can use another nasal spray 2 hours after the previous nasal spray.
+- •Do not use more than a total of 10 mg of ZOMIG Nasal Spray in any 24 hour period.
+- •It is not known if it is safe and effective to use ZOMIG Nasal Spray for more than 4 headaches in 30 days.
+- •Some people who use too much ZOMIG Nasal Spray may have worse headaches (medication overuse headaches).
+  If your headaches get worse, your doctor may decide to stop your treatment with ZOMIG Nasal Spray.
+- •If you use too much ZOMIG Nasal Spray, call your doctor or go to the nearest hospital emergency room right away.
+- •You should write down when you have headaches and when you take ZOMIG Nasal Spray so you can talk to your doctor about how ZOMIG Nasal Spray is working for you.
 
-The ZOMIG Nasal Spray device consists of the following parts:
+What should I avoid while using ZOMIG Nasal Spray?
 
-1. A.The Tip: This is the part that you put into your nostril.
-   The medicine comes out of a tiny hole in the top.
-2. B.The Protective Cap: This covers the tip to protect it.
-   Do not remove the protective cap until just before you are ready to take your ZOMIG Nasal Spray.
-3. C.The Finger-grip: This is the part that you hold when you use the sprayer.
-4. D.The Plunger: This is the part that you press when you put the tip into your nostril.
-   This sprayer works only once.
-
-Steps for using ZOMIG Nasal Spray (Please read all steps before using for the first time):
-
-1. 1.Blow your nose gently before use.
-   Remove the protective cap (B) (Figure 1).
-   Hold the nasal sprayer device gently with your fingers and thumb as shown in the picture to the right (Figure 2).
-   There is only one dose in the nasal sprayer.
-   Do not try to prime the nasal sprayer or you will lose the dose.
-   Do not press the plunger until you have put the tip into your nostril or you will lose the dose.
-
-1. 2.Block one nostril by pressing firmly on the side of your nose (Figure 3).
-   Either nostril can be used.
-   Put the tip (A) of the sprayer device into the other nostril as far as feels comfortable and tilt your head slightly as shown in the picture to the right (Figure 4).
-2. Do not press the plunger yet.
-3. Do not spray the contents of the device in your eyes.
-
-1. 3.Breathe in gently through your nose and at the same time press the plunger (D) firmly with your thumb.
-   The plunger may feel stiff and you may hear a click.
-   Keep your head slightly tilted back and remove the tip from your nose.
-   Breathe gently through your mouth for 5-10 seconds.
-   You may feel liquid in your nose or the back of your throat.
-   This is normal and will soon pass.
+ZOMIG Nasal Spray can cause dizziness, weakness, or drowsiness.
+If you have these symptoms do not drive a car, use machinery, or do anything that needs you to be alert.
 
 What are the possible side effects of ZOMIG Nasal Spray?
 
-ZOMIG Nasal Spray is generally well tolerated.
-As with any medicine, people taking ZOMIG Nasal Spray may have side effects.
-The side effects are usually mild and do not last long.
+ZOMIG Nasal Spray can cause serious side effects.
+
+Call your doctor right away if you have any of the following symptoms after using ZOMIG Nasal Spray:
+
+- •Heart attack and other heart problems.
+  Heart problems may lead to death.
+  Stop taking ZOMIG Nasal Spray and get emergency medical help right away if you have any of the following symptoms of a heart attack or other heart problems:
+  - ∘discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
+  - ∘chest pain or chest discomfort that feels like heavy pressure, squeezing, or fullness
+  - ∘pain or discomfort in your arms, back, neck, jaw, or stomach
+  - ∘shortness of breath with or without chest discomfort
+  - ∘breaking out in a cold sweat
+  - ∘feeling lightheaded
+  - ∘nausea or vomiting with any of the symptoms included above
+- •stroke.
+  Symptoms of stroke include face drooping, slurred speech, and unusual weakness or numbness.
+- •changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
+- •stomach and intestinal problems (gastrointestinal and colonic ischemic events).
+  Symptoms of gastrointestinal and colonic ischemic events include:
+  - ∘sudden or severe stomach pain
+  - ∘stomach pain after meals
+  - ∘weight loss
+  - ∘nausea or vomiting
+  - ∘constipation or diarrhea
+  - ∘bloody diarrhea
+  - ∘fever
+- •problems with blood circulation to your legs and feet (peripheral vascular ischemia).
+  Symptoms of peripheral vascular ischemia include:
+  - ∘cramping and pain in your legs or hips
+  - ∘feeling of heaviness or tightness in your leg muscles
+  - ∘burning or aching pain in your feet or toes while resting
+  - ∘numbness, tingling, or weakness in your legs
+  - ∘cold feeling or color changes in 1 or both legs or feet
+- •serotonin syndrome.
+  Serotonin syndrome is a serious and life-threatening problem that can happen in people using ZOMIG Nasal Spray, especially if ZOMIG Nasal Spray is used with anti-depressant medicines called selective serotonin reuptake inhibitors (SSRIs) or selective norephinephrine reuptake inhibitors (SNRIs).
+
+Ask your doctor or pharmacist for a list of these medicines if you are not sure.
+
+Call your doctor right away if you have any of the following symptoms of serotonin syndrome:
+
+- 
+  - ∘mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  - ∘fast heartbeat
+  - ∘changes in blood pressure
+  - ∘high body temperature
+  - ∘tight muscles
+  - ∘trouble walking
+  - ∘nausea, vomiting, or diarrhea
+- •increased blood pressure
+- •allergic reactions.
+  Symptoms of an allergic reaction include:
+  - ∘rash
+  - ∘hives
+  - ∘itching
+  - ∘swelling of the face, mouth throat, or tongue
+  - ∘difficulty breathing
 
 The most common side effects of ZOMIG Nasal Spray are:
 
-- •unusual taste, dry mouth
-- •tingling sensation, skin sensitivity, especially around the nose
-- •pain, pressure, and tightness sensations (eg, in the nose, throat, or chest)
-- •drowsiness, weakness, dizziness
-- •nausea
+- 
+  - ∘unusual taste
+  - ∘numbness
+  - ∘dizziness
+  - ∘skin sensitivity (hyperparesthesia)
 
-In very rare cases, patients taking triptans may experience serious side effects, such as heart attacks, high blood pressure, stroke, or serious allergic reactions.
-Extremely rarely, patients have died.
-Call your doctor right away if you have any of the following problems after taking ZOMIG Nasal Spray:
+These are not all the possible side effects of ZOMIG Nasal Spray.
+For more information ask your doctor or pharmacist.
 
-- •severe tightness, pain, pressure or heaviness in your chest, throat, neck, or jaw
-- •shortness of breath or wheezing
-- •sudden or severe stomach pain
-- •hives; tongue, mouth, or throat swelling
-- •problems seeing
-- •unusual weakness or numbness
+Call your doctor for medical advice about side effects.
 
-Some people may have a reaction called serotonin syndrome, which can be life-threatening, when they use ZOMIG.
-In particular, this reaction may occur when they use ZOMIG together with certain types of antidepressants known as SSRIs or SNRIs.
-Symptoms may include mental changes (hallucinations, agitation, coma), fast heartbeat, changes in blood pressure, high body temperature or sweating, tight muscles, trouble walking, nausea, vomiting, and diarrhea.
-Call your doctor immediately if you have any of these symptoms after taking ZOMIG.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-This is not a complete list of side effects.
-Talk to your doctor if you develop any symptoms that concern you.
+How should I store ZOMIG Nasal Spray?
 
-What to do in case of an overdose?
+Store ZOMIG Nasal Spray at room temperature between 68°F to 77°F (20°C 25°C).
 
-Call your doctor or poison control center or go to the ER.
+Keep ZOMIG Nasal Spray and all medicines out of the reach of children.
 
-General advice about ZOMIG Nasal Spray
+General information about the safe and effective use of ZOMIG Nasal Spray.
 
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
 Do not use ZOMIG Nasal Spray for a condition for which it was not prescribed.
-Do not give ZOMIG Nasal Spray to other people, even if they have the same symptoms as you.
-People may be harmed if they take medicines that have not been prescribed for them.
+Do not give ZOMIG Nasal Spray to other people, even if they have the same symptoms that you have.
+It may harm them.
 
 This leaflet summarizes the most important information about ZOMIG Nasal Spray.
-If you would like more information about ZOMIG Nasal Spray, talk to your doctor.
-You can ask your doctor or pharmacist for information on ZOMIG Nasal Spray that is written for health professionals.
-You can also call 1-877-994-6729 or visit our web site at www.ZOMIG.com.
+If you would like more information, talk to your doctor.
+You can ask your pharmacist or doctor for information about ZOMIG Nasal Spray that is written for health professionals.
+
+For more information go to www.ZOMIG.com or call 1 877 994 6729.
 
 What are the Ingredients in ZOMIG Nasal Spray?
 
@@ -150,23 +185,74 @@ Active ingredient: zolmitriptan
 
 Inactive ingredients: anhydrous citric acid, dibasic sodium phosphate, and purified water
 
-Store your medication at controlled room temperature, 20-25°C (68-77°F), and away from children.
-Discard after use or when it expires.
+Instructions for Use
+
+ZOMIG® (Zo-mig)
+
+(zolmitriptan)
+
+Nasal Spray
+
+Important: For use in your nose only.
+Do not spray in your eyes.
+
+Note: There is only 1 dose in the nasal sprayer.
+Do not try to prime the nasal sprayer or you will lose the dose.
+Do not press the plunger until you have put the tip into your nostril or you will lose the dose.
+
+Steps for using ZOMIG Nasal Spray:
+
+Step 1.
+Remove the ZOMIG Nasal Spray unit from the single use package it comes in.
+Do not remove the unit until you are ready to use it.
+The unit contains only 1 spray.
+
+Step 2.
+Blow your nose gently to clear your nasal passages before use.
+
+Step 3.
+Remove the protective cap (See Figure A).
+
+Step 4.
+Keeping your head in an upright position, gently close 1 nostril with your index finger and breathe out gently through your mouth.
+(See Figure B). Either nostril can be used.
+
+Step 5.
+With your other hand, hold the container with your thumb supporting the container at the bottom, and your index and middle fingers on each side of the nozzle.
+(See Figure C).
+
+Insert the tip of the sprayer device into your open nostril as far as feels comfortable and tilt your head slightly (See FigureD).
+
+Do not press the plunger yet.
+
+Step 6.
+Breathe in gently through your nose and at the same time press the plunger firmly with your thumb to release your dose of ZOMIG Nasal Spray (See Figure D)
+
+The plunger may feel stiff and you may hear a click.
+Keep your head slightly tilted back and remove the tip from your nose.
+Breathe gently through your mouth for 5 to 10 seconds.
+You may feel liquid in your nose or the back of your throat.
+This is normal.
+
+Step 7.
+Dispose the ZOMIG Nasal Spray device after completing the full dose or as soon as it becomes outdated or no longer needed.
+Dispose of properly.
+Keep out of reach of children.
+Do not reuse.
+
+This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 ZOMIG is a registered trademark of the AstraZeneca group of companies.
 
 Other brands mentioned are trademarks of their respective owners and are not trademarks of the AstraZeneca group of companies.
 The makers of these brands are not affiliated with AstraZeneca or its products.
 
-©AstraZeneca 2012
+©AstraZeneca 2013
+
+Revised 09-2013
 
 Distributed by:
 
 Impax Pharmaceuticals, a division of Impax Laboratories, Inc.
 
 Hayward, CA 94544
-
-Rev.
-03/2012
-
-P033204
