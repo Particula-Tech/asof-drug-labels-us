@@ -80,7 +80,7 @@ Do not use Skyla if you:
 - •Have had a serious pelvic infection in the past 3 months after a pregnancy
 - •Can get infections easily.
   For example, if you have:
-  - ∘Multiple sexual partners or your partner has multiple sexual partners
+  - •Multiple sexual partners or your partner has multiple sexual partners
 - •Problems with your immune system
 - •Intravenous drug abuse
 - •Have or suspect you might have cancer of the uterus or cervix
@@ -194,7 +194,9 @@ Skyla can cause serious side effects, including:
   PID is usually treated with antibiotics.
   More serious cases of PID may require surgery.
   A hysterectomy (removal of the uterus) is sometimes needed.
-  In rare cases, infections that start as PID can even cause death.Tell your healthcare provider right away if you have any of these signs of PID: long-lasting or heavy bleeding, unusual vaginal discharge, low abdominal (stomach area) pain, painful sex, chills, or fever.
+  In rare cases, infections that start as PID can even cause death.
+- Tell your healthcare provider right away if you have any of these signs of PID: long-lasting or heavy bleeding, unusual vaginal discharge, low abdominal (stomach area) pain, painful sex, chills, or fever.
+
 - •Life-threatening infection.
   Life-threatening infection can occur within the first few days after Skyla is placed.
   Call your healthcare provider immediately if you develop severe pain or fever shortly after Skyla is placed.
@@ -273,6 +275,4 @@ Manufactured in Finland
 
 © 2013, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
 
-Approved: February 2013
-
-6704801
+Approved: Sep 2013
