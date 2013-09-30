@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA202046"
+  ],
+  "inn": "levocetirizine",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-122-11",
+    "42571-122-32",
+    "42571-122-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Levocetirizine Dihydrochloride"
+    }
+  ],
+  "setid": "717eb542-3a05-485e-be76-3930efb40d33",
+  "source": "dailymed"
+}
