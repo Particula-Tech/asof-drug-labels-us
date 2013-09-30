@@ -9,9 +9,9 @@ Via Emilia, 21, 27100 - Pavia, Italy
 
 Copyright © 1995, 1997, 2000, 2010, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 04/2013
+Revised: 07/2013
 
-uspi-mf-02171304r016
+uspi-0217-mf-1307r017
 
 Distributed by:
 
