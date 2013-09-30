@@ -74,5 +74,6 @@ Other Reactions
 7. urinary bladder spasm
 8. thrombophlebitis
 9. fever
+10. Pseudo-Bartter Syndrome
 
 Whenever adverse reactions are moderate or severe, LASIX dosage should be reduced or therapy withdrawn.
