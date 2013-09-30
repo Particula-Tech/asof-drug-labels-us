@@ -5,6 +5,7 @@
   "inn": "methylprednisolone",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
+    "0009-0020-01",
     "0009-0022-01",
     "0009-0049-02",
     "0009-0056-02",

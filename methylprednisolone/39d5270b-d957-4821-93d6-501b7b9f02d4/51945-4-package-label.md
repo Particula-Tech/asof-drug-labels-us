@@ -57,3 +57,17 @@ Medrol® methylprednisolone tablets, USP
 32 mg
 
 Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+
+# PRINCIPAL DISPLAY PANEL - 2-mg Tablet Label
+
+Pfizer
+
+NDC 0009-0020-01
+
+Medrol® methylprednisolone tablets, USP
+
+2 mg
+
+100 Tablets Rx only
+
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017

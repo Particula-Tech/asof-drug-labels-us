@@ -6,6 +6,10 @@ MEDROL Tablets are available in the following strengths and package sizes:
 
 Bottles of 100 NDC 0009-0049-02
 
+2 mg (white, elliptical, scored, imprinted MEDROL 2)
+
+Bottles of 100 NDC 0009-0020-01
+
 4 mg (white, elliptical, scored, imprinted MEDROL 4)
 
 Bottles of 100 NDC 0009-0056-02
