@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information)
+See FDA-approved patient labeling (Patient Information)
 
 Inform the patient to adhere to the following instructions:
 
@@ -13,4 +13,14 @@ Inform the patient to adhere to the following instructions:
 - •Avoid fire, flame, and smoking during and immediately following application since SORILUX Foam is flammable.
 - •Do not place SORILUX Foam in the refrigerator or freezer.
 
-SOR:5PI
+SORILUX is a trademark of Stiefel Laboratories, Inc.
+
+Manufactured for
+
+Stiefel Laboratories, Inc.
+
+Research Triangle Park, NC 27709
+
+©2013, Stiefel Laboratories, Inc.
+
+SOR:6PI

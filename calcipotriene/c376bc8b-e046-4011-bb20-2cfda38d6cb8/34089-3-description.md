@@ -8,5 +8,5 @@ The structural formula is represented below:
 Molecular Formula: C27H40O3 Molecular Weight: 412.6
 
 Calcipotriene is a white or off-white crystalline substance.
-SORILUX Foam contains calcipotriene 50 mcg/g in an aqueous-based emulsion foam vehicle consisting of cetyl alcohol, dibasic sodium phosphate, edetate disodium, isopropyl myristate, light mineral oil, polyoxyl 20 cetostearyl ether, propylene glycol, purified water, stearyl alcohol, dl-α-tocopherol, and white petrolatum.
+SORILUX Foam contains calcipotriene 50 mcg/g in an aqueous-based emulsion foam vehicle consisting of cetyl alcohol, dibasic sodium phosphate, dl-α-tocopherol, edetate disodium, isopropyl myristate, light mineral oil, polyoxyl 20 cetostearyl ether, propylene glycol, purified water, stearyl alcohol, and white petrolatum.
 SORILUX Foam is dispensed from an aluminum can pressurized with a hydrocarbon (propane/n-butane/isobutane) propellant.

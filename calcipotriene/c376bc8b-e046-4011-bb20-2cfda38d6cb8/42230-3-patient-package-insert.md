@@ -1,3 +1,8 @@
+| PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT |
+| --- |
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
 Patient Information
 
 SORILUX (SOR-i-lux)
@@ -47,7 +52,7 @@ How should I use SORILUX Foam?
 - •Apply SORILUX Foam exactly as prescribed.
   SORILUX Foam is usually applied to the affected skin areas two times each day.
 - •SORILUX Foam is for use on the skin only.
-  Do not get SORILUX Foam in your eyes, mouth or vagina.
+  Do not get SORILUX Foam in your eyes, mouth, or vagina.
 - •SORILUX Foam is flammable.
   Avoid fire, flame, or smoking during and right after you apply SORILUX Foam to your skin.
 - •Avoid excessive natural or artificial sunlight including tanning booths and sunlamps.
@@ -60,16 +65,22 @@ Before applying SORILUX Foam for the first time, break the tiny plastic piece at
 See Figure A.
 
 2.
-Shake the SORILUX Foam can before use.
+Shake the can of SORILUX Foam before use.
 See Figure B.
 
+Figure B
+
 3.
-Turn the SORILUX Foam can upside down and press the nozzle.
+Turn the can of SORILUX Foam upside down and press the nozzle.
 See Figure C.
+
+Figure C
 
 4.
 Dispense a small amount of SORILUX Foam into the palm of your hand.
 See Figure D.
+
+Figure D
 
 5.
 Use enough SORILUX Foam to cover the affected area with a thin layer.
@@ -78,11 +89,15 @@ Part your hair and apply directly on the affected area.
 Gently rub the foam into the affected area until it disappears into the skin.
 See Figures E, F and G.
 
-Figure E Figure F Figure G
+Figure E
+
+Figure F
+
+Figure G
 
 6.
 Avoid getting SORILUX Foam on your face or in or near the eyes, mouth, or vagina.
-If Sorilux Foam gets on your face or in or near your eyes, rinse with water.
+If SORILUX Foam gets on your face or in or near your eyes, rinse with water.
 Wash hands after applying SORILUX Foam unless your hands are a treated area.
 
 What are the possible side effects of SORILUX Foam?
@@ -106,7 +121,7 @@ How should I store SORILUX Foam?
   Keep the can away from all sources of fire and heat.
 - •Do not spray SORILUX Foam near fire or direct heat.
   Never throw the can into a fire, even if the can is empty.
-- •Do not puncture the SORILUX Foam can.
+- •Do not puncture the can of SORILUX Foam.
 
 Keep SORILUX Foam and all medicines out of the reach of children.
 
@@ -125,10 +140,12 @@ What are the ingredients of SORILUX Foam?
 
 Active ingredient: calcipotriene
 
-Inactive Ingredients: cetyl alcohol, dibasic sodium phosphate, edetate disodium, isopropyl myristate, light mineral oil, polyoxyl 20 cetostearyl ether, propylene glycol, purified water, stearyl alcohol, dl-α-tocopherol, and white petrolatum.
+Inactive ingredients: cetyl alcohol, dibasic sodium phosphate, dl-α-tocopherol, edetate disodium, isopropyl myristate, light mineral oil, polyoxyl 20 cetostearyl ether, propylene glycol, purified water, stearyl alcohol, and white petrolatum.
 The foam is dispensed from an aluminum can pressurized with a hydrocarbon (propane/n-butane/isobutane) propellant.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+SORILUX is a trademark of Stiefel Laboratories, Inc.
 
 Manufactured for:
 
@@ -136,18 +153,8 @@ Stiefel Laboratories, Inc.
 
 Research Triangle Park, NC 27709
 
-Manufactured by:
+©2013, Stiefel Laboratories, Inc
 
-DPT Laboratories, Ltd.
+September 2013
 
-307 E. Josephine Street
-
-San Antonio, TX 78215
-
-Issue: September 2012
-
-SOR:5PIL
-
-SORILUX is a trademark of Stiefel Laboratories, Inc.
-
-©2012 Stiefel Laboratories, Inc.
+SOR:6PIL
