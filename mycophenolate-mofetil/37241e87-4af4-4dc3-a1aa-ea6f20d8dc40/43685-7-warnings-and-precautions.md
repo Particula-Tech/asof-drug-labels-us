@@ -28,26 +28,31 @@ In pediatric patients, no other malignancies besides lymphoproliferative disorde
 CellCept has been administered in combination with the following agents in clinical trials: antithymocyte globulin (ATGAM®), OKT3 (Orthoclone OKT® 3), cyclosporine (Sandimmune®, Neoral®) and corticosteroids.
 The efficacy and safety of the use of CellCept in combination with other immunosuppressive agents have not been determined.
 
-## Infections
+## Serious Infections
 
-Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections, fatal infections, and sepsis.
-In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see ADVERSE REACTIONS).
+Patients receiving immunosuppressants, including CellCept, are at increased risk of developing bacterial, fungal, protozoal and new or reactivated viral infections, including opportunistic infections.
+These infections may lead to serious, including fatal outcomes.
+Because of the danger of oversuppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution (see ADVERSE REACTIONS).
 
-## Latent Viral Infections
+## New or Reactivated Viral Infections
 
-Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
-These include cases of progressive multifocal leukoencephalopathy (PML) and BK virus-associated nephropathy (BKVAN) which have been observed in patients receiving immunosuppressants, including CellCept.
+Polyomavirus associated nephropathy (PVAN), JC virus associated progressive multifocal leukoencephalopathy (PML), cytomegalovirus (CMV) infections, reactivation of hepatitis B (HBV) or hepatitis C (HCV) have been reported in patients treated with immunosuppressants, including CellCept.
+Reduction in immunosuppression should be considered for patients who develop evidence of new or reactivated viral infections.
+Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
 
-Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
-Hemiparesis, apathy, confusion, cognitive deficiencies and ataxia were the most frequent clinical features observed.
-The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
+PVAN, especially due to BK virus infection, is associated with serious outcomes, including deteriorating renal function and renal graft loss (see ADVERSE REACTIONS: Postmarketing Experience).
+Patient monitoring may help detect patients at risk for PVAN.
+
+PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies, and ataxia.
+Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function (see ADVERSE REACTIONS: Postmarketing Experience).
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
-Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
-In transplant patients, physicians should also consider the risk that reduced immunosuppression represents to the graft.
 
-BKVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss (see ADVERSE REACTIONS: Postmarketing Experience).
-Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
-Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
+The risk of CMV viremia and CMV disease is highest among transplant recipients seronegative for CMV at time of transplant who receive a graft from a CMV seropositive donor.
+Therapeutic approaches to limiting CMV disease exist and should be routinely provided.
+Patient monitoring may help detect patients at risk for CMV disease.
+
+Viral reactivation has been reported in patients infected with HBV or HCV.
+Monitoring infected patients for clinical and laboratory signs of active HBV or HCV infection is recommended.
 
 ## Neutropenia
 

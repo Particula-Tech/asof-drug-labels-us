@@ -37,7 +37,7 @@ CellCept can cause serious side effects:
 - Increased risk of getting serious infections.
   CellCept weakens the body's immune system and affects your ability to fight infections.
   Serious infections can happen with CellCept and can lead to death.
-  Types of infections can include:
+  These serious infections can include:
   - Viral infections.
     Certain viruses can live in your body and cause active infections when your immune system is weak.
     Viral infections that can happen with CellCept include:
@@ -45,6 +45,9 @@ CellCept can cause serious side effects:
       CMV can cause serious tissue and blood infections.
     - BK virus.
       BK virus can affect how your kidney works and cause your transplanted kidney to fail.
+    - Hepatitis B and C viruses.
+      Hepatitis viruses can affect how your liver works.
+      Talk to your doctor about how hepatitis viruses may affect you.
   - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
     In some patients, CellCept may cause an infection of the brain that may cause death.
     You are at risk for this brain infection because you have a weakened immune system.
@@ -251,12 +254,10 @@ CELLCEPT, CYTOVENE-IV, and VALCYTE are registered trademarks of Hoffmann-La Roch
 
 Distributed by: Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-MG Revised: June 2012
+MG Revised: September 2013
 
 For additional copies of this Medication Guide, please call 1-800-617-8191 or visit www.gene.com/gene/products/information/cellcept.
 
-CTCTIO_1061443_PI/MG_2011_02_K
-
-© 2012 Genentech, Inc. All rights reserved.
+© 2013 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
