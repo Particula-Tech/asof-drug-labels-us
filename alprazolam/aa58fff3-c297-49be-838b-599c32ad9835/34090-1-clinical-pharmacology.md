@@ -90,6 +90,11 @@ CYP3A inducers would be expected to decrease alprazolam concentrations and this 
 The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90±0.21 mL/min/kg to 2.13±0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1±4.9 to 7.7 ±1.7 h) following administration of 300 mg/day carbamazepine for 10 days (see PRECAUTIONS–Drug Interactions).
 However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000–1200 mg/day); the effect at usual carbamazepine doses is unknown.
 
+Interactions involving HIV protease inhibitors (eg, ritonavir) and alprazolam are complex and time dependent.
+Short-term low doses of ritonavir (4 doses of 200 mg) reduced alprazolam clearance to 41% of control values, prolonged its elimination half-life (mean values, 30 versus 13 h) and enhanced clinical effects.
+However, upon extended exposure to ritonavir (500 mg, twice daily), CYP3A induction offset this inhibition.
+Alprazolam AUC and Cmax was reduced by 12% and 16%, respectively, in the presence of ritonavir (see WARNINGS).
+
 The ability of alprazolam to induce or inhibit human hepatic enzyme systems has not been determined.
 However, this is not a property of benzodiazepines in general.
 Further, alprazolam did not affect the prothrombin or plasma warfarin levels in male volunteers administered sodium warfarin orally.
