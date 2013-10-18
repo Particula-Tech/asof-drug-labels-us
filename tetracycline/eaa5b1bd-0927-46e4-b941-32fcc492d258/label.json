@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA050278"
+  ],
+  "inn": "tetracycline",
+  "labeler": "Heritage Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-017-01",
+    "23155-017-10",
+    "23155-018-01",
+    "23155-018-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tetracycline hydrochloride",
+      "name": "Tetracycline Hydrochloride"
+    }
+  ],
+  "setid": "eaa5b1bd-0927-46e4-b941-32fcc492d258",
+  "source": "dailymed"
+}
