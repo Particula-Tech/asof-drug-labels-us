@@ -1,4 +1,4 @@
-# 17 INFORMATION FOR PATIENTS
+# 17 PATIENT COUNSELING INFORMATION
 
 ## 17.1 Coadministration of Antidepressants and Other Drugs
 
@@ -9,7 +9,7 @@ Because patients should not use meperidine or certain other analgesics with AZIL
 
 Patients should be informed that they should contact their healthcare provider of AZILECT if they take ciprofloxacin or a similar drug that could increase blood levels of rasagiline because of the need to adjust the dose of AZILECT [see Warnings and Precautions (5.2)].
 
-## 17.3 Risk of Hypertensive Crisis and Nonselective Monoamine Oxidase Inhibition Above the Recommended Doses
+## 17.3 Risk of Hypertensive Crisis and Nonselective Monoamine Oxidase Inhibition Above the Recommended Dosing
 
 Patients should be advised not to exceed the maximum recommended daily dose of 1 mg/day (0.5 mg/day for subjects with mild hepatic impairment and subjects using concomitant ciprofloxacin and other CYP1A2 inhibitors).
 
@@ -41,7 +41,7 @@ Patients should be alerted to the possibility of increases in blood pressure dur
 Exacerbation of hypertension may occur.
 Medication dose adjustment may be necessary if elevation of blood pressure is sustained over multiple evaluations [see Warnings and Precautions (5.8)].
 
-## 17.8 Hallucinations / Psychotic-Like Behavior
+## 17.8 Hallucinations/Psychotic-Like Behavior
 
 Patients should be informed that hallucinations or other manifestations of psychotic-like behavior can occur when taking AZILECT.
 Patients should also be advised that, if they have a major psychotic disorder, that AZILECT should not ordinarily be used because of the risk of exacerbating the psychosis.

@@ -1,4 +1,4 @@
-# 14 CLINICAL TRIALS
+# 14 CLINICAL STUDIES
 
 The effectiveness of AZILECT for the treatment of Parkinson's disease was established in three 18- to 26-week, randomized, placebo-controlled trials.
 In one of these trials AZILECT was given as initial monotherapy and in the other two as adjunctive therapy to levodopa.

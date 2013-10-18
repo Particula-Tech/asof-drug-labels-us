@@ -1,4 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL
+
+## AZILECT (rasagiline tablets) 0.5 mg 30s Label Text
 
 NDC 68546-142-56
 
@@ -6,14 +8,12 @@ AZILECT® (rasagiline tablets) 0.5 mg 30 Tablets Rx only
 
 TEVA® NEUROSCIENCE
 
-U.S. Patent Nos. 5387612, 5453446, 5457133, 5532415, 5786390, 6126968
+# PRINCIPAL DISPLAY PANEL
 
-# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
+## AZILECT (rasagiline tablets) 1 mg 30s Label Text
 
 NDC 68546-229-56
 
 AZILECT® (rasagiline tablets) 1 mg 30 Tablets Rx only
 
 TEVA® NEUROSCIENCE
-
-U.S. Patent Nos. 5387612, 5453446, 5457133, 5532415, 5786390, 6126968

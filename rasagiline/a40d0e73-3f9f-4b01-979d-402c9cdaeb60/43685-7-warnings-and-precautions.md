@@ -25,7 +25,7 @@ Rasagiline plasma concentration may increase in patients with mild (up to 2 fold
 Patients with mild hepatic impairment should be given the dose of 0.5 mg/day.
 AZILECT should not be used in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
-## 5.4 Risk for Hypertensive Crisis and Nonselective Monoamine Oxidase Inhibition Above The Recommended Doses
+## 5.4 Risk for Hypertensive Crisis and Nonselective Monoamine Oxidase Inhibition Above the Recommended Doses
 
 AZILECT is a selective inhibitor of monoamine oxidase (MAO)-B at the recommended doses of 0.5 or 1 mg daily.
 AZILECT should not be used at daily doses exceeding 1 mg/day (or 0.5 mg/day for patients with mild hepatic impairment or in patients using concomitant ciprofloxacin or another CYP1A2 inhibitor) because of the risks of hypertensive crisis and other adverse reactions associated with nonselective inhibition of MAO [see Dosage and Administration (2), Drug Interactions (7.9), and Clinical Pharmacology (12.3)].

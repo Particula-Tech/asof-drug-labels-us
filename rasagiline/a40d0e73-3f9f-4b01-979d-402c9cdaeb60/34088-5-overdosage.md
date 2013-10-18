@@ -1,4 +1,4 @@
-# 10 OVERDOSE
+# 10 OVERDOSAGE
 
 No cases of AZILECT overdose were reported in clinical trials.
 
