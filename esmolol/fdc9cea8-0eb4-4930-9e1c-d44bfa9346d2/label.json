@@ -3,7 +3,7 @@
     "ANDA076573"
   ],
   "inn": "esmolol",
-  "labeler": "APP Pharmaceuticals, LLC",
+  "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
     "63323-652-10"
   ],
@@ -11,7 +11,7 @@
     {
       "form": "INJECTION, SOLUTION",
       "generic": "esmolol hydrochloride",
-      "name": "Esmolol"
+      "name": "Esmolol Hydrochloride"
     }
   ],
   "setid": "fdc9cea8-0eb4-4930-9e1c-d44bfa9346d2",

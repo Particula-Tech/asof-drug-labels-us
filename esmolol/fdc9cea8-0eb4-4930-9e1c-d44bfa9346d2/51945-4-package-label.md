@@ -1,4 +1,6 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Esmolol 10 mL Single Dose Vial Label
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+- Esmolol 10 mL Single Dose Vial Label
 
 NDC 63323-652-10
 
