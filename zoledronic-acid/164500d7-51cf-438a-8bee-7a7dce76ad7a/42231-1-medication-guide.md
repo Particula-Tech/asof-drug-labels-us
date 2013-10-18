@@ -45,7 +45,7 @@ Zoledronic Acid Injection can cause serious side effects including:
 5. Possible harm to your unborn baby.Zoledronic Acid Injection should not be used if you are pregnant.
    Tell your doctor right away if you are pregnant or plan to become pregnant.
    Zoledronic Acid Injection may harm your unborn baby.
-6. Bone, joint, or muscle painSome people who take bisphosphonates develop severe bone, joint, or muscle pain.
+6. Bone, joint, or muscle pain.Some people who take bisphosphonates develop severe bone, joint, or muscle pain.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -104,7 +104,6 @@ How will I receive Zoledronic Acid Injection?
   Your infusion should last at least 15 minutes.
 - Before you receive Zoledronic Acid Injection, drink at least 2 glasses of fluid (such as water) within a few hours as directed by your doctor.
 - You may eat before your treatment with Zoledronic Acid Injection.
-- If you miss a dose of Zoledronic Acid Injection, call your doctor or healthcare provider to schedule your next dose.
 
 What are the possible side effects of Zoledronic Acid Injection?
 
@@ -119,7 +118,7 @@ The most common side effects of Zoledronic Acid Injection included:
 
 Talk to your doctor about things you can do to help decrease some of these side effects that might happen with a Zoledronic Acid Injection infusion.
 
-You may get allergic reactions, such as hives or, in rare cases, swelling of your face, lips, tongue, or throat.
+You may get allergic reactions, such as hives, swelling of your face, lips, tongue, or throat.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -138,7 +137,7 @@ You can ask your doctor or pharmacist for information about Zoledronic Acid Inje
 
 What are the ingredients in Zoledronic Acid Injection?
 
-Active ingredient: zoledronic acid monohydrate
+Active ingredient: zoledronic acid monohydrate.
 
 Inactive ingredients: mannitol and sodium citrate.
 
@@ -148,6 +147,6 @@ SAGENT™
 
 Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2013 Sagent Pharmaceuticals, Inc.
 
-February 2013
+April 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

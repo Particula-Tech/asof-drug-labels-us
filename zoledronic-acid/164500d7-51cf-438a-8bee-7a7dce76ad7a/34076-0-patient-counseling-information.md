@@ -1,13 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling.
+See FDA-Approved Medication Guide
 
 Information for Patients
 
 Patients should be made aware that Zoledronic Acid Injection contains the same active ingredient (zoledronic acid) found in Zometa®, and that patients being treated with Zometa should not be treated with Zoledronic Acid Injection.
 
-Zoledronic Acid Injection is contraindicated in patients with creatinine clearance < 35 mL/min.
-[see Contraindications (4.2)].
+Zoledronic Acid Injection is contraindicated in patients with creatinine clearance less than 35 mL/min [see Contraindications (4)].
 
 Before being given Zoledronic Acid Injection, patients should tell their doctor if they have kidney problems and what medications they are taking.
 
@@ -24,8 +23,6 @@ On the day of treatment the patient should eat and drink normally, which include
 
 After getting Zoledronic Acid Injection it is strongly recommended patients with Paget's disease take calcium in divided doses (for example, 2 to 4 times a day) for a total of 1500 mg calcium a day to prevent low blood calcium levels.
 This is especially important for the two weeks after getting Zoledronic Acid Injection [see Warnings and Precautions (5.2)].
-
-All patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels.
 
 Patients should be aware of the most commonly associated side effects of therapy.
 Patients may experience one or more side effects that could include: fever, flu-like symptoms, myalgia, arthralgia, and headache.
@@ -50,4 +47,4 @@ SAGENT™
 
 Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2013 Sagent Pharmaceuticals, Inc.
 
-February 2013
+April 2013

@@ -21,7 +21,7 @@ Figure 1.
 Therapeutic Response/Serum Alkaline Phosphatase (SAP) Normalization Over Time
 
 The therapeutic response to Zoledronic Acid Injection was similar across demographic and disease-severity groups defined by gender, age, previous bisphosphonate use, and disease severity.
-At 6 months, the percentage of Zoledronic Acid Injection-treated patients who achieved therapeutic response was 97% and 95%, respectively, in each of the baseline disease severity subgroups (baseline SAP < 3xULN, ≥ 3xULN) compared to 75% and 74%, respectively, for the same disease severity subgroups of risedronate-treated patients.
+At 6 months, the percentage of Zoledronic Acid Injection-treated patients who achieved therapeutic response was 97% and 95%, respectively, in each of the baseline disease severity subgroups (baseline SAP less than 3xULN, greater than or equal to 3xULN) compared to 75% and 74%, respectively, for the same disease severity subgroups of risedronate-treated patients.
 
 In patients who had previously received treatment with oral bisphosphonates, therapeutic response rates were 96% and 55% for Zoledronic Acid Injection and risedronate, respectively.
 The comparatively low risedronate response was due to the low response rate (7/23, 30%) in patients previously treated with risedronate.

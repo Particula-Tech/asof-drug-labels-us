@@ -16,8 +16,7 @@ All patients should be instructed about the symptoms of hypocalcemia and the imp
 
 A single dose of Zoledronic Acid Injection should not exceed 5 mg and the duration of infusion should be no less than 15 minutes [see Dosage and Administration (2)].
 
-Zoledronic Acid Injection is contraindicated in patients with creatinine clearance <35 mL/min and in those with evidence of acute renal impairment.
-[See Contraindications (4.2)].
+Zoledronic Acid Injection is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment [see Contraindications (4)].
 If history or physical signs suggest dehydration, Zoledronic Acid Injection therapy should be withheld until normovolemic status has been achieved [see Post-marketing Experience (6.2)].
 
 Zoledronic Acid Injection should be used with caution in patients with chronic renal impairment.
@@ -52,7 +51,6 @@ These fractures can occur anywhere in the femoral shaft from just below the less
 
 Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
 They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
-A number of reports note that patients were also receiving treatment with glucocorticoids (e.g., prednisone) at the time of fracture.
 
 Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
 Patients presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
