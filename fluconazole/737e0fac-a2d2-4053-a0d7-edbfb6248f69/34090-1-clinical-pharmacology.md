@@ -262,6 +262,11 @@ Concomitant administration of voriconazole and fluconazole at any dose is not re
 Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within 24 h of the last dose of fluconazole.
 (See PRECAUTIONS)
 
+### Tofacitinib
+
+Co-administration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days) and tofacitinib (30 mg single dose) resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% – 96%) and 27% (90% CI: 12% – 44%), respectively, compared to administration of tofacitinib administered alone.
+(See PRECAUTIONS)
+
 ## Microbiology
 
 ### Mechanism of Action

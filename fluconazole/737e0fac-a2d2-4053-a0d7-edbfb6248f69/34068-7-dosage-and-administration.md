@@ -119,16 +119,8 @@ K × linear length or height (cm) serum creatinine (mg/100 mL)
 
 ## Administration
 
-Fluconazole may be administered either orally or by intravenous infusion.
+Fluconazole is administered orally.
 Fluconazole can be taken with or without food.
-Fluconazole injection has been used safely for up to fourteen days of intravenous therapy.
-The intravenous infusion of fluconazole should be administered at a maximum rate of approximately 200 mg/hour, given as a continuous infusion.
-
-Fluconazole injections in Viaflex® Plus plastic containers are intended only for intravenous administration using sterile equipment.
-
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
-
-Do not use if the solution is cloudy or precipitated or if the seal is not intact.
 
 ## Directions for Mixing the Oral Suspension
 
@@ -145,30 +137,3 @@ The concentrations of the reconstituted suspensions are as follows:
 Note: Shake oral suspension well before using.
 Store reconstituted suspension between 86°F (30°C) and 41°F (5°C) and discard unused portion after 2 weeks.
 Protect from freezing.
-
-## Directions for IV Use of Fluconazole in Viaflex® Plus Plastic Containers
-
-Do not remove unit from overwrap until ready for use.
-The overwrap is a moisture barrier.
-The inner bag maintains the sterility of the product.
-
-CAUTION: Do not use plastic containers in series connections.
-Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
-
-To Open
-
-Tear overwrap down side at slit and remove solution container.
-Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
-This is normal and does not affect the solution quality or safety.
-The opacity will diminish gradually.
-After removing overwrap, check for minute leaks by squeezing inner bag firmly.
-If leaks are found, discard solution as sterility may be impaired.
-
-DO NOT ADD SUPPLEMENTARY MEDICATION.
-
-Preparation for Administration:
-
-1. Suspend container from eyelet support.
-2. Remove plastic protector from outlet port at bottom of container.
-3. Attach administration set.
-   Refer to complete directions accompanying set.

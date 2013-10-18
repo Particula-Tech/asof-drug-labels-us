@@ -5,7 +5,7 @@ It is not meant to take the place of your doctor's instructions.
 Read this information carefully before you take FLUCONAZOLE.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about FLUCONAZOLE.
 
-What Is FLUCONAZOLE ?
+What Is FLUCONAZOLE?
 
 FLUCONAZOLE is a tablet you swallow to treat vaginal yeast infections caused by a yeast called Candida.
 FLUCONAZOLE helps stop too much yeast from growing in the vagina so the yeast infection goes away.
@@ -36,7 +36,7 @@ If you get a vaginal yeast infection, you may have any of the following symptoms
 - soreness
 - a thick white vaginal discharge that looks like cottage cheese
 
-What to Tell Your Doctor Before You Start FLUCONAZOLE ?
+What to Tell Your Doctor Before You Start FLUCONAZOLE?
 
 Do not take FLUCONAZOLE if you take certain medicines.
 They can cause serious problems.
@@ -63,6 +63,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - non-steroidal anti-inflammatory drugs including celecoxib, ibuprofen, and naproxen
 - prednisone, a steroid used to treat skin, gastrointestinal, hematological or respiratory disorders
 - antiviral medications used to treat HIV like saquinavir or zidovudine
+- tofacitinib for rheumatoid arthritis
 - vitamin A nutritional supplement
 
 Since there are many brand names for these medicines, check with your doctor or pharmacist if you have any questions.
@@ -79,11 +80,11 @@ Since there are many brand names for these medicines, check with your doctor or 
   The main ingredient of FLUCONAZOLE is fluconazole.
   If you need to know the inactive ingredients, ask your doctor or pharmacist.
 
-Who Should Not Take FLUCONAZOLE ?
+Who Should Not Take FLUCONAZOLE?
 
 To avoid a possible serious reaction, do NOT take FLUCONAZOLE if you are taking erythromycin, astemizole, pimozide, quinidine, and cisapride (Propulsid®) since it can cause changes in heartbeat in some people if taken with FLUCONAZOLE.
 
-How Should I Take FLUCONAZOLE
+How Should I Take FLUCONAZOLE?
 
 Take FLUCONAZOLE by mouth with or without food.
 You can take FLUCONAZOLE at any time of the day.
@@ -118,7 +119,7 @@ If you cannot reach your doctor, go to the nearest hospital emergency room.
 Signs of an allergic reaction can include shortness of breath; coughing; wheezing; fever; chills; throbbing of the heart or ears; swelling of the eyelids, face, mouth, neck, or any other part of the body; or skin rash, hives, blisters or skin peeling.
 
 FLUCONAZOLE has been linked to rare cases of serious liver damage, including deaths, mostly in patients with serious medical problems.
-Call your doctor if your skin or eyes become yellow, your urine turns a darker color, your stools (bowel movements) are light-colored, or if you vomit or feel like vomiting or if you have severe skin itching.
+Call your doctor if your skin or eyes become yellow, your urine turns a darker color, your stool (bowel movements) are light-colored, or if you vomit or feel like vomiting or if you have severe skin itching.
 
 In patients with serious conditions such as AIDS or cancer, rare cases of severe rashes with skin peeling have been reported.
 Tell your doctor right away if you get a rash while taking FLUCONAZOLE.
@@ -127,11 +128,11 @@ FLUCONAZOLE may cause other less common side effects besides those listed here.
 If you develop any side effects that concern you, call your doctor.
 For a list of all side effects, ask your doctor or pharmacist.
 
-What to Do for an Overdose
+What to Do for an Overdose?
 
 In case of an accidental overdose, call your doctor right away or go to the nearest emergency room.
 
-How to Store FLUCONAZOLE
+How to Store FLUCONAZOLE?
 
 Keep FLUCONAZOLE and all medicines out of the reach of children.
 
@@ -146,4 +147,7 @@ This leaflet summarizes the most important information about FLUCONAZOLE.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about FLUCONAZOLE that is written for health professionals.
 
-LAB-0367-5.0 December 2011
+This product's label may have been updated.
+For current full prescribing information, please visit www.greenstonellc.com
+
+LAB-0367-7.0 August 2013
