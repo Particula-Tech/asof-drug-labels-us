@@ -1,5 +1,78 @@
 # WARNINGS
 
+(See boxed WARNING)
+
+## Embryofetal Toxicity
+
+Mycophenolate mofetil (MMF) can cause fetal harm when administered to a pregnant female.
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney (see PRECAUTIONS: Pregnancy).
+
+## Pregnancy Exposure Prevention and Planning
+
+Females of reproductive potential must be made aware of the increased risk of first trimester pregnancy loss and congenital malformations and must be counseled regarding pregnancy prevention and planning.
+For recommended pregnancy testing and contraception methods (see PRECAUTIONS: Pregnancy Exposure Prevention and Planning).
+
+## Lymphoma and Malignancy
+
+Patients receiving immunosuppressive regimens involving combinations of drugs, including mycophenolate mofetil, as part of an immunosuppressive regimen are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see ADVERSE REACTIONS).
+The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
+
+As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+
+Lymphoproliferative disease or lymphoma developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g) with other immunosuppressive agents in controlled clinical trials of renal, cardiac, and hepatic transplant patients (see ADVERSE REACTIONS).
+
+In pediatric patients, no other malignancies besides lymphoproliferative disorder (2/148 patients) have been observed (see ADVERSE REACTIONS).
+
+## Combination with Other Immunosuppressive Agents
+
+Mycophenolate mofetil has been administered in combination with the following agents in clinical trials: antithymocyte globulin (ATGAM®), OKT3 (Orthoclone OKT® 3), cyclosporine (Sandimmune®, Neoral®) and corticosteroids.
+The efficacy and safety of the use of mycophenolate mofetil in combination with other immunosuppressive agents have not been determined.
+
+## Serious Infections
+
+Patients receiving immunosuppressants, including mycophenolate mofetil, are at increased risk of developing bacterial, fungal, protozoal and new or reactivated viral infections, including opportunistic infections.
+These infections may lead to serious, including fatal outcomes.
+Because of the danger of oversuppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution (see ADVERSE REACTIONS).
+
+## New or Reactivated Viral Infections
+
+Polyomavirus associated nephropathy (PVAN), JC virus associated progressive multifocal leukoencephalopathy (PML), cytomegalovirus (CMV) infections, reactivation of hepatitis B (HBV) or hepatitis C (HCV) have been reported in patients treated with immunosuppressants, including mycophenolate mofetil.
+Reduction in immunosuppression should be considered for patients who develop evidence of new or reactivated viral infections.
+Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
+
+PVAN, especially due to BK virus infection, is associated with serious outcomes, including deteriorating renal function and renal graft loss (see ADVERSE REACTIONS: Postmarketing Experience).
+Patient monitoring may help detect patients at risk for PVAN.
+
+PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies, and ataxia.
+Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function (see ADVERSE REACTIONS: Postmarketing Experience).
+In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
+
+The risk of CMV viremia and CMV disease is highest among transplant recipients seronegative for CMV at time of transplant who receive a graft from a CMV seropositive donor.
+Therapeutic approaches to limiting CMV disease exist and should be routinely provided.
+Patient monitoring may help detect patients at risk for CMV disease.
+
+Viral reactivation has been reported in patients infected with HBV or HCV.
+Monitoring infected patients for clinical and laboratory signs of active HBV or HCV infection is recommended.
+
+## Neutropenia
+
+Severe neutropenia [absolute neutrophil count (ANC) < 0.5 × 103/µL] developed in up to 2% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see ADVERSE REACTIONS).
+Patients receiving mycophenolate mofetil should be monitored for neutropenia (see PRECAUTIONS: Laboratory Tests).
+The development of neutropenia may be related to mycophenolate mofetil itself, concomitant medications, viral infections, or some combination of these causes.
+If neutropenia develops (ANC <1.3 × 103/µL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
+Neutropenia has been observed most frequently in the period from 31 to 180 days posttransplant in patients treated for prevention of renal, cardiac, and hepatic rejection.
+
+Patients receiving mycophenolate mofetil should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
+
+## Pure Red Cell Aplasia (PRCA)
+
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
+The mechanism for mycophenolate mofetil induced PRCA is unknown; the relative contribution of other immunosuppressants and their combinations in an immunosuppression regimen are also unknown.
+In some cases, PRCA was found to be reversible with dose reduction or cessation of mycophenolate mofetil therapy.
+In transplant patients, however, reduced immunosuppression may place the graft at risk.
+
+CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
+
 # PRECAUTIONS
 
 ## Pregnancy Exposure Prevention and Planning
@@ -96,11 +169,6 @@ On theoretical grounds, because mycophenolate mofetil is an IMPDH (inosine monop
 
 During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective (see PRECAUTIONS: Drug Interactions: Live Vaccines).
 
-## Phenylketonurics
-
-Mycophenolate mofetil oral suspension contains aspartame, a source of phenylalanine (0.56 mg phenylalanine/mL suspension).
-Therefore, care should be taken if mycophenolate mofetil oral suspension is administered to patients with phenylketonuria.
-
 ## Information for Patients
 
 See Medication Guide
@@ -121,7 +189,7 @@ Complete blood counts should be performed weekly during the first month, twice m
 
 ## Drug Interactions
 
-Drug interaction studies with mycophenolate mofetil have been conducted with acyclovir, antacids, cholestyramine, cyclosporine, ganciclovir, oral contraceptives, sevelamer, rimethoprim/sulfamethoxazole, norfloxacin, and metronidazole.
+Drug interaction studies with mycophenolate mofetil have been conducted with acyclovir, antacids, cholestyramine, cyclosporine, ganciclovir, oral contraceptives, sevelamer, trimethoprim/sulfamethoxazole, norfloxacin, and metronidazole.
 Drug interaction studies have not been conducted with other drugs that may be commonly administered to renal, cardiac or hepatic transplant patients.
 Mycophenolate mofetil has not been administered concomitantly with azathioprine.
 
@@ -137,7 +205,7 @@ Absorption of a single dose of mycophenolate mofetil (2 g) was decreased when ad
 The Cmax and AUC(0–24h) for MPA were 33% and 17% lower, respectively, than when mycophenolate mofetil was administered alone under fasting conditions.
 Mycophenolate mofetil may be administered to patients who are also taking antacids containing magnesium and aluminum hydroxides; however, it is recommended that mycophenolate mofetil and the antacid not be administered simultaneously.
 
-### Proton Pump Inhibitors (PPIs)
+## Proton Pump Inhibitors (PPIs)
 
 Coadministration of PPIs (e.g., lansoprazole, pantoprazole) in single doses to healthy volunteers and multiple doses to transplant patients receiving mycophenolate mofetil has been reported to reduce the exposure to mycophenolic acid (MPA).
 An approximate reduction of 30 to 70% in the Cmax and 25% to 35% in the AUC of MPA has been observed, possibly due to a decrease in MPA solubility at an increased gastric pH.
@@ -219,7 +287,7 @@ Interference of MPAG hydrolysis may lead to less MPA available for absorption.
 
 ## Live Vaccines
 
-During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective (see PRECAUTIONS: Immunization).
+During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective (see PRECAUTIONS: Immunizations).
 Influenza vaccination may be of value.
 Prescribers should refer to national guidelines for influenza vaccination.
 

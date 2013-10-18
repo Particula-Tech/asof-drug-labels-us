@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections e.g., opportunistic infection (see WARNINGS: InfectionsandWARNINGSand WARNINGS: Latent Viral Infections).The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
+The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections e.g., opportunistic infection (see WARNINGS: Serious Infections and WARNINGS: New or Reactivated Viral Infections).The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
 
 ## Mycophenolate Mofetil Oral
 
@@ -106,7 +106,7 @@ In pediatric patients, no other malignancies besides lymphoproliferative disorde
 Severe neutropenia (ANC <0.5 × 103/µL) developed in up to 2% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see WARNINGS: Neutropenia, PRECAUTIONS: Laboratory Tests and DOSAGE AND ADMINISTRATION).
 
 All transplant patients are at increased risk of opportunistic infections.
-The risk increases with total immunosuppressive load (see WARNING: Infectionsand WARNINGS:Latent Viral Infections).
+The risk increases with total immunosuppressive load (see WARNING: Serious Infections and WARNINGS: New or Reactivated Viral Infections).
 Table 10 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
 Table 10 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
@@ -116,19 +116,20 @@ Table 10 Viral and Fungal Infections in Controlled Studies in Prevention of Rena
 | Mycophenolate mofetil2 g/day | Mycophenolate mofetil3 g/day | Azathioprine 1 to 2 mg/kg/day or 100 to 150 mg/day | Mycophenolate mofetil3 g/day | Azathioprine 1.5 to 3 mg/kg/day | Mycophenolate mofetil3 g/day | Azathioprine 1 to 2 mg/kg/day |  |
 | (n=336) | (n=330) | (n=326) | (n=289) | (n=289) | (n=277) | (n=287) |  |
 | % | % | % | % | % | % | % |  |
-| Herpes simplex CMV | 16.7 | 20 | 19 | 20.8 | 14.5 | 10.1 | 5.9 |
-| Viremia/ Syndrome | 13.4 | 12.4 | 13.8 | 12.1 | 10 | 14.1 | 12.2 |
-| Tissue invasive disease | 8.3 | 11.5 | 6.1 | 11.4 | 8.7 | 5.8 | 8 |
+| Herpes simplex | 16.7 | 20 | 19 | 20.8 | 14.5 | 10.1 | 5.9 |
+| CMV |  |  |  |  |  |  |  |
+| -Viremia/ Syndrome | 13.4 | 12.4 | 13.8 | 12.1 | 10 | 14.1 | 12.2 |
+| -Tissue invasive disease | 8.3 | 11.5 | 6.1 | 11.4 | 8.7 | 5.8 | 8 |
 | Herpes zoster | 6 | 7.6 | 5.8 | 10.7 | 5.9 | 4.3 | 4.9 |
-| Cutaneous disease | 6 | 7.3 | 5.5 | 10 | 5.5 | 4.3 | 4.9 |
+| -Cutaneous disease | 6 | 7.3 | 5.5 | 10 | 5.5 | 4.3 | 4.9 |
 | Candida | 17 | 17.3 | 18.1 | 18.7 | 17.6 | 22.4 | 24.4 |
-| Mucocutaneous | 15.5 | 16.4 | 15.3 | 18 | 17.3 | 18.4 | 17.4 |
+| -Mucocutaneous | 15.5 | 16.4 | 15.3 | 18 | 17.3 | 18.4 | 17.4 |
 
 The following other opportunistic infections occurred with an incidence of less than 4% in mycophenolate mofetil patients in the above azathioprine-controlled studies: Herpes zoster, visceral disease; Candida, urinary tract infection, fungemia/disseminated disease, tissue invasive disease; Cryptococcosis; Aspergillus/Mucor; Pneumocystis carinii.
 
 In the placebo-controlled renal transplant study, the same pattern of opportunistic infection was observed compared to the azathioprine-controlled renal studies, with a notably lower incidence of the following: Herpes simplex and CMV tissue-invasive disease.
 
-In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see WARNINGS: Infections).
+In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see WARNINGS: Serious Infections).
 
 In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with mycophenolate mofetil than in those receiving azathioprine, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with mycophenolate mofetil.
 
@@ -181,11 +182,15 @@ Cases of pure red cell aplasia (PRCA) have been reported in patients treated wit
 
 ## Infections
 
-Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
-Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
-The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
-BK virus-associated nephropathy has been observed in patients receiving immunosuppressants, including mycophenolate mofetil.
-This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+(See WARNINGS: Serious Infections, New or Reactivated Viral Infections):
+
+- •Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally.
+- •There is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
+- •Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
+  The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
+- •Polyomavirus associated neuropathy (PVAN), especially due to BK virus infection, has been observed in patients receiving immunosuppressants, including mycophenolate mofetil.
+  This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+- •Viral reactivation has been reported in patients infected with HBV or HCV.
 
 ## Respiratory
 
