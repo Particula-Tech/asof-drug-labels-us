@@ -15,10 +15,10 @@ Adverse events were usually mild to moderate in intensity.
 TABLE 3.
 Treatment-Emergent Adverse Event Incidence in Controlled Trials in Postherpetic Neuralgia (Events in at least 1% of Gabapentin-Treated Patients and Numerically More Frequent Than in the Placebo Group)
 
-| Body System/ | Gabapentin | Placebo |
+| Body System/ Preferred Term | Gabapentin | Placebo |
 | --- | --- | --- |
-| Preferred Term | N=336 | N=227 |
-|  | % | % |
+| N=336 | N=227 |  |
+| % | % |  |
 | Body as a Whole |  |  |
 | Asthenia | 5.7 | 4.8 |
 | Infection | 5.1 | 3.5 |
@@ -63,7 +63,7 @@ Because there were few patients whose race was reported as other than white, the
 ## Epilepsy
 
 The most commonly observed adverse events associated with the use of gabapentin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
-The most commonly observed adverse events reported with the use of gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility (see WARNINGS, Neuropsychiatric Adverse Events).
+The most commonly observed adverse events reported with the use of gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility (see WARNINGS, Neuropsychiatric Adverse Events-Pediatric Patients 3-12 years of age).
 
 Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received gabapentin in premarketing clinical trials discontinued treatment because of an adverse event.
 The adverse events most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
@@ -132,7 +132,7 @@ Treatment-Emergent Adverse Event Incidence in Controlled Add-On Trials In Patien
 
 Other events in more than 1% of patients >12 years of age but equally or more frequent in the placebo group included: headache, viral infection, fever, nausea and/or vomiting, abdominal pain, diarrhea, convulsions, confusion, insomnia, emotional lability, rash, acne.
 
-Among the treatment-emergent adverse events occurring at an incidence of at least 10% of gabapentin-treated patients, somnolence and ataxia appeared to exhibit a positive dose-response relationship.
+Among the treatment-emergent adverse events occurring at an incidence of at least 10% in gabapentin-treated patients, somnolence and ataxia appeared to exhibit a positive dose-response relationship.
 
 The overall incidence of adverse events and the types of adverse events seen were similar among men and women treated with gabapentin.
 The incidence of adverse events increased slightly with increasing age in patients treated with either gabapentin or placebo.
@@ -144,7 +144,7 @@ Adverse events were usually mild to moderate in intensity.
 TABLE 5.
 Treatment-Emergent Adverse Event Incidence in Pediatric Patients Age 3 to 12 Years in a Controlled Add-On Trial (Events in at least 2% of gabapentin patients and numerically more frequent than in the placebo group)
 
-| Body System/ Adverse Event | GabapentinPlus background antiepileptic drug therapy N=119% | Placebo N=128% |
+| Body System/Adverse Event | GabapentinPlus background antiepileptic drug therapy N=119% | Placebo N=128% |
 | --- | --- | --- |
 | Body As A Whole |  |  |
 | Viral Infection | 10.9 | 3.1 |
@@ -194,7 +194,7 @@ Frequent: anorexia, flatulence, gingivitis; Infrequent: glossitis, gum hemorrhag
 
 Rare: hyperthyroid, hypothyroid, goiter, hypoestrogen, ovarian failure, epididymitis, swollen testicle, cushingoid appearance.
 
-#### Hematologic and Lymphatic System:
+#### Hematologic and Lymphatic Systems:
 
 Frequent: purpura most often described as bruises resulting from physical trauma; Infrequent: anemia, thrombocytopenia, lymphadenopathy; Rare: WBC count increased, lymphocytosis, non-Hodgkin’s lymphoma, bleeding time increased.
 
@@ -222,7 +222,7 @@ Infrequent: hematuria, dysuria, urination frequency, cystitis, urinary retention
 
 Frequent: abnormal vision; Infrequent: cataract, conjunctivitis, eyes dry, eye pain, visual field defect, photophobia, bilateral or unilateral ptosis, eye hemorrhage, hordeolum, hearing loss, earache, tinnitus, inner ear infection, otitis, taste loss, unusual taste, eye twitching, ear fullness; Rare: eye itching, abnormal accommodation, perforated ear drum, sensitivity to noise, eye focusing problem, watery eyes, retinopathy, glaucoma, iritis, corneal disorders, lacrimal dysfunction, degenerative eye changes, blindness, retinal degeneration, miosis, chorioretinitis, strabismus, eustachian tube dysfunction, labyrinthitis, otitis externa, odd smell.
 
-### Clinical trials in Pediatric Patients With Epilepsy
+### Clinical Trials in Pediatric Patients With Epilepsy
 
 Adverse events occurring during epilepsy clinical trials in 449 pediatric patients 3 to 12 years of age treated with gabapentin that were not reported in adjunctive trials in adults are:
 
@@ -234,7 +234,7 @@ dehydration, infectious mononucleosis
 
 hepatitis
 
-#### Hemic and Lymphatic System:
+#### Hematologic and Lymphatic Systems:
 
 coagulation defect
 
@@ -274,7 +274,7 @@ Infrequent: gastroenteritis, increased appetite, gastrointestinal disorder, oral
 
 Infrequent: diabetes mellitus.
 
-#### Hemic and Lymphatic System:
+#### Hematologic and Lymphatic Systems:
 
 Infrequent: ecchymosis, anemia; Rare: lymphadenopathy, lymphoma-like reaction, prothrombin decreased.
 
@@ -310,7 +310,7 @@ Infrequent: urinary tract infection, dysuria, impotence, urinary incontinence, v
 
 In addition to the adverse experiences reported during clinical testing of gabapentin, the following adverse experiences have been reported in patients receiving marketed gabapentin.
 These adverse experiences have not been listed above and data are insufficient to support an estimate of their incidence or to establish causation.
-The listing is alphabetized: angioedema, blood glucose fluctuation, breast enlargement, erythema multiforme, elevated liver function tests, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
+The listing is alphabetized: angioedema, blood glucose fluctuation, breast enlargement, elevated creatine kinase, elevated liver function tests, erythema multiforme, fever, hyponatremia, jaundice, movement disorder, rhabdomyolysis, Stevens-Johnson syndrome.
 
 Adverse events following the abrupt discontinuation of gabapentin have also been reported.
 The most frequently reported events were anxiety, insomnia, nausea, pain and sweating.

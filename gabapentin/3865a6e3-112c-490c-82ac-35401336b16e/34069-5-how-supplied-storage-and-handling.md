@@ -22,4 +22,4 @@ Bottles of 500: NDC # 68462-127-05
 
 ## Storage (Tablets)
 
-Store at 25°C (77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

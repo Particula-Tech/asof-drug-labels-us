@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-## Gabapentin (gab″ a pen′ tin) Tablets USP
+## Gabapentin Tablets USP (gab″ a pen′ tin)
 
 Read the Medication Guide before you start taking gabapentin and each time you get a refill.
 There may be new information.
@@ -14,27 +14,28 @@ Stopping gabapentin suddenly can cause serious problems.
 
 Gabapentin can cause serious side effects including:
 
-1. Like other antiepileptic drugs, gabapentin may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+1.
+Like other antiepileptic drugs, gabapentin may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
-- thoughts about suicide or dying
-- attempts to commit suicide
-- new or worse depression
-- new or worse anxiety
-- feeling agitated or restless
-- panic attacks
-- trouble sleeping (insomnia)
-- new or worse irritability
-- acting aggressive, being angry, or violent
-- acting on dangerous impulses
-- an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
+- •thoughts about suicide or dying
+- •attempts to commit suicide
+- •new or worse depression
+- •new or worse anxiety
+- •feeling agitated or restless
+- •panic attacks
+- •trouble sleeping (insomnia)
+- •new or worse irritability
+- •acting aggressive, being angry, or violent
+- •acting on dangerous impulses
+- •an extreme increase in activity and talking (mania)
+- •other unusual changes in behavior or mood
 
 ## How can I watch for early symptoms of suicidal thoughts and actions?
 
-- Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-- Keep all follow-up visits with your healthcare provider as scheduled.
+- •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+- •Keep all follow-up visits with your healthcare provider as scheduled.
 
 Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
@@ -55,16 +56,16 @@ You may or may not have rash when you get this type of reaction.
 It may cause you to be hospitalized or to stop gabapentin.
 Call a healthcare provider right away if you have any of the following symptoms:
 
-- skin rash
-- hives
-- fever
-- swollen glands that do not go away
-- swelling of your lip and tongue
-- yellowing of your skin or of the whites of the eyes
-- unusual bruising or bleeding
-- severe fatigue or weakness
-- unexpected muscle pain
-- frequent infections
+- •skin rash
+- •hives
+- •fever
+- •swollen glands that do not go away
+- •swelling of your lip and tongue
+- •yellowing of your skin or of the whites of the eyes
+- •unusual bruising or bleeding
+- •severe fatigue or weakness
+- •unexpected muscle pain
+- •frequent infections
 
 These symptoms may be the first signs of a serious reaction.
 A healthcare provider should examine you to decide if you should continue taking gabapentin.
@@ -73,8 +74,8 @@ A healthcare provider should examine you to decide if you should continue taking
 
 Gabapentin is a prescription medicine used to treat:
 
-- Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
-- Partial seizures when taken together with other medicines in adults and children 3 years of age and older.
+- •Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
+- •Partial seizures when taken together with other medicines in adults and children 3 years of age and older.
 
 ## Who should not take gabapentin?
 
@@ -85,16 +86,16 @@ See the end of this Medication Guide for a complete list of ingredients in gabap
 
 Before taking gabapentin, tell your healthcare provider if you:
 
-- have or have had kidney problems or are on hemodialysis
-- have or have had depression, mood problems, or suicidal thoughts or behavior
-- are pregnant or plan to become pregnant.
+- •have or have had kidney problems or are on hemodialysis
+- •have or have had depression, mood problems, or suicidal thoughts or behavior
+- •are pregnant or plan to become pregnant.
   It is not known if gabapentin can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin.
   You and your healthcare provider will decide if you should take gabapentin while you are pregnant.
-  - If you become pregnant while taking gabapentin, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  - ∘If you become pregnant while taking gabapentin, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
-- are breast-feeding or plan to breast-feed.
+- •are breast-feeding or plan to breast-feed.
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin.
 
@@ -108,26 +109,39 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 
 ## How should I take gabapentin?
 
-- Take gabapentin exactly as prescribed.
+- •Take gabapentin exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin to take.
-  - Do not change your dose of gabapentin without talking to your healthcare provider.
+  - ∘Do not change your dose of gabapentin without talking to your healthcare provider.
     If you break a tablet in half the unused half of the tablet should be taken at your next scheduled dose.
     Half tablets not used within several days of breaking should be thrown away.
-- Gabapentin can be taken with or without food.
+- •Gabapentin can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin.
-- If you take too much gabapentin, call your healthcare provider or your local Poison Control Center right away.
+- •If you take too much gabapentin, call your healthcare provider or your local Poison Control Center right away.
 
 ## What should I avoid while taking gabapentin?
 
-- Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking gabapentin without first talking with your healthcare provider.
+- •Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking gabapentin without first talking with your healthcare provider.
   Taking gabapentin with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how gabapentin affects you.
+- •Do not drive, operate heavy machinery, or do other dangerous activities until you know how gabapentin affects you.
   Gabapentin can slow your thinking and motor skills.
 
 ## What are the possible side effects of gabapentin?
 
-- See “What is the most important information I should know about gabapentin?”
-- The most common side effects of gabapentin include: • dizziness • lack of coordination• viral infection• feeling drowsy• feeling tired• fever• jerky movements• difficulty with speaking• temporary loss of memory (amnesia)• tremor• difficulty with coordination• double vision• unusual eye movement
+- •See “What is the most important information I should know about gabapentin?”
+- •The most common side effects of gabapentin include:
+- • dizziness
+- • lack of coordination
+- • viral infection
+- • feeling drowsy
+- • feeling tired
+- • fever
+- • jerky movements
+- • difficulty with speaking
+- • temporary loss of memory (amnesia)
+- • tremor
+- • difficulty with coordination
+- • double vision
+- • unusual eye movement
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -139,7 +153,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 ## How should I store gabapentin?
 
-- Store Gabapentin Tablets USP between 59°F to 86°F (15°C to 30°C).
+- •Store Gabapentin Tablets USP between 59°F to 86°F (15°C to 30°C).
 
 Keep gabapentin and all medicines out of the reach of children.
 
@@ -178,4 +192,4 @@ Questions?
 
 www.glenmarkgenerics.com
 
-September 2011
+June 2013

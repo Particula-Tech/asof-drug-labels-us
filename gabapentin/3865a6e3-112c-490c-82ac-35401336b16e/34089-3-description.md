@@ -2,9 +2,9 @@
 
 Gabapentin tablets USP are supplied as oval shaped, film-coated, biconvex scored tablets containing 600 mg and 800 mg of gabapentin USP.
 
-The inactive ingredients for the tablets are corn starch, copovidone, poloxamer 407, magnesium stearate, polyethylene glycol, hypromellose, titanium dioxide, talc, macrogol, polysorbate 80 and purified water.
+The inactive ingredients for the tablets are corn starch, copovidone, poloxamer 407, magnesium stearate, polyethylene glycol, talc, hypromellose, titanium dioxide, macrogol, polysorbate 80 and purified water.
 
-Gabapentin USP is described as 1-(aminomethyl)cyclohexaneacetic acid with a molecular formula of C9H17NO2 and a molecular weight of 171.24.
+Gabapentin USP is described as 1-(aminomethyl) cyclohexaneacetic acid with a molecular formula of C9H17NO2 and a molecular weight of 171.24.
 The structural formula of gabapentin is:
 
 Gabapentin USP is a white to off-white crystalline solid with a pKa1 of 3.7 and a pKa2 of 10.7.

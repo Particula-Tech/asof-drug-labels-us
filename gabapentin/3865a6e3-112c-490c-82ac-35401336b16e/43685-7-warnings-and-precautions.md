@@ -17,7 +17,8 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
+TABLE 2.
+Risk by indication for antiepileptic drugs in the pooled analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in DrugPatients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -58,7 +59,7 @@ Because adequate historical data are not available, it is impossible to say whet
 ## Tumorigenic Potential
 
 In standard preclinical in vivo lifetime carcinogenicity studies, an unexpectedly high incidence of pancreatic acinar adenocarcinomas was identified in male, but not female, rats.
-(See PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility.)
+(See PRECAUTIONS, Carcinogenesis, Mutagenesis, Impairment of Fertility.)
 The clinical significance of this finding is unknown.
 Clinical experience during gabapentin’s premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 
@@ -100,11 +101,11 @@ Patients should be advised that gabapentin may cause dizziness, somnolence and o
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on gabapentin to gauge whether or not it affects their mental and/or motor performance adversely.
 
 Patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations.
-Patients should be carefully observed for signs of CNS depression, such as somnolence, and the dose of gabapentin or morphine should be reduced appropriately (see Drug Interactions).
+Patients should be carefully observed for signs of CNS depression, such as somnolence, and the dose of gabapentin or morphine should be reduced appropriately (see PRECAUTIONS, Drug Interactions).
 
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy).
 
 Prior to initiation of treatment with gabapentin, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (such as fever or lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
 
@@ -185,7 +186,7 @@ Probenecid is a blocker of renal tubular secretion.
 Gabapentin pharmacokinetic parameters without and with probenecid were comparable.
 This indicates that gabapentin does not undergo renal tubular secretion by the pathway that is blocked by probenecid.
 
-## Drug/Laboratory Tests Interactions
+## Drug/Laboratory Test Interactions
 
 Because false positive readings were reported with the Ames N-Multistix SG® dipstick test for urinary protein when gabapentin was added to other antiepileptic drugs, the more specific sulfosalicylic acid precipitation procedure is recommended to determine the presence of urine protein.
 
@@ -235,7 +236,7 @@ Because the effect on the nursing infant is unknown, gabapentin should be used i
 
 Safety and effectiveness of gabapentin in the management of postherpetic neuralgia in pediatric patients have not been established.
 
-Effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established (see CLINICAL PHARMACOLOGY: Clinical Studies).
+Effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established (seeCLINICAL PHARMACOLOGY, Clinical Studies).
 
 ## Geriatric Use
 
@@ -250,4 +251,4 @@ Other reported clinical experience has not identified differences in responses b
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients (see CLINICAL PHARMACOLOGY, ADVERSE REACTIONS, and DOSAGE AND ADMINISTRATION sections).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients (see CLINICAL PHARMACOLOGY, ADVERSE REACTIONS, and DOSAGE AND ADMINISTRATION).
