@@ -113,7 +113,6 @@ Fluoxetine capsules are used to treat:
 - Bulimia Nervosa*
 - Panic Disorder*
 - Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa®)*
-- Treatment Resistant Depression (depression that has not gotten better with at least 2 other treatments), taken with olanzapine (Zyprexa®)*
 
 * Not approved for use in children
 
@@ -256,11 +255,11 @@ This Medication Guide summarizes the most important information about fluoxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about fluoxetine capsules that is written for healthcare professionals.
 
-For more information about fluoxetine capsules call 1-866-832-8537, MEDICAL AFFAIRS.
+For more information about fluoxetine capsules call 1-888-838-2872.
 
 What are the ingredients in fluoxetine capsules?
 
-Active ingredient: fluoxetine hydrochloride, USP
+Active ingredient: fluoxetine hydrochloride
 
 Inactive ingredients: colloidal silicon dioxide, pregelatinized corn starch, and simethicone.
 The capsule shell contains D&C Red #28, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, gelatin, and titanium dioxide.
@@ -295,4 +294,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-F 1/2013
+G 8/2013

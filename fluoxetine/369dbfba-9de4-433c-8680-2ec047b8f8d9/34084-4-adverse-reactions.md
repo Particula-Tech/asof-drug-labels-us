@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-When using fluoxetine and olanzapine in combination, also refer to the Adverse Reactions section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Adverse Reactions section of the package insert for Symbyax.
 
 ## 6.1 Clinical Trials Experience
 
@@ -163,7 +163,7 @@ Special Senses — Frequent: taste perversion; Infrequent: mydriasis.
 
 Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding2.
 
-1 MedDRA dictionary term from integrated database of placebo controlled trials of 15870 patients, of which 9673 patients received fluoxetine.
+1 MedDRA dictionary term from integrated database of placebo controlled trials of 15,870 patients, of which 9673 patients received fluoxetine.
 
 2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
 Adjusted for gender.
