@@ -76,6 +76,7 @@ Before you take clopidogrel tablets, tell your doctor if you:
   It is not known if clopidogrel passes into your breast milk.
   You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
   You should not do both without talking to your doctor.
+- have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
 They should talk to the doctor who prescribed clopidogrel tablets for you before you have any surgery or invasive procedure.
@@ -108,7 +109,7 @@ How should I take clopidogrel tablets?
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses of clopidogrel tablets at the same time unless your doctor tells you to.
-- If you take too much clopidogrel tablets, call your doctor or go to the nearest emergency room right away.
+- If you take too many clopidogrel tablets, call your doctor or go to the nearest emergency room right away.
 - Talk with your doctor about stopping your clopidogrel tablets before you have surgery.
   Your doctor may tell you to stop taking clopidogrel tablets at least 5 days before you have surgery to avoid excessive bleeding during surgery.
 
@@ -140,6 +141,7 @@ Clopidogrel tablets can cause serious side effects including:
   - vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
+Tell your doctor if you develop an allergic reaction while taking clopidogrel tablets.
 
 These are not all the possible side effects of clopidogrel tablets.
 For more information, ask your doctor or pharmacist.
@@ -164,7 +166,7 @@ This Medication Guide summarizes the most important information about clopidogre
 If you would like more information, talk to your doctor.
 Ask your doctor or pharmacist for information about clopidogrel tablets that was written for healthcare professionals.
 
-For more information, call 1-888-838-2872, MEDICAL AFFAIRS.
+For more information, call 1-888-838-2872.
 
 What are the ingredients in clopidogrel tablets USP?
 
@@ -189,5 +191,5 @@ TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
 
-Iss.
-12/2011
+Rev.
+A 9/2013
