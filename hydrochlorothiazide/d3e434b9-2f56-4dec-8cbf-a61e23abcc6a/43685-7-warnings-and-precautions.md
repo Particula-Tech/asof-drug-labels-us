@@ -1,30 +1,25 @@
 # WARNINGS
 
-## Fetal/Neonatal Morbidity and Mortality
+## Fetal Toxicity
 
-Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature in patients who were taking angiotensin converting enzyme inhibitors.
-When pregnancy is detected, HYZAAR should be discontinued as soon as possible.
+### Pregnancy Category D
 
-The use of drugs that act directly on the renin-angiotensin system during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to exposure to the drug.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue HYZAAR as soon as possible.
+These adverse outcomes are usually associated with the use of these drugs in the second and third trimester of pregnancy.
+Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
+Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
-These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+Perform serial ultrasound examinations to assess the intra-amniotic environment.
 
-Mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should have the patient discontinue the use of HYZAAR as soon as possible.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to an angiotensin II receptor antagonist will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intra-amniotic environment.
-
-If oligohydramnios is observed, HYZAAR should be discontinued unless it is considered life-saving for the mother.
-Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
+If oligohydramnios is observed, discontinue HYZAAR, unless it is considered life-saving for the mother.
+Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
-Infants with histories of in utero exposure to an angiotensin II receptor antagonist should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
+Closely observe infants with histories of in utero exposure to HYZAAR for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
 
 There was no evidence of teratogenicity in rats or rabbits treated with a maximum losartan potassium dose of 10 mg/kg/day in combination with 2.5 mg/kg/day of hydrochlorothiazide.
 At these dosages, respective exposures (AUCs) of losartan, its active metabolite, and hydrochlorothiazide in rabbits were approximately 5, 1.5, and 1.0 times those achieved in humans with 100 mg losartan in combination with 25 mg hydrochlorothiazide.
@@ -79,7 +74,7 @@ Risk factors for developing acute angle-closure glaucoma may include a history o
 ## General
 
 Hypersensitivity: Angioedema.
-See ADVERSE REACTIONS, Post-Marketing Experience.
+See ADVERSE REACTIONS, Postmarketing Experience.
 
 ### Losartan Potassium and Hydrochlorothiazide
 
@@ -142,8 +137,9 @@ Cumulative effects of the drug may develop in patients with impaired renal funct
 
 ## Information for Patients
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to drugs that act on the renin-angiotensin system, and they should also be told that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-These patients should be asked to report pregnancies to their physicians as soon as possible.
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to HYZAAR during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 Symptomatic Hypotension: A patient receiving HYZAAR should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
 The patients should be told that if syncope occurs, HYZAAR should be discontinued until the physician has been consulted.
@@ -252,11 +248,6 @@ Positive test results were obtained only in the in vitro CHO Sister Chromatid Ex
 
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to mating and throughout gestation.
 
-## Pregnancy
-
-Pregnancy Categories C (first trimester) and D (second and third trimesters).
-See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
 ## Nursing Mothers
 
 It is not known whether losartan is excreted in human milk, but significant levels of losartan and its active metabolite were shown to be present in rat milk.
@@ -266,6 +257,11 @@ Because of the potential for adverse effects on the nursing infant, a decision s
 ## Pediatric Use
 
 Safety and effectiveness of HYZAAR in pediatric patients have not been established.
+
+### Neonates with a history of in utero exposure to HYZAAR
+
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
 ## Geriatric Use
 

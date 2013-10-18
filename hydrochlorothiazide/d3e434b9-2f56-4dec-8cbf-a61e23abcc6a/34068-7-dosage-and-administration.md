@@ -28,7 +28,7 @@ The usual dose of HYZAAR is one tablet of HYZAAR 50/12.5 once daily.
 More than two tablets of HYZAAR 50/12.5 once daily or more than one tablet of HYZAAR 100/25 once daily is not recommended.
 The maximal antihypertensive effect is attained about 3 weeks after initiation of therapy.
 
-Use in Patients with Renal Impairment: The usual regimens of therapy with HYZAAR may be followed as long as the patient's creatinine clearance is >30 mL/min.
+Use in Patients with Renal Impairment: The usual regimens of therapy with HYZAAR may be followed as long as the patient's creatinine clearance is greater than 30 mL/min.
 In patients with more severe renal impairment, loop diuretics are preferred to thiazides, so HYZAAR is not recommended.
 
 Patients with Hepatic Impairment: HYZAAR is not recommended for titration in patients with hepatic impairment (see WARNINGS, Impaired Hepatic Function) because the appropriate 25 mg starting dose of losartan cannot be given.

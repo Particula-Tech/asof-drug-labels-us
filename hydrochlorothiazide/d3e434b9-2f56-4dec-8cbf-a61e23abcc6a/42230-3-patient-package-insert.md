@@ -6,10 +6,9 @@ This leaflet does not take the place of talking with your doctor about your cond
 
 ## What is the most important information I should know about HYZAAR?
 
-Do not take HYZAAR if you are pregnant or plan to become pregnant.
-HYZAAR can harm your unborn baby causing injury and even death.
-Stop taking HYZAAR if you become pregnant and call your doctor right away.
-If you plan to become pregnant, talk to your doctor about other treatment options before taking HYZAAR.
+- HYZAAR can cause harm or death to an unborn baby.
+- Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+- If you get pregnant while taking HYZAAR tell your doctor right away.
 
 ## What is HYZAAR?
 
@@ -23,7 +22,8 @@ It is used to:
 
 HYZAAR has not been studied in children less than 18 years old.
 
-High Blood Pressure (hypertension) Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
+High Blood Pressure (hypertension).
+Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 The losartan ingredient in HYZAAR can help your blood vessels relax so your blood pressure is lower.
 The hydrochlorothiazide ingredient in HYZAAR works by making your kidneys pass more water and salt.
@@ -49,9 +49,9 @@ Tell your doctor about all your medical conditions including if you:
 
 - are pregnant or planning to become pregnant.
   See "What is the most important information I should know about HYZAAR?"
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   HYZAAR can pass into your milk and may harm your baby.
-  You and your doctor should decide if you will take HYZAAR or breast-feed.
+  You and your doctor should decide if you will take HYZAAR or breastfeed.
   You should not do both.
 - have been vomiting (throwing up), having diarrhea, sweating a lot, or not drinking enough fluids.
   These could cause you to have low blood pressure.
@@ -93,16 +93,16 @@ Keep a list of your medicines and show it to your doctor and pharmacist when you
 
 HYZAAR may cause the following side effects that may be serious:
 
-- injury or death of unborn babies.
+- Injury or death of unborn babies.
   See "What is the most important information I should know about HYZAAR?"
-- allergic reaction.
+- Allergic reaction.
   Symptoms of an allergic reaction are swelling of the face, lips, throat, or tongue.
   Get emergency medical help right away and stop taking HYZAAR.
-- low blood pressure (hypotension).
+- Low blood pressure (hypotension).
   Low blood pressure may cause you to feel faint or dizzy.
   Lie down if you feel faint or dizzy.
   Call your doctor right away.
-- a new or worsening condition called systemic lupus erythematosus (Lupus; SLE)
+- A new or worsening condition called systemic lupus erythematosus (Lupus; SLE)
 - If you have kidney problems, you may see a worsening in how well your kidneys work.
   Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain.
 - If you have liver problems, you may see a worsening in how well your liver works.
@@ -154,11 +154,3 @@ microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium st
 HYZAAR 50/12.5 and HYZAAR 100/25 also contain D&C yellow No. 10 aluminum lake.
 
 HYZAAR 50/12.5, HYZAAR 100/12.5, and HYZAAR 100/25 may also contain carnauba wax.
-
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Copyright © 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
-
-Revised: 11/2012
-
-USPPI-T-0954A1211R007

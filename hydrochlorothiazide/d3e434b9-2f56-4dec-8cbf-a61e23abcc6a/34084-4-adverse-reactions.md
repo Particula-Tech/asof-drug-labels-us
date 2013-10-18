@@ -11,6 +11,8 @@ In controlled clinical trials, discontinuation of therapy due to clinical advers
 
 In these double-blind controlled clinical trials, the following adverse experiences reported with losartan and hydrochlorothiazide occurred in ≥1 percent of patients, and more often on drug than placebo, regardless of drug relationship:
 
+Table 1:
+
 |  | Losartan Potassium and Hydrochlorothiazide (n=858) | Placebo (n=173) |
 | --- | --- | --- |
 | Body as a Whole Abdominal pain Edema/swelling | 1.2 1.3 | 0.6 1.2 |
@@ -47,6 +49,8 @@ Patients who had typical ACE-inhibitor cough when challenged with lisinopril, wh
 The double-blind treatment period lasted up to 8 weeks.
 The incidence of cough is shown below.
 
+Table 2:
+
 | Study 1Demographics = (89% Caucasian, 64% female). | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
 | Cough | 25% | 17% | 69% |
@@ -55,7 +59,7 @@ The incidence of cough is shown below.
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.
 
-Cases of cough, including positive re-challenges, have been reported with the use of losartan in post-marketing experience.
+Cases of cough, including positive re-challenges, have been reported with the use of losartan in postmarketing experience.
 
 ## Severe Hypertension
 
@@ -65,9 +69,9 @@ There were 2 (0.6%) and 0 (0.0%) cases of hypotension reported in the group trea
 There were 3 (0.8%) and 2 (1.2%) cases of increased serum creatinine (>0.5 mg/dL) in the group treated with HYZAAR and the group treated with losartan, respectively, during the same time period.
 (See CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Severe Hypertension.)
 
-## Post-Marketing Experience
+## Postmarketing Experience
 
-The following additional adverse reactions have been reported in post-marketing experience:
+The following additional adverse reactions have been reported in postmarketing experience:
 
 Digestive: Hepatitis has been reported rarely in patients treated with losartan.
 
