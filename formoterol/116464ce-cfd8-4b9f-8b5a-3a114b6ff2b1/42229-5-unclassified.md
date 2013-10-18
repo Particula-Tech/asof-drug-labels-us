@@ -8,7 +8,7 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-ao-mk0887a-1308r020
+uspi-mk0887a-ao-1310r021
 
 Patient Instructions for Use
 
