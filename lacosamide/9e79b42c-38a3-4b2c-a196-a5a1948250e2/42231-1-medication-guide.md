@@ -41,10 +41,10 @@ VIMPAT can cause serious side effects, including:
   - Do not stop VIMPAT without first talking to a healthcare provider.
     Stopping VIMPAT suddenly can cause serious problems.
     Stopping seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
-- 2.Vimpat may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
+- 2.VIMPAT may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
   Do not drive, operate heavy machinery, or do other dangerous activities until you know how VIMPAT affects you.
 - 3.VIMPAT may cause you to have an irregular heartbeat or may cause you to faint.
-  Call your healthcare provider if you have: If you have fainted or feel like you are going to faint you should lay down with your legs raised until you feel better.
+  Call your healthcare provider if you have: If you have fainted or feel like you are going to faint you should lay down with your legs raised.
   - fast, slow, or pounding heartbeat
   - shortness of breath
   - feel lightheaded
@@ -133,7 +133,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store VIMPAT?
 
-- Store VIMPAT between 59° F to 86° F (15° C to 30° C)
+- Store VIMPAT between 59°F to 86°F (15°C to 30°C)
 
 Keep VIMPAT and all medicines out of the reach of children
 
@@ -163,7 +163,7 @@ What are the ingredients in VIMPAT?
 
 Manufactured for UCB, Inc. Smyrna, GA 30080
 
-Issued 04/2011
+Issued 09/2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

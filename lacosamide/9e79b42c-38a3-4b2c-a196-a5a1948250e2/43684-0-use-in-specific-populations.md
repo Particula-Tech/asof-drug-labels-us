@@ -9,7 +9,7 @@ Developmental neurotoxicity was observed in rats following administration during
 These effects were observed at doses associated with clinically relevant plasma exposures.
 
 Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
-Potential related adverse effects on CNS development can not be ruled out.
+Potential related adverse effects on CNS development cannot be ruled out.
 
 There are no adequate and well-controlled studies in pregnant women.
 VIMPAT should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -50,7 +50,7 @@ Because many drugs are excreted into human milk, a decision should be made wheth
 The safety and effectiveness of VIMPAT in pediatric patients <17 years have not been established.
 
 Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
-Potential related adverse effects on CNS development can not be ruled out.
+Potential related adverse effects on CNS development cannot be ruled out.
 Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) approximately 0.5 times the human plasma AUC at the maximum recommended human dose of 400 mg/day.
 
@@ -67,7 +67,7 @@ In elderly patients, dose titration should be performed with caution.
 A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30mL/min) and in patients with endstage renal disease.
 VIMPAT is effectively removed from plasma by hemodialysis.
 Dosage supplementation of up to 50% following hemodialysis should be considered.
-In all renal impaired patients, dose titration should be performed with caution.
+In all renally impaired patients, dose titration should be performed with caution.
 [See Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]
 
 ## 8.7 Patients with Hepatic Impairment

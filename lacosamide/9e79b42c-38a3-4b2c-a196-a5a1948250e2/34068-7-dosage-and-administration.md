@@ -12,7 +12,7 @@ VIMPAT can be initiated with either oral or intravenous administration.
 The initial dose should be 50 mg twice daily (100 mg per day).
 VIMPAT can be increased at weekly intervals by 100 mg/day given as two divided doses up to the recommended maintenance dose of 200 to 400 mg/day, based on individual patient response and tolerability.
 In clinical trials, the 600 mg daily dose was not more effective than the 400 mg daily dose, and was associated with a substantially higher rate of adverse reactions.
-[see Clinical Studies (14.1)]
+[See Clinical Studies (14.1)]
 
 Switching from Oral to Intravenous Dosing
 
