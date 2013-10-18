@@ -75,3 +75,7 @@ Psychiatric Disorder: hallucinations, confusion, insomnia, somnolence
 Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
 
 Infections and Infestations: Clostridium difficile associated diarrhea
+
+Hematologic: pancytopenia, agranulocytosis
+
+Nervous: ageusia, dysgeusia
