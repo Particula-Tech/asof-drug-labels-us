@@ -7,7 +7,7 @@ When inhaled, tobramycin is concentrated in the airways.
 
 TOBI® contains tobramycin, a cationic polar molecule that does not readily cross epithelial membranes.(1) The bioavailability of TOBI® may vary because of individual differences in nebulizer performance and airway pathology.(2) Following administration of TOBI®, tobramycin remains concentrated primarily in the airways.
 
-Sputum Concentrations: Ten minutes after inhalation of the first 300-mg dose of TOBI®, the average concentration of tobramycin was 1237 µg/g (ranging from 35 to 7414 µg/g) in sputum.
+Sputum Concentrations: Ten minutes after inhalation of the first 300-mg dose of TOBI®, the average concentration of tobramycin was 1237 µg/g (ranging from 35 to 7417 µg/g) in sputum.
 Tobramycin does not accumulate in sputum; after 20 weeks of therapy with the TOBI® regimen, the average concentration of tobramycin at ten minutes after inhalation was 1154 µg/g (ranging from 39 to 8085 µg/g) in sputum.
 High variability of tobramycin concentration in sputum was observed.
 Two hours after inhalation, sputum concentrations declined to approximately 14% of tobramycin levels at ten minutes after inhalation.

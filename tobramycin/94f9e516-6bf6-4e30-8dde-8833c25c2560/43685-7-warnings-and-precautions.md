@@ -26,7 +26,7 @@ If nephrotoxicity occurs in a patient receiving TOBI®, tobramycin therapy shoul
 
 ## Muscular Disorders
 
-TOBI® should be used cautiously in patients with muscular disorders, such as myasthenia gravis or Parkinson’s disease, since aminoglycosides may aggravate muscle weakness because of a potential curare-like effect on neuromuscular function.
+TOBI® should be used cautiously in patients with neuromuscular disorders, such as myasthenia gravis or Parkinson’s disease, since aminoglycosides may aggravate muscle weakness because of a potential curare-like effect on neuromuscular function.
 
 ## Bronchospasm
 
@@ -119,7 +119,7 @@ You should have the following parts:
 - Tubing
 
 4.
-Remove the Nebulizer Top from the Nebulizer Cup by twisting the Nebulizer Top counter-clockwise, and then lifting.
+Remove the Nebulizer Top from the Nebulizer Cup by twisting the Nebulizer Top counter-clockwise, and then lifting off.
 Place the Nebulizer Top on the clean paper or cloth towel.
 Stand the Nebulizer Cup upright on the towel.
 
@@ -145,7 +145,7 @@ Then firmly push the Inspiratory Valve Cap in place on the Nebulizer Top.
 Note: the Inspiratory Valve Cap will fit snugly.
 
 10.
-Connect the free end of the tubing to the Air Intake on the bottom of the nebulizer, making sure to keep the nebulizer upright.
+Connect the free end of the tubing from the compressor to the Air Intake on the bottom of the nebulizer, making sure to keep the nebulizer upright.
 Press the tubing on the Air Intake firmly.
 
 ## TOBI® Treatment
@@ -262,6 +262,10 @@ Serum Concentrations
 In patients with normal renal function treated with TOBI®, serum tobramycin concentrations are approximately 1 µg/mL 1 hour after dose administration and do not require routine monitoring.
 Serum concentrations of tobramycin in patients with renal dysfunction or patients treated with concomitant parenteral tobramycin should be monitored at the discretion of the treating physician.
 
+The serum concentration of tobramycin should only be monitored through venipuncture and not finger prick blood sampling.
+Contamination of the skin of the fingers with tobramycin may lead to falsely increased measurements of serum levels of the drug.
+This contamination cannot be completely avoided by hand washing before testing.
+
 Renal Function
 
 The clinical studies of TOBI® did not reveal any imbalance in the percentage of patients in the TOBI® and placebo groups who experienced at least a 50% rise in serum creatinine from baseline (see ADVERSE REACTIONS).
@@ -271,7 +275,7 @@ Laboratory tests of urine and renal function should be conducted at the discreti
 
 In clinical studies of TOBI®, patients taking TOBI® concomitantly with dornase alfa (PULMOZYME®, Genentech), ß-agonists, inhaled corticosteroids, other anti-pseudomonal antibiotics, or parenteral aminoglycosides demonstrated adverse experience profiles similar to the study population as a whole.
 
-Concurrent and/or sequential use of TOBI® with other drugs with neurotoxic or ototoxic potential should be avoided.
+Concurrent and/or sequential use of TOBI® with other drugs with neurotoxic, nephrotoxic, or ototoxic potential should be avoided.
 Some diuretics can enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
 TOBI® should not be administered concomitantly with ethacrynic acid, furosemide, urea, or mannitol.
 
@@ -310,3 +314,9 @@ Because of the potential for ototoxicity and nephrotoxicity in infants, a decisi
 ## Pediatric Use
 
 The safety and efficacy of TOBI® have not been studied in pediatric patients under 6 years of age.
+
+## Geriatric Use
+
+Clinical studies of TOBI® did not include patients aged 65 years and over.
+Tobramycin is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function (see WARNINGS – Nephrotoxicity; PRECAUTIONS – Serum Concentrations).

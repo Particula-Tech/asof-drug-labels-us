@@ -2,4 +2,4 @@
 
 TOBI® is indicated for the management of cystic fibrosis patients with P. aeruginosa.
 
-Safety and efficacy have not been demonstrated in patients under the age of 6 years, patients with FEV1 <25% or >75% predicted, or patients colonized with Burkholderia cepacia (see CLINICAL STUDIES).
+Safety and efficacy have not been demonstrated in patients under the age of 6 years, patients with forced expiratory volume in 1 second (FEV1) <25% or >75% predicted, or patients colonized with Burkholderia cepacia (see CLINICAL STUDIES).

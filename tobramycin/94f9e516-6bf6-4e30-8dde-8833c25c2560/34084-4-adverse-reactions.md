@@ -3,7 +3,7 @@
 TOBI® was generally well tolerated during two clinical studies in 258 cystic fibrosis patients ranging in age from 6 to 48 years.
 Patients received TOBI® in alternating periods of 28 days on and 28 days off drug in addition to their standard cystic fibrosis therapy for a total of 24 weeks.
 
-Voice alteration and tinnitus were the only adverse experiences reported by significantly more TOBI®-treated patients.
+Voice alteration and tinnitus were the only adverse experiences reported by significantly more TOBI® -treated patients.
 Thirty-three patients (13%) treated with TOBI® complained of voice alteration compared to 17 (7%) placebo patients.
 Voice alteration was more common in the on-drug periods.
 
@@ -53,5 +53,40 @@ Table 1: Percent of Patients With Treatment Emergent Adverse Experiences Occurri
 | Dizziness | 5.8 | 7.6 |
 | Hyperventilation | 5.4 | 9.9 |
 | Rash | 5.4 | 6.1 |
-| 1 Includes subjective complaints of fever. |  |  |
-| 2 Includes reported decreases in pulmonary function tests or decreased lung volume on chest radiograph associated with intercurrent illness or study drug administration. |  |  |
+| 1Includes subjective complaints of fever. |  |  |
+| 2Includes reported decreases in pulmonary function tests or decreased lung volume on chest radiograph associated with intercurrent illness or study drug administration. |  |  |
+
+Adverse drug reactions (<5%) occurring more frequently with TOBI in the placebo-controlled studies and assessed as drug-related in ≥1% of patients:
+
+Ear and labyrinth disorders
+
+Tinnitus (3.1%, vs 0% for placebo)
+
+Musculoskeletal and connective tissue disorders
+
+Myalgia (4.7%, vs 2.7% for placebo)
+
+Infections and infestations
+
+Laryngitis (4.3%, vs 3.1% for placebo)
+
+Adverse drug reactions derived from spontaneous reports
+
+The following adverse reactions have been identified during postapproval use of TOBI.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Ear and labyrinth disorders
+
+Hearing loss (see WARNINGS – Ototoxicity)
+
+Skin and subcutaneous tissue disorders
+
+Hypersensitivity, pruritus, urticaria, rash
+
+Nervous system disorders
+
+Aphonia, dysgeusia
+
+Respiratory, thoracic, and mediastinal disorders
+
+Bronchospasm (see WARNINGS – Bronchospasm), oropharyngeal pain

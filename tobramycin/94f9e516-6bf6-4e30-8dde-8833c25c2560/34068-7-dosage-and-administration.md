@@ -17,6 +17,6 @@ TOBI® is not for subcutaneous, intravenous or intrathecal administration.
 ## Usage
 
 TOBI® is administered by inhalation over an approximately 15-minute period, using a hand-held PARI LC PLUS™ Reusable Nebulizer with a DeVilbiss® Pulmo-Aide® compressor.
-TOBI® should not be diluted or mixed with dornase alfa (PULMOZYME®, Genentech) in the nebulizer.
+TOBI® should not be diluted or mixed with dornase alfa (PULMOZYME®, Genentech) or other medications in the nebulizer.
 
 During clinical studies, patients on multiple therapies were instructed to take them first, followed by TOBI®.

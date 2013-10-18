@@ -15,16 +15,12 @@ Bryan LE.
 Aminoglycoside resistance.
 Bryan LE, Ed.
 Antimicrobial drug resistance.
-Orlando, FL:Academic Press, 1984: 241-77.
+Orlando, FL: Academic Press, 1984: 241-77.
 
 U.S. Patent 5,508,269; other patents pending.
 
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
-
-REV: NOVEMBER 2009 T2009-119
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
+
+T2013-80 September 2013
