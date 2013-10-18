@@ -2,4 +2,7 @@ CIV
 
 Rx only
 
-LAB-0004-7.0 Revised August 2011
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+LAB-0004-8.0 September 2013

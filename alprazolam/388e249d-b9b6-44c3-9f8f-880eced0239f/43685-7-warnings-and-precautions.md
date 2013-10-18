@@ -97,6 +97,13 @@ Coadministration of fluvoxamine approximately doubled the maximum plasma concent
 
 Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
 
+#### HIV protease inhibitors
+
+Interactions involving HIV protease inhibitors (eg, ritonavir) and alprazolam are complex and time dependent.
+Low doses of ritonavir resulted in a large impairment of alprazolam clearance, prolonged its elimination half-life and enhanced clinical effects.
+However, upon extended exposure to ritonavir, CYP3A induction offset this inhibition.
+This interaction will require a dose-adjustment or discontinuation of alprazolam.
+
 ### Other drugs possibly affecting alprazolam metabolism
 
 Other drugs possibly affecting alprazolam metabolism by inhibition of CYP3A are discussed in the PRECAUTIONS section (see PRECAUTIONS–Drug Interactions).
@@ -166,6 +173,11 @@ However, when treatment is protracted, periodic blood counts, urinalysis, and bl
 
 If XANAX Tablets are to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed, particularly with compounds which might potentiate the action of benzodiazepines.
 The benzodiazepines, including alprazolam, produce additive CNS depressant effects when co-administered with other psychotropic medications, anticonvulsants, antihistaminics, ethanol and other drugs which themselves produce CNS depression.
+
+### Use with Digoxin
+
+Increased digoxin concentrations have been reported when alprazolam was given, especially in elderly (>65 years of age).
+Patients who receive alprazolam and digoxin should therefore be monitored for signs and symptoms related to digoxin toxicity.
 
 ### Use with Imipramine and Desipramine
 
