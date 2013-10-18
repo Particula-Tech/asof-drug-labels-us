@@ -1,5 +1,6 @@
 # 10 OVERDOSAGE
 
+No data are available on overdose of STRIBILD in patients.
 If overdose occurs the patient must be monitored for evidence of toxicity.
 Treatment of overdose with STRIBILD consists of general supportive measures including monitoring of vital signs as well as observation of the clinical status of the patient.
 
@@ -10,21 +11,21 @@ The effects of higher doses are not known.
 As elvitegravir is highly bound to plasma proteins, it is unlikely that it will be significantly removed by hemodialysis or peritoneal dialysis.
 
 Cobicistat: Limited clinical experience is available at doses higher than the therapeutic dose of cobicistat.
-In two studies, a single dose of cobicistat 400 mg was administered to a total of 60 healthy subjects.
+In two studies, a single dose of cobicistat 400 mg (2.7 times the dose in STRIBILD) was administered to a total of 60 healthy subjects.
 No severe adverse reactions were reported.
 The effects of higher doses are not known.
 As cobicistat is highly bound to plasma proteins, it is unlikely that it will be significantly removed by hemodialysis or peritoneal dialysis.
 
 Emtricitabine: Limited clinical experience is available at doses higher than the therapeutic dose of EMTRIVA.
-In one clinical pharmacology study, single doses of emtricitabine 1200 mg were administered to 11 subjects.
+In one clinical pharmacology study, single doses of emtricitabine 1200 mg (6 times the dose in STRIBILD) were administered to 11 subjects.
 No severe adverse reactions were reported.
 The effects of higher doses are not known.
 
 Hemodialysis treatment removes approximately 30% of the emtricitabine dose over a 3 hour dialysis period starting within 1.5 hours of emtricitabine dosing (blood flow rate of 400 mL per minute and a dialysate flow rate of 600 mL per minute).
 It is not known whether emtricitabine can be removed by peritoneal dialysis.
 
-Tenofovir Disoproxil Fumarate: Limited clinical experience at doses higher than the therapeutic dose of VIREAD 300 mg is available.
-In one study, 600 mg tenofovir DF was administered to 8 subjects orally for 28 days, and no severe adverse reactions were reported.
+Tenofovir DF: Limited clinical experience at doses higher than the therapeutic dose of VIREAD 300 mg is available.
+In one study, 600 mg tenofovir DF (2 times the dosage in STRIBILD) was administered to 8 subjects orally for 28 days, and no severe adverse reactions were reported.
 The effects of higher doses are not known.
 Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.
 Following a single 300 mg dose of VIREAD, a 4-hour hemodialysis session removed approximately 10% of the administered tenofovir dose.

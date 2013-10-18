@@ -20,13 +20,13 @@ Cobicistat: Studies in animals have shown no evidence of teratogenicity or an ef
 In offspring from rat and rabbit dams treated with cobicistat during pregnancy, there were no toxicologically significant effects on developmental endpoints.
 The exposures (AUC) at the embryo-fetal NOAELs in rats and rabbits were respectively 1.8 and 4.3 times higher than the exposure in humans at the recommended daily dose of 150 mg.
 
-Emtricitabine: The incidence of fetal variations and malformations was not increased in embryofetal toxicity studies performed with emtricitabine in mice at exposures (AUC) approximately 60 times higher and in rabbits at approximately 120 times higher than human exposures at the recommended daily dose.
+Emtricitabine: The incidence of fetal variations and malformations was not increased in embryo-fetal toxicity studies performed with emtricitabine in mice at exposures (AUC) approximately 60 times higher and in rabbits at approximately 120 times higher than human exposures at the recommended daily dose.
 
-Tenofovir Disoproxil Fumarate: Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
+Tenofovir DF: Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
 
 ## 8.3 Nursing Mothers
 
-The Centers for Disease Control and Prevention recommend that HIV infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
+The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 Studies in rats have demonstrated that elvitegravir, cobicistat, and tenofovir are secreted in milk.
 It is not known whether elvitegravir or cobicistat is excreted in human milk.
 
@@ -41,18 +41,19 @@ Because of both the potential for HIV transmission and the potential for serious
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of STRIBILD in pediatric patients less than 18 years of age have not been established [See Clinical Pharmacology (12.3)].
+Safety and effectiveness of STRIBILD in pediatric patients less than 18 years of age have not been established [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
 Clinical studies of STRIBILD did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for the elderly patients should be cautious, keeping in mind the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [See Clinical Pharmacology (12.3)].
+In general, caution should be exercised in the administration of STRIBILD in elderly patients, keeping in mind the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-STRIBILD should not be initiated in patients with estimated creatinine clearance below 70 mL per min. Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per min during treatment with STRIBILD as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved [See Warnings and Precautions (5.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+Initiation of STRIBILD in patients with estimated creatinine clearance below 70 mL per min is not recommended.
+Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per min during treatment with STRIBILD as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved [see Warnings and Precautions (5.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 ## 8.7 Hepatic Impairment
 
 No dose adjustment of STRIBILD is required in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment.
-No pharmacokinetic or safety data are available regarding the use of STRIBILD in patients with severe hepatic impairment (Child-Pugh Class C). Therefore, STRIBILD is not recommended for use in patients with severe hepatic impairment [See Dosage and Administration (2) and Clinical Pharmacology (12.3)].
+No pharmacokinetic or safety data are available regarding the use of STRIBILD in patients with severe hepatic impairment (Child-Pugh Class C). Therefore, STRIBILD is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].

@@ -1,6 +1,6 @@
 Patient Information
 
-STRIBILD™ (STRY-bild) (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) Tablets
+STRIBILD® (STRY-bild) (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) Tablets
 
 Important: Ask your healthcare provider or pharmacist about medicines that should not be taken with STRIBILD.
 For more information, see the section "What should I tell my healthcare provider before taking STRIBILD?"
@@ -38,7 +38,8 @@ STRIBILD can cause serious side effects, including:
   - loss of appetite for several days or longer
   - nausea
   - stomach pain
-- 3.Worsening of Hepatitis B infection.
+- 3.
+  Worsening of Hepatitis B infection.
   If you have hepatitis B virus (HBV) infection and take STRIBILD, your HBV may get worse (flare-up) if you stop taking STRIBILD.
   A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
   - Do not run out of STRIBILD.
@@ -116,7 +117,7 @@ Before taking STRIBILD, tell your healthcare provider if you:
 - are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take STRIBILD.
   - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
-  - Two of the medicines in STRIBILD can pass to your baby in your breast milk.
+  - At least two of the medicines in STRIBILD can pass to your baby in your breast milk.
     It is not known if the other medicines in STRIBILD can pass into your breast milk.
 
 Talk with your healthcare provider about the best way to feed your baby.
@@ -128,8 +129,9 @@ You should not take STRIBILD if you also take:
 
 - any other medicines to treat HIV-1 infection
 - other medicines that contain tenofovir (ATRIPLA®, COMPLERA®, VIREAD®, TRUVADA®)
-- other medicines that contain emtricitabine or lamivudine (COMBIVIR®, EMTRIVA®, EPIVIR® or EPIVIR-HBV®, EPZICOM®, TRIZIVIR®)
+- other medicines that contain emtricitabine or lamivudine (ATRIPLA®, COMPLERA®, TRUVADA®, COMBIVIR®, EMTRIVA®, EPIVIR® or EPIVIR-HBV®, EPZICOM®, TRIZIVIR®)
 - adefovir (HEPSERA®)
+- ritonavir (NORVIR®, KALETRA®)
 
 Especially tell your healthcare provider if you take:
 
@@ -142,14 +144,14 @@ Especially tell your healthcare provider if you take:
 - any of the following medicines:
   - amiodarone (CORDARONE®, PACERONE®)
   - atorvastatin (LIPITOR®, CADUET®)
-  - bepridil hydrochloric (VASCOR®, BEPADIN®)
+  - bepridil hydrochloride (VASCOR®, BEPADIN®)
   - bosentan (TRACLEER®)
   - buspirone
-  - carbamazepine (CARBATROL®, EPITOL®, EQUETRO®, TEGRETO®)
+  - carbamazepine (CARBATROL®, EPITOL®, EQUETRO®, TEGRETOL®)
   - clarithromycin (BIAXIN®, PREVPAC®)
   - clonazepam (KLONOPIN®)
   - clorazepate (GEN-XENE®, TRANXENE®)
-  - colchicine (Colcrys®)
+  - colchicine (COLCRYS®)
   - medicines that contain dexamethasone
   - diazepam (VALIUM®)
   - digoxin (LANOXIN®)
@@ -158,7 +160,7 @@ Especially tell your healthcare provider if you take:
   - ethosuximide (ZARONTIN®)
   - flecainide (TAMBOCOR®)
   - flurazepam
-  - fluticasone (FLOVENT®, FLONASE®, FLOVENT® DISKUS, FLOVENT® HFA, VERAMYST®)
+  - fluticasone (FLOVENT®, FLONASE®, FLOVENT® DISKUS®, FLOVENT® HFA, VERAMYST®)
   - itraconazole (SPORANOX®)
   - ketoconazole (NIZORAL®)
   - lidocaine (XYLOCAINE®)
@@ -240,7 +242,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store STRIBILD?
 
-- Store STRIBILD at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store STRIBILD at room temperature between 68 °F to 77 °F (20 °C to 25 °C).
 - Keep STRIBILD in its original container.
 - Keep the container tightly closed.
 - Do not use STRIBILD if the seal over the bottle opening is broken or missing.
@@ -271,10 +273,10 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
 
-Issued: August 2012
+Issued: October 2013
 
 COMPLERA, EMTRIVA, HEPSERA, STRIBILD, TRUVADA, and VIREAD are trademarks of Gilead Sciences, Inc., or its related companies.
 ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-203100-GS-000
+203100-GS-001

@@ -1,14 +1,14 @@
 # 11 DESCRIPTION
 
-STRIBILD is a fixed-dose combination tablet containing elvitegravir, cobicistat, emtricitabine, and tenofovir DF.
-Elvitegravir is a HIV-1 integrase strand transfer inhibitor.
-Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
-Tenofovir DF is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
-VIREAD is the brand name for tenofovir DF.
-Emtricitabine is a synthetic nucleoside analog of cytidine.
-EMTRIVA is the brand name for emtricitabine.
+STRIBILD is a fixed-dose combination tablet containing elvitegravir, cobicistat, emtricitabine, and tenofovir DF for oral administration.
 
-STRIBILD tablets are for oral administration.
+- Elvitegravir is an HIV-1 integrase strand transfer inhibitor.
+- Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
+- Emtricitabine is a synthetic nucleoside analog of cytidine.
+  EMTRIVA is the brand name for emtricitabine.
+- Tenofovir DF is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.
+  VIREAD is the brand name for tenofovir DF.
+
 Each tablet contains 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 300 mg of tenofovir DF (equivalent to 245 mg of tenofovir disoproxil).
 The tablets include the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, sodium lauryl sulfate, and magnesium stearate.
 The tablets are film-coated with a coating material containing indigo carmine (FD&C Blue #2) aluminum lake, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and yellow iron oxide.
