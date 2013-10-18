@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA090055",
+    "ANDA090456"
+  ],
+  "inn": "mycophenolate-mofetil",
+  "labeler": "Strides Arcolab Limited",
+  "package_ndcs": [
+    "64380-725-06",
+    "64380-726-06"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "mycophenolate mofetil",
+      "name": "Mycophenolate mofetil"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "mycophenolate mofetil",
+      "name": "Mycophenolate mofetil"
+    }
+  ],
+  "setid": "32dd890a-cfe3-4129-bce6-1d3dbe38e4f3",
+  "source": "dailymed"
+}
