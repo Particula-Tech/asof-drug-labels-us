@@ -15,12 +15,12 @@ The mean reduction in the number of micturitions per 24 hours was significantly 
 The mean reduction in the number of incontinence episodes per 24 hours was significantly greater with VESIcare 5 mg (1.5; p<0.001) and VESIcare 10 mg (1.8; p<0.001) treatment groups compared to placebo (1.1).
 The mean increase in the volume voided per micturition was significantly greater with VESIcare 5 mg (32.3 mL; p<0.001) and VESIcare 10 mg (42.5 mL; p<0.001) compared with placebo (8.5 mL).
 
-The results for the primary and secondary endpoints in the four individual 12-week clinical studies of VESIcare are reported in Tables 3 through 6.
+The results for the primary and secondary endpoints in the four individual 12-week clinical studies of VESIcare are reported in Table 3 through 6.
 
 Table 3.
 Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Placebo: Study 1
 
-| Parameter | Placebo(N=253)Mean (SE) | VESIcare5 mg(N=266)Mean (SE) | VESIcare10 mg(N=264)Mean (SE) |
+| Parameter | Placebo (N=253) Mean (SE) | VESIcare 5 mg (N=266) Mean (SE) | VESIcare 10 mg (N=264) Mean (SE) |
 | --- | --- | --- | --- |
 | Urinary Frequency (Number of Micturitions/24 hours) Primary endpoint |  |  |  |
 | Baseline Reduction P value vs. placebo | 12.2 (0.26)1.2 (0.21) | 12.1 (0.24)2.2 (0.18) <0.001 | 12.3 (0.24)2.6 (0.20) <0. 001 |
@@ -32,7 +32,7 @@ Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Pl
 Table 4.
 Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Placebo: Study 2
 
-| Parameter | Placebo(N=281)Mean (SE) | VESIcare5 mg(N=286)Mean (SE) | VESIcare10 mg(N=290)Mean (SE) |
+| Parameter | Placebo (N=281) Mean (SE) | VESIcare 5 mg (N=286) Mean (SE) | VESIcare 10 mg (N=290) Mean (SE) |
 | --- | --- | --- | --- |
 | Urinary Frequency (Number of Micturitions/24 hours) Primary endpoint |  |  |  |
 | Baseline Reduction P value vs. placebo | 12.3 (0.23)1.7 (0.19) | 12.1 (0.23)2.4 (0.17)<0.001 | 12.1 (0.21)2.9 (0.18)<0. 001 |
@@ -44,7 +44,7 @@ Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Pl
 Table 5.
 Mean Change from Baseline to Endpoint for VESIcare (10 mg daily) and Placebo: Study 3
 
-| Parameter | Placebo(N=309)Mean (SE) | VESIcare10 mg(N=306)Mean (SE) |
+| Parameter | Placebo (N=309) Mean (SE) | VESIcare 10 mg (N=306) Mean (SE) |
 | --- | --- | --- |
 | Urinary Frequency (Number of Micturitions/24 hours) Primary endpoint |  |  |
 | Baseline Reduction P value vs. placebo | 11.5 (0.18)1.5 (0.15) | 11.7 (0.18)3.0 (0.15)<0. 001 |
@@ -56,7 +56,7 @@ Mean Change from Baseline to Endpoint for VESIcare (10 mg daily) and Placebo: St
 Table 6.
 Mean Change from Baseline to Endpoint for VESIcare (10 mg daily) and Placebo: Study 4
 
-| Parameter | Placebo(N=295)Mean (SE) | VESIcare10 mg(N=298)Mean (SE) |
+| Parameter | Placebo (N=295) Mean (SE) | VESIcare 10 mg (N=298) Mean (SE) |
 | --- | --- | --- |
 | Urinary Frequency (Number of Micturitions/24 hours) Primary endpoint |  |  |
 | Baseline Reduction P value vs. placebo | 11.8 (0.18)1.3 (0.16) | 11.5 (0.18)2.4 (0.15)<0. 001 |

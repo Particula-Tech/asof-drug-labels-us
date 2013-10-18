@@ -53,7 +53,7 @@ Doses of VESIcare greater than 5 mg are not recommended in patients with severe 
 
 VESIcare should be used with caution in patients with reduced hepatic function.
 There is a 2-fold increase in the t1/2 and 35% increase in AUC of solifenacin in patients with moderate hepatic impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C) [see Warnings and Precautions (5.6); Dosage and Administration(2.3)].
+Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C) [see Warnings and Precautions (5.6); Dosage and Administration (2.3)].
 
 ## 8.8 Gender
 

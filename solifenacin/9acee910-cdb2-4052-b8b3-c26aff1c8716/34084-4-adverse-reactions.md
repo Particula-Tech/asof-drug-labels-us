@@ -18,7 +18,7 @@ Table 1 lists the rates of identified adverse reactions, derived from all report
 Table 1.
 Percentages of Patients with Identified Adverse Reactions, Derived from All Adverse Events Exceeding Placebo Rate and Reported by 1% or More Patients for Combined Pivotal Studies
 
-|  | Placebo(%) | VESIcare5 mg(%) | VESIcare10 mg(%) |
+|  | Placebo (%) | VESIcare 5 mg (%) | VESIcare 10 mg (%) |
 | --- | --- | --- | --- |
 | Number of Patients | 1216 | 578 | 1233 |
 | GASTROINTESTINAL DISORDERS |  |  |  |
@@ -59,7 +59,7 @@ General: peripheral edema, hypersensitivity reactions, including angioedema with
 
 Central Nervous: headache, confusion, hallucinations, delirium and somnolence;
 
-Cardiovascular: QT prolongation; Torsade de Pointes;
+Cardiovascular: QT prolongation; Torsade de Pointes, atrial fibrillation, tachycardia, palpitations;
 
 Hepatic: liver disorders mostly characterized by abnormal liver function tests, AST (aspartate aminotransferase), ALT (alanine aminotransferase), GGT (gamma-glutamyl transferase);
 
@@ -69,9 +69,9 @@ Metabolism and nutrition disorders: decreased appetite, hyperkalemia;
 
 Dermatologic: exfoliative dermatitis and erythema multiforme;
 
-Eye disorders: glaucoma;
+Eye disorders:glaucoma;
 
-Gastrointestinal disorders: gastroesophageal reflux disease and ileus;
+Gastrointestinal disorders:gastroesophageal reflux disease and ileus;
 
 Respiratory, thoracic and mediastinal disorders: dysphonia;
 
