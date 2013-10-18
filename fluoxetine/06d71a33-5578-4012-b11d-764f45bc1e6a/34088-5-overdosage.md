@@ -60,4 +60,4 @@ In managing overdosage, consider the possibility of multiple drug involvement.
 The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
 Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
 
-For specific information about overdosage with olanzapine and fluoxetine in combination, refer to the Overdosage section of the olanzapine and fluoxetine hydrochloride capsules package insert.
+For specific information about overdosage with olanzapine and fluoxetine in combination, refer to the Overdosage section of the Symbyax package insert.

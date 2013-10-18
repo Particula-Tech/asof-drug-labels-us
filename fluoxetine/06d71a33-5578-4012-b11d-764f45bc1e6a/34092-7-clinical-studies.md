@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert forolanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert forSymbyax.
 
 ## 14.1 Major Depressive Disorder
 

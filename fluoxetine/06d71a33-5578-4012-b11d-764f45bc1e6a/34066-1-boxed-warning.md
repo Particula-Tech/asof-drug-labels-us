@@ -8,7 +8,7 @@ Patients of all ages who are started on antidepressant therapy should be monitor
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 Fluoxetineis approved for use in pediatric patients with MDD and Obsessive Compulsive Disorder (OCD) [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
 
-When using fluoxetine and olanzapine in combination, also refer to Boxed Warning section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to Boxed Warning section of the package insert for Symbyax.
 
 If you take fluoxetine capsules, you should not take any other medicines that contain fluoxetine hydrochloride including:
 

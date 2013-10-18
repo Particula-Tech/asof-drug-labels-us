@@ -3,7 +3,7 @@
 See the FDA-approved Medication Guide.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking fluoxetine as monotherapy or in combination with olanzapine.
-When using fluoxetine and olanzapine in combination, also refer to the Patient Counseling Information section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Patient Counseling Information section of the package insert for Symbyax.
 
 ## 17.1 General Information
 
@@ -15,7 +15,7 @@ Patients should be given the opportunity to discuss the contents of the Medicati
 
 Patients should be advised of the following issues and asked to alert their healthcare provider if these occur while taking fluoxetine capsules.
 
-When using fluoxetine and olanzapine in combination, also refer to the Medication Guide for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Medication Guide for Symbyax.
 
 ## 17.2 Clinical Worsening and Suicide Risk
 
@@ -79,10 +79,10 @@ Safety and effectiveness of fluoxetine and olanzapine in combination in patients
 
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
 
-Manufactured In Czech Republic By: TEVA Czech Industries, s.r.o.
-Opava-Komarov, Czech Republic
+Manufactured In Poland By: PLIVA Krakow Pharmaceutical Company S.A.
+Krakow, Poland
 
 Manufactured For: TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
 Rev.
-D 1/2013
+E 8/2013

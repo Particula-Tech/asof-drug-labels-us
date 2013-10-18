@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-When using fluoxetine and olanzapine in combination, also refer to the Adverse Reactions section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Adverse Reactions section of the package insert for Symbyax.
 
 ## 6.1 Clinical Trials Experience
 

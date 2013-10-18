@@ -51,7 +51,9 @@ A dose range of 20 to 60 mg/day is recommended.
 In lower weight children, treatment should be initiated with a dose of 10 mg/day.
 Additional dose increases may be considered after several more weeks if insufficient clinical improvement is observed.
 A dose range of 20 to 30 mg/day is recommended.
-Experience with daily doses greater than 20 mg is very minimal, and there is no experience with doses greater than 60 mg.Maintenance/Continuation Treatment — While there are no systematic studies that answer the question of how long to continue fluoxetine, OCD is a chronic condition and it is reasonable to consider continuation for a responding patient.
+Experience with daily doses greater than 20 mg is very minimal, and there is no experience with doses greater than 60 mg.
+
+Maintenance/Continuation Treatment — While there are no systematic studies that answer the question of how long to continue fluoxetine, OCD is a chronic condition and it is reasonable to consider continuation for a responding patient.
 Although the efficacy of fluoxetine after 13 weeks has not been documented in controlled trials, adult patients have been continued in therapy under double-blind conditions for up to an additional 6 months without loss of benefit.
 However, dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for treatment.
 
@@ -81,20 +83,20 @@ Nevertheless, patients should be periodically reassessed to determine the need f
 
 ## 2.5 Fluoxetine and Olanzapine in Combination: Depressive Episodes Associated With Bipolar I Disorder
 
-When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 Fluoxetine should be administered in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 12.5 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
 
-Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of olanzapine and fluoxetine hydrochloride capsules (fixed-dose combination of olanzapine and fluoxetine).
-Olanzapine and fluoxetine hydrochloride capsules are dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
-The following table demonstrates the appropriate individual component doses of fluoxetine and olanzapine versus olanzapine and fluoxetine hydrochloride capsules.
+Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax (fixed-dose combination of olanzapine and fluoxetine).
+Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
+The following table demonstrates the appropriate individual component doses of fluoxetine and olanzapine versus Symbyax.
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
-Table 1: Approximate Dose Correspondence Between Olanzapine and Fluoxetine Hydrochloride CapsulesOlanzapine and fluoxetine hydrochloride capsules are a fixed-dose combination of fluoxetine and olanzapine. and the Combination of Fluoxetine and Olanzapine
+Table 1: Approximate Dose Correspondence Between SymbyaxSymbyax (olanzapine/fluoxetine HCL) is a fixed-dose combination of fluoxetine and olanzapine. and the Combination of Fluoxetine and Olanzapine
 
-| For Olanzapine and Fluoxetine Hydrochloride Capsules(mg/day) | Use in Combination |  |
+| For Symbyax (mg/day) | Use in Combination |  |
 | --- | --- | --- |
 | Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
 | 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |

@@ -1,6 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-When using fluoxetine and olanzapine in combination, also refer to the Use in Specific Populations section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Use in Specific Populations section of the package insert for Symbyax.
 
 ## 8.1 Pregnancy
 

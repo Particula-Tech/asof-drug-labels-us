@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
 
 ## 5.1 Clinical Worsening and Suicide Risk
 
@@ -98,7 +98,7 @@ A major depressive episode may be the initial presentation of Bipolar Disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for Bipolar Disorder.
 Whether any of the symptoms described for clinical worsening and suicide risk represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for Bipolar Disorder; such screening should include a detailed psychiatric history, including a family history of suicide, Bipolar Disorder, and depression.
-It should be noted that fluoxetine and olanzapine in combination is approved for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions section of the package insert for olanzapine and fluoxetine hydrochloride capsules].
+It should be noted that fluoxetine and olanzapine in combination is approved for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions section of the package insert for Symbyax].
 Fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
 In U.S. placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
@@ -201,4 +201,4 @@ Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conc
 
 ## 5.14 Fluoxetine and Olanzapine in Combination
 
-When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.

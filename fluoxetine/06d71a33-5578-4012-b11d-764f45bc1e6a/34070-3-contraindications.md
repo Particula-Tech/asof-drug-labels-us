@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-When using fluoxetine and olanzapine in combination, also refer to the Contraindications section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using fluoxetine and olanzapine in combination, also refer to the Contraindications section of the package insert for Symbyax.
 
 ## 4.1 Monoamine Oxidase Inhibitors (MAOIs)
 
