@@ -18,11 +18,11 @@ Because of these trials, estrogens with or without progestins should be prescrib
 
 WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT Activella (a combination of estrogen and progestin hormones)?
 
-- Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.
+- •Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.
 
 Using estrogens with or without progestins may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.
 
-- Do not use estrogens with or without progestins to prevent dementia.
+- •Do not use estrogens with or without progestins to prevent dementia.
 
 Using estrogens with or without progestins may increase your risk of dementia.
 

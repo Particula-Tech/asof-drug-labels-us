@@ -10,13 +10,13 @@ Activella therapy consists of a single tablet to be taken once daily.
 For the treatment of moderate to severe vasomotor symptoms associated with menopause, and the prevention of postmenopausal osteoporosis.
 When prescribing solely for the prevention of postmenopausal osteoporosis, therapy should only be considered for women at significant risk of osteoporosis and non-estrogen medications should be carefully considered.
 
-- Activella 1.0 mg/0.5 mg
-- Activella 0.5 mg/0.1 mg
+- •Activella 1.0 mg/0.5 mg
+- •Activella 0.5 mg/0.1 mg
 
 2.
 For the treatment of moderate to severe symptoms of vulvar and vaginal atrophy.
 When used solely for the treatment of symptoms of vulvar and vaginal atrophy, topical vaginal products should be considered.
 
-- Activella 1.0 mg/0.5 mg
+- •Activella 1.0 mg/0.5 mg
 
 Patients should be started at the lowest dose.
