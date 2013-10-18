@@ -47,7 +47,7 @@ Patients taking PROTONIX consumed significantly fewer antacid tablets per day th
 The efficacy of PROTONIX in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well-conducted trials in adults, as the pathophysiology is thought to be the same.
 Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
 Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of PROTONIX (20 mg or 40 mg).
-All 4 patients with EE were healed (Hetzel‑Dent score of 0 or 1) at 8 weeks.
+All 4 patients with EE were healed (Hetzel–Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
 
@@ -76,7 +76,7 @@ Table 10: Number of Episodes of Heartburn (mean ± SD)
 
 ## 14.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
-In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison syndrome, with or without multiple endocrine neoplasia‑type I, PROTONIX successfully controlled gastric acid secretion.
+In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison syndrome, with or without multiple endocrine neoplasia–type I, PROTONIX successfully controlled gastric acid secretion.
 Doses ranging from 80 mg daily to 240 mg daily maintained gastric acid output below 10 mEq/h in patients without prior acid-reducing surgery and below 5 mEq/h in patients with prior acid-reducing surgery.
 
 Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [see Dosage and Administration (2)].

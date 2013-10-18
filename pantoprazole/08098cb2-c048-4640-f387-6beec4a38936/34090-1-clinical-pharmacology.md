@@ -32,7 +32,7 @@ Table 4: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 | Time | Placebo | 20 mg | 40 mg | 80 mg |
 | --- | --- | --- | --- | --- |
 |  | –––––––––—––––––––Median pH on day 7—––––––––––––––––– |  |  |  |
-| 8 a.m. – 8 a.m. (24 hours) | 1.3 | 2.9Significantly different from placebo | 3.8?Significantly different from 20 mg | 3.9 |
+| 8 a.m. – 8 a.m. (24 hours) | 1.3 | 2.9Significantly different from placebo | 3.8Significantly different from 20 mg | 3.9 |
 | 8 a.m. – 10 p.m. (Daytime) | 1.6 | 3.2 | 4.4 | 4.8 |
 | 10 p.m. – 8 a.m. (Nighttime) | 1.2 | 2.1 | 3.0 | 2.6 |
 
@@ -65,8 +65,8 @@ Peak serum concentration (Cmax) and area under the serum concentration time curv
 Pantoprazole does not accumulate, and its pharmacokinetics are unaltered with multiple daily dosing.
 Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately one hour.
 
-In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 μg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 μg•h/mL (range 1.4 to 13.3 μg•h/mL).
-Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6‑14.0 L/h, and its apparent volume of distribution is 11.0–23.6 L.
+In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 μg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 μg∙h/mL (range 1.4 to 13.3 μ∙h/mL).
+Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6–14.0 L/h, and its apparent volume of distribution is 11.0–23.6 L.
 
 A single oral dose of PROTONIX For Delayed-Release Oral Suspension, 40 mg, was shown to be bioequivalent when administered to healthy subjects (N = 22) as granules sprinkled over a teaspoonful of applesauce, as granules mixed with apple juice, or mixed with apple juice followed by administration through a nasogastric tube.
 The plasma pharmacokinetic parameters from a crossover study in healthy subjects are summarized in Table 5.
@@ -116,10 +116,10 @@ No dosage adjustment is recommended based on age.
 
 Pediatric
 
-The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open‑label clinical trials in pediatric patients with presumed/proven GERD.
-A pediatric granule formulation was studied in children through 5 years of age, and PROTONIX Delayed‑Release Tablets were studied in children older than 5 years.
+The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open–label clinical trials in pediatric patients with presumed/proven GERD.
+A pediatric granule formulation was studied in children through 5 years of age, and PROTONIX Delayed–Release Tablets were studied in children older than 5 years.
 
-In a population PK analysis, total clearance increased with increasing bodyweight in a non‑linear fashion.
+In a population PK analysis, total clearance increased with increasing bodyweight in a non–linear fashion.
 The total clearance also increased with increasing age only in children under 3 years of age.
 
 Neonate through 5 years of age
@@ -156,7 +156,7 @@ No dosage adjustment is necessary in patients with renal impairment or in patien
 Hepatic Impairment
 
 In patients with mild to severe hepatic impairment (Child-Pugh A to C cirrhosis), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects.
-Although serum half-life values increased to 7–9 hours and AUC values increased by 5- to 7‑fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
+Although serum half-life values increased to 7–9 hours and AUC values increased by 5- to 7–fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
 These pharmacokinetic changes in hepatic-impaired patients result in minimal drug accumulation following once-daily, multiple-dose administration.
 No dosage adjustment is needed in patients with mild to severe hepatic impairment.
 Doses higher than 40 mg/day have not been studied in hepatically impaired patients.
@@ -197,6 +197,6 @@ Although these subpopulations of pantoprazole poor metabolizers have elimination
 For adult patients who are CYP2C19 poor metabolizers, no dosage adjustment is needed.
 
 Similar to adults, pediatric patients who have the poor metabolizer genotype of CYP2C19 (CYP2C19 *2/*2) exhibited greater than a 6-fold increase in AUC compared to pediatric extensive (CYP2C19 *1/*1) and intermediate (CYP2C19 *1/*x) metabolizers.
-Poor metabolizers exhibited approximately 10‑fold lower apparent oral clearance compared to extensive metabolizers.
+Poor metabolizers exhibited approximately 10–fold lower apparent oral clearance compared to extensive metabolizers.
 
 For known pediatric poor metabolizers, a dose reduction should be considered.

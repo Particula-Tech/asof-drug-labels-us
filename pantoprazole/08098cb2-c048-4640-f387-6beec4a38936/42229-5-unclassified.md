@@ -12,7 +12,7 @@ PROTONIX Delayed-Release For Oral Suspension:
 - PROTONIX Oral Suspension should be taken 30 minutes before a meal
 - PROTONIX Oral Suspension should only be taken with applesauce or apple juice 30 minutes before a meal.
 - PROTONIX Oral Suspension should not be taken in or with water or other liquids, or with other foods.
-  See “Directions for use” below.
+  See "Directions for use" below.
 - PROTONIX Oral Suspension should not be chewed or crushed.
 - PROTONIX Oral Suspension packet should not be divided to make a smaller dose.
   Directions for use with applesauce: Directions for use with apple juice:
