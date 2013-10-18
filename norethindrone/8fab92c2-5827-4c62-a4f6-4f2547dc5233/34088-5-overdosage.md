@@ -1,5 +1,4 @@
 # OVERDOSAGE
 
-Overdosage may cause nausea, and withdrawal bleeding may occur in females.
-Serious ill effects have not been reported following acute ingestion of large doses of estrogen/progestin-containing oral contraceptives by young children.
-In the event of a possible overdosage, the system should be removed immediately and medical attention sought.
+Overdosage of estrogen or estrogen plus progestin may cause nausea, vomiting, breast tenderness, abdominal pain, drowsiness and fatigue, and withdrawal bleeding may occur in women.
+Treatment of overdose consists of discontinuation of CombiPatch therapy with institution of appropriate symptomatic care

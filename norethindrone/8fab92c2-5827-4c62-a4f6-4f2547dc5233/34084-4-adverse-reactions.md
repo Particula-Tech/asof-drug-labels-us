@@ -1,16 +1,15 @@
 # ADVERSE REACTIONS
 
-See BOXED WARNING, WARNINGS and PRECAUTIONS.
+See BOXED WARNING, WARNINGS, and PRECAUTIONS.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
-Table IV.
-All Treatment Emergent Study Events Regardless of Relationship Reported at a Frequency of ≥5% with CombiPatch®
+Table 9.
+All Adverse Reactions Regardless of Relationship Reported at a Frequency of Greater than or Equal to 5 percent with CombiPatch
 
 | VASOMOTOR SYMPTOM STUDIES |  |  |  |
 | --- | --- | --- | --- |
-|  | CombiPatch® | CombiPatch® | Placebo |
+|  | CombiPatch | CombiPatch | Placebo |
 |  | 0.05/0.14 mg per day1 n=113 | 0.05/0.25 mg per day1 n=112 | n=107 |
 | Body as a Whole | 46% | 48% | 41% |
 | Abdominal Pain | 7% | 6% | 4% |
@@ -46,11 +45,12 @@ All Treatment Emergent Study Events Regardless of Relationship Reported at a Fre
 
 1Represents milligrams of estradiol/NETA delivered daily by each system.
 
-Table V. All Treatment Emergent Study Events Regardless of Relationship Reported at a Frequency of ≥5% with CombiPatch®
+Table 10.
+All Adverse Reactions Regardless of Relationship Reported at a Frequency of Greater than or Equal to 5 percent with CombiPatch
 
 | ENDOMETRIAL HYPERPLASIA STUDIES |  |  |  |
 | --- | --- | --- | --- |
-|  | CombiPatch® | CombiPatch® | Vivelle® |
+|  | CombiPatch | CombiPatch | Vivelle |
 |  | 0.05/0.14 mg per day1 n=325 | 0.05/0.25 mg per day1 n=312 | 0.05 mg per day n=318 |
 | Body as a Whole | 61% | 60% | 59% |
 | Abdominal Pain | 12% | 14% | 16% |
@@ -99,36 +99,37 @@ Table V. All Treatment Emergent Study Events Regardless of Relationship Reported
 
 1Represents milligrams of estradiol/NETA delivered daily by each system.
 
-The following additional adverse reactions have been reported with estrogen and/or progestin therapy.
+Postmarketing Experience
 
-## Genitourinary System
+The following additional adverse reactions have been identified during postapproval use of CombiPatch.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow; breakthrough bleeding; spotting; dysmenorrhea, increase in size of uterine leiomyomata; vaginitis, including vaginal candidiasis; change in amount of cervical secretion; changes in cervical ectropion; ovarian cancer; endometrial hyperplasia; endometrial cancer.
+Genitourinary System
 
-## Breasts
+Endometrial hyperplasia, endocervical polyp, uterine leiomyomata, fallopian tube cyst, uterine spasms.
 
-Tenderness, enlargement, pain, nipple discharge, galactorrhea; fibrocystic breast changes; breast cancer.
+Breast
 
-## Cardiovascular
+Breast cancer.
 
-Deep and superficial venous thrombosis; pulmonary embolism; thrombophlebitis; myocardial infarction; stroke; increase in blood pressure.
+Cardiovascular
 
-## Gastrointestinal
+Hypertension, varicose veins.
 
-Nausea, vomiting; abdominal cramps, bloating; cholestatic jaundice; increased incidence of gallbladder disease; pancreatitis, enlargement of hepatic hemangiomas.
+Gastrointestinal
 
-## Skin
+Jaundice cholestatic, cholelithiasis, gall bladder disorder, transaminases increased.
 
-Chloasma or melasma, that may persist when drug is discontinued; erythema multiforme; erythema nodosum; hemorrhagic eruption; loss of scalp hair; hirsutism; pruritus, rash.
+Skin
 
-## Eyes
+Skin discoloration.
 
-Retinal vascular thrombosis, intolerance to contact lenses.
+Central Nervous System
 
-## Central Nervous System
+Affect lability, libido disorder, migraine, vertigo, paraesthesia.
 
-Headache; migraine; dizziness; mental depression; chorea; nervousness; mood disturbances; irritability; exacerbation of epilepsy, dementia.
+Miscellaneous
 
-## Miscellaneous
+Angioedema, hypersensitivity, weight increased.
 
-Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthralgias; leg cramps; changes in libido; urticaria, angioedema, anaphylactoid/anaphylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
+Additional postmarketing adverse reactions have been reported in patients receiving other forms of hormone therapy.
