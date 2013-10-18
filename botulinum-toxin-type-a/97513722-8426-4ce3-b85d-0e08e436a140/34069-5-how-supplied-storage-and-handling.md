@@ -4,7 +4,7 @@ DYSPORT® for Injection is supplied in a sterile, single-use, 3 mL glass vial.
 DYSPORT® must be stored under refrigeration at 2–8°C (36–46°F).
 Protect from light.
 
-Administer DYSPORT® within 4 hours of reconstitution; during this period reconstituted DYSPORT® should be stored under refrigeration at 2–8°C (36–46°F).
+Administer DYSPORT® within 24 hours of reconstitution; during this period reconstituted DYSPORT® should be stored under refrigeration at 2–8°C (36–46°F).
 Do not freeze after reconstitution.
 
 Do not use after the expiration date on the vial.

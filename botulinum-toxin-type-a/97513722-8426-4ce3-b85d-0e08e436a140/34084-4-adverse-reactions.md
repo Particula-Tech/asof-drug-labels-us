@@ -109,7 +109,7 @@ Table 3 reflects exposure to DYSPORT® in 398 subjects aged 19 to 75 who were ev
 Adverse events of any cause were reported for 48% of the DYSPORT®-treated subjects and 33% of the placebo-treated subjects.
 Treatment-emergent adverse events were generally mild to moderate in severity.
 
-Table 3: Treatment-emergent Adverse Events with >1% incidence
+Table 3: Treatment-emergent Adverse Events with > 1% incidence
 
 | Adverse Events by Body System | DYSPORT® n=398 (%)Subjects who received treatment with placebo and DYSPORT® are counted in both treatment columns. | Placebo n=496 (%) |
 | --- | --- | --- |

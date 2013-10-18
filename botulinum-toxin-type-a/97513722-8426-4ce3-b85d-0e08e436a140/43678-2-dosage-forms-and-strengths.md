@@ -12,4 +12,4 @@ DYSPORT® is supplied as:
 DYSPORT® is supplied as:
 
 - a single-use, sterile 300 Unit vial for reconstitution with 0.9% Sodium Chloride Injection USP (without preservative).
-  DYSPORT®v may be reconstituted with either 2.5 mL to yield a solution of 10 Units per 0.08 mL or with 1.5 mL to yield a solution of 10 Units per 0.05 mL.
+  DYSPORT® may be reconstituted with either 2.5 mL to yield a solution of 10 Units per 0.08 mL or with 1.5 mL to yield a solution of 10 Units per 0.05 mL.

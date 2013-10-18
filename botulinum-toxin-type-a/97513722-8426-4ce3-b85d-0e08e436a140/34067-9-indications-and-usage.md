@@ -6,4 +6,4 @@ DYSPORT® (abobotulinumtoxinA) is an acetylcholine release inhibitor and a neuro
 
 ## 1.2 Glabellar Lines
 
-DYSPORT® (abobotulinumtoxinA) is an acetylcholine release inhibitor and a neuromuscular blocking agent indicated for the temporary improvement in the appearance of moderate to severe glabellar lines associated with procerus and corrugator muscle activity in adult patients <65 years of age.
+DYSPORT® (abobotulinumtoxinA) is an acetylcholine release inhibitor and a neuromuscular blocking agent indicated for the temporary improvement in the appearance of moderate to severe glabellar lines associated with procerus and corrugator muscle activity in adult patients < 65 years of age.

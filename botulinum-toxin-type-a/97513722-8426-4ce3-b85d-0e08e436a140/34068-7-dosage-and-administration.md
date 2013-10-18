@@ -9,7 +9,7 @@ These volumes yield concentrations specific for the use for each indication.
 ## 2.1 Cervical Dystonia
 
 The recommended initial dose of DYSPORT® for the treatment of cervical dystonia is 500 Units given intramuscularly as a divided dose among affected muscles in patients with or without a history of prior treatment with botulinum toxin.
-(A description of the average DYSPORT® dose and percentage of total dose injected into specific muscles in the pivotal clinical trials can be found in Table 5 of Section 14.1, Clinical Studies—Cervical Dystonia.)
+(A description of the average DYSPORT® dose and percentage of total dose injected into specific muscles in the pivotal clinical trials can be found in Table 5 of Section 14.1, Clinical Studies – Cervical Dystonia.)
 Limiting the dose injected into the sternocleidomastoid muscle may reduce the occurrence of dysphagia.
 Clinical studies with DYSPORT® in cervical dystonia suggest that the peak effect occurs between two and four weeks after injection.
 Simultaneous EMG-guided application of DYSPORT® may be helpful in locating active muscles not identified by physical examination alone.
@@ -49,7 +49,7 @@ Reconstituted DYSPORT® should be a clear, colorless solution, free of particula
 Expel any air bubbles in the syringe barrel.
 Remove the needle used to reconstitute the product and attach an appropriately sized new sterile needle.
 
-Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within four hours.
+Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within 24 hours.
 Do not freeze reconstituted DYSPORT®.
 Discard the vial and needle in accordance with local regulations.
 
@@ -92,7 +92,7 @@ Draw a single patient dose of DYSPORT® into a sterile syringe.
 Expel any air bubbles in the syringe barrel.
 Remove the needle used to reconstitute the product and attach a 30 gauge needle.
 
-Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within four hours.
+Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within 24 hours.
 Do not freeze reconstituted DYSPORT®.
 Discard the vial and needle in accordance with local regulations.
 

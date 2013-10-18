@@ -11,7 +11,7 @@ These studies were followed by long-term open label extensions that allowed titr
 In the extension studies, re-treatment was determined by clinical need after a minimum of 12 weeks.
 The median time to re-treatment was 14 weeks and 18 weeks for the 75th percentile.
 
-The primary assessment of effi cacy was based on the total Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS) change from baseline at Week 4 for both studies.
+The primary assessment of efficacy was based on the total Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS) change from baseline at Week 4 for both studies.
 The scale evaluates the severity of dystonia, patient perceived disability from dystonia, and pain.
 The adjusted mean change from baseline in the TWSTRS total score was statistically significantly greater for the DYSPORT® group than the placebo group at Weeks 4 in both studies (see Table 4).
 
@@ -25,7 +25,7 @@ Table 4: TWSTRS Total Score Efficacy Outcome from the Phase 3 Cervical Dystonia 
 | Week 4 |  |  |  |  |
 | Mean (SD) | 30.0 (12.7) | 40.2 (11.8) | 35.2 (13.8) | 42.4 (12.2) |
 | Change from BaselineChange from baseline is expressed as adjusted least squares mean (SE) | -15.6 (2.0) | -6.7 (2.0) | -9.6 (2.0) | -3.7 (1.8) |
-| Treatment difference | -8.9Significant at p-value<0.05 |  | -5.9 |  |
+| Treatment difference | -8.9Significant at p-value < 0.05 |  | -5.9 |  |
 | 95% confidence interval | [-12.9 to -4.7] |  | [-10.6 to -1.3] |  |
 | Week 8 |  |  |  |  |
 | Mean (SD) | 29.3 (11.0) | 39.6 (13.5) |  |  |
@@ -37,11 +37,11 @@ Analyses by gender, weight, geographic region, underlying pain, cervical dystoni
 
 Table 5 indicates the average DYSPORT® dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trials.
 
-Table 5: DYSPORT® 500 Unit starting dose (units and % of the total dose) by Unilateral Muscle Injected During Double-blind Pivotal Phase 3 studies 2 and 1 Combined
+Table 5: DYSPORT® 500 Units starting dose (units and % of the total dose) by Unilateral Muscle Injected During Double-blind Pivotal Phase 3 studies 2 and 1 Combined
 
 | Median [DYSPORT® Units] (min, max) | 75th percentile [DYSPORT® Units] | Median [%] (min, max) | 75th percentile [%] |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Number of patients injected per muscleTotal number of patients in combined studies 2 and 1 who received initial treatment=121. |  | DYSPORT® Dose Injected |  | Percentage of the total DYSPORT® Dose Injected |  |
+| Number of patients injected per muscleTotal number of patients in combined studies 2 and 1 who received initial treatment = 121. |  | DYSPORT® Dose Injected |  | Percentage of the total DYSPORT® Dose Injected |  |
 | Sternocleidomastoid | 90 | 125 Units (50, 350) | 150 Units | 26.5 % (10, 70) | 30.0 % |
 | Splenius capitis | 85 | 200 Units (75, 450) | 250 Units | 40.0 % (15, 90) | 50.0 % |
 | Trapezius | 50 | 102.6 Units (50, 300) | 150 Units | 20.6 % (10, 60) | 30.0 % |
@@ -53,7 +53,7 @@ Table 5: DYSPORT® 500 Unit starting dose (units and % of the total dose) by Uni
 ## 14.2 Glabellar Lines
 
 Three double-blind, randomized, placebo-controlled, clinical studies evaluated the efficacy of DYSPORT® for use in the temporary improvement of the appearance of moderate to severe glabellar lines.
-These three studies enrolled healthy adults (ages 19–75) with glabellar lines of at least moderate severity at maximum frown.
+These three studies enrolled healthy adults (ages 19-75) with glabellar lines of at least moderate severity at maximum frown.
 Subjects were excluded if they had marked ptosis, deep dermal scarring, or a substantial inability to lessen glabellar lines, even by physically spreading them apart.
 The subjects in these studies received either DYSPORT® or placebo.
 The total dose was delivered in equally divided aliquots to specified injection sites (see Figure 1).
@@ -63,7 +63,7 @@ Investigators and subjects assessed efficacy at maximum frown by using a 4-point
 Overall treatment success was defined as post-treatment glabellar line severity of none or mild with at least 2 grade improvement from Baseline for the combined investigator and subject assessments (composite assessment) on Day 30 (see Table 6).
 Additional endpoints for each of the studies were post-treatment glabellar line severity of none or mild with at least a 1 grade improvement from Baseline for the separate investigator and subject assessments on Day 30.
 
-After completion of the randomized studies, subjects were offered participation in a two-year, open-label retreatment study to assess the safety of multiple treatments.
+After completion of the randomized studies, subjects were offered participation in a two-year, open-label re-treatment study to assess the safety of multiple treatments.
 
 Table 6.
 Treatment Success at Day 30 (None or Mild with at least 2 Grade Improvement from Baseline at Maximum Frown for the combined Investigator and Subject Assessments (Composite))
