@@ -4,15 +4,9 @@
 
 NDC 0555-0899-02
 
-ESTRADIOL
+ESTRADIOL TABLETS USP 0.5 mg
 
-TABLETS USP
-
-0.5 mg
-
-PHARMACIST: Dispense the accompanying
-
-Patient Information Sheet to each patient.
+PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
 
 Rx only
 
@@ -26,15 +20,9 @@ TEVA
 
 NDC 0555-0886-02
 
-ESTRADIOL
+ESTRADIOL TABLETS USP 1 mg
 
-TABLETS USP
-
-1 mg
-
-PHARMACIST: Dispense the accompanying
-
-Patient Information Sheet to each patient.
+PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
 
 Rx only
 
@@ -48,19 +36,11 @@ TEVA
 
 NDC 0555-0887-02
 
-ESTRADIOL
+ESTRADIOL TABLETS USP 2 mg
 
-TABLETS USP
+PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
 
-2 mg
-
-PHARMACIST: Dispense the accompanying
-
-Patient Information Sheet to each patient.
-
-Contains FD&C Yellow No. 5 (tartrazine) as
-
-a color additive.
+Contains FD&C Yellow No. 5 (tartrazine) as a color additive.
 
 Rx only
 
