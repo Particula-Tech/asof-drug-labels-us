@@ -16,10 +16,6 @@ Keep out of reach of children.
 
 Manufactured by: Catalent Pharma Solutions St. Petersburg, FL 33716
 
-Marketed by: Abbott Laboratories North Chicago, IL 60064, U.S.A.
+Marketed by: AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2011 Abbott Laboratories
-
-All rights reserved.
-
-Revised: 11/2011
+© AbbVie Inc. 2013

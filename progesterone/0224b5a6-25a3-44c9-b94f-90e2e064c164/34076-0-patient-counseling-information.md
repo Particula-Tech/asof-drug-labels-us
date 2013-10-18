@@ -96,7 +96,7 @@ Less serious, but common side effects include:
 
 These are not all the possible side effects of PROMETRIUM Capsules.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
-You may report side effects to Abbott Laboratories at 1-800-241-1643 or to FDA at 1-800-FDA-1088.
+You may report side effects to AbbVie Inc. at 1-800-633-9110 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of getting a serious side effect with PROMETRIUM Capsules?
 
@@ -125,13 +125,13 @@ Keep PROMETRIUM Capsules out of the reach of children.
 This leaflet provides a summary of the most important information about PROMETRIUM Capsules.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about PROMETRIUM Capsules that is written for health professionals.
-You can get more information by calling the toll free number 1-800-241-1643.
+You can get more information by calling the toll free number 1-800-633-9110.
 
 What are the ingredients in PROMETRIUM Capsules?
 
 Active ingredient: 100 mg or 200 mg micronized progesterone
 
-The inactive ingredients for PROMETRIUM Capsules 100 mg include: peanut oil NF, gelatin NF, glycerin USP, lecithin NF, titanium dioxide USP, D&C Yellow No. 10, and FD&C Red No. 40.
+The inactive ingredients for PROMETRIUM Capsules 100 mg include: peanut oil NF, gelatin NF, glycerin USP, lecithin NF, titanium dioxide USP, FD&C Red No. 40, and D&C Yellow No. 10.
 
 The inactive ingredients for PROMETRIUM Capsules 200 mg include: peanut oil NF, gelatin NF, glycerin USP, lecithin NF, titanium dioxide USP, D&C Yellow No. 10, and FD&C Yellow No. 6.
 
@@ -147,9 +147,8 @@ Protect from excessive moisture.
 
 Manufactured by: Catalent Pharma Solutions St. Petersburg, FL 33716
 
-Marketed by: Abbott Laboratories North Chicago, IL 60064, U.S.A.
+Marketed by: AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2011 Abbott Laboratories.
-All rights reserved.
+© AbbVie Inc. 2013
 
-Revised: 11/2011
+500032 Rev 09/13 September, 2013

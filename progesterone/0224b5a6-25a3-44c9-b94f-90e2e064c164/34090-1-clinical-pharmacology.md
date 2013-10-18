@@ -19,7 +19,7 @@ Pharmacokinetic Parameters of PROMETRIUM Capsules
 | 100 mg | 200 mg | 300 mg |  |
 | Cmax (ng/mL) | 17.3 ± 21.9a | 38.1 ± 37.8 | 60.6 ± 72.5 |
 | Tmax (hr) | 1.5 ± 0.8 | 2.3 ± 1.4 | 1.7 ± 0.6 |
-| AUC (0-10) (ng × hr/mL) | 43.3 ± 30.8 | 101.2 ± 66.0 | 175.7 ± 170.3 |
+| AUC(0-10) (ng × hr/mL) | 43.3 ± 30.8 | 101.2 ± 66.0 | 175.7 ± 170.3 |
 | a Mean ± S.D. |  |  |  |
 
 Serum progesterone concentrations appeared linear and dose proportional following multiple dose administration of PROMETRIUM Capsules 100 mg over the dose range 100 mg per day to 300 mg per day in postmenopausal women.
@@ -60,7 +60,7 @@ The metabolism of progesterone by human liver microsomes was inhibited by ketoco
 Ketoconazole is a known inhibitor of cytochrome P450 3A4, hence these data suggest that ketoconazole or other known inhibitors of this enzyme may increase the bioavailability of progesterone.
 The clinical relevance of the in vitro findings is unknown.
 
-Co administration of conjugated estrogens and PROMETRIUM Capsules to 29 postmenopausal women over a 12-day period resulted in an increase in total estrone concentrations (Cmax 3.68 ng/mL to 4.93 ng/mL) and total equilin concentrations (Cmax 2.27 ng/mL to 3.22 ng/mL) and a decrease in circulating 17β estradiol concentrations (Cmax 0.037 ng/mL to 0.030 ng/mL).
+Coadministration of conjugated estrogens and PROMETRIUM Capsules to 29 postmenopausal women over a 12-day period resulted in an increase in total estrone concentrations (Cmax 3.68 ng/mL to 4.93 ng/mL) and total equilin concentrations (Cmax 2.27 ng/mL to 3.22 ng/mL) and a decrease in circulating 17β estradiol concentrations (Cmax 0.037 ng/mL to 0.030 ng/mL).
 The half-life of the conjugated estrogens was similar with coadministration of PROMETRIUM Capsules.
 Table 2 summarizes the pharmacokinetic parameters.
 

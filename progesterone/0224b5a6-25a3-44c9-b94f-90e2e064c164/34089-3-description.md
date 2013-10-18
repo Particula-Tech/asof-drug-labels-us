@@ -9,6 +9,6 @@ Progesterone is synthesized from a starting material from a plant source and is 
 PROMETRIUM Capsules are available in multiple strengths to afford dosage flexibility for optimum management.
 PROMETRIUM Capsules contain 100 mg or 200 mg micronized progesterone.
 
-The inactive ingredients for PROMETRIUM Capsules 100 mg include: peanut oil NF, gelatin NF, glycerin USP, lecithin NF, titanium dioxide USP, D&C Yellow No. 10, and FD&C Red No. 40.
+The inactive ingredients for PROMETRIUM Capsules 100 mg include: peanut oil NF, gelatin NF, glycerin USP, lecithin NF, titanium dioxide USP, FD&C Red No. 40, and D&C Yellow No. 10.
 
 The inactive ingredients for PROMETRIUM Capsules 200 mg include: peanut oil NF, gelatin NF, glycerin USP, lecithin NF, titanium dioxide USP, D&C Yellow No. 10, and FD&C Yellow No. 6.
