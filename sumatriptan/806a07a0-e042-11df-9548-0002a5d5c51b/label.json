@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202278"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "NuPathe Inc.",
+  "package_ndcs": [
+    "51759-101-01",
+    "51759-101-04"
+  ],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE, ELECTRICALLY CONTROLLED",
+      "generic": "sumatriptan succinate",
+      "name": "ZECUITY"
+    }
+  ],
+  "setid": "806a07a0-e042-11df-9548-0002a5d5c51b",
+  "source": "dailymed"
+}
