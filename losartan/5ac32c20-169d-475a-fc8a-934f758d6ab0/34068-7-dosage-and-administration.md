@@ -23,14 +23,14 @@ Dosage should be adjusted according to blood pressure response.
 Doses above 1.4 mg/kg (or in excess of 100 mg) daily have not been studied in pediatric patients.
 (See CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations and Pharmacodynamics and Clinical Effects, and WARNINGS, Hypotension — Volume-Depleted Patients.)
 
-COZAAR is not recommended in pediatric patients <6 years of age or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations, Pharmacodynamics and Clinical Effects, and PRECAUTIONS).
+COZAAR is not recommended in pediatric patients less than 6 years of age or in pediatric patients with glomerular filtration rate less than 30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations, Pharmacodynamics and Clinical Effects, and PRECAUTIONS).
 
 ## Preparation of Suspension (for 200 mL of a 2.5 mg/mL suspension)
 
 Add 10 mL of Purified Water USP to an 8 ounce (240 mL) amber polyethylene terephthalate (PET) bottle containing ten 50 mg COZAAR tablets.
 Immediately shake for at least 2 minutes.
 Let the concentrate stand for 1 hour and then shake for 1 minute to disperse the tablet contents.
-Separately prepare a 50/50 volumetric mixture of Ora-Plus™ Trademark of Paddock Laboratories, Inc. and Ora-Sweet SF™.
+Separately prepare a 50/50 volumetric mixture of Ora-Plus™ and Ora-Sweet SF™.
 Add 190 mL of the 50/50 Ora-Plus™/Ora-Sweet SF™ mixture to the tablet and water slurry in the PET bottle and shake for 1 minute to disperse the ingredients.
 The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 4 weeks.
 Shake the suspension prior to each use and return promptly to the refrigerator.

@@ -1,15 +1,21 @@
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Copyright © 2003, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+The trademarks depicted herein are owned by their respective companies.
 
-Revised: 09/2012
+For patent information: www.merck.com/product/patent/home.html
 
-USPI-T-09541209R006
+Copyright © 2003, 2011, 2013 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+Revised: 10/2013
+
+uspi-mk0954-t-1310r007
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Copyright © 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+For patent information: www.merck.com/product/patent/home.html
 
-Revised: 11/2012
+Copyright © 2006, 2011, 2013 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-USPPI-T-09541211R006
+Revised: 10/2013
+
+usppi-mk0954-t-1310r007

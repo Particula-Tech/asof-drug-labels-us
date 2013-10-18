@@ -6,10 +6,9 @@ This leaflet does not take the place of talking with your doctor about your cond
 
 ## What is the most important information I should know about COZAAR?
 
-Do not take COZAAR if you are pregnant or plan to become pregnant.
-COZAAR can harm your unborn baby causing injury and even death.
-Stop taking COZAAR if you become pregnant and call your doctor right away.
-If you plan to become pregnant, talk to your doctor about other treatment options before taking COZAAR.
+- COZAAR can cause harm or death to an unborn baby.
+- Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+- If you get pregnant while taking COZAAR, tell your doctor right away.
 
 ## What is COZAAR?
 
@@ -48,9 +47,9 @@ Tell your doctor about all of your medical conditions including if you:
 
 - are pregnant or planning to become pregnant.
   See "What is the most important information I should know about COZAAR?"
-- are breast-feeding.
+- are breastfeeding.
   It is not known if COZAAR passes into your breast milk.
-  You should choose either to take COZAAR or breast-feed, but not both.
+  You should choose either to take COZAAR or breastfeed, but not both.
 - are vomiting a lot or having a lot of diarrhea
 - have liver problems
 - have kidney problems

@@ -13,6 +13,8 @@ The following table of adverse events is based on four 6- to 12-week, placebo-co
 All doses of losartan are grouped because none of the adverse events appeared to have a dose-related frequency.
 The adverse experiences reported in ≥1% of patients treated with COZAAR and more commonly than placebo are shown in the table below.
 
+Table 5
+
 |  | Losartan (n=1075) Incidence % | Placebo (n=334) Incidence % |
 | --- | --- | --- |
 | Musculoskeletal Cramp, muscle Pain, back Pain, leg | 1 2 1 | 0 1 0 |
@@ -36,6 +38,8 @@ Patients who had typical ACE-inhibitor cough when challenged with lisinopril, wh
 The double-blind treatment period lasted up to 8 weeks.
 The incidence of cough is shown below.
 
+Table 6
+
 | Study 1Demographics = (89% caucasian, 64% female) | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
 | Cough | 25% | 17% | 69% |
@@ -44,7 +48,7 @@ The incidence of cough is shown below.
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.
 
-Cases of cough, including positive re-challenges, have been reported with the use of losartan in post-marketing experience.
+Cases of cough, including positive re-challenges, have been reported with the use of losartan in postmarketing experience.
 
 Pediatric Patients: No relevant differences between the adverse experience profile for pediatric patients and that previously reported for adult patients were identified.
 
@@ -57,6 +61,8 @@ In the LIFE study, adverse events with COZAAR were similar to those reported pre
 In the RENAAL study involving 1513 patients treated with COZAAR or placebo, the overall incidences of reported adverse experiences were similar for the two groups.
 COZAAR was generally well tolerated as evidenced by a similar incidence of discontinuations due to side effects compared to placebo (19% for COZAAR, 24% for placebo).
 The adverse experiences, regardless of drug relationship, reported with an incidence of ≥4% of patients treated with COZAAR and occurring more commonly than placebo, on a background of conventional antihypertensive therapy, are shown in the table below.
+
+Table 7
 
 |  | Losartan and Conventional Antihypertensive Therapy Incidence % (n=751) | Placebo and Conventional Antihypertensive Therapy Incidence % (n=762) |
 | --- | --- | --- |
@@ -73,9 +79,9 @@ The adverse experiences, regardless of drug relationship, reported with an incid
 | Skin Cellulitis | 7 | 6 |
 | Urogenital Urinary tract infection | 16 | 13 |
 
-## Post-Marketing Experience
+## Postmarketing Experience
 
-The following additional adverse reactions have been reported in post-marketing experience:
+The following additional adverse reactions have been reported in postmarketing experience:
 
 Digestive: Hepatitis (reported rarely).
 
