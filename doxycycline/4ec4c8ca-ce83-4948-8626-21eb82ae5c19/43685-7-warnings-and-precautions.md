@@ -3,20 +3,20 @@
 THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY AND CHILDHOOD TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
 This adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
-TETRACYCLINE DRUGS, THEREFORE, SHOULD NOT BE USED IN THIS AGE GROUP, EXCEPT FOR ANTHRAX, INCLUDING INHALATIONAL ANTHRAX (POSTEXPOSURE), UNLESS OTHER DRUGS ARE NOT LIKELY TO BE EFFECTIVE OR ARE CONTRAINDICATED.
+TETRACYCLINE DRUGS, THEREFORE, SHOULD NOT BE USED IN THIS AGE GROUP, EXCEPT FOR ANTHRAX, INCLUDING INHALATIONAL ANTHRAX (POST-EXPOSURE), UNLESS OTHER DRUGS ARE NOT LIKELY TO BE EFFECTIVE OR ARE CONTRAINDICATED.
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including doxycycline hyclate capsules, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
-CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+CDAD must be considered in all patients who present with diarrhea following the use of antibacterial drugs.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-IF CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-All tetracyclines form a stable calcium complex in any bone- forming tissue.
+All tetracyclines form a stable calcium complex in any bone-forming tissue.
 A decrease in fibula growth rate has been observed in prematures given oral tetracycline in doses of 25 mg/kg every 6 hours.
 This reaction was shown to be reversible when the drug was discontinued.
 
@@ -34,19 +34,26 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 ## General
 
-As with other antibiotic preparations, use of this drug may result in overgrowth of nonsusceptible organisms, including fungi.
-If superinfection occurs, the antibiotic should be discontinued and appropriate therapy should be instituted.
+As with other antibacterial drugs, use of doxycycline hyclate may result in overgrowth of nonsusceptible organisms, including fungi.
+If superinfection occurs, doxycycline hyclate capsules should be discontinued and appropriate therapy instituted.
 
-Bulging fontanels in infants and benign intracranial hypertension in adults have been reported in individuals receiving tetracyclines.
-These conditions disappeared when the drug was discontinued.
-Incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy, when indicated.
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including doxycycline hyclate.
+Clinical manifestations of IH include headache, blurred vision, diplopia, vision loss, and papilledema.
+Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
+Concomitant use of isotretinoin and doxycycline hyclate capsules should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
+
+Although IH typically resolves after discontinuation of treatment, it is possible that permanent visual loss can occur.
+If visual symptoms develop during treatment, prompt ophthalmologic evaluation is warranted.
+Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
+
+Incision and drainage or other surgical procedures should be performed in conjunction with antibacterial therapy, when indicated.
 
 Doxycycline offers substantial but not complete suppression of the asexual blood stages of Plasmodium strains.
 
-Doxycycline does not suppress P. falciparum's sexual blood stage gametocytes.
+Doxycycline does not suppress P. falciparum’s sexual blood stage gametocytes.
 Subjects completing this prophylactic regimen may still transmit the infection to mosquitoes outside endemic areas.
 
-Prescribing Doxycycline Hyclate Capsules in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing doxycycline hyclate capsules in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for Patients
 
@@ -77,13 +84,13 @@ They do not treat viral infections (e.g., the common cold).
 When doxycycline hyclate capsules are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by doxycycline hyclate capsules or other antibacterial drugs in the future.
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+Diarrhea is a common problem caused by antibacterial drugs, which usually ends when the antibacterials are discontinued.
+Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drug.
 If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
 
-In venereal disease, when co-existing syphilis is suspected, dark field examinations should be done before treatment is started and the blood serology repeated monthly for at least 4 months.
+In venereal disease, when co-existent syphilis is suspected, dark field examinations should be done before treatment is started and the blood serology repeated monthly for at least 4 months.
 
 In long-term therapy, periodic laboratory evaluation of organ systems, including hematopoietic, renal, and hepatic studies, should be performed.
 
@@ -95,11 +102,11 @@ Since bacteriostatic drugs may interfere with the bactericidal action of penicil
 
 Absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, and iron-containing preparations.
 
-Absorption of tetracycline is impaired by bismuth subsalicylate.
+Absorption of tetracyclines is impaired by bismuth subsalicylate.
 
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 
-The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity.
+The concurrent use of tetracycline and Penthrane® (methoxyflurane) has been reported to result in fatal renal toxicity.
 
 Concurrent use of tetracycline may render oral contraceptives less effective.
 
@@ -110,9 +117,9 @@ False elevations of urinary catecholamine levels may occur due to interference w
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted.
-However, there has been evidence of oncogenic activity in rats in studies with the related antibiotics, oxytetracycline (adrenal and pituitary tumors), and minocycline (thyroid tumors).
+However, there has been evidence of oncogenic activity in rats in studies with the related antibacterial drugs, oxytetracycline (adrenal and pituitary tumors), and minocycline (thyroid tumors).
 
-Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibiotics (tetracycline, oxytetracycline).
+Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibacterial drugs (tetracycline, oxytetracycline).
 
 Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats.
 Effect on male fertility has not been studied.
@@ -121,17 +128,16 @@ Effect on male fertility has not been studied.
 
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
-There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women such as that proposed for treatment of anthrax exposure.
-An expert review of published data on experiences with doxycycline use during pregnancy by TERIS -The Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no riska.
-
+There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women, such as that proposed for treatment of anthrax exposure.
+An expert review of published data on experiences with doxycycline use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no riska.
 A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
-(Sixty-three (0.19%) of the controls and 56 (0.30%) of the cases were treated with doxycycline.)
+Sixty-three (0.19%) of the controls and fifty-six (0.30%) of the cases were treated with doxycycline.
 This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed casesb.
 
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
 All mothers reported their exposed infants were normal at 1 year of agec.
 
-### Nonteratogenic effects
+### Nonteratogenic effects:
 
 (See WARNINGS)
 
@@ -141,10 +147,9 @@ The effect of tetracyclines on labor and delivery is unknown.
 
 ## Nursing Mothers
 
-Tetracyclines are excreted in human milk, however, the extent of absorption of tetracyclines, including doxycycline, by the breastfed infant is not known.
+Tetracyclines are excreted in human milk; however, the extent of absorption of tetracyclines, including doxycycline, by the breastfed infant is not known.
 Short-term use by lactating women is not necessarily contraindicated; however, the effects of prolonged exposure to doxycycline in breast milk are unknownd.
-Because of the potential for adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-(See WARNINGS).
+Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (See WARNINGS).
 
 ## Pediatric Use
 

@@ -15,35 +15,35 @@ The therapeutic antibacterial serum activity will usually persist for 24 hours f
 
 When used in streptococcal infections, therapy should be continued for 10 days.
 
-Administration of adequate amounts of fluid along with capsule and tablet forms of drugs in the tetracycline class is recommended to wash down the drugs and reduce the risk of esophageal irritation and ulceration.
-(See ADVERSE REACTIONS).
+Administration of adequate amounts of fluid along with capsule and tablet forms of drugs in the tetracycline class is recommended to wash down the drugs and reduce the risk of esophageal irritation and ulceration (See ADVERSE REACTIONS).
 
 If gastric irritation occurs, it is recommended that doxycycline be given with food or milk.
 The absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk.
-Studies to date have indicated that administration of doxycycline at the usual recommended doses does not lead to excessive accumulation of the antibiotic in patients with renal impairment.
+
+Studies to date have indicated that administration of doxycycline at the usual recommended doses does not lead to excessive accumulation of doxycycline in patients with renal impairment.
 
 Uncomplicated gonococcal infections in adults (except anorectal infections in men): 100 mg, by mouth, twice a day for 7 days.
 As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose.
 The dose may be administered with food, including milk or carbonated beverage, as required.
 
-Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg, by mouth, twice a day for 7 days.
+Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg by mouth twice a day for 7 days.
 
-Nongonococcal urethritis (NGU) caused by C. trachomatis and U. urealyticum: 100 mg, by mouth, twice a day for 7 days.
+Nongonococcal urethritis (NGU) caused by C. trachomatis or U. urealyticum: 100 mg, by mouth, twice a day for 7 days.
 
 Syphilis - early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 2 weeks.
 
-Syphilis of more than one year's duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 4 weeks.
+Syphilis of more than one year’s duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg by mouth twice a day for 4 weeks.
 
 Acute epididymo-orchitis caused by N. gonorrhoeae: 100 mg, by mouth, twice a day for at least 10 days.
 
 Acute epididymo-orchitis caused by C. trachomatis: 100 mg, by mouth, twice a day for at least 10 days.
 
-For the prophylaxis of malaria: For adults, the recommended dose is 100 mg daily.
+For prophylaxis of malaria: For adults, the recommended dose is 100 mg daily.
 For children over 8 years of age, the recommended dose is 2 mg/kg given once daily up to the adult dose.
 Prophylaxis should begin 1 to 2 days before travel to the malarious area.
 Prophylaxis should be continued daily during travel in the malarious area and for 4 weeks after the traveler leaves the malarious area.
 
-## Inhalational Anthrax (post-exposure)
+Inhalational anthrax (post-exposure):
 
 ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
 
