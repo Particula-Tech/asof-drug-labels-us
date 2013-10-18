@@ -2,9 +2,9 @@
 
 ## 7.1 Effects of Other Drugs on the Metabolism of Donepezil Hydrochloride Tablets
 
-Ketoconazole and quinidine, inhibitors of CYP450, 3A4 and 2D6, respectively, inhibit donepezil metabolism in vitro .
+Ketoconazole and quinidine, inhibitors of CYP450, 3A4 and 2D6, respectively, inhibit donepezil metabolism in vitro.
 Whether there is a clinical effect of quinidine is not known.
-In a 7-day crossover study in 18 healthy volunteers, ketoconazole (200 mg q.d.) increased mean Donepezil (5 mg q.d.) concentrations (AUC 0-24 and C max ) by 36%.
+In a 7-day crossover study in 18 healthy volunteers, ketoconazole (200 mg q.d.) increased mean Donepezil (5 mg q.d.) concentrations (AUC 0-24 and Cmax) by 36%.
 The clinical relevance of this increase in concentration is unknown.
 Inducers of CYP 3A4 (e.g., phenytoin, carbamazepine, dexamethasone, rifampin, and phenobarbital) could increase the rate of elimination of donepezil hydrochloride tablets.
 

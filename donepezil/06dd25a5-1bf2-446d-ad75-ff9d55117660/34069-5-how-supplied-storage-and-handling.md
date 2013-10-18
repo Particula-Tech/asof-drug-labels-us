@@ -19,4 +19,4 @@ Bottles of 90 (NDC 33342-028-10)
 
 Blister Pack of 50 (5x10) (NDC 33342-028-31)
 
-Blister Pack of 100 (10x10) (NDC33342-028-12) Storage: Store at 20º-25ºC (68º-77ºF); [see USP Controlled Room Temperature].
+Blister Pack of 100 (10x10) (NDC33342-028-12) Storage:Store at 20º-25ºC (68º-77ºF); [see USP Controlled Room Temperature].

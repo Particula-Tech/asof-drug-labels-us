@@ -15,25 +15,27 @@ Based on population pharmacokinetic analysis of plasma donepezil concentrations 
 The elimination half life of donepezil is about 70 hours, and the mean apparent plasma clearance (Cl/F) is 0.13 – 0.19 L/hr/kg.
 Following multiple dose administration, donepezil accumulates in plasma by 4-7 fold, and steady state is reached within 15 days.
 The steady state volume of distribution is 12 - 16 L/kg.
-Donepezil is approximately 96% bound to human plasma proteins, mainly to albumins (about 75%) and alpha 1 - acid glycoprotein (about 21%) over the concentration range of 2-1000 ng/mL.
+Donepezil is approximately 96% bound to human plasma proteins, mainly to albumins (about 75%) and alpha1 - acid glycoprotein (about 21%) over the concentration range of 2-1000 ng/mL.
 Donepezil is both excreted in the urine intact and extensively metabolized to four major metabolites, two of which are known to be active, and a number of minor metabolites, not all of which have been identified.
 Donepezil is metabolized by CYP 450 isoenzymes 2D6 and 3A4 and undergoes glucuronidation.
-Following administration of 14 C-labeled donepezil, plasma radioactivity, expressed as a percent of the administered dose, was present primarily as intact donepezil (53%) and as 6-O-desmethyl donepezil (11%), which has been reported to inhibit AChE to the same extent as donepezil in vitro and was found in plasma at concentrations equal to about 20% of donepezil.
+Following administration of 14C-labeled donepezil, plasma radioactivity, expressed as a percent of the administered dose, was present primarily as intact donepezil (53%) and as 6-O-desmethyl donepezil (11%), which has been reported to inhibit AChE to the same extent as donepezil in vitro and was found in plasma at concentrations equal to about 20% of donepezil.
 Approximately 57% and 15% of the total radioactivity was recovered in urine and feces, respectively, over a period of 10 days, while 28% remained unrecovered, with about 17% of the donepezil dose recovered in the urine as unchanged drug.
 Examination of the effect of CYP2D6 genotype in Alzheimer's patients showed differences in clearance values among CYP2D6 genotype subgroups.
 When compared to the extensive metabolizers, poor metabolizers had a 31.5% slower clearance and ultra-rapid metabolizers had a 24% faster clearance.
 These results suggest CYP2D6 has a minor role in the metabolism of donepezil.
-Hepatic Disease : In a study of 10 patients with stable alcoholic cirrhosis, the clearance of donepezil hydrochloride was decreased by 20% relative to 10 healthy age- and sex-matched subjects.
-Renal Disease : In a study of 11 patients with moderate to severe renal impairment (Cl C < 18 mL/min/1.73 m 2 ) the clearance of donepezil hydrochloride did not differ from 11 age- and sex-matched healthy subjects.
-Age : No formal pharmacokinetic study was conducted to examine age-related differences in the pharmacokinetics of donepezil hydrochloride.
+Hepatic Disease: In a study of 10 patients with stable alcoholic cirrhosis, the clearance of donepezil hydrochloride was decreased by 20% relative to 10 healthy age- and sex-matched subjects.
+Renal Disease: In a study of 11 patients with moderate to severe renal impairment (ClC
+
+< 18 mL/min/1.73 m2) the clearance of donepezil hydrochloride did not differ from 11 age- and sex-matched healthy subjects.
+Age: No formal pharmacokinetic study was conducted to examine age-related differences in the pharmacokinetics of donepezil hydrochloride.
 Population pharmacokinetic analysis suggested that clearance of donepezil in patients decreases with increasing age.
 When compared with 65- year old subjects, 90-year old subjects have a 17 % decrease in clearance, while 40-year old subjects have a 33 % increase in clearance.
 The effect of age on donepezil clearance may not be clinically significant.
-Gender and Race : No specifc pharmacokinetic study was conducted to investigate the effects of gender and race on the disposition of donepezil hydrochloride.
+Gender and Race: No specifc pharmacokinetic study was conducted to investigate the effects of gender and race on the disposition of donepezil hydrochloride.
 However, retrospective pharmacokinetic analysis and population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer's disease indicates that the gender and race (Japanese and Caucasians) did not affect the clearance of donepezil hydrochloride to an important degree.
-Body weight : There was a relationship noted between body weight and clearance.
+Body weight: There was a relationship noted between body weight and clearance.
 Over the range of weights from 50 kg to 110 kg, clearance increased from 7.77 L/h to 14.04 L/h to 14.04 L/h with a value of 10 L/hr for 70 kg individuals.
-Drug Interactions : Effect of Donepezil Hydrochloride on the Metabolism of Other Drugs
+Drug Interactions: Effect of Donepezil Hydrochloride on the Metabolism of Other Drugs
 
 No in vivo clinical trials have investigated the effect of donepezil hydrochloride on the clearance of drugs metabolized by CYP 3A4 (e.g. cisapride, terfenadine) or by CYP 2D6 (e.g. imipramine).
 However, in vitro studies show a low rate of binding to these enzymes (mean Ki about 50-130 µM), that, given the therapeutic plasma concentrations of donepezil (164 nM), indicates little likelihood of interference.

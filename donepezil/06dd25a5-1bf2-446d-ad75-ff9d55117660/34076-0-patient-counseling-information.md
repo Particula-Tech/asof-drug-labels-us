@@ -67,7 +67,7 @@ It is not known if donepezil hydrochloride can harm an unborn baby.
 · Present breast-feeding.
 It is not known if donepezil hydrochloride passes into breast milk.
 Donepezil hydrochloride tablets are not for women who are breast-feeding.
-Tell the doctor about all medicines the patient takes , including prescription and non-prescription medicines, vitamins and herbal products.
+Tell the doctor about all medicines the patient takes, including prescription and non-prescription medicines, vitamins and herbal products.
 Donepezil hydrochloride and other medicines may affect each other.
 Be particularly sure to tell the doctor if the patient takes aspirin or medicines called non-steroidal anti-inflammatory drugs (NSAIDS).
 There are many NSAID medicines, both prescription and non-prescription.
@@ -192,4 +192,4 @@ Macleods Pharmaceutical Ltd.
 Baddi, Himachal Pradesh, India.
 Rx only
 
-January2013
+October 2013

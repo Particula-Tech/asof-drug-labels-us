@@ -10,6 +10,6 @@ Donepezil had no effect on fertility in rats at oral doses up to 10 mg/kg/day (a
 
 ## 13.2 AnimalToxicology
 
-In a published study, female rats were given single doses of donepezil and memantine by intraperitoneal injection, each alone or in combination.
-When given in combination with memantine, donepezil increased the incidence and severity of memantine-induced neurodegeneration.
+In an acute dose neurotoxicity study in female rats, oral administration of donepezil and memantine in combination resulted in increased incidence, severity, and distribution of neurodegeneration compared with memantine alone.
+The no-effect levels of the combination were associated with clinically relevant plasma donepezil and memantine levels.
 The relevance of this finding to humans is unknown.
