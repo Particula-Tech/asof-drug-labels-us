@@ -93,3 +93,41 @@ Preservative-Free
 NOT for Lock Flush
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 30 mL Multidose Vial Label
+
+NDC 0069-0137-01
+
+HEPARIN Sodium Injection, USP
+
+30,000 USP units/30mL (1,000 USP units/mL)
+
+Warning: Contains Benzyl Alcohol
+
+Multidose Vial
+
+NOT for Lock Flush
+
+# PRINCIPAL DISPLAY PANEL - 30 mL Multidose Vial Carton
+
+Ten—30 mL Multidose Vials
+
+NDC 0069-0137-03 Contains 10 of NDC 0069-0137-01
+
+HEPARIN Sodium Injection, USP
+
+30,000 USP units/30mL (1,000 USP units per mL)
+
+Derived from porcine intestinal tissue
+
+For subcutaneous or intravenous use
+
+Pfizer Injectables
+
+Warning: Contains Benzyl Alcohol
+
+NOT for Lock Flush
+
+Rx only
+
+Multidose Vials
