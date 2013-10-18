@@ -12,7 +12,7 @@ The safety and efficacy of DICLEGIS were compared to placebo in a double-blind, 
 The mean gestational age at enrollment was 9.3 weeks, range 7 to 14 weeks gestation [see Clinical Studies (14)].
 Adverse reactions for DICLEGIS that occurred at an incidence ≥5 percent and exceeded the incidence for placebo are summarized in Table 1.
 
-Table 1: Number (Percent) of Subjects with ≥ 5 Percent Adverse Reactions in a 15‑Day Placebo-Controlled Study of DICLEGIS (Only Those Adverse Reactions Occurring at an Incidence ≥ 5 Percent and at a Higher Incidence with DIGLEGIS than Placebo are Shown)
+Table 1: Number (Percent) of Subjects with ≥ 5 Percent Adverse Reactions in a 15‑Day Placebo-Controlled Study of DICLEGIS (Only Those Adverse Reactions Occurring at an Incidence ≥ 5 Percent and at a Higher Incidence with DICLEGIS than Placebo are Shown)
 
 |  | Diclegis(N = 133) | Placebo(n = 128) |
 | --- | --- | --- |

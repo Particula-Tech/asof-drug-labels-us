@@ -3,7 +3,7 @@
 DICLEGIS (doxylamine succinate and pyridoxine hydrochloride) delayed-release tablets are round, white, film-coated, delayed-release tablets containing 10 mg of doxylamine succinate and 10 mg of pyridoxine hydrochloride.
 Tablets are imprinted on one side with the pink image of a pregnant woman.
 
-Inactive ingredients are as follows: ammonium hydroxide, n-butanol, carnauba wax powder, colloidal silicon dioxide, croscarmellose sodium, D&C Red#27, denatured alcohol, FD&C Blue#2, hypromellose, isopropyl alcohol, magnesium stearate, magnesium trisilicate, methacrylic acid copolymer, microcrystalline cellulose 102, PEG 400, PEG 8000, polysorbate 80, propylene glycol, shellac glaze, simethicone, talc, titanium dioxide.
+Inactive ingredients are as follows: ammonium hydroxide, n-butanol, carnauba wax powder, colloidal silicon dioxide, croscarmellose sodium, D&C Red#27, denatured alcohol, FD&C Blue#2, hypromellose, isopropyl alcohol, magnesium stearate, magnesium trisilicate, methacrylic acid copolymer, microcrystalline cellulose 102, PEG 8000, polysorbate 80, propylene glycol, shellac glaze, simethicone, sodium bicarbonate, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate.
 
 Doxylamine Succinate
 
