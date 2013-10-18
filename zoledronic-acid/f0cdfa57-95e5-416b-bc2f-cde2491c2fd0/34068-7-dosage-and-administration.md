@@ -31,15 +31,15 @@ Upon treatment initiation, the recommended Zometa doses for patients with reduce
 These doses are calculated to achieve the same AUC as that achieved in patients with creatinine clearance of 75 mL/min.
 Creatinine clearance (CrCl) is calculated using the Cockcroft-Gault formula [see Warnings and Precautions (5.2)].
 
-Table 1: Reduced Doses for Patients with Baseline CrCl less than or equal to 60 mL/min
+Table 1: Reduced Doses for Patients with Baseline CrCl Less Than or Equal to 60 mL/min
 
 | Baseline Creatinine Clearance (mL/min) | Zometa Recommended Dose* |
 | --- | --- |
 | greater than 60 | 4 mg |
-| 50 – 60 | 3.5 mg |
-| 40 – 49 | 3.3 mg |
-| 30 – 39 | 3 mg |
-| *Doses calculated assuming target AUC of 0.66(mg•hr/L) (CrCl = 75 mL/min) |  |
+| 50-60 | 3.5 mg |
+| 40-49 | 3.3 mg |
+| 30-39 | 3 mg |
+| *Doses calculated assuming target AUC of 0.66(mg•hr/L) (CrCl=75 mL/min) |  |
 
 During treatment, serum creatinine should be measured before each Zometa dose and treatment should be withheld for renal deterioration.
 In the clinical studies, renal deterioration was defined as follows: For patients with normal baseline creatinine, increase of 0.5 mg/dL For patients with abnormal baseline creatinine, increase of 1.0 mg/dL
@@ -64,7 +64,7 @@ Administer the newly-prepared dose-adjusted solution to the patient by infusion.
 Follow proper aseptic technique.
 Properly discard previously withdrawn volume of ready-to-use solution - do not store or reuse.
 
-Table 2: Preparation of Reduced Doses – Zometa ready-to-use bottle
+Table 2: Preparation of Reduced Doses–Zometa Ready-to-Use Bottle
 
 | Remove and discard the following Zometa ready-to-use solution (mL) | Replace with the following volume of sterile 0.9% Sodium Chloride, USP or 5% Dextrose Injection, USP (mL) | Dose (mg) |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ Table 2: Preparation of Reduced Doses – Zometa ready-to-use bottle
 | 18.0 | 18.0 | 3.3 |
 | 25.0 | 25.0 | 3.0 |
 
-If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2°C - 8°C (36°F 46°F).
+If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2°C–8°C (36°F–46°F).
 The refrigerated solution should then be equilibrated to room temperature prior to administration.
 The total time between dilution, storage in the refrigerator, and end of administration must not exceed 24 hours.
 
@@ -84,7 +84,7 @@ Do not store undiluted concentrate in a syringe, to avoid inadvertent injection.
 
 To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the Zometa concentrate from the vial for the dose required (see Table 3).
 
-Table 3: Preparation of Reduced Doses – Zometa concentrate
+Table 3: Preparation of Reduced Doses – Zometa Concentrate
 
 | Remove and Use Zometa Volume (mL) | Dose (mg) |
 | --- | --- |
