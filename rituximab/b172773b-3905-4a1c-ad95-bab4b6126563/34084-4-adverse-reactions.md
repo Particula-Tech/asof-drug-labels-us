@@ -3,10 +3,10 @@
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Infusion reactions [see Warnings and Precautions (5.1)]
-- Tumor lysis syndrome [see Warnings and Precautions (5.2)]
-- Mucocutaneous reactions [see Warnings and Precautions (5.3)]
+- Mucocutaneous reactions [see Warnings and Precautions (5.2)]
+- Hepatitis B reactivation with fulminant hepatitis [see Warnings and Precautions (5.3)]
 - Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.4)]
-- Hepatitis B reactivation with fulminant hepatitis [see Warnings and Precautions (5.5)]
+- Tumor lysis syndrome [see Warnings and Precautions (5.5)]
 - Infections [see Warnings and Precautions (5.6)]
 - Cardiac arrhythmias [see Warnings and Precautions (5.7)]
 - Renal toxicity [see Warnings and Precautions (5.8)]
@@ -21,7 +21,7 @@ The most common adverse reactions of Rituxan (incidence ≥ 25%) observed in cli
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The data described below reflect exposure to Rituxan in 2783 patients, with exposures ranging from a single infusion up to 2 years.
-Rituxan was studied in both single-arm and controlled trials (n=356 and n = 2427).
+Rituxan was studied in both single-arm and controlled trials (n=356 and n=2427).
 The population included 1180 patients with low grade or follicular lymphoma, 927 patients with DLBCL, and 676 patients with CLL.
 Most NHL patients received Rituxan as an infusion of 375 mg/m2 per infusion, given as a single agent weekly for up to 8 doses, in combination with chemotherapy for up to 8 doses, or following chemotherapy for up to 16 doses.
 CLL patients received Rituxan 375 mg/m2 as an initial infusion followed by 500 mg/m2 for up to 5 doses, in combination with fludarabine and cyclophosphamide.
@@ -68,7 +68,7 @@ In patients who did not have prolonged neutropenia, the frequency of late-onset 
 
 Relapsed or Refractory, Low-Grade NHL
 
-Adverse reactions in Table 1 occurred in 356 patients with relapsed or refractory, low-grade or follicular, CD20-positive, B-cell NHL treated in single-arm studies of Rituxan administered as a single agent [see Clinical Studies (14.1)].
+Adverse reactions in Table 1 occurred in 356 patients with relapsed or refractory, low-grade or follicular, CD20-positive, B-cell NHL treated in single-arm studies of Rituxan administered as a single agent [See Clinical Studies (14.1)].
 Most patients received Rituxan 375 mg/m2 weekly for 4 doses.
 
 Table 1 Incidence of Adverse Reactions in ≥ 5% of Patients with Relapsed or Refractory, Low-Grade or Follicular NHL, Receiving Single-agent Rituxan (N=356)Adverse reactions observed up to 12 months following Rituxan.,Adverse reactions graded for severity by NCI-CTC criteria.
@@ -151,7 +151,7 @@ Other Grade 3 or 4 adverse reactions occurring more frequently among patients re
 
 CLL
 
-The data below reflect exposure to Rituxan in combination with fludarabine and cyclophosphamide in 676 patients with CLL in Study 11 or Study 12 [see Clinical Studies (14.5)].
+The data below reflect exposure to Rituxan in combination with fludarabine and cyclophosphamide in 676 patients with CLL in Study 11 or Study 12 [See Clinical Studies (14.5)].
 The age range was 30–83 years and 71% were men.
 Detailed safety data collection in Study 11 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
@@ -179,7 +179,7 @@ Table 2These data are based on 938 patients treated in Phase 2 and 3 studies of 
 Incidence of All Adverse ReactionsCoded using MedDRA.
 Occurring in ≥ 2% and at Least 1% Greater than Placebo Among Rheumatoid Arthritis Patients in Clinical Studies Up to Week 24 (Pooled)
 
-| Preferred Term | Placebo + MTX N = 398 n (%) | Rituxan + MTX N = 540 n (%) |
+| Preferred Term | Placebo + MTX N=398 n (%) | Rituxan + MTX N=540 n (%) |
 | --- | --- | --- |
 | Hypertension | 21 (5) | 43 (8) |
 | Nausea | 19 (5) | 41 (8) |
@@ -250,7 +250,7 @@ In the experience with Rituxan in RA patients, 2578 patients have been exposed t
 Most of the patients who received additional courses did so 24 weeks or more after the previous course and none were retreated sooner than 16 weeks.
 The rates and types of adverse reactions reported for subsequent courses of Rituxan were similar to rates and types seen for a single course of Rituxan.
 
-In RA Study 2, where all patients initially received Rituxan, the safety profile of patients who were retreated with Rituxan was similar to those who were retreated with placebo [see Clinical Studies (14.6), and Dosage and Administration (2.5)].
+In RA Study 2, where all patients initially received Rituxan, the safety profile of patients who were retreated with Rituxan was similar to those who were retreated with placebo [See Clinical Studies (14.6), and Dosage and Administration (2.5)].
 
 ## 6.3 Clinical Trials Experience in Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
@@ -268,7 +268,7 @@ Infection was the most common category of adverse events reported (47-62%) and i
 
 Table 3 Incidence of All Adverse Reactions Occurring in ≥ 10% of Rituxan-treated GPA and MPA Patients in the Clinical Study Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
 
-| Preferred Term | Rituxan N = 99 n (%) | Cyclophosphamide N = 98 n (%) |
+| Preferred Term | Rituxan N=99 n (%) | Cyclophosphamide N=98 n (%) |
 | --- | --- | --- |
 | Nausea | 18 (18%) | 20 (20%) |
 | Diarrhea | 17 (17%) | 12 (12%) |
@@ -311,7 +311,7 @@ At 6 months, in the Rituxan group, 27%, 58% and 51% of patients with normal immu
 Retreatment in Patients with GPA and MPA
 
 In the active-controlled, double-blind study, subsequent courses of Rituxan were allowed for patients experiencing a relapse of disease.
-The limited data preclude any conclusions regarding the safety of subsequent courses of Rituxan with GPA and MPA [see Dosage and Administration (2.6), and Warnings and Precautions (5.14)].
+The limited data preclude any conclusions regarding the safety of subsequent courses of Rituxan with GPA and MPA [See Dosage and Administration (2.6), and Warnings and Precautions (5.14)].
 
 ## 6.4 Immunogenicity
 
@@ -335,10 +335,10 @@ The clinical relevance of HACA formation in Rituxan-treated patients is unclear.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to Rituxan.
 
-- Hematologic: prolonged pancytopenia, marrow hypoplasia, Grade 3-4 prolonged or late-onset neutropenia, hyperviscosity syndrome in Waldenstrom's macroglobulinemia, prolonged hypogammaglobulinemia [see Warnings and Precautions (5.6)].
+- Hematologic: prolonged pancytopenia, marrow hypoplasia, Grade 3-4 prolonged or late-onset neutropenia, hyperviscosity syndrome in Waldenstrom's macroglobulinemia, prolonged hypogammaglobulinemia [See Warnings and Precautions (5.6)].
 - Cardiac: fatal cardiac failure.
 - Immune/Autoimmune Events: uveitis, optic neuritis, systemic vasculitis, pleuritis, lupus-like syndrome, serum sickness, polyarticular arthritis, and vasculitis with rash.
-- Infection: viral infections, including progressive multifocal leukoencephalopathy (PML), increase in fatal infections in HIV-associated lymphoma, and a reported increased incidence of Grade 3 and 4 infections [see Warnings and Precautions (5.6)].
+- Infection: viral infections, including progressive multifocal leukoencephalopathy (PML), increase in fatal infections in HIV-associated lymphoma, and a reported increased incidence of Grade 3 and 4 infections [See Warnings and Precautions (5.6)].
 - Neoplasia: disease progression of Kaposi's sarcoma.
 - Skin: severe mucocutaneous reactions.
 - Gastrointestinal: bowel obstruction and perforation.

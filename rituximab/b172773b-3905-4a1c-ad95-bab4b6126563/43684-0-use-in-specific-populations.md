@@ -39,7 +39,7 @@ Serious pulmonary adverse reactions were also more common among the elderly, inc
 
 Low-Grade or Follicular Non-Hodgkin's Lymphoma
 
-Patients with previously untreated follicular NHL evaluated in Study 5 were randomized to Rituxan as single-agent maintenance therapy (n = 505) or observation (n = 513) after achieving a response to Rituxan in combination with chemotherapy.
+Patients with previously untreated follicular NHL evaluated in Study 5 were randomized to Rituxan as single-agent maintenance therapy (n=505) or observation (n=513) after achieving a response to Rituxan in combination with chemotherapy.
 Of these, 123 (24%) patients in the Rituxan arm were age 65 or older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 Other clinical studies of Rituxan in low-grade or follicular, CD20-positive, B-cell NHL did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
@@ -48,7 +48,7 @@ Chronic Lymphocytic Leukemia
 
 Among patients with CLL evaluated in two randomized active-controlled trials, 243 of 676 Rituxan-treated patients (36%) were 65 years of age or older; of these, 100 Rituxan-treated patients (15%) were 70 years of age or older.
 
-In exploratory analyses defined by age, there was no observed benefit from the addition of Rituxan to fludarabine and cyclophosphamide among patients 70 years of age or older in Study 11 or in Study 12; there was also no observed benefit from the addition of Rituxan to fludarabine and cyclophosphamide among patients 65 years of age or older in Study 12 [see Clinical Studies (14.5)].
+In exploratory analyses defined by age, there was no observed benefit from the addition of Rituxan to fludarabine and cyclophosphamide among patients 70 years of age or older in Study 11 or in Study 12; there was also no observed benefit from the addition of Rituxan to fludarabine and cyclophosphamide among patients 65 years of age or older in Study 12 [See Clinical Studies (14.5)].
 Patients 70 years or older received lower dose intensity of fludarabine and cyclophosphamide compared to younger patients, regardless of the addition of Rituxan.
 In Study 11, the dose intensity of Rituxan was similar in older and younger patients, however in Study 12 older patients received a lower dose intensity of Rituxan.
 

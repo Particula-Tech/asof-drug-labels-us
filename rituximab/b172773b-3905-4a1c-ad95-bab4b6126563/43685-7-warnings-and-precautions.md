@@ -14,16 +14,7 @@ Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
 Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (≥ 25,000/mm3).
 [See Boxed Warning, Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 
-## 5.2 Tumor Lysis Syndrome (TLS)
-
-Acute renal failure, hyperkalemia, hypocalcemia, hyperuricemia, or hyperphosphatemia from tumor lysis, some fatal, can occur within 12–24 hours after the first infusion of Rituxan in patients with NHL.
-A high number of circulating malignant cells (≥ 25,000/mm3) or high tumor burden, confers a greater risk of TLS.
-
-Administer aggressive intravenous hydration and anti-hyperuricemic therapy in patients at high risk for TLS.
-Correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
-[See Boxed Warning, Warnings and Precautions (5.8)].
-
-## 5.3 Severe Mucocutaneous Reactions
+## 5.2 Severe Mucocutaneous Reactions
 
 Mucocutaneous reactions, some with fatal outcome, can occur in patients treated with Rituxan.
 These reactions include paraneoplastic pemphigus, Stevens-Johnson syndrome, lichenoid dermatitis, vesiculobullous dermatitis, and toxic epidermal necrolysis.
@@ -31,6 +22,26 @@ The onset of these reactions has been variable and includes reports with onset o
 Discontinue Rituxan in patients who experience a severe mucocutaneous reaction.
 The safety of readministration of Rituxan to patients with severe mucocutaneous reactions has not been determined.
 [See Boxed Warning, Adverse Reactions (6, 6.1)].
+
+## 5.3 Hepatitis B Virus Reactivation
+
+Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure and death, can occur in patients treated with drugs classified as CD20-directed cytolytic antibodies, including Rituxan.
+Cases have been reported in patients who are hepatitis B surface antigen (HBsAg) positive and also in patients who are HBsAg negative but are hepatitis B core antibody (anti-HBc) positive.
+Reactivation also has occurred in patients who appear to have resolved hepatitis B infection (i.e., HBsAg negative, anti-HBc positive and hepatitis B surface antibody [anti-HBs] positive).
+
+HBV reactivation is defined as an abrupt increase in HBV replication manifesting as a rapid increase in serum HBV DNA level or detection of HBsAg in a person who was previously HBsAg negative and anti-HBc positive.
+Reactivation of HBV replication is often followed by hepatitis, i.e., increase in transaminase levels.
+In severe cases increase in bilirubin levels, liver failure, and death can occur.
+
+Screen all patients for HBV infection by measuring HBsAg and anti-HBc before initiating treatment with Rituxan.
+For patients who show evidence of prior hepatitis B infection (HBsAg positive [regardless of antibody status] or HBsAg negative but anti-HBc positive), consult with physicians with expertise in managing hepatitis B regarding monitoring and consideration for HBV antiviral therapy before and/or during Rituxan treatment.
+
+Monitor patients with evidence of current or prior HBV infection for clinical and laboratory signs of hepatitis or HBV reactivation during and for several months following Rituxan therapy.
+HBV reactivation has been reported up to 24 months following completion of Rituxan therapy.
+
+In patients who develop reactivation of HBV while on Rituxan, immediately discontinue Rituxan and any concomitant chemotherapy, and institute appropriate treatment.
+Insufficient data exist regarding the safety of resuming Rituxan in patients who develop HBV reactivation.
+Resumption of Rituxan in patients whose HBV reactivation resolves should be discussed with physicians with expertise in managing hepatitis B.
 
 ## 5.4 Progressive Multifocal Leukoencephalopathy (PML)
 
@@ -44,16 +55,14 @@ Evaluation of PML includes, but is not limited to, consultation with a neurologi
 Discontinue Rituxan and consider discontinuation or reduction of any concomitant chemotherapy or immunosuppressive therapy in patients who develop PML.
 [See Boxed Warning, Adverse Reactions (6)].
 
-## 5.5 Hepatitis B Virus (HBV) Reactivation
+## 5.5 Tumor Lysis Syndrome (TLS)
 
-Hepatitis B virus (HBV) reactivation with fulminant hepatitis, hepatic failure, and death can occur in patients treated with Rituxan.
-The median time to the diagnosis of hepatitis among patients with hematologic malignancies was approximately 4 months after the initiation of Rituxan and approximately one month after the last dose.
+Acute renal failure, hyperkalemia, hypocalcemia, hyperuricemia, or hyperphosphatemia from tumor lysis, some fatal, can occur within 12–24 hours after the first infusion of Rituxan in patients with NHL.
+A high number of circulating malignant cells (≥ 25,000/mm3) or high tumor burden, confers a greater risk of TLS.
 
-Screen patients at high risk of HBV infection before initiation of Rituxan.
-Closely monitor carriers of hepatitis B for clinical and laboratory signs of active HBV infection for several months following Rituxan therapy.
-Discontinue Rituxan and any concomitant chemotherapy in patients who develop viral hepatitis, and institute appropriate treatment including antiviral therapy.
-Insufficient data exist regarding the safety of resuming Rituxan in patients who develop hepatitis subsequent to HBV reactivation.
-[See Adverse Reactions (6.5)].
+Administer aggressive intravenous hydration and anti-hyperuricemic therapy in patients at high risk for TLS.
+Correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
+[See Boxed Warning, Warnings and Precautions (5.8)].
 
 ## 5.6 Infections
 
@@ -74,13 +83,13 @@ Severe, including fatal, renal toxicity can occur after Rituxan administration i
 Renal toxicity has occurred in patients who experience tumor lysis syndrome and in patients with NHL administered concomitant cisplatin therapy during clinical trials.
 The combination of cisplatin and Rituxan is not an approved treatment regimen.
 Monitor closely for signs of renal failure and discontinue Rituxan in patients with a rising serum creatinine or oliguria.
-[See Warnings and Precautions (5.2)].
+[See Warnings and Precautions (5.5)].
 
 ## 5.9 Bowel Obstruction and Perforation
 
 Abdominal pain, bowel obstruction and perforation, in some cases leading to death, can occur in patients receiving Rituxan in combination with chemotherapy.
 In postmarketing reports, the mean time to documented gastrointestinal perforation was 6 (range 1–77) days in patients with NHL.
-Perform a thorough diagnostic evaluation and institute appropriate treatment for complaints of abdominal pain.
+Evaluate if symptoms of obstruction such as abdominal pain or repeated vomiting occur.
 [See Adverse Reactions (6)].
 
 ## 5.10 Immunization
@@ -103,7 +112,7 @@ The clinical implications of these findings are not known.
 ## 5.11 Laboratory Monitoring
 
 In patients with lymphoid malignancies, during treatment with Rituxan monotherapy, obtain complete blood counts (CBC) and platelet counts prior to each Rituxan course.
-During treatment with Rituxan and chemotherapy, obtain CBC and platelet counts at weekly to monthly intervals and more frequently in patients who develop cytopenias [see Adverse Reactions (6.1)].
+During treatment with Rituxan and chemotherapy, obtain CBC and platelet counts at weekly to monthly intervals and more frequently in patients who develop cytopenias [See Adverse Reactions (6.1)].
 In patients with RA, GPA or MPA, obtain CBC and platelet counts at two to four month intervals during Rituxan therapy.
 The duration of cytopenias caused by Rituxan can extend months beyond the treatment period.
 
@@ -121,4 +130,4 @@ The use of Rituxan in patients with RA who have not had prior inadequate respons
 ## 5.14 Retreatment in Patients with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 Limited data are available on the safety and efficacy of subsequent courses of Rituxan in patients with GPA and MPA.
-The safety and efficacy of retreatment with Rituxan have not been established [see Dosage and Administration (2.6), Adverse Reactions (6.3), and Clinical Studies (14.7)].
+The safety and efficacy of retreatment with Rituxan have not been established [See Dosage and Administration (2.6), Adverse Reactions (6.3), and Clinical Studies (14.7)].

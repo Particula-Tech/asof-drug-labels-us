@@ -1,4 +1,4 @@
-MEDICATION GUIDE Rituxan® (ri-tuk-san) (rituximab) for injection
+MEDICATION GUIDE Rituxan® (ri-tuk-san) (rituximab) Injection for Intravenous Infusion
 
 Read this Medication Guide before you start Rituxan and before each Rituxan infusion.
 There may be new information.
@@ -8,7 +8,7 @@ What is the most important information I should know about Rituxan?
 
 Rituxan can cause serious side effects that can lead to death, including:
 
-- 1.Infusion reactions.
+- Infusion reactions.
   Infusion reactions are the most common side effect of Rituxan treatment.
   Serious infusion reactions can happen during your infusion or within 24 hours after your infusion of Rituxan.
   Your doctor should give you medicines before your infusion of Rituxan to decrease your chance of having a severe infusion reaction.
@@ -22,7 +22,20 @@ Rituxan can cause serious side effects that can lead to death, including:
   - dizziness or feel faint
   - palpitations (feel like your heart is racing or fluttering)
   - chest pain
-- 2.Progressive Multifocal Leukoencephalopathy (PML).
+- Severe skin and mouth reactions.
+  Tell your doctor or get medical help right away if you get any of these symptoms at anytime during your treatment with Rituxan:
+  - painful sores or ulcers on your skin, lips or in your mouth
+  - blisters
+  - peeling skin
+  - rash
+  - pustules
+- Hepatitis B virus (HBV) reactivation.
+  Before Rituxan treatment, your doctor will do blood tests to check for HBV infection.
+  If you have had hepatitis B or are a carrier of hepatitis B virus, receiving Rituxan could cause the virus to become an active infection again.
+  Hepatitis B reactivation may cause serious liver problems including liver failure, and death.
+  You should not receive Rituxan if you have active hepatitis B liver disease.
+  Your doctor will monitor you for hepatitis B infection during and for several months after you stop receiving Rituxan.
+- Progressive Multifocal Leukoencephalopathy (PML).
   PML is a rare, serious brain infection caused by a virus.
   People with weakened immune systems can get PML.
   Your chance of getting PML may be higher if you are treated with Rituxan alone or with other medicines that weaken your immune system.
@@ -34,21 +47,8 @@ Rituxan can cause serious side effects that can lead to death, including:
   - change in the way you walk or talk
   - decreased strength or weakness on one side of your body
   - blurred vision or loss of vision
-- 3.Tumor Lysis Syndrome (TLS).
-  TLS is caused by the fast breakdown of cancer cells.
-  TLS can cause you to have: Your doctor may do blood tests to check you for TLS.
-  Your doctor may give you medicine to help prevent TLS.
-  - kidney failure and the need for dialysis treatment
-  - abnormal heart rhythm
-- 4.Severe skin and mouth reactions.
-  Tell your doctor or get medical help right away if you get any of these symptoms at anytime during your treatment with Rituxan:
-  - painful sores or ulcers on your skin, lips or in your mouth
-  - blisters
-  - peeling skin
-  - rash
-  - pustules
 
-See "What are possible side effects of Rituxan?" for more information about side effects.
+See "What are the possible side effects of Rituxan?" for more information about side effects.
 
 What is Rituxan?
 
@@ -88,7 +88,7 @@ Before receiving Rituxan, tell your doctor if you:
 - are pregnant or planning to become pregnant.
   Rituxan may affect the white blood cell counts of your unborn baby.
   It is not known if Rituxan may harm your unborn baby in other ways.
-  Women who are able to become pregnant should use effective birth-control (contraception) while using Rituxan and for 12 months after you finish treatment.
+  Women who are able to become pregnant should use effective birth control (contraception) while using Rituxan and for 12 months after you finish treatment.
   Talk to your doctor about effective birth control.
 - are breast-feeding or plan to breast-feed.
   It is not known if Rituxan passes into your breast milk.
@@ -97,8 +97,9 @@ Before receiving Rituxan, tell your doctor if you:
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Especially tell your doctor if you take or have taken:
 
-- a Tumor Necrosis Factor (TNF) inhibitor medicine
-- a Disease Modifying Anti-Rheumatic Drug (DMARD)
+- 
+  - a Tumor Necrosis Factor (TNF) inhibitor medicine
+  - a Disease Modifying Anti-Rheumatic Drug (DMARD)
 
 If you are not sure if your medicine is one listed above, ask your doctor or pharmacist.
 
@@ -122,11 +123,12 @@ Rituxan can cause serious and life-threatening side effects, including:
 
 See "What is the most important information I should know about Rituxan?"
 
-- Hepatitis B virus (HBV) reactivation.
-  If you have had hepatitis B or are a carrier of hepatitis B virus, receiving Rituxan could cause the virus to become an active infection again.
-  Hepatitis B reactivation may cause serious liver problems including liver failure, and death.
-  You should not receive Rituxan if you have active hepatitis B liver disease.
-  Your doctor should monitor you for hepatitis B infection during and for several months after you stop receiving Rituxan.
+- Tumor Lysis Syndrome (TLS).
+  TLS is caused by the fast breakdown of cancer cells.
+  TLS can cause you to have: Your doctor may do blood tests to check you for TLS.
+  Your doctor may give you medicine to help prevent TLS.
+  - kidney failure and the need for dialysis treatment
+  - abnormal heart rhythm
 - Serious infections.
   Serious infections can happen during and after treatment with Rituxan, and can lead to death.
   Rituxan can lower the ability of your immune system to fight infections.
@@ -161,7 +163,7 @@ See "What is the most important information I should know about Rituxan?"
 
 Common side effects during Rituxan treatment include:
 
-- infusion reactions (see What is the most important information I should know about Rituxan?)
+- infusion reactions (see "What is the most important information I should know about Rituxan?")
 - chills
 - infections
 - body aches
