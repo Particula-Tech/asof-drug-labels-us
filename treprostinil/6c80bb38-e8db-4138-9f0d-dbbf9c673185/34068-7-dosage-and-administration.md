@@ -3,7 +3,7 @@
 ## 2.1 General
 
 Remodulin is supplied in 20 mL vials containing 20, 50, 100, or 200 mg of treprostinil (1 mg/mL, 2.5 mg/mL, 5 mg/mL or 10 mg/mL).
-Remodulin can be administered as supplied or diluted for intravenous infusion with Sterile Water for Injection, 0.9% Sodium Chloride Injection, or Flolan® Sterile Diluent for Injection prior to administration.
+Remodulin can be administered as supplied or diluted for intravenous infusion with Sterile Water for Injection, 0.9% Sodium Chloride Injection, Sterile Diluent for Flolan, or Sterile Diluent for Epoprostenol Sodium prior to administration.
 
 ## 2.2 Initial Dose for Patients New to Prostacyclin Infusion Therapy
 
@@ -18,7 +18,6 @@ The goal of chronic dosage adjustments is to establish a dose at which PAH sympt
 
 The infusion rate should be increased in increments of 1.25 ng/kg/min per week for the first four weeks of treatment and then 2.5 ng/kg/min per week for the remaining duration of infusion, depending on clinical response.
 Dosage adjustments may be undertaken more often if tolerated.
-There is little experience with doses >40 ng/kg/min.
 Abrupt cessation of infusion should be avoided [see Warnings and Precautions (5.4)].
 Restarting a Remodulin infusion within a few hours after an interruption can be done using the same dose rate.
 Interruptions for longer periods may require the dose of Remodulin to be re-titrated.
@@ -32,7 +31,6 @@ Remodulin has not been studied in patients with severe hepatic insufficiency [se
 
 No studies have been performed in patients with renal insufficiency.
 No specific advice about dosing in patients with renal impairment can be given.
-
 [see Clinical Pharmacology (12.3)].
 
 ## 2.6 Administration
@@ -69,18 +67,20 @@ Example 2:
 
 For a 65 kg person at a dose of 40 ng/kg/min using the 5 mg/mL Remodulin Vial Strength, the infusion rate would be calculated as follows:
 
-| Subcutaneous Infusion Rate (mL/hr) | = | 40 ng/kg/min | × | 65 kg | × | 0.00006 | = 0.031 mL/hr |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 5 mg/mL |  |  |  |  |  |  |  |
+| Subcutaneous Infusion Rate (mL/hr) | = | 40 ng/kg/min | × | 65 kg | × | 0.00006 | = | 0.031 mL/hr |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 mg/mL |  |  |  |  |  |  |  |  |
 
 Intravenous Infusion
 
-Remodulin must be diluted with either Sterile Water for Injection, 0.9% Sodium Chloride Injection, or Flolan® Sterile Diluent for Injection and is administered intravenously by continuous infusion, via a surgically placed indwelling central venous catheter, using an infusion pump designed for intravenous drug delivery.
+Remodulin must be diluted with either Sterile Water for Injection, 0.9% Sodium Chloride Injection, Sterile Diluent for Flolan, or Sterile Diluent for Epoprostenol Sodium and is administered intravenously by continuous infusion, via a surgically placed indwelling central venous catheter, using an infusion pump designed for intravenous drug delivery.
 If clinically necessary, a temporary peripheral intravenous cannula, preferably placed in a large vein, may be used for short term administration of Remodulin.
 Use of a peripheral intravenous infusion for more than a few hours may be associated with an increased risk of thrombophlebitis.
 To avoid potential interruptions in drug delivery, the patient must have immediate access to a backup infusion pump and infusion sets.
 The ambulatory infusion pump used to administer Remodulin should: (1) be small and lightweight, (2) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (3) have delivery accuracy of ±6% or better of the hourly dose, and (4) be positive pressure driven.
 The reservoir should be made of polyvinyl chloride, polypropylene or glass.
+
+Infusion sets with an in-line 0.22 or 0.2 micron pore size filter should be used.
 
 Diluted Remodulin has been shown to be stable at ambient temperature for up to 48 hours at concentrations as low as 0.004 mg/mL (4,000 ng/mL).
 
@@ -102,7 +102,7 @@ Step 2
 | --- | --- | --- | --- | --- |
 | Remodulin Vial Strength (mg/mL) |  |  |  |  |
 
-The calculated amount of Remodulin Injection is then added to the reservoir along with the sufficient volume of diluent (Sterile Water for Injection, 0.9% Sodium Chloride Injection, or Flolan® Sterile Diluent for Injection) to achieve the desired total volume in the reservoir.
+The calculated amount of Remodulin Injection is then added to the reservoir along with the sufficient volume of diluent (Sterile Water for Injection, 0.9% Sodium Chloride Injection, Sterile Diluent for Flolan, or Sterile Diluent for Epoprostenol Sodium) to achieve the desired total volume in the reservoir.
 
 Example calculations for Intravenous Infusion are as follows:
 

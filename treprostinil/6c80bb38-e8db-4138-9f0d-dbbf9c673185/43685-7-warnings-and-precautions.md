@@ -8,6 +8,7 @@ Therefore, continuous subcutaneous infusion (undiluted) is the preferred mode of
 
 In an open-label study of IV treprostinil (n=47), there were seven catheter-related line infections during approximately 35 patient years, or about 1 BSI event per 5 years of use.
 A CDC survey of seven sites that used IV treprostinil for the treatment of PAH found approximately 1 BSI (defined as any positive blood culture) event per 3 years of use.
+Administration of IV Remodulin with a high pH glycine diluent such as Sterile Diluent for Flolan or Sterile Diluent for Epoprostenol Sodium has been associated with a lower incidence of BSIs when compared to neutral diluents (sterile water, 0.9% sodium chloride) when used along with catheter care guidelines.
 
 ## 5.2 General Conditions of Use
 

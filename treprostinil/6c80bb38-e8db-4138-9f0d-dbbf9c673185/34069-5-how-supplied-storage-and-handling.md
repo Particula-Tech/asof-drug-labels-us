@@ -5,8 +5,10 @@ Unopened vials of Remodulin are stable until the date indicated when stored at 1
 Store at 25°C (77°F), with excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
 During use, a single reservoir (syringe) of undiluted Remodulin can be administered up to 72 hours at 37°C.
-Diluted Remodulin Solution can be administered up to 48 hours at 37°C when diluted to concentrations as low as 0.004 mg/mL in Sterile Water for Injection, 0.9% Sodium Chloride Injection, or Flolan® Sterile Diluent for Injection.
+Diluted Remodulin Solution can be administered up to 48 hours at 37°C when diluted to concentrations as low as 0.004 mg/mL in Sterile Water for Injection, 0.9% Sodium Chloride Injection, Sterile Diluent for Flolan or Sterile Diluent for Epoprostenol Sodium.
 A single vial of Remodulin should be used for no more than 30 days after the initial introduction into the vial.
+
+Remodulin Injection is supplied as:
 
 20-mL vial containing 20 mg treprostinil (1 mg treprostinil per mL), carton of 1 (NDC 66302-101-01).
 

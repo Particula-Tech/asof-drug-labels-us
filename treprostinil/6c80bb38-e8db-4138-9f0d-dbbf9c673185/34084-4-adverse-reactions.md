@@ -47,6 +47,10 @@ Table 3: Adverse Events in Controlled 12-Week Studies of Patients with PAH, Occu
 
 Reported adverse events (at least 3%) are included except those too general to be informative, and those not plausibly attributable to the use of the drug, because they were associated with the condition being treated or are very common in the treated population.
 
+The safety of Remodulin was also studied in a long-term, open-label extension study in which 860 patients were dosed for a mean duration of 1.6 years, with a maximum exposure of 4.6 years.
+Twenty-nine (29%) percent achieved a dose of at least 40 ng/kg/min (max: 290 ng/kg/min).
+The safety profile during this chronic dosing study was similar to that observed in the 12-week placebo controlled study except for the following suspected adverse drug reactions (occurring in at least 3% of patients): anorexia, vomiting, infusion site infection, asthenia, and abdominal pain.
+
 Adverse Events Attributable to the Drug Delivery System
 
 In controlled studies of Remodulin administered subcutaneously, there were no reports of infection related to the drug delivery system.
