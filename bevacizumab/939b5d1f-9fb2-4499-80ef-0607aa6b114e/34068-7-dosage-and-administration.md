@@ -61,5 +61,5 @@ Temporarily suspend Avastin for:
 
 - At least 4 weeks prior to elective surgery [See Warnings and Precautions (5.2).]
 - Severe hypertension not controlled with medical management [See Warnings and Precautions (5.6).]
-- Moderate to severe proteinuria pending further evaluation [See Warnings and Precautions (5.8).]
+- Moderate to severe proteinuria [See Warnings and Precautions (5.8).]
 - Severe infusion reactions [See Warnings and Precautions (5.9).]
