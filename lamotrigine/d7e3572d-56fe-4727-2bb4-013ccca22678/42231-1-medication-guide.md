@@ -120,7 +120,7 @@ When your healthcare provider gives you a prescription for LAMICTAL:
 - •Make sure you can read it clearly.
 - •Talk to your pharmacist to check that you are given the correct medicine.
 - •Each time you fill your prescription, check the tablets you receive against the pictures of the tablets below.
-- These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets.
+  These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets.
   Immediately call your pharmacist if you receive a LAMICTAL tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
 
 LAMICTAL (lamotrigine) Tablets

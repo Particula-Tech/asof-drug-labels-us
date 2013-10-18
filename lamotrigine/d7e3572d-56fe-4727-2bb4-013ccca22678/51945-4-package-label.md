@@ -182,7 +182,10 @@ Dispense the enclosed Medication Guide to each patient.
 
 GlaxoSmithKline
 
-10000000068085
+Made in India
+
+10000000098322 Rev.
+8/11
 
 Principal Display Panel
 
@@ -202,7 +205,9 @@ For patients TAKING carbamazepine, phenytoin, phenobarbital, or primidone and NO
 
 STARTER KIT
 
-Contains: 84 25-mg Tablets 14 100-mg Tablets
+Contains: 84 25-mg Tablets
+
+14 100-mg Tablets
 
 | Weeks | Tablets per day |
 | --- | --- |
@@ -222,7 +227,10 @@ Dispense the enclosed Medication Guide to each patient.
 
 GlaxoSmithKline
 
-10000000068082
+Made in India
+
+10000000098321 Rev.
+8/11
 
 Principal Display Panel
 
@@ -242,9 +250,7 @@ For patients NOT TAKING carbamazepine, phenytoin, phenobarbital, primidone, or v
 
 STARTER KIT
 
-Contains
-
-42 25-mg Tablets
+Contains: 42 25-mg Tablets
 
 7 100-mg Tablets
 
@@ -266,7 +272,10 @@ Dispense the enclosed Medication Guide to each patient.
 
 GlaxoSmithKline
 
-10000000068048
+Made in India
+
+10000000098270 Rev.
+8/11
 
 Principal Display Panel
 
@@ -282,7 +291,7 @@ CHEWABLE DISPERSIBLE TABLETS
 
 30 Tablets
 
-R x only
+Rx only
 
 CAUTION: Verify Product Dispensed
 
@@ -300,10 +309,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in England
+Made in India
 
-10000000067770 Rev.
-4/09
+10000000098065 Rev.
+8/1
 
 Principal Display Panel
 
@@ -319,11 +328,11 @@ CHEWABLE DISPERSIBLE TABLETS
 
 100 Tablets
 
-R x only
-
-Dispense the accompanying Medication Guide to each patient.
+Rx only
 
 CAUTION: Verify Product Dispensed
+
+Dispense the accompanying Medication Guide to each patient.
 
 Each tablet contains 5 mg of lamotrigine.
 
@@ -337,10 +346,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in England
+Made in India
 
-10000000067731 Rev.
-4/09
+10000000098063 Rev.
+8/11
 
 Principal Display Panel
 
@@ -356,7 +365,9 @@ CHEWABLE DISPERSABLE TABLETS
 
 100 Tablets
 
-R x only
+Rx only
+
+CAUTION: Verify Product Dispensed
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -372,10 +383,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in England
+Made in India
 
-10000000067732 Rev.
-4/09
+10000000098064 Rev.
+8/11
 
 Principal Display Panel
 
@@ -389,9 +400,9 @@ ORALLY DISINTEGRATING TABLETS
 
 Maintenance Pack
 
-25 mg
-
 Rx only
+
+25 mg
 
 30 Tablets
 
@@ -399,13 +410,16 @@ This Maintenance Pack is intended for patients already taking LAMICTAL.
 
 NOT for initial titration.
 
-CAUTION: Verify Product Dispensed
-
 Dispense the accompanying Medication Guide to each patient.
+
+CAUTION: Verify Product Dispensed
 
 GlaxoSmithKline
 
-10000000060738
+Made in India
+
+10000000091910 Rev.
+3/11
 
 Principal Display Panel
 
@@ -419,9 +433,9 @@ ORALLY DISINTEGRATING TABLETS
 
 Maintenance Pack
 
-50 mg
-
 Rx only
+
+50 mg
 
 30 Tablets
 
@@ -429,13 +443,16 @@ This Maintenance Pack is intended for patients already taking LAMICTAL.
 
 NOT for initial titration.
 
-CAUTION: Verify Product Dispensed
-
 Dispense the accompanying Medication Guide to each patient.
+
+CAUTION: Verify Product Dispensed
 
 GlaxoSmithKline
 
-10000000060775
+Made in India
+
+10000000092032 Rev.
+2/11
 
 Principal Display Panel
 
@@ -449,9 +466,9 @@ ORALLY DISINTEGRATING TABLETS
 
 Maintenance Pack
 
-100 mg
-
 Rx only
+
+100 mg
 
 30 Tablets
 
@@ -459,13 +476,16 @@ This Maintenance Pack is intended for patients already taking LAMICTAL.
 
 NOT for initial titration.
 
-CAUTION: Verify Product Dispensed
-
 Dispense the accompanying Medication Guide to each patient.
+
+CAUTION: Verify Product Dispensed
 
 GlaxoSmithKline
 
-10000000060771
+Made in India
+
+10000000092031 Rev.
+3/11
 
 Principal Display Panel
 
@@ -479,9 +499,9 @@ ORALLY DISINTEGRATING TABLETS
 
 Maintenance Pack
 
-200 mg
-
 Rx only
+
+200 mg
 
 30 Tablets
 
@@ -489,13 +509,16 @@ This Maintenance Pack is intended for patients already taking LAMICTAL.
 
 NOT for initial titration.
 
-CAUTION: Verify Product Dispensed
-
 Dispense the accompanying Medication Guide to each patient.
+
+CAUTION: Verify Product Dispensed
 
 GlaxoSmithKline
 
-10000000060694
+Made in India
+
+10000000091909 Rev.
+2/11
 
 Principal Display Panel
 
