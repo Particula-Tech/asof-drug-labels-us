@@ -1,16 +1,10 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Prazosin HCl Capsules USP 1 mg 100s Label Text
+## Prazosin Hydrochloride Capsules USP 1 mg 100s Label Text
 
 NDC 0093-4067-01
 
-PRAZOSIN
-
-HYDROCHLORIDE
-
-Capsules USP
-
-1 mg*
+PRAZOSIN HYDROCHLORIDE Capsules USP 1 mg*
 
 Rx only
 
@@ -20,17 +14,11 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Prazosin HCl Capsules 2 mg USP100s Label Text
+## Prazosin Hydrochloride Capsules USP 2 mg 100s Label Text
 
 NDC 0093-4068-01
 
-PRAZOSIN
-
-HYDROCHLORIDE
-
-Capsules USP
-
-2 mg*
+PRAZOSIN HYDROCHLORIDE Capsules USP 2 mg*
 
 Rx only
 
@@ -40,17 +28,11 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Prazosin HCl Capsules 5 mg USP 100s Label Text
+## Prazosin Hydrochloride Capsules USP 5 mg 100s Label Text
 
 NDC 0093-4069-01
 
-PRAZOSIN
-
-HYDROCHLORIDE
-
-Capsules USP
-
-5 mg*
+PRAZOSIN HYDROCHLORIDE Capsules USP 5 mg*
 
 Rx only
 
