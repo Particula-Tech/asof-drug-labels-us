@@ -22,12 +22,12 @@ Usual Dosage and Reconstitution Instructions: See accompanying prescribing infor
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-ALOPRIM® is a registered trademark of Bioniche Teoranta
+ALOPRIM® is a registered trademark of Mylan Teoranta
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Made in U.S.A.
 
-MI:187:1C:R2
+MI:187:1C:R3
 
 Mylan.com

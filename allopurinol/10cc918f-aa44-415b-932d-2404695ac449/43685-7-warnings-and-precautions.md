@@ -92,7 +92,7 @@ However, in a well-controlled study of patients with lymphoma on combination the
 The half-life of chlorpropamide in the plasma may be prolonged by allopurinol, since allopurinol and chlorpropamide may compete for excretion in the renal tubule.
 The risk of hypoglycemia secondary to this mechanism may be increased if allopurinol and chlorpropamide are given concomitantly in the presence of renal insufficiency.
 
-### Cyclosporin
+### Cyclosporine
 
 Reports indicate that cyclosporine levels may be increased during concomitant treatment with ALOPRIM (allopurinol sodium) for Injection.
 Monitoring of cyclosporine levels and possible adjustment of cyclosporine dosage should be considered when these drugs are co-administered.

@@ -30,7 +30,7 @@ The dose of ALOPRIM (allopurinol sodium) for Injection should be reduced in pati
 
 In both adults and children, the daily dose can be given as single infusion or in equally divided infusions at 6-, 8-, or 12- hour intervals at the recommended final concentration of not greater than 6 mg/mL (see Preparation of Solution).
 The rate of infusion depends on the volume of infusate.
-Whenever possible, therapy with ALOPRIM (allopurinol sodium) for Injection should be initiated 24 to 48 hours before the start of chemotherapy known to cause tumor cell lysis (including adrenocortico steroids).
+Whenever possible, therapy with ALOPRIM (allopurinol sodium) for Injection should be initiated 24 to 48 hours before the start of chemotherapy known to cause tumor cell lysis (including adrenocortical steroids).
 
 ALOPRIM (allopurinol sodium) for Injection should not be mixed with or administered through the same intravenous port with agents which are incompatible in solution with ALOPRIM (allopurinol sodium) for Injection (see Preparation of Solution).
 
@@ -55,7 +55,7 @@ Drugs That Are Physically Incompatible in Solution with ALOPRIM® (allopurinol s
 
 | Amikacin sulfate | Hydroxyzine HCl |
 | --- | --- |
-| Amphoterecin B | Idarubicin HCl |
+| Amphotericin B | Idarubicin HCl |
 | Carmustine | Imipenem-cilastatin sodium |
 | Cefotaxime sodium | Mechlorethamine HCl |
 | Chlorpromazine HCl | Meperidine HCl |
