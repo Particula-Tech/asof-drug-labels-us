@@ -2,17 +2,12 @@
 
 The following serious adverse reactions can occur with Tasigna and are discussed in greater detail in other sections of the package insert [see Boxed Warning, Warnings and Precautions (5)].
 
-Myelosuppression [see Warnings and Precautions (5.1)]
-
-QT prolongation [see Boxed Warning, Warnings and Precautions (5.2)]
-
-Sudden deaths [see Boxed Warning, Warnings and Precautions (5.3)]
-
-Elevated serum lipase [see Warnings and Precautions (5.4)]
-
-Hepatotoxicity [see Warnings and Precautions (5.5)]
-
-Electrolyte abnormalities [see Boxed Warning, Warnings and Precautions (5.6)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- QT prolongation [see Boxed Warning, Warnings and Precautions (5.2)]
+- Sudden deaths [see Boxed Warning, Warnings and Precautions (5.3)]
+- Elevated serum lipase [see Warnings and Precautions (5.4)]
+- Hepatotoxicity [see Warnings and Precautions (5.5)]
+- Electrolyte abnormalities [see Boxed Warning, Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,7 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In Patients with Newly Diagnosed Ph+ CML-CP
 
 The data below reflect exposure to Tasigna from a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n=279).
-The median time on treatment in the nilotinib 300 mg twice daily group was 36.4 months (range 0.1 – 46.7 months).
+The median time on treatment in the nilotinib 300 mg twice daily group was 36.4 months (range 0.1–46.7 months).
 The median actual dose intensity was 594 mg/day in the nilotinib 300 mg twice daily group.
 
 The most common (>10%) non-hematologic adverse drug reactions were rash, pruritus, headache, nausea, fatigue and myalgia.
@@ -54,7 +49,7 @@ The common serious adverse drug reactions (≥1% and <10%) were thrombocytopenia
 
 Sudden deaths and QT prolongation were reported.
 The maximum mean QTcF change from baseline at steady-state was 10 msec.
-Increase in QTcF >60 msec from baseline was observed in 4.1% of the patients and QTcF of >500 msec was observed in 4 patients (<1%) [see Boxed Warning, Warnings and Precautions (5.2, 5.3), Clinical Pharmacology (12.4)].
+Increase in QTcF >60 msec from baseline was observed in 4.1% of the patients and QTcF of >500 msec was observed in 4 patients (<1%) [see Boxed Warning, Warnings and Precautions (5.2, 5.3), Clinical Pharmacology (12.6)].
 
 Discontinuation due to adverse drug reactions was observed in 16% of CML-CP and 10% of CML-AP patients.
 
@@ -69,7 +64,7 @@ Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 | --- | --- | --- | --- | --- | --- |
 |  |  | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily |
 |  |  | N=279 | N=280 | N=279 | N=280 |
-| Body System and Preferred Term |  | All Grades (%) |  | CTC Gradesb 3 / 4 (%) |  |
+| Body System and Preferred Term |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 38 | 18 | <1 | 2 |
 |  | Pruritus | 21 | 7 | <1 | 0 |
 |  | Alopecia | 13 | 6 | 0 | 0 |
@@ -101,15 +96,14 @@ Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 | Eye disorders | Eyelid edema | 1 | 18 | 0 | <1 |
 |  | Periorbital edema | <1 | 15 | 0 | 0 |
 | Psychiatric disorders | Insomnia | 10 | 9 | 0 | 0 |
-
-a Excluding laboratory abnormalities b NCI Common Terminology Criteria for Adverse Events, Version 3.0
+| aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 |  |  |  |  |  |
 
 Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients with Resistant or Intolerant Ph+ CML Receiving Tasigna 400 mg Twice Daily (Regardless of Relationship to Study Drug) (≥10% in any Group) 24-Month Analysisa
 
 | Body System and Preferred Term |  | CML-CP |  | CML-AP |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | N=321 |  | N=137 |  |
-|  |  | All Grades (%) | CTC Gradesb 3 / 4 (%) | All Grades (%) | CTC Gradesb 3 / 4 (%) |
+|  |  | All Grades (%) | CTC Gradesb 3/4 (%) | All Grades (%) | CTC Gradesb 3/4 (%) |
 | Skin and subcutaneous tissue disorders | Rash | 36 | 2 | 29 | 0 |
 |  | Pruritus | 32 | <1 | 20 | 0 |
 |  | Night sweat | 12 | <1 | 27 | 0 |
@@ -141,8 +135,7 @@ Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients 
 | Metabolism and nutrition disorders | Decreased appetitec | 15 | <1 | 17 | <1 |
 | Psychiatric disorders | Insomnia | 12 | 1 | 7 | 0 |
 | Vascular disorders | Hypertension | 10 | 2 | 11 | <1 |
-
-a Excluding laboratory abnormalities b NCI Common Terminology Criteria for Adverse Events, Version 3.0 c Also includes preferred term anorexia
+| aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 cAlso includes preferred term anorexia |  |  |  |  |  |
 
 Laboratory Abnormalities
 
@@ -173,16 +166,7 @@ Table 7: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | Hypocalcemia | <1 | <1 | 2 | 5 |
 | Elevated alkaline phosphatase | 0 | <1 | <1 | 1 |
 | Elevated creatinine | 0 | <1 | <1 | <1 |
-
-*NCI Common Terminology Criteria for Adverse Events, version 3.0
-
-1CML-CP: Thrombocytopenia: 12% were grade 3, 18% were grade 4
-
-2CML-CP: Neutropenia: 16% were grade 3, 15% were grade 4
-
-3CML-AP: Thrombocytopenia: 11% were grade 3, 32% were grade 4
-
-4CML-AP: Neutropenia: 16% were grade 3, 26% were grade 4
+| *NCI Common Terminology Criteria for Adverse Events, version 3.0 1CML-CP: Thrombocytopenia: 12% were Grade 3, 18% were Grade 4 2CML-CP: Neutropenia: 16% were Grade 3, 15% were Grade 4 3CML-AP: Thrombocytopenia: 11% were Grade 3, 32% were Grade 4 4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4 |  |  |  |  |
 
 ## 6.2 Additional Data from Clinical Trials
 
@@ -195,7 +179,7 @@ Infections and Infestations: Common: folliculitis, upper respiratory tract infec
 Uncommon: pneumonia, bronchitis, urinary tract infection, candidiasis (including oral candidiasis), gastroenteritis.
 Unknown frequency: sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis.
 
-Neoplasms Benign, Malignant and Unspecified: Common: Skin papilloma.
+Neoplasms Benign, Malignant and Unspecified: Common: skin papilloma.
 Unknown frequency: oral papilloma, paraproteinemia.
 
 Blood and Lymphatic System Disorders: Common: febrile neutropenia, pancytopenia, lymphopenia.

@@ -47,7 +47,7 @@ Caution should be exercised in patients with relevant cardiac disorders [see Box
 ## 8.7 Hepatic Impairment
 
 Nilotinib exposure is increased in patients with impaired hepatic function.
-In a study of subjects with mild to severe hepatic impairment following a single dose administration of 200 mg of Tasigna, the mean AUC values were increased on average of 35%, 35% and 56% in subjects with mild (Child-Pugh class A, score 5-6), moderate (Child-Pugh class B, score 7-9) and severe hepatic impairment (Child-Pugh class C, score 10-15), respectively, compared to a control group of subjects with normal hepatic function.
+In a study of subjects with mild to severe hepatic impairment following a single dose administration of 200 mg of Tasigna, the mean AUC values were increased on average of 35%, 35%, and 56% in subjects with mild (Child-Pugh class A, score 5 to 6), moderate (Child-Pugh class B, score 7 to 9) and severe hepatic impairment (Child-Pugh class C, score 10 to 15), respectively, compared to a control group of subjects with normal hepatic function.
 Table 8 summarizes the Child-Pugh Liver Function Classification applied in this study.
 A lower starting dose is recommended in patients with hepatic impairment and the QT interval should be monitored closely in these patients [see Dosage and Administration (2.2), Warnings and Precautions (5.9)].
 
@@ -62,13 +62,13 @@ Table 8: Child-Pugh Liver Function Classification
 |  | Slight | 2 |
 |  | Moderate | 3 |
 | Total Bilirubin (mg/dL) | <2 | 1 |
-|  | 2 - 3 | 2 |
+|  | 2-3 | 2 |
 |  | >3 | 3 |
 | Serum Albumin (g/dL) | >3.5 | 1 |
-|  | 2.8 - 3.5 | 2 |
+|  | 2.8-3.5 | 2 |
 |  | <2.8 | 3 |
 | Prothrombin Time (seconds prolonged) | <4 | 1 |
-|  | 4 - 6 | 2 |
+|  | 4-6 | 2 |
 |  | >6 | 3 |
 
 ## 8.8 Renal Impairment

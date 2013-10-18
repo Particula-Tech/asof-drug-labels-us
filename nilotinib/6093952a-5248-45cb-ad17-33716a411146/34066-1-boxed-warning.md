@@ -6,4 +6,4 @@
 - Sudden deaths have been reported in patients receiving nilotinib (5.3).
   Do not administer Tasigna to patients with hypokalemia, hypomagnesemia, or long QT syndrome (4, 5.2).
 - Avoid use of concomitant drugs known to prolong the QT interval and strong CYP3A4 inhibitors (5.7).
-- Patients should avoid food 2 hours before and 1 hour after taking dose (5.8).
+- Avoid food 2 hours before and 1 hour after taking the dose (5.8).

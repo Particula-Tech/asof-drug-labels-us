@@ -6,7 +6,7 @@ TASIGNA® (ta-sig-na)
 
 Capsules
 
-Read this Medication Guide before you start taking Tasigna® and each time you get a refill.
+Read this Medication Guide before you start taking TASIGNA and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your doctor about your medical condition or treatment.
 
@@ -24,8 +24,9 @@ Your doctor should check the electrical activity of your heart with a test calle
 
 You may lower your chances for having QTc prolongation with Tasigna if you:
 
-- Take Tasigna: ○ on an empty stomach.
-  Do not take Tasigna with food. ○ at least 2 hours after eating any food, and ○ wait at least 1 hour before eating any food
+- Take Tasigna on an empty stomach:
+  - Avoid eating food for at least 2 hours before the dose is taken, and
+  - Avoid eating food for at least 1 hour after the dose is taken.
 - Avoid grapefruit, grapefruit juice, and any supplement containing grapefruit extract while taking Tasigna.
   Food and grapefruit products increase the amount of Tasigna in your body.
 - Avoid taking other medicines or supplements with Tasigna that can also cause QTc prolongation.
@@ -35,7 +36,7 @@ You may lower your chances for having QTc prolongation with Tasigna if you:
   Swallow the mixture right away (within 15 minutes).
   For more information, see “How should I take Tasigna?”
 
-Call your doctor right away if you feel lightheaded, faint or have an irregular heartbeat while taking Tasigna.
+Call your doctor right away if you feel lightheaded, faint, or have an irregular heartbeat while taking Tasigna.
 These can be symptoms of QTc prolongation.
 
 What is Tasigna?
@@ -79,7 +80,7 @@ Before taking Tasigna, tell your doctor about all of your medical conditions, in
   You and your doctor should decide if you will take Tasigna or breastfeed.
   You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
 If you need to take antacids(medicines to treat heartburn) do not take them at the same time that you take Tasigna.
 If you take:
@@ -99,8 +100,9 @@ How should I take Tasigna?
   Do not change your dose or stop taking Tasigna unless your doctor tells you.
 - Tasigna is a long-term treatment.
 - Your doctor will tell you how many Tasigna capsules to take and when to take them.
-- Do not take Tasigna with food.
-  Take Tasigna at least 2 hours after you eat and at least 1 hour before you eat.
+- Tasigna must be taken on an empty stomach.
+  - Avoid eating food for at least 2 hours before the dose is taken, and
+  - Avoid eating food for at least 1 hour after the dose is taken.
 - Swallow Tasigna capsules whole with water.
   If you cannot swallow Tasigna capsules whole, tell your doctor.
 - If you cannot swallow Tasigna capsules whole:
@@ -111,15 +113,15 @@ How should I take Tasigna?
   - Swallow the mixture right away (within 15 minutes).
 - Do not drink grapefruit juice, eat grapefruit, or take supplements containing grapefruit extract at any time during treatment.
   See “What is the most important information I should know about Tasigna?”
-- If you miss a dose, just take your next dose as scheduled.
-  Do not make up for a missed dose.
+- If you miss a dose, just take your next dose at your regular time.
+  Do not take 2 doses at the same time to make up for a missed dose.
 - If you take too much Tasigna, call your doctor or poison control center right away.
   Symptoms may include vomiting and drowsiness.
   During treatment with Tasigna your doctor will do tests to check for side effects and to see how well Tasigna is working for you.
   The tests will check your:
   - heart
   - blood cells (white blood cells, red blood cells, and platelets).
-    Your blood cells should be checked every two weeks for the first two months and then monthly.
+    Your blood cells should be checked every 2 weeks for the first 2 months and then monthly.
   - electrolytes (potassium, magnesium)
   - pancreas and liver function
   - bone marrow samples
@@ -188,9 +190,9 @@ What are the ingredients in Tasigna?
 
 Active ingredient: nilotinib
 
-Inactive ingredients: colloidal silicon dioxide, crospovidone, lactose monohydrate, magnesium stearate and polyoxamer 188.
+Inactive ingredients: colloidal silicon dioxide, crospovidone, lactose monohydrate, magnesium stearate and poloxamer 188.
 
-The capsule shell contains gelatin, iron oxide (red), iron oxide (yellow), iron oxide (black) and titanium dioxide.
+The capsule shell contains gelatin, iron oxide (red), iron oxide (yellow), iron oxide (black), and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -198,8 +200,8 @@ Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Revised: June 2013
+Revised: September 2013
 
 © Novartis
 
-T2013-47 June 2013
+T2013-77 September 2013

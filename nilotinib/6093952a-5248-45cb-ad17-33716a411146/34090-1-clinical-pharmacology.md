@@ -7,7 +7,7 @@ Nilotinib binds to and stabilizes the inactive conformation of the kinase domain
 In vitro, nilotinib inhibited BCR-ABL mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML.
 Under the conditions of the assays, nilotinib was able to overcome imatinib resistance resulting from BCR-ABL kinase mutations, in 32 out of 33 mutations tested.
 In vivo, nilotinib reduced the tumor size in a murine BCR-ABL xenograft model.
-Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: BCR-ABL (20-60 nM), PDGFR (69 nM), c-KIT (210 nM), CSF-1R (125-250 nM) and DDR1 (3.7 nM).
+Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: BCR-ABL (20 to 60 nM), PDGFR (69 nM), c-KIT (210 nM), CSF-1R (125 to 250 nM), and DDR1 (3.7 nM).
 
 ## 12.3 Pharmacokinetics
 
@@ -52,15 +52,15 @@ Drug-Drug Interactions
 
 In a Phase 1 trial of nilotinib 400 mg twice daily in combination with imatinib 400 mg daily or 400 mg twice daily, the AUC increased 30%-50% for nilotinib and approximately 20% for imatinib.
 
-## 12.4 QT/QTc Prolongation
-
-In a placebo-controlled study in healthy volunteers designed to assess the effects of Tasigna on the QT interval, administration of Tasigna was associated with concentration-dependent QT prolongation; the maximum mean placebo-adjusted QTcF change from baseline was 18 msec (1-sided 95% Upper CI: 26 msec).
-A positive control was not included in the QT study of healthy volunteers.
-Peak plasma concentrations in the QT study were 26% lower than those observed in patients enrolled in the single-arm study [see Boxed Warning, Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
-
 ## 12.5 Pharmacogenomics
 
 Tasigna can increase bilirubin levels.
 A pharmacogenetic analysis of 97 patients evaluated the polymorphisms of UGT1A1 and its potential association with hyperbilirubinemia during Tasigna treatment.
 In this study, the (TA)7/(TA)7 genotype was associated with a statistically significant increase in the risk of hyperbilirubinemia relative to the (TA)6/(TA)6 and (TA)6/(TA)7 genotypes.
 However, the largest increases in bilirubin were observed in the (TA)7/(TA)7 genotype (UGT1A1*28) patients [see Warnings and Precautions (5.5)].
+
+## 12.6 QT/QTc Prolongation
+
+In a placebo-controlled study in healthy volunteers designed to assess the effects of Tasigna on the QT interval, administration of Tasigna was associated with concentration-dependent QT prolongation; the maximum mean placebo-adjusted QTcF change from baseline was 18 msec (1-sided 95% Upper CI: 26 msec).
+A positive control was not included in the QT study of healthy volunteers.
+Peak plasma concentrations in the QT study were 26% lower than those observed in patients enrolled in the single-arm study [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.1)].
