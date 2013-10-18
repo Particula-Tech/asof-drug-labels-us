@@ -88,9 +88,9 @@ Table 2 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure fr
 | Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg1 three times daily for 10 days | ↓9% | ↓6% |
 | Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg1 once daily for 14 days | ↑10% | ↑3% |
 
-1 TriCor (fenofibrate) oral tablet
+1 Fenofibrate oral tablet
 
-2 TriCor (fenofibrate) oral micronized capsule
+2 Fenofibrate oral micronized capsule
 
 Table 3 Effects of Fenofibrate or Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
 
@@ -110,6 +110,6 @@ Table 3 Effects of Fenofibrate or Fenofibrate Co-Administration on Systemic Expo
 | Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
 | Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
 
-1 TriCor (fenofibrate) oral tablet
+1 Fenofibrate oral tablet
 
-2 TriCor (fenofibrate) oral micronized capsule
+2 Fenofibrate oral micronized capsule
