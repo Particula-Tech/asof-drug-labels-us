@@ -2,9 +2,12 @@
 
 ## 1.1 Partial Onset Seizures
 
-Levetiracetam is indicated as adjunctive therapy in the treatment of partial onset seizures in adults and children 1 month of age and older with epilepsy.
+Levetiracetam is indicated as adjunctive therapy in the treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy.
 
-## 1.2 Myoclonic Seizures In Patients With Juvenile Myoclonic Epilepsy
+Information describing the use of levetiracetam oral solution in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam oral solution.
+However, due to UCB Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 1.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
 Levetiracetam is indicated as adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents 12 years of age and older with juvenile myoclonic epilepsy.
 

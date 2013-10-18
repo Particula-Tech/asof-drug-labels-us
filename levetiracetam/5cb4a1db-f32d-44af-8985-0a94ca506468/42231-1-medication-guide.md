@@ -44,7 +44,7 @@ What is Levetiracetam Oral Solution?
 
 Levetiracetam Oral Solution is a prescription medicine taken by mouth that is used with other medicines to treat:
 
-- partial onset seizures in people 1 month of age and older with epilepsy
+- partial onset seizures in people 4 years of age and older with epilepsy
 - myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
 - primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
@@ -104,7 +104,12 @@ Levetiracetam Oral Solution may make you dizzy or sleepy.
 
 What are the possible side effects of Levetiracetam Oral Solution?
 
-- See “What is the most important information I should know about Levetiracetam Oral Solution?”Levetiracetam Oral Solution can cause serious side effects.Call your healthcare provider right away if you have any of these symptoms:
+- See “What is the most important information I should know about Levetiracetam Oral Solution?”
+
+Levetiracetam Oral Solution can cause serious side effects.
+
+Call your healthcare provider right away if you have any of these symptoms:
+
 - mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - extreme sleepiness, tiredness, and weakness
@@ -118,19 +123,32 @@ The most common side effects seen in people who take Levetiracetam Oral Solution
 - sleepiness
 - weakness
 - infection
-- dizzinessThe most common side effects seen in children who take Levetiracetam Oral Solution include, in addition to those listed above:
+- dizziness
+
+The most common side effects seen in children who take Levetiracetam Oral Solution include, in addition to those listed above:
+
 - tiredness
 - acting aggressive
 - nasal congestion
 - decreased appetite
-- irritabilityThese side effects can happen at any time but happen more often within the first 4 weeks of treatment except for infection.Tell your healthcare provider if you have any side effect that bothers you or that does not go away.These are not all the possible side effects of Levetiracetam Oral Solution.
-  For more information, ask your healthcare provider or pharmacist.Call your doctor for medical advice about side effects.
-  You may report side effects to FDA at 1-800-FDA-1088.How should I store Levetiracetam Oral Solution?
+- irritability
+
+These side effects can happen at any time but happen more often within the first 4 weeks of treatment except for infection.
+
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
+These are not all the possible side effects of Levetiracetam Oral Solution.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store Levetiracetam Oral Solution?
+
 - Store Levetiracetam Oral Solution at room temperature, 59°F to 86°F (15°C to 30°C) away from heat and light.
 - Keep Levetiracetam Oral Solution and all medicines out of the reach of children.
 
 General information about Levetiracetam Oral Solution.
-
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use Levetiracetam Oral Solution for a condition for which it was not prescribed.
 Do not give Levetiracetam Oral Solution to other people, even if they have the same symptoms that you have.
@@ -142,28 +160,18 @@ You can ask your pharmacist or healthcare provider for information about Levetir
 You can also get information about Levetiracetam Oral Solution by calling Actavis at 1-800-432-8534.
 
 What are the ingredients of Levetiracetam Oral Solution?
-
-Levetiracetam Oral Solution active ingredient: Levetiracetam, USP
-
-Inactive ingredients: acesulfame potassium, ammonium glycyrrhizate, citric acid monohydrate, glycerin, maltitol solution, methylparaben, natural and artificial grape flavor, propylparaben, purified water, sodium citrate
+Levetiracetam Oral Solution active ingredient: Levetiracetam, USP Inactive ingredients: acesulfame potassium, ammonium glycyrrhizate, citric acid monohydrate, glycerin, maltitol solution, methylparaben, natural and artificial grape flavor, propylparaben, purified water, sodium citrate
 
 Levetiracetam Oral Solution does not contain lactose or gluten.
 Levetiracetam Oral Solution does contain carbohydrates.
 The liquid is dye-free
 
+Information on the use of levetiracetam in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam oral solution.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Manufactured by:
+Manufactured by: Actavis Mid Atlantic LLC 1877 Kawai Road Lincolnton, NC 28092 USA
 
-Actavis Mid Atlantic LLC
-
-1877 Kawai Road
-
-Lincolnton, NC 28092 USA
-
-FORM NO. 0235
-
-Rev.
-03/12
-
-VC3970
+FORM NO. 0235 Rev.
+08/13 VC101942

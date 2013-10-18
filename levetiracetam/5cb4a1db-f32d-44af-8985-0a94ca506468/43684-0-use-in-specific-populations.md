@@ -4,9 +4,7 @@
 
 Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
 
-Pregnancy Category C
-
-There are no adequate and well-controlled studies in pregnant women.
+Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 In animal studies, levetiracetam produced evidence of developmental toxicity, including teratogenic effects, at doses similar to or greater than human therapeutic doses.
 Levetiracetam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -24,15 +22,11 @@ There was no evidence of maternal toxicity in this study.
 
 Treatment of rats with levetiracetam during the last third of gestation and throughout lactation produced no adverse developmental or maternal effects at doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
 
-Pregnancy Registries
-
-To provide information regarding the effects of in utero exposure to levetiracetam, physicians are advised to recommend that pregnant patients taking levetiracetam enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
-This can be done by calling the toll free number
-
-1-888-233-2334, and must be done by the patients themselves.
+Pregnancy Registries To provide information regarding the effects of in utero exposure to levetiracetam, physicians are advised to recommend that pregnant patients taking levetiracetam enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
-## 8.2 Labor And Delivery
+## 8.2 Labor and Delivery
 
 The effect of levetiracetam on labor and delivery in humans is unknown.
 
@@ -43,8 +37,11 @@ Because of the potential for serious adverse reactions in nursing infants from l
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of levetiracetam in the adjunctive treatment of partial onset seizures in pediatric patients age 1 month to 16 years old with epilepsy have been established [see Clinical Studies (14.1)].
+The safety and effectiveness of levetiracetam in the adjunctive treatment of partial onset seizures in pediatric patients age 4 years to 16 years old with epilepsy have been established [see Clinical Studies (14.1)].
 The dosing recommendation in these pediatric patients varies according to age group and is weight-based [see Dosage and Administration (2.2)].
+
+Pediatric use information in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam oral solution.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 The safety and effectiveness of levetiracetam as adjunctive treatment of myoclonic seizures in adolescents 12 years of age and older with juvenile myoclonic epilepsy have been established [see Clinical Studies (14.2)].
 
@@ -68,7 +65,7 @@ There were insufficient numbers of elderly subjects in controlled trials of epil
 Levetiracetam is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
 
-## 8.6 Use In Patients With Impaired Renal Function
+## 8.6 Use in Patients with Impaired Renal Function
 
 Clearance of levetiracetam is decreased in patients with renal impairment and is correlated with creatinine clearance [see Clinical Pharmacology (12.3)].
 Dose adjustment is recommended for patients with impaired renal function and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.5)].

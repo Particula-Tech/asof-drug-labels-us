@@ -23,7 +23,7 @@ Two (0.3%) adult levetiracetam-treated patients were hospitalized and their trea
 Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
 There was no difference between drug and placebo-treated patients in the incidence of the pediatric patients who discontinued treatment due to psychotic and non-psychotic adverse reactions.
 
-The above psychiatric signs symptoms should be monitored.
+The above psychiatric signs and symptoms should be monitored.
 
 ## 5.2 Suicidal Behavior and Ideation
 
@@ -44,11 +44,11 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
 
-|  |  |  | Patients |  |
+|  |  |  | Placebo Patients | Per 1000 Patients |
 | --- | --- | --- | --- | --- |
-| Indication | Placebo Patients with Events | Drug Patients with Events Per | Relative Risk: Incidence of | Risk Difference: Additional |
-|  | Per 1000 Patients | 1000 Patients | Events in Drug | Drug Patients with Events Per |
-|  |  |  | Patients/Incidence in Placebo | 1000 Patients |
+| Indication | Placebo Patients with | Drug Patients with | Relative Risk: Incidence | Risk Difference: Additional |
+|  | Events Per 1000 | Events Per 1000 | of Events in Drug | Additional Drug |
+|  | Patients | Patients | Patients/Incidence in | Patients with Events |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
 | Other | 1.0 | 1.8 | 1.9 | 0.9 |
@@ -82,7 +82,7 @@ In 0.5% of treated patients and in 0.2% of placebo patients the dose was reduced
 
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
 
-Patients should be monitored for these signs symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
+Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
 
 ## 5.4 Serious Dermatological Reactions
 
@@ -108,19 +108,13 @@ Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to m
 
 ## 5.7 Hematologic Abnormalities
 
-Partial Onset Seizures
-
-Adults
-
-Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients in controlled trials.
+Partial Onset Seizures Adults Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients in controlled trials.
 
 A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (≤2.8 x 109/L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (≤1.0 x 109/L) decreased neutrophil count.
 Of the treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
-Pediatric Patients 4 Years To < 16 Years
-
-Statistically significant decreases in WBC and neutrophil counts were seen in levetiracetam-treated patients as compared to placebo.
+Pediatric Patients 4 Years to < 16 Years Statistically significant decreases in WBC and neutrophil counts were seen in levetiracetam-treated patients as compared to placebo.
 The mean decreases from baseline in the levetiracetam-treated group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
 Mean relative lymphocyte counts increased by 1.7% in levetiracetam-treated patients, compared to a decrease of 4% in placebo patients (statistically significant).
 
@@ -129,9 +123,7 @@ No patient was discontinued secondary to low WBC or neutrophil counts.
 
 In the controlled cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the levetiracetam-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7X109/L).
 
-Juvenile Myoclonic Epilepsy
-
-Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
+Juvenile Myoclonic Epilepsy Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
 The data from the partial seizure patients should be considered to be relevant for JME patients.
 
 ## 5.8 Blood Pressure Increases
