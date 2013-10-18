@@ -2,7 +2,7 @@
 
 Metronidazole Injection USP, sterile, is supplied in 100 mL PAB® plastic containers, each containing an isotonic, buffered solution of 500 mg metronidazole; individually packaged in boxes of 24.
 
-| NDC | Cat. No. | Size |
+| NDC | REF | Size |
 | --- | --- | --- |
 | Metronidazole Injection USP 0264-5535-32 | D5353-5224 | 100 mL |
 

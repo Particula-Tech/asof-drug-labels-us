@@ -10,7 +10,7 @@ Metronidazole is classified as a synthetic antibacterial and antiprotozoal agent
 
 Metronidazole USP is chemically designated 2-methyl-5-nitroimidazole-1-ethanol (C6H9N3O3):
 
-The PAB® Container is Latex-free, PVC-free, and DEHP-free.
+Not made with natural rubber latex, PVC, or DEHP.
 
 The PAB® plastic container system is a copolymer of ethylene and propylene formulated and developed for parenteral drugs.
 The copolymer contains no plasticizers and exhibits virtually no leachability.
