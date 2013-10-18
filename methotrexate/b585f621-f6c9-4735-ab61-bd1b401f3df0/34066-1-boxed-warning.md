@@ -22,7 +22,7 @@ METHOTREXATE FORMULATIONS AND DILUENTS CONTAINING PRESERVATIVES MUST NOT BE USED
    Pregnant women with psoriasis or rheumatoid arthritis should not receive methotrexate (see CONTRAINDICATIONS).
 2. Methotrexate elimination is reduced in patients with impaired renal function, ascites, or pleural effusions.
    Such patients require especially careful monitoring for toxicity, and require dose reduction or, in some cases, discontinuation of methotrexate administration.
-3. Unexpectedly severe (sometimes fatal) bone marrow suppression, aplastic anemia, and gastrointestinal toxicity have been reported with concomitant administration of methotrexate (usually in high dosage) along with some non-steroidal anti-inflammatory drugs (NSAIDs) (see PRECAUTIONS, Drug Interactions).
+3. Unexpectedly severe (sometimes fatal) bone marrow suppression, aplastic anemia, and gastrointestinal toxicity have been reported with concomitant administration of methotrexate (usually in high dosage) along with some nonsteroidal anti-inflammatory drugs (NSAIDs) (see PRECAUTIONS, Drug Interactions).
 4. Methotrexate causes hepatotoxicity, fibrosis and cirrhosis, but generally only after prolonged use.
    Acutely, liver enzyme elevations are frequently seen.
    These are usually transient and asymptomatic, and also do not appear predictive of subsequent hepatic disease.

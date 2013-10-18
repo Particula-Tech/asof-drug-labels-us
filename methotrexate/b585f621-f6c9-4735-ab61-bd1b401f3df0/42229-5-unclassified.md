@@ -62,7 +62,7 @@ CAUTION: DO NOT ADMINISTER LEUCOVORIN INTRATHECALLY.
 
 ## Psoriasis, Rheumatoid Arthritis, and Juvenile Rheumatoid Arthritis
 
-Adult Rheumatoid Arthritis:
+Adult Rheumatoid Arthritis
 
 Recommended Starting Dosage Schedules
 
@@ -98,7 +98,7 @@ All schedules should be continually tailored to the individual patient.
 An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects (see ADVERSE REACTIONS).
 Maximal myelosuppression usually occurs in seven to ten days.
 
-Psoriasis:
+Psoriasis
 
 Recommended Starting Dose Schedule
 
@@ -120,8 +120,6 @@ The use of methotrexate may permit the return to conventional topical therapy, w
 Procedures for proper handling and disposal of anticancer drugs should be considered.
 Several guidelines on this subject have been published.1-7 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-
 # DILUTION INSTRUCTIONS FOR LIQUID METHOTREXATE INJECTION PRODUCT
 
 Methotrexate Injection USP, Isotonic Liquid, Contains Preservative
@@ -137,6 +135,6 @@ Storage for 24 hours at a temperature of 21° to 25°C results in a product whic
 | Delayed Late Methotrexate Elimination | Serum methotrexate level remaining above 0.2 micromolar at 72 hours, and more than 0.05 micromolar at 96 hours after administration. | Continue 15 mg PO, IM, or IV q 6 hours, until methotrexate level is less than 0.05 micromolar. |
 | Delayed Early Methotrexate Elimination and/or Evidence of Acute Renal Injury | Serum methotrexate level of 50 micromolar or more at 24 hours, or 5 micromolar or more at 48 hours after administration, OR; a 100% or greater increase in serum creatinine level at 24 hours after methotrexate administration (e.g., an increase from 0.5 mg/dL to a level of 1 mg/dL or more). | 150 mg IV q 3 hours, until methotrexate level is less than 1 micromolar; then 15 mg IV q 3 hours, until methotrexate level is less than 0.05 micromolar. |
 
-451043C
+451043D
 
-Revised: December 2011
+Revised: April 2012

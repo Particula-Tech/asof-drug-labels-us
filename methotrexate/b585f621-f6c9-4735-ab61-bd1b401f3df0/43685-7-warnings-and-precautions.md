@@ -84,7 +84,7 @@ No controlled human data exist regarding the risk of neoplasia with methotrexate
 Methotrexate has been evaluated in a number of animal studies for carcinogenic potential with inconclusive results.
 Although there is evidence that methotrexate causes chromosomal damage to animal somatic cells and human bone marrow cells, the clinical significance remains uncertain.
 Non-Hodgkin’s lymphoma and other tumors have been reported in patients receiving low-dose oral methotrexate.
-However, there have been instances of malignant lymphoma arising during treatment with low-dose oral methotrexate, which have regressed completely following withdrawal of methotrexate, without requiring active antilymphoma treatment.
+However, there have been instances of malignant lymphoma arising during treatment with low-dose oral methotrexate, which have regressed completely following withdrawal of methotrexate, without requiring active anti-lymphoma treatment.
 Benefits should be weighed against the potential risk before using methotrexate alone or in combination with other drugs, especially in pediatric patients or young adults.
 Methotrexate causes embryotoxicity, abortion, and fetal defects in humans.
 It has also been reported to cause impairment of fertility, oligospermia and menstrual dysfunction in humans, during and for a short period after cessation of therapy.
@@ -185,7 +185,7 @@ Symptomatic patients were commonly noted to have leukoencephalopathy and/or micr
 Chronic leukoencephalopathy has also been reported in patients who received repeated doses of high-dose methotrexate with leucovorin rescue even without cranial irradiation.
 Discontinuation of methotrexate does not always result in complete recovery.
 
-A transient acute neurologic syndrome has been observed in patients treated with high dose regimens.
+A transient acute neurologic syndrome has been observed in patients treated with high-dose regimens.
 Manifestations of this stroke-like encephalopathy may include confusion, hemiparesis, transient blindness, seizures and coma.
 The exact cause is unknown.
 
@@ -195,7 +195,7 @@ This condition can be progressive and even fatal.
 Pulmonary
 
 Pulmonary symptoms (especially a dry nonproductive cough) or a non-specific pneumonitis occurring during methotrexate therapy may be indicative of a potentially dangerous lesion and require interruption of treatment and careful investigation.
-Although clinically variable, the typical patient with methotrexate induced lung disease presents with fever, cough, dyspnea, hypoxemia, and an infiltrate on chest X-ray; infection (including pneumonia) needs to be excluded.
+Although clinically variable, the typical patient with methotrexate-induced lung disease presents with fever, cough, dyspnea, hypoxemia, and an infiltrate on chest X-ray; infection (including pneumonia) needs to be excluded.
 This lesion can occur at all dosages.
 
 Renal

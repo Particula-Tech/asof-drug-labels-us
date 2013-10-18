@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-## Parental
+## Parenteral
 
 Methotrexate Injection, USP, Isotonic Liquid, Contains Preservative
 

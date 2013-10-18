@@ -14,7 +14,7 @@ Clarification of methotrexate’s effect on immune activity and its relation to 
 In patients with rheumatoid arthritis, effects of methotrexate on articular swelling and tenderness can be seen as early as 3 to 6 weeks.
 Although methotrexate clearly ameliorates symptoms of inflammation (pain, swelling, stiffness), there is no evidence that it induces remission of rheumatoid arthritis nor has a beneficial effect been demonstrated on bone erosions and other radiologic changes which result in impaired joint use, functional disability, and deformity.
 
-Most studies of methotrexate in patients with rheumatoid arthritis are relatively short- term (3 to 6 months).
+Most studies of methotrexate in patients with rheumatoid arthritis are relatively short term (3 to 6 months).
 Limited data from long-term studies indicate that an initial clinical improvement is maintained for at least two years with continued therapy.
 
 In psoriasis, the rate of production of epithelial cells in the skin is greatly increased over normal skin.

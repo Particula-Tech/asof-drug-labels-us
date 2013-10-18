@@ -2,7 +2,7 @@
 
 Methotrexate (formerly Amethopterin) is an antimetabolite used in the treatment of certain neoplastic diseases, severe psoriasis, and adult rheumatoid arthritis.
 
-Chemically, methotrexate is N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]-L-glutamic acid.
+Chemically, methotrexate is N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-L-glutamic acid.
 
 The structural formula is:
 

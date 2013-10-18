@@ -20,7 +20,7 @@ NOT FOR INTRATHECAL USE
 
 Rx only
 
-PACKAGE LABEL- PRINCIPAL DISPLAY- Methotrexate 250 mg Vial Carton Label
+PACKAGE LABEL- PRINCIPAL DISPLAY- Methotrexate 250 mg Vial Carton Panel
 
 NDC 63323-123-10
 

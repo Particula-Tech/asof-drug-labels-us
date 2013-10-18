@@ -6,6 +6,8 @@ Oral administration in tablet form is often preferred when low doses are being a
 Methotrexate Injection, USP may be given by the intramuscular, intravenous or the intra-arterial route.
 The preserved formulation contains Benzyl Alcohol and must not be used for intrathecal or high-dose therapy.
 
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
 Choriocarcinoma and Similar Trophoblastic Diseases
 
 Methotrexate is administered orally or intramuscularly in doses of 15 to 30 mg daily for a five-day course.
