@@ -4,6 +4,6 @@ Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San
 
 L01XC13
 
-PERJETA is a registered trademark of Genentech, Inc. ©2012 Genentech, Inc.
+PERJETA is a registered trademark of Genentech, Inc. ©2013 Genentech, Inc.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

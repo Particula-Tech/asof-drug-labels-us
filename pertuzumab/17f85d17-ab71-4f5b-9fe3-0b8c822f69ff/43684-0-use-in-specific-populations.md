@@ -22,7 +22,7 @@ Pregnant monkeys were treated on Gestational Day (GD)19 with loading doses of 30
 These dose levels resulted in clinically relevant exposures of 2.5 to 20-fold greater than the recommended human dose, based on Cmax.
 Intravenous administration of pertuzumab from GD19 through GD50 (period of organogenesis) was embryotoxic, with dose-dependent increases in embryo-fetal death between GD25 to GD70.
 The incidences of embryo-fetal loss were 33, 50, and 85% for dams treated with bi-weekly pertuzumab doses of 10, 30, and 100 mg/kg, respectively (2.5 to 20-fold greater than the recommended human dose, based on Cmax).
-At Caesarean section on GD100, oligohydramnios, decreased relative lung and kidney weights and microscopic evidence of renal hypoplasia consistent with delayed renal development were identified in all pertuzumab dose groups.
+At Caesarean section on GD100, oligohydramnios, decreased relative lung and kidney weights, and microscopic evidence of renal hypoplasia consistent with delayed renal development were identified in all pertuzumab dose groups.
 Pertuzumab exposure was reported in offspring from all treated groups, at levels of 29% to 40% of maternal serum levels at GD100.
 
 ## 8.3 Nursing Mothers
@@ -36,7 +36,7 @@ The safety and effectiveness of PERJETA have not been established in pediatric p
 
 ## 8.5 Geriatric Use
 
-Of 402 patients who received PERJETA in the randomized trial, 60 patients (15%) were ≥ 65 years of age and 5 patients (1%) were ≥ 75 years of age.
+Of 402 patients who received PERJETA in Study 1, 60 patients (15%) were ≥ 65 years of age and 5 patients (1%) were ≥ 75 years of age.
 No overall differences in efficacy and safety of PERJETA were observed between these patients and younger patients.
 
 Based on a population pharmacokinetic analysis, no significant difference was observed in the pharmacokinetics of pertuzumab between patients < 65 years (n=306) and patients ≥ 65 years (n=175).
