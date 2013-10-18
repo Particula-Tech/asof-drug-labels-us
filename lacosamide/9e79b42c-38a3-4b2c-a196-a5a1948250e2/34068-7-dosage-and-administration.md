@@ -44,11 +44,15 @@ A maximum dose of 300 mg/day VIMPAT is recommended for patients with severe rena
 VIMPAT is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, dosage supplementation of up to 50% should be considered.
 In all renally impaired patients, the dose titration should be performed with caution.
-[see Use in Specific Populations (8.6)]
+Patients with renal impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have a significant increase in exposure to VIMPAT.
+Dose reduction may be necessary in these patients.
+[See Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)]
 
 ## 2.3 Patients with Hepatic Impairment
 
 The dose titration should be performed with caution in patients with hepatic impairment.
 A maximum dose of 300 mg/day is recommended for patients with mild or moderate hepatic impairment.
 
-VIMPAT use is not recommended in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
+VIMPAT use is not recommended in patients with severe hepatic impairment Patients with hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have a significant increase in exposure to VIMPAT.
+Dose reduction may be necessary in these patients.
+[See Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)]

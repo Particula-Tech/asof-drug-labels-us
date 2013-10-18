@@ -52,21 +52,20 @@ There was a substantial increase in these adverse events at doses higher than 40
 ### PR interval prolongation
 
 Dose-dependent prolongations in PR interval with VIMPAT have been observed in clinical studies in patients and in healthy volunteers.
-[see Clinical Pharmacology (12.2)] In clinical trials in patients with partial-onset epilepsy, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive VIMPAT and 0% (0/364) of patients randomized to receive placebo.
+[See Clinical Pharmacology (12.2)] In clinical trials in patients with partial-onset epilepsy, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive VIMPAT and 0% (0/364) of patients randomized to receive placebo.
 In clinical trials in patients with diabetic neuropathy, asymptomatic first-degree AV block was observed as an adverse reaction in 0.5% (5/1023) of patients receiving VIMPAT and 0% (0/291) of patients receiving placebo.
-Second degree or higher AV block has been reported in postmarketing experience in epilepsy patients.
+Second degree and complete AV block have been reported inpatients in pain studies and in patients with seizures.
 When VIMPAT is given with other drugs that prolong the PR interval, further PR prolongation is possible.
-Patients should be made aware of the symptoms of second-degree or higher AV block (e.g. slow or irregular pulse, feeling of lightheadedness and fainting) and told to contact their physician should any of these occur.
 
-VIMPAT should be used with caution in patients with known conduction problems (e.g. marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), or with severe cardiac disease such as myocardial ischemia or heart failure.
+VIMPAT should be used with caution in patients with known conduction problems (e.g. marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker, sodium channelopathies (e.g., Brugada Syndrome), on concomitant medications that prolong PR interval, or with severe cardiac disease such as myocardial ischemia or heart failure, or structural heart disease.
 In such patients, obtaining an ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state, is recommended.
 
 ### Atrial fibrillation and Atrial flutter
 
-In the short-term investigational trials of VIMPAT in epilepsy patients, there were no cases of atrial fibrillation or flutter, however, both have been reported in open label epilepsy trials and in postmarketing experience.
+In the short-term investigational trials of VIMPAT in epilepsy patients, there were no cases of atrial fibrillation or flutter.
+Both atrial fibrillation and atrial flutter have been reported in open label epilepsy trials and in postmarketing experience.
 In patients with diabetic neuropathy, 0.5% of patients treated with VIMPAT experienced an adverse reaction of atrial fibrillation or atrial flutter, compared to 0% of placebo-treated patients.
 VIMPAT administration may predispose to atrial arrhythmias (atrial fibrillation or flutter), especially in patients with diabetic neuropathy and/or cardiovascular disease.
-Patients should be made aware of the symptoms of atrial fibrillation and flutter (e.g., palpitations, rapid pulse, shortness of breath) and told to contact their physician should any of these symptoms occur.
 
 ## 5.4 Syncope
 

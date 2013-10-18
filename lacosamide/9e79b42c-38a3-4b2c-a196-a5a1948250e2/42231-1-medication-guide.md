@@ -94,7 +94,7 @@ How should I take VIMPAT?
 - Your healthcare provider may change your dose if needed.
 - Do not stop VIMPAT without first talking to a healthcare provider.
   Stopping VIMPAT suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
-- VIMPAT may be taken with or without food..
+- VIMPAT may be taken with or without food.
 - If your healthcare provider has prescribed VIMPAT oral solution, be sure to ask your pharmacist for a medicine dropper or medicine cup to help you measure the correct amount of VIMPAT oral solution.
   Do not use a household teaspoon.
   Ask your pharmacist for instructions on how to use the measuring device the right way.

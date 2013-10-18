@@ -5,9 +5,6 @@
 The precise mechanism by which VIMPAT exerts its antiepileptic effects in humans remains to be fully elucidated.
 In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing.
 
-Lacosamide binds to collapsin response mediator protein-2 (CRMP-2), a phosphoprotein which is mainly expressed in the nervous system and is involved in neuronal differentiation and control of axonal outgrowth.
-The role of CRMP-2 binding in seizure control is unknown.
-
 ## 12.2 Pharmacodynamics
 
 A pharmacokinetic-pharmacodynamic (efficacy) analysis was performed based on the pooled data from the 3 efficacy trials for partial-onset seizures.
@@ -59,8 +56,7 @@ The major compounds excreted were unchanged lacosamide (approximately 40% of the
 The plasma exposure of the major human metabolite, O-desmethyl-lacosamide, is approximately 10% of that of lacosamide.
 This metabolite has no known pharmacological activity.
 
-Lacosamide is a CYP2C19 substrate.
-The relative contribution of other CYP isoforms or non-CYP enzymes in the metabolism of lacosamide is not clear.
+The CYP isoforms mainly responsible for the formation of the major metabolite (O-desmethyl) are CYP3A4, CYP2C9, and CYP2C19.
 The elimination half-life of the unchanged drug is approximately 13 hours and is not altered by different doses, multiple dosing or intravenous administration.
 
 There is no enantiomeric interconversion of lacosamide.
@@ -78,7 +74,7 @@ VIMPAT is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50%.
 Therefore dosage supplementation of up to 50% following hemodialysis should be considered.
 In all renal impaired patients, the dose titration should be performed with caution.
-[see Dosage and Administration (2.3)]
+[See Dosage and Administration (2.3)]
 
 Hepatic impairment
 
@@ -91,7 +87,7 @@ Patients with mild to moderate hepatic impairment should be observed closely dur
 A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
 The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment.
 VIMPAT use is not recommended in patients with severe hepatic impairment.
-[see Dosage and Administration (2.3)] Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
+[See Dosage and Administration (2.3)] Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
 
 Geriatric
 
@@ -128,8 +124,8 @@ However, an in vivo study with omeprazole did not show an inhibitory effect on o
 
 Lacosamide was not a substrate or inhibitor for P-glycoprotein.
 
-Lacosamide is a CYP2C19 substrate.
-The relative contribution of other CYP isoforms or non-CYP enzymes in the metabolism of lacosamide is not clear.
+Lacosamide is a substrate of CYP3A4, CYP2C9, and CYP2C19.
+Patients with renal or hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have increased exposure to lacosamide.
 
 Since <15% of lacosamide is bound to plasma proteins, a clinically relevant interaction with other drugs through competition for protein binding sites is unlikely.
 
@@ -166,6 +162,12 @@ The data indicated that lacosamide had little in vivo inhibitory or inducing eff
 
 Omeprazole at a dose of 40 mg once daily had no effect on the pharmacokinetics of VIMPAT (300 mg single dose).
 However, plasma levels of the O-desmethyl metabolite were reduced about 60% in the presence of omeprazole.
+
+Midazolam
+
+Midazolam is a 3A4 substrate.
+
+There was no effect of VIMPAT (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5mg), indicating no inhibitory or inducing effects on CYP3A4.
 
 Oral Contraceptives
 

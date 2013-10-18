@@ -9,7 +9,7 @@ Developmental neurotoxicity was observed in rats following administration during
 These effects were observed at doses associated with clinically relevant plasma exposures.
 
 Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
-Potential adverse effects on CNS development can not be ruled out.
+Potential related adverse effects on CNS development can not be ruled out.
 
 There are no adequate and well-controlled studies in pregnant women.
 VIMPAT should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -49,8 +49,8 @@ Because many drugs are excreted into human milk, a decision should be made wheth
 
 The safety and effectiveness of VIMPAT in pediatric patients <17 years have not been established.
 
-Lacosamide has been shown in vitro to interfere with the activity of CRMP-2, a protein involved in neuronal differentiation and control of axonal outgrowth.
-Potential adverse effects on CNS development can not be ruled out.
+Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
+Potential related adverse effects on CNS development can not be ruled out.
 Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) approximately 0.5 times the human plasma AUC at the maximum recommended human dose of 400 mg/day.
 
@@ -58,19 +58,17 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 
 There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately assess the effectiveness of VIMPAT in this population.
 
-In healthy subjects, the dose and body weight normalized pharmacokinetic parameters AUC and Cmax were approximately 20% higher in elderly subjects compared to young subjects.
-The slightly higher lacosamide plasma concentrations in elderly subjects are possibly caused by differences in total body water (lean body weight) and age-associated decreased renal clearance.
 No VIMPAT dose adjustment based on age is considered necessary.
-Caution should be exercised for dose titration in elderly patients.
+In elderly patients, dose titration should be performed with caution.
+[See Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]
 
 ## 8.6 Patients with Renal Impairment
 
 A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30mL/min) and in patients with endstage renal disease.
 VIMPAT is effectively removed from plasma by hemodialysis.
-Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50%.
-Therefore dosage supplementation of up to 50% following hemodialysis should be considered.
-In all renal impaired patients, the dose titration should be performed with caution.
-[see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]
+Dosage supplementation of up to 50% following hemodialysis should be considered.
+In all renal impaired patients, dose titration should be performed with caution.
+[See Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]
 
 ## 8.7 Patients with Hepatic Impairment
 
@@ -78,4 +76,4 @@ Patients with mild to moderate hepatic impairment should be observed closely dur
 A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment.
 VIMPAT use is not recommended in patients with severe hepatic impairment.
-[see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)] Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
+[See Dosage and Administration (2.3) and Clinical Pharmacology (12.3)] Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.

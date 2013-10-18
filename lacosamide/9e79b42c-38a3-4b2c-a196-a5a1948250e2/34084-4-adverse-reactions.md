@@ -106,10 +106,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and lymphatic system disorders: Agranulocytosis
 
-Cardiac disorders: Atrioventricular block, atrial fibrillation, atrial flutter, bradycardia
-
-Immune system disorders: Drug hypersensitivity reactions
+Cardiac disorders: Bradycardia
 
 Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic disorder
 
-Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria
+Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria, Stevens-Johnson syndrome, toxic epidermal necrolysis
