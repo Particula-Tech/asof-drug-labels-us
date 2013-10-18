@@ -25,7 +25,7 @@ Trials 1 and 2 Platelet Count Response (≥50 x 109/L) Rates in Adults With Chro
 | 1 | 43/73 (59%)a | 6/37 (16%) |
 | 2 | 19/27 (70%)a | 3/27 (11%) |
 
-aP value <0.001 for PROMACTA versus placebo.
+- aP value <0.001 for PROMACTA versus placebo.
 
 The platelet count response to PROMACTA was similar among patients who had or had not undergone splenectomy.
 In general, increases in platelet counts were detected 1 week following initiation of PROMACTA and the maximum response was observed after 2 weeks of therapy.
@@ -104,14 +104,6 @@ Trials 1 and 2 Sustained Virologic Response in Adults With Chronic Hepatitis C
 | Overall SVRd | 23 | 14 | 19 | 13 |
 | HCV Genotype 2,3 | 35 | 24 | 34 | 25 |
 | HCV Genotype 1,4,6 | 18 | 10 | 13 | 7 |
-
-a PROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally).
-
-b PROMACTA given in peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally).
-
-c Target platelet count was ≥90 x 109 /L for Trial 1 and ≥100 x 109 /L for Trial 2.
-
-dP value <0.05 for PROMACTA versus placebo.
 
 The majority of patients treated with PROMACTA (76%) maintained a platelet count ≥50 x 109/L compared to 19% for placebo.
 A greater proportion of patients on PROMACTA did not require any antiviral dose reduction as compared to placebo (45% versus 27%).

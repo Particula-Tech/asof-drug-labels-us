@@ -3,7 +3,7 @@
 PROMACTA may cause hepatotoxicity.
 PROMACTA, in combination with interferon and ribavirin in patients with chronic hepatitis C, may increase the risk of hepatic decompensation [see Warnings and Precautions (5.1, 5.2)].
 
-●Measure serum alanineaminotransferase (ALT), aspartate aminotransferase (AST), and bilirubin prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose.
+●Measure serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), and bilirubin prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose.
 If bilirubin is elevated, perform fractionation.
 
 ●Evaluate abnormal serum liver tests with repeat testing within 3 to 5 days.

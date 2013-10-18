@@ -186,7 +186,7 @@ How should I store PROMACTA Tablets?
 - •Keep PROMACTA tightly closed in the bottle given to you.
 - •The PROMACTA bottle may contain a desiccant pack to help keep your medicine dry.
   Do not remove the desiccant pack from the bottle.
-- • Keep PROMACTA and all medicines out of the reach of children.
+- •Keep PROMACTA and all medicines out of the reach of children.
 
 General information about the safe and effective use of PROMACTA
 
