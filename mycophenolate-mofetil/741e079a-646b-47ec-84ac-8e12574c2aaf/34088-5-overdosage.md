@@ -12,5 +12,5 @@ In adult rats, deaths occurred after single-oral doses of 500 mg/kg of mycopheno
 The dose represents approximately 3 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
 
 MPA and MPAG are usually not removed by hemodialysis.
-However, at high MPAG plasma concentrations (>100 μg/mL), small amounts of MPAG are removed.
+However, at high MPAG plasma concentrations (>100 µg/mL), small amounts of MPAG are removed.
 By increasing excretion of the drug, MPA can be removed by bile acid sequestrants, such as cholestyramine (see CLINICAL PHARMACOLOGY: Pharmacokinetics).

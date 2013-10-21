@@ -1,59 +1,25 @@
-Rx only
+# Pure Red Cell Aplasia (PRCA)
 
-# Gastrointestinal Disorders
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
+The mechanism for mycophenolate mofetil induced PRCA is unknown; the relative contribution of other immunosuppressants and their combinations in an immunosuppression regimen are also unknown.
+In some cases, PRCA was found to be reversible with dose reduction or cessation of mycophenolate mofetil therapy.
+In transplant patients, however, reduced immunosuppression may place the graft at risk.
 
-Gastrointestinal bleeding (requiring hospitalization) has been observed in approximately 3% of renal, in 1.7% of cardiac, and in 5.4% of hepatic transplant patients treated with mycophenolate mofetil 3 g daily.
-In pediatric renal transplant patients, 5/148 cases of gastrointestinal bleeding (requiring hospitalization) were observed.
+CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
 
-Gastrointestinal perforations have rarely been observed.
-Most patients receiving mycophenolate mofetil were also receiving other drugs known to be associated with these complications.
-Patients with active peptic ulcer disease were excluded from enrollment in studies with mycophenolate mofetil.
-Because mycophenolate mofetil has been associated with an increased incidence of digestive system adverse events, including infrequent cases of gastrointestinal tract ulceration, hemorrhage, and perforation, mycophenolate mofetil should be administered with caution in patients with active serious digestive system disease.
+# HANDLING AND DISPOSAL
 
-# Patients with Renal Impairment
+Mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits (see Pregnancy and WARNINGS: Embryofetal Toxicity).
+Mycophenolate mofetil tablets should not be crushed and mycophenolate mofetil capsules should not be opened or crushed.
+Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in mycophenolate mofetil capsules and mycophenolate mofetil oral suspension (before or after constitution).
+If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
+Should a spill occur, wipe up using paper towels wetted with water to remove spilled powder or suspension.
+Caution should be exercised in the handling and preparation of solutions of mycophenolate mofetil intravenous.Avoid direct contact of the prepared solution of mycophenolate mofetil intravenous with skin or mucous membranes.
+If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
 
-Subjects with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) who have received single doses of mycophenolate mofetil showed higher plasma MPA and MPAG AUCs relative to subjects with lesser degrees of renal impairment or normal healthy volunteers.
-No data are available on the safety of long-term exposure to these levels of MPAG.
-Doses of mycophenolate mofetil greater than 1 g administered twice a day to renal transplant patients should be avoided and they should be carefully observed (see CLINICAL PHARMACOLOGY: Pharmacokinetics and DOSAGE AND ADMINISTRATION).
+Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA
 
-No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
-Mycophenolate mofetil may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
+Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
+INDIA.
 
-In patients with delayed renal graft function posttransplant, mean MPA AUC(0-12h) was comparable, but MPAG AUC(0-12h) was 2-fold to 3-fold higher, compared to that seen in posttransplant patients without delayed renal graft function.
-In the three controlled studies of prevention of renal rejection, there were 298 of 1483 patients (20%) with delayed graft function.
-Although patients with delayed graft function have a higher incidence of certain adverse events (anemia, thrombocytopenia, hyperkalemia) than patients without delayed graft function, these events were not more frequent in patients receiving mycophenolate mofetil than azathioprine or placebo.
-No dose adjustment is recommended for these patients; however, they should be carefully observed (see CLINICAL PHARMACOLOGY: Pharmacokinetics and DOSAGE AND ADMINISTRATION).
-
-# Infections in Cardiac Transplant Patients
-
-In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with mycophenolate mofetil than in those receiving azathioprine therapy, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with mycophenolate mofetil (see ADVERSE REACTIONS).
-
-There were more herpes virus (H. simplex, H. zoster, and cytomegalovirus) infections in cardiac transplant patients treated with mycophenolate mofetil compared to those treated with azathioprine (see ADVERSE REACTIONS).
-
-# Concomitant Medications
-
-It is recommended that mycophenolate mofetil not be administered concomitantly with azathioprine because both have the potential to cause bone marrow suppression and such concomitant administration has not been studied clinically.
-
-In view of the significant reduction in the AUC of MPA by cholestyramine, caution should be used in the concomitant administration of mycophenolate mofetil with drugs that interfere with enterohepatic recirculation because of the potential to reduce the efficacy of mycophenolate mofetil (see PRECAUTIONS: Drug Interactions).
-
-# Patients with HGPRT Deficiency
-
-On theoretical grounds, because mycophenolate mofetil is an IMPDH (inosine monophosphate dehydrogenase) inhibitor, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
-
-# Immunizations
-
-During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective (see PRECAUTIONS: Drug Interactions: Live Vaccines).
-
-# Phenylketonurics
-
-Mycophenolate mofetil oral suspension contains aspartame, a source of phenylalanine (0.56 mg phenylalanine/mL suspension).
-Therefore, care should be taken if mycophenolate mofetil oral suspension is administered to patients with phenylketonuria.
-
-# Mycophenolate Mofetil Tablets 500 mg
-
-Purple coloured, capsule shaped, biconvex, film coated tablets debossed ‘AHI’ on one side and ‘500’ on other side.
-
-| NDC Number | Size |
-| --- | --- |
-| NDC 16729-019-01 | Bottle of 100 |
-| NDC 16729-019-16 | Bottle of 500 |
+10 4847 5 647836 Issued August 2013
