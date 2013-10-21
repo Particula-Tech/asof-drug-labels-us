@@ -32,4 +32,4 @@ If a patient experiences anticholinergic CNS effects, dose reduction or drug dis
 
 Trospium is substantially excreted by the kidney.
 The effects of moderate renal impairment on systemic exposure are not known but systemic exposure is likely increased.
-Therefore, anticholinergic adverse reactions (including dry mouth, constipation, dyspepsia, urinary tract infection, and urinary retention) are expected to be greater in patients with moderate renal impairment [see Dosage and Administration (2), and Use in Specific Populations (8.6)]
+Therefore, anticholinergic adverse reactions (including dry mouth, constipation, dyspepsia, urinary tract infection, and urinary retention) are expected to be greater in patients with moderate renal impairment [see Dosage and Administration (2), and Use in Specific Populations (8.6)].

@@ -17,4 +17,4 @@ Trospium chloride may potentially alter the absorption of some concomitantly adm
 
 ## 7.4 Metformin
 
-Co-administration of 500 mg metformin immediate release tablets twice daily with trospium chloride 60 mg extended release reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax [see Clinical Pharmacology (12.3)]
+Co-administration of 500 mg metformin immediate release tablets twice daily with trospium chloride 60 mg extended release reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax [see Clinical Pharmacology (12.3)].

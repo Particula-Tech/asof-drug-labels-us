@@ -105,7 +105,7 @@ What are the ingredients in trospium chloride tablets?
 
 Active Ingredient: trospium chloride USP.
 
-Inactive Ingredients: microcrystalline cellulose, lactose monohydrate, corn starch, povidone, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, sucrose, copovidone, titanium dioxide, polyethylene glycol 6000, talc, hypromellose, macrogol, iron oxide yellow, iron oxide red.
+Inactive Ingredients: microcrystalline cellulose, lactose monohydrate, corn starch, povidone, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, sucrose, copovidone, titanium dioxide, polyethylene glycol 6000, talc, hypromellose, macrogol, yellow iron oxide, red iron oxide.
 
 Rx only
 
@@ -122,4 +122,4 @@ Questions?
 
 www.glenmarkgenerics.com
 
-May 2013
+August 2013
