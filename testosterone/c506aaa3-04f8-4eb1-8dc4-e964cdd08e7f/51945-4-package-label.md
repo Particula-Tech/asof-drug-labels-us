@@ -20,7 +20,7 @@ Dispense the enclosed Medication Guide to each patient.
 
 *See accompanying package insert.
 
-Abbott
+abbvie
 
 NDC 0051–8450–30
 
@@ -44,7 +44,7 @@ Dispense the enclosed Medication Guide to each patient.
 
 * See accompanying package insert.
 
-Abbott
+abbvie
 
 NDC 0051–8488–88
 
@@ -67,4 +67,4 @@ Topical testosterone products may have different doses, strengths, or applicatio
 
 Dispense the enclosed Medication Guide to each patient.
 
-Rx Only Abbott
+Rx Only abbvie
