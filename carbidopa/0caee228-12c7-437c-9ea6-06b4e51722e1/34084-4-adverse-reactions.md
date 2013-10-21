@@ -22,7 +22,7 @@ Agranulocytosis, hemolytic and non-hemolytic anemia, thrombocytopenia, leukopeni
 
 Hypersensitivity
 
-Angioedema, urticaria, pruritus, Henoch-Schonlein purpura, bullous lesions (including pemphigus-like reactions).
+Angioedema, urticaria, pruritus, Henoch-Schönlein purpura, bullous lesions (including pemphigus-like reactions).
 
 Musculoskeletal
 
@@ -47,7 +47,7 @@ Urinary tract infection, urinary frequency, dark urine.
 
 Laboratory Tests
 
-Decreased hemoglobin and hematocrit; abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase, bilirubin, blood urea nitrogen (BUN), Coombs test; elevated serum glucose; white blood cells, bacteria, and blood in the urine.
+Decreased hemoglobin and hematocrit; abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), LDH, bilirubin, BUN, Coombs test; elevated serum glucose; white blood cells, bacteria, and blood in the urine.
 
 Other adverse reactions that have been reported with levodopa alone and with various carbidopa-levodopa formulations, and may occur with SINEMET are:
 

@@ -5,7 +5,7 @@ In order to reduce adverse reactions, it is necessary to individualize therapy.
 See DOSAGE AND ADMINISTRATION section before initiating therapy.
 
 The addition of carbidopa with levodopa in the form of SINEMET reduces the peripheral effects (nausea, vomiting) due to decarboxylation of levodopa; however, carbidopa does not decrease the adverse reactions due to the central effects of levodopa.
-Because carbidopa permits more levodopa to reach the brain and more dopamine to be formed, certain adverse CNS effects, e.g., dyskinesias (involuntary movements), may occur at lower dosages and sooner with SINEMET than with levodopa alone.
+Because carbidopa permits more levodopa to reach the brain and more dopamine to be formed, certain adverse central nervous system (CNS) effects, e.g., dyskinesias (involuntary movements), may occur at lower dosages and sooner with SINEMET than with levodopa alone.
 
 Levodopa alone, as well as SINEMET, is associated with dyskinesias.
 The occurrence of dyskinesias may require dosage reduction.
@@ -25,6 +25,7 @@ As with levodopa, treatment with SINEMET may increase the possibility of upper g
 ## Neuroleptic Malignant Syndrome (NMS)
 
 Sporadic cases of a symptom complex resembling NMS have been reported in association with dose reductions or withdrawal of therapy with SINEMET.
+
 Therefore, patients should be observed carefully when the dosage of SINEMET is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
 
 NMS is an uncommon but life-threatening syndrome characterized by fever or hyperthermia.
@@ -33,10 +34,10 @@ Neurological findings, including muscle rigidity, involuntary movements, altered
 The early diagnosis of this condition is important for the appropriate management of these patients.
 Considering NMS as a possible diagnosis and ruling out other acute illnesses (e.g., pneumonia, systemic infection, etc.) is essential.
 This may be especially complex if the clinical presentation includes both serious medical illness and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
-Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system (CNS) pathology.
+Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary CNS pathology.
 
 The management of NMS should include: 1) intensive symptomatic treatment and medical monitoring and 2) treatment of any concomitant serious medical problems for which specific treatments are available.
-Dopamine agonists, such as bromocriptine, and muscle relaxants, such as dantrolene, are often used in the treatment of NMS, however, their effectiveness has not been demonstrated in controlled studies.
+Dopamine agonists, such as bromocriptine, and muscle relaxants, such as dantrolene, are often used in the treatment of NMS; however, their effectiveness has not been demonstrated in controlled studies.
 
 # PRECAUTIONS
 
@@ -49,7 +50,7 @@ Patients with chronic wide-angle glaucoma may be treated cautiously with SINEMET
 Dopaminergic agents, including levodopa, may be associated with somnolence and very rarely episodes of sudden onset of sleep.
 In some cases, these episodes may occur without awareness or warning during daily activities.
 Patients must be informed of this and advised to exercise caution while driving or operating machines while being treated with dopaminergic agents, including levodopa.
-Patients who have experienced somnolence and/or an episode of sudden sleep onset must refrain from driving or operating machines (see Information for Patients).
+Patients who have experienced somnolence and/or an episode of sudden sleep onset must refrain from driving or operating machines (see PRECAUTIONS, Information for Patients).
 
 ## Melanoma
 
@@ -65,7 +66,7 @@ The patient should be informed that SINEMET is an immediate-release formulation 
 It is important that SINEMET be taken at regular intervals according to the schedule outlined by the physician.
 The patient should be cautioned not to change the prescribed dosage regimen and not to add any additional antiparkinson medications, including other carbidopa-levodopa preparations, without first consulting the physician.
 
-Patients should be advised that sometimes a ‘wearing-off’ effect may occur at the end of the dosing interval.
+Patients should be advised that sometimes a 'wearing-off' effect may occur at the end of the dosing interval.
 The physician should be notified if such response poses a problem to lifestyle.
 
 Patients should be advised that occasionally, dark color (red, brown, or black) may appear in saliva, urine, or sweat after ingestion of SINEMET.
@@ -91,8 +92,8 @@ It is not a disclosure of all possible adverse or intended effects.
 
 ## Laboratory Tests
 
-Abnormalities in laboratory tests may include elevations of liver function tests such as alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase, and bilirubin.
-Abnormalities in blood urea nitrogen and positive Coombs test have also been reported.
+Abnormalities in laboratory tests may include elevations of liver function tests such as alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase (LDH), and bilirubin.
+Abnormalities in blood urea nitrogen (BUN) and positive Coombs test have also been reported.
 Commonly, levels of blood urea nitrogen, creatinine, and uric acid are lower during administration of SINEMET than with levodopa.
 
 SINEMET may cause a false-positive reaction for urinary ketone bodies when a test tape is used for determination of ketonuria.
@@ -118,6 +119,8 @@ Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperid
 In addition, the beneficial effects of levodopa in Parkinson's disease have been reported to be reversed by phenytoin and papaverine.
 Patients taking these drugs with SINEMET should be carefully observed for loss of therapeutic response.
 
+Use of SINEMET with dopamine-depleting agents (e.g., reserpine and tetrabenazine) or other drugs known to deplete monoamine stores is not recommended.
+
 Iron salts may reduce the bioavailability of levodopa and carbidopa.
 The clinical relevance is unclear.
 
@@ -142,7 +145,7 @@ Use of SINEMET in women of childbearing potential requires that the anticipated 
 
 ## Nursing Mothers
 
-In a study of one nursing mother with Parkinson’s disease, excretion of levodopa in human breast milk was reported.
+In a study of one nursing mother with Parkinson's disease, excretion of levodopa in human breast milk was reported.
 Therefore, caution should be exercised when SINEMET is administered to a nursing woman.
 
 ## Pediatric Use
