@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 1.5 mg
 
@@ -16,7 +16,7 @@ base
 
 Unit Dose Package
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 3 mg
 
@@ -34,7 +34,7 @@ base
 
 Unit Dose Package
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 4.5 mg
 
@@ -52,7 +52,7 @@ base
 
 Unit Dose Package
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 6 mg
 
@@ -70,7 +70,7 @@ base
 
 Unit Dose Package
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 2 mg
 

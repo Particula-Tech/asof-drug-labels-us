@@ -1,113 +1,63 @@
-# WARNINGS
+# 5WARNINGS AND PRECAUTIONS
 
-## Gastrointestinal Adverse Reactions
+## 5.1 Gastrointestinal Adverse Reactions
 
-Exelon® (rivastigmine tartrate) use is associated with significant gastrointestinal adverse reactions, including nausea and vomiting, anorexia, and weight loss.
-For this reason, patients should always be started at a dose of 1.5 mg BID and titrated to their maintenance dose.
-If treatment is interrupted for longer than several days, treatment should be reinitiated with the lowest daily dose (see DOSAGE AND ADMINISTRATION) to reduce the possibility of severe vomiting and its potentially serious sequelae (e.g., there has been one postmarketing report of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment with a 4.5-mg dose after 8 weeks of treatment interruption).
+Exelon can cause gastrointestinal adverse reactions, including significant nausea, vomiting, diarrhea, anorexia/decreased appetite, and weight loss.
+Dehydration may result from prolonged vomiting or diarrhea and can be associated with serious outcomes.
+The incidence and severity of these reactions are dose-related [see Adverse Reactions (6.1)].
+For this reason, patients should always be started at a dose of 1.5 mg twice a day and titrated to their maintenance dose.
 
-Nausea and Vomiting: In the controlled clinical trials, 47% of the patients treated with an Exelon dose in the therapeutic range of 6-12 mg/day (n=1189) developed nausea (compared with 12% in placebo).
-A total of 31% of Exelon-treated patients developed at least one episode of vomiting (compared with 6% for placebo).
-The rate of vomiting was higher during the titration phase (24% vs. 3% for placebo) than in the maintenance phase (14% vs. 3% for placebo).
-The rates were higher in women than men.
-Five percent of patients discontinued for vomiting, compared to less than 1% for patients on placebo.
-Vomiting was severe in 2% of Exelon-treated patients and was rated as mild or moderate each in 14% of patients.
-The rate of nausea was higher during the titration phase (43% vs. 9% for placebo) than in the maintenance phase (17% vs. 4% for placebo).
+If treatment is interrupted for longer than 3 days, treatment should be reinitiated with the lowest daily dose [see Dosage and Administration (2.1)] to reduce the possibility of severe vomiting and its potentially serious sequelae (e.g., there has been one postmarketing report of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment with a 4.5-mg dose after 8 weeks of treatment interruption).
 
-Weight Loss: In the controlled trials, approximately 26% of women on high doses of Exelon (greater than 9 mg/day) had weight loss equal to or greater than 7% of their baseline weight compared to 6% in the placebo-treated patients.
-About 18% of the males in the high-dose group experienced a similar degree of weight loss compared to 4% in placebo-treated patients.
-It is not clear how much of the weight loss was associated with anorexia, nausea, vomiting, and the diarrhea associated with the drug.
+Inform caregivers to monitor for gastrointestinal adverse reactions and to inform the physician if they occur.
+It is critical to inform caregivers that if therapy has been interrupted for more than 3 days because of intolerance, the next dose should not be administered without contacting the physician regarding proper retitration.
 
-Anorexia: In the controlled clinical trials, of the patients treated with an Exelon dose of 6-12 mg/day, 17% developed anorexia compared to 3% of the placebo patients.
-Neither the time course nor the severity of the anorexia is known.
+## 5.2 Hypersensitivity Reactions of the Skin
 
-Peptic Ulcers/Gastrointestinal Bleeding: Because of their pharmacological action, cholinesterase inhibitors may be expected to increase gastric acid secretion due to increased cholinergic activity.
-Therefore, patients should be monitored closely for symptoms of active or occult gastrointestinal bleeding, especially those at increased risk for developing ulcers, e.g., those with a history of ulcer disease or those receiving concurrent nonsteroidal antiinflammatory drugs (NSAIDs).
-Clinical studies of Exelon have shown no significant increase, relative to placebo, in the incidence of either peptic ulcer disease or gastrointestinal bleeding.
+There have been isolated postmarketing reports of patients experiencing disseminated hypersensitivity reactions of the skin when administered rivastigmine irrespective of the route of administration (oral or transdermal).
+Treatment should be discontinued if disseminated hypersensitivity reaction of the skin occurs [see Contraindications (4)].
+Patients and caregivers should be instructed accordingly [see Patient Counseling Information (17)].
 
-## Anesthesia
+In patients who develop application site reactions suggestive of allergic contact dermatitis to Exelon Patch and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
+It is possible that some patients sensitized to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
 
-Exelon as a cholinesterase inhibitor, is likely to exaggerate succinylcholine-type muscle relaxation during anesthesia.
+## 5.3 Other Adverse Reactions from Increased Cholinergic Activity
 
-## Cardiovascular Conditions
+Neurologic Effects
 
-Drugs that increase cholinergic activity may have vagotonic effects on heart rate (e.g., bradycardia).
-The potential for this action may be particularly important to patients with "sick sinus syndrome" or other supraventricular cardiac conduction conditions.
-In clinical trials, Exelon was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or ECG abnormalities.
-Syncopal episodes have been reported in 3% of patients receiving 6-12 mg/day of Exelon, compared to 2% of placebo patients.
-
-## Genitourinary
-
-Although this was not observed in clinical trials of Exelon, drugs that increase cholinergic activity may cause urinary obstruction.
-
-## Neurological Conditions
+Extrapyramidal Symptoms: Cholinomimetics, including rivastigmine may exacerbate or induce extrapyramidal symptoms.
+Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with Exelon Capsules.
 
 Seizures: Drugs that increase cholinergic activity are believed to have some potential for causing seizures.
 However, seizure activity also may be a manifestation of Alzheimer's disease.
 
-## Pulmonary Conditions
+Peptic Ulcers/Gastrointestinal Bleeding
 
-Like other drugs that increase cholinergic activity, Exelon should be used with care in patients with a history of asthma or obstructive pulmonary disease.
+Cholinesterase inhibitors, including rivastigmine, may be expected to increase gastric acid secretion due to increased cholinergic activity.
+Monitor patients using Exelon for symptoms of active or occult gastrointestinal bleeding, especially those at increased risk for developing ulcers, e.g., those with a history of ulcer disease or those receiving concurrent nonsteroidal anti-inflammatory drugs (NSAIDs).
+Clinical studies of rivastigmine have shown no significant increase, relative to placebo, in the incidence of either peptic ulcer disease or gastrointestinal bleeding.
 
-# PRECAUTIONS
+Use with Anesthesia
 
-## Information for Patients and Caregivers
+Rivastigmine, as a cholinesterase inhibitor, is likely to exaggerate succinylcholine-type muscle relaxation during anesthesia.
 
-Caregivers should be advised of the high incidence of nausea and vomiting associated with the use of the drug along with the possibility of anorexia and weight loss.
-Caregivers should be encouraged to monitor for these adverse events and inform the physician if they occur.
-It is critical to inform caregivers that if therapy has been interrupted for more than several days, the next dose should not be administered until they have discussed this with the physician.
+Cardiac Conduction Effects
 
-Caregivers should be instructed in the correct procedure for administering Exelon® (rivastigmine tartrate) Oral Solution.
-In addition, they should be informed of the existence of an Instruction Sheet (included with the product) describing how the solution is to be administered.
-They should be urged to read this sheet prior to administering Exelon Oral Solution.
-Caregivers should direct questions about the administration of the solution to either their physician or pharmacist.
+Because rivastigmine increases cholinergic activity, use of rivastigmine may have vagotonic effects on heart rate (e.g., bradycardia).
+The potential for this action may be particularly important in patients with sick sinus syndrome or other supraventricular cardiac conduction conditions.
+In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or ECG abnormalities.
+Syncopal episodes have been reported in 3% of patients receiving 6 mg to 12 mg per day of Exelon, compared to 2% of placebo patients.
 
-Caregivers and patients should be advised that like other cholinomimetics, Exelon® may exacerbate or induce extrapyramidal symptoms.
-Worsening in patients with Parkinson’s disease, including an increased incidence or intensity of tremor, has been observed.
+Genitourinary Effects
 
-## Drug-Drug Interactions
+Although not observed in clinical trials of rivastigmine, drugs that increase cholinergic activity may cause urinary obstruction.
 
-Effect of Exelon on the Metabolism of Other Drugs: Rivastigmine is primarily metabolized through hydrolysis by esterases.
-Minimal metabolism occurs via the major cytochrome P450 isoenzymes.
-Based on in vitro studies, no pharmacokinetic drug interactions with drugs metabolized by the following isoenzyme systems are expected: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1, CYP2C9, CYP2C8, or CYP2C19.
+Pulmonary Effects
 
-No pharmacokinetic interaction was observed between rivastigmine and digoxin, warfarin, diazepam, or fluoxetine in studies in healthy volunteers.
-The elevation of prothrombin time induced by warfarin is not affected by administration of Exelon.
+Drugs that increase cholinergic activity, including rivastigmine, should be used with care in patients with a history of asthma or obstructive pulmonary disease.
 
-Effect of Other Drugs on the Metabolism of Exelon: Drugs that induce or inhibit CYP450 metabolism are not expected to alter the metabolism of rivastigmine.
-Single-dose pharmacokinetic studies demonstrated that the metabolism of rivastigmine is not significantly affected by concurrent administration of digoxin, warfarin, diazepam, or fluoxetine.
+## 5.4 Impairment in Driving or Use of Machinery
 
-Population PK analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine were not influenced by commonly prescribed medications such as antacids (n=77), antihypertensives (n=72), ß-blockers (n=42), calcium channel blockers (n=75), antidiabetics (n=21), nonsteroidal antiinflammatory drugs (n=79), estrogens (n=70), salicylate analgesics (n=177), antianginals (n=35), and antihistamines (n=15).
-
-Use with Anticholinergics: Because of their mechanism of action, cholinesterase inhibitors have the potential to interfere with the activity of anticholinergic medications.
-
-Use with Cholinomimetics and Other Cholinesterase Inhibitors: A synergistic effect may be expected when cholinesterase inhibitors are given concurrently with succinylcholine, similar neuromuscular blocking agents or cholinergic agonists such as bethanechol.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-In carcinogenicity studies conducted at dose levels up to 1.1 mg-base/kg/day in rats and 1.6 mg-base/kg/day in mice, rivastigmine was not carcinogenic.
-These dose levels are approximately 0.9 times and 0.7 times the maximum recommended human daily dose of 12 mg/day on a mg/m2 basis.
-
-Rivastigmine was clastogenic in two in vitro assays in the presence, but not the absence, of metabolic activation.
-It caused structural chromosomal aberrations in V79 Chinese hamster lung cells and both structural and numerical (polyploidy) chromosomal aberrations in human peripheral blood lymphocytes.
-Rivastigmine was not genotoxic in three in vitro assays: the Ames test, the unscheduled DNA synthesis (UDS) test in rat hepatocytes (a test for induction of DNA repair synthesis), and the HGPRT test in V79 Chinese hamster cells.
-Rivastigmine was not clastogenic in the in vivo mouse micronucleus test.
-
-Rivastigmine had no effect on fertility or reproductive performance in the rat at dose levels up to 1.1 mg-base/kg/day.
-This dose is approximately 0.9 times the maximum recommended human daily dose of 12 mg/day on a mg/m2 basis.
-
-## Pregnancy
-
-Pregnancy Category B: Reproduction studies conducted in pregnant rats at doses up to 2.3 mg-base/kg/day (approximately 2 times the maximum recommended human dose on a mg/m2 basis) and in pregnant rabbits at doses up to 2.3 mg-base/kg/day (approximately 4 times the maximum recommended human dose on a mg/m2 basis) revealed no evidence of teratogenicity.
-Studies in rats showed slightly decreased fetal/pup weights, usually at doses causing some maternal toxicity; decreased weights were seen at doses which were several fold lower than the maximum recommended human dose on a mg/m2 basis.
-There are no adequate or well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, Exelon should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-## Nursing Mothers
-
-It is not known whether rivastigmine is excreted in human breast milk.
-Exelon has no indication for use in nursing mothers.
-
-## Pediatric Use
-
-There are no adequate and well-controlled trials documenting the safety and efficacy of Exelon in any illness occurring in children.
+Dementia may cause gradual impairment of driving performance or compromise the ability to use machinery.
+The administration of rivastigmine may also result in adverse reactions that are detrimental to these functions.
+During treatment with the Exelon, routinely evaluate the patient’s ability to continue driving or operating machinery.
