@@ -1,4 +1,28 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Blister Pack
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+
+Pfizer
+
+NDC 0049-3410-30
+
+DIFLUCAN® (Fluconazole Tablets)
+
+50 mg
+
+30 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+
+Pfizer
+
+NDC 0049-3420-30
+
+DIFLUCAN® (Fluconazole Tablets)
+
+100 mg
+
+30 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack
 
 DIFLUCAN® (Fluconazole Tablet)
 
@@ -8,7 +32,7 @@ ROERIG DIV OF PFIZER INC, NY, NY 10017
 
 EXP & LOT AREA
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack Carton
 
 100 Tablets NDC 0049-3420-41
 
@@ -43,7 +67,7 @@ Some important things to know about Diflucan
 
 *Due to Candida
 
-# PRINCIPAL DISPLAY PANEL - 12 x 150 mg Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 12 x 150 mg Tablet Blister Pack Carton
 
 12 Blisters x 1 Tablet
 
@@ -55,7 +79,19 @@ Distributed by
 
 Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Blister Pack
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
+
+Pfizer
+
+NDC 0049-3430-30
+
+DIFLUCAN® (Fluconazole Tablets)
+
+200 mg
+
+30 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Blister Pack
 
 DIFLUCAN® (Fluconazole Tablet)
 
@@ -65,7 +101,7 @@ ROERIG DIV OF PFIZER INC, NY, NY 10017
 
 EXP & LOT AREA
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Blister Pack Carton
 
 100 Tablets NDC 0049-3430-41
 

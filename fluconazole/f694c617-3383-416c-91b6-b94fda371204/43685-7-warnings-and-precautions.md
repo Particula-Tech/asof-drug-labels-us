@@ -12,6 +12,7 @@ DIFLUCAN should be discontinued if clinical signs and symptoms consistent with l
 (3) Dermatologic: Patients have rarely developed exfoliative skin disorders during treatment with DIFLUCAN.
 In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
 Patients who develop rashes during treatment with DIFLUCAN should be monitored closely and the drug discontinued if lesions progress.
+If a rash, which is considered attributable to fluconazole, develops in a patient treated for a superficial fungal infection, further therapy with this agent should be discontinued.
 
 (4) Use in Pregnancy: There are no adequate and well-controlled studies of DIFLUCAN in pregnant women.
 Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
@@ -56,7 +57,7 @@ The enzyme inhibiting effect of fluconazole persists 4–5 days after discontinu
 Clinically or potentially significant drug interactions between DIFLUCAN and the following agents/classes have been observed.
 These are described in greater detail below:
 
-Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Tofacitinib Triazolam Oral Contraceptives Pimozide Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
+Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Tofacitinib Triazolam Oral Contraceptives Pimozide Quinidine Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
 
 ### Oral hypoglycemics
 
@@ -81,9 +82,10 @@ Careful monitoring of phenytoin concentrations in patients receiving DIFLUCAN an
 
 ### Cyclosporine
 
-DIFLUCAN may significantly increase cyclosporine levels in renal transplant patients with or without renal impairment.
+DIFLUCAN significantly increases cyclosporine levels in renal transplant patients with or without renal impairment.
 Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving DIFLUCAN and cyclosporine.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies).
+This combination may be used by reducing the dosage of cyclosporin depending on cyclosporin concentration.
 
 ### Rifampin
 
@@ -149,8 +151,8 @@ If short-acting benzodiazepines, which are metabolized by the cytochrome P450 sy
 
 ### Tofacitinib
 
-Exposure is increased when tofacitinib is coadministered with medications that result in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19 (e.g., fluconazole).
-Reduced daily dose of tofacitinib should be considered when given concomitantly with fluconazole.
+Systemic exposure to tofacitinib is increased when tofacitinib is coadministered with fluconazole, a combined moderate CYP3A4 and potent CYP2C19 inhibitor.
+Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 ### Triazolam
@@ -169,6 +171,13 @@ Thus, multiple dose use of fluconazole at these doses is unlikely to have an eff
 Although not studied in vitro or in vivo, concomitant administration of fluconazole with pimozide may result in inhibition of pimozide metabolism.
 Increased pimozide plasma concentrations can lead to QT prolongation and rare occurrences of torsade de pointes.
 Coadministration of fluconazole and pimozide is contraindicated.
+
+### Quinidine
+
+Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS.)
 
 ### Hydrochlorothiazide
 

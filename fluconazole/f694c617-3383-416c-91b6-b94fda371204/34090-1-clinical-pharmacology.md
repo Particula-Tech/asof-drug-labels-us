@@ -182,6 +182,13 @@ There was no change in cardiac repolarization as measured by Holter QTc interval
 Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
 (See CONTRAINDICATIONS and PRECAUTIONS.)
 
+### Quinidine
+
+Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS and PRECAUTIONS.)
+
 ### Oral hypoglycemics
 
 The effects of fluconazole on the pharmacokinetics of the sulfonylurea oral hypoglycemic agents tolbutamide, glipizide, and glyburide were evaluated in three placebo-controlled studies in normal volunteers.
@@ -264,7 +271,7 @@ Close monitoring for adverse events related to voriconazole is recommended if vo
 
 ### Tofacitinib
 
-Co-administration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days) and tofacitinib (30 mg single dose) resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% – 96%) and 27% (90% CI: 12% – 44%), respectively, compared to administration of tofacitinib administered alone.
+Co-administration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2–7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% – 96%) and 27% (90% CI: 12% – 44%), respectively, compared to administration of tofacitinib alone.
 (See PRECAUTIONS)
 
 ## Microbiology
@@ -275,6 +282,25 @@ Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent 
 This enzyme functions to convert lanosterol to ergosterol.
 The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole.
 Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
+
+### Drug Resistance
+
+Fluconazole resistance may arise from a modification in the quality or quantity of the target enzyme (lanosterol 14-α-demethylase), reduced access to the drug target, or some combination of these mechanisms.
+
+Point mutations in the gene (ERG11) encoding for the target enzyme lead to an altered target with decreased affinity for azoles.
+Overexpression of ERG11 results in the production of high concentrations of the target enzyme, creating the need for higher intracellular drug concentrations to inhibit all of the enzyme molecules in the cell.
+
+The second major mechanism of drug resistance involves active efflux of fluconazole out of the cell through the activation of two types of multidrug efflux transporters; the major facilitators (encoded by MDR genes) and those of the ATP-binding cassette superfamily (encoded by CDR genes).
+Upregulation of the MDR gene leads to fluconazole resistance, whereas, upregulation of CDR genes may lead to resistance to multiple azoles.
+
+Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
+For an isolate where the MIC is categorized as Intermediate (16 to 32 µg/mL), the highest fluconazole dose is recommended.
+
+Candida krusei should be considered to be resistant to fluconazole.
+Resistance in C. krusei appears to be mediated by reduced sensitivity of the target enzyme to inhibition by the agent.
+
+There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to DIFLUCAN (e.g., Candida krusei).
+Such cases may require alternative antifungal therapy.
 
 ### Activity In Vitro and In Clinical Infections
 
@@ -346,37 +372,3 @@ Table 2: Acceptable Quality Control Ranges for Fluconazole to be Used in Validat
 | Candida krusei ATCC 6258 | 16–64 | 16–128 | ---Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies. |
 | Candida albicans ATCC 90028 | --- | --- | 28–39 |
 | Candida tropicalis ATCC 750 | --- | --- | 26–37 |
-
-### Activity In Vivo
-
-Fungistatic activity has also been demonstrated in normal and immunocompromised animal models for systemic and intracranial fungal infections due to Cryptococcus neoformans and for systemic infections due to Candida albicans.
-
-In common with other azole antifungal agents, most fungi show a higher apparent sensitivity to fluconazole in vivo than in vitro.
-Fluconazole administered orally and/or intravenously was active in a variety of animal models of fungal infection using standard laboratory strains of fungi.
-Activity has been demonstrated against fungal infections caused by Aspergillus flavus and Aspergillus fumigatus in normal mice.
-Fluconazole has also been shown to be active in animal models of endemic mycoses, including one model of Blastomyces dermatitidis pulmonary infections in normal mice; one model of Coccidioides immitis intracranial infections in normal mice; and several models of Histoplasma capsulatum pulmonary infection in normal and immunosuppressed mice.
-The clinical significance of results obtained in these studies is unknown.
-
-Oral fluconazole has been shown to be active in an animal model of vaginal candidiasis.
-
-Concurrent administration of fluconazole and amphotericin B in infected normal and immunosuppressed mice showed the following results: a small additive antifungal effect in systemic infection with C. albicans, no interaction in intracranial infection with Cryptococcus neoformans, and antagonism of the two drugs in systemic infection with A. fumigatus.
-The clinical significance of results obtained in these studies is unknown.
-
-## Drug Resistance
-
-Fluconazole resistance may arise from a modification in the quality or quantity of the target enzyme (lanosterol 14-α-demethylase), reduced access to the drug target, or some combination of these mechanisms.
-
-Point mutations in the gene (ERG11) encoding for the target enzyme lead to an altered target with decreased affinity for azoles.
-Overexpression of ERG11 results in the production of high concentrations of the target enzyme, creating the need for higher intracellular drug concentrations to inhibit all of the enzyme molecules in the cell.
-
-The second major mechanism of drug resistance involves active efflux of fluconazole out of the cell through the activation of two types of multidrug efflux transporters; the major facilitators (encoded by MDR genes) and those of the ATP-binding cassette superfamily (encoded by CDR genes).
-Upregulation of the MDR gene leads to fluconazole resistance, whereas, upregulation of CDR genes may lead to resistance to multiple azoles.
-
-Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
-For an isolate where the MIC is categorized as Intermediate (16 to 32 µg/mL), the highest fluconazole dose is recommended.
-
-Candida krusei should be considered to be resistant to fluconazole.
-Resistance in C. krusei appears to be mediated by reduced sensitivity of the target enzyme to inhibition by the agent.
-
-There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to DIFLUCAN (e.g., Candida krusei).
-Such cases may require alternative antifungal therapy.
