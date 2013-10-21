@@ -11,48 +11,60 @@ It is meant to be used along with talking with your doctor or clinic.
 Progestin-only pills are often called “POPs” or “the minipill”.
 POPs have less progestin than the combined birth control pill (or “the pill”) which contains both an estrogen and a progestin.
 
-## HOW EFFECTIVE ARE POPS ?
+## HOW EFFECTIVE ARE POPS?
 
 About 1 in 200 (0.5%) POPs users will get pregnant in the first year if they all take POPs perfectly (that is, on time, every day).
 About 1 in 20 (5%) “typical” POPs users (including women who are late taking pills or miss pills) gets pregnant in the first year of use.
 The following table will help you compare the efficacy of different methods.
 
+| IUD: 1-2% |
+| --- |
+| Depo-Provera® (injectable progesterone): 0.3% |
+| Norplant® System (levonorgestrel implants): 0.1% |
+| Diaphragm with spermicides: 18% |
+| Spermicides alone: 21% |
+| Male condom alone: 12% |
+| Female condom alone: 21% |
+| Cervical cap: Women who have never given birth: 18% Women who have given birth: 36% |
+| Periodic abstinence: 20% |
+| No methods: 85% |
+
 ## HOW DO POPS WORK?
 
-- They make the cervical mucus at the entrance to the womb (the uterus) too thick for the sperm to get through to the egg.
-- They prevent ovulation (release of the egg from the ovary) in about half the time
-- They also affect other hormones, the fallopian tubes and the lining of the uterus.
+- •They make the cervical mucus at the entrance to the womb (the uterus) too thick for the sperm to get through to the egg.
+- •They prevent ovulation (release of the egg from the ovary) in about half the time
+- •They also affect other hormones, the fallopian tubes and the lining of the uterus.
 
 ## YOU SHOULD NOT TAKE POPS
 
-- If there is any chance you may be pregnant.
-- If you have breast cancer.
-- If you have bleeding between your periods which has not been diagnosed.
-- If you are taking certain drugs for epilepsy (seizures) or for TB.
+- •If there is any chance you may be pregnant.
+- •If you have breast cancer.
+- •If you have bleeding between your periods which has not been diagnosed.
+- •If you are taking certain drugs for epilepsy (seizures) or for TB.
   (See USING POPS WITH OTHER MEDICINES below).
-- If you are hypersensitive or allergic to any component of this product.
-- If you have liver tumors, either benign or cancerous.
-- If you have acute liver disease.
+- •If you are hypersensitive or allergic to any component of this product.
+- •If you have liver tumors, either benign or cancerous.
+- •If you have acute liver disease.
 
 ## RISKS OF TAKING POPS
 
 WARNING: If you have sudden or severe pain in your lower abdomen or stomach area, you may have an ectopic pregnancy or an ovarian cyst.
 If this happens, you should contact your doctor or clinic immediately.
 
-1. Ectopic pregnancy.
+1. 1.Ectopic pregnancy.
    An ectopic pregnancy is a pregnancy outside the womb.
    Because POPs protect against pregnancy, the chance of having a pregnancy outside the womb is very low.
    If you do get pregnant while taking POPs, you have slightly higher chance that the pregnancy will be ectopic than do users of some other birth control methods.
-2. Ovarian cysts.
+2. 2.Ovarian cysts.
    These cysts are small sacs of fluid in the ovary.
    They are more common among POP users than among users of most other birth control methods.
    They usually disappear without treatment and rarely cause problems.
-3. Cancer of the reproductive organs and breasts.
+3. 3.Cancer of the reproductive organs and breasts.
    Some studies in women who use combined oral contraceptives that contain both estrogen and a progestin have reported an increase in the risk of developing breast cancer, particularly at a younger age and apparently related to duration of use.
    There is insufficient data to determine whether the use of POPs similarly increases this risk.
    Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
    However, this finding may be related to factors other than the use of oral contraceptives and there is insufficient data to determine whether the use of POPs increases the risk of developing cancer of the cervix.
-4. Liver tumors.
+4. 4.Liver tumors.
    In rare cases, combined oral contraceptives can cause benign but dangerous liver tumors.
    These benign liver tumors can rupture and cause fatal internal bleeding.
    In addition, a possible but not definite association has been found with combined oral contraceptives and liver cancers in studies in which a few women who developed these very rare cancers were found to have used combined oral contraceptives for long periods of time.
@@ -64,11 +76,11 @@ WARNING: POPs do not protect against getting or giving someone HIV (AIDS) or any
 
 ## SIDE EFFECTS
 
-1. Irregular bleeding.
+1. 1.Irregular bleeding.
    The most common side effect of POPs is a change in menstrual bleeding.
    Your periods may be either early or late, and you may have some spotting between periods.
    Taking pills late or missing pills can also result in some spotting or bleeding.
-2. Other side effects.
+2. 2.Other side effects.
    Less common side effects include headaches, tender breasts, nausea and dizziness.
    Weight gain, acne and extra hair on your face and body have been reported, but are rare.
 
@@ -83,13 +95,13 @@ These medicines can make POPs less effective:
 
 Medicines for seizures:
 
-- Phenytoin (Dilantin®)
-- Carbamazepine (Tegretol®)
-- Phenobarbital
+- •Phenytoin (Dilantin®)
+- •Carbamazepine (Tegretol®)
+- •Phenobarbital
 
 Medicine for TB:
 
-- Rifampin (Rifampicin)
+- •Rifampin (Rifampicin)
 
 Before you begin any new medicines be sure your doctor or clinic knows you are taking birth control pills that contain a progestin.
 
@@ -105,44 +117,44 @@ Note: If the first day of your period is a Sunday, you can skip steps #1 and #2.
 
 ## IMPORTANT POINTS TO REMEMBER
 
-- POPs must be taken at the same time every day, so choose a time and then take the pill at the same time every day.
+- •POPs must be taken at the same time every day, so choose a time and then take the pill at the same time every day.
   Every time you take a pill late, and especially if you miss a pill, you are more likely to get pregnant.
-- Start the next pack the day after the last pack is finished.
+- •Start the next pack the day after the last pack is finished.
   There is no break between packs.
   Always have your next pack of pills ready.
-- You may have some menstrual spotting between periods.
+- •You may have some menstrual spotting between periods.
   Do not stop taking your pills if this happens.
-- If you vomit soon after taking a pill, use a backup method (such as condom and/or spermicide) for 48 hours.
-- If you want to stop taking POPs, you can do so at any time, but, if you remain sexually active and don’t wish to become pregnant, be certain to use another birth control method.
-- If you are not sure about how to take POPs, ask your doctor or clinic.
+- •If you vomit soon after taking a pill, use a backup method (such as condom and/or spermicide) for 48 hours.
+- •If you want to stop taking POPs, you can do so at any time, but, if you remain sexually active and don’t wish to become pregnant, be certain to use another birth control method.
+- •If you are not sure about how to take POPs, ask your doctor or clinic.
 
 ## STARTING POPS
 
-- It’s best to take your first POP on the first day of your menstrual period.
-- If you decide to take your first POP on another day, use a backup method (such as a condom and/or spermicide) every time you have sex during the next 48 hours.
-- If you have had a miscarriage or an abortion, you can start POPs the next day.
+- •It’s best to take your first POP on the first day of your menstrual period.
+- •If you decide to take your first POP on another day, use a backup method (such as a condom and/or spermicide) every time you have sex during the next 48 hours.
+- •If you have had a miscarriage or an abortion, you can start POPs the next day.
 
 ## IF YOU ARE LATE OR MISS TAKING YOUR POPS
 
-- If you are more than 3 hours late or you miss one or more POPs:
-  1. TAKE a missed pill as soon as you remember that you missed it,
-  2. THEN go back to taking POPs at your regular time.
-  3. BUT be sure to use a backup method (such as condom and/or spermicide) every time you have sex for the next 48 hours.
-- If you are not sure what to do about the pills you have missed, keep taking POPs and use a backup method until you can talk to your doctor or clinic.
+- •If you are more than 3 hours late or you miss one or more POPs:
+  1. 1.TAKE a missed pill as soon as you remember that you missed it,
+  2. 2.THEN go back to taking POPs at your regular time.
+  3. 3.BUT be sure to use a backup method (such as condom and/or spermicide) every time you have sex for the next 48 hours.
+- •If you are not sure what to do about the pills you have missed, keep taking POPs and use a backup method until you can talk to your doctor or clinic.
 
 ## IF YOU ARE BREASTFEEDING
 
-- If you are fully breastfeeding (not giving your baby any food or formula), you may start your pills 6 weeks after delivery.
-- If you are partially breastfeeding (giving your baby some food or formula), you should start taking pills by 3 weeks after delivery.
+- •If you are fully breastfeeding (not giving your baby any food or formula), you may start your pills 6 weeks after delivery.
+- •If you are partially breastfeeding (giving your baby some food or formula), you should start taking pills by 3 weeks after delivery.
 
 ## IF YOU ARE SWITCHING PILLS
 
-- If you are switching from the combined pills to POPs, take the first POP the day after you finish the last active combined pill.
+- •If you are switching from the combined pills to POPs, take the first POP the day after you finish the last active combined pill.
   Do not take any of the 7 inactive pills from the combined pill pack.
   You should know that many women have irregular periods after switching to POPs, but this is normal and to be expected.
-- If you are switching from POPs to the combined pills, take the first active combined pill on the first day of your period, even if your POPs pack is not finished.
-- If you switch to another brand of POPs, start the new brand anytime.
-- If you are breastfeeding, you can switch to another method of birth control at any time, except do not switch to the combined pills until you stop breastfeeding or at least until 6 months after delivery.
+- •If you are switching from POPs to the combined pills, take the first active combined pill on the first day of your period, even if your POPs pack is not finished.
+- •If you switch to another brand of POPs, start the new brand anytime.
+- •If you are breastfeeding, you can switch to another method of birth control at any time, except do not switch to the combined pills until you stop breastfeeding or at least until 6 months after delivery.
 
 ## PREGNANCY WHILE ON THE PILL
 
@@ -151,8 +163,8 @@ Even though research has shown that POPs do not cause harm to the unborn baby, i
 
 You should get a pregnancy test:
 
-- If your period is late and you took one or more pills late or missed taking them and had sex without a backup method.
-- Anytime you miss 2 periods in a row.
+1. 1.If your period is late and you took one or more pills late or missed taking them and had sex without a backup method.
+2. 2.Anytime you miss 2 periods in a row.
 
 ## WILL POPS AFFECT YOUR ABILITY TO GET PREGNANT LATER?
 

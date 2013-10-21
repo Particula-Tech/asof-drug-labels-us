@@ -92,8 +92,8 @@ This may also result in breakthrough bleeding.
 
 The following endocrine tests may be affected by progestin-only oral contraceptive use
 
-- Sex hormone-binding globulin (SHBG) concentrations may be decreased.
-- Thyroxine concentrations may be decreased, due to a decrease in thyroid binding globulin (TBG).
+- •Sex hormone-binding globulin (SHBG) concentrations may be decreased.
+- •Thyroxine concentrations may be decreased, due to a decrease in thyroid binding globulin (TBG).
 
 ## 6. Carcinogenesis
 
@@ -131,15 +131,14 @@ Use of this product before menarche is not indicated.
 
 ## Information for the Patient
 
-1.
-See PATIENT LABELING for detailed information.
-
-### 2. Counseling issues.
+- 
+  1. 1.See PATIENT LABELING for detailed information.
+  2. 2.Counseling issues.
 
 The following points should be discussed with prospective users before prescribing progestin-only oral contraceptives
 
-- The necessity of taking pills at the same time every day, including throughout all bleeding episodes.
-- The need to use a backup method such as condoms and spermicides for the next 48 hours whenever a progestin-only oral contraceptive is taken 3 or more hours late
-- The potential side effects of progestin-only oral contraceptives, particularly menstrual irregularities
-- The need to inform the clinician of prolonged episodes of bleeding, amenorrhea or severe abdominal pain
+- •The necessity of taking pills at the same time every day, including throughout all bleeding episodes.
+- •The need to use a backup method such as condoms and spermicides for the next 48 hours whenever a progestin-only oral contraceptive is taken 3 or more hours late
+- •The potential side effects of progestin-only oral contraceptives, particularly menstrual irregularities
+- •The need to inform the clinician of prolonged episodes of bleeding, amenorrhea or severe abdominal pain
 - The importance of using a barrier method in addition to progestin-only oral contraceptives if a woman is at risk of contracting or transmitting STDs/HIV
