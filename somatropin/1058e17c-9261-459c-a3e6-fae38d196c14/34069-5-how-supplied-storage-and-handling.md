@@ -1,56 +1,27 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NorditropinFlexPro prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, and 15 mg/1.5 mL:
+Norditropin FlexPro prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, and 15 mg/1.5 mL:
 
-Norditropin FlexPro is individually cartoned in 5 mg/1.5 mL, 10 mg/1.5 mL, or 15 mg/1.5 mL prefilled pens.
+Norditropin FlexPro is individually cartoned as 5 mg/1.5 mL, 10 mg/1.5 mL, or 15 mg/1.5 mL prefilled pens.
 
 - •Norditropin FlexPro 5 mg/1.5 mL (orange) NDC 0169-7704-21
 - •Norditropin FlexPro 10 mg/1.5 mL (blue) NDC 0169-7705-21
 - •Norditropin FlexPro 15 mg/1.5 mL (green) NDC 0169-7708-21
 
-NorditropinNordiFlex prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
+Norditropin NordiFlex prefilled pen [somatropin (rDNA origin) injection] 30 mg/3 mL:
 
-NorditropinNordiFlex is individually cartoned in 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL or 30 mg/3 mL prefilled pens.
+Norditropin NordiFlex is individually cartoned as a 30 mg/3 mL prefilled pen.
 
-- •Norditropin NordiFlex 5 mg/1.5 mL (orange) NDC 0169-7704-11
-- •Norditropin NordiFlex 10 mg/1.5 mL (blue) NDC 0169-7705-11
-- •Norditropin NordiFlex 15 mg/1.5 mL (green) NDC 0169-7708-11
 - •Norditropin NordiFlex 30 mg/3 mL (purple) NDC 0169-7703-11
 
-Unused Norditropin NordiFlex and FlexPro prefilled pens must be stored at 2-8°C/36-46°F (refrigerator).
+Norditropin Flexpro 5 mg/1.5 mL (orange),10 mg/1.5 mL (blue), 15mg/1.5 mL (green) and NordiFlex 30 mg/3 mL (purple) prefilled pens:
+
+Unused Norditropin FlexPro and NordiFlex prefilled pens must be stored at 2°C-8°C/36°F-46°F (refrigerator).
 Do not freeze.
 Avoid direct light.
 
-5 mg/1.5 mL (orange) and 10 mg/1.5 mL (blue) prefilled pens:
-
-After the initial injection, a Norditropin FlexPro or Norditropin NordiFlex (5 mg/1.5 mL or 10 mg/1.5 mL) prefilled pen may be EITHER stored in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks OR stored for up to 3 weeks at not more than 25ºC (77ºF).
+After the initial injection, a Norditropin FlexPro or NordiFlex prefilled pen may be EITHER stored in the refrigerator (2ºC-8ºC/36ºF-46ºF) and used within 4 weeks OR stored for up to 3 weeks at room temperature not more than 25ºC (77ºF).
 Discard unused portion.
-
-15 mg/1.5 mL (green) and 30 mg/3 mL (purple) prefilled pens:
-
-After the initial injection, a Norditropin FlexPro 15 mg/1.5 mL or Norditropin NordiFlex (15 mg/1.5 mL or 30 mg/3 mL) prefilled pen must be stored in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks.
-Discard unused portion after 4 weeks.
-
-Norditropin Cartridges [somatropin (rDNA origin) injection] 5 mg/1.5 mL and 15 mg/1.5 mL:
-
-Norditropin is individually cartoned in 5 mg/1.5 mL or 15 mg/1.5 mL cartridges which must be administered using the corresponding color-coded NordiPen delivery system.
-
-- •Norditropin Cartridges 5 mg/1.5 mL (orange) NDC 0169-7768-11
-- •Norditropin Cartridges 15 mg/1.5 mL (green) NDC 0169-7770-11
-
-Unused Norditropin cartridges must be stored at 2-8°C/36-46°F (refrigerator).
-Do not freeze.
-Avoid direct light.
-
-5 mg/1.5 mL (orange) cartridges:
-
-After a Norditropin cartridge (5 mg/1.5 mL) has been inserted into its NordiPen delivery system (NordiPen 5), it may be EITHER stored in the pen in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks OR stored for up to 3 weeks at not more than 25ºC (77ºF).
-Discard unused portion.
-
-15 mg/1.5 mL (green) cartridges:
-
-After a Norditropin cartridge (15 mg/1.5 mL) has been inserted into its NordiPen delivery system (NordiPen 15), it must be stored in the pen in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks.
-Discard unused portion after 4 weeks.
 
 Table 10 - Storage Options
 
@@ -58,6 +29,6 @@ Table 10 - Storage Options
 | --- | --- | --- | --- |
 | Storage requirement | Storage Option 1(Refrigeration) | Storage Option 2(Room temperature) |  |
 | 5 mg | 2-8 ºC/36-46 ºF Until exp date | 2-8 ºC/36-46 ºF4 weeks | Up to 25ºC/77ºF3 weeks |
-| 10 mg | 2-8 ºC/36-46 ºF4 weeks | Up to 25ºC/77ºF3 weeks |  |
-| 15 mg | 2-8 ºC/36-46 ºF4 weeks | Does Not Apply |  |
-| 30 mg | 2-8 ºC/36-46 ºF4 weeks | Does Not Apply |  |
+| 10 mg |  |  |  |
+| 15 mg |  |  |  |
+| 30 mg |  |  |  |

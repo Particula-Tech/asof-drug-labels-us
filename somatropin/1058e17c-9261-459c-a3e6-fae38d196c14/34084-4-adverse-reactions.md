@@ -139,6 +139,6 @@ It is uncertain whether these cases of leukemia are related to GH therapy, the p
 On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
 The risk for children with GHD, if any, remains to be established [see Contraindications (4.3) and Warnings and Precautions (5.3)].
 
-The following additional adverse reactions have been observed during the appropriate use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.14)])..
+The following additional adverse reactions have been observed during the appropriate use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.14)]).
 
 New-onset type 2 diabetes mellitus has been reported.

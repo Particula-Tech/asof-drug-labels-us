@@ -61,21 +61,13 @@ Oral estrogen administration may increase the dose requirements in women.
 
 ## 2.3 Preparation and Administration
 
-Norditropin®FlexPro® 5 mg/ 1.5 mL, 10 mg/1.5 mL and 15 mg/1.5 mL:
+Norditropin® FlexPro® 5 mg/1.5 mL, 10 mg/1.5 mL and 15 mg/1.5 mL:
 
 Instructions for delivering the dosage are provided in the PATIENT INFORMATION and INSTRUCTIONS FOR USE leaflets enclosed with the Norditropin FlexPro prefilled pen.
 
-NorditropinNordiFlex® 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
+Norditropin NordiFlex® 30 mg/3 mL:
 
 Instructions for delivering the dosage are provided in the PATIENT INFORMATION and INSTRUCTIONS FOR USE leaflets enclosed with the Norditropin NordiFlex prefilled pen.
-
-Norditropin Cartridges must be administered using the NordiPen delivery systems.
-Each cartridge size has a corresponding, color-coded pen which is graduated to deliver the appropriate dose based on the concentration of Norditropin in the cartridge.
-
-Norditropin® Cartridges 5 mg/1.5 mL and 15 mg/1.5 mL:
-
-Each cartridge of Norditropin must be inserted into its corresponding NordiPen delivery system.
-Instructions for delivering the dosage are provided in the NordiPen INSTRUCTION booklet.
 
 Parenteral drug products should always be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Norditropin MUST NOT BE INJECTED if the solution is cloudy or contains particulate matter.

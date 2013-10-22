@@ -39,7 +39,7 @@ In healthy subjects, large doses of somatropin may impair glucose tolerance.
 Although the precise mechanism of the diabetogenic effect of somatropin is not known, it is attributed to blocking the action of insulin rather than blocking insulin secretion.
 Insulin levels in serum actually increase as somatropin levels increase.
 Administration of human growth hormone to normal adults and patients with growth hormone deficiency results in increases in mean serum fasting and postprandial insulin levels, although mean values remain in the normal range.
-In addition, mean fasting and postprandial glucose and hemoglobin A1C levels remain in the normal range.
+In addition, mean fasting and postprandial glucose and hemoglobin A1c levels remain in the normal range.
 
 Lipid Metabolism
 

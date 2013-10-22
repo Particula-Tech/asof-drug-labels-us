@@ -4,7 +4,7 @@ Norditropin is a polypeptide hormone of recombinant DNA origin.
 The hormone is synthesized by a special strain of E. coli bacteria that has been modified by the addition of a plasmid which carries the gene for human growth hormone.
 Norditropin contains the identical sequence of 191 amino acids constituting the naturally occurring pituitary human growth hormone with a molecular weight of about 22,000 Daltons.
 
-Norditropin cartridges are supplied as sterile solutions for subcutaneous injection in ready-to-administer cartridges or prefilled pens with a volume of 1.5 mL or 3 mL.
+Norditropin is supplied as a sterile solution for subcutaneous injection in ready-to-administer prefilled pens with a volume of 1.5 mL or 3 mL.
 
 Each Norditropin Cartridge contains the following (see Table 2):
 
