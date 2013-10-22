@@ -1,5 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-DISKETS are contraindicated in patients with a known hypersensitivity to methadone hydrochloride or any other ingredient in DISKETS.
-Methadone is contraindicated in any situation where opioids are contraindicated such as: patients with respiratory depression (in the absence of resuscitative equipment or in unmonitored settings), and in patients with acute bronchial asthma or hypercarbia.
-Methadone is contraindicated in any patient who has or is suspected of aving a paralytic ileus.
+DISKETS Dispersible Tablets are contraindicated in patients with:
+
+- •Significant respiratory depression
+- •Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment
+- •Known or suspected paralytic ileus
+- •Hypersensitivity (e.g. anaphylaxis) to methadone or any other ingredient in DISKETS Dispersible Tablets [see Adverse Reactions (6)]

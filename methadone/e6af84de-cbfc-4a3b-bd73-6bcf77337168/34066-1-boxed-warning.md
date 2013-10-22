@@ -1,18 +1,27 @@
-Deaths have been reported during initiation of methadone treatmentfor opioid dependence.
-In some cases, drug interactionswith other drugs, both licit and illicit, have been suspected.
-However, in other cases, deaths appear to have occurred due tothe respiratory or cardiac effects of methadone and too-rapidtitration without appreciation for the accumulation of methadoneover time.
-It is critical to understand the pharmacokinetics ofmethadone and to exercise vigilance during treatment initiationand dose titration (see DOSAGE AND ADMINISTRATION).Patients must also be strongly cautioned against self-medicatingwith CNS depressants during initiation of methadone treatment.Respiratory depression is the chief hazard associated withmethadone hydrochloride administration.
-Methadone’s peak respiratorydepressant effects typically occur later, and persistlonger than its peak analgesic effects, particularly in the earlydosing period.
-These characteristics can contribute to cases ofiatrogenic overdose, particularly during treatment initiation anddose titration.
+# WARNING: LIFE-THREATENING RESPIRATORY DEPRESSION, LIFE-THREATENING QT PROLONGATION, ACCIDENTAL EXPOSURE, ABUSE POTENTIAL and TREATMENT FOR OPIOID ADDICTION
 
-Cases of QT interval prolongation and serious arrhythmia (torsadesde pointes) have been observed during treatment withmethadone.
-Most cases involve patients being treated for painwith large, multiple daily doses of methadone, although caseshave been reported in patients receiving doses commonly usedfor maintenance treatment of opioid addiction.
+Life-threatening Respiratory Depression
 
-Conditions for Distribution and Use of Methadone Productsfor the Treatment of Opioid AddictionCode of Federal Regulations, Title 42, Sec 8
+Respiratory depression, including fatal cases, have been reported during initiation and conversion of patients to methadone, and even when the drug has been used as recommended and not misused or abused [see Warnings and Precautions (5.1)].
+Proper dosing and titration are essential and DISKETS Dispersible Tablets should only be prescribed by healthcare professionals who are knowledgeable in the use of methadone for detoxification and maintenance treatment of opioid addiction.
+Monitor for respiratory depression, especially during initiation of DISKETS Dispersible Tablets or following a dose increase.
+The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period.
 
-Methadone products when used for the treatment of opioid addiction in detoxification or maintenance programs, shall be dispensed only by opioid treatment programs (and agencies, practitioners or institutions by formal agreement with the program sponsor) certified by the Substance Abuse and Mental Health Services Administration and approved by the designated state authority.
-Certified treatment programs shall dispense and use methadone in oral form only and according to the treatment requirements stipulated in the Federal Opioid Treatment Standards (42 CFR 8.12).
-See below for important regulatory exceptions to the general requirement for certification to provide opioid agonist treatment.
-Failure to abide by the requirements in these regulations may result in criminal prosecution, seizure of the drug supply, revocation of the program approval, and injunction precluding operation of the program.
+Life-Threatening QT Prolongation
 
-For detoxification and maintenance of opiate dependence methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration.
+QT interval prolongation and serious arrhythmia (torsades de pointes) have occurred during treatment with methadone [see Warnings and Precautions (5.2)].
+Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
+Closely monitor patients for changes in cardiac rhythm during initiation and titration of DISKETS Dispersible Tablets.
+
+Accidental Exposure
+
+Accidental ingestion of DISKETS Dispersible Tablets, especially in children, can result in fatal overdose of methadone [see Warnings and Precautions (5.3)]
+
+Abuse Potential
+
+DISKETS Dispersible Tablets contain methadone, an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit [see Warnings and Precautions (5.4)].
+Routinely monitor all patients receiving DISKETS for signs of misuse, abuse, and addiction during treatment [see Drug Abuse and Dependence (9)].
+
+Conditions For Distribution And Use Of Methadone Products For The Treatment of Opioid Addiction
+
+For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration [see Indications and Usage (1)].
