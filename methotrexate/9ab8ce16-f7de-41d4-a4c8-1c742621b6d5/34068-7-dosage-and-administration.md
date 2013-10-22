@@ -1,0 +1,62 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Important Dosing Information
+
+Otrexup is a single-dose auto-injector for once-weekly subcutaneous use only [see Warnings and Precautions (5.5)].
+Administer Otrexup in the abdomen or the thigh.
+Otrexup is only available in doses between 10 to 25 mg in 5 mg increments.
+Use another formulation of methotrexate for alternative dosing in patients who require oral, intramuscular, intravenous, intra-arterial, or intrathecal dosing, doses less than 10 mg per week, doses more than 25 mg per week, high-dose regimens, or dose adjustments of less than 5 mg increments.
+
+## 2.2 Rheumatoid Arthritis including Polyarticular Juvenile Idiopathic Arthritis
+
+Recommended starting dose of methotrexate:
+
+Adult RA: single oral doses of 7.5 mg weekly using an oral formulation of methotrexate.
+
+pJIA: 10 mg/m2 once weekly.
+
+For patients switching from oral methotrexate to Otrexup, consider any differences in bioavailability between oral and subcutaneously administered methotrexate [see Clinical Pharmacology (12.3)].
+
+Dosages may be adjusted gradually to achieve an optimal response.
+Limited experience shows a significant increase in the incidence and severity of serious toxic reactions, especially bone marrow suppression, at doses greater than 20 mg/wk in adults.
+Although there is experience with doses up to 30 mg/m2/wk in children, there are too few published data to assess how doses over 20 mg/m2/wk might affect the risk of serious toxicity in children.
+Experience does suggest, however, that children receiving 20 to 30 mg/m2/wk (0.65 to 1.0 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
+
+Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
+
+The optimal duration of therapy is unknown.
+Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
+When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
+
+The patient should be fully informed of the risks involved and should be under constant supervision of the physician.
+Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting Otrexup therapy [see Warnings and Precautions (5.4)].
+Females of childbearing potential should not be started on Otrexup until pregnancy is excluded [see Contraindications (4) and Warnings and Precautions (5.2)]
+
+All schedules should be continually tailored to the individual patient.
+An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects.
+
+Maximal myelosuppression usually occurs in seven to ten days.
+
+## 2.3 Psoriasis
+
+Recommended starting dose of methotrexate:
+
+Psoriasis: single weekly oral, intramuscular, subcutaneous, or intravenous doses of 10-25 mg.
+
+For patients switching from oral methotrexate to Otrexup, consider any differences in bioavailability between oral and subcutaneously administered methotrexate [see Clinical Pharmacology (12.3)].
+
+Dosage may be gradually adjusted to achieve optimal clinical response; 30 mg/week should not ordinarily be exceeded.
+Once optimal clinical response has been achieved, the dosage should be reduced to the lowest possible amount of drug and to the longest possible rest period.
+The use of Otrexup may permit the return to conventional topical therapy, which should be encouraged.
+
+## 2.4 Administration and Handling
+
+Otrexup is an auto-injector intended for subcutaneous use under the guidance and supervision of a physician.
+
+Patients may self-inject with Otrexup if a physician determines that it is appropriate, if they have received proper training in how to prepare and administer the correct dose, and if they receive medical follow-up, as necessary.
+A trainer device is available for training purposes.
+
+Visually inspect Otrexup for particulate matter and discoloration prior to administration.
+Do not use Otrexup if the seal is broken.
+
+Handle and dispose of Otrexup consistent with recommendations for handling and disposal of cytotoxic drugs1.

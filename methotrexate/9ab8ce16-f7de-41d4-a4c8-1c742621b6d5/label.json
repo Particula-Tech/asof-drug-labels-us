@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA204824"
+  ],
+  "inn": "methotrexate",
+  "labeler": "Antares Pharma, Inc.",
+  "package_ndcs": [
+    "54436-010-01",
+    "54436-010-02",
+    "54436-010-04",
+    "54436-015-01",
+    "54436-015-02",
+    "54436-015-04",
+    "54436-020-01",
+    "54436-020-02",
+    "54436-020-04",
+    "54436-025-01",
+    "54436-025-02",
+    "54436-025-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "methotrexate",
+      "name": "Otrexup"
+    }
+  ],
+  "setid": "9ab8ce16-f7de-41d4-a4c8-1c742621b6d5",
+  "source": "dailymed"
+}
