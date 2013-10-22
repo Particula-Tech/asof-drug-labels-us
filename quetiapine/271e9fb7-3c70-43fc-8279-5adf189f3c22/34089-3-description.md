@@ -9,7 +9,7 @@ The structural formula is:
 
 Quetiapine fumarate is a white to off-white crystalline powder which is moderately soluble in water.
 
-Quetiapine Fumarate Tablets are supplied for oral administration as 25 mg, 50 mg, 100 mg, 200 mg, 300 mg, and 400 mg tablets.
+Quetiapine Fumarate Tablets are supplied for oral administration as 25 mg (round, white), 50 mg (oval, white), 100 mg (round white), 200 mg (round, white), 300 mg (oval, white), and 400 mg (oval, white) tablets.
 
 Inactive ingredients in the 25 mg tablet are lactose, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
 

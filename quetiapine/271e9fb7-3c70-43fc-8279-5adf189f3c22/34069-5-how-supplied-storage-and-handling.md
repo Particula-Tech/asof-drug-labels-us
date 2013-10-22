@@ -32,6 +32,4 @@ The 400 mg tablets are oval and debossed with product identification "54 735" on
 | 0054-0230-25 | 400 mg, white tablet, bottle of 100 |
 | 0054-0230-20 | 400 mg, white tablet, 10x10 unit dose |
 
-## Storage
-
 Store at 25ºC (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP].

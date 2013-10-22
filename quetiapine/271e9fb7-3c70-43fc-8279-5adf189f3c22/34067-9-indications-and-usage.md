@@ -3,16 +3,13 @@
 ## 1.1 Schizophrenia
 
 Quetiapine Fumarate Tablets are indicated for the treatment of schizophrenia.
-The efficacy of Quetiapine Fumarate Tablets in schizophrenia was established in three 6-week trials in adults.
+The efficacy of Quetiapine Fumarate Tablets in schizophrenia was established in three 6-week trials in adults and one 6-week trial in adolescents (13 to 17 years).
 The effectiveness of Quetiapine Fumarate Tablets for the maintenance treatment of schizophrenia has not been systematically evaluated in controlled clinical trials [see Clinical Studies (14.1)].
-
-Pediatric use information in patients (13 to 17 years of age) with schizophrenia is approved for AstraZeneca Pharmaceuticals LP’s quetiapine fumarate drug product labeling.
-However, due to AstraZeneca Pharmaceuticals LP’s marketing exclusivity rights; this drug product is not labeled for such use in those adolescent patients.
 
 ## 1.2 Bipolar Disorder
 
 Quetiapine Fumarate Tablets are indicated for the acute treatment of manic episodes associated with bipolar I disorder, both as monotherapy and as an adjunct to lithium or divalproex.
-Efficacy was established in two 12-week monotherapy trials in adults, in one 3-week adjunctive trial in adults [see Clinical Studies (14.2)].
+Efficacy was established in two 12-week monotherapy trials in adults, in one 3-week adjunctive trial in adults, and in one 3-week monotherapy trial in pediatric patients (10 to 17 years) [see Clinical Studies (14.2)].
 
 Quetiapine Fumarate Tablets are indicated as monotherapy for the acute treatment of depressive episodes associated with bipolar disorder.
 Efficacy was established in two 8-week monotherapy trials in adult patients with bipolar I and bipolar II disorder [see Clinical Studies (14.2)].
@@ -21,10 +18,9 @@ Quetiapine Fumarate Tablets are indicated for the maintenance treatment of bipol
 Efficacy was established in two maintenance trials in adults.
 The effectiveness of Quetiapine Fumarate Tablets as monotherapy for the maintenance treatment of bipolar disorder has not been systematically evaluated in controlled clinical trials [see Clinical Studies (14.2)].
 
-Pediatric use information in patients (10 to 17 years of age) with bipolar mania is approved for AstraZeneca Pharmaceuticals LP’s quetiapine fumarate drug product labeling.
-However, due to AstraZeneca Pharmaceuticals LP’s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
-
 ## 1.3 Special Considerations in Treating Pediatric Schizophrenia and Bipolar I Disorder
 
-Pediatric use information in patients (13 to 17 years of age) with schizophrenia, and patients (10 to 17 years of age) with bipolar mania is approved for AstraZeneca Pharmaceuticals LP’s quetiapine fumarate drug product labeling.
-However, due to AstraZeneca Pharmaceuticals LP’s marketing exclusivity rights; this drug product is not labeled for such use in those patients.
+Pediatric schizophrenia and bipolar I disorder are serious mental disorders, however, diagnosis can be challenging.
+For pediatric schizophrenia, symptom profiles can be variable, and for bipolar I disorder, patients may have variable patterns of periodicity of manic or mixed symptoms.
+It is recommended that medication therapy for pediatric schizophrenia and bipolar I disorder be initiated only after a thorough diagnostic evaluation has been performed and careful consideration given to the risks associated with medication treatment.
+Medication treatment for both pediatric schizophrenia and bipolar I disorder is indicated as part of a total treatment program that often includes psychological, educational and social interventions.
