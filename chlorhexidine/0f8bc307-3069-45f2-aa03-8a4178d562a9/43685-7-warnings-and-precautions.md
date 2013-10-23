@@ -32,7 +32,7 @@ Because animal reproduction studies are not always predictive of human response,
 Nursing Mothers: It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when chlorhexidine gluconate oral rinse is administered to nursing women.
 
-In parturition and lactation studies with rats, no evidence of impaired parturition or of toxic effects to suckling pups was observed when chlorhexidine gluconate was administered to dams at doses that were over 100 times greater than that which would result from a person’s ingesting 30 mL (2 capfuls) of chlorhexidine gluconate oral rinse per day.
+In parturition and lactation studies with rats, no evidence of impaired parturition or of toxic effects to suckling pups was observed when chlorhexidine gluconate was administered to dams at doses that were over 100 times greater than that which would result from a person's ingesting 30 mL (2 capfuls) of chlorhexidine gluconate oral rinse per day.
 
 Pediatric Use: Clinical effectiveness and safety of chlorhexidine gluconate oral rinse have not been established in children under age of 18.
 

@@ -1,7 +1,7 @@
 SUPERDENT Mint CHLORHEXIDINE GLUCONATE ORAL RINSE 0.12 % Ingredients: 0.12 % chlorhexidine gluconate in a base containing water, 11.6 % alcohol, glycerin, PEG-40 sorbitan diisostearate, flavor, sodium saccharin and FD and C Blue No.1.
 Rx Only KEEP OUT OF REACH OF CHILDREN 1 Pint (473 ml) NDC 66467-256-01 M071707V.2
 
-DIRECTIONS FOR USE: Fill cap to the “fill line” (15 mL).
+DIRECTIONS FOR USE: Fill cap to the "fill line" (15 mL).
 Swish in mouth undiluted for 30 seconds, then spit out.
 Use after breakfast and before bedtime.
 Or, use as prescribed.
