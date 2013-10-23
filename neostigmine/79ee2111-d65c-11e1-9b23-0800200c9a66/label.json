@@ -5,7 +5,9 @@
   "inn": "neostigmine",
   "labeler": "Éclat Pharmaceuticals, LLC",
   "package_ndcs": [
+    "76014-002-10",
     "76014-002-33",
+    "76014-003-10",
     "76014-003-33"
   ],
   "products": [
