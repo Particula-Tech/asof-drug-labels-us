@@ -23,8 +23,8 @@ They are supplied as follows:
 Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 SYNTHROID tablets should be protected from light and moisture.
 
-Abbott Laboratories
+AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-03–A500 June 2011
+03-A663 September, 2012
