@@ -1,6 +1,6 @@
 # Medication Guide
 
-Mirtazapine Tablets, USP
+Mirtazapine (mir taz’ a peen) Tablets, USP
 
 Read the Medication Guide that comes with mirtazapine tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -25,8 +25,8 @@ Keep all follow-up visits with your healthcare provider and call between visits 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
 - attempts to commit suicide
-- acting on dangerous impulses acting aggressive or violent
-- Acting aggressive or violent
+- acting on dangerous impulses
+- acting aggressive or violent
 - thoughts about suicide or dying
 - new or worse depression
 - new or worse anxiety or panic attacks
@@ -119,7 +119,7 @@ Mirtazapine tablets are a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
 You should discuss all treatment choices with your healthcare provider.
 
-Talk to your healthcare provider if you do not think that your condition is getting better with Mirtazapine Tablets treatment.
+Talk to your healthcare provider if you do not think that your condition is getting better with mirtazapine tablets treatment.
 
 Who should not take mirtazapine tablets?
 
@@ -177,7 +177,7 @@ Do not start or stop any medicine while taking mirtazapine tablets without talki
 | If you take mirtazapine tablets, you should not take any other medicines that contain mirtazapine including mirtazapine tablets SolTab. |
 | --- |
 
-How should I take mirtazapine tablets ?
+How should I take mirtazapine tablets?
 
 - Take mirtazapine tablets exactly as prescribed.
   Your healthcare provider may need to change the dose of mirtazapine tablets until it is the right dose for you.
@@ -232,7 +232,7 @@ General information about mirtazapine tablets, USP Medicines are sometimes presc
 Do not use mirtazapine tablets for a condition for which it was not prescribed.
 Do not give mirtazapine tablets to other people, even if they have the same condition.
 It may harm them.
-This Medication guide summarizes the most important information about mirtazapine tablets.
+This Medication Guide summarizes the most important information about mirtazapine tablets.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about mirtazapine tablets that is written for healthcare professionals.
 
@@ -248,4 +248,12 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: December 2012
+Manufactured by: Manufactured for:
+
+Apotex Inc. Apotex Corp.
+
+Toronto, Ontario Weston, Florida
+
+Canada M9L 1T9 33326
+
+Revised: October 2013

@@ -60,7 +60,7 @@ There have been no clinical studies to evaluate the effect of race on the pharma
 
 The disposition of mirtazapine was studied in patients with varying degrees of renal function.
 Elimination of mirtazapine is correlated with creatinine clearance.
-Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11 to 39 mL/min/1.73 m2) and approximately 50% in patients with severe (Clcr = < 10 mL/min/1.73 m2) renal impairment when compared to normal subjects.
+Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11 to 39 mL/min/1.73 m2) and approximately 50% in patients with severe (Clcr = <10 mL/min/1.73 m2) renal impairment when compared to normal subjects.
 Caution is indicated in administering mirtazapine tablets to patients with compromised renal function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ### Hepatic Insufficiency
@@ -80,7 +80,7 @@ A fifth study of similar design utilized a higher dose (up to 50 mg) per day and
 Examination of age and gender subsets of the population did not reveal any differential responsiveness on the basis of these subgroupings.
 
 In a longer-term study, patients meeting (DSM-IV) criteria for major depressive disorder who had responded during an initial 8 to 12 weeks of acute treatment on mirtazapine tablets were randomized to continuation of mirtazapine tablets or placebo for up to 40 weeks of observation for relapse.
-Response during the open phase was defined as having achieved a HAM-D 17 total score of ≤ 8 and a CGI-Improvement score of 1 or 2 at two consecutive visits beginning with week 6 of the 8 to 12 weeks in the open-label phase of the study.
+Response during the open phase was defined as having achieved a HAM-D 17 total score of ≤8 and a CGI-Improvement score of 1 or 2 at two consecutive visits beginning with week 6 of the 8 to 12 weeks in the open-label phase of the study.
 Relapse during the double-blind phase was determined by the individual investigators.
 Patients receiving continued mirtazapine tablets treatment experienced significantly lower relapse rates over the subsequent 40 weeks compared to those receiving placebo.
 This pattern was demonstrated in both male and female patients.

@@ -36,6 +36,7 @@ The following symptoms, anxiety, agitation, panic attacks, insomnia, irritabilit
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for mirtazapine tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
@@ -50,7 +51,7 @@ It should be noted that mirtazapine tablets are not approved for use in treating
 
 ## Agranulocytosis
 
-In premarketing clinical trials, two (one with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) < 500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC < 500/mm3 without any associated symptoms).
+In premarketing clinical trials, two (one with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
 For these three patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All three patients recovered after mirtazapine tablets were stopped.
 These three cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
@@ -113,18 +114,18 @@ It is unclear whether or not tolerance develops to the dizziness observed in ass
 ### Increased Appetite/Weight Gain
 
 In US controlled studies, appetite increase was reported in 17% of patients treated with mirtazapine tablets, compared to 2% for placebo and 6% for amitriptyline.
-In these same trials, weight gain of ≥ 7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
+In these same trials, weight gain of ≥7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
 In a pool of premarketing US studies, including many patients for long-term, open-label treatment, 8% of patients receiving mirtazapine tablets discontinued for weight gain.
 In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use).
 
 ### Cholesterol/Triglycerides
 
-In US controlled studies, nonfasting cholesterol increases to ≥ 20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine tablets, compared to 7% for placebo and 8% for amitriptyline.
-In these same studies, nonfasting triglyceride increases to ≥ 500 mg/dL were observed in 6% of patients treated with mirtazapine, compared to 3% for placebo and 3% for amitriptyline.
+In US controlled studies, nonfasting cholesterol increases to ≥20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine tablets, compared to 7% for placebo and 8% for amitriptyline.
+In these same studies, nonfasting triglyceride increases to ≥500 mg/dL were observed in 6% of patients treated with mirtazapine, compared to 3% for placebo and 3% for amitriptyline.
 
 ### Transaminase Elevations
 
-Clinically significant ALT (SGPT) elevations (≥ 3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients exposed to mirtazapine tablets in a pool of short-term US controlled trials, compared to 0.3% (1/328) of placebo patients and 2.0% (3/181) of amitriptyline patients.
+Clinically significant ALT (SGPT) elevations (≥3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients exposed to mirtazapine tablets in a pool of short-term US controlled trials, compared to 0.3% (1/328) of placebo patients and 2.0% (3/181) of amitriptyline patients.
 Most of these patients with ALT increases did not develop signs or symptoms associated with compromised liver function.
 While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued mirtazapine treatment.
 Mirtazapine tablets should be used with caution in patients with impaired hepatic function (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
@@ -150,7 +151,7 @@ Mirtazapine tablets were associated with significant orthostatic hypotension in 
 Orthostatic hypotension was infrequently observed in clinical trials with depressed patients.
 Mirtazapine tablets should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
 
-Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) = 11 to 39 mL/min/1.73 m2] and severe [GFR < 10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
+Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) =11 to 39 mL/min/1.73 m2] and severe [GFR <10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
 Caution is indicated in administering mirtazapine tablets to such patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
