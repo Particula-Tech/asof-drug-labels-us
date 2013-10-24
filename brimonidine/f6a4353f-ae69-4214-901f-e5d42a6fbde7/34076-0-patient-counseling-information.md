@@ -15,9 +15,13 @@ Patients using MIRVASO topical gel should receive the following information and 
 
 Marketed by:
 
-GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA
+GALDERMA LABORATORIES, L.P.
 
-Manufactured by: G Production Inc.
+Fort Worth, Texas 76177 USA
+
+Manufactured by:
+
+G Production Inc.
 
 Baie d’Urfé, QC, H9X 3S4 Canada
 

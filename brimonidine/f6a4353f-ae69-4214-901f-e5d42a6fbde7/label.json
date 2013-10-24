@@ -5,6 +5,8 @@
   "inn": "brimonidine",
   "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
+    "0299-5980-00",
+    "0299-5980-02",
     "0299-5980-30",
     "0299-5980-45"
   ],
