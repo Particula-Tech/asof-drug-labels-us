@@ -270,6 +270,34 @@ Mean Qmax increased from baseline in both the treatment and placebo groups (CIAL
 In Study K, the effect of CIALIS 5 mg once daily on Qmax was evaluated as a safety endpoint.
 Mean Qmax increased from baseline in both the treatment and placebo groups (CIALIS 5 mg: 1.6 mL/sec, placebo: 1.1 mL/sec); however, these changes were not significantly different between groups.
 
+Efficacy Results in Patients with BPH initiating CIALIS and Finasteride – CIALIS for once daily use initiated together with finasteride was shown to be effective in treating the signs and symptoms of BPH in men with an enlarged prostate (>30 cc) for up to 26 weeks.
+This additional double-blinded, parallel-design study of 26 weeks duration randomized 696 men to initiate either CIALIS 5 mg with finasteride 5 mg or placebo with finasteride 5 mg.
+The study population had a mean age of 64 years (range 46-86).
+Patients with multiple co-morbid conditions such as erectile dysfunction, diabetes mellitus, hypertension, and other cardiovascular disease were included.
+
+CIALIS with finasteride demonstrated statistically significant improvement in the signs and symptoms of BPH compared to placebo with finasteride, as measured by the total IPSS at 12 weeks, the primary study endpoint (see Table 20).
+Key secondary endpoints demonstrated improvement in total IPSS starting at the first scheduled observation at week 4 (CIALIS -4.0, placebo -2.3: p<.001) and the score remained decreased through 26 weeks (CIALIS -5.5, placebo -4.5; p=.022).
+However, the magnitude of the treatment difference between placebo/finasteride and CIALIS/finasteride decreased from 1.7 points at Week 4 to 1.0 point at Week 26, as shown in Table 20 and in Figure 7.
+The incremental benefit of CIALIS beyond 26 weeks is unknown.
+
+Table 20: Mean Total IPSS Changes in BPH Patients in a CIALIS for Once Daily Use Study Together with Finasteride
+
+|  |  | Placebo and finasteride 5 mg |  | CIALIS 5mg and finasteride 5 mg | Treatment difference |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| n | (N=350)a | n | (N=345)a |  | p-valueb |  |
+| Total Symptom Score (IPSS) |  |  |  |  |  |  |
+| Baselinec | 349 | 17.4 | 344 | 17.1 |  |  |
+| Change from Baseline to Week 4b | 340 | -2.3 | 330 | -4.0 | -1.7 | <.001 |
+| Change from Baseline to Week 12b | 318 | -3.8 | 317 | -5.2 | -1.4 | .001 |
+| Change from Baseline to Week 26b | 295 | -4.5 | 308 | -5.5 | -1.0 | .022 |
+| a Overall ITT population. |  |  |  |  |  |  |
+| b Mixed model for repeated measurements. |  |  |  |  |  |  |
+| c Unadjusted mean. |  |  |  |  |  |  |
+
+In the 404 patients who had both ED and BPH at baseline, changes in erectile function were assessed as key secondary endpoints using the EF domain of the IIEF questionnaire.
+CIALIS with finasteride (N=203) was compared to placebo with finasteride (N=201).
+A statistically significant improvement from baseline (CIALIS/finasteride 13.7, placebo/finasteride 15.1) was observed at week 4 (CIALIS/finasteride 3.7, placebo/finasteride -1.1; p<.001), week 12 (CIALIS/finasteride 4.7, placebo/finasteride 0.6; p<.001), and week 26 (CIALIS/finasteride 4.7, placebo/finasteride 0.0; p<.001).
+
 ## 14.4 CIALIS 5 mg for Once Daily Use for ED and BPH
 
 The efficacy and safety of CIALIS for once daily use for the treatment of ED, and the signs and symptoms of BPH, in patients with both conditions was evaluated in one placebo-controlled, multinational, double-blind, parallel-arm study which randomized 606 patients to receive either CIALIS 2.5 mg, 5 mg, for once daily use or placebo.
@@ -281,13 +309,13 @@ In this study, the co-primary endpoints were total IPSS and the Erectile Functio
 One of the key secondary endpoints in this study was Question 3 of the Sexual Encounter Profile diary (SEP3).
 Timing of sexual activity was not restricted relative to when patients took CIALIS.
 
-The efficacy results for patients with both ED and BPH, who received either CIALIS 5 mg for once daily use or placebo (N=408) are shown in Tables 20 and 21 and Figure 7.
+The efficacy results for patients with both ED and BPH, who received either CIALIS 5 mg for once daily use or placebo (N=408) are shown in Tables 21 and 22 and Figure 8.
 
 CIALIS 5 mg for once daily use resulted in statistically significant improvements in the total IPSS and in the EF domain of the IIEF questionnaire.
 CIALIS 5 mg for once daily use also resulted in statistically significant improvement in SEP3.
 CIALIS 2.5 mg did not result in statistically significant improvement in the total IPSS.
 
-Table 20: Mean IPSS and IIEF EF Domain Changes in the CIALIS 5 mg for Once Daily Use Study in Patients with ED and BPH
+Table 21: Mean IPSS and IIEF EF Domain Changes in the CIALIS 5 mg for Once Daily Use Study in Patients with ED and BPH
 
 |  | Placebo | CIALIS 5 mg | p-value |
 | --- | --- | --- | --- |
@@ -301,7 +329,7 @@ Table 20: Mean IPSS and IIEF EF Domain Changes in the CIALIS 5 mg for Once Daily
 | Endpoint | 17.6 | 22.9 |  |
 | Change from Baseline to Week 12 | 1.9 | 6.5 | <.001 |
 
-Table 21: Mean SEP Question 3 Changes in the CIALIS 5 mg for Once Daily Use Study in Patients with ED and BPH
+Table 22: Mean SEP Question 3 Changes in the CIALIS 5 mg for Once Daily Use Study in Patients with ED and BPH
 
 |  | Placebo | CIALIS 5 mg |  |
 | --- | --- | --- | --- |
@@ -311,7 +339,7 @@ Table 21: Mean SEP Question 3 Changes in the CIALIS 5 mg for Once Daily Use Stud
 | Endpoint | 48% | 72% |  |
 | Change from Baseline to Week 12 | 12% | 32% | <.001 |
 
-CIALIS for once daily use resulted in improvement in the IPSS total score at the first scheduled observation (week 2) and throughout the 12 weeks of treatment (see Figure 7).
+CIALIS for once daily use resulted in improvement in the IPSS total score at the first scheduled observation (week 2) and throughout the 12 weeks of treatment (see Figure 8).
 
 In this study, the effect of CIALIS 5 mg once daily on Qmax was evaluated as a safety endpoint.
 Mean Qmax increased from baseline in both the treatment and placebo groups (CIALIS 5 mg: 1.6 mL/sec, placebo: 1.2 mL/sec); however, these changes were not significantly different between groups.

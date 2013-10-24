@@ -11,18 +11,18 @@ Alpha-Blockers — Caution is advised when PDE5 inhibitors are coadministered wi
 PDE5 inhibitors, including CIALIS, and alpha-adrenergic blocking agents are both vasodilators with blood-pressure-lowering effects.
 When vasodilators are used in combination, an additive effect on blood pressure may be anticipated.
 Clinical pharmacology studies have been conducted with coadministration of tadalafil with doxazosin, tamsulosin or alfuzosin.
-[See Dosage and Administration (2.7), Warnings and Precautions (5.6), and Clinical Pharmacology (12.2)].
+[see Dosage and Administration (2.7), Warnings and Precautions (5.6), and Clinical Pharmacology (12.2)].
 
 Antihypertensives — PDE5 inhibitors, including tadalafil, are mild systemic vasodilators.
 Clinical pharmacology studies were conducted to assess the effect of tadalafil on the potentiation of the blood-pressure-lowering effects of selected antihypertensive medications (amlodipine, angiotensin II receptor blockers, bendrofluazide, enalapril, and metoprolol).
 Small reductions in blood pressure occurred following coadministration of tadalafil with these agents compared with placebo.
-[See Warnings and Precautions (5.6) and Clinical Pharmacology (12.2)].
+[see Warnings and Precautions (5.6) and Clinical Pharmacology (12.2)].
 
 Alcohol — Both alcohol and tadalafil, a PDE5 inhibitor, act as mild vasodilators.
 When mild vasodilators are taken in combination, blood-pressure-lowering effects of each individual compound may be increased.
 Substantial consumption of alcohol (e.g., 5 units or greater) in combination with CIALIS can increase the potential for orthostatic signs and symptoms, including increase in heart rate, decrease in standing blood pressure, dizziness, and headache.
 Tadalafil did not affect alcohol plasma concentrations and alcohol did not affect tadalafil plasma concentrations.
-[See Warnings and Precautions (5.9) and Clinical Pharmacology (12.2)].
+[see Warnings and Precautions (5.9) and Clinical Pharmacology (12.2)].
 
 ## 7.2 Potential for Other Drugs to Affect CIALIS
 

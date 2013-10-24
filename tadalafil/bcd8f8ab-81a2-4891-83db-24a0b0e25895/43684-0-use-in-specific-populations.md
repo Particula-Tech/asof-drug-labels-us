@@ -4,9 +4,10 @@
 
 Pregnancy Category B — CIALIS (tadalafil) is not indicated for use in women.
 There are no adequate and well controlled studies of CIALIS use in pregnant women.
-Animal reproduction studies in rats and mice revealed no evidence of fetal harm.
 
-Animal reproduction studies showed no evidence of teratogenicity, embryotoxicity, or fetotoxicity when tadalafil was given to pregnant rats or mice at exposures up to 11 times the maximum recommended human dose (MRHD) of 20 mg/day during organogenesis.
+Risk Summary — Based on animal data, CIALIS is not predicted to increase the risk of adverse developmental abnormalities in humans.
+
+Animal Data — Animal reproduction studies showed no evidence of teratogenicity, embryotoxicity, or fetotoxicity when tadalafil was given to pregnant rats or mice at exposures up to 11 times the maximum recommended human dose (MRHD) of 20 mg/day during organogenesis.
 In one of two perinatal/postnatal developmental studies in rats, postnatal pup survival decreased following maternal exposure to tadalafil doses greater than 10 times the MRHD based on AUC.
 Signs of maternal toxicity occurred at doses greater than 16 times the MRHD based on AUC.
 Surviving offspring had normal development and reproductive performance.
@@ -20,8 +21,6 @@ Tadalafil and/or its metabolites cross the placenta, resulting in fetal exposure
 ## 8.3 Nursing Mothers
 
 CIALIS is not indicated for use in women.
-It is not known whether tadalafil is excreted into human milk.
-While tadalafil or some metabolite of tadalafil was excreted into rat milk, drug levels in animal breast milk may not accurately predict levels of drug in human breast milk.
 
 Tadalafil and/or its metabolites were secreted into the milk in lactating rats at concentrations approximately 2.4-fold greater than found in the plasma.
 
@@ -37,13 +36,13 @@ Of the total number of subjects in BPH clinical studies of tadalafil (including 
 In these clinical trials, no overall differences in efficacy or safety were observed between older (>65 and ≥75 years of age) and younger subjects (≤65 years of age).
 Therefore no dose adjustment is warranted based on age alone.
 However, a greater sensitivity to medications in some older individuals should be considered.
-[See Clinical Pharmacology (12.3)].
+[see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
 In clinical pharmacology studies, tadalafil exposure (AUC) in subjects with mild or moderate hepatic impairment (Child-Pugh Class A or B) was comparable to exposure in healthy subjects when a dose of 10 mg was administered.
 There are no available data for doses higher than 10 mg of tadalafil in patients with hepatic impairment.
-Insufficient data are available for subjects with severe hepatic impairment (Child-Pugh Class C). [See Dosage and Administration (2.6) and Warnings and Precautions (5.8)].
+Insufficient data are available for subjects with severe hepatic impairment (Child-Pugh Class C). [see Dosage and Administration (2.6) and Warnings and Precautions (5.8)].
 
 ## 8.7 Renal Impairment
 
@@ -54,4 +53,4 @@ Hemodialysis (performed between 24 and 30 hours post-dose) contributed negligibl
 In a clinical pharmacology study (N=28) at a dose of 10 mg, back pain was reported as a limiting adverse event in male patients with creatinine clearance 30 to 50 mL/min.
 At a dose of 5 mg, the incidence and severity of back pain was not significantly different than in the general population.
 In patients on hemodialysis taking 10- or 20-mg tadalafil, there were no reported cases of back pain.
-[See Dosage and Administration (2.6) and Warnings and Precautions (5.7)].
+[see Dosage and Administration (2.6) and Warnings and Precautions (5.7)].

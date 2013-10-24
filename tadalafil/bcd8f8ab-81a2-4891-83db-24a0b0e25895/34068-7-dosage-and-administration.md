@@ -17,7 +17,8 @@ Do not split CIALIS tablets; entire dose should be taken.
 
 ## 2.3 CIALIS for Once Daily Use for Benign Prostatic Hyperplasia
 
-The recommended dose of CIALIS for once daily use is 5 mg, taken at approximately the same time every day.
+- The recommended dose of CIALIS for once daily use is 5 mg, taken at approximately the same time every day.
+- When therapy for BPH is initiated with CIALIS and finasteride, the recommended dose of CIALIS for once daily use is 5 mg, taken at approximately the same time every day for up to 26 weeks.
 
 ## 2.4 CIALIS for Once Daily Use for Erectile Dysfunction and Benign Prostatic Hyperplasia
 
@@ -68,11 +69,11 @@ Nitrates
 
 Concomitant use of nitrates in any form is contraindicated [see Contraindications (4.1)].
 
-Alpha Blockers
+Alpha-Blockers
 
-ED — When CIALIS is coadministered with an alpha blocker in patients being treated for ED, patients should be stable on alpha-blocker therapy prior to initiating treatment, and CIALIS should be initiated at the lowest recommended dose [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
+ED — When CIALIS is coadministered with an alpha-blocker in patients being treated for ED, patients should be stable on alpha-blocker therapy prior to initiating treatment, and CIALIS should be initiated at the lowest recommended dose [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
 
-BPH — CIALIS is not recommended for use in combination with alpha blockers for the treatment of BPH [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
+BPH — CIALIS is not recommended for use in combination with alpha-blockers for the treatment of BPH [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
 
 CYP3A4 Inhibitors
 

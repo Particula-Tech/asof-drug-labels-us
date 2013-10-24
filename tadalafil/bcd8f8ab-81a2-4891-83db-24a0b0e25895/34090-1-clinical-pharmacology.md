@@ -13,7 +13,7 @@ The effect of PDE5 inhibition on cGMP concentration in the corpus cavernosum and
 The mechanism for reducing BPH symptoms has not been established.
 
 Studies in vitro have demonstrated that tadalafil is a selective inhibitor of PDE5.
-PDE5 is found in the smooth muscle of the corpus cavernosum, prostate, and bladder as well as in vascular and visceral smooth muscle, skeletal muscle, platelets, kidney, lung, cerebellum, and pancreas.
+PDE5 is found in the smooth muscle of the corpus cavernosum, prostate, and bladder as well as in vascular and visceral smooth muscle, skeletal muscle, urethra, platelets, kidney, lung, cerebellum, heart, liver, testis, seminal vesicle, and pancreas.
 
 In vitro studies have shown that the effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.
 These studies have shown that tadalafil is >10,000-fold more potent for PDE5 than for PDE1, PDE2, PDE4, and PDE7 enzymes, which are found in the heart, brain, blood vessels, liver, leukocytes, skeletal muscle, and other organs.

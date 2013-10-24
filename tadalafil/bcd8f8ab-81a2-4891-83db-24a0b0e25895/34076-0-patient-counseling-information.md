@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-“See FDA-approved Patient Labeling (Patient Information)”
+“See FDA-approved patient labeling (Patient Information)”
 
 ## 17.1 Nitrates
 
@@ -24,7 +24,7 @@ Physicians should discuss with patients the potential for CIALIS to augment the 
 ## 17.4 Potential for Drug Interactions When Taking CIALIS for Once Daily Use
 
 Physicians should discuss with patients the clinical implications of continuous exposure to tadalafil when prescribing CIALIS for once daily use, especially the potential for interactions with medications (e.g., nitrates, alpha-blockers, antihypertensives and potent inhibitors of cytochrome P450 3A4) and with substantial consumption of alcohol.
-[See Dosage and Administration (2.7), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2), Clinical Pharmacology (12.2), and Clinical Studies (14.2)].
+[see Dosage and Administration (2.7), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2), Clinical Pharmacology (12.2), and Clinical Studies (14.2)].
 
 ## 17.5 Priapism
 
@@ -37,7 +37,7 @@ Physicians should advise patients who have an erection lasting greater than 4 ho
 Physicians should advise patients to stop use of all PDE5 inhibitors, including CIALIS, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
 Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including permanent loss of vision that has been reported rarely postmarketing in temporal association with the use of all PDE5 inhibitors.
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or other factors.
-Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors [see Clinical Studies (6.2)].
+Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
 
 ## 17.7 Sudden Hearing Loss
 

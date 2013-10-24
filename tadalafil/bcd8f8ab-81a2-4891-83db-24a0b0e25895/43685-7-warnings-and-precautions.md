@@ -14,7 +14,7 @@ Physicians should discuss with patients the appropriate action in the event that
 In such a patient, who has taken CIALIS, where nitrate administration is deemed medically necessary for a life-threatening situation, at least 48 hours should have elapsed after the last dose of CIALIS before nitrate administration is considered.
 In such circumstances, nitrates should still only be administered under close medical supervision with appropriate hemodynamic monitoring.
 Therefore, patients who experience anginal chest pain after taking CIALIS should seek immediate medical attention.
-[See Contraindications (4.1) and Patient Counseling Information (17.1)].
+[see Contraindications (4.1) and Patient Counseling Information (17.1)].
 
 Patients with left ventricular outflow obstruction, (e.g., aortic stenosis and idiopathic hypertrophic subaortic stenosis) can be sensitive to the action of vasodilators, including PDE5 inhibitors.
 
@@ -60,9 +60,9 @@ It is not possible to determine whether these events are related directly to the
 
 ## 5.6 Alpha-blockers and Antihypertensives
 
-Physicians should discuss with patients the potential for CIALIS to augment the blood-pressure-lowering effect of alpha blockers and antihypertensive medications [see Drug Interactions (7.1) and Clinical Pharmacology (12.2)].
+Physicians should discuss with patients the potential for CIALIS to augment the blood-pressure-lowering effect of alpha-blockers and antihypertensive medications [see Drug Interactions (7.1) and Clinical Pharmacology (12.2)].
 
-Caution is advised when PDE5 inhibitors are coadministered with alpha blockers.
+Caution is advised when PDE5 inhibitors are coadministered with alpha-blockers.
 PDE5 inhibitors, including CIALIS, and alpha-adrenergic blocking agents are both vasodilators with blood-pressure-lowering effects.
 When vasodilators are used in combination, an additive effect on blood pressure may be anticipated.
 In some patients, concomitant use of these two drug classes can lower blood pressure significantly [see Drug Interactions (7.1) and Clinical Pharmacology (12.2)], which may lead to symptomatic hypotension (e.g., fainting).
@@ -77,12 +77,12 @@ ED
   Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking a PDE5 inhibitor.
 - Safety of combined use of PDE5 inhibitors and alpha-blockers may be affected by other variables, including intravascular volume depletion and other antihypertensive drugs.
 
-[See Dosage and Administration (2.7) and Drug Interactions (7.1)].
+[see Dosage and Administration (2.7) and Drug Interactions (7.1)].
 
 BPH
 
-- The efficacy of the co-administration of an alpha-blocker and CIALIS for the treatment of BPH has not been adequately studied, and due to the potential vasodilatory effects of combined use resulting in blood pressure lowering, the combination of CIALIS and alpha-blockers is not recommended for the treatment of BPH.
-  [See Dosage and Administration (2.7), Drug Interactions (7.1), and Clinical Pharmacology (12.2.)].
+- The efficacy of the coadministration of an alpha-blocker and CIALIS for the treatment of BPH has not been adequately studied, and due to the potential vasodilatory effects of combined use resulting in blood pressure lowering, the combination of CIALIS and alpha-blockers is not recommended for the treatment of BPH.
+  [see Dosage and Administration (2.7), Drug Interactions (7.1), and Clinical Pharmacology (12.2.)].
 - Patients on alpha-blocker therapy for BPH should discontinue their alpha-blocker at least one day prior to starting CIALIS for once daily use for the treatment of BPH.
 
 ## 5.7 Renal Impairment
@@ -91,7 +91,7 @@ CIALIS for Use as Needed
 
 CIALIS should be limited to 5 mg not more than once in every 72 hours in patients with creatinine clearance less than 30 mL/min or end-stage renal disease on hemodialysis.
 The starting dose of CIALIS in patients with creatinine clearance 30 – 50 mL/min should be 5 mg not more than once per day, and the maximum dose should be limited to 10 mg not more than once in every 48 hours.
-[See Use in Specific Populations (8.7)].
+[see Use in Specific Populations (8.7)].
 
 CIALIS for Once Daily Use
 
