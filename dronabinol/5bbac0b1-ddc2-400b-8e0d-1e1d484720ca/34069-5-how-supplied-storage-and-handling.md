@@ -13,8 +13,6 @@ NDC 0051-0023-21 (Bottle of 60 capsules).
 
 Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
 
-For: Abbott Laboratories North Chicago, IL 60064, U.S.A.
+For: AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-500012 1E Rev Mar 2010
-
-© 2010 Abbott Laboratories
+© 2013 AbbVie Inc.

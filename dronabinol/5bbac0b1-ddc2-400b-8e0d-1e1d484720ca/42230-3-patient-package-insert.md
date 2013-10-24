@@ -170,8 +170,8 @@ What to Do When Problems Occur IF YOU NOTICE ANY WORRISOME SYMPTOMS OR PROBLEMS,
 
 Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
 
-For: Abbott Laboratories North Chicago, IL 60064, U.S.A.
+For: AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-500013 1E Rev Mar 2010
+46628-01 February, 2013
 
-© 2010 Abbott Laboratories
+© 2013 AbbVie Inc.
