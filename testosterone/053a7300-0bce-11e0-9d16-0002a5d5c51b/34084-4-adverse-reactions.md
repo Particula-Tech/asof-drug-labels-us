@@ -24,7 +24,7 @@ These reactions were: 1 patient with contact dermatitis (considered probably rel
 The following adverse reactions have been identified during post approval use of FORTESTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 4).
 
-Table 4: Adverse Drug Reactions from Post approval Experience of FORTESTA by System Organ Class
+Table 4 - Adverse Drug Reactions from Post approval Experience of FORTESTA by System Organ Class
 
 | System Organ Class | Adverse Reaction |
 | --- | --- |

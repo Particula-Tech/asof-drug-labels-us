@@ -4,7 +4,8 @@
 
 The recommended starting dose of FORTESTA is 40 mg of testosterone (4 pump actuations) applied once daily to the thighs in the morning.
 The dose can be adjusted between a minimum of 10 mg of testosterone and a maximum of 70 mg of testosterone.
-To ensure proper dosing, the dose should be titrated based on the serum testosterone concentration from a single blood draw 2 hours after applying FORTESTA at approximately 14 days after starting treatment or following dose adjustment.
+To ensure proper dosing, the dose should be titrated based on the serum testosterone concentration from a single blood draw 2 hours after applying FORTESTA at approximately 14 days and 35 days after starting treatment or following dose adjustment.
+In addition, serum testosterone concentration should be assessed periodically thereafter.
 Table 1 describes the dose adjustments required at each titration step.
 
 Table 1 - Dose Adjustment Criteria

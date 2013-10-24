@@ -43,5 +43,4 @@ When transfer occurred with FORTESTA while covering a thigh with boxer shorts, m
 
 Effect of showering In a two-way crossover study, the effects of showering on the pharmacokinetics of total testosterone following application of FORTESTA (30 mg testosterone to each thigh; total 60 mg testosterone) were assessed in 7 hypogonadal males.
 There were two 7-day treatment phases, with showering 2 hours post FORTESTA application, and without showering on Day 7 of each treatment phase.
-Showering decreased Cavg by 3% and it increased Cmax by 13%.
-[see Dosage and Administration (2.2)].
+Showering decreased Cavg by 3% and it increased Cmax by 13% [see Dosage and Administration (2.2)].

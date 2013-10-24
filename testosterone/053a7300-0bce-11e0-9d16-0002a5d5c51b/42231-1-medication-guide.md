@@ -1,4 +1,4 @@
-# FDA-approved Medication Guide
+MEDICATION GUIDE
 
 FORTESTA® (FOR-tes-ta) CIII
 
@@ -10,33 +10,42 @@ This information does not take the place of talking with your healthcare provide
 
 What is the most important information I should know about FORTESTA?
 
-FORTESTA can transfer from your body to others.
-This can happen if other people come into contact with the area where the FORTESTA was applied.
+1.
+Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using topical testosterone products like FORTESTA.
 
-Signs of puberty that are not expected (for example, pubic hair) have happened in young children who were accidentally exposed to testosterone through contact with men using topical testosterone products like FORTESTA.
-
-- Women and children should avoid contact with the unwashed or unclothed area where FORTESTA has been applied.
-  If a woman or child makes contact with the FORTESTA application area, that area on the woman or child should be washed well with soap and water right away.
-- To lower the risk of transfer of FORTESTA from your body to others, you should follow these important instructions:
-  - Apply FORTESTA only to the front and inside area of your thighs that will be covered by clothing.
-  - Wash your hands right away with soap and water after applying FORTESTA.
-  - After the FORTESTA gel has dried, cover the application area with clothing.
-    Keep the area covered until you have washed the application area well or have showered.
-  - If you expect another person to have skin-to-skin contact with your thigh, first wash the application area well with soap and water.
-
-Stop using FORTESTA and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to FORTESTA:
-
-Signs and symptoms in children may include:
+Signs and symptoms of early puberty in a child may include:
 
 - enlarged penis or clitoris
 - early development of pubic hair
 - increased erections or sex drive
 - aggressive behavior
 
-Signs and symptoms in women may include:
+2.
+FORTESTA can transfer from your body to others.
+Women and children should avoid contact with the unwashed or unclothed area where FORTESTA has been applied to your skin.
+
+Stop using FORTESTA and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to FORTESTA.
+
+Signs and symptoms of exposure to FORTESTA in a child may include:
+
+- enlarged penis or clitoris
+- early development of pubic hair
+- increased erections or sex drive
+- aggressive behavior
+
+Signs and symptoms of exposure to FORTESTA in women may include:
 
 - changes in body hair
 - a large increase in acne
+
+To lower the risk of transfer of FORTESTA from your body to others, you should follow these important instructions:
+
+- Apply FORTESTA only to the front and inside area of your thighs that will be covered by clothing.
+- Wash your hands right away with soap and water after applying FORTESTA.
+- After the FORTESTA gel has dried, cover the application area with clothing.
+  Keep the area covered until you have washed the application area well or have showered.
+- If you expect another person to have skin-to-skin contact with your thighs, first wash the application area well with soap and water.
+- If a woman or child makes contact with the FORTESTA application area, that area on the woman or child should be washed well with soap and water right away.
 
 What is FORTESTA?
 
@@ -82,7 +91,6 @@ Before you use FORTESTA, tell your healthcare provider if you:
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 Using FORTESTA with certain other medicines can affect each other.
-
 Especially, tell your healthcare provider if you take:
 
 - insulin
@@ -130,30 +138,30 @@ See “What is the most important information I should know about FORTESTA?”
 
 FORTESTA can cause serious side effects including:
 
-- 
-  - If you already have enlargement of your prostate gland your signs and symptoms can get worse while using FORTESTA.
-    This can include:
-    - increased urination at night
-    - trouble starting your urine stream
-    - having to pass urine many times during the day
-    - having an urge that you have to go to the bathroom right away
-    - having a urine accident
-    - being unable to pass urine or weak urine flow
-  - Possible increased risk of prostate cancer.
-    Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use FORTESTA.
-  - In large doses FORTESTA may lower your sperm count.
-  - Swelling of your ankles, feet, or body, with or without heart failure.
-  - Enlarged or painful breasts.
-  - Have problems breathing while you sleep (sleep apnea).
-  - Increased red blood cell count
-  - Blood clots in the legs.
-    This can include pain, swelling or redness of your legs.
-
+- If you already have enlargement of your prostate gland your signs and symptoms can get worse while using FORTESTA.
+  This can include:
+  - increased urination at night
+  - trouble starting your urine stream
+  - having to pass urine many times during the day
+  - having an urge that you have to go to the bathroom right away
+  - having a urine accident
+  - being unable to pass urine or weak urine flow
+- Possible increased risk of prostate cancer.
+  Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use FORTESTA.
+- In large doses FORTESTA may lower your sperm count.
+- Swelling of your ankles, feet, or body, with or without heart failure.
+- Enlarged or painful breasts.
+- Have problems breathing while you sleep (sleep apnea).
+- Increased red blood cell count
+- Blood clots in the legs.
+  This can include pain, swelling or redness of your legs.
 - Call your healthcare provider right away if you have any of the serious side effects listed above.
-- The most common side effects of FORTESTA include: Other side effects include more erections than are normal for you or erections that last a long time.
+- The most common side effects of FORTESTA include:
   - skin redness or irritation where FORTESTA is applied
   - increased in blood level of Prostate Specific Antigen (a test used to screen for prostate cancer)
   - abnormal dreams
+
+Other side effects include more erections than are normal for you or erections that last a long time.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -184,7 +192,7 @@ This Medication Guide summarizes the most important information about FORTESTA.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about FORTESTA that is written for health professionals.
 
-For more information, go to www.FORTESTA.com or call 1-800-462-3636.
+For more information, go to www.fortestagel.com or call 1-800-462-3636.
 
 What are the ingredients in FORTESTA?
 
@@ -194,10 +202,12 @@ Inactive ingredients: propylene glycol, purified water, ethanol, 2-propanol, ole
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany Manufactured for: Endo Pharmaceuticals Inc., 100 Endo Boulevard, Malvern, PA 19355
+Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
 
-© 2012 Endo Pharmaceuticals Inc. All rights reserved.
+Manufactured for: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-PG2513
+© 2013 Endo Pharmaceuticals Inc. All rights reserved.
 
-Issued: 12/2012
+Revised: 10/2013
+
+PG2564

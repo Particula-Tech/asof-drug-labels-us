@@ -6,7 +6,7 @@ Patients should be informed of the following information:
 
 ## 17.1 Use in Men with Known or Suspected Prostate or Breast Cancer
 
-Men with known or suspected prostate or breast cancer should not use FORTESTA [see Contraindications (4) and Warnings and Precaution (5.1)].
+Men with known or suspected prostate or breast cancer should not use FORTESTA [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 ## 17.2 Potential for Secondary Exposure to Testosterone and Steps to Prevent Secondary Exposure
 
@@ -50,12 +50,12 @@ Patients should be informed that treatment with androgens may lead to adverse re
 
 Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
 
-Manufactured for: Endo Pharmaceuticals Inc., 100 Endo Boulevard, Malvern, PA 19355
+Manufactured for: Endo Pharmaceuticals Inc., Malvern, PA 19355
 
-© 2012 Endo Pharmaceuticals Inc. All rights reserved.
+© 2013 Endo Pharmaceuticals Inc. All rights reserved.
 
-Fortesta is a registered trademark of Endo Pharmaceuticals Inc.
+FORTESTA is a registered trademark of Endo Pharmaceuticals Inc.
 
-PG2512
+PG2927
 
-Revised: 12/2012
+Revised: 10/2013

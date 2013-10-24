@@ -19,7 +19,7 @@ Dose titrations on Days 14, 35 and 60 resulted in mean (SD) Cavg and Cmax for fi
 
 Table 5 Mean (±SD) Steady-State Testosterone Concentrations (Cavg and Cmax) by final dose on Day 90
 
-|  | Final Dose |  |  |  |  |  |  |  |
+|  |  | Final Dose |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10mg (n=1) | 20mg (n=6) | 30mg (n=16) | 40mg (n=30) | 50mg (n=26) | 60mg (n=27) | 70mg (n=23) |  |  |
 | Cavg (ng/dL) | Mean | 196 | 464 | 392 | 444 | 483 | 441 | 415 |
