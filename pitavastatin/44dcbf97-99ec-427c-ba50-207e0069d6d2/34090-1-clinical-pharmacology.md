@@ -101,6 +101,6 @@ Effect of Pitavastatin Co-Administration on Systemic Exposure to Other Drugs
 | Digoxin | Pitavastatin 4 mg QD + digoxin 0.25 mg for 7 days |  | ↓ 3% | ↓ 4% |
 | Diltiazem LA | Pitavastatin 4 mg QD on Days 1-5 and 11-15 and diltiazem LA 240 mg on Days 6-15 |  | ↓ 2% | ↓ 7% |
 | Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days |  | ↓ 15% | ↓ 18% |
-| Data presented as % change represent % difference relative to the investigated drug alone |  |  |  |  |
+| *Data presented as % change represent % difference relative to the investigated drug alone |  |  |  |  |
 | (i.e., 0% = no change). |  |  |  |  |
 | BID = twice daily; QD = once daily; LA = Long Acting |  |  |  |  |

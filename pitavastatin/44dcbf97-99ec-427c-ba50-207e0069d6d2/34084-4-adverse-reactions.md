@@ -38,7 +38,7 @@ The most common adverse reactions that led to treatment discontinuation were: el
 
 Hypersensitivity reactions including rash, pruritus, and urticaria have been reported with LIVALO.
 
-## 6.2 Postmarketing Experience:
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of LIVALO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
