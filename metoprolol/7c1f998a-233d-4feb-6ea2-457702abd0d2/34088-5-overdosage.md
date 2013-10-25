@@ -8,9 +8,9 @@ Oral LD50’s (mg/kg): mice, 1158 to 2460; rats, 3090 to 4670.
 
 Signs and Symptoms
 
-Potential signs and symptoms associated with overdosage with metoprolol are bradycardia, hypotension, bronchospasm, and cardiac failure.
+Potential signs and symptoms associated with overdosage with metoprolol are bradycardia, hypotension, bronchospasm, myocardial infarction, cardiac failure and death.
 
-Treatment
+Management
 
 There is no specific antidote.
 
@@ -18,20 +18,18 @@ In general, patients with acute or recent myocardial infarction may be more hemo
 
 On the basis of the pharmacologic actions of metoprolol, the following general measures should be employed:
 
-Bradycardia
-
-Atropine should be administered.
-If there is no response to vagal blockade, isoproterenol should be administered cautiously.
+Elimination of the Drug: Gastric lavage should be performed.
+Other clinical manifestations of overdose should be managed symptomatically based on modern methods of intensive care.
 
 Hypotension
 
-A vasopressor should be administered, e.g., norepinephrine or dopamine.
+Administer a vasopressor, e.g., levarterenol or dopamine.
 
 Bronchospasm
 
-A beta2-stimulating agent and/or a theophylline derivative should be administered.
+Administer a beta2-stimulating agent and/or a theophylline derivative.
 
 Cardiac Failure
 
-A digitalis glycoside and diuretic should be administered.
-In shock resulting from inadequate cardiac contractility, administration of dobutamine, isoproterenol, or glucagon may be considered.
+Administer digitalis glycoside and diuretic.
+In shock resulting from inadequate cardiac contractility, consider administration of dobutamine, isoproterenol or glucagon.

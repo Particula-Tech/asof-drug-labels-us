@@ -1,36 +1,102 @@
 # CLINICAL PHARMACOLOGY
 
-Metoprolol tartrate is a beta-adrenergic receptor blocking agent.
-In vitro and in vivo animal studies have shown that it has a preferential effect on beta1 adrenoreceptors, chiefly located in cardiac muscle.
-This preferential effect is not absolute, however, and at higher doses, metoprolol also inhibits beta2 adrenoreceptors, chiefly located in the bronchial and vascular musculature.
+Mechanism of Action
 
-Clinical pharmacology studies have confirmed the beta-blocking activity of metoprolol in man, as shown by (1) reduction in heart rate and cardiac output at rest and upon exercise, (2) reduction of systolic blood pressure upon exercise, (3) inhibition of isoproterenol-induced tachycardia, and (4) reduction of reflex orthostatic tachycardia.
+Metoprolol tartrate is a beta1-selective (cardioselective) adrenergic receptor blocker.
+This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.
 
-Relative beta1 selectivity has been confirmed by the following: (1) In normal subjects, metoprolol is unable to reverse the beta2-mediated vasodilating effects of epinephrine.
-This contrasts with the effect of nonselective (beta1 plus beta2) beta-blockers, which completely reverse the vasodilating effects of epinephrine.
-(2) In asthmatic patients, metoprolol reduces FEV1 and FVC significantly less than a nonselective beta-blocker, propranolol, at equivalent beta1-receptor blocking doses.
+Clinical pharmacology studies have demonstrated the beta-blocking activity of metoprolol, as shown by (1) reduction in heart rate and cardiac output at rest and upon exercise, (2) reduction of systolic blood pressure upon exercise, (3) inhibition of isoproterenol-induced tachycardia, and (4) reduction of reflex orthostatic tachycardia.
 
-Metoprolol has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at doses much greater than required for beta-blockade.
-Metoprolol crosses the blood-brain barrier and has been reported in the CSF in a concentration 78% of the simultaneous plasma concentration.
-Animal and human experiments indicate that metoprolol slows the sinus rate and decreases AV nodal conduction.
+Hypertension
 
-In controlled clinical studies, metoprolol tartrate has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100-450 mg daily.
-In controlled, comparative, clinical studies, metoprolol tartrate has been shown to be as effective an antihypertensive agent as propranolol, methyldopa, and thiazide-type diuretics, and to be equally effective in supine and standing positions.
-
-The mechanism of the antihypertensive effects of beta-blocking agents has not been elucidated.
+The mechanism of the antihypertensive effects of beta-blocking agents has not been fully elucidated.
 However, several possible mechanisms have been proposed: (1) competitive antagonism of catecholamines at peripheral (especially cardiac) adrenergic neuron sites, leading to decreased cardiac output; (2) a central effect leading to reduced sympathetic outflow to the periphery; and (3) suppression of renin activity.
 
+Angina Pectoris
+
 By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction, and in blood pressure, metoprolol tartrate reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris.
-However, in patients with heart failure, beta-adrenergic blockade may increase oxygen requirements by increasing left ventricular fiber length and end-diastolic pressure.
 
-Although beta-adrenergic receptor blockade is useful in the treatment of angina and hypertension, there are situations in which sympathetic stimulation is vital.
-In patients with severely damaged hearts, adequate ventricular function may depend on sympathetic drive.
-In the presence of AV block, beta blockade may prevent the necessary facilitating effect of sympathetic activity on conduction.
-Beta2-adrenergic blockade results in passive bronchial constriction by interfering with endogenous adrenergic bronchodilator activity in patients subject to bronchospasm and may also interfere with exogenous bronchodilators in such patients.
+Myocardial Infarction
 
-In controlled clinical trials, metoprolol tartrate, administered two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
-The dosage used in these studies ranged from 100-400 mg daily.
+The precise mechanism of action of metoprolol in patients with suspected or definite myocardial infarction is not known.
+
+Pharmacodynamics
+
+Relative beta1 selectivity is demonstrated by the following: (1) In healthy subjects, metoprolol is unable to reverse the beta2-mediated vasodilating effects of epinephrine.
+This contrasts with the effect of nonselective (beta1 plus beta2) beta blockers, which completely reverse the vasodilating effects of epinephrine.
+(2) In asthmatic patients, metoprolol reduces FEV1 and FVC significantly less than a nonselective beta blocker, propranolol, at equivalent beta1-receptor blocking doses.
+
+Metoprolol has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at doses much greater than required for beta blockade.
+Animal and human experiments indicate that metoprolol slows the sinus rate and decreases AV nodal conduction.
+
+- When the drug was infused over a 10-minute period, in normal volunteers, maximum beta blockade was achieved at approximately 20 minutes.
+
+Equivalent maximal beta-blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2.5:1.
+
+There is a linear relationship between the log of plasma levels and reduction of exercise heart rate.
+
+In several studies of patients with acute myocardial infarction, intravenous followed by oral administration of metoprolol tartrate caused a reduction in heart rate, systolic blood pressure and cardiac output.
+Stroke volume, diastolic blood pressure and pulmonary artery end diastolic pressure remained unchanged.
+
+Pharmacokinetics
+
+Absorption
+
+The estimated oral bioavailability of immediate release metoprolol is about 50% because of pre-systemic metabolism which is saturable leading to non-proportionate increase in the exposure with increased dose.
+
+Distribution
+
+Metoprolol is extensively distributed with a reported volume of distribution of 3.2 to 5.6 L/kg.
+About 10% of metoprolol in plasma is bound to serum albumin.
+Metoprolol is known to cross the placenta and is found in breast milk.
+Metoprolol is also known to cross the blood brain barrier following oral administration and CSF concentrations close to that observed in plasma have been reported.
+Metoprolol is not a significant P-glycoprotein substrate.
+
+Metabolism
+
+Metoprolol tartrate is primarily metabolized by CYP2D6.
+Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereo selective metabolism that is dependent on oxidation phenotype.
+CYP2D6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations.
+Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of metoprolol tartrate than extensive metabolizers with normal CYP2D6 activity thereby decreasing metoprolol tartrate’s cardioselectivity.
+
+Elimination
+
+Elimination of metoprolol tartrate is mainly by biotransformation in the liver.
+The mean elimination half-life of metoprolol is 3 to 4 hours; in poor CYP2D6 metabolizers the half-life may be 7 to 9 hours.
+Approximately 95% of the dose can be recovered in urine.
+In most subjects (extensive metabolizers), less than 10% of an intravenous dose are excreted as unchanged drug in the urine.
+In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta blocking activity.
+The renal clearance of the stereo-isomers does not exhibit stereo-selectivity in renal excretion.
+
+Special populations
+
+Geriatric patients
+
+The geriatric population may show slightly higher plasma concentrations of metoprolol as a combined result of a decreased metabolism of the drug in elderly population and a decreased hepatic blood flow.
+However, this increase is not clinically significant or therapeutically relevant.
+
+Renal impairment
+
+The systemic availability and half-life of metoprolol tartrate in patients with renal failure do not differ to a clinically significant degree from those in normal subjects.
+Consequently, no reduction in dosage is usually needed in patients with chronic renal failure.
+
+Hepatic impairment: Since the drug is primarily eliminated by hepatic metabolism, hepatic impairment may impact the pharmacokinetics of metoprolol.
+The elimination half-life of metoprolol is considerably prolonged, depending on severity (up to 7.2 h).
+
+Clinical Studies
+
+Hypertension
+
+In controlled clinical studies, metoprolol tartrate has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at oral dosages of 100-450 mg daily.
+In controlled, comparative, clinical studies, metoprolol tartrate has been shown to be as effective an antihypertensive agent as propranolol, methyldopa, and thiazide-type diuretics, to be equally effective in supine and standing positions.
+
+Angina Pectoris
+
+In controlled clinical trials, metoprolol tartrate, administered orally two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
+The oral dosage used in these studies ranged from 100-400 mg daily.
 A controlled, comparative, clinical trial showed that metoprolol tartrate was indistinguishable from propranolol in the treatment of angina pectoris.
+
+Myocardial Infarction
 
 In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, metoprolol was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.
 
@@ -40,59 +106,11 @@ Initial treatment consisted of intravenous followed by oral administration of me
 Oral maintenance therapy with metoprolol or placebo was then continued for 3 months.
 After this double-blind period, all patients were given metoprolol and followed up to 1 year.
 
-The median delay from the onset of symptoms to the initiation of therapy was 8 hours in both the metoprolol and placebo treatment groups.
+The median delay from the onset of symptoms to the initiation of therapy was 8 hours in both the metoprolol- and placebo-treatment groups.
 Among patients treated with metoprolol, there were comparable reductions in 3-month mortality for those treated early (≤8 hours) and those in whom treatment was started later.
 Significant reductions in the incidence of ventricular fibrillation and in chest pain following initial intravenous therapy were also observed with metoprolol and were independent of the interval between onset of symptoms and initiation of therapy.
-
-The precise mechanism of action of metoprolol in patients with suspected or definite myocardial infarction is not known.
 
 In this study, patients treated with metoprolol received the drug both very early (intravenously) and during a subsequent 3-month period, while placebo patients received no beta-blocker treatment for this period.
 The study thus was able to show a benefit from the overall metoprolol regimen but cannot separate the benefit of very early intravenous treatment from the benefit of later beta-blocker therapy.
 Nonetheless, because the overall regimen showed a clear beneficial effect on survival without evidence of an early adverse effect on survival, one acceptable dosage regimen is the precise regimen used in the trial.
-Because the specific benefit of very early treatment remains to be defined however, it is also reasonable to administer the drug orally to patients at a later time as is recommended for certain other beta-blockers.
-
-Pharmacokinetics
-
-In man, absorption of metoprolol tartrate is rapid and complete.
-Plasma levels following oral administration, however, approximate 50% of levels following intravenous administration, indicating about 50% first-pass metabolism.
-
-Plasma levels achieved are highly variable after oral administration.
-Only a small fraction of the drug (about 12%) is bound to human serum albumin.
-Metoprolol tartrate is a racemic mixture of R- and S-enantiomers.
-Less than 5% of an oral dose of metoprolol tartrate is recovered unchanged in the urine; the rest is excreted by the kidneys as metabolites that appear to have no clinical significance.
-The systemic availability and half-life of metoprolol tartrate in patients with renal failure do not differ to a clinically significant degree from those in normal subjects.
-Consequently, no reduction in dosage is usually needed in patients with chronic renal failure.
-
-Metoprolol is extensively metabolized by the cytochrome P450 enzyme system in the liver.
-The oxidative metabolism of metoprolol is under genetic control with a major contribution of the polymorphic cytochrome P450 isoform 2D6 (CYP2D6).
-There are marked ethnic differences in the prevalence of the poor metabolizers (PM) phenotype.
-Approximately 7% of Caucasians and less than 1% of Asian are poor metabolizers.
-
-Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of metoprolol than extensive metabolizers with normal CYP2D6 activity.
-The elimination half-life of metoprolol is about 7.5 hours in poor metabolizers and 2.8 hours in extensive metabolizers.
-However, the CYP2D6 dependent metabolism of metoprolol seems to have little or no effect on safety or tolerability of the drug.
-None of the metabolites of metoprolol contribute significantly to its beta-blocking effect.
-
-Significant beta-blocking effect (as measured by reduction of exercise heart rate) occurs within 1 hour after oral administration, and its duration is dose-related.
-For example, a 50% reduction of the maximum registered effect after single oral doses of 20, 50, and 100 mg occurred at 3.3, 5.0, and 6.4 hours, respectively, in normal subjects.
-After repeated oral dosages of 100 mg twice daily, a significant reduction in exercise systolic blood pressure was evident at 12 hours.
-
-Following intravenous administration of metoprolol tartrate, the urinary recovery of unchanged drug is approximately 10%.
-When the drug was infused over a 10-minute period, in normal volunteers, maximum beta-blockade was achieved at approximately 20 minutes.
-Doses of 5 mg and 15 mg yielded a maximal reduction in exercise-induced heart rate of approximately 10% and 15%, respectively.
-The effect on exercise heart rate decreased linearly with time at the same rate for both doses, and disappeared at approximately 5 hours and 8 hours for the 5 mg and 15 mg doses, respectively.
-
-Equivalent maximal beta-blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2.5:1.
-
-There is a linear relationship between the log of plasma levels and reduction of exercise heart rate.
-However, antihypertensive activity does not appear to be related to plasma levels.
-Because of variable plasma levels attained with a given dose and lack of a consistent relationship of antihypertensive activity to dose, selection of proper dosage requires individual titration.
-
-In several studies of patients with acute myocardial infarction, intravenous followed by oral administration of metoprolol tartrate caused a reduction in heart rate, systolic blood pressure, and cardiac output.
-Stroke volume, diastolic blood pressure, and pulmonary artery end diastolic pressure remained unchanged.
-
-In patients with angina pectoris, plasma concentration measured at 1 hour is linearly related to the oral dose within the range of 50-400 mg.
-Exercise heart rate and systolic blood pressure are reduced in relation to the logarithm of the oral dose of metoprolol.
-The increase in exercise capacity and the reduction in left ventricular ischemia are also significantly related to the logarithm of the oral dose.
-
-In elderly subjects with clinically normal renal and hepatic function, there are no significant differences in metoprolol pharmacokinetics compared to young subjects.
+Because the specific benefit of very early treatment remains to be defined however, it is also reasonable to administer the drug orally to patients at a later time as is recommended for certain other beta blockers.

@@ -6,7 +6,7 @@ Metoprolol Tartrate Injection, USP is available as:
 
 | NDC | Container | Concentration | Fill | Quantity |
 | --- | --- | --- | --- | --- |
-| 0409-1778-05 | Vials | 1 mg/mL | 5 mL | 10 vialsper carton |
+| 0409-1778-05 | Vials | 1 mg/mL | 5 mL | 10 vials per carton |
 
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
@@ -17,8 +17,8 @@ Retain in carton until time of use.
 
 Discard unused portion.
 
-Revised: 12/2011
+Revised: 05/2013
 
-EN-2969
+EN-3287
 
 Hospira, Inc., Lake Forest, IL 60045 USA

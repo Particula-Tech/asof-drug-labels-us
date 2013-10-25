@@ -2,6 +2,7 @@
 
 Hypertension and Angina
 
+These adverse reactions were reported for treatment with oral metoprolol tartrate.
 Most adverse effects have been mild and transient.
 
 Central Nervous System
@@ -47,6 +48,8 @@ There have been very rare reports of weight gain, arthritis, and retroperitoneal
 The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with metoprolol tartrate.
 
 Myocardial Infarction
+
+These adverse reactions were reported from treatment regimens where intravenous metoprolol tartrate was administered, when tolerated.
 
 Central Nervous System
 
@@ -95,13 +98,13 @@ Intensification of AV block (see CONTRAINDICATIONS).
 
 Hematologic
 
-Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
+Agranulocytosis, nonthrombocytopenic purpura and thrombocytopenic purpura.
 
 Hypersensitive Reactions
 
-Fever combined with aching and sore throat, laryngospasm, and respiratory distress.
+Fever combined with aching and sore throat, laryngospasm and respiratory distress.
 
-Postmarketing Experience
+Post-marketing Experience
 
 The following adverse reactions have been reported during post approval use of metoprolol: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.
