@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See Medication Guide (17.6)]
+[See Medication Guide]
 
 ## 17.1 Benefits and Risks
 
