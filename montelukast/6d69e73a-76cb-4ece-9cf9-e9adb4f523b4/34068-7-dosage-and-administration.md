@@ -9,7 +9,7 @@ For adults and adolescents 15 years of age and older: one 10 mg tablet.
 
 For pediatric patients 6 to 14 years of age: one 5 mg chewable tablet.
 
-For pediatric patients 2 to 5 years of age: one 4 mg chewable tablet
+For pediatric patients 2 to 5 years of age: one 4 mg chewable tablet.
 
 Safety and effectiveness in pediatric patients less than 12 months of age with asthma have not been established.
 
@@ -20,11 +20,10 @@ Efficacy has been demonstrated for asthma when montelukast was administered in t
 ## 2.2 Exercise-Induced Bronchoconstriction (EIB) in Patients 15 Years of Age and Older
 
 For prevention of EIB, a single 10 mg dose of montelukast should be taken at least 2 hours before exercise.
-
 An additional dose of montelukast should not be taken within 24 hours of a previous dose.
 Patients already taking montelukast sodium daily for another indication (including chronic asthma) should not take an additional dose to prevent EIB.
 All patients should have available for rescue a short-acting β-agonist.
-Safety and effectiveness in patients younger than 15 years of age have not been established.
+Safety and efficacy in patients younger than 15 years of age have not been established.
 Daily administration of montelukast sodium for the chronic treatment of asthma has not been established to prevent acute episodes of EIB.
 
 Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
@@ -42,7 +41,7 @@ For adults and adolescents 15 years of age and older: one 10 mg tablet.
 
 For pediatric patients 6 to 14 years of age: one 5 mg chewable tablet.
 
-For pediatric patients 2 to 5 years of age: one 4 mg chewable tablet
+For pediatric patients 2 to 5 years of age: one 4 mg chewable tablet.
 
 Safety and effectiveness in pediatric patients younger than 2 years of age with seasonal allergic rhinitis have not been established.
 
@@ -52,7 +51,7 @@ For adults and adolescents 15 years of age and older: one 10 mg tablet.
 
 For pediatric patients 6 to 14 years of age: one 5 mg chewable tablet.
 
-For pediatric patients 2 to 5 years of age: one 4 mg chewable tablet
+For pediatric patients 2 to 5 years of age: one 4 mg chewable tablet.
 
 Safety and effectiveness in pediatric patients younger than 6 months of age with perennial allergic rhinitis have not been established.
 

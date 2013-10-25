@@ -87,7 +87,7 @@ Blood and lymphatic system disorders: increased bleeding tendency, thrombocytope
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
 
-Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, dream abnormalities, hallucinations, insomnia, irritability, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tremor [see WARNINGS AND PRECAUTIONS (5.4)].
+Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor [see WARNINGS AND PRECAUTIONS (5.4)].
 
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 
@@ -100,7 +100,7 @@ Gastrointestinal disorders: diarrhea, dyspepsia, nausea, pancreatitis, vomiting.
 Hepatobiliary disorders: Cases of cholestatic hepatitis, hepatocellular liver-injury, and mixed-pattern liver injury have been reported in patients treated with montelukast sodium.
 Most of these occurred in combination with other confounding factors, such as use of other medications, or when montelukast sodium was administered to patients who had underlying potential for liver disease such as alcohol use or other forms of hepatitis.
 
-Skin and subcutaneous tissue disorders: angioedema, bruising, erythema multiforme, erythema nodosum, pruritus, urticaria.
+Skin and subcutaneous tissue disorders: angioedema, bruising, erythema multiforme, erythema nodosum, pruritus, Stevens-Johnson syndrome/toxic epidermal necrolysis, urticaria.
 
 Musculoskeletal and connective tissue disorders: arthralgia, myalgia including muscle cramps.
 
