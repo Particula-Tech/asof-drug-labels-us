@@ -30,6 +30,6 @@ CEFEPIME FOR INJECTION, USP
 
 Single-Dose Vial
 
-For IV or IM Use
+For IV Use
 
 After Constitution

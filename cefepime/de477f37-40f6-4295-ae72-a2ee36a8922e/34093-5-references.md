@@ -15,4 +15,4 @@ SAGENT™
 
 Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Brazil ©2013 Sagent Pharmaceuticals, Inc.
 
-Revised: January 2013
+Revised: June 2013

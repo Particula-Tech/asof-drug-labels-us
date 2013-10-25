@@ -14,7 +14,7 @@ Continued dosage should be determined by degree of renal impairment, severity of
 
 ## Neurotoxicity
 
-During postmarketing surveillance, serious adverse reactions have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and nonconvulsive status epilepticus (see ADVERSE REACTIONS: Postmarketing Experience).
+During postmarketing surveillance, serious adverse reactions have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and non-convulsive status epilepticus (see ADVERSE REACTIONS: Postmarketing Experience).
 Most cases occurred in patients with renal impairment who did not receive appropriate dosage adjustment.
 However, some cases of neurotoxicity occurred in patients receiving a dosage adjustment appropriate for their degree of renal impairment.
 In the majority of cases, symptoms of neurotoxicity were reversible and resolved after discontinuation of cefepime and/or after hemodialysis.
@@ -57,6 +57,11 @@ The effect of lower doses is not presently known.
 
 ## Information for Patients
 
+Before therapy with cefepime for injection is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefepime, cephalosporins, penicillins, or other drugs.
+Exercise caution if this product is to be given to penicillin-sensitive patients because cross-hypersensitivity among beta-lactam antibiotics has been clearly documented and may occur in up to 10% of patients with a history of penicillin allergy.
+If an allergic reaction to cefepime for injection occurs, discontinue the drug.
+Serious acute hypersensitivity reactions may require treatment with epinephrine and other emergency measures including oxygen, corticosteroids, intravenous fluids, intravenous antihistamines, pressor amines, and airway management, as clinically indicated.
+
 Patients should be counseled that antibacterial drugs including cefepime for injection should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When cefepime for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -67,7 +72,7 @@ Sometimes after starting treatment with antibiotics, patients can develop watery
 If this occurs, patients should contact their physician as soon as possible.
 
 Patients should be advised of neurological adverse events that could occur with cefepime for injection use.
-Patients should be instructed to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, and seizures, for immediate treatment, dosage adjustment, or discontinuation of cefepime for injection.
+Patients should be instructed to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and non-convulsive status epilepticus for immediate treatment, dosage adjustment, or discontinuation of cefepime for injection.
 
 ## Drug Interactions
 
