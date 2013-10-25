@@ -34,6 +34,6 @@ Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and 
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Rev 08/2013
+Rev 10/2013
 
 Mallinckrodt™ Pharmaceuticals

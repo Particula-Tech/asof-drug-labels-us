@@ -13,7 +13,7 @@ Instruct patients to seek medical attention immediately upon ingestion of more t
 
 Serious Skin Reactions
 
-Rarely, acetaminophen can cause serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+Rarely, acetaminophen may cause serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 Patients should be informed about the signs of serious skin reactions, and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
 Death Related to Ultra-Rapid Metabolism of Codeine to Morphine
