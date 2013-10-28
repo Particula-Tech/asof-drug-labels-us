@@ -15,9 +15,9 @@ Docetaxel Injection can cause serious side effects, including death.
 1.
 The chance of death in people who receive Docetaxel Injection is higher if you:
 
-- have liver problems
-- receive high doses of Docetaxel Injection
-- have non-small cell lung cancer and have been treated with chemotherapy medicines that contain platinum
+- •have liver problems
+- •receive high doses of Docetaxel Injection
+- •have non-small cell lung cancer and have been treated with chemotherapy medicines that contain platinum
 
 2.
 Docetaxel Injection can affect your blood cells.
@@ -35,9 +35,9 @@ Serious allergic reactions are medical emergencies that can lead to death and mu
 
 Tell your doctor right away if you have any of these signs of a serious allergic reaction:
 
-- trouble breathing
-- sudden swelling of your face, lips, tongue, throat, or trouble swallowing
-- hives (raised bumps), rash, or redness all over your body.
+- •trouble breathing
+- •sudden swelling of your face, lips, tongue, throat, or trouble swallowing
+- •hives (raised bumps), rash, or redness all over your body.
 
 4.
 Your body may hold too much fluid (severe fluid retention) during treatment with Docetaxel Injection.
@@ -50,11 +50,11 @@ What is Docetaxel Injection?
 
 Docetaxel Injection is a prescription anti-cancer medication used to treat certain people with:
 
-- breast cancer
-- non-small cell lung cancer
-- prostate cancer
-- stomach cancer
-- head and neck cancer
+- •breast cancer
+- •non-small cell lung cancer
+- •prostate cancer
+- •stomach cancer
+- •head and neck cancer
 
 The effectiveness of Docetaxel Injection in children has not been established.
 
@@ -62,25 +62,25 @@ Who should not take Docetaxel Injection?
 
 Do not take Docetaxel Injection if you:
 
-- have had a severe allergic reaction to:
-  - docetaxel, the active ingredient in Docetaxel Injection, or
-  - any other medicines that contain polysorbate 80.
-    Ask your doctor or pharmacist if you are not sure.See "What is the most important information I should know about Docetaxel Injection?" for the signs and symptoms of a severe allergic reaction.
-
-- have a low white blood cell count.
+- •have had a severe allergic reaction to:
+  - odocetaxel, the active ingredient in Docetaxel Injection, or
+  - oany other medicines that contain polysorbate 80.
+    Ask your doctor or pharmacist if you are not sure.
+- See "What is the most important information I should know about Docetaxel Injection?" for the signs and symptoms of a severe allergic reaction.
+- •have a low white blood cell count.
 
 What should I tell my doctor before receiving Docetaxel Injection?
 
 Before you receive Docetaxel Injection, tell your doctor if you:
 
-- are allergic to any medicines.
+- •are allergic to any medicines.
   See "Who should not take Docetaxel Injection?"
   Also, see the end of this leaflet for a list of the ingredients in Docetaxel Injection.
-- have liver problems
-- have any other medical conditions
-- are pregnant or plan to become pregnant.
+- •have liver problems
+- •have any other medical conditions
+- •are pregnant or plan to become pregnant.
   Docetaxel Injection can harm your unborn baby.
-- are breast-feeding or plan to breast-feed.
+- •are breast-feeding or plan to breast-feed.
   It is not known if Docetaxel Injection passes into your breast milk.
   You and your doctor should decide if you will take Docetaxel Injection or breast-feed.
 
@@ -92,41 +92,41 @@ Keep a list of them and show it to your doctor and pharmacist when you get a new
 
 How will I receive Docetaxel Injection?
 
-- Docetaxel Injection will be given to you as an intravenous (IV) injection into your vein, usually over 1 hour.
-- Docetaxel Injection is usually given every 3 weeks.
-- Your doctor will decide how long you will receive treatment with Docetaxel Injection.
-- Your doctor will check your blood cell counts and other blood tests during your treatment with Docetaxel Injection to check for side effects of Docetaxel Injection.
-- Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while taking Docetaxel Injection.
+- •Docetaxel Injection will be given to you as an intravenous (IV) injection into your vein, usually over 1 hour.
+- •Docetaxel Injection is usually given every 3 weeks.
+- •Your doctor will decide how long you will receive treatment with Docetaxel Injection.
+- •Your doctor will check your blood cell counts and other blood tests during your treatment with Docetaxel Injection to check for side effects of Docetaxel Injection.
+- •Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while taking Docetaxel Injection.
 
 What are the possible side effects of Docetaxel Injection?
 
 Docetaxel Injection may cause serious side effects including death.
 
-- See "What is the most important information I should know about Docetaxel Injection?"
-- Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take Docetaxel Injection along with certain other medicines.
+- •See "What is the most important information I should know about Docetaxel Injection?"
+- •Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take Docetaxel Injection along with certain other medicines.
   Tell your doctor about all the medicines you take.
-- Other Blood Disorders - Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection.
-- Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
-- Neurologic Symptoms including numbness, tingling, or burning in your hands and feet.
+- •Other Blood Disorders - Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection.
+- •Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
+- •Neurologic Symptoms including numbness, tingling, or burning in your hands and feet.
 
 The most common side effects of Docetaxel Injection include:
 
-- changes in your sense of taste
-- feeling short of breath
-- constipation
-- decreased appetite
-- changes in your fingernails or toenails
-- swelling of your hands, face or feet
-- feeling weak or tired
-- joint and muscle pain
-- nausea and vomiting
-- diarrhea
-- mouth or lips sores
-- hair loss
-- rash
-- redness of the eye, excess tearing
-- skin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin.
-- tissue damage if Docetaxel Injection leaks out of the vein into the tissues
+- •changes in your sense of taste
+- •feeling short of breath
+- •constipation
+- •decreased appetite
+- •changes in your fingernails or toenails
+- •swelling of your hands, face or feet
+- •feeling weak or tired
+- •joint and muscle pain
+- •nausea and vomiting
+- •diarrhea
+- •mouth or lips sores
+- •hair loss
+- •rash
+- •redness of the eye, excess tearing
+- •skin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin.
+- •tissue damage if Docetaxel Injection leaks out of the vein into the tissues
 
 Tell your doctor if you have any side effect that bothers you or does not go away.
 
@@ -149,13 +149,13 @@ What are the ingredients in Docetaxel Injection?
 
 Active ingredient: docetaxel
 
-Inactive ingredients include: ethanol and polysorbate 80
+Inactive ingredients include: citric acid, ethanol, polyethylene glycol 300, and polysorbate 80
 
-| Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancersTake your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Day 1 Date:________ Time: _____AM_____ PM Day 2 Date:________ Time: _____AM_____ PM(Docetaxel Injection Treatment Day) Day 3 Date:________ Time: _____AM_____ PM |
-| --- |
+| Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancersTake your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Day 1 Date:________ Time: _____AM_____ PM Day 2 Date:________ Time: _____AM_____ PM(Docetaxel Injection Treatment Day) Day 3 Date:________ Time: _____AM_____ PM |  |
+| --- | --- |
 
-| Every three-week injection of Docetaxel Injection for prostate cancerTake your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Date:________ Time: ________ Date:________ Time: ________(Docetaxel Injection Treatment Day) Time: ________ |
-| --- |
+| Every three-week injection of Docetaxel Injection for prostate cancerTake your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Date:________ Time: ________ Date:________ Time: ________(Docetaxel Injection Treatment Day) Time: ________ |  |
+| --- | --- |
 
 Manufactured for:
 
@@ -168,4 +168,4 @@ Nfg.KG
 
 A-4866 Unterach, Austria
 
-April 2012
+August 2013
