@@ -9,18 +9,18 @@ IL-6 is also produced by synovial and endothelial cells leading to local product
 
 ## 12.2 Pharmacodynamics
 
-In clinical studies with the 4 mg per kg and 8 mg per kg doses of ACTEMRA, decreases in levels of C-reactive protein (CRP) to within normal ranges were seen as early as week 2.
-Changes in pharmacodynamic parameters were observed (i.e., decreases in rheumatoid factor, erythrocyte sedimentation rate (ESR), serum amyloid A and increases in hemoglobin) with both doses, however the greatest improvements were observed with 8 mg per kg ACTEMRA.
+In clinical studies with the 4 mg per kg and 8 mg per kg IV doses or the 162 mg weekly and every other weekly SC doses of ACTEMRA, decreases in levels of C-reactive protein (CRP) to within normal ranges were seen as early as week 2.
+Changes in pharmacodynamic parameters were observed (i.e., decreases in rheumatoid factor, erythrocyte sedimentation rate (ESR), serum amyloid A and increases in hemoglobin) with doses, however the greatest improvements were observed with 8 mg per kg ACTEMRA.
 Pharmacodynamic changes were also observed to occur after ACTEMRA administration in PJIA and SJIA patients (decreases in CRP, ESR, and increases in hemoglobin).
 The relationship between these pharmacodynamic findings and clinical efficacy is not known.
 
-In healthy subjects administered ACTEMRA in doses from 2 to 28 mg per kg, absolute neutrophil counts decreased to the nadir 3 to 5 days following ACTEMRA administration.
+In healthy subjects administered ACTEMRA in doses from 2 to 28 mg per kg intravenously and 81 to 162 mg subcutaneously, absolute neutrophil counts decreased to the nadir 3 to 5 days following ACTEMRA administration.
 Thereafter, neutrophils recovered towards baseline in a dose dependent manner.
 Rheumatoid arthritis patients demonstrated a similar pattern of absolute neutrophil counts following ACTEMRA administration [see Warnings and Precautions (5.3)].
 
 ## 12.3 Pharmacokinetics
 
-Rheumatoid Arthritis
+Rheumatoid Arthritis—Intravenous Administration
 
 The pharmacokinetics characterized in healthy subjects and RA patients suggested that PK is similar between the two populations.
 The clearance (CL) of tocilizumab decreased with increased doses.
@@ -34,35 +34,54 @@ Maximum concentration (Cmax) increased dose-proportionally.
 At steady-state, estimated AUC and Cmin were 2.7 and 6.5-fold higher at 8 mg per kg as compared to 4 mg per kg, respectively.
 In a long-term study with dosing for 104 weeks, observed Cmin was sustained over time.
 
-For doses of ACTEMRA 4 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 13000 ± 5800 mcg∙h per mL, 1.49 ± 2.13 mcg per mL, and 88.3 ± 41.4 mcg per mL, respectively.
+For doses of ACTEMRA 4 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 13000 ± 5800 mcg•h per mL, 1.49 ± 2.13 mcg per mL, and 88.3 ± 41.4 mcg per mL, respectively.
 The accumulation ratios for AUC and Cmax were 1.11 and 1.02, respectively.
 The accumulation ratio was higher for Cmin (1.96).
-Steady-state was reached following the first administration for Cmax and AUC, respectively, and after 16 weeks Cmin.For doses of ACTEMRA 8 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 35000 ± 15500 mcg∙h per mL, 9.74 ± 10.5 mcg per mL, and 183 ± 85.6 mcg per mL, respectively.
+Steady-state was reached following the first administration for Cmax and AUC, respectively, and after 16 weeks Cmin.
+For doses of ACTEMRA 8 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 35000 ± 15500 mcg•h per mL, 9.74 ± 10.5 mcg per mL, and 183 ± 85.6 mcg per mL, respectively.
 The accumulation ratios for AUC and Cmax were 1.22 and 1.06, respectively.
 The accumulation ratio was higher for Cmin (2.35).
 Steady-state was reached following the first administration and after 8 and 20 weeks for Cmax, AUC, and Cmin, respectively.
 Tocilizumab AUC, Cmin and Cmax increased with increase of body weight.
-At body weight at or above 100 kg, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 55500 ± 14100 mcg∙h per mL, 19.0 ± 12.0 mcg per mL, and 269 ± 57 mcg per mL, respectively, which are higher than mean exposure values for the patient population.
+At body weight at or above 100 kg, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 55500 ± 14100 mcg•h per mL, 19.0 ± 12.0 mcg per mL, and 269 ± 57 mcg per mL, respectively, which are higher than mean exposure values for the patient population.
 Therefore, ACTEMRA doses exceeding 800 mg per infusion are not recommended [see Dosage and Administration (2.1)].
 
-Polyarticular Juvenile Idiopathic Arthritis
+Rheumatoid Arthritis—Subcutaneous Administration
+
+The pharmacokinetics of tocilizumab was characterized using a population pharmacokinetic analysis using a database composed of 1759 rheumatoid arthritis patients treated with 162 mg SC every week, 162 mg SC every other week, and 8 mg/kg every 4 weeks for 24 weeks.
+
+The pharmacokinetic parameters of tocilizumab did not change with time.
+For the 162 mg every week dose, the estimated mean (±SD) steady-state AUC1week, Cmin and Cmax of tocilizumab were 8200 ± 3600 mcg•h/mL, 44.6 ± 20.6 mcg/mL, and 50.9 ± 21.8 mcg/mL, respectively.
+The accumulation ratios for AUC, Cmin, and Cmax were 6.83, 6.37, and 5.47, respectively.
+Steady state was reached after 12 weeks for AUC, Cmin, and Cmax.
+
+For the 162 mg every other week dose, the estimated mean (±SD) steady-state AUC2week, Cmin, and Cmax of tocilizumab were 3200 ± 2700 mcg•h/mL, 5.6 ± 7.0 mcg/mL, and 12.3 ± 8.7 mcg/mL, respectively.
+The accumulation ratios for AUC, Cmin, and Cmax were 2.67, 5.6, and 2.12, respectively.
+Steady state was reached after 12 weeks for AUC and Cmin, and after 10 weeks for Cmax.
+
+Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The pharmacokinetics of tocilizumab was determined using a population pharmacokinetic analysis on a database composed of 188 patients with polyarticular juvenile idiopathic arthritis.
 
-For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 29500 ± 8660 mcg∙hr/mL, 182 ± 37 mcg/mL and 7.49 ± 8.2 mcg/mL, respectively.
+For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 29500 ± 8660 mcg•hr/mL, 182 ± 37 mcg/mL and 7.49 ± 8.2 mcg/mL, respectively.
 
-For doses of 10 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 23200 ± 6100 mcg∙hr/mL, 175 ± 32 mcg/mL and 2.35 ± 3.59 mcg/mL, respectively.
+For doses of 10 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 23200 ± 6100 mcg•hr/mL, 175 ± 32 mcg/mL and 2.35 ± 3.59 mcg/mL, respectively.
 
 The accumulation ratios were 1.05 and 1.16 for AUC4weeks, and 1.43 and 2.22 for Cmin for 10 mg/kg (BW less than 30 kg) and 8 mg/kg (BW at or above 30 kg) doses, respectively.
 No accumulation for Cmax was observed.
 
-Systemic Juvenile Idiopathic Arthritis
+Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 75 patients with SJIA treated with 8 mg per kg (patients with a body weight at or above 30 kg) or 12 mg per kg (patients with a body weight less than 30 kg), given every 2 weeks.
-The estimated mean (± SD) AUC2 weeks, Cmax and Cmin of tocilizumab were 32200 ± 9960 mcg∙hr per mL, 245 ± 57.2 mcg per mL and 57.5 ± 23.3 mcg per mL, respectively.
+The estimated mean (± SD) AUC2 weeks, Cmax and Cmin of tocilizumab were 32200 ± 9960 mcg•hr per mL, 245 ± 57.2 mcg per mL and 57.5 ± 23.3 mcg per mL, respectively.
 The accumulation ratio for Cmin (week 12 over week 2) was 3.2 ± 1.3.
 Steady state was reached on or after week 12.
 Mean estimated tocilizumab exposure parameters were similar between the two dose groups defined by body weight.
+
+Absorption
+
+Following SC dosing in rheumatoid arthritis patients, the absorption half-life was around 4 days.
+The bioavailability for the SC formulation was 0.8.
 
 Distribution
 
@@ -81,7 +100,8 @@ The concentration-dependent nonlinear clearance plays a major role at low tocili
 Once the nonlinear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
 
 The t1/2 of tocilizumab is concentration-dependent.
-The concentration-dependent apparent t1/2 is up to 11 days for 4 mg per kg and up to 13 days for 8 mg per kg every 4 weeks in patients with RA at steady-state.
+For IV administration, the concentration-dependent apparent t1/2 is up to 11 days for 4 mg per kg and up to 13 days for 8 mg per kg every 4 weeks in patients with RA at steady-state.
+For SC administration, the concentration-dependent apparent t1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
 
 The t1/2 of tocilizumab in children with PJIA is up to 16 days for the two body weight categories (8 mg/kg for body weight at or above 30 kg or 10 mg/kg for body weight less than 30 kg) during a dosing interval at steady state.
 
@@ -92,6 +112,7 @@ Pharmacokinetics in Special Populations
 Population pharmacokinetic analyses in adult rheumatoid arthritis patients showed that age, gender and race did not affect the pharmacokinetics of tocilizumab.
 Linear clearance was found to increase with body size.
 The body weight-based dose (8 mg per kg) resulted in approximately 86% higher exposure in patients who are greater than 100 kg in comparison to patients who are less than 60 kg.
+There was an inverse relationship between tocilizumab exposure and body weight for flat dose SC regimens.
 
 Hepatic Impairment
 

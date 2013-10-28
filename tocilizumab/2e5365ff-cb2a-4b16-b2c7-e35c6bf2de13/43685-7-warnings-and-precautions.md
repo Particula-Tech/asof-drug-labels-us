@@ -8,7 +8,7 @@ Among opportunistic infections, tuberculosis, cryptococcus, aspergillosis, candi
 Other serious infections, not reported in clinical studies, may also occur (e.g., histoplasmosis, coccidioidomycosis, listeriosis).
 Patients have presented with disseminated rather than localized disease, and were often taking concomitant immunosuppressants such as methotrexate or corticosteroids which in addition to rheumatoid arthritis may predispose them to infections.
 
-ACTEMRA should not be administered in patients with an active infection, including localized infections.
+Do not administer ACTEMRA in patients with an active infection, including localized infections.
 The risks and benefits of treatment should be considered prior to initiating ACTEMRA in patients:
 
 - with chronic or recurrent infection;
@@ -17,19 +17,19 @@ The risks and benefits of treatment should be considered prior to initiating ACT
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
 
-Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.4), Adverse Reactions (6.1), and Patient Counseling Information (17)].
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.4), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
-ACTEMRA should be interrupted if a patient develops a serious infection, an opportunistic infection, or sepsis.
-A patient who develops a new infection during treatment with ACTEMRA should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
+Hold ACTEMRA if a patient develops a serious infection, an opportunistic infection, or sepsis.
+A patient who develops a new infection during treatment with ACTEMRA should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, initiate appropriate antimicrobial therapy, and closely monitor the patient.
 
 Tuberculosis
 
-Patients should be evaluated for tuberculosis risk factors and tested for latent infection prior to initiating ACTEMRA.
+Evaluate patients for tuberculosis risk factors and test for latent infection prior to initiating ACTEMRA.
 
-Anti-tuberculosis therapy should also be considered prior to initiation of ACTEMRA in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
+Consider anti-tuberculosis therapy prior to initiation of ACTEMRA in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
 Consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
 
-Patients should be closely monitored for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
+Closely monitor patients for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
 
 It is recommended that patients be screened for latent tuberculosis infection prior to starting ACTEMRA.
 The incidence of tuberculosis in worldwide clinical development programs is 0.1%.
@@ -43,61 +43,61 @@ No cases of Hepatitis B reactivation were observed in the trials; however patien
 ## 5.2 Gastrointestinal Perforations
 
 Events of gastrointestinal perforation have been reported in clinical trials, primarily as complications of diverticulitis in RA patients.
-ACTEMRA should be used with caution in patients who may be at increased risk for gastrointestinal perforation.
-Patients presenting with new onset abdominal symptoms should be evaluated promptly for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
+Use ACTEMRA with caution in patients who may be at increased risk for gastrointestinal perforation.
+Promptly evaluate patients presenting with new onset abdominal symptoms for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
 ## 5.3 Laboratory Parameters
 
 Rheumatoid Arthritis
 
-Neutrophils
+Neutropenia
 
 Treatment with ACTEMRA was associated with a higher incidence of neutropenia.
 Infections have been uncommonly reported in association with treatment-related neutropenia in long-term extension studies and postmarketing clinical experience.
 
 - –It is not recommended to initiate ACTEMRA treatment in patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
   In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
-- – Neutrophils should be monitored every 4 to 8 weeks [see Clinical Pharmacology (12.2)].
-  For recommended modifications based on ANC results see [Dosage and Administration (2.5)].
+- –Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
+  For recommended modifications based on ANC results see [Dosage and Administration (2.7)].
 
-Platelets
+Thrombocytopenia
 
 Treatment with ACTEMRA was associated with a reduction in platelet counts.
-Treatment-related reduction in platelets was not associated with serious bleeding events in clinical trials [see Adverse Reactions (6.1)].
+Treatment-related reduction in platelets was not associated with serious bleeding events in clinical trials [see Adverse Reactions (6.1, 6.2)].
 
 - –It is not recommended to initiate ACTEMRA treatment in patients with a platelet count below 100,000 per mm3.
   In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
-- –Platelets should be monitored every 4 to 8 weeks.
-  For recommended modifications based on platelet counts see [Dosage and Administration (2.5)].
+- –Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
+  For recommended modifications based on platelet counts see [Dosage and Administration (2.7)].
 
-Liver Function Tests
+Elevated Liver Enzymes
 
 Treatment with ACTEMRA was associated with a higher incidence of transaminase elevations.
-These elevations did not result in apparent permanent or clinically evident hepatic injury in clinical trials [see Adverse Reactions (6.1)].
+These elevations did not result in apparent permanent or clinically evident hepatic injury in clinical trials [see Adverse Reactions (6.1, 6.2)].
 Increased frequency and magnitude of these elevations was observed when potentially hepatotoxic drugs (e.g., MTX) were used in combination with ACTEMRA.
 
-In one case, a patient who had received ACTEMRA 8 mg per kg monotherapy without elevations in transaminases experienced elevation in AST to above 10x ULN and elevation in ALT to above 16x ULN when MTX was initiated in combination with ACTEMRA.
+In one case, a patient who had received ACTEMRA 8 mg per kg monotherapy without elevations in transaminases experienced elevation in AST to above 10× ULN and elevation in ALT to above 16× ULN when MTX was initiated in combination with ACTEMRA.
 Transaminases normalized when both treatments were held, but elevations recurred when MTX and ACTEMRA were restarted at lower doses.
 Elevations resolved when MTX and ACTEMRA were discontinued.
 
-- –It is not recommended to initiate ACTEMRA treatment in patients with elevated transaminases ALT or AST greater than 1.5x ULN.
-  In patients who develop elevated ALT or AST greater than 5x ULN treatment is not recommended.
-- –ALT and AST levels should be monitored every 4 to 8 weeks.
+- –It is not recommended to initiate ACTEMRA treatment in patients with elevated transaminases ALT or AST greater than 1.5× ULN.
+  In patients who develop elevated ALT or AST greater than 5× ULN treatment is not recommended.
+- –Monitor ALT and AST levels 4 to 8 weeks after start of therapy and every 3 months thereafter.
   When clinically indicated, other liver function tests such as bilirubin should be considered.
-  For recommended modifications based on transaminases see [Dosage and Administration (2.5)].
+  For recommended modifications based on transaminases see [Dosage and Administration (2.7)].
 
-Lipids
+Lipid Abnormalities
 
-Treatment with ACTEMRA was associated with increases in lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol [see Adverse Reactions (6.1)].
+Treatment with ACTEMRA was associated with increases in lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol [see Adverse Reactions (6.1, 6.2)].
 
-- –Assessment of lipid parameters should be performed approximately 4 to 8 weeks following initiation of ACTEMRA therapy, then at approximately 24 week intervals.
-- –Patients should be managed according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
+- –Assess lipid parameters approximately 4 to 8 weeks following initiation of ACTEMRA therapy, then at approximately 24 week intervals.
+- –Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
 Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with ACTEMRA treatment in the PJIA and SJIA populations.
-Neutrophils, Platelets, ALT and AST should be monitored at the time of the second infusion and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
-Lipids should be monitored as above for RA [see Dosage and Administration (2.4)].
+Monitor neutrophils, platelets, ALT and AST at the time of the second infusion and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
+Monitor lipids as above for RA [see Dosage and Administration (2.7)].
 
 ## 5.4 Immunosuppression
 
@@ -106,19 +106,25 @@ ACTEMRA is an immunosuppressant, and treatment with immunosuppressants may resul
 
 ## 5.5 Hypersensitivity Reactions, Including Anaphylaxis
 
-Hypersensitivity reactions, including anaphylaxis and death, have been reported in association with infusion of ACTEMRA [see Adverse Reactions (6.1, 6.2)].
-Anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials, and in 0.2% (8 out of 4009) of patients in the all-exposure rheumatoid arthritis population; and in the SJIA controlled trial, 1 out of 112 patients (0.9%).
-In the postmarketing setting, events of clinically significant hypersensitivity and anaphylaxis, including events with a fatal outcome, have occurred in patients treated with a range of doses of ACTEMRA, with or without concomitant arthritis therapies.
+Hypersensitivity reactions, including anaphylaxis, have been reported in association with ACTEMRA [see Adverse Reactions (6)] and anaphylactic events with a fatal outcome have been reported with intravenous infusion of ACTEMRA.
+Anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials of intravenous ACTEMRA, 0.2% (8 out of 4009) of patients in the intravenous all-exposure RA population, 0.7% (8 out of 1068) in the subcutaneous 6-month controlled RA trials, and in 0.7% (10 out of 1465) of patients in the subcutaneous all-exposure population.
+In the SJIA controlled trial with intravenous ACTEMRA, 1 out of 112 patients (0.9%) experienced hypersensitivity reactions that required treatment discontinuation.
+In the PJIA controlled trial with intravenous ACTEMRA, 0 out of 188 patients (0%) in the ACTEMRA all-exposure population experienced hypersensitivity reactions that required treatment discontinuation.
+Reactions that required treatment discontinuation included generalized erythema, rash, and uticaria.
+Injection site reactions were categorized separately [see Adverse Reactions (6)].
+
+In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous ACTEMRA, with or without concomitant arthritis therapies.
 Events have occurred in patients who received premedication.
-Clinically significant hypersensitivity and anaphylaxis events have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.2)].
-ACTEMRA should only be administered by a healthcare professional with appropriate medical support to manage anaphylaxis.
-If anaphylaxis or other clinically significant hypersensitivity reaction occurs, administration of ACTEMRA should be stopped immediately and ACTEMRA should be permanently discontinued.
+Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.5)].
+ACTEMRA for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
+For ACTEMRA subcutaneous injection, advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction.
+If anaphylaxis or other hypersensitivity reaction occurs, stop administration of ACTEMRA immediately and discontinue ACTEMRA permanently.
 Do not administer ACTEMRA to patients with known hypersensitivity to ACTEMRA [see Contraindications (4) and Adverse Reactions (6)].
 
 ## 5.6 Demyelinating Disorders
 
 The impact of treatment with ACTEMRA on demyelinating disorders is not known, but multiple sclerosis and chronic inflammatory demyelinating polyneuropathy were reported rarely in RA clinical studies.
-Patients should be closely monitored for signs and symptoms potentially indicative of demyelinating disorders.
+Monitor patients for signs and symptoms potentially indicative of demyelinating disorders.
 Prescribers should exercise caution in considering the use of ACTEMRA in patients with preexisting or recent onset demyelinating disorders.
 
 ## 5.7 Active Hepatic Disease and Hepatic Impairment
@@ -127,8 +133,9 @@ Treatment with ACTEMRA is not recommended in patients with active hepatic diseas
 
 ## 5.8 Vaccinations
 
-Live vaccines should not be given concurrently with ACTEMRA as clinical safety has not been established.
+Avoid use of live vaccines concurrently with ACTEMRA as clinical safety has not been established.
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving ACTEMRA.
+
 No data are available on the effectiveness of vaccination in patients receiving ACTEMRA.
 Because IL-6 inhibition may interfere with the normal immune response to new antigens, it is recommended that all patients, particularly PJIA and SJIA patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating ACTEMRA therapy.
 The interval between live vaccinations and initiation of ACTEMRA therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.

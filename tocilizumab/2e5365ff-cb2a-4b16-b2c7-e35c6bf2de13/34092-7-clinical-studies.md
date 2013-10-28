@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-Rheumatoid Arthritis
+## 14.1 Rheumatoid Arthritis –Intravenous Administration
 
-The efficacy and safety of ACTEMRA was assessed in five randomized, double-blind, multicenter studies in patients greater than 18 years with active rheumatoid arthritis diagnosed according to American College of Rheumatology (ACR) criteria.
+The efficacy and safety of intravenously administered ACTEMRA was assessed in five randomized, double-blind, multicenter studies in patients greater than 18 years with active rheumatoid arthritis diagnosed according to American College of Rheumatology (ACR) criteria.
 Patients had at least 8 tender and 6 swollen joints at baseline.
 ACTEMRA was given intravenously every 4 weeks as monotherapy (Study I), in combination with methotrexate (MTX) (Studies II and III) or other disease-modifying anti-rheumatic drugs (DMARDs) (Study IV) in patients with an inadequate response to those drugs, or in combination with MTX in patients with an inadequate response to TNF antagonists (Study V).
 
@@ -33,12 +33,12 @@ The primary endpoint was the proportion of patients who achieved an ACR 20respon
 
 Clinical Response
 
-The percentages of ACTEMRA-treated patients achieving ACR 20, 50 and 70 responses are shown in Table 3.
-In all studies, patients treated with 8 mg per kg ACTEMRA had higher ACR 20, ACR 50, and ACR 70 response rates versus MTX- or placebo-treated patients at week 24.
+The percentages of intravenous ACTEMRA-treated patients achieving ACR 20, 50 and 70 responses are shown in Table 3.
+In all intravenous studies, patients treated with 8 mg per kg ACTEMRA had higher ACR 20, ACR 50, and ACR 70 response rates versus MTX- or placebo-treated patients at week 24.
 
 During the 24 week controlled portions of Studies I to V, patients treated with ACTEMRA at a dose of 4 mg per kg in patients with inadequate response to DMARDs or TNF antagonist therapy had lower response rates compared to patients treated with ACTEMRA 8 mg per kg.
 
-Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials (Percent of Patients)
+Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous ACTEMRA (Percent of Patients)
 
 | N=284 | N=286 (95% CI)CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) | N=393 | N=399 (95% CI) | N=398 (95% CI) | N=204 | N=213 (95% CI) | N=205 (95% CI) | N=413 | N=803 (95% CI) | N=158 | N=161 (95% CI) | N=170 (95% CI) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -57,10 +57,10 @@ Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Tr
 | Major Clinical Responses Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week period |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 52 |  | N/A | N/A | 1% | 4% (0.01, 0.06) | 7% (0.03, 0.09) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
-In study II, a greater proportion of patients with 4 mg per kg and 8 mg per kg ACTEMRA + MTX achived a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo +MTX treated patients at week 52.
+In study II, a greater proportion of patients treated with 4 mg per kg and 8 mg per kg ACTEMRA + MTX achieved a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo +MTX treated patients at week 52.
 The proportion of ACTEMRA-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 4.
 
-Table 4 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Residual Active Joints
+Table 4 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Residual Active Joints in Trials of Intravenous ACTEMRA
 
 |  | Placebo + MTX N = 393 | ACTEMRA 4 mg per kg + MTX N = 399 | ACTEMRA 8 mg per kg + MTX N = 398 |
 | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ Table 4 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Resid
 The results of the components of the ACR response criteria for Studies III and V are shown in Table 5.
 Similar results to Study III were observed in Studies I, II and IV.
 
-Table 5 Components of ACR Response at Week 24
+Table 5 Components of ACR Response at Week 24 in Trials of Intravenous ACTEMRA
 
 | Component (mean) | Baseline | Week 24Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ Table 5 Components of ACR Response at Week 24
 | CRP (mg per dL) | 2.79 | 1.17 -1.30 (-2.0, -0.59) | 2.61 | 0.25 -2.156 (-2.86, -1.46) | 2.36 | 1.89 | 3.11 | 1.77 -1.34 (-2.5, -0.15) | 2.80 | 0.28 -2.52 (-3.72, -1.32) | 3.705 | 3.06 |
 
 The percent of ACR 20 responders by visit for Study III is shown in Figure 1.
-Similar responses were observed in studies I, II, IV, and V.
+Similar response curves were observed in studies I, II, IV, and V.
 
 | Figure 1 Percent of ACR 20 Responders by Visit for Study III (Inadequate Response to MTX)The same patients may not have responded at each timepoint. |
 | --- |
@@ -132,7 +132,61 @@ Both dosing groups of ACTEMRA demonstrated a greater improvement compared to the
 The mean change from baseline to week 52 in HAQ-DI was 0.6, 0.5, and 0.4 for ACTEMRA 8 mg per kg, ACTEMRA 4 mg per kg, and placebo treatment groups, respectively.
 Sixty-three percent (63%) and sixty percent (60%) of patients in the ACTEMRA 8 mg per kg and ACTEMRA 4 mg per kg treatment groups, respectively, achieved a clinically relevant improvement in HAQ-DI (change from baseline of ≥ 0.3 units) at week 52 compared to 53% in the placebo treatment group.
 
-Polyarticular Juvenile Idiopathic Arthritis
+## 14.2 Rheumatoid Arthritis–Subcutaneous Administration
+
+The efficacy and safety of subcutaneously administered ACTEMRA was assessed in two double-blind, controlled, multicenter studies in patients with active RA.
+One study (SC-I) was a non-inferiority study that compared the efficacy and safety of ACTEMRA 162 mg administered every week subcutaneously (SC) to 8 mg per kg intravenously every four weeks.
+The second study (SC-II) was a placebo controlled superiority study that evaluated the safety and efficacy of ACTEMRA 162 mg administered every other week SC to placebo.
+Both SC-I and SC-II required patients to be >18 years of age with moderate to severe active rheumatoid arthritis diagnosed according to ACR criteria who had at least 4 tender and 4 swollen joints at baseline (SC-I) or at least 8 tender and 6 swollen joints at baseline (SC-II), and an inadequate response to their existing DMARD therapy, where approximately 20% also had a history of inadequate response to at least one TNF inhibitor.
+All patients in both SC studies received background non-biologic DMARD(s).
+
+In SC-I, 1262 patients were randomized 1:1 to receive ACTEMRA SC 162 mg every week or ACTEMRA intravenous 8 mg/kg every four weeks in combination with DMARD(s).
+In SC-II, 656 patients were randomized 2:1 to ACTEMRA SC 162 mg every other week or placebo, in combination with DMARD(s).
+The primary endpoint in both studies was the proportion of patients who achieved an ACR20 response at Week 24.
+
+The clinical response to 24 weeks of ACTEMRA SC therapy is shown in Table 7.
+In SC-I, the primary outcome measure was ACR20 at Week 24.
+The pre-specified non-inferiority margin was a treatment difference of 12%.
+The study demonstrated non-inferiority of ACTEMRA with respect to ACR20 at Week 24; ACR50, ACR70, and DAS28 responses are also shown in Table 7.
+In SC-II, a greater portion of patients treated with ACTEMRA 162 mg SC every other week achieved ACR20, ACR50, and ACR70 responses compared to placebo-treated patients (Table 7).
+Further, a greater proportion of patients treated with ACTEMRA 162 mg SC every other week achieved a low level of disease activity as measured by a DAS28-ESR less than 2.6 at Week 24 compared to those treated with placebo (Table 7).
+
+Table 7 Clinical Response at Week 24 in Trials of Subcutaneous ACTEMRA (Percent of Patients)
+
+|  | N=558 | N=537 | N=437 | N=219 |
+| --- | --- | --- | --- | --- |
+|  | SC-IPer Protocol Population |  | SC-IIIntent To Treat Population |  |
+|  | TCZ SC 162 mg every week + DMARD | TCZ IV 8mg/kg + DMARD | TCZ SC 162 mg every other week + DMARD | Placebo + DMARD |
+| ACR20 |  |  |  |  |
+| Week 24 | 69% | 73.4% | 61% | 32% |
+| Weighted difference (95% CI) | -4% (-9.2, 1.2) |  | 30% (22.0, 37.0) |  |
+| ACR50 |  |  |  |  |
+| Week 24 | 47% | 49% | 40% | 12% |
+| Weighted difference (95% CI) | -2% (-7.5, 4.0) |  | 28% (21.5, 34.4) |  |
+| ACR70 |  |  |  |  |
+| Week 24 | 24% | 28% | 20% | 5% |
+| Weighted difference (95% CI) | -4% (-9.0, 1.3) |  | 15% (9.8, 19.9) |  |
+| Change in DAS28 [Adjusted mean] |  |  |  |  |
+| Week 24 | -3.5 | -3.5 | -3.1 | -1.7 |
+| Adjusted mean difference (95% CI) | 0 (-0.2, 0.1) |  | -1.4 (-1.7; -1.1) |  |
+| DAS28 < 2.6 |  |  |  |  |
+| Week 24 | 38.4% | 36.9% | 32.0% | 4.0% |
+| Weighted difference (95% CI) | 0.9 (-5.0, 6.8) |  | 28.6 (22.0, 35.2) |  |
+| TCZ = tocilizumab |  |  |  |  |
+
+The results of the components of the ACR response criteria and the percent of ACR20 responders by visit for ACTEMRA-SC in Studies SC-I and SC-II were consistent with those observed for ACTEMRA-IV.
+
+Radiographic Response
+
+In study SC-II, the progression of structural joint damage was assessed radiographically and expressed as a change from baseline in the van der Heijde modified total Sharp score (mTSS).
+At week 24, significantly less radiographic progression was observed in patients receiving ACTEMRA SC every other week plus DMARD(s) compared to placebo plus DMARD(s); mean change from baseline in mTSS of 0.62 vs. 1.23, respectively, with an adjusted mean difference of -0.60 (-1.1, -0.1).
+These results are consistent with those observed in patients treated with intravenous ACTEMRA.
+
+Health Related Outcomes
+
+In studies SC-I and SC-II, the mean decrease from baseline to week 24 in HAQ-DI was 0.6, 0.6, 0.4 and 0.3, and the proportion of patients who achieved a clinically relevant improvement in HAQ-DI (change from baseline of ≥ 0.3 units) was 65%, 67%, 58% and 47%, for the SC every week, IV 8 mg/kg, SC every other week, and placebo treatment groups, respectively.
+
+## 14.3 Polyarticular Juvenile Idiopathic Arthritis-Intravenous Administration
 
 The efficacy of ACTEMRA was assessed in a three-part study including an open-label extension in children 2 to 17 years of age with active polyarticular juvenile idiopathic arthritis (PJIA), who had an inadequate response to methotrexate or inability to tolerate methotrexate.
 Patients had at least 6 months of active disease (mean disease duration of 4.2 ± 3.7 years), with at least five joints with active arthritis (swollen or limitation of movement accompanied by pain and/or tenderness) and/or at least 3 active joints having limitation of motion (mean, 20 ± 14 active joints).
@@ -144,18 +198,19 @@ Part I consisted of a 16-week active ACTEMRA treatment lead-in period (n=188) fo
 Eligible patients weighing at or above 30 kg received ACTEMRA at 8 mg/kg IV once every four weeks.
 Patients weighing less than 30 kg were randomized 1:1 to receive either ACTEMRA 8 mg/kg or 10 mg/kg IV every four weeks.
 At the conclusion of the open-label Part I, 91% of patients taking background MTX in addition to tocilizumab and 83% of patients on tocilizumab monotherapy achieved an ACR 30 response at week 16 compared to baseline and entered the blinded withdrawal period (Part II) of the study.
-The proportions of patients with JIA ACR 50/70 responses in Part I were 84.0%, and 64%, respectively for patients taking background MTX in addition to tocilizumab and 80% and 55% respectively for patients on tocilizumab monotherapy
+The proportions of patients with JIA ACR 50/70 responses in Part I were 84.0%, and 64%, respectively for patients taking background MTX in addition to tocilizumab and 80% and 55% respectively for patients on tocilizumab monotherapy.
 
 In Part II, patients (ITT, n=163) were randomized to ACTEMRA (same dose received in Part I) or placebo in a 1:1 ratio that was stratified by concurrent methotrexate use and concurrent corticosteroid use.
 Each patient continued in Part II of the study until Week 40 or until the patient satisfied JIA ACR 30 flare criteria (relative to Week 16) and qualified for escape.
 
 The primary endpoint was the proportion of patients with a JIA ACR 30 flare at week 40 relative to week 16.
 JIA ACR 30 flare was defined as 3 or more of the 6 core outcome variables worsening by at least 30% with no more than 1 of the remaining variables improving by more than 30% relative to Week 16.
+
 ACTEMRA treated patients experienced significantly fewer disease flares compared to placebo-treated patients (26% [21/82] versus 48% [39/81]; adjusted difference in proportions -21%, 95% CI: -35%, -8%).
 
 During the withdrawal phase (Part II), more patients treated with ACTEMRA showed JIA ACR 30/50/70 responses at Week 40 compared to patients withdrawn to placebo.
 
-Systemic Juvenile Idiopathic Arthritis
+## 14.4 Systemic Juvenile Idiopathic Arthritis-Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of active SJIA was assessed in a 12-week randomized, double blind, placebo-controlled, parallel group, 2-arm study.
 Patients treated with or without MTX, were randomized (ACTEMRA:placebo = 2:1) to one of two treatment groups: 75 patients received ACTEMRA infusions every two weeks at either 8 mg per kg for patients at or above 30 kg or 12 mg per kg for patients less than 30 kg and 37 were randomized to receive placebo infusions every two weeks.

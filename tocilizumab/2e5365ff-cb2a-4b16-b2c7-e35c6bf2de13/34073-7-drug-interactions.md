@@ -4,7 +4,7 @@
 
 Population pharmacokinetic analyses did not detect any effect of methotrexate (MTX), non-steroidal anti-inflammatory drugs or corticosteroids on tocilizumab clearance.
 
-Concomitant administration of a single dose of 10 mg per kg ACTEMRA with 10-25 mg MTX once weekly had no clinically significant effect on MTX exposure.
+Concomitant administration of a single intravenous dose of 10 mg per kg ACTEMRA with 10-25 mg MTX once weekly had no clinically significant effect on MTX exposure.
 
 ACTEMRA has not been studied in combination with biological DMARDs such as TNF antagonists [see Dosage and Administration (2.1)].
 
@@ -16,9 +16,9 @@ In vitro studies showed that tocilizumab has the potential to affect expression 
 Its effects on CYP2C8 or transporters is unknown.
 In vivo studies with omeprazole, metabolized by CYP2C19 and CYP3A4, and simvastatin, metabolized by CYP3A4, showed up to a 28% and 57% decrease in exposure one week following a single dose of ACTEMRA, respectively.
 The effect of tocilizumab on CYP enzymes may be clinically relevant for CYP450 substrates with narrow therapeutic index, where the dose is individually adjusted.
-Upon initiation or discontinuation of ACTEMRA, in patients being treated with these types of medicinal products, therapeutic monitoring of effect (e.g., warfarin) or drug concentration (e.g., cyclosporine or theophylline) should be performed and the individual dose of the medicinal product adjusted as needed.
-Prescribers should exercise caution when ACTEMRA is coadministered with CYP3A4 substrate drugs where decrease in effectiveness is undesirable, e.g., oral contraceptives, lovastatin, atorvastatin, etc. The effect of tocilizumab on CYP450 enzyme activity may persist for several weeks after stopping therapy [see Clinical Pharmacology (12.3)].
+Upon initiation or discontinuation of ACTEMRA, in patients being treated with these types of medicinal products, perform therapeutic monitoring of effect (e.g., warfarin) or drug concentration (e.g., cyclosporine or theophylline) and the individual dose of the medicinal product adjusted as needed.
+Exercise caution when coadministering ACTEMRA with CYP3A4 substrate drugs where decrease in effectiveness is undesirable, e.g., oral contraceptives, lovastatin, atorvastatin, etc. The effect of tocilizumab on CYP450 enzyme activity may persist for several weeks after stopping therapy [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Live Vaccines
 
-Live vaccines should not be given concurrently with ACTEMRA [see Warnings and Precautions (5.8)].
+Avoid use of live vaccines concurrently with ACTEMRA [see Warnings and Precautions (5.8)].
