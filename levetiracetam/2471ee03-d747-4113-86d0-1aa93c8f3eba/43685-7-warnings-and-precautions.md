@@ -15,11 +15,11 @@ The treatment dose was reduced in 0.8% of adult levetiracetam-treated patients a
 Overall, 10.9% of levetiracetam-treated pediatric patients experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6.2% of placebo patients.
 One percent of adult levetiracetam-treated patients, 2% of children 4 to 16 years of age, and 17% of children 1 month to <4 years of age experienced psychotic symptoms, compared to 0.2%, 2%, and 5% respectively, in the placebo patients.
 In the controlled study that assessed the neurocognitive and behavioral effects of levetiracetam in pediatric patients 4 to 16 years of age, 1 (1.6%) levetiracetam-treated patient experienced paranoia compared to no placebo patients.
-There were 2 (3.1%) levetiracetam-treated patients that experienced confusional state compared to no placebo patients [see Use in Specific Populations (8.4)] .
+There were 2 (3.1%) levetiracetam-treated patients that experienced confusional state compared to no placebo patients [see Use in Specific Populations (8.4)].
 Two (0.3%) adult levetiracetam-treated patients were hospitalized and their treatment was discontinued due to psychosis.
 Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
 There was no difference between drug and placebo-treated patients in the incidence of the pediatric patients who discontinued treatment due to psychotic and non-psychotic adverse reactions.
-The above psychiatric signs symptoms should be monitored.
+The above psychiatric signs and symptoms should be monitored.
 
 ## 5.2 Suicidal Behavior and Ideation
 
@@ -66,7 +66,7 @@ In controlled trials of adult patients with epilepsy experiencing partial onset 
 Treatment was discontinued due to asthenia in 0.8% of treated patients as compared to 0.5% of placebo patients.
 In 0.5% of treated patients and in 0.2% of placebo patients the dose was reduced due to asthenia.
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
-Patients should be monitored for these signs symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
+Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
 
 ## 5.4 Serious Dermatological Reactions
 
@@ -91,12 +91,12 @@ Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to m
 
 ## 5.7 Hematologic Abnormalities
 
-Partial Onset Seizures Adults Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 10 6 /mm 3 ), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients in controlled trials.
-A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (≤2.8 x 10 9 /L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (≤1 x 10 9 /L) decreased neutrophil count.
+Partial Onset Seizures Adults Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients in controlled trials.
+A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (≤2.8 x 109/L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (≤1 x 109/L) decreased neutrophil count.
 Of the treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
-Pediatric Patients 4 Years To < 16 Years Statistically significant decreases in WBC and neutrophil counts were seen in levetiracetam-treated patients as compared to placebo.
-The mean decreases from baseline in the levetiracetam-treated group were -0.4 x 10 9 /L and ­-0.3 x 10 9 /L, respectively, whereas there were small increases in the placebo group.
+Pediatric Patients 4 Years to < 16 Years Statistically significant decreases in WBC and neutrophil counts were seen in levetiracetam-treated patients as compared to placebo.
+The mean decreases from baseline in the levetiracetam-treated group were -0.4 x 109/L and ­-0.3 x 109/L, respectively, whereas there were small increases in the placebo group.
 Mean relative lymphocyte counts increased by 1.7% in levetiracetam-treated patients, compared to a decrease of 4% in placebo patients (statistically significant).
 In the controlled trial, more levetiracetam-treated patients had a possibly clinically significant abnormally low WBC value (3% levetiracetam-treated versus 0% placebo), however, there was no apparent difference between treatment groups with respect to neutrophil count (5% levetiracetam-treated versus 4.2% placebo).
 No patient was discontinued secondary to low WBC or neutrophil counts.

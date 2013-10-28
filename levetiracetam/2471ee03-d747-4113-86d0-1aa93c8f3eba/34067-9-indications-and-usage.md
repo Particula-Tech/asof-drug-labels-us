@@ -5,7 +5,7 @@
 Levetiracetam tablets USP are indicated as adjunctive therapy in the treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy.
 
 Information describing the use of levetiracetam in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information .
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 1.2 Myoclonic Seizures In Patients With Juvenile Myoclonic Epilepsy
 
