@@ -82,19 +82,19 @@ Note to authorized dispenser: Give a Medication Guide to each patient dispensed 
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Bottle Label
 
-NDC 0008-0836-20
+Pfizer
 
-Effexor XR® (venlafaxine HCl) Extended-Release Capsules
+NDC 0008-0836-20 Rx Only
 
-equivalent to 150 mg venlafaxine
+Effexor XR® (venlafaxine HCl)
 
-SEALED FOR YOUR PROTECTION
+Extended-Release Capsules
 
-Note to authorized dispenser: Each time Effexor XR is dispensed, give the patient the attached Medication Guide.
+equivalent to
 
-Rx only
+150 mg venlafaxine
 
-Wyeth®
+SEALED FOR YOUR PROTECTION Note to authorized dispenser: Each time Effexor XR is dispensed, give the patient the attached Medication Guide.
 
 Unit of Use 15 Capsules
 
