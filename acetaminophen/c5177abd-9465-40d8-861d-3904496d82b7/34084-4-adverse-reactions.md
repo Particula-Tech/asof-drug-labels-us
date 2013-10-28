@@ -3,7 +3,8 @@
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
 - Hepatic Injury [see WARNINGS AND PRECAUTIONS (5.1)]
-- Allergy and Hypersensitivity [see WARNINGS AND PRECAUTIONS (5.2)]
+- Serious Skin Reactions [see WARNINGS AND PRECAUTIONS (5.2)]
+- Allergy and Hypersensitivity [see WARNINGS AND PRECAUTIONS (5.4)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -15,11 +16,11 @@ A total of 1020 adult patients have received OFIRMEV in clinical trials, includi
 Most patients were treated with OFIRMEV 1000 mg every 6 hours.
 A total of 13.1% (n=134) received OFIRMEV 650 mg every 4 hours.
 
-All adverse reactions that occurred in adult patients treated with either OFIRMEV or placebo in repeated dose, placebo-controlled clinical trials at an incidence ≥ 3% and at a greater frequency than placebo are listed in Table 2.
+All adverse reactions that occurred in adult patients treated with either OFIRMEV or placebo in repeated dose, placebo-controlled clinical trials at an incidence ≥ 3% and at a greater frequency than placebo are listed in Table 3.
 The most common adverse events in adult patients treated with OFIRMEV (incidence ≥ 5% and greater than placebo) were nausea, vomiting, headache, and insomnia.
 
-Table 2.
-Treatment-Emergent Adverse Reactions Occurring ≥ 3% in OFIRMEV and at a greater frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
+Table 3.
+Treatment-Emergent Adverse Reactions Occurring ≥ 3% in OFIRMEV-treated Patients and at a greater frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
 
 | System Organ Class – Preferred Term | OFIRMEV (N=402) n (%) | Placebo (N=379) n (%) |
 | --- | --- | --- |

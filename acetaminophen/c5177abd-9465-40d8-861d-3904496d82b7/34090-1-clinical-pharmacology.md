@@ -22,14 +22,14 @@ The pharmacokinetic profile of OFIRMEV has been demonstrated to be dose proporti
 The maximum concentration (Cmax) occurs at the end of the 15 minute intravenous infusion of OFIRMEV.
 Compared to the same dose of oral acetaminophen, the Cmax following administration of OFIRMEV is up to 70% higher, while overall exposure (area under the concentration time curve [AUC]) is very similar.
 
-Pharmacokinetic parameters of OFIRMEV (AUC, Cmax, terminal elimination half-life [T½], systemic clearance [CL], and volume of distribution at steady state [Vss]) following administration of a single intravenous dose of 15 mg/kg for the pediatric population and 1000 mg in adults are summarized in Table 3.
+Pharmacokinetic parameters of OFIRMEV (AUC, Cmax, terminal elimination half-life [T½], systemic clearance [CL], and volume of distribution at steady state [Vss]) following administration of a single intravenous dose of 15 mg/kg for the pediatric population and 1000 mg in adults are summarized in Table 4.
 
-Table 3.
+Table 4.
 OFIRMEV Pharmacokinetic Parameters
 
-| AUC (μg × h/mL) | Cmax (μg/mL) | T½ (h) | CL (L/h/kg) | Vss (L/kg) |  |
-| --- | --- | --- | --- | --- | --- |
 | Subpopulations | Mean (SD) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| AUC (μg × h/mL) | Cmax (μg/mL) | T½ (h) | CL (L/h/kg) | Vss (L/kg) |  |
 | Neonates | 62 (11) | 25 (4) | 7.0 (2.7) | 0.12 (0.04) | 1.1 (0.2) |
 | Infants | 57 (54) | 29 (24) | 4.2 (2.9) | 0.29 (0.15) | 1.1 (0.3) |
 | Children | 38 (8) | 29 (7) | 3.0 (1.5) | 0.34 (0.10) | 1.2 (0.3) |

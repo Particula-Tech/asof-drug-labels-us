@@ -14,7 +14,7 @@ OFIRMEV (acetaminophen) injection
 
 Manufactured for: Cadence Pharmaceuticals, Inc. San Diego, CA 92130
 
-Revised: 11/2010
+Revised: 10/2013
 
-© 2010 Cadence Pharmaceuticals, Inc. All rights reserved.
-OFIRMEV and CADENCE™ are trademarks of Cadence Pharmaceuticals, Inc. U.S. PATENT NUMBERS: 6,028,222; 6,992,218 Label part number
+© 2013 Cadence Pharmaceuticals, Inc. All rights reserved.
+OFIRMEV® and CADENCE® are registered trademarks of Cadence Pharmaceuticals, Inc. U.S. PATENT NUMBERS: 6,028,222; 6,992,218 Label part number

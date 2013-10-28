@@ -3,26 +3,35 @@
 ## 2.1 General Dosing Information
 
 OFIRMEV may be given as a single or repeated dose for the treatment of acute pain or fever.
-No dose adjustment is required when converting between oral acetaminophen and OFIRMEV dosing in adults and adolescents.
-The maximum daily dose of acetaminophen is based on all routes of administration (i.e. intravenous, oral, and rectal) and all products containing acetaminophen.
+No dose adjustment is required when converting between oral acetaminophen and OFIRMEV dosing in adults and adolescents who weigh 50 kg and above.
+Calculated maximum daily dose of acetaminophen is based on all routes of administration (i.e., intravenous, oral, and rectal) and all products containing acetaminophen.
+Exceeding the maximum mg/kg daily dose of acetaminophen as described in Tables 1 and 2 may result in hepatic injury, including the risk of liver failure and death.
+To avoid the risk of overdose, ensure that the total amount of acetaminophen from all routes and from all sources does not exceed the maximum recommended dose.
 
 ## 2.2 Recommended Dosage: Adults and Adolescents
 
-Adults and adolescents weighing 50 kg and over: the recommended dosage of OFIRMEV is 1000 mg every 6 hours or 650 mg every 4 hours, with a maximum single dose of OFIRMEV of 1000 mg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 4000 mg per day.
+Adults and adolescents weighing 50 kg and over: the recommended dosage of OFIRMEV is 1000 mg every 6 hours or 650 mg every 4 hours, with a maximum single dose of OFIRMEV of 1000 mg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 4000 mg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
 
-Adults and adolescents weighing under 50 kg: the recommended dosage of OFIRMEV is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single dose of OFIRMEV of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day.
+Adults and adolescents weighing under 50 kg: the recommended dosage of OFIRMEV is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single dose of OFIRMEV of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
 
 Table 1.
 Dosing for Adults and Adolescents
 
-| Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single dose | Maximum total daily dose of acetaminophen (by any routes) |
+| Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single dose | Maximum total daily dose of acetaminophen (by all routes) |
 | --- | --- | --- | --- | --- |
 | Adults and adolescents (13 years and older) weighing ≥ 50 kg | 650 mg | 1000 mg | 1000 mg | 4000 mg in 24 hours |
 | Adults and adolescents (13 years and older) weighing < 50 kg | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3750 mg) |
 
 ## 2.3 Recommended Dosage: Children
 
-Children ≥ 2 to 12 years of age: the recommended dosage of OFIRMEV is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single dose of OFIRMEV of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day.
+Children 2 to 12 years of age: the recommended dosage of OFIRMEV is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single dose of OFIRMEV of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day.
+
+Table 2.
+Dosing for Children
+
+| Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single dose | Maximum total daily dose of acetaminophen (by all routes) |
+| --- | --- | --- | --- | --- |
+| Children 2 to 12 years of age | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3750 mg) |
 
 ## 2.4 Instructions for Intravenous Administration
 
