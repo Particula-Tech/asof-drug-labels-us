@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021684"
+  ],
+  "inn": "follitropin",
+  "labeler": "EMD Serono, Inc.",
+  "package_ndcs": [
+    "44087-1115-2",
+    "44087-1116-2",
+    "44087-1117-2"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "follitropin",
+      "name": "Gonal-f RFF Redi-ject"
+    }
+  ],
+  "setid": "b6d11c45-b502-478e-bb28-2ff596ea259c",
+  "source": "dailymed"
+}
