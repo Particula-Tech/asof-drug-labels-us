@@ -9,4 +9,4 @@ See FDA-Approved Patient Labeling
 
 Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677
 
-© 2013 Eisai Inc. Revised XX2013
+© 2013 Eisai Inc. Revised September 2013

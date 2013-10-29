@@ -5,13 +5,13 @@
 The recommended dose of HALAVEN is 1.4 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle.
 
 The recommended dose of HALAVEN in patients with mild hepatic impairment (Child-Pugh A) is 1.1 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle.
-[see Use in Specific Populations (8.6)]
+[see Use in Specific Populations (8.6)].
 
 The recommended dose of HALAVEN in patients with moderate hepatic impairment (Child-Pugh B) is 0.7 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle.
-[see Use in Specific Populations (8.6)]
+[see Use in Specific Populations (8.6)].
 
 The recommended dose of HALAVEN in patients with moderate renal impairment (creatinine clearance of 30-50 mL/min) is 1.1 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle.
-[see Use in Specific Populations (8.7)]
+[see Use in Specific Populations (8.7)].
 
 ## 2.2 Dose Modification
 
