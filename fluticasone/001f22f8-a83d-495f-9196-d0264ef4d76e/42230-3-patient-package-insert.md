@@ -110,19 +110,31 @@ FLOVENT DISKUS can cause serious side effects, including:
   Decreased adrenal function can lead to death.
 - •allergic reaction (anaphylaxis).
   Call your doctor and stop FLOVENT DISKUS right away if you have any symptoms of an allergic reaction:
-
-| •swelling of the face, throat, and tongue | •rash |
-| --- | --- |
-| •hives | •breathing problems |
+  - ∘swelling of the face, throat, and tongue
+  - ∘hives
+  - ∘rash
+  - ∘breathing problems
+- •lower bone mineral density.
+  This may be a problem for people who already have a higher chance of low bone density (osteoporosis).
+- •slow growth in children.
+  The growth of children using FLOVENT DISKUS should be checked regularly.
+- •eye problems including glaucoma and cataracts.
+  Tell your doctor about any vision changes while using FLOVENT DISKUS.
+  Your doctor may tell you to have your eyes checked.
+- •increased wheezing (bronchospasm).
+  Increased wheezing can happen right away after using FLOVENT DISKUS.
+  Always have a rescue inhaler with you to treat sudden wheezing.
 
 Call your doctor right away if you have any of the serious side effects listed above or if you have worsening lung symptoms.
 
 The most common side effects of FLOVENT DISKUS include:
 
-| •a cold or upper respiratory tract infection | •fever |
-| --- | --- |
-| •throat irritation | •headache |
-| •nausea and vomiting |  |
+- 
+  - ∘a cold or upper respiratory tract infection
+  - ∘throat irritation
+  - ∘nausea and vomiting
+  - ∘fever
+  - ∘headache
 
 Tell your doctor if you have any side effects that bother you or that do not go away.
 These are not all the possible side effects of FLOVENT DISKUS.

@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Fluticasone propionate is a synthetic trifluorinated corticosteroid with potent anti-inflammatory activity.
-In vitro assays using human lung cytosol preparations have established fluticasone propionate as a human glucocorticoid receptor agonist with an affinity 18 times greater than dexamethasone, almost twice that of beclomethasone­17­monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide.
+In vitro assays using human lung cytosol preparations have established fluticasone propionate as a human glucocorticoid receptor agonist with an affinity 18 times greater than dexamethasone, almost twice that of beclomethasone‑17‑monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide.
 Data from the McKenzie vasoconstrictor assay in man are consistent with these results.
 The clinical significance of these findings is unknown.
 
