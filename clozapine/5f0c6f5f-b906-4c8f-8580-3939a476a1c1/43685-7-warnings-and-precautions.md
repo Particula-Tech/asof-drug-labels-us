@@ -99,7 +99,7 @@ Required components of the CLOZARIL National Registry are:
 - Routine monitoring and submission of laboratory results (WBC and ANC) is required during treatment with CLOZARIL [see Warnings and Precautions (5.1)].
 - Patients who receive CLOZARIL must be enrolled in a registry.
 
-Further information is available at http://www.clozarilregistry.com or 1-877-329-2256.
+Further information is available at http://www.clozarilregistry.com or 1-888-669-6682.
 
 ## 5.3 Orthostatic Hypotension, Bradycardia, and Syncope
 

@@ -38,4 +38,4 @@ Discuss the following issues with patients and caregivers:
 
 CLOZARIL® is a registered trademark of Novartis Pharmaceuticals Corporation.
 
-T2013-71 July 2013
+T2013-94 October 2013
