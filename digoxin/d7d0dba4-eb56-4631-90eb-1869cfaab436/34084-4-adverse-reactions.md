@@ -2,8 +2,8 @@
 
 The following adverse reactions are included in more detail in the Warnings and Precautions section of the label:
 
-- Cardiac arrhythmias [see Warnings and Precautions (5.1, 5.2)]
-- Digoxin Toxicity [see Warnings and Precautions (5.3)]
+- •Cardiac arrhythmias [see Warnings and Precautions (5.1, 5.2)]
+- •Digoxin Toxicity [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -14,7 +14,7 @@ Hence, adverse reactions are less common when LANOXIN is used within the recomme
 
 In the DIG trial (a trial investigating the effect of digoxin on mortality and morbidity in patients with heart failure), the incidence of hospitalization for suspected digoxin toxicity was 2% in patients taking LANOXIN compared to 0.9% in patients taking placebo [see Clinical Studies (14.1)].
 
-The overall incidence of adverse reactions with digoxin has been reported as 5 to 20%, with 15 to 20% of adverse events considered serious.
+The overall incidence of adverse reactions with digoxin has been reported as 5-20%, with 15-20% of adverse events considered serious.
 Cardiac toxicity accounts for about one-half, gastrointestinal disturbances for about one-fourth, and CNS and other toxicity for about one-fourth of these adverse events.
 
 Gastrointestinal: In addition to nausea and vomiting, the use of digoxin has been associated with abdominal pain, intestinal ischemia, and hemorrhagic necrosis of the intestines.

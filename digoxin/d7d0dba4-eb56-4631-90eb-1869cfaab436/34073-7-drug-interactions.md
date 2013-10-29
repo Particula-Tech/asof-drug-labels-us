@@ -10,10 +10,10 @@ Drugs that induce or inhibit P-glycoprotein in intestine or kidney have the pote
 
 ## 7.2 Pharmacokinetic Drug Interactions
 
-| Digoxin concentrations increased > 50% |  |  |  |
+| Digoxin concentrations increased greater than 50% |  |  |  |
 | --- | --- | --- | --- |
 |  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |
-| Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30% to 50% or by modifying the dosing frequency and continue monitoring. |
+| Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring. |
 | Captopril | 58% | 39% |  |
 | Clarithromycin | NA | 70% |  |
 | Dronedarone | NA | 150% |  |
@@ -27,8 +27,8 @@ Drugs that induce or inhibit P-glycoprotein in intestine or kidney have the pote
 | Ritonavir | NA | 86% |  |
 | Tetracycline | 100% | NA |  |
 | Verapamil | 50-75% | NA |  |
-| Digoxin concentrations increased < 50% |  |  |  |
-| Atorvastatin | 22% | 15% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15% to 30% or by modifying the dosing frequency and continue monitoring. |
+| Digoxin concentrations increased less than 50% |  |  |  |
+| Atorvastatin | 22% | 15% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring. |
 | Carvedilol | 16% | 14% |  |
 | Diltiazem | 20% | NA |  |
 | Indomethacin | 40% | NA |  |
@@ -42,18 +42,18 @@ Drugs that induce or inhibit P-glycoprotein in intestine or kidney have the pote
 | Tolvaptan | 30% | NA |  |
 | Trimethoprim | 22-28% | NA |  |
 | Digoxin concentrations increased, but magnitude is unclear |  |  |  |
-| Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole, quinine, rabeprazole, |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
+| Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole, rabeprazole, |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
 | Digoxin concentrations decreased |  |  |  |
-| Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John’s Wort, sucralfate, sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20 % to 40 % as necessary. |
+| Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John’s Wort, sucralfate, sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20-40% as necessary. |
 | No significant Digoxin exposure changes |  |  |  |
-| Please refer to section 12 for a complete list of drugs which were studies but reported no significant changes on digoxin exposure. |  |  | No additional actions are required. |
+| Please refer to section 12 for a complete list of drugs which were studied but reported no significant changes on digoxin exposure. |  |  | No additional actions are required. |
 | NA – Not available/reported |  |  |  |
 
 ## 7.3 Potentially Significant Pharmacodynamic Drug Interactions
 
-Due to considerable variability of pharmacodynamic interactions, the dosage of digoxin should be individualized when patients receive these medications concurrently.
+Because of considerable variability of pharmacodynamic interactions, the dosage of digoxin should be individualized when patients receive these medications concurrently.
 
-| Drugs that Affect Renal Function | Caution should be exercised when combining digoxin with any drug that may cause significant deterioration in renal function (e.g., ACE inhibitors, angiotensin receptor blockers, nonsteroidal anti-inflammatory drugs [NSAIDs], COX-2 inhibitors) since a decline in glomerular filtration or tubular secretion may impair the excretion of digoxin. |  |
+| Drugs that Affect Renal Function | A decline in GFR or tubular secretion, as from ACE inhibitors, angiotensin receptor blockers, nonsteroidal anti-inflammatory drugs [NSAIDS], COX-2 inhibitors may impair the excretion of digoxin. |  |
 | --- | --- | --- |
 | Antiarrthymics | Dofetilide | Concomitant administration with digoxin was associated with a higher rate of torsades de pointes |
 |  | Sotalol | Proarrhythmic events were more common in patients receiving sotalol and digoxin than on either alone; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in patients receiving digoxin. |
@@ -67,17 +67,17 @@ Due to considerable variability of pharmacodynamic interactions, the dosage of d
 
 ## 7.4 Drug/Laboratory Test Interactions
 
-Endogenous substances of unknown composition (digoxin-like immunoreactive substances, DLIS) can interfere with standard radioimmunoassays for digoxin.
+Endogenous substances of unknown composition (digoxin-like immunoreactive substances, [DLIS]) can interfere with standard radioimmunoassays for digoxin.
 The interference most often causes results to be falsely positive or falsely elevated, but sometimes it causes results to be falsely reduced.
 Some assays are more subject to these failings than others.
 Several LC/MS/MS methods are available that may provide less susceptibility to DLIS interference.
 DLIS are present in up to half of all neonates and in varying percentages of pregnant women, patients with hypertrophic cardiomyopathy, patients with renal or hepatic dysfunction, and other patients who are volume-expanded for any reason.
-The measured levels of DLIS (as digoxin equivalents) are usually low (0.2 to 0.4 ng/mL), but sometimes they reach levels that would be considered therapeutic or even toxic.
+The measured levels of DLIS (as digoxin equivalents) are usually low (0.2-0.4 ng/mL), but sometimes they reach levels that would be considered therapeutic or even toxic.
 
-In some assays, spironolactone, canrenone and potassium canrenoate may be falsely detected as digoxin, at levels up to 0.5 ng/mL.
+In some assays, spironolactone, canrenone, and potassium canrenoate may be falsely detected as digoxin, at levels up to 0.5 ng/mL.
 Some traditional Chinese and Ayurvedic medicine substances like Chan Su, Siberian Ginseng, Asian Ginseng, Ashwagandha or Dashen, can cause similar interference.
 
 Spironolactone and DLIS are much more extensively protein-bound than digoxin.
 As a result, assays of free digoxin levels in protein-free ultrafiltrate (which tend to be about 25% less than total levels, consistent with the usual extent of protein binding) are less affected by spironolactone or DLIS.
 It should be noted that ultrafiltration does not solve all interference problems with alternative medicines.
-The use of an LC/MS/MS method may be the better option according to the good results it provides, especially in term of specificity and limit of quantization.
+The use of an LC/MS/MS method may be the better option according to the good results it provides, especially in terms of specificity and limit of quantization.

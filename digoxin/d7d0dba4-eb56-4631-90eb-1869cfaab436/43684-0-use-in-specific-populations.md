@@ -2,27 +2,28 @@
 
 ## 8.1 Pregnancy
 
-Digoxin should be given to a pregnant woman only if clearly needed.
+### Pregnancy Category C.
+
+LANOXIN should be given to a pregnant woman only if clearly needed.
 It is also not known whether digoxin can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
 Animal reproduction studies have not been conducted with digoxin.
 
 ## 8.2 Labor and Delivery
 
-There is not enough data from clinical trials to determine the safety and efficacy of digoxin during labor and delivery.
+There are not enough data from clinical trials to determine the safety and efficacy of digoxin during labor and delivery.
 
 ## 8.3 Nursing Mothers
 
-Studies have shown that digoxin distributes into breast milk, and that the milk-to-serum concentration ratio is approximately 0.6 to 0.9.
+Studies have shown that digoxin distributes into breast milk, and that the milk-to-serum concentration ratio is approximately 0.6-0.9.
 However, the estimated exposure of a nursing infant to digoxin via breastfeeding is far below the usual infant maintenance dose.
 Therefore, this amount should have no pharmacologic effect upon the infant.
-Nevertheless, caution should be exercised when digoxin is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of LANOXIN in the control of ventricular rate in children with atrial fibrillation in children have not been established.
+The safety and effectiveness of LANOXIN in the control of ventricular rate in children with atrial fibrillation have not been established.
 
 The safety and effectiveness of LANOXIN in the treatment of heart failure in children have not been established in adequate and well-controlled studies.
-However, in published literature of children with heart failure due to various etiologies (e.g., ventricular septal defects, anthracycline toxicity, patent ductus arteriosus), treatment with digoxin has been associated with improvements in hemodynamic parameters, and in clinical signs and symptoms.
+However, in published literature of children with heart failure of various etiologies (e.g., ventricular septal defects, anthracycline toxicity, patent ductus arteriosus), treatment with digoxin has been associated with improvements in hemodynamic parameters and in clinical signs and symptoms.
 
 Newborn infants display considerable variability in their tolerance to digoxin.
 Premature and immature infants are particularly sensitive to the effects of digoxin, and the dosage of the drug must not only be reduced but must be individualized according to their degree of maturity.
@@ -37,7 +38,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Renal Impairment
 
 The clearance of digoxin can be primarily correlated with the renal function as indicated by creatinine clearance.
-Tables 2 and 4 provides the usual daily maintenance dose requirements for digoxin based on creatinine clearance (per 70 kg or per 1.73 m2) [see Dosage and Administration (2.3)].
+Tables 3 and 5 provide the usual daily maintenance dose requirements for digoxin based on creatinine clearance [see Dosage and Administration (2.3)].
 
 Digoxin is primarily excreted by the kidneys; therefore, patients with impaired renal function require smaller than usual maintenance doses of digoxin [see Dosage and Administration (2.3)].
 Because of the prolonged elimination half-life, a longer period of time is required to achieve an initial or new steady-state serum concentration in patients with renal impairment than in patients with normal renal function.

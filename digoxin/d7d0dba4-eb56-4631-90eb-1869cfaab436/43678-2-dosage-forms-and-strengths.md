@@ -1,4 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Tablets: 125 micrograms are yellow, round, scored tablets with “Y3B” imprinted on one side.
-Tablets: 250 micrograms are white, round, scored tablets with “X3A” imprinted on one side.
+Unscored Tablets: 62.5 mcg are peach, round with “U3A” imprinted on one side.
+Scored Tablets: 125 mcg are yellow, round, scored tablets with “Y3B” imprinted on one side.
+Unscored Tablets: 187.5 mcg are blue, round with “F3F” imprinted on one side.
+Scored Tablets: 250 mcg are white, round, scored tablets with “X3A” imprinted on one side.

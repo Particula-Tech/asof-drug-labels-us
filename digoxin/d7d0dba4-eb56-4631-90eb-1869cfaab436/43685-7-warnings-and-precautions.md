@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Ventricular Fibrillation in patients with Accessory AV Pathway (Wolff-Parkinson-White Syndrome)
+## 5.1 Ventricular Fibrillation in Patients With Accessory AV Pathway (Wolff-Parkinson-White Syndrome)
 
 Patients with Wolff-Parkinson-White syndrome who develop atrial fibrillation are at high risk of ventricular fibrillation.
 Treatment of these patients with digoxin leads to greater slowing of conduction in the atrioventricular node than in accessory pathways, and the risks of rapid ventricular response leading to ventricular fibrillation are thereby increased.
@@ -13,7 +13,7 @@ Consider insertion of a pacemaker before treatment with digoxin.
 ## 5.3 Digoxin Toxicity
 
 Signs and symptoms of digoxin toxicity include anorexia, nausea, vomiting, visual changes and cardiac arrhythmias [first-degree, second-degree (Wenckebach), or third-degree heart block (including asystole); atrial tachycardia with block; AV dissociation; accelerated junctional (nodal) rhythm; unifocal or multiform ventricular premature contractions (especially bigeminy or trigeminy); ventricular tachycardia; and ventricular fibrillation].
-Toxicity is usually associated with digoxin levels >2ng/ml although symptoms may also occur at lower levels.
+Toxicity is usually associated with digoxin levels greater than 2 ng/ml although symptoms may also occur at lower levels.
 Low body weight, advanced age or impaired renal function, hypokalemia, hypercalcemia, or hypomagnesemia may predispose to digoxin toxicity.
 Obtain serum digoxin levels in patients with signs or symptoms of digoxin therapy and interrupt or adjust dose if necessary [see Adverse Reactions (6) and Overdosage (10)].
 Assess serum electrolytes and renal function periodically.
@@ -29,38 +29,38 @@ Given that adult patients with heart failure have some symptoms in common with d
 Misidentification of their etiology might lead the clinician to continue or increase LANOXIN dosing, when dosing should actually be suspended.
 When the etiology of these signs and symptoms is not clear, measure serum digoxin levels.
 
-## 5.4 Decreased Cardiac Output in Patients With Preserved Left Ventricular Systolic Function
+## 5.4 Risk of Ventricular Arrhythmias During Electrical Cardioversion
 
-Patients with heart failure associated with preserved left ventricular ejection fraction may experience decreased cardiac output with use of Lanoxin..
+It may be desirable to reduce the dose of or discontinue LANOXIN for 1 to 2 days prior to electrical cardioversion of atrial fibrillation to avoid the induction of ventricular arrhythmias, but physicians must consider the consequences of increasing the ventricular response if digoxin is decreased or withdrawn.
+If digitalis toxicity is suspected, elective cardioversion should be delayed.
+If it is not prudent to delay cardioversion, the lowest possible energy level should be selected to avoid provoking ventricular arrhythmias.
+
+## 5.5 Risk of Ischemia in Patients With Acute Myocardial Infarction
+
+LANOXIN is not recommended in patients with acute myocardial infarction because digoxin may increase myocardial oxygen demand and lead to ischemia.
+
+## 5.6 Vasoconstriction In Patients With Myocarditis
+
+LANOXIN can precipitate vasoconstriction and may promote production of pro-inflammatory cytokines; therefore, avoid use in patients with myocarditis.
+
+## 5.7 Decreased Cardiac Output in Patients With Preserved Left Ventricular Systolic Function
+
+Patients with heart failure associated with preserved left ventricular ejection fraction may experience decreased cardiac output with use of LANOXIN.
 Such disorders include restrictive cardiomyopathy, constrictive pericarditis, amyloid heart disease, and acute cor pulmonale.
 Patients with idiopathic hypertrophic subaortic stenosis may have worsening of the outflow obstruction due to the inotropic effects of digoxin.
 Patients with amyloid heart disease may be more susceptible to digoxin toxicity at therapeutic levels because of an increased binding of digoxin to extracellular amyloid fibrils.
 
 LANOXIN should generally be avoided in these patients, although it has been used for ventricular rate control in the subgroup of patients with atrial fibrillation.
 
-## 5.5 Reduced Efficacy In Patients with Hypocalcemia
+## 5.8 Reduced Efficacy In Patients With Hypocalcemia
 
 Hypocalcemia can nullify the effects of digoxin in humans; thus, digoxin may be ineffective until serum calcium is restored to normal.
 These interactions are related to the fact that digoxin affects contractility and excitability of the heart in a manner similar to that of calcium.
 
-## 5.6 Risk of Ventricular Arrhythmias During Electrical Cardioversion
-
-It may be desirable to reduce the dose of or discontinue digoxin for 1 to 2 days prior to electrical cardioversion of atrial fibrillation to avoid the induction of ventricular arrhythmias, but physicians must consider the consequences of increasing the ventricular response if digoxin is decreased or withdrawn.
-If digitalis toxicity is suspected, elective cardioversion should be delayed.
-If it is not prudent to delay cardioversion, the lowest possible energy level should be selected to avoid provoking ventricular arrhythmias.
-
-## 5.7 Altered Response in Thyroid Disorders and Hypermetabolic States
+## 5.9 Altered Response in Thyroid Disorders and Hypermetabolic States
 
 Hypothyroidism may reduce the requirements for digoxin.
 
 Heart failure and/or atrial arrhythmias resulting from hypermetabolic or hyperdynamic states (e.g., hyperthyroidism, hypoxia, or arteriovenous shunt) are best treated by addressing the underlying condition.
 Atrial arrhythmias associated with hypermetabolic states are particularly resistant to digoxin treatment.
 Patients with beri beri heart disease may fail to respond adequately to digoxin if the underlying thiamine deficiency is not treated concomitantly.
-
-## 5.8 Risk of Ischemia in Patients With Acute Myocardial Infarction
-
-Digoxin is not recommended in patients with acute myocardial infarction because undesirable increases in myocardial oxygen demand and ischemia may result.
-
-## 5.9 Vasoconstriction In Patients with Myocarditis
-
-Digoxin can precipitate vasoconstriction and may promote production of pro-inflammatory cytokines, therefore should be avoided in patients with myocarditis.

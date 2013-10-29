@@ -1,44 +1,44 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Dosing Information
+## 2.1 Important Dosing and Administration Information
 
 In selecting a LANOXIN dosing regimen, it is important to consider factors that affect digoxin blood levels (e.g., body weight, age, renal function, concomitant drugs) since toxic levels of digoxin are only slightly higher than therapeutic levels.
 Dosing can be either initiated with a loading dose followed by maintenance dosing if rapid titration is desired or initiated with maintenance dosing without a loading dose.
 
-Consider interruption or reduction in digoxin dose prior to electrical cardioversion [see Warnings and Precautions (5.6)].
+Consider interruption or reduction in LANOXIN digoxin dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
 Use digoxin solution to obtain the appropriate dose in infants, young pediatric patients, or patients with very low body weight.
 
 ## 2.2 Loading Dosing Regimen in Adults and Pediatric Patients
 
-For adults and pediatric patients if a loading dosage is to be given, administer half the total loading dose initially, then ¼ the loading dose every 4 to 8 hours twice, with careful assessment of clinical response and toxicity before each dose.
+For adults and pediatric patients if a loading dosage is to be given, administer half the total loading dose initially, then ¼ the loading dose every 6-8 hours twice, with careful assessment of clinical response and toxicity before each dose.
 The recommended loading dose is displayed in Table 1.
 
 Table 1.
 Recommended LANOXIN Oral Loading Dose
 
-| Age | Oral Loading Dose, mcg/kg |
+| Age | Total Oral Loading Dose (mcg/kg) Administer half the total loading dose initially, then ¼ the loading dose every 6 to 8 hours twice |
 | --- | --- |
-| 5 to 10 years | 20 - 45 |
-| Adults and pediatric patients over 10 years | 10 - 15 |
-| mcg = micrograms |  |
+| 5 to 10 years | 20-45 |
+| Adults and pediatric patients over 10 years | 10-15 |
+| mcg = microgram |  |
 
 ## 2.3 Maintenance Dosing in Adults and Pediatric Patients Over 10 Years Old
 
-The maintenance dose is based on the lean body weight, renal function, age, and concomitant products [see Drug Interactions (7.1, 7.2, 7.3)].
+The maintenance dose is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
 
-The recommended starting maintenance dosage in adults and pediatric patients over 10 years old is displayed in Table 2.
+The recommended starting maintenance dose in adults and pediatric patients over 10 years old with normal renal function is given in Table 2.
 Doses may be increased every 2 weeks according to clinical response, serum drug levels, and toxicity.
 
 Table 2.
 Recommended Starting LANOXIN Maintenance Dosage in Adults and Pediatric Patients Over 10 Years Old
 
-| Age | Oral Maintenance Dose, mcg/kg/day (given once daily) |
+| Age | Total Oral Maintenance Dose, mcg/kg/day (given once daily) |
 | --- | --- |
-| Adults and pediatric patients over 10 years | 3.4 – 5.1 |
-| mcg = micrograms |  |
+| Adults and pediatric patients over 10 years | 3.4-5.1 |
+| mcg = microgram |  |
 
-Table 3 displays the recommended (once daily) maintenance dose of LANOXIN in pediatric patients over 10 years old and adult patients according to lean body weight and renal function.
+Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old (to be given once daily) according to lean body weight and renal function.
 The doses are based on studies in adult patients with heart failure.
 Alternatively, the maintenance dose may be estimated by the following formula (peak body stores lost each day through elimination):
 
@@ -49,70 +49,67 @@ Reduce the dose of LANOXIN in patients whose lean weight is an abnormally small 
 Table 3.
 Recommended Maintenance Dose (in micrograms given once daily) of LANOXIN in Pediatric Patients Over 10 Years Old and Adults by Lean Body Weight and by Renal Functiona
 
-| Corrected Creatinine Clearanceb |  |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lean Body Weightd |  |  |  |  |  |  |  |  |  |
-| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
-| lb | 88 | 110 | 132 | 154 | 176 | 198 | 220 |  |  |
-| 10 mL/min |  | 62.5* | 125 | 125 | 187.5 | 187.5 | 187.5 | 250 | 19 |
-| 20 mL/min |  | 125 | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 16 |
-| 30 mL/min |  | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 14 |
-| 40 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 13 |
-| 50 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 12 |
-| 60 mL/min |  | 125 | 187.5 | 250 | 250 | 312.5 | 312.5 | 375 | 11 |
-| 70 mL/min |  | 187.5 | 187.5 | 250 | 250 | 312.5 | 375 | 375 | 10 |
-| 80 mL/min |  | 187.5 | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 9 |
-| 90 mL/min |  | 187.5 | 250 | 250 | 312.5 | 375 | 437.5 | 437.5 | 8 |
-| 100 mL/min |  | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 500 | 7 |
-| a Doses are rounded to the nearest dose possible using whole and/or half LANOXIN tablets. Recommended doses approximately 30 percent lower than the calculated dose are designated with an *. Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. b For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr c If no loading dose administered. d The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |
+| Corrected Creatinine Clearanceb | Lean Body Weightd |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |  |  |
+| 10 mL/min |  | 62.5* | 125 | 125 | 187.5 | 187.5 | 187.5 | 250 | 19 |  |  |
+| 20 mL/min |  | 125 | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 16 |  |  |
+| 30 mL/min |  | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 14 |  |  |
+| 40 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 13 |  |  |
+| 50 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 12 |  |  |
+| 60 mL/min |  | 125 | 187.5 | 250 | 250 | 312.5 | 312.5 | 375 | 11 |  |  |
+| 70 mL/min |  | 187.5 | 187.5 | 250 | 250 | 312.5 | 375 | 375 | 10 |  |  |
+| 80 mL/min |  | 187.5 | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 9 |  |  |
+| 90 mL/min |  | 187.5 | 250 | 250 | 312.5 | 375 | 437.5 | 437.5 | 8 |  |  |
+| 100 mL/min |  | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 500 | 7 |  |  |
+| a Doses are rounded to the nearest dose possible using whole LANOXIN tablets. Recommended doses approximately 30 percent lower than the calculated dose are designated with an *. Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. b For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr c If no loading dose administered. d The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 2.4 Maintenance Dosing in Pediatric Patients Less Than 10 Years Old
 
-The starting maintenance dose for heart failure in pediatric patients less than 10 years old is based on the lean body weight, renal function, age, and concomitant products [see Drug Interactions (7.1, 7.2, 7.3)].
-The recommended starting maintenance dose for pediatric patients between 5 and 10 years old with normal renal function is displayed in Table 4.
+The starting maintenance dose for heart failure in pediatric patients less than 10 years old is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
+The recommended starting maintenance dose for pediatric patients between 5 years and 10 years old is given in Table 4.
+These recommendations assume the presence of normal renal function.
 
 Table 4.
-Recommended Starting LANOXIN Maintenance Dosage in Pediatric Patients Between 5 and 10 Years Old
+Recommended Starting LANOXIN Oral Maintenance Dosage in Pediatric Patients between 5 and 10 Years Old
 
-| Age | Daily Oral Maintenance Dose, mcg/kg/day | Dose Regimen, mcg/kg/dose |
-| --- | --- | --- |
-| 5 to 10 years | 6.4 – 12.9 | 3.2 – 6.4 Twice daily |
+| Age | Oral Maintenance Dose, mcg/kg/dose |
+| --- | --- |
+| 5 years to 10 years | 3.2-6.4 Twice daily |
 
-The recommended maintenance dose (to be given twice daily) is presented in Table 5.
+Table 5 provides average daily maintenance dose requirements for pediatric patients between 5 and 10 years old (to be given twice daily) with heart failure based on age, lean body weight, and renal function.
 
 Table 5.
-Recommended Maintenance Dose (in micrograms given twice daily) of LANOXIN in Pediatric Patients <10 Years of Agea Based upon Lean Body Weight and Renal Functiona,b
+Recommended Maintenance Dose (in micrograms given TWICE daily) of LANOXIN in Pediatric Patients between 5 and 10 Years of Agea Based upon Lean Body Weight and Renal Functiona,b
 
-| Corrected Creatinine Clearancec |  |  |  |  |  |  | Number of Days Before Steady State Achievedd |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Lean Body Weight |  |  |  |  |  |  |  |
-| kg | 20 | 30 | 40 | 50 | 60 |  |  |
-| lb | 44 | 66 | 88 | 110 | 132 |  |  |
-| 10 mL/min |  | - | 62.5 | 62.5* | 125 | 125 | 19 |
-| 20 mL/min |  | 62.5 | 62.5 | 125 | 125 | 125 | 16 |
-| 30 mL/min |  | 62.5 | 62.5* | 125 | 125 | 187.5 | 14 |
-| 40 mL/min |  | 62.5 | 62.5* | 125 | 187.5 | 187.5 | 13 |
-| 50 mL/min |  | 62.5 | 125 | 125 | 187.5 | 187.5 | 12 |
-| 60 mL/min |  | 62.5 | 125 | 125 | 187.5 | 250 | 11 |
-| 70 mL/min |  | 62.5 | 125 | 187.5 | 187.5 | 250 | 10 |
-| 80 mL/min |  | 62.5* | 125 | 187.5 | 187.5 | 250 | 9 |
-| 90 mL/min |  | 62.5* | 125 | 187.5 | 250 | 250 | 8 |
-| 100 mL/min |  | 62.5* | 125 | 187.5 | 250 | 312.5 | 7 |
-| a Recommended are doses to be given twice daily. b The doses are rounded to the nearest dose possible using whole and/or half LANOXIN tablets. Recommended doses approximately 30 percent lower than the calculated dose are designated with an *. Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. c The modified Schwartz equation may be used to estimate creatinine clearance. See footnote b under Table 2. d If no loading dose administered. |  |  |  |  |  |  |  |
+| Corrected Creatinine Clearancec | Lean Body Weight |  |  |  |  |  | Number of Days Before Steady State Achievedd |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 20 | 30 | 40 | 50 | 60 |  |  |  |  |
+| 10 mL/min |  | - | 62.5 | 62.5* | 125 | 125 | 19 |  |  |
+| 20 mL/min |  | 62.5 | 62.5 | 125 | 125 | 125 | 16 |  |  |
+| 30 mL/min |  | 62.5 | 62.5* | 125 | 125 | 187.5 | 14 |  |  |
+| 40 mL/min |  | 62.5 | 62.5* | 125 | 187.5 | 187.5 | 13 |  |  |
+| 50 mL/min |  | 62.5 | 125 | 125 | 187.5 | 187.5 | 12 |  |  |
+| 60 mL/min |  | 62.5 | 125 | 125 | 187.5 | 250 | 11 |  |  |
+| 70 mL/min |  | 62.5 | 125 | 187.5 | 187.5 | 250 | 10 |  |  |
+| 80 mL/min |  | 62.5* | 125 | 187.5 | 187.5 | 250 | 9 |  |  |
+| 90 mL/min |  | 62.5* | 125 | 187.5 | 250 | 250 | 8 |  |  |
+| 100 mL/min |  | 62.5* | 125 | 187.5 | 250 | 312.5 | 7 |  |  |
+| a Recommended are doses to be given twice daily. b The doses are rounded to the nearest dose possible using whole LANOXIN tablets. Recommended doses approximately 30 percent lower than the calculated dose are designated with an *. Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. c The modified Schwartz equation may be used to estimate creatinine clearance. See footnote b under Table 3. d If no loading dose administered. |  |  |  |  |  |  |  |  |  |
 
 ## 2.5 Monitoring to Assess Safety, Efficacy, and Therapeutic Blood Levels
 
 Monitor for signs and symptoms of digoxin toxicity and clinical response.
 Adjust dose based on toxicity, efficacy, and blood levels.
 
-Serum digoxin levels < 0.5 ng/mL have been associated with diminished efficacy, while levels above 2 ng/mL have been associated with increased toxicity without increased benefit.
+Serum digoxin levels less than 0.5 ng/mL have been associated with diminished efficacy, while levels above 2 ng/mL have been associated with increased toxicity without increased benefit.
 
 Interpret the serum digoxin concentration in the overall clinical context, and do not use an isolated measurement of serum digoxin concentration as the basis for increasing or decreasing the LANOXIN dose.
 Serum digoxin concentrations may be falsely elevated by endogenous digoxin-like substances [see Drug Interactions (7.4)].
 If the assay is sensitive to these substances, consider obtaining a baseline digoxin level before starting LANOXIN and correct post-treatment values by the reported baseline level.
 
 Obtain serum digoxin concentrations just before the next scheduled LANOXIN dose or at least 6 hours after the last dose.
-The digoxin concentration is likely to be 10% to 25% lower when sampled right before the next dose (24 hours after dosing) compared to sampling 8 hours after dosing (using once-daily dosing).
+The digoxin concentration is likely to be 10-25% lower when sampled right before the next dose (24 hours after dosing) compared to sampling 8 hours after dosing (using once-daily dosing).
 However, there will be only minor differences in digoxin concentrations using twice daily dosing whether sampling is done at 8 or 12 hours after a dose.
 
 ## 2.6 Switching from Intravenous Digoxin to Oral Digoxin
@@ -122,7 +119,7 @@ When switching from intravenous to oral digoxin formulations, make allowances fo
 Table 6.
 Comparison of the Systemic Availability and Equivalent Doses of Oral and Intravenous LANOXIN
 
-|  | Absolute Bioavailability | Equivalent Doses (in micrograms) |  |  |  |
+|  | Absolute Bioavailability | Equivalent Doses (mcg) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| LANOXIN Tablets | 60 - 80% | 62.5 | 125 | 250 | 500 |
+| LANOXIN Tablets | 60-80% | 62.5 | 125 | 250 | 500 |
 | LANOXIN Intravenous Injection | 100% | 50 | 100 | 200 | 400 |
