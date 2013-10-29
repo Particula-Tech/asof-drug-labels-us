@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS:
+# CONTRAINDICATIONS
 
 Advanced arteriosclerosis, symptomatic cardiovascular disease, moderate to severe hypertension, hyperthyroidism, known hypersensitivity or idiosyncrasy to the sympathomimetic amines, glaucoma.
 

@@ -1,9 +1,9 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 Amphetamines should be administered at the lowest effective dosage and dosage should be individually adjusted.
 Late evening doses should be avoided because of the resulting insomnia.
 
-## Narcolepsy:
+## Narcolepsy
 
 Usual dose is 5 to 60 mg per day in divided doses, depending on the individual patient response.
 
@@ -13,7 +13,7 @@ In patients 12 years of age and older, start with 10 mg daily; daily dosage may 
 If bothersome adverse reactions appear (e.g., insomnia or anorexia), dosage should be reduced.
 Give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 hours.
 
-## Attention Deficit Disorder with Hyperactivity:
+## Attention Deficit Disorder with Hyperactivity
 
 Not recommended for pediatric patients under 3 years of age.
 

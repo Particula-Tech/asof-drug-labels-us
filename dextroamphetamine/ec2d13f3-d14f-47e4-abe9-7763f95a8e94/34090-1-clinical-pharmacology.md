@@ -1,11 +1,11 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Amphetamines are non-catecholamine, sympathomimetic amines with CNS stimulant activity.
 Peripheral actions include elevations of systolic and diastolic blood pressures and weak bronchodilator and respiratory stimulant action.
 
 There is neither specific evidence which clearly establishes the mechanism whereby amphetamines produce mental and behavioral effects in children, nor conclusive evidence regarding how these effects relate to the condition of the central nervous system.
 
-Pharmacokinetics:
+Pharmacokinetics
 
 The pharmacokinetics of the tablet and sustained-release capsule were compared in 12 healthy subjects.
 The extent of bioavailability of the sustained-release capsule was similar compared to the immediate-release tablet.

@@ -1,4 +1,4 @@
-# OVERDOSAGE:
+# OVERDOSAGE
 
 Individual patient response to amphetamines varies widely.
 While toxic symptoms occasionally occur as an idiosyncrasy at doses as low as 2 mg, they are rare with doses of less than 15 mg; 30 mg can produce severe reactions, yet doses of 400 to 500 mg are not necessarily fatal.
@@ -13,7 +13,7 @@ Cardiovascular effects include arrhythmias, hypertension or hypotension and circ
 Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
 Fatal poisoning is usually preceded by convulsions and coma.
 
-## Treatment:
+## Treatment
 
 Consult with a Certified Poison Control Center for up-to-date guidance and advice.
 Management of acute amphetamine intoxication is largely symptomatic and includes gastric lavage, administration of activated charcoal, administration of a cathartic, and sedation.

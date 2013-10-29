@@ -1,4 +1,4 @@
-# DRUG ABUSE AND DEPENDENCE:
+# DRUG ABUSE AND DEPENDENCE
 
 Dextroamphetamine sulfate is a Schedule II controlled substance.
 

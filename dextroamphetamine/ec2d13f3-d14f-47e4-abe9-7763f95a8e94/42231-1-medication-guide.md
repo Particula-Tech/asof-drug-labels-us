@@ -1,8 +1,8 @@
 # MEDICATION GUIDE
 
-DEXTROAMPHETAMINE SULFATE TABLETS - CII
+DEXTROAMPHETAMINE SULFATE TABLETS USP, CII
 
-Read the Medication Guide that comes with Dextroamphetamine Sulfate Tablets before you or your child starts taking it and each time you get a refill.
+Read the Medication Guide that comes with Dextroamphetamine Sulfate Tablets before you or your child starts taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about you or your child’s treatment with Dextroamphetamine Sulfate Tablets.
 
@@ -122,15 +122,15 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about Dextroamphetamine Sulfate Tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Dextroamphetamine Sulfate Tablets that was written for healthcare professionals.
-For more in formation about Dextroamphetamine Sulfate Tablets, please contact Barr Laboratories, Inc. at 1-800-BARRLAB (227-7522).
+For more in formation about Dextroamphetamine Sulfate Tablets, please contact Teva Pharmaceuticals at 1-888-838-2872.
 
 What are the ingredients in Dextroamphetamine Sulfate Tablets?
 
-Active Ingredients: dextroamphetamine sulfate
+Active Ingredient: dextroamphetamine sulfate
 
-## Inactive Ingredients:
+## Inactive Ingredients
 
-calcium sulfate, colloidal silicon dioxide, compressible sugar, magnesium stearate, microcrystalline cellulose, and starch.
+Calcium sulfate, colloidal silicon dioxide, compressible sugar, corn starch, magnesium stearate, and microcrystalline cellulose.
 
 The 5 mg also contains D&C yellow no. 10 aluminum lake and FD&C red no. 40 aluminum lake.
 
@@ -138,10 +138,9 @@ The 10 mg also contains FD&C red no. 40 aluminum lake and FD&C yellow no. 6 alum
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-BARR LABORATORIES, INC.
+TEVA PHARMACEUTICALS USA
 
-Pomona, NY 10970
+Sellersville, PA 18960
 
-Revised APRIL 2008
-
-BR-0952, 0953
+Iss.
+9/2013

@@ -1,6 +1,6 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
-Dextroamphetamine sulfate tablets are indicated for:
+Dextroamphetamine Sulfate Tablets USP are indicated for:
 
 1. Narcolepsy.
 2. Attention Deficit Disorder with Hyperactivity, as an integral part of a total treatment program which typically includes other remedial measures (psychological, educational, social) for a stabilizing effect in pediatric patients (ages 3 to 16 years) with a behavioral syndrome characterized by the following group of developmentally inappropriate symptoms: moderate to severe distractibility, short attention span, hyperactivity, emotional lability, and impulsivity.
