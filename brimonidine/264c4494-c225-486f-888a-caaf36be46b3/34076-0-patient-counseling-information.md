@@ -13,6 +13,7 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 As with other similar medications, ALPHAGAN® P may cause fatigue and/or drowsiness in some patients.
 Patients who engage in hazardous activities should be cautioned of the potential for a decrease in mental alertness.
 
-© 2011 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 6,562,873; 6,627,210; 6,641,834; and 6,673,337
+© 2013 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
+See: www.allergan.com/products/patent_notices Made in the U.S.A.
 
-71816US15C
+71816US16
