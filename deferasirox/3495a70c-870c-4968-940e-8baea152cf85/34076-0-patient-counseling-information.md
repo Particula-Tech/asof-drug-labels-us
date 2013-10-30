@@ -17,13 +17,13 @@
   An interaction between Exjade and other CYP2C8 substrates like paclitaxel cannot be excluded [see Drug Interactions (7.3)].
 - Advise patients that blood tests will be performed because Exjade may affect your kidneys, liver, or blood cells.
   The blood tests will be performed every month or more frequently if you are at increased risk of complications (e.g., preexisting kidney condition, are elderly, have multiple medical conditions, or are taking medicine that affects your organs).
-  There have been reports of severe kidney and liver problems, blood disorders, stomach hemorrhage and death in patients taking Exjade [see Warnings and Precautions (5.1, 5.2, 5.3, 5.4, and 5.5)].
+  There have been reports of severe kidney and liver problems, blood disorders, stomach hemorrhage and death in patients taking Exjade [see Warnings and Precautions (5.1, 5.2, 5.3, 5.4, 5.5)].
 - Skin rashes may occur during Exjade treatment and if severe, interrupt treatment.
   Serious allergic reactions (which include swelling of the throat) have been reported in patients taking Exjade, usually within the first month of treatment.
-  If reactions are severe, advise patients to stop taking Exjade and contact their doctor immediately [see Warnings and Precautions (5.6, 5.7, and 5.8)].
+  If reactions are severe, advise patients to stop taking Exjade and contact their doctor immediately [see Warnings and Precautions (5.6, 5.7, 5.8)].
 
 Manufactured by: Novartis Pharma Stein AG Stein, Switzerland Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2013-41 May 2013
+T2013-93 October 2013

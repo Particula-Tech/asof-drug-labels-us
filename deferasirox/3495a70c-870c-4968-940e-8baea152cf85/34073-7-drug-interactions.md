@@ -29,9 +29,9 @@ Closely monitor patients for signs of exposure related toxicity when Exjade is c
 Deferasirox is a substrate of UGT1A1 and to a lesser extent UGT1A3.
 The concomitant use of Exjade with potent UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) may result in a decrease in Exjade efficacy due to a possible decrease in deferasirox concentration.
 Avoid the concomitant use of potent UGT inducers with Exjade.
-Consider increasing the initial dose of Exjade if you must coadminister these agents together [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Consider increasing the initial dose of Exjade if you must coadminister these agents together [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 ## 7.6 Bile Acid Sequestrants
 
 Avoid the concomitant use of bile acid sequestrants (e.g., cholestyramine, colesevelam, colestipol) with Exjade due to a possible decrease in deferasirox concentration.
-If you must coadminister these agents together, consider increasing the initial dose of Exjade [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+If you must coadminister these agents together, consider increasing the initial dose of Exjade [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].

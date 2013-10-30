@@ -55,8 +55,8 @@ The single dose Cmax was not affected, but an increase in theophylline Cmax is e
 
 Rifampicin: In a healthy volunteer study, the concomitant administration of Exjade (single dose of 30 mg per kg) and the potent UDP-glucuronosyltransferase (UGT) inducer rifampicin (600 mg/day for 9 days) resulted in a decrease of deferasirox systemic exposure (AUC) by 44% [see Drug Interactions (7.5)].
 
-Cholesytramine: The concomitant use of Exjade with bile acid sequestrants may result in a decrease in Exjade efficacy.
-In healthy volunteers, the administration of cholesytramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC) [see Drug Interactions (7.6)].
+Cholestyramine: The concomitant use of Exjade with bile acid sequestrants may result in a decrease in Exjade efficacy.
+In healthy volunteers, the administration of cholestyramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC) [see Drug Interactions (7.6)].
 
 In vitro studies:
 

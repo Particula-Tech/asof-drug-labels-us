@@ -2,8 +2,8 @@
 
 Transfusional Iron Overload
 
-The primary efficacy study, Study 1, was a multicenter, open-label, randomized, active comparator control study to compare Exjade (deferasirox) and deferoxamine in patients with β-thalassemia and transfusional hemosiderosis.
-Patients ≥2 years of age were randomized in a 1:1 ratio to receive either oral Exjade at starting doses of 5, 10, 20, or 30 mg per kg once daily or subcutaneous Desferal (deferoxamine) at starting doses of 20 to 60 mg per kg for at least 5 days per week based on LIC (liver iron concentration) at baseline (2-3, >3-7, >7-14 and >14 mg Fe/g dry weight).
+The primary efficacy study, Study 1, was a multicenter, open-label, randomized, active-comparator control study to compare Exjade (deferasirox) and deferoxamine in patients with beta-thalassemia and transfusional hemosiderosis.
+Patients ≥2 years of age were randomized in a 1:1 ratio to receive either oral Exjade at starting doses of 5, 10, 20, or 30 mg per kg once daily or subcutaneous Desferal (deferoxamine) at starting doses of 20 to 60 mg per kg for at least 5 days per week based on LIC at baseline (2-3, >3-7, >7-14, and >14 mg Fe/g dry weight).
 Patients randomized to deferoxamine who had LIC values <7 mg Fe/g dry weight were permitted to continue on their prior deferoxamine dose, even though the dose may have been higher than specified in the protocol.
 
 Patients were to have a liver biopsy at baseline and end of study (after 12 months) for LIC.
@@ -24,7 +24,7 @@ Therefore, a starting dose of 20 mg per kg per day is recommended [see Dosage an
 Study 2 was an open-label, noncomparative trial of efficacy and safety of Exjade given for 1 year to patients with chronic anemias and transfusional hemosiderosis.
 Similar to Study 1, patients received 5, 10, 20, or 30 mg per kg per day of Exjade based on baseline LIC.
 
-A total of 184 patients were treated in this study: 85 patients with β-thalassemia and 99 patients with other congenital or acquired anemias (myelodysplastic syndromes, n=47; Diamond-Blackfan syndrome, n=30; other, n=22).
+A total of 184 patients were treated in this study: 85 patients with beta-thalassemia and 99 patients with other congenital or acquired anemias (myelodysplastic syndromes, n=47; Diamond-Blackfan syndrome, n=30; other, n=22).
 19% of patients were <16 years of age and 16% were ≥65 years of age.
 There was a reduction in the absolute LIC from baseline to end of study (-4.2 mg Fe/g dry weight).
 
@@ -45,15 +45,15 @@ Planned duration of treatment in these trials ranged from 1 year (365 patients) 
 These trials evaluated the effects of Exjade therapy on parameters of iron overload, including LIC (125 patients) and serum ferritin (627 patients).
 Percent of patients completing planned duration of treatment was 51% in the largest 1 year study, 52% in the 3-year study and 22% in the 5 year study.
 The major causes for treatment discontinuation were withdrawal of consent, adverse reaction, and death.
-Over one year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2615.59) mcg/L (n=593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n=68).
-Results of these pooled studies in 627 patients with MDS suggest a progressive decrease in serum ferritin and LIC beyond one year in those patients who are able to continue Exjade.
+Over 1 year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2615.59) mcg/L (n=593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n=68).
+Results of these pooled studies in 627 patients with MDS suggest a progressive decrease in serum ferritin and LIC beyond 1 year in those patients who are able to continue Exjade.
 No controlled trials have been performed to demonstrate that these reductions improve morbidity or mortality in patients with MDS.
 Adverse reactions with Exjade therapy occur more frequently in older patients [see Use in Specific Populations (8.5)].
 In elderly patients, including those with MDS, individualize the decision to remove accumulated iron based on clinical circumstances and the anticipated clinical benefit and risks of Exjade therapy.
 
 Non-Transfusion Dependent Thalassemia
 
-Study 4 was a randomized, double-blind, placebo-controlled trial of treatment with Exjade for patients 10 years of age or older with non-transfusion-dependent thalassemia syndromes and iron overload.
+Study 4 was a randomized, double-blind, placebo-controlled trial of treatment with Exjade for patients 10 years of age or older with NTDT syndromes and iron overload.
 Eligible patients had an LIC of at least 5 mg Fe/g dw measured by R2 MRI and a serum ferritin exceeding 300 mcg/L at screening (2 consecutive values at least 14 days apart from each other).
 A total of 166 patients were randomized, 55 to the Exjade 5 mg/kg/day dose group, 55 to the Exjade 10 mg/kg/day dose group, and 56 to placebo (28 to each matching placebo group).
 Doses could be increased after 6 months if the LIC exceeded 7 mg Fe/g dw and the LIC reduction from baseline was less than 15%.

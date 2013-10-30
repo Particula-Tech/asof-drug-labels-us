@@ -8,19 +8,21 @@ The following adverse reactions are also discussed in other sections of the labe
 - Hepatic Toxicity and Failure [see Warnings and Precautions (5.2)]
 - Gastrointestinal (GI) Hemorrhage [see Warnings and Precautions (5.3)]
 - Bone Marrow Suppression [see Warnings and Precautions (5.4)]
-- Skin Rash [see Warnings and Precautions (5.7)]
-- Auditory and Ocular Abnormalities [see Warnings and Precautions (5.9]
+- Hypersensitivity [see Warnings and Precautions (5.6)]
+- Severe Skin Reactions [see Warnings and Precautions (5.7)]
+- Skin Rash [see Warnings and Precautions (5.8)]
+- Auditory and Ocular Abnormalities [see Warnings and Precautions (5.9)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Transfusional Iron Overload
 
 A total of 700 adult and pediatric patients were treated with Exjade (deferasirox) for 48 weeks in premarketing studies.
-These included 469 patients with ß-thalassemia, 99 with rare anemias, and 132 with sickle cell disease.
+These included 469 patients with beta-thalassemia, 99 with rare anemias, and 132 with sickle cell disease.
 Of these patients, 45% were male, 70% were Caucasian and 292 patients were <16 years of age.
 In the sickle cell disease population, 89% of patients were black.
 Median treatment duration among the sickle cell patients was 51 weeks.
-Of the 700 patients treated, 469 (403 ß-thalassemia and 66 rare anemias) were entered into extensions of the original clinical protocols.
+Of the 700 patients treated, 469 (403 beta-thalassemia and 66 rare anemias) were entered into extensions of the original clinical protocols.
 In ongoing extension studies, median durations of treatment were 88-205 weeks.
 
 Six hundred twenty-seven patients with MDS were enrolled across 5 uncontrolled trials.
@@ -28,23 +30,25 @@ These studies varied in duration from 1 to 5 years.
 The discontinuation rate across studies in the first year was 46% (AEs 20%, withdrawal of consent 10%, death 8%, other 4%, lab abnormalities 3%, and lack of efficacy 1%).
 Among 47 patients enrolled in the study of 5-year duration, 10 remained on Exjade at the completion of the study.
 
-Table 1 displays adverse reactions occurring in >5% of Exjade-treated β-thalassemia patients (Study 1), sickle cell disease patients (Study 3), and patients with MDS (MDS pool).
+Table 1 displays adverse reactions occurring in >5% of Exjade-treated beta-thalassemia patients (Study 1), sickle cell disease patients (Study 3), and patients with MDS (MDS pool).
 Abdominal pain, nausea, vomiting, diarrhea, skin rashes, and increases in serum creatinine were the most frequent adverse reactions reported with a suspected relationship to Exjade.
 Gastrointestinal symptoms, increases in serum creatinine, and skin rash were dose related.
 
 Table 1.
 Adverse Reactions* Occurring in >5% of Exjade-treated Patients in Study 1, Study 3, and MDS Pool
 
-|  | Study 1 (ß-Thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
-| --- | --- | --- | --- | --- | --- |
-| Preferred Term | EXJADE N=296 n (%) | Deferoxamine N=290 n (%) | EXJADE N=132 n (%) | Deferoxamine N=63 n (%) | EXJADE N=627 n (%) |
-| Abdominal Pain** | 63 (21) | 41 (14) | 37 (28) | 9 (14) | 145 (23) |
-| Diarrhea | 35 (12) | 21 (7) | 26 (20) | 3 (5) | 297 (47) |
-| Creatinine Increased*** | 33 (11) | 0 (0) | 9 (7) | 0 | 89 (14) |
-| Nausea | 31 (11) | 14 (5) | 30 (23) | 7 (11) | 161 (26) |
-| Vomiting | 30 (10) | 28 (10) | 28 (21) | 10 (16) | 83 (13) |
-| Rash | 25 (8) | 9 (3) | 14 (11) | 3 (5) | 83 (13) |
-| * Adverse reaction frequencies are based on adverse events reported regardless of relationship to study drug. ** Includes ‘abdominal pain’, ‘abdominal pain lower’, and ‘abdominal pain upper’ which were reported as adverse events. *** Includes ‘blood creatinine increased’ and ‘blood creatinine abnormal’ which were reported as adverse events. Also see Table 2. |  |  |  |  |  |
+|  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Preferred Term | EXJADE N=296 n (%) | Deferoxamine N=290 n (%) | EXJADE N=132 n (%) | Deferoxamine N=63 n (%) | EXJADE N=627 n (%) |  |
+| Abdominal Pain** | 63 (21) | 41 (14) | 37 (28) | 9 (14) | 145 (23) |  |
+| Diarrhea | 35 (12) | 21 (7) | 26 (20) | 3 (5) | 297 (47) |  |
+| Creatinine Increased*** | 33 (11) | 0 (0) | 9 (7) | 0 | 89 (14) |  |
+| Nausea | 31 (11) | 14 (5) | 30 (23) | 7 (11) | 161 (26) |  |
+| Vomiting | 30 (10) | 28 (10) | 28 (21) | 10 (16) | 83 (13) |  |
+| Rash | 25 (8) | 9 (3) | 14 (11) | 3 (5) | 83 (13) |  |
+| *Adverse reaction frequencies are based on adverse events reported regardless of relationship to study drug. |  |  |  |  |  |  |
+| **Includes ‘abdominal pain’, ‘abdominal pain lower’, and ‘abdominal pain upper’ which were reported as adverse events. |  |  |  |  |  |  |
+| ***Includes ‘blood creatinine increased’ and ‘blood creatinine abnormal’ which were reported as adverse events. Also see Table 2. |  |  |  |  |  |  |
 
 In Study 1, a total of 113 (38%) patients treated with Exjade had increases in serum creatinine >33% above baseline on 2 separate occasions (Table 2) and 25 (8%) patients required dose reductions.
 Increases in serum creatinine appeared to be dose related [see Warnings and Precautions (5.1)].
@@ -67,7 +71,7 @@ Death was reported in the first year in 52 (8%) of patients [see Clinical Studie
 Table 2.
 Number (%) of Patients with Increases in Serum Creatinine or SGPT/ALT in Study 1, Study 3, and MDS Pool
 
-|  | Study 1 (ß-Thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
+|  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
 | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter | EXJADE N=296 n (%) | Deferoxamine N=290 n (%) | EXJADE N=132 n (%) | Deferoxamine N=63 n (%) | EXJADE N=627 n (%) |
 | Serum Creatinine |  |  |  |  |  |
@@ -77,7 +81,7 @@ Number (%) of Patients with Increases in Serum Creatinine or SGPT/ALT in Study 1
 | SGPT/ALT >5 x ULN at 2 postbaseline visits | 25 (8) | 7 (2) | 2 (2) | 0 | 9 (1) |
 | SGPT/ALT >5 x ULN at 2 consecutive postbaseline visits | 17 (6) | 5 (2) | 5 (4) | 0 | 5 (1) |
 
-Non-Transfusion Dependent Thalassemia Syndromes
+Non-Transfusion-Dependent Thalassemia Syndromes
 
 In Study 4, 110 patients with NTDT received 1 year of treatment with Exjade 5 or 10 mg/kg/day and 56 patients received placebo in a double-blind, randomized trial.
 In Study 5, 130 of the patients who completed Study 4 were treated with open-label Exjade at 5, 10, or 20 mg/kg/day (depending on the baseline LIC) for 1 year [see Clinical Studies (14)].
@@ -129,7 +133,7 @@ Adverse reactions which most frequently led to dose interruption or dose adjustm
 The following adverse reactions have been spontaneously reported during post-approval use of Exjade in the transfusional iron overload setting.
 Because these reactions are reported voluntarily from a population of uncertain size, in which patients may have received concomitant medication, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure.
 
-Skin and subcutaneous tissue disorders: leukocytoclastic vasculitis, urticaria, alopecia
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome (SJS), leukocytoclastic vasculitis, urticaria, alopecia
 
 Immune system disorders: hypersensitivity reactions (including anaphylaxis and angioedema)
 

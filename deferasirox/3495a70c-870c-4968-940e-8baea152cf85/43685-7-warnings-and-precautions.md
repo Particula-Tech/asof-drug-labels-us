@@ -5,7 +5,7 @@
 Exjade can cause acute renal failure, fatal in some patients and requiring dialysis in others.
 Postmarketing experience showed that most fatalities occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
 In the clinical trials, Exjade-treated patients experienced dose-dependent increases in serum creatinine.
-In patients with transfusional iron overload, these increases in creatinine occurred at a greater frequency compared to deferoxamine-treated patients (38% versus 14%, respectively, in Study 1 and 36% versus 22%, respectively, in Study 3) [see Adverse Reactions (6.1) and (6.2)].
+In patients with transfusional iron overload, these increases in creatinine occurred at a greater frequency compared to deferoxamine-treated patients (38% versus 14%, respectively, in Study 1 and 36% versus 22%, respectively, in Study 3) [see Adverse Reactions (6.1, 6.2)].
 
 Measure serum creatinine in duplicate (due to variations in measurements) and determine the creatinine clearance (estimated by the Cockcroft-Gault method) before initiating therapy in all patients in order to establish a reliable pretreatment baseline.
 Monitor serum creatinine weekly during the first month after initiation or modification of therapy and at least monthly thereafter.
@@ -14,7 +14,7 @@ Dose reduction, interruption, or discontinuation based on increases in serum cre
 
 Exjade is contraindicated in patients with creatinine clearance less than 40 mL/minute or serum creatinine greater than 2 times the age appropriate upper limit of normal.
 
-Renal tubular damage, including Fanconi’s Syndrome, has been reported in patients treated with Exjade, most commonly in children and adolescents with β-thalassemia and serum ferritin levels <1500 mcg/L.
+Renal tubular damage, including Fanconi’s Syndrome, has been reported in patients treated with Exjade, most commonly in children and adolescents with beta-thalassemia and serum ferritin levels <1500 mcg/L.
 
 Intermittent proteinuria (urine protein/creatinine ratio >0.6 mg/mg) occurred in 18.6% of Exjade-treated patients compared to 7.2% of deferoxamine-treated patients in Study 1.
 In clinical trials in patients with transfusional iron overload, Exjade was temporarily withheld until the urine protein/creatinine ratio fell below 0.6 mg/mg.
@@ -32,7 +32,7 @@ Measure transaminases (AST and ALT) and bilirubin in all patients before the ini
 Consider dose modifications or interruption of treatment for severe or persistent elevations.
 
 Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
-Reduce the starting dose in patients with moderate (Child-Pugh B) hepatic impairment [see Dosage and Administration (2.4), and Use in Specific Populations (8.7)].
+Reduce the starting dose in patients with moderate (Child-Pugh B) hepatic impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.7)].
 Patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment may be at higher risk for hepatic toxicity.
 
 ## 5.3 Gastrointestinal (GI) Hemorrhage
@@ -61,17 +61,17 @@ Exjade may cause serious hypersensitivity reactions (such as anaphylaxis and ang
 If reactions are severe, discontinue Exjade and institute appropriate medical intervention.
 Exjade is contraindicated in patients with known hypersensitivity to Exjade.
 
-## 5.7 Skin Rash
+## 5.7 Severe Skin Reactions
+
+Severe skin reactions, including Stevens-Johnson syndrome (SJS) and erythema multiforme, have been reported during Exjade therapy [see Adverse Reactions (6.2)].
+If SJS or erythema multiforme is suspected, discontinue Exjade and evaluate.
+
+## 5.8 Skin Rash
 
 Rashes may occur during Exjade treatment [see Adverse Reactions (6.1)].
 For rashes of mild to moderate severity, Exjade may be continued without dose adjustment, since the rash often resolves spontaneously.
 In severe cases, interrupt treatment with Exjade.
 Reintroduction at a lower dose with escalation may be considered in combination with a short period of oral steroid administration.
-
-## 5.8 Erythema Multiforme
-
-Erythema multiforme has been reported during Exjade therapy.
-If erythema multiforme is suspected, discontinue Exjade and evaluate.
 
 ## 5.9 Auditory and Ocular Abnormalities
 
@@ -85,6 +85,6 @@ Consider dose reduction or interruption.
 For patients with transfusional iron overload, measure serum ferritin monthly to assess for possible overchelation of iron.
 If the serum ferritin falls below 500 mcg/L, consider interrupting therapy with Exjade, since overchelation may increase Exjade toxicity [see Dosage and Administration (2.1)].
 
-For patients with non-transfusion dependent thalassemia, measure LIC by liver biopsy or by using an FDA-cleared or approved method for monitoring patients receiving deferasirox therapy every 6 months on treatment.
+For patients with NTDT, measure LIC by liver biopsy or by using an FDA-cleared or approved method for monitoring patients receiving deferasirox therapy every 6 months on treatment.
 Interrupt Exjade administration when the LIC is less than 3 mg Fe/g dw.
 Measure serum ferritin monthly, and if the serum ferritin falls below 300 mcg/L, interrupt Exjade and obtain a confirmatory LIC [see Clinical Studies (14)].

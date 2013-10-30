@@ -20,5 +20,5 @@ Off-white, round, flat tablet with beveled edge and imprinted with “J” and �
 
 Bottles of 30 tablets………………………………………………………………..(NDC 0078-0470-15)
 
-Store Exjade tablets at 25°C (77°F); excursions are permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
+Store Exjade tablets at 25°C (77°F); excursions are permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].
 Protect from moisture.

@@ -7,4 +7,4 @@ Exjade is contraindicated in patients with:
 - High-risk myelodysplastic syndromes;
 - Advanced malignancies;
 - Platelet counts <50 x 109/L;
-- Known hypersensitivity to deferasirox or any component of Exjade [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
+- Known hypersensitivity to deferasirox or any component of Exjade [see Warnings and Precautions (5.6), Adverse Reactions (6.2)].
