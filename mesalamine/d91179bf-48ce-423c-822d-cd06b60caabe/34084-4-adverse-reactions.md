@@ -1,93 +1,133 @@
-# ADVERSE REACTIONS:
+# 6 ADVERSE REACTIONS
 
-Asacol tablets have been evaluated in 3685 inflammatory bowel disease patients (most patients with ulcerative colitis) in controlled and open-label studies.
-Adverse events seen in clinical trials with Asacol tablets have generally been mild and reversible.
-Adverse events presented in the following sections may occur regardless of length of therapy and similar events have been reported in short- and long-term studies and in the post-marketing setting.
+The most serious adverse reactions seen in Asacol clinical trials or with other products that contain mesalamine or are metabolized to mesalamine are:
 
-In two short-term (6 weeks) placebo-controlled clinical studies involving 245 patients, 155 of whom were randomized to Asacol tablets, five (3.2%) of the Asacol patients discontinued Asacol therapy because of adverse events as compared to two (2.2%) of the placebo patients.
-Adverse reactions leading to withdrawal from Asacol tablets included (each in one patient): diarrhea and colitis flare; dizziness, nausea, joint pain, and headache; rash, lethargy and constipation; dry mouth, malaise, lower back discomfort, mild disorientation, mild indigestion and cramping; headache, nausea, aching, vomiting, muscle cramps, a stuffy head, plugged ears, and fever.
+- •Renal impairment, including renal failure [see Warnings and Precautions (5.1)]
+- •Acute intolerance syndrome [see Warnings and Precautions (5.2)]
+- •Hypersensitivity reactions [see Warnings and Precautions (5.3)]
+- •Hepatic failure [see Warnings and Precautions (5.4)]
 
-Adverse events occurring in Asacol-treated patients at a frequency of 2% or greater in the two short-term, double-blind, placebo-controlled trials mentioned above are listed in Table 1 below.
-Overall, the incidence of adverse events seen with Asacol tablets was similar to placebo.
+## 6.1 Clinical Trials Experience
 
-Table 1 Frequency (%) of Common Adverse Events Reported in Ulcerative Colitis Patients Treated with Asacol Tablets or Placebo in Short-Term (6-Week) Double-Blind Controlled Studies
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-|  | Percent of Patients with Adverse Events |  |
+In total, Asacol tablets have been evaluated in 2,690 patients with ulcerative colitis in controlled and open-label trials.
+Adverse reactions presented in the following sections may occur regardless of length of therapy and similar reactions have been reported in short- and long-term studies and in the postmarketing setting.
+
+Clinical studies supporting Asacol use for the treatment of mildly to moderately active ulcerative colitis included two 6-week, placebo-controlled, randomized, double-blind studies in adults with mildly to moderately active ulcerative colitis (Studies 1 and 2), and one 6-week, randomized, double-blind, study of 2 dose levels in children with mildly to moderately active ulcerative colitis.
+Clinical studies supporting the use of Asacol tablets in the maintenance of remission of ulcerative colitis included a 6-month, randomized, double-blind, placebo-controlled, multi-center study and four active-controlled maintenance trials comparing Asacol tablets with sulfasalazine.
+Asacol has been evaluated in 427 adults and 82 children with ulcerative colitis in these controlled studies.
+
+Treatment of Mildly to Moderately Active Ulcerative Colitis in Adults
+
+In two 6-week placebo-controlled clinical studies (Studies 1 and 2) involving 245 patients, 155 of whom were randomized to Asacol [see Clinical Studies (14.1)], 3.2 percent of the Asacol-treated patients discontinued therapy because of adverse reactions as compared to 2.2 percent of the placebo-treated patients.
+The average age of patients in Study 1 was 42 years and 48 percent of patients were male.
+The average age of patients in Study 2 was 42 years and 59 percent of patients were male.
+Adverse reactions leading to withdrawal from Asacol included (each in one patient): diarrhea and colitis flare; dizziness, nausea, joint pain, and headache; rash, lethargy and constipation; dry mouth, malaise, lower back discomfort, mild disorientation, mild indigestion and cramping; headache, nausea, aching, vomiting, muscle cramps, a stuffy head, plugged ears, and fever.
+
+Adverse reactions in patients treated with Asacol occurring at a frequency of at least 2 percent and at a rate greater than placebo in 6-week, double-blind, placebo-controlled trials (Studies 1 and 2) are listed in Table 2 below.
+
+Table 2.
+Adverse Reactions Reported in Two Pooled Six-Week, Placebo-Controlled Trials (Studies 1 and 2) Experienced by at Least 2 percent of Patients in the Asacol Group and at a Rate Greater than Placebo
+
+|  | % of Patients with Adverse Reactions |  |
 | --- | --- | --- |
-|  | Placebo | Asacol tablets |
-| Event | (n = 87) | (n = 152) |
-| Headache | 36 | 35 |
-| Abdominal pain | 14 | 18 |
-| Eructation | 15 | 16 |
-| Pain | 8 | 14 |
-| Nausea | 15 | 13 |
-| Pharyngitis | 9 | 11 |
-| Dizziness | 8 | 8 |
-| Asthenia | 15 | 7 |
-| Diarrhea | 9 | 7 |
-| Back pain | 5 | 7 |
-| Fever | 8 | 6 |
-| Rash | 3 | 6 |
-| Dyspepsia | 1 | 6 |
-| Rhinitis | 5 | 5 |
-| Arthralgia | 3 | 5 |
-| Hypertonia | 3 | 5 |
-| Vomiting | 2 | 5 |
-| Constipation | 1 | 5 |
-| Flatulence | 7 | 3 |
-| Dysmenorrhea | 3 | 3 |
-| Chest pain | 2 | 3 |
-| Chills | 2 | 3 |
-| Flu syndrome | 2 | 3 |
-| Peripheral edema | 2 | 3 |
-| Myalgia | 1 | 3 |
-| Sweating | 1 | 3 |
-| Colitis exacerbation | 0 | 3 |
-| Pruritus | 0 | 3 |
-| Acne | 1 | 2 |
-| Increased cough | 1 | 2 |
-| Malaise | 1 | 2 |
-| Arthritis | 0 | 2 |
-| Conjunctivitis | 0 | 2 |
-| Insomnia | 0 | 2 |
+| Adverse Reaction | Asacol | Placebo |
+|  | (n = 152) | (n = 87) |
+| Abdominal pain | 18 | 14 |
+| Eructation | 16 | 15 |
+| Pain | 14 | 8 |
+| Back pain | 7 | 5 |
+| Rash | 6 | 3 |
+| Dyspepsia | 6 | 1 |
+| Arthralgia | 5 | 3 |
+| Vomiting | 5 | 2 |
+| Constipation | 5 | 1 |
+| Chest pain | 3 | 2 |
+| Chills | 3 | 2 |
+| Peripheral edema | 3 | 2 |
+| Myalgia | 3 | 1 |
+| Sweating | 3 | 1 |
+| Pruritus | 3 | 0 |
+| Acne | 2 | 1 |
+| Malaise | 2 | 1 |
+| Arthritis | 2 | 0 |
 
-Of these adverse events, only rash showed a consistently higher frequency with increasing Asacol dose in these studies.
+Treatment of Mildly to Moderately Active Ulcerative Colitis in Pediatric Patients 5 to 17 Years Old
 
-In a 6-month placebo-controlled maintenance trial involving 264 patients, 177 of whom were randomized to Asacol tablets, six (3.4%) of the Asacol patients discontinued Asacol therapy because of adverse events, as compared to four (4.6%) of the placebo patients.
-Adverse reactions leading to withdrawal from Asacol tablets included (each in one patient): anxiety; headache; pruritus; decreased libido; rheumatoid arthritis; and stomatitis and asthenia.
+A randomized, double-blind, 6-week study of 2 dose levels of Asacol (Study 3) was conducted in 82 pediatric patients 5 to 17 years of age with mildly to moderately active ulcerative colitis.
+All patients were divided by body weight category (17 to less than 33 kg, 33 to less than 54 kg, and 54 to 90 kg) and randomly assigned to receive a low dose (1.2, 2.0, and 2.4 g/day for the respective body weight category) or a high dose (2.0, 3.6, and 4.8 g/day).
 
-In the 6-month placebo-controlled maintenance trial, the incidence of adverse events seen with Asacol tablets was similar to that seen with placebo.
-In addition to events listed in Table 1, the following adverse events occurred in Asacol-treated patients at a frequency of 2% or greater in this study: abdominal enlargement, anxiety, bronchitis, ear disorder, ear pain, gastroenteritis, gastrointestinal hemorrhage, infection, joint disorder, migraine, nervousness, paresthesia, rectal disorder, rectal hemorrhage, sinusitis, stool abnormalities, tenesmus, urinary frequency, vasodilation, and vision abnormalities.
+The high dose is not an approved dosage because it was not found to be more effective than the approved dose [see Dosage and Administration (2.1) and Clinical Studies (14.1)].
 
-In 3342 patients in uncontrolled clinical studies, the following adverse events occurred at a frequency of 5% or greater and appeared to increase in frequency with increasing dose: asthenia, fever, flu syndrome, pain, abdominal pain, back pain, flatulence, gastrointestinal bleeding, arthralgia, and rhinitis.
+Duration of exposure to mesalamine among the 82 patients in the study ranged from 12 to 50 days (mean of 40 days in each dose group).
+The majority (88 percent) of patients in each group were treated for more than 5 weeks.
+Table 3 provides a summary of the specific reported adverse reactions (ARs).
 
-In addition to the adverse events listed above, the following events have been reported in clinical studies, literature reports, and postmarketing use of products which contain (or have been metabolized to) mesalamine.
-Because many of these events were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to their seriousness or potential causal connection to mesalamine:
+Table 3.
+Adverse Reactions Reported in One Six-Week Trial (Study 3) Experienced by at Least 5% of Patients in the Low Dose Group or High Dose Group
 
-Body as a Whole: Neck pain, facial edema, edema, lupus-like syndrome, drug fever (rare).
+|  | % of Patients with Adverse Reactions |  |
+| --- | --- | --- |
+|  | Low Dose | High Dose |
+| Adverse Reaction | (n=41) | (n=41) |
+| Nasopharyngitis | 15 | 12 |
+| Ulcerative Colitis | 12 | 5 |
+| Headache | 10 | 5 |
+| Abdominal pain | 10 | 2 |
+| Dizziness | 7 | 2 |
+| Sinusitis | 7 | 0 |
+| Rash | 5 | 5 |
+| Cough | 5 | 0 |
+| Diarrhea | 5 | 0 |
+| Fatigue | 2 | 10 |
+| Pyrexia | 0 | 7 |
+| Increased Lipase | 0 | 5 |
+| Low Dose = Asacol 1.2 – 2.4 g/day; High Dose = Asacol 2.0 – 4.8 g/day. Dosage was dependent on body weight. Adverse Reactions reported at the 1-week telephone follow-up visit are included. |  |  |
 
-Cardiovascular: Pericarditis (rare), myocarditis (rare).
+Twelve percent of the patients in the low dose group and 5 percent of the patients in the high dose group had serious adverse reactions (ARs).
+Ulcerative colitis was reported as a serious AR in one subject in each group.
+Other serious ARs consisted of sinusitis, abdominal pain, decreased body mass index, adenovirus infection, bloody diarrhea, sclerosing cholangitis, and pancreatitis in one subject each in the low dose group and anemia and syncope in one subject each in the high dose group.
 
-Gastrointestinal: Anorexia, pancreatitis, gastritis, increased appetite, cholecystitis, dry mouth, oral ulcers, perforated peptic ulcer (rare), bloody diarrhea.
-There have been rare reports of hepatotoxicity including, jaundice, cholestatic jaundice, hepatitis, and possible hepatocellular damage including liver necrosis and liver failure.
-Some of these cases were fatal.
-Asymptomatic elevations of liver enzymes which usually resolve during continued use or with discontinuation of the drug have also been reported.
-One case of Kawasaki-like syndrome which included changes in liver enzymes was also reported.
+Seven patients were withdrawn from the study because of ARs: 5 (12 percent) in the low dose group (ulcerative colitis, adenovirus infection, sclerosing cholangitis, pancreatitis) and 2 (5 percent) in the high dose group (increased amylase and increased lipase, upper abdominal pain).
 
-Hematologic: Agranulocytosis (rare), aplastic anemia (rare), thrombocytopenia, eosinophilia, leukopenia, anemia, lymphadenopathy.
+In general, the nature and severity of reactions in the pediatric population was similar to those reported in adult populations of patients with ulcerative colitis.
+
+Maintenance of Remission of Ulcerative Colitis in Adults
+
+In a 6-month placebo-controlled maintenance trial involving 264 patients (Study 4) 177 of whom were randomized to Asacol, six (3.4 percent) of the patients using Asacol discontinued therapy because of adverse reactions, as compared to four (4.6 percent) of patients using placebo [see Clinical Studies (14.2)].
+The average age of patients in Study 4 was 42 years and 55 percent of patients were male.
+Adverse reactions leading to study withdrawal in patients using Asacol included (each in one patient): anxiety; headache; pruritus; decreased libido; rheumatoid arthritis; and stomatitis and asthenia.
+
+In addition to reactions listed in Table 2, the following adverse reactions occurred in patients using Asacol at a frequency of 2 percent or greater in Study 4: abdominal enlargement, gastroenteritis, gastrointestinal hemorrhage, infection, joint disorder, migraine, nervousness, paresthesia, rectal disorder, rectal hemorrhage, stool abnormalities, tenesmus, urinary frequency, vasodilation, and vision abnormalities.
+
+In 3342 patients in uncontrolled clinical studies, the following adverse reactions occurred at a frequency of 5 percent or greater and appeared to increase in frequency with increasing dose: asthenia, fever, flu syndrome, pain, abdominal pain, back pain, flatulence, gastrointestinal bleeding, arthralgia, and rhinitis.
+
+## 6.2 Postmarketing Experience
+
+In addition to the adverse reactions reported above in clinical trials involving Asacol, the adverse reactions listed below have been identified during post-approval use of Asacol and other mesalamine-containing products.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Body as a Whole: Neck pain, facial edema, edema, lupus-like syndrome, drug fever.
+
+Cardiovascular: Pericarditis, myocarditis [see Warnings and Precautions (5.3)].
+
+Gastrointestinal: Anorexia, pancreatitis, gastritis, increased appetite, cholecystitis, dry mouth, oral ulcers, perforated peptic ulcer bloody diarrhea.
+
+Hematologic: Agranulocytosis aplastic anemia, thrombocytopenia, eosinophilia, leukopenia, anemia, lymphadenopathy.
 
 Musculoskeletal: Gout.
 
-Nervous: Depression, somnolence, emotional lability, hyperesthesia, vertigo, confusion, tremor, peripheral neuropathy (rare), transverse myelitis (rare), Guillain-Barré syndrome (rare).
+Nervous: Depression, somnolence, emotional lability, hyperesthesia, vertigo, confusion, tremor, peripheral neuropathy, transverse myelitis, Guillain-Barré syndrome.
+
+Renal: Renal failure, interstitial nephritis, minimal change nephropathy [see Warnings and Precautions (5.1)].
 
 Respiratory/Pulmonary: Eosinophilic pneumonia, interstitial pneumonitis, asthma exacerbation, pleuritis.
 
-Skin: Alopecia, psoriasis (rare), pyoderma gangrenosum (rare), dry skin, erythema nodosum, urticaria.
+Skin: Alopecia, psoriasis, pyoderma gangrenosus, dry skin, erythema nodosum, urticaria.
 
 Special Senses: Eye pain, taste perversion, blurred vision, tinnitus.
 
-Urogenital: Renal Failure (rare), interstitial nephritis, minimal change nephropathy (See also Renal subsection in PRECAUTIONS).
-Dysuria, urinary urgency, hematuria, epididymitis, menorrhagia.
+Urogenital: Dysuria, urinary urgency, hematuria, epididymitis, menorrhagia, reversible oligospermia.
 
 Laboratory Abnormalities: Elevated AST (SGOT) or ALT (SGPT), elevated alkaline phosphatase, elevated GGT, elevated LDH, elevated bilirubin, elevated serum creatinine and BUN.

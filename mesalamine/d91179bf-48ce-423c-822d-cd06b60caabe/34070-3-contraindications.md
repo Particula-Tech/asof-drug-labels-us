@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS:
+# 4 CONTRAINDICATIONS
 
-Asacol tablets are contraindicated in patients with hypersensitivity to salicylates or to any of the components of the Asacol tablet.
+Asacol is contraindicated in patients with known hypersensitivity to salicylates or aminosalicylates or to any of the ingredients of Asacol [see Warnings and Precautions (5.3), Adverse Reactions (6.2), and Description (11)].

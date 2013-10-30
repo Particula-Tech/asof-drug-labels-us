@@ -1,8 +1,5 @@
-# OVERDOSAGE:
+# 10 OVERDOSAGE
 
-Two cases of pediatric overdosage have been reported.
-A 3-year-old male who ingested 2 grams of Asacol tablets was treated with ipecac and activated charcoal; no adverse events occurred.
-Another 3-year-old male, approximately 16 kg, ingested an unknown amount of a maximum of 24 grams of Asacol crushed in solution (i.e., uncoated mesalamine); he was treated with orange juice and activated charcoal, and experienced no adverse events.
-In dogs, single doses of 6 grams of delayed-release Asacol tablets resulted in renal papillary necrosis but were not fatal.
-This was approximately 12.5 times the recommended human dose (based on a dose of 2.4 g/day in a 50 kg person).
-Single oral doses of uncoated mesalamine in mice and rats of 5000 mg/kg and 4595 mg/kg, respectively, or of 3000 mg/kg in cynomolgus monkeys, caused significant lethality.
+There is no specific antidote for mesalamine overdose and treatment for suspected acute severe toxicity with Asacol should be symptomatic and supportive.
+This may include prevention of further gastrointestinal tract absorption, correction of fluid electrolyte imbalance, and maintenance of adequate renal function.
+Asacol is a pH dependent delayed-release product and this factor should be considered when treating a suspected overdose.
