@@ -1,12 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Desloratadine Orally Disintegrating Tablets 2.5 mg: Desloratadine tablets 2.5 mg are light red colored, speckled, round, flat, uncoated, beveled edged debossed with “R” on one side and “551” on the other side and are supplied in unit dose packages of 30 (5 x 6).
+Desloratadine Orally Disintegrating Tablets 2.5 mg: Desloratadine tablets 2.5 mg are light red colored, speckled, round, flat, uncoated, beveled edged debossed with “R” on one side and “551” on the other side and are supplied in carton of 5 packs containing 6 tablets each.
 
-Unit dose packages of 30 (5 x 6) NDC 55111-551-31
+Carton of 5 packs (NDC 55111-551-31), each pack containing 6 tablets (55111-551-06)
 
-Desloratadine Orally Disintegrating Tablets 5 mg: Desloratadine tablets 5 mg are light red colored, speckled, round, flat, uncoated, beveled edged debossed with “RDY” on one side and “360” on the other side and are supplied unit dose packages of 30 (5 x 6).
+Desloratadine Orally Disintegrating Tablets 5 mg: Desloratadine tablets 5 mg are light red colored, speckled, round, flat, uncoated, beveled edged debossed with “RDY” on one side and “360” on the other side and are supplied in carton of 5 packs containing 6 tablets each.
 
-Unit dose packages of 30 (5 x 6) NDC 55111-360-31
+Carton of 5 packs (NDC 55111-360-31), each pack containing 6 tablets (55111-360-06)
 
 Storage:
 

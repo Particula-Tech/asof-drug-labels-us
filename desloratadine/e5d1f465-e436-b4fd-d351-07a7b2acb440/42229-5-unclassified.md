@@ -6,4 +6,4 @@ Dr. Reddy's Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0411
+Revised: 1013
