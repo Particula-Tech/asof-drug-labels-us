@@ -3,7 +3,7 @@
 Serious adverse reactions with anastrozole occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
 This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
-Common adverse reactions (occurring with an incidence of > 10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
+Common adverse reactions (occurring with an incidence of ≥ 10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
 In the ATAC trial, the most common reported adverse reaction (> 0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the anastrozole group.
 
@@ -105,7 +105,7 @@ Table 2 — Number of Patients With Pre-Specified Adverse Reactions in ATAC Tria
 | Vaginal Bleeding | 167 (5) | 317 (10) | 0.5 | 0.41 to 0.61 |
 | Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 to 1.6 |
 | Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 to 0.3 |
-| Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.8 |
+| Venous Thromboembolic Events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.8 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 to 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.7 | 0.5 to 0.97 |
 | Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline. | 4 (0.2) | 13 (0.6) | 0.31 | 0.1 to 0.94 |
@@ -162,8 +162,10 @@ Patients receiving anastrozole had a lower incidence of hot flashes, vaginal ble
 
 10 Year Median Follow-Up Safety Results From the ATAC Trial
 
-- Results are consistent with the previous analyses.
-- Serious adverse reactions were similar between anastrozole (50%) and tamoxifen (51%).
+Results are consistent with the previous analyses.
+
+Serious adverse reactions were similar between anastrozole (50%) and tamoxifen (51%).
+
 - Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
 - The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15%) compared to the tamoxifen group (11%).
   This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
@@ -329,10 +331,11 @@ Table 6 — Number (n) and Percentage of Patients With Pre-Specified Adverse Rea
 
 ## 6.2 Postmarketing Experience
 
-Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase have been reported (≥ 1% and < 10%) and gamma-GT, bilirubin and hepatitis have been reported (≥ 0.1% and < 1%) in patients receiving anastrozole.
+These adverse reactions are reported voluntarily from a population of uncertain size.
+Therefore, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
+The following have been reported in post-approval use of anastrozole:
 
-Anastrozole may also be associated with rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
-
-Cases of allergic reactions including angioedema, urticaria and anaphylaxis have been reported in patients receiving anastrozole [see Contraindications (4.2)].
-
-Trigger finger has been reported (> 0.1% and < 1%) in patients receiving anastrozole.
+- Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
+- Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
+- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
+- Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)

@@ -64,7 +64,7 @@ Table 8 - All Recurrence and Death EventsThe combination arm was discontinued du
 
 |  | Intent-To-Treat PopulationPatients may fall into more than one category. |  | Hormone Receptor- Positive Subpopulation |  |
 | --- | --- | --- | --- | --- |
-|  | Anastrozole 1 mg (NN = Number of patients randomized = 3125) | Tamoxifen 20 mg (N = 3116) | Anastrozole 1 mg (N = 2618) | Tamoxifen 20 mg (N = 2598) |
+|  | Anastrozole 1 mg (NN = Number of patients randomized. = 3125) | Tamoxifen 20 mg (N = 3116) | Anastrozole 1 mg (N = 2618) | Tamoxifen 20 mg (N = 2598) |
 | Median Duration of Therapy (mo) | 60 | 60 | 60 | 60 |
 | Median Efficacy Follow-up (mo) | 68 | 68 | 68 | 68 |
 | Loco-regional recurrence | 119 (3.8) | 149 (4.8) | 76 (2.9) | 101 (3.9) |
@@ -139,7 +139,7 @@ The primary end points for both trials were time to tumor progression, objective
 Demographics and other baseline characteristics, including patients who had measurable and no measurable disease, patients who were given previous adjuvant therapy, the site of metastatic disease and ethnic origin were similar for the two treatment groups for both trials.
 The following table summarizes the hormone receptor status at entry for all randomized patients in trials 0030 and 0027.
 
-- Table 11 – Demographic and Other Baseline Characteristics Number (%) of subjects Trial 0030 Trial 0027 Receptor status Anastrozole 1 mg Tamoxifen 20 mg Anastrozole 1 mg Tamoxifen 20 mg (N = 171) (N = 182) (N = 340) (N = 328) ERER = Estrogen receptor and/or PgRPgR = Progesterone receptor 151 (88.3) 162 (89) 154 (45.3) 144 (43.9) ER unknown, PgR Unknown 19 (11.1) 20 (11) 185 (54.4) 183 (55.8)
+- Table 11 – Demographic and Other Baseline Characteristics Number (%) of subjects Trial 0030 Trial 0027 Receptor status Anastrozole 1 mg Tamoxifen 20 mg Anastrozole 1 mg Tamoxifen 20 mg (N = 171) (N = 182) (N = 340) (N = 328) ERER = Estrogen receptor and/or PgRPgR = Progesterone receptor 151 (88.3) 162 (89) 154 (45.3) 144 (43.9) ER unknown, PgRunknown 19 (11.1) 20 (11) 185 (54.4) 183 (55.8)
 
 For the primary endpoints, trial 0030 showed that anastrozole had a statistically significant advantage over tamoxifen (p = 0.006) for time to tumor progression; objective tumor response rates were similar for anastrozole and tamoxifen.
 Trial 0027 showed that anastrozole and tamoxifen had similar objective tumor response rates and time to tumor progression (seeTable 12andFigure 5andFigure 6).
@@ -154,12 +154,12 @@ Table 12 – Efficacy Results of First-Line Treatment
 | Time to progression (TTP) |  |  |  |  |  |  |
 | Median TTP (months) | 11.1 |  | 5.6 | 8.2 |  | 8.3 |
 | Number (%) of subjects who progressed | 114 (67%) |  | 138 (76%) | 249 (73%) |  | 247 (75%) |
-| Hazard ratio (LCLLCL = Lower Confidence Limit)Tamoxifen:anastrozole | 1.42 (1.15) |  |  | 1.01 (0.87) |  |  |
+| Hazard ratio (LCLLCL = Lower Confidence Limit)Tamoxifen:Anastrozole | 1.42 (1.15) |  |  | 1.01 (0.87) |  |  |
 | 2 sided 95% CICI = Confidence Interval | (1.11, 1.82) |  |  | (0.85, 1.2) |  |  |
 | p-valueTwo-sided Log Rank | 0.006 |  |  | 0.92 |  |  |
 | Best objective response rate |  |  |  |  |  |  |
-| Number (%) of subjects with CRCR = Complete Response + PRPR = Partial Response | 36 (21.1%) | 31 (17.0%) |  | 112 (32.9%) | 107 (32.6%) |  |
-| Odds Ratio (LCL)anastrozole:Tamoxifen | 1.30 (0.83) |  |  | 1.01 (0.77) |  |  |
+| Number (%) of subjects with CRCR = Complete Response + PRPR = Partial Response | 36 (21.1%) | 31 (17%) |  | 112 (32.9%) | 107 (32.6%) |  |
+| Odds Ratio (LCL)Anastrozole:Tamoxifen | 1.30 (0.83) |  |  | 1.01 (0.77) |  |  |
 
 Results from the secondary endpoints were supportive of the results of the primary efficacy endpoints.
 There were too few deaths occurring across treatment groups of both trials to draw conclusions on overall survival differences.
