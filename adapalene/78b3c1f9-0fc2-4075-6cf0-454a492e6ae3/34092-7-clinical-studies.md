@@ -14,19 +14,3 @@ At baseline subjects had the same inclusion criteria as in Trial 1 and 95.7% of 
 The outcome of the two trials is presented in Table 3.
 
 Table 3: Clinical Trial Primary Efficacy Results at Week 12
-
-| Trial 1 |  |  |
-| --- | --- | --- |
-|  | DIFFERIN Lotion (N = 533) | Vehicle Lotion (N = 542) |
-| IGA Success | 140 (26.3%) | 94 (17.3%) |
-| Total Lesions: Mean Absolute(Percent) Change | 37.9 (51.5%) | 26.7 (37.1%) |
-| Inflammatory Lesions: Mean Absolute(Percent) Change | 14.7 (54.9%) | 10.6 (40.3%) |
-| Non-inflammatory Lesions: Mean Absolute(Percent) Change | 23.2 (49.6%) | 16.1(35.7%) |
-
-| Trial 2 |  |  |
-| --- | --- | --- |
-|  | DIFFERIN Lotion(N = 535) | Vehicle Lotion (N = 531) |
-| IGA Success | 129 (24.1%) | 87 (16.4%) |
-| Total Lesions: Mean Absolute(Percent) Change | 32.4 (44.6%) | 23.4 (32.8%) |
-| Inflammatory Lesions: Mean Absolute(Percent) Change | 12.7 (46.0%) | 10.2 (36.9%) |
-| Non-inflammatory Lesions: Mean Absolute(Percent) Change | 19.6 (43.1%) | 13.1 (30.2%) |
