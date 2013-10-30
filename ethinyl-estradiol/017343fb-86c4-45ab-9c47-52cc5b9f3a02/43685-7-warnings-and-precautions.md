@@ -1,408 +1,196 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-NuvaRing® and other contraceptives that contain both an estrogen and a progestin are called combination hormonal contraceptives.
-There is no epidemiologic data available to determine whether safety and efficacy with the vaginal route of administration of combination hormonal contraceptives would be different than the oral route.
+## 5.1 Thromboembolic Disorders and Other Vascular Problems
 
-The use of oral contraceptives is associated with increased risks of several serious conditions including venous and arterial thrombotic and thromboembolic events (such as myocardial infarction, thromboembolism, and stroke), hepatic neoplasia, gallbladder disease, and hypertension, although the risk of serious morbidity or mortality is very small in healthy women without underlying risk factors.
-The risk of morbidity and mortality increases significantly in the presence of other underlying risk factors such as certain inherited thrombophilias, hypertension, hyperlipidemias, obesity, and diabetes.
+Stop NuvaRing use if an arterial thrombotic or venous thromboembolic event (VTE) occurs.
+Stop NuvaRing use if there is unexplained loss of vision, proptosis, diplopia, papilledema, or retinal vascular lesions.
+Evaluate for retinal vein thrombosis immediately.
+[See Adverse Reactions (6).]
 
-The information contained in this package insert is principally based on studies carried out in women who used oral contraceptives with formulations of higher doses of estrogens and progestogens than those in common use today.
-The effect of long-term use of oral contraceptives with lower doses of both estrogens and progestogens remains to be determined.
+If feasible, stop NuvaRing at least four weeks before and through two weeks after major surgery or other surgeries known to have an elevated risk of thromboembolism, and during and following prolonged immobilization.
 
-Throughout this labeling, epidemiologic studies reported are of two types: retrospective or case control studies and prospective or cohort studies.
-Case control studies provide a measure of the relative risk of a disease, namely, a ratio of the incidence of a disease among oral contraceptive users to that among non-users.
-The relative risk does not provide information on the actual clinical occurrence of a disease.
-Cohort studies provide a measure of attributable risk, which is the difference in the incidence of disease between oral contraceptive users and non-users.
-The attributable risk does provide information about the actual occurrence of a disease in the population.
-For further information, the reader is referred to a text on epidemiologic methods.
+Start NuvaRing no earlier than 4 weeks after delivery, in women who are not breastfeeding.
+The risk of postpartum thromboembolism decreases after the third postpartum week, whereas the risk of ovulation increases after the third postpartum week.
 
-## 1. THROMBOEMBOLIC DISORDERS AND OTHER VASCULAR PROBLEMS
+The use of CHCs increases the risk of VTE.
+Known risk factors for VTE include smoking, obesity, and family history of VTE, in addition to other factors that contraindicate use of CHCs [see Contraindications (4)].
 
-### a. Thromboembolism
+Two epidemiologic studies1, 2, 3 that assessed the risk of VTE associated with the use of NuvaRing are described below.
 
-An increased risk of thromboembolic and thrombotic disease associated with the use of oral contraceptives is well established.
-Case control studies have found the relative risk of users compared to non-users to be three for the first episode of superficial venous thrombosis, four to 11 for deep vein thrombosis or pulmonary embolism, and 1.5 to six for women with predisposing conditions for venous thromboembolic disease.
-Cohort studies have shown the relative risk to be somewhat lower, about three for new cases and about 4.5 for new cases requiring hospitalization.
-The risk of thromboembolic disease associated with oral contraceptives is not related to length of use and disappears after pill use is stopped.
+In these studies, which were required or sponsored by regulatory agencies, NuvaRing users had a risk of VTE similar to COC users (see Table 1 for adjusted hazard ratios).
+A large prospective, observational study, the Transatlantic Active Surveillance on Cardiovascular Safety of NuvaRing (TASC), investigated the risk of VTE for new users, and women who were switching to or restarting NuvaRing or COCs in a population that is representative of routine clinical users.
+The women were followed for 24 to 48 months.
+The results showed a similar risk of VTE among NuvaRing users (VTE incidence 8.3 per 10,000 WY) and women using COCs (VTE incidence 9.2 per 10,000 WY).
+For women using COCs that did not contain the progestins desogestrel (DSG) or gestodene (GSD), VTE incidence was 8.9 per 10,000 WY.
 
-Several epidemiology studies indicate that third generation oral contraceptives, including those containing desogestrel (etonogestrel, the progestin in NuvaRing®, is the biologically active metabolite of desogestrel), are associated with a higher risk of venous thromboembolism than certain second generation oral contraceptives.
-In general, these studies indicate an approximate two-fold increased risk, which corresponds to an additional one to two cases of venous thromboembolism per 10,000 women-years of use.
-However, data from additional studies have not shown this two-fold increase in risk.
-It is unknown if NuvaRing® has a different risk of venous thromboembolism than second generation oral contraceptives.
+A retrospective cohort study using data from 4 health plans in the US (FDA-funded Study in Kaiser Permanente and Medicaid databases) showed the VTE incidence for new users of NuvaRing to be 11.4 events per 10,000 WY, for new users of a levonorgestrel (LNG)-containing COC 9.2 events per 10,000 WY, and for users of other COCs available during the course of the studyIncludes low-dose COCs containing the following progestins: norgestimate, norethindrone, or levonorgestrel.
+8.2 events per 10,000 WY.
 
-A two- to four-fold increase in relative risk of post-operative thromboembolic complications has been reported with the use of oral contraceptives.
-The relative risk of venous thrombosis in women who have predisposing conditions is twice that of women without such medical conditions.
-If feasible, combination hormonal contraceptives, including NuvaRing®, should be discontinued at least four weeks prior to and for two weeks after elective surgery of a type associated with an increase in risk of thromboembolism and during and following prolonged immobilization.
-Since the immediate postpartum period is also associated with an increased risk of thromboembolism, combination hormonal contraceptives, such as NuvaRing®, should be started no earlier than four to six weeks after delivery in women who elect not to breastfeed.
+Table 1: Estimates (Hazard Ratios) of Venous Thromboembolism Risk in Users of NuvaRing Compared to Users of Combined Oral Contraceptives (COCs)
 
-The clinician should be alert to the earliest manifestations of thrombotic disorders (thrombophlebitis, pulmonary embolism, cerebrovascular disorders, and retinal thrombosis).
-Should any of these occur or be suspected, NuvaRing® should be discontinued immediately.
+| Epidemiologic Study (Author, Year of Publication) Population Studied | Comparator Product(s) | Hazard Ratios (HR) (95% CI) |
+| --- | --- | --- |
+| TASC (Dinger, 2012) Initiators, including new users, switchers and restarters | All COCs available during the course of the study Includes low-dose COCs containing the following progestins: chlormadinone acetate, cyproterone acetate, desogestrel, dienogest, drospirenone, ethynodiol diacetate, gestodene, levonorgestrel, norethindrone, norgestimate, or norgestrel COCs available excluding DSG- or GSD -containing OCs | HRAdjusted for age, BMI, duration of use, VTE history: 0.8 (0.5-1.5) HR: 0.8 (0.4-1.7) |
+| FDA-funded Study in Kaiser Permanente and Medicaid databases (Sidney, 2011) |  |  |
+| First use of a combined hormonal contraceptive (CHC) during the study period | COCs available during the course of the studyIncludes low-dose COCs containing the following progestins: norgestimate, norethindrone, or levonorgestrel | HRAdjusted for age, site, year of entry into study: 1.1 (0.6-2.2) |
+|  | LNG/0.03 mg ethinyl estradiol | HR: 1.0 (0.5-2.0) |
 
-### b. Myocardial infarction
+An increased risk of thromboembolic and thrombotic disease associated with the use of CHCs is well-established.
+Although the absolute VTE rates are increased for users of CHCs compared to non-users, the rates associated with pregnancy are even greater, especially during the post-partum period (see Figure 1).
 
-An increased risk of myocardial infarction has been attributed to oral contraceptive use.
-This risk is primarily in smokers or women with other underlying risk factors for coronary artery disease such as hypertension, hypercholesterolemia, morbid obesity, and diabetes.
-The relative risk of heart attack for current combination oral contraceptive users has been estimated to be two to six.
-The risk is very low in women under the age of 30.
+The frequency of VTE in women using CHCs has been estimated to be 3 to 12 cases per 10,000 women-years.
 
-Smoking in combination with oral contraceptive use has been shown to contribute substantially to the incidence of myocardial infarction in women in their mid-thirties or older with smoking accounting for the majority of excess cases.
-Mortality rates associated with circulatory disease have been shown to increase substantially in smokers, over the age of 35 and non-smokers over the age of 40 among women who use oral contraceptives (see Table IV).
+The risk of VTE is highest during the first year of CHC use and after restarting a CHC following a break of at least four weeks.
+The risk of VTE due to CHCs gradually disappears after use is discontinued.
 
-TABLE IV: CIRCULATORY DISEASE MORTALITY RATES PER 100,000 WOMAN-YEARS BY AGE, SMOKING STATUS, AND COMBINATION ORAL CONTRACEPTIVE USE.
+Figure 1 shows the risk of developing a VTE for women who are not pregnant and do not use CHCs, for women who use CHCs, for pregnant women, and for women in the postpartum period.
+To put the risk of developing a VTE into perspective: If 10,000 women who are not pregnant and do not use CHCs are followed for one year, between 1 and 5 of these women will develop a VTE.
 
-| AGE | EVER-USERS NON-SMOKERS | EVER-USERS SMOKERS | CONTROLS NON-SMOKERS | CONTROLS SMOKERS |
-| --- | --- | --- | --- | --- |
-| 15–24 | 0.0 | 10.5 | 0.0 | 0.0 |
-| 25–34 | 4.4 | 14.2 | 2.7 | 4.2 |
-| 35–44 | 21.5 | 63.4 | 6.4 | 15.2 |
-| 45+ | 52.4 | 206.7 | 11.4 | 27.9 |
-| (Adapted from P.M. Layde and V. Beral, Lancet, 1981;1:541–546.) |  |  |  |  |
+Figure 1: Likelihood of Developing a VTE
 
-Oral contraceptives may compound the effects of well-known risk factors, such as hypertension, diabetes, hyperlipidemias, age, and obesity.
-In particular, some progestogens are known to decrease HDL cholesterol and cause glucose intolerance, while estrogens may create a state of hyperinsulinism.
-Oral contraceptives have been shown to increase blood pressure among users (see WARNINGS).
-Similar effects on risk factors have been associated with an increased risk of heart disease.
-NuvaRing® must be used with caution in women with cardiovascular disease risk factors.
+*CHC=combination hormonal contraception
 
-### c. Cerebrovascular diseases
+**Pregnancy data based on actual duration of pregnancy in the reference studies.
+Based on a model assumption that pregnancy duration is nine months, the rate is 7 to 27 per 10,000 WY.
 
-Oral contraceptives have been shown to increase both the relative and attributable risks of cerebrovascular events (thrombotic and hemorrhagic strokes), although, in general, the risk is greatest among older (>35 years), hypertensive women who also smoke.
-Hypertension was found to be a risk factor for both users and non-users, for both types of strokes, while smoking interacted to increase the risk for hemorrhagic strokes.
+Several epidemiology studies indicate that third generation oral contraceptives, including those containing desogestrel (etonogestrel, the progestin in NuvaRing, is the biologically active metabolite of desogestrel), may be associated with a higher risk of VTE than oral contraceptives containing other progestins.
+Some of these studies indicate an approximate two-fold increased risk.
+However, data from other studies have not shown this two-fold increase in risk.
 
-In a large study, the relative risk of thrombotic strokes has been shown to range from three for normotensive users to 14 for users with severe hypertension.
-The relative risk of hemorrhagic stroke is reported to be 1.2 for non-smokers who used oral contraceptives, 2.6 for smokers who did not use oral contraceptives, 7.6 for smokers who used oral contraceptives, 1.8 for normotensive users and 25.7 for users with severe hypertension.
-The attributable risk is also greater in older women.
-Oral contraceptives also increase the risk for stroke in women with other underlying risk factors such as certain inherited or acquired thrombophilias, hyperlipidemias, and obesity.
-Women with migraine (particularly migraine with aura) who take combination oral contraceptives may be at an increased risk of stroke.
+Use of CHCs also increases the risk of arterial thromboses such as strokes and myocardial infarctions, especially in women with other risk factors for these events.
+CHCs have been shown to increase both the relative and attributable risks of cerebrovascular events (thrombotic and hemorrhagic strokes).
+In general, the risk is greatest among older (>35 years of age), hypertensive women who also smoke.
 
-### d. Dose-related risk of vascular disease from oral contraceptives
+Use NuvaRing with caution in women with cardiovascular disease risk factors.
 
-A positive association has been observed between the amount of estrogen and progestogen in oral contraceptives and the risk of vascular disease.
-A decline in serum high-density lipoproteins (HDL) has been reported with many progestational agents.
-A decline in serum high-density lipoproteins has been associated with an increased incidence of ischemic heart disease.
-Because estrogens increase HDL cholesterol, the net effect of an oral contraceptive depends on a balance achieved between doses of estrogen and progestogen and the nature and absolute amount of progestogens used in the contraceptives.
-The activity and amount of both hormones should be considered in the choice of a hormonal contraceptive.
+## 5.2 Toxic Shock Syndrome (TSS)
 
-Minimizing exposure to estrogen and progestogen is in keeping with good principles of therapeutics.
-For any particular estrogen/progestogen combination, the dosage regimen prescribed should be one which contains the least amount of estrogen and progestogen that is compatible with a low failure rate and the needs of the individual patient.
-New acceptors of hormonal contraceptive agents should be started on a product containing the lowest hormone content that provides satisfactory results in the individual.
+Cases of TSS have been reported by NuvaRing users.
+TSS has been associated with tampons and certain barrier contraceptives, and, in some cases the NuvaRing users were also using tampons.
+A causal relationship between the use of NuvaRing and TSS has not been established.
+If a patient exhibits signs or symptoms of TSS, consider the possibility of this diagnosis and initiate appropriate medical evaluation and treatment.
 
-### e. Persistence of risk of vascular disease
+## 5.3 Liver Disease
 
-There are two studies that have shown persistence of risk of vascular disease for ever-users of oral contraceptives.
-In a study in the United States, the risk of developing myocardial infarction after discontinuing oral contraceptives persists for at least nine years for women 40–49 years old who had used oral contraceptives for five or more years, but this increased risk was not demonstrated in other age groups.
-In another study in Great Britain, the risk of developing cerebrovascular disease persisted for at least six years after discontinuation of oral contraceptives, although excess risk was very small.
-However, both studies were performed with oral contraceptive formulations containing 50 micrograms or more of estrogen.
+Impaired Liver Function
 
-It is unknown whether NuvaRing® is distinct from combination oral contraceptives with regard to the occurrence of venous or arterial thrombosis.
+Do not use NuvaRing in women with liver disease such as acute viral hepatitis or severe (decompensated) cirrhosis of the liver [see Contraindications (4)].
+Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal and CHC causation has been excluded [see Use in Specific Populations (8.7)].
+Discontinue NuvaRing use if jaundice develops.
 
-## 2. ESTIMATES OF MORTALITY FROM CONTRACEPTIVE USE
+Liver Tumors
 
-One study gathered data from a variety of sources that have estimated the mortality rate associated with different methods of contraception at different ages (Table V). These estimates include the combined risk of death associated with contraceptive methods plus the risk attributable to pregnancy in the event of method failure.
-Each method of contraception has its specific benefits and risks.
-The study concluded that with the exception of oral contraceptive users age 35 and older who smoke and age 40 and older who do not smoke, mortality associated with all methods of birth control is low and below that associated with childbirth.
+NuvaRing is contraindicated in women with benign and malignant liver tumors [see Contraindications (4)].
+Hepatic adenomas are associated with CHC use.
+An estimate of the attributable risk is 3.3 cases per 100,000 CHC users.
+Rupture of hepatic adenomas may cause death through intra-abdominal hemorrhage.
 
-The observation of a possible increase in risk of mortality with age for oral contraceptive users is based on data gathered in the 1970's, but not reported until 1983.
-However, current clinical practice involves the use of lower estrogen-dose formulations combined with careful restriction of hormonal contraceptive use to women who do not have the various risk factors listed in this labeling.
+Studies have shown an increased risk of developing hepatocellular carcinoma in long term (>8 years) CHC users.
+However, the attributable risk of liver cancers in CHC users is less than one case per million users.
 
-Because of these changes in practice and, also, because of some limited new data which suggest that the risk of cardiovascular disease with the use of oral contraceptives may now be less than previously observed, the Fertility and Maternal Health Drugs Advisory Committee was asked to review the topic in 1989.
-The Committee concluded that although cardiovascular disease risks may be increased with oral contraceptive use after age 40 in healthy non-smoking women (even with the newer low-dose formulations), there are also greater potential health risks associated with pregnancy in older women and with the alternative surgical and medical procedures which may be necessary if such women do not have access to effective and acceptable means of contraception.
-Therefore, the Committee recommended that the benefits of low-dose hormonal oral contraceptive use by healthy non-smoking women over 40 may outweigh the possible risks.
-Older women, as all women who take hormonal contraceptives, should take the lowest possible dose formulation that is effective and meets the individual patient needs.
+## 5.4 High Blood Pressure
 
-TABLE V: ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH CONTROL OF FERTILITY PER 100,000 NON-STERILE WOMEN, BY FERTILITY CONTROL METHOD ACCORDING TO AGE.
+NuvaRing is contraindicated in women with uncontrolled hypertension or hypertension with vascular disease [see Contraindications (4)].
+For women with well-controlled hypertension, monitor blood pressure and stop NuvaRing use if blood pressure rises significantly.
 
-| Method of control and outcome | 15–19 | 20–24 | 25–29 | 30–34 | 35–39 | 40–44 |
-| --- | --- | --- | --- | --- | --- | --- |
-| No fertility control methodsDeaths are birth related | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
-| Oral contraceptives non-smokerDeaths are method related | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
-| Oral contraceptives smoker | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
-| Condom | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
-| Diaphragm/spermicide | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
-| Periodic abstinence | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
-| (Adapted from H.W. Ory, Family Planning Perspectives 1983;15:50–56.) |  |  |  |  |  |  |
+An increase in blood pressure has been reported in women using CHCs and this increase is more likely in older women and with extended duration of use.
+The incidence of hypertension increases with increasing concentrations of progestin.
 
-## 3. CARCINOMA OF THE REPRODUCTIVE ORGANS AND BREASTS
+## 5.5 Vaginal Use
 
-Numerous epidemiologic studies have been performed on the incidence of breast, endometrial, ovarian, and cervical cancer in women using combination oral contraceptives.
-Although the risk of breast cancer may be slightly increased among current users of oral contraceptives (RR = 1.24), this excess risk decreases over time after oral contraceptive discontinuation and by 10 years after cessation the increased risk disappears.
-The risk does not increase with duration of use, and no relationships have been found with dose or type of steroid.
-The patterns of risk are also similar regardless of a woman's reproductive history or her family breast cancer history.
-The subgroup for whom risk has been found to be significantly elevated is women who first used oral contraceptives before age 20, but because breast cancer is so rare at these young ages, the number of cases attributable to this early oral contraceptive use is extremely small.
-Breast cancers diagnosed in current or previous oral contraceptive users tend to be less advanced clinically than in never-users.
-Women who currently have or have had breast cancer should not use hormonal contraceptives because breast cancer is a hormone-sensitive tumor.
-
-Some studies suggest that combination oral contraceptive use has been associated with an increase in the risk of cervical intraepithelial neoplasia in some populations of women.
-However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
-
-In spite of many studies of the relationship between oral contraceptive use and breast and cervical cancers, a cause-and-effect relationship has not been established.
-
-It is unknown whether NuvaRing® is distinct from oral contraceptives with regard to the above statements.
-
-## 4. HEPATIC NEOPLASIA
-
-Benign hepatic adenomas are associated with oral contraceptive use, although the incidence of benign tumors is rare in the United States.
-Indirect calculations have estimated the attributable risk to be in the range of 3.3 cases per 100,000 for users, a risk that increases after four or more years of use.
-Rupture of rare, benign, hepatic adenomas may cause death through intra-abdominal hemorrhage.
-
-Studies from Britain have shown an increased risk of developing hepatocellular carcinoma in long term (>8 years) oral contraceptive users.
-However, these cancers are extremely rare in the US and the attributable risk (the excess incidence) of liver cancers in oral contraceptive users approaches less than one per million users.
-It is unknown whether NuvaRing® is distinct from oral contraceptives in this regard.
-
-## 5. OCULAR LESIONS
-
-There have been clinical case reports of retinal thrombosis associated with the use of oral contraceptives.
-NuvaRing® should be discontinued if there is unexplained partial or complete loss of vision, onset of proptosis or diplopia, papilledema, or retinal vascular lesions.
-Appropriate diagnostic and therapeutic measures should be undertaken immediately.
-
-## 6. HORMONAL CONTRACEPTIVE USE BEFORE OR DURING EARLY PREGNANCY
-
-Hormonal contraceptives should not be used during pregnancy.
-
-Extensive epidemiologic studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy.
-Studies also do not suggest a teratogenic effect, particularly in so far as cardiac anomalies and limb reduction defects are concerned, when oral contraceptives are taken inadvertently during early pregnancy.
-
-Combination hormonal contraceptives, such as NuvaRing®, should not be used to induce withdrawal bleeding as a test for pregnancy.
-NuvaRing® should not be used during pregnancy to treat threatened or habitual abortion.
-It is recommended that for any woman who has not adhered to the prescribed regimen for use of NuvaRing® and has missed a menstrual period or who has missed two consecutive periods, pregnancy should be ruled out.
-
-## 7. GALLBLADDER DISEASE
-
-Combination hormonal contraceptives, such as NuvaRing®, may worsen existing gallbladder disease and may accelerate the development of this disease in previously asymptomatic women.
-Women with a history of combination hormonal contraceptive-related cholestasis are more likely to have the condition recur with subsequent combination hormonal contraceptive use.
-
-## 8. CARBOHYDRATE AND LIPID METABOLIC EFFECTS
-
-Hormonal contraceptives have been shown to cause a decrease in glucose tolerance in some users.
-However, in the non-diabetic woman, combination hormonal contraceptives appear to have no effect on fasting blood glucose.
-Prediabetic and diabetic women should be carefully observed while taking combination hormonal contraceptives, such as NuvaRing®.
-In a clinical study involving 37 NuvaRing®-treated subjects, glucose tolerance tests showed no clinically significant changes in serum glucose levels from baseline to cycle six.
-
-A small proportion of women will have persistent hypertriglyceridemia while using oral contraceptives.
-Changes in serum triglycerides and lipoprotein levels have been reported in combination hormonal contraceptive users.
-
-## 9. ELEVATED BLOOD PRESSURE
-
-Women with severe hypertension should not be started on hormonal contraceptives.
-An increase in blood pressure has been reported in women taking oral contraceptives and this increase is more likely in older oral contraceptive users and with continued use.
-Data from the Royal College of General Practitioners and subsequent randomized trials have shown that the incidence of hypertension increases with increasing concentrations of progestogens.
-
-Women with a history of hypertension or hypertension-related diseases, or renal disease should be encouraged to use another method of contraception.
-If these women elect to use NuvaRing®, they should be monitored closely and if significant elevation of blood pressure occurs, NuvaRing® should be discontinued.
-For most women, elevated blood pressure will return to normal after stopping hormonal contraceptives, and there is no difference in the occurrence of hypertension between former and never-users.
-
-## 10. HEADACHE
-
-The onset or exacerbation of migraine or development of headache with a new pattern which is recurrent, persistent, or severe requires discontinuation of NuvaRing® and evaluation of the cause.
-
-## 11. BLEEDING IRREGULARITIES
-
-### Bleeding Patterns
-
-Breakthrough bleeding and spotting are sometimes encountered in women using NuvaRing®.
-If abnormal bleeding while using NuvaRing® persists or is severe, appropriate investigation should be instituted to rule out the possibility of organic pathology or pregnancy, and appropriate treatment should be instituted when necessary.
-In the event of amenorrhea, pregnancy should be ruled out.
-
-Bleeding patterns were evaluated in three large clinical studies.
-In the US-Canadian study (n=1177), the percentages of subjects with breakthrough bleeding/spotting ranged from 7.2 to 11.7% during cycles 1–13.
-In the two non-US studies, the percentages of subjects with breakthrough bleeding/spotting ranged from 2.6 to 6.4% (Study 1, n=1145 European and Israeli subjects) and from 2.0 to 8.7% (Study 2, n=512 European and South American subjects).
-In these three studies, the percentages of women who did not have withdrawal bleeding in a given cycle ranged from 0.3 to 3.8%.
-
-Some women may encounter amenorrhea or oligomenorrhea after discontinuing use of NuvaRing®, especially when such a condition was pre-existent.
-
-## 12. ECTOPIC PREGNANCY
-
-Ectopic as well as intrauterine pregnancy may occur in contraceptive failures.
-
-# PRECAUTIONS
-
-## 1. SEXUALLY TRANSMITTED DISEASES
-
-Women should be counseled that this product does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
-
-## 2. PHYSICAL EXAMINATION AND FOLLOW-UP
-
-It is routine medical practice for women using NuvaRing®, as for all women, to have an annual medical evaluation including physical examination and relevant laboratory tests.
-The physical examination should include special reference to blood pressure, breasts, abdomen, pelvic organs and vagina (including cervical cytology).
-In case of undiagnosed, persistent or recurrent abnormal vaginal bleeding, appropriate measures should be conducted to rule out malignancy.
-Women with a family history of breast cancer or who have breast nodules should be monitored with particular care.
-
-## 3. LIPID DISORDERS
-
-Women who are being treated for hyperlipidemias should be followed closely if they elect to use NuvaRing®.
-Some progestogens may elevate LDL levels and may render the control of hyperlipidemias more difficult.
-
-In women with familial defects of lipoprotein metabolism receiving estrogen-containing preparations, there have been case reports of significant elevations of plasma triglycerides leading to pancreatitis.
-
-## 4. LIVER FUNCTION
-
-If jaundice develops in any woman using NuvaRing®, product use should be discontinued.
-The hormones in NuvaRing® may be poorly metabolized in women with impaired liver function.
-
-## 5. FLUID RETENTION
-
-Steroid hormones like those in NuvaRing®, may cause some degree of fluid retention.
-NuvaRing® should be prescribed with caution, and only with careful monitoring, in women with conditions which might be aggravated by fluid retention.
-
-## 6. EMOTIONAL DISORDERS
-
-Women becoming significantly depressed while taking hormonal contraceptives should stop the medication and use an alternate method of contraception in an attempt to determine whether the symptom is drug related.
-Women with a history of depression should be carefully observed and the drug discontinued if depression recurs to a serious degree.
-
-## 7. TAMPON USE
-
-On rare occasions, NuvaRing® may be expelled while removing a tampon (see EXPULSION).
-Pharmacokinetic data show that the use of tampons has no effect on the systemic absorption of the hormones released by NuvaRing®.
-
-## 8. TOXIC SHOCK SYNDROME (TSS)
-
-Cases of toxic shock syndrome have been associated with tampons and certain barrier contraceptives.
-Very rare cases of TSS have been reported by NuvaRing® users; in some cases the women were also using tampons.
-No causal relationship between the use of NuvaRing® and TSS has been established.
-If a patient exhibits signs or symptoms of TSS, the possibility of this diagnosis should not be excluded and appropriate medical evaluation and treatment initiated.
-
-## 9. CONTACT LENSES
-
-Contact lens wearers who develop visual changes or changes in lens tolerance should be assessed by an ophthalmologist.
-
-## 10. DRUG INTERACTIONS
-
-Changes in contraceptive effectiveness associated with co-administration of other drugs:
-
-### a. Anti-infective agents and anticonvulsants
-
-Contraceptive effectiveness may be reduced when hormonal contraceptives are co-administered with some antifungals, anticonvulsants, and other drugs that increase metabolism of contraceptive steroids.
-This could result in unintended pregnancy or breakthrough bleeding.
-Examples include barbiturates, griseofulvin, rifampin, phenylbutazone, phenytoin, carbamazepine, felbamate, oxcarbazepine, topiramate, and modafinil.
-Women may need to use an additional contraceptive method when taking such medications.
-
-### b. Anti-HIV protease inhibitors
-
-Several of the anti-HIV protease inhibitors have been studied with co-administration of oral combination hormonal contraceptives; significant changes (increases and decreases) in the plasma levels of the estrogen and progestin have been noted in some cases.
-The efficacy and safety of hormonal contraceptive products may be affected with co-administration of anti-HIV protease inhibitors.
-Healthcare providers should refer to the label of the individual anti-HIV protease inhibitors for further drug-drug interaction information.
-
-### c. Herbal products
-
-Herbal products containing St. John's wort (hypericum perforatum) may induce hepatic enzymes (cytochrome P450) and p-glycoprotein transporter and may reduce the effectiveness of contraceptive steroids.
-This may also result in breakthrough bleeding.
-
-### Increase in plasma hormone levels associated with co-administered drugs
-
-Co-administration of atorvastatin and certain oral contraceptives containing ethinyl estradiol increase AUC values for ethinyl estradiol by approximately 20%.
-Ascorbic acid and acetaminophen may increase plasma ethinyl estradiol levels, possibly by inhibition of conjugation.
-CYP 3A4 inhibitors such as itraconazole or ketoconazole may increase plasma hormone levels.
-Co-administration of vaginal miconazole nitrate and NuvaRing® increases the serum concentrations of etonogestrel and ethinyl estradiol by up to 40%.
-
-### Changes in plasma levels of co-administered drugs
-
-Combination hormonal contraceptives containing some synthetic estrogens (e.g., ethinyl estradiol) may inhibit the metabolism of other compounds.
-Increased plasma concentrations of cyclosporine, prednisolone, and theophylline have been reported with concomitant administration of oral contraceptives.
-In addition, oral contraceptives may induce the conjugation of other compounds.
-Decreased plasma concentrations of acetaminophen and increased clearance of temazepam, salicylic acid, morphine and clofibric acid have been noted when these drugs were administered with oral contraceptives.
-
-## 11. INTERACTIONS WITH LABORATORY TESTS
-
-Certain endocrine and liver function tests and blood components may be affected by combined hormonal contraceptives:
-
-1. Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3, increased norepinephrine-induced platelet aggregability.
-2. Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
-   Free T3 resin uptake is decreased, reflecting the elevated TBG; free T4 concentration is unaltered.
-3. Other binding proteins may be elevated in serum.
-4. Sex hormone-binding globulins are increased and result in elevated levels of total circulating sex steroids; however, free or biologically active levels either decrease or remain unchanged.
-5. Triglycerides may be increased and levels of various other lipids and lipoproteins may be affected.
-6. Glucose tolerance may be decreased.
-7. Serum folate levels may be depressed by oral contraceptive therapy.
-   This may be of clinical significance if a woman becomes pregnant shortly after discontinuing NuvaRing®.
-
-## 12. CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
-
-In a 24-month carcinogenicity study in rats with subdermal implants releasing 10 and 20 mcg etonogestrel per day, (approximately 0.3 and 0.6 times the systemic steady-state exposure of women using NuvaRing®), no drug-related carcinogenic potential was observed.
-Etonogestrel was not genotoxic in the in vitro Ames/Salmonella reverse mutation assay, the chromosomal aberration assay in Chinese hamster ovary cells or in the in vivo mouse micronucleus test.
-Fertility returned after withdrawal from treatment (see WARNINGS).
-
-## 13. PREGNANCY
-
-### Pregnancy Category X
-
-(see CONTRAINDICATIONS and WARNINGS).
-
-Teratology studies have been performed in rats and rabbits using the oral route of administration at doses up to 130 and 260 times, respectively, the human NuvaRing® dose (based on body surface area) and have revealed no evidence of harm to the fetus due to etonogestrel.
-
-## 14. NURSING MOTHERS
-
-The effects of NuvaRing® in nursing mothers have not been evaluated and are unknown.
-Small amounts of contraceptive steroids have been identified in the milk of nursing mothers and a few adverse effects on the child have been reported, including jaundice and breast enlargement.
-In addition, contraceptive steroids given in the postpartum period may interfere with lactation by decreasing the quantity and quality of breast milk.
-Long-term follow-up of children whose mothers used combination hormonal contraceptives while breastfeeding has shown no deleterious effects on infants.
-However, women who are breastfeeding should be advised not to use NuvaRing® but to use other forms of contraception until the child is weaned.
-
-## 15. PEDIATRIC USE
-
-Safety and efficacy of NuvaRing® have been established in women of reproductive age.
-Safety and efficacy are expected to be the same for postpubertal adolescents under the age of 16 and for users 16 years and older.
-Use of this product before menarche is not indicated.
-
-## 16. GERIATRIC USE
-
-This product has not been studied in women over 65 years of age and is not indicated in this population.
-
-## 17. VAGINAL USE
-
-NuvaRing® may not be suitable for women with conditions that make the vagina more susceptible to vaginal irritation or ulceration.
-Vaginal/cervical erosion or ulceration in women using NuvaRing® has been rarely reported.
+NuvaRing may not be suitable for women with conditions that make the vagina more susceptible to vaginal irritation or ulceration.
+Vaginal/cervical erosion or ulceration in women using NuvaRing has been reported.
 In some cases, the ring adhered to vaginal tissue, necessitating removal by a healthcare provider.
 
-Some women are aware of the ring at random times during the 21 days of use or during intercourse.
-During intercourse some sexual partners may feel NuvaRing® in the vagina.
-However, clinical studies revealed that 90% of couples did not find this to be a problem.
+Some women are aware of the ring on occasion during the 21 days of use or during intercourse, and sexual partners may feel NuvaRing in the vagina.
 
-NuvaRing® may interfere with the correct placement and position of a diaphragm.
-A diaphragm is therefore not recommended as a back-up method with NuvaRing® use.
+## 5.6 Gallbladder Disease
 
-## 18. URINARY BLADDER INSERTION
+Studies suggest a small increased relative risk of developing gallbladder disease among CHC users.
+Use of CHCs may also worsen existing gallbladder disease.
 
-There have been rare reports of inadvertent insertions of NuvaRing® into the urinary bladder, which required cystoscopic removal.
-Healthcare providers should assess for ring insertion into the urinary bladder in NuvaRing® users who present with persistent urinary symptoms and are unable to locate the ring.
+A past history of CHC-related cholestasis predicts an increased risk with subsequent CHC use.
+Women with a history of pregnancy-related cholestasis may be at an increased risk for CHC-related cholestasis.
 
-## 19. EXPULSION
+## 5.7 Carbohydrate and Lipid Metabolic Effects
 
-NuvaRing® can be accidentally expelled, for example, while removing a tampon, during intercourse, or with straining during a bowel movement.
-NuvaRing® should be left in the vagina for a continuous period of three weeks.
-If the ring is accidentally expelled and is left outside of the vagina for less than three hours contraceptive efficacy is not reduced.
-NuvaRing® can be rinsed with cool to lukewarm (not hot) water and reinserted as soon as possible, but at the latest within three hours.
-If NuvaRing® is lost, a new vaginal ring should be inserted and the regimen should be continued without alteration.
+Carefully monitor prediabetic and diabetic women who are using NuvaRing.
+CHCs may decrease glucose tolerance.
 
-### If NuvaRing® is out of the vagina for more than three continuous hours:
+Consider alternative contraception for women with uncontrolled dyslipidemia.
+Some women will have adverse lipid changes while on CHCs.
 
-#### During Weeks 1 and 2
+Women with hypertriglyceridemia, or a family history thereof, may be at an increased risk of pancreatitis when using CHCs.
 
-If NuvaRing® has been out of the vagina for more than three continuous hours during the 1st or 2nd week of use, contraceptive efficacy may be reduced.
-The woman should reinsert the ring as soon as she remembers.
-A barrier method such as condoms or spermicides must be used until the ring has been used continuously for seven days.
+## 5.8 Headache
 
-#### During Week 3
+If a woman using NuvaRing develops new headaches that are recurrent, persistent, or severe, evaluate the cause and discontinue NuvaRing if indicated.
 
-If NuvaRing® has been out of the vagina for more than three continuous hours during the 3rd week of the three-week use period, the woman should discard that ring.
-One of the following two options should be chosen:
+Consider discontinuation of NuvaRing in the case of an increased frequency or severity of migraine during CHC use (which may be prodromal of a cerebrovascular event) [see Contraindications (4)].
 
-1. Insert a new ring immediately.
-   Inserting a new ring will start the next three-week use period.
-   The woman may not experience a withdrawal bleed from her previous cycle.
-   However, breakthrough spotting or bleeding may occur.
-2. Have a withdrawal bleeding and insert a new ring no later than seven days (7×24 hours) from the time the previous ring was removed or expelled.
-   This option should only be chosen if the ring was used continuously for the preceding seven days.
+## 5.9 Bleeding Irregularities and Amenorrhea
 
-A barrier method such as condoms or spermicides must be used until the new ring has been used continuously for seven days.
+Unscheduled Bleeding and Spotting
 
-## 20. DISCONNECTED RING
+Unscheduled bleeding (breakthrough or intracyclic) bleeding and spotting sometimes occur in women using CHCs, especially during the first three months of use.
+If bleeding persists or occurs after previously regular cycles, check for causes such as pregnancy or malignancy.
+If pathology and pregnancy are excluded, bleeding irregularities may resolve over time or with a change to a different CHC.
 
-There have been reported cases of NuvaRing® disconnecting at the weld joint.
-This is not expected to affect the contraceptive effectiveness of NuvaRing®.
-In the event of a disconnected ring, vaginal discomfort or expulsion (slipping out) is more likely to occur (see EXPULSION).
-If a woman discovers that her NuvaRing® has disconnected, she should discard the ring and replace it with a new ring.
+Bleeding patterns were evaluated in three large clinical studies.
+In the North American study (US and Canada, N=1,177), the percentages of subjects with breakthrough bleeding/spotting ranged from 7.2% to 11.7% during cycles 1-13.
+In the two non-US studies, the percentages of subjects with breakthrough bleeding/spotting ranged from 2.6% to 6.4% (Europe, N=1,145) and from 2.0% to 8.7% (Europe, Brazil, Chile, N=512).
 
-## INFORMATION FOR THE PATIENT
+Amenorrhea and Oligomenorrhea
 
-The woman should be instructed regarding the proper use of NuvaRing® (see PATIENT INFORMATION printed below).
+If scheduled (withdrawal) bleeding does not occur, consider the possibility of pregnancy.
+If the patient has not adhered to the prescribed dosing schedule, consider the possibility of pregnancy at the time of the first missed period and take appropriate diagnostic measures.
+
+Occasional missed periods may occur with the appropriate use of NuvaRing.
+In the clinical studies, the percent of women who did not have withdrawal bleeding in a given cycle ranged from 0.3% to 3.8%.
+
+If the patient has adhered to the prescribed regimen and misses two consecutive periods, rule out pregnancy.
+
+Some women may experience amenorrhea or oligomenorrhea after discontinuing CHC use, especially when such a condition was pre-existent.
+
+## 5.10 Inadvertent Urinary Bladder Insertion
+
+There have been reports of inadvertent insertions of NuvaRing into the urinary bladder, which required cystoscopic removal.
+Assess for ring insertion into the urinary bladder in NuvaRing users who present with persistent urinary symptoms and are unable to locate the ring.
+
+## 5.11 CHC Use Before or During Early Pregnancy
+
+Extensive epidemiological studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy.
+Studies also do not suggest a teratogenic effect, particularly in so far as cardiac anomalies and limb reduction defects are concerned, when taken inadvertently during early pregnancy.
+Discontinue NuvaRing if pregnancy is confirmed.
+
+## 5.12 Depression
+
+Carefully observe women with a history of depression and discontinue NuvaRing use if depression recurs to a serious degree.
+
+## 5.13 Carcinoma of the Breasts and Cervix
+
+NuvaRing is contraindicated in women who currently have or have had breast cancer because breast cancer is a hormonally-sensitive tumor [see Contraindications (4)].
+
+There is substantial evidence that CHCs do not increase the incidence of breast cancer.
+Although some past studies have suggested that CHCs might increase the incidence of breast cancer, more recent studies have not confirmed such findings.
+
+Some studies suggest that CHCs are associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
+However, there is controversy about the extent to which these findings may be due to differences in sexual behavior and other factors.
+
+## 5.14 Effect on Binding Globulins
+
+The estrogen component of CHCs may raise the serum concentrations of thyroxine-binding globulin, sex hormone-binding globulin, and cortisol-binding globulin.
+The dose of replacement thyroid hormones or cortisol therapy may need to be increased.
+
+## 5.15 Monitoring
+
+A woman who is using NuvaRing should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
+
+## 5.16 Hereditary Angioedema
+
+In women with hereditary angioedema, exogenous estrogens may induce or exacerbate symptoms of angioedema.
+
+## 5.17 Chloasma
+
+Chloasma may occasionally occur, especially in women with a history of chloasma gravidarum.
+Women with a tendency to chloasma should avoid exposure to the sun or ultraviolet radiation while using NuvaRing.

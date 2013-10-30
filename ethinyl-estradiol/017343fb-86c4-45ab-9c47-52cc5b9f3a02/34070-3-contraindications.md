@@ -1,20 +1,21 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-NuvaRing® should not be used in women who currently have the following conditions:
+Do not prescribe NuvaRing to women who are known to have the following:
 
-- Thrombophlebitis or thromboembolic disorders
-- A past history of deep vein thrombophlebitis or thromboembolic disorders
-- Cerebral vascular or coronary artery disease (current or history)
-- Valvular heart disease with thrombogenic complications
-- Severe hypertension
-- Diabetes with vascular involvement
-- Headaches with focal neurological symptoms
-- Major surgery with prolonged immobilization
-- Known or suspected carcinoma of the breast or personal history of breast cancer
-- Carcinoma of the endometrium or other known or suspected estrogen-dependent neoplasia
-- Undiagnosed abnormal genital bleeding
-- Cholestatic jaundice of pregnancy or jaundice with prior hormonal contraceptive use
-- Hepatic tumors (benign or malignant) or active liver disease
-- Known or suspected pregnancy
-- Heavy smoking (≥15 cigarettes per day) and over age 35
-- Hypersensitivity to any of the components of NuvaRing®
+- A high risk of arterial or venous thrombotic diseases.
+  Examples include women who are known to:
+  - Smoke, if over age 35 [see Boxed Warning and Warnings and Precautions (5.1)]
+  - Have deep vein thrombosis or pulmonary embolism, now or in the past [see Warnings and Precautions (5.1)]
+  - Have cerebrovascular disease [see Warnings and Precautions (5.1)]
+  - Have coronary artery disease [see Warnings and Precautions (5.1)]
+  - Have thrombogenic valvular or thrombogenic rhythm diseases of the heart (for example, subacute bacterial endocarditis with valvular disease, or atrial fibrillation) [see Warnings and Precautions (5.1)]
+  - Have inherited or acquired hypercoagulopathies [see Warnings and Precautions (5.1)]
+  - Have uncontrolled hypertension [see Warnings and Precautions (5.4)]
+  - Have diabetes mellitus with vascular disease [see Warnings and Precautions (5.7)]
+  - Have headaches with focal neurological symptoms or migraine headaches with aura [see Warnings and Precautions (5.8)]
+    - Women over age 35 with any migraine headaches [see Warnings and Precautions (5.8)]
+- Liver tumors, benign or malignant or liver disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.7)]
+- Undiagnosed abnormal uterine bleeding [see Warnings and Precautions (5.9)]
+- Pregnancy, because there is no reason to use CHCs during pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)]
+- Breast cancer or other estrogen- or progestin-sensitive cancer, now or in the past [see Warnings and Precautions (5.13)]
+- Hypersensitivity to any of the components of NuvaRing [see Adverse Reactions (6)]

@@ -1,82 +1,123 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-To achieve maximum contraceptive effectiveness, NuvaRing® must be used as directed (see When to Start NuvaRing® below).
-One NuvaRing® is inserted in the vagina.
+## 2.1 How to Use NuvaRing
+
+To achieve maximum contraceptive effectiveness, NuvaRing must be used as directed [see Dosing and Administration (2.2)].
+One NuvaRing is inserted in the vagina.
 The ring is to remain in place continuously for three weeks.
 It is removed for a one-week break, during which a withdrawal bleed usually occurs.
 A new ring is inserted one week after the last ring was removed.
 
 The user can choose the insertion position that is most comfortable to her, for example, standing with one leg up, squatting, or lying down.
 The ring is to be compressed and inserted into the vagina.
-The exact position of NuvaRing® inside the vagina is not critical for its function.
+The exact position of NuvaRing inside the vagina is not critical for its function.
 The vaginal ring must be inserted on the appropriate day and left in place for three consecutive weeks.
-This means that the ring is removed three weeks later on the same day of the week as it was inserted and at about the same time.
-NuvaRing® can be removed by hooking the index finger under the forward rim or by grasping the rim between the index and middle finger and pulling it out.
+This means that the ring should be removed three weeks later on the same day of the week as it was inserted and at about the same time.
+
+NuvaRing can be removed by hooking the index finger under the forward rim or by grasping the rim between the index and middle finger and pulling it out.
 The used ring should be placed in the sachet (foil pouch) and discarded in a waste receptacle out of the reach of children and pets (do not flush in toilet).
+
 After a one-week break, during which a withdrawal bleed usually occurs, a new ring is inserted on the same day of the week as it was inserted in the previous cycle.
-The withdrawal bleed usually starts on day 2–3 after removal of the ring and may not have finished before the next ring is inserted.
-In order to maintain contraceptive effectiveness, the new ring must be inserted one week after the previous one was removed even if menstrual bleeding has not finished.
+The withdrawal bleed usually starts on Day 2-3 after removal of the ring and may not have finished before the next ring is inserted.
+In order to maintain contraceptive effectiveness, the new ring must be inserted exactly one week after the previous one was removed even if menstrual bleeding has not finished.
 
-## When to Start NuvaRing®
+## 2.2 How to Start Using NuvaRing
 
-IMPORTANT: The possibility of ovulation and conception prior to the first use of NuvaRing® should be considered.
+IMPORTANT: Consider the possibility of ovulation and conception prior to the first use of NuvaRing.
 
-### No hormonal contraceptive use in the preceding cycle
+No Hormonal Contraceptive Use in the Preceding Cycle:
 
-Insert NuvaRing® on the first day of the woman's natural cycle (i.e., the first day of her menstrual bleeding).
-NuvaRing® may also be started on days 2–5 of the woman's cycle, but in this case a barrier method, such as male condoms or spermicide, is recommended for the first seven days of NuvaRing® use in the first cycle.
+The woman should insert NuvaRing on the first day of her menstrual bleeding.
+NuvaRing may also be started on Days 2-5 of the woman's cycle, but in this case a barrier method, such as male condoms with spermicide, should be used for the first seven days of NuvaRing use in the first cycle.
 
-### Changing from a combined hormonal contraceptive
+Changing From a CHC:
 
-The woman may switch from her previous combined hormonal contraceptive on any day, but at the latest on the day following the usual hormone-free interval, if she has been using her hormonal method consistently and correctly, or if it is reasonably certain that she is not pregnant.
+The woman may switch from her previous CHC on any day, but at the latest on the day following the usual hormone-free interval, if she has been using her hormonal method consistently and correctly, or if it is reasonably certain that she is not pregnant.
 
-### Changing from a progestagen-only method (minipill, implant, or injection) or from a progestagen-releasing intrauterine system (IUS)
+Changing From a Progestin-Only Method (progestin-only pill [POP], Implant, or Injection or a Progestin-Releasing Intrauterine System [IUS]):
 
-The woman may switch on any day from the minipill.
-She should switch from an implant or the IUS on the day of its removal and from an injectable on the day when the next injection would be due.
-In all of these cases, the woman should use an additional barrier method such as a male condom or spermicide, for the first seven days.
+The woman may switch from the POP on any day; instruct her to start using NuvaRing on the day after she took her last POP.
+She should switch from an implant or the IUS on the day of its removal, and from an injectable on the day when the next injection would be due.
+In all of these cases, the woman should use an additional barrier method such as a male condom with spermicide, for the first seven days.
 
-### Following complete first trimester abortion
+Use after Abortion or Miscarriage
 
-The woman may start using NuvaRing® within the first five days following a complete first trimester abortion and does not need to use an additional method of contraception.
-If use of NuvaRing® is not started within five days following a first trimester abortion, the woman should follow the instructions for "No hormonal contraceptive use in the preceding cycle."
-In the meantime she should be advised to use a nonhormonal contraceptive method.
+The woman may start using NuvaRing within the first five days following a complete first trimester abortion or miscarriage, and she does not need to use an additional method of contraception.
+If use of NuvaRing is not started within five days following a first trimester abortion or miscarriage, the woman should follow the instructions for "No Hormonal Contraceptive Use in the Preceding Cycle."
+In the meantime, she should be advised to use a non-hormonal contraceptive method.
 
-### Following delivery or second trimester abortion
+Start NuvaRing no earlier than four weeks after a second trimester abortion or miscarriage, due to the increased risk of thromboembolism.
+[See Contraindications (4), and Warnings and Precautions (5.1).]
 
-The use of NuvaRing® for contraception may be initiated four weeks postpartum in women who elect not to breastfeed.
-Women who are breastfeeding should be advised not to use NuvaRing® but to use other forms of contraception until the child is weaned.
-NuvaRing® use may be initiated four weeks after a second trimester abortion.
-When NuvaRing® is used postpartum or postabortion, the increased risk of thromboembolic disease must be considered.
-(See CONTRAINDICATIONS and WARNINGS concerning thromboembolic disease.
-See PRECAUTIONS for "Nursing Mothers".)
-If a woman begins using NuvaRing® postpartum, she should be instructed to use an additional method of contraception, such as male condoms or spermicide, for the first seven days.
-If she has not yet had a period, the possibility of ovulation and conception occurring prior to initiation of NuvaRing® should be considered.
+Following Childbirth
 
-## Deviations from the Recommended Regimen
+The use of NuvaRing may be initiated no sooner than four weeks postpartum in women who elect not to breastfeed, due to the increased risk of thromboembolism in the postpartum period.
+[See Contraindications (4), and Warnings and Precautions (5.1).]
 
-To prevent loss of contraceptive efficacy, women should not deviate from the recommended regimen.
-NuvaRing® should be left in the vagina for a continuous period of three weeks.
+Advise women who are breastfeeding not to use NuvaRing but to use other forms of contraception until the child is weaned.
 
-### Inadvertent removal, expulsion, or prolonged ring-free interval
+If a woman begins using NuvaRing postpartum, instruct her to use an additional method of contraception, such as male condoms with spermicide, for the first seven days.
+If she has not yet had a period, consider the possibility of ovulation and conception occurring prior to initiation of NuvaRing.
 
-If the ring is accidentally expelled and is left outside of the vagina for less than three hours contraceptive efficacy is not reduced.
-NuvaRing® can be rinsed with cool to lukewarm (not hot) water and reinserted as soon as possible, but at the latest within three hours.
-If NuvaRing® is lost, a new vaginal ring should be inserted and the regimen should be continued without alteration.
-If NuvaRing® is out of the vagina for more than three hours, the directions listed under PRECAUTIONS, EXPULSION should be followed.
+## 2.3 Deviations from the Recommended Regimen
 
-If the ring-free interval has been extended beyond one week, the possibility of pregnancy should be considered, and an additional method of contraception, such as male condoms or spermicide, MUST be used until NuvaRing® has been used continuously for seven days.
+To prevent loss of contraceptive efficacy, advise women not to deviate from the recommended regimen.
+NuvaRing should be left in the vagina for a continuous period of three weeks.
 
-### Prolonged Use of NuvaRing®
+Inadvertent Removal or Expulsion
 
-If NuvaRing® has been left in place for up to one extra week (i.e., up to four weeks total), the woman will remain protected.
-NuvaRing® should be removed and the woman should insert a new ring after a one-week ring-free interval.
-The mean serum etonogestrel concentration during the fourth week of continuous use of NuvaRing® was 1272 ± 311 pg/mL compared to a mean concentration range of 1578 ± 408 to 1374 ± 328 pg/mL during weeks one to three.
-The mean serum ethinyl estradiol concentration during the fourth week of continuous use of NuvaRing® was 16.8 ± 4.6 pg/mL compared to a mean concentration range of 19.1 ± 4.5 to 17.6 ± 4.3 pg/mL during weeks one to three.
-If NuvaRing® has been left in place for longer than four weeks, pregnancy should be ruled out, and an additional method of contraception, such as male condoms or spermicide, MUST be used until a new NuvaRing® has been used continuously for seven days.
+NuvaRing can be accidentally expelled, for example, while removing a tampon, during intercourse, or with straining during a bowel movement.
+NuvaRing should be left in the vagina for a continuous period of three weeks.
+If the ring is accidentally expelled and is left outside of the vagina for less than three hours, contraceptive efficacy is not reduced.
+NuvaRing can be rinsed with cool to lukewarm (not hot) water and reinserted as soon as possible, but at the latest within three hours.
+If NuvaRing is lost, a new vaginal ring should be inserted and the regimen should be continued without alteration.
 
-## In the event of a missed menstrual period
+If NuvaRing is out of the vagina for more than three continuous hours:
 
-1. If the woman has not adhered to the prescribed regimen (NuvaRing® has been out of the vagina for more than three hours or the preceding ring-free interval was extended beyond one week) the possibility of pregnancy should be considered at the time of the first missed period and NuvaRing® use should be discontinued if pregnancy is confirmed.
-2. If the woman has adhered to the prescribed regimen and misses two consecutive periods, pregnancy should be ruled out.
-3. If the woman has retained one NuvaRing® for longer than four weeks, pregnancy should be ruled out.
+During Weeks 1 and 2: Contraceptive efficacy may be reduced.
+The woman should reinsert the ring as soon as she remembers.
+A barrier method such as condoms with spermicides must be used until the ring has been used continuously for seven days.
+
+During Week 3: The woman should discard that ring.
+One of the following two options should be chosen:
+
+1. Insert a new ring immediately.
+   Inserting a new ring will start the next three-week use period.
+   The woman may not experience a withdrawal bleed from her previous cycle.
+   However, breakthrough spotting or bleeding may occur.
+2. Insert a new ring no later than seven days from the time the previous ring was removed or expelled, during which time she may have a withdrawal bleed.
+   This option should only be chosen if the ring was used continuously for at least seven days prior to inadvertent removal/expulsion.
+
+In either case, a barrier method such as condoms with spermicides must be used until the new ring has been used continuously for seven days.
+
+Prolonged Ring-Free Interval
+
+If the ring-free interval has been extended beyond one week, consider the possibility of pregnancy, and an additional method of contraception, such as male condoms with spermicide, MUST be used until NuvaRing has been used continuously for seven days.
+
+Prolonged Use of NuvaRing
+
+If NuvaRing has been left in place for up to one extra week (i.e., up to four weeks total), the woman will remain protected.
+NuvaRing should be removed and the woman should insert a new ring after a one-week ring-free interval.
+
+If NuvaRing has been left in place for longer than four weeks, instruct the woman to remove the ring, and rule out pregnancy.
+If pregnancy is ruled out, NuvaRing may be restarted, and an additional method of contraception, such as male condoms with spermicide, MUST be used until a new NuvaRing has been used continuously for seven days.
+
+Ring Breakage
+
+There have been reported cases of NuvaRing disconnecting at the weld joint.
+This is not expected to affect the contraceptive effectiveness of NuvaRing.
+In the event of a disconnected ring, vaginal discomfort or expulsion (slipping out) is more likely to occur.
+If a woman discovers that her NuvaRing has disconnected, she should discard the ring and replace it with a new ring.
+
+## 2.4 In the Event of a Missed Menstrual Period
+
+1. If the woman has not adhered to the prescribed regimen (NuvaRing has been out of the vagina for more than three hours or the preceding ring-free interval was extended beyond one week), consider the possibility of pregnancy at the time of the first missed period and discontinue NuvaRing use if pregnancy is confirmed.
+2. If the woman has adhered to the prescribed regimen and misses two consecutive periods, rule out pregnancy.
+3. If the woman has retained one NuvaRing for longer than four weeks, rule out pregnancy.
+
+## 2.5 Use with Other Vaginal Products
+
+NuvaRing may interfere with the correct placement and position of a diaphragm.
+A diaphragm is therefore not recommended as a back-up method with NuvaRing use.
+
+Pharmacokinetic data show that the use of tampons has no effect on the systemic absorption of the hormones released by NuvaRing.

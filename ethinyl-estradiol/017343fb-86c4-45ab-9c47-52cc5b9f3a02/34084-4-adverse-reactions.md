@@ -1,28 +1,42 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The most common adverse events reported by five to 14% of women using NuvaRing® in clinical trials (n=2501) were the following: vaginitis, headache, upper respiratory tract infection, vaginal secretion, sinusitis, weight gain, and nausea.
+The following serious adverse reactions with the use of CHCs are discussed elsewhere in the labeling.
 
-The most frequent system-organ class adverse events leading to discontinuation in one to 2.5% of women using NuvaRing® in the trials included the following: device-related events (foreign body sensation, coital problems, device expulsion), vaginal symptoms (discomfort/vaginitis/vaginal secretion), headache, emotional lability, and weight gain.
+- Serious cardiovascular events and stroke [see Boxed Warning and Warnings and Precautions (5.1)]
+- Vascular events [see Warnings and Precautions (5.1)]
+- Liver disease [see Warnings and Precautions (5.3)]
 
-Listed below are adverse reactions that have been associated with the use of combination hormonal contraceptives.
-These are also likely to apply to combination vaginal hormonal contraceptives, such as NuvaRing®.
+Adverse reactions commonly reported by CHC users are:
 
-An increased risk of the following serious adverse reactions has been associated with the use of combination hormonal contraceptives (see CONTRAINDICATIONS and WARNINGS):
+- Irregular uterine bleeding
+- Nausea
+- Breast tenderness
+- Headache
 
-| Thrombophlebitis and venous thrombosis with or without embolismArterial thromboembolismPulmonary embolismMyocardial infarction | Cerebral hemorrhageCerebral thrombosisHypertensionGallbladder diseaseHepatic adenomas or benign liver tumors |
-| --- | --- |
+## 6.1 Clinical Trials Experience
 
-There is evidence of an association between the following conditions and the use of combination hormonal contraceptives:
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-| Mesenteric thrombosis | Retinal thrombosis |
-| --- | --- |
+Trials with a duration of 6 to 13 28-day cycles provided safety data.
+In total, 2,501 women, aged 18 to 41 contributed 24,520 cycles of exposure.
 
-The following additional adverse reactions have been reported in users of combination hormonal contraceptives and are believed to be drug-related:
+Common Adverse Reactions (≥ 2%): vaginitis (13.8%), headache (including migraine) (11.2%), mood changes (e.g., depression, mood swings, mood altered, depressed mood, affect lability) (6.4%), device-related events (e.g., expulsion/discomfort/foreign body sensation) (6.3%), nausea/vomiting (5.9%), vaginal discharge (5.7%), increased weight (4.9%), vaginal discomfort (4.0%), breast pain/discomfort/tenderness (3.8%), dysmenorrhea (3.5%), abdominal pain (3.2%), acne (2.4%), and decreased libido (2.0%).
 
-| NauseaVomitingGastrointestinal symptoms (such as abdominal pain, cramps and bloating)Breakthrough bleedingSpottingChange in menstrual flowAmenorrheaTemporary infertility after discontinuation of treatmentEdema/fluid retentionMelasma/chloasma which may persistBreast changes: tenderness, pain, enlargement, and secretionDecrease in serum folate levelsExacerbation of porphyriaAggravation of varicose veins | Change in weight or appetite (increase or decrease)Change in cervical ectropion and secretionPossible diminution in lactation when given immediately postpartumCholestatic jaundiceMigraine headacheRash (allergic)Mood changes, including depressionVaginitis, including candidiasisChange in corneal curvature (steepening)Intolerance to contact lensesExacerbation of systemic lupus erythematosusExacerbation of choreaAnaphylactic/anaphylactoid reactions, including urticaria, angioedema, and severe reactions with respiratory and circulatory symptoms |
-| --- | --- |
+Adverse Reactions (≥ 1%) Leading to Study Discontinuation: 13.0% of the women discontinued from the clinical trials due to an adverse reaction; the most common adverse reactions leading to discontinuation were device-related events (2.7%), mood changes (1.7%), headache (including migraine) (1.5%) and vaginal symptoms (1.2%).
 
-The following additional adverse reactions have been reported in users of combination hormonal contraceptives and a causal association has been neither confirmed nor refuted:
+Serious Adverse Reactions: deep vein thrombosis [see Warnings and Precautions (5.1)], anxiety, cholelithiasis, and vomiting.
 
-| Pre-menstrual syndromeCataractsCystitis-like syndromeHeadacheNervousnessDizzinessHirsutismLoss of scalp hairErythema multiformeDysmenorrheaPancreatitis | Erythema nodosumHemorrhagic eruptionImpaired renal functionHemolytic uremic syndromeAcneChanges in libidoColitisBudd-Chiari SyndromeOptic neuritis, which may lead to partial or complete loss of vision |
-| --- | --- |
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of NuvaRing.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune system disorders: hypersensitivity
+
+Nervous system disorders: stroke/cerebrovascular accident
+
+Vascular disorders: arterial events (including arterial thromboembolism and myocardial infarction), aggravation of varicose veins
+
+Skin and subcutaneous tissue disorders: urticaria, chloasma
+
+Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women using NuvaRing)
