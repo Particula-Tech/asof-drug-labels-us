@@ -44,12 +44,14 @@ Fort Worth, Texas 76177 USA
 
 Manufactured by:
 
-DPT Laboratories, Ltd.
+G Production Inc.
 
-San Antonio, Texas 78215 USA
+Baie d'Urfe, QC, H9X 3S4 Canada
+
+Made in Canada
 
 GALDERMA is a registered trademark.
 
 www.clobex.com
 
-310147-0509
+P51351-1

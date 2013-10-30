@@ -130,4 +130,4 @@ Baie d’Urfé, QC, H9X 3S4 Canada
 Made in Canada
 
 GALDERMA is a registered trademark.
-US Patent Nos. 7,316,810 and 7,700,081 PXXXX-XX
+US Patent Nos. 7,316,810 and 7,700,081 P51352-2
