@@ -94,5 +94,5 @@ Safety and effectiveness in pediatric patients below the age of 12 have not been
 
 ## Geriatric Use
 
-Clinical studies of adapalene cream, 0.1% were conducted in patients 12 to 30 years of age with acne vulgaris and therefore did not include subjects 65 years and older to determine whether they respond differently than younger subjects.
+Clinical studies of Adapalene cream, 0.1% were conducted in patients 12 to 30 years of age with acne vulgaris and therefore did not include subjects 65 years and older to determine whether they respond differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

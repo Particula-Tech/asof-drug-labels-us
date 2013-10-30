@@ -3,11 +3,13 @@ Rx Only
 For topical use only.
 Not for ophthalmic, oral, or intravaginal use.
 
+Made in Canada
+
 Manufactured by:
 
-DPT Laboratories, Ltd.
+G Production Inc.
 
-San Antonio, Texas 78215 USA
+Baie d'Urfé QC, H9X 3S4 Canada
 
 Distributed By
 
@@ -15,9 +17,9 @@ PERRIGO®
 
 Allegan, MI 49010 • www.perrigo.com
 
-20075-0810
+P51447-0
 
-9A100 RC J1
+9A100 RC J3
 
 Rev.
-08/10
+06-13
