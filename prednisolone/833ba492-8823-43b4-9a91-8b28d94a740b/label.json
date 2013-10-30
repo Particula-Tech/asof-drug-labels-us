@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019157"
+  ],
+  "inn": "prednisolone",
+  "labeler": "Seton Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "13925-166-04"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "prednisolone sodium phosphate",
+      "name": "Prednisolone Sodium Phosphate"
+    }
+  ],
+  "setid": "833ba492-8823-43b4-9a91-8b28d94a740b",
+  "source": "dailymed"
+}

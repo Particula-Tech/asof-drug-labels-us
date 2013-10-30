@@ -1,0 +1,13 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 5 mg/5mL container label
+
+NDC 13925-166-04
+
+PrednisoLONE Sodium Phosphate Oral Solution, 5 mg/5 mL
+
+NONALCOHOLIC, DYE FREE, SUGAR FREE
+
+Rx only
+
+120 mL
+
+SETON PHARMACEUTICALS
