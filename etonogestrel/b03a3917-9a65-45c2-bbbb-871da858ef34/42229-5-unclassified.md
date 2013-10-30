@@ -3,11 +3,13 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 Manufactured by: N.V.
 Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
-Copyright © 2011 MSD Oss B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+For patent information: www.merck.com/product/patent/home.html
 
-Revised: 05/2012
+Copyright © 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-900415-IMPx-IPT-USPI.11
+Revised: 09/2013
+
+uspi-mk8415-ipt-1309r012
 
 NEXPLANON® (etonogestrel implant) Radiopaque Subdermal Use Only
 
@@ -71,8 +73,10 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 Manufactured by: N.V.
 Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
-Copyright © 2011 MSD Oss B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+For patent information: www.merck.com/product/patent/home.html
 
-Revised: 05/2012
+Copyright © 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-900415-IMPx-IPT-PCF.2
+Revised: 09/2013
+
+pcf-mk8415-ipt-1309r03

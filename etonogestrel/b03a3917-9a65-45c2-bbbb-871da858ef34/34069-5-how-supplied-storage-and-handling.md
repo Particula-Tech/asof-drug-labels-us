@@ -2,10 +2,17 @@
 
 ## 16.1 How Supplied
 
-One NEXPLANON package consists of a single implant containing 68 mg etonogestrel that is 4 cm in length and 2 mm in diameter, which is pre-loaded in the needle of a disposable applicator.
-The sterile applicator containing the implant is packed in a blister pack.
+NEXPLANON is supplied as follows:
 
 NDC 0052-0274-01
+
+One NEXPLANON package consists of a single implant containing 68 mg etonogestrel and 15 mg of barium sulfate that is 4 cm in length and 2 mm in diameter, which is pre-loaded in the needle of a disposable applicator.
+The sterile applicator containing the implant is packed in a blister pack.
+
+NDC 0052-4330-01
+
+One NEXPLANON package consists of a single implant containing 68 mg etonogestrel, 15 mg of barium sulfate and 0.1 mg of magnesium stearate that is 4 cm in length and 2 mm in diameter, which is pre-loaded in the needle of a disposable applicator.
+The sterile applicator containing the implant is packed in a blister pack.
 
 ## 16.2 Storage and Handling
 

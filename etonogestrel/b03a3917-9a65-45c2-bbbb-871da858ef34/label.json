@@ -3,10 +3,11 @@
     "NDA021529"
   ],
   "inn": "etonogestrel",
-  "labeler": "Organon Pharmaceuticals USA",
+  "labeler": "Organon USA Inc.",
   "package_ndcs": [
     "0052-0274-01",
-    "0052-0274-80"
+    "0052-0274-80",
+    "0052-4330-01"
   ],
   "products": [
     {
