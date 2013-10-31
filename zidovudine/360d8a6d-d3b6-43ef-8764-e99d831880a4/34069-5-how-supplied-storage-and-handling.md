@@ -6,6 +6,8 @@ RETROVIR IV Infusion, 10 mg zidovudine in each mL.
 
 Store vials at 15° to 25°C (59° to 77°F) and protect from light.
 
+RETROVIR, COMBIVIR, and TRIZIVIR are registered trademarks of the ViiV Healthcare group of companies.
+
 Manufactured for:
 
 ViiV Healthcare
@@ -18,9 +20,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, ViiV Healthcare.
+©2013, ViiV Healthcare group of companies.
 All rights reserved.
 
-May 2012
+October 2013
 
-RTV: 3PI
+RTV: 4PI

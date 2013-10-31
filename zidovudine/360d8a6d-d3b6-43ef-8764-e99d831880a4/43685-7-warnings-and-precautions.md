@@ -8,7 +8,7 @@ The incidence of adverse reactions appears to increase with disease progression;
 ## Bone Marrow Suppression:
 
 RETROVIR should be used with caution in patients who have bone marrow compromise evidenced by granulocyte count <1,000 cells/mm3 or hemoglobin <9.5 g/dL.
-In patients with advanced symptomatic HIV disease, anemia and neutropenia were the most significant adverse events observed.
+In subjects with advanced symptomatic HIV disease, anemia and neutropenia were the most significant adverse events observed.
 There have been reports of pancytopenia associated with the use of RETROVIR, which was reversible in most instances, after discontinuance of the drug.
 However, significant anemia, in many cases requiring dose adjustment, discontinuation of RETROVIR, and/or blood transfusions, has occurred during treatment with RETROVIR alone or in combination with other antiretrovirals.
 
@@ -31,7 +31,7 @@ Treatment with RETROVIR should be suspended in any patient who develops clinical
 ## Use With Interferon- and Ribavirin-Based Regimens:
 
 In vitro studies have shown ribavirin can reduce the phosphorylation of pyrimidine nucleoside analogues such as zidovudine.
-Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV/HCV virologic suppression) was seen when ribavirin was coadministered with zidovudine in HIV/HCV co-infected patients (see CLINICAL PHARMACOLOGY: Drug Interactions), hepatic decompensation (some fatal) has occurred in HIV/HCV co-infected patients receiving combination antiretroviral therapy for HIV and interferon alfa with or without ribavirin.
+Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV/HCV virologic suppression) was seen when ribavirin was coadministered with zidovudine in HIV/HCV co-infected subjects (see CLINICAL PHARMACOLOGY: Drug Interactions), hepatic decompensation (some fatal) has occurred in HIV/HCV co-infected subjects receiving combination antiretroviral therapy for HIV and interferon alfa with or without ribavirin.
 Patients receiving interferon alfa with or without ribavirin and RETROVIR should be closely monitored for treatment-associated toxicities, especially hepatic decompensation, neutropenia, and anemia.
 Discontinuation of RETROVIR should be considered as medically appropriate.
 Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Childs Pugh >6) (see the complete prescribing information for interferon and ribavirin).
@@ -42,7 +42,7 @@ Dose reduction or discontinuation of interferon alfa, ribavirin, or both should 
 
 Zidovudine is eliminated from the body primarily by renal excretion following metabolism in the liver (glucuronidation).
 In patients with severely impaired renal function (CrCl<15 mL/min), dosage reduction is recommended.
-Although the data are limited, zidovudine concentrations appear to be increased in patients with severely impaired hepatic function, which may increase the risk of hematologic toxicity (see CLINICAL PHARMACOLOGY: Pharmacokinetics and DOSAGE AND ADMINISTRATION).
+Although the data are limited, zidovudine concentrations appear to be increased in subjects with severely impaired hepatic function, which may increase the risk of hematologic toxicity (see CLINICAL PHARMACOLOGY: Pharmacokinetics and DOSAGE AND ADMINISTRATION).
 
 ## Immune Reconstitution Syndrome:
 
@@ -93,7 +93,7 @@ Some nucleoside analogues affecting DNA replication, such as ribavirin, antagoni
 Doxorubicin: Concomitant use of zidovudine with doxorubicin should be avoided since an antagonistic relationship has been demonstrated in vitro (see CLINICAL PHARMACOLOGY for additional drug interactions).
 
 Phenytoin: Phenytoin plasma levels have been reported to be low in some patients receiving RETROVIR, while in 1 case a high level was documented.
-However, in a pharmacokinetic interaction study in which 12 HIV-positive volunteers received a single 300-mg phenytoin dose alone and during steady-state zidovudine conditions (200 mg every 4 hours), no change in phenytoin kinetics was observed.
+However, in a pharmacokinetic interaction trial in which 12 HIV-positive volunteers received a single 300-mg phenytoin dose alone and during steady-state zidovudine conditions (200 mg every 4 hours), no change in phenytoin kinetics was observed.
 Although not designed to optimally assess the effect of phenytoin on zidovudine kinetics, a 30% decrease in oral zidovudine clearance was observed with phenytoin.
 
 Overlapping Toxicities: Coadministration of ganciclovir, interferon alfa, and other bone marrow suppressive or cytotoxic agents may increase the hematologic toxicity of zidovudine.
@@ -119,7 +119,7 @@ One study administered zidovudine at doses of 20 mg/kg/day or 40 mg/kg/day from 
 The doses of zidovudine employed in this study produced zidovudine exposures approximately 3 times the estimated human exposure at recommended doses.
 After 24 months, an increase in incidence of vaginal tumors was noted with no increase in tumors in the liver or lung or any other organ in either gender.
 These findings are consistent with results of the standard oral carcinogenicity study in mice, as described earlier.
-A second study administered zidovudine at maximum tolerated doses of 12.5 mg/day or 25 mg/day (∼1,000 mg/kg nonpregnant body weight or ∼450 mg/kg of term body weight) to pregnant mice from days 12 through 18 of gestation.
+A second study administered zidovudine at maximum tolerated doses of 12.5 mg/day or 25 mg/day (~1,000 mg/kg nonpregnant body weight or ~450 mg/kg of term body weight) to pregnant mice from days 12 through 18 of gestation.
 There was an increase in the number of tumors in the lung, liver, and female reproductive tracts in the offspring of mice receiving the higher dose level of zidovudine.
 It is not known how predictive the results of rodent carcinogenicity studies may be for humans.
 
@@ -132,7 +132,7 @@ Zidovudine, administered to male and female rats at doses up to 7 times the usua
 
 Pregnancy Category C. Oral teratology studies in the rat and in the rabbit at doses up to 500 mg/kg/day revealed no evidence of teratogenicity with zidovudine.
 Zidovudine treatment resulted in embryo/fetal toxicity as evidenced by an increase in the incidence of fetal resorptions in rats given 150 or 450 mg/kg/day and rabbits given 500 mg/kg/day.
-The doses used in the teratology studies resulted in peak zidovudine plasma concentrations (after one half of the daily dose) in rats 66 to 226 times, and in rabbits 12 to 87 times, mean steady-state peak human plasma concentrations (after one sixth of the daily dose) achieved with the recommended daily dose (100 mg every 4 hours).
+The doses used in the teratology studies resulted in peak zidovudine plasma concentrations (after one-half of the daily dose) in rats 66 to 226 times, and in rabbits 12 to 87 times, mean steady-state peak human plasma concentrations (after one-sixth of the daily dose) achieved with the recommended daily dose (100 mg every 4 hours).
 In an in vitro experiment with fertilized mouse oocytes, zidovudine exposure resulted in a dose-dependent reduction in blastocyst formation.
 In an additional teratology study in rats, a dose of 3,000 mg/kg/day (very near the oral median lethal dose in rats of 3,683 mg/kg) caused marked maternal toxicity and an increase in the incidence of fetal malformations.
 This dose resulted in peak zidovudine plasma concentrations 350 times peak human plasma concentrations.
@@ -157,7 +157,7 @@ Because of both the potential for HIV transmission and the potential for serious
 
 ## Pediatric Use:
 
-RETROVIR has been studied in HIV-infected pediatric patients over 3 months of age who had HIV-related symptoms or who were asymptomatic with abnormal laboratory values indicating significant HIV-related immunosuppression.
+RETROVIR has been studied in HIV-infected pediatric subjects over 3 months of age who had HIV-related symptoms or who were asymptomatic with abnormal laboratory values indicating significant HIV-related immunosuppression.
 RETROVIR has also been studied in neonates perinatally exposed to HIV (see ADVERSE REACTIONS, DOSAGE AND ADMINISTRATION, INDICATIONS AND USAGE: Description of Clinical Studies, and CLINICAL PHARMACOLOGY: Pharmacokinetics).
 
 ## Geriatric Use:

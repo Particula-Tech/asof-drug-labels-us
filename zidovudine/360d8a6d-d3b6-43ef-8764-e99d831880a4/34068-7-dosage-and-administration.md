@@ -4,8 +4,8 @@
 
 The recommended intravenous dose is 1 mg/kg infused over 1 hour.
 This dose should be administered 5 to 6 times daily (5 to 6 mg/kg daily).
-The effectiveness of this dose compared to higher dosing regimens in improving the neurologic dysfunction associated with HIV disease is unknown.
-A small randomized study found a greater effect of higher doses of RETROVIR on improvement of neurological symptoms in patients with pre-existing neurological disease.
+The effectiveness of this dose compared with higher dosing regimens in improving the neurologic dysfunction associated with HIV disease is unknown.
+A small randomized trial found a greater effect of higher doses of RETROVIR on improvement of neurological symptoms in subjects with pre-existing neurological disease.
 
 Patients should receive RETROVIR IV Infusion only until oral therapy can be administered.
 The intravenous dosing regimen equivalent to the oral administration of 100 mg every 4 hours is approximately 1 mg/kg intravenously every 4 hours.

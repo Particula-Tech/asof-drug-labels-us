@@ -6,12 +6,12 @@ Local reaction, pain, and slight irritation during intravenous administration oc
 
 ## Adults:
 
-The frequency and severity of adverse events associated with the use of RETROVIR are greater in patients with more advanced infection at the time of initiation of therapy.
+The frequency and severity of adverse events associated with the use of RETROVIR are greater in subjects with more advanced infection at the time of initiation of therapy.
 
-Table 5 summarizes events reported at a statistically significantly greater incidence for patients receiving RETROVIR orally in a monotherapy study.
+Table 5 summarizes events reported at a statistically significantly greater incidence for subjects receiving RETROVIR orally in a monotherapy trial.
 
 Table 5.
-Percentage (%) of Patients with Adverse Eventsa in Asymptomatic HIV Infection (ACTG 019)
+Percentage (%) of Subjects with Adverse Eventsa in Asymptomatic HIV Infection (ACTG 019)
 
 | Adverse Event | RETROVIR 500 mg/day(n = 453) | Placebo(n = 428) |
 | --- | --- | --- |
@@ -24,15 +24,15 @@ Percentage (%) of Patients with Adverse Eventsa in Asymptomatic HIV Infection (A
 | Constipation | 6.4%b | 3.5% |
 | Nausea | 51.4% | 29.9% |
 | Vomiting | 17.2% | 9.8% |
-| aReported in ≥5% of study population. |  |  |
+| aReported in ≥5% of trial population. |  |  |
 | bNot statistically significant versus placebo. |  |  |
 
-In addition to the adverse events listed in Table 5, other adverse events observed in clinical studies were abdominal cramps, abdominal pain, arthralgia, chills, dyspepsia, fatigue, hyperbilirubinemia, insomnia, musculoskeletal pain, myalgia, and neuropathy.
+In addition to the adverse events listed in Table 5, other adverse events observed in clinical trials were abdominal cramps, abdominal pain, arthralgia, chills, dyspepsia, fatigue, hyperbilirubinemia, insomnia, musculoskeletal pain, myalgia, and neuropathy.
 
-Selected laboratory abnormalities observed during a clinical study of monotherapy with oral RETROVIR are shown in Table 6.
+Selected laboratory abnormalities observed during a clinical trial of monotherapy with oral RETROVIR are shown in Table 6.
 
 Table 6.
-Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Patients with Asymptomatic HIV Infection (ACTG 019)
+Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Subjects with Asymptomatic HIV Infection (ACTG 019)
 
 | Adverse Event | RETROVIR 500 mg/day(n = 453) | Placebo(n = 428) |
 | --- | --- | --- |
@@ -46,10 +46,10 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Patients with As
 
 ## Pediatrics:
 
-Study ACTG300: Selected clinical adverse events and physical findings with a ≥5% frequency during therapy with EPIVIR® (lamivudine) 4 mg/kg twice daily plus RETROVIR 160 mg/m2 orally 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 7.
+Trial ACTG300: Selected clinical adverse events and physical findings with a ≥5% frequency during therapy with EPIVIR® (lamivudine) 4 mg/kg twice daily plus RETROVIR 160 mg/m2 orally 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric subjects are listed in Table 7.
 
 Table 7.
-Selected Clinical Adverse Events and Physical Findings (≥5% Frequency) in Pediatric Patients in Study ACTG300
+Selected Clinical Adverse Events and Physical Findings (≥5% Frequency) in Pediatric Subjects in Trial ACTG300
 
 | Adverse Event | EPIVIR plus RETROVIR(n = 236) | Didanosine(n = 235) |
 | --- | --- | --- |
@@ -72,10 +72,10 @@ Selected Clinical Adverse Events and Physical Findings (≥5% Frequency) in Pedi
 | Lymphadenopathy | 9% | 11% |
 | aIncludes pain, discharge, erythema, or swelling of an ear. |  |  |
 
-Selected laboratory abnormalities experienced by therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 8.
+Selected laboratory abnormalities experienced by therapy-naive (≤56 days of antiretroviral therapy) pediatric subjects are listed in Table 8.
 
 Table 8.
-Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Patients in Study ACTG300
+Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Subjects in Trial ACTG300
 
 | Test(Abnormal Level) | EPIVIR plus RETROVIR | Didanosine |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Patien
 | ULN = Upper limit of normal. |  |  |
 | ANC = Absolute neutrophil count. |  |  |
 
-Additional adverse events reported in open-label studies in pediatric patients receiving RETROVIR 180 mg/m2 every 6 hours were congestive heart failure, decreased reflexes, ECG abnormality, edema, hematuria, left ventricular dilation, macrocytosis, nervousness/irritability, and weight loss.
+Additional adverse events reported in open-label trials in pediatric subjects receiving RETROVIR 180 mg/m2 every 6 hours were congestive heart failure, decreased reflexes, ECG abnormality, edema, hematuria, left ventricular dilation, macrocytosis, nervousness/irritability, and weight loss.
 
 The clinical adverse events reported among adult recipients of RETROVIR may also occur in pediatric patients.
 

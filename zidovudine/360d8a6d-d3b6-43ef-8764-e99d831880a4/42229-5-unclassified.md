@@ -18,14 +18,14 @@ Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell cu
 
 ## Resistance:
 
-Genotypic analyses of the isolates selected in cell culture and recovered from zidovudine-treated patients showed mutations in the HIV-1 RT gene resulting in 6 amino acid substitutions (M41L, D67N, K70R, L210W, T215Y or F, and K219Q) that confer zidovudine resistance.
+Genotypic analyses of the isolates selected in cell culture and recovered from zidovudine-treated subjects showed mutations in the HIV-1 RT gene resulting in 6 amino acid substitutions (M41L, D67N, K70R, L210W, T215Y or F, and K219Q) that confer zidovudine resistance.
 In general, higher levels of resistance were associated with greater number of mutations.
-In some patients harboring zidovudine-resistant virus at baseline, phenotypic sensitivity to zidovudine was restored by 12 weeks of treatment with lamivudine and zidovudine.
+In some subjects harboring zidovudine-resistant virus at baseline, phenotypic sensitivity to zidovudine was restored by 12 weeks of treatment with lamivudine and zidovudine.
 Combination therapy with lamivudine plus zidovudine delayed the emergence of mutations conferring resistance to zidovudine.
 
 ## Cross-Resistance:
 
-In a study of 167 HIV-infected patients, isolates (n = 2) with multi-drug resistance to didanosine, lamivudine, stavudine, zalcitabine, and zidovudine were recovered from patients treated for ≥1 year with zidovudine plus didanosine or zidovudine plus zalcitabine.
+In a trial of 167 HIV-infected subjects, isolates (n = 2) with multi-drug resistance to didanosine, lamivudine, stavudine, zalcitabine, and zidovudine were recovered from subjects treated for at least 1 year with zidovudine plus didanosine or zidovudine plus zalcitabine.
 The pattern of resistance-associated mutations with such combination therapies was different (A62V, V75I, F77L, F116Y, Q151M) from the pattern with zidovudine monotherapy, with the Q151M mutation being most commonly associated with multi-drug resistance.
 The mutation at codon 151 in combination with mutations at 62, 75, 77, and 116 results in a virus with reduced susceptibility to didanosine, lamivudine, stavudine, zalcitabine, and zidovudine.
 Thymidine analogue mutations (TAMs) are selected by zidovudine and confer cross-resistance to abacavir, didanosine, stavudine, tenofovir, and zalcitabine.
