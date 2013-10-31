@@ -1,5 +1,3 @@
 For Oral Use
 
-Rx only
-
-LAB-0114-6.0 August 2010
+LAB-0114-7.0 October 2013

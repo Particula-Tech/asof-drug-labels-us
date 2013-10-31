@@ -49,3 +49,6 @@ In some cases, especially when patient has been receiving greater than 40 units 
 
 As with other sulfonylurea-class hypoglycemics, no transition period is necessary when transferring patients to GLUCOTROL.
 Patients should be observed carefully (1–2 weeks) for hypoglycemia when being transferred from longer half-life sulfonylureas (e.g., chlorpropamide) to GLUCOTROL due to potential overlapping of drug effect.
+
+When colesevelam is coadministered with glipizide ER, maximum plasma concentration and total exposure to glipizide is reduced.
+Therefore, GLUCOTROL should be administered at least 4 hours prior to colesevelam.
