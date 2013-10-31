@@ -14,4 +14,4 @@ Strides Pharma Inc.
 
 Lambertville, NJ 08530 USA
 
-Revised: September, 2013
+Issued: October, 2013

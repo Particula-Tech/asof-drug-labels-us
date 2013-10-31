@@ -36,9 +36,7 @@ Because of the danger of oversuppression of the immune system which can increase
 
 ## New or Reactivated Viral Infections
 
-Polyomavirus associated nephropathy (PVAN), JC virus associated progressive multifocal leukoencephalopathy (PML), cytomegalovirus (CMV) infections, reactivation of hepatitis B (HBV) or hepatitis C (HCV) have been reported in patients treated with
-
-immunosuppressants, including CellCept.
+Polyomavirus associated nephropathy (PVAN), JC virus associated progressive multifocal leukoencephalopathy (PML), cytomegalovirus (CMV) infections, reactivation of hepatitis B (HBV) or hepatitis C (HCV) have been reported in patients treated with immunosuppressants, including mycophenolate mofetil.
 Reduction in immunosuppression should be considered for patients who develop evidence of new or reactivated viral infections.
 
 Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.

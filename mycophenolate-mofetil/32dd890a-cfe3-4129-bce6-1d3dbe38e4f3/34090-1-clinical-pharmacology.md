@@ -84,20 +84,20 @@ Table 1 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administratio
 |  |  | (h) | (mcg/mL) | (mcg•h/mL) |
 | Healthy Volunteers | 1 g/oral | 0.80 (±0.36) | 24.5(±9.5) | 63.9(±16.2) |
 | (single dose) |  | (n=129) | (n=129) | (n=117) |
-| Renal Transplan | Dose/Route | Tmax | Cmax | Total AUC |
-| Patients (bid dosing) |  | (h) | (mcg/mL) | AUC(0-12h) |
-| Time After Transplantation |  |  |  | Interval (mcg•h/mL) |
+| Renal Transplan | Dose/Route | Tmax | Cmax | Interdosing |
+| Patients (bid dosing) |  | (h) | (mcg/mL) | Interval |
+| Time After Transplantation |  |  |  | AUC(0-12h) (mcg•h/mL) |
 | 5 days | 1 g/iv | 1.58 (±0.46) (n=31) | 12.0 (±3.82) (n=31) | 40.8 (±11.4) (n=31) |
 | 6 days | 1 g/oral | 1.33 (±1.05) (n=31) | 10.7 (±4.83) (n=31) | 32.9 (±15.0) (n=31) |
 | Early (<40 days) | 1 g/oral | 1.31 (±0.76) (n=25) | 8.16 (±4.50) (n=25) | 27.3 (±10.9) (n=25) |
 | Early (<40 days) | 1.5 g/oral | 1.21 (±0.81) (n=27) | 13.5 (±8.18) (n=27) | 38.4 (±15.4) (n=27) |
 | Late (>3 months) | 1.5 g/oral | 0.90 (±0.24) (n=23) | 24.1 (±12.1) (n=23) | 65.3 (±35.4) (n=23) |
-| Cardiac Transplant | Dose/Route | Tmax | Cmax | Total AUC |
+| Cardiac Transplant | Dose/Route | Tmax | Cmax | Interdosing |
 | Patients (bid dosing) |  | (h) | (mcg/mL) | Interval |
 | Time After Transplantation |  |  |  | AUC(0-12h) (mcg•h/mL) |
 | Early (Day before discharge) | 1.5 g/oral | 1.8 (±1.3) (n=11) | 11.5 (±6.8) (n=11) | 43.3 (±20.8) (n=9) |
 | Late (>6 months) | 1.5 g/oral | 1.1 (±0.7) (n=52) | 20.0 (±9.4) (n=52) | 54.1AUC (0-12h) values quoted are extrapolated from data from samples collected over 4 hours. (±20.4) (n=49) |
-| Hepatic Transplant | Dose/Route | Tmax | Cmax | Total AUC |
+| Hepatic Transplant | Dose/Route | Tmax | Cmax | Interdosing |
 | Patients (bid dosing) |  | (h) | (mcg/mL) | Interval |
 | Time After Transplantation |  |  |  | AUC(0-12h) (mcg•h/mL) |
 | 4 to 9 days | 1 g/iv | 1.50 (±0.517) (n=22) | 17.0 (±12.7) (n=22) | 34.0 (±17.4) (n=22) |
@@ -128,7 +128,7 @@ Table 2 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses 
 | Severe Renal Impairment |  |  |  |  |
 | GFR <25 mL/min/1.73 m2 |  |  |  |  |
 | (n=7) | 1 g | 1.00 (±0.41) | 16.3 (±10.8) | 78.6 (±46.4) |
-| Hepatic Impairment (no. of patients) | Dose | Tmax(h) | Cmax (mcg/mL) | Total AUC(0-48h) (mcg•h/mL) |
+| Hepatic Impairment (no. of patients) | Dose | Tmax(h) | Cmax (mcg/mL) | AUC(0-48h) (mcg•h/mL) |
 | Healthy Volunteers (n=6) | 1 g | 0.63 (±0.14) | 24.3 (±5.73) | 29.0 (±5.78) |
 | Alcoholic Cirrhosis (n=18) | 1 g | 0.85 (±0.58) | 22.4 (±10.1) | 29.8 (±10.7) |
 

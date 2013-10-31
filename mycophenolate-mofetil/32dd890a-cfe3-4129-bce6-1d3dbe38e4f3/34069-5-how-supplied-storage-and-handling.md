@@ -26,9 +26,9 @@ Supplied in the following presentations:
 
 NDC Number Size
 
-NDC 64380-726-06 Bottle of 100
+NDC 64380-725-06 Bottle of 100
 
-NDC 64380-726-07 Bottle of 500
+NDC 64380-725-07 Bottle of 500
 
 Storage and Dispensing Information
 
