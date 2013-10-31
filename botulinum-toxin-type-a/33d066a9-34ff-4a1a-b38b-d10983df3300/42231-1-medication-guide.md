@@ -56,7 +56,7 @@ These symptoms can happen hours, days, to weeks after you receive an injection o
 These problems could make it unsafe for you to drive a car or do other dangerous activities.
 See "What should I avoid while receiving BOTOX or BOTOX Cosmetic?"
 
-There has not been a confirmed serious case of spread of toxin effect away from the injection site when BOTOX has been used at the recommended dose to treat chronic migraine, severe underarm sweating, blepharospasm, or strabismus, or when BOTOX Cosmetic has been used at the recommended dose to treat frown lines.
+There has not been a confirmed serious case of spread of toxin effect away from the injection site when BOTOX has been used at the recommended dose to treat chronic migraine, severe underarm sweating, blepharospasm, or strabismus, or when BOTOX Cosmetic has been used at the recommended dose to treat frown lines and/or crow's feet lines.
 
 What are BOTOX and BOTOX Cosmetic?
 
@@ -71,7 +71,11 @@ BOTOX is a prescription medicine that is injected into muscles and used:
 
 BOTOX is also injected into the skin to treat the symptoms of severe underarm sweating (severe primary axillary hyperhidrosis) when medicines used on the skin (topical) do not work well enough.
 
-BOTOX Cosmetic is a prescription medicine that is injected into muscles and used to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults younger than 65 years of age for a short period of time (temporary).
+BOTOX Cosmetic is a prescription medicine that is injected into muscles and used to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults for a short period of time (temporary).
+
+BOTOX Cosmetic is a prescription medicine that is injected into the area around the side of the eyes to improve the look of crow's feet lines in adults for a short period of time (temporary).
+
+You may receive treatment for frown lines and crow's feet lines at the same time.
 
 It is not known whether BOTOX is safe or effective in people younger than:
 
@@ -173,7 +177,7 @@ Other side effects of BOTOX and BOTOX Cosmetic include:
 - urinary tract infection in people being treated for urinary incontinence
 - painful urination in people being treated for urinary incontinence
 - inability to empty your bladder on your own and are being treated for urinary incontinence.
-  If you have difficulty fully emptying your bladder after getting BOTOX, you may need to use disposable self-catheters to empty your bladder up to a few times each day until your bladder is able to start empyting again.
+  If you have difficulty fully emptying your bladder after getting BOTOX, you may need to use disposable self-catheters to empty your bladder up to a few times each day until your bladder is able to start emptying again.
 - allergic reactions.
   Symptoms of an allergic reaction to BOTOX or BOTOX Cosmetic may include: itching, rash, red itchy welts, wheezing, asthma symptoms, or dizziness or feeling faint.
   Tell your doctor or get medical help right away if you are wheezing or have asthma symptoms, or if you become dizzy or faint.
@@ -193,7 +197,6 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 This Medication Guide summarizes the most important information about BOTOX and BOTOX Cosmetic.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about BOTOX and BOTOX Cosmetic that is written for healthcare professionals.
-For more information about BOTOX and BOTOX Cosmetic call Allergan at 1-800-433-8871 or go to www.BOTOX.com.
 
 What are the ingredients in BOTOX and BOTOX Cosmetic?
 
@@ -205,7 +208,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612
 
-Revised: 01/2013
+Revised: 09/2013
 
 © 2013 Allergan, Inc. ® marks owned by Allergan, Inc. Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
@@ -213,4 +216,4 @@ Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 Patented.
 See: www.allergan.com/products/patent_notices
 
-72309US13 72312US13 72511US10
+72309US14 72312US14 72511US11

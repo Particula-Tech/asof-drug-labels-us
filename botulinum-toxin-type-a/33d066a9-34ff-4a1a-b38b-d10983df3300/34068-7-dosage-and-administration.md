@@ -112,7 +112,7 @@ The bladder should be instilled with enough saline to achieve adequate visualiza
 The injection needle should be filled (primed) with approximately 1 mL of reconstituted BOTOX prior to the start of injections (depending on the needle length) to remove any air.
 
 The needle should be inserted approximately 2 mm into the detrusor, and 30 injections of 1 mL (~6.7 Units) each (total volume of 30 mL) should be spaced approximately 1 cm apart (see Figure 1).
-For the final injection, approximately 1 mL of sterile normal saline should be injected so that the remaining BOTOX in the needle is is delivered to the bladder.
+For the final injection, approximately 1 mL of sterile normal saline should be injected so that the remaining BOTOX in the needle is delivered to the bladder.
 After the injections are given, the saline used for bladder wall visualization should be drained.
 The patient should be observed for at least 30 minutes post-injection.
 

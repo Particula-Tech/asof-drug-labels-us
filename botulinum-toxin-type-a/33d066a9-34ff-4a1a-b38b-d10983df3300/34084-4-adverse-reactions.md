@@ -31,7 +31,7 @@ Table 10: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More
 | Adverse Reactions | BOTOX 100 Units (N=552) | Placebo (N=542) |
 | --- | --- | --- |
 | Urinary tract infection Dysuria Urinary retention Bacteriuria Residual urine volume* | 99 (18%) 50 (9%) 31 (6%) 24 (4%) 17 (3%) | 30 (6%) 36 (7%) 2 (0%) 11 (2%) 1 (0%) |
-| *Elevated PVR not requiring catheterization. Catheterization was required for PVR ≥350 mL regardless of symptoms, and for PVR ≥200 mL to <350 mL with symptoms (e.g. voiding difficulty). |  |  |
+| *Elevated PVR not requiring catheterization. Catheterization was required for PVR ≥350 mL regardless of symptoms, and for PVR ≥200 mL to <350 mL with symptoms (e.g., voiding difficulty). |  |  |
 
 A higher incidence of urinary tract infection was observed in patients with diabetes mellitus treated with BOTOX 100 Units and placebo than in patients without diabetes, as shown in Table 11.
 
@@ -39,7 +39,7 @@ Table 11: Proportion of Patients Experiencing Urinary Tract Infection following 
 
 |  | Patients with Diabetes |  | Patients without Diabetes |  |
 | --- | --- | --- | --- | --- |
-| Botox 100 Units (N=81) | Placebo (N=69) | Botox 100 Units (N=526) | Placebo (N=516) |  |
+| BOTOX 100 Units (N=81) | Placebo (N=69) | BOTOX 100 Units (N=526) | Placebo (N=516) |  |
 | Urinary tract infection (UTI) | 25 (31%) | 8 (12%) | 135 (26%) | 51 (10%) |
 
 The incidence of UTI increased in patients who experienced a maximum post-void residual (PVR) urine volume ≥200 mL following BOTOX injection compared to those with a maximum PVR <200 mL following BOTOX injection, 44% versus 23%, respectively.
@@ -170,7 +170,7 @@ The potential for antibody formation may be minimized by injecting with the lowe
 
 The following adverse reactions have been identified during post-approval use of BOTOX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions include: abdominal pain; alopecia, including madarosis; anorexia; aspiration pneumonia; brachial plexopathy; denervation/muscle atrophy; diarrhea; dry mouth; dysarthria; dyspnea; facial palsy; facial paresis; hyperhidrosis; hypoacusis; hypoaesthesia; localized numbness; malaise; muscle weakness; myalgia; myasthenia gravis; nausea; paresthesia; peripheral neuropathy; pruritis; pyrexia; radiculopathy; respiratory depression and/or respiratory failure; skin rash (including erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption); strabismus; syncope; tinnitus; vertigo; vision blurred; visual disturbances; and vomiting.
+These reactions include: abdominal pain; alopecia, including madarosis; anorexia; aspiration pneumonia; brachial plexopathy; denervation/muscle atrophy; diarrhea; dry mouth; dysarthria; dyspnea; facial palsy; facial paresis; hyperhidrosis; hypoacusis; hypoaesthesia; localized numbness; malaise; muscle weakness; myalgia; myasthenia gravis; nausea; paresthesia; peripheral neuropathy; pruritus; pyrexia; radiculopathy; respiratory depression and/or respiratory failure; skin rash (including erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption); strabismus; syncope; tinnitus; vertigo; vision blurred; visual disturbances; and vomiting.
 
 There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.4, 5.6)].
 

@@ -26,7 +26,7 @@ Table 16: Baseline and Change from Baseline in Urinary Incontinence Episode Freq
 | Volume Voided per Micturitionb (mL) |  |  |  |  |
 | Mean Baseline | 156 | 161 |  |  |
 | Mean Change† at Week 12** | 38 | 8 | 30 (17, 43) | <0.001 |
-| * Least squared (LS) mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and treatment group and investigator as factors. Last observation carried forward (LOCF) values were used to analyze the primary efficacy variable. |  |  |  |  |
+| * Least squares (LS) mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and treatment group and investigator as factors. Last observation carried forward (LOCF) values were used to analyze the primary efficacy variable. |  |  |  |  |
 | † LS mean change, treatment difference and p-value are based on an ANCOVA model with baseline value as covariate and stratification factor, treatment group and investigator as factors. |  |  |  |  |
 | ** Primary timepoint |  |  |  |  |
 | a Primary variable |  |  |  |  |
