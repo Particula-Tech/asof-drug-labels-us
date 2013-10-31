@@ -4,4 +4,4 @@ Asacol® HD (mesalamine) delayed-release tablets are available as red-brown, cap
 
 N 0430-0783-27 Bottle of 180 tablets
 
-Store at controlled room temperature 20° to 25° C (68° to 77° F) [see USP].
+Store at controlled room temperature 20° to 25° C (68° to 77° F); excursions are permitted 15° to 30° C (59° to 86° F). [See USP Controlled Room Temperature]
