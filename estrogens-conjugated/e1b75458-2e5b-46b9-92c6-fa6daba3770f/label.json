@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022247"
+  ],
+  "inn": "estrogens-conjugated",
+  "labeler": "Wyeth Pharmaceuticals Company, a subsidiary of Pfizer Inc.",
+  "package_ndcs": [
+    "0008-1123-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "conjugated estrogens/bazedoxifene",
+      "name": "Duavee"
+    }
+  ],
+  "setid": "e1b75458-2e5b-46b9-92c6-fa6daba3770f",
+  "source": "dailymed"
+}
