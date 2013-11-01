@@ -16,8 +16,7 @@ The safety of doses above 100 mg twice daily has not been systematically evaluat
 
 Maintenance Treatment
 
-While there is no body of evidence available to answer the question of how long a patient treated with ziprasidone should remain on it, a maintenance study in patients who had been symptomatically stable and then randomized to continue ziprasidone or switch to placebo demonstrated a delay in time to relapse for patients receiving Geodon.
-[see Clinical Studies (14.1)].
+While there is no body of evidence available to answer the question of how long a patient treated with ziprasidone should remain on it, a maintenance study in patients who had been symptomatically stable and then randomized to continue ziprasidone or switch to placebo demonstrated a delay in time to relapse for patients receiving Geodon [see Clinical Studies (14.1)].
 No additional benefit was demonstrated for doses above 20 mg twice daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
@@ -32,8 +31,7 @@ In the flexible-dose clinical trials, the mean daily dose administered was appro
 Maintenance Treatment (as an adjunct to lithium or valproate)
 
 Continue treatment at the same dose on which the patient was initially stabilized, within the range of 40 mg–80 mg twice daily with food.
-Patients should be periodically reassessed to determine the need for maintenance treatment.
-[see Clinical Studies (14.2)]
+Patients should be periodically reassessed to determine the need for maintenance treatment [see Clinical Studies (14.2)].
 
 ## 2.3 Acute Treatment of Agitation in Schizophrenia
 

@@ -171,7 +171,3 @@ You can also visit www.geodon.com.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
-
-LAB-0272-5.0
-
-October 2012

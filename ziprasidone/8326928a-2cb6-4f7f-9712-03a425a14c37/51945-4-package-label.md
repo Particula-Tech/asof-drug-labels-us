@@ -175,3 +175,155 @@ Sterile For Intramuscular Use Only
 Pfizer Injectables
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label
+
+NDC 0049-0052-60
+
+Pfizer
+
+Geodon® (ziprasidone HCl) capsules
+
+20 mg*
+
+60 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Capsule Blister Pack
+
+Geodon® (ziprasidone HCl) capsule
+
+20 mg
+
+ROERIG Div of Pfizer Inc, NY, NY 10017
+
+EXP AND LOT AREA
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Capsule Blister Pack Carton
+
+UNIT DOSE
+
+NDC 0049-0052-80
+
+Pfizer
+
+Geodon® (ziprasidone HCl) capsules
+
+20 mg*
+
+For in-institution use only
+
+80 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 40 mg Capsule Bottle Label
+
+NDC 0049-0054-60
+
+Pfizer
+
+Geodon® (ziprasidone HCl) capsules
+
+40 mg*
+
+60 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 40 mg Capsule Blister Pack
+
+Geodon® (ziprasidone HCl) capsule
+
+40 mg
+
+ROERIG Div of Pfizer Inc, NY, NY 10017
+
+EXP AND LOT AREA
+
+# PRINCIPAL DISPLAY PANEL - 40 mg Capsule Blister Pack Carton
+
+UNIT DOSE
+
+NDC 0049-0054-80
+
+Pfizer
+
+Geodon® (ziprasidone HCl) capsules
+
+40 mg*
+
+For in-institution use only
+
+80 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 60 mg Capsule Bottle Label
+
+NDC 0049-0056-60
+
+Pfizer
+
+Geodon® (ziprasidone HCl) capsules
+
+60 mg*
+
+60 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 60 mg Capsule Blister Pack
+
+Geodon® (ziprasidone HCl) capsule
+
+60 mg
+
+ROERIG Div of Pfizer Inc, NY, NY 10017
+
+EXP AND LOT AREA
+
+# PRINCIPAL DISPLAY PANEL - 60 mg Capsule Blister Pack Carton
+
+UNIT DOSE
+
+NDC 0049-0056-80
+
+Pfizer
+
+Geodon® (ziprasidone HCl) capsules
+
+60 mg*
+
+For in-institution use only
+
+80 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 80 mg Capsule Bottle Label
+
+NDC 0049-0058-60
+
+Pfizer
+
+Geodon® (ziprasidone HCl) capsules
+
+80 mg*
+
+60 Capsules Rx only
+
+# PRINCIPAL DISPLAY PANEL - 80 mg Capsule Blister Pack
+
+Geodon® (ziprasidone HCl) capsule
+
+80 mg
+
+ROERIG Div of Pfizer Inc, NY, NY 10017
+
+EXP AND LOT AREA
+
+# PRINCIPAL DISPLAY PANEL - 80 mg Capsule Blister Pack Carton
+
+UNIT DOSE
+
+NDC 0049-0058-80
+
+Pfizer
+
+Geodon® (ziprasidone HCl) capsules
+
+80 mg*
+
+For in-institution use only
+
+80 Capsules Rx only
