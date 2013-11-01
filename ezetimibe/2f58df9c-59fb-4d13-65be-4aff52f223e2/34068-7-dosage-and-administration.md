@@ -35,6 +35,9 @@ Patients taking Bile Acid Sequestrants
 The recommended dosage for patients with homozygous familial hypercholesterolemia is VYTORIN 10/40 mg/day in the evening [see Dosage and Administration, Restricted Dosing for 10/80 mg (2.2)].
 VYTORIN should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
 
+Simvastatin exposure is approximately doubled with concomitant use of lomitapide; therefore, the dose of VYTORIN should be reduced by 50% if initiating lomitapide.
+VYTORIN dosage should not exceed 10/20 mg/day (or 10/40 mg/day for patients who have previously taken simvastatin 80 mg/day chronically, e.g., for 12 months or more, without evidence of muscle toxicity) while taking lomitapide.
+
 ## 2.5 Patients with Hepatic Impairment
 
 No dosage adjustment is necessary in patients with mild hepatic impairment [see Warnings and Precautions (5.3)].

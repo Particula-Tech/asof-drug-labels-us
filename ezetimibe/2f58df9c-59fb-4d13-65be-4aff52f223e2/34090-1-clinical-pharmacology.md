@@ -218,7 +218,7 @@ Table 6: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | TelithromycinResults could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. | 200 mg QD for 4 days | 80 mg | simvastatin acidSimvastatin acid refers to the β-hydroxyacid of simvastatin. simvastatin | 12 8.9 | 15 5.3 |
 | Nelfinavir | 1250 mg BID for 14 days | 20 mg QD for 28 days | simvastatin acid simvastatin | 6 | 6.2 |
 | Itraconazole | 200 mg QD for 4 days | 80 mg | simvastatin acid simvastatin |  | 13.113.1 |
-| Posaconazole | 100 mg (oral suspension) QD for 13 days 200 mg (oral suspension) QD for 13 days | 40 mg 40 mg | simvastatin acid simvastatin simvastatin acid simvastatin | 7.3 10.3 8.5 10.6 | 9.2 9.4 9.5 11.4 |
+| Posaconazole | 100 mg (oral suspension) QD for 13 days 200 mg (oral suspension) QD for 13 days | 40 mg 40 mg | simvastatin acid simvastatin simvastatin acidsimvastatin | 7.3 10.3 8.5 10.6 | 9.2 9.4 9.5 11.4 |
 | Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.851.35 | 2.180.91 |
 | Avoid grapefruit juice with VYTORIN [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Grapefruit JuiceThe effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied. (high dose) | 200 mL of double-strength TIDDouble-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3. | 60 mg single dose | simvastatin acid simvastatin | 7 16 |  |
@@ -232,6 +232,11 @@ Table 6: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | Amiodarone | 400 mg QD for 3 days | 40 mg on Day 3 | simvastatin acid simvastatin | 1.75 1.76 | 1.72 1.79 |
 | Amlodipine | 10 mg QD for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 1.58 1.77 | 1.56 1.47 |
 | Ranolazine SR | 1000 mg BID for 7 days | 80 mg on Day 1 and Days 6-9 | simvastatin acid simvastatin | 2.26 1.86 | 2.28 1.75 |
+| Avoid taking with >10/20 mg VYTORIN (or 10/40 mg for patients who have previously taken 80 mg simvastatin chronically, e.g., for 12 months or more, without evidence of muscle toxicity), based on clinical experience |  |  |  |  |  |
+| Lomitapide | 60 mg QD for 7 days | 40 mg single dose | simvastatin acid | 1.7 | 1.6 |
+|  |  |  | simvastatin | 2 | 2 |
+| Lomitapide | 10 mg QD for 7 days | 20 mg single dose | simvastatin acid | 1.4 | 1.4 |
+|  |  |  | simvastatin | 1.6 | 1.7 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Fenofibrate | 160 mg QD for 14 days | 80 mg QD on Days 8-14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
 | Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng∙eq/mL ↓ from 7.0 to 4.7 ng∙eq/mL |

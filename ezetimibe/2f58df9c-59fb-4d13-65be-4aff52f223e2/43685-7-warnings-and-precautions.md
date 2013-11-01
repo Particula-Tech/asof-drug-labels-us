@@ -57,11 +57,11 @@ If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy wi
 
 The combined use of VYTORIN with gemfibrozil, cyclosporine, or danazol is contraindicated [see Contraindications (4) and Drug Interactions (7.1 and 7.2)].
 
-Caution should be used when prescribing other fibrates with VYTORIN, as these agents can cause myopathy when given alone and the risk is increased when they are co-administered [see Drug Interactions (7.2, 7.7)].
+Caution should be used when prescribing other fibrates with VYTORIN, as these agents can cause myopathy when given alone and the risk is increased when they are coadministered [see Drug Interactions (7.2, 7.7)].
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing VYTORIN with colchicine [see Drug Interactions (7.9)].
 
-The benefits of the combined use of VYTORIN with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 6 in Clinical Pharmacology (12.3)].
+The benefits of the combined use of VYTORIN with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates, ≥1 g/day of niacin, or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 6 in Clinical Pharmacology (12.3)] [also see Dosage and Administration, Patients with Homozygous Familial Hypercholesterolemia (2.4)].
 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
 In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg or ezetimibe/simvastatin 10/40 mg coadministered with lipid-modifying doses of a niacin-containing product.
@@ -69,7 +69,7 @@ Caution should be used when treating Chinese patients with VYTORIN in doses exce
 Because the risk for myopathy is dose-related, Chinese patients should not receive VYTORIN 10/80 mg coadministered with lipid-modifying doses of niacin-containing products.
 It is unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients [see Drug Interactions (7.4)].
 
-Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
@@ -78,6 +78,7 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 | Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Gemfibrozil Cyclosporine Danazol | Contraindicated with VYTORIN |
 | Verapamil Diltiazem Dronedarone | Do not exceed 10/10 mg VYTORIN daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 10/20 mg VYTORIN daily |
+| Lomitapide | For patients with HoFH, do not exceed 10/20 mg VYTORIN dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 10/40 mg VYTORIN when taking lomitapide. |
 | Grapefruit juice | Avoid grapefruit juice |
 
 ## 5.2 Liver Enzymes

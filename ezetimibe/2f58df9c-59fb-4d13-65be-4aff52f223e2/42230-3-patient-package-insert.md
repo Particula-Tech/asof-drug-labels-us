@@ -84,6 +84,7 @@ It is especially important to tell your doctor if you take:
 - verapamil, diltiazem, amlodipine, or ranolazine (drugs used to treat high blood pressure, chest pain associated with heart disease, or other heart conditions)
 - grapefruit juice (which should be avoided while taking VYTORIN)
 - colchicine (a medicine used to treat gout)
+- lomitapide (a medicine used to treat a serious and rare genetic cholesterol condition)
 - large doses of niacin or nicotinic acid
 
 Tell your doctor if you are taking niacin or a niacin-containing product, as this may increase your risk of muscle problems, especially if you are Chinese.
