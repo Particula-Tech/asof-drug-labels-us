@@ -10,7 +10,7 @@ Antipyretic activity is mediated through hypothalamic heat regulating centers.
 Acetaminophen inhibits prostaglandin synthetase.
 Therapeutic doses of acetaminophen have negligible effects on the cardiovascular or respiratory systems; however, toxic doses may cause circulatory failure and rapid, shallow breathing.
 
-## Pharmacokinetics
+PHARMACOKINETICS
 
 The behavior of the individual components is described below.
 
