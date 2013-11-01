@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021695"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "LUPIN PHARMA",
+  "package_ndcs": [
+    "27437-107-06",
+    "27437-108-01",
+    "27437-108-06",
+    "27437-108-09"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fenofibrate",
+      "name": "Antara"
+    }
+  ],
+  "setid": "12ebf783-64df-4ffa-9e84-f8fdf4d245d4",
+  "source": "dailymed"
+}
