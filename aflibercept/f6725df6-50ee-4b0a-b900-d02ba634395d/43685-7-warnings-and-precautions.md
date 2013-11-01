@@ -68,8 +68,8 @@ Grade 3–4 proteinuria occurred in 8% of patients treated with ZALTRAP/FOLFIRI 
 Nephrotic syndrome occurred in 2 patients (0.5%) treated with ZALTRAP/FOLFIRI compared to none of the patients treated with placebo/FOLFIRI.
 TMA was reported in 3 of 2258 patients with cancer enrolled across completed studies.
 
-Monitor proteinuria by urine dipstick analysis and urinary protein creatinine ratio (UPCR) for the development or worsening of proteinuria during ZALTRAP therapy.
-Obtain a 24-hour urine collection in patients with a UPCR greater than 1.
+Monitor proteinuria by urine dipstick analysis and/or urinary protein creatinine ratio (UPCR) for the development or worsening of proteinuria during ZALTRAP therapy.
+Patients with a dipstick of ≥2+ for protein or a UPCR greater than 1 should undergo a 24-hour urine collection.
 
 Suspend ZALTRAP administration for proteinuria 2 grams per 24 hours or more, and resume when proteinuria is less than 2 grams per 24 hours.
 If recurrent, suspend until proteinuria is less than 2 grams per 24 hours and then permanently reduce the ZALTRAP dose to 2 mg per kg.
