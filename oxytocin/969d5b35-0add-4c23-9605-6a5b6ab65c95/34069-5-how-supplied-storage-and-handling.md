@@ -11,5 +11,4 @@ NDC 42023-116-02 Packages of twenty-five 10 mL multiple-dose vial, each containi
 ## STORAGE
 
 Store between 20° to 25°C (68° to 77°F).
-Excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature]
+(See USP Controlled Room Temperature.)
