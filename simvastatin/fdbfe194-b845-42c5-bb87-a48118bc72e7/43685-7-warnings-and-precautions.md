@@ -53,7 +53,7 @@ Caution should be used when prescribing other fibrates with simvastatin, as thes
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing simvastatin with colchicine [see Drug Interactions (7.7)].
 
-The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)].
+The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates, ≥1 g/day of niacin, or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)] [also see Dosage and Administration, Patients with Homozygous Familial Hypercholesterolemia (2.4)].
 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
 In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses of a niacin-containing product.
@@ -61,15 +61,16 @@ Caution should be used when treating Chinese patients with simvastatin in doses 
 Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
 It is unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients [see Drug Interactions (7.4)].
 
-Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 TABLE 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir NefazodoneGemfibrozilCyclosporineDanazol | Contraindicated with simvastatin |
-| Verapamil DiltiazemDronedarone | Do not exceed 10 mg simvastatin daily |
-| AmiodaroneAmlodipineRanolazine | Do not exceed 20 mg simvastatin daily |
+| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Gemfibrozil Cyclosporine Danazol | Contraindicated with simvastatin |
+| Verapamil Diltiazem Dronedarone | Do not exceed 10 mg simvastatin daily |
+| Amiodarone Amlodipine Ranolazine | Do not exceed 20 mg simvastatin daily |
+| Lomitapide | For patients with HoFH, do not exceed 20 mg simvastatin dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 40 mg simvastatin when taking lomitapide. |
 | Grapefruit juice | Avoid grapefruit juice |
 
 ## 5.2 Liver Dysfunction

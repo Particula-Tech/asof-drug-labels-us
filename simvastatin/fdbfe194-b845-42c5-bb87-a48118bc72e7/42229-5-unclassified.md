@@ -2,6 +2,6 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 
 By: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
 
-Revised: 10/2012
+For patent information: www.merck.com/product/patent/home.html
 
-USPI-T-07331210R060
+uspi-mk0733-t-1310r062

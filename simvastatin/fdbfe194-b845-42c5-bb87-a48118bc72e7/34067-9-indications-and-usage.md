@@ -19,7 +19,7 @@ ZOCOR is indicated to:
 - Reduce elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), and triglycerides (TG), and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary hyperlipidemia (Fredrickson type IIa, heterozygous familial and nonfamilial) or mixed dyslipidemia (Fredrickson type IIb).
 - Reduce elevated TG in patients with hypertriglyceridemia (Fredrickson type lV hyperlipidemia).
 - Reduce elevated TG and VLDL-C in patients with primary dysbetalipoproteinemia (Fredrickson type III hyperlipidemia).
-- Reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable.
+- Reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable.
 
 ## 1.3 Adolescent Patients with Heterozygous Familial Hypercholesterolemia (HeFH)
 
