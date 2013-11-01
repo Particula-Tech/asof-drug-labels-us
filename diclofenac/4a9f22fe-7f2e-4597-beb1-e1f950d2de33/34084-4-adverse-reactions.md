@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Studies Experience
 
@@ -9,7 +9,7 @@ The population mean age was approximately 60 years, 89% of patients were Caucasi
 The most common adverse events with PENNSAID were application site skin reactions.
 These events were the most common reason for withdrawing from the studies.
 
-Application site reactions:
+Application Site Reactions
 
 In controlled trials, the most common treatment-related adverse events in patients receiving PENNSAID were application site skin reactions.
 Application site reactions were characterized by one or more of the following: dryness, erythema, induration, vesicles, paresthesia, pruritus, vasodilation, acne, and urticaria.
@@ -17,7 +17,7 @@ The most frequent of these reactions were dry skin (32%), contact dermatitis cha
 In one controlled trial, a higher rate of contact dermatitis with vesicles (4%) was observed after treatment of 152 subjects with the combination of PENNSAID and oral diclofenac.
 In the open label uncontrolled long-term safety study, contact dermatitis occurred in 13% and contact dermatitis with vesicles in 10% of patients, generally within the first 6 months of exposure, leading to a withdrawal rate for an application site event of 14%.
 
-Adverse events common to the NSAID class:
+Adverse Events Common to the NSAID Class
 
 In controlled trials, subjects treated with PENNSAID experienced some adverse events associated with the NSAID class more frequently than subjects using placebo (constipation, diarrhea, dyspepsia, nausea, flatulence, abdominal pain, edema; see Table 1).
 The combination of PENNSAID and oral diclofenac, compared to oral diclofenac alone, resulted in a higher rate of rectal hemorrhage (3% vs. less than 1%), and more frequent abnormal creatinine (12% vs. 7%), urea (20% vs. 12%), and hemoglobin (13% vs. 9%), but no difference in elevation of liver transaminases.

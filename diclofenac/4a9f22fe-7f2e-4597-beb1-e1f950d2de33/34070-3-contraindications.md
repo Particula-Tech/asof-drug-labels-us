@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 PENNSAID is contraindicated in patients with a known hypersensitivity to diclofenac sodium or any other component of PENNSAID.
 

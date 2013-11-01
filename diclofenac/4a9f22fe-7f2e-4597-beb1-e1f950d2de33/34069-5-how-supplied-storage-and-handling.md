@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 PENNSAID is supplied as a clear, colorless to faintly pink-orange solution containing 16.05 mg of diclofenac sodium per mL of solution, in a white high density polyethylene bottle with a white low-density dropper cap.
 

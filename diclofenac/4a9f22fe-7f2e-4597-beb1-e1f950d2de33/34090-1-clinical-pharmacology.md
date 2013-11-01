@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -48,6 +48,6 @@ Race: Pharmacokinetic differences due to race have not been studied.
 
 ## 12.4 Platelets
 
-The effect of PENNSAID on platelet function was evaluated in 10 healthy human volunteers as a sub-study of a multiple-dose pharmacokinetic study [see Pharmacokinetics (12.3)].
+The effect of PENNSAID on platelet function was evaluated in 10 healthy human volunteers as a sub-study of a multiple-dose pharmacokinetic study [see Clinical Pharmacology (12.3)].
 Average (range) platelet aggregation time following stimulation with adenosine diphosphate, collagen, epinephrine and arachidonic acid was 101.3% (73.3 to 128.1), 99.8% (69.6 to 112.9), 109.9% (66.2 to 178.1) and 99.0% (15.5 to 126.6) of baseline value, respectively.
-These results indicate that there was no effect on platelet aggregation after application of the maximum clinical dose for 7 days [see Pharmacokinetics (12.3)].
+These results indicate that there was no effect on platelet aggregation after application of the maximum clinical dose for 7 days [see Clinical Pharmacology (12.3)].

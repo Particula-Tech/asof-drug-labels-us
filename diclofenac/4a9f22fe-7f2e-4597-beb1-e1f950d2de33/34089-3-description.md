@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 PENNSAID is a clear, colorless to faintly pink-orange solution for topical application.
 

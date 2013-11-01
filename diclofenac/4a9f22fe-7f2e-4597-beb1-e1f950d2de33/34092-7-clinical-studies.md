@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Pivotal Studies in Osteoarthritis of the Knee
 

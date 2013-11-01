@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 General Instructions
 
@@ -24,3 +24,4 @@ Application of PENNSAID in an amount exceeding or less than the recommended dose
 - Avoid wearing clothing over the PENNSAID-treated knee(s) until the treated knee is dry.
 - Protect the treated knee(s) from sunlight.
 - Wait until the treated area is dry before applying sunscreen, insect repellant, lotion, moisturizer, cosmetics, or other topical medication to the same knee you have just treated with PENNSAID.
+- Until the treated knee(s) is completely dry, avoid skin-to-skin contact between other people and the treated knee(s).

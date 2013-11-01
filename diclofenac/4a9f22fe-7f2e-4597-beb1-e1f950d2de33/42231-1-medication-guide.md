@@ -1,12 +1,9 @@
-# 17.10 Medication Guide
-
-Medication Guide For Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
-
-(See the end of this Medication Guide for a list of prescription NSAID medicines.)
+Medication Guide For Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
 What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
 NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
+
 This chance increases:
 
 - with longer use of NSAID medicines
@@ -62,7 +59,7 @@ Tell your healthcare provider:
 
 What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-| Serious side effects include: heart attackstrokehigh blood pressureheart failure from body swelling (fluid retention)kidney problems including kidney failurebleeding and ulcers in the stomach and intestinelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsliver problems including liver failureasthma attacks in people who have asthma | Other side effects include: stomach painconstipationdiarrheagasheartburnnauseavomitingdizziness |
+| Serious side effects include: heart attack stroke high blood pressure heart failure from body swelling (fluid retention) kidney problems including kidney failure bleeding and ulcers in the stomach and intestine low red blood cells (anemia) life-threatening skin reactions life-threatening allergic reactions liver problems including liver failure asthma attacks in people who have asthma | Other side effects include: stomach pain constipation diarrhea gas heartburn nausea vomiting dizziness |
 | --- | --- |
 
 Get emergency help right away if you have any of the following symptoms:
@@ -108,21 +105,100 @@ NSAID medicines that need a prescription
 | Celecoxib | Celebrex® |
 | Diclofenac | Flector, Cataflam®, Voltaren®, Arthrotec™ (combined with misoprostol), PENNSAID® |
 | Diflunisal | Dolobid® |
-| Etodolac | Lodine®, Lodine®XL |
-| Fenoprofen | Nalfon®, Nalfon®200 |
+| Etodolac | Lodine®, Lodine® XL |
+| Fenoprofen | Nalfon®, Nalfon® 200 |
 | Flurbirofen | Ansaid® |
-| Ibuprofen | Motrin®, Tab- Profen®, Vicoprofen®* (combined with hydrocodone), Combunox™ (combined with oxycodone) |
-| Indomethacin | Indocin®, Indocin®SR, Indo-Lemmon™, Indomethagan™ |
+| Ibuprofen | Motrin®, Tab-Profen®, Vicoprofen®* (combined with hydrocodone), Combunox™ (combined with oxycodone) |
+| Indomethacin | Indocin®, Indocin® SR, Indo-Lemmon™, Indomethagan™ |
 | Ketoprofen | Oruvail® |
 | Ketorolac | Toradol® |
 | Mefenamic Acid | Ponstel® |
 | Meloxicam | Mobic® |
 | Nabumetone | Relafen® |
-| Naproxen | Naprosyn®, Anaprox®, Anaprox®DS, EC-Naproxyn®, Naprelan®, Naprapac® (copackaged with lansoprazole) |
+| Naproxen | Naprosyn®, Anaprox®, Anaprox® DS, EC-Naproxyn®, Naprelan®, Naprapac® (copackaged with lansoprazole) |
 | Oxaprozin | Daypro® |
 | Piroxicam | Feldene® |
 | Sulindac | Clinoril® |
-| Tolmetin | Tolectin®, Tolectin DS®, Tolectin®600 |
-| *Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAID, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
+| Tolmetin | Tolectin®, Tolectin DS®, Tolectin® 600 |
+
+*Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAID, and is usually used for less than 10 days to treat pain.
+The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Instructions for Use PENNSAID® (pen/sed) (diclofenac sodium topical solution)
+
+Read the Medication Guide that comes with PENNSAID® first.
+Be sure that you read, understand and follow these Instructions for Use before you use PENNSAID® for the first time.
+
+Important: For use on the skin only (topical).
+Do not get PENNSAID® in your eyes, nose or mouth.
+
+Before you use PENNSAID®:
+
+- Apply PENNSAID® exactly as your healthcare provider tells you.
+  Talk with your healthcare provider or pharmacist if you are not sure.
+- Only use PENNSAID® to treat pain from osteoarthritis in your knee or knees.
+- Apply PENNSAID® on clean, dry skin that does not have any cuts, infections or rashes.
+- Use PENNSAID® 4 times each day on your knee or knees as prescribed.
+- Your total dose for each knee is 40 drops of PENNSAID®, each time you use it.
+- If you get PENNSAID® in your eyes, rinse your eyes right away with water or saline.
+  Call your healthcare provider if your eyes are irritated for more than one hour.
+
+Steps for using PENNSAID®:
+
+Step 1.
+Wash your hands with soap and water before applying PENNSAID®.
+
+Step 2.
+Put 10 drops of PENNSAID® either on your hand or directly on your knee (see Figure A).
+
+Figure A
+
+or
+
+Step 3.
+Spread PENNSAID® evenly on the front, back and sides of your knee (see Figures B and C). Repeat steps 2 and 3, three times so that your knee is completely covered with a total of 40 drops of PENNSAID®.
+
+Figure B
+
+Figure C
+
+Step 4.
+If your healthcare provider has prescribed PENNSAID® for both knees, repeat steps 2 and 3 for the other knee.
+
+After you use PENNSAID®:
+
+- Wash your hands with soap and water right away after applying PENNSAID®.
+
+Do not:
+
+- touch the treated knee or allow another person to touch the knee treated with PENNSAID® until your knee is completely dry.
+- cover your knee with clothing until your knee is completely dry.
+- put sunscreen, insect repellant, lotion, moisturizer, cosmetics, or other topical medicines on your knee until it is completely dry.
+- take a shower or a bath for at least 30 minutes after you put PENNSAID® on your knee.
+- use heating pads or cover the treated area with bandages where you have applied PENNSAID®.
+- use sunlamps and tanning beds.
+  Protect your treated knee from sunlight.
+  Wear clothes that cover your skin if you have to be in sunlight.
+
+How should I store PENNSAID®?
+
+- Store PENNSAID® at room temperature between 68°F to 77°F (20°C to 25°C).
+
+Keep PENNSAID® and all medicines out of the reach of children.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
+
+Manufactured by: Nuvo Manufacturing Varennes, Quebec, J3X 1P7 Canada
+
+Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
+PENNSAID is a trademark of Nuvo Research Inc. Other brands are trademarks of their respective owners. © 2013 Mallinckrodt.
+
+Issued October 2013
+
+Mallinckrodt™
+
+Pharmaceuticals

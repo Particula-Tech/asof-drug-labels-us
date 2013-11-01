@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 Drug interactions with the use of PENNSAID have not been studied.
 The following drug interactions [sections 7.1 to 7.7] are noted for oral diclofenac sodium.

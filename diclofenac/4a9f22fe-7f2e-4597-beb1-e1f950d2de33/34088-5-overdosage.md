@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 There have been no known experiences of overdose with PENNSAID.
 

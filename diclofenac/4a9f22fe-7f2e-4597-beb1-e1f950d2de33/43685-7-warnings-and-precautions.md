@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Cardiovascular Thrombotic Events
 
@@ -52,7 +52,7 @@ Postmarketing surveillance has reported cases of severe hepatic reactions, inclu
 Some of these reported cases resulted in fatalities or liver transplantation.
 
 In a European retrospective population-based, case-controlled study, 10 cases of oral diclofenac associated drug-induced liver injury with current use compared with non-use of diclofenac were associated with a statistically significant 4-fold adjusted odds ratio of liver injury.
-In this particular study, based on an overall number of 10 cases of liver injury associated with diclofenac, the adjusted odds ratio increased further with female gender, doses of 150 mg or more, and duration of use for more then 90 days.
+In this particular study, based on an overall number of 10 cases of liver injury associated with diclofenac, the adjusted odds ratio increased further with female gender, doses of 150 mg or more, and duration of use for more than 90 days.
 
 Measure transaminases (ALT and AST) periodically in patients receiving long-term therapy with diclofenac, because severe hepatotoxicity may develop without a prodrome of distinguishing symptoms.
 The optimum times for making the first and subsequent transaminase measurements are not known.
@@ -60,7 +60,7 @@ Based on clinical trial data and postmarketing experiences, monitor transaminase
 However, severe hepatic reactions can occur at any time during treatment with diclofenac.
 If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, abdominal pain, diarrhea, dark urine, etc.), discontinue PENNSAID immediately.
 
-To minimize the possibility that hepatic injury will become severe between transaminase measurements, inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flulike" symptoms), and the appropriate action to take if these signs and symptoms appear.
+To minimize the possibility that hepatic injury will become severe between transaminase measurements, inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms), and the appropriate action to take if these signs and symptoms appear.
 
 To minimize the potential risk for an adverse liver-related event in patients treated with PENNSAID, use the lowest effective dose for the shortest duration possible.
 Exercise caution when prescribing PENNSAID with concomitant drugs that are known to be potentially hepatotoxic (e.g., acetaminophen, certain antibiotics, antiepileptics).

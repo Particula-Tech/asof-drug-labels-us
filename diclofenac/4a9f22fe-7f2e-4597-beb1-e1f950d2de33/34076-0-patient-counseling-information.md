@@ -1,11 +1,11 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide (17.10) for specific patient instructions.
+See FDA-Approved patient labeling (Medication Guide and Instructions for Use).
 
 ## 17.1 Patient/Caregiver Instructions
 
 Inform patients of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
-Encourage patients to read the NSAID Medication Guide that accompanies each prescription dispensed prior to using PENNSAID [see Medication Guide (17.10) and Patient Instructions for Use (17.11)].
+Encourage patients to read the NSAID Medication Guide that accompanies each prescription dispensed prior to using PENNSAID [see Medication Guide and Instructions for Use].
 
 ## 17.2 Cardiovascular Effects
 
@@ -27,7 +27,7 @@ If these occur, instruct patients to stop therapy with PENNSAID and seek immedia
 ## 17.5 Adverse Skin Reactions
 
 PENNSAID, like other NSAIDs, can cause serious systemic skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-Although serious systemic skin reactions may occur without warning, instruct patients to be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and to ask for medical advice when observing any indicative signs or symptoms [see Warnings and Precautions (5.8)].
+Although serious systemic skin reactions may occur without warning, instruct patients to be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and to ask for medical advice when observing any indicative signs or symptoms [see Warnings and Precautions(5.8)].
 
 Advise patients to stop PENNSAID immediately if they develop any type of generalized rash and contact their physicians as soon as possible.
 
@@ -51,9 +51,28 @@ If these occur, instruct patients to seek immediate emergency help [see Warnings
 
 ## 17.8 Effects During Pregnancy
 
-Instruct patients who are pregnant or intending to become pregnant not to use PENNSAID [see Use in Specific Populations (8.1) and Impairment of Fertility (13.1)].
+Instruct patients who are pregnant or intending to become pregnant not to use PENNSAID [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
 ## 17.9 Eye Exposure
 
 Instruct patients to avoid contact of PENNSAID with the eyes and mucosa.
 Advise patients that if eye contact occurs, immediately wash out the eye with water or saline and consult a physician if irritation persists for more than an hour.
+
+## 17.10 Prevention of Secondary Exposure
+
+Instruct patients to avoid skin-to-skin contact between other people and the knee(s) to which PENNSAID was applied until the knee(s) is completely dry.
+
+Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
+
+Manufactured by: Nuvo Manufacturing Varennes, Quebec, J3X 1P7 Canada
+
+Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
+PENNSAID is a trademark of Nuvo Research Inc. © 2013 Mallinckrodt.
+
+E0073-02
+
+Issued 10/2013
+
+Mallinckrodt™
+
+Pharmaceuticals
