@@ -25,7 +25,7 @@ Coadministration of STRIBILD with other drugs that inhibit CYP3A may decrease th
 ## 7.4 Drugs Affecting Renal Function
 
 Because emtricitabine and tenofovir, components of STRIBILD are primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion, coadministration of STRIBILD with drugs that reduce renal function or compete for active tubular secretion may increase concentrations of emtricitabine, tenofovir, and other renally eliminated drugs and this may increase the risk of adverse reactions.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to acyclovir, cidofovir, ganciclovir, valacyclovir, and valganciclovir.
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g. gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.3)].
 
 ## 7.5 Established and Other Potentially Significant Interactions
 

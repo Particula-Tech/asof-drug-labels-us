@@ -31,7 +31,7 @@ Patients should be advised that:
   Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued EMTRIVA or VIREAD [see Warnings and Precautions (5.2)].
   STRIBILD should not be discontinued without first informing their healthcare provider.
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of STRIBILD.
-  STRIBILD should be avoided with concurrent or recent use of a nephrotoxic agent [see Warnings and Precautions (5.3)].
+  STRIBILD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high dose or multiple NSAIDs) [see Warnings and Precautions (5.3)].
 - STRIBILD should not be coadministered with other antiretroviral products because it provides a complete treatment regimen and because of potential drug interactions [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 - STRIBILD should not be administered in combination with ATRIPLA, COMPLERA, EMTRIVA, TRUVADA, or VIREAD; with drugs containing lamivudine, including COMBIVIR, EPIVIR or EPIVIR-HBV, EPZICOM, or TRIZIVIR; with drugs containing RTV or regimens containing RTV; or with HEPSERA [see Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of STRIBILD.

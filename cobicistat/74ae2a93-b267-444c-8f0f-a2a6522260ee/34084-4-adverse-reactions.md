@@ -5,7 +5,7 @@ The following adverse drug reactions are discussed in other sections of the labe
 - Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
 - Severe Acute Exacerbations of Hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
 - New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.3)].
-- Decreases in Bone Mineral Density [see Warnings and Precautions (5.5)].
+- Bone Effects of Tenofovir DF [see Warnings and Precautions (5.5)].
 - Immune Reconstitution Syndrome [see Warnings and Precautions (5.7)].
 
 ## 6.1 Adverse Reactions from Clinical Trials Experience
@@ -66,6 +66,11 @@ Table 3 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects R
 | Creatine Kinase (≥ 10.0 × ULN) | 7% | 14% | 10% |
 | Urine RBC (Hematuria) (> 75 RBC/HPF) | 3% | 2% | 4% |
 
+In Study 103, BMD was assessed by DEXA in a non-random subset of 120 subjects.
+Mean percentage decreases in BMD from baseline to Week 96 in the STRIBILD group (N = 47) were comparable to the ATV + RTV + TRUVADA group (N = 53) at the lumbar spine (-2.0% versus -3.5%, respectively) and at the hip (-3.2% versus -4.2%, respectively).
+In Studies 102 and 103, bone fractures occurred in 14 subjects (2.0%) in the STRIBILD group, 8 subjects (2.3%) in the ATRIPLA group, and 14 subjects (3.9%) in the ATV + RTV + TRUVADA group.
+These findings were consistent with data from an earlier 144-week trial of treatment-naïve subjects receiving tenofovir DF + lamivudine + efavirenz.
+
 Proteinuria (all grades) occurred in 46% of subjects receiving STRIBILD, 38% of subjects receiving ATRIPLA, and 37% of subjects receiving ATV + RTV + TRUVADA.
 
 The cobicistat component of STRIBILD has been shown to increase serum creatinine and decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting renal glomerular function.
@@ -79,11 +84,6 @@ Table 4 Change from Baseline in Serum Creatinine and eGFR and Incidence of Eleva
 | Serum Creatinine (mg/dL)Mean change ±SD | 0.13 (±0.13) | 0.01 (±0.13) | 0.08 (±0.14) |
 | eGFR by Cockcroft-Gault (mL/min) | -13.2 (±15.7) | -0.9 (±16.1) | -8.6 (±17.8) |
 | Subjects with Elevations in Serum Creatinine (All Grades)(%) | 10 | 1 | 5 |
-
-In Study 103, BMD was assessed by DEXA in a non-random subset of 120 subjects.
-Mean percentage decreases in BMD from baseline to Week 96 in the STRIBILD group (N = 47) were comparable to the ATV + RTV + TRUVADA group (N = 53) at the lumbar spine (-2.0% versus -3.5%, respectively) and at the hip (-3.2% versus -4.2%, respectively).
-In Studies 102 and 103, bone fractures occurred in 14 subjects (2.0%) in the STRIBILD group, 8 subjects (2.3%) in the ATRIPLA group, and 14 subjects (3.9%) in the ATV + RTV + TRUVADA group.
-These findings were consistent with data from an earlier 144-week trial of treatment-naïve subjects receiving tenofovir DF + lamivudine + efavirenz.
 
 Emtricitabine or Tenofovir DF: In addition to the laboratory abnormalities observed with STRIBILD, the following laboratory abnormalities have been previously reported in subjects treated with emtricitabine or tenofovir DF with other antiretroviral agents in other clinical trials: Grade 3 or 4 laboratory abnormalities of ALT (M: greater than 215 U per L; F: greater than 170 U per L), alkaline phosphatase (greater than 550 U per L), bilirubin (greater than 2.5 × ULN), serum glucose (less than 40 or greater than 250 mg per dL), glycosuria (greater than or equal to 3+), neutrophils (less than 750 per mm3), fasting cholesterol (greater than 240 mg per dL), and fasting triglycerides (greater than 750 mg per dL).
 

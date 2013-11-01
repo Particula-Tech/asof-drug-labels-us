@@ -31,7 +31,12 @@ Renal replacement therapy was not required for these subjects.
 Estimated creatinine clearance, urine glucose and urine protein should be documented in all patients prior to initiating therapy.
 Initiation of STRIBILD in patients with estimated creatinine clearance below 70 mL per minute is not recommended.
 
-STRIBILD should be avoided with concurrent or recent use of a nephrotoxic agent.
+STRIBILD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [see Drug Interactions (7.4)].
+Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
+Some patients required hospitalization and renal replacement therapy.
+Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
+
+Persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in at-risk patients.
 
 Routine monitoring of estimated creatinine clearance, urine glucose, and urine protein should be performed during STRIBILD therapy in all patients.
 Additionally, serum phosphorus should be measured in patients at risk for renal impairment.
@@ -50,18 +55,24 @@ STRIBILD is not recommended for coadministration with the following:
 - products containing lamivudine (COMBIVIR, EPIVIR, EPIVIR-HBV, EPZICOM, TRIZIVIR) or adefovir dipivoxil (HEPSERA);
 - ritonavir (NORVIR, KALETRA).
 
-## 5.5 Decreases in Bone Mineral Density
+## 5.5 Bone Effects of Tenofovir DF
 
-In previous clinical trials, tenofovir DF(a component of STRIBILD) has been associated with decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C telopeptide, and urinary N telopeptide), suggesting increased bone turnover.
-Serum parathyroid hormone levels and 1.25 Vitamin D levels were also higher in subjects receiving VIREAD.
-The effects of tenofovir DF-associated changes in BMD on future fracture risk are unknown.
+Bone Mineral Density:
+
+In clinical trials in HIV-1 infected adults, tenofovir DF (a component of STRIBILD) was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
+Serum parathyroid hormone levels and 1.25 Vitamin D levels were also higher in subjects receiving tenofovir DF.
 For additional information, see Adverse Reactions (6.1) and consult the VIREAD prescribing information.
 
-Cases of osteomalacia (associated with proximal renal tubulopathy and which may contribute to fractures) have been reported in association with the use of tenofovir DF [see Adverse Reactions (6.2)].
-
+The effects of tenofovir DF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 Assessment of BMD should be considered for HIV-1 infected patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial in all patients.
 If bone abnormalities are suspected, then appropriate consultation should be obtained.
+
+Mineralization Defects:
+
+Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of tenofovir DF [see Adverse Reactions (6.2)].
+Arthralgias and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
+Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [see Warnings and Precautions (5.3)].
 
 ## 5.6 Fat Redistribution
 
