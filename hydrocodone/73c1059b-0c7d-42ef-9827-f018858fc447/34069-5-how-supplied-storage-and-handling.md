@@ -32,6 +32,6 @@ Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
 Printed in U.S.A.
 
-Rev 08/2013
+Rev 10/2013
 
 Mallinckrodt™ Pharmaceuticals
