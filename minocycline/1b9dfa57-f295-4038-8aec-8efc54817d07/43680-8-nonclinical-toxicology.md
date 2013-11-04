@@ -2,8 +2,8 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis—Long-term animal studies have not been performed to evaluate the carcinogenic potential of minocycline.
-A structurally related compound, oxytetracycline, was found to produce adrenal and pituitary tumors in rats.
+Carcinogenesis—In a carcinogenicity study in which minocycline HCl was orally administered to male and female rats once daily for up to 104 weeks at dosages up to 200 mg/kg/day, minocycline HCl was associated in both genders with follicular cell tumors of the thyroid gland, including increased incidences of adenomas, carcinomas and the combined incidence of adenomas and carcinomas in males, and adenomas and the combined incidence of adenomas and carcinomas in females.
+In a carcinogenicity study in which minocycline HCl was orally administered to male and female mice once daily for up to 104 weeks at dosages up to 150 mg/kg/day, exposure to minocycline HCl did not result in a significantly increased incidence of neoplasms in either males or females.
 
 Mutagenesis—Minocycline was not mutagenic in vitro in a bacterial reverse mutation assay (Ames test) or CHO/HGPRT mammalian cell assay in the presence or absence of metabolic activation.
 Minocycline was not clastogenic in vitro using human peripheral blood lymphocytes or in vivo in a mouse micronucleus test.

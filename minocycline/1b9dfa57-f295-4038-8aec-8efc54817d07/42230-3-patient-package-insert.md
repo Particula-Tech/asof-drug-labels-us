@@ -152,7 +152,7 @@ Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-You may also report side effects to Medicis at 1-800-900-6389.
+You may also report side effects to Medicis at 1-800-321-4576.
 
 How should I store SOLODYN?
 
@@ -173,7 +173,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk to your doctor.
 You can ask your doctor or pharmacist for information about SOLODYN that is written for health professionals.
 
-For more information, call 1-800-550-5115.
+For more information, call 1-800-321-4576.
 
 What are the ingredients in SOLODYN?
 

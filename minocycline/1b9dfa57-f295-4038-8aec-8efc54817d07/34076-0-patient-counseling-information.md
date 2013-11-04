@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-approved patient labeling (Patient Information)]
+See FDA-approved patient labeling (Patient Information)
 
 Patients taking SOLODYN (minocycline HCl, USP) Extended Release Tablets should receive the following information and instructions:
 
