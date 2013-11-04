@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204410"
+  ],
+  "inn": "macitentan",
+  "labeler": "Actelion Pharmaceuticals US, Inc.",
+  "package_ndcs": [
+    "66215-501-15",
+    "66215-501-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "macitentan",
+      "name": "OPSUMIT"
+    }
+  ],
+  "setid": "1e484a50-55db-4b85-8c57-6cd1b0353abd",
+  "source": "dailymed"
+}
