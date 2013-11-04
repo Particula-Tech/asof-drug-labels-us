@@ -18,27 +18,21 @@ In patients weighing greater than 60 kg, the didanosine dose should be reduced t
 Data are not available to recommend a dose adjustment of didanosine for adult or pediatric patients weighing less than 60 kg.
 When coadministered, TRUVADA and Videx EC may be taken under fasted conditions or with a light meal (less than 400 kcal, 20% fat).
 
-## 7.2 Atazanavir
-
-Atazanavir has been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
-The mechanism of this interaction is unknown.
-Patients receiving atazanavir and TRUVADA should be monitored for TRUVADA-associated adverse reactions.
-TRUVADA should be discontinued in patients who develop TRUVADA-associated adverse reactions.
+## 7.2 HIV-1 Protease Inhibitors
 
 Tenofovir decreases the AUC and Cmin of atazanavir [See Clinical Pharmacology (12.3)].
 When coadministered with TRUVADA, it is recommended that atazanavir 300 mg is given with ritonavir 100 mg.
-Atazanavir without ritonavir should not be coadministered with TRUVADA.
+TRUVADA should not be coadministered with atazanavir without ritonavir.
 
-## 7.3 Lopinavir/Ritonavir
+Lopinavir/ritonavir, atazanavir coadministered with ritonavir, and darunavir coadministered with ritonavir have been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
+Tenofovir disoproxil fumarate is a substrate of P-glycoprotein (Pgp) and breast cancer resistance protein (BCRP) transporters.
+When tenofovir disoproxil fumarate is co-administered with an inhibitor of these transporters, an increase in absorption may be observed.
+Patients receiving TRUVADA concomitantly with lopinavir/ritonavir, ritonavir-boosted atazanavir, or ritonavir-boosted darunavir should be monitored for tenofovir-associated adverse reactions.
+TRUVADA should be discontinued in patients who develop tenofovir-associated adverse reactions.
 
-Lopinavir/ritonavir has been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
-The mechanism of this interaction is unknown.
-Patients receiving lopinavir/ritonavir and TRUVADA should be monitored for TRUVADA-associated adverse reactions.
-TRUVADA should be discontinued in patients who develop TRUVADA-associated adverse reactions.
-
-## 7.4 Drugs Affecting Renal Function
+## 7.3 Drugs Affecting Renal Function
 
 Emtricitabine and tenofovir are primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion [See Clinical Pharmacology (12.3)].
 No drug-drug interactions due to competition for renal excretion have been observed; however, coadministration of TRUVADA with drugs that are eliminated by active tubular secretion may increase concentrations of emtricitabine, tenofovir, and/or the coadministered drug.
-Some examples include, but are not limited to acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, and valganciclovir.
+Some examples include, but are not limited to acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [See Warnings and Precautions (5.3)].
 Drugs that decrease renal function may increase concentrations of emtricitabine and/or tenofovir.

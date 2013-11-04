@@ -156,9 +156,10 @@ Do not take TRUVADA if you also take:
 
 Especially tell your healthcare provider if you take:
 
-- didanosine (VIDEX EC)
-- atazanavir (REYATAZ)
-- lopinavir with ritonavir (KALETRA)
+- didanosine (Videx EC)
+- atazanavir (Reyataz)
+- darunavir (Prezista)
+- lopinavir with ritonavir (Kaletra)
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.

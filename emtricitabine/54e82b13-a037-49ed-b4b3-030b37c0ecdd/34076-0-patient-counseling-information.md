@@ -19,10 +19,10 @@ Advise patients and uninfected individuals that:
   Before initiating TRUVADA, test all patients and uninfected individuals for HBV.
   All patients who are infected with HBV need close medical follow-up for several months after stopping TRUVADA to monitor for exacerbations of hepatitis [See Warnings and Precautions (5.2)].
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of VIREAD.
-  TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent [See Warnings and Precautions (5.3)].
+  TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [See Warnings and Precautions (5.3)].
   Dosing interval of TRUVADA may need adjustment in HIV-1 infected patients with renal impairment.
-  TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals if creatinine clearance is less than 60 mL/min.
-  If a decrease in creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
+  TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals if estimated creatinine clearance is less than 60 mL/min.
+  If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
 - Do not administer TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, STRIBILD, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.4)].
 - Do not administer TRUVADA with HEPSERA [See Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of VIREAD or TRUVADA.

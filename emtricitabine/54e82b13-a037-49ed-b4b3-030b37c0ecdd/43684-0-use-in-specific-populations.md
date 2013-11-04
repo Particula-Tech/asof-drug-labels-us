@@ -65,11 +65,11 @@ In general, dose selection for the elderly patients should be cautious, keeping 
 
 Treatment of HIV-1 Infection
 
-The dosing interval for TRUVADA should be modified in HIV-infected adult patients with creatinine clearance of 30–49 mL/min.
-TRUVADA should not be used in patients with creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis.
+The dosing interval for TRUVADA should be modified in HIV-infected adult patients with estimated creatinine clearance of 30–49 mL/min.
+TRUVADA should not be used in patients with estimated creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis.
 [See Dosage and Administration (2.3)].
 
 Pre-exposure Prophylaxis
 
-TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals with creatinine clearance below 60 mL/min.
-If a decrease in creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
+TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min.
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].

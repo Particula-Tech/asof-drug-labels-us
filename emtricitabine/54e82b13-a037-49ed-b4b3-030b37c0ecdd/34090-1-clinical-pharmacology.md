@@ -76,12 +76,12 @@ Patients with Impaired Renal Function
 
 The pharmacokinetics of emtricitabine and tenofovir are altered in subjects with renal impairment [See Warnings and Precautions (5.3)].
 In adult subjects with creatinine clearance below 50 mL/min, Cmax, and AUC0–∞ of emtricitabine and tenofovir were increased.
-It is recommended that the dosing interval for TRUVADA be modified in HIV-infected adult patients with creatinine clearance 30–49 mL/min.
+It is recommended that the dosing interval for TRUVADA be modified in HIV-infected adult patients with estimated creatinine clearance 30–49 mL/min.
 No data are available to make dose recommendations in pediatric patients with renal impairment.
-TRUVADA should not be used in patients with creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis [See Dosage and Administration (2.3)].
+TRUVADA should not be used in patients with estimated creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis [See Dosage and Administration (2.3)].
 
-TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals with creatinine clearance below 60 mL/min.
-If a decrease in creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
+TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min.
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
 
 Patients with Hepatic Impairment
 
@@ -127,6 +127,8 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSu
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ⇔; NC = Not Calculated (90% CI) |  |  |
 | Abacavir | 300 once | 8 | ⇔ | ⇔ | NC |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
+| Atazanavir/ Ritonavir | 300/100 once daily | 12 | ↑ 34 (↑ 20 to ↑ 51) | ↑ 37 (↑ 30 to ↑ 45) | ↑ 29 (↑ 21 to ↑ 36) |
+| Darunavir/ RitonavirPrezista Prescribing Information | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
 | DidanosineSubjects received didanosine buffered tablets. | 250 or 400 once daily × 7 days | 14 | ⇔ | ⇔ | ⇔ |
 | Emtricitabine | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ⇔ |
 | Entecavir | 1 mg once daily × 10 days | 28 |  |  |  |
@@ -135,6 +137,8 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSu
 | Lopinavir/ Ritonavir | 400/100 twice daily × 14 days | 24 | ⇔ | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
 | Saquinavir/ Ritonavir | 1000/100 twice daily × 14 days | 35 | ⇔ | ⇔ | ↑ 23 (↑ 16 to ↑ 30) |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) | ⇔ | ⇔ |
+| Tipranavir/ RitonavirAptivus Prescribing Information | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
+| 750/200 twice daily (23 doses) | 20 | ↓ 38 (↓ 46 to ↓ 29) | ↑ 2 (↓ 6 to ↑ 10) | ↑ 14 (↑ 1 to ↑ 27) |  |
 
 Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir
 
@@ -144,6 +148,7 @@ Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) | ⇔ | NA |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
 | Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3 and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
+| DarunavirPrezista Prescribing Information. | Darunavir/Ritonavir 300/100 mg once daily | 12 | ↑ 16 (↓ 6 to ↑ 42) | ↑ 21 (↓ 5 to ↑ 54) | ↑ 24 (↓ 10 to ↑ 69) |
 | DidanosineVidex EC Prescribing Information. Subjects received didanosine enteric-coated capsules. | 250 once, simultaneously with tenofovir DF and a light meal373 kcal, 8.2 g fat | 33 | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. (↓ 32 to ↓ 7) | ⇔ | NA |
 | Emtricitabine | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ↑ 20 (↑ 12 to ↑ 29) |
 | Indinavir | 800 three times daily × 7 days | 12 | ↓ 11 (↓ 30 to ↑ 12) | ⇔ | ⇔ |
@@ -153,6 +158,8 @@ Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | 32 | ↑ 22 (↑ 6 to ↑41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered. (↑ 12 to ↑ 48) | ↑ 47 (↑ 23 to ↑ 76) |
 | Ritonavir | ⇔ | ⇔ | ↑ 23 (↑ 3 to ↑ 46) |  |  |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ⇔ | ⇔ | ⇔ |
+| TipranavirAptivus Prescribing Information. | Tipranavir/Ritonavir 500/100 twice daily | 22 | ↓ 17 (↓ 26 to ↓ 6) | ↓ 18 (↓ 25 to ↓ 9) | ↓ 21 (↓ 30 to ↓ 10) |
+| Tipranavir/Ritonavir 750/200 twice daily (23 doses) | 20 | ↓ 11 (↓ 16 to ↓ 4) | ↓ 9 (↓ 15 to ↓ 3) | ↓ 12 (↓ 22 to 0) |  |
 
 Coadministration of tenofovir disoproxil fumarate with didanosine results in changes in the pharmacokinetics of didanosine that may be of clinical significance.
 Concomitant dosing of tenofovir disoproxil fumarate with didanosine enteric-coated capsules significantly increases the Cmax and AUC of didanosine.

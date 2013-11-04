@@ -27,11 +27,11 @@ Table 1 Dosage Adjustment for HIV-1 Infected Adult Patients with Altered Creatin
 |  | Creatinine Clearance (mL/min)Calculated using ideal (lean) body weight |  |  |
 | Recommended Dosing Interval | Every 24 hours | Every 48 hours | TRUVADA should not be administered. |
 
-Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in all individuals with mild renal impairment [See Warnings and Precautions (5.3)].
+Routine monitoring of estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein should be performed in all individuals with mild renal impairment [See Warnings and Precautions (5.3)].
 
 Pre-exposure Prophylaxis
 
-Do not use TRUVADA for a PrEP indication in HIV-1 uninfected individuals with creatinine clearance below 60 mL/min [See Warnings and Precautions (5.3)].
+Do not use TRUVADA for a PrEP indication in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min [See Warnings and Precautions (5.3)].
 
-Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in all individuals with mild renal impairment.
-If a decrease in creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Warnings and Precautions (5.3)].
+Routine monitoring of estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein should be performed in all individuals with mild renal impairment.
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Warnings and Precautions (5.3)].

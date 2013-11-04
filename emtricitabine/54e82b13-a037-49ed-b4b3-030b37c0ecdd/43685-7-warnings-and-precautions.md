@@ -21,24 +21,28 @@ HBV -uninfected individuals should be offered vaccination.
 ## 5.3 New Onset or Worsening Renal Impairment
 
 Emtricitabine and tenofovir are principally eliminated by the kidney.
-Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of VIREAD [See Adverse Reactions (6.2)].
+Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of VIREAD [See Adverse Reactions (6.3)].
 
-It is recommended that creatinine clearance be calculated in all individuals prior to initiating therapy and as clinically appropriate during therapy with TRUVADA.
+It is recommended that estimated creatinine clearance be assessed in all individuals prior to initiating therapy and as clinically appropriate during therapy with TRUVADA.
+In patients at risk of renal dysfunction, including patients who have previously experienced renal events while receiving HEPSERA®, it is recommended that estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein be assessed prior to initiation of TRUVADA, and periodically during TRUVADA therapy.
 
-Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in all individuals at risk for renal impairment, including individuals who have previously experienced renal events while receiving HEPSERA®.
+TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.3)].
+Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
+Some patients required hospitalization and renal replacement therapy.
+Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
 
-TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent.
+Persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in at-risk patients.
 
 Treatment of HIV-1 Infection
 
-Dosing interval adjustment of TRUVADA and close monitoring of renal function are recommended in all patients with creatinine clearance 30–49 mL/min, [See Dosage and Administration (2.3)].
+Dosing interval adjustment of TRUVADA and close monitoring of renal function are recommended in all patients with estimated creatinine clearance 30–49 mL/min, [See Dosage and Administration (2.3)].
 No safety or efficacy data are available in patients with renal impairment who received TRUVADA using these dosing guidelines, so the potential benefit of TRUVADA therapy should be assessed against the potential risk of renal toxicity.
-TRUVADA should not be administered to patients with creatinine clearance below 30 mL/min or patients requiring hemodialysis.
+TRUVADA should not be administered to patients with estimated creatinine clearance below 30 mL/min or patients requiring hemodialysis.
 
 Pre-exposure Prophylaxis
 
-TRUVADA for a PrEP indication should not be used if creatinine clearance is less than 60 mL/min.
-If a decrease in creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
+TRUVADA for a PrEP indication should not be used if estimated creatinine clearance is less than 60 mL/min.
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
 
 ## 5.4 Coadministration with Other Products
 
@@ -48,41 +52,31 @@ Due to similarities between emtricitabine and lamivudine, do not coadminister TR
 
 Do not coadminister TRUVADA with HEPSERA (adefovir dipivoxil).
 
-## 5.5 Decreases in Bone Mineral Density
+## 5.5 Bone Effects of Tenofovir DF
 
-Assessment of bone mineral density (BMD) should be considered for adults and in pediatric patients 12 years of age and older who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
+Bone Mineral Density:
+
+In clinical trials in HIV-1 infected adults and in a clinical trial of HIV-1 uninfected individuals, tenofovir DF was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators [See Adverse Reactions (6.2) and VIREAD prescribing information].
+Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir DF.
+
+Clinical trials evaluating tenofovir DF in pediatric and adolescent subjects were conducted.
+Under normal circumstances, BMD increases rapidly in pediatric patients.
+In HIV-1 infected subjects aged 2 years to less than 18 years, bone effects were similar to those observed in adult subjects and suggest increased bone turnover.
+Total body BMD gain was less in the tenofovir DF treated HIV-1 infected pediatric subjects as compared to the control groups.
+Similar trends were observed in chronic hepatitis B infected adolescent subjects aged 12 years to less than 18 years.
+In all pediatric trials, skeletal growth (height) appeared to be unaffected.
+For more information, please consult the VIREAD prescribing information.
+
+The effects of tenofovir DF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
+Assessment of BMD should be considered for adult and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
-Tenofovir Disoproxil Fumarate: In a 144-week trial of treatment-naive HIV-1 infected adult subjects, decreases in BMD were seen at the lumbar spine and hip in both arms of the trial.
-At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving VIREAD + lamivudine + efavirenz compared with subjects receiving stavudine + lamivudine + efavirenz.
-Changes in BMD at the hip were similar between the two treatment groups.
-In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the trial and this reduction was sustained through 144 weeks.
-Twenty-eight percent of VIREAD-treated subjects vs. 21% of the comparator subjects lost at least 5% of BMD at the spine or 7% of BMD at the hip.
-Clinically relevant fractures (excluding fingers and toes) were reported in 4 subjects in the VIREAD group and 6 subjects in the comparator group.
-Tenofovir disoproxil fumarate was associated with significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C-telopeptide, and urinary N-telopeptide), suggesting increased bone turnover.
-Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving VIREAD.
+Mineralization Defects:
 
-In a clinical trial of HIV-1 infected pediatric subjects 12 years of age and older (Study 321), bone effects were similar to adult subjects.
-Under normal circumstances, BMD increases rapidly in this age group.
-In this trial, the mean rate of bone gain was less in the VIREAD-treated group compared to the placebo group.
-Six VIREAD treated subjects and one placebo treated subject had significant (greater than 4%) lumbar spine BMD loss in 48 weeks.
-Among 28 subjects receiving 96 weeks of VIREAD, Z-scores declined by -0.341 for lumbar spine and -0.458 for total body.
-Skeletal growth (height) appeared to be unaffected.
-Markers of bone turnover in VIREAD-treated pediatric subjects 12 years of age and older suggest increased bone turnover, consistent with the effects observed in adults.
-
-In clinical trials of HIV-1 uninfected individuals, decreases in BMD were observed.
-In the iPrEx trial, a substudy of 503 subjects found mean changes from baseline in BMD ranging from -0.4% to -1.0% across total hip, spine, femoral neck, and trochanter in the TRUVADA group compared with the placebo group, which returned toward baseline after discontinuation of treatment.
-Thirteen percent of subjects receiving TRUVADA vs. 6% of subjects receiving placebo lost at least 5% of BMD at the spine during treatment.
-Bone fractures were reported in 1.7% of the TRUVADA group compared with 1.4% in the placebo group.
-No correlation between BMD and fractures was noted [See Clinical Studies (14.2)].
-The Partners PrEP trial found similar fracture rates between treatment and placebo groups (0.8% and 0.6%, respectively).
-No BMD evaluations were conducted during this trial [See Clinical Studies (14.3)].
-
-The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
-For additional information, please consult the VIREAD prescribing information.
-
-Cases of osteomalacia (associated with proximal renal tubulopathy and which may contribute to fractures) have been reported in association with the use of VIREAD [See Adverse Reactions (6.2)].
+Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of tenofovir DF [See Adverse Reactions (6.3)].
+Arthralgias and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
+Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [See Warnings and Precautions (5.3)].
 
 ## 5.6 Fat Redistribution
 

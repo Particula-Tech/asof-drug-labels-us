@@ -6,10 +6,10 @@ Manufactured for and distributed by:
 
 Gilead Sciences, Inc. Foster City, CA 94404
 
-21-752-GS-026
+21-752-GS-027
 
 Manufactured for and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
 
-Issued June 2013
+Issued October 2013
 
-21-752-GS-026
+21-752-GS-027

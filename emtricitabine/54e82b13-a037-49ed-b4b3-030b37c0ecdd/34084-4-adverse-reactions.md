@@ -5,7 +5,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Boxed Warning, Warnings and Precautions (5.1)].
 - Severe Acute Exacerbations of hepatitis B [See Boxed Warning, Warnings and Precautions (5.2)].
 - New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.3)].
-- Decreases in Bone Mineral Density [See Warnings and Precautions (5.5)].
+- Bone Effects of Tenofovir DF [See Warnings and Precautions (5.5)].
 - Immune Reconstitution Syndrome [See Warnings and Precautions (5.7)].
 
 ## 6.1 Adverse Reactions from Clinical Trials Experience in HIV-1 Infected Subjects
@@ -142,6 +142,16 @@ Table 5 Laboratory Abnormalities (Highest Toxicity Grade) Reported for Each Subj
 | 2–4 | (<9.4 mg/dL) | 13 (1%) | 19 (2%) | 28 (2%) | 39 (2%) |  |
 | Neutrophils | 1 | (1000–1300/mm3) | 23 (2%) | 25 (2%) | 208 (13%) | 163 (10%) |
 | 2–4 | (<750/mm3) | 7 (<1%) | 7 (<1%) | 73 (5%) | 56 (3%) |  |
+
+Changes in Bone Mineral Density:
+
+In clinical trials of HIV-1 uninfected individuals, decreases in BMD were observed.
+In the iPrEx trial, a substudy of 503 subjects found mean changes from baseline in BMD ranging from -0.4% to -1.0% across total hip, spine, femoral neck, and trochanter in the TRUVADA group compared with the placebo group, which returned toward baseline after discontinuation of treatment.
+Thirteen percent of subjects receiving TRUVADA vs. 6% of subjects receiving placebo lost at least 5% of BMD at the spine during treatment.
+Bone fractures were reported in 1.7% of the TRUVADA group compared with 1.4% in the placebo group.
+No correlation between BMD and fractures was noted [See Clinical Studies (14.2)].
+The Partners PrEP trial found similar fracture rates between treatment and placebo groups (0.8% and 0.6%, respectively).
+No BMD evaluations were conducted during this trial [See Clinical Studies (14.3)].
 
 ## 6.3 Postmarketing Experience
 
