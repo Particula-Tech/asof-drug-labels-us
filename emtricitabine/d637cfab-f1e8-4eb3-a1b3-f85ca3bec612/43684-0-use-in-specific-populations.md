@@ -45,7 +45,7 @@ In general, dose selection for the elderly patients should be cautious, keeping 
 
 ## 8.6 Renal Impairment
 
-Because COMPLERA is a fixed-dose combination, it should not be prescribed for patients requiring dosage adjustment such as those with moderate, severe or end stage renal impairment (creatinine clearance below 50 mL per minute) or that require dialysis [See Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
+Because COMPLERA is a fixed-dose combination, it should not be prescribed for patients requiring dosage adjustment such as those with moderate, severe or end stage renal impairment (estimated creatinine clearance below 50 mL per minute) or that require dialysis [See Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

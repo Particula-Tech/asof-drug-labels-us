@@ -7,7 +7,7 @@ The following adverse drug reactions are discussed in other sections of the labe
 - New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.3)].
 - Depressive Disorders [See Warnings and Precautions (5.5)].
 - Hepatotoxicity [See Warnings and Precautions (5.6)].
-- Decreases in Bone Mineral Density [See Warnings and Precautions (5.7)].
+- Bone Effects of Tenofovir DF [See Warnings and Precautions (5.7)].
 - Immune Reconstitution Syndrome [See Warnings and Precautions (5.10)].
 
 ## 6.1 Adverse Reactions from Clinical Trials Experience

@@ -23,7 +23,7 @@ Coadministration of rilpivirine with drugs that increase gastric pH may decrease
 ## 7.3 Drugs Affecting Renal Function
 
 Because emtricitabine and tenofovir are primarily eliminated by the kidneys through a combination of glomerular filtration and active tubular secretion, coadministration of COMPLERA with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of emtricitabine, tenofovir, and/or other renally eliminated drugs.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, and valganciclovir.
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [See Warnings and Precautions (5.3)].
 
 ## 7.4 QT Prolonging Drugs
 

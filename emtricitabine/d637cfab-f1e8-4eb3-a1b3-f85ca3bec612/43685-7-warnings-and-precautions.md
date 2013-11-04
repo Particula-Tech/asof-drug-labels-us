@@ -21,13 +21,18 @@ If appropriate, initiation of anti-hepatitis B therapy may be warranted.
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir DF [See Adverse Reactions (6.2)].
 
-It is recommended that creatinine clearance be calculated in all patients prior to initiating therapy and as clinically appropriate during therapy with COMPLERA.
-Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in patients at risk for renal impairment, including patients who have previously experienced renal events while receiving HEPSERA®.
+It is recommended that estimated creatinine clearance be assessed in all patients prior to initiating therapy and as clinically appropriate during therapy with COMPLERA.
+In patients at risk of renal dysfunction, including patients who have previously experienced renal events while receiving HEPSERA®, it is recommended that estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein be assessed prior to initiation of COMPLERA, and periodically during COMPLERA therapy.
 
-COMPLERA should be avoided with concurrent or recent use of a nephrotoxic agent.
+COMPLERA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.3)].
+Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
+Some patients required hospitalization and renal replacement therapy.
+Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
+
+Persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in at-risk patients.
 
 Emtricitabine and tenofovir are principally eliminated by the kidney; however, rilpivirine is not.
-Since COMPLERA is a combination product and the dose of the individual components cannot be altered, patients with creatinine clearance below 50 mL per minute should not receive COMPLERA.
+Since COMPLERA is a combination product and the dose of the individual components cannot be altered, patients with estimated creatinine clearance below 50 mL per minute should not receive COMPLERA.
 
 ## 5.4 Drug Interactions
 
@@ -54,25 +59,24 @@ A few cases of hepatic toxicity have been reported in patients receiving a rilpi
 Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with COMPLERA is recommended in patients with underlying hepatic disease such as hepatitis B or C, or in patients with marked elevations in serum liver biochemistries prior to treatment initiation.
 Serum liver biochemistries monitoring should also be considered for patients without pre-existing hepatic dysfunction or other risk factors.
 
-## 5.7 Decreases in Bone Mineral Density
+## 5.7 Bone Effects of Tenofovir DF
 
-Bone mineral density (BMD) monitoring should be considered for HIV-1 infected patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
+Bone Mineral Density:
+
+In clinical trials in HIV-1 infected adults, tenofovir DF was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
+Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir DF.
+For more information, please consult the VIREAD prescribing information.
+
+The effects of tenofovir DF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
+Assessment of BMD should be considered for patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and Vitamin D was not studied, such supplementation may be beneficial for all patients.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
-Tenofovir Disoproxil Fumarate: In a 144 week study of HIV-1 infected treatment-naive adult subjects treated with tenofovir DF (Study 903), decreases in BMD were seen at the lumbar spine and hip in both arms of the study.
-At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving tenofovir DF + lamivudine + efavirenz (-2.2% ± 3.9) compared with subjects receiving stavudine + lamivudine + efavirenz (-1.0% ± 4.6).
-Changes in BMD at the hip were similar between the two treatment groups (-2.8% ± 3.5 in the tenofovir DF group vs. -2.4% ± 4.5 in the stavudine group).
-In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the study and this reduction was sustained through 144 weeks.
-Twenty-eight percent of tenofovir DF-treated subjects vs. 21% of the comparator subjects lost at least 5% of BMD at the spine or 7% of BMD at the hip.
-Clinically relevant fractures (excluding fingers and toes) were reported in 4 subjects in the tenofovir DF group and 6 subjects in the comparator group.
-Tenofovir DF was associated with significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C telopeptide, and urinary N telopeptide), suggesting increased bone turnover.
-Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir DF.
+Mineralization Defects:
 
-The effects of tenofovir DF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
-For additional information, please consult the VIREAD® prescribing information.
-
-Cases of osteomalacia (associated with proximal renal tubulopathy and which may contribute to fractures) have been reported in association with the use of VIREAD [See Adverse Reactions (6.2)].
+Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of tenofovir DF [See Adverse Reactions (6.2)].
+Arthralgias and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
+Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [See Warnings and Precautions (5.3)].
 
 ## 5.8 Coadministration with Other Products
 
