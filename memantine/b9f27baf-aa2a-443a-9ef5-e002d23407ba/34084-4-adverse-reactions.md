@@ -1,18 +1,24 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The experience described in this section derives from studies in patients with Alzheimer's disease and vascular dementia.
+## 6.1 Clinical Trials Experience
 
-Adverse Events Leading to Discontinuation: In placebo-controlled trials in which dementia patients received doses of Namenda up to 20 mg/day, the likelihood of discontinuation because of an adverse event was the same in the Namenda group as in the placebo group.
-No individual adverse event was associated with the discontinuation of treatment in 1% or more of Namenda-treated patients and at a rate greater than placebo.
+NAMENDA was evaluated in eight double-blind placebo-controlled trials involving a total of 1862 dementia (Alzheimer's disease, vascular dementia) patients (940 patients treated with NAMENDA and 922 patients treated with placebo) for a treatment period up to 28 weeks.
 
-Adverse Events Reported in Controlled Trials: The reported adverse events in Namenda (memantine hydrochloride) trials reflect experience gained under closely monitored conditions in a highly selected patient population.
-In actual practice or in other clinical trials, these frequency estimates may not apply, as the conditions of use, reporting behavior and the types of patients treated may differ.
-Table 1 lists treatment-emergent signs and symptoms that were reported in at least 2% of patients in placebo-controlled dementia trials and for which the rate of occurrence was greater for patients treated with Namenda than for those treated with placebo.
-No adverse event occurred at a frequency of at least 5% and twice the placebo rate.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Table 1: Adverse Events Reported in Controlled Clinical Trials in at Least 2% of Patients Receiving Namenda and at a Higher Frequency than Placebo-treated Patients.
+Adverse Events Leading to Discontinuation
 
-| Body System Adverse Event | Placebo (N = 922) % | Namenda (N = 940) % |
+In placebo-controlled trials in which dementia patients received doses of NAMENDA up to 20 mg/day, the likelihood of discontinuation because of an adverse reaction was the same in the NAMENDA group (10.1%) as in the placebo group (11.5%).
+No individual adverse reaction was associated with the discontinuation of treatment in 1% or more of NAMENDA-treated patients and at a rate greater than placebo.
+
+Most Common Adverse Reactions
+
+In double-blind placebo-controlled trials involving dementia patients, the most common adverse reactions (incidence ≥ 5% and higher than placebo) in patients treated with NAMENDA were dizziness, headache, confusion and constipation.
+Table 1 lists all adverse reactions that occurred in at least 2% of patients treated with NAMENDA and at an incidence greater than placebo.
+
+Table 1: Adverse Reactions Reported in Controlled Clinical Trials in at Least 2% of Patients Receiving NAMENDA and at a Higher Frequency than Placebo-treated Patients
+
+| Adverse Reaction | Placebo (N = 922) % | NAMENDA (N = 940) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fatigue | 1 | 2 |
@@ -35,64 +41,29 @@ Table 1: Adverse Events Reported in Controlled Clinical Trials in at Least 2% of
 | Coughing | 3 | 4 |
 | Dyspnea | 1 | 2 |
 
-Other adverse events occurring with an incidence of at least 2% in Namenda-treated patients but at a greater or equal rate on placebo were agitation, fall, inflicted injury, urinary incontinence, diarrhea, bronchitis, insomnia, urinary tract infection, influenza-like symptoms, abnormal gait, depression, upper respiratory tract infection, anxiety, peripheral edema, nausea, anorexia, and arthralgia.
+The overall profile of adverse reactions and the incidence rates for individual adverse reactions in the subpopulation of patients with moderate to severe Alzheimer's disease were not different from the profile and incidence rates described above for the overall dementia population.
 
-The overall profile of adverse events and the incidence rates for individual adverse events in the subpopulation of patients with moderate to severe Alzheimer's disease were not different from the profile and incidence rates described above for the overall dementia population.
+Seizures
 
-Vital Sign Changes: Namenda and placebo groups were compared with respect to (1) mean change from baseline in vital signs (pulse, systolic blood pressure, diastolic blood pressure, and weight) and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
-There were no clinically important changes in vital signs in patients treated with Namenda.
-A comparison of supine and standing vital sign measures for Namenda and placebo in elderly normal subjects indicated that Namenda treatment is not associated with orthostatic changes.
+NAMENDA has not been systematically evaluated in patients with a seizure disorder.
+In clinical trials of NAMENDA, seizures occurred in 0.2% of patients treated with NAMENDA and 0.5% of patients treated with placebo.
 
-Laboratory Changes: Namenda and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
-These analyses revealed no clinically important changes in laboratory test parameters associated with Namenda treatment.
+## 6.2 Postmarketing Experience
 
-ECG Changes: Namenda and placebo groups were compared with respect to (1) mean change from baseline in various ECG parameters and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
-These analyses revealed no clinically important changes in ECG parameters associated with Namenda treatment.
+The following adverse reactions have been identified during post-approval use of memantine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These reactions include:
 
-## Other Adverse Events Observed During Clinical Trials
+Blood and Lymphatic System Disorders - agranulocytosis, leukopenia (including neutropenia), pancytopenia, thrombocytopenia, thrombotic thrombocytopenic purpura.
 
-Namenda has been administered to approximately 1350 patients with dementia, of whom more than 1200 received the maximum recommended dose of 20 mg/day.
-Patients received Namenda treatment for periods of up to 884 days, with 862 patients receiving at least 24 weeks of treatment and 387 patients receiving 48 weeks or more of treatment.
+Cardiac Disorders - cardiac failure congestive.
 
-Treatment emergent signs and symptoms that occurred during 8 controlled clinical trials and 4 open-label trials were recorded as adverse events by the clinical investigators using terminology of their own choosing.
-To provide an overall estimate of the proportion of individuals having similar types of events, the events were grouped into a smaller number of standardized categories using WHO terminology, and event frequencies were calculated across all studies.
+Gastrointestinal Disorders - pancreatitis.
 
-All adverse events occurring in at least two patients are included, except for those already listed in Table 1, WHO terms too general to be informative, minor symptoms or events unlikely to be drug-caused, e.g., because they are common in the study population.
-Events are classified by body system and listed using the following definitions: frequent adverse events - those occurring in at least 1/100 patients; infrequent adverse events - those occurring in 1/100 to 1/1000 patients.
-These adverse events are not necessarily related to Namenda treatment and in most cases were observed at a similar frequency in placebo-treated patients in the controlled studies.
+Hepatobiliary Disorders – hepatitis.
 
-Body as a Whole: Frequent: syncope.
-Infrequent: hypothermia, allergic reaction.
+Psychiatric Disorders - suicidal ideation.
 
-Cardiovascular System: Frequent: cardiac failure.
-Infrequent: angina pectoris, bradycardia, myocardial infarction, thrombophlebitis, atrial fibrillation, hypotension, cardiac arrest, postural hypotension, pulmonary embolism, pulmonary edema.
+Renal and Urinary Disorders - acute renal failure (including increased creatinine and renal insufficiency).
 
-Central and Peripheral Nervous System: Frequent: transient ischemic attack, cerebrovascular accident, vertigo, ataxia, hypokinesia.
-Infrequent: paresthesia, convulsions, extrapyramidal disorder, hypertonia, tremor, aphasia, hypoesthesia, abnormal coordination, hemiplegia, hyperkinesia, involuntary muscle contractions, stupor, cerebral hemorrhage, neuralgia, ptosis, neuropathy.
-
-Gastrointestinal System: Infrequent: gastroenteritis, diverticulitis, gastrointestinal hemorrhage, melena, esophageal ulceration.
-
-Hemic and Lymphatic Disorders: Frequent: anemia.
-Infrequent: leukopenia.
-
-Metabolic and Nutritional Disorders: Frequent: increased alkaline phosphatase, decreased weight.
-Infrequent: dehydration, hyponatremia, aggravated diabetes mellitus.
-
-Psychiatric Disorders: Frequent: aggressive reaction.
-Infrequent: delusion, personality disorder, emotional lability, nervousness, sleep disorder, libido increased, psychosis, amnesia, apathy, paranoid reaction, thinking abnormal, crying abnormal, appetite increased, paroniria, delirium, depersonalization, neurosis, suicide attempt.
-
-Respiratory System: Frequent: pneumonia.
-Infrequent: apnea, asthma, hemoptysis.
-
-Skin and Appendages: Frequent: rash.
-Infrequent: skin ulceration, pruritus, cellulitis, eczema, dermatitis, erythematous rash, alopecia, urticaria.
-
-Special Senses: Frequent: cataract, conjunctivitis.
-Infrequent: macula lutea degeneration, decreased visual acuity, decreased hearing, tinnitus, blepharitis, blurred vision, corneal opacity, glaucoma, conjunctival hemorrhage, eye pain, retinal hemorrhage, xerophthalmia, diplopia, abnormal lacrimation, myopia, retinal detachment.
-
-Urinary System: Frequent: frequent micturition.
-Infrequent: dysuria, hematuria, urinary retention.
-
-Events Reported Subsequent to the Marketing of Namenda, both US and Ex-US
-
-Although no causal relationship to memantine treatment has been found, the following adverse events have been reported to be temporally associated with memantine treatment and are not described elsewhere in labeling: aspiration pneumonia, asthenia, atrioventricular block, bone fracture, carpal tunnel syndrome, cerebral infarction, chest pain, cholelithiasis, claudication, colitis, deep venous thrombosis, depressed level of consciousness (including loss of consciousness and rare reports of coma), dyskinesia, dysphagia, encephalopathy, gastritis, gastroesophageal reflux, grand mal convulsions, intracranial hemorrhage, hepatitis (including increased ALT and AST and hepatic failure), hyperglycemia, hyperlipidemia, hypoglycemia, ileus, increased INR, impotence, lethargy, malaise, myoclonus, neuroleptic malignant syndrome, acute pancreatitis, Parkinsonism, acute renal failure (including increased creatinine and renal insufficiency), prolonged QT interval, restlessness, sepsis, Stevens-Johnson syndrome, suicidal ideation, sudden death, supraventricular tachycardia, tachycardia, tardive dyskinesia, thrombocytopenia, and hallucinations (both visual and auditory).
+Skin Disorders - Stevens Johnson syndrome.

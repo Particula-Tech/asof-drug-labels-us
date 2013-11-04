@@ -1,17 +1,117 @@
-# PATIENT INSTRUCTIONS FOR NAMENDA® Oral Solution
+Patient Information
 
-Follow the directions below to use your Namenda® Oral Solution dosing device.
+NAMENDA (Nuh-MEN-dah)
 
-IMPORTANT: Read these instructions before using Namenda® Oral Solution.
+(memantine hydrochloride)
 
-|  |  | 1. Remove oral dosing syringe along with the green cap and plastic tube from its protective plastic bag. Attach the tube to the green cap if it isn't already attached. |
-| --- | --- | --- |
-|  |  | 2. The bottle comes with a child-resistant cap. Open it by pushing down on the cap while turning the cap counter-clockwise (to the left). Remove the unscrewed cap. Carefully remove the seal from the bottle and discard. |
-|  |  | 3. Insert the plastic tube fully into the bottle and screw the green cap tightly onto the bottle by turning the cap clockwise (to the right). |
-|  |  | 4. The green cap has an attached lid which is to be used for sealing the product in between doses. Keeping the bottle upright on the table, remove the lid to uncover the opening on the top of the cap. With the plunger fully depressed, insert the tip of syringe firmly into the opening in the cap. |
-|  |  | 5. While holding the syringe, gently pull the plunger of the syringe up to draw medicine into the syringe. |
-|  |  | 6. Remove the syringe from the opening of the cap. Invert the syringe (point tip upwards) and slowly press the plunger to a level that pushes out any large air bubbles that may be present. Keep the plunger in this position. Do not worry about a few tiny bubbles. This will not affect your dose in any way. |
-|  |  | 7. Re-insert the tip of the syringe into the opening of the cap. While holding the syringe, continue to gently pull out the plunger until the bottom of the black ring of the plunger reaches the appropriate mark on the syringe that corresponds to the dose prescribed. |
-|  |  | 8. Remove the syringe from the bottle and swallow the Oral Solution directly from the syringe. Do not mix with any other liquid. |
-|  |  | 9. After use, reseal the bottle by snapping the attached lid closed. |
-|  |  | 10. Rinse the empty syringe by inserting the open end of the syringe into a glass of water, pulling the plunger out to draw in water, and pushing the plunger in to remove the water. Repeat several times. Allow the syringe to air dry. |
+Tablets and Oral Solution
+
+Read this Patient Information that comes with NAMENDA before you start taking it and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your doctor about your medical condition or your treatment.
+
+What is NAMENDA?
+
+NAMENDA is a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer's disease.
+NAMENDA belongs to a class of medicines called NMDA (N-methyl-D-aspartate) inhibitors.
+
+It is not known if NAMENDA is safe and effective in children.
+
+Who should not take NAMENDA?
+
+Do not take NAMENDA if you are allergic to memantine or any of the ingredients in NAMENDA.
+See the end of this leaflet for a complete list of ingredients in NAMENDA.
+
+What should I tell my doctor before taking NAMENDA?
+
+Before you take NAMENDA, tell your doctor if you:
+
+- have or have had seizures
+- have or have had problems passing urine
+- have or have had bladder or kidney problems
+- have liver problems
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  It is not known if NAMENDA will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if NAMENDA passes into your breast milk.
+  You and your doctor should decide if you will take NAMENDA or breastfeed.
+
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
+Taking NAMENDA with certain other medicines may affect each other.
+Taking NAMENDA with other medicines can cause serious side effects.
+
+Especially tell your doctor if you take:
+
+- other NMDA antagonists such as amantadine, ketamine, and dextromethorphan
+- medicines that make your urine alkaline such as carbonic anhydrase inhibitors and sodium bicarbonate
+
+Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
+
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
+
+How should I take NAMENDA?
+
+- See the step-by-step instructions for taking NAMENDA Oral Solution at the end of this Patient Information.
+- Your doctor will tell you how much NAMENDA to take and when to take it.
+- Your doctor may change your dose if needed.
+- NAMENDA can be taken with food or without food.
+- Do not use any tablets of NAMENDA that are damaged or show signs of tampering.
+- If you forget to take one dose of NAMENDA, do not double up on the next dose.
+  You should take only the next dose as scheduled.
+- If you have forgotten to take NAMENDA for several days, you should not take the next dose until you talk to your doctor.
+- If you take too much NAMENDA, call your doctor or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
+
+What are the possible side effects of NAMENDA?
+
+NAMENDA may cause side effects, including:
+
+The most common side effects of NAMENDA include:
+
+- dizziness
+- headache
+- confusion
+- constipation
+
+These are not all the possible side effects of NAMENDA.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store NAMENDA?
+
+- Store NAMENDA at room temperature between 59°F to 77°F (15°C to 30°C).
+
+What are the ingredients in NAMENDA?
+
+NAMENDA tablets:
+
+Active ingredients: memantine hydrochloride
+
+Inactive ingredients: microcrystalline cellulose/colloidal silicon dioxide, talc, croscarmellose sodium, and magnesium stearate
+
+Inactive ingredients of tablet film coating: hypromellose, titanium dioxide, polyethylene glycol 400, FD&C yellow #6 and FD&C blue #2 (5 mg tablets), and hypromellose, titanium dioxide, macrogol/polyethylene glycol 400 and iron oxide black (10 mg tablets)
+
+NAMENDA oral solution:
+
+Active ingredients: memantine hydrochloride
+
+Inactive ingredients: sorbitol solution (70%), methyl paraben, propylparaben, propylene glycol, glycerin, natural peppermint flavor #104, citric acid, sodium citrate, and purified water
+
+Keep NAMENDA and all medicines out of the reach of children.
+
+General information about the safe and effective use of NAMENDA.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not take NAMENDA for a condition for which it was not prescribed.
+Do not give NAMENDA to other people, even if they have the same condition.
+It may harm them.
+
+This Patient Information leaflet summarizes the most important information about NAMENDA.
+If you would like more information, talk with your doctor.
+You can ask your doctor or pharmacist for information about NAMENDA that was written for healthcare professionals.
+
+For more information about NAMENDA, go to www.namenda.com, or call Forest Laboratories, Inc. at 1-800-678-1605.

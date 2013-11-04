@@ -1,4 +1,4 @@
-# Principal Display Panel – 5 mg Bottle
+Principal Display Panel – 5 mg Bottle
 
 Rx only NDC 0456-3205-60
 
@@ -14,7 +14,7 @@ Subsidiary of Forest Laboratories, Inc.
 
 St. Louis, Missouri 63045
 
-# Principal Display Panel – 10 mg Bottle
+Principal Display Panel – 10 mg Bottle
 
 Rx only NDC 0456-3210-60
 
@@ -30,7 +30,7 @@ Subsidiary of Forest Laboratories, Inc.
 
 St. Louis, Missouri 63045
 
-# Principal Display Panel – 2 mg Oral Solution
+Principal Display Panel – 2 mg Oral Solution
 
 Rx only NDC 0456-3202-12
 
@@ -40,7 +40,7 @@ Namenda memantine HCl oral solution
 
 12 fl oz (360 mL)
 
-# Principal Display Panel – Titration Pack
+Principal Display Panel – Titration Pack
 
 NDC 0456-3200-14
 

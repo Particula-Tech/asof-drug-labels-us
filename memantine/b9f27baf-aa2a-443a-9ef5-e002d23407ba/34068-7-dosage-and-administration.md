@@ -1,20 +1,24 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The dosage of Namenda (memantine hydrochloride) shown to be effective in controlled clinical trials is 20 mg/day.
-
-The recommended starting dose of Namenda is 5 mg once daily.
-The recommended target dose is 20 mg/day.
-The dose should be increased in 5 mg increments to 10 mg/day (5 mg twice a day), 15 mg/day (5 mg and 10 mg as separate doses), and 20 mg/day (10 mg twice a day).
+The recommended starting dose of NAMENDA is 5 mg once daily.
+The dose should be increased in 5 mg increments to 10 mg/day (5 mg twice daily), 15 mg/day (5 mg and 10 mg as separate doses), and 20 mg/day (10 mg twice daily).
 The minimum recommended interval between dose increases is one week.
+The dosage shown to be effective in controlled clinical trials is 20 mg/day.
 
-Namenda can be taken with or without food.
+NAMENDA can be taken with or without food.
+If a patient misses a single dose of NAMENDA, that patient should not double up on the next dose.
+The next dose should be taken as scheduled.If a patient fails to take NAMENDA for several days, dosing may need to be resumed at lower doses and retitrated as described above.
 
-Patients/caregivers should be instructed on how to use the Namenda Oral Solution dosing device.
-They should be made aware of the patient instruction sheet that is enclosed with the product.
-Patients/caregivers should be instructed to address any questions on the usage of the solution to their physician or pharmacist.
+Do not mix NAMENDA oral solution with any other liquid.
+The oral solution is administered with a dosing device that comes with the drug and consists of a syringe, syringe adaptor cap, tubing and other supplies a patient needs to administer the drug.
+The supplied syringe should be used to withdraw the correct volume of oral solution and the oral solution should be slowly squirted into the corner of the patient's mouth.
 
-## Doses in Special Populations
+Special Populations
 
-A target dose of 5 mg BID is recommended in patients with severe renal impairment (creatinine clearance of 5 – 29 mL/min based on the Cockroft-Gault equation):
+Renal Impairment
 
-For males: CLcr = [140-age (years)] · Weight (kg)/[72 · serum creatinine (mg/dL)] For females: CLcr = 0.85 · [140-age (years)] · Weight (kg)/[72 · serum creatinine (mg/dL)]
+A target dose of 5 mg twice daily is recommended in patients with severe renal impairment (creatinine clearance of 5 – 29 mL/min based on the Cockroft-Gault equation).
+
+Hepatic Impairment
+
+NAMENDA should be administered with caution to patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
