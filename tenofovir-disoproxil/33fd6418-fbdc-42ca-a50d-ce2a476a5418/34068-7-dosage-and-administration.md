@@ -67,7 +67,7 @@ The safety and effectiveness of these dosing interval adjustment recommendations
 There are no data to recommend use of VIREAD tablets 150, 200 or 250 mg or VIREAD oral powder in patients with renal impairment.
 
 No dose adjustment of VIREAD tablets 300 mg is necessary for patients with mild renal impairment (creatinine clearance 50–80 mL/min).
-Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in patients with mild renal impairment [See Warnings and Precautions (5.3)].
+Routine monitoring of estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein should be performed in patients with mild renal impairment [See Warnings and Precautions (5.3)].
 
 Table 3 Dosage Adjustment for Patients with Altered Creatinine Clearance
 

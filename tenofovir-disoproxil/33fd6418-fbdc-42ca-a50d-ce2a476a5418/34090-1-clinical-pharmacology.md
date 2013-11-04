@@ -66,7 +66,7 @@ Geriatric Patients: Pharmacokinetic trials have not been performed in the elderl
 
 Patients with Impaired Renal Function: The pharmacokinetics of tenofovir are altered in subjects with renal impairment [See Warnings and Precautions (5.3)].
 In subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0–∞ of tenofovir were increased (Table 12).
-It is recommended that the dosing interval for VIREAD be modified in patients with creatinine clearance below 50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.3)].
+It is recommended that the dosing interval for VIREAD be modified in patients with estimated creatinine clearance below 50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.3)].
 
 Table 12 Pharmacokinetic Parameters (Mean ± SD) of Tenofovir300 mg, single dose of VIREAD in Subjects with Varying Degrees of Renal Function
 
@@ -106,6 +106,8 @@ Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirS
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect =; NC = Not Calculated (90% CI) |  |  |
 | Abacavir | 300 once | 8 |  |  | NC |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
+| Atazanavir/ Ritonavir | 300/100 once daily | 12 | ↑ 34 (↑ 20 to ↑ 51) | ↑ 37 (↑ 30 to ↑ 45) | ↑ 29 (↑ 21 to ↑ 36) |
+| Darunavir/ RitonavirPrezista Prescribing Information | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
 | DidanosineSubjects received didanosine buffered tablets. | 250 or 400 once daily × 7 days | 14 |  |  |  |
 | Emtricitabine | 200 once daily × 7 days | 17 |  |  |  |
 | Entecavir | 1 mg once daily × 10 days | 28 |  |  |  |
@@ -114,6 +116,8 @@ Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirS
 | Lopinavir/Ritonavir | 400/100 twice daily × 14 days | 24 |  | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
 | Saquinavir/Ritonavir | 1000/100 twice daily × 14 days | 35 |  |  | ↑ 23 (↑ 16 to ↑ 30) |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) |  |  |
+| Tipranavir/ RitonavirAptivus Prescribing Information | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
+| 750/200 twice daily (23 doses) | 20 | ↓ 38 (↓ 46 to ↓ 29) | ↑ 2 (↓ 6 to ↑ 10) | ↑ 14 (↑ 1 to ↑ 27) |  |
 
 Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
 
@@ -123,6 +127,7 @@ Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) |  | NA |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
 | Atazanavir | Atazanavir/ Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
+| DarunavirPrezista Prescribing Information | Darunavir/Ritonavir 300/100 mg once daily | 12 | ↑ 16 (↓ 6 to ↑ 42) | ↑ 21 (↓ 5 to ↑ 54) | ↑ 24 (↓ 10 to ↑ 69) |
 | DidanosineVidex EC Prescribing Information. Subjects received didanosine enteric-coated capsules. | 250 once, simultaneously with VIREAD and a light meal373 kcal, 8.2 g fat | 33 | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. (↓ 32 to ↓ 7) |  | NA |
 | Emtricitabine | 200 once daily × 7 days | 17 |  |  | ↑ 20 (↑ 12 to ↑ 29) |
 | Entecavir | 1 mg once daily × 10 days | 28 |  | ↑ 13 (↑ 11 to ↑ 15) |  |
@@ -133,6 +138,8 @@ Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | 32 | ↑ 22 (↑ 6 to ↑ 41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered. (↑ 12 to ↑ 48) | ↑ 47 (↑ 23 to ↑ 76) |
 | Ritonavir |  |  | ↑ 23 (↑ 3 to ↑ 46) |  |  |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 |  |  |  |
+| TipranavirAptivus Prescribing Information | Tipranavir/Ritonavir 500/100 twice daily | 22 | ↓ 17 (↓ 26 to ↓ 6) | ↓ 18 (↓ 25 to ↓ 9) | ↓ 21 (↓ 30 to ↓ 10) |
+| Tipranavir/Ritonavir 750/200 twice daily (23 doses) | 20 | ↓ 11 (↓ 16 to ↓ 4) | ↓ 9 (↓ 15 to ↓ 3) | ↓ 12 (↓ 22 to 0) |  |
 
 ## 12.4 Microbiology
 
@@ -221,13 +228,13 @@ In the nucleotide-naïve population from Studies 0102 and 0103, HBeAg-positive s
 
 HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 16); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic and phenotypic analyses).
 
-Table 16 Amino Acid Substitutions in Viremic Subjects across HBV Trials of VIREAD
+Table 16 Amino Acid Substitutions in Viremic Subjects Across HBV Trials of VIREAD
 
 |  | Nucleotide-Naïve (N=417)Nucleotide-naïve subjects from Studies 0102 (N=246) and 0103 (N=171) receiving up to 240 weeks of treatment with VIREAD. | HEPSERA-Experienced (N=247)HEPSERA-experienced subjects from Studies 0102/0103 (N=195) and 0106 (N=52) receiving up to 192 weeks of treatment with VIREAD after switching to VIREAD from HEPSERA. Study 0106, a randomized, double-blind, 168-week Phase 2 trial, has been completed. | Lamivudine- Resistant (N=136)Lamivudine-resistant subjects from Study 0121 (N=136) receiving up to 96 weeks of treatment with VIREAD after switching to VIREAD from lamivudine. |  |
 | --- | --- | --- | --- | --- |
 |  | Compensated Liver Disease |  |  | Decompensated Liver Disease (N=39)Subjects with decompensated liver disease from Study 0108 (N=39) receiving up to 48 weeks of treatment with VIREAD. |
 | Viremic at Last Time Point on VIREAD | 35/417 (8%) | 34/247 (14%) | 9/136 (7%) | 7/39 (18%) |
-| Treatment-Emergent Amino Acid SubstitutionsDenominator includes those subjects who were viremic at last time point on VIREAD monotherapy and had evaluable paired genotypic data. | 19Of the 19 subjects with treatment-emergent amino acid substitutions during Studies 0102 and 0103, 5 subjects had substitutions at conserved sites and 14 subjects had substitutions only at polymorphic sites, and 8 subjects had only transient substitutions that were not detected at the last time point on VIREAD. /33 (58%) | 10Of the 10 HEPSERA-experienced subjects with treatment-emergent amino acid substitutions, 2 subjects had substitutions at conserved sites and 8 had substitutions only at polymorphic sites./27 (37%) | 6Of the 6 lamivudine-resistant subjects with treatment-emergent substitutions during Study 0121, 3 subjects had substitutions at conserved sites and 3 had substitutions only at polymorphic sites./8 (75%) | 3/5 (60%) |
+| Treatment-Emergent Amino Acid SubstitutionsDenominator includes those subjects who were viremic at last time point on VIREAD monotherapy and had evaluable paired genotypic data. | 19Of the 19 subjects with treatment-emergent amino acid substitutions during Studies 0102 and 0103, 5 subjects had substitutions at conserved sites and 14 subjects had substitutions only at polymorphic sites, and 8 subjects had only transient substitutions that were not detected at the last time point on VIREAD./33 (58%) | 10Of the 10 HEPSERA-experienced subjects with treatment-emergent amino acid substitutions, 2 subjects had substitutions at conserved sites and 8 had substitutions only at polymorphic sites./27 (37%) | 6Of the 6 lamivudine-resistant subjects with treatment-emergent substitutions during Study 0121, 3 subjects had substitutions at conserved sites and 3 had substitutions only at polymorphic sites./8 (75%) | 3/5 (60%) |
 
 Cross-Resistance
 

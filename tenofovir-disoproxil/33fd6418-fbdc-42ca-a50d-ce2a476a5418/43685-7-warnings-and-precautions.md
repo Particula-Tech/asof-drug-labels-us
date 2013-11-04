@@ -19,19 +19,24 @@ If appropriate, resumption of anti-hepatitis B therapy may be warranted.
 Tenofovir is principally eliminated by the kidney.
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of VIREAD [See Adverse Reactions (6.2)].
 
-It is recommended that creatinine clearance be calculated in all patients prior to initiating therapy and as clinically appropriate during therapy with VIREAD.
-Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in patients at risk for renal impairment, including patients who have previously experienced renal events while receiving HEPSERA®.
+It is recommended that estimated creatinine clearance be assessed in all patients prior to initiating therapy and as clinically appropriate during therapy with VIREAD.
+In patients at risk of renal dysfunction, including patients who have previously experienced renal events while receiving HEPSERA®, it is recommended that estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein be assessed prior to initiation of VIREAD, and periodically during VIREAD therapy.
 
 Dosing interval adjustment of VIREAD and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 mL/min [See Dosage and Administration (2.3)].
 No safety or efficacy data are available in patients with renal impairment who received VIREAD using these dosing guidelines, so the potential benefit of VIREAD therapy should be assessed against the potential risk of renal toxicity.
 
-VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent.
+VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.3)].
+Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
+Some patients required hospitalization and renal replacement therapy.
+Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
+
+Persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in at-risk patients.
 
 ## 5.4 Coadministration with Other Products
 
 VIREAD should not be used in combination with the fixed-dose combination products ATRIPLA, COMPLERA, STRIBILD, or TRUVADA since tenofovir disoproxil fumarate is a component of these products.
 
-VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [See Drug Interactions (7.4)].
+VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [See Drug Interactions (7.3)].
 
 ## 5.5 Patients Coinfected with HIV-1 and HBV
 
@@ -40,48 +45,31 @@ Due to the risk of development of HIV-1 resistance, VIREAD should only be used i
 HIV-1 antibody testing should be offered to all HBV-infected patients before initiating therapy with VIREAD.
 It is also recommended that all patients with HIV-1 be tested for the presence of chronic hepatitis B before initiating treatment with VIREAD.
 
-## 5.6 Decreases in Bone Mineral Density
+## 5.6 Bone Effects
 
-Assessment of bone mineral density (BMD) should be considered for adults and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
+Bone Mineral Density:
+
+In clinical trials in HIV-1 infected adults, VIREAD was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
+Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving VIREAD [See Adverse Reactions (6.1)].
+
+Clinical trials evaluating VIREAD in pediatric and adolescent subjects were conducted.
+Under normal circumstances, BMD increases rapidly in pediatric patients.
+In HIV-1 infected subjects aged 2 years to less than 18 years, bone effects were similar to those observed in adult subjects and suggest increased bone turnover.
+Total body BMD gain was less in the VIREAD-treated HIV-1 infected pediatric subjects as compared to the control groups.
+Similar trends were observed in chronic hepatitis B infected adolescent subjects aged 12 years to less than 18 years.
+In all pediatric trials, skeletal growth (height) appeared to be unaffected.
+[See Adverse Reactions (6.1)].
+
+The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
+Assessment of BMD should be considered for adults and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial for all patients.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
-Adult Patients
+Mineralization Defects:
 
-In HIV-1 infected adult subjects treated with VIREAD in Study 903 through 144 weeks, decreases from baseline in BMD were seen at the lumbar spine and hip in both arms of the trial.
-At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving VIREAD + lamivudine + efavirenz (-2.2% ± 3.9) compared with subjects receiving stavudine + lamivudine + efavirenz (-1.0% ± 4.6).
-Changes in BMD at the hip were similar between the two treatment groups (-2.8% ± 3.5 in the VIREAD group vs. -2.4% ± 4.5 in the stavudine group).
-In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the trial and this reduction was sustained through Week 144.
-Twenty-eight percent of VIREAD-treated subjects vs. 21% of the stavudine-treated subjects lost at least 5% of BMD at the spine or 7% of BMD at the hip.
-Clinically relevant fractures (excluding fingers and toes) were reported in 4 subjects in the VIREAD group and 6 subjects in the stavudine group.
-In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C-telopeptide, and urinary N-telopeptide) in the VIREAD group relative to the stavudine group, suggesting increased bone turnover.
-Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in the VIREAD group.
-Except for bone specific alkaline phosphatase, these changes resulted in values that remained within the normal range.
-
-Pediatric Patients
-
-In clinical trials evaluating VIREAD in HIV-1 infected pediatric subjects 2 to less than 18 years of age, bone effects were similar to those observed in adult subjects.
-Under normal circumstances BMD increases rapidly in pediatric patients.
-In Study 352 (2 to less than 12 years), the mean rate of BMD gain in lumbar spine at Week 48 was similar between the VIREAD and the d4T or AZT treatment groups.
-Total body BMD gain was less in the VIREAD compared to the d4T or AZT treatment group.
-One VIREAD-treated subject and none of the d4T or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
-Changes from baseline in BMD Z-scores were -0.012 for lumbar spine and -0.338 for total body in the 64 subjects who were treated with VIREAD for 96 weeks.
-In Study 321 (12 to less than 18 years), the mean rate of BMD gain at Week 48 was less in the VIREAD compared to the placebo treatment group.
-Six VIREAD treated subjects and one placebo treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
-Changes from baseline BMD Z-scores were -0.341 for lumbar spine and -0.458 for total body in the 28 subjects who were treated with VIREAD for 96 weeks.
-In both trials, skeletal growth (height) appeared to be unaffected.
-Markers of bone turnover in VIREAD-treated pediatric subjects suggest increased bone turnover, consistent with the effects observed in adults.
-
-In a clinical trial (Study 115) conducted in pediatric subjects 12 to less than 18 years of age with chronic hepatitis B infection, both the VIREAD and placebo treatment arms experienced an overall increase in mean lumbar spine BMD over 72 weeks, as expected for an adolescent population.
-The BMD gains from baseline to Week 72 in lumbar spine and total body BMD in VIREAD-treated subjects (+5% and +3%, respectively) were less than the BMD gains observed in placebo-treated subjects (+8% and +5%, respectively).
-Three subjects in the VIREAD group and two subjects in the placebo group had significant (greater than 4%) lumbar spine BMD loss at Week 72.
-At baseline, mean BMD Z-scores in subjects randomized to VIREAD were −0.43 for lumbar spine and −0.20 for total body, and mean BMD Z-scores in subjects randomized to placebo were −0.28 for lumbar spine and −0.26 for total body.
-In subjects receiving VIREAD for 72 weeks, the mean change in BMD Z-score was −0.05 for lumbar spine and −0.15 for total body compared to +0.07 and +0.06, respectively, in subjects receiving placebo.
-As observed in pediatric studies of HIV-infected patients, skeletal growth (height) appeared to be unaffected.
-
-The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
-
-Cases of osteomalacia (associated with proximal renal tubulopathy and which may contribute to fractures) have been reported in association with the use of VIREAD [See Adverse Reactions (6.2)].
+Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of VIREAD [See Adverse Reactions (6.2)].
+Arthralgias and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
+Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [See Warnings and Precautions (5.3)].
 
 ## 5.7 Fat Redistribution
 

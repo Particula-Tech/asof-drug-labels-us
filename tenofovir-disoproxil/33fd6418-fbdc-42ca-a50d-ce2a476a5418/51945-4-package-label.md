@@ -1,3 +1,13 @@
+PRINICPAL DISPLAY PANEL - 300 mg Bottle Label
+
+NDC 61958-0401-1
+
+Viread® (tenofovir disoproxil fumarate) Tablets, 300 mg
+
+30 tablets
+
+Rx only
+
 PRINICPAL DISPLAY PANEL - 150 mg Bottle Label
 
 NDC 61958-0404-1
@@ -29,16 +39,6 @@ NDC 61958-0406-1
 Viread® (tenofovir disoproxil fumarate) Tablets
 
 250 mg
-
-30 tablets
-
-Rx only
-
-PRINICPAL DISPLAY PANEL - 300 mg Bottle Label
-
-NDC 61958-0401-1
-
-Viread® (tenofovir disoproxil fumarate) Tablets, 300 mg
 
 30 tablets
 

@@ -25,7 +25,7 @@ Patients should be advised that:
   Treatment with VIREAD should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity (including nausea, vomiting, unusual or unexpected stomach discomfort, and weakness) [See Warnings and Precautions (5.1)].
 - Severe acute exacerbations of hepatitis have been reported in patients who are infected with HBV or coinfected with HBV and HIV-1 and have discontinued VIREAD [See Warnings and Precautions (5.2)].
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported.
-  VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent [See Warnings and Precautions (5.3)].
+  VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [See Warnings and Precautions (5.3)].
   Dosing interval of VIREAD may need adjustment in patients with renal impairment [See Dosage and Administration (2.3)].
 - VIREAD should not be coadministered with the fixed-dose combination products ATRIPLA, COMPLERA, STRIBILD, and TRUVADA since it is a component of these products [See Warnings and Precautions (5.4)].
 - VIREAD should not be administered in combination with HEPSERA [See Warnings and Precautions (5.4)].

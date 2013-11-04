@@ -138,8 +138,8 @@ At Week 240, HBsAg loss was 9% in both treatment groups, and seroconversion to a
 Of the originally randomized and treated 641 subjects in the two studies, liver biopsy data from 328 subjects who received continuing open-label treatment with VIREAD monotherapy were available for analysis at baseline, Week 48 and Week 240.
 There were no apparent differences between the subset of subjects who had liver biopsy data at Week 240 and those subjects remaining on open-label VIREAD without biopsy data that would be expected to affect histological outcomes at Week 240.
 Among the 328 subjects evaluated, the observed histological response rates were 80% and 88% at Week 48 and Week 240, respectively.
-In the subjects without cirrhosis at baseline (Ishak fibrosis score 0–4), 92% (216/235) and 95% (223/235) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
-In subjects with cirrhosis at baseline (Ishak fibrosis score 5–6), 97% (90/93) and 99% (92/93) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
+In the subjects without cirrhosis at baseline (Ishak fibrosis score 0-4), 92% (216/235) and 95% (223/235) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
+In subjects with cirrhosis at baseline (Ishak fibrosis score 5-6), 97% (90/93) and 99% (92/93) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
 Twenty-nine percent (27/93) and 72% (67/93) of subjects with cirrhosis at baseline experienced regression of cirrhosis by Week 48 and Week 240, respectively, with a reduction in Ishak fibrosis score of at least 2 points.
 No definitive conclusions can be established about the remaining study population who were not part of this subset analysis.
 

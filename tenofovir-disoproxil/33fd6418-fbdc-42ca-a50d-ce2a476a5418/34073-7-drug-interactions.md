@@ -18,28 +18,21 @@ In patients weighing less than 60 kg, the didanosine dose should be reduced to 2
 When coadministered, VIREAD and didanosine EC may be taken under fasted conditions or with a light meal (less than 400 kcal, 20% fat).
 For additional information on coadministration of VIREAD and didanosine, please refer to the full prescribing information for didanosine.
 
-## 7.2 Atazanavir
-
-Atazanavir has been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
-The mechanism of this interaction is unknown.
-Patients receiving atazanavir and VIREAD should be monitored for VIREAD-associated adverse reactions.
-VIREAD should be discontinued in patients who develop VIREAD-associated adverse reactions.
+## 7.2 HIV-1 Protease Inhibitors
 
 VIREAD decreases the AUC and Cmin of atazanavir [See Clinical Pharmacology (12.3)].
 When coadministered with VIREAD, it is recommended that atazanavir 300 mg is given with ritonavir 100 mg.
-Atazanavir without ritonavir should not be coadministered with VIREAD.
+VIREAD should not be coadministered with atazanavir without ritonavir.
 
-## 7.3 Lopinavir/Ritonavir
-
-Lopinavir/ritonavir has been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
-The mechanism of this interaction is unknown.
-Patients receiving lopinavir/ritonavir and VIREAD should be monitored for VIREAD-associated adverse reactions.
+Lopinavir/ritonavir, atazanavir coadministered with ritonavir, and darunavir coadministered with ritonavir have been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
+Tenofovir disoproxil fumarate is a substrate of P-glycoprotein (Pgp) and breast cancer resistance protein (BCRP) transporters.
+When tenofovir disoproxil fumarate is co-administered with an inhibitor of these transporters, an increase in absorption may be observed.
+Patients receiving VIREAD concomitantly with lopinavir/ritonavir, ritonavir-boosted atazanavir, or ritonavir-boosted darunavir should be monitored for VIREAD-associated adverse reactions.
 VIREAD should be discontinued in patients who develop VIREAD-associated adverse reactions.
 
-## 7.4 Drugs Affecting Renal Function
+## 7.3 Drugs Affecting Renal Function
 
 Since tenofovir is primarily eliminated by the kidneys [See Clinical Pharmacology (12.3)], coadministration of VIREAD with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of tenofovir and/or increase the concentrations of other renally eliminated drugs.
-Some examples include, but are not limited to cidofovir, acyclovir, valacyclovir, ganciclovir, and valganciclovir.
-Drugs that decrease renal function may also increase serum concentrations of tenofovir.
+Some examples include, but are not limited to cidofovir, acyclovir, valacyclovir, ganciclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [See Warnings and Precautions (5.3)].
 
 In the treatment of chronic hepatitis B, VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil).

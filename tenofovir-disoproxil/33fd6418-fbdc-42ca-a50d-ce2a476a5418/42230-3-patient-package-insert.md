@@ -1,6 +1,4 @@
-# PATIENT INFORMATION
-
-VIREAD® (VEER-ee-ad) (tenofovir disoproxil fumarate) tablets and oral powder
+PATIENT INFORMATION VIREAD® (VEER-ee-ad) (tenofovir disoproxil fumarate) tablets and oral powder
 
 Read this Patient Information before you start taking VIREAD and each time you get a refill.
 There may be new information.
@@ -91,7 +89,6 @@ Before you take VIREAD, tell your healthcare provider if you:
   Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-
 VIREAD may affect the way other medicines work, and other medicines may affect how VIREAD works.
 
 Do not take VIREAD if you also take:
@@ -100,11 +97,11 @@ Do not take VIREAD if you also take:
 - adefovir (HEPSERA®)
 
 Especially tell your healthcare provider if you take the following medications.
-The dose of these other medications may need to be changed.
 
-- didanosine (VIDEX, VIDEX EC)
-- atazanavir (REYATAZ)
-- lopinavir with ritonavir (KALETRA)
+- didanosine (Videx, Videx EC)
+- atazanavir (Reyataz)
+- darunavir (Prezista)
+- lopinavir with ritonavir (Kaletra)
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.

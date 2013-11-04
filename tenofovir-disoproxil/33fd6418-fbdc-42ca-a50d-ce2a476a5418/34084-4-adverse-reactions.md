@@ -5,7 +5,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Boxed Warning, Warnings and Precautions (5.1)].
 - Severe Acute Exacerbation of Hepatitis [See Boxed Warning, Warnings and Precautions (5.2)].
 - New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.3)].
-- Decreases in Bone Mineral Density [See Warnings and Precautions (5.6)].
+- Bone Effects [See Warnings and Precautions (5.6)].
 - Immune Reconstitution Syndrome [See Warnings and Precautions (5.8)].
 
 ## 6.1 Adverse Reactions from Clinical Trials Experience
@@ -80,6 +80,15 @@ Table 5 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treate
 
 Study 934 - Treatment Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naïve subjects received either VIREAD + EMTRIVA® administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254).
 Adverse reactions observed in this trial were generally consistent with those seen in previous studies in treatment-experienced or treatment-naïve subjects (Table 6).
+
+Changes in Bone Mineral Density:
+
+In HIV-1 infected adult subjects in Study 903, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving VIREAD + lamivudine + efavirenz (-2.2% ± 3.9) compared with subjects receiving stavudine + lamivudine + efavirenz (-1.0% ± 4.6) through 144 weeks.
+Changes in BMD at the hip were similar between the two treatment groups (-2.8% ± 3.5 in the VIREAD group vs. -2.4% ± 4.5 in the stavudine group).
+In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the trial and this reduction was sustained through Week 144.
+Twenty-eight percent of VIREAD-treated subjects vs. 21% of the stavudine-treated subjects lost at least 5% of BMD at the spine or 7% of BMD at the hip.
+Clinically relevant fractures (excluding fingers and toes) were reported in 4 subjects in the VIREAD group and 6 subjects in the stavudine group.
+In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C telopeptide, and urinary N telopeptide) and higher serum parathyroid hormone levels and 1,25 Vitamin D levels in the VIREAD group relative to the stavudine group; however, except for bone-specific alkaline phosphatase, these changes resulted in values that remained within the normal range [See Warnings and Precautions (5.6)].
 
 Table 6 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 934 (0–144 Weeks)
@@ -191,11 +200,21 @@ Clinical Trials in Pediatric Subjects 2 Years of Age and Older with HIV-1 Infect
 Assessment of adverse reactions is based on two randomized trials (Studies 352 and 321) in 184 HIV-1 infected pediatric subjects (2 to less than 18 years of age) who received treatment with VIREAD (N=93) or placebo/active comparator (N=91) in combination with other antiretroviral agents for 48 weeks.
 The adverse reactions observed in subjects who received treatment with VIREAD were consistent with those observed in clinical trials in adults.
 
-Bone effects observed in pediatric subjects 2 years of age and older were consistent with those observed in adult clinical trials [See Warnings and Precautions (5.6)].
-
-Eighty-nine pediatric subjects received VIREAD in Study 352 (48 who were initially randomized to VIREAD and 41 who were initially randomized to continue stavudine or zidovudine and then received VIREAD in the extension phase) for a median exposure of 104 weeks.
+Eighty-nine pediatric subjects (2 to less than 12 years of age) received VIREAD in Study 352 for a median exposure of 104 weeks.
 Of these, 4 subjects discontinued from the trial due to adverse reactions consistent with proximal renal tubulopathy.
 Three of these 4 subjects presented with hypophosphatemia and also had decreases in total body or spine BMD Z score [See Warnings and Precautions (5.6)].
+
+Changes in Bone Mineral Density:
+
+Clinical trials in HIV-1 infected children and adolescents evaluated BMD changes.
+In Study 321 (12 to less than 18 years), the mean rate of BMD gain at Week 48 was less in the VIREAD compared to the placebo treatment group.
+Six VIREAD treated subjects and one placebo treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
+Changes from baseline BMD Z-scores were –0.341 for lumbar spine and –0.458 for total body in the 28 subjects who were treated with VIREAD for 96 weeks.
+In Study 352 (2 to less than 12 years), the mean rate of BMD gain in lumbar spine at Week 48 was similar between the VIREAD and the d4T or AZT treatment groups.
+Total body BMD gain was less in the VIREAD compared to the d4T or AZT treatment groups.
+One VIREAD-treated subject and none of the d4T or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
+Changes from baseline in BMD Z scores were –0.012 for lumbar spine and –0.338 for total body in the 64 subjects who were treated with VIREAD for 96 weeks.
+In both trials, skeletal growth (height) appeared to be unaffected [See Warnings and Precautions (5.6)].
 
 Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver Disease
 
@@ -243,7 +262,12 @@ Clinical Trials in Pediatric Subjects 12 Years of Age and Older with Chronic Hep
 Assessment of adverse reactions is based on one randomized study (Study GS-US-174-0115) in 106 pediatric subjects (12 to less than 18 years of age) infected with chronic hepatitis B receiving treatment with VIREAD (N = 52) or placebo (N = 54) for 72 weeks.
 The adverse reactions observed in pediatric subjects who received treatment with VIREAD were consistent with those observed in clinical trials of VIREAD in adults.
 
-The mean rate of bone mineral density gain was less in VIREAD-treated subjects compared to placebo [See Warnings and Precautions (5.6)].
+In this study, both the VIREAD and placebo treatment arms experienced an overall increase in mean lumbar spine BMD over 72 weeks, as expected for an adolescent population.
+The BMD gains from baseline to Week 72 in lumbar spine and total body BMD in VIREAD-treated subjects (+5% and +3%, respectively) were less than the BMD gains observed in placebo-treated subjects (+8% and +5%, respectively).
+Three subjects in the VIREAD group and two subjects in the placebo group had significant (greater than 4%) lumbar spine BMD loss at Week 72.
+At baseline, mean BMD Z-scores in subjects randomized to VIREAD were −0.43 for lumbar spine and −0.20 for total body, and mean BMD Z-scores in subjects randomized to placebo were −0.28 for lumbar spine and −0.26 for total body.
+In subjects receiving VIREAD for 72 weeks, the mean change in BMD Z-score was −0.05 for lumbar spine and −0.15 for total body compared to +0.07 and +0.06, respectively, in subjects receiving placebo.
+As observed in pediatric studies of HIV-infected patients, skeletal growth (height) appeared to be unaffected [See Warnings and Precautions (5.6)].
 
 ## 6.2 Postmarketing Experience
 
