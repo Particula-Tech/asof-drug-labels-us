@@ -16,6 +16,6 @@ Distributed by: Santarus, Inc. San Diego, CA 92130
 
 FENOGLIDE® is a registered trademark of Santarus, Inc.
 
-This product is covered by U.S. Patent No. 7,658,944 and additional patents pending.
+U.S. Patent Nos. 7,658,944, 8,124,125 and 8,481,078.
 
-S-0060A
+S-0060B
