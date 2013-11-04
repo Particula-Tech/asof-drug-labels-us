@@ -17,4 +17,4 @@ For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ
 
 Distributed By: Actvis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Content Updated: August 2013 184181-3
+Content Updated: September 2013 184181-4
