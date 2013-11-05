@@ -10,7 +10,7 @@ Although QVAR may provide control of asthmatic symptoms during these episodes, i
 During periods of stress or a severe asthmatic attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physician for further instruction.
 These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic steroids during periods of stress or a severe asthma attack.
 
-Transfer of patients from systemic steroid therapy to QVAR may unmask allergic conditions previously suppressed by the systemic steroid therapy, e.g., rhinitis, conjunctivitis, and eczema.
+Transfer of patients from systemic steroid therapy to QVAR may unmask allergic conditions previously suppressed by the systemic steroid therapy, e.g., rhinitis, conjunctivitis and eczema.
 
 Persons who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in non-immune children or adults on corticosteroids.
@@ -44,10 +44,10 @@ Particular care should be taken in observing patients postoperatively or during 
 It is possible that systemic corticosteroid effects, such as hypercorticism and adrenal suppression, may appear in a small number of patients, particularly at higher doses.
 If such changes occur, QVAR should be reduced slowly, consistent with accepted procedures for management of asthma symptoms and for tapering of systemic steroids.
 
-A 12-month, randomized, controlled clinical trial evaluated the effects of HFA beclomethasone dipropionate without spacer versus CFC beclomethasone dipropionate with large volume spacer on growth in children age 5 to 11.
+A 12-month, randomized, controlled clinical trial evaluated the effects of HFA beclomethasone dipropionate without spacer versus CFC beclomethasone dipropionate with large-volume spacer on growth in children age 5 to 11.
 A total of 520 patients were enrolled, of whom 394 received HFA-BDP (100 to 400 mcg/day ex-valve) and 126 received CFC-BDP (200 to 800 mcg/day ex-valve).
 Similar control of asthma was noted in each treatment arm.
-When comparing results at month 12 to baseline, the mean growth velocity in children treated with HFA-BDP was approximately 0.5 cm/year less than that noted with children treated with CFC-BDP via large volume spacer.
+When comparing results at month 12 to baseline, the mean growth velocity in children treated with HFA-BDP was approximately 0.5 cm/year less than that noted with children treated with CFC-BDP via large- volume spacer.
 
 A reduction in growth velocity in growing children may occur as a result of inadequate control of chronic diseases such as asthma or from use of corticosteroids for treatment.
 Physicians should closely follow the growth of all pediatric patients taking corticosteroids by any route and weigh the benefits of corticosteroid therapy and asthma control against the possibility of growth suppression.
@@ -94,7 +94,7 @@ No significant clastogenic effect was seen in cultured CHO cells in vitro or in 
 
 In rats, beclomethasone dipropionate caused decreased conception rates at an oral dose of 16 mg/kg/day (approximately 200 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
 Impairment of fertility, as evidence by inhibition of the estrous cycle in dogs, was observed following treatment by the oral route at a dose of 0.5 mg/kg/day (approximately 20 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
-No inhibition of the estrous cycle in dogs was seen following 12 months of exposure to beclomethasone dipropionate by the Inhalation route at an estimated daily dose of 0.33 mg/kg (approximately 15 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
+No inhibition of the estrous cycle in dogs was seen following 12 months of exposure to beclomethasone dipropionate by the inhalation route at an estimated daily dose of 0.33 mg/kg (approximately 15 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
 
 ## Pregnancy
 
@@ -119,7 +119,7 @@ Because of the potential for serious adverse reactions in nursing infants from Q
 
 ## Pediatric Use
 
-Eight-hundred and thirty-four children between the ages of 5 and 12 were treated with HFA beclomethasone dipropionate (HFA BDP) in clinical trials.
+Eight-hundred and thirty-four children between the ages of 5 and 12 were treated with HFA beclomethasone dipropionate (HFA-BDP) in clinical trials.
 The safety and effectiveness of QVAR in children below 5 years of age have not been established.
 
 Use of QVAR with a spacer device in children less than 5 years of age is not recommended.
@@ -129,7 +129,7 @@ If QVAR is used with a spacer device, it is important to inhale immediately.
 
 Based on the average inspiratory flow rates generated by children 6 months to 5 years old, the projected daily dose derived from QVAR 40 mcg at one puff per day at various wait times is depicted in the table below:
 
-TABLE 1
+Table 1
 
 |  | Wait time, seconds | Mean medication delivery through AeroChamber, mcg/actuation Summary Report; Pediatric Dose Characterization of QVAR with Spacer; 3M Pharmaceutical Development, July 21, 2004. | Body Weight 50th percentile, kg CDC Growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000). | Medication delivered per dose, mcg/kg Includes an estimated 20% loss in the masks,QVAR 40mcg in an average adult without using a spacer delivers approximately 0.4 mcg/kg, or bid, 0.8 mcg/kg/day. |
 | --- | --- | --- | --- | --- |

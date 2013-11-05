@@ -2,8 +2,9 @@
 
 QVAR is supplied in 2 strengths:
 
-- QVAR 40 mcg is supplied either in a 7.3 g canister containing 100 actuations with a beige plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-175-40 or in an 8.7 g canister containing 120 actuations with a beige plastic actuator and gray dust cap, and Patient's Instructions; box of one; 120 Actuations – NDC 59310-202-40
-- QVAR 80 mcg is supplied either in a 4.2 g canister, for Institutional Use, containing 50 actuations with a dark mauve plastic actuator and a gray dust cap, and Patient's Instructions; box of one; 50 Actuations – NDC 59310-204-50, a 7.3 g canister containing 100 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-177-80 or in an 8.7 g canister containing 120 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 120 Actuations – NDC 59310-204-80
+QVAR 40 mcg is supplied either in a 7.3 g canister containing 100 actuations with a beige plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-175-40 or in an 8.7 g canister containing 120 actuations with a beige plastic actuator and gray dust cap, and Patient's Instructions; box of one; 120 Actuations – NDC 59310-202-40.
+
+QVAR 80 mcg is supplied either in a 4.2 g canister, for Institutional Use, containing 50 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 50 actuations – NDC 59310-204-50, a 7.3 g canister containing 100 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-177-80, or in an 8.7 g canister containing 120 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 120 Actuations – NDC 59310-204-80.
 
 The correct amount of medication in each inhalation cannot be assured after 50 actuations from the 4.2 g canister, 100 actuations from the 7.3 g canister or 120 actuations from the 8.7 g canister even though the canister is not completely empty.
 The canister should be discarded when the labeled number of actuations have been used.
@@ -43,7 +44,7 @@ Loughborough, UK
 
 July 2012
 
-© 2012 Teva Respiratory, LLC 657100 QVAR is a registered trademark of IVAX LLC, a member of the TEVA Group.
+© 2012 Teva Respiratory, LLC 657100 QVAR is a registered trademark of IVAX LLC, a member of the Teva Group.
 Rev.
 07/12
 

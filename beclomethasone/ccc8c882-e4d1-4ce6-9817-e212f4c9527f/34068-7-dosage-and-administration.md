@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Patients should prime QVAR by actuating into the air twice before using for the first time or if QVAR has not been used for over ten days.
+Patients should prime QVAR by actuating into the air twice before using for the first time or if QVAR has not been used for over 10 days.
 Avoid spraying in the eyes or face when priming QVAR.
 QVAR is a solution aerosol, which does not require shaking.
 Consistent dose delivery is achieved, whether using the 40 or 80 mcg strengths, due to proportionality of the 2 products (i.e., 2 actuations of 40 mcg strength should provide a dose comparable to 1 actuation of the 80 mcg strength).

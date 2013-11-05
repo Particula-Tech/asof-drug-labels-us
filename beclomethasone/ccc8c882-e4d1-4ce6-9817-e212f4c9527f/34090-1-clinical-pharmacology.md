@@ -50,7 +50,7 @@ Formal pharmacokinetic studies using QVAR were not conducted in any special popu
 ### Pediatrics
 
 The pharmacokinetics of 17-BMP, including dose and strength proportionalities, is similar in children and adults, although the exposure is highly variable.
-In 17 children (mean age 10 years), the Cmax of 17-BMP was 787 pg/ml at 0.6 hour after inhalation of 160 mcg (four actuations of the 40 mcg/actuation strength of HFA beclomethasone dipropionate).
+In 17 children (mean age 10 years), the Cmax of 17-BMP was 787 pg/ml at 0.6 hour after inhalation of 160 mcg (4 actuations of the 40 mcg/actuation strength of HFA beclomethasone dipropionate).
 The systemic exposure to 17-BMP from 160 mcg of HFA-BDP administered without a spacer was comparable to the systemic exposure to 17-BMP from 336 mcg CFC-BDP administered with a large volume spacer in 14 children (mean age 12 years).
 This implies that approximately twice the systemic exposure to 17-BMP would be expected for comparable mg doses of HFA-BDP without a spacer and CFC-BDP with a large volume spacer.
 

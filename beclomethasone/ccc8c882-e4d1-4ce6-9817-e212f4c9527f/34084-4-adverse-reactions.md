@@ -8,7 +8,7 @@ Adverse Events Reported by at Least 3% of the Patients for Either QVAR or CFC-BD
 
 | Placebo (N=289) % | Total (N=624) % | 80-160 mcg (N=233) % | 320 mcg (N=335) % | 640 mcg (N=56) % | Total (N=283) % | 84 mcg (N=59) % | 336 mcg (N=55) % | 672 mcg (N=169) % |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Events |  | QVAR |  |  |  | CFC-BDP |  |  |  |
+| Adve rse Events |  | QVAR |  |  |  | CFC-BDP |  |  |  |
 | HEADACHE | 9 | 12 | 15 | 8 | 25 | 15 | 14 | 11 | 17 |
 | PHARYNGITIS | 4 | 8 | 6 | 5 | 27 | 10 | 12 | 9 | 10 |
 | UPPER RESP TRACT INFECTION | 11 | 9 | 7 | 11 | 5 | 12 | 3 | 9 | 17 |

@@ -26,7 +26,7 @@ Comparable improvement in AM PEF was seen for patients receiving 160 mcg twice-d
 
 ## Patients Responsive to a Short Course of Oral Corticosteroids
 
-In another clinical trial, 347 patients with symptomatic asthma, being treated with as-needed inhaled beta-agonist bronchodilators and, in some cases, inhaled corticosteroids, were given a 7 to 12 day course of oral corticosteroids and then randomized to receive either 320 mcg daily of QVAR, 672 mcg of CFC-BDP, or placebo.
+In another clinical trial, 347 patients with symptomatic asthma, being treated with as-needed inhaled beta-agonist bronchodilators and, in some cases, inhaled corticosteroids, were given a 7 to 12-day course of oral corticosteroids and then randomized to receive either 320 mcg daily of QVAR, 672 mcg of CFC-BDP, or placebo.
 Patients treated with either QVAR or CFC-BDP had significantly better asthma control, as assessed by AM PEF, FEV1 and asthma symptoms, and fewer study withdrawals due to asthma symptoms, than those treated with placebo over 12 weeks of treatment.
 A daily dose of 320 mcg QVAR administered in divided doses provided comparable control of AM PEF and FEV1 as 672 mcg of CFC-BDP.
 Shown below are the mean AM PEF results from this trial.
@@ -35,11 +35,11 @@ A 12-Week Clinical Trial in Moderate Symptomatic Patients with Asthma Responding
 
 ## Patients Previously on Inhaled Corticosteroids
 
-In a 6-week clinical trial, 323 patients, who exhibited a deterioration in asthma control during an inhaled corticosteroid washout period were randomized to daily treatment with either 40, 160, or 320 mcg twice-daily QVAR or 42, 168, or 336 mcg twice-daily CFC-BDP.
-Treatment with increasing doses of both QVAR and CFC-BDP resulted in increased improvement in FEV1, FEF25-75% (forced expiratory flow over 25-75% of the vital capacity), and asthma symptoms.
+In a 6-week clinical trial, 323 patients who exhibited a deterioration in asthma control during an inhaled corticosteroid washout period were randomized to daily treatment with either 40, 160, or 320 mcg twice-daily QVAR or 42, 168 or 336 mcg twice-daily CFC-BDP.
+Treatment with increasing doses of both QVAR and CFC-BDP resulted in increased improvement in FEV1, FEF25-75% (forced expiratory flow over 25-75% of the vital capacity) and asthma symptoms.
 Shown below is the change from baseline in FEV1 as percent predicted after 6 weeks of treatment.
 
-A 6-Week Dose Response Clinical Trial in Patients with Inhaled Corticosteroid Dependent Asthma: Mean Change in FEV1 as Percent of Predicted
+A 6-Week Dose Response Clinical Trial in Patients with Inhaled Corticosteroid-Dependent Asthma: Mean Change in FEV1 as Percent of Predicted
 
 ## Patients Previously Maintained on Oral Corticosteroids
 

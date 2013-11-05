@@ -2,7 +2,7 @@
 
 QVAR® (beclomethasone dipropionate HFA) INHALATION AEROSOL
 
-Attention Pharmacist: Detach "PATIENT'S INSTRUCTIONS for Use" from package insert and dispense with the product.
+Attention Pharmacist: Detach "Patient's Instructions for Use" from package insert and dispense with the product.
 
 PATIENT'S INSTRUCTIONS
 
@@ -36,7 +36,7 @@ TAKE YOUR FINGER OFF THE CAN and remove the inhaler from your mouth.
 Breathe out gently.
 
 6.
-If your physician has told you to take more than one inhalation per treatment repeat steps 3 through 5.
+If your physician has told you to take more than one inhalation per treatment, repeat steps 3 through 5.
 
 7.
 You should rinse your mouth with water after treatment.
