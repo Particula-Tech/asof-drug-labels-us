@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020911"
+  ],
+  "inn": "beclomethasone",
+  "labeler": "Teva Respiratory, LLC",
+  "package_ndcs": [
+    "59310-202-40",
+    "59310-204-50",
+    "59310-204-80",
+    "59310-204-85"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "beclomethasone dipropionate",
+      "name": "QVAR"
+    }
+  ],
+  "setid": "d36edb9d-8ccd-44d9-bb90-f2ad7523c988",
+  "source": "dailymed"
+}
