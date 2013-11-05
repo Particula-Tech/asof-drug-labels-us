@@ -99,3 +99,9 @@ Caution should be exercised when administering enoxaparin sodium to patients wit
 
 An increase in exposure of enoxaparin sodium with prophylactic dosages (non-weight adjusted) has been observed in low-weight women (<45 kg) and low-weight men (<57 kg).
 All such patients should be observed carefully for signs and symptoms of bleeding [see Clinical Pharmacology (12.3)].
+
+## 8.10 Obese Patients
+
+Obese patients are at higher risk for thromboembolism.
+The safety and efficacy of prophylactic doses of enoxaparin sodium in obese patients (BMI >30 kg/m2) has not been fully determined and there is no consensus for dose adjustment.
+These patients should be observed carefully for signs and symptoms of thromboembolism.

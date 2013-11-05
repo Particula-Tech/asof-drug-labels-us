@@ -178,4 +178,4 @@ Most of these reports occurred in patients who also had conditions that tend tow
 Very rare cases of hyperlipidemia have also been reported, with one case of hyperlipidemia, with marked hypertriglyceridemia, reported in a diabetic pregnant woman; causality has not been determined.
 
 Cases of headache, hemorrhagic anemia, eosinophilia, alopecia, hepatocellular and cholestatic liver injury have been reported.
-Osteoporosis has also been reported following long-term therapy (greater than three months).
+Osteoporosis has also been reported following long-term therapy.

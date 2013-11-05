@@ -47,7 +47,7 @@ If the last enoxaparin sodium SC administration was given more than 8 hours befo
 
 Although no dose adjustment is recommended in patients with moderate (creatinine clearance 30–50 mL/min) and mild (creatinine clearance 50–80 mL/min) renal impairment, all such patients should be observed carefully for signs and symptoms of bleeding.
 
-The recommended prophylaxis and treatment dosage regimens for patients with severe renal impairment (creatinine clearance <30 mL/min) are described in Table 1 [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The recommended prophylaxis and treatment dosage regimens for patients with severe renal impairment (creatinine clearance <30 mL/min) are described in Table 1 [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 Table 1
 
