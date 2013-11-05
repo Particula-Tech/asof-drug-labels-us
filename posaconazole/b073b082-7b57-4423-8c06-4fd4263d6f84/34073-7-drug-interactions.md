@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 Posaconazole is primarily metabolized via UDP glucuronidation and is a substrate of p-glycoprotein efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
@@ -73,7 +73,6 @@ However, if concomitant administration is required, close monitoring for breakth
 Cimetidine (an H2-receptor antagonist) and esomeprazole (a proton pump inhibitor) decrease posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
 It is recommended to avoid concomitant use of cimetidine and esomeprazole with posaconazole unless the benefit outweighs the risks.
 However, if concomitant administration is required, close monitoring for breakthrough fungal infections is recommended.
-
 No clinically relevant effects were observed when posaconazole is concomitantly used with antacids and H2-receptor antagonists other than cimetidine.
 No dosage adjustment of posaconazole is required when posaconazole is concomitantly used with antacids and H2-receptor antagonists other than cimetidine.
 

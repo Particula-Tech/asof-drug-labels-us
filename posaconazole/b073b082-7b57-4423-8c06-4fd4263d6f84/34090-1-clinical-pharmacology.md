@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -57,7 +57,7 @@ Table 7: The Effect of Varying Gastric Administration Conditions on the Cmax and
 | With BOOST | ↑137% (2.37; 1.86–3.04) | ↑157% (2.57; 2.00–3.30) |  |
 | 400-mg single dose with carbonated acidic beverage (ginger ale) and/or proton pump inhibitor (esomeprazole) (n=12) | Ginger ale | ↑92% (1.92; 1.51–2.44) | ↑70% (1.70; 1.43–2.03) |
 | Esomeprazole | ↓32% (0.68; 0.53–0.86) | ↓30% (0.70; 0.59–0.83) |  |
-| 400-mg single dose with a prokinetic agent (metoclopramide 10 mg TID for 2 days) + BOOST or a antikinetic agent (loperamide 4- mg single dose) + BOOST (n=12) | With metoclopramide + BOOST | ↓21% (0.79; 0.72–0.87) | ↓19% (0.81; 0.72–0.91) |
+| 400-mg single dose with a prokinetic agent (metoclopramide 10 mg TID for 2 days) + BOOST or a antikinetic agent (loperamide 4-mg single dose) + BOOST (n=12) | With metoclopramide + BOOST | ↓21% (0.79; 0.72–0.87) | ↓19% (0.81; 0.72–0.91) |
 | With loperamide + BOOST | ↓3% (0.97; 0.88–1.07) | ↑11% (1.11; 0.99–1.25) |  |
 | 400-mg single dose either orally with BOOST or via an NG tube with BOOST (n=16) | Via NG tubeIn 5 subjects, the Cmax and AUC decreased substantially (range: -27% to -53% and -33% to -51%, respectively) when NOXAFIL was administered via an NG tube compared to when NOXAFIL was administered orally. It is recommended to closely monitor patients for breakthrough fungal infections when NOXAFIL is administered via an NG tube because a lower plasma exposure may be associated with an increase risk of treatment failure. | ↓19% (0.81; 0.71–0.91) | ↓23% (0.77; 0.69–0.86) |
 
@@ -68,7 +68,7 @@ Table 8: The Mean (%CV) [min-max] Posaconazole Steady-State Pharmacokinetic Para
 | DoseOral suspension administration | Cav (ng/mL) | AUCAUC (0–24 hr) for 200 mg TID and AUC (0–12 hr) for 400 mg BID (ng∙hr/mL) | CL/F (L/hr) | V/F (L) | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
 | 200 mg TIDAllogeneic hematopoietic stem cell transplant (HSCT) recipients with graft-versus-host disease (n=252) | 1103 (67) [21.5–3650] | NDNot done The variability in average plasma posaconazole concentrations in patients was relatively higher than that in healthy subjects. | ND | ND | ND |
-| 200 mg TIDNeutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia or myelodysplastic syndromes(n=215) | 583 (65) [89.7–2200] | 15,900 (62) [4100–56,100] | 51.2 (54) [10.7–146] | 2425 (39) [828–5702] | 37.2 (39) [19.1–148] |
+| 200 mg TIDNeutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia or myelodysplastic syndromes (n=215) | 583 (65) [89.7–2200] | 15,900 (62) [4100–56,100] | 51.2 (54) [10.7–146] | 2425 (39) [828–5702] | 37.2 (39) [19.1–148] |
 | 400 mg BIDFebrile neutropenic patients or patients with refractory invasive fungal infections, Cav n=24 (n=23) | 723 (86) [6.70–2256] | 9093 (80) [1564–26,794] | 76.1 (78) [14.9–256] | 3088 (84) [407–13,140] | 31.7 (42) [12.4–67.3] |
 | Note: Cav based on observed data; other pharmacokinetic parameters based on estimates from population pharmacokinetic analyses |  |  |  |  |  |
 
@@ -140,3 +140,15 @@ This may be responsible for the antifungal activity of posaconazole.
 Activity in vitro:
 
 Posaconazole has in vitro activity against Aspergillus fumigatus and Candida albicans, including Candida albicans isolates from patients refractory to itraconazole or fluconazole or both drugs [see Clinical Studies (14), Indications and Usage (1) and Dosage and Administration (2)].
+
+Decreased Susceptibility to Posaconazole:
+
+Clinical isolates of Candida albicans and Candida glabrata with decreased susceptibility to posaconazole were observed in oral swish samples taken during prophylaxis with posaconazole and fluconazole, suggesting a potential for development of resistance.
+These isolates also showed reduced susceptibility to other azoles, suggesting cross-resistance between azoles.
+The clinical significance of this finding is not known.
+
+Susceptibility testing
+
+In vitro susceptibility testing was performed according to the Clinical and Laboratory Standards Institute (CLSI) methods1,2,3,4.
+However, correlation between the results of susceptibility tests and clinical outcome has not been established.
+Posaconazole interpretive criteria (breakpoints) have not been established for any fungus.

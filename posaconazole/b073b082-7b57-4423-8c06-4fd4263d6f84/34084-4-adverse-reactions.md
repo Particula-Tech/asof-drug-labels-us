@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Serious and Otherwise Important Adverse Reactions
 
@@ -96,7 +96,6 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions
 HIV Infected Subjects with OPC: In 2 randomized comparative studies in OPC, the safety of posaconazole at a dose of less than or equal to 400 mg QD in 557 HIV-infected patients was compared to the safety of fluconazole in 262 HIV-infected patients at a dose of 100 mg QD.
 
 An additional 239 HIV-infected patients with refractory OPC received posaconazole in 2 non-comparative trials for refractory OPC (rOPC).
-
 Of these subjects, 149 received the 800-mg/day dose and the remainder received the less than or equal to 400-mg QD dose.
 
 In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea, nausea, headache, and vomiting.

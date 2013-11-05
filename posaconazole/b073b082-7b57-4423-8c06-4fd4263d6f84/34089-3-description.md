@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 NOXAFIL is a triazole antifungal agent available as a suspension for oral administration.
 

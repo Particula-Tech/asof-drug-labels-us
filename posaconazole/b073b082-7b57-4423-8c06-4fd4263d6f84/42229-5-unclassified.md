@@ -2,17 +2,13 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 
 Manuf. by: Patheon Inc., Whitby, Ontario, Canada L1N 5Z5
 
-U.S. Patent Nos. 5,661,151; 5,703,079; and 6,958,337.
+For patent information: www.merck.com/product/patent/home.html
 
 BOOST® is a registered trademark of Société des Produits Nestlé, S.A.
 
-Copyright © 2006, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
+Copyright © 2006, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-All rights reserved.
-
-Revised: 11/2012
-
-056592-POS-SUo-USPI-27
+uspi-mk5592-os-1311r028
 
 PATIENT INFORMATION
 
@@ -25,8 +21,8 @@ Only your doctor can prescribe NOXAFIL and determine if it is right for you.
 
 What is NOXAFIL?
 
-- -NOXAFIL is a prescription medicine that is used to prevent invasive fungal infections (infections that can spread throughout the body) caused by Aspergillus or Candida in patients with weak immune systems because of medicines or diseases [such as stem cell transplantation with graft-vs.-host disease or chemotherapy for hematologic malignancy (blood cancers)].
-- -NOXAFIL is also used to treat fungal infections in the mouth or throat area (known as "thrush") caused by fungi called Candida.
+- NOXAFIL is a prescription medicine that is used to prevent invasive fungal infections (infections that can spread throughout the body) caused by Aspergillus or Candida in patients with weak immune systems because of medicines or diseases [such as stem cell transplantation with graft-vs.-host disease or chemotherapy for hematologic malignancy (blood cancers)].
+- NOXAFIL is also used to treat fungal infections in the mouth or throat area (known as "thrush") caused by fungi called Candida.
   NOXAFIL can be used as initial treatment or as a treatment after itraconazole and/or fluconazole have failed.
 
 NOXAFIL is for adults and children over 13 years of age.
@@ -35,19 +31,19 @@ What should I tell my doctor before taking NOXAFIL?
 
 Tell your doctor about all your health conditions, including if you:
 
-- -are taking certain drugs that suppress your immune system like cyclosporine (Neoral®), or tacrolimus (Prograf®).
-  Serious and rare fatal toxicity from cyclosporine has occurred when taken in combination with posaconazole, and, therefore, reduction of the dose of drugs like cyclosporine or tacrolimus and frequent monitoring of drug levels of these medicines is necessary when taking them in combination with NOXAFIL.
-- -are taking certain drugs for HIV infection, such as ritonavir, atazanavir, efavirenz, or fosamprenavir.
+- are taking certain drugs that suppress your immune system like cyclosporine (Neoral®), or tacrolimus (Prograf®).
+  Serious and rare fatal toxicity from cyclosporine has occurred when taken in combination with posaconazole and, therefore, reduction of the dose of drugs like cyclosporine, or tacrolimus and frequent monitoring of drug levels of these medicines is necessary when taking them in combination with NOXAFIL.
+- are taking certain drugs for HIV infection, such as ritonavir, atazanavir, efavirenz, or fosamprenavir.
   Efavirenz can cause a decrease in NOXAFIL levels in the body, and, therefore, it is recommended that efavirenz should not be administered with NOXAFIL.
   Similarly to efavirenz, fosamprenavir may also decrease levels of NOXAFIL in the body.
-- -are taking midazolam, a hypnotic and sedative medication.
+- are taking midazolam, a hypnotic and sedative medication.
   NOXAFIL in combination with midazolam increases the midazolam plasma concentrations, which could increase and prolong sleepiness.
-- -have ever had an allergic reaction to other antifungal medicines such as ketoconazole, fluconazole, itraconazole, or voriconazole.
-- -are taking any other medicines, including prescription and nonprescription medicines, vitamins, and herbal supplements.
-- - have, or have had, liver problems.
+- have ever had an allergic reaction to other antifungal medicines such as ketoconazole, fluconazole, itraconazole, or voriconazole.
+- are taking any other medicines, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+- have, or have had, liver problems.
   Your doctor may do blood tests to make sure you should take NOXAFIL.
-- -have, or have had, an abnormal heart rate or rhythm.
-- -are, or think you are, pregnant.
+- have, or have had, an abnormal heart rate or rhythm.
+- are, or think you are, pregnant.
   Do not use NOXAFIL during pregnancy unless specifically advised by your doctor.
   You should use effective birth control while you are taking NOXAFIL if you are a woman who could become pregnant.
 
@@ -57,20 +53,23 @@ Do not breastfeed while being treated with NOXAFIL, unless specifically advised 
 
 Who should not take NOXAFIL?
 
-- -Do NOT take NOXAFIL if you are taking any of the medicines listed below.
-  If any of these medicines are taken together with NOXAFIL, serious or life-threatening side effects from these medicines, or a decrease in the effect of NOXAFIL can occur.
-  Tell your doctor right away if you are taking any of these medicines:
-  - sirolimus
-  - ergot alkaloids (ergotamine, dihydroergotamine, methylsergide, methylergonovine, ergonovine, or bromocriptine)
-  - pimozide
-  - quinidine
-  - certain statin medicines (medicines that lower cholesterol), (atorvastatin, lovastatin, and simvastatin)
-  - rifabutin
-  - phenytoin
-  - cimetidine
-- -If you have questions or are uncertain about your medicines, talk with your doctor or pharmacist.
-- -Do not take NOXAFIL if you are allergic to anything in it.
-  There is a list of what is in NOXAFIL at the end of this leaflet.
+Do NOT take NOXAFIL if you are taking any of the medicines listed below.
+If any of these medicines are taken together with NOXAFIL, serious or life-threatening side effects from these medicines, or a decrease in the effect of NOXAFIL can occur.
+Tell your doctor right away if you are taking any of these medicines:
+
+- sirolimus
+- ergot alkaloids (ergotamine, dihydroergotamine, methylsergide, methylergonovine, ergonovine, or bromocriptine)
+- pimozide
+- quinidine
+- certain statin medicines (medicines that lower cholesterol), (atorvastatin, lovastatin, and simvastatin)
+- rifabutin
+- phenytoin
+- cimetidine
+
+If you have questions or are uncertain about your medicines, talk with your doctor or pharmacist.
+
+Do not take NOXAFIL if you are allergic to anything in it.
+There is a list of what is in NOXAFIL at the end of this leaflet.
 
 Can I take other medicines with NOXAFIL?
 
