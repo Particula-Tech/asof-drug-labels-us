@@ -2,8 +2,21 @@
 
 ## 5.1 Increased Risk of Hemorrhage
 
-Cases of epidural or spinal hematomas have been reported with the associated use of Lovenox and spinal/epidural anesthesia or spinal puncture resulting in long-term or permanent paralysis.
+Cases of epidural or spinal hemorrhage and subsequent hematomas have been reported with the use of Lovenox and epidural or spinal anesthesia/analgesia or spinal puncture procedures, resulting in long-term or permanent paralysis.
 The risk of these events is higher with the use of post-operative indwelling epidural catheters, with the concomitant use of additional drugs affecting hemostasis such as NSAIDs, with traumatic or repeated epidural or spinal puncture, or in patients with a history of spinal surgery or spinal deformity [see Boxed Warning, Adverse Reactions (6.2) and Drug Interactions (7)].
+
+To reduce the potential risk of bleeding associated with the concurrent use of enoxaparin sodium and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of enoxaparin [see Clinical Pharmacology (12.3)].
+Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of enoxaparin is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
+
+Placement or removal of a catheter should be delayed for at least 12 hours after administration of lower doses (30 mg once or twice daily or 40 mg once daily) of Lovenox, and at least 24 hours after the administration of higher doses (0.75 mg/kg twice daily, 1 mg/kg twice daily, or 1.5 mg/kg once daily) of Lovenox.
+Anti-Xa levels are still detectable at these time points, and these delays are not a guarantee that neuraxial hematoma will be avoided.
+Patients receiving the 0.75 mg/kg twice daily dose or the1 mg/kg twice daily dose should not receive the second enoxaparin dose in the twice daily regimen to allow a longer delay before catheter placement or removal.
+Likewise, although a specific recommendation for timing of a subsequent Lovenox dose after catheter removal cannot be made, consider delaying this next dose for at least four hours, based on a benefit-risk assessment considering both the risk for thrombosis and the risk for bleeding in the context of the procedure and patient risk factors.
+For patients with creatinine clearance <30mL/minute, additional considerations are necessary because elimination of enoxaparin is more prolonged; consider doubling the timing of removal of a catheter, at least 24 hours for the lower prescribed dose of Lovenox (30 mg once daily) and at least 48 hours for the higher dose (1 mg/kg/day) [see Clinical Pharmacology (12.3)].
+
+Should the physician decide to administer anticoagulation in the context of epidural or spinal anesthesia/analgesia or lumbar puncture, frequent monitoring must be exercised to detect any signs and symptoms of neurological impairment such as midline back pain, sensory and motor deficits (numbness or weakness in lower limbs), bowel and/or bladder dysfunction.
+Instruct patients to report immediately if they experience any of the above signs or symptoms.
+If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis and treatment including consideration for spinal cord decompression even though such treatment may not prevent or reverse neurological sequelae.
 
 Lovenox should be used with extreme caution in conditions with increased risk of hemorrhage, such as bacterial endocarditis, congenital or acquired bleeding disorders, active ulcerative and angiodysplastic gastrointestinal disease, hemorrhagic stroke, or shortly after brain, spinal, or ophthalmological surgery, or in patients treated concomitantly with platelet inhibitors.
 
