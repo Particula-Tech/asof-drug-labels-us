@@ -12,7 +12,7 @@ Tablet identification code format change adopted October, 2000.
 
 Rx only
 
-arbor™ PHARMACEUTICALS, INC.
+arbor™ PHARMACEUTICALS, LLC.
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Bottle Label
 
