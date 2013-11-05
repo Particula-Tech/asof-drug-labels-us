@@ -37,9 +37,9 @@ The pharmacokinetic parameters (mean ± standard deviation) after the last admin
 
 TABLE 2 Multiple Dose Pharmacokinetics
 
-|  | Daily Dosing 8% | Twice Daily Dosing 8% | Every Other Day Dosing 4% | Every Other Day Dosing 8% |
+|  | Assisted Reproductive Technology |  | Secodary Amenorrhea |  |
 | --- | --- | --- | --- | --- |
-|  | Assisted Reproductive Technology |  | Secondary Amenorrhea |  |
+| Daily Dosing 8% | Twice Daily Dosing 8% | Every Other Day Dosing 4% | Every Other Day Dosing 8% |  |
 | Cmax (ng/mL) | 15.97± 5.05 | 14.57 ± 4.49 | 13.21± 9.46 | 13.67 ± 3.58 |
 | Cavg (ng/mL) | 8.99 ± 3.53 | 11.6 ± 3.47 | 4.05 ± 2.85 | 6.75 ± 2.83 |
 | Tmax (hr) | 5.40 ± 0.97 | 3.55 ± 2.48 | 6.67 ± 3.16 | 7.00 ± 2.88 |

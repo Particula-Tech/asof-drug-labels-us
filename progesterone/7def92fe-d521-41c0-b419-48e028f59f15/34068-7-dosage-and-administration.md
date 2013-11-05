@@ -13,7 +13,3 @@ For women who fail to respond, a trial of Crinone 8% every other day up to a tot
 
 It is important to note that a dosage increase from the 4% gel can only be accomplished by using the 8% gel.
 Increasing the volume of gel administered does not increase the amount of progesterone absorbed.
-
-SEE Crinone PATIENT INFORMATION SHEET - HOW TO USE Crinone.
-
-Note: The PATIENT INFORMATION SHEET contains special instructions for using the applicator at altitudes above 2500 feet in order to avoid a partial release of Crinone before vaginal insertion.

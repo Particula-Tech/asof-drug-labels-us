@@ -37,7 +37,7 @@ The effect of Crinone on fertility has not been evaluated in animals.
 
 ## Pregnancy
 
-(See CLINICAL STUDIES)
+(See CLINICAL STUDIES, Assisted Reproductive Technology)
 
 Crinone 8% has been used to support embryo implantation and maintain pregnancies through its use as part of ART treatment regimens in two clinical studies (studies COL1620-007US and COL1620-F01).
 In the first study (COL1620-007US), 54 Crinone-treated women had donor oocyte transfer procedures, and clinical pregnancies occurred in 26 women (48%).

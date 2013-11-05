@@ -15,14 +15,14 @@ Sixty-one women received Crinone 8% as part of the Pilot Cycle to determine thei
 Of the 55 evaluable endometrial biopsies in the Crinone 8% group performed on Day 25 - 27, all were histologically "in-phase", consistent with luteal phase biopsy specimens of menstruating women at comparable time intervals.
 Fifty-four women who received Crinone 8% and had a histologically "in-phase" biopsy received a donor oocyte transfer.
 Among these 54 Crinone-treated women, clinical pregnancies (assessed about week 10 after transfer by clinical examination, ultrasound and/or ß-hCG levels) occurred in 26 women (48%).
-In these 26 women, 17 women (31%) delivered a total of 25 newborns, seven women (13%) had spontaneous abortions and two women (4%) had elective abortions.
+Seventeen women (31%) delivered a total of 25 newborns, seven women (13%) had spontaneous abortions and two women (4%) had elective abortions.
 
 In a second study (COL1620-F01), Crinone 8% was used in luteal phase support of women with tubal or idiopathic infertility due to endometriosis and normal ovulatory cycles, undergoing in vitro fertilization ("IVF") procedures.
 All women received a GnRH analog to suppress endogenous progesterone, human menopausal gonadotropins, and human chorionic gonadotropin.
 In this multi-center, open-label study, 139 women (aged 22-38 years) received Crinone 8% once daily beginning within 24 hours of embryo transfer and continuing through Day 30 post-transfer.
 Clinical pregnancies assessed at Day 90 post-transfer were seen in 36 (26%) of women.
 Thirty-two women (23%) delivered newborns and four women (3%) had spontaneous abortions.
-(See PRECAUTIONS, subsection Pregnancy)
+(See PRECAUTIONS, Pregnancy)
 
 ## Secondary Amenorrhea
 

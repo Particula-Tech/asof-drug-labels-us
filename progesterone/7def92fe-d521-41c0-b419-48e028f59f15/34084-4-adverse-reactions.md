@@ -56,7 +56,7 @@ TABLE 4 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Crinone 8
 In three studies, 127 women with secondary amenorrhea received estrogen replacement therapy and Crinone 4% or 8% every other day for six doses.
 Treatment emergent adverse events during estrogen and Crinone treatment that occurred in 5% or more of women are shown in Table 5.
 
-TABLE 5 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Estrogen Treatment and Crinone Every Other Day Studies COL1620-004US, COL1620-005US, COL1620-009US
+TABLE 5 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Estrogen Treatment and Crinone Every Other Day Studies COL1620-0040US, COL1620-005US, COL1620-009US
 
 |  | Estrogen + Crinone 4% n = 62 | Estrogen + Crinone 8% n = 65 |
 | --- | --- | --- |
@@ -83,39 +83,3 @@ TABLE 5 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Estrogen 
 | Upper Respiratory Tract Infection | 3 (5%) | 5 (8%) |
 | Skin and Appendages |  |  |
 | Pruritus Genital | 1 (2%) | 4 (6%) |
-
-Additional adverse events reported in women at a frequency < 5% in Crinone ART and secondary amenorrhea studies and not listed in the tables above include:
-
-Autonomic Nervous System–mouth dry, sweating increased
-
-Body as a Whole–abnormal crying, allergic reaction, allergy, appetite decreased, asthenia, edema, face edema, fever, hot flushes, influenza-like symptoms, water retention, xerophthalmia
-
-Cardiovascular, General–syncope
-
-Central and Peripheral Nervous System–migraine, tremor
-
-Gastro-Intestinal–dyspepsia, eructation, flatulence, gastritis, toothache
-
-Metabolic and Nutritional–thirst
-
-Musculo-Skeletal System–cramps legs, leg pain, skeletal pain
-
-Neoplasm–benign cyst
-
-Platelet, Bleeding & Clotting–purpura
-
-Psychiatric–aggressive reactions, forgetfulness, insomnia
-
-Red Blood Cell–anemia
-
-Reproductive, Female–dysmenorrhea, premenstrual tension, vaginal dryness
-
-Resistance Mechanism–infection, pharyngitis, sinusitis, urinary tract infection
-
-Respiratory System–asthma, dyspnea, hyperventilation, rhinitis
-
-Skin and Appendages–acne, pruritus, rash, seborrhea, skin discoloration, skin disorder, urticaria
-
-Urinary System–cystitis, dysuria, micturition frequency
-
-Vision Disorders–conjunctivitis
