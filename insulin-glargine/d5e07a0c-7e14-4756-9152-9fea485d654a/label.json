@@ -7,14 +7,18 @@
   "package_ndcs": [
     "0088-2219-00",
     "0088-2219-05",
-    "0088-2220-33",
-    "0088-2220-52"
+    "0088-2220-33"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "insulin glargine",
       "name": "Lantus"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine",
+      "name": "Lantus Solostar"
     }
   ],
   "setid": "d5e07a0c-7e14-4756-9152-9fea485d654a",

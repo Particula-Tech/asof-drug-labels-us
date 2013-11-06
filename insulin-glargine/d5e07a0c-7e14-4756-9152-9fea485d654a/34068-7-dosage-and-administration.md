@@ -35,7 +35,7 @@ The dosage of LANTUS should be individualized under the supervision of a healthc
 
 ## 2.3 Converting to LANTUS from other insulin therapies
 
-If changing from a treatment regimen with an intermediate- or long-acting insulin to a regimen with LANTUS, the amount and timing of shorter-acting insulins and doses of any oral anti-diabetic drugs may need to be adjusted.
+If changing from a treatment regimen with an intermediate-or long-acting insulin to a regimen with LANTUS, the amount and timing of shorter-acting insulins and doses of any oral anti-diabetic drugs may need to be adjusted.
 
 - If transferring patients from once-daily NPH insulin to once-daily LANTUS, the recommended initial LANTUS dose is the same as the dose of NPH that is being discontinued.
 - If transferring patients from twice-daily NPH insulin to once-daily LANTUS, the recommended initial LANTUS dose is 80% of the total NPH dose that is being discontinued.

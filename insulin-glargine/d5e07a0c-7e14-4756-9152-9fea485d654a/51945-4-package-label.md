@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 10 mL-1 Count Vial Label
+# PRINCIPAL DISPLAY PANEL - 10 mL-1 Count Vial Label
 
 NDC 0088-2220-33
 
@@ -10,7 +10,7 @@ Rx ONLY Origin Germany 50098133
 
 <MAT>512767
 
-PRINCIPAL DISPLAY PANEL - 10 mL-1 Count Vial Carton
+# PRINCIPAL DISPLAY PANEL - 10 mL-1 Count Vial Carton
 
 NDC 0088-2220-33 Rx ONLY
 
@@ -30,73 +30,7 @@ Use with U-100 syringe only
 
 SANOFI
 
-PRINCIPAL DISPLAY PANEL - 3 mL Cartridge
-
-Lot
-
-Exp
-
-NDC 0088-2220-01
-
-100units/mL (U-100)
-
-Lantus®
-
-insulin glargine (rDNA origin) injection
-
-FOR USE WITH OPTICLIK® DEVICE
-
-DO NOT MIX WITH OTHER INSULINS
-
-FOR SUBCUTANEOUS INJECTION ONLY
-
-STORE REFRIGERATED — DO NOT FREEZE
-
-One 3mL Cartridge System Rx ONLY
-
-sanofi aventis U.S. LLC
-
-Origin Germany ©2007 50085703
-
-PRINCIPAL DISPLAY PANEL - 3 mL-5 Count
-
-NDC 0088-2220-52
-
-Lantus®
-
-insulin glargine (rDNA origin) injection
-
-100units/mL (U-100)
-
-FOR USE ONLY IN OPTICLIK® INSULIN DELIVERY DEVICE
-
-DO NOT MIX WITH OTHER INSULINS
-
-FOR SUBCUTANEOUS INJECTION ONLY
-
-USE ONLY IF SOLUTION IS CLEAR AND COLORLESS WITH NO PARTICLES VISIBLE
-
-Rx ONLY
-
-Five 3mL Cartridge Systems
-
-sanofi aventis
-
-PRINCIPAL DISPLAY PANEL - OptiClik Pen
-
-- Digital Dose Display
-- Tactile Grip Features
-- Handy Pen Clip
-- Cartridge Release Button
-- Protective Carry Case
-
-8313-2220-99
-
-OptiClik®
-
-sanofi aventis
-
-PRINCIPAL DISPLAY PANEL - LantusSoloStar 3mL-5 Count Label
+# PRINCIPAL DISPLAY PANEL - LantusSoloStar 3mL-5 Count Label
 
 Lot
 
@@ -112,7 +46,7 @@ Do not mix with other insulins For subcutaneous injection only Use within 28 day
 
 SANOFI
 
-PRINCIPAL DISPLAY PANEL - LantusSoloStar 3mL-5 Count Carton
+# PRINCIPAL DISPLAY PANEL - LantusSoloStar 3mL-5 Count Carton
 
 NDC 0088-2219-05
 

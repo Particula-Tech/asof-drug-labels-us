@@ -1,10 +1,9 @@
 # 14. CLINICAL STUDIES
 
-The safety and effectiveness of LANTUS given once-daily at bedtime was compared to that of once-daily and twice-daily NPH insulin in open-label, randomized, active-controlled, parallel studies of 2,327 adult patients and 349 pediatric patients with type 1 diabetes mellitus and 1,563 adult patients with type 2 diabetes mellitus (see Tables 8–11).
-In general, the reduction in glycated hemoglobin (HbA1c) with LANTUS was similar to that with NPH insulin.
+The safety and effectiveness of LANTUS given once-daily at bedtime was compared to that of once-daily and twice-daily NPH insulin in open-label, randomized, active-controlled, parallel studies of 2,327 adult patients and 349 pediatric patients with type 1 diabetes mellitus and 1,563 adult patients with type 2 diabetes mellitus (see Tables 9–11), In general, the reduction in glycated hemoglobin (HbA1c) with LANTUS was similar to that with NPH insulin.
 The overall rates of hypoglycemia did not differ between patients with diabetes treated with LANTUS compared to NPH insulin [See Adverse Reactions (6.1)].
 
-Type 1 Diabetes–Adult (see Table 8).
+Type 1 Diabetes–Adult (see Table 11).
 
 In two clinical studies (Studies A and B), patients with type 1 diabetes (Study A; n=585, Study B; n=534) were randomized to 28 weeks of basal-bolus treatment with LANTUS or NPH insulin.
 Regular human insulin was administered before each meal.
@@ -15,9 +14,9 @@ In another clinical study (Study C), patients with type 1 diabetes (n=619) were 
 Insulin lispro was used before each meal.
 LANTUS was administered once daily at bedtime and NPH insulin was administered once or twice daily.
 
-In these 3 studies, LANTUS and NPH insulin had similar effects on HbA1c (Table 8) with a similar overall rate of hypoglycemia [See Adverse Reactions (6.1)].
+In these 3 studies, LANTUS and NPH insulin had similar effects on HbA1c (Table 11) with a similar overall rate of hypoglycemia [See Adverse Reactions (6.1)].
 
-Table 8: Type 1 Diabetes Mellitus–Adult
+Table 11: Type 1 Diabetes Mellitus–Adult
 
 |  | LANTUS | NPH | LANTUS | NPH | LANTUS | NPH |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -42,13 +41,13 @@ Table 8: Type 1 Diabetes Mellitus–Adult
 | Baseline mean | 73.2 | 74.8 | 75.5 | 75.0 | 74.8 | 75.6 |
 | Mean change from baseline | 0.1 | -0.0 | 0.7 | 1.0 | 0.1 | 0.5 |
 
-Type 1 Diabetes–Pediatric (see Table 9).
+Type 1 Diabetes–Pediatric (see Table 12).
 
 In a randomized, controlled clinical study (Study D), pediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal.
 LANTUS was administered once daily at bedtime and NPH insulin was administered once or twice daily.
-Similar effects on HbA1c (Table 9) and the incidence of hypoglycemia were observed in both treatment groups [See Adverse Reactions (6.1)].
+Similar effects on HbA1c (Table 12) and the incidence of hypoglycemia were observed in both treatment groups [See Adverse Reactions (6.1)].
 
-Table 9: Type 1 Diabetes Mellitus–Pediatric
+Table 12: Type 1 Diabetes Mellitus–Pediatric
 
 |  | LANTUS | NPH |
 | --- | --- | --- |
@@ -74,15 +73,15 @@ Table 9: Type 1 Diabetes Mellitus–Pediatric
 | Baseline mean | 45.5 | 44.6 |
 | Mean change from baseline | 2.2 | 2.5 |
 
-Type 2 Diabetes–Adult (see Table 10).
+Type 2 Diabetes–Adult (see Table 13).
 
 In a randomized, controlled clinical study (Study E) (n=570), LANTUS was evaluated for 52 weeks in combination with oral anti-diabetic medications (a sulfonylurea, metformin, acarbose, or combinations of these drugs).
-LANTUS administered once daily at bedtime was as effective as NPH insulin administered once daily at bedtime in reducing HbA1c and fasting glucose (Table 10).
+LANTUS administered once daily at bedtime was as effective as NPH insulin administered once daily at bedtime in reducing HbA1c and fasting glucose (Table 13).
 The rate of hypoglycemia was similar in LANTUS and NPH insulin treated patients [See Adverse Reactions (6.1)].
 
 In a randomized, controlled clinical study (Study F), in patients with type 2 diabetes not using oral anti-diabetic medications (n=518), a basal-bolus regimen of LANTUS once daily at bedtime or NPH insulin administered once or twice daily was evaluated for 28 weeks.
 Regular human insulin was used before meals, as needed.
-LANTUS had similar effectiveness as either once- or twice-daily NPH insulin in reducing HbA1c and fasting glucose (Table 10) with a similar incidence of hypoglycemia [See Adverse Reactions (6.1)].
+LANTUS had similar effectiveness as either once- or twice-daily NPH insulin in reducing HbA1c and fasting glucose (Table 13) with a similar incidence of hypoglycemia [See Adverse Reactions (6.1)].
 
 In a randomized, controlled clinical study (Study G), patients with type 2 diabetes were randomized to 5 years of treatment with once-daily LANTUS or twice-daily NPH insulin.
 For patients not previously treated with insulin, the starting dose of LANTUS or NPH insulin was 10 units daily.
@@ -92,11 +91,11 @@ HbA1c change from baseline was a secondary endpoint.
 Similar glycemic control in the 2 treatment groups was desired in order to not confound the interpretation of the retinal data.
 Patients or study personnel used an algorithm to adjust the LANTUS and NPH insulin doses to a target fasting plasma glucose ≤100 mg/dL.
 After the LANTUS or NPH insulin dose was adjusted, other anti-diabetic agents, including pre-meal insulin were to be adjusted or added.
-The LANTUS group had a smaller mean reduction from baseline in HbA1c compared to the NPH insulin group, which may be explained by the lower daily basal insulin doses in the LANTUS group (Table 10).
+The LANTUS group had a smaller mean reduction from baseline in HbA1c compared to the NPH insulin group, which may be explained by the lower daily basal insulin doses in the LANTUS group (Table 13).
 Both treatment groups had a similar incidence of reported symptomatic hypoglycemia.
 The incidences of severe symptomatic hypoglycemia are given in Table 6 [See Adverse Reactions (6.1)].
 
-Table 10: Type 2 Diabetes Mellitus–Adult
+Table 13: Type 2 Diabetes Mellitus–Adult
 
 |  | LANTUS | NPH | LANTUS | NPH | LANTUS | NPH |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -122,11 +121,11 @@ Table 10: Type 2 Diabetes Mellitus–Adult
 | Baseline mean | 83.5 | 82.1 | 89.6 | 90.7 | 100 | 99 |
 | Adj. mean change from baseline | 2.0 | 1.9 | 0.4 | 1.4 | 3.7 | 4.8 |
 
-LANTUS Timing of Daily Dosing (see Table 11).
+LANTUS Timing of Daily Dosing (see Table 14).
 
 The safety and efficacy of LANTUS administered pre-breakfast, pre-dinner, or at bedtime were evaluated in a randomized, controlled clinical study in patients with type 1 diabetes (study H, n=378).
 Patients were also treated with insulin lispro at mealtime.
-LANTUS administered at different times of the day resulted in similar reductions in HbA1c compared to that with bedtime administration (see Table 11).
+LANTUS administered at different times of the day resulted in similar reductions in HbA1c compared to that with bedtime administration (see Table 14).
 In these patients, data are available from 8-point home glucose monitoring.
 The maximum mean blood glucose was observed just prior to injection of LANTUS regardless of time of administration.
 
@@ -134,9 +133,9 @@ In this study, 5% of patients in the LANTUS-breakfast arm discontinued treatment
 No patients in the other two arms discontinued for this reason.
 The safety and efficacy of LANTUS administered pre-breakfast or at bedtime were also evaluated in a randomized, active-controlled clinical study (Study I, n=697) in patients with type 2 diabetes not adequately controlled on oral anti-diabetic therapy.
 All patients in this study also received glimepiride 3 mg daily.
-LANTUS given before breakfast was at least as effective in lowering HbA1c as LANTUS given at bedtime or NPH insulin given at bedtime (see Table 11).
+LANTUS given before breakfast was at least as effective in lowering HbA1c as LANTUS given at bedtime or NPH insulin given at bedtime (see Table 14).
 
-Table 11: LANTUS Timing of Daily Dosing in Type 1 (Study H) and Type 2 (Study I) Diabetes Mellitus
+Table 14: LANTUS Timing of Daily Dosing in Type 1 (Study H) and Type 2 (Study I) Diabetes Mellitus
 
 |  | LANTUS Breakfast | LANTUS Dinner | LANTUS Bedtime | LANTUS Breakfast | LANTUS Bedtime | NPH Bedtime |
 | --- | --- | --- | --- | --- | --- | --- |

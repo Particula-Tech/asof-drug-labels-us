@@ -66,3 +66,10 @@ Although studies have not been performed in patients with diabetes and hepatic i
 ## 5.7 Drug interactions
 
 Some medications may alter insulin requirements and subsequently increase the risk for hypoglycemia or hyperglycemia [See Drug Interactions (7)].
+
+## 5.8 Fluid retention and heart failure with concomitant use of PPAR-gamma agonists
+
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
+Fluid retention may lead to or exacerbate heart failure.
+Patients treated with insulin, including LANTUS, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.

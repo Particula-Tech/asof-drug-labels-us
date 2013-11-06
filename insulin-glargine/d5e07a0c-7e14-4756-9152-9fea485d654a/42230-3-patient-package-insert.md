@@ -72,6 +72,9 @@ Before starting LANTUS, tell your healthcare provider about all your medical con
   Many medicines, including insulin, pass into human milk, and could affect your baby.
   Talk to your healthcare provider about the best way to feed your baby.
 - about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
+- if you take any other medicines, especially ones commonly called TZDs (thiazolidinediones).
+- if you have heart failure or other heart problems.
+  If you have heart failure, it may get worse while you take TZDs with Lantus.
 
 How should I use LANTUS?
 
@@ -155,7 +158,7 @@ Follow these steps:
    Leave the needle in the skin for about 10 seconds.
 5. Pull the needle straight out and gently press on the spot where you injected yourself for several seconds.
    Do not rub the area.
-6. Follow your healthcare providers instructions for throwing away the used needle and syringe.
+6. Follow your healthcare provider's instructions for throwing away the used needle and syringe.
    Do not recap the used needle.
    Used needle and syringe should be placed in sharps containers (such as red biohazard containers), hard plastic containers (such as detergent bottles), or metal containers (such as an empty coffee can).
    Such containers should be sealed and disposed of properly.
@@ -341,6 +344,23 @@ You can reduce the chance of getting an injection site reaction if you change (r
 An injection site reaction should clear up in a few days or a few weeks.
 If injection site reactions do not go away or keep happening, call your healthcare provider.
 
+Swelling of your hands and feet (edema)
+
+Weight gain
+
+Heart Failure.
+Taking certain diabetes pills called thiazolidinediones or "TZDs" with Lantus may cause heart failure in some people.
+This can happen even if you have never had heart failure or heart problems before.
+If you already have heart failure it may get worse while you take TZDs with Lantus.
+Your healthcare provider should monitor you closely while you are taking TZDs with Lantus.
+Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
+
+- shortness of breath
+- swelling of your ankles or feet
+- sudden weight gain
+
+During treatment with TZDs and Lantus, the TZD dose may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
+
 Tell your healthcare provider if you have any side effects that bother you.
 
 These are not all the side effects of LANTUS.
@@ -383,8 +403,8 @@ To get more information about diabetes, check with your healthcare professional 
 Additional information about LANTUS can be obtained by calling 1-800-633-1610 or by visiting www.lantus.com.
 
 Rev.
-March 2007
+October 2013
 
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-©2007 sanofi-aventis U.S. LLC
+©2013 sanofi-aventis U.S. LLC
