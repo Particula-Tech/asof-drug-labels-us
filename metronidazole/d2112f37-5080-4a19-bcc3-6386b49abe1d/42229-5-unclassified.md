@@ -26,17 +26,9 @@ Do not add supplementary medication.
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
-Baxter Healthcare Corporation Deerfield, IL 60015 USA
-
-Printed in USA
-
-*BAR CODE POSITION ONLY 071969157
-
-©Copyright 1990, 1993, Baxter Healthcare Corporation.
-
-All rights reserved.
+Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
 Baxter and Viaflex are registered trademarks of Baxter International Inc. ATCC is a registered trademark of the American Type Culture Collection
 
-07-19-69-157 Rev.
-June 2012
+07-19-67-812 Rev.
+Oct 2013

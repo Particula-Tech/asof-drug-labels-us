@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Metronidazole Injection, USP, is a parenteral dosage form of the synthetic antibacterial agent 1-(ß-hydroxyethyl)-2-methyl-5-nitroimidazole.
+Metronidazole Injection, USP, is a parenteral formulation of the synthetic nitroimidazole antibacterial agent 2-methyl-5-nitro-1H-imidazole-1-ethanol.
 
 Metronidazole Injection, USP, in 100 mL VIAFLEX Plus single dose plastic container, is a sterile, nonpyrogenic, iso-osmotic, buffered solution of 500 mg Metronidazole, USP, 790 mg Sodium Chloride, USP, 47.6 mg Dibasic Sodium Phosphate Dried, USP and 22.9 mg Citric Acid Anhydrous, USP.
 Metronidazole Injection, USP has an osmolarity of 310 mOsmol/L (calc) and a pH of 5.5 (4.5 to 7.0).

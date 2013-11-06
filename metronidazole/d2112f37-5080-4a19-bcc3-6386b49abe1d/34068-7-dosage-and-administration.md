@@ -1,8 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-In elderly patients the pharmacokinetics of metronidazole may be altered and therefore monitoring of serum levels may be necessary to adjust the metronidazole dosage accordingly.
-
-## Treatment of Anaerobic Infections
+## Treatment of Anaerobic Bacterial Infections
 
 The recommended dosage schedule for adults is:
 
@@ -11,19 +9,23 @@ The recommended dosage schedule for adults is:
 | Maintenance Dose | 7.5 mg/kg infused over one hour every six hours (approximately 500 mg for a 70-kg adult). The first maintenance dose should be instituted six hours following the initiation of the loading dose. |
 
 Parenteral therapy may be changed to oral metronidazole when conditions warrant, based upon the severity of the disease and the response of the patient to Metronidazole Injection, USP treatment.
-The usual adult oral dosage is 7.5 mg/kg every six hours.
+The usual adult oral dosage is 7.5 mg/kg every six hours (approximately 500 mg for a 7-kg adult).
 
 A maximum of 4 g should not be exceeded during a 24-hour period.
 
-Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in the plasma.
-Accordingly, for such patients, doses below those usually recommended should be administered cautiously.
-Close monitoring of plasma metronidazole levels3 and toxicity is recommended.
-
-In patients receiving Metronidazole Injection, USP in whom gastric secretions are continuously removed by nasogastric aspiration, sufficient metronidazole may be removed in the aspirate to cause a reduction in serum levels.
-
-The dose of Metronidazole Injection, USP should not be specifically reduced in anuric patients since accumulated metabolites may be rapidly removed by dialysis.
-
 The usual duration of therapy is 7 to 10 days; however, infections of the bone and joint, lower respiratory tract and endocardium may require longer treatment.
+
+## Dosage Adjustments
+
+## Patients with Severe Hepatic Impairment
+
+For patients with severe hepatic impairment (Child-Pugh C), the metronidazole dose should be reduced by 50% (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
+
+## Patients Undergoing Hemodialysis
+
+Hemodialysis removes significant amounts of metronidazole and its metabolites from systemic circulation.
+The clearance of metronidazole will depend on the type of dialysis membrane used, the duration of the dialysis session, and other factors.
+If the administration of metronidazole cannot be separated from a hemodialysis session, supplementation of metronidazole dosage following a hemodialysis session should be considered, depending on the patient’s clinical situation (see CLINICAL PHARMACOLOGY).
 
 ## Prophylaxis
 

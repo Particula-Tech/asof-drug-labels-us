@@ -6,20 +6,14 @@ NDC 0338-1055-48
 
 Metronidazole Metronidazole Injection USP
 
-500 mg per 100 mL (5 mg / mL)
+500 mg per 100 mL
 
-100 mL STERILE SINGLE DOSE CONTAINER EACH 100 mL CONTAINS 500 mg METRONIDAZOLE USP 790 mg SODIUM CHLORIDE USP 47.6 mg DIBASIC SODIUM PHOSPHATE DRIED USP 22.9 mg CITRIC ACID ANHYDROUS USP pH 5.5 (4.5 to 7.0) OSMOLARITY 310 mOsmol/L (CALC) USUAL DOSAGE SEE INSERT DO NOT ADD SUPPLEMENTARY MEDICATION STORE IN MOISTURE BARRIER OVERWRAP AT ROOM TEMPERATURE (77ºF or 25ºC) Rx Only
+(5 mg / mL)
 
-Baxter logo USA 2B3421
+100 mL Sterile single dose Container
 
-Lot: P123456 QTY: 24-100 mL
+Each 100 mL contains 500 mg Metronidazole USP 790 mg Sodium Chloride USP 47.6 mg Dibasic Sodium Phosphate Dried USP 22.9 mg Citric Acid Anhydrous USP pH 5.5 (4.5 to 7.0) Osmolarity 310 mOsmol/L (calc) Usual Dosage See Insert Do not add supplementary medication Store in moisture barrier overwrap at room temperature (77°F or 25°C) Rx Only
 
-Exp: JAN00 Code: 2B3421
+Baxter Logo USA 2B3421
 
-NDC: 0338-1055-48
-
-METRONIDAZOLE INJ 500MG / 100 mL
-
-(17)000100(10)P123456
-
-(01) 50303381055481
+Carton Label - not available at this time; will be included in final, approved version
