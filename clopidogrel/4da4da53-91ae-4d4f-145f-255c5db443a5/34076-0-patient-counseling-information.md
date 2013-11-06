@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See Medication Guide (17.6)]
+[See Medication Guide]
 
 ## 17.1 Benefits and Risks
 
@@ -30,4 +30,4 @@ Instruct patients to:
 
 ## 17.5 Concomitant Medications
 
-Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take, including prescription or over-the-counter proton pump inhibitors (e.g., omeprazole), warfarin, or NSAIDs [see Warnings and Precautions (5)].
+Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take, including prescription or over-the-counter proton pump inhibitors (e.g., omeprazole), warfarin or NSAIDs [see Warnings and Precautions (5)].
