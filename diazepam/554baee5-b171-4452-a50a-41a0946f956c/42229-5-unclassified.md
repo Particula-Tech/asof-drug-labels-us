@@ -24,22 +24,18 @@ Withdrawal symptoms of the barbiturate type have occurred after the discontinuat
 
 Distributed by:
 
-Roche Pharmaceuticals
+Genentech USA, Inc.
 
-Roche Laboratories Inc.
+A Member of the Roche Group
 
-340 Kingsland Street
+1 DNA Way
 
-Nutley, New Jersey 07110-1199
-
-for Roche Products Inc.
+South San Francisco, CA 94080-4990
 
 27899464
 
-Revised: January 2008
+Revised: October 2013
 
-Printed in USA
-
-Copyright© 1987-2008 by Roche Products Inc. All rights reserved.
+© 2013 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
