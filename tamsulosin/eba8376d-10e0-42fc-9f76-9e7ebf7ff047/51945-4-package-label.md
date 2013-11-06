@@ -29,19 +29,7 @@ Store at 25oC (77oF); excursions permitted 15o to 30oC (59o to 86oF) [see USP Co
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Jointly Manufactured by
-
-Catalent Pharma Solutions
-
-F-67930 Beinheim, France
-
-D-73614 Schorndorf, Germany
-
-and Rottendorf Pharma GmbH
-
-D-59320 Ennigerloh, Germany
-
-Distributed by GlaxoSmithKline
+Manufactured for: GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
@@ -49,5 +37,5 @@ Made in Germany
 
 JALYN is a trademark of GlaxoSmithKline.
 
-A285187 Rev.
-6/10
+A394780 Rev.
+7/13
