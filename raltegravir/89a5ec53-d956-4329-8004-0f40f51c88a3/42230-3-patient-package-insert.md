@@ -38,6 +38,8 @@ What should I tell my doctor before taking ISENTRESS?
 Before taking ISENTRESS, tell your doctor if you:
 
 - have liver problems.
+- take antacids.
+  Certain antacids (those containing aluminum and/or magnesium) are not recommended with ISENTRESS.
 - have phenylketonuria (PKU).
   ISENTRESS Chewable Tablets contain phenylalanine as part of the artificial sweetener, aspartame.
   The artificial sweetener may be harmful to people with PKU.
@@ -58,6 +60,9 @@ ISENTRESS may affect the way other medicines work and other medicines may affect
 
 Especially tell your doctor if you take:
 
+- antacids.
+  It is not recommended to take ISENTRESS with certain antacids (those containing aluminum and/or magnesium).
+  Talk to your doctor about other antacids you can take.
 - rifampin (Rifadin, Rifamate, Rifater, Rimactane), a medicine commonly used to treat tuberculosis.
 
 Ask your doctor or pharmacist if you are not sure whether any of your medicines are included in the list above.

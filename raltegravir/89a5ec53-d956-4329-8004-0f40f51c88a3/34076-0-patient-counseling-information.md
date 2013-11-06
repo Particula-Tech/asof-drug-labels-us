@@ -23,6 +23,8 @@ Physicians should instruct their patients that if they miss a dose, they should 
 If they do not remember until it is time for the next dose, they should be instructed to skip the missed dose and go back to the regular schedule.
 Patients should not double their next dose or take more than the prescribed dose.
 
+Physicians should instruct their patients not to take ISENTRESS with aluminum and/or magnesium containing antacids [see Drug Interactions (7.2)].
+
 Patients should be informed that the chewable tablet forms can be chewed or swallowed whole, but the film-coated tablets should only be swallowed whole.
 
 Physicians should alert patients with phenylketonuria that ISENTRESS Chewable Tablets contain phenylalanine [see Warnings and Precautions (5.3)].
