@@ -1,212 +1,223 @@
 # PATIENT INFORMATION
 
-PATIENT INFORMATION
+Activella® (AK-ti-vel-la)
 
-(December 2006)
+(estradiol/norethindrone acetate)
 
-Activella®
+Tablets
 
-(estradiol/norethindrone acetate) tablets
-
-1.0 mg/0.5 mg
-
-0.5 mg/0.1 mg
-
-Read this Patient Information leaflet before you start taking Activella and read what you get each time you refill Activella.
+Read this Patient Information before you start taking Activella and each time you get a refill.
 There may be new information.
-This information does not take the place of talking to your health care provider about your medical condition or your treatment.
+This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-What is Activella ?
+| What is the most important information I should know about Activella (a combination of estrogen and progestin)? •Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline of brain function).•Taking estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.•Taking estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia.•Taking estrogen-alone may increase your chance of getting cancer of the uterus (womb).•Taking estrogen-alone may increase your chances of getting strokes or blood clots.•Taking estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.•You and your healthcare provider should talk regularly about whether you still need treatment with Activella. |
+| --- |
 
-Activella is a medicine that contains estrogen and progestin hormones.
+What is Activella?
+
+Activella is a prescription medicine that contains two kinds of hormones, an estrogen and a progestin.
 
 What is Activella used for?
 
 Activella is used after menopause to:
 
-- •Reduce moderate to severe hot flashes
+- •reduce moderate to severe hot flushes
 
 Estrogens are hormones made by a woman’s ovaries.
-The ovaries normally stop making estrogens when a woman is between 45 to 55 yrs old.
-This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
-Sometimes, both ovaries are removed during an operation before natural menopause takes place.
+The ovaries normally stop making estrogens when a woman is between 45 and 55 yrs old.
+This drop in body estrogen levels causes the “change of life” or menopause, the end of monthly menstrual periods.
+Sometimes both ovaries are removed during an operation before natural menopause takes place.
 The sudden drop in estrogen levels causes “surgical menopause.”
 
-When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
-In some women, the symptoms are mild, and they will not need estrogens.
+When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden, intense episodes of heat and sweating (“hot flashes” or “hot flushes”).
+In some women, the symptoms are mild, and they will not need to take estrogens.
 In other women, symptoms can be more severe.
-You and your health care provider should talk regularly about whether you still need treatment with Activella.
+You and your healthcare provider should talk regularly about whether or not you still need treatment with Activella.
 
-- •Help reduce your chances of getting osteoporosis (thin weak bones)
+- •treat moderate to severe menopausal changes in and around the vagina
 
-Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
-If you use Activella only to prevent osteoporosis from menopause, talk with your health care provider about whether a different treatment or medicine without estrogens might be better for you.
-You and your health care provider should talk regularly about whether you should continue with Activella.
+You and your healthcare provider should talk regularly about whether you still need treatment with Activella 1.0 mg/0.5 mg to treat these problems.
+If you use Activella 1.0 mg/0.5 mg only to treat your menopausal changes in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
 
-Weight-bearing exercises, like walking or running, and taking calcium and vitamin D supplements may also lower your chances of getting postmenopausal osteoporosis.
-It is important to talk about exercise and supplements with your health care provider before starting them.
+- •help reduce your chances of getting osteoporosis (thin weak bones)
 
-Activella 1.0 mg/0.5 mg is also used after menopause to:
+If you use Activella only to prevent osteoporosis from menopause, talk to your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
 
-- •Treat moderate to severe dryness, itching, and burning in or around the vagina
-
-You and your health care provider should talk regularly about whether you still need treatment with Activella 1.0 mg/0.5 mg to control these problems.
-If you use Activella 1.0 mg/0.5 mg only to treat your dryness, itching, and burning in and around your vagina, talk with your health care provider about whether a topical vaginal product would be better for you.
+You and your healthcare provider should talk regularly about whether you still need treatment with Activella.
 
 Who should not take Activella?
 
-Do Not Take Activella If You Have Had Your Uterus Removed (hysterectomy)
+Do not take Activella if you have had your uterus (womb) removed (hysterectomy).
 
-Activella contains a progestin to decrease the chances of getting cancer of the uterus.
+Activella contains a progestin to decrease the chance of getting cancer of the uterus.
 If you do not have a uterus, you do not need a progestin and you should not take Activella.
 
-Do not start taking Activella if you:
+Do not take Activella if you:
 
-- •Have unusual vaginal bleeding
-- •Currently have or have had certain cancers - Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
-  If you have or have had cancer, talk with your health care provider about whether you should take Activella 1.0 mg/0.5 mg or Activella 0.5 mg/0.1 mg.
-- •Had a stroke or heart attack in the past year
-- •Currently have or have had blood clots
-- •Currently have or have had liver problems
-- •Are allergic to Activella 1.0 mg/0.5 mg or Activella 0.5 mg/0.1 mg or any of their ingredients - See section entitled, "What are the ingredients in Activella?" for a list of ingredients in Activella 1.0 mg/0.5 mg or Activella 0.5 mg/0.1 mg.
-- •Think you may be pregnant
+- •have unusual vaginal bleeding
 
-Tell your health care provider:
+Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
-- •If you are breastfeeding - The hormones in Activella can pass into your milk.
-- •About all of your medical problems - Your health care provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing); epilepsy (seizures); migraine; endometriosis; lupus; problems with your heart, liver, thyroid, or kidneys; or have high calcium levels in your blood.
-- •About all the medicines you take - This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
-  Some medicines may affect how Activella works.
-  Activella may also affect how your other medicines work.
-- •If you are going to have surgery or will be on bed rest - You may need to stop taking estrogens.
+- •currently have or have had certain cancers
 
-How should I take Activella 1.0 mg/0.5 mg or Activella 0.5 mg/0.1 mg?
+Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
+If you have or have had cancer, talk with your healthcare provider about whether you should take Activella.
 
-1.
-Take one Activella 1.0 mg/0.5 mg or Activella 0.5 mg/0.1 mg tablet once a day.
+- •had a stroke or heart attack
+- •currently have or have had blood clots
+- •currently have or have had liver problems
+- •have been diagnosed with a bleeding disorder
+- •are allergic to Activella or any of its ingredients
 
-2.
-Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
-You and your health care provider should talk regularly (e.g., every 3 to 6 months) about the dose you are taking and whether you still need treatment with Activella.
+See the list of ingredients in Activella at the end of this leaflet.
 
-What are the possible side effects of estrogens?
+- • think you may be pregnant
 
-Less common but serious side effects include:
+Activella is not for pregnant women.
+If you think you may be pregnant, you should have a pregnancy test and know the results.
+Do not take Activella if the test is positive and talk to your healthcare provider.
 
-- •Breast cancer
-- •Cancer of the uterus
-- •Stroke
-- •Heart attack
-- •Blood clots
-- •Dementia
-- •Gallbladder disease
-- •Ovarian cancer
+What should I tell my healthcare provider before taking Activella?
 
-Some of the warning signs of serious side effects include:
+Before you take Activella, tell your healthcare provider if you:
 
-- •Breast lumps
-- •Unusual vaginal bleeding
-- •Dizziness and faintness
-- •Changes in speech
-- •Severe headaches
-- •Chest pain
-- •Shortness of breath
-- •Pains in your legs
-- •Changes in vision
-- •Vomiting
+- •have any unusual vaginal bleeding
 
-Call your health care provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
+Vaginal bleeding after menopause may bea warning sign of cancer of the uterus (womb).
+Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
-Common side effects include:
+- •have any other medical conditions
 
-- •Headache
-- •Breast pain
-- •Irregular vaginal bleeding or spotting
-- •Stomach/abdominal cramps, bloating
-- •Nausea and vomiting
-- •Mental depression
-- •Back pain
-- •Weight increase
-- •Hair loss
+Your healthcare provider may need to check you morecarefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 
-Other side effects include:
+- •are going to have surgery or will be on bed rest
 
-- •High blood pressure
-- •Liver problems
-- •High blood sugar
-- •Fluid retention
-- •Enlargement of benign tumors of the uterus (“fibroids”)
-- •Vaginal yeast infection
-- •Hirsutism
-- •Acne
-- •Weight decrease
-- •Sleep disturbances
-- •Allergic reactions
-- •Nervousness
+Your healthcare provider will let you know if you need to stop taking Activella.
 
-These are not all the possible side effects of Activella 1.0 mg/0.5 mg or Activella 0.5 mg/0.1 mg.
-For more information, ask your health care provider or pharmacist.
+- •are breast feeding
 
-What can I do to lower my chances of a serious side effect with Activella 1.0 mg/0.5 mg or Activella 0.5 mg/0.1 mg?
+The hormones in Activella can pass into your breast milk.
 
-- •Talk with your health care provider regularly about whether you should continue taking Activella.
-- •See your health care provider right away if you get vaginal bleeding while taking Activella.
-- •Have a breast exam and mammogram (breast X-ray) every year unless your health care provider tells you otherwise.
-  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+Tell your healthcare provider about all the medicines you take, includingprescription and nonprescription medicines, vitamins, and herbal supplements.
+Some medicines may affect how Activella works.
+Activella may also affect how your other medicines work.
+Keep a list of your medicines and show them to your healthcare provider and pharmacist when you get a new medicine.
+
+How should I take Activella?
+
+- •Take Activella exactly as your healthcare provider tells you to take it.
+- •Take 1 Activella at the same time each day.
+- •You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are taking and whether you still need treatment with Activella.
+
+Follow the instructions below to use your Activella Dispenser.
+
+What are the possible side effects of Activella?
+
+Side effects are grouped by how serious they are and how often they happen when you are treated.
+
+Serious, but less common side effects include:
+
+- •heart attack
+- •stroke
+- •blood clots
+- •dementia
+- •breast cancer
+- •cancer of the lining of the uterus (womb)
+- •cancer of the ovary
+- •high blood pressure
+- •high blood sugar
+- •gallbladder disease
+- •liver problems
+- •changes in your thyroid hormone levels
+- •enlargement of benign tumors (“fibroids”)
+
+Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
+
+- •new breast lumps
+- •unusual vaginal bleeding
+- •changes in vision or speech
+- •sudden new severe headaches
+- •severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
+
+Less serious, but common side effects include:
+
+- •headache
+- •breast pain
+- •irregular vaginal bleeding or spotting
+- •stomach or abdominal cramps, bloating
+- •nausea and vomiting
+- •hair loss
+- •fluid retention
+- •vaginal yeast infection
+
+These are not all the possible side effects of Activella.
+For more information, ask your healthcare provider or pharmacist.
+Tell your healthcare provider if you have any side effect that bothers you or does not go away.
+You may report side effects to Novo Nordisk at 1-888-824-4336 or to FDA at 1-800-FDA-1088.
+
+What can I do to lower my chances of a serious side effect with Activella?
+
+- •Talk with your healthcare provider regularly about whether you should continue taking Activella.
+- •If you have a uterus, talk with your healthcare provider about whether the addition of a progestin is right for you.
+- •The addition of a progestin is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus (womb).
+- •See your healthcare provider right away if you get vaginal bleeding while taking Activella.
+- •Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
+- •If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram (breast x-ray), you may need to have breast exams more often.
 - •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
-  Ask your health care provider for ways to lower your chances for getting heart disease.
 
-Have an annual gynecologic exam
+Ask your healthcare provider for ways to lower your chances for getting heart disease.
 
-General information about the safe and effective use of Activella
+How should I store Activella?
+
+- •Store Activella at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Store Activella in a dry place protected from light.
+
+KEEP ACTIVELLA and all medicines out of the reach of children.
+
+General information about the safe and effective use of Activella.
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not take Activella for conditions for which it was not prescribed.
 Do not give Activella to other people, even if they have the same symptoms you have.
 It may harm them.
 
-Keep Activella out of the reach of children
+This leaflet summarizes the most important information about Activella.
+If you would like more information, talk with your healthcare provider or pharmacist.
+You can ask your pharmacist or healthcare provider for information about Activella that is written for health professionals.
 
-This leaflet provides a summary of the most important information about Activella.
-If you would like more information, talk with your health care provider or pharmacist.
-You can ask for information about Activella that is written for health professionals.
-You can get more information by calling the toll free number 1-866-668-6336.
+For more information go to www.activella.com or call 1-866-668-6336.
 
-What are the ingredients in Activella 1.0 mg/0.5 mg?
+What are the ingredients in Activella?
 
-Each tablet contains 1.0 mg estradiol and 0.5 mg norethindrone acetate.
-Each 1.0/0.5 mg tablet also contains lactose monohydrate, starch (corn), copovidone, talc, magnesium stearate, hypromellose, and triacetin for oral administration.
+Active ingredients: estradiol and norethindrone acetate
 
-Activella 1.0 mg/0.5 mg is supplied in a calendar dial pack dispenser containing 28 tablets.
-Store in a dry place protected from light.
+Inactive Ingredients: lactose monohydrate, starch (corn), copovidone, talc, magnesium stearate, hypromellose, and triacetin.
 
-What are the ingredients in Activella 0.5 mg/0.1 mg?
+The 0.5 mg/0.1 mg tablet also contains hydroxypropylcellulose.
 
-Each tablet contains 0.5 mg estradiol and 0.1 mg norethindrone acetate.
-Each 0.5/0.1 mg tablet also contains lactose monohydrate, starch (corn), hydroxypropylcellulose, talc, magnesium stearate, hypromellose, and triacetin for oral administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Activella 0.5 mg/0.1 mg is supplied in a calendar dial pack dispenser containing 28 tablets.
-Keep the container in the outer carton.
-
-Store at 25°C (77°F); excursions permitted to 15°C - 30°C (59°F-86°F).
-
-Activella® is a trademark owned by Novo Nordisk FemCare AG
+Activella® is a registered trademark owned by Novo Nordisk FemCare AG
 
 The embossed (Apis) bull symbol on the tablets is a trademark of Novo Nordisk A/S.
 
-© 2000-2006 Ver.
-7
+©2000-2013 Novo Nordisk
 
 Novo Nordisk Inc.
 
-Princeton, NJ 08540
+800 Scudders Mill Road
+
+Plainsboro, NJ 08536, USA
 
 1-866-668-6336
 
 www.novonordisk-us.com
 
-Manufactured by
+Manufactured by:
 
 Novo Nordisk A/S
 
 2880 Bagsvaerd, Denmark
+
+Revised: 10/2013

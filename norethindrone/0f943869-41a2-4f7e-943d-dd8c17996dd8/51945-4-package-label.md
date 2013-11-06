@@ -12,6 +12,12 @@ acetate tablets
 
 28 tablets
 
+Activella
+
+estradiol/norethindrone acetate) tablets
+
+1 mg/0.5 mg
+
 # PRINCIPAL DISPLAY PANEL
 
 NDC 0169-5175-10
