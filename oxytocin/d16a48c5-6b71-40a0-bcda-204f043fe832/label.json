@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA200219"
+  ],
+  "inn": "oxytocin",
+  "labeler": "West-Ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9742-01",
+    "0143-9742-25",
+    "0143-9743-01",
+    "0143-9743-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "oxytocin",
+      "name": "Oxytocin"
+    }
+  ],
+  "setid": "d16a48c5-6b71-40a0-bcda-204f043fe832",
+  "source": "dailymed"
+}
