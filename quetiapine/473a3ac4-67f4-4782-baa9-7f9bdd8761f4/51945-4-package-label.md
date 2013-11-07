@@ -94,8 +94,6 @@ Product of Belgium
 
 AstraZeneca
 
-- 
-
 # Package/Label Display Panel – 400 mg
 
 NDC 310-0284-60
