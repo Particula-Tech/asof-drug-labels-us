@@ -21,7 +21,7 @@ Common Adverse Reactions: Adverse reactions occurring at a rate of greater than 
 Adverse reactions reported in greater than or equal to 2% of Qsymia-treated patients and more frequently than in the placebo group are shown in Table 3.
 
 Table 3.
-Adverse Reactions Reported in Greater Than or Equal to 2% of Patients and More Frequently with Placebo during 1 Year of Treatment – Overall Study Population
+Adverse Reactions Reported in Greater Than or Equal to 2% of Patients and More Frequently than Placebo during 1 Year of Treatment – Overall Study Population
 
 | System Organ Class Preferred Term | Placebo (N = 1561) % | Qsymia 3.75 mg/23 mg (N = 240) % | Qsymia 7.5 mg/46 mg (N = 498) % | Qsymia 15 mg/92 mg (N = 1580) % |
 | --- | --- | --- | --- | --- |
@@ -85,12 +85,12 @@ Adverse Reactions Reported in Greater Than or Equal to 2% of Patients and More F
 | Injury, Poisoning, and Procedural Complications |  |  |  |  |
 | Procedural Pain | 1.7 | 2.1 | 2.4 | 1.9 |
 
-Paraesthesias/Dysgeusia
+Paraesthesia/Dysgeusia
 
-Reports of Paraesthesia, characterized as tingling in hands, feet, or face, occurred in 4.2%, 13.7%, and 19.9% of patients treated with Qsymia 3.75 mg/23 mg, 7.5 mg/46 mg, and 15 mg/92 mg, respectively, compared to 1.9% of patients treated with placebo.
+Reports of paraesthesia, characterized as tingling in hands, feet, or face, occurred in 4.2%, 13.7%, and 19.9% of patients treated with Qsymia 3.75 mg/23 mg, 7.5 mg/46 mg, and 15 mg/92 mg, respectively, compared to 1.9% of patients treated with placebo.
 Dysgeusia was characterized as a metallic taste, and occurred in 1.3%, 7.4%, and 9.4% of patients treated with Qsymia 3.75 mg/23 mg, 7.5 mg/46 mg, and 15 mg/92 mg, respectively, compared to 1.1% of patients treated with placebo.
 The majority of these events first occurred within the initial 12 weeks of drug therapy; however, in some patients, events were reported later in the course of treatment.
-Only Qsymia-treated patients discontinued treatment due to these events (1% for Paraesthesia and 0.6% for dysgeusia).
+Only Qsymia-treated patients discontinued treatment due to these events (1% for paraesthesia and 0.6% for dysgeusia).
 
 Mood and Sleep Disorders
 

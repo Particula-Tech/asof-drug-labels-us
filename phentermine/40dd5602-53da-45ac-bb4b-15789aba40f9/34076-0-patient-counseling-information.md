@@ -18,6 +18,24 @@ Concomitant Use with Other Products
 
 Advise patients to tell healthcare provider(s) about all medications, nutritional supplements, and vitamins (including any weight loss products) that are being taken or may be taken while on Qsymia.
 
+How to take Qsymia
+
+Advise patients to take Qsymia in the morning with or without food.
+
+Advise patients to start treatment with Qsymia as follows:
+
+- Take one Qsymia 3.75 mg/23 mg capsule once daily – in the morning - for the first 14 days
+- After the first 14 days is complete, take one Qsymia 7.5 mg/46 mg capsule once daily – in the morning
+- Do not take Qsymia 3.75 mg/23 mg and Qsymia 7.5/46 mg capsules together
+
+If an increase in Qsymia dose is prescribed after medical evaluation, advise patients to increase the dose of Qsymia as follows:
+
+- Take one Qsymia 11.25 mg/69 mg capsule once daily – in the morning - for 14 days
+- After the 14 days is complete, take one Qsymia 15 mg/92 mg capsule once daily – in the morning
+- Do not take Qsymia 11.25/69 mg and Qsymia 15 mg/92 mg capsules together
+
+Advise patients to discontinue the Qsymia 15 mg/92 mg dose gradually by taking one Qsymia 15 mg/92 mg capsule every other day for at least one week before stopping in order to avoid a seizure.
+
 Females of Reproductive Potential
 
 Qsymia can cause fetal harm and patients should avoid getting pregnant while taking Qsymia [see Warnings and Precautions (5.1)]
@@ -33,7 +51,7 @@ Either discontinue nursing or discontinue Qsymia [see Use in Specific Population
 Elevation in Heart Rate
 
 - Qsymia can increase resting heart rate [see Warnings and Precautions (5.2)].
-- Advise patients to report symptoms of sustained periods of heart pounding or racing while at rest to their health care provider(s)
+- Advise patients to report symptoms of sustained periods of heart pounding or racing while at rest to their health care provider(s).
 
 Suicidal Behavior and Ideation; Changes in Mood or Depression
 

@@ -1,14 +1,14 @@
 Manufactured for VIVUS Inc. by Catalent Pharma Solutions, LLC 1100 Enterprise Drive Winchester, KY 40391
 
-©2012, VIVUS, Inc. All rights reserved.
+Copyright © 2012-2013 VIVUS, Inc. All rights reserved.
 
-07/2012
+09/2013
 
-VIVUS, Inc 1172 Castro Street Mountain View, CA 94040 USA
+VIVUS, Inc 351 East Evelyn Avenue Mountain View, CA 94041 USA
 
-US Patent Numbers: 7,056,890 and 7,553,818
+US Patent Numbers: 7,056,890; 7,553,818; 7,659,256 and 7,674,776
 
-Qsymia is a trademark of VIVUS, Inc. ©2012, VIVUS, Inc.
+Qsymia is a registered trademark of VIVUS, Inc. © 2012-2013, VIVUS, Inc.
 
 Who should not take Qsymia?
 
@@ -49,7 +49,7 @@ Especially tell your healthcare provider if you take:
   Tell your healthcare provider if your menstrual bleeding changes while you are taking birth control pills and Qsymia.
 - Water pills (diuretics) such as hydrochlorothiazide (HCTZ)
 - Any medicines that impair or decrease your thinking, concentration, or muscle coordination
-- Carbonic anhydrase inhibitors [such as ZONEGRAM® (zonisamide), DIAMOX® (acetazolamide) or NEPTAZANE® (methazolamide)]
+- Carbonic anhydrase inhibitors [such as ZONEGRAN® (zonisamide), DIAMOX® (acetazolamide) or NEPTAZANE® (methazolamide)]
 - Seizure medicines such as Valproic acid (DEPAKENE® or DEPAKOTE®)
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
@@ -60,34 +60,34 @@ Do not start a new medicine without talking to your healthcare provider.
 
 How should I take Qsymia?
 
-- Take Qsymia exactly as your healthcare provider tells you to take it.
 - Your healthcare provider should start you on a diet and exercise program when you start taking Qsymia.
   Stay on this program while you are taking Qsymia.
-- Your healthcare provider will tell you how much Qsymia to take and when to take it.
-  - Do not change your dose without talking to your healthcare provider.
-  - Take Qsymia 1 time a day in the morning.
-  - Qsymia can be taken with or without food.
-  - If you miss a dose of Qsymia, wait until the next morning to take your usual dose of Qsymia.
-    Do not double your dose.
+- Do not change your dose without talking to your healthcare provider.
+- Qsymia can be taken with or without food.
+- If you miss a dose of Qsymia, wait until the next morning to take your usual dose of Qsymia.
+  Do not double your dose.
+- To start treatment with Qsymia
+  - Take one Qsymia 3.75 mg/23 mg capsule (Figure A) once each morning for the first 14 days
+  - After taking Qsymia 3.75 mg/23 mg capsule for 14 days, then take one Qsymia 7.5 mg/46 mg capsule (Figure B) once each morning
+- After taking Qsymia for 12 weeks
+  - Your healthcare provider should either (1) tell you to stop taking Qsymia or (2) increase your dose of Qsymia if you do not lose a certain amount of weight within the first 12 weeks of treatment at the recommended dose.
+- If your healthcare provider increases the dose of Qsymia
+  - Take one Qsymia 11.25 mg/69 mg capsule (Figure C) once each morning for 14 days
+  - After taking 14 days of Qsymia 11.25 mg/69 mg capsule, then take one Qsymia 15 mg/92 mg capsule (Figure D) once each morning
+- Stopping Qsymia treatment
 
-Your healthcare provider should either (1) tell you to stop taking Qsymia or (2) increase your dose of Qsymia if you do not lose a certain amount of weight within the first 12 weeks of treatment at the recommended dose.
-If your healthcare provider increases your dose of Qsymia, he/she should tell you to stop taking Qsymia if you have not lost a certain amount of weight after an additional 12 weeks of treatment on the higher dose.
+Your healthcare provider should tell you to stop taking Qsymia if you have not lost a certain amount of weight after an additional 12 weeks of treatment on the higher dose.
 
-- Do not stop taking Qsymia without talking to your healthcare provider.
-  Stopping Qsymia suddenly can cause serious problems, such as seizures.
-  Your healthcare provider will tell you how to stop taking Qsymia slowly.
-- Before you take Qsymia, check to make sure that you are taking the right dose (See Figure A, B, C, and D).
-  - 3.75 mg/23 mg (See Figure A)
-  - 7.5 mg/46 mg (See Figure B)
-  - 11.25 mg/69 mg (See Figure C)
-  - 15 mg/92 mg (See Figure D)
+Do not stop taking Qsymia without talking to your healthcare provider.
+Stopping Qsymia suddenly can cause serious problems, such as seizures.
+Your healthcare provider will tell you how to stop taking Qsymia slowly.
 
 If you take too much Qsymia, call your healthcare provider or go to the nearest emergency room right away.
 
 What should I avoid while taking Qsymia?
 
 - Do not get pregnant while taking Qsymia.
-  See "What is the most important information I should know about QSYMIA."
+  See "What is the most important information I should know about Qsymia."
 - Do not drink alcohol while taking Qsymia.
   Qsymia and alcohol can affect each other causing side effects such as sleepiness or dizziness.
 - Do not drive a car or operate heavy machinery, or do other dangerous activities until you know how Qsymia affects you.
@@ -125,7 +125,7 @@ What are the possible side effects of Qsymia?
 
 Common side effects of Qsymia include:
 
-- numbness or tingling in the hands, arms, feet, or face (Paraesthesia)
+- numbness or tingling in the hands, arms, feet, or face (paraesthesia)
 - dizziness
 - change in the way foods taste or loss of taste (dysgeusia)
 - trouble sleeping (insomnia)
@@ -167,14 +167,14 @@ Inactive Ingredients: methylcellulose, sucrose, starch, microcrystalline cellulo
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-©2012, VIVUS, Inc. All rights reserved.
+Copyright © 2012-2013 VIVUS, Inc. All rights reserved.
 
-VIVUS, Inc 1172 Castro Street Mountain View, CA 94040 USA
+VIVUS, Inc 351 East Evelyn Avenue Mountain View, CA 94041 USA
 
-US Patent Numbers: 7,056,890 and 7,553,818
+US Patent Numbers: 7,056,890; 7,553,818; 7,659,256 and 7,674,776
 
-Qsymia is a trademark of VIVUS, Inc. ©2012, VIVUS, Inc.
+Qsymia is a registered trademark of VIVUS, Inc. © 2012-2013, VIVUS, Inc.
 
-Issued: July/2012
+Issued: 09/2013
 
-PH-03-002-00
+PH-03-002-03

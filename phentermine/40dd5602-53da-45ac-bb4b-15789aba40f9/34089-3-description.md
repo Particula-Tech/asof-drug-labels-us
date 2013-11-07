@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Qsymia capsule is a combination oral product comprised of immediate-release phentermine hydrochloride (as the free base) and extended-release topiramate.
+Qsymia capsule is a combination oral product comprised of immediate-release phentermine hydrochloride (expressed as the weight of the free base) and extended-release topiramate.
 Qsymia contains phentermine hydrochloride, a sympathomimetic amine anorectic and topiramate, a sulfamate-substituted monosaccharide related to fructose antiepileptic drug.
 
 Phentermine Hydrochloride

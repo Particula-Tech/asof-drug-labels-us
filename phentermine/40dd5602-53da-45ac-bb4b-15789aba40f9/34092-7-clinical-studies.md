@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The effect of Qsymia on weight loss in conjunction with reduced caloric intake and increased physical activity was studied in 2 randomized, double-blind, placebo controlled studies in obese patients (Study 1) and in obese and overweight patients with two or more significant co-morbidities (Study 2).
+The effect of Qsymia on weight loss in conjunction with reduced caloric intake and increased physical activity was studied in 2 randomized, double-blind, placebo-controlled studies in obese patients (Study 1) and in obese and overweight patients with two or more significant co-morbidities (Study 2).
 Both studies had a 4-week titration period, followed by 52 weeks of treatment.
 There were 2 co-primary efficacy outcomes measured after 1 year of treatment (Week 56): 1) the percent weight loss from baseline; and 2) treatment response defined as achieving at least 5% weight loss from baseline.
 
@@ -17,10 +17,10 @@ Eligible patients had to have a BMI greater than or equal to 27 kg/m2 and less t
 - Elevated blood pressure (greater than or equal to 140/90 mmHg, or greater than or equal to 130/85 mmHg for diabetics) or requirement for greater than or equal to 2 antihypertensive medications;
 - Triglycerides greater than 200-400 mg/dL or were receiving treatment with 2 or more lipid-lowering agents;
 - Elevated fasting blood glucose (greater than 100 mg/dL) or diabetes; and/or
-- Waist circumference greater than or equal to 102 cm for men or greater than or equal to 88 cm for women).
+- Waist circumference greater than or equal to 102 cm for men or greater than or equal to 88 cm for women.
 
 Patients ranged in age from 19-71 years old (mean age 51) and 70% were female.
-Approximately 86% were Caucasian, 12% were African American, and 13.0% were Hispanic/Latino.
+Approximately 86% were Caucasian, 12% were African American, and 13% were Hispanic/Latino.
 The average weight and BMI of patients at the start of the study was 103 kg and 36.6 kg/m2, respectively.
 Approximately half (53%) of patients had hypertension at the start of the study.
 There were 388 (16%) patients with type 2 diabetes at the start of the study.
@@ -41,7 +41,7 @@ Weight Loss at One Year in Study 1 and 2
 | ITT-LOCF (Primary)Uses all available data from subjects in ITT population, including data collected from subjects who discontinued drug but remained on study. Last Observation Carried Forward (LOCF) method used to impute missing data. | n = 498 | n = 234 | n = 498 | n = 979 | n = 488 | n = 981 |
 | Weight (kg) |  |  |  |  |  |  |
 | Baseline mean (SD) | 115.7 (21.4) | 118.6 (21.9) | 115.2 (20.8) | 103.3 (18.1) | 102.8 (18.2) | 103.1 (17.6) |
-| % LS Mean Change from baseline (SE)Adjusted for baseline bodyweight (Study 1) and baseline bodyweight and diabetic status (Study 2) | -1.6 (0.4) | -5.1 (0.5)p < 0.0001 vs. placebo based on least-squares (LS) mean from an analysis of covariance. | -10.9 (0.4)p < 0.01 vs. 3.75 mg/23 mg (Study 1) or 7.5 mg/46 mg (Study 2) dose. | -1.2 (0.3) | -7.8 (0.4) | -9.8 (0.3) |
+| % LS Mean Change from baseline (SE)Adjusted for baseline bodyweight (Study 1) and baseline bodyweight and diabetic status (Study 2). | -1.6 (0.4) | -5.1 (0.5)p < 0.0001 vs. placebo based on least-squares (LS) mean from an analysis of covariance. | -10.9 (0.4)p < 0.01 vs. 3.75 mg/23 mg (Study 1) or 7.5 mg/46 mg (Study 2) dose. | -1.2 (0.3) | -7.8 (0.4) | -9.8 (0.3) |
 | Difference from placebo (95% CI) |  | 3.5 (2.4-4.7) | 9.4 (8.4-10.3) |  | 6.6 (5.8-7.4) | 8.6 (8.0-9.3) |
 | Percentage of patients losing greater than or equal to 5% body weight | 17% | 45% | 67% | 21% | 62% | 70% |
 | Risk Difference vs. placebo (95% CI) |  | 27.6 (20.4-34.8) | 49.4 (44.1-54.7) |  | 41.3 (36.3-46.3) | 49.2 (45.4-53.0) |
@@ -53,7 +53,7 @@ Weight Loss at One Year in Study 1 and 2
 | Figure 1. Study 1 Percent Weight Change | Figure 2. Study 2 Percent Weight Change |
 | --- | --- |
 
-The changes in cardiovascular, metabolic, and anthropometric risk factors associated with obesity from studies Study 1 and 2 are presented in Table 10 and 11.
+The changes in cardiovascular, metabolic, and anthropometric risk factors associated with obesity from Study 1 and 2 are presented in Table 10 and 11.
 One year of therapy with Qsymia resulted in relative improvement over placebo in several risk factors associated with obesity with the exception of heart rate [see Warnings and Precautions (5.2)].
 
 Table 10.

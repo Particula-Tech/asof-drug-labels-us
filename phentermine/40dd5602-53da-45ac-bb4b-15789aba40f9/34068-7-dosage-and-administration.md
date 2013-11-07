@@ -3,7 +3,7 @@
 ## 2.1 General Dosing and Administration
 
 Determine the patient's BMI.
-BMI is calculated by dividing weight in (kilograms) by height (in meters) squared.
+BMI is calculated by dividing weight (in kilograms) by height (in meters) squared.
 A BMI conversion chart (Table 1) based on height [inches (in) or centimeters (cm)] and weight [pounds (lb) or kilograms (kg)] is provided below.
 
 | Table 1. BMI Conversion Chart |
@@ -16,7 +16,7 @@ In adults with an initial BMI of 30 kg/m2 or greater or 27 kg/m2 or greater when
 - Start treatment with Qsymia 3.75 mg/23 mg (phentermine 3.75 mg/topiramate 23 mg extended-release) daily for 14 days; after 14 days increase to the recommended dose of Qsymia 7.5 mg/46 mg (phentermine 7.5 mg/topiramate 46 mg extended-release) once daily.
 - Evaluate weight loss after 12 weeks of treatment with Qsymia 7.5 mg/46 mg.
   If a patient has not lost at least 3% of baseline body weight on Qsymia 7.5 mg/46 mg, discontinue Qsymia or escalate the dose, as it is unlikely that the patient will achieve and sustain clinically meaningful weight loss at the Qsymia 7.5 mg/46 mg dose.
-  To escalate the dose: Increase to Qsymia 11.25 mg/69 mg (phentermine 11.25 mg/topiramate 69 mg extended-release) daily for 14 days; followed by dosing Qsymia 15 mg/92 mg (phentermine 15 mg/topiramate 92 mg extended-release) daily.
+  To escalate the dose: Increase to Qsymia 11.25 mg/69 mg (phentermine 11.25 mg/topiramate 69 mg extended-release) daily for 14 days; followed by dosing Qsymia 15 mg/92 mg (phentermine 15 mg/topiramate 92 mg extended-release) once daily.
 - Evaluate weight loss following dose escalation to Qsymia 15 mg/92 mg after an additional 12 weeks of treatment.
   If a patient has not lost at least 5% of baseline body weight on Qsymia 15 mg/92 mg, discontinue Qsymia as directed, as it is unlikely that the patient will achieve and sustain clinically meaningful weight loss with continued treatment.
 - Qsymia 3.75 mg/23 mg and Qsymia 11.25 mg/69 mg are for titration purposes only.

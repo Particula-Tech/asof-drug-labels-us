@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Qsymia is available as phentermine hydrochloride (as the free base)/topiramate extended-release gelatin capsules in the following strengths and colors:
+Qsymia is available as phentermine hydrochloride (expressed as the weight of the free base)/topiramate extended-release gelatin capsules in the following strengths and colors:
 
 - 3.75 mg/23 mg [Purple cap imprinted with VIVUS, Purple body imprinted with 3.75/23]
 - 7.5 mg/46 mg [Purple cap imprinted with VIVUS, Yellow body imprinted with 7.5/46]
@@ -12,10 +12,14 @@ The capsules are supplied as follows:
 | Strength |  | NDC Code |
 | --- | --- | --- |
 | Unit of Use Bottle (14 capsules) | 3.75 mg/23 mg capsules | 62541-201-14 |
-| Unit of Use Bottle (30 capsules) | 3.75 mg/23 mg capsules | 62541-201-30 |
+| Pharmacy Bottle (30 capsules) | 3.75 mg/23 mg capsules | 62541-201-30 |
 | Unit of Use Bottle (30 capsules) | 7.5 mg/46 mg capsules | 62541-202-30 |
 | Unit of Use Bottle (30 capsules) | 15 mg/92 mg capsules | 62541-204-30 |
 | Pharmacy Bottle (30 capsules) | 11.25 mg/69 mg capsules | 62541-203-30 |
+| Starter Pack - Blister | 3.75 mg/23 mg and | 62541-210-28 |
+| Configuration (28 Capsules) | 7.5 mg/46 mg capsules |  |
+| Dose Escalation Pack – Blister | 11.25 mg/69 mg and | 62541-220-28 |
+| Configuration (28 Capsules) | 15 mg/92 mg capsules |  |
 
 Store at controlled room temperature, 15 to 25°C (59 to 77°F).
 Keep container tightly closed and protect from moisture.

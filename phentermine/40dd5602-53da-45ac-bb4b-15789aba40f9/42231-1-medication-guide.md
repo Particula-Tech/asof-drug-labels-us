@@ -1,4 +1,4 @@
-MEDICATION GUIDE QSYMIA™ (Kyoo sim ee' uh) (phentermine and topiramate extended-release) Capsules
+MEDICATION GUIDE QSYMIA® (Kyoo sim ee' uh) (phentermine and topiramate extended-release) Capsules CIV
 
 Read this Medication Guide before you start taking Qsymia and each time you get a refill.
 There may be new information.

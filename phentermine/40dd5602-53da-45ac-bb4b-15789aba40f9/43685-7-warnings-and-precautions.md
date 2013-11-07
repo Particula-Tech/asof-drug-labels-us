@@ -158,7 +158,7 @@ Avoid use of Qsymia in this patient population [see Dosage and Administration (2
 Use of Qsymia has been associated with kidney stone formation.
 Topiramate, a component of Qsymia, inhibits carbonic anhydrase activity and promotes kidney stone formation by reducing urinary citrate excretion and increasing urine pH.
 
-Avoid the use Qsymia with other drugs that inhibit carbonic anhydrase (e.g., zonisamide, acetazolamide or methazolamide).
+Avoid the use of Qsymia with other drugs that inhibit carbonic anhydrase (e.g., zonisamide, acetazolamide or methazolamide).
 
 Use of topiramate by patients on a ketogenic diet may also result in a physiological environment that increases the likelihood of kidney stone formation.
 
