@@ -74,40 +74,34 @@ Rx only
 
 NOVAPLUS®
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 4.5 GRAM - LABEL
+PRINCIPAL DISPLAY PANEL - 4.5 GRAM Vial Label
 
-NDC 0206-2408-01
+NDC 0206-2408-01 Rx ONLY
 
-ZOSYN®
-
-(Piperacillin and Tazobactam for Injection, USP)
-
-4.5 GRAM
+ZOSYN® (Piperacillin and Tazobactam for Injection, USP)
 
 SINGLE USE VIAL
 
-Each vial provides piperacillin and tazobactam cryodesiccated powders for injection equivalent to 4 grams piperacillin, 0.5 gram tazobactam and 11.17 mEq (256 mg) of sodium.
-
 For IV Use Only
 
-Rx only
+Each vial provides piperacillin and tazobactam cryodesiccated powders for injection equivalent to 4 grams piperacillin, 0.5 gram tazobactam and 11.17 mEq (256 mg) of sodium.
 
 NOVAPLUS®
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 4.5 GRAM - CARTON
+4.5 GRAM
 
-NDC 0206-2408-02
+PRINCIPAL DISPLAY PANEL - 4.5 GRAM Vial Carton
+
+NDC 0206-2408-02 Rx ONLY
 
 ZOSYN®
 
 (Piperacillin and Tazobactam for Injection, USP)
-
-4.5 GRAM
 
 10 x 4.5 GRAM SINGLE USE VIALS
 
 For IV Use Only
 
-Rx only
+4.5 GRAM
 
 NOVAPLUS®

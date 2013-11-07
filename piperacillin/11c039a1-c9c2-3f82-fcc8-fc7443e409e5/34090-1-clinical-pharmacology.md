@@ -187,11 +187,11 @@ TABLE 2 SUSCEPTIBILITY INTERPRETIVE CRITERIA FOR PIPERACILLIN/TAZOBACTAM
 | Bacteroides fragilis group | ≤ 32 | 64 | ≥ 128 | - | - | - |
 | a These interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |  |  |  |  |
 
-A report of S (“Susceptible”) indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable.
-A report of I (“Intermediate”) indicates that the results should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of S ("Susceptible") indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable.
+A report of I ("Intermediate") indicates that the results should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone, which prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of R (“Resistant”) indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable; other therapy should be considered.
+A report of R ("Resistant") indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable; other therapy should be considered.
 
 ## Quality Control
 
