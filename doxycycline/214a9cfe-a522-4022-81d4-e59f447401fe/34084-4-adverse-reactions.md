@@ -18,7 +18,7 @@ Photosensitivity is discussed above.
 Renal toxicity: Rise in BUN has been reported and is apparently dose related.
 (See WARNINGS.)
 
-Hypersensitivity reactions: urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus.
+Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, and drug rash with eosinophilia and systemic symptoms (DRESS).
 
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
 

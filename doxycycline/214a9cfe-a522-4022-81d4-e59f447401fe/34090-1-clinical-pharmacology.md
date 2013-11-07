@@ -6,8 +6,8 @@ Doxycycline is virtually completely absorbed after oral administration.
 
 Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours, decreasing to 1.45 mcg/mL at 24 hours.
 Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with normal function (creatinine clearance about 75 mL/min.).
-This percentage excretion may fall as low as 1–5%/72 hours in individuals with severe renal insufficiency (creatinine clearance below 10 mL/min.).
-Studies have shown no significant difference in serum half-life of doxycycline (range 18–22 hours) in individuals with normal and severely impaired renal function.
+This percentage excretion may fall as low as 1 to 5%/72 hours in individuals with severe renal insufficiency (creatinine clearance below 10 mL/min.).
+Studies have shown no significant difference in serum half-life of doxycycline (range 18 to 22 hours) in individuals with normal and severely impaired renal function.
 
 Hemodialysis does not alter serum half-life.
 
@@ -23,7 +23,7 @@ Doxycycline has been shown to be active against most isolates of the following m
 
 Gram-Negative Bacteria
 
-Acinetobacter species Bartonella bacilliformis Brucella species Calymmatobacterium granulomatis Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella species Neisseria gonorrhoeae Shigella species Vibrio cholera Yersinia pestis
+Acinetobacter species Bartonella bacilliformis Brucella species Calymmatobacterium granulomatis Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella species Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis
 
 Gram-Positive Bacteria
 
@@ -59,7 +59,7 @@ Diffusion Techniques
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method1,3,4.
-This procedure uses paper disks impregnated with 30-μg doxycycline to test the susceptibility of microorganisms to doxycycline.
+This procedure uses paper disks impregnated with 30-mcg doxycycline to test the susceptibility of microorganisms to doxycycline.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 Anaerobic Techniques
@@ -103,7 +103,7 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Doxycy
 
 | QC Strain | Minimal Inhibitory Concentration (mcg/mL) | Zone Diameter (mm) | Agar Dilution (mcg/mL) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 Doxycycline Tetracycline | 2 - 8 8 – 32 | - - | - - |
+| Enterococcus faecalis ATCC 29212 Doxycycline Tetracycline | 2 - 8 8 - 32 | - - | - - |
 | Escherichia coli ATCC 25922 Doxycycline Tetracycline | 0.5 - 2 0.5 - 2 | 18 - 24 18 - 25 | - - |
 | Haemophilus influenzae ATCC 49247 Tetracycline | 4 - 32 | 14 - 22 | - |
 | Neisseria gonorrhoeae ATCC 49226 Tetracycline | - | 30 - 42 | 0.25 - 1 |
