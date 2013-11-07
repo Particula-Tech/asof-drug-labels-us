@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA203895"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-167-10",
+    "55150-168-30",
+    "55150-169-10",
+    "55150-170-30",
+    "55150-171-10",
+    "55150-172-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride",
+      "name": "Bupivacaine Hydrochloride"
+    }
+  ],
+  "setid": "ffecf450-1f01-4721-8e10-251385852612",
+  "source": "dailymed"
+}
