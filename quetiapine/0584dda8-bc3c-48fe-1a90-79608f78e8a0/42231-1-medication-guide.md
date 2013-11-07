@@ -1,10 +1,10 @@
-# SPL MEDGUIDE SECTION
+# MEDGUIDE SECTION
 
 Medication Guide
 
 SEROQUEL (SER-oh-kwell)
 
-(quetiapine fumarate)
+(quetiapinefumarate)
 
 Tablets
 
@@ -156,11 +156,10 @@ SEROQUEL can cause serious side effects, including:
   High blood sugar could lead to:
   - ∘build up of acid in your blood due to ketones (ketoacidosis)
   - ∘coma
-  - ∘death
-- Increases in blood sugar can happen in some people who take SEROQUEL.
-  Extremely high blood sugar can lead to coma or death.
-  If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start SEROQUEL and during therapy.
-- Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking SEROQUEL:
+  - ∘deathIncreases in blood sugar can happen in some people who take SEROQUEL.
+    Extremely high blood sugar can lead to coma or death.
+    If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start SEROQUEL and during therapy.Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking SEROQUEL:
+- 
   - ∘feel very thirsty
   - ∘need to urinate more than usual
   - ∘feel very hungry
@@ -173,7 +172,7 @@ SEROQUEL can cause serious side effects, including:
 - •increase in weight (weight gain).
   Weight gain is common in people who take SEROQUEL so you and your healthcare provider should check your weight regularly.
   Talk to your healthcare provider about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
-- •movements you cannot control in your face, tongue, or other body parts (tardive dyskinesia).
+- •movements you cannot control in your face, tongue, or other body parts (tardivedyskinesia).
   These may be signs of a serious condition.
   Tardive dyskinesia may not go away, even if you stop taking SEROQUEL.
   Tardive dyskinesia may also start after you stop taking SEROQUEL.
@@ -191,8 +190,7 @@ SEROQUEL can cause serious side effects, including:
 - •increased body temperature
 - •difficulty swallowing
 - •trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking SEROQUEL.
-  These symptoms usually get better 1 week after you start having them.
-- The most common side effects of SEROQUEL include:
+  These symptoms usually get better 1 week after you start having them.The most common side effects of SEROQUEL include:
 
 In Adults:
 
@@ -257,4 +255,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised: July 2013
+Revised: October 2013

@@ -326,7 +326,7 @@ In a short-term placebo-controlled monotherapy trial in children and adolescent 
 
 Table 15 presents a listing of patients with adverse reactions potentially associated with extrapyramidal symptoms in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
-In Tables 15 – 16 dystonic event included nuchal rigidity, hypertonia and, muscle rigidity; parkinsonism included cogwheel rigidity and, tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia and, choreoathetosis; and other extrapyramidal event included restlessness and, extrapyramidal disorder.
+In Tables 15 – 16 dystonic event included nuchal rigidity, hypertonia and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only dyskinetic event included tardive dyskinesia, dyskinesia and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
 Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
 
@@ -372,7 +372,7 @@ Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase 
 
 Skin and Appendages System: Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
-Urogenital System: Infrequent: dysmenorrheal Adjusted for gender., vaginitis, urinary incontinence, metrorrhagia, impotence, dysuria, vaginal moniliasis, abnormal ejaculation, cystitis, urinary frequency, amenorrhea, female lactation, leucorrhea, vaginal hemorrhage, vulvovaginitis, orchitis; Rare: gynecomastia, nocturia, polyuria, acute kidney failure.
+Urogenital System: Infrequent: dysmenorrheal Adjusted for gender., vaginitis, urinary incontinence, metrorrhagia, impotence, dysuria, vaginal moniliasis, abnormal ejaculation, cystitis, urinary frequency, amenorrhea, female lactation, leukorrhea, vaginal hemorrhage, vulvovaginitis, orchitis; Rare: gynecomastia, nocturia, polyuria, acute kidney failure.
 
 Special Senses: Infrequent: conjunctivitis, abnormal vision, dry eyes, tinnitus, taste perversion, blepharitis, eye pain; Rare: abnormality of accommodation, deafness, glaucoma.
 
