@@ -3,9 +3,11 @@
 Discuss the following issues with patients and caregivers:
 
 - •Agranulocytosis: Prior to initiating treatment, educate patients and caregivers about the significant risk of developing agranulocytosis.
-  Advise them to immediately report the appearance of signs or symptoms consistent with agranulocytosis or infection (e.g., fever; mucus membrane ulcers; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) at any time during FAZACLO therapy [see Warnings and Precautions (5.1)]. - Inform patients and caregivers that FAZACLO will be made available only through a special program designed to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
-  Inform patients and caregivers the WBC count and ANC will be monitored as follows:
-- 
+  Advise them to immediately report the appearance of signs or symptoms consistent with agranulocytosis or infection (e.g., fever; mucus membrane ulcers; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) at any time during FAZACLO therapy [see Warnings and Precautions (5.1)].
+- - Inform patients and caregivers that FAZACLO will be made available only through a special program designed
+- to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
+  Inform patients
+- and caregivers the WBC count and ANC will be monitored as follows:
   - •Weekly blood tests are required for the first 6 months.
   - •If acceptable WBC counts and ANCs (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
   - •Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.

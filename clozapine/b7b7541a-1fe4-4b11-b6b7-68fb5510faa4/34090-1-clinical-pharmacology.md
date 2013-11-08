@@ -24,14 +24,27 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 Absorption
 
 In man, clozapine tablets (25 and 100 mg) are equally bioavailable relative to a clozapine solution.
-FAZACLO oraly disintegrating tablets are bioequivalent to clozapine marketed tablets.
+FazaClo® (clozapine) orally disintegrating tablets are bioequivalent to Clozaril® (clozapine) tablets, a registered trademark of Novartis Pharmaceuticals Corporation.
+Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 413 ng/mL (range: 132-854 ng/mL), occurring at the average of 2.3 hours (range: 1-6 hours) after dosing.
+The average minimum concentration at steady state was 168 ng/mL (range: 45-574 ng/mL), after 100 mg b.i.d. dosing.
 
-Following oral administration of 100 mg to 800 mg FAZACLO, once daily, the average steady-state peak plasma concentration was 275 ng/mL (range: 105 to 723 ng/mL), occurring at the average of 2.2 hours (range: 1 to 3.5 hours) after dosing.
-The average minimum concentration at steady state was 75 ng/mL (range: 11 to 198 ng/mL).
+A comparative bioequivalence/bioavailability study was conducted in 32 patients (with schizophrenia or schizoaffective disorder) comparing FazaClo® 200 mg tablets to 2 × FazaClo® 100 mg tablets (the approved reference product) under fasted conditions.
+The study also evaluated the effect of food and chewing on the pharmacokinetics of the 200 mg tablet.
+Under fasted conditions, the mean AUCss and Cmin,ss of clozapine for the 200 mg tablets were equivalent to those of the 2 x 100 mg tablets.
+The mean Cmax,ss of clozapine for FazaClo® 200 mg tablets was 85% that for 2 x 100 mg FazaClo® tablets.
+This decrease in Cmax,ss for FazaClo® 200 mg tablets is not clinically significant.
 
-When FAZACLO was administered after a high fat meal there was no effect on the AUCss or Cminss, however Cmax was reduced about 20%, and there was a slight delay in Tmax of 0.5 hour from a median Tmax of 2.0 hours under fasted conditions to 2.5 hours under fed conditions.
-The decrease in Cmax is not considered clinically relevant.
-Therefore FAZACLO may be taken without regard to meals.
+For FazaClo® 200 mg tablets, food significantly increased the Cmin,ss of clozapine by 21%.
+However, this increase is not clinically significant.
+The mean AUCss and Cmax,ss of clozapine under fed conditions were equivalent to those under fasted conditions.
+Food delayed clozapine absorption by 1.5 hours, from a median Tmax of 2.5 hours under fasted conditions to 4 hours under fed conditions.
+
+The mean Cmax,ss of clozapine under chewed conditions for FazaClo® 200 mg tablets was about 86% that for 2 x 100 mg FazaClo® tablets under non-chewed conditions, while the AUCss and Cmin,ss values were similar between the chewed and non-chewed conditions.
+
+In a food-effect study, a single dose of FazaClo® (clozapine) orally disintegrating tablets 12.5 mg was administered to healthy volunteers under fasting conditions and after a high-fat meal.
+When FazaClo® was administered after a high fat meal, the Cmax of both clozapine and its active metabolite, desmethylclozapine, were decreased by approximately 20%, compared to administration under fasting conditions, while the AUC values were unchanged.
+This decrease in Cmax is not clinically significant.
+Therefore, FazaClo® (clozapine) orally disintegrating tablets can be taken without regard to meals.
 
 Distribution
 
