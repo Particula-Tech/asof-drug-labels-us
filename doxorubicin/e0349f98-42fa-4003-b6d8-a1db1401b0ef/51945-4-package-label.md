@@ -6,7 +6,7 @@ NDC 63323-883-05
 
 Doxorubicin HCl Injection, USP
 
-10 mg (2 mg/mL)
+10 mg/5 mL (2 mg/mL)
 
 For IV Use Only
 
@@ -24,7 +24,7 @@ NDC 63323-883-05
 
 Doxorubicin HCl Injection, USP
 
-10 mg (2 mg/mL)
+10 mg/5 mL (2 mg/mL)
 
 For Intravenous Use Only
 
@@ -42,7 +42,7 @@ NDC 63323-101-61
 
 Doxorubicin HCl Injection, USP
 
-200 mg (2 mg/mL)
+200 mg/100 mL (2 mg/mL)
 
 For IV Use Only
 
@@ -60,10 +60,12 @@ NDC 63323-101-61
 
 Doxorubicin HCl Injection, USP
 
-200 mg (2 mg/mL)
+200 mg/100 mL (2 mg/mL)
 
 For Intravenous Use Only
 
 Sterile, Isotonic Solution
 
 100 mL Multiple Dose Vial
+
+Rx only

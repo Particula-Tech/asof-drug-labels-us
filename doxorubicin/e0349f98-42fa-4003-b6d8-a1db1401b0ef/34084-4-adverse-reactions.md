@@ -5,7 +5,7 @@ Other reactions reported are:
 
 ## Cardiotoxicity
 
-(See WARNINGS.)
+(See WARNINGS).
 
 ## Cutaneous
 
@@ -27,7 +27,7 @@ Anorexia, abdominal pain, dehydration, diarrhea, and hyperpigmentation of the or
 
 ## Hematologic
 
-(See WARNINGS.)
+(See WARNINGS).
 
 ## Hypersensitivity
 

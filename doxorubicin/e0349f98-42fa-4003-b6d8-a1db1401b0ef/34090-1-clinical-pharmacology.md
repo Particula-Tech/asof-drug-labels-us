@@ -26,7 +26,7 @@ Binding of doxorubicin and its major metabolite, doxorubicinol, to plasma protei
 
 Doxorubicin was excreted in the milk of one lactating patient, with peak milk concentration at 24 hours after treatment being approximately 4.4-fold greater than the corresponding plasma concentration.
 Doxorubicin was detectable in the milk up to 72 hours after therapy with 70 mg/m2 of doxorubicin given as a 15-minute intravenous infusion and 100 mg/m2 of cisplatin as a 26-hour intravenous infusion.
-The peak concentration of doxorubicinol in milk at 24 hours was 0.11 mcg/mL and AUC up to 24 hours was 9 mcg.h/mL while the AUC for doxorubicin was 5.4 mcg.h/mL.
+The peak concentration of doxorubicinol in milk at 24 hours was 0.11 mcg/mL and AUC up to 24 hours was 9 mcg•h/mL while the AUC for doxorubicin was 5.4 mcg•h/mL.
 
 Doxorubicin does not cross the blood brain barrier.
 
@@ -55,7 +55,7 @@ However, clearance in infants younger than 2 years of age (813 mL/min/m2) was de
 
 Geriatric
 
-While the pharmacokinetics of elderly subjects (=65 years of age) have been evaluated, no dosage adjustment is recommended based on age (see PRECAUTIONS, Geriatric Use).
+While the pharmacokinetics of elderly subjects (≥65 years of age) have been evaluated, no dosage adjustment is recommended based on age (see PRECAUTIONS, Geriatric Use).
 
 Gender
 

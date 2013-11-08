@@ -1,7 +1,6 @@
-Rx only
+Doxorubicin and its major metabolite, doxorubicinol have been detected in the milk of at least one lactating patient (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Because of the potential for serious adverse reactions in nursing infants from doxorubicin, mothers should be advised to discontinue nursing during doxorubicin therapy.
 
-FOR INTRAVENOUS USE ONLY
+45771D
 
-45771C
-
-Revised: January 2008
+Revised: June 2013

@@ -29,9 +29,9 @@ In a prospective study of doxorubicin in combination with cyclophosphamide, fluo
 The risk of developing CHF increases rapidly with increasing total cumulative doses of doxorubicin in excess of 400 mg/m2.
 
 Cardiotoxicity may occur at lower doses in patients with prior mediastinal/pericardial irradiation, concomitant use of other cardiotoxic drugs, doxorubicin exposure at an early age, and advanced age.
-Data also suggest that pre-existing heart disease is a cofactor for increased risk of doxorubicin cardiotoxicity.
+Data also suggest that pre-existing heart disease is a co-factor for increased risk of doxorubicin cardiotoxicity.
 In such cases, cardiac toxicity may occur at doses lower than the recommended cumulative dose of doxorubicin.
-Studies have suggested that concomitant administration of doxorubicin and calcium channel entry blockers may increase the risk of doxorubicin cardiotoxicity.
+Studies have suggested that concomitant administration of doxorubicin and calcium channel entry blockers or cardiotoxic drugs, especially those with long half-lives, e.g., trastuzumab, may increase the risk of doxorubicin cardiotoxicity (see PRECAUTIONS, General; DOSAGE AND ADMINISTRATION).
 The total dose of doxorubicin administered to the individual patient should also take into account previous or concomitant therapy with related compounds such as daunorubicin, idarubicin and mitoxantrone.
 Although not formally tested, it is probable that the toxicity of doxorubicin and other anthracyclines or anthracenediones is additive.
 Cardiomyopathy and/or congestive heart failure may be encountered several months or years after discontinuation of doxorubicin therapy.
@@ -69,7 +69,7 @@ Acute life-threatening arrhythmias have been reported to occur during or within 
 As with other cytotoxic agents, doxorubicin may produce myelosuppression.
 Myelosuppression requires careful monitoring.
 Total and differential WBC, red blood cell (RBC), and platelet counts should be assessed before and during each cycle of therapy with doxorubicin.
-A dose-dependent, reversible leukopenia and/or granulocytopenia (neutropenia) are the predominant manifestations of doxorubicin hematologic toxicity and is the most common acute dose-limiting toxicity of this drug.
+A dose-dependent, reversible leukopenia and/or granulocytopenia (neutropenia) are the predominant manifestations of doxorubicin hematologic toxicity and is the most common acute dose-limiting toxicities of this drug.
 With the recommended dose schedule, leukopenia is usually transient, reaching its nadir 10 to 14 days after treatment with recovery usually occurring by the 21st day.
 Thrombocytopenia and anemia may also occur.
 Clinical consequences of severe myelosuppression include fever, infections, sepsis/septicemia, septic shock, hemorrhage, tissue hypoxia, or death.
@@ -80,7 +80,7 @@ The occurrence of secondary AML or MDS has been reported most commonly in patien
 Such cases generally have a 1 to 3 year latency period.
 The rate of developing secondary AML or MDS has been estimated in an analysis of 8563 patients with early breast cancer treated in 6 studies conducted by the National Surgical Adjuvant Breast and Bowel Project (NSABP), including NSABP B-15.
 Patients in these studies received standard doses of doxorubicin and standard or escalated doses of cyclophosphamide (AC) adjuvant chemotherapy and were followed for 61,810 patient years.
-Among 4483 such patients who received conventional doses of AC, 11 cases of AML or MDS were identified, for an incidence of 0.32 cases per 1000 patient years (95% CI 0.16 to 0.57) and a cumulative incidence at 5 years of 0.21% (95% CI 0.11 to 0.41%).
+Among 4483 such patients who received conventional doses of AC, 11 cases of AML or MDS were identified, for an incidence of 0.32 cases per 1000 patient years (95% Cl, 0.16 to 0.57) and a cumulative incidence at 5 years of 0.21% (95% Cl, 0.11 to 0.41%).
 In another analysis of 1474 patients with breast cancer who received adjuvant treatment with doxorubicin-containing regimens in clinical trials conducted at University of Texas M.D.
 Anderson Cancer Center, the incidence was estimated at 1.5% at 10 years.
 In both experiences, patients who received regimens with higher cyclophosphamide dosages, who received radiotherapy, or who were aged 50 or older had an increased risk of secondary AML or MDS.
@@ -100,6 +100,12 @@ If any signs or symptoms of extravasation have occurred, the injection or infusi
 ## Hepatic Impairment
 
 Since metabolism and excretion of doxorubicin occurs predominantly by the hepatobiliary route, toxicity of recommended doses of doxorubicin can be enhanced by hepatic impairment; therefore, prior to individual dosing, evaluation of hepatic function is recommended using conventional laboratory tests such as SGOT, SGPT, alkaline phosphatase, and bilirubin (see DOSAGE AND ADMINISTRATION).
+
+## Immunosuppressant Effects/Increased Susceptibility to Infections
+
+Administration of live or live attenuated vaccines in patients immunocompromised by chemotherapeutic agents including doxorubicin, may result in serious or fatal infections.
+Vaccination with a live vaccine should be avoided in patients receiving doxorubicin.
+Killed or inactivated vaccines may be administered; however, the response to such vaccines may be diminished.
 
 ## Pregnancy Category D
 
@@ -121,6 +127,10 @@ Women of childbearing age should be advised to avoid becoming pregnant.
 Doxorubicin is not an anti-microbial agent.
 Doxorubicin is emetigenic.
 Antiemetics may reduce nausea and vomiting; prophylactic use of antiemetics should be considered before administration of doxorubicin, particularly when given in conjunction with other emetigenic drugs.
+Doxorubicin should not be administered in combination with other cardiotoxic agents unless the patient’s cardiac function is closely monitored.
+Patients receiving doxorubicin after stopping treatment with other cardiotoxic agents, especially those with long half-lives such as trastuzumab, may also be at an increased risk of developing cardiotoxicity.
+Physicians should avoid doxorubicin-based therapy for up to 24 weeks after stopping trastuzumab when possible.
+If doxorubicin used before this time, careful monitoring of cardiac function is recommended (see WARNINGS, DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
 
@@ -168,6 +178,11 @@ Cytarabine
 
 Necrotizing colitis manifested by typhlitis (cecal inflammation), bloody stools and severe and sometimes fatal infections have been associated with a combination of doxorubicin given by intravenous push daily for 3 days and cytarabine given by continuous infusion daily for 7 or more days.
 
+Sorafenib
+
+In clinical studies, both an increase of 21% and 47% and no change in the AUC of doxorubicin were observed with concomitant treatment with sorafenib 400 mg twice daily.
+The clinical significance of these findings is unknown.
+
 Cyclophosphamide
 
 The addition of cyclophosphamide to doxorubicin treatment does not affect exposure to doxorubicin, but may result in an increase in exposure to doxorubicinol, a metabolite.
@@ -177,20 +192,20 @@ Acute myeloid leukemia has been reported as a second malignancy after treatment 
 
 Literature reports have also described the following drug interactions
 
-Phenobarbital increases the elimination of doxorubicin; phenytoin levels may be decreased by doxorubicin; streptozocin (Zanosar®) may inhibit hepatic metabolism of doxorubicin; saquinavir in combination with cyclophosphamide, doxorubicin, and etoposide increased mucosal toxicity in patients with HIV-associated non-Hodgkin’s lymphoma; and administration of live vaccines to immunosuppressed patients including those undergoing cytotoxic chemotherapy may be hazardous.
+Phenobarbital increases the elimination of doxorubicin; phenytoin levels may be decreased by doxorubicin; streptozocin (Zanosar®) may inhibit hepatic metabolism of doxorubicin; saquinavir in combination with cyclophosphamide, doxorubicin, and etoposide increased mucosal toxicity in patients with HIV-associated non-Hodgkin’s lymphoma; and administration of live vaccines to immunosuppressed patients including those undergoing cytotoxic chemotherapy may be hazardous (seeWARNINGS).
 
 ## Laboratory Tests
 
 Initial treatment with doxorubicin requires observation of the patient and periodic monitoring of complete blood counts, hepatic function tests, and left ventricular ejection fraction (see WARNINGS).
 Abnormalities of hepatic function tests may occur.
-Like other cytotoxic drugs, doxorubicin may induce “tumor lysis syndrome” and hyperuricemia in patients with rapidly growing tumors.
+Like other cytotoxic drugs, doxorubicin may induce “tumor-lysis syndrome” and hyperuricemia in patients with rapidly growing tumors.
 Blood uric acid levels, potassium, calcium, phosphate, and creatinine should be evaluated after initial treatment.
 Hydration, urine alkalinization, and prophylaxis with allopurinol to prevent hyperuricemia may minimize potential complications of tumor-lysis syndrome.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenicity studies have not been conducted with doxorubicin.
-Secondary acutemyelogenous leukemia (AML) or myelodysplastic syndrome (MDS) have been reported in patients treated with doxorubicin-containing combination chemotherapy regimens (see WARNINGS).
+Secondary acute myelogenous leukemia (AML) or myelodysplastic syndrome (MDS) have been reported in patients treated with doxorubicin-containing combination chemotherapy regimens (see WARNINGS).
 Pediatric patients treated with doxorubicin or other topoisomerase II inhibitors are at risk for developing acute myelogenous leukemia and other neoplasms.
 Doxorubicin was mutagenic in the in vitro Ames assay, and clastogenic in multiple in vitro assays (CHO cell, V79 hamster cell, human lymphoblast, and SCE assays) and the in vivo mouse micronucleus assay.
 
@@ -215,11 +230,13 @@ Doxorubicin may cause amenorrhea.
 Ovulation and menstruation may return after termination of therapy, although premature menopause can occur.
 Recovery of menses is related to age at treatment.
 
-Secondary acute myelogenous leukemia (AML) or myelodysplastic syndrome (MDS) have been reported in patients treated with anthracycline-containing adjuvant combination chemotherapy regimens (see WARNINGS, Hematologic).
+Secondary acute myelogenous leukemia (AML) or myelodysplastic syndrome (MDS) have been reported in patients treated with anthracycline-containing adjuvant combination chemotherapy regimens (see WARNINGS, Hematologic Toxicity).
 
-## Pregnancy Category D
+## Pregnancy
 
-(See WARNINGS.)
+Teratogenic Effects: Pregnancy Category D
+
+(See WARNINGS).
 
 ## Nursing Mothers
 

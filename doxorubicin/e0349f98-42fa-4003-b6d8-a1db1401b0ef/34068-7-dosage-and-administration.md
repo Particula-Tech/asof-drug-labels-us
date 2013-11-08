@@ -1,5 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
+When possible, to reduce the risk of developing cardiotoxicity in patients receiving doxorubicin after stopping treatment with other cardiotoxic agents, especially those with long half-lives sch as trastuzumab, doxorubicin-based therapy should be delayed until the other agents have cleared from the circulation (see WARNINGS and PRECAUTIONS, General).
+
 Care in the administration of doxorubicin will reduce the chance of perivenous infiltration (see WARNINGS).
 It may also decrease the chance of local reactions such as urticaria and erythematous streaking.
 On intravenous administration of doxorubicin, extravasation may occur with or without an accompanying burning or stinging sensation, even if blood returns well on aspiration of the infusion needle.
@@ -13,7 +15,7 @@ The most commonly used dose schedule when used as a single agent is 60 to 75 mg/
 The lower dosage should be given to patients with inadequate marrow reserves due to old age, or prior therapy, or neoplastic marrow infiltration.
 
 Doxorubicin has been used concurrently with other approved chemotherapeutic agents.
-Evidence is available that in some types of neoplastic disease combination chemotherapy is superior to single agents.
+Evidence is available that in some types of neoplastic disease, combination chemotherapy is superior to single agents.
 The benefits and risks of such therapy continue to be elucidated.
 When used in combination with other chemotherapy drugs, the most commonly used dosage of doxorubicin is 40 to 60 mg/m2 given as a single intravenous injection every 21 to 28 days.
 
@@ -37,10 +39,10 @@ Doxorubicin dosage must be reduced in case of hyperbilirubinemia as follows:
 It is recommended that doxorubicin be slowly administered into the tubing of a freely running intravenous infusion of Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP.
 The tubing should be attached to a Butterfly® needle inserted preferably into a large vein.
 If possible, avoid veins over joints or in extremities with compromised venous or lymphatic drainage.
-The rate of administration is dependent on the size of the vein, and the dosage.
+The rate of administration is dependent on the size of the vein and the dosage.
 However, the dose should be administered in not less than 3 to 5 minutes.
 Local erythematous streaking along the vein as well as facial flushing may be indicative of too rapid an administration.
-A burning or stinging sensation may be indicative of perivenous infiltration and the infusion should be immediately terminated and restarted in another vein.
+A burning or stinging sensation may be indicative of perivenous infiltration and, if this occurs, the infusion should be immediately terminated and restarted in another vein.
 Perivenous infiltration may occur painlessly.
 
 Doxorubicin should not be mixed with heparin or fluorouracil since it has been reported that these drugs are incompatible to the extent that a precipitate may form.
@@ -52,7 +54,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 ## Handling and Disposal
 
 Procedures for proper handling and disposal of anti-cancer drugs should be considered.
-Several guidelines on this subject have been published.1-8 There is no general agreement that all the procedures recommended in the guidelines are necessary or appropriate.
+Several guidelines on this subject have been published.1-4 There is no general agreement that all the procedures recommended in the guidelines are necessary or appropriate.
 However, given the toxic nature of this substance, the following protective recommendations are provided:
 
 - Personnel should be trained in good technique for reconstitution and handling.
@@ -63,7 +65,7 @@ However, given the toxic nature of this substance, the following protective reco
 - All items used for reconstitution, administration or cleaning, including gloves, should be placed in high-risk waste-disposal bags for high-temperature incineration.
 - Spillage or leakage should be treated with dilute sodium hypochlorite (1% available chlorine) solution, preferably by soaking, and then water.
 - All cleaning materials should be disposed of as indicated previously.
-- In case of skin contact thoroughly wash the affected area with soap and water or sodium bicarbonate solution.
+- In case of skin contact, thoroughly wash the affected area with soap and water or sodium bicarbonate solution.
   However, do not abrade the skin by using a scrub brush.
 - In case of contact with the eye(s), hold back the eyelid(s) and flush the affected eye(s) with copious amounts of water for at least 15 minutes.
   Then seek medical evaluation by a physician.

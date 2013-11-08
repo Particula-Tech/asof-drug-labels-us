@@ -16,4 +16,4 @@ Retain vial in carton until time of use.
 Preservative Free.
 Discard unused portion.
 
-Vial stoppers do not contain natural rubber latex.
+This container closure is not made with natural rubber latex.
