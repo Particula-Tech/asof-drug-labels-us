@@ -1,6 +1,6 @@
 NDC 0074–1564–10
 
-10 Single Dose Vials 5 mL Sterile Solution per Vial
+Sterile 5 mL Single Dose Vial
 
 DEPACON®
 
@@ -10,6 +10,8 @@ VALPROATE SODIUM INJECTION
 
 Valproic Acid Activity
 
-FOR INTRAVENOUS INFUSION ONLY.
+For Intravenous Infusion Only
 
 Rx only
+
+abbvie
