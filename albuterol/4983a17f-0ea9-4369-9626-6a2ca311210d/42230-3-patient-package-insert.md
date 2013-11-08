@@ -89,10 +89,11 @@ If you have any questions, ask your doctor or pharmacist.
 3. Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
    Right after the spray comes out, take your finger off the canister.
    After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
-4. Hold your breath as long as you can, up to 10 seconds, then breathe normally.
-5. If your doctor has prescribed more sprays, wait 1 minute and shake the inhaler again.
+4. 
+5. Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+6. If your doctor has prescribed more sprays, wait 1 minute and shake the inhaler again.
    Repeat steps 2 through 4.
-6. Put the cap back on the mouthpiece after every time you use the inhaler, and make sure it snaps firmly into place.
+7. Put the cap back on the mouthpiece after every time you use the inhaler, and make sure it snaps firmly into place.
 
 When to Replace Your PROAIR HFA
 

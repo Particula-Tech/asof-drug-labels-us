@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE & HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 PROAIR HFA (albuterol sulfate) Inhalation Aerosol is supplied as a pressurized aluminum canister with a red plastic actuator and white dust cap each in boxes of one.
 Each canister contains 8.5 g of the formulation and provides 200 actuations (NDC 59310-579-20).

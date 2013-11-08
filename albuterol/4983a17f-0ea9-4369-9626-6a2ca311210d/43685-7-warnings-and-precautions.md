@@ -1,4 +1,4 @@
-# 5 WARNINGS & PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Paradoxical Bronchospasm
 

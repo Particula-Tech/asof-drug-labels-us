@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS & STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 PROAIR HFA is an inhalation aerosol.
 PROAIR HFA is supplied as an 8.5 g/200 actuations pressurized aluminum canister with a red plastic actuator and white dust cap each in boxes of one.
