@@ -1,8 +1,11 @@
+|  | PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION |  |
+| --- | --- | --- |
+
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of ampicillin and other antibacterial drugs, Ampicillin for Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-07-2011M
+09-2013M
 
-46067548
+46119406
 
 Manufactured in Austria by Sandoz GmbH
 

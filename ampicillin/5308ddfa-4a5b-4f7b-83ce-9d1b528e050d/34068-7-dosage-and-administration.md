@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 This insert is for a Pharmacy Bulk Package and is intended for preparing IV admixtures only.
-Dosage recommendations for intramuscular or direct intravenous injection are for informational purposes only.
+Dosage recommendations for intramuscular injection are for informational purposes only.
 
 Infections of the respiratory tract and soft tissues.
 
@@ -57,20 +57,20 @@ Stability studies on ampicillin sodium at several concentrations in various intr
 | Room Temperature (25° C) |  |  |
 | --- | --- | --- |
 | Diluent | Concentrations | Stability Periods |
-| Sterile Water for Injection | up to 30 mg/mL | 8 hours |
-| Sodium Chloride Injection USP, 0.9% | up to 30 mg/mL | 8 hours |
-| 5% Dextrose in Water | 10 to 20 mg/mL | 1 hour |
-| 5% Dextrose in Water | up to 2 mg/mL | 2 hours |
-| 5% Dextrose in 0.45% NaCl Inj. | up to 2 mg/mL | 2 hours |
-| Lactated Ringers Solution | up to 30 mg/mL | 8 hours |
+| Sterile Water for Injection USP | up to 30 mg/mL | 8 hours |
+| 0.9% Sodium Chloride Injection USP | up to 30 mg/mL | 8 hours |
+| 5% Dextrose Injection USP | 10 to 20 mg/mL | 1 hour |
+| 5% Dextrose Injection USP | up to 2 mg/mL | 2 hours |
+| 5% Dextrose and 0.45% NaCl Injection USP | up to 2 mg/mL | 2 hours |
+| Lactated Ringer’s Injection USP | up to 30 mg/mL | 8 hours |
 | Refrigerated (4° C) |  |  |
-| Sterile Water for Injection | 30 mg/mL | 48 hours |
-| Sterile Water for Injection | up to 20 mg/mL | 72 hours |
-| Sodium Chloride Injection USP, 0.9% | 30 mg/mL | 24 hours |
-| Sodium Chloride Injection USP, 0.9% | up to 20 mg/mL | 48 hours |
-| Lactated Ringers Solution | up to 30 mg/mL | 24 hours |
-| 5% Dextrose in Water | up to 20 mg/mL | 1 hour |
-| 5% Dextrose and 0.45% NaCl Inj. | up to 10 mg/mL | 1 hour |
+| Sterile Water for Injection USP | 30 mg/mL | 48 hours |
+| Sterile Water for Injection USP | up to 20 mg/mL | 72 hours |
+| 0.9% Sodium Chloride Injection USP | 30 mg/mL | 24 hours |
+| 0.9% Sodium Chloride Injection USP | up to 20 mg/mL | 48 hours |
+| Lactated Ringer’s Injection USP | up to 30 mg/mL | 24 hours |
+| 5% Dextrose Injection USP | up to 20 mg/mL | 1 hour |
+| 5% Dextrose and 0.45% NaCl Injection USP | up to 10 mg/mL | 1 hour |
 
 Only those solutions listed above should be used for the intravenous infusion of Ampicillin for Injection, USP.
 The concentrations should fall within the range specified.
