@@ -25,17 +25,17 @@ When you spray FLONASE into your nose, it helps to reduce the symptoms of allerg
 
 THINGS TO REMEMBER ABOUT FLONASE NASAL SPRAY
 
-1. Shake gently before using.
-2. Use your nasal spray as directed by your doctor.
+1. 1.Shake gently before using.
+2. 2.Use your nasal spray as directed by your doctor.
    The directions are on the pharmacy label.
-3. Keep your nasal spray out of the reach of children.
+3. 3.Keep your nasal spray out of the reach of children.
 
 BEFORE USING YOUR NASAL SPRAY
 
-- If you are pregnant (or intending to become pregnant),
-- If you are breastfeeding a baby,
-- If you are allergic to FLONASE Nasal Spray or any other nasal corticosteroid,
-- If you are taking a medicine containing ritonavir (commonly used to treat HIV infection or AIDS),
+- •If you are pregnant (or intending to become pregnant),
+- •If you are breastfeeding a baby,
+- •If you are allergic to FLONASE Nasal Spray or any other nasal corticosteroid,
+- •If you are taking a medicine containing ritonavir (commonly used to treat HIV infection or AIDS),
 
 TELL YOUR DOCTOR BEFORE STARTING TO TAKE THIS MEDICINE.
 In some circumstances, this medicine may not be suitable and your doctor may wish to give you a different medicine.
@@ -43,31 +43,31 @@ Make sure that your doctor knows what other medicines you are taking.
 
 USING YOUR NASAL SPRAY
 
-- Follow the instructions shown in the rest of this leaflet.
+- •Follow the instructions shown in the rest of this leaflet.
   If you have any problems, tell your doctor or pharmacist.
-- It is important that you use it as directed by your doctor.
+- •It is important that you use it as directed by your doctor.
   The pharmacist's label will usually tell you what dose to take and how often.
   If it doesn't, or you are not sure, ask your doctor or pharmacist.
 
 DOSAGE
 
-- For ADULTS, the usual starting dosage is 2 sprays in each nostril once daily.
+- •For ADULTS, the usual starting dosage is 2 sprays in each nostril once daily.
   Sometimes your doctor may recommend using 1 spray in each nostril twice a day (morning and evening).
   You should not use more than a total of 2 sprays in each nostril daily.
   After you have begun to feel better, 1 spray in each nostril daily may be adequate for you.
-  For ADOLESCENTS and CHILDREN (4 years of age and older), the usual starting dosage is 1 spray in each nostril once daily.
+- For ADOLESCENTS and CHILDREN (4 years of age and older), the usual starting dosage is 1 spray in each nostril once daily.
   Sometimes your doctor may recommend using 2 sprays in each nostril daily.
   Then, after you have begun to feel better, 1 spray in each nostril daily may be adequate for you.
 
-- DO NOT use more of your medicine or take it more often than your doctor advises.
-- FLONASE may begin to work within 12 hours of the first dose, but it takes several days of regular use to reach its greatest effect.
+- •DO NOT use more of your medicine or take it more often than your doctor advises.
+- •FLONASE may begin to work within 12 hours of the first dose, but it takes several days of regular use to reach its greatest effect.
   It is important that you use FLONASE Nasal Spray as prescribed by your doctor.
   Best results will be obtained by using the spray on a regular basis.
   If symptoms disappear, contact your doctor for further instructions.
-- If you also have itchy, watery eyes, you should tell your doctor.
+- •If you also have itchy, watery eyes, you should tell your doctor.
   You may be given an additional medicine to treat your eyes.
   Be careful not to confuse them, particularly if the second medicine is an eye drop.
-- If you miss a dose, just take your regularly scheduled next dose when it is due.
+- •If you miss a dose, just take your regularly scheduled next dose when it is due.
   DO NOT DOUBLE the dose.
 
 HOW TO USE YOUR NASAL SPRAY
@@ -123,19 +123,19 @@ CLEANING
 Your nasal spray should be cleaned at least once a week.
 To do this:
 
-1. Remove the dust cover and then gently pull upwards to free the nasal applicator.
-2. Wash the applicator and dust cover under warm tap water.
+1. 1.Remove the dust cover and then gently pull upwards to free the nasal applicator.
+2. 2.Wash the applicator and dust cover under warm tap water.
    Allow to dry at room temperature, then place the applicator and dust cover back on the bottle.
-3. If the nasal applicator becomes blocked, it can be removed as above and left to soak in warm water.
+3. 3.If the nasal applicator becomes blocked, it can be removed as above and left to soak in warm water.
    Rinse with cold tap water, dry, and refit.
    Do not try to unblock the nasal applicator by inserting a pin or other sharp object.
 
 STORING YOUR NASAL SPRAY
 
-- Keep your FLONASE Nasal Spray out of the reach of children.
-- Avoid spraying in eyes.
-- Store between 4° and 30°C (39° and 86°F).
-- Do not use your FLONASE Nasal Spray after the date shown as "EXP" on the label or box.
+- •Keep your FLONASE Nasal Spray out of the reach of children.
+- •Avoid spraying in eyes.
+- •Store between 4° and 30°C (39° and 86°F).
+- •Do not use your FLONASE Nasal Spray after the date shown as "EXP" on the label or box.
 
 REMEMBER: This medicine has been prescribed for you by your doctor.
 DO NOT give this medicine to anyone else.

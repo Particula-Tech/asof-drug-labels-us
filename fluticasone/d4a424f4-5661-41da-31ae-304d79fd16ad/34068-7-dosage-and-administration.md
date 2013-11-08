@@ -16,7 +16,7 @@ Patients should be started with 100 mcg (1 spray in each nostril once daily).
 Patients not adequately responding to 100 mcg may use 200 mcg (2 sprays in each nostril).
 Once adequate control is achieved, the dosage should be decreased to 100 mcg (1 spray in each nostril) daily.
 
-The maximum total daily dosage should not exceed 2 sprays in each nostril (200 mcg/day) (see CLINICAL TRIALS: Individualization of Dosage)
+The maximum total daily dosage should not exceed 2 sprays in each nostril (200 mcg/day) (see CLINICAL TRIALS: Individualization of Dosage).
 
 FLONASE Nasal Spray is not recommended for children under 4 years of age.
 
