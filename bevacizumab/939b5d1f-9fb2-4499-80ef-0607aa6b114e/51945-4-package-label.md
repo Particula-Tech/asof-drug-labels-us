@@ -29,5 +29,3 @@ For Intravenous Use
 DISCARD UNUSED PORTION.
 
 Rx only
-
-Genentech
