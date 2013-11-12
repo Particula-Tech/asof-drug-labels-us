@@ -18,8 +18,8 @@
    Blood.
    2003;102(11):127b.
 
-Revised: 07/2012
+Revised: 08/2013
 
-EN-2985
+EN-3340
 
 Hospira, Inc., Lake Forest, IL 60045 USA

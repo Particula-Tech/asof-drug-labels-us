@@ -14,9 +14,7 @@ This complication, if unrecognized, may be fatal.
 
 c. Retroperitoneal hemorrhage.
 
-Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis)
-
-See WARNINGS.
+Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis) See WARNINGS.
 
 Local Irritation Local irritation, erythema, mild pain, hematoma, or ulceration may follow deep subcutaneous (intrafat) injection of heparin sodium.
 These complications are much more common after intramuscular use, and such use is not recommended.

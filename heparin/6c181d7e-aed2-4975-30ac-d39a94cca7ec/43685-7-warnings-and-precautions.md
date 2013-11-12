@@ -72,9 +72,7 @@ Pediatric patients, including neonates, have died as a result of medication erro
 
 General
 
-Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis)
-
-See WARNINGS.
+Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis) See WARNINGS.
 
 Heparin Resistance Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients.
 
