@@ -128,6 +128,6 @@ The makers of these brands are not affiliated with and do not endorse NuPathe or
 
 ©2013 NuPathe Inc. All rights reserved.
 
-NuPathe Inc. 227 Washington Street Conshohocken, PA 19428
+NuPathe Inc. 7 Great Valley Parkway, Suite 300 Malvern, PA 19355
 
 Approved: January 2013
