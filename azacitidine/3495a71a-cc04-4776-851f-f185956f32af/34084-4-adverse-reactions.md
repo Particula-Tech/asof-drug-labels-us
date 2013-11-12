@@ -36,10 +36,9 @@ Most patients received daily VIDAZA doses of 75 mg/m2.
 Table 1 presents adverse reactions occurring in at least 5% of patients treated with VIDAZA (SC) in Studies 1 and 2.
 It is important to note that duration of exposure was longer for the VIDAZA-treated group than for the observation group: patients received VIDAZA for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
-Table 1: Most Frequently Observed Adverse Reactions (≥ 5.0% in All SC VIDAZA Treated Patients; Studies 1 and 2)
-
 | System Organ Class Preferred Terma | All VIDAZAb (N=220) | Observationc (N=92) |
 | --- | --- | --- |
+| Table 1: Most Frequently Observed Adverse Reactions (≥ 5.0% in All SC VIDAZA Treated Patients; Studies 1 and 2) |  |  |
 |  | Number (%) of Patients |  |
 | Blood and lymphatic system disorders |  |  |
 | Anemia | 153 (69.5) | 59 (64.1) |
@@ -109,10 +108,9 @@ Table 1: Most Frequently Observed Adverse Reactions (≥ 5.0% in All SC VIDAZA T
 Table 2 presents adverse reactions occurring in at least 5% of patients treated with VIDAZA in Study 4.
 Similar to Studies 1 and 2 described above, duration of exposure to treatment with VIDAZA was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
 
-Table 2: Most Frequently Observed Adverse Reactions (≥ 5.0% in the VIDAZA Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
-
 | System Organ Class Preferred Terma | VIDAZA (N=175) | Best Supportive Care Only (N=102) | VIDAZA (N=175) | Best Supportive Care Only (N=102) |
 | --- | --- | --- | --- | --- |
+| Table 2: Most Frequently Observed Adverse Reactions (≥ 5.0% in the VIDAZA Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4) |  |  |  |  |
 |  | Number (%) of Patients |  |  |  |
 |  | Any Grade |  | Grade 3/4 |  |
 | Blood and lymphatic system disorders |  |  |  |  |
@@ -213,7 +211,7 @@ Vascular disorders: orthostatic hypotension.
 The following adverse reactions have been identified during postmarketing use of VIDAZA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Interstitial lung disease
-- Tumor lysis syndrome
-- Injection site necrosis
-- Sweet’s syndrome (acute febrile neutrophilic dermatosis)
+- – Interstitial lung disease
+- – Tumor lysis syndrome
+- – Injection site necrosis
+- – Sweet’s syndrome (acute febrile neutrophilic dermatosis)

@@ -113,6 +113,8 @@ The hazard ratio describing this treatment effect was 0.58 (95% CI: 0.43, 0.77).
 
 Kaplan-Meier Curve of Time to Death from Any Cause: (Intent-to-Treat Population)
 
+Key: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = Hazard Ratio
+
 Azacitidine treatment led to a reduced need for red blood cell transfusions (see Table 6).
 In patients treated with azacitidine who were RBC transfusion dependent at baseline and became transfusion independent, the median duration of RBC transfusion independence was 13.0 months.
 
