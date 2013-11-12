@@ -11,7 +11,6 @@ Prior to Lexiscan administration, patients should be informed of the most common
 ## 17.3 Patients with COPD or Asthma
 
 Patients with COPD or asthma should be informed to discuss their respiratory history and administration of pre-and post-study bronchodilator therapy with their clinician before scheduling an MPI study with Lexiscan.
-
 Rx Only
 
 Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
@@ -21,6 +20,4 @@ Syringes Manufactured by: Hospira, Inc. Lake Forest, IL 60045 USA
 Only Lexiscan is the trademark of Astellas US, LLC.
 Other trademarks listed belong to their respective owners.
 
-Revised: July 2012
-
-12D028-LEX-SPL
+Revised: October 2013 13G036-1-LEX-SPL

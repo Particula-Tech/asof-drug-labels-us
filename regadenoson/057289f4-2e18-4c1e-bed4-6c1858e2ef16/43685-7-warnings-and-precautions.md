@@ -2,7 +2,8 @@
 
 ## 5.1 Myocardial Ischemia
 
-Fatal cardiac arrest, life threatening ventricular arrhythmias, and myocardial infarction may result from the ischemia induced by pharmacologic stress agents.
+Fatal and nonfatal myocardial infarction, ventricular arrhythmias, and cardiac arrest have occurred following Lexiscan injection.
+Avoid use in patients with symptoms or signs of acute myocardial ischemia, for example unstable angina or cardiovascular instability; these patients may be at greater risk of serious cardiovascular reactions to Lexiscan.
 Cardiac resuscitation equipment and trained staff should be available before administering Lexiscan.
 If serious reactions to Lexiscan occur, consider the use of aminophylline, an adenosine antagonist, to shorten the duration of increased coronary blood flow induced by Lexiscan [see Overdosage (10)].
 
@@ -12,7 +13,7 @@ Adenosine receptor agonists, including Lexiscan, can depress the SA and AV nodes
 In clinical trials first-degree AV block (PR prolongation > 220 msec) developed in 3% of patients within 2 hours of Lexiscan administration; transient second-degree AV block with one dropped beat was observed in one patient receiving Lexiscan.
 In postmarketing experience, third degree heart block and asystole within minutes of Lexiscan administration have occurred [see Adverse Reactions (6.2)].
 
-## 5.3 Hypersensitivity, including Anaphylaxis
+## 5.3 Hypersensitivity, Including Anaphylaxis
 
 Anaphylaxis, angioedema, cardiac or respiratory arrest, respiratory distress, decreased oxygen saturation, hypotension, throat tightness, urticaria and rashes have occurred.
 In clinical trials, hypersensitivity reactions were reported in fewer than 1 percent of patients [see Adverse Reactions (6.1)].
@@ -29,8 +30,8 @@ In postmarketing experience, syncope, transient ischemic attacks and seizures ha
 
 Administration of adenosine receptor agonists, including Lexiscan, may result in clinically significant increases in blood pressure in some patients.
 Among patients who experienced an increase in blood pressure in clinical trials, the increase was observed within minutes of Lexiscan administration.
-Most increases resolved within 10 to 15 minutes, but in some cases, increases were observed at 45 minutes following administration [seeClinical Pharmacology (12.2)].
-In post-marketing experience, cases of potentially clinically significant hypertension have been reported, particularly with underlying hypertension and when low-level exercise was included in the MPI [seeAdverse Reactions (6.2)].
+Most increases resolved within 10 to 15 minutes, but in some cases, increases were observed at 45 minutes following administration [see Clinical Pharmacology (12.2)].
+In post-marketing experience, cases of potentially clinically significant hypertension have been reported, particularly with underlying hypertension and when low-level exercise was included in the MPI [see Adverse Reactions (6.2)].
 
 ## 5.6 Bronchoconstriction
 

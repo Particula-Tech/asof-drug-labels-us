@@ -1,5 +1,14 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse reactions are discussed in more detail in other sections of the labeling.
+
+- •Myocardial Ischemia [see Warnings and Precautions (5.1)]
+- •Sinoatrial and Atrioventricular Nodal Block [see Warnings and Precautions (5.2)]
+- •Hypersensitivity, Including Anaphylaxis [see Warnings and Precautions (5.3)]
+- •Hypotension [see Warnings and Precautions (5.4)]
+- •Hypertension [see Warnings and Precautions (5.5)]
+- •Bronchoconstriction [see Warnings and Precautions (5.6)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -71,7 +80,8 @@ In a randomized, placebo-controlled trial of 504 subjects (Lexiscan n=334 and pl
 
 Cardiovascular
 
-Heart block (including third degree block), asystole, marked hypertension, symptomatic hypotension in association with transient ischemic attack, seizures and syncope [see Warnings and Precautions (5)], requiring intervention with fluids and/or aminophylline have occurred.
+Myocardial infarction, cardiac arrest, ventricular arrhythmias, supraventricular tachyarrhythmias including atrial fibrillation or flutter, heart block (including third degree block), asystole, marked hypertension, symptomatic hypotension in association with transient ischemic attack, seizures and syncope [see Warnings and Precautions (5.1)] have been reported.
+Some events required intervention with fluids and/or aminophylline.
 QTc prolongation shortly after Lexiscan administration has been reported.
 
 Central Nervous System
