@@ -178,7 +178,7 @@ Table 12: Results from 52−Week Clinical Study Comparing INVOKANA to Sitaglipti
 | HbA1C (%) |  |  |
 | Baseline (mean) | 8.12 | 8.13 |
 | Change from baseline (adjusted mean) | -1.03 | -0.66 |
-| Difference from sitagliptin (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors | -0.37INVOKANA + metformin is considered non-inferior to sitagliptin + metformin because the upper limit of this confidence interval is less than the pre-specified non-inferiority margin of < 0.3%. (-0.50; -0.25) |  |
+| Difference from sitagliptin (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors | -0.37INVOKANA + metformin + sulfonylurea is considered non-inferior to sitagliptin + metformin + sulfonylurea because the upper limit of this confidence interval is less than the pre-specified non-inferiority margin of < 0.3%. (-0.50; -0.25) |  |
 | Percent of patients achieving HbA1C < 7% | 48 | 35 |
 | Fasting Plasma Glucose (mg/dL) |  |  |
 | Baseline (mean) | 170 | 164 |
