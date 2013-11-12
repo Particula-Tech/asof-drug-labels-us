@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "BLA125294"
+  ],
+  "inn": "filgrastim",
+  "labeler": "Cephalon, Inc",
+  "package_ndcs": [
+    "63459-910-01",
+    "63459-910-11",
+    "63459-910-12",
+    "63459-910-15",
+    "63459-912-01",
+    "63459-912-11",
+    "63459-912-12",
+    "63459-912-15"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tbo-filgrastim",
+      "name": "GRANIX"
+    }
+  ],
+  "setid": "df918ec2-0907-443f-a52a-b72866959644",
+  "source": "dailymed"
+}
