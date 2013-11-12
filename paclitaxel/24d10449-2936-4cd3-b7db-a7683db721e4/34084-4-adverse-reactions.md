@@ -261,7 +261,7 @@ In some instances, severe events observed with paclitaxel injection may be expec
 Hypersensitivity Reactions Severe and sometimes fatal hypersensitivity reactions have been reported with ABRAXANE.
 The use of ABRAXANE in patients previously exhibiting hypersensitivity to paclitaxel injection or human albumin has not been studied.
 
-Cardiovascular There have been reports of congestive heart failure and left ventricular dysfunction with ABRAXANE.
+Cardiovascular There have been reports of congestive heart failure, left ventricular dysfunction, and atrioventricular block with ABRAXANE.
 Most of the individuals were previously exposed to cardiotoxic drugs, such as anthracyclines, or had underlying cardiac history.
 
 Respiratory There have been reports of pneumonitis, interstitial pneumonia and pulmonary embolism in patients receiving ABRAXANE and reports of radiation pneumonitis in patients receiving concurrent radiotherapy.

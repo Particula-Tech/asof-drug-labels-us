@@ -114,7 +114,7 @@ Other ingredient: human albumin (containing sodium caprylate and sodium acetyltr
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: September 2013
+Revised: October 2013
 
 Manufactured for: Celgene Corporation Summit, NJ 07901
 
@@ -124,4 +124,4 @@ Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation.
 
 U.S. Patent Numbers: See www.celgene.com.
 
-ABRPPI.006 09/13
+ABRPPI.007 10/13
