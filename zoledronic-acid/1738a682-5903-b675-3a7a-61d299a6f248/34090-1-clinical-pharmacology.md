@@ -34,7 +34,7 @@ Pharmacokinetic data in patients with hypercalcemia are not available.
 
 Distribution
 
-Single or multiple (q 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid injection were given to 64 patients with cancer and bone metastases.
+Single or multiple (q 28 days) 5-minute or 15-minute infusions of 2, 4, 8, or 16 mg zoledronic acid injection were given to 64 patients with cancer and bone metastases.
 The postinfusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end of infusion to less than 1% of Cmax 24 hours postinfusion with population half-lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
 The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 postinfusion, and a terminal elimination half-life t 1/2γ of 146 hours.
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2 to 16 mg.
@@ -52,8 +52,7 @@ Following an intravenous dose of 20 nCi 14C-zoledronic acid in a patient with ca
 
 Excretion
 
-In 64 patients with cancer and bone metastases, on average (± s.d.)
-39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post-Day 2.
+In 64 patients with cancer and bone metastases, on average (± SD) 39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post-Day 2.
 The cumulative percent of drug excreted in the urine over 0 to 24 hours was independent of dose.
 The balance of drug not recovered in urine over 0 to 24 hours, representing drug presumably bound to bone, is slowly released back into the systemic circulation, giving rise to the observed prolonged low plasma concentrations.
 The 0 to 24 hour renal clearance of zoledronic acid was 3.7 ± 2 L/h.

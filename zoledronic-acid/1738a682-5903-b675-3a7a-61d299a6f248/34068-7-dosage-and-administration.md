@@ -31,7 +31,7 @@ Upon treatment initiation, the recommended zoledronic acid injection doses for p
 These doses are calculated to achieve the same AUC as that achieved in patients with creatinine clearance of 75 mL/min.
 Creatinine clearance (CrCl) is calculated using the Cockcroft-Gault formula [see Warnings and Precautions (5.2)].
 
-Table 1: Reduced Doses for Patients with Baseline CrCl less than or equal to 60 mL/min
+Table 1: Reduced Doses for Patients with Baseline CrCl Less Than or Equal to 60 mL/min
 
 | Baseline Creatinine Clearance (mL/min) | Zoledronic Acid Injection Recommended Dose* |
 | --- | --- |
@@ -55,17 +55,17 @@ Patients should also be administered an oral calcium supplement of 500 mg and a 
 
 ## 2.3. Preparation of Solution
 
-4 mg / 5 mL Single-Use Vial
-
 Zoledronic acid injection must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer’s solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
+
+4 mg / 5 mL Single-Use Vial
 
 Vials of zoledronic acid injection concentrate for infusion contain overfill allowing for the withdrawal of 5 mL of concentrate (equivalent to 4 mg zoledronic acid).
 This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.
 Do not store undiluted concentrate in a syringe, to avoid inadvertent injection.
 
-To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid injection concentrate from the vial for the dose required (see Table 3).
+To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid injection concentrate from the vial for the dose required (see Table 2).
 
-Table 3: Preparation of Reduced Doses Zoledronic Acid Injection Concentrate
+Table 2: Preparation of Reduced Doses Zoledronic Acid Injection Concentrate
 
 | Remove and Use Zoledronic Acid Injection Volume (mL) | Dose (mg) |
 | --- | --- |
