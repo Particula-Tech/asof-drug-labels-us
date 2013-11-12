@@ -33,10 +33,10 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 ## Drug Interactions
 
 Serious adverse reactions have been reported in patients taking erythromycin concomitantly with CYP3A4 substrates.
-These include colchicine toxicity with colchicine; rhabdomyolysis with simvastatin, lovastatin, and atorvastatin; and hypotension with calcium channel blockers metabolized by CYP3A4 (e.g., verapamil, amlodipine, diltiazem) (see PRECAUTIONS – Drug Interactions).
+These include colchicine toxicity with colchicine; rhabdomyolysis with simvastatin, lovastatin, and atorvastatin; and hypotension with calcium channel blockers metabolized by CYP3A4 (e.g., verapamil, amlodipine, diltiazem) (see PRECAUTIONS - Drug Interactions).
 
 There have been post-marketing reports of colchicine toxicity with concomitant use of erythromycin and colchicine.
-This interaction is potentially life-threatening, and may occur while using both drugs at their recommended doses (see PRECAUTIONS – Drug Interactions).
+This interaction is potentially life-threatening, and may occur while using both drugs at their recommended doses (see PRECAUTIONS - Drug Interactions).
 
 Rhabdomyolysis with or without renal impairment has been reported in seriously ill patients receiving erythromycin concomitantly with lovastatin.
 Therefore, patients receiving concomitant lovastatin and erythromycin should be carefully monitored for creatine kinase (CK) and serum transaminase levels.
@@ -55,7 +55,7 @@ Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myast
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
-A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.5 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
+A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8 to 14 days and 10% for infants who took erythromycin for 15 to 21 days.5 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
 Parents should be informed to contact their physician if vomiting or irritability with feeding occurs.
 
 Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi.
@@ -106,30 +106,17 @@ The following are examples of some clinically significant CYP3A based drug inter
 Interactions with other drugs metabolized by the CYP3A isoform are also possible.
 The following CYP3A based drug interactions have been observed with erythromycin products in post-marketing experience:
 
-### Ergotamine/dihydroergotamine
-
-Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
-Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
-
-### Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines
-
-Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
-
-### HMG-CoA Reductase Inhibitors
-
-Erythromycin has been reported to increase concentrations of HMG-CoA reductase inhibitors (e.g., lovastatin and simvastatin).
-Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly.
-
-### Sildenafil (Viagra)
-
-Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.
-Reduction of sildenafil dosage should be considered.
-(See Viagra package insert.)
-
-There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, vinblastine, and bromocriptine.
-
-Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
-(See CONTRAINDICATIONS.)
+- Ergotamine/dihydroergotamine Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
+  Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
+- Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
+- HMG-CoA Reductase Inhibitors Erythromycin has been reported to increase concentrations of HMG-CoA reductase inhibitors (e.g., lovastatin and simvastatin).
+  Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly.
+- Sildenafil (Viagra) Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.
+  Reduction of sildenafil dosage should be considered.
+  (See Viagra package insert.)
+- There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, vinblastine, and bromocriptine.
+- Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
+  (See CONTRAINDICATIONS.)
 
 In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
 
@@ -156,7 +143,7 @@ Erythromycin interferes with the fluorometric determination of urinary catechola
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long-term oral dietary studies conducted with erythromycin stearate in rats up to 400 mg/kg/day and in mice up to about 500 mg/kg/day (approximately 1-2 fold of the maximum human dose on a body surface area basis) did not provide evidence of tumorigenicity.
+Long-term oral dietary studies conducted with erythromycin stearate in rats up to 400 mg/kg/day and in mice up to about 500 mg/kg/day (approximately 1 to 2 fold of the maximum human dose on a body surface area basis) did not provide evidence of tumorigenicity.
 Erythromycin stearate did not show genotoxic potential in the Ames, and mouse lymphoma assays or induce chromosomal aberrations in CHO cells.
 There was no apparent effect on male or female fertility in rats treated with erythromycin base by oral gavage at 700 mg/kg/day (approximately 3 times the maximum human dose on a body surface area basis).
 
@@ -168,7 +155,7 @@ There was no apparent effect on male or female fertility in rats treated with er
 
 There is no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base by oral gavage at 350 mg/kg/day (approximately twice the maximum recommended human dose on a body surface area) prior to and during mating, during gestation, and through weaning.
 
-No evidence of teratogenicity or embryotoxicity was observed when erythromycin base was given by oral gavage to pregnant rats and mice at 700 mg/kg/day and to pregnant rabbits at 125 mg/kg/day (approximately 1-3 times the maximum recommended human dose).
+No evidence of teratogenicity or embryotoxicity was observed when erythromycin base was given by oral gavage to pregnant rats and mice at 700 mg/kg/day and to pregnant rabbits at 125 mg/kg/day (approximately 1 to 3 times the maximum recommended human dose).
 
 ## Labor and Delivery
 

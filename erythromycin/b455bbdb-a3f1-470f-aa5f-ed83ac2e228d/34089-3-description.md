@@ -12,15 +12,7 @@ E.E.S.
 Granules are intended for reconstitution with water.
 Each 5-mL teaspoonful of reconstituted cherry-flavored suspension contains erythromycin ethylsuccinate equivalent to 200 mg of erythromycin.
 
-The pleasant tasting, fruit-flavored liquids are supplied ready for oral administration.
-
-E.E.S.
-200 Liquid: Each 5-mL teaspoonful of fruit-flavored suspension contains erythromycin ethylsuccinate equivalent to 200 mg of erythromycin.
-
-E.E.S.
-400 Liquid: Each 5-mL teaspoonful of orange-flavored suspension contains erythromycin ethylsuccinate equivalent to 400 mg of erythromycin.
-
-Granules and ready-made suspensions are intended primarily for pediatric use but can also be used in adults.
+Granules are intended primarily for pediatric use but can also be used in adults.
 
 E.E.S.
 400 film-coated tablets: Each tablet contains erythromycin ethylsuccinate equivalent to 400 mg of erythromycin.
@@ -28,12 +20,6 @@ E.E.S.
 The film-coated tablets are intended primarily for adults or older children.
 
 ## Inactive Ingredients
-
-E.E.S.
-200 Liquid: FD&C Red No. 40, methylparaben, polysorbate 60, propylparaben, sodium citrate, sucrose, water, xanthan gum and natural and artificial flavors.
-
-E.E.S.
-400 Liquid: D&C Yellow No. 10, FD&C Yellow No. 6, methylparaben, polysorbate 60, propylparaben, sodium citrate, sucrose, water, xanthan gum and natural and artificial flavors.
 
 E.E.S.
 Granules: Citric acid, FD&C Red No. 3, magnesium aluminum silicate, sodium carboxymethylcellulose, sodium citrate, sucrose and artificial flavor.

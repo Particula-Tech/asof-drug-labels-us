@@ -14,7 +14,7 @@ The following dosage schedule is suggested for mild to moderate infections:
 
 | Body Weight | Total Daily Dose |
 | --- | --- |
-| Under 10 lbs | 30-50 mg/kg/day 15-25 mg/lb/day |
+| Under 10 lbs | 30 to 50 mg/kg/day 15 to 25 mg/lb/day |
 | 10 to 15 lbs | 200 mg |
 | 16 to 25 lbs | 400 mg |
 | 26 to 50 lbs | 800 mg |
@@ -39,12 +39,19 @@ In continuous prophylaxis against recurrences of streptococcal infections in per
 
 ## For Treatment of Primary Syphilis
 
-Adults: 48 to 64 g given in divided doses over a period of 10 to 15 days.
+### Adults
+
+48 to 64 g given in divided doses over a period of 10 to 15 days.
 
 ## For Intestinal Amebiasis
 
-Adults: 400 mg four times daily for 10 to 14 days.
-Children: 30 to 50 mg/kg/day in divided doses for 10 to 14 days.
+### Adults
+
+400 mg four times daily for 10 to 14 days.
+
+### Children
+
+30 to 50 mg/kg/day in divided doses for 10 to 14 days.
 
 ## For Use in Pertussis
 
@@ -53,3 +60,15 @@ Although optimal dosage and duration have not been established, doses of erythro
 ## For Treatment of Legionnaires' Disease
 
 Although optimal doses have not been established, doses utilized in reported clinical data were those recommended above (1.6 to 4 g daily in divided doses.)
+
+## Directions for Mixing E.E.S. Granules
+
+### 100 mL
+
+Add 77 mL water and shake vigorously.
+This makes 100 mL of suspension.
+
+### 200 mL
+
+Add 154 mL water and shake vigorously.
+This makes 200 mL of suspension.
