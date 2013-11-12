@@ -46,6 +46,17 @@ Ranbaxy Pharmaceuticals Inc.
 
 Jacksonville, FL 32257 USA
 
-June 2012
+by: Alembic Pharmaceuticals Limited,
+
+Village Panelav, P.O.
+Tajpura,
+
+Near Baska, Taluka-Halol,
+
+District-Panchmahal,
+
+Gujarat-389350, India.
+
+September 2013
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
