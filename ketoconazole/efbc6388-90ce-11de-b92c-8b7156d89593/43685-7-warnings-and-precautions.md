@@ -8,8 +8,8 @@ Information for Patients:
 Patients should be advised of the following:
 
 - NIZORAL® (ketoconazole) 2% Shampoo may be irritating to mucous membranes of the eyes and contact with this area should be avoided.
-- The following have been reported with the use of NIZORAL® (ketoconazole) 2% Shampoo: hair discoloration and abnormal hair texture, removal of the curl from permanently waved hair, itching, skin burning sensation and contact dermatitis, hypersensitivity, alopecia, rash, urticaria, skin irritation, dry skin, and application site reactions.
-- Patients who develop allergic reactions, such as generalized rash, skin reactions, severe swelling, or shortness of breath should discontinue NIZORAL® and contact their physician immediately.
+- The following have been reported with the use of NIZORAL® (ketoconazole) 2% Shampoo: hair discoloration and abnormal hair texture, removal of the curl from permanently waved hair, itching, skin burning sensation and contact dermatitis, hypersensitivity, angioedema, alopecia, rash, urticaria, skin irritation, dry skin, and application site reactions.
+- Patients who develop allergic reactions, such as generalized rash, skin reactions, severe swelling, angioedema, or shortness of breath should discontinue NIZORAL® (ketoconazole) 2% Shampoo and contact their physician immediately.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
