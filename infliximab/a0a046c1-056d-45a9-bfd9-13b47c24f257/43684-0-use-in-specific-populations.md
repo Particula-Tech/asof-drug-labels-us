@@ -33,7 +33,7 @@ The longer term (greater than 1 year) safety and effectiveness of REMICADE in pe
 Pediatric Ulcerative Colitis
 
 The safety and effectiveness of REMICADE for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy are supported by evidence from adequate and well-controlled studies of REMICADE in adults.
-Additional safety and pharmacokinetic data were collected in 60 pediatric patients aged 6 years and older [see Clinical Pharmacology (12.3), Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies, (14.4)].
+Additional safety and pharmacokinetic data were collected in 60 pediatric patients aged 6 years and older [see Clinical Pharmacology (12.3), Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies (14.4)].
 The effectiveness of REMICADE in inducing and maintaining mucosal healing could not be established.
 Although 41 patients had a Mayo endoscopy subscore of 0 or 1 at the Week 8 endoscopy, the induction phase was open-label and lacked a control group.
 Only 9 patients had an optional endoscopy at Week 54.

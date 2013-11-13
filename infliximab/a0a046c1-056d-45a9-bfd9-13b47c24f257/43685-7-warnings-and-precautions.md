@@ -182,11 +182,15 @@ Care should be taken when switching from one biologic to another, since overlapp
 Treatment with REMICADE may result in the formation of autoantibodies and, rarely, in the development of a lupus-like syndrome.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with REMICADE, treatment should be discontinued [see Adverse Reactions (6.1)].
 
-## 5.14 Vaccinations
+## 5.14 Live Vaccines/Therapeutic Infectious Agents
 
-No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
-It is recommended that live vaccines not be given concurrently.
+In patients receiving anti-TNF therapy, limited data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines.
+Use of live vaccines could result in clinical infections, including disseminated infections.
+It is recommended that live vaccines not be given concurrently with REMICADE.
 Caution is advised in the administration of live vaccines to infants born to female patients treated with REMICADE during pregnancy since REMICADE is known to cross the placenta and has been detected up to 6 months in the serum of infants born to female patients treated with REMICADE during pregnancy.
+
+Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
+It is recommended that therapeutic infectious agents not be given concurrently with REMICADE.
 
 It is recommended that all pediatric patients be brought up to date with all vaccinations prior to initiating REMICADE therapy.
 The interval between vaccination and initiation of REMICADE therapy should be in accordance with current vaccination guidelines.

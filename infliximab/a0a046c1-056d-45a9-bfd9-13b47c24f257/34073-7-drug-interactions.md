@@ -33,3 +33,9 @@ Serum infliximab concentrations appeared to be unaffected by baseline use of med
 The formation of CYP450 enzymes may be suppressed by increased levels of cytokines (e.g., TNFα, IL-1, IL-6, IL-10, IFN) during chronic inflammation.
 Therefore, it is expected that for a molecule that antagonizes cytokine activity, such as infliximab, the formation of CYP450 enzymes could be normalized.
 Upon initiation or discontinuation of REMICADE in patients being treated with CYP450 substrates with a narrow therapeutic index, monitoring of the effect (e.g., warfarin) or drug concentration (e.g., cyclosporine or theophylline) is recommended and the individual dose of the drug product may be adjusted as needed.
+
+## 7.7 Live Vaccines/Therapeutic Infectious Agents
+
+It is recommended that live vaccines not be given concurrently with REMICADE [see Warnings and Precautions (5.14)].
+
+It is recommended that therapeutic infectious agents not be given concurrently with REMICADE [see Warnings and Precautions (5.14)].

@@ -103,7 +103,7 @@ Tell your doctor about all of your medical conditions, including if you:
   - if you experience any numbness or tingling, or
   - if you have had a seizure.
 - have recently received or are scheduled to receive a vaccine.
-  Adults and children should not receive a live vaccine while taking REMICADE.
+  Adults and children taking REMICADE should not receive live vaccines or treatment with a weakened bacteria (such as BCG for bladder cancer).
   Children should have all of their vaccines brought up to date before starting treatment with REMICADE.
 - are pregnant or planning to become pregnant.
   It is not known if REMICADE harms your unborn baby.
@@ -309,7 +309,7 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044
 
 U.S. License No. 1864
 
-Revised March 2013
+Revised November 2013
 
 ©Janssen Biotech, Inc. 2013
 
