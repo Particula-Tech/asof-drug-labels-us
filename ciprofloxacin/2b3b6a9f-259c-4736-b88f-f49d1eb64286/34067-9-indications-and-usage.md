@@ -21,7 +21,7 @@ Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and h
 (See ANIMAL PHARMACOLOGY.)
 Adult and Pediatric Patients Inhalational Anthrax (post-exposure): To reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.5 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
-(See also, Inhalational Anthrax - Additional Information).
+(See also, Inhalational Anthrax — Additional Information).
 If anaerobic organisms are suspected of contributing to the infection, appropriate therapy should be administered.
 Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to ciprofloxacin.
 Therapy with ciprofloxacin tablets, USP may be initiated before results of these tests are known; once results become available appropriate therapy should be continued.

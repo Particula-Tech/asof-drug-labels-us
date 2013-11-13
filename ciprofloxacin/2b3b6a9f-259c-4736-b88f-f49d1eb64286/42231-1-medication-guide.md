@@ -69,7 +69,7 @@ Do not take ciprofloxacin tablets if you:
 
 ## What should I tell my healthcare provider before taking ciprofloxacin tablets?
 
-See “What is the most important information i should know about ciprofloxacin tablets?”
+See “What is the most important information I should know about ciprofloxacin tablets?”
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - Have tendon problems.
@@ -84,9 +84,9 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - Have trouble swallowing pills.
 - Are pregnant or planning to become pregnant.
   It is not known if ciprofloxacin tablets will harm your unborn child.
-- Are breastfeeding or planning to breastfeed.
+- Are breast-feeding or planning to breast-feed.
   Ciprofloxacin passes into breast milk.
-  You and your healthcare provider should decide whether you will take ciprofloxacin tablets or breastfeed.
+  You and your healthcare provider should decide whether you will take ciprofloxacin tablets or breast-feed.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal and dietary supplements.
 Ciprofloxacin tablets and other medicines can affect each other causing side effects.
@@ -248,10 +248,10 @@ Call your healthcare provider right away if you get watery diarrhea, diarrhea th
 You may have stomach cramps and a fever.
 Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
-- Changes in sensation and possible nerve damage (Peripheral Neuropathy)
+- Changes in sensation and nerve damage (Peripheral Neuropathy)
 
 Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including ciprofloxacin tablets.
-Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+Stop ciprofloxacin tablets and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
 
 - Pain
 - Burning
@@ -259,7 +259,7 @@ Talk with your healthcare provider right away if you get any of the following sy
 - Numbness
 - Weakness
 
-Ciprofloxacin tablets may need to be stopped to prevent permanent nerve damage.
+The nerve damage may be permanent.
 
 - Low blood sugar (hypoglycemia)
 
@@ -311,4 +311,4 @@ For more information call 1-866-850-2876.
 Active ingredient: ciprofloxacin Inactive ingredients: microcrystalline cellulose, sodium starch glycolate, povidone, colloidal silicon dioxide, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2013

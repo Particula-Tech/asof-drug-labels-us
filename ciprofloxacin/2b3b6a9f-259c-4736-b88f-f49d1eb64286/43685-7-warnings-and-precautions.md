@@ -63,9 +63,9 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
-Peripheral Neuropathy Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ciprofloxacin.
-Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness, or is found to have deficits in light touch, pain, temperature, position sense, vibratory sensation, and/or motor strength in order to prevent the development of an irreversible condition.
-Patients treated with ciprofloxacin should be advised to inform their healthcare provider prior to continuing treatment if symptoms of neuropathy develop.
+Peripheral Neuropathy Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including ciprofloxacin.
+Symptoms may occur soon after initiation of ciprofloxacin and may be irreversible.
+Ciprofloxacin should be discontinued immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness, or other alterations in sensations including light touch, pain, temperature, position sense and vibratory sensation.
 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals Ciprofloxacin should be used in pediatric patients (less than 18 years of age) only for infections listed in the INDICATIONS AND USAGE section.
 An increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues, has been observed.
 (See ADVERSE REACTIONS.)
@@ -128,8 +128,8 @@ Patients should be advised:
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
-- That peripheral neuropathies have been associated with ciprofloxacin use.
-  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
+- That peripheral neuropathies have been associated with ciprofloxacin use, that symptoms may occur soon after initiation of therapy and may be irreversible.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, patients should immediately discontinue ciprofloxacin and contact their physician.
 - That ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
 - That ciprofloxacin increases the effects of tizanidine (Zanaflex®).
   Patients should not use ciprofloxacin if they are already taking tizanidine.
@@ -236,7 +236,7 @@ Ciprofloxacin, like other quinolones, causes arthropathy and histological change
 (See ANIMAL PHARMACOLOGY.)
 Inhalational Anthrax (Post-Exposure) Ciprofloxacin is indicated in pediatric patients for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of ciprofloxacin to pediatric patients is appropriate.
-For information regarding pediatric dosing in inhalational anthrax (post-exposure), see DOSAGE AND ADMINISTRATION and Inhalational Anthrax - Additional Information.
+For information regarding pediatric dosing in inhalational anthrax (post-exposure), see DOSAGE AND ADMINISTRATION and Inhalational Anthrax – Additional Information.
 Complicated Urinary Tract Infection and Pyelonephritis Ciprofloxacin is indicated for the treatment of complicated urinary tract infections and pyelonephritis due to Escherichia coli.
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to the controls, including events related to joints and/or surrounding tissues.
 The rates of these events in pediatric patients with complicated urinary tract infection and pyelonephritis within six weeks of follow-up were 9.3% (31/335) versus 6% (21/349) for control agents.
