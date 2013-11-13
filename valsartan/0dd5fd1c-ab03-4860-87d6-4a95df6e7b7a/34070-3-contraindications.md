@@ -1,3 +1,5 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Diovan is contraindicated in patients who are hypersensitive to any component of this product.
+Do not use in patients with known hypersensitivity to any component.
+
+Do not coadminister aliskiren with Diovan in patients with diabetes [See Drug Interactions (7)].

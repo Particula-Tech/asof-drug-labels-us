@@ -1,0 +1,9 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Information for Patients
+
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Diovan during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
+
+T2013-102 October 2013
