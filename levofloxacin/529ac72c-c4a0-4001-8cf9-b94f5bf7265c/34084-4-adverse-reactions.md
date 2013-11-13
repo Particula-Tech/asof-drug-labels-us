@@ -11,7 +11,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Hepatotoxicity [see Warnings and Precautions (5.5)]
 - Central Nervous System Effects [see Warnings and Precautions (5.6)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.7)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.8)]
+- Peripheral Neuropathy that may be irreversible [see Warnings and Precautions (5.8)]
 - Prolongation of the QT Interval [see Warnings and Precautions (5.9)]
 - Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.10)]
 - Blood Glucose Disturbances [see Warnings and Precautions (5.11)]
@@ -19,14 +19,14 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Development of Drug Resistant Bacteria [see Warnings and Precautions (5.13)]
 
 Crystalluria and cylindruria have been reported with quinolones, including levofloxacin.
-Therefore, adequate hydration of patients receiving levofloxacin should be maintained to prevent the formation of a highly concentrated urine [see Dosage and Administration (2.5)] .
+Therefore, adequate hydration of patients receiving levofloxacin should be maintained to prevent the formation of a highly concentrated urine [see Dosage and Administration (2.5)].
 
 ## 6.2 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The data described below reflect exposure to levofloxacin in 7537 patients in 29 pooled Phase 3 clinical trials.
 The population studied had a mean age of 50 years (approximately 74% of the population was < 65 years of age), 50% were male, 71% were Caucasian, 19% were Black.
-Patients were treated with levofloxacin for a wide variety of infectious diseases [see Indications and Usage (1)] .
+Patients were treated with levofloxacin for a wide variety of infectious diseases [see Indications and Usage (1)].
 Patients received levofloxacin doses of 750 mg once daily, 250 mg once daily, or 500 mg once or twice daily.
 Treatment duration was usually 3 to 14 days, and the mean number of days on therapy was 10 days.
 The overall incidence, type and distribution of adverse reactions was similar in patients receiving levofloxacin doses of 750 mg once daily, 250 mg once daily, and 500 mg once or twice daily.
@@ -85,7 +85,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leucopenia hemolytic anemia [see Warnings and Precautions (5.4)] eosinophilia |
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.6)] |
-| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
+| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
 | Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.9)] tachycardia |

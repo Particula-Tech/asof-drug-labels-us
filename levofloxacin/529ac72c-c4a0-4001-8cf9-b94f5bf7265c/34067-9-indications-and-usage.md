@@ -5,21 +5,21 @@ When culture and susceptibility information are available, they should be consid
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 Levofloxacin tablets are indicated for the treatment of adults (≥18 years of age) with mild, moderate, and severe infections caused by susceptible isolates of the designated microorganisms in the conditions listed in this section.
 Levofloxacin injection is indicated when intravenous administration offers a route of administration advantageous to the patient (e.g., patient cannot tolerate an oral dosage form).
-Culture and susceptibility testing Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing the infection and to determine their susceptibility to levofloxacin [see Clinical Pharmacology (12.4)] .
+Culture and susceptibility testing Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing the infection and to determine their susceptibility to levofloxacin [see Microbiology (12.4)].
 Therapy with levofloxacin tablets may be initiated before results of these tests are known; once results become available, appropriate therapy should be selected.
 As with other drugs in this class, some isolates of Pseudomonas aeruginosa may develop resistance fairly rapidly during treatment with levofloxacin tablets.
 Culture and susceptibility testing performed periodically during therapy will provide information about the continued susceptibility of the pathogens to the antimicrobial agent and also the possible emergence of bacterial resistance.
 
 ## 1.1 Nosocomial Pneumonia
 
-Levofloxacin tablets are indicated for the treatment of nosocomial pneumonia due to methicillin-susceptible Staphylococcus aureus, Pseudomonas aeruginosa, Serratia marcescens, Escherichia coli, Klebsiella pneumoniae, Haemophilus influenzae, or Streptococcus pneumoniae .
+Levofloxacin tablets are indicated for the treatment of nosocomial pneumonia due to methicillin-susceptible Staphylococcus aureus, Pseudomonas aeruginosa, Serratia marcescens, Escherichia coli, Klebsiella pneumoniae, Haemophilus influenzae, or Streptococcus pneumoniae.
 Adjunctive therapy should be used as clinically indicated.
-Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combination therapy with an anti-pseudomonal ⛚-lactam is recommended [see Clinical Studies (14.1)] .
+Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combination therapy with an anti-pseudomonal β-lactam is recommended [see Clinical Studies (14.1)].
 
 ## 1.2 Community-Acquired Pneumonia: 7 to 14 day Treatment Regimen
 
-Levofloxacin tablets are indicated for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.2)] .
-MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2 nd generation cephalosporins, e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
+Levofloxacin tablets are indicated for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.2)].
+MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
 
 ## 1.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
 
@@ -39,7 +39,7 @@ Levofloxacin tablets are indicated for the treatment of complicated skin and ski
 
 ## 1.7 Uncomplicated Skin and Skin Structure Infections
 
-Levofloxacin tablets are indicated for the treatment of uncomplicated skin and skin structure infections (mild to moderate) including abscesses, cellulitis, furuncles, impetigo, pyoderma, wound infections, due to methicillin-susceptible Staphylococcus aureus , or Streptococcus pyogenes .
+Levofloxacin tablets are indicated for the treatment of uncomplicated skin and skin structure infections (mild to moderate) including abscesses, cellulitis, furuncles, impetigo, pyoderma, wound infections, due to methicillin-susceptible Staphylococcus aureus, or Streptococcus pyogenes.
 
 ## 1.8 Chronic Bacterial Prostatitis
 
@@ -51,7 +51,7 @@ Levofloxacin tablets are indicated for the treatment of complicated urinary trac
 
 ## 1.10 Complicated Urinary Tract Infections: 10-day Treatment Regimen
 
-Levofloxacin tablets are indicated for the treatment of complicated urinary tract infections (mild to moderate) due to Enterococcus faecalis , Enterobacter cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, or Pseudomonas aeruginosa [see Clinical Studies (14.8)] .
+Levofloxacin tablets are indicated for the treatment of complicated urinary tract infections (mild to moderate) due to Enterococcus faecalis, Enterobacter cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, or Pseudomonas aeruginosa [see Clinical Studies (14.8)].
 
 ## 1.11 Acute Pyelonephritis: 5 or 10-day Treatment Regimen
 
@@ -71,6 +71,6 @@ Prolonged levofloxacin tablets therapy should only be used when the benefit outw
 
 ## 1.14 Plague
 
-Levofloxacin tablets are indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis ( Y. pestis ) and prophylaxis for plague in adults and pediatric patients, 6 months of age and older.
+Levofloxacin tablets are indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients, 6 months of age and older.
 Efficacy studies of levofloxacin tablets could not be conducted in humans with plague for ethical and feasibility reasons.
-Therefore, approval of this indication was based on an efficacy study conducted in animals [see Dosage and Administration (2.1, 2.2) and Clinical Studies (14.10)] .
+Therefore, approval of this indication was based on an efficacy study conducted in animals [see Dosage and Administration (2.1, 2.2) and Clinical Studies (14.10)].

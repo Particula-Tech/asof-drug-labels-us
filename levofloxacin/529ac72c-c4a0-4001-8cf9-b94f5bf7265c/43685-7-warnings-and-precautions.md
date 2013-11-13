@@ -16,7 +16,7 @@ Patients should be advised to rest at the first sign of tendinitis or tendon rup
 
 Fluoroquinolones, including levofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
 Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
-Avoid levofloxacin in patients with a known history of myasthenia gravis [see Adverse Reactions (6.3); Patient Counseling Information (17.3)] .
+Avoid levofloxacin in patients with a known history of myasthenia gravis [see Adverse Reactions (6.3); Patient Counseling Information (17.3)].
 
 ## 5.3 Hypersensitivity Reactions
 
@@ -57,12 +57,12 @@ Fluoroquinolones may also cause central nervous system stimulation which may lea
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving levofloxacin, the drug should be discontinued and appropriate measures instituted.
 As with other fluoroquinolones, levofloxacin should be used with caution in patients with a known or suspected central nervous system (CNS) disorder that may predispose them to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction.)
-[see Adverse Reactions (6) ; Drug Interactions (7.4, 7.5) ; Patient Counseling Information (17.3)] .
+[see Adverse Reactions (6); Drug Interactions (7.4, 7.5); Patient Counseling Information (17.3)].
 
 ## 5.7 Clostridium difficile-Associated Diarrhea
 
-Clostridium difficile -associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including levofloxacin, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile .
+Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including levofloxacin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
@@ -72,8 +72,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.8 Peripheral Neuropathy
 
-Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
-Levofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation in order to prevent the development of an irreversible condition [see Adverse Reactions (6), Patient Counseling Information (17.3)].
+Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
+Symptoms may occur soon after initiation of levofloxacin and may be irreversible.
+Levofloxacin should be discontinued immediately if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation [see Adverse Reactions (6), Patient Counseling Information (17.3)].
 
 ## 5.9 Prolongation of the QT Interval
 
@@ -84,11 +85,11 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 
 ## 5.10 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
-Levofloxacin is indicated in pediatric patients (6 months of age and older) only for the prevention of inhalational anthrax (post-exposure) and for plague [see Indications and Usage (1.13, 1.14)] .
-An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin [see Use in Specific Populations (8.4)] .
+Levofloxacin is indicated in pediatric patients (6 months of age and older) only for the prevention of inhalational anthrax (post-exposure) and for plague [see Indications and Usage (1.13, 1.14)].
+An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin [see Use in Specific Populations (8.4)].
 In immature rats and dogs, the oral administration of levofloxacin resulted in increased osteochondrosis.
 Histopathological examination of the weight-bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of the cartilage.
-Other fluoroquinolones also produce similar erosions in the weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)] .
+Other fluoroquinolones also produce similar erosions in the weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)].
 
 ## 5.11 Blood Glucose Disturbances
 

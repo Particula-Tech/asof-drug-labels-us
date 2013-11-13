@@ -16,7 +16,7 @@ NDC 65862-537-10 Once-a-day Levofloxacin Tablets 500 mg ATTENTION PHARMACIST: Di
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 750 mg (20 Tablet Bottle)
 
-Once-a-day NDC 65862-538-50 Levofloxacin Tablets 750 mg ATTENTION PHARMACIST: Dispense the accompanying Medication Guide to each patient Rx only 20 Tablets AUROBINDO
+Once-a-day NDC 65862-538-20 Levofloxacin Tablets 750 mg ATTENTION PHARMACIST: Dispense the accompanying Medication Guide to each patient Rx only 20 Tablets AUROBINDO
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 750 mg Blister Carton (10 x 10 Unit-dose)
 
