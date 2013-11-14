@@ -1,7 +1,5 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use).
-
 Discuss the following issues with patients and caregivers:
 
 - Agranulocytosis: Prior to initiating treatment, educate patients and caregivers about the significant risk of developing agranulocytosis.
@@ -38,4 +36,8 @@ Discuss the following issues with patients and caregivers:
 
 CLOZARIL® is a registered trademark of Novartis Pharmaceuticals Corporation.
 
-T2013-94 October 2013
+Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+
+© Novartis
+
+T2013-114 November 2013
