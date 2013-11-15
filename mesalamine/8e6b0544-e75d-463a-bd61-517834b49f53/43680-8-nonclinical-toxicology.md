@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-Mesalamine was not carcinogenic at dietary doses of up to 480 mg/kg/day in rats and 2000 mg/kg/day in mice, which are about 2.9 and 6.1 times the maximum recommended maintenance dose of Delzicol of 1.6 g/day or 26.7 mg/kg/day, based on 60 kg body weight, respectively, based on body surface area.
+Mesalamine was not carcinogenic at dietary doses of up to 480 mg/kg/day in rats and 2000 mg/kg/day in mice, which are about 2.9 and 6.1 times the maximum recommended maintenance dose of DELZICOL of 1.6 g/day or 26.7 mg/kg/day, based on 60 kg body weight, respectively, based on body surface area.
 
 Mutagenesis
 

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-No formal drug interaction studies have been performed using Delzicol with other drugs.
+No formal drug interaction studies have been performed using DELZICOL with other drugs.
 However, the following interactions between mesalamine medications and other drugs have been reported.
 
 ## 7.1 Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs

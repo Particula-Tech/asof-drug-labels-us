@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Delzicol (mesalamine) delayed-release capsules are available as red capsules containing 400 mg mesalamine and imprinted with “WC 400mg” in white.
+DELZICOL (mesalamine) delayed-release capsules are available as red capsules containing 400 mg mesalamine and imprinted with “WC 400mg” in white.
 
 NDC 0430-0753-27 Bottle of 180 capsules
 

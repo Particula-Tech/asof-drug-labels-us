@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The data presented in Section 14 are from clinical trials conducted with mesalamine delayed-release tablets.
-Delzicol is bioequivalent to these mesalamine delayed-release tablets.
+DELZICOL is bioequivalent to these mesalamine delayed-release tablets.
 
 ## 14.1 Mildly to Moderately Active Ulcerative Colitis
 
@@ -12,7 +12,7 @@ At the dose of 2.4 g/day, 21 of 43 (49 percent) patients using mesalamine delaye
 In addition, significantly more patients in mesalamine delayed-release tablets 2.4 g/day group showed improvement in rectal bleeding and stool frequency.
 The 1.6 g/day dose did not produce consistent evidence of effectiveness.
 
-In a second randomized, double-blind, placebo-controlled clinical trial of 6 weeks duration in 87 patients, mesalamine delayed-release tablets, at a dose of 4.8 g/day, for 6 weeks, resulted in sigmoidoscopic improvement in 28 of 38 (74 percent) patients compared to 10 of 38 (26 percent) placebo patients (p < 0.001).
+In a second randomized, double-blind, placebo-controlled clinical trial of 6 weeks duration in 87 patients, mesalamine delayed-release tablets, at a dose of 4.8 g/day, for 6 weeks, resulted in sigmoidoscopic improvement in 28 of 38 (74 percent) patients compared to 10 of 38 (26 percent) placebo patients (p less than 0.001).
 Also, more patients in the mesalamine delayed-release tablets 4.8 g/day group showed improvement in overall symptoms.
 
 ## 14.2 Maintenance of Remission of Ulcerative Colitis

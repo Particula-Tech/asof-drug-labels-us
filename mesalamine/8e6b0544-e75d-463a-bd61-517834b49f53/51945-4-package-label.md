@@ -2,7 +2,7 @@
 
 NDC 0430-0753-27
 
-DelzicolTM (mesalamine) delayed-release capsules 400 mg
+DELZICOL® (mesalamine) delayed-release capsules 400 mg
 
 Not Bioequivalent to Asacol® HD
 

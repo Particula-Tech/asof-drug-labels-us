@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The most serious adverse reactions seen in Delzicol clinical trials or with other products that contain or are metabolized to mesalamine are:
+The most serious adverse reactions seen in DELZICOL clinical trials or with other products that contain or are metabolized to mesalamine are:
 
 - Renal impairment, including renal failure [see Warnings and Precautions (5.1)]
 - Acute exacerbation of colitis [see Warnings and Precautions (5.2)]
@@ -12,7 +12,7 @@ The most serious adverse reactions seen in Delzicol clinical trials or with othe
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data presented in Sections 6.1 and 6.2 are from clinical trials conducted with mesalamine delayed-release tablets.
-Delzicol is bioequivalent to these mesalamine delayed-release tablets.
+DELZICOL is bioequivalent to these mesalamine delayed-release tablets.
 
 In total, mesalamine delayed-release tablets have been evaluated in 3685 inflammatory bowel disease patients (73 percent of patients with ulcerative colitis) in controlled and open-label trials.
 Adverse events presented in the following sections may occur regardless of length of therapy and similar events have been reported in short- and long-term studies and in the postmarketing setting.
@@ -32,10 +32,11 @@ Adverse reactions leading to withdrawal from mesalamine delayed-release tablets 
 
 Adverse reactions in patients treated with mesalamine delayed-release tablets occurring at a frequency of 2 percent or greater in 6-week, double-blind, placebo-controlled trials (Studies 1 and 2) are listed in Table 1 below.
 
-| Table 1 |  |  |
-| --- | --- | --- |
-| Adverse Reactions Reported in Two Six-Week Placebo-Controlled Trials (Studies 1 and 2) Experienced by at Least 2 Percent of patients in the mesalamine delayed-release tablets Group and at a Rate Greater than Placebo |  |  |
+Table 1.
+Adverse Reactions Reported in Two Six-Week Placebo-Controlled Trials (Studies 1 and 2) Experienced by at Least 2 Percent of patients in the mesalamine delayed-release tablets Group and at a Rate Greater than Placebo
+
 |  | Percent of Patients with Adverse Reactions |  |
+| --- | --- | --- |
 |  | mesalamine delayed-release tablets | Placebo |
 | Event | (n = 152) | (n = 87) |
 | Abdominal pain | 18 | 14 |
