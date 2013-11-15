@@ -4,8 +4,15 @@ None.
 
 # PRECAUTIONS
 
+## General
+
 The safety and efficacy of oral levocarnitine has not been evaluated in patients with renal insufficiency.
 Chronic administration of high doses of oral levocarnitine in patients with severely compromised renal function or in ESRD patients on dialysis may result in accumulation of the potentially toxic metabolites, trimethylamine (TMA) and trimethylamine-N-oxide (TMAO), since these metabolites are normally excreted in the urine.
+
+## Drug Interactions
+
+Reports of INR increase with the use of warfarin products have been observed.
+INR levels should be monitored.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
