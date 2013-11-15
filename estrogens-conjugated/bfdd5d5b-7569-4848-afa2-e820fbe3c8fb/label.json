@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022247"
+  ],
+  "inn": "estrogens-conjugated",
+  "labeler": "U.S. Pharmaceuticals",
+  "package_ndcs": [
+    "63539-112-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "conjugated estrogens/bazedoxifene",
+      "name": "Duavee"
+    }
+  ],
+  "setid": "bfdd5d5b-7569-4848-afa2-e820fbe3c8fb",
+  "source": "dailymed"
+}
