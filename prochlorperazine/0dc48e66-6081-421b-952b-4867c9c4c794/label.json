@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA204147"
+  ],
+  "inn": "prochlorperazine",
+  "labeler": "Heritage Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-294-31",
+    "23155-294-41",
+    "23155-294-42"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "prochlorperazine edisylate",
+      "name": "Prochlorperazine Edisylate"
+    }
+  ],
+  "setid": "0dc48e66-6081-421b-952b-4867c9c4c794",
+  "source": "dailymed"
+}
