@@ -6,8 +6,9 @@ NovoLog is available in the following package sizes: each presentation containin
 
 | 10 mL vials | NDC 0169-7501-11 |
 | --- | --- |
-| 3 mL PenFill cartridgesNovoLog PenFill cartridges are designed for use with Novo Nordisk 3 mL PenFill cartridge compatible insulin delivery devices (with or without the addition of a NovoPen 3 PenMate) with NovoFine disposable needles. | NDC 0169-3303-12 |
+| 3 mL PenFill cartridgesNovoLog PenFill cartridges are designed for use with Novo Nordisk 3 mL PenFill cartridge compatible insulin delivery devices (with or without the addition of a NovoPen 3 PenMate) with NovoFine disposable needles. FlexPen and FlexTouch can be used with NovoFine or NovoTwist disposable needles. | NDC 0169-3303-12 |
 | 3 mL NovoLog FlexPen | NDC 0169-6339-10 |
+| 3 mL NovoLog FlexTouch | NDC 0169-6338-10 |
 
 ## 16.2 Recommended Storage
 
@@ -16,21 +17,21 @@ Do not store in the freezer or directly adjacent to the refrigerator cooling ele
 Do not freeze NovoLog and do not use NovoLog if it has been frozen.
 NovoLog should not be drawn into a syringe and stored for later use.
 
-Vials: After initial use a vial may be kept at temperatures below 30°C (86°F) for up to 28 days, but should not be exposed to excessive heat or sunlight.
+Vials: After initial use a vial may be kept at temperatures below 30°C (86°F) for up to 28 days, but should not be exposed to excessive heat or light.
 Opened vials may be refrigerated.
 
 Unpunctured vials can be used until the expiration date printed on the label if they are stored in a refrigerator.
 Keep unused vials in the carton so they will stay clean and protected from light.
 
-PenFill cartridges or NovoLog FlexPen:
+PenFill cartridges or NovoLog FlexPen and NovoLog FlexTouch:
 
-Once a cartridge or a NovoLog FlexPen is punctured, it should be kept at temperatures below 30°C (86°F) for up to 28 days, but should not be exposed to excessive heat or sunlight.
-A NovoLog FlexPen or cartridge in use must NOT be stored in the refrigerator.
-Keep the NovoLog FlexPen and all PenFill cartridges away from direct heat and sunlight.
-Unpunctured NovoLog FlexPen and PenFill cartridges can be used until the expiration date printed on the label if they are stored in a refrigerator.
-Keep unused NovoLog FlexPen and PenFill cartridges in the carton so they will stay clean and protected from light.
+Once a cartridge or NovoLog FlexPen or NovoLog FlexTouch is punctured, it should be kept at temperatures below 30°C (86°F) for up to 28 days, but should not be exposed to excessive heat or sunlight.
+A NovoLog FlexPen or NovoLog FlexTouch or cartridge in use must NOT be stored in the refrigerator.
+Keep the NovoLog FlexPen or NovoLog FlexTouch and all PenFill cartridges away from direct heat and sunlight.
+Unpunctured NovoLog FlexPen or NovoLog FlexTouch and PenFill cartridges can be used until the expiration date printed on the label if they are stored in a refrigerator.
+Keep unused NovoLog FlexPen or NovoLog FlexTouch and PenFill cartridges in the carton so they will stay clean and protected from light.
 
-Always remove the needle after each injection and store the 3 mL PenFill cartridge delivery device or NovoLog FlexPen without a needle attached.
+Always remove the needle after each injection and store the 3 mL PenFill cartridge delivery device or NovoLog FlexPen or NovoLog FlexTouch without a needle attached.
 This prevents contamination and/or infection, or leakage of insulin, and will ensure accurate dosing.
 Always use a new needle for each injection to prevent contamination.
 
@@ -44,13 +45,14 @@ Summary of Storage Conditions:
 The storage conditions are summarized in the following table:
 
 Table 9.
-Storage conditions for vial, PenFill cartridges and NovoLog FlexPen
+Storage conditions for vial, PenFill cartridges, NovoLog FlexPen, and NovoLog FlexTouch
 
 | NovoLogpresentation | Not in-use (unopened) Room Temperature (below 30°C) | Not in-use (unopened) Refrigerated | In-use (opened) Room Temperature (below 30°C) |
 | --- | --- | --- | --- |
 | 10 mL vial | 28 days | Until expiration date | 28 days (refrigerated/room temperature) |
 | 3 mL PenFill cartridges | 28 days | Until expiration date | 28 days (Do not refrigerate) |
 | 3 mL NovoLog FlexPen | 28 days | Until expiration date | 28 days (Do not refrigerate) |
+| 3 mL NovoLog FlexTouch | 28 days | Until expiration date | 28 days(Do not refrigerate) |
 
 Storage of Diluted NovoLog
 

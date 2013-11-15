@@ -66,3 +66,33 @@ Keep in a cold place.
 Avoid freezing.
 
 Protect from light.
+
+# PRINCIPAL DISPLAY PANEL - 3 mL NovoLog FlexTouch
+
+NDC 0169-6338-10 List 633810
+
+NovoLog® FlexTouch®
+
+Insulin aspart (rDNA origin) Injection
+
+100 units/mL (U-100)
+
+5 x 3 mL Prefilled Insulin Syringes
+
+For subcutaneous use only
+
+Rx Only
+
+Single patient use only
+
+Recommended for use with
+
+NovoFine® or NovoTwist® disposable needles.
+
+Keep in a cold place until first use.
+
+Store at 2° - 8°C (36° - 46°F).
+
+Avoid freezing.
+
+Protect from light.

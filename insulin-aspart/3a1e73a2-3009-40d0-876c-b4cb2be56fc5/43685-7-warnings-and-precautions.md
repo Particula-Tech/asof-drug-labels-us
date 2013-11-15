@@ -15,7 +15,7 @@ Insulin requirements may be altered during illness, emotional disturbances, or o
 
 Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
 
-Needles and NovoLog FlexPen must not be shared.
+Needles, NovoLog FlexPen and NovoLog FlexTouch must not be shared.
 
 ## 5.2 Hypoglycemia
 
