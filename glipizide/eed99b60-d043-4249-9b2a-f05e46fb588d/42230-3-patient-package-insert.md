@@ -140,6 +140,6 @@ Do not use GLUCOTROL XL for a condition for which it was not prescribed.
 Do not share GLUCOTROL XL with other people.
 For more information about GLUCOTROL XL, you can visit the Pfizer internet site at www.pfizer.com.
 
-LAB-0115-4.0
+LAB-0115-5.0
 
-May 2012
+October 2013

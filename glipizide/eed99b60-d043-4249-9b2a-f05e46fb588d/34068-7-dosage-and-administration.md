@@ -41,6 +41,9 @@ When adding GLUCOTROL XL to other blood-glucose-lowering agents, GLUCOTROL XL ca
 Those patients who may be more sensitive to hypoglycemic drugs may be started at a lower dose.
 Titration should be based on clinical judgment.
 
+When colesevelam is coadministered with glipizide ER, maximum plasma concentration and total exposure to glipizide is reduced.
+Therefore, GLUCOTROL XL should be administered at least 4 hours prior to colesevelam.
+
 ## Patients Receiving Insulin
 
 As with other sulfonylurea-class hypoglycemics, many patients with stable type 2 diabetes receiving insulin may be transferred safely to treatment with GLUCOTROL XL Extended Release Tablets.

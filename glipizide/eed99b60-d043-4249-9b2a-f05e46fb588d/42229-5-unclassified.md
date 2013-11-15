@@ -1,5 +1,5 @@
 For Oral Use
 
-LAB-0113-8.0
+LAB-0113-9.0
 
-June 2012
+October 2013
