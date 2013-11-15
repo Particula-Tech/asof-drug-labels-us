@@ -46,20 +46,20 @@ Table 12: Randomized Trial of Gemzar plus Carboplatin versus Carboplatin in Ovar
 | p-valueb | p=0.8977 |  |
 | Investigator Reviewed |  |  |
 | Overall Response Rate | 47.2% | 30.9% |
-| p-valuee | p=0.0016 |  |
+| p-valuec | p=0.0016 |  |
 | CRd | 14.6% | 6.2% |
 | PR plus PRNMe | 32.6% | 24.7% |
 | Independently Reviewed |  |  |
 | Overall Response Ratef | 46.3% | 35.6% |
-| p-valuee | p=0.11 |  |
+| p-valuec | p=0.11 |  |
 | CRd | 9.1% | 4.0% |
 | PR plus PRNMe | 37.2% | 31.7% |
-| a CI=confidence interval |  |  |
-| b Complete response |  |  |
-| c Partial response plus partial response, non-measurable disease |  |  |
-| d log Rank, unadjusted |  |  |
-| e chi Square |  |  |
-| f Independently reviewed cohort - Gemzar/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam |  |  |
+| a CI=confidence interval. |  |  |
+| b Log rank, unadjusted. |  |  |
+| c Chi square. |  |  |
+| d CR=Complete response. |  |  |
+| e PRNM=Partial response plus partial response, non-measurable disease. |  |  |
+| f Independently reviewed cohort - Gemzar/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam. |  |  |
 
 ## 14.2 Breast Cancer
 
@@ -102,7 +102,7 @@ Table 13: Randomized Trial of Gemzar plus Paclitaxel versus Paclitaxel in Breast
 | p-value | p<0.0001 |  |  |
 | a Karnofsky Performance Status. |  |  |  |
 | b These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. |  |  |  |
-| c Based on the ITT population |  |  |  |
+| c Based on the ITT population. |  |  |  |
 
 ## 14.3 Non-Small Cell Lung Cancer (NSCLC)
 
@@ -114,15 +114,15 @@ A multinational, randomized trial compared Gemzar plus cisplatin to cisplatin al
 Patients were randomized to receive Gemzar 1000 mg/m2 on Days 1, 8, and 15 of a 28-day cycle with cisplatin 100 mg/m2 administered on Day 1 of each cycle or to receive cisplatin 100 mg/m2 on Day 1 of each 28-day cycle.
 The primary efficacy outcome measure was overall survival.
 A total of 522 patients were enrolled at clinical centers in Europe, the US, and Canada.
-Patient demographics and baseline characteristics (shown in Table 13) were similar between arms with the exception of histologic subtype of NSCLC, with 48% of patients on the cisplatin arm and 37% of patients on the Gemzar plus cisplatin arm having adenocarcinoma.
-Efficacy results are presented in Table 13 and Figure 3 for overall survival.
+Patient demographics and baseline characteristics (shown in Table 14) were similar between arms with the exception of histologic subtype of NSCLC, with 48% of patients on the cisplatin arm and 37% of patients on the Gemzar plus cisplatin arm having adenocarcinoma.
+Efficacy results are presented in Table 14 and Figure 3 for overall survival.
 
 21-Day Schedule
 
 A randomized (1:1), multicenter trial was conducted in 135 patients with Stage IIIB or IV NSCLC.
 Patients were randomized to receive Gemzar 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to receive etoposide 100 mg/m2 intravenously on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21 -day cycle.
 
-There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided).
+There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided see Table 14).
 The median survival was 8.7 months for the Gemzar plus cisplatin arm versus 7.0 months for the etoposide plus cisplatin arm.
 Median time to disease progression for the Gemzar plus cisplatin arm was 5.0 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
 The objective response rate for the Gemzar plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher's Exact p=0.01, two-sided).
@@ -157,7 +157,7 @@ Table 14: Randomized Trials of Gemzar plus Cisplatin in Patients with NSCLC
 | b 21-day schedule — Gemzar plus cisplatin: Gemzar 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. |  |  |  |  |
 | c N/A Not applicable. |  |  |  |  |
 | d Karnofsky Performance Status. |  |  |  |  |
-| e CI=confidence intervals |  |  |  |  |
+| e CI=confidence intervals. |  |  |  |  |
 | f p-value two-sided Fisher's Exact test for difference in binomial proportions; log rank test for time-to-event analyses. |  |  |  |  |
 
 ## 14.4 Pancreatic Cancer
@@ -167,7 +167,7 @@ The first trial randomized patients to receive Gemzar 1000 mg/m2 intravenously o
 In the second trial, all patients received Gemzar 1000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles.
 
 The primary efficacy outcome measure in both trials was "clinical benefit response".
-A patient was considered to have had a clinical benefit response if either occurred:
+A patient was considered to have had a clinical benefit response if either of the following occurred:
 
 - The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
   Sustained worsening was defined as 4 consecutive weeks with either any increase in pain intensity or analgesic consumption or a 20-point decrease in performance status occurring during the first 12 weeks of therapy.

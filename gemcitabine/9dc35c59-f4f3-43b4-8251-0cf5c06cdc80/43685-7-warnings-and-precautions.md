@@ -8,7 +8,7 @@ The half-life of Gemzar is influenced by the length of the infusion [see Clinica
 ## 5.2 Myelosuppression
 
 Myelosuppression manifested by neutropenia, thrombocytopenia, and anemia occurs with Gemzar as a single agent and the risks are increased when Gemzar is combined with other cytotoxic drugs.
-In clinical trials, Grade 3-4 neutropenia, anemia, and thrombocytopenia occurred in 25%, 8%, and 5%, respectively of patients receiving single-agent.
+In clinical trials, Grade 3-4 neutropenia, anemia, and thrombocytopenia occurred in 25%, 8%, and 5%, respectively of patients receiving single-agent Gemzar.
 The frequencies of Grade 3-4 neutropenia, anemia, and thrombocytopenia varied from 48% to 71%, 8 to 28%, and 5 to 55%, respectively, in patients receiving Gemzar in combination with another drug.
 
 ## 5.3 Pulmonary Toxicity and Respiratory Failure
@@ -20,13 +20,12 @@ Discontinue Gemzar in patients who develop unexplained dyspnea, with or without 
 
 ## 5.4 Hemolytic Uremic Syndrome
 
-Hemolytic Uremic Syndrome to include fatalities from renal failure or the requirement for dialysis can occur in patients treated with Gemzar.
+Hemolytic uremic syndrome, including fatalities from renal failure or the requirement for dialysis, can occur in patients treated with Gemzar.
 In clinical trials, HUS was reported in 6 of 2429 patients (0.25%).
 Most fatal cases of renal failure were due to HUS [see Adverse Reactions (6.1 and 6.2)].
 Assess renal function prior to initiation of Gemzar and periodically during treatment.
-Consider the diagnosis of HUS in patients who develops anemia with evidence of microangiopathic hemolysis, elevation of bilirubin or LDH, or reticulocytosis; severe thrombocytopenia; or evidence of renal failure (elevation of serum creatinine or BUN) [see Dosage and Administration (2.5) and Use In Specific Populations (8.6)].
+Consider the diagnosis of HUS in patients who develops anemia with evidence of microangiopathic hemolysis, elevation of bilirubin or LDH, or reticulocytosis; severe thrombocytopenia; or evidence of renal failure (elevation of serum creatinine or BUN) [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 Permanently discontinue Gemzar in patients with HUS or severe renal impairment.
-Renal failure may not be reversible even with discontinuation of therapy.
 Renal failure may not be reversible even with discontinuation of therapy.
 
 ## 5.5 Hepatic Toxicity
@@ -40,8 +39,7 @@ Discontinue Gemzar in patients that develop severe liver injury.
 
 Gemzar can cause fetal harm when administered to a pregnant woman, based on its mechanism of action.
 Gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits.
-If this drug is used during pregnancy, or if a woman becomes pregnant while taking Gemzar, the patient should be apprised of the potential hazard to a fetus.
-[see Use In Specific Populations (8.1)]
+If this drug is used during pregnancy, or if a woman becomes pregnant while taking Gemzar, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.7 Exacerbation of Radiation Therapy Toxicity
 
@@ -56,3 +54,8 @@ Radiation recall has been reported in patients who receive Gemzar after prior ra
 
 Capillary leak syndrome (CLS) with severe consequences has been reported in patients receiving Gemzar as a single agent or in combination with other chemotherapeutic agents.
 Discontinue Gemzar if CLS develops during therapy.
+
+## 5.9 Posterior Reversible Encephalopathy Syndrome
+
+Posterior reversible encephalopathy syndrome (PRES) with severe consequences has been reported in patients receiving Gemzar as a single agent or in combination with other chemotherapeutic agents.
+Discontinue Gemzar if PRES develops during therapy.

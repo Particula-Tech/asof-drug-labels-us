@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D. [see Warnings and Precautions (5.6)]
+Pregnancy Category D. [See Warnings and Precautions (5.6)].
 
 Risk Summary
 
@@ -16,7 +16,7 @@ Animal Data
 Gemcitabine is embryotoxic causing fetal malformations (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day in mice (approximately 0.005 times the recommended human dose on a mg/m2 basis).
 Gemcitabine is fetotoxic causing fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day in rabbits (about 0.002 times the recommended human dose on a mg/m2 basis).
 Embryotoxicity was characterized by decreased fetal viability, reduced live litter sizes, and developmental delays.
-[see Warnings and Precautions (5.6)]
+[See Warnings and Precautions (5.6)].
 
 ## 8.3 Nursing Mothers
 

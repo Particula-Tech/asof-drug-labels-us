@@ -9,7 +9,7 @@ Refer to carboplatin prescribing information for additional information.
 
 Dose Modifications
 
-Recommended Gemzar dose modifications for myelosuppression are described Table 1 and Table 2 [see Warnings and Precautions (5.2)].
+Recommended Gemzar dose modifications for myelosuppression are described in Table 1 and Table 2 [see Warnings and Precautions (5.2)].
 Refer to Dosage and Administration (2.5) for recommendations for non-hematologic adverse reactions.
 
 Table 1: Dosage Reduction Guidelines for Gemzar for Myelosuppression on Day of Treatment in Ovarian Cancer
@@ -17,7 +17,7 @@ Table 1: Dosage Reduction Guidelines for Gemzar for Myelosuppression on Day of T
 | Treatment Day | Absolute granulocyte count (x 106/L) |  | Platelet count (x 106/L) | % of full dose |
 | --- | --- | --- | --- | --- |
 | Day 1 | ≥1500 <1500 | and or | ≥100,000 <100,000 | 100% Delay Treatment Cycle |
-| Day 8 | ≥1500 1000-1499 <1000 | and or or | ≥100,000 75,000-99,999 <75,000 | 100 50 Hold |
+| Day 8 | ≥1500 1000-1499 <1000 | and or or | ≥100,000 75,000-99,999 <75,000 | 100% 50% Hold |
 
 Table 2: Gemzar Dose Modification for Myelosuppression in Previous Cycle In Ovarian Cancer
 
@@ -73,7 +73,7 @@ Refer to Dosage and Administration (2.5) for Gemzar recommendations for non-hema
 Recommended Dose and Schedule
 
 The recommended dose of Gemzar is 1000 mg/m2 over 30 minutes intravenously.
-The recommended treatment schedule
+The recommended treatment schedule is as follows:
 
 - Weeks 1-8: weekly dosing for the first 7 weeks followed by one week rest.
 - After week 8: weekly dosing on Days 1, 8, and 15 of 28-day cycles.
@@ -90,18 +90,19 @@ Table 4: Recommended Dose Reductions for Gemzar for Myelosuppression in Pancreat
 
 | Absolute granulocyte count (x 106/L) |  | Platelet count (x 106/L) | % of full dose |
 | --- | --- | --- | --- |
-| ≥1000 | And | ≥100,000 | 100 |
-| 500-999 | Or | 50,000-99,999 | 75 |
+| ≥1000 | And | ≥100,000 | 100% |
+| 500-999 | Or | 50,000-99,999 | 75% |
 | <500 | Or | <50,000 | Hold |
 
 ## 2.5 Dose Modifications for Non-Hematologic Adverse Reactions
 
-Permanently discontinue Gemzar for any of the following
+Permanently discontinue Gemzar for any of the following:
 
 - Unexplained dyspnea or other evidence of severe pulmonary toxicity
 - Severe hepatic toxicity
-- Hemolytic-Uremic Syndrome
-- Capillary Leak Syndrome
+- Hemolytic-uremic syndrome
+- Capillary leak syndrome
+- Posterior reversible encephalopathy syndrome
 
 Withhold Gemzar or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.
 No dose modifications are recommended for alopecia, nausea, or vomiting.

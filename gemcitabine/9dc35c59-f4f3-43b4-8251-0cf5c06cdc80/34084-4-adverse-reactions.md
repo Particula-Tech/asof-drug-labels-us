@@ -2,14 +2,15 @@
 
 The following serious adverse reactions are discussed in greater detail in another section of the label
 
-- Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)]
+- Schedule-dependent Toxicity [see Warnings and Precautions (5.1)]
 - Myelosuppression [see Warnings and Precautions (5.2)]
 - Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)]
 - Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)]
 - Hepatic Toxicity [see Warnings and Precautions (5.5)]
-- Embryo-fetal Toxicity [see Warnings and Precautions (5.6), Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)]
+- Embryofetal Toxicity [see Warnings and Precautions (5.6), Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)]
 - Exacerbation of Radiation Toxicity [see Warnings and Precautions (5.7)]
 - Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -179,7 +180,7 @@ Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial
 | b N=67-69; all Gemzar plus cisplatin patients with laboratory or non-laboratory data. Gemzar at 1250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days. |  |  |  |  |  |  |
 | c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and intravenous etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days. |  |  |  |  |  |  |
 | d Regardless of causality. |  |  |  |  |  |  |
-| e WHO grading scale not applicable to proportion of patients with transfusions |  |  |  |  |  |  |
+| e WHO grading scale not applicable to proportion of patients with transfusions. |  |  |  |  |  |  |
 | f Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |
 | g Pain data were not collected. |  |  |  |  |  |  |
 
@@ -188,8 +189,7 @@ Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial
 
 Breast Cancer
 
-Table 8 presents the incidence of selected adverse reactions, occurring in ≥10% of Gemzar-treated patients and at a higher incidence in the Gemzar plus paclitaxel arm, reported in a randomized trial of Gemzar plus paclitaxel (n=262) compared to paclitaxel alone (n=259) for the first-line treatment of metastatic breast cancer (MBC) in women who received anthracycline-containing chemotherapy in the adjuvant/neo-adjuvant setting or for whom anthracyclines were contraindicated.
-[see Clinical Studies (14.2)].
+Table 8 presents the incidence of selected adverse reactions, occurring in ≥10% of Gemzar-treated patients and at a higher incidence in the Gemzar plus paclitaxel arm, reported in a randomized trial of Gemzar plus paclitaxel (n=262) compared to paclitaxel alone (n=259) for the first-line treatment of metastatic breast cancer (MBC) in women who received anthracycline-containing chemotherapy in the adjuvant/neo-adjuvant setting or for whom anthracyclines were contraindicated [see Clinical Studies (14.2)].
 
 The requirement for dose reduction of paclitaxel were higher for patients in the Gemzar/paclitaxel arm (5% versus 2%).
 The number of paclitaxel doses omitted (<1%), the proportion of patients discontinuing treatment for treatment-related adverse reactions (7% versus 5%), and the number of treatment-related deaths (1 patient in each arm) were similar between the two arms.
@@ -219,7 +219,7 @@ Table 8: Per-Patient Incidence of Selected Adverse Reactions from Comparative Tr
 | Stomatitis/pharyngitis | 13 | 1 | <1 | 8 | <1 | 0 |
 | Fever | 13 | <1 | 0 | 3 | 0 | 0 |
 | Rash/desquamation | 11 | <1 | <1 | 5 | 0 | 0 |
-| a Severity grade based on National Cancer Institute Common Toxicity Criteria (CTC) Version 2.0 |  |  |  |  |  |  |
+| a Severity grade based on National Cancer Institute Common Toxicity Criteria (CTC) Version 2.0. |  |  |  |  |  |  |
 | b Regardless of causality. |  |  |  |  |  |  |
 | c Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |
 
@@ -227,14 +227,13 @@ The following clinically relevant, Grade 3 or 4 adverse reactions occurred with 
 
 Ovarian Cancer
 
-Table 9 presents the incidence of selected adverse reactions, occurring in ≥10% of gemcitabine-treated patients and at a higher incidence in the Gemzar plus carboplatin arm, reported in a randomized trial of Gemzar plus carboplatin (n=175) compared to carboplatin alone (n=174) for the second-line treatment of ovarian cancer in women with disease that had relapsed more than 6 months following first-line platinum-based chemotherapy.
-[see Clinical Studies (14.1)].
+Table 9 presents the incidence of selected adverse reactions, occurring in ≥10% of gemcitabine-treated patients and at a higher incidence in the Gemzar plus carboplatin arm, reported in a randomized trial of Gemzar plus carboplatin (n=175) compared to carboplatin alone (n=174) for the second-line treatment of ovarian cancer in women with disease that had relapsed more than 6 months following first-line platinum-based chemotherapy [see Clinical Studies (14.1)].
 Additional clinically significant adverse reactions, occurring in less than 10% of patients, are provided following Table 9.
 
 The proportion of patients with dose adjustments for carboplatin (1.8% versus 3.8%), doses of carboplatin omitted (0.2% versus 0), and discontinuing treatment for treatment-related adverse reactions (10.9% versus 9.8%), were similar between arms.
 Dose adjustment for Gemzar occurred in 10.4% of patients and Gemzar dose was omitted in 13.7% of patients in the Gemzar /carboplatin arm.
 
-Table 9: Per-Patient Incidence of Adverse Reactions in Randomized Trial of Gemzar plus Carboplatin versus Carboplatin in Ovarian Cancer Occurring at Higher Incidence in Gemzar-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
+Table 9: Per-Patient Incidence of Adverse Reactions in Randomized Trial of Gemzar plus Carboplatin versus Carboplatin in Ovarian Cancera Occurring at Higher Incidence in Gemzar-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
 
 |  | Gemzar plus Carboplatin (N=175) |  |  | Carboplatin (N=174) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -267,12 +266,14 @@ The following clinically relevant, Grade 3 and 4 adverse reactions occurred more
 The following adverse reactions have been identified during post-approval use of Gemzar.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiovascular — Congestive heart failure, myocardial infarction, Arrhythmias, supraventricular arrhythmias.
+Cardiovascular — Congestive heart failure, myocardial infarction, arrhythmias, supraventricular arrhythmias
 
-Vascular Disorders — Peripheral vasculitis, gangrene, and capillary leak syndrome [see Warnings and Precautions (5.9)]
+Vascular Disorders — Peripheral vasculitis, gangrene, and capillary leak syndrome [see Warnings and Precautions (5.8)]
 
 Skin — Cellulitis, severe skin reactions, including desquamation and bullous skin eruptions
 
 Hepatic — Hepatic failure, hepatic veno-occlusive disease
 
 Pulmonary — Interstitial pneumonitis, pulmonary fibrosis, pulmonary edema, and adult respiratory distress syndrome (ARDS)
+
+Nervous System — Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.9)]
