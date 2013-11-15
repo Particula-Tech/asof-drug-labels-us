@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205552"
+  ],
+  "inn": "ibrutinib",
+  "labeler": "Pharmacyclics, Inc",
+  "package_ndcs": [
+    "57962-140-09",
+    "57962-140-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ibrutinib",
+      "name": "IMBRUVICA"
+    }
+  ],
+  "setid": "0dfd0279-ff17-4ea9-89be-9803c71bab44",
+  "source": "dailymed"
+}
