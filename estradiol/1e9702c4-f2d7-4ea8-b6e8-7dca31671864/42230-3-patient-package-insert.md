@@ -1,224 +1,285 @@
-# PATIENT INFORMATION Updated June 2005
+# Patient Package Insert
 
-Climara®
+- Patient Information
+
+Climara (Klī-mâr-uh)
 
 (estradiol transdermal system)
 
-Read this PATIENT INFORMATION before you start using Climara® and read what you get each time you refill Climara.
+Read this Patient Information before you start using Climara and each time you get a refill.
 There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
+
+| What is the most important information I should know about Climara (an estrogen hormone)? •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using Climara. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).•Using estrogen-alone may increase your chances of getting strokes or blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women age 65 years of age or older.•Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes or dementia.•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots. •Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years of age or older.•You and your healthcare provider should talk regularly about whether you still need treatment with Climara. |
+| --- |
 
 What is Climara?
 
-Climara is a medicine that contains estrogen hormones.
+Climara is a prescription medicine patch (Transdermal System) that contains estradiol (an estrogen hormone).
 
 What is Climara used for?
 
-Climara is used after menopause to:
+The Climara is used after menopause to:
 
-- ● reduce moderate to severe hot flashes.
-  Estrogens are hormones made by a woman’s ovaries.
-  The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
+- •Reduce moderate to severe hot flashes
+- Estrogens are hormones made by a woman’s ovaries.
+  The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
   This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
   The sudden drop in estrogen levels causes "surgical menopause."
-- When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
-  In some women, the symptoms are mild, and they will not need estrogens.
+- When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
+  In some women, the symptoms are mild, and they will not need to use estrogens.
   In other women, symptoms can be more severe.
   You and your healthcare provider should talk regularly about whether you still need treatment with Climara.
-- ●treat moderate to severe dryness, itching, and burning in or around the vagina.
-  You and your healthcare provider should talk regularly about whether you still need treatment with Climara to control these problems.
-  If you use Climara only to treat your dryness, itching, and burning in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
-- ●treat certain conditions in which a young woman’s ovaries do not produce enough estrogen naturally.
-- ●help reduce your chances of getting osteoporosis (thin weak bones).
-- Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
-  If you use Climara only to prevent osteoporosis from menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
-  You and your healthcare provider should talk regularly about whether you should continue with Climara.
-- Weight-bearing exercise, like walking or running, and taking calcium and vitamin D supplements may also lower your chances of getting postmenopausal osteoporosis.
-  It is important to talk about exercise and supplements with your healthcare provider before starting them.
+- •Treat moderate to severe menopausal changes in and around the vagina
+- You and your healthcare provider should talk regularly about whether you still need treatment with Climara to control these problems.
+  If you use Climara only to treat your menopausal changes in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
+- •Treat certain conditions in women before menopause if their ovaries do not produce enough estrogens naturally
+- •Help reduce your chances of getting osteoporosis (thin weak bones)
+- If you use Climara only to prevent osteoporosis due to menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
+  You and your healthcare provider should talk regularly about whether you still need treatment with Climara.
 
 Who should not use Climara?
 
 Do not start using Climara if you:
 
-- have unusual vaginal bleeding.
+- •have unusual vaginal bleeding
+- Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
+- •currently have or have had certain cancers
+- Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
+  If you have or have had cancer, talk with your healthcare provider about whether you should use Climara.
+- •had a stroke or heart attack
+- •currently have or have had blood clots
+- •currently have or have had liver problems
+- •have been diagnosed with a bleeding disorder
+- •are allergic to Climara or any of its ingredients
+- See the list of ingredients in Climara at the end of this leaflet.
+- •think you may be pregnant
+- Climara is not for pregnant women.
+  If you think you may be pregnant, you should have a pregnancy test and know the results.
+  Do not use Climara if the test is positive and talk to your healthcare provider.
 
-- currently have or have had certain cancers.
-  Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
-  If you have or had cancer, talk with your healthcare provider about whether you should take Climara.
+What should I tell my healthcare provider before I use Climara?
 
-- had a stroke or heart attack in the past year.
+Before you use Climara, tell your healthcare provider if you:
 
-- currently have or have had blood clots.
+- •have any unusual vaginal bleeding
+- Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
+- •have any other medical conditions
+- Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- •are going to have surgery or will be on bed rest.
+- Your healthcare provider will let you know if you need to stop using Climara.
+- •are breastfeeding
+- The hormone in Climara can pass into your breast milk.
 
-- currently have or have had liver problems.
-
-- are allergic to Climara or any of its ingredients.
-  See the end of this leaflet for a list of ingredients in Climara.
-
-- think you may be pregnant
-
-Tell your healthcare provider:
-
-- if you are breastfeeding.
-  The hormone in Climara can pass into your milk.
-
-- about all of your medical problems.
-  Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), migraine, endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
-- about all the medicines you take.
-  This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
-  Some medicines may affect how Climara works.
-  Climara may also affect how your other medicines work.
-
-- if you are going to have surgery or will be on bed rest.
-  You may need to stop taking estrogens.
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Some medicines may affect how Climara works.
+Climara may also affect how your other medicines work.
+Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get new medicine.
 
 How should I use Climara?
+For detailed instructions, see the step-by-step instructions for using Climara at the end of this Patient Information.
 
-Climara is a patch that you wear on your skin.
-The estrogen in the Climara patch passes through your skin.
-You must change your Climara patch every 7 days (once a week).
-See the end of this leaflet for complete instructions on how to use Climara.
+- •Use Climara exactly as your healthcare provider tells you to use it.
+- •Climara is for skin use only.
+- •Change your Climara patch 1 time each week or every 7 days.
+- •Apply your Climara patch to a clean, dry area on your lower abdomen or buttocks.
+  This area must be clean, dry, and free of powder, oil or lotion for your patch to stick to your skin.
+- •Apply your Climara patch to a different area of your abdomen or your buttocks each time.
+  Do not use the same application site 2 times in the same week.
+- •Do not apply Climara to your breasts.
+- •If you forget to apply a new Climara patch, you should apply a new patch as soon as possible.
+- •You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are using and whether you still need treatment with Climara.
 
-1. Start at the lowest dose and talk to your health care provider about how well that dose is working for you.
-2. Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
-   You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with Climara.
+How to Change Climara
 
-What are the possible side effects of estrogens?
+- •When changing Climara, peel off the used patch slowly from the skin.
+- •After removal of Climara, people usually have either no adhesive residue or light adhesive residue.
+  If any adhesive residue remains on your skin after removing the patch, allow the area to dry for 15 minutes.
+  Then, gently rub the area with an oil-based cream or lotion to remove the adhesive from your skin.
+- •Keep in mind, the new patch must be applied to a different skin area of your abdomen or buttocks.
+  This area must be clean, dry, and free of powder, oil or lotion.
+  The same site should not be used again for at least 1 week after removal of the patch.
 
-Less common but serious side effects include:
+What are the possible side effects of Climara?
 
-- Breast cancer
-- Cancer of the uterus
-- Stroke
-- Heart attack
-- Blood clots
-- Dementia
-- Gallbladder disease
-- Ovarian cancer
+Side effects are grouped by how serious they are and how often they happen when you are treated.
 
-These are some of the warning signs of serious side effects:
+Serious, but less common side effects include:
 
-- Breast lumps
-- Unusual vaginal bleeding
-- Dizziness and faintness
-- Changes in speech
-- Severe headaches
-- Chest pain
-- Shortness of breath
-- Pains in your legs
-- Changes in vision
-- Vomiting
+- •heart attack
+- •stroke
+- •blood clots
+- •dementia
+- •breast cancer
+- •cancer of the lining of the uterus (womb)
+- •cancer of the ovary
+- •high blood pressure
+- •high blood sugar
+- •gallbladder disease
+- •liver problems
+- •changes in your thyroid hormone levels
+- •enlargement of benign tumors of the uterus (“fibroids”)
 
-Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
+Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
-Common side effects include:
+- •new breast lumps
+- •unusual vaginal bleeding
+- •changes in vision or speech
+- •sudden new severe headaches
+- •severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
 
-- Headache
-- Breast pain
-- Irregular vaginal bleeding or spotting
-- Stomach/abdominal cramps, bloating
-- Nausea and vomiting
-- Hair loss
+Less serious, but common side effects include:
 
-Other side effects include:
-
-- High blood pressure
-- Liver problems
-- High blood sugar
-- Fluid retention
-- Enlargement of benign tumors of the uterus (“fibroids”)
-- Vaginal yeast infection
+- •headache
+- •breast tenderness or pain
+- •irregular vaginal bleeding or spotting
+- •stomach or abdominal cramps, bloating
+- •nausea and vomiting
+- •hair loss
+- •fluid retention
+- •vaginal yeast infection
+- •redness or irritation at the patch placement site
 
 These are not all the possible side effects of Climara.
-For more information, ask
+For more information, ask your healthcare provider or pharmacist.
+Tell your healthcare provider if you have any side effects that bother you or does not go away.
 
-your healthcare provider or pharmacist.
+Call your doctor for medical advice about side effects.
+You may report side effects to Bayer Healthcare Pharmaceuticals at 1-888-842-2937 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of a serious side effect with Climara?
 
-Talk with your healthcare provider regularly about whether you should continue using Climara:
+- •Talk with your healthcare provider regularly about whether you should continue using Climara.
+- •If you have a uterus, talk with your healthcare provider about whether the addition of a progestin is right for you.
+- •The addition of a progestin is generally recommended for women with a uterus to reduce the chance of getting cancer of the uterus (womb).
+- •See your healthcare provider right away if you get vaginal bleeding while using Climara.
+- •Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
+- •If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+- •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
+- •Ask your healthcare provider for ways to lower your chances of getting heart disease.
 
-- If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.
+How should I store and throw away used Climara?
 
-- See your healthcare provider right away if you get vaginal bleeding while using Climara.
+- •Store Climara at room temperature 68°F to 77°F (20°C to 25°C).
+- •Do not store Climara patches outside of their pouches.
+  Apply immediately upon removal from the protective pouch.
+- •Used patches still contain estrogen.
+  To throw away the patch, fold the sticky side of the patch together, place it in a sturdy child-proof container, and place this container in the trash.
+  Used patches should not be flushed in the toilet.
 
-- Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
-  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+Keep Climara and all medicines out of the reach of children.
 
-- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
-  Ask your healthcare provider for ways to lower your chances for getting heart disease.
-
-General information about safe and effective use of Climara.
+General information about the safe and effective use of Climara.
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not take Climara for conditions for which it was not prescribed.
-Do not give Climara to other people, even if they have the same symptoms you have.
+Do not use Climara for conditions for which it was not prescribed.
+Do not give the Climara patch to other people, even if they have the same symptoms you have.
 It may harm them.
 
-Keep Climara out of the reach of children.
-
-This leaflet provides a summary of the most important information about Climara.
+This leaflet summarizes the most important information about Climara.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about Climara that is written for health professionals.
-You can get more information by calling the toll free number (1-888-84BAYER).
+
+For more information, go to www.climara.com or call Bayer HealthCare Pharmaceuticals Inc at 1-888-842-2937.
 
 What are the ingredients in Climara?
 
-The active ingredient of Climara is estradiol.
-Climara also contains acrylate copolymer adhesive, fatty acid esters, and polyethylene backing.
+Active ingredient: estradiol
+
+Inactive ingredient: acrylate copolymer adhesive, fatty acid esters, and polyethylene backing.
 
 Instructions for Use
 
-How and Where to Apply the Climara Patch
+Climara (Klī-mâr-uh)
 
-Each Climara patch is individually sealed in a protective pouch.
-To open the pouch, hold it vertically with the Climara name facing you.
-Tear off the top of the pouch using the top tear notch.
-Tear off the side of the pouch using the side tear notch.
-Pull the pouch open.
-The Climara patch is the see-through plastic film attached to the clear thicker plastic backing.
-There is a silver foil-sticker attached to the inside of the pouch.
-Do not remove it from the pouch.
-The sticker contains a moisture protectant (desiccant).
-Lift out the Climara patch.
-Notice that the patch is attached to a thicker, hard-plastic backing and that the patch itself is oval and see-through.
+(estradiol transdermal system)
 
-Apply the sticky side of the Climara patch to a clean, dry area of the lower stomach below your belly button or the top of the buttocks (see diagram below).
-Do not apply the Climara patch to your breasts.
-The sites of application on the lower stomach and buttocks must be rotated, allowing at least 1 week between applications to the same site.
-The site selected should not be oily, damaged, or irritated.
-Avoid the waistline, since tight clothing may rub and remove the patch.
-Also, do not put the patch on areas where sitting would rub it off or loosen it.
-Apply the patch right after opening the pouch and removing the protective liner.
-Press the patch firmly in place with your fingers for about 10 seconds.
-Make sure that it sticks all over, especially around the edges.
+Read this Patient Information before you start using Climara and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-The Climara patch should be worn continuously for one week.
-You may wish to try different sites when putting on a new patch, to find ones that are most comfortable for you and where clothing will not rub on the patch or loosen it.
+You will need the following supplies: See Figure A
 
-When to Apply the Climara System?
+Figure A
 
-The Climara patch should be changed once weekly.
-Remove the used patch.
-Carefully fold it in half so that it sticks to itself because used patches still contain active hormones and discard it.
-Any adhesive that might remain on your skin can be easily rubbed off.
-Then place the new Climara patch on a different skin site.
-(The same skin site should not be used again for at least 1 week after removal of the patch.)
+Step 1: Pick the days you will change your Climara.
 
-Contact with water when you are bathing, swimming, or showering may affect the patch.
-If the patch falls off, the same patch may be reapplied to another area of the lower abdomen.
-Make sure that there is good contact, especially around the edges.
-If the patch will not stick completely to your skin, put a new patch on a different area of the lower abdomen.
-Do not apply two patches at the same time.
+You will need to change your patch 1 time each week or every 7 days.
 
-Estrogens should be used only as long as needed.
-You and your health care provider should talk regularly (for example, every 3 to 6 months) about whether you still need treatment with Climara.
+Step 2.
+Remove the Climara patch from the pouch.
 
-© 2007, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
+- •Remove patch from its protective pouch by tearing at the notch (do not use scissors).
+  See Figure B
+- •Do not remove your patch from the protective pouch until you are ready to apply it.
 
-Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
+Figure B
 
-Manufactured by: 3M Drug Delivery Systems Northridge, CA 93124
+Step 3.
+Remove the adhesive liner.
+See Figure C
 
-6705601 3M 679001 December 2007
+- •You will see that Climara is an oval shaped clear patch that is attached to a thick, hard-plastic adhesive liner and covered by a clear, plastic film.
+  See Figure C
+- •To apply your patch you must first remove the protective, clear plastic film that is attached to the clear thicker plastic backing.
+  See Figure D
+- •There is a silver foil-sticker attached to the inside of the pouch.
+  Do not remove the silver foil sticker from the pouch.
+  See Figure E
+
+| Figure C | Figure D | Figure E |
+| --- | --- | --- |
+
+Step 4.
+Placing the patch on your skin.
+
+- •Apply the sticky side of the patch to 1 of the areas of skin shown below.
+  See Figure F and Figure G
+- •Avoid touching the sticky side of the patch with your fingers.
+
+| Figure F | Figure G |
+| --- | --- |
+
+Note:
+
+- •Avoid the waistline, since clothing and belts may cause the patch to be rubbed off.
+- •Do not apply Climara to your breasts.
+- •Only apply Climara to skin that is clean, dry, and free of any powder, oil, or lotion.
+- •You should not apply the patch to injured, burned, or irritated skin, or areas with skin conditions (such as birth marks, tattoos, or that is very hairy).
+
+Step 5.
+Press the patch firmly onto your skin.
+
+- •Press the patch firmly in place with your fingers for at least 10 seconds
+- •Rub the edges of the patch to make sure that it will stick to your skin.
+  (See Figure H)
+
+Figure H
+
+Note:
+
+- •Contact with water while you are swimming, using a sauna, bathing, or showering may cause the patch to fall off.
+- •If your patch falls off reapply it.
+  If you cannot reapply the patch, apply a new patch to another area (See Figures F and G), and continue to follow your original application schedule.
+- •If you stop using your Climara patch or forget to apply a new patch as scheduled, you may have spotting, or bleeding, and your symptoms may come back.
+
+Step 6: Throwing away your used patch.
+
+- •When it is time to change your patch, remove the old patch before you apply a new patch.
+- •To throw away the patch, fold the sticky side of the patch together, place it in a sturdy child-proof container, and place this container in the trash.
+  Used patches should not be flushed in the toilet.
+
+This Patient Information and Instructions for Use have been approved by the U.S Food and Drug Administration.
+
+© 2013, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
+
+Manufactured for:
+
+Bayer HealthCare Pharmaceuticals Inc. Whippany, NJ 07981
+
+Manufactured by 3M Drug Delivery Systems
+
+Northridge, CA 91324

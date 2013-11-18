@@ -1,14 +1,13 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Climara should not be used in women with any of the following conditions:
+Climara is contraindicated in women with any of the following conditions:
 
-1. Undiagnosed abnormal genital bleeding.
-2. Known, suspected, or history of cancer of the breast.
-3. Known or suspected estrogen-dependent neoplasia.
-4. Active deep vein thrombosis, pulmonary embolism or a history of these conditions.
-5. Active or recent (e.g. within the past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction).
-6. Liver dysfunction or disease.
-7. Climara should not be used in patients with known hypersensitivity to its ingredients.
-8. Known or suspected pregnancy.
-   There is no indication for Climara in pregnancy.
-   There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy (see PRECAUTIONS).
+- •Undiagnosed abnormal genital bleeding
+- •Known, suspected, or history of breast cancer
+- •Known or suspected estrogen-dependent neoplasia
+- •Active DVT, PE, or a history of these conditions
+- •Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions
+- •Known anaphylactic reaction or angioedema with Climara
+- •Known liver impairment or disease
+- •Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders
+- •Known or suspected pregnancy
