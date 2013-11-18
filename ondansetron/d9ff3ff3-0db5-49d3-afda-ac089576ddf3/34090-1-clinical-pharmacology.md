@@ -9,23 +9,17 @@ It is not certain whether ondansetron’s antiemetic action is mediated centrall
 However, cytotoxic chemotherapy appears to be associated with release of serotonin from the enterochromaffin cells of the small intestine.
 In humans, urinary 5-HIAA (5-hydroxyindoleacetic acid) excretion increases after cisplatin administration in parallel with the onset of emesis.
 The released serotonin may stimulate the vagal afferents through the 5-HT3 receptors and initiate the vomiting reflex.
+In animals, the emetic response to cisplatin can be prevented by pretreatment with an inhibitor of serotonin synthesis, bilateral abdominal vagotomy and greater splanchnic nerve section, or pretreatment with a serotonin 5-HT3 receptor antagonist.
 
 ## 12.2 Pharmacodynamics
-
-In animals, the emetic response to cisplatin can be prevented by pretreatment with an inhibitor of serotonin synthesis, bilateral abdominal vagotomy and greater splanchnic nerve section, or pretreatment with a sero- tonin 5-HT3 receptor antagonist.
 
 In normal volunteers, single intravenous doses of 0.15 mg/kg of ondansetron had no effect on esophageal motility, gastric motility, lower esophageal sphincter pressure, or small intestinal transit time.
 Multiday administration of ondansetron has been shown to slow colonic transit in normal volunteers.
 Ondansetron has no effect on plasma prolactin concentrations.
 
-Ondansetron does not alter the respiratory depressant effects produced by alfentanil or the degree of neu- romuscular blockade produced by atracurium.
-Interactions with general or local anesthetics have not been studied.
-
 ## 12.3 Pharmacokinetics
 
-Absorption
-
-Ondansetron is well absorbed from the gastrointestinal tract and undergoes some first-pass metabolism.
+Absorption Ondansetron is well absorbed from the gastrointestinal tract and undergoes some first-pass metabolism.
 After a single dose of ZUPLENZ (ondansetron) oral soluble film 8 mg under fasting conditions (n=46), the peak plasma concentrations were achieved in 1.3 hours and the mean elimination half-life was 4.6 hours in healthy subjects.
 The mean (±S.D.)
 Cmax and AUC were 37.28 (±14.9) ng/mL and 225 (±88.1) ng•h/mL, respectively.
@@ -36,69 +30,49 @@ In a study using ondansetron tablets, ondansetron systemic exposure did not incr
 AUC from a 16 mg tablet was 24% greater than predicted from an 8 mg tablet dose.
 This may reflect some reduction of first-pass metabolism at higher oral doses.
 
-Food Effect
+Food Effect When administered with a high fat meal, 8 mg ZUPLENZ (ondansetron) oral soluble film’s mean time to peak plasma concentration (tmax) was delayed by approximately 1 hour and its AUC remained similar compared to that of under fasted stated.
 
-When ZUPLENZ 8 mg was administered with a high fat meal, the mean time to peak plasma concentration (T max) was delayed by approximately 1 hour while AUC was similar to that under fasting conditions.
-Under the same fed conditions, both Cmax and AUC were comparable between ZUPLENZ 8 mg and ondansetron ODT 8 mg.
-
-Distribution
-
-Plasma protein binding of ondansetron as measured in vitro was 70% to 76% over the concentration range of 10 to 500 ng/mL.
+Distribution Plasma protein binding of ondansetron as measured in vitro was 70% to 76% over the concentration range of 10 to 500 ng/mL.
 Circulating drug also distributes into erythrocytes.
 
-Metabolism and Excretion
-
-Ondansetron is extensively metabolized in humans, with approximately 5% of a radiolabeled dose recovered as the parent compound from the urine.
-The primary metabolic pathway is hydroxylation on the indole ring followed by subsequent glucuronide or sulfate conjugation.
-Although some nonconjugated metabolites have pharmacologic activity, these are not found in plasma at concentrations likely to significantly contribute to the biological activity of ondansetron.
+Metabolism and Excretion Ondansetron is extensively metabolized in humans, with approximately 5% of a radiolabeled dose recovered as the parent compound from the urine.
 The metabolites are observed in the urine.
-
+The primary metabolic pathway is hydroxylation on the indole ring followed by subsequent glucuronide or sulfate conjugation.
 In vitro metabolism studies have shown that ondansetron is a substrate for human hepatic cytochrome P-450 enzymes, including CYP1A2, CYP2D6, and CYP3A4.
 In terms of overall ondansetron turnover, CYP3A4 played the predominant role.
-Because of the multiplicity of metabolic enzymes capable of metabolizing ondansetron, it is likely that inhibition or loss of one enzyme (e.g., CYP2D6 genetic deficiency) will be compensated by others and may result in little change in overall rates of ondansetron elimination.
+Although some nonconjugated metabolites have pharmacologic activity, these are not found in plasma at concentrations likely to significantly contribute to the biological activity of ondansetron.
+
+Drug Interactions Ondansetron does not itself appear to induce or inhibit the cytochrome P-450 drug-metabolizing enzyme system of the liver.
+
+Because ondansetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inhibitors of these enzymes may change the clearance and, hence, the half-life of ondansetron.
+On the basis of available data, no dosage adjustment is recommended for patients on these drugs.
+Based on the multiplicity of metabolic enzymes capable of metabolizing ondansetron, it is likely that inhibition or loss of one enzyme (e.g., CYP2D6 genetic deficiency) will be compensated by others and may result in little change in overall rates of ondansetron elimination.
+On the basis of available limited data, no dosage adjustment for ondansetron is recommended for patients on inhibitors of a single CYP enzyme.
+
 Ondansetron elimination may be affected by cytochrome P-450 inducers.
 In a pharmacokinetic study of 16 epileptic patients maintained chronically on CYP3A4 inducers, carbamazepine, or phenytoin, reduction in AUC, Cmax, and T½ of ondansetron was observed1; this resulted in a significant increase in clearance.
 However, on the basis of available data, no dosage adjustment for ondansetron is recommended.
 
-In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.
-
-Excretion
-
-Ondansetron and its metabolites are eliminated via the urine.
-
-Gender Effects
-
-Gender differences were shown in the disposition of ondansetron given as a single dose.
+Specific Populations Gender Gender differences were shown in the disposition of ondansetron given as a single dose.
 The extent and rate of ondansetron's absorption is greater in women than men.
-It is not known whether these gender-related differences were clinically important.
+It is not known whether these gender-related differences are clinically important.
 
 Table 4: Mean Pharmacokinetic Parameters by Gender in Healthy Volunteers After A Single 8 mg ZUPLENZ Oral Soluble Film Dose
 
-| Gender | Mean Weight (kg) | n | Cmax (ng/mL) | Tmax (h) | T1/2 (h) | AUC (h•ng/mL) |
+| Gender | Mean Weight (kg) | n | Cmax (ng/mL) | Tmax (h) | T½ (h) | AUC (h•ng/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
 | M | 62 | 39 | 35.2 | 1.67 | 4.54 | 207 |
 | F | 56.7 | 7 | 49.1 | 1.7 | 5.39 | 323 |
 
-Elderly
-
-A reduction in clearance and increase in elimination half-life are seen in patients over 75 years of age.
+Elderly A reduction in clearance and increase in elimination half-life are seen in patients over 75 years of age.
 In clinical trials with cancer patients, safety and efficacy was similar in patients over 65 years of age and those under 65 years of age; there was an insufficient number of patients over 75 years of age to permit conclusions in that age-group.
 No dosage adjustment is recommended in the elderly.
 
-Hepatic Impairment
-
-In patients with mild-to-moderate hepatic impairment, clearance is reduced 2-fold and mean half-life is increased to 11.6 hours compared to 5.7 hours in healthy subjects.
-In patients with severe hepatic impairment (Child-Pugh score of 10 or greater) 2, clearance is reduced 2-fold to 3-fold and apparent volume of distribution is increased with a resultant increase in half-life to 20 hours.
+Hepatic Impairment In patients with mild-to-moderate hepatic impairment, clearance is reduced 2-fold and mean half-life is increased to 11.6 hours compared to 5.7 hours in healthy subjects.
+In patients with severe hepatic impairment (Child-Pugh score of 10 or greater)2, clearance is reduced 2-fold to 3-fold and apparent volume of distribution is increased with a resultant increase in half-life to 20 hours.
 In patients with severe hepatic impairment, a total daily dose of 8 mg should not be exceeded.
 
-Renal Impairment
-
-Due to the very small contribution (5%) of renal clearance to the overall clearance, renal impairment was not expected to significantly influence the total clearance of ondansetron.
+Renal Impairment Due to the very small contribution (5%) of renal clearance to the overall clearance, renal impairment was not expected to significantly influence the total clearance of ondansetron.
 However, ondansetron oral mean plasma clearance was reduced by about 50% in patients with severe renal impairment (creatinine clearance <30 mL/min).
 This reduction in clearance is variable and was not consistent with an increase in half-life.
 No reduction in dose or dosing frequency in these patients is warranted.
-
-Protein Binding
-
-Plasma protein binding of ondansetron as measured invitro was 70% to 76% over the concentration range of 10 to 500 ng/mL.
-Circulating drug also distributes into erythrocytes.

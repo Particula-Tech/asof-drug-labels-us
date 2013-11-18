@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. Reproduction studies have been performed in pregnant rats and rabbits at daily oral doses up to 15 and 30 mg/kg/day, respectively, (approximately 8 and 30 times the human dose of 16mg/day, based on body surface area), and have revealed no evidence of impaired fertility or harm to the fetus due to ondansetron.
+Pregnancy Category B. Reproduction studies have been performed in pregnant rats and rabbits at daily oral doses up to 15 and 30 mg/kg/day, respectively (approximately 8 and 30 times the human dose of 16 mg/day, based on body surface area), and have revealed no evidence of impaired fertility or harm to the fetus due to ondansetron.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, ZUPLENZ (ondansetron) oral soluble film should be used during pregnancy only if clearly needed.
 
@@ -31,5 +31,5 @@ There is no experience beyond first-day administration of ondansetron.
 
 ## 8.7 Hepatic Impairment
 
-In patients with severe hepatic impairment (Child-Pugh score of 10 or greater) 2, clearance is reduced and apparent volume of distribution is increased with a resultant increase in plasma half-life [see Clinical Pharmacology (12.3)].
+In patients with severe hepatic impairment (Child-Pugh score of 10 or greater)2, clearance is reduced and apparent volume of distribution is increased with a resultant increase in plasma half-life [see Clinical Pharmacology (12.3)].
 In such patients, a total daily dose of 8 mg should not be exceeded.

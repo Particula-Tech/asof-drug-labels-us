@@ -3,12 +3,13 @@
 ## 5.1 Hypersensitivity
 
 Hypersensitivity reactions, including anaphylaxis and bronchospasm, have been reported in patients who have exhibited hypersensitivity to other selective 5-HT3 receptor antagonists.
+ZUPLENZ (ondansetron) oral soluble film should be discontinued immediately at the first sign of hypersensitivity.
 
 ## 5.2 Electrocardiographic Changes
 
 ECG changes including QT interval prolongation has been seen in patients receiving ondansetron.
 In addition, post-marketing cases of Torsade de Pointes have been reported in patients using ondansetron.
-Avoid ZOFRAN in patients with congenital long QT syndrome.
+Avoid ZUPLENZ in patients with congenital long QT syndrome.
 ECG monitoring is recommended in patients with electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia), congestive heart failure, bradyarrhythmias or patients taking other medicinal products that lead to QT prolongation.
 
 ## 5.3 Masking of Progressive Ileus and/or Gastric Distension
