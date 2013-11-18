@@ -61,3 +61,9 @@ Instruct patients that if they miss a dose of AFINITOR, they may still take it u
 If more than 6 hours have elapsed, they should be instructed to skip the dose for that day.
 The next day, they should take AFINITOR at the usual time.
 Warn patients to not take 2 doses to make up for the one that they missed.
+
+Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
+
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+
+T2013-104 November 2013

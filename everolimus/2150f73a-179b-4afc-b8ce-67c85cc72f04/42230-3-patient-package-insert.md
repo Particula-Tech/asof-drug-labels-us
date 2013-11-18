@@ -53,7 +53,7 @@ AFINITOR is a prescription medicine used to treat:
 
 - advanced hormone receptor-positive, HER2-negative breast cancer, along with the medicine exemestane, in postmenopausal women who have already received certain other medicines for their cancer.
 - adults with a type of pancreatic cancer known as pancreatic neuroendocrine tumor (PNET), that has progressed and cannot be treated with surgery.
-  It is not known if AFINITOR is safe and effective in people with carcinoid tumors.
+  AFINITOR is not for use in people with carcinoid tumors that actively produce hormones.
 - adults with advanced kidney cancer (renal cell carcinoma or RCC) when certain other medicines have not worked.
 - people with the following types of tumors that are seen with a genetic condition called tuberous sclerosis complex (TSC):
   - adults with a kidney tumor called angiomyolipoma, when their kidney tumor does not require surgery right away.
@@ -90,7 +90,7 @@ Before taking AFINITOR or AFINITOR DISPERZ, tell your healthcare provider about 
 - Are scheduled to receive any vaccinations.
   You should not receive a “live vaccine” or be around people who have recently received a “live vaccine” during your treatment with AFINITOR or AFINITOR DISPERZ.
   If you are not sure about the type of immunization or vaccine, ask your healthcare provider.
-- Have other medical conditions.
+- Have other medical conditions
 - Are pregnant, or could become pregnant.
   AFINITOR or AFINITOR DISPERZ can cause harm to your unborn baby.
   You should use effective birth control while using AFINITOR or AFINITOR DISPERZ and for 8 weeks after stopping treatment.
@@ -146,7 +146,7 @@ AFINITOR DISPERZ:
 
 • Take AFINITOR or AFINITOR DISPERZ the same way each time, either with food or without food.
 
-• If you take too much AFINITOR or AFINITOR DISPERZ contact your healthcare provider or go to the nearest hospital emergency department right away.
+• If you take too much AFINITOR or AFINITOR DISPERZ contact your healthcare provider or go to the nearest hospital emergency room right away.
 Take the pack of AFINITOR or AFINITOR DISPERZ with you.
 
 • If you miss a dose of AFINITOR or AFINITOR DISPERZ, you may still take it up to 6 hours after the time you normally take it.
@@ -274,8 +274,10 @@ Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
+Revised Nov 2013
+
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Novartis.
 
 © Novartis
 
-T2012-153/T2012-154 August 2012/August 2012
+T2013-105 November 2013

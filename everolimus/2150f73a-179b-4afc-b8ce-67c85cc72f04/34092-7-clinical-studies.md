@@ -66,12 +66,12 @@ Table 13: Progression-free Survival Results
 Investigator-determined response rate was low (4.8%) in the AFINITOR arm and there were no complete responses.
 The overall survival results are not yet mature and no statistically significant treatment-related difference in OS was noted [HR=1.05 (95% CI: 0.71 to 1.55)].
 
-Locally Advanced or Metastatic Carcinoid Tumors
+Lack of Efficacy in Locally Advanced or Metastatic Functional Carcinoid Tumors
 
-In a randomized, double-blind, multi-center trial in 429 patients with carcinoid tumors, AFINITOR plus depot octreotide (Sandostatin LAR®) was compared to placebo plus depot octreotide.
-After documented radiological progression, patients could be unblinded by the investigator: those randomized to placebo were then able to receive open-label AFINITOR plus depot octreotide.
-The study did not meet the primary efficacy endpoint (PFS) and the OS interim analysis numerically favored the placebo plus depot octreotide arm.
-Therefore, the use of AFINITOR in patients with carcinoid tumors remains investigational.
+The safety and effectiveness of AFINITOR in patients with locally advanced or metastatic functional carcinoid tumors have not been demonstrated.
+In a randomized (1:1), double-blind, multi-center trial in 429 patients with carcinoid tumors, AFINITOR plus depot octreotide (Sandostatin LAR®) was compared to placebo plus depot octreotide.
+After documented radiological progression, patients on the placebo arm could receive AFINITOR; of those randomized to placebo, 143 (67%) patients received open-label AFINITOR plus depot octreotide.
+The study did not meet its primary efficacy endpoint of a statistically significant improvement in PFS and the final analysis of OS favored the placebo plus depot octreotide arm.
 
 ## 14.3 Advanced Renal Cell Carcinoma
 

@@ -8,7 +8,7 @@ AFINITOR® is indicated for the treatment of postmenopausal women with advanced 
 
 AFINITOR® is indicated for the treatment of adult patients with progressive neuroendocrine tumors of pancreatic origin (PNET) with unresectable, locally advanced or metastatic disease.
 
-The safety and effectiveness of AFINITOR® in the treatment of patients with carcinoid tumors have not been established.
+AFINITOR® is not indicated for the treatment of patients with functional carcinoid tumors.
 
 ## 1.3 Advanced Renal Cell Carcinoma (RCC)
 
