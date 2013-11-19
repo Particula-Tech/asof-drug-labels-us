@@ -43,7 +43,8 @@ Prior to initiating SIMPONI, assess if treatment for latent tuberculosis is need
 Consider anti-tuberculosis therapy prior to initiation of SIMPONI in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
 Consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
 
-Monitor patients for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
+Cases of active tuberculosis have occurred in patients treated with SIMPONI during and after treatment for latent tuberculosis.
+Monitor patients for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy, patients who are on treatment for latent tuberculosis, or patients who were previously treated for tuberculosis infection.
 
 Consider tuberculosis in the differential diagnosis in patients who develop a new infection during SIMPONI treatment, especially in patients who have previously or recently traveled to countries with a high prevalence of tuberculosis, or who have had close contact with a person with active tuberculosis.
 
@@ -154,10 +155,21 @@ There have been post-marketing reports of pancytopenia, leukopenia, neutropenia,
 In clinical trials, cases of pancytopenia, leukopenia, neutropenia, and thrombocytopenia have also occurred in SIMPONI-treated patients.
 Caution should be exercised when using TNF-blockers, including SIMPONI, in patients who have or have had significant cytopenias.
 
-## 5.9 Vaccinations
+## 5.9 Vaccinations/Therapeutic Infectious Agents
+
+Live Vaccines
 
 Patients treated with SIMPONI may receive vaccinations, except for live vaccines.
-No data are available on the response to live vaccination or the risk of infection, or transmission of infection after the administration of live vaccines to patients receiving SIMPONI.
+In patients receiving anti-TNF therapy, limited data are available on the response to live vaccination, or on the secondary transmission of infection by live vaccines.
+Use of live vaccines could result in clinical infections, including disseminated infections.
+
+Therapeutic Infectious Agents
+
+Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
+It is recommended that therapeutic infectious agents not be given concurrently with SIMPONI.
+
+Non-live Vaccines
+
 In the Phase 3 PsA trial, after pneumococcal vaccination, a similar proportion of SIMPONI-treated and placebo-treated patients were able to mount an adequate immune response of at least a 2-fold increase in antibody titers to pneumococcal polysaccharide vaccine.
 In both SIMPONI-treated and placebo-treated patients, the proportions of patients with response to pneumococcal vaccine were lower among patients receiving MTX compared with patients not receiving MTX.
 The data suggest that SIMPONI does not suppress the humoral immune response to the pneumococcal vaccine.

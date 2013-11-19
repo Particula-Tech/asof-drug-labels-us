@@ -124,7 +124,7 @@ ACR 20 responses were observed in 31% of patients in the SIMPONI 50 mg + MTX gro
 Table 4.
 Trial PsA - Proportion of Patients with ACR Responses
 
-|  | Placebo ± MTXIn Trial PsA, about 48%, 16%, and 72% of the patients received stable doses of MTX (≤ 25 mg/day), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
+|  | Placebo ± MTXIn Trial PsA, about 48%, 16%, and 72% of the patients received stable doses of MTX (≤ 25 mg/week), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
 | --- | --- | --- |
 | NN reflects randomized patients. | 113 | 146 |
 | ACR 20 |  |  |
@@ -141,7 +141,7 @@ Trial PsA - Proportion of Patients with ACR Responses
 Table 5.
 Trial PsA - Percent Improvement in ACR Components at Week 14
 
-|  | Placebo± MTXIn Trial PsA, about 48%, 16%, and 78% of the patients received stable doses of MTX (≤ 25 mg/day), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
+|  | Placebo± MTXIn Trial PsA, about 48%, 16%, and 78% of the patients received stable doses of MTX (≤ 25 mg/week), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
 | --- | --- | --- |
 | NN reflects randomized patients; actual number of patients evaluable for each endpoint may vary by timepoint. | 113 | 146 |
 | Number of swollen joints (0–66) |  |  |

@@ -71,7 +71,7 @@ Before starting SIMPONI, tell your doctor about all your medical conditions, inc
 - have or had heart failure.
 - have or have had a condition that affects your nervous system, such as multiple sclerosis or Guillain-Barré syndrome.
 - have recently received or are scheduled to receive a vaccine.
-  People taking SIMPONI should not receive live vaccines.
+  People taking SIMPONI should not receive live vaccines or treatment with a weakened bacteria (such as BCG for bladder cancer).
   People taking SIMPONI can receive non-live vaccines.
 - have a baby and you were using SIMPONI during your pregnancy.
   Tell your baby's doctor before your baby receives any vaccine.
@@ -225,4 +225,4 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
 
 © Janssen Biotech, Inc. 2013
 
-Revised: 05/2013
+Revised: 11/2013

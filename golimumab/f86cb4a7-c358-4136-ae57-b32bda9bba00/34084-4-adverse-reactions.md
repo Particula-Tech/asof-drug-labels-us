@@ -113,9 +113,9 @@ Adverse drug reactions that occurred <1% in SIMPONI-treated patients during the 
 
 Infections and infestations: Septic shock, atypical mycobacterial infection, pyelonephritis, arthritis bacterial, bursitis infective
 
-Neoplasms benign, malignant and unspecified: leukemia
+Neoplasms benign, malignant and unspecified: Leukemia
 
-Skin and subcutaneous tissue disorders: psoriasis (new onset or worsening, palmar/plantar and pustular), vasculitis (cutaneous)
+Skin and subcutaneous tissue disorders: Psoriasis (new onset or worsening, palmar/plantar and pustular), vasculitis (cutaneous)
 
 Vascular disorders: Vasculitis (systemic)
 
@@ -132,4 +132,6 @@ Immune System Disorders: Serious systemic hypersensitivity reactions (including 
 
 Neoplasms benign, malignant and unspecified: Melanoma [see Warnings and Precautions (5.2)]
 
-Skin and subcutaneous tissue disorders: Skin exfoliation
+Respiratory, thoracic and mediastinal disorders: Interstitial lung disease
+
+Skin and subcutaneous tissue disorders: Skin exfoliation, rash
