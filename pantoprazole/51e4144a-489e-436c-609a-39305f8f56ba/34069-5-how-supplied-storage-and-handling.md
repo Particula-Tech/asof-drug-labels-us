@@ -9,11 +9,13 @@ containing 40 mg of pantoprazole per vial.
 
 PROTONIX I.V. for Injection is available as follows:
 
+NDC 0008-0923-51 – Single vial containing PROTONIX I.V. for Injection (contains 40 mg pantoprazole),
+
 NDC 0008-0923-55 – Package of 10.
-Each vial (NDC 0008-0923-51) contains PROTONIX I.V. for Injection (each vial containing 40 mg pantoprazole).
+Each vial contains PROTONIX I.V. for Injection (each vial containing 40 mg pantoprazole).
 
 NDC 0008-0923-60 – Package of 25.
-Each vial (NDC 0008-0923-51) contains PROTONIX I.V. for Injection (each vial containing 40 mg pantoprazole).
+Each vial contains PROTONIX I.V. for Injection (each vial containing 40 mg pantoprazole).
 
 ### Storage and Handling
 

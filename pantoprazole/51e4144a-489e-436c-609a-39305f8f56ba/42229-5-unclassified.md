@@ -79,4 +79,4 @@ Nycomed GmbH
 
 D78467 Konstanz, Germany
 
-LAB-0462-7.0
+LAB-0462-8.0

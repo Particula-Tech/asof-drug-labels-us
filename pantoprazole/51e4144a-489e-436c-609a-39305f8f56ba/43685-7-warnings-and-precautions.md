@@ -31,13 +31,13 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines (see Dosage and Administration and Adverse Reactions sections).
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6)].
 
 ## 5.7 Hepatic Effects
 
 Mild, transient transaminase elevations have been observed in clinical studies.
 The clinical significance of this finding in a large population of subjects administered intravenous pantoprazole is unknown.
-(See Adverse Reactions).
+[see Adverse Reactions (6)].
 
 ## 5.8 Hypomagnesemia
 
@@ -45,7 +45,7 @@ Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patien
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [See Adverse Reactions (6.2)].
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
 ## 5.9 Interference with Urine Screen for THC
 
