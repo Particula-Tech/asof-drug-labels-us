@@ -1,205 +1,281 @@
-PATIENT INFORMATION
+# Patient Package Insert
 
-Updated November 16, 2005
+Climara Pro (Klī-mâr-uh prō)
 
-Climara Pro®
+(estradiol/levonorgestrel transdermal system)
 
-(Estradiol/Levonorgestrel Transdermal System)
-
-Read this Patient Information leaflet before you start taking Climara Pro and read what you get each time you refill Climara Pro.
+Read this Patient Information before you start using Climara Pro and each time you get a refill.
 There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
+
+| What is the most important information I should know about Climara Pro (combinations of estrogen and a progestin)? •Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (declines of brain function).•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots. •Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia.•Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).•Using estrogen-alone may increase your chances of getting strokes or blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.•You and your healthcare provider should talk regularly about whether you still need treatment with Climara Pro. |
+| --- |
 
 What is Climara Pro?
 
-Climara Pro is a medicine that contains two kinds of hormones, estrogen and a progestin.
+Climara Pro is a prescription medicine patch (Transdermal System) that contains two kinds of hormones, an estrogen and a progestin.
 
 What is Climara Pro used for?
 
 Climara Pro is used after menopause to:
 
-- reduce moderate to severe hot flashes.
-  Estrogens are hormones made by a woman's ovaries.
-  The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
+- •Reduce moderate to severe hot flashes
+- Estrogens are hormones made by a woman's ovaries.
+  The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
   This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
   The sudden drop in estrogen levels causes "surgical menopause."
-  When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
-  In some women, the symptoms are mild, and they will not need estrogens.
+- When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
+  In some women, the symptoms are mild, and they will not need to take estrogens.
   In other women, symptoms can be more severe.
-  You and your health care provider should talk regularly about whether you still need treatment with Climara Pro.
-- help reduce your chances of getting osteoporosis (thin weak bones).
-  Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
-  If you use Climara Pro only to prevent osteoporosis from menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
-  You and your healthcare provider should talk regularly about whether you should continue with Climara Pro.
-  Weight-bearing exercise, like walking or running, and taking calcium and vitamin D supplements may also lower your chances of getting postmenopausal osteoporosis.
-  It is important to talk about exercise and supplements with your healthcare provider before starting them.
+  You and your healthcare provider should talk regularly about whether or not you still need treatment with Climara Pro.
+- •Help reduce your chances of getting osteoporosis (thin weak bones)
+- If you use Climara Pro only to prevent osteoporosis due to menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
+  You and your healthcare provider should talk regularly about whether you still need treatment with Climara Pro.
 
 Who should not use Climara Pro?
 
-Do not use Climara Pro if you have had your uterus removed (hysterectomy).
+Do not use Climara Pro if you have had your uterus (womb) removed (hysterectomy).
 
-Climara Pro contains a progestin to decrease the chances of getting cancer of the uterus.
+Climara Pro contains a progestin to decrease the chance of getting cancer of the uterus.
 If you do not have a uterus, you do not need a progestin and you should not use Climara Pro.
 
 Do not start using Climara Pro if you:
 
-- have unusual vaginal bleeding
-- currently have or have had certain cancers.
-  Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
-  If you have or had cancer, talk with your healthcare provider about whether you should use Climara Pro.
-- had a stroke or heart attack in the past year
-- currently have or have had blood clots.
-- currently have or have had liver problems
-- are allergic to Climara Pro or any of its ingredients.
-  See the end of this leaflet for a list of ingredients in Climara Pro.
-- think you may be pregnantTell your health care provider:
-- if you are breastfeeding.
-  The hormones in Climara Pro can pass into your milk.
-- about all of your medical problems.
-  Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), migraine, endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
-- about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
-  Some medicines may affect how Climara Pro works.
-  Climara Pro may also affect how your other medicines work.
-- if you are going to have surgery or will be on bed rest.
-  You may need to stop using estrogens.
+- •have unusual vaginal bleeding
+- Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
+- •currently have or have had certain cancers
+- Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
+  If you have or have had cancer, talk with your healthcare provider about whether you should use Climara Pro.
+- •had a stroke or heart attack
+- •currently have or have had blood clots
+- •currently have or have had liver problems
+- •have been diagnosed with a bleeding disorder
+- •are allergic to Climara Pro or any of its ingredients
+- See the list of ingredients in Climara Pro at the end of this leaflet.
+- •think you may be pregnant
+- Climara Pro is not for pregnant women.
+  If you think you may be pregnant, you should have a pregnancy test and know the results.
+  Do not use Climara Pro if the test is positive and talk to your healthcare provider.
+
+What should I tell my healthcare provider before I use Climara Pro?
+
+Before you use Climara Pro, tell your healthcare provider if you:
+
+- •have any unusual vaginal bleeding
+- Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
+- •have any other medical conditions
+- Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- •are going to have surgery or will be on bed rest
+- Your healthcare provider will let you know if you need to stop using Climara Pro.
+
+- •are breastfeeding
+- The hormones in Climara Pro can pass into your breast milk.
+
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Some medicines may affect how Climara Pro works.
+Climara Pro may also affect how your other medicines work.
+Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I use Climara Pro?
 
-Climara Pro is a patch that you wear on your skin.
-The Climara Pro patch releases two hormones, estradiol and levonorgestrel.
-See the end of this leaflet for complete instructions on how to use Climara Pro.
+For detailed instructions, see the step-by-step instructions for using Climara Pro at the end of this Patient Information.
 
-1. Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
-2. Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
-   You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are using and whether you still need treatment with Climara Pro.
+- •Use Climara Pro exactly as your healthcare provider tells you to use it.
+- •Climara Pro is for skin use only.
+- •Change your Climara Pro patch 1 time each week or every 7 days.
+- •Apply your Climara Pro patch to a clean, dry area on your lower abdomen or buttocks.
+  This area must be clean, dry, and free of powder, oil or lotion for your patch to stick to your skin.
+- •Apply your Climara Pro patch to a different area of your abdomen or your buttocks each time.
+  Do not use the same application site 2 times in the same week.
+- •Do not apply Climara Pro to your breasts.
+- •If you forget to apply a new Climara Pro, you should apply a new patch as soon as possible.
+- •You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are using and whether you still need treatment with Climara Pro.
 
-What are the possible side effects of estrogens?
+How do I change Climara Pro?
 
-Less common but serious side effects include:
+- •When changing Climara Pro, peel off the used patch slowly from the skin.
+- •After removal of Climara Pro, people usually have either no adhesive residue or light adhesive residue.
+  If any adhesive residue remains on your skin after removing the patch, allow the area to dry for 15 minutes.
+  Then, gently rub the area with an oil-based cream or lotion to remove the adhesive from your skin.
+- •Keep in mind, the new patch must be applied to a different skin area of your lower abdomen or buttocks.
+  This area must be clean, dry, and free of powder, oil or lotion.
+  The same site should not be used again for at least 1 week after removal of the patch.
 
-- Breast cancer
-- Cancer of the uterus
-- Stroke
-- Heart attack
-- Blood clots
-- Dementia
-- Gallbladder disease
-- Ovarian cancer
+What are the possible side effects of Climara Pro?
 
-These are some of the warning signs of serious side effects:
+Side effects are grouped by how serious they are and how often they happen when you are treated.
 
-- Breast lumps
-- Unusual vaginal bleeding
-- Dizziness and faintness
-- Changes in speech
-- Severe headaches
-- Chest pain
-- Shortness of breath
-- Pains in your legs
-- Changes in vision
-- Vomiting
+Serious, but less common side effects include:
 
-Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
+- •heart attack
+- •stroke
+- •blood clots
+- •dementia
+- •breast cancer
+- •cancer of the lining of the uterus (womb)
+- •cancer of the ovary
+- •high blood pressure
+- •high blood sugar
+- •gallbladder disease
+- •liver problems
+- •changes in your thyroid hormone levels
+- •enlargement of benign tumors of the uterus (“fibroids”)
 
-Common side effects include:
+Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
-- Headache
-- Breast pain
-- Irregular vaginal bleeding or spotting
-- Stomach/abdominal cramps, bloating
-- Nausea and vomiting
-- Hair loss
+- •new breast lumps
+- •unusual vaginal bleeding
+- •changes in vision or speech
+- •sudden new severe headaches
+- •severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
 
-Other side effects include:
+Less serious, but common side effects include:
 
-- High blood pressure
-- Liver problems
-- High blood sugar
-- Fluid retention
-- Enlargement of benign tumors of the uterus ("fibroids")
-- Vaginal yeast infection
+- •headache
+- •breast pain
+- •irregular vaginal bleeding or spotting
+- •stomach or abdominal cramps, bloating
+- •nausea and vomiting
+- •hair loss
+- •fluid retention
+- •vaginal yeast infection
+- •redness or irritation at the patch placement site
 
 These are not all the possible side effects of Climara Pro.
 For more information, ask your healthcare provider or pharmacist.
+Tell your healthcare provider if you have any side effects that bother you or does not go away.
+
+You may report side effects to Bayer Healthcare Pharmaceuticals at 1-888-842-2937 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of a serious side effect with Climara Pro?
 
-- Talk with your healthcare provider regularly about whether you should continue using Climara Pro.
-- See your healthcare provider right away if you get vaginal bleeding while using Climara Pro.
-- Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
-  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
-- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
-  Ask your healthcare provider for ways to lower your chances for getting heart disease.
+- •Talk with your healthcare provider regularly about whether you should continue using Climara Pro.
+- •See your healthcare provider right away if you get vaginal bleeding while using Climara Pro.
+- •Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
+- •If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+- •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
+  Ask your healthcare provider for ways to lower your chances of getting heart disease.
 
-Have an annual gynecologic exam
+How should I store and throw away used Climara Pro?
 
-General information about safe and effective use of Climara Pro
+- •Store at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Do not store Climara Pro patches outside of their pouches.
+  Apply immediately after removal from the protective pouch.
+- •Used patches still contain estrogen.
+  To throw away the patch, fold the sticky side of the patch together, place it in a sturdy child-proof container, and place this container in the trash.
+  Used patches should not be flushed in the toilet.
+
+KEEP CLIMARA PRO and all medicines out of the reach of children.
+
+General information about the safe and effective use of Climara Pro.
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use Climara Pro for conditions for which it was not prescribed.
 Do not give Climara Pro to other people, even if they have the same symptoms you have.
 It may harm them.
 
-Keep Climara Pro out of the reach of children.
-
-This leaflet provides a summary of the most important information about Climara Pro.
+This leaflet summarizes the most important information about Climara Pro.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about Climara Pro that is written for health professionals.
-You can get more information by calling the toll free number (1-888-237-5394).
+
+For more information, go to www.climara-us.com or call Bayer HealthCare Pharmaceuticals Inc. at 1-888-842-2937.
 
 What are the ingredients in Climara Pro?
 
-The active ingredients in Climara Pro are estradiol and levonorgestrel.
-Climara Pro also contains acrylate copolymer adhesive and polyvinylpyrrolidone/vinyl acetate copolymer.
+Active ingredient: estradiol and levonorgestrel
 
-Do not store above 86°F (30°C).
-
-Do not store unpouched.
+Inactive ingredient: acrylate copolymer adhesive, and polyvinylpyrrolidone/vinyl acetate copolymer.
 
 Instructions for Use
 
-How and Where do I apply the Climara Pro Patch
+Climara Pro (Klī-mâr-uh prō)
 
-- Talk to your healthcare provider or pharmacist if you have questions about applying the Climara Pro patch.
-- Each Climara Pro patch is individually sealed in a protective pouch.
-  To open the pouch, hold it up with the Climara Pro name facing you.
-  Tear left to right using the top tear notch.
-  Tear from bottom to top using the side tear notch.
-  Pull the pouch open.
-  Carefully remove the Climara Pro patch.
-  You will notice that the patch is attached to a thicker, hard-plastic liner and that the patch itself is oval.
+(estradiol transdermal system)
 
-- Apply the adhesive side of the Climara Pro patch to a clean, dry area of the lower abdomen.
-  Do not apply the Climara Pro patch to your breasts.
-  The sites of application must be rotated, with an interval of at least 1 week allowed between applications to a particular site.
-  The area selected should not be oily, damaged, or irritated.
-  Avoid the waistline, since tight clothing may rub and remove the patch.
-  Application to areas where sitting would dislodge the patch should also be avoided.
-  Apply the patch immediately after opening the pouch and removing the protective liner.
-  Press the patch firmly in place with the fingers for about 10 seconds, making sure there is good contact, especially around the edges.
+Read this Patient Information before you start using Climara Pro and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-- The Climara Pro patch should be worn continuously for one week.
-  You may wish to experiment with different locations when applying a new patch, to find ones that are most comfortable for you and where clothing will not rub on the patch.
-- The Climara Pro patch should be changed once weekly.
-  Remove the used patch.
-  Carefully fold it in half so that it sticks to itself because used patches still contain active hormones and discard it.
-  Any adhesive that might remain on your skin can be easily rubbed off.
-  Then place the new Climara Pro patch on a different skin site.
-  (The same skin site should not be used again for at least 1 week after removal of the patch.)
-- Contact with water when you are bathing, swimming, or showering may affect the patch.
-  If the patch falls off, the same patch may be reapplied to another area of the lower abdomen.
-  Make sure that there is good contact, especially around the edges.
-  If the patch will not stick completely to your skin, put a new patch on a different area of the lower abdomen.
-  Do not apply two patches at the same time.
-- Once in place, the transdermal system should not be exposed to the sun for prolonged periods of time.
+You will need the following supplies: See Figure A
 
-© 2007, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
+Figure A
+
+Step 1: Pick the days you will change your Climara Pro.
+
+- •You will need to change your patch 1 time each week or every 7 days.
+
+Step 2.
+Remove the Climara Pro patch from the pouch.
+
+- •Remove patch from its protective pouch by tearing at the notch (do not use scissors).
+  See Figure B
+- •Do not remove your patch from the protective pouch until you are ready to apply it.
+
+Figure B
+
+Step 3.
+Remove the adhesive liner.
+See Figure C
+
+- •You will see that Climara Pro is an oval shaped clear patch that is attached to a thick, hard-plastic adhesive liner and covered by a clear, plastic film.
+  See Figure C
+- •To apply your patch you must first remove the protective, clear plastic film that is attached to the clear thicker plastic backing.
+  See Figure D
+- •There is a silver foil-sticker attached to the inside of the pouch.
+  Do not remove the silver foil sticker from the pouch.
+  See Figure E
+
+| Figure C | Figure D | Figure E |
+| --- | --- | --- |
+
+Step 4.
+Placing the patch on your skin.
+
+- •Apply the sticky side of the patch to one of the areas of skin shown below.
+  See Figure F and Figure G
+- •Avoid touching the sticky side of the patch with your fingers.
+
+| Figure F | Figure G |
+| --- | --- |
+
+Note:
+
+- •Avoid the waistline, since clothing and belts may cause the patch to be rubbed off.
+- •Do not apply Climara Pro to your breasts.
+- •Only apply Climara Pro to skin that is clean, dry, and free of any powder, oil, or lotion.
+- •You should not apply the patch to injured, burned, or irritated skin, or areas with skin conditions (such as birth marks, tattoos, or that is very hairy).
+
+Step 5.
+Press the patch firmly onto your skin.
+
+- •Press the patch firmly in place with your fingers for at least 10 seconds
+- •Rub the edges of the patch to make sure that it will stick to your skin.
+  (See Figure H)
+
+Figure H
+
+Note:
+
+- •Contact with water while you are swimming, using a sauna, bathing, or showering may cause the patch to fall off.
+- •If your patch falls off reapply it.
+  If you cannot reapply the patch, apply a new patch to another area (See Figures F and G) and continue to follow your original application schedule.
+- •If you stop using your Climara Pro or forget to apply a new patch as scheduled, you may have spotting, or bleeding, and your symptoms may come back.
+
+Step 6: Throwing away your used patch.
+
+- •When it is time to change your patch, remove the old patch before you apply a new patch.
+- •To throw away the patch, fold the sticky side of the patch together, place it in a sturdy child-proof container, and place this container in the trash.
+  Used patches should not be flushed in the toilet.
+
+This Patient Information and Instructions for Use have been approved by the U.S Food and Drug Administration.
+
+© 2013, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
 
 Made In USA
 
-Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
+Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Whippany, NJ 07981
 
 Manufactured by: 3M Drug Delivery Systems Northridge CA, 91324
-
-6705400 3M 678600 May 2007
