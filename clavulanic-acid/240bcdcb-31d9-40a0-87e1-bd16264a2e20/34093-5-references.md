@@ -1,17 +1,25 @@
-# REFERENCES
+# 15 REFERENCES
 
-1. National Committee for Clinical Laboratory Standards.
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically – Third Edition.
-   Approved Standard NCCLS Document M7-A3, Vol. 13, No. 25.
-   NCCLS, Villanova, PA, Dec.
-   1993.
-2. National Committee for Clinical Laboratory Standards.
-   Performance Standard for Antimicrobial Disk Susceptibility Tests – Fifth Edition.
-   Approved Standard NCCLS Document M2-A5, Vol. 13, No. 24.
-   NCCLS, Villanova, PA, Dec.
-   1993.
-3. Swanson-Biearman B, Dean BS, Lopez G, Krenzelok EP.
-   The effects of penicillin and cephalosporin ingestions in children less than six years of age.
-   Vet Hum Toxicol 1988;30:66-67.
+1.
+Swanson-Biearman B, Dean BS, Lopez G, Krenzelok EP.
+The effects of penicillin and cephalosporin ingestions in children less than six years of age.
+Vet Hum Toxicol.
+1988; 30: 66-67.
 
-West-ward Pharmaceutical Corp. Eatontown, NJ 07724 – USA Distributor Manufactured by: Hikma Pharmaceuticals P.O.Box 182400 Amman 11118 – Jordan Revised May 2009
+2.
+Clinical and Laboratory Standards Institute (CLSI).
+Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – 8th ed.
+CLSI Document M7-A9.
+CLSI, 940 West Valley Road, Suite 1400, Wayne, PA, 19087, 2012.
+
+3.
+Clinical and Laboratory Standards Institute (CLSI).
+Performance Standard for Antimicrobial Disk Susceptibility Tests; Approved Standard – 11th ed.
+CLSI Document M2-A11.
+CLSI, 940 West Valley Road, Suite 1400, Wayne, PA, 19087, 2012.
+
+4.
+CLSI.
+Performance Standards for Antimicrobial Susceptibility Testing: 22nd Informational Supplement.
+CLSI document M100-S22.
+CLSI, Wayne, PA, 2012.

@@ -1,16 +1,60 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Amoxicillin and clavulanate potassium for oral suspension, USP and other antibacterial drugs, Amoxicillin and clavulanate potassium for oral suspension, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## DESCRIPTION
+Amoxicillin and Clavulanate Potassium for Oral Suspension USP, 200 mg/28.5 mg per 5 mL: The dry powder is white to off white with fruity flavor.
+Each 5 mL of reconstituted creamy suspension contains 200 mg amoxicillin and 28.5 mg clavulanic acid as the potassium salt.
 
-Amoxicillin and clavulanate potassium for oral suspension, USP is an oral antibacterial combination consisting of the semisynthetic antibiotic amoxicillin and the β-lactamase inhibitor, clavulanate potassium (the potassium salt of clavulanic acid).
-Amoxicillin is an analog of ampicillin, derived from the basic penicillin nucleus, 6-aminopenicillanic acid.
-The amoxicillin molecular formula is C16H19N3O5S•3H2O, and the molecular weight is 419.46.
-Chemically, amoxicillin is (2S,5R,6R)-6-[(R)-(-)-2-Amino-2-(p-hydroxyphenyl)acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0] heptane-2-carboxylic acid trihydrate and may be represented structurally as: Clavulanic acid is produced by the fermentation of Streptomyces clavuligerus.
-It is a β-lactam structurally related to the penicillins and possesses the ability to inactivate a wide variety of β-lactamases by blocking the active sites of these enzymes.
-Clavulanic acid is particularly active against the clinically important plasmid–mediated β-lactamases frequently responsible for transferred drug resistance to penicillins and cephalosporins.
-The clavulanate potassium molecular formula is C8H8KNO5, and the molecular weight is 237.25.
-Chemically, clavulanate potassium is potassium (Z)-(2R,5R)-3-(2-hydroxyethylidene)-7-oxo-4-oxa-1-azabicyclo[3.2.0]-heptane-2-carboxylate and may be represented structurally as: Each 5 mL of suspension for oral administration contains 400 mg amoxicillin as the trihydrate and 57 mg clavulanic acid as the potassium salt or 200 mg amoxicillin as the trihydrate and 28.5 mg clavulanic acid as the potassium salt Inactive Ingredients: Aspartame*, colloidal silicon dioxide, HPMC 2910/ Hypromellose 5 cP, silicon dioxide, succinic acid, xanthan gum, golden syrup flavor, orange flavor. *See PRECAUTIONS–Information for the Patient.
+NDC 0143-9981-50..................
+50 mL bottle NDC 0143-9981-75..................
+75 mL bottle NDC 0143-9981-01..................
+100 mL bottle
 
-Each 5 mL of reconstituted amoxicillin and clavulanate potassium 400 mg/57 mg per 5 mL suspension contains 0.286 mEq of potassium.
+Amoxicillin and Clavulanate Potassium for Oral Suspension USP, 400 mg/57 mg per 5 mL: The dry powder is white to off white with fruity flavor.
+Each 5 ml of reconstituted creamy suspension contains 400 mg amoxicillin and 57 mg clavulanic acid as the potassium salt.
 
-Each 5 mL of reconstituted amoxicillin and clavulanate potassium 200 mg/28.5 mg per 5 mL suspension contains 0.143 mEq of potassium.
+NDC 0143-9982-50..................
+50 mL bottle NDC 0143-9982-75..................
+75 mL bottle NDC 0143-9982-01..................
+100 mL bottle
+
+Dispense in original container.
+
+Store dry powder at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+Store reconstituted suspension under refrigeration.
+Discard unused suspension after 10 days.
+Keep out of the reach of children.
+
+# 17 PATIENT COUNSELING INFORMATION
+
+## 17.1 Information for Patients
+
+Patients should be informed that amoxicillin and clavulanate potassium suspension may be taken every 8 hours or every 12 hours, depending on the dose prescribed.
+Each dose should be taken with a meal or snack to reduce the possibility of gastrointestinal upset.
+
+Patients should be counseled that antibacterial drugs, including amoxicillin and clavulanate potassium suspension, should only be used to treat bacterial infections.
+They do not treat viral infections (e.g., the common cold).
+When amoxicillin and clavulanate potassium suspension is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by amoxicillin and clavulanate potassium suspension or other antibacterial drugs in the future.
+
+Counsel patients that diarrhea is a common problem caused by antibacterials, and it usually ends when the antibacterial is discontinued.
+Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken their last dose of the antibacterial.
+If diarrhea is severe or lasts more than 2 or 3 days, patients should contact their physician.
+
+Patients should be advised to keep suspension refrigerated.
+Shake well before using.
+When dosing a child with the suspension (liquid) of amoxicillin and clavulanate potassium suspension, use a dosing spoon or medicine dropper.
+Be sure to rinse the spoon or dropper after each use.
+Bottles of suspension of amoxicillin and clavulanate potassium suspension may contain more liquid than required.
+Follow your doctor’s instructions about the amount to use and the days of treatment your child requires.
+Discard any unused medicine.
+
+Patients should be aware that amoxicillin and clavulanate potassium suspension contains a penicillin class drug product that can cause allergic reactions in some individuals.
+
+CLINITEST® is a registered trademark of Miles, Inc.
+
+Distributed by: West-Ward Pharmaceutical Corp. Eatontown, NJ 07724 USA
+
+Manufactured by: HIKMA Pharmaceuticals P.O.
+Box 182400 Amman 11118 - Jordan
+
+Revised April 2013

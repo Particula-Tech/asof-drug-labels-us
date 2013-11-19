@@ -1,82 +1,71 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Dosage:
+Amoxicillin and clavulanate potassium suspension may be taken without regard to meals; however, absorption of clavulanate potassium is enhanced when amoxicillin and clavulanate potassium suspension is administered at the start of a meal.
+To minimize the potential for gastrointestinal intolerance, amoxicillin and clavulanate potassium suspension should be taken at the start of a meal.
 
-### Pediatric Patients:
+## 2.1 Adults
+
+The usual adult dose is one 500-mg tablet of amoxicillin and clavulanate potassium every 12 hours or one 250-mg tablet of amoxicillin and clavulanate potassium every 8 hours.
+For more severe infections and infections of the respiratory tract, the dose should be one 875-mg tablet of amoxicillin and clavulanate potassium every 12 hours or one 500-mg tablet of amoxicillin and clavulanate potassium every 8 hours.
+Adults who have difficulty swallowing may be given the 125 mg/5 mL or 250 mg/5 mL suspension in place of the 500-mg tablet.
+The 200 mg/5 mL suspension or the 400 mg/5 mL suspension may be used in place of the 875-mg tablet.
+
+Two 250-mg tablets of amoxicillin and clavulanate potassium should not be substituted for one 500-mg tablet of amoxicillin and clavulanate potassium.
+Since both the 250-mg and 500-mg tablets of amoxicillin and clavulanate potassium contain the same amount of clavulanic acid (125 mg, as the potassium salt), two 250-mg tablets are not equivalent to one 500-mg tablet of amoxicillin and clavulanate potassium.
+
+The 250-mg tablet of amoxicillin and clavulanate potassium and the 250-mg chewable tablet should not be substituted for each other, as they are not interchangeable.
+The 250-mg tablet of amoxicillin and clavulanate potassium and the 250-mg chewable tablet do not contain the same amount of clavulanic acid (as the potassium salt).
+The 250-mg tablet of amoxicillin and clavulanate potassium contains 125 mg of clavulanic acid, whereas the 250-mg chewable tablet contains 62.5 mg of clavulanic acid.
+
+## 2.2 Pediatric Patients
 
 Based on the amoxicillin component, amoxicillin and clavulanate potassium suspension should be dosed as follows:
 
-#### Neonates and infants aged < 12 weeks (3 months):
+Neonates and Infants Aged <12 weeks (<3 months): The recommended dose of amoxicillin and clavulanate potassium suspension 30 mg/kg/day divided every 12 hours, based on the amoxicillin component.
+Experience with the 200 mg/5 mL formulation in this age group is limited, and thus, use of the 125 mg/5 mL oral suspension is recommended.
 
-Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended dose of amoxicillin and clavulanate potassium suspension is 30 mg/kg/day divided q12h, based on the amoxicillin component.
-Clavulanate elimination is unaltered in this age group.
-Experience with the 200 mg/28.5 mg per 5 mL formulation in this age group is limited and, thus, use of the 125 mg/31.25 mg per 5 mL oral suspension is recommended.
+Patients Aged 12 weeks (3 months) and Older: See dosing regimens provided in Table 1.
+The every 12 hours regimen is recommended as it is associated with significantly less diarrhea [see Clinical Studies (14.2)].
+However, the every 12 hours suspension (200 mg/5 mL and 400 mg/5 mL) and chewable tablets (200 mg and 400 mg) contain aspartame and should not be used by phenylketonurics.
+[see Warnings and Precautions (5.6)]
 
-#### Patients aged 12 weeks (3 months) and older
+Table 1: Dosing in Patients Aged 12 weeks (3 months) and Older
 
-| INFECTIONS | DOSING REGIMEN |  |
+| INFECTION | DOSING REGIMEN |  |
 | --- | --- | --- |
-| q12hII II | q8h |  |
-|  | 200 mg/28.5 mg per 5 mL or 400 mg/57 mg per 5 mL oral suspension | 125 mg/31.25 mg per 5 mL or 250 mg/62.5 mg per 5 mL oral suspension |
-| Otitis media*** sinusitis, lower respiratory tract infections, and more severe infections | 45 mg/kg/day q12h | 40 mg/kg/day q8h |
-| Less severe infections | 25 mg/kg/day q12h | 20 mg/kg/day q8h |
+|  | Every 12 hours | Every 8 hours |
+|  | 200 mg/5 mL or 400 mg/5 mL oral suspensiona | 125 mg/5 mL or 250 mg/5 mL oral suspensiona |
+| Otitis mediab, sinusitis, lower respiratory tract infections, and more severe infections | 45 mg/kg/day every 12 hours | 40 mg/kg/day every 8 hours |
+| Less severe infections | 25 mg/kg/day every 12 hours | 20 mg/kg/day every 8 hours |
 
-װ װ The q12h regimen is recommended as it is associated with significantly less diarrhea.
-(See CLINICAL STUDIES .)
-However, the q12 h formulations (200 mg/28.5 mg per 5 mL and 400 mg/57 mg per 5 mL) contain aspartame and should not be used by phenylketonurics. ***Duration of therapy studied and recommended for acute otitis media is 10 days.
+a Each strength of suspension of amoxicillin and clavulanate potassium is available as a chewable tablet for use by older children. b Duration of therapy studied and recommended for acute otitis media is 10 days.
 
-#### Pediatric patients weighing 40 kg and more:
+Patients Weighing 40 kg or More: Pediatric patients weighing 40 kg or more should be dosed according to adult recommendations.
 
-Should be dosed according to the following adult recommendations: The usual adult dose is one amoxicillin and clavulanate potassium tablet 500-mg/125 mg every 12 hours or one amoxicillin and clavulanate potassium tablet 250-mg/125 mg every 8 hours.
-For more severe infections and infections of the respiratory tract, the dose should be one amoxicillin and clavulanate potassium tablet 875-mg/125 mg every 12 hours or one amoxicillin and clavulanate potassium tablet 500-mg/125 mg every 8 hours.
-Among adults treated with 875 mg/125 mg every 12 hours, significantly fewer experienced severe diarrhea or withdrawals with diarrhea versus adults treated with 500 mg/125 mg every 8 hours.
-For detailed adult dosage recommendations, please see complete prescribing information for tablets of amoxicillin and clavulanate potassium.
+The 250-mg tablet of amoxicillin and clavulanate potassium should not be used until the child weighs at least 40 kg, due to the different amoxicillin to clavulanic acid ratios in the 250-mg tablet of amoxicillin and clavulanate potassium (250/125) versus the 250-mg chewable tablet of amoxicillin and clavulanate potassium (250/62.5).
 
-Hepatically impaired patients should be dosed with caution and hepatic function monitored at regular intervals.
-(See WARNINGS.)
+## 2.3 Patients with Renal Impairment
 
-### Adults:
+Patients with impaired renal function do not generally require a reduction in dose unless the impairment is severe.
+Renal impairment patients with a glomerular filtration rate of <30 mL/min should not receive the 875-mg dose.
+Patients with a glomerular filtration rate of 10 to 30 mL/min should receive 500 mg or 250 mg every 12 hours, depending on the severity of the infection.
+Patients with a glomerular filtration rate less than 10 mL/min should receive 500 mg or 250 mg every 24 hours, depending on severity of the infection.
 
-Adults who have difficulty swallowing may be given the 125 mg/31.25 mg per 5 mL or 250 mg/62.5 mg per 5 mL suspension in place of the 500-mg/125 mg tablet.
-The 200 mg/28.5 mg per 5 mL suspension or the 400 mg/57 mg per 5 mL suspension may be used in place of the 875-mg/125 mg tablet.
-See dosage recommendations above for children weighing 40 kg or more.
+Hemodialysis patients should receive 500 mg or 250 mg every 24 hours, depending on severity of the infection.
+They should receive an additional dose both during and at the end of dialysis.
 
-The 250-mg/125 mg tablet of amoxicillin and clavulanate potassium and the 250-mg/62.5 mg chewable tablet do not contain the same amount of clavulanic acid (as the potassium salt).
-The 250-mg/125 mg tablet of amoxicillin and clavulanate potassium contains 125 mg of clavulanic acid, whereas the 250-mg/62.5 mg chewable tablet contains 62.5 mg of clavulanic acid.
-Therefore, the 250-mg/125 mg tablet of amoxicillin and clavulanate potassium and the 250-mg/62.5 mg chewable tablet should not be substituted for each other, as they are not interchangeable.
-
-Due to the different amoxicillin to clavulanic acid ratios in the 250-mg tablet of amoxicillin and clavulanate potassium (250/125) versus the 250-mg chewable tablet of amoxicillin and clavulanate potassium (250/62.5), the 250-mg tablet of amoxicillin and clavulanate potassium should not be used until the child weighs at least 40 kg and more.
-
-## Directions for Mixing Oral Suspension
+## 2.4 Directions for Mixing Oral Suspension
 
 Prepare a suspension at time of dispensing as follows: Tap bottle until all the powder flows freely.
-Add approximately 2/3 of the total amount of water for reconstitution (see table below) and shake vigorously to suspend powder.
+Add approximately 2/3 of the total amount of water for reconstitution (see Table 2 below) and shake vigorously to suspend powder.
 Add remainder of the water and again shake vigorously.
-Amoxicillin and clavulanate Potassium 200 mg/28.5 mg per 5 mL Suspension
 
-| Bottle Size | Amount of Water Required for Suspension |
-| --- | --- |
-| 50 mL | 48 mL |
-| 75 mL | 71 mL |
-| 100 mL | 95 mL |
+Table 2: Amount of Water for Mixing Oral Suspension
 
-Each teaspoonful (5 mL) will contain 200 mg amoxicillin as the trihydrate and 28.5 mg of clavulanic acid as the potassium salt.
+| Strength | Bottle Size | Amount of Water for Reconstitution | Contents of Each Teaspoonful (5 mL) |
+| --- | --- | --- | --- |
+| 200 mg/5 mL | 50 mL 75 mL 100 mL | 48 mL 71 mL 95 mL | 200 mg amoxicillin and 28.5 mg of clavulanic acid as the potassium salt |
+| 400 mg/5 mL | 50 mL 75 mL 100 mL | 45 mL 68 mL 90 mL | 400 mg amoxicillin and 57.0 mg of clavulanic acid as the potassium salt |
 
-Amoxicillin and clavulanate Potassium 400 mg/57 mg per 5 mL Suspension
-
-| Bottle Size | Amount of Water Required for Suspension |
-| --- | --- |
-| 50 mL | 45 mL |
-| 75 mL | 68 mL |
-| 100 mL | 90 mL |
-
-Each teaspoonful (5 mL) will contain 400 mg amoxicillin as the trihydrate and 57 mg of clavulanic acid as the potassium salt.
-
-Note: SHAKE ORAL SUSPENSION WELL BEFORE USING.
-
+Note: Shake oral suspension well before using.
 Reconstituted suspension must be stored under refrigeration and discarded after 10 days.
-
-### Administration:
-
-Amoxicillin and clavulanate potassium for oral suspension, USP, 200 mg/28.5 mg per 5 mL or 400 mg/57 mg per 5 mL may be taken without regard to meals; however, absorption of clavulanate potassium is enhanced when amoxicillin and clavulanate potassium for oral suspension, USP, 200 mg/28.5 mg per 5 mL or 400 mg/57 mg per 5 mL is administered at the start of a meal.
-To minimize the potential for gastrointestinal intolerance, amoxicillin and clavulanate potassium for oral suspension, USP, 200 mg/28.5 mg per 5 mL or 400 mg/57 mg per 5 mL should be taken at the start of a meal.

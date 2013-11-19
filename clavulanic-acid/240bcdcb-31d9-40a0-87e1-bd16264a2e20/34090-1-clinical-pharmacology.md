@@ -1,178 +1,153 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Amoxicillin and clavulanate potassium are well absorbed from the gastrointestinal tract after oral administration of Amoxicillin and clavulanate potassium for oral suspension, USP.
-Dosing in the fasted or fed state has minimal effect on the pharmacokinetics of amoxicillin.
-While amoxicillin and clavulanate potassium for oral suspension, USP can be given without regard to meals, absorption of clavulanate potassium when taken with food is greater relative to the fasted state.
-In 1 study, the relative bioavailability of clavulanate was reduced when amoxicillin and clavulanate potassium for oral suspension, USP was dosed at 30 and 150 minutes after the start of a high–fat breakfast.
-The safety and efficacy of amoxicillin and clavulanate potassium for oral suspension, USP have been established in clinical trials where amoxicillin and clavulanate potassium for oral suspension, USP was taken without regard to meals.
-Oral administration of single doses of 400-mg chewable tablets and 400 mg/57 mg per 5 mL suspension to 28 adult volunteers yielded comparable pharmacokinetic data:
+## 12.1 Mechanism of Action
 
-| Dose† | AUC0-∞ (mcg•hr/mL) |  | Cmax (mcg/mL)‡ |  |
+Amoxicillin and clavulanate potassium for oral suspension is an antibacterial drug.
+[see Microbiology 12.4]
+
+## 12.3 Pharmacokinetics
+
+Mean amoxicillin and clavulanate potassium pharmacokinetic parameters in normal adults following administration of amoxicillin and clavulanate potassium tablets are shown in Table 3 and following administration of amoxicillin and clavulanate potassium powder for oral suspension and chewable tablets are shown in Table 4.
+
+Table 3: Mean (±S.D.)
+Amoxicillin and Clavulanate Potassium Pharmacokinetic Parametersa,b with Amoxicillin and Clavulanate Potassium Tablets
+
+| Dose and Regimen | Cmax (mcg/mL) |  | AUC0-24 (mcg*h/mL) |  |
 | --- | --- | --- | --- | --- |
-| (amoxicillin /clavulanate potassium) | amoxicillin (±S.D.) | clavulanate potassium (± S.D.) | amoxicillin (±S.D.) | clavulanate potassium (± S.D.) |
-| 400 mg/57 mg (5 mL of suspension) | 17.29 ± 2.28 | 2.34 ± 0.94 | 6.94 ± 1.24 | 1.10 ± 0.42 |
-| 400 mg/57 mg (1 chewable tablet) | 17.24 ± 2.64 | 2.17 ± 0.73 | 6.67 ± 1.37 | 1.03 ± 0.33 |
+| Amoxicillin/Clavulanate potassium | Amoxicillin | Clavulanate potassium | Amoxicillin | Clavulanate potassium |
+| 250/125 mg every 8 hours | 3.3 ± 1.12 | 1.5 ± 0.70 | 26.7 ± 4.56 | 12.6 ± 3.25 |
+| 500/125 mg every 12 hours | 6.5 ± 1.41 | 1.8 ± 0.61 | 33.4 ± 6.76 | 8.6 ± 1.95 |
+| 500 125 mg every 8 hours | 7.2 ± 2.26 | 2.4 ± 0.83 | 53.4 ± 8.87 | 15.7 ± 3.86 |
+| 875/125 mg every 12 hours | 11.6 ± 2.78 | 2.2 ± 0.99 | 53.5 ± 12.31 | 10.2 ± 3.04 |
 
-† Administered at the start of a light meal. ‡ Mean values of 28 normal volunteers.
-Peak concentrations occurred approximately 1 hour after the dose.
-Oral administration of 5 mL of amoxicillin and clavulanate potassium 250 mg/62.5 mg per 5 mL oral suspension or the equivalent dose of 10 mL amoxicillin and clavulanate potassium 125 mg/31.25 mg per 5 mL oral suspension provides average peak serum concentrations approximately 1 hour after dosing of 6.9 mcg/mL for amoxicillin and 1.6 mcg/mL for clavulanic acid.
-The areas under the serum concentration curves obtained during the first 4 hours after dosing were 12.6 mcg.hr/mL for amoxicillin and 2.9 mcg.hr/mL for clavulanic acid when 5 mL of amoxicillin and clavulanate potassium 250 mg/ 62.5 mg per 5 mL oral suspension or equivalent dose of 10 mL of amoxicillin and clavulanate potassium 125 mg/31.25 mg per 5 mL oral suspension was administered to adult volunteers.
-One amoxicillin and clavulanate potassium 250 mg/62.5 mg chewable tablet or two amoxicillin and clavulanate potassium 125 mg/31.25 mg chewable tablets are equivalent to 5 mL amoxicillin and clavulanate potassium 250 mg/62.5 mg per 5 mL suspension and provide similar serum levels of amoxicillin and clavulanic acid.
+a Mean (± standard deviation) values of 14 normal adults (N=15 for clavulanate potassium in the low-dose regimens).
+Peak concentrations occurred approximately 1.5 hours after the dose.
 
-Amoxicillin serum concentrations achieved with amoxicillin and clavulanate potassium for oral suspension are similar to those produced by the oral administration of equivalent doses of amoxicillin alone.
-The half-life of amoxicillin after the oral administration of amoxicillin and clavulanate potassium for oral suspension is 1.3 hours and that of clavulanic acid is 1.0 hour.
-Time above the minimum inhibitory concentration of 1.0 mcg/mL for amoxicillin has been shown to be similar after corresponding q12h and q8h dosing regimens of amoxicillin and clavulanate potassium for oral suspension in adults and children.
+b Amoxicillin/clavulanate potassium administered at the start of a light meal.
 
-Approximately 50% to 70% of the amoxicillin and approximately 25% to 40% of the clavulanic acid are excreted unchanged in urine during the first 6 hours after administration of 10 mL of amoxicillin and clavulanate potassium 250 mg/62.5 mg per 5 mL oral suspension.
+Table 4: Mean (±S.D.)
+Amoxicillin and Clavulanate Potassium Pharmacokinetic Parametersa,b with Amoxicillin and Clavulanate Potassium Powder for Oral Suspension and Chewable Tablets
 
-Concurrent administration of probenecid delays amoxicillin excretion but does not delay renal excretion of clavulanic acid.
+| Dose | Cmax (mcg/mL) |  | AUC0-24 (mcg*h/mL) |  |
+| --- | --- | --- | --- | --- |
+| Amoxicillin/Clavulanate potassium | Amoxicillin | Clavulanate potassium | Amoxicillin | Clavulanate potassium |
+| 400/57 mg (5 mL of suspension) | 6.94 ± 1.24 | 1.10 ± 0.42 | 17.29 ± 2.28 | 2.34 ± 0.94 |
+| 400/57 mg (1 chewable tablet) | 6.67 ± 1.37 | 1.03 ± 0.33 | 17.24 ± 2.64 | 2.17 ± 0.73 |
 
-Neither component in amoxicillin and clavulanate potassium for oral suspension is highly protein-bound; clavulanic acid has been found to be approximately 25% bound to human serum and amoxicillin approximately 18% bound.
+a Mean (± standard deviation) values of 28 normal adults.
+Peak concentrations occurred approximately 1 hour after the dose. b Amoxicillin/clavulanate potassium administered at the start of a light meal.
+
+Oral administration of 5 mL of 250 mg/62.5 mg per 5 mL suspension of amoxicillin and clavulanate potassium or the equivalent dose of 10 mL of 125 mg/31.25 mg per 5 mL suspension of amoxicillin and clavulanate potassium provides average peak serum concentrations approximately 1 hour after dosing of 6.9 mcg/mL for amoxicillin and 1.6 mcg/mL for clavulanic acid.
+The areas under the serum concentration curves obtained during the first 4 hours after dosing were 12.6 mcg*h/mL for amoxicillin and 2.9 mcg*h/mL for clavulanic acid when 5 mL of 250 mg/62.5 mg per 5 mL suspension of amoxicillin and clavulanate potassium or equivalent dose of 10 mL of 125 mg/31.25 mg per 5 mL suspension of amoxicillin and clavulanate potassium were administered to normal adults.
+One 250 mg/62.5 mg chewable tablet of amoxicillin and clavulanate potassium or two 125 mg/31.25 mg chewable tablets of amoxicillin and clavulanate potassium are equivalent to 5 mL of 250 mg/ 62.5 mg per 5 mL suspension of amoxicillin and clavulanate potassium and provide similar serum concentrations of amoxicillin and clavulanic acid.
+
+Amoxicillin serum concentrations achieved with amoxicillin and clavulanate potassium suspension are similar to those produced by the oral administration of equivalent doses of amoxicillin alone.
+Time above the minimum inhibitory concentration of 1 mcg/mL for amoxicillin has been shown to be similar after corresponding every 12 hour and every 8 hour dosing regimens of amoxicillin and clavulanate potassium suspension in adults and children.
+
+Absorption: Dosing in the fasted or fed state has minimal effect on the pharmacokinetics of amoxicillin.
+While amoxicillin and clavulanate potassium suspension can be given without regard to meals, absorption of clavulanate potassium when taken with food is greater relative to the fasted state.
+In one study, the relative bioavailability of clavulanate was reduced when amoxicillin and clavulanate potassium suspension was dosed at 30 and 150 minutes after the start of a high-fat breakfast.
+
+Distribution: Neither component in amoxicillin and clavulanate potassium suspension is highly protein-bound; clavulanic acid is approximately 25% bound to human serum and amoxicillin approximately 18% bound.
 
 Amoxicillin diffuses readily into most body tissues and fluids with the exception of the brain and spinal fluid.
-The results of experiments involving the administration of clavulanic acid to animals suggest that this compound, like amoxicillin, is well distributed in body tissues.
 
 Two hours after oral administration of a single 35 mg/kg dose of suspension of amoxicillin and clavulanate potassium to fasting children, average concentrations of 3 mcg/mL of amoxicillin and 0.5 mcg/mL of clavulanic acid were detected in middle ear effusions.
 
-## Microbiology:
+Metabolism and Excretion: The half-life of amoxicillin after the oral administration of amoxicillin and clavulanate potassium suspension is 1.3 hours and that of clavulanic acid is 1 hour.
 
-Amoxicillin is a semisynthetic antibiotic with a broad spectrum of bactericidal activity against many gram-positive and gram-negative microorganisms.
-Amoxicillin is, however, susceptible to degradation by β-lactamases, and therefore, the spectrum of activity does not include organisms which produce these enzymes.
-Clavulanic acid is a β-lactam, structurally related to the penicillins, which possesses the ability to inactivate a wide range of β-lactamase enzymes commonly found in microorganisms resistant to penicillins and cephalosporins.
-In particular, it has good activity against the clinically important plasmid–mediated β-lactamases frequently responsible for transferred drug resistance.
-The formulation of amoxicillin and clavulanic acid in amoxicillin and clavulanate potassium for oral suspension protects amoxicillin from degradation by β-lactamase enzymes and effectively extends the antibiotic spectrum of amoxicillin to include many bacteria normally resistant to amoxicillin and other β-lactam antibiotics.
-Thus, amoxicillin and clavulanate potassium for oral suspension possesses the distinctive properties of a broad-spectrum antibiotic and a β-lactamase inhibitor.
+Approximately 50% to 70% of the amoxicillin and approximately 25% to 40% of the clavulanic acid are excreted unchanged in urine during the first 6 hours after administration of a single 250-mg or
 
-Amoxicillin/clavulanic acid has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in INDICATIONS AND USAGE.
+500-mg tablet of amoxicillin and clavulanate potassium.
 
-### Gram-Positive Aerobes
+## 12.4 Microbiology
 
-Staphylococcus aureus (β-lactamase and non-β-lactamase-producing)§ §Staphylococci which are resistant to methicillin/oxacillin must be considered resistant to amoxicillin/clavulanic acid.
+Amoxicillin is a semisynthetic antibiotic with in vitro bactericidal activity against Gram-positive and Gram-negative bacteria.
+Amoxicillin is, however, susceptible to degradation by beta-lactamases, and therefore, the spectrum of activity does not include organisms which produce these enzymes.
+Clavulanic acid is a beta-lactam, structurally related to the penicillins, which possesses the ability to inactivate some beta-lactamase enzymes commonly found in microorganisms resistant to penicillins and cephalosporins.
+In particular, it has good activity against the clinically important plasmid-mediated beta-lactamases frequently responsible for transferred drug resistance.
 
-### Gram-Negative Aerobes
+The formulation of amoxicillin and clavulanic acid in amoxicillin and clavulanate potassium for oral suspension protects amoxicillin from degradation by some beta-lactamase enzymes and extends the antibiotic spectrum of amoxicillin to include many bacteria normally resistant to amoxicillin.
 
-Enterobacter species (Although most strains of Enterobacter species are resistantin vitro, clinical efficacy has been demonstrated with amoxicillin and clavulanate potassium for oral suspension in urinary tract infections caused by these organisms.)
-Escherichia coli (β-lactamase and non-β-lactamase-producing) Haemophilus influenzae (β-lactamase and non-β-lactamase-producing) Klebsiella species (All known strains are β-lactamase-producing.)
-Moraxella catarrhalis (β-lactamase and non-β-lactamase-producing) The following in vitro data are available, but their clinical significance is unknown.
-Amoxicillin/clavulanic acid exhibits in vitro minimal inhibitory concentrations (MICs) of 2 mcg/mL or less against most (≥90%) strains of Streptococcus pneumoniaeΙІ; MICs of 0.06 mcg/mL or less against most (≥ 90%) strains of Neisseria gonorrhoeae; MICs of 4 mcg/mL or less against most (≥90%) strains of staphylococci and anaerobic bacteria; and MICs of 8 mcg/mL or less against most (≥90%) strains of other listed organisms.
-However, with the exception of organisms shown to respond to amoxicillin alone, the safety and effectiveness of amoxicillin/clavulanic acid in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials. ΙΙ Because amoxicillin has greater in vitro activity against S. pneumoniae than does ampicillin or penicillin, the majority of S. pneumoniae strains with intermediate susceptibility to ampicillin or penicillin are fully susceptible to amoxicillin.
+Amoxicillin/clavulanic acid has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-### Gram-Positive Aerobes
+Gram-positive bacteria
 
-Enterococcus faecalis¶
+Staphylococcus aureus
 
-Staphylococcus epidermidis (β-lactamase and non-β-lactamase-producing)
+Gram-negative bacteria
 
-Staphylococcus saprophyticus (β-lactamase and non-β-lactamase-producing)
+Enterobacter species
 
-Streptococcus pneumoniae¶**
+Escherichia coli
 
-Streptococcus pyogenes¶**
+Haemophilus influenzae
 
-viridans group Streptococcus¶**
+Klebsiella species
 
-### Gram-Negative Aerobes
+Moraxella catarrhalis
 
-Eikenella corrodens (β-lactamase and non-β-lactamase-producing) Neisseria gonorrhoeae¶ (β-lactamase and non-β-lactamase-producing) Proteus mirabilis¶ (β-lactamase and non-β-lactamase-producing)
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for amoxicillin/clavulanic acid.
+However, the efficacy of amoxicillin/clavulanic acid in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
-### Anaerobic Bacteria
+Gram-positive bacteria
 
-Bacteroides species, including Bacteroides fragilis (β-lactamase and non-β-lactamase-producing) Fusobacterium species (β-lactamase and non-β-lactamase-producing) Peptostreptococcus species**
+Enterococcus faecalis Staphylococcus epidermidis Staphylococcus saprophyticus Streptococcus pneumoniae Streptococcus pyogenes Viridans group Streptococcus
 
-### Susceptibility Testing:
+Gram-negative Bacteria
 
-#### Dilution techniques:
+Eikenella corrodens
 
-Quantitative methods are used to determine antimicrobial MICs.
+Proteus mirabilis
+
+Anaerobic Bacteria
+
+Bacteroides species including Bacteroides fragilis
+
+Fusobacterium species
+
+Peptostreptococcus species
+
+Susceptibility Test Methods
+
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
+
+Dilution techniques:
+
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of amoxicillin/clavulanate potassium powder.
-The recommended dilution pattern utilizes a constant amoxicillin/clavulanate potassium ratio of 2 to 1 in all tubes with varying amounts of amoxicillin.
-MICs are expressed in terms of the amoxicillin concentration in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
-The MIC values should be interpreted according to the following criteria:
+The MICs should be determined using a standardized test method2, 3 (broth and/or agar).
+The MIC values should be interpreted according to criteria provided in Table 5.
 
-### RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
+Diffusion techniques:
 
-#### For Gram-Negative Enteric Aerobes:
+Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be determined using a standardized test method3,4.
+This procedure uses paper disks impregnated with 30 mcg amoxicillin/clavulanic acid (20 mcg amoxicillin plus 10 mcg clavulanic acid) to test the susceptibility of bacteria to amoxicillin/clavulanic acid.
+The disc diffusion interpretive criteria are provided in Table 5.
 
-| MIC (mng/mL) | Interpretation |
-| --- | --- |
-| ≤ 8/4 | Susceptible (S) |
-| 16/8 | Intermediate (I) |
-| ≥ 32/16 | Resistant (R) |
+Table 5: Susceptibility Test Interpretive Criteria for Amoxicillin Clavulanic Acid
 
-#### For Staphylococcus†† and Haemophilus Species:
+| Minimum Inhibitory Concentrations (mcg/mL) |  | Disk Diffusion (zone diameters in mm) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pathogen | S | I | R | S | I | R |
+| Enterobacteriaceae | 8/4 | 16/8 | 32/16 | ≥18 | 14-17 | ≤13 |
+| Haemophilus influenzae and Staphylococcus aureus | 4/2 | -- | 8/4 | ≥20 | -- | ≤19 |
 
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤ 4/2 | Susceptible (S) |
-| ≥ 8/4 | Resistant (R) |
+Quality Control:
 
-†† Staphylococci which are susceptible to amoxicillin/clavulanic acid but resistant to methicillin/oxacillin must be considered as resistant.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test2,3,4.
+Standard amoxicillin/clavulanic acid powder should provide the following range of MIC values noted in Table 6 for the diffusion technique using the 30 mcg amoxicillin/clavulanic acid (20 mcg amoxicillin plus 10 mcg clavulanic acid) disk, the criteria in Table 6 should be achieved.
 
-#### For S. pneumoniae from non-meningitis sources:
+Table 6: Acceptable Quality Control Ranges for Amoxicillin/Clavulanic Acid
 
-Isolates should be tested using amoxicillin/clavulanic acid and the following criteria should be used:
-
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤ 2/1 | Susceptible (S) |
-| 4/2 | Intermediate (I) |
-| ≥ 8/4 | Resistant (R) |
-
-Note: These interpretive criteria are based on the recommended doses for respiratory tract infections.
-
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard amoxicillin/clavulanate potassium powder should provide the following MIC values:
-
-| Microorganism | MIC Range (mcg/mL)‡‡ |
-| --- | --- |
-| E. coli ATCC 25922 | 2 to 8 |
-| E. coli ATCC 35218 | 4 to 16 |
-| E. faecalis ATCC 29212 | 0.25 to 1.0 |
-| H. influenzae ATCC 49247 | 2 to 16 |
-| S. aureus ATCC 29213 | 0.12 to 0.5 |
-| S. pneumoniae ATCC 49619 | 0.03 to 0.12 |
-| ‡‡ Expressed as concentration of amoxicillin in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid. |  |
-
-### Diffusion Techniques:
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 30 mcg of amoxicillin/clavulanate potassium (20 mcg amoxicillin plus 10 mcg clavulanate potassium) to test the susceptibility of microorganisms to amoxicillin/clavulanic acid.
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg amoxicillin/clavulanate potassium (20 mcg amoxicillin plus 10 mcg clavulanate potassium) disk should be interpreted according to the following criteria:
-
-### RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
-
-#### For Staphylococcus§§ Species and H. influenzaea:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 20 | Susceptible (S) |
-| ≤ 19 | Resistant (R) |
-
-#### For other organisms except S. pneumoniaeb and N. gonorrhoeaec:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 18 | Susceptible (S) |
-| 14 to 17 | Intermediate (I) |
-| ≤ 13 | Resistant (R) |
-| §§ Staphylococci which are resistant to methicillin/oxacillin must be considered as resistant to amoxicillin/clavulanic acid. a A broth microdilution method should be used for testing H. influenzae. Beta-lactamase- negative, ampicillin-resistant strains must be considered resistant to amoxicillin/clavulanic acid. b Susceptibility of S. pneumoniae should be determined using a 1 mcg oxacillin disk. Isolates with oxacillin zone sizes of ≥20 mm are susceptible to amoxicillin/clavulanic acid. An amoxicillin/clavulanic acid MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤19 mm. c A broth microdilution method should be used for testing N. gonorrhoeae and interpreted according to penicillin breakpoints. |  |
-
-Interpretation should be as stated above for results using dilution techniques.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC for amoxicillin/clavulanic acid.
-As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 30 mcg amoxicillin/clavulanate potassium (20 mcg amoxicillin plus 10 mcg clavulanate potassium) disk should provide the following zone diameters in these laboratory quality control strains:
-
-| Microrganism | Zone Diameter(mm) |
-| --- | --- |
-| E. coli ATCC 25922 | 19 to 25 mm |
-| E. coli ATCC 35218 | 18 to 22 mm |
-| S. aureus ATCC 25923 | 28 to 36 mm |
+| QC Strain | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (zone diameter in mm) |
+| --- | --- | --- |
+| Escherichia coli ATCC 25922 | 2/1 to 8/4 | 18 to 24 |
+| Escherichia coli ATCC 35218 | 4/2 to 16/8 | 17 to 22 |
+| Haemophilus influenzae ATCC 49247 | 2/1 to 16/8 | 15 to 23 |
+| Staphylococcus aureus ATCC 29213 | 0.12/0.06 to 0.5/0.25 | - |
+| Staphylococcus aureus ATCC 29523 | - | 28 to 36 |
