@@ -73,4 +73,4 @@ Interruption of bisphosphonate therapy should be considered, pending a risk/bene
 
 ## 5.6 Renal Impairment
 
-FOSAMAX PLUS D is not recommended for patients with renal impairment (creatinine clearance less than 35 mL/min).
+FOSAMAX PLUS D is not recommended for patients with creatinine clearance less than 35 mL/min.

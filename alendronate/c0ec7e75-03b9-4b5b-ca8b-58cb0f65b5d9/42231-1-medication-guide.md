@@ -19,7 +19,7 @@ FOSAMAX PLUS D can cause serious side effects including:
    Some people who take FOSAMAX PLUS D may develop problems in the esophagus (the tube that connects the mouth and the stomach).
    These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
    - It is important that you take FOSAMAX PLUS D exactly as prescribed to help lower your chance of getting esophagus problems.
-     (See the section "How should I take FOSAMAX PLUS D?")
+     (See the section "How should I take FOSAMAX PLUS D tablet?")
    - Stop taking FOSAMAX PLUS D and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
 2. Low calcium levels in your blood (hypocalcemia).
    FOSAMAX PLUS D may lower the calcium levels in your blood.
@@ -48,7 +48,7 @@ FOSAMAX PLUS D is a prescription medicine used to:
 
 FOSAMAX PLUS D should not be used to treat vitamin D deficiency.
 
-It is not known how long FOSAMAX PLUS D works for the treatment and prevention of osteoporosis.
+It is not known how long FOSAMAX PLUS D works for the treatment of osteoporosis.
 You should see your doctor regularly to determine if FOSAMAX PLUS D is still right for you.
 
 FOSAMAX PLUS D is not for use in children.

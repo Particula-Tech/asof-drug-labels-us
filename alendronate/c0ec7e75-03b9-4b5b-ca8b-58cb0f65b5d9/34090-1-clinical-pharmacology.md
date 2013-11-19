@@ -71,7 +71,7 @@ In the 15-week trial mentioned above, baseline 25-hydroxyvitamin D levels were 2
 After 15 weeks of treatment, the mean levels were 23.1 ng/mL and 18.4 ng/mL in the FOSAMAX PLUS D and FOSAMAX only groups, respectively.
 The final levels of 25-hydroxyvitamin D at Week 15 are summarized in Table 4.
 
-Table 4: 25-hydroxyvitamin D Levels after Treatment with FOSAMAX PLUS D (70 mg/2800 international units) or FOSAMAX 70 mg at Week 15Patients who were vitamin D deficient (25-hydroxyvitamin D <9 ng/mL) at baseline were excluded.
+Table 4: 25-hydroxyvitamin D Levels after Treatment with FOSAMAX PLUS D (70 mg/2800 international units) or FOSAMAX 70 mg at Week 15Patients who were vitamin D deficient (25-hydroxyvitamin D less than 9 ng/mL) at baseline were excluded.
 
 |  | Number (%) of Patients |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -164,9 +164,7 @@ When radioactive vitamin D3 was intravenously administered to healthy subjects, 
 In both cases, the excreted radioactivity was almost exclusively as metabolites of the parent.
 The mean half-life of baseline adjusted vitamin D3 in the serum following an oral dose of FOSAMAX PLUS D is approximately 14 hours.
 
-Special Populations
-
-Pediatric: The oral bioavailability of alendronate in children was similar to that observed in adults; however, FOSAMAX PLUS D is not indicated for use in children [see Use in Specific Populations (8.4)].
+Specific Populations
 
 Gender: Bioavailability and the fraction of an intravenous dose of alendronate excreted in urine were similar in men and women.
 
@@ -190,11 +188,11 @@ Alendronate Sodium
 Preclinical studies show that, in rats with kidney failure, increasing amounts of drug are present in plasma, kidney, spleen, and tibia.
 In healthy controls, drug that is not deposited in bone is rapidly excreted in the urine.
 No evidence of saturation of bone uptake was found after 3 weeks dosing with cumulative intravenous doses of 35 mg/kg in young male rats.
-Although no clinical information is available, it is likely that, as in animals, elimination of alendronate via the kidney will be reduced in patients with impaired renal function.
+Although no formal renal impairment pharmacokinetic study has been conducted in patients, it is likely that, as in animals, elimination of alendronate via the kidney will be reduced in patients with impaired renal function.
 Therefore, somewhat greater accumulation of alendronate in bone might be expected in patients with impaired renal function.
 
-No dosage adjustment is necessary for patients with mild-to-moderate renal insufficiency (creatinine clearance 35 to 60 mL/min).
-FOSAMAX PLUS D is not recommended for patients with more severe renal insufficiency (creatinine clearance less than 35 mL/min) due to lack of experience with alendronate in renal failure.
+No dosage adjustment is necessary for patients with creatinine clearance 35 to 60 mL/min.
+FOSAMAX PLUS D is not recommended for patients with creatinine clearance less than 35 mL/min due to lack of experience with alendronate in renal failure.
 
 Cholecalciferol
 
@@ -204,7 +202,7 @@ Hepatic Impairment:
 
 Alendronate Sodium
 
-As there is evidence that alendronate is not metabolized or excreted in the bile, no studies were conducted in patients with hepatic insufficiency.
+As there is evidence that alendronate is not metabolized or excreted in the bile, no studies were conducted in patients with hepatic impairment.
 No dosage adjustment is necessary.
 
 Cholecalciferol

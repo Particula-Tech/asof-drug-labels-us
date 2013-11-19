@@ -1,12 +1,14 @@
 # 1 INDICATIONS AND USAGE
 
-FOSAMAX® PLUS D is indicated for:
-
 ## 1.1 Treatment of Osteoporosis in Postmenopausal Women
 
-For the treatment of osteoporosis, FOSAMAX PLUS D increases bone mass and reduces the incidence of fractures, including those of the hip and spine (vertebral compression fractures).
+FOSAMAX® PLUS D is indicated for the treatment of osteoporosis in postmenopausal women.
+In postmenopausal women, FOSAMAX PLUS D increases bone mass and reduces the incidence of fractures, including those of the hip and spine (vertebral compression fractures).
+[See Clinical Studies (14.1).]
 
 ## 1.2 Treatment to Increase Bone Mass in Men with Osteoporosis
+
+FOSAMAX PLUS D is indicated for treatment to increase bone mass in men with osteoporosis [see Clinical Studies (14.2)].
 
 ## 1.3 Important Limitations of Use
 
