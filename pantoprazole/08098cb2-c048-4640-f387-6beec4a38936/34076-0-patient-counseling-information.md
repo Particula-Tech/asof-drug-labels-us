@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
+See FDA-Approved Medication Guide
 
 - Caution patients that PROTONIX For Delayed-Release Oral Suspension and PROTONIX Delayed-Release Tablets should not be split, crushed, or chewed.
 - PROTONIX oral suspension packet is a fixed dose and cannot be divided to make a smaller dose.
@@ -21,4 +21,4 @@ Nycomed GmbH
 
 D78467 Konstanz, Germany
 
-LAB-0459-5.0
+LAB-0459-6.0

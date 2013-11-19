@@ -42,7 +42,7 @@ For people who have a nasogastric (NG) tube or gastrostomy tube in place, PROTON
 - Do this again at least two more times using the same amount of apple juice (10 mL or 2 teaspoonfuls) each time.
   No granules should be left in the syringe.
 
-This Medication Guide has been approved by the U.S. food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
@@ -53,6 +53,6 @@ Nycomed GmbH
 
 D78467 Konstanz, Germany
 
-LAB-0574-3.0
+LAB-0574-4.0
 
-October 2012
+November 2013
