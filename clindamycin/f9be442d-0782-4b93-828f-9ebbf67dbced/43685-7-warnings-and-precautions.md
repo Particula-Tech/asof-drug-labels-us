@@ -56,14 +56,17 @@ Fertility studies in rats treated orally with up to 300 mg/kg/day (31 times the 
 
 #### Pregnancy Category B
 
+Oral and subcutaneous reproductive toxicity studies in rats and rabbits revealed no evidence of impaired fertility or harm to the fetus due to clindamycin, except at doses that caused maternal toxicity.
+Animal reproduction studies are not always predictive of human response.
+
+In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
+
+Clindamycin vaginal cream or clindamycin vaginal ovules should be used during the first trimester of pregnancy only if clearly needed.
+
 There are no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
-This drug should be used during the first trimester of pregnancy only if clearly needed.
 
 CLEOCIN Vaginal Cream 2% has been studied in pregnant women during the second trimester.
 In women treated for seven days, abnormal labor was reported in 1.1% of patients who received clindamycin vaginal cream 2% compared with 0.5% of patients who received placebo.
-
-Reproduction studies have been performed in rats and mice using oral and parenteral doses of clindamycin up to 600 mg/kg/day (62 and 25 times, respectively, the maximum human exposure based on mg/m2) and have revealed no evidence of harm to the fetus due to clindamycin.
-In one mouse strain, cleft palates were observed in treated fetuses; this outcome was not produced in other mouse strains or in other species and is, therefore, considered to be a strain specific effect.
 
 See INDICATIONS AND USAGE; PRECAUTIONS, General; and ADVERSE REACTIONS.
 
