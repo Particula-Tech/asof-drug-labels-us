@@ -62,6 +62,6 @@ Preparation for Administration: (Use Aseptic Technique)
 
 WARNING: Do not use flexible container in series connections.
 
-ADD-Vantage® is a registered trademark of Abbott Laboratories.
+ADD-Vantage® is a registered trademark of Hospira Inc..
 
-LAB-0050-3.0 June 2011
+LAB-0050-4.0 October 2013

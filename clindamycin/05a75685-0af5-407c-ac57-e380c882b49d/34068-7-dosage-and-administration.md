@@ -2,6 +2,10 @@
 
 If diarrhea occurs during therapy, this antibiotic should be discontinued (see WARNING box).
 
+Clindamycin phosphate IM administration should be used undiluted.
+
+Clindamycin phosphate IV administration should be diluted (See Dilution for IV use and IV infusion rates below)
+
 ## Adults
 
 Parenteral (IM or IV Administration): Serious infections due to aerobic gram-positive cocci and the more susceptible anaerobes (NOT generally including Bacteroides fragilis, Peptococcus species and Clostridium species other than Clostridium perfringens):
@@ -15,7 +19,7 @@ More severe infections, particularly those due to proven or suspected Bacteroide
 For more serious infections, these doses may have to be increased.
 In life-threatening situations due to either aerobes or anaerobes these doses may be increased.
 Doses of as much as 4800 mg daily have been given intravenously to adults.
-See Dilution and Infusion Rates section below.
+See Dilution for IV use and IV Infusion Rates section below.
 
 Single intramuscular injections of greater than 600 mg are not recommended.
 
@@ -42,9 +46,8 @@ Parenteral therapy may be changed to oral CLEOCIN PEDIATRIC® Flavored Granules 
 
 In cases of β-hemolytic streptococcal infections, treatment should be continued for at least 10 days.
 
-## Dilution and Infusion Rates
+## Dilution for IV use and IV Infusion Rates
 
-Clindamycin phosphate must be diluted prior to IV administration.
 The concentration of clindamycin in diluent for infusion should not exceed 18 mg per mL.
 Infusion rates should not exceed 30 mg per minute.
 The usual infusion dilutions and rates are as follows:

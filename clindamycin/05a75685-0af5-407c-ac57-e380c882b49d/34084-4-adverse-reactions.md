@@ -16,6 +16,7 @@ Rare instances of erythema multiforme, some resembling Stevens-Johnson syndrome,
 A few cases of anaphylactoid reactions have been reported.
 If a hypersensitivity reaction occurs, the drug should be discontinued.
 The usual agents (epinephrine, corticosteroids, antihistamines) should be available for emergency treatment of serious reactions.
+Acute Generalised Exanthematous Pustulosis (AGEP).
 
 ## Skin and Mucous Membranes
 
@@ -34,6 +35,10 @@ Although no direct relationship of clindamycin to renal damage has been establis
 Transient neutropenia (leukopenia) and eosinophilia have been reported.
 Reports of agranulocytosis and thrombocytopenia have been made.
 No direct etiologic relationship to concurrent clindamycin therapy could be made in any of the foregoing.
+
+## Immune system
+
+Drug reaction with eosinophilia and systemic symptoms (DRESS)
 
 ## Local Reactions
 

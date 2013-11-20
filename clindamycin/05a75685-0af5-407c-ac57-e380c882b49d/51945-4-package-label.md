@@ -32,7 +32,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 600 mg/4 mL Vial Carton
 
-NDC 0009-0775-26 Contains 25 of NDC 0009-0775-20 Rx only
+NDC 0009-0775-26 Contains 25 of NDC 0009-0775-20
 
 25—4 mL Single Dose Vials
 
@@ -41,6 +41,8 @@ Cleocin Phosphate® clindamycin injection, USP 600 mg/4 mL* (150 mg/mL)
 For intramuscular or intravenous use
 
 Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Label
 
@@ -54,7 +56,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Carton
 
-NDC 0009-0902-18 Contains 25 of NDC 0009-0902-11 Rx only
+NDC 0009-0902-18 Contains 25 of NDC 0009-0902-11
 
 25—6 mL Single Dose Vials
 
@@ -64,7 +66,9 @@ For intramuscular or intravenous use
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 9,000 mg/60 mL Vial Label
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 9,000 mg/60 mL Vial Bulk Label
 
 NDC 0009-0728-05
 
@@ -76,11 +80,11 @@ For intramuscular or intravenous use Not for direct infusion
 
 Pfizer Injectables Rx only
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 MADE IN USA (includes foreign content)
 
-# PRINCIPAL DISPLAY PANEL - 9,000 mg/60 mL Bulk Carton
+# PRINCIPAL DISPLAY PANEL - 9,000 mg/60 mL Vial Bulk Carton
 
-NDC 0009-0728-09 Contains 5 of NDC 0009-0728-05 Rx only
+NDC 0009-0728-09 Contains 5 of NDC 0009-0728-05
 
 5—60 mL Pharmacy Bulk Packages
 
@@ -90,7 +94,7 @@ For intramuscular or intravenous use
 
 Not for direct infusion
 
-Pfizer Injectables
+Pfizer Injectables Rx only
 
 # PRINCIPAL DISPLAY PANEL - 600 mg/4 mL Vial Label
 
@@ -110,13 +114,15 @@ Pfizer Injectables Rx only
 
 25—4 mL Single Dose ADD-Vantage™ Vials
 
-NDC 0009-3124-03 Contains 25 of NDC 0009-3124-01 Rx only
+NDC 0009-3124-03 Contains 25 of NDC 0009-3124-01
 
 Cleocin Phosphate® clindamycin injection, USP 600 mg/4 mL* (150 mg/mL)
 
 For intravenous use only
 
 Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Label
 
@@ -144,7 +150,39 @@ For intravenous use only
 
 Pfizer Injectables Rx only
 
-# PRINCIPAL DISPLAY PANEL - 300 mg/ 50 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 300 mg/ 50 mL Container Label
+
+NDC 0009-3381-01
+
+Single Dose Container Rx only
+
+Cleocin Phosphate® IV Solution clindamycin injection
+
+300 mg/ 50 mL* in 5% DEXTROSE
+
+For Intravenous Use
+
+Code 2G3414 Sterile, Nonpyrogenic
+
+GALAXY
+
+Recommended storage: Room temperature (25°C).
+Avoid temperatures above 30°C.
+DOSAGE AND USE: See accompanying prescribing information.
+Not for rapid injection or IV push.
+Cautions: Do not add supplementary medication.
+Must not be used in series connections.
+Check for minute leaks and solution clarity. * Each 50 mL contains clindamycin phosphate equivalent to 300 mg clindamycin and 2.5 g dextrose hydrous, USP with 2 mg edetate disodium dihydrate, USP added. pH adjusted with sodium hydroxide and/or hydrochloric acid.
+CLEOCIN PHOSPHATE is a registered trademark of Pharmacia & Upjohn Company.
+GALAXY is a trademark of Baxter International Inc. Manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015
+
+Pfizer Injectables
+
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10017
+
+PL 2501 Plastic 11152900 07-34-63-473 07-34-63-473 1865
+
+# PRINCIPAL DISPLAY PANEL - 300 mg/ 50 mL Container Carton
 
 12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3381-01
 
@@ -158,7 +196,39 @@ Pfizer Injectables
 
 NDC 0009-3381-02 Code 2G3414
 
-# PRINCIPAL DISPLAY PANEL - 600 mg/ 50 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 600 mg/ 50 mL Container Label
+
+NDC 0009-3375-01
+
+Single Dose Container Rx only
+
+Cleocin Phosphate® IV Solution clindamycin injection
+
+600 mg/ 50 mL* in 5% DEXTROSE
+
+For Intravenous Use
+
+Code 2G3415 Sterile, Nonpyrogenic
+
+GALAXY
+
+Recommended storage: Room temperature (25°C).
+Avoid temperatures above 30°C.
+DOSAGE AND USE: See accompanying prescribing information.
+Not for rapid injection or IV push.
+Cautions: Do not add supplementary medication.
+Must not be used in series connections.
+Check for minute leaks and solution clarity. * Each 50 mL contains clindamycin phosphate equivalent to 600 mg clindamycin and 2.5 g dextrose hydrous, USP with 2 mg edetate disodium dihydrate, USP added. pH adjusted with sodium hydroxide and/or hydrochloric acid.
+CLEOCIN PHOSPHATE is a registered trademark of Pharmacia & Upjohn Company.
+GALAXY is a trademark of Baxter International Inc. Manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015
+
+Pfizer Injectables
+
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10017
+
+PL 2501 Plastic 11153200 07-34-63-474 07-34-63-474 1864
+
+# PRINCIPAL DISPLAY PANEL - 600 mg/ 50 mL Container Carton
 
 12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3375-01
 
@@ -172,7 +242,39 @@ Pfizer Injectables
 
 NDC 0009-3375-02 Code 2G3415
 
-# PRINCIPAL DISPLAY PANEL - 900 mg/ 50 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 900 mg/ 50 mL Container Label
+
+NDC 0009-3382-01
+
+Single Dose Container Rx only
+
+Cleocin Phosphate® IV Solution clindamycin injection
+
+900 mg/ 50 mL* in 5% DEXTROSE
+
+For Intravenous Use
+
+Code 2G3416 Sterile, Nonpyrogenic
+
+GALAXY
+
+Recommended storage: Room temperature (25°C).
+Avoid temperatures above 30°C.
+DOSAGE AND USE: See accompanying prescribing information.
+Not for rapid injection or IV push.
+Cautions: Do not add supplementary medication.
+Must not be used in series connections.
+Check for minute leaks and solution clarity. * Each 50 mL contains clindamycin phosphate equivalent to 900 mg clindamycin and 2.5 g dextrose hydrous, USP with 2 mg edetate disodium dihydrate, USP added. pH adjusted with sodium hydroxide and/or hydrochloric acid.
+CLEOCIN PHOSPHATE is a registered trademark of Pharmacia & Upjohn Company.
+GALAXY is a trademark of Baxter International Inc. Manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015
+
+Pfizer Injectables
+
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10017
+
+PL 2501 Plastic 11153500 07-34-63-475 07-34-63-475 1866
+
+# PRINCIPAL DISPLAY PANEL - 900 mg/ 50 mL Container Carton
 
 12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3382-01
 
