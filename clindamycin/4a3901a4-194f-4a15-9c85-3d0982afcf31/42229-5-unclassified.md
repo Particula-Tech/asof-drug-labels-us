@@ -2,4 +2,4 @@ For External Use
 
 Rx Only
 
-LAB-0042-3.0 November 2005
+LAB-0042-4.0 September 2013

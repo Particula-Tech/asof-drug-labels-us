@@ -39,9 +39,13 @@ Therefore it should be used with caution in patients receiving such agents.
 
 ### Teratogenic effects—Pregnancy Categoty B
 
-Reproduction studies have been performed in rats and mice using subcutaneous and oral doses of clindamycin ranging from 100 to 600 mg/kg/day and have revealed no evidence of impaired fertility or harm to the fetus due to clindamycin.
-There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Oral and subcutaneous reproductive toxicity studies in rats and rabbits revealed no evidence of impaired fertility or harm to the fetus due to clindamycin, except at doses that caused maternal toxicity.
+Animal reproduction studies are not always predictive of human response.
+
+In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
+
+Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
+There are no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
 
 ## Nursing Mothers
 
