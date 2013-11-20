@@ -48,14 +48,17 @@ Fertility studies in rats treated orally with up to 300 mg/kg/day (31 times the 
 
 #### Pregnancy Category B
 
-There are no adequate and well-controlled studies of CLEOCIN Vaginal Ovules in pregnant women.
+Oral and subcutaneous reproductive toxicity studies in rats and rabbits revealed no evidence of impaired fertility or harm to the fetus due to clindamycin, except at doses that caused maternal toxicity.
+Animal reproduction studies are not always predictive of human response.
+
+In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
+
+Clindamycin drug should be used during the first trimester of pregnancy only if clearly needed.
+
+There are no adequate and well-controlled studies of CLEOCIN Vaginal Ovules in pregnant women during the first trimester of pregnancy.
 
 CLEOCIN Vaginal Cream, 2%, has been studied in pregnant women during the second trimester.
 In women treated for 7 days, abnormal labor was reported more frequently in patients who received CLEOCIN Vaginal Cream compared to those receiving placebo (1.1% vs. 0.5% of patients, respectively).
-
-Reproduction studies have been performed in rats and mice using oral and parenteral doses of clindamycin up to 600 mg/kg/day (62 and 25 times, respectively, the maximum human dose based on mg/m2) and have revealed no evidence of harm to the fetus due to clindamycin.
-Cleft palates were observed in fetuses from one mouse strain treated intraperitoneally with clindamycin at 200 mg/kg/day (about 10 times the recommended dose based on body surface area conversions).
-Since this effect was not observed in other mouse strains or in other species, the effect may be strain specific.
 
 CLEOCIN Vaginal Ovules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

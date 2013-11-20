@@ -11,6 +11,8 @@ Do not take by mouth.
 
 Use one CLEOCIN Vaginal Ovule daily, preferably at bedtime, for 3 days in a row.
 
+Do not use this product if the foiled pouches containing vaginal ovules are torn, opened, or incompletely sealed.
+
 Read the full directions below before using.
 
 Insertion with the applicator:
@@ -55,3 +57,5 @@ Store at 25°C (77°F); excursions permitted to 15 – 30°C (59 – 86°F) [see
 Caution: Avoid heat over 30°C (86°F).
 Avoid high humidity.
 See end of carton for the lot number and expiration date.
+
+LAB-0649-1.0 December 2012

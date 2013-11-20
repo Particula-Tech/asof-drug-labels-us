@@ -1,9 +1,23 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Suppositories Carton
+# PRINCIPAL DISPLAY PANEL - 100 mg Suppositories Blister Pack
 
-3 Suppositories with one applicator NDC 0009-7667-01
+Cleocin® 100 mg clindamycin phosphate vaginal suppositories PHARMACIA & UPJOHN CO DIVISION OF PFIZER INC, NY, NY 10017
 
-Cleocin® Vaginal Ovules (clindamycin phosphate vaginal suppositories)
+Lot Exp
+
+11062500
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Suppositories Blister Pack Carton
+
+NDC 0009-7667-01
+
+Pfizer Cleocin® Vaginal Ovules
+
+equivalent to 100 mg* clindamycin
+
+(clindamycin phosphate vaginal suppositories)
 
 For Intravaginal Use Only
 
-equivalent to 100 mg* clindamycin
+3 Suppositories with one applicator
+
+Rx only
