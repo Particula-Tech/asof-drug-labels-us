@@ -1,8 +1,6 @@
 PHARMACIST - DETACH HERE AND GIVE LEAFLET TO PATIENT
 
-Patient Information
-
-Colestipol Hydrochloride Tablets, 1 gram
+Patient Information Colestipol Hydrochloride Tablets, 1 gram
 
 Read this information carefully before you take colestipol hydrochloride tablets.
 Also read the information you get with your refills.
@@ -34,3 +32,10 @@ If you are taking other medications, you should take them at least one hour befo
 This leaflet summarizes the most important information about colestipol tablets.
 If you would like more information, talk with your doctor.
 Also, you can ask your pharmacist or doctor for information about colestipol tablets that is written for health professionals.
+
+Rx Only
+
+Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
+
+476-02 Rev.
+03/2013
