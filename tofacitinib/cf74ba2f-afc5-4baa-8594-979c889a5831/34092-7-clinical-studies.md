@@ -14,11 +14,12 @@ Dose-Ranging Study 2 was a 6-month trial in which 507 patients with active rheum
 
 The results of XELJANZ-treated patients achieving ACR20 responses in Studies 1 and 2 are shown in Figure 4.
 Although a dose-response relationship was observed in Study 1, the proportion of patients with an ACR20 response did not clearly differ between the 10 mg and 15 mg doses.
-Furthermore, there was a smaller proportion of patients who responded to adalimumab monotherapy compared to those treated with XELJANZ doses 3 mg twice daily and greater.
 In Study 2, a smaller proportion of patients achieved an ACR20 response in the placebo and XELJANZ 1 mg groups compared to patients treated with the other XELJANZ doses.
 However, there was no difference in the proportion of responders among patients treated with XELJANZ 3, 5, 10, 15 mg twice daily or 20 mg once daily doses.
 
 Figure 4: Proportion of Patients with ACR20 Response at Month 3 in Dose-Ranging Studies 1 and 2
+
+Study 1 was a dose-ranging monotherapy trial not designed to provide comparative effectiveness data and should not be interpreted as evidence of superiority to adalimumab.
 
 CONFIRMATORY TRIALS
 
@@ -115,3 +116,8 @@ Patients receiving XELJANZ 5 and 10 mg twice daily demonstrated greater improvem
 
 The mean (95% CI) difference from placebo in HAQ-DI improvement from baseline at Month 3 in Study III was -0.22 (-0.35, -0.10) in patients receiving 5 mg XELJANZ twice daily and -0.32 (-0.44, -0.19) in patients receiving 10 mg XELJANZ twice daily.
 Similar results were obtained in Studies I, II, IV and V. In the 12-month trials, HAQ-DI results in XELJANZ-treated patients were consistent at 6 and 12 months.
+
+Other Health Related Outcomes
+
+General health status was assessed by the Short Form health survey (SF-36).
+In studies I, IV, and V, patients receiving XELJANZ 5 mg twice daily or XELJANZ 10 mg twice daily demonstrated greater improvement from baseline compared to placebo in physical component summary (PCS), mental component summary (MCS) scores and in all 8 domains of the SF-36 at Month 3.
