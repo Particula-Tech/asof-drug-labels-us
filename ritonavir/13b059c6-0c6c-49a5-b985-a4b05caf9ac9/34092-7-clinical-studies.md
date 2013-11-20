@@ -10,6 +10,7 @@ The study accrued 1090 patients, with mean baseline CD4 cell count at study entr
 After the clinical benefit of NORVIR therapy was demonstrated, all patients were eligible to switch to open-label NORVIR for the duration of the follow-up period.
 Median duration of double-blind therapy with NORVIR and placebo was 6 months.
 The median duration of follow-up through the end of the open-label phase was 13.5 months for patients randomized to NORVIR and 14 months for patients randomized to placebo.
+
 The cumulative incidence of clinical disease progression or death during the double-blind phase of Study 247 was 26% (140/543) for patients initially randomized to NORVIR compared to 42% (229/547) for patients initially randomized to placebo.
 This difference in rates was statistically significant.
 

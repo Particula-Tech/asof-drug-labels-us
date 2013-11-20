@@ -13,112 +13,68 @@ When co-administering NORVIR with other protease inhibitors, see the full prescr
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The safety of NORVIR alone and in combination with nucleoside reverse transcriptase inhibitors was studied in 1,270 adult patients.
-Table 2 lists treatment-emergent adverse events (at least possibly related and of at least moderate intensity) that occurred in 2% or greater of adult patients receiving NORVIR alone or in combination with nucleoside reverse transcriptase inhibitors in Study 245 or Study 247 and in combination with saquinavir in study 462.
-In that study, 141 protease inhibitor-naive, HIV-1 infected patients with mean baseline CD4 of 300 cells per µL were randomized to one of four regimens of NORVIR plus saquinavir, including NORVIR 400 mg twice-daily plus saquinavir 400 mg twice-daily.
-Overall the most frequently reported clinical adverse events, other than asthenia, among adult patients receiving NORVIR were gastrointestinal and neurological disturbances including nausea, diarrhea, vomiting, anorexia, abdominal pain, taste perversion, and circumoral and peripheral paresthesias.
-Similar adverse event profiles were reported in adult patients receiving ritonavir in other trials.
+The safety of NORVIR alone and in combination with other antiretroviral agents was studied in 1,755 adult patients.
+Table 2 lists treatment-emergent Adverse Reactions (with possible or probable relationship to study drug) occurring in greater than or equal to 1% of adult patients receiving NORVIR in combined Phase II/IV studies.
 
-| Table 2. Percentage of Patients with Treatment-emergent Adverse Events1 of Moderate or Severe Intensity Occurring in greater than or equal to 2% of Adult Patients Receiving NORVIR |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Adverse Events | Study 245 Naive Patients2 |  |  | Study 247 Advanced Patients3 |  | Study 462 PI-Naive Patients4 |
-|  | NORVIR plus ZDV n = 116 | NORVIR n = 117 | ZDV n = 119 | NORVIR n = 541 | Placebo n = 545 | NORVIR plus Saquinavir n = 141 |
-| Body as a Whole |  |  |  |  |  |  |
-| Abdominal Pain | 5.2 | 6.0 | 5.9 | 8.3 | 5.1 | 2.1 |
-| Asthenia | 28.4 | 10.3 | 11.8 | 15.3 | 6.4 | 16.3 |
-| Fever | 1.7 | 0.9 | 1.7 | 5.0 | 2.4 | 0.7 |
-| Headache | 7.8 | 6.0 | 6.7 | 6.5 | 5.7 | 4.3 |
-| Malaise | 5.2 | 1.7 | 3.4 | 0.7 | 0.2 | 2.8 |
-| Pain (unspecified) | 0.9 | 1.7 | 0.8 | 2.2 | 1.8 | 4.3 |
-| Cardiovascular |  |  |  |  |  |  |
-| Syncope | 0.9 | 1.7 | 0.8 | 0.6 | 0.0 | 2.1 |
-| Vasodilation | 3.4 | 1.7 | 0.8 | 1.7 | 0.0 | 3.5 |
-| Digestive |  |  |  |  |  |  |
-| Anorexia | 8.6 | 1.7 | 4.2 | 7.8 | 4.2 | 4.3 |
-| Constipation | 3.4 | 0.0 | 0.8 | 0.2 | 0.4 | 1.4 |
-| Diarrhea | 25.0 | 15.4 | 2.5 | 23.3 | 7.9 | 22.7 |
-| Dyspepsia | 2.6 | 0.0 | 1.7 | 5.9 | 1.5 | 0.7 |
-| Fecal Incontinence | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 2.8 |
-| Flatulence | 2.6 | 0.9 | 1.7 | 1.7 | 0.7 | 3.5 |
-| Local Throat Irritation | 0.9 | 1.7 | 0.8 | 2.8 | 0.4 | 1.4 |
-| Nausea | 46.6 | 25.6 | 26.1 | 29.8 | 8.4 | 18.4 |
-| Vomiting | 23.3 | 13.7 | 12.6 | 17.4 | 4.4 | 7.1 |
-| Metabolic and Nutritional |  |  |  |  |  |  |
-| Weight Loss | 0.0 | 0.0 | 0.0 | 2.4 | 1.7 | 0.0 |
-| Musculoskeletal |  |  |  |  |  |  |
-| Arthralgia | 0.0 | 0.0 | 0.0 | 1.7 | 0.7 | 2.1 |
-| Myalgia | 1.7 | 1.7 | 0.8 | 2.4 | 1.1 | 2.1 |
-| Nervous |  |  |  |  |  |  |
-| Anxiety | 0.9 | 0.0 | 0.8 | 1.7 | 0.9 | 2.1 |
-| Circumoral Paresthesia | 5.2 | 3.4 | 0.0 | 6.7 | 0.4 | 6.4 |
-| Confusion | 0.0 | 0.9 | 0.0 | 0.6 | 0.6 | 2.1 |
-| Depression | 1.7 | 1.7 | 2.5 | 1.7 | 0.7 | 7.1 |
-| Dizziness | 5.2 | 2.6 | 3.4 | 3.9 | 1.1 | 8.5 |
-| Insomnia | 3.4 | 2.6 | 0.8 | 2.0 | 1.8 | 2.8 |
-| Paresthesia | 5.2 | 2.6 | 0.0 | 3.0 | 0.4 | 2.1 |
-| Peripheral Paresthesia | 0.0 | 6.0 | 0.8 | 5.0 | 1.1 | 5.7 |
-| Somnolence | 2.6 | 2.6 | 0.0 | 2.4 | 0.2 | 0.0 |
-| Thinking Abnormal | 2.6 | 0.0 | 0.8 | 0.9 | 0.4 | 0.7 |
-| Respiratory |  |  |  |  |  |  |
-| Pharyngitis | 0.9 | 2.6 | 0.0 | 0.4 | 0.4 | 1.4 |
-| Skin and Appendages |  |  |  |  |  |  |
-| Rash | 0.9 | 0.0 | 0.8 | 3.5 | 1.5 | 0.7 |
-| Sweating | 3.4 | 2.6 | 1.7 | 1.7 | 1.1 | 2.8 |
-| Special Senses |  |  |  |  |  |  |
-| Taste Perversion | 17.2 | 11.1 | 8.4 | 7.0 | 2.2 | 5.0 |
-| Urogenital |  |  |  |  |  |  |
-| Nocturia | 0.0 | 0.0 | 0.0 | 0.2 | 0.0 | 2.8 |
-| 1 Includes those adverse events at least possibly related to study drug or of unknown relationship and excludes concurrent HIV-1 conditions. 2 The median duration of treatment for patients randomized to regimens containing NORVIR in Study 245 was 9.1 months. 3 The median duration of treatment for patients randomized to regimens containing NORVIR in Study 247 was 9.4 months. 4 The median duration of treatment for patients in Study 462 was 48 weeks. |  |  |  |  |  |  |
+The most frequently reported adverse drug reactions among patients receiving NORVIR alone or in combination with other antiretroviral drugs were gastrointestinal (including diarrhea, nausea, vomiting, abdominal pain (upper and lower)), neurological disturbances (including paresthesia and oral paresthesia), rash, and fatigue/asthenia.
 
-Adverse events occurring in less than 2% of adult patients receiving NORVIR in all phase II/phase III studies and considered at least possibly related or of unknown relationship to treatment and of at least moderate intensity are listed below by body system.
+Table 2.
+Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to Study Drug) Occurring in greater than or equal to 1% of Adult Patients Receiving NORVIR in Combined Phase II/IV Studies (N = 1,755)
 
-Body as a Whole
-
-Abdomen enlarged, accidental injury, allergic reaction, back pain, cachexia, chest pain, chills, facial edema, facial pain, flu syndrome, hormone level altered, hypothermia, kidney pain, neck pain, neck rigidity, pelvic pain, photosensitivity reaction, and substernal chest pain.
-
-Cardiovascular System
-
-Cardiovascular disorder, cerebral ischemia, cerebral venous thrombosis, hypertension, hypotension, migraine, myocardial infarct, palpitation, peripheral vascular disorder, phlebitis, postural hypotension, tachycardia and vasospasm.
-
-Digestive System
-
-Abnormal stools, bloody diarrhea, cheilitis, cholestatic jaundice, colitis, dry mouth, dysphagia, eructation, esophageal ulcer, esophagitis, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal hemorrhage, gingivitis, hepatic coma, hepatitis, hepatomegaly, hepatosplenomegaly, ileus, liver damage, melena, mouth ulcer, pancreatitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, sialadenitis, stomatitis, tenesmus, thirst, tongue edema, and ulcerative colitis.
-
-Endocrine System
-
-Adrenal cortex insufficiency and diabetes mellitus.
-
-Hemic and Lymphatic System
-
-Acute myeloblastic leukemia, anemia, ecchymosis, leukopenia, lymphadenopathy, lymphocytosis, myeloproliferative disorder, and thrombocytopenia.
-
-Metabolic and Nutritional Disorders
-
-Albuminuria, alcohol intolerance, avitaminosis, BUN increased, dehydration, edema, enzymatic abnormality, glycosuria, gout, hypercholesteremia, peripheral edema, and xanthomatosis.
-
-Musculoskeletal System
-
-Arthritis, arthrosis, bone disorder, bone pain, extraocular palsy, joint disorder, leg cramps, muscle cramps, muscle weakness, myositis, and twitching.
-
-Nervous System
-
-Abnormal dreams, abnormal gait, agitation, amnesia, aphasia, ataxia, coma, convulsion, dementia, depersonalization, diplopia, emotional lability, euphoria, grand mal convulsion, hallucinations, hyperesthesia, hyperkinesia, hypesthesia, incoordination, libido decreased, manic reaction, nervousness, neuralgia, neuropathy, paralysis, peripheral neuropathic pain, peripheral neuropathy, peripheral sensory neuropathy, personality disorder, sleep disorder, speech disorder, stupor, subdural hematoma, tremor, urinary retention, vertigo, and vestibular disorder.
-
-Respiratory System
-
-Asthma, bronchitis, dyspnea, epistaxis, hiccup, hypoventilation, increased cough, interstitial pneumonia, larynx edema, lung disorder, rhinitis, and sinusitis.
-
-Skin and Appendages
-
-Acne, contact dermatitis, dry skin, eczema, erythema multiforme, exfoliative dermatitis, folliculitis, fungal dermatitis, furunculosis, maculopapular rash, molluscum contagiosum, onychomycosis, pruritus, psoriasis, pustular rash, seborrhea, skin discoloration, skin disorder, skin hypertrophy, skin melanoma, urticaria, and vesiculobullous rash.
-
-Special Senses
-
-Abnormal electro-oculogram, abnormal electroretinogram, abnormal vision, amblyopia/blurred vision, blepharitis, conjunctivitis, ear pain, eye disorder, eye pain, hearing impairment, increased cerumen, iritis, parosmia, photophobia, taste loss, tinnitus, uveitis, visual field defect, and vitreous disorder.
-
-Urogenital System
-
-Acute kidney failure, breast pain, cystitis, dysuria, hematuria, impotence, kidney calculus, kidney failure, kidney function abnormal, kidney pain, menorrhagia, penis disorder, polyuria, urethritis, urinary frequency, urinary tract infection, and vaginitis.
+| Adverse Reactions | n | % |
+| --- | --- | --- |
+| Eye disorders |  |  |
+| Blurred vision | 113 | 6.4 |
+| Gastrointestinal disorders |  |  |
+| Abdominal Pain (upper and lower)* | 464 | 26.4 |
+| Diarrhea including severe with electrolyte imbalance* | 1,192 | 67.9 |
+| Dyspepsia | 201 | 11.5 |
+| Flatulence | 142 | 8.1 |
+| Gastrointestinal hemorrhage* | 41 | 2.3 |
+| Gastroesophageal reflux disease (GERD) | 19 | 1.1 |
+| Nausea | 1,007 | 57.4 |
+| Vomiting* | 559 | 31.9 |
+| General disorders and administration site conditions |  |  |
+| Fatigue including asthenia* | 811 | 46.2 |
+| Hepatobiliary disorders |  |  |
+| Blood bilirubin increased (including jaundice)* | 25 | 1.4 |
+| Hepatitis (including increased AST, ALT, GGT)* | 153 | 8.7 |
+| Immune system disorders |  |  |
+| Hypersensivity including urticatria and face edema* | 114 | 8.2 |
+| Metabolism and nutrition disorders |  |  |
+| Edema and peripheral edema* | 110 | 6.3 |
+| Gout* | 24 | 1.4 |
+| Hypercholesterolemia* | 52 | 3.0 |
+| Hypertriglyceridemia* | 158 | 9.0 |
+| Lipodystrophy acquired* | 51 | 2.9 |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Arthralgia and back pain* | 326 | 18.6 |
+| Myopathy/creatine phosphokinase increased* | 66 | 3.8 |
+| Myalgia | 156 | 8.9 |
+| Nervous system disorders |  |  |
+| Dizziness* | 274 | 15.6 |
+| Dysgeusia* | 285 | 16.2 |
+| Paresthesia (including oral paresthesia)* | 889 | 50.7 |
+| Peripheral neuropathy | 178 | 10.1 |
+| Syncope* | 58 | 3.3 |
+| Psychiatric disorders |  |  |
+| Confusion* | 52 | 3.0 |
+| Disturbance in attention | 44 | 2.5 |
+| Renal and urinary disorders |  |  |
+| Increased urination* | 74 | 4.2 |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Coughing* | 380 | 21.7 |
+| Oropharyngeal Pain* | 279 | 15.9 |
+| Skin and subcutaneous tissue disorders |  |  |
+| Acne* | 67 | 3.8 |
+| Pruritus* | 214 | 12.2 |
+| Rash (includes erythematous and maculopapular)* | 475 | 27.1 |
+| Vascular disorders |  |  |
+| Flushing, feeling hot* | 232 | 13.2 |
+| Hypertension* | 58 | 3.3 |
+| Hypotension including orthostatic hypotension* | 30 | 1.7 |
+| Peripheral coldness* | 21 | 1.2 |
+| * Represents a medical concept including several similar MedDRA PTs |  |  |
 
 Laboratory Abnormalities
 
@@ -150,9 +106,12 @@ Table 3 shows the percentage of adult patients who developed marked laboratory a
 
 NORVIR has been studied in 265 pediatric patients greater than 1 month to 21 years of age.
 The adverse event profile observed during pediatric clinical trials was similar to that for adult patients.
+
 Vomiting, diarrhea, and skin rash/allergy were the only drug-related clinical adverse events of moderate to severe intensity observed in greater than or equal to 2% of pediatric patients enrolled in NORVIR clinical trials.
 
-Laboratory Abnormalities The following Grade 3-4 laboratory abnormalities occurred in greater than 3% of pediatric patients who received treatment with NORVIR either alone or in combination with reverse transcriptase inhibitors: neutropenia (9%), hyperamylasemia (7%), thrombocytopenia (5%), anemia (4%), and elevated AST (3%).
+Laboratory Abnormalities
+
+The following Grade 3-4 laboratory abnormalities occurred in greater than 3% of pediatric patients who received treatment with NORVIR either alone or in combination with reverse transcriptase inhibitors: neutropenia (9%), hyperamylasemia (7%), thrombocytopenia (5%), anemia (4%), and elevated AST (3%).
 
 ## 6.3 Postmarketing Experience
 
