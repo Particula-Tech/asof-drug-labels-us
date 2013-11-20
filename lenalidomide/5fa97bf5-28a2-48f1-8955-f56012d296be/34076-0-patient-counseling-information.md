@@ -4,7 +4,7 @@ See FDA-approved Patient labeling (Medication Guide)
 
 Embryo-Fetal Toxicity Advise patients that REVLIMID is contraindicated in pregnancy [see Contraindicatons (4.1)].
 REVLIMID is a thalidomide analog and can cause serious birth defects or death to a developing baby.
-[see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)]
+[see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
 - Advise females of reproductive potential that they must avoid pregnancy while taking REVLIMID and for at least 4 weeks after completing therapy.
 - Initiate REVLIMID treatment in females of reproductive potential only following a negative pregnancy test.
@@ -33,6 +33,18 @@ Venous Thromboembolism
 
 Inform patients that REVLIMID/dexamethasone has demonstrated significant increased risk of DVT and PE in patients with multiple myeloma [see Boxed Warnings and Warning and Precautions (5.4)].
 
+Increased Mortality in Patients with CLL
+
+Inform patients that REVLIMID had increased mortality in patients with CLL and serious adverse cardiovascular reactions, including atrial fibrillation, myocardial infarction, and cardiac failure [see Warning and Precautions (5.5)].
+
+Second Primary Malignancies
+
+Inform patients of the potential risk of developing second primary malignancies during treatment with REVLIMID.
+
+Hepatotoxicity
+
+Inform patients of the risk of hepatotoxicity, including hepatic failure and death, and to report any signs and symptoms associated with this event to their healthcare provider for evaluation.
+
 Allergic Reactions
 
 Inform patients of the potential for allergic reactions including hypersensitivity, angioedema, Stevens Johnsons Syndrome, or toxic epidermal necrolysis if they had such a reaction to THALOMID and report symptoms associated with these events to their healthcare provider for evaluation.
@@ -44,14 +56,6 @@ Inform patients of the potential risk of tumor lysis syndrome and to report any 
 Tumor Flare Reaction
 
 Inform patients of the potential risk of tumor flare reaction and to report any signs and symptoms associated with this event to their healthcare provider for evaluation.
-
-Hepatotoxicity
-
-Inform patients of the risk of hepatotoxicity, including hepatic failure and death, and to report any signs and symptoms associated with this event to their healthcare provider for evaluation.
-
-Secondary Primary Malignancies
-
-Inform patients of the potential risk of developing second primary malignancies during treatment with REVLIMID.
 
 Dosing Instructions
 
@@ -75,4 +79,4 @@ Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977
 
 ©2005-2013 Celgene Corporation, All Rights Reserved.
 
-RevPlyPI.016/MG.016 06/13
+RevPlyPI.018/MG.018 11/13

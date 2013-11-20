@@ -3,6 +3,8 @@
 REVLIMID, a thalidomide analogue, is an immunomodulatory agent with antiangiogenic and antineoplastic properties.
 The chemical name is 3-(4-amino-1-oxo 1,3-dihydro-2H-isoindol-2-yl) piperidine-2,6-dione and it has the following chemical structure:
 
+3-(4-amino-1-oxo 1,3-dihydro-2H-isoindol-2-yl) piperidine-2,6-dione
+
 The empirical formula for lenalidomide is C13H13N3O3, and the gram molecular weight is 259.3.
 
 Lenalidomide is an off-white to pale-yellow solid powder.

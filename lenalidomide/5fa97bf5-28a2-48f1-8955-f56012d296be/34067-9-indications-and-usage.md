@@ -11,3 +11,7 @@ REVLIMID is indicated for the treatment of patients with transfusion-dependent a
 ## 1.3 Mantle Cell Lymphoma
 
 REVLIMID is indicated for the treatment of patients with mantle cell lymphoma (MCL) whose disease has relapsed or progressed after two prior therapies, one of which included bortezomib.
+
+## 1.4 Limitations of Use
+
+REVLIMID is not indicated and is not recommended for the treatment of patients with CLL outside of controlled clinical trials [see Warnings and Precautions (5.5)].

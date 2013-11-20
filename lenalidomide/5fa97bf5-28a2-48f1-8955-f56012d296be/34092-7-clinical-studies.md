@@ -4,7 +4,7 @@
 
 Two randomized studies (Studies 1 and 2) were conducted to evaluate the efficacy and safety of REVLIMID.
 These multicenter, multinational, double-blind, placebo-controlled studies compared REVLIMID plus oral pulse high-dose dexamethasone therapy to dexamethasone therapy alone in patients with multiple myeloma who had received at least one prior treatment.
-These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
+These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL
 
 In both studies, patients in the REVLIMID/dexamethasone group took 25 mg of REVLIMID orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle.
 Patients in the placebo/dexamethasone group took 1 placebo capsule on Days 1 to 28 of each 28-day cycle.
@@ -23,30 +23,17 @@ Table 8: Baseline Demographic and Disease-Related Characteristics – Studies 1 
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-| REVLIMID/Dex N=177 | Placebo/Dex N=176 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |  |
+|  | REVLIMID/Dex N=177 | Placebo/Dex N=176 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |
 | Patient Characteristics |  |  |  |  |
-| Age (years) |  |  |  |  |
-| Median | 64 | 62 | 63 | 64 |
-| Min, Max | 36, 86 | 37, 85 | 33, 84 | 40, 82 |
-| Sex |  |  |  |  |
-| Male | 106 (60%) | 104 (59%) | 104 (59%) | 103 (59%) |
-| Female | 71 (40%) | 72 (41%) | 72 (41%) | 72 (41%) |
-| Race/Ethnicity |  |  |  |  |
-| White | 141(80%) | 148 (84%) | 172 (98%) | 175(100%) |
-| Other | 36 (20%) | 28 (16%) | 4 (2%) | 0 (0%) |
-| ECOG Performance |  |  |  |  |
-| Status 0-1 | 157 (89%) | 168 (95%) | 150 (85%) | 144 (82%) |
+| Age (years) Median Min, Max | 64 36, 86 | 62 37, 85 | 63 33, 84 | 64 40, 82 |
+| Sex Male Female | 106 (60%) 71 (40%) | 104 (59%) 72 (41%) | 104 (59%) 72 (41%) | 103 (59%) 72 (41%) |
+| Race/Ethnicity White Other | 141(80%) 36 (20%) | 148 (84%) 28 (16%) | 172 (98%) 4 (2%) | 175(100%) 0 (0%) |
+| ECOG Performance Status 0-1 | 157 (89%) | 168 (95%) | 150 (85%) | 144 (82%) |
 | Disease Characteristics |  |  |  |  |
-| Multiple Myeloma Stage (Durie-Salmon) |  |  |  |  |
-| I | 3% | 3% | 6% | 5% |
-| II | 32% | 31% | 28% | 33% |
-| III | 64% | 66% | 65% | 63% |
-| B2-microglobulin (mg/L) |  |  |  |  |
-| ≤ 2.5 mg/L | 52 (29%) | 51 (29%) | 51 (29%) | 48 (27%) |
-| > 2.5 mg/L | 125 (71%) | 125 (71%) | 125 (71%) | 127 (73%) |
+| Multiple Myeloma Stage (Durie- Salmon) I II III | 3% 32% 64% | 3% 31% 66% | 6% 28% 65% | 5% 33% 63% |
+| B2-microglobulin (mg/L) ≤ 2.5 mg/L >2.5 mg/L | 52 (29%) 125 (71%) | 51 (29%) 125 (71%) | 51 (29%) 125 (71%) | 48 (27%) 127 (73%) |
 | Number of Prior Therapies |  |  |  |  |
-| 1 | 38% | 38% | 32% | 33% |
-| ≥ 2 | 62% | 62% | 68% | 67% |
+| 1 ≥ 2 | 38% 62% | 38% 62% | 32% 68% | 33% 67% |
 | Types of Prior Therapies |  |  |  |  |
 | Stem Cell Transplantation | 62% | 61% | 55% | 54% |
 | Thalidomide | 42% | 46% | 30% | 38% |
@@ -64,25 +51,20 @@ For both studies, the extended follow-up survival data with crossovers were anal
 In study 1, the median survival time was 39.4 months (95%CI: 32.9, 47.4) in REVLIMID/dexamethasone group and 31.6 months (95%CI: 24.1, 40.9) in placebo/dexamethasone group, with a hazard ratio of 0.79 (95% CI: 0.61-1.03).
 In study 2, the median survival time was 37.5 months (95%CI: 29.9, 46.6) in REVLIMID/dexamethasone group and 30.8 months (95%CI: 23.5, 40.3) in placebo/dexamethasone group, with a hazard ratio of 0.86 (95% CI: 0.65-1.14).
 
-Table 9.
-TTP Results in Study 1 and Study 2
+Table 9: TTP Results in Study 1 and Study 2
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-| REVLIMID/Dex N=177 | Placebo/Dex N=176 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |  |
+|  | REVLIMID/Dex N=177 | Placebo/Dex N=176 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |
 | TTP |  |  |  |  |
 | Events n (%) | 73 (41) | 120 (68) | 68 (39) | 130 (74) |
 | Median TTP in months [95% CI] | 13.9 [9.5, 18.5] | 4.7 [3.7, 4.9] | 12.1 [9.5, NE] | 4.7 [3.8, 4.8] |
 | Hazard Ratio [95% CI] | 0.285 [0.210, 0.386] |  | 0.324 [0.240, 0.438] |  |
-| Log-rank Test p-value 3 |  |  |  |  |
-|  | <0.001 |  | <0.001 |  |
+| Log-rank Test p-value 3 | <0.001 |  | <0.001 |  |
 | Response |  |  |  |  |
-| Complete Response (CR) n (%) |  |  |  |  |
-|  | 23 (13) | 1 (1) | 27 (15) | 7 (4) |
-| Partial Response (RR/PR) n (%) |  |  |  |  |
-|  | 84 (48) | 33 (19) | 77 (44) | 34 (19) |
-| Overall Response n (%) |  |  |  |  |
-|  | 107 (61) | 34 (19) | 104 (59) | 41 (23) |
+| Complete Response (CR) n (%) | 23 (13) | 1 (1) | 27 (15) | 7 (4) |
+| Partial Response (RR/PR) n (%) | 84 (48) | 33 (19) | 77 (44) | 34 (19) |
+| Overall Response n (%) | 107 (61) | 34 (19) | 104 (59) | 41 (23) |
 | p-value | <0.001 |  | <0.001 |  |
 | Odds Ratio [95% CI] | 6.38 [3.95, 10.32] |  | 4.72 [2.98, 7.49] |  |
 
@@ -132,7 +114,7 @@ Table 10: Baseline Demographic and Disease-Related Characteristics in the MDS St
 | RARS | 16 | (10.8) |  |
 | RAEB | 30 | (20.3) |  |
 | CMML | 3 | (2.0) |  |
-| [a] IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1.0), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score) [b] French-American-British (FAB) classification of MDS. |  |  |  |
+| [a] IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1.0), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score)[b] French-American-British (FAB) classification of MDS. |  |  |  |
 
 The frequency of RBC transfusion independence was assessed using criteria modified from the International Working Group (IWG) response criteria for MDS.
 RBC transfusion independence was defined as the absence of any RBC transfusion during any consecutive “rolling” 56 days (8 weeks) during the treatment period.
@@ -150,49 +132,34 @@ The median interval between the first and second dose reduction or interruption 
 ## 14.3 Mantle Cell Lymphoma
 
 A multicenter, single-arm, open-label trial of single-agent lenalidomide was conducted to evaluate the safety and efficacy of lenalidomide in patients with mantle cell lymphoma who have relapsed after or were refractory to bortezomib or a bortezomib-containing regimen.
-Patients with a creatinine clearance ≥60 mL/min were given lenalidomide at a dose of 25 mg once daily for 21 days every 28 days.
+Patients with a creatinine clearance >60 mL/min were given lenalidomide at a dose of 25 mg once daily for 21 days every 28 days.
 Patients with a creatinine clearance ≥30 mL/min and <60 mL/min were given lenalidomide at a dose of 10 mg once daily for 21 days every 28 days.
 Treatment was continued until disease progression, unacceptable toxicity, or withdrawal of consent.
 
 The trial included patients who were at least 18 years of age with biopsy-proven MCL with measurable disease by CT scan.
 Patients were required to have received prior treatment with an anthracycline or mitoxantrone, cyclophosphamide, rituximab, and bortezomib, alone or in combination.
 Patients were required to have documented refractory disease (defined as without any response of PR or better during treatment with bortezomib or a bortezomib-containing regimen), or relapsed disease (defined as progression within one year after treatment with bortezomib or a bortezomib-containing regimen).
-At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3x upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 x ULN except in cases of Gilbert’s syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
+At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/ mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3x upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 x ULN except in cases of Gilbert’s syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
 
 The median age was 67 years (43-83), 81% were male and 96% were Caucasian.
 The table below summarizes the baseline disease-related characteristics and prior anti-lymphoma therapy in the Mantle Cell Lymphoma trial.
 
-Table 11: Baseline Disease-related Characteristics and Prior Anti–Lymphoma Therapy in Mantle Cell Lymphoma Trial
+Table 11: Baseline Disease-related Characteristics and Prior Anti –Lymphoma Therapy in Mantle Cell Lymphoma Trial
 
-| Baseline Disease Characteristics and Prior Anti -Lymphoma Treatment | Total Patients (N=134) |
+| Baseline Disease Characteristics and Prior Anti - Lymphoma Treatment | Total Patients (N=134) |
 | --- | --- |
-| ECOG Performance Statusa n (%) |  |
-| 0 | 43 (32) |
-| 1 | 73 (54) |
-| 2 | 17 (13) |
-| 3 | 1 (<1) |
-| Advanced MCL Stage, n (%) |  |
-| III | 27 (20) |
-| IV | 97 (72) |
+| ECOG Performance Statusa n (%) 0 1 2 3 | 43 (32) 73 (54) 17 (13) 1 (<1) |
+| Advanced MCL Stage, n (%) III IV | 27 (20) 97 (72) |
 | High or Intermediate MIPI Score b, n (%) | 90 (67) |
 | High Tumor Burdenc, n (%) | 77 (57) |
 | Bulky Diseased, n (%) | 44 (33) |
 | Extranodal Disease | 101 (75) |
-| Number of Prior Systemic Anti-Lymphoma Therapies, n (%) |  |
-| Median (range) | 4 (2, 10) |
-| 1 | 0 (0) |
-| 2 | 29 (22) |
-| 3 | 34 (25) |
-| ≥ 4 | 71 (53) |
-| Number of Subjects Who Received Prior Regimen Containing, n (%): |  |
-| Anthracycline/mitoxantrone | 133 (99) |
-| Cyclophosphamide | 133 (99) |
-| Rituximab | 134 (100) |
-| Bortezomib | 134 (100) |
+| Number of Prior Systemic Anti-Lymphoma Therapies, n (%) Median (range) 1 2 3 ≥ 4 | 4 (2, 10) 0 (0) 29 (22) 34 (25) 71 (53) |
+| Number of Subjects Who Received Prior Regimen Containing, n (%): Anthracycline/mitoxantrone Cyclophosphamide Rituximab Bortezomib | 133 (99) 133 (99) 134 (100) 134 (100) |
 | Refractory to Prior Bortezomib | 81 (60) |
 | Refractory to Last Prior Therapy | 74 (55) |
 | Prior Autologous Bone Marrow or Stem Cell Transplant, n (%) | 39 (29) |
-| a) ECOG = Eastern Cooperative Oncology Group b) MIPI = MCL International Prognostic Index c) High tumor burden is defined as at least one lesion that is ≥5 cm in diameter or 3 lesions that are ≥3 cm in diameter d) Bulky disease is defined as at least one lesion that is ≥7cm in the longest diameter |  |
+| a)ECOG = Eastern Cooperative Oncology Groupb)MIPI = MCL International Prognostic Indexc) High tumor burden is defined as at least one lesion that is ≥5 cm in diameter or 3 lesions that are ≥3 cm in diameterd) Bulky disease is defined as at least one lesion that is ≥7cm in the longest diameter |  |
 
 The efficacy endpoints in the MCL trial were overall response rate (ORR) and duration of response (DOR).
 Response was determined based on review of radiographic scans by an independent review committee according to a modified version of the International Workshop Lymphoma Response Criteria (Cheson, 1999).
@@ -202,12 +169,8 @@ The median time to response was 2.2 months (range 1.8 to 13 months).
 
 Table 12: Response Outcomes in the Pivotal Mantle Cell Lymphoma Trial
 
-| Response Analyses (N = 133) |  | N (%) | 95% CI |
-| --- | --- | --- | --- |
-| Overall Response Rate (IWRC) (CR + CRu +PR) |  | 34 (26) | (18.4, 33.9) |
-| Complete Response (CR + CRu) |  | 9 (7) | (3.1, 12.5) |
-| CR |  | 1 (1) |  |
-| CRu |  | 8 (6) |  |
-| Partial Response (PR) |  | 25 (19) |  |
-| Duration of Response (months) |  | Median | 95% CI |
-| Duration of Overall Response (CR + CRu + PR) | (N = 34) | 16.6 | (7.7, 26.7) |
+| Response Analyses (N = 133) | N (%) | 95% CI |
+| --- | --- | --- |
+| Overall Response Rate (IWRC) (CR + CRu +PR) Complete Response (CR + CRu) CR CRu Partial Response (PR) | 34 (26) 9 (7) 1 (1) 8 (6) 25 (19) | (18.4, 33.9) (3.1, 12.5) |
+| Duration of Response (months) | Median | 95% CI |
+| Duration of Overall Response (CR + CRu + PR) (N = 34) | 16.6 | (7.7, 26.7) |

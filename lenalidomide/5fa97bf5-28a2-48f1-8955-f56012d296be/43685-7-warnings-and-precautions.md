@@ -58,7 +58,32 @@ A significantly increased risk of DVT and PE was observed in patients with multi
 It is not known whether prophylactic anticoagulation or antiplatelet therapy prescribed in conjunction with REVLIMID may lessen the potential for venous thromboembolism.
 The decision to take prophylactic measures should be done carefully after an assessment of an individual patient’s underlying risk factors.
 
-## 5.5 Allergic Reactions
+## 5.5 Increased Mortality in Patients with CLL
+
+In a prospective randomized (1:1) clinical trial in the first line treatment of patients with chronic lymphocytic leukemia, single agent REVLIMID therapy increased the risk of death as compared to single agent chlorambucil.
+In an interim analysis, there were 34 deaths among 210 patients on the REVLIMID treatment arm compared to 18 deaths among 211 patients in the chlorambucil treatment arm, and hazard ratio for overall survival was 1.92 [95% CI: 1.08 – 3.41], consistent with a 92% increase in the risk of death.
+The trial was halted for safety in July 2013.
+
+Serious adverse cardiovascular reactions, including atrial fibrillation, myocardial infarction, and cardiac failure occurred more frequently in the REVLIMID treatment arm.
+REVLIMID is not indicated and not recommended for use in CLL outside of controlled clinical trials.
+
+## 5.6 Second Primary Malignancies
+
+Patients with multiple myeloma treated with lenalidomide in studies including melphalan and stem cell transplantation had a higher incidence of second primary malignancies, particularly acute myelogenous leukemia (AML) and Hodgkin lymphoma, compared to patients in the control arms who received similar therapy but did not receive lenalidomide.
+Monitor patients for the development of second malignancies.
+Take into account both the potential benefit of lenalidomide and the risk of second primary malignancies when considering treatment with lenalidomide.
+
+## 5.7 Hepatotoxicity
+
+Hepatic failure, including fatal cases, has occurred in patients treated with lenalidomide in combination with dexamethasone.
+In clinical trials, 15% of patients experienced hepatotoxicity (with hepatocellular, cholestatic and mixed characteristics); 2% of patients with multiple myeloma and 1% of patients with myelodysplasia had serious hepatotoxicity events.
+The mechanism of drug-induced hepatotoxicity is unknown.
+Pre-existing viral liver disease, elevated baseline liver enzymes, and concomitant medications may be risk factors.
+Monitor liver enzymes periodically.
+Stop REVLIMID upon elevation of liver enzymes.
+After return to baseline values, treatment at a lower dose may be considered.
+
+## 5.8 Allergic Reactions
 
 Angioedema and serious dermatologic reactions including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported.
 These events can be fatal.
@@ -69,16 +94,16 @@ REVLIMID must be discontinued for angioedema, Grade 4 rash, exfoliative or bullo
 REVLIMID capsules contain lactose.
 Risk-benefit of REVLIMID treatment should be evaluated in patients with lactose intolerance.
 
-## 5.6 Tumor Lysis Syndrome
+## 5.9 Tumor Lysis Syndrome
 
 Fatal instances of tumor lysis syndrome have been reported during treatment with lenalidomide.
 The patients at risk of tumor lysis syndrome are those with high tumor burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
 
-## 5.7 Tumor Flare Reaction
+## 5.10 Tumor Flare Reaction
 
 Tumor flare reaction has occurred during investigational use of lenalidomide for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
-Treatment of CLL or lymphoma with lenalidomide outside of a well-monitored clinical trial is discouraged.
+REVLIMID is not indicated and not recommended for use in CLL outside of controlled clinical trials.
 
 Monitoring and evaluation for tumor flare reaction (TFR) is recommended in patients with MCL.
 Tumor flare reaction may mimic progression of disease (PD).
@@ -88,19 +113,3 @@ Lenalidomide may be continued in patients with Grade 1 and 2 TFR without interru
 Patients with Grade 1 and 2 TFR may also be treated with corticosteroids, non-steroidal anti-inflammatory drugs (NSAIDs) and/or narcotic analgesics for management of TFR symptoms.
 In patients with Grade 3 or 4 TFR, it is recommended to withhold treatment with lenalidomide until TFR resolves to ≤ Grade 1.
 Patients with Grade 3 or 4 TFR may be treated for management of symptoms per the guidance for treatment of Grade 1 and 2 TFR.
-
-## 5.8 Hepatotoxicity
-
-Hepatic failure, including fatal cases, has occurred in patients treated with lenalidomide in combination with dexamethasone.
-In clinical trials, 15% of patients experienced hepatotoxicity (with hepatocellular, cholestatic and mixed characteristics); 2% of patients with multiple myeloma and 1% of patients with myelodysplasia had serious hepatotoxicity events.
-The mechanism of drug-induced hepatotoxicity is unknown.
-Pre-existing viral liver disease, elevated baseline liver enzymes, and concomitant medications may be risk factors.
-Monitor liver enzymes periodically.
-Stop Revlimid upon elevation of liver enzymes.
-After return to baseline values, treatment at a lower dose may be considered.
-
-## 5.9 Second Primary Malignancies
-
-Patients with multiple myeloma treated with lenalidomide in studies including melphalan and stem cell transplantation had a higher incidence of second primary malignancies, particularly acute myelogenous leukemia (AML) and Hodgkin lymphoma, compared to patients in the control arms who received similar therapy but did not receive lenalidomide.
-Monitor patients for the development of second malignancies.
-Take into account both the potential benefit of lenalidomide and the risk of second primary malignancies when considering treatment with lenalidomide.

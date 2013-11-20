@@ -11,6 +11,7 @@ REVLIMID is a thalidomide analogue.
 
 Thalidomide is a human teratogen, inducing a high frequency of severe and life-threatening birth defects such as amelia (absence of limbs), phocomelia (short limbs), hypoplasticity of the bones, absence of bones, external ear abnormalities (including anotia, micropinna, small or absent external auditory canals), facial palsy, eye abnormalities (anophthalmos, microphthalmos), and congenital heart defects.
 Alimentary tract, urinary tract, and genital malformations have also been documented and mortality at or shortly after birth has been reported in about 40% of infants.
+
 Lenalidomide caused thalidomide-type limb defects in monkey offspring.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
 
@@ -84,7 +85,9 @@ If menstrual cycles are irregular, the pregnancy testing should occur every 2 we
 Pregnancy testing and counseling should be performed if a patient misses her period or if there is any abnormality in her menstrual bleeding.
 REVLIMID treatment must be discontinued during this evaluation.
 
-Males Lenalidomide is present in the semen of males who take REVLIMID.
+Males
+
+Lenalidomide is present in the semen of males who take REVLIMID.
 Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID, during dose interruptions and for up to 28 days after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
 Male patients taking REVLIMID must not donate sperm
 

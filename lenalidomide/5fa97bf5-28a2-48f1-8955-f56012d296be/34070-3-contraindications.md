@@ -10,4 +10,4 @@ If this drug is used during pregnancy or if the patient becomes pregnant while t
 
 ## 4.2 Allergic Reactions
 
-REVLIMID is contraindicated in patients who have demonstrated hypersensitivity (e.g., angioedema, Stevens-Johnson syndrome, toxic epidermal necrolysis) to lenalidomide [see Warnings and precautions (5.5)].
+REVLIMID is contraindicated in patients who have demonstrated hypersensitivity (e.g., angioedema, Stevens-Johnson syndrome, toxic epidermal necrolysis) to lenalidomide [see Warnings and Precautions (5.5)].
