@@ -8,6 +8,7 @@ The onset of pseudomembranous colitis symptoms may occur during or after antibac
 Hypersensitivity Reactions: Generalized mild to moderate morbilliform-like (maculopapular) skin rashes are the most frequently reported adverse reactions.
 Vesiculobullous rashes, as well as urticaria, have been observed during drug therapy.
 Rare instances of erythema multiforme, some resembling Stevens-Johnson syndrome, and a few cases of anaphylactoid reactions have also been reported.
+Acute Generalised Exanthematous Pustulosis (AGEP)
 
 Skin and Mucous Membranes: Pruritus, vaginitis, and rare instances of exfoliative dermatitis have been reported.
 (See Hypersensitivity Reactions.)
@@ -19,5 +20,7 @@ Renal: Although no direct relationship of clindamycin to renal damage has been e
 Hematopoietic: Transient neutropenia (leukopenia) and eosinophilia have been reported.
 Reports of agranulocytosis and thrombocytopenia have been made.
 No direct etiologic relationship to concurrent clindamycin therapy could be made in any of the foregoing.
+
+Immune system: Drug reaction with eosinophilia and systemic symptoms (DRESS)
 
 Musculoskeletal: Rare instances of polyarthritis have been reported.
