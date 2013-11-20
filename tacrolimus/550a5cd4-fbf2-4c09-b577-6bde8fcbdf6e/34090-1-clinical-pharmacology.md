@@ -35,9 +35,9 @@ Pharmacokinetic Parameters of ASTAGRAF XL Once Daily in Healthy Subjects and in 
 |  | Day 14 | 1.27(1.03 - 1.57) |  | 1.21(1.02 - 1.42) | 0.99 (0.82 - 1.20) |  |  |
 | Adult Kidney (≥ 6 months post-transplant) | 60 | 5.2 mg/daySame daily dose of ASTAGRAF XL for 14 day period | Day 14 | 16.1 ± 5.3 | 2.0 [1.0 - 6.0] | 222 ± 64 | 6.7 ± 1.9The correlation coefficient of AUC24 to Cmin r= 0.88 |
 
-In de novo adult kidney transplant recipients, the tacrolimus systemic exposure, as assessed by dose-adjusted AUC24, for ASTAGRAF XL once daily on Day 1 post-transplant was 16% lower when compared with Prograf twice daily.
-By Day 3 post-transplant, the dose-adjusted AUC24 was similar between the two formulations.
-On Day 14, the dose-adjusted AUC24 was 21% higher than Prograf, at comparable trough concentrations (C24).
+In de novo adult kidney transplant recipients, the tacrolimus systemic exposure, as assessed by AUC24, for ASTAGRAF XL once daily on Day 1 post-transplant was 16% lower when compared with Prograf twice daily.
+By Day 3 post-transplant, the AUC24 was similar between the two formulations.
+On Day 14, the AUC24 was 21% higher than Prograf, at comparable trough concentrations (C24).
 
 Due to intersubject variability in tacrolimus pharmacokinetics, individualization of dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.5)].
 

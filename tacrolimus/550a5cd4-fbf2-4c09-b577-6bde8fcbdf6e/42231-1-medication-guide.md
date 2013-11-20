@@ -180,6 +180,6 @@ Manufactured by: Astellas Ireland Co., Limited Killorglin, County Kerry, Ireland
 
 Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-Issued: July 2013 11K084-ADV-MG
+Revised: October 2013 13I060-AST-MG
 
 Product of Japan

@@ -11,7 +11,8 @@ The following serious and otherwise important adverse drug reactions are discuss
 - •Neurotoxicity [see Warnings and Precautions (5.10)]
 - •Hyperkalemia [see Warnings and Precautions (5.11)]
 - •Hypertension [see Warnings and Precautions (5.12)]
-- •Pure Red Cell Aplasia [see Warnings and Precautions (5.16)]
+- •Pure Red Cell Aplasia [see Warnings and Precautions (5.17)]
+- •Gastrointestinal Perforation [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -20,7 +21,7 @@ In addition, the clinical trials were not designed to establish comparative diff
 
 The data described below reflect exposure to ASTAGRAF XL in 545 renal transplant recipients exposed to ASTAGRAF XL for periods up to two years [see Clinical Studies (14)].
 
-The most frequent diseases leading to transplantation were glomerulonephritis, polycystic kidney disease nephrosclerosis/hypertensive nephropathy, and diabetic nephropathy in both studies.
+The most frequent diseases leading to transplantation were glomerulonephritis, polycystic kidney disease, nephrosclerosis/hypertensive nephropathy, and diabetic nephropathy in both studies.
 Study 1: With Basiliximab Induction
 
 The proportion of patients who discontinued treatment due to adverse reactions was 9% in the ASTAGRAF XL arm and 11% in the Prograf control arm through 12 months of treatment.
@@ -35,7 +36,7 @@ The most common (≥30%) adverse reaction observed in the ASTAGRAF XL group was 
 Information on selected significant adverse reactions observed during Studies 1 and 2 are summarized below.
 New Onset Diabetes After Transplant (NODAT)
 
-New onset diabetes after transplantation (defined by the composite occurrence of ≥ 2 fasting plasma glucose values that were > 126 mg/dL at ≥ 30 days apart, insulin use for ≥ 30 consecutive days, oral hypoglycemic use for ≥ 30 consecutive days, oral hypoglycemic use for ≥ 30 consecutive days, and/or HbA1C ≥ 6.5%) is summarized in Table 2 below for Study 1 and Study 2 through one year post-transplant.
+New onset diabetes after transplantation (defined by the composite occurrence of ≥ 2 fasting plasma glucose values that were > 126 mg/dL at ≥ 30 days apart, insulin use for ≥ 30 consecutive days, oral hypoglycemic use for ≥ 30 consecutive days, and/or HbA1C ≥ 6.5%) is summarized in Table 2 below for Study 1 and Study 2 through one year post-transplant.
 
 Table 2.
 Composite NODAT Through 1 Year Post-Transplant in Studies 1 and 2
@@ -165,13 +166,13 @@ The following adverse reactions have been reported from worldwide marketing expe
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Blood and Lymphatic System Disorders
 
-Agranulocytosis, decreased blood fibrinogen, disseminated intravascular coagulation, hemolytic uremic syndrome, prolonged activated partial thromboplastin time, pure red cell aplasia [see Warnings and Precautions (5.16)], thrombotic thrombocytopenic purpura Cardiac Disorders
+Agranulocytosis, decreased blood fibrinogen, disseminated intravascular coagulation, hemolytic uremic syndrome, prolonged activated partial thromboplastin time, pure red cell aplasia [see Warnings and Precautions (5.17)], thrombotic thrombocytopenic purpura Cardiac Disorders
 
 QT prolongation, supraventricular extrasystoles, supraventricular tachycardia, Torsade de Pointes, ventricular fibrillation Eye Disorders
 
 Blindness, photophobia, optic atrophy Gastrointestinal Disorders
 
-Dysphagia, gastrointestinal perforation, intestinal obstruction, peritonitis General Disorders
+Dysphagia, gastrointestinal perforation [see Warnings and Precautions (5.18)], intestinal obstruction, peritonitis General Disorders
 
 Multi-organ failure Hepatobiliary Disorders
 

@@ -11,7 +11,7 @@ Tacrolimus given orally to pregnant rabbits at 0.5 times the maximum clinical do
 ASTAGRAF XL should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
 In pregnant rabbits, tacrolimus at oral doses of 0.32 and 1.0 mg/kg (0.5 and 1.6 times the maximum clinical dose based on body surface area, respectively) was associated with maternal toxicity as well as an increased incidence of abortions.
-At the 1 mg/kg dose, fetal rabbits showed an increased incidence of malformations (ventricular hypoplasia, interventricular septal defect, bulbous aortic arch, stenosis of ductus arteriosis, interrupted ossification of vertebral arch, vertebral and rib malformations, omphalocele, and gallbladder agenesis) and developmental variations.
+At the 1 mg/kg dose, fetal rabbits showed an increased incidence of malformations (ventricular hypoplasia, interventricular septal defect, bulbous aortic arch, stenosis of ductus arteriosus, interrupted ossification of vertebral arch, vertebral and rib malformations, omphalocele, and gallbladder agenesis) and developmental variations.
 In pregnant rats, tacrolimus at oral doses of 3.2 mg/kg (2.6 times the maximum clinical dose) was associated with maternal toxicity, an increase in late resorptions, decreased numbers of live births, and decreased pup weight and viability.
 Tacrolimus, given orally to pregnant rats after organogenesis and during lactation at 1.0 and 3.2 mg/kg (0.8 and 2.6 times the maximum recommended clinical dose, respectively) was associated with reduced pup weights and pup viability (3.2 mg/kg only); among the high dose pups that died early, an increased incidence of kidney hydronephrosis was observed.
 

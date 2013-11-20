@@ -48,7 +48,7 @@ Pregnant Women and Nursing Mothers
 
 Instruct patients to tell their healthcare provider if they plan to become pregnant or breast-feed their infant [see Use in Specific Populations (8.1, 8.3)] Immunizations
 
-Inform patients that ASTAGRAF XL can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.15)].
+Inform patients that ASTAGRAF XL can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.16)].
 Rx only
 
 Product of Japan
@@ -57,4 +57,4 @@ Manufactured by: Astellas Ireland Co., Limited Killorglin, County Kerry, Ireland
 
 Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-Date: July 2013 11K084-ADV
+Date: October 2013 13I060-AST

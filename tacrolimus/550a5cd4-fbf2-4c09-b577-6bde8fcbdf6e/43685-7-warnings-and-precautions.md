@@ -91,7 +91,7 @@ This syndrome is characterized by reversal of symptoms upon reduction or discont
 
 Coma and delirium, in the absence of PRES, have also been associated with high plasma concentrations of tacrolimus.
 Seizures have occurred in patients receiving tacrolimus [see Adverse Reactions (6.2)].
-Other less severe neurotoxicities, include tremors, parathesias, headache, and other changes in motor function, mental status, and sensory function have also been reported [see Adverse Reactions (6.1)].
+Other less severe neurotoxicities, include tremors, paresthesias, headache, and other changes in motor function, mental status, and sensory function have also been reported [see Adverse Reactions (6.1)].
 Tremor and headache have been associated with high whole-blood concentrations of tacrolimus and may respond to dosage adjustment.
 
 ## 5.11 Hyperkalemia
@@ -110,22 +110,33 @@ Calcium-channel blocking agents may increase tacrolimus blood concentrations and
 
 The use of ASTAGRAF XL with sirolimus is not recommended in kidney transplant patients.
 Use of sirolimus with tacrolimus in studies of de novo liver transplant recipients was associated with an excess mortality, graft loss and hepatic artery thrombosis (HAT).
-Use of sirolimus with tacrolimus in heart transplant patients was associated with an increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diaebetes mellitus.
+Use of sirolimus with tacrolimus in heart transplant patients was associated with an increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus.
 
-## 5.14 Use with CYP3A Inhibitors and Inducers Including Those That Prolong QT
+## 5.14 Use with CYP3A Inhibitors and Inducers
 
-When coadministering ASTAGRAF XL with strong CYP3A-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong CYP3A inducers (e.g., rifampin, rifabutin) adjustments in the dosing regimen of tacrolimus and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
+When coadministering ASTAGRAF XL with strong CYP3A-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong CYP3A inducers (e.g., rifampin, rifabutin), adjustments in the dosing regimen of ASTAGRAF XL and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
 
-When coadministering ASTAGRAF XL with other substrates and/or inhibitors of CYP3A that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
-Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation.
+## 5.15 QT Prolongation
 
-## 5.15 Immunizations
+ASTAGRAF XL may prolong the QT/QTc interval and may cause Torsade de Pointes.
+Avoid ASTAGRAF XL in patients with congenital long QT syndrome.
+In patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other medicinal products that lead to QT prolongation, and those with electrolyte disturbances such as hypokalemia, hypocalcemia, or hypomagnesemia, consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment.
+
+When coadministering ASTAGRAF XL with other substrates and/or inhibitors of CYP3A that also have the potential to prolong the QT interval, a reduction in ASTAGRAF XL dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
+Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation [see Drug Interactions (7)].
+
+## 5.16 Immunizations
 
 The use of live vaccines should be avoided during treatment with ASTAGRAF XL; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
 
-## 5.16 Pure Red Cell Aplasia
+## 5.17 Pure Red Cell Aplasia
 
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with tacrolimus.
 A mechanism for tacrolimus-induced PRCA has not been elucidated.
 All patients reported risk factors for PRCA such as parvovirus B19 infection, underlying disease, or concomitant medications associated with PRCA.
 If PRCA is diagnosed, discontinuation of ASTAGRAF XL should be considered.
+
+## 5.18 Gastrointestinal Perforation
+
+Gastrointestinal perforation has been reported in patients treated with tacrolimus; all reported cases were considered to be a complication of transplant surgery or accompanied by infection, diverticulum, or malignant neoplasm.
+As gastrointestinal perforation may be serious or life-threatening, appropriate medical/surgical management should be instituted promptly [see Adverse Reactions (6.2)].

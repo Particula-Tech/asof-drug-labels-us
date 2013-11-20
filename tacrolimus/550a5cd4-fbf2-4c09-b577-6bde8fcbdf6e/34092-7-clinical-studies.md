@@ -42,7 +42,7 @@ Table 8 shows the observed tacrolimus whole blood trough concentrations measured
 In Study 1, the protocol-specified target tacrolimus whole blood trough concentrations (Ctrough) were 7-16 ng/mL for the first three months and 5-15 ng/mL thereafter.
 
 Approximately 80% of ASTAGRAF XL patients maintained tacrolimus whole trough blood concentrations between 5 to 17 ng/mL during Months 1 through 2 and, then, between 4 to 12 ng/mL from Months 3 through 12.
-In Study 2, the protocol-specified target tacrolimus whole blood trough concentrations (Ctrough) were 10-15 ng/mL during the first month, 5-15 ng/mL from Month 2 to Month 6, and 5-15 ng/mL thereafter.
+In Study 2, the protocol-specified target tacrolimus whole blood trough concentrations (Ctrough) were 10-15 ng/mL during the first month, 5-15 ng/mL from Month 2 to Month 6, and 5-10 ng/mL thereafter.
 Approximately 80% of ASTAGRAF XL patients maintained tacrolimus whole trough blood concentrations between 6 to 20 ng/mL during Months 1 through 2 and, then between 6 to 14 ng/mL from Months 3 through 12.
 
 Table 8.
