@@ -1,4 +1,4 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -28,13 +28,23 @@ Information on the registry can also be found at the website http://www.aedpregn
 ## 8.3 Nursing Mothers
 
 Vigabatrin is excreted in human milk.
-Because of the potential for serious adverse reactions from vigabatrin in nursing infants [see WARNINGS AND PRECAUTIONS, MRI Abnormalities (5.3) and Neurotoxicity (5.4)], a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions from vigabatrin in nursing infants a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Warnings and Precautions (5.3) and (5.4)].
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of SABRIL in pediatric patients (<16 years of age) with CPS has not been established.
+The safety and effectiveness of SABRIL as adjunctive treatment of refractory complex partial seizures in pediatric patients aged 10 to 16 years of age have been established [see Clinical Studies (14.1)].
+The dosing recommendation in this population varies according to age group and is weight based [see Dosage and Administration (2.2)].
+Adverse reactions in this pediatric population are similar to those observed in the adult population [see Adverse Reactions, (6.1)].
 
-Abnormal MRI signal changes were observed in infants [see WARNINGS AND PRECAUTIONS, MRI Abnormalities (5.3) and Neurotoxicity (5.4)].
+The safety and effectiveness of SABRIL have not been established in pediatric patients under 10 years of age with refractory complex partial seizures.
+
+The safety and effectiveness of SABRIL as monotherapy for pediatric patients with infantile spasms (1 month to 2 years of age) have been established [see Dosage and Administration (2.3) and Clinical Studies (14.2)].
+
+Duration of therapy for infantile spasms was evaluated in a post hoc analysis of a Canadian Pediatric Epilepsy Network (CPEN) study of developmental outcomes in infantile spasms patients.
+This analysis suggests that a total duration of 6 months of vigabatrin therapy is adequate for the treatment of infantile spasms.
+However, prescribers must use their clinical judgment as to the most appropriate duration of use [see Clinical Studies (14.2)].
+
+Abnormal MRI signal changes were observed in infants [see Warnings and Precautions (5.3) and (5.4)].
 
 Oral administration of vigabatrin (5, 15, or 50 mg/kg) to young rats during the neonatal and juvenile periods of development (postnatal days 4-65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain vacuolation, decreased myelination, and retinal dysplasia) abnormalities in treated animals.
 The no-effect dose for developmental neurotoxicity in juvenile rats (5 mg/kg) was associated with plasma vigabatrin exposures (AUC) less than 1/30 of those measured in pediatric patients receiving an oral dose of 50 mg/kg.
@@ -49,10 +59,10 @@ Because elderly patients are more likely to have decreased renal function, care 
 Oral administration of a single dose of 1.5 g of vigabatrin to elderly (>65 years) patients with reduced creatinine clearance (<50 mL/min) was associated with moderate to severe sedation and confusion in 4 of 5 patients, lasting up to 5 days.
 The renal clearance of vigabatrin was 36% lower in healthy elderly subjects (>65 years) than in young healthy males.
 Adjustment of dose or frequency of administration should be considered.
-Such patients may respond to a lower maintenance dose [see CLINICAL PHARMACOLOGY, Pharmacokinetics, Renal Impairment (12.3) and DOSAGE AND ADMINISTRATION, Patients with Renal Impairment (2.2)].
+Such patients may respond to a lower maintenance dose [see Clinical Pharmacology (12.3) and Dosage and Administration (2.4)].
 
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 ## 8.6 Renal Impairment
 
-Dose adjustment, including initiating treatment with a lower dose, is necessary in patients with mild (creatinine clearance >50-80 mL/min), moderate (creatinine clearance >30-50 mL/min) and severe (creatinine clearance >10-30 mL/min) renal impairment [see CLINICAL PHARMACOLOGY, Pharmacokinetics, Renal Impairment (12.3) and DOSAGE AND ADMINISTRATION, Patients with Renal Impairment (2.2)].
+Dose adjustment, including initiating treatment with a lower dose, is necessary in pediatric patients 10 years of age and older and adults with mild (creatinine clearance >50-80 mL/min), moderate (creatinine clearance >30-50 mL/min) and severe (creatinine clearance >10-30 mL/min) renal impairment [see Clinical Pharmacology (12.3) and Dosage and Administration (2.4)].

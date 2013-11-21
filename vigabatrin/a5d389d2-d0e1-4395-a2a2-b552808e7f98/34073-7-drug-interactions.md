@@ -1,26 +1,19 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
-For detailed information about Drug Interactions see CLINICAL PHARMACOLOGY, Pharmacokinetics, Drug Interactions (12.3).
+## 7.1 Antiepileptic Drugs
 
-## 7.1 Phenytoin
+Phenytoin Although phenytoin dose adjustments are not routinely required, dose adjustment of phenytoin should be considered if clinically indicated, since SABRIL may cause a moderate reduction in total phenytoin plasma levels [see Clinical Pharmacology (12.3)].
 
-A 16% to 20% average reduction in total phenytoin plasma levels was reported in controlled clinical studies.
+Clonazepam SABRIL may moderately increase the Cmax of clonazepam resulting in an increase of clonazepam-associated adverse reactions [see Clinical Pharmacology (12.3)].
 
-## 7.2 Other AEDs
+Other AEDs There are no clinically significant pharmacokinetic interactions between SABRIL and either phenobarbital or sodium valproate.
+Based on population pharmacokinetics, carbamazepine, clorazepate, primidone, and sodium valproate appear to have no effect on plasma concentrations of vigabatrin [see Clinical Pharmacology (12.3)].
 
-There are no clinically significant pharmacokinetic interactions between SABRIL and either phenobarbital or sodium valproate.
-Based on population pharmacokinetics, carbamazepine, clorazepate, primidone, and sodium valproate appear to have no effect on plasma concentrations of vigabatrin.
+## 7.2 Oral Contraceptives
 
-## 7.3 Clonazepam
+SABRIL is unlikely to affect the efficacy of steroid oral contraceptives [see Clinical Pharmacology (12.3)].
 
-In a study of 12 healthy volunteers, clonazepam (0.5 mg) co-administration had no effect on SABRIL (1.5 g twice daily) concentrations.
-SABRIL increases the mean Cmax of clonazepam by 30% and decreases the mean tmax by 45%.
-
-## 7.4 Oral Contraceptives
-
-SABRIL is unlikely to affect the efficacy of steroid oral contraceptives.
-
-## 7.5 Drug-Laboratory Test Interactions
+## 7.3 Drug-Laboratory Test Interactions
 
 SABRIL decreases alanine transaminase (ALT) and aspartate transaminase (AST) plasma activity in up to 90% of patients.
 In some patients, these enzymes become undetectable.

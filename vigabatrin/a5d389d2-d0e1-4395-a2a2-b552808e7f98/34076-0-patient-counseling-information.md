@@ -1,51 +1,43 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.5)
+See FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Patients must be informed of the availability of a Medication Guide.
-Patients must be instructed to read the Medication Guide prior to initiating treatment with SABRIL and with each prescription refill.
-Doctors must review the SABRIL Medication Guide with every patient prior to initiation of treatment.
-Patients should be instructed to take SABRIL only as prescribed.
+Vision Loss Patients and caregivers should be informed of the risk of permanent vision loss, particularly loss of peripheral vision, from SABRIL, and the need for monitoring vision [see Warnings and Precautions, (5.1)].
 
-## 17.1 Vision Loss
+Monitoring of vision, including assessment of visual fields and visual acuity, is required at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months while on therapy unless formally exempted as documented by the prescriber.
+In patients for whom vision testing is not possible, treatment may continue according to clinical judgment with appropriate patient or caregiver counseling and with documentation in the SHARE program of the inability to test vision.
+Patients or caregivers should be informed that if baseline or subsequent vision is not normal, SABRIL should only be used if the benefits of SABRIL treatment clearly outweigh the risks of additional vision loss.
 
-Patients should be informed of the risk of permanent vision loss, particularly loss of peripheral vision, from SABRIL, and the need for monitoring vision [see WARNINGS AND PRECAUTIONS, Vision Loss (5.1)].
-
-Monitoring of vision, including assessment of visual fields and visual acuity, is required for adults at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months while on therapy unless after repeated attempts it is not possible.
-In those patients in whom vision testing is not possible, treatment may continue according to clinical judgment with appropriate patient counseling and with documentation in the SHARE program of the inability to test vision.
-Patients should be informed that if baseline or subsequent vision is not normal, SABRIL should only be used if the benefits of SABRIL treatment clearly outweigh the risks of additional vision loss.
-
-Patients should understand that vision testing may be insensitive and may not detect vision loss before it is severe.
+Patients and caregivers should understand that vision testing may be insensitive and may not detect vision loss before it is severe.
 Patients should also understand that if vision loss is documented, such loss is irreversible.
 
-Patients should be informed that if changes in vision are suspected, they should notify their physician immediately.
+Patients and caregivers should be informed that if changes in vision are suspected, they should notify their physician immediately.
 
-## 17.2 Suicidal Thinking and Behavior
+SABRIL SHARE Program SABRIL is available only through a restricted program called SABRIL SHARE Program [see Warnings and Precautions (5.2)].
+Inform patients of the following requirements:
 
-Patients, their caregiver(s), and families should be counseled that AEDs, including SABRIL, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
-Behaviors of concern should be reported immediately to healthcare providers [see WARNINGS AND PRECAUTIONS, Suicidal Behavior and Ideation (5.5)].
+- Patients must sign a Patient/Parent/Legal Guardian - Physician Agreement Form.
+- Patients must read the Medication Guide and understand the risk.
+- SABRIL is available through pharmacies that are enrolled in the SHARE Program and provide them with the telephone number and website for information on how to obtain.
+- Physicians should confirm that caregiver(s) understand how to mix SABRIL for Oral Solution and to administer the correct dose to their infants.
 
-## 17.3 Use in Pregnancy
+MRI Abnormalities in Infants Caregiver(s) should be informed of the possibility that infants may develop an abnormal MRI signal of unknown clinical significance [see Warnings and Precautions (5.3)].
 
-Patients should be instructed to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see USE IN SPECIFIC POPULATIONS, Pregnancy (8.1), and Nursing Mothers (8.3)].
+Suicidal Thinking and Behavior Patients, their caregiver(s), and families should be counseled that AEDs, including SABRIL, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
+Behaviors of concern should be reported immediately to healthcare providers [see Warnings and Precautions (5.5)].
+
+Use in Pregnancy Patients should be instructed to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.3)].
 
 Patients should be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see USE IN SPECIFIC POPULATIONS, Pregnancy (8.1)].
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+To enroll, patients can call the toll free number 1-888-233-2334.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/[see Use in Specific Populations (8.1)].
 
-## 17.4 Withdrawal of SABRIL Therapy
-
-Patients should be told not to suddenly discontinue SABRIL therapy.
-As with all AEDs, withdrawal should be gradual.
-In controlled clinical studies in adults with CPS, vigabatrin was tapered by decreasing the daily dose 1 g/day on a weekly basis until discontinued.
-
-## 17.5 FDA-Approved Medication Guide
+Withdrawal of SABRIL Therapy Patients and caregivers should be told not to suddenly discontinue SABRIL therapy.
+As with all AEDs, withdrawal should be gradual [see Warnings and Precautions (5.6)].
 
 Manufactured by: Patheon Cincinnati, OH 45237, U.S.A.
 
 For: Lundbeck Deerfield, IL 60015, U.S.A.
 
-® Trademark of Lundbeck
-
-Revised: December 2012
+SABRIL is a registered trademark of Lundbeck

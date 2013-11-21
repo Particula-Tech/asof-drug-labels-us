@@ -1,145 +1,235 @@
 # 6 ADVERSE REACTIONS
 
-SABRIL causes permanent damage to vision in a high percentage of patients [see BOXED WARNING: VISION LOSS and WARNINGS AND PRECAUTIONS, Vision Loss (5.1)].
+The following adverse reactions are discussed in more detail in other sections of the prescribing information:
 
-## 6.1 Adverse Reactions in Clinical Trials
+- Vision Loss [see BOXED WARNING and Warnings and Precautions (5.1)]
+- Magnetic Resonance Imaging (MRI) Abnormalities in Infants [see Warnings and Precautions (5.3)]
+- Neurotoxicity [see Warnings and Precautions (5.4)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
+- Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.6)]
+- Anemia [see Warnings and Precautions (5.7)]
+- Somnolence and Fatigue [see Warnings and Precautions (5.8)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.9)]
+- Weight Gain [see Warnings and Precautions (5.10)]
+- Edema [see Warnings and Precautions (5.11)]
+
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Adverse Reactions in U.S. and Primary Non-U.S.
-Clinical Studies
+Clinical Studies In U.S. and primary non-U.S. clinical studies of 4,079 SABRIL treated patients, the most commonly observed (≥5%) adverse reactions associated with the use of SABRIL in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight increased, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, coordination abnormal, vision blurred, diplopia, vomiting, influenza, pyrexia, and rash.
 
-In U.S. and primary non-U.S. clinical studies of 4,079 SABRIL treated patients, the most commonly observed (≥ 5%) adverse reactions associated with the use of SABRIL in combination with other AEDs were headache (18%), somnolence (17%), fatigue (16%), dizziness (15%), convulsion (11%), nasopharyngitis (10%), weight increased (10%), upper respiratory tract infection (10%), visual field defect (9%), depression (8%), tremor (7%), nystagmus (7%), nausea (7%), diarrhea (7%), memory impairment (7%), insomnia (7%), irritability (7%), coordination abnormal (7%), vision blurred (6%), diplopia (6%), vomiting (6%), influenza (6%), pyrexia (6%), and rash (6%).
+The adverse reactions most commonly associated with SABRIL treatment discontinuation in ≥1% of patients were convulsion and depression.
 
-The adverse reactions most commonly associated with SABRIL treatment discontinuation in ≥ 1% of patients were convulsion (1.4%) and depression (1.5%).
+In patients with infantile spasms, the adverse reactions most commonly associated with SABRIL treatment discontinuation in ≥1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight increased, and insomnia.
 
 Most Common Adverse Reactions in Controlled Clinical Trials
 
-Refractory Complex Partial Seizures in Adults
+Refractory Complex Partial Seizures Adults Table 5 lists the treatment emergent adverse reactions that occurred in ≥2% and more than one patient per SABRIL treated group and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory CPS in adults.
 
-Table 2 lists the treatment emergent adverse reactions that occurred in ≥ 2% and more than one patient per SABRIL-treated group and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory CPS in adults.
-
-Table 2.
-Treatment Emergent Adverse Reactions Occurring in ≥ 2% and More than One Patient per SABRIL-Treated Group and More Frequently than in Placebo Patients (Studies 024 and 025)
-
-| Body System Preferred Term | SABRIL 3 g/day (N=134) n(%) | SABRIL 6 g/day (N=43) n(%) | Placebo (N=135) n(%) |
+| Table 5. Treatment Emergent Adverse Reactions Occurring in ≥2% and More than One Patient per SABRIL-Treated Group and More Frequently than in Placebo Patients (Studies 024 and 025) |  |  |  |
 | --- | --- | --- | --- |
+|  | SABRIL dosage (mg/day) |  |  |
+| Body System Adverse Reaction | 3000 [N=134] % | 6000 [N=43] % | Placebo [N=135] % |
 | Ear Disorders |  |  |  |
-| Tinnitus | 3 (2) | 0 (0) | 2 (1) |
-| Vertigo | 3 (2) | 2 (5) | 2 (1) |
+| Tinnitus | 2 | 0 | 1 |
+| Vertigo | 2 | 5 | 1 |
 | Eye Disorders |  |  |  |
-| Vision blurred | 18 (13) | 7 (16) | 7 (5) |
-| Diplopia | 9 (7) | 7 (16) | 4 (3) |
-| Asthenopia | 3 (2) | 1 (2) | 0 (0) |
-| Eye pain | 0 (0) | 2 (5) | 0 (0) |
+| Vision blurred | 13 | 16 | 5 |
+| Diplopia | 7 | 16 | 3 |
+| Asthenopia | 2 | 2 | 0 |
+| Eye pain | 0 | 5 | 0 |
 | Gastrointestinal Disorders |  |  |  |
-| Diarrhoea | 14 (10) | 7 (16) | 10 (7) |
-| Nausea | 13 (10) | 1 (2) | 11 (8) |
-| Vomiting | 9 (7) | 4 (9) | 8 (6) |
-| Constipation | 11 (8) | 2 (5) | 4 (3) |
-| Abdominal pain upper | 7 (5) | 2 (5) | 2 (1) |
-| Dyspepsia | 6 (4) | 2 (5) | 4 (3) |
-| Stomach discomfort | 5 (4) | 1 (2) | 1 (1) |
-| Abdominal pain | 4 (3) | 1 (2) | 2 (1) |
-| Toothache | 3 (2) | 2 (5) | 3 (2) |
-| Abdominal distension | 3 (2) | 0 (0) | 1 (1) |
+| Diarrhoea | 10 | 16 | 7 |
+| Nausea | 10 | 2 | 8 |
+| Vomiting | 7 | 9 | 6 |
+| Constipation | 8 | 5 | 3 |
+| Abdominal pain upper | 5 | 5 | 1 |
+| Dyspepsia | 4 | 5 | 3 |
+| Stomach discomfort | 4 | 2 | 1 |
+| Abdominal pain | 3 | 2 | 1 |
+| Toothache | 2 | 5 | 2 |
+| Abdominal distension | 2 | 0 | 1 |
 | General Disorders |  |  |  |
-| Fatigue | 31 (23) | 17 (40) | 21 (16) |
-| Gait disturbance | 8 (6) | 5 (12) | 9 (7) |
-| Asthenia | 7 (5) | 3 (7) | 2 (1) |
-| Oedema peripheral | 7 (5) | 3 (7) | 1 (1) |
-| Fever | 6 (4) | 3 (7) | 4 (3) |
-| Chest pain | 2 (1) | 2 (5) | 2 (1) |
-| Thirst | 3 (2) | 0 (0) | 0 (0) |
-| Malaise | 0 (0) | 2 (5) | 0 (0) |
+| Fatigue | 23 | 40 | 16 |
+| Gait disturbance | 6 | 12 | 7 |
+| Asthenia | 5 | 7 | 1 |
+| Oedema peripheral | 5 | 7 | 1 |
+| Fever | 4 | 7 | 3 |
+| Chest pain | 1 | 5 | 1 |
+| Thirst | 2 | 0 | 0 |
+| Malaise | 0 | 5 | 0 |
 | Infections |  |  |  |
-| Nasopharyngitis | 19 (14) | 4 (9) | 14 (10) |
-| Upper respiratory tract infection | 10 (7) | 4 (9) | 8 (6) |
-| Influenza | 7 (5) | 3 (7) | 5 (4) |
-| Urinary tract infection | 5 (4) | 2 (5) | 0 (0) |
-| Bronchitis | 0 (0) | 2 (5) | 2 (1) |
+| Nasopharyngitis | 14 | 9 | 10 |
+| Upper respiratory tract infection | 7 | 9 | 6 |
+| Influenza | 5 | 7 | 4 |
+| Urinary tract infection | 4 | 5 | 0 |
+| Bronchitis | 0 | 5 | 1 |
 | Injury |  |  |  |
-| Contusion | 4 (3) | 2 (5) | 3 (2) |
-| Joint sprain | 2 (1) | 1 (2) | 1 (1) |
-| Muscle strain | 1 (1) | 1 (2) | 2 (1) |
-| Wound secretion | 0 (0) | 1 (2) | 0 (0) |
+| Contusion | 3 | 5 | 2 |
+| Joint sprain | 1 | 2 | 1 |
+| Muscle strain | 1 | 2 | 1 |
+| Wound secretion | 0 | 2 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |
-| Increased appetite | 2 (1) | 2 (5) | 1 (1) |
-| Weight increased | 8 (6) | 6 (14) | 4 (3) |
+| Increased appetite | 1 | 5 | 1 |
+| Weight increased | 6 | 14 | 3 |
 | Musculoskeletal Disorders |  |  |  |
-| Arthralgia | 14 (10) | 2 (5) | 4 (3) |
-| Back pain | 6 (4) | 3 (7) | 3 (2) |
-| Pain in extremity | 8 (6) | 1 (2) | 5 (4) |
-| Myalgia | 4 (3) | 2 (5) | 2 (1) |
-| Muscle twitching | 1 (1) | 4 (9) | 2 (1) |
-| Muscle spasms | 4 (3) | 0 (0) | 1 (1) |
+| Arthralgia | 10 | 5 | 3 |
+| Back pain | 4 | 7 | 2 |
+| Pain in extremity | 6 | 2 | 4 |
+| Myalgia | 3 | 5 | 1 |
+| Muscle twitching | 1 | 9 | 1 |
+| Muscle spasms | 3 | 0 | 1 |
 | Nervous System Disorders |  |  |  |
-| Headache | 44 (33) | 11 (26) | 42 (31) |
-| Somnolence | 29 (22) | 11 (26) | 18 (13) |
-| Dizziness | 32 (24) | 11 (26) | 23 (17) |
-| Nystagmus | 17 (13) | 8 (19) | 12 (9) |
-| Tremor | 20 (15) | 7 (16) | 11 (8) |
-| Memory impairment | 9 (7) | 7 (16) | 4 (3) |
-| Coordination abnormal | 10 (7) | 7 (16) | 3 (2) |
-| Disturbance in attention | 12 (9) | 0 (0) | 1 (1) |
-| Sensory disturbance | 6 (4) | 3 (7) | 3 (2) |
-| Hyporeflexia | 6 (4) | 2 (5) | 1 (1) |
-| Paraesthesia | 9 (7) | 1 (2) | 1 (1) |
-| Lethargy | 6 (4) | 3 (7) | 3 (2) |
-| Hyperreflexia | 5 (4) | 1 (2) | 4 (3) |
-| Hypoaesthesia | 5 (4) | 2 (5) | 2 (1) |
-| Sedation | 5 (4) | 0 (0) | 0 (0) |
-| Status epilepticus | 3 (2) | 2 (5) | 0 (0) |
-| Dysarthria | 3 (2) | 1 (2) | 1 (1) |
-| Postictal state | 3 (2) | 0 (0) | 1 (1) |
-| Sensory loss | 0 (0) | 2 (5) | 0 (0) |
+| Headache | 33 | 26 | 31 |
+| Somnolence | 22 | 26 | 13 |
+| Dizziness | 24 | 26 | 17 |
+| Nystagmus | 13 | 19 | 9 |
+| Tremor | 15 | 16 | 8 |
+| Memory impairment | 7 | 16 | 3 |
+| Coordination abnormal | 7 | 16 | 2 |
+| Disturbance in attention | 9 | 0 | 1 |
+| Sensory disturbance | 4 | 7 | 2 |
+| Hyporeflexia | 4 | 5 | 1 |
+| Paraesthesia | 7 | 2 | 1 |
+| Lethargy | 4 | 7 | 2 |
+| Hyperreflexia | 4 | 2 | 3 |
+| Hypoaesthesia | 4 | 5 | 1 |
+| Sedation | 4 | 0 | 0 |
+| Status epilepticus | 2 | 5 | 0 |
+| Dysarthria | 2 | 2 | 1 |
+| Postictal state | 2 | 0 | 1 |
+| Sensory loss | 0 | 5 | 0 |
 | Psychiatric Disorders |  |  |  |
-| Irritability | 10 (7) | 10 (23) | 10 (7) |
-| Depression | 8 (6) | 6 (14) | 4 (3) |
-| Confusional state | 5 (4) | 6 (14) | 1 (1) |
-| Anxiety | 6 (4) | 0 (0) | 4 (3) |
-| Depressed mood | 7 (5) | 0 (0) | 1 (1) |
-| Thinking abnormal | 4 (3) | 3 (7) | 0 (0) |
-| Abnormal behaviour | 4 (3) | 2 (5) | 1 (1) |
-| Expressive language disorder | 2 (1) | 3 (7) | 1 (1) |
-| Nervousness | 3 (2) | 2 (5) | 3 (2) |
-| Abnormal dreams | 2 (1) | 2 (5) | 1 (1) |
+| Irritability | 7 | 23 | 7 |
+| Depression | 6 | 14 | 3 |
+| Confusional state | 4 | 14 | 1 |
+| Anxiety | 4 | 0 | 3 |
+| Depressed mood | 5 | 0 | 1 |
+| Thinking abnormal | 3 | 7 | 0 |
+| Abnormal behaviour | 3 | 5 | 1 |
+| Expressive language disorder | 1 | 7 | 1 |
+| Nervousness | 2 | 5 | 2 |
+| Abnormal dreams | 1 | 5 | 1 |
 | Reproductive System |  |  |  |
-| Dysmenorrhoea | 12 (9) | 2 (5) | 4 (3) |
-| Erectile dysfunction | 0 (0) | 2 (5) | 0 (0) |
+| Dysmenorrhoea | 9 | 5 | 3 |
+| Erectile dysfunction | 0 | 5 | 0 |
 | Respiratory and Thoracic Disorders |  |  |  |
-| Pharyngolaryngal pain | 10 (7) | 6 (14) | 7 (5) |
-| Cough | 3 (2) | 6 (14) | 9 (7) |
-| Pulmonary congestion | 0 (0) | 2 (5) | 1 (1) |
-| Sinus headache | 8 (6) | 1 (2) | 1 (1) |
+| Pharyngolaryngeal pain | 7 | 14 | 5 |
+| Cough | 2 | 14 | 7 |
+| Pulmonary congestion | 0 | 5 | 1 |
+| Sinus headache | 6 | 2 | 1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
-| Rash | 6 (4) | 2 (5) | 6 (4) |
+| Rash | 4 | 5 | 4 |
+
+Pediatrics 10 to 16 years of age Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving SABRIL or placebo as add-on therapy for refractory complex partial seizures.
+Adverse reactions that are listed occurred in at least 2% of SABRIL treated patients and more frequently than placebo.
+The median SABRIL dose was 49.4 mg/kg, (range of 8.0 – 105.9 mg/kg).
+
+| Table 6. Treatment-Emergent Adverse Reactions Reported by ≥2% of Pediatric CPS Patients (10 to 16 years of age) Treated with SABRIL and Higher than Placebo |  |  |
+| --- | --- | --- |
+| Body System Adverse Reaction | All SABRIL [N=109] % | Placebo [N=46] % |
+| Eye Disorders |  |  |
+| Diplopia | 5 | 0 |
+| Vision blurred | 3 | 0 |
+| Gastrointestinal Disorders |  |  |
+| Diarrhoea | 6 | 2 |
+| Abdominal pain upper | 3 | 0 |
+| Constipation | 3 | 2 |
+| General Disorders |  |  |
+| Fatigue | 9 | 4 |
+| Infections and Infestations |  |  |
+| Upper respiratory tract infection | 10 | 4 |
+| Influenza | 6 | 2 |
+| Otitis media | 6 | 2 |
+| Investigations |  |  |
+| Weight increased | 17 | 2 |
+| Nervous System Disorders |  |  |
+| Somnolence | 6 | 2 |
+| Tremor | 6 | 0 |
+| Nystagmus | 5 | 2 |
+| Psychomotor hyperactivity | 4 | 2 |
+| Psychiatric Disorders |  |  |
+| Abnormal behavior | 6 | 2 |
+| Aggression | 5 | 0 |
+| Disorientation | 4 | 0 |
+| Reproduction and Breast Disorders |  |  |
+| Dysmenorrhea | 3 | 0 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Acne | 3 | 0 |
+
+Infantile Spasms In a randomized, placebo-controlled IS study with a 5 day double-blind treatment phase (n=40), the adverse events reported by >5% of patients receiving SABRIL and that occurred more frequently than in placebo patients, were somnolence (SABRIL 45%, placebo 30%), bronchitis (SABRIL 30%, placebo 15%), ear infection (SABRIL 10%, placebo 5%), and otitis media acute SABRIL 10%, placebo 0%).
+
+In a dose response study of low-dose (18-36 mg/kg/day) versus high-dose (100-148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse events was observed.
+The treatment emergent adverse reactions (≥5% in either dose group) are summarized in Table 7.
+
+| Table 7. Treatment Emergent Adverse Reactions Occurring in ≥5% of Infantile Spasms Patients |  |  |
+| --- | --- | --- |
+|  | SABRIL Low Dose | SABRIL High Dose |
+| Body System Adverse Reaction | [N=114] % | [N=108] % |
+| Eye Disorders (other than field or acuity changes) |  |  |
+| Strabismus | 5 | 5 |
+| Conjunctivitis | 5 | 2 |
+| Gastrointestinal Disorders |  |  |
+| Vomiting | 14 | 20 |
+| Constipation | 14 | 12 |
+| Diarrhea | 13 | 12 |
+| General Disorders |  |  |
+| Fever | 29 | 19 |
+| Infections |  |  |
+| Upper respiratory tract infection | 51 | 46 |
+| Otitis media | 44 | 30 |
+| Viral infection | 20 | 19 |
+| Pneumonia | 13 | 11 |
+| Candidiasis | 8 | 3 |
+| Ear infection | 7 | 14 |
+| Gastroenteritis viral | 6 | 5 |
+| Sinusitis | 5 | 9 |
+| Urinary tract infection | 5 | 6 |
+| Influenza | 5 | 3 |
+| Croup infectious | 5 | 1 |
+| Metabolism & Nutrition Disorders |  |  |
+| Decreased appetite | 9 | 7 |
+| Nervous System Disorders |  |  |
+| Sedation | 19 | 17 |
+| Somnolence | 17 | 19 |
+| Status epilepticus | 6 | 4 |
+| Lethargy | 5 | 7 |
+| Convulsion | 4 | 7 |
+| Hypotonia | 4 | 6 |
+| Psychiatric Disorders |  |  |
+| Irritability | 16 | 23 |
+| Insomnia | 10 | 12 |
+| Respiratory Disorders |  |  |
+| Nasal congestion | 13 | 4 |
+| Cough | 3 | 8 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rash | 8 | 11 |
 
 ## 6.2 Post Marketing Experience
 
-The following serious adverse events have been reported since approval and use of SABRIL worldwide.
-All serious adverse events that are not listed above as adverse events reported in clinical trials, that are not relatively common in the population and are not too vague to be useful are listed in this section.
+The following adverse reactions have been reported during post approval use of SABRIL worldwide.
+All adverse reactions that are not listed above as adverse reactions reported in clinical trials, that are not relatively common in the population and are not too vague to be useful are listed in this section.
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
-Events are categorized by system organ class.
+Adverse reactions are categorized by system organ class.
 
 Birth Defects: Congenital cardiac defects, congenital external ear anomaly, congenital hemangioma, congenital hydronephrosis, congenital male genital malformation, congenital oral malformation, congenital vesicoureteric reflux, dentofacial anomaly, dysmorphism, fetal anticonvulsant syndrome, hamartomas, hip dysplasia, limb malformation, limb reduction defect, low set ears, renal aplasia, retinitis pigmentosa, supernumerary nipple, talipes
 
-Ear: Deafness
+Ear Disorders: Deafness
 
-Endocrine: Delayed puberty
+Endocrine Disorders: Delayed puberty
 
-Gastrointestinal: Gastrointestinal hemorrhage, esophagitis
+Gastrointestinal Disorders: Gastrointestinal hemorrhage, esophagitis
 
-General: Developmental delay, facial edema, malignant hyperthermia, multi-organ failure
+General Disorders: Developmental delay, facial edema, malignant hyperthermia, multi-organ failure
 
-Hepatobiliary: Cholestasis
+Hepatobiliary Disorders: Cholestasis
 
-Nervous System: Dystonia, encephalopathy, hypertonia, hypotonia, muscle spasticity, myoclonus, optic neuritis, dyskinesia
+Nervous System Disorders: Dystonia, encephalopathy, hypertonia, hypotonia, muscle spasticity, myoclonus, optic neuritis, dyskinesia
 
-Psychiatric: Acute psychosis, apathy, delirium, hypomania, neonatal agitation, psychotic disorder
+Psychiatric Disorders: Acute psychosis, apathy, delirium, hypomania, neonatal agitation, psychotic disorder
 
-Respiratory: Laryngeal edema, pulmonary embolism, respiratory failure, stridor
+Respiratory Disorders: Laryngeal edema, pulmonary embolism, respiratory failure, stridor
 
-Skin and Subcutaneous Tissue: Angioedema, maculo-papular rash, pruritus, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN).
-Rare cases of SJS and TEN coincident with SABRIL administration have been reported.
-These reports involved the coadministration of other medications that include SJS/TEN as part of their prescribing information.
+Skin and Subcutaneous Tissue Disorders: Angioedema, maculo-papular rash, pruritus, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)
