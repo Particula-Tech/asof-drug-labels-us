@@ -308,7 +308,7 @@ Genotypic and/or phenotypic analysis of baseline virus may aid in determining da
 The effect of baseline genotype and phenotype on virologic response at 96 weeks was analyzed in as-treated analyses using pooled data from the Phase 2b studies (Studies TMC114-C213, TMC114-C202, and TMC114-C215) (n=439).
 The findings were confirmed with additional genotypic and phenotypic data from the control arms of etravirine Studies TMC125-C206 and TMC125-C216 at Week 24 (n=591).
 
-Diminished virologic responses were observed in subjects with 5 or more baseline IAS-defined primary protease inhibitor resistance-associated substitutions (D30N, V32I, L33F, M46I/L, I47A/V, G48V, I50L/V, I54L/M, L76V, V82A/F/L/S/T, I84V, N88S, L90M) (seeTable 16).
+Diminished virologic responses were observed in subjects with 5 or more baseline IAS-defined primary protease inhibitor resistance-associated substitutions (D30N, V32I, L33F, M46I/L, I47A/V, G48V, I50L/V, I54L/M, L76V, V82A/F/L/S/T, I84V, N88S, L90M) (see Table 16).
 
 Table 16: Response to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Number of IAS-Defined Primary PI Resistance-Associated Substitutions: As-treated Analysis of Studies TMC114-C213, TMC114-C202, and TMC114-C215
 
@@ -325,7 +325,7 @@ The presence at baseline of two or more of the substitutions V11I, V32I, L33F, I
 In subjects not taking enfuvirtide de novo, the proportion of subjects achieving viral load less than 50 plasma HIV-1 RNA copies/mL at 96 weeks was 59%, 29%, and 12% when the baseline genotype had 0–1, 2 and greater than or equal to 3 of these substitutions, respectively.
 
 Baseline darunavir phenotype (shift in susceptibility relative to reference) was shown to be a predictive factor of virologic outcome.
-Response rates assessed by baseline darunavir phenotype are shown inTable 17.
+Response rates assessed by baseline darunavir phenotype are shown in Table 17.
 These baseline phenotype groups are based on the select patient populations in the Studies TMC114-C213, TMC114-C202, and TMC114-C215, and are not meant to represent definitive clinical susceptibility breakpoints for PREZISTA/ritonavir.
 The data are provided to give clinicians information on the likelihood of virologic success based on pre-treatment susceptibility to darunavir.
 

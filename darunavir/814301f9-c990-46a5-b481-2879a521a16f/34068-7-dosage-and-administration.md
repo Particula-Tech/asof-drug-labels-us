@@ -67,9 +67,9 @@ Table 2: Recommended dose for pediatric patients weighing 10 kg to less than 15 
 
 Pediatric patients weighing at least 15 kg
 
-Pediatric patients weighing at least 15 kg can be dosed with PREZISTA oral tablet(s) or solution using the following table:
+Pediatric patients weighing at least 15 kg can be dosed with PREZISTA oral tablet(s) or suspension using the following table:
 
-Table 3: Recommended dose for pediatric patients weighing at least 15 kg who are treatment-naïve or treatment-experienced with no darunavir resistance associated substitionsdarunavir resistance associated substitutions: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
+Table 3: Recommended dose for pediatric patients weighing at least 15 kg who are treatment-naïve or treatment-experienced with no darunavir resistance associated substitutionsdarunavir resistance associated substitutions: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
 |  | Dose: once daily with food | Dose: once daily with food |
 | --- | --- | --- |
@@ -97,7 +97,7 @@ Table 4: Recommended dose for pediatric patients weighing 10 kg to less than 15 
 
 • Pediatric patients weighing at least 15 kg
 
-Pediatric patients weighing at least 15 kg can be dosed with PREZISTA oral tablet(s) or solution using the following table:
+Pediatric patients weighing at least 15 kg can be dosed with PREZISTA oral tablet(s) or suspension using the following table:
 
 Table 5: Recommended dose for pediatric patients weighing at least 15 kg who are treatment-experienced with at least one darunavir resistance associated substitutiondarunavir resistance associated substitutions: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 

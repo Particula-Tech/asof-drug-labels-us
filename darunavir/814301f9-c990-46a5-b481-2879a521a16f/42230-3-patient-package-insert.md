@@ -242,25 +242,13 @@ Active ingredient: darunavir
 
 Inactive ingredients:
 
-PREZISTA Oral Suspension: hydroxypropyl cellulose, microcrystalline cellulose, sodium carboxymethylcellulose, methylparaben sodium, citric acid monohydrate, sucralose, masking flavor, strawberry cream flavor,
+PREZISTA Oral Suspension: hydroxypropyl cellulose, microcrystalline cellulose, sodium carboxymethylcellulose, methylparaben sodium, citric acid monohydrate, sucralose, masking flavor, strawberry cream flavor, hydrochloric acid (for pH adjustment), purified water.
 
-hydrochloric acid (for pH adjustment), purified water.
+PREZISTA 75 mg and 150 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
+The film coating contains: OPADRY® White (polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
 
-PREZISTA 75 mg and 150 mg Tablets: colloidal silicon dioxide,
-
-crospovidone, magnesium stearate, microcrystalline cellulose.
-The film
-
-coating contains: OPADRY® White (polyethylene glycol 3350,
-
-polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
-
-PREZISTA 400 mg and 600 mg Tablets: colloidal silicon dioxide,
-
-crospovidone, magnesium stearate, microcrystalline cellulose.
-The film
-
-coating contains: OPADRY® Orange (FD&C Yellow No. 6, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
+PREZISTA 400 mg and 600 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
+The film coating contains: OPADRY® Orange (FD&C Yellow No. 6, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
 
 PREZISTA 800 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose, hypromellose.
 The film coating contains: OPADRY® Dark Red (iron oxide red, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
@@ -280,4 +268,4 @@ PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: April 2013
+Revised: November 2013

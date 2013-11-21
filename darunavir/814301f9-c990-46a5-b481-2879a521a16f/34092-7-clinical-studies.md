@@ -205,7 +205,7 @@ Selected PI(s) in the control arm included: lopinavir in 36%, (fos)amprenavir in
 Approximately 47% of all subjects used enfuvirtide, and 35% of the use was in subjects who were ENF-naïve.
 Virologic response was defined as a decrease in plasma HIV-1 RNA viral load of at least 1 log10 versus baseline.
 
-In the pooled analysis for TMC114-C213 and TMC114-C202, demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the comparator PI arm (seeTable 24).
+In the pooled analysis for TMC114-C213 and TMC114-C202, demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the comparator PI arm (see Table 24).
 Table 24 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 600/100 mg twice daily arm and subjects in the comparator PI arm in the pooled analysis of Studies TMC114-C213 and TMC114-C202.
 
 Table 24: Demographic and Baseline Characteristics of Subjects in the Studies TMC114-C213 and TMC114-C202 (Pooled Analysis)

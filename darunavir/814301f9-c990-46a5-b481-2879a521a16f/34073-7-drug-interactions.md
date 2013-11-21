@@ -5,7 +5,7 @@ See also Contraindications (4) and Clinical Pharmacology (12.3).
 ## 7.1 Potential for PREZISTA/ritonavir to Affect Other Drugs
 
 PREZISTA co-administered with ritonavir is an inhibitor of CYP3A and CYP2D6.
-Co-administration of PREZISTA and ritonavir with drugs that are primarily metabolized by CYP3A and CYP2D6 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events (seeTable 11).
+Co-administration of PREZISTA and ritonavir with drugs that are primarily metabolized by CYP3A and CYP2D6 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events (see Table 11).
 
 ## 7.2 Potential for Other Drugs to Affect Darunavir
 
@@ -71,3 +71,9 @@ Other PIs:
 
 The co-administration of PREZISTA/ritonavir and PIs other than lopinavir/ritonavir, saquinavir, atazanavir, and indinavir has not been studied.
 Therefore, such co-administration is not recommended.
+
+Integrase strand transfer inhibitors:
+
+Based on the pharmacokinetic data from literature references, either no clinically significant changes in darunavir concentrations or decreases in darunavir concentrations were observed with concomitant use of raltegravir.
+The potential decrease in darunavir concentrations does not appear to be clinically relevant.
+PREZISTA/ritonavir and raltegravir can be used without dose adjustments.
