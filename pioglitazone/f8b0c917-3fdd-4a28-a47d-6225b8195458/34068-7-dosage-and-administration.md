@@ -1,64 +1,40 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-General
+## 2.1 Recommendations for All Patients
 
-The use of antihyperglycemic therapy in the management of type 2 diabetes should be individualized on the basis of effectiveness and tolerability.
-Failure to follow an appropriate dosage regimen may precipitate hypoglycemia.
+DUETACT should be taken once daily with the first main meal.
 
-Dosage Recommendations
+DUETACT tablets are available as a 30 mg pioglitazone plus 2 mg glimepiride or a 30 mg pioglitazone plus 4 mg glimepiride tablet.
+If therapy with a combination tablet containing pioglitazone and glimepiride is considered appropriate the recommended starting dose is:
 
-Selecting the starting dose of DUETACT should be based on the patient's current regimen of pioglitazone and/or sulfonylurea.
-Those patients who may be more sensitive to antihyperglycemic drugs should be monitored carefully during dose adjustment.
-After initiation of DUETACT, patients should be carefully monitored for adverse events related to fluid retention (see BOXED WARNING and WARNINGS, Pioglitazone).
-It is recommended that a single dose of DUETACT be administered once daily with the first main meal.
+- •30 mg/2 mg or 30 mg/4 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
+- •for patients inadequately controlled on glimepiride monotherapy: 30 mg/2 mg or 30 mg/4 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
+- •for patients inadequately controlled on pioglitazone monotherapy: 30 mg/2 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
+- •for patients who are changing from combination therapy of pioglitazone plus glimepiride as separate tablets: DUETACT should be taken at doses that are as close as possible to the dose of pioglitazone and glimepiride already being taken,
+- •for patients currently on a different sulfonylurea monotherapy or switching from combination therapy of pioglitazone plus a different sulfonylurea (e.g., glyburide, glipizide, chlorpropamide, tolbutamide, acetohexamide): 30 mg/2 mg once daily and adjusted after assessing adequacy of therapeutic response.
+  Observe for hypoglycemia for one to two weeks due to the potential overlapping drug effect.
+- •for patients with systolic dysfunction, the lowest approved dose of DUETACT should be prescribed only after titration from 15 mg to 30 mg of pioglitazone has been safely tolerated.
 
-Starting Dose for Patients Currently on GlimepirideMonotherapy
+After initiation of DUETACT or with dose increase, monitor patients carefully for hypoglycemia and adverse reactions related to fluid retention such as weight gain, edema, and signs and symptoms of congestive heart failure [see BoxedWarning and Warnings and Precautions (5.7)].
 
-Based on the usual starting dose of pioglitazone (15 mg or 30 mg daily), DUETACT may be initiated at 30 mg/2 mg or 30 mg/4 mg tablet strengths once daily and adjusted after assessing adequacy of therapeutic response.
+Liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase, and total bilirubin) should be obtained prior to initiating DUETACT.
+Routine periodic monitoring of liver tests during treatment with DUETACT is not recommended in patients without liver disease.
+Patients who have liver test abnormalities prior to initiation of DUETACT or who are found to have abnormal liver tests while taking DUETACT should be managed as described under Warnings and Precautions [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
 
-For patients with type 2 diabetes and systolic dysfunction, see DOSAGE AND ADMINISTRATION, Special Patient Populations.
+## 2.2 Concomitant Use with an Insulin Secretagogue or Insulin
 
-Starting Dose for Patients Currently on PioglitazoneMonotherapy
+If hypoglycemia occurs in a patient coadministered DUETACT and an insulin secretagogue, the dose of the insulin secretagogue should be reduced.
 
-Based on the usual starting doses of glimepiride (1 mg or 2 mg once daily), and pioglitazone 15 mg or 30 mg, DUETACT may be initiated at 30 mg/2 mg once daily, and adjusted after assessing adequacy of therapeutic response.
+If hypoglycemia occurs in a patient coadministered DUETACT and insulin, the dose of insulin should be decreased by 10% to 25%.
+Further adjustments to the insulin dose should be individualized based on glycemic response.
 
-For patients who are not currently on glimepiride and may be more sensitive to hypoglycemia, see DOSAGE AND ADMINISTRATION, Special Patient Populations.
+## 2.3 Concomitant Use with Strong CYP2C8 Inhibitors
 
-Starting Dose for Patients Switching from Combination Therapy of Pioglitazone plus Glimepiride as Separate Tablets
+Coadministration of pioglitazone and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3-fold.
+Therefore, the maximum recommended dose of pioglitazone is 15 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors.
+If gemfibrozil or other CYP2C8 inhibitors need to co-administered, patients should switch to individual components of DUETACT because the minimum dose of pioglitazone in DUETACT exceeds 15 mg [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
-DUETACT may be initiated with 30 mg/2 mg or 30 mg/4 mg tablet strengths based on the dose of pioglitazone and glimepiride already being taken.
-Patients who are not controlled with 15 mg of pioglitazone in combination with glimepiride should be carefully monitored when switched to DUETACT.
+## 2.4 Concomitant Use with Colesevelam
 
-Starting Dose for Patients Currently on a Different Sulfonylurea Monotherapy or Switching from Combination Therapy of Pioglitazone Plus a Different Sulfonylurea (e.g., Glyburide, Glipizide, Chlorpropamide, Tolbutamide, Acetohexamide)
-
-No exact dosage relationship exists between glimepiride and the other sulfonylurea agents.
-Therefore, based on the maximum starting dose of 2 mg glimepiride, DUETACT should be limited initially to a starting dose of 30 mg/2 mg once daily and adjusted after assessing adequacy of therapeutic response.
-
-Any change in diabetic therapy should be undertaken with care and appropriate monitoring as changes in glycemic control can occur.
-Patients should be observed carefully for hypoglycemia (one to two weeks) when being transferred to DUETACT, especially from longer half-life sulfonylureas (e.g., chlorpropamide) due to potential overlapping of drug effect.
-
-Sufficient time should be given to assess adequacy of therapeutic response.
-Ideally, the response to therapy should be evaluated using A1C, which is a better indicator of long-term glycemic control than FPG alone.
-A1C reflects glycemia over the past two to three months.
-In clinical use, it is recommended that patients be treated with DUETACT for a period of time adequate to evaluate change in A1C (eight to 12 weeks) unless glycemic control as measured by FPG deteriorates.
-
-Special Patient Populations
-
-DUETACT is not recommended for use in pregnancy, nursing mothers or for use in pediatric patients.
-
-In elderly, debilitated or malnourished patients, or in patients with renal or hepatic insufficiency, the initial dosing, dose increments and maintenance dosage of DUETACT should be conservative to avoid hypoglycemic reactions.
-These patients should be started at 1 mg of glimepiride prior to prescribing DUETACT.
-During initiation of DUETACT therapy and any subsequent dose adjustment, patients should be observed carefully for hypoglycemia (see PRECAUTIONS, General, Glimepiride, Hypoglycemia).
-
-Therapy with DUETACT should not be initiated if the patient exhibits clinical evidence of active liver disease or increased serum transaminase levels (ALT greater than 2.5 times the upper limit of normal) at start of therapy (see PRECAUTIONS, General, Pioglitazone, Hepatic Effects and CLINICAL PHARMACOLOGY, Special Populations, Hepatic Insufficiency, Pioglitazone).
-Liver enzyme monitoring is recommended in all patients prior to initiation of therapy with DUETACT and periodically thereafter (see PRECAUTIONS, General, Pioglitazone, Hepatic Effects and PRECAUTIONS, Laboratory Tests).
-
-The lowest approved dose of DUETACT therapy should be prescribed to patients with type 2 diabetes and systolic dysfunction only after titration from 15 mg to 30 mg of pioglitazone has been safely tolerated.
-If subsequent dose adjustment is necessary, patients should be carefully monitored for weight gain, edema, or signs and symptoms of CHF exacerbation (see WARNINGS, Pioglitazone, Cardiac Failure and Other Cardiac Effects).
-
-Maximum Recommended Dose
-
-DUETACT tablets are available as a 30 mg pioglitazone plus 2 mg glimepiride or a 30 mg pioglitazone plus 4 mg glimepiride formulation for oral administration.
-The maximum recommended daily dose for pioglitazone is 45 mg and the maximum recommended daily dose for glimepiride is 8 mg.
-
-DUETACT should therefore not be given more than once daily at any of the tablet strengths.
+When colesevelam is coadministered with glimepiride, maximum plasma concentration and total exposure to glimepiride is reduced.
+Therefore, DUETACT should be administered at least four hours prior to colesevelam [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].

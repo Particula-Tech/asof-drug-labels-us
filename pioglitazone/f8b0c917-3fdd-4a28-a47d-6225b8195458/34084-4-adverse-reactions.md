@@ -1,10 +1,22 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The adverse events reported in at least 5% of patients in the controlled 16-week clinical studies between placebo plus a sulfonylurea and pioglitazone (15 mg and 30 mg combined) plus sulfonylurea-treatment arms were upper respiratory tract infection (15.5% and 16.6%), accidental injury (8.6% and 3.5%) and combined edema/peripheral edema (2.1% and 7.2%), respectively.
+The following serious adverse reactions are discussed elsewhere in the labeling:
 
-The incidence and type of adverse events reported in at least 5% of patients in any combined treatment group from the 24-week study comparing pioglitazone 30 mg plus a sulfonylurea and pioglitazone 45 mg plus a sulfonylurea are shown in Table 4; the rate of adverse events resulting in study discontinuation between the two treatment groups was 6.0% and 9.7%, respectively.
+- •Congestive Heart Failure [see Boxed Warning and Warnings and Precautions (5.1)]
+- •Hypoglycemia [see Warnings and Precautions (5.2)]
+- •Edema [see Warnings and Precautions (5.7)]
+- •Fractures [see Warnings and Precautions (5.8)]
+- •Hemolytic Anemia [see Warnings and Precautions (5.9)]
 
-| Table 4. Adverse Events That Occurred in ≥5% of Patients in Any Treatment Group During the 24-Week Study |  |  |
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The adverse events reported in at least 5% of patients in the controlled 16-week clinical studies between placebo plus a sulfonylurea and pioglitazone (15 mg and 30 mg combined) plus sulfonylurea treatment arms were upper respiratory tract infection (15.5% and 16.6%), accidental injury (8.6% and 3.5%), and combined edema/peripheral edema (2.1% and 7.2%), respectively.
+
+The incidence and type of adverse events reported in at least 5% of patients in any combined treatment group from the 24-week study comparing pioglitazone 30 mg plus a sulfonylurea and pioglitazone 45 mg plus a sulfonylurea are shown in Table 1; the rate of adverse events resulting in study discontinuation between the two treatment groups was 6% and 9.7%, respectively.
+
+| Table 1. Adverse Events that Occurred in ≥5% of Patients in Any Treatment Group During the 24-Week Study |  |  |
 | --- | --- | --- |
 | Adverse Event | Pioglitazone 30 mg + Sulfonylurea N=351 n (%) | Pioglitazone 45 mg + Sulfonylurea N=351 n (%) |
 | Hypoglycemia | 47 (13.4) | 55 (15.7) |
@@ -17,105 +29,272 @@ The incidence and type of adverse events reported in at least 5% of patients in 
 | Nausea | 18 (5.1) | 14 (4.0) |
 | Pain in Limb | 19 (5.4) | 14 (4.0) |
 
-In U.S. double-blind studies, anemia was reported in ≤ 2% of patients treated with pioglitazone plus a sulfonylurea (see PRECAUTIONS, General, Pioglitazone).
+In US double-blind studies, anemia was reported in ≤2% of patients treated with pioglitazone plus a sulfonylurea [see Warnings and Precautions (5.9)].
 
 Pioglitazone
 
-Over 8500 patients with type 2 diabetes have been treated with pioglitazone in randomized, double-blind, controlled clinical trials.
-This includes 2605 high-risk patients with type 2 diabetes treated with pioglitazone from the PROactive clinical trial.
-Over 6000 patients have been treated for six months or longer and over 4500 patients for one year or longer.
-Over 3000 patients have received pioglitazone for at least two years.
+Over 8500 patients with type 2 diabetes have been treated with pioglitazone in randomized, double-blind, controlled clinical trials, including 2605 patients with type 2 diabetes and macrovascular disease treated with pioglitazone in the PROactive clinical trial.
+In these trials, over 6000 patients have been treated with pioglitazone for six months or longer, over 4500 patients have been treated with pioglitazone for one year or longer, and over 3000 patients have been treated with pioglitazone for at least two years.
 
-Most clinical adverse events were similar between groups treated with pioglitazone in combination with a sulfonylurea and those treated with pioglitazone monotherapy.
-Other adverse events reported in at least 5% of patients in controlled clinical studies between placebo and pioglitazone monotherapy included myalgia (2.7% and 5.4%), tooth disorder (2.3% and 5.3%), diabetes mellitus aggravated (8.1% and 5.1%) and pharyngitis (0.8% and 5.1%), respectively.
+In six pooled 16- to 26-week placebo-controlled monotherapy and 16- to 24-week add-on combination therapy trials, the incidence of withdrawals due to adverse events was 4.5% for patients treated with pioglitazone and 5.8% for comparator-treated patients.
+The most common adverse events leading to withdrawal were related to inadequate glycemic control, although the incidence of these events was lower (1.5%) with pioglitazone than with placebo (3.0%).
 
-In monotherapy studies, edema was reported for 4.8% (with doses from 7.5 mg to 45 mg) of patients treated with pioglitazone versus 1.2% of placebo-treated patients.
-Most of these events were considered mild or moderate in intensity (see PRECAUTIONS, General, Pioglitazone, Edema).
+In the PROactive trial, the incidence of withdrawals due to adverse events was 9.0% for patients treated with pioglitazone and 7.7% for placebo-treated patients.
+Congestive heart failure was the most common serious adverse event leading to withdrawal occurring in 1.3% of patients treated with pioglitazone and 0.6% of patients treated with placebo.
 
-Prospective Pioglitazone Clinical Trial in Macrovascular Events (PROactive)
+Common Adverse Events: 16- to 26-Week Monotherapy Trials:
 
-In PROactive, 5238 patients with type 2 diabetes and a prior history of macrovascular disease were treated with ACTOS (n=2605), force-titrated up to 45 mg daily, or placebo (n=2633), in addition to standard of care.
-Almost all subjects (95%) were receiving cardiovascular medications (beta blockers, ACE inhibitors, ARBs, calcium channel blockers, nitrates, diuretics, aspirin, statins, fibrates).
-Patients had a mean age of 61.8 years, mean duration of diabetes 9.5 years, and mean A1C 8.1%.
-Average duration of follow-up was 34.5 months.
-The primary objective of this trial was to examine the effect of ACTOS on mortality and macrovascular morbidity in patients with type 2 diabetes mellitus who were at high risk for macrovascular events.
-The primary efficacy variable was the time to the first occurrence of any event in the cardiovascular composite endpoint (see Table 5).
-Although there was no statistically significant difference between ACTOS and placebo for the 3-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with ACTOS.
+A summary of the incidence and type of common adverse events reported in three pooled 16- to 26-week placebo-controlled monotherapy trials of pioglitazone is provided in Table 2.
+Terms that are reported represent those that occurred at an incidence of >5% and more commonly in patients treated with pioglitazone than in patients who received placebo.
+None of these adverse events were related to the pioglitazone dose.
 
-| Table 5. Number of First and Total Events for Each Component Within the Cardiovascular Composite Endpoint |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Placebo N=2633 |  | ACTOS N=2605 |  |
-| Cardiovascular Events | First Events (N) | Total events (N) | First Events (N) | Total events (N) |
-| Any event | 572 | 900 | 514 | 803 |
-| All-cause mortality | 122 | 186 | 110 | 177 |
-| Non-fatal MI | 118 | 157 | 105 | 131 |
-| Stroke | 96 | 119 | 76 | 92 |
-| ACS | 63 | 78 | 42 | 65 |
-| Cardiac intervention | 101 | 240 | 101 | 195 |
-| Major leg amputation | 15 | 28 | 9 | 28 |
-| Leg revascularization | 57 | 92 | 71 | 115 |
+| Table 2. Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Events Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo |  |  |
+| --- | --- | --- |
+| % of Patients |  |  |
+|  | Placebo N=259 | Pioglitazone N=606 |
+| Upper Respiratory Tract Infection | 8.5 | 13.2 |
+| Headache | 6.9 | 9.1 |
+| Sinusitis | 4.6 | 6.3 |
+| Myalgia | 2.7 | 5.4 |
+| Pharyngitis | 0.8 | 5.1 |
 
-Postmarketing reports of new onset or worsening diabetic macular edema with decreased visual acuity have also been received (see PRECAUTIONS, General, Pioglitazone).
+A summary of the overall incidence and types of common adverse events reported in the PROactive trial is provided in Table 3.
+Terms that are reported represent those that occurred at an incidence of >5% and more commonly in patients treated with pioglitazone than in patients who received placebo.
+
+| Table 3. PROactive Trial: Incidence and Types of Adverse Events Reported in >5% of Patients Treated with Pioglitazone and More Commonly than Placebo |  |  |
+| --- | --- | --- |
+|  | % of Patients |  |
+| Placebo N=2633 | Pioglitazone N=2605 |  |
+| Hypoglycemia | 18.8 | 27.3 |
+| Edema | 15.3 | 26.7 |
+| Cardiac Failure | 6.1 | 8.1 |
+| Pain in Extremity | 5.7 | 6.4 |
+| Back Pain | 5.1 | 5.5 |
+| Chest Pain | 5.0 | 5.1 |
+| Mean duration of patient follow-up was 34.5 months. |  |  |
+
+Congestive Heart Failure
+
+A summary of the incidence of adverse events related to congestive heart failure is provided in Table 4 for the 16- to 24-week add-on to sulfonylurea trials, for the 16- to 24-week add-on to insulin trials, and for the 16- to 24-week add-on to metformin trials.
+None of the events were fatal.
+
+| Table 4. Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Patients Treated with Pioglitazone or Placebo Added on to a Sulfonylurea |  |  |  |  |  |
+|  | Number (%) of Patients |  |  |  |  |
+| Placebo-Controlled Trial (16 weeks) |  |  | Non-Controlled Double Blind Trial (24 weeks) |  |  |
+| Placebo + Sulfonylurea N=187 | Pioglitazone 15 mg + Sulfonylurea N=184 | Pioglitazone 30 mg + Sulfonylurea N=189 | Pioglitazone 30 mg + Sulfonylurea N=351 | Pioglitazone 45 mg + Sulfonylurea N=351 |  |
+| At least one congestive heart failure event | 2 (1.1%) | 0 | 0 | 1 (0.3%) | 6 (1.7%) |
+| Hospitalized | 2 (1.1%) | 0 | 0 | 0 | 2 (0.6%) |
+| Patients Treated with Pioglitazone or Placebo Added on to Insulin |  |  |  |  |  |
+|  | Number (%) of Patients |  |  |  |  |
+| Placebo-Controlled Trial (16 weeks) |  |  | Non-Controlled Double Blind Trial (24 weeks) |  |  |
+| Placebo + Insulin N=187 | Pioglitazone 15 mg + Insulin N=191 | Pioglitazone 30 mg + Insulin N=188 | Pioglitazone 30 mg + Insulin N=345 | Pioglitazone 45 mg + Insulin N=345 |  |
+| At least one congestive heart failure event | 0 | 2 (1.0%) | 2 (1.1%) | 3 (0.9%) | 5 (1.4%) |
+| Hospitalized | 0 | 2 (1.0%) | 1 (0.5%) | 1 (0.3%) | 3 (0.9%) |
+| Patients Treated with Pioglitazone or Placebo Added on to Metformin |  |  |  |  |  |
+|  | Number (%) of Patients |  |  |  |  |
+| Placebo-Controlled Trial (16 weeks) |  |  | Non-Controlled Double Blind Trial (24 weeks) |  |  |
+| Placebo + Metformin N=160 | Pioglitazone 30 mg + Metformin N=168 |  | Pioglitazone 30 mg + Metformin N=411 | Pioglitazone 45 mg + Metformin N=416 |  |
+| At least one congestive heart failure event | 0 | 1 (0.6%) |  | 0 | 1 (0.2%) |
+| Hospitalized | 0 | 1 (0.6%) |  | 0 | 1 (0.2%) |
+
+Patients with type 2 diabetes and NYHA class II or early class III congestive heart failure were randomized to receive 24 weeks of double-blind treatment with either pioglitazone at daily doses of 30 mg to 45 mg (n=262) or glyburide at daily doses of 10 mg to 15 mg (n=256).
+A summary of the incidence of adverse events related to congestive heart failure reported in this study is provided in Table 5.
+
+| Table 5. Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) in Patients with NYHA Class II or III Congestive Heart Failure Treated with Pioglitazone or Glyburide |  |  |
+| --- | --- | --- |
+|  | Number (%) of Subjects |  |
+| Pioglitazone N=262 | Glyburide N=256 |  |
+| Death due to cardiovascular causes (adjudicated) | 5 (1.9%) | 6 (2.3%) |
+| Overnight hospitalization for worsening CHF (adjudicated) | 26 (9.9%) | 12 (4.7%) |
+| Emergency room visit for CHF (adjudicated) | 4 (1.5%) | 3 (1.2%) |
+| Patients experiencing CHF progression during study | 35 (13.4%) | 21 (8.2%) |
+
+Congestive heart failure events leading to hospitalization that occurred during the PROactive trial are summarized in Table 6.
+
+| Table 6. Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) in PROactiveTrial |  |  |
+| --- | --- | --- |
+|  | Number (%) of Patients |  |
+| Placebo N=2633 | Pioglitazone N=2605 |  |
+| At least one hospitalized CHF event | 108 (4.1%) | 149 (5.7%) |
+| Fatal | 22 (0.8%) | 25 (1%) |
+| Hospitalized, nonfatal | 86 (3.3%) | 124 (4.7%) |
+
+Cardiovascular Safety
+
+In the PROactive trial, 5238 patients with type 2 diabetes and a history of macrovascular disease were randomized to pioglitazone (N=2605), force-titrated up to 45 mg daily or placebo (N=2633) in addition to standard of care.
+Almost all patients (95%) were receiving cardiovascular medications (beta blockers, ACE inhibitors, angiotensin II receptor blockers, calcium channel blockers, nitrates, diuretics, aspirin, statins, and fibrates).
+At baseline, patients had a mean age of 62 years, mean duration of diabetes of 9.5 years, and mean HbA1c of 8.1%.
+Mean duration of follow-up was 34.5 months.
+
+The primary objective of this trial was to examine the effect of pioglitazone on mortality and macrovascular morbidity in patients with type 2 diabetes mellitus who were at high risk for macrovascular events.
+The primary efficacy variable was the time to the first occurrence of any event in a cardiovascular composite endpoint that included all-cause mortality, nonfatal myocardial infarction (MI) including silent MI, stroke, acute coronary syndrome, cardiac intervention including coronary artery bypass grafting or percutaneous intervention, major leg amputation above the ankle, and bypass surgery or revascularization in the leg.
+A total of 514 (19.7%) patients treated with pioglitazone and 572 (21.7%) placebo-treated patients experienced at least one event from the primary composite endpoint (hazard ratio 0.90; 95% Confidence Interval: 0.80, 1.02; p=0.10).
+
+Although there was no statistically significant difference between pioglitazone and placebo for the three-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with pioglitazone.
+The number of first occurrences and total individual events contributing to the primary composite endpoint is shown in Table 7.
+
+| Table 7. PROactive: Number of First and Total Events for Each Component within the Cardiovascular Composite Endpoint |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Cardiovascular Events | Placebo N=2633 |  | Pioglitazone N=2605 |  |  |
+| First Events n (%) | Total Events n | First Events n (%) | Total Events n |  |  |
+| Any event | 572 (21.7) | 900 | 514 (19.7) | 803 |  |
+| All-cause mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |  |
+| Non-fatal myocardial infarction (MI) | 118 (4.5) | 157 | 105 (4.0) | 131 |  |
+| Stroke | 96 (3.6) | 119 | 76 (2.9) | 92 |  |
+| Acute coronary syndrome | 63 (2.4) | 78 | 42 (1.6) | 65 |  |
+| Cardiac intervention (CABG/PCI) | 101 (3.8) | 240 | 101 (3.9) | 195 |  |
+| Major leg amputation | 15 (0.6) | 28 | 9 (0.3) | 28 |  |
+| Leg revascularization | 57 (2.2) | 92 | 71 (2.7) | 115 |  |
+| CABG = coronary artery bypass grafting; PCI = percutaneous intervention |  |  |  |  |  |
+
+Weight Gain
+
+Dose-related weight gain occurs when pioglitazone is used alone or in combination with other antidiabetic medications.
+The mechanism of weight gain is unclear but probably involves a combination of fluid retention and fat accumulation.
+
+Tables 8 and 9 summarize the changes in body weight with pioglitazone and placebo in the 16- to 26-week randomized, double-blind monotherapy and 16- to 24-week combination add-on therapy trials and in the PROactive trial.
+
+| Table 8. Weight Changes (kg) from Baseline during Randomized, Double-Blind Clinical Trials |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Control Group (Placebo) | Pioglitazone 15 mg | Pioglitazone 30 mg | Pioglitazone 45 mg |
+| Median (25th/75th percentile) | Median (25th/75th percentile) | Median (25th/75th percentile) | Median (25th/75th percentile) |  |  |
+| Monotherapy (16 to 26 weeks) |  | -1.4 (-2.7/0.0) N=256 | 0.9 (-0.5/3.4) N=79 | 1.0 (-0.9/3.4) N=188 | 2.6 (0.2/5.4) N=79 |
+| Combination Therapy (16 to 24 weeks) | Sulfonylurea | -0.5 (-1.8/0.7) N=187 | 2.0 (0.2/3.2) N=183 | 3.1 (1.1/5.4) N=528 | 4.1 (1.8/7.3) N=333 |
+| Metformin | -1.4 (-3.2/0.3) N=160 | N/A | 0.9 (-1.3/3.2) N=567 | 1.8 (-0.9/5.0) N=407 |  |
+| Insulin | 0.2 (-1.4/1.4) N=182 | 2.3 (0.5/4.3) N=190 | 3.3 (0.9/6.3) N=522 | 4.1 (1.4/6.8) N=338 |  |
+
+| Table 9. Median Change in Body Weight in Patients Treated with Pioglitazone vs Patients Treated with Placebo During the Double-Blind Treatment Period in the PROactive Trial |  |  |
+| --- | --- | --- |
+|  | Placebo | Pioglitazone |
+| Median (25th/75th percentile) | Median (25th/75th percentile) |  |
+| Change from baseline to final visit (kg) | -0.5 (-3.3, 2.0) N=2581 | +3.6 (0.0, 7.5) N=2560 |
+| Note: Median exposure for both Pioglitazone and Placebo was 2.7 years |  |  |
+
+Edema
+
+Edema induced from taking pioglitazone is reversible when pioglitazone is discontinued.
+The edema usually does not require hospitalization unless there is coexisting congestive heart failure.
+A summary of the frequency and types of edema adverse events occurring in clinical investigations of pioglitazone is provided in Table 10.
+
+| Table 10. Adverse Events of Edema in Patients Treated with Pioglitazone |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Number (%) of Patients |  |  |  |
+| Placebo | Pioglitazone 15 mg | Pioglitazone 30 mg | Pioglitazone 45 mg |  |  |
+| Monotherapy (16 to 26 weeks) |  | 3 (1.2%) N=259 | 2 (2.5%) N= 81 | 13 (4.7%) N= 275 | 11 (6.5%) N=169 |
+| Combined Therapy (16 to 24 weeks) | Sulfonylurea | 4 (2.1%) N=187 | 3 (1.6%) N=184 | 61 (11.3%) N=540 | 81 (23.1%) N=351 |
+| Metformin | 4 (2.5%) N=160 | N/A | 34 (5.9%) N=579 | 58 (13.9%) N=416 |  |
+| Insulin | 13 (7.0%) N=187 | 24 (12.6%) N=191 | 109 (20.5%) N=533 | 90 (26.1%) N=345 |  |
+| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |
+
+| Table 11. Adverse Events of Edema in Patients in the PROactive Trial |  |
+| --- | --- |
+| Number (%) of Patients |  |
+| Placebo N=2633 | Pioglitazone N=2605 |
+| 419 (15.9%) | 712 (27.3%) |
+| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |
+
+Hepatic Effects
+
+There has been no evidence of pioglitazone-induced hepatotoxicity in the pioglitazone-controlled clinical trial database to date.
+One randomized, double-blind, 3-year trial comparing pioglitazone to glyburide as add-on to metformin and insulin therapy was specifically designed to evaluate the incidence of serum ALT elevation to greater than three times the upper limit of the reference range, measured every eight weeks for the first 48 weeks of the trial then every 12 weeks thereafter.
+A total of 3/1051 (0.3%) patients treated with pioglitazone and 9/1046 (0.9%) patients treated with glyburide developed ALT values greater than three times the upper limit of the reference range.
+None of the patients treated with pioglitazone in the pioglitazone-controlled clinical trial database to date have had a serum ALT greater than three times the upper limit of the reference range and a corresponding total bilirubin greater than two times the upper limit of the reference range, a combination predictive of the potential for severe drug-induced liver injury.
+
+Hypoglycemia
+
+In the pioglitazone clinical trials, adverse events of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with fingerstick glucose testing.
+
+In the 16-week add-on to sulfonylurea trial, the incidence of reported hypoglycemia was 3.7% with pioglitazone 30 mg and 0.5% with placebo.
+In the 16-week add-on to insulin trial, the incidence of reported hypoglycemia was 7.9% with pioglitazone 15 mg, 15.4% with pioglitazone 30 mg, and 4.8% with placebo.
+
+The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compared to pioglitazone 30 mg in both the 24-week add-on to sulfonylurea trial (15.7% versus 13.4%) and in the 24-week add-on to insulin trial (47.8% versus 43.5%).
+
+Three patients in these four trials were hospitalized due to hypoglycemia.
+All three patients were receiving pioglitazone 30 mg (0.9%) in the 24-week add-on to insulin trial.
+An additional 14 patients reported severe hypoglycemia (defined as causing considerable interference with patient’s usual activities) that did not require hospitalization.
+These patients were receiving pioglitazone 45 mg in combination with sulfonylurea (N=2) or pioglitazone 30 mg or 45 mg in combination with insulin (N=12).
+
+Urinary Bladder Tumors
+
+Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
+In two 3-year trials in which pioglitazone was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone compared to 5/3679 (0.14%) in patients not taking pioglitazone.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on pioglitazone and two (0.05%) cases on placebo.
+There are too few events of bladder cancer to establish causality.
 
 Glimepiride
 
-Adverse events that occurred in controlled clinical trials with placebo and glimepiride monotherapy, other than hypoglycemia, headache and nausea, also included dizziness (0.3% and 1.7%) and asthenia (1.0% and 1.6%), respectively.
+Adverse events that occurred in controlled clinical trials with placebo and glimepiride monotherapy, other than hypoglycemia, included: headache (7.8% and 8.2%), accidental injury (3.4% and 5.8%), flu syndrome (4.4% and 5.4%), nausea (3.4% and 5.0%) and dizziness (2.4% and 5.0%), respectively.
 
-Gastrointestinal Reactions
+Hypoglycemia
 
-Vomiting, gastrointestinal pain and diarrhea have been reported with glimepiride, but the incidence in placebo-controlled trials was less than 1%.
-In rare cases, there may be an elevation of liver enzyme levels.
-In isolated instances, impairment of liver function (e.g., with cholestasis and jaundice), as well as hepatitis, which may also lead to liver failure, have been reported with sulfonylureas, including glimepiride.
+In a randomized, double-blind, placebo-controlled monotherapy trial of 14 weeks duration, patients already on sulfonylurea therapy underwent a 3-week washout period then were randomized to glimepiride 1 mg, 4 mg, 8 mg or placebo.
+Patients randomized to glimepiride 4 mg or 8 mg underwent forced-titration from an initial dose of 1 mg to these final doses, as tolerated.
+The overall incidence of possible hypoglycemia (defined by the presence of at least one symptom that the investigator believed might be related to hypoglycemia; a concurrent glucose measurement was not required) was 4% for glimepiride 1 mg, 17% for glimepiride 4 mg, 16% for glimepiride 8 mg and 0% for placebo.
+All of these events were self-treated.
 
-Dermatologic Reactions
+In a randomized, double-blind, placebo-controlled monotherapy trial of 22 weeks duration, patients received a starting dose of either 1 mg glimepiride or placebo daily.
+The dose of glimepiride was titrated to a target fasting plasma glucose of 90 −150 mg/dL.
+Final daily doses of glimepiride were 1, 2, 3, 4, 6 or 8 mg.
+The overall incidence of possible hypoglycemia (as defined above for the 14-week trial) for glimepiride versus placebo was 19.7% vs. 3.2%.
+All of these events were self-treated.
 
-Allergic skin reactions (e.g., pruritus, erythema, urticaria and morbilliform or maculopapular eruptions), occur in less than 1% of glimepiride-treated patients.
-These may be transient and may disappear despite continued use of glimepiride.
-If those hypersensitivity reactions persist or worsen, the drug should be discontinued.
-Porphyria cutanea tarda, photosensitivity reactions and allergic vasculitis have been reported with sulfonylureas.
+Weight Gain
 
-Metabolic Reactions
+Glimepiride, like all sulfonylureas, can cause weight gain.
 
-Hepatic porphyria reactions and disulfiram-like reactions have been reported with sulfonylureas; however, no cases have yet been reported with glimepiride tablets.
-Cases of hyponatremia have been reported with glimepiride and all other sulfonylureas, most often in patients who are on other medications or have medical conditions known to cause hyponatremia or increase release of antidiuretic hormone.
-The syndrome of inappropriate antidiuretic hormone (SIADH) secretion has been reported with certain other sulfonylureas, and it has been suggested that these sulfonylureas may augment the peripheral (antidiuretic) action of ADH and/or increase release of ADH.
+Allergic Reactions
 
-Hematologic Reactions
+In clinical trials, allergic reactions, such as pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions, occurred in less than 1% of glimepiride-treated patients.
+These may resolve despite continued treatment with glimepiride.
+There are postmarketing reports of more serious allergic reactions (e.g., dyspnea, hypotension, shock) [see Warnings and Precautions (5.3)].
 
-Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia, aplastic anemia and pancytopenia have been reported with sulfonylureas.
+Laboratory Tests
 
-Other Reactions
+Elevated Serum Alanine Aminotransferase (ALT)
 
-Changes in accommodation and/or blurred vision may occur with the use of glimepiride.
-In placebo-controlled trials of glimepiride, the incidence of blurred vision with placebo was 0.7%, and with glimepiride, 0.4%.
-This is thought to be due to changes in blood glucose and may be more pronounced when treatment is initiated.
-This condition is also seen in untreated diabetic patients and may actually be reduced by treatment.
+In 11 pooled placebo-controlled trials of glimepiride, 1.9% of glimepiride-treated patients and 0.8% of placebo-treated patients developed serum ALT greater than two times the upper limit of the reference range.
 
 Laboratory Abnormalities
 
 Pioglitazone
 
-Hematologic
+Hematologic Effects
 
 Pioglitazone may cause decreases in hemoglobin and hematocrit.
-The fall in hemoglobin and hematocrit with pioglitazone appears to be dose-related.
-Across all clinical studies, mean hemoglobin values declined by 2% to 4% in patients treated with pioglitazone.
-These changes generally occurred within the first four to 12 weeks of therapy and remained relatively stable thereafter.
-These changes may be related to increased plasma volume associated with pioglitazone therapy and have rarely been associated with any significant hematologic clinical effects (see PRECAUTIONS, General, Pioglitazone, Hematologic).
+In placebo-controlled monotherapy trials, mean hemoglobin values declined by 2% to 4% in patients treated with pioglitazone compared with a mean change in hemoglobin of -1% to +1% in placebo-treated patients.
+These changes primarily occurred within the first 4 to 12 weeks of therapy and remained relatively constant thereafter.
+These changes may be related to increased plasma volume associated with pioglitazone therapy and are not likely to be associated with any clinically significant hematologic effects.
 
-Serum Transaminase Levels
+Creatine Phosphokinase
 
-During all clinical studies in the U.S., 14 of 4780 (0.30%) patients treated with pioglitazone had ALT values ≥3 times the upper limit of normal during treatment.
-All patients with follow-up values had reversible elevations in ALT.
-In the population of patients treated with pioglitazone, mean values for bilirubin, AST, ALT, alkaline phosphatase and GGT were decreased at the final visit compared with baseline.
-Fewer than 0.9% of patients treated with pioglitazone were withdrawn from clinical trials in the U.S. due to abnormal liver function tests.
-
-In pre-approval clinical trials, there were no cases of idiosyncratic drug reactions leading to hepatic failure (see PRECAUTIONS, General, Pioglitazone, Hepatic Effects).
-
-CPK Levels
-
-During required laboratory testing in clinical trials with pioglitazone, sporadic, transient elevations in creatine phosphokinase (CPK) levels were observed.
-An isolated elevation to greater than 10 times the upper limit of normal was noted in nine patients (values of 2150 to 11400 IU/L).
-Six of these patients continued to receive pioglitazone, two patients had completed receiving study medication at the time of the elevated value and one patient discontinued study medication due to the elevation.
+During protocol-specified measurement of serum creatine phosphokinase (CPK) in pioglitazone clinical trials, an isolated elevation in CPK to greater than 10 times the upper limit of the reference range was noted in nine (0.2%) patients treated with pioglitazone (values of 2150 to 11400 IU/L) and in no comparator-treated patients.
+Six of these nine patients continued to receive pioglitazone, two patients were noted to have the CPK elevation on the last day of dosing and one patient discontinued pioglitazone due to the elevation.
 These elevations resolved without any apparent clinical sequelae.
 The relationship of these events to pioglitazone therapy is unknown.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of pioglitazone and glimepiride.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Pioglitazone
+
+- •New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.10)].
+- •Fatal and nonfatal hepatic failure [see Warnings and Precautions (5.5)].
+
+Postmarketing reports of congestive heart failure have been reported in patients treated with pioglitazone, both with and without previously known heart disease and both with and without concomitant insulin administration.
+
+In postmarketing experience, there have been reports of unusually rapid increases in weight and increases in excess of that generally observed in clinical trials.
+Patients who experience such increases should be assessed for fluid accumulation and volume-related events such as excessive edema and congestive heart failure [see Boxed Warning and Warnings and Precautions (5.1)].
+
+Glimepiride
+
+- •Serious hypersensitivity reactions, including anaphylaxis, angioedema, and Stevens-Johnson Syndrome [see Warnings and Precautions (5.3)]
+- •Hemolytic anemia in patients with and without G6PD deficiency [see Warnings and Precautions (5.9)]
+- •Impairment of liver function (e.g. with cholestasis and jaundice), as well as hepatitis, which may progress to liver failure.
+- •Porphyria cutanea tarda, photosensitivity reactions and allergic vasculitis
+- •Leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, and pancytopenia
+- •Hepatic porphyria reactions and disulfiram-like reactions
+- •Hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH), most often in patients who are on other medications or who have medical conditions known to cause hyponatremia or increase release of antidiuretic hormone

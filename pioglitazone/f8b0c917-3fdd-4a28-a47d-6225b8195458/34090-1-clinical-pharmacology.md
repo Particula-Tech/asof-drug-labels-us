@@ -1,80 +1,118 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Mechanism of Action
+## 12.1 Mechanism of Action
 
-DUETACT
-
-DUETACT combines two antihyperglycemic agents with different mechanisms of action to improve glycemic control in patients with type 2 diabetes: pioglitazone, a member of the thiazolidinedione class, and glimepiride, a member of the sulfonylurea class.
-Thiazolidinediones are insulin-sensitizing agents that act primarily by enhancing peripheral glucose utilization, whereas sulfonylureas are insulin secretogogues that act primarily by stimulating release of insulin from functioning pancreatic beta cells.
+DUETACT combines 2 antihyperglycemic agents with different mechanisms of action to improve glycemic control in patients with type 2 diabetes: pioglitazone, a member of the thiazolidinedione class, and glimepiride, a member of the sulfonylurea class.
+Thiazolidinediones are insulin-sensitizing agents that act primarily by enhancing peripheral glucose utilization, whereas sulfonylureas are insulin secretagogues that act primarily by stimulating release of insulin from functioning pancreatic beta cells.
 
 Pioglitazone
 
-Pioglitazone depends on the presence of insulin for its mechanism of action.
+Pioglitazone is a thiazolidinedione that depends on the presence of insulin for its mechanism of action.
 Pioglitazone decreases insulin resistance in the periphery and in the liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output.
-Pioglitazone is a potent and highly selective agonist for peroxisome proliferator-activated receptor-gamma (PPARγ).
+Pioglitazone is not an insulin secretagogue.
+Pioglitazone is an agonist for peroxisome proliferator-activated receptor-gamma (PPARγ).
 PPAR receptors are found in tissues important for insulin action such as adipose tissue, skeletal muscle, and liver.
-Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin-responsive genes involved in the control of glucose and lipid metabolism.
+Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin responsive genes involved in the control of glucose and lipid metabolism.
 
 In animal models of diabetes, pioglitazone reduces the hyperglycemia, hyperinsulinemia, and hypertriglyceridemia characteristic of insulin-resistant states such as type 2 diabetes.
 The metabolic changes produced by pioglitazone result in increased responsiveness of insulin-dependent tissues and are observed in numerous animal models of insulin resistance.
 
-Since pioglitazone enhances the effects of circulating insulin (by decreasing insulin resistance), it does not lower blood glucose in animal models that lack endogenous insulin.
+Because pioglitazone enhances the effects of circulating insulin (by decreasing insulin resistance), it does not lower blood glucose in animal models that lack endogenous insulin.
 
 Glimepiride
 
-The primary mechanism of action of glimepiride in lowering blood glucose appears to be dependent on stimulating the release of insulin from functioning pancreatic beta cells.
-In addition, extrapancreatic effects may also play a role in the activity of sulfonylureas such as glimepiride.
-This is supported by both preclinical and clinical studies demonstrating that glimepiride administration can lead to increased sensitivity of peripheral tissues to insulin.
-These findings are consistent with the results of a long-term, randomized, placebo-controlled trial in which glimepiride therapy improved postprandial insulin/C-peptide responses and overall glycemic control without producing clinically meaningful increases in fasting insulin/C-peptide levels.
-However, as with other sulfonylureas, the mechanism by which glimepiride lowers blood glucose during long-term administration has not been clearly established.
+Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells.
+Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin.
 
-Pharmacokinetics and Drug Metabolism
+## 12.2 Pharmacodynamics
 
-Absorption and Bioavailability
+Pioglitazone
+
+Clinical studies demonstrate that pioglitazone improves insulin sensitivity in insulin-resistant patients.
+Pioglitazone enhances cellular responsiveness to insulin, increases insulin-dependent glucose disposal and improves hepatic sensitivity to insulin.
+In patients with type 2 diabetes, the decreased insulin resistance produced by pioglitazone results in lower plasma glucose concentrations, lower plasma insulin concentrations, and lower HbA1c values.
+In controlled clinical trials, pioglitazone had an additive effect on glycemic control when used in combination with a sulfonylurea, metformin, or insulin [see Clinical Studies (14)].
+
+Patients with lipid abnormalities were included in clinical trials with pioglitazone.
+Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
+There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.12) and Adverse Reactions (6.1)].
+
+In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg pioglitazone dose groups compared to a mean increase in the placebo group.
+Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
+There were no consistent differences for LDL and total cholesterol in patients treated with pioglitazone compared to placebo (Table 12).
+
+| Table 12. Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Placebo | Pioglitazone 15 mg Once Daily | Pioglitazone 30 mg Once Daily | Pioglitazone 45 mg Once Daily |
+| Triglycerides (mg/dL) | N=79 | N=79 | N=84 | N=77 |
+| Baseline (mean) | 263 | 284 | 261 | 260 |
+| Percent change from baseline (adjusted mean*) | 4.8% | -9.0%† | -9.6%† | -9.3%† |
+| HDL Cholesterol (mg/dL) | N=79 | N=79 | N=83 | N=77 |
+| Baseline (mean) | 42 | 40 | 41 | 41 |
+| Percent change from baseline (adjusted mean*) | 8.1% | 14.1%† | 12.2% | 19.1%† |
+| LDL Cholesterol (mg/dL) | N=65 | N=63 | N=74 | N=62 |
+| Baseline (mean) | 139 | 132 | 136 | 127 |
+| Percent change from baseline (adjusted mean*) | 4.8% | 7.2% | 5.2% | 6.0% |
+| Total Cholesterol (mg/dL) | N=79 | N=79 | N=84 | N=77 |
+| Baseline (mean) | 225 | 220 | 223 | 214 |
+| Percent change from baseline (adjusted mean*) | 4.4% | 4.6% | 3.3% | 6.4% |
+| *Adjusted for baseline, pooled center, and pooled center by treatment interaction †p <0.05 versus placebo |  |  |  |  |
+
+In the two other monotherapy studies (16 weeks and 24 weeks) and in combination therapy studies with sulfonylurea (16 weeks and 24 weeks), metformin (16 weeks and 24 weeks) or insulin (16 weeks and 24 weeks), the results were generally consistent with the data above.
+
+Glimepiride
+
+In healthy subjects, the time to reach maximal effect (minimum blood glucose concentrations) was approximately by two to three hours after single oral doses of glimepiride.
+The effects of HbA1C, fasting plasma glucose, and post-prandial glucose have been assessed in clinical trials.
+
+## 12.3 Pharmacokinetics
+
+Absorption and Bioavailability:
 
 DUETACT
 
-Bioequivalence studies were conducted following a single dose of the DUETACT 30 mg/2 mg and 30 mg/4 mg tablets and concomitant administration of ACTOS (30 mg) and glimepiride (2 mg or 4 mg) under fasting conditions in healthy subjects.
+Bioequivalence studies were conducted following a single dose of the DUETACT 30 mg/2 mg and 30 mg/4 mg tablets and concomitant administration of pioglitazone (30 mg) and glimepiride (2 mg or 4 mg) under fasting conditions in healthy subjects.
 
-Based on the area under the curve (AUC) and maximum concentration (Cmax) of both pioglitazone and glimepiride, DUETACT 30 mg/2 mg and 30 mg/4 mg were bioequivalent to ACTOS 30 mg concomitantly administered with glimepiride (2 mg or 4 mg, respectively) (Table 1).
-
-| Table 1. Mean (SD) Pharmacokinetic Parameters for DUETACT |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Regimen |  | N | AUC(0-inf) (ng∙h/mL) | N | Cmax (ng/mL) | N | Tmax (h) | N | T1/2 (h) |
-| 30 mg/2 mg DUETACT | pioglitazone | 58 | 11414 (2704) | 66 | 910 (336) | 66 | 1.81 (1.11) | 65 | 14.02 (6.23) |
-| glimepiride | 62 | 651 (239) | 66 | 156 (52.5) | 66 | 1.39 (0.29) | 63 | 7.05 (4.32) |  |
-| 30 mg pioglitazone + 2 mg glimepiride tablets | pioglitazone | 58 | 11496 (2926) | 66 | 975 (367) | 66 | 1.48 (1.13) | 65 | 12.71 (5.60) |
-| glimepiride | 62 | 635 (240) | 66 | 165 (53.1) | 66 | 1.36 (0.35) | 63 | 5.54 (4.21) |  |
-| 30 mg/4 mg DUETACT | pioglitazone | 55 | 11119 (3399) | 67 | 1062 (333) | 67 | 1.53 (0.81) | 67 | 10.88 (4.71) |
-| glimepiride | 64 | 1645 (576) | 67 | 319 (95.3) | 67 | 1.45 (0.39) | 64 | 10.52 (3.49) |  |
-| 30 mg pioglitazone + 4 mg glimepiride tablets | pioglitazone | 55 | 10674 (2895) | 67 | 1026 (346) | 67 | 1.52 (1.95) | 67 | 12.21 (6.30) |
-| glimepiride | 64 | 1590 (554) | 67 | 313 (97.8) | 67 | 1.76 (1.13) | 64 | 9.07 (3.47) |  |
+Based on the area under the curve (AUC) and maximum concentration (Cmax) of both pioglitazone and glimepiride, DUETACT 30 mg/2 mg and 30 mg/4 mg were bioequivalent to pioglitazone 30 mg concomitantly administered with glimepiride (2 mg or 4 mg, respectively).
 
 Food did not change the systemic exposures of glimepiride or pioglitazone following administration of DUETACT.
-The presence of food did not significantly alter the time to peak serum concentration of glimepiride or pioglitazone or peak exposure (Cmax) of pioglitazone.
+The presence of food did not significantly alter the time to peak serum concentration (Tmax) of glimepiride or pioglitazone and Cmax of pioglitazone.
 However, for glimepiride, there was a 22% increase in Cmax when DUETACT was administered with food.
 
 Pioglitazone
 
-Following oral administration, in the fasting state, pioglitazone is first measurable in serum within 30 minutes, with peak concentrations observed within two hours.
+Following once-daily administration of pioglitazone, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within seven days.
+At steady-state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone.
+At steady-state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20% to 25% of the total AUC.
+
+Cmax, AUC, and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
+
+Following oral administration of pioglitazone, Tmax of pioglitazone was within two hours.
+Food delays Tmax to three to four hours but does not alter the extent of absorption (AUC).
 
 Glimepiride
 
-After oral administration, glimepiride is completely (100%) absorbed from the GI tract.
-Studies with single oral doses in normal subjects and with multiple oral doses in patients with type 2 diabetes have shown significant absorption of glimepiride within one hour after administration and Cmax at two to three hours.
+Following single oral doses of glimepiride in healthy subjects and multiple oral doses in patients with type 2 diabetes Tmax was observed at two to three hours post-dose.
+When glimepiride was given with meals, the mean Cmax and AUC were decreased by 8% and 9%, respectively.
+
+Glimepiride does not accumulate in serum following multiple dosing.
+The pharmacokinetics of glimepiride does not differ between healthy subjects and patients with type 2 diabetes.
+Clearance (CL/F) of glimepiride after oral administration does not change over the 1 mg to 8 mg dose range, indicating linear pharmacokinetics.
+
+In healthy subjects, the intra- and inter-individual variabilities of glimepiride pharmacokinetic parameters were 15% to 23% and 24% to 29%, respectively.
 
 Distribution
 
 Pioglitazone
 
 The mean apparent volume of distribution (Vd/F) of pioglitazone following single-dose administration is 0.63 ± 0.41 (mean ± SD) L/kg of body weight.
-Pioglitazone is extensively protein bound (> 99%) in human serum, principally to serum albumin.
+Pioglitazone is extensively protein bound (>99%) in human serum, principally to serum albumin.
 Pioglitazone also binds to other serum proteins, but with lower affinity.
-Metabolites M-III and M-IV also are extensively bound (> 98%) to serum albumin.
+M-III and M-IV are also extensively bound (>98%) to serum albumin.
 
 Glimepiride
 
-After intravenous (IV) dosing in normal subjects, Vd/F was 8.8 L (113 mL/kg), and the total body clearance (CL) was 47.8 mL/min.
+After intravenous (IV) dosing in healthy subjects, Vd/F was 8.8 L (113 mL/kg).
 Protein binding was greater than 99.5%.
 
 Metabolism
@@ -82,22 +120,20 @@ Metabolism
 Pioglitazone
 
 Pioglitazone is extensively metabolized by hydroxylation and oxidation; the metabolites also partly convert to glucuronide or sulfate conjugates.
-Metabolites M-II and M-IV (hydroxy derivatives of pioglitazone) and M-III (keto derivative of pioglitazone) are pharmacologically active in animal models of type 2 diabetes.
-In addition to pioglitazone, M-III and M-IV are the principal drug-related species found in human serum following multiple dosing.
-At steady-state, in both healthy volunteers and in patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the total peak serum concentrations and 20% to 25% of the total AUC.
+Metabolites M-III and M-IV are the major circulating active metabolites in humans.
 
-In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone.
-The cytochrome P450 isoforms involved are CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1.
-In vivo studies of pioglitazone in combination with P450 inhibitors and substrates have been performed (see PRECAUTIONS, Drug Interactions, Pioglitazone).
+In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone which include CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1.
+In vivo study of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor, showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3) and Drug Interactions (7.1)].
 Urinary 6ß-hydroxycortisol/cortisol ratios measured in patients treated with pioglitazone showed that pioglitazone is not a strong CYP3A4 enzyme inducer.
 
 Glimepiride
 
 Glimepiride is completely metabolized by oxidative biotransformation after either an IV or oral dose.
 The major metabolites are the cyclohexyl hydroxy methyl derivative (M1) and the carboxyl derivative (M2).
-CYP2C9 has been shown to be involved in the biotransformation of glimepiride to M1.
+CYP2C9 is involved in the biotransformation of glimepiride to M1.
 M1 is further metabolized to M2 by one or several cytosolic enzymes.
-M1, but not M2, possesses about 1/3 of the pharmacological activity as compared to its parent in an animal model; however, whether the glucose-lowering effect of M1 is clinically meaningful is not clear.
+In animals, M1 possesses about one-third of the pharmacological activity of glimepiride, but it is unclear whether M1 results in clinically meaningful effects on blood glucose in humans.
+M2 is inactive.
 
 Excretion and Elimination
 
@@ -107,77 +143,77 @@ Following oral administration, approximately 15% to 30% of the pioglitazone dose
 Renal elimination of pioglitazone is negligible and the drug is excreted primarily as metabolites and their conjugates.
 It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces.
 
-The mean serum half-life of pioglitazone and total pioglitazone ranges from three to seven hours and 16 to 24 hours, respectively.
-Pioglitazone has an apparent clearance, CL/f, calculated to be 5 to 7 L/hr.
+The mean serum half-life (t1/2) of pioglitazone and its metabolites (M-III and M-IV) range from three to seven hours and 16 to 24 hours, respectively.
+Pioglitazone has an apparent clearance, CL/F, calculated to be five to seven L/hr.
 
 Glimepiride
 
-When 14C-glimepiride was given orally, approximately 60% of the total radioactivity was recovered in the urine in seven days and M1 (predominant) and M2 accounted for 80% to 90% of that recovered in the urine.
-Approximately 40% of the total radioactivity was recovered in feces and M1 and M2 (predominant) accounted for about 70% of that recovered in feces.
+When 14C-glimepiride was given orally to three healthy male subjects, approximately 60% of the total radioactivity was recovered in the urine in seven days.
+M1 and M2 accounted for 80% to 90% of the radioactivity recovered in the urine.
+The ratio of M1 to M2 in the urine was approximately 3:2 in two subjects and 4:1 in one subject.
+Approximately 40% of the total radioactivity was recovered in feces.
+M1 and M2 accounted for approximately 70% (ratio of M1 to M2 was 1:3) of the radioactivity recovered in feces.
 No parent drug was recovered from urine or feces.
-After IV dosing in patients, no significant biliary excretion of glimepiride or its M1 metabolite has been observed.
+After IV dosing in patients, no significant biliary excretion of glimepiride or its M1 metabolite was observed.
+Total body clearance (CL) after IV dosing was 47.8 mL/min.
 
-Special Populations
-
-Renal Insufficiency
+Renal Impairment
 
 Pioglitazone
 
-The serum elimination half-life of pioglitazone, M-III and M-IV remains unchanged in patients with moderate (creatinine clearance 30 to 60 mL/min) to severe (creatinine clearance <30 mL/min) renal impairment when compared to normal subjects.
-No dose adjustment in patients with renal dysfunction is recommended.
+The serum elimination half-life of pioglitazone, M-III, and M-IV remains unchanged in patients with moderate [creatinine clearance (CLcr) 30 to 50 mL/min] and severe (CLcr <30 mL/min) renal impairment when compared to subjects with normal renal function.
+Therefore, no dose adjustment in patients with renal impairment is required.
 
 Glimepiride
 
-A single-dose, open-label study was conducted in 15 patients with renal impairment.
-Glimepiride (3 mg) was administered to three groups of patients with different levels of mean creatinine clearance (CLcr); (Group I, CLcr = 77.7 mL/min, n = 5), (Group II, CLcr = 27.7 mL/min, n = 3), and (Group III, CLcr = 9.4 mL/min, n = 7).
-Glimepiride was found to be well tolerated in all three groups.
-The results showed that glimepiride serum levels decreased as renal function decreased.
-However, M1 and M2 serum levels (mean AUC values) increased 2.3 and 8.6 times from Group I to Group III.
-The apparent terminal half-life (T1/2) for glimepiride did not change, while the half-lives for M1 and M2 increased as renal function decreased.
-Mean urinary excretion of M1 plus M2 as percent of dose, however, decreased (44.4%, 21.9% and 9.3% for Groups I to III).
+In a single-dose, open-label study glimepiride 3 mg was administered to patients with mild, moderate and severe renal impairment as estimated by CLcr: Group I consisted of five patients with mild renal impairment (CLcr >50 mL/min), Group II consisted of 3 patients with moderate renal impairment (CLcr = 20 to 50 mL/min) and Group III consisted of seven patients with severe renal impairment (CLcr <20 mL/min).
+Although, glimepiride serum concentrations decreased with decreasing renal function, Group III had a 2.3-fold higher mean AUC for M1 and an 8.6-fold higher mean AUC for M2 compared to corresponding mean AUCs in Group I. The t½ for glimepiride did not change, while the t½ for M1 and M2 increased as renal function decreased.
+Mean urinary excretion of M1 plus M2 as a percentage of dose decreased from 44.4% for Group I to 21.9% for Group II and 9.3% for Group III.
 
-A multiple-dose titration study was also conducted in 16 patients with type 2 diabetes and with renal impairment using doses ranging from 1 mg to 8 mg daily for three months.
-The results were consistent with those observed after single doses.
-All patients with a CLcr less than 22 mL/min had adequate control of their glucose levels with a dosage regimen of only 1 mg daily.
-The results from this study suggested that a starting dose of 1 mg glimepiride may be given to patients with type 2 diabetes and kidney disease, and the dose may be titrated based on fasting blood glucose levels (see DOSAGE AND ADMINISTRATION, Special Patient Populations).
-
-Hepatic Insufficiency
+Hepatic Impairment
 
 Pioglitazone
 
-Compared with normal controls, subjects with impaired hepatic function (Child-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone mean peak concentrations but no change in the mean AUC values.
+Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III, and M-IV) mean Cmax but no change in the mean AUC values.
+Therefore, no dose adjustment in patients with hepatic impairment is required.
 
-Therapy with DUETACT should not be initiated if the patient exhibits clinical evidence of active liver disease or serum transaminase levels (ALT) exceed 2.5 times the upper limit of normal (see PRECAUTIONS, General, Pioglitazone, Hepatic Effects).
+There are postmarketing reports of liver failure with pioglitazone and clinical trials have generally excluded patients with serum ALT >2.5 times the upper limit of the reference range.
+Use DUETACT with caution in patients with liver disease [see Warnings and Precautions (5.5)].
 
 Glimepiride
 
-No studies were performed in patients with hepatic insufficiency.
+It is unknown whether there is an effect of hepatic impairment on glimepiride pharmacokinetics because the pharmacokinetics of glimepiride has not been adequately evaluated in patients with hepatic impairment.
 
-Elderly
+Geriatric Patients
 
 Pioglitazone
 
-In healthy elderly subjects, peak serum concentrations of pioglitazone and total pioglitazone are not significantly different, but AUC values are slightly higher and the terminal half-life values slightly longer than for younger subjects.
+In healthy elderly subjects, Cmax of pioglitazone was not significantly different, but AUC values were approximately 21% higher than those achieved in younger subjects.
+The mean t½ of pioglitazone was also prolonged in elderly subjects (about 10 hours) as compared to younger subjects (about seven hours).
 These changes were not of a magnitude that would be considered clinically relevant.
 
 Glimepiride
 
-Comparison of glimepiride pharmacokinetics in patients with type 2 diabetes ≤65 years and those >65 years was performed in a study using a dosing regimen of 6 mg daily.
+Glimepiride pharmacokinetics in patients with type 2 diabetes ≤65 years and those >65 years was compared in a multiple-dose study using 6 mg daily dose.
 There were no significant differences in glimepiride pharmacokinetics between the two age groups.
-The mean AUC at steady-state for the older patients was about 13% lower than that for the younger patients; the mean weight-adjusted clearance for the older patients was about 11% higher than that for the younger patients.
+The mean AUC at steady state for the older patients was approximately 13% lower than that for the younger patients; the mean weight-adjusted clearance for the older patients was approximately 11% higher than that for the younger patients.
 
-Pediatrics
+Pediatric Patients
 
 No pharmacokinetic studies of DUETACT were performed in pediatric patients.
+
+Pioglitazone
+
+Safety and efficacy of pioglitazone in pediatric patients have not been established.
+DUETACT is not recommended for use in pediatric patients [see Use in Specific Populations (8.4)].
 
 Gender
 
 Pioglitazone
 
-As monotherapy and in combination with sulfonylurea, metformin or insulin, pioglitazone improved glycemic control in both males and females.
-The mean Cmax and AUC values were increased 20% to 60% in females.
-In controlled clinical trials, hemoglobin A1C (A1C) decreases from baseline were generally greater for females than for males (average mean difference in A1C 0.5%).
-Since therapy should be individualized for each patient to achieve glycemic control, no dose adjustment is recommended based on gender alone.
+The mean Cmax and AUC values of pioglitazone were increased 20% to 60% in women compared to men.
+In controlled clinical trials, HbA1c decreases from baseline were generally greater for females than for males (average mean difference in HbA1c 0.5%).
+Because therapy should be individualized for each patient to achieve glycemic control, no dose adjustment is recommended based on gender alone.
 
 Glimepiride
 
@@ -191,7 +227,13 @@ Pharmacokinetic data among various ethnic groups are not available.
 
 Glimepiride
 
-No pharmacokinetic studies to assess the effects of race have been performed, but in placebo-controlled studies of glimepiride in patients with type 2 diabetes, the antihyperglycemic effect was comparable in whites (n = 536), blacks (n = 63) and Hispanics (n = 63).
+No studies have been conducted to assess the effects of race on glimepiride pharmacokinetics but in placebo-controlled trials of glimepiride in patients with type 2 diabetes, the reduction in HbA1c was comparable in Caucasians (n=536), blacks (n=63), and Hispanics (n=63).
+
+Obese Patients
+
+The pharmacokinetics of glimepiride and its metabolites were measured in a single-dose study involving 28 patients with type 2 diabetes who either had normal body weight or were morbidly obese.
+While the Tmax, CL/F, and Vd/F of glimepiride in the morbidly obese patients were similar to those in the normal weight group, the morbidly obese had lower Cmax and AUC than those of normal body weight.
+The mean Cmax, AUC0-24, AUC0-∞ values of glimepiride in normal vs. morbidly obese patients were 547 ± 218 ng/mL vs. 410 ± 124 ng/mL, 3210 ± 1030 hours·ng/mL vs. 2820 ± 1110 hours·ng/mL and 4000 ± 1320 hours·ng/mL versus 3280 ± 1360 hours·ng/mL, respectively.
 
 Other Populations
 
@@ -209,173 +251,82 @@ Specific pharmacokinetic drug interaction studies with DUETACT have not been per
 
 Pioglitazone
 
-The following drugs were studied in healthy volunteers with coadministration of pioglitazone 45 mg once daily.
-Results are listed below:
+| Table 13. Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Coadministered Drug |  |  |  |  |  |  |
+| Pioglitazone Dosage Regimen (mg)* | Name and Dose Regimens | Change in AUC† |  | Change in Cmax† |  |  |  |
+| 45 mg (N=12) | Warfarin‡ |  |  |  |  |  |  |
+| Daily loading then maintenance doses based PT and INR values Quick’s Value = 35 ± 5% | R-Warfarin | ↓3% | R-Warfarin |  | ↓2% |  |  |
+| S-Warfarin | ↓1% | S-Warfarin |  | ↑1% |  |  |  |
+| 45 mg (N=12) | Digoxin |  |  |  |  |  |  |
+| 0.250 mg twice daily (loading dose) then 0.250 mg daily (maintenance dose, 7 days) | ↑15% |  | ↑17% |  |  |  |  |
+| 45 mg daily for 21 days (N=35) | Oral Contraceptive |  |  |  |  |  |  |
+| [Ethinyl Estradiol (EE) 0.035 mg plus Norethindrone (NE) 1 mg] for 21 days | EE | ↓11% |  | EE |  | ↓13% |  |
+| NE | ↑3% |  | NE |  | ↓7% |  |  |
+| 45 mg (N=23) | Fexofenadine |  |  |  |  |  |  |
+| 60 mg twice daily for 7 days | ↑30% |  | ↑37% |  |  |  |  |
+| 45 mg (N=14) | Glipizide |  |  |  |  |  |  |
+| 5 mg daily for 7 days | ↓3% |  | ↓8% |  |  |  |  |
+| 45 mg daily for 8 days (N=16) | Metformin |  |  |  |  |  |  |
+| 1000 mg single dose on Day 8 | ↓3% |  | ↓5% |  |  |  |  |
+| 45 mg (N=21) | Midazolam |  |  |  |  |  |  |
+| 7.5 mg single dose on Day 15 | ↓26% |  | ↓26% |  |  |  |  |
+| 45 mg (N=24) | Ranitidine |  |  |  |  |  |  |
+| 150 mg twice daily for 7 days | ↑1% |  |  | ↓1% |  |  |  |
+| 45 mg daily for 4 days (N=24) | Nifedipine ER |  |  |  |  |  |  |
+| 30 mg daily for 4 days | ↓13% |  | ↓17% |  |  |  |  |
+| 45 mg (N=25) | Atorvastatin Ca |  |  |  |  |  |  |
+| 80 mg daily for 7 days | ↓14% |  | ↓23% |  |  |  |  |
+| 45 mg (N=22) | Theophylline |  |  |  |  |  |  |
+| 400 mg twice daily for 7 days | ↑2% |  |  | ↑5% |  |  |  |
+| *Daily for 7 days unless otherwise noted †% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively ‡Pioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |  |  |  |
 
-Oral Contraceptives
-
-Coadministration of pioglitazone (45 mg once daily) and an oral contraceptive (1 mg norethindrone plus 0.035 mg ethinyl estradiol once daily) for 21 days, resulted in 11% and 11% to 14% decrease in ethinyl estradiol AUC0-24h and Cmax respectively.
-There were no significant changes in norethindrone AUC0-24h and Cmax.
-In view of the high variability of ethinyl estradiol pharmacokinetics, the clinical significance of this finding is unknown.
-
-Midazolam
-
-Administration of pioglitazone for 15 days followed by a single 7.5 mg dose of midazolam syrup resulted in a 26% reduction in midazolam Cmax and AUC.
-
-Nifedipine ER
-
-Coadministration of pioglitazone for seven days with 30 mg nifedipine ER administered orally once daily for four days to male and female volunteers resulted in a ratio of least square mean (90% CI) values for unchanged nifedipine of 0.83 (0.73 to 0.95) for Cmax and 0.88 (0.80 to 0.96) for AUC.
-In view of the high variability of nifedipine pharmacokinetics, the clinical significance of this finding is unknown.
-
-Ketoconazole
-
-Coadministration of pioglitazone for seven days with ketoconazole 200 mg administered twice daily resulted in a ratio of least square mean (90% CI) values for unchanged pioglitazone of 1.14 (1.06 to 1.23) for Cmax, 1.34 (1.26 to 1.41) for AUC and 1.87 (1.71 to 2.04) for Cmin.
-
-Atorvastatin Calcium
-
-Coadministration of pioglitazone for seven days with atorvastatin calcium (LIPITOR) 80 mg once daily resulted in a ratio of least square mean (90% CI) values for unchanged pioglitazone of 0.69 (0.57 to 0.85) for Cmax, 0.76 (0.65 to 0.88) for AUC and 0.96 (0.87 to 1.05) for Cmin.
-For unchanged atorvastatin, the ratio of least square mean (90% CI) values were 0.77 (0.66 to 0.90) for Cmax, 0.86 (0.78 to 0.94) for AUC and 0.92 (0.82 to 1.02) for Cmin.
-
-Cytochrome P450
-
-See PRECAUTIONS, Drug Interactions, Pioglitazone.
-
-Gemfibrozil
-
-Concomitant administration of gemfibrozil (oral 600 mg twice daily), an inhibitor of CYP2C8, with pioglitazone (oral 30 mg) in 10 healthy volunteers pretreated for two days prior with gemfibrozil (oral 600 mg twice daily) resulted in pioglitazone exposure (AUC0-24) being 226% of the pioglitazone exposure in the absence of gemfibrozil (see PRECAUTIONS, Drug Interactions, Pioglitazone).1
-
-Rifampin
-
-Concomitant administration of rifampin (oral 600 mg once daily), an inducer of CYP2C8 with pioglitazone (oral 30 mg) in 10 healthy volunteers pretreated for five days prior with rifampin (oral 600 mg once daily) resulted in a decrease in the AUC of pioglitazone by 54% (see PRECAUTIONS, Drug Interactions, Pioglitazone).2
-
-In other drug-drug interaction studies, pioglitazone had no significant effect on the pharmacokinetics of fexofenadine, metformin, digoxin, warfarin, ranitidine or theophylline.
+| Table 14. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure |  |  |  |
+| --- | --- | --- | --- |
+| Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
+| Dose Regimen (mg)* | Change in AUC† | Change in Cmax† |  |
+| Gemfibrozil 600 mg twice daily for 2 days (N=12) | 15 mg single dose | ↑3.2-fold‡ | ↑6% |
+| Ketoconazole 200 mg twice daily for 7 days (N=28) | 45 mg | ↑34% | ↑14% |
+| Rifampin 600 mg daily for 5 days (N=10) | 30 mg single dose | ↓54% | ↓5% |
+| Fexofenadine 60 mg twice daily for 7 days (N=23) | 45 mg | ↑1% | 0% |
+| Ranitidine 150 mg twice daily for 4 days (N=23) | 45 mg | ↓13% | ↓16% |
+| Nifedipine ER 30 mg daily for 7 days (N=23) | 45 mg | ↑5% | ↑4% |
+| Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓24% | ↓31% |
+| Theophylline 400 mg twice daily for 7 days (N=22) | 45 mg | ↓4% | ↓2% |
+| *Daily for 7 days unless otherwise noted †Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively ‡The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] |  |  |  |
 
 Glimepiride
-
-The hypoglycemic action of sulfonylureas may be potentiated by certain drugs, including nonsteroidal anti-inflammatory drugs and other drugs that are highly protein bound, such as salicylates, sulfonamides, chloramphenicol, coumarins, probenecid, monoamine oxidase inhibitors and beta adrenergic blocking agents.
-Due to the potential drug interaction between these drugs and glimepiride, the patient should be observed closely for hypoglycemia when these drugs are coadministered.
-Conversely, when these drugs are withdrawn, the patient should be observed closely for loss of glycemic control.
-
-Certain drugs tend to produce hyperglycemia and may lead to loss of control.
-These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, and isoniazid.
-Due to the potential drug interaction between these drugs and glimepiride, the patient should be observed closely for loss of glycemic control when these drugs are co-administered.
-Conversely, when these drugs are withdrawn, the patient should be observed closely for hypoglycemia.
 
 Aspirin
 
-Coadministration of aspirin (1 g three times daily) and glimepiride led to a 34% decrease in the mean glimepiride AUC and, therefore, a 34% increase in the mean CL/f.
-The mean Cmax had a decrease of 4%.
-Blood glucose and serum C-peptide concentrations were unaffected and no hypoglycemic symptoms were reported.
-Pooled data from clinical trials showed no evidence of clinically significant adverse interactions with uncontrolled concurrent administration of aspirin and other salicylates.
+In a randomized, double-blind, two-period, crossover study, healthy subjects were given either placebo or aspirin 1 gram three times daily for a total treatment period of 5 days.
+On Day 4 of each study period, a single 1 mg dose of glimepiride was administered.
+The glimepiride doses were separated by a 14-day washout period.
+Coadministration of aspirin and glimepiride resulted in a 34% decrease in the mean glimepiride AUC and a 4% decrease in the mean glimepiride Cmax.
 
-Cimetidine/Ranitidine
+Cimetidine and Ranitidine
 
-Coadministration of either cimetidine (800 mg once daily) or ranitidine (150 mg twice daily) with a single 4-mg oral dose of glimepiride did not significantly alter the absorption and disposition of glimepiride, and no differences were seen in hypoglycemic symptomatology.
-Pooled data from clinical trials showed no evidence of clinically significant adverse interactions with uncontrolled concurrent administration of H2-receptor antagonists.
+In a randomized, open-label, 3-way crossover study, healthy subjects received either a single 4 mg dose of glimepiride alone, glimepiride with ranitidine (150 mg twice daily for 4 days; glimepiride was administered on Day 3), or glimepiride with cimetidine (800 mg daily for 4 days; glimepiride was administered on Day 3).
+Coadministration of cimetidine or ranitidine with a single 4 mg oral dose of glimepiride did not significantly alter the absorption and disposition of glimepiride.
 
 Propranolol
 
-Concomitant administration of propranolol (40 mg three times daily) and glimepiride significantly increased Cmax, AUC and T1/2 of glimepiride by 23%, 22%, and 15%, respectively, and it decreased CL/f by 18%.
-The recovery of M1 and M2 from urine, however, did not change.
-The pharmacodynamic responses to glimepiride were nearly identical in normal subjects receiving propranolol and placebo.
-Pooled data from clinical trials in patients with type 2 diabetes showed no evidence of clinically significant adverse interactions with uncontrolled concurrent administration of beta-blockers.
-However, if beta-blockers are used, caution should be exercised and patients should be warned about the potential for hypoglycemia.
+In a randomized, double-blind, two-period, crossover study, healthy subjects were given either placebo or propranolol 40 mg three times daily for a total treatment period of five days.
+On Day 4 or each study period, a single 2 mg dose of glimepiride was administered.
+The glimepiride doses were separated by a 14-day washout period.
+Concomitant administration of propranolol and glimepiride significantly increased glimepiride Cmax, AUC, and t1/2 by 23%, 22%, and 15%, respectively, and decreased glimepiride CL/F by 18%.
+The recovery of M1 and M2 from urine was not changed.
 
 Warfarin
 
-Concomitant administration of glimepiride (4 mg once daily) did not alter the pharmacokinetic characteristics of R- and S-warfarin enantiomers following administration of a single dose (25 mg) of racemic warfarin to healthy subjects.
+In an open-label, two-way, crossover study, healthy subjects received 4 mg of glimepiride daily for 10 days.
+Single 25 mg doses of warfarin were administered six days before starting glimepiride and on Day 4 of glimepiride administration.
+The concomitant administration of glimepiride did not alter the pharmacokinetics of R- and S-warfarin enantiomers.
 No changes were observed in warfarin plasma protein binding.
-Glimepiride treatment did result in a slight, but statistically significant, decrease in the pharmacodynamic response to warfarin.
-The reductions in mean area under the prothrombin time (PT) curve and maximum PT values during glimepiride treatment were very small (3.3% and 9.9%, respectively) and are unlikely to be clinically important.
+Glimepiride resulted in a statistically significant decrease in the pharmacodynamic response to warfarin.
+The reductions in mean area under the prothrombin time (PT) curve and maximum PT values during glimepiride treatment were 3.3% and 9.9%, respectively, and are unlikely to be clinically relevant.
 
-Ramipril
+Colesevelam
 
-The responses of serum glucose, insulin, C-peptide and plasma glucagon to 2 mg glimepiride were unaffected by coadministration of ramipril (an ACE inhibitor) 5 mg once daily in normal subjects.
-No hypoglycemic symptoms were reported.
-Pooled data from clinical trials in patients with type 2 diabetes showed no evidence of clinically significant adverse interactions with uncontrolled concurrent administration of ACE inhibitors.
-
-Miconazole
-
-A potential interaction between oral miconazole and oral hypoglycemic agents leading to severe hypoglycemia has been reported.
-Whether this interaction also occurs with the intravenous, topical, or vaginal preparations of miconazole is not known.
-There is a potential interaction of glimepiride with inhibitors (e.g., fluconazole) and inducers (e.g., rifampicin) of cytochrome P450 2C9.
-
-Although no specific interaction studies were performed with glimepiride, pooled data from clinical trials showed no evidence of clinically significant adverse interactions with uncontrolled concurrent administration of calcium-channel blockers, estrogens, fibrates, NSAIDS, HMG CoA reductase inhibitors, sulfonamides or thyroid hormone.
-
-Pharmacodynamics and Clinical Effects
-
-Pioglitazone
-
-Clinical studies demonstrate that pioglitazone improves insulin sensitivity in insulin-resistant patients.
-Pioglitazone enhances cellular responsiveness to insulin, increases insulin-dependent glucose disposal, improves hepatic sensitivity to insulin, and improves dysfunctional glucose homeostasis.
-In patients with type 2 diabetes, the decreased insulin resistance produced by pioglitazone results in lower plasma glucose concentrations, lower plasma insulin levels, and lower A1C values.
-Based on results from an open-label extension study, the glucose-lowering effects of pioglitazone appear to persist for at least one year.
-In controlled clinical studies, pioglitazone in combination with a sulfonylurea had an additive effect on glycemic control.
-
-Patients with lipid abnormalities were included in placebo-controlled monotherapy clinical studies with pioglitazone.
-Overall, patients treated with pioglitazone had mean decreases in triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL cholesterol and total cholesterol compared to the placebo group.
-A similar pattern of results was seen in 16-week and 24-week combination therapy studies of pioglitazone with a sulfonylurea.
-
-Glimepiride
-
-A mild glucose-lowering effect first appeared following single oral doses as low as 0.5 to 0.6 mg in healthy subjects.
-The time required to reach the maximum effect (i.e., minimum blood glucose level [Tmin]) was about two to three hours.
-In patients with type 2 diabetes, both fasting and 2-hour postprandial glucose levels were significantly lower with glimepiride (1, 2, 4 and 8 mg once daily) than with placebo after 14 days of oral dosing.
-The glucose-lowering effect in all active treatment groups was maintained over 24 hours.
-
-In larger dose-ranging studies, blood glucose and A1C were found to respond in a dose-dependent manner over the range of 1 to 4 mg/day of glimepiride.
-Some patients, particularly those with higher fasting plasma glucose (FPG) levels, may benefit from doses of glimepiride up to 8 mg once daily.
-No difference in response was found when glimepiride was administered once or twice daily.
-
-In two 14-week, placebo-controlled studies in 720 subjects, the average net reduction in A1C for patients treated with 8 mg of glimepiride once daily was 2.0% in absolute units compared with placebo-treated patients.
-In a long-term, randomized, placebo-controlled study of patients with type 2 diabetes unresponsive to dietary management, glimepiride therapy improved postprandial insulin/C-peptide responses, and 75% of patients achieved and maintained control of blood glucose and A1C.
-Efficacy results were not affected by age, gender, weight or race.
-In long-term extension trials with previously treated patients, no meaningful deterioration in mean fasting plasma glucose (FPG) or A1C levels was seen after 2 1/2 years of glimepiride therapy.
-
-Glimepiride therapy is effective in controlling blood glucose without deleterious changes in the plasma lipoprotein profiles of patients treated for type 2 diabetes.
-
-Clinical Studies
-
-There have been no clinical efficacy studies conducted with DUETACT.
-However, the efficacy and safety of the separate components have been previously established.
-The coadministration of pioglitazone and a sulfonylurea, including glimepiride, has been evaluated for efficacy and safety in two clinical studies.
-These clinical studies established an added benefit of pioglitazone in glycemic control of patients with inadequately controlled type 2 diabetes while on sulfonylurea therapy.
-Bioequivalence of DUETACT with coadministered pioglitazone and glimepiride tablets was demonstrated at the 30 mg/2 mg and 30 mg/4 mg dosage strengths (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Drug Metabolism, Absorption and Bioavailability).
-
-Clinical Studies of Pioglitazone Add-on Therapy in Patients Not Adequately Controlled on a Sulfonylurea
-
-Two treatment-randomized, controlled clinical studies in patients with type 2 diabetes were conducted to evaluate the safety and efficacy of pioglitazone plus a sulfonylurea.
-Both studies included patients receiving a sulfonylurea, either alone or in combination with another antihyperglycemic agent, who had inadequate glycemic control.
-Excluding the sulfonylurea agent, all other antihyperglycemic agents were discontinued prior to starting study treatment.
-In the first study, 560 patients were randomized to receive 15 mg or 30 mg of pioglitazone or placebo once daily in addition to their current sulfonylurea regimen for 16 weeks.
-In the second study, 702 patients were randomized to receive 30 mg or 45 mg of pioglitazone once daily in addition to their current sulfonylurea regimen for 24 weeks.
-
-In the first study, the addition of pioglitazone 15 mg or 30 mg once daily to treatment with a sulfonylurea after 16 weeks significantly reduced the mean A1C by 0.88% and 1.28% and the mean FPG by 39.4 mg/dL and 57.9 mg/dL, respectively, from that observed with sulfonylurea treatment alone.
-In the second study, the mean reductions from baseline at Week 24 in A1C were 1.55% and 1.67% for the 30 mg and 45 mg doses, respectively.
-Mean reductions from baseline in FPG were 51.5 mg/dL and 56.1 mg/dL, respectively.
-Based on these reductions in A1C and FPG (Table 2), the addition of pioglitazone to sulfonylurea resulted in significant improvements in glycemic control irrespective of the sulfonylurea dosage.
-
-| Table 2. Glycemic Parameters in 16-Week and 24-Week Pioglitazone + Sulfonylurea Combination Studies |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Parameter | Placebo + Sulfonylurea | Pioglitazone 15 mg + Sulfonylurea |  | Pioglitazone 30 mg + Sulfonylurea |
-| 16-Week Study |  |  |  |  |
-| A1C (%) | N=181 | N=176 |  | N=182 |
-| Baseline mean | 9.86 | 10.01 |  | 9.93 |
-| Mean change from baseline at 16 weeks | 0.06 | -0.82Significant change from baseline p ≤0.050Significant difference from placebo plus sulfonylurea, p ≤0.050 |  | -1.22 |
-| Difference in change from placebo + sulfonylurea |  | -0.88 |  | -1.28 |
-| Responder rate (%)Patients who achieved an A1C ≤6.1% or ≥0.6% decrease from baseline | 23.8 | 56.8 |  | 74.2 |
-| FPG (mg/dL) | N=182 | N=179 |  | N=186 |
-| Baseline mean | 236 | 246.8 |  | 238.9 |
-| Mean change from baseline at 16 weeks | 5.6 | -33.8 |  | -52.3 |
-| Difference in change from placebo + sulfonylurea |  | -39.4 |  | -57.9 |
-| Responder rate (%)Patients who achieved a decrease in FPG by ≥30 mg/dL | 22.0 | 55.3 |  | 67.7 |
-| Parameter | Pioglitazone 30 mg + Sulfonylurea |  | Pioglitazone 45 mg + Sulfonylurea |  |
-| 24-Week Study |  |  |  |  |
-| A1C (%) | N=340 |  | N=332 |  |
-| Baseline mean | 9.77 |  | 9.85 |  |
-| Mean change from baseline at 24 weeks | -1.55 |  | -1.67 |  |
-| Responder rate (%) | 77.4 |  | 79.5 |  |
-| FPG (mg/dL) | N=338 |  | N=329 |  |
-| Baseline mean | 214.4 |  | 217.2 |  |
-| Mean change from baseline at 24 weeks | -51.5 |  | -56.1 |  |
-| Responder rate (%) | 63.6 |  | 71.1 |  |
+Concomitant administration of colesevelam and glimepiride resulted in reductions in glimepiride AUC0-∞ and Cmax of 18% and 8%, respectively.
+When glimepiride was administered 4 hours prior to colesevelam, there was not significant change in glimepiride AUC0-∞ and Cmax, -6% and 3%, respectively [see Dosage and Administration (2.4) and Drug Interactions (7.5)].

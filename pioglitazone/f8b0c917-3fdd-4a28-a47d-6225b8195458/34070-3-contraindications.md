@@ -1,9 +1,5 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Initiation of DUETACT in patients with established New York Heart Association (NYHA) Class III or IV heart failure is contraindicated (see BOXED WARNING).
-
-In addition, DUETACT is contraindicated in patients with:
-
-1. 1.Known hypersensitivity to pioglitazone, glimepiride or any other component of DUETACT.
-2. 2.Diabetic ketoacidosis, with or without coma.
-   This condition should be treated with insulin.
+- •Initiation in patients with established NYHA Class III or IV heart failure [see Boxed Warning].
+- •Use in patients with known hypersensitivity to pioglitazone, glimepiride or any other component of DUETACT [see Warnings and Precautions (5.3)].
+- •Use in patients with known history of an allergic reaction to sulfonamide derivatives.
