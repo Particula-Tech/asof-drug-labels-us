@@ -127,7 +127,7 @@ The use of Nutropin AQ in patients with CRI requiring glucocorticoid therapy has
 Concomitant glucocorticoid therapy may inhibit the growth promoting effect of Nutropin AQ.
 Therefore, if glucocorticoid replacement is required for CRI, the glucocorticoid dose should be carefully adjusted to avoid an inhibitory effect on growth.
 
-There was no evidence in the controlled studies of Nutropin’s interaction with drugs commonly used in chronic renal insufficiency patients.
+There was no evidence in the controlled studies of Nutropin's interaction with drugs commonly used in chronic renal insufficiency patients.
 Limited published data indicate that somatropin treatment increases cytochrome P450 (CP450) mediated antipyrine clearance in man.
 These data suggest that somatropin administration may alter the clearance of compounds known to be metabolized by CP450 liver enzymes (e.g., corticosteroids, sex steroids, anticonvulsants, cyclosporin).
 Careful monitoring is advisable when somatropin is administered in combination with other drugs known to be metabolized by CP450 liver enzymes.

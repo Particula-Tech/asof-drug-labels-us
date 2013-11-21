@@ -88,7 +88,7 @@ In these studies, Turner syndrome patients (n = 181) treated to final adult heig
 A long term, open label, multicenter study (86‑053) was conducted to examine the safety and efficacy of Nutropin in pediatric patients with idiopathic short stature, also called non‑GH deficient short stature.
 For the first year, 122 pre‑pubertal subjects over the age of 5 years with stimulated serum GH≥ 10 ng/mL were randomized into two treatment groups of approximately equal size; one group was treated with Nutropin 0.3 mg/kg weekly divided into three doses per week (TIW) and the other group served as untreated controls.
 For the second and subsequent years of the study, all subjects were re-randomized to receive the same total weekly dose of Nutropin (0.3 mg/kg weekly) administered either daily or TIW.
-Treatment with Nutropin was continued until a subject’s bone age was>15.0 years (boys) or >14.0 years (girls) and the growth rate was<2 cm/yr, after which subjects were followed until adult height was achieved.
+Treatment with Nutropin was continued until a subject's bone age was>15.0 years (boys) or >14.0 years (girls) and the growth rate was<2 cm/yr, after which subjects were followed until adult height was achieved.
 The mean baseline values were: height SD score –2.8, IGF‑I SD score –0.9, age 9.4 years, bone age 7.8 years, growth rate 4.4 cm/yr, mid parental target height SD score –0.7, and Bayley‑Pinneau predicted adult height SD score –2.3.
 Nearly all subjects had predicted adult height that was less than mid‑parental target height.
 
