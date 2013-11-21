@@ -8,4 +8,4 @@ Co-marketed by sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 XYZAL is a registered trademark of the UCB Group of companies.
 
-©2012 UCB, Inc. All rights reserved.
+©2013 UCB, Inc. All rights reserved.
