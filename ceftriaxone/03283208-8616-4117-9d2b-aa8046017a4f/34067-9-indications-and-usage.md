@@ -3,18 +3,18 @@
 Before instituting treatment with ceftriaxone, appropriate specimens should be obtained for isolation of the causative organism and for determination of its susceptibility to the drug.
 Therapy may be instituted prior to obtaining results of susceptibility testing.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of ceftriaxone for injection and other antibacterial drugs, ceftriaxone for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ceftriaxone for injection, USP and other antibacterial drugs, ceftriaxone for injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
-Ceftriaxone for injection is indicated for the treatment of the following infections when caused by susceptible organisms:
+Ceftriaxone for injection, USP is indicated for the treatment of the following infections when caused by susceptible organisms:
 
 ## Lower Respiratory Tract Infections
 
-caused by Streptococcus pneumoniae, Staphylococcus aureus, Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Escherichia coli, Enterobacter aerogenes, Proteus mirabilis or Serratia marcescens.
+caused by Streptococcus pneumoniae, Staphylococcus aureus, Haemophilusinfluenzae, Haemophilusparainfluenzae, Klebsiellapneumoniae, Escherichia coli, Enterobacteraerogenes, Proteus mirabilis or Serratiamarcescens.
 
 ## Acute Bacterial Otitis Media
 
-caused by Streptococcus pneumoniae, Haemophilus influenzae (including beta-lactamase producing strains) or Moraxella catarrhalis (including beta-lactamase producing strains).
+caused by Streptococcus pneumoniae, Haemophilusinfluenzae (including beta-lactamase producing strains) or Moraxella catarrhalis (including beta-lactamase producing strains).
 
 NOTE: In one study lower clinical cure rates were observed with a single dose of ceftriaxone compared to 10 days of oral therapy.
 In a second study comparable cure rates were observed between single dose ceftriaxone and the comparator.
@@ -22,12 +22,12 @@ The potentially lower clinical cure rate of ceftriaxone should be balanced again
 
 ## Skin and Skin Structure Infections
 
-caused by Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Viridans group streptococci, Escherichia coli, Enterobacter cloacae, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Morganella morganii,Efficacy for this organism in this organ system was studied in fewer than ten infections.
-Pseudomonas aeruginosa, Serratia marcescens, Acinetobacter calcoaceticus, Bacteroides fragilisEfficacy for this organism in this organ system was studied in fewer than ten infections. or Peptostreptococcus species.
+caused by Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Viridans group streptococci, Escherichia coli, Enterobacter cloacae, Klebsiellaoxytoca, Klebsiellapneumoniae, Proteus mirabilis, Morganellamorganii,Efficacy for this organism in this organ system was studied in fewer than ten infections.
+Pseudomonas aeruginosa, Serratiamarcescens, Acinetobactercalcoaceticus, BacteroidesfragilisEfficacy for this organism in this organ system was studied in fewer than ten infections. or Peptostreptococcus species.
 
 ## Urinary Tract Infections (complicated and uncomplicated)
 
-caused by Escherichia coli, Proteus mirabilis, Proteus vulgaris, Morganella morganii or Klebsiella pneumoniae.
+caused by Escherichia coli, Proteus mirabilis, Proteus vulgaris, Morganellamorganii or Klebsiellapneumoniae.
 
 ## Uncomplicated Gonorrhea (cervical/urethral and rectal)
 
@@ -41,19 +41,19 @@ Therefore, when cephalosporins are used in the treatment of patients with pelvic
 
 ## Bacterial Septicemia
 
-caused by Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Haemophilus influenzae or Klebsiella pneumoniae.
+caused by Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Haemophilusinfluenzae or Klebsiellapneumoniae.
 
 ## Bone and Joint Infections
 
-caused by Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Proteus mirabilis, Klebsiella pneumoniae or Enterobacter species.
+caused by Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Proteus mirabilis, Klebsiellapneumoniae or Enterobacter species.
 
 ## Intra-abdominal Infections
 
-caused by Escherichia coli, Klebsiella pneumoniae, Bacteroides fragilis, Clostridium species (Note: most strains of Clostridium difficile are resistant) or Peptostreptococcus species.
+caused by Escherichia coli, Klebsiellapneumoniae, Bacteroidesfragilis, Clostridium species (Note: most strains of Clostridium difficile are resistant) or Peptostreptococcus species.
 
 ## Meningitis
 
-caused by Haemophilus influenzae, Neisseria meningitidis or Streptococcus pneumoniae.
+caused by Haemophilusinfluenzae, Neisseria meningitidis or Streptococcus pneumoniae.
 Ceftriaxone has also been used successfully in a limited number of cases of meningitis and shunt infection caused by Staphylococcus epidermidisEfficacy for this organism in this organ system was studied in fewer than ten infections. and Escherichia coli.Efficacy for this organism in this organ system was studied in fewer than ten infections.
 
 ## Surgical Prophylaxis
