@@ -61,7 +61,7 @@ The doctor may choose not to keep someone on Advair® (salmeterol in combination
 
 Potential Adverse Effects
 
- Skin rashes ranging in severity from mild to toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome and Erythema multiforme have been reported in patients receiving KALETRA or its components lopinavir and/or ritonavir.
+ Skin rashes ranging in severity from mild to toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome, erythema multiforme, urticaria, and angioedema have been reported in patients receiving KALETRA or its components lopinavir and/or ritonavir.
 Patients should be advised to contact their healthcare provider if they develop a rash while taking KALETRA.
 The healthcare provider will determine if treatment should be continued or an alternative antiretroviral regimen used.
 

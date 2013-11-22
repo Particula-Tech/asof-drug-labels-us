@@ -7,17 +7,19 @@ Pregnancy Category C.
 Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to KALETRA, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1-800-258-4263.
 
-Human Data:
+Human Data
 
 There are no adequate and well-controlled studies in pregnant women.
 KALETRA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Antiretroviral Pregnancy Registry: As of January 2011, the Antiretroviral Pregnancy Registry (APR) has received prospective reports of 2458 exposures to lopinavir containing regimens (738 exposed in the first trimester and 1720 exposed in the second and third trimester).
+Antiretroviral Pregnancy Registry
+
+As of January 2011, the Antiretroviral Pregnancy Registry (APR) has received prospective reports of 2458 exposures to lopinavir containing regimens (738 exposed in the first trimester and 1720 exposed in the second and third trimester).
 Birth defects occurred in 16 of the 738 (2.2%) live births (first trimester exposure) and 41 of the 1720 (2.4%) live births (second/third trimester exposure).
 Among pregnant women in the U.S. reference population, the background rate of birth defects is 2.7%.
 There was no association between lopinavir and overall birth defects observed in the APR.
 
-Animal Data:
+Animal Data
 
 No treatment-related malformations were observed when lopinavir in combination with ritonavir was administered to pregnant rats or rabbits.
 Embryonic and fetal developmental toxicities (early resorption, decreased fetal viability, decreased fetal body weight, increased incidence of skeletal variations and skeletal ossification delays) occurred in rats at a maternally toxic dosage.

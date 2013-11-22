@@ -7,7 +7,7 @@ See also Contraindications (4), Warnings and Precautions (5.1), Clinical Pharmac
 Lopinavir/ritonavir is an inhibitor of CYP3A and may increase plasma concentrations of agents that are primarily metabolized by CYP3A.
 Agents that are extensively metabolized by CYP3A and have high first pass metabolism appear to be the most susceptible to large increases in AUC (> 3-fold) when co-administered with KALETRA.
 Thus, co-administration of KALETRA with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated.
-Co-administration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 9.
+Co-administration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 8.
 
 Additionally, KALETRA induces glucuronidation.
 
@@ -18,10 +18,10 @@ Although not observed in the KALETRA/ketoconazole drug interaction study, co-adm
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
-Table 9 provides a listing of established or potentially clinically significant drug interactions.
+Table 8 provides a listing of established or potentially clinically significant drug interactions.
 Alteration in dose or regimen may be recommended based on drug interaction studies or predicted interaction [see Clinical Pharmacology (12.3) for magnitude of interaction].
 
-Table 9.
+Table 8.
 Established and Other Potentially Significant Drug Interactions
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Lopinavir or Concomitant Drug | Clinical Comments |
@@ -44,7 +44,7 @@ Established and Other Potentially Significant Drug Interactions
 | Anticancer Agents: vincristine, vinblastine, dasatinib, nilotinib | ↑ anticancer agents | Concentrations of these drugs may be increased when co-administered with KALETRA resulting in the potential for increased adverse events usually associated with these anticancer agents. For vincristine and vinblastine, consideration should be given to temporarily withholding the ritonavir-containing antiretroviral regimen in patients who develop significant hematologic or gastrointestinal side effects when KALETRA is administered concurrently with vincristine or vinblastine. If the antiretroviral regimen must be withheld for a prolonged period, consideration should be given to initiating a revised regimen that does not include a CYP3A or P-gp inhibitor. A decrease in the dosage or an adjustment of the dosing interval of nilotinib and dasatinib may be necessary for patients requiring co-administration with strong CYP3A inhibitors such as KALETRA. Please refer to the nilotinib and dasatinib prescribing information for dosing instructions. |
 | Anticoagulants: warfarin, rivaroxaban | ↑ rivaroxaban | Concentrations of warfarin may be affected. It is recommended that INR (international normalized ratio) be monitored. Avoid concomitant use of rivaroxaban and KALETRA. Co-administration of KALETRA and rivaroxaban is expected to result in increased exposure of rivaroxaban which may lead to risk of increased bleeding. |
 | Anticonvulsants: carbamazepine, phenobarbital, phenytoin | ↓ lopinavir ↓ phenytoin | KALETRA may be less effective due to decreased lopinavir plasma concentrations in patients taking these agents concomitantly and should be used with caution. KALETRA should not be administered once daily in combination with carbamazepine, phenobarbital, or phenytoin. In addition, co-administration of phenytoin and KALETRA may cause decreases in steady-state phenytoin concentrations. Phenytoin levels should be monitored when co-administering with KALETRA. |
-| Anticonvulsants: lamotrigine, valproate | ↓ lamotrigine ↓ or ↔ valproate | Co-administration of KALETRA and lamotrigine or valproate may decrease the exposure of lamotrigine or valproate. A dose increase of lamotrigine or valproate may be needed when co-administered with KALETRA and therapeutic concentration monitoring for lamotrigine may be indicated; particularly during dosage adjustments [see Clinical Pharmacology (12.3)]. |
+| Anticonvulsants: lamotrigine, valproate | ↓ lamotrigine ↓ or ↔ valproate | Co-administration of KALETRA and lamotrigine or valproate may decrease the exposure of lamotrigine or valproate. A dose increase of lamotrigine or valproate may be needed when co-administered with KALETRA and therapeutic concentration monitoring for lamotrigine may be indicated; particularly during dosage adjustments. |
 | Antidepressant: bupropion | ↓ bupropion ↓ active metabolite, hydroxybupropion | Concurrent administration of bupropion with KALETRA may decrease plasma levels of both bupropion and its active metabolite (hydroxybupropion). Patients receiving KALETRA and bupropion concurrently should be monitored for an adequate clinical response to bupropion. |
 | Antidepressant: trazodone | ↑ trazodone | Concomitant use of trazodone and KALETRA may increase concentrations of trazodone. Adverse reactions of nausea, dizziness, hypotension and syncope have been observed following co-administration of trazodone and ritonavir. If trazodone is used with a CYP3A4 inhibitor such as ritonavir, the combination should be used with caution and a lower dose of trazodone should be considered. |
 | Anti-infective: clarithromycin | ↑ clarithromycin | For patients with renal impairment, the following dosage adjustments should be considered: • For patients with CLCR 30 to 60 mL/min the dose of clarithromycin should be reduced by 50%. • For patients with CLCR < 30 mL/min the dose of clarithromycin should be decreased by 75%. No dose adjustment for patients with normal renal function is necessary. |

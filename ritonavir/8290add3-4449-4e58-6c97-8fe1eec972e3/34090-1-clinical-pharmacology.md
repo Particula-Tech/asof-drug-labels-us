@@ -3,6 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Lopinavir is an antiviral drug [see Microbiology (12.4)].
+As co-formulated in KALETRA, ritonavir inhibits the CYP3A-mediated metabolism of lopinavir, thereby providing increased plasma levels of lopinavir.
 
 ## 12.3 Pharmacokinetics
 
@@ -19,7 +20,9 @@ Figure 1 displays the mean steady-state plasma concentrations of lopinavir and r
 Figure 1.
 Mean Steady-State Plasma Concentrations with 95% Confidence Intervals (CI) for HIV-1 Infected Adult Subjects (N = 19)
 
-Absorption In a pharmacokinetic study in HIV-1 positive subjects (n = 19), multiple dosing with 400/100 mg KALETRA twice daily with food for 3 weeks produced a mean ± SD lopinavir peak plasma concentration (Cmax) of 9.8 ± 3.7 µg/mL, occurring approximately 4 hours after administration.
+Absorption
+
+In a pharmacokinetic study in HIV-1 positive subjects (n = 19), multiple dosing with 400/100 mg KALETRA twice daily with food for 3 weeks produced a mean ± SD lopinavir peak plasma concentration (Cmax) of 9.8 ± 3.7 µg/mL, occurring approximately 4 hours after administration.
 The mean steady-state trough concentration prior to the morning dose was 7.1 ± 2.9 µg/mL and minimum concentration within a dosing interval was 5.5 ± 2.7 µg/mL.
 Lopinavir AUC over a 12 hour dosing interval averaged 92.6 ± 36.7 µg•h/mL.
 The absolute bioavailability of lopinavir co-formulated with ritonavir in humans has not been established.
@@ -28,19 +31,30 @@ When administered under fasting conditions, both the mean AUC and Cmax of lopina
 
 Plasma concentrations of lopinavir and ritonavir after administration of two 200/50 mg KALETRA tablets are similar to three 133.3/33.3 mg KALETRA capsules under fed conditions with less pharmacokinetic variability.
 
-Effects of Food on Oral Absorption KALETRA Tablets No clinically significant changes in Cmax and AUC were observed following administration of KALETRA tablets under fed conditions compared to fasted conditions.
+Effects of Food on Oral Absorption
+
+KALETRA Tablets
+
+No clinically significant changes in Cmax and AUC were observed following administration of KALETRA tablets under fed conditions compared to fasted conditions.
 Relative to fasting, administration of KALETRA tablets with a moderate fat meal (500 - 682 Kcal, 23 to 25% calories from fat) increased lopinavir AUC and Cmax by 26.9% and 17.6%, respectively.
 Relative to fasting, administration of KALETRA tablets with a high fat meal (872 Kcal, 56% from fat) increased lopinavir AUC by 18.9% but not Cmax.
 Therefore, KALETRA tablets may be taken with or without food.
-KALETRA Oral Solution Relative to fasting, administration of KALETRA oral solution with a moderate fat meal (500 - 682 Kcal, 23 to 25% calories from fat) increased lopinavir AUC and Cmax by 80 and 54%, respectively.
+
+KALETRA Oral Solution
+
+Relative to fasting, administration of KALETRA oral solution with a moderate fat meal (500 - 682 Kcal, 23 to 25% calories from fat) increased lopinavir AUC and Cmax by 80 and 54%, respectively.
 Relative to fasting, administration of KALETRA oral solution with a high fat meal (872 Kcal, 56% from fat) increased lopinavir AUC and Cmax by 130% and 56%, respectively.
 To enhance bioavailability and minimize pharmacokinetic variability KALETRA oral solution should be taken with food.
 
-Distribution At steady state, lopinavir is approximately 98-99% bound to plasma proteins.
+Distribution
+
+At steady state, lopinavir is approximately 98-99% bound to plasma proteins.
 Lopinavir binds to both alpha-1-acid glycoprotein (AAG) and albumin; however, it has a higher affinity for AAG.
 At steady state, lopinavir protein binding remains constant over the range of observed concentrations after 400/100 mg KALETRA twice daily, and is similar between healthy volunteers and HIV-1 positive patients.
 
-Metabolism In vitro experiments with human hepatic microsomes indicate that lopinavir primarily undergoes oxidative metabolism.
+Metabolism
+
+In vitro experiments with human hepatic microsomes indicate that lopinavir primarily undergoes oxidative metabolism.
 Lopinavir is extensively metabolized by the hepatic cytochrome P450 system, almost exclusively by the CYP3A isozyme.
 Ritonavir is a potent CYP3A inhibitor which inhibits the metabolism of lopinavir, and therefore increases plasma levels of lopinavir.
 A 14C-lopinavir study in humans showed that 89% of the plasma radioactivity after a single 400/100 mg KALETRA dose was due to parent drug.
@@ -48,12 +62,16 @@ At least 13 lopinavir oxidative metabolites have been identified in man.
 Ritonavir has been shown to induce metabolic enzymes, resulting in the induction of its own metabolism.
 Pre-dose lopinavir concentrations decline with time during multiple dosing, stabilizing after approximately 10 to 16 days.
 
-Elimination Following a 400/100 mg 14C-lopinavir/ritonavir dose, approximately 10.4 ± 2.3% and 82.6 ± 2.5% of an administered dose of 14C-lopinavir can be accounted for in urine and feces, respectively, after 8 days.
+Elimination
+
+Following a 400/100 mg 14C-lopinavir/ritonavir dose, approximately 10.4 ± 2.3% and 82.6 ± 2.5% of an administered dose of 14C-lopinavir can be accounted for in urine and feces, respectively, after 8 days.
 Unchanged lopinavir accounted for approximately 2.2 and 19.8% of the administered dose in urine and feces, respectively.
 After multiple dosing, less than 3% of the lopinavir dose is excreted unchanged in the urine.
 The apparent oral clearance (CL/F) of lopinavir is 5.98 ± 5.75 L/hr (mean ± SD, n = 19).
 
-Once Daily Dosing The pharmacokinetics of once daily KALETRA have been evaluated in HIV-1 infected subjects naïve to antiretroviral treatment.
+Once Daily Dosing
+
+The pharmacokinetics of once daily KALETRA have been evaluated in HIV-1 infected subjects naïve to antiretroviral treatment.
 KALETRA 800/200 mg was administered in combination with emtricitabine 200 mg and tenofovir DF 300 mg as part of a once daily regimen.
 Multiple dosing of 800/200 mg KALETRA once daily for 4 weeks with food (n = 24) produced a mean ± SD lopinavir peak plasma concentration (Cmax) of 11.8 ± 3.7 µg/mL, occurring approximately 6 hours after administration.
 The mean steady-state lopinavir trough concentration prior to the morning dose was 3.2 ± 2.1 µg/mL and minimum concentration within a dosing interval was 1.7 ± 1.6 µg/mL.
@@ -73,11 +91,15 @@ The maximum mean (95% upper confidence bound) difference from placebo in the PR 
 
 Special Populations
 
-Gender, Race and Age No gender related pharmacokinetic differences have been observed in adult patients.
+Gender, Race and Age
+
+No gender related pharmacokinetic differences have been observed in adult patients.
 No clinically important pharmacokinetic differences due to race have been identified.
 Lopinavir pharmacokinetics have not been studied in elderly patients.
 
-Pediatric Patients The pharmacokinetics of KALETRA oral solution 300/75 mg/m2 twice daily and 230/57.5 mg/m2 twice daily have been studied in a total of 53 pediatric patients in Study 940, ranging in age from 6 months to 12 years [see Clinical Studies (14.4)].
+Pediatric Patients
+
+The pharmacokinetics of KALETRA oral solution 300/75 mg/m2 twice daily and 230/57.5 mg/m2 twice daily have been studied in a total of 53 pediatric patients in Study 940, ranging in age from 6 months to 12 years [see Clinical Studies (14.4)].
 The 230/57.5 mg/m2 twice daily regimen without nevirapine and the 300/75 mg/m2 twice daily regimen with nevirapine provided lopinavir plasma concentrations similar to those obtained in adult patients receiving the 400/100 mg twice daily regimen (without nevirapine).
 
 The mean steady-state lopinavir AUC, Cmax, and Cmin were 72.6 ± 31.1 µg•h/mL, 8.2 ± 2.9 and 3.4 ± 2.1 µg/mL, respectively after KALETRA oral solution 230/57.5 mg/m2 twice daily without nevirapine (n = 12), and were 85.8 ± 36.9 µg• h/mL, 10.0 ± 3.3 and 3.6 ± 3.5 µg/mL, respectively, after 300/75 mg/m2 twice daily with nevirapine (n = 12).
@@ -92,9 +114,13 @@ Both groups of subjects also achieved relatively high average minimum lopinavir 
 
 KALETRA once daily has not been evaluated in pediatric patients.
 
-Renal Impairment Lopinavir pharmacokinetics have not been studied in patients with renal impairment; however, since the renal clearance of lopinavir is negligible, a decrease in total body clearance is not expected in patients with renal impairment.
+Renal Impairment
 
-Hepatic Impairment Lopinavir is principally metabolized and eliminated by the liver.
+Lopinavir pharmacokinetics have not been studied in patients with renal impairment; however, since the renal clearance of lopinavir is negligible, a decrease in total body clearance is not expected in patients with renal impairment.
+
+Hepatic Impairment
+
+Lopinavir is principally metabolized and eliminated by the liver.
 Multiple dosing of KALETRA 400/100 mg twice daily to HIV-1 and HCV co-infected patients with mild to moderate hepatic impairment (n = 12) resulted in a 30% increase in lopinavir AUC and 20% increase in Cmax compared to HIV-1 infected subjects with normal hepatic function (n = 12).
 Additionally, the plasma protein binding of lopinavir was statistically significantly lower in both mild and moderate hepatic impairment compared to controls (99.09 vs. 99.31%, respectively).
 Caution should be exercised when administering KALETRA to subjects with hepatic impairment.
@@ -114,11 +140,11 @@ Drugs that induce CYP3A activity would be expected to increase the clearance of 
 Although not noted with concurrent ketoconazole, co-administration of KALETRA and other drugs that inhibit CYP3A may increase lopinavir plasma concentrations.
 
 Drug interaction studies were performed with KALETRA and other drugs likely to be co-administered and some drugs commonly used as probes for pharmacokinetic interactions.
-The effects of co-administration of KALETRA on the AUC, Cmax and Cmin are summarized in Table 10 (effect of other drugs on lopinavir) and Table 11 (effect of KALETRA on other drugs).
+The effects of co-administration of KALETRA on the AUC, Cmax and Cmin are summarized in Table 9 (effect of other drugs on lopinavir) and Table 10 (effect of KALETRA on other drugs).
 The effects of other drugs on ritonavir are not shown since they generally correlate with those observed with lopinavir (if lopinavir concentrations are decreased, ritonavir concentrations are decreased) unless otherwise indicated in the table footnotes.
-For information regarding clinical recommendations, see Table 9 in Drug Interactions (7).
+For information regarding clinical recommendations, see Table 8 in Drug Interactions (7).
 
-Table 10.
+Table 9.
 Drug Interactions: Pharmacokinetic Parameters for Lopinavir in the Presence of the Co-administered Drug for Recommended Alterations in Dose or Regimen
 
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of KALETRA (mg) | n | Ratio (in combination with Co-administered drug/alone) of Lopinavir Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
@@ -149,7 +175,7 @@ Drug Interactions: Pharmacokinetic Parameters for Lopinavir in the Presence of t
 | Tipranavir/ritonavir4 | 500/200 mg twice daily (28 doses)# | 400/100 capsule twice daily (27 doses) | 21 69 | 0.53 (0.40, 0.69)10 | 0.45 (0.32, 0.63)10 | 0.30 (0.17, 0.51)10 0.48 (0.40, 0.58)11 |
 | All interaction studies conducted in healthy, HIV-1 negative subjects unless otherwise indicated. 1 The pharmacokinetics of ritonavir are unaffected by concurrent efavirenz. 2 Reference for comparison is lopinavir/ritonavir 400/100 mg twice daily without efavirenz. 3 Data extracted from the fosamprenavir package insert. 4 Study conducted in HIV-1 positive adult subjects. 5 Study conducted in HIV-1 positive pediatric subjects ranging in age from 6 months to 12 years. 6 Data extracted from the pitavastatin package insert and results presented at the 2011 International AIDS Society Conference on HIV Pathogenesis, Treatment and Prevention (Morgan, et al, poster #MOPE170). 7 Titrated to 800/200 twice daily as 533/133 twice daily x 1 d, 667/167 twice daily x 1 d, then 800/200 twice daily x 7 d, compared to 400/100 twice daily x 10 days alone. 8 Titrated to 400/400 twice daily as 400/200 twice daily x 1 d, 400/300 twice daily x 1 d, then 400/400 twice daily x 7 d, compared to 400/100 twice daily x 10 days alone. 9 Data extracted from the tenofovir package insert. 10 Intensive PK analysis. 11 Drug levels obtained at 8-16 hrs post-dose. 12 AUC parameter is AUC(0-last) 13 N=12 for test arm, 19 for reference arm * Parallel group design; n for KALETRA + co-administered drug, n for KALETRA alone. † NC = No change. # For the nevirapine 200 mg twice daily study, ritonavir, and tipranavir/ritonavir studies, KALETRA was administered with or without food. For all other studies, KALETRA was administered with food. |  |  |  |  |  |  |
 
-Table 11.
+Table 10.
 Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug in the Presence of KALETRA for Recommended Alterations in Dose or Regimen
 
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of KALETRA (mg) | n | Ratio (in combination with KALETRA/alone) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
@@ -225,10 +251,10 @@ Clinical Studies - Antiviral Activity of KALETRA in Patients with Previous Prote
 The clinical relevance of reduced susceptibility in cell culture to lopinavir has been examined by assessing the virologic response to KALETRA therapy in treatment-experienced patients, with respect to baseline viral genotype in three studies and baseline viral phenotype in one study.
 
 Virologic response to KALETRA has been shown to be affected by the presence of three or more of the following amino acid substitutions in protease at baseline: L10F/I/R/V, K20M/N/R, L24I, L33F, M36I, I47V, G48V, I54L/T/V, V82A/C/F/S/T, and I84V.
-Table 12 shows the 48-week virologic response (HIV-1 RNA <400 copies/mL) according to the number of the above protease inhibitor resistance-associated substitutions at baseline in studies 888 and 765 [see Clinical Studies (14.2) and (14.3)] and study 957 (see below).
+Table 11 shows the 48-week virologic response (HIV-1 RNA <400 copies/mL) according to the number of the above protease inhibitor resistance-associated substitutions at baseline in studies 888 and 765 [see Clinical Studies (14.2) and (14.3)] and study 957 (see below).
 Once daily administration of KALETRA for adult patients with three or more of the above substitutions is not recommended.
 
-Table 12.
+Table 11.
 Virologic Response (HIV-1 RNA <400 copies/mL) at Week 48 by Baseline KALETRA Susceptibility and by Number of Protease Substitutions Associated with Reduced Response to KALETRA1
 
 | Number of protease inhibitor substitutions at baseline1 | Study 888 (Single protease inhibitor-experienced2, NNRTI-naïve) n=130 | Study 765 (Single protease inhibitor-experienced3, NNRTI-naïve) n=56 | Study 957 (Multiple protease inhibitor-experienced4, NNRTI-naïve) n=50 |
@@ -243,9 +269,9 @@ In this study 56 NNRTI-naïve patients with HIV-1 RNA >1,000 copies/mL despite p
 The EC50 values of lopinavir against the 56 baseline viral isolates ranged from 0.5- to 96-fold the wild-type EC50 value.
 Fifty-five percent (31/56) of these baseline isolates displayed >4-fold reduced susceptibility to lopinavir.
 These 31 isolates had a median reduction in lopinavir susceptibility of 18-fold.
-Response to therapy by baseline lopinavir susceptibility is shown in Table 13.
+Response to therapy by baseline lopinavir susceptibility is shown in Table 12.
 
-Table 13.
+Table 12.
 HIV-1 RNA Response at Week 48 by Baseline Lopinavir Susceptibility1
 
 | Lopinavir susceptibility2 at baseline | HIV-1 RNA <400 copies/mL (%) | HIV-1 RNA <50 copies/mL (%) |

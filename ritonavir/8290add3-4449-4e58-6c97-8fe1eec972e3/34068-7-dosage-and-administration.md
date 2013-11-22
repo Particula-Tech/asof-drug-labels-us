@@ -91,7 +91,7 @@ Pediatric Dosing Recommendations for Patients 6 Months to 18 Years of Age Based 
 | >35 | ≥1.4 | 4 (or two 200/50 mg tablets) |
 | * KALETRA oral solution is available for children with a BSA less than 0.6 m2 or those who are unable to reliably swallow a tablet. |  |  |
 
-Concomitant Therapy: Efavirenz, Nevirapine,or Nelfinavir
+Concomitant Therapy: Efavirenz, Nevirapine, or Nelfinavir
 
 Dosing recommendations using oral solution
 

@@ -235,7 +235,7 @@ KALETRA can cause serious side effects, including:
 - Diabetes and high blood sugar (hyperglycemia).
   Some people who take protease inhibitors including KALETRA get new or more serious diabetes, or high blood sugar.
   Tell your doctor if you notice an increase in thirst or urinate often while taking KALETRA.
-- Changes in you immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV medicines.
+- Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Call your doctor right away if you start having new symptoms after starting your HIV medicine.
 - Increases in certain fat (triglycerides and cholesterol) levels in your blood.
@@ -259,11 +259,8 @@ Common side effects of KALETRA include:
 
 - diarrhea
 - nausea
-- stomach area (abdominal) pain
-- feeling weak
+- increased fats in blood (triglycerides or cholesterol)
 - vomiting
-- headache
-- upset stomach
 
 Tell your doctor about any side effect that bothers you or that does not go away.
 
@@ -327,9 +324,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 * The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
-Rev.
-01/2013
-
 KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir
 
 Manufactured by AbbVie LTD, Barceloneta, PR 00617
@@ -340,4 +334,4 @@ KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
 
 AbbVie Inc., North Chicago, IL 60064 USA
 
-03-A625 January 2013
+03-A841 November 2013
