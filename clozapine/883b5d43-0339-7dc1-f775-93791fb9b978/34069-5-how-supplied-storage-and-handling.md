@@ -1,20 +1,20 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Clozapine Tablets USP, 25 mg, 50 mg, 100 mg and 200 mg are available as follows:
+## 16.1 How Supplied
 
-The 25 mg tablets are round, peach, scored tablets debossed with C to the left of the score and 7 to the right of the score on one side of the tablet and M on the other side.
+Clozapine Tablets USP, 25 mg, 50 mg, 100 mg and 200 mg are available containing 25 mg, 50 mg, 100 mg, or 200 mg of clozapine, USP.
+
+The 25 mg tablets are peach round, scored tablets debossed with C to the left of the score and 7 to the right of the score on one side of the tablet and M on the other side.
 They are available as follows:
 
 NDC 0378-0825-01 bottles of 100 tablets
 
-The 50 mg tablets are round, green, scored tablets debossed with C72 above the score and blank below the score on one side of the tablet and M on the other side.
+The 50 mg tablets are green round, scored tablets debossed with C72 above the score and blank below the score on one side of the tablet and M on the other side.
 They are available as follows:
 
 NDC 0378-0972-01 bottles of 100 tablets
 
-NDC 0378-0972-05 bottles of 500 tablets
-
-The 100 mg tablets are round, green, scored tablets debossed with C11 above the score and blank below the score on one side of the tablet and M on the other side.
+The 100 mg tablets are green round, scored tablets debossed with C11 above the score and blank below the score on one side of the tablet and M on the other side.
 They are available as follows:
 
 NDC 0378-0860-01 bottles of 100 tablets
@@ -26,20 +26,9 @@ They are available as follows:
 
 NDC 0378-0973-01 bottles of 100 tablets
 
-NDC 0378-0973-05 bottles of 500 tablets
+## 16.2 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Drug dispensing should not ordinarily exceed a weekly supply.
-If a patient is eligible for White Blood Cell (WBC) count and Absolute Neutrophil Count (ANC) testing every 2 weeks, then a 2-week supply of clozapine tablets can be dispensed.
-If a patient is eligible for WBC count and ANC testing every 4 weeks, then a 4-week supply of clozapine tablets can be dispensed.
-Dispensing should be contingent upon the WBC count and ANC test results.
-
-* The brands listed are trademarks of their respective owners.
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-REVISED MAY 2013 CLOZ:R16

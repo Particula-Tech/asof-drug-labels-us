@@ -1,71 +1,71 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
-Clozapine is classified as an ‘atypical’ antipsychotic drug because its profile of binding to dopamine receptors and its effects on various dopamine mediated behaviors differ from those exhibited by more typical antipsychotic drug products.
-In particular, although clozapine does interfere with the binding of dopamine at D1, D2, D3 and D5 receptors, and has a high affinity for the D4 receptor, it does not induce catalepsy nor inhibit apomorphine-induced stereotypy.
-This evidence, consistent with the view that clozapine is preferentially more active at limbic than at striatal dopamine receptors, may explain the relative freedom of clozapine from extrapyramidal side effects.
+The mechanism of action of clozapine is unknown.
+However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D2) and the serotonin type 2A (5-HT2A) receptors.
+Clozaril also acts as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.
 
-Clozapine also acts as an antagonist at adrenergic, cholinergic, histaminergic and serotonergic receptors.
+## 12.2 Pharmacodynamics
 
-## Absorption, Distribution, Metabolism and Excretion
+Clozapine demonstrated binding affinity to the following receptors: histamine H1 (Ki 1.1 nM), adrenergic α1A (Ki 1.6 nM), serotonin 5-HT6 (Ki 4 nM), serotonin 5-HT2A (Ki 5.4 nM), muscarinic M1 (Ki 6.2 nM), serotonin 5-HT7 (Ki 6.3 nM), serotonin 5-HT2C (Ki 9.4 nM), dopamine D4 (Ki 24 nM), adrenergic α2A (Ki 90 nM), serotonin 5-HT3 (Ki 95 nM), serotonin 5-HT1A (Ki 120 nM), dopamine D2 (Ki 160 nM), dopamine D1 (Ki 270 nM), dopamine D5 (Ki 454 nM), and dopamine D3 (Ki 555 nM).
 
-In man, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
-Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 319 ng/mL (range: 102 to 771 ng/mL), occurring at the average of 2.5 hours (range: 1 to 6 hours) after dosing.
-The average minimum concentration at steady-state was 122 ng/mL (range: 41 to 343 ng/mL), after 100 mg b.i.d. dosing.
-Food does not appear to affect the systemic bioavailability of clozapine.
-Thus, clozapine may be administered with or without food.
+Clozapine causes little or no prolactin elevation.
 
-Clozapine is approximately 97% bound to serum proteins.
-The interaction between clozapine and other highly protein bound drugs has not been fully evaluated but may be important.
-(See PRECAUTIONS.)
-
-Clozapine is almost completely metabolized prior to excretion and only trace amounts of unchanged drug are detected in the urine and feces.
-Approximately 50% of the administered dose is excreted in the urine and 30% in the feces.
-The demethylated, hydroxylated and N-oxide derivatives are components in both urine and feces.
-Pharmacological testing has shown the desmethyl metabolite to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.
-
-The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to 12 hours), compared to a mean elimination half-life, after achieving steady-state with 100 mg b.i.d. dosing, of 12 hours (range: 4 to 66 hours).
-A comparison of single-dose and multiple-dose administration of clozapine showed that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration dependent pharmacokinetics.
-However, at steady-state, linearly dose proportional changes with respect to AUC (area under the curve), peak and minimum clozapine plasma concentrations were observed after administration of 37.5 mg, 75 mg, and 150 mg b.i.d.
-
-## Human Pharmacology
-
-In contrast to more typical antipsychotic drugs, clozapine therapy produces little or no prolactin elevation.
-
-As is true of more typical antipsychotic drugs, clinical EEG studies have shown that clozapine increases delta and theta activity and slows dominant alpha frequencies.
-Enhanced synchronization occurs, and sharp wave activity and spike and wave complexes may also develop.
-Patients, on rare occasions, may report an intensification of dream activity during clozapine therapy.
+Clinical electroencephalogram (EEG) studies demonstrated that clozapine increases delta and theta activity and slows dominant alpha frequencies.
+Enhanced synchronization occurs.
+Sharp wave activity and spike and wave complexes may also develop.
+Patients have reported an intensification of dream activity during clozapine therapy.
 REM sleep was found to be increased to 85% of the total sleep time.
 In these patients, the onset of REM sleep occurred almost immediately after falling asleep.
 
-## Clinical Trial Data (Reducing the Risk of Recurrent Suicidal Behavior in Patients with Schizophrenia or Schizoaffective Disorder Who are Judged to be at Risk of Reexperiencing Suicidal Behavior)
+## 12.3 Pharmacokinetics
 
-The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was assessed in the International Suicide Prevention Trial (InterSePT™), which was a prospective, randomized, international, parallel-group comparison of clozapine vs. Zyprexa®* (olanzapine) in patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for reexperiencing suicidal behavior.
-Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment, and the remainder were not.
-Patients met one of the following criteria:
+### Absorption
 
-- •They had attempted suicide within the 3 years prior to their baseline evaluation.
-- •They had been hospitalized to prevent a suicide attempt within the 3 years prior to their baseline evaluation.
-- •They demonstrated moderate-to-severe suicidal ideation with a depressive component within one week prior to their baseline evaluation.
-- •They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
+In man, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
+Following oral administration of clozapine 100 mg twice daily, the average steady-state peak plasma concentration was 319 ng/mL (range: 102 to 771 ng/mL), occurring at the average of 2.5 hours (range: 1 to 6 hours) after dosing.
+The average minimum concentration at steady-state was 122 ng/mL (range: 41 to 343 ng/mL), after 100 mg twice daily dosing.
+Food does not appear to affect the systemic bioavailability of clozapine.
+Thus, clozapine may be administered with or without food.
 
-Dosing regimens for each treatment group were determined by individual investigators and were individualized by patient.
-Dosing was flexible, with a dose range of 200 to 900 mg/day for clozapine and 5 to 20 mg/day for Zyprexa.
-For the 956 patients who received clozapine or Zyprexa in this study, there was extensive use of concomitant psychotropics: 84% with antipsychotics; 65% with anxiolytics; 53% with antidepressants, and 28% with mood stabilizers.
-There was significantly greater use of concomitant psychotropic medications among the patients in the Zyprexa group.
+### Distribution
 
-The primary efficacy measure was time to (1) a significant suicide attempt, including a completed suicide, (2) hospitalization due to imminent suicide risk (including increased level of surveillance for suicidality for patients already hospitalized), or (3) worsening of suicidality severity as demonstrated by “much worsening” or “very much worsening” from baseline in the Clinical Global Impression of Severity of Suicidality as assessed by the Blinded Psychiatrist (CGI-SS-BP) scale.
-A determination of whether or not a reported event met criterion 1 or 2 above was made by the Suicide Monitoring Board (SMB, a group of experts blinded to patient data).
+Clozapine is approximately 97% bound to serum proteins.
+The interaction between clozapine and other highly protein-bound drugs has not been fully evaluated but may be important [see Drug Interactions (7)].
 
-A total of 980 patients were randomized to the study and 956 received study medication.
-Sixty-two percent of the patients were diagnosed with schizophrenia, and the remainder (38%) were diagnosed with schizoaffective disorder.
-Only about one-fourth of the total patient population (27%) was identified as “treatment-resistant” at baseline.
-There were more males than females in the study (61% of all patients were male).
-The mean age of patients entering the study was 37 years (range 18 to 69).
-Most patients were Caucasian (71%), 15% were Black, 1% were Oriental, and 13% were classified as being of “other” races.
+### Metabolism and Excretion
 
-Data from this study indicate that clozapine had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with Zyprexa.
-This result should be interpreted only as evidence of the effectiveness of clozapine in delaying time to recurrent suicidal behavior, and not a demonstration of the superior efficacy of clozapine over Zyprexa.
+Clozapine is almost completely metabolized prior to excretion, and only trace amounts of unchanged drug are detected in the urine and feces.
+Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2, CYP2D6, and CYP3A4.
+Approximately 50% of the administered dose is excreted in the urine and 30% in the feces.
+The demethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces.
+Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.
+The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4-66 hours), after achieving steady-state with 100mg twice daily dosing.
 
-The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization due to imminent suicide risk (including increased level of surveillance for suicidality for patients already hospitalized) was lower for clozapine patients than for Zyprexa patients at Week 104: clozapine 24% vs. Zyprexa 32%; 95% C.I. of the difference: 2%, 14% (Figure 1).
+A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
+However, at steady-state, approximately dose proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5 mg, 75 mg, 150 mg twice daily.
+
+### Drug-Drug Interaction Studies
+
+#### Fluvoxamine
+
+A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions.
+After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about 3-fold compared to baseline steady-state concentrations.
+
+#### Paroxetine, Fluoxetine, and Sertraline
+
+In a study of schizophrenic patients (n = 14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
+However, other published reports describe modest elevations (less than 2-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
+
+### Specific Population Studies
+
+#### Renal or Hepatic Impairment
+
+No specific pharmacokinetic studies were conducted to investigate the effects of renal or hepatic impairment on the pharmacokinetics of clozapine.
+Higher clozapine plasma concentrations are likely in patients with significant renal or hepatic impairment when given usual doses.
+
+#### CYP2D6 Poor Metabolizers
+
+A subset (3% to 10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).
+These individuals may develop higher than expected plasma concentrations of clozapine when given usual doses.

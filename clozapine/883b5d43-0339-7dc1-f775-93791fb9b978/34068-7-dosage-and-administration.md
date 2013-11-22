@@ -1,78 +1,51 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Switching from a Previous Antipsychotic Therapy to Clozapine
+## 2.1 Required Laboratory Testing Prior to Initiation and During Therapy
 
-It is generally recommended that clozapine tablets should not be used in combination with other antipsychotics.
-When clozapine tablet therapy is to be initiated in a patient undergoing oral antipsychotic therapy, it is recommended that the dosage of other antipsychotics be reduced or discontinued by gradually tapering it downwards.
-Based on the clinical circumstances, the prescribing physician should judge whether or not to discontinue the other antipsychotic therapy before initiating treatment with clozapine tablets.
+Prior to initiating treatment with clozapine tablets, obtain a complete blood count (CBC) with differential.
+The absolute neutrophil count (ANC) must be greater than or equal to 2000/mm3 and the WBC must be greater than or equal to 3500 mm3 in order to initiate treatment.
+To continue treatment, the ANC and WBC must be monitored regularly [see Warnings and Precautions (5.1)].
 
-## Treatment-Resistant Schizophrenia
+## 2.2 Dosing Information
 
-Upon initiation of clozapine tablet therapy, up to a one week supply of additional clozapine tablets may be provided to the patient to be held for emergencies (e.g., weather, holidays).
+The starting dose is 12.5 mg once daily or twice daily.
+The total daily dose can be increased in increments of 25 mg to 50 mg per day, if well tolerated, to achieve a target dose of 300 mg to 450 mg per day (administered in divided doses) by the end of 2 weeks.
+Subsequently, the dose can be increased once weekly or twice weekly, in increments of up to 100 mg.
+The maximum dose is 900 mg per day.
+To minimize the risk of orthostatic hypotension, bradycardia, and syncope, it is necessary to use this low starting dose, gradual titration schedule, and divided dosages [see Warnings and Precautions (5.3)].
 
-### Initial Treatment
+Clozapine tablets can be taken with or without food [see Pharmacokinetics (12.3)].
 
-It is recommended that treatment with clozapine tablets begin with one-half of a 25 mg tablet (12.5 mg) once or twice daily and then be continued with daily dosage increments of 25 to 50 mg/day, if well tolerated, to achieve a target dose of 300 to 450 mg/day by the end of 2 weeks.
-Subsequent dosage increments should be made no more than once or twice weekly, in increments not to exceed 100 mg.
-Cautious titration and a divided dosage schedule are necessary to minimize the risks of hypotension, seizure, and sedation.
+## 2.3 Maintenance Treatment
 
-In the multicenter study that provides primary support for the effectiveness of clozapine in patients resistant to standard drug treatment for schizophrenia, patients were titrated during the first 2 weeks up to a maximum dose of 500 mg/day, on a t.i.d. basis, and were then dosed in a total daily dose range of 100 to 900 mg/day, on a t.i.d. basis thereafter, with clinical response and adverse effects as guides to correct dosing.
+Generally, it is recommended that patients responding to clozapine tablets continue maintenance treatment on their effective dose beyond the acute episode.
 
-### Therapeutic Dose Adjustment
+## 2.4 Discontinuation of Treatment
 
-Daily dosing should continue on a divided basis as an effective and tolerable dose level is sought.
-While many patients may respond adequately at doses between 300 to 600 mg/day, it may be necessary to raise the dose to the 600 to 900 mg/day range to obtain an acceptable response.
-(Note: In the multicenter study providing the primary support for the superiority of clozapine tablets in treatment-resistant patients, the mean and median clozapine tablet doses were both approximately 600 mg/day.)
+In the event of planned termination of clozapine tablet therapy, reduce the dose gradually over a period of 1 to 2 weeks.
+If abrupt discontinuation is necessary (because of agranulocytosis or another medical condition, for example), monitor carefully for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as profuse sweating, headache, nausea, vomiting, and diarrhea.
 
-Because of the possibility of increased adverse reactions at higher doses, particularly seizures, patients should ordinarily be given adequate time to respond to a given dose level before escalation to a higher dose is contemplated.
-Clozapine tablets can cause EEG changes, including the occurrence of spike and wave complexes.
-It lowers the seizure threshold in a dose-dependent manner and may induce myoclonic jerks or generalized seizures.
-These symptoms may be likely to occur with rapid dose increase and in patients with preexisting epilepsy.
-In this case, the dose should be reduced and, if necessary, anticonvulsant treatment initiated.
+## 2.5 Re-Initiation of Treatment
 
-Dosing should not exceed 900 mg/day.
+When restarting clozapine tablets in patients who have discontinued clozapine tablets (i.e., 2 days or more since the last dose), re-initiate with 12.5 mg once daily or twice daily.
+This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
+If that dose is well tolerated, the dose may be increased to the previously therapeutic dose more quickly than recommended for initial treatment.
 
-Because of the significant risk of agranulocytosis and seizure, events which both present a continuing risk over time, the extended treatment of patients failing to show an acceptable level of clinical response should ordinarily be avoided.
+## 2.6 Dosage Adjustments with Concomitant Use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
 
-### Maintenance Treatment
+Dose adjustments may be necessary in patients with concomitant use of: strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin); moderate or weak CYP1A2 inhibitors (e.g., oral contraceptives, or caffeine); CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline); CYP3A4 inducers (e.g., phenytoin, carbamazepine, St. John’s wort, and rifampin); or CYP1A2 inducers (e.g., tobacco smoking) (Table 1) [see Drug Interactions (7)].
 
-While the maintenance effectiveness of clozapine in schizophrenia is still under study, the effectiveness of maintenance treatment is well established for many other drugs used to treat schizophrenia.
-It is recommended that responding patients be continued on clozapine tablets, but at the lowest level needed to maintain remission.
-Because of the significant risk associated with the use of clozapine tablets, patients should be periodically reassessed to determine the need for maintenance treatment.
+Table 1: Dose Adjustment in Patients taking Concomitant Medications
 
-### Discontinuation of Treatment
+| Co-Medications | Scenarios |  |  |
+| --- | --- | --- | --- |
+|  | Initiating clozapine tablets while taking a co-medication | Adding a co-medication while taking clozapine tablets | Discontinuing a co-medication while continuing clozapine tablets |
+| Strong CYP1A2 Inhibitors | Use one-third of the clozapine tablet dose. |  | Increase clozapine tablet dose based on clinical response. |
+| Moderate or WeakCYP1A2 Inhibitors | Monitor for adverse reactions. Consider reducing the clozapine tablet dose if necessary. |  | Monitor for lack of effectiveness. Consider increasing clozapine tablet dose if necessary. |
+| CYP2D6 or CYP3A4 Inhibitors |  |  |  |
+| Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if the inducer is necessary, it may be necessary to increase the clozapine tablet dose. Monitor for decreased effectiveness. |  | Reduce clozapine tablet dose based on clinical response. |
+| Moderate or weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the clozapine tablet dose if necessary. |  | Monitor for adverse reactions. Consider reducing the clozapine tablet dose if necessary. |
 
-In the event of planned termination of clozapine tablet therapy, gradual reduction in dose is recommended over a 1 to 2 week period.
-However, should a patient’s medical condition require abrupt discontinuation (e.g., leukopenia), the patient should be carefully observed for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as headache, nausea, vomiting, and diarrhea (see PRECAUTIONS).
+## 2.7 Renal or Hepatic Impairment or CYP2D6 Poor Metabolizers
 
-### Reinitiation of Treatment in Patients Previously Discontinued
-
-When restarting patients who have had even a brief interval off clozapine tablets, i.e., 2 days or more since the last dose, it is recommended that treatment be reinitiated with one-half of a 25 mg tablet (12.5 mg) once or twice daily (see WARNINGS).
-If that dose is well tolerated, it may be feasible to titrate patients back to a therapeutic dose more quickly than is recommended for initial treatment.
-However, any patient who has previously experienced respiratory or cardiac arrest with initial dosing, but was then able to be successfully titrated to a therapeutic dose, should be retitrated with extreme caution after even 24 hours of discontinuation.
-
-Certain additional precautions seem prudent when reinitiating treatment.
-The mechanisms underlying clozapine induced adverse reactions are unknown.
-It is conceivable, however, that reexposure of a patient might enhance the risk of an untoward event’s occurrence and increase its severity.
-Such phenomena, for example, occur when immune mediated mechanisms are responsible.
-Consequently, during the reinitiation of treatment, additional caution is advised.
-Patients discontinued for WBC counts below 2000/mm3 or an ANC below 1000/mm3 must not be restarted on clozapine tablets.
-(See WARNINGS.)
-
-## Reducing the Risk of Recurrent Suicidal Behavior in Patients with Schizophrenia or Schizoaffective Disorder
-
-The dosage and administration recommendations outlined above regarding the use of clozapine tablets in patients with treatment-resistant schizophrenia should also be followed when treating patients with schizophrenia or schizoaffective disorder at risk for recurrent suicidal behavior.
-
-The InterSePT study demonstrated the efficacy of clozapine in treatment of patients with schizophrenia or schizoaffective disorder at risk for recurrent suicidal behavior where the mean daily dose was about 300 mg (range 12.5 mg to 900 mg).
-
-Patients previously treated with other antipsychotics were cross-titrated to clozapine tablets over a one-month interval; the dose of the previous antipsychotic was gradually decreased simultaneous with a gradual increase in clozapine tablet dose over the first month of the study.
-Patients on depot antipsychotic medication began clozapine tablets after one full dosing interval since the last injection.
-
-## Recommendations to Reduce the Risk of Recurrent Suicidal Behavior in Patients Who Otherwise Previously Responded to Treatment of Schizophrenia or Schizoaffective Disorder with Another Antipsychotic Medication
-
-The results of the InterSePT study demonstrated that, for a 2-year treatment period, the probability of a suicide attempt or a hospitalization due to imminent suicide risk is stable at approximately 24% after one year of treatment with clozapine tablets (Figure 1 Clinical Trial Data Section).
-A course of treatment with clozapine tablets of at least 2 years is therefore recommended in order to maintain the reduction of risk for suicidal behavior.
-After 2 years, it is recommended that the patient’s risk of suicidal behavior be assessed.
-If the physician’s assessment indicates that a significant risk for suicidal behavior is still present, treatment with clozapine tablets should be continued.
-Thereafter, the decision to continue treatment with clozapine tablets should be revisited at regular intervals, based on thorough assessments of the patient’s risk for suicidal behavior during treatment.
-If the physician determines that the patient is no longer at risk for suicidal behavior, treatment with clozapine tablets may be discontinued (see recommendations above regarding discontinuation of treatment) and treatment of the underlying disorder with an antipsychotic medication to which the patient has previously responded may be resumed.
+It may be necessary to reduce the clozapine tablet dose in patients with significant renal or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].
