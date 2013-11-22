@@ -15,7 +15,7 @@ Most experts recommend the use of insulin during pregnancy to maintain blood glu
 
 Animal Data
 
-In animal reproductive studies, pregnant rats and rabbits received pioglitazone at doses up to approximately 17 (rat) and 40 (rabbit) times the maximum recommended human oral dose (MRHD) based on body surface area (mg/m2); no teratogenicity was observed [see Nonclinical Toxicology (13.3)].
+In animal reproductive studies, pregnant rats and rabbits received pioglitazone at doses up to approximately 17 (rat) and 40 (rabbit) times the maximum recommended human oral dose (MRHD) based on body surface area (mg/m2); no teratogenicity was observed.
 Increases in embryotoxicity (increased postimplantation losses, delayed development, reduced fetal weights, and delayed parturition) occurred in rats that received oral doses approximately 10 or more times the MRHD (mg/m2 basis).
 No functional or behavioral toxicity was observed in rat offspring.
 When pregnant rats received pioglitazone during late gestation and lactation, delayed postnatal development, attributed to decreased body weight, occurred in rat offspring at oral maternal doses approximately two or more times the MRHD (mg/m2 basis).
@@ -31,8 +31,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 Safety and effectiveness of ACTOS in pediatric patients have not been established.
 
-Use in pediatric patients is not recommended for the treatment of diabetes due to lack of long-term safety data.
-Risks including fractures and other adverse effects associated with ACTOS have not been determined in this population [see Warnings and Precautions (5.4)].
+ACTOS is not recommended for use in pediatric patients based on adverse effects observed in adults, including fluid retention and congestive heart failure, fractures, and urinary bladder tumors [see Warnings and Precautions (5.1, 5.4, 5.5 and 5.6)].
 
 ## 8.5 Geriatric Use
 
@@ -43,5 +42,6 @@ In the two pooled 16- to 24-week add-on to insulin trials, 272 patients (25.4%) 
 
 In PROactive, 1068 patients (41.0%) treated with ACTOS were ≥65 years old and 42 (1.6%) were ≥75 years old.
 
-In pharmacokinetic studies with pioglitazone, no significant differences were observed in pharmacokinetic parameters between elderly and younger patients.
-These clinical experiences have not identified differences in effectiveness and safety between the elderly (≥65 years) and younger patients although small sample sizes for patients ≥75 years old limit conclusions [see Clinical Pharmacology (12.3)].
+In pharmacokinetic studies with pioglitazone, no significant differences were observed in pharmacokinetic parameters between elderly and younger patients [see Clinical Pharmacology (12.3)].
+
+Although clinical experiences have not identified differences in effectiveness and safety between the elderly (≥65 years) and younger patients, these conclusions are limited by small sample sizes for patients ≥75 years old.

@@ -53,12 +53,12 @@ Following once-daily administration of ACTOS, steady-state serum concentrations 
 At steady-state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone.
 At steady-state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20% to 25% of the total AUC.
 
-Maximum serum concentration (Cmax), AUC, and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
+Cmax, AUC, and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
 
 Absorption
 
-Following oral administration of pioglitazone, peak concentrations of pioglitazone were observed within two hours.
-Food slightly delays the time to peak serum concentration (Tmax) to three to four hours but does not alter the extent of absorption (AUC).
+Following oral administration of pioglitazone, Tmax of pioglitazone was within two hours.
+Food delays the Tmax to three to four hours but does not alter the extent of absorption (AUC).
 
 Distribution
 
@@ -72,8 +72,7 @@ Metabolism
 Pioglitazone is extensively metabolized by hydroxylation and oxidation; the metabolites also partly convert to glucuronide or sulfate conjugates.
 Metabolites M-III and M-IV are the major circulating active metabolites in humans.
 
-In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone.
-The cytochrome P450 isoforms involved are CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1.
+In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone, which include CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1.
 In vivo study of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor, showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3) and Drug Interactions (7)].
 Urinary 6ß-hydroxycortisol/cortisol ratios measured in patients treated with ACTOS showed that pioglitazone is not a strong CYP3A4 enzyme inducer.
 
@@ -83,26 +82,26 @@ Following oral administration, approximately 15% to 30% of the pioglitazone dose
 Renal elimination of pioglitazone is negligible, and the drug is excreted primarily as metabolites and their conjugates.
 It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces.
 
-The mean serum half-life of pioglitazone and its metabolites (M-III and M-IV) range from 3 to 7 hours and 16 to 24 hours, respectively.
-Pioglitazone has an apparent clearance, CL/F, calculated to be 5 to 7 L/hr.
+The mean serum half-life (t1/2) of pioglitazone and its metabolites (M-III and M-IV) range from three to seven hours and 16 to 24 hours, respectively.
+Pioglitazone has an apparent clearance, CL/F, calculated to be five to seven L/hr.
 
 Renal Impairment
 
-The serum elimination half-life of pioglitazone, M-III, and M-IV remains unchanged in patients with moderate (creatinine clearance 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment when compared to subjects with normal renal function.
+The serum elimination half-life of pioglitazone, M-III, and M-IV remains unchanged in patients with moderate (creatinine clearance [CLcr] 30 to 50 mL/min) and severe (CLcr <30 mL/min) renal impairment when compared to subjects with normal renal function.
 Therefore, no dose adjustment in patients with renal impairment is required.
 
 Hepatic Impairment
 
-Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III, and M-IV) mean peak concentrations but no change in the mean AUC values.
+Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III, and M-IV) mean Cmax but no change in the mean AUC values.
 Therefore, no dose adjustment in patients with hepatic impairment is required.
 
-There are postmarketing reports of liver failure with ACTOS and clinical trials have generally excluded patients with serum ALT >2.5x the upper limit of the reference range.
+There are postmarketing reports of liver failure with ACTOS and clinical trials have generally excluded patients with serum ALT >2.5 times the upper limit of the reference range.
 Use caution in patients with liver disease [see Warnings and Precautions (5.3)].
 
 Geriatric Patients
 
-In healthy elderly subjects, peak serum concentrations of pioglitazone are not significantly different, but AUC values are approximately 21% higher than those achieved in younger subjects.
-The mean terminal half-life values of pioglitazone were also longer in elderly subjects (about 10 hours) as compared to younger subjects (about seven hours).
+In healthy elderly subjects, Cmax of pioglitazone was not significantly different, but AUC values were approximately 21% higher than those achieved in younger subjects.
+The mean t1/2 of pioglitazone was also prolonged in elderly subjects (about ten hours) as compared to younger subjects (about seven hours).
 These changes were not of a magnitude that would be considered clinically relevant.
 
 Pediatric Patients
@@ -155,7 +154,7 @@ Drug-Drug Interactions
 | --- | --- | --- | --- |
 | Table 16. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure |  |  |  |
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
-| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 30 mg single dose | ↑3.4-foldThe half-life of pioglitazone increased from 6.5 h to 15.1 h in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑6% |
+| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 15 mg single dose | ↑3.2-foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑6% |
 | Ketoconazole 200 mg twice daily for 7 days (N = 28) | 45 mg | ↑34% | ↑14% |
 | Rifampin 600 mg daily for 5 days (N = 10) | 30 mg single dose | ↓54% | ↓5% |
 | Fexofenadine 60 mg twice daily for 7 days (N = 23) | 45 mg | ↑1% | 0% |

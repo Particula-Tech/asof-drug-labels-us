@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide (17.2).
-
-## 17.1 Instructions
+See FDA-Approved Patient Labeling (Medication Guide).
 
 - •It is important to instruct patients to adhere to dietary instructions and to have blood glucose and glycosylated hemoglobin tested regularly.
   During periods of stress such as fever, trauma, infection, or surgery, medication requirements may change and patients should be reminded to seek medical advice promptly.
@@ -13,20 +11,14 @@ See FDA-Approved Medication Guide (17.2).
   ACTOS can be taken with or without meals.
   If a dose is missed on one day, the dose should not be doubled the following day.
 - •When using combination therapy with insulin or other antidiabetic medications, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and their family members.
-- •Therapy with ACTOS, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
+- •Inform patients that therapy with ACTOS, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
   As a result, these patients may be at an increased risk for pregnancy while taking ACTOS.
   Therefore, adequate contraception should be recommended for all premenopausal women who are prescribed ACTOS.
-
-## 17.2 FDA-Approved Medication Guide
-
-See attached leaflet.
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
 ACTOS is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
-All trademarks are the property of their respective owners.
+©1999 - 2013 Takeda Pharmaceuticals America, Inc.
 
-©1999, 2006, 2010-2012 Takeda Pharmaceuticals America, Inc.
-
-ACT003 R19
+ACT003 R20

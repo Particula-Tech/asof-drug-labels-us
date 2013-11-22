@@ -10,7 +10,7 @@ The recommended starting dose for patients with congestive heart failure (NYHA C
 
 The dose can be titrated in increments of 15 mg up to a maximum of 45 mg once daily based on glycemic response as determined by HbA1c.
 
-After initiation of ACTOS or with dose increase, monitor patients carefully for adverse reactions related to fluid retention such as weight gain, edema, and signs and symptoms of congestive heart failure [see Boxed Warning and Warnings and Precautions (5.2)].
+After initiation of ACTOS or with dose increase, monitor patients carefully for adverse reactions related to fluid retention such as weight gain, edema, and signs and symptoms of congestive heart failure [see Boxed Warning and Warnings and Precautions (5.5)].
 
 Liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase, and total bilirubin) should be obtained prior to initiating ACTOS.
 Routine periodic monitoring of liver tests during treatment with ACTOS is not recommended in patients without liver disease.
@@ -23,7 +23,7 @@ If hypoglycemia occurs in a patient co-administered ACTOS and an insulin secreta
 If hypoglycemia occurs in a patient co-administered ACTOS and insulin, the dose of insulin should be decreased by 10% to 25%.
 Further adjustments to the insulin dose should be individualized based on glycemic response.
 
-## 2.3 Coadministration with Strong CYP2C8 Inhibitors
+## 2.3 Concomitant Use with Strong CYP2C8 Inhibitors
 
 Coadministration of ACTOS and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3-fold.
 Therefore, the maximum recommended dose of ACTOS is 15 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

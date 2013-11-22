@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ACTOS (pioglitazone) is an oral antidiabetic medication.
+ACTOS tablets are a thiazolidinedione and an agonist for peroxisome proliferator-activated receptor (PPAR) gamma that contains an oral antidiabetic medication: pioglitazone.
 
 Pioglitazone [(±)-5-[[4-[2-(5-ethyl-2-pyridinyl) ethoxy] phenyl] methyl]-2,4-] thiazolidinedione monohydrochloride contains one asymmetric carbon, and the compound is synthesized and used as the racemic mixture.
 The two enantiomers of pioglitazone interconvert in vivo.

@@ -3,10 +3,10 @@
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
 - • Congestive heart failure [see Boxed Warning and Warnings and Precautions (5.1)]
-- • Edema [see Warnings and Precautions (5.2)]
-- • Fractures [see Warnings and Precautions (5.4)]
+- • Edema [see Warnings and Precautions (5.5)]
+- • Fractures [see Warnings and Precautions (5.6)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -185,7 +185,7 @@ A total of 514 (19.7%) patients treated with ACTOS and 572 (21.7%) placebo-treat
 Although there was no statistically significant difference between ACTOS and placebo for the three-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with ACTOS.
 The number of first occurrences and total individual events contributing to the primary composite endpoint is shown in Table 9.
 
-| First Events n (%) | Total Events n | First Events n (%) | Total Events n |  |
+| First Events n (%) | Total events n | First Events n (%) | Total events n |  |
 | --- | --- | --- | --- | --- |
 | Table 9. PROactive: Number of First and Total Events for Each Component within the Cardiovascular Composite Endpoint |  |  |  |  |
 | Cardiovascular Events | Placebo N=2633 |  | ACTOS N=2605 |  |
@@ -273,7 +273,7 @@ In two 3-year trials in which ACTOS was compared to placebo or glyburide, there 
 After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on ACTOS and two (0.05%) cases on placebo.
 There are too few events of bladder cancer to establish causality.
 
-## 6.2 Laboratory Abnormalities
+Laboratory Abnormalities
 
 Hematologic Effects
 
@@ -289,12 +289,12 @@ Six of these nine patients continued to receive ACTOS, two patients were noted t
 These elevations resolved without any apparent clinical sequelae.
 The relationship of these events to ACTOS therapy is unknown.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ACTOS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.2)].
+- •New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.7)].
 - •Fatal and nonfatal hepatic failure [see Warnings and Precautions (5.3)].
 
 Postmarketing reports of congestive heart failure have been reported in patients treated with ACTOS, both with and without previously known heart disease and both with and without concomitant insulin administration.

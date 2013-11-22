@@ -32,7 +32,13 @@ What is ACTOS?
 ACTOS is a prescription medicine used with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
 ACTOS is a diabetes medicine called pioglitazone that may be taken alone or with other diabetes medicines.
 
-It is not known if ACTOS is safe and effective in children.
+It is not known if ACTOS is safe and effective in children under the age of 18.
+
+ACTOS is not recommended for use in children.
+
+ACTOS is not for people with type 1 diabetes.
+
+ACTOS is not for people with diabetic ketoacidosis (increased ketones in your blood or urine).
 
 Who should not take ACTOS?
 
@@ -48,12 +54,13 @@ Talk to your doctor before taking ACTOS if you have either of these conditions.
 
 What should I tell my doctor before taking ACTOS?
 
-Before you start taking ACTOS, tell your doctor if you:
+Before you take ACTOS, tell your doctor if you:
 
 - •have heart failure
 - •have type 1 ("juvenile") diabetes or had diabetic ketoacidosis
 - •have a type of diabetic eye disease that causes swelling in the back of the eye (macular edema)
 - •have liver problems
+- •have or have had cancer of the bladder
 - •are pregnant or plan to become pregnant.
   It is not known if ACTOS will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant about the best way to control your blood glucose levels while pregnant
@@ -66,7 +73,7 @@ Before you start taking ACTOS, tell your doctor if you:
   You should not take ACTOS if you breastfeed your baby.
   Talk to your doctor about the best way to control your blood glucose levels while breastfeeding
 
-Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take including prescription and over the counter medicines, vitamins, and herbal supplements.
 
 ACTOS and some of your other medicines can affect each other.
 You may need to have your dose of ACTOS or certain other medicines changed.
@@ -92,35 +99,34 @@ How should I take ACTOS?
 - •Your doctor should do certain blood tests before you start and while you take ACTOS
 - •Your doctor should also do hemoglobin A1C testing to check how well your blood sugar is controlled with ACTOS
 - •Your doctor should check your eyes regularly while you take ACTOS
-- •It may take two to three months to see the full effect of ACTOS on your blood sugar level.
 
 What are the possible side effects of ACTOS?
 
 ACTOS may cause serious side effects including:
 
 - •See "What is the most important information I should know about ACTOS?"
-- •liver problems.
-  Call your doctor right away if you have:
-  - ∘nausea or vomiting
-  - ∘stomach pain
-  - ∘unusual or unexplained tiredness
-  - ∘loss of appetite
-  - ∘dark urine
-  - ∘yellowing of your skin or the whites of your eyes
-- •broken bones (fractures).
-  Usually in the hand, upper arm, or foot in women.
-  Talk to your doctor for advice on how to keep your bones healthy.
-- •bladder cancer.
-  There may be an increased chance of having bladder cancer when you take ACTOS.
-  You should not take ACTOS if you are receiving treatment for bladder cancer.
-  Tell your doctor right away if you have any of the following symptoms of bladder cancer:
-  - ∘blood or a red color in your urine
-  - ∘an increased need to urinate
-  - ∘pain while you urinate
 - •low blood sugar (hypoglycemia).
   This can happen if you skip meals, if you also use another medicine that lowers blood sugar, or if you have certain medical problems.
   Lightheadedness, dizziness, shakiness, or hunger may happen if your blood sugar is too low.
   Call your doctor if low blood sugar levels are a problem for you
+- •liver problems.
+  Call your doctor right away if you have:
+  - onausea or vomiting
+  - ostomach pain
+  - ounusual or unexplained tiredness
+  - oloss of appetite
+  - odark urine
+  - oyellowing of your skin or the whites of your eyes
+- •bladder cancer.
+  There may be an increased chance of having bladder cancer when you take ACTOS.
+  You should not take ACTOS if you are receiving treatment for bladder cancer.
+  Tell your doctor right away if you have any of the following symptoms of bladder cancer:
+  - oblood or a red color in your urine
+  - oan increased need to urinate
+  - opain while you urinate
+- •broken bones (fractures).
+  Usually in the hand, upper arm, or foot in women.
+  Talk to your doctor for advice on how to keep your bones healthy.
 - •diabetic eye disease with swelling in the back of the eye (macular edema).
   Tell your doctor right away if you have any changes in your vision.
   Your doctor should check your eyes regularly
@@ -130,11 +136,13 @@ ACTOS may cause serious side effects including:
 
 The most common side effects of ACTOS include:
 
-- •cold-like symptoms (upper respiratory tract infection)
-- •headache
-- •sinus infection
-- •muscle pain
-- •sore throat
+- 
+  - 
+    - ocold-like symptoms (upper respiratory tract infection)
+    - oheadache
+    - osinus infection
+    - omuscle pain
+    - osore throat
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the side effects of ACTOS.
@@ -145,9 +153,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ACTOS?
 
-- •Store ACTOS at 59°F to 86°F (15°C to 30°C).
+- •Store ACTOS at 68°F to 77°F (20°C to 25°C).
   Keep ACTOS in the original container and protect from light
-- •Keep the ACTOS bottle tightly closed and protect from getting wet (away from moisture and humidity)
+- •Keep the ACTOS bottle tightly closed and keep tablets dry
 - •Keep ACTOS and all medicines out of the reach of children
 
 General information about the safe and effective use of ACTOS
@@ -172,10 +180,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-Revised: August 2012
+Revised: November 2013
 
 ACTOS is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009-2012 Takeda Pharmaceuticals America, Inc.
+© 2009-2013 Takeda Pharmaceuticals America, Inc.
 
-ACT003 R19
+ACT003 R20
