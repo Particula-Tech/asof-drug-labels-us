@@ -1,15 +1,17 @@
+Rx only
+
 PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of ceftriaxone for injection and other antibacterial drugs, ceftriaxone for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ceftriaxone for injection, and other antibacterial drugs, ceftriaxone for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 Flagyl® is a registered trademark of G.D.
 Searle & Co.
 
-07-2011M
+05-2013M
 
-46067707
+46110819
 
-EN-2853
+EN-3290
 
 Manufactured by Sandoz GmbH for Hospira Worldwide, Inc.
 

@@ -4,7 +4,7 @@ Ceftriaxone may be administered intravenously or intramuscularly.
 However, the intent of this Pharmacy Bulk Package is for the preparation of solutions for intravenous infusion only.
 Ceftriaxone for injection should be administered intravenously by infusion over a period of 30 minutes.
 
-Do not use diluents containing calcium, such as Ringer's solution or Hartmann's solution, to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration because a precipitate can form.
+Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration because a precipitate can form.
 Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
 Ceftriaxone must not be administered simultaneously with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y-site.
 However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (see WARNINGS).
@@ -33,7 +33,7 @@ The usual duration of therapy is 7 to 14 days.
 ## Adults
 
 The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection.
-For infections caused by Staphylococcus aureus (MSSA), the recommended daily dose is 2 to 4 grams, in order to achieve >90% target attainment.
+For infections caused by Staphylococcus aureus(MSSA), the recommended daily dose is 2 to 4 grams, in order to achieve >90% target attainment.
 The total daily dose should not exceed 4 grams.
 
 If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
@@ -48,6 +48,9 @@ When treating infections caused by Streptococcus pyogenes, therapy should be con
 No dosage adjustment is necessary for patients with impairment of renal or hepatic function.
 
 ## DIRECTIONS FOR PROPER USE OF PHARMACY BULK PACKAGE
+
+|  | PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION |  |
+| --- | --- | --- |
 
 RECONSTITUTED STOCK SOLUTION MUST BE TRANSFERRED AND FURTHER DILUTED FOR I.V.
 INFUSION
@@ -64,6 +67,9 @@ However, should this not be possible, a maximum time of 4 hours from initial clo
 If reconstitution is necessary, this time limit should begin with the introduction of solvent or diluent into the Pharmacy Bulk Package.
 
 Unused portions of solution held longer than the recommended time periods should be discarded.
+
+|  | Reconstituted Bulk Solutions Should Not Be Used For Direct Infusion. |  |
+| --- | --- | --- |
 
 Transfer individual dose to appropriate intravenous solutions as soon as possible following reconstitution of the bulk package.
 The stability of the solution that has been transferred into a container varies according to diluent, concentration and temperature (see Compatibility and Stability).
@@ -86,7 +92,7 @@ Particulate formation can result.
 
 Ceftriaxone for injection solutions should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs or into diluent solutions other than those listed above, due to possible incompatibility (see WARNINGS).
 
-Ceftriaxone sodium sterile powder should be stored at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature] and protected from light.
+Ceftriaxone sodium sterile powder should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] and protected from light.
 After reconstitution, protection from normal light is not necessary.
 The color of solutions ranges from light yellow to amber, depending on the length of storage, concentration and diluent used.
 

@@ -13,5 +13,3 @@ A small number of cases of fatal outcomes in which a crystalline material was ob
 In some of these cases, the same intravenous infusion line was used for both ceftriaxone and calcium-containing fluids and in some a precipitate was observed in the intravenous infusion line.
 At least one fatality has been reported in a neonate in whom ceftriaxone and calcium-containing fluids were administered at different time points via different intravenous lines; no crystalline material was observed at autopsy in this neonate.
 There have been no similar reports in patients other than neonates.
-
-For information regarding all other patients see WARNINGS.
