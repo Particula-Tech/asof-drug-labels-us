@@ -2,12 +2,12 @@
 
 ## 12.1 Mechanism of Action
 
-Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets.
+Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y12 class of ADP receptors on platelets.
 
 ## 12.2 Pharmacodynamics
 
 Clopidogrel must be metabolized by CYP450 enzymes to produce the active metabolite that inhibits platelet aggregation.
-The active metabolite of clopidogrel selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y 12 receptor and the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex, thereby inhibiting platelet aggregation.
+The active metabolite of clopidogrel selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y12 receptor and the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex, thereby inhibiting platelet aggregation.
 This action is irreversible.
 Consequently, platelets exposed to clopidogrel’s active metabolite are affected for the remainder of their lifespan (about 7 to 10 days).
 Platelet aggregation induced by agonists other than ADP is also inhibited by blocking the amplification of platelet activation by released ADP.
@@ -27,17 +27,17 @@ Absorption After single and repeated oral doses of 75 mg per day, clopidogrel is
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
 Effect of Food Clopidogrel bisulfate can be administered with or without food.
 In a study in healthy male subjects when clopidogrel bisulfate 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
-The active metabolite AUC 0-24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite C max .
+The active metabolite AUC0-24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax.
 Similar results were observed when a clopidogrel bisulfate 300 mg loading dose was administered with a high-fat breakfast.
 Metabolism Clopidogrel is extensively metabolized by two main metabolic pathways: one mediated by esterases and leading to hydrolysis into an inactive carboxylic acid derivative (85% of circulating metabolites) and one mediated by multiple cytochrome P450 enzymes.
 Cytochromes first oxidize clopidogrel to a 2-oxo-clopidogrel intermediate metabolite.
 Subsequent metabolism of the 2-oxo-clopidogrel intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel.
 This metabolic pathway is mediated by CYP2C19, CYP3A, CYP2B6 and CYP1A2.
 The active thiol metabolite binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation for the lifespan of the platelet.
-The C max of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose.
-C max occurs approximately 30 to 60 minutes after dosing.
-In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: increasing the dose by a factor of four results in 2- and 2.7-fold increases in C max and AUC, respectively.
-Elimination Following an oral dose of 14 C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post-dosing.
+The Cmax of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose.
+Cmax occurs approximately 30 to 60 minutes after dosing.
+In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: increasing the dose by a factor of four results in 2- and 2.7-fold increases in Cmax and AUC, respectively.
+Elimination Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post-dosing.
 After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours.
 The half-life of the active metabolite is about 30 minutes.
 Drug Interactions Clopidogrel is metabolized to its active metabolite in part by CYP2C19.

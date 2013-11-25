@@ -1,9 +1,11 @@
 # 11 DESCRIPTION
 
-Clopidogrel bisulfate is a thienopyridine class inhibitor of P2Y 12 ADP platelet receptors.
-Chemically it is methyl (+)-( S )-α-(2-chlorophenyl)-6,7-dihydrothieno[3,2-c]pyridine-5(4 H )-­acetate sulfate (1:1).
-The molecular formula of clopidogrel bisulfate is C 16 H 16 ClNO 2 S•H 2 SO 4 and its molecular weight is 419.9.
-The structural formula is as follows: Clopidogrel bisulfate USP is a white to off-white powder.
+Clopidogrel bisulfate is a thienopyridine class inhibitor of P2Y12 ADP platelet receptors.
+Chemically it is methyl (+)-(S)-⛙-(2-chlorophenyl)-6,7-dihydrothieno[3,2-c]pyridine-5(4H)-­acetate sulfate (1:1).
+The molecular formula of clopidogrel bisulfate is C16H16ClNO2S•H2SO4 and its molecular weight is 419.9.
+The structural formula is as follows:
+
+Clopidogrel bisulfate USP is a white to off-white powder.
 It is practically insoluble in water at neutral pH but freely soluble at pH 1.
 It also dissolves freely in methanol, dissolves sparingly in methylene chloride, and is practically insoluble in ethyl ether.
 It has a specific optical rotation of about +56°.

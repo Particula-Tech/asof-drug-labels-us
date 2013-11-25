@@ -1,6 +1,6 @@
-# 17.6 Medication Guide
+# Medication Guide
 
-Medication Guide Clopidogrel Tablets, USP Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
+Clopidogrel Tablets, USP Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
 What is the most important information I should know about clopidogrel tablets?
@@ -64,7 +64,8 @@ Before you take clopidogrel tablets, tell your doctor if you:
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel bisulfate passes into your breast milk.
   You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
-  You should not do both without talking to your doctor.
+  You should not do both without talking to your doctor
+- have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
 They should talk to the doctor who prescribed clopidogrel tablets for you before you have any surgery or invasive procedure.
@@ -98,6 +99,7 @@ How should I take clopidogrel tablets?
   Your doctor may tell you to stop taking clopidogrel tablets at least 5 days before you have surgery to avoid excessive bleeding during surgery.
 
 What are the possible side effects of clopidogrel tablets?
+
 Clopidogrel tablets can cause serious side effects including:
 
 - See “What is the most important information I should know about clopidogrel tablets?”
@@ -124,26 +126,39 @@ Clopidogrel tablets can cause serious side effects including:
   - vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
+Tell your doctor if you develop an allergic reaction while taking clopidogrel tablets.
+
 These are not all the possible side effects of clopidogrel tablets.
 For more information, ask your doctor or pharmacist.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
 How should I store clopidogrel tablets?
 
 - Store clopidogrel tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 Keep clopidogrel tablets and all medicines out of the reach of children.
-General information about clopidogrel tablets Medicines are sometimes used for purposes other than those listed in a Medication Guide.
+
+General information about clopidogrel tablets
+
+Medicines are sometimes used for purposes other than those listed in a Medication Guide.
 Do not take clopidogrel tablets for a condition for which it was not prescribed.
 Do not give clopidogrel tablets to other people, even if they have the same symptoms that you have.
 They may harm them.
+
 This Medication Guide summarizes the most important information about clopidogrel tablets.
 If you would like more information, talk to your doctor.
 Ask your doctor or pharmacist for information about clopidogrel tablets that was written for healthcare professionals.
+
 For more information, call 1-866-850-2876.
+
 What are the ingredients in clopidogrel tablets?
-Active ingredient: clopidogrel bisulfate Inactive ingredients: crospovidone, hydrogenated castor oil, hydroxypropyl cellulose low substituted, hypromellose 15cP, iron oxide red, lactose monohydrate, mannitol, microcrystalline cellulose, polyethylene glycol 6000, titanium dioxide, and triacetin This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Coumadin ® is a registered trademark of Bristol-Myers Squibb Pharma Company.
-Prilosec ® and Nexium ® are registered trademarks of AstraZeneca.
-Jantoven ® is a registered trademark of USL Pharma.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Issued: March 2012
+
+Active ingredient: clopidogrel bisulfate
+
+Inactive ingredients: crospovidone, hydrogenated castor oil, hydroxypropyl cellulose low substituted, hypromellose 15cP, iron oxide red, lactose monohydrate, mannitol, microcrystalline cellulose, polyethylene glycol 6000, titanium dioxide, and triacetin This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
+Prilosec® and Nexium® are registered trademarks of AstraZeneca.
+Jantoven® is a registered trademark of USL Pharma.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: October 2013

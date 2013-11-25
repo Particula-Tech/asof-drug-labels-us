@@ -22,14 +22,16 @@ Table 4: Outcome Events in the CURE Primary Analysis
 | * Other standard therapies were used as appropriate. † The individual components do not represent a breakdown of the primary and co-primary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
 
 Most of the benefit of clopidogrel bisulfate occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
+
 In CURE, the use of clopidogrel bisulfate was associated with a lower incidence of CV death, MI or stroke in patient populations with different characteristics, as shown in Figure 3.
 The benefits associated with clopidogrel bisulfate were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
 The efficacy of clopidogrel bisulfate was observed independently of the dose of aspirin (75 to 325 mg once daily).
 The use of oral anticoagulants, non-study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
+
 The use of clopidogrel bisulfate in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel bisulfate group, 126 patients [2%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel bisulfate group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
 The use of clopidogrel bisulfate in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2253 patients [36%] in the clopidogrel bisulfate group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4%).
 COMMIT In patients with STEMI, the safety and efficacy of clopidogrel bisulfate were evaluated in the randomized, placebo-controlled, double-blind study, COMMIT.
-COMMIT included 45,852 patients presenting within 24 hours of the onset of the symptoms of myocardial infarction with supporting ECG abnormalities ( i.e. , ST-elevation, ST-depression or left bundle-branch block).
+COMMIT included 45,852 patients presenting within 24 hours of the onset of the symptoms of myocardial infarction with supporting ECG abnormalities (i.e., ST-elevation, ST-depression or left bundle-branch block).
 Patients were randomized to receive clopidogrel bisulfate (75 mg once daily) or placebo, in combination with aspirin (162 mg per day), for 28 days or until hospital discharge, whichever came first.
 The primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
 The patient population included 28% women, 58% age ≥ 60 years (26% age ≥ 70 years), 55% patients who received thrombolytics, 68% who received ACE-inhibitors, and only 3% who underwent PCI.
@@ -45,7 +47,9 @@ Table 5: Outcome Events in the COMMIT Analysis
 
 The effect of clopidogrel bisulfate did not differ significantly in various pre-specified subgroups as shown in Figure 6.
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history (see Figure 7).
-Such subgroup analyses should be interpreted cautiously. * Three similar-sized prognostic index groups were based on absolute risk of primary composite outcome for each patient calculated from baseline prognostic variables (excluding allocated treatments) with a Cox regression model.
+Such subgroup analyses should be interpreted cautiously.
+
+* Three similar-sized prognostic index groups were based on absolute risk of primary composite outcome for each patient calculated from baseline prognostic variables (excluding allocated treatments) with a Cox regression model.
 
 ## 14.2 Recent Myocardial Infarction, Recent Stroke, or Established Peripheral Arterial Disease
 
@@ -70,6 +74,7 @@ Similar results were obtained when all-cause mortality and all-cause strokes wer
 In patients who survived an on-study stroke or myocardial infarction, the incidence of subsequent events was lower in the clopidogrel bisulfate group.
 The curves showing the overall event rate are shown in Figure 8.
 The event curves separated early and continued to diverge over the 3-year follow-up period.
+
 The statistical significance favoring clopidogrel bisulfate over aspirin was marginal (p=0.045).
 However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of clopidogrel bisulfate is substantial.
 The CAPRIE trial included a population that was randomized on the basis of 3 entry criteria.
