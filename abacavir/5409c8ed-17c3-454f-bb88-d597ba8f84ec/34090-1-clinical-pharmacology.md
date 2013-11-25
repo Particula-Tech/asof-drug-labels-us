@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Abacavir is an antiviral agent [See Clinical Pharmacology (12.4)] .
+Abacavir is an antiviral agent [See Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -10,10 +10,10 @@ Pharmacokinetics in Adults: The pharmacokinetic properties of abacavir have been
 The pharmacokinetic properties of abacavir were independent of dose over the range of 300 to 1,200 mg/day.
 Absorption and Bioavailability: Abacavir was rapidly and extensively absorbed after oral administration.
 The geometric mean absolute bioavailability of the tablet was 83%.
-After oral administration of 300 mg twice daily in 20 subjects, the steady-state peak serum abacavir concentration (C max ) was 3 ± 0.89 mcg/mL (mean ± SD) and AUC (0-12 hr) was 6.02 ± 1.73 mcg•hr/mL.
-After oral administration of a single dose of 600 mg of abacavir in 20 subjects, C max was 4.26 ± 1.19 mcg/mL (mean ± SD) and AUC∞ was 11.95 ± 2.51 mcg•hr/mL.
+After oral administration of 300 mg twice daily in 20 subjects, the steady-state peak serum abacavir concentration (Cmax) was 3 ± 0.89 mcg/mL (mean ± SD) and AUC(0-12 hr) was 6.02 ± 1.73 mcg•hr/mL.
+After oral administration of a single dose of 600 mg of abacavir in 20 subjects, Cmax was 4.26 ± 1.19 mcg/mL (mean ± SD) and AUC∞ was 11.95 ± 2.51 mcg•hr/mL.
 Distribution: The apparent volume of distribution after IV administration of abacavir was 0.86 ± 0.15 L/kg, suggesting that abacavir distributes into extravascular space.
-In 3 subjects, the CSF AUC (0-6 hr) to plasma abacavir AUC (0-6 hr) ratio ranged from 27% to 33%.
+In 3 subjects, the CSF AUC(0-6 hr) to plasma abacavir AUC(0-6 hr) ratio ranged from 27% to 33%.
 Binding of abacavir to human plasma proteins is approximately 50%.
 Binding of abacavir to plasma proteins was independent of concentration.
 Total blood and plasma drug-related radioactivity concentrations are identical, demonstrating that abacavir readily distributes into erythrocytes.
@@ -21,12 +21,12 @@ Metabolism: In humans, abacavir is not significantly metabolized by cytochrome P
 The primary routes of elimination of abacavir are metabolism by alcohol dehydrogenase (to form the 5'-carboxylic acid) and glucuronyl transferase (to form the 5'-glucuronide).
 The metabolites do not have antiviral activity.
 In vitro experiments reveal that abacavir does not inhibit human CYP3A4, CYP2D6, or CYP2C9 activity at clinically relevant concentrations.
-Elimination: Elimination of abacavir was quantified in a mass balance trial following administration of a 600 mg dose of 14 C-abacavir: 99% of the radioactivity was recovered, 1.2% was excreted in the urine as abacavir, 30% as the 5'-carboxylic acid metabolite, 36% as the 5'-glucuronide metabolite, and 15% as unidentified minor metabolites in the urine.
+Elimination: Elimination of abacavir was quantified in a mass balance trial following administration of a 600 mg dose of 14C-abacavir: 99% of the radioactivity was recovered, 1.2% was excreted in the urine as abacavir, 30% as the 5'-carboxylic acid metabolite, 36% as the 5'-glucuronide metabolite, and 15% as unidentified minor metabolites in the urine.
 Fecal elimination accounted for 16% of the dose.
-In single-dose trials, the observed elimination half-life (t 1/2 ) was 1.54 ± 0.63 hours.
+In single-dose trials, the observed elimination half-life (t1/2) was 1.54 ± 0.63 hours.
 After intravenous administration, total clearance was 0.8 ± 0.24 L/hr/kg (mean ± SD).
 Effects of Food on Oral Absorption: Bioavailability of abacavir tablets was assessed in the fasting and fed states.
-There was no significant difference in systemic exposure (AUC ∞ ) in the fed and fasting states; therefore, abacavir sulfate tablets may be administered with or without food.
+There was no significant difference in systemic exposure (AUC∞) in the fed and fasting states; therefore, abacavir sulfate tablets may be administered with or without food.
 Systemic exposure to abacavir was comparable after administration of abacavir sulfate oral solution and abacavir sulfate tablets.
 Therefore, these products may be used interchangeably.
 Special Populations: Renal Impairment: The pharmacokinetic properties of abacavir sulfate have not been determined in patients with impaired renal function.
@@ -35,9 +35,9 @@ Hepatic Impairment: The pharmacokinetics of abacavir have been studied in subjec
 Results showed that there was a mean increase of 89% in the abacavir AUC and an increase of 58% in the half-life of abacavir after a single dose of 600 mg of abacavir.
 The AUCs of the metabolites were not modified by mild liver disease; however, the rates of formation and elimination of the metabolites were decreased.
 A dose of 200 mg (provided by 10 mL of abacavir sulfate oral solution) administered twice daily is recommended for patients with mild liver disease.
-The safety, efficacy, and pharmacokinetics of abacavir have not been studied in patients with moderate or severe hepatic impairment; therefore abacavir sulfate is contraindicated in these patients.
-Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir sulfate in 68 pediatric patients.
-Following multiple-dose administration of abacavir sulfate 8 mg/kg twice daily, steady-state AUC (0-12 hr) and C max were 9.8 ± 4.56 mcg•hr/mL and 3.71 ± 1.36 mcg/mL (mean ± SD), respectively [see Use in Specific Populations (8.4)] .
+The safety, efficacy, and pharmacokinetics of abacavir have not been studied in patients with moderate or severe hepatic impairment; therefore, abacavir sulfate is contraindicated in these patients.
+Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir sulfate in 68 pediatric subjects.
+Following multiple-dose administration of abacavir sulfate 8 mg/kg twice daily, steady-state AUC(0-12 hr) and Cmax were 9.8 ± 4.56 mcg•hr/mL and 3.71 ± 1.36 mcg/mL (mean ± SD), respectively [see Use in Specific Populations (8.4)].
 In addition, to support dosing of abacavir sulfate scored tablet (300 mg) for pediatric patients 14 kg to greater than 30 kg, analysis of actual and simulated pharmacokinetic data indicated comparable exposures are expected following administration of 300 mg scored tablet and the 8 mg/kg dosing regimen using oral solution.
 Geriatric Patients: The pharmacokinetics of abacavir sulfate have not been studied in patients over 65 years of age.
 Gender: A population pharmacokinetic analysis in HIV-1-infected male (n = 304) and female (n = 67) subjects showed no gender differences in abacavir AUC normalized for lean body weight.
@@ -49,7 +49,7 @@ Analysis showed no clinically relevant changes in the pharmacokinetics of abacav
 Lamivudine exposure (AUC decreased 15%) and zidovudine exposure (AUC increased 10%) did not show clinically relevant changes with concurrent abacavir.
 Ethanol: Due to the common metabolic pathways of abacavir and ethanol via alcohol dehydrogenase, the pharmacokinetic interaction between abacavir and ethanol was studied in 24 HIV-1-infected male subjects.
 Each subject received the following treatments on separate occasions: a single 600 mg dose of abacavir, 0.7 g/kg ethanol (equivalent to 5 alcoholic drinks), and abacavir 600 mg plus 0.7 g/kg ethanol.
-Coadministration of ethanol and abacavir resulted in a 41% increase in abacavir AUC ∞ and a 26% increase in abacavir t 1/2 .
+Coadministration of ethanol and abacavir resulted in a 41% increase in abacavir AUC∞ and a 26% increase in abacavir t1/2.
 In males, abacavir had no effect on the pharmacokinetic properties of ethanol, so no clinically significant interaction is expected in men.
 This interaction has not been studied in females.
 Methadone: In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy (40 mg and 90 mg daily), with 600 mg of abacavir sulfate twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI: 6% to 42%).
@@ -63,10 +63,10 @@ Abacavir is converted by cellular enzymes to the active metabolite, carbovir tri
 CBV-TP inhibits the activity of HIV-1 reverse transcriptase (RT) both by competing with the natural substrate dGTP and by its incorporation into viral DNA.
 The lack of a 3'-OH group in the incorporated nucleotide analogue prevents the formation of the 5' to 3' phosphodiester linkage essential for DNA chain elongation, and therefore, the viral DNA growth is terminated.
 CBV-TP is a weak inhibitor of cellular DNA polymerases α, β, and γ.
-Antiviral Activity: The antiviral activity of abacavir against HIV-1 was evaluated against a T-cell tropic laboratory strain HIV-1 IIIB in lymphoblastic cell lines, a monocyte/macrophage tropic laboratory strain HIV - 1 BaL in primary monocytes/macrophages, and clinical isolates in peripheral blood mononuclear cells.
-The concentration of drug necessary to effect viral replication by 50 percent (EC 50 ) ranged from 3.7 to 5.8 μM (1 μM = 0.28 mcg/mL) and 0.07 to 1 μM against HIV-1 IIIB and HIV-1 BaL , respectively, and was 0.26 ± 0.18 μM against 8 clinical isolates.
-The EC 50 values of abacavir against different HIV-1 clades (A-G) ranged from 0.0015 to 1.05 μM, and against HIV-2 isolates, from 0.024 to 0.49 μM.
-Abacavir had synergistic activity in cell culture in combination with the nucleoside reverse transcriptase inhibitor (NRTI) zidovudine, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, and the protease inhibitor (PI) amprenavir; and additive activity in combination with the NRTIs didanosine, emtricitabine, lamivudine, stavudine, tenofovir, and zalcitabine.
+Antiviral Activity: The antiviral activity of abacavir against HIV-1 was evaluated against a T-cell tropic laboratory strain HIV-1IIIB in lymphoblastic cell lines, a monocyte/macrophage tropic laboratory strain HIV-1BaL in primary monocytes/macrophages, and clinical isolates in peripheral blood mononuclear cells.
+The concentration of drug necessary to effect viral replication by 50 percent (EC50) ranged from 3.7 to 5.8 μM (1 μM = 0.28 mcg/mL) and 0.07 to 1 μM against HIV-1IIIB and HIV-1BaL, respectively, and was 0.26 ± 0.18 μM against 8 clinical isolates.
+The EC50 values of abacavir against different HIV-1 clades (A-G) ranged from 0.0015 to 1.05 μM, and against HIV-2 isolates, from 0.024 to 0.49 μM.
+The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs) didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine or zidovudine, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, or the protease inhibitor (PI) amprenavir.
 Ribavirin (50 μM) had no effect on the anti–HIV-1 activity of abacavir in cell culture.
 Resistance: HIV-1 isolates with reduced susceptibility to abacavir have been selected in cell culture and were also obtained from subjects treated with abacavir.
 Genotypic analysis of isolates selected in cell culture and recovered from abacavir-treated subjects demonstrated that amino acid substitutions K65R, L74V, Y115F, and M184V/I in RT contributed to abacavir resistance.

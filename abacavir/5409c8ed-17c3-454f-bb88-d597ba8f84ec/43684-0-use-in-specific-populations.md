@@ -20,7 +20,7 @@ Because of both the potential for HIV-1 transmission and the potential for serio
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of abacavir sulfate have been established in pediatric patients 3 months to 13 years of age.
-Use of abacavir sulfate in these age-groups is supported by pharmacokinetic trials and evidence from adequate and well-controlled trials of abacavir sulfate in adults and pediatric patients [see Dosage and Administration (2.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)] .
+Use of abacavir sulfate in these age-groups is supported by pharmacokinetic trials and evidence from adequate and well-controlled trials of abacavir sulfate in adults and pediatric patients [see Dosage and Administration (2.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

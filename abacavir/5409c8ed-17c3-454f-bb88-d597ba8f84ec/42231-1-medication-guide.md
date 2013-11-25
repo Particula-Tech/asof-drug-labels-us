@@ -7,7 +7,7 @@ Be sure to carry your abacavir tablets Warning Card with you at all times.
 What is the most important information I should know about abacavir tablets?
 1.
 Serious allergic reaction (hypersensitivity reaction).
-Abacavir tablets contain abacavir (also contained in EPZICOM ® and TRIZIVIR ® ).
+Abacavir tablets contain abacavir (also contained in EPZICOM® and TRIZIVIR®).
 Patients taking abacavir tablets may have a serious allergic reaction (hypersensitivity reaction) that can cause death.
 Your risk of this allergic reaction is much higher if you have a gene variation called HLA-B*5701.
 Your healthcare provider can determine with a blood test if you have this gene variation.
@@ -24,10 +24,10 @@ If you get a symptom from 2 or more of the following groups while taking abacavi
 A list of these symptoms is on the Warning Card your pharmacist gives you.
 Carry this Warning Card with you at all times.
 If you stop abacavir tablets because of an allergic reaction, never take abacavir sulfate or any other abacavir-containing medicine (EPZICOM and TRIZIVIR) again.
-If you take abacavir sulfate or any other abacavir-containing medicine again after you have had an allergic reaction, within hours you may get life-threatening symptoms that may include very low blood pressure or death .
+If you take abacavir sulfate or any other abacavir-containing medicine again after you have had an allergic reaction, within hours you may get life-threatening symptoms that may include very low blood pressure or death.
 If you stop abacavir tablets for any other reason, even for a few days, and you are not allergic to abacavir tablets, talk with your healthcare provider before taking them again.
 Taking abacavir tablets again can cause a serious allergic or life-threatening reaction, even if you never had an allergic reaction to them before.
-If your healthcare provider tells you that you can take abacavir tablets again, start taking them when you are around medical help or people who can call a healthcare provider if you need one .
+If your healthcare provider tells you that you can take abacavir tablets again, start taking them when you are around medical help or people who can call a healthcare provider if you need one.
 2.
 Lactic Acidosis (buildup of acid in the blood).
 Some human immunodeficiency virus (HIV) medicines, including abacavir tablets, can cause a rare but serious condition called lactic acidosis.
@@ -182,4 +182,4 @@ Active ingredient: abacavir sulfate Inactive ingredients: colloidal silicon diox
 The tablets are coated with a film that is made of hypromellose, iron oxide yellow, polysorbate 80, titanium dioxide, and triacetin.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 EPZICOM and TRIZIVIR are registered trademarks of ViiV Healthcare.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 06/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 11/2013
