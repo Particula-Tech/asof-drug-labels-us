@@ -56,13 +56,9 @@ Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiti
 Additionally, the following adverse reactions, presented by system organ class in alphabetical order, have been identified during post approval use of PYLERA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Severe cutaneous adverse reactions such as Stevens-Johnson syndrome and toxic epidermal necrolysis (potentially fatal) have been reported with the use of PYLERA and the individual components, metronidazole and tetracycline.
-The occurrence of severe cutaneous adverse reactions require immediate discontinuation of PYLERA.
-
 - Gastrointestinal disorders: abdominal distention, eructation, flatulence
 - General disorders and administration site conditions: chest discomfort, fatigue.
 - Infections and infestations: candidiasis.
-- Skin and subcutaneous disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis
 
 ## 6.3 Other Important Adverse Reactions from Labeling for the Individual Components of PYLERA
 
