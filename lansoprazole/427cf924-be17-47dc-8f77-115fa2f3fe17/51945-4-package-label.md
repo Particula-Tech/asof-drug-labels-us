@@ -4,17 +4,9 @@
 
 NDC 0093-7350-56
 
-LANSOPRAZOLE
+LANSOPRAZOLE DELAYED-RELEASE Capsules USP, 15 mg
 
-DELAYED-RELEASE
-
-Capsules USP, 15 mg
-
-PHARMACIST: Dispense the
-
-accompanying Medication Guide
-
-to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
@@ -28,17 +20,9 @@ TEVA
 
 NDC 0093-7351-56
 
-LANSOPRAZOLE
+LANSOPRAZOLE DELAYED-RELEASE Capsules USP, 30 mg
 
-DELAYED-RELEASE
-
-Capsules USP, 30 mg
-
-PHARMACIST: Dispense the
-
-accompanying Medication Guide
-
-to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
